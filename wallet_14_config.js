@@ -1,1 +1,1 @@
-var mnemonic = "unhappy large rose verb utility proud naive ability problem sing near glove";
+var mnemonic = "behind supreme stock mystery quick flavor find taste dinosaur fiscal narrow carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "theme uniform legend april employ ski apology rural fun weapon undo oval";
+var mnemonic = "cancel million payment castle record quarter world library kitten fragile retreat sword";

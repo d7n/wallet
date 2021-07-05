@@ -1,1 +1,1 @@
-var mnemonic = "custom napkin achieve crash option combine hello digital slim sweet inquiry fun";
+var mnemonic = "equip label decrease clap lunar strategy piece sign decade rice utility broom";

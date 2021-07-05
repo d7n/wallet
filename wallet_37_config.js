@@ -1,1 +1,1 @@
-var mnemonic = "wage tip suffer settle tiny hawk little barely sleep valley laugh charge";
+var mnemonic = "uphold detect improve eager emerge ball ripple wrist raw spring obey quiz";

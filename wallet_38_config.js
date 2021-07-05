@@ -1,1 +1,1 @@
-var mnemonic = "minor kidney wrist congress leg until junior indicate shock curve grab future";
+var mnemonic = "hobby shy table capital refuse mention poet album grunt erode pipe maximum";

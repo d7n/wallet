@@ -1,1 +1,1 @@
-var mnemonic = "genius lyrics scout electric boring clean tilt peasant before photo record recall";
+var mnemonic = "frost retire title recipe produce silver obtain vicious wink vicious access inmate";

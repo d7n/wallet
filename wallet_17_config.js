@@ -1,1 +1,1 @@
-var mnemonic = "caution myself enable spread exclude way midnight stock judge leisure river grunt";
+var mnemonic = "pet farm hover fat maximum govern absurd celery repair suit impulse thunder";

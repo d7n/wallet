@@ -1,1 +1,1 @@
-var mnemonic = "unusual order thumb liar kitten zone like drive verb excess midnight funny";
+var mnemonic = "daughter mixed permit near ceiling old situate bounce crawl math into rubber";

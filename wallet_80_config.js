@@ -1,1 +1,1 @@
-var mnemonic = "explain mask rely require viable lawn brave rural series silk agree myth";
+var mnemonic = "tuna pear member lunar sheriff arrive prize coconut oil toward carbon heavy";

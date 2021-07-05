@@ -1,1 +1,1 @@
-var mnemonic = "silver tuna avoid pig embody suspect clip pitch unveil song absurd miracle";
+var mnemonic = "hub warrior market quarter turtle race fly fame top term destroy basic";

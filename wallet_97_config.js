@@ -1,1 +1,1 @@
-var mnemonic = "case sad recycle mechanic trip axis girl topic front cousin input patrol";
+var mnemonic = "pledge reduce general garden equal avoid benefit only prize remain drama alter";

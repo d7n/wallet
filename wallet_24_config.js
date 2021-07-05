@@ -1,1 +1,1 @@
-var mnemonic = "job eye zero web amateur cream gas offer shy surface gallery inherit";
+var mnemonic = "kite advance nature behind work tank force donkey estate kite ripple ceiling";

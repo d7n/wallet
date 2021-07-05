@@ -1,1 +1,1 @@
-var mnemonic = "claim rabbit diamond will rotate rhythm round property forget vacuum mobile rough";
+var mnemonic = "pudding neglect tourist brand one awake broccoli power caught ranch horn rookie";

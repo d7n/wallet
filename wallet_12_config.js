@@ -1,1 +1,1 @@
-var mnemonic = "decline exhibit grant pyramid focus salad hero snake sign inherit vibrant occur";
+var mnemonic = "peanut plug buffalo youth slot trouble scene matter rare early vanish position";

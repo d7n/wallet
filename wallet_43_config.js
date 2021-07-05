@@ -1,1 +1,1 @@
-var mnemonic = "horse push gentle excess push whale mechanic entry key lamp bounce acid";
+var mnemonic = "example dumb inspire present tunnel choice easily rail cream ripple above lonely";

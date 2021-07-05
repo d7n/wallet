@@ -1,1 +1,1 @@
-var mnemonic = "trouble olympic tragic gallery tourist charge giraffe cereal bounce slice bicycle olympic";
+var mnemonic = "mom luggage peanut elbow call clog other scene usual square tennis crush";

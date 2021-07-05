@@ -1,1 +1,1 @@
-var mnemonic = "glance wheel theme until rigid govern income arm interest audit mistake release";
+var mnemonic = "across off orphan across point infant anchor sell outdoor click clerk whip";

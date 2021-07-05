@@ -1,1 +1,1 @@
-var mnemonic = "raccoon fuel evil rocket proof invest sausage believe private bronze unhappy vault";
+var mnemonic = "defy gaze mother solve price security canal tuna noise pelican neck thing";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral fitness obvious script object weird space filter limit dismiss skirt balcony";
+var mnemonic = "fine obscure occur spoon just evidence release brush today brush hidden kit";

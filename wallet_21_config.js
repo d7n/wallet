@@ -1,1 +1,1 @@
-var mnemonic = "energy soup recall month guard long office elephant farm oval gloom useless";
+var mnemonic = "idea kiwi vague gas weapon lava orchard illness dolphin purity earth grunt";

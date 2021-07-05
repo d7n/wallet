@@ -1,1 +1,1 @@
-var mnemonic = "bronze market enemy van ladder duck just equip fame hammer maximum smart";
+var mnemonic = "scheme middle few remain voice tone twin vital hurdle turn captain hope";

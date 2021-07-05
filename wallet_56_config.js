@@ -1,1 +1,1 @@
-var mnemonic = "behind eight sample ecology music dove axis wedding volume ill surprise tip";
+var mnemonic = "fragile true broccoli bitter army pioneer lab plate patient loan sibling anger";

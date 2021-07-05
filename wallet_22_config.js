@@ -1,1 +1,1 @@
-var mnemonic = "present kidney dizzy humor autumn view puppy jump raven wine shiver squeeze";
+var mnemonic = "tilt loan inject goddess genius erosion vocal lizard drop annual school effort";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf fatal unfold select scale dwarf artwork organ height protect surprise food";
+var mnemonic = "hobby neck gravity famous cost color dash kid radar daring library tooth";

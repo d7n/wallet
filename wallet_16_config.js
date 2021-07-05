@@ -1,1 +1,1 @@
-var mnemonic = "pitch injury chimney bacon win rely sell enforce bargain salt weather fatal";
+var mnemonic = "outer forget original save tattoo action garden wagon comfort sing various knife";

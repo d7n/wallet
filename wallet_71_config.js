@@ -1,1 +1,1 @@
-var mnemonic = "feature fossil expand bargain mention wasp lunch fiction gasp brand spirit orange";
+var mnemonic = "describe tennis address parrot chief gap grace settle retire disease story word";

@@ -1,1 +1,1 @@
-var mnemonic = "friend noble gasp zero employ crucial insane autumn scout cost trouble orbit";
+var mnemonic = "legal cat wise coral proof subway dynamic bunker view reject tobacco donkey";

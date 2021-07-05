@@ -1,1 +1,1 @@
-var mnemonic = "banner twelve swim swift strategy language effort result recall awake clinic blast";
+var mnemonic = "elite rigid split legal spider maple rifle grit left install auction prison";

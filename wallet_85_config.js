@@ -1,1 +1,1 @@
-var mnemonic = "clerk update belt resource athlete stove radio any elbow coyote thunder report";
+var mnemonic = "leisure unlock upset indicate object follow side harbor drink left taste mango";

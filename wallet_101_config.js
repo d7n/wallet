@@ -1,1 +1,1 @@
-var mnemonic = "scatter grab sell mail impose pink please number used media grass boss";
+var mnemonic = "gas poem wire edge hold claim toast arctic hand wolf mansion course";

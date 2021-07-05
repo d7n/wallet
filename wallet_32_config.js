@@ -1,1 +1,1 @@
-var mnemonic = "draw parrot slush busy despair language box total egg wing wet power";
+var mnemonic = "oyster tornado found trust upgrade roof offer hobby whale steak talent exhibit";

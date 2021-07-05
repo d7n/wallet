@@ -1,1 +1,1 @@
-var mnemonic = "test dinner deny shrimp mule civil urge gauge dirt absent minute slush";
+var mnemonic = "mistake tree scale company pact habit defy life radar where time brown";

@@ -1,1 +1,1 @@
-var mnemonic = "file ancient share laptop escape strong knock live short explain reject reduce";
+var mnemonic = "six moment food symbol beach payment outer text hospital document print spray";

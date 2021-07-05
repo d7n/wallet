@@ -1,1 +1,1 @@
-var mnemonic = "finger token pepper enrich chronic universe total romance random jaguar defense raven";
+var mnemonic = "rail model language real subject include scrub orchard range recall link siege";

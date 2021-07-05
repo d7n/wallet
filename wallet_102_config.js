@@ -1,1 +1,1 @@
-var mnemonic = "hip bounce escape bargain bulb quit unveil matrix leopard similar coach solid";
+var mnemonic = "cross inflict blame merit magic album way concert wasp gospel riot sketch";

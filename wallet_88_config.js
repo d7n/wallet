@@ -1,1 +1,1 @@
-var mnemonic = "taste spike winner choose taste limit receive more prison soup repeat uphold";
+var mnemonic = "lottery retreat february own fruit upper unfair miracle possible have define sport";

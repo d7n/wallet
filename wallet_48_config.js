@@ -1,1 +1,1 @@
-var mnemonic = "bread wood amused aerobic oak creek you border pepper stuff just process";
+var mnemonic = "morning proud pride bubble intact pig scrap fancy reflect seminar use skill";

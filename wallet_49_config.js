@@ -1,1 +1,1 @@
-var mnemonic = "shift wing latin panic shaft figure supreme woman night mother tourist heart";
+var mnemonic = "title hamster know mercy smile donor myself essence knock screen tumble sponsor";

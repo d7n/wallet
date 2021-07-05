@@ -1,1 +1,1 @@
-var mnemonic = "want february bid online craft walk what bread tip fold labor valid";
+var mnemonic = "solution speed soon train thing segment phrase clinic wine leg embrace picture";

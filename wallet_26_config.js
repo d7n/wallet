@@ -1,1 +1,1 @@
-var mnemonic = "shine hat screen slender wool delay purchase iron enjoy close air work";
+var mnemonic = "knee legend seat diet weird school rain permit harsh plastic example smile";

@@ -1,1 +1,1 @@
-var mnemonic = "axis nuclear quality turn modify turkey ski bench walnut harvest item target";
+var mnemonic = "fall country move doll feature sniff gas punch feed insect awful cargo";

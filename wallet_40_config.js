@@ -1,1 +1,1 @@
-var mnemonic = "debate flight napkin misery reward bicycle boss merry innocent young process legend";
+var mnemonic = "mixed camp portion biology salute vague uncover drive slice husband earth diamond";

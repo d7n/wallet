@@ -1,1 +1,1 @@
-var mnemonic = "move quality fantasy boy filter scrap vibrant journey employ faculty embark velvet";
+var mnemonic = "radar mandate decorate act group film addict enough all copper regret alley";

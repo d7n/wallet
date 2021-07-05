@@ -1,1 +1,1 @@
-var mnemonic = "giant field letter scout grunt this token caught swap present alley please";
+var mnemonic = "model welcome image toast resemble express crawl cabin ivory south clap spoon";

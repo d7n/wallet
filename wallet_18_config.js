@@ -1,1 +1,1 @@
-var mnemonic = "yellow situate witness argue magic comic rude decide fossil cloud city scout";
+var mnemonic = "bulb problem hard wage agent horn shop canyon dinosaur speak forest runway";

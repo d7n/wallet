@@ -1,1 +1,1 @@
-var mnemonic = "report enact virtual forest start agree jeans approve earn energy opera vapor";
+var mnemonic = "bundle include daring reflect cloud grass fresh certain ensure vote trap when";

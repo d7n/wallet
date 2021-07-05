@@ -1,1 +1,1 @@
-var mnemonic = "turkey domain price ring crawl skull black century tourist purchase alley solution";
+var mnemonic = "coach usage car aisle coach tunnel other want rescue original decade raw";

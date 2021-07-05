@@ -1,1 +1,1 @@
-var mnemonic = "venue ghost useless help leg meat snake arctic inside accident tornado off";
+var mnemonic = "whisper wish dizzy obtain avoid boss rare frost wrong stick seed initial";

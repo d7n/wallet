@@ -1,1 +1,1 @@
-var mnemonic = "claim uniform neutral orphan gun you make fun tower horror enlist mango";
+var mnemonic = "sea keen actress labor mouse protect step city ridge legal hurdle wine";

@@ -1,1 +1,1 @@
-var mnemonic = "grace material among bus canyon stable silk fuel caught vicious gospel hub";
+var mnemonic = "faith wide divorce april order jeans cruise staff neutral vintage glory arch";

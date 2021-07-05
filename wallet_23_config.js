@@ -1,1 +1,1 @@
-var mnemonic = "nest work antenna velvet double cricket donate penalty sketch differ else deer";
+var mnemonic = "horse number person coin glove luggage machine outdoor elephant neither sheriff fit";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm panda cushion toast wolf satoshi post business salt chest true promote";
+var mnemonic = "dress mango penalty work razor machine lazy require example oak need heart";

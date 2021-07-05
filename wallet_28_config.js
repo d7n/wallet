@@ -1,1 +1,1 @@
-var mnemonic = "speak twist fossil torch adult claim feature game joy fly they waste";
+var mnemonic = "woman paper dinosaur lizard film target mystery snack they page found shed";

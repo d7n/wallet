@@ -1,1 +1,1 @@
-var mnemonic = "praise dice draft canyon ring hospital payment zebra saddle eyebrow catch mountain";
+var mnemonic = "loyal canoe merry approve happy math august tongue harsh film cart butter";

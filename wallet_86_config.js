@@ -1,1 +1,1 @@
-var mnemonic = "sign siren allow endorse aware undo sport issue report plastic push innocent";
+var mnemonic = "balance place oblige kick upon winter fault distance host uncle equip skin";

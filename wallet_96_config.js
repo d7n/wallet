@@ -1,1 +1,1 @@
-var mnemonic = "hard now wrist carbon unaware innocent coffee version hire laptop sponsor guess";
+var mnemonic = "silly pledge cage diet coconut fresh shed amateur history siege print stadium";

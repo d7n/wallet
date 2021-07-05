@@ -1,1 +1,1 @@
-var mnemonic = "garbage discover supply gorilla boat junior segment country annual type sister casino";
+var mnemonic = "cigar wisdom weapon receive arch bench phrase kiwi able glimpse axis setup";

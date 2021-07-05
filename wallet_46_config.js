@@ -1,1 +1,1 @@
-var mnemonic = "ridge awkward frequent sting forget spy donkey hover light punch actual talk";
+var mnemonic = "arrange hand rice response scale shock unit blind easily junk mirror pigeon";

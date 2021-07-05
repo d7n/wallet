@@ -1,1 +1,1 @@
-var mnemonic = "ring famous shoot exhaust hollow silent sign genius blush catch recall estate";
+var mnemonic = "vibrant swim unknown purse cost hospital divert unable lesson giant assist rug";

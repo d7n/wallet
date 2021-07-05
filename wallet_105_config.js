@@ -1,1 +1,1 @@
-var mnemonic = "wolf recall tribe inside project card galaxy abstract fortune there often such";
+var mnemonic = "gap timber blast dawn multiply differ gasp remind solar bag derive few";

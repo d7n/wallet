@@ -1,1 +1,1 @@
-var mnemonic = "various silk unveil soup you obey innocent quit dove found brick rival";
+var mnemonic = "spell wear crime recipe ability journey combine top idea travel birth toast";

@@ -1,1 +1,1 @@
-var mnemonic = "amused story evidence noise stumble capable gorilla receive attract horse panther myth";
+var mnemonic = "glove olympic cluster pact orphan engage plug quick rebuild cactus suggest agree";

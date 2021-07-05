@@ -1,1 +1,1 @@
-var mnemonic = "giraffe mushroom risk bottom vanish setup panic head reveal hold wire cancel";
+var mnemonic = "exercise access stem circle oven attend fruit lens salad enact wreck legal";

@@ -1,1 +1,1 @@
-var mnemonic = "post embark settle abuse festival feature runway increase tree pull song crime";
+var mnemonic = "soup fragile peasant question rough sword boy shiver wonder account joke bulk";

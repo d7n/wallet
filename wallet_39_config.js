@@ -1,1 +1,1 @@
-var mnemonic = "guard until nose valve cool pilot ten keen mule sound parade curtain";
+var mnemonic = "crucial busy thought spell zoo image slim shield decade anchor satisfy board";

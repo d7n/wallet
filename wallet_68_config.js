@@ -1,1 +1,1 @@
-var mnemonic = "voyage route puzzle entire chair conduct pig enact ability vote one explain";
+var mnemonic = "shine cross predict disagree bring ginger liar novel ceiling aware okay rent";

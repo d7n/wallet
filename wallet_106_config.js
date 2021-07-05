@@ -1,1 +1,1 @@
-var mnemonic = "muffin cradle weekend fiction depart praise young patient multiply ethics visit shadow";
+var mnemonic = "crumble animal feed stairs believe enlist multiply duck reduce vacant awesome leopard";

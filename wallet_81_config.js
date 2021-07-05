@@ -1,1 +1,1 @@
-var mnemonic = "palace blood crunch city pig vote audit method hood final box obscure";
+var mnemonic = "artist document describe where burger later brother enroll lab finish tool cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant arm ability eye grunt tray venue hunt surround vapor ribbon double";
+var mnemonic = "route spot news soap chef split bone neglect crush blind camp become";

@@ -1,1 +1,1 @@
-var mnemonic = "black library oxygen same make sunset toward save blanket hope crush pigeon";
+var mnemonic = "drop unaware woman secret certain scene physical size call dismiss target inner";

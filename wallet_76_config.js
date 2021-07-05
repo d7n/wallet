@@ -1,1 +1,1 @@
-var mnemonic = "equip uniform accuse birth slam oval evolve change satoshi hard burst original";
+var mnemonic = "matrix session argue grief bridge decrease sense stage radar drink month merry";

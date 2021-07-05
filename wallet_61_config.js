@@ -1,1 +1,1 @@
-var mnemonic = "hawk culture kid wrist waste fruit spatial vocal tray ecology all boat";
+var mnemonic = "man spatial math prison excite more wire rapid tobacco health behave model";

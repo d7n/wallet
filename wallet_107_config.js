@@ -1,1 +1,1 @@
-var mnemonic = "loop blue disagree health either entry witness horn cupboard onion spread profit";
+var mnemonic = "inherit will judge sock father diary brand tide eternal write wonder image";

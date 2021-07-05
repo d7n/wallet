@@ -1,1 +1,1 @@
-var mnemonic = "busy rib team infant claw minute ill junior dutch cross barrel input";
+var mnemonic = "april hill aware sphere idea tone attend ride baby intact quick roof";

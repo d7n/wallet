@@ -1,1 +1,1 @@
-var mnemonic = "inquiry loan journey nose arch pony judge night practice attend damp bicycle";
+var mnemonic = "trash riot zebra machine turtle cheese behind special rescue ten attend achieve";

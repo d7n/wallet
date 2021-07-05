@@ -1,1 +1,1 @@
-var mnemonic = "syrup garden glide word gospel repeat key music near history mass ramp";
+var mnemonic = "rapid brass earth tragic awful skate bottom milk bitter chest toss giggle";

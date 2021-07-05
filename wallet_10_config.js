@@ -1,1 +1,1 @@
-var mnemonic = "puppy key peasant return virus measure wagon venue inquiry news wild around";
+var mnemonic = "enhance under special ranch help spread lawn brick visa ask call moral";

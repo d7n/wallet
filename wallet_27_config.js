@@ -1,1 +1,1 @@
-var mnemonic = "journey goddess conduct fold damp episode derive sausage grid fish wet gauge";
+var mnemonic = "syrup original owner fish hold lounge reason federal breeze crater gold color";

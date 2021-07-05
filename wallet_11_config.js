@@ -1,1 +1,1 @@
-var mnemonic = "inject snow harbor onion ordinary velvet flip provide retreat embody spell night";
+var mnemonic = "such clip wheat nose goddess pizza misery rigid cactus palm include space";

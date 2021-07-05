@@ -1,1 +1,1 @@
-var mnemonic = "regular random swear food defense fluid chapter wolf page donkey emerge monkey";
+var mnemonic = "culture tonight into inform approve rather worry lizard cycle setup clerk deny";

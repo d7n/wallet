@@ -1,1 +1,1 @@
-var mnemonic = "illness protect blast debate dog logic eyebrow wash total stove nature scene";
+var mnemonic = "glory mask face tribe clay dry secret divide sweet hammer survey sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "culture trap liberty fit movie book burst leg salad debate wire sunset";
+var mnemonic = "dragon case stumble horse tuna cannon lesson decrease brass fitness sort eye";

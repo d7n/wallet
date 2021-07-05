@@ -1,1 +1,1 @@
-var mnemonic = "region artist juice moral need car hungry hour harsh device jeans idle";
+var mnemonic = "water nurse drift antique cram crystal educate gather purity pool staff token";

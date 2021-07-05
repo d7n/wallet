@@ -1,1 +1,1 @@
-var mnemonic = "clarify urban pistol renew issue steel various draw okay adult gift digital";
+var mnemonic = "cinnamon equal churn object brother parade lunar type bottom clutch manage spice";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium minute unknown false hair abuse kingdom tomorrow key tonight ceiling select";
+var mnemonic = "topple oblige match pull click credit betray girl people top angle visit";

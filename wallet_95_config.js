@@ -1,1 +1,1 @@
-var mnemonic = "mixed deal obvious cost normal patch upper crumble huge exhibit oil image";
+var mnemonic = "bid village gravity rule huge debris focus safe laptop achieve knee match";

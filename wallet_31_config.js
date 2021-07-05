@@ -1,1 +1,1 @@
-var mnemonic = "hen maple humor mansion sand dilemma hazard session switch uncover bargain coin";
+var mnemonic = "want leaf broccoli axis behind question photo fringe alley live donkey kiss";

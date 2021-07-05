@@ -1,1 +1,1 @@
-var mnemonic = "boy moment half main wagon method gossip stool drive ocean invest zebra";
+var mnemonic = "boy grocery water flame empty word clog sport verify foot expect trip";

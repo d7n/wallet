@@ -1,1 +1,1 @@
-var mnemonic = "boost tell path safe coral video cloud pole wish change when segment";
+var mnemonic = "mimic access law blood afraid remember stem fashion reopen faith loud sight";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit pair perfect cool path bitter ten anger nut track employ peace";
+var mnemonic = "panda still twin dragon develop rabbit scale crater wage boss scheme stumble";
