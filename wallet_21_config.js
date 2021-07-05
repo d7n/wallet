@@ -1,1 +1,1 @@
-var mnemonic = "unusual inject announce arctic crucial album same describe broccoli swallow hero animal";
+var mnemonic = "adjust must pencil multiply effort baby involve dawn paddle aim today view";

@@ -1,1 +1,1 @@
-var mnemonic = "auto planet valve scout large prefer wish club damp file busy chimney";
+var mnemonic = "avoid desert flash nation like sibling own tennis display fire erosion cream";

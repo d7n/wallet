@@ -1,1 +1,1 @@
-var mnemonic = "hat vessel sorry scene sentence can funny cruel oxygen issue drastic muscle";
+var mnemonic = "gather mad lion digital infant main find logic post churn boost message";

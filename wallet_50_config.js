@@ -1,1 +1,1 @@
-var mnemonic = "disagree smooth dog give neck cook mind desert oval protect mosquito demise";
+var mnemonic = "report plate luxury fiction rare loop autumn style chaos power urge venue";

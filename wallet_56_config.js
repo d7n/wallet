@@ -1,1 +1,1 @@
-var mnemonic = "already rule enjoy scissors garlic pioneer ladder vivid actress canvas address dirt";
+var mnemonic = "team fiscal pet shrimp outer clock rule kid ranch grant remove sound";

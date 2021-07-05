@@ -1,1 +1,1 @@
-var mnemonic = "aerobic two peace laptop betray blush hold brush lecture catch car unfold";
+var mnemonic = "battle embody random ritual pudding crew elephant shoot ripple airport diamond fever";

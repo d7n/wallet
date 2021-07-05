@@ -1,1 +1,1 @@
-var mnemonic = "toss forest green vibrant before atom like action physical please success monster";
+var mnemonic = "used myth purchase oblige discover error venture snap husband half absorb awkward";

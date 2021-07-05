@@ -1,1 +1,1 @@
-var mnemonic = "limit chimney keep alpha topple early tomorrow lava sudden mom ghost coil";
+var mnemonic = "width exercise label stereo sting message silent truck pull hand raven odor";

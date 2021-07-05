@@ -1,1 +1,1 @@
-var mnemonic = "coast pioneer aerobic token this pull raise review half dash spring glue";
+var mnemonic = "almost rug current little aisle bring admit raccoon wine roast buzz merry";

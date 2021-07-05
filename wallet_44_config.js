@@ -1,1 +1,1 @@
-var mnemonic = "point firm riot transfer egg fence raw used plug resist similar kind";
+var mnemonic = "bulk drive canoe glue amateur excuse orphan among arrow cart jungle wine";

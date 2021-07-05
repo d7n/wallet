@@ -1,1 +1,1 @@
-var mnemonic = "gravity mechanic unfold battle then gold fish damp observe panel scatter release";
+var mnemonic = "brush relief capable blanket genre mesh hire someone admit correct uphold trick";

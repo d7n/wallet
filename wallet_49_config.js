@@ -1,1 +1,1 @@
-var mnemonic = "snow pair monitor sell rose damage isolate hood palm exchange airport scissors";
+var mnemonic = "ghost rail dinosaur stick clerk add reveal tackle excuse blanket seed tired";

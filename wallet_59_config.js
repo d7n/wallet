@@ -1,1 +1,1 @@
-var mnemonic = "sniff process fitness chaos reduce short argue cricket neck imitate spike sheriff";
+var mnemonic = "distance click right credit brick blur spider item zone trap setup swear";

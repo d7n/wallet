@@ -1,1 +1,1 @@
-var mnemonic = "aware wolf invite owner during fit seven collect transfer visa tail cloth";
+var mnemonic = "search march chase turn hood mass orange oval tumble novel unlock live";

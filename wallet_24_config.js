@@ -1,1 +1,1 @@
-var mnemonic = "glare already network slogan amazing pause term ostrich world above ozone mind";
+var mnemonic = "peasant spider desert public clip bridge visit gadget arm concert always neck";

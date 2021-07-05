@@ -1,1 +1,1 @@
-var mnemonic = "jaguar worry exact token wire vault certain bicycle group pistol soon little";
+var mnemonic = "fetch family husband piece series fluid school ozone system purchase drive verify";

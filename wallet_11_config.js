@@ -1,1 +1,1 @@
-var mnemonic = "naive fun floor left square twenty oppose acquire twenty silly chunk adapt";
+var mnemonic = "throw sort moment announce trophy dumb cup sport swap winter consider caution";

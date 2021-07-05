@@ -1,1 +1,1 @@
-var mnemonic = "detect shock man slot toward tide genius camp roof problem bleak thrive";
+var mnemonic = "purpose fiscal oxygen scatter sniff design riot goat dog catalog miracle cancel";

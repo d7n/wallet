@@ -1,1 +1,1 @@
-var mnemonic = "nephew uniform mention scrap sound salt work giggle leisure elbow rack grow";
+var mnemonic = "unique talent sign grid normal analyst bomb check please saddle panic cinnamon";

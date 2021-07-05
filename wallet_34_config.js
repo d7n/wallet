@@ -1,1 +1,1 @@
-var mnemonic = "brain moral law long monster grass flee original remain antique blast tank";
+var mnemonic = "monkey idea custom quarter gorilla custom kingdom woman pink fork ribbon act";

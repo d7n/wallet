@@ -1,1 +1,1 @@
-var mnemonic = "vault culture benefit property seven relax gadget furnace priority tail point habit";
+var mnemonic = "hungry agent snack hip market brick tobacco dress cat erupt kingdom program";

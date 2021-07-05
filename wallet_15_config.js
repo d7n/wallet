@@ -1,1 +1,1 @@
-var mnemonic = "pull salad census mind burden domain escape sure field leopard basket battle";
+var mnemonic = "quiz truth fragile outer then immune faculty song tackle village host become";

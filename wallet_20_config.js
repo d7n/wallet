@@ -1,1 +1,1 @@
-var mnemonic = "bonus abstract gym fresh cradle organ general intact scare border left reveal";
+var mnemonic = "spoon gentle shoot jelly awake receive more capable ketchup wear bid journey";

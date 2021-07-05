@@ -1,1 +1,1 @@
-var mnemonic = "breeze fitness remember adapt brother mobile ostrich benefit dizzy bubble kingdom uphold";
+var mnemonic = "grocery romance pizza knock injury gym scrub mix width strong screen pulse";

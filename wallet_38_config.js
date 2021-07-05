@@ -1,1 +1,1 @@
-var mnemonic = "crater enforce van few liquid fiction fit happy funny move lyrics jacket";
+var mnemonic = "flag wagon powder industry duty fatal north can exist bird ladder stove";

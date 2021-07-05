@@ -1,1 +1,1 @@
-var mnemonic = "miss spoil behave suit practice bottom identify blue merry color gasp muffin";
+var mnemonic = "sword index exit hen vague cost transfer stereo raccoon margin club tooth";

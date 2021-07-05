@@ -1,1 +1,1 @@
-var mnemonic = "damage swift effort width fall blade stem pool champion foam piece goose";
+var mnemonic = "olympic speed bring tuna hold earn legend vicious stand van present innocent";

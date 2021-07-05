@@ -1,1 +1,1 @@
-var mnemonic = "emerge announce grace hungry elbow language wrestle weird resource virtual mountain smooth";
+var mnemonic = "zone output bunker gloom patient crush shadow network amount forum wage peasant";

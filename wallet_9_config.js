@@ -1,1 +1,1 @@
-var mnemonic = "escape column foam risk swim broken bomb oyster ivory spider miss parrot";
+var mnemonic = "various immense lend earn harsh alley reveal jar attitude fever announce episode";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd hat plate display mean stay file crowd legend zone mind client";
+var mnemonic = "sudden panther adult violin cross suit material inject time lunch force various";

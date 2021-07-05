@@ -1,1 +1,1 @@
-var mnemonic = "ship naive chalk help parrot crystal december indoor essay clean cement primary";
+var mnemonic = "acquire glimpse diamond sunny always prepare avoid stage sponsor page apology next";

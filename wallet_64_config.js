@@ -1,1 +1,1 @@
-var mnemonic = "hazard never ill ready happy adapt whale bundle comic cave stairs keep";
+var mnemonic = "renew volume add try connect window tonight brisk faculty exact slow balance";

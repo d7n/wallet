@@ -1,1 +1,1 @@
-var mnemonic = "have sure seat brother eager casino option tray profit oval outdoor found";
+var mnemonic = "visa govern hobby review age cattle tilt kid retreat thank layer arctic";

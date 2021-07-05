@@ -1,1 +1,1 @@
-var mnemonic = "nature involve clean comic kiwi price orphan vessel mom mother lawn mix";
+var mnemonic = "palm laptop actual fury flat absorb uphold cinnamon spoon group fish just";

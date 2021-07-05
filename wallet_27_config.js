@@ -1,1 +1,1 @@
-var mnemonic = "inside sudden wear clown ethics skirt tourist latin cable blur valve capable";
+var mnemonic = "aware width fruit ivory solar list action satisfy decide large eye dizzy";

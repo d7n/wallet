@@ -1,1 +1,1 @@
-var mnemonic = "carry net fancy frost decade identify envelope actual devote sail practice easy";
+var mnemonic = "daughter industry resist erase gauge write aware exile empower pill mystery order";

@@ -1,1 +1,1 @@
-var mnemonic = "youth shove bonus pencil energy travel when glove option bargain firm leg";
+var mnemonic = "salute share whale tumble between kiwi inhale blur section shield sure oak";

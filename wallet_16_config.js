@@ -1,1 +1,1 @@
-var mnemonic = "initial dice science large rug join seed near job devote eight solution";
+var mnemonic = "adjust swamp atom space boost useless welcome pilot cereal people police dwarf";

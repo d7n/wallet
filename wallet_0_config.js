@@ -1,1 +1,1 @@
-var mnemonic = "vessel weapon improve reunion route envelope when decline seat reunion hold second";
+var mnemonic = "elephant boil picture universe miracle topple then moon hockey upon hint blood";

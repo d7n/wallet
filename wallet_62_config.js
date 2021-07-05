@@ -1,1 +1,1 @@
-var mnemonic = "summer around once dynamic pig pioneer critic cable asthma hamster holiday table";
+var mnemonic = "tonight twice board crazy joy custom chronic naive effort welcome diamond warm";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo face anchor leisure wise sponsor struggle meat gesture expand faint grid";
+var mnemonic = "surprise shine cool screen injury engine buddy avoid lottery action cause race";

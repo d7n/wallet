@@ -1,1 +1,1 @@
-var mnemonic = "summer owner rib fold giant hockey ticket armor measure glance cave margin";
+var mnemonic = "armed judge fame engage carbon ensure gun sense festival page cram gallery";

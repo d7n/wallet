@@ -1,1 +1,1 @@
-var mnemonic = "tube near dove dignity glad enable bench chaos taxi tell wait inject";
+var mnemonic = "sausage fish act off analyst clay ankle tag coil tower mom spend";

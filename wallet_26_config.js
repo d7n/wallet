@@ -1,1 +1,1 @@
-var mnemonic = "end width enable melt target arrive snack jaguar cotton garlic silk jacket";
+var mnemonic = "dad elevator palm kitchen okay quarter destroy hood kind fly bench predict";

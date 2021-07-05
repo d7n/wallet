@@ -1,1 +1,1 @@
-var mnemonic = "speak matter guide ensure angry decline wheel learn punch dutch double humble";
+var mnemonic = "goose cage grant crack excite index win faint regular limit ranch minute";

@@ -1,1 +1,1 @@
-var mnemonic = "pause isolate notice this income arch script buffalo planet lyrics wall price";
+var mnemonic = "fee aware lake upon jewel scatter soon middle library ladder flock credit";

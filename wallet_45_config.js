@@ -1,1 +1,1 @@
-var mnemonic = "tourist night begin brave connect select wage hover host motor trade breeze";
+var mnemonic = "fashion adapt waste entry ahead say bird lend celery legend chest sugar";

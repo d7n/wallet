@@ -1,1 +1,1 @@
-var mnemonic = "success bright gauge moment album crane duty undo toward resist vapor father";
+var mnemonic = "movie meat hollow boil lobster clip patient math occur light already arm";

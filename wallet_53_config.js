@@ -1,1 +1,1 @@
-var mnemonic = "power toddler multiply toward absorb gather wide impulse distance lumber grief example";
+var mnemonic = "useless review gate celery script bottom pigeon hotel trial danger injury bid";

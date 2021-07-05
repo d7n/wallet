@@ -1,1 +1,1 @@
-var mnemonic = "hill feed turkey rebel video bulk seat mouse estate sustain wide bless";
+var mnemonic = "because present apart clog tide video settle puzzle offer tragic river toe";

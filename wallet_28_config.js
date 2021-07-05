@@ -1,1 +1,1 @@
-var mnemonic = "matrix square amused inner shell gasp cheap sort aunt voice badge youth";
+var mnemonic = "skill such apology unlock team biology this layer hero penalty mushroom resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "off misery truck together logic pumpkin hold cinnamon cool detail devote bulk";
+var mnemonic = "glory orange immense dry stumble soul deny display office flock save note";

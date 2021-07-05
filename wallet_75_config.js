@@ -1,1 +1,1 @@
-var mnemonic = "romance purpose market balcony child key snake talent snap sentence waste blood";
+var mnemonic = "quality penalty update shadow quality way tragic wrap pill modify nature tree";

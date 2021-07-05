@@ -1,1 +1,1 @@
-var mnemonic = "gain pole tilt color else return cat best april wet save satoshi";
+var mnemonic = "bargain clog paper hint misery suit lobster camp easily settle sustain damage";

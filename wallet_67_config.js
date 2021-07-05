@@ -1,1 +1,1 @@
-var mnemonic = "rail elephant feel destroy arrest liar range belt jump exchange street sausage";
+var mnemonic = "arrange surround cause rare oven buddy pink please inch swallow crush world";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge exile dad survey type save bonus follow ramp pass mutual jealous";
+var mnemonic = "cake hazard trumpet oyster robust loud heart kangaroo carpet whale excess sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom hybrid blame initial accident furnace capital ripple impose flock cherry benefit";
+var mnemonic = "dune runway auction federal output scorpion west word damage frown input vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "island skin then corn notice hotel velvet fatal uncover cute talk enact";
+var mnemonic = "inject logic alarm amount return clutch dumb diet antenna level dream left";

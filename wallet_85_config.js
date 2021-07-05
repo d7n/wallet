@@ -1,1 +1,1 @@
-var mnemonic = "reopen moral pig black leopard sense report bless gift sound together learn";
+var mnemonic = "shallow popular melody favorite polar grocery grit sad hotel favorite average term";

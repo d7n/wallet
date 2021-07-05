@@ -1,1 +1,1 @@
-var mnemonic = "license client will warm wing wise icon excuse pioneer fruit afford lobster";
+var mnemonic = "call father wage elevator rural tackle roast width post lemon same rapid";

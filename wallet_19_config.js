@@ -1,1 +1,1 @@
-var mnemonic = "iron fat suspect cage net filter nominee giraffe jungle bless amateur dose";
+var mnemonic = "winter weather hope argue hollow behind snack firm radio gown exist horse";

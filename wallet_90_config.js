@@ -1,1 +1,1 @@
-var mnemonic = "tray chair tackle gasp shove arctic letter end carry before bomb screen";
+var mnemonic = "saddle will bird fragile else merit tomorrow armed flee exhaust sock scissors";

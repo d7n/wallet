@@ -1,1 +1,1 @@
-var mnemonic = "mask loud tissue twist lumber unlock million strong poet panda mechanic patient";
+var mnemonic = "eyebrow aisle model lumber science club sheriff chaos firm tray select decade";

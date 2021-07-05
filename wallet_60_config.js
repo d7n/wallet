@@ -1,1 +1,1 @@
-var mnemonic = "relief ugly hamster august rally burst alter slim funny hat next must";
+var mnemonic = "project van someone north duty private essay stone curious twin absent amount";

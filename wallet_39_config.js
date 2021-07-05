@@ -1,1 +1,1 @@
-var mnemonic = "base hover robot interest mean nut wreck bread expire deny sign thank";
+var mnemonic = "close vacant fitness stone west define alarm twin crash used angry deliver";

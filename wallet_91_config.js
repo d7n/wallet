@@ -1,1 +1,1 @@
-var mnemonic = "dutch ostrich screen mind base pear large speak purchase rifle draw kangaroo";
+var mnemonic = "enforce act select conduct razor prize cactus radio welcome amount suit resist";

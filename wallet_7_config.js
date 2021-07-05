@@ -1,1 +1,1 @@
-var mnemonic = "client time young turtle element grant lyrics stadium shoot noodle general antique";
+var mnemonic = "cave taste bind noodle hollow effort gym giant school bomb defense fluid";

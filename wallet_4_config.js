@@ -1,1 +1,1 @@
-var mnemonic = "column quit chronic confirm aerobic neglect banner identify time pen burden push";
+var mnemonic = "mosquito wear inflict ready panther shove absurd scrub round program direct grape";

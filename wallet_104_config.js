@@ -1,1 +1,1 @@
-var mnemonic = "gaze truck angle during forum thrive wood item must lesson organ super";
+var mnemonic = "aspect submit ready maple call parent inhale glass push shoulder reveal wage";

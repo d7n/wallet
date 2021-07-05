@@ -1,1 +1,1 @@
-var mnemonic = "subject portion they accuse merit jazz slide nation prefer shield reopen cement";
+var mnemonic = "omit caution harbor drastic food inner happy ketchup obvious holiday capital asthma";

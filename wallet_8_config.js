@@ -1,1 +1,1 @@
-var mnemonic = "surge length bulk buffalo assume dolphin inside promote remove old shadow resource";
+var mnemonic = "special owner siege toilet uncover wish argue arrow purchase august chimney vintage";

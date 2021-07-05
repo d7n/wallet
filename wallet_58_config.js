@@ -1,1 +1,1 @@
-var mnemonic = "parent claw make chicken tourist proof city wide isolate cloud occur clap";
+var mnemonic = "sketch fat buyer feed original sting album century gauge dice advance orient";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb dwarf segment nice pave chaos grow inform achieve flag income vehicle";
+var mnemonic = "play sibling globe furnace vague one weapon roof oven squirrel depth you";

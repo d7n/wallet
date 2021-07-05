@@ -1,1 +1,1 @@
-var mnemonic = "kite festival tank hero cabin into kiwi crouch ranch filter flip pledge";
+var mnemonic = "feature chronic second gasp grape engage section chest print entire neither help";

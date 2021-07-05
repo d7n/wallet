@@ -1,1 +1,1 @@
-var mnemonic = "issue wreck rude thank olympic minimum glide silk mutual margin sea scatter";
+var mnemonic = "rescue fantasy reject car clever property primary federal amused good course draft";

@@ -1,1 +1,1 @@
-var mnemonic = "few bottom fresh few consider tape pool transfer among ostrich eager three";
+var mnemonic = "flee fit quick domain erosion add sun print drink loud laptop another";

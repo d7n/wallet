@@ -1,1 +1,1 @@
-var mnemonic = "slot drum romance acquire artefact hand gas question ski slush fragile beach";
+var mnemonic = "shine chapter enough south ranch yard velvet stomach human robot raccoon banana";

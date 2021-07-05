@@ -1,1 +1,1 @@
-var mnemonic = "change purpose cargo lady police number retreat green garage mimic park autumn";
+var mnemonic = "decade omit scale duty lady such title morning cry sponsor mule balance";

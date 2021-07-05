@@ -1,1 +1,1 @@
-var mnemonic = "camera heart flame robust video village tiger spend lawsuit siren choose describe";
+var mnemonic = "stove blanket concert lake mutual dish cash obey nominee canal keen purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure east garment spy able sustain swear olive urban deal humor return";
+var mnemonic = "kite inform become situate impulse march glimpse shed apple rookie valid protect";

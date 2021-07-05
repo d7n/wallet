@@ -1,1 +1,1 @@
-var mnemonic = "cliff series annual fit section neutral eye velvet fee general cave goat";
+var mnemonic = "endorse scissors heavy deposit tourist bubble engine sweet click fix wisdom auction";

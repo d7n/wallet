@@ -1,1 +1,1 @@
-var mnemonic = "beach tomato future town pass oval spare copy acid diagram abuse bike";
+var mnemonic = "forest abandon gain scissors coral camp gloom delay empower excess ramp fog";

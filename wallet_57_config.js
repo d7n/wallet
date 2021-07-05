@@ -1,1 +1,1 @@
-var mnemonic = "praise solar neutral guide gospel picnic expire pelican canvas unveil phone suit";
+var mnemonic = "make target flat grow cactus volcano autumn shock unveil better iron vote";

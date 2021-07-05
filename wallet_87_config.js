@@ -1,1 +1,1 @@
-var mnemonic = "raise victory soccer survey setup mansion cram provide mean travel power turn";
+var mnemonic = "purity night beef leader damp tornado myth bomb supply giraffe sound dream";

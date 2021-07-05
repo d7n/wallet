@@ -1,1 +1,1 @@
-var mnemonic = "anger capable false kind kick real goat mule panda program purse execute";
+var mnemonic = "hunt envelope enforce merit keen sadness course lion distance bachelor female grocery";

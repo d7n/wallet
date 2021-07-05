@@ -1,1 +1,1 @@
-var mnemonic = "legal daring hat night wage popular outer chef melody dune mesh pulse";
+var mnemonic = "obey ahead essay describe foster supply future side orphan dove wall mistake";

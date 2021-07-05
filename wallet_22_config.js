@@ -1,1 +1,1 @@
-var mnemonic = "soon name then fine seat cost average final off labor run exercise";
+var mnemonic = "gas crawl escape female attack nation sleep eight artefact october assume remove";

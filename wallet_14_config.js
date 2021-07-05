@@ -1,1 +1,1 @@
-var mnemonic = "exist broccoli tribe cabbage stadium mixed radio abstract express nothing clinic napkin";
+var mnemonic = "sure defense festival busy easily exercise real sign tail orient mammal hen";

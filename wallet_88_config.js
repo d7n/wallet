@@ -1,1 +1,1 @@
-var mnemonic = "acquire drive mimic faith length sunset ability blade soda blue auto list";
+var mnemonic = "praise caught there egg verify empty sad strike fruit sense shy lonely";

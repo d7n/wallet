@@ -1,1 +1,1 @@
-var mnemonic = "sponsor solve achieve exhibit drive entry small manual plastic priority earth later";
+var mnemonic = "post unfair jazz sweet height unit wrap turkey swing move traffic glue";

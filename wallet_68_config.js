@@ -1,1 +1,1 @@
-var mnemonic = "actual garden polar gadget reveal appear oyster equal riot swing trap daring";
+var mnemonic = "page lobster attitude detect more border unfair slim pact oblige panic vehicle";

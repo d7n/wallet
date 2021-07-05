@@ -1,1 +1,1 @@
-var mnemonic = "brown mask cheap spot park nuclear able sure beach nerve pear someone";
+var mnemonic = "sketch cinnamon observe south game allow insect royal level island reflect magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "panel deer slow craft sort inside boat change wagon nephew light doll";
+var mnemonic = "divide else drink logic must milk again timber resist squirrel regret family";

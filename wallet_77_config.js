@@ -1,1 +1,1 @@
-var mnemonic = "dance there man peasant begin illness uphold hungry alter fatigue vague page";
+var mnemonic = "monitor local waste palm next wear name candy used album patient dinner";

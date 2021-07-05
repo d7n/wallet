@@ -1,1 +1,1 @@
-var mnemonic = "ginger protect this dry family best option camp member manage planet toddler";
+var mnemonic = "lottery income start style replace exhibit abuse glove demise issue miracle bag";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk give pilot unfair melt man slogan estate card crew noise change";
+var mnemonic = "spike scrap pave appear play quarter resemble describe celery season heavy lab";

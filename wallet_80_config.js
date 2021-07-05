@@ -1,1 +1,1 @@
-var mnemonic = "birth guess matrix opinion second sense code dry click opinion guess envelope";
+var mnemonic = "kid bubble pudding kingdom cute start permit short bus genre ice kiwi";
