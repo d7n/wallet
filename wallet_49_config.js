@@ -1,1 +1,1 @@
-var mnemonic = "until juice anxiety drastic ecology snake excite bachelor harbor sausage easily bubble";
+var mnemonic = "mutual resource rely hawk give thunder skirt human book trash square payment";

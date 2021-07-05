@@ -1,1 +1,1 @@
-var mnemonic = "ramp proof anchor switch famous wet guess grass seed adjust all decrease";
+var mnemonic = "guilt pitch slam critic huge honey joy scare donate credit relief october";

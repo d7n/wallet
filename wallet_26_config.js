@@ -1,1 +1,1 @@
-var mnemonic = "random thing will lift rural hand enable assault obey diary raise faith";
+var mnemonic = "kiss retire indoor spawn edit maid cage nuclear horse book spatial picnic";

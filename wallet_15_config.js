@@ -1,1 +1,1 @@
-var mnemonic = "private gorilla cattle vital girl love tuna cotton attract blame chapter comfort";
+var mnemonic = "lucky exchange denial excess search very poem ancient gasp jar awkward delay";

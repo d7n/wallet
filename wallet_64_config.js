@@ -1,1 +1,1 @@
-var mnemonic = "cost fresh soon rule bitter cheese camp quarter mango umbrella squeeze neglect";
+var mnemonic = "draw check tent trick couch walnut despair property misery solar cement manage";

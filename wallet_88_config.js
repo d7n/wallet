@@ -1,1 +1,1 @@
-var mnemonic = "swift special raw few trim green boost buddy wine people oblige robot";
+var mnemonic = "idea best woman yellow wave trigger swallow boost peace loyal exclude retreat";

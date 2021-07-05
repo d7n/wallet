@@ -1,1 +1,1 @@
-var mnemonic = "trust case lady join defy ethics title length giggle neutral endorse submit";
+var mnemonic = "drink perfect ice divorce chief also burst treat black month garage wet";

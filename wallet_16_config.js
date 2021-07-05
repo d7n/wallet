@@ -1,1 +1,1 @@
-var mnemonic = "any rally surface rival employ sing candy fun orchard tomato shy symptom";
+var mnemonic = "window canyon slight palace human company zoo gaze wrist soda erupt fence";

@@ -1,1 +1,1 @@
-var mnemonic = "snow trip match weasel quantum grape genre push piece middle equal vocal";
+var mnemonic = "happy usage foam tumble original bless rubber verb volume merit dwarf law";

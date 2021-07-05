@@ -1,1 +1,1 @@
-var mnemonic = "unable deny promote skill step romance drop change kangaroo topple sad warrior";
+var mnemonic = "silk cable better brown fringe camp today system ketchup orphan model height";

@@ -1,1 +1,1 @@
-var mnemonic = "mention suit laugh barrel search bicycle daughter broom foster wide stadium spike";
+var mnemonic = "enlist fit witness merge shrug tide access goat popular help sustain envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom slow frown bargain country cattle axis involve beyond orange debate sniff";
+var mnemonic = "squirrel ethics wash must title unusual crazy ostrich provide used cause shoulder";

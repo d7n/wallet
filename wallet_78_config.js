@@ -1,1 +1,1 @@
-var mnemonic = "sport alert timber liquid pet average audit write buddy myth monkey hundred";
+var mnemonic = "style laundry actor eternal alone test hawk kind boost hawk similar afford";

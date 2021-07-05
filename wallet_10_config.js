@@ -1,1 +1,1 @@
-var mnemonic = "man index group pluck attitude next project vapor window link fish kingdom";
+var mnemonic = "swallow gift winner praise monkey urban spider device service middle wedding pyramid";

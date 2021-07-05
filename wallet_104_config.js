@@ -1,1 +1,1 @@
-var mnemonic = "radar square trust expire body onion wash expand flee innocent fuel spot";
+var mnemonic = "pepper struggle conduct nest skull wish unveil plug visual put intact web";

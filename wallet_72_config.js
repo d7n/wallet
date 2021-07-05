@@ -1,1 +1,1 @@
-var mnemonic = "bachelor faith dutch media about wasp cloud ivory jungle adjust asset sunset";
+var mnemonic = "step math blanket abstract hour choice control spread exotic dwarf fork else";

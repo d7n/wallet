@@ -1,1 +1,1 @@
-var mnemonic = "omit wreck theory primary water glory limit brave treat wrestle equip vocal";
+var mnemonic = "caution super earn wild high second drift switch crucial route focus vast";

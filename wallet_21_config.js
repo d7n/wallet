@@ -1,1 +1,1 @@
-var mnemonic = "budget renew captain drastic auction wink attract insect yard spider much inside";
+var mnemonic = "work sustain you ordinary foot only twist shove twice hard march soon";

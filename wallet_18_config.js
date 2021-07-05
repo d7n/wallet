@@ -1,1 +1,1 @@
-var mnemonic = "wood slab average vicious disorder fabric horse odor know patch cute meat";
+var mnemonic = "shield grit breeze lawn bullet flock bridge below test marine ask tattoo";

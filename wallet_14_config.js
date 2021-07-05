@@ -1,1 +1,1 @@
-var mnemonic = "museum above clinic embark rail royal fix scare armed cat sketch royal";
+var mnemonic = "garbage fabric business pizza valley room tomorrow will this monitor shallow talk";

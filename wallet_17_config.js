@@ -1,1 +1,1 @@
-var mnemonic = "guard media bike expose crash express tired wild wine nerve sugar front";
+var mnemonic = "tip column fork time reform ring manage pulp enact pyramid dress flame";

@@ -1,1 +1,1 @@
-var mnemonic = "town already raw carpet tree toy sample book cluster fashion measure gesture";
+var mnemonic = "round special sniff timber online tray forest fiber enforce wealth aim elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "filter pull gift noble absurd item piano minimum drama erosion damage lock";
+var mnemonic = "any enable since across outdoor noble brain denial other humor tired mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard water spoil search funny brick rich poet alien forget bar steel";
+var mnemonic = "soul chair hurry security fiber glue pledge muscle acid bean crouch lawsuit";

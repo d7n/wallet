@@ -1,1 +1,1 @@
-var mnemonic = "pulp more drum misery rotate midnight rescue often tattoo jeans town spoil";
+var mnemonic = "pull draw detail hammer distance vicious grab man cook erode patrol tomorrow";

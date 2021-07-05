@@ -1,1 +1,1 @@
-var mnemonic = "few bunker thumb develop myth hard peasant collect help evolve rent item";
+var mnemonic = "claim black mammal kidney open promote climb permit level answer cute record";

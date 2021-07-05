@@ -1,1 +1,1 @@
-var mnemonic = "shoe century silk citizen industry just sport improve tomorrow slab sniff follow";
+var mnemonic = "patch claim short jaguar target obey just dash chicken nation rich lucky";

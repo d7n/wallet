@@ -1,1 +1,1 @@
-var mnemonic = "sibling rabbit idea asthma add banana pitch enrich awake abstract twin stove";
+var mnemonic = "auction skin glimpse cover elevator race useful often glide park hard stick";

@@ -1,1 +1,1 @@
-var mnemonic = "tree crack subject crush reform eagle patrol dragon crop dad symptom leaf";
+var mnemonic = "bus gift title sand foot hover audit narrow bomb coast dog wood";

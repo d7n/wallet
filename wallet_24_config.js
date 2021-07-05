@@ -1,1 +1,1 @@
-var mnemonic = "client gallery essay aisle little blue bracket pact country local term evoke";
+var mnemonic = "unhappy talk jeans cup remember evoke shock water panel twin play student";

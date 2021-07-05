@@ -1,1 +1,1 @@
-var mnemonic = "neglect various ghost steak power illegal bullet basic oyster hollow mobile release";
+var mnemonic = "pupil diary gold online job key egg spike sudden never airport wrong";

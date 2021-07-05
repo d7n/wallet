@@ -1,1 +1,1 @@
-var mnemonic = "regular term chaos blouse material emerge dance practice strategy trick cat husband";
+var mnemonic = "coast actual regret stadium fortune monkey unaware quote night tortoise element black";

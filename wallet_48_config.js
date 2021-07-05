@@ -1,1 +1,1 @@
-var mnemonic = "loan such slab any monitor produce gadget sugar display pluck alone point";
+var mnemonic = "distance demise resource valley decrease oppose valid bomb arena kick regular fashion";

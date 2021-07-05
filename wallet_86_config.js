@@ -1,1 +1,1 @@
-var mnemonic = "ecology bullet ill play trend hair skull toy fatigue scissors diagram deputy";
+var mnemonic = "people wrist capital possible snake shock typical elbow summer clever tiny corn";

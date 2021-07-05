@@ -1,1 +1,1 @@
-var mnemonic = "goat discover accuse three utility improve shift forget ocean final verify primary";
+var mnemonic = "isolate hunt interest agree nut bargain survey dad sport wood awake dinner";

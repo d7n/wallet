@@ -1,1 +1,1 @@
-var mnemonic = "extra report group measure lift siren life outdoor proof supreme south sell";
+var mnemonic = "arrange announce reopen adapt wash refuse embrace attitude young license interest define";

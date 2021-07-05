@@ -1,1 +1,1 @@
-var mnemonic = "nose ensure shell cushion swear crater dog crew write nation spatial kind";
+var mnemonic = "orange inherit zone office surface other cloth rubber security absent poet tomorrow";

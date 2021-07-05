@@ -1,1 +1,1 @@
-var mnemonic = "broom wedding author palm sad police fragile replace vacant embody admit charge";
+var mnemonic = "stairs vivid mail undo pull wisdom assault train welcome cotton purpose lizard";

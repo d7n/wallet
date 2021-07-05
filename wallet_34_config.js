@@ -1,1 +1,1 @@
-var mnemonic = "blast embody fashion fly exclude volcano lens expose delay pact topple hawk";
+var mnemonic = "type river stereo verify nothing congress bus wedding arm spy near scrub";

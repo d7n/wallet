@@ -1,1 +1,1 @@
-var mnemonic = "exercise stick glide electric van infant weird win visit lawn boring kangaroo";
+var mnemonic = "curtain depend accuse good ostrich color text scout abuse worry pole mercy";

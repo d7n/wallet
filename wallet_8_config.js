@@ -1,1 +1,1 @@
-var mnemonic = "secret inch noble author reflect swift connect action among warrior era patch";
+var mnemonic = "dad knife easy habit fix decline give love airport pill urban exact";

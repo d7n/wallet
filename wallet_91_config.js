@@ -1,1 +1,1 @@
-var mnemonic = "fix village judge myth honey wedding goat tenant because rate museum invest";
+var mnemonic = "provide prize lazy warm flip poet motor girl insect aware crouch fine";

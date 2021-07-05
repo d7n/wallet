@@ -1,1 +1,1 @@
-var mnemonic = "hollow include wasp volume chat buzz wire chef typical need accident clarify";
+var mnemonic = "write debate violin cheese track title danger smart vacuum yard electric file";

@@ -1,1 +1,1 @@
-var mnemonic = "head night luxury size pigeon rib winter shiver ecology mutual own rural";
+var mnemonic = "consider pelican trouble capable dust trophy captain start climb garlic hospital snack";

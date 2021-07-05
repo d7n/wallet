@@ -1,1 +1,1 @@
-var mnemonic = "swarm toe early cereal firm hat click round female gadget core road";
+var mnemonic = "cliff shoot pool mobile stick fiscal universe try convince honey during cheap";

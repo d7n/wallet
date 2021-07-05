@@ -1,1 +1,1 @@
-var mnemonic = "dynamic current sadness fish wagon sense pattern roof occur comic you submit";
+var mnemonic = "afford protect vicious bus adapt rent notable gospel since garlic valve treat";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal give card wedding maid hobby video believe balance barely stadium fee";
+var mnemonic = "differ roof edge siren student increase table swamp release student squirrel crop";

@@ -1,1 +1,1 @@
-var mnemonic = "thing merge high title hobby sail harsh guard lumber grant bundle ahead";
+var mnemonic = "select hole stay festival sing visit nation aware poem force another lunch";

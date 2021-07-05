@@ -1,1 +1,1 @@
-var mnemonic = "undo salad solve outdoor bar other amount melt crowd cinnamon habit wise";
+var mnemonic = "mandate rather nasty assume one segment manual pause toss olympic inherit detect";

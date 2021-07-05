@@ -1,1 +1,1 @@
-var mnemonic = "myth cradle fitness laptop skate cradle cool muscle double enact welcome movie";
+var mnemonic = "danger rival metal marine soda follow argue mind cute also maple test";

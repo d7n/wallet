@@ -1,1 +1,1 @@
-var mnemonic = "clutch zoo tomato six oil travel blind fox banner flat actor bulb";
+var mnemonic = "poem example steel chair charge daughter settle amount check dizzy undo normal";

@@ -1,1 +1,1 @@
-var mnemonic = "wink dolphin insane say organ bread monitor change motion minimum mobile act";
+var mnemonic = "blouse certain race crew glove decline jar large clap file squeeze item";

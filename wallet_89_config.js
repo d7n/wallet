@@ -1,1 +1,1 @@
-var mnemonic = "target age improve recipe price runway cage bundle garlic symptom satoshi accuse";
+var mnemonic = "twist ship balcony educate shiver concert modify squeeze reflect express question hole";

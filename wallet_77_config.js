@@ -1,1 +1,1 @@
-var mnemonic = "document corn lonely monitor sentence rich stable basic present shell fox friend";
+var mnemonic = "convince acoustic stadium spider gallery inside unique lobster easily price iron carry";

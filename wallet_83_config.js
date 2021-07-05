@@ -1,1 +1,1 @@
-var mnemonic = "track saddle seminar true cloud echo sick fruit number remove screen size";
+var mnemonic = "custom denial hobby affair rude brain devote sentence feed auction script cross";

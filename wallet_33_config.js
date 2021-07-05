@@ -1,1 +1,1 @@
-var mnemonic = "metal output early select payment cheap fitness half raven express warrior media";
+var mnemonic = "number pitch ripple lizard thunder roast come merry sniff misery foster demise";

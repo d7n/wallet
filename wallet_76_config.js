@@ -1,1 +1,1 @@
-var mnemonic = "van best chest dwarf empty escape pair lake subject order genre honey";
+var mnemonic = "mimic better fashion tattoo cat calm armor lion palm iron clean bag";

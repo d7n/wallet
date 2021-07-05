@@ -1,1 +1,1 @@
-var mnemonic = "puppy code flee resource decade just flock jelly tell supreme honey friend";
+var mnemonic = "slogan reason team giant inhale page monkey amazing judge job zoo turn";

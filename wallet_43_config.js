@@ -1,1 +1,1 @@
-var mnemonic = "polar volcano hard ten heavy drive chalk club pair nothing skill father";
+var mnemonic = "knock mystery nose resemble lesson kangaroo town brief juice civil congress prize";

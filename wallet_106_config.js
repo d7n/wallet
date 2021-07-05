@@ -1,1 +1,1 @@
-var mnemonic = "length jeans fence speed debate conduct vehicle wasp alone decorate faint boost";
+var mnemonic = "moon much initial execute casual chapter submit kind already bird spoil crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor guitar clinic merge pioneer verify until direct relief title action unveil";
+var mnemonic = "maple matrix glue scene blade earth brush october dress narrow position glow";

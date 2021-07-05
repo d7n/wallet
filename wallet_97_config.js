@@ -1,1 +1,1 @@
-var mnemonic = "wire math choose drum oblige radar ability strong stand strike joke public";
+var mnemonic = "milk chicken bar tired exchange speak odor open cheese combine voyage include";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore zero eight roof shove slight sibling action version race truth blur";
+var mnemonic = "unknown record latin sing shuffle outdoor matrix march pet exercise hair february";

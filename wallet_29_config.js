@@ -1,1 +1,1 @@
-var mnemonic = "regular rescue verify entire write viable humble promote travel tourist advance rescue";
+var mnemonic = "scale help obvious minor comic laundry cross dumb twenty art teach lesson";

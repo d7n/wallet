@@ -1,1 +1,1 @@
-var mnemonic = "country pool salt inspire music design left flee neglect lottery trend maximum";
+var mnemonic = "recall slam stage era ensure sing leisure gadget double sausage bracket park";

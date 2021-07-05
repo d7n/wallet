@@ -1,1 +1,1 @@
-var mnemonic = "heart dragon absurd wheat banner gain drastic illness drum second stomach ceiling";
+var mnemonic = "chase bean ecology fish multiply exclude fat disease bitter allow private ice";

@@ -1,1 +1,1 @@
-var mnemonic = "order chuckle net strike lava girl carry six tape modify roof road";
+var mnemonic = "nephew gadget flat bundle utility flush exclude industry ordinary monkey organ nest";

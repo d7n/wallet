@@ -1,1 +1,1 @@
-var mnemonic = "rebel happy embrace tenant rubber example same balance ranch toy brother column";
+var mnemonic = "govern crystal still say buddy cute rotate strategy chat ceiling dilemma add";

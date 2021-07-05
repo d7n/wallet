@@ -1,1 +1,1 @@
-var mnemonic = "have tragic window erode burger tunnel ocean sheriff end solid include yellow";
+var mnemonic = "dad torch embody cause stool bundle mirror ice pact antenna omit turkey";

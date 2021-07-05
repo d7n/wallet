@@ -1,1 +1,1 @@
-var mnemonic = "wool occur term defy whip regular error double toy liquid sea hire";
+var mnemonic = "pet about hover tip spider inspire cargo treat alarm quiz ill announce";

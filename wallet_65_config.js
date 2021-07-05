@@ -1,1 +1,1 @@
-var mnemonic = "chalk version rhythm ghost jacket destroy garlic source surge curve mechanic meadow";
+var mnemonic = "until improve lawn october lake defy use stable pear pipe daring language";

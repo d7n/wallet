@@ -1,1 +1,1 @@
-var mnemonic = "work chapter second artwork spring dream wheel web popular cover orient prefer";
+var mnemonic = "void moon hospital twelve tag truth pen crumble dad mind heavy orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm false rival nice purse carbon unit purpose lunch more smart wheel";
+var mnemonic = "crowd shock roof couch witness property pear wage taste category reason job";

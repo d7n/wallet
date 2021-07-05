@@ -1,1 +1,1 @@
-var mnemonic = "elite olive behave wife tomorrow ancient old giraffe couple glow space cigar";
+var mnemonic = "spell improve fiber water bundle loan type number shine raise holiday essay";

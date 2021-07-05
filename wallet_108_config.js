@@ -1,1 +1,1 @@
-var mnemonic = "congress book aspect quit speak cruise host broken pigeon bargain aware offer";
+var mnemonic = "rebuild february fever such field object quit fee wait pond episode cream";

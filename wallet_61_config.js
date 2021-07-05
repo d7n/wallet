@@ -1,1 +1,1 @@
-var mnemonic = "flight balance frost rescue life grab room exile cheap edge monster jar";
+var mnemonic = "benefit fancy spell road assault slam require believe hybrid together index dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic romance leopard kiss side often actress possible gap render easily off";
+var mnemonic = "potato robot unveil meadow skirt dove resemble tower rapid funny angle daring";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture shoot satisfy gym urge faint detail road accident lawsuit buyer there";
+var mnemonic = "quick entry race romance case betray kit buzz choose tennis lizard dance";

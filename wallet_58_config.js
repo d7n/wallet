@@ -1,1 +1,1 @@
-var mnemonic = "town harbor erode nice soft appear hundred sniff east position adjust wall";
+var mnemonic = "fix face interest electric penalty share person reason style muffin board cabbage";

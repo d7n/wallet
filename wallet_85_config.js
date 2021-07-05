@@ -1,1 +1,1 @@
-var mnemonic = "hope recipe depart alcohol style virus essay analyst across fade sun first";
+var mnemonic = "vital eager ensure wealth gain gather mansion boss output issue wedding congress";

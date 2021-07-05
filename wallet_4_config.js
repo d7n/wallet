@@ -1,1 +1,1 @@
-var mnemonic = "lady deal predict enter sea segment romance outdoor auto nest wheel country";
+var mnemonic = "gospel auto stool soul recycle boat cattle decorate yard fluid ozone usual";

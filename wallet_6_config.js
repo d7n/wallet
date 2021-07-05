@@ -1,1 +1,1 @@
-var mnemonic = "congress goose help bamboo manage again erosion deer walk manage stage spoon";
+var mnemonic = "stove omit broccoli bean timber hero rich hole gown marriage warrior trade";

@@ -1,1 +1,1 @@
-var mnemonic = "waste flight hurry theme coin case voyage submit forum better right bag";
+var mnemonic = "hint cost review ability illegal attend change unveil sample inch treat drama";

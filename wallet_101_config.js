@@ -1,1 +1,1 @@
-var mnemonic = "attend shock barrel begin blame boy can narrow unaware clap treat lazy";
+var mnemonic = "cross treat economy note maple outdoor orient anger detect sausage accuse regret";

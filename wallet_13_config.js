@@ -1,1 +1,1 @@
-var mnemonic = "whisper true scissors safe multiply brown undo february aspect twenty double innocent";
+var mnemonic = "high fit weather sunny gaze pretty tuition weird viable surge amused dutch";

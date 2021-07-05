@@ -1,1 +1,1 @@
-var mnemonic = "insect fun quality vapor pencil voyage april rural sell olympic slice bag";
+var mnemonic = "awkward fly uncover path quarter dinosaur trim hero electric life punch book";

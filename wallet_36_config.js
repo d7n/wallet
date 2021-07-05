@@ -1,1 +1,1 @@
-var mnemonic = "winner usage core glass pumpkin gorilla token apple mixture noise kick feed";
+var mnemonic = "saddle shoot deal bargain during pulse can assist water vault sorry funny";

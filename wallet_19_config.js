@@ -1,1 +1,1 @@
-var mnemonic = "mosquito attend club sister kite report label clutch dose bachelor apple ability";
+var mnemonic = "appear adult crack word monster bag cream word skull inflict pond diary";

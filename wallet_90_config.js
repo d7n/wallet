@@ -1,1 +1,1 @@
-var mnemonic = "fashion chat over abandon anchor staff list slide april kiss super census";
+var mnemonic = "unhappy flag vocal neck deputy marine object hour creek asthma elevator stereo";

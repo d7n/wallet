@@ -1,1 +1,1 @@
-var mnemonic = "develop shine wing alarm guitar sadness gallery umbrella initial kingdom fuel rotate";
+var mnemonic = "champion push novel silent image increase mixture that catch door cruise face";

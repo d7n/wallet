@@ -1,1 +1,1 @@
-var mnemonic = "coconut neither opinion evidence theory eight table display knife junk humor crouch";
+var mnemonic = "minimum alone inform ridge broccoli acoustic nature history addict own foot divert";

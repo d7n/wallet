@@ -1,1 +1,1 @@
-var mnemonic = "month agree lake flight help dial soft jar south vanish fly file";
+var mnemonic = "test staff produce dizzy craft post chair cream shoot visit win seed";

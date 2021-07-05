@@ -1,1 +1,1 @@
-var mnemonic = "attitude devote struggle tiger recall deputy ostrich run spider comfort plug scale";
+var mnemonic = "shoulder hint dose print giraffe crucial define kid project renew churn bacon";

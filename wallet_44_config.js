@@ -1,1 +1,1 @@
-var mnemonic = "clump arrange few inquiry obey market grunt tunnel wrestle vacant such cable";
+var mnemonic = "arrow vibrant never crucial recipe hope outside arena position switch episode special";

@@ -1,1 +1,1 @@
-var mnemonic = "urban mind six circle cover donate nose pledge leader ice hood manage";
+var mnemonic = "matter champion useful fun van tragic pistol reopen gadget wrap slam turn";
