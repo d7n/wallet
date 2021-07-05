@@ -1,1 +1,1 @@
-var mnemonic = "give lazy learn catch damp firm nature spray child hood drip middle";
+var mnemonic = "artist rely neck below obscure fiction build wheat crucial still garbage loud";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb deposit similar rotate track column tissue remove edit chronic unlock pyramid";
+var mnemonic = "farm lab subway mechanic call deposit hidden depart seed core cactus broccoli";

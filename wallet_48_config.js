@@ -1,1 +1,1 @@
-var mnemonic = "aware auto funny scheme width black midnight chef shaft primary quiz math";
+var mnemonic = "body improve elite nose advance soon improve canoe strategy upset faculty sleep";

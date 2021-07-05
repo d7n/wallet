@@ -1,1 +1,1 @@
-var mnemonic = "vacant timber release wise dizzy fever student view palace pistol thrive end";
+var mnemonic = "mix either off response neck corn salad protect interest ecology grow please";

@@ -1,1 +1,1 @@
-var mnemonic = "market observe together powder tilt hip punch fun bracket list chef blood";
+var mnemonic = "boring kiwi slush pen noise asset elevator hurt stem fiscal gravity powder";

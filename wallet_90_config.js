@@ -1,1 +1,1 @@
-var mnemonic = "buddy seed impulse ocean tomato tiny tray exile ordinary alley man hat";
+var mnemonic = "useful stock prefer curve cabbage slide throw oxygen able bread weasel change";

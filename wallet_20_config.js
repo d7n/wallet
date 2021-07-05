@@ -1,1 +1,1 @@
-var mnemonic = "worth lawn token cook cave salt addict gallery idle verb session dizzy";
+var mnemonic = "fly appear begin crucial firm flavor ship quarter address census advice romance";

@@ -1,1 +1,1 @@
-var mnemonic = "spell flat mushroom depend gym smoke magic lumber find walk track version";
+var mnemonic = "buddy maze cradle crew input allow manual clip involve lake faint sunny";

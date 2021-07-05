@@ -1,1 +1,1 @@
-var mnemonic = "vital nephew put direct hire slab science mean food gather era enact";
+var mnemonic = "easy laundry arctic cousin labor ring chimney broom roast approve rare soup";

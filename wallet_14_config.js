@@ -1,1 +1,1 @@
-var mnemonic = "shell total plug fire print lion bulb addict expire young ancient jeans";
+var mnemonic = "history wild rain text legend prevent interest shift hand faith bus peace";

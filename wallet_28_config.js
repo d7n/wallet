@@ -1,1 +1,1 @@
-var mnemonic = "trim dwarf shiver embrace typical hurdle crater camera test apology able hedgehog";
+var mnemonic = "shallow hat element stamp napkin topic attack monitor dice undo work illness";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub proof tumble speed west clog inspire ocean enemy awesome pigeon arrange";
+var mnemonic = "candy forest clay fossil bag brush subway dutch purse palm annual gold";

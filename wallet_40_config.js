@@ -1,1 +1,1 @@
-var mnemonic = "torch jar identify wall lecture bargain post crumble faith infant breeze risk";
+var mnemonic = "old field develop taxi aware claim stumble bone ridge father ozone mask";

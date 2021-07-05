@@ -1,1 +1,1 @@
-var mnemonic = "capital goddess share execute truth settle shine thumb prefer rare alcohol convince";
+var mnemonic = "pattern habit humble inside turtle edge kitten main boat slab arrest walk";

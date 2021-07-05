@@ -1,1 +1,1 @@
-var mnemonic = "jewel moment shallow fly riot rapid imitate hour true catch thank unfair";
+var mnemonic = "rival search rice business law island taxi stay priority captain discover vivid";

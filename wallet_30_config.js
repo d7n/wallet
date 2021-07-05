@@ -1,1 +1,1 @@
-var mnemonic = "loop genius blush air spin degree strategy small sea electric race hidden";
+var mnemonic = "senior cargo elite tree empower lift citizen render diesel black enact body";

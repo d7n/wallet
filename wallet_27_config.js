@@ -1,1 +1,1 @@
-var mnemonic = "lamp fever design olympic proof term sauce skill remind palm gadget brother";
+var mnemonic = "series merge organ popular diary tiger crime analyst neither hollow basic elder";

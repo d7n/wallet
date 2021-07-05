@@ -1,1 +1,1 @@
-var mnemonic = "minute bullet nuclear identify slab kitchen raw net jelly harvest blush indoor";
+var mnemonic = "save gate leave father cruel trap magic vacant blind border supply borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "car fruit myth cherry believe junk lonely tip interest attack afford engage";
+var mnemonic = "raise myself depth fault bacon else enforce provide speak speak random armor";

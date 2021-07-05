@@ -1,1 +1,1 @@
-var mnemonic = "bomb popular urban lucky they dumb jaguar small balance question stay client";
+var mnemonic = "easily drift select sugar arrest patient inherit shiver father area long isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "husband crouch tenant clutch planet find crater drip black remove affair require";
+var mnemonic = "sea doll eager bridge quality alert spot grain dinner misery leopard legal";

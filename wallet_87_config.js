@@ -1,1 +1,1 @@
-var mnemonic = "armor then humor neck profit indicate farm under warfare way swim glove";
+var mnemonic = "elbow collect gadget crazy cross attend alpha speed blind torch test test";

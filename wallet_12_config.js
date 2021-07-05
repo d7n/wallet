@@ -1,1 +1,1 @@
-var mnemonic = "stick rib poem destroy shiver chase shuffle tenant grow divorce tray merge";
+var mnemonic = "theme road mechanic pottery voice wise margin danger divide design pistol high";

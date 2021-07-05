@@ -1,1 +1,1 @@
-var mnemonic = "insane cactus position admit person text sea wrong october message index gravity";
+var mnemonic = "boost six olive mansion suit boy episode east fly humor swear address";

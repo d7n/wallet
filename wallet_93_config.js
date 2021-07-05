@@ -1,1 +1,1 @@
-var mnemonic = "diet cement dinner camp echo reason cradle potato cheap mesh main museum";
+var mnemonic = "exact give select anger unfold fatal luggage notable arctic warrior always mango";

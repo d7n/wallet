@@ -1,1 +1,1 @@
-var mnemonic = "intact pill salad target ship quantum fault april hover meadow black pony";
+var mnemonic = "accident gun travel rice more prepare trim syrup marine door celery gather";

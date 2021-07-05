@@ -1,1 +1,1 @@
-var mnemonic = "mimic genuine dizzy text accuse near solar mobile afford above guard agree";
+var mnemonic = "order pilot toss neutral into kiss medal timber unfold ceiling clean picnic";

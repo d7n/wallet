@@ -1,1 +1,1 @@
-var mnemonic = "empty sense wife session rookie chunk bracket female unknown kiss confirm wheat";
+var mnemonic = "error dress scare size stage slam miss borrow upon ostrich valve avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "village tree wool asthma because fish symbol hill student action term profit";
+var mnemonic = "hurt search visual pole journey sheriff art benefit width alpha kingdom era";

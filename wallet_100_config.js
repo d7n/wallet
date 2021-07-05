@@ -1,1 +1,1 @@
-var mnemonic = "consider green trigger word juice chat violin salmon material hobby gravity sudden";
+var mnemonic = "inject december major keep dose monitor cloud crumble stem photo kiwi exclude";

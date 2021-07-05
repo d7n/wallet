@@ -1,1 +1,1 @@
-var mnemonic = "anchor harbor vendor person safe guitar disagree flame neglect valid tortoise apology";
+var mnemonic = "crowd during earn crater trade upgrade cabin cinnamon sweet envelope umbrella hill";

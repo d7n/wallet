@@ -1,1 +1,1 @@
-var mnemonic = "suit afraid mail sentence wet front process air material hard depth genuine";
+var mnemonic = "awful slush soldier dose entry pass noble move involve song draw enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "usage minor defy infant six tumble demand blanket obtain parent grow fortune";
+var mnemonic = "caution health moment endless sugar oak casual dance usual lady jump inherit";

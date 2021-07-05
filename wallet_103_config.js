@@ -1,1 +1,1 @@
-var mnemonic = "wash poem say banner mandate escape ocean liar shed six steel waste";
+var mnemonic = "middle advance suspect celery fossil soap carbon refuse flame pottery remain cruel";

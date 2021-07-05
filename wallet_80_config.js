@@ -1,1 +1,1 @@
-var mnemonic = "detail buzz dice happy nice poverty strategy subway sister useless awesome system";
+var mnemonic = "stomach language inch skull clerk shoe sweet gate crop gap satoshi capable";

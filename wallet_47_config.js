@@ -1,1 +1,1 @@
-var mnemonic = "keep impose wagon stomach tilt spoil annual admit silver pigeon frown retire";
+var mnemonic = "mobile life travel below cinnamon inflict wise suffer glue genius chase brain";

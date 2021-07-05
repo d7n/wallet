@@ -1,1 +1,1 @@
-var mnemonic = "crucial input into gold curious peasant remain juice sister bread must sing";
+var mnemonic = "salmon obvious maze wagon trash hour orient solid bridge machine language minor";

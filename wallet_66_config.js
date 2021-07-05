@@ -1,1 +1,1 @@
-var mnemonic = "decrease top employ together steak female attack consider pledge mutual aisle ritual";
+var mnemonic = "empower vocal hockey horn reject ketchup catch marble clinic offer quote eagle";

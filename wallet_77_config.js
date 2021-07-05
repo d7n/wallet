@@ -1,1 +1,1 @@
-var mnemonic = "uncle cradle crater imitate little inside radar anger wheel various clown hawk";
+var mnemonic = "win hand chef assume clay change upon barrel food awesome hair brain";

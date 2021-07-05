@@ -1,1 +1,1 @@
-var mnemonic = "initial model rookie runway fee upper reject oven pulse depend speed loan";
+var mnemonic = "another palace expire guitar globe renew street wool silver drink access wave";

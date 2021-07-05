@@ -1,1 +1,1 @@
-var mnemonic = "hospital yellow piece chat wine join matter oblige weekend primary minor skin";
+var mnemonic = "nerve stadium flat path kind salad dragon start surface spy current quote";

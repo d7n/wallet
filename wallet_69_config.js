@@ -1,1 +1,1 @@
-var mnemonic = "entire involve tuna inflict advance text report circle act ordinary soap mutual";
+var mnemonic = "powder trial rapid festival bronze verify when better tiger electric typical come";

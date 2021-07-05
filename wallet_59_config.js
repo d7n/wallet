@@ -1,1 +1,1 @@
-var mnemonic = "scare gasp scan miss basic sort fatigue adult trust abstract fashion eager";
+var mnemonic = "piece flash ranch issue shell lion season dog roast danger glimpse torch";

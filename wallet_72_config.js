@@ -1,1 +1,1 @@
-var mnemonic = "over song mix fashion target impact oyster student leave faith august secret";
+var mnemonic = "agree exotic match young nothing ostrich brand baby pizza cat behind raw";

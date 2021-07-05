@@ -1,1 +1,1 @@
-var mnemonic = "candy vocal orange system mail output hurry dawn mimic impact pony pattern";
+var mnemonic = "car desert snap face ridge pulp moon behind banner protect artwork door";

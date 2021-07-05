@@ -1,1 +1,1 @@
-var mnemonic = "capable supreme bid can electric burst staff scout autumn wrap accuse cattle";
+var mnemonic = "unknown famous young feel finish effort opera actor differ upper animal adult";

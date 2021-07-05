@@ -1,1 +1,1 @@
-var mnemonic = "rhythm police source banner grape any citizen limit odor wife brief field";
+var mnemonic = "pizza ugly slush member amazing letter sleep globe output mushroom milk demise";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue blossom close tonight misery then danger theory also manage faith warrior";
+var mnemonic = "truth absurd legal tent when name obscure transfer kind abuse tired enrich";

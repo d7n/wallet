@@ -1,1 +1,1 @@
-var mnemonic = "animal energy movie miracle text three vivid still reduce position salute sketch";
+var mnemonic = "bulk again envelope damp switch cook token mimic travel strategy ketchup someone";

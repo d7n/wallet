@@ -1,1 +1,1 @@
-var mnemonic = "sustain buzz limit carbon dolphin stuff hen road mutual demand empty page";
+var mnemonic = "loud fish deny edge forward lawsuit brand top goat salad kind domain";

@@ -1,1 +1,1 @@
-var mnemonic = "melody disagree own vacant remove bring accident sure attract cereal ensure change";
+var mnemonic = "island purity saddle define awkward hill exhibit know funny tail luxury capable";

@@ -1,1 +1,1 @@
-var mnemonic = "series spring peace segment crop pigeon poverty mean casual bulb coffee slush";
+var mnemonic = "give liquid kitten fame assist squirrel okay royal dilemma clown avoid urban";

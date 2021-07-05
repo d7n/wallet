@@ -1,1 +1,1 @@
-var mnemonic = "forget time east squirrel joy quantum extra laugh slow helmet drift stove";
+var mnemonic = "luggage time gloom easily sock memory travel virus flight inmate dawn question";

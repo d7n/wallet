@@ -1,1 +1,1 @@
-var mnemonic = "spawn depth zone original echo mad club family cage lounge number wedding";
+var mnemonic = "people message sand grant come verb elephant famous indoor coast sing cat";

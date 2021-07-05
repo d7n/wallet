@@ -1,1 +1,1 @@
-var mnemonic = "future click exist utility fluid arrange reduce describe grit step return coyote";
+var mnemonic = "endless vibrant cram surge lend crime service actual three stock observe act";

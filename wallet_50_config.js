@@ -1,1 +1,1 @@
-var mnemonic = "access fiscal soldier census boil quit onion derive diary fever yellow blame";
+var mnemonic = "trash toss sausage gossip blind lobster battle foam diet style coil uniform";

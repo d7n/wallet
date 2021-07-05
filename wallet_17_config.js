@@ -1,1 +1,1 @@
-var mnemonic = "riot remain goat celery name foam seven smile ostrich quantum kiss gain";
+var mnemonic = "north dash fine need crush you unhappy garbage parrot trap future edge";

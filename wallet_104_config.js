@@ -1,1 +1,1 @@
-var mnemonic = "weather coach link clutch mushroom music sniff useless enrich number phone cute";
+var mnemonic = "have clever salute replace boss pretty negative random unknown drill kid weekend";

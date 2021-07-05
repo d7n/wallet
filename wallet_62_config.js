@@ -1,1 +1,1 @@
-var mnemonic = "tell since agree body round marine angry ball happy love mask media";
+var mnemonic = "convince pride crucial inspire calm wait happy clarify term truck maple buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "silk horror melody detail ladder tape onion badge pattern lunar pig tuition";
+var mnemonic = "gather club earth vicious lumber keen solar orbit degree unfair keen addict";

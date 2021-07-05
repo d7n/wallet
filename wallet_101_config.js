@@ -1,1 +1,1 @@
-var mnemonic = "blame under churn spider tumble pair inherit chaos minimum spawn amazing correct";
+var mnemonic = "foster idea run drill face abandon endless unlock buyer message coconut draft";

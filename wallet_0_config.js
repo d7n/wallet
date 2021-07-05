@@ -1,1 +1,1 @@
-var mnemonic = "matrix drama flower bus laptop solar brand learn give velvet wrap subway";
+var mnemonic = "finish pledge wreck public pupil shoot tail mom feature arrest swarm canvas";

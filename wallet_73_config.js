@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon stick jealous great diary offer balcony moral today because screen teach";
+var mnemonic = "earn priority couple north fever identify wagon useless health body remember theory";

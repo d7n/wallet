@@ -1,1 +1,1 @@
-var mnemonic = "drip hand script picture credit position bounce tooth nice pride arctic project";
+var mnemonic = "under other oxygen giraffe write submit harbor staff width kit exhaust flat";

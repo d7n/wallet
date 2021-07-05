@@ -1,1 +1,1 @@
-var mnemonic = "fault evoke carbon treat common identify electric buzz unhappy year under skull";
+var mnemonic = "distance silk slab embody chair sand pepper twice nut myth weapon grace";

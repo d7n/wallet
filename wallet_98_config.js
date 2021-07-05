@@ -1,1 +1,1 @@
-var mnemonic = "confirm tobacco case twice curious dry balance thumb drink save swear second";
+var mnemonic = "adult nut dynamic trash turtle document tree yellow vendor trend jelly auto";

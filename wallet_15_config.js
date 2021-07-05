@@ -1,1 +1,1 @@
-var mnemonic = "plug cash audit history actor agent deliver ready slight mean unlock reject";
+var mnemonic = "unfair blanket cement panel degree net decorate grape engage swear breeze undo";

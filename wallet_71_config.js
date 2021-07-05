@@ -1,1 +1,1 @@
-var mnemonic = "inhale solar trash gallery prize fabric nephew target around donkey sting credit";
+var mnemonic = "favorite assume eight below walnut roof crouch problem limit barrel wait win";

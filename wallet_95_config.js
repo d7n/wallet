@@ -1,1 +1,1 @@
-var mnemonic = "recycle blanket output pink effort always tonight double tragic fit air moment";
+var mnemonic = "trumpet sorry neglect danger volcano monkey author aware stock cup news exchange";

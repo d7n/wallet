@@ -1,1 +1,1 @@
-var mnemonic = "song fashion boring cloth please food flush virtual address will peace subject";
+var mnemonic = "onion alien alarm spin destroy flight survey off upon broken scare stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "toss ecology around song segment such clip amazing vivid can joy hire";
+var mnemonic = "offer buyer else bracket fortune diet entry correct blast lake luggage reopen";

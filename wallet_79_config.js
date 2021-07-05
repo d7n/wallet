@@ -1,1 +1,1 @@
-var mnemonic = "tunnel club pill labor churn lecture scorpion strong canyon dismiss model oven";
+var mnemonic = "endless asset alert transfer stand prosper amazing endorse project zero vocal river";

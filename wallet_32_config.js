@@ -1,1 +1,1 @@
-var mnemonic = "industry gallery sniff extend garment race knock horn stereo tiny please stable";
+var mnemonic = "click promote stage sustain much bird danger return valve beef hazard monster";

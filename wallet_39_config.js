@@ -1,1 +1,1 @@
-var mnemonic = "post fragile dynamic forum fine dream toddler shoe favorite type together pilot";
+var mnemonic = "repeat short derive drop spirit slice thank select weekend corn child also";

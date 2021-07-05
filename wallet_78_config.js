@@ -1,1 +1,1 @@
-var mnemonic = "envelope harvest favorite warrior public primary loop wash below bacon clump damage";
+var mnemonic = "begin club ten cup pull pulse crash obtain bone payment blouse skull";

@@ -1,1 +1,1 @@
-var mnemonic = "light thumb physical adapt gate neglect gasp noble able afford tail raw";
+var mnemonic = "entry announce walk much future sister popular like eye regular soldier cave";

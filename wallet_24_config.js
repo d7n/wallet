@@ -1,1 +1,1 @@
-var mnemonic = "toe speak grow theme search dentist view outdoor toe tool happy aim";
+var mnemonic = "avoid hair useless peanut asset tooth rule throw metal essence swing grocery";

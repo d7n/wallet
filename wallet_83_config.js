@@ -1,1 +1,1 @@
-var mnemonic = "praise retreat gap cereal lesson dismiss chunk amused figure cloth there office";
+var mnemonic = "siege bitter direct sick twelve casual grass prepare primary pill check omit";

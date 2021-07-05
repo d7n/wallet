@@ -1,1 +1,1 @@
-var mnemonic = "woman indicate talent screen rebuild side shift board six mechanic post present";
+var mnemonic = "link success damage nominee awkward voice aim flag vanish south trigger funny";

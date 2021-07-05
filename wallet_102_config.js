@@ -1,1 +1,1 @@
-var mnemonic = "diamond other test wild attend prevent session garage inside coast scale rapid";
+var mnemonic = "beach mimic pass online move vehicle steel material apology behind dial trade";

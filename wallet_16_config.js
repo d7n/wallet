@@ -1,1 +1,1 @@
-var mnemonic = "escape filter federal borrow tuition plastic snake kidney retire unfair move nature";
+var mnemonic = "swallow aim wink village scrub earth faith such desk furnace long buyer";

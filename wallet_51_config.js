@@ -1,1 +1,1 @@
-var mnemonic = "amateur dry mother glide awkward forest energy flame wife educate cluster fatal";
+var mnemonic = "service asthma under furnace beauty dawn denial nest spot envelope crisp target";

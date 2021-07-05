@@ -1,1 +1,1 @@
-var mnemonic = "rent basket uphold foam sorry artwork cheese output nature warrior kangaroo wave";
+var mnemonic = "rare saddle horn delay weird flash current boy wave angry coral choose";

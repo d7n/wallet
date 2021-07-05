@@ -1,1 +1,1 @@
-var mnemonic = "transfer error enforce coral license speed blame virtual alpha critic armed front";
+var mnemonic = "cushion moment loop usage later bike attract soccer glide october grid length";

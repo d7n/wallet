@@ -1,1 +1,1 @@
-var mnemonic = "deliver stay meadow scrap fly chief local lady you tiny task have";
+var mnemonic = "often gesture custom february alert mystery early tennis broken broken orbit confirm";

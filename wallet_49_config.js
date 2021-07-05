@@ -1,1 +1,1 @@
-var mnemonic = "napkin maid country brass jeans speed seven original dolphin maze solve fine";
+var mnemonic = "tuna ride pet pact admit sorry smile vacant subway together tobacco glance";

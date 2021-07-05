@@ -1,1 +1,1 @@
-var mnemonic = "scorpion velvet want dress memory region device clarify ignore dad tray fancy";
+var mnemonic = "unable run right sentence repair sport forward slogan absent radio scrap original";

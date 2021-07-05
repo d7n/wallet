@@ -1,1 +1,1 @@
-var mnemonic = "exclude flush purity knee nominee skate swallow inch humble spatial return output";
+var mnemonic = "funny federal wrist error disagree visual keen unusual lobster venture festival spare";

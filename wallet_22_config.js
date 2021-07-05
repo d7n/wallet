@@ -1,1 +1,1 @@
-var mnemonic = "umbrella kind right answer legal panel glass zero enable rack slim plug";
+var mnemonic = "umbrella mix patient jazz problem electric intact brass fade quick range wrong";
