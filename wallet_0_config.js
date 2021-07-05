@@ -1,1 +1,1 @@
-var mnemonic = "now jazz usual quit verb ramp tuna spike squirrel debate lift notable";
+var mnemonic = "august napkin tunnel one comic winter reduce result final color nominee razor";

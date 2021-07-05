@@ -1,1 +1,1 @@
-var mnemonic = "gaze metal venue romance outdoor turtle owner hen toss case decrease deer";
+var mnemonic = "pluck liquid ginger sudden effort crash edge often employ stadium cram clarify";

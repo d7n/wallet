@@ -1,1 +1,1 @@
-var mnemonic = "shallow sorry zone screen cook make rose yellow correct vehicle away bulk";
+var mnemonic = "olympic uncle portion reform vibrant lock enhance choice tortoise exact visit lucky";

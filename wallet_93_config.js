@@ -1,1 +1,1 @@
-var mnemonic = "this bridge correct roof case pioneer during enhance guitar crush flee cargo";
+var mnemonic = "vintage roast random yard disease swarm twice cover misery ski luggage virtual";

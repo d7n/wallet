@@ -1,1 +1,1 @@
-var mnemonic = "shoe blame castle stem country couch retreat day actor admit tank person";
+var mnemonic = "spice senior belt immense rural spread hurdle siege caught helmet follow kiwi";

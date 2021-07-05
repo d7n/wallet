@@ -1,1 +1,1 @@
-var mnemonic = "cushion tail off unfold obvious luxury blossom hedgehog wrestle this fluid cover";
+var mnemonic = "oak prefer error error special lava argue whip ordinary warrior slide list";

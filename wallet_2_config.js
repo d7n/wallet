@@ -1,1 +1,1 @@
-var mnemonic = "soap cattle cotton slim any concert require meadow shrimp predict assault imitate";
+var mnemonic = "install initial chase rude climb improve parade garbage pig window dismiss tray";

@@ -1,1 +1,1 @@
-var mnemonic = "injury permit what betray achieve idle second captain life rose return vehicle";
+var mnemonic = "isolate rookie seminar always element lady kingdom diary creek race modify patrol";

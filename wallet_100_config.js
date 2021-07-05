@@ -1,1 +1,1 @@
-var mnemonic = "mouse melody fence brief wood lounge bottom ticket route kite wreck member";
+var mnemonic = "insect ill dolphin slogan small fiscal topic whisper market ridge sunset maple";

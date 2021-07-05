@@ -1,1 +1,1 @@
-var mnemonic = "day blur style winner among present seat example diesel lobster render cement";
+var mnemonic = "valley satisfy permit tongue family firm ship tired island cycle width deliver";

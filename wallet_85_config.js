@@ -1,1 +1,1 @@
-var mnemonic = "hint edge snap digital fantasy involve fetch smile urge fever asset arrive";
+var mnemonic = "unhappy giraffe snake pen wheel build stay come sadness equal you cabin";

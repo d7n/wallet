@@ -1,1 +1,1 @@
-var mnemonic = "clean silent science frost include caught pulse begin method amused satisfy raccoon";
+var mnemonic = "safe daring member robot mercy illegal crowd meadow topic essay pull negative";

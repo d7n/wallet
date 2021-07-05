@@ -1,1 +1,1 @@
-var mnemonic = "digital jungle near left wool layer ginger need art grain one army";
+var mnemonic = "column addict festival demand giraffe excuse base mixed drum fox noodle print";

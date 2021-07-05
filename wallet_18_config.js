@@ -1,1 +1,1 @@
-var mnemonic = "mobile gallery elder harbor analyst choice turtle call group rocket agree neither";
+var mnemonic = "scrap connect photo unhappy tooth canoe merit reunion skull forward champion trophy";

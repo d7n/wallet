@@ -1,1 +1,1 @@
-var mnemonic = "pause horror wreck pause truly local lake food gym tip neglect seed";
+var mnemonic = "title give human explain tribe garlic review give era boil table cheese";

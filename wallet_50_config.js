@@ -1,1 +1,1 @@
-var mnemonic = "typical below only cave tattoo crucial wear insane pair child pepper chaos";
+var mnemonic = "describe gown deliver copy actor belt menu recipe rabbit lens father jar";

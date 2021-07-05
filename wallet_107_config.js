@@ -1,1 +1,1 @@
-var mnemonic = "slam become power dignity gasp fall hub rack prize immense convince truck";
+var mnemonic = "clip gravity lobster gun own fiction attack fossil dust asthma glimpse pill";

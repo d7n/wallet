@@ -1,1 +1,1 @@
-var mnemonic = "drill budget orchard vicious easy skull vacant toward mercy submit plug gloom";
+var mnemonic = "idle found foam aspect flush kit brain boat puppy lamp fox girl";

@@ -1,1 +1,1 @@
-var mnemonic = "honey target unfold clock clerk mistake march begin volume real garment company";
+var mnemonic = "since planet sword settle crew frequent tortoise remove school traffic neglect public";

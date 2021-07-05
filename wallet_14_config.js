@@ -1,1 +1,1 @@
-var mnemonic = "insane roast flag visit grit find ladder enemy shuffle base vote what";
+var mnemonic = "music maze load vehicle broken walk lens cream lend scan forward foot";

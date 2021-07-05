@@ -1,1 +1,1 @@
-var mnemonic = "truly own update control panic miss enforce fuel hobby range service rent";
+var mnemonic = "office ensure fence often rare elite pause smile brief various enhance dance";

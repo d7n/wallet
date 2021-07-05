@@ -1,1 +1,1 @@
-var mnemonic = "common crop great firm crater stumble silent orient jaguar tree diary limit";
+var mnemonic = "act trumpet supreme alcohol disease swear argue width aim wrap garlic seek";

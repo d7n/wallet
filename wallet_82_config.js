@@ -1,1 +1,1 @@
-var mnemonic = "metal vicious exact inflict gadget crack speak antique steel ancient across chest";
+var mnemonic = "pumpkin cement vehicle ramp defy plastic team ostrich mosquito soccer genre omit";

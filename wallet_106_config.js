@@ -1,1 +1,1 @@
-var mnemonic = "maximum educate immense foam dad orbit plug hollow embrace inform velvet radar";
+var mnemonic = "melody social genius drink vast obvious nation easy tuna illness clean possible";

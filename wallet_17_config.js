@@ -1,1 +1,1 @@
-var mnemonic = "stereo wet arrest climb motor wall saddle circle bracket napkin icon poverty";
+var mnemonic = "shell way unusual evil language slim crowd august ahead stumble fresh tackle";

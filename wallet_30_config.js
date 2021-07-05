@@ -1,1 +1,1 @@
-var mnemonic = "nasty gold pond trust snow version dove spatial walk sight crawl road";
+var mnemonic = "unit pudding misery tired very toward give engine sample purse copper absurd";

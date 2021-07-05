@@ -1,1 +1,1 @@
-var mnemonic = "real allow shift drill embody steel price runway calm tongue rabbit inside";
+var mnemonic = "eagle interest erase witness venue rubber loop side special worry erupt carbon";

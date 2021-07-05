@@ -1,1 +1,1 @@
-var mnemonic = "satoshi common album staff glass loop copy wait rubber sick worth little";
+var mnemonic = "cram ghost grit praise indicate chronic update convince hunt jelly knife bird";

@@ -1,1 +1,1 @@
-var mnemonic = "title minute weapon warfare blue advance grass faculty cement fame ancient rhythm";
+var mnemonic = "symptom item zone phrase desk right noble cage minute vast heart soft";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe gallery trial magnet call quit under neck image sort expose invest";
+var mnemonic = "neck project tape potato charge crucial issue season dune empty unlock marine";

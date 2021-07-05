@@ -1,1 +1,1 @@
-var mnemonic = "grain napkin game sleep stone idea end produce visit toy buddy luxury";
+var mnemonic = "assault void grab earn duty sound illness wreck update leisure zoo head";

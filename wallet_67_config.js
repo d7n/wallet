@@ -1,1 +1,1 @@
-var mnemonic = "dice seminar sick floor flash orange exhaust element obscure vital north owner";
+var mnemonic = "marriage ride lion again borrow action master obvious endorse squirrel spoil over";

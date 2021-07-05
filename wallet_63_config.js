@@ -1,1 +1,1 @@
-var mnemonic = "awkward human horn extend settle crystal library panda giant screen thrive consider";
+var mnemonic = "plunge report beauty amazing fiscal turkey same debate lift liberty item cattle";

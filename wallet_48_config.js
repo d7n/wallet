@@ -1,1 +1,1 @@
-var mnemonic = "pilot hidden collect course vacant brave absorb initial nominee patch valve pencil";
+var mnemonic = "cable input syrup negative avoid virtual barely scheme bean entire trade original";

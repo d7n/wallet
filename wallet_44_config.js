@@ -1,1 +1,1 @@
-var mnemonic = "lunch transfer circle reveal bachelor leisure autumn innocent sauce champion there pipe";
+var mnemonic = "oppose income jewel album seven weird total matrix car burger spoon pause";

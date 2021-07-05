@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog uncle novel brick memory sugar dutch need illegal poem warrior slab";
+var mnemonic = "butter vanish primary access thunder cram draw cheap odor paper chicken neck";

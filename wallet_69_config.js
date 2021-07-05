@@ -1,1 +1,1 @@
-var mnemonic = "human wing grid knee ignore author author fiction boat install horror offer";
+var mnemonic = "hero kid theme regular clay ill input zero fit palace hire raw";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest spike warm group fix blood limb rug laugh jar jealous cage";
+var mnemonic = "lock salt seek truth power belt room flame that square disorder page";

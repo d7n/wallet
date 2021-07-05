@@ -1,1 +1,1 @@
-var mnemonic = "hamster trial border educate eternal symbol derive giraffe peace summer settle pulp";
+var mnemonic = "agree sugar baby ginger name elite gather must mistake spare autumn harbor";

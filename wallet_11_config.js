@@ -1,1 +1,1 @@
-var mnemonic = "mouse crumble lady lab gorilla keen toilet angry coach dust quality mule";
+var mnemonic = "program hour parent purpose sponsor fever sing affair dawn exercise animal turn";

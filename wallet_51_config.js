@@ -1,1 +1,1 @@
-var mnemonic = "host state dance camp grape drastic alien cup glare canoe enjoy museum";
+var mnemonic = "half pull current jaguar cheap broccoli long tongue tongue coyote alpha ozone";

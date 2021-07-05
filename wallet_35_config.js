@@ -1,1 +1,1 @@
-var mnemonic = "slot sight run degree rubber learn replace initial snake pigeon eager life";
+var mnemonic = "tired wild gold honey stamp tumble scissors pretty fork shoulder blast short";

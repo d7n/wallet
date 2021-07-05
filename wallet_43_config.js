@@ -1,1 +1,1 @@
-var mnemonic = "effort renew gap delay waste shoulder royal nation six onion dose addict";
+var mnemonic = "carpet federal physical deal coral cook bulb vault weasel horn drift uniform";

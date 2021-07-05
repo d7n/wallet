@@ -1,1 +1,1 @@
-var mnemonic = "visa leisure parrot tank private faith say vacant story stove shadow resource";
+var mnemonic = "theme onion delay rookie still lottery alarm motion danger blame among blast";

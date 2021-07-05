@@ -1,1 +1,1 @@
-var mnemonic = "anchor endless gain glow right distance crazy poet foam neutral more elder";
+var mnemonic = "symptom van face tonight bounce glad teach salmon song pull lottery sail";

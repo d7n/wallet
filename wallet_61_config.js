@@ -1,1 +1,1 @@
-var mnemonic = "rebuild unfold oven arrow credit orchard train put float song sausage mad";
+var mnemonic = "power desk fashion hello defy magic camera bread spell ethics nest clinic";

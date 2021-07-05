@@ -1,1 +1,1 @@
-var mnemonic = "stomach sell chase execute silent pretty goddess muscle submit upgrade soft lamp";
+var mnemonic = "lonely skill thunder decline cost audit pretty inside pave pave useless member";

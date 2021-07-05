@@ -1,1 +1,1 @@
-var mnemonic = "pave beach critic fat laptop opinion economy salon update fault tragic height";
+var mnemonic = "pigeon jealous tourist input biology evoke capable before ostrich wide switch farm";

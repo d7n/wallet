@@ -1,1 +1,1 @@
-var mnemonic = "reject forward funny peace urge return jelly main income catch glide garlic";
+var mnemonic = "know grief chase argue cost visit base oxygen auction report drum add";

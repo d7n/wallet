@@ -1,1 +1,1 @@
-var mnemonic = "direct rigid oblige entire human plug crouch pear page hire bench crane";
+var mnemonic = "sustain bottom stuff enact crime earn can mystery carry hurry attack pull";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain orange plug cute art cruel bench jump review tornado extra menu";
+var mnemonic = "food medal advice chef torch profit spatial keep base pet grow festival";

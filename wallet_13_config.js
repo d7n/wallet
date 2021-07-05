@@ -1,1 +1,1 @@
-var mnemonic = "regret head volcano acquire sadness coffee excuse path common similar hotel garlic";
+var mnemonic = "couch broken into carpet subject victory nose demise stage draw depart bird";

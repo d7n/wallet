@@ -1,1 +1,1 @@
-var mnemonic = "final kiwi vendor lady dumb olympic run air ankle illegal hospital pupil";
+var mnemonic = "faith lamp wild rapid boil language grain polar inhale chest syrup viable";

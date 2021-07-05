@@ -1,1 +1,1 @@
-var mnemonic = "increase squeeze sad run odor inspire december wonder copy cram light general";
+var mnemonic = "sea picture unit pact fault section expose hurt van exhibit flash accuse";

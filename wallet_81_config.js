@@ -1,1 +1,1 @@
-var mnemonic = "shallow crystal prepare near napkin boost bacon enrich reopen amazing comfort lumber";
+var mnemonic = "habit erupt lyrics follow century label treat nothing upgrade always frame notable";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn tongue tobacco girl cabbage hub tissue sketch cruel marriage visual pause";
+var mnemonic = "basic shift twice steel shy tape dilemma grid flame brown drink disease";

@@ -1,1 +1,1 @@
-var mnemonic = "essence frequent custom drink spider meadow please recipe muffin bottom suggest report";
+var mnemonic = "pink horse retreat wish shift iron system beef base acoustic express zoo";

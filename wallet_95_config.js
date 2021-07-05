@@ -1,1 +1,1 @@
-var mnemonic = "advance alley consider top way music candy ginger fantasy toddler unknown deputy";
+var mnemonic = "text put lend ramp document alert entire give above metal embody law";

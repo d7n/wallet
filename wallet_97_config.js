@@ -1,1 +1,1 @@
-var mnemonic = "brush bone tobacco exact refuse enable paper forget web shell swing waste";
+var mnemonic = "churn tape ribbon sustain noodle rain repeat balcony text shock quarter canvas";

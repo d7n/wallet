@@ -1,1 +1,1 @@
-var mnemonic = "spirit ship autumn exact more safe luxury warrior raise mango ticket unfold";
+var mnemonic = "depart pyramid history casual lock pass rebel bright permit student tail shuffle";

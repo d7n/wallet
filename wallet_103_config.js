@@ -1,1 +1,1 @@
-var mnemonic = "satisfy found trend idea inner letter vault youth casino soap seed evidence";
+var mnemonic = "bomb monster build clinic viable useless face divorce water acid occur craft";

@@ -1,1 +1,1 @@
-var mnemonic = "equal dilemma top loud gospel normal chalk vessel harbor quote affair submit";
+var mnemonic = "glove physical hurt nice despair child dial alter chair shallow return immune";

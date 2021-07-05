@@ -1,1 +1,1 @@
-var mnemonic = "faculty poem include fat income inject another anxiety must badge bounce park";
+var mnemonic = "recipe wealth stand settle giant citizen soldier sea rhythm size there violin";

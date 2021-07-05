@@ -1,1 +1,1 @@
-var mnemonic = "gun riot rebel excess right enough clip hello own media broom alter";
+var mnemonic = "taste become sing edge throw stable net anger exotic book same grunt";

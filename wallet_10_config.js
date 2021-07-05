@@ -1,1 +1,1 @@
-var mnemonic = "sting impulse provide mutual polar dumb average survey virtual reduce gather connect";
+var mnemonic = "arctic jungle toss various stomach vocal nasty label excess pigeon sorry jelly";

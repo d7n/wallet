@@ -1,1 +1,1 @@
-var mnemonic = "open kingdom merge echo alert space suit light just pass legal survey";
+var mnemonic = "agree duck west annual walk usage input injury parade crystal echo catch";

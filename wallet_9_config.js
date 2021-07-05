@@ -1,1 +1,1 @@
-var mnemonic = "disagree few culture avoid agent current kite drama suspect spell tornado excite";
+var mnemonic = "true used sorry side anxiety fall other custom skill stay neutral hurt";

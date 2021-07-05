@@ -1,1 +1,1 @@
-var mnemonic = "curve regret there parrot inflict excuse novel spell caution barrel remember filter";
+var mnemonic = "easy copy ask slab pigeon essay fold favorite submit involve harsh cupboard";

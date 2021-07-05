@@ -1,1 +1,1 @@
-var mnemonic = "ready deer goose sad enter dizzy come another hover outdoor love pencil";
+var mnemonic = "erosion material start shop buyer still ring draw you find ensure steel";

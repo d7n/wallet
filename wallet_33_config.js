@@ -1,1 +1,1 @@
-var mnemonic = "virus sleep merge become census fame tackle slide toddler air hamster clap";
+var mnemonic = "stadium man person combine document blast reject check critic correct already ride";

@@ -1,1 +1,1 @@
-var mnemonic = "casual dress refuse leader ship kitten vanish space loyal aspect endorse blade";
+var mnemonic = "wisdom earn modify into smart roast chaos tray remind extra culture demise";

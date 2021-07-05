@@ -1,1 +1,1 @@
-var mnemonic = "rhythm oyster muscle check unfair arm decorate level blame glove sun habit";
+var mnemonic = "subway bid inspire confirm defy strong indoor father harvest frog develop helmet";

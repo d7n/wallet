@@ -1,1 +1,1 @@
-var mnemonic = "roof hat avoid wood estate cabin tennis hollow oppose then twin dizzy";
+var mnemonic = "february dad wasp coast foster system figure tumble gain spell lab promote";

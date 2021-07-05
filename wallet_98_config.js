@@ -1,1 +1,1 @@
-var mnemonic = "bridge unable guilt knee army cool polar divide chronic inner cycle elder";
+var mnemonic = "crash quit still kind guard under tomorrow stamp cabbage bean defy curve";

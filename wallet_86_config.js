@@ -1,1 +1,1 @@
-var mnemonic = "ranch margin frequent december tornado autumn capable broom charge still remove boring";
+var mnemonic = "icon cement donkey under blush story addict consider youth begin caught erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom announce rate gym antique meadow alpha stairs rival obey category same";
+var mnemonic = "fluid monkey chase network gym easily renew scorpion below noodle control wild";

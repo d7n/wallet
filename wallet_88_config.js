@@ -1,1 +1,1 @@
-var mnemonic = "panda bread icon south hungry squirrel palm depth crime debate drum birth";
+var mnemonic = "major boss stairs exist verify sport prevent cliff bunker attract together fold";

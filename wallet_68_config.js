@@ -1,1 +1,1 @@
-var mnemonic = "web reveal patient lamp connect suspect business pole shrug shrimp index alert";
+var mnemonic = "satoshi regret zoo grocery holiday switch adult oak dinner oppose diary humble";

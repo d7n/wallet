@@ -1,1 +1,1 @@
-var mnemonic = "exotic voice gate item holiday cattle vessel advance security worry flame gown";
+var mnemonic = "lake doctor mother similar result private sweet stock clip effort echo canoe";

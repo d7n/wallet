@@ -1,1 +1,1 @@
-var mnemonic = "squeeze wrestle dune hurt once target electric between reject remember ready twenty";
+var mnemonic = "come sound liquid lava open ridge clay virtual family bulb chalk funny";

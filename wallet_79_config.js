@@ -1,1 +1,1 @@
-var mnemonic = "voice debate shove antique voice hover orphan chief hundred night gun glue";
+var mnemonic = "company maze symbol layer dance trash prize genre bomb neither save cabin";

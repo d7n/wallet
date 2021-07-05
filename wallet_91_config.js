@@ -1,1 +1,1 @@
-var mnemonic = "train best sunny meat code swift file jump primary bicycle hello stomach";
+var mnemonic = "found wheat snow damp admit model fabric melt arrive trouble worth toilet";

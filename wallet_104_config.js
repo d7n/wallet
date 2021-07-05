@@ -1,1 +1,1 @@
-var mnemonic = "foil upgrade sight ceiling outer squirrel pipe credit wife romance label ring";
+var mnemonic = "engine desk boost music liberty excite fun rice race blush thrive office";

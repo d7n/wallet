@@ -1,1 +1,1 @@
-var mnemonic = "minimum reward pool embark arrow fatigue net aunt island police hungry real";
+var mnemonic = "dance harbor jazz page early flush donate dumb quick barely girl age";

@@ -1,1 +1,1 @@
-var mnemonic = "trade excess glare master scan winner velvet kiwi uncle glory novel cousin";
+var mnemonic = "spoil orchard village inject blanket print alpha best midnight diagram sustain type";

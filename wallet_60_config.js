@@ -1,1 +1,1 @@
-var mnemonic = "slot unhappy advance advance garment upset valve glove color employ vast dream";
+var mnemonic = "exhibit puzzle install material fit security story clump mesh habit jaguar solve";

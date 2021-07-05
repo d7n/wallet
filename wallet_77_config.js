@@ -1,1 +1,1 @@
-var mnemonic = "fly donkey room spot bone cry okay point risk mixture weasel major";
+var mnemonic = "recall art say pretty teach shine soup salt reunion awful bind scatter";

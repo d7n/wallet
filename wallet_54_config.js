@@ -1,1 +1,1 @@
-var mnemonic = "people one idea attract general action roof crush lunch drive slab purity";
+var mnemonic = "quality teach drum ugly inquiry field glory weapon soup poverty small chair";

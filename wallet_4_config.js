@@ -1,1 +1,1 @@
-var mnemonic = "balcony humble sword lab copy quit lend spatial artefact region rack turn";
+var mnemonic = "tide gravity gun frozen chronic shop price gadget globe fine coach night";

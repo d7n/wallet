@@ -1,1 +1,1 @@
-var mnemonic = "yard address delay laugh exchange practice crucial energy luggage total tobacco suit";
+var mnemonic = "razor surface ahead mountain tone time dad image frost vocal raise fall";

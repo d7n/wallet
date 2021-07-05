@@ -1,1 +1,1 @@
-var mnemonic = "torch onion shop drastic write trigger damp inch unusual verb palm hint";
+var mnemonic = "audit badge donor solid live fruit long fetch lady blame ticket unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare wing head cage friend hazard brass harsh better medal number purse";
+var mnemonic = "great chair actual mother half episode still payment vendor fault battle unhappy";
