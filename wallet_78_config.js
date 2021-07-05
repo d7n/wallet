@@ -1,1 +1,1 @@
-var mnemonic = "daughter want pink monitor wet planet reject lonely law amused work annual";
+var mnemonic = "bracket tag scrub choice verify mobile ask room tornado invest hello loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd candy unit fruit inquiry spin blame one north female upgrade tool";
+var mnemonic = "blast ankle nut ankle spy plunge found better brick snake lizard spike";

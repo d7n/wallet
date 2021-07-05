@@ -1,1 +1,1 @@
-var mnemonic = "rice any success salad daring obvious junior broccoli purpose extend gas school";
+var mnemonic = "remind rookie quantum sad address excess mad early file erosion wreck ripple";

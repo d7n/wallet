@@ -1,1 +1,1 @@
-var mnemonic = "there upon pitch federal hold save soft blade identify reveal public skate";
+var mnemonic = "print accident cash offer doctor stomach biology camp grain guide lonely agree";

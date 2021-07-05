@@ -1,1 +1,1 @@
-var mnemonic = "adult wise vocal panic clock mad evolve output drive round door attend";
+var mnemonic = "truck bicycle payment biology juice boil improve tuna siege regular kitchen cool";

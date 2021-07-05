@@ -1,1 +1,1 @@
-var mnemonic = "mule defense attitude feel birth guitar model sunset trash guard taste lamp";
+var mnemonic = "federal situate diagram pyramid case squeeze vote sting corn glue void erupt";

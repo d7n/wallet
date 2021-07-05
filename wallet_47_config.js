@@ -1,1 +1,1 @@
-var mnemonic = "bronze point link quote base judge present cat struggle pill horse kind";
+var mnemonic = "prosper foot candy kit ten cinnamon thrive explain bone flash nasty please";

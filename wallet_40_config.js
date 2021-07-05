@@ -1,1 +1,1 @@
-var mnemonic = "paddle skirt abstract pottery ready approve giant lawsuit plunge trade travel sudden";
+var mnemonic = "despair guilt transfer absorb leg eagle decline journey van connect private veteran";

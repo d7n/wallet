@@ -1,1 +1,1 @@
-var mnemonic = "equal input spot awesome match license also approve shield piece frame license";
+var mnemonic = "guess ready album dinner dish genius outside sweet combine pig monkey pupil";

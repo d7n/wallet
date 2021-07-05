@@ -1,1 +1,1 @@
-var mnemonic = "battle easy outer finger cool august holiday labor pact pole inject essence";
+var mnemonic = "rotate physical phone pilot oppose tomorrow dog zone tobacco ring save ethics";

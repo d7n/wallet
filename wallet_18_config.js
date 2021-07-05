@@ -1,1 +1,1 @@
-var mnemonic = "appear charge history scale brave stairs subway museum glove much fluid grape";
+var mnemonic = "infant inflict steak danger midnight surge alpha canvas budget energy cloth giant";

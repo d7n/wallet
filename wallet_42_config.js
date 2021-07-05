@@ -1,1 +1,1 @@
-var mnemonic = "thing reform fat hurdle match cereal race fine flat where exchange solve";
+var mnemonic = "major drop doctor wide siege negative tribe antique found chalk artwork tank";

@@ -1,1 +1,1 @@
-var mnemonic = "today input smart paddle canal donate much lunar opinion cute private genius";
+var mnemonic = "elbow meadow couple start fix clerk recycle special pupil genuine scheme fly";

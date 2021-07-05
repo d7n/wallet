@@ -1,1 +1,1 @@
-var mnemonic = "repeat ramp flat slice antique high acquire civil novel stomach today recycle";
+var mnemonic = "forest cliff interest attract clever seat bounce portion change prevent normal purpose";

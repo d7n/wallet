@@ -1,1 +1,1 @@
-var mnemonic = "aerobic turkey potato drum unlock wealth purpose comfort glare rhythm duck ethics";
+var mnemonic = "spawn thunder various right science divert clay hair anger genuine goddess duty";

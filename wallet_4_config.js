@@ -1,1 +1,1 @@
-var mnemonic = "cupboard vacant swing eternal teach rural oil cactus install myth tool travel";
+var mnemonic = "tonight surge mom custom youth kitten erupt scrap stuff soft song unknown";

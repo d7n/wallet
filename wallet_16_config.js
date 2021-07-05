@@ -1,1 +1,1 @@
-var mnemonic = "idle tackle harvest tumble olive decorate skill impulse silk pledge earth maze";
+var mnemonic = "sister rebel length approve buzz used name wear road trophy siege thank";

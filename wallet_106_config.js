@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit way library sense tonight candy reopen gadget rug sponsor allow version";
+var mnemonic = "arrow elevator pencil whisper hill cigar shuffle nephew knife success flock rifle";

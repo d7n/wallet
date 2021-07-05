@@ -1,1 +1,1 @@
-var mnemonic = "ankle prison staff sword grain fold camera quantum flee bridge roof nominee";
+var mnemonic = "eyebrow parrot fatigue retreat mistake marine steel talent rifle fabric script year";

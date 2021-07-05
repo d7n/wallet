@@ -1,1 +1,1 @@
-var mnemonic = "outer elephant view host distance wave thought tourist jeans vast gossip century";
+var mnemonic = "advice width post later name luxury private surround loan attitude item supreme";

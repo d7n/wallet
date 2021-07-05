@@ -1,1 +1,1 @@
-var mnemonic = "elbow pipe traffic into category live action trash share twist bacon axis";
+var mnemonic = "nephew cancel marine steak lottery permit resemble explain whisper spoil trade rhythm";

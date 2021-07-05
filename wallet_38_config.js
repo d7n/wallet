@@ -1,1 +1,1 @@
-var mnemonic = "latin royal above ankle shine divide under jeans luxury pluck cost excuse";
+var mnemonic = "capital stand person pause flush flock worth afford town shrimp rare vital";

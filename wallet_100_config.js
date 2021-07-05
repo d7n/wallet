@@ -1,1 +1,1 @@
-var mnemonic = "ask sell abstract sense accuse moment panda spike rack tenant bind inspire";
+var mnemonic = "segment language else success cause illness rebuild elegant claw enjoy tell pulp";

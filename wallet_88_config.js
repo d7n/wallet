@@ -1,1 +1,1 @@
-var mnemonic = "armed uncle woman mosquito pig play orange deposit truly scale document consider";
+var mnemonic = "comic margin arrest output soap regret unfair tape genuine rich gift afraid";

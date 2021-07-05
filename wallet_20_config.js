@@ -1,1 +1,1 @@
-var mnemonic = "black sting excess caution scissors canyon reward escape amused enhance clever nothing";
+var mnemonic = "vault tent credit flavor you key ranch afford copper tail cattle transfer";

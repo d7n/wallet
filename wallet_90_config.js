@@ -1,1 +1,1 @@
-var mnemonic = "nothing language wheel collect prize average place flavor sudden message letter ancient";
+var mnemonic = "crouch square pole chaos midnight student proud minimum arrive impose imitate start";

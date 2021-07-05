@@ -1,1 +1,1 @@
-var mnemonic = "evidence version primary pudding method electric artist tank bounce beach love party";
+var mnemonic = "debate final best join south gospel nasty identify accuse avoid finger okay";

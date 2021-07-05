@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo produce renew fold remain apple tiger indicate session swear entry gadget";
+var mnemonic = "put legend nasty hurry van regular toast album narrow long guilt flee";

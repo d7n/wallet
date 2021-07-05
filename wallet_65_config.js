@@ -1,1 +1,1 @@
-var mnemonic = "soldier heart observe become narrow arrive little merry abandon cousin still job";
+var mnemonic = "ceiling decade walk light tragic arch plate final velvet size mistake glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "discover essay elephant visit planet review energy inner hazard smart human wet";
+var mnemonic = "marine gold suggest hunt candy sword link wrist all acid magic strong";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon grain believe lounge hybrid elephant wet harsh finish whale female egg";
+var mnemonic = "ocean surprise globe arena flash message live member property farm margin story";

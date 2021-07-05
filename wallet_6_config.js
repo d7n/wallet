@@ -1,1 +1,1 @@
-var mnemonic = "critic goddess glove critic suffer unit disorder cook receive frog expire emerge";
+var mnemonic = "youth south broccoli setup soccer few sting section pumpkin voice wash shop";

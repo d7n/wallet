@@ -1,1 +1,1 @@
-var mnemonic = "youth save moment gap grid shell body ceiling monitor topic minor boil";
+var mnemonic = "siren traffic april dwarf valley index design absent verify frog card method";

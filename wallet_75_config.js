@@ -1,1 +1,1 @@
-var mnemonic = "lamp multiply carbon settle rebel ethics guide gym ocean ranch pass explain";
+var mnemonic = "attitude adjust sport oxygen fish useless baby cabin shock benefit trigger glass";

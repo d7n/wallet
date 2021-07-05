@@ -1,1 +1,1 @@
-var mnemonic = "like assume bench spin enjoy light diagram ugly flame toast elephant dose";
+var mnemonic = "funny detail tumble kangaroo item novel total master essay sense primary argue";

@@ -1,1 +1,1 @@
-var mnemonic = "tree talent round strategy walnut race click industry pioneer case between code";
+var mnemonic = "surge job hard among worth clean girl latin truth sketch bridge degree";

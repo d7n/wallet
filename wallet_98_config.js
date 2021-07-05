@@ -1,1 +1,1 @@
-var mnemonic = "bench claim program robust blouse social material ignore toddler slot fat patrol";
+var mnemonic = "bubble plunge inhale ivory crash dove victory taxi stone puzzle glue abuse";

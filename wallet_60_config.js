@@ -1,1 +1,1 @@
-var mnemonic = "pistol old true bring belt receive garden when chest evidence design attitude";
+var mnemonic = "apology siren double donate wheat pull amused limb domain need dice velvet";

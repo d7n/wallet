@@ -1,1 +1,1 @@
-var mnemonic = "student salmon glare hotel accident conduct shove drama toddler garbage ill awake";
+var mnemonic = "grace nurse hawk subway wing menu claim joy fresh marine little strategy";

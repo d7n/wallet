@@ -1,1 +1,1 @@
-var mnemonic = "enjoy category skirt pitch pumpkin advance audit dash fiber forum phone cycle";
+var mnemonic = "gallery profit retire fitness total video coconut pole between bar decline proof";

@@ -1,1 +1,1 @@
-var mnemonic = "famous tide bunker basic tank security cloud venue satoshi master grunt skin";
+var mnemonic = "pond devote mandate what either park tape turn disorder lizard name couple";

@@ -1,1 +1,1 @@
-var mnemonic = "basic unable drive across matter bullet own fruit sing suffer blue forward";
+var mnemonic = "try bitter toast whale family saddle vast stove spirit extend imitate spin";

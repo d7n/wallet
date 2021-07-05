@@ -1,1 +1,1 @@
-var mnemonic = "company forest patch host woman ignore domain device above beach brain police";
+var mnemonic = "never camp once ankle spring fun plunge rain claim scrub dish crush";

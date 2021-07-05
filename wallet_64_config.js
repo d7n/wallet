@@ -1,1 +1,1 @@
-var mnemonic = "resemble clog urban wing crime number gasp carbon horn trouble expire ancient";
+var mnemonic = "train cigar wise infant clutch metal elegant fold vehicle buffalo there solve";

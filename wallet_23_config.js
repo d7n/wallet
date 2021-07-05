@@ -1,1 +1,1 @@
-var mnemonic = "capital display dream fetch very beauty industry wasp oppose sadness tip avocado";
+var mnemonic = "brisk path old school brisk sunny repeat seek visual wire inmate above";

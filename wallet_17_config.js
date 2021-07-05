@@ -1,1 +1,1 @@
-var mnemonic = "someone chicken burden symbol capital fan hazard dilemma common assist spoon scissors";
+var mnemonic = "effort creek anxiety broken agent chapter crowd weather give round prefer physical";

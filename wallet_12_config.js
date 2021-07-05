@@ -1,1 +1,1 @@
-var mnemonic = "labor fatal eight ghost shift peanut census satoshi hour moment city asthma";
+var mnemonic = "sustain avocado cactus vicious prison wrong pill seed poverty answer coral invite";

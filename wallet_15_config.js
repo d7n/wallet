@@ -1,1 +1,1 @@
-var mnemonic = "access pyramid news toy grid very dial south circle garment ethics scene";
+var mnemonic = "clever catch hen boy crucial admit volcano stadium tooth neutral carry tribe";

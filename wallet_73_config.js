@@ -1,1 +1,1 @@
-var mnemonic = "bird rose soccer strategy maximum execute accident hover inside stove february attitude";
+var mnemonic = "peasant wife badge purity kiss olive want cheap cherry oblige sniff fruit";

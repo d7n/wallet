@@ -1,1 +1,1 @@
-var mnemonic = "click key chest harsh assault wave trial soup sunset another bar upset";
+var mnemonic = "top hard wish novel conduct diagram deny guitar define infant mystery soon";

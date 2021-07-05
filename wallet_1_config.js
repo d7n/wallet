@@ -1,1 +1,1 @@
-var mnemonic = "casual whisper gun effort cage jump tattoo tube steak damp expose pretty";
+var mnemonic = "lazy decrease much eye soft when acoustic salute area motor taste cry";

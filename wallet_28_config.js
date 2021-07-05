@@ -1,1 +1,1 @@
-var mnemonic = "search siege reunion ostrich cash safe simple cart noble guilt nest cause";
+var mnemonic = "vibrant human stereo vote day jacket olive tooth cook season arrow safe";

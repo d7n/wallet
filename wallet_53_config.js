@@ -1,1 +1,1 @@
-var mnemonic = "wrestle ghost purse fitness text city bright palm regular tooth polar volume";
+var mnemonic = "bird boat access hero rate hybrid damage ethics midnight merit produce waste";

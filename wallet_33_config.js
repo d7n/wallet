@@ -1,1 +1,1 @@
-var mnemonic = "dry object tube area erode price aerobic october assault yellow urban innocent";
+var mnemonic = "custom sad false bid skirt later rich thing disagree person intact cream";

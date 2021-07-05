@@ -1,1 +1,1 @@
-var mnemonic = "rib bench mass snow myself call across snow trap cotton slab category";
+var mnemonic = "gauge among gadget frequent disease elder orange symbol nut patch organ pioneer";

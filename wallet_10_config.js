@@ -1,1 +1,1 @@
-var mnemonic = "sunset bless sting move ensure afford valve antique obey maze enact core";
+var mnemonic = "heart assume rebel close cherry runway mimic dry garlic betray icon arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "dry truck paddle token expand ethics settle pond warrior vacant tape future";
+var mnemonic = "immense dwarf mimic expect pelican work panther alcohol rabbit card chimney ticket";

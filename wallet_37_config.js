@@ -1,1 +1,1 @@
-var mnemonic = "siege original know jar hold motion bacon drastic solar step fantasy use";
+var mnemonic = "use clown couple verb logic drastic vocal company exit idea labor fluid";

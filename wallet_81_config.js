@@ -1,1 +1,1 @@
-var mnemonic = "virtual copper stage film claw move figure expose quarter cushion first permit";
+var mnemonic = "escape exchange quarter left enter supply rotate erode very affair museum physical";

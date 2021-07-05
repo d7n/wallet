@@ -1,1 +1,1 @@
-var mnemonic = "truck salmon certain crawl kiwi glide note direct choose napkin monitor link";
+var mnemonic = "correct alter tornado curious undo more better cave baby unknown pause bean";

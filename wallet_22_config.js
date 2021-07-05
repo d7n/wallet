@@ -1,1 +1,1 @@
-var mnemonic = "name decline poverty young wet leave away fiber foster debris merge travel";
+var mnemonic = "rent woman security ranch paper era family gossip best evil foster caught";

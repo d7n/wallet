@@ -1,1 +1,1 @@
-var mnemonic = "security upper win cube banana artefact sweet kite depend evoke silver ripple";
+var mnemonic = "where swap disagree income hope clarify typical grocery infant shuffle admit spray";

@@ -1,1 +1,1 @@
-var mnemonic = "skin chest blossom acid nose soft before attend trip brave skill shiver";
+var mnemonic = "pilot private lift economy retreat loop wash winter solar chair muscle sell";

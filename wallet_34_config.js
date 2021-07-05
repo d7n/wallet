@@ -1,1 +1,1 @@
-var mnemonic = "warfare immune mirror viable admit aspect during exclude animal double belt tomorrow";
+var mnemonic = "neglect diagram few crack snap near silly embark energy mother east blood";

@@ -1,1 +1,1 @@
-var mnemonic = "code camp basic letter select clean spirit spring minimum earth spoil portion";
+var mnemonic = "favorite scrap express wasp debris pet cabbage whip father neglect basket proud";

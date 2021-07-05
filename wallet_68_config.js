@@ -1,1 +1,1 @@
-var mnemonic = "lawn iron pass tower crunch coach stove saddle twin vintage divert tribe";
+var mnemonic = "miracle mention grant wash enough laptop output sunny build obey cactus oppose";

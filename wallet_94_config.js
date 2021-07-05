@@ -1,1 +1,1 @@
-var mnemonic = "toe credit lady together script rotate erupt luggage secret install culture able";
+var mnemonic = "clinic security cost churn void music snow soccer entry spirit gaze zebra";

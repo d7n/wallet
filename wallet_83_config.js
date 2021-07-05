@@ -1,1 +1,1 @@
-var mnemonic = "ritual employ device offer bleak upgrade sausage worry radar truly tell manual";
+var mnemonic = "victory wreck piano chest velvet comfort cause large admit current sadness pact";

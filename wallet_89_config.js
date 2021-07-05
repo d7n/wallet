@@ -1,1 +1,1 @@
-var mnemonic = "seat mandate hotel enough hover train casino ketchup slush tide stand web";
+var mnemonic = "metal canyon act gospel gorilla second pulp coin lottery feature satoshi useless";

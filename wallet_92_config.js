@@ -1,1 +1,1 @@
-var mnemonic = "crisp siege swear simple marriage unfold access pause ranch mystery jewel manage";
+var mnemonic = "shield source firm advice business sail above apart cement soda sting useful";

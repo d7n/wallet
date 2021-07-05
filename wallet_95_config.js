@@ -1,1 +1,1 @@
-var mnemonic = "portion junior service relief fault bright ocean frozen cactus film tilt humor";
+var mnemonic = "mango broom gesture emotion again prosper right junk radar live hood submit";

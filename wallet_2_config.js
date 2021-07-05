@@ -1,1 +1,1 @@
-var mnemonic = "arrive choose need exclude swamp lamp able swamp shadow flag pen slam";
+var mnemonic = "control hurry habit enable skin glare impact plug arctic uncle afford elite";

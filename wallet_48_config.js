@@ -1,1 +1,1 @@
-var mnemonic = "again view powder above version smart sick liberty image range note sweet";
+var mnemonic = "cotton field invest nut one inner large solution cry myth seed price";

@@ -1,1 +1,1 @@
-var mnemonic = "cable critic sail hurry metal aisle rubber mirror analyst mixture kid holiday";
+var mnemonic = "lizard table member cheap opera access front double cannon water impose convince";

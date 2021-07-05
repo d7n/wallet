@@ -1,1 +1,1 @@
-var mnemonic = "caught inform buffalo hope spider spatial used rude clock fashion cinnamon distance";
+var mnemonic = "oval proud elite modify snack firm dawn cage caution when man bunker";

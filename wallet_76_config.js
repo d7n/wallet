@@ -1,1 +1,1 @@
-var mnemonic = "word range couple flock razor shadow better deal there isolate legend mushroom";
+var mnemonic = "over dwarf pottery grab review caution essay close swear leader sudden glide";

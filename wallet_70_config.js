@@ -1,1 +1,1 @@
-var mnemonic = "law bitter business differ warrior cliff brick bomb grief super satoshi shop";
+var mnemonic = "keep used timber poet capable denial receive sing defense north luggage life";

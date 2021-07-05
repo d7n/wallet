@@ -1,1 +1,1 @@
-var mnemonic = "fee hockey twin little arm pave unit genre round person income monitor";
+var mnemonic = "assist any exhibit random organ visit wonder erase resemble scale bone apology";

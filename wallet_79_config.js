@@ -1,1 +1,1 @@
-var mnemonic = "outside mixture shiver damp purchase brave cute struggle wreck worry corn mask";
+var mnemonic = "grit pave traffic pioneer best burger settle bleak crack essence wink snack";

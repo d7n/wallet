@@ -1,1 +1,1 @@
-var mnemonic = "bottom snack wrong small corn round stand mad dragon join world razor";
+var mnemonic = "text purchase guess already enlist top dice scale blind staff short range";

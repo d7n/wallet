@@ -1,1 +1,1 @@
-var mnemonic = "tilt rug learn sword ripple tribe valid double truly flower next sound";
+var mnemonic = "public soon elevator reopen purity soccer lamp fiscal gloom process capital decide";

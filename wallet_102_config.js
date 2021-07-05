@@ -1,1 +1,1 @@
-var mnemonic = "crouch exist advance liquid kite educate deal average mushroom lake hammer jewel";
+var mnemonic = "cram grape among blouse wish strike promote cactus regular moon marine street";

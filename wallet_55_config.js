@@ -1,1 +1,1 @@
-var mnemonic = "million secret soon swallow margin link city segment produce portion hawk detail";
+var mnemonic = "invite garment dinner magnet table dish owner match nose alarm dad raw";

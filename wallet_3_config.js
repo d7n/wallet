@@ -1,1 +1,1 @@
-var mnemonic = "rent bean own peasant off return ankle tribe arrow must glass license";
+var mnemonic = "expire educate glass eager asset equal canal group allow forward file client";

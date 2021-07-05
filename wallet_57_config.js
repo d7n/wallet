@@ -1,1 +1,1 @@
-var mnemonic = "demise dentist cactus advance fee news crumble select jelly satisfy enact catalog";
+var mnemonic = "decide gown sweet trim loan ugly fox glove toilet donate glide weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion corn essence assume tower seminar laptop obscure clutch blade episode flower";
+var mnemonic = "what entire prefer grief brother april grunt final endorse crucial light brick";

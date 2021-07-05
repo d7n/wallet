@@ -1,1 +1,1 @@
-var mnemonic = "brave polar dust shove name jewel limit verb opera garage start erosion";
+var mnemonic = "sing length infant script derive antique teach absorb badge pool home favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze galaxy march bullet will cement piano treat silent salad hope gain";
+var mnemonic = "bitter tiger obey heavy scissors snap elephant frequent quantum utility release segment";

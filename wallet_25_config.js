@@ -1,1 +1,1 @@
-var mnemonic = "reason shock oyster edit essay kit special walnut produce mean jazz online";
+var mnemonic = "join tomorrow patrol midnight you olive simple brief inflict cross deny fiction";

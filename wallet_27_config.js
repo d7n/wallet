@@ -1,1 +1,1 @@
-var mnemonic = "dumb useful salute awful share output size route kiwi mistake convince goddess";
+var mnemonic = "legal purchase issue barrel hurdle harbor permit client sense slab bunker seat";

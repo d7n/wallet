@@ -1,1 +1,1 @@
-var mnemonic = "shrimp wear vacuum actress eight run wedding snow mercy grocery legal oven";
+var mnemonic = "practice giggle jazz sunset modify stone laugh glad movie champion bean garage";

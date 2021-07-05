@@ -1,1 +1,1 @@
-var mnemonic = "suffer seven toilet elephant agent wife mushroom rubber trip deny bargain skull";
+var mnemonic = "police ribbon you what retreat grief trigger slow noodle pioneer fury pen";
