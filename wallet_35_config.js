@@ -1,1 +1,1 @@
-var mnemonic = "unusual weapon trumpet drill thought inflict drama sick volume fog actual blush";
+var mnemonic = "ramp alcohol once frequent useless claim curtain object bind state always stumble";

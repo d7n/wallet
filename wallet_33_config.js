@@ -1,1 +1,1 @@
-var mnemonic = "bone speak domain carpet entire aerobic deputy lizard parent lazy close door";
+var mnemonic = "orbit worry ritual super run vault hand west sword gift spice cruise";

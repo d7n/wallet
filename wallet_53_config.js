@@ -1,1 +1,1 @@
-var mnemonic = "balance minimum head regret fresh wagon next thumb output future phone segment";
+var mnemonic = "phrase camera proof neglect simple magnet bid jelly mystery panic fit bid";

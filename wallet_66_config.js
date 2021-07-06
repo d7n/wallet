@@ -1,1 +1,1 @@
-var mnemonic = "ocean mask aware slogan essay vessel impulse twenty account first portion post";
+var mnemonic = "garbage fantasy mobile video pluck head sad able outer palace bid arch";

@@ -1,1 +1,1 @@
-var mnemonic = "craft raw valley error upon main path social state enrich balcony issue";
+var mnemonic = "payment settle enroll arrange violin enhance cook mad knife drop beef glory";

@@ -1,1 +1,1 @@
-var mnemonic = "fence object gap finish track cream sorry later olive vacant valve height";
+var mnemonic = "liberty tomato crime sentence family object aspect suit rule talent forum bleak";

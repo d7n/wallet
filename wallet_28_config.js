@@ -1,1 +1,1 @@
-var mnemonic = "describe focus strike sphere pony film kingdom gym term float video material";
+var mnemonic = "render there property step palm element execute vintage panda wealth average vital";

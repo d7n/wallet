@@ -1,1 +1,1 @@
-var mnemonic = "woman galaxy ridge devote gym biology mistake sorry blouse rocket crucial cream";
+var mnemonic = "kiwi clean pen jaguar grass intact immune humor wear number village moment";

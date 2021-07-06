@@ -1,1 +1,1 @@
-var mnemonic = "spray fiction review solve process cricket version mimic balcony gold mandate vendor";
+var mnemonic = "response unknown subway uncle hint loop aspect noble board spell across cheap";

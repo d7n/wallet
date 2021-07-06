@@ -1,1 +1,1 @@
-var mnemonic = "nephew force coconut armed local arctic capable under oven call spawn yellow";
+var mnemonic = "effort leopard attend hood lake ancient estate grief sun remind zone heart";

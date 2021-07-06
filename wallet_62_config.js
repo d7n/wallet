@@ -1,1 +1,1 @@
-var mnemonic = "dad snap party kingdom check neck fine galaxy yard catch rural crime";
+var mnemonic = "name oak diagram pass leisure diet ceiling pyramid area model sail evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal lunar float solar cupboard level scorpion radio gorilla marriage suffer digital";
+var mnemonic = "truck lake problem drill exchange help divert length dragon rifle only glimpse";

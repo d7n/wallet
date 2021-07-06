@@ -1,1 +1,1 @@
-var mnemonic = "then slow unusual middle figure arm police rent pear sphere shuffle sad";
+var mnemonic = "fault album wage sphere margin patient faculty brass thought sweet image try";

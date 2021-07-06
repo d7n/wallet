@@ -1,1 +1,1 @@
-var mnemonic = "alley abuse catalog fury today sheriff gesture crack sight accuse poem also";
+var mnemonic = "shop idea piece flip load ticket lion inner release estate friend uphold";

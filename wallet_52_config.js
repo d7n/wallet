@@ -1,1 +1,1 @@
-var mnemonic = "hidden crowd mother south mobile where swift rhythm laugh furnace job useless";
+var mnemonic = "plate chase legend wave resist discover decrease switch project invest plate angry";

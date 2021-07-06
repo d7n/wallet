@@ -1,1 +1,1 @@
-var mnemonic = "guilt hotel symbol bronze vicious hamster giant horn despair grain noise grass";
+var mnemonic = "focus adult actor method degree tobacco grab object infant diary estate glue";

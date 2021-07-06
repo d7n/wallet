@@ -1,1 +1,1 @@
-var mnemonic = "near spy result purse shoe tobacco note stadium beach erupt mother inch";
+var mnemonic = "quiz resource source where anchor penalty much tennis rack wood kitten hunt";

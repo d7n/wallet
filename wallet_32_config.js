@@ -1,1 +1,1 @@
-var mnemonic = "glass stereo alone vessel fetch grit denial carpet banner concert trap image";
+var mnemonic = "pride resemble skate solid matter balcony social walnut beyond side west talk";

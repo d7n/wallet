@@ -1,1 +1,1 @@
-var mnemonic = "wood yard bicycle great hub reform horn famous clarify possible click fog";
+var mnemonic = "screen conduct core spoil jacket vapor father nerve jar frog device shove";

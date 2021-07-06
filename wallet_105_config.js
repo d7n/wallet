@@ -1,1 +1,1 @@
-var mnemonic = "pigeon omit core hover venue grab lounge gown mean viable abandon quarter";
+var mnemonic = "neglect exact jar innocent notice orphan version radio ecology fine anxiety park";

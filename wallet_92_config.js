@@ -1,1 +1,1 @@
-var mnemonic = "arrest world twist broken term pelican spatial spin hidden pole cool fetch";
+var mnemonic = "disorder angle book opinion mercy concert legal dirt pistol token frequent spoil";

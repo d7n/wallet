@@ -1,1 +1,1 @@
-var mnemonic = "perfect decrease blood add cement cabbage zone action bundle alter odor position";
+var mnemonic = "possible trigger maximum need asthma verify helmet shield true fragile excite area";

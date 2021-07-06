@@ -1,1 +1,1 @@
-var mnemonic = "volume smooth blood six repair song maximum learn sword bulb notice entire";
+var mnemonic = "cube antique inquiry twelve express payment hello balcony muffin region daughter giraffe";

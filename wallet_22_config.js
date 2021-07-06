@@ -1,1 +1,1 @@
-var mnemonic = "decide govern bench pool damage glimpse loan sustain physical oak clean harvest";
+var mnemonic = "slow region leopard salute share chaos liberty unveil fiction corn vintage boil";

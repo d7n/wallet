@@ -1,1 +1,1 @@
-var mnemonic = "pull safe chaos october tobacco pave basket goddess cat title punch ocean";
+var mnemonic = "mountain figure rose nose flower rule mouse bar often pioneer nothing wire";

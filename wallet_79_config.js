@@ -1,1 +1,1 @@
-var mnemonic = "smart keen embark tide upgrade genre they twice zoo emerge noodle salmon";
+var mnemonic = "flash sausage pistol inform december circle feel girl hood snake cry diary";

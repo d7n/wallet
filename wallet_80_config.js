@@ -1,1 +1,1 @@
-var mnemonic = "tuna federal clinic pause sausage winner produce cycle find prevent key sleep";
+var mnemonic = "cabbage drive wheel squirrel trial wait pink coast index fiction bicycle girl";

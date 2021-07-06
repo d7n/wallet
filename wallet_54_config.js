@@ -1,1 +1,1 @@
-var mnemonic = "boss slot fun myself city disagree flock bar pony steak current drill";
+var mnemonic = "trap lava load radio bubble hurdle cart drive produce question today deliver";

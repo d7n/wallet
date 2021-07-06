@@ -1,1 +1,1 @@
-var mnemonic = "absorb life void coil busy curve square exotic fix athlete scrap rather";
+var mnemonic = "miracle addict travel turkey bulk river ecology peanut burst air truth wife";

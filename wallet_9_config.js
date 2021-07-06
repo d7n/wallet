@@ -1,1 +1,1 @@
-var mnemonic = "wish exit slam panther slush isolate duck library injury betray innocent health";
+var mnemonic = "warfare dutch crowd sad luxury govern cupboard inner entry judge pattern sick";

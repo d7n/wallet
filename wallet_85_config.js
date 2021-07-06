@@ -1,1 +1,1 @@
-var mnemonic = "exercise child key nasty lock payment math point glass lobster jeans crisp";
+var mnemonic = "gift dinosaur attitude empower tomato broccoli garbage cup west dice total cash";

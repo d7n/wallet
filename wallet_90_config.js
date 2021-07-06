@@ -1,1 +1,1 @@
-var mnemonic = "unfold casino child budget useful steel unhappy flat physical notable carry uphold";
+var mnemonic = "piano dust prize bleak pelican clarify cage soap similar relax myself hair";

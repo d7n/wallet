@@ -1,1 +1,1 @@
-var mnemonic = "carry grid hamster spawn victory worry burden regular use flip piano hawk";
+var mnemonic = "smoke ridge card jacket pen maze ladder surprise swing fall where submit";

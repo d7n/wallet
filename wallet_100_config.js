@@ -1,1 +1,1 @@
-var mnemonic = "rich minimum father tape body code away depend adult media jaguar note";
+var mnemonic = "scissors retreat surround file indoor divorce cricket scare cement drop captain just";

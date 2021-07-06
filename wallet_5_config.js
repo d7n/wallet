@@ -1,1 +1,1 @@
-var mnemonic = "jaguar neck poet shock pool lunch click key keep before rapid luxury";
+var mnemonic = "joke panic kid jeans climb struggle illness number scare issue bulk section";

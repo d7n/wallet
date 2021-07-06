@@ -1,1 +1,1 @@
-var mnemonic = "lend torch fragile poem change fade nation olive boost entry hungry trip";
+var mnemonic = "text march fringe popular ask saddle peasant property cart woman own rack";

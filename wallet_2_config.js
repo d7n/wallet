@@ -1,1 +1,1 @@
-var mnemonic = "manage merry file play metal real tonight oven fluid hole stove warfare";
+var mnemonic = "total portion affair cake trophy spin topic person over omit worry bracket";

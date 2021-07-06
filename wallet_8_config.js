@@ -1,1 +1,1 @@
-var mnemonic = "open topic oval busy tired prosper ostrich jar angry skate prize item";
+var mnemonic = "feel dolphin scheme buddy ripple shop side car person pet book flip";

@@ -1,1 +1,1 @@
-var mnemonic = "wild check defy solar because cancel knock enrich manage taste pattern vocal";
+var mnemonic = "morning galaxy flight else vast dinner finger spice benefit hire coach rice";

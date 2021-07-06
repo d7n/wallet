@@ -1,1 +1,1 @@
-var mnemonic = "student grab range scene voice story radar alter ceiling slight student scheme";
+var mnemonic = "struggle real foam search bid melody pledge section village over clarify fatigue";

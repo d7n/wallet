@@ -1,1 +1,1 @@
-var mnemonic = "crazy decorate antenna tomorrow cradle siege corn family eternal crazy maze mule";
+var mnemonic = "fly enroll quality waste lab disagree winter autumn indicate diet cram slot";

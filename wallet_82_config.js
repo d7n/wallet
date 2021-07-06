@@ -1,1 +1,1 @@
-var mnemonic = "bracket kiss collect push absorb planet play hand soon radar digital thank";
+var mnemonic = "trumpet ugly inherit doll valid eight adjust female dawn nothing above blast";

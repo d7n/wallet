@@ -1,1 +1,1 @@
-var mnemonic = "mouse also now income dance field business dizzy blossom crawl scale know";
+var mnemonic = "twice sense nature draft stand lyrics thing squeeze spoon detect biology spare";

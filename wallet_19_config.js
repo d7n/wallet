@@ -1,1 +1,1 @@
-var mnemonic = "consider until mandate spatial old kangaroo square seat safe gun essay alley";
+var mnemonic = "peace enough subject elder gasp forget uphold assault title soldier case hundred";

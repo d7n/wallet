@@ -1,1 +1,1 @@
-var mnemonic = "appear execute neck swear stairs giraffe twice music empower answer square donor";
+var mnemonic = "rookie cargo display truth nasty kiwi film assist such habit physical oyster";

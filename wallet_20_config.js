@@ -1,1 +1,1 @@
-var mnemonic = "tourist clean east crew decide mesh height blossom defense together very loyal";
+var mnemonic = "session agree crash click fitness owner brain review original now shell click";

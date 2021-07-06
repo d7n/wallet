@@ -1,1 +1,1 @@
-var mnemonic = "bus olive remember arrange glow rare refuse elite demise recycle before laugh";
+var mnemonic = "absent wash daring logic harsh island tragic hole fringe frequent clown field";

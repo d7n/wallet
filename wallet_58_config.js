@@ -1,1 +1,1 @@
-var mnemonic = "finger member elegant task term around display earth dove dove piano slow";
+var mnemonic = "devote measure birth beach catalog lecture nominee vibrant noodle select begin meadow";

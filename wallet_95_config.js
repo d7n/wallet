@@ -1,1 +1,1 @@
-var mnemonic = "turkey useful prefer amateur belt time marine ring wish gym prepare vacuum";
+var mnemonic = "evil original inner pill fatal door goddess father clown bachelor bonus space";

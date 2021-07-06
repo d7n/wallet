@@ -1,1 +1,1 @@
-var mnemonic = "deny slab item mansion author fix prison ghost critic destroy rain over";
+var mnemonic = "penalty small area artist orbit shoot march talent wage timber ginger harbor";

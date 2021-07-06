@@ -1,1 +1,1 @@
-var mnemonic = "matter nuclear scare shift tourist topple session print energy route wish erupt";
+var mnemonic = "pioneer employ black tired blouse spider broccoli onion brown lawsuit arena agent";

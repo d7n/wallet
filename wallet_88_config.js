@@ -1,1 +1,1 @@
-var mnemonic = "sock flush fatal hen witness tattoo wrist spider bar now excuse minor";
+var mnemonic = "grape autumn patch grace child typical surge job afford please apple dutch";

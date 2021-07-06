@@ -1,1 +1,1 @@
-var mnemonic = "awkward excite cigar indicate only hover sail actor evolve burden mouse zero";
+var mnemonic = "hungry bone language badge solution school merry license capital hawk mutual slender";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn horse weekend behind ozone pilot tomato month weapon absurd circle shift";
+var mnemonic = "canvas solve essence inch cherry clump miss pigeon laugh ostrich moral eagle";

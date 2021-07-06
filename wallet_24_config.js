@@ -1,1 +1,1 @@
-var mnemonic = "expire bulb owner matrix aisle chief scale old scheme boost narrow depend";
+var mnemonic = "treat year resource guilt bless destroy image example media husband eyebrow welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "feed leader city business matter pelican convince hard reunion onion tool clever";
+var mnemonic = "garden cruise series danger hurry slab pilot phone noodle fruit trim topic";

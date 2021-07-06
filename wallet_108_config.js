@@ -1,1 +1,1 @@
-var mnemonic = "neglect ball push element lawsuit stem purity release water phone empty water";
+var mnemonic = "garage before drive jar element final swarm eight embody advice category plastic";

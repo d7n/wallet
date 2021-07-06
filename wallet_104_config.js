@@ -1,1 +1,1 @@
-var mnemonic = "ivory sibling bargain draw city tonight surge gaze better leaf offer thank";
+var mnemonic = "economy dash shoe top trial garage domain monitor pen rotate skate void";

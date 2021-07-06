@@ -1,1 +1,1 @@
-var mnemonic = "feature normal state flock arrest multiply beauty inquiry rough hidden uncover shiver";
+var mnemonic = "leisure fee adjust victory glove blur glue crop soccer dwarf song weird";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme village outdoor cart before flash slim record slim call salt either";
+var mnemonic = "negative drink real clump brave tunnel ecology decline mom rival arrow armor";

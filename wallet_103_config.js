@@ -1,1 +1,1 @@
-var mnemonic = "online peace fragile side offer bring broccoli supply talent shrug behave awful";
+var mnemonic = "genius effort wave nation whale legal goat another recall step box metal";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale loop script good loan sentence clarify dilemma father law involve farm";
+var mnemonic = "betray lobster distance diagram live peace celery coach black scatter deliver act";

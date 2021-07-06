@@ -1,1 +1,1 @@
-var mnemonic = "skin sword share vintage test copper cluster sure large narrow poem rebuild";
+var mnemonic = "vessel win fury announce frost celery beyond plunge knife good away glide";

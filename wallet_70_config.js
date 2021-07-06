@@ -1,1 +1,1 @@
-var mnemonic = "during cram drift mom open pool cupboard acquire brown calm process move";
+var mnemonic = "fever nuclear include harsh pumpkin allow inherit rough maple suit cloud area";

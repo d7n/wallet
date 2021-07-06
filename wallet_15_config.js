@@ -1,1 +1,1 @@
-var mnemonic = "diet runway harbor duty wood more sadness brain paper camp lens width";
+var mnemonic = "coral injury buzz client debate aerobic stadium dirt derive win camp hungry";

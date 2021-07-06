@@ -1,1 +1,1 @@
-var mnemonic = "stick unable stone cram pepper multiply weird novel flush letter crop lake";
+var mnemonic = "obtain stay random logic icon jeans jaguar cash stool various walk rocket";

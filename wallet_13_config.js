@@ -1,1 +1,1 @@
-var mnemonic = "cherry color expect position ripple ski elephant seminar torch bicycle similar soon";
+var mnemonic = "zebra circle property quarter hamster abstract cover become sister build bundle digital";

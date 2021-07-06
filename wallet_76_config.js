@@ -1,1 +1,1 @@
-var mnemonic = "ritual material fresh pioneer arrest twenty purpose useful trash balcony guilt upon";
+var mnemonic = "foot jump video ignore receive arrange skin help bulk used labor ugly";

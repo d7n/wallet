@@ -1,1 +1,1 @@
-var mnemonic = "foot safe ivory denial bag scrub degree hedgehog exotic mean avocado describe";
+var mnemonic = "return tenant pigeon tomato cheese curve raven erode unable cat vibrant era";

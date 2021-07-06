@@ -1,1 +1,1 @@
-var mnemonic = "merry ostrich puppy field hawk reveal box raw absorb anger cabbage bundle";
+var mnemonic = "super name okay amount logic caution enforce multiply club bamboo display game";

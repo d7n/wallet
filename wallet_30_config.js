@@ -1,1 +1,1 @@
-var mnemonic = "found long service enter moon injury strike debate stamp repair stamp penalty";
+var mnemonic = "flower type plastic energy exotic spell bomb differ door confirm humor chaos";

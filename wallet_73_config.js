@@ -1,1 +1,1 @@
-var mnemonic = "gift tilt loop media auto roof explain eight crash exchange kingdom banner";
+var mnemonic = "rally junk height middle surface void unique enhance since brand public spirit";

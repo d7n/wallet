@@ -1,1 +1,1 @@
-var mnemonic = "razor excuse goose gossip attract bachelor kangaroo swallow attack spider glass describe";
+var mnemonic = "flush buffalo nature ceiling dizzy tag trouble grid cook know produce clever";

@@ -1,1 +1,1 @@
-var mnemonic = "awful trigger dignity now sister ball dinosaur vacant chronic situate host cute";
+var mnemonic = "proof bright calm race unable place fix size focus draft mouse illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "forget give illness slab useful hotel type rib silent whale start attitude";
+var mnemonic = "verify stable various laptop absent amount course episode game mother discover valid";

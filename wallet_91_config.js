@@ -1,1 +1,1 @@
-var mnemonic = "pigeon hope inner adjust couch liberty winner liquid enjoy bomb dentist hire";
+var mnemonic = "coffee gas enemy cable bird escape milk laugh wolf multiply obscure shop";

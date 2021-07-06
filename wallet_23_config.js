@@ -1,1 +1,1 @@
-var mnemonic = "wedding doll wasp primary flee energy paddle collect daughter agree citizen pluck";
+var mnemonic = "scout loud child lamp broccoli outer vote ask front pond tattoo chalk";

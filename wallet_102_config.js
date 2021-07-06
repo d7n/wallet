@@ -1,1 +1,1 @@
-var mnemonic = "detect amateur shoot cricket treat magic bright clown mercy friend file dog";
+var mnemonic = "apology dream various leave hope profit off good gravity spot replace render";

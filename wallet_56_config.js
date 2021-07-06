@@ -1,1 +1,1 @@
-var mnemonic = "diamond coil egg soldier bronze recall together sick logic hero mimic decline";
+var mnemonic = "innocent law parrot talent because buyer huge deal diet company immune story";

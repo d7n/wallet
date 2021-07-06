@@ -1,1 +1,1 @@
-var mnemonic = "attend law jar key fine cherry cruel liquid spawn visit drip gas";
+var mnemonic = "cinnamon key deposit useless judge moral upset slender grant bounce betray artwork";

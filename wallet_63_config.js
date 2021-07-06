@@ -1,1 +1,1 @@
-var mnemonic = "brand sheriff leader weekend aunt throw organ buzz indicate vacuum circle holiday";
+var mnemonic = "nature drink risk harvest what video first mimic shield green indoor fiber";

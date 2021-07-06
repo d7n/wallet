@@ -1,1 +1,1 @@
-var mnemonic = "pudding legend best arrow submit negative limb grunt endless taxi mirror foam";
+var mnemonic = "bright negative crouch law act fossil turn beach neutral fame umbrella verb";

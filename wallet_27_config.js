@@ -1,1 +1,1 @@
-var mnemonic = "confirm police avoid pear outer copper planet atom stem choice alley below";
+var mnemonic = "brick venue used gift rubber luggage view remove shed tilt discover wife";

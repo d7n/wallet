@@ -1,1 +1,1 @@
-var mnemonic = "love bunker slam base creek earth home wife man fruit account walnut";
+var mnemonic = "execute cat code cream million crisp polar attack assume robust shell census";

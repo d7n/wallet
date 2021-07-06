@@ -1,1 +1,1 @@
-var mnemonic = "fence few describe crouch black course proof shy dinner warfare fit toddler";
+var mnemonic = "join pave thing dynamic annual knock truly unknown cube feature cruel flower";

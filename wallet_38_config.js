@@ -1,1 +1,1 @@
-var mnemonic = "because rally they film renew candy chuckle poem radio vivid damage annual";
+var mnemonic = "problem wise start round effort couple museum medal exclude office banner approve";

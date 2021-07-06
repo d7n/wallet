@@ -1,1 +1,1 @@
-var mnemonic = "recipe silk ball hope april code carbon sense super topple swap helmet";
+var mnemonic = "cage raven clarify dune type nerve cool logic art link song rival";

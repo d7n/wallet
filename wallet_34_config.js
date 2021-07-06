@@ -1,1 +1,1 @@
-var mnemonic = "model fortune pitch thumb case change swift come two child hello label";
+var mnemonic = "upper forget museum quote purity mixed air meat sniff try pair way";

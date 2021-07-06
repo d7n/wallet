@@ -1,1 +1,1 @@
-var mnemonic = "drink clever ill chalk student top tornado carbon fault sunny roof cheap";
+var mnemonic = "slot blush gun remove team forward off sword estate cover wet mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "sing emerge decide found vacuum glad riot village loan saddle canvas boil";
+var mnemonic = "arctic silver flag flight tattoo news canoe involve extra unfold wife time";

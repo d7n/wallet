@@ -1,1 +1,1 @@
-var mnemonic = "share flavor sorry shop tissue jealous double sport roof deputy general cannon";
+var mnemonic = "tomorrow raven slide planet sister despair blast shove flight lottery ignore envelope";

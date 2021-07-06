@@ -1,1 +1,1 @@
-var mnemonic = "donkey dolphin crane garment turkey oval dune eight nasty pass obvious layer";
+var mnemonic = "long cinnamon try bounce guard chat unaware pitch stick sausage guide check";

@@ -1,1 +1,1 @@
-var mnemonic = "plug income come eyebrow mechanic speak lion illness shoe segment sail scissors";
+var mnemonic = "crawl language aerobic moral trophy label proof teach stage lesson toast reward";

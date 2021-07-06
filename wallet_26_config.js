@@ -1,1 +1,1 @@
-var mnemonic = "broccoli sound notable general recall alarm seat cupboard grit eight ticket craft";
+var mnemonic = "bar ability dirt cheap special risk cool idea abandon pill vast claw";

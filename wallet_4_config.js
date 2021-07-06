@@ -1,1 +1,1 @@
-var mnemonic = "hand jeans cheap verify inhale like hat laugh brain isolate stadium bench";
+var mnemonic = "attend sauce reward card welcome drum reason monitor idle mail victory nice";

@@ -1,1 +1,1 @@
-var mnemonic = "clock code coin arrive kit slide ready law man swarm cube laundry";
+var mnemonic = "core census palm brown gas kiss skate auction life pool gym depend";

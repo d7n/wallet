@@ -1,1 +1,1 @@
-var mnemonic = "screen crumble ride pudding inhale run conduct few exist scene economy dynamic";
+var mnemonic = "battle suspect play tired library that ride rude ignore drop blast home";

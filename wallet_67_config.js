@@ -1,1 +1,1 @@
-var mnemonic = "six level zone west affair primary anger peace quarter firm burger reason";
+var mnemonic = "predict install brush delay rely aim resource palace tree never lawn bottom";

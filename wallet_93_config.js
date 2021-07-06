@@ -1,1 +1,1 @@
-var mnemonic = "fortune aisle author season wrist risk depend term army wonder tree cherry";
+var mnemonic = "valve spend issue result picnic credit parade devote coffee punch appear draw";
