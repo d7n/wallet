@@ -1,1 +1,1 @@
-var mnemonic = "blush car advance cousin vintage thought soldier august lemon bicycle tomorrow clown";
+var mnemonic = "nature visa oven space add fury gloom suspect betray brand six ozone";

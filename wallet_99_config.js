@@ -1,1 +1,1 @@
-var mnemonic = "right barely hello until ability spot famous sugar come model tooth giggle";
+var mnemonic = "hood friend potato million delay example spike rate blame absurd order eyebrow";

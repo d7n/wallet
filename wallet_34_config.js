@@ -1,1 +1,1 @@
-var mnemonic = "host rate provide book unusual jump pioneer sphere timber proof present sting";
+var mnemonic = "legal spoil festival cheap foster share return violin bid noise happy winner";

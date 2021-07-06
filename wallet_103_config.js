@@ -1,1 +1,1 @@
-var mnemonic = "night deposit lake fence wreck sadness sibling pretty nominee token duck frost";
+var mnemonic = "public first parrot sausage okay couch host hero helmet mirror champion leopard";

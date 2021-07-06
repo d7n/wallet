@@ -1,1 +1,1 @@
-var mnemonic = "autumn sunset gospel birth position release auto very churn treat ice fade";
+var mnemonic = "grief amused trick object fire glass require gym mention distance grow very";

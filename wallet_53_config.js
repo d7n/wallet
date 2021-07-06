@@ -1,1 +1,1 @@
-var mnemonic = "bitter local easily tail such soup social mandate host unhappy gain penalty";
+var mnemonic = "together leopard fat tooth dash drip scheme step grit horror outside funny";

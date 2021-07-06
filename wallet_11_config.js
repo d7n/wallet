@@ -1,1 +1,1 @@
-var mnemonic = "hope differ marble chuckle mule peace warfare session theory very tray develop";
+var mnemonic = "faith fog midnight utility protect hip bind fault remember vote heart tomorrow";

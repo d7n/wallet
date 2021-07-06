@@ -1,1 +1,1 @@
-var mnemonic = "south artefact multiply much embody swear door rabbit nominee emotion loop cheese";
+var mnemonic = "chimney blur invite wrist club citizen visual manual unusual fringe humor pill";

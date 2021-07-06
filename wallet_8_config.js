@@ -1,1 +1,1 @@
-var mnemonic = "time music humble canyon absent stock sugar total treat upset hungry hurt";
+var mnemonic = "smart cabbage amused hair limb intact argue right novel pioneer hurt dial";

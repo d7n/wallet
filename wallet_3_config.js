@@ -1,1 +1,1 @@
-var mnemonic = "noise protect sight device song adapt mesh laundry unlock second cheese valley";
+var mnemonic = "frozen distance save duck security hawk cage bring annual onion gaze addict";

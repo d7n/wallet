@@ -1,1 +1,1 @@
-var mnemonic = "close poet brass swallow novel allow capital slide lyrics speed patch step";
+var mnemonic = "then cabin over anchor horse stuff rib spell arrow valid opera trigger";

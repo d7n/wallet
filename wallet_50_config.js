@@ -1,1 +1,1 @@
-var mnemonic = "rebuild mobile neither soccer link crime pride evolve flock version dizzy skull";
+var mnemonic = "flip dune wise fiber traffic cement mango response boss garment empower indicate";

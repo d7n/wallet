@@ -1,1 +1,1 @@
-var mnemonic = "worth banner phrase parent poem topic shine unfair will brand armor reopen";
+var mnemonic = "dog valley rent use save sense maple castle project lawsuit panel tortoise";

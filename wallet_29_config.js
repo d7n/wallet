@@ -1,1 +1,1 @@
-var mnemonic = "pilot ribbon choice call often truly blossom screen hold knock action hockey";
+var mnemonic = "ill matrix time visa forget city auto viable number decide swim dry";

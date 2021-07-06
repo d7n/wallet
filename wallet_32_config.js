@@ -1,1 +1,1 @@
-var mnemonic = "sail glove veteran squeeze park eyebrow common charge blood giant anchor enable";
+var mnemonic = "genius record adult sunset chef burden quit scrap globe hunt time oval";

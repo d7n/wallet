@@ -1,1 +1,1 @@
-var mnemonic = "pill lesson praise setup paper cry artwork wrestle rely heart near hawk";
+var mnemonic = "animal inmate claw differ icon frozen pet endless swing symptom mad jungle";

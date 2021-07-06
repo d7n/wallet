@@ -1,1 +1,1 @@
-var mnemonic = "record seven busy oil forum force song fat tomorrow tribe island mixed";
+var mnemonic = "midnight pioneer vicious pioneer push myth okay minute radar argue core shine";

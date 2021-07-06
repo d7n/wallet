@@ -1,1 +1,1 @@
-var mnemonic = "sad sting night duty inhale diary pupil false frog sponsor idea bicycle";
+var mnemonic = "stick private already clay buddy actor donkey display gasp hospital ketchup tenant";

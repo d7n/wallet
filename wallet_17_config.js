@@ -1,1 +1,1 @@
-var mnemonic = "arctic duty join desert option ball sock picture kitchen obtain happy fancy";
+var mnemonic = "laundry range hazard ring cigar push must perfect snack furnace around deal";

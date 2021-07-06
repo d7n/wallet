@@ -1,1 +1,1 @@
-var mnemonic = "milk control happy uphold marriage remove current material good lecture town crash";
+var mnemonic = "neglect can uniform garlic rather story exhaust object cushion follow fly pass";

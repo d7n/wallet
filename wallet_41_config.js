@@ -1,1 +1,1 @@
-var mnemonic = "junk business song zone fancy siren idle alley napkin lake riot vehicle";
+var mnemonic = "useful gather frequent syrup mimic slow fringe select truck cabin stove beach";

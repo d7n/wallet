@@ -1,1 +1,1 @@
-var mnemonic = "together dawn soap popular walnut myth jar vivid about exercise rack denial";
+var mnemonic = "chalk pet rebel patient pride emerge crush neck bind wait snow volume";

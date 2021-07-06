@@ -1,1 +1,1 @@
-var mnemonic = "pilot earn grow merge drift answer deny young apple panther utility pledge";
+var mnemonic = "awkward rely company actor notable evidence math boost silly casino beauty helmet";

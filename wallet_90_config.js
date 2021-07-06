@@ -1,1 +1,1 @@
-var mnemonic = "wrap civil company crisp diet pumpkin cycle output lonely shove parade modify";
+var mnemonic = "initial dance fish snake limb kiwi choice ready announce slender fatal window";

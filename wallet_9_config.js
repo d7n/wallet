@@ -1,1 +1,1 @@
-var mnemonic = "hybrid bike sea roof cigar report casual denial script flip narrow range";
+var mnemonic = "ensure maple color liberty float tenant endless tide evidence ask address wrist";

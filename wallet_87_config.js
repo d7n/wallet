@@ -1,1 +1,1 @@
-var mnemonic = "problem taxi actual thought hidden quality myth word ensure paddle bicycle effort";
+var mnemonic = "series pipe sound innocent raise salon when path owner employ chalk letter";

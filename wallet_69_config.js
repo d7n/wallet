@@ -1,1 +1,1 @@
-var mnemonic = "result announce sketch bulb cheese twelve great wage easily roof mutual oyster";
+var mnemonic = "trim make catch urge kingdom grow shove attract river short rain rocket";

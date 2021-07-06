@@ -1,1 +1,1 @@
-var mnemonic = "march develop meat address pen scatter lady recipe bicycle voyage forward cargo";
+var mnemonic = "invite end copy country sock tower budget oblige blouse reflect truly monitor";

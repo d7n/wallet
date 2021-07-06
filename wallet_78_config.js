@@ -1,1 +1,1 @@
-var mnemonic = "elite wonder rabbit embody want fly flag six boat creek mimic myself";
+var mnemonic = "learn escape cream father bench inspire depth program secret cluster victory purchase";

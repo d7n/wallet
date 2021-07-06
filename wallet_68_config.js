@@ -1,1 +1,1 @@
-var mnemonic = "learn add length edit receive foam sad laugh favorite puzzle among trigger";
+var mnemonic = "maze sick immune pigeon drip print eight paddle arch motor antique stairs";

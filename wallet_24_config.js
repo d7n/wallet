@@ -1,1 +1,1 @@
-var mnemonic = "basket travel sponsor dad next gesture impose sun riot found viable toss";
+var mnemonic = "answer narrow sponsor fashion chest live hybrid chest drink differ few clutch";

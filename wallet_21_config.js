@@ -1,1 +1,1 @@
-var mnemonic = "street jazz tube another friend bird casino begin symptom coin dash letter";
+var mnemonic = "patch helmet aisle miss mystery convince shoot mixture donate shrimp ostrich order";

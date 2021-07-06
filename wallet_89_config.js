@@ -1,1 +1,1 @@
-var mnemonic = "scene awesome canoe toward awful word cool river crisp moon green cage";
+var mnemonic = "usage menu cycle ugly quality frame invest brick clutch jazz ten because";

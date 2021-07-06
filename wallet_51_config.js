@@ -1,1 +1,1 @@
-var mnemonic = "crunch toe spend glance rich scale path decorate trash valve wrap hand";
+var mnemonic = "impact harbor casino excite permit used betray develop silk rubber emotion barely";

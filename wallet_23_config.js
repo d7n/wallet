@@ -1,1 +1,1 @@
-var mnemonic = "ancient ramp cup crucial mango vessel easy illness spoil crop mechanic scan";
+var mnemonic = "dice kid island ugly hint spawn clinic vibrant city report torch health";

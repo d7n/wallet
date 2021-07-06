@@ -1,1 +1,1 @@
-var mnemonic = "clown crime panic pond stool parent idea damp winner try cricket valid";
+var mnemonic = "seek owner champion forest sunny silly crack vibrant decline shock fatigue firm";

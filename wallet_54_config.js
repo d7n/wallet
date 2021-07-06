@@ -1,1 +1,1 @@
-var mnemonic = "zoo shadow donkey gauge young over artist civil intact fan off cook";
+var mnemonic = "audit unlock select install spell forum ripple jazz champion wish clock legal";

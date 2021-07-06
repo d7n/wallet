@@ -1,1 +1,1 @@
-var mnemonic = "penalty captain ginger unable civil federal property trap ship business crystal fiction";
+var mnemonic = "exist grant wink butter wisdom custom roast wire crop consider farm junk";

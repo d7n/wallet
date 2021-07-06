@@ -1,1 +1,1 @@
-var mnemonic = "icon angry lake bracket grow ancient result bridge reward zone apple donor";
+var mnemonic = "zoo rubber behind oak scene labor cliff link work explain relax october";

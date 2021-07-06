@@ -1,1 +1,1 @@
-var mnemonic = "worry journey husband various direct broken exact rubber foster despair excite chapter";
+var mnemonic = "treat filter crucial car bar hotel mansion devote middle faculty pink goose";

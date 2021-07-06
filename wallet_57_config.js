@@ -1,1 +1,1 @@
-var mnemonic = "account exercise upset floor short usual artefact little awake bench chuckle yard";
+var mnemonic = "fiber slab reject identify income heart portion toe filter clinic stomach just";

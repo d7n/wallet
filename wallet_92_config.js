@@ -1,1 +1,1 @@
-var mnemonic = "soldier axis emotion taste dilemma always device expand olympic sphere ticket unable";
+var mnemonic = "square concert amateur inform spot clarify pen memory lake moment achieve price";

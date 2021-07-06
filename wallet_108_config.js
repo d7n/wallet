@@ -1,1 +1,1 @@
-var mnemonic = "crazy cash sponsor chronic movie skull sail style across swamp young pistol";
+var mnemonic = "affair now quick motion vast super drift coil parade vessel episode shoot";

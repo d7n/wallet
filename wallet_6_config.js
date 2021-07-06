@@ -1,1 +1,1 @@
-var mnemonic = "between sheriff bind tuna finish apology deal step dizzy bubble rate practice";
+var mnemonic = "rather middle siege replace grain place short regular control debris dream cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "embody capital churn crisp tissue gallery morning slide service force canoe prepare";
+var mnemonic = "replace daughter asthma profit vast high urge deliver drift thing poverty cart";

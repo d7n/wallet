@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon true exact figure govern assist uphold venue swing parent beach happy";
+var mnemonic = "scheme cherry weapon famous tilt siren wire tomato escape friend sport daring";

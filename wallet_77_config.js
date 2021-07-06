@@ -1,1 +1,1 @@
-var mnemonic = "adjust keep hollow super coil what chronic solid catch orbit notable huge";
+var mnemonic = "claw black tennis near use civil length angle solar climb city stand";

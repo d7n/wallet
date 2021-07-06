@@ -1,1 +1,1 @@
-var mnemonic = "shiver end frog crime roof device author shed alley absent beauty bleak";
+var mnemonic = "blast basic pottery valley cat mystery silver amateur start whale venue decorate";

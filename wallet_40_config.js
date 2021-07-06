@@ -1,1 +1,1 @@
-var mnemonic = "enemy danger excess daughter long vivid shallow amateur cruise wash attract visit";
+var mnemonic = "exotic color cage wrist eagle ancient tomato hammer fork between web dilemma";

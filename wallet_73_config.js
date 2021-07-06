@@ -1,1 +1,1 @@
-var mnemonic = "grass slide swing work clever erode drive wrist obtain hawk sausage submit";
+var mnemonic = "alien profit recycle nurse awkward angry wide success legal order option matrix";

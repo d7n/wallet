@@ -1,1 +1,1 @@
-var mnemonic = "manage submit fabric nest visit kiss true index donor paper blossom cherry";
+var mnemonic = "ordinary tuna truth bachelor brother engage basket nurse conduct purity parade call";

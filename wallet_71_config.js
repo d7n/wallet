@@ -1,1 +1,1 @@
-var mnemonic = "cushion canal expand history artist feature yard garage fiscal pledge erosion hybrid";
+var mnemonic = "illegal spice message gloom saddle morning castle flash summer struggle cradle infant";

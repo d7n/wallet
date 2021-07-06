@@ -1,1 +1,1 @@
-var mnemonic = "attack habit dust shiver surround member bread sense brother cheese plastic grief";
+var mnemonic = "device salmon bright arrow viable balcony ankle round jewel similar train echo";

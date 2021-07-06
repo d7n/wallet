@@ -1,1 +1,1 @@
-var mnemonic = "fresh travel couple ghost phone cherry tunnel question early oven extra mammal";
+var mnemonic = "knee ridge credit margin donkey diagram only small ten reason claim detect";

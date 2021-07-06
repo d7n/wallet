@@ -1,1 +1,1 @@
-var mnemonic = "sadness slide text winter heavy duck hood vague butter layer until chest";
+var mnemonic = "two fun hurdle defense protect calm steel wire exhaust minimum quality coast";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse cake fancy arm treat agent nasty fluid advice arch balance impact";
+var mnemonic = "cook peasant drastic since salt honey valley fox urge expand sunset decrease";

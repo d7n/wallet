@@ -1,1 +1,1 @@
-var mnemonic = "open turtle mad spatial rookie gym candy loyal oak belt connect flock";
+var mnemonic = "iron athlete acquire honey repeat private chest pledge napkin punch valley exhibit";

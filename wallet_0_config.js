@@ -1,1 +1,1 @@
-var mnemonic = "walnut outside clutch labor daring insect throw banner vote universe hybrid uncle";
+var mnemonic = "museum picture destroy kit climb post brand toy flee tackle element benefit";

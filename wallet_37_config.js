@@ -1,1 +1,1 @@
-var mnemonic = "provide point link crush enact marble miracle smooth rich purse strategy boy";
+var mnemonic = "cactus wolf noise mandate weasel raven rhythm blood mind domain robust bean";

@@ -1,1 +1,1 @@
-var mnemonic = "strike resist over act danger marine base quick coffee thrive actress butter";
+var mnemonic = "mesh entry lizard special journey sense trend point nephew wave network ritual";

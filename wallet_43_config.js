@@ -1,1 +1,1 @@
-var mnemonic = "goat bracket suit stereo jewel pluck erosion bounce today tornado series pond";
+var mnemonic = "hammer stumble member sauce now fever gesture proud middle misery improve buyer";

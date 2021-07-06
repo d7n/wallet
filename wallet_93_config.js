@@ -1,1 +1,1 @@
-var mnemonic = "wise outer leg snap planet dolphin mother latin confirm receive voyage canoe";
+var mnemonic = "sign crush nut team logic deal tribe figure alley this castle luggage";

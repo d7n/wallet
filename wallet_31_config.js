@@ -1,1 +1,1 @@
-var mnemonic = "exclude panel neither flip citizen brick wonder man gauge satoshi knife parrot";
+var mnemonic = "fluid strike trumpet bus snow system dismiss input rubber bonus wink hat";

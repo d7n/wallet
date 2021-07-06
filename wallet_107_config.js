@@ -1,1 +1,1 @@
-var mnemonic = "orchard wise injury ankle soap fever effort air void dad canvas float";
+var mnemonic = "strike slow model laugh radio know stamp impose cattle know tape scheme";

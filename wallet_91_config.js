@@ -1,1 +1,1 @@
-var mnemonic = "law universe seven purchase raccoon rhythm once surround fuel devote amount giant";
+var mnemonic = "stage switch heavy depart final left limit erupt kingdom curtain cushion tattoo";

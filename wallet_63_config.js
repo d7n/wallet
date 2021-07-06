@@ -1,1 +1,1 @@
-var mnemonic = "flock soup fatal pizza exhibit abuse author impact soda crumble squirrel teach";
+var mnemonic = "glad never middle increase hockey hover label napkin page elegant wild spawn";

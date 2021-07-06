@@ -1,1 +1,1 @@
-var mnemonic = "ribbon pool supply expect embark olive blush enforce return green wire other";
+var mnemonic = "dose husband diamond perfect divert army element visa grace animal hawk light";

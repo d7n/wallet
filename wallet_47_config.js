@@ -1,1 +1,1 @@
-var mnemonic = "sure design stereo dice mushroom cream dish nest road program glide cook";
+var mnemonic = "satisfy pen nation silk worry obtain script inhale carbon figure grocery talk";

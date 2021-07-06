@@ -1,1 +1,1 @@
-var mnemonic = "hurt that burden fresh pluck canvas brisk survey drink kitchen view fossil";
+var mnemonic = "minute steak cattle step eight wealth brain capable dune palm increase bulk";

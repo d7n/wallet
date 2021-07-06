@@ -1,1 +1,1 @@
-var mnemonic = "rival hospital update flush scissors hard endorse fantasy ethics ability fitness forget";
+var mnemonic = "trash swim kingdom prepare ceiling adult remove joke sword bridge deer tumble";

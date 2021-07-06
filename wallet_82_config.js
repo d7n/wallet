@@ -1,1 +1,1 @@
-var mnemonic = "decade lady drip hungry rubber baby banana sadness gossip floor soccer repair";
+var mnemonic = "nephew shallow emerge effort velvet weird certain promote shiver envelope venture cross";

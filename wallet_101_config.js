@@ -1,1 +1,1 @@
-var mnemonic = "below mad thing prosper salmon click february human flavor borrow lyrics cement";
+var mnemonic = "have material derive feel horse steak brand receive bitter clay current hamster";

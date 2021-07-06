@@ -1,1 +1,1 @@
-var mnemonic = "parrot nothing say dizzy orphan payment mix staff fabric orchard fork blind";
+var mnemonic = "soft exhaust brick end canal try trial novel embrace quality stumble margin";

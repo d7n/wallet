@@ -1,1 +1,1 @@
-var mnemonic = "kitten bacon about warfare sunset basic click cross ridge drift coast inflict";
+var mnemonic = "topple lottery swing fatigue farm damp disease shrimp gold gold try ethics";

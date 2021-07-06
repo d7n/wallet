@@ -1,1 +1,1 @@
-var mnemonic = "wolf raven sting resource peanut despair dinner joke decrease provide marble thought";
+var mnemonic = "throw web wise claw bronze multiply scrub since shine age open vintage";

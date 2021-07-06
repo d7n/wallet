@@ -1,1 +1,1 @@
-var mnemonic = "panda mesh merge defense lizard impose luggage match eye pitch subject poem";
+var mnemonic = "avoid hill secret vacuum coil print cement book bus dilemma bind enhance";

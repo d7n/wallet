@@ -1,1 +1,1 @@
-var mnemonic = "luxury woman east hospital code frost spray garage buyer place task gain";
+var mnemonic = "organ choose twice grain champion drop afford science above mind dove mammal";

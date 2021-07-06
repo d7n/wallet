@@ -1,1 +1,1 @@
-var mnemonic = "own canvas oxygen slice element hamster spatial fossil picture drill nephew nephew";
+var mnemonic = "coral stage industry until crew torch dawn jungle amount expand pattern fortune";

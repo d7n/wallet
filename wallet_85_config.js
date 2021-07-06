@@ -1,1 +1,1 @@
-var mnemonic = "process ready clever warfare jelly reform story suffer skirt various club exile";
+var mnemonic = "feature useless unlock clerk oven mix critic jar hollow duty insect bundle";

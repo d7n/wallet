@@ -1,1 +1,1 @@
-var mnemonic = "vote enhance response word session grunt able forget ribbon build rent happy";
+var mnemonic = "raccoon achieve save basic roast wave future imitate weather problem normal focus";

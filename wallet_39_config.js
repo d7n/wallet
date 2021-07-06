@@ -1,1 +1,1 @@
-var mnemonic = "december tag answer crawl worry level ball uncover convince shadow purse flight";
+var mnemonic = "border bird energy intact butter drive young plug corn tumble cheese develop";

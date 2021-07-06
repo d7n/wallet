@@ -1,1 +1,1 @@
-var mnemonic = "confirm mention output horn permit slam tobacco train inhale warm reflect case";
+var mnemonic = "trick universe swear scrub prefer state march crash loan kidney either anger";
