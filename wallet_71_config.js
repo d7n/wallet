@@ -1,1 +1,1 @@
-var mnemonic = "science arrest sting sock dignity inner century pause rail spell foam crack";
+var mnemonic = "give future trophy essence husband lecture bleak giraffe bless hammer face sister";

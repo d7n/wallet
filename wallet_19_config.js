@@ -1,1 +1,1 @@
-var mnemonic = "dilemma mistake mouse seek text legend velvet isolate bean ability dish horse";
+var mnemonic = "shed space refuse jealous century math box news book unknown plunge grit";

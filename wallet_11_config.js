@@ -1,1 +1,1 @@
-var mnemonic = "huge august identify patch chalk patch venue gaze beef piano guitar gather";
+var mnemonic = "sell amount scrap orange uncover become blast abuse liar burger huge private";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk hurry insane amused bubble sibling detail amateur bullet atom chicken uphold";
+var mnemonic = "weekend original garlic buffalo rural apart canoe wash legal snake farm ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra skill misery embrace trust remind employ extend wagon appear candy amused";
+var mnemonic = "boring hazard across twelve slow sauce document weapon own deposit peace section";

@@ -1,1 +1,1 @@
-var mnemonic = "coil jewel festival boost space wool february indicate quarter note float arrest";
+var mnemonic = "outdoor sword discover enroll hire year range design abstract buyer include sunset";

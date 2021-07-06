@@ -1,1 +1,1 @@
-var mnemonic = "breeze east agree industry art year exhibit pumpkin salmon acid regret city";
+var mnemonic = "together car junk giant target element wash brush shock fiction pull success";

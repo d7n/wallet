@@ -1,1 +1,1 @@
-var mnemonic = "away ride evidence find forum april aunt pond clay quote equip pistol";
+var mnemonic = "dizzy square render stomach nut special edit fee horn bind axis appear";

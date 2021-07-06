@@ -1,1 +1,1 @@
-var mnemonic = "hub siren gadget ten quality truth above advance summer enlist figure milk";
+var mnemonic = "pilot task immune explain treat double tube narrow future invite lizard exile";

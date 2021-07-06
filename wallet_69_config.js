@@ -1,1 +1,1 @@
-var mnemonic = "split race rigid run gallery aware anchor ramp similar attitude harsh width";
+var mnemonic = "aware hazard bomb pass dirt example media renew ready burger quick habit";

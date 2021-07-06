@@ -1,1 +1,1 @@
-var mnemonic = "cloud best retreat jazz message mistake pen sting found wasp month remain";
+var mnemonic = "belt victory record desk fatigue minimum scissors eye shield degree unveil treat";

@@ -1,1 +1,1 @@
-var mnemonic = "glare soda dish net giant air remain later moon curtain prison tourist";
+var mnemonic = "fly balcony two orange submit universe dish amateur coin science pelican grit";

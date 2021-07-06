@@ -1,1 +1,1 @@
-var mnemonic = "holiday blind glove income wash antenna blossom connect elder palm stairs float";
+var mnemonic = "leg kitten tortoise surprise exile carpet tissue wolf federal choose umbrella ceiling";

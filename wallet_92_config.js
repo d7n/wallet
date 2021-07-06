@@ -1,1 +1,1 @@
-var mnemonic = "replace canoe review hunt pumpkin hawk kind day explain hybrid turn grocery";
+var mnemonic = "one hidden trick regret test success hedgehog village crash clean awful eight";

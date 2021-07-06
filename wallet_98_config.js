@@ -1,1 +1,1 @@
-var mnemonic = "desk monkey potato soon pill breeze drastic stay fiber derive economy acoustic";
+var mnemonic = "dutch must repair nephew picnic regret snake plug pencil cotton tray close";

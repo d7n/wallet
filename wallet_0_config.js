@@ -1,1 +1,1 @@
-var mnemonic = "tube segment outdoor hard reform jealous surface loud sun address tiger brown";
+var mnemonic = "seed brave virtual zoo bacon trouble creek resource eagle city play chapter";

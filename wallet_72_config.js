@@ -1,1 +1,1 @@
-var mnemonic = "yellow wolf scrap guilt truly enjoy dragon capable waste cliff wheat item";
+var mnemonic = "surprise candy velvet slogan few recall kit flip topic love grass scrub";

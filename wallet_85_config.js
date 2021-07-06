@@ -1,1 +1,1 @@
-var mnemonic = "wrestle begin nothing large squeeze tonight burger attitude spin tube ostrich casino";
+var mnemonic = "toddler debris boat size vacant cram genius sample riot rice leopard silk";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella razor hurt music attend raise rain debate feature frog sunny mimic";
+var mnemonic = "start fee hood gate want clerk tray salad crop merry setup guide";

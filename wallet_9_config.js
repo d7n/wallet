@@ -1,1 +1,1 @@
-var mnemonic = "permit dignity wink phone pattern ignore curious render north illegal song laundry";
+var mnemonic = "danger gather sword volcano item quote system window loop input much menu";

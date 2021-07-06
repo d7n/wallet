@@ -1,1 +1,1 @@
-var mnemonic = "win speak pond monster antenna fatigue common trial man improve play celery";
+var mnemonic = "keen arrive brave ski orphan coast concert private rigid journey smile orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "mass cry kangaroo list bright cinnamon giraffe body chronic tuna shoot head";
+var mnemonic = "all hope notable prize exchange because struggle about rigid unfair drip coconut";

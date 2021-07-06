@@ -1,1 +1,1 @@
-var mnemonic = "joy chair level clever cruise toddler oyster shoot ice dress oil inflict";
+var mnemonic = "tomorrow expect torch coin artist lesson cinnamon thing suspect letter salmon retreat";

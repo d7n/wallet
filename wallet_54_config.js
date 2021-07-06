@@ -1,1 +1,1 @@
-var mnemonic = "setup long write capable slice river poverty domain divert else code busy";
+var mnemonic = "true useless reform twice behave globe issue betray case spatial execute rookie";

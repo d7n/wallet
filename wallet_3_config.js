@@ -1,1 +1,1 @@
-var mnemonic = "glory garden warm guilt zero trade timber cinnamon arm laundry adjust remain";
+var mnemonic = "ladder neutral sugar link umbrella pool crew cliff country choose runway sheriff";

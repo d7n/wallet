@@ -1,1 +1,1 @@
-var mnemonic = "stable flight hair ketchup harsh duck spin useless example usual away field";
+var mnemonic = "debris dirt celery surface electric ill napkin tail illness drift fruit invest";

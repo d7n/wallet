@@ -1,1 +1,1 @@
-var mnemonic = "reform faculty crime good argue mean owner gauge few suit flavor erosion";
+var mnemonic = "unlock melt short wine powder taste torch best water case position fold";

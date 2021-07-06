@@ -1,1 +1,1 @@
-var mnemonic = "essence choice first fiber loud ceiling wrist never toe dish ensure estate";
+var mnemonic = "ticket uncle below upset cradle tomorrow random harsh urge ritual parrot slot";

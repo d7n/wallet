@@ -1,1 +1,1 @@
-var mnemonic = "loyal dice there cup bulk thunder idea weird muscle sort leader siege";
+var mnemonic = "tongue hour orange sponsor spawn salmon hazard lonely layer reopen merry worry";

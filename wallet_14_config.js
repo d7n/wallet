@@ -1,1 +1,1 @@
-var mnemonic = "pen vendor shove merge slender hour ask unknown lazy income monkey letter";
+var mnemonic = "sweet mail taxi unfold upgrade guard fee drip shiver fitness case old";

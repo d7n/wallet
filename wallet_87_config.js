@@ -1,1 +1,1 @@
-var mnemonic = "control beyond diamond bracket million goat modify enrich age room fault flat";
+var mnemonic = "weird earth thrive swarm tumble model behave sphere pulp game shed solar";

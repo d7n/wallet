@@ -1,1 +1,1 @@
-var mnemonic = "leisure monkey pilot fancy problem elegant first expand night toward gallery travel";
+var mnemonic = "object recipe hub volcano fun catch then much crystal sport zoo dawn";

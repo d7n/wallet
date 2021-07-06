@@ -1,1 +1,1 @@
-var mnemonic = "risk shift slim lottery little cute wasp february flavor accuse offer view";
+var mnemonic = "refuse firm obvious cake purse field tennis all arrow grant order lamp";

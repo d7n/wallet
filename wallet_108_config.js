@@ -1,1 +1,1 @@
-var mnemonic = "october hundred guilt embrace feel punch crystal tomorrow emerge lucky holiday salon";
+var mnemonic = "bubble atom shallow jungle unveil conduct hotel resource property sand pizza clock";

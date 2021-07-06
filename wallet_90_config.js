@@ -1,1 +1,1 @@
-var mnemonic = "member scan remind proud glue symptom bring town unhappy sick viable misery";
+var mnemonic = "forget ridge connect just mosquito paper useful case silly state cash stock";

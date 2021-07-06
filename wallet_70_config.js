@@ -1,1 +1,1 @@
-var mnemonic = "sustain pitch language nasty fossil inch skill worth peasant layer goddess vote";
+var mnemonic = "sniff join craft hurry margin until depth ritual spring adjust angry quantum";

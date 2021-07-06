@@ -1,1 +1,1 @@
-var mnemonic = "shallow top decrease umbrella hunt enact increase book shaft tell comic merit";
+var mnemonic = "meat fantasy reform weird oak ugly quantum awesome bounce patrol lottery deny";

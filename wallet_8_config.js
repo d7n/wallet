@@ -1,1 +1,1 @@
-var mnemonic = "mechanic vast novel above brand address prison drive swap globe action cause";
+var mnemonic = "today similar lock special foot damage tag bread ripple hip lamp exchange";

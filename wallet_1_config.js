@@ -1,1 +1,1 @@
-var mnemonic = "future lunch cotton april accuse arctic early account private act clever spirit";
+var mnemonic = "sugar kangaroo end renew exhaust letter frequent pact believe toilet error evolve";

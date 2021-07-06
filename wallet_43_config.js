@@ -1,1 +1,1 @@
-var mnemonic = "kid potato stay warrior fatigue accuse season true valid option city disorder";
+var mnemonic = "impose local thrive cook perfect circle soon dawn vendor fever demise arm";

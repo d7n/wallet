@@ -1,1 +1,1 @@
-var mnemonic = "couple rail claw air poverty indicate clinic daring swarm robust hub velvet";
+var mnemonic = "ancient margin access victory cruise toddler degree very good bird plastic jelly";

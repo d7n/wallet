@@ -1,1 +1,1 @@
-var mnemonic = "crazy rhythm swamp life where knee aunt slogan peasant glare trick humble";
+var mnemonic = "fancy hockey bone nurse dismiss picnic supply globe fiscal pulse rhythm sad";

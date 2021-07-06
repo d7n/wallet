@@ -1,1 +1,1 @@
-var mnemonic = "salmon armor lounge vapor farm kangaroo reopen deny final keep grit vendor";
+var mnemonic = "panel lizard mimic depend saddle round tissue story sort summer reject asthma";

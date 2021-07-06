@@ -1,1 +1,1 @@
-var mnemonic = "avoid cake visual reflect round van list slot patch math junior hurt";
+var mnemonic = "recipe glide aunt seven treat muscle organ pattern motion lumber burden road";

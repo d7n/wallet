@@ -1,1 +1,1 @@
-var mnemonic = "orange wedding goddess prepare thank human behave toy copper name rigid stuff";
+var mnemonic = "cheap zone fluid practice long right future huge evolve process photo prosper";

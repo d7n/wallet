@@ -1,1 +1,1 @@
-var mnemonic = "attack govern convince february father dress impose member noodle electric detect science";
+var mnemonic = "young tortoise accident else surround raise inmate drip man shop pencil occur";

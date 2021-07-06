@@ -1,1 +1,1 @@
-var mnemonic = "runway suggest enhance hungry hero media surprise cousin toast stick alien chaos";
+var mnemonic = "inner element deliver receive husband sport chalk time foam trophy amazing old";

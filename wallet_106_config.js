@@ -1,1 +1,1 @@
-var mnemonic = "chair autumn laundry drum time unveil muscle faint vapor card swallow install";
+var mnemonic = "hazard skin left swamp click wing spare window common planet curtain bitter";

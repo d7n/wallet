@@ -1,1 +1,1 @@
-var mnemonic = "fragile assume marine isolate across define outdoor frame hole reward lamp wheel";
+var mnemonic = "weasel level mimic wash clump route cheap march chat own expand reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "solid sense language renew print remember coin ranch buffalo column puppy sand";
+var mnemonic = "vault until language object what easy subway bid keep drink smile rebel";

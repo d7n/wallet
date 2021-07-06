@@ -1,1 +1,1 @@
-var mnemonic = "hire practice dash afraid festival movie ship coast word glimpse chef love";
+var mnemonic = "must entry student flag magic music leg start start evil rapid interest";

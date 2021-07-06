@@ -1,1 +1,1 @@
-var mnemonic = "hire question yard title gentle never alarm anchor ramp army run urban";
+var mnemonic = "soon gesture boost cute crumble limit clerk icon awkward scorpion inhale into";

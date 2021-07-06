@@ -1,1 +1,1 @@
-var mnemonic = "rich clown clump correct average exercise meadow topic green crisp same market";
+var mnemonic = "consider wonder prosper option debris enhance crouch open float bomb paddle tag";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer rescue language neutral enable amateur true acoustic toast siren firm audit";
+var mnemonic = "rate tennis outside notable short myth lift obscure actor crazy notable render";

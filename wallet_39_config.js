@@ -1,1 +1,1 @@
-var mnemonic = "catch truly wife rude fault leave frost west grow shrimp corn file";
+var mnemonic = "torch omit sketch correct effort salmon fury enforce vault bachelor student world";

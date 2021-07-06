@@ -1,1 +1,1 @@
-var mnemonic = "little first choice tribe debris visa boring kind proud close tornado when";
+var mnemonic = "wise matrix extra gift birth cry hair topple throw blood top barrel";

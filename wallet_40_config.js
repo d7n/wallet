@@ -1,1 +1,1 @@
-var mnemonic = "horn acid lawsuit run pony flush seminar hobby innocent sudden sad rent";
+var mnemonic = "palm swallow cupboard brand problem evidence bind today result comfort embark grass";

@@ -1,1 +1,1 @@
-var mnemonic = "middle inject album artist ask wall gather very define equal manual unique";
+var mnemonic = "together marble winner lounge effort inhale repair culture put now foam high";

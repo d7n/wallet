@@ -1,1 +1,1 @@
-var mnemonic = "huge prison garlic evoke surge horror decline abuse suit smoke harsh place";
+var mnemonic = "coil heart pretty pave wealth curtain green argue trend main excuse lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan girl desert guilt filter unlock method excuse high valid fancy visa";
+var mnemonic = "atom prison identify degree fat uphold beyond second brain side believe fury";

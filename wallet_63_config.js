@@ -1,1 +1,1 @@
-var mnemonic = "super zero trap news steel east major alley waste endorse home palace";
+var mnemonic = "rubber blame razor rookie rate throw debate gauge acquire cabin double slot";

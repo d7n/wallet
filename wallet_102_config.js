@@ -1,1 +1,1 @@
-var mnemonic = "snake fortune weird cannon evoke regret must online hospital ritual easily crack";
+var mnemonic = "used federal version useful you fiscal short kite crack service place media";

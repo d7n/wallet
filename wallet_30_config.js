@@ -1,1 +1,1 @@
-var mnemonic = "gossip pioneer announce hundred story lady follow tumble pioneer report coin surprise";
+var mnemonic = "bachelor know warrior test gain govern lava tide sample then paper culture";

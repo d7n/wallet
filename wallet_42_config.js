@@ -1,1 +1,1 @@
-var mnemonic = "slight casual weird surge picture invest hold stairs pig expire month vacuum";
+var mnemonic = "hint faith start cherry start salute gallery fiber key clip grant theme";

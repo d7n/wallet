@@ -1,1 +1,1 @@
-var mnemonic = "rocket suit person front loyal robot banner frozen soap lobster intact sight";
+var mnemonic = "recall call minimum surprise brave elder mixed dutch drama erase oak goddess";

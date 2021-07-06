@@ -1,1 +1,1 @@
-var mnemonic = "into shadow health crucial prevent large achieve obtain whisper history waste vital";
+var mnemonic = "gold laugh badge increase bring avoid flavor wrap remove news street toe";

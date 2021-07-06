@@ -1,1 +1,1 @@
-var mnemonic = "truly bean avoid crime jar grape decade tomorrow bridge stereo dynamic cloud";
+var mnemonic = "certain used fuel occur orange confirm celery atom egg box evolve join";

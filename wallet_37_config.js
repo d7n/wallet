@@ -1,1 +1,1 @@
-var mnemonic = "junior skull crystal away purity urge lizard anger journey parrot fossil polar";
+var mnemonic = "smile they enact process stamp chair say jelly error speed setup please";

@@ -1,1 +1,1 @@
-var mnemonic = "smile relief sing predict feature basic mystery unable creek plunge zero random";
+var mnemonic = "kiss tiny main hello wheat pottery apart resemble veteran rib segment oval";

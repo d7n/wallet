@@ -1,1 +1,1 @@
-var mnemonic = "park normal chicken fantasy faint notable truly hero kite crazy bitter toy";
+var mnemonic = "puzzle thumb board note cable fancy enhance kangaroo apple lab device antenna";

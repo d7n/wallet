@@ -1,1 +1,1 @@
-var mnemonic = "gauge ability exotic live enforce again rice object album business manual identify";
+var mnemonic = "twenty flee scheme pass only pencil oil portion unable system lecture trumpet";

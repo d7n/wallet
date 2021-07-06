@@ -1,1 +1,1 @@
-var mnemonic = "bamboo amazing hotel salt still jump village hand bonus foil unfair obvious";
+var mnemonic = "profit ship trash movie tank solve balance start pass foil door window";

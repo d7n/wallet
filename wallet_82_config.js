@@ -1,1 +1,1 @@
-var mnemonic = "core relief excuse glass panic use crack marine cousin helmet young spare";
+var mnemonic = "alone hat canyon mercy corn bike hour seven collect travel globe soldier";

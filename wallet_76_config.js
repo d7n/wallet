@@ -1,1 +1,1 @@
-var mnemonic = "visual sport clarify raccoon renew front speed enhance champion sting toss typical";
+var mnemonic = "elegant deal eternal miss dash swamp screen jelly auto nest bottom jacket";

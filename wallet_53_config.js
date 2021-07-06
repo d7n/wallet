@@ -1,1 +1,1 @@
-var mnemonic = "initial crush gasp during kingdom smart indicate note few old defy brave";
+var mnemonic = "defense west reunion chase pass atom aim bind artefact average strike element";

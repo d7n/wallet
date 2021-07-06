@@ -1,1 +1,1 @@
-var mnemonic = "elevator monster base average end extra lecture curtain believe lion quantum lamp";
+var mnemonic = "legal bachelor prison cycle describe sleep rocket gym elevator obscure ivory length";

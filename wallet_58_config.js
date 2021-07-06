@@ -1,1 +1,1 @@
-var mnemonic = "roof decade hidden slush apple wet fun dirt sure oil age flock";
+var mnemonic = "topic human slight more lecture uncle trophy since bird undo crazy plastic";

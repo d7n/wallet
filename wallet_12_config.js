@@ -1,1 +1,1 @@
-var mnemonic = "misery ancient banana outdoor turtle borrow pizza swarm mistake diagram night sauce";
+var mnemonic = "test first nation give arena critic trend seek hazard flame comfort caution";

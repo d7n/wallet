@@ -1,1 +1,1 @@
-var mnemonic = "certain this they subject embark soul evoke message blush abstract borrow host";
+var mnemonic = "credit thunder harsh sting spare account tissue shadow digital monster music food";

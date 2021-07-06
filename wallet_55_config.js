@@ -1,1 +1,1 @@
-var mnemonic = "tornado cotton phone absent pupil wrap that base decide canyon palace okay";
+var mnemonic = "flush east crush release into retire alley manage security eight language wait";

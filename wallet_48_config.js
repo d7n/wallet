@@ -1,1 +1,1 @@
-var mnemonic = "gravity fan effort subway liar receive man brick urge problem busy car";
+var mnemonic = "eager front soul man ethics dress squirrel action patrol base page nominee";

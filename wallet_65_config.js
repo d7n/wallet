@@ -1,1 +1,1 @@
-var mnemonic = "one cabin bus poet check skin dove gather coffee pink bone receive";
+var mnemonic = "alley spirit immense ceiling life struggle speed job slush fall subway unaware";

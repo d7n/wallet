@@ -1,1 +1,1 @@
-var mnemonic = "owner exchange fog steak exhaust absurd picnic bacon any wing cousin control";
+var mnemonic = "vapor agent nut hamster road trap spice embark tray dizzy tribe person";

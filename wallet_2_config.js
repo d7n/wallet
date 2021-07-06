@@ -1,1 +1,1 @@
-var mnemonic = "age broom orange announce swift sign merit hungry turtle forget core vehicle";
+var mnemonic = "sport quality lecture use multiply address warfare spin winner certain chicken art";

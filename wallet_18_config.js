@@ -1,1 +1,1 @@
-var mnemonic = "cousin dial praise jar burger time negative lion ethics title finish cattle";
+var mnemonic = "ranch link crouch cost inhale cart thrive hair trash club escape hand";

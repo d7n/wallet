@@ -1,1 +1,1 @@
-var mnemonic = "garage gym shoe tennis foam emotion stairs slogan club rare style trust";
+var mnemonic = "kingdom forum wire spot achieve token cannon make regular pluck rent control";

@@ -1,1 +1,1 @@
-var mnemonic = "will keep attitude demand fee spot congress rack wrist butter defy school";
+var mnemonic = "story replace balance anxiety brown glance crack spawn inspire army law round";

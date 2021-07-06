@@ -1,1 +1,1 @@
-var mnemonic = "social service naive rubber lecture swim tongue gorilla benefit laundry grant mirror";
+var mnemonic = "home frown february learn glass position ancient dash woman endless kangaroo relief";

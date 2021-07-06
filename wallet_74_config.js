@@ -1,1 +1,1 @@
-var mnemonic = "object parrot myth fetch walk gas unhappy company noble reopen always medal";
+var mnemonic = "spare ivory decorate book happy shine renew hour alarm amused label cancel";

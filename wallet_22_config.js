@@ -1,1 +1,1 @@
-var mnemonic = "title rocket rifle drum decrease brisk mix always mammal smooth accuse nasty";
+var mnemonic = "output guess upon raw wild number change able awkward relief prepare noise";

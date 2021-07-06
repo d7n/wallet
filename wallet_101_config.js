@@ -1,1 +1,1 @@
-var mnemonic = "involve expand behind stand seat liquid fan city version mix weasel loan";
+var mnemonic = "dilemma cake street toss yellow goat long predict luxury shock patch wrestle";

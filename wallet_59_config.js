@@ -1,1 +1,1 @@
-var mnemonic = "crowd athlete model wedding shrug prize cool remain leg strike claim burden";
+var mnemonic = "window grace over blame throw six adult wool valve warrior raven wedding";
