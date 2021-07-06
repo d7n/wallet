@@ -1,1 +1,1 @@
-var mnemonic = "today similar lock special foot damage tag bread ripple hip lamp exchange";
+var mnemonic = "harbor pattern wheel member system tone dream hint law prosper toilet salute";

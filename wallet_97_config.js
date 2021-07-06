@@ -1,1 +1,1 @@
-var mnemonic = "legal bachelor prison cycle describe sleep rocket gym elevator obscure ivory length";
+var mnemonic = "worry marine pig repeat gold drip champion all swear dentist very damage";

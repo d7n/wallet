@@ -1,1 +1,1 @@
-var mnemonic = "rubber blame razor rookie rate throw debate gauge acquire cabin double slot";
+var mnemonic = "oblige own wise heavy term alert reason antenna merit merit strike subway";

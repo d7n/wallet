@@ -1,1 +1,1 @@
-var mnemonic = "story replace balance anxiety brown glance crack spawn inspire army law round";
+var mnemonic = "into gravity elder truck lamp movie float lucky power chunk total assist";

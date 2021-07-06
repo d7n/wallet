@@ -1,1 +1,1 @@
-var mnemonic = "output guess upon raw wild number change able awkward relief prepare noise";
+var mnemonic = "rude candy coast tattoo coffee spend replace ketchup tired famous picture hollow";

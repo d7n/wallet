@@ -1,1 +1,1 @@
-var mnemonic = "social pen funny material drama come poem ramp audit jewel grocery alcohol";
+var mnemonic = "wood trial sword orphan above mystery swap burden switch favorite crumble valley";

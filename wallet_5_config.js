@@ -1,1 +1,1 @@
-var mnemonic = "atom prison identify degree fat uphold beyond second brain side believe fury";
+var mnemonic = "maple mention century yard cube crack stomach often portion endless shove tank";

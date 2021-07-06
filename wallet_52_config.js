@@ -1,1 +1,1 @@
-var mnemonic = "weasel level mimic wash clump route cheap march chat own expand reveal";
+var mnemonic = "spirit supply lucky depth candy nephew thought tail above goat island soon";

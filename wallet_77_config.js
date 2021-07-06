@@ -1,1 +1,1 @@
-var mnemonic = "strong volcano bronze then canal they survey bubble decrease walk frequent film";
+var mnemonic = "story click economy dash still awkward friend artwork damp cannon badge frown";

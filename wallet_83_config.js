@@ -1,1 +1,1 @@
-var mnemonic = "refuse firm obvious cake purse field tennis all arrow grant order lamp";
+var mnemonic = "hero senior luggage fluid wave cabin awful afford squeeze tennis where mirror";

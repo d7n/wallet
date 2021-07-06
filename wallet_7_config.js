@@ -1,1 +1,1 @@
-var mnemonic = "athlete mouse shed hour degree cover coach fine gather grow stand stand";
+var mnemonic = "casual add depend equip solar clown reward bundle ivory dirt sheriff chat";

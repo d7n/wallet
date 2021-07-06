@@ -1,1 +1,1 @@
-var mnemonic = "pilot task immune explain treat double tube narrow future invite lizard exile";
+var mnemonic = "fiber arrive convince company oven misery review jelly trade clerk finish music";

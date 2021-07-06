@@ -1,1 +1,1 @@
-var mnemonic = "boring hazard across twelve slow sauce document weapon own deposit peace section";
+var mnemonic = "pear morning thrive spirit festival pottery crane season lunar debate document decline";

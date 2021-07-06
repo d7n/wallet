@@ -1,1 +1,1 @@
-var mnemonic = "seed brave virtual zoo bacon trouble creek resource eagle city play chapter";
+var mnemonic = "pull bless perfect icon acid sunset symbol knife denial verb tone since";

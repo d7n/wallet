@@ -1,1 +1,1 @@
-var mnemonic = "bubble atom shallow jungle unveil conduct hotel resource property sand pizza clock";
+var mnemonic = "legend above husband high fortune reward hen umbrella axis enable palm tennis";

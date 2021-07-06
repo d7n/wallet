@@ -1,1 +1,1 @@
-var mnemonic = "belt victory record desk fatigue minimum scissors eye shield degree unveil treat";
+var mnemonic = "tiger chief alarm decline note glory ghost decade science wagon citizen rose";

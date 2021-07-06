@@ -1,1 +1,1 @@
-var mnemonic = "shed space refuse jealous century math box news book unknown plunge grit";
+var mnemonic = "leaf turn inspire image join kind salute decline clap gadget broom orphan";

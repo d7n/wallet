@@ -1,1 +1,1 @@
-var mnemonic = "danger gather sword volcano item quote system window loop input much menu";
+var mnemonic = "vintage meadow borrow erase yard case force hazard vicious hero loud tank";

@@ -1,1 +1,1 @@
-var mnemonic = "aware hazard bomb pass dirt example media renew ready burger quick habit";
+var mnemonic = "pepper gauge patrol mean blade tobacco aunt crush old advance galaxy fatigue";

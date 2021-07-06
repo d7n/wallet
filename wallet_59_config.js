@@ -1,1 +1,1 @@
-var mnemonic = "window grace over blame throw six adult wool valve warrior raven wedding";
+var mnemonic = "quarter rare wink lawsuit smooth nothing choice champion dolphin tray avocado lecture";

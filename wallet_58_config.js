@@ -1,1 +1,1 @@
-var mnemonic = "topic human slight more lecture uncle trophy since bird undo crazy plastic";
+var mnemonic = "verb riot tennis myself degree grab humor bridge cloud rich salon lion";

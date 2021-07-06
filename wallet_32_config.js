@@ -1,1 +1,1 @@
-var mnemonic = "weekend original garlic buffalo rural apart canoe wash legal snake farm ketchup";
+var mnemonic = "wrist glimpse brass beauty final spoil ready cherry jealous twin punch roof";

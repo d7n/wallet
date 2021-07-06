@@ -1,1 +1,1 @@
-var mnemonic = "soon gesture boost cute crumble limit clerk icon awkward scorpion inhale into";
+var mnemonic = "baby shock opinion student spare brick lamp wrong fade sketch ship alley";

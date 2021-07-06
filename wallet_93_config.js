@@ -1,1 +1,1 @@
-var mnemonic = "above bomb antique stomach speed jazz mean close click siege saddle motor";
+var mnemonic = "cricket credit room live swift garlic clever object crush approve valid measure";

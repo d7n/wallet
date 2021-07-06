@@ -1,1 +1,1 @@
-var mnemonic = "vapor agent nut hamster road trap spice embark tray dizzy tribe person";
+var mnemonic = "initial glance jealous crisp long jar regret guard repair ice eagle ozone";

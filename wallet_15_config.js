@@ -1,1 +1,1 @@
-var mnemonic = "fancy hockey bone nurse dismiss picnic supply globe fiscal pulse rhythm sad";
+var mnemonic = "hybrid claw effort tuition proud dinner ask labor airport response jump horror";

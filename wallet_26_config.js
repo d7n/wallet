@@ -1,1 +1,1 @@
-var mnemonic = "profit ship trash movie tank solve balance start pass foil door window";
+var mnemonic = "olive retreat crowd extra own magnet forest oval blush rabbit wisdom impulse";

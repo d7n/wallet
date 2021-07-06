@@ -1,1 +1,1 @@
-var mnemonic = "must because session clarify patient witness grant fold mobile grocery pass phone";
+var mnemonic = "permit twin label combine strong addict soda umbrella direct alone drama card";

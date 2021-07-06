@@ -1,1 +1,1 @@
-var mnemonic = "sell amount scrap orange uncover become blast abuse liar burger huge private";
+var mnemonic = "curious cause few tourist author sure document certain chef friend sense elephant";

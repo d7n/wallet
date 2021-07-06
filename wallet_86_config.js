@@ -1,1 +1,1 @@
-var mnemonic = "leg kitten tortoise surprise exile carpet tissue wolf federal choose umbrella ceiling";
+var mnemonic = "speak decrease organ oak captain crawl airport reflect return smoke puppy fox";

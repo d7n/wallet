@@ -1,1 +1,1 @@
-var mnemonic = "inner element deliver receive husband sport chalk time foam trophy amazing old";
+var mnemonic = "bicycle icon buddy bottom kiwi must empower empty hollow derive maze miss";

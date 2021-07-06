@@ -1,1 +1,1 @@
-var mnemonic = "hazard skin left swamp click wing spare window common planet curtain bitter";
+var mnemonic = "light pudding give donate depend lecture puzzle perfect hollow warrior leg repair";

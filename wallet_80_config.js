@@ -1,1 +1,1 @@
-var mnemonic = "debris dirt celery surface electric ill napkin tail illness drift fruit invest";
+var mnemonic = "special pilot clutch shoot mean wonder base duty pluck slush split guide";

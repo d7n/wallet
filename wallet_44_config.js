@@ -1,1 +1,1 @@
-var mnemonic = "fly balcony two orange submit universe dish amateur coin science pelican grit";
+var mnemonic = "burden sadness vast drill leader trophy sketch victory put tower pumpkin garden";

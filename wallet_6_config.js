@@ -1,1 +1,1 @@
-var mnemonic = "kiss tiny main hello wheat pottery apart resemble veteran rib segment oval";
+var mnemonic = "garden fragile then tumble suit path night favorite police undo conduct edit";

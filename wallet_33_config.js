@@ -1,1 +1,1 @@
-var mnemonic = "east ridge vivid chest session family ocean nation menu relief finish figure";
+var mnemonic = "wreck hard maximum snake attack apology inject enhance ring spell sugar eye";

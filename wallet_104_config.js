@@ -1,1 +1,1 @@
-var mnemonic = "keen arrive brave ski orphan coast concert private rigid journey smile orbit";
+var mnemonic = "more cotton soul denial before reflect merit tattoo skull father crouch eagle";

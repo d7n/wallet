@@ -1,1 +1,1 @@
-var mnemonic = "sweet mail taxi unfold upgrade guard fee drip shiver fitness case old";
+var mnemonic = "parade what virus notice animal text predict nominee fury injury river naive";

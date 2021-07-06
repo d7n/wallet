@@ -1,1 +1,1 @@
-var mnemonic = "coil heart pretty pave wealth curtain green argue trend main excuse lobster";
+var mnemonic = "business wrap return skin change diet quality warrior unique narrow erupt scatter";

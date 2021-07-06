@@ -1,1 +1,1 @@
-var mnemonic = "smile they enact process stamp chair say jelly error speed setup please";
+var mnemonic = "social ramp penalty brief together smoke green debris before split trash loyal";

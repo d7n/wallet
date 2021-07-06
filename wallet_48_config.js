@@ -1,1 +1,1 @@
-var mnemonic = "eager front soul man ethics dress squirrel action patrol base page nominee";
+var mnemonic = "trigger urge pen identify bid quiz sport seven orchard alter mammal crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor know warrior test gain govern lava tide sample then paper culture";
+var mnemonic = "jar real cost junk border diary oil stable today can tooth pass";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch must repair nephew picnic regret snake plug pencil cotton tray close";
+var mnemonic = "eagle method chaos shock country photo skill attract planet soda combine glow";

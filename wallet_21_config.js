@@ -1,1 +1,1 @@
-var mnemonic = "object recipe hub volcano fun catch then much crystal sport zoo dawn";
+var mnemonic = "quality wise flame grab maid audit hair wink random royal lunar salad";

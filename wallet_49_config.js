@@ -1,1 +1,1 @@
-var mnemonic = "slide expand key skirt donor soon journey run come vivid erode possible";
+var mnemonic = "swap reflect soft science exist sure spider genre snow eye wheel super";

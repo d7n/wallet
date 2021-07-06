@@ -1,1 +1,1 @@
-var mnemonic = "rate tennis outside notable short myth lift obscure actor crazy notable render";
+var mnemonic = "brief win talent trouble asset badge fancy fog hollow victory top occur";

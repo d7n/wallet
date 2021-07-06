@@ -1,1 +1,1 @@
-var mnemonic = "cheap zone fluid practice long right future huge evolve process photo prosper";
+var mnemonic = "ancient journey result vintage vivid weird pupil aspect alert tiny impulse often";

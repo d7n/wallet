@@ -1,1 +1,1 @@
-var mnemonic = "surprise candy velvet slogan few recall kit flip topic love grass scrub";
+var mnemonic = "bottom rally joy essence trend shaft common curious zone blood float rescue";

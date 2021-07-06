@@ -1,1 +1,1 @@
-var mnemonic = "impose local thrive cook perfect circle soon dawn vendor fever demise arm";
+var mnemonic = "punch radar exist exit diary cradle music news notice spare escape october";

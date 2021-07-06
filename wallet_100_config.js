@@ -1,1 +1,1 @@
-var mnemonic = "brick fabric order plunge polar mail jungle delay dust used danger learn";
+var mnemonic = "tell prosper purpose bunker cover thrive category ketchup code permit trim ring";

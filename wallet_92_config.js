@@ -1,1 +1,1 @@
-var mnemonic = "one hidden trick regret test success hedgehog village crash clean awful eight";
+var mnemonic = "agree pipe magnet keep hollow honey rotate ribbon model chief quiz behave";

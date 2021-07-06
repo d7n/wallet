@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cake street toss yellow goat long predict luxury shock patch wrestle";
+var mnemonic = "gold uphold anxiety razor lesson limit narrow profit nose option goat fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion mandate ordinary phrase verb token device talent move panda water disorder";
+var mnemonic = "noble club hospital want sight physical spice tone normal involve gap repeat";

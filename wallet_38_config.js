@@ -1,1 +1,1 @@
-var mnemonic = "wise matrix extra gift birth cry hair topple throw blood top barrel";
+var mnemonic = "true absent junk assist logic hunt banana program cup desk radio invite";

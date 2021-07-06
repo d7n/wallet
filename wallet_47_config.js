@@ -1,1 +1,1 @@
-var mnemonic = "credit thunder harsh sting spare account tissue shadow digital monster music food";
+var mnemonic = "evolve virtual dilemma tongue poet keep flight mango say fruit debate organ";

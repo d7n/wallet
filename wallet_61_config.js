@@ -1,1 +1,1 @@
-var mnemonic = "outdoor sword discover enroll hire year range design abstract buyer include sunset";
+var mnemonic = "series thing model zebra rubber story sick kite cage agent frame vibrant";

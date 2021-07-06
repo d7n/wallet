@@ -1,1 +1,1 @@
-var mnemonic = "certain used fuel occur orange confirm celery atom egg box evolve join";
+var mnemonic = "you flight finger negative dinner dice drink lock nurse island border bonus";

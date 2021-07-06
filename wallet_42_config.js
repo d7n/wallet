@@ -1,1 +1,1 @@
-var mnemonic = "hint faith start cherry start salute gallery fiber key clip grant theme";
+var mnemonic = "arrange brain kid assume fatal scan vacant dolphin sorry mushroom mammal disorder";

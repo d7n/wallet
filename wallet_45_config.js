@@ -1,1 +1,1 @@
-var mnemonic = "never notable know flush second solution engine odor sunset evolve crisp silver";
+var mnemonic = "add carpet adult box range swift identify paddle romance hurdle patch slogan";

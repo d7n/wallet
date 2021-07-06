@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow expect torch coin artist lesson cinnamon thing suspect letter salmon retreat";
+var mnemonic = "media love able bid eternal sadness box mix pipe bunker letter ship";

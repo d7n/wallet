@@ -1,1 +1,1 @@
-var mnemonic = "give future trophy essence husband lecture bleak giraffe bless hammer face sister";
+var mnemonic = "invite novel there fabric shell dog circle input thumb provide chicken member";

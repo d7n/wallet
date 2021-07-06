@@ -1,1 +1,1 @@
-var mnemonic = "dizzy square render stomach nut special edit fee horn bind axis appear";
+var mnemonic = "vintage pass crystal dawn hammer rely fantasy pact absent world rose team";

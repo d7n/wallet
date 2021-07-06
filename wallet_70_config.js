@@ -1,1 +1,1 @@
-var mnemonic = "sniff join craft hurry margin until depth ritual spring adjust angry quantum";
+var mnemonic = "secret key brand tiny rubber post coral cloud unable exist envelope dry";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler debris boat size vacant cram genius sample riot rice leopard silk";
+var mnemonic = "culture sketch pilot sweet reject crystal admit ridge few plug must tower";

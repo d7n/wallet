@@ -1,1 +1,1 @@
-var mnemonic = "alone hat canyon mercy corn bike hour seven collect travel globe soldier";
+var mnemonic = "only exist latin taste mesh ordinary exact excite tilt ticket rhythm bacon";

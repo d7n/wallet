@@ -1,1 +1,1 @@
-var mnemonic = "ranch link crouch cost inhale cart thrive hair trash club escape hand";
+var mnemonic = "field blur wish team addict romance hint spawn among amount place soccer";

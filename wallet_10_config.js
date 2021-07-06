@@ -1,1 +1,1 @@
-var mnemonic = "recall call minimum surprise brave elder mixed dutch drama erase oak goddess";
+var mnemonic = "arctic upon monitor tongue glory member angry moment together betray student defense";

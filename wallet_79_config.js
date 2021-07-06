@@ -1,1 +1,1 @@
-var mnemonic = "luggage setup maple tennis laptop relax wisdom apple toy castle shoulder knock";
+var mnemonic = "night short surface tray cart weather peace man trend admit design raven";

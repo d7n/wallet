@@ -1,1 +1,1 @@
-var mnemonic = "palm swallow cupboard brand problem evidence bind today result comfort embark grass";
+var mnemonic = "teach inject nice else portion exist dice benefit joke dawn symbol upper";

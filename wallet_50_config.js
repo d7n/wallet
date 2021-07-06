@@ -1,1 +1,1 @@
-var mnemonic = "gold laugh badge increase bring avoid flavor wrap remove news street toe";
+var mnemonic = "improve skate eagle leisure minimum atom sleep hedgehog coffee deposit toe nest";

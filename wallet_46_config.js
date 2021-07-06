@@ -1,1 +1,1 @@
-var mnemonic = "unlock melt short wine powder taste torch best water case position fold";
+var mnemonic = "food victory lend ship rescue picnic sock gossip square leave shoot orange";

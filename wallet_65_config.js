@@ -1,1 +1,1 @@
-var mnemonic = "alley spirit immense ceiling life struggle speed job slush fall subway unaware";
+var mnemonic = "master device blame patch october recipe biology crisp laugh visit head gap";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse daughter estate slice spoil pizza aunt climb student young mistake erosion";
+var mnemonic = "design vessel display army marble cradle team dress coyote first glare uncover";

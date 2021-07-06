@@ -1,1 +1,1 @@
-var mnemonic = "recipe glide aunt seven treat muscle organ pattern motion lumber burden road";
+var mnemonic = "camera judge poem cave damage speed frequent crowd will retire angle transfer";

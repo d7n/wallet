@@ -1,1 +1,1 @@
-var mnemonic = "sport quality lecture use multiply address warfare spin winner certain chicken art";
+var mnemonic = "museum that girl rubber olive behind pony present auto charge remove simple";

@@ -1,1 +1,1 @@
-var mnemonic = "venture place current can enforce city maximum erupt chief balcony spray hurdle";
+var mnemonic = "device fan virtual salmon stick barely gown change thought leaf pig firm";

@@ -1,1 +1,1 @@
-var mnemonic = "used federal version useful you fiscal short kite crack service place media";
+var mnemonic = "zoo emerge wide stomach crop scorpion usage tiny gold garlic slam lazy";

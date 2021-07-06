@@ -1,1 +1,1 @@
-var mnemonic = "forget ridge connect just mosquito paper useful case silly state cash stock";
+var mnemonic = "dash recycle warm twin cruise relief parade damage gold river shaft cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "remove you subject race identify grow raven hollow canal around play bronze";
+var mnemonic = "arena piece online credit stick rain survey toss universe menu phrase opera";

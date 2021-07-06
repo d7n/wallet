@@ -1,1 +1,1 @@
-var mnemonic = "spare ivory decorate book happy shine renew hour alarm amused label cancel";
+var mnemonic = "brown duty genre basket denial category hip affair liquid clock journey submit";

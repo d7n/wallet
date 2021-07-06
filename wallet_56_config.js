@@ -1,1 +1,1 @@
-var mnemonic = "kingdom forum wire spot achieve token cannon make regular pluck rent control";
+var mnemonic = "burden grief boring rescue gorilla venture slam left torch update north chapter";

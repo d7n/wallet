@@ -1,1 +1,1 @@
-var mnemonic = "must entry student flag magic music leg start start evil rapid interest";
+var mnemonic = "fragile raw menu fault hat hint moment acquire keep delay ginger border";

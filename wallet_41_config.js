@@ -1,1 +1,1 @@
-var mnemonic = "consider wonder prosper option debris enhance crouch open float bomb paddle tag";
+var mnemonic = "release term chunk broom furnace stem rude fancy fetch fresh razor powder";

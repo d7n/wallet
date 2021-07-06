@@ -1,1 +1,1 @@
-var mnemonic = "all hope notable prize exchange because struggle about rigid unfair drip coconut";
+var mnemonic = "sunny nominee rebuild struggle crater fish swear shoe paddle drama know april";

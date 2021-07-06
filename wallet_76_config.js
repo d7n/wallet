@@ -1,1 +1,1 @@
-var mnemonic = "elegant deal eternal miss dash swamp screen jelly auto nest bottom jacket";
+var mnemonic = "file catalog plate margin limb put hire spring web armed social will";

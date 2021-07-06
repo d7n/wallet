@@ -1,1 +1,1 @@
-var mnemonic = "attract appear vessel weapon path cradle pill rain relax absurd tattoo critic";
+var mnemonic = "claw dream absent ski sock panda impact delay among couple blossom spoil";

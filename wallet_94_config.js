@@ -1,1 +1,1 @@
-var mnemonic = "panel lizard mimic depend saddle round tissue story sort summer reject asthma";
+var mnemonic = "will carpet pizza finger liar struggle question shed payment rally bracket mail";

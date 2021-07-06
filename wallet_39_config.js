@@ -1,1 +1,1 @@
-var mnemonic = "torch omit sketch correct effort salmon fury enforce vault bachelor student world";
+var mnemonic = "ice mix afford piece peanut pledge cliff ugly enjoy slice artefact laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "true useless reform twice behave globe issue betray case spatial execute rookie";
+var mnemonic = "rhythm kitten drift vibrant learn boost uphold sauce wedding body index recycle";

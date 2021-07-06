@@ -1,1 +1,1 @@
-var mnemonic = "together car junk giant target element wash brush shock fiction pull success";
+var mnemonic = "know unaware high myself special route pair motor fun knee genuine entry";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry tiger paper immune trumpet company cave ripple tunnel bamboo swallow alert";
+var mnemonic = "heavy sight glare isolate expect tired lemon mind goddess crucial injury banana";

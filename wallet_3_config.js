@@ -1,1 +1,1 @@
-var mnemonic = "ladder neutral sugar link umbrella pool crew cliff country choose runway sheriff";
+var mnemonic = "solid artwork remain woman vanish trash long gain olive boring tomato school";

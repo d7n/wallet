@@ -1,1 +1,1 @@
-var mnemonic = "meat fantasy reform weird oak ugly quantum awesome bounce patrol lottery deny";
+var mnemonic = "found conduct sail divide carpet erupt useless put minimum exile polar stand";
