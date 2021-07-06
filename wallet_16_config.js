@@ -1,1 +1,1 @@
-var mnemonic = "cool blanket insane luggage mansion erase analyst receive egg fade sail all";
+var mnemonic = "final quit now fruit seminar crazy wall castle scene upon sniff vital";

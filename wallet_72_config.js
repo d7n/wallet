@@ -1,1 +1,1 @@
-var mnemonic = "fan obvious choose flip little love toe square pumpkin jeans motion grab";
+var mnemonic = "kite lend chest velvet fragile rival ozone lawsuit entire cute sick planet";

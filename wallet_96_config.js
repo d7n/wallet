@@ -1,1 +1,1 @@
-var mnemonic = "tube two black science wonder quick grab glory seat novel sustain hair";
+var mnemonic = "rabbit soda firm frost drill awesome screen voyage humor taste stay unaware";

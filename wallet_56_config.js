@@ -1,1 +1,1 @@
-var mnemonic = "organ tower vast frame party margin board city unknown anger tobacco toast";
+var mnemonic = "talk approve become garlic nice census alarm huge wolf pyramid funny size";

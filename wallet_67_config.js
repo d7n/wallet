@@ -1,1 +1,1 @@
-var mnemonic = "live require movie choice mystery joke fly test praise exile ill ship";
+var mnemonic = "oblige slab nephew aunt horror field steel endorse frequent exhibit cradle armor";

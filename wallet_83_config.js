@@ -1,1 +1,1 @@
-var mnemonic = "annual mushroom glimpse ticket pottery hub despair dizzy noodle meat badge enter";
+var mnemonic = "whale stool fever latin iron track anger potato law section math sweet";

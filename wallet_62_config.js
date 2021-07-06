@@ -1,1 +1,1 @@
-var mnemonic = "drip foster render wrap exercise fire imitate match circle embrace anger repeat";
+var mnemonic = "nothing vanish deliver trip glide bread tube cause narrow path bulk swap";

@@ -1,1 +1,1 @@
-var mnemonic = "garden ice final goat turtle tumble twice art parrot escape tube toward";
+var mnemonic = "rack fortune erode camera film mobile air unit access panther connect always";

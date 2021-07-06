@@ -1,1 +1,1 @@
-var mnemonic = "minimum cupboard cruel draw ice fresh chair actor bar clap coffee frost";
+var mnemonic = "shop path put casino fix express deal habit false install crawl price";

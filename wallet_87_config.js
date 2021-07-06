@@ -1,1 +1,1 @@
-var mnemonic = "ketchup accuse blanket tiger cry just hen robot era process marble vast";
+var mnemonic = "check chest lab boil siren beef then apple banner dentist winner similar";

@@ -1,1 +1,1 @@
-var mnemonic = "body pause purpose finger syrup chest couch sword sea home thunder rabbit";
+var mnemonic = "dance sun fine couple science onion category avocado bracket nurse link smart";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey device mother enter broken breeze clever allow inform desk jelly expand";
+var mnemonic = "school minimum catch soldier during cradle slush abuse wrong group narrow boy";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog decide idea calm east peanut direct knock sad empower labor fresh";
+var mnemonic = "true someone prosper game skin claw kind curtain success tiger urban wrestle";

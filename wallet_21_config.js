@@ -1,1 +1,1 @@
-var mnemonic = "doctor boy sport lawsuit parent style easy cabin voice dog spin wash";
+var mnemonic = "vocal reject frame decide garlic notice emerge dose raise hamster empower uphold";

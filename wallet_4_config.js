@@ -1,1 +1,1 @@
-var mnemonic = "frequent attend deliver front scene envelope breeze badge raw perfect tobacco audit";
+var mnemonic = "include sustain february flower print bird develop cabbage just dwarf will near";

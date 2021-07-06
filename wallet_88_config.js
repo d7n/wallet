@@ -1,1 +1,1 @@
-var mnemonic = "thank pave story beef mesh quote test age execute aunt juice earn";
+var mnemonic = "one elite promote release sadness scare suffer despair fantasy supreme blade visa";

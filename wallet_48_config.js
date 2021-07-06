@@ -1,1 +1,1 @@
-var mnemonic = "churn shoe comfort accident stereo olympic seed entire mushroom save estate lens";
+var mnemonic = "era pole strategy wolf engine school elder fever volume blush sibling stand";

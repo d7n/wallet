@@ -1,1 +1,1 @@
-var mnemonic = "jealous measure aspect minimum pretty glove egg volcano make keep subway forest";
+var mnemonic = "fade wall atom day coil essay world chaos speak business harbor already";

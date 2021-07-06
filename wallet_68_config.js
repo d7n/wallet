@@ -1,1 +1,1 @@
-var mnemonic = "rug shove exotic depart allow teach bomb funny blast scale comfort culture";
+var mnemonic = "member embrace toe express river endless extra belt minimum female charge size";

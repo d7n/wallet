@@ -1,1 +1,1 @@
-var mnemonic = "express network earn crater wink muffin file nephew episode cube common pen";
+var mnemonic = "thank nature rural nation transfer afford fever awful genre bamboo wait gown";

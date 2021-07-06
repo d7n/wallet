@@ -1,1 +1,1 @@
-var mnemonic = "between reason grit remind stand better horror maximum vehicle ghost sauce paper";
+var mnemonic = "motor predict hard original mobile race game language apart leg capital width";

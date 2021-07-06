@@ -1,1 +1,1 @@
-var mnemonic = "squeeze volcano echo inch raven fancy similar flip earn fog dumb dry";
+var mnemonic = "envelope goose image tortoise security grace submit borrow six derive blanket lecture";

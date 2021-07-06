@@ -1,1 +1,1 @@
-var mnemonic = "curious chronic bracket rally also amount nurse goddess jeans object toe amused";
+var mnemonic = "already decade typical song answer keep lab outside wreck raven ecology angry";

@@ -1,1 +1,1 @@
-var mnemonic = "document copper auction ring dumb brass palace acoustic table page actual insect";
+var mnemonic = "museum opinion undo dad august craft song icon peace cheap mechanic choice";

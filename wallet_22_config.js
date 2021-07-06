@@ -1,1 +1,1 @@
-var mnemonic = "awake oppose enemy crucial diesel carpet good siege team trust bronze joke";
+var mnemonic = "grain increase sound mosquito unveil smile blouse vessel hover exile unfold awkward";

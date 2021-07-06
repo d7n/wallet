@@ -1,1 +1,1 @@
-var mnemonic = "wool few hotel member pupil various prize member space tell reflect crucial";
+var mnemonic = "left dinosaur tissue impulse picture surround hurt act bamboo sad mandate worry";

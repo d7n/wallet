@@ -1,1 +1,1 @@
-var mnemonic = "desk pioneer crisp birth upgrade make soccer carbon brush trophy someone enemy";
+var mnemonic = "cotton sort cram valve start ceiling wood punch similar entry ritual life";

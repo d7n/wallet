@@ -1,1 +1,1 @@
-var mnemonic = "subject hill goddess meat penalty icon canal immense shop found roast clinic";
+var mnemonic = "panic lobster fiction unit scrub future interest honey when salad topple kind";

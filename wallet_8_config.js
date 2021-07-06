@@ -1,1 +1,1 @@
-var mnemonic = "exile planet radio pattern photo banana amount hedgehog buddy only flush radar";
+var mnemonic = "remove purity pulse flash document dwarf average symptom entire circle nasty fortune";

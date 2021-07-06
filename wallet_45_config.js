@@ -1,1 +1,1 @@
-var mnemonic = "such clarify climb era genuine valid lumber fury stock hollow grocery scrub";
+var mnemonic = "cram hello flock tiny away dismiss explain ensure ice arrest vault barrel";

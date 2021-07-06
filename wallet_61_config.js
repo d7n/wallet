@@ -1,1 +1,1 @@
-var mnemonic = "iron twin wasp mango waste chef force casino among mesh eagle vague";
+var mnemonic = "rhythm relief page vacuum tissue apple bone cruel spider sea chimney surge";

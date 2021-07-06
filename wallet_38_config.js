@@ -1,1 +1,1 @@
-var mnemonic = "female tuition describe draw together mom useless deposit frown path evoke cave";
+var mnemonic = "satoshi split dinner regular scheme case curious inject cactus wife cat unveil";

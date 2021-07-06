@@ -1,1 +1,1 @@
-var mnemonic = "pond cat betray process mesh measure tower duck ball embark observe scale";
+var mnemonic = "want snake stairs hope relief broccoli dirt between sight youth basket fiction";

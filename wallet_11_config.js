@@ -1,1 +1,1 @@
-var mnemonic = "save flee upon reject future learn butter pen sponsor erode review alien";
+var mnemonic = "deny surface cricket snow swear rotate wine degree icon spy bicycle strategy";

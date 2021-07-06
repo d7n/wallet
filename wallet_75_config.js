@@ -1,1 +1,1 @@
-var mnemonic = "divide pluck material resemble window nothing meadow bullet defy glove casino female";
+var mnemonic = "filter muscle across enter bread smart sleep primary employ pioneer impact road";

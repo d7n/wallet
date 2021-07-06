@@ -1,1 +1,1 @@
-var mnemonic = "arena leader hollow share fly gather lunch undo cargo lottery absorb fame";
+var mnemonic = "desert nest use travel find valid main arrive scrub lunar eternal tree";

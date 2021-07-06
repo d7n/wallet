@@ -1,1 +1,1 @@
-var mnemonic = "capital lecture fence enough nose match always exotic brisk traffic reveal honey";
+var mnemonic = "milk hidden jungle right elephant category sudden year habit wine critic wet";

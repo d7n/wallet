@@ -1,1 +1,1 @@
-var mnemonic = "hazard trophy wrap snack hand income bulb loud purse athlete luggage baby";
+var mnemonic = "round piece found rain today clean image grocery crack garden shiver state";

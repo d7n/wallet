@@ -1,1 +1,1 @@
-var mnemonic = "dwarf exist bean fault keen peanut divert enact body vacant ready erupt";
+var mnemonic = "category dizzy force waste fossil forum what grape shine clap foot health";

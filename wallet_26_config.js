@@ -1,1 +1,1 @@
-var mnemonic = "target matrix pave tobacco intact alarm hover wrap input eternal casino stuff";
+var mnemonic = "error tortoise build ski sweet design useful guitar load prosper ritual hard";

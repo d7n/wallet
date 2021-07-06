@@ -1,1 +1,1 @@
-var mnemonic = "call mixture rely empty stage sail surround obtain tornado churn local topple";
+var mnemonic = "guitar genius latin smart spice pupil review asthma poet silk family echo";

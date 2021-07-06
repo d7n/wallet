@@ -1,1 +1,1 @@
-var mnemonic = "coyote riot pluck decide surge nuclear term table load lunch year type";
+var mnemonic = "aim benefit layer debate naive upper victory snow green foot height much";

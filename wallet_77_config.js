@@ -1,1 +1,1 @@
-var mnemonic = "caution alley goose fold wire quiz setup acoustic erase denial tribe adult";
+var mnemonic = "grass dragon round name protect scan yard process solution sadness churn banner";

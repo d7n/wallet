@@ -1,1 +1,1 @@
-var mnemonic = "crop agent mad spray symptom add sick figure similar teach insane kit";
+var mnemonic = "coil park riot burden victory nest cereal angry walnut captain treat task";

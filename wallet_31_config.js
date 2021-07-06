@@ -1,1 +1,1 @@
-var mnemonic = "account genre jump various gas copper net garment today antenna harsh potato";
+var mnemonic = "tiger secret close permit earth mention solar thought depend hair now egg";

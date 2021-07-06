@@ -1,1 +1,1 @@
-var mnemonic = "lawn visit path special knee wheat perfect diesel cradle wild industry horror";
+var mnemonic = "little orange electric guide hub hire nerve coral gun expect absorb evolve";

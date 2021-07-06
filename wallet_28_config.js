@@ -1,1 +1,1 @@
-var mnemonic = "flash volume emotion people hold drop insect cattle cry trumpet one heavy";
+var mnemonic = "mix regret purse cover trade erode hedgehog seek glow cabbage sure sustain";

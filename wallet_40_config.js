@@ -1,1 +1,1 @@
-var mnemonic = "barely athlete zero rival staff aisle over purse prefer sausage prosper kick";
+var mnemonic = "base icon apology noble glance hundred disorder gloom upgrade answer shoot oblige";

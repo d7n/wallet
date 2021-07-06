@@ -1,1 +1,1 @@
-var mnemonic = "enrich limit oyster position black mom version source blade soon suit disorder";
+var mnemonic = "comfort horn piece similar snap corn word volume disorder hour measure usual";

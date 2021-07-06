@@ -1,1 +1,1 @@
-var mnemonic = "juice tourist awake supply library quantum appear screen menu blanket pole distance";
+var mnemonic = "token eager device sudden soft museum sauce grocery lift toe jump seek";

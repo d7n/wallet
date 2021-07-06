@@ -1,1 +1,1 @@
-var mnemonic = "shop siege pave guard great social job weather grace glide frozen grain";
+var mnemonic = "field flat embody dream oval doctor page aisle pact column devote indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "use help engine limit other moon artefact tail dynamic script grant hub";
+var mnemonic = "lizard inspire push lumber govern alone what pulp palm life color letter";

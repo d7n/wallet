@@ -1,1 +1,1 @@
-var mnemonic = "peasant like steel margin mirror reopen edge century infant sponsor grid custom";
+var mnemonic = "kitchen tooth razor alley kangaroo spice eight neutral dance blur athlete regret";

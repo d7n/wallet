@@ -1,1 +1,1 @@
-var mnemonic = "bonus volume fix surround witness laundry elite kangaroo until liquid season rapid";
+var mnemonic = "faith opera situate welcome casual bridge feature before poem meadow arena never";

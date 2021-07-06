@@ -1,1 +1,1 @@
-var mnemonic = "fruit maximum upset common nephew multiply brick will finger devote soup gap";
+var mnemonic = "spot salon moment proud brave small law type review imitate two ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "armed scissors talk much attend sick page approve oxygen convince estate belt";
+var mnemonic = "siege tongue embody speed rack violin jaguar relief cruel exact noise round";

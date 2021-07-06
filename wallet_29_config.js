@@ -1,1 +1,1 @@
-var mnemonic = "tower clock wait spot van trick ripple tube garden modify garlic mix";
+var mnemonic = "combine forget cattle toe soul wood shaft today science crop minute cinnamon";

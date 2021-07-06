@@ -1,1 +1,1 @@
-var mnemonic = "photo saddle ski dance eternal that dry duck shove believe security auction";
+var mnemonic = "board day only topic blast indoor tenant brown online custom vacuum employ";

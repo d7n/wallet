@@ -1,1 +1,1 @@
-var mnemonic = "remind candy burden once insect curious benefit tip hidden silk oxygen bubble";
+var mnemonic = "vacuum garbage ocean garden shove stadium gain salute wear insane wolf primary";

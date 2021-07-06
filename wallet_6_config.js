@@ -1,1 +1,1 @@
-var mnemonic = "cluster bracket music unaware climb chief inch powder galaxy object glare raw";
+var mnemonic = "cake document grow model toilet document outdoor exchange hidden assault garment sight";

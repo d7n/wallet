@@ -1,1 +1,1 @@
-var mnemonic = "tooth receive laundry kid afford tennis flock cactus dismiss bomb group curve";
+var mnemonic = "verify sustain annual curious token program exile useful crew permit gas bar";

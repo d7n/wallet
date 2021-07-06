@@ -1,1 +1,1 @@
-var mnemonic = "orange never drastic mobile place switch over index enlist banner sense hazard";
+var mnemonic = "tray employ law meat this wool orbit opera under need two risk";

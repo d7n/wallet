@@ -1,1 +1,1 @@
-var mnemonic = "nature record action journey tool ladder cart orient exotic hospital enemy neck";
+var mnemonic = "chunk leopard tortoise hazard expire rapid dog alley alarm sister increase love";

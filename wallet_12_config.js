@@ -1,1 +1,1 @@
-var mnemonic = "extra fiction usual kidney antique one rich together ghost february yard pen";
+var mnemonic = "bid opinion pen mammal glare slush sort require camp mosquito hold actual";

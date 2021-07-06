@@ -1,1 +1,1 @@
-var mnemonic = "trumpet bonus chest twelve deliver mass near betray patient wedding catalog crawl";
+var mnemonic = "helmet provide profit joke brief undo lab project mountain mountain control eagle";

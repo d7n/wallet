@@ -1,1 +1,1 @@
-var mnemonic = "hover page inherit poem rival seven parade gate kiss enforce there suit";
+var mnemonic = "gentle glance spoil region leader have ozone recall thrive pitch wisdom found";

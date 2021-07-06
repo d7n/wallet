@@ -1,1 +1,1 @@
-var mnemonic = "avocado open deliver hip eye attend mountain symbol repair swim shell sport";
+var mnemonic = "snap come width speed reward smoke fish eyebrow exclude citizen fence wish";

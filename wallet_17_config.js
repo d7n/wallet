@@ -1,1 +1,1 @@
-var mnemonic = "skull spoil donkey abstract minor correct cricket obvious basic describe message dry";
+var mnemonic = "surge seed robot ghost verify agree nasty oven switch flush pelican sunny";

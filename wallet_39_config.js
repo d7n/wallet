@@ -1,1 +1,1 @@
-var mnemonic = "alter still hungry patient keen smoke cactus void hub equal raw draw";
+var mnemonic = "relief benefit autumn acquire solid uniform celery pause nasty idea have print";

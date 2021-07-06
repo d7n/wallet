@@ -1,1 +1,1 @@
-var mnemonic = "detail senior come alley moral talk vanish dwarf quality survey one defense";
+var mnemonic = "family quality liquid plunge crime awful tunnel impulse acquire plate brand harbor";

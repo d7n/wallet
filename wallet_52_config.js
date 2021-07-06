@@ -1,1 +1,1 @@
-var mnemonic = "dirt year follow lady coach rebel bargain keen slender prefer drip board";
+var mnemonic = "tower enter click unaware judge proud brick stamp hair occur disagree health";

@@ -1,1 +1,1 @@
-var mnemonic = "special pencil boost because trade blade ostrich evidence exist wolf cross item";
+var mnemonic = "burger accuse august carbon lens pioneer leaf fire inspire pull real okay";

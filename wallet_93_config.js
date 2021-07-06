@@ -1,1 +1,1 @@
-var mnemonic = "seek push foil carry neutral identify casino mad very ritual left gentle";
+var mnemonic = "athlete office flush expand solve food usage paper beyond fuel leg town";

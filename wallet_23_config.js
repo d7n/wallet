@@ -1,1 +1,1 @@
-var mnemonic = "capable kit lamp crack pitch tobacco minute fog path lobster cannon remain";
+var mnemonic = "claw betray loud snack race antique twenty canal illegal lock stick sample";

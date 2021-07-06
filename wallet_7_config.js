@@ -1,1 +1,1 @@
-var mnemonic = "reward valley fire island area sausage capable infant clinic deputy nasty tribe";
+var mnemonic = "copper luggage card until priority veteran crop human trip connect antique gossip";

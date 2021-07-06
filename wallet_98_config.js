@@ -1,1 +1,1 @@
-var mnemonic = "blur brain gate voice clock code renew club rich fabric clock medal";
+var mnemonic = "vital price bag roast actual host foot bright document strong cart blame";

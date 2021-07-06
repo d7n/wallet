@@ -1,1 +1,1 @@
-var mnemonic = "connect dog crowd debris gloom virtual merit just ghost remind pact front";
+var mnemonic = "charge blouse game animal remember sick confirm inherit weasel student blur various";

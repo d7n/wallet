@@ -1,1 +1,1 @@
-var mnemonic = "loyal boss palm hint report cabin student stable mechanic seek soldier beach";
+var mnemonic = "area scene siege sort welcome ecology home swift involve record slogan popular";

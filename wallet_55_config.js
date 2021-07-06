@@ -1,1 +1,1 @@
-var mnemonic = "ability write chronic total kiss museum argue ring connect blush weather deliver";
+var mnemonic = "guide avocado bless winter pink suit find place play inspire salon draft";

@@ -1,1 +1,1 @@
-var mnemonic = "icon sport invite opera path beauty list spirit secret anxiety sword drift";
+var mnemonic = "snow add job defy cake rare head raven awake clutch property help";

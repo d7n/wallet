@@ -1,1 +1,1 @@
-var mnemonic = "cube remember spare noble grief section strong expand resemble crucial ceiling satoshi";
+var mnemonic = "odor grunt brass arena bubble jacket march sight spend obvious play bracket";

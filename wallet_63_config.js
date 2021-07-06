@@ -1,1 +1,1 @@
-var mnemonic = "royal kitten nominee exotic rebuild reopen useful shoot recall decline anger skull";
+var mnemonic = "hand sphere sadness forget lesson expand cheese prison satisfy saddle shoulder diesel";

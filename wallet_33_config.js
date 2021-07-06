@@ -1,1 +1,1 @@
-var mnemonic = "brave point language notable speed liquid view spot cost pact urban anger";
+var mnemonic = "frog about patch elevator portion found toy track love drip brass naive";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow relax life aim approve siren jelly control nerve child basic usage";
+var mnemonic = "comfort cushion dinosaur clock six olympic remember couch number portion fitness fortune";

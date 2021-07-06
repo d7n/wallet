@@ -1,1 +1,1 @@
-var mnemonic = "plunge organ inch boil oyster party huge action razor hand cruel eye";
+var mnemonic = "menu bid quick response kind expire tribe group zebra often kick lady";

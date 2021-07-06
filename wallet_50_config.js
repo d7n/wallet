@@ -1,1 +1,1 @@
-var mnemonic = "panther document bubble violin sting enforce depth own era dinner fox local";
+var mnemonic = "swift task bonus fashion easily armor bunker best garbage guitar wrist side";

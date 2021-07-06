@@ -1,1 +1,1 @@
-var mnemonic = "globe away foil idle please diesel level salad system wire term inflict";
+var mnemonic = "trend sign crystal you junk autumn brother zone know guard entry gas";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate bid stool harsh left survey federal private fragile fault awesome dizzy";
+var mnemonic = "loop public wagon aim tobacco present marble man another pelican weapon item";
