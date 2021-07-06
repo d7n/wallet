@@ -1,1 +1,1 @@
-var mnemonic = "make cross draft creek rail stool menu cash program analyst arctic route";
+var mnemonic = "interest math satoshi neutral test hedgehog remain before calm cube beyond vocal";

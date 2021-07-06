@@ -1,1 +1,1 @@
-var mnemonic = "blind prize steel velvet soon leader breeze choose disagree priority relief improve";
+var mnemonic = "divide volcano elbow blast popular proud salt blue whip leg rate reduce";

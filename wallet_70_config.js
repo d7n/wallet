@@ -1,1 +1,1 @@
-var mnemonic = "divide midnight jeans universe pepper urban pledge install quiz demand six citizen";
+var mnemonic = "wreck skirt enemy sing february bulb staff arm gas travel cradle symptom";

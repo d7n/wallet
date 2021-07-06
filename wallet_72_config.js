@@ -1,1 +1,1 @@
-var mnemonic = "tiny gesture wave merit second index water cute symbol crawl code acquire";
+var mnemonic = "spoil stuff squeeze razor beach harvest discover radio cousin hope must soccer";

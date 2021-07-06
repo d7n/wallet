@@ -1,1 +1,1 @@
-var mnemonic = "same truth risk other trumpet wall journey pioneer crouch much mistake meat";
+var mnemonic = "bullet useless wage subway reflect sponsor prison double east plunge neglect olive";

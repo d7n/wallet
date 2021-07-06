@@ -1,1 +1,1 @@
-var mnemonic = "fly ball mean mobile property poem owner boost invest chuckle provide slice";
+var mnemonic = "guard mixed elbow impose base trust dad pair glow border sample bar";

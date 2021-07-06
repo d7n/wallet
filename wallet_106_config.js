@@ -1,1 +1,1 @@
-var mnemonic = "label gym clap mouse rabbit absurd walk dragon save tone bench assume";
+var mnemonic = "dynamic dinner elbow step liar odor chat trigger collect donate update term";

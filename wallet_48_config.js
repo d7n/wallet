@@ -1,1 +1,1 @@
-var mnemonic = "attitude hedgehog portion random clog conduct family alley trim box mule check";
+var mnemonic = "square diet often deer nose sister bid alien vacuum truly wrestle payment";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge crouch jazz large voyage broken sleep provide dinner promote admit daughter";
+var mnemonic = "episode deer category grief borrow paper outdoor length twelve apple protect fresh";

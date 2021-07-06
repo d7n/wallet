@@ -1,1 +1,1 @@
-var mnemonic = "loud entire time reopen olive gentle transfer talent between say pool rare";
+var mnemonic = "organ immune success rabbit wheat room escape bag voice cube tobacco hamster";

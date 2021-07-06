@@ -1,1 +1,1 @@
-var mnemonic = "movie picnic tag erosion tenant dolphin hurdle donate merit rifle human deal";
+var mnemonic = "abstract rookie thank delay drill alpha scene valley error inside silly loud";

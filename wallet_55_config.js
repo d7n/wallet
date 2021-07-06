@@ -1,1 +1,1 @@
-var mnemonic = "genius pizza cover harbor method hunt select slide ostrich able flat kidney";
+var mnemonic = "quote staff hover gown solar shop umbrella category warrior tone gown humor";

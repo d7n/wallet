@@ -1,1 +1,1 @@
-var mnemonic = "way panic siren valid subject bulk favorite clip speed ignore bargain eager";
+var mnemonic = "sausage slight shove long maze hollow disorder this item fork profit grain";

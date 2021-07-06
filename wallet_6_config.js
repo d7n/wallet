@@ -1,1 +1,1 @@
-var mnemonic = "fork fragile silent jump grit gaze cricket evoke sudden grocery chronic club";
+var mnemonic = "term result sing advance want cereal nothing pyramid length under practice pumpkin";

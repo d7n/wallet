@@ -1,1 +1,1 @@
-var mnemonic = "shuffle brother educate tree blouse oil fly shiver crucial actress fish shove";
+var mnemonic = "census bulb clever caught destroy sick program maid hen want inspire dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase normal elegant easily neither reflect erupt angle sugar couple hotel unlock";
+var mnemonic = "rifle response museum small deputy sweet evoke enforce bean ramp cabbage border";

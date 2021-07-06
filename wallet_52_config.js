@@ -1,1 +1,1 @@
-var mnemonic = "eight dry smoke art guide cereal offer hundred transfer bronze indoor almost";
+var mnemonic = "plastic wrong injury inform middle truly vault civil attitude tube board behave";

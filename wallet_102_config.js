@@ -1,1 +1,1 @@
-var mnemonic = "observe live convince occur intact stage cereal unit phrase shrug fork open";
+var mnemonic = "stadium turkey fan trumpet habit rough ostrich mad tourist garden drastic inform";

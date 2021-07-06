@@ -1,1 +1,1 @@
-var mnemonic = "track sick tiger rally negative chief pause offer foster oyster decade board";
+var mnemonic = "prison sibling ill omit club sad absurd promote nut ecology earn ensure";

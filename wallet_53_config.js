@@ -1,1 +1,1 @@
-var mnemonic = "diesel garden cereal body letter mutual away gun trumpet physical rebel tube";
+var mnemonic = "kangaroo paper slam devote split mixture various coconut fence cash guilt century";

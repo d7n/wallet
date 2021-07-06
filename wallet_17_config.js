@@ -1,1 +1,1 @@
-var mnemonic = "drop sail lava tide since rent arrive bless heavy wear joke reject";
+var mnemonic = "smart size legend daring stock neck sing evidence cushion slogan sight tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "above venture table speak access wet snake suspect lock occur resemble meadow";
+var mnemonic = "doll bullet wonder sentence aisle yard business subway strategy sadness isolate ability";

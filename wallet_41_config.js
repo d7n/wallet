@@ -1,1 +1,1 @@
-var mnemonic = "begin put light credit duty chicken dynamic business broom trap heavy escape";
+var mnemonic = "obscure tackle gain outer balance nature dream afford blood river six few";

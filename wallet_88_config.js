@@ -1,1 +1,1 @@
-var mnemonic = "tank large similar estate unfair pluck regular muffin toy actual dinner journey";
+var mnemonic = "razor tail maze poem sponsor laptop trophy absurd glow throw loop limb";

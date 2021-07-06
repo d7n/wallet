@@ -1,1 +1,1 @@
-var mnemonic = "good pave pear explain scrub issue convince record orchard security acoustic beauty";
+var mnemonic = "vendor toward drink borrow gauge melt planet remain race whale moon light";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion lazy banner culture universe tattoo oval popular child response pizza bone";
+var mnemonic = "occur skill web debris winter sauce oppose enlist reflect uncover gentle royal";

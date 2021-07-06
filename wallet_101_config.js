@@ -1,1 +1,1 @@
-var mnemonic = "deliver universe vote flight often draft primary liar record error lecture remember";
+var mnemonic = "tree cause fortune despair control pipe obscure ability thunder build door area";

@@ -1,1 +1,1 @@
-var mnemonic = "bread latin slab bitter quick observe ability jelly cigar cruise canal blanket";
+var mnemonic = "ordinary soup medal cattle mango weather wolf upper mouse cram claw mix";

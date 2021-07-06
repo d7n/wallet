@@ -1,1 +1,1 @@
-var mnemonic = "feel hard remind evoke soap major wolf forum leopard unfold drip swarm";
+var mnemonic = "hair input multiply gas medal blame tourist relax staff report blade fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "spider section mixture shrug wisdom dove lunch lava impact sense burden whale";
+var mnemonic = "gate talk income hospital foil ostrich accident need elephant reveal type dutch";

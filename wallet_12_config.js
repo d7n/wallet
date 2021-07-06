@@ -1,1 +1,1 @@
-var mnemonic = "stuff arrest price extend buyer hurt return laundry life butter fat pistol";
+var mnemonic = "satoshi orbit shine image grief nature catalog add cram sort famous goddess";

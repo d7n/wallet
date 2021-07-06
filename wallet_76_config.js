@@ -1,1 +1,1 @@
-var mnemonic = "process arena notice govern veteran logic opera sponsor stick people shadow web";
+var mnemonic = "album genre essay universe cube maze type stereo exist solve offer lab";

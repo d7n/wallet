@@ -1,1 +1,1 @@
-var mnemonic = "fault extra want doctor success like rebel dentist title one one label";
+var mnemonic = "domain genuine combine slogan hub blue measure rate month trigger climb faint";

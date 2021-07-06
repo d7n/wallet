@@ -1,1 +1,1 @@
-var mnemonic = "rubber shrug soft gown trade decade busy tribe great boy profit unknown";
+var mnemonic = "remember away motor mercy ecology always jacket coach save inform sunny side";

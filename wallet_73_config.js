@@ -1,1 +1,1 @@
-var mnemonic = "barrel machine price pet happy indicate excuse arch bomb into apple despair";
+var mnemonic = "test flame menu pumpkin donate rail wool forest damp napkin plate multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "submit decide relax sleep art certain acid victory damage trumpet rain home";
+var mnemonic = "repair click match fork tone volume ski ethics theme room gravity unaware";

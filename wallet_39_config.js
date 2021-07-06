@@ -1,1 +1,1 @@
-var mnemonic = "ask best universe often kid talk drill aim cement bid panel funny";
+var mnemonic = "life note arm shoot nuclear motion vendor exclude tattoo senior busy comic";

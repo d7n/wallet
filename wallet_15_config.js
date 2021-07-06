@@ -1,1 +1,1 @@
-var mnemonic = "economy advice thunder nasty jewel glide learn seed skill glimpse kitchen heavy";
+var mnemonic = "excite mom govern asset visit miracle pulp arrange tragic blouse concert number";

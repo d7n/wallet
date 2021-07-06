@@ -1,1 +1,1 @@
-var mnemonic = "achieve student eternal luxury apple punch city jaguar neither defense usage day";
+var mnemonic = "waste keep ship know jazz such seven night marble fabric glass control";

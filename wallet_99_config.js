@@ -1,1 +1,1 @@
-var mnemonic = "panther family anger clarify coil lecture wish alone license avocado poverty screen";
+var mnemonic = "nut brown increase boil stomach like cave kind afraid stem opinion dad";

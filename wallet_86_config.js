@@ -1,1 +1,1 @@
-var mnemonic = "cancel horn minimum exact make fashion pill trash arena update engine rice";
+var mnemonic = "father consider risk voyage identify asset math flush world away poet child";

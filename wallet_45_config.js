@@ -1,1 +1,1 @@
-var mnemonic = "evolve board math diary west fury fix better mouse town clutch armor";
+var mnemonic = "barely code pilot assist pelican cause nice flush never all humor food";

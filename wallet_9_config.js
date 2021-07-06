@@ -1,1 +1,1 @@
-var mnemonic = "evoke common flip tenant lawn scissors wealth dove front cover glance cabin";
+var mnemonic = "jar bundle hockey village away enlist harbor noise cover cliff arctic slight";

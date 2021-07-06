@@ -1,1 +1,1 @@
-var mnemonic = "world ensure eyebrow tower train ritual olive analyst shed bike issue punch";
+var mnemonic = "piano giant skirt found core step tackle loud nurse stage grape tower";

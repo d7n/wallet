@@ -1,1 +1,1 @@
-var mnemonic = "health narrow fly smart enter turkey impulse amazing poverty lounge ankle alcohol";
+var mnemonic = "matrix sheriff snow face heart frog bring orphan water dizzy raccoon verify";

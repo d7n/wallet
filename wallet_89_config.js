@@ -1,1 +1,1 @@
-var mnemonic = "bacon super young suit myth shadow celery october filter primary network shallow";
+var mnemonic = "mail correct property dinosaur strategy loan uncle fantasy scare drama horror long";

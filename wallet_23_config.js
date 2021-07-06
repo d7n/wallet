@@ -1,1 +1,1 @@
-var mnemonic = "invest voyage cable upon great finger link ceiling cement hen obey fitness";
+var mnemonic = "prize little sunset identify peace huge knee notice scrub else stomach gap";

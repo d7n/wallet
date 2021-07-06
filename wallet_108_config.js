@@ -1,1 +1,1 @@
-var mnemonic = "reason road obtain mind nature useful half guide arm exchange weasel profit";
+var mnemonic = "patrol subject name glove couch dizzy priority remind again pig surround history";

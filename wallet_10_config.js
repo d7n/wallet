@@ -1,1 +1,1 @@
-var mnemonic = "impact kick story hunt chuckle merge job duty loyal wall more pencil";
+var mnemonic = "word foil portion certain favorite imitate same catch absorb carbon portion ceiling";

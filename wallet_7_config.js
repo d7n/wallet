@@ -1,1 +1,1 @@
-var mnemonic = "lesson mother wide between believe planet great pool pact object work taxi";
+var mnemonic = "scissors tent wheat notable celery fuel chief blast nurse genre funny alarm";

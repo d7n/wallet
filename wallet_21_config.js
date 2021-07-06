@@ -1,1 +1,1 @@
-var mnemonic = "glove win tube focus deal switch ensure despair project jelly bleak prosper";
+var mnemonic = "canoe spawn soup erosion across never quantum glance sound unable mass bomb";

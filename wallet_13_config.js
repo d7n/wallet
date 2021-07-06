@@ -1,1 +1,1 @@
-var mnemonic = "select rack fever solution file okay lyrics number toss shoe amused under";
+var mnemonic = "hint rare pyramid draw true hunt dwarf soft love job office gospel";

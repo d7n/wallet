@@ -1,1 +1,1 @@
-var mnemonic = "unfair put sting glad outer duty pencil hidden course acoustic kiss ridge";
+var mnemonic = "ramp barely border raccoon input siren vague opinion ready pattern avoid code";

@@ -1,1 +1,1 @@
-var mnemonic = "edge rival truck rally run two text rabbit kit announce athlete token";
+var mnemonic = "near galaxy walnut rebuild used stumble brown mandate hospital magnet accuse pyramid";

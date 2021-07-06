@@ -1,1 +1,1 @@
-var mnemonic = "better omit mutual knock hurt parade multiply manage setup sick garden staff";
+var mnemonic = "lunar response chef utility twist syrup tent repeat sorry spray bar assault";

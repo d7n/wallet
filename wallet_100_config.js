@@ -1,1 +1,1 @@
-var mnemonic = "winter mention oil squeeze edge dash glove upon live couple express vintage";
+var mnemonic = "erase bonus banner radio umbrella fly custom broccoli science strategy pigeon draw";

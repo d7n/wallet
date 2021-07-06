@@ -1,1 +1,1 @@
-var mnemonic = "toy annual blanket dad rate dose invest unlock post head error spread";
+var mnemonic = "coconut advice clown never company crew safe swarm enroll vote debris castle";

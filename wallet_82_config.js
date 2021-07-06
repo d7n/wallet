@@ -1,1 +1,1 @@
-var mnemonic = "laundry attend point clarify suspect adult runway tilt fitness analyst hat lava";
+var mnemonic = "accident arm impulse say belt curve coast smoke merry wise page then";

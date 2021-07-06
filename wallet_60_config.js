@@ -1,1 +1,1 @@
-var mnemonic = "settle emerge assume sleep flock dolphin tube census machine open robot pair";
+var mnemonic = "return crouch powder general crew repair fat garlic holiday bitter walk degree";

@@ -1,1 +1,1 @@
-var mnemonic = "claw kind rather vacant mixture jeans width boy march diamond oval among";
+var mnemonic = "ball practice deliver sentence grab spice until refuse media combine because cannon";

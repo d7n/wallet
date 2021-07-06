@@ -1,1 +1,1 @@
-var mnemonic = "wise true across team across neither catalog napkin lounge scan soccer buffalo";
+var mnemonic = "faint lazy cluster wish suit purpose dirt beef choice zone zebra tool";

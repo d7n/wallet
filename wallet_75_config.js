@@ -1,1 +1,1 @@
-var mnemonic = "trade exhaust section write desk fade theory return world aunt crouch inhale";
+var mnemonic = "double release wage absorb shrimp brisk nose churn armor angry voyage ahead";

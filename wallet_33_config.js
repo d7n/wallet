@@ -1,1 +1,1 @@
-var mnemonic = "hurt syrup script gown slight write engine force velvet scissors truly fan";
+var mnemonic = "rich pulp trade dilemma mobile hockey dutch elephant garment web alone mandate";

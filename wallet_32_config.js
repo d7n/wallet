@@ -1,1 +1,1 @@
-var mnemonic = "truck hello husband right buffalo habit buzz soccer ahead envelope charge cause";
+var mnemonic = "whisper much cloud acid suffer together survey emerge fitness swift rebel explain";

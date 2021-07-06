@@ -1,1 +1,1 @@
-var mnemonic = "usage awesome lottery certain oyster merit join blood wool weekend shed deliver";
+var mnemonic = "fame helmet aspect drama close brother tragic amateur stable kit sweet universe";

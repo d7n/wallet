@@ -1,1 +1,1 @@
-var mnemonic = "transfer bundle gate canoe annual cliff exclude buzz toy empower describe loop";
+var mnemonic = "wheat rough gallery gas smart decorate stomach genuine today chalk sure that";

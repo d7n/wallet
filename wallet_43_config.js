@@ -1,1 +1,1 @@
-var mnemonic = "sock sand weasel luxury craft style bachelor horror casual ride captain bachelor";
+var mnemonic = "wish example equal fancy comfort task ritual below number sibling denial liquid";

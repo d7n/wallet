@@ -1,1 +1,1 @@
-var mnemonic = "wise language home fabric announce mind room hurry muffin fish couch tuna";
+var mnemonic = "balcony duck slender salon salad nature labor art quality client bid catalog";

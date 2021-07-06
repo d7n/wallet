@@ -1,1 +1,1 @@
-var mnemonic = "lucky ginger before gauge weasel cousin behave van breeze casual monster what";
+var mnemonic = "pilot build rigid excite casino puppy act load horse banana light light";

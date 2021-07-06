@@ -1,1 +1,1 @@
-var mnemonic = "caught mad chef depart lady supply uniform tiger glance solar tonight myself";
+var mnemonic = "gaze immense barrel radio myth clump weasel scheme win time hurry coast";

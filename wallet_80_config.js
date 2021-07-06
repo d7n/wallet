@@ -1,1 +1,1 @@
-var mnemonic = "pattern library glimpse awkward sketch elite accident puzzle sibling concert flower view";
+var mnemonic = "rally wood dutch figure couple fan awake acoustic place accuse boring shift";

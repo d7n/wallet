@@ -1,1 +1,1 @@
-var mnemonic = "eager dove now interest affair present swear soccer document flat radio island";
+var mnemonic = "cube slice kid gift lens split trash young bleak produce error view";

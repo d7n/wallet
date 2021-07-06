@@ -1,1 +1,1 @@
-var mnemonic = "hour cause hub invite orient where mutual end whisper tell empty honey";
+var mnemonic = "lyrics miracle master weather ride fun fee fashion fame nuclear make rural";

@@ -1,1 +1,1 @@
-var mnemonic = "hire sunset put turtle false museum under edit tell crew better faculty";
+var mnemonic = "day weekend person upgrade rural fury harbor absent wood seminar paper range";

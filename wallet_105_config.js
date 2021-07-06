@@ -1,1 +1,1 @@
-var mnemonic = "diesel ivory payment joke knee pulse column swallow weather fade census party";
+var mnemonic = "super confirm tribe second exhaust worth cable isolate puppy still sniff erosion";

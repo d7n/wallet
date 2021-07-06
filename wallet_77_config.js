@@ -1,1 +1,1 @@
-var mnemonic = "cart area target camp wrap delay fabric warrior electric page pencil balance";
+var mnemonic = "stable embark trade armor day menu mammal dune federal smart describe message";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme cereal reveal sheriff smooth alley spring always coyote bargain prosper mass";
+var mnemonic = "diagram outside remind swamp salmon loyal comfort position clown gather baby aisle";

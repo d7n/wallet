@@ -1,1 +1,1 @@
-var mnemonic = "night fragile roast yard observe erase million organ pulp cycle crucial another";
+var mnemonic = "fury party snake birth blade dinner tissue course pink first decade lake";

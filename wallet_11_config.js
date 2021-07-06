@@ -1,1 +1,1 @@
-var mnemonic = "board ozone relief enhance fashion bread occur will edge deputy throw search";
+var mnemonic = "large outer room hold segment strike enemy wild hour uncle affair dial";

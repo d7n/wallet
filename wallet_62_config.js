@@ -1,1 +1,1 @@
-var mnemonic = "goat prepare ski employ angry weekend corn glue scrub page claw neck";
+var mnemonic = "talent space leg enhance test edit comic cross hand mountain sport february";

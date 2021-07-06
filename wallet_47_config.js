@@ -1,1 +1,1 @@
-var mnemonic = "like bubble current gown clog cry target thrive aerobic code good hill";
+var mnemonic = "unaware size review demand grant mercy mercy quantum fury profit bounce crash";

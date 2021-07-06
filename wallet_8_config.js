@@ -1,1 +1,1 @@
-var mnemonic = "panel remove more window wild lawn wolf february mistake ginger express region";
+var mnemonic = "violin strategy cover warfare bench opera moon excite patrol poet office film";

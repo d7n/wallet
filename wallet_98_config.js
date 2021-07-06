@@ -1,1 +1,1 @@
-var mnemonic = "envelope injury friend van enlist before narrow other victory intact circle neither";
+var mnemonic = "market picture humble dance cruise model debris diesel energy rookie witness summer";

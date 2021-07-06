@@ -1,1 +1,1 @@
-var mnemonic = "rocket knee tissue relax six tell tourist memory peanut hand drum focus";
+var mnemonic = "position eager erupt spoil mail evil pledge dash pill stomach quit mix";

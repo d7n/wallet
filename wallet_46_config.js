@@ -1,1 +1,1 @@
-var mnemonic = "unhappy wolf beach lady summer say infant topic matter uncle couch head";
+var mnemonic = "couple payment snake trash breeze fringe panic case output gaze tower collect";

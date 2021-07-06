@@ -1,1 +1,1 @@
-var mnemonic = "auto turn chapter during envelope rose salute will mesh enough option smooth";
+var mnemonic = "first goose same memory mom tuition above twelve input absorb scare engine";

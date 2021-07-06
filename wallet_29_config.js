@@ -1,1 +1,1 @@
-var mnemonic = "trial hair latin twice traffic ritual love own old control sing act";
+var mnemonic = "crouch shiver tiger tunnel bulb deputy daughter duty arrange enforce sure village";

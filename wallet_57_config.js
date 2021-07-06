@@ -1,1 +1,1 @@
-var mnemonic = "cage system law near bone novel dash unable wash stem name cry";
+var mnemonic = "join edit degree observe lake token clinic dog jealous one push card";

@@ -1,1 +1,1 @@
-var mnemonic = "skate butter style dragon seat parrot trophy bridge energy fiction whip pudding";
+var mnemonic = "finish deny pluck stool genius buddy vintage planet heart fire cluster kit";

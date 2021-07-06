@@ -1,1 +1,1 @@
-var mnemonic = "spell extend glue surround oyster hire remind impact toast predict awful knee";
+var mnemonic = "actress twice rather hunt merit camp cave mammal rack office betray pig";

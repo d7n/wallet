@@ -1,1 +1,1 @@
-var mnemonic = "boat suggest dial balcony fault kangaroo first twin swap lawn word coral";
+var mnemonic = "trophy album turkey squirrel left finish consider fox once spatial life once";

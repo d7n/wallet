@@ -1,1 +1,1 @@
-var mnemonic = "box satoshi yellow win argue post magnet plug mind bacon armor slogan";
+var mnemonic = "cruel evoke employ stone tip scene pottery debris car place goose among";

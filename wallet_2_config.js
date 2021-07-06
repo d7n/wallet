@@ -1,1 +1,1 @@
-var mnemonic = "during enable team maple memory warfare weapon shaft ensure absurd blood fortune";
+var mnemonic = "foam pear sock scheme recycle state material december vessel car deer ensure";
