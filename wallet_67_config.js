@@ -1,1 +1,1 @@
-var mnemonic = "boat demand capable any else blanket south uphold flag kangaroo wise today";
+var mnemonic = "payment coral word fatigue raven act hour token right false fold leader";

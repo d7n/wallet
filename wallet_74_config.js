@@ -1,1 +1,1 @@
-var mnemonic = "shift hospital fade source under exist flat once soon ghost nominee rack";
+var mnemonic = "eagle crack script lecture surprise end duty main pen retire session snow";

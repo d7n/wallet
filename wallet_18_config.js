@@ -1,1 +1,1 @@
-var mnemonic = "marriage venture thunder toss marine crazy motor patch monkey notice famous future";
+var mnemonic = "speak mechanic vacuum pride unveil pattern session glad decline engine merit east";

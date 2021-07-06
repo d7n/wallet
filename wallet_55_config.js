@@ -1,1 +1,1 @@
-var mnemonic = "force nephew display radar soup decrease profit moment hybrid arrive inquiry deer";
+var mnemonic = "invest timber twice ketchup engage outdoor bomb random stamp stable immune chair";

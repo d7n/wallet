@@ -1,1 +1,1 @@
-var mnemonic = "defense region farm east business media summer expire matter flush bicycle guess";
+var mnemonic = "belt crack square cricket learn green enjoy unveil atom correct soon acoustic";

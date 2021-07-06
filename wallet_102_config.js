@@ -1,1 +1,1 @@
-var mnemonic = "exact father rent sad mention outdoor eternal doll glimpse there kiss anchor";
+var mnemonic = "garlic caution chimney illegal clown laptop network shoot first fat reform media";

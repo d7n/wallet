@@ -1,1 +1,1 @@
-var mnemonic = "network already seminar maximum tide patrol uncover great dial lava pizza delay";
+var mnemonic = "lottery gate sketch tongue salon buffalo wealth tissue faith track aspect novel";

@@ -1,1 +1,1 @@
-var mnemonic = "brick month notice brown hill wool kite horn napkin odor tone hungry";
+var mnemonic = "receive soup mass dumb venue indicate company worth expose judge push seven";

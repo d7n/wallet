@@ -1,1 +1,1 @@
-var mnemonic = "round endorse collect world tell avocado solve false tortoise hood old sketch";
+var mnemonic = "undo evidence clog liquid transfer accident obey industry tumble capital member gown";

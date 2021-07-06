@@ -1,1 +1,1 @@
-var mnemonic = "half outer thunder obvious impose mix hair nice control choice save animal";
+var mnemonic = "connect fever movie hint paddle ugly drum twenty better way member excite";

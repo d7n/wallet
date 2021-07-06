@@ -1,1 +1,1 @@
-var mnemonic = "trigger entire catch correct mask pepper bacon chair emotion better minimum require";
+var mnemonic = "obey hard social fruit south nut loan eye cash area hire swear";

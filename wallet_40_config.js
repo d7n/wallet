@@ -1,1 +1,1 @@
-var mnemonic = "attract change bench common indicate viable pole energy surprise velvet expose expand";
+var mnemonic = "east mother purpose festival base twelve sun spider analyst observe logic question";

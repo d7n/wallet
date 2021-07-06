@@ -1,1 +1,1 @@
-var mnemonic = "industry monitor human hand execute erase modify discover detail world cloud artwork";
+var mnemonic = "limit flee forum cabbage fine organ change toilet powder silent vault simple";

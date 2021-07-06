@@ -1,1 +1,1 @@
-var mnemonic = "art rice distance choice cute crop vast affair pioneer brother bronze deal";
+var mnemonic = "fall move turkey bird renew cousin priority street combine retire force drum";

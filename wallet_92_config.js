@@ -1,1 +1,1 @@
-var mnemonic = "feed wash floor end connect crawl prepare coconut analyst clean goddess transfer";
+var mnemonic = "lobster exhaust just figure discover junk crush secret team snow fix soldier";

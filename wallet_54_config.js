@@ -1,1 +1,1 @@
-var mnemonic = "foil fuel polar grocery sight child hip method salad diary crystal language";
+var mnemonic = "spatial betray north shift trend patch biology bus convince tube minute bind";

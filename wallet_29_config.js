@@ -1,1 +1,1 @@
-var mnemonic = "flame gain lunch cushion lazy release link truly game shove blanket sport";
+var mnemonic = "romance electric term drama enroll tortoise funny sketch reduce grab quiz allow";

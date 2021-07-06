@@ -1,1 +1,1 @@
-var mnemonic = "alpha income learn sign girl clump ranch plate gadget memory rigid once";
+var mnemonic = "ticket museum sustain prevent wink ill average subway shrimp firm very flock";

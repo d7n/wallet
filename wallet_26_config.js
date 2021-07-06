@@ -1,1 +1,1 @@
-var mnemonic = "swallow alarm three name crane earth path because speak arrive ride shine";
+var mnemonic = "airport curtain creek know rural drift stairs despair mansion element history high";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon price sell source mad senior impulse digital hobby catch engine cart";
+var mnemonic = "solve wing service surprise win inform equal coyote faith say fantasy salon";

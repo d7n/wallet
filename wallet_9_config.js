@@ -1,1 +1,1 @@
-var mnemonic = "vicious mountain marble charge margin faculty drive gate depend attack horn grass";
+var mnemonic = "brass emerge jealous much evolve panel economy write deal style token unveil";

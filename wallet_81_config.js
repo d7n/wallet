@@ -1,1 +1,1 @@
-var mnemonic = "panda loud shoe emotion enhance birth work neither video rescue grab bus";
+var mnemonic = "banana device chief broom law receive wet prosper danger grape surround skill";

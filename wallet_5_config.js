@@ -1,1 +1,1 @@
-var mnemonic = "satoshi fragile sleep series awesome gallery screen hundred sock sustain tourist tragic";
+var mnemonic = "cliff purse horn roof because hood differ inherit dwarf detail radar vocal";

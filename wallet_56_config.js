@@ -1,1 +1,1 @@
-var mnemonic = "student broccoli anchor label barrel course lecture evolve make inflict salmon bacon";
+var mnemonic = "best nurse myth gospel hope total gallery tourist feel sphere robust guide";

@@ -1,1 +1,1 @@
-var mnemonic = "genre service giraffe lucky exclude wheat scare dance pioneer faculty change search";
+var mnemonic = "canvas teach shy ridge rough wrong hobby program object advice exclude flash";

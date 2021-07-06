@@ -1,1 +1,1 @@
-var mnemonic = "purchase mixed hard funny eager stand morning all piano draft novel slush";
+var mnemonic = "tourist invest loyal present what angry blade utility burst cannon donate sun";

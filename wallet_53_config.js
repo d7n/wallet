@@ -1,1 +1,1 @@
-var mnemonic = "observe jungle relax sell example skull strategy love festival decline capable scene";
+var mnemonic = "swing explain canvas feel script admit bless language drill remember park hair";

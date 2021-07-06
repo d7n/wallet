@@ -1,1 +1,1 @@
-var mnemonic = "swing problem ankle vessel broken help upset lucky half crucial reward rather";
+var mnemonic = "decrease story avocado skate bag trophy long lounge apology prefer enjoy stock";

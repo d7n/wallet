@@ -1,1 +1,1 @@
-var mnemonic = "soon unaware diary volume foam innocent library unfold visit jump detect high";
+var mnemonic = "romance month someone allow between deliver spare hotel knock strategy edge oven";

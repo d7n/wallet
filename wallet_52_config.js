@@ -1,1 +1,1 @@
-var mnemonic = "apology across game only sweet legend repeat moral purpose spring enlist promote";
+var mnemonic = "pretty famous rude three aerobic raise angry fame arrest dash lecture apple";

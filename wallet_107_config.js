@@ -1,1 +1,1 @@
-var mnemonic = "crop gesture someone luggage gloom popular battle cram ask blind mammal bulb";
+var mnemonic = "salon resist pool man stool one scheme dynamic slice mobile inform erode";

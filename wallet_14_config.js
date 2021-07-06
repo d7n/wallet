@@ -1,1 +1,1 @@
-var mnemonic = "rifle panic seat keen sample expand hospital foil cruel sunny merit notable";
+var mnemonic = "maid napkin palm pilot burger family prevent paper plate what tray thunder";

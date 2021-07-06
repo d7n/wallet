@@ -1,1 +1,1 @@
-var mnemonic = "man oxygen curious leader canoe quick network intact matter ritual dentist first";
+var mnemonic = "type spare fix sheriff expand lucky throw hello earn nose brother child";

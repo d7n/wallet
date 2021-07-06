@@ -1,1 +1,1 @@
-var mnemonic = "area come garbage chase keen junior market hat slim vast lamp swim";
+var mnemonic = "can menu physical order copper warrior turn endorse explain enable boat happy";

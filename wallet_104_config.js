@@ -1,1 +1,1 @@
-var mnemonic = "wave brick main thumb peanut sphere reward lawn steak fiction ritual welcome";
+var mnemonic = "hole cart bind hard bar capable crazy radio general siren minor fix";

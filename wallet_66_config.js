@@ -1,1 +1,1 @@
-var mnemonic = "push total mean eight enforce lounge panel zone pizza family fork reward";
+var mnemonic = "explain grain ritual step dragon chicken used excite use dad salad reject";

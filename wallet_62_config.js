@@ -1,1 +1,1 @@
-var mnemonic = "ice cheese side march iron domain senior lift state truly bind term";
+var mnemonic = "embrace pride pride any dutch answer kick cram search cute toss spring";

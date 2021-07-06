@@ -1,1 +1,1 @@
-var mnemonic = "adapt heart merit endless match century print observe hole scrub leopard mean";
+var mnemonic = "genre vapor aerobic damp science punch bleak code sing quote razor goat";

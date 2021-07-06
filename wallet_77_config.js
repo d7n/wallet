@@ -1,1 +1,1 @@
-var mnemonic = "crew summer civil shrimp oblige junior upset problem section unable brass travel";
+var mnemonic = "say deny employ essay voyage volcano duck way six cycle hair into";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate myself result outside solve film tonight chief favorite alley deposit expect";
+var mnemonic = "detect bike autumn doctor dry maid genuine service right slight apple bean";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar symptom field ivory carry lion dinner lesson donate drift hollow eyebrow";
+var mnemonic = "husband border patrol talk object version service pumpkin dawn pink circle biology";

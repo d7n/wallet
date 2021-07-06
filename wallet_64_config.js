@@ -1,1 +1,1 @@
-var mnemonic = "response share appear earn keep scrub require mix hill assume exhaust bounce";
+var mnemonic = "use drill job actor cool sock calm copy drill off anchor great";

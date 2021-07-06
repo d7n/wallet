@@ -1,1 +1,1 @@
-var mnemonic = "car brother obey soap hair mixed magnet fatal knee shallow mesh best";
+var mnemonic = "abstract tag tent giant close board spirit wait drive pudding pudding choose";

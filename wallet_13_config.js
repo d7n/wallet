@@ -1,1 +1,1 @@
-var mnemonic = "husband left allow worry pool potato skill chunk grape leisure mass canoe";
+var mnemonic = "monkey large real photo erupt cannon forget shiver swamp oblige embrace enact";

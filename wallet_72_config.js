@@ -1,1 +1,1 @@
-var mnemonic = "select pattern elegant oval wide bench siege tone recall nation news library";
+var mnemonic = "hope sad tobacco tomato refuse garden update bicycle fashion lecture paddle hollow";

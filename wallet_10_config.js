@@ -1,1 +1,1 @@
-var mnemonic = "frog electric future level game evolve all arena vast code undo swing";
+var mnemonic = "topic spirit evoke cloth initial goat roast worth depart grief lecture outer";

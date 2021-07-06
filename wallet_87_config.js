@@ -1,1 +1,1 @@
-var mnemonic = "example hobby party noise soon type funny knock spot winner fold blame";
+var mnemonic = "response lift tilt bus frame famous era inner ocean replace slight inquiry";

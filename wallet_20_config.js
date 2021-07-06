@@ -1,1 +1,1 @@
-var mnemonic = "police soap note zoo safe belt chase tonight goat misery evidence finger";
+var mnemonic = "almost achieve shine tenant celery tackle cup phrase attitude clog public resemble";

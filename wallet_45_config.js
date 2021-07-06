@@ -1,1 +1,1 @@
-var mnemonic = "crime mushroom moon chronic dice album goddess because refuse crater climb turn";
+var mnemonic = "cabbage couch labor spike action move case patch inch sting gospel debris";

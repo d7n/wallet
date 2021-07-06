@@ -1,1 +1,1 @@
-var mnemonic = "enforce dawn october voice barrel damage write early glad author lumber key";
+var mnemonic = "city outside retire pony mail train bridge water cloth peace pulp frequent";

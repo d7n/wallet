@@ -1,1 +1,1 @@
-var mnemonic = "boring label banner fence ignore garden floor brave column move flock scale";
+var mnemonic = "arch home potato offer two insane recipe kitchen dove yellow capable noodle";

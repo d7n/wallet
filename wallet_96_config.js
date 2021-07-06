@@ -1,1 +1,1 @@
-var mnemonic = "afford cause answer situate real stove accident diamond build egg act base";
+var mnemonic = "true town bulb sun choice inflict palace into voyage metal kangaroo worry";

@@ -1,1 +1,1 @@
-var mnemonic = "must detail noise boss jump express grass worry sight twenty husband bullet";
+var mnemonic = "sail summer tag pencil tree shrug antenna mask client demise actor volume";

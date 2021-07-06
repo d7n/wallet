@@ -1,1 +1,1 @@
-var mnemonic = "volume lunar carry blanket giggle situate sketch erase damage winter fortune sort";
+var mnemonic = "gallery critic siren critic swamp tone struggle husband move charge code knock";

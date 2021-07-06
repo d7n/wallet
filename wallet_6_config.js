@@ -1,1 +1,1 @@
-var mnemonic = "piece section lecture time practice old learn else excuse lemon bar please";
+var mnemonic = "collect purity repeat truck alert range orphan vessel tortoise answer annual accuse";

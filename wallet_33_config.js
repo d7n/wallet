@@ -1,1 +1,1 @@
-var mnemonic = "drift leader average payment planet net pave vapor stereo hat grant height";
+var mnemonic = "direct robust grocery trumpet finish gold pupil effort minimum awkward embark regret";

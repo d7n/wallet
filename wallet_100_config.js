@@ -1,1 +1,1 @@
-var mnemonic = "donate truck manual review fat ramp mirror program horror satoshi dog crouch";
+var mnemonic = "focus goat crew cousin jewel embrace biology about cereal depart focus remove";

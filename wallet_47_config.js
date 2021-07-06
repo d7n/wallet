@@ -1,1 +1,1 @@
-var mnemonic = "disease key twenty chase voyage mixture obscure level innocent lumber vessel dress";
+var mnemonic = "brisk ivory pluck brush word cigar guess half damp beef resource around";

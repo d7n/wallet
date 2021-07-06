@@ -1,1 +1,1 @@
-var mnemonic = "loyal umbrella bicycle arch gate misery debate kitten kid depth human issue";
+var mnemonic = "diamond evolve average flip mixed uniform kidney struggle bulk jacket broken belt";

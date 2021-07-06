@@ -1,1 +1,1 @@
-var mnemonic = "nuclear provide illegal wasp crumble clever fatal laundry fetch bright pluck speed";
+var mnemonic = "claw sample denial verb this garden whale faint jump virus permit board";

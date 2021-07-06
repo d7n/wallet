@@ -1,1 +1,1 @@
-var mnemonic = "father sing master tired marine vicious script rare bottom fog clown three";
+var mnemonic = "glass keep useless cave shrimp act fade noble observe useful biology timber";

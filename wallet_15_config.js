@@ -1,1 +1,1 @@
-var mnemonic = "carbon humor clerk symbol milk caught slam typical skate stand comfort path";
+var mnemonic = "axis furnace into woman join social sing trend balance amazing south inherit";

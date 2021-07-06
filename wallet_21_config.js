@@ -1,1 +1,1 @@
-var mnemonic = "shrug cinnamon match cry essay clog memory famous hunt hundred lend employ";
+var mnemonic = "clean twelve civil uphold swear attend machine vital spray spend bonus cause";

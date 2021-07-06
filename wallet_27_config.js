@@ -1,1 +1,1 @@
-var mnemonic = "relax embrace secret audit pluck inch leader patrol win repair sorry mountain";
+var mnemonic = "alter before steel guitar process blanket hundred stock spawn slight useless bacon";

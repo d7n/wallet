@@ -1,1 +1,1 @@
-var mnemonic = "feature laundry wasp version style pride fringe olive reject honey supreme alcohol";
+var mnemonic = "crucial dog input subject sunny arrange call humble title hollow demise accident";

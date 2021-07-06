@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon huge lend mutual snack elder easily mail nose loan hair enter";
+var mnemonic = "grass absorb main auction puppy inhale exercise chest share conduct evil mule";

@@ -1,1 +1,1 @@
-var mnemonic = "include hair little glance soccer erode cabin copper obvious drip eternal trend";
+var mnemonic = "truly river better enter call shield trick post jeans sight shed shrug";

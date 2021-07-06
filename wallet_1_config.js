@@ -1,1 +1,1 @@
-var mnemonic = "fade scatter donate hurdle pigeon void shop crime educate peace jungle vanish";
+var mnemonic = "quit record insane habit shiver only sword excuse nothing approve online near";

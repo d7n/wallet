@@ -1,1 +1,1 @@
-var mnemonic = "begin plug warm load code bonus video resemble approve cycle trial appear";
+var mnemonic = "engine very salon excess cherry bunker amateur jump obscure case language wreck";

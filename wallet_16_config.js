@@ -1,1 +1,1 @@
-var mnemonic = "husband frown uncover cinnamon moment used assume february dynamic online couch fluid";
+var mnemonic = "marine wire shed measure punch spread pony proof sweet charge adapt bounce";

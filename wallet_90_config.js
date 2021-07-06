@@ -1,1 +1,1 @@
-var mnemonic = "thing play code twist blame silly report couple asthma surface february candy";
+var mnemonic = "outside maze original robust ghost thing recipe achieve chimney wise wood speed";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral task card fault apple search stand fatal ahead need monkey smoke";
+var mnemonic = "exchange usage school two come balcony idle lawsuit timber blouse beauty middle";

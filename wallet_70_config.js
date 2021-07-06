@@ -1,1 +1,1 @@
-var mnemonic = "wheel cake develop indoor roof wheel drama gentle ankle desert drastic oak";
+var mnemonic = "wage life fire lawn piano buyer exist stove wild cotton kiwi adult";

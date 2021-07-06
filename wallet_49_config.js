@@ -1,1 +1,1 @@
-var mnemonic = "local about broccoli alone infant anxiety crisp believe velvet rebel grief oppose";
+var mnemonic = "custom very fortune about auto ski cheese hybrid test infant estate slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "record royal first auto chief custom essence annual glue point debate hold";
+var mnemonic = "lawsuit radar jacket segment effort jump also vocal feed artist green damage";

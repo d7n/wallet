@@ -1,1 +1,1 @@
-var mnemonic = "ensure ice expand life system omit sight tank fish identify taste donate";
+var mnemonic = "letter shop cement book fork horror oblige castle arm genre critic cupboard";

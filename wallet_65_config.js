@@ -1,1 +1,1 @@
-var mnemonic = "mad snap clown neglect hawk imitate casino meadow narrow impact involve salad";
+var mnemonic = "welcome outdoor jeans people easy mom equip credit salad sing panda hub";

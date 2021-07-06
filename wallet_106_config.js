@@ -1,1 +1,1 @@
-var mnemonic = "depth attend curve ghost autumn mind subject garment surface today suffer immense";
+var mnemonic = "margin delay sorry useful pet brave cheap lumber pulp today anchor choose";

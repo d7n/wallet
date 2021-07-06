@@ -1,1 +1,1 @@
-var mnemonic = "daring effort pepper famous forget detect grocery bronze rigid label employ glow";
+var mnemonic = "glide make nature struggle cup since avocado one blossom world force suspect";

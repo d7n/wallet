@@ -1,1 +1,1 @@
-var mnemonic = "debate obscure gauge boost nature bicycle allow grape praise dove sheriff pilot";
+var mnemonic = "neck raven absent stairs pencil model bonus festival forum when often pulp";

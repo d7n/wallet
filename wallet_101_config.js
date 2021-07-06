@@ -1,1 +1,1 @@
-var mnemonic = "also digital wild order blood actor grief aim sell meat harvest fossil";
+var mnemonic = "trigger smart actual burden south merit begin size dolphin derive guess total";

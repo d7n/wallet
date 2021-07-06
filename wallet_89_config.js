@@ -1,1 +1,1 @@
-var mnemonic = "advice drastic olive menu blossom glass rigid icon abstract tonight phrase few";
+var mnemonic = "bring want hint maid error shock credit exclude unlock weapon tornado assault";

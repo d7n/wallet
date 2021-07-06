@@ -1,1 +1,1 @@
-var mnemonic = "crisp exact ball push thrive palm ribbon blue husband buzz bargain tragic";
+var mnemonic = "live mercy suit shoe puppy worth meat water palm amount grunt machine";

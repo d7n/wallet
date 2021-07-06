@@ -1,1 +1,1 @@
-var mnemonic = "series retire design pretty pond direct host actual debate discover mad plunge";
+var mnemonic = "elevator claw empty where ginger jacket dismiss priority family genre cloth can";

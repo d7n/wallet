@@ -1,1 +1,1 @@
-var mnemonic = "clerk stairs buyer judge vivid secret robot frost live regular insect reveal";
+var mnemonic = "bomb loan draft forward party resist budget proof lunar brick fever wolf";

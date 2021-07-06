@@ -1,1 +1,1 @@
-var mnemonic = "stairs crush eternal wrist decorate photo end alter boost plate prevent manage";
+var mnemonic = "wool enact despair never knock busy supply thank allow always put chest";

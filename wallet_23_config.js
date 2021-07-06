@@ -1,1 +1,1 @@
-var mnemonic = "such crew decade into silly orient viable museum void dinosaur connect glad";
+var mnemonic = "leopard chronic solid novel provide spatial path small flavor merry betray gospel";

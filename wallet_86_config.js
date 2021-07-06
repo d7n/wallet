@@ -1,1 +1,1 @@
-var mnemonic = "update fabric interest unfair cancel zebra awesome matter spice air attack filter";
+var mnemonic = "casino wood pill turn duty other quick city tell bamboo health fatal";

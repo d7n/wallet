@@ -1,1 +1,1 @@
-var mnemonic = "close enhance fat ivory hockey just leaf rhythm image library pact silver";
+var mnemonic = "debate thumb document nose silly assist outdoor laundry cigar hair huge lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon later come camera tree exile custom learn hip vocal tunnel begin";
+var mnemonic = "galaxy bid chuckle want often elder pizza enlist uphold insect report blouse";

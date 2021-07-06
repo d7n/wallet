@@ -1,1 +1,1 @@
-var mnemonic = "find harvest wonder soup inhale twin snake twist jump remain holiday good";
+var mnemonic = "present mixed mosquito gallery october urban inflict that grid inflict glue indoor";

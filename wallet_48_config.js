@@ -1,1 +1,1 @@
-var mnemonic = "melody excess enter duty fiscal cousin globe fun solid review improve typical";
+var mnemonic = "chuckle sun radio raise pattern situate nephew sick spatial cement rice orient";
