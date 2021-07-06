@@ -1,1 +1,1 @@
-var mnemonic = "tornado camera company network opinion skill stock dad size urban vehicle adapt";
+var mnemonic = "flame loop chief bleak faith pave huge race drip position grant pottery";

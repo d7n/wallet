@@ -1,1 +1,1 @@
-var mnemonic = "decrease toddler garage fatal gesture casino later market orchard goat stadium hub";
+var mnemonic = "side spider dignity amazing concert camp quantum ritual define host grain vast";

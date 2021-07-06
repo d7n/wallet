@@ -1,1 +1,1 @@
-var mnemonic = "opera demand earth alone better uniform blind blush elbow diary naive life";
+var mnemonic = "primary wild badge column maple wool refuse helmet advance drill fury notable";

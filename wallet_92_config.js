@@ -1,1 +1,1 @@
-var mnemonic = "just casino unhappy grace voyage flash brick live eagle across genius blast";
+var mnemonic = "lawsuit path acquire stuff mountain about increase sister venue pyramid auto fan";

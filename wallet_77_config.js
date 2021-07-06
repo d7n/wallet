@@ -1,1 +1,1 @@
-var mnemonic = "child top pulp unfair depend chef bone have convince clock glue mammal";
+var mnemonic = "kind fine kangaroo excite kick case ignore cabin such tower other baby";

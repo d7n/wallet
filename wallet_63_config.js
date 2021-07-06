@@ -1,1 +1,1 @@
-var mnemonic = "film lobster undo else cancel retreat blanket travel ladder dice put breeze";
+var mnemonic = "phone year tag harsh matrix tortoise canoe dinner fat tribe govern victory";

@@ -1,1 +1,1 @@
-var mnemonic = "awake able stick tree tunnel spare wrong normal round village lady trigger";
+var mnemonic = "kitchen remain seek renew fabric license predict canoe artist blanket tired layer";

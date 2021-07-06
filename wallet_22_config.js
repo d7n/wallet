@@ -1,1 +1,1 @@
-var mnemonic = "wash cinnamon emotion rule stumble edit eternal brother brass dirt meat panther";
+var mnemonic = "trouble tree crystal gaze hazard flip govern decide must expire magic moment";

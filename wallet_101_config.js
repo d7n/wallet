@@ -1,1 +1,1 @@
-var mnemonic = "drill erosion choose enjoy brown tide day snack anchor tragic galaxy advice";
+var mnemonic = "cancel awake indicate bonus tunnel eyebrow spy cream that scissors lunch correct";

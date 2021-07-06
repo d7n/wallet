@@ -1,1 +1,1 @@
-var mnemonic = "legal drive patrol orbit old stock column fire prison subject gauge rent";
+var mnemonic = "mango flee weather canoe giant license develop sail unfair copper allow trigger";

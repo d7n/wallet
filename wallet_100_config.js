@@ -1,1 +1,1 @@
-var mnemonic = "food daughter ready great hub kiss spare rely find peanut luggage ten";
+var mnemonic = "dose account pluck boat robust differ mind nuclear powder chapter list album";

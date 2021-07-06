@@ -1,1 +1,1 @@
-var mnemonic = "dawn toss island thrive permit category mix giggle candy another stand culture";
+var mnemonic = "dance grow ozone blade skate match casual mosquito rain reopen banner health";

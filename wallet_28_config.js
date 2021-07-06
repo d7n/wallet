@@ -1,1 +1,1 @@
-var mnemonic = "juice protect human charge involve era primary flush dismiss review ice apart";
+var mnemonic = "hurdle opera slot village awful tuition fly math black cream casino empower";

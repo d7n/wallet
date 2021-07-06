@@ -1,1 +1,1 @@
-var mnemonic = "belt core carpet sample script response cable loan fence gift grape like";
+var mnemonic = "jump possible present state crouch lens evolve sniff east view unfair scale";

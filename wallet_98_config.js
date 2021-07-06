@@ -1,1 +1,1 @@
-var mnemonic = "seminar jelly urban foil huge vacant beyond clay iron cycle cinnamon baby";
+var mnemonic = "diagram parade butter cluster agree stem pluck forest circle squirrel earn lunch";

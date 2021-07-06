@@ -1,1 +1,1 @@
-var mnemonic = "cabin forum excite tenant present decide address coconut twelve village web lonely";
+var mnemonic = "glory prison robust team holiday surface swamp silly cheap employ discover cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "duty penalty dolphin company theory coast stove victory extend pilot acquire opinion";
+var mnemonic = "rally foster hundred dirt infant deputy nasty minute approve abuse life merit";

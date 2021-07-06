@@ -1,1 +1,1 @@
-var mnemonic = "fresh report ceiling away mandate wheel nice flight video travel blossom quick";
+var mnemonic = "holiday agent outer snow treat mask eight unusual oxygen salute twin pet";

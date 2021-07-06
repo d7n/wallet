@@ -1,1 +1,1 @@
-var mnemonic = "fence family arrow egg lemon jungle until feel master morning lock want";
+var mnemonic = "hero method undo fit obey episode shallow pepper spray brass void vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "because social prevent reform hedgehog shock all sunny balcony polar that belt";
+var mnemonic = "hunt lounge clay mention bread list attract match truth curious quality rescue";

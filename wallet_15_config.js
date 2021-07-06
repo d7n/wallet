@@ -1,1 +1,1 @@
-var mnemonic = "column tide sausage transfer obtain way chief hungry noble dish pond name";
+var mnemonic = "gorilla dignity chronic gift conduct what dignity wrestle will stable blanket culture";

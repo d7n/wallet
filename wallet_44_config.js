@@ -1,1 +1,1 @@
-var mnemonic = "zebra sudden jazz february proud agent arena build jeans fame random you";
+var mnemonic = "reopen donor lady pond palace jeans winter venue drive taste way senior";

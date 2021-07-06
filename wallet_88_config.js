@@ -1,1 +1,1 @@
-var mnemonic = "siren quick meadow mother risk between lion common inside oyster other dynamic";
+var mnemonic = "renew scrub never wrong six dragon ghost leader help often music gravity";

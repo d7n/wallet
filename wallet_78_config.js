@@ -1,1 +1,1 @@
-var mnemonic = "empty stomach green west winner ten mimic key isolate unfair accident brush";
+var mnemonic = "boil piece olympic again assist carry act panic tackle ability music tiger";

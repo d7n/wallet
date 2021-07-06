@@ -1,1 +1,1 @@
-var mnemonic = "key hockey path left vapor busy draft february either beyond test guitar";
+var mnemonic = "speak code shell usage tag cupboard portion top confirm spy under ring";

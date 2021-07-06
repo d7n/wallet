@@ -1,1 +1,1 @@
-var mnemonic = "cart legal inch riot right melody possible ripple exhibit muffin inmate artefact";
+var mnemonic = "example crystal input tower blush grain hold crazy nurse mammal message local";

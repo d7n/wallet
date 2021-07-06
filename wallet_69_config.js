@@ -1,1 +1,1 @@
-var mnemonic = "certain unknown shoe adapt animal illness rabbit senior blade lift twist invite";
+var mnemonic = "witness vacuum civil gap property patient skull color stool tower bottom knee";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker hobby double grow soul huge profit property novel crouch debate glide";
+var mnemonic = "mixed mosquito person improve beauty fever broken piece raw shoe castle crumble";

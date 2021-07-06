@@ -1,1 +1,1 @@
-var mnemonic = "tissue north entry void legal leaf bitter essay helmet head clap erode";
+var mnemonic = "say december view angry spray devote sketch attitude human fitness cliff sport";

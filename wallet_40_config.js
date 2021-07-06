@@ -1,1 +1,1 @@
-var mnemonic = "hint prison web lift wrist couple lady off shaft knife spare knife";
+var mnemonic = "husband bulk decline vehicle lady about doll shuffle book jelly soap frost";

@@ -1,1 +1,1 @@
-var mnemonic = "shy squeeze hard soup trip broom verb crash lecture glimpse metal busy";
+var mnemonic = "knife impose crucial increase cover afraid fiction hobby hockey gravity unfair future";

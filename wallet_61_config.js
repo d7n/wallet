@@ -1,1 +1,1 @@
-var mnemonic = "rose lounge column ivory theme almost blind around famous spike orbit title";
+var mnemonic = "derive move round romance lady supreme mechanic retire mass head question guilt";

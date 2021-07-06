@@ -1,1 +1,1 @@
-var mnemonic = "acoustic reason razor record figure meat broccoli faith rabbit sorry radar rescue";
+var mnemonic = "grit trial outer tribe lonely hero crowd fog spell filter hedgehog rate";

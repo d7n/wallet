@@ -1,1 +1,1 @@
-var mnemonic = "syrup muscle various pill glimpse laundry melody floor vanish thank valley fault";
+var mnemonic = "confirm donkey piece inner olympic merry must boost attract river chuckle initial";

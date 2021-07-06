@@ -1,1 +1,1 @@
-var mnemonic = "expand brown sister blood jazz lift blood merry iron wreck myself wear";
+var mnemonic = "hub neutral auto trigger quantum toddler cushion faculty poem lounge grit powder";

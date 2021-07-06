@@ -1,1 +1,1 @@
-var mnemonic = "bottom success consider game month enforce blame super host fashion galaxy pepper";
+var mnemonic = "swallow file mountain super error trial inherit skirt frog pig use rival";

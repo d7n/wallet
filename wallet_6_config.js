@@ -1,1 +1,1 @@
-var mnemonic = "zone merge whisper pulp outdoor horse bachelor install rebel affair oxygen weapon";
+var mnemonic = "unfair discover bundle violin history wreck tongue advice return object moment adapt";

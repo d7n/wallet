@@ -1,1 +1,1 @@
-var mnemonic = "spatial iron mule outer siege reform across marriage print barely praise execute";
+var mnemonic = "cart choice choose aisle mule quarter resemble spare devote law early math";

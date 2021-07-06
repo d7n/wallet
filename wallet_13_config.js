@@ -1,1 +1,1 @@
-var mnemonic = "wrap palace wrist useful patrol labor palace camp hen shiver motor sport";
+var mnemonic = "pass illness shrimp horn canyon juice second vital cat hundred color place";

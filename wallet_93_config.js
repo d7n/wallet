@@ -1,1 +1,1 @@
-var mnemonic = "ethics coast bag trial across funny differ water because toilet trip pink";
+var mnemonic = "time face all attitude multiply surface load legend foam dash police essence";

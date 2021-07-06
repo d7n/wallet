@@ -1,1 +1,1 @@
-var mnemonic = "submit arm boat tube tuna reform critic govern luxury envelope happy try";
+var mnemonic = "color helmet vault victory eyebrow pull ceiling sugar thunder bulk egg champion";

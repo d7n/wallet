@@ -1,1 +1,1 @@
-var mnemonic = "math popular lens toe hedgehog bridge cannon total smooth join parade quality";
+var mnemonic = "all resource title beef merit license picture essay purse oblige ritual crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain document degree stove task wine engage electric sword stone speed elephant";
+var mnemonic = "maximum only health patient cart hub frown object mercy myself monster script";

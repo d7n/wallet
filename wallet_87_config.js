@@ -1,1 +1,1 @@
-var mnemonic = "lady walk grocery laptop resource aunt protect frog deliver obscure excess topple";
+var mnemonic = "clutch bamboo torch evidence anchor piece wonder text reopen zero copy pair";

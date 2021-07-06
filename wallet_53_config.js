@@ -1,1 +1,1 @@
-var mnemonic = "stick goose cart light dove weasel unaware goose bread kind husband very";
+var mnemonic = "gossip honey trash canvas topple tackle rebel express monitor lecture purchase ramp";

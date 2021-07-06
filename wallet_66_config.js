@@ -1,1 +1,1 @@
-var mnemonic = "trick gasp retire oblige coin unfair coconut dentist wire pig win gallery";
+var mnemonic = "weather manage grace bean reason reform expose flat chief salmon bracket tomato";

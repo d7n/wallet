@@ -1,1 +1,1 @@
-var mnemonic = "nuclear rent army safe lady symptom phrase subway vibrant spread program fence";
+var mnemonic = "dignity cattle confirm maximum secret cook shop fury arrive gift hello snake";

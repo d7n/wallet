@@ -1,1 +1,1 @@
-var mnemonic = "dish just install tired puppy poet stamp spin mistake cream spoil domain";
+var mnemonic = "plate mind wave work second chief odor maximum useless neglect chimney insect";

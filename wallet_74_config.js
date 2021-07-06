@@ -1,1 +1,1 @@
-var mnemonic = "tiny prefer abstract echo donor ketchup style dynamic skull develop use stem";
+var mnemonic = "shiver rent old goose drama task hip barely pistol teach tiger address";

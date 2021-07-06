@@ -1,1 +1,1 @@
-var mnemonic = "risk faculty boss decade leisure actor profit shoulder attend snow response hire";
+var mnemonic = "key frozen claw forget term like pluck travel night object simple hold";

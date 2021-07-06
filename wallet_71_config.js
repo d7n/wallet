@@ -1,1 +1,1 @@
-var mnemonic = "hockey envelope switch since apology rule obey whale level fork differ security";
+var mnemonic = "demand diamond run rib limb cupboard tired wrap obtain usage swear blind";

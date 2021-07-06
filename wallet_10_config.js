@@ -1,1 +1,1 @@
-var mnemonic = "roast almost joy mesh relief afraid affair reopen bread move employ random";
+var mnemonic = "coin lawn exact club moon slim member oblige knee foster stool satoshi";

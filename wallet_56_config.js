@@ -1,1 +1,1 @@
-var mnemonic = "final hotel waste crew must mechanic business front enhance resemble lion kit";
+var mnemonic = "antique special silly lawn shift sketch frame scout recipe must castle ridge";

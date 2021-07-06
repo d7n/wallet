@@ -1,1 +1,1 @@
-var mnemonic = "aisle dolphin mom people drive metal pull fetch gasp oven beauty romance";
+var mnemonic = "dragon orchard unfair best label trust age marriage blood sponsor total move";

@@ -1,1 +1,1 @@
-var mnemonic = "radar march junior team pair fame grass inside riot clap captain vacuum";
+var mnemonic = "autumn gentle angle pony sea cash excuse trouble when clown normal aware";

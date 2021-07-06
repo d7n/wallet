@@ -1,1 +1,1 @@
-var mnemonic = "believe flavor romance benefit party crop object top laundry agree stadium whip";
+var mnemonic = "memory rain copy pony arrange veteran weather economy seven pony volcano local";

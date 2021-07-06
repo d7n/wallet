@@ -1,1 +1,1 @@
-var mnemonic = "asset stove much march tray spoil quality select lava develop heavy buzz";
+var mnemonic = "lend tank elite dumb assume general estate end opinion because grant just";

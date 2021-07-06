@@ -1,1 +1,1 @@
-var mnemonic = "wrist floor viable practice ghost pilot nerve sport swing ready soldier polar";
+var mnemonic = "mention limit gap october clerk vehicle away include carbon supply casino code";

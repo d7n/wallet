@@ -1,1 +1,1 @@
-var mnemonic = "shift tube border dune key guess diamond toddler between obvious soccer immense";
+var mnemonic = "gesture ensure illness diamond mixed cat zoo slush sphere tank survey office";

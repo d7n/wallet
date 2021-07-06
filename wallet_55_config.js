@@ -1,1 +1,1 @@
-var mnemonic = "shrimp story time text ugly shield frequent nominee robot prize void jacket";
+var mnemonic = "canoe target end behind power jelly funny regret humor renew divide abandon";

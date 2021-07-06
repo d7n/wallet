@@ -1,1 +1,1 @@
-var mnemonic = "measure diagram valley label chalk mushroom fruit mention crowd trade prepare river";
+var mnemonic = "sword all fragile mobile select skin just oblige domain decline tattoo believe";

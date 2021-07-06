@@ -1,1 +1,1 @@
-var mnemonic = "field rotate bulb off answer arrive melody figure ankle glad decade blade";
+var mnemonic = "stem always health scare share endless gym drill heavy dumb mean recycle";

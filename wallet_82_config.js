@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wonder alien foster improve input garage snack sphere oak make digital";
+var mnemonic = "art tag mystery forest science cream neglect orbit street reopen bracket defy";

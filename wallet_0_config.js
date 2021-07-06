@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo plug goddess parrot illegal gym stick ritual trumpet enter artwork soldier";
+var mnemonic = "rough athlete orange lemon slab analyst pizza fluid case country magic birth";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease timber fold autumn pelican move eager arena floor seed immune lava";
+var mnemonic = "play teach label feel lawn speed ordinary luggage start harsh parrot admit";

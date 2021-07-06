@@ -1,1 +1,1 @@
-var mnemonic = "match strike burst hole beyond song final evil clutch silly reunion remind";
+var mnemonic = "tackle guard notice add sea hint scatter olympic broken meadow amazing hat";

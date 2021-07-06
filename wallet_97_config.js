@@ -1,1 +1,1 @@
-var mnemonic = "negative random betray apology april town trap endless funny attitude upset sunny";
+var mnemonic = "hundred ketchup visit face social rotate shed limit prize impulse palace hood";

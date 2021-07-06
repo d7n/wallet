@@ -1,1 +1,1 @@
-var mnemonic = "animal loyal mushroom chimney flame abstract guilt escape filter deputy favorite coach";
+var mnemonic = "slide around now advice office surface motion hill knife gauge base faith";

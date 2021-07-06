@@ -1,1 +1,1 @@
-var mnemonic = "topple play door creek civil armed normal bike dizzy air kit cheese";
+var mnemonic = "oppose grace sure oblige final forum until until tomorrow nerve material quarter";

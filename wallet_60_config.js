@@ -1,1 +1,1 @@
-var mnemonic = "rabbit pelican cost globe retire horse lawn eager quick city siege hood";
+var mnemonic = "aspect hospital prosper six kidney engage lady awkward plastic aware base suffer";

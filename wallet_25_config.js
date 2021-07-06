@@ -1,1 +1,1 @@
-var mnemonic = "insane supply estate click jewel silent draw concert vacuum aerobic siege know";
+var mnemonic = "man nominee stock sorry illness wheat road dolphin write memory summer squirrel";

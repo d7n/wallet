@@ -1,1 +1,1 @@
-var mnemonic = "volume spell infant borrow unhappy nest begin cram chef tell symptom motion";
+var mnemonic = "olympic dentist young they horn wage web boy eager resist raven alone";

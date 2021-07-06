@@ -1,1 +1,1 @@
-var mnemonic = "elephant cancel insect token sense pitch inspire book rain shoulder bacon junior";
+var mnemonic = "reflect wage strong barely napkin faculty ball ribbon market worry talent face";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade dynamic chair trash sense what ketchup asthma fabric rose economy flat";
+var mnemonic = "powder oyster noodle best raw negative rival hurt regular wrong grace street";

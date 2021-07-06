@@ -1,1 +1,1 @@
-var mnemonic = "enter pepper trick employ topple ocean opera tank meat silk endless fatal";
+var mnemonic = "envelope there wisdom bulk insect project gallery step fiction else shock basic";

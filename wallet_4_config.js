@@ -1,1 +1,1 @@
-var mnemonic = "danger fruit arctic cat avocado citizen eager calm mixed cat rotate party";
+var mnemonic = "sad extra wrong process trust duty crane outer ginger disagree art estate";

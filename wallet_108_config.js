@@ -1,1 +1,1 @@
-var mnemonic = "angry grid job mixture garment review worth siege piece design write ask";
+var mnemonic = "liar admit control soda surface industry lawn fault spread duck cheap board";

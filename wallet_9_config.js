@@ -1,1 +1,1 @@
-var mnemonic = "series matter crater false relief access pretty scan strong milk congress involve";
+var mnemonic = "lens beyond door shy nominee army casino energy scene vague crowd radar";

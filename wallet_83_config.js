@@ -1,1 +1,1 @@
-var mnemonic = "riot typical smoke breeze gallery little desert churn finish select valve tiny";
+var mnemonic = "roast give alarm shoulder ladder dizzy execute rally apart stumble brave common";

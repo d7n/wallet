@@ -1,1 +1,1 @@
-var mnemonic = "curious fetch legal solar avoid always island tuna coast virtual chunk another";
+var mnemonic = "erode feature prevent gorilla inject alien ice grant engine warfare fix suspect";

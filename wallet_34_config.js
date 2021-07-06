@@ -1,1 +1,1 @@
-var mnemonic = "bar swallow injury bleak once isolate pipe quit increase hunt grid urban";
+var mnemonic = "exercise rule hurt impose drastic talent potato baby cereal valley work document";

@@ -1,1 +1,1 @@
-var mnemonic = "expose girl rebuild roast add position ice fade heavy swim tunnel useful";
+var mnemonic = "limit pill post edge motor object upset fabric crunch arrange industry when";

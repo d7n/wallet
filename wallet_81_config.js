@@ -1,1 +1,1 @@
-var mnemonic = "put forward project brand roast balance monkey cabbage usage salmon wait jeans";
+var mnemonic = "option february flush hollow aerobic develop kitten long follow rare enter plunge";

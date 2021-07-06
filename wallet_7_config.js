@@ -1,1 +1,1 @@
-var mnemonic = "prosper electric sign pioneer ice mesh vehicle expand month output solar stage";
+var mnemonic = "bridge razor clown bronze else loan time provide inch negative draft argue";

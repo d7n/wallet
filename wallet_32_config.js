@@ -1,1 +1,1 @@
-var mnemonic = "slender delay innocent aim floor catch wrist stuff dry brother wink include";
+var mnemonic = "auto able distance ability clump animal once fault brave lounge junior fee";

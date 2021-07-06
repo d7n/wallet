@@ -1,1 +1,1 @@
-var mnemonic = "success language win figure hotel actual culture reform certain debate earth right";
+var mnemonic = "indoor faint fetch dose two mango minimum ice shove laptop news rent";

@@ -1,1 +1,1 @@
-var mnemonic = "source devote chef bamboo vanish swift blue pledge daring stove twist little";
+var mnemonic = "hint rude wedding immense crop wedding pupil orphan clap comic connect total";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly private away buyer minor lens country stumble oak name angle average";
+var mnemonic = "van endless eye cross alter van great grit throw prevent scout vivid";

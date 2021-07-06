@@ -1,1 +1,1 @@
-var mnemonic = "winner movie skill improve excess oppose please casino just canyon office force";
+var mnemonic = "earth river program eyebrow mother pact salmon relax wasp infant hope flame";

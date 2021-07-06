@@ -1,1 +1,1 @@
-var mnemonic = "give brisk exact discover stick suspect tower recipe misery below meadow tooth";
+var mnemonic = "south old auto silver brand absurd profit floor scrub choose more bean";

@@ -1,1 +1,1 @@
-var mnemonic = "current blade marble pulse ahead jealous hole cruel small derive lecture adjust";
+var mnemonic = "confirm anxiety nose flight dust diary vacant peace design spot chalk assault";

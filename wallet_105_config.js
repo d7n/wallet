@@ -1,1 +1,1 @@
-var mnemonic = "stamp solar around room comic notice wrong unfair scrub fortune fence certain";
+var mnemonic = "because gauge rescue prevent like salad vessel test tiny afford security vague";
