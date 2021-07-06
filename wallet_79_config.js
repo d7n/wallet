@@ -1,1 +1,1 @@
-var mnemonic = "wage suffer comfort invest witness patient essay novel farm female army mango";
+var mnemonic = "open turtle mad spatial rookie gym candy loyal oak belt connect flock";

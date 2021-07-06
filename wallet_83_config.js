@@ -1,1 +1,1 @@
-var mnemonic = "enable enable electric toe add giant kite exhaust frost educate poet trade";
+var mnemonic = "milk control happy uphold marriage remove current material good lecture town crash";

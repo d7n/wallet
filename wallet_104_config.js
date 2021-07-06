@@ -1,1 +1,1 @@
-var mnemonic = "antique barrel bubble gadget solid jealous face humble noodle cup enrich artefact";
+var mnemonic = "pill lesson praise setup paper cry artwork wrestle rely heart near hawk";

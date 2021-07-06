@@ -1,1 +1,1 @@
-var mnemonic = "lemon noodle bless pilot horn obscure movie person harsh aim biology spread";
+var mnemonic = "culture true execute uncover sponsor later flip wave swim robust daughter veteran";

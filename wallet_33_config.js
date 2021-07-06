@@ -1,1 +1,1 @@
-var mnemonic = "devote gather wedding waste device cloth hobby voyage amazing father calm priority";
+var mnemonic = "south artefact multiply much embody swear door rabbit nominee emotion loop cheese";

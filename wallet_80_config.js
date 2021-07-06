@@ -1,1 +1,1 @@
-var mnemonic = "embrace cluster into good inmate cheap type cement surround betray reunion topple";
+var mnemonic = "fringe weekend scorpion anger advice zero common silent zebra moon metal plunge";

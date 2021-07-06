@@ -1,1 +1,1 @@
-var mnemonic = "fury curtain peace link ordinary taxi danger orange assume window dance dismiss";
+var mnemonic = "basket travel sponsor dad next gesture impose sun riot found viable toss";

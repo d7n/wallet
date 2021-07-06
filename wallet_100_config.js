@@ -1,1 +1,1 @@
-var mnemonic = "social upgrade embrace antique street mushroom faith fat album raw food group";
+var mnemonic = "own canvas oxygen slice element hamster spatial fossil picture drill nephew nephew";

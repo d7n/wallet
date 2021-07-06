@@ -1,1 +1,1 @@
-var mnemonic = "client carpet innocent rain sweet festival bachelor devote defense robust army drive";
+var mnemonic = "worry journey husband various direct broken exact rubber foster despair excite chapter";

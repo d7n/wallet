@@ -1,1 +1,1 @@
-var mnemonic = "happy theory equip badge exit economy two gesture metal ostrich smoke wage";
+var mnemonic = "below mad thing prosper salmon click february human flavor borrow lyrics cement";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse maximum funny dice wine gown sock object toast maid magnet predict";
+var mnemonic = "dice dolphin power train equip forward mirror coil myself pride trumpet fire";

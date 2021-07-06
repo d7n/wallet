@@ -1,1 +1,1 @@
-var mnemonic = "van chalk glad venture public hockey army educate salute elevator frame myself";
+var mnemonic = "provide point link crush enact marble miracle smooth rich purse strategy boy";

@@ -1,1 +1,1 @@
-var mnemonic = "wear bring strike six observe boat comic outdoor enhance mask avoid devote";
+var mnemonic = "flock soup fatal pizza exhibit abuse author impact soda crumble squirrel teach";

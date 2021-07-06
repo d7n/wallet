@@ -1,1 +1,1 @@
-var mnemonic = "multiply girl gather suffer sunset true nothing silent solid fashion congress quote";
+var mnemonic = "elite wonder rabbit embody want fly flag six boat creek mimic myself";

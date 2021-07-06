@@ -1,1 +1,1 @@
-var mnemonic = "snow flavor field goat result detect hurry poet clog quality skirt genre";
+var mnemonic = "rebuild mobile neither soccer link crime pride evolve flock version dizzy skull";

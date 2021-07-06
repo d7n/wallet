@@ -1,1 +1,1 @@
-var mnemonic = "onion adult wear mimic wrist topic awful witness reopen strike material heavy";
+var mnemonic = "wrap civil company crisp diet pumpkin cycle output lonely shove parade modify";

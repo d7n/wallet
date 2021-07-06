@@ -1,1 +1,1 @@
-var mnemonic = "general arctic print sniff room joke term demise picnic text moment tribe";
+var mnemonic = "strike resist over act danger marine base quick coffee thrive actress butter";

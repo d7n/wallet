@@ -1,1 +1,1 @@
-var mnemonic = "notable person few intact absurd runway few april powder ability blind lounge";
+var mnemonic = "hurt that burden fresh pluck canvas brisk survey drink kitchen view fossil";

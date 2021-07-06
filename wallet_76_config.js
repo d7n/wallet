@@ -1,1 +1,1 @@
-var mnemonic = "crunch jealous pen opera property fish clog bicycle message hub glow mule";
+var mnemonic = "wolf raven sting resource peanut despair dinner joke decrease provide marble thought";

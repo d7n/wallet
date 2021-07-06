@@ -1,1 +1,1 @@
-var mnemonic = "cube sell junk actor portion glide direct annual fancy erase awake spring";
+var mnemonic = "easily crowd toward stage share find clip assist member habit uphold post";

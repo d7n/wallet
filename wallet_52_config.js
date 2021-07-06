@@ -1,1 +1,1 @@
-var mnemonic = "strategy that region clown stand upon cruel vibrant west second stomach link";
+var mnemonic = "shiver end frog crime roof device author shed alley absent beauty bleak";

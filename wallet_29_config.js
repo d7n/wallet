@@ -1,1 +1,1 @@
-var mnemonic = "today video leisure enforce defense group group able true stuff example diary";
+var mnemonic = "pilot ribbon choice call often truly blossom screen hold knock action hockey";

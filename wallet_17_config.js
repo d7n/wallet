@@ -1,1 +1,1 @@
-var mnemonic = "wood outdoor stadium donor fringe jaguar boost family idea family pottery famous";
+var mnemonic = "arctic duty join desert option ball sock picture kitchen obtain happy fancy";

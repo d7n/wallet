@@ -1,1 +1,1 @@
-var mnemonic = "fault maze pyramid latin zero treat avocado swamp expire crawl tortoise menu";
+var mnemonic = "confirm mention output horn permit slam tobacco train inhale warm reflect case";

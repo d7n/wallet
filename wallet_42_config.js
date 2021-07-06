@@ -1,1 +1,1 @@
-var mnemonic = "voyage gaze country weather rate define sail drastic divert peanut express topic";
+var mnemonic = "panda mesh merge defense lizard impose luggage match eye pitch subject poem";

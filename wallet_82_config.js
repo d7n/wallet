@@ -1,1 +1,1 @@
-var mnemonic = "olive convince magnet lake gun truck sing novel marriage music mirror master";
+var mnemonic = "decade lady drip hungry rubber baby banana sadness gossip floor soccer repair";

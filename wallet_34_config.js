@@ -1,1 +1,1 @@
-var mnemonic = "desert purity initial plug resource assault pretty bone combine prevent hospital always";
+var mnemonic = "host rate provide book unusual jump pioneer sphere timber proof present sting";

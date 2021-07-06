@@ -1,1 +1,1 @@
-var mnemonic = "swarm author tape stamp siege steak pink impose hood hobby hero suggest";
+var mnemonic = "law universe seven purchase raccoon rhythm once surround fuel devote amount giant";

@@ -1,1 +1,1 @@
-var mnemonic = "alone disorder crunch nurse lift trade approve jacket energy glove pitch tomorrow";
+var mnemonic = "embody capital churn crisp tissue gallery morning slide service force canoe prepare";

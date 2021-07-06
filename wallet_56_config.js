@@ -1,1 +1,1 @@
-var mnemonic = "veteran detect job faint parent library daughter juice place charge pulse same";
+var mnemonic = "worth banner phrase parent poem topic shine unfair will brand armor reopen";

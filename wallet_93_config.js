@@ -1,1 +1,1 @@
-var mnemonic = "brass local cram bright range crazy idea soccer mansion theory concert dial";
+var mnemonic = "wise outer leg snap planet dolphin mother latin confirm receive voyage canoe";

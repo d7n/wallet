@@ -1,1 +1,1 @@
-var mnemonic = "arch thing quiz reason better clean quiz ice good wisdom tortoise guess";
+var mnemonic = "hybrid bike sea roof cigar report casual denial script flip narrow range";

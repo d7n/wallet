@@ -1,1 +1,1 @@
-var mnemonic = "math depend twice learn cloth fox burger drive elder valley dumb rib";
+var mnemonic = "ancient ramp cup crucial mango vessel easy illness spoil crop mechanic scan";

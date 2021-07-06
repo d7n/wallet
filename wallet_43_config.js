@@ -1,1 +1,1 @@
-var mnemonic = "angle test mechanic giggle kind draft fruit correct slide tomato coach arrange";
+var mnemonic = "goat bracket suit stereo jewel pluck erosion bounce today tornado series pond";

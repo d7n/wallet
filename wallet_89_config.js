@@ -1,1 +1,1 @@
-var mnemonic = "space salmon river project enough hood about off happy boil hollow stereo";
+var mnemonic = "scene awesome canoe toward awful word cool river crisp moon green cage";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal fame fluid clip key brain brush trouble arch once edge into";
+var mnemonic = "clown crime panic pond stool parent idea damp winner try cricket valid";

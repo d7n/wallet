@@ -1,1 +1,1 @@
-var mnemonic = "glory seat nice reveal cereal melt diary cannon total stand major gown";
+var mnemonic = "chat traffic fitness behave puppy priority garment hair wheat poverty horn butter";

@@ -1,1 +1,1 @@
-var mnemonic = "timber winter stereo claw nuclear wagon wrist jaguar way dry disorder enlist";
+var mnemonic = "senior zero notable climb jungle arrow arrange nephew term scare coyote adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "add glance aisle couch riot bridge ball ability lend key cousin craft";
+var mnemonic = "attack habit dust shiver surround member bread sense brother cheese plastic grief";

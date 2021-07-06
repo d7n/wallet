@@ -1,1 +1,1 @@
-var mnemonic = "siren rival purpose cheap first cake dash bulk judge trophy quarter sell";
+var mnemonic = "boring vendor any rotate shoulder minute nation knee avoid faint uphold vapor";

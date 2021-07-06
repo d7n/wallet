@@ -1,1 +1,1 @@
-var mnemonic = "bracket boost museum peasant liberty roast record token float chase erupt clay";
+var mnemonic = "adjust keep hollow super coil what chronic solid catch orbit notable huge";

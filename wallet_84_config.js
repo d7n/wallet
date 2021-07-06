@@ -1,1 +1,1 @@
-var mnemonic = "disagree choose minor margin dress mesh front paper dutch frown security spray";
+var mnemonic = "unit horse lens engage deal egg welcome shield vault average music fringe";

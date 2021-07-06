@@ -1,1 +1,1 @@
-var mnemonic = "donkey style warrior couple mammal metal gold fever solar enforce lecture power";
+var mnemonic = "power tonight trick shadow lend ethics require sudden weapon retire obey hair";

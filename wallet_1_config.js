@@ -1,1 +1,1 @@
-var mnemonic = "animal mercy fog infant loop slam report quality key foot inner aspect";
+var mnemonic = "cinnamon true exact figure govern assist uphold venue swing parent beach happy";

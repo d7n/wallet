@@ -1,1 +1,1 @@
-var mnemonic = "dice involve valley patient invite grocery disease train finger judge hurt bracket";
+var mnemonic = "soldier axis emotion taste dilemma always device expand olympic sphere ticket unable";

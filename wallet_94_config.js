@@ -1,1 +1,1 @@
-var mnemonic = "rude divorce define muscle fee abandon license attitude bread rifle magic crop";
+var mnemonic = "grow vague salad legend enroll power point isolate social earth stamp choose";

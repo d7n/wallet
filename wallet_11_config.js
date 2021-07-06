@@ -1,1 +1,1 @@
-var mnemonic = "gallery hood soft fence noise parent knee innocent entry plug kite medal";
+var mnemonic = "hope differ marble chuckle mule peace warfare session theory very tray develop";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred member silly choice course certain neck make better waste sell decide";
+var mnemonic = "cushion canal expand history artist feature yard garage fiscal pledge erosion hybrid";

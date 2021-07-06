@@ -1,1 +1,1 @@
-var mnemonic = "gossip divide follow trip trick believe hockey seed easily enter scan provide";
+var mnemonic = "ribbon pool supply expect embark olive blush enforce return green wire other";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel loyal release element cloud invest echo scissors velvet cousin impose dog";
+var mnemonic = "enemy danger excess daughter long vivid shallow amateur cruise wash attract visit";

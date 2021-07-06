@@ -1,1 +1,1 @@
-var mnemonic = "shell tunnel stem squeeze short plunge enjoy ginger panda kid away curious";
+var mnemonic = "crunch toe spend glance rich scale path decorate trash valve wrap hand";

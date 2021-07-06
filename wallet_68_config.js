@@ -1,1 +1,1 @@
-var mnemonic = "earth couch stick maze crater brown horse nature inner fault mind toilet";
+var mnemonic = "learn add length edit receive foam sad laugh favorite puzzle among trigger";

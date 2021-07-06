@@ -1,1 +1,1 @@
-var mnemonic = "soul avoid excess dynamic much salmon over under zero depart luxury impose";
+var mnemonic = "kitten bacon about warfare sunset basic click cross ridge drift coast inflict";

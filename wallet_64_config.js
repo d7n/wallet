@@ -1,1 +1,1 @@
-var mnemonic = "shock cheese minimum fire bike bundle forget gospel pretty edit season nuclear";
+var mnemonic = "vote enhance response word session grunt able forget ribbon build rent happy";

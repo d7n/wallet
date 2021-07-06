@@ -1,1 +1,1 @@
-var mnemonic = "because shy decide wealth system half buffalo snow provide flight hungry salad";
+var mnemonic = "retire chimney almost sound wool screen jacket situate canvas pair review hover";

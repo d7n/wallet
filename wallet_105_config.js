@@ -1,1 +1,1 @@
-var mnemonic = "narrow cup purchase tiger manual skill subway toward click wall pumpkin symptom";
+var mnemonic = "record seven busy oil forum force song fat tomorrow tribe island mixed";

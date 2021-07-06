@@ -1,1 +1,1 @@
-var mnemonic = "educate asset hawk antique actual like sail step shiver soon east express";
+var mnemonic = "orchard wise injury ankle soap fever effort air void dad canvas float";

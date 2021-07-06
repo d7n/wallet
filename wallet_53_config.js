@@ -1,1 +1,1 @@
-var mnemonic = "ozone cram slogan picture awake crack fatigue drama reveal skull foot fat";
+var mnemonic = "bitter local easily tail such soup social mandate host unhappy gain penalty";

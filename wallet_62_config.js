@@ -1,1 +1,1 @@
-var mnemonic = "method sport snow again mushroom since trend bar question source since regret";
+var mnemonic = "cigar pair unit lesson gravity brain side camp oxygen palm blade glide";

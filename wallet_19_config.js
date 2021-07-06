@@ -1,1 +1,1 @@
-var mnemonic = "excuse debate knee book provide trash vintage ostrich crash wild ladder shed";
+var mnemonic = "grain top drop local vacant trophy glide aerobic opinion transfer lunar book";

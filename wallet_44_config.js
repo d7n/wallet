@@ -1,1 +1,1 @@
-var mnemonic = "napkin assume corn dutch salt tag pave swap galaxy spare hurt above";
+var mnemonic = "ghost oven sun glimpse jaguar address blouse fix injury uphold same spoon";

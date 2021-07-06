@@ -1,1 +1,1 @@
-var mnemonic = "song armor media bright ceiling inmate puzzle fan sugar dirt occur aware";
+var mnemonic = "abuse cake fancy arm treat agent nasty fluid advice arch balance impact";

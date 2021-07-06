@@ -1,1 +1,1 @@
-var mnemonic = "autumn hour lift amazing enroll nest popular title erase mansion defense stool";
+var mnemonic = "account exercise upset floor short usual artefact little awake bench chuckle yard";

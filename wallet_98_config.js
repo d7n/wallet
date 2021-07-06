@@ -1,1 +1,1 @@
-var mnemonic = "roof input govern scheme frog loan edge promote leg female dwarf lunch";
+var mnemonic = "icon angry lake bracket grow ancient result bridge reward zone apple donor";

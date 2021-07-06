@@ -1,1 +1,1 @@
-var mnemonic = "rural salon marriage enjoy walnut shadow nose away dust rabbit merge range";
+var mnemonic = "minor index document solar edit prefer envelope state notable differ debate news";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic grit control grocery rely arena arctic labor jazz hobby fringe charge";
+var mnemonic = "walnut outside clutch labor daring insect throw banner vote universe hybrid uncle";

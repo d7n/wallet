@@ -1,1 +1,1 @@
-var mnemonic = "buddy convince toilet abandon dumb metal verify stereo afraid slim muscle tower";
+var mnemonic = "autumn sunset gospel birth position release auto very churn treat ice fade";

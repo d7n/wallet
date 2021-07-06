@@ -1,1 +1,1 @@
-var mnemonic = "venture check mandate loop bar bitter corn ring pig live enable plastic";
+var mnemonic = "sad sting night duty inhale diary pupil false frog sponsor idea bicycle";

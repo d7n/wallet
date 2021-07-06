@@ -1,1 +1,1 @@
-var mnemonic = "open cannon clinic aim trend little pumpkin ocean surround extra universe essence";
+var mnemonic = "result announce sketch bulb cheese twelve great wage easily roof mutual oyster";

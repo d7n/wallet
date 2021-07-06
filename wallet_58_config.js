@@ -1,1 +1,1 @@
-var mnemonic = "spray hybrid issue dawn cherry clown assault reduce arch point fold culture";
+var mnemonic = "together dawn soap popular walnut myth jar vivid about exercise rack denial";

@@ -1,1 +1,1 @@
-var mnemonic = "box eagle action monkey solution alone guilt column learn truly obtain select";
+var mnemonic = "manage submit fabric nest visit kiss true index donor paper blossom cherry";

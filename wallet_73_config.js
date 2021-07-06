@@ -1,1 +1,1 @@
-var mnemonic = "kiwi history pear post balance sick mad guitar sister warfare pottery boy";
+var mnemonic = "grass slide swing work clever erode drive wrist obtain hawk sausage submit";

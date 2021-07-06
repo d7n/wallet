@@ -1,1 +1,1 @@
-var mnemonic = "cancel stage dial hockey doll lady renew wreck seek frame sister affair";
+var mnemonic = "juice kidney human awake loyal depend unhappy ahead divorce aspect humble frown";

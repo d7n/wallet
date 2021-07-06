@@ -1,1 +1,1 @@
-var mnemonic = "cute ripple kite glory bubble report victory chapter draw food unlock slogan";
+var mnemonic = "parrot nothing say dizzy orphan payment mix staff fabric orchard fork blind";

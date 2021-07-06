@@ -1,1 +1,1 @@
-var mnemonic = "follow rebel thought hip theory island fence glimpse luggage surprise ahead select";
+var mnemonic = "vocal scan alert swear category color among culture globe project eternal asthma";

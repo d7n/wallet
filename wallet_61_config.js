@@ -1,1 +1,1 @@
-var mnemonic = "dust surge home diamond legal speed uncle drastic reject duty mystery echo";
+var mnemonic = "penalty captain ginger unable civil federal property trap ship business crystal fiction";

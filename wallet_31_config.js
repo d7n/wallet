@@ -1,1 +1,1 @@
-var mnemonic = "mom emerge consider tongue lake evil nuclear own transfer medal coil myself";
+var mnemonic = "exclude panel neither flip citizen brick wonder man gauge satoshi knife parrot";

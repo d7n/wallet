@@ -1,1 +1,1 @@
-var mnemonic = "treat play picnic boss laptop youth crucial surprise shy crazy camp happy";
+var mnemonic = "junk business song zone fancy siren idle alley napkin lake riot vehicle";

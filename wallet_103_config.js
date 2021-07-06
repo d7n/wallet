@@ -1,1 +1,1 @@
-var mnemonic = "discover spot illness wink hire anxiety lunar shuffle brown swallow vicious bargain";
+var mnemonic = "night deposit lake fence wreck sadness sibling pretty nominee token duck frost";

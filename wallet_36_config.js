@@ -1,1 +1,1 @@
-var mnemonic = "net cook old indicate draft share name essence cement jaguar lunar hockey";
+var mnemonic = "cost search penalty vacuum season review myth host abandon talent wine typical";

@@ -1,1 +1,1 @@
-var mnemonic = "snake science arena entry asthma foam coconut exchange wild suggest volume scene";
+var mnemonic = "between sheriff bind tuna finish apology deal step dizzy bubble rate practice";

@@ -1,1 +1,1 @@
-var mnemonic = "broom oppose birth riot position ticket output goose trial excess open civil";
+var mnemonic = "sure design stereo dice mushroom cream dish nest road program glide cook";

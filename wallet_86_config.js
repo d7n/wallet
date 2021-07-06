@@ -1,1 +1,1 @@
-var mnemonic = "toddler bus wasp rifle sell prosper smooth rookie scout try goose flight";
+var mnemonic = "march develop meat address pen scatter lady recipe bicycle voyage forward cargo";

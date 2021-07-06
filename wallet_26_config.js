@@ -1,1 +1,1 @@
-var mnemonic = "air leaf omit snake voice grape bean tide crash thank major step";
+var mnemonic = "rival hospital update flush scissors hard endorse fantasy ethics ability fitness forget";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch lottery dumb omit hour consider pig asset electric rude image target";
+var mnemonic = "street jazz tube another friend bird casino begin symptom coin dash letter";

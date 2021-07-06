@@ -1,1 +1,1 @@
-var mnemonic = "spring village pilot oven zoo elegant host year flush athlete credit change";
+var mnemonic = "pilot earn grow merge drift answer deny young apple panther utility pledge";

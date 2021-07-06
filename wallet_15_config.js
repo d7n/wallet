@@ -1,1 +1,1 @@
-var mnemonic = "century eight flat reject pencil pyramid bubble such there fantasy page loop";
+var mnemonic = "skill miss huge buddy cement cherry injury basic knock deposit key mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "true trial parent deputy candy soda usual mean narrow room luggage vapor";
+var mnemonic = "problem taxi actual thought hidden quality myth word ensure paddle bicycle effort";

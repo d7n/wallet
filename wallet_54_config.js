@@ -1,1 +1,1 @@
-var mnemonic = "damage hurry paper water swarm story junk sudden devote basic cost tower";
+var mnemonic = "zoo shadow donkey gauge young over artist civil intact fan off cook";

@@ -1,1 +1,1 @@
-var mnemonic = "spare spring aware dynamic dice involve arrive air undo pencil slush absent";
+var mnemonic = "right barely hello until ability spot famous sugar come model tooth giggle";

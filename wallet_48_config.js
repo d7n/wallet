@@ -1,1 +1,1 @@
-var mnemonic = "topic cream radar diesel glimpse grief vague always flat trophy attend awful";
+var mnemonic = "blush car advance cousin vintage thought soldier august lemon bicycle tomorrow clown";
