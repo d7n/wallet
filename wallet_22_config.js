@@ -1,1 +1,1 @@
-var mnemonic = "quiz type attend tilt vendor slide fortune olympic sad club sting meat";
+var mnemonic = "doll beauty fitness man romance print supreme doll course today omit cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster size bleak traffic frame deal flat scale erupt lunch suggest carry";
+var mnemonic = "bench arrest matrix fatigue sauce slide snap actor debris coach knock midnight";

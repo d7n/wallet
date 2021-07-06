@@ -1,1 +1,1 @@
-var mnemonic = "floor minor cart one prize tragic mobile trouble rude vendor chapter fiber";
+var mnemonic = "laugh swim diary plastic ridge tomorrow north together dwarf execute salon tumble";

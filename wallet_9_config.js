@@ -1,1 +1,1 @@
-var mnemonic = "mobile spider trial visa retire trophy clinic text also surprise above speed";
+var mnemonic = "random trend random tooth album license snack sort broom fashion faint fiction";

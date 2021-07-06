@@ -1,1 +1,1 @@
-var mnemonic = "goddess unfair baby cereal off pizza bomb foil armor hip cement phone";
+var mnemonic = "usual mutual arrest wall shop popular leopard puppy floor lumber finger pulse";

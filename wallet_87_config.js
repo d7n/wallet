@@ -1,1 +1,1 @@
-var mnemonic = "music garment pottery fabric much table slender cycle flower define illegal scrub";
+var mnemonic = "cigar old congress exact used pioneer draw notice village expire fringe critic";

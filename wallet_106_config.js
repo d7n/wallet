@@ -1,1 +1,1 @@
-var mnemonic = "recipe east valley purpose suffer client six cream inhale glad entire earth";
+var mnemonic = "path crystal rookie ostrich noodle warrior field deposit over thunder truth tissue";

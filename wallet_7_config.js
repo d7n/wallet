@@ -1,1 +1,1 @@
-var mnemonic = "doll boy guard hint amazing rug second biology peasant caution pink eagle";
+var mnemonic = "supreme friend genius shop glance night you warrior aunt strategy task circle";

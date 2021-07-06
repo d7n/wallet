@@ -1,1 +1,1 @@
-var mnemonic = "water sweet industry tiny radar dismiss adapt unveil doll dash mix pen";
+var mnemonic = "noise seminar donate usage elbow drift foot toilet twist orient ignore cradle";

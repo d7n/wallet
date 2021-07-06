@@ -1,1 +1,1 @@
-var mnemonic = "bird smooth obey tourist elite blur tail tail chapter raven bind demand";
+var mnemonic = "dinner laptop range enemy symbol demise utility annual monkey apology circle wealth";

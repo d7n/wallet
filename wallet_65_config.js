@@ -1,1 +1,1 @@
-var mnemonic = "gym capable wash peasant invest rule basic rib actor fiction grain van";
+var mnemonic = "code glory slim mango rabbit give guess exchange gift airport result repeat";

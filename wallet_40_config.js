@@ -1,1 +1,1 @@
-var mnemonic = "filter summer diesel manual erupt tissue pool gossip inch glow kidney potato";
+var mnemonic = "renew draft loud awake afford fossil mule agent grain oppose flag inner";

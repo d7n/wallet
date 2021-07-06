@@ -1,1 +1,1 @@
-var mnemonic = "simple dish lawn park flower heart message plug peanut attract warrior spawn";
+var mnemonic = "drum final mule sample warm talent short car fabric wrist cost weasel";

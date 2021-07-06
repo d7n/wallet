@@ -1,1 +1,1 @@
-var mnemonic = "hour good subject sentence battle flash loud squirrel pond saddle ahead leopard";
+var mnemonic = "toe company tattoo board number diesel blossom yellow arrest cry develop nothing";

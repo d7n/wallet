@@ -1,1 +1,1 @@
-var mnemonic = "quit easily script menu ivory fence dizzy friend achieve sustain river notable";
+var mnemonic = "glass sleep picture fiction catalog measure yard response tape verb visa rebuild";

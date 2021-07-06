@@ -1,1 +1,1 @@
-var mnemonic = "armed gossip oblige addict avoid idle weird bar crawl stock tenant dawn";
+var mnemonic = "dutch usual helmet walk economy coral inform coffee hidden capable chair jungle";

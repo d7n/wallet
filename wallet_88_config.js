@@ -1,1 +1,1 @@
-var mnemonic = "switch lock six reject tool ritual wagon market jeans dolphin pond pilot";
+var mnemonic = "vibrant morning option ring cereal phone stone seven tooth between scrub document";

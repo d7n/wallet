@@ -1,1 +1,1 @@
-var mnemonic = "feature erase remind summer grief mutual vessel spell sweet carry science staff";
+var mnemonic = "surround dentist taxi estate pen couple south romance squirrel above filter slight";

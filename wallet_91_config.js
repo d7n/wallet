@@ -1,1 +1,1 @@
-var mnemonic = "economy black solid volume vapor problem extra wear pumpkin put there hazard";
+var mnemonic = "oblige actor margin genius split craft vicious snap save pool village tray";

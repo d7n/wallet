@@ -1,1 +1,1 @@
-var mnemonic = "master foam magnet lock ecology initial seminar region barrel volume moon diamond";
+var mnemonic = "three labor calm close ocean floor winter little capable festival aim ancient";

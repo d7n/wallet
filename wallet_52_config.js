@@ -1,1 +1,1 @@
-var mnemonic = "exist arrive inform high cheese custom chest tonight upon opinion build weird";
+var mnemonic = "lunch demise turn message vocal approve dust myself fortune file muscle robot";

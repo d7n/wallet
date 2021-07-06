@@ -1,1 +1,1 @@
-var mnemonic = "play fitness ozone cave easily juice better wood shift twist casino art";
+var mnemonic = "pipe when antique club priority sadness twenty inject skill move divide ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "market disagree reveal armor client loud true assist live fitness enforce pulse";
+var mnemonic = "initial basic during half detect author matrix vague capable price canvas deposit";

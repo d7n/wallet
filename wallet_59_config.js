@@ -1,1 +1,1 @@
-var mnemonic = "weapon oxygen code clinic ensure region example network mobile globe crunch amateur";
+var mnemonic = "blouse invest machine book industry radar wise neither grace odor grunt gun";

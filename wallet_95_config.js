@@ -1,1 +1,1 @@
-var mnemonic = "soup trial motion mandate trick upgrade rebuild dish eye air rich antenna";
+var mnemonic = "art cousin season excess civil hedgehog grocery melody wrap credit local attack";

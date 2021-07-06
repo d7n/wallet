@@ -1,1 +1,1 @@
-var mnemonic = "carry jacket sister elder manage black predict luxury anxiety scrub sting ribbon";
+var mnemonic = "shallow cup element review symptom oyster output change forget install dry poverty";

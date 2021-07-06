@@ -1,1 +1,1 @@
-var mnemonic = "about route poverty defy melody rotate soap equip scrap deposit civil cheap";
+var mnemonic = "orphan sadness know rule bottom dress mention normal fringe lunch dilemma spike";

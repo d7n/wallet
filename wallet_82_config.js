@@ -1,1 +1,1 @@
-var mnemonic = "rough design lamp earn place total wedding blouse dose regular honey keep";
+var mnemonic = "outside wine scissors virus popular stomach material above festival obey supply city";

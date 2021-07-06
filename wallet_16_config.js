@@ -1,1 +1,1 @@
-var mnemonic = "gravity nose below calm outside scheme nature click vacuum wild violin ribbon";
+var mnemonic = "crunch garden fluid toast ice alcohol census poverty left conduct frozen pool";

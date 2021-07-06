@@ -1,1 +1,1 @@
-var mnemonic = "shield feed artefact mango tail neutral tortoise dream obey useful decline estate";
+var mnemonic = "afford save ripple squeeze floor cradle afraid shallow wait ramp belt party";

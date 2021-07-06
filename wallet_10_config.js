@@ -1,1 +1,1 @@
-var mnemonic = "medal latin juice inner suit degree minute receive hospital must liar menu";
+var mnemonic = "melt stay cube ensure bus refuse purpose invest affair west teach winter";

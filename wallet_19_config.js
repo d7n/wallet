@@ -1,1 +1,1 @@
-var mnemonic = "flat sadness together aim twenty weasel surprise seed powder digital regret member";
+var mnemonic = "ribbon orchard thank boring save truth vintage pencil card jewel inflict identify";

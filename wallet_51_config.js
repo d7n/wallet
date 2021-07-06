@@ -1,1 +1,1 @@
-var mnemonic = "robot destroy orchard trumpet network health clarify guide thought speed umbrella trophy";
+var mnemonic = "fish suit just virtual work novel loan over limb fiction pass faculty";

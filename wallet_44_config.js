@@ -1,1 +1,1 @@
-var mnemonic = "bundle flip angle dilemma toss muscle salute spirit favorite pet source crumble";
+var mnemonic = "consider negative cube boss raise limb burst blouse involve that tissue shove";

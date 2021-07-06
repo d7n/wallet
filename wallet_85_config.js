@@ -1,1 +1,1 @@
-var mnemonic = "dash alter update achieve apology match flight craft nothing plug habit notice";
+var mnemonic = "hip enter million nut keep output squeeze trumpet must giant flush lion";

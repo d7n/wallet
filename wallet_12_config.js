@@ -1,1 +1,1 @@
-var mnemonic = "human turtle cloud tourist tiger immune gallery pretty exotic hat kitten special";
+var mnemonic = "old bind airport social hamster add vacuum glory what magic distance bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "about harsh cigar confirm whale frown exhaust toddler jewel destroy place spy";
+var mnemonic = "deer rapid public thrive mixture record enable gauge middle buddy into sock";

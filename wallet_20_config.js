@@ -1,1 +1,1 @@
-var mnemonic = "sand matter bid little salt abuse render caught stage vocal arrange moment";
+var mnemonic = "home file gossip keep skin cancel visa grant fire require give chef";

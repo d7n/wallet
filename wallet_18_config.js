@@ -1,1 +1,1 @@
-var mnemonic = "skin smooth leaf debris staff famous citizen beyond inherit identify tower over";
+var mnemonic = "endorse income dream nuclear voice junior illness save armor company trust race";

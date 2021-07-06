@@ -1,1 +1,1 @@
-var mnemonic = "sunny favorite cushion arrest floor human jealous dragon damp path inhale cousin";
+var mnemonic = "shuffle firm wrist mad weekend always divorce kitchen attitude situate lawsuit clarify";

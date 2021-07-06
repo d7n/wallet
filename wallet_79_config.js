@@ -1,1 +1,1 @@
-var mnemonic = "meat romance rapid pet quantum salad rookie news summer success dilemma clown";
+var mnemonic = "run alert express vacant weapon foster visual note park time since buyer";

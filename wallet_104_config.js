@@ -1,1 +1,1 @@
-var mnemonic = "dwarf sentence car interest good amateur tray similar fringe century purpose zoo";
+var mnemonic = "yellow staff bean daughter olive frequent broken domain decide car lucky liberty";

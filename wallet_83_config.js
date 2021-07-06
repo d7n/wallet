@@ -1,1 +1,1 @@
-var mnemonic = "that garden old harsh reduce year fiscal wise anger blade arch awful";
+var mnemonic = "lunar plug marriage marble rice hurdle side blast order market coin target";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow general eye future joke bind chronic find soul depend elbow soft";
+var mnemonic = "mimic often menu luggage clerk betray expire reform napkin valley armor foam";

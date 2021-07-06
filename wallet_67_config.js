@@ -1,1 +1,1 @@
-var mnemonic = "chest brand capital always tenant wreck crack credit dolphin clock canvas rack";
+var mnemonic = "young settle indicate change helmet sand book example own rabbit noise walk";

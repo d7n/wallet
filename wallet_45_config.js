@@ -1,1 +1,1 @@
-var mnemonic = "return era between depend easy vanish drop record sick tree rough lawn";
+var mnemonic = "okay grace home material wood romance receive blossom author enlist gasp question";

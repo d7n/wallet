@@ -1,1 +1,1 @@
-var mnemonic = "aspect target bread hold chronic duty settle sweet dragon barely also donor";
+var mnemonic = "stuff wonder song vast pyramid kiwi purse taxi midnight spoil drama stove";

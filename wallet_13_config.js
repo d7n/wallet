@@ -1,1 +1,1 @@
-var mnemonic = "nurse dice rescue core devote gift until wisdom inform equal force trick";
+var mnemonic = "abandon canal project wonder transfer capital such vanish scrub carry combine envelope";

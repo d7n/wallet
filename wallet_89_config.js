@@ -1,1 +1,1 @@
-var mnemonic = "tent water approve square orphan giggle hill domain all grocery else admit";
+var mnemonic = "camp secret tattoo junk gesture blouse pride clown garage limit wisdom mail";

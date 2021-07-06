@@ -1,1 +1,1 @@
-var mnemonic = "stool clown duty hamster reveal powder glory torch bargain hero flag way";
+var mnemonic = "hip lecture depart disease sample style afraid laugh ready peace state silly";

@@ -1,1 +1,1 @@
-var mnemonic = "target seat veteran clip document syrup august idea celery twenty cannon horn";
+var mnemonic = "census degree tomato spider scatter practice bamboo rose face liberty rifle giraffe";

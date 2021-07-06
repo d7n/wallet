@@ -1,1 +1,1 @@
-var mnemonic = "tilt dynamic elephant mixture worry private board consider nest search unveil limit";
+var mnemonic = "pause sorry again gap today grunt degree spider basic subway execute garden";

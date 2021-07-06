@@ -1,1 +1,1 @@
-var mnemonic = "park chuckle add animal mandate era busy tattoo priority budget pony express";
+var mnemonic = "error crazy badge mango hazard visit beach stem company garbage east result";

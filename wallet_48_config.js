@@ -1,1 +1,1 @@
-var mnemonic = "tone wise win alien race film blossom warm success trim lecture rather";
+var mnemonic = "toward force kind law fashion chronic absorb flock ignore burger muscle fiction";

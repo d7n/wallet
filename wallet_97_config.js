@@ -1,1 +1,1 @@
-var mnemonic = "laundry robust repeat pencil ship present cruel pluck spike midnight predict creek";
+var mnemonic = "best mosquito turtle join razor away expose duty horror pigeon canoe illness";

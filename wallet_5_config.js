@@ -1,1 +1,1 @@
-var mnemonic = "merry all brown rocket humble slim caution wage soft motion sell legend";
+var mnemonic = "minimum party extra comfort split reason hockey middle exhibit strong liquid fragile";

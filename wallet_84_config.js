@@ -1,1 +1,1 @@
-var mnemonic = "shy deny avoid quick rifle tide beyond before shed giant original version";
+var mnemonic = "claim caution popular puzzle situate destroy whisper light velvet suit quantum charge";

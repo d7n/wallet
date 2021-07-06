@@ -1,1 +1,1 @@
-var mnemonic = "dream culture ill movie crew picnic hollow sea erase ozone diamond length";
+var mnemonic = "mother usual example bitter that teach now praise enemy citizen street slow";

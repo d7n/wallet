@@ -1,1 +1,1 @@
-var mnemonic = "fury liar analyst focus grow glad animal demand buzz retire famous seek";
+var mnemonic = "puzzle must weather chief mistake achieve maze slush attract consider cute divide";

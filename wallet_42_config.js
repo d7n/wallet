@@ -1,1 +1,1 @@
-var mnemonic = "thing try firm square garlic radio wonder valid inside similar list music";
+var mnemonic = "month alter current oven skin elite monster evil spell sniff assist demand";

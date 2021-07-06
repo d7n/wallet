@@ -1,1 +1,1 @@
-var mnemonic = "hold man ankle disorder exclude fashion nuclear hole riot manual diesel vacant";
+var mnemonic = "thought walk body lion fat example major poem credit coral loan cat";

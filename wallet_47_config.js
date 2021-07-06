@@ -1,1 +1,1 @@
-var mnemonic = "salute secret top issue kid border select slight popular use wonder solid";
+var mnemonic = "slender alley theory dolphin before term quote runway exact harvest title worry";

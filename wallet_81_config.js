@@ -1,1 +1,1 @@
-var mnemonic = "bargain wealth olympic column apart corn sentence sponsor calm tribe guard crime";
+var mnemonic = "zero cool coast warfare purpose frog evoke slender chronic wild session soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "long village fog hope wedding will audit awful false gym stuff actor";
+var mnemonic = "real tube since essay weekend clown hungry balance spare jealous junk cruel";

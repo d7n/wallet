@@ -1,1 +1,1 @@
-var mnemonic = "cake honey switch project defy catch bunker caution direct normal private exotic";
+var mnemonic = "wife novel taxi tail october squirrel ripple unlock famous feel donate genre";

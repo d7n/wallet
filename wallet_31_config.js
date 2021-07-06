@@ -1,1 +1,1 @@
-var mnemonic = "rival alone input produce science goddess bounce never leader party decrease enforce";
+var mnemonic = "toward child master tower pact cart tortoise make toss sell viable room";

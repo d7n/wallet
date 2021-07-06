@@ -1,1 +1,1 @@
-var mnemonic = "early will dad spot clog useful color market cherry exotic near pottery";
+var mnemonic = "slender enough wrist clay humor east labor frown act rhythm photo noise";

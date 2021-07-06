@@ -1,1 +1,1 @@
-var mnemonic = "engage believe exchange wolf slush fine moral mixture luxury frog fog security";
+var mnemonic = "raven voyage joy image field stomach journey march submit assault tail rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze convince cotton bar tattoo only false solar wing pattern gravity leaf";
+var mnemonic = "oil material dinosaur undo dune weasel sorry when card obscure talk ramp";

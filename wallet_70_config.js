@@ -1,1 +1,1 @@
-var mnemonic = "narrow kiwi have toward critic robust arrest swap about gallery sword galaxy";
+var mnemonic = "purchase ask few company come tragic pupil impose quick angry this truly";

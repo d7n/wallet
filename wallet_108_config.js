@@ -1,1 +1,1 @@
-var mnemonic = "prosper mobile weekend funny rifle invest all you crash aim latin refuse";
+var mnemonic = "skin hire gospel skull fitness poverty eternal rate elbow cry ugly agent";

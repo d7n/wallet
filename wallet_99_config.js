@@ -1,1 +1,1 @@
-var mnemonic = "orchard cloud decrease sausage happy utility staff size laundry key grocery again";
+var mnemonic = "cruise aerobic elbow effort island adult benefit law quarter abstract visit forest";

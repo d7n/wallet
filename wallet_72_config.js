@@ -1,1 +1,1 @@
-var mnemonic = "sing cake elegant foot toilet praise patch random very perfect cigar defy";
+var mnemonic = "option tail snow dwarf defense eternal toe wedding spawn health loop fat";

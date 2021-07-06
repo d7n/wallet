@@ -1,1 +1,1 @@
-var mnemonic = "find urge roof drip already disagree spell gravity remind stone display winner";
+var mnemonic = "tiger address twist scrap detail gasp cool sauce solve pig web hazard";

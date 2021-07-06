@@ -1,1 +1,1 @@
-var mnemonic = "legal engage anger stadium swamp early shove parade zebra couch cage crunch";
+var mnemonic = "smart gesture mad budget skate clown skirt pave record year any rib";

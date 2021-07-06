@@ -1,1 +1,1 @@
-var mnemonic = "age sad absurd refuse reward body hotel cross hen knock feature vast";
+var mnemonic = "bag raise soul dove vault brisk museum toilet census trial tobacco degree";

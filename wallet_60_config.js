@@ -1,1 +1,1 @@
-var mnemonic = "thing episode salmon light admit mountain pave thank ocean eternal remain sad";
+var mnemonic = "morning candy average upper gun kit aisle close roof glue cancel wreck";

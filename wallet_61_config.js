@@ -1,1 +1,1 @@
-var mnemonic = "sponsor board butter ginger left flock candy carry struggle fresh begin sight";
+var mnemonic = "slide rack nominee beauty pear keen inside broccoli butter ankle expire local";

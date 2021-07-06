@@ -1,1 +1,1 @@
-var mnemonic = "rather innocent repeat game weather claim quarter rather girl human love relax";
+var mnemonic = "predict spring unknown mountain gravity concert lake glory surround bounce script hire";

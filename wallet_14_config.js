@@ -1,1 +1,1 @@
-var mnemonic = "antique grab core genre style review position lucky vicious soccer rough miss";
+var mnemonic = "list tissue gown panther scout gold absurd motor source reward enroll vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "urban exercise chat cliff explain flash film pull ocean record derive dish";
+var mnemonic = "kangaroo cart equip opinion siege country bright miracle ring assist credit present";

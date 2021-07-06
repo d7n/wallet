@@ -1,1 +1,1 @@
-var mnemonic = "sport smile decade reunion margin crisp risk eyebrow shoe oxygen real grief";
+var mnemonic = "leaf acquire lady smoke target lawn face swift produce end toy fossil";

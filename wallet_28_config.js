@@ -1,1 +1,1 @@
-var mnemonic = "mandate sister wing harbor sell comic finish inject actual gather kidney program";
+var mnemonic = "movie quiz depart submit clap card select bubble comfort mass clay breeze";

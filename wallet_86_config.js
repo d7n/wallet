@@ -1,1 +1,1 @@
-var mnemonic = "solid follow silly kiss loop burden feel vivid tongue word solve taste";
+var mnemonic = "answer glass weird sugar recipe excite rough punch vast imitate army below";

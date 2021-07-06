@@ -1,1 +1,1 @@
-var mnemonic = "donor alter pitch train park village fortune pretty loop three forget kiwi";
+var mnemonic = "together mushroom differ tiger diagram slide ball spray brass review mountain endless";

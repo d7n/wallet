@@ -1,1 +1,1 @@
-var mnemonic = "topple permit convince curtain industry industry blush blood mandate cream tag ability";
+var mnemonic = "visa pony property process frog cotton much fever bird glimpse tenant asset";

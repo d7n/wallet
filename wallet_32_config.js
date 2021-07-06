@@ -1,1 +1,1 @@
-var mnemonic = "marble mixed detail medal deposit jazz bean divert essay diesel flush dumb";
+var mnemonic = "praise tool month travel video unusual agent once since village inherit cousin";
