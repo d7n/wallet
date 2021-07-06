@@ -1,1 +1,1 @@
-var mnemonic = "price damp quality winter moon wrist swamp claw brick celery old hidden";
+var mnemonic = "bacon super young suit myth shadow celery october filter primary network shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "utility addict brave canvas leopard state laugh harsh person discover artefact essay";
+var mnemonic = "tiny gesture wave merit second index water cute symbol crawl code acquire";

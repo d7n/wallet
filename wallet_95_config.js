@@ -1,1 +1,1 @@
-var mnemonic = "spring inch car turn inquiry visual core this illegal run barely say";
+var mnemonic = "same truth risk other trumpet wall journey pioneer crouch much mistake meat";

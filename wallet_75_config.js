@@ -1,1 +1,1 @@
-var mnemonic = "north calm help midnight sunset slot pave borrow menu basket image whale";
+var mnemonic = "trade exhaust section write desk fade theory return world aunt crouch inhale";

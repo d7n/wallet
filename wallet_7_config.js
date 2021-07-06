@@ -1,1 +1,1 @@
-var mnemonic = "strike elbow turtle pitch pelican police neglect climb lemon park day sun";
+var mnemonic = "lesson mother wide between believe planet great pool pact object work taxi";

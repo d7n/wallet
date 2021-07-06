@@ -1,1 +1,1 @@
-var mnemonic = "general march comfort gun crumble muscle aerobic celery spike obtain soul rotate";
+var mnemonic = "trial hair latin twice traffic ritual love own old control sing act";

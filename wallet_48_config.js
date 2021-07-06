@@ -1,1 +1,1 @@
-var mnemonic = "wise custom fog parent web trash slight apart senior athlete tape wrist";
+var mnemonic = "attitude hedgehog portion random clog conduct family alley trim box mule check";

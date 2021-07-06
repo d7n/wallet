@@ -1,1 +1,1 @@
-var mnemonic = "course lamp fan mistake embrace penalty east proud hollow hedgehog clay side";
+var mnemonic = "better omit mutual knock hurt parade multiply manage setup sick garden staff";

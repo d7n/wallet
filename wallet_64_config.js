@@ -1,1 +1,1 @@
-var mnemonic = "depth jeans toe rug quit list holiday syrup unveil diagram hand leaf";
+var mnemonic = "blind prize steel velvet soon leader breeze choose disagree priority relief improve";

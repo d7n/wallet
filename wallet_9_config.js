@@ -1,1 +1,1 @@
-var mnemonic = "size model sample emerge slab process process accuse wild remove million limit";
+var mnemonic = "evoke common flip tenant lawn scissors wealth dove front cover glance cabin";

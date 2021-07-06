@@ -1,1 +1,1 @@
-var mnemonic = "cost deputy diesel slow enlist behave rail kick armor pupil acid great";
+var mnemonic = "town acoustic imitate breeze shoe lobster idea trim flag universe roast charge";

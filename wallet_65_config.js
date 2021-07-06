@@ -1,1 +1,1 @@
-var mnemonic = "upset such master tribe embrace april host evolve brave meat favorite feature";
+var mnemonic = "claw kind rather vacant mixture jeans width boy march diamond oval among";

@@ -1,1 +1,1 @@
-var mnemonic = "garage gravity phrase agent normal champion cage salt worry belt pitch talk";
+var mnemonic = "board ozone relief enhance fashion bread occur will edge deputy throw search";

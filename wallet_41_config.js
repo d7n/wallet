@@ -1,1 +1,1 @@
-var mnemonic = "depart salt length primary misery obvious loud video stock embody wreck tell";
+var mnemonic = "begin put light credit duty chicken dynamic business broom trap heavy escape";

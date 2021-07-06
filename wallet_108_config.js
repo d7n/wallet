@@ -1,1 +1,1 @@
-var mnemonic = "attract silent mansion donate master cupboard talk cave gap mind leave city";
+var mnemonic = "reason road obtain mind nature useful half guide arm exchange weasel profit";

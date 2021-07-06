@@ -1,1 +1,1 @@
-var mnemonic = "friend fade drama gym diesel nephew unit broken like dream firm year";
+var mnemonic = "barrel machine price pet happy indicate excuse arch bomb into apple despair";

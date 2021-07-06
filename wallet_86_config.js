@@ -1,1 +1,1 @@
-var mnemonic = "strategy slush predict wool wise injury opinion grief clump giraffe bread surround";
+var mnemonic = "cancel horn minimum exact make fashion pill trash arena update engine rice";

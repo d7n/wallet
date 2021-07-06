@@ -1,1 +1,1 @@
-var mnemonic = "funny bracket observe loan solid push patient subject moon chronic beyond body";
+var mnemonic = "genius pizza cover harbor method hunt select slide ostrich able flat kidney";

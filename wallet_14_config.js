@@ -1,1 +1,1 @@
-var mnemonic = "rug urge ceiling sausage reopen spend frozen iron recipe vapor lobster art";
+var mnemonic = "good pave pear explain scrub issue convince record orchard security acoustic beauty";

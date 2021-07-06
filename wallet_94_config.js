@@ -1,1 +1,1 @@
-var mnemonic = "butter usage gown smoke midnight gravity smart subject naive settle almost pudding";
+var mnemonic = "boat suggest dial balcony fault kangaroo first twin swap lawn word coral";

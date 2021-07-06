@@ -1,1 +1,1 @@
-var mnemonic = "mother table creek unhappy infant mango motion insect control wrestle divorce rude";
+var mnemonic = "track sick tiger rally negative chief pause offer foster oyster decade board";

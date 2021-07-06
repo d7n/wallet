@@ -1,1 +1,1 @@
-var mnemonic = "energy chief build ridge silly basic spirit section enable shell predict speed";
+var mnemonic = "sock sand weasel luxury craft style bachelor horror casual ride captain bachelor";

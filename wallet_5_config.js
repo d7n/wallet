@@ -1,1 +1,1 @@
-var mnemonic = "decrease seven candy cruel effort feed garden unknown provide decline boring essay";
+var mnemonic = "world ensure eyebrow tower train ritual olive analyst shed bike issue punch";

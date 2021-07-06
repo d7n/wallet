@@ -1,1 +1,1 @@
-var mnemonic = "rebuild doctor army nerve marble apple wrong push strategy bulb hill stone";
+var mnemonic = "tank large similar estate unfair pluck regular muffin toy actual dinner journey";

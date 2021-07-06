@@ -1,1 +1,1 @@
-var mnemonic = "aim heart author december park question rule grant wall flat ugly gown";
+var mnemonic = "caught mad chef depart lady supply uniform tiger glance solar tonight myself";

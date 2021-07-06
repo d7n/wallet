@@ -1,1 +1,1 @@
-var mnemonic = "person spend foster feel model seed soccer clerk holiday private equip hotel";
+var mnemonic = "unhappy wolf beach lady summer say infant topic matter uncle couch head";

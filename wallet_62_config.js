@@ -1,1 +1,1 @@
-var mnemonic = "ridge kitten swarm burden junk save camp antenna brand slow gallery concert";
+var mnemonic = "goat prepare ski employ angry weekend corn glue scrub page claw neck";

@@ -1,1 +1,1 @@
-var mnemonic = "tail media palace deposit usage sponsor safe level guitar ranch dish train";
+var mnemonic = "path team letter crater tank marine robust circle dwarf harvest hen nothing";

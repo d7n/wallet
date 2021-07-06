@@ -1,1 +1,1 @@
-var mnemonic = "theory suggest fan energy violin illness combine bundle correct train ramp scan";
+var mnemonic = "transfer bundle gate canoe annual cliff exclude buzz toy empower describe loop";

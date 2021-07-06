@@ -1,1 +1,1 @@
-var mnemonic = "local song royal drastic student ordinary acquire craft alley win size peasant";
+var mnemonic = "label gym clap mouse rabbit absurd walk dragon save tone bench assume";

@@ -1,1 +1,1 @@
-var mnemonic = "hope garlic sleep real physical visit waste away special leader gain creek";
+var mnemonic = "health narrow fly smart enter turkey impulse amazing poverty lounge ankle alcohol";

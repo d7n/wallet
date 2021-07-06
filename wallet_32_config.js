@@ -1,1 +1,1 @@
-var mnemonic = "east mention problem gain habit slam organ illegal more actual heavy ecology";
+var mnemonic = "truck hello husband right buffalo habit buzz soccer ahead envelope charge cause";

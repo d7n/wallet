@@ -1,1 +1,1 @@
-var mnemonic = "chase scatter outdoor that still more credit forest cargo joke panic divide";
+var mnemonic = "economy advice thunder nasty jewel glide learn seed skill glimpse kitchen heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "cost repair draft orchard series cream unknown speed flight decrease firm next";
+var mnemonic = "equal sock tobacco pipe stand actor romance agree grunt all claim sample";

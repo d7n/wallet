@@ -1,1 +1,1 @@
-var mnemonic = "gain elegant cricket champion exhibit decide rescue tonight dignity refuse sure dragon";
+var mnemonic = "chief asset fiber fatal health stool radio tenant evidence warrior awesome arctic";

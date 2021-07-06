@@ -1,1 +1,1 @@
-var mnemonic = "address inject minute fame element reward ripple firm creek profit baby flower";
+var mnemonic = "ribbon power depart electric crawl script major junk century same swarm winter";

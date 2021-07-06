@@ -1,1 +1,1 @@
-var mnemonic = "spike act hundred hire rocket menu fuel plate summer scatter brave hospital";
+var mnemonic = "above venture table speak access wet snake suspect lock occur resemble meadow";

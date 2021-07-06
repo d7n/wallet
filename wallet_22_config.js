@@ -1,1 +1,1 @@
-var mnemonic = "tortoise keen notice option pulse carry husband rifle canoe organ jeans grow";
+var mnemonic = "hire sunset put turtle false museum under edit tell crew better faculty";

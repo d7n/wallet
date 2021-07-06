@@ -1,1 +1,1 @@
-var mnemonic = "sweet cactus alcohol cost idea orange walk limit notable undo physical asthma";
+var mnemonic = "submit decide relax sleep art certain acid victory damage trumpet rain home";

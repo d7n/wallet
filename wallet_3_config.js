@@ -1,1 +1,1 @@
-var mnemonic = "gesture truth strong tiny latin monster print fringe sweet soup derive ticket";
+var mnemonic = "script matrix kidney any detect bid reject equip crash pool warrior dream";

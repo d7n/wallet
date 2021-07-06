@@ -1,1 +1,1 @@
-var mnemonic = "light desert other supreme night urban cheese chuckle pioneer danger broccoli stereo";
+var mnemonic = "invest voyage cable upon great finger link ceiling cement hen obey fitness";

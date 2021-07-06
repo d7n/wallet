@@ -1,1 +1,1 @@
-var mnemonic = "mercy service multiply swallow attitude oxygen dose pause account meat rotate hold";
+var mnemonic = "bread latin slab bitter quick observe ability jelly cigar cruise canal blanket";

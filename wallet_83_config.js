@@ -1,1 +1,1 @@
-var mnemonic = "solution thing inch type imitate across fitness rate air fossil erode glow";
+var mnemonic = "skate butter style dragon seat parrot trophy bridge energy fiction whip pudding";

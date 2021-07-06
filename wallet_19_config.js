@@ -1,1 +1,1 @@
-var mnemonic = "current rare together visit humor remind absurd kind liquid learn strategy ability";
+var mnemonic = "awesome budget nice gain elevator spare rural gossip damage alpha flee tent";

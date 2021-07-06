@@ -1,1 +1,1 @@
-var mnemonic = "panic hotel welcome artefact wing canal model camera impulse east hub cube";
+var mnemonic = "achieve student eternal luxury apple punch city jaguar neither defense usage day";

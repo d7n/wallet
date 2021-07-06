@@ -1,1 +1,1 @@
-var mnemonic = "cram pride divorce skirt venue sock proud cactus green must basic ability";
+var mnemonic = "reunion token just layer nut build beef faith trim palace camera erase";

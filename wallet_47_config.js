@@ -1,1 +1,1 @@
-var mnemonic = "oven carbon girl half machine process talk segment face life frame airport";
+var mnemonic = "like bubble current gown clog cry target thrive aerobic code good hill";

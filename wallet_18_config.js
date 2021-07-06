@@ -1,1 +1,1 @@
-var mnemonic = "ordinary noble hamster motor razor siren estate angry stumble pattern action section";
+var mnemonic = "movie picnic tag erosion tenant dolphin hurdle donate merit rifle human deal";

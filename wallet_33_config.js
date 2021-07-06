@@ -1,1 +1,1 @@
-var mnemonic = "letter inspire black amateur earn caution slight under wolf fade tissue review";
+var mnemonic = "hurt syrup script gown slight write engine force velvet scissors truly fan";

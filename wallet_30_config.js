@@ -1,1 +1,1 @@
-var mnemonic = "slot when shop moon spray extend gesture economy three soap choice replace";
+var mnemonic = "phrase normal elegant easily neither reflect erupt angle sugar couple hotel unlock";

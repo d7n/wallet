@@ -1,1 +1,1 @@
-var mnemonic = "exact impulse exit stadium cancel live equal lend fix adapt fault almost";
+var mnemonic = "supreme cereal reveal sheriff smooth alley spring always coyote bargain prosper mass";

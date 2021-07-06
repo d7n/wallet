@@ -1,1 +1,1 @@
-var mnemonic = "view today vacuum green lawn cage eternal fine pumpkin unfair audit expire";
+var mnemonic = "eager dove now interest affair present swear soccer document flat radio island";

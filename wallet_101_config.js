@@ -1,1 +1,1 @@
-var mnemonic = "resist inform school unfold when cushion abuse still marriage series chuckle fiber";
+var mnemonic = "deliver universe vote flight often draft primary liar record error lecture remember";

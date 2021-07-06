@@ -1,1 +1,1 @@
-var mnemonic = "avocado pulse arrest sketch model execute still eager tunnel now arm sheriff";
+var mnemonic = "diesel garden cereal body letter mutual away gun trumpet physical rebel tube";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar vehicle produce proof nasty spike truth congress vast humor rabbit armor";
+var mnemonic = "wise language home fabric announce mind room hurry muffin fish couch tuna";

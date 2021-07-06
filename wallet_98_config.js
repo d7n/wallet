@@ -1,1 +1,1 @@
-var mnemonic = "danger they film minor direct draw exhaust goddess decorate opinion turtle legend";
+var mnemonic = "envelope injury friend van enlist before narrow other victory intact circle neither";

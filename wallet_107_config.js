@@ -1,1 +1,1 @@
-var mnemonic = "oak rail joke afraid trial unable cube boss good soup control raw";
+var mnemonic = "skill coconut victory exist obtain avoid wrong final middle crop bridge vacant";

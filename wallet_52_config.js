@@ -1,1 +1,1 @@
-var mnemonic = "jar spot joke second local capital treat donor oppose supreme robot enough";
+var mnemonic = "eight dry smoke art guide cereal offer hundred transfer bronze indoor almost";

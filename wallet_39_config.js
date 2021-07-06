@@ -1,1 +1,1 @@
-var mnemonic = "shock broken aisle tray tissue surprise essay feel nut canvas heart virtual";
+var mnemonic = "ask best universe often kid talk drill aim cement bid panel funny";

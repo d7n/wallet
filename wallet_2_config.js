@@ -1,1 +1,1 @@
-var mnemonic = "art clog resemble mango swap speed wire clean extra hope genius render";
+var mnemonic = "during enable team maple memory warfare weapon shaft ensure absurd blood fortune";

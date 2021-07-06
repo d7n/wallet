@@ -1,1 +1,1 @@
-var mnemonic = "process document junk before animal ribbon shove primary manual engage post little";
+var mnemonic = "drop sail lava tide since rent arrive bless heavy wear joke reject";

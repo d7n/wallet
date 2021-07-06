@@ -1,1 +1,1 @@
-var mnemonic = "matrix talent pool nominee retreat able fiscal patrol mother detect office opera";
+var mnemonic = "toy annual blanket dad rate dose invest unlock post head error spread";

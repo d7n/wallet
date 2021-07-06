@@ -1,1 +1,1 @@
-var mnemonic = "mushroom brave hand trend piano begin fabric beef plastic sword venue dove";
+var mnemonic = "spider section mixture shrug wisdom dove lunch lava impact sense burden whale";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat clerk virtual canyon ice today frozen title special language swamp lounge";
+var mnemonic = "cage system law near bone novel dash unable wash stem name cry";

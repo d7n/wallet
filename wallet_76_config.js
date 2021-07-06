@@ -1,1 +1,1 @@
-var mnemonic = "gun father soon split decide flee wheel duty fury color hello mutual";
+var mnemonic = "process arena notice govern veteran logic opera sponsor stick people shadow web";

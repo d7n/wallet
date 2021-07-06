@@ -1,1 +1,1 @@
-var mnemonic = "recall couch slogan twelve bacon famous slot swing tunnel echo spare convince";
+var mnemonic = "diesel ivory payment joke knee pulse column swallow weather fade census party";

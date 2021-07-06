@@ -1,1 +1,1 @@
-var mnemonic = "creek play action potato lend bunker win suit rabbit word chief special";
+var mnemonic = "lounge crouch jazz large voyage broken sleep provide dinner promote admit daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "island stem home small connect version junk seven lunar dwarf input rally";
+var mnemonic = "wise true across team across neither catalog napkin lounge scan soccer buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "devote siege heart rather enroll pig vanish emotion object blade involve general";
+var mnemonic = "pony stage warfare strategy drift phone snow index panther just loyal decline";

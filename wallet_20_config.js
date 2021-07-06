@@ -1,1 +1,1 @@
-var mnemonic = "degree innocent smooth divide scan clerk demand weekend siren learn surround choose";
+var mnemonic = "auto turn chapter during envelope rose salute will mesh enough option smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "toy island evil act raccoon shop cereal scare super junior collect feature";
+var mnemonic = "fly ball mean mobile property poem owner boost invest chuckle provide slice";
