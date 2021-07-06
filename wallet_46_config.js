@@ -1,1 +1,1 @@
-var mnemonic = "spin guitar patch disorder olympic era example decorate foot brief fly cargo";
+var mnemonic = "matter nuclear scare shift tourist topple session print energy route wish erupt";

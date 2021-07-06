@@ -1,1 +1,1 @@
-var mnemonic = "mercy pulp cruise paddle follow spare century thank winner person execute ski";
+var mnemonic = "finger member elegant task term around display earth dove dove piano slow";

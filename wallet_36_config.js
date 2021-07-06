@@ -1,1 +1,1 @@
-var mnemonic = "thunder uncover moment arch spread people scheme plug devote lucky stadium culture";
+var mnemonic = "crystal lunar float solar cupboard level scorpion radio gorilla marriage suffer digital";

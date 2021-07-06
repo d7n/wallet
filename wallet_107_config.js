@@ -1,1 +1,1 @@
-var mnemonic = "abuse master sugar treat release chair senior when pet emotion truck memory";
+var mnemonic = "donkey dolphin crane garment turkey oval dune eight nasty pass obvious layer";

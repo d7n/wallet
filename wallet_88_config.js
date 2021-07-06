@@ -1,1 +1,1 @@
-var mnemonic = "universe secret upon romance unhappy thank alter lemon twenty acquire spawn clown";
+var mnemonic = "sock flush fatal hen witness tattoo wrist spider bar now excuse minor";

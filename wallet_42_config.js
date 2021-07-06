@@ -1,1 +1,1 @@
-var mnemonic = "you banner afraid bottom situate alley start impose bomb guilt pause round";
+var mnemonic = "share flavor sorry shop tissue jealous double sport roof deputy general cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol uphold illness repair version jewel ahead flush suffer exchange sight mirror";
+var mnemonic = "dad snap party kingdom check neck fine galaxy yard catch rural crime";

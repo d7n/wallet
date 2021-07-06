@@ -1,1 +1,1 @@
-var mnemonic = "put stable bean manual vehicle actor yellow suit tower develop sunset main";
+var mnemonic = "stick unable stone cram pepper multiply weird novel flush letter crop lake";

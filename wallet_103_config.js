@@ -1,1 +1,1 @@
-var mnemonic = "brisk fever blade antique degree cabin symbol hire year protect finish common";
+var mnemonic = "online peace fragile side offer bring broccoli supply talent shrug behave awful";

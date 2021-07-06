@@ -1,1 +1,1 @@
-var mnemonic = "gold uncover any suggest female kitten simple million cry pet glory govern";
+var mnemonic = "awkward excite cigar indicate only hover sail actor evolve burden mouse zero";

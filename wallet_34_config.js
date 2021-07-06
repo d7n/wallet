@@ -1,1 +1,1 @@
-var mnemonic = "observe all language jacket spider action slender leg oyster repair record bus";
+var mnemonic = "model fortune pitch thumb case change swift come two child hello label";

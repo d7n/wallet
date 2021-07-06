@@ -1,1 +1,1 @@
-var mnemonic = "rug slab crouch salute butter soft scene pill voyage sell drum distance";
+var mnemonic = "balance minimum head regret fresh wagon next thumb output future phone segment";

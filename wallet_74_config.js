@@ -1,1 +1,1 @@
-var mnemonic = "sponsor expand envelope clarify resist aunt spend bean stereo saddle cluster alien";
+var mnemonic = "wood yard bicycle great hub reform horn famous clarify possible click fog";

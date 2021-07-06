@@ -1,1 +1,1 @@
-var mnemonic = "choice license six follow gold mom popular uncle option foam open acid";
+var mnemonic = "nephew force coconut armed local arctic capable under oven call spawn yellow";

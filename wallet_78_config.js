@@ -1,1 +1,1 @@
-var mnemonic = "recycle rebuild start spider clump sense pair filter refuse cement dash impact";
+var mnemonic = "merry ostrich puppy field hawk reveal box raw absorb anger cabbage bundle";

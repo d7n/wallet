@@ -1,1 +1,1 @@
-var mnemonic = "either voice until tank myth almost gym aspect robot device galaxy odor";
+var mnemonic = "gift tilt loop media auto roof explain eight crash exchange kingdom banner";

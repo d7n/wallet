@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fence enable lens latin domain auto emotion puzzle sibling inform then";
+var mnemonic = "student grab range scene voice story radar alter ceiling slight student scheme";

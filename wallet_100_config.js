@@ -1,1 +1,1 @@
-var mnemonic = "ribbon rifle love topple practice level october luggage affair cabbage entire blue";
+var mnemonic = "rich minimum father tape body code away depend adult media jaguar note";

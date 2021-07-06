@@ -1,1 +1,1 @@
-var mnemonic = "fun chimney sweet fabric legal have magic relief ostrich club liquid soon";
+var mnemonic = "bone speak domain carpet entire aerobic deputy lizard parent lazy close door";

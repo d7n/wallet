@@ -1,1 +1,1 @@
-var mnemonic = "entry note select yard critic aisle toddler cook certain now crumble tape";
+var mnemonic = "near spy result purse shoe tobacco note stadium beach erupt mother inch";

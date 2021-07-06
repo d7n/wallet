@@ -1,1 +1,1 @@
-var mnemonic = "wide swarm outdoor bracket few surge undo game ill canoe prevent onion";
+var mnemonic = "describe focus strike sphere pony film kingdom gym term float video material";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter nuclear detect divert special smoke search avocado mass post carbon boring";
+var mnemonic = "then slow unusual middle figure arm police rent pear sphere shuffle sad";

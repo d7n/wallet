@@ -1,1 +1,1 @@
-var mnemonic = "omit adapt game tray diet begin wagon dish melody note cart mesh";
+var mnemonic = "forget give illness slab useful hotel type rib silent whale start attitude";

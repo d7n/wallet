@@ -1,1 +1,1 @@
-var mnemonic = "tide skill scatter pumpkin dilemma garage topple upon earn climb harsh anger";
+var mnemonic = "guilt hotel symbol bronze vicious hamster giant horn despair grain noise grass";

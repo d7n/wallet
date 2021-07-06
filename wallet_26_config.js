@@ -1,1 +1,1 @@
-var mnemonic = "approve talent mix story traffic frog decide embark monkey force blouse fame";
+var mnemonic = "broccoli sound notable general recall alarm seat cupboard grit eight ticket craft";

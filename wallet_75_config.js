@@ -1,1 +1,1 @@
-var mnemonic = "limb first whisper onion entry total wage spoil adjust fade brush hole";
+var mnemonic = "foot safe ivory denial bag scrub degree hedgehog exotic mean avocado describe";

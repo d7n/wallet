@@ -1,1 +1,1 @@
-var mnemonic = "kitchen marble gauge sure iron wash couch hedgehog submit advance case wrong";
+var mnemonic = "hidden crowd mother south mobile where swift rhythm laugh furnace job useless";

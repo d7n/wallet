@@ -1,1 +1,1 @@
-var mnemonic = "cabin total eternal pink summer east bind girl fan whale umbrella come";
+var mnemonic = "cash elevator great artwork vacuum diet spatial blast sibling tip olive modify";

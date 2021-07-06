@@ -1,1 +1,1 @@
-var mnemonic = "bounce join buyer banner switch vibrant outer wealth exhibit toss asset relief";
+var mnemonic = "drink clever ill chalk student top tornado carbon fault sunny roof cheap";

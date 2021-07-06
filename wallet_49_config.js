@@ -1,1 +1,1 @@
-var mnemonic = "strategy swarm give tool gym educate apart border guitar envelope coil job";
+var mnemonic = "pudding legend best arrow submit negative limb grunt endless taxi mirror foam";

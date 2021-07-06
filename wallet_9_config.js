@@ -1,1 +1,1 @@
-var mnemonic = "boring mobile screen blind speed observe ten sketch narrow repair bless radar";
+var mnemonic = "wish exit slam panther slush isolate duck library injury betray innocent health";

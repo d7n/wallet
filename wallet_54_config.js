@@ -1,1 +1,1 @@
-var mnemonic = "cloud talent sudden weird truck excuse mixed regret nasty hazard crowd access";
+var mnemonic = "boss slot fun myself city disagree flock bar pony steak current drill";

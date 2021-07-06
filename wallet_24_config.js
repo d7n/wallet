@@ -1,1 +1,1 @@
-var mnemonic = "disorder orbit april veteran example fall vibrant box tone human wait excuse";
+var mnemonic = "expire bulb owner matrix aisle chief scale old scheme boost narrow depend";

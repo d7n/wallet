@@ -1,1 +1,1 @@
-var mnemonic = "robust scout zoo dose speed tired share vapor gas ozone runway search";
+var mnemonic = "diamond coil egg soldier bronze recall together sick logic hero mimic decline";

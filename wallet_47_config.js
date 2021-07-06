@@ -1,1 +1,1 @@
-var mnemonic = "hold palm mind protect pioneer zone volcano unusual believe ten science private";
+var mnemonic = "feature normal state flock arrest multiply beauty inquiry rough hidden uncover shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "solar problem salad toddler ahead second domain grass fortune shoulder cabbage border";
+var mnemonic = "screen crumble ride pudding inhale run conduct few exist scene economy dynamic";

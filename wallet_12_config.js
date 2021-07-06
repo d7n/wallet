@@ -1,1 +1,1 @@
-var mnemonic = "father absent giraffe intact craft float afford coffee mad brisk elite toast";
+var mnemonic = "carry grid hamster spawn victory worry burden regular use flip piano hawk";

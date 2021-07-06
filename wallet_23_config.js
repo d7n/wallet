@@ -1,1 +1,1 @@
-var mnemonic = "ensure give sing arrive canoe destroy system caught amused please jelly raven";
+var mnemonic = "wedding doll wasp primary flee energy paddle collect daughter agree citizen pluck";

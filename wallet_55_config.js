@@ -1,1 +1,1 @@
-var mnemonic = "poverty broken exercise outer space route prepare cabin fabric scheme dentist sorry";
+var mnemonic = "sense ancient term nasty pony short entire april rocket put cheese hazard";

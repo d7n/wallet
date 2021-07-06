@@ -1,1 +1,1 @@
-var mnemonic = "option exit emerge receive credit myth pond endless proud east seven soup";
+var mnemonic = "attend law jar key fine cherry cruel liquid spawn visit drip gas";

@@ -1,1 +1,1 @@
-var mnemonic = "family organ box oil venture alert donkey shiver vote dentist nephew bone";
+var mnemonic = "consider until mandate spatial old kangaroo square seat safe gun essay alley";

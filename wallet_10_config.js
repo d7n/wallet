@@ -1,1 +1,1 @@
-var mnemonic = "bench regret blade local emotion plug select govern carpet else galaxy bottom";
+var mnemonic = "logic cloud loyal drive orphan engage define gap cup latin face describe";

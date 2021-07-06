@@ -1,1 +1,1 @@
-var mnemonic = "solid fiscal ahead hockey hundred prefer target poverty deal stove cactus cruel";
+var mnemonic = "recipe silk ball hope april code carbon sense super topple swap helmet";

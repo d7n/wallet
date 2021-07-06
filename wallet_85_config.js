@@ -1,1 +1,1 @@
-var mnemonic = "tomato water exhibit photo myth crater debris obtain lucky have reject swim";
+var mnemonic = "exercise child key nasty lock payment math point glass lobster jeans crisp";

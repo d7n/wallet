@@ -1,1 +1,1 @@
-var mnemonic = "crisp tobacco ticket anxiety ladder favorite fish uncle sense exhaust october various";
+var mnemonic = "confirm police avoid pear outer copper planet atom stem choice alley below";

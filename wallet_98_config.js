@@ -1,1 +1,1 @@
-var mnemonic = "chase inside wealth brisk home army concert dice sample furnace oyster wolf";
+var mnemonic = "clock code coin arrive kit slide ready law man swarm cube laundry";

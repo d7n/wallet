@@ -1,1 +1,1 @@
-var mnemonic = "use nothing salon arena update obey nature share nerve resource camp unknown";
+var mnemonic = "woman galaxy ridge devote gym biology mistake sorry blouse rocket crucial cream";

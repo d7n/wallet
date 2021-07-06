@@ -1,1 +1,1 @@
-var mnemonic = "proud slow clump prevent snow often clever under example window school wheel";
+var mnemonic = "found long service enter moon injury strike debate stamp repair stamp penalty";

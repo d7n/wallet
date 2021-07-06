@@ -1,1 +1,1 @@
-var mnemonic = "brother swim science winter warfare search grape add brick absorb rebuild version";
+var mnemonic = "alley abuse catalog fury today sheriff gesture crack sight accuse poem also";

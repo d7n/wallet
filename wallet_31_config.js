@@ -1,1 +1,1 @@
-var mnemonic = "garlic valve bench pledge pen slush sound garden veteran artefact shove impose";
+var mnemonic = "fence few describe crouch black course proof shy dinner warfare fit toddler";

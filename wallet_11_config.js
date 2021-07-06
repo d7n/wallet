@@ -1,1 +1,1 @@
-var mnemonic = "furnace secret position settle valve fog draft wild robust code life fiscal";
+var mnemonic = "craft raw valley error upon main path social state enrich balcony issue";

@@ -1,1 +1,1 @@
-var mnemonic = "absent major knife view sustain affair vendor forest suggest butter include apology";
+var mnemonic = "manage merry file play metal real tonight oven fluid hole stove warfare";

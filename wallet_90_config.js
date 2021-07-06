@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dice charge happy brave champion love random retire thrive author asset";
+var mnemonic = "unfold casino child budget useful steel unhappy flat physical notable carry uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme either flight casual inhale dignity light cage eyebrow mad holiday latin";
+var mnemonic = "absorb life void coil busy curve square exotic fix athlete scrap rather";

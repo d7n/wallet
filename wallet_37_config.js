@@ -1,1 +1,1 @@
-var mnemonic = "inherit away erode zero coin canyon claw want simple throw mystery view";
+var mnemonic = "appear execute neck swear stairs giraffe twice music empower answer square donor";

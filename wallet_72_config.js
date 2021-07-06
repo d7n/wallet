@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow december rent immune supreme wire subject diagram youth tell wish lamp";
+var mnemonic = "pull safe chaos october tobacco pave basket goddess cat title punch ocean";

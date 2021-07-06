@@ -1,1 +1,1 @@
-var mnemonic = "rocket deposit fatal soon hedgehog siege bike prison lumber ticket like humble";
+var mnemonic = "detect amateur shoot cricket treat magic bright clown mercy friend file dog";

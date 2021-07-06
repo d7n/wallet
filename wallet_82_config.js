@@ -1,1 +1,1 @@
-var mnemonic = "upon hair neck bitter soda empower slight sort enforce coach often paddle";
+var mnemonic = "bracket kiss collect push absorb planet play hand soon radar digital thank";

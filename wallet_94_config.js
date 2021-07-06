@@ -1,1 +1,1 @@
-var mnemonic = "volume impulse nest harvest choose wagon leader convince upper plunge suggest family";
+var mnemonic = "skin sword share vintage test copper cluster sure large narrow poem rebuild";

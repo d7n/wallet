@@ -1,1 +1,1 @@
-var mnemonic = "gesture divorce dismiss soup shoulder giant drastic giant similar fiber cream code";
+var mnemonic = "feed leader city business matter pelican convince hard reunion onion tool clever";

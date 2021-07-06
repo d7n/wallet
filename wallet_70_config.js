@@ -1,1 +1,1 @@
-var mnemonic = "subject machine leopard oven advance kidney one average glory ridge picture dream";
+var mnemonic = "during cram drift mom open pool cupboard acquire brown calm process move";

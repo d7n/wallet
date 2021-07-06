@@ -1,1 +1,1 @@
-var mnemonic = "force virus orange hope visa slide alcohol cannon erupt cannon estate minimum";
+var mnemonic = "hand jeans cheap verify inhale like hat laugh brain isolate stadium bench";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse bone keen art lucky enlist animal coral cruise empower connect rude";
+var mnemonic = "tuna federal clinic pause sausage winner produce cycle find prevent key sleep";

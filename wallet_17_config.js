@@ -1,1 +1,1 @@
-var mnemonic = "road usual result hope acoustic reflect humor exist interest rough poem rely";
+var mnemonic = "razor excuse goose gossip attract bachelor kangaroo swallow attack spider glass describe";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk chase connect chimney clog scrub skate salad negative culture dice noise";
+var mnemonic = "cherry color expect position ripple ski elephant seminar torch bicycle similar soon";

@@ -1,1 +1,1 @@
-var mnemonic = "enable ability rabbit sail chef renew battle bargain car glove warm stool";
+var mnemonic = "neglect ball push element lawsuit stem purity release water phone empty water";

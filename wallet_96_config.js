@@ -1,1 +1,1 @@
-var mnemonic = "scheme ten logic heart minimum fatal grit bronze chapter turn praise shock";
+var mnemonic = "gorilla argue unveil grow brother special parade plug sign attract divert transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "decline family frozen decade drift object sponsor album monkey ask day chief";
+var mnemonic = "volume smooth blood six repair song maximum learn sword bulb notice entire";

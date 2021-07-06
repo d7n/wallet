@@ -1,1 +1,1 @@
-var mnemonic = "beauty brand trumpet blue talk rifle gap casino wonder follow sword wagon";
+var mnemonic = "deny slab item mansion author fix prison ghost critic destroy rain over";

@@ -1,1 +1,1 @@
-var mnemonic = "easy legend voice silent deny ceiling dice donkey gym pelican umbrella assault";
+var mnemonic = "wild check defy solar because cancel knock enrich manage taste pattern vocal";

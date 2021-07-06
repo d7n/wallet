@@ -1,1 +1,1 @@
-var mnemonic = "dove blossom useless trophy dwarf across shop weird invite miracle armor wrong";
+var mnemonic = "spray fiction review solve process cricket version mimic balcony gold mandate vendor";

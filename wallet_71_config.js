@@ -1,1 +1,1 @@
-var mnemonic = "duty noise involve forward account scare churn grant vault crop child device";
+var mnemonic = "sing emerge decide found vacuum glad riot village loan saddle canvas boil";

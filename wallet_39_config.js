@@ -1,1 +1,1 @@
-var mnemonic = "scan legal rescue pen hospital ignore fiber craft tank flavor impulse home";
+var mnemonic = "inhale loop script good loan sentence clarify dilemma father law involve farm";

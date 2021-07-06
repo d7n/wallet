@@ -1,1 +1,1 @@
-var mnemonic = "critic maid kiwi crouch worth green help field few moral keep ginger";
+var mnemonic = "great fossil machine become riot scissors viable process wire wolf turtle hawk";

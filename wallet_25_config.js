@@ -1,1 +1,1 @@
-var mnemonic = "early rhythm addict east chicken bitter pelican genuine cousin dinosaur grab pen";
+var mnemonic = "fence object gap finish track cream sorry later olive vacant valve height";

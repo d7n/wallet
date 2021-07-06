@@ -1,1 +1,1 @@
-var mnemonic = "success boy pet certain stock goose carpet praise focus feed monitor receive";
+var mnemonic = "glass stereo alone vessel fetch grit denial carpet banner concert trap image";

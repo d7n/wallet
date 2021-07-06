@@ -1,1 +1,1 @@
-var mnemonic = "crumble what web stairs oblige monitor basket supreme witness reopen cabbage cable";
+var mnemonic = "potato knock require cargo govern argue club relief tattoo pave soccer stadium";

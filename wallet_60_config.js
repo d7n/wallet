@@ -1,1 +1,1 @@
-var mnemonic = "average pact globe hope among drink abstract nose antenna blanket bind fold";
+var mnemonic = "bus olive remember arrange glow rare refuse elite demise recycle before laugh";

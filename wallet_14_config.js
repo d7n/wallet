@@ -1,1 +1,1 @@
-var mnemonic = "fire bird obscure cash exhibit cram crane together silk rookie orbit valley";
+var mnemonic = "awful trigger dignity now sister ball dinosaur vacant chronic situate host cute";

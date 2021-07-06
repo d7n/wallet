@@ -1,1 +1,1 @@
-var mnemonic = "urge prevent strong ranch pumpkin hat edit marriage actress focus load audit";
+var mnemonic = "six level zone west affair primary anger peace quarter firm burger reason";

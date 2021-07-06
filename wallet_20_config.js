@@ -1,1 +1,1 @@
-var mnemonic = "rebel maximum apple treat ginger mosquito sweet immense charge power open degree";
+var mnemonic = "tourist clean east crew decide mesh height blossom defense together very loyal";

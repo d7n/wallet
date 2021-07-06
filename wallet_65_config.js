@@ -1,1 +1,1 @@
-var mnemonic = "gauge split oval symbol farm asset obtain until ready moon toss act";
+var mnemonic = "perfect decrease blood add cement cabbage zone action bundle alter odor position";

@@ -1,1 +1,1 @@
-var mnemonic = "pole artist must master great theme keep meadow stomach kit away crash";
+var mnemonic = "lend torch fragile poem change fade nation olive boost entry hungry trip";

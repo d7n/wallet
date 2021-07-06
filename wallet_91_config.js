@@ -1,1 +1,1 @@
-var mnemonic = "odor vanish awful vapor lottery goddess other reflect kidney actress balcony street";
+var mnemonic = "pigeon hope inner adjust couch liberty winner liquid enjoy bomb dentist hire";

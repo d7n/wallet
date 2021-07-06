@@ -1,1 +1,1 @@
-var mnemonic = "size amateur blur jungle riot card motion potato leave melt fiction home";
+var mnemonic = "crazy decorate antenna tomorrow cradle siege corn family eternal crazy maze mule";

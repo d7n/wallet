@@ -1,1 +1,1 @@
-var mnemonic = "potato fence vehicle wild ritual thunder glow delay filter heavy man ozone";
+var mnemonic = "exclude hub trade train allow excite lawsuit vendor raw produce license pelican";

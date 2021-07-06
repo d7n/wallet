@@ -1,1 +1,1 @@
-var mnemonic = "more shove cushion work tennis drastic atom canvas frozen harsh artist estate";
+var mnemonic = "diet runway harbor duty wood more sadness brain paper camp lens width";

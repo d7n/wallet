@@ -1,1 +1,1 @@
-var mnemonic = "allow grant bright magnet book auto december inside curve envelope reflect slight";
+var mnemonic = "open topic oval busy tired prosper ostrich jar angry skate prize item";
