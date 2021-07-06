@@ -1,1 +1,1 @@
-var mnemonic = "shove bus junior scout milk resist spend recycle curve thrive peasant involve";
+var mnemonic = "illness arch cousin invest whale valid file bulk crumble inflict zone input";

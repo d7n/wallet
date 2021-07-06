@@ -1,1 +1,1 @@
-var mnemonic = "depart cereal display mutual cruise certain spell leisure run history invite home";
+var mnemonic = "analyst bag sad remove crumble visual congress social worry wink truly become";

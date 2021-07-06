@@ -1,1 +1,1 @@
-var mnemonic = "trap any imitate clean episode bitter addict anchor maple spray toe way";
+var mnemonic = "work betray tooth verify melt retire panther assist upon virtual unaware develop";

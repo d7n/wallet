@@ -1,1 +1,1 @@
-var mnemonic = "nephew spin write mule harbor life jar film blind island school tennis";
+var mnemonic = "fade eye two expose timber earth crop huge bulb priority language echo";

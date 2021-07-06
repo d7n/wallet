@@ -1,1 +1,1 @@
-var mnemonic = "prepare change creek gallery grass that wine wheel trim post fork traffic";
+var mnemonic = "rate elbow jump rotate cash mom code capital pupil erupt yellow dad";

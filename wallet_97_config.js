@@ -1,1 +1,1 @@
-var mnemonic = "motor phone square brave slide speak drum pause gym warrior promote below";
+var mnemonic = "source piece among firm replace fossil fiction scrap sunny honey alpha unusual";

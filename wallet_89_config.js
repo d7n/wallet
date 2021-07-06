@@ -1,1 +1,1 @@
-var mnemonic = "fence punch suspect bone prefer attract supply pioneer series service mosquito trouble";
+var mnemonic = "card catch setup round clip dust rude bulk orbit dragon tribe announce";

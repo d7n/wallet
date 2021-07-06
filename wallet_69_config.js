@@ -1,1 +1,1 @@
-var mnemonic = "crush rail teach happy lumber flavor owner entire mask return gather cable";
+var mnemonic = "boost explain hat tunnel syrup album under cry top select waste earth";

@@ -1,1 +1,1 @@
-var mnemonic = "cream mix feed alert lottery screen group trick steel kick vast office";
+var mnemonic = "festival curious cheese want pitch wish shuffle sister extra memory decide worth";

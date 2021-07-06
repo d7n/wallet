@@ -1,1 +1,1 @@
-var mnemonic = "unusual achieve lunar toilet capable humble deny theme shield dress duty energy";
+var mnemonic = "sting icon fatigue profit describe type urge inflict raven robot ecology acid";

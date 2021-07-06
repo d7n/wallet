@@ -1,1 +1,1 @@
-var mnemonic = "cabbage shield drop bread brother dose license desk high junk pool pave";
+var mnemonic = "suit voyage gloom audit require april rotate person differ bulb scale abstract";

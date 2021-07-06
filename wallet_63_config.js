@@ -1,1 +1,1 @@
-var mnemonic = "owner today column clown birth second arm portion twist move acquire miracle";
+var mnemonic = "sphere dynamic faint fitness twenty tumble luggage rice rate detail vintage organ";

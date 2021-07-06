@@ -1,1 +1,1 @@
-var mnemonic = "crash joy bike sudden couch hello park ladder hero depth light bar";
+var mnemonic = "pole hawk atom coin girl across pitch dress opinion believe rubber furnace";

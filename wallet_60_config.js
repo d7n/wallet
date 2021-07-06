@@ -1,1 +1,1 @@
-var mnemonic = "universe lemon pizza practice equal speak net anchor ostrich vague muscle test";
+var mnemonic = "old team enter still finish crystal nest theme produce delay picture warrior";

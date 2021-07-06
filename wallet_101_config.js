@@ -1,1 +1,1 @@
-var mnemonic = "inside rib sound current evil chef cargo pass wink attend buyer visual";
+var mnemonic = "ivory repeat injury dress jazz deer wheat flush apart whisper stuff dish";

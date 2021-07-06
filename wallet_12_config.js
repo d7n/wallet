@@ -1,1 +1,1 @@
-var mnemonic = "resemble flag palace logic cook alter wife tumble exchange illegal horse master";
+var mnemonic = "then label salad north bridge split company denial mention minute kick wrist";

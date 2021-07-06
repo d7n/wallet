@@ -1,1 +1,1 @@
-var mnemonic = "shy punch lottery case crucial lobster glass ankle action cube ritual increase";
+var mnemonic = "veteran off switch produce hand cinnamon ankle crash doll magnet patient empty";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney govern head dragon beyond armed proud uncover ten sure post nerve";
+var mnemonic = "ring south waste child steak history anxiety reunion excite believe sight lizard";

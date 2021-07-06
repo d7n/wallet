@@ -1,1 +1,1 @@
-var mnemonic = "pyramid local symbol crumble want express february success clump glad glide letter";
+var mnemonic = "input pave spawn float nuclear donate agent weird glass supreme author access";

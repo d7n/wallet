@@ -1,1 +1,1 @@
-var mnemonic = "glide purchase key lunch claim bulk detect frost liberty sunset furnace cradle";
+var mnemonic = "check cheap height enter champion offer divide naive hobby salt wait chef";

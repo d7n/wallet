@@ -1,1 +1,1 @@
-var mnemonic = "junk admit trap brand sadness rely reason armed motion ethics fog group";
+var mnemonic = "home endorse offer treat phrase prepare trophy abandon evidence effort innocent baby";

@@ -1,1 +1,1 @@
-var mnemonic = "donor anxiety legend normal final ethics camera civil fatigue clinic curve bracket";
+var mnemonic = "anxiety gauge unusual tube treat avocado twice buzz castle start jungle drill";

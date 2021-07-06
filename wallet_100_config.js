@@ -1,1 +1,1 @@
-var mnemonic = "state spoil rapid true level amused toy stage hole join excess twin";
+var mnemonic = "diagram sand minor army goat make slogan before naive spring whale injury";

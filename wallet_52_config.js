@@ -1,1 +1,1 @@
-var mnemonic = "moment winter arch control already prepare stock champion health genuine nominee awful";
+var mnemonic = "basket poverty door beyond devote potato vivid steel tennis rule beef crop";

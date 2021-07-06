@@ -1,1 +1,1 @@
-var mnemonic = "news barely must shallow service perfect limit absent change steak edge relax";
+var mnemonic = "own present pretty repair fever purchase uncover across open before hill exit";

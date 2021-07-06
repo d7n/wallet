@@ -1,1 +1,1 @@
-var mnemonic = "dutch glimpse shield soldier goose topic lounge short swarm expand knock input";
+var mnemonic = "pull buddy build load tower still case fix verify donor genius climb";

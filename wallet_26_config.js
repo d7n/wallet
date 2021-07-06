@@ -1,1 +1,1 @@
-var mnemonic = "chaos direct book hidden memory slide snow aerobic hollow decide era eagle";
+var mnemonic = "elevator first use snack idle abandon tribe hybrid tower question demise border";

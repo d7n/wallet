@@ -1,1 +1,1 @@
-var mnemonic = "silent program teach invite praise hole demise village able expect nest speak";
+var mnemonic = "useful feed lounge tennis surface load vendor globe caught silver fatigue twice";

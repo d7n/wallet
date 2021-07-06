@@ -1,1 +1,1 @@
-var mnemonic = "solution image cover liberty rose pigeon harvest security horror estate fantasy child";
+var mnemonic = "stereo busy general year ensure remain dawn purpose stove retire fragile vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "odor slam session ladder lamp artwork smart usual coast antenna tiny best";
+var mnemonic = "danger you hold lake else insect base resist glare frequent silly magnet";

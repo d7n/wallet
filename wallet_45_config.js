@@ -1,1 +1,1 @@
-var mnemonic = "inspire soccer merge clarify world embrace stadium until nice anger cabbage business";
+var mnemonic = "strategy route tissue reward very then shy goose neutral neck whale own";

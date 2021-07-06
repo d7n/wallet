@@ -1,1 +1,1 @@
-var mnemonic = "muscle inject armed uniform violin judge scorpion boy merge level strong buffalo";
+var mnemonic = "wish slab ginger clerk approve dismiss unaware exercise figure pig useless task";

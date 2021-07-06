@@ -1,1 +1,1 @@
-var mnemonic = "brick vital trip bottom betray lunch wash demand lesson subway common blue";
+var mnemonic = "friend yard tank rib fabric oak settle steel ecology toddler glare clutch";

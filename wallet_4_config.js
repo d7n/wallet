@@ -1,1 +1,1 @@
-var mnemonic = "accident clock assume gossip chapter public tilt narrow endorse shock put awful";
+var mnemonic = "friend column bless tiger despair sheriff accuse swallow illegal field liberty obscure";

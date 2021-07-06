@@ -1,1 +1,1 @@
-var mnemonic = "stool evolve unfair marble city velvet region inhale execute delay modify keep";
+var mnemonic = "settle fluid ribbon tape grow fan tenant banner width satoshi news picnic";

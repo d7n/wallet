@@ -1,1 +1,1 @@
-var mnemonic = "escape pull desert ice fix abandon among unlock plunge roast deliver media";
+var mnemonic = "exist mirror curtain pudding humble art unveil typical august famous allow hurdle";

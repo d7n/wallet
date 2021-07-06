@@ -1,1 +1,1 @@
-var mnemonic = "aisle usual perfect mind trial laptop square author screen language clap vanish";
+var mnemonic = "cherry copy involve yard slim leaf number sheriff culture hen grape output";

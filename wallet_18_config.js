@@ -1,1 +1,1 @@
-var mnemonic = "crime trick plate issue nephew toilet fatal today surprise ancient deny initial";
+var mnemonic = "bonus frozen myself staff sunset identify fog brass sausage cup twin awesome";

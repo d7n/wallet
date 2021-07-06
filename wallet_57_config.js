@@ -1,1 +1,1 @@
-var mnemonic = "deposit bounce minor smart busy drip feed slogan mail toilet limb begin";
+var mnemonic = "town risk help exercise dish believe arena result forget below citizen rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "maid case wide skirt exercise region pigeon amount cruel woman few reflect";
+var mnemonic = "night tuna file million mixture little climb empty vault wise cabbage jacket";

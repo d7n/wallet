@@ -1,1 +1,1 @@
-var mnemonic = "ivory tortoise large bachelor risk matter skirt margin frequent member museum market";
+var mnemonic = "repeat novel link quick wait oyster sentence title tornado zoo clarify length";

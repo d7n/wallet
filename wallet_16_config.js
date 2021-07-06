@@ -1,1 +1,1 @@
-var mnemonic = "sentence people old jazz orient throw crouch wide into crouch detect bitter";
+var mnemonic = "tortoise same crunch worry shift try wash radio air glare shiver dizzy";

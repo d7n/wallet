@@ -1,1 +1,1 @@
-var mnemonic = "despair regret since deliver lift razor sand addict decade fox source empty";
+var mnemonic = "lamp process dance wrist narrow stage hedgehog mansion innocent display warrior bench";

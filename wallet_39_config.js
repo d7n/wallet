@@ -1,1 +1,1 @@
-var mnemonic = "hole category gold lunch rigid skirt grocery pulp more lumber dance veteran";
+var mnemonic = "eight antenna excite drill material pumpkin initial sustain soft bridge happy ketchup";

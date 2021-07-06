@@ -1,1 +1,1 @@
-var mnemonic = "rookie sign hollow tube unveil conduct wrap border hire coffee profit party";
+var mnemonic = "injury regret estate salt novel ivory auto gesture chimney giraffe erupt dilemma";

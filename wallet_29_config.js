@@ -1,1 +1,1 @@
-var mnemonic = "axis radar flash paddle wheat goddess more various trouble movie helmet crop";
+var mnemonic = "buffalo desert crouch illegal mystery zero oven wide paper you behave about";

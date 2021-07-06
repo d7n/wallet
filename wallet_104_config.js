@@ -1,1 +1,1 @@
-var mnemonic = "finger lock lazy jazz pipe rib floor column define devote shove gather";
+var mnemonic = "spin town swing track nuclear load reunion group humble amateur amused wild";

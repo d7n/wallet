@@ -1,1 +1,1 @@
-var mnemonic = "library guess trade meadow industry plug found agent clarify omit waste good";
+var mnemonic = "found casino sniff dance grid opera medal hood scheme team retreat frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "organ fat trouble city copper lemon robot purchase tiger mountain run device";
+var mnemonic = "debris burger during keen join install circle mule garden budget digital update";

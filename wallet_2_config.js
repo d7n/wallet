@@ -1,1 +1,1 @@
-var mnemonic = "solid helmet window detect sea priority gym assume interest tiger three code";
+var mnemonic = "length banner spice vacant visit alone cargo quality nurse champion glare gap";

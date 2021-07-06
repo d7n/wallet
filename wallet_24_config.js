@@ -1,1 +1,1 @@
-var mnemonic = "onion asset corn tank cluster pumpkin rude casual page please cute blade";
+var mnemonic = "road enforce man unveil seat purpose size evidence limb mechanic enemy section";

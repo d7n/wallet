@@ -1,1 +1,1 @@
-var mnemonic = "number mixed hello culture chase maple miss unit include lady damage exchange";
+var mnemonic = "measure unaware sibling menu powder convince garbage midnight equip prosper mountain someone";

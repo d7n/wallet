@@ -1,1 +1,1 @@
-var mnemonic = "marriage famous produce slush spawn rough remember winner inherit damage fade boring";
+var mnemonic = "inspire bunker hand pulp gap among pony settle until pen north piano";

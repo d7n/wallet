@@ -1,1 +1,1 @@
-var mnemonic = "february move leaf game three kick equip stumble marble emerge object spider";
+var mnemonic = "minor trophy suit ginger silver air century manage vehicle organ enter raise";

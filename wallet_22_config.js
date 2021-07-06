@@ -1,1 +1,1 @@
-var mnemonic = "tumble reduce this famous coach pet mad tide walnut fit wrestle coast";
+var mnemonic = "mass valid poem harsh slender garden stable must void isolate disagree spread";

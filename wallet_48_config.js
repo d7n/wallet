@@ -1,1 +1,1 @@
-var mnemonic = "setup kitten usual laundry coffee chapter improve dust virtual flower dizzy question";
+var mnemonic = "sample network dawn can author team foil nut assume rapid perfect wheel";

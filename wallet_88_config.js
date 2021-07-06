@@ -1,1 +1,1 @@
-var mnemonic = "inside decorate gas acid artwork fetch spring clarify copper liberty rebuild margin";
+var mnemonic = "pudding garage material spike island dynamic olive pause leg voyage solar magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "mix catalog recycle narrow two chicken rain culture result pipe amazing basket";
+var mnemonic = "farm gather problem elephant nurse there junior they weather network leaf spin";

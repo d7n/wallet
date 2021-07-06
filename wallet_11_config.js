@@ -1,1 +1,1 @@
-var mnemonic = "album jazz cradle rain now provide increase choice romance stable love mask";
+var mnemonic = "violin empty degree dolphin shine eight pilot reform spot smooth ugly spoon";

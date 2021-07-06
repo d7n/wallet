@@ -1,1 +1,1 @@
-var mnemonic = "fitness hospital symptom cereal ginger begin cloud special alpha when explain early";
+var mnemonic = "dial rely mercy sense trend promote wood firm history ostrich funny soup";

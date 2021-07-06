@@ -1,1 +1,1 @@
-var mnemonic = "normal race miss act donkey beauty faint purpose medal famous blame pave";
+var mnemonic = "maid timber meadow solid adapt knee taste genius health doctor youth discover";

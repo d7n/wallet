@@ -1,1 +1,1 @@
-var mnemonic = "eagle bless mango jazz resist digital crop pretty later slush dad math";
+var mnemonic = "gaze half cannon satoshi claw switch skill this situate chalk curve assault";

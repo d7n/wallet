@@ -1,1 +1,1 @@
-var mnemonic = "beef olympic nice two cram blossom letter still net utility notice mobile";
+var mnemonic = "marriage burger owner mutual puppy horror mimic cute random bicycle anxiety damage";

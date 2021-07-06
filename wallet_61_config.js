@@ -1,1 +1,1 @@
-var mnemonic = "oven beyond away total unveil dose rice hood weekend identify clay toe";
+var mnemonic = "shock strategy kick finger whisper behave fit anchor situate task rhythm wave";

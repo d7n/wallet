@@ -1,1 +1,1 @@
-var mnemonic = "obscure wide genuine useless wall check gesture action surround desert advance atom";
+var mnemonic = "breeze marble sight later useful news away resource what stadium lion country";

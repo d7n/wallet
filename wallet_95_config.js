@@ -1,1 +1,1 @@
-var mnemonic = "monkey elder pen wing success marine coach fluid cover cry stand cute";
+var mnemonic = "bachelor inside car together ecology snow unique often another where fork dream";

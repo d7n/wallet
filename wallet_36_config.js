@@ -1,1 +1,1 @@
-var mnemonic = "office clown chunk debate until brass pattern must improve cry wait best";
+var mnemonic = "actress slot clog other dizzy sample finish loyal indicate zone canvas inmate";

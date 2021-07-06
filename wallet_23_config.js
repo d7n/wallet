@@ -1,1 +1,1 @@
-var mnemonic = "direct enough venue lock lizard check future surround long crater have swamp";
+var mnemonic = "credit clinic asset ice sugar table arctic peanut girl easily oblige tobacco";

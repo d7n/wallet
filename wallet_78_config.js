@@ -1,1 +1,1 @@
-var mnemonic = "space present van attitude weather bulb shoot destroy link hammer airport cage";
+var mnemonic = "garment section car design canvas busy plug leave coil amused hello member";

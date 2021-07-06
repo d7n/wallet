@@ -1,1 +1,1 @@
-var mnemonic = "capital crouch outside this brave raven tower police author lesson often exclude";
+var mnemonic = "capable embark soldier strategy voice pledge repair run auction rule retire error";

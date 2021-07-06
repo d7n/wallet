@@ -1,1 +1,1 @@
-var mnemonic = "grape rural polar broccoli pepper super inspire short first kiwi stomach frequent";
+var mnemonic = "disease guide there various utility bench gentle sign card future upset chase";

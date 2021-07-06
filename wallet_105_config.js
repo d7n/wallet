@@ -1,1 +1,1 @@
-var mnemonic = "apple length discover afraid mad genius chief web learn swallow slice drive";
+var mnemonic = "steak essay slam crunch squeeze gift shuffle inquiry round crack path awful";

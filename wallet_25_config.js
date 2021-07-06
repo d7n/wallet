@@ -1,1 +1,1 @@
-var mnemonic = "vague mixture business lonely rare aspect truck ability ready lecture dirt essay";
+var mnemonic = "cactus cost device market lens flavor enact diesel weasel tide extend lyrics";

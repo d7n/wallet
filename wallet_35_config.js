@@ -1,1 +1,1 @@
-var mnemonic = "bottom fitness error reduce off word cereal unique display merit snap citizen";
+var mnemonic = "disorder then bullet faith wear night sight track floor candy legend drill";

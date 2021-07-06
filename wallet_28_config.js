@@ -1,1 +1,1 @@
-var mnemonic = "orbit chief design mix absurd dumb absorb mention radio just book fox";
+var mnemonic = "enemy south stamp rifle escape aim under only click museum urge settle";

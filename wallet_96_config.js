@@ -1,1 +1,1 @@
-var mnemonic = "butter basket earn unfold earth scatter stamp emerge weekend rare inside empower";
+var mnemonic = "access inner dentist check tube element offer concert hero place credit joy";

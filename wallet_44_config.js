@@ -1,1 +1,1 @@
-var mnemonic = "emerge beach unlock tag rare unfold layer next amused panel usual rose";
+var mnemonic = "noble senior monkey among also deal mutual economy service list funny surprise";

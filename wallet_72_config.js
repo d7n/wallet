@@ -1,1 +1,1 @@
-var mnemonic = "dizzy review town velvet foot toast infant eye truck barely theory grant";
+var mnemonic = "transfer mystery crystal power gallery donor trade glad diary intact grow eternal";

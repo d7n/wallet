@@ -1,1 +1,1 @@
-var mnemonic = "popular govern dilemma prize rule birth verb method stage finish toss sunny";
+var mnemonic = "elbow area moon welcome essay hint item during social shadow hidden ordinary";

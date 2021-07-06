@@ -1,1 +1,1 @@
-var mnemonic = "grocery shallow mountain harbor female orbit raccoon rice into hood convince title";
+var mnemonic = "today keep actor enhance fiction remain run edge keen prison carpet sand";

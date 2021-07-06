@@ -1,1 +1,1 @@
-var mnemonic = "student mix salt danger palace aerobic weekend ranch industry forget wife swim";
+var mnemonic = "snack camera write old pattern digital brass clarify crouch cake cute save";

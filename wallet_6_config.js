@@ -1,1 +1,1 @@
-var mnemonic = "circle flee type host hand shuffle desk pen scare laptop check language";
+var mnemonic = "morning grain behave bike rug pumpkin erosion harbor sniff stove jeans pupil";

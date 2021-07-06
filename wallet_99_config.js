@@ -1,1 +1,1 @@
-var mnemonic = "trouble swamp swing differ demand sudden track learn creek stumble pact spike";
+var mnemonic = "junk rely father opera power punch patrol camera hat pull thrive ticket";

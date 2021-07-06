@@ -1,1 +1,1 @@
-var mnemonic = "fog steak huge chronic replace resemble fetch bring assume always lyrics urge";
+var mnemonic = "sponsor easy master volume joy broken chunk good custom syrup dream allow";

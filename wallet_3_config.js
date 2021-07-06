@@ -1,1 +1,1 @@
-var mnemonic = "worth talk pair bounce accident gift book apple polar galaxy pyramid capital";
+var mnemonic = "puppy rocket extra bounce party rely ankle river typical process brand sleep";
