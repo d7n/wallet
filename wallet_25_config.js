@@ -1,1 +1,1 @@
-var mnemonic = "lift scale brick couch curious coin label shoulder decade mind almost warfare";
+var mnemonic = "decide wolf alert mutual agent together brand bridge bleak ecology silk fitness";

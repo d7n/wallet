@@ -1,1 +1,1 @@
-var mnemonic = "purse lawsuit pencil chaos margin shiver zoo captain hold crunch taste grain";
+var mnemonic = "invite drama peasant cherry weather castle winner spread sight rubber cover admit";

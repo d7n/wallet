@@ -1,1 +1,1 @@
-var mnemonic = "mom volume kiwi talent cigar clutch must throw laptop between oil bread";
+var mnemonic = "carpet expect adapt violin total cannon snap gaze hero mixture scout jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse runway fun cream enroll joy two moon merit assume round oxygen";
+var mnemonic = "menu early gasp avoid ready shoulder staff govern carbon task indicate shallow";

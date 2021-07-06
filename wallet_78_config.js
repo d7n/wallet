@@ -1,1 +1,1 @@
-var mnemonic = "next clip stadium stand adapt base switch left also glare hold buzz";
+var mnemonic = "museum supreme license desk media lottery uncover gather ensure zone blood fork";

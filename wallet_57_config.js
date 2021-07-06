@@ -1,1 +1,1 @@
-var mnemonic = "renew economy toe disorder myth grid coral throw discover image bright ready";
+var mnemonic = "circle foot seven lock hospital fiber sunny tool mean genuine south unlock";

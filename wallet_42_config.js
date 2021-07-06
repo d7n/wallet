@@ -1,1 +1,1 @@
-var mnemonic = "roast tonight bring they cheap february learn eye crisp unhappy creek ripple";
+var mnemonic = "reject input pave elevator output dream bachelor curtain pepper eye hurry half";

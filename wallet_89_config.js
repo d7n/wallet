@@ -1,1 +1,1 @@
-var mnemonic = "fox ivory because canal wrap setup galaxy melt observe reduce pudding cactus";
+var mnemonic = "daughter spirit dynamic action execute victory screen guitar jealous settle draw galaxy";

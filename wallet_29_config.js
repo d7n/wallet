@@ -1,1 +1,1 @@
-var mnemonic = "jeans shell list shock photo polar final candy noble curtain excess keen";
+var mnemonic = "work angle list auction patch hard menu wasp figure grain slender razor";

@@ -1,1 +1,1 @@
-var mnemonic = "dune organ photo actual snap fly tuition amused grass obtain rude have";
+var mnemonic = "source call begin ripple salad plate rent capable myth olive mixed virus";

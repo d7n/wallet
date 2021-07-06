@@ -1,1 +1,1 @@
-var mnemonic = "chief crawl damage car jacket century pipe thing quote because relief anchor";
+var mnemonic = "average left napkin begin hawk napkin weather poet attitude disorder keep whale";

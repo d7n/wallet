@@ -1,1 +1,1 @@
-var mnemonic = "razor setup thought business news bicycle else tray language absent sea gun";
+var mnemonic = "square plastic noodle nest fashion decrease culture silent estate drip insect public";

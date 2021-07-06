@@ -1,1 +1,1 @@
-var mnemonic = "gossip claw you wear account dragon symbol gravity media impulse unveil traffic";
+var mnemonic = "away replace disease alone retire pencil divert initial express custom hurt equip";

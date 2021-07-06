@@ -1,1 +1,1 @@
-var mnemonic = "warm able broken drill bottom pistol polar fork scan meat library element";
+var mnemonic = "bomb famous demand approve ship motion gesture wonder pulp moon debris clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "frame embrace child fiction alley lyrics fee certain host govern web knock";
+var mnemonic = "siege grace kick link surround element vehicle banner crunch save october mimic";

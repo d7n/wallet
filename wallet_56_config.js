@@ -1,1 +1,1 @@
-var mnemonic = "figure title silent exclude burst express organ fire orphan caution token urge";
+var mnemonic = "diamond pigeon six text aisle want water worth state desert claw salon";

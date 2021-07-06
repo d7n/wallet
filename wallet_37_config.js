@@ -1,1 +1,1 @@
-var mnemonic = "glue range usage window hero april moon logic aisle sell wild spread";
+var mnemonic = "sausage family gap seminar walk employ time wool movie horn flavor husband";

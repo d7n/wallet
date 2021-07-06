@@ -1,1 +1,1 @@
-var mnemonic = "little chicken warfare reflect pistol avocado struggle galaxy ecology rural defense scatter";
+var mnemonic = "unusual final ketchup release feature banner total found endorse summer science sock";

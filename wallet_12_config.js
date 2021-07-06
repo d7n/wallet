@@ -1,1 +1,1 @@
-var mnemonic = "flee catalog proof festival again biology usual mixture couple trust elegant rocket";
+var mnemonic = "spoil unhappy hub rug panda chimney cage because truck climb train furnace";

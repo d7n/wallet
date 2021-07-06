@@ -1,1 +1,1 @@
-var mnemonic = "keep mother taxi circle toe fire amused guitar today alarm solar spike";
+var mnemonic = "sunny potato beach paddle actress loop work paper tragic twin endless session";

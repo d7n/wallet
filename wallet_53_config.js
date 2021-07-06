@@ -1,1 +1,1 @@
-var mnemonic = "doctor embrace try biology rally suspect fashion grow renew glass tenant eight";
+var mnemonic = "inside time whisper winter civil execute legend write walnut diary student retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct harvest urban more scale swamp athlete age public rely satisfy pull";
+var mnemonic = "frame extra office mercy repeat grant garage fan decorate stadium remember bronze";

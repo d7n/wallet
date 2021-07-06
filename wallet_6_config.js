@@ -1,1 +1,1 @@
-var mnemonic = "usage denial grace latin indicate use pipe define absorb brother lift clap";
+var mnemonic = "impose title carbon mimic pizza dolphin venue orphan cash snake lawsuit used";

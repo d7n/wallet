@@ -1,1 +1,1 @@
-var mnemonic = "few unveil detail sibling upon dolphin embody problem strategy void admit electric";
+var mnemonic = "win coach three sight abuse face undo recycle credit engage alien one";

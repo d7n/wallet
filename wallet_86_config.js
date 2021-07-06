@@ -1,1 +1,1 @@
-var mnemonic = "manual roof pair silent pyramid inch pride pupil chaos gauge also chronic";
+var mnemonic = "harvest hammer same believe gift trip shoe bargain head nose hover basic";

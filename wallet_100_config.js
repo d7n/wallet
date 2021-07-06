@@ -1,1 +1,1 @@
-var mnemonic = "gospel know rural travel electric volcano purchase culture pole repeat message into";
+var mnemonic = "kidney pledge stay reduce essay carbon receive critic diamond consider miracle uphold";

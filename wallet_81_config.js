@@ -1,1 +1,1 @@
-var mnemonic = "clean office exclude visa random jungle gap curve sport vanish very fish";
+var mnemonic = "flat dragon critic pause cabin dizzy vault enact ripple rail neither spirit";

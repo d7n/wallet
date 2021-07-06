@@ -1,1 +1,1 @@
-var mnemonic = "print brass thrive profit will you student nice legal garbage seed foam";
+var mnemonic = "unfair yellow initial garbage bulb remain sample spike maze hundred mad arrest";

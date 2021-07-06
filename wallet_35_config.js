@@ -1,1 +1,1 @@
-var mnemonic = "love section inflict junk wing cream elephant across rug best school august";
+var mnemonic = "ice word fog dash attend mixture wrong catalog chicken silly tooth harsh";

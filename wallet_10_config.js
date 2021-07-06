@@ -1,1 +1,1 @@
-var mnemonic = "diet entry paper kitten device act nice system often pupil inflict forest";
+var mnemonic = "alarm absurd barely quit almost cry waste junk legal dream filter mystery";

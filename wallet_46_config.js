@@ -1,1 +1,1 @@
-var mnemonic = "antenna buffalo beauty nasty lobster empower miss guard chat option crash frost";
+var mnemonic = "build sport custom magic boil speed width file border festival letter relax";

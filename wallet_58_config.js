@@ -1,1 +1,1 @@
-var mnemonic = "surface trim runway glove dream among eyebrow powder banner expose hint begin";
+var mnemonic = "leaf loan beach involve task quote swarm draw arrow napkin recycle ostrich";

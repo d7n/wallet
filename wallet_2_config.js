@@ -1,1 +1,1 @@
-var mnemonic = "tray side more giraffe enable glue modify dismiss interest chalk poverty bubble";
+var mnemonic = "syrup impose girl mouse habit opinion metal also truth absurd scrap asset";

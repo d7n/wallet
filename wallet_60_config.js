@@ -1,1 +1,1 @@
-var mnemonic = "crisp daughter just nest space wet skin letter material truly alarm gas";
+var mnemonic = "diamond pluck sunset differ essay parent become genre chaos high unable merge";

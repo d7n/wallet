@@ -1,1 +1,1 @@
-var mnemonic = "indicate range vital prize top skirt opinion theme demise chair protect spawn";
+var mnemonic = "vote gesture list patch work hire check belt walk machine earth service";

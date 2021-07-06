@@ -1,1 +1,1 @@
-var mnemonic = "assault crush panda conduct already hope mango forward crazy good rack metal";
+var mnemonic = "fiscal grab next biology grass decline aim loyal lady snow remind goose";

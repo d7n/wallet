@@ -1,1 +1,1 @@
-var mnemonic = "claim smoke window employ call winner banana twenty female rescue wood elder";
+var mnemonic = "yellow expand receive attract moral taxi mammal lamp piece certain pitch town";

@@ -1,1 +1,1 @@
-var mnemonic = "dust address board model volume umbrella capital spell battle evidence jealous dizzy";
+var mnemonic = "carpet boring bounce raven want bus girl ocean fire student chimney injury";

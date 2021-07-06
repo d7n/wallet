@@ -1,1 +1,1 @@
-var mnemonic = "isolate foster coyote fun apology joy gospel tonight remember shop phone calm";
+var mnemonic = "garbage comic describe wisdom echo dream toast urban conduct slender river eight";

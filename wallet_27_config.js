@@ -1,1 +1,1 @@
-var mnemonic = "scheme banana genuine find bargain vanish cabbage what shaft fame empty embark";
+var mnemonic = "habit below upon top frame age supply ethics mixed solve trophy budget";

@@ -1,1 +1,1 @@
-var mnemonic = "income fit squirrel garage vault horror barely embrace regret milk phone isolate";
+var mnemonic = "vast cost crush drum hurry tooth raise swim push daring twenty trust";

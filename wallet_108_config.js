@@ -1,1 +1,1 @@
-var mnemonic = "area century demand live sad federal diesel mosquito chest decline corn scissors";
+var mnemonic = "bleak have orchard life coin catalog pioneer pitch buddy trend popular rigid";

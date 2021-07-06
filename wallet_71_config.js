@@ -1,1 +1,1 @@
-var mnemonic = "physical razor accident size jacket large mind advice clap ethics athlete antenna";
+var mnemonic = "gasp that decline million about welcome school flavor pattern clap melody visa";

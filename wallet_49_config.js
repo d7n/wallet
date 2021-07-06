@@ -1,1 +1,1 @@
-var mnemonic = "cry dwarf gown effort wealth beach tennis arrow oyster again raw wealth";
+var mnemonic = "wisdom orbit catch text hundred primary letter wise hazard flash north reopen";

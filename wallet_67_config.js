@@ -1,1 +1,1 @@
-var mnemonic = "chunk ranch strike teach slab power dwarf mushroom ball fork before welcome";
+var mnemonic = "pizza local sport family bid prefer light venture entire ring engage flush";

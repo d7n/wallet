@@ -1,1 +1,1 @@
-var mnemonic = "stone apart devote ketchup render yard aspect task advice farm educate fortune";
+var mnemonic = "sword refuse below roast orchard differ direct camera exclude tragic crystal fruit";

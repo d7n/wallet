@@ -1,1 +1,1 @@
-var mnemonic = "close weasel solve pizza floor end morning gravity kitten plunge tree range";
+var mnemonic = "clay salmon spy entire price echo mansion better ensure coconut exit faculty";

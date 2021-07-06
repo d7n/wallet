@@ -1,1 +1,1 @@
-var mnemonic = "solution arrow mirror chief drip vanish child abstract tunnel purity stool lecture";
+var mnemonic = "aerobic marine feed sick rely into world place cycle field present success";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra large auction melt lock behind quit acid imitate pipe digital type";
+var mnemonic = "trash train cream patrol air hospital erase envelope dice cushion brown kidney";

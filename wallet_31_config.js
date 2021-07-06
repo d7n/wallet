@@ -1,1 +1,1 @@
-var mnemonic = "gentle caught right embody okay island huge list cycle visa sense tomorrow";
+var mnemonic = "cart pencil evidence pumpkin level impact manage fatigue truly ethics pill modify";

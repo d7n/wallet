@@ -1,1 +1,1 @@
-var mnemonic = "artefact wild sell humor mushroom budget spatial one mix shield matrix scout";
+var mnemonic = "pumpkin garbage candy quality cancel pepper visa ability march universe divorce carry";

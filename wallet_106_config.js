@@ -1,1 +1,1 @@
-var mnemonic = "beauty video inhale chicken pact tired budget change slogan float concert toilet";
+var mnemonic = "width hamster object glad misery flee holiday scout quarter hand dynamic snack";

@@ -1,1 +1,1 @@
-var mnemonic = "heart firm now sign battle viable kind rookie weather bullet frog buzz";
+var mnemonic = "manual risk pill zebra struggle silly tape emerge pulp parrot tent plastic";

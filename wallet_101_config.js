@@ -1,1 +1,1 @@
-var mnemonic = "prize offer mobile garlic reunion wrong scrap opera install royal concert nature";
+var mnemonic = "combine west frequent boat panther reveal skin wide safe melt purse hospital";

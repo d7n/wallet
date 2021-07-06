@@ -1,1 +1,1 @@
-var mnemonic = "orange initial undo music valve woman sad discover clerk screen foster wild";
+var mnemonic = "budget fault provide zoo tonight found outdoor example explain blame denial anchor";

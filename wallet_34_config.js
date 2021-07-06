@@ -1,1 +1,1 @@
-var mnemonic = "meat blanket goat turkey volcano novel ski capital length anger repair sauce";
+var mnemonic = "thrive weapon awesome crazy pistol tent orbit tennis extend defense hunt boss";

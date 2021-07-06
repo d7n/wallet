@@ -1,1 +1,1 @@
-var mnemonic = "fortune extra ocean pyramid vocal color quote depend vocal loan method crew";
+var mnemonic = "tank outside polar rack main sadness vanish forest rural arrive foam hint";

@@ -1,1 +1,1 @@
-var mnemonic = "expire gold air life awkward silent viable stay remind target pudding frame";
+var mnemonic = "creek will able wedding turn quality anger virus gain comfort excess useful";

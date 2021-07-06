@@ -1,1 +1,1 @@
-var mnemonic = "family cram collect gift claim space asset globe smile share cabin street";
+var mnemonic = "unveil private someone dice physical unhappy setup pony brass sentence clown lamp";

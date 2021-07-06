@@ -1,1 +1,1 @@
-var mnemonic = "hollow must pink crisp soon west baby spot august negative scare abstract";
+var mnemonic = "weird salute noble cart flat total stairs visual chalk observe undo win";

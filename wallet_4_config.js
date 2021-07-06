@@ -1,1 +1,1 @@
-var mnemonic = "holiday hotel wheat boy taste lady soft mixture orient glance salad day";
+var mnemonic = "basic talk uncle pigeon exclude december rib viable inquiry either enrich potato";

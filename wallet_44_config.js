@@ -1,1 +1,1 @@
-var mnemonic = "lounge planet fragile ability tragic dentist elephant ability play key meat brick";
+var mnemonic = "toilet view bicycle magnet fluid course menu february gloom space connect inside";

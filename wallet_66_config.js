@@ -1,1 +1,1 @@
-var mnemonic = "festival caution jeans afford repeat board solution insane toilet galaxy sand reopen";
+var mnemonic = "property expire model move pilot volcano ten name coil travel stamp cup";

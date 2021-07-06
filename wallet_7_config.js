@@ -1,1 +1,1 @@
-var mnemonic = "vibrant test picnic cash please gentle duck pact release cactus chunk fatal";
+var mnemonic = "bundle gap ice first frequent output toward alcohol wisdom task engine awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "fade seek amateur decade soup skull tobacco state tape oxygen motor ketchup";
+var mnemonic = "pill faculty cattle churn oblige lemon neither wrist increase beef fiber box";

@@ -1,1 +1,1 @@
-var mnemonic = "dice solution drip feature vague basket endorse dash trophy remove until shift";
+var mnemonic = "satisfy vocal curtain scale enable rocket scissors fee order idle fresh ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "push review hover fire jungle worry buyer dumb play misery hood since";
+var mnemonic = "toilet clump series unaware swamp copy omit tomorrow success onion sugar possible";

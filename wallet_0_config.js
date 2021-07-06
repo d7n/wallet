@@ -1,1 +1,1 @@
-var mnemonic = "trigger route lemon later any replace dose remember keep arch vibrant ball";
+var mnemonic = "oak observe gun crumble just already peanut library odor chase lend surface";

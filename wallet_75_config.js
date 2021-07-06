@@ -1,1 +1,1 @@
-var mnemonic = "valley city breeze illegal what share canyon regret tag fence oven desert";
+var mnemonic = "lock bean cave slender staff bacon chicken wine wall shift wash select";

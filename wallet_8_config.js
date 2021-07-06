@@ -1,1 +1,1 @@
-var mnemonic = "agree harbor thought give torch fork detect mosquito leg spell twelve object";
+var mnemonic = "crumble clap cable wave toss brave dentist achieve then symbol book surprise";

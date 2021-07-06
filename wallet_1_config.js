@@ -1,1 +1,1 @@
-var mnemonic = "prevent foil when order foam dove theory rabbit effort spawn crime prosper";
+var mnemonic = "report rebuild practice guide potato twice relief razor riot ketchup verify peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "renew hard say digital split spatial stairs dune image shock noise obey";
+var mnemonic = "crack remain toward account able rhythm photo trouble sphere sniff ranch best";

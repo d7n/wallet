@@ -1,1 +1,1 @@
-var mnemonic = "three else aim latin foster home rib quote opinion uniform bargain planet";
+var mnemonic = "try sock frame state filter mutual dial scene detect bid book jacket";

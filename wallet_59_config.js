@@ -1,1 +1,1 @@
-var mnemonic = "marble drift list bind loyal disagree rent theme hedgehog piano fortune fit";
+var mnemonic = "output mosquito neck mouse diary extra embody apple poverty image vacuum arm";

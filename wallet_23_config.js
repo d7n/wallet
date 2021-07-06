@@ -1,1 +1,1 @@
-var mnemonic = "relax barrel average summer limb digital trouble injury brave tobacco page trend";
+var mnemonic = "intact rain gloom cook air century tent frame brass prison sand section";

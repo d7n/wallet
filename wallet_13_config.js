@@ -1,1 +1,1 @@
-var mnemonic = "capital armor relief column butter tiny midnight suffer budget soul total blue";
+var mnemonic = "rich elite spike dumb predict jelly nature demise core ivory cross limit";

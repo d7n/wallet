@@ -1,1 +1,1 @@
-var mnemonic = "wife call borrow orchard muscle attack lecture teach mean hamster chief pact";
+var mnemonic = "loan address snake school fine nation gold federal solution defy upon cherry";

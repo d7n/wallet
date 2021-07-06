@@ -1,1 +1,1 @@
-var mnemonic = "style improve vocal perfect cake blue domain bind prefer source situate document";
+var mnemonic = "suffer wave crop tide rubber exist bomb hen addict they shy hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "smart asthma initial assault toddler space tiger have shop cool often seven";
+var mnemonic = "session economy purchase front zone project maple pigeon evolve body glow ship";

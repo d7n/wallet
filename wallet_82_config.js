@@ -1,1 +1,1 @@
-var mnemonic = "before include half area open auction law picture tonight polar humor strong";
+var mnemonic = "lonely liar bunker copper yard nice session this sight birth sugar initial";

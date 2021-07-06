@@ -1,1 +1,1 @@
-var mnemonic = "riot slow detail broccoli fossil cereal spin fine lounge bargain saddle evidence";
+var mnemonic = "initial melody obtain capable knock dinner speak beach act jungle switch ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "surface glory figure grief net wasp filter never alpha cheese use retire";
+var mnemonic = "autumn element post nut flight ticket want style cancel action salute figure";

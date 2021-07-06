@@ -1,1 +1,1 @@
-var mnemonic = "fossil plunge sentence million ghost attend garment obscure course moon soap equal";
+var mnemonic = "soul castle achieve vehicle domain abstract joy key ankle protect asset pill";

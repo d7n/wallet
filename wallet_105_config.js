@@ -1,1 +1,1 @@
-var mnemonic = "bamboo price sponsor clump crowd size height render lonely pilot someone hazard";
+var mnemonic = "silver comfort green aerobic dash subject ceiling wide ethics urge shell child";

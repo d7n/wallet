@@ -1,1 +1,1 @@
-var mnemonic = "hill voice correct usage antenna job art luxury image sweet train peace";
+var mnemonic = "robot employ art budget museum thank oak plunge drive stereo funny spend";

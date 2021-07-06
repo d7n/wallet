@@ -1,1 +1,1 @@
-var mnemonic = "upgrade subway cloth lesson vendor observe obscure nose chase special twelve vessel";
+var mnemonic = "illegal field bright vault figure bless bid floor label enemy unhappy avocado";

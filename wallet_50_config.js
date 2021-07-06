@@ -1,1 +1,1 @@
-var mnemonic = "flag risk social bike master fatigue bitter hospital hockey robust expand paddle";
+var mnemonic = "veteran flat foot famous top enforce magnet high vocal owner tide effort";

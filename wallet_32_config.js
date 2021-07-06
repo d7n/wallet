@@ -1,1 +1,1 @@
-var mnemonic = "oil skill hero ivory nephew adult repeat maximum excite slender volume option";
+var mnemonic = "color left burden ring half dinosaur dinosaur brother hope autumn purchase state";

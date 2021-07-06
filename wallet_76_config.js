@@ -1,1 +1,1 @@
-var mnemonic = "galaxy saddle rigid casual alert salt century cry sound neutral beach club";
+var mnemonic = "quote roast cradle acquire wall critic mango sphere license conduct avocado fatigue";
