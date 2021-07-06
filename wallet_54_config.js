@@ -1,1 +1,1 @@
-var mnemonic = "spatial betray north shift trend patch biology bus convince tube minute bind";
+var mnemonic = "lion session arrive gauge side oxygen tiny notice dream proof public loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "letter shop cement book fork horror oblige castle arm genre critic cupboard";
+var mnemonic = "wife boat agent crater earth noble food island any soon fresh laptop";

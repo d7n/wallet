@@ -1,1 +1,1 @@
-var mnemonic = "city outside retire pony mail train bridge water cloth peace pulp frequent";
+var mnemonic = "whisper napkin measure hope zoo there online possible mistake lunar trust brass";

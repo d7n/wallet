@@ -1,1 +1,1 @@
-var mnemonic = "ticket museum sustain prevent wink ill average subway shrimp firm very flock";
+var mnemonic = "insane clever pitch balance chimney grape help sudden hurry expire urge style";

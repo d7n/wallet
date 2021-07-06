@@ -1,1 +1,1 @@
-var mnemonic = "neck raven absent stairs pencil model bonus festival forum when often pulp";
+var mnemonic = "remind bar purpose athlete pyramid kidney mail ramp flush miracle reopen sound";

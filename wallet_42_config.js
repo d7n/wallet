@@ -1,1 +1,1 @@
-var mnemonic = "engine very salon excess cherry bunker amateur jump obscure case language wreck";
+var mnemonic = "usage sadness file vital dash believe consider capable autumn soup glass rabbit";

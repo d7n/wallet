@@ -1,1 +1,1 @@
-var mnemonic = "marine wire shed measure punch spread pony proof sweet charge adapt bounce";
+var mnemonic = "borrow quit wet cave horn cherry alley document payment problem enrich car";

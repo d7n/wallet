@@ -1,1 +1,1 @@
-var mnemonic = "improve august belt cigar warm sport improve bench resemble version awful auction";
+var mnemonic = "any tail rebel wire woman slab switch slice armor other skull embody";

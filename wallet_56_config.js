@@ -1,1 +1,1 @@
-var mnemonic = "best nurse myth gospel hope total gallery tourist feel sphere robust guide";
+var mnemonic = "much tongue rocket thrive dice code foil disorder promote waste capital romance";

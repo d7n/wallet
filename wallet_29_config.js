@@ -1,1 +1,1 @@
-var mnemonic = "romance electric term drama enroll tortoise funny sketch reduce grab quiz allow";
+var mnemonic = "prison decorate antique market wild wall silver acquire radar chase prepare sell";

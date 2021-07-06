@@ -1,1 +1,1 @@
-var mnemonic = "bomb loan draft forward party resist budget proof lunar brick fever wolf";
+var mnemonic = "magic minor space danger depart shoot shine elephant payment couple update credit";

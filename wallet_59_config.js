@@ -1,1 +1,1 @@
-var mnemonic = "present mixed mosquito gallery october urban inflict that grid inflict glue indoor";
+var mnemonic = "distance vicious oblige relief avocado cluster cup filter wink cash model actress";

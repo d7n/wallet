@@ -1,1 +1,1 @@
-var mnemonic = "banana device chief broom law receive wet prosper danger grape surround skill";
+var mnemonic = "key gossip exit resist puppy install floor guard small boy execute advance";

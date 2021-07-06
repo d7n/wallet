@@ -1,1 +1,1 @@
-var mnemonic = "canvas teach shy ridge rough wrong hobby program object advice exclude flash";
+var mnemonic = "small damage pond moon where easily swallow belt exhaust shed brick luggage";

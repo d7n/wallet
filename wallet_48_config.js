@@ -1,1 +1,1 @@
-var mnemonic = "chuckle sun radio raise pattern situate nephew sick spatial cement rice orient";
+var mnemonic = "dove neglect shell orbit adapt receive window insane bubble mother chimney celery";

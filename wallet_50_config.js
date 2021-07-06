@@ -1,1 +1,1 @@
-var mnemonic = "connect fever movie hint paddle ugly drum twenty better way member excite";
+var mnemonic = "party retire kick visa beef festival they broom glance improve provide blade";

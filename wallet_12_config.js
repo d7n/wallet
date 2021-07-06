@@ -1,1 +1,1 @@
-var mnemonic = "angle warrior galaxy phone recall rare antenna brown surface ski brick end";
+var mnemonic = "pilot trigger coin adjust prize chuckle month hotel coach calm kitten spring";

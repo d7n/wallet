@@ -1,1 +1,1 @@
-var mnemonic = "speak mechanic vacuum pride unveil pattern session glad decline engine merit east";
+var mnemonic = "vital have road blouse grain essay audit chronic gaze antenna furnace hawk";

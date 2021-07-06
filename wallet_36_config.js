@@ -1,1 +1,1 @@
-var mnemonic = "galaxy bid chuckle want often elder pizza enlist uphold insect report blouse";
+var mnemonic = "control crumble shove tuition calm record flight bus inner race sword hybrid";

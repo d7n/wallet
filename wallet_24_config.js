@@ -1,1 +1,1 @@
-var mnemonic = "fall move turkey bird renew cousin priority street combine retire force drum";
+var mnemonic = "arrange stable squeeze misery vacant vintage relax bomb call possible smart off";

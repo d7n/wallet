@@ -1,1 +1,1 @@
-var mnemonic = "welcome outdoor jeans people easy mom equip credit salad sing panda hub";
+var mnemonic = "firm bind position decline kiss online alert add label august until oven";

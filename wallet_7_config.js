@@ -1,1 +1,1 @@
-var mnemonic = "type spare fix sheriff expand lucky throw hello earn nose brother child";
+var mnemonic = "prize into error analyst person twelve pulp submit shrug trophy help whisper";

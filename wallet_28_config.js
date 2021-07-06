@@ -1,1 +1,1 @@
-var mnemonic = "elevator claw empty where ginger jacket dismiss priority family genre cloth can";
+var mnemonic = "ostrich category bread among leader machine north vapor miss icon budget almost";

@@ -1,1 +1,1 @@
-var mnemonic = "brass emerge jealous much evolve panel economy write deal style token unveil";
+var mnemonic = "ugly mobile lamp weasel silk want proud clown piano tuna call glad";

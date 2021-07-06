@@ -1,1 +1,1 @@
-var mnemonic = "mechanic emerge decide purpose mix six jaguar arrow doctor essence poem notable";
+var mnemonic = "game enhance crawl obey pave dance heavy suit address region thrive swear";

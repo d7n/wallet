@@ -1,1 +1,1 @@
-var mnemonic = "invest timber twice ketchup engage outdoor bomb random stamp stable immune chair";
+var mnemonic = "struggle play tobacco toss tilt report romance oxygen public bubble lift symptom";

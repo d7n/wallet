@@ -1,1 +1,1 @@
-var mnemonic = "obey hard social fruit south nut loan eye cash area hire swear";
+var mnemonic = "certain orbit taste spy lyrics success enforce moment skin project rocket dune";

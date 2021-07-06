@@ -1,1 +1,1 @@
-var mnemonic = "salon resist pool man stool one scheme dynamic slice mobile inform erode";
+var mnemonic = "pyramid escape lecture scrap code affair sketch excuse glory census proud lunch";

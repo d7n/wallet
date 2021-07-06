@@ -1,1 +1,1 @@
-var mnemonic = "detect bike autumn doctor dry maid genuine service right slight apple bean";
+var mnemonic = "brass muscle talk stage traffic apple number dynamic tell elegant wrestle cross";

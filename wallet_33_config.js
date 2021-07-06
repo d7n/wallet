@@ -1,1 +1,1 @@
-var mnemonic = "direct robust grocery trumpet finish gold pupil effort minimum awkward embark regret";
+var mnemonic = "affair purpose dry maple dumb sell twelve remind warm hotel outside olive";

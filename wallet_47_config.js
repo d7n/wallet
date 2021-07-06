@@ -1,1 +1,1 @@
-var mnemonic = "brisk ivory pluck brush word cigar guess half damp beef resource around";
+var mnemonic = "mixed wrap silk prosper estate surprise offer pupil caught cup speak saddle";

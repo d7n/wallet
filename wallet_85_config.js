@@ -1,1 +1,1 @@
-var mnemonic = "surprise guilt vacuum lake describe orphan move bone curious army wealth road";
+var mnemonic = "link rural shaft column buzz tornado pledge hint spice innocent when equal";

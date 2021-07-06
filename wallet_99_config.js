@@ -1,1 +1,1 @@
-var mnemonic = "exchange usage school two come balcony idle lawsuit timber blouse beauty middle";
+var mnemonic = "dolphin talent hire olympic steel female ethics genuine chef pitch raven universe";

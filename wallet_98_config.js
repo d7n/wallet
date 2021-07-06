@@ -1,1 +1,1 @@
-var mnemonic = "arch home potato offer two insane recipe kitchen dove yellow capable noodle";
+var mnemonic = "barely wing boil stock enrich diary debate reduce left display marine indicate";

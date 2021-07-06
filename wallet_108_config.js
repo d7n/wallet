@@ -1,1 +1,1 @@
-var mnemonic = "glass keep useless cave shrimp act fade noble observe useful biology timber";
+var mnemonic = "replace certain sight tumble umbrella lobster guitar nut vague portion marine damp";

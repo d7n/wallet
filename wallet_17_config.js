@@ -1,1 +1,1 @@
-var mnemonic = "mansion wish dish host invest quick sunny round social globe alien special";
+var mnemonic = "video gorilla rescue grass daring replace clever armor scrap can table final";

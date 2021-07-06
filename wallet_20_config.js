@@ -1,1 +1,1 @@
-var mnemonic = "almost achieve shine tenant celery tackle cup phrase attitude clog public resemble";
+var mnemonic = "isolate member chest escape turn toward glue stamp fold until novel resist";

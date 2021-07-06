@@ -1,1 +1,1 @@
-var mnemonic = "say deny employ essay voyage volcano duck way six cycle hair into";
+var mnemonic = "upon wreck canoe receive cliff uncover awful mimic near network powder photo";

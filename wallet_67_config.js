@@ -1,1 +1,1 @@
-var mnemonic = "payment coral word fatigue raven act hour token right false fold leader";
+var mnemonic = "find decorate awake abandon caught settle employ rabbit target early control skate";

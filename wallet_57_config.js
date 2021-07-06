@@ -1,1 +1,1 @@
-var mnemonic = "belt crack square cricket learn green enjoy unveil atom correct soon acoustic";
+var mnemonic = "run gesture turn neck lemon gown diagram seek fold bullet sunset chicken";

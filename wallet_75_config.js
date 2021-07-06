@@ -1,1 +1,1 @@
-var mnemonic = "diamond evolve average flip mixed uniform kidney struggle bulk jacket broken belt";
+var mnemonic = "define pilot divide caught morning pelican supreme hello process grain volume reject";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract tag tent giant close board spirit wait drive pudding pudding choose";
+var mnemonic = "error during sibling myself setup tobacco leader sure market wide tortoise payment";

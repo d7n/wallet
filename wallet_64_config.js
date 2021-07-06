@@ -1,1 +1,1 @@
-var mnemonic = "use drill job actor cool sock calm copy drill off anchor great";
+var mnemonic = "dilemma tackle differ all sniff few mesh royal river again glimpse midnight";

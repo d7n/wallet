@@ -1,1 +1,1 @@
-var mnemonic = "true town bulb sun choice inflict palace into voyage metal kangaroo worry";
+var mnemonic = "science scale peasant cover divert funny general ostrich exit sleep sorry decorate";

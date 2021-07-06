@@ -1,1 +1,1 @@
-var mnemonic = "collect purity repeat truck alert range orphan vessel tortoise answer annual accuse";
+var mnemonic = "mirror blame end rail scrap hole course gasp pigeon guitar credit trigger";

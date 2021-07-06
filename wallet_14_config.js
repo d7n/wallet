@@ -1,1 +1,1 @@
-var mnemonic = "maid napkin palm pilot burger family prevent paper plate what tray thunder";
+var mnemonic = "quarter style slide simple ill alien frozen pumpkin abuse dignity flame between";

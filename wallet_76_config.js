@@ -1,1 +1,1 @@
-var mnemonic = "limit flee forum cabbage fine organ change toilet powder silent vault simple";
+var mnemonic = "custom margin arm naive trap drum prosper member frame loop ginger detail";

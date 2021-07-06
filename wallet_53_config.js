@@ -1,1 +1,1 @@
-var mnemonic = "swing explain canvas feel script admit bless language drill remember park hair";
+var mnemonic = "town clever next wish film priority angle word morning silent achieve bird";

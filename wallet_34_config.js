@@ -1,1 +1,1 @@
-var mnemonic = "claw sample denial verb this garden whale faint jump virus permit board";
+var mnemonic = "clay gossip scale will staff steak trial possible identify wrist fantasy animal";

@@ -1,1 +1,1 @@
-var mnemonic = "focus goat crew cousin jewel embrace biology about cereal depart focus remove";
+var mnemonic = "visual main axis muscle silent indicate reduce file ostrich material youth ten";

@@ -1,1 +1,1 @@
-var mnemonic = "margin delay sorry useful pet brave cheap lumber pulp today anchor choose";
+var mnemonic = "mixture utility manual dilemma account labor oak fever surge blur rare winter";

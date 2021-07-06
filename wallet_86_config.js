@@ -1,1 +1,1 @@
-var mnemonic = "casino wood pill turn duty other quick city tell bamboo health fatal";
+var mnemonic = "gadget sausage pony detail cloud uncover bless museum used emerge home raise";

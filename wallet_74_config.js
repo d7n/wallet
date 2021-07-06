@@ -1,1 +1,1 @@
-var mnemonic = "eagle crack script lecture surprise end duty main pen retire session snow";
+var mnemonic = "parent trap flush lyrics upgrade foam lend pledge model hood day park";

@@ -1,1 +1,1 @@
-var mnemonic = "custom very fortune about auto ski cheese hybrid test infant estate slogan";
+var mnemonic = "view stove lift mansion cigar tell flavor stable buyer grow receive boost";

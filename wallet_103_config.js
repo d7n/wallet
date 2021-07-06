@@ -1,1 +1,1 @@
-var mnemonic = "lottery gate sketch tongue salon buffalo wealth tissue faith track aspect novel";
+var mnemonic = "daughter height deal spin place slim good corn animal liquid tourist invest";

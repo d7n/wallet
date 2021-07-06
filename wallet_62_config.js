@@ -1,1 +1,1 @@
-var mnemonic = "embrace pride pride any dutch answer kick cram search cute toss spring";
+var mnemonic = "mountain finish pass faith clock sponsor wheat describe gym view weasel jacket";

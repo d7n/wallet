@@ -1,1 +1,1 @@
-var mnemonic = "debate thumb document nose silly assist outdoor laundry cigar hair huge lunch";
+var mnemonic = "health search harbor share certain remove cruel elite gift denial source pencil";

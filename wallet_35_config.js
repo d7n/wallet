@@ -1,1 +1,1 @@
-var mnemonic = "outer knife ivory neglect slender champion gloom grocery worry dwarf boil flag";
+var mnemonic = "security fragile obscure document gadget problem survey number husband spare danger use";

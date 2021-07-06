@@ -1,1 +1,1 @@
-var mnemonic = "response lift tilt bus frame famous era inner ocean replace slight inquiry";
+var mnemonic = "liquid eye purchase remain goddess extra also cash orient buyer lamp father";

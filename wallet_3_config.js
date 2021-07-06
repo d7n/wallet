@@ -1,1 +1,1 @@
-var mnemonic = "clown before resemble course wash scheme alarm deny bean wave taste blur";
+var mnemonic = "treat syrup giant visa burst brick jelly grace ankle swing ecology online";

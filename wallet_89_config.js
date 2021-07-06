@@ -1,1 +1,1 @@
-var mnemonic = "bring want hint maid error shock credit exclude unlock weapon tornado assault";
+var mnemonic = "vessel pledge crane thumb unaware million unknown narrow tool goddess also enroll";

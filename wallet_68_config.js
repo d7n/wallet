@@ -1,1 +1,1 @@
-var mnemonic = "host fly proof wall scene hamster baby gather fatigue hard tank ranch";
+var mnemonic = "flight floor phone mother stable outer garage maid forest cook cricket avoid";

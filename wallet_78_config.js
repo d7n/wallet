@@ -1,1 +1,1 @@
-var mnemonic = "grass absorb main auction puppy inhale exercise chest share conduct evil mule";
+var mnemonic = "section eagle setup human dose beauty slight friend street theme couple morning";

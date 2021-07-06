@@ -1,1 +1,1 @@
-var mnemonic = "cabbage couch labor spike action move case patch inch sting gospel debris";
+var mnemonic = "extend key youth despair youth involve acid addict vibrant actual core bonus";

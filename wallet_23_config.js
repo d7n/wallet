@@ -1,1 +1,1 @@
-var mnemonic = "leopard chronic solid novel provide spatial path small flavor merry betray gospel";
+var mnemonic = "exotic first promote code chapter earn notice clever midnight ocean unable craft";

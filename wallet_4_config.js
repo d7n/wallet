@@ -1,1 +1,1 @@
-var mnemonic = "pottery erase topple proud fan pencil matter lamp live nice hybrid three";
+var mnemonic = "still badge reform spoil one mushroom endless cool diary cake welcome pumpkin";

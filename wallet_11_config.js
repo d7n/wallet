@@ -1,1 +1,1 @@
-var mnemonic = "can menu physical order copper warrior turn endorse explain enable boat happy";
+var mnemonic = "main renew velvet gallery flush certain assume gauge toss indicate empty faculty";

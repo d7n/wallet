@@ -1,1 +1,1 @@
-var mnemonic = "solve wing service surprise win inform equal coyote faith say fantasy salon";
+var mnemonic = "spot fruit bargain census still clutch just kangaroo churn cliff company pig";

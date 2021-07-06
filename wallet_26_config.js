@@ -1,1 +1,1 @@
-var mnemonic = "airport curtain creek know rural drift stairs despair mansion element history high";
+var mnemonic = "dirt trend erase civil spread guide scrub govern poet network kick seed";

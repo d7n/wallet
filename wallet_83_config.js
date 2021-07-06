@@ -1,1 +1,1 @@
-var mnemonic = "gallery critic siren critic swamp tone struggle husband move charge code knock";
+var mnemonic = "initial bright blouse knee beef program affair noodle enhance avocado gym kidney";

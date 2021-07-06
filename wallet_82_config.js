@@ -1,1 +1,1 @@
-var mnemonic = "receive soup mass dumb venue indicate company worth expose judge push seven";
+var mnemonic = "lemon jealous point clown lounge such must rich ice orphan jar gown";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff purse horn roof because hood differ inherit dwarf detail radar vocal";
+var mnemonic = "script cargo essence onion opera drop dove question smart wear general nut";

@@ -1,1 +1,1 @@
-var mnemonic = "wool enact despair never knock busy supply thank allow always put chest";
+var mnemonic = "used spider knock mandate race owner volume caution inspire second license jump";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist invest loyal present what angry blade utility burst cannon donate sun";
+var mnemonic = "example bottom fancy slush black jelly jacket hurdle tonight churn crew defy";

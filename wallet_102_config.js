@@ -1,1 +1,1 @@
-var mnemonic = "garlic caution chimney illegal clown laptop network shoot first fat reform media";
+var mnemonic = "provide web damage tone dirt talk firm field myself canoe rival forum";

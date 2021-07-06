@@ -1,1 +1,1 @@
-var mnemonic = "east mother purpose festival base twelve sun spider analyst observe logic question";
+var mnemonic = "cruise advance senior verb season black six swarm element stereo century rural";

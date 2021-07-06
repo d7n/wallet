@@ -1,1 +1,1 @@
-var mnemonic = "decrease story avocado skate bag trophy long lounge apology prefer enjoy stock";
+var mnemonic = "bubble quality eager spin frog process remember give sphere used bounce clean";

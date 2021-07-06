@@ -1,1 +1,1 @@
-var mnemonic = "parrot race satisfy wasp siege alpha mind about knock spray address blue";
+var mnemonic = "room leader spray auction bracket tomorrow talent tongue extend promote weather culture";

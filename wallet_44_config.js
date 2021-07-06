@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit radar jacket segment effort jump also vocal feed artist green damage";
+var mnemonic = "health carbon memory special woman second wrestle equip install chef private vicious";

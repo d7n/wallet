@@ -1,1 +1,1 @@
-var mnemonic = "wage life fire lawn piano buyer exist stove wild cotton kiwi adult";
+var mnemonic = "logic trash soon behind speed almost dial miss copper inner habit secret";

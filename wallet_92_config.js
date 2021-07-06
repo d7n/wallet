@@ -1,1 +1,1 @@
-var mnemonic = "lobster exhaust just figure discover junk crush secret team snow fix soldier";
+var mnemonic = "replace crawl answer lawn alcohol impact tape benefit evil song table cushion";

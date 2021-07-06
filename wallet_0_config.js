@@ -1,1 +1,1 @@
-var mnemonic = "crucial dog input subject sunny arrange call humble title hollow demise accident";
+var mnemonic = "nose sketch theory unfold stuff nephew blast pen dutch wear crisp indicate";

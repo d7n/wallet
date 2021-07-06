@@ -1,1 +1,1 @@
-var mnemonic = "climb material equip gasp immense jaguar canal age film suffer online index";
+var mnemonic = "tape document wet near banner fuel document surprise harbor shield farm avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "story talk negative apology half license hammer spring absorb real dad soda";
+var mnemonic = "praise already tent frost caution word tattoo spawn obvious toy next tourist";

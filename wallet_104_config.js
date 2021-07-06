@@ -1,1 +1,1 @@
-var mnemonic = "hole cart bind hard bar capable crazy radio general siren minor fix";
+var mnemonic = "front step creek fan clarify joy card deny couch knee various hard";

@@ -1,1 +1,1 @@
-var mnemonic = "truly river better enter call shield trick post jeans sight shed shrug";
+var mnemonic = "jungle loop pride debate pitch again drink call usage vessel found coin";

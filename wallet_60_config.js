@@ -1,1 +1,1 @@
-var mnemonic = "husband border patrol talk object version service pumpkin dawn pink circle biology";
+var mnemonic = "medal equal area suffer feel aunt town invest grant fog sustain finish";

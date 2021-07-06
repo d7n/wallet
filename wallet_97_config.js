@@ -1,1 +1,1 @@
-var mnemonic = "glide make nature struggle cup since avocado one blossom world force suspect";
+var mnemonic = "bitter rich ship network enact autumn spell enough army vehicle lion cage";

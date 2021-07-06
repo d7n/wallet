@@ -1,1 +1,1 @@
-var mnemonic = "pretty famous rude three aerobic raise angry fame arrest dash lecture apple";
+var mnemonic = "capital seminar venture bridge blade cattle game dice giggle left chronic place";
