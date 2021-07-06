@@ -1,1 +1,1 @@
-var mnemonic = "planet friend brain fitness vicious source cotton liquid differ shadow east object";
+var mnemonic = "people abandon gun onion tourist quick news occur fashion oval veteran subject";

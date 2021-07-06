@@ -1,1 +1,1 @@
-var mnemonic = "betray sell cluster addict wife label stairs connect then denial own connect";
+var mnemonic = "april essence online shove pulp noodle mercy reopen drift merry culture spray";

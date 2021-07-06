@@ -1,1 +1,1 @@
-var mnemonic = "trim beach payment urge hip merry gorilla trip armor betray lemon model";
+var mnemonic = "minor miracle melt supreme muffin learn prefer velvet one ship field guitar";

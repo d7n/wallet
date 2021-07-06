@@ -1,1 +1,1 @@
-var mnemonic = "evidence oil correct order view original ability marine hello mule cotton neglect";
+var mnemonic = "noble cupboard home range undo pole hedgehog intact metal involve spy knife";

@@ -1,1 +1,1 @@
-var mnemonic = "game pink divert since people gap check glare hint grab mushroom aware";
+var mnemonic = "fitness song fabric tail weekend grain duty fitness day mechanic pepper year";

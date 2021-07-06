@@ -1,1 +1,1 @@
-var mnemonic = "situate street slice plunge million tissue treat mansion say visit day tornado";
+var mnemonic = "slice athlete inquiry hole truly place shaft maple prison drum desk hen";

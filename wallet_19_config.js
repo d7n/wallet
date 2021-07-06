@@ -1,1 +1,1 @@
-var mnemonic = "tooth sense sense delay usual accident floor absurd object asthma crumble ten";
+var mnemonic = "cream item squeeze impulse cute resemble voice riot fox series letter style";

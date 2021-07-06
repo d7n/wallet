@@ -1,1 +1,1 @@
-var mnemonic = "point alert time library cannon female churn vehicle repair sword flash empty";
+var mnemonic = "unable idle truck melody worry six hidden section direct garbage verify develop";

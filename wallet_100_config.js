@@ -1,1 +1,1 @@
-var mnemonic = "guitar broom climb soon pause marriage sibling cash useful enjoy expand skill";
+var mnemonic = "winner ahead avocado idle program gold alley wave opinion salt maid cry";

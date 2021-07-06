@@ -1,1 +1,1 @@
-var mnemonic = "diet beauty author later dune donate oil usual tell basket move forward";
+var mnemonic = "any river enemy zebra hope hawk father illness trust taxi split smile";

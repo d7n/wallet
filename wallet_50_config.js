@@ -1,1 +1,1 @@
-var mnemonic = "ramp machine scatter moment vital code resist afford solid arrow latin mask";
+var mnemonic = "imitate very angry sail pelican south grunt arrive stove wide brush analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "song angle source stock consider stage food must immune sting intact cause";
+var mnemonic = "tunnel iron bench rack future oppose dose warm man bamboo blast couple";

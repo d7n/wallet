@@ -1,1 +1,1 @@
-var mnemonic = "exact frown proof rabbit snack paper observe agree virtual quick page taste";
+var mnemonic = "void royal airport math indicate skirt arrange front eagle van lazy cruise";

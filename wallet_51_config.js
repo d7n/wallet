@@ -1,1 +1,1 @@
-var mnemonic = "panic tourist true assume dentist penalty brand hold top soccer sorry dial";
+var mnemonic = "enroll enter often giant ozone bachelor glow cause shine before inherit result";

@@ -1,1 +1,1 @@
-var mnemonic = "eager hand fox agree tree napkin ladder vital ten order album knee";
+var mnemonic = "amazing lunar march master decade brief august muscle view budget taxi broken";

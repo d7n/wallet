@@ -1,1 +1,1 @@
-var mnemonic = "express dilemma wool bag fringe lend crater expire cancel speed zero head";
+var mnemonic = "exact flee quantum latin reform episode bounce naive disease history bounce vendor";

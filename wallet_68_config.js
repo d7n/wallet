@@ -1,1 +1,1 @@
-var mnemonic = "accident mechanic observe liquid ensure mother abstract neck rabbit pumpkin ostrich later";
+var mnemonic = "material series cabbage trophy region vessel all smooth document label future vital";

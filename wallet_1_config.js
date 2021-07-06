@@ -1,1 +1,1 @@
-var mnemonic = "monitor ice prize thunder state member claw expect awkward payment lab penalty";
+var mnemonic = "remain unique exile crystal tone script urge silent tornado swing soap merge";

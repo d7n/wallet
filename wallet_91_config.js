@@ -1,1 +1,1 @@
-var mnemonic = "segment split ill humor one welcome bleak walk kitten seek crash party";
+var mnemonic = "olive magic faculty entry embody congress laptop other enough neglect very struggle";

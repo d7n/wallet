@@ -1,1 +1,1 @@
-var mnemonic = "science project fan prize exhibit gas scissors kangaroo pony alarm endorse exact";
+var mnemonic = "pyramid lobster canyon idle december estate acoustic protect forward water bind best";

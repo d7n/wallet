@@ -1,1 +1,1 @@
-var mnemonic = "toddler decade raise quarter subway area health keep slot quit reflect wrong";
+var mnemonic = "gym pear weather spike gun tilt nest produce now science leave since";

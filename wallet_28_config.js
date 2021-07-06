@@ -1,1 +1,1 @@
-var mnemonic = "absurd foot identify dwarf tongue light oak grief clever drama business worth";
+var mnemonic = "diagram only upper shrimp zone fruit elephant skirt reject shop lawsuit street";

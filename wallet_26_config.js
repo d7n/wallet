@@ -1,1 +1,1 @@
-var mnemonic = "member click draft volume kind lottery peace model insect have scrap tunnel";
+var mnemonic = "guide robot radar mail slender monster announce mirror okay problem expect invest";

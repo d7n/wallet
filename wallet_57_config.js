@@ -1,1 +1,1 @@
-var mnemonic = "replace actress net glide exclude spoil vapor scale diary now flower clinic";
+var mnemonic = "found love ask swift sleep aerobic uncover museum program capital awesome drop";

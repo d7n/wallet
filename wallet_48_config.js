@@ -1,1 +1,1 @@
-var mnemonic = "satisfy already able movie image type example fuel question echo opera danger";
+var mnemonic = "twenty snow town mechanic sword display stuff cluster flash assault first atom";

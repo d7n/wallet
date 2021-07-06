@@ -1,1 +1,1 @@
-var mnemonic = "cry view file device result arrive make explain bean code happy type";
+var mnemonic = "voyage parade merry vivid kidney claim visa bag betray voice next fish";

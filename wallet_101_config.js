@@ -1,1 +1,1 @@
-var mnemonic = "print trick stock bitter better sauce people protect aunt miracle circle uncover";
+var mnemonic = "that under chat kingdom slush develop eye sphere push only lab evidence";

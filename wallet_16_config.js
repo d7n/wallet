@@ -1,1 +1,1 @@
-var mnemonic = "drift limb awkward poverty rare pyramid discover during topple involve genius mango";
+var mnemonic = "hint creek share pink afraid blind envelope drum recycle erupt reform steak";

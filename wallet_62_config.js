@@ -1,1 +1,1 @@
-var mnemonic = "property spike silent brave wreck convince rather leader cook bitter riot two";
+var mnemonic = "bid victory video exchange drama inside stable legal mom forget escape stable";

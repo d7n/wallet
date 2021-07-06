@@ -1,1 +1,1 @@
-var mnemonic = "diet local document tube laptop job script dismiss razor cry quote oppose";
+var mnemonic = "zoo siege there often approve this melt pull grocery hub peanut anchor";

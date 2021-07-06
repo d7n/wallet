@@ -1,1 +1,1 @@
-var mnemonic = "segment parade puzzle donkey join wool screen desert want clock argue deliver";
+var mnemonic = "symptom smooth end food abuse affair coin lava dose limit doctor wait";

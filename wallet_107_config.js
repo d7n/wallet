@@ -1,1 +1,1 @@
-var mnemonic = "proud betray frozen much hard miss hungry cushion add client before boil";
+var mnemonic = "panther museum torch mosquito virus bamboo slight innocent erupt opinion wish picnic";

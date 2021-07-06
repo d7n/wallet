@@ -1,1 +1,1 @@
-var mnemonic = "ball thank corn floor wait essay snake material dwarf update rather combine";
+var mnemonic = "other vintage cake client direct educate term random sad dose boy fame";

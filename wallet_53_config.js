@@ -1,1 +1,1 @@
-var mnemonic = "volume exercise retreat sight wet flight image aware illness accuse good giggle";
+var mnemonic = "neck renew erosion find angle company brass repair portion increase join interest";

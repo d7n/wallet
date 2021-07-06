@@ -1,1 +1,1 @@
-var mnemonic = "toward direct struggle three lyrics creek print spell sing diagram purity horse";
+var mnemonic = "stick crunch lemon mechanic merry slam victory prefer cluster spoon print work";

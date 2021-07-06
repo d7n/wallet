@@ -1,1 +1,1 @@
-var mnemonic = "face acquire middle approve bird vintage april ahead include peasant glove rocket";
+var mnemonic = "stairs injury else giant deny spot scout kiwi sniff team fabric fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "option blast start essay reason chalk ball inquiry boat erode style prison";
+var mnemonic = "jazz record skull obey during spell kitchen rigid piece pole behind solution";

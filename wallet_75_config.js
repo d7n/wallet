@@ -1,1 +1,1 @@
-var mnemonic = "razor panda cloud menu upgrade profit rabbit shed another picnic junk symbol";
+var mnemonic = "problem enact position decorate spend chest goat miss muscle almost belt provide";

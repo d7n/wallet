@@ -1,1 +1,1 @@
-var mnemonic = "senior surround knee movie payment oil dragon nerve truck job crucial silk";
+var mnemonic = "spoil arctic reward mirror survey fury large grace lawn arrest physical awkward";

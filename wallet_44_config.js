@@ -1,1 +1,1 @@
-var mnemonic = "finger razor wild coil negative turn since garden parent sight purpose mango";
+var mnemonic = "rigid celery wool unable leopard soda unknown chase obvious grain club rule";

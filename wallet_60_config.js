@@ -1,1 +1,1 @@
-var mnemonic = "success student core useless heavy engine famous bless hybrid notable first orange";
+var mnemonic = "style valve capital invite again diagram february hamster mean crop sibling grit";

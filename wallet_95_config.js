@@ -1,1 +1,1 @@
-var mnemonic = "inform coffee one media romance absent gown fish move oppose park athlete";
+var mnemonic = "idea fruit govern pass apple blame dilemma tip action jaguar convince adult";

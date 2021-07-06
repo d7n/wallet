@@ -1,1 +1,1 @@
-var mnemonic = "praise fix sick dirt exact disease fossil wasp drill fly special drum";
+var mnemonic = "razor honey acid output magnet usage iron interest tag network hover armed";

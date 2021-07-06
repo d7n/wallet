@@ -1,1 +1,1 @@
-var mnemonic = "tool provide crane immune flock exercise tomato ahead legend flush keep economy";
+var mnemonic = "earth manage shy avoid run nature attend crater lottery hospital visual float";

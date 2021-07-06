@@ -1,1 +1,1 @@
-var mnemonic = "agree cluster rescue blast prevent erase glass celery long enhance present daring";
+var mnemonic = "oven current lizard differ mercy replace fitness useless replace resource alone ceiling";

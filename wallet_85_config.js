@@ -1,1 +1,1 @@
-var mnemonic = "kiss arrest outer behind captain call pupil together fresh reveal ramp egg";
+var mnemonic = "this despair action cactus wine cute tiny beauty either best green alley";

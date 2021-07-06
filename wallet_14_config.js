@@ -1,1 +1,1 @@
-var mnemonic = "balance upset snap betray source eternal cancel custom couch place over observe";
+var mnemonic = "brand pool dwarf churn brown injury mimic mercy robust judge mule eagle";

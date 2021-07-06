@@ -1,1 +1,1 @@
-var mnemonic = "finger child crush actress left glad auction unaware quiz direct path peace";
+var mnemonic = "spin never elite exotic aim agree sample hundred main harvest dove divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "minor grain check sadness spoon innocent ability news video depart protect ensure";
+var mnemonic = "project fetch aerobic door trap match dumb grain among clinic sock pelican";

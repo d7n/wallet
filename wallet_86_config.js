@@ -1,1 +1,1 @@
-var mnemonic = "script original alert delay blame butter urge audit safe wheel hedgehog reduce";
+var mnemonic = "skull unique hurt kiwi alcohol figure gate behave whale marble humor brand";

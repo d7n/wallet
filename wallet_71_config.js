@@ -1,1 +1,1 @@
-var mnemonic = "actress manual shove quote cabin merry injury joke such bullet insane tree";
+var mnemonic = "extend hello nurse skill where soon chuckle stool senior cactus flush output";

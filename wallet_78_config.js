@@ -1,1 +1,1 @@
-var mnemonic = "mutual raw gate cricket follow regular execute raccoon flight cruel sample shrug";
+var mnemonic = "fly agree vast reduce forum garlic guide island middle frog old candy";

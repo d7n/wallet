@@ -1,1 +1,1 @@
-var mnemonic = "shrug brick neglect bubble access give federal saddle tunnel knock orange balcony";
+var mnemonic = "layer edit enrich bench then fury welcome cake great already result you";

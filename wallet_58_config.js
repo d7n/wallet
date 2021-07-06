@@ -1,1 +1,1 @@
-var mnemonic = "abstract december lava success radio office toy engine cannon impose enable poet";
+var mnemonic = "expect segment ancient account burden elegant enact toddler biology slide flat empower";

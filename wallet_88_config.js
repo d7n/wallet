@@ -1,1 +1,1 @@
-var mnemonic = "room practice under rain update glass flame choice stumble arch liberty silver";
+var mnemonic = "thank elbow include battle luggage tissue remember brief quarter about avocado prize";

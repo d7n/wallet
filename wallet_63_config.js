@@ -1,1 +1,1 @@
-var mnemonic = "velvet amazing useful canyon awkward grunt hurt copy keep must repair still";
+var mnemonic = "affair awake suffer smile heavy chalk open maid kiwi interest crime electric";

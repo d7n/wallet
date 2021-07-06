@@ -1,1 +1,1 @@
-var mnemonic = "trigger pact balance exclude sniff injury weapon helmet around half bid whale";
+var mnemonic = "noodle bleak fade glass small state ten eternal hurry layer scene wedding";

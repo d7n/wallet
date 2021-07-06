@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sustain boy egg million rifle relax farm voyage submit sniff post";
+var mnemonic = "reform explain axis front gossip fever place upgrade stereo game else faint";

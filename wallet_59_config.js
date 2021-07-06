@@ -1,1 +1,1 @@
-var mnemonic = "guilt garlic dash satoshi divide purchase echo flush violin point away snake";
+var mnemonic = "laugh blur trick recall brush what consider copper normal immense father coil";

@@ -1,1 +1,1 @@
-var mnemonic = "under quarter tongue flee myself rifle sudden attract tongue pool popular above";
+var mnemonic = "narrow apology credit giant book fix collect neck cave spider response doctor";

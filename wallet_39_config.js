@@ -1,1 +1,1 @@
-var mnemonic = "end glove nest finish wheat spike plate grid rotate sibling income use";
+var mnemonic = "belt grit entire kangaroo over cinnamon sense model bounce travel worth elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "radio skin mistake mass rib travel wing three asthma force exhibit simple";
+var mnemonic = "chase juice clock volume hedgehog hammer orbit state sense crush forest general";

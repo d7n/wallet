@@ -1,1 +1,1 @@
-var mnemonic = "transfer uniform display attend planet mountain squeeze suit spatial price carpet peanut";
+var mnemonic = "weasel tuition right install life harsh sting country valve vintage today float";

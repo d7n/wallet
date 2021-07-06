@@ -1,1 +1,1 @@
-var mnemonic = "embark circle ozone one tell minor ice art clerk intact advance volume";
+var mnemonic = "key cereal slogan caught shallow soul oak animal crumble busy night mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate dream able fancy evil oak issue letter favorite file tuna car";
+var mnemonic = "dry adjust horror stay wash hen share patient lecture lamp luxury hint";

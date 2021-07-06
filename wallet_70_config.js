@@ -1,1 +1,1 @@
-var mnemonic = "reopen away path play keen lunar sort find sing always only kid";
+var mnemonic = "exhibit ribbon clip empower rely spot mention welcome hazard rib steak glory";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior faith tiger lawsuit nation copy jar orange scorpion table three fee";
+var mnemonic = "search scene sadness weird tooth dignity minimum arch kangaroo flock cheese clap";

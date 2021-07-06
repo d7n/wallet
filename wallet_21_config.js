@@ -1,1 +1,1 @@
-var mnemonic = "awkward provide scrap soap glow forget mandate argue caution vacuum visual fossil";
+var mnemonic = "filter tilt pretty stomach right swap already yard wild spatial ribbon song";

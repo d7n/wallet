@@ -1,1 +1,1 @@
-var mnemonic = "junior analyst worth soul provide sibling aware elegant choose flavor prefer burger";
+var mnemonic = "sentence used cement blade miracle glow witness alter inmate zero letter crouch";

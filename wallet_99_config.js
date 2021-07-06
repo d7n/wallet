@@ -1,1 +1,1 @@
-var mnemonic = "upon loan absurd artwork flame ask quantum pulse combine stock system inmate";
+var mnemonic = "edit course critic board tuna spatial potato solid call draw relief symptom";

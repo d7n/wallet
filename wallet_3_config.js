@@ -1,1 +1,1 @@
-var mnemonic = "fringe pigeon only only answer kiwi cliff reward trust future shrimp spend";
+var mnemonic = "search fog misery bargain loud victory team coach evidence quote shell carpet";

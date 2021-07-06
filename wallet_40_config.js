@@ -1,1 +1,1 @@
-var mnemonic = "leaf metal cattle test detail exhaust tattoo velvet deliver equip net grocery";
+var mnemonic = "boss annual name cover vanish omit category brain good arrow profit pact";

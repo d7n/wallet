@@ -1,1 +1,1 @@
-var mnemonic = "veteran during connect taste butter sister sunny silent improve enter dentist ill";
+var mnemonic = "random strong ring toe proud joke only sister mango fence silk garlic";

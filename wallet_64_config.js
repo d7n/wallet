@@ -1,1 +1,1 @@
-var mnemonic = "segment moon congress very ribbon give travel learn certain cliff expire denial";
+var mnemonic = "popular vague gold present bean side enemy rather toy injury warm opinion";

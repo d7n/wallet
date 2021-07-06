@@ -1,1 +1,1 @@
-var mnemonic = "human tell drop float pen rotate garbage erosion smoke nature wisdom approve";
+var mnemonic = "human certain blossom arena mobile hint web claw beef clarify cool muscle";

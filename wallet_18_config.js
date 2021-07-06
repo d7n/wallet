@@ -1,1 +1,1 @@
-var mnemonic = "unaware witness used away swim because crawl device solar stumble custom hawk";
+var mnemonic = "cattle elder usual stereo slam melt library whip virus ostrich stand interest";

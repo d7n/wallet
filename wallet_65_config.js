@@ -1,1 +1,1 @@
-var mnemonic = "license enemy artwork hotel junior swap marriage funny drift eagle cart say";
+var mnemonic = "scorpion festival heavy skirt warfare dismiss science hood soul noise patch kangaroo";

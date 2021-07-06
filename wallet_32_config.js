@@ -1,1 +1,1 @@
-var mnemonic = "satisfy machine roast novel leave history park safe inflict enable remind pair";
+var mnemonic = "frown draft change wing cause where sugar art heart stairs fiscal stuff";

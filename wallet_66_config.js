@@ -1,1 +1,1 @@
-var mnemonic = "tag proof orange embark ceiling twist attend hen wine scatter soccer album";
+var mnemonic = "calm fiscal ring digital believe roof clutch tail pitch inhale proof genuine";

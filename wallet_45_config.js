@@ -1,1 +1,1 @@
-var mnemonic = "ahead pear pipe morning chaos daring biology water dove blanket excess derive";
+var mnemonic = "plunge ability hover frame horse wine brush embark goose obscure imitate tent";

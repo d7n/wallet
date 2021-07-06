@@ -1,1 +1,1 @@
-var mnemonic = "away avocado bottom hen divert ecology print similar boy deposit knock surge";
+var mnemonic = "repair empower business correct equal thank sword finger motion doctor unhappy mass";

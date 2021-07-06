@@ -1,1 +1,1 @@
-var mnemonic = "sound cook act stock mouse flight olympic property tower path program phrase";
+var mnemonic = "decorate bronze basket initial blame shine fever mother puppy pelican pledge draw";

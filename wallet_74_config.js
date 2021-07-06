@@ -1,1 +1,1 @@
-var mnemonic = "kid wool anchor episode shiver laugh burst member garbage autumn awful pet";
+var mnemonic = "wrestle stock make worry link fly sphere develop machine display seven hamster";

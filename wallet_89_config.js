@@ -1,1 +1,1 @@
-var mnemonic = "liberty three baby genuine limb man drift guide color disagree video bonus";
+var mnemonic = "lonely version service trend bottom excuse pill grape tornado cycle mango bargain";

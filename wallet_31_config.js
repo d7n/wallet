@@ -1,1 +1,1 @@
-var mnemonic = "item volcano skate estate shoulder assault cement vintage effort salon shrimp margin";
+var mnemonic = "coach treat fatal region wagon shine lottery slim sport slush festival arctic";

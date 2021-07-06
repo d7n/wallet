@@ -1,1 +1,1 @@
-var mnemonic = "bone trophy yard vicious purity payment name cactus popular cycle chapter rich";
+var mnemonic = "cancel hint involve crouch caught cruise educate verb fall bar wagon nut";

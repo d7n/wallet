@@ -1,1 +1,1 @@
-var mnemonic = "struggle mistake erupt tiny shrug arrow property lobster unique spread tip digital";
+var mnemonic = "perfect neglect below void love come crisp sadness just year hundred unaware";

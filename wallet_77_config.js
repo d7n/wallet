@@ -1,1 +1,1 @@
-var mnemonic = "wire energy dish security smooth alpha whisper nut mango crawl bench august";
+var mnemonic = "jungle enter seven frost reopen habit baby merit mammal vote unfold actor";

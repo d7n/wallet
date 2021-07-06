@@ -1,1 +1,1 @@
-var mnemonic = "arrange coyote child improve neck false genre tobacco cross antique denial member";
+var mnemonic = "club company million paper knock flower bus stadium tape excess cry effort";

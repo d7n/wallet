@@ -1,1 +1,1 @@
-var mnemonic = "frost grab arm sail body vehicle high slush script dawn obscure duty";
+var mnemonic = "ugly believe valid wisdom awake reopen ozone fever skirt punch crater link";

@@ -1,1 +1,1 @@
-var mnemonic = "fun cupboard help adult liberty clinic gossip help universe blast nuclear fancy";
+var mnemonic = "polar scan opera salmon rally fork horror taxi crouch almost sample when";

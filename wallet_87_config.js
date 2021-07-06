@@ -1,1 +1,1 @@
-var mnemonic = "tenant glory spike photo arrive able bicycle broom broom tell stamp square";
+var mnemonic = "dwarf salmon fade audit rescue family scout stereo future dumb push taxi";

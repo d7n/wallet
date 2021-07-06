@@ -1,1 +1,1 @@
-var mnemonic = "hawk antenna fringe rose elite oil hazard sheriff parent trim coyote illegal";
+var mnemonic = "oyster silk mosquito glance jelly crisp disease dash stuff artist blur cram";

@@ -1,1 +1,1 @@
-var mnemonic = "near tower family thrive attack bubble tail kingdom orient toe wisdom cave";
+var mnemonic = "rally scatter horse easy network swear notice dolphin width inch hazard fade";
