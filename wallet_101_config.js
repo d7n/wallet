@@ -1,1 +1,1 @@
-var mnemonic = "disagree extra project six force learn sleep girl ordinary fold solve clip";
+var mnemonic = "net medal inmate build jelly ball radio faith disease wide talk consider";

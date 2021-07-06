@@ -1,1 +1,1 @@
-var mnemonic = "float green index artwork bunker head liberty one purpose sibling mouse crowd";
+var mnemonic = "wave position axis repair kiwi little room ribbon invest install illness stool";

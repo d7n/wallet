@@ -1,1 +1,1 @@
-var mnemonic = "spoil episode common private ability mind gown control ice domain jeans use";
+var mnemonic = "ready water space stumble equal steak zebra hurdle nice two hint scissors";

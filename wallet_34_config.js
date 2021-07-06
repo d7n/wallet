@@ -1,1 +1,1 @@
-var mnemonic = "find throw squirrel oven unveil cushion tornado horn situate gift suspect love";
+var mnemonic = "ridge demise cage adjust hero anger leg cushion eager exhaust uncle scare";

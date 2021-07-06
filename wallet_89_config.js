@@ -1,1 +1,1 @@
-var mnemonic = "scrap picnic question heart sight priority affair bean cry fiscal song quick";
+var mnemonic = "hockey spoil dentist ethics price legend syrup cancel fine insane vacant borrow";

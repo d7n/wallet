@@ -1,1 +1,1 @@
-var mnemonic = "youth poem bounce setup insane survey useless rebel bean sauce cute moon";
+var mnemonic = "cheap private play silent cake already heart burger celery rebuild gossip sausage";

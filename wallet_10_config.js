@@ -1,1 +1,1 @@
-var mnemonic = "erode resemble ozone sunny raise sort shove elite search silent stand hidden";
+var mnemonic = "impact tomorrow oyster pencil click judge foot will fiber hedgehog purse base";

@@ -1,1 +1,1 @@
-var mnemonic = "table glove verb embody access rough slush add page casino display reform";
+var mnemonic = "busy slush puppy area naive brush risk junk patch coil genuine tag";

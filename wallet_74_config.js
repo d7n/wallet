@@ -1,1 +1,1 @@
-var mnemonic = "coconut pencil bomb leave report quality extend merit shrimp proof kingdom social";
+var mnemonic = "salad popular baby awesome young rubber cable hurry into cave road expire";

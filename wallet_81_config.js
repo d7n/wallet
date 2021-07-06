@@ -1,1 +1,1 @@
-var mnemonic = "flower tragic oak picnic mechanic supreme seek false search dad can grape";
+var mnemonic = "melt smile roast knock jealous edit home sun grab mimic gallery cart";

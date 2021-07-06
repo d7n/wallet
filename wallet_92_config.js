@@ -1,1 +1,1 @@
-var mnemonic = "arch grocery bounce street solid cinnamon foil fatigue bar purpose earth clown";
+var mnemonic = "online play file wave chief purse slam smile master credit glad round";

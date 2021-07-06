@@ -1,1 +1,1 @@
-var mnemonic = "ozone pumpkin fatal caution vapor hip must charge filter kangaroo fee mechanic";
+var mnemonic = "rose mad own potato plastic picnic struggle arrive pole soccer mesh fox";

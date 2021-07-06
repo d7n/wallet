@@ -1,1 +1,1 @@
-var mnemonic = "century clever despair pet visit wild rookie million window coyote please extend";
+var mnemonic = "police energy panther under kiss sponsor away property cargo ordinary seat only";

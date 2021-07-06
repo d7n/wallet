@@ -1,1 +1,1 @@
-var mnemonic = "erosion exit woman volcano grit diary aspect exotic medal galaxy clinic ritual";
+var mnemonic = "around invest project short voyage basic before plug velvet pluck aunt answer";

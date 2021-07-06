@@ -1,1 +1,1 @@
-var mnemonic = "rule orient soccer start celery museum public pulse item lab loud unit";
+var mnemonic = "boy boat leave hidden dawn weapon video leave pole decrease rack gauge";

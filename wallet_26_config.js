@@ -1,1 +1,1 @@
-var mnemonic = "material grief warfare elder garbage drop object shoe enhance correct coral grit";
+var mnemonic = "crack scare erosion actress dog island feed omit boat journey trigger hip";

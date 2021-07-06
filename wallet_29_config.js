@@ -1,1 +1,1 @@
-var mnemonic = "step into annual marine aisle arrange quote purpose sample elite celery column";
+var mnemonic = "lizard motor auto exist goddess bus potato there weekend senior asthma wonder";

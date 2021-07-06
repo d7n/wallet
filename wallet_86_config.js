@@ -1,1 +1,1 @@
-var mnemonic = "napkin behave champion couple always adjust emerge sweet general print submit tiger";
+var mnemonic = "merge popular segment improve cheese assist rapid frame bronze industry entry display";

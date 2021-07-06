@@ -1,1 +1,1 @@
-var mnemonic = "member knee sign eager hobby kiwi vacuum narrow agent grid renew culture";
+var mnemonic = "bullet pattern cousin address frozen display sibling surge device witness leave file";

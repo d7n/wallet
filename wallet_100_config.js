@@ -1,1 +1,1 @@
-var mnemonic = "army neutral spray army symbol lonely still sugar cup knock zone museum";
+var mnemonic = "ranch bargain trial embody spray runway motor meadow strike neither column fitness";

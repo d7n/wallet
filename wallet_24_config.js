@@ -1,1 +1,1 @@
-var mnemonic = "erase old tennis bean appear choice elite vocal scatter hard truth have";
+var mnemonic = "cycle enroll miracle before despair arrow solve sauce aisle civil mushroom elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "long cart slogan wasp load lift decade whale exercise curve athlete dust";
+var mnemonic = "multiply sausage assume icon portion purity wish census winner cake abstract basic";

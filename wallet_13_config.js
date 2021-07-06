@@ -1,1 +1,1 @@
-var mnemonic = "miracle enemy sense drum orbit noodle snow oil siren increase piano rotate";
+var mnemonic = "cake remind panic zebra theme inquiry unfair various present solid elbow paddle";

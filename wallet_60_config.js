@@ -1,1 +1,1 @@
-var mnemonic = "height person soup cabbage permit primary ride total crash once acquire gap";
+var mnemonic = "jeans horn gift blind drop doctor soda true together slush mimic siege";

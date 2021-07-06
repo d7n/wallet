@@ -1,1 +1,1 @@
-var mnemonic = "ready sauce glue crawl school ladder fury salmon horror rare excess ranch";
+var mnemonic = "reduce around clever turtle any foot choice fold amateur drill mail belt";

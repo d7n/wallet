@@ -1,1 +1,1 @@
-var mnemonic = "situate plug spatial visit exhibit chest weasel sail endless purse stock lumber";
+var mnemonic = "spatial relax require cover weekend rifle hello perfect animal myself legend spin";

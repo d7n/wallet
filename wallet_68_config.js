@@ -1,1 +1,1 @@
-var mnemonic = "lunch tag multiply okay fatigue toward venue habit guess code effort flavor";
+var mnemonic = "crunch mandate giraffe swamp sleep shield cannon total evoke debris wolf twist";

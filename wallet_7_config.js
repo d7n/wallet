@@ -1,1 +1,1 @@
-var mnemonic = "coast exotic hero catch step alert pluck ask flag lizard oven minimum";
+var mnemonic = "return become carbon public hollow know frown rude cycle gate crane speak";

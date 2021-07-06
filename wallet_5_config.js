@@ -1,1 +1,1 @@
-var mnemonic = "term grace city purpose desert switch swamp fire inch leaf isolate nasty";
+var mnemonic = "mom across right laundry clog begin empower hundred demand genre unaware cliff";

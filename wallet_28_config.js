@@ -1,1 +1,1 @@
-var mnemonic = "rare wood require during cook dinner whip tape chest citizen grape license";
+var mnemonic = "emotion another news moral quiz typical ride chuckle large example history tired";

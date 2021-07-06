@@ -1,1 +1,1 @@
-var mnemonic = "soon menu cup impulse quality nut jeans normal bless monster camp scale";
+var mnemonic = "super discover best relax fade annual slice thrive grocery clay soldier spin";

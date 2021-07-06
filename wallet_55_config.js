@@ -1,1 +1,1 @@
-var mnemonic = "wheat view quick museum lounge tomato fat cradle boring salad goat save";
+var mnemonic = "mixed frequent bonus correct enforce device rigid mule digital dove clip advance";

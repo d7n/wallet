@@ -1,1 +1,1 @@
-var mnemonic = "artwork net paper toddler genuine laugh relax retreat allow grant broccoli arrow";
+var mnemonic = "unique sure keep develop misery erode boil front title soap feed rail";

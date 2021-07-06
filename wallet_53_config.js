@@ -1,1 +1,1 @@
-var mnemonic = "universe exhibit seat aisle adjust album text lamp obscure monkey kind bottom";
+var mnemonic = "member mesh riot already material truck gift canvas filter era climb unit";

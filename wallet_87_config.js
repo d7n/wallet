@@ -1,1 +1,1 @@
-var mnemonic = "arm learn autumn few exclude range huge dizzy remember submit prize match";
+var mnemonic = "ridge gallery mistake few party duck round certain simple document fatal canoe";

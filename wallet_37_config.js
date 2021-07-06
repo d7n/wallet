@@ -1,1 +1,1 @@
-var mnemonic = "cancel spy tent copper imitate cotton goddess wine earn cost liberty avoid";
+var mnemonic = "clever manage attract sing grief project foot trade aisle nurse parade rose";

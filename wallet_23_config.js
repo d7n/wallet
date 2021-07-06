@@ -1,1 +1,1 @@
-var mnemonic = "stomach marine connect side frost speed secret utility bright tree wagon involve";
+var mnemonic = "nation orange exist market together paper acoustic accident green library dream napkin";

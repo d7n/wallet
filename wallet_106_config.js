@@ -1,1 +1,1 @@
-var mnemonic = "topple rich young bulb brick insane winner embody wrist sun zone census";
+var mnemonic = "club rhythm hint deposit senior swarm region piece course lazy amateur empty";

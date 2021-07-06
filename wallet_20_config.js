@@ -1,1 +1,1 @@
-var mnemonic = "major elegant leaf whip elder across pizza fortune often apology border ahead";
+var mnemonic = "math wet keen culture crucial proud horror grape outdoor fire cram length";

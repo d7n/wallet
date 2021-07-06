@@ -1,1 +1,1 @@
-var mnemonic = "olive surface glide boat dignity tonight clog series federal stay session shoot";
+var mnemonic = "ugly faint dry stairs teach rule globe gravity rich glue news velvet";

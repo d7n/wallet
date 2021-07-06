@@ -1,1 +1,1 @@
-var mnemonic = "census fiscal pet tumble glimpse blue sight math penalty crush charge blouse";
+var mnemonic = "cost gallery firm market symptom culture concert hidden romance version column moon";

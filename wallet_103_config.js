@@ -1,1 +1,1 @@
-var mnemonic = "aunt erase furnace produce car west turkey spell junior sleep ancient shiver";
+var mnemonic = "best still discover exchange affair desk cake crop category rice play liar";

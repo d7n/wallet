@@ -1,1 +1,1 @@
-var mnemonic = "unlock cannon invite lunch whisper clump reduce drill message dress oyster tackle";
+var mnemonic = "used ugly canvas dilemma fragile actor start guitar grain suffer front snack";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp birth unaware island profit hip negative wheel point ability gift trip";
+var mnemonic = "sell engine ensure monkey trade quarter trial message fiction egg defense patrol";

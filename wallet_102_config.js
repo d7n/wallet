@@ -1,1 +1,1 @@
-var mnemonic = "dance butter merge dolphin skate hurdle solid end jeans reopen govern width";
+var mnemonic = "uncle sausage express picture jar museum envelope web razor cause ticket coconut";

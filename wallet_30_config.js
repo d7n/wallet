@@ -1,1 +1,1 @@
-var mnemonic = "element behind yard language sudden heart earth scene dish unfold gadget frozen";
+var mnemonic = "exhaust enhance security sample silver pumpkin finish estate beef jewel habit setup";

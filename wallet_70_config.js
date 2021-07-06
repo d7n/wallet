@@ -1,1 +1,1 @@
-var mnemonic = "ketchup tuition advice vast wedding mansion virtual grape combine turtle dawn toss";
+var mnemonic = "census fresh consider truth swing post debris hidden way copper summer nerve";

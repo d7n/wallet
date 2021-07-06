@@ -1,1 +1,1 @@
-var mnemonic = "render parade clump office cook final waste upper payment burden coach someone";
+var mnemonic = "trial hobby outdoor good junior world cluster tennis staff swallow rubber blur";

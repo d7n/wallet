@@ -1,1 +1,1 @@
-var mnemonic = "oak afraid dinosaur shift figure ozone ensure letter snack trophy record amateur";
+var mnemonic = "jar caught lobster sail unit crumble diagram express buddy globe scatter invite";

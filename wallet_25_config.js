@@ -1,1 +1,1 @@
-var mnemonic = "vehicle anxiety fence uniform endorse claw boost year rude fabric taste attend";
+var mnemonic = "rent spoil empower sing yellow reveal snake huge flag address brown february";

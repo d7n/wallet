@@ -1,1 +1,1 @@
-var mnemonic = "breeze gesture few denial sure style rather solution forum gift try shoe";
+var mnemonic = "weird gesture electric way peace monster ocean slice bullet item reunion leaf";

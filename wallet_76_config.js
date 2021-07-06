@@ -1,1 +1,1 @@
-var mnemonic = "lava affair maple topple entire prison blossom cool truth gas gauge juice";
+var mnemonic = "annual suit pumpkin diary spare child exist fence can liberty monster magnet";

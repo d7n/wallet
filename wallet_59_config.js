@@ -1,1 +1,1 @@
-var mnemonic = "custom later car hurdle thank camera reward attend draft install immense vital";
+var mnemonic = "grant carbon critic snake fiber describe brand hockey fault candy skull unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "iron drill prize fuel visual actor bomb upset grain spider blame depart";
+var mnemonic = "science evidence delay excite crunch tent magnet fatigue rural wait avoid roast";

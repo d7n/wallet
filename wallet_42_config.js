@@ -1,1 +1,1 @@
-var mnemonic = "across position silent cupboard choose peasant bring prize axis like merge wash";
+var mnemonic = "lab grace attack midnight lizard lesson sibling carry unique robust drastic goddess";

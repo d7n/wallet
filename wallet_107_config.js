@@ -1,1 +1,1 @@
-var mnemonic = "phone collect symptom blur dad bless canoe inflict member chaos clerk section";
+var mnemonic = "crew focus squirrel outer gather lumber rail man science logic donkey road";

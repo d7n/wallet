@@ -1,1 +1,1 @@
-var mnemonic = "guilt chimney team dream flip mutual fashion ignore more warrior cereal nation";
+var mnemonic = "book auto sphere floor bamboo traffic super giant cradle curve little wire";

@@ -1,1 +1,1 @@
-var mnemonic = "filter brand skill magnet push satisfy point wine oyster club unaware sunny";
+var mnemonic = "post crush income win region team during spatial mule actor awesome lecture";

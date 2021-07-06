@@ -1,1 +1,1 @@
-var mnemonic = "game law slice muffin image category notice company urge inherit marine room";
+var mnemonic = "tongue bean orange rare infant output domain magnet retire actress witness layer";

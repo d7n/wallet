@@ -1,1 +1,1 @@
-var mnemonic = "saddle profit cloud ball cluster imitate planet again bomb asset tone protect";
+var mnemonic = "armor chalk divide climb shield milk travel range empty grief release anger";

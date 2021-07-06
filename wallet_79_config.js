@@ -1,1 +1,1 @@
-var mnemonic = "resist fade dress olympic panel cup medal age mom memory math typical";
+var mnemonic = "hill foil forum demise skirt day roast click mushroom science tone flat";

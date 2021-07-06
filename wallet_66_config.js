@@ -1,1 +1,1 @@
-var mnemonic = "february vicious soon injury high slight success basic split head gossip tank";
+var mnemonic = "just clown bird page illness mixture differ camp coyote exile kiss message";

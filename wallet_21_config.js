@@ -1,1 +1,1 @@
-var mnemonic = "oxygen size theory fury excuse very episode fan genuine alcohol pottery glad";
+var mnemonic = "decrease actress pear orbit elite girl grant seat rubber motor old zone";

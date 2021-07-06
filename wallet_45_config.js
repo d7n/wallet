@@ -1,1 +1,1 @@
-var mnemonic = "choose else lounge year load hurt clock success drift conduct flame rabbit";
+var mnemonic = "uncover tenant dinner odor business core family stamp leisure arctic crumble monitor";

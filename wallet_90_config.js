@@ -1,1 +1,1 @@
-var mnemonic = "second estate silent wear act such item either avocado suggest mad voice";
+var mnemonic = "echo protect slow theory refuse recipe feed edit modify swallow solution another";

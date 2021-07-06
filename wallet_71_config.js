@@ -1,1 +1,1 @@
-var mnemonic = "sell slender harvest stage mention one truck eyebrow they notice neutral empty";
+var mnemonic = "quit tomorrow subject group yellow opera tenant scare unfair alone odor dragon";

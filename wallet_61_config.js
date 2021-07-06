@@ -1,1 +1,1 @@
-var mnemonic = "cram cream october box cook tobacco renew select stairs series hat language";
+var mnemonic = "exact merit cactus supply margin special mind budget close wife fitness impact";

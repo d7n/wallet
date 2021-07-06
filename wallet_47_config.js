@@ -1,1 +1,1 @@
-var mnemonic = "average day street mother wild warfare cotton jump photo scatter pistol problem";
+var mnemonic = "exhibit aisle mixed rug paddle bronze define blanket park raccoon problem toe";

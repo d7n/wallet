@@ -1,1 +1,1 @@
-var mnemonic = "rapid illegal disagree slush near evolve health protect unfair poem remain repeat";
+var mnemonic = "raw document island wrong uniform produce pool earth dice cargo stock brand";

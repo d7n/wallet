@@ -1,1 +1,1 @@
-var mnemonic = "card amateur vicious spirit aim chronic embody surprise jar wear midnight manual";
+var mnemonic = "business victory juice liquid vessel salmon sell taxi entry broken hybrid inner";

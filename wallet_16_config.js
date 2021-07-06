@@ -1,1 +1,1 @@
-var mnemonic = "frame next often steel aware excess popular high sugar borrow amused heavy";
+var mnemonic = "correct wish curve level sorry either mention belt stadium nurse all peace";

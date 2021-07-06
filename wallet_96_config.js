@@ -1,1 +1,1 @@
-var mnemonic = "diagram earn hedgehog senior oblige review maid dial jelly endless chalk hockey";
+var mnemonic = "hand ramp random sauce split small vocal during abstract steel swamp supreme";

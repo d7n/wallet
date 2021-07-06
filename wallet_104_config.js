@@ -1,1 +1,1 @@
-var mnemonic = "alert phrase fat dynamic permit enforce beef project multiply double glance rough";
+var mnemonic = "electric venue width destroy broom charge laundry call canvas poverty orange universe";

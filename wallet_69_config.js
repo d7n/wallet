@@ -1,1 +1,1 @@
-var mnemonic = "census crash betray emotion siege observe fame dove good beach skull garage";
+var mnemonic = "music guard badge lunch ranch upon viable glimpse ignore shrug fold again";

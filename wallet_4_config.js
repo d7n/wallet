@@ -1,1 +1,1 @@
-var mnemonic = "april february modify yellow borrow slogan nerve angle calm endorse rocket stable";
+var mnemonic = "right topic beyond odor power subway tumble film situate quantum erupt provide";

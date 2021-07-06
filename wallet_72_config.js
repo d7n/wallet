@@ -1,1 +1,1 @@
-var mnemonic = "energy battle october glad alien awake churn violin island buzz deliver dawn";
+var mnemonic = "broom joke ecology permit eight myth cart square explain quick evil length";

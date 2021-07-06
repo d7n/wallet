@@ -1,1 +1,1 @@
-var mnemonic = "true lemon other roof bachelor grab demand fragile glue admit praise dice";
+var mnemonic = "stomach legal river evidence attack water rely subject parade park episode uncle";

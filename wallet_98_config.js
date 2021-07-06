@@ -1,1 +1,1 @@
-var mnemonic = "nurse coffee deny suit seven pottery approve have drastic scissors easily forward";
+var mnemonic = "gaze crawl truth lonely thumb appear phone eyebrow basic hero lonely apple";

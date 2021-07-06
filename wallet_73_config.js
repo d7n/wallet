@@ -1,1 +1,1 @@
-var mnemonic = "melody permit attract surround gospel hole ride when nation caught balance crush";
+var mnemonic = "lady congress assault security hub acid popular bone market angry portion box";

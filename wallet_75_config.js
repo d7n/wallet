@@ -1,1 +1,1 @@
-var mnemonic = "bargain expand argue scorpion file giraffe caution claim upgrade mouse car barrel";
+var mnemonic = "neutral sword wagon north funny outdoor travel rocket dial juice banana hair";

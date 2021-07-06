@@ -1,1 +1,1 @@
-var mnemonic = "purpose loud cruise century rural hover flip account candy museum tourist smart";
+var mnemonic = "album famous curtain club enter frog twin elegant depth cigar excuse behind";

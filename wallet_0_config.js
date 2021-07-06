@@ -1,1 +1,1 @@
-var mnemonic = "scare lonely wrist photo giant steel taxi sleep dune valid dinosaur circle";
+var mnemonic = "open extend cry sugar bicycle sock second gesture shield latin sheriff circle";

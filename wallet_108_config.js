@@ -1,1 +1,1 @@
-var mnemonic = "vital profit doll kitchen else alone theory movie matrix entire rookie rubber";
+var mnemonic = "side final urban chief twice maple genius better orange damage question certain";

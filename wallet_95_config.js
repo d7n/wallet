@@ -1,1 +1,1 @@
-var mnemonic = "ethics correct train palm equip setup trigger cushion sword walk sight slight";
+var mnemonic = "snack mountain school sea velvet mystery nest combine minute provide intact change";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow retire vintage bitter grid churn toddler decorate volcano firm frozen afraid";
+var mnemonic = "pass photo patrol clap crush aerobic judge appear ordinary disagree weapon fall";

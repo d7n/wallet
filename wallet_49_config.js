@@ -1,1 +1,1 @@
-var mnemonic = "eagle deer spoon speed boat crazy time salute earth cash city emerge";
+var mnemonic = "lend tonight asthma hurry robot genuine other dust critic submit canvas feel";

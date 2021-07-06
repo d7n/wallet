@@ -1,1 +1,1 @@
-var mnemonic = "arch spike illegal menu grief riot before outer second mountain torch subject";
+var mnemonic = "thrive hazard one fiction reward decorate apart medal exact rocket candy lazy";
