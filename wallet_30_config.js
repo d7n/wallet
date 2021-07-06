@@ -1,1 +1,1 @@
-var mnemonic = "impose inject comfort man ritual tent divorce odor brave company rail lamp";
+var mnemonic = "april tuition wonder narrow antenna film couple theme brush yellow salute target";

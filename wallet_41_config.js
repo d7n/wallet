@@ -1,1 +1,1 @@
-var mnemonic = "misery current dragon tourist option slush want wonder grunt happy major warm";
+var mnemonic = "hybrid universe hidden animal perfect wet clog bounce twelve cable today hobby";

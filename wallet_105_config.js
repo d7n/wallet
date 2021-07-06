@@ -1,1 +1,1 @@
-var mnemonic = "envelope skill promote remove soap midnight eager hurry grief suspect calm tired";
+var mnemonic = "wisdom ginger accuse bus already mouse spy step salt insane trust fine";

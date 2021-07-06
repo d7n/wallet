@@ -1,1 +1,1 @@
-var mnemonic = "hard drift spend multiply radar suggest slide vendor elegant skill water clean";
+var mnemonic = "board master receive uncover else memory arctic helmet drum mushroom slim conduct";

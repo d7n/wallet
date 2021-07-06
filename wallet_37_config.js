@@ -1,1 +1,1 @@
-var mnemonic = "question advice dutch sponsor wasp dolphin stamp ready opinion motion mask word";
+var mnemonic = "dirt age possible hawk around vehicle pulp old update bamboo plastic crystal";

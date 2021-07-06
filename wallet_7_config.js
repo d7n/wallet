@@ -1,1 +1,1 @@
-var mnemonic = "guess various palace position awkward real grocery scout stay warm also excess";
+var mnemonic = "buddy jar album churn hover member soap stairs audit minor cloud cream";

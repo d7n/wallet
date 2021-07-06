@@ -1,1 +1,1 @@
-var mnemonic = "good across original access bicycle foam group mad regret initial water erupt";
+var mnemonic = "where mixture angle struggle child retreat cycle author evidence empower collect silk";

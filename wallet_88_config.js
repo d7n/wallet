@@ -1,1 +1,1 @@
-var mnemonic = "august rack biology repair swear bring exile leopard eager muffin crush long";
+var mnemonic = "foster deal beef camera spatial essay arrive grab weekend cricket tobacco remind";

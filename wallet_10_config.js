@@ -1,1 +1,1 @@
-var mnemonic = "slender praise swarm myth sense hill dog lock ocean alone expand moral";
+var mnemonic = "either winter west copy wrap seek lunch movie income illness protect table";

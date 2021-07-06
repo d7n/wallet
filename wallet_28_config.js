@@ -1,1 +1,1 @@
-var mnemonic = "will scout you solve intact cart super leisure want twice arrange any";
+var mnemonic = "network only amount outdoor order grant business cram inmate submit tilt dry";

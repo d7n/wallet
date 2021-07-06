@@ -1,1 +1,1 @@
-var mnemonic = "decorate churn friend error master bus raccoon quote sniff unfold census depth";
+var mnemonic = "uphold wife luggage license silver hotel plug jewel mother add element excite";

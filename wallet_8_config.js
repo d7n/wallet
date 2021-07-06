@@ -1,1 +1,1 @@
-var mnemonic = "surround airport orient forget autumn birth raccoon radar parade feel sponsor reopen";
+var mnemonic = "recall promote neutral vapor buzz shallow crawl movie drastic tilt display misery";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza local drop wise group surprise energy armed indoor glue lava wasp";
+var mnemonic = "food produce huge bulb chapter fun invite ghost yellow they leopard raccoon";

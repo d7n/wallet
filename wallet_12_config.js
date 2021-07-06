@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur grace answer wall arrow ramp moral capital gather autumn access bronze";
+var mnemonic = "snap select juice embrace fancy rural napkin yellow prevent boost concert dizzy";

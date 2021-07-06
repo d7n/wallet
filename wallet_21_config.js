@@ -1,1 +1,1 @@
-var mnemonic = "cushion office concert earth summer lyrics anxiety chase actual exhibit this matter";
+var mnemonic = "despair screen broken large rain cake slush enjoy figure comfort half pear";

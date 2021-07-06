@@ -1,1 +1,1 @@
-var mnemonic = "inflict camera argue invite able fun above two enter modify asset rival";
+var mnemonic = "diesel text direct squeeze quit midnight hen marble fee horn shrug solid";

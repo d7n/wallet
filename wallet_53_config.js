@@ -1,1 +1,1 @@
-var mnemonic = "tourist side ripple solid sea quality hunt wish strong comic response cushion";
+var mnemonic = "chest sniff scatter olympic wine staff walk code pass salon legal wonder";

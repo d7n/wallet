@@ -1,1 +1,1 @@
-var mnemonic = "blanket inside current carpet treat sing mutual repair umbrella display dress steak";
+var mnemonic = "onion install goat cook make mirror brain cousin swift coach tent happy";

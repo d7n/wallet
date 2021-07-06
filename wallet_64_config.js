@@ -1,1 +1,1 @@
-var mnemonic = "apology duty used blade tumble produce gravity genre action fringe ankle auction";
+var mnemonic = "tray wrist benefit question shop gold rather captain captain yellow blur elephant";

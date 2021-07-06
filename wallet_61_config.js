@@ -1,1 +1,1 @@
-var mnemonic = "canal chunk diamond chair roast dice defense embark claim around bid wine";
+var mnemonic = "hurt link category defy nation climb spread online rhythm cute athlete patrol";

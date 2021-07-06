@@ -1,1 +1,1 @@
-var mnemonic = "portion ladder whale core doll smile climb spend black ocean report better";
+var mnemonic = "hen cycle rough ankle sniff clinic bird swap interest trash ride crucial";

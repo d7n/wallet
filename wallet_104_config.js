@@ -1,1 +1,1 @@
-var mnemonic = "cheap sad empower note copper client weapon boil cream mechanic setup muffin";
+var mnemonic = "panda garlic amateur suffer toddler wagon lumber ghost open grid asthma leg";

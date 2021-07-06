@@ -1,1 +1,1 @@
-var mnemonic = "neutral gift link repeat cram arrow arrange hire second stage patient girl";
+var mnemonic = "attract page alcohol salt traffic diesel million rack dash renew advice task";

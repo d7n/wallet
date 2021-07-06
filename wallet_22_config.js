@@ -1,1 +1,1 @@
-var mnemonic = "hand since patch hen shoulder alter task charge hill now pass goose";
+var mnemonic = "crawl oval dial model road lawn lounge remind crisp foot lunch exhaust";

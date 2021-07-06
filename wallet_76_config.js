@@ -1,1 +1,1 @@
-var mnemonic = "couch also perfect gloom race bus lemon village worry turkey habit goddess";
+var mnemonic = "pigeon issue reflect abstract flush involve quick erosion walnut wheat mule express";

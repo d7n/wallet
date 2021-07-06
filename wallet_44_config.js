@@ -1,1 +1,1 @@
-var mnemonic = "course cloth effort juice now veteran whisper razor volcano story chef flee";
+var mnemonic = "lumber giggle ball mammal gain fat toss close onion exercise clap garage";

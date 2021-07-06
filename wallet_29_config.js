@@ -1,1 +1,1 @@
-var mnemonic = "crumble family opera boring position same cream intact dance glory spring thrive";
+var mnemonic = "expire usual absurd belt forum eye hat dream unhappy evoke knee session";

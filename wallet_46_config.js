@@ -1,1 +1,1 @@
-var mnemonic = "gallery bamboo spy slogan excite vendor kitchen yellow piece pitch furnace survey";
+var mnemonic = "expand grow mirror ice virus van pistol kit impact immense remember endless";

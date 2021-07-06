@@ -1,1 +1,1 @@
-var mnemonic = "hold naive unveil ocean liquid sister basket cheap title business giant gravity";
+var mnemonic = "liquid sock rotate lava oval spatial couch drink humor library ticket session";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper review hurt exact file floor profit edge list confirm bachelor task";
+var mnemonic = "bar front later only bird crater chronic garlic flame submit relief cost";

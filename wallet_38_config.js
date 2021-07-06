@@ -1,1 +1,1 @@
-var mnemonic = "genuine borrow visit gold project combine arm sure blouse dash bundle jeans";
+var mnemonic = "kit merge unknown tunnel silver dragon friend deny radar wage baby under";

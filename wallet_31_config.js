@@ -1,1 +1,1 @@
-var mnemonic = "pluck poet fringe color depend ranch style wheel baby cry tongue season";
+var mnemonic = "auto purity wish vague wink venture filter youth skill sun sample leg";

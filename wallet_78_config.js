@@ -1,1 +1,1 @@
-var mnemonic = "apart wash doll process weird dad hunt chunk leg supreme march ticket";
+var mnemonic = "behind column agent river member dynamic best sketch tortoise patch hobby expose";

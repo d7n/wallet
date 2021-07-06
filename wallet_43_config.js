@@ -1,1 +1,1 @@
-var mnemonic = "relief plug cube venture faculty bicycle swap elephant below hub mix lounge";
+var mnemonic = "spot pride laptop young lemon afraid tail outside chunk figure insane frequent";

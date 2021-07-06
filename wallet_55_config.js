@@ -1,1 +1,1 @@
-var mnemonic = "total spoil people hobby mystery notice narrow angle sniff toy strong steel";
+var mnemonic = "pole length install toward voice accuse labor history tree group angle sure";

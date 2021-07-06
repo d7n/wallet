@@ -1,1 +1,1 @@
-var mnemonic = "rabbit connect boat satisfy giant penalty wave crumble orchard young bulk catch";
+var mnemonic = "relief satisfy maple bullet candy evoke assault uphold wing combine maple soda";

@@ -1,1 +1,1 @@
-var mnemonic = "scene art bamboo alcohol nephew camera squirrel hurry indicate ozone pen plug";
+var mnemonic = "focus distance beef detect hood laptop confirm scheme perfect crush faculty defy";

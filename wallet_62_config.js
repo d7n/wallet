@@ -1,1 +1,1 @@
-var mnemonic = "nest apology emerge regret decade safe fiscal resemble permit judge arrest alter";
+var mnemonic = "visit short taste rescue pride aunt business movie olive cloth twin manage";

@@ -1,1 +1,1 @@
-var mnemonic = "royal mercy raise grain imitate economy obtain ramp unveil motion enemy tuna";
+var mnemonic = "multiply great dentist bird suffer topic penalty castle wing story tool actor";

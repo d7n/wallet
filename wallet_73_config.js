@@ -1,1 +1,1 @@
-var mnemonic = "topple decorate trigger fashion violin office middle inner spawn mosquito recipe quantum";
+var mnemonic = "dinosaur marriage stomach train mushroom focus reunion high already start disagree hood";

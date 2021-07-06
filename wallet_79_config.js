@@ -1,1 +1,1 @@
-var mnemonic = "shine shy lake where cover merit conduct junior eyebrow cinnamon post seek";
+var mnemonic = "gown tuna ugly crouch ladder grass energy plastic genius panel front entry";

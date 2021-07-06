@@ -1,1 +1,1 @@
-var mnemonic = "clay border lottery treat chair lottery cross brain whip know surround equal";
+var mnemonic = "wedding subway advance pyramid hole thought clutch six thing property book crunch";

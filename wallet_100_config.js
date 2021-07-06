@@ -1,1 +1,1 @@
-var mnemonic = "series soft ensure cradle bicycle bone chase tongue audit head price inform";
+var mnemonic = "clerk man lawn meadow sweet second rebuild chat gospel logic moment exercise";

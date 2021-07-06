@@ -1,1 +1,1 @@
-var mnemonic = "throw accuse eager audit resist genuine tribe despair choice diagram volcano train";
+var mnemonic = "grape wrap fire tooth meadow ramp scatter cage library kiwi oak april";

@@ -1,1 +1,1 @@
-var mnemonic = "theory buzz cycle ceiling surprise endorse used witness spare source tag exercise";
+var mnemonic = "rose review mother breeze pledge swim aerobic behind head salmon radar joy";

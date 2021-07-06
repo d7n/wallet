@@ -1,1 +1,1 @@
-var mnemonic = "such banana dignity ugly twenty scout century when grunt office avoid surge";
+var mnemonic = "welcome only recipe federal slender short change organ much bitter metal vast";

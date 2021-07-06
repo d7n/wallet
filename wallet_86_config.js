@@ -1,1 +1,1 @@
-var mnemonic = "blossom dynamic laundry pear innocent jar about combine rather select egg raw";
+var mnemonic = "uncle subway post rare jazz kitchen monitor hood atom trigger panel lobster";

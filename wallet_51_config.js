@@ -1,1 +1,1 @@
-var mnemonic = "vote seek tell aerobic copy slice rough crumble vocal matter lemon pause";
+var mnemonic = "employ purchase ghost alpha entire catalog hockey mimic rain company hotel decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer physical fringe there marble bone learn spin consider total cup solar";
+var mnemonic = "cotton gallery lottery moon depth prize doctor basket stable nut coconut remember";

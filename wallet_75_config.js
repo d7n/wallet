@@ -1,1 +1,1 @@
-var mnemonic = "weapon damp crisp goddess robust boil steak alert silk south okay robust";
+var mnemonic = "region food kick flavor salt space oxygen short mango under top lottery";

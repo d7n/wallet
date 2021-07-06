@@ -1,1 +1,1 @@
-var mnemonic = "belt inform onion mobile people meat ring neck uncle toward shield charge";
+var mnemonic = "dignity front gain donor spot pencil top monkey broccoli bid casual ivory";

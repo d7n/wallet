@@ -1,1 +1,1 @@
-var mnemonic = "piano tragic combine lonely advance kick route mystery naive muffin total myself";
+var mnemonic = "actor august pride sword during alert bitter garden doll pull wink boat";

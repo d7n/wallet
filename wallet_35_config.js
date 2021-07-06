@@ -1,1 +1,1 @@
-var mnemonic = "pair tackle gadget fee scout cruel liberty board wisdom cluster join jazz";
+var mnemonic = "employ early sibling tower file post leave enact raw uniform torch double";

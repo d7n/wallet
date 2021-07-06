@@ -1,1 +1,1 @@
-var mnemonic = "smile rally garbage era leopard trap spoil city harvest add barrel lottery";
+var mnemonic = "box swing talent muffin nurse charge damp initial nerve nut plastic young";

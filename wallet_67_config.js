@@ -1,1 +1,1 @@
-var mnemonic = "whale sustain umbrella action twenty reason make sustain senior guard loyal dash";
+var mnemonic = "midnight answer flavor problem favorite clay gold spend stem angry flight box";

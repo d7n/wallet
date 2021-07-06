@@ -1,1 +1,1 @@
-var mnemonic = "fault daring prepare proud output stomach elegant fame soul farm flush reject";
+var mnemonic = "grit short burden quarter mobile client safe aunt early pistol fresh quality";

@@ -1,1 +1,1 @@
-var mnemonic = "system bid water bean admit torch spring course world join bottom legal";
+var mnemonic = "grass omit client tide believe pumpkin make keen sad wave first puppy";

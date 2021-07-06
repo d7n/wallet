@@ -1,1 +1,1 @@
-var mnemonic = "same glow eye medal fossil enlist subway security wide gather park twelve";
+var mnemonic = "cry soldier size option tilt bird wear tired marble blanket panther crash";

@@ -1,1 +1,1 @@
-var mnemonic = "joy couple govern room reunion potato math skirt amateur glance good boat";
+var mnemonic = "crumble defy bless assault silent pulse other symptom shrug aspect supply unfair";

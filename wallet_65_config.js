@@ -1,1 +1,1 @@
-var mnemonic = "prevent board injury write primary auto scatter potato pet lumber chaos fame";
+var mnemonic = "accuse lawsuit confirm attend adult recipe pear extend potato will hurry rhythm";

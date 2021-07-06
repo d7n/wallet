@@ -1,1 +1,1 @@
-var mnemonic = "quarter pilot vessel sun foot health tired cancel primary kingdom focus chuckle";
+var mnemonic = "electric patient crowd bronze digital correct demand orange health round hybrid evolve";

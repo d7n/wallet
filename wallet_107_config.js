@@ -1,1 +1,1 @@
-var mnemonic = "entry betray denial insane rescue fix prepare drip album awake virus degree";
+var mnemonic = "indicate educate clog track gate fire cash during behind siren shaft model";

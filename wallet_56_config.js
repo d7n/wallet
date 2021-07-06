@@ -1,1 +1,1 @@
-var mnemonic = "thing live lawn desert used fish whale town noise learn aware dynamic";
+var mnemonic = "permit kiss spike vault unhappy various critic pave orbit spider trip trumpet";

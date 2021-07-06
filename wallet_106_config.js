@@ -1,1 +1,1 @@
-var mnemonic = "island rain bean initial ocean neglect shuffle material move find naive warrior";
+var mnemonic = "involve dress eager evil eyebrow moral champion memory decide inherit engine text";

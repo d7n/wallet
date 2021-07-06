@@ -1,1 +1,1 @@
-var mnemonic = "cream sight inhale surprise doctor motor spoil auto forget release jeans deny";
+var mnemonic = "quiz solar kitten jewel wrap final nerve sugar horror desert trick alter";

@@ -1,1 +1,1 @@
-var mnemonic = "slush young salute flip can dirt inject remember brain virtual protect repair";
+var mnemonic = "stumble code cattle elbow gas orient again evolve gesture legend figure badge";

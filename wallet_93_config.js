@@ -1,1 +1,1 @@
-var mnemonic = "tomato excuse disease valve weird mistake tray invite danger range refuse coral";
+var mnemonic = "used together tooth replace angry stamp rack shoulder penalty rack fresh corn";

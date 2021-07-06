@@ -1,1 +1,1 @@
-var mnemonic = "orbit obey fresh utility urban clay country sense infant scout predict small";
+var mnemonic = "mercy erode foam rival trade dog case coast dumb grit spy primary";

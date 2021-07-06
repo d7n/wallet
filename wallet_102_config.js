@@ -1,1 +1,1 @@
-var mnemonic = "manual obvious pair regret choose annual deny pattern gospel number adjust sniff";
+var mnemonic = "about creek sphere diesel bicycle flight column prosper fringe excess warfare hard";

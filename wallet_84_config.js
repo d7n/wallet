@@ -1,1 +1,1 @@
-var mnemonic = "thumb season champion sphere else prepare candy close cinnamon option purse pulse";
+var mnemonic = "domain mechanic soap fancy art maple whale patrol truly hospital illegal file";

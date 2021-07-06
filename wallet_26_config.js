@@ -1,1 +1,1 @@
-var mnemonic = "share ostrich prize scatter assume item hedgehog earth gallery frown rhythm creek";
+var mnemonic = "hire cactus father lunar become alien half spell crater use business relief";

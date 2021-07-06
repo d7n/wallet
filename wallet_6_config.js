@@ -1,1 +1,1 @@
-var mnemonic = "kid ginger scheme average olympic artefact siege source blur popular arch unique";
+var mnemonic = "cement weapon wagon survey depth gain reopen uniform food venture fold early";

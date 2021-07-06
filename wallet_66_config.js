@@ -1,1 +1,1 @@
-var mnemonic = "organ run sight aerobic piece tell license muscle warfare mistake alter liberty";
+var mnemonic = "congress husband pole same vapor note tragic metal inject notice boat cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "result private peanut burden walnut secret subject confirm plastic version immune life";
+var mnemonic = "august already will update mixed vocal false latin tube above pave ocean";

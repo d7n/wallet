@@ -1,1 +1,1 @@
-var mnemonic = "amused license plug claim resist mobile slim call naive syrup doll choice";
+var mnemonic = "base honey wet opera safe ceiling summer alien eyebrow unlock local behave";

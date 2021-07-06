@@ -1,1 +1,1 @@
-var mnemonic = "kingdom chat author prepare answer frost cage suffer mammal deliver tenant blush";
+var mnemonic = "august stamp adapt check heart audit able age similar rifle quarter turkey";

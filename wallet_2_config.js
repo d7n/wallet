@@ -1,1 +1,1 @@
-var mnemonic = "popular find armed force call scout rapid cover unhappy skin drop bag";
+var mnemonic = "crash layer robot lava future magic recipe cushion pear rule excuse decline";

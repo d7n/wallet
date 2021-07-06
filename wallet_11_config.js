@@ -1,1 +1,1 @@
-var mnemonic = "trial narrow vocal pottery few swamp lesson job junk tongue hello private";
+var mnemonic = "horn knee myself gloom fringe over horse swear identify weekend increase noise";

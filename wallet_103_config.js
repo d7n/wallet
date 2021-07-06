@@ -1,1 +1,1 @@
-var mnemonic = "food top occur neck slight play barely neither ten cradle volume hand";
+var mnemonic = "public enlist edit atom faith giraffe salon celery oblige universe butter rival";

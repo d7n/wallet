@@ -1,1 +1,1 @@
-var mnemonic = "boost detect when two alert census fault fat rural west giant grab";
+var mnemonic = "auction glad false dream second rhythm odor husband fork scrap cream canal";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor donate know hover unusual work cream master add cactus useful pill";
+var mnemonic = "educate torch rose anchor dish sell arena two rather arch impact draw";

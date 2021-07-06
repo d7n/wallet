@@ -1,1 +1,1 @@
-var mnemonic = "anxiety boss ordinary beach electric category machine garbage list tribe crumble flock";
+var mnemonic = "mail useful virtual sure speak nut stove oven blast trade ask fish";

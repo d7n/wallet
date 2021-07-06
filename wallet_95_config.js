@@ -1,1 +1,1 @@
-var mnemonic = "else casual popular fortune laugh major antenna jewel farm goddess beef ill";
+var mnemonic = "forest return super video drink finish explain limit fit close ribbon fetch";

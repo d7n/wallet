@@ -1,1 +1,1 @@
-var mnemonic = "multiply weekend giant poem husband random panda rhythm bulb segment habit library";
+var mnemonic = "green scheme all mechanic frown strike lonely hen jazz narrow bike chaos";

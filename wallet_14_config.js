@@ -1,1 +1,1 @@
-var mnemonic = "want thunder need size jeans story home pitch supply cover trap must";
+var mnemonic = "tissue unlock toilet alien vapor review pretty lift chapter casual add thrive";

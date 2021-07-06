@@ -1,1 +1,1 @@
-var mnemonic = "scorpion taxi car prevent bounce middle assist benefit when later guard awesome";
+var mnemonic = "ceiling metal deal intact hungry defense vendor banana room wink lyrics history";

@@ -1,1 +1,1 @@
-var mnemonic = "brown small weather bamboo inflict adapt exhaust way rookie scale slam vocal";
+var mnemonic = "tell replace anger avocado assault mobile wash drum brush awkward distance climb";

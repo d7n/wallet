@@ -1,1 +1,1 @@
-var mnemonic = "fashion coconut tomato recycle hockey grape fame thunder smile anger shiver file";
+var mnemonic = "coach letter reveal can day educate picnic wrong theory never around exclude";

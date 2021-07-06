@@ -1,1 +1,1 @@
-var mnemonic = "another summer spike icon nation case vintage drop elite resemble all light";
+var mnemonic = "screen chair popular million jump toe owner balance story exhaust borrow hazard";

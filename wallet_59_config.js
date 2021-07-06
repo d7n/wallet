@@ -1,1 +1,1 @@
-var mnemonic = "lake jeans detail lion high orange miracle feature cherry boil mimic march";
+var mnemonic = "stamp limb genius super maze broken fossil ring gather claw alert human";

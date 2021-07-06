@@ -1,1 +1,1 @@
-var mnemonic = "acid erase school bar detect afford brown conduct make siren summer mule";
+var mnemonic = "alpha object pelican bike width cluster draw torch zone jewel title deliver";

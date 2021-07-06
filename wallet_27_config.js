@@ -1,1 +1,1 @@
-var mnemonic = "retreat album pill cup mushroom skate salute nation need crystal floor increase";
+var mnemonic = "poverty lyrics mask tone claw demise gravity drum pink jelly strategy notice";

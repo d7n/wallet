@@ -1,1 +1,1 @@
-var mnemonic = "equal toy analyst surround cradle alien spatial spy grant biology absurd unveil";
+var mnemonic = "plug game twin round wolf nice fury shop soldier weapon they opera";

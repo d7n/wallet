@@ -1,1 +1,1 @@
-var mnemonic = "faculty daughter wine rigid buyer chest tide acid tiger exit place vanish";
+var mnemonic = "glove trash carbon across reopen mushroom faculty thing coyote lizard cool taste";
