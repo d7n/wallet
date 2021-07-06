@@ -1,1 +1,1 @@
-var mnemonic = "catalog congress excuse happy better tattoo senior plunge neck sustain chef spot";
+var mnemonic = "vicious enjoy letter spray title throw bridge video suggest attract bicycle night";

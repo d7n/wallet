@@ -1,1 +1,1 @@
-var mnemonic = "whale stool fever latin iron track anger potato law section math sweet";
+var mnemonic = "upgrade subway cloth lesson vendor observe obscure nose chase special twelve vessel";

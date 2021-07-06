@@ -1,1 +1,1 @@
-var mnemonic = "school minimum catch soldier during cradle slush abuse wrong group narrow boy";
+var mnemonic = "assault crush panda conduct already hope mango forward crazy good rack metal";

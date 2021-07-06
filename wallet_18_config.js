@@ -1,1 +1,1 @@
-var mnemonic = "chunk leopard tortoise hazard expire rapid dog alley alarm sister increase love";
+var mnemonic = "path settle naive easily dust antique chalk burger ice pudding chest nature";

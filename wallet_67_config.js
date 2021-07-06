@@ -1,1 +1,1 @@
-var mnemonic = "oblige slab nephew aunt horror field steel endorse frequent exhibit cradle armor";
+var mnemonic = "chunk ranch strike teach slab power dwarf mushroom ball fork before welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "bid opinion pen mammal glare slush sort require camp mosquito hold actual";
+var mnemonic = "flee catalog proof festival again biology usual mixture couple trust elegant rocket";

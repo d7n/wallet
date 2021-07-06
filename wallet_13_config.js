@@ -1,1 +1,1 @@
-var mnemonic = "someone silly when over assault chimney source verb lottery nominee legal promote";
+var mnemonic = "capital armor relief column butter tiny midnight suffer budget soul total blue";

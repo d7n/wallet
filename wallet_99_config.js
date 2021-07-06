@@ -1,1 +1,1 @@
-var mnemonic = "hospital print this forum argue praise firm symptom shy check boring dish";
+var mnemonic = "fade seek amateur decade soup skull tobacco state tape oxygen motor ketchup";

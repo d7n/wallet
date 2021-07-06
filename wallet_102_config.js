@@ -1,1 +1,1 @@
-var mnemonic = "comfort horn piece similar snap corn word volume disorder hour measure usual";
+var mnemonic = "hollow must pink crisp soon west baby spot august negative scare abstract";

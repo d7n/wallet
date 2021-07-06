@@ -1,1 +1,1 @@
-var mnemonic = "panic lobster fiction unit scrub future interest honey when salad topple kind";
+var mnemonic = "clean office exclude visa random jungle gap curve sport vanish very fish";

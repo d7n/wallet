@@ -1,1 +1,1 @@
-var mnemonic = "helmet provide profit joke brief undo lab project mountain mountain control eagle";
+var mnemonic = "scheme banana genuine find bargain vanish cabbage what shaft fame empty embark";

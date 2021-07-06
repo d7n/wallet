@@ -1,1 +1,1 @@
-var mnemonic = "tribe deposit protect arrow door correct six wreck radar emerge gadget frown";
+var mnemonic = "wife call borrow orchard muscle attack lecture teach mean hamster chief pact";

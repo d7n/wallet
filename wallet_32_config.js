@@ -1,1 +1,1 @@
-var mnemonic = "field flat embody dream oval doctor page aisle pact column devote indoor";
+var mnemonic = "oil skill hero ivory nephew adult repeat maximum excite slender volume option";

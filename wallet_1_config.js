@@ -1,1 +1,1 @@
-var mnemonic = "edit unfair approve quality often card accident canal bright grape must stumble";
+var mnemonic = "prevent foil when order foam dove theory rabbit effort spawn crime prosper";

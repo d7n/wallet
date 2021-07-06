@@ -1,1 +1,1 @@
-var mnemonic = "surge seed robot ghost verify agree nasty oven switch flush pelican sunny";
+var mnemonic = "surface glory figure grief net wasp filter never alpha cheese use retire";

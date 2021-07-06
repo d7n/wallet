@@ -1,1 +1,1 @@
-var mnemonic = "winner fog organ stable tattoo grit release cram depart fine sword where";
+var mnemonic = "trigger route lemon later any replace dose remember keep arch vibrant ball";

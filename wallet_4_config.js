@@ -1,1 +1,1 @@
-var mnemonic = "include sustain february flower print bird develop cabbage just dwarf will near";
+var mnemonic = "holiday hotel wheat boy taste lady soft mixture orient glance salad day";

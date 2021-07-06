@@ -1,1 +1,1 @@
-var mnemonic = "cake document grow model toilet document outdoor exchange hidden assault garment sight";
+var mnemonic = "usage denial grace latin indicate use pipe define absorb brother lift clap";

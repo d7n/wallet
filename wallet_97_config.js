@@ -1,1 +1,1 @@
-var mnemonic = "charge blouse game animal remember sick confirm inherit weasel student blur various";
+var mnemonic = "little chicken warfare reflect pistol avocado struggle galaxy ecology rural defense scatter";

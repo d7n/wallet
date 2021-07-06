@@ -1,1 +1,1 @@
-var mnemonic = "talk approve become garlic nice census alarm huge wolf pyramid funny size";
+var mnemonic = "figure title silent exclude burst express organ fire orphan caution token urge";

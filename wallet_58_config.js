@@ -1,1 +1,1 @@
-var mnemonic = "rack fortune erode camera film mobile air unit access panther connect always";
+var mnemonic = "surface trim runway glove dream among eyebrow powder banner expose hint begin";

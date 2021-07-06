@@ -1,1 +1,1 @@
-var mnemonic = "rhythm relief page vacuum tissue apple bone cruel spider sea chimney surge";
+var mnemonic = "style improve vocal perfect cake blue domain bind prefer source situate document";

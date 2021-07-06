@@ -1,1 +1,1 @@
-var mnemonic = "fatal forget prefer little chaos foil noble fancy crowd ocean butter loan";
+var mnemonic = "before include half area open auction law picture tonight polar humor strong";

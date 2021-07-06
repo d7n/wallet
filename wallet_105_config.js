@@ -1,1 +1,1 @@
-var mnemonic = "guitar genius latin smart spice pupil review asthma poet silk family echo";
+var mnemonic = "bamboo price sponsor clump crowd size height render lonely pilot someone hazard";

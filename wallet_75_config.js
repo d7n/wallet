@@ -1,1 +1,1 @@
-var mnemonic = "filter muscle across enter bread smart sleep primary employ pioneer impact road";
+var mnemonic = "valley city breeze illegal what share canyon regret tag fence oven desert";

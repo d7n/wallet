@@ -1,1 +1,1 @@
-var mnemonic = "hand sphere sadness forget lesson expand cheese prison satisfy saddle shoulder diesel";
+var mnemonic = "family cram collect gift claim space asset globe smile share cabin street";

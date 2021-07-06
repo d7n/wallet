@@ -1,1 +1,1 @@
-var mnemonic = "rally stomach display surprise tiny blade rally amused plunge speed idea sport";
+var mnemonic = "solution arrow mirror chief drip vanish child abstract tunnel purity stool lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "category dizzy force waste fossil forum what grape shine clap foot health";
+var mnemonic = "lounge planet fragile ability tragic dentist elephant ability play key meat brick";

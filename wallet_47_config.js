@@ -1,1 +1,1 @@
-var mnemonic = "comfort cushion dinosaur clock six olympic remember couch number portion fitness fortune";
+var mnemonic = "claim smoke window employ call winner banana twenty female rescue wood elder";

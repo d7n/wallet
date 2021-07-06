@@ -1,1 +1,1 @@
-var mnemonic = "remove purity pulse flash document dwarf average symptom entire circle nasty fortune";
+var mnemonic = "agree harbor thought give torch fork detect mosquito leg spell twelve object";

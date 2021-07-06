@@ -1,1 +1,1 @@
-var mnemonic = "family quality liquid plunge crime awful tunnel impulse acquire plate brand harbor";
+var mnemonic = "shiver chapter pepper put enlist genuine soul stomach upgrade bullet second attract";

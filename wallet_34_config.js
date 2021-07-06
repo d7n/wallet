@@ -1,1 +1,1 @@
-var mnemonic = "three rookie apple sea text absorb voice clay oppose river buddy tomorrow";
+var mnemonic = "meat blanket goat turkey volcano novel ski capital length anger repair sauce";

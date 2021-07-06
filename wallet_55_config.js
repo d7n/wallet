@@ -1,1 +1,1 @@
-var mnemonic = "guide avocado bless winter pink suit find place play inspire salon draft";
+var mnemonic = "cattle used rural canoe palm health amazing birth correct off prepare fox";

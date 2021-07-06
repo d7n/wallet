@@ -1,1 +1,1 @@
-var mnemonic = "coil park riot burden victory nest cereal angry walnut captain treat task";
+var mnemonic = "razor setup thought business news bicycle else tray language absent sea gun";

@@ -1,1 +1,1 @@
-var mnemonic = "relief benefit autumn acquire solid uniform celery pause nasty idea have print";
+var mnemonic = "dune organ photo actual snap fly tuition amused grass obtain rude have";

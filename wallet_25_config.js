@@ -1,1 +1,1 @@
-var mnemonic = "board day only topic blast indoor tenant brown online custom vacuum employ";
+var mnemonic = "lift scale brick couch curious coin label shoulder decade mind almost warfare";

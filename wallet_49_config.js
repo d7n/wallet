@@ -1,1 +1,1 @@
-var mnemonic = "want snake stairs hope relief broccoli dirt between sight youth basket fiction";
+var mnemonic = "cry dwarf gown effort wealth beach tennis arrow oyster again raw wealth";

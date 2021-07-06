@@ -1,1 +1,1 @@
-var mnemonic = "faith opera situate welcome casual bridge feature before poem meadow arena never";
+var mnemonic = "fox ivory because canal wrap setup galaxy melt observe reduce pudding cactus";

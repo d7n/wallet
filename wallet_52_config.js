@@ -1,1 +1,1 @@
-var mnemonic = "tower enter click unaware judge proud brick stamp hair occur disagree health";
+var mnemonic = "chief crawl damage car jacket century pipe thing quote because relief anchor";

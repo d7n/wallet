@@ -1,1 +1,1 @@
-var mnemonic = "milk hidden jungle right elephant category sudden year habit wine critic wet";
+var mnemonic = "purse lawsuit pencil chaos margin shiver zoo captain hold crunch taste grain";

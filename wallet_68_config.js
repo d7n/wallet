@@ -1,1 +1,1 @@
-var mnemonic = "member embrace toe express river endless extra belt minimum female charge size";
+var mnemonic = "return pony family trophy mesh zero treat diet opera swear torch lab";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger secret close permit earth mention solar thought depend hair now egg";
+var mnemonic = "gentle caught right embody okay island huge list cycle visa sense tomorrow";

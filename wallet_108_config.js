@@ -1,1 +1,1 @@
-var mnemonic = "motor predict hard original mobile race game language apart leg capital width";
+var mnemonic = "area century demand live sad federal diesel mosquito chest decline corn scissors";

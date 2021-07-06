@@ -1,1 +1,1 @@
-var mnemonic = "round piece found rain today clean image grocery crack garden shiver state";
+var mnemonic = "stone apart devote ketchup render yard aspect task advice farm educate fortune";

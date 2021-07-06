@@ -1,1 +1,1 @@
-var mnemonic = "lecture system stomach birth start camera trip tube erase radar father talk";
+var mnemonic = "push review hover fire jungle worry buyer dumb play misery hood since";

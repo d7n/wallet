@@ -1,1 +1,1 @@
-var mnemonic = "burger accuse august carbon lens pioneer leaf fire inspire pull real okay";
+var mnemonic = "riot slow detail broccoli fossil cereal spin fine lounge bargain saddle evidence";

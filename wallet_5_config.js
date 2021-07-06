@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tooth razor alley kangaroo spice eight neutral dance blur athlete regret";
+var mnemonic = "mom volume kiwi talent cigar clutch must throw laptop between oil bread";

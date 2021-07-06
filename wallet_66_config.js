@@ -1,1 +1,1 @@
-var mnemonic = "dance sun fine couple science onion category avocado bracket nurse link smart";
+var mnemonic = "festival caution jeans afford repeat board solution insane toilet galaxy sand reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "grass dragon round name protect scan yard process solution sadness churn banner";
+var mnemonic = "warm able broken drill bottom pistol polar fork scan meat library element";

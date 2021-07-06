@@ -1,1 +1,1 @@
-var mnemonic = "family roast frame cycle glad artefact gown fury bring siege always scissors";
+var mnemonic = "fossil plunge sentence million ghost attend garment obscure course moon soap equal";

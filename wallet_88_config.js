@@ -1,1 +1,1 @@
-var mnemonic = "one elite promote release sadness scare suffer despair fantasy supreme blade visa";
+var mnemonic = "silly real twelve sphere check grace crunch post diagram paper detail evidence";

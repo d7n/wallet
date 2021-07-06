@@ -1,1 +1,1 @@
-var mnemonic = "frog about patch elevator portion found toy track love drip brass naive";
+var mnemonic = "close weasel solve pizza floor end morning gravity kitten plunge tree range";

@@ -1,1 +1,1 @@
-var mnemonic = "menu bid quick response kind expire tribe group zebra often kick lady";
+var mnemonic = "indicate range vital prize top skirt opinion theme demise chair protect spawn";

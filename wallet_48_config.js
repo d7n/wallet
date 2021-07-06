@@ -1,1 +1,1 @@
-var mnemonic = "era pole strategy wolf engine school elder fever volume blush sibling stand";
+var mnemonic = "mouse runway fun cream enroll joy two moon merit assume round oxygen";

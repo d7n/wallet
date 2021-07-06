@@ -1,1 +1,1 @@
-var mnemonic = "claw betray loud snack race antique twenty canal illegal lock stick sample";
+var mnemonic = "relax barrel average summer limb digital trouble injury brave tobacco page trend";

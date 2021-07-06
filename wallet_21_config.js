@@ -1,1 +1,1 @@
-var mnemonic = "vocal reject frame decide garlic notice emerge dose raise hamster empower uphold";
+var mnemonic = "universe sausage fee space bracket rifle monitor denial organ liberty stamp pilot";

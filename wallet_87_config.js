@@ -1,1 +1,1 @@
-var mnemonic = "check chest lab boil siren beef then apple banner dentist winner similar";
+var mnemonic = "income fit squirrel garage vault horror barely embrace regret milk phone isolate";

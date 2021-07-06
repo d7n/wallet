@@ -1,1 +1,1 @@
-var mnemonic = "blouse erosion shiver blur maple satisfy echo concert slogan spy retreat recall";
+var mnemonic = "gossip claw you wear account dragon symbol gravity media impulse unveil traffic";

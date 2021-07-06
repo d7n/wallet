@@ -1,1 +1,1 @@
-var mnemonic = "error tortoise build ski sweet design useful guitar load prosper ritual hard";
+var mnemonic = "forward worry hour ability author jungle used artwork notice talent obtain truck";

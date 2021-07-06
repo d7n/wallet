@@ -1,1 +1,1 @@
-var mnemonic = "loop public wagon aim tobacco present marble man another pelican weapon item";
+var mnemonic = "hill voice correct usage antenna job art luxury image sweet train peace";

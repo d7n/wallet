@@ -1,1 +1,1 @@
-var mnemonic = "true someone prosper game skin claw kind curtain success tiger urban wrestle";
+var mnemonic = "galaxy saddle rigid casual alert salt century cry sound neutral beach club";

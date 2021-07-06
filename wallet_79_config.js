@@ -1,1 +1,1 @@
-var mnemonic = "verify sustain annual curious token program exile useful crew permit gas bar";
+var mnemonic = "dice solution drip feature vague basket endorse dash trophy remove until shift";

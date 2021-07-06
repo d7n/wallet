@@ -1,1 +1,1 @@
-var mnemonic = "rabbit soda firm frost drill awesome screen voyage humor taste stay unaware";
+var mnemonic = "mass essay sentence van miracle dentist theory scan mountain uncover income earth";

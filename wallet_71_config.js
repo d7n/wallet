@@ -1,1 +1,1 @@
-var mnemonic = "little orange electric guide hub hire nerve coral gun expect absorb evolve";
+var mnemonic = "physical razor accident size jacket large mind advice clap ethics athlete antenna";

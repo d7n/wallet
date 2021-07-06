@@ -1,1 +1,1 @@
-var mnemonic = "shop path put casino fix express deal habit false install crawl price";
+var mnemonic = "crisp daughter just nest space wet skin letter material truly alarm gas";

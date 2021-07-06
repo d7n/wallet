@@ -1,1 +1,1 @@
-var mnemonic = "thank nature rural nation transfer afford fever awful genre bamboo wait gown";
+var mnemonic = "beauty video inhale chicken pact tired budget change slogan float concert toilet";

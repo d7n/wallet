@@ -1,1 +1,1 @@
-var mnemonic = "snow add job defy cake rare head raven awake clutch property help";
+var mnemonic = "amused jewel ghost oxygen soccer pony narrow sunny kind arrest interest keen";

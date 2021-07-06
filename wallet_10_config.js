@@ -1,1 +1,1 @@
-var mnemonic = "radio swallow meat shadow fun such upset security swallow anxiety frown target";
+var mnemonic = "diet entry paper kitten device act nice system often pupil inflict forest";

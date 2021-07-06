@@ -1,1 +1,1 @@
-var mnemonic = "desert nest use travel find valid main arrive scrub lunar eternal tree";
+var mnemonic = "roast tonight bring they cheap february learn eye crisp unhappy creek ripple";

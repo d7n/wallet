@@ -1,1 +1,1 @@
-var mnemonic = "satoshi split dinner regular scheme case curious inject cactus wife cat unveil";
+var mnemonic = "health pause field angle rare aspect convince table urban umbrella can camp";

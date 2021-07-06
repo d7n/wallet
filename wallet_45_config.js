@@ -1,1 +1,1 @@
-var mnemonic = "cram hello flock tiny away dismiss explain ensure ice arrest vault barrel";
+var mnemonic = "boost canoe candy always drastic manage ketchup warrior gas idle wisdom avoid";

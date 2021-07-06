@@ -1,1 +1,1 @@
-var mnemonic = "cotton predict husband same eyebrow wage opinion keen river antenna punch finger";
+var mnemonic = "tray side more giraffe enable glue modify dismiss interest chalk poverty bubble";

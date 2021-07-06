@@ -1,1 +1,1 @@
-var mnemonic = "area scene siege sort welcome ecology home swift involve record slogan popular";
+var mnemonic = "prize offer mobile garlic reunion wrong scrap opera install royal concert nature";

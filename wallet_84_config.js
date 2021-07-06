@@ -1,1 +1,1 @@
-var mnemonic = "lizard inspire push lumber govern alone what pulp palm life color letter";
+var mnemonic = "fiction subject omit stamp royal rocket convince color lake worth bleak move";

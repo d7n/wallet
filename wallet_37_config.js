@@ -1,1 +1,1 @@
-var mnemonic = "evil switch museum proof just coil congress charge retire phone also text";
+var mnemonic = "glue range usage window hero april moon logic aisle sell wild spread";

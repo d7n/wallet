@@ -1,1 +1,1 @@
-var mnemonic = "kite lend chest velvet fragile rival ozone lawsuit entire cute sick planet";
+var mnemonic = "isolate foster coyote fun apology joy gospel tonight remember shop phone calm";

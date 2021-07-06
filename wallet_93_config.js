@@ -1,1 +1,1 @@
-var mnemonic = "athlete office flush expand solve food usage paper beyond fuel leg town";
+var mnemonic = "smart asthma initial assault toddler space tiger have shop cool often seven";

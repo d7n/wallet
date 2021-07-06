@@ -1,1 +1,1 @@
-var mnemonic = "gentle glance spoil region leader have ozone recall thrive pitch wisdom found";
+var mnemonic = "orange initial undo music valve woman sad discover clerk screen foster wild";

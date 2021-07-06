@@ -1,1 +1,1 @@
-var mnemonic = "envelope goose image tortoise security grace submit borrow six derive blanket lecture";
+var mnemonic = "renew hard say digital split spatial stairs dune image shock noise obey";

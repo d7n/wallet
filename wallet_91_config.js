@@ -1,1 +1,1 @@
-var mnemonic = "balcony wheat cage neck horn merit advance speed page sponsor luxury follow";
+var mnemonic = "expire gold air life awkward silent viable stay remind target pudding frame";

@@ -1,1 +1,1 @@
-var mnemonic = "tray employ law meat this wool orbit opera under need two risk";
+var mnemonic = "marble drift list bind loyal disagree rent theme hedgehog piano fortune fit";

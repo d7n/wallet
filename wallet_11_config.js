@@ -1,1 +1,1 @@
-var mnemonic = "deny surface cricket snow swear rotate wine degree icon spy bicycle strategy";
+var mnemonic = "print brass thrive profit will you student nice legal garbage seed foam";

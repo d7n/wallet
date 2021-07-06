@@ -1,1 +1,1 @@
-var mnemonic = "vacuum garbage ocean garden shove stadium gain salute wear insane wolf primary";
+var mnemonic = "manual roof pair silent pyramid inch pride pupil chaos gauge also chronic";

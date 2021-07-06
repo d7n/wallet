@@ -1,1 +1,1 @@
-var mnemonic = "copper luggage card until priority veteran crop human trip connect antique gossip";
+var mnemonic = "vibrant test picnic cash please gentle duck pact release cactus chunk fatal";

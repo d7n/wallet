@@ -1,1 +1,1 @@
-var mnemonic = "mix regret purse cover trade erode hedgehog seek glow cabbage sure sustain";
+var mnemonic = "raise onion manual slam fabric fringe among primary cousin subject embark laptop";

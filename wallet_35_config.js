@@ -1,1 +1,1 @@
-var mnemonic = "siege tongue embody speed rack violin jaguar relief cruel exact noise round";
+var mnemonic = "love section inflict junk wing cream elephant across rug best school august";

@@ -1,1 +1,1 @@
-var mnemonic = "odor grunt brass arena bubble jacket march sight spend obvious play bracket";
+var mnemonic = "absorb long neglect topple quit hammer mule arch right river bronze injury";

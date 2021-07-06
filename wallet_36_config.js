@@ -1,1 +1,1 @@
-var mnemonic = "museum opinion undo dad august craft song icon peace cheap mechanic choice";
+var mnemonic = "few unveil detail sibling upon dolphin embody problem strategy void admit electric";

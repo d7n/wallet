@@ -1,1 +1,1 @@
-var mnemonic = "combine forget cattle toe soul wood shaft today science crop minute cinnamon";
+var mnemonic = "jeans shell list shock photo polar final candy noble curtain excess keen";

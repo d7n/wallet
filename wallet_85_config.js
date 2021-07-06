@@ -1,1 +1,1 @@
-var mnemonic = "already decade typical song answer keep lab outside wreck raven ecology angry";
+var mnemonic = "artefact wild sell humor mushroom budget spatial one mix shield matrix scout";

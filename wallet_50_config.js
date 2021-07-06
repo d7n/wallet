@@ -1,1 +1,1 @@
-var mnemonic = "swift task bonus fashion easily armor bunker best garbage guitar wrist side";
+var mnemonic = "flag risk social bike master fatigue bitter hospital hockey robust expand paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "final quit now fruit seminar crazy wall castle scene upon sniff vital";
+var mnemonic = "three else aim latin foster home rib quote opinion uniform bargain planet";

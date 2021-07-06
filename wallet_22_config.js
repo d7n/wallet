@@ -1,1 +1,1 @@
-var mnemonic = "grain increase sound mosquito unveil smile blouse vessel hover exile unfold awkward";
+var mnemonic = "keep mother taxi circle toe fire amused guitar today alarm solar spike";
