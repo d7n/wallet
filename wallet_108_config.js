@@ -1,1 +1,1 @@
-var mnemonic = "game story pizza equip board install valley yellow shiver plastic eagle wood";
+var mnemonic = "between reason grit remind stand better horror maximum vehicle ghost sauce paper";

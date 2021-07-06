@@ -1,1 +1,1 @@
-var mnemonic = "motion ticket infant seed blind coral slab main transfer raw medal vast";
+var mnemonic = "such clarify climb era genuine valid lumber fury stock hollow grocery scrub";

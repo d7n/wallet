@@ -1,1 +1,1 @@
-var mnemonic = "liquid admit picture mirror happy puppy fatigue sorry bus patch lift gauge";
+var mnemonic = "organ tower vast frame party margin board city unknown anger tobacco toast";

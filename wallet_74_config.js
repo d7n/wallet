@@ -1,1 +1,1 @@
-var mnemonic = "token sun promote essence genre exact bind sample material position object quit";
+var mnemonic = "icon sport invite opera path beauty list spirit secret anxiety sword drift";

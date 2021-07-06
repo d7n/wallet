@@ -1,1 +1,1 @@
-var mnemonic = "lamp poem quit awesome black auction glare birth marriage drastic crazy describe";
+var mnemonic = "tissue mass alarm write address vague ethics skull tissue fresh bike swamp";

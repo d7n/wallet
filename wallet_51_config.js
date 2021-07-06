@@ -1,1 +1,1 @@
-var mnemonic = "state audit myth example battle improve kind regret you various pet drop";
+var mnemonic = "fruit viable garbage pill loyal joy swing loud tongue farm wild shaft";

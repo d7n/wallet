@@ -1,1 +1,1 @@
-var mnemonic = "scorpion vote sun vocal proud wrap gadget deputy federal fee member wear";
+var mnemonic = "save flee upon reject future learn butter pen sponsor erode review alien";

@@ -1,1 +1,1 @@
-var mnemonic = "husband exhaust spatial verify lady pioneer pumpkin great scale tree kiss clutch";
+var mnemonic = "cool blanket insane luggage mansion erase analyst receive egg fade sail all";

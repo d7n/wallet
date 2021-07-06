@@ -1,1 +1,1 @@
-var mnemonic = "million second matter web raccoon few village maple hybrid rude goddess test";
+var mnemonic = "voice rice sell harvest upset umbrella rubber human blush health scale wasp";

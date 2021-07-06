@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cinnamon pluck kitten life frog taxi net energy pool base three";
+var mnemonic = "rug shove exotic depart allow teach bomb funny blast scale comfort culture";

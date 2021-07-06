@@ -1,1 +1,1 @@
-var mnemonic = "banner such shiver cheese maximum point morning fantasy useless ancient eagle rural";
+var mnemonic = "tower clock wait spot van trick ripple tube garden modify garlic mix";

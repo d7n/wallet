@@ -1,1 +1,1 @@
-var mnemonic = "shallow awesome they magnet alien asthma exist lock blush accuse team can";
+var mnemonic = "special pencil boost because trade blade ostrich evidence exist wolf cross item";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry tent cup foam green way gold divorce cruel typical sunny ramp";
+var mnemonic = "use help engine limit other moon artefact tail dynamic script grant hub";

@@ -1,1 +1,1 @@
-var mnemonic = "angle nerve voyage valley ecology spirit carpet govern rapid wool fan clog";
+var mnemonic = "crop agent mad spray symptom add sick figure similar teach insane kit";

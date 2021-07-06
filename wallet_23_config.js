@@ -1,1 +1,1 @@
-var mnemonic = "exchange harsh access pyramid cat review message shallow cake rabbit turn broom";
+var mnemonic = "capable kit lamp crack pitch tobacco minute fog path lobster cannon remain";

@@ -1,1 +1,1 @@
-var mnemonic = "various obscure flat kiss barrel badge utility love match run alley enact";
+var mnemonic = "iron twin wasp mango waste chef force casino among mesh eagle vague";

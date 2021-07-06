@@ -1,1 +1,1 @@
-var mnemonic = "submit lazy trumpet tonight travel swap staff pilot doctor dirt over chalk";
+var mnemonic = "detail senior come alley moral talk vanish dwarf quality survey one defense";

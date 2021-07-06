@@ -1,1 +1,1 @@
-var mnemonic = "bicycle choose ribbon fade dish normal depend rural shed bitter when quick";
+var mnemonic = "annual mushroom glimpse ticket pottery hub despair dizzy noodle meat badge enter";

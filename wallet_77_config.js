@@ -1,1 +1,1 @@
-var mnemonic = "rich bus allow hawk find mansion build nerve yard across wait above";
+var mnemonic = "caution alley goose fold wire quiz setup acoustic erase denial tribe adult";

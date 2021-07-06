@@ -1,1 +1,1 @@
-var mnemonic = "initial arrow crisp knock bonus depend lake garlic viable nasty canal flush";
+var mnemonic = "pond cat betray process mesh measure tower duck ball embark observe scale";

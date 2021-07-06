@@ -1,1 +1,1 @@
-var mnemonic = "mention chunk smoke cram social bonus camera multiply zone crystal seek dust";
+var mnemonic = "live require movie choice mystery joke fly test praise exile ill ship";

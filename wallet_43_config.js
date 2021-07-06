@@ -1,1 +1,1 @@
-var mnemonic = "cupboard desert erupt river mixed caution people park fabric judge arch valve";
+var mnemonic = "jump key seat shell suit issue chicken twice daughter food sample salt";

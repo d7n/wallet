@@ -1,1 +1,1 @@
-var mnemonic = "crush old search glass correct trip fan world endorse ghost embrace detect";
+var mnemonic = "barely athlete zero rival staff aisle over purse prefer sausage prosper kick";

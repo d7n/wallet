@@ -1,1 +1,1 @@
-var mnemonic = "boy cousin toilet decorate brush basic lunar struggle rude matter tourist galaxy";
+var mnemonic = "wool few hotel member pupil various prize member space tell reflect crucial";

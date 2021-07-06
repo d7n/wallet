@@ -1,1 +1,1 @@
-var mnemonic = "also frozen public flag develop fever laugh easily purpose shrimp throw draft";
+var mnemonic = "naive sentence switch fiction morning journey purpose long comfort pool view seven";

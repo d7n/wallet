@@ -1,1 +1,1 @@
-var mnemonic = "carry act share narrow object menu main reduce demand inflict cross depart";
+var mnemonic = "fruit maximum upset common nephew multiply brick will finger devote soup gap";

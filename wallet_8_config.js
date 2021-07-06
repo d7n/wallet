@@ -1,1 +1,1 @@
-var mnemonic = "loud taxi cancel couple disorder lady define talk reveal unusual permit depart";
+var mnemonic = "exile planet radio pattern photo banana amount hedgehog buddy only flush radar";

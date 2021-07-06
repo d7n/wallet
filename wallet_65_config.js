@@ -1,1 +1,1 @@
-var mnemonic = "deputy clay orchard master gold motor supply detail rate gasp retire noble";
+var mnemonic = "hazard trophy wrap snack hand income bulb loud purse athlete luggage baby";

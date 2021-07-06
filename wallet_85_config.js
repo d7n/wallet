@@ -1,1 +1,1 @@
-var mnemonic = "onion sure swear essay depart buffalo brother leg pretty solid wrong violin";
+var mnemonic = "curious chronic bracket rally also amount nurse goddess jeans object toe amused";

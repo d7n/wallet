@@ -1,1 +1,1 @@
-var mnemonic = "misery test vapor robot input echo lobster kind will involve unique mechanic";
+var mnemonic = "cube remember spare noble grief section strong expand resemble crucial ceiling satoshi";

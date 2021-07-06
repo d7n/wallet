@@ -1,1 +1,1 @@
-var mnemonic = "teach gauge broom ivory stereo very side fire shoe fatal degree clay";
+var mnemonic = "bike cushion stay waste enhance endorse action draft dilemma pizza brave glove";

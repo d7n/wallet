@@ -1,1 +1,1 @@
-var mnemonic = "scout base carbon category tilt patient market vibrant orphan hill mushroom glory";
+var mnemonic = "price physical glass monkey hello obscure spider junk ahead security price remain";

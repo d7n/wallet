@@ -1,1 +1,1 @@
-var mnemonic = "swallow time cargo chaos clarify video siren raven cute dutch you swarm";
+var mnemonic = "coyote riot pluck decide surge nuclear term table load lunch year type";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate core crystal silk fatal double deer canvas jewel catalog diesel wrap";
+var mnemonic = "cluster bracket music unaware climb chief inch powder galaxy object glare raw";

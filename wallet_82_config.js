@@ -1,1 +1,1 @@
-var mnemonic = "profit urban radar analyst hover spy rocket inspire web list coast struggle";
+var mnemonic = "dismiss frost disease series guide story rebuild cat vast scheme judge discover";

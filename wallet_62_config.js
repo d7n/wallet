@@ -1,1 +1,1 @@
-var mnemonic = "breeze foster crystal innocent orient illegal human buyer bag theory subway absent";
+var mnemonic = "drip foster render wrap exercise fire imitate match circle embrace anger repeat";

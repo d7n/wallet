@@ -1,1 +1,1 @@
-var mnemonic = "oval wire swallow bag loud turn seek paddle thunder bulk spend charge";
+var mnemonic = "hover page inherit poem rival seven parade gate kiss enforce there suit";

@@ -1,1 +1,1 @@
-var mnemonic = "sample save pig twist grid card cattle rookie wood cradle anger select";
+var mnemonic = "thank pave story beef mesh quote test age execute aunt juice earn";

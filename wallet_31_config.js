@@ -1,1 +1,1 @@
-var mnemonic = "course dolphin wife unhappy angry coil joy depth share visual foil sponsor";
+var mnemonic = "account genre jump various gas copper net garment today antenna harsh potato";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity chronic what relax tattoo chest comic shine pink advice brush feature";
+var mnemonic = "capital lecture fence enough nose match always exotic brisk traffic reveal honey";

@@ -1,1 +1,1 @@
-var mnemonic = "jump defense route end radar kit meat such possible fuel tiger young";
+var mnemonic = "call mixture rely empty stage sail surround obtain tornado churn local topple";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow life antenna biology drive join insect rice home pig syrup replace";
+var mnemonic = "favorite fall easy merit foot forget invite reduce morning slow prepare meadow";

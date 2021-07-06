@@ -1,1 +1,1 @@
-var mnemonic = "enact choose discover leave scorpion prepare pave viable wise fox heart broken";
+var mnemonic = "fan obvious choose flip little love toe square pumpkin jeans motion grab";

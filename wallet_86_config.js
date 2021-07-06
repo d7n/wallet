@@ -1,1 +1,1 @@
-var mnemonic = "dolphin derive tank enact caution kid humble whip punch cloud surround culture";
+var mnemonic = "remind candy burden once insect curious benefit tip hidden silk oxygen bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "place ghost dolphin seat tag slice firm monkey zero mule visa boost";
+var mnemonic = "brave point language notable speed liquid view spot cost pact urban anger";

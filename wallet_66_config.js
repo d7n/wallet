@@ -1,1 +1,1 @@
-var mnemonic = "timber alter anchor wreck wine drop cricket weapon alone oven zone need";
+var mnemonic = "body pause purpose finger syrup chest couch sword sea home thunder rabbit";

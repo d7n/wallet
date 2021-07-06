@@ -1,1 +1,1 @@
-var mnemonic = "priority source spring old stomach glimpse film minute analyst position proud dog";
+var mnemonic = "indicate bid stool harsh left survey federal private fragile fault awesome dizzy";

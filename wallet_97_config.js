@@ -1,1 +1,1 @@
-var mnemonic = "double toss video sport skirt shrimp become card romance category lake pipe";
+var mnemonic = "connect dog crowd debris gloom virtual merit just ghost remind pact front";

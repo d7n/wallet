@@ -1,1 +1,1 @@
-var mnemonic = "limit blanket sick panther avocado mixture typical blur neither cage talent frame";
+var mnemonic = "clog reveal region retreat intact globe fluid fashion wheat banana sauce book";

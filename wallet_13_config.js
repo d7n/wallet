@@ -1,1 +1,1 @@
-var mnemonic = "system easily embrace glue later forest claw laundry diet car payment resource";
+var mnemonic = "gold thought effort chef grid rifle forum cup answer head stay certain";

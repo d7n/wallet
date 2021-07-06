@@ -1,1 +1,1 @@
-var mnemonic = "resource gospel hope assist cloud desk left soup tenant evoke surprise finger";
+var mnemonic = "plunge organ inch boil oyster party huge action razor hand cruel eye";

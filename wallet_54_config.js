@@ -1,1 +1,1 @@
-var mnemonic = "shadow key security more pony wine hole section bag grief apart exotic";
+var mnemonic = "penalty lucky party royal jar gun noodle age plunge orchard guilt add";

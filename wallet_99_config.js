@@ -1,1 +1,1 @@
-var mnemonic = "horn below dune mass adjust shuffle puppy merit answer satoshi daring river";
+var mnemonic = "female mammal critic group beyond supreme fly student drastic fame connect trick";

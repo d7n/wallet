@@ -1,1 +1,1 @@
-var mnemonic = "explain library roof normal prevent below dress tumble exclude little sort local";
+var mnemonic = "subject hill goddess meat penalty icon canal immense shop found roast clinic";

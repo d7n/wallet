@@ -1,1 +1,1 @@
-var mnemonic = "cigar audit glad shell drip afraid window cousin convince mention supply dial";
+var mnemonic = "bonus volume fix surround witness laundry elite kangaroo until liquid season rapid";

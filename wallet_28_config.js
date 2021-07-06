@@ -1,1 +1,1 @@
-var mnemonic = "process economy high concert crater bird fortune service tennis roof route recall";
+var mnemonic = "flash volume emotion people hold drop insect cattle cry trumpet one heavy";

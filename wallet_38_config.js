@@ -1,1 +1,1 @@
-var mnemonic = "hurdle dog will describe tribe option social iron tissue snow size hobby";
+var mnemonic = "female tuition describe draw together mom useless deposit frown path evoke cave";

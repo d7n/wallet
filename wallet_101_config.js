@@ -1,1 +1,1 @@
-var mnemonic = "outside second trip type radio tag medal nut they admit pen rather";
+var mnemonic = "loyal boss palm hint report cabin student stable mechanic seek soldier beach";

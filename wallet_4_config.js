@@ -1,1 +1,1 @@
-var mnemonic = "cloud doctor fit buffalo wrist list noise ritual loud pulp wish dirt";
+var mnemonic = "frequent attend deliver front scene envelope breeze badge raw perfect tobacco audit";

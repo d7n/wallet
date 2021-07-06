@@ -1,1 +1,1 @@
-var mnemonic = "obscure thunder route narrow bundle squeeze hub afford chaos right ridge price";
+var mnemonic = "live pulse skill carpet lion fade hungry slide hurdle narrow raw catch";

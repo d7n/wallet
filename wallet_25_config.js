@@ -1,1 +1,1 @@
-var mnemonic = "good salmon latin common easy usual glimpse task session amateur gesture frown";
+var mnemonic = "photo saddle ski dance eternal that dry duck shove believe security auction";

@@ -1,1 +1,1 @@
-var mnemonic = "assault inside effort assault rib detail caution typical obey rich abuse supreme";
+var mnemonic = "garden ice final goat turtle tumble twice art parrot escape tube toward";

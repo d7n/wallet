@@ -1,1 +1,1 @@
-var mnemonic = "night art harsh coral ribbon require check flat palace salt orange cloth";
+var mnemonic = "armed scissors talk much attend sick page approve oxygen convince estate belt";

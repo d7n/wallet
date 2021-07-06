@@ -1,1 +1,1 @@
-var mnemonic = "bachelor wish rabbit switch civil portion magnet duck small assist all fold";
+var mnemonic = "lawn visit path special knee wheat perfect diesel cradle wild industry horror";

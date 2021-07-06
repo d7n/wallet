@@ -1,1 +1,1 @@
-var mnemonic = "sort enforce catalog boil eager prison oxygen happy blast update denial worry";
+var mnemonic = "target matrix pave tobacco intact alarm hover wrap input eternal casino stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby can become half piano empty task sound cotton upper inside tank";
+var mnemonic = "squeeze volcano echo inch raven fancy similar flip earn fog dumb dry";

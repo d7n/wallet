@@ -1,1 +1,1 @@
-var mnemonic = "call insect onion gorilla blossom rack alarm net tool quality picture gate";
+var mnemonic = "dirt year follow lady coach rebel bargain keen slender prefer drip board";

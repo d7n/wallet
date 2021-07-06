@@ -1,1 +1,1 @@
-var mnemonic = "powder theme congress erosion wood demise jelly doctor deny super style between";
+var mnemonic = "express network earn crater wink muffin file nephew episode cube common pen";

@@ -1,1 +1,1 @@
-var mnemonic = "social original unfold minimum near indoor mountain prosper bless pave all such";
+var mnemonic = "ketchup accuse blanket tiger cry just hen robot era process marble vast";

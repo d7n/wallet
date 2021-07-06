@@ -1,1 +1,1 @@
-var mnemonic = "yard crucial ivory beach pipe card better strike produce age animal web";
+var mnemonic = "mention good bar damp grass wave tenant motor blossom buzz quantum dash";

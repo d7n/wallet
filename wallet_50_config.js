@@ -1,1 +1,1 @@
-var mnemonic = "very goose fox cheap shoulder chef garden mass distance correct advance inside";
+var mnemonic = "panther document bubble violin sting enforce depth own era dinner fox local";

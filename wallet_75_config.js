@@ -1,1 +1,1 @@
-var mnemonic = "young load destroy arrange tip vivid behave birth diamond rookie trim snake";
+var mnemonic = "divide pluck material resemble window nothing meadow bullet defy glove casino female";

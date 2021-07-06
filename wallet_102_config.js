@@ -1,1 +1,1 @@
-var mnemonic = "divide satoshi thumb total axis oven grocery flavor frame labor goddess unfold";
+var mnemonic = "enrich limit oyster position black mom version source blade soon suit disorder";

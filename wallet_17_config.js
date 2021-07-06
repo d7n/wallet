@@ -1,1 +1,1 @@
-var mnemonic = "kitchen another design badge skirt soon trigger poem cruel hammer plug addict";
+var mnemonic = "skull spoil donkey abstract minor correct cricket obvious basic describe message dry";

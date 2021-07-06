@@ -1,1 +1,1 @@
-var mnemonic = "arrive glance edit way eager arena blush twice grief wave note dizzy";
+var mnemonic = "churn shoe comfort accident stereo olympic seed entire mushroom save estate lens";

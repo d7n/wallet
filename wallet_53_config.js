@@ -1,1 +1,1 @@
-var mnemonic = "bless smoke begin bless civil motion guide smart snake remember mirror glow";
+var mnemonic = "rather merge small ketchup obscure remind curious depart either volcano visit fitness";

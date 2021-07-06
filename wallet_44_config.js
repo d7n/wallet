@@ -1,1 +1,1 @@
-var mnemonic = "agree board candy hazard mad buyer kid tenant rhythm digital visa replace";
+var mnemonic = "dwarf exist bean fault keen peanut divert enact body vacant ready erupt";

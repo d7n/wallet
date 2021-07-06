@@ -1,1 +1,1 @@
-var mnemonic = "magic knee gospel gym wagon rival adjust false myth manage tank photo";
+var mnemonic = "nature record action journey tool ladder cart orient exotic hospital enemy neck";

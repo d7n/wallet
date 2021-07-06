@@ -1,1 +1,1 @@
-var mnemonic = "artefact stamp pill whisper result black phrase help royal panda bitter tennis";
+var mnemonic = "seek push foil carry neutral identify casino mad very ritual left gentle";

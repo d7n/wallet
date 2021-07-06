@@ -1,1 +1,1 @@
-var mnemonic = "awesome still dirt pepper flip subway visit siege neither under clog accident";
+var mnemonic = "mixed dutch guitar country project invite gap grunt actress yard robot escape";

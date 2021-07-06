@@ -1,1 +1,1 @@
-var mnemonic = "good top excite mirror scrap manual warfare interest away chaos school hurdle";
+var mnemonic = "shop siege pave guard great social job weather grace glide frozen grain";

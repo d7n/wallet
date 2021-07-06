@@ -1,1 +1,1 @@
-var mnemonic = "nature loop chair creek cube car amount duck bench custom pink enroll";
+var mnemonic = "afraid speed gentle tribe misery glory crack fine chronic embark finger common";

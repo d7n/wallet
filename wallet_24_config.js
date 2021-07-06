@@ -1,1 +1,1 @@
-var mnemonic = "sail exit cigar kiss service top slush kiss hole witness raccoon twice";
+var mnemonic = "learn sniff tooth fun wolf twin galaxy like movie speed lemon winter";

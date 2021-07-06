@@ -1,1 +1,1 @@
-var mnemonic = "helmet maid real panther rifle hybrid acid lawsuit argue slight protect brain";
+var mnemonic = "doctor boy sport lawsuit parent style easy cabin voice dog spin wash";

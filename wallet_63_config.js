@@ -1,1 +1,1 @@
-var mnemonic = "deal half fire spatial mule build reunion tiger actress anchor pen swing";
+var mnemonic = "royal kitten nominee exotic rebuild reopen useful shoot recall decline anger skull";

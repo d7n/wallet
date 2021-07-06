@@ -1,1 +1,1 @@
-var mnemonic = "flee cigar trim language learn wrist ready combine acquire antenna thought border";
+var mnemonic = "reward valley fire island area sausage capable infant clinic deputy nasty tribe";

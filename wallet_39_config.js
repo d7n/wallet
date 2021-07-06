@@ -1,1 +1,1 @@
-var mnemonic = "baby health play solution witness valley ranch turkey more glow onion alien";
+var mnemonic = "alter still hungry patient keen smoke cactus void hub equal raw draw";

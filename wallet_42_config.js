@@ -1,1 +1,1 @@
-var mnemonic = "gauge doll under maximum scrub gas laptop since toast fog subway hello";
+var mnemonic = "arena leader hollow share fly gather lunch undo cargo lottery absorb fame";

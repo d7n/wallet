@@ -1,1 +1,1 @@
-var mnemonic = "between grain inflict piece improve unfair lawn doll canvas memory food junk";
+var mnemonic = "document copper auction ring dumb brass palace acoustic table page actual insect";

@@ -1,1 +1,1 @@
-var mnemonic = "length vocal away develop fog youth region fever warm siege size hip";
+var mnemonic = "ability write chronic total kiss museum argue ring connect blush weather deliver";

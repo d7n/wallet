@@ -1,1 +1,1 @@
-var mnemonic = "detect fence anger give host alone dad battle another violin vintage struggle";
+var mnemonic = "tube two black science wonder quick grab glory seat novel sustain hair";
