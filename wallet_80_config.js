@@ -1,1 +1,1 @@
-var mnemonic = "flock thought people lazy purpose ugly trigger state tackle genius zebra payment";
+var mnemonic = "filter brand skill magnet push satisfy point wine oyster club unaware sunny";

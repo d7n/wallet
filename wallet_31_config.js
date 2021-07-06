@@ -1,1 +1,1 @@
-var mnemonic = "clock rain annual output response public zoo noodle mule uncover hobby bike";
+var mnemonic = "rent oppose engage parrot stage kangaroo cricket decorate eternal eye ankle ribbon";

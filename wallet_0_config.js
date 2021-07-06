@@ -1,1 +1,1 @@
-var mnemonic = "pepper mixture remain robot awake zoo rally clown mom bar mom pluck";
+var mnemonic = "scare lonely wrist photo giant steel taxi sleep dune valid dinosaur circle";

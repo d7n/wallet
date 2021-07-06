@@ -1,1 +1,1 @@
-var mnemonic = "govern arrange novel humble scheme snack reduce matrix armed pitch retire smoke";
+var mnemonic = "member knee sign eager hobby kiwi vacuum narrow agent grid renew culture";

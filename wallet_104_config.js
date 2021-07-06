@@ -1,1 +1,1 @@
-var mnemonic = "pen legend quote like little people reform faculty doctor safe sure candy";
+var mnemonic = "alert phrase fat dynamic permit enforce beef project multiply double glance rough";

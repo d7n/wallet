@@ -1,1 +1,1 @@
-var mnemonic = "visa easily fault state dove sudden garlic blast age large pelican buzz";
+var mnemonic = "true lemon other roof bachelor grab demand fragile glue admit praise dice";

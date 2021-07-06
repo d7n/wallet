@@ -1,1 +1,1 @@
-var mnemonic = "rather manual output sock accident bird impact atom vendor select exotic test";
+var mnemonic = "ramp birth unaware island profit hip negative wheel point ability gift trip";

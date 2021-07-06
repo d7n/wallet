@@ -1,1 +1,1 @@
-var mnemonic = "artefact festival toss cram program spy what small traffic library measure dirt";
+var mnemonic = "drama black squirrel advance rescue elegant window core happy vault broom liar";

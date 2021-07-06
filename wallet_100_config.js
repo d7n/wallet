@@ -1,1 +1,1 @@
-var mnemonic = "identify live drop asset field sunny service monkey company swift wine give";
+var mnemonic = "army neutral spray army symbol lonely still sugar cup knock zone museum";

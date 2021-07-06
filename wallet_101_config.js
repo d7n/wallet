@@ -1,1 +1,1 @@
-var mnemonic = "wait envelope uniform kitchen toy man flavor puppy state replace fringe couch";
+var mnemonic = "disagree extra project six force learn sleep girl ordinary fold solve clip";

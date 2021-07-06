@@ -1,1 +1,1 @@
-var mnemonic = "devote such acid evil wall only inject flash dilemma return outside rival";
+var mnemonic = "erode resemble ozone sunny raise sort shove elite search silent stand hidden";

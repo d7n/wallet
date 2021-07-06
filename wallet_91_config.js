@@ -1,1 +1,1 @@
-var mnemonic = "foster anxiety course suit release engine improve junk fiscal sadness final pulp";
+var mnemonic = "century clever despair pet visit wild rookie million window coyote please extend";

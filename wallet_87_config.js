@@ -1,1 +1,1 @@
-var mnemonic = "use trip helmet desk just certain obscure health salt input present judge";
+var mnemonic = "arm learn autumn few exclude range huge dizzy remember submit prize match";

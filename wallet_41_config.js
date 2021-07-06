@@ -1,1 +1,1 @@
-var mnemonic = "valve plug punch silk shell pet damage ball kick material gorilla reveal";
+var mnemonic = "rule orient soccer start celery museum public pulse item lab loud unit";

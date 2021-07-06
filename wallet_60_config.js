@@ -1,1 +1,1 @@
-var mnemonic = "worry police letter staff project toward tonight virus certain foster claim orange";
+var mnemonic = "height person soup cabbage permit primary ride total crash once acquire gap";

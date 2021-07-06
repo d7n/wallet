@@ -1,1 +1,1 @@
-var mnemonic = "blame budget tuna butter achieve royal bean lesson injury swap pitch blue";
+var mnemonic = "loud sauce vehicle wheel giggle denial erode save rigid history soldier evoke";

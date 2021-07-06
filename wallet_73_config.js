@@ -1,1 +1,1 @@
-var mnemonic = "trigger law spice evidence picnic leave grid trash flight grief pink top";
+var mnemonic = "melody permit attract surround gospel hole ride when nation caught balance crush";

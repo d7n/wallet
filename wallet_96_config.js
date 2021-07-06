@@ -1,1 +1,1 @@
-var mnemonic = "matrix cave diamond joke solution chair about artist shallow average pattern panic";
+var mnemonic = "diagram earn hedgehog senior oblige review maid dial jelly endless chalk hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "spot define inquiry basket wasp brick suggest roof primary neglect ship armed";
+var mnemonic = "lion merge blush vital have treat neglect cube buyer bike spot chase";

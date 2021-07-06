@@ -1,1 +1,1 @@
-var mnemonic = "culture certain orange pet link common focus setup town holiday salad anger";
+var mnemonic = "oxygen size theory fury excuse very episode fan genuine alcohol pottery glad";

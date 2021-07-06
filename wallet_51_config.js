@@ -1,1 +1,1 @@
-var mnemonic = "reflect change join erode legend sibling rack tone amount rookie spend pool";
+var mnemonic = "under primary logic will found crazy tray actual burger giggle mouse reject";

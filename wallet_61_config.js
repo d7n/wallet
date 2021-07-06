@@ -1,1 +1,1 @@
-var mnemonic = "absent wreck silver curious nasty black symbol local segment wear bone icon";
+var mnemonic = "cram cream october box cook tobacco renew select stairs series hat language";

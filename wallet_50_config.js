@@ -1,1 +1,1 @@
-var mnemonic = "movie race afraid other team width hidden wash furnace leader romance couch";
+var mnemonic = "guilt chimney team dream flip mutual fashion ignore more warrior cereal nation";

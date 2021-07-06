@@ -1,1 +1,1 @@
-var mnemonic = "antenna sight scrub false advice coconut observe protect goat quote valve borrow";
+var mnemonic = "payment across drill few dove frame parade sense chef afford chapter vast";

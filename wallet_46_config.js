@@ -1,1 +1,1 @@
-var mnemonic = "remain host mutual pitch phone gas situate stick melody logic process lake";
+var mnemonic = "foot damage soup walk inside trophy bench drink cruel write crack winner";

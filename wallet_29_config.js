@@ -1,1 +1,1 @@
-var mnemonic = "beyond movie ill unique echo hunt purpose six general tuna library easily";
+var mnemonic = "step into annual marine aisle arrange quote purpose sample elite celery column";

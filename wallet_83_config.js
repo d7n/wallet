@@ -1,1 +1,1 @@
-var mnemonic = "tragic empty burger connect edit code crisp pond prepare figure bring hello";
+var mnemonic = "regret envelope crisp bundle rich crew correct pig erase spike immense recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "artist act page mammal method rapid cave express wash wild tongue giggle";
+var mnemonic = "iron drill prize fuel visual actor bomb upset grain spider blame depart";

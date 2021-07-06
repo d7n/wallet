@@ -1,1 +1,1 @@
-var mnemonic = "owner diary slot brick muscle cheap access skin chief romance video confirm";
+var mnemonic = "purpose loud cruise century rural hover flip account candy museum tourist smart";

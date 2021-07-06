@@ -1,1 +1,1 @@
-var mnemonic = "enhance federal donkey because ramp eight off usual divide airport circle tilt";
+var mnemonic = "erase old tennis bean appear choice elite vocal scatter hard truth have";

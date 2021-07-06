@@ -1,1 +1,1 @@
-var mnemonic = "awesome quiz rare height adult guilt ignore rally plastic actor fan thing";
+var mnemonic = "frame next often steel aware excess popular high sugar borrow amused heavy";

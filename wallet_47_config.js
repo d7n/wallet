@@ -1,1 +1,1 @@
-var mnemonic = "rose segment dragon cereal pyramid foil lazy because horse genius bone december";
+var mnemonic = "average day street mother wild warfare cotton jump photo scatter pistol problem";

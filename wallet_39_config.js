@@ -1,1 +1,1 @@
-var mnemonic = "drop real corn alpha balance ranch play wealth pizza own rookie youth";
+var mnemonic = "hill ranch warfare symbol annual earn film diamond oxygen raccoon squirrel group";

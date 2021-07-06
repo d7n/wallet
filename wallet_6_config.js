@@ -1,1 +1,1 @@
-var mnemonic = "glad fold honey inflict merit provide art trend mom please paddle decade";
+var mnemonic = "quiz cricket fitness strike private flavor gain area chimney great voyage sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "there step flip girl legend tool shove end race habit two mushroom";
+var mnemonic = "unlock cannon invite lunch whisper clump reduce drill message dress oyster tackle";

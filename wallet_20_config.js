@@ -1,1 +1,1 @@
-var mnemonic = "pause perfect bring cry flower arch glove safe junior require carbon whisper";
+var mnemonic = "major elegant leaf whip elder across pizza fortune often apology border ahead";

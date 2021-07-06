@@ -1,1 +1,1 @@
-var mnemonic = "tuna friend monitor glance crush sibling student banner bounce alert follow choose";
+var mnemonic = "napkin behave champion couple always adjust emerge sweet general print submit tiger";

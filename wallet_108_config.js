@@ -1,1 +1,1 @@
-var mnemonic = "quote off deer curious reduce share swarm rose control panda sound chief";
+var mnemonic = "vital profit doll kitchen else alone theory movie matrix entire rookie rubber";

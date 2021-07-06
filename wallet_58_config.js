@@ -1,1 +1,1 @@
-var mnemonic = "spot grid wagon category cement noise relax cry baby practice guilt genre";
+var mnemonic = "olive surface glide boat dignity tonight clog series federal stay session shoot";

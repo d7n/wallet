@@ -1,1 +1,1 @@
-var mnemonic = "legal debate arrange strong beauty steak purpose essay defy old now rocket";
+var mnemonic = "bargain expand argue scorpion file giraffe caution claim upgrade mouse car barrel";

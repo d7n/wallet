@@ -1,1 +1,1 @@
-var mnemonic = "broom plug illegal version bus useless buffalo unable drama rotate pilot jungle";
+var mnemonic = "energy battle october glad alien awake churn violin island buzz deliver dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence region float stable unfair crisp joy cram pause never gadget taxi";
+var mnemonic = "coast exotic hero catch step alert pluck ask flag lizard oven minimum";

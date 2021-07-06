@@ -1,1 +1,1 @@
-var mnemonic = "trust sponsor spawn aspect title agent resemble cement nasty emotion picture super";
+var mnemonic = "topple rich young bulb brick insane winner embody wrist sun zone census";

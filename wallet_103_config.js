@@ -1,1 +1,1 @@
-var mnemonic = "arm solar allow shiver energy hard you illegal edit chimney party fitness";
+var mnemonic = "aunt erase furnace produce car west turkey spell junior sleep ancient shiver";

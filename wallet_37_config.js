@@ -1,1 +1,1 @@
-var mnemonic = "gravity jeans century lizard matrix urban betray current weekend horror violin rough";
+var mnemonic = "cancel spy tent copper imitate cotton goddess wine earn cost liberty avoid";

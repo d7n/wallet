@@ -1,1 +1,1 @@
-var mnemonic = "extend crucial sphere useless raise carbon sick crisp galaxy polar bachelor lawsuit";
+var mnemonic = "long cart slogan wasp load lift decade whale exercise curve athlete dust";

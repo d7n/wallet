@@ -1,1 +1,1 @@
-var mnemonic = "nasty brief smoke rather hood cat maze interest solid slow upper cat";
+var mnemonic = "census crash betray emotion siege observe fame dove good beach skull garage";

@@ -1,1 +1,1 @@
-var mnemonic = "error reopen bronze regret drastic action inmate flight sun memory renew parrot";
+var mnemonic = "arch grocery bounce street solid cinnamon foil fatigue bar purpose earth clown";

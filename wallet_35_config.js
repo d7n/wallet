@@ -1,1 +1,1 @@
-var mnemonic = "you lock blind huge search pelican assist habit pelican swift correct meadow";
+var mnemonic = "lecture syrup primary exist venue able seed cart enjoy rose refuse inherit";

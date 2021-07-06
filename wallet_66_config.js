@@ -1,1 +1,1 @@
-var mnemonic = "awful story utility deer master wide bubble lift winner mirror title corn";
+var mnemonic = "february vicious soon injury high slight success basic split head gossip tank";

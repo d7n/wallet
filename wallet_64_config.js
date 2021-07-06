@@ -1,1 +1,1 @@
-var mnemonic = "cheese guide grab assist north acid erosion scene deliver toward smoke notable";
+var mnemonic = "render parade clump office cook final waste upper payment burden coach someone";

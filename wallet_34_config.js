@@ -1,1 +1,1 @@
-var mnemonic = "struggle manage time consider bird lunar top embrace pulse pepper carbon account";
+var mnemonic = "find throw squirrel oven unveil cushion tornado horn situate gift suspect love";

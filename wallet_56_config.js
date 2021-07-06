@@ -1,1 +1,1 @@
-var mnemonic = "trust sample dog cigar banner regular allow music among motor judge item";
+var mnemonic = "avocado turn solid cash silent tomorrow now pepper call sail term sea";

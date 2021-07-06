@@ -1,1 +1,1 @@
-var mnemonic = "picture ivory clean razor tiny profit tell cook erase little noble sleep";
+var mnemonic = "about armor ill feature board crater upon planet artist roof novel erupt";

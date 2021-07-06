@@ -1,1 +1,1 @@
-var mnemonic = "wage success undo nurse absorb wait conduct vintage load immune pretty horn";
+var mnemonic = "choose else lounge year load hurt clock success drift conduct flame rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "frost infant double cake knife opinion cave copy stamp remain hill bachelor";
+var mnemonic = "material grief warfare elder garbage drop object shoe enhance correct coral grit";

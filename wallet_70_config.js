@@ -1,1 +1,1 @@
-var mnemonic = "clutch cushion fame begin they flee marine average fold clap legal carbon";
+var mnemonic = "ketchup tuition advice vast wedding mansion virtual grape combine turtle dawn toss";

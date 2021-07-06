@@ -1,1 +1,1 @@
-var mnemonic = "physical alien merry mom garbage chief swarm absent hair muscle bind fox";
+var mnemonic = "earth essence stand garbage sell shop pelican catch infant about drill wolf";

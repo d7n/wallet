@@ -1,1 +1,1 @@
-var mnemonic = "burden capital trip sentence human situate arrive flame swap main clerk bread";
+var mnemonic = "miracle enemy sense drum orbit noodle snow oil siren increase piano rotate";

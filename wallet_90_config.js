@@ -1,1 +1,1 @@
-var mnemonic = "coffee child depend quiz pipe taxi maple fold prosper meat witness perfect";
+var mnemonic = "second estate silent wear act such item either avocado suggest mad voice";

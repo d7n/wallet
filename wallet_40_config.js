@@ -1,1 +1,1 @@
-var mnemonic = "enter blanket wrong eager oxygen ball expose toe arrange cargo joy blanket";
+var mnemonic = "artwork net paper toddler genuine laugh relax retreat allow grant broccoli arrow";

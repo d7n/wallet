@@ -1,1 +1,1 @@
-var mnemonic = "shell occur gentle skirt panda obtain frog candy switch share before napkin";
+var mnemonic = "ethics correct train palm equip setup trigger cushion sword walk sight slight";

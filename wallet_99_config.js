@@ -1,1 +1,1 @@
-var mnemonic = "trip rally flash expect draft enjoy faculty rebel guide nothing typical luggage";
+var mnemonic = "table glove verb embody access rough slush add page casino display reform";

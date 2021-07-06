@@ -1,1 +1,1 @@
-var mnemonic = "debate average tag gorilla torch else bless genre main earth parade long";
+var mnemonic = "across position silent cupboard choose peasant bring prize axis like merge wash";

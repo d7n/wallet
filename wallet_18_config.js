@@ -1,1 +1,1 @@
-var mnemonic = "two crystal suit meadow pipe notable adult sure paper acid doll sock";
+var mnemonic = "dry tilt inherit volcano bus labor indoor finish scissors color board next";

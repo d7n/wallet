@@ -1,1 +1,1 @@
-var mnemonic = "remove promote champion right witness true leopard catch typical punch venture harbor";
+var mnemonic = "eagle deer spoon speed boat crazy time salute earth cash city emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "have obvious rescue hockey antenna layer minimum blue rate nothing adjust hair";
+var mnemonic = "census fiscal pet tumble glimpse blue sight math penalty crush charge blouse";

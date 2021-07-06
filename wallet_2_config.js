@@ -1,1 +1,1 @@
-var mnemonic = "jar canoe concert punch throw canvas head nut skin poem release submit";
+var mnemonic = "second spatial bounce castle endorse hole future price lion flame thing bless";

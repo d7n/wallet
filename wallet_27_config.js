@@ -1,1 +1,1 @@
-var mnemonic = "indoor harsh fun vivid danger fluid ostrich peanut please shuffle response feed";
+var mnemonic = "tomorrow retire vintage bitter grid churn toddler decorate volcano firm frozen afraid";

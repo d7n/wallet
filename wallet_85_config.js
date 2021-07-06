@@ -1,1 +1,1 @@
-var mnemonic = "entire differ balance hobby very together hour truck rapid recipe mean mushroom";
+var mnemonic = "ready sauce glue crawl school ladder fury salmon horror rare excess ranch";

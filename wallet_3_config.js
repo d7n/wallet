@@ -1,1 +1,1 @@
-var mnemonic = "initial crack smoke tourist elbow tone ivory setup matter great sentence circle";
+var mnemonic = "breeze gesture few denial sure style rather solution forum gift try shoe";

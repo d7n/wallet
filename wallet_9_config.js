@@ -1,1 +1,1 @@
-var mnemonic = "reform galaxy clown display quit reunion portion endless run aim define swift";
+var mnemonic = "rapid illegal disagree slush near evolve health protect unfair poem remain repeat";

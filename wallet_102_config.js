@@ -1,1 +1,1 @@
-var mnemonic = "stage old bitter donor gaze true curtain lyrics trigger fresh regular spy";
+var mnemonic = "dance butter merge dolphin skate hurdle solid end jeans reopen govern width";

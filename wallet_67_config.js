@@ -1,1 +1,1 @@
-var mnemonic = "galaxy shift adapt tower lecture bubble essay ceiling tribe pistol position session";
+var mnemonic = "amateur grab century best easily slow female inform trade call away unique";

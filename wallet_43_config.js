@@ -1,1 +1,1 @@
-var mnemonic = "shine jaguar trim city carbon auction void cargo harbor junk fancy shaft";
+var mnemonic = "scale fruit today ecology resource leader inform front poet buffalo inject mammal";

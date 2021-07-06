@@ -1,1 +1,1 @@
-var mnemonic = "nothing ensure turtle column obvious radio ceiling patrol usage measure chaos canvas";
+var mnemonic = "lava affair maple topple entire prison blossom cool truth gas gauge juice";

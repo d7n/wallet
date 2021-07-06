@@ -1,1 +1,1 @@
-var mnemonic = "wool border fire awake crazy recycle stairs pudding winner caution sheriff glow";
+var mnemonic = "soon menu cup impulse quality nut jeans normal bless monster camp scale";

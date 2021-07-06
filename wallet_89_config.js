@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ribbon demise topic reform slogan upon engage tissue recycle gossip program";
+var mnemonic = "scrap picnic question heart sight priority affair bean cry fiscal song quick";

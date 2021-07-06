@@ -1,1 +1,1 @@
-var mnemonic = "legend spy push mother simple coin time vanish buddy reward scorpion slight";
+var mnemonic = "vehicle anxiety fence uniform endorse claw boost year rude fabric taste attend";

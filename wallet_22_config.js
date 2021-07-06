@@ -1,1 +1,1 @@
-var mnemonic = "unit car leg embark hole sudden then embody disagree any deal top";
+var mnemonic = "situate plug spatial visit exhibit chest weasel sail endless purse stock lumber";

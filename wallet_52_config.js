@@ -1,1 +1,1 @@
-var mnemonic = "all glide recall credit away prepare target produce spice picnic album fragile";
+var mnemonic = "oak afraid dinosaur shift figure ozone ensure letter snack trophy record amateur";

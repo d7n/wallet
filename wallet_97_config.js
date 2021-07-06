@@ -1,1 +1,1 @@
-var mnemonic = "again brave decrease common patrol because online blush phrase term extend display";
+var mnemonic = "float green index artwork bunker head liberty one purpose sibling mouse crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "size pilot member audit neck index alcohol essay fiber hungry hip spray";
+var mnemonic = "sample skirt already fence evolve shuffle trust either aspect hotel toilet sunset";

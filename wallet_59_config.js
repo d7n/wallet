@@ -1,1 +1,1 @@
-var mnemonic = "start veteran submit ribbon tank organ primary camera snack merge naive wasp";
+var mnemonic = "custom later car hurdle thank camera reward attend draft install immense vital";

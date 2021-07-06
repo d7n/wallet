@@ -1,1 +1,1 @@
-var mnemonic = "narrow benefit say olympic practice inhale spread clever display quit left autumn";
+var mnemonic = "people try auto address enough magnet exact verify quick same perfect dose";

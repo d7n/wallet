@@ -1,1 +1,1 @@
-var mnemonic = "oven project verb staff mule sign color lake focus cancel energy lobster";
+var mnemonic = "card amateur vicious spirit aim chronic embody surprise jar wear midnight manual";

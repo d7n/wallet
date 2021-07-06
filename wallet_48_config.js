@@ -1,1 +1,1 @@
-var mnemonic = "mesh exhaust sure allow grape safe inspire wheel favorite salmon strategy birth";
+var mnemonic = "saddle profit cloud ball cluster imitate planet again bomb asset tone protect";

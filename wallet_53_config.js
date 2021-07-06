@@ -1,1 +1,1 @@
-var mnemonic = "surprise giggle never vault later drip reveal leisure harsh public clock pact";
+var mnemonic = "universe exhibit seat aisle adjust album text lamp obscure monkey kind bottom";

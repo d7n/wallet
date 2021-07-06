@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur lamp ship kitten bag segment garage patient object can blame fringe";
+var mnemonic = "ozone pumpkin fatal caution vapor hip must charge filter kangaroo fee mechanic";

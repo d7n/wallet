@@ -1,1 +1,1 @@
-var mnemonic = "captain oblige brand sea industry record crucial inquiry trouble rotate twelve please";
+var mnemonic = "sell slender harvest stage mention one truck eyebrow they notice neutral empty";

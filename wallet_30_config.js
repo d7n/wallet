@@ -1,1 +1,1 @@
-var mnemonic = "puppy dance spread convince step fashion jaguar essence park bottom sense enhance";
+var mnemonic = "element behind yard language sudden heart earth scene dish unfold gadget frozen";
