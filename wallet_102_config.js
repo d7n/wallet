@@ -1,1 +1,1 @@
-var mnemonic = "zoo emerge wide stomach crop scorpion usage tiny gold garlic slam lazy";
+var mnemonic = "region boy evolve taxi address diesel cliff cluster try script cry road";

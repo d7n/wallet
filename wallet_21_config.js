@@ -1,1 +1,1 @@
-var mnemonic = "quality wise flame grab maid audit hair wink random royal lunar salad";
+var mnemonic = "rookie sign hollow tube unveil conduct wrap border hire coffee profit party";

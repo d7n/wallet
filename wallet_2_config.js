@@ -1,1 +1,1 @@
-var mnemonic = "museum that girl rubber olive behind pony present auto charge remove simple";
+var mnemonic = "solid helmet window detect sea priority gym assume interest tiger three code";

@@ -1,1 +1,1 @@
-var mnemonic = "model high wing wave indoor hole hero huge business noodle decline worth";
+var mnemonic = "apple length discover afraid mad genius chief web learn swallow slice drive";

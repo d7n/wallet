@@ -1,1 +1,1 @@
-var mnemonic = "will carpet pizza finger liar struggle question shed payment rally bracket mail";
+var mnemonic = "regret pelican raccoon rent clump insane will sudden buffalo color casual cloth";

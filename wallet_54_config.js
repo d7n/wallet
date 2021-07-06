@@ -1,1 +1,1 @@
-var mnemonic = "rhythm kitten drift vibrant learn boost uphold sauce wedding body index recycle";
+var mnemonic = "silent program teach invite praise hole demise village able expect nest speak";

@@ -1,1 +1,1 @@
-var mnemonic = "wood trial sword orphan above mystery swap burden switch favorite crumble valley";
+var mnemonic = "fitness hospital symptom cereal ginger begin cloud special alpha when explain early";

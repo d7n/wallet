@@ -1,1 +1,1 @@
-var mnemonic = "arena piece online credit stick rain survey toss universe menu phrase opera";
+var mnemonic = "sentence people old jazz orient throw crouch wide into crouch detect bitter";

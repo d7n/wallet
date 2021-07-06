@@ -1,1 +1,1 @@
-var mnemonic = "light pudding give donate depend lecture puzzle perfect hollow warrior leg repair";
+var mnemonic = "prize coconut input accuse around move venture night cook own live bicycle";

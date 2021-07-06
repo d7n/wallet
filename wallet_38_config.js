@@ -1,1 +1,1 @@
-var mnemonic = "true absent junk assist logic hunt banana program cup desk radio invite";
+var mnemonic = "eagle bless mango jazz resist digital crop pretty later slush dad math";

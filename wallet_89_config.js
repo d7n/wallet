@@ -1,1 +1,1 @@
-var mnemonic = "noble club hospital want sight physical spice tone normal involve gap repeat";
+var mnemonic = "fence punch suspect bone prefer attract supply pioneer series service mosquito trouble";

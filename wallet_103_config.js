@@ -1,1 +1,1 @@
-var mnemonic = "vintage pass crystal dawn hammer rely fantasy pact absent world rose team";
+var mnemonic = "pistol earn knock dilemma airport ostrich nuclear cycle addict company industry infant";

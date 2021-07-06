@@ -1,1 +1,1 @@
-var mnemonic = "more cotton soul denial before reflect merit tattoo skull father crouch eagle";
+var mnemonic = "finger lock lazy jazz pipe rib floor column define devote shove gather";

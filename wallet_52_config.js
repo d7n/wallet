@@ -1,1 +1,1 @@
-var mnemonic = "spirit supply lucky depth candy nephew thought tail above goat island soon";
+var mnemonic = "moment winter arch control already prepare stock champion health genuine nominee awful";

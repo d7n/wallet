@@ -1,1 +1,1 @@
-var mnemonic = "culture sketch pilot sweet reject crystal admit ridge few plug must tower";
+var mnemonic = "unusual achieve lunar toilet capable humble deny theme shield dress duty energy";

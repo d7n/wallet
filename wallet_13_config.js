@@ -1,1 +1,1 @@
-var mnemonic = "found conduct sail divide carpet erupt useless put minimum exile polar stand";
+var mnemonic = "asthma income demand second paper birth afraid slender neglect arch differ copy";

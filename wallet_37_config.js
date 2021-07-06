@@ -1,1 +1,1 @@
-var mnemonic = "social ramp penalty brief together smoke green debris before split trash loyal";
+var mnemonic = "trap any imitate clean episode bitter addict anchor maple spray toe way";

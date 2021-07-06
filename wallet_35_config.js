@@ -1,1 +1,1 @@
-var mnemonic = "device fan virtual salmon stick barely gown change thought leaf pig firm";
+var mnemonic = "bottom fitness error reduce off word cereal unique display merit snap citizen";

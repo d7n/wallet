@@ -1,1 +1,1 @@
-var mnemonic = "alert banana image kingdom hunt matrix inject scan rival maximum theory bid";
+var mnemonic = "trouble swamp swing differ demand sudden track learn creek stumble pact spike";

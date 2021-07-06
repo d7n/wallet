@@ -1,1 +1,1 @@
-var mnemonic = "field blur wish team addict romance hint spawn among amount place soccer";
+var mnemonic = "crime trick plate issue nephew toilet fatal today surprise ancient deny initial";

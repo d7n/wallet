@@ -1,1 +1,1 @@
-var mnemonic = "wreck hard maximum snake attack apology inject enhance ring spell sugar eye";
+var mnemonic = "fiber appear major celery betray popular jazz cotton fashion rhythm library imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper gauge patrol mean blade tobacco aunt crush old advance galaxy fatigue";
+var mnemonic = "crush rail teach happy lumber flavor owner entire mask return gather cable";

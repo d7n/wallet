@@ -1,1 +1,1 @@
-var mnemonic = "food victory lend ship rescue picnic sock gossip square leave shoot orange";
+var mnemonic = "maid case wide skirt exercise region pigeon amount cruel woman few reflect";

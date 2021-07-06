@@ -1,1 +1,1 @@
-var mnemonic = "verb riot tennis myself degree grab humor bridge cloud rich salon lion";
+var mnemonic = "student mix salt danger palace aerobic weekend ranch industry forget wife swim";

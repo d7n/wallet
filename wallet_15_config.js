@@ -1,1 +1,1 @@
-var mnemonic = "hybrid claw effort tuition proud dinner ask labor airport response jump horror";
+var mnemonic = "now cliff east cash grass bless shoe grace online piano stuff device";

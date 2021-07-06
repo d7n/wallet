@@ -1,1 +1,1 @@
-var mnemonic = "pelican ignore ostrich ready citizen glance job audit flame pilot resist critic";
+var mnemonic = "butter basket earn unfold earth scatter stamp emerge weekend rare inside empower";

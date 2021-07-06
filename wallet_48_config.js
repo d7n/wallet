@@ -1,1 +1,1 @@
-var mnemonic = "trigger urge pen identify bid quiz sport seven orchard alter mammal crucial";
+var mnemonic = "setup kitten usual laundry coffee chapter improve dust virtual flower dizzy question";

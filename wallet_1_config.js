@@ -1,1 +1,1 @@
-var mnemonic = "total absorb wide delay turn top enhance deposit modify general acquire prepare";
+var mnemonic = "junk admit trap brand sadness rely reason armed motion ethics fog group";

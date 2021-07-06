@@ -1,1 +1,1 @@
-var mnemonic = "only exist latin taste mesh ordinary exact excite tilt ticket rhythm bacon";
+var mnemonic = "kidney govern head dragon beyond armed proud uncover ten sure post nerve";

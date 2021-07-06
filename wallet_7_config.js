@@ -1,1 +1,1 @@
-var mnemonic = "casual add depend equip solar clown reward bundle ivory dirt sheriff chat";
+var mnemonic = "number mixed hello culture chase maple miss unit include lady damage exchange";

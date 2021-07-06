@@ -1,1 +1,1 @@
-var mnemonic = "add carpet adult box range swift identify paddle romance hurdle patch slogan";
+var mnemonic = "inspire soccer merge clarify world embrace stadium until nice anger cabbage business";

@@ -1,1 +1,1 @@
-var mnemonic = "claw dream absent ski sock panda impact delay among couple blossom spoil";
+var mnemonic = "glide purchase key lunch claim bulk detect frost liberty sunset furnace cradle";

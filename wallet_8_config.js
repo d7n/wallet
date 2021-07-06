@@ -1,1 +1,1 @@
-var mnemonic = "harbor pattern wheel member system tone dream hint law prosper toilet salute";
+var mnemonic = "library guess trade meadow industry plug found agent clarify omit waste good";

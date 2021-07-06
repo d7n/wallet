@@ -1,1 +1,1 @@
-var mnemonic = "know unaware high myself special route pair motor fun knee genuine entry";
+var mnemonic = "onion asset corn tank cluster pumpkin rude casual page please cute blade";

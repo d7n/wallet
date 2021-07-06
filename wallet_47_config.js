@@ -1,1 +1,1 @@
-var mnemonic = "evolve virtual dilemma tongue poet keep flight mango say fruit debate organ";
+var mnemonic = "grape rural polar broccoli pepper super inspire short first kiwi stomach frequent";

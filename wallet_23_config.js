@@ -1,1 +1,1 @@
-var mnemonic = "fragile raw menu fault hat hint moment acquire keep delay ginger border";
+var mnemonic = "direct enough venue lock lizard check future surround long crater have swamp";

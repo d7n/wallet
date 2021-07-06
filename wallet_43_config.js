@@ -1,1 +1,1 @@
-var mnemonic = "punch radar exist exit diary cradle music news notice spare escape october";
+var mnemonic = "capital crouch outside this brave raven tower police author lesson often exclude";

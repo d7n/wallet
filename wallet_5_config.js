@@ -1,1 +1,1 @@
-var mnemonic = "maple mention century yard cube crack stomach often portion endless shove tank";
+var mnemonic = "normal race miss act donkey beauty faint purpose medal famous blame pave";

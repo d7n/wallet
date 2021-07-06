@@ -1,1 +1,1 @@
-var mnemonic = "sunny nominee rebuild struggle crater fish swear shoe paddle drama know april";
+var mnemonic = "popular govern dilemma prize rule birth verb method stage finish toss sunny";

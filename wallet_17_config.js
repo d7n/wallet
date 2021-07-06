@@ -1,1 +1,1 @@
-var mnemonic = "whisper because that social render project blur coffee during ensure kit melt";
+var mnemonic = "pyramid local symbol crumble want express february success clump glad glide letter";

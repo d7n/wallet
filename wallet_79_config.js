@@ -1,1 +1,1 @@
-var mnemonic = "night short surface tray cart weather peace man trend admit design raven";
+var mnemonic = "obscure wide genuine useless wall check gesture action surround desert advance atom";

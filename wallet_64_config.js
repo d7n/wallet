@@ -1,1 +1,1 @@
-var mnemonic = "permit twin label combine strong addict soda umbrella direct alone drama card";
+var mnemonic = "wild swing exile file submit sniff ability balcony awake visual blood gadget";

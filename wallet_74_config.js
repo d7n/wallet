@@ -1,1 +1,1 @@
-var mnemonic = "brown duty genre basket denial category hip affair liquid clock journey submit";
+var mnemonic = "odor slam session ladder lamp artwork smart usual coast antenna tiny best";

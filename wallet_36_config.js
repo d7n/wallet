@@ -1,1 +1,1 @@
-var mnemonic = "camera judge poem cave damage speed frequent crowd will retire angle transfer";
+var mnemonic = "office clown chunk debate until brass pattern must improve cry wait best";

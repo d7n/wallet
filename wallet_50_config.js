@@ -1,1 +1,1 @@
-var mnemonic = "improve skate eagle leisure minimum atom sleep hedgehog coffee deposit toe nest";
+var mnemonic = "prepare change creek gallery grass that wine wheel trim post fork traffic";

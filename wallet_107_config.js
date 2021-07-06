@@ -1,1 +1,1 @@
-var mnemonic = "fuel blade whip approve ridge olive kind obscure hero month stumble project";
+var mnemonic = "crash joy bike sudden couch hello park ladder hero depth light bar";

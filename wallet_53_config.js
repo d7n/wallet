@@ -1,1 +1,1 @@
-var mnemonic = "pole fiction civil slogan vicious mystery wrap arm innocent motor pilot path";
+var mnemonic = "news barely must shallow service perfect limit absent change steak edge relax";

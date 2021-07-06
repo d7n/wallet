@@ -1,1 +1,1 @@
-var mnemonic = "invite novel there fabric shell dog circle input thumb provide chicken member";
+var mnemonic = "smart describe october such stairs garlic uncover click spider hamster matter pitch";

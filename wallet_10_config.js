@@ -1,1 +1,1 @@
-var mnemonic = "arctic upon monitor tongue glory member angry moment together betray student defense";
+var mnemonic = "phrase attract goddess invite arrest snake marble sausage dwarf harvest unveil above";

@@ -1,1 +1,1 @@
-var mnemonic = "baby shock opinion student spare brick lamp wrong fade sketch ship alley";
+var mnemonic = "organ fat trouble city copper lemon robot purchase tiger mountain run device";

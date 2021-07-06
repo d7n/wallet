@@ -1,1 +1,1 @@
-var mnemonic = "bicycle icon buddy bottom kiwi must empower empty hollow derive maze miss";
+var mnemonic = "accident clock assume gossip chapter public tilt narrow endorse shock put awful";

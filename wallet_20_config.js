@@ -1,1 +1,1 @@
-var mnemonic = "mixture scatter settle future assume useful flag unhappy fresh napkin easily square";
+var mnemonic = "shy punch lottery case crucial lobster glass ankle action cube ritual increase";

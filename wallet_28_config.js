@@ -1,1 +1,1 @@
-var mnemonic = "into gravity elder truck lamp movie float lucky power chunk total assist";
+var mnemonic = "orbit chief design mix absurd dumb absorb mention radio just book fox";

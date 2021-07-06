@@ -1,1 +1,1 @@
-var mnemonic = "wrist glimpse brass beauty final spoil ready cherry jealous twin punch roof";
+var mnemonic = "depart cereal display mutual cruise certain spell leisure run history invite home";

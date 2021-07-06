@@ -1,1 +1,1 @@
-var mnemonic = "pull bless perfect icon acid sunset symbol knife denial verb tone since";
+var mnemonic = "dutch glimpse shield soldier goose topic lounge short swarm expand knock input";

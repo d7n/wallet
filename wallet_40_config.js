@@ -1,1 +1,1 @@
-var mnemonic = "teach inject nice else portion exist dice benefit joke dawn symbol upper";
+var mnemonic = "civil slush there cinnamon bottom author toy tank delay utility vault guard";

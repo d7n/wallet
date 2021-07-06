@@ -1,1 +1,1 @@
-var mnemonic = "you flight finger negative dinner dice drink lock nurse island border bonus";
+var mnemonic = "monkey elder pen wing success marine coach fluid cover cry stand cute";

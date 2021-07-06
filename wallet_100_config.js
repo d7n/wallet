@@ -1,1 +1,1 @@
-var mnemonic = "tell prosper purpose bunker cover thrive category ketchup code permit trim ring";
+var mnemonic = "state spoil rapid true level amused toy stage hole join excess twin";

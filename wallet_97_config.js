@@ -1,1 +1,1 @@
-var mnemonic = "worry marine pig repeat gold drip champion all swear dentist very damage";
+var mnemonic = "motor phone square brave slide speak drum pause gym warrior promote below";

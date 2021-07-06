@@ -1,1 +1,1 @@
-var mnemonic = "speak decrease organ oak captain crawl airport reflect return smoke puppy fox";
+var mnemonic = "meat soon federal someone infant train fat blur abuse boy creek cruise";

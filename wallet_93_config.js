@@ -1,1 +1,1 @@
-var mnemonic = "cricket credit room live swift garlic clever object crush approve valid measure";
+var mnemonic = "solution image cover liberty rose pigeon harvest security horror estate fantasy child";

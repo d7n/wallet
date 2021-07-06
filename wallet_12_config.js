@@ -1,1 +1,1 @@
-var mnemonic = "glimpse repair own feel garbage mystery abuse happy again blouse arrange shallow";
+var mnemonic = "resemble flag palace logic cook alter wife tumble exchange illegal horse master";

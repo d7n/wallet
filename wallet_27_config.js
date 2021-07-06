@@ -1,1 +1,1 @@
-var mnemonic = "heavy sight glare isolate expect tired lemon mind goddess crucial injury banana";
+var mnemonic = "mix catalog recycle narrow two chicken rain culture result pipe amazing basket";

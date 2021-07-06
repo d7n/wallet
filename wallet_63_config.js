@@ -1,1 +1,1 @@
-var mnemonic = "oblige own wise heavy term alert reason antenna merit merit strike subway";
+var mnemonic = "owner today column clown birth second arm portion twist move acquire miracle";

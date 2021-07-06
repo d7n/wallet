@@ -1,1 +1,1 @@
-var mnemonic = "ice mix afford piece peanut pledge cliff ugly enjoy slice artefact laundry";
+var mnemonic = "hole category gold lunch rigid skirt grocery pulp more lumber dance veteran";

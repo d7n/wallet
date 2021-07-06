@@ -1,1 +1,1 @@
-var mnemonic = "vintage meadow borrow erase yard case force hazard vicious hero loud tank";
+var mnemonic = "despair regret since deliver lift razor sand addict decade fox source empty";

@@ -1,1 +1,1 @@
-var mnemonic = "solid artwork remain woman vanish trash long gain olive boring tomato school";
+var mnemonic = "worth talk pair bounce accident gift book apple polar galaxy pyramid capital";

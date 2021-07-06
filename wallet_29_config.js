@@ -1,1 +1,1 @@
-var mnemonic = "treat narrow shine remind galaxy between cinnamon caution panther exhaust hand raccoon";
+var mnemonic = "axis radar flash paddle wheat goddess more various trouble movie helmet crop";

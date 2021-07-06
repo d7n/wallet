@@ -1,1 +1,1 @@
-var mnemonic = "bottom rally joy essence trend shaft common curious zone blood float rescue";
+var mnemonic = "dizzy review town velvet foot toast infant eye truck barely theory grant";

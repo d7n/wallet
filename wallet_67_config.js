@@ -1,1 +1,1 @@
-var mnemonic = "design vessel display army marble cradle team dress coyote first glare uncover";
+var mnemonic = "chapter win seat more merry science quick puzzle again rebel shine night";

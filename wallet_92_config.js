@@ -1,1 +1,1 @@
-var mnemonic = "agree pipe magnet keep hollow honey rotate ribbon model chief quiz behave";
+var mnemonic = "normal pave screen pudding wine dawn session captain canvas same surprise still";

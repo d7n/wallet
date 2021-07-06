@@ -1,1 +1,1 @@
-var mnemonic = "file catalog plate margin limb put hire spring web armed social will";
+var mnemonic = "nephew spin write mule harbor life jar film blind island school tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "media love able bid eternal sadness box mix pipe bunker letter ship";
+var mnemonic = "donor anxiety legend normal final ethics camera civil fatigue clinic curve bracket";

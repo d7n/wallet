@@ -1,1 +1,1 @@
-var mnemonic = "legend above husband high fortune reward hen umbrella axis enable palm tennis";
+var mnemonic = "escape pull desert ice fix abandon among unlock plunge roast deliver media";

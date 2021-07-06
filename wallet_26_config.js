@@ -1,1 +1,1 @@
-var mnemonic = "olive retreat crowd extra own magnet forest oval blush rabbit wisdom impulse";
+var mnemonic = "chaos direct book hidden memory slide snow aerobic hollow decide era eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "hero senior luggage fluid wave cabin awful afford squeeze tennis where mirror";
+var mnemonic = "shove bus junior scout milk resist spend recycle curve thrive peasant involve";

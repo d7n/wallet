@@ -1,1 +1,1 @@
-var mnemonic = "jar real cost junk border diary oil stable today can tooth pass";
+var mnemonic = "gaze rain test conduct number fragile clap welcome domain puppy torch elite";

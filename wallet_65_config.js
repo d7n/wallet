@@ -1,1 +1,1 @@
-var mnemonic = "master device blame patch october recipe biology crisp laugh visit head gap";
+var mnemonic = "ivory tortoise large bachelor risk matter skirt margin frequent member museum market";

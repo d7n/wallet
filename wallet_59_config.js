@@ -1,1 +1,1 @@
-var mnemonic = "quarter rare wink lawsuit smooth nothing choice champion dolphin tray avocado lecture";
+var mnemonic = "muscle inject armed uniform violin judge scorpion boy merge level strong buffalo";

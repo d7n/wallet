@@ -1,1 +1,1 @@
-var mnemonic = "gold uphold anxiety razor lesson limit narrow profit nose option goat fringe";
+var mnemonic = "inside rib sound current evil chef cargo pass wink attend buyer visual";

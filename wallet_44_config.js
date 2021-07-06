@@ -1,1 +1,1 @@
-var mnemonic = "burden sadness vast drill leader trophy sketch victory put tower pumpkin garden";
+var mnemonic = "emerge beach unlock tag rare unfold layer next amused panel usual rose";

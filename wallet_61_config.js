@@ -1,1 +1,1 @@
-var mnemonic = "series thing model zebra rubber story sick kite cage agent frame vibrant";
+var mnemonic = "oven beyond away total unveil dose rice hood weekend identify clay toe";

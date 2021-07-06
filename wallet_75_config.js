@@ -1,1 +1,1 @@
-var mnemonic = "ancient journey result vintage vivid weird pupil aspect alert tiny impulse often";
+var mnemonic = "rookie fetch science build owner way climb permit lonely wheel birth review";

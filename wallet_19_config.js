@@ -1,1 +1,1 @@
-var mnemonic = "leaf turn inspire image join kind salute decline clap gadget broom orphan";
+var mnemonic = "shift young tumble identify creek cup shove legal coral embody mention staff";

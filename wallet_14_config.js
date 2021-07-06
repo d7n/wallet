@@ -1,1 +1,1 @@
-var mnemonic = "parade what virus notice animal text predict nominee fury injury river naive";
+var mnemonic = "credit purity choice basket manage essay resemble reduce stuff object age squeeze";

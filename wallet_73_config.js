@@ -1,1 +1,1 @@
-var mnemonic = "brief win talent trouble asset badge fancy fog hollow victory top occur";
+var mnemonic = "fog steak huge chronic replace resemble fetch bring assume always lyrics urge";

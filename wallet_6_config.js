@@ -1,1 +1,1 @@
-var mnemonic = "garden fragile then tumble suit path night favorite police undo conduct edit";
+var mnemonic = "circle flee type host hand shuffle desk pen scare laptop check language";

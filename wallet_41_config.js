@@ -1,1 +1,1 @@
-var mnemonic = "release term chunk broom furnace stem rude fancy fetch fresh razor powder";
+var mnemonic = "february move leaf game three kick equip stumble marble emerge object spider";

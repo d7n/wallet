@@ -1,1 +1,1 @@
-var mnemonic = "retire panel perfect canvas absorb base notice surround example legend trumpet base";
+var mnemonic = "loan divide video wheel topic surface museum metal pipe produce ready project";

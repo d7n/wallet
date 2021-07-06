@@ -1,1 +1,1 @@
-var mnemonic = "story click economy dash still awkward friend artwork damp cannon badge frown";
+var mnemonic = "mad aisle color cattle practice double giggle jar possible scene pilot estate";

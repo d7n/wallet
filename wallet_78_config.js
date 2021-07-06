@@ -1,1 +1,1 @@
-var mnemonic = "donate disorder peanut under blood crime flock resist romance gate six shine";
+var mnemonic = "space present van attitude weather bulb shoot destroy link hammer airport cage";
