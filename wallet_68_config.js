@@ -1,1 +1,1 @@
-var mnemonic = "life then relief track flee tired horror audit remind idea mixed engine";
+var mnemonic = "tortoise emerge practice hen embark arctic assume maid medal impulse van wood";

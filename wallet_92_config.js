@@ -1,1 +1,1 @@
-var mnemonic = "gift theory build peanut prize build speed safe illegal buffalo original favorite";
+var mnemonic = "walnut gossip behave weather garlic decade bounce dizzy prize move surround until";

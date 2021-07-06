@@ -1,1 +1,1 @@
-var mnemonic = "such world practice cat wink warm insect yard wheel thank custom cinnamon";
+var mnemonic = "caution device draft gift scout coin multiply stage true public head crater";

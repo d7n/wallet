@@ -1,1 +1,1 @@
-var mnemonic = "ladder model tortoise theme junk useless cause venue upon turtle twin sweet";
+var mnemonic = "choice lazy disagree later unfair brisk fatal dirt pumpkin member excite wink";

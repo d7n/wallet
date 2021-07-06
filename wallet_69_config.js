@@ -1,1 +1,1 @@
-var mnemonic = "mean violin donate panda lobster census disorder scout conduct shrimp talent someone";
+var mnemonic = "guess woman index arch bronze zoo impose rude dignity tenant trial patient";

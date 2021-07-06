@@ -1,1 +1,1 @@
-var mnemonic = "turkey obey manual pattern jungle sweet pear ride twist push result rough";
+var mnemonic = "miss balcony lumber coral accident token unusual wink reflect maple soap pull";

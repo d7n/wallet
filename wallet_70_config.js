@@ -1,1 +1,1 @@
-var mnemonic = "veteran park draft mandate arm pipe cattle guilt suffer devote oppose raven";
+var mnemonic = "better curious element scrub name practice myself shift glue mystery actress cattle";

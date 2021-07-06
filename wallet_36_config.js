@@ -1,1 +1,1 @@
-var mnemonic = "rose analyst mandate rely bacon question way engine dragon rail trigger okay";
+var mnemonic = "barely lazy inherit knock debate mule praise champion common alcohol sunset august";

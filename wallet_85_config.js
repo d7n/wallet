@@ -1,1 +1,1 @@
-var mnemonic = "quarter opinion regular onion neck matter gain similar happy door twice example";
+var mnemonic = "light deer float boost morning gravity team charge venture absent trim long";

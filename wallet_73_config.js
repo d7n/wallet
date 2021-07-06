@@ -1,1 +1,1 @@
-var mnemonic = "announce doctor matrix edit vague sniff symbol tent tag fence vintage dizzy";
+var mnemonic = "gym cry valley token math ride wreck object rescue smooth scare axis";

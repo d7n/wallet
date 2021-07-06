@@ -1,1 +1,1 @@
-var mnemonic = "laptop coin grow inflict wolf stomach rescue door denial want since effort";
+var mnemonic = "answer ignore boil firm mirror squirrel bench canoe medal purity flock furnace";

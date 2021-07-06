@@ -1,1 +1,1 @@
-var mnemonic = "cheese shop notable humor sister pudding please twist airport pulse plastic orbit";
+var mnemonic = "truth pink wet miracle gym slot nest demand foil weather coconut eagle";

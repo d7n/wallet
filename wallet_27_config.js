@@ -1,1 +1,1 @@
-var mnemonic = "vital venture give used never fine change grant echo flee lounge slam";
+var mnemonic = "combine punch hungry tent quality trend sock near elegant stone foot blade";

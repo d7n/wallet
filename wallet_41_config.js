@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon action either ramp cactus walnut feature world staff carpet salon tilt";
+var mnemonic = "pave valid anger suggest mention renew crisp robust small future split change";

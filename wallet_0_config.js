@@ -1,1 +1,1 @@
-var mnemonic = "leader other stool keep love silent holiday left twice weekend display nasty";
+var mnemonic = "scale record become border delay kangaroo ancient tube ring trophy cushion unhappy";

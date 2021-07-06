@@ -1,1 +1,1 @@
-var mnemonic = "wisdom silly knock vivid useless bacon glory hedgehog primary maximum box capital";
+var mnemonic = "number spice off delay primary violin cry job define barely wild rose";

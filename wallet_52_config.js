@@ -1,1 +1,1 @@
-var mnemonic = "position attract honey fee matter when valley genuine miracle siege stool glory";
+var mnemonic = "message law brief door peasant scrub gain federal nurse deer kiwi badge";

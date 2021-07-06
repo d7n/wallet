@@ -1,1 +1,1 @@
-var mnemonic = "noodle jump problem sustain yellow crystal denial alarm table novel census climb";
+var mnemonic = "choice soldier tomorrow until heart fossil fatigue issue other caution ribbon limb";

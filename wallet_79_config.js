@@ -1,1 +1,1 @@
-var mnemonic = "like dawn above motor all leave pave vocal dumb cancel credit trade";
+var mnemonic = "pottery mixture stage obvious mosquito sock cheap easy treat number online select";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale mixture antenna leopard whip square exotic rhythm useless elite curtain twice";
+var mnemonic = "inject ability truth adapt pottery way sand indicate crunch eagle there better";

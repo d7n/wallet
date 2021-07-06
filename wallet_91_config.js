@@ -1,1 +1,1 @@
-var mnemonic = "certain person fitness vague seven credit caught fantasy name sweet balcony various";
+var mnemonic = "notable earn police keep find slab gold dilemma argue swift tool gown";

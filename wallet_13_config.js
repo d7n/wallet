@@ -1,1 +1,1 @@
-var mnemonic = "snap deputy airport radar bounce denial fox stool direct funny civil swarm";
+var mnemonic = "bundle belt turkey manage tank skirt crew left brown stem veteran eight";

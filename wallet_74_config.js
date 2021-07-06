@@ -1,1 +1,1 @@
-var mnemonic = "wrist type panda history between lawn peace scare exit pave planet until";
+var mnemonic = "noodle security suspect essence chase beef sudden box key enter mouse situate";

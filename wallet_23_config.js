@@ -1,1 +1,1 @@
-var mnemonic = "oblige canyon transfer bubble portion velvet tide resemble genius idea room erase";
+var mnemonic = "paper noise any save hope scrap boss certain slender garden pattern unusual";

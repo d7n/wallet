@@ -1,1 +1,1 @@
-var mnemonic = "reflect kind era neutral act glass survey heavy fabric infant balance glance";
+var mnemonic = "gallery convince muscle common rookie siege mystery arrive silent butter fit square";

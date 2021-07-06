@@ -1,1 +1,1 @@
-var mnemonic = "silly trophy sound tiger flame dolphin length exhibit plug oyster case flash";
+var mnemonic = "people extra extra thrive always junior try dog talk garlic basket mimic";

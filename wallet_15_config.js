@@ -1,1 +1,1 @@
-var mnemonic = "prize artwork glove book near law blast mirror goddess adjust leader blind";
+var mnemonic = "language south broken solar boy essence broom garment round garlic food order";

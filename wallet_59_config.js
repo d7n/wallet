@@ -1,1 +1,1 @@
-var mnemonic = "mouse tonight nut donate produce talk will present guard announce coyote noble";
+var mnemonic = "little target ordinary limb exist final amused combine segment embody sunset roast";

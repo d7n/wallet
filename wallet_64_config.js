@@ -1,1 +1,1 @@
-var mnemonic = "cycle best add valley cannon differ scene all lottery crop wrist arm";
+var mnemonic = "excite flip milk glance wet box access act lyrics man measure ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "rug congress clip runway blush dish slab beach aerobic online swift sudden";
+var mnemonic = "happy gentle barrel topic upper charge glimpse margin truth lake depart hurry";

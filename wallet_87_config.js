@@ -1,1 +1,1 @@
-var mnemonic = "stamp ostrich payment scatter wrist mean fever identify trade dignity salt author";
+var mnemonic = "blanket world rough school diary trash witness exhaust provide trend master direct";

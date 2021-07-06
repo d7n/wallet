@@ -1,1 +1,1 @@
-var mnemonic = "artefact track host lake grape detect rice diary tower summer pole color";
+var mnemonic = "obey finger permit brain pottery risk educate viable office cover document extra";

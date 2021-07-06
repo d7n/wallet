@@ -1,1 +1,1 @@
-var mnemonic = "sign space climb claw web foot gown believe mobile scatter asthma first";
+var mnemonic = "piano beach lamp heart photo demise mouse owner misery coconut summer smooth";

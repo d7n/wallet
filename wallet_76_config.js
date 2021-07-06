@@ -1,1 +1,1 @@
-var mnemonic = "join monitor meat fix stay open empower special multiply boring stuff ensure";
+var mnemonic = "like music puppy renew legal boost lumber noodle misery rookie chest blame";

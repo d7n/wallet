@@ -1,1 +1,1 @@
-var mnemonic = "blade movie nerve cute spatial saddle give cross forward marble spatial ride";
+var mnemonic = "hurdle cable lumber urge evil become prison labor okay crazy about panda";

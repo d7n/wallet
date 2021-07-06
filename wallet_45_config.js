@@ -1,1 +1,1 @@
-var mnemonic = "lock thing lonely churn notice life drink drip wonder wool trade admit";
+var mnemonic = "agree cram liar pool subway dumb office snack combine renew spider core";

@@ -1,1 +1,1 @@
-var mnemonic = "spider educate discover capital play ketchup robot client horn trade west squirrel";
+var mnemonic = "trigger joy half latin sister nuclear wealth fever record narrow lava amount";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel draw wrist episode occur monkey index neither gain december lecture palace";
+var mnemonic = "ghost timber switch mail average truth arrow arena fish become thing mention";

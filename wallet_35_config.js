@@ -1,1 +1,1 @@
-var mnemonic = "duck lock patrol other heart invite amateur argue plate jazz treat naive";
+var mnemonic = "drum family eyebrow soon size viable bright skin boil fiber gauge solution";

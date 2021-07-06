@@ -1,1 +1,1 @@
-var mnemonic = "bacon food hire shell insane average glove raven click find accuse want";
+var mnemonic = "miracle alley guess human fiction glove return valid annual enter critic destroy";

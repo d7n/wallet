@@ -1,1 +1,1 @@
-var mnemonic = "grape video vapor drama any bonus tribe vague pistol draw kid innocent";
+var mnemonic = "pony amazing enforce dune float reunion shoulder awake fresh cliff raccoon street";

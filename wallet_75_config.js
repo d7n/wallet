@@ -1,1 +1,1 @@
-var mnemonic = "course lend word what point palm hospital merit loud laundry lunar obvious";
+var mnemonic = "little trumpet traffic music ribbon alone urge brown poem dolphin law nice";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish design announce parrot nuclear quiz increase steak bridge light next dumb";
+var mnemonic = "spawn entry remain poet riot acoustic cloud token spike citizen wealth cheese";

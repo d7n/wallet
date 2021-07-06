@@ -1,1 +1,1 @@
-var mnemonic = "level render confirm hedgehog often action mystery meat core caution bottom february";
+var mnemonic = "retire curious demand early private blossom organ gorilla blast undo undo apology";

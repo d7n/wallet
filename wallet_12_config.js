@@ -1,1 +1,1 @@
-var mnemonic = "unable sketch maze zebra woman inmate notice essence cupboard alpha stem pilot";
+var mnemonic = "aim similar okay palace goat era pledge height super damage review okay";

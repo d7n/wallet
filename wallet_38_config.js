@@ -1,1 +1,1 @@
-var mnemonic = "certain smart verify legend purse song hub pigeon defense apart industry flush";
+var mnemonic = "virus gesture frown picture gossip recipe glance young canoe steel gravity master";

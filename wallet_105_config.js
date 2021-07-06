@@ -1,1 +1,1 @@
-var mnemonic = "thank shell magic inhale various crystal intact casual summer cousin vocal upper";
+var mnemonic = "enact topic you buzz describe drift mail cute small pig limit vintage";

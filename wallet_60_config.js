@@ -1,1 +1,1 @@
-var mnemonic = "vacuum play clap annual deputy example magic utility science correct glance announce";
+var mnemonic = "occur fashion then peasant face original permit piece guard talent gloom order";

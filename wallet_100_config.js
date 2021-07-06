@@ -1,1 +1,1 @@
-var mnemonic = "pill vessel garden oyster cart lunch path kiwi opinion iron salt spider";
+var mnemonic = "eagle decline bring cabbage tenant speak girl element cloud crush noble scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "unique utility garden response fancy symbol board total order conduct flower kidney";
+var mnemonic = "maze seed autumn pave donkey dune claim rural blast hurry knee promote";

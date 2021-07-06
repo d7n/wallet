@@ -1,1 +1,1 @@
-var mnemonic = "note rose catch fiction trouble toy valid chat print indoor oyster lobster";
+var mnemonic = "person lock prize burger baby heavy what rhythm distance throw width badge";

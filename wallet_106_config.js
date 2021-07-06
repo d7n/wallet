@@ -1,1 +1,1 @@
-var mnemonic = "wool such shrug marriage caught fancy appear runway tell script broken title";
+var mnemonic = "umbrella skirt excess bomb concert suggest economy edge online elephant now harbor";

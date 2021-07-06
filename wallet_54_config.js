@@ -1,1 +1,1 @@
-var mnemonic = "embrace output ceiling pistol keep run company upper aunt will midnight point";
+var mnemonic = "index legend marine fame sample shoe moral boring assist piece kiss mad";

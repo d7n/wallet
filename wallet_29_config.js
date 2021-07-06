@@ -1,1 +1,1 @@
-var mnemonic = "purity merit range gospel same monkey clarify solid doctor wisdom spice vibrant";
+var mnemonic = "fetch average return random family toss peace rocket dawn dawn rally arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "increase wait absorb under scare pumpkin goose put afraid swamp rabbit split";
+var mnemonic = "useless casino vague creek slim aspect bone pony egg price humor scan";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing glad october manage grant bracket attack jelly casual rifle silver spoon";
+var mnemonic = "kangaroo toilet cabbage august struggle shove toy pepper major neglect congress rose";

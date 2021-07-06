@@ -1,1 +1,1 @@
-var mnemonic = "transfer rich box banner chronic still layer glass quantum program prosper stumble";
+var mnemonic = "repair bid rigid motion train caution gossip hockey eagle garden level eagle";

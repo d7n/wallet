@@ -1,1 +1,1 @@
-var mnemonic = "foil arrange couple narrow million color year ketchup actor shop then health";
+var mnemonic = "elevator history walk disorder between scale sad family helmet print mind hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "shock differ jeans clay decorate humor gold success curve during swim action";
+var mnemonic = "faculty increase brisk desert witness six correct dismiss level dial same tide";

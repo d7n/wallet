@@ -1,1 +1,1 @@
-var mnemonic = "eye nest muscle solid exhibit rely point song burger unhappy engine comfort";
+var mnemonic = "flower plug view vault easy collect hammer cupboard engine galaxy protect wealth";

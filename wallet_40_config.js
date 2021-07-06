@@ -1,1 +1,1 @@
-var mnemonic = "cause shadow patrol dawn acoustic alcohol lumber crater catalog violin gasp cat";
+var mnemonic = "ocean manage valve weapon flame trim crop quiz margin program enhance ordinary";

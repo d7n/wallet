@@ -1,1 +1,1 @@
-var mnemonic = "lyrics destroy venture feed knife almost chef word become inmate poet alien";
+var mnemonic = "crucial adapt city best this drama taste kiwi demise robot outdoor hotel";

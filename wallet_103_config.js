@@ -1,1 +1,1 @@
-var mnemonic = "report you novel case cash rival build cloth alpha deposit gravity slow";
+var mnemonic = "wise letter waste pepper rigid general neglect trumpet toe toy spatial holiday";

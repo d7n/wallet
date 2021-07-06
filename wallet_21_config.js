@@ -1,1 +1,1 @@
-var mnemonic = "domain outer fly urban goose alert pair invite wine arena misery matter";
+var mnemonic = "allow gas treat dog company force bracket comic year detail ripple music";

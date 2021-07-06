@@ -1,1 +1,1 @@
-var mnemonic = "aspect gold cake deputy output world team ten evolve machine dune airport";
+var mnemonic = "turn daughter drift glory erosion fury apple bulb foil frame melt false";

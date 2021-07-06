@@ -1,1 +1,1 @@
-var mnemonic = "obtain math daring great hurdle umbrella ability state hospital empty any federal";
+var mnemonic = "turn verify birth turtle panic apple now scene dish defy dizzy sudden";

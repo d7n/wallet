@@ -1,1 +1,1 @@
-var mnemonic = "run thing wing pipe soldier purity toast birth surprise renew vehicle better";
+var mnemonic = "connect swift link zone surprise local absorb reject oven legend resist dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "meat enrich eyebrow online gesture ship liberty atom club name hammer wide";
+var mnemonic = "salon march dolphin elegant tobacco security nominee outdoor palace thought abandon keen";

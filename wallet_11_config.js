@@ -1,1 +1,1 @@
-var mnemonic = "paddle canoe unfair catch close problem hazard trophy wing mobile input satisfy";
+var mnemonic = "potato rival bunker beef vanish unusual plunge peanut true ocean dutch gravity";

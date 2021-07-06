@@ -1,1 +1,1 @@
-var mnemonic = "sunny tool weekend antique dentist lady eye radio panic hurry often coil";
+var mnemonic = "remind pond bind useful olympic dose winter pepper grain gallery turkey race";

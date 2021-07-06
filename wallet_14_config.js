@@ -1,1 +1,1 @@
-var mnemonic = "host stumble chicken metal upgrade flag comfort night axis false october diary";
+var mnemonic = "book tunnel card barely olympic equip library true tissue vehicle entry report";

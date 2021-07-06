@@ -1,1 +1,1 @@
-var mnemonic = "pond height thought airport error captain gallery brown chest lottery excuse element";
+var mnemonic = "arrange orphan patch chapter stomach garment deal host immense angle list disagree";

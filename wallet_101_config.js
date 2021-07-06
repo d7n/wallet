@@ -1,1 +1,1 @@
-var mnemonic = "shadow fabric breeze victory quality grow spice dry essence treat bamboo fabric";
+var mnemonic = "destroy pause large flavor bronze between frog wood balcony bunker child page";

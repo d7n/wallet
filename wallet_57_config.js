@@ -1,1 +1,1 @@
-var mnemonic = "rose fruit fancy solution viable cable catalog lens habit pool wrist moral";
+var mnemonic = "usual flame federal hire close boost athlete pioneer stamp capital flash toilet";

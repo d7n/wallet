@@ -1,1 +1,1 @@
-var mnemonic = "calm huge nation session swim keen finish develop crater sniff rabbit normal";
+var mnemonic = "income inner poem error month shoulder window scale sister upper cup note";

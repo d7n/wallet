@@ -1,1 +1,1 @@
-var mnemonic = "toilet tank penalty carry hip interest oppose wrong over mechanic face canvas";
+var mnemonic = "ship surge mesh spoon spike marble orient mom tip tenant human ship";

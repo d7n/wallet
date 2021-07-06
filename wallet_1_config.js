@@ -1,1 +1,1 @@
-var mnemonic = "step useless robot daughter iron west chair ramp various diagram twenty width";
+var mnemonic = "nest boss sad cost material fury utility you inquiry salmon athlete match";

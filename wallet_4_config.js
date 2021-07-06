@@ -1,1 +1,1 @@
-var mnemonic = "recall lend crazy wood chest fatigue grocery husband valley use rather catalog";
+var mnemonic = "ankle sun type screen electric subject turtle poem memory tip note satoshi";

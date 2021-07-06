@@ -1,1 +1,1 @@
-var mnemonic = "focus enforce peasant anger property off this addict recall broccoli build cliff";
+var mnemonic = "culture inflict evolve tool fantasy bulb typical defense antique decade deliver distance";

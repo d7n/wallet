@@ -1,1 +1,1 @@
-var mnemonic = "fine donkey pattern real art sun again love action denial inch trust";
+var mnemonic = "van trust strong conduct swallow cook arrow village aware pulse kitchen wise";

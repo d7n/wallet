@@ -1,1 +1,1 @@
-var mnemonic = "roast april remain insect notice enter chair token bundle slow dad cruel";
+var mnemonic = "real february grape worth differ crew total kiss target husband fortune immense";

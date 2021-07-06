@@ -1,1 +1,1 @@
-var mnemonic = "cook raccoon ivory weasel earth close lecture pear model print yard board";
+var mnemonic = "merge example lazy horn million point leg demise collect group guard kick";

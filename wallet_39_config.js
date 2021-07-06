@@ -1,1 +1,1 @@
-var mnemonic = "morning leisure rich fiction amazing cousin civil artist maple meat normal media";
+var mnemonic = "actor congress normal unknown twice work puppy fold distance excuse glare abuse";

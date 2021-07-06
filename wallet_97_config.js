@@ -1,1 +1,1 @@
-var mnemonic = "dinner chase fork recipe firm year blame media liar peanut scale will";
+var mnemonic = "faith chest someone race ball peace snow already debate gift scene blood";

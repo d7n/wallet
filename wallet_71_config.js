@@ -1,1 +1,1 @@
-var mnemonic = "above screen travel doctor milk ocean direct provide jealous south forum keep";
+var mnemonic = "love admit photo culture base rich mouse open purity trash present else";

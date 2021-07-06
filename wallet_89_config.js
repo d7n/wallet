@@ -1,1 +1,1 @@
-var mnemonic = "february expose cousin own mansion ability damp bread window win impose female";
+var mnemonic = "annual once swallow just fresh today drift fade endless easily upper elder";

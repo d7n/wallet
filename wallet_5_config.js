@@ -1,1 +1,1 @@
-var mnemonic = "close doll two unhappy motion lounge dash bachelor sustain nut expand rebel";
+var mnemonic = "rhythm valid curtain wine human eternal tiny monitor wood butter broom hover";

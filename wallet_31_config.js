@@ -1,1 +1,1 @@
-var mnemonic = "winter jungle sign decorate melody slide guitar chest stock real blossom odor";
+var mnemonic = "crisp female purse immense obey recycle auto coral basic artefact order auto";

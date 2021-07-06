@@ -1,1 +1,1 @@
-var mnemonic = "festival plug also gloom follow picnic task risk custom various siren want";
+var mnemonic = "dust tape kid grow above office imitate ready wealth clarify grain relief";

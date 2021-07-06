@@ -1,1 +1,1 @@
-var mnemonic = "curious pole resist begin civil fiction zebra toward satoshi patrol shoe crop";
+var mnemonic = "recycle unaware twelve accuse always fantasy depend leisure laptop scissors doll skull";
