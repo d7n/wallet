@@ -1,1 +1,1 @@
-var mnemonic = "congress husband pole same vapor note tragic metal inject notice boat cupboard";
+var mnemonic = "miracle dismiss bridge knock trumpet bonus million push split tuition diagram expand";

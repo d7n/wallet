@@ -1,1 +1,1 @@
-var mnemonic = "coach letter reveal can day educate picnic wrong theory never around exclude";
+var mnemonic = "organ ladder artwork cash basic sight jar little lazy treat genius canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel text direct squeeze quit midnight hen marble fee horn shrug solid";
+var mnemonic = "anger cube powder whale scorpion twin glow wide forest various potato menu";

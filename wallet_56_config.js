@@ -1,1 +1,1 @@
-var mnemonic = "permit kiss spike vault unhappy various critic pave orbit spider trip trumpet";
+var mnemonic = "since short tortoise lucky grass crisp response cradle uncover repair over art";

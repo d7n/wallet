@@ -1,1 +1,1 @@
-var mnemonic = "mail useful virtual sure speak nut stove oven blast trade ask fish";
+var mnemonic = "labor side path traffic middle all track skull grit mushroom insane outer";

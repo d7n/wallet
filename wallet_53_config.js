@@ -1,1 +1,1 @@
-var mnemonic = "chest sniff scatter olympic wine staff walk code pass salon legal wonder";
+var mnemonic = "gadget urban tell enemy list high spring buyer accident meadow fruit knee";

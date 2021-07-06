@@ -1,1 +1,1 @@
-var mnemonic = "expire usual absurd belt forum eye hat dream unhappy evoke knee session";
+var mnemonic = "jeans soccer wife guide path afford hat update possible debris opera shiver";

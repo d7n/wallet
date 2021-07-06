@@ -1,1 +1,1 @@
-var mnemonic = "ethics isolate legal fiber decide intact pluck tail horn frozen volume mimic";
+var mnemonic = "car lend muffin that decade type copy vintage shy raccoon hard online";

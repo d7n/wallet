@@ -1,1 +1,1 @@
-var mnemonic = "retreat feel flash tuition yellow sport market lawn mass smile magic conduct";
+var mnemonic = "mule disorder raise laugh boring size woman spoil brother popular acoustic donate";

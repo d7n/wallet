@@ -1,1 +1,1 @@
-var mnemonic = "auto purity wish vague wink venture filter youth skill sun sample leg";
+var mnemonic = "piano vehicle dismiss cycle galaxy success twelve energy tape resemble same miss";

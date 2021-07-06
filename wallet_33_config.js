@@ -1,1 +1,1 @@
-var mnemonic = "grit short burden quarter mobile client safe aunt early pistol fresh quality";
+var mnemonic = "thumb welcome quit rabbit trick neck sunset pencil hollow index someone lamp";

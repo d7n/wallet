@@ -1,1 +1,1 @@
-var mnemonic = "wisdom ginger accuse bus already mouse spy step salt insane trust fine";
+var mnemonic = "spoil culture gospel visit adult olive acoustic mistake prison round general acoustic";

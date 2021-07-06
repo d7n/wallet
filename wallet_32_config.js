@@ -1,1 +1,1 @@
-var mnemonic = "ceiling metal deal intact hungry defense vendor banana room wink lyrics history";
+var mnemonic = "useful spy sphere glimpse until divert spoon staff cloud giant select country";

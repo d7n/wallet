@@ -1,1 +1,1 @@
-var mnemonic = "stick jelly practice frame verb alien slab fitness kiwi month rose aware";
+var mnemonic = "bar cat switch sail course alley sure harvest gun what garage image";

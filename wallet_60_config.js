@@ -1,1 +1,1 @@
-var mnemonic = "pulse inner bonus erase agent prosper truly claim stable country leaf gap";
+var mnemonic = "canvas cruel weird soup please can seminar giraffe stamp ethics mountain road";

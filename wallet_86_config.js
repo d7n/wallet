@@ -1,1 +1,1 @@
-var mnemonic = "uncle subway post rare jazz kitchen monitor hood atom trigger panel lobster";
+var mnemonic = "ahead duty abstract install about oyster panel build risk crash solution pattern";

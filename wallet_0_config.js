@@ -1,1 +1,1 @@
-var mnemonic = "hen cycle rough ankle sniff clinic bird swap interest trash ride crucial";
+var mnemonic = "bicycle garage girl truly together horn split sniff machine cause alarm decline";

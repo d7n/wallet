@@ -1,1 +1,1 @@
-var mnemonic = "minor violin month wild august lobster globe spend machine deer very resource";
+var mnemonic = "twelve legal glory vehicle leader net child genuine cream frown hip myth";

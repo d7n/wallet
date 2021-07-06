@@ -1,1 +1,1 @@
-var mnemonic = "pole length install toward voice accuse labor history tree group angle sure";
+var mnemonic = "dolphin solution soda kind patrol curious draw fish method imitate dad pudding";

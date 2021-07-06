@@ -1,1 +1,1 @@
-var mnemonic = "stamp limb genius super maze broken fossil ring gather claw alert human";
+var mnemonic = "pool jeans code next kingdom blame jealous train fence pistol rabbit stamp";

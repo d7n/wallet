@@ -1,1 +1,1 @@
-var mnemonic = "august already will update mixed vocal false latin tube above pave ocean";
+var mnemonic = "list claw bachelor garden gas unusual glass like canoe spider educate nuclear";

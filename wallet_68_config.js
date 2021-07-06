@@ -1,1 +1,1 @@
-var mnemonic = "board master receive uncover else memory arctic helmet drum mushroom slim conduct";
+var mnemonic = "such cactus ostrich myth lounge sand brush spice auto broken scatter busy";

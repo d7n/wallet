@@ -1,1 +1,1 @@
-var mnemonic = "crumble defy bless assault silent pulse other symptom shrug aspect supply unfair";
+var mnemonic = "gym cloth green when main swallow old dust easily busy bird upon";

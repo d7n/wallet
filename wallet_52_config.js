@@ -1,1 +1,1 @@
-var mnemonic = "actor august pride sword during alert bitter garden doll pull wink boat";
+var mnemonic = "wool spy reduce ten danger clean black item oak cabin decide arrange";

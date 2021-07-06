@@ -1,1 +1,1 @@
-var mnemonic = "plug game twin round wolf nice fury shop soldier weapon they opera";
+var mnemonic = "liar auction midnight tribe powder soft remove run census soup enforce first";

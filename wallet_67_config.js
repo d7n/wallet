@@ -1,1 +1,1 @@
-var mnemonic = "midnight answer flavor problem favorite clay gold spend stem angry flight box";
+var mnemonic = "month audit run guess evidence lemon pair result south puzzle hazard spatial";

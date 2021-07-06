@@ -1,1 +1,1 @@
-var mnemonic = "organ hamster burger web reunion vintage chicken social pulp ask orient tag";
+var mnemonic = "lyrics much harsh keen beef cake maid dynamic tank farm hybrid advance";

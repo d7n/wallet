@@ -1,1 +1,1 @@
-var mnemonic = "onion install goat cook make mirror brain cousin swift coach tent happy";
+var mnemonic = "orbit genuine tilt despair damp umbrella stage dilemma alone yard major sad";

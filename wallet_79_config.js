@@ -1,1 +1,1 @@
-var mnemonic = "gown tuna ugly crouch ladder grass energy plastic genius panel front entry";
+var mnemonic = "arrive clump plug february brisk gentle steel return fatal talent attend chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "about creek sphere diesel bicycle flight column prosper fringe excess warfare hard";
+var mnemonic = "canoe august banana naive april burger alien unfair diary sea axis tone";

@@ -1,1 +1,1 @@
-var mnemonic = "focus distance beef detect hood laptop confirm scheme perfect crush faculty defy";
+var mnemonic = "thumb proud educate task brave setup pole post breeze trip awful street";

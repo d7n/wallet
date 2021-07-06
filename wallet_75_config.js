@@ -1,1 +1,1 @@
-var mnemonic = "region food kick flavor salt space oxygen short mango under top lottery";
+var mnemonic = "essence project embody wool gather current affair debris brush mirror primary anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "spot pride laptop young lemon afraid tail outside chunk figure insane frequent";
+var mnemonic = "negative attitude essence wash end maze lobster combine pink valve defense comic";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble code cattle elbow gas orient again evolve gesture legend figure badge";
+var mnemonic = "wish chunk nation play clean already rhythm shoulder pupil bid unaware caution";

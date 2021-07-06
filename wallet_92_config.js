@@ -1,1 +1,1 @@
-var mnemonic = "food produce huge bulb chapter fun invite ghost yellow they leopard raccoon";
+var mnemonic = "pottery undo column whip drastic hawk mansion chase mammal sick riot snap";

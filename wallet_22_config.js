@@ -1,1 +1,1 @@
-var mnemonic = "crawl oval dial model road lawn lounge remind crisp foot lunch exhaust";
+var mnemonic = "blue worth enact enemy mind match divorce great chaos hurt visa assault";

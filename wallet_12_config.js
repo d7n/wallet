@@ -1,1 +1,1 @@
-var mnemonic = "snap select juice embrace fancy rural napkin yellow prevent boost concert dizzy";
+var mnemonic = "grape trophy suit unfair slush main ribbon mind rate slow hungry slide";

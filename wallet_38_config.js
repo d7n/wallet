@@ -1,1 +1,1 @@
-var mnemonic = "kit merge unknown tunnel silver dragon friend deny radar wage baby under";
+var mnemonic = "pistol magnet pride cake maple atom tag south tonight scrub few strong";

@@ -1,1 +1,1 @@
-var mnemonic = "tray wrist benefit question shop gold rather captain captain yellow blur elephant";
+var mnemonic = "market receive elegant shy nice essay income other trust dry damp marble";

@@ -1,1 +1,1 @@
-var mnemonic = "foster deal beef camera spatial essay arrive grab weekend cricket tobacco remind";
+var mnemonic = "fence erupt warrior grow metal output retreat film lesson april crucial note";

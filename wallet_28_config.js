@@ -1,1 +1,1 @@
-var mnemonic = "network only amount outdoor order grant business cram inmate submit tilt dry";
+var mnemonic = "average torch flush ask rubber fun frozen loyal lady pencil dinosaur repair";

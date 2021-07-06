@@ -1,1 +1,1 @@
-var mnemonic = "tissue unlock toilet alien vapor review pretty lift chapter casual add thrive";
+var mnemonic = "equal prefer machine cake ozone tobacco sorry index pottery enter magnet evil";

@@ -1,1 +1,1 @@
-var mnemonic = "used together tooth replace angry stamp rack shoulder penalty rack fresh corn";
+var mnemonic = "twenty kit stomach supply fury broccoli private leader settle lyrics harbor harvest";

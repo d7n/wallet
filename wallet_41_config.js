@@ -1,1 +1,1 @@
-var mnemonic = "hybrid universe hidden animal perfect wet clog bounce twelve cable today hobby";
+var mnemonic = "spend pole sight stuff plunge fetch salt donkey despair top fold assist";

@@ -1,1 +1,1 @@
-var mnemonic = "electric patient crowd bronze digital correct demand orange health round hybrid evolve";
+var mnemonic = "consider bind ugly prosper story parrot obvious portion twenty depend exhaust rare";

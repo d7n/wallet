@@ -1,1 +1,1 @@
-var mnemonic = "expand grow mirror ice virus van pistol kit impact immense remember endless";
+var mnemonic = "glory arrive lawn remember chronic mask swarm barely boring host horn march";

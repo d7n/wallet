@@ -1,1 +1,1 @@
-var mnemonic = "attract page alcohol salt traffic diesel million rack dash renew advice task";
+var mnemonic = "razor toe enforce slab patch autumn remain legal rich dress curtain blade";

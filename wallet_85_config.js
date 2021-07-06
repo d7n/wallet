@@ -1,1 +1,1 @@
-var mnemonic = "crowd owner act forward fork rather siren guard later stereo smooth brother";
+var mnemonic = "mansion solid boat pencil nest area bind pistol walk blush raccoon gap";

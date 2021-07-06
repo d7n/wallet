@@ -1,1 +1,1 @@
-var mnemonic = "quiz solar kitten jewel wrap final nerve sugar horror desert trick alter";
+var mnemonic = "solid face soon sausage copper guilt truck turtle head estate toilet retire";

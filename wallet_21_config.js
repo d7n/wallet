@@ -1,1 +1,1 @@
-var mnemonic = "despair screen broken large rain cake slush enjoy figure comfort half pear";
+var mnemonic = "dove tongue rotate real vehicle matter arm aunt reject trophy suit opera";

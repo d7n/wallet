@@ -1,1 +1,1 @@
-var mnemonic = "switch chase avoid trust lawn output gauge adjust agree note embody armor";
+var mnemonic = "entry size bounce initial kite anxiety jacket under awesome lunar car plunge";

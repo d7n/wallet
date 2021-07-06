@@ -1,1 +1,1 @@
-var mnemonic = "accuse lawsuit confirm attend adult recipe pear extend potato will hurry rhythm";
+var mnemonic = "kangaroo tennis coral wonder word assault garment asset uniform twelve diagram razor";

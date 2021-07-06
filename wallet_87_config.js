@@ -1,1 +1,1 @@
-var mnemonic = "wedding subway advance pyramid hole thought clutch six thing property book crunch";
+var mnemonic = "orphan wide badge blast street column depth stock vocal film flag poet";

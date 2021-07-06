@@ -1,1 +1,1 @@
-var mnemonic = "cotton gallery lottery moon depth prize doctor basket stable nut coconut remember";
+var mnemonic = "ivory sound palace spatial menu icon exchange bomb rookie sunny music cave";

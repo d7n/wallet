@@ -1,1 +1,1 @@
-var mnemonic = "involve dress eager evil eyebrow moral champion memory decide inherit engine text";
+var mnemonic = "endless oxygen wealth equip click energy right brand own very robot trumpet";

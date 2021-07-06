@@ -1,1 +1,1 @@
-var mnemonic = "public enlist edit atom faith giraffe salon celery oblige universe butter rival";
+var mnemonic = "crater heavy slot car alley annual coach endorse enforce cereal term dress";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon issue reflect abstract flush involve quick erosion walnut wheat mule express";
+var mnemonic = "feature magic entire crouch museum say energy wreck exclude have rug candy";

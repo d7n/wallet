@@ -1,1 +1,1 @@
-var mnemonic = "screen chair popular million jump toe owner balance story exhaust borrow hazard";
+var mnemonic = "indicate butter slow rapid fetch build obey mistake regular marriage across catch";

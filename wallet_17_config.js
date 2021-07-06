@@ -1,1 +1,1 @@
-var mnemonic = "welcome only recipe federal slender short change organ much bitter metal vast";
+var mnemonic = "arrest pilot into kangaroo fox way dune task enhance pluck sword across";

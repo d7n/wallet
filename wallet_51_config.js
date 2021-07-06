@@ -1,1 +1,1 @@
-var mnemonic = "employ purchase ghost alpha entire catalog hockey mimic rain company hotel decorate";
+var mnemonic = "cement female flash huge online cream six join onion brand major cool";

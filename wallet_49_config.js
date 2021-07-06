@@ -1,1 +1,1 @@
-var mnemonic = "mercy erode foam rival trade dog case coast dumb grit spy primary";
+var mnemonic = "valve decade hazard year rough skull evoke ring coast adapt retire top";

@@ -1,1 +1,1 @@
-var mnemonic = "where mixture angle struggle child retreat cycle author evidence empower collect silk";
+var mnemonic = "merry cancel picnic boss motor wife lecture luxury lion card crowd alter";

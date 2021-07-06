@@ -1,1 +1,1 @@
-var mnemonic = "recall promote neutral vapor buzz shallow crawl movie drastic tilt display misery";
+var mnemonic = "tiger tag zoo glove rubber then later topple crash say digital steak";

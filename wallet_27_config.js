@@ -1,1 +1,1 @@
-var mnemonic = "poverty lyrics mask tone claw demise gravity drum pink jelly strategy notice";
+var mnemonic = "fault chest secret buddy draw pause coin leisure abandon sugar wish zoo";

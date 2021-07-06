@@ -1,1 +1,1 @@
-var mnemonic = "either winter west copy wrap seek lunch movie income illness protect table";
+var mnemonic = "morning better mobile someone flight later theme page gap icon lounge bonus";

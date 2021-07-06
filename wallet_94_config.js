@@ -1,1 +1,1 @@
-var mnemonic = "glove trash carbon across reopen mushroom faculty thing coyote lizard cool taste";
+var mnemonic = "insane bird armed label rate narrow idle used scrap truly crunch fat";

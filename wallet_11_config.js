@@ -1,1 +1,1 @@
-var mnemonic = "horn knee myself gloom fringe over horse swear identify weekend increase noise";
+var mnemonic = "ugly salad chef boy rocket tape aware weird piece tragic urban genre";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold wife luggage license silver hotel plug jewel mother add element excite";
+var mnemonic = "border seek fine two suit suspect ancient orphan sunset trophy regret captain";

@@ -1,1 +1,1 @@
-var mnemonic = "april tuition wonder narrow antenna film couple theme brush yellow salute target";
+var mnemonic = "scrap isolate logic obey prize hammer canvas arena wood surround paper easy";

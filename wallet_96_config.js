@@ -1,1 +1,1 @@
-var mnemonic = "rose review mother breeze pledge swim aerobic behind head salmon radar joy";
+var mnemonic = "future blast basket awake pet wing author velvet mistake whisper reason parrot";

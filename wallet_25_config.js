@@ -1,1 +1,1 @@
-var mnemonic = "liquid sock rotate lava oval spatial couch drink humor library ticket session";
+var mnemonic = "else rather annual office soon struggle frost stock weasel hazard own sketch";

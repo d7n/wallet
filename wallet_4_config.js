@@ -1,1 +1,1 @@
-var mnemonic = "multiply great dentist bird suffer topic penalty castle wing story tool actor";
+var mnemonic = "win essay blush magnet educate rib possible erase point behave idea jungle";

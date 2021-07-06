@@ -1,1 +1,1 @@
-var mnemonic = "skill coil subway domain ozone medal planet bread oblige elder horn system";
+var mnemonic = "fade pride uphold glad loan suffer struggle truly diet vicious symbol pigeon";

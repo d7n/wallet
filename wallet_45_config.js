@@ -1,1 +1,1 @@
-var mnemonic = "penalty ethics cat laundry base mail anxiety apple news vital diagram young";
+var mnemonic = "resource swap illegal rice ripple pitch unknown deny matter major manage machine";

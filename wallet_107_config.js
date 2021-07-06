@@ -1,1 +1,1 @@
-var mnemonic = "indicate educate clog track gate fire cash during behind siren shaft model";
+var mnemonic = "life goat immune hello nation ancient ethics address orphan ball random slight";

@@ -1,1 +1,1 @@
-var mnemonic = "trip sunset razor armor mistake same grape million fatigue illegal october alcohol";
+var mnemonic = "never high cat over wave flock angle account index embark simple cross";

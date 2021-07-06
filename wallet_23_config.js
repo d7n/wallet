@@ -1,1 +1,1 @@
-var mnemonic = "relief satisfy maple bullet candy evoke assault uphold wing combine maple soda";
+var mnemonic = "exit tool pink shiver brush scissors plunge address village broom curve remain";

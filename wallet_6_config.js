@@ -1,1 +1,1 @@
-var mnemonic = "cement weapon wagon survey depth gain reopen uniform food venture fold early";
+var mnemonic = "urban execute lava remove basic huge rapid tennis sea father waste vast";

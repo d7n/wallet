@@ -1,1 +1,1 @@
-var mnemonic = "cry soldier size option tilt bird wear tired marble blanket panther crash";
+var mnemonic = "wet sample still mix mesh basic whip gallery dress bind wide shove";

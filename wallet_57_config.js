@@ -1,1 +1,1 @@
-var mnemonic = "layer better celery zone artwork circle enlist mechanic soup powder erode toward";
+var mnemonic = "grape solar dad scout advice husband sport vehicle scorpion deer treat grocery";

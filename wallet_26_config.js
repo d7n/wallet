@@ -1,1 +1,1 @@
-var mnemonic = "hire cactus father lunar become alien half spell crater use business relief";
+var mnemonic = "virus ostrich tooth enter donate unique six talk recipe kite ready diagram";

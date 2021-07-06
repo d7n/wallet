@@ -1,1 +1,1 @@
-var mnemonic = "alpha object pelican bike width cluster draw torch zone jewel title deliver";
+var mnemonic = "topple elevator law segment sail settle grab twenty blouse wasp thunder banner";

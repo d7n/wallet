@@ -1,1 +1,1 @@
-var mnemonic = "domain mechanic soap fancy art maple whale patrol truly hospital illegal file";
+var mnemonic = "error segment board repair result asset win ocean bind witness cloth hawk";

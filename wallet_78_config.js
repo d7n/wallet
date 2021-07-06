@@ -1,1 +1,1 @@
-var mnemonic = "behind column agent river member dynamic best sketch tortoise patch hobby expose";
+var mnemonic = "filter sense artwork sudden session equip elite invest apart mixture empty hope";

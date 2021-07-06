@@ -1,1 +1,1 @@
-var mnemonic = "grass omit client tide believe pumpkin make keen sad wave first puppy";
+var mnemonic = "metal crucial pony prosper grocery move wasp mirror protect scrap like shaft";

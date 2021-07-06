@@ -1,1 +1,1 @@
-var mnemonic = "visit short taste rescue pride aunt business movie olive cloth twin manage";
+var mnemonic = "slow six fashion large grocery replace brown acoustic begin enemy coral virtual";

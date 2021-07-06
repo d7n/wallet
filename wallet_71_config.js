@@ -1,1 +1,1 @@
-var mnemonic = "immune upon culture letter save dose stable debate extra person system august";
+var mnemonic = "habit stay bitter lava hold side ice glad long shiver dove stand";

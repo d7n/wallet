@@ -1,1 +1,1 @@
-var mnemonic = "column gloom cool athlete huge erase spare neutral arrow avoid hand move";
+var mnemonic = "flash bunker magnet across sweet select puppy city document doll shock stool";

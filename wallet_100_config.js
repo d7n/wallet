@@ -1,1 +1,1 @@
-var mnemonic = "clerk man lawn meadow sweet second rebuild chat gospel logic moment exercise";
+var mnemonic = "vocal master chicken trash arena craft purchase embrace ghost case sell sunny";
