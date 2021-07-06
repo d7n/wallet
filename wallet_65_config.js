@@ -1,1 +1,1 @@
-var mnemonic = "coil slender swamp club scorpion battle wrong depart rug broken april hill";
+var mnemonic = "sustain toilet cycle frog crunch educate setup resource hen sick remind tail";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce road face soda tomato knee region sure honey bind acid hobby";
+var mnemonic = "tree atom pyramid neutral parade cinnamon symbol upset crumble skull good motion";

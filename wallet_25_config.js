@@ -1,1 +1,1 @@
-var mnemonic = "vote glare coconut same coconut mail depart usage twist jelly hello certain";
+var mnemonic = "street drop say one property salon scare beach supply game monitor burden";

@@ -1,1 +1,1 @@
-var mnemonic = "kit wish slab auto expire ready possible work visa crunch coconut angry";
+var mnemonic = "birth lucky wrestle inquiry raw program spatial practice kidney wish topic capable";

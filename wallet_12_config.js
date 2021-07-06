@@ -1,1 +1,1 @@
-var mnemonic = "illegal hold spider friend army twelve misery satisfy scissors cereal huge april";
+var mnemonic = "album soul kind upon tank wool badge arrow face junior fish route";

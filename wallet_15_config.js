@@ -1,1 +1,1 @@
-var mnemonic = "treat day disagree electric about sail cloth inquiry tuna ankle program problem";
+var mnemonic = "oven clerk biology cricket gift real sugar decide october enemy cargo arena";

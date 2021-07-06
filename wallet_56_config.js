@@ -1,1 +1,1 @@
-var mnemonic = "approve simple hint room cheap flavor obvious bamboo post defense december rather";
+var mnemonic = "wire charge cry unable window knife jelly popular sunny differ shrug stable";

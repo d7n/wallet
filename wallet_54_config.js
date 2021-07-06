@@ -1,1 +1,1 @@
-var mnemonic = "tag novel quick trick kingdom reduce flock drill joy east angry artwork";
+var mnemonic = "shuffle suggest suspect fringe penalty sugar squeeze nuclear blame flush path plug";

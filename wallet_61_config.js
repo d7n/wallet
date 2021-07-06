@@ -1,1 +1,1 @@
-var mnemonic = "casual top vintage over fiction squeeze shaft miss derive pony region gaze";
+var mnemonic = "school artist section media rough skirt galaxy pretty gold isolate two flush";

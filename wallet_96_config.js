@@ -1,1 +1,1 @@
-var mnemonic = "lucky ocean salad oven paddle lunar luggage fiction visual north manual weasel";
+var mnemonic = "practice fetch second champion explain melt gun note sentence into balcony drive";

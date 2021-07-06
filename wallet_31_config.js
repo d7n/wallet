@@ -1,1 +1,1 @@
-var mnemonic = "test upon pulp chuckle vacuum humble hidden initial urban brand atom post";
+var mnemonic = "cake wheel clinic stool rose direct income pipe rubber picture destroy history";

@@ -1,1 +1,1 @@
-var mnemonic = "car custom course spread ski ethics rebel usage social lesson security fancy";
+var mnemonic = "please apology tube scene rule camp draw camera skill orbit member alpha";

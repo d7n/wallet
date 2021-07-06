@@ -1,1 +1,1 @@
-var mnemonic = "female blind funny mango crater rail time safe ostrich attract vacant pride";
+var mnemonic = "found tornado raccoon help find one early valve depend endless airport plug";

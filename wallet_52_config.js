@@ -1,1 +1,1 @@
-var mnemonic = "spatial decade section lift struggle echo toy assault divorce tornado erosion actual";
+var mnemonic = "cage sniff fever disagree wing deny solid load resist kingdom agent spin";

@@ -1,1 +1,1 @@
-var mnemonic = "prison meat dutch smile ghost rubber area salmon pepper urban gaze negative";
+var mnemonic = "cereal public shoulder robust student oxygen daring napkin tired forward illness web";

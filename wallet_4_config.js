@@ -1,1 +1,1 @@
-var mnemonic = "unknown table business lion govern crane purse kingdom all mom gather slam";
+var mnemonic = "health rescue soccer virtual oxygen genuine episode pear three skin midnight device";

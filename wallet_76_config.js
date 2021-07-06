@@ -1,1 +1,1 @@
-var mnemonic = "glass soon symptom voice kiss valley silly level will gasp elegant asthma";
+var mnemonic = "marble grid junk wide toilet biology soccer useless pilot method scare horse";

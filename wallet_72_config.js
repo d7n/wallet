@@ -1,1 +1,1 @@
-var mnemonic = "aerobic task arrange gallery retreat surround when already heavy ranch arm remove";
+var mnemonic = "lucky raven fan try ordinary shift twenty organ mail dry small canoe";

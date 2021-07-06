@@ -1,1 +1,1 @@
-var mnemonic = "beach know debate siren mail great weather exact just elegant tone anchor";
+var mnemonic = "helmet pledge page village swallow lemon tip peace equal hawk march inherit";

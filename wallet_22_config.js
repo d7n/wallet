@@ -1,1 +1,1 @@
-var mnemonic = "month sweet guide paddle soon gospel term zero end inherit endorse kiss";
+var mnemonic = "man daring fantasy surprise donate summer trigger soldier abuse wrist combine nurse";

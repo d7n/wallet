@@ -1,1 +1,1 @@
-var mnemonic = "impose buyer truly volume cannon cloth other cable rail call slam ozone";
+var mnemonic = "inch style elegant asset wrestle enhance inch ski couple build produce faint";

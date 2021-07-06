@@ -1,1 +1,1 @@
-var mnemonic = "term valid blouse decorate cycle clap tomorrow vapor silent genius super mirror";
+var mnemonic = "topic tube solution bread stem fetch disagree day sleep supreme trap fork";

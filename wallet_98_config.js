@@ -1,1 +1,1 @@
-var mnemonic = "inherit street vicious drink film such weasel yellow staff pioneer outdoor tone";
+var mnemonic = "cupboard ramp ship remember shine silent make vote demand left fit rough";

@@ -1,1 +1,1 @@
-var mnemonic = "clock hedgehog witness crumble pattern broccoli victory uncover floor legal cube slot";
+var mnemonic = "shock nature slight item letter acquire remind tattoo embrace asthma grow barrel";

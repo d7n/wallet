@@ -1,1 +1,1 @@
-var mnemonic = "venue virtual sudden desert rude divide electric trade slide ivory measure alpha";
+var mnemonic = "album normal wrong series pole chicken deer arrive still speed high nasty";

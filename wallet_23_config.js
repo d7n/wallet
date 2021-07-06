@@ -1,1 +1,1 @@
-var mnemonic = "belt husband year celery decade never phrase pause anchor now museum visual";
+var mnemonic = "virus clerk border shadow hen meat cabin fiber chimney floor core buyer";

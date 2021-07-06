@@ -1,1 +1,1 @@
-var mnemonic = "endless museum friend roast van quick syrup dentist subject ordinary north wrong";
+var mnemonic = "pumpkin hazard section half sail great reflect illegal tell lemon proof limb";

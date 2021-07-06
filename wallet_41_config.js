@@ -1,1 +1,1 @@
-var mnemonic = "prize wife acoustic lonely slim swarm harbor burger season empower okay quit";
+var mnemonic = "coyote water purity caution distance plastic april tissue wagon venue maximum lend";

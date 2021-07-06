@@ -1,1 +1,1 @@
-var mnemonic = "assist design call matrix gorilla energy dream moral dinner exchange bag wall";
+var mnemonic = "struggle boy about burden matter crush announce lizard embody talent layer arch";

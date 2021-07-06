@@ -1,1 +1,1 @@
-var mnemonic = "brain tip fashion dwarf dynamic surge cargo assist ridge sausage entire balance";
+var mnemonic = "kiss fiber speak negative metal help federal east always busy license aim";

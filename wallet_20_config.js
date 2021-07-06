@@ -1,1 +1,1 @@
-var mnemonic = "ripple secret famous lunar idea toe whisper clip bridge style arena brain";
+var mnemonic = "shrug slow solid traffic space tornado best power blind dismiss nothing crush";

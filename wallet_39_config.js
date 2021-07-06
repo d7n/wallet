@@ -1,1 +1,1 @@
-var mnemonic = "law legend volume glare toe obvious cricket arctic amount venture invite chair";
+var mnemonic = "solve trash subway pony coral grid aware quality baby west fancy suffer";

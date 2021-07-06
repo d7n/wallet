@@ -1,1 +1,1 @@
-var mnemonic = "veteran stool burden exercise typical isolate shaft timber alpha horn such finish";
+var mnemonic = "sentence vapor ensure special legend enough they utility fog wine camp sense";

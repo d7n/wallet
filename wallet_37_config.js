@@ -1,1 +1,1 @@
-var mnemonic = "balance cabbage fiber focus universe remove ocean life convince soldier ride bitter";
+var mnemonic = "dance amused front goddess mean miracle hello myself switch boost either fold";

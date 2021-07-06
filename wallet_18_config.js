@@ -1,1 +1,1 @@
-var mnemonic = "science garlic detect dawn shoot warrior regret guess patch early keen fame";
+var mnemonic = "home cable bless need enroll antique whisper sunny entry security pole give";

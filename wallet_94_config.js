@@ -1,1 +1,1 @@
-var mnemonic = "limb slim trend accident radar abuse clever feed sibling february sun episode";
+var mnemonic = "space only near grace survey witness involve settle crumble city equal stay";

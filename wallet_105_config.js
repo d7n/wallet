@@ -1,1 +1,1 @@
-var mnemonic = "rural iron cruel coil radio entry peasant solid cake wing real celery";
+var mnemonic = "fee example sense cruise pipe fork squirrel universe sustain key blind wise";

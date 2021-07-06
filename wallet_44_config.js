@@ -1,1 +1,1 @@
-var mnemonic = "odor basic defense goat valve spice exotic garbage master skill december group";
+var mnemonic = "mango clinic legend assault museum february faint hen pledge penalty cherry engage";

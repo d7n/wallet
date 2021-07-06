@@ -1,1 +1,1 @@
-var mnemonic = "nephew harvest glory myself cigar letter tragic margin hover rule try civil";
+var mnemonic = "animal net typical beef reform soup bike horror axis grit dust ridge";

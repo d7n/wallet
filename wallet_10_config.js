@@ -1,1 +1,1 @@
-var mnemonic = "ride quick stomach panic scrap define raccoon gate crane collect butter iron";
+var mnemonic = "orchard wish wish help stick pistol civil equal garage beach obtain gravity";

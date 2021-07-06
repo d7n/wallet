@@ -1,1 +1,1 @@
-var mnemonic = "pave gloom matter lawsuit enlist robot urban shift arrive remember input faculty";
+var mnemonic = "bulk ecology eye retire amateur powder noodle tide photo blanket layer current";

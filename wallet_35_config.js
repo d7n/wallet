@@ -1,1 +1,1 @@
-var mnemonic = "few wet remind rally mad cable mosquito source offer more gravity help";
+var mnemonic = "genuine calm differ bottom lecture double length buddy fog disorder flash damp";

@@ -1,1 +1,1 @@
-var mnemonic = "salad honey cargo ketchup blur pizza position travel double casino scout yellow";
+var mnemonic = "smart reunion deal frequent gym power february six system buffalo door hungry";

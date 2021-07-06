@@ -1,1 +1,1 @@
-var mnemonic = "dignity below exit slide canal first hospital furnace discover exile sad one";
+var mnemonic = "debris lock puzzle motion very survey enroll alert jar attract gun asthma";

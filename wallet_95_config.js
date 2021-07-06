@@ -1,1 +1,1 @@
-var mnemonic = "camera large aunt bulb anxiety pair way dragon sport income ill color";
+var mnemonic = "holiday attack canvas travel dolphin parent design lesson any morning bacon bone";

@@ -1,1 +1,1 @@
-var mnemonic = "team dinosaur multiply spider remember curve truck ozone afraid inherit various circle";
+var mnemonic = "coach wagon pelican sibling social marriage inherit lemon satisfy nothing stove cup";

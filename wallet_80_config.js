@@ -1,1 +1,1 @@
-var mnemonic = "mind winner theme away loop approve wedding shine urban predict tag hospital";
+var mnemonic = "window cricket close remember ride breeze birth purchase antique predict renew eternal";

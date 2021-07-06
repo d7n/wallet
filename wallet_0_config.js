@@ -1,1 +1,1 @@
-var mnemonic = "base output buffalo pyramid neither endless offer inmate solve open engage visa";
+var mnemonic = "run match adult switch wrestle winter nothing unfair member blood party mansion";

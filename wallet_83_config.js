@@ -1,1 +1,1 @@
-var mnemonic = "blame suspect spot tragic album rely offer enforce combine convince easy response";
+var mnemonic = "victory naive vocal service target pluck deputy seed jungle slice depart loyal";

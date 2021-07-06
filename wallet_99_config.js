@@ -1,1 +1,1 @@
-var mnemonic = "exile daring orchard increase wage treat pelican cube wedding symptom sibling order";
+var mnemonic = "area category input doll rifle typical frog chase hobby increase drill crash";

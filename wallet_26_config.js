@@ -1,1 +1,1 @@
-var mnemonic = "eager tornado dragon gain dignity erosion spike prize today cheap million situate";
+var mnemonic = "mandate chimney decade foil escape tumble road waste concert nest museum upper";

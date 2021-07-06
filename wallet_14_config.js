@@ -1,1 +1,1 @@
-var mnemonic = "message hockey void omit slogan visit excite advance science elder rent diagram";
+var mnemonic = "empty tissue crumble sponsor kitchen genius robot wear steel era army ring";

@@ -1,1 +1,1 @@
-var mnemonic = "execute voyage naive illegal resemble pattern walk rose chest raccoon equal airport";
+var mnemonic = "approve only option sail wage wage habit acid provide quarter salmon travel";

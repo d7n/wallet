@@ -1,1 +1,1 @@
-var mnemonic = "swing pretty mirror cricket manage comfort glory eager drastic foil gadget domain";
+var mnemonic = "ranch boss parent category penalty first under alpha page fashion song long";

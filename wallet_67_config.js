@@ -1,1 +1,1 @@
-var mnemonic = "fringe farm hard plastic benefit miss head dawn speak profit language trophy";
+var mnemonic = "need pink theme chicken head north rabbit old artist muffin video boat";

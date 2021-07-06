@@ -1,1 +1,1 @@
-var mnemonic = "crane honey invest island kidney obtain tourist pink melt already exclude hobby";
+var mnemonic = "barely quantum reward orchard denial keen unit illness grace float master retreat";

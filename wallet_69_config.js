@@ -1,1 +1,1 @@
-var mnemonic = "sauce write another roof strike corn picnic organ glow latin blood skull";
+var mnemonic = "blur bind process draw gasp nurse dose visa erase access hobby race";

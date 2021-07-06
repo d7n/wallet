@@ -1,1 +1,1 @@
-var mnemonic = "duty amazing click genius sail parade hotel reveal fancy firm wink dismiss";
+var mnemonic = "follow upgrade gaze park speak emotion pear major swim flee thumb shadow";

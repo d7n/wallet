@@ -1,1 +1,1 @@
-var mnemonic = "beyond science warm lens romance glad index replace eternal excess banana audit";
+var mnemonic = "twice dish sweet acid round design critic book prosper spawn travel ginger";

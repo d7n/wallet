@@ -1,1 +1,1 @@
-var mnemonic = "prevent brick frame trash unit office cabin charge panther diary arrow friend";
+var mnemonic = "proud under problem kitchen begin private figure arctic become dune someone sense";

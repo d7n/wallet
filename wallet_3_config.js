@@ -1,1 +1,1 @@
-var mnemonic = "energy boss liquid special machine spice fault zone verb seven cotton jewel";
+var mnemonic = "awful oxygen bicycle pave solid ordinary oval isolate call veteran one item";

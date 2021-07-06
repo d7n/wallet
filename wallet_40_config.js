@@ -1,1 +1,1 @@
-var mnemonic = "color crater wool worry physical doll detail alert setup cargo order city";
+var mnemonic = "rival nuclear man gallery anchor pass drastic grain lava learn situate elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "useless save catalog actress aim host offer cool wage ride bulk crystal";
+var mnemonic = "capital object question chest journey cradle trend broken tape canoe liquid lend";

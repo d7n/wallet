@@ -1,1 +1,1 @@
-var mnemonic = "aspect punch hazard cover wing hurdle replace rug hawk dragon spawn apology";
+var mnemonic = "hold royal end father unfold news hello smooth girl grape alien cattle";

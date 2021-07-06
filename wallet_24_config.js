@@ -1,1 +1,1 @@
-var mnemonic = "piece wrap dolphin rally seek bulb member mutual hammer gospel brave uphold";
+var mnemonic = "lunar void coral foam crime food social real opinion shaft distance nature";

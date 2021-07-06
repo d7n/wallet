@@ -1,1 +1,1 @@
-var mnemonic = "october dry banana gather state cigar honey bench flush muscle envelope just";
+var mnemonic = "flash clean security reflect lumber reunion stone hazard practice congress axis mesh";

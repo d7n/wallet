@@ -1,1 +1,1 @@
-var mnemonic = "wrist horror cake symptom grape boss bright space gesture silent grab sugar";
+var mnemonic = "patch wait acquire blade lyrics grid sun leaf lecture kidney kid huge";

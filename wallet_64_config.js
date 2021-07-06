@@ -1,1 +1,1 @@
-var mnemonic = "pudding swift lawsuit dizzy vague choice empty spike inmate prison time purse";
+var mnemonic = "remember aim mention minimum push regular rack april immune assault anger neither";

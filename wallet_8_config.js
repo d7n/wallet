@@ -1,1 +1,1 @@
-var mnemonic = "rapid fade trial bullet business inject man coffee demise rule steel problem";
+var mnemonic = "ocean require pistol throw jeans rifle ready rocket modify sword twelve alone";

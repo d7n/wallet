@@ -1,1 +1,1 @@
-var mnemonic = "twin calm punch journey win offer rate play recipe lobster sphere dinosaur";
+var mnemonic = "cup book kidney ozone call spell lens symbol estate raccoon base casino";

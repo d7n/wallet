@@ -1,1 +1,1 @@
-var mnemonic = "poem grief crisp cousin silent tourist broccoli cabbage plate pride wire mandate";
+var mnemonic = "despair boss excess filter denial erode print trigger hurt define frame mom";

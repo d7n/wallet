@@ -1,1 +1,1 @@
-var mnemonic = "argue key buyer cram open throw clarify payment mesh acoustic coach design";
+var mnemonic = "hint pride upset dune potato afraid mixture code pave nuclear run layer";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans lift scheme tree million arm leaf ghost truck brass illegal armed";
+var mnemonic = "accuse lawn team office rule draw trial whale faint ticket tenant disease";

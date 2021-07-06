@@ -1,1 +1,1 @@
-var mnemonic = "carpet monkey token skate curtain catalog asthma picnic ridge soccer entry fruit";
+var mnemonic = "angle city captain topic laugh zone enable settle setup enrich narrow verify";

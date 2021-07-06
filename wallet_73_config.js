@@ -1,1 +1,1 @@
-var mnemonic = "that video search track shove rebuild frown fringe huge love luggage best";
+var mnemonic = "course bleak chair right silly chief crew chimney offer deer disease avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "roof merge item unfair echo tortoise cream hawk travel trick garment bottom";
+var mnemonic = "summer install fragile garlic arch series razor please spider trophy comic gentle";

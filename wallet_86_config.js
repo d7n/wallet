@@ -1,1 +1,1 @@
-var mnemonic = "alone filter scrap twelve tunnel grace evidence cargo fury dress monitor planet";
+var mnemonic = "brisk protect novel extend pole civil media ripple test suspect first beef";

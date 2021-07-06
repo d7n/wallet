@@ -1,1 +1,1 @@
-var mnemonic = "trip zone sweet sadness deposit brief balcony cross dilemma omit recycle lecture";
+var mnemonic = "lazy author industry decorate lawn slice genius luxury laptop fatigue cry fitness";

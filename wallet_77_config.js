@@ -1,1 +1,1 @@
-var mnemonic = "multiply social science boss talk drink sibling short pyramid siege toy indoor";
+var mnemonic = "gather bread dose income female anxiety clarify dad click term account saddle";

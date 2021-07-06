@@ -1,1 +1,1 @@
-var mnemonic = "arrest rescue focus foil adjust choice youth destroy gospel pistol lemon meadow";
+var mnemonic = "basket announce update vendor orient color drip victory demise advance language umbrella";

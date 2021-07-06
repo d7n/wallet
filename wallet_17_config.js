@@ -1,1 +1,1 @@
-var mnemonic = "depth elegant mansion put start fatal okay embrace flush enemy wedding lounge";
+var mnemonic = "industry salt minor frame distance another miracle problem steel humor very hedgehog";

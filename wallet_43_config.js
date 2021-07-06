@@ -1,1 +1,1 @@
-var mnemonic = "essence liquid awake wine figure basket room sketch office setup violin foot";
+var mnemonic = "upper marble chalk cactus candy deliver danger random job hunt trip client";

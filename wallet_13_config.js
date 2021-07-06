@@ -1,1 +1,1 @@
-var mnemonic = "frog bonus used excess surprise cheese code suffer wine advice razor place";
+var mnemonic = "pigeon eye still april suggest october truth glide fatigue crouch exercise case";

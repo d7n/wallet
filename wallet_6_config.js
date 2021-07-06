@@ -1,1 +1,1 @@
-var mnemonic = "purse turn provide walnut segment artist average friend rocket cabin system minimum";
+var mnemonic = "small kingdom floor yellow table try light surface medal invite payment chair";

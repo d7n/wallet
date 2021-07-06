@@ -1,1 +1,1 @@
-var mnemonic = "bulb evolve artefact found curtain card room private act knock estate become";
+var mnemonic = "chronic offer claim point grit bubble crime acid shy visual chicken dinosaur";

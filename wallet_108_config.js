@@ -1,1 +1,1 @@
-var mnemonic = "current retire truth glow kitchen buyer drastic business brother run coconut recipe";
+var mnemonic = "inject diesel dirt jeans sting tell kit cat reject matrix wrap build";

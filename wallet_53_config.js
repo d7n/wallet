@@ -1,1 +1,1 @@
-var mnemonic = "thunder ticket warfare interest enlist album exile shrimp hen legend aisle diary";
+var mnemonic = "prepare exit cake fruit nest fault armor eyebrow quarter student flavor ordinary";

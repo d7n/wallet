@@ -1,1 +1,1 @@
-var mnemonic = "hospital wheel remain walk monitor estate face laptop front hotel live broom";
+var mnemonic = "identify seminar boat tree egg toast jar inmate impact town afford embark";

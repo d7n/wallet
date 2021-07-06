@@ -1,1 +1,1 @@
-var mnemonic = "shell duty play entry teach flight shoe gate side someone dinosaur theory";
+var mnemonic = "cube mask vibrant position wrap tray brain tape favorite wheat shoot bonus";

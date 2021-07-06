@@ -1,1 +1,1 @@
-var mnemonic = "rigid output glass fruit never mandate little please turtle camp raise diary";
+var mnemonic = "airport visit another family unfold muffin harvest laptop invite bachelor agent flag";
