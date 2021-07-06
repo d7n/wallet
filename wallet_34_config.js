@@ -1,1 +1,1 @@
-var mnemonic = "exercise rule hurt impose drastic talent potato baby cereal valley work document";
+var mnemonic = "agent jealous priority purity sight exhibit rebuild verify off answer army foil";

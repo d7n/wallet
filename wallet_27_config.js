@@ -1,1 +1,1 @@
-var mnemonic = "oak sleep sock plug soft shrug able mistake olive august grab bar";
+var mnemonic = "spring suffer chronic cancel battle mansion anger soda exercise person today pen";

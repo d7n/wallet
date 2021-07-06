@@ -1,1 +1,1 @@
-var mnemonic = "limit pill post edge motor object upset fabric crunch arrange industry when";
+var mnemonic = "burger patrol library noise breeze tape reflect bird seed crash excuse project";

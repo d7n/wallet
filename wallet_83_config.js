@@ -1,1 +1,1 @@
-var mnemonic = "roast give alarm shoulder ladder dizzy execute rally apart stumble brave common";
+var mnemonic = "december practice mandate globe angry mobile hope flush emerge glad space clerk";

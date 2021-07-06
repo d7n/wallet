@@ -1,1 +1,1 @@
-var mnemonic = "lend tank elite dumb assume general estate end opinion because grant just";
+var mnemonic = "lawsuit typical certain cable online twenty dress card february unit advice hire";

@@ -1,1 +1,1 @@
-var mnemonic = "time face all attitude multiply surface load legend foam dash police essence";
+var mnemonic = "walk laptop consider calm motion plate siren judge vessel curious planet hint";

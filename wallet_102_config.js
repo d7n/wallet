@@ -1,1 +1,1 @@
-var mnemonic = "south old auto silver brand absurd profit floor scrub choose more bean";
+var mnemonic = "slender invite unveil ticket guide typical visit bonus click rural usual arctic";

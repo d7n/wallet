@@ -1,1 +1,1 @@
-var mnemonic = "dignity cattle confirm maximum secret cook shop fury arrive gift hello snake";
+var mnemonic = "pepper defy proof file paper oil empower ill defy over expand vivid";

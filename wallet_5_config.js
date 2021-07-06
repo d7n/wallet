@@ -1,1 +1,1 @@
-var mnemonic = "example crystal input tower blush grain hold crazy nurse mammal message local";
+var mnemonic = "parade youth globe struggle sign else clever pizza simple debris awful absent";

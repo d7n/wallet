@@ -1,1 +1,1 @@
-var mnemonic = "shiver rent old goose drama task hip barely pistol teach tiger address";
+var mnemonic = "comfort tired thrive cinnamon sting witness cook merit mixture electric also casino";

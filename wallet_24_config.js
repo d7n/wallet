@@ -1,1 +1,1 @@
-var mnemonic = "van endless eye cross alter van great grit throw prevent scout vivid";
+var mnemonic = "vocal fold near gossip exhaust rule youth glow imitate rifle alarm fiction";

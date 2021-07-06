@@ -1,1 +1,1 @@
-var mnemonic = "all resource title beef merit license picture essay purse oblige ritual crazy";
+var mnemonic = "pipe bike casino rib pass task photo world demand tortoise impact ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar bridge advice long hen fatal elder victory blue rabbit soft expect";
+var mnemonic = "enrich liar wall visual load erase indoor uncle action verb faculty genre";

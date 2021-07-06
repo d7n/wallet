@@ -1,1 +1,1 @@
-var mnemonic = "sad extra wrong process trust duty crane outer ginger disagree art estate";
+var mnemonic = "purity deliver inquiry profit manual attitude mad lounge involve pass charge combine";

@@ -1,1 +1,1 @@
-var mnemonic = "demand diamond run rib limb cupboard tired wrap obtain usage swear blind";
+var mnemonic = "humble blue garage bless bacon problem basic flavor tonight rack employ category";

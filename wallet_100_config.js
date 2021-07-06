@@ -1,1 +1,1 @@
-var mnemonic = "dose account pluck boat robust differ mind nuclear powder chapter list album";
+var mnemonic = "car tomorrow critic cycle skate world edge hint glove tourist volume regret";

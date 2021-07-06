@@ -1,1 +1,1 @@
-var mnemonic = "powder oyster noodle best raw negative rival hurt regular wrong grace street";
+var mnemonic = "clever cheese memory dove vast matter trial family orange trouble danger magnet";

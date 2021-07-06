@@ -1,1 +1,1 @@
-var mnemonic = "color helmet vault victory eyebrow pull ceiling sugar thunder bulk egg champion";
+var mnemonic = "jacket lucky chunk chunk donkey dutch audit social keen fee hockey fever";

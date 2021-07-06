@@ -1,1 +1,1 @@
-var mnemonic = "boil piece olympic again assist carry act panic tackle ability music tiger";
+var mnemonic = "second master sock visa repair thrive patient split mother crash require tip";

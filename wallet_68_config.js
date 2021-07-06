@@ -1,1 +1,1 @@
-var mnemonic = "speak code shell usage tag cupboard portion top confirm spy under ring";
+var mnemonic = "ahead guess cup bachelor among car sunset lecture grit then board frown";

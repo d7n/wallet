@@ -1,1 +1,1 @@
-var mnemonic = "dragon orchard unfair best label trust age marriage blood sponsor total move";
+var mnemonic = "donate stem crawl zoo boat soap flame globe permit submit talent guard";

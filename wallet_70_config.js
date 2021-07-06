@@ -1,1 +1,1 @@
-var mnemonic = "plate mind wave work second chief odor maximum useless neglect chimney insect";
+var mnemonic = "gadget satisfy grant wheat saddle dream tenant tomorrow dune beyond human abandon";

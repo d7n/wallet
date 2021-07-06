@@ -1,1 +1,1 @@
-var mnemonic = "hint rude wedding immense crop wedding pupil orphan clap comic connect total";
+var mnemonic = "grid cable valid bean humble sing post nest output card prevent drastic";

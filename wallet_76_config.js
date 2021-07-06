@@ -1,1 +1,1 @@
-var mnemonic = "mention limit gap october clerk vehicle away include carbon supply casino code";
+var mnemonic = "width version sight erode cup stuff trip save large fancy dinner hand";

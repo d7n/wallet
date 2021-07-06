@@ -1,1 +1,1 @@
-var mnemonic = "gossip honey trash canvas topple tackle rebel express monitor lecture purchase ramp";
+var mnemonic = "buzz spice cry banana width devote demand auction fresh unfair clown still";

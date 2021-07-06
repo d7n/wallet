@@ -1,1 +1,1 @@
-var mnemonic = "phone year tag harsh matrix tortoise canoe dinner fat tribe govern victory";
+var mnemonic = "odor layer useful lift pole emerge satisfy plastic gentle eagle holiday ball";

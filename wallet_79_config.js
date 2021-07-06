@@ -1,1 +1,1 @@
-var mnemonic = "envelope there wisdom bulk insect project gallery step fiction else shock basic";
+var mnemonic = "man dilemma repair average april face then chair near grid lab twin";

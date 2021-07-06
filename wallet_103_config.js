@@ -1,1 +1,1 @@
-var mnemonic = "mixed mosquito person improve beauty fever broken piece raw shoe castle crumble";
+var mnemonic = "forest purchase zebra also symptom travel popular secret debate muscle ability bamboo";

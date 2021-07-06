@@ -1,1 +1,1 @@
-var mnemonic = "lens beyond door shy nominee army casino energy scene vague crowd radar";
+var mnemonic = "check blue jar fantasy health spin acoustic clump jazz collect vital school";

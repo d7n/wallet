@@ -1,1 +1,1 @@
-var mnemonic = "demand spoil disease gaze assume advance boat purity unique diagram anchor note";
+var mnemonic = "possible second repair grow super aspect impose cave upset rebel rocket autumn";

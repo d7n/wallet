@@ -1,1 +1,1 @@
-var mnemonic = "hockey tube version inflict bar ritual fitness agree scheme square buyer knock";
+var mnemonic = "enter fantasy plunge intact control tag order scatter sleep mountain knee unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred ketchup visit face social rotate shed limit prize impulse palace hood";
+var mnemonic = "lift depend two menu dragon vacuum pledge mango attack only globe into";

@@ -1,1 +1,1 @@
-var mnemonic = "weather manage grace bean reason reform expose flat chief salmon bracket tomato";
+var mnemonic = "doctor option aisle scatter panther quarter cloth access mistake hawk screen real";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle opera slot village awful tuition fly math black cream casino empower";
+var mnemonic = "finger copper memory cancel verb sketch urban recipe cash cabin replace mail";

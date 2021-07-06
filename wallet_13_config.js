@@ -1,1 +1,1 @@
-var mnemonic = "pass illness shrimp horn canyon juice second vital cat hundred color place";
+var mnemonic = "myself relax cable tennis surge clay report swim under wealth submit stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "art tag mystery forest science cream neglect orbit street reopen bracket defy";
+var mnemonic = "sphere call spell coil maximum media surprise normal spirit toe flash open";

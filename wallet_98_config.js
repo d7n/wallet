@@ -1,1 +1,1 @@
-var mnemonic = "diagram parade butter cluster agree stem pluck forest circle squirrel earn lunch";
+var mnemonic = "believe head pupil kiwi fitness invite ready predict almost screen naive huge";

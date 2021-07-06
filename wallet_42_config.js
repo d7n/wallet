@@ -1,1 +1,1 @@
-var mnemonic = "antenna buddy giraffe rare bottom rain carpet lawn kit hurdle hidden helmet";
+var mnemonic = "year thing balcony safe voyage gaze park autumn exhibit spare coach topple";

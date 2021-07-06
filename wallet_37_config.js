@@ -1,1 +1,1 @@
-var mnemonic = "jump possible present state crouch lens evolve sniff east view unfair scale";
+var mnemonic = "decline lend census current planet lend urban predict strategy sketch fence wheat";

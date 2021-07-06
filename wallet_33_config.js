@@ -1,1 +1,1 @@
-var mnemonic = "better latin legend round three cruise general into company light brown mule";
+var mnemonic = "amount awake velvet invite nerve wasp twist rookie elegant six equip throw";

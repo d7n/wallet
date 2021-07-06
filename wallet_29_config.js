@@ -1,1 +1,1 @@
-var mnemonic = "hunt bubble network wreck arrange cluster pass deer rival notable all garment";
+var mnemonic = "very suit parrot broccoli autumn select pretty search secret oval goddess orange";

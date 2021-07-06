@@ -1,1 +1,1 @@
-var mnemonic = "hub neutral auto trigger quantum toddler cushion faculty poem lounge grit powder";
+var mnemonic = "infant heavy sword hope rug coach flip chair spawn van add finish";

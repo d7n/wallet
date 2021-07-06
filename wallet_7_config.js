@@ -1,1 +1,1 @@
-var mnemonic = "bridge razor clown bronze else loan time provide inch negative draft argue";
+var mnemonic = "dinner weapon animal spider allow van group razor asset poverty skirt logic";

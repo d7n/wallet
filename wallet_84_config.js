@@ -1,1 +1,1 @@
-var mnemonic = "olympic dentist young they horn wage web boy eager resist raven alone";
+var mnemonic = "purpose aim seminar assume ladder illegal pudding double helmet satisfy wink unusual";

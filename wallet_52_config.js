@@ -1,1 +1,1 @@
-var mnemonic = "kitchen remain seek renew fabric license predict canoe artist blanket tired layer";
+var mnemonic = "toy antenna absent vacuum feel never cargo scrub shine observe hen poet";

@@ -1,1 +1,1 @@
-var mnemonic = "rough athlete orange lemon slab analyst pizza fluid case country magic birth";
+var mnemonic = "gym machine obvious toy flight matter banner shrug outdoor view toilet shield";

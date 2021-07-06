@@ -1,1 +1,1 @@
-var mnemonic = "witness vacuum civil gap property patient skull color stool tower bottom knee";
+var mnemonic = "upset market unique myself exchange space apple noise digital skull purchase device";

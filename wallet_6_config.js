@@ -1,1 +1,1 @@
-var mnemonic = "unfair discover bundle violin history wreck tongue advice return object moment adapt";
+var mnemonic = "ketchup web jelly price notable recall reveal manual version employ click wink";

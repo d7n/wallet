@@ -1,1 +1,1 @@
-var mnemonic = "educate mutual deny october cinnamon vault figure exotic shove entire wage accident";
+var mnemonic = "soccer across label lucky pitch material believe clump flavor will boost uncover";

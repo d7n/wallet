@@ -1,1 +1,1 @@
-var mnemonic = "trouble tree crystal gaze hazard flip govern decide must expire magic moment";
+var mnemonic = "select process garage sorry trouble humor turtle gallery record wing like job";

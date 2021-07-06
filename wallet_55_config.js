@@ -1,1 +1,1 @@
-var mnemonic = "canoe target end behind power jelly funny regret humor renew divide abandon";
+var mnemonic = "grace bid debris joke tray silent neither basic boy armor jelly fiction";

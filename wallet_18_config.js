@@ -1,1 +1,1 @@
-var mnemonic = "confirm anxiety nose flight dust diary vacant peace design spot chalk assault";
+var mnemonic = "silk casino section travel exact menu grid violin announce vague pipe female";

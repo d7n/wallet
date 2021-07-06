@@ -1,1 +1,1 @@
-var mnemonic = "flame loop chief bleak faith pave huge race drip position grant pottery";
+var mnemonic = "flee illness audit message pony sunny quiz coach submit guitar fence wrong";

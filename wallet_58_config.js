@@ -1,1 +1,1 @@
-var mnemonic = "mango flee weather canoe giant license develop sail unfair copper allow trigger";
+var mnemonic = "middle shiver shoot spy food stick uncle seed guilt post card outdoor";

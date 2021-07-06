@@ -1,1 +1,1 @@
-var mnemonic = "clutch bamboo torch evidence anchor piece wonder text reopen zero copy pair";
+var mnemonic = "dwarf shy person economy animal abstract often duty caught endless chest ignore";

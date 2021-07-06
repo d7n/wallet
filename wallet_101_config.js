@@ -1,1 +1,1 @@
-var mnemonic = "cancel awake indicate bonus tunnel eyebrow spy cream that scissors lunch correct";
+var mnemonic = "obvious monkey empower digital head inch across easy mass cliff cliff garlic";

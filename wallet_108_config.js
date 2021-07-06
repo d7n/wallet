@@ -1,1 +1,1 @@
-var mnemonic = "liar admit control soda surface industry lawn fault spread duck cheap board";
+var mnemonic = "ice direct gym wrap faculty rug genius shop dad great attack task";

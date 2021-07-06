@@ -1,1 +1,1 @@
-var mnemonic = "grit trial outer tribe lonely hero crowd fog spell filter hedgehog rate";
+var mnemonic = "genre cousin under keen copy spoon creek dawn inhale shove gossip hobby";

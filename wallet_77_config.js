@@ -1,1 +1,1 @@
-var mnemonic = "kind fine kangaroo excite kick case ignore cabin such tower other baby";
+var mnemonic = "endorse usual imitate grow noodle novel garment again surprise speak civil lake";

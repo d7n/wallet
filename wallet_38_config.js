@@ -1,1 +1,1 @@
-var mnemonic = "slide around now advice office surface motion hill knife gauge base faith";
+var mnemonic = "crop steak dance lamp call hen donate water caught indoor lend unknown";

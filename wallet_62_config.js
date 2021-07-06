@@ -1,1 +1,1 @@
-var mnemonic = "valve crazy random below little effort thrive bind rice dust absurd spirit";
+var mnemonic = "wasp promote derive unlock grant vivid whip trouble name pause turkey soft";

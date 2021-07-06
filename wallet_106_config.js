@@ -1,1 +1,1 @@
-var mnemonic = "memory rain copy pony arrange veteran weather economy seven pony volcano local";
+var mnemonic = "goddess radar sister way amused list life grunt define hover stairs genre";

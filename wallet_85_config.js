@@ -1,1 +1,1 @@
-var mnemonic = "side spider dignity amazing concert camp quantum ritual define host grain vast";
+var mnemonic = "warrior credit tumble question render book fade chapter various struggle swim candy";

@@ -1,1 +1,1 @@
-var mnemonic = "cart choice choose aisle mule quarter resemble spare devote law early math";
+var mnemonic = "amused cancel scatter enable seed busy eyebrow speed bounce act arrange practice";

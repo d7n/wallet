@@ -1,1 +1,1 @@
-var mnemonic = "rally foster hundred dirt infant deputy nasty minute approve abuse life merit";
+var mnemonic = "wagon skirt patient tooth minimum destroy record mean tail average orbit verify";

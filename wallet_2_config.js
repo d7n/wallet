@@ -1,1 +1,1 @@
-var mnemonic = "oppose grace sure oblige final forum until until tomorrow nerve material quarter";
+var mnemonic = "vibrant arrow spin sell knife faith robot burst pilot funny priority brief";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit path acquire stuff mountain about increase sister venue pyramid auto fan";
+var mnemonic = "stem present sentence ship draft salute wear twin bone tenant exit feed";

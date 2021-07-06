@@ -1,1 +1,1 @@
-var mnemonic = "reopen donor lady pond palace jeans winter venue drive taste way senior";
+var mnemonic = "electric dune point animal practice choose poet pole enhance subway process wrap";

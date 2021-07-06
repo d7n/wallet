@@ -1,1 +1,1 @@
-var mnemonic = "help public unusual combine similar planet purity hand vicious snack shop return";
+var mnemonic = "relief prison orient number battle gentle escape narrow current flavor salute nice";

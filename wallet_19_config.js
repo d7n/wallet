@@ -1,1 +1,1 @@
-var mnemonic = "erode feature prevent gorilla inject alien ice grant engine warfare fix suspect";
+var mnemonic = "defense brief nature token vicious collect snap cricket plunge chase mixture apple";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle guard notice add sea hint scatter olympic broken meadow amazing hat";
+var mnemonic = "job solve effort orphan belt announce crime invest happy light predict target";

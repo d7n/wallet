@@ -1,1 +1,1 @@
-var mnemonic = "gorilla dignity chronic gift conduct what dignity wrestle will stable blanket culture";
+var mnemonic = "custom roast boss best enact juice tumble list proud axis solar civil";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture ensure illness diamond mixed cat zoo slush sphere tank survey office";
+var mnemonic = "distance receive hub length enter top boss bring casual tobacco vital noise";

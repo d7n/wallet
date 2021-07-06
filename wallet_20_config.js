@@ -1,1 +1,1 @@
-var mnemonic = "army cart method lobster comfort lunch spring emotion because stem lawsuit much";
+var mnemonic = "corn gown symbol person hover success follow dawn hockey sugar fringe crash";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow file mountain super error trial inherit skirt frog pig use rival";
+var mnemonic = "blood neglect merry human slush ship begin hungry siren produce visit bonus";

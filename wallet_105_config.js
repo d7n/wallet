@@ -1,1 +1,1 @@
-var mnemonic = "because gauge rescue prevent like salad vessel test tiny afford security vague";
+var mnemonic = "gallery ridge indicate feature maze mom dash visa hidden easily usual rely";

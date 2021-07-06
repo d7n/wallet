@@ -1,1 +1,1 @@
-var mnemonic = "hunt lounge clay mention bread list attract match truth curious quality rescue";
+var mnemonic = "ocean own waste scheme base try pitch wheat blame provide tennis laundry";

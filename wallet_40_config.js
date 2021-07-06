@@ -1,1 +1,1 @@
-var mnemonic = "husband bulk decline vehicle lady about doll shuffle book jelly soap frost";
+var mnemonic = "just south public exact enact pudding rug stadium core soul spare drum";

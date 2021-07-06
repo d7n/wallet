@@ -1,1 +1,1 @@
-var mnemonic = "dance grow ozone blade skate match casual mosquito rain reopen banner health";
+var mnemonic = "uncover floor alcohol state welcome repeat warm pistol minor accident help dignity";

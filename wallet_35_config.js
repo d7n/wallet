@@ -1,1 +1,1 @@
-var mnemonic = "hero method undo fit obey episode shallow pepper spray brass void vehicle";
+var mnemonic = "feel side palace balcony steel supreme track owner extra rhythm screen empty";

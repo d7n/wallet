@@ -1,1 +1,1 @@
-var mnemonic = "book half cruel rebuild reduce dizzy abandon sunset spirit snake edit youth";
+var mnemonic = "chest obey rigid eager suggest egg skirt december involve gloom federal present";

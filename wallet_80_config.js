@@ -1,1 +1,1 @@
-var mnemonic = "autumn gentle angle pony sea cash excuse trouble when clown normal aware";
+var mnemonic = "oppose grace group supreme coast dad various cat forget task canyon path";

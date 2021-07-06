@@ -1,1 +1,1 @@
-var mnemonic = "athlete frequent gasp grant mom rural dune balance they spirit prize fade";
+var mnemonic = "soda excite visa remove account act never seat poem climb tooth orient";

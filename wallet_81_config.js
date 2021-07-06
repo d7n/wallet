@@ -1,1 +1,1 @@
-var mnemonic = "option february flush hollow aerobic develop kitten long follow rare enter plunge";
+var mnemonic = "require that candy exercise neglect drama nuclear urge weekend grocery exile drip";

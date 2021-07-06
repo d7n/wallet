@@ -1,1 +1,1 @@
-var mnemonic = "glory prison robust team holiday surface swamp silly cheap employ discover cycle";
+var mnemonic = "enforce excuse chief govern admit thrive paper shiver dolphin cancel model sorry";

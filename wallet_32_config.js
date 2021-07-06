@@ -1,1 +1,1 @@
-var mnemonic = "auto able distance ability clump animal once fault brave lounge junior fee";
+var mnemonic = "cable ride pause exist actual vote kind garden afford antenna legend dolphin";

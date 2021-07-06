@@ -1,1 +1,1 @@
-var mnemonic = "sword all fragile mobile select skin just oblige domain decline tattoo believe";
+var mnemonic = "salt fire clock proof off pilot mosquito purchase rhythm auction icon unique";

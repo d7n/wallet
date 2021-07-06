@@ -1,1 +1,1 @@
-var mnemonic = "coin lawn exact club moon slim member oblige knee foster stool satoshi";
+var mnemonic = "clump love blossom damage tragic silent invest forget collect fiscal void bid";

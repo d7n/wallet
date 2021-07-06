@@ -1,1 +1,1 @@
-var mnemonic = "aspect hospital prosper six kidney engage lady awkward plastic aware base suffer";
+var mnemonic = "history never hunt purpose result parrot father whale meadow space mechanic boost";

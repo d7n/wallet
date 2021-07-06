@@ -1,1 +1,1 @@
-var mnemonic = "confirm donkey piece inner olympic merry must boost attract river chuckle initial";
+var mnemonic = "allow neutral keep staff conduct liquid voyage indicate obscure mansion lazy naive";
