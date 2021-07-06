@@ -1,1 +1,1 @@
-var mnemonic = "morning grain behave bike rug pumpkin erosion harbor sniff stove jeans pupil";
+var mnemonic = "piece section lecture time practice old learn else excuse lemon bar please";

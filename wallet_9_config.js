@@ -1,1 +1,1 @@
-var mnemonic = "lamp process dance wrist narrow stage hedgehog mansion innocent display warrior bench";
+var mnemonic = "vicious mountain marble charge margin faculty drive gate depend attack horn grass";

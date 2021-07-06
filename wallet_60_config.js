@@ -1,1 +1,1 @@
-var mnemonic = "old team enter still finish crystal nest theme produce delay picture warrior";
+var mnemonic = "lunar symptom field ivory carry lion dinner lesson donate drift hollow eyebrow";

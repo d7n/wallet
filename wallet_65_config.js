@@ -1,1 +1,1 @@
-var mnemonic = "repeat novel link quick wait oyster sentence title tornado zoo clarify length";
+var mnemonic = "mad snap clown neglect hawk imitate casino meadow narrow impact involve salad";

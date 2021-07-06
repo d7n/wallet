@@ -1,1 +1,1 @@
-var mnemonic = "buffalo desert crouch illegal mystery zero oven wide paper you behave about";
+var mnemonic = "flame gain lunch cushion lazy release link truly game shove blanket sport";

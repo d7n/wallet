@@ -1,1 +1,1 @@
-var mnemonic = "cherry copy involve yard slim leaf number sheriff culture hen grape output";
+var mnemonic = "thing play code twist blame silly report couple asthma surface february candy";

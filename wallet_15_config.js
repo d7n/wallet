@@ -1,1 +1,1 @@
-var mnemonic = "dwarf layer ripple orbit noble audit tent since spot indoor adult often";
+var mnemonic = "carbon humor clerk symbol milk caught slam typical skate stand comfort path";

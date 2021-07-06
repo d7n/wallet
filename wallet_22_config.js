@@ -1,1 +1,1 @@
-var mnemonic = "mass valid poem harsh slender garden stable must void isolate disagree spread";
+var mnemonic = "fame option identify doctor bonus system spin speed one double rude more";

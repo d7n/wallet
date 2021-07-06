@@ -1,1 +1,1 @@
-var mnemonic = "bonus frozen myself staff sunset identify fog brass sausage cup twin awesome";
+var mnemonic = "marriage venture thunder toss marine crazy motor patch monkey notice famous future";

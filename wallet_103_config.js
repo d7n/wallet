@@ -1,1 +1,1 @@
-var mnemonic = "fun because proud include silent ankle school wonder history warrior post dust";
+var mnemonic = "network already seminar maximum tide patrol uncover great dial lava pizza delay";

@@ -1,1 +1,1 @@
-var mnemonic = "chair cupboard vacuum crowd badge envelope stuff inform original decide girl spoon";
+var mnemonic = "boat demand capable any else blanket south uphold flag kangaroo wise today";

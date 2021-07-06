@@ -1,1 +1,1 @@
-var mnemonic = "shock strategy kick finger whisper behave fit anchor situate task rhythm wave";
+var mnemonic = "trigger entire catch correct mask pepper bacon chair emotion better minimum require";

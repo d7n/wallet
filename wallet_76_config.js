@@ -1,1 +1,1 @@
-var mnemonic = "fade eye two expose timber earth crop huge bulb priority language echo";
+var mnemonic = "industry monitor human hand execute erase modify discover detail world cloud artwork";

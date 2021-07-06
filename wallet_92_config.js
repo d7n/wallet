@@ -1,1 +1,1 @@
-var mnemonic = "level bind avoid clown sample ranch clock clog hurdle gain cluster sample";
+var mnemonic = "feed wash floor end connect crawl prepare coconut analyst clean goddess transfer";

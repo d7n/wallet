@@ -1,1 +1,1 @@
-var mnemonic = "input pave spawn float nuclear donate agent weird glass supreme author access";
+var mnemonic = "early double mirror romance flame exhibit crane denial faculty setup unaware ask";

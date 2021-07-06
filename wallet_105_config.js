@@ -1,1 +1,1 @@
-var mnemonic = "steak essay slam crunch squeeze gift shuffle inquiry round crack path awful";
+var mnemonic = "car brother obey soap hair mixed magnet fatal knee shallow mesh best";

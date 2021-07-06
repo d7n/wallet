@@ -1,1 +1,1 @@
-var mnemonic = "noble senior monkey among also deal mutual economy service list funny surprise";
+var mnemonic = "record royal first auto chief custom essence annual glue point debate hold";

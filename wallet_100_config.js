@@ -1,1 +1,1 @@
-var mnemonic = "diagram sand minor army goat make slogan before naive spring whale injury";
+var mnemonic = "donate truck manual review fat ramp mirror program horror satoshi dog crouch";

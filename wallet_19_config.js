@@ -1,1 +1,1 @@
-var mnemonic = "omit mimic kingdom hour noble burst wheat local feel same sausage broccoli";
+var mnemonic = "employ able skirt easy film phone candy enroll donor educate fatigue fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere dynamic faint fitness twenty tumble luggage rice rate detail vintage organ";
+var mnemonic = "genre service giraffe lucky exclude wheat scare dance pioneer faculty change search";

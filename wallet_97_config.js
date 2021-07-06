@@ -1,1 +1,1 @@
-var mnemonic = "source piece among firm replace fossil fiction scrap sunny honey alpha unusual";
+var mnemonic = "daring effort pepper famous forget detect grocery bronze rigid label employ glow";

@@ -1,1 +1,1 @@
-var mnemonic = "festival curious cheese want pitch wish shuffle sister extra memory decide worth";
+var mnemonic = "wheel cake develop indoor roof wheel drama gentle ankle desert drastic oak";

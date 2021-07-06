@@ -1,1 +1,1 @@
-var mnemonic = "danger you hold lake else insect base resist glare frequent silly magnet";
+var mnemonic = "shift hospital fade source under exist flat once soon ghost nominee rack";

@@ -1,1 +1,1 @@
-var mnemonic = "start better jump caution make tattoo garage afraid cash silver trigger donkey";
+var mnemonic = "flavor divorce include broken dog mixed liar lounge melody fix return moment";

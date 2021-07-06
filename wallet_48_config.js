@@ -1,1 +1,1 @@
-var mnemonic = "sample network dawn can author team foil nut assume rapid perfect wheel";
+var mnemonic = "melody excess enter duty fiscal cousin globe fun solid review improve typical";

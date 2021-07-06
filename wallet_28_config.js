@@ -1,1 +1,1 @@
-var mnemonic = "enemy south stamp rifle escape aim under only click museum urge settle";
+var mnemonic = "series retire design pretty pond direct host actual debate discover mad plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "then label salad north bridge split company denial mention minute kick wrist";
+var mnemonic = "setup teach subject genius mimic domain universe ugly release bulk adult insect";

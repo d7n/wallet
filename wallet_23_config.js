@@ -1,1 +1,1 @@
-var mnemonic = "credit clinic asset ice sugar table arctic peanut girl easily oblige tobacco";
+var mnemonic = "such crew decade into silly orient viable museum void dinosaur connect glad";

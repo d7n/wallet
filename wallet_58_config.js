@@ -1,1 +1,1 @@
-var mnemonic = "snack camera write old pattern digital brass clarify crouch cake cute save";
+var mnemonic = "alpha income learn sign girl clump ranch plate gadget memory rigid once";

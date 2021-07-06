@@ -1,1 +1,1 @@
-var mnemonic = "disorder then bullet faith wear night sight track floor candy legend drill";
+var mnemonic = "arena wealth muscle furnace blue credit stadium goddess thrive food link scare";

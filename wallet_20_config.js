@@ -1,1 +1,1 @@
-var mnemonic = "veteran off switch produce hand cinnamon ankle crash doll magnet patient empty";
+var mnemonic = "police soap note zoo safe belt chase tonight goat misery evidence finger";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor easy master volume joy broken chunk good custom syrup dream allow";
+var mnemonic = "summer swamp pony kid lemon radio screen foil process meat swing prize";

@@ -1,1 +1,1 @@
-var mnemonic = "found casino sniff dance grid opera medal hood scheme team retreat frozen";
+var mnemonic = "enforce dawn october voice barrel damage write early glad author lumber key";

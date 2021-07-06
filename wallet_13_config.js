@@ -1,1 +1,1 @@
-var mnemonic = "correct act evil mean middle dwarf veteran hand burst hen solve tired";
+var mnemonic = "husband left allow worry pool potato skill chunk grape leisure mass canoe";

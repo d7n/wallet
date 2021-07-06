@@ -1,1 +1,1 @@
-var mnemonic = "garlic danger coffee horror robust early tooth blur junior roof prefer mobile";
+var mnemonic = "include hair little glance soccer erode cabin copper obvious drip eternal trend";

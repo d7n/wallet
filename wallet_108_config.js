@@ -1,1 +1,1 @@
-var mnemonic = "exist mirror curtain pudding humble art unveil typical august famous allow hurdle";
+var mnemonic = "father sing master tired marine vicious script rare bottom fog clown three";

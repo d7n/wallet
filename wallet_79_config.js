@@ -1,1 +1,1 @@
-var mnemonic = "breeze marble sight later useful news away resource what stadium lion country";
+var mnemonic = "equip step match hobby camera fancy reunion connect ignore margin puzzle afraid";

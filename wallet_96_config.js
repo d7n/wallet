@@ -1,1 +1,1 @@
-var mnemonic = "access inner dentist check tube element offer concert hero place credit joy";
+var mnemonic = "afford cause answer situate real stove accident diamond build egg act base";

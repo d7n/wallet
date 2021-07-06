@@ -1,1 +1,1 @@
-var mnemonic = "garment section car design canvas busy plug leave coil amused hello member";
+var mnemonic = "cinnamon huge lend mutual snack elder easily mail nose loan hair enter";

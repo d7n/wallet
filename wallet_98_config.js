@@ -1,1 +1,1 @@
-var mnemonic = "cannon party hope beyond fix believe point banner tragic private opera upon";
+var mnemonic = "boring label banner fence ignore garden floor brave column move flock scale";

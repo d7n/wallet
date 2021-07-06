@@ -1,1 +1,1 @@
-var mnemonic = "today keep actor enhance fiction remain run edge keen prison carpet sand";
+var mnemonic = "stairs crush eternal wrist decorate photo end alter boost plate prevent manage";

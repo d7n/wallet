@@ -1,1 +1,1 @@
-var mnemonic = "stereo busy general year ensure remain dawn purpose stove retire fragile vocal";
+var mnemonic = "clerk stairs buyer judge vivid secret robot frost live regular insect reveal";

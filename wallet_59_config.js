@@ -1,1 +1,1 @@
-var mnemonic = "wish slab ginger clerk approve dismiss unaware exercise figure pig useless task";
+var mnemonic = "find harvest wonder soup inhale twin snake twist jump remain holiday good";

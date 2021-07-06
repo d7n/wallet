@@ -1,1 +1,1 @@
-var mnemonic = "transfer mystery crystal power gallery donor trade glad diary intact grow eternal";
+var mnemonic = "select pattern elegant oval wide bench siege tone recall nation news library";

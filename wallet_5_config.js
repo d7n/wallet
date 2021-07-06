@@ -1,1 +1,1 @@
-var mnemonic = "maid timber meadow solid adapt knee taste genius health doctor youth discover";
+var mnemonic = "satoshi fragile sleep series awesome gallery screen hundred sock sustain tourist tragic";

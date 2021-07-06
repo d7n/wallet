@@ -1,1 +1,1 @@
-var mnemonic = "puppy rocket extra bounce party rely ankle river typical process brand sleep";
+var mnemonic = "then above flat decade absorb bamboo pumpkin disorder various proof advance display";

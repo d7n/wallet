@@ -1,1 +1,1 @@
-var mnemonic = "spin town swing track nuclear load reunion group humble amateur amused wild";
+var mnemonic = "wave brick main thumb peanut sphere reward lawn steak fiction ritual welcome";

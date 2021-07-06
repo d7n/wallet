@@ -1,1 +1,1 @@
-var mnemonic = "pudding garage material spike island dynamic olive pause leg voyage solar magnet";
+var mnemonic = "crisp exact ball push thrive palm ribbon blue husband buzz bargain tragic";

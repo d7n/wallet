@@ -1,1 +1,1 @@
-var mnemonic = "friend column bless tiger despair sheriff accuse swallow illegal field liberty obscure";
+var mnemonic = "depart replace work resource diet pulse cushion immune two beef obvious inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "basket poverty door beyond devote potato vivid steel tennis rule beef crop";
+var mnemonic = "apology across game only sweet legend repeat moral purpose spring enlist promote";

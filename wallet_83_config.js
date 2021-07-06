@@ -1,1 +1,1 @@
-var mnemonic = "illness arch cousin invest whale valid file bulk crumble inflict zone input";
+var mnemonic = "volume lunar carry blanket giggle situate sketch erase damage winter fortune sort";

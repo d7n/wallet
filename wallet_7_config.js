@@ -1,1 +1,1 @@
-var mnemonic = "measure unaware sibling menu powder convince garbage midnight equip prosper mountain someone";
+var mnemonic = "man oxygen curious leader canoe quick network intact matter ritual dentist first";

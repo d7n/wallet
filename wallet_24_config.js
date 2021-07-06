@@ -1,1 +1,1 @@
-var mnemonic = "road enforce man unveil seat purpose size evidence limb mechanic enemy section";
+var mnemonic = "art rice distance choice cute crop vast affair pioneer brother bronze deal";

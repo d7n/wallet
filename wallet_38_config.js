@@ -1,1 +1,1 @@
-var mnemonic = "gaze half cannon satoshi claw switch skill this situate chalk curve assault";
+var mnemonic = "swing problem ankle vessel broken help upset lucky half crucial reward rather";

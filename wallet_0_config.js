@@ -1,1 +1,1 @@
-var mnemonic = "pull buddy build load tower still case fix verify donor genius climb";
+var mnemonic = "feature laundry wasp version style pride fringe olive reject honey supreme alcohol";

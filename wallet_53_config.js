@@ -1,1 +1,1 @@
-var mnemonic = "own present pretty repair fever purchase uncover across open before hill exit";
+var mnemonic = "observe jungle relax sell example skull strategy love festival decline capable scene";

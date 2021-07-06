@@ -1,1 +1,1 @@
-var mnemonic = "farm gather problem elephant nurse there junior they weather network leaf spin";
+var mnemonic = "relax embrace secret audit pluck inch leader patrol win repair sorry mountain";

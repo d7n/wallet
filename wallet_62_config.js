@@ -1,1 +1,1 @@
-var mnemonic = "dial rely mercy sense trend promote wood firm history ostrich funny soup";
+var mnemonic = "ice cheese side march iron domain senior lift state truly bind term";

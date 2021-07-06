@@ -1,1 +1,1 @@
-var mnemonic = "eight antenna excite drill material pumpkin initial sustain soft bridge happy ketchup";
+var mnemonic = "feature basket decade pen skate hotel member owner stem armed wing dragon";

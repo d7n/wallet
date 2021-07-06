@@ -1,1 +1,1 @@
-var mnemonic = "useful feed lounge tennis surface load vendor globe caught silver fatigue twice";
+var mnemonic = "foil fuel polar grocery sight child hip method salad diary crystal language";

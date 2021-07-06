@@ -1,1 +1,1 @@
-var mnemonic = "strategy route tissue reward very then shy goose neutral neck whale own";
+var mnemonic = "crime mushroom moon chronic dice album goddess because refuse crater climb turn";

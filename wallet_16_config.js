@@ -1,1 +1,1 @@
-var mnemonic = "tortoise same crunch worry shift try wash radio air glare shiver dizzy";
+var mnemonic = "husband frown uncover cinnamon moment used assume february dynamic online couch fluid";

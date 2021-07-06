@@ -1,1 +1,1 @@
-var mnemonic = "junk rely father opera power punch patrol camera hat pull thrive ticket";
+var mnemonic = "neutral task card fault apple search stand fatal ahead need monkey smoke";

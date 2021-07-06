@@ -1,1 +1,1 @@
-var mnemonic = "sting icon fatigue profit describe type urge inflict raven robot ecology acid";
+var mnemonic = "donkey escape wheat display enemy pool film forget extend sleep foot unfold";

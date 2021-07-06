@@ -1,1 +1,1 @@
-var mnemonic = "inspire bunker hand pulp gap among pony settle until pen north piano";
+var mnemonic = "example hobby party noise soon type funny knock spot winner fold blame";

@@ -1,1 +1,1 @@
-var mnemonic = "boost explain hat tunnel syrup album under cry top select waste earth";
+var mnemonic = "slush race wedding supreme pumpkin tongue suspect dress burger minimum happy promote";

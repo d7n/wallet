@@ -1,1 +1,1 @@
-var mnemonic = "home endorse offer treat phrase prepare trophy abandon evidence effort innocent baby";
+var mnemonic = "fade scatter donate hurdle pigeon void shop crime educate peace jungle vanish";

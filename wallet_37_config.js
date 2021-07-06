@@ -1,1 +1,1 @@
-var mnemonic = "work betray tooth verify melt retire panther assist upon virtual unaware develop";
+var mnemonic = "purchase mixed hard funny eager stand morning all piano draft novel slush";

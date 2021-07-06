@@ -1,1 +1,1 @@
-var mnemonic = "card catch setup round clip dust rude bulk orbit dragon tribe announce";
+var mnemonic = "advice drastic olive menu blossom glass rigid icon abstract tonight phrase few";

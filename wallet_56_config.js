@@ -1,1 +1,1 @@
-var mnemonic = "friend yard tank rib fabric oak settle steel ecology toddler glare clutch";
+var mnemonic = "student broccoli anchor label barrel course lecture evolve make inflict salmon bacon";

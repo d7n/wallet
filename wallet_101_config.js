@@ -1,1 +1,1 @@
-var mnemonic = "ivory repeat injury dress jazz deer wheat flush apart whisper stuff dish";
+var mnemonic = "also digital wild order blood actor grief aim sell meat harvest fossil";

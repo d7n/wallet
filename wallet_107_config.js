@@ -1,1 +1,1 @@
-var mnemonic = "pole hawk atom coin girl across pitch dress opinion believe rubber furnace";
+var mnemonic = "crop gesture someone luggage gloom popular battle cram ask blind mammal bulb";

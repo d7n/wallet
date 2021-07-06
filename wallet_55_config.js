@@ -1,1 +1,1 @@
-var mnemonic = "expect seek unit smooth dawn account broom long clinic salad music where";
+var mnemonic = "force nephew display radar soup decrease profit moment hybrid arrive inquiry deer";

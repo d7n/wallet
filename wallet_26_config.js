@@ -1,1 +1,1 @@
-var mnemonic = "elevator first use snack idle abandon tribe hybrid tower question demise border";
+var mnemonic = "swallow alarm three name crane earth path because speak arrive ride shine";

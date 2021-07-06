@@ -1,1 +1,1 @@
-var mnemonic = "suit voyage gloom audit require april rotate person differ bulb scale abstract";
+var mnemonic = "decorate myself result outside solve film tonight chief favorite alley deposit expect";

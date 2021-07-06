@@ -1,1 +1,1 @@
-var mnemonic = "tonight suffer diesel eight crew inform remain never sponsor afraid grief pulp";
+var mnemonic = "rifle panic seat keen sample expand hospital foil cruel sunny merit notable";

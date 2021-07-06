@@ -1,1 +1,1 @@
-var mnemonic = "drum resource kite side sweet sea silly title field pink slender object";
+var mnemonic = "local about broccoli alone infant anxiety crisp believe velvet rebel grief oppose";

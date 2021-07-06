@@ -1,1 +1,1 @@
-var mnemonic = "ring south waste child steak history anxiety reunion excite believe sight lizard";
+var mnemonic = "brick month notice brown hill wool kite horn napkin odor tone hungry";

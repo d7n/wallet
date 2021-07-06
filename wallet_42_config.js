@@ -1,1 +1,1 @@
-var mnemonic = "spawn tank million fuel tongue woman nephew better push pair million float";
+var mnemonic = "begin plug warm load code bonus video resemble approve cycle trial appear";

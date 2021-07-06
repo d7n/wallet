@@ -1,1 +1,1 @@
-var mnemonic = "object vicious spread swallow music easily genius drum penalty wine anchor reject";
+var mnemonic = "drift leader average payment planet net pave vapor stereo hat grant height";

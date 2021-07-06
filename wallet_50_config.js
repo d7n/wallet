@@ -1,1 +1,1 @@
-var mnemonic = "rate elbow jump rotate cash mom code capital pupil erupt yellow dad";
+var mnemonic = "half outer thunder obvious impose mix hair nice control choice save animal";

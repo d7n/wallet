@@ -1,1 +1,1 @@
-var mnemonic = "check cheap height enter champion offer divide naive hobby salt wait chef";
+var mnemonic = "nuclear provide illegal wasp crumble clever fatal laundry fetch bright pluck speed";

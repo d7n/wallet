@@ -1,1 +1,1 @@
-var mnemonic = "cactus cost device market lens flavor enact diesel weasel tide extend lyrics";
+var mnemonic = "ensure ice expand life system omit sight tank fish identify taste donate";

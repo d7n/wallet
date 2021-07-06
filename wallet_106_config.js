@@ -1,1 +1,1 @@
-var mnemonic = "once shed trap nerve split execute hungry manage explain trim orchard remain";
+var mnemonic = "depth attend curve ghost autumn mind subject garment surface today suffer immense";

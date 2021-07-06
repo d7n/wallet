@@ -1,1 +1,1 @@
-var mnemonic = "ship disease modify luxury uncover disorder observe crew wood excess real donor";
+var mnemonic = "crew summer civil shrimp oblige junior upset problem section unable brass travel";

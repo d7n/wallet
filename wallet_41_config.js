@@ -1,1 +1,1 @@
-var mnemonic = "minor trophy suit ginger silver air century manage vehicle organ enter raise";
+var mnemonic = "tag punch radar perfect rare index must march wreck giraffe conduct cloud";

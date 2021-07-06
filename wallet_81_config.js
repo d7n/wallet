@@ -1,1 +1,1 @@
-var mnemonic = "elbow area moon welcome essay hint item during social shadow hidden ordinary";
+var mnemonic = "panda loud shoe emotion enhance birth work neither video rescue grab bus";

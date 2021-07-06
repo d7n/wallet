@@ -1,1 +1,1 @@
-var mnemonic = "merge damp pen vivid consider second essence zero parrot call spray atom";
+var mnemonic = "round endorse collect world tell avocado solve false tortoise hood old sketch";

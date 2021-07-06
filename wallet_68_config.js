@@ -1,1 +1,1 @@
-var mnemonic = "settle fluid ribbon tape grow fan tenant banner width satoshi news picnic";
+var mnemonic = "final double hair swap trim crazy desert worth settle oblige cup farm";

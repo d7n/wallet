@@ -1,1 +1,1 @@
-var mnemonic = "marriage burger owner mutual puppy horror mimic cute random bicycle anxiety damage";
+var mnemonic = "soon unaware diary volume foam innocent library unfold visit jump detect high";
