@@ -1,1 +1,1 @@
-var mnemonic = "bleak dinner include coffee type sea surprise sheriff ostrich mass gauge side";
+var mnemonic = "dash alter update achieve apology match flight craft nothing plug habit notice";

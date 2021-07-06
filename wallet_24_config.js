@@ -1,1 +1,1 @@
-var mnemonic = "about arena order fantasy surround roof address great wool theory hedgehog sausage";
+var mnemonic = "floor minor cart one prize tragic mobile trouble rude vendor chapter fiber";

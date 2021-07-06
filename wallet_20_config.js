@@ -1,1 +1,1 @@
-var mnemonic = "index horn grid bean artist diagram author impact barely hen ethics wise";
+var mnemonic = "sand matter bid little salt abuse render caught stage vocal arrange moment";

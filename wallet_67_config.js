@@ -1,1 +1,1 @@
-var mnemonic = "enough trick float inflict law there warrior enjoy exotic bulk visit moral";
+var mnemonic = "chest brand capital always tenant wreck crack credit dolphin clock canvas rack";

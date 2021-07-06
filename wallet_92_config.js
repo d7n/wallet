@@ -1,1 +1,1 @@
-var mnemonic = "thought goat copper grunt between barrel pave cover play country chest casual";
+var mnemonic = "master foam magnet lock ecology initial seminar region barrel volume moon diamond";

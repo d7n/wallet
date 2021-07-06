@@ -1,1 +1,1 @@
-var mnemonic = "control raccoon talent brave pool retire negative milk system cream auto turkey";
+var mnemonic = "feature erase remind summer grief mutual vessel spell sweet carry science staff";

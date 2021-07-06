@@ -1,1 +1,1 @@
-var mnemonic = "acoustic ordinary cram adapt august hold plunge march erase argue neck divert";
+var mnemonic = "tent water approve square orphan giggle hill domain all grocery else admit";

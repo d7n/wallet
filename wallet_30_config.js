@@ -1,1 +1,1 @@
-var mnemonic = "century diagram steak sunny order paper bulb over athlete load call page";
+var mnemonic = "color wall enemy invest auto absurd secret radar faint drill drop replace";

@@ -1,1 +1,1 @@
-var mnemonic = "skin mom whale sea put apart vendor action better wisdom virtual obey";
+var mnemonic = "rough design lamp earn place total wedding blouse dose regular honey keep";

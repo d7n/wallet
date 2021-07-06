@@ -1,1 +1,1 @@
-var mnemonic = "top opera family laugh dress machine stuff spring sleep conduct spawn fresh";
+var mnemonic = "engage believe exchange wolf slush fine moral mixture luxury frog fog security";

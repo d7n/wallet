@@ -1,1 +1,1 @@
-var mnemonic = "physical solid rival rigid soldier slush protect exact craft evidence question trial";
+var mnemonic = "mobile spider trial visa retire trophy clinic text also surprise above speed";

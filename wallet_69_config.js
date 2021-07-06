@@ -1,1 +1,1 @@
-var mnemonic = "laugh inherit metal wedding hundred tribe pioneer story say bone west danger";
+var mnemonic = "more ginger magic install pole animal recall similar ozone glimpse bunker account";

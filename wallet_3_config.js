@@ -1,1 +1,1 @@
-var mnemonic = "habit era arrive cage abstract enemy festival mystery phone crowd label kid";
+var mnemonic = "hour good subject sentence battle flash loud squirrel pond saddle ahead leopard";

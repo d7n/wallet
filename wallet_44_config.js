@@ -1,1 +1,1 @@
-var mnemonic = "rent gossip you over resemble vast client gallery sword report enjoy extend";
+var mnemonic = "bundle flip angle dilemma toss muscle salute spirit favorite pet source crumble";

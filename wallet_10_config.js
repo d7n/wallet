@@ -1,1 +1,1 @@
-var mnemonic = "program coconut toast only they disorder tiger device that secret boost trouble";
+var mnemonic = "medal latin juice inner suit degree minute receive hospital must liar menu";

@@ -1,1 +1,1 @@
-var mnemonic = "omit silly tragic fine travel funny suspect music garlic outer shock neutral";
+var mnemonic = "breeze convince cotton bar tattoo only false solar wing pattern gravity leaf";

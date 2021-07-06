@@ -1,1 +1,1 @@
-var mnemonic = "doctor luggage buffalo jeans luggage clean over expose air raw spirit treat";
+var mnemonic = "play fitness ozone cave easily juice better wood shift twist casino art";

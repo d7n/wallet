@@ -1,1 +1,1 @@
-var mnemonic = "portion sunset derive lazy cream obscure radar seat coach avocado aerobic near";
+var mnemonic = "exist arrive inform high cheese custom chest tonight upon opinion build weird";

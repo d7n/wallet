@@ -1,1 +1,1 @@
-var mnemonic = "uncle concert inherit rough emerge neck arch wreck will earth fee nasty";
+var mnemonic = "switch lock six reject tool ritual wagon market jeans dolphin pond pilot";

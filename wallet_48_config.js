@@ -1,1 +1,1 @@
-var mnemonic = "lens affair kick gift visit excess opera system magnet gain erupt agree";
+var mnemonic = "tone wise win alien race film blossom warm success trim lecture rather";

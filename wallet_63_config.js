@@ -1,1 +1,1 @@
-var mnemonic = "three annual party quote miracle small detail drastic floor flower spare clever";
+var mnemonic = "topple permit convince curtain industry industry blush blood mandate cream tag ability";

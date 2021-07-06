@@ -1,1 +1,1 @@
-var mnemonic = "display half rubber damp between ripple noise strong awesome settle unveil toss";
+var mnemonic = "thing try firm square garlic radio wonder valid inside similar list music";

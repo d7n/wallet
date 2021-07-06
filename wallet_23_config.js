@@ -1,1 +1,1 @@
-var mnemonic = "royal father project disease discover fee orange empty price brass knife loud";
+var mnemonic = "donor alter pitch train park village fortune pretty loop three forget kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas parent rain link wonder say deer aisle height column fork slender";
+var mnemonic = "hold man ankle disorder exclude fashion nuclear hole riot manual diesel vacant";

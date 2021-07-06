@@ -1,1 +1,1 @@
-var mnemonic = "bleak brass rapid focus nothing gospel chimney total original anchor velvet earn";
+var mnemonic = "admit minute element ice local film hundred sphere mule benefit lawn decide";

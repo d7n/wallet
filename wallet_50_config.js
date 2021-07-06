@@ -1,1 +1,1 @@
-var mnemonic = "flag motor poverty achieve abuse input raw gun type own issue side";
+var mnemonic = "oyster size bleak traffic frame deal flat scale erupt lunch suggest carry";

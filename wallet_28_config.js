@@ -1,1 +1,1 @@
-var mnemonic = "shaft spare delay space axis sugar clay flock unique consider mystery infant";
+var mnemonic = "mandate sister wing harbor sell comic finish inject actual gather kidney program";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster indicate palm empty zone mountain regret recipe swear creek tilt tonight";
+var mnemonic = "human turtle cloud tourist tiger immune gallery pretty exotic hat kitten special";

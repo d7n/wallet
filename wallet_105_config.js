@@ -1,1 +1,1 @@
-var mnemonic = "industry spy window hamster indicate student relief sudden brown simple wise olympic";
+var mnemonic = "dream culture ill movie crew picnic hollow sea erase ozone diamond length";

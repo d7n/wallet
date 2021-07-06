@@ -1,1 +1,1 @@
-var mnemonic = "smile memory park area person build crowd select own paper mansion craft";
+var mnemonic = "shy deny avoid quick rifle tide beyond before shed giant original version";

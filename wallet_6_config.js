@@ -1,1 +1,1 @@
-var mnemonic = "spice once robot render loyal autumn vault tuna pretty select giraffe company";
+var mnemonic = "market disagree reveal armor client loud true assist live fitness enforce pulse";

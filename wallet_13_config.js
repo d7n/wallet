@@ -1,1 +1,1 @@
-var mnemonic = "fall agree buddy sustain equip surround pupil blood cabin clinic matrix crime";
+var mnemonic = "nurse dice rescue core devote gift until wisdom inform equal force trick";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness file elbow industry whisper session globe tissue budget mosquito often winner";
+var mnemonic = "keen glad nasty mule stick sausage ghost spoon dirt sock vivid dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "swear lucky april exotic video wrap drum cage rabbit update foot property";
+var mnemonic = "antique grab core genre style review position lucky vicious soccer rough miss";

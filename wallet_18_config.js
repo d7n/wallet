@@ -1,1 +1,1 @@
-var mnemonic = "remind base truck double genius interest misery cinnamon top wage fork shop";
+var mnemonic = "skin smooth leaf debris staff famous citizen beyond inherit identify tower over";

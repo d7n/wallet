@@ -1,1 +1,1 @@
-var mnemonic = "march rabbit embrace again debate pass drama become balance message vapor sudden";
+var mnemonic = "about route poverty defy melody rotate soap equip scrap deposit civil cheap";

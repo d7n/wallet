@@ -1,1 +1,1 @@
-var mnemonic = "notable famous banner fashion bone know dragon where grow sponsor open visit";
+var mnemonic = "find urge roof drip already disagree spell gravity remind stone display winner";

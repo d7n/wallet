@@ -1,1 +1,1 @@
-var mnemonic = "rally inside child away own argue kiss arena recycle crime give envelope";
+var mnemonic = "rival alone input produce science goddess bounce never leader party decrease enforce";

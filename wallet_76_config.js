@@ -1,1 +1,1 @@
-var mnemonic = "galaxy lesson link round crazy wheel long noodle plastic pepper dumb hero";
+var mnemonic = "fury liar analyst focus grow glad animal demand buzz retire famous seek";

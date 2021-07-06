@@ -1,1 +1,1 @@
-var mnemonic = "clog huge burden coach job antique board endorse few oil donor solve";
+var mnemonic = "robot destroy orchard trumpet network health clarify guide thought speed umbrella trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "sport call gun gold minor nasty joy toy then brave sample wine";
+var mnemonic = "shallow general eye future joke bind chronic find soul depend elbow soft";

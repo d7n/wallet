@@ -1,1 +1,1 @@
-var mnemonic = "innocent round trend when blouse earn spawn bamboo mail spray boring adult";
+var mnemonic = "age sad absurd refuse reward body hotel cross hen knock feature vast";

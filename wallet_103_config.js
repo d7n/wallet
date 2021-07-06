@@ -1,1 +1,1 @@
-var mnemonic = "little purchase much fetch often kingdom claim butter spirit diamond pave equal";
+var mnemonic = "anxiety damp alien fork slush found web misery parade pipe staff famous";

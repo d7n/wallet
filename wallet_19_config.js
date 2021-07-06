@@ -1,1 +1,1 @@
-var mnemonic = "camera shine ship three kitchen master provide quarter clock scorpion common finish";
+var mnemonic = "flat sadness together aim twenty weasel surprise seed powder digital regret member";

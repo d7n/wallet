@@ -1,1 +1,1 @@
-var mnemonic = "little express trap shaft matter notable spawn delay stereo camera cube jar";
+var mnemonic = "stool clown duty hamster reveal powder glory torch bargain hero flag way";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit transfer flush pause adapt rebel tool choice crop main stereo engine";
+var mnemonic = "gravity nose below calm outside scheme nature click vacuum wild violin ribbon";

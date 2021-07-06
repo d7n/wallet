@@ -1,1 +1,1 @@
-var mnemonic = "manual soldier dwarf bread primary purchase brown dose crash area catch boy";
+var mnemonic = "armed gossip oblige addict avoid idle weird bar crawl stock tenant dawn";

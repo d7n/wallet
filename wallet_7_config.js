@@ -1,1 +1,1 @@
-var mnemonic = "issue way mosquito local kid group pony oval couch vapor future never";
+var mnemonic = "doll boy guard hint amazing rug second biology peasant caution pink eagle";

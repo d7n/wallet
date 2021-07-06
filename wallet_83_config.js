@@ -1,1 +1,1 @@
-var mnemonic = "drift double cake lava into obtain solve angle tobacco divorce narrow crack";
+var mnemonic = "that garden old harsh reduce year fiscal wise anger blade arch awful";

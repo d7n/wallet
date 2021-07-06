@@ -1,1 +1,1 @@
-var mnemonic = "dentist evidence damage pair wisdom victory payment garbage cheap dune lake fluid";
+var mnemonic = "water sweet industry tiny radar dismiss adapt unveil doll dash mix pen";

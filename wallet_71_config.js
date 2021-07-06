@@ -1,1 +1,1 @@
-var mnemonic = "vibrant donate stomach viable gift first minute board panther mutual aunt pool";
+var mnemonic = "ecology buffalo inform fault box aim husband tiger run match unusual modify";

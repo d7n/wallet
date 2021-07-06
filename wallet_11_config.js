@@ -1,1 +1,1 @@
-var mnemonic = "scheme gospel inherit weird refuse receive desert afraid syrup pupil toast cross";
+var mnemonic = "era alert faint dry blanket jaguar awake world network report open orchard";

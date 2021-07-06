@@ -1,1 +1,1 @@
-var mnemonic = "salmon chaos bonus rocket path survey guess dry spray ivory detail capital";
+var mnemonic = "cake honey switch project defy catch bunker caution direct normal private exotic";

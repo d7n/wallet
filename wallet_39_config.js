@@ -1,1 +1,1 @@
-var mnemonic = "able direct mean ritual antenna join segment place town donate catalog enhance";
+var mnemonic = "net they elephant range stable garment spoon wine shine base stay frog";

@@ -1,1 +1,1 @@
-var mnemonic = "profit profit brush emotion repair humor exercise deer artwork album negative weather";
+var mnemonic = "shield feed artefact mango tail neutral tortoise dream obey useful decline estate";

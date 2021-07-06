@@ -1,1 +1,1 @@
-var mnemonic = "game connect dune survey romance system drip glue seat absorb sort vivid";
+var mnemonic = "elder random subway become canyon accident rural target curve royal midnight quantum";

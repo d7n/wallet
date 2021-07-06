@@ -1,1 +1,1 @@
-var mnemonic = "general marine impose upon worry celery razor attend trip teach lunch brother";
+var mnemonic = "tilt dynamic elephant mixture worry private board consider nest search unveil limit";

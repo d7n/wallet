@@ -1,1 +1,1 @@
-var mnemonic = "girl ghost kidney spoon ice lawsuit glare have plate upon control shadow";
+var mnemonic = "quiz type attend tilt vendor slide fortune olympic sad club sting meat";

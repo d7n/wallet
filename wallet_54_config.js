@@ -1,1 +1,1 @@
-var mnemonic = "elegant wisdom claim depth daughter border produce deliver toe kite summer wet";
+var mnemonic = "sunny favorite cushion arrest floor human jealous dragon damp path inhale cousin";

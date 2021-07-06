@@ -1,1 +1,1 @@
-var mnemonic = "salute radio agent cycle praise grace ignore ask slogan custom occur manage";
+var mnemonic = "about harsh cigar confirm whale frown exhaust toddler jewel destroy place spy";

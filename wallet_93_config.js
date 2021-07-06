@@ -1,1 +1,1 @@
-var mnemonic = "same link canoe author future aerobic act power cancel cake market awake";
+var mnemonic = "side chicken prize mixture cactus vague already minute safe lake glue pudding";

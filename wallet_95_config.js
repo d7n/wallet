@@ -1,1 +1,1 @@
-var mnemonic = "source squeeze magic estate congress phrase vibrant answer whale super peace peanut";
+var mnemonic = "soup trial motion mandate trick upgrade rebuild dish eye air rich antenna";

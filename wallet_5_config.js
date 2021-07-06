@@ -1,1 +1,1 @@
-var mnemonic = "figure art run blind twenty knee cash coyote treat peanut raw olympic";
+var mnemonic = "merry all brown rocket humble slim caution wage soft motion sell legend";

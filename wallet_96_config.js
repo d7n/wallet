@@ -1,1 +1,1 @@
-var mnemonic = "alert outside host bronze derive song lesson leave tray company say quality";
+var mnemonic = "urban exercise chat cliff explain flash film pull ocean record derive dish";

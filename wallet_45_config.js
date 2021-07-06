@@ -1,1 +1,1 @@
-var mnemonic = "noise hand observe fetch shove climb security retreat october lion describe pistol";
+var mnemonic = "return era between depend easy vanish drop record sick tree rough lawn";

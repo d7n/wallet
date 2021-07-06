@@ -1,1 +1,1 @@
-var mnemonic = "plate clump wild warrior visa moment apple disease toward case lawsuit discover";
+var mnemonic = "marble mixed detail medal deposit jazz bean divert essay diesel flush dumb";

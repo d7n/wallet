@@ -1,1 +1,1 @@
-var mnemonic = "inform deputy wild sock prison front post end guard sting soft grass";
+var mnemonic = "stock mixture muffin simple task stereo blanket ten bubble candy bargain bitter";

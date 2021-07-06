@@ -1,1 +1,1 @@
-var mnemonic = "always demise critic cheese evil lonely sentence just fire panther side ridge";
+var mnemonic = "music garment pottery fabric much table slender cycle flower define illegal scrub";

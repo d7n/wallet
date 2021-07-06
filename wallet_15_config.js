@@ -1,1 +1,1 @@
-var mnemonic = "smooth view spatial erupt music soldier jewel frequent holiday grass happy train";
+var mnemonic = "quit easily script menu ivory fence dizzy friend achieve sustain river notable";

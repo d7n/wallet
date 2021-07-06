@@ -1,1 +1,1 @@
-var mnemonic = "uncle metal supreme strong beauty debate strong liquid quality identify winter pool";
+var mnemonic = "system veteran divert denial abandon ask weasel material hawk lumber crazy donkey";

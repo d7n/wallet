@@ -1,1 +1,1 @@
-var mnemonic = "east husband undo plunge address wash evidence abstract student salad skate welcome";
+var mnemonic = "fever acid staff blanket edge movie buffalo goat output belt play body";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect assault undo inherit arctic gather unaware finger dinner amateur hockey fork";
+var mnemonic = "economy black solid volume vapor problem extra wear pumpkin put there hazard";

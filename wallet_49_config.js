@@ -1,1 +1,1 @@
-var mnemonic = "mobile horn early tongue bean dawn dumb situate junior tortoise property mix";
+var mnemonic = "simple dish lawn park flower heart message plug peanut attract warrior spawn";

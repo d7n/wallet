@@ -1,1 +1,1 @@
-var mnemonic = "apple ship much snack wrist affair credit bag various drop keen liquid";
+var mnemonic = "blanket antenna entry tribe clay area mistake window bridge leisure human agree";

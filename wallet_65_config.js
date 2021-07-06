@@ -1,1 +1,1 @@
-var mnemonic = "tell balance what chef pitch chuckle aisle more know lock buddy wink";
+var mnemonic = "gym capable wash peasant invest rule basic rib actor fiction grain van";

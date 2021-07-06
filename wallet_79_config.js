@@ -1,1 +1,1 @@
-var mnemonic = "slide skirt hill move minimum author weapon wild adjust promote equip zone";
+var mnemonic = "meat romance rapid pet quantum salad rookie news summer success dilemma clown";

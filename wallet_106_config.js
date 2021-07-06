@@ -1,1 +1,1 @@
-var mnemonic = "symptom model hunt powder fall much decade mechanic street buyer morning school";
+var mnemonic = "recipe east valley purpose suffer client six cream inhale glad entire earth";

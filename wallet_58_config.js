@@ -1,1 +1,1 @@
-var mnemonic = "chest danger link build aisle eager popular only tower green spare rule";
+var mnemonic = "long village fog hope wedding will audit awful false gym stuff actor";

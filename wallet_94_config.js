@@ -1,1 +1,1 @@
-var mnemonic = "tongue recycle guess sock adjust urge appear bar romance magnet later announce";
+var mnemonic = "museum legal entire pistol salmon search alter travel clip seed critic soap";

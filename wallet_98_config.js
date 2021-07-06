@@ -1,1 +1,1 @@
-var mnemonic = "pond soft lock canal vacant twenty cereal ocean morning danger such acoustic";
+var mnemonic = "bird smooth obey tourist elite blur tail tail chapter raven bind demand";

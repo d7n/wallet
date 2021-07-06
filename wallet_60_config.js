@@ -1,1 +1,1 @@
-var mnemonic = "estate transfer angry service six believe rib tool obtain sibling task lesson";
+var mnemonic = "thing episode salmon light admit mountain pave thank ocean eternal remain sad";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle fetch small ugly track erase throw long sadness pass wear medal";
+var mnemonic = "target seat veteran clip document syrup august idea celery twenty cannon horn";

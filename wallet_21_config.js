@@ -1,1 +1,1 @@
-var mnemonic = "alpha clown holiday disagree rather royal alter begin seven paddle hurdle hope";
+var mnemonic = "behind enrich dinosaur chest short friend inch wreck company promote marriage equal";

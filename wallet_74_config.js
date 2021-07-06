@@ -1,1 +1,1 @@
-var mnemonic = "property senior antenna winter drum remember three outside favorite upset scene shock";
+var mnemonic = "early will dad spot clog useful color market cherry exotic near pottery";

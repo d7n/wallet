@@ -1,1 +1,1 @@
-var mnemonic = "inner embody pipe turn deliver film fatigue swamp item buyer bubble expect";
+var mnemonic = "famous beyond mixture picture end wreck code captain jar hill useless bronze";

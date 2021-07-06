@@ -1,1 +1,1 @@
-var mnemonic = "rude build scale drive scrub side lecture pride frog evil record message";
+var mnemonic = "laundry robust repeat pencil ship present cruel pluck spike midnight predict creek";

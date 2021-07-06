@@ -1,1 +1,1 @@
-var mnemonic = "exercise assist panther ribbon shop typical tide allow great donate jewel right";
+var mnemonic = "park chuckle add animal mandate era busy tattoo priority budget pony express";

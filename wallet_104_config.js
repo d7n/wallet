@@ -1,1 +1,1 @@
-var mnemonic = "gesture bottom dolphin general kid victory hedgehog tool you excess middle holiday";
+var mnemonic = "dwarf sentence car interest good amateur tray similar fringe century purpose zoo";

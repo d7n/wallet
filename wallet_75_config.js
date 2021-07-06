@@ -1,1 +1,1 @@
-var mnemonic = "chapter quit rule cry manual upper primary start top frequent shield sentence";
+var mnemonic = "legal engage anger stadium swamp early shove parade zebra couch cage crunch";

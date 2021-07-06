@@ -1,1 +1,1 @@
-var mnemonic = "chimney curve harvest tongue envelope morning destroy candy celery field proof accuse";
+var mnemonic = "rather innocent repeat game weather claim quarter rather girl human love relax";

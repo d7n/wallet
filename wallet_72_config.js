@@ -1,1 +1,1 @@
-var mnemonic = "february room ritual school advice ostrich furnace object human vintage choice potato";
+var mnemonic = "sing cake elegant foot toilet praise patch random very perfect cigar defy";

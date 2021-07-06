@@ -1,1 +1,1 @@
-var mnemonic = "admit assault junk mother nest baby primary labor remain olympic tissue strategy";
+var mnemonic = "filter summer diesel manual erupt tissue pool gossip inch glow kidney potato";

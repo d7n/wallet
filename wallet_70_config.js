@@ -1,1 +1,1 @@
-var mnemonic = "foam merry promote critic reduce chuckle cotton turkey kitchen attract possible enable";
+var mnemonic = "narrow kiwi have toward critic robust arrest swap about gallery sword galaxy";
