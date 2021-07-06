@@ -1,1 +1,1 @@
-var mnemonic = "wagon skirt patient tooth minimum destroy record mean tail average orbit verify";
+var mnemonic = "fashion coconut tomato recycle hockey grape fame thunder smile anger shiver file";

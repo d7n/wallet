@@ -1,1 +1,1 @@
-var mnemonic = "defense brief nature token vicious collect snap cricket plunge chase mixture apple";
+var mnemonic = "joy couple govern room reunion potato math skirt amateur glance good boat";

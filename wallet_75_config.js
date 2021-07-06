@@ -1,1 +1,1 @@
-var mnemonic = "clever cheese memory dove vast matter trial family orange trouble danger magnet";
+var mnemonic = "weapon damp crisp goddess robust boil steak alert silk south okay robust";

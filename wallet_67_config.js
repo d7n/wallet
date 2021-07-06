@@ -1,1 +1,1 @@
-var mnemonic = "relief prison orient number battle gentle escape narrow current flavor salute nice";
+var mnemonic = "whale sustain umbrella action twenty reason make sustain senior guard loyal dash";

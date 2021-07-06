@@ -1,1 +1,1 @@
-var mnemonic = "walk laptop consider calm motion plate siren judge vessel curious planet hint";
+var mnemonic = "tomato excuse disease valve weird mistake tray invite danger range refuse coral";

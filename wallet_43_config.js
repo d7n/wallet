@@ -1,1 +1,1 @@
-var mnemonic = "amused cancel scatter enable seed busy eyebrow speed bounce act arrange practice";
+var mnemonic = "relief plug cube venture faculty bicycle swap elephant below hub mix lounge";

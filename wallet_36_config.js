@@ -1,1 +1,1 @@
-var mnemonic = "service dash cabbage scrub this dolphin flower circle deposit gaze power bunker";
+var mnemonic = "neutral gift link repeat cram arrow arrange hire second stage patient girl";

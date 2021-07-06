@@ -1,1 +1,1 @@
-var mnemonic = "enemy student stable orphan anger dragon benefit endless frown slender guilt tent";
+var mnemonic = "prevent board injury write primary auto scatter potato pet lumber chaos fame";

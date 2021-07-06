@@ -1,1 +1,1 @@
-var mnemonic = "require that candy exercise neglect drama nuclear urge weekend grocery exile drip";
+var mnemonic = "brown small weather bamboo inflict adapt exhaust way rookie scale slam vocal";

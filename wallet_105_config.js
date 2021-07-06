@@ -1,1 +1,1 @@
-var mnemonic = "gallery ridge indicate feature maze mom dash visa hidden easily usual rely";
+var mnemonic = "envelope skill promote remove soap midnight eager hurry grief suspect calm tired";

@@ -1,1 +1,1 @@
-var mnemonic = "spring suffer chronic cancel battle mansion anger soda exercise person today pen";
+var mnemonic = "retreat album pill cup mushroom skate salute nation need crystal floor increase";

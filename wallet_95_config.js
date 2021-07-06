@@ -1,1 +1,1 @@
-var mnemonic = "hurdle into moment omit view item crisp release need never ecology allow";
+var mnemonic = "else casual popular fortune laugh major antenna jewel farm goddess beef ill";

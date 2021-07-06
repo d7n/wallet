@@ -1,1 +1,1 @@
-var mnemonic = "salt fire clock proof off pilot mosquito purchase rhythm auction icon unique";
+var mnemonic = "surround airport orient forget autumn birth raccoon radar parade feel sponsor reopen";

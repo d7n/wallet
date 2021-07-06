@@ -1,1 +1,1 @@
-var mnemonic = "sphere call spell coil maximum media surprise normal spirit toe flash open";
+var mnemonic = "ship afraid danger iron blame round absent mass chaos shrug absorb design";

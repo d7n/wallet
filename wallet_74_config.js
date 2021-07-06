@@ -1,1 +1,1 @@
-var mnemonic = "comfort tired thrive cinnamon sting witness cook merit mixture electric also casino";
+var mnemonic = "throw accuse eager audit resist genuine tribe despair choice diagram volcano train";

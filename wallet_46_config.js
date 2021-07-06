@@ -1,1 +1,1 @@
-var mnemonic = "enforce excuse chief govern admit thrive paper shiver dolphin cancel model sorry";
+var mnemonic = "gallery bamboo spy slogan excite vendor kitchen yellow piece pitch furnace survey";

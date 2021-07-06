@@ -1,1 +1,1 @@
-var mnemonic = "history never hunt purpose result parrot father whale meadow space mechanic boost";
+var mnemonic = "now mask side apart cage hedgehog top noodle juice enter patrol okay";

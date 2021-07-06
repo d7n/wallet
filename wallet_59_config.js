@@ -1,1 +1,1 @@
-var mnemonic = "infant heavy sword hope rug coach flip chair spawn van add finish";
+var mnemonic = "lake jeans detail lion high orange miracle feature cherry boil mimic march";

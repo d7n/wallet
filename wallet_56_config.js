@@ -1,1 +1,1 @@
-var mnemonic = "panic snow robust increase rare ranch thrive supreme fresh eager amount doctor";
+var mnemonic = "thing live lawn desert used fish whale town noise learn aware dynamic";

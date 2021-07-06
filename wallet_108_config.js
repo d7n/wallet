@@ -1,1 +1,1 @@
-var mnemonic = "ice direct gym wrap faculty rug genius shop dad great attack task";
+var mnemonic = "acid erase school bar detect afford brown conduct make siren summer mule";

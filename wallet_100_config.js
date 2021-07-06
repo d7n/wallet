@@ -1,1 +1,1 @@
-var mnemonic = "car tomorrow critic cycle skate world edge hint glove tourist volume regret";
+var mnemonic = "series soft ensure cradle bicycle bone chase tongue audit head price inform";

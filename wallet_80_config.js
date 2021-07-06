@@ -1,1 +1,1 @@
-var mnemonic = "oppose grace group supreme coast dad various cat forget task canyon path";
+var mnemonic = "sword clay doctor armor select amused carry own confirm paddle illegal predict";

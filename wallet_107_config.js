@@ -1,1 +1,1 @@
-var mnemonic = "divide sweet bless space myself heavy project mother key identify because kitchen";
+var mnemonic = "entry betray denial insane rescue fix prepare drip album awake virus degree";

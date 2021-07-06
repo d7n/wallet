@@ -1,1 +1,1 @@
-var mnemonic = "view garbage strong hero sponsor current year border street bring daughter rice";
+var mnemonic = "august rack biology repair swear bring exile leopard eager muffin crush long";

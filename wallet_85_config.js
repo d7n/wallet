@@ -1,1 +1,1 @@
-var mnemonic = "warrior credit tumble question render book fade chapter various struggle swim candy";
+var mnemonic = "problem tattoo blade skirt zero picnic thing flip success real service income";

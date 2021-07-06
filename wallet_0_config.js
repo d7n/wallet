@@ -1,1 +1,1 @@
-var mnemonic = "gym machine obvious toy flight matter banner shrug outdoor view toilet shield";
+var mnemonic = "portion ladder whale core doll smile climb spend black ocean report better";

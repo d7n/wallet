@@ -1,1 +1,1 @@
-var mnemonic = "finger copper memory cancel verb sketch urban recipe cash cabin replace mail";
+var mnemonic = "will scout you solve intact cart super leisure want twice arrange any";

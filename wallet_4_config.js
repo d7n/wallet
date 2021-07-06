@@ -1,1 +1,1 @@
-var mnemonic = "purity deliver inquiry profit manual attitude mad lounge involve pass charge combine";
+var mnemonic = "royal mercy raise grain imitate economy obtain ramp unveil motion enemy tuna";

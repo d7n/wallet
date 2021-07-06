@@ -1,1 +1,1 @@
-var mnemonic = "dwarf shy person economy animal abstract often duty caught endless chest ignore";
+var mnemonic = "clay border lottery treat chair lottery cross brain whip know surround equal";

@@ -1,1 +1,1 @@
-var mnemonic = "very suit parrot broccoli autumn select pretty search secret oval goddess orange";
+var mnemonic = "crumble family opera boring position same cream intact dance glory spring thrive";

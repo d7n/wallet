@@ -1,1 +1,1 @@
-var mnemonic = "gadget satisfy grant wheat saddle dream tenant tomorrow dune beyond human abandon";
+var mnemonic = "slush young salute flip can dirt inject remember brain virtual protect repair";

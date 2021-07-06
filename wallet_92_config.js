@@ -1,1 +1,1 @@
-var mnemonic = "stem present sentence ship draft salute wear twin bone tenant exit feed";
+var mnemonic = "pizza local drop wise group surprise energy armed indoor glue lava wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead guess cup bachelor among car sunset lecture grit then board frown";
+var mnemonic = "hard drift spend multiply radar suggest slide vendor elegant skill water clean";

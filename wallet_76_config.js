@@ -1,1 +1,1 @@
-var mnemonic = "width version sight erode cup stuff trip save large fancy dinner hand";
+var mnemonic = "couch also perfect gloom race bus lemon village worry turkey habit goddess";

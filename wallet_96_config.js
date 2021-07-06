@@ -1,1 +1,1 @@
-var mnemonic = "ocean own waste scheme base try pitch wheat blame provide tennis laundry";
+var mnemonic = "theory buzz cycle ceiling surprise endorse used witness spare source tag exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "just south public exact enact pudding rug stadium core soul spare drum";
+var mnemonic = "good across original access bicycle foam group mad regret initial water erupt";

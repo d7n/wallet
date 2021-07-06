@@ -1,1 +1,1 @@
-var mnemonic = "feel side palace balcony steel supreme track owner extra rhythm screen empty";
+var mnemonic = "pair tackle gadget fee scout cruel liberty board wisdom cluster join jazz";

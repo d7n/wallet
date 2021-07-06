@@ -1,1 +1,1 @@
-var mnemonic = "december practice mandate globe angry mobile hope flush emerge glad space clerk";
+var mnemonic = "shy plunge regular flush toddler salmon deer lobster thing swallow scatter capable";

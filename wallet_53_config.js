@@ -1,1 +1,1 @@
-var mnemonic = "buzz spice cry banana width devote demand auction fresh unfair clown still";
+var mnemonic = "tourist side ripple solid sea quality hunt wish strong comic response cushion";

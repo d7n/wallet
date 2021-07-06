@@ -1,1 +1,1 @@
-var mnemonic = "blood neglect merry human slush ship begin hungry siren produce visit bonus";
+var mnemonic = "want thunder need size jeans story home pitch supply cover trap must";

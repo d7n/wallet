@@ -1,1 +1,1 @@
-var mnemonic = "eternal hair finish profit silly room inject food relief cliff follow execute";
+var mnemonic = "prosper review hurt exact file floor profit edge list confirm bachelor task";

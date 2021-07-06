@@ -1,1 +1,1 @@
-var mnemonic = "second master sock visa repair thrive patient split mother crash require tip";
+var mnemonic = "apart wash doll process weird dad hunt chunk leg supreme march ticket";

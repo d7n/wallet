@@ -1,1 +1,1 @@
-var mnemonic = "decline lend census current planet lend urban predict strategy sketch fence wheat";
+var mnemonic = "question advice dutch sponsor wasp dolphin stamp ready opinion motion mask word";

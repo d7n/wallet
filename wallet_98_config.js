@@ -1,1 +1,1 @@
-var mnemonic = "believe head pupil kiwi fitness invite ready predict almost screen naive huge";
+var mnemonic = "virus confirm save portion earth harvest clinic latin web pole table group";

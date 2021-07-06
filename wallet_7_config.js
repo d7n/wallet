@@ -1,1 +1,1 @@
-var mnemonic = "dinner weapon animal spider allow van group razor asset poverty skirt logic";
+var mnemonic = "guess various palace position awkward real grocery scout stay warm also excess";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal fold near gossip exhaust rule youth glow imitate rifle alarm fiction";
+var mnemonic = "amused license plug claim resist mobile slim call naive syrup doll choice";

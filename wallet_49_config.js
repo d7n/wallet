@@ -1,1 +1,1 @@
-var mnemonic = "grid cable valid bean humble sing post nest output card prevent drastic";
+var mnemonic = "orbit obey fresh utility urban clay country sense infant scout predict small";

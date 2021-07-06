@@ -1,1 +1,1 @@
-var mnemonic = "select process garage sorry trouble humor turtle gallery record wing like job";
+var mnemonic = "hand since patch hen shoulder alter task charge hill now pass goose";

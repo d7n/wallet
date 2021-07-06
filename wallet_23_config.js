@@ -1,1 +1,1 @@
-var mnemonic = "case cruise gun decrease noble bone human canal knock aspect erase core";
+var mnemonic = "rabbit connect boat satisfy giant penalty wave crumble orchard young bulk catch";

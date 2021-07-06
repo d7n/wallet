@@ -1,1 +1,1 @@
-var mnemonic = "genre cousin under keen copy spoon creek dawn inhale shove gossip hobby";
+var mnemonic = "sustain polar attend theory off faith human expand method armed like kiwi";

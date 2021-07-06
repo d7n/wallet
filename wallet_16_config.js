@@ -1,1 +1,1 @@
-var mnemonic = "allow neutral keep staff conduct liquid voyage indicate obscure mansion lazy naive";
+var mnemonic = "kingdom chat author prepare answer frost cage suffer mammal deliver tenant blush";

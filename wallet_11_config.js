@@ -1,1 +1,1 @@
-var mnemonic = "chest obey rigid eager suggest egg skirt december involve gloom federal present";
+var mnemonic = "trial narrow vocal pottery few swamp lesson job junk tongue hello private";

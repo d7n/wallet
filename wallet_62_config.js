@@ -1,1 +1,1 @@
-var mnemonic = "wasp promote derive unlock grant vivid whip trouble name pause turkey soft";
+var mnemonic = "nest apology emerge regret decade safe fiscal resemble permit judge arrest alter";

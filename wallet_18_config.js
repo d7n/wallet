@@ -1,1 +1,1 @@
-var mnemonic = "silk casino section travel exact menu grid violin announce vague pipe female";
+var mnemonic = "front jeans festival jazz dog purity sea essence valve fetch toss viable";

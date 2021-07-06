@@ -1,1 +1,1 @@
-var mnemonic = "distance receive hub length enter top boss bring casual tobacco vital noise";
+var mnemonic = "same glow eye medal fossil enlist subway security wide gather park twelve";

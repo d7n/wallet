@@ -1,1 +1,1 @@
-var mnemonic = "doctor option aisle scatter panther quarter cloth access mistake hawk screen real";
+var mnemonic = "organ run sight aerobic piece tell license muscle warfare mistake alter liberty";

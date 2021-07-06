@@ -1,1 +1,1 @@
-var mnemonic = "middle shiver shoot spy food stick uncle seed guilt post card outdoor";
+var mnemonic = "quarter pilot vessel sun foot health tired cancel primary kingdom focus chuckle";

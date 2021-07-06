@@ -1,1 +1,1 @@
-var mnemonic = "myself relax cable tennis surge clay report swim under wealth submit stairs";
+var mnemonic = "blanket inside current carpet treat sing mutual repair umbrella display dress steak";

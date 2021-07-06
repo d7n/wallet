@@ -1,1 +1,1 @@
-var mnemonic = "possible second repair grow super aspect impose cave upset rebel rocket autumn";
+var mnemonic = "buyer physical fringe there marble bone learn spin consider total cup solar";

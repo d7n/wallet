@@ -1,1 +1,1 @@
-var mnemonic = "donate stem crawl zoo boat soap flame globe permit submit talent guard";
+var mnemonic = "scene art bamboo alcohol nephew camera squirrel hurry indicate ozone pen plug";

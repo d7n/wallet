@@ -1,1 +1,1 @@
-var mnemonic = "purpose aim seminar assume ladder illegal pudding double helmet satisfy wink unusual";
+var mnemonic = "thumb season champion sphere else prepare candy close cinnamon option purse pulse";

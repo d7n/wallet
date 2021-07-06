@@ -1,1 +1,1 @@
-var mnemonic = "endorse usual imitate grow noodle novel garment again surprise speak civil lake";
+var mnemonic = "cream sight inhale surprise doctor motor spoil auto forget release jeans deny";

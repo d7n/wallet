@@ -1,1 +1,1 @@
-var mnemonic = "slender invite unveil ticket guide typical visit bonus click rural usual arctic";
+var mnemonic = "manual obvious pair regret choose annual deny pattern gospel number adjust sniff";

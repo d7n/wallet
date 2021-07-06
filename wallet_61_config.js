@@ -1,1 +1,1 @@
-var mnemonic = "scrap rib universe other true hawk absurd cattle boat example hawk artwork";
+var mnemonic = "canal chunk diamond chair roast dice defense embark claim around bid wine";

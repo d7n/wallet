@@ -1,1 +1,1 @@
-var mnemonic = "upset market unique myself exchange space apple noise digital skull purchase device";
+var mnemonic = "belt inform onion mobile people meat ring neck uncle toward shield charge";

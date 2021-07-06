@@ -1,1 +1,1 @@
-var mnemonic = "electric dune point animal practice choose poet pole enhance subway process wrap";
+var mnemonic = "course cloth effort juice now veteran whisper razor volcano story chef flee";

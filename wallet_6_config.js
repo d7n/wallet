@@ -1,1 +1,1 @@
-var mnemonic = "ketchup web jelly price notable recall reveal manual version employ click wink";
+var mnemonic = "kid ginger scheme average olympic artefact siege source blur popular arch unique";

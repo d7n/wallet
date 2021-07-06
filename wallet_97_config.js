@@ -1,1 +1,1 @@
-var mnemonic = "lift depend two menu dragon vacuum pledge mango attack only globe into";
+var mnemonic = "system bid water bean admit torch spring course world join bottom legal";

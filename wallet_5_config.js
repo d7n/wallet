@@ -1,1 +1,1 @@
-var mnemonic = "parade youth globe struggle sign else clever pizza simple debris awful absent";
+var mnemonic = "multiply weekend giant poem husband random panda rhythm bulb segment habit library";

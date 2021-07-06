@@ -1,1 +1,1 @@
-var mnemonic = "odor layer useful lift pole emerge satisfy plastic gentle eagle holiday ball";
+var mnemonic = "alarm south fresh train together decrease paddle holiday rude tower own allow";

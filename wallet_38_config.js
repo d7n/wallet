@@ -1,1 +1,1 @@
-var mnemonic = "crop steak dance lamp call hen donate water caught indoor lend unknown";
+var mnemonic = "genuine borrow visit gold project combine arm sure blouse dash bundle jeans";

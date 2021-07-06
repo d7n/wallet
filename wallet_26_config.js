@@ -1,1 +1,1 @@
-var mnemonic = "latin cage news skate use pipe appear satoshi slogan lazy opera until";
+var mnemonic = "share ostrich prize scatter assume item hedgehog earth gallery frown rhythm creek";

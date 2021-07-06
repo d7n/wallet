@@ -1,1 +1,1 @@
-var mnemonic = "forest purchase zebra also symptom travel popular secret debate muscle ability bamboo";
+var mnemonic = "food top occur neck slight play barely neither ten cradle volume hand";

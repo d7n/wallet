@@ -1,1 +1,1 @@
-var mnemonic = "pipe bike casino rib pass task photo world demand tortoise impact ridge";
+var mnemonic = "apology duty used blade tumble produce gravity genre action fringe ankle auction";

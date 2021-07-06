@@ -1,1 +1,1 @@
-var mnemonic = "elite tank trim glance stairs impact disagree skin crime coil thunder glance";
+var mnemonic = "smile rally garbage era leopard trap spoil city harvest add barrel lottery";

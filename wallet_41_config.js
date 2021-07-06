@@ -1,1 +1,1 @@
-var mnemonic = "enrich liar wall visual load erase indoor uncle action verb faculty genre";
+var mnemonic = "misery current dragon tourist option slush want wonder grunt happy major warm";

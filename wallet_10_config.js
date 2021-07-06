@@ -1,1 +1,1 @@
-var mnemonic = "clump love blossom damage tragic silent invest forget collect fiscal void bid";
+var mnemonic = "slender praise swarm myth sense hill dog lock ocean alone expand moral";

@@ -1,1 +1,1 @@
-var mnemonic = "toy antenna absent vacuum feel never cargo scrub shine observe hen poet";
+var mnemonic = "piano tragic combine lonely advance kick route mystery naive muffin total myself";

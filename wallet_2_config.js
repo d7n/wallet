@@ -1,1 +1,1 @@
-var mnemonic = "vibrant arrow spin sell knife faith robot burst pilot funny priority brief";
+var mnemonic = "popular find armed force call scout rapid cover unhappy skin drop bag";

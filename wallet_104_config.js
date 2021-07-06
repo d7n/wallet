@@ -1,1 +1,1 @@
-var mnemonic = "skirt diet involve shed anxiety silver cheese diesel tail scatter survey crazy";
+var mnemonic = "cheap sad empower note copper client weapon boil cream mechanic setup muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "grace bid debris joke tray silent neither basic boy armor jelly fiction";
+var mnemonic = "total spoil people hobby mystery notice narrow angle sniff toy strong steel";

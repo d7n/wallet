@@ -1,1 +1,1 @@
-var mnemonic = "uncover floor alcohol state welcome repeat warm pistol minor accident help dignity";
+var mnemonic = "faculty daughter wine rigid buyer chest tide acid tiger exit place vanish";

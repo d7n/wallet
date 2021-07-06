@@ -1,1 +1,1 @@
-var mnemonic = "enter fantasy plunge intact control tag order scatter sleep mountain knee unknown";
+var mnemonic = "boost detect when two alert census fault fat rural west giant grab";

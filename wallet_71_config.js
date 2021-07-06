@@ -1,1 +1,1 @@
-var mnemonic = "humble blue garage bless bacon problem basic flavor tonight rack employ category";
+var mnemonic = "tray abandon side valley control say loan unique van distance credit deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "permit loop own clutch agent betray drink pilot blood retreat cheese ancient";
+var mnemonic = "dinosaur grace answer wall arrow ramp moral capital gather autumn access bronze";

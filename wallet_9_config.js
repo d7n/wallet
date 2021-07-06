@@ -1,1 +1,1 @@
-var mnemonic = "check blue jar fantasy health spin acoustic clump jazz collect vital school";
+var mnemonic = "inflict camera argue invite able fun above two enter modify asset rival";

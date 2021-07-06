@@ -1,1 +1,1 @@
-var mnemonic = "custom roast boss best enact juice tumble list proud axis solar civil";
+var mnemonic = "cousin soon million measure casino luxury choose sell bird cabbage arm cross";

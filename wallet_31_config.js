@@ -1,1 +1,1 @@
-var mnemonic = "jacket lucky chunk chunk donkey dutch audit social keen fee hockey fever";
+var mnemonic = "pluck poet fringe color depend ranch style wheel baby cry tongue season";

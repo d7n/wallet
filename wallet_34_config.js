@@ -1,1 +1,1 @@
-var mnemonic = "agent jealous priority purity sight exhibit rebuild verify off answer army foil";
+var mnemonic = "flavor donate know hover unusual work cream master add cactus useful pill";
