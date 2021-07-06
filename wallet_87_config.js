@@ -1,1 +1,1 @@
-var mnemonic = "blanket world rough school diary trash witness exhaust provide trend master direct";
+var mnemonic = "collect spot balance mean glory wealth love whip trap refuse lobster window";

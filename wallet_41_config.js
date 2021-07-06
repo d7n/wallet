@@ -1,1 +1,1 @@
-var mnemonic = "pave valid anger suggest mention renew crisp robust small future split change";
+var mnemonic = "depart salt length primary misery obvious loud video stock embody wreck tell";

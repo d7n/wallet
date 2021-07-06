@@ -1,1 +1,1 @@
-var mnemonic = "walnut gossip behave weather garlic decade bounce dizzy prize move surround until";
+var mnemonic = "combine response buyer tired stage wealth clown match just uniform broccoli salute";

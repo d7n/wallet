@@ -1,1 +1,1 @@
-var mnemonic = "culture inflict evolve tool fantasy bulb typical defense antique decade deliver distance";
+var mnemonic = "oak rail joke afraid trial unable cube boss good soup control raw";

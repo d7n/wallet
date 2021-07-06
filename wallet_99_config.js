@@ -1,1 +1,1 @@
-var mnemonic = "roof warrior busy drill law can crime girl autumn pink dumb bar";
+var mnemonic = "half during spirit quit basket fault globe fabric whale orphan lady nephew";

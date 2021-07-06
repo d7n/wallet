@@ -1,1 +1,1 @@
-var mnemonic = "price announce object fun unique extend gaze among quiz found turn viable";
+var mnemonic = "salad vital example casual tiger when muffin undo barrel scheme boy flag";

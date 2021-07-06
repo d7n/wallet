@@ -1,1 +1,1 @@
-var mnemonic = "better curious element scrub name practice myself shift glue mystery actress cattle";
+var mnemonic = "actress fame impact desk segment first sea kit fog until stamp wonder";

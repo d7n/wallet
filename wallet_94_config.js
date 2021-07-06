@@ -1,1 +1,1 @@
-var mnemonic = "another include bacon illegal seed sail lift miracle depth peasant crisp fragile";
+var mnemonic = "butter usage gown smoke midnight gravity smart subject naive settle almost pudding";

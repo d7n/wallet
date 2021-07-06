@@ -1,1 +1,1 @@
-var mnemonic = "trigger joy half latin sister nuclear wealth fever record narrow lava amount";
+var mnemonic = "oven carbon girl half machine process talk segment face life frame airport";

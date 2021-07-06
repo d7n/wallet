@@ -1,1 +1,1 @@
-var mnemonic = "noodle security suspect essence chase beef sudden box key enter mouse situate";
+var mnemonic = "cushion gain emotion picture wolf gate upset iron prefer face neutral miss";

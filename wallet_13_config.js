@@ -1,1 +1,1 @@
-var mnemonic = "bundle belt turkey manage tank skirt crew left brown stem veteran eight";
+var mnemonic = "treat pepper valid weasel scrap dawn outside area avoid flee build enforce";

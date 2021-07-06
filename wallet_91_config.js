@@ -1,1 +1,1 @@
-var mnemonic = "notable earn police keep find slab gold dilemma argue swift tool gown";
+var mnemonic = "muffin rabbit catalog sleep olympic type holiday federal human turtle liar detail";

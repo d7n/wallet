@@ -1,1 +1,1 @@
-var mnemonic = "clog venture victory attract universe lobster door correct make force parent million";
+var mnemonic = "funny bracket observe loan solid push patient subject moon chronic beyond body";

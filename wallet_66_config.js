@@ -1,1 +1,1 @@
-var mnemonic = "era exhibit pottery abstract swallow uphold ball antenna tuition adjust believe base";
+var mnemonic = "gain elegant cricket champion exhibit decide rescue tonight dignity refuse sure dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp female purse immense obey recycle auto coral basic artefact order auto";
+var mnemonic = "toward hazard pumpkin bag mutual crumble admit unusual head insect help drink";

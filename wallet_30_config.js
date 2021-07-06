@@ -1,1 +1,1 @@
-var mnemonic = "miracle alley guess human fiction glove return valid annual enter critic destroy";
+var mnemonic = "slot when shop moon spray extend gesture economy three soap choice replace";

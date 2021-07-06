@@ -1,1 +1,1 @@
-var mnemonic = "connect swift link zone surprise local absorb reject oven legend resist dentist";
+var mnemonic = "east mention problem gain habit slam organ illegal more actual heavy ecology";

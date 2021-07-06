@@ -1,1 +1,1 @@
-var mnemonic = "scale record become border delay kangaroo ancient tube ring trophy cushion unhappy";
+var mnemonic = "early harsh maze garlic road omit fiction ugly panic couch harvest mammal";

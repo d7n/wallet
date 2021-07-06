@@ -1,1 +1,1 @@
-var mnemonic = "obey finger permit brain pottery risk educate viable office cover document extra";
+var mnemonic = "mother table creek unhappy infant mango motion insect control wrestle divorce rude";

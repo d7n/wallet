@@ -1,1 +1,1 @@
-var mnemonic = "dust tape kid grow above office imitate ready wealth clarify grain relief";
+var mnemonic = "art clog resemble mango swap speed wire clean extra hope genius render";

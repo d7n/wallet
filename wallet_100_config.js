@@ -1,1 +1,1 @@
-var mnemonic = "eagle decline bring cabbage tenant speak girl element cloud crush noble scorpion";
+var mnemonic = "kick place horse acquire dolphin erase hope spoil bless program hurt remember";

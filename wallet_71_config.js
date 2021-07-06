@@ -1,1 +1,1 @@
-var mnemonic = "love admit photo culture base rich mouse open purity trash present else";
+var mnemonic = "hope garlic sleep real physical visit waste away special leader gain creek";

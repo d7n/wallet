@@ -1,1 +1,1 @@
-var mnemonic = "person lock prize burger baby heavy what rhythm distance throw width badge";
+var mnemonic = "shell arrow oblige leopard target identify baby absurd inform endorse slot chuckle";

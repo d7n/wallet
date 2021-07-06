@@ -1,1 +1,1 @@
-var mnemonic = "umbrella skirt excess bomb concert suggest economy edge online elephant now harbor";
+var mnemonic = "local song royal drastic student ordinary acquire craft alley win size peasant";

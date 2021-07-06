@@ -1,1 +1,1 @@
-var mnemonic = "people extra extra thrive always junior try dog talk garlic basket mimic";
+var mnemonic = "conduct lobster exhibit resist height paddle struggle want connect pull aspect guess";

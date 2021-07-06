@@ -1,1 +1,1 @@
-var mnemonic = "roast tennis creek elevator cricket reunion sand blouse first glad dismiss fat";
+var mnemonic = "ridge kitten swarm burden junk save camp antenna brand slow gallery concert";

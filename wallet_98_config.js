@@ -1,1 +1,1 @@
-var mnemonic = "remind pond bind useful olympic dose winter pepper grain gallery turkey race";
+var mnemonic = "danger they film minor direct draw exhaust goddess decorate opinion turtle legend";

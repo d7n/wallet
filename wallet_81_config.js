@@ -1,1 +1,1 @@
-var mnemonic = "style about work plate very need drum lab nature burger flash fold";
+var mnemonic = "swamp animal delay mother wild mimic aisle dad spike vicious divorce merit";

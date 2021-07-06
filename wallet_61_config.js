@@ -1,1 +1,1 @@
-var mnemonic = "envelope outside crazy rebel claim radio since gym nest great light possible";
+var mnemonic = "target pyramid dust glue item great version duty hamster shrug later lend";

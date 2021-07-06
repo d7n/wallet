@@ -1,1 +1,1 @@
-var mnemonic = "inject ability truth adapt pottery way sand indicate crunch eagle there better";
+var mnemonic = "sweet cactus alcohol cost idea orange walk limit notable undo physical asthma";

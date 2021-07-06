@@ -1,1 +1,1 @@
-var mnemonic = "book tunnel card barely olympic equip library true tissue vehicle entry report";
+var mnemonic = "rug urge ceiling sausage reopen spend frozen iron recipe vapor lobster art";

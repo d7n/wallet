@@ -1,1 +1,1 @@
-var mnemonic = "inside million common turkey enable client round adjust render ten embrace skin";
+var mnemonic = "avocado pulse arrest sketch model execute still eager tunnel now arm sheriff";

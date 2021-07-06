@@ -1,1 +1,1 @@
-var mnemonic = "like music puppy renew legal boost lumber noodle misery rookie chest blame";
+var mnemonic = "gun father soon split decide flee wheel duty fury color hello mutual";

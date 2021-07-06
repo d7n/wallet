@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cable lumber urge evil become prison labor okay crazy about panda";
+var mnemonic = "upset such master tribe embrace april host evolve brave meat favorite feature";

@@ -1,1 +1,1 @@
-var mnemonic = "caution device draft gift scout coin multiply stage true public head crater";
+var mnemonic = "atom laptop bomb fine rocket poet cupboard manual valid tortoise run source";

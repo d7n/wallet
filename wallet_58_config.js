@@ -1,1 +1,1 @@
-var mnemonic = "elevator history walk disorder between scale sad family helmet print mind hazard";
+var mnemonic = "view today vacuum green lawn cage eternal fine pumpkin unfair audit expire";

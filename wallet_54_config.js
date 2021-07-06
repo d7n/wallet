@@ -1,1 +1,1 @@
-var mnemonic = "index legend marine fame sample shoe moral boring assist piece kiss mad";
+var mnemonic = "toy island evil act raccoon shop cereal scare super junior collect feature";

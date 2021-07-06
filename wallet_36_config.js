@@ -1,1 +1,1 @@
-var mnemonic = "barely lazy inherit knock debate mule praise champion common alcohol sunset august";
+var mnemonic = "island stem home small connect version junk seven lunar dwarf input rally";

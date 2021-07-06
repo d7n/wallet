@@ -1,1 +1,1 @@
-var mnemonic = "light deer float boost morning gravity team charge venture absent trim long";
+var mnemonic = "mushroom brave hand trend piano begin fabric beef plastic sword venue dove";

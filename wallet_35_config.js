@@ -1,1 +1,1 @@
-var mnemonic = "drum family eyebrow soon size viable bright skin boil fiber gauge solution";
+var mnemonic = "mercy service multiply swallow attitude oxygen dose pause account meat rotate hold";

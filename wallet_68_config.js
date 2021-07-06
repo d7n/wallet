@@ -1,1 +1,1 @@
-var mnemonic = "tortoise emerge practice hen embark arctic assume maid medal impulse van wood";
+var mnemonic = "mean lesson silver seed rescue tape outdoor proud firm alien square tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle sun type screen electric subject turtle poem memory tip note satoshi";
+var mnemonic = "creek play action potato lend bunker win suit rabbit word chief special";

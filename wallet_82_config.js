@@ -1,1 +1,1 @@
-var mnemonic = "twin comic aisle horror stove novel reflect pizza battle actual acid youth";
+var mnemonic = "tent soda upset novel stamp piano spatial arch cart card swamp property";

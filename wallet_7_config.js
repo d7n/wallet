@@ -1,1 +1,1 @@
-var mnemonic = "civil cloth depth section name possible truth chunk cost charge talent nice";
+var mnemonic = "strike elbow turtle pitch pelican police neglect climb lemon park day sun";

@@ -1,1 +1,1 @@
-var mnemonic = "occur fashion then peasant face original permit piece guard talent gloom order";
+var mnemonic = "truck stone kangaroo blind seat seminar quality funny thrive track tide release";

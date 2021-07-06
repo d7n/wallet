@@ -1,1 +1,1 @@
-var mnemonic = "guess woman index arch bronze zoo impose rude dignity tenant trial patient";
+var mnemonic = "century trick flame shadow gorilla wing climb reform lava ghost bottom sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "fog gossip carry minute aisle just tail learn eight afford misery smoke";
+var mnemonic = "size model sample emerge slab process process accuse wild remove million limit";

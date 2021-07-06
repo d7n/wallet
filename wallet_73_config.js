@@ -1,1 +1,1 @@
-var mnemonic = "gym cry valley token math ride wreck object rescue smooth scare axis";
+var mnemonic = "friend fade drama gym diesel nephew unit broken like dream firm year";

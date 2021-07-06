@@ -1,1 +1,1 @@
-var mnemonic = "salon march dolphin elegant tobacco security nominee outdoor palace thought abandon keen";
+var mnemonic = "topple diamond tone chair ticket taste involve sunset defense control ready license";

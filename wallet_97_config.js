@@ -1,1 +1,1 @@
-var mnemonic = "faith chest someone race ball peace snow already debate gift scene blood";
+var mnemonic = "clown explain smoke crowd poet tail pulp input evolve base bone rare";

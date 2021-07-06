@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo toilet cabbage august struggle shove toy pepper major neglect congress rose";
+var mnemonic = "cost repair draft orchard series cream unknown speed flight decrease firm next";

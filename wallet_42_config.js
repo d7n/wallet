@@ -1,1 +1,1 @@
-var mnemonic = "sauce discover smart asthma butter taxi sample insane wolf kite axis dumb";
+var mnemonic = "address inject minute fame element reward ripple firm creek profit baby flower";

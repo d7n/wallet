@@ -1,1 +1,1 @@
-var mnemonic = "faculty increase brisk desert witness six correct dismiss level dial same tide";
+var mnemonic = "strategy slush predict wool wise injury opinion grief clump giraffe bread surround";

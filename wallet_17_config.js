@@ -1,1 +1,1 @@
-var mnemonic = "escape basket team simple imitate palace gold educate symptom pilot maid elite";
+var mnemonic = "process document junk before animal ribbon shove primary manual engage post little";

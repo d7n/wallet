@@ -1,1 +1,1 @@
-var mnemonic = "language south broken solar boy essence broom garment round garlic food order";
+var mnemonic = "chase scatter outdoor that still more credit forest cargo joke panic divide";

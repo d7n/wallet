@@ -1,1 +1,1 @@
-var mnemonic = "allow gas treat dog company force bracket comic year detail ripple music";
+var mnemonic = "cook early local hair faith bargain truth split exact hire bone asset";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar captain already cigar illegal slab jaguar van volcano social black fish";
+var mnemonic = "comic venture pen useful sad light hollow bird junior end card flower";

@@ -1,1 +1,1 @@
-var mnemonic = "wise letter waste pepper rigid general neglect trumpet toe toy spatial holiday";
+var mnemonic = "music genuine engage believe arm witness chest gossip amused glue caught poverty";

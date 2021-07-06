@@ -1,1 +1,1 @@
-var mnemonic = "van trust strong conduct swallow cook arrow village aware pulse kitchen wise";
+var mnemonic = "degree innocent smooth divide scan clerk demand weekend siren learn surround choose";

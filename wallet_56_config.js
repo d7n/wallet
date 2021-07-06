@@ -1,1 +1,1 @@
-var mnemonic = "number spice off delay primary violin cry job define barely wild rose";
+var mnemonic = "course lamp fan mistake embrace penalty east proud hollow hedgehog clay side";

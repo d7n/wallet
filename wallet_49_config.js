@@ -1,1 +1,1 @@
-var mnemonic = "miss balcony lumber coral accident token unusual wink reflect maple soap pull";
+var mnemonic = "aim heart author december park question rule grant wall flat ugly gown";

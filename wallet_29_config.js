@@ -1,1 +1,1 @@
-var mnemonic = "fetch average return random family toss peace rocket dawn dawn rally arctic";
+var mnemonic = "general march comfort gun crumble muscle aerobic celery spike obtain soul rotate";

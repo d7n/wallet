@@ -1,1 +1,1 @@
-var mnemonic = "combine punch hungry tent quality trend sock near elegant stone foot blade";
+var mnemonic = "tail media palace deposit usage sponsor safe level guitar ranch dish train";

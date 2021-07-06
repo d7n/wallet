@@ -1,1 +1,1 @@
-var mnemonic = "annual once swallow just fresh today drift fade endless easily upper elder";
+var mnemonic = "price damp quality winter moon wrist swamp claw brick celery old hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "ship surge mesh spoon spike marble orient mom tip tenant human ship";
+var mnemonic = "burden talent snake juice boil stomach combine noise cupboard good test raccoon";

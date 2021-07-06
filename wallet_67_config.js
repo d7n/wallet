@@ -1,1 +1,1 @@
-var mnemonic = "retire curious demand early private blossom organ gorilla blast undo undo apology";
+var mnemonic = "panic hotel welcome artefact wing canal model camera impulse east hub cube";

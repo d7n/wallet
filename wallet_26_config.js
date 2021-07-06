@@ -1,1 +1,1 @@
-var mnemonic = "spawn entry remain poet riot acoustic cloud token spike citizen wealth cheese";
+var mnemonic = "cram pride divorce skirt venue sock proud cactus green must basic ability";

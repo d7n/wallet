@@ -1,1 +1,1 @@
-var mnemonic = "arrange orphan patch chapter stomach garment deal host immense angle list disagree";
+var mnemonic = "busy dream mistake wedding choice wasp lumber job fall green cost surround";

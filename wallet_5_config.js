@@ -1,1 +1,1 @@
-var mnemonic = "rhythm valid curtain wine human eternal tiny monitor wood butter broom hover";
+var mnemonic = "decrease seven candy cruel effort feed garden unknown provide decline boring essay";

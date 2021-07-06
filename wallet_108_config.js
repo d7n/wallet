@@ -1,1 +1,1 @@
-var mnemonic = "recycle unaware twelve accuse always fantasy depend leisure laptop scissors doll skull";
+var mnemonic = "attract silent mansion donate master cupboard talk cave gap mind leave city";

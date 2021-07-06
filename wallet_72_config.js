@@ -1,1 +1,1 @@
-var mnemonic = "choice lazy disagree later unfair brisk fatal dirt pumpkin member excite wink";
+var mnemonic = "utility addict brave canvas leopard state laugh harsh person discover artefact essay";

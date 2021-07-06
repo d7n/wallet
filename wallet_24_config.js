@@ -1,1 +1,1 @@
-var mnemonic = "pony amazing enforce dune float reunion shoulder awake fresh cliff raccoon street";
+var mnemonic = "spike act hundred hire rocket menu fuel plate summer scatter brave hospital";

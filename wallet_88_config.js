@@ -1,1 +1,1 @@
-var mnemonic = "ghost timber switch mail average truth arrow arena fish become thing mention";
+var mnemonic = "rebuild doctor army nerve marble apple wrong push strategy bulb hill stone";

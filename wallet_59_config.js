@@ -1,1 +1,1 @@
-var mnemonic = "little target ordinary limb exist final amused combine segment embody sunset roast";
+var mnemonic = "lend note female suffer state sponsor path pride august subway decrease earth";

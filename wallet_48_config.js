@@ -1,1 +1,1 @@
-var mnemonic = "high knife gallery vault pact leaf stove unaware enable ocean inject gather";
+var mnemonic = "wise custom fog parent web trash slight apart senior athlete tape wrist";

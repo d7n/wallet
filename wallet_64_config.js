@@ -1,1 +1,1 @@
-var mnemonic = "excite flip milk glance wet box access act lyrics man measure ethics";
+var mnemonic = "depth jeans toe rug quit list holiday syrup unveil diagram hand leaf";

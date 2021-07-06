@@ -1,1 +1,1 @@
-var mnemonic = "answer ignore boil firm mirror squirrel bench canoe medal purity flock furnace";
+var mnemonic = "thrive height impulse fish title unfold husband abandon antenna guide mercy coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "piano beach lamp heart photo demise mouse owner misery coconut summer smooth";
+var mnemonic = "gesture truth strong tiny latin monster print fringe sweet soup derive ticket";

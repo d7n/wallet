@@ -1,1 +1,1 @@
-var mnemonic = "repair bid rigid motion train caution gossip hockey eagle garden level eagle";
+var mnemonic = "energy chief build ridge silly basic spirit section enable shell predict speed";

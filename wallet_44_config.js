@@ -1,1 +1,1 @@
-var mnemonic = "need ask congress want toilet butter census impact cheap fiber setup silly";
+var mnemonic = "exact impulse exit stadium cancel live equal lend fix adapt fault almost";

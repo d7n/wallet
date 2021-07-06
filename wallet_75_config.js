@@ -1,1 +1,1 @@
-var mnemonic = "little trumpet traffic music ribbon alone urge brown poem dolphin law nice";
+var mnemonic = "north calm help midnight sunset slot pave borrow menu basket image whale";

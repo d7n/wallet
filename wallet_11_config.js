@@ -1,1 +1,1 @@
-var mnemonic = "potato rival bunker beef vanish unusual plunge peanut true ocean dutch gravity";
+var mnemonic = "garage gravity phrase agent normal champion cage salt worry belt pitch talk";

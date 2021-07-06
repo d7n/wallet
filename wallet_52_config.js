@@ -1,1 +1,1 @@
-var mnemonic = "message law brief door peasant scrub gain federal nurse deer kiwi badge";
+var mnemonic = "jar spot joke second local capital treat donor oppose supreme robot enough";

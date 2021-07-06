@@ -1,1 +1,1 @@
-var mnemonic = "flower plug view vault easy collect hammer cupboard engine galaxy protect wealth";
+var mnemonic = "narrow sibling quick fatal shop denial betray spy battle disagree mutual nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "paper noise any save hope scrap boss certain slender garden pattern unusual";
+var mnemonic = "light desert other supreme night urban cheese chuckle pioneer danger broccoli stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "nest boss sad cost material fury utility you inquiry salmon athlete match";
+var mnemonic = "beyond recycle memory crucial forget refuse want mansion promote accident move ordinary";
