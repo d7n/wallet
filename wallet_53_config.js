@@ -1,1 +1,1 @@
-var mnemonic = "member mesh riot already material truck gift canvas filter era climb unit";
+var mnemonic = "volume exercise retreat sight wet flight image aware illness accuse good giggle";

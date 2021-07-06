@@ -1,1 +1,1 @@
-var mnemonic = "impact tomorrow oyster pencil click judge foot will fiber hedgehog purse base";
+var mnemonic = "shrug brick neglect bubble access give federal saddle tunnel knock orange balcony";

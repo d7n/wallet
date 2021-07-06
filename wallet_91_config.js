@@ -1,1 +1,1 @@
-var mnemonic = "police energy panther under kiss sponsor away property cargo ordinary seat only";
+var mnemonic = "segment split ill humor one welcome bleak walk kitten seek crash party";

@@ -1,1 +1,1 @@
-var mnemonic = "right topic beyond odor power subway tumble film situate quantum erupt provide";
+var mnemonic = "near tower family thrive attack bubble tail kingdom orient toe wisdom cave";

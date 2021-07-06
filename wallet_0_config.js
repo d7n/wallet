@@ -1,1 +1,1 @@
-var mnemonic = "open extend cry sugar bicycle sock second gesture shield latin sheriff circle";
+var mnemonic = "hood brick alcohol vivid another symptom innocent army practice tomorrow sad lamp";

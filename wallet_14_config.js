@@ -1,1 +1,1 @@
-var mnemonic = "bullet pattern cousin address frozen display sibling surge device witness leave file";
+var mnemonic = "balance upset snap betray source eternal cancel custom couch place over observe";

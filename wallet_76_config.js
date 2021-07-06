@@ -1,1 +1,1 @@
-var mnemonic = "annual suit pumpkin diary spare child exist fence can liberty monster magnet";
+var mnemonic = "chair runway jelly barely rifle effort general gallery mystery stove practice lawsuit";

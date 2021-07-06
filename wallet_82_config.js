@@ -1,1 +1,1 @@
-var mnemonic = "ready water space stumble equal steak zebra hurdle nice two hint scissors";
+var mnemonic = "brisk taxi nation either crunch bullet metal barrel protect obvious cream decline";

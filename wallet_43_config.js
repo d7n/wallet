@@ -1,1 +1,1 @@
-var mnemonic = "book photo stove captain spot wish yellow lazy snack begin bench crawl";
+var mnemonic = "human tell drop float pen rotate garbage erosion smoke nature wisdom approve";

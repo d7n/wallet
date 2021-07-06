@@ -1,1 +1,1 @@
-var mnemonic = "science evidence delay excite crunch tent magnet fatigue rural wait avoid roast";
+var mnemonic = "finger razor wild coil negative turn since garden parent sight purpose mango";

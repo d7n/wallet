@@ -1,1 +1,1 @@
-var mnemonic = "slight lawn chef unique raw more buyer lamp input tool sick story";
+var mnemonic = "monitor ice prize thunder state member claw expect awkward payment lab penalty";

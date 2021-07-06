@@ -1,1 +1,1 @@
-var mnemonic = "echo protect slow theory refuse recipe feed edit modify swallow solution another";
+var mnemonic = "song angle source stock consider stage food must immune sting intact cause";

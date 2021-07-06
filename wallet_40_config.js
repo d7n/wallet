@@ -1,1 +1,1 @@
-var mnemonic = "unique sure keep develop misery erode boil front title soap feed rail";
+var mnemonic = "leaf metal cattle test detail exhaust tattoo velvet deliver equip net grocery";

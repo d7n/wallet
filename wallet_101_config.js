@@ -1,1 +1,1 @@
-var mnemonic = "net medal inmate build jelly ball radio faith disease wide talk consider";
+var mnemonic = "print trick stock bitter better sauce people protect aunt miracle circle uncover";

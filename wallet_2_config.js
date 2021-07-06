@@ -1,1 +1,1 @@
-var mnemonic = "truly invite derive junk blame hurt junior huge craft fruit flight unusual";
+var mnemonic = "key bachelor fuel brick top symptom romance tiger owner easily air vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "announce arrive announce churn trigger elevator useless portion tackle kitten panel universe";
+var mnemonic = "end glove nest finish wheat spike plate grid rotate sibling income use";

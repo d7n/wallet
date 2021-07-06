@@ -1,1 +1,1 @@
-var mnemonic = "ridge demise cage adjust hero anger leg cushion eager exhaust uncle scare";
+var mnemonic = "bone trophy yard vicious purity payment name cactus popular cycle chapter rich";

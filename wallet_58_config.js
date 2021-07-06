@@ -1,1 +1,1 @@
-var mnemonic = "ugly faint dry stairs teach rule globe gravity rich glue news velvet";
+var mnemonic = "abstract december lava success radio office toy engine cannon impose enable poet";

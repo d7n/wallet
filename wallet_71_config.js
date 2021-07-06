@@ -1,1 +1,1 @@
-var mnemonic = "quit tomorrow subject group yellow opera tenant scare unfair alone odor dragon";
+var mnemonic = "actress manual shove quote cabin merry injury joke such bullet insane tree";

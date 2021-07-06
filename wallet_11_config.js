@@ -1,1 +1,1 @@
-var mnemonic = "tongue bean orange rare infant output domain magnet retire actress witness layer";
+var mnemonic = "warrior faith tiger lawsuit nation copy jar orange scorpion table three fee";

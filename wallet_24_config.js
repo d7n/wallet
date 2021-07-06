@@ -1,1 +1,1 @@
-var mnemonic = "cycle enroll miracle before despair arrow solve sauce aisle civil mushroom elbow";
+var mnemonic = "away avocado bottom hen divert ecology print similar boy deposit knock surge";

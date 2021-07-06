@@ -1,1 +1,1 @@
-var mnemonic = "lab grace attack midnight lizard lesson sibling carry unique robust drastic goddess";
+var mnemonic = "finger child crush actress left glad auction unaware quiz direct path peace";

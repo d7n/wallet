@@ -1,1 +1,1 @@
-var mnemonic = "business victory juice liquid vessel salmon sell taxi entry broken hybrid inner";
+var mnemonic = "fatigue blast enter true acquire rebuild bless orchard choose verb trim obtain";

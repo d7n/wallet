@@ -1,1 +1,1 @@
-var mnemonic = "exact merit cactus supply margin special mind budget close wife fitness impact";
+var mnemonic = "game pink divert since people gap check glare hint grab mushroom aware";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile hurdle question perfect kite lake type gym oven swim tortoise chaos";
+var mnemonic = "option blast start essay reason chalk ball inquiry boat erode style prison";

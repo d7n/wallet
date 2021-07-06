@@ -1,1 +1,1 @@
-var mnemonic = "lady congress assault security hub acid popular bone market angry portion box";
+var mnemonic = "decorate dream able fancy evil oak issue letter favorite file tuna car";

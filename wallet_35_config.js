@@ -1,1 +1,1 @@
-var mnemonic = "owner mechanic jealous vacant meat evil execute guess teach another draft stuff";
+var mnemonic = "under quarter tongue flee myself rifle sudden attract tongue pool popular above";

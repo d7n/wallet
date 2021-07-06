@@ -1,1 +1,1 @@
-var mnemonic = "clever manage attract sing grief project foot trade aisle nurse parade rose";
+var mnemonic = "trim beach payment urge hip merry gorilla trip armor betray lemon model";

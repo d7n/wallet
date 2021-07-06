@@ -1,1 +1,1 @@
-var mnemonic = "mixed frequent bonus correct enforce device rigid mule digital dove clip advance";
+var mnemonic = "language furnace crush peace dust meadow kingdom race defense debris genre census";

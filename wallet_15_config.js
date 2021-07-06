@@ -1,1 +1,1 @@
-var mnemonic = "sorry grab apple orchard inflict worry ostrich kitchen bean inmate host panel";
+var mnemonic = "bacon message market carpet bamboo supply coast exit hundred move drill pledge";

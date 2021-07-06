@@ -1,1 +1,1 @@
-var mnemonic = "sell engine ensure monkey trade quarter trial message fiction egg defense patrol";
+var mnemonic = "velvet amazing useful canyon awkward grunt hurt copy keep must repair still";

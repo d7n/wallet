@@ -1,1 +1,1 @@
-var mnemonic = "broom joke ecology permit eight myth cart square explain quick evil length";
+var mnemonic = "senior surround knee movie payment oil dragon nerve truck job crucial silk";

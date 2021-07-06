@@ -1,1 +1,1 @@
-var mnemonic = "cake remind panic zebra theme inquiry unfair various present solid elbow paddle";
+var mnemonic = "powder invite case head swarm toy vital eight bullet immense tired super";

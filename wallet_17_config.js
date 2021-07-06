@@ -1,1 +1,1 @@
-var mnemonic = "rally foster custom lucky science regular eternal cigar paddle situate light derive";
+var mnemonic = "face acquire middle approve bird vintage april ahead include peasant glove rocket";

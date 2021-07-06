@@ -1,1 +1,1 @@
-var mnemonic = "purchase negative sphere sniff eye air shoulder parent buffalo scheme pizza tourist";
+var mnemonic = "planet friend brain fitness vicious source cotton liquid differ shadow east object";

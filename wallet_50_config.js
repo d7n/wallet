@@ -1,1 +1,1 @@
-var mnemonic = "book auto sphere floor bamboo traffic super giant cradle curve little wire";
+var mnemonic = "ramp machine scatter moment vital code resist afford solid arrow latin mask";

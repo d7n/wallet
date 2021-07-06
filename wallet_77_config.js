@@ -1,1 +1,1 @@
-var mnemonic = "around invest project short voyage basic before plug velvet pluck aunt answer";
+var mnemonic = "wire energy dish security smooth alpha whisper nut mango crawl bench august";

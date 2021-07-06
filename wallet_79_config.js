@@ -1,1 +1,1 @@
-var mnemonic = "hill foil forum demise skirt day roast click mushroom science tone flat";
+var mnemonic = "subject spice mother salon void mesh brother unit deputy race onion warrior";

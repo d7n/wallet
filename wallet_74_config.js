@@ -1,1 +1,1 @@
-var mnemonic = "salad popular baby awesome young rubber cable hurry into cave road expire";
+var mnemonic = "kid wool anchor episode shiver laugh burst member garbage autumn awful pet";

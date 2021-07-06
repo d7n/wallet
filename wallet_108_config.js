@@ -1,1 +1,1 @@
-var mnemonic = "side final urban chief twice maple genius better orange damage question certain";
+var mnemonic = "arrange coyote child improve neck false genre tobacco cross antique denial member";

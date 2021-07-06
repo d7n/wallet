@@ -1,1 +1,1 @@
-var mnemonic = "grant carbon critic snake fiber describe brand hockey fault candy skull unhappy";
+var mnemonic = "guilt garlic dash satoshi divide purchase echo flush violin point away snake";

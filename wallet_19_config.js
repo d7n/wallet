@@ -1,1 +1,1 @@
-var mnemonic = "super discover best relax fade annual slice thrive grocery clay soldier spin";
+var mnemonic = "tooth sense sense delay usual accident floor absurd object asthma crumble ten";

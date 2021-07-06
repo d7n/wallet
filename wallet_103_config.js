@@ -1,1 +1,1 @@
-var mnemonic = "best still discover exchange affair desk cake crop category rice play liar";
+var mnemonic = "frost grab arm sail body vehicle high slush script dawn obscure duty";

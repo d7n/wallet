@@ -1,1 +1,1 @@
-var mnemonic = "stomach legal river evidence attack water rely subject parade park episode uncle";
+var mnemonic = "room practice under rain update glass flame choice stumble arch liberty silver";

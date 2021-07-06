@@ -1,1 +1,1 @@
-var mnemonic = "reduce around clever turtle any foot choice fold amateur drill mail belt";
+var mnemonic = "kiss arrest outer behind captain call pupil together fresh reveal ramp egg";

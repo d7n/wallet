@@ -1,1 +1,1 @@
-var mnemonic = "album famous curtain club enter frog twin elegant depth cigar excuse behind";
+var mnemonic = "mutual raw gate cricket follow regular execute raccoon flight cruel sample shrug";

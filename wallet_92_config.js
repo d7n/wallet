@@ -1,1 +1,1 @@
-var mnemonic = "online play file wave chief purse slam smile master credit glad round";
+var mnemonic = "embark circle ozone one tell minor ice art clerk intact advance volume";

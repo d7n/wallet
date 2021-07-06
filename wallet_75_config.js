@@ -1,1 +1,1 @@
-var mnemonic = "neutral sword wagon north funny outdoor travel rocket dial juice banana hair";
+var mnemonic = "razor panda cloud menu upgrade profit rabbit shed another picnic junk symbol";

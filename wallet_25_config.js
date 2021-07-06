@@ -1,1 +1,1 @@
-var mnemonic = "rent spoil empower sing yellow reveal snake huge flag address brown february";
+var mnemonic = "market twenty access arrow miss stable alien glare truly member sphere require";

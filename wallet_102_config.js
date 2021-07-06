@@ -1,1 +1,1 @@
-var mnemonic = "uncle sausage express picture jar museum envelope web razor cause ticket coconut";
+var mnemonic = "situate street slice plunge million tissue treat mansion say visit day tornado";

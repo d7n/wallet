@@ -1,1 +1,1 @@
-var mnemonic = "trial hobby outdoor good junior world cluster tennis staff swallow rubber blur";
+var mnemonic = "segment moon congress very ribbon give travel learn certain cliff expire denial";

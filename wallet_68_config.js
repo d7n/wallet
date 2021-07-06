@@ -1,1 +1,1 @@
-var mnemonic = "crunch mandate giraffe swamp sleep shield cannon total evoke debris wolf twist";
+var mnemonic = "accident mechanic observe liquid ensure mother abstract neck rabbit pumpkin ostrich later";

@@ -1,1 +1,1 @@
-var mnemonic = "weird gesture electric way peace monster ocean slice bullet item reunion leaf";
+var mnemonic = "fringe pigeon only only answer kiwi cliff reward trust future shrimp spend";

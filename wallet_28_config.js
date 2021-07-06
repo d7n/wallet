@@ -1,1 +1,1 @@
-var mnemonic = "emotion another news moral quiz typical ride chuckle large example history tired";
+var mnemonic = "absurd foot identify dwarf tongue light oak grief clever drama business worth";

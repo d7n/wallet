@@ -1,1 +1,1 @@
-var mnemonic = "lizard motor auto exist goddess bus potato there weekend senior asthma wonder";
+var mnemonic = "praise fix sick dirt exact disease fossil wasp drill fly special drum";

@@ -1,1 +1,1 @@
-var mnemonic = "pass photo patrol clap crush aerobic judge appear ordinary disagree weapon fall";
+var mnemonic = "exact frown proof rabbit snack paper observe agree virtual quick page taste";

@@ -1,1 +1,1 @@
-var mnemonic = "merge popular segment improve cheese assist rapid frame bronze industry entry display";
+var mnemonic = "script original alert delay blame butter urge audit safe wheel hedgehog reduce";

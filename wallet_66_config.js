@@ -1,1 +1,1 @@
-var mnemonic = "just clown bird page illness mixture differ camp coyote exile kiss message";
+var mnemonic = "tag proof orange embark ceiling twist attend hen wine scatter soccer album";

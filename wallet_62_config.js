@@ -1,1 +1,1 @@
-var mnemonic = "multiply sausage assume icon portion purity wish census winner cake abstract basic";
+var mnemonic = "property spike silent brave wreck convince rather leader cook bitter riot two";

@@ -1,1 +1,1 @@
-var mnemonic = "mom across right laundry clog begin empower hundred demand genre unaware cliff";
+var mnemonic = "transfer uniform display attend planet mountain squeeze suit spatial price carpet peanut";

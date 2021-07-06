@@ -1,1 +1,1 @@
-var mnemonic = "exhibit aisle mixed rug paddle bronze define blanket park raccoon problem toe";
+var mnemonic = "eager hand fox agree tree napkin ladder vital ten order album knee";

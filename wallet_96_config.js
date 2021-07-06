@@ -1,1 +1,1 @@
-var mnemonic = "hand ramp random sauce split small vocal during abstract steel swamp supreme";
+var mnemonic = "bamboo sustain boy egg million rifle relax farm voyage submit sniff post";

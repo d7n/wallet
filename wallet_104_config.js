@@ -1,1 +1,1 @@
-var mnemonic = "electric venue width destroy broom charge laundry call canvas poverty orange universe";
+var mnemonic = "trigger pact balance exclude sniff injury weapon helmet around half bid whale";

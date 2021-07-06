@@ -1,1 +1,1 @@
-var mnemonic = "hockey spoil dentist ethics price legend syrup cancel fine insane vacant borrow";
+var mnemonic = "liberty three baby genuine limb man drift guide color disagree video bonus";

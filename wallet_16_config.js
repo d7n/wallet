@@ -1,1 +1,1 @@
-var mnemonic = "correct wish curve level sorry either mention belt stadium nurse all peace";
+var mnemonic = "drift limb awkward poverty rare pyramid discover during topple involve genius mango";

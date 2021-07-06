@@ -1,1 +1,1 @@
-var mnemonic = "return become carbon public hollow know frown rude cycle gate crane speak";
+var mnemonic = "veteran during connect taste butter sister sunny silent improve enter dentist ill";

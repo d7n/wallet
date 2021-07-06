@@ -1,1 +1,1 @@
-var mnemonic = "meadow bone myself online shift minute voice enact scheme flee code edit";
+var mnemonic = "item volcano skate estate shoulder assault cement vintage effort salon shrimp margin";

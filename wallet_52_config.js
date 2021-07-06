@@ -1,1 +1,1 @@
-var mnemonic = "jar caught lobster sail unit crumble diagram express buddy globe scatter invite";
+var mnemonic = "tool provide crane immune flock exercise tomato ahead legend flush keep economy";

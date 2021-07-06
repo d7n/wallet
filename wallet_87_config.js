@@ -1,1 +1,1 @@
-var mnemonic = "ridge gallery mistake few party duck round certain simple document fatal canoe";
+var mnemonic = "tenant glory spike photo arrive able bicycle broom broom tell stamp square";

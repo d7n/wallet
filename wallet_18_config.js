@@ -1,1 +1,1 @@
-var mnemonic = "gold host cost refuse upgrade immune tackle pink demise diary figure student";
+var mnemonic = "unaware witness used away swim because crawl device solar stumble custom hawk";

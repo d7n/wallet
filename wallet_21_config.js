@@ -1,1 +1,1 @@
-var mnemonic = "decrease actress pear orbit elite girl grant seat rubber motor old zone";
+var mnemonic = "awkward provide scrap soap glow forget mandate argue caution vacuum visual fossil";

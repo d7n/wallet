@@ -1,1 +1,1 @@
-var mnemonic = "spatial relax require cover weekend rifle hello perfect animal myself legend spin";
+var mnemonic = "ball thank corn floor wait essay snake material dwarf update rather combine";

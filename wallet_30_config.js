@@ -1,1 +1,1 @@
-var mnemonic = "exhaust enhance security sample silver pumpkin finish estate beef jewel habit setup";
+var mnemonic = "alpha lunar meadow auction major produce lake menu beyond flame snack evil";

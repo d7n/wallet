@@ -1,1 +1,1 @@
-var mnemonic = "gaze crawl truth lonely thumb appear phone eyebrow basic hero lonely apple";
+var mnemonic = "faith toss squeeze faint movie ethics inmate check fragile record tape olive";

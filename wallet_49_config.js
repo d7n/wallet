@@ -1,1 +1,1 @@
-var mnemonic = "lend tonight asthma hurry robot genuine other dust critic submit canvas feel";
+var mnemonic = "agree cluster rescue blast prevent erase glass celery long enhance present daring";

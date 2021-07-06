@@ -1,1 +1,1 @@
-var mnemonic = "wave position axis repair kiwi little room ribbon invest install illness stool";
+var mnemonic = "radio skin mistake mass rib travel wing three asthma force exhibit simple";

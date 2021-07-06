@@ -1,1 +1,1 @@
-var mnemonic = "tortoise correct various faint penalty man sugar salon idea avocado scene crumble";
+var mnemonic = "betray sell cluster addict wife label stairs connect then denial own connect";

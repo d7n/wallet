@@ -1,1 +1,1 @@
-var mnemonic = "cost gallery firm market symptom culture concert hidden romance version column moon";
+var mnemonic = "science project fan prize exhibit gas scissors kangaroo pony alarm endorse exact";

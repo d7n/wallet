@@ -1,1 +1,1 @@
-var mnemonic = "banner display try local guide glare desk unit glimpse essay clip glance";
+var mnemonic = "license enemy artwork hotel junior swap marriage funny drift eagle cart say";

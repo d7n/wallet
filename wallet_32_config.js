@@ -1,1 +1,1 @@
-var mnemonic = "again tape earth gravity detail wrap sign together front they escape prefer";
+var mnemonic = "satisfy machine roast novel leave history park safe inflict enable remind pair";

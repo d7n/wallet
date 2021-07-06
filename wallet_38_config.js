@@ -1,1 +1,1 @@
-var mnemonic = "protect raise shed patch grocery trophy pact poet accuse sugar rookie ocean";
+var mnemonic = "hawk antenna fringe rose elite oil hazard sheriff parent trim coyote illegal";

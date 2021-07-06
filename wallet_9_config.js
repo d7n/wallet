@@ -1,1 +1,1 @@
-var mnemonic = "raw document island wrong uniform produce pool earth dice cargo stock brand";
+var mnemonic = "fun cupboard help adult liberty clinic gossip help universe blast nuclear fancy";

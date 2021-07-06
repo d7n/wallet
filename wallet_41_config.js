@@ -1,1 +1,1 @@
-var mnemonic = "boy boat leave hidden dawn weapon video leave pole decrease rack gauge";
+var mnemonic = "sound cook act stock mouse flight olympic property tower path program phrase";

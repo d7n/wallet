@@ -1,1 +1,1 @@
-var mnemonic = "ranch bargain trial embody spray runway motor meadow strike neither column fitness";
+var mnemonic = "guitar broom climb soon pause marriage sibling cash useful enjoy expand skill";

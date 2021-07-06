@@ -1,1 +1,1 @@
-var mnemonic = "math wet keen culture crucial proud horror grape outdoor fire cram length";
+var mnemonic = "struggle mistake erupt tiny shrug arrow property lobster unique spread tip digital";

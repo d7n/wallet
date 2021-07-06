@@ -1,1 +1,1 @@
-var mnemonic = "local carpet fiction only ecology demise camp mirror armed supreme ladder gaze";
+var mnemonic = "panic tourist true assume dentist penalty brand hold top soccer sorry dial";

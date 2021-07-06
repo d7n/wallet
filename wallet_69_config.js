@@ -1,1 +1,1 @@
-var mnemonic = "music guard badge lunch ranch upon viable glimpse ignore shrug fold again";
+var mnemonic = "segment parade puzzle donkey join wool screen desert want clock argue deliver";

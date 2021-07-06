@@ -1,1 +1,1 @@
-var mnemonic = "used ugly canvas dilemma fragile actor start guitar grain suffer front snack";
+var mnemonic = "convince bundle awesome heavy meadow year rather match across zero shoe renew";

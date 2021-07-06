@@ -1,1 +1,1 @@
-var mnemonic = "census fresh consider truth swing post debris hidden way copper summer nerve";
+var mnemonic = "reopen away path play keen lunar sort find sing always only kid";
