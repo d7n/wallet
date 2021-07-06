@@ -1,1 +1,1 @@
-var mnemonic = "lonely liar bunker copper yard nice session this sight birth sugar initial";
+var mnemonic = "black mutual attack wide finger cup limb price bridge truck fault allow";

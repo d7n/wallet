@@ -1,1 +1,1 @@
-var mnemonic = "fold swarm garage raise hurry donate syrup sick core lyrics harbor kitchen";
+var mnemonic = "clock mystery toward beef portion one army ready security flame clean bus";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic marine feed sick rely into world place cycle field present success";
+var mnemonic = "canoe poverty long light patient dice tumble merit since bottom brick brush";

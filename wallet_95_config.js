@@ -1,1 +1,1 @@
-var mnemonic = "robot employ art budget museum thank oak plunge drive stereo funny spend";
+var mnemonic = "inject sketch profit thunder task sign world elite behave visa critic mother";

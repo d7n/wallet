@@ -1,1 +1,1 @@
-var mnemonic = "museum supreme license desk media lottery uncover gather ensure zone blood fork";
+var mnemonic = "rigid village organ food soccer pitch section pencil defense shop orange viable";

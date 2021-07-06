@@ -1,1 +1,1 @@
-var mnemonic = "property expire model move pilot volcano ten name coil travel stamp cup";
+var mnemonic = "speed cause carbon frown maple prize scorpion ranch book target length jelly";

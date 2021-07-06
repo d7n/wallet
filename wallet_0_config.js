@@ -1,1 +1,1 @@
-var mnemonic = "oak observe gun crumble just already peanut library odor chase lend surface";
+var mnemonic = "strong future awesome ski other aisle cover offer test conduct castle canvas";

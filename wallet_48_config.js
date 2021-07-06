@@ -1,1 +1,1 @@
-var mnemonic = "menu early gasp avoid ready shoulder staff govern carbon task indicate shallow";
+var mnemonic = "noise eight diesel diary jaguar what gorilla audit athlete undo enhance horn";

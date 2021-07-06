@@ -1,1 +1,1 @@
-var mnemonic = "weird salute noble cart flat total stairs visual chalk observe undo win";
+var mnemonic = "unit field option rigid west brother squeeze menu discover bring void come";

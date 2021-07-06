@@ -1,1 +1,1 @@
-var mnemonic = "harvest hammer same believe gift trip shoe bargain head nose hover basic";
+var mnemonic = "keen auction muffin cancel clutch eight job turkey deer afraid speak plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "ice detail impact gadget punch scare put check notable cabbage panda shaft";
+var mnemonic = "season panda soap cradle able suffer vibrant gas number core razor bulk";

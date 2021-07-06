@@ -1,1 +1,1 @@
-var mnemonic = "lock bean cave slender staff bacon chicken wine wall shift wash select";
+var mnemonic = "harsh father exist speak tunnel round unfold hammer museum desert tobacco gate";

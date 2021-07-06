@@ -1,1 +1,1 @@
-var mnemonic = "try sock frame state filter mutual dial scene detect bid book jacket";
+var mnemonic = "cram february rare ability best hip cloud push father eagle tenant age";

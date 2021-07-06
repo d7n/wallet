@@ -1,1 +1,1 @@
-var mnemonic = "way invest bronze spy skate sun monster knee ribbon fetch milk chase";
+var mnemonic = "atom chest venture victory claim differ retire pyramid space rabbit sell quick";

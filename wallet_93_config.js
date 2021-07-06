@@ -1,1 +1,1 @@
-var mnemonic = "session economy purchase front zone project maple pigeon evolve body glow ship";
+var mnemonic = "gorilla unfold income foam credit friend pill rely visit grocery beef lobster";

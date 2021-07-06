@@ -1,1 +1,1 @@
-var mnemonic = "table term polar toy travel ridge next unveil rapid bread excite climb";
+var mnemonic = "rice tool manage despair casino artist fetch relief pudding desert column stay";

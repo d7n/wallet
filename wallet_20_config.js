@@ -1,1 +1,1 @@
-var mnemonic = "fiscal grab next biology grass decline aim loyal lady snow remind goose";
+var mnemonic = "ostrich wheel phrase novel club flush frost uniform slam wrist around picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "flip armor during panic author split list tobacco raw chapter student run";
+var mnemonic = "educate tomorrow pass pill evidence jealous first eagle ribbon jacket edit noise";

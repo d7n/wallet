@@ -1,1 +1,1 @@
-var mnemonic = "habit below upon top frame age supply ethics mixed solve trophy budget";
+var mnemonic = "galaxy frog lion educate delay toe conduct knee check chimney tent tell";

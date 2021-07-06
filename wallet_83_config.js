@@ -1,1 +1,1 @@
-var mnemonic = "illegal field bright vault figure bless bid floor label enemy unhappy avocado";
+var mnemonic = "peanut exist mouse payment rule family spin history sea rural ozone giggle";

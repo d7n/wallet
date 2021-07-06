@@ -1,1 +1,1 @@
-var mnemonic = "pizza local sport family bid prefer light venture entire ring engage flush";
+var mnemonic = "jelly firm door sweet matrix front chalk avocado share someone hair team";

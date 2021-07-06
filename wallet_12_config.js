@@ -1,1 +1,1 @@
-var mnemonic = "spoil unhappy hub rug panda chimney cage because truck climb train furnace";
+var mnemonic = "insect brass rifle jazz quality eager clock give return hero cement step";

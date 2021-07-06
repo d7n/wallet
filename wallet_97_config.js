@@ -1,1 +1,1 @@
-var mnemonic = "unusual final ketchup release feature banner total found endorse summer science sock";
+var mnemonic = "harbor toast frequent pumpkin depart logic note order mimic chalk review accident";

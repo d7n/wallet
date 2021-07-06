@@ -1,1 +1,1 @@
-var mnemonic = "work angle list auction patch hard menu wasp figure grain slender razor";
+var mnemonic = "fix breeze used dizzy thunder cave soldier extra process galaxy finger income";

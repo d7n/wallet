@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin garbage candy quality cancel pepper visa ability march universe divorce carry";
+var mnemonic = "melody swing direct candy grace gauge system gate ancient blouse envelope toward";

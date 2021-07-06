@@ -1,1 +1,1 @@
-var mnemonic = "flat dragon critic pause cabin dizzy vault enact ripple rail neither spirit";
+var mnemonic = "armed saddle fine theme face just sugar violin pelican track beef vacuum";

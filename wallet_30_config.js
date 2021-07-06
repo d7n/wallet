@@ -1,1 +1,1 @@
-var mnemonic = "square plastic noodle nest fashion decrease culture silent estate drip insect public";
+var mnemonic = "casino execute quarter cake pet runway wet dinner century surface seek surround";

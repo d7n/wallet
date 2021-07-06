@@ -1,1 +1,1 @@
-var mnemonic = "reject input pave elevator output dream bachelor curtain pepper eye hurry half";
+var mnemonic = "renew myth decide exotic about abstract cup farm patch snack shuffle trophy";

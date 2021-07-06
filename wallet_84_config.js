@@ -1,1 +1,1 @@
-var mnemonic = "friend grain below bomb agree shallow enemy sentence half foster stable debate";
+var mnemonic = "abuse daring cupboard castle grass enact call rose glue soldier bone sauce";

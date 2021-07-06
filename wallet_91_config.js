@@ -1,1 +1,1 @@
-var mnemonic = "creek will able wedding turn quality anger virus gain comfort excess useful";
+var mnemonic = "leader setup desert sure image volcano trick snake rocket horse divide scatter";

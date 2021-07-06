@@ -1,1 +1,1 @@
-var mnemonic = "diamond pluck sunset differ essay parent become genre chaos high unable merge";
+var mnemonic = "beauty route loan inflict stage indoor seed car coast cream cupboard exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "ice word fog dash attend mixture wrong catalog chicken silly tooth harsh";
+var mnemonic = "journey long play chest inspire virus rich notice quality brand bike vault";

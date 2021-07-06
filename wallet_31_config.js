@@ -1,1 +1,1 @@
-var mnemonic = "cart pencil evidence pumpkin level impact manage fatigue truly ethics pill modify";
+var mnemonic = "stick marriage exotic vanish marble frog safe prefer clarify captain cliff whisper";

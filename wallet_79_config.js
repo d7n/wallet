@@ -1,1 +1,1 @@
-var mnemonic = "satisfy vocal curtain scale enable rocket scissors fee order idle fresh ahead";
+var mnemonic = "marble fence strong veteran giraffe dose noise chalk notable resist wisdom inherit";

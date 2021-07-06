@@ -1,1 +1,1 @@
-var mnemonic = "license gather now club surface portion round slab tank venture maze enhance";
+var mnemonic = "add example clap ancient chef laptop bicycle dove caught cabbage pluck casino";

@@ -1,1 +1,1 @@
-var mnemonic = "basic talk uncle pigeon exclude december rib viable inquiry either enrich potato";
+var mnemonic = "forum buyer episode vacuum embark analyst decade way sister maximum tongue purse";

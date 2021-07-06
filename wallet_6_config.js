@@ -1,1 +1,1 @@
-var mnemonic = "impose title carbon mimic pizza dolphin venue orphan cash snake lawsuit used";
+var mnemonic = "matter good air buffalo normal oil chimney punch utility patient coconut cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny potato beach paddle actress loop work paper tragic twin endless session";
+var mnemonic = "sorry arm armor file absorb birth avocado brass cereal surround echo ten";

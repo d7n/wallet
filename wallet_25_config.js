@@ -1,1 +1,1 @@
-var mnemonic = "decide wolf alert mutual agent together brand bridge bleak ecology silk fitness";
+var mnemonic = "canoe abstract road battle wreck target wrap skirt heavy when young apology";

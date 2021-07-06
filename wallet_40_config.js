@@ -1,1 +1,1 @@
-var mnemonic = "manual risk pill zebra struggle silly tape emerge pulp parrot tent plastic";
+var mnemonic = "famous kitten garment empower cement portion bounce lizard typical place snap audit";

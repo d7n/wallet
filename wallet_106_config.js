@@ -1,1 +1,1 @@
-var mnemonic = "width hamster object glad misery flee holiday scout quarter hand dynamic snack";
+var mnemonic = "torch expect prize tomorrow illegal hip setup upper nasty begin test unknown";

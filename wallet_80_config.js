@@ -1,1 +1,1 @@
-var mnemonic = "carpet boring bounce raven want bus girl ocean fire student chimney injury";
+var mnemonic = "enough express anger rather pet expect peanut radar entry cloud inspire noodle";

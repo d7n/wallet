@@ -1,1 +1,1 @@
-var mnemonic = "squeeze congress gravity diagram winner nature luxury crash habit carry clutch student";
+var mnemonic = "two sing boil lift gain ask wave friend bomb trend chair reflect";

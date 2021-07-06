@@ -1,1 +1,1 @@
-var mnemonic = "brush tomato decline pencil muffin town trigger myself rail tortoise arctic note";
+var mnemonic = "avoid minimum urban help city bracket skill welcome exhaust depart turkey visa";

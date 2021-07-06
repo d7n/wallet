@@ -1,1 +1,1 @@
-var mnemonic = "clay salmon spy entire price echo mansion better ensure coconut exit faculty";
+var mnemonic = "ugly expire reveal attitude fruit art crowd into rather mule aspect undo";

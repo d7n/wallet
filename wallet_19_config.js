@@ -1,1 +1,1 @@
-var mnemonic = "tank outside polar rack main sadness vanish forest rural arrive foam hint";
+var mnemonic = "digital expand patrol pair mixed cluster cook turn useless asset dune write";

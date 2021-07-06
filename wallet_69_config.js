@@ -1,1 +1,1 @@
-var mnemonic = "loan address snake school fine nation gold federal solution defy upon cherry";
+var mnemonic = "suspect drift cost twin knife poet shift insect swear celery round high";

@@ -1,1 +1,1 @@
-var mnemonic = "circle foot seven lock hospital fiber sunny tool mean genuine south unlock";
+var mnemonic = "series radar fault exercise sport gasp hybrid admit east brand improve spider";

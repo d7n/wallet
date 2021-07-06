@@ -1,1 +1,1 @@
-var mnemonic = "toilet view bicycle magnet fluid course menu february gloom space connect inside";
+var mnemonic = "salt night law dolphin snap earn fog brother table banner endorse label";

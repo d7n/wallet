@@ -1,1 +1,1 @@
-var mnemonic = "autumn element post nut flight ticket want style cancel action salute figure";
+var mnemonic = "love mansion lounge differ amateur drive column agent inflict couple ancient design";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb famous demand approve ship motion gesture wonder pulp moon debris clarify";
+var mnemonic = "grunt abuse eye fame shield flip approve whip behind century enable street";

@@ -1,1 +1,1 @@
-var mnemonic = "smile luxury glide where response deny park drip thumb debris bubble spice";
+var mnemonic = "oven escape neglect snow board swift day chalk almost sunset this loop";

@@ -1,1 +1,1 @@
-var mnemonic = "soul castle achieve vehicle domain abstract joy key ankle protect asset pill";
+var mnemonic = "diamond quantum outside man empty chaos mirror off solution wisdom clog fall";

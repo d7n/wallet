@@ -1,1 +1,1 @@
-var mnemonic = "rude more emotion kidney present opera smile giant ahead soft trigger place";
+var mnemonic = "palace legal wedding arrow merge cash mixed birth buffalo style action language";

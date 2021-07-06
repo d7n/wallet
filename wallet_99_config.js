@@ -1,1 +1,1 @@
-var mnemonic = "pill faculty cattle churn oblige lemon neither wrist increase beef fiber box";
+var mnemonic = "disagree thought salute keep flight use inmate absent spoil brave donor place";

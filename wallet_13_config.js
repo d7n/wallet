@@ -1,1 +1,1 @@
-var mnemonic = "rich elite spike dumb predict jelly nature demise core ivory cross limit";
+var mnemonic = "false target fix bleak area domain person wool pink retire slice web";

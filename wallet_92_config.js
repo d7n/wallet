@@ -1,1 +1,1 @@
-var mnemonic = "trash train cream patrol air hospital erase envelope dice cushion brown kidney";
+var mnemonic = "curious jealous mimic common below pelican resist meat latin feel reflect reward";

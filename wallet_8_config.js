@@ -1,1 +1,1 @@
-var mnemonic = "crumble clap cable wave toss brave dentist achieve then symbol book surprise";
+var mnemonic = "illness water over burden noble ceiling bulb mix pipe visit amateur network";

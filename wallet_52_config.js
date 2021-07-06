@@ -1,1 +1,1 @@
-var mnemonic = "average left napkin begin hawk napkin weather poet attitude disorder keep whale";
+var mnemonic = "fabric worry achieve curious history enact heavy match top unveil upgrade echo";

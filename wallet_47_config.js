@@ -1,1 +1,1 @@
-var mnemonic = "yellow expand receive attract moral taxi mammal lamp piece certain pitch town";
+var mnemonic = "major window junior asset envelope time machine accuse material barrel option adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "silver comfort green aerobic dash subject ceiling wide ethics urge shell child";
+var mnemonic = "midnight reflect thunder gossip brain purchase maple glare nasty sniff lucky mask";

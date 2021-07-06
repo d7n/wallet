@@ -1,1 +1,1 @@
-var mnemonic = "vote gesture list patch work hire check belt walk machine earth service";
+var mnemonic = "south useless subway fish try increase sketch prefer endorse kangaroo brick fiction";

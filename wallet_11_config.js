@@ -1,1 +1,1 @@
-var mnemonic = "unfair yellow initial garbage bulb remain sample spike maze hundred mad arrest";
+var mnemonic = "rhythm royal shoe pair brand unique lawsuit alarm juice lens slim teach";

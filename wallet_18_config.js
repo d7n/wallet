@@ -1,1 +1,1 @@
-var mnemonic = "net horn gospel elephant holiday glad among they phone divert muscle finger";
+var mnemonic = "sentence tortoise round away sorry income early manage sustain reward dose about";

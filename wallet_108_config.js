@@ -1,1 +1,1 @@
-var mnemonic = "bleak have orchard life coin catalog pioneer pitch buddy trend popular rigid";
+var mnemonic = "swift clerk use fringe spell vault budget library coyote oven tenant library";

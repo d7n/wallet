@@ -1,1 +1,1 @@
-var mnemonic = "wisdom orbit catch text hundred primary letter wise hazard flash north reopen";
+var mnemonic = "warm measure ice raw soft protect venture medal edge fold similar frog";

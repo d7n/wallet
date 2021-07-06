@@ -1,1 +1,1 @@
-var mnemonic = "output mosquito neck mouse diary extra embody apple poverty image vacuum arm";
+var mnemonic = "green essay marine kit this urge kit cause opinion eight assume kidney";

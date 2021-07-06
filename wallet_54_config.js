@@ -1,1 +1,1 @@
-var mnemonic = "toilet clump series unaware swamp copy omit tomorrow success onion sugar possible";
+var mnemonic = "trumpet hidden game differ hurry salmon prosper clock exclude oblige fame razor";

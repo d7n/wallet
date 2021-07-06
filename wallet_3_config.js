@@ -1,1 +1,1 @@
-var mnemonic = "budget fault provide zoo tonight found outdoor example explain blame denial anchor";
+var mnemonic = "crew utility soon endless bar pepper husband rebel soft marriage diagram erode";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage family gap seminar walk employ time wool movie horn flavor husband";
+var mnemonic = "fall latin debate crazy proof latin solution either unhappy task circle sorry";

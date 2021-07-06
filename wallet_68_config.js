@@ -1,1 +1,1 @@
-var mnemonic = "pony major spirit idle announce else huge question ship degree limit foot";
+var mnemonic = "venue ginger maid junk hybrid apple crater picture throw butter diet holiday";

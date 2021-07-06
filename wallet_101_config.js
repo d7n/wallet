@@ -1,1 +1,1 @@
-var mnemonic = "combine west frequent boat panther reveal skin wide safe melt purse hospital";
+var mnemonic = "alien auto position usage unfold subject interest trade blame spider peace sound";

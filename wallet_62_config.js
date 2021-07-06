@@ -1,1 +1,1 @@
-var mnemonic = "frame extra office mercy repeat grant garage fan decorate stadium remember bronze";
+var mnemonic = "number forum common wheel tool end tunnel endless captain conduct enrich own";

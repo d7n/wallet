@@ -1,1 +1,1 @@
-var mnemonic = "carpet expect adapt violin total cannon snap gaze hero mixture scout jaguar";
+var mnemonic = "bird rule clever quarter net amount dice rebel copy attitude else hello";

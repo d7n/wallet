@@ -1,1 +1,1 @@
-var mnemonic = "gasp that decline million about welcome school flavor pattern clap melody visa";
+var mnemonic = "useless math prosper chef ready erosion bleak pizza raw goose power setup";

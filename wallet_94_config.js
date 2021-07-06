@@ -1,1 +1,1 @@
-var mnemonic = "forest subway legal tail toy knife recycle exotic firm inherit flavor soul";
+var mnemonic = "round food mechanic agree robust pulp boy rookie violin add syrup else";

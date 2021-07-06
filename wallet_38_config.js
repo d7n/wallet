@@ -1,1 +1,1 @@
-var mnemonic = "universe lazy treat gravity wage business issue camp furnace balance figure diesel";
+var mnemonic = "decline color much area unfair bench magic emotion split clog civil fame";

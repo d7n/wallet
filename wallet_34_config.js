@@ -1,1 +1,1 @@
-var mnemonic = "thrive weapon awesome crazy pistol tent orbit tennis extend defense hunt boss";
+var mnemonic = "frown wild make embark lab deal victory seminar buzz double kingdom remove";

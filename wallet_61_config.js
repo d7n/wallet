@@ -1,1 +1,1 @@
-var mnemonic = "suffer wave crop tide rubber exist bomb hen addict they shy hockey";
+var mnemonic = "renew lizard document siege tennis jewel estate jump build spider hawk prevent";

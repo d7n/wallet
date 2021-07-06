@@ -1,1 +1,1 @@
-var mnemonic = "bundle gap ice first frequent output toward alcohol wisdom task engine awkward";
+var mnemonic = "alert uncle grab bullet garden brown produce link abuse final phone struggle";

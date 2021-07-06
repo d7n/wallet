@@ -1,1 +1,1 @@
-var mnemonic = "gravity ankle space olive survey fire mother moral plastic again answer asthma";
+var mnemonic = "dress negative false tomorrow ignore wrap ocean bone demise cool bar mixed";

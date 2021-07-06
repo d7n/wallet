@@ -1,1 +1,1 @@
-var mnemonic = "unveil private someone dice physical unhappy setup pony brass sentence clown lamp";
+var mnemonic = "junior inner sauce video congress settle food number ladder defy agent network";

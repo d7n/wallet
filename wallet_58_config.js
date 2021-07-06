@@ -1,1 +1,1 @@
-var mnemonic = "leaf loan beach involve task quote swarm draw arrow napkin recycle ostrich";
+var mnemonic = "gadget term speed cart chapter click million finish able spend human brother";

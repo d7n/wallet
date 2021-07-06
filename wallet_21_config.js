@@ -1,1 +1,1 @@
-var mnemonic = "zone skill frost raise blouse sniff sunset grow define wine deer decline";
+var mnemonic = "dove snake april direct juice nephew rookie easily oyster lemon paddle muscle";

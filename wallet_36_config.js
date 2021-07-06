@@ -1,1 +1,1 @@
-var mnemonic = "win coach three sight abuse face undo recycle credit engage alien one";
+var mnemonic = "ugly outside visual shuffle father enough envelope dignity talent digital transfer wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "decide place certain crawl vital warfare exit unable season brave merry hunt";
+var mnemonic = "cross material tissue cousin concert nature loan diamond rich snap wear thank";

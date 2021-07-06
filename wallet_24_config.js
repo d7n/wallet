@@ -1,1 +1,1 @@
-var mnemonic = "away replace disease alone retire pencil divert initial express custom hurt equip";
+var mnemonic = "shine unhappy prosper inquiry embrace carbon whale frozen brain urban pool general";

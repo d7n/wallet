@@ -1,1 +1,1 @@
-var mnemonic = "invite drama peasant cherry weather castle winner spread sight rubber cover admit";
+var mnemonic = "enhance door dune junk safe error obscure estate advance salad mercy body";

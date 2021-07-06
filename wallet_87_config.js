@@ -1,1 +1,1 @@
-var mnemonic = "vast cost crush drum hurry tooth raise swim push daring twenty trust";
+var mnemonic = "liquid palm mimic trumpet move arrange gadget wink logic innocent mosquito gas";
