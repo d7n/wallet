@@ -1,1 +1,1 @@
-var mnemonic = "gallery buffalo plug split nuclear badge elite ancient wear scene verify junior";
+var mnemonic = "abuse maximum funny dice wine gown sock object toast maid magnet predict";

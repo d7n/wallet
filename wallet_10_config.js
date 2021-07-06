@@ -1,1 +1,1 @@
-var mnemonic = "diary extra satoshi prize runway ski frequent naive dinner runway praise bright";
+var mnemonic = "box eagle action monkey solution alone guilt column learn truly obtain select";

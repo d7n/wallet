@@ -1,1 +1,1 @@
-var mnemonic = "exhaust smooth awesome oil hood dove round unit pattern nut lottery bid";
+var mnemonic = "fault maze pyramid latin zero treat avocado swamp expire crawl tortoise menu";

@@ -1,1 +1,1 @@
-var mnemonic = "radio unaware narrow virtual office twenty lunch legal almost dust dinosaur upon";
+var mnemonic = "kiwi history pear post balance sick mad guitar sister warfare pottery boy";

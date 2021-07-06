@@ -1,1 +1,1 @@
-var mnemonic = "spring wall sort swamp grow swim sight shallow index fatal lab fresh";
+var mnemonic = "hundred member silly choice course certain neck make better waste sell decide";

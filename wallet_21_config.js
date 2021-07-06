@@ -1,1 +1,1 @@
-var mnemonic = "alcohol crack sheriff logic orbit glare now chair famous hole dust wise";
+var mnemonic = "clutch lottery dumb omit hour consider pig asset electric rude image target";

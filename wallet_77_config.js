@@ -1,1 +1,1 @@
-var mnemonic = "exclude turtle ceiling brick crater weather abandon advance broken trial satisfy feed";
+var mnemonic = "bracket boost museum peasant liberty roast record token float chase erupt clay";

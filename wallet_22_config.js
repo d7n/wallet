@@ -1,1 +1,1 @@
-var mnemonic = "matrix robot dizzy piece cable define grape great various treat engine exchange";
+var mnemonic = "glory seat nice reveal cereal melt diary cannon total stand major gown";

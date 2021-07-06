@@ -1,1 +1,1 @@
-var mnemonic = "sausage decade fence south ritual abandon predict junior ecology school bar edge";
+var mnemonic = "arch thing quiz reason better clean quiz ice good wisdom tortoise guess";

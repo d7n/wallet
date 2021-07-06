@@ -1,1 +1,1 @@
-var mnemonic = "hip reject ancient island visa order peanut rescue rally rough wing turtle";
+var mnemonic = "siren rival purpose cheap first cake dash bulk judge trophy quarter sell";

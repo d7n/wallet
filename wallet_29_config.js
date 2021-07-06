@@ -1,1 +1,1 @@
-var mnemonic = "top wear annual turn tree fit century govern toast swing analyst since";
+var mnemonic = "today video leisure enforce defense group group able true stuff example diary";

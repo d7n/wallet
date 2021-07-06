@@ -1,1 +1,1 @@
-var mnemonic = "enough put better rail love oppose sight hard seat because obtain arctic";
+var mnemonic = "song armor media bright ceiling inmate puzzle fan sugar dirt occur aware";

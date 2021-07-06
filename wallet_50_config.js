@@ -1,1 +1,1 @@
-var mnemonic = "fade member gossip impact century trade drip catch scrub erode easily robust";
+var mnemonic = "snow flavor field goat result detect hurry poet clog quality skirt genre";

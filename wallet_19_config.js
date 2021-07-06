@@ -1,1 +1,1 @@
-var mnemonic = "guess asset monster civil alter border miracle now prevent settle acoustic document";
+var mnemonic = "excuse debate knee book provide trash vintage ostrich crash wild ladder shed";

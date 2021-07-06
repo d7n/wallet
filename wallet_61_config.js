@@ -1,1 +1,1 @@
-var mnemonic = "ball leave grab dolphin invest reveal already yard jaguar cinnamon wing jealous";
+var mnemonic = "dust surge home diamond legal speed uncle drastic reject duty mystery echo";

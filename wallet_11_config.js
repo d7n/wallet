@@ -1,1 +1,1 @@
-var mnemonic = "good tell rabbit win order section start phrase update garlic inspire hurry";
+var mnemonic = "gallery hood soft fence noise parent knee innocent entry plug kite medal";

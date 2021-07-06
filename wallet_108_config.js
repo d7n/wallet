@@ -1,1 +1,1 @@
-var mnemonic = "pipe there film organ cake satisfy found impulse miracle draft grass water";
+var mnemonic = "keep caught wasp person slam oyster boil luxury case plug fatigue welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "love enrich wagon major grocery harsh police maze basket either violin hour";
+var mnemonic = "soul avoid excess dynamic much salmon over under zero depart luxury impose";

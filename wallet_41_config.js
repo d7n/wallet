@@ -1,1 +1,1 @@
-var mnemonic = "angle until filter vessel forest burst mansion pride flat zebra fury deputy";
+var mnemonic = "treat play picnic boss laptop youth crucial surprise shy crazy camp happy";

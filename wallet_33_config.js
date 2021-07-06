@@ -1,1 +1,1 @@
-var mnemonic = "park sausage excuse clog panther screen abstract bicycle include bronze random journey";
+var mnemonic = "devote gather wedding waste device cloth hobby voyage amazing father calm priority";

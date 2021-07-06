@@ -1,1 +1,1 @@
-var mnemonic = "audit group mistake feature burger biology pulp left vault giraffe athlete symptom";
+var mnemonic = "fury curtain peace link ordinary taxi danger orange assume window dance dismiss";

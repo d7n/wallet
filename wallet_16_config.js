@@ -1,1 +1,1 @@
-var mnemonic = "quality fuel hotel recycle describe lounge daughter load sunny lab iron leave";
+var mnemonic = "add glance aisle couch riot bridge ball ability lend key cousin craft";

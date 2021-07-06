@@ -1,1 +1,1 @@
-var mnemonic = "ginger case law dilemma digital river fury public build soccer fork shoot";
+var mnemonic = "suggest like aunt borrow worry slam peasant undo vote various organ bomb";

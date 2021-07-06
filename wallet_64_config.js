@@ -1,1 +1,1 @@
-var mnemonic = "blossom shell calm local resist box slow man mom repeat primary popular";
+var mnemonic = "shock cheese minimum fire bike bundle forget gospel pretty edit season nuclear";

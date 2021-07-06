@@ -1,1 +1,1 @@
-var mnemonic = "blouse neutral airport quantum gloom damp live sunny absent hollow kingdom crazy";
+var mnemonic = "mom emerge consider tongue lake evil nuclear own transfer medal coil myself";

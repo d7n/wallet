@@ -1,1 +1,1 @@
-var mnemonic = "liquid whale exile traffic stool master fringe mango champion napkin exercise entire";
+var mnemonic = "eternal fame fluid clip key brain brush trouble arch once edge into";

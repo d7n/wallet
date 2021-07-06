@@ -1,1 +1,1 @@
-var mnemonic = "side slab renew yard warfare jewel seat auto before mirror enter auto";
+var mnemonic = "embrace cluster into good inmate cheap type cement surround betray reunion topple";

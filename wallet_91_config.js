@@ -1,1 +1,1 @@
-var mnemonic = "fragile glare proof merge park squeeze problem seek narrow aware surprise admit";
+var mnemonic = "swarm author tape stamp siege steak pink impose hood hobby hero suggest";

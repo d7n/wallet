@@ -1,1 +1,1 @@
-var mnemonic = "chunk palm spatial whisper second hen broken erosion journey screen neck drop";
+var mnemonic = "math depend twice learn cloth fox burger drive elder valley dumb rib";

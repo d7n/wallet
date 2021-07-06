@@ -1,1 +1,1 @@
-var mnemonic = "forward abandon ignore explain mandate liar offer notable such cause toe enter";
+var mnemonic = "during swear celery burger become chapter world enable pyramid manual casual guide";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer task mistake profit horn fabric human omit naive tag spoil sense";
+var mnemonic = "van chalk glad venture public hockey army educate salute elevator frame myself";

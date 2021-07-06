@@ -1,1 +1,1 @@
-var mnemonic = "coconut dutch fashion unveil leave radio maze wife cook slow build sibling";
+var mnemonic = "lemon noodle bless pilot horn obscure movie person harsh aim biology spread";

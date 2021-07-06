@@ -1,1 +1,1 @@
-var mnemonic = "uphold ship romance mushroom lunar tuition agree flower cousin test wreck such";
+var mnemonic = "antique barrel bubble gadget solid jealous face humble noodle cup enrich artefact";

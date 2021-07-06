@@ -1,1 +1,1 @@
-var mnemonic = "assume prosper elder cabin rice purchase mountain dragon search napkin plastic regret";
+var mnemonic = "strategy that region clown stand upon cruel vibrant west second stomach link";

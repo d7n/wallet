@@ -1,1 +1,1 @@
-var mnemonic = "unusual increase trip office payment axis sorry double elder kangaroo dirt enforce";
+var mnemonic = "social upgrade embrace antique street mushroom faith fat album raw food group";

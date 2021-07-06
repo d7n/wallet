@@ -1,1 +1,1 @@
-var mnemonic = "approve pull bid vague wood mule convince lumber bracket sword cause task";
+var mnemonic = "wash trouble betray barely fly above gate want sudden tumble online finish";

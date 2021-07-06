@@ -1,1 +1,1 @@
-var mnemonic = "art budget between atom save bind bus napkin patrol level swap attitude";
+var mnemonic = "notable person few intact absurd runway few april powder ability blind lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic pear brown where undo neck bacon kiwi desert net settle opinion";
+var mnemonic = "alley argue master mushroom frozen festival system beyond action come gentle noise";

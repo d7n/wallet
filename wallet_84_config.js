@@ -1,1 +1,1 @@
-var mnemonic = "issue sudden first velvet fire exotic better nuclear flower learn slide tent";
+var mnemonic = "disagree choose minor margin dress mesh front paper dutch frown security spray";

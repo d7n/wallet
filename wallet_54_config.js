@@ -1,1 +1,1 @@
-var mnemonic = "travel dismiss tone must buddy need budget ball job subject jelly mansion";
+var mnemonic = "damage hurry paper water swarm story junk sudden devote basic cost tower";

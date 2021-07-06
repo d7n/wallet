@@ -1,1 +1,1 @@
-var mnemonic = "action decorate kitten share ethics side swim fragile mesh repair truly airport";
+var mnemonic = "buddy convince toilet abandon dumb metal verify stereo afraid slim muscle tower";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate pizza forum also together rice maximum nuclear demise clinic wonder above";
+var mnemonic = "dice involve valley patient invite grocery disease train finger judge hurt bracket";

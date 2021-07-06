@@ -1,1 +1,1 @@
-var mnemonic = "outdoor talent empty amazing siren bundle crush rely choice bleak lock emerge";
+var mnemonic = "true trial parent deputy candy soda usual mean narrow room luggage vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "nation monitor staff lecture news scrap potato limb only eternal dose suit";
+var mnemonic = "method sport snow again mushroom since trend bar question source since regret";

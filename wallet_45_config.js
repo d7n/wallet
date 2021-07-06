@@ -1,1 +1,1 @@
-var mnemonic = "embark erase swap plastic someone spoon school velvet need wedding badge luxury";
+var mnemonic = "venture check mandate loop bar bitter corn ring pig live enable plastic";

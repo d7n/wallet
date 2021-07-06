@@ -1,1 +1,1 @@
-var mnemonic = "merit marine throw funny recipe team doctor because scheme vocal social school";
+var mnemonic = "olive convince magnet lake gun truck sing novel marriage music mirror master";

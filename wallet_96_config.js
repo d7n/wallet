@@ -1,1 +1,1 @@
-var mnemonic = "organ desert nature lamp design sister gossip front perfect title vintage room";
+var mnemonic = "gossip divide follow trip trick believe hockey seed easily enter scan provide";

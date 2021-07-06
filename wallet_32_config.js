@@ -1,1 +1,1 @@
-var mnemonic = "hood motor arena air ranch extend armed survey cement blade confirm kind";
+var mnemonic = "replace plunge deputy fashion cave replace wide cross escape rigid box foot";

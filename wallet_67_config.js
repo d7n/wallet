@@ -1,1 +1,1 @@
-var mnemonic = "tiny need menu render kite exchange design fan exile rent brief priority";
+var mnemonic = "timber winter stereo claw nuclear wagon wrist jaguar way dry disorder enlist";

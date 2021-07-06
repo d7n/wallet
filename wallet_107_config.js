@@ -1,1 +1,1 @@
-var mnemonic = "boost punch dumb tray cook globe word race sick decide violin tiger";
+var mnemonic = "educate asset hawk antique actual like sail step shiver soon east express";

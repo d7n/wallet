@@ -1,1 +1,1 @@
-var mnemonic = "museum execute open zebra royal void prepare fresh patch lonely lamp bacon";
+var mnemonic = "cancel stage dial hockey doll lady renew wreck seek frame sister affair";

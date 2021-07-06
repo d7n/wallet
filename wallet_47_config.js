@@ -1,1 +1,1 @@
-var mnemonic = "large phone behind beauty auction sphere struggle improve garbage keep dynamic tiger";
+var mnemonic = "broom oppose birth riot position ticket output goose trial excess open civil";

@@ -1,1 +1,1 @@
-var mnemonic = "upset ahead heavy rose chat entire absorb slow lawsuit domain derive loop";
+var mnemonic = "general arctic print sniff room joke term demise picnic text moment tribe";

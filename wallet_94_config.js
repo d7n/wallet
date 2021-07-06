@@ -1,1 +1,1 @@
-var mnemonic = "apology item tone summer industry correct destroy now apple birth hour tennis";
+var mnemonic = "rude divorce define muscle fee abandon license attitude bread rifle magic crop";

@@ -1,1 +1,1 @@
-var mnemonic = "fade brave fitness retire box brass aisle antenna senior rack west option";
+var mnemonic = "wear bring strike six observe boat comic outdoor enhance mask avoid devote";

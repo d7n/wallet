@@ -1,1 +1,1 @@
-var mnemonic = "neither card muffin window hawk only fuel dust super ensure box gloom";
+var mnemonic = "toddler bus wasp rifle sell prosper smooth rookie scout try goose flight";

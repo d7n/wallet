@@ -1,1 +1,1 @@
-var mnemonic = "air cover stick fame win impact invest orange today permit section crouch";
+var mnemonic = "donkey style warrior couple mammal metal gold fever solar enforce lecture power";

@@ -1,1 +1,1 @@
-var mnemonic = "whip immense gaze bomb grain level balcony bracket illegal pool used wife";
+var mnemonic = "follow rebel thought hip theory island fence glimpse luggage surprise ahead select";

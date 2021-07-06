@@ -1,1 +1,1 @@
-var mnemonic = "glow illness prosper drum bamboo drink ribbon rebuild sign resource menu pole";
+var mnemonic = "dynamic grit control grocery rely arena arctic labor jazz hobby fringe charge";

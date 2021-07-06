@@ -1,1 +1,1 @@
-var mnemonic = "jelly erode burst page bacon match genre wine waste portion position tomorrow";
+var mnemonic = "shell tunnel stem squeeze short plunge enjoy ginger panda kid away curious";

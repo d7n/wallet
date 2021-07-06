@@ -1,1 +1,1 @@
-var mnemonic = "task venue assault sea lonely spy message waste card clarify dose smart";
+var mnemonic = "dress note ready ten add illegal merit normal put grain dune enjoy";

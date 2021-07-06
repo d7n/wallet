@@ -1,1 +1,1 @@
-var mnemonic = "more prepare rich illness city muffin love allow emerge crystal arrive damp";
+var mnemonic = "earth couch stick maze crater brown horse nature inner fault mind toilet";

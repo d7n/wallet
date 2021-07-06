@@ -1,1 +1,1 @@
-var mnemonic = "vault bright confirm interest target artefact outside horror spice trap smooth buzz";
+var mnemonic = "voyage gaze country weather rate define sail drastic divert peanut express topic";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth cannon debris cook light document cycle lucky include manage diamond tuition";
+var mnemonic = "happy theory equip badge exit economy two gesture metal ostrich smoke wage";

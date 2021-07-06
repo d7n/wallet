@@ -1,1 +1,1 @@
-var mnemonic = "address bench affair easy believe tuition rice same until strategy impulse dish";
+var mnemonic = "wage suffer comfort invest witness patient essay novel farm female army mango";

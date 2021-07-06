@@ -1,1 +1,1 @@
-var mnemonic = "street emotion kidney taste fame expand enlist daughter client idea art virtual";
+var mnemonic = "bullet hire puzzle hybrid wrap donkey keep fork mix cereal such wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom ramp world prepare boring length elder brand elbow square sudden orbit";
+var mnemonic = "client carpet innocent rain sweet festival bachelor devote defense robust army drive";

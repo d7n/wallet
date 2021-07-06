@@ -1,1 +1,1 @@
-var mnemonic = "harbor immune salt cheap twice hire pipe destroy venue lava dignity pull";
+var mnemonic = "onion adult wear mimic wrist topic awful witness reopen strike material heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse wealth transfer easily ivory news glance sand entire bike century fetch";
+var mnemonic = "alone disorder crunch nurse lift trade approve jacket energy glove pitch tomorrow";

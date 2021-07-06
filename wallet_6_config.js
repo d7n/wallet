@@ -1,1 +1,1 @@
-var mnemonic = "hockey manual bracket feed sell library grace aware blast unaware unveil able";
+var mnemonic = "snake science arena entry asthma foam coconut exchange wild suggest volume scene";

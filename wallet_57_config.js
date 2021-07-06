@@ -1,1 +1,1 @@
-var mnemonic = "supreme save scheme sign glass notable barely tip hurdle farm card canvas";
+var mnemonic = "autumn hour lift amazing enroll nest popular title erase mansion defense stool";

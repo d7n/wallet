@@ -1,1 +1,1 @@
-var mnemonic = "mutual marine daughter galaxy hand myth mimic must sun mechanic lunch churn";
+var mnemonic = "crunch jealous pen opera property fish clog bicycle message hub glow mule";

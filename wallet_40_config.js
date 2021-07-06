@@ -1,1 +1,1 @@
-var mnemonic = "immune receive border coin celery huge profit another wire memory boat reflect";
+var mnemonic = "vessel loyal release element cloud invest echo scissors velvet cousin impose dog";

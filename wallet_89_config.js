@@ -1,1 +1,1 @@
-var mnemonic = "course check spend scrub aisle degree brief motion alcohol adult process legend";
+var mnemonic = "space salmon river project enough hood about off happy boil hollow stereo";

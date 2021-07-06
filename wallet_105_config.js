@@ -1,1 +1,1 @@
-var mnemonic = "raw column stereo require vicious audit hint man lyrics clown toss train";
+var mnemonic = "narrow cup purchase tiger manual skill subway toward click wall pumpkin symptom";

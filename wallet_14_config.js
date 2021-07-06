@@ -1,1 +1,1 @@
-var mnemonic = "lion outdoor airport apology tunnel gauge hawk huge duck coach leaf legend";
+var mnemonic = "pitch orbit mention consider work market pumpkin people page comfort genius around";

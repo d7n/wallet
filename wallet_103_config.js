@@ -1,1 +1,1 @@
-var mnemonic = "pig trim unfair unique sample crawl indicate upper chest supply few sentence";
+var mnemonic = "discover spot illness wink hire anxiety lunar shuffle brown swallow vicious bargain";

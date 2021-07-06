@@ -1,1 +1,1 @@
-var mnemonic = "phone crash gospel hazard repair practice gloom bulb control display work bottom";
+var mnemonic = "hub upset budget earn symbol own tilt vote post reopen modify penalty";

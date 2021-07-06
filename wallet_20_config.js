@@ -1,1 +1,1 @@
-var mnemonic = "pelican muffin casual alien ride ostrich novel range monster cloth wall tower";
+var mnemonic = "rural salon marriage enjoy walnut shadow nose away dust rabbit merge range";

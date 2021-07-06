@@ -1,1 +1,1 @@
-var mnemonic = "inspire into coyote estate cake cross razor chapter spoon churn deliver moral";
+var mnemonic = "love frog diamond era club vehicle capital celery market chat apple worth";

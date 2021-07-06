@@ -1,1 +1,1 @@
-var mnemonic = "turn logic twelve inspire source lock kangaroo wave special earth grocery left";
+var mnemonic = "spare spring aware dynamic dice involve arrive air undo pencil slush absent";

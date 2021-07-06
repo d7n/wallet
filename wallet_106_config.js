@@ -1,1 +1,1 @@
-var mnemonic = "small weird candy enter rebel luxury bleak rent armor tip mistake nerve";
+var mnemonic = "attitude victory abuse adapt toy cram dish shield panther iron annual session";

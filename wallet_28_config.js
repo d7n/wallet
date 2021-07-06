@@ -1,1 +1,1 @@
-var mnemonic = "inform million replace produce busy exist allow first visa female vibrant place";
+var mnemonic = "because shy decide wealth system half buffalo snow provide flight hungry salad";

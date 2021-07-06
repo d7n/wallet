@@ -1,1 +1,1 @@
-var mnemonic = "swear execute six grid about hire potato satisfy dirt cherry fire prevent";
+var mnemonic = "desert purity initial plug resource assault pretty bone combine prevent hospital always";

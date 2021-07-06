@@ -1,1 +1,1 @@
-var mnemonic = "exhibit pizza monster answer slab acquire sheriff room camera summer transfer whisper";
+var mnemonic = "open cannon clinic aim trend little pumpkin ocean surround extra universe essence";

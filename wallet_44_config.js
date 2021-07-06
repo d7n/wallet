@@ -1,1 +1,1 @@
-var mnemonic = "wheat then valid famous doctor usual benefit rate people frown thank zone";
+var mnemonic = "napkin assume corn dutch salt tag pave swap galaxy spare hurt above";

@@ -1,1 +1,1 @@
-var mnemonic = "property deputy demand machine soup camera prize token casino appear curve proud";
+var mnemonic = "net cook old indicate draft share name essence cement jaguar lunar hockey";

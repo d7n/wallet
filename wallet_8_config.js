@@ -1,1 +1,1 @@
-var mnemonic = "payment nasty piece agree plug struggle ensure item world man crater slice";
+var mnemonic = "urge sure wrong junk fiber fancy inhale sleep bubble fit arctic learn";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer harsh any rubber width ritual system spider crack dove morning pelican";
+var mnemonic = "wood outdoor stadium donor fringe jaguar boost family idea family pottery famous";

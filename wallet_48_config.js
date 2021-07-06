@@ -1,1 +1,1 @@
-var mnemonic = "poverty anchor tray shop equip ring social expect keep review diary quantum";
+var mnemonic = "topic cream radar diesel glimpse grief vague always flat trophy attend awful";

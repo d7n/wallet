@@ -1,1 +1,1 @@
-var mnemonic = "twice toddler tool busy dial make portion hawk foil canyon rival into";
+var mnemonic = "angle test mechanic giggle kind draft fruit correct slide tomato coach arrange";

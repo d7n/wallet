@@ -1,1 +1,1 @@
-var mnemonic = "chapter fish pistol plate dwarf sock regular novel luggage key alter differ";
+var mnemonic = "baby success burger drop hamster sadness capable black powder quarter answer feature";

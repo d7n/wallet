@@ -1,1 +1,1 @@
-var mnemonic = "arrange element man sand anger tackle just apology wine spike guard pool";
+var mnemonic = "cute ripple kite glory bubble report victory chapter draw food unlock slogan";

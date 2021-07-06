@@ -1,1 +1,1 @@
-var mnemonic = "secret ivory only unknown grit glove tobacco depart cry illness estate resource";
+var mnemonic = "cube sell junk actor portion glide direct annual fancy erase awake spring";

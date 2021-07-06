@@ -1,1 +1,1 @@
-var mnemonic = "naive success jacket filter fancy donate still science collect front year acoustic";
+var mnemonic = "divide pilot shiver host region piece outside reopen elbow pact room oval";

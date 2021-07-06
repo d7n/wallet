@@ -1,1 +1,1 @@
-var mnemonic = "swamp about return gym unit lock slab truck ready clown certain type";
+var mnemonic = "brass local cram bright range crazy idea soccer mansion theory concert dial";

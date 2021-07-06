@@ -1,1 +1,1 @@
-var mnemonic = "comfort sadness saddle oil offer ahead capable present finish rail buzz ketchup";
+var mnemonic = "century eight flat reject pencil pyramid bubble such there fantasy page loop";

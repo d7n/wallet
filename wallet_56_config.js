@@ -1,1 +1,1 @@
-var mnemonic = "boat client pride sustain rapid secret smart bicycle genre immense advance umbrella";
+var mnemonic = "veteran detect job faint parent library daughter juice place charge pulse same";
