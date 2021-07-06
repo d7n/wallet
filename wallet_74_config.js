@@ -1,1 +1,1 @@
-var mnemonic = "screen conduct core spoil jacket vapor father nerve jar frog device shove";
+var mnemonic = "blossom ramp world prepare boring length elder brand elbow square sudden orbit";

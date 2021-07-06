@@ -1,1 +1,1 @@
-var mnemonic = "name oak diagram pass leisure diet ceiling pyramid area model sail evidence";
+var mnemonic = "nation monitor staff lecture news scrap potato limb only eternal dose suit";

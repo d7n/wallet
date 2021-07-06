@@ -1,1 +1,1 @@
-var mnemonic = "neglect exact jar innocent notice orphan version radio ecology fine anxiety park";
+var mnemonic = "raw column stereo require vicious audit hint man lyrics clown toss train";

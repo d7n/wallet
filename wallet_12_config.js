@@ -1,1 +1,1 @@
-var mnemonic = "smoke ridge card jacket pen maze ladder surprise swing fall where submit";
+var mnemonic = "air cover stick fame win impact invest orange today permit section crouch";

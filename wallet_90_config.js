@@ -1,1 +1,1 @@
-var mnemonic = "piano dust prize bleak pelican clarify cage soap similar relax myself hair";
+var mnemonic = "harbor immune salt cheap twice hire pipe destroy venue lava dignity pull";

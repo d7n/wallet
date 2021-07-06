@@ -1,1 +1,1 @@
-var mnemonic = "crush pottery sure just hurdle width small nature disease silent example oval";
+var mnemonic = "exclude turtle ceiling brick crater weather abandon advance broken trial satisfy feed";

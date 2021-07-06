@@ -1,1 +1,1 @@
-var mnemonic = "effort leopard attend hood lake ancient estate grief sun remind zone heart";
+var mnemonic = "liquid whale exile traffic stool master fringe mango champion napkin exercise entire";

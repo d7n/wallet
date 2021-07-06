@@ -1,1 +1,1 @@
-var mnemonic = "focus adult actor method degree tobacco grab object infant diary estate glue";
+var mnemonic = "immune receive border coin celery huge profit another wire memory boat reflect";

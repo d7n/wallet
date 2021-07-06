@@ -1,1 +1,1 @@
-var mnemonic = "innocent law parrot talent because buyer huge deal diet company immune story";
+var mnemonic = "boat client pride sustain rapid secret smart bicycle genre immense advance umbrella";

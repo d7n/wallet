@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow raven slide planet sister despair blast shove flight lottery ignore envelope";
+var mnemonic = "vault bright confirm interest target artefact outside horror spice trap smooth buzz";

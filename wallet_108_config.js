@@ -1,1 +1,1 @@
-var mnemonic = "garage before drive jar element final swarm eight embody advice category plastic";
+var mnemonic = "pipe there film organ cake satisfy found impulse miracle draft grass water";

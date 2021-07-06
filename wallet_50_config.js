@@ -1,1 +1,1 @@
-var mnemonic = "execute cat code cream million crisp polar attack assume robust shell census";
+var mnemonic = "fade member gossip impact century trade drip catch scrub erode easily robust";

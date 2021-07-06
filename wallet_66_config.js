@@ -1,1 +1,1 @@
-var mnemonic = "garbage fantasy mobile video pluck head sad able outer palace bid arch";
+var mnemonic = "enough put better rail love oppose sight hard seat because obtain arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty small area artist orbit shoot march talent wage timber ginger harbor";
+var mnemonic = "turn logic twelve inspire source lock kangaroo wave special earth grocery left";

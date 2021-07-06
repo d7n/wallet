@@ -1,1 +1,1 @@
-var mnemonic = "cabbage drive wheel squirrel trial wait pink coast index fiction bicycle girl";
+var mnemonic = "side slab renew yard warfare jewel seat auto before mirror enter auto";

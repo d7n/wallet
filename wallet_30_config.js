@@ -1,1 +1,1 @@
-var mnemonic = "flower type plastic energy exotic spell bomb differ door confirm humor chaos";
+var mnemonic = "secret ivory only unknown grit glove tobacco depart cry illness estate resource";

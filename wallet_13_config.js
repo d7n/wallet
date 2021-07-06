@@ -1,1 +1,1 @@
-var mnemonic = "zebra circle property quarter hamster abstract cover become sister build bundle digital";
+var mnemonic = "love enrich wagon major grocery harsh police maze basket either violin hour";

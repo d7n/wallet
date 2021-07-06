@@ -1,1 +1,1 @@
-var mnemonic = "bright negative crouch law act fossil turn beach neutral fame umbrella verb";
+var mnemonic = "coconut dutch fashion unveil leave radio maze wife cook slow build sibling";

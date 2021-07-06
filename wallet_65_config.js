@@ -1,1 +1,1 @@
-var mnemonic = "possible trigger maximum need asthma verify helmet shield true fragile excite area";
+var mnemonic = "hip reject ancient island visa order peanut rescue rally rough wing turtle";

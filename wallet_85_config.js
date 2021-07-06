@@ -1,1 +1,1 @@
-var mnemonic = "gift dinosaur attitude empower tomato broccoli garbage cup west dice total cash";
+var mnemonic = "funny client kite science service crawl black service weasel monitor circle enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas solve essence inch cherry clump miss pigeon laugh ostrich moral eagle";
+var mnemonic = "poverty anchor tray shop equip ring social expect keep review diary quantum";

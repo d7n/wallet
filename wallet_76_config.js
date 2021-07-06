@@ -1,1 +1,1 @@
-var mnemonic = "foot jump video ignore receive arrange skin help bulk used labor ugly";
+var mnemonic = "mutual marine daughter galaxy hand myth mimic must sun mechanic lunch churn";

@@ -1,1 +1,1 @@
-var mnemonic = "problem wise start round effort couple museum medal exclude office banner approve";
+var mnemonic = "art budget between atom save bind bus napkin patrol level swap attitude";

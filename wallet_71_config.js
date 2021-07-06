@@ -1,1 +1,1 @@
-var mnemonic = "arctic silver flag flight tattoo news canoe involve extra unfold wife time";
+var mnemonic = "spring wall sort swamp grow swim sight shallow index fatal lab fresh";

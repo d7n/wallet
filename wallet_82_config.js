@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ugly inherit doll valid eight adjust female dawn nothing above blast";
+var mnemonic = "merit marine throw funny recipe team doctor because scheme vocal social school";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich desk rare impulse style leg grab easy wise hire episode prosper";
+var mnemonic = "blossom shell calm local resist box slow man mom repeat primary popular";

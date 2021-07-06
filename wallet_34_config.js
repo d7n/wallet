@@ -1,1 +1,1 @@
-var mnemonic = "upper forget museum quote purity mixed air meat sniff try pair way";
+var mnemonic = "swear execute six grid about hire potato satisfy dirt cherry fire prevent";

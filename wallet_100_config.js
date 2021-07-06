@@ -1,1 +1,1 @@
-var mnemonic = "scissors retreat surround file indoor divorce cricket scare cement drop captain just";
+var mnemonic = "unusual increase trip office payment axis sorry double elder kangaroo dirt enforce";

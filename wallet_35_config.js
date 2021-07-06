@@ -1,1 +1,1 @@
-var mnemonic = "ramp alcohol once frequent useless claim curtain object bind state always stumble";
+var mnemonic = "phone crash gospel hazard repair practice gloom bulb control display work bottom";

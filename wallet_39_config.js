@@ -1,1 +1,1 @@
-var mnemonic = "betray lobster distance diagram live peace celery coach black scatter deliver act";
+var mnemonic = "chapter fish pistol plate dwarf sock regular novel luggage key alter differ";

@@ -1,1 +1,1 @@
-var mnemonic = "total portion affair cake trophy spin topic person over omit worry bracket";
+var mnemonic = "street emotion kidney taste fame expand enlist daughter client idea art virtual";

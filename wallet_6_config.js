@@ -1,1 +1,1 @@
-var mnemonic = "muffin thrive vicious iron cabin clown clog cinnamon myth fatigue bread marble";
+var mnemonic = "hockey manual bracket feed sell library grace aware blast unaware unveil able";

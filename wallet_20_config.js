@@ -1,1 +1,1 @@
-var mnemonic = "session agree crash click fitness owner brain review original now shell click";
+var mnemonic = "pelican muffin casual alien ride ostrich novel range monster cloth wall tower";

@@ -1,1 +1,1 @@
-var mnemonic = "brick venue used gift rubber luggage view remove shed tilt discover wife";
+var mnemonic = "excuse wealth transfer easily ivory news glance sand entire bike century fetch";

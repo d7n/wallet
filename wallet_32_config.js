@@ -1,1 +1,1 @@
-var mnemonic = "pride resemble skate solid matter balcony social walnut beyond side west talk";
+var mnemonic = "hood motor arena air ranch extend armed survey cement blade confirm kind";

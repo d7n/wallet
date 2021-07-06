@@ -1,1 +1,1 @@
-var mnemonic = "warfare dutch crowd sad luxury govern cupboard inner entry judge pattern sick";
+var mnemonic = "sausage decade fence south ritual abandon predict junior ecology school bar edge";

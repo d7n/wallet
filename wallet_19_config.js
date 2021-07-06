@@ -1,1 +1,1 @@
-var mnemonic = "peace enough subject elder gasp forget uphold assault title soldier case hundred";
+var mnemonic = "guess asset monster civil alter border miracle now prevent settle acoustic document";

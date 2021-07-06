@@ -1,1 +1,1 @@
-var mnemonic = "long cinnamon try bounce guard chat unaware pitch stick sausage guide check";
+var mnemonic = "boost punch dumb tray cook globe word race sick decide violin tiger";

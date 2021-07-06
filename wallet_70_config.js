@@ -1,1 +1,1 @@
-var mnemonic = "fever nuclear include harsh pumpkin allow inherit rough maple suit cloud area";
+var mnemonic = "inspire into coyote estate cake cross razor chapter spoon churn deliver moral";

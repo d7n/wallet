@@ -1,1 +1,1 @@
-var mnemonic = "scout loud child lamp broccoli outer vote ask front pond tattoo chalk";
+var mnemonic = "chunk palm spatial whisper second hen broken erosion journey screen neck drop";

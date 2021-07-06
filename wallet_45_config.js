@@ -1,1 +1,1 @@
-var mnemonic = "cage raven clarify dune type nerve cool logic art link song rival";
+var mnemonic = "embark erase swap plastic someone spoon school velvet need wedding badge luxury";

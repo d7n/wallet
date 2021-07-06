@@ -1,1 +1,1 @@
-var mnemonic = "cube antique inquiry twelve express payment hello balcony muffin region daughter giraffe";
+var mnemonic = "arrange element man sand anger tackle just apology wine spike guard pool";

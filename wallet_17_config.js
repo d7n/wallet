@@ -1,1 +1,1 @@
-var mnemonic = "flush buffalo nature ceiling dizzy tag trouble grid cook know produce clever";
+var mnemonic = "suffer harsh any rubber width ritual system spider crack dove morning pelican";

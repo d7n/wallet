@@ -1,1 +1,1 @@
-var mnemonic = "battle suspect play tired library that ride rude ignore drop blast home";
+var mnemonic = "smooth cannon debris cook light document cycle lucky include manage diamond tuition";

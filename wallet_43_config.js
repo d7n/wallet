@@ -1,1 +1,1 @@
-var mnemonic = "miracle addict travel turkey bulk river ecology peanut burst air truth wife";
+var mnemonic = "twice toddler tool busy dial make portion hawk foil canyon rival into";

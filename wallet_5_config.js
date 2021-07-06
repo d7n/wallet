@@ -1,1 +1,1 @@
-var mnemonic = "joke panic kid jeans climb struggle illness number scare issue bulk section";
+var mnemonic = "upset ahead heavy rose chat entire absorb slow lawsuit domain derive loop";

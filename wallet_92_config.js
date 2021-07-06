@@ -1,1 +1,1 @@
-var mnemonic = "disorder angle book opinion mercy concert legal dirt pistol token frequent spoil";
+var mnemonic = "indicate pizza forum also together rice maximum nuclear demise clinic wonder above";

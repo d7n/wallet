@@ -1,1 +1,1 @@
-var mnemonic = "slow region leopard salute share chaos liberty unveil fiction corn vintage boil";
+var mnemonic = "matrix robot dizzy piece cable define grape great various treat engine exchange";

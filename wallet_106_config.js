@@ -1,1 +1,1 @@
-var mnemonic = "crawl language aerobic moral trophy label proof teach stage lesson toast reward";
+var mnemonic = "small weird candy enter rebel luxury bleak rent armor tip mistake nerve";

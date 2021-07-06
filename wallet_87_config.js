@@ -1,1 +1,1 @@
-var mnemonic = "text march fringe popular ask saddle peasant property cart woman own rack";
+var mnemonic = "outdoor talent empty amazing siren bundle crush rely choice bleak lock emerge";

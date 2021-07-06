@@ -1,1 +1,1 @@
-var mnemonic = "rookie cargo display truth nasty kiwi film assist such habit physical oyster";
+var mnemonic = "soccer task mistake profit horn fabric human omit naive tag spoil sense";

@@ -1,1 +1,1 @@
-var mnemonic = "shop idea piece flip load ticket lion inner release estate friend uphold";
+var mnemonic = "alcohol crack sheriff logic orbit glare now chair famous hole dust wise";

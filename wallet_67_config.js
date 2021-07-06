@@ -1,1 +1,1 @@
-var mnemonic = "predict install brush delay rely aim resource palace tree never lawn bottom";
+var mnemonic = "tiny need menu render kite exchange design fan exile rent brief priority";

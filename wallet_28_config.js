@@ -1,1 +1,1 @@
-var mnemonic = "render there property step palm element execute vintage panda wealth average vital";
+var mnemonic = "inform million replace produce busy exist allow first visa female vibrant place";

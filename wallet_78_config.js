@@ -1,1 +1,1 @@
-var mnemonic = "super name okay amount logic caution enforce multiply club bamboo display game";
+var mnemonic = "arch toy gas purse flame exile bronze tail hurry where soccer sudden";

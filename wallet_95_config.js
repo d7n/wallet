@@ -1,1 +1,1 @@
-var mnemonic = "evil original inner pill fatal door goddess father clown bachelor bonus space";
+var mnemonic = "forward abandon ignore explain mandate liar offer notable such cause toe enter";

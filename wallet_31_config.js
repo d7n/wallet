@@ -1,1 +1,1 @@
-var mnemonic = "join pave thing dynamic annual knock truly unknown cube feature cruel flower";
+var mnemonic = "blouse neutral airport quantum gloom damp live sunny absent hollow kingdom crazy";

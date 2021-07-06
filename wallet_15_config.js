@@ -1,1 +1,1 @@
-var mnemonic = "coral injury buzz client debate aerobic stadium dirt derive win camp hungry";
+var mnemonic = "comfort sadness saddle oil offer ahead capable present finish rail buzz ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee gas enemy cable bird escape milk laugh wolf multiply obscure shop";
+var mnemonic = "fragile glare proof merge park squeeze problem seek narrow aware surprise admit";

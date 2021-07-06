@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon key deposit useless judge moral upset slender grant bounce betray artwork";
+var mnemonic = "more prepare rich illness city muffin love allow emerge crystal arrive damp";

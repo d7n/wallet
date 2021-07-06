@@ -1,1 +1,1 @@
-var mnemonic = "devote measure birth beach catalog lecture nominee vibrant noodle select begin meadow";
+var mnemonic = "hint settle primary sort fringe heart solar bottom patient federal tragic seven";

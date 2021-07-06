@@ -1,1 +1,1 @@
-var mnemonic = "verify stable various laptop absent amount course episode game mother discover valid";
+var mnemonic = "course check spend scrub aisle degree brief motion alcohol adult process legend";

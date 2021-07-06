@@ -1,1 +1,1 @@
-var mnemonic = "truck lake problem drill exchange help divert length dragon rifle only glimpse";
+var mnemonic = "property deputy demand machine soup camera prize token casino appear curve proud";

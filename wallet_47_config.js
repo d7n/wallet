@@ -1,1 +1,1 @@
-var mnemonic = "leisure fee adjust victory glove blur glue crop soccer dwarf song weird";
+var mnemonic = "large phone behind beauty auction sphere struggle improve garbage keep dynamic tiger";

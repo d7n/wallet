@@ -1,1 +1,1 @@
-var mnemonic = "response unknown subway uncle hint loop aspect noble board spell across cheap";
+var mnemonic = "arctic pear brown where undo neck bacon kiwi desert net settle opinion";

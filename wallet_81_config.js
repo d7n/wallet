@@ -1,1 +1,1 @@
-var mnemonic = "obtain stay random logic icon jeans jaguar cash stool various walk rocket";
+var mnemonic = "naive success jacket filter fancy donate still science collect front year acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "off example slab dwarf produce owner elite topic course better spy evidence";
+var mnemonic = "diary extra satoshi prize runway ski frequent naive dinner runway praise bright";

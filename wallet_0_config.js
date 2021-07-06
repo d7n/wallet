@@ -1,1 +1,1 @@
-var mnemonic = "fly enroll quality waste lab disagree winter autumn indicate diet cram slot";
+var mnemonic = "glow illness prosper drum bamboo drink ribbon rebuild sign resource menu pole";

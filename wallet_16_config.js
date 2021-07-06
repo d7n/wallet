@@ -1,1 +1,1 @@
-var mnemonic = "travel spring cloth initial buffalo autumn clump hint flee evil ridge tenant";
+var mnemonic = "quality fuel hotel recycle describe lounge daughter load sunny lab iron leave";

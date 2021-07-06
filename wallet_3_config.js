@@ -1,1 +1,1 @@
-var mnemonic = "kiwi clean pen jaguar grass intact immune humor wear number village moment";
+var mnemonic = "task venue assault sea lonely spy message waste card clarify dose smart";

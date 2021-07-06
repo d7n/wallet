@@ -1,1 +1,1 @@
-var mnemonic = "absent wash daring logic harsh island tragic hole fringe frequent clown field";
+var mnemonic = "gallery buffalo plug split nuclear badge elite ancient wear scene verify junior";

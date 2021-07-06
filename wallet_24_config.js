@@ -1,1 +1,1 @@
-var mnemonic = "treat year resource guilt bless destroy image example media husband eyebrow welcome";
+var mnemonic = "audit group mistake feature burger biology pulp left vault giraffe athlete symptom";

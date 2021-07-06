@@ -1,1 +1,1 @@
-var mnemonic = "core census palm brown gas kiss skate auction life pool gym depend";
+var mnemonic = "ketchup mirror fever twice ritual rain excuse label vote jump width dream";

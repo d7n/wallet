@@ -1,1 +1,1 @@
-var mnemonic = "thunder silent million tunnel wet grass victory traffic wire body topic invite";
+var mnemonic = "issue sudden first velvet fire exotic better nuclear flower learn slide tent";

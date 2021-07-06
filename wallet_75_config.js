@@ -1,1 +1,1 @@
-var mnemonic = "return tenant pigeon tomato cheese curve raven erode unable cat vibrant era";
+var mnemonic = "right action define purchase business magnet grass fabric crew outer pony night";

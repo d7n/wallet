@@ -1,1 +1,1 @@
-var mnemonic = "phrase camera proof neglect simple magnet bid jelly mystery panic fit bid";
+var mnemonic = "token merry loan topic clever blur work fan bless garment eager toddler";

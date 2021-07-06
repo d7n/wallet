@@ -1,1 +1,1 @@
-var mnemonic = "outer network limit enlist useless mean spice friend subject produce cotton tuna";
+var mnemonic = "approve pull bid vague wood mule convince lumber bracket sword cause task";

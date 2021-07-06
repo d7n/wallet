@@ -1,1 +1,1 @@
-var mnemonic = "plate chase legend wave resist discover decrease switch project invest plate angry";
+var mnemonic = "assume prosper elder cabin rice purchase mountain dragon search napkin plastic regret";

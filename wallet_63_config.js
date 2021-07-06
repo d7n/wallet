@@ -1,1 +1,1 @@
-var mnemonic = "nature drink risk harvest what video first mimic shield green indoor fiber";
+var mnemonic = "fade brave fitness retire box brass aisle antenna senior rack west option";

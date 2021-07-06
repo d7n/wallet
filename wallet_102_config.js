@@ -1,1 +1,1 @@
-var mnemonic = "apology dream various leave hope profit off good gravity spot replace render";
+var mnemonic = "exhaust smooth awesome oil hood dove round unit pattern nut lottery bid";

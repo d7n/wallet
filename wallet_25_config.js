@@ -1,1 +1,1 @@
-var mnemonic = "liberty tomato crime sentence family object aspect suit rule talent forum bleak";
+var mnemonic = "ginger case law dilemma digital river fury public build soccer fork shoot";

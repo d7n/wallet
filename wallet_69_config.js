@@ -1,1 +1,1 @@
-var mnemonic = "hungry bone language badge solution school merry license capital hawk mutual slender";
+var mnemonic = "exhibit pizza monster answer slab acquire sheriff room camera summer transfer whisper";

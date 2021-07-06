@@ -1,1 +1,1 @@
-var mnemonic = "orbit worry ritual super run vault hand west sword gift spice cruise";
+var mnemonic = "park sausage excuse clog panther screen abstract bicycle include bronze random journey";

@@ -1,1 +1,1 @@
-var mnemonic = "twice sense nature draft stand lyrics thing squeeze spoon detect biology spare";
+var mnemonic = "angle until filter vessel forest burst mansion pride flat zebra fury deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "hen type together crunch device ribbon betray opinion acquire mixture cram apology";
+var mnemonic = "organ desert nature lamp design sister gossip front perfect title vintage room";

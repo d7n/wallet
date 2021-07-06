@@ -1,1 +1,1 @@
-var mnemonic = "fault album wage sphere margin patient faculty brass thought sweet image try";
+var mnemonic = "supreme save scheme sign glass notable barely tip hurdle farm card canvas";

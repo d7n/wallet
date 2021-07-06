@@ -1,1 +1,1 @@
-var mnemonic = "proof bright calm race unable place fix size focus draft mouse illegal";
+var mnemonic = "lion outdoor airport apology tunnel gauge hawk huge duck coach leaf legend";

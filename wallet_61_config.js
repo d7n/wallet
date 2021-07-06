@@ -1,1 +1,1 @@
-var mnemonic = "morning galaxy flight else vast dinner finger spice benefit hire coach rice";
+var mnemonic = "ball leave grab dolphin invest reveal already yard jaguar cinnamon wing jealous";

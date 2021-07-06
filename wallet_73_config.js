@@ -1,1 +1,1 @@
-var mnemonic = "rally junk height middle surface void unique enhance since brand public spirit";
+var mnemonic = "radio unaware narrow virtual office twenty lunch legal almost dust dinosaur upon";

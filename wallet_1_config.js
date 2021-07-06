@@ -1,1 +1,1 @@
-var mnemonic = "decline poem sunny monitor bridge battle skirt win core afraid space donkey";
+var mnemonic = "sauce offer file hamster grid state sword radio accident transfer swim because";
