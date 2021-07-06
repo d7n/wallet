@@ -1,1 +1,1 @@
-var mnemonic = "blue ginger tent segment cancel hundred calm obey pitch glow cattle cream";
+var mnemonic = "aisle dolphin mom people drive metal pull fetch gasp oven beauty romance";

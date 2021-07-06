@@ -1,1 +1,1 @@
-var mnemonic = "endorse banana hour absurd solve fruit praise tiger release pitch beach engine";
+var mnemonic = "tiny prefer abstract echo donor ketchup style dynamic skull develop use stem";

@@ -1,1 +1,1 @@
-var mnemonic = "oil road claim letter extra hen govern mean blade lottery must brown";
+var mnemonic = "nuclear rent army safe lady symptom phrase subway vibrant spread program fence";

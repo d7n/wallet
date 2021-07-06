@@ -1,1 +1,1 @@
-var mnemonic = "prize silly scrub soul develop smile agent demise thing transfer tilt october";
+var mnemonic = "juice protect human charge involve era primary flush dismiss review ice apart";

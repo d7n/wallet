@@ -1,1 +1,1 @@
-var mnemonic = "define thumb spend image trip upset stairs happy diesel pull awful glass";
+var mnemonic = "ethics coast bag trial across funny differ water because toilet trip pink";

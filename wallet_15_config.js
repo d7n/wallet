@@ -1,1 +1,1 @@
-var mnemonic = "lazy desert ignore novel enhance hospital jar abstract same blur expose boost";
+var mnemonic = "column tide sausage transfer obtain way chief hungry noble dish pond name";

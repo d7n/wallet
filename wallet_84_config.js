@@ -1,1 +1,1 @@
-var mnemonic = "actual when gauge infant oyster attitude over intact dad equip science clump";
+var mnemonic = "volume spell infant borrow unhappy nest begin cram chef tell symptom motion";

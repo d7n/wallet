@@ -1,1 +1,1 @@
-var mnemonic = "situate dog talent hedgehog gallery bachelor identify outside lab onion satisfy boring";
+var mnemonic = "duty penalty dolphin company theory coast stove victory extend pilot acquire opinion";

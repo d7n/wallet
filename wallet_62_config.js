@@ -1,1 +1,1 @@
-var mnemonic = "salmon assault stamp pair valid silent effort sick arch ignore off lemon";
+var mnemonic = "excess spider trim cook october actor skin piano boy once abuse purity";

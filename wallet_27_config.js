@@ -1,1 +1,1 @@
-var mnemonic = "coyote pact measure erupt rifle lonely bus surprise waste file idea settle";
+var mnemonic = "turtle iron fuel calm super noise angle diesel battle glimpse limit pluck";

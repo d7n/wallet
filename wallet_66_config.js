@@ -1,1 +1,1 @@
-var mnemonic = "alarm price weapon insane able run able dash tree canvas wish plate";
+var mnemonic = "trick gasp retire oblige coin unfair coconut dentist wire pig win gallery";

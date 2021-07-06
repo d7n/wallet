@@ -1,1 +1,1 @@
-var mnemonic = "theme captain cake avocado ordinary nest tortoise budget virtual galaxy feature hair";
+var mnemonic = "rose lounge column ivory theme almost blind around famous spike orbit title";

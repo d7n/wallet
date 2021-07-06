@@ -1,1 +1,1 @@
-var mnemonic = "develop hamster exchange worth outer jar convince cruise acoustic pencil entry void";
+var mnemonic = "key hockey path left vapor busy draft february either beyond test guitar";

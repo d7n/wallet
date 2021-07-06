@@ -1,1 +1,1 @@
-var mnemonic = "hundred embody ship tornado rich session drift seed pluck party hat make";
+var mnemonic = "opera demand earth alone better uniform blind blush elbow diary naive life";

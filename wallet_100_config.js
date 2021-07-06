@@ -1,1 +1,1 @@
-var mnemonic = "judge latin world client neglect wire bus luggage fat error ask outside";
+var mnemonic = "food daughter ready great hub kiss spare rely find peanut luggage ten";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse taste ensure shaft deposit garden captain bench uncover weekend wash brush";
+var mnemonic = "final hotel waste crew must mechanic business front enhance resemble lion kit";

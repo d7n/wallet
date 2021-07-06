@@ -1,1 +1,1 @@
-var mnemonic = "gain trend truth junk divide quality regular ancient outside help nest file";
+var mnemonic = "zone merge whisper pulp outdoor horse bachelor install rebel affair oxygen weapon";

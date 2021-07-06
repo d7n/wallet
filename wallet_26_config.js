@@ -1,1 +1,1 @@
-var mnemonic = "social acquire zoo salute video human real unlock fury penalty embark hole";
+var mnemonic = "risk faculty boss decade leisure actor profit shoulder attend snow response hire";

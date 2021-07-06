@@ -1,1 +1,1 @@
-var mnemonic = "shop can laptop brother fluid often island nose slogan smile ceiling census";
+var mnemonic = "offer unfold dinosaur inject sunset decorate surround ride rose axis sunset chase";

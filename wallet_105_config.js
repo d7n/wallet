@@ -1,1 +1,1 @@
-var mnemonic = "thunder run tool disorder rug alpha autumn tag pledge news kangaroo maid";
+var mnemonic = "stamp solar around room comic notice wrong unfair scrub fortune fence certain";

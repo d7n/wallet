@@ -1,1 +1,1 @@
-var mnemonic = "toddler version churn movie rubber humble power rebel false marriage grunt gas";
+var mnemonic = "wrap palace wrist useful patrol labor palace camp hen shiver motor sport";

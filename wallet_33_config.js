@@ -1,1 +1,1 @@
-var mnemonic = "tank room census buzz guide parrot firm trip virtual elite toddler piano";
+var mnemonic = "spoil spot engage cause rhythm throw long model march dentist clown meat";

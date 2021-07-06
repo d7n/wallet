@@ -1,1 +1,1 @@
-var mnemonic = "raw mechanic damp genuine atom develop silly cycle slide stand whip alone";
+var mnemonic = "summer more suggest program nasty robust nice furnace anchor smile bacon armed";

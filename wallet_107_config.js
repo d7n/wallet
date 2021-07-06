@@ -1,1 +1,1 @@
-var mnemonic = "carry stable rocket ready endless mention jaguar head jelly arena lyrics custom";
+var mnemonic = "decrease timber fold autumn pelican move eager arena floor seed immune lava";

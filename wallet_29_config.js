@@ -1,1 +1,1 @@
-var mnemonic = "intact super wheat friend security clarify quarter seed shield paper girl perfect";
+var mnemonic = "add pencil quarter endorse suit unique zero involve salmon eternal depend cry";

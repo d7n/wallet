@@ -1,1 +1,1 @@
-var mnemonic = "column moment sudden orchard lounge gold toward rocket latin believe dry dust";
+var mnemonic = "stool hammer lion law mimic six tissue citizen track enemy expose tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "job lesson nuclear margin girl raccoon coach grocery cluster horn burst large";
+var mnemonic = "expose girl rebuild roast add position ice fade heavy swim tunnel useful";

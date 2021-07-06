@@ -1,1 +1,1 @@
-var mnemonic = "artist can furnace autumn file media guitar tissue alien time era combine";
+var mnemonic = "siren quick meadow mother risk between lion common inside oyster other dynamic";

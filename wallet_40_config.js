@@ -1,1 +1,1 @@
-var mnemonic = "moment safe zebra crunch father thrive unusual ensure kit hope banner height";
+var mnemonic = "hint prison web lift wrist couple lady off shaft knife spare knife";

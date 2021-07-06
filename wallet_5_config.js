@@ -1,1 +1,1 @@
-var mnemonic = "nephew system kit inmate utility box educate mask laptop route glide bargain";
+var mnemonic = "cart legal inch riot right melody possible ripple exhibit muffin inmate artefact";

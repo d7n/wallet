@@ -1,1 +1,1 @@
-var mnemonic = "unveil blood rack polar know exist hen pelican penalty large age clog";
+var mnemonic = "match strike burst hole beyond song final evil clutch silly reunion remind";

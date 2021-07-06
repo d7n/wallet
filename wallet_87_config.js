@@ -1,1 +1,1 @@
-var mnemonic = "film divide swallow theme wheat width twin bronze ask hat sheriff village";
+var mnemonic = "lady walk grocery laptop resource aunt protect frog deliver obscure excess topple";

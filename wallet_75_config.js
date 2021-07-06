@@ -1,1 +1,1 @@
-var mnemonic = "aware patch maze able question pumpkin identify hungry flip fly valve frequent";
+var mnemonic = "upgrade dynamic chair trash sense what ketchup asthma fabric rose economy flat";

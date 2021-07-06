@@ -1,1 +1,1 @@
-var mnemonic = "hole tiny dumb mushroom little design nominee buddy switch bleak laundry output";
+var mnemonic = "just casino unhappy grace voyage flash brick live eagle across genius blast";

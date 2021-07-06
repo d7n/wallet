@@ -1,1 +1,1 @@
-var mnemonic = "rude nothing inquiry unit clog hero barely recall dizzy rack despair valley";
+var mnemonic = "bottom success consider game month enforce blame super host fashion galaxy pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz solid cave ritual trumpet harbor damage swim pyramid enough multiply voice";
+var mnemonic = "success language win figure hotel actual culture reform certain debate earth right";

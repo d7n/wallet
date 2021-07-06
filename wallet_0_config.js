@@ -1,1 +1,1 @@
-var mnemonic = "fox maximum army shy over festival antenna ivory edge sure fancy math";
+var mnemonic = "kangaroo plug goddess parrot illegal gym stick ritual trumpet enter artwork soldier";

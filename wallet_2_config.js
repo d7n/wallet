@@ -1,1 +1,1 @@
-var mnemonic = "fashion surprise female unusual hurry afford enrich survey van lab impose aisle";
+var mnemonic = "topple play door creek civil armed normal bike dizzy air kit cheese";

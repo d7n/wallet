@@ -1,1 +1,1 @@
-var mnemonic = "promote crouch spider budget blood act lunar skill screen trial turn above";
+var mnemonic = "stick goose cart light dove weasel unaware goose bread kind husband very";

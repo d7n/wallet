@@ -1,1 +1,1 @@
-var mnemonic = "earth pyramid method below prosper utility oyster fog bicycle two device portion";
+var mnemonic = "child top pulp unfair depend chef bone have convince clock glue mammal";

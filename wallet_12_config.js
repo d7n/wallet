@@ -1,1 +1,1 @@
-var mnemonic = "giant ginger wing train road okay sound duty route verify spin discover";
+var mnemonic = "degree shoe wall survey lamp hidden song lumber book purchase crop card";

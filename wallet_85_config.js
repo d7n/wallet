@@ -1,1 +1,1 @@
-var mnemonic = "oxygen screen hedgehog emotion scare effort ghost armor cause glide artefact casino";
+var mnemonic = "decrease toddler garage fatal gesture casino later market orchard goat stadium hub";

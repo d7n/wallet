@@ -1,1 +1,1 @@
-var mnemonic = "endorse peanut thought flame clean evidence festival oblige few friend detect certain";
+var mnemonic = "dust park promote sight dynamic oak enhance wisdom grass wear shock record";

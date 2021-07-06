@@ -1,1 +1,1 @@
-var mnemonic = "piece fold guess brand control minute myself obscure whale arch secret busy";
+var mnemonic = "animal loyal mushroom chimney flame abstract guilt escape filter deputy favorite coach";

@@ -1,1 +1,1 @@
-var mnemonic = "file judge drill defense order forward hill ocean height popular pluck protect";
+var mnemonic = "wrist floor viable practice ghost pilot nerve sport swing ready soldier polar";

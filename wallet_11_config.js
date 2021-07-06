@@ -1,1 +1,1 @@
-var mnemonic = "accident tent switch parent holiday input swing bean skate mind figure tired";
+var mnemonic = "smile ethics lava during sure bean hole clock awesome crack magnet mom";

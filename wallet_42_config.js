@@ -1,1 +1,1 @@
-var mnemonic = "foster weird found usage embark fresh stick pluck tissue script notice delay";
+var mnemonic = "release argue outdoor purchase sibling execute sadness bleak inmate series soccer cute";

@@ -1,1 +1,1 @@
-var mnemonic = "steak two siege universe clock pony gasp garden girl cage trip crisp";
+var mnemonic = "hockey envelope switch since apology rule obey whale level fork differ security";

@@ -1,1 +1,1 @@
-var mnemonic = "company deal appear token foster habit anchor business merit vendor common canoe";
+var mnemonic = "object exclude clock magic connect system olive card enough chimney rookie umbrella";

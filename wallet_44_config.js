@@ -1,1 +1,1 @@
-var mnemonic = "silent rent type trophy helmet mystery hope brand gossip flip venue roast";
+var mnemonic = "zebra sudden jazz february proud agent arena build jeans fame random you";

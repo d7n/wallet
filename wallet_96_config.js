@@ -1,1 +1,1 @@
-var mnemonic = "erosion toe agree street cake thrive prize lemon basic airport staff badge";
+var mnemonic = "because social prevent reform hedgehog shock all sunny balcony polar that belt";

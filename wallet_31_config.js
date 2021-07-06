@@ -1,1 +1,1 @@
-var mnemonic = "vault attack mixture side filter define soon blur note link manual rally";
+var mnemonic = "submit arm boat tube tuna reform critic govern luxury envelope happy try";

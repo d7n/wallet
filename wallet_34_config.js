@@ -1,1 +1,1 @@
-var mnemonic = "shy float shop hidden hotel sing robot primary flush like lonely below";
+var mnemonic = "bar swallow injury bleak once isolate pipe quit increase hunt grid urban";

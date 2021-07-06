@@ -1,1 +1,1 @@
-var mnemonic = "cruel patrol caught almost tilt attract grant mad twelve useless remind orient";
+var mnemonic = "fence family arrow egg lemon jungle until feel master morning lock want";

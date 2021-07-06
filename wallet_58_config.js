@@ -1,1 +1,1 @@
-var mnemonic = "flower oxygen thought rare state found like recipe defense inner alley nephew";
+var mnemonic = "legal drive patrol orbit old stock column fire prison subject gauge rent";

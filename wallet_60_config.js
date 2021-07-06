@@ -1,1 +1,1 @@
-var mnemonic = "celery forum prevent traffic day stadium endorse attend sugar speak nerve melt";
+var mnemonic = "rabbit pelican cost globe retire horse lawn eager quick city siege hood";

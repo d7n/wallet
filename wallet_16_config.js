@@ -1,1 +1,1 @@
-var mnemonic = "junior rocket soda admit network model bright genius disorder where sting labor";
+var mnemonic = "syrup muscle various pill glimpse laundry melody floor vanish thank valley fault";

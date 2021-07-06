@@ -1,1 +1,1 @@
-var mnemonic = "make ceiling country panda olympic boil economy helmet tomato cabbage vicious syrup";
+var mnemonic = "danger fruit arctic cat avocado citizen eager calm mixed cat rotate party";

@@ -1,1 +1,1 @@
-var mnemonic = "popular identify employ album address sudden favorite tiger tiger taste keen lucky";
+var mnemonic = "series matter crater false relief access pretty scan strong milk congress involve";

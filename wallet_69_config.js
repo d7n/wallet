@@ -1,1 +1,1 @@
-var mnemonic = "shaft field left session fat anxiety example multiply small input solution butter";
+var mnemonic = "certain unknown shoe adapt animal illness rabbit senior blade lift twist invite";

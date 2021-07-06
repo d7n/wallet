@@ -1,1 +1,1 @@
-var mnemonic = "easy youth unaware gold board trumpet merge grunt maze between long pepper";
+var mnemonic = "dawn toss island thrive permit category mix giggle candy another stand culture";

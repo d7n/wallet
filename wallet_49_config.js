@@ -1,1 +1,1 @@
-var mnemonic = "cattle surge casino sing excite dawn silly dynamic guilt combine axis brass";
+var mnemonic = "source devote chef bamboo vanish swift blue pledge daring stove twist little";

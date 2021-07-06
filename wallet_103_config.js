@@ -1,1 +1,1 @@
-var mnemonic = "theory addict slush wrestle audit pigeon water table genuine wife time list";
+var mnemonic = "bunker hobby double grow soul huge profit property novel crouch debate glide";

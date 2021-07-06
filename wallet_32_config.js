@@ -1,1 +1,1 @@
-var mnemonic = "jewel name blade tree brain mom kick ghost comfort what final paper";
+var mnemonic = "slender delay innocent aim floor catch wrist stuff dry brother wink include";

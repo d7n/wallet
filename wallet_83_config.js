@@ -1,1 +1,1 @@
-var mnemonic = "relax neutral grant wolf audit torch crew left foam sport green manage";
+var mnemonic = "riot typical smoke breeze gallery little desert churn finish select valve tiny";

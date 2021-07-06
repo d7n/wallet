@@ -1,1 +1,1 @@
-var mnemonic = "wreck antique coast render blade extra notable coach lesson little excite elegant";
+var mnemonic = "radar march junior team pair fame grass inside riot clap captain vacuum";

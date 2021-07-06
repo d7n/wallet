@@ -1,1 +1,1 @@
-var mnemonic = "wash swamp noodle anxiety pool auction refuse settle truck network online blanket";
+var mnemonic = "tornado camera company network opinion skill stock dad size urban vehicle adapt";

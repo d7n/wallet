@@ -1,1 +1,1 @@
-var mnemonic = "doctor fix gadget entry wrap method vibrant skin library ordinary patrol away";
+var mnemonic = "seminar jelly urban foil huge vacant beyond clay iron cycle cinnamon baby";

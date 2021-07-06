@@ -1,1 +1,1 @@
-var mnemonic = "tube tilt bleak spoon rather bronze major hire coyote flight meat keep";
+var mnemonic = "awake able stick tree tunnel spare wrong normal round village lady trigger";

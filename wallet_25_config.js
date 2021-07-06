@@ -1,1 +1,1 @@
-var mnemonic = "ignore refuse armed hill grit give balance oak cricket correct electric great";
+var mnemonic = "insane supply estate click jewel silent draw concert vacuum aerobic siege know";

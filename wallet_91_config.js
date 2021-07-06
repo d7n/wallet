@@ -1,1 +1,1 @@
-var mnemonic = "air divorce report warfare neutral frown later solve sibling foil always toast";
+var mnemonic = "tissue north entry void legal leaf bitter essay helmet head clap erode";

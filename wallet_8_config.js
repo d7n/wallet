@@ -1,1 +1,1 @@
-var mnemonic = "bulb creek mother sound emotion yard figure grow such valley smart reduce";
+var mnemonic = "measure diagram valley label chalk mushroom fruit mention crowd trade prepare river";

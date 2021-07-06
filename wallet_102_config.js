@@ -1,1 +1,1 @@
-var mnemonic = "history answer heavy brief index move naive age fan logic liquid side";
+var mnemonic = "give brisk exact discover stick suspect tower recipe misery below meadow tooth";

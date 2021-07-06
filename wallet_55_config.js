@@ -1,1 +1,1 @@
-var mnemonic = "bundle rug provide drink announce road cook save custom clutch lemon switch";
+var mnemonic = "shrimp story time text ugly shield frequent nominee robot prize void jacket";

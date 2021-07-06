@@ -1,1 +1,1 @@
-var mnemonic = "feature cricket decline boil illness banner seek bubble receive laugh loan predict";
+var mnemonic = "current blade marble pulse ahead jealous hole cruel small derive lecture adjust";

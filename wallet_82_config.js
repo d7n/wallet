@@ -1,1 +1,1 @@
-var mnemonic = "fashion always tree suit flavor pig dwarf dry settle address toss small";
+var mnemonic = "oxygen wonder alien foster improve input garage snack sphere oak make digital";

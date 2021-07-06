@@ -1,1 +1,1 @@
-var mnemonic = "traffic inject volcano chronic tray powder dad fiction tooth unusual answer cash";
+var mnemonic = "shy squeeze hard soup trip broom verb crash lecture glimpse metal busy";

@@ -1,1 +1,1 @@
-var mnemonic = "van energy skull mobile own short enroll science diet exact cry foot";
+var mnemonic = "wash cinnamon emotion rule stumble edit eternal brother brass dirt meat panther";

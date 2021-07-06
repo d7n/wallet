@@ -1,1 +1,1 @@
-var mnemonic = "join harbor damage robust print tool extra alarm fiction problem cancel bless";
+var mnemonic = "dish just install tired puppy poet stamp spin mistake cream spoil domain";

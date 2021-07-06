@@ -1,1 +1,1 @@
-var mnemonic = "resemble memory unhappy desk crumble column celery armor outer impact trip hazard";
+var mnemonic = "elephant cancel insect token sense pitch inspire book rain shoulder bacon junior";

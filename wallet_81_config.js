@@ -1,1 +1,1 @@
-var mnemonic = "cram hill bird stereo knock maple coast know dentist legal group north";
+var mnemonic = "put forward project brand roast balance monkey cabbage usage salmon wait jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "double hire offer soccer actress kind develop reflect comic cool reunion cement";
+var mnemonic = "beef ketchup cover pistol fabric speak purpose afraid fame napkin roof smart";

@@ -1,1 +1,1 @@
-var mnemonic = "calm sample interest door fox fame use spawn jelly type hood under";
+var mnemonic = "belt core carpet sample script response cable loan fence gift grape like";

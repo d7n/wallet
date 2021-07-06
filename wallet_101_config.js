@@ -1,1 +1,1 @@
-var mnemonic = "cross flower brass half chuckle kitchen refuse process income ghost mention session";
+var mnemonic = "drill erosion choose enjoy brown tide day snack anchor tragic galaxy advice";

@@ -1,1 +1,1 @@
-var mnemonic = "give mesh knock refuse steel domain sudden member always box plastic vintage";
+var mnemonic = "angry grid job mixture garment review worth siege piece design write ask";

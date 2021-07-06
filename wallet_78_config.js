@@ -1,1 +1,1 @@
-var mnemonic = "frog kiwi broken invite tornado chaos upset despair rapid pizza solution clip";
+var mnemonic = "empty stomach green west winner ten mimic key isolate unfair accident brush";

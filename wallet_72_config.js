@@ -1,1 +1,1 @@
-var mnemonic = "balance glide window reopen sunny exotic auction owner artwork poet caution lyrics";
+var mnemonic = "asset stove much march tray spoil quality select lava develop heavy buzz";

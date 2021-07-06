@@ -1,1 +1,1 @@
-var mnemonic = "math rough zero exclude excite exclude life boring favorite stove worth float";
+var mnemonic = "flush burden tortoise cool crisp flip vibrant close biology thunder exclude tomato";
