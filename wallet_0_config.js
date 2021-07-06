@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ranch voice lava mask addict water athlete width barely unable planet";
+var mnemonic = "naive spend bitter hope student truly stool report tonight liquid attend echo";

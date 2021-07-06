@@ -1,1 +1,1 @@
-var mnemonic = "rice payment shadow slice edit glory awkward net differ parrot truth depend";
+var mnemonic = "chimney curve harvest tongue envelope morning destroy candy celery field proof accuse";

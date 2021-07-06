@@ -1,1 +1,1 @@
-var mnemonic = "primary chaos expose lumber dash fire joy city nominee supreme brain rail";
+var mnemonic = "camera shine ship three kitchen master provide quarter clock scorpion common finish";

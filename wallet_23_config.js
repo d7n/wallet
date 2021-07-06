@@ -1,1 +1,1 @@
-var mnemonic = "raccoon vocal major degree age tuna resource play click dwarf town primary";
+var mnemonic = "royal father project disease discover fee orange empty price brass knife loud";

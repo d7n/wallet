@@ -1,1 +1,1 @@
-var mnemonic = "project dust result slight bless fashion vanish picture mobile entire need enable";
+var mnemonic = "drift double cake lava into obtain solve angle tobacco divorce narrow crack";

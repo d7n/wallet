@@ -1,1 +1,1 @@
-var mnemonic = "nose logic riot forum waste crunch trade upgrade negative rain relax carbon";
+var mnemonic = "thought goat copper grunt between barrel pave cover play country chest casual";

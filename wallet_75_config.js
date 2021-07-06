@@ -1,1 +1,1 @@
-var mnemonic = "slab auction umbrella junior dog kiss surprise satisfy tongue doll cousin donate";
+var mnemonic = "chapter quit rule cry manual upper primary start top frequent shield sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "view try sleep ghost void weasel runway patient cry raw evolve admit";
+var mnemonic = "sport call gun gold minor nasty joy toy then brave sample wine";

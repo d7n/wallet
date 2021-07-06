@@ -1,1 +1,1 @@
-var mnemonic = "coyote museum artwork vital lamp dream logic guilt together satisfy brown crumble";
+var mnemonic = "pride pupil define ability drastic daring around damp flee exile above arrow";

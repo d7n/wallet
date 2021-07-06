@@ -1,1 +1,1 @@
-var mnemonic = "aim matter fatigue member defense olive parent gap again protect swap april";
+var mnemonic = "notable famous banner fashion bone know dragon where grow sponsor open visit";

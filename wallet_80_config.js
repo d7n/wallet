@@ -1,1 +1,1 @@
-var mnemonic = "hint estate reunion market arm divide illegal okay swallow ice scatter dice";
+var mnemonic = "exercise assist panther ribbon shop typical tide allow great donate jewel right";

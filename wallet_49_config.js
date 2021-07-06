@@ -1,1 +1,1 @@
-var mnemonic = "palm upon loud tail analyst mention potato wet picnic vapor fame husband";
+var mnemonic = "mobile horn early tongue bean dawn dumb situate junior tortoise property mix";

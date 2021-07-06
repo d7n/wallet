@@ -1,1 +1,1 @@
-var mnemonic = "sustain hint twice range yard cross disagree lottery flock search hint upper";
+var mnemonic = "canvas parent rain link wonder say deer aisle height column fork slender";

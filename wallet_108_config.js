@@ -1,1 +1,1 @@
-var mnemonic = "gift all artefact shed become scan rapid sort clap physical fragile struggle";
+var mnemonic = "debate unlock mass eternal happy claw gap offer slogan flip sausage drill";

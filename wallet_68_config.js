@@ -1,1 +1,1 @@
-var mnemonic = "churn slender pear pave orphan insane stem view trash summer film style";
+var mnemonic = "salute radio agent cycle praise grace ignore ask slogan custom occur manage";

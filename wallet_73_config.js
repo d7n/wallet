@@ -1,1 +1,1 @@
-var mnemonic = "impact humor shrug antique phrase like flower dose earth vehicle ask little";
+var mnemonic = "bundle fetch small ugly track erase throw long sadness pass wear medal";

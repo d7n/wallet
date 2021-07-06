@@ -1,1 +1,1 @@
-var mnemonic = "faculty sniff mouse love upon raw know mosquito manual festival embark develop";
+var mnemonic = "top opera family laugh dress machine stuff spring sleep conduct spawn fresh";

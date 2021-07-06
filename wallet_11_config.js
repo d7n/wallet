@@ -1,1 +1,1 @@
-var mnemonic = "impulse magnet enter spoon tomato yellow require umbrella sugar primary luggage broom";
+var mnemonic = "scheme gospel inherit weird refuse receive desert afraid syrup pupil toast cross";

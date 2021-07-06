@@ -1,1 +1,1 @@
-var mnemonic = "culture assault option flavor title glide screen goddess city segment rule spend";
+var mnemonic = "control raccoon talent brave pool retire negative milk system cream auto turkey";

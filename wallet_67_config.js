@@ -1,1 +1,1 @@
-var mnemonic = "claw retire protect merry auto habit space box arctic sausage saddle vendor";
+var mnemonic = "enough trick float inflict law there warrior enjoy exotic bulk visit moral";

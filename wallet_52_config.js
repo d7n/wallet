@@ -1,1 +1,1 @@
-var mnemonic = "already region display catch honey diagram fashion frog display bracket oak canoe";
+var mnemonic = "portion sunset derive lazy cream obscure radar seat coach avocado aerobic near";

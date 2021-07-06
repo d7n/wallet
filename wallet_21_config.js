@@ -1,1 +1,1 @@
-var mnemonic = "pole popular rubber thunder east insane occur present expand repeat toilet allow";
+var mnemonic = "alpha clown holiday disagree rather royal alter begin seven paddle hurdle hope";

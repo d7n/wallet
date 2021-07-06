@@ -1,1 +1,1 @@
-var mnemonic = "ranch sleep kingdom resist despair install render hamster modify pioneer obvious symptom";
+var mnemonic = "february room ritual school advice ostrich furnace object human vintage choice potato";

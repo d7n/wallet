@@ -1,1 +1,1 @@
-var mnemonic = "crew coil arrange prosper chapter find tone torch cover mention suffer label";
+var mnemonic = "phone harsh melody gas refuse mosquito garage style poverty unaware process coast";

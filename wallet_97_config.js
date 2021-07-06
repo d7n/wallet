@@ -1,1 +1,1 @@
-var mnemonic = "genre october orphan tray hobby token duck measure round depend put casino";
+var mnemonic = "rude build scale drive scrub side lecture pride frog evil record message";

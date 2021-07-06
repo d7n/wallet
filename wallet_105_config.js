@@ -1,1 +1,1 @@
-var mnemonic = "lazy human eager define labor reject forward fat level orange candy check";
+var mnemonic = "industry spy window hamster indicate student relief sudden brown simple wise olympic";

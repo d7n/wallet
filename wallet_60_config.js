@@ -1,1 +1,1 @@
-var mnemonic = "confirm eagle voice sea body senior breeze eight suspect cactus lamp since";
+var mnemonic = "estate transfer angry service six believe rib tool obtain sibling task lesson";

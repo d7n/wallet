@@ -1,1 +1,1 @@
-var mnemonic = "engine humor stable wife kangaroo service flock female blossom notable actress ring";
+var mnemonic = "swap asthma damp chair trend special sheriff pistol all argue rain village";

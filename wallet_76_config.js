@@ -1,1 +1,1 @@
-var mnemonic = "awkward worth fork paddle panel ensure come lottery walk also tobacco bacon";
+var mnemonic = "galaxy lesson link round crazy wheel long noodle plastic pepper dumb hero";

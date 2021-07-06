@@ -1,1 +1,1 @@
-var mnemonic = "peanut abstract offer pig struggle decide clever shed steak divide credit skull";
+var mnemonic = "bridge armor shift salmon leaf cannon beach parrot vehicle capable mixture badge";

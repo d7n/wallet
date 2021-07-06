@@ -1,1 +1,1 @@
-var mnemonic = "surround picture cat liquid aspect behind wisdom unfold invite excuse neck section";
+var mnemonic = "penalty cactus hospital soft carry party lyrics venue armed script bottom original";

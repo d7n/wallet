@@ -1,1 +1,1 @@
-var mnemonic = "allow reunion baby stamp curtain exit clown minor predict illness spice black";
+var mnemonic = "symptom model hunt powder fall much decade mechanic street buyer morning school";

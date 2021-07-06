@@ -1,1 +1,1 @@
-var mnemonic = "salt volcano decrease address inch month kitten orbit roast host impact perfect";
+var mnemonic = "vibrant donate stomach viable gift first minute board panther mutual aunt pool";

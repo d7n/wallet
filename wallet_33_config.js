@@ -1,1 +1,1 @@
-var mnemonic = "embrace hard nose same genre pupil donor trumpet bulk minimum repair mass";
+var mnemonic = "inform deputy wild sock prison front post end guard sting soft grass";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle year hub member join kid bright cousin acid street dance walnut";
+var mnemonic = "little purchase much fetch often kingdom claim butter spirit diamond pave equal";

@@ -1,1 +1,1 @@
-var mnemonic = "easily mistake deer accident movie misery hurt adult spend exclude parrot frost";
+var mnemonic = "dentist evidence damage pair wisdom victory payment garbage cheap dune lake fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "rice still alter strong eyebrow advance version fly tomorrow input slam hold";
+var mnemonic = "tongue recycle guess sock adjust urge appear bar romance magnet later announce";

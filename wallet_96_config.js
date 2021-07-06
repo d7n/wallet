@@ -1,1 +1,1 @@
-var mnemonic = "common soda humble subject frequent artist chef decline tennis enable nuclear ghost";
+var mnemonic = "alert outside host bronze derive song lesson leave tray company say quality";

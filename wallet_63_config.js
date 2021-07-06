@@ -1,1 +1,1 @@
-var mnemonic = "address act humble adapt abuse token surface mass witness hill undo level";
+var mnemonic = "three annual party quote miracle small detail drastic floor flower spare clever";

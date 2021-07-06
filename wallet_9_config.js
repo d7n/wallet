@@ -1,1 +1,1 @@
-var mnemonic = "spread kitten text end rib wasp broccoli joke siren immense barely turkey";
+var mnemonic = "physical solid rival rigid soldier slush protect exact craft evidence question trial";

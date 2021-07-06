@@ -1,1 +1,1 @@
-var mnemonic = "color jazz raccoon dish define window goat concert because resource rival exile";
+var mnemonic = "able direct mean ritual antenna join segment place town donate catalog enhance";

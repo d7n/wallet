@@ -1,1 +1,1 @@
-var mnemonic = "retire sock charge quality better moral donor control vintage balance chimney rebuild";
+var mnemonic = "uncle concert inherit rough emerge neck arch wreck will earth fee nasty";

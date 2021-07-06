@@ -1,1 +1,1 @@
-var mnemonic = "nurse rural vapor fiber night essence fitness base riot job alert exchange";
+var mnemonic = "apple ship much snack wrist affair credit bag various drop keen liquid";

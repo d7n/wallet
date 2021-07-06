@@ -1,1 +1,1 @@
-var mnemonic = "assault wrong identify regular blush nice library canvas caught organ still rotate";
+var mnemonic = "bleak brass rapid focus nothing gospel chimney total original anchor velvet earn";

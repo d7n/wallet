@@ -1,1 +1,1 @@
-var mnemonic = "bid truth supply adult race destroy pottery person early plate dragon cancel";
+var mnemonic = "tell balance what chef pitch chuckle aisle more know lock buddy wink";

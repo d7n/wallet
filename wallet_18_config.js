@@ -1,1 +1,1 @@
-var mnemonic = "champion upgrade distance horse ask cabin suggest pony episode race rib feed";
+var mnemonic = "remind base truck double genius interest misery cinnamon top wage fork shop";

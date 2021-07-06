@@ -1,1 +1,1 @@
-var mnemonic = "inspire twenty dry acid dentist vicious hire rib palace sad solution scrub";
+var mnemonic = "elegant wisdom claim depth daughter border produce deliver toe kite summer wet";

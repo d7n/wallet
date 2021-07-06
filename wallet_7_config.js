@@ -1,1 +1,1 @@
-var mnemonic = "canal yard ill update dwarf vault chief click caution rural envelope prepare";
+var mnemonic = "issue way mosquito local kid group pony oval couch vapor future never";

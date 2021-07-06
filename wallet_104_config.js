@@ -1,1 +1,1 @@
-var mnemonic = "tip glue release scan basic delay carpet motor unit solar cherry slender";
+var mnemonic = "gesture bottom dolphin general kid victory hedgehog tool you excess middle holiday";

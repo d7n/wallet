@@ -1,1 +1,1 @@
-var mnemonic = "human essence supply shrug hungry blossom exhibit rain clarify popular cricket couch";
+var mnemonic = "general marine impose upon worry celery razor attend trip teach lunch brother";

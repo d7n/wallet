@@ -1,1 +1,1 @@
-var mnemonic = "leisure summer alert crowd chimney judge month number gloom grape rigid deputy";
+var mnemonic = "slide skirt hill move minimum author weapon wild adjust promote equip zone";

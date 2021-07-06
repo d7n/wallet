@@ -1,1 +1,1 @@
-var mnemonic = "decide because absent please north target candy can stock aunt interest protect";
+var mnemonic = "fiber depend deer boat auto crystal neglect venue aware simple chuckle toward";

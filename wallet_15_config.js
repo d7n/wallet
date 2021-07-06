@@ -1,1 +1,1 @@
-var mnemonic = "unique tobacco inform cabin session dinosaur permit fix stock paddle horse bar";
+var mnemonic = "smooth view spatial erupt music soldier jewel frequent holiday grass happy train";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt toe frequent prison vicious lift laundry depend crystal wrist unlock village";
+var mnemonic = "foam merry promote critic reduce chuckle cotton turkey kitchen attract possible enable";

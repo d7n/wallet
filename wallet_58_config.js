@@ -1,1 +1,1 @@
-var mnemonic = "virus prize effort seat woman better chunk mushroom hospital skate ecology water";
+var mnemonic = "chest danger link build aisle eager popular only tower green spare rule";

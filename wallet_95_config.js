@@ -1,1 +1,1 @@
-var mnemonic = "giggle wink gun choice album narrow model monkey dragon insect witness physical";
+var mnemonic = "source squeeze magic estate congress phrase vibrant answer whale super peace peanut";

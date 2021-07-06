@@ -1,1 +1,1 @@
-var mnemonic = "fox offer medal ketchup donor unfair success subway pulse easily until choose";
+var mnemonic = "game connect dune survey romance system drip glue seat absorb sort vivid";

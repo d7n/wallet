@@ -1,1 +1,1 @@
-var mnemonic = "fancy soap thought carpet return again shell uncle donkey clarify pupil arrive";
+var mnemonic = "figure art run blind twenty knee cash coyote treat peanut raw olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "fade rate chat glue poem art escape damage helmet document leader coyote";
+var mnemonic = "spice once robot render loyal autumn vault tuna pretty select giraffe company";

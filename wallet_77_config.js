@@ -1,1 +1,1 @@
-var mnemonic = "blind captain enforce similar suggest life later heavy option ball pause sea";
+var mnemonic = "march rabbit embrace again debate pass drama become balance message vapor sudden";

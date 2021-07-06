@@ -1,1 +1,1 @@
-var mnemonic = "elbow chunk response movie box mammal drop green invite priority measure steel";
+var mnemonic = "laugh inherit metal wedding hundred tribe pioneer story say bone west danger";

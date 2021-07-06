@@ -1,1 +1,1 @@
-var mnemonic = "casino prevent tired ice dad piano panic degree artist embody client also";
+var mnemonic = "uncle metal supreme strong beauty debate strong liquid quality identify winter pool";

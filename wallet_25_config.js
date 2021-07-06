@@ -1,1 +1,1 @@
-var mnemonic = "nephew air shy neck mixture train orient alarm business below airport click";
+var mnemonic = "manual soldier dwarf bread primary purchase brown dose crash area catch boy";

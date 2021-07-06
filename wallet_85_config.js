@@ -1,1 +1,1 @@
-var mnemonic = "huge ensure train proof example live wonder select pole energy access dice";
+var mnemonic = "bleak dinner include coffee type sea surprise sheriff ostrich mass gauge side";

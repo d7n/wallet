@@ -1,1 +1,1 @@
-var mnemonic = "unlock tail apart buddy raw bottom spike ivory series pear hurt math";
+var mnemonic = "clerk work survey before price risk large doll tooth knock alarm ankle";

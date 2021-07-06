@@ -1,1 +1,1 @@
-var mnemonic = "turtle atom object huge ozone camp error group theory walk song judge";
+var mnemonic = "east husband undo plunge address wash evidence abstract student salad skate welcome";

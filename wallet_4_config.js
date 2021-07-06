@@ -1,1 +1,1 @@
-var mnemonic = "eagle follow then nuclear reopen fringe hunt artefact genuine trend goat step";
+var mnemonic = "salmon chaos bonus rocket path survey guess dry spray ivory detail capital";

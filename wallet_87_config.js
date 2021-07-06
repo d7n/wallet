@@ -1,1 +1,1 @@
-var mnemonic = "range skull inject name service twist crack shock one found kick zero";
+var mnemonic = "always demise critic cheese evil lonely sentence just fire panther side ridge";

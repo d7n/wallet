@@ -1,1 +1,1 @@
-var mnemonic = "good staff double industry eternal require swear mansion upgrade canvas canal interest";
+var mnemonic = "record average today grow tray grant machine cause noble they parent yard";

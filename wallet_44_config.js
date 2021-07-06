@@ -1,1 +1,1 @@
-var mnemonic = "test turtle basic awesome essence sick own any wish uncle play toward";
+var mnemonic = "rent gossip you over resemble vast client gallery sword report enjoy extend";

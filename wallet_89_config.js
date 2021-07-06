@@ -1,1 +1,1 @@
-var mnemonic = "sleep random venture device detect motion rescue across exist roof fruit help";
+var mnemonic = "acoustic ordinary cram adapt august hold plunge march erase argue neck divert";

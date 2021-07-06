@@ -1,1 +1,1 @@
-var mnemonic = "sketch fog tired tonight quiz nature wrong shallow squeeze coach solar candy";
+var mnemonic = "century diagram steak sunny order paper bulb over athlete load call page";

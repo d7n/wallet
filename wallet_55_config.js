@@ -1,1 +1,1 @@
-var mnemonic = "empower blue beach enrich bronze layer fine forest example toss cute vibrant";
+var mnemonic = "view scan chase among flag ship beach drink narrow often pupil private";

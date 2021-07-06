@@ -1,1 +1,1 @@
-var mnemonic = "stereo feed minimum mom celery horror neutral cage ship antique wing apology";
+var mnemonic = "lens affair kick gift visit excess opera system magnet gain erupt agree";

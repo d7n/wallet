@@ -1,1 +1,1 @@
-var mnemonic = "analyst imitate regret snow bicycle unlock ecology clean style minor lab lawsuit";
+var mnemonic = "sadness file elbow industry whisper session globe tissue budget mosquito often winner";

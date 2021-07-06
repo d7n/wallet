@@ -1,1 +1,1 @@
-var mnemonic = "grocery color mechanic excuse glare raccoon caught keen model december frame early";
+var mnemonic = "little express trap shaft matter notable spawn delay stereo camera cube jar";

@@ -1,1 +1,1 @@
-var mnemonic = "upper give fatigue clip owner there entry edit edge zero raise nephew";
+var mnemonic = "hamster indicate palm empty zone mountain regret recipe swear creek tilt tonight";

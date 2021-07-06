@@ -1,1 +1,1 @@
-var mnemonic = "spawn fox pioneer sign fitness into flight aim catalog feature scrub garlic";
+var mnemonic = "index horn grid bean artist diagram author impact barely hen ethics wise";

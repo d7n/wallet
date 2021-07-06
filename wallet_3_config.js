@@ -1,1 +1,1 @@
-var mnemonic = "story stairs inherit combine slim behind random sick reduce antique disagree alien";
+var mnemonic = "habit era arrive cage abstract enemy festival mystery phone crowd label kid";

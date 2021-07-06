@@ -1,1 +1,1 @@
-var mnemonic = "length gold weapon erosion brass also one antique illness heavy hole oven";
+var mnemonic = "rally inside child away own argue kiss arena recycle crime give envelope";

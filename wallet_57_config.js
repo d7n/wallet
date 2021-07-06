@@ -1,1 +1,1 @@
-var mnemonic = "cube ugly budget correct achieve flavor matrix connect tape champion humor crumble";
+var mnemonic = "omit silly tragic fine travel funny suspect music garlic outer shock neutral";

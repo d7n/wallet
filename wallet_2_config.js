@@ -1,1 +1,1 @@
-var mnemonic = "risk raise stick congress valid sail throw found method spell sister swift";
+var mnemonic = "inner embody pipe turn deliver film fatigue swamp item buyer bubble expect";

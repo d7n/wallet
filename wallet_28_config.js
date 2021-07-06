@@ -1,1 +1,1 @@
-var mnemonic = "cream vacant detect toward siege material unveil under sorry where soul bind";
+var mnemonic = "shaft spare delay space axis sugar clay flock unique consider mystery infant";

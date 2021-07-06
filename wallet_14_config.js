@@ -1,1 +1,1 @@
-var mnemonic = "vivid engage priority dash rally include decrease hurdle code silly ceiling treat";
+var mnemonic = "swear lucky april exotic video wrap drum cage rabbit update foot property";

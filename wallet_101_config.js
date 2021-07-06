@@ -1,1 +1,1 @@
-var mnemonic = "call youth artwork balance donate chest viable glimpse among small recycle siren";
+var mnemonic = "innocent round trend when blouse earn spawn bamboo mail spray boring adult";

@@ -1,1 +1,1 @@
-var mnemonic = "duty damage year stay crash high rare chapter theory response exact melt";
+var mnemonic = "property senior antenna winter drum remember three outside favorite upset scene shock";

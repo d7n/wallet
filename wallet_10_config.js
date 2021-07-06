@@ -1,1 +1,1 @@
-var mnemonic = "capital chaos chunk wish thought auto tourist dynamic rubber despair regret abandon";
+var mnemonic = "program coconut toast only they disorder tiger device that secret boost trouble";
