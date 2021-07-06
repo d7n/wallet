@@ -1,1 +1,1 @@
-var mnemonic = "broccoli music conduct auto panel sun craft interest fish family sleep glow";
+var mnemonic = "visit luggage hungry soul keep much vibrant useful soap utility vital number";

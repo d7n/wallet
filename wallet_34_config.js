@@ -1,1 +1,1 @@
-var mnemonic = "crater want giant harvest father catch spin student maximum enhance venue close";
+var mnemonic = "title vendor fee weather cinnamon spike cousin hungry angle wagon verify photo";

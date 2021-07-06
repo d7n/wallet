@@ -1,1 +1,1 @@
-var mnemonic = "noble tattoo solar fault cushion mistake update neck sugar protect river baby";
+var mnemonic = "phrase long danger toast section grunt deal claw bonus track zoo daughter";

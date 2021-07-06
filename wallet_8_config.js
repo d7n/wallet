@@ -1,1 +1,1 @@
-var mnemonic = "pave episode glove tone scissors burden meat foster jungle caution card enable";
+var mnemonic = "announce demand economy away hard hair boat water elite scout renew gain";

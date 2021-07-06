@@ -1,1 +1,1 @@
-var mnemonic = "much mother destroy curtain hint inform repeat crumble wise rent kind nurse";
+var mnemonic = "alcohol jeans play tent second spike viable ticket achieve genre only person";

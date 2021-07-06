@@ -1,1 +1,1 @@
-var mnemonic = "hungry library tool initial recycle season base collect hello cook soccer draft";
+var mnemonic = "panic element post heavy all range daughter sample hobby flock ten plunge";

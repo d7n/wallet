@@ -1,1 +1,1 @@
-var mnemonic = "candy husband staff verb focus pledge puppy merit lens diet innocent update";
+var mnemonic = "elder duck lazy first option negative rhythm remain convince when long cereal";

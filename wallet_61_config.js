@@ -1,1 +1,1 @@
-var mnemonic = "give skin rival plastic typical cool metal confirm clap wear nice pilot";
+var mnemonic = "nature token case trend wheat eight popular oxygen hobby clump feel rail";

@@ -1,1 +1,1 @@
-var mnemonic = "whip emotion assault envelope sadness radio stay derive food predict buyer safe";
+var mnemonic = "engage project copper pepper rebel resource suffer exotic birth black fork vehicle";

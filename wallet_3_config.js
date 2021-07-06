@@ -1,1 +1,1 @@
-var mnemonic = "civil taxi violin reduce sock grass hurdle venture click ancient credit carpet";
+var mnemonic = "identify letter used define gym budget mix media seek grant valid garbage";

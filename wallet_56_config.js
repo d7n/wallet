@@ -1,1 +1,1 @@
-var mnemonic = "crazy marine program salmon dose frame rigid oval apple clown air clump";
+var mnemonic = "ancient book match analyst moment hover put asset infant roof enemy tray";

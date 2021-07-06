@@ -1,1 +1,1 @@
-var mnemonic = "style protect wait sketch memory rare toy goddess slot bridge keep agree";
+var mnemonic = "brisk lunar damp document brush trigger engage jazz hamster lottery frequent wide";

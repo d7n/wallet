@@ -1,1 +1,1 @@
-var mnemonic = "alley oak warfare economy half arrow vapor gauge jaguar loyal garment tone";
+var mnemonic = "sure clown unhappy furnace rabbit clay trial harvest caught mule attitude steel";

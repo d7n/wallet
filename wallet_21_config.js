@@ -1,1 +1,1 @@
-var mnemonic = "custom dignity crush dwarf quit arrange chase depart struggle pink slight gallery";
+var mnemonic = "solve relief whip okay dizzy agent brain noble surge drastic ahead tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle injury ready shock guilt found throw age lens absorb cheese fantasy";
+var mnemonic = "lava flight fade battle woman twin choose nothing couple small jeans easy";

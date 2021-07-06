@@ -1,1 +1,1 @@
-var mnemonic = "thunder cradle friend nice bid neglect cabbage slice crazy ski damp indicate";
+var mnemonic = "still please enough high joy effort hope owner approve always then grunt";

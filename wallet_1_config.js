@@ -1,1 +1,1 @@
-var mnemonic = "man steel scrap strong brick more present matrix coast venture gorilla stand";
+var mnemonic = "truly grape comfort marble put oblige spy alert fame blush face rib";

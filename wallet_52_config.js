@@ -1,1 +1,1 @@
-var mnemonic = "have shaft rhythm attract practice almost junior blossom hobby cupboard sense seven";
+var mnemonic = "still lady zero almost thrive gas sniff relax draw alien junior hurry";

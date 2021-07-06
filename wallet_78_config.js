@@ -1,1 +1,1 @@
-var mnemonic = "gaze unlock garment attract hello clutch escape collect satoshi weekend cry dash";
+var mnemonic = "country text remain swear pencil bright zero ticket battle addict kite estate";

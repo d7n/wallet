@@ -1,1 +1,1 @@
-var mnemonic = "trick naive lucky bicycle ladder narrow neither nothing guitar pattern ahead onion";
+var mnemonic = "update misery label diamond split upgrade soap route benefit core dentist unveil";

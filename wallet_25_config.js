@@ -1,1 +1,1 @@
-var mnemonic = "ridge alone fox dust sense snow gentle borrow school zone force pet";
+var mnemonic = "stick gown siege rubber sure fitness tonight track absent blind saddle photo";

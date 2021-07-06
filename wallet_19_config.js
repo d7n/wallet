@@ -1,1 +1,1 @@
-var mnemonic = "grace dune blade eagle job path kangaroo digital round nominee dumb tongue";
+var mnemonic = "eternal wagon daring mistake peasant uphold grain syrup blood alert owner month";

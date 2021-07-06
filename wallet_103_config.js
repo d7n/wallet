@@ -1,1 +1,1 @@
-var mnemonic = "ship lounge jungle flower loyal wheel wait bachelor level below scene cancel";
+var mnemonic = "earn focus sphere amused call absent combine wedding supply space warfare exercise";

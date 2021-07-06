@@ -1,1 +1,1 @@
-var mnemonic = "estate cannon ozone rely layer approve wet cricket post kit answer scheme";
+var mnemonic = "fragile cancel talk draft company cause lonely dilemma alarm soda skate useless";

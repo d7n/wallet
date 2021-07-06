@@ -1,1 +1,1 @@
-var mnemonic = "stairs slab night curtain clay pen wink client mention inquiry enjoy second";
+var mnemonic = "twenty twist canoe embrace cry photo there post piece private dream point";

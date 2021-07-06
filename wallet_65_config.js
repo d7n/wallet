@@ -1,1 +1,1 @@
-var mnemonic = "play best section dry staff found spend inform elbow expose stem guilt";
+var mnemonic = "there switch suggest suspect stereo discover cactus begin two tiger dress crush";

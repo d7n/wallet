@@ -1,1 +1,1 @@
-var mnemonic = "furnace soon imitate always morning soap park where jewel hand useful settle";
+var mnemonic = "mixture laugh all average clap talent monkey danger cave paper donate board";

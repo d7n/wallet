@@ -1,1 +1,1 @@
-var mnemonic = "hood leisure interest object mimic tail follow capable valley waste mansion rely";
+var mnemonic = "tail capital curious remind love control sight bulk bubble midnight fall jealous";

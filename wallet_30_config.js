@@ -1,1 +1,1 @@
-var mnemonic = "ability skin old relax exist senior good kingdom divide thunder swamp sand";
+var mnemonic = "nurse bacon expand review embark song obscure where delay hurdle solution choose";

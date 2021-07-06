@@ -1,1 +1,1 @@
-var mnemonic = "blast swift shiver mobile sauce buddy fence curious around tenant renew street";
+var mnemonic = "mosquito outer very pepper rack upon behave delay verify valid swim cook";

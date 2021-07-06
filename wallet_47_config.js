@@ -1,1 +1,1 @@
-var mnemonic = "endorse grow luxury skill rapid feed peace bar lonely reject now funny";
+var mnemonic = "price impulse era skill poverty crack stock cook invite blouse dirt symbol";

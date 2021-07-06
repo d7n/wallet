@@ -1,1 +1,1 @@
-var mnemonic = "small sand blood portion rely inquiry ceiling evil scrap case decorate cabbage";
+var mnemonic = "total soccer flavor rally federal fee cup thing hello disease oppose process";

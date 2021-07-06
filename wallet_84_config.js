@@ -1,1 +1,1 @@
-var mnemonic = "problem guard enter cinnamon suffer hour shock oppose ring viable vault also";
+var mnemonic = "correct knock swear sure idea wine kiwi like company smoke result scout";

@@ -1,1 +1,1 @@
-var mnemonic = "session lens park mail there wise dust vague head universe current estate";
+var mnemonic = "kidney inflict fish swim dry forest volume come mobile enemy chair print";

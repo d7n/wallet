@@ -1,1 +1,1 @@
-var mnemonic = "edge you network spatial fetch number fox holiday round negative urban electric";
+var mnemonic = "anxiety issue put erupt aim crush shiver insane sunny lumber million enlist";

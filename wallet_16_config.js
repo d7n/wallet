@@ -1,1 +1,1 @@
-var mnemonic = "rebuild enact gown level blur design above vapor lamp great label garbage";
+var mnemonic = "chat whale fish enemy someone orange cable opera absorb flavor bright gasp";

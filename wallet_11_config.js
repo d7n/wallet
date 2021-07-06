@@ -1,1 +1,1 @@
-var mnemonic = "march milk friend cradle match shop celery fury inside agree shadow practice";
+var mnemonic = "couple possible minute river punch ocean this frost unit fury input certain";

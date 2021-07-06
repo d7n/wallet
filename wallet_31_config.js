@@ -1,1 +1,1 @@
-var mnemonic = "measure short obey empty exclude home benefit man moon village duck salute";
+var mnemonic = "denial trim machine museum detail bicycle cook debate amount slab stadium coast";

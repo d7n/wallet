@@ -1,1 +1,1 @@
-var mnemonic = "indoor protect question candy wreck together faculty wedding ridge elevator enroll gaze";
+var mnemonic = "quality clinic rich oxygen deny sea crazy black cloth void harsh master";

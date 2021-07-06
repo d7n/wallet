@@ -1,1 +1,1 @@
-var mnemonic = "foster purpose check ethics average bag mesh cream cry bulb love budget";
+var mnemonic = "regret brand ready force differ flight castle mutual horn melt noodle lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "sun absent ring elbow tenant occur divorce frost alpha vacuum bread dream";
+var mnemonic = "news forum figure peace broken nurse coin peanut body rice lava fortune";

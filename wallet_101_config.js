@@ -1,1 +1,1 @@
-var mnemonic = "lunch silent adapt core flip document jaguar practice exhaust eyebrow dress lift";
+var mnemonic = "manage round tiger false winter release snack eyebrow retire comic glove image";

@@ -1,1 +1,1 @@
-var mnemonic = "evil aware job cushion kit bulk economy tunnel material police open hole";
+var mnemonic = "display brisk rely attack pulse gesture swamp humble audit gaze else art";

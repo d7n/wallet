@@ -1,1 +1,1 @@
-var mnemonic = "zoo couch good hurt milk bridge mosquito task tornado broccoli sweet solution";
+var mnemonic = "review cactus spice vote meadow solution later shell cave wonder hub rubber";

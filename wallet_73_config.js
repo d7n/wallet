@@ -1,1 +1,1 @@
-var mnemonic = "hat west chat spell layer swing hazard delay include crystal question hero";
+var mnemonic = "width wage soon find name slush jeans patrol advice salon ripple hockey";

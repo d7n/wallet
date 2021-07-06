@@ -1,1 +1,1 @@
-var mnemonic = "visit salmon predict simple steel sibling shoot strike shrug giggle noise end";
+var mnemonic = "choice canvas jeans solve project sword gold float sail coffee process process";

@@ -1,1 +1,1 @@
-var mnemonic = "vital soccer clarify flip lamp column fork prepare tide fall park donate";
+var mnemonic = "axis clog paddle doctor detect resist soda tuition sketch column life trumpet";

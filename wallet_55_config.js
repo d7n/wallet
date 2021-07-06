@@ -1,1 +1,1 @@
-var mnemonic = "spirit speed seek egg pioneer safe index sample because wide space evil";
+var mnemonic = "custom cram scale office path camera auto couch camera carpet erode sugar";

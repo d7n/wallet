@@ -1,1 +1,1 @@
-var mnemonic = "sudden chest damp oval time solution actor canvas organ enter skirt like";
+var mnemonic = "come canyon limit hundred budget print motor balcony useless finger fog patrol";

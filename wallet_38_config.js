@@ -1,1 +1,1 @@
-var mnemonic = "more series decide spin quit reunion install pupil virtual erode thunder load";
+var mnemonic = "sell shallow game teach slight neutral disease bridge six express inhale shell";

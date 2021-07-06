@@ -1,1 +1,1 @@
-var mnemonic = "grab weather quality chaos negative library steel labor seminar happy planet treat";
+var mnemonic = "net yellow monster hidden ceiling copy dutch media supply clinic lucky need";

@@ -1,1 +1,1 @@
-var mnemonic = "endless enjoy able total truth bleak elephant teach smooth next approve depart";
+var mnemonic = "fault rain illegal arrest omit sphere toilet fade clock dragon forest bind";

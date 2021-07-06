@@ -1,1 +1,1 @@
-var mnemonic = "tell crash knife battle equal flash diamond gorilla combine brain brush oxygen";
+var mnemonic = "outdoor risk become trim utility life super gain limit ramp outdoor city";

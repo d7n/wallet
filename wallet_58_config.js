@@ -1,1 +1,1 @@
-var mnemonic = "pottery model hat front inmate bike deliver rescue sniff place high right";
+var mnemonic = "track install bean enter flush genuine flip physical attitude rice such monitor";

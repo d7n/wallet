@@ -1,1 +1,1 @@
-var mnemonic = "attack utility truth inmate sugar capable antenna walnut enforce element inch coin";
+var mnemonic = "mixed room depart file execute appear hospital fan level bid outdoor famous";

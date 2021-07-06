@@ -1,1 +1,1 @@
-var mnemonic = "hamster bulk senior decline arrest canyon sugar divide lobster foster lock wisdom";
+var mnemonic = "slim company mesh cruise arrive veteran story outer bird island rifle turkey";

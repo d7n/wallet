@@ -1,1 +1,1 @@
-var mnemonic = "cage apple business riot vital web flock matter field fury lunch mistake";
+var mnemonic = "expose upset castle truck genre erupt steak buffalo fine life board wear";

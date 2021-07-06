@@ -1,1 +1,1 @@
-var mnemonic = "joke spoon snow online pyramid dance shoulder raise carpet photo gate trick";
+var mnemonic = "million arm edit news stem hawk hero mask trash list version ancient";

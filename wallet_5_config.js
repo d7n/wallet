@@ -1,1 +1,1 @@
-var mnemonic = "tumble draw devote glare fault duty stage year blush cup weekend suit";
+var mnemonic = "solid type essence equip october trend edit bounce fitness dumb chimney weekend";

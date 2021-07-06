@@ -1,1 +1,1 @@
-var mnemonic = "cook medal deposit burger equip science rude fetch cake napkin nephew pretty";
+var mnemonic = "energy scene cause stamp rent girl panel media peasant inside pistol base";

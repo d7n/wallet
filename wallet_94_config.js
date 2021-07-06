@@ -1,1 +1,1 @@
-var mnemonic = "empty lizard mother pledge senior tree entire still spawn skull wolf taxi";
+var mnemonic = "brain tooth assume curve arrest equal section always reopen zebra voyage betray";

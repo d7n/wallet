@@ -1,1 +1,1 @@
-var mnemonic = "sibling forest fork solve horse moment eye turtle bless chest fiction suffer";
+var mnemonic = "nurse cheap armor sample upon sorry horse tuition flip come curve garden";

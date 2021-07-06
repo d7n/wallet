@@ -1,1 +1,1 @@
-var mnemonic = "wire example merit disorder foot about baby nominee pretty foil erode essay";
+var mnemonic = "differ term shift only auction boss buzz amused grief life hidden favorite";

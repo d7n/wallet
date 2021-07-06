@@ -1,1 +1,1 @@
-var mnemonic = "body stick approve fossil sword vehicle clog oblige angry street unfold crazy";
+var mnemonic = "harbor correct cave fault sample wreck chef permit delay wing knock cannon";

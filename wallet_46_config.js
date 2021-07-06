@@ -1,1 +1,1 @@
-var mnemonic = "road satoshi apology blur train like purchase minor love denial pumpkin stairs";
+var mnemonic = "doctor derive expect guitar romance target become bar slow just banner yellow";

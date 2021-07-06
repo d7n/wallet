@@ -1,1 +1,1 @@
-var mnemonic = "sugar drift mutual need useful tennis coach file salute cloud certain panda";
+var mnemonic = "gym benefit plate crazy fame brand hair chief section current diagram mesh";

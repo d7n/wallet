@@ -1,1 +1,1 @@
-var mnemonic = "dress knock gun office label bullet join range curve cash blast between";
+var mnemonic = "minimum jar again general among paper steel bring consider episode giant despair";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach song film glass believe feature robot rich silk width icon alien";
+var mnemonic = "dwarf cable merry snow direct tank siege pond curious few hope near";

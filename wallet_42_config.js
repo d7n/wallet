@@ -1,1 +1,1 @@
-var mnemonic = "awkward guitar equal sell sport pipe neutral kingdom tide undo dinosaur wave";
+var mnemonic = "spy run boil fringe race heavy despair verb capital cube tobacco elite";

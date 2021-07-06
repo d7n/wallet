@@ -1,1 +1,1 @@
-var mnemonic = "swallow kitchen silver gown flee share tube sail perfect gospel tell indoor";
+var mnemonic = "cattle scare click page burden buyer often latin fantasy engine rookie gather";

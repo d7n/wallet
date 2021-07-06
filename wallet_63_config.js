@@ -1,1 +1,1 @@
-var mnemonic = "boss report convince enlist planet tuition engage exercise mountain gym reunion airport";
+var mnemonic = "door general proud embody glance capital off until sniff bundle baby neck";

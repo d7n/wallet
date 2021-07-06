@@ -1,1 +1,1 @@
-var mnemonic = "velvet tomato uncle ill spend claim body captain finish vague series ethics";
+var mnemonic = "dragon exchange describe shoot crop various sun target physical purchase limit toast";

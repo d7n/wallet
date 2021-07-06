@@ -1,1 +1,1 @@
-var mnemonic = "double solid whisper fork salt shield panic perfect dance state obscure success";
+var mnemonic = "ghost legend dutch group point eye hotel similar unit amount bulb derive";

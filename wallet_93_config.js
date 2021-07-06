@@ -1,1 +1,1 @@
-var mnemonic = "sponsor reduce solve electric people electric dash eager dune aware ritual angle";
+var mnemonic = "twice actress cargo enroll toward churn gorilla social morning tumble enlist hurt";

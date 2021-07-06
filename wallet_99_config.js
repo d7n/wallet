@@ -1,1 +1,1 @@
-var mnemonic = "table slot friend dog regret fancy library tornado payment relax purpose stomach";
+var mnemonic = "round hello wheel tenant uncover exact level neither above pony essence blanket";

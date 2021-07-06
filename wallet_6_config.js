@@ -1,1 +1,1 @@
-var mnemonic = "another planet exhibit amazing huge have caught tunnel call baby utility scan";
+var mnemonic = "hint toy welcome clock rack spend upset reopen slide odor later wedding";

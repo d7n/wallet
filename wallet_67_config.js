@@ -1,1 +1,1 @@
-var mnemonic = "exist face tray fuel dismiss frozen desert situate measure post cup aspect";
+var mnemonic = "tray evil fog method episode shield insane erupt fit kangaroo jelly client";

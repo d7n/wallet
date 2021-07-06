@@ -1,1 +1,1 @@
-var mnemonic = "travel bleak witness deal include chalk private orphan lounge wisdom luggage trip";
+var mnemonic = "actual pelican lonely later zero creek pool margin urban inform cinnamon invest";

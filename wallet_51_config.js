@@ -1,1 +1,1 @@
-var mnemonic = "skull sketch width shine choice place area reflect real walk hero age";
+var mnemonic = "ribbon cloud trim pact fish sting slogan twin cute camp climb voice";

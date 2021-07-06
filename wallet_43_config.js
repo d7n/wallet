@@ -1,1 +1,1 @@
-var mnemonic = "moment slot general hurry crawl wagon forget label swing put grunt forward";
+var mnemonic = "such brush fringe favorite blast outdoor consider close quote during lava because";

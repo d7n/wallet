@@ -1,1 +1,1 @@
-var mnemonic = "match alien goat view bag glimpse cross lend rather ribbon whip someone";
+var mnemonic = "path garbage reward error sauce awake side daughter scrub fabric fat marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "believe very enlist dynamic spin kiss return purse ramp economy dog cushion";
+var mnemonic = "inspire need member embody diet ice wagon basic radio ahead now upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger strong swap hint attract nature consider hill tackle deliver sudden skill";
+var mnemonic = "maid jeans chuckle game speak warm shield excite mosquito chapter engine will";

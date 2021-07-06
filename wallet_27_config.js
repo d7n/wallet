@@ -1,1 +1,1 @@
-var mnemonic = "crawl robot bacon team acquire version lottery sick raise fitness toe sort";
+var mnemonic = "story surface topic middle square anxiety among latin amateur board mouse denial";

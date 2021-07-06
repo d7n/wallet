@@ -1,1 +1,1 @@
-var mnemonic = "diagram quote vicious island flock result unaware mistake first mirror east shallow";
+var mnemonic = "you yard outer wreck runway maid supreme kite mail will drive garden";

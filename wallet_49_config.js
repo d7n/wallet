@@ -1,1 +1,1 @@
-var mnemonic = "false love bag stand vicious gift purity topic elder shock leisure banner";
+var mnemonic = "anchor jungle finish save place oblige achieve grocery yard bridge jacket insect";

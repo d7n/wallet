@@ -1,1 +1,1 @@
-var mnemonic = "spice voyage fortune where habit brave warm coach alter vacuum comic earn";
+var mnemonic = "endorse castle woman fresh jealous tennis scheme year that elder rebel assist";

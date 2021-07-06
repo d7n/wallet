@@ -1,1 +1,1 @@
-var mnemonic = "almost animal thank helmet can magnet peace syrup fabric rather high job";
+var mnemonic = "resemble unable fossil drink talk turtle tray bicycle attract mad unusual leave";

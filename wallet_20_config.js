@@ -1,1 +1,1 @@
-var mnemonic = "wasp couch digital dish adult report mail account gown myth asthma music";
+var mnemonic = "relief puppy evidence silly topic cereal diary trophy roast rubber rely escape";
