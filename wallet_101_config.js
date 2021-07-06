@@ -1,1 +1,1 @@
-var mnemonic = "that under chat kingdom slush develop eye sphere push only lab evidence";
+var mnemonic = "steel umbrella purity sauce trophy rent until series pretty awkward elegant survey";

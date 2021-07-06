@@ -1,1 +1,1 @@
-var mnemonic = "dry adjust horror stay wash hen share patient lecture lamp luxury hint";
+var mnemonic = "bonus daring flush corn cook dog tonight matrix negative depth apology glory";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel tuition right install life harsh sting country valve vintage today float";
+var mnemonic = "test stadium rally recipe fix erupt pledge large avoid robot autumn hungry";

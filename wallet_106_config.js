@@ -1,1 +1,1 @@
-var mnemonic = "stick crunch lemon mechanic merry slam victory prefer cluster spoon print work";
+var mnemonic = "saddle employ ripple struggle blossom casual useless false cheap rack lazy face";

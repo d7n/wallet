@@ -1,1 +1,1 @@
-var mnemonic = "minor miracle melt supreme muffin learn prefer velvet one ship field guitar";
+var mnemonic = "output minute fringe private paddle master render census orphan evoke west focus";

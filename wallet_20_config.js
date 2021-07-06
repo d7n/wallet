@@ -1,1 +1,1 @@
-var mnemonic = "perfect neglect below void love come crisp sadness just year hundred unaware";
+var mnemonic = "abandon tape since noise abstract owner chat author skill brain frown alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "human certain blossom arena mobile hint web claw beef clarify cool muscle";
+var mnemonic = "scatter hen climb bench jeans erosion piano aware outer girl brother athlete";

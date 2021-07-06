@@ -1,1 +1,1 @@
-var mnemonic = "enroll enter often giant ozone bachelor glow cause shine before inherit result";
+var mnemonic = "athlete move mouse dad switch bring decade either cross eager other family";

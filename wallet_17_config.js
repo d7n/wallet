@@ -1,1 +1,1 @@
-var mnemonic = "stairs injury else giant deny spot scout kiwi sniff team fabric fresh";
+var mnemonic = "film beef note utility orphan speed swap quit parent useful vanish shed";

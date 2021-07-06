@@ -1,1 +1,1 @@
-var mnemonic = "extend hello nurse skill where soon chuckle stool senior cactus flush output";
+var mnemonic = "measure couch naive sport elephant deputy target verb group tenant version forest";

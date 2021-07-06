@@ -1,1 +1,1 @@
-var mnemonic = "chase juice clock volume hedgehog hammer orbit state sense crush forest general";
+var mnemonic = "shell ripple they lock animal tourist income wrong provide always twenty bracket";

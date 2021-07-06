@@ -1,1 +1,1 @@
-var mnemonic = "wash valid gold lyrics quality wrap spawn key obvious belt use custom";
+var mnemonic = "you local awkward mixture grocery vivid cat avoid spend payment hobby oak";

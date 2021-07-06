@@ -1,1 +1,1 @@
-var mnemonic = "strike meat general luggage doll fabric pride school motion add wish wheat";
+var mnemonic = "spot flip trust artefact addict sort time raise forest because milk photo";

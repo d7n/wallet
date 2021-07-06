@@ -1,1 +1,1 @@
-var mnemonic = "spin never elite exotic aim agree sample hundred main harvest dove divorce";
+var mnemonic = "patrol gun bike inspire name edit glow gold view sort matrix capital";

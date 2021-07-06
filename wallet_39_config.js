@@ -1,1 +1,1 @@
-var mnemonic = "belt grit entire kangaroo over cinnamon sense model bounce travel worth elephant";
+var mnemonic = "weekend neck electric virus narrow science grass bid sell bundle swear sleep";

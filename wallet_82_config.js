@@ -1,1 +1,1 @@
-var mnemonic = "obscure obtain series valley account electric almost kid mixed leaf setup radio";
+var mnemonic = "female sail rural act response bonus unfold assist vivid video retire mimic";

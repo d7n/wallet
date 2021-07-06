@@ -1,1 +1,1 @@
-var mnemonic = "oven current lizard differ mercy replace fitness useless replace resource alone ceiling";
+var mnemonic = "math broom debris convince conduct guitar zoo divert total polar student insect";

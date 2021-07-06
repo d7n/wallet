@@ -1,1 +1,1 @@
-var mnemonic = "cancel hint involve crouch caught cruise educate verb fall bar wagon nut";
+var mnemonic = "vague token prison ritual milk cactus govern skin nurse drink modify evidence";

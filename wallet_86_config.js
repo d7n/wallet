@@ -1,1 +1,1 @@
-var mnemonic = "skull unique hurt kiwi alcohol figure gate behave whale marble humor brand";
+var mnemonic = "member pride myth pottery travel exist title argue purity engine fancy dog";

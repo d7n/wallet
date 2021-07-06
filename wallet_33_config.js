@@ -1,1 +1,1 @@
-var mnemonic = "kid decorate oppose time magnet episode mass struggle ceiling knee turtle dove";
+var mnemonic = "true pioneer volume fortune taste enrich impact remind depend sugar negative hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "style valve capital invite again diagram february hamster mean crop sibling grit";
+var mnemonic = "donor series shift cousin garlic enforce oblige earn provide desk build chimney";

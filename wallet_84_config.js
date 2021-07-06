@@ -1,1 +1,1 @@
-var mnemonic = "become confirm post flat swap fashion fitness ball best myth address pizza";
+var mnemonic = "defy tube quiz moon true leave embark crater march author practice client";

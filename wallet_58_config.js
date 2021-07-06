@@ -1,1 +1,1 @@
-var mnemonic = "expect segment ancient account burden elegant enact toddler biology slide flat empower";
+var mnemonic = "bulb stable fall opera raven rent asthma use mass aim sun clarify";

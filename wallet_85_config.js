@@ -1,1 +1,1 @@
-var mnemonic = "this despair action cactus wine cute tiny beauty either best green alley";
+var mnemonic = "purse filter army elder bulk boil shift memory clarify wine sound glue";

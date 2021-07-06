@@ -1,1 +1,1 @@
-var mnemonic = "cattle elder usual stereo slam melt library whip virus ostrich stand interest";
+var mnemonic = "unlock deputy unlock pilot fetch truck patch train thank water engage illegal";

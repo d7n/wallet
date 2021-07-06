@@ -1,1 +1,1 @@
-var mnemonic = "filter tilt pretty stomach right swap already yard wild spatial ribbon song";
+var mnemonic = "peace begin leader hidden settle myself amused clerk toilet fee fox october";

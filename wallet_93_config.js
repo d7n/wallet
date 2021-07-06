@@ -1,1 +1,1 @@
-var mnemonic = "any river enemy zebra hope hawk father illness trust taxi split smile";
+var mnemonic = "guilt elder pelican cargo custom cave table acoustic suggest comic wise horror";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram only upper shrimp zone fruit elephant skirt reject shop lawsuit street";
+var mnemonic = "become shoot aunt urban segment spawn fault code pyramid install innocent remind";

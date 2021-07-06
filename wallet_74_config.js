@@ -1,1 +1,1 @@
-var mnemonic = "wrestle stock make worry link fly sphere develop machine display seven hamster";
+var mnemonic = "exhaust kiwi expect pattern room shine toddler interest rally squirrel grant sell";

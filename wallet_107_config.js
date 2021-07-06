@@ -1,1 +1,1 @@
-var mnemonic = "panther museum torch mosquito virus bamboo slight innocent erupt opinion wish picnic";
+var mnemonic = "blame layer hazard rescue fish wear trend strike blur engine march private";

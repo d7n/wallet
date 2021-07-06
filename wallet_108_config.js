@@ -1,1 +1,1 @@
-var mnemonic = "club company million paper knock flower bus stadium tape excess cry effort";
+var mnemonic = "bone tiny become response pig vintage fault plug cook brother wise cram";

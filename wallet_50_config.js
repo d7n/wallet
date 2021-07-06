@@ -1,1 +1,1 @@
-var mnemonic = "imitate very angry sail pelican south grunt arrive stove wide brush analyst";
+var mnemonic = "upset endorse patrol segment cry peanut across grief strike expand robot question";

@@ -1,1 +1,1 @@
-var mnemonic = "noble cupboard home range undo pole hedgehog intact metal involve spy knife";
+var mnemonic = "sense surge pistol solution snack use deal praise enact decide real cross";

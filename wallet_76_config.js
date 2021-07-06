@@ -1,1 +1,1 @@
-var mnemonic = "equal disorder wash snap chronic bubble surround august girl coral pact party";
+var mnemonic = "tree anger pupil layer insect hockey remain escape behave battle people aspect";

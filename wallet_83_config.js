@@ -1,1 +1,1 @@
-var mnemonic = "unable idle truck melody worry six hidden section direct garbage verify develop";
+var mnemonic = "any barely paper outer document ask ocean salad foster unique punch club";

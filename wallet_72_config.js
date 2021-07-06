@@ -1,1 +1,1 @@
-var mnemonic = "spoil arctic reward mirror survey fury large grace lawn arrest physical awkward";
+var mnemonic = "amazing loan lab census lonely rely gain rather number good doctor slam";

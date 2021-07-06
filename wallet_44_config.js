@@ -1,1 +1,1 @@
-var mnemonic = "rigid celery wool unable leopard soda unknown chase obvious grain club rule";
+var mnemonic = "pipe govern liberty witness evidence pyramid among ritual always involve ladder recycle";

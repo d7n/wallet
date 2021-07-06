@@ -1,1 +1,1 @@
-var mnemonic = "narrow apology credit giant book fix collect neck cave spider response doctor";
+var mnemonic = "cattle profit pond desert junior surprise vault bar merry inhale vote expose";

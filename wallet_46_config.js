@@ -1,1 +1,1 @@
-var mnemonic = "project fetch aerobic door trap match dumb grain among clinic sock pelican";
+var mnemonic = "wet riot tired steak wheel guess machine already venture sheriff raccoon rescue";

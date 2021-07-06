@@ -1,1 +1,1 @@
-var mnemonic = "coach treat fatal region wagon shine lottery slim sport slush festival arctic";
+var mnemonic = "hidden dance denial build lens ginger wheel hunt habit butter summer since";

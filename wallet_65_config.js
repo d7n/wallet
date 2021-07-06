@@ -1,1 +1,1 @@
-var mnemonic = "scorpion festival heavy skirt warfare dismiss science hood soul noise patch kangaroo";
+var mnemonic = "favorite expose price table beach van poverty soldier lion home erase fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle enter seven frost reopen habit baby merit mammal vote unfold actor";
+var mnemonic = "cluster arena tilt shoulder chimney climb program whip twist brain legend primary";

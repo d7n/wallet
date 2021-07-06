@@ -1,1 +1,1 @@
-var mnemonic = "brand pool dwarf churn brown injury mimic mercy robust judge mule eagle";
+var mnemonic = "tongue reward forget large tiger giant valid tide balance august above today";

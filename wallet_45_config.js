@@ -1,1 +1,1 @@
-var mnemonic = "plunge ability hover frame horse wine brush embark goose obscure imitate tent";
+var mnemonic = "orient rely tomato sample quality maple elegant toss ordinary payment royal unhappy";

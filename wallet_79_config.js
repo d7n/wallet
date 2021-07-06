@@ -1,1 +1,1 @@
-var mnemonic = "leaf skate direct mammal pudding world blossom reopen artefact embark senior unknown";
+var mnemonic = "shrug security night unaware ball battle nice drastic ability crack siege bulk";

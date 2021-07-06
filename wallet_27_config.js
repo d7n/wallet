@@ -1,1 +1,1 @@
-var mnemonic = "void royal airport math indicate skirt arrange front eagle van lazy cruise";
+var mnemonic = "churn host region image fix nerve right expect enact upgrade hollow donkey";

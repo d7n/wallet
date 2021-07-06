@@ -1,1 +1,1 @@
-var mnemonic = "oyster silk mosquito glance jelly crisp disease dash stuff artist blur cram";
+var mnemonic = "hungry bulk meadow tray merge price later fame idle plunge huge stomach";

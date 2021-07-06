@@ -1,1 +1,1 @@
-var mnemonic = "twenty snow town mechanic sword display stuff cluster flash assault first atom";
+var mnemonic = "fit torch nurse idea bright miss error legal food phone monitor sock";

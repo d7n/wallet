@@ -1,1 +1,1 @@
-var mnemonic = "search scene sadness weird tooth dignity minimum arch kangaroo flock cheese clap";
+var mnemonic = "make gossip sun ignore guard rack remind sea neck daughter various hill";

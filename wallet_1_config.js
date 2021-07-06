@@ -1,1 +1,1 @@
-var mnemonic = "remain unique exile crystal tone script urge silent tornado swing soap merge";
+var mnemonic = "unveil pill winner burden pigeon music excite blame naive vendor public industry";

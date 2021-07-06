@@ -1,1 +1,1 @@
-var mnemonic = "gym pear weather spike gun tilt nest produce now science leave since";
+var mnemonic = "regular argue ancient have wet basket bean clean medal own machine industry";

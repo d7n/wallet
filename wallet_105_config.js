@@ -1,1 +1,1 @@
-var mnemonic = "pyramid lobster canyon idle december estate acoustic protect forward water bind best";
+var mnemonic = "trip immense motor sunset enforce injury thunder color gown holiday goose trial";

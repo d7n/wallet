@@ -1,1 +1,1 @@
-var mnemonic = "decorate bronze basket initial blame shine fever mother puppy pelican pledge draw";
+var mnemonic = "garbage learn radio lottery truck favorite potato unique lift giraffe hat antique";

@@ -1,1 +1,1 @@
-var mnemonic = "cream item squeeze impulse cute resemble voice riot fox series letter style";
+var mnemonic = "unique start over shiver measure helmet slide bus elegant today spike until";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo siege there often approve this melt pull grocery hub peanut anchor";
+var mnemonic = "border column sphere extra menu frown bomb supply shy bean cupboard predict";

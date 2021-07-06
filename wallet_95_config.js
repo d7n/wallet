@@ -1,1 +1,1 @@
-var mnemonic = "idea fruit govern pass apple blame dilemma tip action jaguar convince adult";
+var mnemonic = "sugar danger sure wear depart novel sort into penalty swim broom wheat";

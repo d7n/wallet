@@ -1,1 +1,1 @@
-var mnemonic = "amazing lunar march master decade brief august muscle view budget taxi broken";
+var mnemonic = "expire february human sunny pencil reveal update solve average ketchup hidden police";

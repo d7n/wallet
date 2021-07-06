@@ -1,1 +1,1 @@
-var mnemonic = "winner ahead avocado idle program gold alley wave opinion salt maid cry";
+var mnemonic = "there spread pistol dutch hover quote truly veteran bright moral blame wrong";

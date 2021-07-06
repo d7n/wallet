@@ -1,1 +1,1 @@
-var mnemonic = "bid victory video exchange drama inside stable legal mom forget escape stable";
+var mnemonic = "student pumpkin chaos august slight jump flat feed violin stone palace carpet";

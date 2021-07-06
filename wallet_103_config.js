@@ -1,1 +1,1 @@
-var mnemonic = "ugly believe valid wisdom awake reopen ozone fever skirt punch crater link";
+var mnemonic = "school practice remind mean potato naive appear force feed rescue know slot";

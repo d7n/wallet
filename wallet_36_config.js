@@ -1,1 +1,1 @@
-var mnemonic = "over cushion decline force bulk gun pull gospel yellow trick scrap seek";
+var mnemonic = "blanket remain until crush useful access wealth benefit blush cave left explain";

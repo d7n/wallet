@@ -1,1 +1,1 @@
-var mnemonic = "degree cube enable burden limb price yellow alter mail you remove tomorrow";
+var mnemonic = "fog text effort need way slot cycle manage joke scrub visa current";

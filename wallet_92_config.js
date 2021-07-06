@@ -1,1 +1,1 @@
-var mnemonic = "key cereal slogan caught shallow soul oak animal crumble busy night mobile";
+var mnemonic = "jewel excess boil output elegant little snap evolve hill select defy chunk";

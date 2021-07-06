@@ -1,1 +1,1 @@
-var mnemonic = "rally scatter horse easy network swear notice dolphin width inch hazard fade";
+var mnemonic = "cargo beach brisk strategy flower session slim scale amateur banana regular fee";

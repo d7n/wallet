@@ -1,1 +1,1 @@
-var mnemonic = "boss annual name cover vanish omit category brain good arrow profit pact";
+var mnemonic = "reason ignore tissue lady fury claw adapt balance space body quiz river";

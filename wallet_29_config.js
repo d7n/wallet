@@ -1,1 +1,1 @@
-var mnemonic = "razor honey acid output magnet usage iron interest tag network hover armed";
+var mnemonic = "post kite churn demise goddess ostrich mammal put danger horse win lyrics";

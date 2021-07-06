@@ -1,1 +1,1 @@
-var mnemonic = "symptom smooth end food abuse affair coin lava dose limit doctor wait";
+var mnemonic = "wing uncover protect across label nothing response strategy report simple clean cinnamon";

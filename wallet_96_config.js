@@ -1,1 +1,1 @@
-var mnemonic = "reform explain axis front gossip fever place upgrade stereo game else faint";
+var mnemonic = "noise badge scrap tongue glove shove action spend glimpse twin invite rocket";

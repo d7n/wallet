@@ -1,1 +1,1 @@
-var mnemonic = "polar scan opera salmon rally fork horror taxi crouch almost sample when";
+var mnemonic = "labor debate delay trophy slight bag morning chief pool spring kind material";

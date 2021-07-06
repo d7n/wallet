@@ -1,1 +1,1 @@
-var mnemonic = "tortoise tank kick provide crazy wait vanish able spice odor churn fiscal";
+var mnemonic = "lunar put disease shy only board math exhaust dose voice jump bullet";

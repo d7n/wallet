@@ -1,1 +1,1 @@
-var mnemonic = "dwarf salmon fade audit rescue family scout stereo future dumb push taxi";
+var mnemonic = "grant nephew rib fiber taste crime heavy same usage fatal grab brisk";

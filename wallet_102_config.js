@@ -1,1 +1,1 @@
-var mnemonic = "slice athlete inquiry hole truly place shaft maple prison drum desk hen";
+var mnemonic = "better vacuum police west gate helmet wise motion snake clap nose vessel";

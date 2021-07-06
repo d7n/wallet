@@ -1,1 +1,1 @@
-var mnemonic = "exact flee quantum latin reform episode bounce naive disease history bounce vendor";
+var mnemonic = "obey guard excess thumb thunder health cargo panic shallow adjust seek ankle";

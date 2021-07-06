@@ -1,1 +1,1 @@
-var mnemonic = "fly agree vast reduce forum garlic guide island middle frog old candy";
+var mnemonic = "wise gloom muscle mosquito usage blouse response also miss disease almost sibling";

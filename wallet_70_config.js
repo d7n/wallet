@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ribbon clip empower rely spot mention welcome hazard rib steak glory";
+var mnemonic = "jealous uniform slight defy delay ginger rely cycle vapor laptop image abstract";

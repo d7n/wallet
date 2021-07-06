@@ -1,1 +1,1 @@
-var mnemonic = "laugh blur trick recall brush what consider copper normal immense father coil";
+var mnemonic = "prevent satisfy arch globe used quick yard valid pepper turtle element play";

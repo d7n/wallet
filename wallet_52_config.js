@@ -1,1 +1,1 @@
-var mnemonic = "earth manage shy avoid run nature attend crater lottery hospital visual float";
+var mnemonic = "volume marble outdoor path imitate clerk monitor beach barely excess rapid flag";

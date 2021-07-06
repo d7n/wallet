@@ -1,1 +1,1 @@
-var mnemonic = "april essence online shove pulp noodle mercy reopen drift merry culture spray";
+var mnemonic = "lamp host flock front copy aunt true fire owner warm alone gesture";

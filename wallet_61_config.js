@@ -1,1 +1,1 @@
-var mnemonic = "fitness song fabric tail weekend grain duty fitness day mechanic pepper year";
+var mnemonic = "mesh weapon clean charge output apple cook fit inherit tunnel zero obvious";

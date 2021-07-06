@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mail blouse only absurd labor disorder pulse paper nut denial kangaroo";
+var mnemonic = "dinner basket prize faint fee evolve arm property joy share husband area";

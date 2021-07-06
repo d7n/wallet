@@ -1,1 +1,1 @@
-var mnemonic = "affair awake suffer smile heavy chalk open maid kiwi interest crime electric";
+var mnemonic = "chat receive people slam elder capable tackle leave vacuum kiss history ceiling";

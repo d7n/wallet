@@ -1,1 +1,1 @@
-var mnemonic = "popular vague gold present bean side enemy rather toy injury warm opinion";
+var mnemonic = "gentle toddler gate remind drop fluid dismiss weasel giraffe dream habit asthma";

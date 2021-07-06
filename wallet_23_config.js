@@ -1,1 +1,1 @@
-var mnemonic = "voyage parade merry vivid kidney claim visa bag betray voice next fish";
+var mnemonic = "pause profit make produce robot coyote merry card truly taxi vibrant trigger";

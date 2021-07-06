@@ -1,1 +1,1 @@
-var mnemonic = "olive magic faculty entry embody congress laptop other enough neglect very struggle";
+var mnemonic = "sense garage bargain cigar vapor gain smile interest innocent crime own fame";

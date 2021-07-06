@@ -1,1 +1,1 @@
-var mnemonic = "tunnel iron bench rack future oppose dose warm man bamboo blast couple";
+var mnemonic = "simple library image certain escape unfold element mechanic walnut put stick off";

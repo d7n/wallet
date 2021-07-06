@@ -1,1 +1,1 @@
-var mnemonic = "thank elbow include battle luggage tissue remember brief quarter about avocado prize";
+var mnemonic = "quote shove title coffee giggle scare tobacco travel royal tail style start";

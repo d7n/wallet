@@ -1,1 +1,1 @@
-var mnemonic = "other vintage cake client direct educate term random sad dose boy fame";
+var mnemonic = "fog suspect ability crater salt imitate disease play beach season oblige blind";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz record skull obey during spell kitchen rigid piece pole behind solution";
+var mnemonic = "cake tide canyon raw boost useless vital wheat valve normal shine gun";

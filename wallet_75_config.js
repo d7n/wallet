@@ -1,1 +1,1 @@
-var mnemonic = "problem enact position decorate spend chest goat miss muscle almost belt provide";
+var mnemonic = "victory deliver result tackle olive law globe curve treat dinosaur elephant frequent";
