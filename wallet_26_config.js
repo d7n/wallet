@@ -1,1 +1,1 @@
-var mnemonic = "virus ostrich tooth enter donate unique six talk recipe kite ready diagram";
+var mnemonic = "door stairs apology student length worth forward rough input december chalk river";

@@ -1,1 +1,1 @@
-var mnemonic = "grape solar dad scout advice husband sport vehicle scorpion deer treat grocery";
+var mnemonic = "layer armor viable work slow scout since gospel remain fantasy ketchup idea";

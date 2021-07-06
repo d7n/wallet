@@ -1,1 +1,1 @@
-var mnemonic = "twelve legal glory vehicle leader net child genuine cream frown hip myth";
+var mnemonic = "illegal cactus divide badge frost zero miracle curve before tenant frog donate";

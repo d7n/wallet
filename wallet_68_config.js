@@ -1,1 +1,1 @@
-var mnemonic = "such cactus ostrich myth lounge sand brush spice auto broken scatter busy";
+var mnemonic = "blast swift shiver mobile sauce buddy fence curious around tenant renew street";

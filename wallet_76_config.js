@@ -1,1 +1,1 @@
-var mnemonic = "feature magic entire crouch museum say energy wreck exclude have rug candy";
+var mnemonic = "tell crash knife battle equal flash diamond gorilla combine brain brush oxygen";

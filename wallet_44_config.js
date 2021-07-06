@@ -1,1 +1,1 @@
-var mnemonic = "path early bunker blanket hotel still raccoon hill vital coast scheme box";
+var mnemonic = "much mother destroy curtain hint inform repeat crumble wise rent kind nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin solution soda kind patrol curious draw fish method imitate dad pudding";
+var mnemonic = "spirit speed seek egg pioneer safe index sample because wide space evil";

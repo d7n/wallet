@@ -1,1 +1,1 @@
-var mnemonic = "valve decade hazard year rough skull evoke ring coast adapt retire top";
+var mnemonic = "false love bag stand vicious gift purity topic elder shock leisure banner";

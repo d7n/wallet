@@ -1,1 +1,1 @@
-var mnemonic = "vocal master chicken trash arena craft purchase embrace ghost case sell sunny";
+var mnemonic = "wire example merit disorder foot about baby nominee pretty foil erode essay";

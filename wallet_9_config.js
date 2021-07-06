@@ -1,1 +1,1 @@
-var mnemonic = "anger cube powder whale scorpion twin glow wide forest various potato menu";
+var mnemonic = "acquire rare resource scissors denial flower else need club humor clinic half";

@@ -1,1 +1,1 @@
-var mnemonic = "glory arrive lawn remember chronic mask swarm barely boring host horn march";
+var mnemonic = "road satoshi apology blur train like purchase minor love denial pumpkin stairs";

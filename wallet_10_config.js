@@ -1,1 +1,1 @@
-var mnemonic = "morning better mobile someone flight later theme page gap icon lounge bonus";
+var mnemonic = "elbow hurry mixture vault various smooth faculty medal common leopard solid taste";

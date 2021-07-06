@@ -1,1 +1,1 @@
-var mnemonic = "wet sample still mix mesh basic whip gallery dress bind wide shove";
+var mnemonic = "almost animal thank helmet can magnet peace syrup fabric rather high job";

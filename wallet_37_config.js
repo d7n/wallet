@@ -1,1 +1,1 @@
-var mnemonic = "crisp bid smile despair guilt collect often royal world blind daring grain";
+var mnemonic = "hungry library tool initial recycle season base collect hello cook soccer draft";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger tag zoo glove rubber then later topple crash say digital steak";
+var mnemonic = "pave episode glove tone scissors burden meat foster jungle caution card enable";

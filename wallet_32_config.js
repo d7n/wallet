@@ -1,1 +1,1 @@
-var mnemonic = "useful spy sphere glimpse until divert spoon staff cloud giant select country";
+var mnemonic = "party charge glue victory flame thank teach family wrap execute road bird";

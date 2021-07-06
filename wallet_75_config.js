@@ -1,1 +1,1 @@
-var mnemonic = "essence project embody wool gather current affair debris brush mirror primary anxiety";
+var mnemonic = "size simple range motor salt judge sock shadow alcohol rapid forest taste";

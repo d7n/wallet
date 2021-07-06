@@ -1,1 +1,1 @@
-var mnemonic = "obscure dentist found police test conduct speed among dirt novel token purse";
+var mnemonic = "stairs slab night curtain clay pen wink client mention inquiry enjoy second";

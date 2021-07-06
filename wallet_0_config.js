@@ -1,1 +1,1 @@
-var mnemonic = "bicycle garage girl truly together horn split sniff machine cause alarm decline";
+var mnemonic = "cage apple business riot vital web flock matter field fury lunch mistake";

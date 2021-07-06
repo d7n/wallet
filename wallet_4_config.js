@@ -1,1 +1,1 @@
-var mnemonic = "win essay blush magnet educate rib possible erase point behave idea jungle";
+var mnemonic = "trick naive lucky bicycle ladder narrow neither nothing guitar pattern ahead onion";

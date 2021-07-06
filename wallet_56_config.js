@@ -1,1 +1,1 @@
-var mnemonic = "since short tortoise lucky grass crisp response cradle uncover repair over art";
+var mnemonic = "crazy marine program salmon dose frame rigid oval apple clown air clump";

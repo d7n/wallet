@@ -1,1 +1,1 @@
-var mnemonic = "pottery undo column whip drastic hawk mansion chase mammal sick riot snap";
+var mnemonic = "furnace soon imitate always morning soap park where jewel hand useful settle";

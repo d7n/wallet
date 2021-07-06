@@ -1,1 +1,1 @@
-var mnemonic = "pool jeans code next kingdom blame jealous train fence pistol rabbit stamp";
+var mnemonic = "velvet tomato uncle ill spend claim body captain finish vague series ethics";

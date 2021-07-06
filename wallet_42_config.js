@@ -1,1 +1,1 @@
-var mnemonic = "labor side path traffic middle all track skull grit mushroom insane outer";
+var mnemonic = "awkward guitar equal sell sport pipe neutral kingdom tide undo dinosaur wave";

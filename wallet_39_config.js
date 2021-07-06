@@ -1,1 +1,1 @@
-var mnemonic = "list claw bachelor garden gas unusual glass like canoe spider educate nuclear";
+var mnemonic = "candy husband staff verb focus pledge puppy merit lens diet innocent update";

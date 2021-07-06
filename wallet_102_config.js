@@ -1,1 +1,1 @@
-var mnemonic = "canoe august banana naive april burger alien unfair diary sea axis tone";
+var mnemonic = "joke spoon snow online pyramid dance shoulder raise carpet photo gate trick";

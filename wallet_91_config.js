@@ -1,1 +1,1 @@
-var mnemonic = "entry size bounce initial kite anxiety jacket under awesome lunar car plunge";
+var mnemonic = "diagram quote vicious island flock result unaware mistake first mirror east shallow";

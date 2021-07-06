@@ -1,1 +1,1 @@
-var mnemonic = "exit tool pink shiver brush scissors plunge address village broom curve remain";
+var mnemonic = "tiger strong swap hint attract nature consider hill tackle deliver sudden skill";

@@ -1,1 +1,1 @@
-var mnemonic = "wool spy reduce ten danger clean black item oak cabin decide arrange";
+var mnemonic = "have shaft rhythm attract practice almost junior blossom hobby cupboard sense seven";

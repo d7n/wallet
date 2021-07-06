@@ -1,1 +1,1 @@
-var mnemonic = "liar auction midnight tribe powder soft remove run census soup enforce first";
+var mnemonic = "travel bleak witness deal include chalk private orphan lounge wisdom luggage trip";

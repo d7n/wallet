@@ -1,1 +1,1 @@
-var mnemonic = "fade pride uphold glad loan suffer struggle truly diet vicious symbol pigeon";
+var mnemonic = "sibling forest fork solve horse moment eye turtle bless chest fiction suffer";

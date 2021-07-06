@@ -1,1 +1,1 @@
-var mnemonic = "canvas cruel weird soup please can seminar giraffe stamp ethics mountain road";
+var mnemonic = "sun absent ring elbow tenant occur divorce frost alpha vacuum bread dream";

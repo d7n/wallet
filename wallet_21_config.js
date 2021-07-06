@@ -1,1 +1,1 @@
-var mnemonic = "dove tongue rotate real vehicle matter arm aunt reject trophy suit opera";
+var mnemonic = "custom dignity crush dwarf quit arrange chase depart struggle pink slight gallery";

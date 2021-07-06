@@ -1,1 +1,1 @@
-var mnemonic = "cement female flash huge online cream six join onion brand major cool";
+var mnemonic = "skull sketch width shine choice place area reflect real walk hero age";

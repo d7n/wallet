@@ -1,1 +1,1 @@
-var mnemonic = "consider bind ugly prosper story parrot obvious portion twenty depend exhaust rare";
+var mnemonic = "pottery model hat front inmate bike deliver rescue sniff place high right";

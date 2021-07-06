@@ -1,1 +1,1 @@
-var mnemonic = "future blast basket awake pet wing author velvet mistake whisper reason parrot";
+var mnemonic = "stomach song film glass believe feature robot rich silk width icon alien";

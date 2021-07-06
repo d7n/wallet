@@ -1,1 +1,1 @@
-var mnemonic = "equal prefer machine cake ozone tobacco sorry index pottery enter magnet evil";
+var mnemonic = "endless enjoy able total truth bleak elephant teach smooth next approve depart";

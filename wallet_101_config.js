@@ -1,1 +1,1 @@
-var mnemonic = "flash bunker magnet across sweet select puppy city document doll shock stool";
+var mnemonic = "lunch silent adapt core flip document jaguar practice exhaust eyebrow dress lift";

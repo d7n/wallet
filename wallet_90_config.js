@@ -1,1 +1,1 @@
-var mnemonic = "tackle seek one twenty frozen stick carry lucky clean clinic apart slender";
+var mnemonic = "double solid whisper fork salt shield panic perfect dance state obscure success";

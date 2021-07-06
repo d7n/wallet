@@ -1,1 +1,1 @@
-var mnemonic = "mansion solid boat pencil nest area bind pistol walk blush raccoon gap";
+var mnemonic = "edge you network spatial fetch number fox holiday round negative urban electric";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage eyebrow comic machine fox diary weather good genuine limb lobster bronze";
+var mnemonic = "hamster bulk senior decline arrest canyon sugar divide lobster foster lock wisdom";

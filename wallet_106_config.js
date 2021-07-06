@@ -1,1 +1,1 @@
-var mnemonic = "endless oxygen wealth equip click energy right brand own very robot trumpet";
+var mnemonic = "thunder cradle friend nice bid neglect cabbage slice crazy ski damp indicate";

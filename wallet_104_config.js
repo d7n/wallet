@@ -1,1 +1,1 @@
-var mnemonic = "staff record example scatter bike poverty side voyage banner mammal absent question";
+var mnemonic = "sugar drift mutual need useful tennis coach file salute cloud certain panda";

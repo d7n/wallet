@@ -1,1 +1,1 @@
-var mnemonic = "market receive elegant shy nice essay income other trust dry damp marble";
+var mnemonic = "session lens park mail there wise dust vague head universe current estate";

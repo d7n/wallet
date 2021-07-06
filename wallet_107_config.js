@@ -1,1 +1,1 @@
-var mnemonic = "life goat immune hello nation ancient ethics address orphan ball random slight";
+var mnemonic = "hockey pizza sound two twist pink know resource unfair creek artwork there";

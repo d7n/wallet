@@ -1,1 +1,1 @@
-var mnemonic = "error segment board repair result asset win ocean bind witness cloth hawk";
+var mnemonic = "problem guard enter cinnamon suffer hour shock oppose ring viable vault also";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo tennis coral wonder word assault garment asset uniform twelve diagram razor";
+var mnemonic = "play best section dry staff found spend inform elbow expose stem guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "crater heavy slot car alley annual coach endorse enforce cereal term dress";
+var mnemonic = "ship lounge jungle flower loyal wheel wait bachelor level below scene cancel";

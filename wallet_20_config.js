@@ -1,1 +1,1 @@
-var mnemonic = "border seek fine two suit suspect ancient orphan sunset trophy regret captain";
+var mnemonic = "wasp couch digital dish adult report mail account gown myth asthma music";

@@ -1,1 +1,1 @@
-var mnemonic = "insane bird armed label rate narrow idle used scrap truly crunch fat";
+var mnemonic = "empty lizard mother pledge senior tree entire still spawn skull wolf taxi";

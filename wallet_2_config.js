@@ -1,1 +1,1 @@
-var mnemonic = "rebel endless wave child infant riot smoke zebra harsh glass enrich left";
+var mnemonic = "swallow kitchen silver gown flee share tube sail perfect gospel tell indoor";

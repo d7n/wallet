@@ -1,1 +1,1 @@
-var mnemonic = "diary loan meadow pudding series pair joy morning body film hint since";
+var mnemonic = "give skin rival plastic typical cool metal confirm clap wear nice pilot";

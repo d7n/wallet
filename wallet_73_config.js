@@ -1,1 +1,1 @@
-var mnemonic = "express before style pen clock fashion hero rent vessel profit unveil page";
+var mnemonic = "hat west chat spell layer swing hazard delay include crystal question hero";

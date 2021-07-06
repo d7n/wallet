@@ -1,1 +1,1 @@
-var mnemonic = "trigger crawl parent trust achieve tuna agent thunder wave debris useful leg";
+var mnemonic = "tumble draw devote glare fault duty stage year blush cup weekend suit";

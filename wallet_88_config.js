@@ -1,1 +1,1 @@
-var mnemonic = "fence erupt warrior grow metal output retreat film lesson april crucial note";
+var mnemonic = "zoo couch good hurt milk bridge mosquito task tornado broccoli sweet solution";

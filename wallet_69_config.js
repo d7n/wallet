@@ -1,1 +1,1 @@
-var mnemonic = "one plug then nut tone trick deal weird coyote vault index dance";
+var mnemonic = "foster purpose check ethics average bag mesh cream cry bulb love budget";

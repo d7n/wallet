@@ -1,1 +1,1 @@
-var mnemonic = "average torch flush ask rubber fun frozen loyal lady pencil dinosaur repair";
+var mnemonic = "merge fork episode expect offer climb spider raw pear bleak media poet";

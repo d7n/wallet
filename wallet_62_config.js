@@ -1,1 +1,1 @@
-var mnemonic = "slow six fashion large grocery replace brown acoustic begin enemy coral virtual";
+var mnemonic = "alley oak warfare economy half arrow vapor gauge jaguar loyal garment tone";

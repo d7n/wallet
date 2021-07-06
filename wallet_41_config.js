@@ -1,1 +1,1 @@
-var mnemonic = "spend pole sight stuff plunge fetch salt donkey despair top fold assist";
+var mnemonic = "small sand blood portion rely inquiry ceiling evil scrap case decorate cabbage";

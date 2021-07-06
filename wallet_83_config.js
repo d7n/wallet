@@ -1,1 +1,1 @@
-var mnemonic = "bar cat switch sail course alley sure harvest gun what garage image";
+var mnemonic = "style protect wait sketch memory rare toy goddess slot bridge keep agree";

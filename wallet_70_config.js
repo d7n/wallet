@@ -1,1 +1,1 @@
-var mnemonic = "wish chunk nation play clean already rhythm shoulder pupil bid unaware caution";
+var mnemonic = "hood leisure interest object mimic tail follow capable valley waste mansion rely";

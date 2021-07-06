@@ -1,1 +1,1 @@
-var mnemonic = "filter sense artwork sudden session equip elite invest apart mixture empty hope";
+var mnemonic = "gaze unlock garment attract hello clutch escape collect satoshi weekend cry dash";

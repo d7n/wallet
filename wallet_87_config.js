@@ -1,1 +1,1 @@
-var mnemonic = "orphan wide badge blast street column depth stock vocal film flag poet";
+var mnemonic = "match alien goat view bag glimpse cross lend rather ribbon whip someone";

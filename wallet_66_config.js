@@ -1,1 +1,1 @@
-var mnemonic = "miracle dismiss bridge knock trumpet bonus million push split tuition diagram expand";
+var mnemonic = "visit salmon predict simple steel sibling shoot strike shrug giggle noise end";

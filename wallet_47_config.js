@@ -1,1 +1,1 @@
-var mnemonic = "thumb proud educate task brave setup pole post breeze trip awful street";
+var mnemonic = "endorse grow luxury skill rapid feed peace bar lonely reject now funny";

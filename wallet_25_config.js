@@ -1,1 +1,1 @@
-var mnemonic = "else rather annual office soon struggle frost stock weasel hazard own sketch";
+var mnemonic = "ridge alone fox dust sense snow gentle borrow school zone force pet";

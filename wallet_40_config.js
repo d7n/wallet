@@ -1,1 +1,1 @@
-var mnemonic = "merry cancel picnic boss motor wife lecture luxury lion card crowd alter";
+var mnemonic = "sudden chest damp oval time solution actor canvas organ enter skirt like";

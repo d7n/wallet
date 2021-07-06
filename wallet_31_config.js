@@ -1,1 +1,1 @@
-var mnemonic = "piano vehicle dismiss cycle galaxy success twelve energy tape resemble same miss";
+var mnemonic = "measure short obey empty exclude home benefit man moon village duck salute";

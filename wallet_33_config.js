@@ -1,1 +1,1 @@
-var mnemonic = "thumb welcome quit rabbit trick neck sunset pencil hollow index someone lamp";
+var mnemonic = "harsh wrap vibrant brave modify cement chair cradle useless tag bronze hire";

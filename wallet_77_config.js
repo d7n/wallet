@@ -1,1 +1,1 @@
-var mnemonic = "solid face soon sausage copper guilt truck turtle head estate toilet retire";
+var mnemonic = "ranch inner uphold excite speak puppy dream oxygen gospel teach delay parade";

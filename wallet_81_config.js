@@ -1,1 +1,1 @@
-var mnemonic = "seat chuckle stumble invest destroy arrow captain unit old assist admit treat";
+var mnemonic = "spin matrix develop beauty key differ member force report practice pledge weapon";

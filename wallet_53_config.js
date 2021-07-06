@@ -1,1 +1,1 @@
-var mnemonic = "gadget urban tell enemy list high spring buyer accident meadow fruit knee";
+var mnemonic = "ankle injury ready shock guilt found throw age lens absorb cheese fantasy";

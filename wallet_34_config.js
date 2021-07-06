@@ -1,1 +1,1 @@
-var mnemonic = "aerobic tower hard subway receive ill curve bless vacuum mother romance learn";
+var mnemonic = "crater want giant harvest father catch spin student maximum enhance venue close";

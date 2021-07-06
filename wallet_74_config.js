@@ -1,1 +1,1 @@
-var mnemonic = "fuel move erode egg bonus whip lend dinner ketchup sugar bleak arena";
+var mnemonic = "evil aware job cushion kit bulk economy tunnel material police open hole";

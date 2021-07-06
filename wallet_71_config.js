@@ -1,1 +1,1 @@
-var mnemonic = "habit stay bitter lava hold side ice glad long shiver dove stand";
+var mnemonic = "adapt zone job omit bright obtain scrub ready token fee ball thank";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive clump plug february brisk gentle steel return fatal talent attend chimney";
+var mnemonic = "world obey another benefit client foil clutch exclude child tackle attack square";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory sound palace spatial menu icon exchange bomb rookie sunny music cave";
+var mnemonic = "body stick approve fossil sword vehicle clog oblige angry street unfold crazy";

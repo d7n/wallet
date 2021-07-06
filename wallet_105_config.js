@@ -1,1 +1,1 @@
-var mnemonic = "spoil culture gospel visit adult olive acoustic mistake prison round general acoustic";
+var mnemonic = "estate cannon ozone rely layer approve wet cricket post kit answer scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly salad chef boy rocket tape aware weird piece tragic urban genre";
+var mnemonic = "march milk friend cradle match shop celery fury inside agree shadow practice";

@@ -1,1 +1,1 @@
-var mnemonic = "vault dune style initial tail current sure link tell settle enable card";
+var mnemonic = "table slot friend dog regret fancy library tornado payment relax purpose stomach";

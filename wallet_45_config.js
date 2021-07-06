@@ -1,1 +1,1 @@
-var mnemonic = "resource swap illegal rice ripple pitch unknown deny matter major manage machine";
+var mnemonic = "believe very enlist dynamic spin kiss return purse ramp economy dog cushion";

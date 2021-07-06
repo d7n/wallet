@@ -1,1 +1,1 @@
-var mnemonic = "razor toe enforce slab patch autumn remain legal rich dress curtain blade";
+var mnemonic = "indoor protect question candy wreck together faculty wedding ridge elevator enroll gaze";

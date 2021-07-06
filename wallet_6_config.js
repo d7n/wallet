@@ -1,1 +1,1 @@
-var mnemonic = "urban execute lava remove basic huge rapid tennis sea father waste vast";
+var mnemonic = "another planet exhibit amazing huge have caught tunnel call baby utility scan";

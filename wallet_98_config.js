@@ -1,1 +1,1 @@
-var mnemonic = "lyrics much harsh keen beef cake maid dynamic tank farm hybrid advance";
+var mnemonic = "grab weather quality chaos negative library steel labor seminar happy planet treat";

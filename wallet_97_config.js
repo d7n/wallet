@@ -1,1 +1,1 @@
-var mnemonic = "metal crucial pony prosper grocery move wasp mirror protect scrap like shaft";
+var mnemonic = "street slab hockey release frequent develop stool wood health program order donkey";

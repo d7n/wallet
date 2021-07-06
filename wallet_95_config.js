@@ -1,1 +1,1 @@
-var mnemonic = "wood donkey report churn before loyal decide claw retire purpose opinion suggest";
+var mnemonic = "broccoli music conduct auto panel sun craft interest fish family sleep glow";

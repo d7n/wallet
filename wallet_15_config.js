@@ -1,1 +1,1 @@
-var mnemonic = "never high cat over wave flock angle account index embark simple cross";
+var mnemonic = "addict heavy text awesome giant retreat cement sense exit seminar cereal muscle";

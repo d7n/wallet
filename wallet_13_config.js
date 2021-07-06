@@ -1,1 +1,1 @@
-var mnemonic = "orbit genuine tilt despair damp umbrella stage dilemma alone yard major sad";
+var mnemonic = "attack utility truth inmate sugar capable antenna walnut enforce element inch coin";

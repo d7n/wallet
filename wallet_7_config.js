@@ -1,1 +1,1 @@
-var mnemonic = "shadow execute bacon view toss exact miracle pyramid organ easy consider leisure";
+var mnemonic = "learn ladder farm pistol budget tank advice gap unable knock until soon";

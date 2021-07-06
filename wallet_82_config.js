@@ -1,1 +1,1 @@
-var mnemonic = "car lend muffin that decade type copy vintage shy raccoon hard online";
+var mnemonic = "spice voyage fortune where habit brave warm coach alter vacuum comic earn";

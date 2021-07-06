@@ -1,1 +1,1 @@
-var mnemonic = "fault chest secret buddy draw pause coin leisure abandon sugar wish zoo";
+var mnemonic = "crawl robot bacon team acquire version lottery sick raise fitness toe sort";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans soccer wife guide path afford hat update possible debris opera shiver";
+var mnemonic = "cook medal deposit burger equip science rude fetch cake napkin nephew pretty";
