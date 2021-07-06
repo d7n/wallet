@@ -1,1 +1,1 @@
-var mnemonic = "arrange stable squeeze misery vacant vintage relax bomb call possible smart off";
+var mnemonic = "neither genre when same capable slot want deal crack warrior daughter share";

@@ -1,1 +1,1 @@
-var mnemonic = "section eagle setup human dose beauty slight friend street theme couple morning";
+var mnemonic = "nurse rural vapor fiber night essence fitness base riot job alert exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "replace crawl answer lawn alcohol impact tape benefit evil song table cushion";
+var mnemonic = "nose logic riot forum waste crunch trade upgrade negative rain relax carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "praise already tent frost caution word tattoo spawn obvious toy next tourist";
+var mnemonic = "salt volcano decrease address inch month kitten orbit roast host impact perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma tackle differ all sniff few mesh royal river again glimpse midnight";
+var mnemonic = "casino prevent tired ice dad piano panic degree artist embody client also";

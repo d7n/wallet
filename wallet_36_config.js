@@ -1,1 +1,1 @@
-var mnemonic = "control crumble shove tuition calm record flight bus inner race sword hybrid";
+var mnemonic = "alcohol forest collect music discover elite nominee profit carbon salad laugh weapon";

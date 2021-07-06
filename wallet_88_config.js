@@ -1,1 +1,1 @@
-var mnemonic = "ranch bless list dwarf detect economy dice umbrella sail raven spirit divorce";
+var mnemonic = "retire sock charge quality better moral donor control vintage balance chimney rebuild";

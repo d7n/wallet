@@ -1,1 +1,1 @@
-var mnemonic = "example bottom fancy slush black jelly jacket hurdle tonight churn crew defy";
+var mnemonic = "culture assault option flavor title glide screen goddess city segment rule spend";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich amused electric attitude main wisdom member electric domain pact tell chicken";
+var mnemonic = "unlock tail apart buddy raw bottom spike ivory series pear hurt math";

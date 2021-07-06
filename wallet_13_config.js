@@ -1,1 +1,1 @@
-var mnemonic = "width erase sister fall happy wealth wheat tuition stadium dove quality unique";
+var mnemonic = "omit ahead taste retire conduct glue narrow execute cereal cereal fresh increase";

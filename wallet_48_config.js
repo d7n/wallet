@@ -1,1 +1,1 @@
-var mnemonic = "dove neglect shell orbit adapt receive window insane bubble mother chimney celery";
+var mnemonic = "stereo feed minimum mom celery horror neutral cage ship antique wing apology";

@@ -1,1 +1,1 @@
-var mnemonic = "game enhance crawl obey pave dance heavy suit address region thrive swear";
+var mnemonic = "primary chaos expose lumber dash fire joy city nominee supreme brain rail";

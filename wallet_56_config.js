@@ -1,1 +1,1 @@
-var mnemonic = "much tongue rocket thrive dice code foil disorder promote waste capital romance";
+var mnemonic = "surround picture cat liquid aspect behind wisdom unfold invite excuse neck section";

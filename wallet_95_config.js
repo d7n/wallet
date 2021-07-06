@@ -1,1 +1,1 @@
-var mnemonic = "remind bar purpose athlete pyramid kidney mail ramp flush miracle reopen sound";
+var mnemonic = "giggle wink gun choice album narrow model monkey dragon insect witness physical";

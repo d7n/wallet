@@ -1,1 +1,1 @@
-var mnemonic = "certain orbit taste spy lyrics success enforce moment skin project rocket dune";
+var mnemonic = "spot pink gather grunt unlock blouse town truth quote brand humble suspect";

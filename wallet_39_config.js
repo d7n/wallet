@@ -1,1 +1,1 @@
-var mnemonic = "tape document wet near banner fuel document surprise harbor shield farm avocado";
+var mnemonic = "color jazz raccoon dish define window goat concert because resource rival exile";

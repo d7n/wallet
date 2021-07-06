@@ -1,1 +1,1 @@
-var mnemonic = "saddle primary idea cable drip leg volume rural index like cage wreck";
+var mnemonic = "risk raise stick congress valid sail throw found method spell sister swift";

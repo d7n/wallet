@@ -1,1 +1,1 @@
-var mnemonic = "ugly mobile lamp weasel silk want proud clown piano tuna call glad";
+var mnemonic = "spread kitten text end rib wasp broccoli joke siren immense barely turkey";

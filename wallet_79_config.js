@@ -1,1 +1,1 @@
-var mnemonic = "logic damp describe immense bonus craft trial quarter donkey review mirror miracle";
+var mnemonic = "leisure summer alert crowd chimney judge month number gloom grape rigid deputy";

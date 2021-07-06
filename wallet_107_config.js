@@ -1,1 +1,1 @@
-var mnemonic = "pyramid escape lecture scrap code affair sketch excuse glory census proud lunch";
+var mnemonic = "rice payment shadow slice edit glory awkward net differ parrot truth depend";

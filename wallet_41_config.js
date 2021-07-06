@@ -1,1 +1,1 @@
-var mnemonic = "any tail rebel wire woman slab switch slice armor other skull embody";
+var mnemonic = "grocery color mechanic excuse glare raccoon caught keen model december frame early";

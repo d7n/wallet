@@ -1,1 +1,1 @@
-var mnemonic = "struggle play tobacco toss tilt report romance oxygen public bubble lift symptom";
+var mnemonic = "empower blue beach enrich bronze layer fine forest example toss cute vibrant";

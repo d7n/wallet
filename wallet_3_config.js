@@ -1,1 +1,1 @@
-var mnemonic = "treat syrup giant visa burst brick jelly grace ankle swing ecology online";
+var mnemonic = "story stairs inherit combine slim behind random sick reduce antique disagree alien";

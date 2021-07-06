@@ -1,1 +1,1 @@
-var mnemonic = "bubble quality eager spin frog process remember give sphere used bounce clean";
+var mnemonic = "human essence supply shrug hungry blossom exhibit rain clarify popular cricket couch";

@@ -1,1 +1,1 @@
-var mnemonic = "run gesture turn neck lemon gown diagram seek fold bullet sunset chicken";
+var mnemonic = "cube ugly budget correct achieve flavor matrix connect tape champion humor crumble";

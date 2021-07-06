@@ -1,1 +1,1 @@
-var mnemonic = "visual main axis muscle silent indicate reduce file ostrich material youth ten";
+var mnemonic = "material rapid club tornado same elephant rare beauty tray company control fish";

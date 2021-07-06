@@ -1,1 +1,1 @@
-var mnemonic = "logic trash soon behind speed almost dial miss copper inner habit secret";
+var mnemonic = "tilt toe frequent prison vicious lift laundry depend crystal wrist unlock village";

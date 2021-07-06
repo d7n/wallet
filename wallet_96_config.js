@@ -1,1 +1,1 @@
-var mnemonic = "science scale peasant cover divert funny general ostrich exit sleep sorry decorate";
+var mnemonic = "common soda humble subject frequent artist chef decline tennis enable nuclear ghost";

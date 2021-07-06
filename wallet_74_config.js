@@ -1,1 +1,1 @@
-var mnemonic = "parent trap flush lyrics upgrade foam lend pledge model hood day park";
+var mnemonic = "duty damage year stay crash high rare chapter theory response exact melt";

@@ -1,1 +1,1 @@
-var mnemonic = "barely wing boil stock enrich diary debate reduce left display marine indicate";
+var mnemonic = "cluster two eagle scrub agree moon broccoli debris spring inch tip entry";

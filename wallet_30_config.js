@@ -1,1 +1,1 @@
-var mnemonic = "super type yellow news bench toe actress venue vital want burst aerobic";
+var mnemonic = "sketch fog tired tonight quiz nature wrong shallow squeeze coach solar candy";

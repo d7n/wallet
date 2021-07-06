@@ -1,1 +1,1 @@
-var mnemonic = "prison decorate antique market wild wall silver acquire radar chase prepare sell";
+var mnemonic = "easily mistake deer accident movie misery hurt adult spend exclude parrot frost";

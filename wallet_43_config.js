@@ -1,1 +1,1 @@
-var mnemonic = "health search harbor share certain remove cruel elite gift denial source pencil";
+var mnemonic = "view try sleep ghost void weasel runway patient cry raw evolve admit";

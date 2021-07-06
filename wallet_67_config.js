@@ -1,1 +1,1 @@
-var mnemonic = "find decorate awake abandon caught settle employ rabbit target early control skate";
+var mnemonic = "claw retire protect merry auto habit space box arctic sausage saddle vendor";

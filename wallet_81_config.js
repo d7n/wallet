@@ -1,1 +1,1 @@
-var mnemonic = "key gossip exit resist puppy install floor guard small boy execute advance";
+var mnemonic = "crew coil arrange prosper chapter find tone torch cover mention suffer label";

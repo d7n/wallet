@@ -1,1 +1,1 @@
-var mnemonic = "main renew velvet gallery flush certain assume gauge toss indicate empty faculty";
+var mnemonic = "impulse magnet enter spoon tomato yellow require umbrella sugar primary luggage broom";

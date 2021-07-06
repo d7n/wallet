@@ -1,1 +1,1 @@
-var mnemonic = "bone toss today differ wreck husband keen weapon chair tiny trend endless";
+var mnemonic = "ranch sleep kingdom resist despair install render hamster modify pioneer obvious symptom";

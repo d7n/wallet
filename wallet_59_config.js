@@ -1,1 +1,1 @@
-var mnemonic = "distance vicious oblige relief avocado cluster cup filter wink cash model actress";
+var mnemonic = "engine humor stable wife kangaroo service flock female blossom notable actress ring";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey mushroom lady section estate escape canoe path struggle vote donkey fluid";
+var mnemonic = "unique tobacco inform cabin session dinosaur permit fix stock paddle horse bar";

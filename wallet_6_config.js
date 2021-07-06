@@ -1,1 +1,1 @@
-var mnemonic = "mirror blame end rail scrap hole course gasp pigeon guitar credit trigger";
+var mnemonic = "fade rate chat glue poem art escape damage helmet document leader coyote";

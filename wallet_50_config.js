@@ -1,1 +1,1 @@
-var mnemonic = "party retire kick visa beef festival they broom glance improve provide blade";
+var mnemonic = "sand quality size song angry comfort split favorite mobile priority plate level";

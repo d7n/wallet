@@ -1,1 +1,1 @@
-var mnemonic = "capital seminar venture bridge blade cattle game dice giggle left chronic place";
+var mnemonic = "already region display catch honey diagram fashion frog display bracket oak canoe";

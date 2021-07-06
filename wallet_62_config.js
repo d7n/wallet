@@ -1,1 +1,1 @@
-var mnemonic = "mountain finish pass faith clock sponsor wheat describe gym view weasel jacket";
+var mnemonic = "good staff double industry eternal require swear mansion upgrade canvas canal interest";

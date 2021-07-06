@@ -1,1 +1,1 @@
-var mnemonic = "example own dinner giraffe exile noble ready youth jungle crack animal floor";
+var mnemonic = "impact humor shrug antique phrase like flower dose earth vehicle ask little";

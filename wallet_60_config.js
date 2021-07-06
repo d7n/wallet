@@ -1,1 +1,1 @@
-var mnemonic = "medal equal area suffer feel aunt town invest grant fog sustain finish";
+var mnemonic = "confirm eagle voice sea body senior breeze eight suspect cactus lamp since";

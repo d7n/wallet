@@ -1,1 +1,1 @@
-var mnemonic = "gadget sausage pony detail cloud uncover bless museum used emerge home raise";
+var mnemonic = "they flower cloth post mystery average around pave violin record trim leisure";

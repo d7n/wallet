@@ -1,1 +1,1 @@
-var mnemonic = "borrow quit wet cave horn cherry alley document payment problem enrich car";
+var mnemonic = "option label thank retire soul resemble depth pudding pioneer parent grid pulp";

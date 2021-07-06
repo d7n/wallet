@@ -1,1 +1,1 @@
-var mnemonic = "mom client short rapid panic athlete latin brother digital future train mistake";
+var mnemonic = "sustain hint twice range yard cross disagree lottery flock search hint upper";

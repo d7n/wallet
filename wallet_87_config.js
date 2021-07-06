@@ -1,1 +1,1 @@
-var mnemonic = "liquid eye purchase remain goddess extra also cash orient buyer lamp father";
+var mnemonic = "range skull inject name service twist crack shock one found kick zero";

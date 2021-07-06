@@ -1,1 +1,1 @@
-var mnemonic = "spot fruit bargain census still clutch just kangaroo churn cliff company pig";
+var mnemonic = "ring sign ski arrest couch fashion scissors gun casino obey code review";

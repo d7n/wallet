@@ -1,1 +1,1 @@
-var mnemonic = "nose sketch theory unfold stuff nephew blast pen dutch wear crisp indicate";
+var mnemonic = "vacuum ranch voice lava mask addict water athlete width barely unable planet";

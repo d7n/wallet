@@ -1,1 +1,1 @@
-var mnemonic = "lemon jealous point clown lounge such must rich ice orphan jar gown";
+var mnemonic = "describe vote glide ostrich fruit panel control exercise crush uphold volume cup";

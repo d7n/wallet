@@ -1,1 +1,1 @@
-var mnemonic = "security fragile obscure document gadget problem survey number husband spare danger use";
+var mnemonic = "faculty sniff mouse love upon raw know mosquito manual festival embark develop";

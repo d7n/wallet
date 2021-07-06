@@ -1,1 +1,1 @@
-var mnemonic = "replace certain sight tumble umbrella lobster guitar nut vague portion marine damp";
+var mnemonic = "gift all artefact shed become scan rapid sort clap physical fragile struggle";

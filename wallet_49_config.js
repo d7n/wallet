@@ -1,1 +1,1 @@
-var mnemonic = "view stove lift mansion cigar tell flavor stable buyer grow receive boost";
+var mnemonic = "palm upon loud tail analyst mention potato wet picnic vapor fame husband";

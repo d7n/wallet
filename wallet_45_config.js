@@ -1,1 +1,1 @@
-var mnemonic = "extend key youth despair youth involve acid addict vibrant actual core bonus";
+var mnemonic = "grow elbow budget hello sweet detect project legend issue today bitter just";

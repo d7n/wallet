@@ -1,1 +1,1 @@
-var mnemonic = "isolate member chest escape turn toward glue stamp fold until novel resist";
+var mnemonic = "spawn fox pioneer sign fitness into flight aim catalog feature scrub garlic";

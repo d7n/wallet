@@ -1,1 +1,1 @@
-var mnemonic = "ostrich category bread among leader machine north vapor miss icon budget almost";
+var mnemonic = "cream vacant detect toward siege material unveil under sorry where soul bind";

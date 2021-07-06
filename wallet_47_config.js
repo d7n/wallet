@@ -1,1 +1,1 @@
-var mnemonic = "mixed wrap silk prosper estate surprise offer pupil caught cup speak saddle";
+var mnemonic = "decide because absent please north target candy can stock aunt interest protect";

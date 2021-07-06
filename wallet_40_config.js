@@ -1,1 +1,1 @@
-var mnemonic = "cruise advance senior verb season black six swarm element stereo century rural";
+var mnemonic = "dry maid energy brain custom toss column erase three glory mechanic butter";

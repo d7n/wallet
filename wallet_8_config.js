@@ -1,1 +1,1 @@
-var mnemonic = "whisper napkin measure hope zoo there online possible mistake lunar trust brass";
+var mnemonic = "exhaust spider math flower ring cigar below token cake ill veteran truck";

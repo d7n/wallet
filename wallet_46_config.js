@@ -1,1 +1,1 @@
-var mnemonic = "depend orphan toddler climb promote educate brand ship globe skirt reflect genius";
+var mnemonic = "coyote museum artwork vital lamp dream logic guilt together satisfy brown crumble";

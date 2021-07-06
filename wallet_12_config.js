@@ -1,1 +1,1 @@
-var mnemonic = "pilot trigger coin adjust prize chuckle month hotel coach calm kitten spring";
+var mnemonic = "upper give fatigue clip owner there entry edit edge zero raise nephew";

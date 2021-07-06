@@ -1,1 +1,1 @@
-var mnemonic = "clay gossip scale will staff steak trial possible identify wrist fantasy animal";
+var mnemonic = "analyst imitate regret snow bicycle unlock ecology clean style minor lab lawsuit";

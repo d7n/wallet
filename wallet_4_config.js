@@ -1,1 +1,1 @@
-var mnemonic = "still badge reform spoil one mushroom endless cool diary cake welcome pumpkin";
+var mnemonic = "eagle follow then nuclear reopen fringe hunt artefact genuine trend goat step";

@@ -1,1 +1,1 @@
-var mnemonic = "affair purpose dry maple dumb sell twelve remind warm hotel outside olive";
+var mnemonic = "embrace hard nose same genre pupil donor trumpet bulk minimum repair mass";

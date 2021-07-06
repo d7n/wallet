@@ -1,1 +1,1 @@
-var mnemonic = "insane clever pitch balance chimney grape help sudden hurry expire urge style";
+var mnemonic = "virus prize effort seat woman better chunk mushroom hospital skate ecology water";

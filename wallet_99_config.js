@@ -1,1 +1,1 @@
-var mnemonic = "dolphin talent hire olympic steel female ethics genuine chef pitch raven universe";
+var mnemonic = "rich verify position evoke dash diary trigger rapid kitchen all suffer visit";

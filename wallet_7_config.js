@@ -1,1 +1,1 @@
-var mnemonic = "prize into error analyst person twelve pulp submit shrug trophy help whisper";
+var mnemonic = "canal yard ill update dwarf vault chief click caution rural envelope prepare";

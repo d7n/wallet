@@ -1,1 +1,1 @@
-var mnemonic = "salmon diet alter wild torch rib sketch zero mansion educate ankle essence";
+var mnemonic = "elbow chunk response movie box mammal drop green invite priority measure steel";

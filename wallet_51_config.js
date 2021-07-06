@@ -1,1 +1,1 @@
-var mnemonic = "brass muscle talk stage traffic apple number dynamic tell elegant wrestle cross";
+var mnemonic = "enrich enroll panda party box inspire fault horror surge woman afford museum";

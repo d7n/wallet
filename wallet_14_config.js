@@ -1,1 +1,1 @@
-var mnemonic = "quarter style slide simple ill alien frozen pumpkin abuse dignity flame between";
+var mnemonic = "vivid engage priority dash rally include decrease hurdle code silly ceiling treat";

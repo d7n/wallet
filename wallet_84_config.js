@@ -1,1 +1,1 @@
-var mnemonic = "used spider knock mandate race owner volume caution inspire second license jump";
+var mnemonic = "army zero such dial owner figure little puppy pencil shuffle carbon video";

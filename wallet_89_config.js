@@ -1,1 +1,1 @@
-var mnemonic = "vessel pledge crane thumb unaware million unknown narrow tool goddess also enroll";
+var mnemonic = "sleep random venture device detect motion rescue across exist roof fruit help";

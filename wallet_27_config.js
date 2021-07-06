@@ -1,1 +1,1 @@
-var mnemonic = "cloud reopen pass blossom promote surround meadow face mansion flash proof melt";
+var mnemonic = "peanut abstract offer pig struggle decide clever shed steak divide credit skull";

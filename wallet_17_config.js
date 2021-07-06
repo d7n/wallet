@@ -1,1 +1,1 @@
-var mnemonic = "video gorilla rescue grass daring replace clever armor scrap can table final";
+var mnemonic = "fox offer medal ketchup donor unfair success subway pulse easily until choose";

@@ -1,1 +1,1 @@
-var mnemonic = "define pilot divide caught morning pelican supreme hello process grain volume reject";
+var mnemonic = "slab auction umbrella junior dog kiss surprise satisfy tongue doll cousin donate";

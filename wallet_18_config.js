@@ -1,1 +1,1 @@
-var mnemonic = "vital have road blouse grain essay audit chronic gaze antenna furnace hawk";
+var mnemonic = "champion upgrade distance horse ask cabin suggest pony episode race rib feed";

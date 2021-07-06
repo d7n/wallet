@@ -1,1 +1,1 @@
-var mnemonic = "link rural shaft column buzz tornado pledge hint spice innocent when equal";
+var mnemonic = "huge ensure train proof example live wonder select pole energy access dice";

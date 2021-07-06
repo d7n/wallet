@@ -1,1 +1,1 @@
-var mnemonic = "wife boat agent crater earth noble food island any soon fresh laptop";
+var mnemonic = "nephew air shy neck mixture train orient alarm business below airport click";

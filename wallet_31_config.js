@@ -1,1 +1,1 @@
-var mnemonic = "view juice toe bring marine exotic bracket stomach convince elevator vague solar";
+var mnemonic = "length gold weapon erosion brass also one antique illness heavy hole oven";

@@ -1,1 +1,1 @@
-var mnemonic = "small damage pond moon where easily swallow belt exhaust shed brick luggage";
+var mnemonic = "address act humble adapt abuse token surface mass witness hill undo level";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt trend erase civil spread guide scrub govern poet network kick seed";
+var mnemonic = "turtle atom object huge ozone camp error group theory walk song judge";

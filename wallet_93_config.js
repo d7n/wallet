@@ -1,1 +1,1 @@
-var mnemonic = "magic minor space danger depart shoot shine elephant payment couple update credit";
+var mnemonic = "apology maid okay palm hint plate old angry supreme cover smooth seed";

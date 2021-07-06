@@ -1,1 +1,1 @@
-var mnemonic = "room leader spray auction bracket tomorrow talent tongue extend promote weather culture";
+var mnemonic = "belt deposit asset cherry lucky innocent wing tree arm grant wrestle win";

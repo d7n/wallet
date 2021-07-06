@@ -1,1 +1,1 @@
-var mnemonic = "real doctor essence story disease tray protect chapter calm afford patient category";
+var mnemonic = "call youth artwork balance donate chest viable glimpse among small recycle siren";

@@ -1,1 +1,1 @@
-var mnemonic = "lion session arrive gauge side oxygen tiny notice dream proof public loyal";
+var mnemonic = "inspire twenty dry acid dentist vicious hire rib palace sad solution scrub";

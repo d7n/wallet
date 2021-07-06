@@ -1,1 +1,1 @@
-var mnemonic = "provide web damage tone dirt talk firm field myself canoe rival forum";
+var mnemonic = "assault wrong identify regular blush nice library canvas caught organ still rotate";
