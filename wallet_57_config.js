@@ -1,1 +1,1 @@
-var mnemonic = "series radar fault exercise sport gasp hybrid admit east brand improve spider";
+var mnemonic = "chat public coach acquire differ welcome acoustic live unknown inch top fiber";

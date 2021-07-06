@@ -1,1 +1,1 @@
-var mnemonic = "venue ginger maid junk hybrid apple crater picture throw butter diet holiday";
+var mnemonic = "venture economy bronze grunt robust advance front client custom refuse shuffle immense";

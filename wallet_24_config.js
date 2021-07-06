@@ -1,1 +1,1 @@
-var mnemonic = "shine unhappy prosper inquiry embrace carbon whale frozen brain urban pool general";
+var mnemonic = "black occur cinnamon sun excuse track myself mechanic best small multiply atom";

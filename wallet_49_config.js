@@ -1,1 +1,1 @@
-var mnemonic = "warm measure ice raw soft protect venture medal edge fold similar frog";
+var mnemonic = "motion peasant bring march empower desert above grain country volume fresh dress";

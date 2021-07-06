@@ -1,1 +1,1 @@
-var mnemonic = "dwarf cradle present satoshi spike erode vacuum lift entry glad hospital absent";
+var mnemonic = "blame jump erase invite need zone brick glare cherry bomb stove bright";

@@ -1,1 +1,1 @@
-var mnemonic = "educate tomorrow pass pill evidence jealous first eagle ribbon jacket edit noise";
+var mnemonic = "hurt ice sauce volcano buffalo fat network ghost recycle wheat master title";

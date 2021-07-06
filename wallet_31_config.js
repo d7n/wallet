@@ -1,1 +1,1 @@
-var mnemonic = "stick marriage exotic vanish marble frog safe prefer clarify captain cliff whisper";
+var mnemonic = "despair kit position unusual phone search dismiss page rib page animal tube";

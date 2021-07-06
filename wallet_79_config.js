@@ -1,1 +1,1 @@
-var mnemonic = "marble fence strong veteran giraffe dose noise chalk notable resist wisdom inherit";
+var mnemonic = "wet general limit trim forum royal all category school license midnight satoshi";

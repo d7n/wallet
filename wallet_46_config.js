@@ -1,1 +1,1 @@
-var mnemonic = "razor exotic reunion range grunt fix tiger envelope theory artwork picture trap";
+var mnemonic = "grocery person maze begin bundle point hunt stage gather actress magic charge";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe poverty long light patient dice tumble merit since bottom brick brush";
+var mnemonic = "exotic gasp mask unlock canvas atom scrap misery goose stereo half pave";

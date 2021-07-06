@@ -1,1 +1,1 @@
-var mnemonic = "swift clerk use fringe spell vault budget library coyote oven tenant library";
+var mnemonic = "lamp bus distance long client forum need update cat trend sister canvas";

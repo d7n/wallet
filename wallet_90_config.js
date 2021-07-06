@@ -1,1 +1,1 @@
-var mnemonic = "enhance door dune junk safe error obscure estate advance salad mercy body";
+var mnemonic = "party pole casino noodle solar urge trim lawn treat split cluster vault";

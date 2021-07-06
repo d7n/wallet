@@ -1,1 +1,1 @@
-var mnemonic = "fabric worry achieve curious history enact heavy match top unveil upgrade echo";
+var mnemonic = "bronze also program interest strong library trash slush broccoli believe siren undo";

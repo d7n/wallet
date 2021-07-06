@@ -1,1 +1,1 @@
-var mnemonic = "renew myth decide exotic about abstract cup farm patch snack shuffle trophy";
+var mnemonic = "wish puzzle pulse aisle alone goose culture more fiber diamond can aspect";

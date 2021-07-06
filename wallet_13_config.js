@@ -1,1 +1,1 @@
-var mnemonic = "false target fix bleak area domain person wool pink retire slice web";
+var mnemonic = "vibrant ski inside citizen undo cannon tail phrase wise write pupil parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm royal shoe pair brand unique lawsuit alarm juice lens slim teach";
+var mnemonic = "chapter envelope poet swift minor depart level series grab father athlete stove";

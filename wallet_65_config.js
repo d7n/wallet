@@ -1,1 +1,1 @@
-var mnemonic = "ready coach stomach siren melt thank pioneer increase wide capable power office";
+var mnemonic = "era holiday scrub escape poet deer chef okay wait accident drama ladder";

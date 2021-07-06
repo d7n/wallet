@@ -1,1 +1,1 @@
-var mnemonic = "peanut exist mouse payment rule family spin history sea rural ozone giggle";
+var mnemonic = "mountain dice ensure pull tongue march abuse mean story level science liberty";

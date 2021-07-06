@@ -1,1 +1,1 @@
-var mnemonic = "insect brass rifle jazz quality eager clock give return hero cement step";
+var mnemonic = "will burden steel goddess have merge south below kid drop recipe off";

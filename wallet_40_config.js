@@ -1,1 +1,1 @@
-var mnemonic = "famous kitten garment empower cement portion bounce lizard typical place snap audit";
+var mnemonic = "hello master gaze unit stadium motor axis hurry recycle friend pledge reunion";

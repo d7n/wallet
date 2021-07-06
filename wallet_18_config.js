@@ -1,1 +1,1 @@
-var mnemonic = "sentence tortoise round away sorry income early manage sustain reward dose about";
+var mnemonic = "reform hello method weekend armor kingdom subway bullet muscle panic success utility";

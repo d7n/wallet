@@ -1,1 +1,1 @@
-var mnemonic = "bird rule clever quarter net amount dice rebel copy attitude else hello";
+var mnemonic = "garage innocent derive train example apology tent laptop want various celery history";

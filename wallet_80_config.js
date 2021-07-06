@@ -1,1 +1,1 @@
-var mnemonic = "enough express anger rather pet expect peanut radar entry cloud inspire noodle";
+var mnemonic = "false man heart luxury tide feed whale brown inhale final tonight shuffle";

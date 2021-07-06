@@ -1,1 +1,1 @@
-var mnemonic = "illness water over burden noble ceiling bulb mix pipe visit amateur network";
+var mnemonic = "confirm autumn vibrant hand husband hospital knock jealous mad vibrant guide short";

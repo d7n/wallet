@@ -1,1 +1,1 @@
-var mnemonic = "dream screen asthma brown sight recall merit stove mercy artefact fortune major";
+var mnemonic = "chase net sketch cart genre pyramid fade width option raw guitar curve";

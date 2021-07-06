@@ -1,1 +1,1 @@
-var mnemonic = "renew lizard document siege tennis jewel estate jump build spider hawk prevent";
+var mnemonic = "draw expect clinic submit hurt night loan gun scare shallow buddy glimpse";

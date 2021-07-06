@@ -1,1 +1,1 @@
-var mnemonic = "disagree thought salute keep flight use inmate absent spoil brave donor place";
+var mnemonic = "pink soft thrive pilot timber clock power visit between legend outdoor length";

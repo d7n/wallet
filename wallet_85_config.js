@@ -1,1 +1,1 @@
-var mnemonic = "melody swing direct candy grace gauge system gate ancient blouse envelope toward";
+var mnemonic = "potato oil wink omit sick fiscal collect cat noble broken coast grape";

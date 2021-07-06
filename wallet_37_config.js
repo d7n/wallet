@@ -1,1 +1,1 @@
-var mnemonic = "fall latin debate crazy proof latin solution either unhappy task circle sorry";
+var mnemonic = "swear veteran income asset live icon curtain luggage pudding antique escape flip";

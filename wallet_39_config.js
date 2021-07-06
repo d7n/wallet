@@ -1,1 +1,1 @@
-var mnemonic = "text odor glass magic isolate notable crucial delay stomach title bracket fat";
+var mnemonic = "ordinary damage impact repair lunar valley penalty trim amused power squeeze master";

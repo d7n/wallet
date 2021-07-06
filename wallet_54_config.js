@@ -1,1 +1,1 @@
-var mnemonic = "trumpet hidden game differ hurry salmon prosper clock exclude oblige fame razor";
+var mnemonic = "banana music change perfect pipe hill young sentence merit involve portion pattern";

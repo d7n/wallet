@@ -1,1 +1,1 @@
-var mnemonic = "cram february rare ability best hip cloud push father eagle tenant age";
+var mnemonic = "item aunt true local spell coach fame cement end bright lens cycle";

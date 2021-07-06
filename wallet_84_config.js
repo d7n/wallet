@@ -1,1 +1,1 @@
-var mnemonic = "abuse daring cupboard castle grass enact call rose glue soldier bone sauce";
+var mnemonic = "define fat miss tobacco loud cancel favorite twenty sail until light upgrade";

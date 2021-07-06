@@ -1,1 +1,1 @@
-var mnemonic = "beauty route loan inflict stage indoor seed car coast cream cupboard exhaust";
+var mnemonic = "message abstract display simple coin forget test game cream error castle lecture";

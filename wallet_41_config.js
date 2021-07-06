@@ -1,1 +1,1 @@
-var mnemonic = "coin warfare two magic good follow hair best east nasty sweet still";
+var mnemonic = "sunny crystal arrange acoustic shoe outdoor drastic bless motion glow vendor sustain";

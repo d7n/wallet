@@ -1,1 +1,1 @@
-var mnemonic = "nominee early situate enemy frown enjoy boring face blue range fluid swap";
+var mnemonic = "tip rotate base cash seed best inner display awkward swap deer recall";

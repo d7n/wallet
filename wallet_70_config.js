@@ -1,1 +1,1 @@
-var mnemonic = "rice tool manage despair casino artist fetch relief pudding desert column stay";
+var mnemonic = "village cream blouse wisdom glove typical canoe walk naive thrive silent thrive";

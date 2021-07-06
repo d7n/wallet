@@ -1,1 +1,1 @@
-var mnemonic = "liquid palm mimic trumpet move arrange gadget wink logic innocent mosquito gas";
+var mnemonic = "two twist saddle rally cram afraid insane inmate moment blur learn drum";

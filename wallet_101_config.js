@@ -1,1 +1,1 @@
-var mnemonic = "alien auto position usage unfold subject interest trade blame spider peace sound";
+var mnemonic = "country zone canyon weather skill churn spatial talk giant practice vague lumber";

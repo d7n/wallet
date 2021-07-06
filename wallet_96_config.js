@@ -1,1 +1,1 @@
-var mnemonic = "ankle empower sentence point like rescue siren raccoon skin kiwi half sock";
+var mnemonic = "pen scorpion dolphin ecology odor roof pistol dinner issue unable march trash";

@@ -1,1 +1,1 @@
-var mnemonic = "clock mystery toward beef portion one army ready security flame clean bus";
+var mnemonic = "case style winter shadow wreck lock frost close wrestle dignity level tower";

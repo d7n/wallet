@@ -1,1 +1,1 @@
-var mnemonic = "black mutual attack wide finger cup limb price bridge truck fault allow";
+var mnemonic = "tail rebel mean october milk math lottery true error carpet reunion topic";

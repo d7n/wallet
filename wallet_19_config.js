@@ -1,1 +1,1 @@
-var mnemonic = "digital expand patrol pair mixed cluster cook turn useless asset dune write";
+var mnemonic = "friend roast swamp dog theme hold law please book weasel focus mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "fix breeze used dizzy thunder cave soldier extra process galaxy finger income";
+var mnemonic = "feature mammal burden grid category travel slight myself chest mean ahead broom";

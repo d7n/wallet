@@ -1,1 +1,1 @@
-var mnemonic = "frown wild make embark lab deal victory seminar buzz double kingdom remove";
+var mnemonic = "record anger rocket alarm rescue dentist square suit company flight win broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "spare party wife current copper cereal tube glimpse rare term flight oyster";
+var mnemonic = "ski rebel absurd mother unhappy abstract shadow wasp material expire machine disease";

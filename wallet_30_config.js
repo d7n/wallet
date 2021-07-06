@@ -1,1 +1,1 @@
-var mnemonic = "casino execute quarter cake pet runway wet dinner century surface seek surround";
+var mnemonic = "capital someone stumble success calm drop tiny someone warrior fatal metal riot";

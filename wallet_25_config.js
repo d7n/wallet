@@ -1,1 +1,1 @@
-var mnemonic = "canoe abstract road battle wreck target wrap skirt heavy when young apology";
+var mnemonic = "choose cargo equal alter table focus piece vapor mandate can globe harsh";

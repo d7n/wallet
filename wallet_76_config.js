@@ -1,1 +1,1 @@
-var mnemonic = "play abuse uncover blind mountain chair atom run better hold token oil";
+var mnemonic = "first aim tone alley wheel bar device deny mutual kind execute blue";

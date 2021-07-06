@@ -1,1 +1,1 @@
-var mnemonic = "bubble hour rookie employ stool fetch earth alarm title protect zoo custom";
+var mnemonic = "truck lava pool damp gesture version network park twice win select vacant";

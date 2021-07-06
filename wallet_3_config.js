@@ -1,1 +1,1 @@
-var mnemonic = "crew utility soon endless bar pepper husband rebel soft marriage diagram erode";
+var mnemonic = "bird fortune current brain tide pair involve pig jewel glow famous festival";

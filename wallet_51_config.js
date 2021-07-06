@@ -1,1 +1,1 @@
-var mnemonic = "diamond quantum outside man empty chaos mirror off solution wisdom clog fall";
+var mnemonic = "rose odor fork argue crime when seek idle sibling build taxi state";

@@ -1,1 +1,1 @@
-var mnemonic = "add example clap ancient chef laptop bicycle dove caught cabbage pluck casino";
+var mnemonic = "spring say month walnut gospel corn during hamster arrive festival spoil exhaust";

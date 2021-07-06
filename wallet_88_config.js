@@ -1,1 +1,1 @@
-var mnemonic = "two sing boil lift gain ask wave friend bomb trend chair reflect";
+var mnemonic = "leg demise follow way hip cat milk used spice total fame author";

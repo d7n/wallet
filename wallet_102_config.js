@@ -1,1 +1,1 @@
-var mnemonic = "unit field option rigid west brother squeeze menu discover bring void come";
+var mnemonic = "grace average faculty woman awful museum grief slab define session render immense";

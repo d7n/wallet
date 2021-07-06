@@ -1,1 +1,1 @@
-var mnemonic = "pelican shaft lion aim west great ecology alley essence wish faint love";
+var mnemonic = "club custom island dream sure tomato fix fork index fat duck vapor";

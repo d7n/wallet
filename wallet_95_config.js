@@ -1,1 +1,1 @@
-var mnemonic = "inject sketch profit thunder task sign world elite behave visa critic mother";
+var mnemonic = "fossil milk hour option define chalk arrange whale bright print tuna way";

@@ -1,1 +1,1 @@
-var mnemonic = "cross material tissue cousin concert nature loan diamond rich snap wear thank";
+var mnemonic = "flight frown desk potato patient knife test nerve crowd learn exile fruit";

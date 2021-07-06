@@ -1,1 +1,1 @@
-var mnemonic = "gadget term speed cart chapter click million finish able spend human brother";
+var mnemonic = "inspire hawk ill caught table vicious glove life ramp kitten abuse flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "dress negative false tomorrow ignore wrap ocean bone demise cool bar mixed";
+var mnemonic = "ecology soon grant clean silent problem limb swamp pyramid interest child rescue";

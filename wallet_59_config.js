@@ -1,1 +1,1 @@
-var mnemonic = "green essay marine kit this urge kit cause opinion eight assume kidney";
+var mnemonic = "virtual thing scatter they way lesson stereo cry exercise love super gadget";

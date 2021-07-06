@@ -1,1 +1,1 @@
-var mnemonic = "gloom give trial kick moon decide rail retire outdoor route lottery seed";
+var mnemonic = "bonus fossil bulk open rug ripple brown paper quit guitar chunk degree";

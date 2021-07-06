@@ -1,1 +1,1 @@
-var mnemonic = "harsh father exist speak tunnel round unfold hammer museum desert tobacco gate";
+var mnemonic = "income peanut curtain diesel labor ugly nerve duty casino ethics sausage record";

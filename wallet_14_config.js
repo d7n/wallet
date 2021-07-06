@@ -1,1 +1,1 @@
-var mnemonic = "avoid minimum urban help city bracket skill welcome exhaust depart turkey visa";
+var mnemonic = "describe useless gloom candy army early tissue evoke junior apology city luggage";

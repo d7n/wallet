@@ -1,1 +1,1 @@
-var mnemonic = "midnight reflect thunder gossip brain purchase maple glare nasty sniff lucky mask";
+var mnemonic = "unveil silver acid ability husband scorpion van episode finish claw pond mean";

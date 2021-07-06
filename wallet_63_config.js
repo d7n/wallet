@@ -1,1 +1,1 @@
-var mnemonic = "junior inner sauce video congress settle food number ladder defy agent network";
+var mnemonic = "jazz supreme country language pave crowd test nose acoustic door silver absent";

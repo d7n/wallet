@@ -1,1 +1,1 @@
-var mnemonic = "matter good air buffalo normal oil chimney punch utility patient coconut cigar";
+var mnemonic = "put cannon mimic enlist total laugh sustain visit afford funny catalog melt";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly outside visual shuffle father enough envelope dignity talent digital transfer wolf";
+var mnemonic = "build ivory vehicle quit more goose wealth find hat wire clay enact";

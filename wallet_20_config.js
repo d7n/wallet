@@ -1,1 +1,1 @@
-var mnemonic = "ostrich wheel phrase novel club flush frost uniform slam wrist around picnic";
+var mnemonic = "crack way whisper riot avocado soon tennis group switch deputy diesel blame";

@@ -1,1 +1,1 @@
-var mnemonic = "atom chest venture victory claim differ retire pyramid space rabbit sell quick";
+var mnemonic = "tumble minor discover turn foil oblige buyer hat replace lemon curve kit";

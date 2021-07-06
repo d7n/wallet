@@ -1,1 +1,1 @@
-var mnemonic = "galaxy frog lion educate delay toe conduct knee check chimney tent tell";
+var mnemonic = "mule mountain need spread struggle cool beauty cupboard below gap possible debate";

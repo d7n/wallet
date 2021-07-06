@@ -1,1 +1,1 @@
-var mnemonic = "love mansion lounge differ amateur drive column agent inflict couple ancient design";
+var mnemonic = "morning citizen viable tank dignity stem stomach taxi patch test guess picnic";

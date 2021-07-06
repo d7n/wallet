@@ -1,1 +1,1 @@
-var mnemonic = "sorry arm armor file absorb birth avocado brass cereal surround echo ten";
+var mnemonic = "inject emotion panda cattle deposit energy wild vast monitor discover inspire spin";

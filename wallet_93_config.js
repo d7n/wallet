@@ -1,1 +1,1 @@
-var mnemonic = "gorilla unfold income foam credit friend pill rely visit grocery beef lobster";
+var mnemonic = "stand brisk inform final mixture move pepper stage cheese metal fortune milk";

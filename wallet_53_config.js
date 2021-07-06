@@ -1,1 +1,1 @@
-var mnemonic = "captain climb pilot sausage hood suggest three venue moral dune rate physical";
+var mnemonic = "brain idea fresh side spy hollow certain cash disease pitch hip clinic";

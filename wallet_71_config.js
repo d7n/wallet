@@ -1,1 +1,1 @@
-var mnemonic = "useless math prosper chef ready erosion bleak pizza raw goose power setup";
+var mnemonic = "broccoli cause skull oak office bag salute divert slim coast used fall";

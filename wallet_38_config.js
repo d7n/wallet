@@ -1,1 +1,1 @@
-var mnemonic = "decline color much area unfair bench magic emotion split clog civil fame";
+var mnemonic = "milk spot own aspect initial humble grain prevent quiz adjust garlic reopen";

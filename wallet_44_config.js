@@ -1,1 +1,1 @@
-var mnemonic = "salt night law dolphin snap earn fog brother table banner endorse label";
+var mnemonic = "elbow program swap cross refuse display work ketchup sand letter wrong kangaroo";

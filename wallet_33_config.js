@@ -1,1 +1,1 @@
-var mnemonic = "ugly expire reveal attitude fruit art crowd into rather mule aspect undo";
+var mnemonic = "elevator acquire solution debate nation illegal awkward three hold exact mechanic powder";

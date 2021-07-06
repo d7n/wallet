@@ -1,1 +1,1 @@
-var mnemonic = "torch expect prize tomorrow illegal hip setup upper nasty begin test unknown";
+var mnemonic = "bleak staff obvious trim damage vanish quiz museum toast poem skill pulp";

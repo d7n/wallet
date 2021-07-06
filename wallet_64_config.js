@@ -1,1 +1,1 @@
-var mnemonic = "season panda soap cradle able suffer vibrant gas number core razor bulk";
+var mnemonic = "boring token lemon speed spider actress body joke dress elder jazz grief";

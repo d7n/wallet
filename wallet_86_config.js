@@ -1,1 +1,1 @@
-var mnemonic = "keen auction muffin cancel clutch eight job turkey deer afraid speak plunge";
+var mnemonic = "void urban lawsuit melt permit search bean leg february double inquiry traffic";

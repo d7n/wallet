@@ -1,1 +1,1 @@
-var mnemonic = "forum buyer episode vacuum embark analyst decade way sister maximum tongue purse";
+var mnemonic = "original switch keen effort middle host apple bachelor affair ripple coach slice";

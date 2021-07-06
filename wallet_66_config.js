@@ -1,1 +1,1 @@
-var mnemonic = "speed cause carbon frown maple prize scorpion ranch book target length jelly";
+var mnemonic = "aware local question salon season nominee story state learn twenty still subway";

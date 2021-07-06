@@ -1,1 +1,1 @@
-var mnemonic = "oven escape neglect snow board swift day chalk almost sunset this loop";
+var mnemonic = "bid narrow type remain problem detail bulb chaos sadness rural tuition various";

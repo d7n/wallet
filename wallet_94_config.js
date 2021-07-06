@@ -1,1 +1,1 @@
-var mnemonic = "round food mechanic agree robust pulp boy rookie violin add syrup else";
+var mnemonic = "exclude oak buddy journey main hold cabin fringe blouse original limit clean";

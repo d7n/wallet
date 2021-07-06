@@ -1,1 +1,1 @@
-var mnemonic = "affair blossom style photo mobile gun virtual empty expect helmet hover upset";
+var mnemonic = "embrace index harbor fan drink proof topple mushroom derive upper tragic render";

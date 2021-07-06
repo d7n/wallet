@@ -1,1 +1,1 @@
-var mnemonic = "rent bright scrub gloom cruel slab service engine arch dwarf tourist lucky";
+var mnemonic = "move movie order verify cover east admit sight pigeon bright favorite consider";

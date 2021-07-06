@@ -1,1 +1,1 @@
-var mnemonic = "suspect drift cost twin knife poet shift insect swear celery round high";
+var mnemonic = "brick foam diagram dry tackle easy memory gorilla intact pledge ancient move";

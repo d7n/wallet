@@ -1,1 +1,1 @@
-var mnemonic = "south useless subway fish try increase sketch prefer endorse kangaroo brick fiction";
+var mnemonic = "violin clerk area knock weird elder service kidney close error include awake";

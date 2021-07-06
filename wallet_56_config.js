@@ -1,1 +1,1 @@
-var mnemonic = "entry license magnet peanut color intact borrow sponsor mixed anxiety then trim";
+var mnemonic = "dad option senior chief jealous delay best young mule priority notable keep";

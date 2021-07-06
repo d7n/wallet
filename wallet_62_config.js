@@ -1,1 +1,1 @@
-var mnemonic = "number forum common wheel tool end tunnel endless captain conduct enrich own";
+var mnemonic = "stuff lemon use salmon ridge reunion have orange ticket tornado shrimp human";
