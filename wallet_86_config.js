@@ -1,1 +1,1 @@
-var mnemonic = "void urban lawsuit melt permit search bean leg february double inquiry traffic";
+var mnemonic = "shock differ jeans clay decorate humor gold success curve during swim action";

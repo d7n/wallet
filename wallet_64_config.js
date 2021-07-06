@@ -1,1 +1,1 @@
-var mnemonic = "boring token lemon speed spider actress body joke dress elder jazz grief";
+var mnemonic = "cycle best add valley cannon differ scene all lottery crop wrist arm";

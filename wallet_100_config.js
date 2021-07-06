@@ -1,1 +1,1 @@
-var mnemonic = "blame jump erase invite need zone brick glare cherry bomb stove bright";
+var mnemonic = "pill vessel garden oyster cart lunch path kiwi opinion iron salt spider";

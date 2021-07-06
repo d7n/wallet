@@ -1,1 +1,1 @@
-var mnemonic = "wet general limit trim forum royal all category school license midnight satoshi";
+var mnemonic = "like dawn above motor all leave pave vocal dumb cancel credit trade";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble minor discover turn foil oblige buyer hat replace lemon curve kit";
+var mnemonic = "vanish design announce parrot nuclear quiz increase steak bridge light next dumb";

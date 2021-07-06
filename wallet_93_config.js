@@ -1,1 +1,1 @@
-var mnemonic = "stand brisk inform final mixture move pepper stage cheese metal fortune milk";
+var mnemonic = "such world practice cat wink warm insect yard wheel thank custom cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz supreme country language pave crowd test nose acoustic door silver absent";
+var mnemonic = "artefact track host lake grape detect rice diary tower summer pole color";

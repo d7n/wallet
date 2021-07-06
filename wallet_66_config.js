@@ -1,1 +1,1 @@
-var mnemonic = "aware local question salon season nominee story state learn twenty still subway";
+var mnemonic = "jazz problem arrow clay polar town secret detail chalk farm equip rough";

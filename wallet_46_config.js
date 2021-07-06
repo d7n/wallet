@@ -1,1 +1,1 @@
-var mnemonic = "grocery person maze begin bundle point hunt stage gather actress magic charge";
+var mnemonic = "aspect gold cake deputy output world team ten evolve machine dune airport";

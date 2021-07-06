@@ -1,1 +1,1 @@
-var mnemonic = "describe useless gloom candy army early tissue evoke junior apology city luggage";
+var mnemonic = "host stumble chicken metal upgrade flag comfort night axis false october diary";

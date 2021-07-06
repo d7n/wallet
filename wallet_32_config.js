@@ -1,1 +1,1 @@
-var mnemonic = "act that car that intact nature word copy open under become west";
+var mnemonic = "run thing wing pipe soldier purity toast birth surprise renew vehicle better";

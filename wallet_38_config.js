@@ -1,1 +1,1 @@
-var mnemonic = "milk spot own aspect initial humble grain prevent quiz adjust garlic reopen";
+var mnemonic = "certain smart verify legend purse song hub pigeon defense apart industry flush";

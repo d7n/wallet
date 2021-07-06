@@ -1,1 +1,1 @@
-var mnemonic = "exclude oak buddy journey main hold cabin fringe blouse original limit clean";
+var mnemonic = "harvest list put oil collect various mistake spin shaft barrel sample pudding";

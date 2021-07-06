@@ -1,1 +1,1 @@
-var mnemonic = "ordinary damage impact repair lunar valley penalty trim amused power squeeze master";
+var mnemonic = "morning leisure rich fiction amazing cousin civil artist maple meat normal media";

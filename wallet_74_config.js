@@ -1,1 +1,1 @@
-var mnemonic = "spring say month walnut gospel corn during hamster arrive festival spoil exhaust";
+var mnemonic = "wrist type panda history between lawn peace scare exit pave planet until";

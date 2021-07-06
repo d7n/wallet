@@ -1,1 +1,1 @@
-var mnemonic = "chase net sketch cart genre pyramid fade width option raw guitar curve";
+var mnemonic = "festival plug also gloom follow picnic task risk custom various siren want";

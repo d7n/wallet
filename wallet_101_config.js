@@ -1,1 +1,1 @@
-var mnemonic = "country zone canyon weather skill churn spatial talk giant practice vague lumber";
+var mnemonic = "shadow fabric breeze victory quality grow spice dry essence treat bamboo fabric";

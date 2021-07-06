@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cause skull oak office bag salute divert slim coast used fall";
+var mnemonic = "above screen travel doctor milk ocean direct provide jealous south forum keep";

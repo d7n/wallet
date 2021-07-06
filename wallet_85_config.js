@@ -1,1 +1,1 @@
-var mnemonic = "potato oil wink omit sick fiscal collect cat noble broken coast grape";
+var mnemonic = "quarter opinion regular onion neck matter gain similar happy door twice example";

@@ -1,1 +1,1 @@
-var mnemonic = "leg demise follow way hip cat milk used spice total fame author";
+var mnemonic = "tunnel draw wrist episode occur monkey index neither gain december lecture palace";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus fossil bulk open rug ripple brown paper quit guitar chunk degree";
+var mnemonic = "report you novel case cash rival build cloth alpha deposit gravity slow";

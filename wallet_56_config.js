@@ -1,1 +1,1 @@
-var mnemonic = "dad option senior chief jealous delay best young mule priority notable keep";
+var mnemonic = "wisdom silly knock vivid useless bacon glory hedgehog primary maximum box capital";

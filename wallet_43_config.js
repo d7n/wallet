@@ -1,1 +1,1 @@
-var mnemonic = "exotic gasp mask unlock canvas atom scrap misery goose stereo half pave";
+var mnemonic = "transfer rich box banner chronic still layer glass quantum program prosper stumble";

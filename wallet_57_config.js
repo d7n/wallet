@@ -1,1 +1,1 @@
-var mnemonic = "chat public coach acquire differ welcome acoustic live unknown inch top fiber";
+var mnemonic = "rose fruit fancy solution viable cable catalog lens habit pool wrist moral";

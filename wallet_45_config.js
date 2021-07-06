@@ -1,1 +1,1 @@
-var mnemonic = "ski rebel absurd mother unhappy abstract shadow wasp material expire machine disease";
+var mnemonic = "lock thing lonely churn notice life drink drip wonder wool trade admit";

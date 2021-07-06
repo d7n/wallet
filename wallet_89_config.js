@@ -1,1 +1,1 @@
-var mnemonic = "move movie order verify cover east admit sight pigeon bright favorite consider";
+var mnemonic = "february expose cousin own mansion ability damp bread window win impose female";

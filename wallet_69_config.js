@@ -1,1 +1,1 @@
-var mnemonic = "brick foam diagram dry tackle easy memory gorilla intact pledge ancient move";
+var mnemonic = "mean violin donate panda lobster census disorder scout conduct shrimp talent someone";

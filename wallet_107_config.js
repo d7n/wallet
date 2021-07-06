@@ -1,1 +1,1 @@
-var mnemonic = "violin clerk area knock weird elder service kidney close error include awake";
+var mnemonic = "focus enforce peasant anger property off this addict recall broccoli build cliff";

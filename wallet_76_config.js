@@ -1,1 +1,1 @@
-var mnemonic = "first aim tone alley wheel bar device deny mutual kind execute blue";
+var mnemonic = "join monitor meat fix stay open empower special multiply boring stuff ensure";

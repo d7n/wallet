@@ -1,1 +1,1 @@
-var mnemonic = "bronze also program interest strong library trash slush broccoli believe siren undo";
+var mnemonic = "position attract honey fee matter when valley genuine miracle siege stool glory";

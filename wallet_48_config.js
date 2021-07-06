@@ -1,1 +1,1 @@
-var mnemonic = "zoo pistol key rug opinion chase flight keen alter outdoor lab word";
+var mnemonic = "blouse uncle abandon animal differ staff symbol fire check cycle supreme combine";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak staff obvious trim damage vanish quiz museum toast poem skill pulp";
+var mnemonic = "wool such shrug marriage caught fancy appear runway tell script broken title";

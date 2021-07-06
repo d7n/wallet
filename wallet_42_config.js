@@ -1,1 +1,1 @@
-var mnemonic = "wish puzzle pulse aisle alone goose culture more fiber diamond can aspect";
+var mnemonic = "atom broccoli fitness seed thing stadium island junior already lift arch elite";

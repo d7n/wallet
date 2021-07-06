@@ -1,1 +1,1 @@
-var mnemonic = "will burden steel goddess have merge south below kid drop recipe off";
+var mnemonic = "unable sketch maze zebra woman inmate notice essence cupboard alpha stem pilot";

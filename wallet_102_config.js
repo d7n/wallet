@@ -1,1 +1,1 @@
-var mnemonic = "grace average faculty woman awful museum grief slab define session render immense";
+var mnemonic = "economy exclude hidden food liberty check battle adult amount among bunker road";

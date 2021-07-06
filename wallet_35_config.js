@@ -1,1 +1,1 @@
-var mnemonic = "three silly edit evil pipe glad kingdom verify lounge taste topple food";
+var mnemonic = "duck lock patrol other heart invite amateur argue plate jazz treat naive";

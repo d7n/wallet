@@ -1,1 +1,1 @@
-var mnemonic = "elevator acquire solution debate nation illegal awkward three hold exact mechanic powder";
+var mnemonic = "increase wait absorb under scare pumpkin goose put afraid swamp rabbit split";

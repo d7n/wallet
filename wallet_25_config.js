@@ -1,1 +1,1 @@
-var mnemonic = "choose cargo equal alter table focus piece vapor mandate can globe harsh";
+var mnemonic = "pond height thought airport error captain gallery brown chest lottery excuse element";

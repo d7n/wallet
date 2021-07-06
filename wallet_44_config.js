@@ -1,1 +1,1 @@
-var mnemonic = "elbow program swap cross refuse display work ketchup sand letter wrong kangaroo";
+var mnemonic = "robust couch security illegal fatal whale peasant fabric ship owner million crane";

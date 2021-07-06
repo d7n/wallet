@@ -1,1 +1,1 @@
-var mnemonic = "hello master gaze unit stadium motor axis hurry recycle friend pledge reunion";
+var mnemonic = "cause shadow patrol dawn acoustic alcohol lumber crater catalog violin gasp cat";

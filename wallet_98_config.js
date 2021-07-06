@@ -1,1 +1,1 @@
-var mnemonic = "embrace index harbor fan drink proof topple mushroom derive upper tragic render";
+var mnemonic = "sunny tool weekend antique dentist lady eye radio panic hurry often coil";

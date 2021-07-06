@@ -1,1 +1,1 @@
-var mnemonic = "friend roast swamp dog theme hold law please book weasel focus mechanic";
+var mnemonic = "noodle jump problem sustain yellow crystal denial alarm table novel census climb";

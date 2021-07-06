@@ -1,1 +1,1 @@
-var mnemonic = "tide anchor two derive purpose seek truth delay bar soccer special icon";
+var mnemonic = "step useless robot daughter iron west chair ramp various diagram twenty width";

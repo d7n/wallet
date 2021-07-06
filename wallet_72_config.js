@@ -1,1 +1,1 @@
-var mnemonic = "truck lava pool damp gesture version network park twice win select vacant";
+var mnemonic = "ladder model tortoise theme junk useless cause venue upon turtle twin sweet";

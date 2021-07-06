@@ -1,1 +1,1 @@
-var mnemonic = "reform hello method weekend armor kingdom subway bullet muscle panic success utility";
+var mnemonic = "roast april remain insect notice enter chair token bundle slow dad cruel";

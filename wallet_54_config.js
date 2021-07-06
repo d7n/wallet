@@ -1,1 +1,1 @@
-var mnemonic = "banana music change perfect pipe hill young sentence merit involve portion pattern";
+var mnemonic = "embrace output ceiling pistol keep run company upper aunt will midnight point";

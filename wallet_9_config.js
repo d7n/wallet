@@ -1,1 +1,1 @@
-var mnemonic = "bid narrow type remain problem detail bulb chaos sadness rural tuition various";
+var mnemonic = "mango brick badge ball auto unhappy brick bubble social able sure million";

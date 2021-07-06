@@ -1,1 +1,1 @@
-var mnemonic = "record anger rocket alarm rescue dentist square suit company flight win broccoli";
+var mnemonic = "laptop coin grow inflict wolf stomach rescue door denial want since effort";

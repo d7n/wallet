@@ -1,1 +1,1 @@
-var mnemonic = "hero half ceiling grocery fashion soul rent stadium mobile pioneer tired school";
+var mnemonic = "dinner chase fork recipe firm year blame media liar peanut scale will";

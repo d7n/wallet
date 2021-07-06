@@ -1,1 +1,1 @@
-var mnemonic = "morning citizen viable tank dignity stem stomach taxi patch test guess picnic";
+var mnemonic = "cash ladder problem knee demand law rookie obtain depth snap sugar erupt";

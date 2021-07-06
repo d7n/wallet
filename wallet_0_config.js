@@ -1,1 +1,1 @@
-var mnemonic = "impose sand merry year hunt fall secret message unit ahead grow erode";
+var mnemonic = "leader other stool keep love silent holiday left twice weekend display nasty";

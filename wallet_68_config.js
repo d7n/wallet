@@ -1,1 +1,1 @@
-var mnemonic = "venture economy bronze grunt robust advance front client custom refuse shuffle immense";
+var mnemonic = "life then relief track flee tired horror audit remind idea mixed engine";

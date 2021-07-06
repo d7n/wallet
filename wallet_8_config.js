@@ -1,1 +1,1 @@
-var mnemonic = "confirm autumn vibrant hand husband hospital knock jealous mad vibrant guide short";
+var mnemonic = "note rose catch fiction trouble toy valid chat print indoor oyster lobster";

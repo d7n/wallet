@@ -1,1 +1,1 @@
-var mnemonic = "inject emotion panda cattle deposit energy wild vast monitor discover inspire spin";
+var mnemonic = "cheese shop notable humor sister pudding please twist airport pulse plastic orbit";

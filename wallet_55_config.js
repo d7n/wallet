@@ -1,1 +1,1 @@
-var mnemonic = "ecology soon grant clean silent problem limb swamp pyramid interest child rescue";
+var mnemonic = "bread creek tissue smoke provide yellow surge joke winner open sadness salad";

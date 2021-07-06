@@ -1,1 +1,1 @@
-var mnemonic = "mule mountain need spread struggle cool beauty cupboard below gap possible debate";
+var mnemonic = "vital venture give used never fine change grant echo flee lounge slam";

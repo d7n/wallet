@@ -1,1 +1,1 @@
-var mnemonic = "rigid real vessel sausage deal obscure feel cloth settle seek supply grape";
+var mnemonic = "crime verb hat second truth useless episode liar suggest use journey lesson";

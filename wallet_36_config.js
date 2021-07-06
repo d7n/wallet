@@ -1,1 +1,1 @@
-var mnemonic = "build ivory vehicle quit more goose wealth find hat wire clay enact";
+var mnemonic = "rose analyst mandate rely bacon question way engine dragon rail trigger okay";

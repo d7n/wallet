@@ -1,1 +1,1 @@
-var mnemonic = "motion peasant bring march empower desert above grain country volume fresh dress";
+var mnemonic = "turkey obey manual pattern jungle sweet pear ride twist push result rough";

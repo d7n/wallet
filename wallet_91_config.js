@@ -1,1 +1,1 @@
-var mnemonic = "exclude during sniff endless pink crew antenna canyon excite diesel tray jealous";
+var mnemonic = "certain person fitness vague seven credit caught fantasy name sweet balcony various";

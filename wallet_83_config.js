@@ -1,1 +1,1 @@
-var mnemonic = "mountain dice ensure pull tongue march abuse mean story level science liberty";
+var mnemonic = "reflect kind era neutral act glass survey heavy fabric infant balance glance";

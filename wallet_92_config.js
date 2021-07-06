@@ -1,1 +1,1 @@
-var mnemonic = "jump pipe rain save flavor option truly hedgehog engine talk erase horror";
+var mnemonic = "gift theory build peanut prize build speed safe illegal buffalo original favorite";

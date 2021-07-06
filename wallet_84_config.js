@@ -1,1 +1,1 @@
-var mnemonic = "define fat miss tobacco loud cancel favorite twenty sail until light upgrade";
+var mnemonic = "defy inject fun napkin scissors loyal elephant tail grab enable near since";

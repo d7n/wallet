@@ -1,1 +1,1 @@
-var mnemonic = "buffalo drum advance current rebel seat wisdom stool half just mammal soda";
+var mnemonic = "flush drip armor soup exit wild next cruise pistol tomorrow aunt cruel";

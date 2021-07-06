@@ -1,1 +1,1 @@
-var mnemonic = "club custom island dream sure tomato fix fork index fat duck vapor";
+var mnemonic = "oblige canyon transfer bubble portion velvet tide resemble genius idea room erase";

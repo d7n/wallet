@@ -1,1 +1,1 @@
-var mnemonic = "chapter envelope poet swift minor depart level series grab father athlete stove";
+var mnemonic = "paddle canoe unfair catch close problem hazard trophy wing mobile input satisfy";

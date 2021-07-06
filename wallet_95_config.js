@@ -1,1 +1,1 @@
-var mnemonic = "fossil milk hour option define chalk arrange whale bright print tuna way";
+var mnemonic = "rug congress clip runway blush dish slab beach aerobic online swift sudden";

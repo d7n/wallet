@@ -1,1 +1,1 @@
-var mnemonic = "match dune prevent expect ignore drive profit symbol celery beef bag car";
+var mnemonic = "domain outer fly urban goose alert pair invite wine arena misery matter";

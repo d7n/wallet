@@ -1,1 +1,1 @@
-var mnemonic = "stuff lemon use salmon ridge reunion have orange ticket tornado shrimp human";
+var mnemonic = "cloth doctor wish debate right like day tortoise demand memory dismiss differ";

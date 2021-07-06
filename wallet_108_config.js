@@ -1,1 +1,1 @@
-var mnemonic = "lamp bus distance long client forum need update cat trend sister canvas";
+var mnemonic = "curious pole resist begin civil fiction zebra toward satoshi patrol shoe crop";

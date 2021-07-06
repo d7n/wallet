@@ -1,1 +1,1 @@
-var mnemonic = "garage innocent derive train example apology tent laptop want various celery history";
+var mnemonic = "close doll two unhappy motion lounge dash bachelor sustain nut expand rebel";

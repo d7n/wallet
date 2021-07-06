@@ -1,1 +1,1 @@
-var mnemonic = "limb swamp depth wrestle prefer refuse brown rate north inner meat farm";
+var mnemonic = "toilet tank penalty carry hip interest oppose wrong over mechanic face canvas";

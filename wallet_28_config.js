@@ -1,1 +1,1 @@
-var mnemonic = "flight frown desk potato patient knife test nerve crowd learn exile fruit";
+var mnemonic = "inhale mixture antenna leopard whip square exotic rhythm useless elite curtain twice";

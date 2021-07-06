@@ -1,1 +1,1 @@
-var mnemonic = "despair kit position unusual phone search dismiss page rib page animal tube";
+var mnemonic = "winter jungle sign decorate melody slide guitar chest stock real blossom odor";

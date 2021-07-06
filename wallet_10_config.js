@@ -1,1 +1,1 @@
-var mnemonic = "tip rotate base cash seed best inner display awkward swap deer recall";
+var mnemonic = "empty boy lobster build filter pig flag eyebrow clean any tired carbon";

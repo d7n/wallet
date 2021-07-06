@@ -1,1 +1,1 @@
-var mnemonic = "bird fortune current brain tide pair involve pig jewel glow famous festival";
+var mnemonic = "sign space climb claw web foot gown believe mobile scatter asthma first";

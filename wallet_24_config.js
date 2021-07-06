@@ -1,1 +1,1 @@
-var mnemonic = "black occur cinnamon sun excuse track myself mechanic best small multiply atom";
+var mnemonic = "grape video vapor drama any bonus tribe vague pistol draw kid innocent";

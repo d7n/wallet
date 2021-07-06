@@ -1,1 +1,1 @@
-var mnemonic = "pink soft thrive pilot timber clock power visit between legend outdoor length";
+var mnemonic = "crane any melt below pony yellow load rug father surface drum crime";

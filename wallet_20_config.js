@@ -1,1 +1,1 @@
-var mnemonic = "crack way whisper riot avocado soon tennis group switch deputy diesel blame";
+var mnemonic = "fine donkey pattern real art sun again love action denial inch trust";

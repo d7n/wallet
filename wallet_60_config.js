@@ -1,1 +1,1 @@
-var mnemonic = "message abstract display simple coin forget test game cream error castle lecture";
+var mnemonic = "vacuum play clap annual deputy example magic utility science correct glance announce";

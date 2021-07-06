@@ -1,1 +1,1 @@
-var mnemonic = "rose odor fork argue crime when seek idle sibling build taxi state";
+var mnemonic = "amazing glad october manage grant bracket attack jelly casual rifle silver spoon";

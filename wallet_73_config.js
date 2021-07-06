@@ -1,1 +1,1 @@
-var mnemonic = "case style winter shadow wreck lock frost close wrestle dignity level tower";
+var mnemonic = "announce doctor matrix edit vague sniff symbol tent tag fence vintage dizzy";

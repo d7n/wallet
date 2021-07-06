@@ -1,1 +1,1 @@
-var mnemonic = "sunny crystal arrange acoustic shoe outdoor drastic bless motion glow vendor sustain";
+var mnemonic = "cinnamon action either ramp cactus walnut feature world staff carpet salon tilt";

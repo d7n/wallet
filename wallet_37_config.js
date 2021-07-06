@@ -1,1 +1,1 @@
-var mnemonic = "swear veteran income asset live icon curtain luggage pudding antique escape flip";
+var mnemonic = "obtain math daring great hurdle umbrella ability state hospital empty any federal";

@@ -1,1 +1,1 @@
-var mnemonic = "tip mom maximum giant jealous collect strategy link unknown song nerve fashion";
+var mnemonic = "lyrics destroy venture feed knife almost chef word become inmate poet alien";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster mirror radio wall this goat border rain wagon author dirt luggage";
+var mnemonic = "spider educate discover capital play ketchup robot client horn trade west squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "two twist saddle rally cram afraid insane inmate moment blur learn drum";
+var mnemonic = "stamp ostrich payment scatter wrist mean fever identify trade dignity salt author";

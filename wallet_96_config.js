@@ -1,1 +1,1 @@
-var mnemonic = "pen scorpion dolphin ecology odor roof pistol dinner issue unable march trash";
+var mnemonic = "calm huge nation session swim keen finish develop crater sniff rabbit normal";

@@ -1,1 +1,1 @@
-var mnemonic = "put cannon mimic enlist total laugh sustain visit afford funny catalog melt";
+var mnemonic = "eye nest muscle solid exhibit rely point song burger unhappy engine comfort";

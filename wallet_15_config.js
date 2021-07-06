@@ -1,1 +1,1 @@
-var mnemonic = "hurt ice sauce volcano buffalo fat network ghost recycle wheat master title";
+var mnemonic = "prize artwork glove book near law blast mirror goddess adjust leader blind";

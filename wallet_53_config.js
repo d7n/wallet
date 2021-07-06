@@ -1,1 +1,1 @@
-var mnemonic = "brain idea fresh side spy hollow certain cash disease pitch hip clinic";
+var mnemonic = "shrimp crater hurdle dwarf bus ecology craft swear mix mechanic present cushion";

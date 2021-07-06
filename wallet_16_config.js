@@ -1,1 +1,1 @@
-var mnemonic = "item aunt true local spell coach fame cement end bright lens cycle";
+var mnemonic = "unique utility garden response fancy symbol board total order conduct flower kidney";

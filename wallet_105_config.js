@@ -1,1 +1,1 @@
-var mnemonic = "unveil silver acid ability husband scorpion van episode finish claw pond mean";
+var mnemonic = "thank shell magic inhale various crystal intact casual summer cousin vocal upper";

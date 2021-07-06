@@ -1,1 +1,1 @@
-var mnemonic = "virtual thing scatter they way lesson stereo cry exercise love super gadget";
+var mnemonic = "mouse tonight nut donate produce talk will present guard announce coyote noble";
