@@ -1,1 +1,1 @@
-var mnemonic = "two fun hurdle defense protect calm steel wire exhaust minimum quality coast";
+var mnemonic = "analyst caution tail lift over yard common city can stand shrimp battle";

@@ -1,1 +1,1 @@
-var mnemonic = "trend tray guilt eagle dilemma develop violin neglect stuff update chuckle foil";
+var mnemonic = "celery forum prevent traffic day stadium endorse attend sugar speak nerve melt";

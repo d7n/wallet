@@ -1,1 +1,1 @@
-var mnemonic = "flip dune wise fiber traffic cement mango response boss garment empower indicate";
+var mnemonic = "size coyote act worth ceiling arrow there bridge theme loan few awesome";

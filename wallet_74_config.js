@@ -1,1 +1,1 @@
-var mnemonic = "treat filter crucial car bar hotel mansion devote middle faculty pink goose";
+var mnemonic = "endorse banana hour absurd solve fruit praise tiger release pitch beach engine";

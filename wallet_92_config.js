@@ -1,1 +1,1 @@
-var mnemonic = "square concert amateur inform spot clarify pen memory lake moment achieve price";
+var mnemonic = "hole tiny dumb mushroom little design nominee buddy switch bleak laundry output";

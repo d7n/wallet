@@ -1,1 +1,1 @@
-var mnemonic = "laundry range hazard ring cigar push must perfect snack furnace around deal";
+var mnemonic = "myself allow resemble best clinic enhance cash move proud duck hen immune";

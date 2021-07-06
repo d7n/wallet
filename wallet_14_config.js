@@ -1,1 +1,1 @@
-var mnemonic = "then cabin over anchor horse stuff rib spell arrow valid opera trigger";
+var mnemonic = "rude nothing inquiry unit clog hero barely recall dizzy rack despair valley";

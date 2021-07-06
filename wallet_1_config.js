@@ -1,1 +1,1 @@
-var mnemonic = "scheme cherry weapon famous tilt siren wire tomato escape friend sport daring";
+var mnemonic = "situate dog talent hedgehog gallery bachelor identify outside lab onion satisfy boring";

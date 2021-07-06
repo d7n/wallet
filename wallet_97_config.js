@@ -1,1 +1,1 @@
-var mnemonic = "soft exhaust brick end canal try trial novel embrace quality stumble margin";
+var mnemonic = "busy chest arena foster shield shop monitor pool lawn useful vessel guard";

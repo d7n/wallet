@@ -1,1 +1,1 @@
-var mnemonic = "edit inherit hamster heavy intact put sunny sample dune rubber setup shuffle";
+var mnemonic = "blush blade nut shell forest canvas humor until relax venue flush talk";

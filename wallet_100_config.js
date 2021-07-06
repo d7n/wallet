@@ -1,1 +1,1 @@
-var mnemonic = "coral stage industry until crew torch dawn jungle amount expand pattern fortune";
+var mnemonic = "judge latin world client neglect wire bus luggage fat error ask outside";

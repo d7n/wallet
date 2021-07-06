@@ -1,1 +1,1 @@
-var mnemonic = "orient beauty shield burst junk picnic purchase heart olive attitude attack guitar";
+var mnemonic = "lazy desert ignore novel enhance hospital jar abstract same blur expose boost";

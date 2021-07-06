@@ -1,1 +1,1 @@
-var mnemonic = "organ choose twice grain champion drop afford science above mind dove mammal";
+var mnemonic = "feature cricket decline boil illness banner seek bubble receive laugh loan predict";

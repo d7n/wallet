@@ -1,1 +1,1 @@
-var mnemonic = "device salmon bright arrow viable balcony ankle round jewel similar train echo";
+var mnemonic = "junior rocket soda admit network model bright genius disorder where sting labor";

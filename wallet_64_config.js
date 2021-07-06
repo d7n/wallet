@@ -1,1 +1,1 @@
-var mnemonic = "raccoon achieve save basic roast wave future imitate weather problem normal focus";
+var mnemonic = "discover live clinic twenty notice couch exotic super leg bicycle drive sing";

@@ -1,1 +1,1 @@
-var mnemonic = "blast basic pottery valley cat mystery silver amateur start whale venue decorate";
+var mnemonic = "tube tilt bleak spoon rather bronze major hire coyote flight meat keep";

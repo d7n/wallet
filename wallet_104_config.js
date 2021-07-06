@@ -1,1 +1,1 @@
-var mnemonic = "animal inmate claw differ icon frozen pet endless swing symptom mad jungle";
+var mnemonic = "traffic inject volcano chronic tray powder dad fiction tooth unusual answer cash";

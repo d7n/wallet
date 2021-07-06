@@ -1,1 +1,1 @@
-var mnemonic = "nature visa oven space add fury gloom suspect betray brand six ozone";
+var mnemonic = "trick size effort shift impact you pole february pet cattle mail clap";

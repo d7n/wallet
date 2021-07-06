@@ -1,1 +1,1 @@
-var mnemonic = "seek owner champion forest sunny silly crack vibrant decline shock fatigue firm";
+var mnemonic = "spend thumb wasp bronze dutch monkey horn beauty immense bundle there agree";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid hill secret vacuum coil print cement book bus dilemma bind enhance";
+var mnemonic = "foster weird found usage embark fresh stick pluck tissue script notice delay";

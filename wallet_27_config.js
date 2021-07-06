@@ -1,1 +1,1 @@
-var mnemonic = "replace daughter asthma profit vast high urge deliver drift thing poverty cart";
+var mnemonic = "coyote pact measure erupt rifle lonely bus surprise waste file idea settle";

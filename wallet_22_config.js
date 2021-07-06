@@ -1,1 +1,1 @@
-var mnemonic = "nuclear fog trophy science van shield brush peanut express fury visual man";
+var mnemonic = "van energy skull mobile own short enroll science diet exact cry foot";

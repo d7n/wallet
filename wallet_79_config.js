@@ -1,1 +1,1 @@
-var mnemonic = "iron athlete acquire honey repeat private chest pledge napkin punch valley exhibit";
+var mnemonic = "orange half thing term flame craft blast gloom corn amused chair cat";

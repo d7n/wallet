@@ -1,1 +1,1 @@
-var mnemonic = "strike slow model laugh radio know stamp impose cattle know tape scheme";
+var mnemonic = "carry stable rocket ready endless mention jaguar head jelly arena lyrics custom";

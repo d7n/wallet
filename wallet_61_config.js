@@ -1,1 +1,1 @@
-var mnemonic = "exist grant wink butter wisdom custom roast wire crop consider farm junk";
+var mnemonic = "theme captain cake avocado ordinary nest tortoise budget virtual galaxy feature hair";

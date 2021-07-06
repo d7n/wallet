@@ -1,1 +1,1 @@
-var mnemonic = "minute steak cattle step eight wealth brain capable dune palm increase bulk";
+var mnemonic = "piece fold guess brand control minute myself obscure whale arch secret busy";

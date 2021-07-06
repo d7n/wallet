@@ -1,1 +1,1 @@
-var mnemonic = "have material derive feel horse steak brand receive bitter clay current hamster";
+var mnemonic = "cross flower brass half chuckle kitchen refuse process income ghost mention session";

@@ -1,1 +1,1 @@
-var mnemonic = "know joy pizza chimney kiss history gun runway shrug weapon cake eagle";
+var mnemonic = "unveil blood rack polar know exist hen pelican penalty large age clog";

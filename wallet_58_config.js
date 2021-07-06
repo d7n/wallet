@@ -1,1 +1,1 @@
-var mnemonic = "chalk pet rebel patient pride emerge crush neck bind wait snow volume";
+var mnemonic = "flower oxygen thought rare state found like recipe defense inner alley nephew";

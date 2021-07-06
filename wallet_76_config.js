@@ -1,1 +1,1 @@
-var mnemonic = "throw web wise claw bronze multiply scrub since shine age open vintage";
+var mnemonic = "file judge drill defense order forward hill ocean height popular pluck protect";

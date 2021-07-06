@@ -1,1 +1,1 @@
-var mnemonic = "invite end copy country sock tower budget oblige blouse reflect truly monitor";
+var mnemonic = "job lesson nuclear margin girl raccoon coach grocery cluster horn burst large";

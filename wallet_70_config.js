@@ -1,1 +1,1 @@
-var mnemonic = "tornado fix fat toe aim aim dolphin faculty physical awesome merge brick";
+var mnemonic = "join harbor damage robust print tool extra alarm fiction problem cancel bless";

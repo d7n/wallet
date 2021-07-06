@@ -1,1 +1,1 @@
-var mnemonic = "illegal spice message gloom saddle morning castle flash summer struggle cradle infant";
+var mnemonic = "steak two siege universe clock pony gasp garden girl cage trip crisp";

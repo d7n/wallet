@@ -1,1 +1,1 @@
-var mnemonic = "swim friend arena purse wasp robust portion umbrella advice token cool number";
+var mnemonic = "artist can furnace autumn file media guitar tissue alien time era combine";

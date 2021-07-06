@@ -1,1 +1,1 @@
-var mnemonic = "answer narrow sponsor fashion chest live hybrid chest drink differ few clutch";
+var mnemonic = "insect direct build faith size silly peasant praise emotion marriage foster above";

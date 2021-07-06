@@ -1,1 +1,1 @@
-var mnemonic = "maze sick immune pigeon drip print eight paddle arch motor antique stairs";
+var mnemonic = "develop hamster exchange worth outer jar convince cruise acoustic pencil entry void";

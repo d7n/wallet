@@ -1,1 +1,1 @@
-var mnemonic = "mesh entry lizard special journey sense trend point nephew wave network ritual";
+var mnemonic = "nephew system kit inmate utility box educate mask laptop route glide bargain";

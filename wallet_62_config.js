@@ -1,1 +1,1 @@
-var mnemonic = "remain scare antique monitor very spoil rifle brief void tobacco trust gift";
+var mnemonic = "salmon assault stamp pair valid silent effort sick arch ignore off lemon";

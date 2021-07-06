@@ -1,1 +1,1 @@
-var mnemonic = "forward hold olympic number false mechanic say luggage snow burger merit crack";
+var mnemonic = "shop can laptop brother fluid often island nose slogan smile ceiling census";

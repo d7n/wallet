@@ -1,1 +1,1 @@
-var mnemonic = "dog valley rent use save sense maple castle project lawsuit panel tortoise";
+var mnemonic = "abuse taste ensure shaft deposit garden captain bench uncover weekend wash brush";

@@ -1,1 +1,1 @@
-var mnemonic = "grief amused trick object fire glass require gym mention distance grow very";
+var mnemonic = "balance glide window reopen sunny exotic auction owner artwork poet caution lyrics";

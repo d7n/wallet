@@ -1,1 +1,1 @@
-var mnemonic = "trash swim kingdom prepare ceiling adult remove joke sword bridge deer tumble";
+var mnemonic = "social acquire zoo salute video human real unlock fury penalty embark hole";

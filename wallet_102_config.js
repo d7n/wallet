@@ -1,1 +1,1 @@
-var mnemonic = "trick universe swear scrub prefer state march crash loan kidney either anger";
+var mnemonic = "history answer heavy brief index move naive age fan logic liquid side";

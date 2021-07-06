@@ -1,1 +1,1 @@
-var mnemonic = "together leopard fat tooth dash drip scheme step grit horror outside funny";
+var mnemonic = "promote crouch spider budget blood act lunar skill screen trial turn above";

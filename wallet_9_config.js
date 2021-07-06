@@ -1,1 +1,1 @@
-var mnemonic = "ensure maple color liberty float tenant endless tide evidence ask address wrist";
+var mnemonic = "popular identify employ album address sudden favorite tiger tiger taste keen lucky";

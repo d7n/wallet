@@ -1,1 +1,1 @@
-var mnemonic = "learn escape cream father bench inspire depth program secret cluster victory purchase";
+var mnemonic = "frog kiwi broken invite tornado chaos upset despair rapid pizza solution clip";

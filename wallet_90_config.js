@@ -1,1 +1,1 @@
-var mnemonic = "initial dance fish snake limb kiwi choice ready announce slender fatal window";
+var mnemonic = "jazz solid cave ritual trumpet harbor damage swim pyramid enough multiply voice";

@@ -1,1 +1,1 @@
-var mnemonic = "impact harbor casino excite permit used betray develop silk rubber emotion barely";
+var mnemonic = "column moment sudden orchard lounge gold toward rocket latin believe dry dust";

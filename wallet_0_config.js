@@ -1,1 +1,1 @@
-var mnemonic = "museum picture destroy kit climb post brand toy flee tackle element benefit";
+var mnemonic = "fox maximum army shy over festival antenna ivory edge sure fancy math";

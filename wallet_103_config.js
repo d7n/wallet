@@ -1,1 +1,1 @@
-var mnemonic = "public first parrot sausage okay couch host hero helmet mirror champion leopard";
+var mnemonic = "theory addict slush wrestle audit pigeon water table genuine wife time list";

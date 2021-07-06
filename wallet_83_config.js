@@ -1,1 +1,1 @@
-var mnemonic = "neglect can uniform garlic rather story exhaust object cushion follow fly pass";
+var mnemonic = "relax neutral grant wolf audit torch crew left foam sport green manage";

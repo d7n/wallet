@@ -1,1 +1,1 @@
-var mnemonic = "nephew shallow emerge effort velvet weird certain promote shiver envelope venture cross";
+var mnemonic = "fashion always tree suit flavor pig dwarf dry settle address toss small";

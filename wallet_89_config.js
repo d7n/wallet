@@ -1,1 +1,1 @@
-var mnemonic = "usage menu cycle ugly quality frame invest brick clutch jazz ten because";
+var mnemonic = "moment aisle idea flush sound park post actor fun diary venue shuffle";

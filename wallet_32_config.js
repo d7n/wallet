@@ -1,1 +1,1 @@
-var mnemonic = "genius record adult sunset chef burden quit scrap globe hunt time oval";
+var mnemonic = "jewel name blade tree brain mom kick ghost comfort what final paper";

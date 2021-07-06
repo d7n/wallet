@@ -1,1 +1,1 @@
-var mnemonic = "patch helmet aisle miss mystery convince shoot mixture donate shrimp ostrich order";
+var mnemonic = "midnight gossip wear thumb turkey sorry alpha poem tenant survey worry body";

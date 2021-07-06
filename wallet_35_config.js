@@ -1,1 +1,1 @@
-var mnemonic = "shoulder chair glass undo fog also stone else thing install vapor capital";
+var mnemonic = "cruel patrol caught almost tilt attract grant mad twelve useless remind orient";

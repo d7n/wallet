@@ -1,1 +1,1 @@
-var mnemonic = "coast near inside hazard reduce move away kid law glimpse tail fee";
+var mnemonic = "giant ginger wing train road okay sound duty route verify spin discover";

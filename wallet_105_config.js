@@ -1,1 +1,1 @@
-var mnemonic = "midnight pioneer vicious pioneer push myth okay minute radar argue core shine";
+var mnemonic = "thunder run tool disorder rug alpha autumn tag pledge news kangaroo maid";

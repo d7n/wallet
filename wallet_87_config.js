@@ -1,1 +1,1 @@
-var mnemonic = "series pipe sound innocent raise salon when path owner employ chalk letter";
+var mnemonic = "film divide swallow theme wheat width twin bronze ask hat sheriff village";

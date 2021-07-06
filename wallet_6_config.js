@@ -1,1 +1,1 @@
-var mnemonic = "rather middle siege replace grain place short regular control debris dream cloth";
+var mnemonic = "gain trend truth junk divide quality regular ancient outside help nest file";

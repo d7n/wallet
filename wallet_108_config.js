@@ -1,1 +1,1 @@
-var mnemonic = "affair now quick motion vast super drift coil parade vessel episode shoot";
+var mnemonic = "give mesh knock refuse steel domain sudden member always box plastic vintage";

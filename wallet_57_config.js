@@ -1,1 +1,1 @@
-var mnemonic = "fiber slab reject identify income heart portion toe filter clinic stomach just";
+var mnemonic = "oil road claim letter extra hen govern mean blade lottery must brown";

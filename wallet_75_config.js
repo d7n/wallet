@@ -1,1 +1,1 @@
-var mnemonic = "advance video faint crowd magic destroy talent orbit prefer there flag exact";
+var mnemonic = "aware patch maze able question pumpkin identify hungry flip fly valve frequent";

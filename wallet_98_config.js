@@ -1,1 +1,1 @@
-var mnemonic = "zoo rubber behind oak scene labor cliff link work explain relax october";
+var mnemonic = "doctor fix gadget entry wrap method vibrant skin library ordinary patrol away";

@@ -1,1 +1,1 @@
-var mnemonic = "ill matrix time visa forget city auto viable number decide swim dry";
+var mnemonic = "intact super wheat friend security clarify quarter seed shield paper girl perfect";

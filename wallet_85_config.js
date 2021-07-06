@@ -1,1 +1,1 @@
-var mnemonic = "feature useless unlock clerk oven mix critic jar hollow duty insect bundle";
+var mnemonic = "oxygen screen hedgehog emotion scare effort ghost armor cause glide artefact casino";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer stumble member sauce now fever gesture proud middle misery improve buyer";
+var mnemonic = "dog inch artefact planet market decorate satoshi elbow mouse stick cereal magnet";

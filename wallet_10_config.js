@@ -1,1 +1,1 @@
-var mnemonic = "ordinary tuna truth bachelor brother engage basket nurse conduct purity parade call";
+var mnemonic = "soap hybrid near elegant emotion dizzy camera govern gallery excite badge cricket";

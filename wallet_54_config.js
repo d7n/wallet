@@ -1,1 +1,1 @@
-var mnemonic = "audit unlock select install spell forum ripple jazz champion wish clock legal";
+var mnemonic = "endorse peanut thought flame clean evidence festival oblige few friend detect certain";

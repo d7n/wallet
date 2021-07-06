@@ -1,1 +1,1 @@
-var mnemonic = "cook peasant drastic since salt honey valley fox urge expand sunset decrease";
+var mnemonic = "alarm price weapon insane able run able dash tree canvas wish plate";

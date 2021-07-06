@@ -1,1 +1,1 @@
-var mnemonic = "illness inmate prevent original chunk clarify trend script isolate impulse father under";
+var mnemonic = "silent rent type trophy helmet mystery hope brand gossip flip venue roast";

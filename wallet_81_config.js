@@ -1,1 +1,1 @@
-var mnemonic = "tourist bargain arch net egg naive tube pledge area inspire draw cave";
+var mnemonic = "cram hill bird stereo knock maple coast know dentist legal group north";

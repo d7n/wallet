@@ -1,1 +1,1 @@
-var mnemonic = "hood friend potato million delay example spike rate blame absurd order eyebrow";
+var mnemonic = "raw mechanic damp genuine atom develop silly cycle slide stand whip alone";

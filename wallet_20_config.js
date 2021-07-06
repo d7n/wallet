@@ -1,1 +1,1 @@
-var mnemonic = "license change cave goat radar enrich ancient loyal glimpse brush wear asthma";
+var mnemonic = "math rough zero exclude excite exclude life boring favorite stove worth float";

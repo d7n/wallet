@@ -1,1 +1,1 @@
-var mnemonic = "smile tornado voyage black learn enroll identify zero feature devote animal bean";
+var mnemonic = "cattle surge casino sing excite dawn silly dynamic guilt combine axis brass";

@@ -1,1 +1,1 @@
-var mnemonic = "legal spoil festival cheap foster share return violin bid noise happy winner";
+var mnemonic = "shy float shop hidden hotel sing robot primary flush like lonely below";

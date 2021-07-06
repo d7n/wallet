@@ -1,1 +1,1 @@
-var mnemonic = "december first hotel trip caution roof toss festival erase fog modify chair";
+var mnemonic = "make ceiling country panda olympic boil economy helmet tomato cabbage vicious syrup";

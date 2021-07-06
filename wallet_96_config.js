@@ -1,1 +1,1 @@
-var mnemonic = "dose husband diamond perfect divert army element visa grace animal hawk light";
+var mnemonic = "erosion toe agree street cake thrive prize lemon basic airport staff badge";

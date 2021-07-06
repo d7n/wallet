@@ -1,1 +1,1 @@
-var mnemonic = "dice kid island ugly hint spawn clinic vibrant city report torch health";
+var mnemonic = "major table giggle demise valid nation twice truth proud bar consider mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "dress false hobby question nasty fetch size liquid hospital tornado cup toddler";
+var mnemonic = "amazing accident cabbage labor devote amazing lamp rail parade saddle lend ball";

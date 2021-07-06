@@ -1,1 +1,1 @@
-var mnemonic = "chimney blur invite wrist club citizen visual manual unusual fringe humor pill";
+var mnemonic = "tank room census buzz guide parrot firm trip virtual elite toddler piano";

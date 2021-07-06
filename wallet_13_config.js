@@ -1,1 +1,1 @@
-var mnemonic = "topple lottery swing fatigue farm damp disease shrimp gold gold try ethics";
+var mnemonic = "toddler version churn movie rubber humble power rebel false marriage grunt gas";

@@ -1,1 +1,1 @@
-var mnemonic = "border bird energy intact butter drive young plug corn tumble cheese develop";
+var mnemonic = "hundred embody ship tornado rich session drift seed pluck party hat make";

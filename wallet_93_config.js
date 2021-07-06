@@ -1,1 +1,1 @@
-var mnemonic = "sign crush nut team logic deal tribe figure alley this castle luggage";
+var mnemonic = "define thumb spend image trip upset stairs happy diesel pull awful glass";

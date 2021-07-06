@@ -1,1 +1,1 @@
-var mnemonic = "useful gather frequent syrup mimic slow fringe select truck cabin stove beach";
+var mnemonic = "rebel lift woman feed drama combine village asthma vibrant grape museum neglect";

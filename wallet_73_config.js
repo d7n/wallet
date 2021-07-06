@@ -1,1 +1,1 @@
-var mnemonic = "alien profit recycle nurse awkward angry wide success legal order option matrix";
+var mnemonic = "swim index scene latin inch pudding other surge present video legend eager";

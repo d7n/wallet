@@ -1,1 +1,1 @@
-var mnemonic = "claw black tennis near use civil length angle solar climb city stand";
+var mnemonic = "earth pyramid method below prosper utility oyster fog bicycle two device portion";

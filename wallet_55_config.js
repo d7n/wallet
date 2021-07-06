@@ -1,1 +1,1 @@
-var mnemonic = "shoe lottery boost unknown crane cause prefer combine silk oak fetch ginger";
+var mnemonic = "bundle rug provide drink announce road cook save custom clutch lemon switch";

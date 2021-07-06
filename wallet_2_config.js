@@ -1,1 +1,1 @@
-var mnemonic = "knee ridge credit margin donkey diagram only small ten reason claim detect";
+var mnemonic = "fashion surprise female unusual hurry afford enrich survey van lab impose aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "occur they occur rebuild trumpet path opinion envelope merit execute maid fence";
+var mnemonic = "actual when gauge infant oyster attitude over intact dad equip science clump";
