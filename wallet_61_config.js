@@ -1,1 +1,1 @@
-var mnemonic = "second identify shove tornado ramp mosquito fade great expand viable paper equip";
+var mnemonic = "easy legend voice silent deny ceiling dice donkey gym pelican umbrella assault";

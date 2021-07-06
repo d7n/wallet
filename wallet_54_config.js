@@ -1,1 +1,1 @@
-var mnemonic = "stairs broken cheap frequent history fee cinnamon ready roof reunion alien nature";
+var mnemonic = "cloud talent sudden weird truck excuse mixed regret nasty hazard crowd access";

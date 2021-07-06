@@ -1,1 +1,1 @@
-var mnemonic = "tiny brick ginger wash thrive coil sister joke doctor impose once can";
+var mnemonic = "enable ability rabbit sail chef renew battle bargain car glove warm stool";

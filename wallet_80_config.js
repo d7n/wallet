@@ -1,1 +1,1 @@
-var mnemonic = "alert host focus mean bean humble real say like either shrimp apology";
+var mnemonic = "impulse bone keen art lucky enlist animal coral cruise empower connect rude";

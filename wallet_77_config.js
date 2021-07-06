@@ -1,1 +1,1 @@
-var mnemonic = "wedding friend text human canoe science market craft stage crater market rival";
+var mnemonic = "spider blind salute suffer base emotion vivid struggle ride upper plug immune";

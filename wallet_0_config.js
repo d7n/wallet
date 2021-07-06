@@ -1,1 +1,1 @@
-var mnemonic = "bus crucial rude common under dune snack size when churn material ahead";
+var mnemonic = "size amateur blur jungle riot card motion potato leave melt fiction home";

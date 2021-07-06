@@ -1,1 +1,1 @@
-var mnemonic = "balcony rabbit shy suit bench border resource pause usage fiber naive cup";
+var mnemonic = "symbol uphold illness repair version jewel ahead flush suffer exchange sight mirror";

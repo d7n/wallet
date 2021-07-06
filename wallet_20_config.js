@@ -1,1 +1,1 @@
-var mnemonic = "laundry asthma harvest buddy ozone involve twin vapor click toddler curve toilet";
+var mnemonic = "rebel maximum apple treat ginger mosquito sweet immense charge power open degree";

@@ -1,1 +1,1 @@
-var mnemonic = "protect weather pioneer fetch trip bulk develop mad equal youth tunnel wild";
+var mnemonic = "absent major knife view sustain affair vendor forest suggest butter include apology";

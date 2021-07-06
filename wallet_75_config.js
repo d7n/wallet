@@ -1,1 +1,1 @@
-var mnemonic = "motor garbage rely glide love shoot sudden earn clarify shallow report wrist";
+var mnemonic = "limb first whisper onion entry total wage spoil adjust fade brush hole";

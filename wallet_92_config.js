@@ -1,1 +1,1 @@
-var mnemonic = "monitor valid organ minor ozone raccoon radio cannon quiz escape chuckle brave";
+var mnemonic = "alter chunk figure such lava indoor fish vote please neck dentist panic";

@@ -1,1 +1,1 @@
-var mnemonic = "palm minor spice pause chuckle over dumb laptop airport expose item monkey";
+var mnemonic = "tide skill scatter pumpkin dilemma garage topple upon earn climb harsh anger";

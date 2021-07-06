@@ -1,1 +1,1 @@
-var mnemonic = "myth random about firm motor marine banana fan retire thunder magic spice";
+var mnemonic = "observe all language jacket spider action slender leg oyster repair record bus";

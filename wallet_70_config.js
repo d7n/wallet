@@ -1,1 +1,1 @@
-var mnemonic = "believe limit flag quarter metal render write hello buzz animal choose voice";
+var mnemonic = "subject machine leopard oven advance kidney one average glory ridge picture dream";

@@ -1,1 +1,1 @@
-var mnemonic = "arm warfare gas bundle narrow magic audit cloth eye outdoor custom pet";
+var mnemonic = "road usual result hope acoustic reflect humor exist interest rough poem rely";

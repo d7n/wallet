@@ -1,1 +1,1 @@
-var mnemonic = "art latin submit promote response truth picnic claim faint school ignore castle";
+var mnemonic = "alpha egg unaware cushion throw dizzy copy immune during hire notable educate";

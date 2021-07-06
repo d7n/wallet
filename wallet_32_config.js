@@ -1,1 +1,1 @@
-var mnemonic = "ocean code toast lyrics torch behind coyote language muffin provide own senior";
+var mnemonic = "success boy pet certain stock goose carpet praise focus feed monitor receive";

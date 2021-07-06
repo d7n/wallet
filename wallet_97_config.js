@@ -1,1 +1,1 @@
-var mnemonic = "source ecology lend near hurt junior mule kangaroo blast oak toward monitor";
+var mnemonic = "decline family frozen decade drift object sponsor album monkey ask day chief";

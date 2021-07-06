@@ -1,1 +1,1 @@
-var mnemonic = "curve stairs reduce six tilt tomorrow demise heart say balcony rack group";
+var mnemonic = "upon hair neck bitter soda empower slight sort enforce coach often paddle";

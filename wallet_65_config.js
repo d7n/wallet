@@ -1,1 +1,1 @@
-var mnemonic = "lonely parade metal lava episode stone elite dumb eagle drop arrive behind";
+var mnemonic = "gauge split oval symbol farm asset obtain until ready moon toss act";

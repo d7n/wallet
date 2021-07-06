@@ -1,1 +1,1 @@
-var mnemonic = "smile trend forest estate fox reward test ship provide stock festival loan";
+var mnemonic = "crystal depend pulp jaguar mushroom private wide awful hand local run race";

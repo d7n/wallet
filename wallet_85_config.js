@@ -1,1 +1,1 @@
-var mnemonic = "axis bone pet fringe example fish easily furnace improve course chaos stamp";
+var mnemonic = "tomato water exhibit photo myth crater debris obtain lucky have reject swim";

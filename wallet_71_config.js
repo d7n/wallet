@@ -1,1 +1,1 @@
-var mnemonic = "oppose strategy buffalo quick depth motor dust clean giant renew game evidence";
+var mnemonic = "duty noise involve forward account scare churn grant vault crop child device";

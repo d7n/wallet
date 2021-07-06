@@ -1,1 +1,1 @@
-var mnemonic = "swing boss force scene laptop mouse vapor spin hurt awake depth estate";
+var mnemonic = "tackle lemon else nuclear exist soap thank divorce shoulder globe cruise kidney";

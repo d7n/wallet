@@ -1,1 +1,1 @@
-var mnemonic = "attract drama army fossil chat arena position swift swift vibrant clarify solar";
+var mnemonic = "skin grab punch tribe door vast adjust combine tornado point buddy book";

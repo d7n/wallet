@@ -1,1 +1,1 @@
-var mnemonic = "erode myth crane flash acquire innocent practice obscure climb curve always angle";
+var mnemonic = "brother immense twice struggle special worry filter stove frequent hurdle space hockey";

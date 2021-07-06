@@ -1,1 +1,1 @@
-var mnemonic = "across act wire better magic notice about shoot power amateur border observe";
+var mnemonic = "bench regret blade local emotion plug select govern carpet else galaxy bottom";

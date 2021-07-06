@@ -1,1 +1,1 @@
-var mnemonic = "enforce patient chief cook suit essence trigger witness roof defy library moon";
+var mnemonic = "good stick dilemma mystery typical margin earn test sadness obscure noble guard";

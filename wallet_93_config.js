@@ -1,1 +1,1 @@
-var mnemonic = "priority circle love iron endorse shrug camera enrich green fit misery lion";
+var mnemonic = "gasp lock index craft mango account alcohol segment tunnel enough tent burger";

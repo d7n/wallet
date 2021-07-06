@@ -1,1 +1,1 @@
-var mnemonic = "fix love black accuse bargain plastic pen destroy hire infant work bachelor";
+var mnemonic = "either voice until tank myth almost gym aspect robot device galaxy odor";

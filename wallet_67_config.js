@@ -1,1 +1,1 @@
-var mnemonic = "then ridge science clean pilot wrestle shrimp release buzz find own hint";
+var mnemonic = "urge prevent strong ranch pumpkin hat edit marriage actress focus load audit";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar giggle cage afford space truth stage side grief cave diary charge";
+var mnemonic = "blame strong leisure chaos lonely demand device mechanic label pudding patrol clap";

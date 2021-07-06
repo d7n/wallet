@@ -1,1 +1,1 @@
-var mnemonic = "stem noble response kiwi initial old dose talk upon teach unknown repeat";
+var mnemonic = "brisk fever blade antique degree cabin symbol hire year protect finish common";

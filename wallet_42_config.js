@@ -1,1 +1,1 @@
-var mnemonic = "calm odor broccoli fragile basket soon laugh march mixture world hockey under";
+var mnemonic = "you banner afraid bottom situate alley start impose bomb guilt pause round";

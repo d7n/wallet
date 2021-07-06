@@ -1,1 +1,1 @@
-var mnemonic = "sort sock duck sun soft employ angle key vicious gravity tube east";
+var mnemonic = "survey coast pelican veteran blush false opera sample hat true stick transfer";

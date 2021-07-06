@@ -1,1 +1,1 @@
-var mnemonic = "fresh client federal mobile poem lion general attend success marriage shoulder pistol";
+var mnemonic = "solar problem salad toddler ahead second domain grass fortune shoulder cabbage border";

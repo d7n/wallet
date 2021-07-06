@@ -1,1 +1,1 @@
-var mnemonic = "search diamond athlete forest earth twelve cash warrior never later narrow unfair";
+var mnemonic = "spawn please allow double supreme duty someone truth bunker require ridge ice";

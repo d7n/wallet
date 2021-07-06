@@ -1,1 +1,1 @@
-var mnemonic = "occur surface approve another transfer perfect smooth regret exchange nerve lounge taxi";
+var mnemonic = "hawk chase connect chimney clog scrub skate salad negative culture dice noise";

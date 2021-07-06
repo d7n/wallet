@@ -1,1 +1,1 @@
-var mnemonic = "hover trial denial view vital inject shell journey march clinic pioneer cinnamon";
+var mnemonic = "potato fence vehicle wild ritual thunder glow delay filter heavy man ozone";

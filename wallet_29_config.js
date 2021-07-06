@@ -1,1 +1,1 @@
-var mnemonic = "glimpse where vacant picture winner dragon rocket order gaze couple soda early";
+var mnemonic = "entry note select yard critic aisle toddler cook certain now crumble tape";

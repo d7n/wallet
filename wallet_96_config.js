@@ -1,1 +1,1 @@
-var mnemonic = "coast include live absorb enroll life spend universe leg gate announce satoshi";
+var mnemonic = "scheme ten logic heart minimum fatal grit bronze chapter turn praise shock";

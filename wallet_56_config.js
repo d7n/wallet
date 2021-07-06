@@ -1,1 +1,1 @@
-var mnemonic = "title roast flight undo weapon behave mule best artwork lock hurry country";
+var mnemonic = "robust scout zoo dose speed tired share vapor gas ozone runway search";

@@ -1,1 +1,1 @@
-var mnemonic = "castle health phone smart width father insane long object kind crane hotel";
+var mnemonic = "lyrics fence enable lens latin domain auto emotion puzzle sibling inform then";

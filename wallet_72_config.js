@@ -1,1 +1,1 @@
-var mnemonic = "lock wasp palm spirit once frozen capable friend olive document nasty hire";
+var mnemonic = "tomorrow december rent immune supreme wire subject diagram youth tell wish lamp";

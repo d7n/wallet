@@ -1,1 +1,1 @@
-var mnemonic = "glory army hurry width cream dragon grunt treat enact cricket output owner";
+var mnemonic = "recycle rebuild start spider clump sense pair filter refuse cement dash impact";

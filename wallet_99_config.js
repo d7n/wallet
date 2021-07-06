@@ -1,1 +1,1 @@
-var mnemonic = "enrich there unlock south dial honey balance place screen annual educate scan";
+var mnemonic = "beauty brand trumpet blue talk rifle gap casino wonder follow sword wagon";

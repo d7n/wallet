@@ -1,1 +1,1 @@
-var mnemonic = "minute cradle cruise busy fall mercy step cart misery vanish sniff west";
+var mnemonic = "ceiling dice charge happy brave champion love random retire thrive author asset";

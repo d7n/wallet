@@ -1,1 +1,1 @@
-var mnemonic = "gain trigger topple embark result toe minute accuse guess agent purchase salmon";
+var mnemonic = "poverty broken exercise outer space route prepare cabin fabric scheme dentist sorry";

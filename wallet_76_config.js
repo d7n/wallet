@@ -1,1 +1,1 @@
-var mnemonic = "critic affair spray early rain glide police now panel neglect detect tomato";
+var mnemonic = "borrow inject business ozone finger dash have tumble power choice auto kitchen";

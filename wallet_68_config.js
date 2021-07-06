@@ -1,1 +1,1 @@
-var mnemonic = "purchase fan fold fall hollow absurd pet hedgehog oxygen tuition jewel captain";
+var mnemonic = "option exit emerge receive credit myth pond endless proud east seven soup";

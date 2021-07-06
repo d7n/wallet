@@ -1,1 +1,1 @@
-var mnemonic = "wolf retire federal swim lyrics chunk enforce rapid pet boat donkey find";
+var mnemonic = "gold uncover any suggest female kitten simple million cry pet glory govern";

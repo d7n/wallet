@@ -1,1 +1,1 @@
-var mnemonic = "earn clutch sure spoil calm hamster dawn veteran question october what cool";
+var mnemonic = "kitchen marble gauge sure iron wash couch hedgehog submit advance case wrong";

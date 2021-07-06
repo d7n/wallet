@@ -1,1 +1,1 @@
-var mnemonic = "subject tube monkey arrest ability dream sponsor whisper quarter patient awesome fatigue";
+var mnemonic = "furnace secret position settle valve fog draft wild robust code life fiscal";

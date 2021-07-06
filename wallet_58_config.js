@@ -1,1 +1,1 @@
-var mnemonic = "evoke rally bunker math cry primary fatal second mom view monitor dumb";
+var mnemonic = "mercy pulp cruise paddle follow spare century thank winner person execute ski";

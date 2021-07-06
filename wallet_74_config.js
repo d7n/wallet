@@ -1,1 +1,1 @@
-var mnemonic = "capable proof inner wink abuse eight lumber wheat taxi example fly bus";
+var mnemonic = "sponsor expand envelope clarify resist aunt spend bean stereo saddle cluster alien";

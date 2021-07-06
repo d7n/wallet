@@ -1,1 +1,1 @@
-var mnemonic = "minute castle spike ancient garlic rent defense family bless error spatial veteran";
+var mnemonic = "gesture divorce dismiss soup shoulder giant drastic giant similar fiber cream code";

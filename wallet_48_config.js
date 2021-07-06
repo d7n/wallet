@@ -1,1 +1,1 @@
-var mnemonic = "inform snack chase second endless glide whip slogan question delay silent debris";
+var mnemonic = "shock joy major legal range once unit grit various cloth planet battle";

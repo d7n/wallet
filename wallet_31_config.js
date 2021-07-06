@@ -1,1 +1,1 @@
-var mnemonic = "news squeeze find arrow click business item audit chicken there sniff measure";
+var mnemonic = "garlic valve bench pledge pen slush sound garden veteran artefact shove impose";

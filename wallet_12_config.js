@@ -1,1 +1,1 @@
-var mnemonic = "oil parade possible ivory what arrange hard oxygen choose mother select scrub";
+var mnemonic = "father absent giraffe intact craft float afford coffee mad brisk elite toast";

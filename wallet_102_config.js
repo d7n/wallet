@@ -1,1 +1,1 @@
-var mnemonic = "delay public axis minor lamp leave flag sausage letter volume program file";
+var mnemonic = "rocket deposit fatal soon hedgehog siege bike prison lumber ticket like humble";

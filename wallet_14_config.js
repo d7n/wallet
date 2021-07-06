@@ -1,1 +1,1 @@
-var mnemonic = "opera decide wish spot throw half inherit nurse horror tomorrow pizza eagle";
+var mnemonic = "fire bird obscure cash exhibit cram crane together silk rookie orbit valley";

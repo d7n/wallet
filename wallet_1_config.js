@@ -1,1 +1,1 @@
-var mnemonic = "dry silk duty vessel ignore connect canvas output burden cotton feel space";
+var mnemonic = "critic maid kiwi crouch worth green help field few moral keep ginger";

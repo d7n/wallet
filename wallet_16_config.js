@@ -1,1 +1,1 @@
-var mnemonic = "ranch peanut mobile monkey delay great chair eye because print ostrich crime";
+var mnemonic = "allow bless vocal rely relief garbage decline clerk remove cart suffer glide";

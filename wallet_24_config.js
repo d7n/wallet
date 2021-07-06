@@ -1,1 +1,1 @@
-var mnemonic = "modify such naive easily timber chase autumn car field mule advance permit";
+var mnemonic = "disorder orbit april veteran example fall vibrant box tone human wait excuse";

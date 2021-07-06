@@ -1,1 +1,1 @@
-var mnemonic = "pole antique heart course annual release finish jewel thrive tree horror fragile";
+var mnemonic = "ribbon rifle love topple practice level october luggage affair cabbage entire blue";

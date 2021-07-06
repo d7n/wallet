@@ -1,1 +1,1 @@
-var mnemonic = "split decorate october skin faculty scale people tissue entire recipe jazz flavor";
+var mnemonic = "wide swarm outdoor bracket few surge undo game ill canoe prevent onion";

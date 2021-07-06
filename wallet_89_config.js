@@ -1,1 +1,1 @@
-var mnemonic = "monitor sniff solution bargain weird injury exercise abstract lock liquid lemon finger";
+var mnemonic = "omit adapt game tray diet begin wagon dish melody note cart mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk ready endorse eternal banana token giant disorder globe stomach around someone";
+var mnemonic = "force virus orange hope visa slide alcohol cannon erupt cannon estate minimum";

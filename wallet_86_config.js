@@ -1,1 +1,1 @@
-var mnemonic = "reduce ice hint certain prosper unlock green text estate venue axis estate";
+var mnemonic = "success away carpet promote woman drum cram kite glare avoid party power";

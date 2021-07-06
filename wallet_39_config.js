@@ -1,1 +1,1 @@
-var mnemonic = "knee staff project service model wrestle humble breeze raw subway mango recycle";
+var mnemonic = "scan legal rescue pen hospital ignore fiber craft tank flavor impulse home";

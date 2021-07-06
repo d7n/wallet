@@ -1,1 +1,1 @@
-var mnemonic = "cage nurse crazy remind type trash cement jeans slice loan confirm daring";
+var mnemonic = "approve talent mix story traffic frog decide embark monkey force blouse fame";

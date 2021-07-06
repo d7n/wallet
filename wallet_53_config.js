@@ -1,1 +1,1 @@
-var mnemonic = "arrow equip require kid cereal issue humble cupboard forget sponsor say famous";
+var mnemonic = "rug slab crouch salute butter soft scene pill voyage sell drum distance";

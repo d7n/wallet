@@ -1,1 +1,1 @@
-var mnemonic = "force verb alone just hazard faith diamond ranch weasel educate sunny scan";
+var mnemonic = "wonder autumn return major execute year eternal sight device section turn taxi";

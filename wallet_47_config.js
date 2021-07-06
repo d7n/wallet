@@ -1,1 +1,1 @@
-var mnemonic = "auto cupboard practice spawn roast cram senior swallow future dinosaur capable thumb";
+var mnemonic = "hold palm mind protect pioneer zone volcano unusual believe ten science private";

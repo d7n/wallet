@@ -1,1 +1,1 @@
-var mnemonic = "age pool north stage park mad basic sure lucky often put agree";
+var mnemonic = "crumble what web stairs oblige monitor basket supreme witness reopen cabbage cable";

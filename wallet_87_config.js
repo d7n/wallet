@@ -1,1 +1,1 @@
-var mnemonic = "lonely snack chunk seat correct about hedgehog another shed ketchup vintage health";
+var mnemonic = "pole artist must master great theme keep meadow stomach kit away crash";

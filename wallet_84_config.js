@@ -1,1 +1,1 @@
-var mnemonic = "wine stamp stand owner catch frown mixed outside onion mule canoe skull";
+var mnemonic = "cabin total eternal pink summer east bind girl fan whale umbrella come";

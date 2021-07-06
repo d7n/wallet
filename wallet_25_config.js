@@ -1,1 +1,1 @@
-var mnemonic = "layer captain frog volcano response ride damage stadium casual light artwork cluster";
+var mnemonic = "early rhythm addict east chicken bitter pelican genuine cousin dinosaur grab pen";

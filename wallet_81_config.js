@@ -1,1 +1,1 @@
-var mnemonic = "mother coffee hungry screen transfer miss churn middle name bid fat tide";
+var mnemonic = "put stable bean manual vehicle actor yellow suit tower develop sunset main";

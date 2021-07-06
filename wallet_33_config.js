@@ -1,1 +1,1 @@
-var mnemonic = "kidney rocket plug film section hint next second lend swear visual toddler";
+var mnemonic = "fun chimney sweet fabric legal have magic relief ostrich club liquid soon";

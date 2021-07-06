@@ -1,1 +1,1 @@
-var mnemonic = "crew arctic tower decline swift beyond valid palm reunion brave clean regret";
+var mnemonic = "harsh swing coral network fence affair pelican hill congress address column flee";

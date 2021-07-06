@@ -1,1 +1,1 @@
-var mnemonic = "dragon pact planet bonus cruise sight express absent armor crash hidden depth";
+var mnemonic = "proud slow clump prevent snow often clever under example window school wheel";

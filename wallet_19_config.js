@@ -1,1 +1,1 @@
-var mnemonic = "wife vivid joy engage razor snack warm clerk kiwi amateur canvas recipe";
+var mnemonic = "family organ box oil venture alert donkey shiver vote dentist nephew bone";

@@ -1,1 +1,1 @@
-var mnemonic = "improve walnut divert raven hour embrace hill image library manage often moment";
+var mnemonic = "volume impulse nest harvest choose wagon leader convince upper plunge suggest family";

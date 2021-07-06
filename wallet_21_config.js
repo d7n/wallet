@@ -1,1 +1,1 @@
-var mnemonic = "fiscal cabbage soft solid palm make subway utility web virus behind vault";
+var mnemonic = "brother swim science winter warfare search grape add brick absorb rebuild version";

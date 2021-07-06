@@ -1,1 +1,1 @@
-var mnemonic = "myth absent unable gym unaware when oval identify popular grass promote away";
+var mnemonic = "chase inside wealth brisk home army concert dice sample furnace oyster wolf";
