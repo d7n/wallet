@@ -1,1 +1,1 @@
-var mnemonic = "area category input doll rifle typical frog chase hobby increase drill crash";
+var mnemonic = "enrich there unlock south dial honey balance place screen annual educate scan";

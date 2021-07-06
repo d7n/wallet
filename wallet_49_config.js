@@ -1,1 +1,1 @@
-var mnemonic = "smart reunion deal frequent gym power february six system buffalo door hungry";
+var mnemonic = "way lend fire cycle symbol lobster pepper bid claw strategy cage width";

@@ -1,1 +1,1 @@
-var mnemonic = "flash clean security reflect lumber reunion stone hazard practice congress axis mesh";
+var mnemonic = "swing boss force scene laptop mouse vapor spin hurt awake depth estate";

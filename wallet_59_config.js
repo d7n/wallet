@@ -1,1 +1,1 @@
-var mnemonic = "barely quantum reward orchard denial keen unit illness grace float master retreat";
+var mnemonic = "parrot egg poverty view talk virus unfair behave mammal advice mystery bring";

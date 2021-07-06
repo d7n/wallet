@@ -1,1 +1,1 @@
-var mnemonic = "insane brave attitude trophy cherry carpet debate thought east uncover check talent";
+var mnemonic = "various copy bamboo fruit project way remind hole board define couple surround";

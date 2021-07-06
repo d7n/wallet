@@ -1,1 +1,1 @@
-var mnemonic = "shock nature slight item letter acquire remind tattoo embrace asthma grow barrel";
+var mnemonic = "curve stairs reduce six tilt tomorrow demise heart say balcony rack group";

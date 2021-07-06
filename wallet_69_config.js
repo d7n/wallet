@@ -1,1 +1,1 @@
-var mnemonic = "blur bind process draw gasp nurse dose visa erase access hobby race";
+var mnemonic = "wolf retire federal swim lyrics chunk enforce rapid pet boat donkey find";

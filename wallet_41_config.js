@@ -1,1 +1,1 @@
-var mnemonic = "coyote water purity caution distance plastic april tissue wagon venue maximum lend";
+var mnemonic = "lunar giggle cage afford space truth stage side grief cave diary charge";

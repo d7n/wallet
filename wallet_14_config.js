@@ -1,1 +1,1 @@
-var mnemonic = "empty tissue crumble sponsor kitchen genius robot wear steel era army ring";
+var mnemonic = "opera decide wish spot throw half inherit nurse horror tomorrow pizza eagle";

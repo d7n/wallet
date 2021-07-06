@@ -1,1 +1,1 @@
-var mnemonic = "sentence vapor ensure special legend enough they utility fog wine camp sense";
+var mnemonic = "erode myth crane flash acquire innocent practice obscure climb curve always angle";

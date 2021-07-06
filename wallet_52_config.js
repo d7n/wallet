@@ -1,1 +1,1 @@
-var mnemonic = "cage sniff fever disagree wing deny solid load resist kingdom agent spin";
+var mnemonic = "earn clutch sure spoil calm hamster dawn veteran question october what cool";

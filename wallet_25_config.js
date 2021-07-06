@@ -1,1 +1,1 @@
-var mnemonic = "street drop say one property salon scare beach supply game monitor burden";
+var mnemonic = "layer captain frog volcano response ride damage stadium casual light artwork cluster";

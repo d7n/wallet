@@ -1,1 +1,1 @@
-var mnemonic = "small kingdom floor yellow table try light surface medal invite payment chair";
+var mnemonic = "hover trial denial view vital inject shell journey march clinic pioneer cinnamon";

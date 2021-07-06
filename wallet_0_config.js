@@ -1,1 +1,1 @@
-var mnemonic = "run match adult switch wrestle winter nothing unfair member blood party mansion";
+var mnemonic = "bus crucial rude common under dune snack size when churn material ahead";

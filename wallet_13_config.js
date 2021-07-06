@@ -1,1 +1,1 @@
-var mnemonic = "pigeon eye still april suggest october truth glide fatigue crouch exercise case";
+var mnemonic = "occur surface approve another transfer perfect smooth regret exchange nerve lounge taxi";

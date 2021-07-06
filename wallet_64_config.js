@@ -1,1 +1,1 @@
-var mnemonic = "remember aim mention minimum push regular rack april immune assault anger neither";
+var mnemonic = "age pool north stage park mad basic sure lucky often put agree";

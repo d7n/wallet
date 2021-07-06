@@ -1,1 +1,1 @@
-var mnemonic = "lucky raven fan try ordinary shift twenty organ mail dry small canoe";
+var mnemonic = "lock wasp palm spirit once frozen capable friend olive document nasty hire";

@@ -1,1 +1,1 @@
-var mnemonic = "found tornado raccoon help find one early valve depend endless airport plug";
+var mnemonic = "balcony rabbit shy suit bench border resource pause usage fiber naive cup";

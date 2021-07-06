@@ -1,1 +1,1 @@
-var mnemonic = "melt talent scorpion exhaust vibrant demand connect payment fabric rely deny inherit";
+var mnemonic = "minute cradle cruise busy fall mercy step cart misery vanish sniff west";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse lawn team office rule draw trial whale faint ticket tenant disease";
+var mnemonic = "evoke rally bunker math cry primary fatal second mom view monitor dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk ecology eye retire amateur powder noodle tide photo blanket layer current";
+var mnemonic = "smile trend forest estate fox reward test ship provide stock festival loan";

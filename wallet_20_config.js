@@ -1,1 +1,1 @@
-var mnemonic = "shrug slow solid traffic space tornado best power blind dismiss nothing crush";
+var mnemonic = "laundry asthma harvest buddy ozone involve twin vapor click toddler curve toilet";

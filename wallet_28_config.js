@@ -1,1 +1,1 @@
-var mnemonic = "summer install fragile garlic arch series razor please spider trophy comic gentle";
+var mnemonic = "split decorate october skin faculty scale people tissue entire recipe jazz flavor";

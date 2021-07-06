@@ -1,1 +1,1 @@
-var mnemonic = "cake wheel clinic stool rose direct income pipe rubber picture destroy history";
+var mnemonic = "news squeeze find arrow click business item audit chicken there sniff measure";

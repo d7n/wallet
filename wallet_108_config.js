@@ -1,1 +1,1 @@
-var mnemonic = "inject diesel dirt jeans sting tell kit cat reject matrix wrap build";
+var mnemonic = "tiny brick ginger wash thrive coil sister joke doctor impose once can";

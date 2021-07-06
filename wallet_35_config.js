@@ -1,1 +1,1 @@
-var mnemonic = "genuine calm differ bottom lecture double length buddy fog disorder flash damp";
+var mnemonic = "medal usage retreat cactus dream crater arctic shallow swarm surround second napkin";

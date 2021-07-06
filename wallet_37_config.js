@@ -1,1 +1,1 @@
-var mnemonic = "dance amused front goddess mean miracle hello myself switch boost either fold";
+var mnemonic = "rose magnet main poet dynamic desk crane jelly miss crystal problem race";

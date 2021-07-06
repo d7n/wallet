@@ -1,1 +1,1 @@
-var mnemonic = "home cable bless need enroll antique whisper sunny entry security pole give";
+var mnemonic = "roast spring foot crush grant major width area saddle ensure wait victory";

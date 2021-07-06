@@ -1,1 +1,1 @@
-var mnemonic = "public equip dinosaur cave tank scissors scrub fox midnight enforce tornado come";
+var mnemonic = "priority circle love iron endorse shrug camera enrich green fit misery lion";

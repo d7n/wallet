@@ -1,1 +1,1 @@
-var mnemonic = "course bleak chair right silly chief crew chimney offer deer disease avoid";
+var mnemonic = "fix love black accuse bargain plastic pen destroy hire infant work bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "hold royal end father unfold news hello smooth girl grape alien cattle";
+var mnemonic = "purchase fan fold fall hollow absurd pet hedgehog oxygen tuition jewel captain";

@@ -1,1 +1,1 @@
-var mnemonic = "twice dish sweet acid round design critic book prosper spawn travel ginger";
+var mnemonic = "enforce patient chief cook suit essence trigger witness roof defy library moon";

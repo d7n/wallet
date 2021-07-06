@@ -1,1 +1,1 @@
-var mnemonic = "proud under problem kitchen begin private figure arctic become dune someone sense";
+var mnemonic = "kidney rocket plug film section hint next second lend swear visual toddler";

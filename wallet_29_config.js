@@ -1,1 +1,1 @@
-var mnemonic = "ranch boss parent category penalty first under alpha page fashion song long";
+var mnemonic = "glimpse where vacant picture winner dragon rocket order gaze couple soda early";

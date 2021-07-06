@@ -1,1 +1,1 @@
-var mnemonic = "possible trust load shadow skin hand hill space knife estate marine expect";
+var mnemonic = "auto cupboard practice spawn roast cram senior swallow future dinosaur capable thumb";

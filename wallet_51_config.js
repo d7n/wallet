@@ -1,1 +1,1 @@
-var mnemonic = "green spoil alpha tuition ready result mom uncle tree draft wave hour";
+var mnemonic = "minute castle spike ancient garlic rent defense family bless error spatial veteran";

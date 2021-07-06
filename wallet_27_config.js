@@ -1,1 +1,1 @@
-var mnemonic = "approve only option sail wage wage habit acid provide quarter salmon travel";
+var mnemonic = "silk mad satisfy credit yellow adult spend palace student super pig guilt";

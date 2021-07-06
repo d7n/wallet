@@ -1,1 +1,1 @@
-var mnemonic = "cup book kidney ozone call spell lens symbol estate raccoon base casino";
+var mnemonic = "stem noble response kiwi initial old dose talk upon teach unknown repeat";

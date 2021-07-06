@@ -1,1 +1,1 @@
-var mnemonic = "tree atom pyramid neutral parade cinnamon symbol upset crumble skull good motion";
+var mnemonic = "blade special goddess inner library riot casino divide tribe ghost private usual";

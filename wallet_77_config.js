@@ -1,1 +1,1 @@
-var mnemonic = "gather bread dose income female anxiety clarify dad click term account saddle";
+var mnemonic = "wedding friend text human canoe science market craft stage crater market rival";

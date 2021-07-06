@@ -1,1 +1,1 @@
-var mnemonic = "picnic approve congress walnut enemy curve gate arctic quote lucky soup wink";
+var mnemonic = "insane enlist scan bean ramp survey odor series angry banner believe super";

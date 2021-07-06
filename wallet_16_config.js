@@ -1,1 +1,1 @@
-var mnemonic = "benefit edge theme improve wire develop pear child trigger bridge mean okay";
+var mnemonic = "ranch peanut mobile monkey delay great chair eye because print ostrich crime";

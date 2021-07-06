@@ -1,1 +1,1 @@
-var mnemonic = "wire charge cry unable window knife jelly popular sunny differ shrug stable";
+var mnemonic = "title roast flight undo weapon behave mule best artwork lock hurry country";

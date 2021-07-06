@@ -1,1 +1,1 @@
-var mnemonic = "helmet pledge page village swallow lemon tip peace equal hawk march inherit";
+var mnemonic = "attract drama army fossil chat arena position swift swift vibrant clarify solar";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare exit cake fruit nest fault armor eyebrow quarter student flavor ordinary";
+var mnemonic = "arrow equip require kid cereal issue humble cupboard forget sponsor say famous";

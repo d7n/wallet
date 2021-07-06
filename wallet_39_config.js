@@ -1,1 +1,1 @@
-var mnemonic = "solve trash subway pony coral grid aware quality baby west fancy suffer";
+var mnemonic = "knee staff project service model wrestle humble breeze raw subway mango recycle";

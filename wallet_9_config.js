@@ -1,1 +1,1 @@
-var mnemonic = "cube mask vibrant position wrap tray brain tape favorite wheat shoot bonus";
+var mnemonic = "artefact area drive industry elegant outdoor century code morning battle solid under";

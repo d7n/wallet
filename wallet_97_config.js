@@ -1,1 +1,1 @@
-var mnemonic = "country trigger toddler jealous calm believe edit refuse flight leaf special shoot";
+var mnemonic = "source ecology lend near hurt junior mule kangaroo blast oak toward monitor";

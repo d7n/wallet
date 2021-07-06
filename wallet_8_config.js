@@ -1,1 +1,1 @@
-var mnemonic = "ocean require pistol throw jeans rifle ready rocket modify sword twelve alone";
+var mnemonic = "stomach lucky zebra quantum sign unveil describe rough clean marine fortune boy";

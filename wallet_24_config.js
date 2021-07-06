@@ -1,1 +1,1 @@
-var mnemonic = "lunar void coral foam crime food social real opinion shaft distance nature";
+var mnemonic = "modify such naive easily timber chase autumn car field mule advance permit";

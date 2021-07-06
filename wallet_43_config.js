@@ -1,1 +1,1 @@
-var mnemonic = "upper marble chalk cactus candy deliver danger random job hunt trip client";
+var mnemonic = "trust crunch firm laundry asset engage pole three hair bullet immense legend";

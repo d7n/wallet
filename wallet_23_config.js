@@ -1,1 +1,1 @@
-var mnemonic = "virus clerk border shadow hen meat cabin fiber chimney floor core buyer";
+var mnemonic = "bean tube occur main silver wise primary usual proof caught pass master";

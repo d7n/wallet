@@ -1,1 +1,1 @@
-var mnemonic = "despair boss excess filter denial erode print trigger hurt define frame mom";
+var mnemonic = "fee smart ask flavor point junk beyond soccer rubber violin improve key";

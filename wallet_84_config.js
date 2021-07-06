@@ -1,1 +1,1 @@
-var mnemonic = "capital object question chest journey cradle trend broken tape canoe liquid lend";
+var mnemonic = "wine stamp stand owner catch frown mixed outside onion mule canoe skull";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal public shoulder robust student oxygen daring napkin tired forward illness web";
+var mnemonic = "inform snack chase second endless glide whip slogan question delay silent debris";

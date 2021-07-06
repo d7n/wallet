@@ -1,1 +1,1 @@
-var mnemonic = "practice fetch second champion explain melt gun note sentence into balcony drive";
+var mnemonic = "coast include live absorb enroll life spend universe leg gate announce satoshi";

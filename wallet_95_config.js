@@ -1,1 +1,1 @@
-var mnemonic = "holiday attack canvas travel dolphin parent design lesson any morning bacon bone";
+var mnemonic = "crew arctic tower decline swift beyond valid palm reunion brave clean regret";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss fiber speak negative metal help federal east always busy license aim";
+var mnemonic = "lonely snack chunk seat correct about hedgehog another shed ketchup vintage health";

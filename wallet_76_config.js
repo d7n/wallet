@@ -1,1 +1,1 @@
-var mnemonic = "marble grid junk wide toilet biology soccer useless pilot method scare horse";
+var mnemonic = "critic affair spray early rain glide police now panel neglect detect tomato";

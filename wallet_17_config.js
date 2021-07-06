@@ -1,1 +1,1 @@
-var mnemonic = "industry salt minor frame distance another miracle problem steel humor very hedgehog";
+var mnemonic = "arm warfare gas bundle narrow magic audit cloth eye outdoor custom pet";

@@ -1,1 +1,1 @@
-var mnemonic = "birth lucky wrestle inquiry raw program spatial practice kidney wish topic capable";
+var mnemonic = "delay public axis minor lamp leave flag sausage letter volume program file";

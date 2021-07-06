@@ -1,1 +1,1 @@
-var mnemonic = "patch wait acquire blade lyrics grid sun leaf lecture kidney kid huge";
+var mnemonic = "protect weather pioneer fetch trip bulk develop mad equal youth tunnel wild";

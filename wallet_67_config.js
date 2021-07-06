@@ -1,1 +1,1 @@
-var mnemonic = "need pink theme chicken head north rabbit old artist muffin video boat";
+var mnemonic = "then ridge science clean pilot wrestle shrimp release buzz find own hint";

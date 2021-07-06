@@ -1,1 +1,1 @@
-var mnemonic = "follow upgrade gaze park speak emotion pear major swim flee thumb shadow";
+var mnemonic = "foam box dream junk comic erosion member ethics gallery ugly orphan clip";

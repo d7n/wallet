@@ -1,1 +1,1 @@
-var mnemonic = "identify seminar boat tree egg toast jar inmate impact town afford embark";
+var mnemonic = "oppose strategy buffalo quick depth motor dust clean giant renew game evidence";

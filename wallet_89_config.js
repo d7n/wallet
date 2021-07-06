@@ -1,1 +1,1 @@
-var mnemonic = "lecture note actual mobile coast picnic general alter token pause unaware remove";
+var mnemonic = "monitor sniff solution bargain weird injury exercise abstract lock liquid lemon finger";

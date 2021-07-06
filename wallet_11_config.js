@@ -1,1 +1,1 @@
-var mnemonic = "chronic offer claim point grit bubble crime acid shy visual chicken dinosaur";
+var mnemonic = "subject tube monkey arrest ability dream sponsor whisper quarter patient awesome fatigue";

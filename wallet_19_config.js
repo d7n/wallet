@@ -1,1 +1,1 @@
-var mnemonic = "three cricket human year nasty basic toy snap tragic rule usage bicycle";
+var mnemonic = "wife vivid joy engage razor snack warm clerk kiwi amateur canvas recipe";

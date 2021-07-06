@@ -1,1 +1,1 @@
-var mnemonic = "milk sort avocado veteran wage girl select thumb become unaware material essay";
+var mnemonic = "gain trigger topple embark result toe minute accuse guess agent purchase salmon";

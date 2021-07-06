@@ -1,1 +1,1 @@
-var mnemonic = "coach wagon pelican sibling social marriage inherit lemon satisfy nothing stove cup";
+var mnemonic = "axis bone pet fringe example fish easily furnace improve course chaos stamp";

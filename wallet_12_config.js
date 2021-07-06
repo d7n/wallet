@@ -1,1 +1,1 @@
-var mnemonic = "album soul kind upon tank wool badge arrow face junior fish route";
+var mnemonic = "oil parade possible ivory what arrange hard oxygen choose mother select scrub";

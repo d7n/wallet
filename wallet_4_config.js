@@ -1,1 +1,1 @@
-var mnemonic = "health rescue soccer virtual oxygen genuine episode pear three skin midnight device";
+var mnemonic = "clerk ready endorse eternal banana token giant disorder globe stomach around someone";

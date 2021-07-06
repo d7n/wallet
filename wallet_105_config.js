@@ -1,1 +1,1 @@
-var mnemonic = "fee example sense cruise pipe fork squirrel universe sustain key blind wise";
+var mnemonic = "search diamond athlete forest earth twelve cash warrior never later narrow unfair";

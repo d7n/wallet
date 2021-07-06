@@ -1,1 +1,1 @@
-var mnemonic = "endless sea pulp interest blue upset funny athlete remove old soul feed";
+var mnemonic = "dragon pact planet bonus cruise sight express absent armor crash hidden depth";

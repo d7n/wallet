@@ -1,1 +1,1 @@
-var mnemonic = "school artist section media rough skirt galaxy pretty gold isolate two flush";
+var mnemonic = "second identify shove tornado ramp mosquito fade great expand viable paper equip";

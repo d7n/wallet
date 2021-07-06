@@ -1,1 +1,1 @@
-var mnemonic = "lazy author industry decorate lawn slice genius luxury laptop fatigue cry fitness";
+var mnemonic = "force verb alone just hazard faith diamond ranch weasel educate sunny scan";

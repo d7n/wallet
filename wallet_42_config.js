@@ -1,1 +1,1 @@
-var mnemonic = "please apology tube scene rule camp draw camera skill orbit member alpha";
+var mnemonic = "calm odor broccoli fragile basket soon laugh march mixture world hockey under";

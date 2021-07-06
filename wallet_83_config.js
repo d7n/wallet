@@ -1,1 +1,1 @@
-var mnemonic = "victory naive vocal service target pluck deputy seed jungle slice depart loyal";
+var mnemonic = "castle health phone smart width father insane long object kind crane hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate chimney decade foil escape tumble road waste concert nest museum upper";
+var mnemonic = "cage nurse crazy remind type trash cement jeans slice loan confirm daring";

@@ -1,1 +1,1 @@
-var mnemonic = "space only near grace survey witness involve settle crumble city equal stay";
+var mnemonic = "improve walnut divert raven hour embrace hill image library manage often moment";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard ramp ship remember shine silent make vote demand left fit rough";
+var mnemonic = "myth absent unable gym unaware when oval identify popular grass promote away";

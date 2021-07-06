@@ -1,1 +1,1 @@
-var mnemonic = "orchard wish wish help stick pistol civil equal garage beach obtain gravity";
+var mnemonic = "across act wire better magic notice about shoot power amateur border observe";

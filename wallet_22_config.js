@@ -1,1 +1,1 @@
-var mnemonic = "man daring fantasy surprise donate summer trigger soldier abuse wrist combine nurse";
+var mnemonic = "sort sock duck sun soft employ angle key vicious gravity tube east";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain toilet cycle frog crunch educate setup resource hen sick remind tail";
+var mnemonic = "lonely parade metal lava episode stone elite dumb eagle drop arrive behind";

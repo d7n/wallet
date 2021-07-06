@@ -1,1 +1,1 @@
-var mnemonic = "oven clerk biology cricket gift real sugar decide october enemy cargo arena";
+var mnemonic = "peace carbon swim imitate glow rebuild boy pink youth fabric memory crack";

@@ -1,1 +1,1 @@
-var mnemonic = "inch style elegant asset wrestle enhance inch ski couple build produce faint";
+var mnemonic = "monitor valid organ minor ozone raccoon radio cannon quiz escape chuckle brave";

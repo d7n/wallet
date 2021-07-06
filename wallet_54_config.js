@@ -1,1 +1,1 @@
-var mnemonic = "shuffle suggest suspect fringe penalty sugar squeeze nuclear blame flush path plug";
+var mnemonic = "stairs broken cheap frequent history fee cinnamon ready roof reunion alien nature";

@@ -1,1 +1,1 @@
-var mnemonic = "youth hunt alert caution scale inside rural noise scorpion praise sign craft";
+var mnemonic = "fiscal cabbage soft solid palm make subway utility web virus behind vault";

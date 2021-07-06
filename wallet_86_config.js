@@ -1,1 +1,1 @@
-var mnemonic = "brisk protect novel extend pole civil media ripple test suspect first beef";
+var mnemonic = "reduce ice hint certain prosper unlock green text estate venue axis estate";

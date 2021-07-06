@@ -1,1 +1,1 @@
-var mnemonic = "struggle boy about burden matter crush announce lizard embody talent layer arch";
+var mnemonic = "capable proof inner wink abuse eight lumber wheat taxi example fly bus";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness write initial early fever bird uncover debate mention hungry human owner";
+var mnemonic = "mother coffee hungry screen transfer miss churn middle name bid fat tide";

@@ -1,1 +1,1 @@
-var mnemonic = "trap tuition rug flip hope coil client embrace athlete tornado detect syrup";
+var mnemonic = "fresh client federal mobile poem lion general attend success marriage shoulder pistol";
