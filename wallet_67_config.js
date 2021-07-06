@@ -1,1 +1,1 @@
-var mnemonic = "tray evil fog method episode shield insane erupt fit kangaroo jelly client";
+var mnemonic = "galaxy shift adapt tower lecture bubble essay ceiling tribe pistol position session";

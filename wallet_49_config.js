@@ -1,1 +1,1 @@
-var mnemonic = "anchor jungle finish save place oblige achieve grocery yard bridge jacket insect";
+var mnemonic = "remove promote champion right witness true leopard catch typical punch venture harbor";

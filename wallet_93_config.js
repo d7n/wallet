@@ -1,1 +1,1 @@
-var mnemonic = "twice actress cargo enroll toward churn gorilla social morning tumble enlist hurt";
+var mnemonic = "glue disorder kite rocket submit obey middle vital fabric boring awesome also";

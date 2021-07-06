@@ -1,1 +1,1 @@
-var mnemonic = "elephant path liberty rapid blanket rate canoe suit hybrid bleak height mixed";
+var mnemonic = "thing advice hint horn move deal wage angle click man ginger outdoor";

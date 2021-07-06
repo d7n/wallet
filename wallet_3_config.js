@@ -1,1 +1,1 @@
-var mnemonic = "identify letter used define gym budget mix media seek grant valid garbage";
+var mnemonic = "initial crack smoke tourist elbow tone ivory setup matter great sentence circle";

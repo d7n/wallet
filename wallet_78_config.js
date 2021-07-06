@@ -1,1 +1,1 @@
-var mnemonic = "country text remain swear pencil bright zero ticket battle addict kite estate";
+var mnemonic = "owner diary slot brick muscle cheap access skin chief romance video confirm";

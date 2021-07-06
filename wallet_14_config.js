@@ -1,1 +1,1 @@
-var mnemonic = "fault rain illegal arrest omit sphere toilet fade clock dragon forest bind";
+var mnemonic = "govern arrange novel humble scheme snack reduce matrix armed pitch retire smoke";

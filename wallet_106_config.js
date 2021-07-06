@@ -1,1 +1,1 @@
-var mnemonic = "still please enough high joy effort hope owner approve always then grunt";
+var mnemonic = "trust sponsor spawn aspect title agent resemble cement nasty emotion picture super";

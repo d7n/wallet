@@ -1,1 +1,1 @@
-var mnemonic = "give float inmate yard damage quit heart dinner guilt tower hero gold";
+var mnemonic = "mesh exhaust sure allow grape safe inspire wheel favorite salmon strategy birth";

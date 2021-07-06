@@ -1,1 +1,1 @@
-var mnemonic = "steak drum casual cannon safe warm replace foot link spot jar eye";
+var mnemonic = "sentence region float stable unfair crisp joy cram pause never gadget taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "announce demand economy away hard hair boat water elite scout renew gain";
+var mnemonic = "spot define inquiry basket wasp brick suggest roof primary neglect ship armed";

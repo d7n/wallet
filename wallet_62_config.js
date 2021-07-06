@@ -1,1 +1,1 @@
-var mnemonic = "sure clown unhappy furnace rabbit clay trial harvest caught mule attitude steel";
+var mnemonic = "extend crucial sphere useless raise carbon sick crisp galaxy polar bachelor lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "nature token case trend wheat eight popular oxygen hobby clump feel rail";
+var mnemonic = "absent wreck silver curious nasty black symbol local segment wear bone icon";

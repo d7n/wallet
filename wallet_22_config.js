@@ -1,1 +1,1 @@
-var mnemonic = "minimum jar again general among paper steel bring consider episode giant despair";
+var mnemonic = "unit car leg embark hole sudden then embody disagree any deal top";

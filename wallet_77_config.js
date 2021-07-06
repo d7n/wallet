@@ -1,1 +1,1 @@
-var mnemonic = "manual include brisk balcony sand rebel rocket concert canyon honey nuclear admit";
+var mnemonic = "pigeon warfare gap blame accuse section power evil system kidney must life";

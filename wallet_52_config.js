@@ -1,1 +1,1 @@
-var mnemonic = "still lady zero almost thrive gas sniff relax draw alien junior hurry";
+var mnemonic = "all glide recall credit away prepare target produce spice picnic album fragile";

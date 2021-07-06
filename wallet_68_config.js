@@ -1,1 +1,1 @@
-var mnemonic = "mosquito outer very pepper rack upon behave delay verify valid swim cook";
+var mnemonic = "galaxy choose scatter portion poet walk bean blind carpet palace duck diesel";

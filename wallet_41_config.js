@@ -1,1 +1,1 @@
-var mnemonic = "total soccer flavor rally federal fee cup thing hello disease oppose process";
+var mnemonic = "valve plug punch silk shell pet damage ball kick material gorilla reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "round hello wheel tenant uncover exact level neither above pony essence blanket";
+var mnemonic = "trip rally flash expect draft enjoy faculty rebel guide nothing typical luggage";

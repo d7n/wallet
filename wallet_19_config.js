@@ -1,1 +1,1 @@
-var mnemonic = "eternal wagon daring mistake peasant uphold grain syrup blood alert owner month";
+var mnemonic = "wool border fire awake crazy recycle stairs pudding winner caution sheriff glow";

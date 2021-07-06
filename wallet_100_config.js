@@ -1,1 +1,1 @@
-var mnemonic = "differ term shift only auction boss buzz amused grief life hidden favorite";
+var mnemonic = "identify live drop asset field sunny service monkey company swift wine give";

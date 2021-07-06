@@ -1,1 +1,1 @@
-var mnemonic = "correct knock swear sure idea wine kiwi like company smoke result scout";
+var mnemonic = "there step flip girl legend tool shove end race habit two mushroom";

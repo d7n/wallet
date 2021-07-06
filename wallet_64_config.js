@@ -1,1 +1,1 @@
-var mnemonic = "kidney inflict fish swim dry forest volume come mobile enemy chair print";
+var mnemonic = "cheese guide grab assist north acid erosion scene deliver toward smoke notable";

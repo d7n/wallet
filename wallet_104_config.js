@@ -1,1 +1,1 @@
-var mnemonic = "gym benefit plate crazy fame brand hair chief section current diagram mesh";
+var mnemonic = "pen legend quote like little people reform faculty doctor safe sure candy";

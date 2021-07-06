@@ -1,1 +1,1 @@
-var mnemonic = "truly grape comfort marble put oblige spy alert fame blush face rib";
+var mnemonic = "picture ivory clean razor tiny profit tell cook erase little noble sleep";

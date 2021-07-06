@@ -1,1 +1,1 @@
-var mnemonic = "anxiety issue put erupt aim crush shiver insane sunny lumber million enlist";
+var mnemonic = "entire differ balance hobby very together hour truck rapid recipe mean mushroom";

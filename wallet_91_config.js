@@ -1,1 +1,1 @@
-var mnemonic = "you yard outer wreck runway maid supreme kite mail will drive garden";
+var mnemonic = "foster anxiety course suit release engine improve junk fiscal sadness final pulp";

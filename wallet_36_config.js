@@ -1,1 +1,1 @@
-var mnemonic = "quality clinic rich oxygen deny sea crazy black cloth void harsh master";
+var mnemonic = "oven project verb staff mule sign color lake focus cancel energy lobster";

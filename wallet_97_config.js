@@ -1,1 +1,1 @@
-var mnemonic = "worth session priority tissue fantasy gadget boat fox zero asthma loud this";
+var mnemonic = "again brave decrease common patrol because online blush phrase term extend display";

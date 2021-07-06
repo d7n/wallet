@@ -1,1 +1,1 @@
-var mnemonic = "review cactus spice vote meadow solution later shell cave wonder hub rubber";
+var mnemonic = "visa easily fault state dove sudden garlic blast age large pelican buzz";

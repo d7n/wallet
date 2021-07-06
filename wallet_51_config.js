@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cloud trim pact fish sting slogan twin cute camp climb voice";
+var mnemonic = "reflect change join erode legend sibling rack tone amount rookie spend pool";

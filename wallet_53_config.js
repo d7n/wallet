@@ -1,1 +1,1 @@
-var mnemonic = "lava flight fade battle woman twin choose nothing couple small jeans easy";
+var mnemonic = "surprise giggle never vault later drip reveal leisure harsh public clock pact";

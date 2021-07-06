@@ -1,1 +1,1 @@
-var mnemonic = "enforce soon virtual leader decorate mammal custom ripple law spy primary prefer";
+var mnemonic = "reform galaxy clown display quit reunion portion endless run aim define swift";

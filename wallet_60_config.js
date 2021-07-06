@@ -1,1 +1,1 @@
-var mnemonic = "news forum figure peace broken nurse coin peanut body rice lava fortune";
+var mnemonic = "worry police letter staff project toward tonight virus certain foster claim orange";

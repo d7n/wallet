@@ -1,1 +1,1 @@
-var mnemonic = "choice canvas jeans solve project sword gold float sail coffee process process";
+var mnemonic = "awful story utility deer master wide bubble lift winner mirror title corn";

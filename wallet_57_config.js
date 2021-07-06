@@ -1,1 +1,1 @@
-var mnemonic = "split broccoli cup column imitate lonely team jacket tiger crack chair duty";
+var mnemonic = "dinosaur lamp ship kitten bag segment garage patient object can blame fringe";

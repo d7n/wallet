@@ -1,1 +1,1 @@
-var mnemonic = "width wage soon find name slush jeans patrol advice salon ripple hockey";
+var mnemonic = "trigger law spice evidence picnic leave grid trash flight grief pink top";

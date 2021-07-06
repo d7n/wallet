@@ -1,1 +1,1 @@
-var mnemonic = "solve relief whip okay dizzy agent brain noble surge drastic ahead tornado";
+var mnemonic = "culture certain orange pet link common focus setup town holiday salad anger";

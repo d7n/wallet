@@ -1,1 +1,1 @@
-var mnemonic = "regret brand ready force differ flight castle mutual horn melt noodle lucky";
+var mnemonic = "nasty brief smoke rather hood cat maze interest solid slow upper cat";

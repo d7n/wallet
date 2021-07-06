@@ -1,1 +1,1 @@
-var mnemonic = "fragile cancel talk draft company cause lonely dilemma alarm soda skate useless";
+var mnemonic = "have obvious rescue hockey antenna layer minimum blue rate nothing adjust hair";

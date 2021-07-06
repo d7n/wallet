@@ -1,1 +1,1 @@
-var mnemonic = "engage project copper pepper rebel resource suffer exotic birth black fork vehicle";
+var mnemonic = "derive cereal nerve history desert excuse excess cable kind fork wild abstract";

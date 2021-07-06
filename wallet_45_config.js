@@ -1,1 +1,1 @@
-var mnemonic = "inspire need member embody diet ice wagon basic radio ahead now upgrade";
+var mnemonic = "wage success undo nurse absorb wait conduct vintage load immune pretty horn";

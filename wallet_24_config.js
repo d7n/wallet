@@ -1,1 +1,1 @@
-var mnemonic = "axis clog paddle doctor detect resist soda tuition sketch column life trumpet";
+var mnemonic = "enhance federal donkey because ramp eight off usual divide airport circle tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "sell shallow game teach slight neutral disease bridge six express inhale shell";
+var mnemonic = "blame budget tuna butter achieve royal bean lesson injury swap pitch blue";

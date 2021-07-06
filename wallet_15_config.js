@@ -1,1 +1,1 @@
-var mnemonic = "what dragon usage elder medal hidden account column claw panther uniform history";
+var mnemonic = "artefact festival toss cram program spy what small traffic library measure dirt";

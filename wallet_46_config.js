@@ -1,1 +1,1 @@
-var mnemonic = "doctor derive expect guitar romance target become bar slow just banner yellow";
+var mnemonic = "remain host mutual pitch phone gas situate stick melody logic process lake";

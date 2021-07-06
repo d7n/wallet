@@ -1,1 +1,1 @@
-var mnemonic = "price impulse era skill poverty crack stock cook invite blouse dirt symbol";
+var mnemonic = "rose segment dragon cereal pyramid foil lazy because horse genius bone december";

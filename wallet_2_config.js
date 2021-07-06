@@ -1,1 +1,1 @@
-var mnemonic = "cattle scare click page burden buyer often latin fantasy engine rookie gather";
+var mnemonic = "jar canoe concert punch throw canvas head nut skin poem release submit";

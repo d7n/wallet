@@ -1,1 +1,1 @@
-var mnemonic = "door general proud embody glance capital off until sniff bundle baby neck";
+var mnemonic = "rather manual output sock accident bird impact atom vendor select exotic test";

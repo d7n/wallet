@@ -1,1 +1,1 @@
-var mnemonic = "twenty twist canoe embrace cry photo there post piece private dream point";
+var mnemonic = "cabbage ribbon demise topic reform slogan upon engage tissue recycle gossip program";

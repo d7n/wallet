@@ -1,1 +1,1 @@
-var mnemonic = "nurse cheap armor sample upon sorry horse tuition flip come curve garden";
+var mnemonic = "flock thought people lazy purpose ugly trigger state tackle genius zebra payment";

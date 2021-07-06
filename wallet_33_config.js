@@ -1,1 +1,1 @@
-var mnemonic = "engage orient notable oxygen witness throw olympic example motor nice wet oppose";
+var mnemonic = "narrow benefit say olympic practice inhale spread clever display quit left autumn";

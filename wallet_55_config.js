@@ -1,1 +1,1 @@
-var mnemonic = "custom cram scale office path camera auto couch camera carpet erode sugar";
+var mnemonic = "ribbon glare tree record hybrid stadium urge shed author potato member message";

@@ -1,1 +1,1 @@
-var mnemonic = "truly hover kick reveal family puzzle link victory ancient host grab rely";
+var mnemonic = "near pepper ribbon faculty smooth wood brown silent sweet canyon limb scale";

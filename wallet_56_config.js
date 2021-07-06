@@ -1,1 +1,1 @@
-var mnemonic = "ancient book match analyst moment hover put asset infant roof enemy tray";
+var mnemonic = "trust sample dog cigar banner regular allow music among motor judge item";

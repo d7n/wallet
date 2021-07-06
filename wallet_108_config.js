@@ -1,1 +1,1 @@
-var mnemonic = "thank laugh evil suit empty need ridge teach auto sand drama chicken";
+var mnemonic = "quote off deer curious reduce share swarm rose control panda sound chief";

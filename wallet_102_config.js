@@ -1,1 +1,1 @@
-var mnemonic = "million arm edit news stem hawk hero mask trash list version ancient";
+var mnemonic = "stage old bitter donor gaze true curtain lyrics trigger fresh regular spy";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble unable fossil drink talk turtle tray bicycle attract mad unusual leave";
+var mnemonic = "movie race afraid other team width hidden wash furnace leader romance couch";

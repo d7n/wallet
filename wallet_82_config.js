@@ -1,1 +1,1 @@
-var mnemonic = "endorse castle woman fresh jealous tennis scheme year that elder rebel assist";
+var mnemonic = "orange soft until guard spice hamster parrot what sibling true hope ability";

@@ -1,1 +1,1 @@
-var mnemonic = "season north bargain tornado box tunnel crumble thunder cushion dance police warfare";
+var mnemonic = "captain oblige brand sea industry record crucial inquiry trouble rotate twelve please";

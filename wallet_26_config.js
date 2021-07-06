@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow they purse any wage lava enrich immune produce top matrix sudden";
+var mnemonic = "frost infant double cake knife opinion cave copy stamp remain hill bachelor";

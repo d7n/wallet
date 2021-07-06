@@ -1,1 +1,1 @@
-var mnemonic = "nurse bacon expand review embark song obscure where delay hurdle solution choose";
+var mnemonic = "puppy dance spread convince step fashion jaguar essence park bottom sense enhance";

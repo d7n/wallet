@@ -1,1 +1,1 @@
-var mnemonic = "alcohol jeans play tent second spike viable ticket achieve genre only person";
+var mnemonic = "artist act page mammal method rapid cave express wash wild tongue giggle";

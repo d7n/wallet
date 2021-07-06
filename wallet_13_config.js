@@ -1,1 +1,1 @@
-var mnemonic = "mixed room depart file execute appear hospital fan level bid outdoor famous";
+var mnemonic = "burden capital trip sentence human situate arrive flame swap main clerk bread";

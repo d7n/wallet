@@ -1,1 +1,1 @@
-var mnemonic = "panic element post heavy all range daughter sample hobby flock ten plunge";
+var mnemonic = "gravity jeans century lizard matrix urban betray current weekend horror violin rough";

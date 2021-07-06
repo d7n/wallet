@@ -1,1 +1,1 @@
-var mnemonic = "zebra exclude bicycle bid lazy solid gesture general envelope typical govern milk";
+var mnemonic = "size pilot member audit neck index alcohol essay fiber hungry hip spray";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost legend dutch group point eye hotel similar unit amount bulb derive";
+var mnemonic = "coffee child depend quiz pipe taxi maple fold prosper meat witness perfect";

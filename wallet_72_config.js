@@ -1,1 +1,1 @@
-var mnemonic = "actual pelican lonely later zero creek pool margin urban inform cinnamon invest";
+var mnemonic = "broom plug illegal version bus useless buffalo unable drama rotate pilot jungle";

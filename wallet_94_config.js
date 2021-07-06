@@ -1,1 +1,1 @@
-var mnemonic = "brain tooth assume curve arrest equal section always reopen zebra voyage betray";
+var mnemonic = "antenna sight scrub false advice coconut observe protect goat quote valve borrow";

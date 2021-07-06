@@ -1,1 +1,1 @@
-var mnemonic = "path garbage reward error sauce awake side daughter scrub fabric fat marriage";
+var mnemonic = "use trip helmet desk just certain obscure health salt input present judge";

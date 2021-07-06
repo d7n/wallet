@@ -1,1 +1,1 @@
-var mnemonic = "net yellow monster hidden ceiling copy dutch media supply clinic lucky need";
+var mnemonic = "party bulb entry quiz circle extend forest aunt crowd brick enough end";

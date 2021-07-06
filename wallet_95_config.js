@@ -1,1 +1,1 @@
-var mnemonic = "visit luggage hungry soul keep much vibrant useful soap utility vital number";
+var mnemonic = "shell occur gentle skirt panda obtain frog candy switch share before napkin";

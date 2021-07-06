@@ -1,1 +1,1 @@
-var mnemonic = "title vendor fee weather cinnamon spike cousin hungry angle wagon verify photo";
+var mnemonic = "struggle manage time consider bird lunar top embrace pulse pepper carbon account";

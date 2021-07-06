@@ -1,1 +1,1 @@
-var mnemonic = "there switch suggest suspect stereo discover cactus begin two tiger dress crush";
+var mnemonic = "physical alien merry mom garbage chief swarm absent hair muscle bind fox";

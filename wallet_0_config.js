@@ -1,1 +1,1 @@
-var mnemonic = "expose upset castle truck genre erupt steak buffalo fine life board wear";
+var mnemonic = "pepper mixture remain robot awake zoo rally clown mom bar mom pluck";

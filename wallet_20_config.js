@@ -1,1 +1,1 @@
-var mnemonic = "relief puppy evidence silly topic cereal diary trophy roast rubber rely escape";
+var mnemonic = "pause perfect bring cry flower arch glove safe junior require carbon whisper";

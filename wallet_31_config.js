@@ -1,1 +1,1 @@
-var mnemonic = "denial trim machine museum detail bicycle cook debate amount slab stadium coast";
+var mnemonic = "clock rain annual output response public zoo noodle mule uncover hobby bike";

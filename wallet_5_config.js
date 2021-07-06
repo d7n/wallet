@@ -1,1 +1,1 @@
-var mnemonic = "solid type essence equip october trend edit bounce fitness dumb chimney weekend";
+var mnemonic = "oppose search cement own wedding apart knock dutch awake all process mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "spy run boil fringe race heavy despair verb capital cube tobacco elite";
+var mnemonic = "debate average tag gorilla torch else bless genre main earth parade long";

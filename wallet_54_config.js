@@ -1,1 +1,1 @@
-var mnemonic = "harbor correct cave fault sample wreck chef permit delay wing knock cannon";
+var mnemonic = "gold squeeze slam neither fiction boss rack aware siren violin anchor stick";

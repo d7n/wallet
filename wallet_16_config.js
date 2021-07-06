@@ -1,1 +1,1 @@
-var mnemonic = "chat whale fish enemy someone orange cable opera absorb flavor bright gasp";
+var mnemonic = "awesome quiz rare height adult guilt ignore rally plastic actor fan thing";

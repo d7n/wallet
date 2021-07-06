@@ -1,1 +1,1 @@
-var mnemonic = "elder duck lazy first option negative rhythm remain convince when long cereal";
+var mnemonic = "drop real corn alpha balance ranch play wealth pizza own rookie youth";

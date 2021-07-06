@@ -1,1 +1,1 @@
-var mnemonic = "lunch list leaf hen twist lizard unfair act dose first fury finish";
+var mnemonic = "devote such acid evil wall only inject flash dilemma return outside rival";

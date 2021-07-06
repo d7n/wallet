@@ -1,1 +1,1 @@
-var mnemonic = "manage round tiger false winter release snack eyebrow retire comic glove image";
+var mnemonic = "wait envelope uniform kitchen toy man flavor puppy state replace fringe couch";

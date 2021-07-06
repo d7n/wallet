@@ -1,1 +1,1 @@
-var mnemonic = "couple possible minute river punch ocean this frost unit fury input certain";
+var mnemonic = "memory dress afraid disagree purity churn shrug endorse run trumpet proud type";

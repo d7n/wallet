@@ -1,1 +1,1 @@
-var mnemonic = "stick gown siege rubber sure fitness tonight track absent blind saddle photo";
+var mnemonic = "legend spy push mother simple coin time vanish buddy reward scorpion slight";

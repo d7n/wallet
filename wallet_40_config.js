@@ -1,1 +1,1 @@
-var mnemonic = "come canyon limit hundred budget print motor balcony useless finger fog patrol";
+var mnemonic = "enter blanket wrong eager oxygen ball expose toe arrange cargo joy blanket";

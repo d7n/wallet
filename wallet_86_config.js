@@ -1,1 +1,1 @@
-var mnemonic = "phrase long danger toast section grunt deal claw bonus track zoo daughter";
+var mnemonic = "tuna friend monitor glance crush sibling student banner bounce alert follow choose";

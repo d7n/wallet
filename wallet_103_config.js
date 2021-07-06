@@ -1,1 +1,1 @@
-var mnemonic = "earn focus sphere amused call absent combine wedding supply space warfare exercise";
+var mnemonic = "arm solar allow shiver energy hard you illegal edit chimney party fitness";

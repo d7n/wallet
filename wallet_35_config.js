@@ -1,1 +1,1 @@
-var mnemonic = "slim company mesh cruise arrive veteran story outer bird island rifle turkey";
+var mnemonic = "you lock blind huge search pelican assist habit pelican swift correct meadow";

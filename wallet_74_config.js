@@ -1,1 +1,1 @@
-var mnemonic = "display brisk rely attack pulse gesture swamp humble audit gaze else art";
+var mnemonic = "punch island snake steel photo camera snow metal flower confirm never uncover";

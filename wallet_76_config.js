@@ -1,1 +1,1 @@
-var mnemonic = "outdoor risk become trim utility life super gain limit ramp outdoor city";
+var mnemonic = "nothing ensure turtle column obvious radio ceiling patrol usage measure chaos canvas";
