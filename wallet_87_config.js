@@ -1,1 +1,1 @@
-var mnemonic = "grant nephew rib fiber taste crime heavy same usage fatal grab brisk";
+var mnemonic = "social original unfold minimum near indoor mountain prosper bless pave all such";

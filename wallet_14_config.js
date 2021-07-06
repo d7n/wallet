@@ -1,1 +1,1 @@
-var mnemonic = "tongue reward forget large tiger giant valid tide balance august above today";
+var mnemonic = "also frozen public flag develop fever laugh easily purpose shrimp throw draft";

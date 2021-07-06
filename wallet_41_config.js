@@ -1,1 +1,1 @@
-var mnemonic = "garbage learn radio lottery truck favorite potato unique lift giraffe hat antique";
+var mnemonic = "hobby can become half piano empty task sound cotton upper inside tank";

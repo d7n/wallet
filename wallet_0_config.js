@@ -1,1 +1,1 @@
-var mnemonic = "total blue goddess online flip jump solution output blush laundry brief eternal";
+var mnemonic = "obscure thunder route narrow bundle squeeze hub afford chaos right ridge price";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo beach brisk strategy flower session slim scale amateur banana regular fee";
+var mnemonic = "cloud doctor fit buffalo wrist list noise ritual loud pulp wish dirt";

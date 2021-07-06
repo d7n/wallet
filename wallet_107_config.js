@@ -1,1 +1,1 @@
-var mnemonic = "blame layer hazard rescue fish wear trend strike blur engine march private";
+var mnemonic = "resource gospel hope assist cloud desk left soup tenant evoke surprise finger";

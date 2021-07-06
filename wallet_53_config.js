@@ -1,1 +1,1 @@
-var mnemonic = "fly fit depth alone present avocado cradle idea toast toward drop gallery";
+var mnemonic = "bless smoke begin bless civil motion guide smart snake remember mirror glow";

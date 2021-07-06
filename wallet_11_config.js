@@ -1,1 +1,1 @@
-var mnemonic = "make gossip sun ignore guard rack remind sea neck daughter various hill";
+var mnemonic = "scorpion vote sun vocal proud wrap gadget deputy federal fee member wear";

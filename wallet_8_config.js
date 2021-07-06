@@ -1,1 +1,1 @@
-var mnemonic = "sense surge pistol solution snack use deal praise enact decide real cross";
+var mnemonic = "loud taxi cancel couple disorder lady define talk reveal unusual permit depart";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing loan lab census lonely rely gain rather number good doctor slam";
+var mnemonic = "enact choose discover leave scorpion prepare pave viable wise fox heart broken";

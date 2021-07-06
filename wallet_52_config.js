@@ -1,1 +1,1 @@
-var mnemonic = "volume marble outdoor path imitate clerk monitor beach barely excess rapid flag";
+var mnemonic = "call insect onion gorilla blossom rack alarm net tool quality picture gate";

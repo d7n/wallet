@@ -1,1 +1,1 @@
-var mnemonic = "labor debate delay trophy slight bag morning chief pool spring kind material";
+var mnemonic = "apple human shuffle curtain invite auto volume inch sudden flower exclude circle";

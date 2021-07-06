@@ -1,1 +1,1 @@
-var mnemonic = "lunar put disease shy only board math exhaust dose voice jump bullet";
+var mnemonic = "good salmon latin common easy usual glimpse task session amateur gesture frown";

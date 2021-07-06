@@ -1,1 +1,1 @@
-var mnemonic = "idea follow object divert frequent flock forward salmon inherit tent road scrap";
+var mnemonic = "husband exhaust spatial verify lady pioneer pumpkin great scale tree kiss clutch";

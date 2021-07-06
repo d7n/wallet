@@ -1,1 +1,1 @@
-var mnemonic = "pipe govern liberty witness evidence pyramid among ritual always involve ladder recycle";
+var mnemonic = "agree board candy hazard mad buyer kid tenant rhythm digital visa replace";

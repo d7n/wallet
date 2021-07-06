@@ -1,1 +1,1 @@
-var mnemonic = "chat receive people slam elder capable tackle leave vacuum kiss history ceiling";
+var mnemonic = "deal half fire spatial mule build reunion tiger actress anchor pen swing";

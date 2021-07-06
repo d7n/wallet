@@ -1,1 +1,1 @@
-var mnemonic = "inquiry nose capital month letter clever educate siren champion strong they body";
+var mnemonic = "cigar audit glad shell drip afraid window cousin convince mention supply dial";

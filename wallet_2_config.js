@@ -1,1 +1,1 @@
-var mnemonic = "spot flip trust artefact addict sort time raise forest because milk photo";
+var mnemonic = "million second matter web raccoon few village maple hybrid rude goddess test";

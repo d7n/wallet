@@ -1,1 +1,1 @@
-var mnemonic = "hungry bulk meadow tray merge price later fame idle plunge huge stomach";
+var mnemonic = "hurdle dog will describe tribe option social iron tissue snow size hobby";

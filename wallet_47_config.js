@@ -1,1 +1,1 @@
-var mnemonic = "expire february human sunny pencil reveal update solve average ketchup hidden police";
+var mnemonic = "tape way exact gesture print force find supply brief couch income cherry";

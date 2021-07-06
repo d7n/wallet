@@ -1,1 +1,1 @@
-var mnemonic = "athlete move mouse dad switch bring decade either cross eager other family";
+var mnemonic = "state audit myth example battle improve kind regret you various pet drop";

@@ -1,1 +1,1 @@
-var mnemonic = "true pioneer volume fortune taste enrich impact remind depend sugar negative hunt";
+var mnemonic = "place ghost dolphin seat tag slice firm monkey zero mule visa boost";

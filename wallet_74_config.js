@@ -1,1 +1,1 @@
-var mnemonic = "exhaust kiwi expect pattern room shine toddler interest rally squirrel grant sell";
+var mnemonic = "token sun promote essence genre exact bind sample material position object quit";

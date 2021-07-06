@@ -1,1 +1,1 @@
-var mnemonic = "member pride myth pottery travel exist title argue purity engine fancy dog";
+var mnemonic = "dolphin derive tank enact caution kid humble whip punch cloud surround culture";

@@ -1,1 +1,1 @@
-var mnemonic = "defy tube quiz moon true leave embark crater march author practice client";
+var mnemonic = "laundry tent cup foam green way gold divorce cruel typical sunny ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel excess boil output elegant little snap evolve hill select defy chunk";
+var mnemonic = "carry act share narrow object menu main reduce demand inflict cross depart";

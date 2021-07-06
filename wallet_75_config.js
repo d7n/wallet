@@ -1,1 +1,1 @@
-var mnemonic = "victory deliver result tackle olive law globe curve treat dinosaur elephant frequent";
+var mnemonic = "young load destroy arrange tip vivid behave birth diamond rookie trim snake";

@@ -1,1 +1,1 @@
-var mnemonic = "help enemy pony valley twist citizen maze pledge account sock advice toward";
+var mnemonic = "scout base carbon category tilt patient market vibrant orphan hill mushroom glory";

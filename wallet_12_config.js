@@ -1,1 +1,1 @@
-var mnemonic = "fog text effort need way slot cycle manage joke scrub visa current";
+var mnemonic = "chase dilemma disease monster now winter crane base gap hip around buyer";

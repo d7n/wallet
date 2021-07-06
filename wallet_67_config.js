@@ -1,1 +1,1 @@
-var mnemonic = "regular argue ancient have wet basket bean clean medal own machine industry";
+var mnemonic = "mention chunk smoke cram social bonus camera multiply zone crystal seek dust";

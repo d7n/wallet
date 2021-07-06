@@ -1,1 +1,1 @@
-var mnemonic = "lamp host flock front copy aunt true fire owner warm alone gesture";
+var mnemonic = "amused swallow smooth spawn salad win kid puppy orchard minimum inmate aim";

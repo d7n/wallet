@@ -1,1 +1,1 @@
-var mnemonic = "cake tide canyon raw boost useless vital wheat valve normal shine gun";
+var mnemonic = "liquid admit picture mirror happy puppy fatigue sorry bus patch lift gauge";

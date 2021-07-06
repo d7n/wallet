@@ -1,1 +1,1 @@
-var mnemonic = "rigid demise deal middle ivory sauce report bird conduct arm canal upper";
+var mnemonic = "sort enforce catalog boil eager prison oxygen happy blast update denial worry";

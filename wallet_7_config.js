@@ -1,1 +1,1 @@
-var mnemonic = "trash flee purpose proof call sock lounge fun give history shrimp excess";
+var mnemonic = "flee cigar trim language learn wrist ready combine acquire antenna thought border";

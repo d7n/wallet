@@ -1,1 +1,1 @@
-var mnemonic = "you local awkward mixture grocery vivid cat avoid spend payment hobby oak";
+var mnemonic = "length vocal away develop fog youth region fever warm siege size hip";

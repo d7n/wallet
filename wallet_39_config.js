@@ -1,1 +1,1 @@
-var mnemonic = "weekend neck electric virus narrow science grass bid sell bundle swear sleep";
+var mnemonic = "baby health play solution witness valley ranch turkey more glow onion alien";

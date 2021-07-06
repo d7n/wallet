@@ -1,1 +1,1 @@
-var mnemonic = "saddle employ ripple struggle blossom casual useless false cheap rack lazy face";
+var mnemonic = "powder theme congress erosion wood demise jelly doctor deny super style between";

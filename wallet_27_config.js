@@ -1,1 +1,1 @@
-var mnemonic = "churn host region image fix nerve right expect enact upgrade hollow donkey";
+var mnemonic = "captain try volcano frog critic say island faculty crunch crisp buyer venture";

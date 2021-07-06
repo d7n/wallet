@@ -1,1 +1,1 @@
-var mnemonic = "film beef note utility orphan speed swap quit parent useful vanish shed";
+var mnemonic = "kitchen another design badge skirt soon trigger poem cruel hammer plug addict";

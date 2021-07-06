@@ -1,1 +1,1 @@
-var mnemonic = "blanket remain until crush useful access wealth benefit blush cave left explain";
+var mnemonic = "between grain inflict piece improve unfair lawn doll canvas memory food junk";

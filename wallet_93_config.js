@@ -1,1 +1,1 @@
-var mnemonic = "guilt elder pelican cargo custom cave table acoustic suggest comic wise horror";
+var mnemonic = "artefact stamp pill whisper result black phrase help royal panda bitter tennis";

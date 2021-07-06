@@ -1,1 +1,1 @@
-var mnemonic = "sense garage bargain cigar vapor gain smile interest innocent crime own fame";
+var mnemonic = "nature loop chair creek cube car amount duck bench custom pink enroll";

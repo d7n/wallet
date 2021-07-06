@@ -1,1 +1,1 @@
-var mnemonic = "shed pole fancy actual hint now gravity museum arctic air track sure";
+var mnemonic = "timber alter anchor wreck wine drop cricket weapon alone oven zone need";

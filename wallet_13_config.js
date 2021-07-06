@@ -1,1 +1,1 @@
-var mnemonic = "guess earth aunt strike rocket push toddler breeze canyon follow march candy";
+var mnemonic = "system easily embrace glue later forest claw laundry diet car payment resource";

@@ -1,1 +1,1 @@
-var mnemonic = "peace begin leader hidden settle myself amused clerk toilet fee fox october";
+var mnemonic = "helmet maid real panther rifle hybrid acid lawsuit argue slight protect brain";

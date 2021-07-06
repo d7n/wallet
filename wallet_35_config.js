@@ -1,1 +1,1 @@
-var mnemonic = "cattle profit pond desert junior surprise vault bar merry inhale vote expose";
+var mnemonic = "night art harsh coral ribbon require check flat palace salt orange cloth";

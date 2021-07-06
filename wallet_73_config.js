@@ -1,1 +1,1 @@
-var mnemonic = "bonus daring flush corn cook dog tonight matrix negative depth apology glory";
+var mnemonic = "boy cousin toilet decorate brush basic lunar struggle rude matter tourist galaxy";

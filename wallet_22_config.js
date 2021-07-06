@@ -1,1 +1,1 @@
-var mnemonic = "fog suspect ability crater salt imitate disease play beach season oblige blind";
+var mnemonic = "cake file remind decrease scout design image network lecture vacuum ill reduce";

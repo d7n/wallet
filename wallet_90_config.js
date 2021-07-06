@@ -1,1 +1,1 @@
-var mnemonic = "simple library image certain escape unfold element mechanic walnut put stick off";
+var mnemonic = "gravity chronic what relax tattoo chest comic shine pink advice brush feature";

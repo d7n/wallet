@@ -1,1 +1,1 @@
-var mnemonic = "measure couch naive sport elephant deputy target verb group tenant version forest";
+var mnemonic = "bachelor wish rabbit switch civil portion magnet duck small assist all fold";

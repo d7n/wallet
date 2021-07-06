@@ -1,1 +1,1 @@
-var mnemonic = "vague token prison ritual milk cactus govern skin nurse drink modify evidence";
+var mnemonic = "teach gauge broom ivory stereo very side fire shoe fatal degree clay";

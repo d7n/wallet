@@ -1,1 +1,1 @@
-var mnemonic = "output minute fringe private paddle master render census orphan evoke west focus";
+var mnemonic = "yard crucial ivory beach pipe card better strike produce age animal web";

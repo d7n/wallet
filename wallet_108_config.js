@@ -1,1 +1,1 @@
-var mnemonic = "bone tiny become response pig vintage fault plug cook brother wise cram";
+var mnemonic = "game story pizza equip board install valley yellow shiver plastic eagle wood";

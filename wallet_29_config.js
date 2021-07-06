@@ -1,1 +1,1 @@
-var mnemonic = "post kite churn demise goddess ostrich mammal put danger horse win lyrics";
+var mnemonic = "banner such shiver cheese maximum point morning fantasy useless ancient eagle rural";

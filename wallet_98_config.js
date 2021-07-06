@@ -1,1 +1,1 @@
-var mnemonic = "system noodle ankle have uncle absorb thunder adjust repair maple galaxy debris";
+var mnemonic = "festival life enter memory decline demand proof gallery advice raven bless size";

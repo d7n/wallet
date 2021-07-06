@@ -1,1 +1,1 @@
-var mnemonic = "test stadium rally recipe fix erupt pledge large avoid robot autumn hungry";
+var mnemonic = "provide route behave noodle seed shadow grab weasel speak void fan guard";

@@ -1,1 +1,1 @@
-var mnemonic = "smart glad fall main claw bind abandon witness word filter search tilt";
+var mnemonic = "oval wire swallow bag loud turn seek paddle thunder bulk spend charge";

@@ -1,1 +1,1 @@
-var mnemonic = "change tackle large sock quiz ancient unit box tiny dash minute confirm";
+var mnemonic = "ribbon cinnamon pluck kitten life frog taxi net energy pool base three";

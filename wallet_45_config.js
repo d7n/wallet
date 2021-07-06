@@ -1,1 +1,1 @@
-var mnemonic = "orient rely tomato sample quality maple elegant toss ordinary payment royal unhappy";
+var mnemonic = "motion ticket infant seed blind coral slab main transfer raw medal vast";

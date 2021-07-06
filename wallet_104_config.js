@@ -1,1 +1,1 @@
-var mnemonic = "fantasy theory skirt trust awake license beach either just such empty admit";
+var mnemonic = "shadow life antenna biology drive join insect rice home pig syrup replace";

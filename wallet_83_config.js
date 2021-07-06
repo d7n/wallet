@@ -1,1 +1,1 @@
-var mnemonic = "any barely paper outer document ask ocean salad foster unique punch club";
+var mnemonic = "bicycle choose ribbon fade dish normal depend rural shed bitter when quick";

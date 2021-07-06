@@ -1,1 +1,1 @@
-var mnemonic = "better vacuum police west gate helmet wise motion snake clap nose vessel";
+var mnemonic = "divide satoshi thumb total axis oven grocery flavor frame labor goddess unfold";

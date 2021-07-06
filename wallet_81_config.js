@@ -1,1 +1,1 @@
-var mnemonic = "border column sphere extra menu frown bomb supply shy bean cupboard predict";
+var mnemonic = "explain library roof normal prevent below dress tumble exclude little sort local";

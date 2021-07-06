@@ -1,1 +1,1 @@
-var mnemonic = "noise badge scrap tongue glove shove action spend glimpse twin invite rocket";
+var mnemonic = "detect fence anger give host alone dad battle another violin vintage struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "wet riot tired steak wheel guess machine already venture sheriff raccoon rescue";
+var mnemonic = "member deposit moon champion coyote injury shove snap debate wall layer season";

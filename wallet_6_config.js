@@ -1,1 +1,1 @@
-var mnemonic = "shoot donate allow change roast spin recall control attitude fantasy foil raw";
+var mnemonic = "isolate core crystal silk fatal double deer canvas jewel catalog diesel wrap";

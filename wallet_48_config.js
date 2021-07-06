@@ -1,1 +1,1 @@
-var mnemonic = "fit torch nurse idea bright miss error legal food phone monitor sock";
+var mnemonic = "arrive glance edit way eager arena blush twice grief wave note dizzy";

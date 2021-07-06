@@ -1,1 +1,1 @@
-var mnemonic = "feed style secret afford stuff gown athlete cabin apart glare cat movie";
+var mnemonic = "angle nerve voyage valley ecology spirit carpet govern rapid wool fan clog";

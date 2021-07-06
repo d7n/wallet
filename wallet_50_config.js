@@ -1,1 +1,1 @@
-var mnemonic = "upset endorse patrol segment cry peanut across grief strike expand robot question";
+var mnemonic = "very goose fox cheap shoulder chef garden mass distance correct advance inside";

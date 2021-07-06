@@ -1,1 +1,1 @@
-var mnemonic = "unlock deputy unlock pilot fetch truck patch train thank water engage illegal";
+var mnemonic = "magic knee gospel gym wagon rival adjust false myth manage tank photo";

@@ -1,1 +1,1 @@
-var mnemonic = "tree anger pupil layer insect hockey remain escape behave battle people aspect";
+var mnemonic = "remain van trouble guide race under truck small rhythm prize arena similar";

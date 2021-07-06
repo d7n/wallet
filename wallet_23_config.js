@@ -1,1 +1,1 @@
-var mnemonic = "pause profit make produce robot coyote merry card truly taxi vibrant trigger";
+var mnemonic = "exchange harsh access pyramid cat review message shallow cake rabbit turn broom";

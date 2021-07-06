@@ -1,1 +1,1 @@
-var mnemonic = "math broom debris convince conduct guitar zoo divert total polar student insect";
+var mnemonic = "initial arrow crisp knock bonus depend lake garlic viable nasty canal flush";

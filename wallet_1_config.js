@@ -1,1 +1,1 @@
-var mnemonic = "unveil pill winner burden pigeon music excite blame naive vendor public industry";
+var mnemonic = "lamp poem quit awesome black auction glare birth marriage drastic crazy describe";

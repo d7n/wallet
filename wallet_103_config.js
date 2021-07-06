@@ -1,1 +1,1 @@
-var mnemonic = "school practice remind mean potato naive appear force feed rescue know slot";
+var mnemonic = "shallow awesome they magnet alien asthma exist lock blush accuse team can";

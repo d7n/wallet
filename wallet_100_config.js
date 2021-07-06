@@ -1,1 +1,1 @@
-var mnemonic = "there spread pistol dutch hover quote truly veteran bright moral blame wrong";
+var mnemonic = "ridge media hobby outdoor become swap end when shoot suffer behave resemble";

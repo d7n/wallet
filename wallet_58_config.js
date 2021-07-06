@@ -1,1 +1,1 @@
-var mnemonic = "bulb stable fall opera raven rent asthma use mass aim sun clarify";
+var mnemonic = "assault inside effort assault rib detail caution typical obey rich abuse supreme";

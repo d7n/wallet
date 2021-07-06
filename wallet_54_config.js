@@ -1,1 +1,1 @@
-var mnemonic = "cruel coffee clip piano chapter disagree elevator home island sense learn glad";
+var mnemonic = "shadow key security more pony wine hole section bag grief apart exotic";

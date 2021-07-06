@@ -1,1 +1,1 @@
-var mnemonic = "student pumpkin chaos august slight jump flat feed violin stone palace carpet";
+var mnemonic = "breeze foster crystal innocent orient illegal human buyer bag theory subway absent";

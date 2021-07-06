@@ -1,1 +1,1 @@
-var mnemonic = "success place autumn only ticket bike unique again electric track angle bicycle";
+var mnemonic = "good top excite mirror scrap manual warfare interest away chaos school hurdle";

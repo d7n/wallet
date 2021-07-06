@@ -1,1 +1,1 @@
-var mnemonic = "unique start over shiver measure helmet slide bus elegant today spike until";
+var mnemonic = "swallow time cargo chaos clarify video siren raven cute dutch you swarm";

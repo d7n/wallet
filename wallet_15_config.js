@@ -1,1 +1,1 @@
-var mnemonic = "dinner basket prize faint fee evolve arm property joy share husband area";
+var mnemonic = "misery test vapor robot input echo lobster kind will involve unique mechanic";

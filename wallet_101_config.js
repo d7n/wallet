@@ -1,1 +1,1 @@
-var mnemonic = "steel umbrella purity sauce trophy rent until series pretty awkward elegant survey";
+var mnemonic = "outside second trip type radio tag medal nut they admit pen rather";

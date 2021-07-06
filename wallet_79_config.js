@@ -1,1 +1,1 @@
-var mnemonic = "shrug security night unaware ball battle nice drastic ability crack siege bulk";
+var mnemonic = "stadium sauce power pause name merit team drop word crucial immune cement";

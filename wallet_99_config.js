@@ -1,1 +1,1 @@
-var mnemonic = "exhaust useless gossip text sun believe flat balance taxi camera chronic bottom";
+var mnemonic = "horn below dune mass adjust shuffle puppy merit answer satoshi daring river";

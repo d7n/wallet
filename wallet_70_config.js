@@ -1,1 +1,1 @@
-var mnemonic = "jealous uniform slight defy delay ginger rely cycle vapor laptop image abstract";
+var mnemonic = "awesome still dirt pepper flip subway visit siege neither under clog accident";

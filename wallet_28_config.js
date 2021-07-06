@@ -1,1 +1,1 @@
-var mnemonic = "become shoot aunt urban segment spawn fault code pyramid install innocent remind";
+var mnemonic = "process economy high concert crater bird fortune service tennis roof route recall";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon tape since noise abstract owner chat author skill brain frown alpha";
+var mnemonic = "blossom unlock badge cup noble immense act run casual sausage average muscle";

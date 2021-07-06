@@ -1,1 +1,1 @@
-var mnemonic = "purse filter army elder bulk boil shift memory clarify wine sound glue";
+var mnemonic = "onion sure swear essay depart buffalo brother leg pretty solid wrong violin";
