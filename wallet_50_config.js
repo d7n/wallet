@@ -1,1 +1,1 @@
-var mnemonic = "bench arrest matrix fatigue sauce slide snap actor debris coach knock midnight";
+var mnemonic = "rigid output glass fruit never mandate little please turtle camp raise diary";

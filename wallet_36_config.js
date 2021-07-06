@@ -1,1 +1,1 @@
-var mnemonic = "afford save ripple squeeze floor cradle afraid shallow wait ramp belt party";
+var mnemonic = "junk shell coast inhale expose earn skirt primary exchange real dawn average";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon orchard thank boring save truth vintage pencil card jewel inflict identify";
+var mnemonic = "usual example acquire gauge save stadium fade coach water hamster cherry crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic often menu luggage clerk betray expire reform napkin valley armor foam";
+var mnemonic = "essence liquid awake wine figure basket room sketch office setup violin foot";

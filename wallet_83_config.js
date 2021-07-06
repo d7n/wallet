@@ -1,1 +1,1 @@
-var mnemonic = "lunar plug marriage marble rice hurdle side blast order market coin target";
+var mnemonic = "blame suspect spot tragic album rely offer enforce combine convince easy response";

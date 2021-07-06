@@ -1,1 +1,1 @@
-var mnemonic = "reunion armor sun narrow error purpose hotel aunt assist side wild double";
+var mnemonic = "argue key buyer cram open throw clarify payment mesh acoustic coach design";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant morning option ring cereal phone stone seven tooth between scrub document";
+var mnemonic = "reduce road face soda tomato knee region sure honey bind acid hobby";

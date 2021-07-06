@@ -1,1 +1,1 @@
-var mnemonic = "laugh swim diary plastic ridge tomorrow north together dwarf execute salon tumble";
+var mnemonic = "piece wrap dolphin rally seek bulb member mutual hammer gospel brave uphold";

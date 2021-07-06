@@ -1,1 +1,1 @@
-var mnemonic = "oblige actor margin genius split craft vicious snap save pool village tray";
+var mnemonic = "ahead palm pudding pepper crumble letter soldier bitter intact goddess punch salt";

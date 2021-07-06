@@ -1,1 +1,1 @@
-var mnemonic = "slide rack nominee beauty pear keen inside broccoli butter ankle expire local";
+var mnemonic = "casual top vintage over fiction squeeze shaft miss derive pony region gaze";

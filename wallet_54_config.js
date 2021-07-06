@@ -1,1 +1,1 @@
-var mnemonic = "shuffle firm wrist mad weekend always divorce kitchen attitude situate lawsuit clarify";
+var mnemonic = "tag novel quick trick kingdom reduce flock drill joy east angry artwork";

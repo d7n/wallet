@@ -1,1 +1,1 @@
-var mnemonic = "cigar old congress exact used pioneer draw notice village expire fringe critic";
+var mnemonic = "brain tip fashion dwarf dynamic surge cargo assist ridge sausage entire balance";

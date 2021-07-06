@@ -1,1 +1,1 @@
-var mnemonic = "lunch demise turn message vocal approve dust myself fortune file muscle robot";
+var mnemonic = "spatial decade section lift struggle echo toy assault divorce tornado erosion actual";

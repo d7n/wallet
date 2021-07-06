@@ -1,1 +1,1 @@
-var mnemonic = "mother usual example bitter that teach now praise enemy citizen street slow";
+var mnemonic = "rural iron cruel coil radio entry peasant solid cake wing real celery";

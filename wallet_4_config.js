@@ -1,1 +1,1 @@
-var mnemonic = "wife novel taxi tail october squirrel ripple unlock famous feel donate genre";
+var mnemonic = "unknown table business lion govern crane purse kingdom all mom gather slam";

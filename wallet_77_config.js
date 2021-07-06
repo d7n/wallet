@@ -1,1 +1,1 @@
-var mnemonic = "orphan sadness know rule bottom dress mention normal fringe lunch dilemma spike";
+var mnemonic = "multiply social science boss talk drink sibling short pyramid siege toy indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "melt stay cube ensure bus refuse purpose invest affair west teach winter";
+var mnemonic = "ride quick stomach panic scrap define raccoon gate crane collect butter iron";

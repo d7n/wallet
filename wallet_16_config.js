@@ -1,1 +1,1 @@
-var mnemonic = "crunch garden fluid toast ice alcohol census poverty left conduct frozen pool";
+var mnemonic = "patch veteran unable final cupboard adapt bid peanut slogan arm hammer cry";

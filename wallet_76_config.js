@@ -1,1 +1,1 @@
-var mnemonic = "puzzle must weather chief mistake achieve maze slush attract consider cute divide";
+var mnemonic = "glass soon symptom voice kiss valley silly level will gasp elegant asthma";

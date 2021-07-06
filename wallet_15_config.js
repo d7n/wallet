@@ -1,1 +1,1 @@
-var mnemonic = "glass sleep picture fiction catalog measure yard response tape verb visa rebuild";
+var mnemonic = "treat day disagree electric about sail cloth inquiry tuna ankle program problem";

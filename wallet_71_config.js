@@ -1,1 +1,1 @@
-var mnemonic = "hour guide bridge grab attack sick still stuff venture hawk return round";
+var mnemonic = "hospital wheel remain walk monitor estate face laptop front hotel live broom";

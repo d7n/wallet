@@ -1,1 +1,1 @@
-var mnemonic = "toward child master tower pact cart tortoise make toss sell viable room";
+var mnemonic = "test upon pulp chuckle vacuum humble hidden initial urban brand atom post";

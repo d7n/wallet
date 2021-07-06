@@ -1,1 +1,1 @@
-var mnemonic = "leaf acquire lady smoke target lawn face swift produce end toy fossil";
+var mnemonic = "rapid fade trial bullet business inject man coffee demise rule steel problem";

@@ -1,1 +1,1 @@
-var mnemonic = "captain soldier toss drip chunk senior verify century describe effort device dignity";
+var mnemonic = "female blind funny mango crater rail time safe ostrich attract vacant pride";

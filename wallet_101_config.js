@@ -1,1 +1,1 @@
-var mnemonic = "bag raise soul dove vault brisk museum toilet census trial tobacco degree";
+var mnemonic = "village manual lock napkin elite multiply soccer assume basic ankle inquiry siren";

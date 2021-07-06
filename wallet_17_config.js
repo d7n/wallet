@@ -1,1 +1,1 @@
-var mnemonic = "tourist tide kiss essay slim muffin alone detail buyer pill gravity grocery";
+var mnemonic = "depth elegant mansion put start fatal okay embrace flush enemy wedding lounge";

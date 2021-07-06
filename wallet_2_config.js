@@ -1,1 +1,1 @@
-var mnemonic = "blame doll field plate because huge faint outside slogan hidden stumble jelly";
+var mnemonic = "wrist horror cake symptom grape boss bright space gesture silent grab sugar";

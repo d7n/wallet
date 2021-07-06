@@ -1,1 +1,1 @@
-var mnemonic = "word boat tissue reopen asthma above latin exotic grass pitch picture army";
+var mnemonic = "eager tornado dragon gain dignity erosion spike prize today cheap million situate";

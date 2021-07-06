@@ -1,1 +1,1 @@
-var mnemonic = "error crazy badge mango hazard visit beach stem company garbage east result";
+var mnemonic = "mind winner theme away loop approve wedding shine urban predict tag hospital";

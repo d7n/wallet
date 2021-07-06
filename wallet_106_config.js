@@ -1,1 +1,1 @@
-var mnemonic = "path crystal rookie ostrich noodle warrior field deposit over thunder truth tissue";
+var mnemonic = "veteran stool burden exercise typical isolate shaft timber alpha horn such finish";

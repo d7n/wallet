@@ -1,1 +1,1 @@
-var mnemonic = "tiger address twist scrap detail gasp cool sauce solve pig web hazard";
+var mnemonic = "thunder ticket warfare interest enlist album exile shrimp hen legend aisle diary";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise aerobic elbow effort island adult benefit law quarter abstract visit forest";
+var mnemonic = "exile daring orchard increase wage treat pelican cube wedding symptom sibling order";

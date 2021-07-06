@@ -1,1 +1,1 @@
-var mnemonic = "smart gesture mad budget skate clown skirt pave record year any rib";
+var mnemonic = "term valid blouse decorate cycle clap tomorrow vapor silent genius super mirror";

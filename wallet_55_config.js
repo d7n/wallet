@@ -1,1 +1,1 @@
-var mnemonic = "stay phrase vicious reason woman alcohol exhaust vicious hamster solid diesel crumble";
+var mnemonic = "law luxury tiger debris junior title ill midnight true imitate zero pioneer";

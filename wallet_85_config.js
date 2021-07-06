@@ -1,1 +1,1 @@
-var mnemonic = "hip enter million nut keep output squeeze trumpet must giant flush lion";
+var mnemonic = "team dinosaur multiply spider remember curve truck ozone afraid inherit various circle";

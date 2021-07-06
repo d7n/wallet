@@ -1,1 +1,1 @@
-var mnemonic = "noise seminar donate usage elbow drift foot toilet twist orient ignore cradle";
+var mnemonic = "swing pretty mirror cricket manage comfort glory eager drastic foil gadget domain";

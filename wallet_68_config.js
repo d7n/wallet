@@ -1,1 +1,1 @@
-var mnemonic = "deer rapid public thrive mixture record enable gauge middle buddy into sock";
+var mnemonic = "aspect punch hazard cover wing hurdle replace rug hawk dragon spawn apology";

@@ -1,1 +1,1 @@
-var mnemonic = "raven voyage joy image field stomach journey march submit assault tail rifle";
+var mnemonic = "few wet remind rally mad cable mosquito source offer more gravity help";

@@ -1,1 +1,1 @@
-var mnemonic = "census degree tomato spider scatter practice bamboo rose face liberty rifle giraffe";
+var mnemonic = "that video search track shove rebuild frown fringe huge love luggage best";

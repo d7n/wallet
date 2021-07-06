@@ -1,1 +1,1 @@
-var mnemonic = "visa pony property process frog cotton much fever bird glimpse tenant asset";
+var mnemonic = "trip zone sweet sadness deposit brief balcony cross dilemma omit recycle lecture";

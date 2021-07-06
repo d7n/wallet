@@ -1,1 +1,1 @@
-var mnemonic = "usual mutual arrest wall shop popular leopard puppy floor lumber finger pulse";
+var mnemonic = "venue virtual sudden desert rude divide electric trade slide ivory measure alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "okay grace home material wood romance receive blossom author enlist gasp question";
+var mnemonic = "dignity below exit slide canal first hospital furnace discover exile sad one";

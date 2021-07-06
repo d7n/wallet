@@ -1,1 +1,1 @@
-var mnemonic = "yellow staff bean daughter olive frequent broken domain decide car lucky liberty";
+var mnemonic = "pave gloom matter lawsuit enlist robot urban shift arrive remember input faculty";

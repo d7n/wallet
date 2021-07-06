@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cart equip opinion siege country bright miracle ring assist credit present";
+var mnemonic = "lucky ocean salad oven paddle lunar luggage fiction visual north manual weasel";

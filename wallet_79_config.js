@@ -1,1 +1,1 @@
-var mnemonic = "run alert express vacant weapon foster visual note park time since buyer";
+var mnemonic = "beach know debate siren mail great weather exact just elegant tone anchor";

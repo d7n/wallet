@@ -1,1 +1,1 @@
-var mnemonic = "minimum party extra comfort split reason hockey middle exhibit strong liquid fragile";
+var mnemonic = "nephew harvest glory myself cigar letter tragic margin hover rule try civil";

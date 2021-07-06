@@ -1,1 +1,1 @@
-var mnemonic = "consider negative cube boss raise limb burst blouse involve that tissue shove";
+var mnemonic = "odor basic defense goat valve spice exotic garbage master skill december group";

@@ -1,1 +1,1 @@
-var mnemonic = "praise tool month travel video unusual agent once since village inherit cousin";
+var mnemonic = "endless museum friend roast van quick syrup dentist subject ordinary north wrong";

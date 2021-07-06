@@ -1,1 +1,1 @@
-var mnemonic = "old bind airport social hamster add vacuum glory what magic distance bitter";
+var mnemonic = "illegal hold spider friend army twelve misery satisfy scissors cereal huge april";

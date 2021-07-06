@@ -1,1 +1,1 @@
-var mnemonic = "toe company tattoo board number diesel blossom yellow arrest cry develop nothing";
+var mnemonic = "energy boss liquid special machine spice fault zone verb seven cotton jewel";

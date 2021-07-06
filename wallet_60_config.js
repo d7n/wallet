@@ -1,1 +1,1 @@
-var mnemonic = "morning candy average upper gun kit aisle close roof glue cancel wreck";
+var mnemonic = "deny hello latin resist pigeon loyal aspect key pole potato scissors minor";

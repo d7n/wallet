@@ -1,1 +1,1 @@
-var mnemonic = "bright vessel day shed speak indicate box marble rebel carbon blur shine";
+var mnemonic = "twin calm punch journey win offer rate play recipe lobster sphere dinosaur";

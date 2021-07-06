@@ -1,1 +1,1 @@
-var mnemonic = "slender enough wrist clay humor east labor frown act rhythm photo noise";
+var mnemonic = "assist design call matrix gorilla energy dream moral dinner exchange bag wall";

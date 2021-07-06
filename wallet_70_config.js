@@ -1,1 +1,1 @@
-var mnemonic = "purchase ask few company come tragic pupil impose quick angry this truly";
+var mnemonic = "appear damp walnut wire patrol sketch loop slender law cute banana gown";

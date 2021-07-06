@@ -1,1 +1,1 @@
-var mnemonic = "supreme friend genius shop glance night you warrior aunt strategy task circle";
+var mnemonic = "duty amazing click genius sail parade hotel reveal fancy firm wink dismiss";

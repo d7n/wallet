@@ -1,1 +1,1 @@
-var mnemonic = "never make vicious spice talent guitar boil labor marble fantasy valley thumb";
+var mnemonic = "auto slim gorilla when hungry hint negative busy taste mom subject erupt";

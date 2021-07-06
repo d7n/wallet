@@ -1,1 +1,1 @@
-var mnemonic = "common horse drastic fiction pyramid midnight joy ostrich library shoot angry above";
+var mnemonic = "bulb evolve artefact found curtain card room private act knock estate become";

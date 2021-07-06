@@ -1,1 +1,1 @@
-var mnemonic = "outside wine scissors virus popular stomach material above festival obey supply city";
+var mnemonic = "clock hedgehog witness crumble pattern broccoli victory uncover floor legal cube slot";

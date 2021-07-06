@@ -1,1 +1,1 @@
-var mnemonic = "renew draft loud awake afford fossil mule agent grain oppose flag inner";
+var mnemonic = "color crater wool worry physical doll detail alert setup cargo order city";

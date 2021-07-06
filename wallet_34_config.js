@@ -1,1 +1,1 @@
-var mnemonic = "reduce destroy page knee mistake fine fork ball idle august leisure enjoy";
+var mnemonic = "render blush dirt space maximum traffic dawn abandon panel bunker lava tortoise";

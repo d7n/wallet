@@ -1,1 +1,1 @@
-var mnemonic = "three labor calm close ocean floor winter little capable festival aim ancient";
+var mnemonic = "impose buyer truly volume cannon cloth other cable rail call slam ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "oil material dinosaur undo dune weasel sorry when card obscure talk ramp";
+var mnemonic = "poem grief crisp cousin silent tourist broccoli cabbage plate pride wire mandate";

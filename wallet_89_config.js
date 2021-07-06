@@ -1,1 +1,1 @@
-var mnemonic = "camp secret tattoo junk gesture blouse pride clown garage limit wisdom mail";
+var mnemonic = "jaguar west mean network develop slight token fragile tuna truly ability exchange";

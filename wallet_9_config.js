@@ -1,1 +1,1 @@
-var mnemonic = "random trend random tooth album license snack sort broom fashion faint fiction";
+var mnemonic = "shell duty play entry teach flight shoe gate side someone dinosaur theory";

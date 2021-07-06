@@ -1,1 +1,1 @@
-var mnemonic = "list tissue gown panther scout gold absurd motor source reward enroll vicious";
+var mnemonic = "message hockey void omit slogan visit excite advance science elder rent diagram";

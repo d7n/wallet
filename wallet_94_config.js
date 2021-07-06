@@ -1,1 +1,1 @@
-var mnemonic = "ship service deposit divide valve flower stand grab harsh box accuse broccoli";
+var mnemonic = "limb slim trend accident radar abuse clever feed sibling february sun episode";

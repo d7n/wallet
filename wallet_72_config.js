@@ -1,1 +1,1 @@
-var mnemonic = "option tail snow dwarf defense eternal toe wedding spawn health loop fat";
+var mnemonic = "aerobic task arrange gallery retreat surround when already heavy ranch arm remove";

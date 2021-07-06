@@ -1,1 +1,1 @@
-var mnemonic = "surround dentist taxi estate pen couple south romance squirrel above filter slight";
+var mnemonic = "balance cabbage fiber focus universe remove ocean life convince soldier ride bitter";

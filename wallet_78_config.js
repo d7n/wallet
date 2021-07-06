@@ -1,1 +1,1 @@
-var mnemonic = "sauce charge time impose knife skull need human fruit filter timber cloth";
+var mnemonic = "arrest rescue focus foil adjust choice youth destroy gospel pistol lemon meadow";

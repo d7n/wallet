@@ -1,1 +1,1 @@
-var mnemonic = "direct cable diary riot chef broom stool leopard piece common spot devote";
+var mnemonic = "base output buffalo pyramid neither endless offer inmate solve open engage visa";

@@ -1,1 +1,1 @@
-var mnemonic = "hip lecture depart disease sample style afraid laugh ready peace state silly";
+var mnemonic = "prize wife acoustic lonely slim swarm harbor burger season empower okay quit";

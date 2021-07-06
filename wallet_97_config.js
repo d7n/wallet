@@ -1,1 +1,1 @@
-var mnemonic = "best mosquito turtle join razor away expose duty horror pigeon canoe illness";
+var mnemonic = "ticket service palace dog amateur version average child skate piano surface better";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse income dream nuclear voice junior illness save armor company trust race";
+var mnemonic = "science garlic detect dawn shoot warrior regret guess patch early keen fame";

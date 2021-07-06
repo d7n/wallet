@@ -1,1 +1,1 @@
-var mnemonic = "shallow cup element review symptom oyster output change forget install dry poverty";
+var mnemonic = "carpet monkey token skate curtain catalog asthma picnic ridge soccer entry fruit";

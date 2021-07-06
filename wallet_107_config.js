@@ -1,1 +1,1 @@
-var mnemonic = "predict spring unknown mountain gravity concert lake glory surround bounce script hire";
+var mnemonic = "shy fever favorite smoke possible spring network because grocery silk error toast";

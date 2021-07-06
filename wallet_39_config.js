@@ -1,1 +1,1 @@
-var mnemonic = "try cattle vanish pretty improve off observe hat kangaroo transfer casual foil";
+var mnemonic = "law legend volume glare toe obvious cricket arctic amount venture invite chair";

@@ -1,1 +1,1 @@
-var mnemonic = "doll beauty fitness man romance print supreme doll course today omit cricket";
+var mnemonic = "month sweet guide paddle soon gospel term zero end inherit endorse kiss";

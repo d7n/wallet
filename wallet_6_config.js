@@ -1,1 +1,1 @@
-var mnemonic = "initial basic during half detect author matrix vague capable price canvas deposit";
+var mnemonic = "purse turn provide walnut segment artist average friend rocket cabin system minimum";

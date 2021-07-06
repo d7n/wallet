@@ -1,1 +1,1 @@
-var mnemonic = "sport garbage cup comfort moon burst bike salute cactus traffic mosquito spirit";
+var mnemonic = "execute voyage naive illegal resemble pattern walk rose chest raccoon equal airport";

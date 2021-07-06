@@ -1,1 +1,1 @@
-var mnemonic = "art cousin season excess civil hedgehog grocery melody wrap credit local attack";
+var mnemonic = "camera large aunt bulb anxiety pair way dragon sport income ill color";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon canal project wonder transfer capital such vanish scrub carry combine envelope";
+var mnemonic = "frog bonus used excess surprise cheese code suffer wine advice razor place";

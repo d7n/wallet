@@ -1,1 +1,1 @@
-var mnemonic = "diagram unique public kite capable salad spatial major upon burst seek hazard";
+var mnemonic = "prevent brick frame trash unit office cabin charge panther diary arrow friend";

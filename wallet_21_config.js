@@ -1,1 +1,1 @@
-var mnemonic = "dial social acid jar frog mansion culture sheriff fever stairs correct inform";
+var mnemonic = "second broom chef cricket laugh type admit tackle approve letter alien brave";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner laptop range enemy symbol demise utility annual monkey apology circle wealth";
+var mnemonic = "inherit street vicious drink film such weasel yellow staff pioneer outdoor tone";

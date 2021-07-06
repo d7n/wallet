@@ -1,1 +1,1 @@
-var mnemonic = "answer glass weird sugar recipe excite rough punch vast imitate army below";
+var mnemonic = "alone filter scrap twelve tunnel grace evidence cargo fury dress monitor planet";

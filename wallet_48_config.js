@@ -1,1 +1,1 @@
-var mnemonic = "toward force kind law fashion chronic absorb flock ignore burger muscle fiction";
+var mnemonic = "prison meat dutch smile ghost rubber area salmon pepper urban gaze negative";

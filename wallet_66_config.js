@@ -1,1 +1,1 @@
-var mnemonic = "pipe when antique club priority sadness twenty inject skill move divide ignore";
+var mnemonic = "october dry banana gather state cigar honey bench flush muscle envelope just";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch usual helmet walk economy coral inform coffee hidden capable chair jungle";
+var mnemonic = "vote glare coconut same coconut mail depart usage twist jelly hello certain";

@@ -1,1 +1,1 @@
-var mnemonic = "young settle indicate change helmet sand book example own rabbit noise walk";
+var mnemonic = "fringe farm hard plastic benefit miss head dawn speak profit language trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "skin hire gospel skull fitness poverty eternal rate elbow cry ugly agent";
+var mnemonic = "current retire truth glow kitchen buyer drastic business brother run coconut recipe";

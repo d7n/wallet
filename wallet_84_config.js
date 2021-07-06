@@ -1,1 +1,1 @@
-var mnemonic = "claim caution popular puzzle situate destroy whisper light velvet suit quantum charge";
+var mnemonic = "useless save catalog actress aim host offer cool wage ride bulk crystal";

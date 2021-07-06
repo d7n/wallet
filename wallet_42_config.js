@@ -1,1 +1,1 @@
-var mnemonic = "month alter current oven skin elite monster evil spell sniff assist demand";
+var mnemonic = "car custom course spread ski ethics rebel usage social lesson security fancy";

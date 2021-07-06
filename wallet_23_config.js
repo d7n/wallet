@@ -1,1 +1,1 @@
-var mnemonic = "together mushroom differ tiger diagram slide ball spray brass review mountain endless";
+var mnemonic = "belt husband year celery decade never phrase pause anchor now museum visual";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff wonder song vast pyramid kiwi purse taxi midnight spoil drama stove";
+var mnemonic = "approve simple hint room cheap flavor obvious bamboo post defense december rather";
