@@ -1,1 +1,1 @@
-var mnemonic = "dune ensure join song jewel lumber sure firm solve need scorpion purpose";
+var mnemonic = "blouse property vivid small purchase spy wheat humor job trap confirm ivory";

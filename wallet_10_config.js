@@ -1,1 +1,1 @@
-var mnemonic = "web glimpse virtual school rather deputy promote electric sugar close drink feed";
+var mnemonic = "submit chalk cup provide horror gather immense cool tide mad piece movie";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial learn brass fury change abandon barely rug hold merit produce inside";
+var mnemonic = "fuel affair coyote until sibling shrimp rib envelope tail uphold stamp wheel";

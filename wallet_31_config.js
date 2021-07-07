@@ -1,1 +1,1 @@
-var mnemonic = "mango frog cross increase real few message hybrid exist hello attend glide";
+var mnemonic = "scare coffee alien hurt curtain across bring nothing degree snow oyster slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble salute unfold claim advice rhythm oblige vocal fine believe sorry vessel";
+var mnemonic = "spy entry puppy puzzle glow salad bubble empty tattoo orbit glare tennis";

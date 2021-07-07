@@ -1,1 +1,1 @@
-var mnemonic = "budget agent snack crucial tide umbrella cliff admit carry inch strategy dry";
+var mnemonic = "truck relax wreck nice ladder topple ivory claw solution bread abstract wife";

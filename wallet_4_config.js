@@ -1,1 +1,1 @@
-var mnemonic = "ride forget grow liquid walk grief camp rate taxi banner soup crawl";
+var mnemonic = "bamboo mouse reopen ritual invite media inject relax firm frame virtual warfare";

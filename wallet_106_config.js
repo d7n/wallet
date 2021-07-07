@@ -1,1 +1,1 @@
-var mnemonic = "treat food language refuse force rival quantum forest forward genius define bunker";
+var mnemonic = "device sting trouble column bundle honey eye stable glory pen aspect have";

@@ -1,1 +1,1 @@
-var mnemonic = "response south fresh account health away twelve simple settle push tell always";
+var mnemonic = "sure unable treat suffer churn car movie photo winner viable awake flame";

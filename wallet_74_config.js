@@ -1,1 +1,1 @@
-var mnemonic = "pipe jeans steel salt detail flower cotton enact dilemma few step tank";
+var mnemonic = "crater unique gold raven visit leisure catalog material swamp icon swim cruel";

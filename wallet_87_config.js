@@ -1,1 +1,1 @@
-var mnemonic = "inquiry slam lunar ice offer adult brief choice manage wealth boost actress";
+var mnemonic = "bag opinion lava original tiger depend host one whisper poet segment melody";

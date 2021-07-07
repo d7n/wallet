@@ -1,1 +1,1 @@
-var mnemonic = "average grief sun grab grow smooth sausage fade chef isolate dose citizen";
+var mnemonic = "bench wet receive sport combine enter harbor settle next forward rocket once";

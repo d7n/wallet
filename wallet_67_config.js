@@ -1,1 +1,1 @@
-var mnemonic = "firm lumber during combine misery turtle able tongue rubber celery book main";
+var mnemonic = "violin legal blind later govern focus link crane claw camp border mobile";

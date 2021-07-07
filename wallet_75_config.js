@@ -1,1 +1,1 @@
-var mnemonic = "chair pulp either before uphold season zero glare educate evoke slot announce";
+var mnemonic = "olive tiny prepare swim helmet motor fiscal shield episode decorate double connect";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken strong bulk muscle desert burger domain buzz flag spy dutch enable";
+var mnemonic = "flavor quality taste fame butter slush almost tuna aspect accuse senior cover";

@@ -1,1 +1,1 @@
-var mnemonic = "sing can enlist soon they various title add subject siren present pull";
+var mnemonic = "exotic near very prize face seat spray bar claim lucky journey fault";

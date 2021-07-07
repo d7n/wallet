@@ -1,1 +1,1 @@
-var mnemonic = "steel coin traffic marble panic negative govern lounge siren outdoor liquid solve";
+var mnemonic = "danger tiny seat post spin author chief cable rather catalog minute vessel";

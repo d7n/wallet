@@ -1,1 +1,1 @@
-var mnemonic = "plug curious mystery minute borrow drama install artwork allow walnut twist dune";
+var mnemonic = "end scare shell top region connect blur naive topple acoustic ripple student";

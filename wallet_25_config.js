@@ -1,1 +1,1 @@
-var mnemonic = "vibrant someone indicate two galaxy grant output large output virus chicken bulk";
+var mnemonic = "snack tobacco salt bleak ketchup insane improve amateur boat march fiscal salute";

@@ -1,1 +1,1 @@
-var mnemonic = "apple fire extend unveil enroll remain friend hidden illegal cluster upset shiver";
+var mnemonic = "latin exact lady child away mushroom fly slice vehicle flush view retire";

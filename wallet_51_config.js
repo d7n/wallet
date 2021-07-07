@@ -1,1 +1,1 @@
-var mnemonic = "online cereal tide room purse please daughter junior tool front enroll quit";
+var mnemonic = "sausage twist gossip gas subway banana call call balance spoon grain once";

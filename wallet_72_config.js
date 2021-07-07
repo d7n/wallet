@@ -1,1 +1,1 @@
-var mnemonic = "snake upset congress reopen music question company marble capital consider ship pet";
+var mnemonic = "angle final giggle rain leader couch note hire exercise door miracle join";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal skin stomach huge suit energy mixture shallow target loop salute there";
+var mnemonic = "arch elephant uniform canoe enter credit pilot battle muffin oppose raise maximum";

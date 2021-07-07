@@ -1,1 +1,1 @@
-var mnemonic = "ugly fitness spy famous install upon gown like inhale kite praise nasty";
+var mnemonic = "swamp cake spawn warrior camp wolf empty shield comic once enrich rather";

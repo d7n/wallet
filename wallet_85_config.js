@@ -1,1 +1,1 @@
-var mnemonic = "rapid avoid mass forum wheat acid craft you bounce repeat update blush";
+var mnemonic = "soccer sign strike pulse stuff obvious major defense approve mix initial cannon";

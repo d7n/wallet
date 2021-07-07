@@ -1,1 +1,1 @@
-var mnemonic = "cloth property arrest fade fat paddle news favorite unhappy ask category car";
+var mnemonic = "royal injury foster rally grape duty onion rely home glove crime know";

@@ -1,1 +1,1 @@
-var mnemonic = "east panda maximum town drip loyal loud bleak black vintage relax relief";
+var mnemonic = "error iron tribe pioneer hundred large lawn lady pulse fish project myth";

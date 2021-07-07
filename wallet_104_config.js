@@ -1,1 +1,1 @@
-var mnemonic = "fever arch dial manage position gossip fitness lend bronze true rough axis";
+var mnemonic = "stuff month chest wedding machine month bitter address innocent catch sure news";

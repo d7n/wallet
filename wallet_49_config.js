@@ -1,1 +1,1 @@
-var mnemonic = "stomach jeans category bike ecology attend stable evidence clap review social search";
+var mnemonic = "audit nothing symbol calm pyramid cotton oil observe vicious vehicle immune dwarf";

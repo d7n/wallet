@@ -1,1 +1,1 @@
-var mnemonic = "feed hair panda trophy mirror gate fuel nuclear slab eagle spice extra";
+var mnemonic = "social goddess youth defense water chair brisk denial tobacco coast until copper";

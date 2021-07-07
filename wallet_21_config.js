@@ -1,1 +1,1 @@
-var mnemonic = "roof hard neglect photo analyst chase rhythm sniff legal torch little across";
+var mnemonic = "height mother develop horse empty practice artefact vocal glow decorate paper olive";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt shoot pitch tribe dragon answer crack crouch ensure stage cargo pear";
+var mnemonic = "wreck family hawk sure imitate author high novel glare sustain antique upon";

@@ -1,1 +1,1 @@
-var mnemonic = "street enact meat trap crowd tongue food inmate large bicycle swamp enemy";
+var mnemonic = "mind wheel cabbage tattoo milk patient segment trouble journey actor situate banner";

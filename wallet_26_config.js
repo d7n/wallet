@@ -1,1 +1,1 @@
-var mnemonic = "sweet true secret outside orchard pipe crouch blur cherry exit just owner";
+var mnemonic = "coil toe sell focus vital panda prize leg delay find carpet zone";

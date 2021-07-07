@@ -1,1 +1,1 @@
-var mnemonic = "popular train clog sustain slot giant club summer brush adult truck sauce";
+var mnemonic = "embrace bike argue tonight rent anger gown famous oven wheel scale endorse";

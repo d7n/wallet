@@ -1,1 +1,1 @@
-var mnemonic = "miss refuse engage forward debris giant reflect girl cigar dance discover peace";
+var mnemonic = "dress inmate strike wolf toilet pair logic patient scare life hunt fabric";

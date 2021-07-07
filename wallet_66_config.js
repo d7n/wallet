@@ -1,1 +1,1 @@
-var mnemonic = "dirt latin trouble later brain stereo load pact lock area scene game";
+var mnemonic = "race top vital domain stadium pride legal excess reveal space wine enough";

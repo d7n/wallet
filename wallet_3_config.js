@@ -1,1 +1,1 @@
-var mnemonic = "egg envelope neither fog exile hub minimum sad quality forest orange rent";
+var mnemonic = "chase human better stuff violin observe disagree brick betray kingdom upgrade fantasy";

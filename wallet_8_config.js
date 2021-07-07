@@ -1,1 +1,1 @@
-var mnemonic = "upper wide bless garbage tourist vendor pair female pet skin enter excess";
+var mnemonic = "common draft face law blossom future meat kitten olympic heavy vendor enemy";

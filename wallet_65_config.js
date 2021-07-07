@@ -1,1 +1,1 @@
-var mnemonic = "lazy stand ranch shaft grocery elevator puppy excuse lift orphan rhythm turkey";
+var mnemonic = "add two ignore hunt produce expand shock play glare twice address excess";

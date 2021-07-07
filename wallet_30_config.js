@@ -1,1 +1,1 @@
-var mnemonic = "jungle impulse ahead enemy pyramid fatigue renew latin sand daring such economy";
+var mnemonic = "federal today kangaroo term torch early wear youth banana apple near person";

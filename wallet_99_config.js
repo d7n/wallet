@@ -1,1 +1,1 @@
-var mnemonic = "canvas upon panther bounce cancel agent rebel account upgrade off level employ";
+var mnemonic = "market veteran budget blanket flush flat detect camp crystal way hundred pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer upper course easy orbit blanket desert rug economy neck minor leisure";
+var mnemonic = "squirrel retire asset song gallery embark famous erupt evolve unfair combine genius";

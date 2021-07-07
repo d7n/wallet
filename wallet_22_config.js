@@ -1,1 +1,1 @@
-var mnemonic = "attend album clarify pave easy elephant vintage culture average lend quantum miracle";
+var mnemonic = "fancy kangaroo cousin cram bulb sing cattle remove follow text oven foil";

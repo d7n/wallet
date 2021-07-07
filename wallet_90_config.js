@@ -1,1 +1,1 @@
-var mnemonic = "work model banner census verify enable ahead present capital harvest focus copper";
+var mnemonic = "expect into embody ginger chronic hat idle resist sight canyon knife garbage";

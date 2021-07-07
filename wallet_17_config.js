@@ -1,1 +1,1 @@
-var mnemonic = "math shrimp rookie nut display cloth face story lyrics bulb bean similar";
+var mnemonic = "clerk elevator weekend fog pink toilet burger dwarf frame this resource business";

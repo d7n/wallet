@@ -1,1 +1,1 @@
-var mnemonic = "dawn initial document boss turkey nest inner wagon degree fiction can guide";
+var mnemonic = "pigeon crumble hotel street adapt garlic impact coyote hair erupt heavy coral";

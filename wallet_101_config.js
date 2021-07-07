@@ -1,1 +1,1 @@
-var mnemonic = "drip cannon else keep arrive carbon feel resist kite juice web crash";
+var mnemonic = "off monkey scorpion crime rib canvas horse sea drink mention cupboard pilot";

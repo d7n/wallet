@@ -1,1 +1,1 @@
-var mnemonic = "shy joke negative coil give panic pigeon admit vacuum mouse foil syrup";
+var mnemonic = "husband rain hat bundle fee lizard birth perfect carbon rich depend token";

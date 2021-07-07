@@ -1,1 +1,1 @@
-var mnemonic = "strong jaguar describe purchase oblige cover print install torch chimney drip tunnel";
+var mnemonic = "property merry power grape rotate dynamic high wrong door embody marble vacuum";

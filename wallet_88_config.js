@@ -1,1 +1,1 @@
-var mnemonic = "excite source fuel across gallery kidney spare witness oven skin shed punch";
+var mnemonic = "buddy this erosion carbon buyer six sound decade inflict ski lake kind";

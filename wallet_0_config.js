@@ -1,1 +1,1 @@
-var mnemonic = "exercise cloud bullet rule picnic future moon clarify tell brown fold odor";
+var mnemonic = "oblige asset tell mention blossom angle snap media soccer then rookie dial";

@@ -1,1 +1,1 @@
-var mnemonic = "alter region crouch lottery lift random sadness lobster faith high sorry eternal";
+var mnemonic = "coral across loud over minor fatal breeze blouse peace clap reduce define";

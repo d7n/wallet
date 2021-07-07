@@ -1,1 +1,1 @@
-var mnemonic = "glory now hope era comfort dash book find bridge bacon sustain smooth";
+var mnemonic = "toilet elite prize tide build quote pyramid pen proud civil middle network";

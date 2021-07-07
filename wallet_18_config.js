@@ -1,1 +1,1 @@
-var mnemonic = "autumn dentist traffic beyond merry drama assist ready prosper dumb expose coil";
+var mnemonic = "capital wine attack forget maid eager impact fever dial holiday village tilt";

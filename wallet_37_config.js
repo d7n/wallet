@@ -1,1 +1,1 @@
-var mnemonic = "tide reflect oak discover atom shaft among smart fancy about upon muffin";
+var mnemonic = "shock tag snap wash woman crater stamp cross science toss shoot recall";

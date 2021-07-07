@@ -1,1 +1,1 @@
-var mnemonic = "raw stool word stone calm inquiry bless venture current violin market void";
+var mnemonic = "neutral sentence coil boil proof moral width chief traffic borrow profit shuffle";

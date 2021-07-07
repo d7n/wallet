@@ -1,1 +1,1 @@
-var mnemonic = "foot enemy slam hover faculty negative evil ocean mixed absent morning upper";
+var mnemonic = "permit cabbage unfair conduct limit cash found dilemma double humor soon bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "fine culture entry baby story stage charge more true category spoil forest";
+var mnemonic = "solution dash vendor swap trick naive social educate assume used speak tattoo";

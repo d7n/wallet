@@ -1,1 +1,1 @@
-var mnemonic = "modify theme walnut unusual defy bonus sister syrup text scorpion noodle large";
+var mnemonic = "proud win approve share close shoe gold battle celery hero suspect this";

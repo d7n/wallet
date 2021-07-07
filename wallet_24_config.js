@@ -1,1 +1,1 @@
-var mnemonic = "age sting seek pair snake chunk plastic logic youth biology sweet matter";
+var mnemonic = "grit replace twelve mandate dish nature yard family slice bless kick control";

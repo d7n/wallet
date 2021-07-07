@@ -1,1 +1,1 @@
-var mnemonic = "lyrics unique yard traffic matter flight behind inside hope art creek where";
+var mnemonic = "lab genre weasel trash danger stone shock spider dilemma taste seminar volume";

@@ -1,1 +1,1 @@
-var mnemonic = "sick predict right execute cabin salmon visit toy firm afford gun injury";
+var mnemonic = "chapter reduce include tired insect gentle more slender veteran crawl nation debris";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver allow ankle yellow glide speak brisk angry october escape weekend virtual";
+var mnemonic = "waste lizard resist enable rather property mobile minute scissors anchor burger reopen";

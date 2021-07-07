@@ -1,1 +1,1 @@
-var mnemonic = "biology become remind struggle soccer student alpha reason tube drastic balance foot";
+var mnemonic = "better render verify mouse cover suffer tank misery burden salad coyote luxury";

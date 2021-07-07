@@ -1,1 +1,1 @@
-var mnemonic = "spin ketchup reopen scout puppy crazy duty fold angry chapter photo when";
+var mnemonic = "ice quit pave update matter clump key resist marriage cinnamon festival armed";

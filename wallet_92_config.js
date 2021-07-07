@@ -1,1 +1,1 @@
-var mnemonic = "develop cycle fashion link enemy trick acoustic suspect finish decline private toss";
+var mnemonic = "okay world license aim photo alcohol explain knife denial require jealous region";

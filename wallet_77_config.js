@@ -1,1 +1,1 @@
-var mnemonic = "yard idle vibrant false under forest decrease over animal weekend deputy twelve";
+var mnemonic = "valve tumble collect orphan vendor crouch poet adapt attack snack glass describe";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner paddle impact what spell canal scan poem cement slender honey diary";
+var mnemonic = "attract palace soldier boost action youth spy rough avocado alarm enjoy vibrant";

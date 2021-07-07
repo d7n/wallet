@@ -1,1 +1,1 @@
-var mnemonic = "spider marble life drama chat pole nice wreck habit popular math street";
+var mnemonic = "fancy security half basket celery indicate boat insane vital absent melt social";

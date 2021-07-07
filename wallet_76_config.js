@@ -1,1 +1,1 @@
-var mnemonic = "hat smart fiscal check front velvet orphan bridge omit beach glove school";
+var mnemonic = "april guess chair bamboo hollow donkey eye source throw bridge over uncle";

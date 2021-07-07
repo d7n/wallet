@@ -1,1 +1,1 @@
-var mnemonic = "cream strike jewel wrap long web admit palace pave unlock scrap same";
+var mnemonic = "palm glad protect armor refuse boat river dirt student harvest zero distance";

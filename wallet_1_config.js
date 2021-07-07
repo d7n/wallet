@@ -1,1 +1,1 @@
-var mnemonic = "forget hood index trim potato resource lake mouse place wrist accuse pottery";
+var mnemonic = "hill multiply panel mirror cloud crater summer maze charge million two tone";

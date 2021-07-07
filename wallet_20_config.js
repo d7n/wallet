@@ -1,1 +1,1 @@
-var mnemonic = "wait puzzle stereo corn dust actual excite way cloud hill shoe wing";
+var mnemonic = "base easily smooth fluid poet open minute sick island lonely dad tonight";

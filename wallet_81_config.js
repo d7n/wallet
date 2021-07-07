@@ -1,1 +1,1 @@
-var mnemonic = "resist begin outside leisure alley cloud neck release wash step voyage defy";
+var mnemonic = "one pig life enjoy destroy frozen staff target embody tower ginger miss";

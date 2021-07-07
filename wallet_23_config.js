@@ -1,1 +1,1 @@
-var mnemonic = "pink strategy become photo forward balance expire dumb diagram zero hybrid cart";
+var mnemonic = "island duck welcome oxygen tilt toy palace deposit voyage fade stairs route";

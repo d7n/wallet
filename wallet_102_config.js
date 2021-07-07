@@ -1,1 +1,1 @@
-var mnemonic = "that patch crane frozen surprise near shock rally loud soon anger when";
+var mnemonic = "spare wing absorb thank route chuckle renew vocal object glow casino daring";

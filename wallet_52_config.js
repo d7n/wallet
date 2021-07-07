@@ -1,1 +1,1 @@
-var mnemonic = "flee illness category heavy aware venue amount anger coyote dog scrub until";
+var mnemonic = "relief steak want gauge spray oxygen bundle best urban connect pet exhibit";

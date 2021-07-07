@@ -1,1 +1,1 @@
-var mnemonic = "edit fall media daughter boss proud express obvious cute change life night";
+var mnemonic = "ready wire frozen ski invite course box airport sound comic plastic cigar";

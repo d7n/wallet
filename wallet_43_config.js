@@ -1,1 +1,1 @@
-var mnemonic = "venue doctor rug dish tape stock youth glove december hockey lucky chronic";
+var mnemonic = "maximum forest provide sustain orient couple recall tourist trouble type grocery whisper";

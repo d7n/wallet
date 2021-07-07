@@ -1,1 +1,1 @@
-var mnemonic = "helmet actual forum item pole solution fashion acquire coconut glow term unaware";
+var mnemonic = "purchase weather example also access symptom uphold upper road false unknown earth";

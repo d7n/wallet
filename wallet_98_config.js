@@ -1,1 +1,1 @@
-var mnemonic = "gauge clinic ticket surround capital exotic wave orchard senior core clutch deer";
+var mnemonic = "one win group barely brush quick nasty benefit silver lobster record fit";

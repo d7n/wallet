@@ -1,1 +1,1 @@
-var mnemonic = "base spend math island village boat lizard spread cousin cruel mail hunt";
+var mnemonic = "soap pluck custom field chimney hidden excite treat depend direct put puppy";

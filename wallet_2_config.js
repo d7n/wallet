@@ -1,1 +1,1 @@
-var mnemonic = "supply since please mechanic life oil alert team blood kitchen chat this";
+var mnemonic = "elder own goat valley toilet hollow legal march bubble mad maple winner";

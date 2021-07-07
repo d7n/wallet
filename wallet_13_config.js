@@ -1,1 +1,1 @@
-var mnemonic = "follow silent oxygen blush result invest bean tree first rent love front";
+var mnemonic = "total pilot word leopard seven congress allow nice stable donkey miss proof";

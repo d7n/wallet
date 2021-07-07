@@ -1,1 +1,1 @@
-var mnemonic = "orphan apology picnic inmate antenna throw mirror father orange street media thank";
+var mnemonic = "cannon laptop clinic sick series large mass annual fluid imitate vibrant slab";
