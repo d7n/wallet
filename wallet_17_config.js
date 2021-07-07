@@ -1,1 +1,1 @@
-var mnemonic = "smart size legend daring stock neck sing evidence cushion slogan sight tumble";
+var mnemonic = "limb render duty rack road drama forest donor flower brand pyramid rate";

@@ -1,1 +1,1 @@
-var mnemonic = "region prefer cloth verb artist clock increase box fury escape chair width";
+var mnemonic = "trumpet logic coach egg tissue muscle funny inject often pipe payment net";

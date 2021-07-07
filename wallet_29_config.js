@@ -1,1 +1,1 @@
-var mnemonic = "crouch shiver tiger tunnel bulb deputy daughter duty arrange enforce sure village";
+var mnemonic = "december already guilt tilt item manage embark fashion fantasy they gaze drastic";

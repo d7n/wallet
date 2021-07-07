@@ -1,1 +1,1 @@
-var mnemonic = "actress twice rather hunt merit camp cave mammal rack office betray pig";
+var mnemonic = "gas token baby image crime maid awful lucky depth stable ticket maple";

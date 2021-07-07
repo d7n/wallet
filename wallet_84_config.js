@@ -1,1 +1,1 @@
-var mnemonic = "wheat rough gallery gas smart decorate stomach genuine today chalk sure that";
+var mnemonic = "connect defense affair repeat skin find unlock century plastic swamp uncle chuckle";

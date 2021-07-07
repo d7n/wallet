@@ -1,1 +1,1 @@
-var mnemonic = "finish deny pluck stool genius buddy vintage planet heart fire cluster kit";
+var mnemonic = "explain inhale happy danger mesh obscure garbage lawsuit wear decide receive inject";

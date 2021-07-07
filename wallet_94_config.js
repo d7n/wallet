@@ -1,1 +1,1 @@
-var mnemonic = "trophy album turkey squirrel left finish consider fox once spatial life once";
+var mnemonic = "torch dust usage during potato canoe shop magic truth index swarm spot";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle response museum small deputy sweet evoke enforce bean ramp cabbage border";
+var mnemonic = "lounge acid fiction true build romance evolve cause secret rib admit roof";

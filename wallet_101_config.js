@@ -1,1 +1,1 @@
-var mnemonic = "tree cause fortune despair control pipe obscure ability thunder build door area";
+var mnemonic = "coconut cake sight dolphin gate secret license gallery now swear wish flip";

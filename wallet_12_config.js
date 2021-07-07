@@ -1,1 +1,1 @@
-var mnemonic = "satoshi orbit shine image grief nature catalog add cram sort famous goddess";
+var mnemonic = "mosquito marble machine pioneer taxi saddle exhaust pupil rhythm artwork interest vault";

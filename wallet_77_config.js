@@ -1,1 +1,1 @@
-var mnemonic = "stable embark trade armor day menu mammal dune federal smart describe message";
+var mnemonic = "mother churn situate video horror isolate night census armor odor legal round";

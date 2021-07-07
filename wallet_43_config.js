@@ -1,1 +1,1 @@
-var mnemonic = "wish example equal fancy comfort task ritual below number sibling denial liquid";
+var mnemonic = "loud ancient horror midnight february glue indicate bind urban good tattoo hobby";

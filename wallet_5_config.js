@@ -1,1 +1,1 @@
-var mnemonic = "piano giant skirt found core step tackle loud nurse stage grape tower";
+var mnemonic = "live use fragile distance allow prevent beauty because bread olympic stock ready";

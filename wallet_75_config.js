@@ -1,1 +1,1 @@
-var mnemonic = "double release wage absorb shrimp brisk nose churn armor angry voyage ahead";
+var mnemonic = "panel region copy remind code wild force inject famous guide sweet silly";

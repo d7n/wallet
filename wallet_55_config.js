@@ -1,1 +1,1 @@
-var mnemonic = "quote staff hover gown solar shop umbrella category warrior tone gown humor";
+var mnemonic = "equip dentist double civil minor loop jacket sudden visual filter artist focus";

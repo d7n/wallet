@@ -1,1 +1,1 @@
-var mnemonic = "ramp barely border raccoon input siren vague opinion ready pattern avoid code";
+var mnemonic = "grain audit velvet useful ridge dog width bomb meat enjoy notice knock";

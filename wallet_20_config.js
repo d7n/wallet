@@ -1,1 +1,1 @@
-var mnemonic = "first goose same memory mom tuition above twelve input absorb scare engine";
+var mnemonic = "goddess absurd voyage diagram clean cook bread myth drip picnic mixture grief";

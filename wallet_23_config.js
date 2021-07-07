@@ -1,1 +1,1 @@
-var mnemonic = "prize little sunset identify peace huge knee notice scrub else stomach gap";
+var mnemonic = "slice discover guilt federal minimum neutral asset swear brown else faculty verb";

@@ -1,1 +1,1 @@
-var mnemonic = "weather beyond garden hurt walk always cross whisper walnut insect giggle joy";
+var mnemonic = "forum poverty someone record envelope ride skull throw retreat birth expect viable";

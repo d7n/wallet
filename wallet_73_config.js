@@ -1,1 +1,1 @@
-var mnemonic = "test flame menu pumpkin donate rail wool forest damp napkin plate multiply";
+var mnemonic = "fury dress vote arm item bounce office unaware control ten travel blanket";

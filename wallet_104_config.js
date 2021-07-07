@@ -1,1 +1,1 @@
-var mnemonic = "near galaxy walnut rebuild used stumble brown mandate hospital magnet accuse pyramid";
+var mnemonic = "dance hungry river reform reveal solution neglect isolate spot cause gadget merry";

@@ -1,1 +1,1 @@
-var mnemonic = "couple payment snake trash breeze fringe panic case output gaze tower collect";
+var mnemonic = "vague ankle call ketchup tuna brother chapter width roof rubber sight artefact";

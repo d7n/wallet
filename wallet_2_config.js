@@ -1,1 +1,1 @@
-var mnemonic = "foam pear sock scheme recycle state material december vessel car deer ensure";
+var mnemonic = "romance copy sentence excite common learn feature scheme please renew brass vote";

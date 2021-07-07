@@ -1,1 +1,1 @@
-var mnemonic = "excite mom govern asset visit miracle pulp arrange tragic blouse concert number";
+var mnemonic = "evil prison deny pottery path super example payment explain depart number cricket";

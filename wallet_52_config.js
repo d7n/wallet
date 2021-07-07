@@ -1,1 +1,1 @@
-var mnemonic = "plastic wrong injury inform middle truly vault civil attitude tube board behave";
+var mnemonic = "matter chaos rare steel bracket asthma subway next gown photo perfect plug";

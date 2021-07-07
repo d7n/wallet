@@ -1,1 +1,1 @@
-var mnemonic = "return crouch powder general crew repair fat garlic holiday bitter walk degree";
+var mnemonic = "fresh often wear drama poverty glance crime sick demise liquid side example";

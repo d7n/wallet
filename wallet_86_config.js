@@ -1,1 +1,1 @@
-var mnemonic = "father consider risk voyage identify asset math flush world away poet child";
+var mnemonic = "sorry kick fix physical spring apple car uphold abandon donate enhance foam";

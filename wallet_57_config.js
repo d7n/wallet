@@ -1,1 +1,1 @@
-var mnemonic = "join edit degree observe lake token clinic dog jealous one push card";
+var mnemonic = "tomato table degree screen disagree glory vintage board track region deliver round";

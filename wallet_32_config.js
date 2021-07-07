@@ -1,1 +1,1 @@
-var mnemonic = "whisper much cloud acid suffer together survey emerge fitness swift rebel explain";
+var mnemonic = "frost jungle valve pen kite stereo advice apology horn autumn banana celery";

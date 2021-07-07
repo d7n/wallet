@@ -1,1 +1,1 @@
-var mnemonic = "domain genuine combine slogan hub blue measure rate month trigger climb faint";
+var mnemonic = "emerge gym tired unaware face ill uncover blade proud source first know";

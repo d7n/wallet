@@ -1,1 +1,1 @@
-var mnemonic = "pony hope engine slot source way display sorry lava holiday brick rent";
+var mnemonic = "clinic random bid rough badge host better sort air brush hold accuse";

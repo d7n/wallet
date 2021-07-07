@@ -1,1 +1,1 @@
-var mnemonic = "matrix sheriff snow face heart frog bring orphan water dizzy raccoon verify";
+var mnemonic = "invite size purse shock skill duty battle creek magic baby anchor tennis";

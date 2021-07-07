@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo paper slam devote split mixture various coconut fence cash guilt century";
+var mnemonic = "guard fury cabbage cruise oak key crouch option umbrella current accident educate";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet useless wage subway reflect sponsor prison double east plunge neglect olive";
+var mnemonic = "actual coconut dose hole accident truth album chaos veteran share stay pair";

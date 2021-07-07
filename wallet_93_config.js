@@ -1,1 +1,1 @@
-var mnemonic = "fame helmet aspect drama close brother tragic amateur stable kit sweet universe";
+var mnemonic = "hover universe artwork catalog bundle faint jaguar insane outside spare accident result";

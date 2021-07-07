@@ -1,1 +1,1 @@
-var mnemonic = "organ immune success rabbit wheat room escape bag voice cube tobacco hamster";
+var mnemonic = "sketch quiz burger crawl margin suffer disease wife tennis broccoli tunnel alley";

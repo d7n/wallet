@@ -1,1 +1,1 @@
-var mnemonic = "wreck skirt enemy sing february bulb staff arm gas travel cradle symptom";
+var mnemonic = "decide hood token speed man innocent upgrade cupboard love century trim excess";

@@ -1,1 +1,1 @@
-var mnemonic = "interest math satoshi neutral test hedgehog remain before calm cube beyond vocal";
+var mnemonic = "huge there neck fiber avoid large sentence spend spot fan exotic embrace";

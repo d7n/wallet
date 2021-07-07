@@ -1,1 +1,1 @@
-var mnemonic = "word foil portion certain favorite imitate same catch absorb carbon portion ceiling";
+var mnemonic = "buyer mutual where sniff hockey obscure bonus hamster inquiry process proof kit";

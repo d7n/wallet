@@ -1,1 +1,1 @@
-var mnemonic = "repair click match fork tone volume ski ethics theme room gravity unaware";
+var mnemonic = "service peanut conduct damage asset april swear kid bar ivory grass prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "talent space leg enhance test edit comic cross hand mountain sport february";
+var mnemonic = "duck despair reveal amused cruel bargain now absorb simple shoulder thumb valid";

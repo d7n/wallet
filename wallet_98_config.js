@@ -1,1 +1,1 @@
-var mnemonic = "market picture humble dance cruise model debris diesel energy rookie witness summer";
+var mnemonic = "sample fee during tourist alarm orchard make radio property tail reveal spice";

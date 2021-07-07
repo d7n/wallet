@@ -1,1 +1,1 @@
-var mnemonic = "abstract rookie thank delay drill alpha scene valley error inside silly loud";
+var mnemonic = "barrel resemble flush focus kangaroo report answer recipe draft thought permit hurt";

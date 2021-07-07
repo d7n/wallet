@@ -1,1 +1,1 @@
-var mnemonic = "occur skill web debris winter sauce oppose enlist reflect uncover gentle royal";
+var mnemonic = "worth genuine hint ordinary audit employ ketchup over unable diary bunker top";

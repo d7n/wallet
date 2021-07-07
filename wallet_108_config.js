@@ -1,1 +1,1 @@
-var mnemonic = "patrol subject name glove couch dizzy priority remind again pig surround history";
+var mnemonic = "strategy craft usual song destroy balcony panel beach jungle stereo ghost script";

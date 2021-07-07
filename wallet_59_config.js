@@ -1,1 +1,1 @@
-var mnemonic = "census bulb clever caught destroy sick program maid hen want inspire dismiss";
+var mnemonic = "empower visual smooth exotic input measure opinion iron sting force wheat always";

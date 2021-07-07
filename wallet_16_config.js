@@ -1,1 +1,1 @@
-var mnemonic = "renew shift rally tissue tool another spare wolf winter mirror detail fever";
+var mnemonic = "mule insect suit flock guilt crack pulp prison want derive steak range";

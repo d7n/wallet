@@ -1,1 +1,1 @@
-var mnemonic = "sausage slight shove long maze hollow disorder this item fork profit grain";
+var mnemonic = "arch differ panic blush system mix settle worth give velvet company runway";

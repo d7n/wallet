@@ -1,1 +1,1 @@
-var mnemonic = "chalk thank bonus below waste junk ball during jaguar acid food media";
+var mnemonic = "dry ship gas word extra mule switch cruel cool there squirrel drop";

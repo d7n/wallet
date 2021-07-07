@@ -1,1 +1,1 @@
-var mnemonic = "hair input multiply gas medal blame tourist relax staff report blade fortune";
+var mnemonic = "master village battle armed wood capable air deliver excess cat warrior palm";

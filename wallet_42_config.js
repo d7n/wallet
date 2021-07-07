@@ -1,1 +1,1 @@
-var mnemonic = "garbage leopard fabric address stock patient film tube badge around proof chicken";
+var mnemonic = "deputy smooth wait inflict tumble lazy meat vibrant hold whip various recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "annual melody hope bless aim arrow heart service crew bonus possible thought";
+var mnemonic = "donate pear jazz frog shoulder vessel spoon enable goddess trend noodle spot";

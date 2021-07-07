@@ -1,1 +1,1 @@
-var mnemonic = "scissors tent wheat notable celery fuel chief blast nurse genre funny alarm";
+var mnemonic = "across tobacco ten sauce child unable reward tomorrow stuff coyote hammer shy";

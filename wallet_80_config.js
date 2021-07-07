@@ -1,1 +1,1 @@
-var mnemonic = "rally wood dutch figure couple fan awake acoustic place accuse boring shift";
+var mnemonic = "bomb combine flag wish shiver dinner bring syrup august frequent million identify";

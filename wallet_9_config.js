@@ -1,1 +1,1 @@
-var mnemonic = "jar bundle hockey village away enlist harbor noise cover cliff arctic slight";
+var mnemonic = "year search chronic undo tape science erode skirt crumble session jar youth";

@@ -1,1 +1,1 @@
-var mnemonic = "bean staff melody glow merge bone cupboard warfare close clever song since";
+var mnemonic = "else helmet enlist rural march fuel spice cotton help celery wild light";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot build rigid excite casino puppy act load horse banana light light";
+var mnemonic = "rough piano extra rack capital point window punch object travel album crumble";

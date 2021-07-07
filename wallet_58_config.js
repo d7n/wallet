@@ -1,1 +1,1 @@
-var mnemonic = "cube slice kid gift lens split trash young bleak produce error view";
+var mnemonic = "time immune film room safe violin fossil fortune visa multiply bag fish";

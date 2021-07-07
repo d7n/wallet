@@ -1,1 +1,1 @@
-var mnemonic = "lyrics miracle master weather ride fun fee fashion fame nuclear make rural";
+var mnemonic = "educate recipe skin foster split youth series text return script lonely dentist";

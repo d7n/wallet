@@ -1,1 +1,1 @@
-var mnemonic = "waste keep ship know jazz such seven night marble fabric glass control";
+var mnemonic = "tennis eager hunt episode night quiz swap burst company must middle victory";

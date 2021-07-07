@@ -1,1 +1,1 @@
-var mnemonic = "remember away motor mercy ecology always jacket coach save inform sunny side";
+var mnemonic = "large sunny one shaft catch buddy congress once spirit usage camera feature";

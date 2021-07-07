@@ -1,1 +1,1 @@
-var mnemonic = "ball practice deliver sentence grab spice until refuse media combine because cannon";
+var mnemonic = "wolf today degree trade include expect code zero analyst witness nature valid";

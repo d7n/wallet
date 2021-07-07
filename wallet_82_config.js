@@ -1,1 +1,1 @@
-var mnemonic = "accident arm impulse say belt curve coast smoke merry wise page then";
+var mnemonic = "bone walnut hurt admit glance promote first powder plunge response lunar worry";

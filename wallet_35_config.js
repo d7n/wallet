@@ -1,1 +1,1 @@
-var mnemonic = "ordinary soup medal cattle mango weather wolf upper mouse cram claw mix";
+var mnemonic = "desk grass rich museum surprise release piano predict inner child flash corn";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing slot candy priority reopen embrace crime piece element shaft release month";
+var mnemonic = "mountain blood fox infant future plastic eight view zebra sustain resist palm";

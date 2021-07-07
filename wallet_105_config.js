@@ -1,1 +1,1 @@
-var mnemonic = "super confirm tribe second exhaust worth cable isolate puppy still sniff erosion";
+var mnemonic = "observe scout reopen interest name chair tonight affair brush confirm group submit";

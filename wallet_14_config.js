@@ -1,1 +1,1 @@
-var mnemonic = "vendor toward drink borrow gauge melt planet remain race whale moon light";
+var mnemonic = "still guess tilt rebel transfer assume quality comic seven seat omit solution";

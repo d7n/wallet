@@ -1,1 +1,1 @@
-var mnemonic = "day weekend person upgrade rural fury harbor absent wood seminar paper range";
+var mnemonic = "into elbow hammer chest artist buzz voice foam nation moment purpose cliff";

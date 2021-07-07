@@ -1,1 +1,1 @@
-var mnemonic = "barely code pilot assist pelican cause nice flush never all humor food";
+var mnemonic = "person swamp bulk silver quit addict sock sniff chronic hidden icon badge";

@@ -1,1 +1,1 @@
-var mnemonic = "doll bullet wonder sentence aisle yard business subway strategy sadness isolate ability";
+var mnemonic = "denial remain clog flower involve volcano spatial turkey fiscal load steak bicycle";

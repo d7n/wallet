@@ -1,1 +1,1 @@
-var mnemonic = "prison sibling ill omit club sad absurd promote nut ecology earn ensure";
+var mnemonic = "symbol shuffle embody candy shop pigeon situate filter such acoustic hold torch";

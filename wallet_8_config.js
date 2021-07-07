@@ -1,1 +1,1 @@
-var mnemonic = "violin strategy cover warfare bench opera moon excite patrol poet office film";
+var mnemonic = "twist cage rich door accuse curve pencil travel prepare robust uphold boost";

@@ -1,1 +1,1 @@
-var mnemonic = "term result sing advance want cereal nothing pyramid length under practice pumpkin";
+var mnemonic = "cruel region canal caution final picnic ancient luxury mushroom hood cushion culture";

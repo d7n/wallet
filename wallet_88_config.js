@@ -1,1 +1,1 @@
-var mnemonic = "razor tail maze poem sponsor laptop trophy absurd glow throw loop limb";
+var mnemonic = "human sail donate doctor nose salute client tube olympic scissors essence segment";

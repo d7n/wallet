@@ -1,1 +1,1 @@
-var mnemonic = "mail correct property dinosaur strategy loan uncle fantasy scare drama horror long";
+var mnemonic = "guess excite edit circle cart stay tube maid problem survey habit fog";

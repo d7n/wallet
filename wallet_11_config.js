@@ -1,1 +1,1 @@
-var mnemonic = "large outer room hold segment strike enemy wild hour uncle affair dial";
+var mnemonic = "potato ignore physical tone area unit hair bean follow busy movie anger";

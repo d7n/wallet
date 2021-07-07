@@ -1,1 +1,1 @@
-var mnemonic = "canoe spawn soup erosion across never quantum glance sound unable mass bomb";
+var mnemonic = "unfair injury foil earth million club boat lens warm group aisle impact";

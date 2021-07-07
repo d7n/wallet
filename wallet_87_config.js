@@ -1,1 +1,1 @@
-var mnemonic = "enrich degree leaf genius copper scrub law nephew donkey siren annual eagle";
+var mnemonic = "trust section raw affair want rely dynamic series enrich dutch rule area";

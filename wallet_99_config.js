@@ -1,1 +1,1 @@
-var mnemonic = "nut brown increase boil stomach like cave kind afraid stem opinion dad";
+var mnemonic = "novel abstract runway joy captain double apple junior penalty acquire immense wrap";

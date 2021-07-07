@@ -1,1 +1,1 @@
-var mnemonic = "panda owner behave sauce trip hybrid faint rescue hamster differ play later";
+var mnemonic = "field resist orchard female lyrics inspire capital grab pigeon action cover crazy";

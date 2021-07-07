@@ -1,1 +1,1 @@
-var mnemonic = "erase bonus banner radio umbrella fly custom broccoli science strategy pigeon draw";
+var mnemonic = "nature bless black burger verify payment dolphin undo primary fine what design";

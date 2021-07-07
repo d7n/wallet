@@ -1,1 +1,1 @@
-var mnemonic = "lunar response chef utility twist syrup tent repeat sorry spray bar assault";
+var mnemonic = "amount rubber horse grass runway tomato invest smart tooth away remind pelican";

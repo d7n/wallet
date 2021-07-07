@@ -1,1 +1,1 @@
-var mnemonic = "obscure tackle gain outer balance nature dream afford blood river six few";
+var mnemonic = "inch hurdle surface floor ghost month electric quiz core cram pitch dirt";

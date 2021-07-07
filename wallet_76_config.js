@@ -1,1 +1,1 @@
-var mnemonic = "album genre essay universe cube maze type stereo exist solve offer lab";
+var mnemonic = "bar crane program spatial tongue derive violin problem vocal card quantum embody";

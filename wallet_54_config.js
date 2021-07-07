@@ -1,1 +1,1 @@
-var mnemonic = "guard mixed elbow impose base trust dad pair glow border sample bar";
+var mnemonic = "else flower diesel denial vibrant snack thunder accident eyebrow bag slogan cousin";

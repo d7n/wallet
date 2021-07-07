@@ -1,1 +1,1 @@
-var mnemonic = "diagram outside remind swamp salmon loyal comfort position clown gather baby aisle";
+var mnemonic = "scatter biology rack rabbit arrow warfare language woman fox maze sweet pitch";

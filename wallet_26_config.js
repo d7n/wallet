@@ -1,1 +1,1 @@
-var mnemonic = "clown nominee maximum cereal ranch vendor tomorrow merit bread position divert cook";
+var mnemonic = "material oval multiply worry eye hollow auto crazy gospel few verb neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze immense barrel radio myth clump weasel scheme win time hurry coast";
+var mnemonic = "olympic obey below magic marble zero word misery soda coin country absurd";

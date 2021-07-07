@@ -1,1 +1,1 @@
-var mnemonic = "unaware size review demand grant mercy mercy quantum fury profit bounce crash";
+var mnemonic = "few morning kidney party diesel curtain match ghost radar surface drama cross";

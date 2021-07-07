@@ -1,1 +1,1 @@
-var mnemonic = "hint rare pyramid draw true hunt dwarf soft love job office gospel";
+var mnemonic = "refuse detail atom hurdle beach gather control sword across sample horse melt";

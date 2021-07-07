@@ -1,1 +1,1 @@
-var mnemonic = "stadium turkey fan trumpet habit rough ostrich mad tourist garden drastic inform";
+var mnemonic = "hidden poverty reward cave notable prison trumpet sketch abuse embody autumn clutch";

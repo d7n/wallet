@@ -1,1 +1,1 @@
-var mnemonic = "fury party snake birth blade dinner tissue course pink first decade lake";
+var mnemonic = "six hidden rookie heavy balcony smooth believe nerve long maid ankle destroy";

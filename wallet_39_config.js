@@ -1,1 +1,1 @@
-var mnemonic = "life note arm shoot nuclear motion vendor exclude tattoo senior busy comic";
+var mnemonic = "plate uncle empty exist dial cluster adjust ask fault noodle drastic raven";

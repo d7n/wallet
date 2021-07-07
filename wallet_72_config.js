@@ -1,1 +1,1 @@
-var mnemonic = "spoil stuff squeeze razor beach harvest discover radio cousin hope must soccer";
+var mnemonic = "hotel stool spoon skill flash must popular dog hood extra top glue";

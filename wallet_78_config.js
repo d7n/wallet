@@ -1,1 +1,1 @@
-var mnemonic = "stock glow cousin elephant corn improve ozone sauce mention wave cake velvet";
+var mnemonic = "obscure mesh caution horror figure luxury palace chase scout clap priority walk";

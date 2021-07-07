@@ -1,1 +1,1 @@
-var mnemonic = "humor garage liquid candy crazy height intact giraffe coyote country valley ancient";
+var mnemonic = "pig cat ship spirit cook grass subject winter chalk verify pepper waste";
