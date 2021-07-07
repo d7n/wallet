@@ -1,1 +1,1 @@
-var mnemonic = "neither lunch same spread birth sword better crucial mule thank decade mountain";
+var mnemonic = "miss quality nose forum nice such pencil feed borrow energy because they";

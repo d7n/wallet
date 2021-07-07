@@ -1,1 +1,1 @@
-var mnemonic = "buffalo party annual forward surge trouble average cable goat blouse forward useless";
+var mnemonic = "bus carbon disorder repair siren already talk faculty ranch pipe news habit";

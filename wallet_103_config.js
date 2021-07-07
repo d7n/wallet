@@ -1,1 +1,1 @@
-var mnemonic = "topple achieve clap machine harbor ribbon produce future increase head coffee aunt";
+var mnemonic = "struggle vanish degree busy winter remove census swear stone toss rack worry";

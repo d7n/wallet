@@ -1,1 +1,1 @@
-var mnemonic = "mountain health identify fever dice fun much fine rather hard syrup cream";
+var mnemonic = "kitten evidence local imitate lady dream crush high observe alpha duck olive";

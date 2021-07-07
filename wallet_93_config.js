@@ -1,1 +1,1 @@
-var mnemonic = "brother seed van beach hill opinion clump captain limit acid wrestle breeze";
+var mnemonic = "guess edit decrease hunt churn faith beef kiwi imitate ghost plate snake";

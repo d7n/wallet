@@ -1,1 +1,1 @@
-var mnemonic = "debris exhaust seat caution awkward relief seven decade ignore march gap board";
+var mnemonic = "thing vicious asset yellow chase lawsuit truth oxygen lend people lava put";

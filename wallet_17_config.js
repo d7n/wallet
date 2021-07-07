@@ -1,1 +1,1 @@
-var mnemonic = "truth truly cabin pyramid stick account nephew cherry lawsuit roof various cabin";
+var mnemonic = "throw swim crumble try bone urge knock inmate arrow crop narrow flame";

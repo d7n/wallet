@@ -1,1 +1,1 @@
-var mnemonic = "measure bronze behind capable park lawsuit person behave pelican protect hamster breeze";
+var mnemonic = "horse private bid life mask extra stem post pyramid muscle hip top";

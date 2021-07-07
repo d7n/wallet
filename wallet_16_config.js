@@ -1,1 +1,1 @@
-var mnemonic = "large essence fantasy mad kiss tilt earn total october provide select antenna";
+var mnemonic = "just increase stand pupil split air barrel slab submit special image region";

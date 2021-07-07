@@ -1,1 +1,1 @@
-var mnemonic = "pretty drastic fragile subject drop pepper interest become napkin release monster ball";
+var mnemonic = "cute raven symptom hip drum liquid street ten carbon employ pass discover";

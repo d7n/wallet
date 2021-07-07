@@ -1,1 +1,1 @@
-var mnemonic = "tongue faint remain robot moral caught tenant spider era super dish goose";
+var mnemonic = "awful hedgehog tip tuition wrap hundred seek hood liar ill spread hotel";

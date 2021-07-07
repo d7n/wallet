@@ -1,1 +1,1 @@
-var mnemonic = "steel slight outer glimpse tragic matter enemy flee room wrap cluster effort";
+var mnemonic = "mixture cream hungry front refuse planet engine off lamp boss caution wide";

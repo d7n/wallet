@@ -1,1 +1,1 @@
-var mnemonic = "guess ocean acoustic tiny decrease casino beyond inquiry grape across idea push";
+var mnemonic = "lesson gentle protect prison open decrease submit tilt position moment crucial digital";

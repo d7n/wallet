@@ -1,1 +1,1 @@
-var mnemonic = "situate web family illegal entire win hunt erupt want life grape core";
+var mnemonic = "excite maze satoshi another urban blanket pelican olive puppy tackle defense lion";

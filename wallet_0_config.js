@@ -1,1 +1,1 @@
-var mnemonic = "useless whip parrot slot dial shoe decrease mule mimic author math prevent";
+var mnemonic = "jar inmate whisper soccer wing ozone hat pottery race almost select snow";

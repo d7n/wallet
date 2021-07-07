@@ -1,1 +1,1 @@
-var mnemonic = "oak this soccer never labor enforce trophy forward sure render glide identify";
+var mnemonic = "region ordinary treat wood steak bomb ripple inhale high consider amateur stove";

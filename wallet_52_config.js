@@ -1,1 +1,1 @@
-var mnemonic = "action deal ill denial title pyramid swear cricket climb morning proud rookie";
+var mnemonic = "brush circle paper gym write cement runway clown give bomb cry bike";

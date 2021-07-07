@@ -1,1 +1,1 @@
-var mnemonic = "open brush wrestle hero common eternal artist garbage sunset verb butter bar";
+var mnemonic = "month noble room dizzy exchange mad track rookie happy motion author wild";

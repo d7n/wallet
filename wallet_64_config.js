@@ -1,1 +1,1 @@
-var mnemonic = "nurse feed truth scale grief protect gun imitate hockey wear text omit";
+var mnemonic = "donor gaze medal produce fatigue chat protect banana turkey hazard satisfy paper";

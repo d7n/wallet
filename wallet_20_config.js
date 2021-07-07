@@ -1,1 +1,1 @@
-var mnemonic = "february view forum hover cradle mother circle survey upset maple adapt able";
+var mnemonic = "note torch goose ocean lyrics weather eager cricket utility cricket old base";

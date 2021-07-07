@@ -1,1 +1,1 @@
-var mnemonic = "steak uncover desk immense among soul crop head wear minor attitude few";
+var mnemonic = "crime swarm immune knee oxygen ready strategy mouse silk subway delay gown";

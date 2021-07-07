@@ -1,1 +1,1 @@
-var mnemonic = "until just benefit magnet devote point quit target wool people copy bread";
+var mnemonic = "leave someone more sight royal gorilla day swear mystery more small forward";

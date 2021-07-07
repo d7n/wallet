@@ -1,1 +1,1 @@
-var mnemonic = "fancy marble gaze steak hamster student garment raw series bulb elite camp";
+var mnemonic = "angle ski pyramid kiwi decorate hard frozen hotel normal truth health broccoli";

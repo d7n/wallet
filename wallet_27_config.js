@@ -1,1 +1,1 @@
-var mnemonic = "dress audit planet end earn insect key essence husband exotic list stock";
+var mnemonic = "latin genuine into pool visual tired toss unusual diary rhythm spoil torch";

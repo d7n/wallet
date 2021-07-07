@@ -1,1 +1,1 @@
-var mnemonic = "annual innocent candy output occur champion race seat real never topple actress";
+var mnemonic = "verb camera cover vague ugly curtain device hungry distance angry home timber";

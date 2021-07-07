@@ -1,1 +1,1 @@
-var mnemonic = "sail smile thing aunt hawk hair sleep cage intact muscle huge exotic";
+var mnemonic = "admit extra run mask submit secret wasp alert stay apology because million";

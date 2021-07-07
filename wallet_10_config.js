@@ -1,1 +1,1 @@
-var mnemonic = "grunt mesh vast rocket grow sample rose unveil drop energy march claw";
+var mnemonic = "already cargo test voyage region during ahead fever loyal ball utility dress";

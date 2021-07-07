@@ -1,1 +1,1 @@
-var mnemonic = "primary three sail off blame deputy obtain common cinnamon rally powder alcohol";
+var mnemonic = "pigeon dignity blind cinnamon struggle rescue ribbon work census civil chest slow";

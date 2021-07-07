@@ -1,1 +1,1 @@
-var mnemonic = "prosper glue belt buyer silly recall dust flip cute reform usual reunion";
+var mnemonic = "occur rough suit behave gravity hat right laundry long asset like dinner";

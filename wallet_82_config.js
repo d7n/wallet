@@ -1,1 +1,1 @@
-var mnemonic = "antenna motor napkin approve air process chicken cost filter soon surprise mushroom";
+var mnemonic = "staff age nephew fox panic extend sibling produce spell beef dice photo";

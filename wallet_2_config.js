@@ -1,1 +1,1 @@
-var mnemonic = "music catalog twin kitchen jump deposit culture sing because grant super hotel";
+var mnemonic = "toast sock noodle churn domain milk poem wear category also circle wing";

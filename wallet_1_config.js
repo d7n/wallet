@@ -1,1 +1,1 @@
-var mnemonic = "floor orange demand example bid canal rain rotate session arrive palm banana";
+var mnemonic = "dinner bomb parade night term night oval engage they kid acid clay";

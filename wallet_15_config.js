@@ -1,1 +1,1 @@
-var mnemonic = "viable rate visual ship fault fragile airport front diet cinnamon vanish craft";
+var mnemonic = "patrol width alone hope claim spray enlist pudding thought insect defense quality";

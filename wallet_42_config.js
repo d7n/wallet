@@ -1,1 +1,1 @@
-var mnemonic = "hour match wild tackle general enlist cliff lumber earn actress sheriff verb";
+var mnemonic = "office left accuse sea fire journey estate dwarf cheese pupil shadow erase";

@@ -1,1 +1,1 @@
-var mnemonic = "radar world window faith execute shrimp network body season blush shrug slender";
+var mnemonic = "immense imitate boil twist biology primary fossil divorce palm purchase snow six";

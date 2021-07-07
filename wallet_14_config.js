@@ -1,1 +1,1 @@
-var mnemonic = "hundred ask actual forward captain modify divorce celery tobacco sponsor kidney repeat";
+var mnemonic = "recycle awful diet grid pyramid elder feed track deposit wheat trumpet round";

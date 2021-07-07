@@ -1,1 +1,1 @@
-var mnemonic = "supply develop task noise alarm original glimpse mimic juice pretty refuse crystal";
+var mnemonic = "grid violin taste bright whisper cry recipe menu mammal please tiger ceiling";

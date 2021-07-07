@@ -1,1 +1,1 @@
-var mnemonic = "kind hope opinion person taxi general tuition outside safe asset over gossip";
+var mnemonic = "patrol discover bracket unfair miracle inhale limit find length vague phone pact";

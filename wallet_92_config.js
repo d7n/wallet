@@ -1,1 +1,1 @@
-var mnemonic = "walk purity tuna cart sister scatter device fit patient shrug uphold fork";
+var mnemonic = "cover advice initial barely unknown merge employ ankle modify drip carry soccer";

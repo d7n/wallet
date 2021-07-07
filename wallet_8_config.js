@@ -1,1 +1,1 @@
-var mnemonic = "pill news rich author beach bullet stay bottom carpet tongue north jazz";
+var mnemonic = "apart erode roof vintage master emerge include retire glove blouse blood aware";

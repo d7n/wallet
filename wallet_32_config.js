@@ -1,1 +1,1 @@
-var mnemonic = "urge flavor prison tree castle hidden normal excuse three cake verify slogan";
+var mnemonic = "dial bring guitar excess guard embody used example ask ride history lounge";

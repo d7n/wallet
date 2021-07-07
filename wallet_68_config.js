@@ -1,1 +1,1 @@
-var mnemonic = "dry emotion shell smile foam bless shop conduct doctor same interest rack";
+var mnemonic = "sense core vast blind blush runway hospital uniform cause roof burger ranch";

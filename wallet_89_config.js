@@ -1,1 +1,1 @@
-var mnemonic = "net citizen advance vanish wheel easily case patrol foster twenty bacon property";
+var mnemonic = "cliff magnet spider gospel salon nose family risk income retire slight hair";

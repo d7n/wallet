@@ -1,1 +1,1 @@
-var mnemonic = "evil answer sustain planet blue convince giant pass crack urge spoon winner";
+var mnemonic = "ritual region figure climb certain exit snack increase stereo glare merry shop";

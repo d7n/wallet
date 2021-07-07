@@ -1,1 +1,1 @@
-var mnemonic = "sadness bubble confirm early brass lawn book valley original throw remain enforce";
+var mnemonic = "kitten discover pyramid dizzy mosquito position tray easy auto worry clinic bread";

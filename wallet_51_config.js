@@ -1,1 +1,1 @@
-var mnemonic = "sniff grunt episode tortoise anger find defy usual master nest grab domain";
+var mnemonic = "peasant hunt engage shop early crumble there marine pencil orange capable drum";

@@ -1,1 +1,1 @@
-var mnemonic = "milk parent camera palace purse find worry autumn express melt decrease siren";
+var mnemonic = "beef oppose talk capital hidden outdoor shock old across crystal solid hip";

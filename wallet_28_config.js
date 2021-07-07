@@ -1,1 +1,1 @@
-var mnemonic = "south wrong solar climb swift west jar warrior claim say swift color";
+var mnemonic = "key cactus property firm image else photo chat flat glue bounce hospital";

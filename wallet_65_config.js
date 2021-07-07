@@ -1,1 +1,1 @@
-var mnemonic = "wine assist neck turn strategy sunny usual method swear idle shy usage";
+var mnemonic = "illegal fault kiwi thunder champion grace acoustic glue inhale witness flee glove";

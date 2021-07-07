@@ -1,1 +1,1 @@
-var mnemonic = "nature cereal turkey head fence field leg spy acid pencil true jump";
+var mnemonic = "spawn liar round pudding weasel exchange pumpkin crazy foster attitude certain long";

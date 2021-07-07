@@ -1,1 +1,1 @@
-var mnemonic = "shove eternal snack glow candy lion write concert smart wife auto butter";
+var mnemonic = "sister dumb rotate join leg laundry image undo economy scrap furnace barely";

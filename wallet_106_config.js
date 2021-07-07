@@ -1,1 +1,1 @@
-var mnemonic = "panther monster moment young slow erupt seat solid tragic coconut black bid";
+var mnemonic = "disease laundry sense fatal adapt shrimp error satisfy wise grunt dynamic cry";

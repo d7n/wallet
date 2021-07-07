@@ -1,1 +1,1 @@
-var mnemonic = "salon lecture diesel skate biology column high side kit unable slice heavy";
+var mnemonic = "umbrella priority lava destroy ten milk mass record sausage drive toddler divorce";

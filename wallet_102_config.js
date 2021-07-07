@@ -1,1 +1,1 @@
-var mnemonic = "mystery total holiday shaft latin hybrid example silver easy buzz spy south";
+var mnemonic = "canoe drink float diary excuse mail scorpion that toe various spread artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "sure blade inch lens catalog grit fitness emerge gift lounge elbow mule";
+var mnemonic = "exhaust section keen high only fringe turn segment vocal giraffe leisure honey";

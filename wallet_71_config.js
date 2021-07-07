@@ -1,1 +1,1 @@
-var mnemonic = "uncle rebuild west school royal awesome shell omit reason inform sword cannon";
+var mnemonic = "word jewel catch later rigid neutral syrup logic stand write device arm";

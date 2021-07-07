@@ -1,1 +1,1 @@
-var mnemonic = "zebra author fly resemble hand boil filter find eight fire convince normal";
+var mnemonic = "vintage nurse indoor blame urban flower into mosquito two spawn barely boil";

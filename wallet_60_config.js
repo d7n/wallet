@@ -1,1 +1,1 @@
-var mnemonic = "blame horse require credit what garden habit hollow raise hospital welcome bounce";
+var mnemonic = "siege alcohol butter picnic name absent under trip wonder buzz before clump";

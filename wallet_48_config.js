@@ -1,1 +1,1 @@
-var mnemonic = "plate bench win torch local million imitate inside negative giggle scheme banana";
+var mnemonic = "object galaxy robust emerge viable explain drive found suit crane where bean";

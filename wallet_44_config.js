@@ -1,1 +1,1 @@
-var mnemonic = "later gym peace car kind divert pencil acoustic high poverty wasp coach";
+var mnemonic = "veteran boring sing olive insect unaware library genre walk keen trash equip";

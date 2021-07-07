@@ -1,1 +1,1 @@
-var mnemonic = "settle trend sketch private airport raccoon width festival various nut purpose lottery";
+var mnemonic = "renew deal tiny cream unfold cactus enable possible three congress wolf route";

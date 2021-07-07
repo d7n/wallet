@@ -1,1 +1,1 @@
-var mnemonic = "small neck fee december nuclear magnet obvious great mirror caution word another";
+var mnemonic = "airport merry want negative artist purse gadget demise this then tongue aunt";

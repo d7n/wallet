@@ -1,1 +1,1 @@
-var mnemonic = "senior ribbon color oak course banana fuel right broken prosper half hobby";
+var mnemonic = "physical glory tourist scene wear shed across final fame novel blossom mobile";

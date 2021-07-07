@@ -1,1 +1,1 @@
-var mnemonic = "praise method amateur benefit jungle coach weird keen ankle pave sorry alarm";
+var mnemonic = "diary world puppy fire budget ancient neutral virus share inflict catalog auto";

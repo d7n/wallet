@@ -1,1 +1,1 @@
-var mnemonic = "remain save private marine noodle fan verify emotion need awful confirm chair";
+var mnemonic = "rate clerk table trigger twenty basket frame vendor faculty elegant razor swift";

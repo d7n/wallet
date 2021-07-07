@@ -1,1 +1,1 @@
-var mnemonic = "hood pattern income iron robust fat toddler animal occur smart mobile project";
+var mnemonic = "farm praise wealth oven style beyond balance maple stage thrive lobster bundle";

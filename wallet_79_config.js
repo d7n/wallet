@@ -1,1 +1,1 @@
-var mnemonic = "garlic smile adjust infant wheat engine pill resource local answer alley fly";
+var mnemonic = "nation unhappy mosquito vital ill pencil crash diamond subject group neck comfort";

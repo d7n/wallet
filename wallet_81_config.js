@@ -1,1 +1,1 @@
-var mnemonic = "world dice ethics same behave opinion push alien strong cage mass favorite";
+var mnemonic = "today gate divide online poet power tiger friend fury carbon void child";

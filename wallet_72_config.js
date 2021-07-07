@@ -1,1 +1,1 @@
-var mnemonic = "shell push predict theme pulse giggle hint garden laptop radar system input";
+var mnemonic = "about flower aerobic switch fetch belt endorse mammal energy expect earn forest";

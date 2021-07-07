@@ -1,1 +1,1 @@
-var mnemonic = "under robot wide runway idea smooth jealous infant they piano risk goat";
+var mnemonic = "cricket purity noble inch autumn garment film garden crane into boss major";

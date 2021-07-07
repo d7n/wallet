@@ -1,1 +1,1 @@
-var mnemonic = "young loyal fall bronze cube drink trick intact slender coach finish marine";
+var mnemonic = "safe bleak sell charge elite theme skirt auto yellow option dirt jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "notice grit bleak husband crop trumpet safe police custom kangaroo forward know";
+var mnemonic = "forest divide kiss belt dentist border gadget cattle cancel corn artist manual";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic collect myth art federal delay dash obtain often explain brown object";
+var mnemonic = "quote sheriff door hello pig ranch balance high reveal glue panther sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "palace blouse weekend december hollow sibling bulb small flavor walnut border royal";
+var mnemonic = "husband then youth render affair tattoo insect inform have satoshi wire account";

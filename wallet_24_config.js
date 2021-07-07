@@ -1,1 +1,1 @@
-var mnemonic = "garage virtual miss someone gossip december shuffle primary oval replace test good";
+var mnemonic = "rabbit knock spend bench food review whisper ten sting action frown night";

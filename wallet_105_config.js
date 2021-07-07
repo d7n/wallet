@@ -1,1 +1,1 @@
-var mnemonic = "love stand canoe hour category use soul unfair hedgehog gun force recycle";
+var mnemonic = "deposit indicate dynamic tip sight gallery route sound shy public evolve raw";

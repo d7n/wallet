@@ -1,1 +1,1 @@
-var mnemonic = "ensure kitchen summer bundle cheese cinnamon message middle unable weather oyster arch";
+var mnemonic = "gadget swear fiber wheat keep state rookie virus differ common math gather";

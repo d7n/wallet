@@ -1,1 +1,1 @@
-var mnemonic = "panel party turkey again element tunnel achieve brown mind fringe lock ten";
+var mnemonic = "below coach fury filter lawn era excite broom gym engine another auction";

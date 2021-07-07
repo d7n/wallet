@@ -1,1 +1,1 @@
-var mnemonic = "accident canoe drip end winner such holiday armed blur lift giant obey";
+var mnemonic = "gather exist van silver slab tackle soap notice slab stuff whip smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare expand rigid dance scatter paddle force blouse quit choice crowd feed";
+var mnemonic = "weird satoshi art pear clutch sorry angry excite digital avoid kite tent";

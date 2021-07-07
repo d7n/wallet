@@ -1,1 +1,1 @@
-var mnemonic = "address scatter pave attract trumpet avoid price morning short mutual actress orbit";
+var mnemonic = "shoe found crush story dinner twin time swarm civil glass priority cause";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve shrimp palm cake bundle hundred awake judge rent frog thunder hidden";
+var mnemonic = "bless result help that decrease embody horn broom boat update any bright";

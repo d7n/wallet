@@ -1,1 +1,1 @@
-var mnemonic = "work main scan ride holiday hold security deer limb into plate cruise";
+var mnemonic = "pig either noble kingdom coin because addict dress year friend clerk clock";

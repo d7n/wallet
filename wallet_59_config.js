@@ -1,1 +1,1 @@
-var mnemonic = "help ramp print okay claim hurdle correct farm art next gallery license";
+var mnemonic = "weather whisper alert undo access plunge never delay member believe proud parrot";

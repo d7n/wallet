@@ -1,1 +1,1 @@
-var mnemonic = "much stomach return push pole badge medal habit limit stand boring doll";
+var mnemonic = "supreme lobster spawn agent invest pole eagle carbon carbon trial style mouse";

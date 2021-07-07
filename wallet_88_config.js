@@ -1,1 +1,1 @@
-var mnemonic = "hire crisp toe rent hurry rifle enact visa chase raccoon unhappy guitar";
+var mnemonic = "draw peace buyer belt glare food present fluid alien match artwork alert";
