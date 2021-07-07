@@ -1,1 +1,1 @@
-var mnemonic = "deposit indicate dynamic tip sight gallery route sound shy public evolve raw";
+var mnemonic = "camera group target aspect wealth canyon club owner crater still abandon chicken";

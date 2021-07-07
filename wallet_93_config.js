@@ -1,1 +1,1 @@
-var mnemonic = "guess edit decrease hunt churn faith beef kiwi imitate ghost plate snake";
+var mnemonic = "weapon series dizzy merit van lunch opinion buddy sand struggle fee burst";

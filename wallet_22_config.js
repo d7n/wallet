@@ -1,1 +1,1 @@
-var mnemonic = "occur rough suit behave gravity hat right laundry long asset like dinner";
+var mnemonic = "year popular refuse critic various learn asthma donor once envelope lesson valley";

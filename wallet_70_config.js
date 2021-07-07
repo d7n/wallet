@@ -1,1 +1,1 @@
-var mnemonic = "weird satoshi art pear clutch sorry angry excite digital avoid kite tent";
+var mnemonic = "daughter suffer dilemma rally stamp dutch property sunny margin cliff display ranch";

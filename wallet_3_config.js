@@ -1,1 +1,1 @@
-var mnemonic = "struggle gym security topple unknown wedding trend goat combine mansion gold bread";
+var mnemonic = "universe famous wink plastic volume pet joy frost night during two labor";

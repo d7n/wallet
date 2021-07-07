@@ -1,1 +1,1 @@
-var mnemonic = "peasant hunt engage shop early crumble there marine pencil orange capable drum";
+var mnemonic = "expire measure furnace club fiber shift artefact fee tenant congress seek broom";

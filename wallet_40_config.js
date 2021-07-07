@@ -1,1 +1,1 @@
-var mnemonic = "anchor sign purpose episode planet cigar rather source obscure carbon edge mutual";
+var mnemonic = "initial orient initial clump country topic caution slot wash stick ginger concert";

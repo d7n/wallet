@@ -1,1 +1,1 @@
-var mnemonic = "jar inmate whisper soccer wing ozone hat pottery race almost select snow";
+var mnemonic = "bamboo friend rather easy actual venture sentence mixed dumb round system garment";

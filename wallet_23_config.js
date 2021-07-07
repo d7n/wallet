@@ -1,1 +1,1 @@
-var mnemonic = "below coach fury filter lawn era excite broom gym engine another auction";
+var mnemonic = "token seat emerge alcohol craft hen nerve muffin prevent shoe room slide";

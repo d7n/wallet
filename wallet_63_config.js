@@ -1,1 +1,1 @@
-var mnemonic = "pyramid exercise this stumble danger now tiger senior promote faith virus comic";
+var mnemonic = "reduce labor divide sport glimpse abuse turtle retreat acquire balcony dial course";

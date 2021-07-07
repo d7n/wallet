@@ -1,1 +1,1 @@
-var mnemonic = "brush circle paper gym write cement runway clown give bomb cry bike";
+var mnemonic = "radar drama sudden slice north quarter hero pilot result file alarm popular";

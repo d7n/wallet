@@ -1,1 +1,1 @@
-var mnemonic = "recycle awful diet grid pyramid elder feed track deposit wheat trumpet round";
+var mnemonic = "true call digital carbon seed priority across choose style reason require favorite";

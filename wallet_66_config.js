@@ -1,1 +1,1 @@
-var mnemonic = "vintage nurse indoor blame urban flower into mosquito two spawn barely boil";
+var mnemonic = "jealous like transfer fence night frequent kangaroo foster cotton hard hundred mule";

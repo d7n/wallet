@@ -1,1 +1,1 @@
-var mnemonic = "resist increase brand excuse sentence penalty cherry special wild custom devote number";
+var mnemonic = "around beach obscure swallow frequent common win dentist august hybrid call transfer";

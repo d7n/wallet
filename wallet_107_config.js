@@ -1,1 +1,1 @@
-var mnemonic = "month noble room dizzy exchange mad track rookie happy motion author wild";
+var mnemonic = "any west skull section plate tent cabin defense embody wrong mango wheat";

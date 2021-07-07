@@ -1,1 +1,1 @@
-var mnemonic = "ritual region figure climb certain exit snack increase stereo glare merry shop";
+var mnemonic = "rigid assault toddler lens guide repeat sad display meat elder stairs trash";

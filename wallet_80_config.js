@@ -1,1 +1,1 @@
-var mnemonic = "shoe found crush story dinner twin time swarm civil glass priority cause";
+var mnemonic = "rare kit hour rich wealth wisdom toss useful rare flash fossil industry";

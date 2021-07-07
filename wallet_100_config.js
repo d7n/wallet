@@ -1,1 +1,1 @@
-var mnemonic = "spawn liar round pudding weasel exchange pumpkin crazy foster attitude certain long";
+var mnemonic = "hobby cream virtual horror episode craft begin treat crystal sure noodle long";

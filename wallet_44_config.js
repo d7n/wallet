@@ -1,1 +1,1 @@
-var mnemonic = "veteran boring sing olive insect unaware library genre walk keen trash equip";
+var mnemonic = "choose wool sell strike real quote cherry name repair stairs stage right";

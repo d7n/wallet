@@ -1,1 +1,1 @@
-var mnemonic = "patrol discover bracket unfair miracle inhale limit find length vague phone pact";
+var mnemonic = "rookie update treat surround embody danger assist already patient agent tennis spare";

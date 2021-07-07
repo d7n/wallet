@@ -1,1 +1,1 @@
-var mnemonic = "fat depth gravity choice hen letter blush rally vast trip heavy artefact";
+var mnemonic = "acoustic vintage ritual balance cute craft air image theory lock tail circle";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol width alone hope claim spray enlist pudding thought insect defense quality";
+var mnemonic = "penalty junk index arrest stairs junior gadget rapid million slender dismiss solve";

@@ -1,1 +1,1 @@
-var mnemonic = "airport merry want negative artist purse gadget demise this then tongue aunt";
+var mnemonic = "artwork spoil best device guide universe staff feel divide mansion between syrup";

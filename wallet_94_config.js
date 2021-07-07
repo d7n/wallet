@@ -1,1 +1,1 @@
-var mnemonic = "immense imitate boil twist biology primary fossil divorce palm purchase snow six";
+var mnemonic = "empower lounge aerobic race process typical piano legend omit mask unfair evil";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal fault kiwi thunder champion grace acoustic glue inhale witness flee glove";
+var mnemonic = "inch cement next reopen armor earn noodle tell trend cluster casual bring";

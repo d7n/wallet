@@ -1,1 +1,1 @@
-var mnemonic = "already cargo test voyage region during ahead fever loyal ball utility dress";
+var mnemonic = "author mule fan achieve discover skate effort frame perfect social tribe energy";

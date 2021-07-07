@@ -1,1 +1,1 @@
-var mnemonic = "awful hedgehog tip tuition wrap hundred seek hood liar ill spread hotel";
+var mnemonic = "capital riot milk labor foster stage chimney donate train east near weather";

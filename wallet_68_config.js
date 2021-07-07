@@ -1,1 +1,1 @@
-var mnemonic = "sense core vast blind blush runway hospital uniform cause roof burger ranch";
+var mnemonic = "control top boil cake glow base spy gauge slender gas cherry unusual";

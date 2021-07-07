@@ -1,1 +1,1 @@
-var mnemonic = "quote sheriff door hello pig ranch balance high reveal glue panther sugar";
+var mnemonic = "skate strategy heavy half coyote remove senior wait pilot twist aim zero";

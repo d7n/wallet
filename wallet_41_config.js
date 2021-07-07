@@ -1,1 +1,1 @@
-var mnemonic = "miss quality nose forum nice such pencil feed borrow energy because they";
+var mnemonic = "enjoy dwarf prison destroy proof simple prefer smooth ring grain build original";

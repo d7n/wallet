@@ -1,1 +1,1 @@
-var mnemonic = "cricket purity noble inch autumn garment film garden crane into boss major";
+var mnemonic = "win industry wrist crash scatter trash zebra game notice venue love carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "rate clerk table trigger twenty basket frame vendor faculty elegant razor swift";
+var mnemonic = "entire maid steak clutch path squeeze arrange scout decide flat year dutch";

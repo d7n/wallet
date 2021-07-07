@@ -1,1 +1,1 @@
-var mnemonic = "crime swarm immune knee oxygen ready strategy mouse silk subway delay gown";
+var mnemonic = "giggle element holiday upset correct leg maximum pill struggle arm balcony valve";

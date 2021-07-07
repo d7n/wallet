@@ -1,1 +1,1 @@
-var mnemonic = "exhaust section keen high only fringe turn segment vocal giraffe leisure honey";
+var mnemonic = "protect health illness perfect token lunar earn box whip provide vessel pair";

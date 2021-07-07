@@ -1,1 +1,1 @@
-var mnemonic = "bus carbon disorder repair siren already talk faculty ranch pipe news habit";
+var mnemonic = "slogan fence sell letter gloom wedding machine dust between kitchen day pact";

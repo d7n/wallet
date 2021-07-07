@@ -1,1 +1,1 @@
-var mnemonic = "forest divide kiss belt dentist border gadget cattle cancel corn artist manual";
+var mnemonic = "side paddle chapter subject enact small defy minute guitar fashion laugh crucial";

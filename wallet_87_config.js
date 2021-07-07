@@ -1,1 +1,1 @@
-var mnemonic = "admit extra run mask submit secret wasp alert stay apology because million";
+var mnemonic = "zoo shoe teach argue maze nurse run input advice waste bench market";

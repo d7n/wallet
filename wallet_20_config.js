@@ -1,1 +1,1 @@
-var mnemonic = "note torch goose ocean lyrics weather eager cricket utility cricket old base";
+var mnemonic = "toilet toward age erase tiny keen hundred apple know morning raise dignity";

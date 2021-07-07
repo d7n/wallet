@@ -1,1 +1,1 @@
-var mnemonic = "drive prison balance furnace nasty then hungry motor security victory wasp thing";
+var mnemonic = "crack delay online put teach rapid agent length coast rescue garden live";

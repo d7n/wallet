@@ -1,1 +1,1 @@
-var mnemonic = "throw swim crumble try bone urge knock inmate arrow crop narrow flame";
+var mnemonic = "behind laptop runway rookie box drop argue outside air rent protect friend";

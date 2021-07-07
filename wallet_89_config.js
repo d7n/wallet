@@ -1,1 +1,1 @@
-var mnemonic = "cliff magnet spider gospel salon nose family risk income retire slight hair";
+var mnemonic = "kiwi tired milk laptop idea absent upset canvas main aerobic speed sudden";

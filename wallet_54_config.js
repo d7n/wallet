@@ -1,1 +1,1 @@
-var mnemonic = "pig either noble kingdom coin because addict dress year friend clerk clock";
+var mnemonic = "spread tattoo aisle swim venue armor thing broom dial dismiss step letter";

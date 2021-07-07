@@ -1,1 +1,1 @@
-var mnemonic = "team vacuum include insect cotton timber liquid space smooth awake sense release";
+var mnemonic = "differ top refuse matter film rib success organ away arm tape screen";

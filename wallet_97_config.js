@@ -1,1 +1,1 @@
-var mnemonic = "leave someone more sight royal gorilla day swear mystery more small forward";
+var mnemonic = "faith noise mimic outer web stay arrest deputy balance asthma about car";

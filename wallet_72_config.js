@@ -1,1 +1,1 @@
-var mnemonic = "about flower aerobic switch fetch belt endorse mammal energy expect earn forest";
+var mnemonic = "scrub plunge puzzle embrace scene luxury shed chicken hill segment high trophy";

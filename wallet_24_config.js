@@ -1,1 +1,1 @@
-var mnemonic = "rabbit knock spend bench food review whisper ten sting action frown night";
+var mnemonic = "rally boat video critic such sunny aunt casual shine blossom effort bulk";

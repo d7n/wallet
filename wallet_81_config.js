@@ -1,1 +1,1 @@
-var mnemonic = "today gate divide online poet power tiger friend fury carbon void child";
+var mnemonic = "enrich draw leopard metal shed ghost hawk describe dizzy object stamp fever";

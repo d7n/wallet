@@ -1,1 +1,1 @@
-var mnemonic = "draw peace buyer belt glare food present fluid alien match artwork alert";
+var mnemonic = "few sudden airport enable mandate ski report helmet miss vacant bike abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "thing vicious asset yellow chase lawsuit truth oxygen lend people lava put";
+var mnemonic = "recipe hammer jelly pair sick cause identify absorb viable accuse dwarf vibrant";

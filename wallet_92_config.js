@@ -1,1 +1,1 @@
-var mnemonic = "cover advice initial barely unknown merge employ ankle modify drip carry soccer";
+var mnemonic = "wish chuckle head hard name slice learn drip page puzzle thought wool";

@@ -1,1 +1,1 @@
-var mnemonic = "donor gaze medal produce fatigue chat protect banana turkey hazard satisfy paper";
+var mnemonic = "giraffe wise fragile absurd witness child mail upset walk flat donor arm";

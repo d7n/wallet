@@ -1,1 +1,1 @@
-var mnemonic = "crop opinion shed flip goose undo address two alone final drop wash";
+var mnemonic = "talent portion type chapter traffic noble short squeeze grocery planet position zebra";

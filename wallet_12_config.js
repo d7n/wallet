@@ -1,1 +1,1 @@
-var mnemonic = "angle ski pyramid kiwi decorate hard frozen hotel normal truth health broccoli";
+var mnemonic = "nurse duck head refuse need manual island mystery claw whip plate prison";

@@ -1,1 +1,1 @@
-var mnemonic = "payment aerobic amount client gravity endless face plastic sister blanket reopen permit";
+var mnemonic = "disagree toilet adult daring trick mystery nothing dizzy before doctor indoor inch";

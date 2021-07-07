@@ -1,1 +1,1 @@
-var mnemonic = "apart erode roof vintage master emerge include retire glove blouse blood aware";
+var mnemonic = "luxury parrot town void work truth stage crane save describe slice horse";

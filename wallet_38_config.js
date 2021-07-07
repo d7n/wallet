@@ -1,1 +1,1 @@
-var mnemonic = "supreme lobster spawn agent invest pole eagle carbon carbon trial style mouse";
+var mnemonic = "arch borrow essay dress head cabin effort cheap opinion lobster year stereo";

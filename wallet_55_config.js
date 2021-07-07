@@ -1,1 +1,1 @@
-var mnemonic = "kitten evidence local imitate lady dream crush high observe alpha duck olive";
+var mnemonic = "junior blossom million effort inflict cry broken crouch taste click file trial";

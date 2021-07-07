@@ -1,1 +1,1 @@
-var mnemonic = "sister dumb rotate join leg laundry image undo economy scrap furnace barely";
+var mnemonic = "wild toss narrow unaware snap outdoor decade kitten already duck tent present";

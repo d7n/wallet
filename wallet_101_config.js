@@ -1,1 +1,1 @@
-var mnemonic = "lesson gentle protect prison open decrease submit tilt position moment crucial digital";
+var mnemonic = "return fame donate electric trouble injury topic onion tip stumble language spice";

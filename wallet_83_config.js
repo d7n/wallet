@@ -1,1 +1,1 @@
-var mnemonic = "excite maze satoshi another urban blanket pelican olive puppy tackle defense lion";
+var mnemonic = "side cup stereo toilet crucial april once episode become supreme ice erosion";

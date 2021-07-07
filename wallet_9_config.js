@@ -1,1 +1,1 @@
-var mnemonic = "verb camera cover vague ugly curtain device hungry distance angry home timber";
+var mnemonic = "worry method erase promote together judge tent harbor moment print satisfy alcohol";

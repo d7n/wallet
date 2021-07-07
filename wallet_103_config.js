@@ -1,1 +1,1 @@
-var mnemonic = "struggle vanish degree busy winter remove census swear stone toss rack worry";
+var mnemonic = "dynamic window nut shoot country detect mesh vessel obey shrimp brief february";

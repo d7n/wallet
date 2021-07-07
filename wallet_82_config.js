@@ -1,1 +1,1 @@
-var mnemonic = "staff age nephew fox panic extend sibling produce spell beef dice photo";
+var mnemonic = "network master actor cart ensure achieve ginger elder cinnamon tail scrub apple";

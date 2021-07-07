@@ -1,1 +1,1 @@
-var mnemonic = "pigeon dignity blind cinnamon struggle rescue ribbon work census civil chest slow";
+var mnemonic = "faith jewel ribbon cake stumble anchor inside penalty pelican actor trim quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon boat bubble gasp hawk peasant excuse use pretty jaguar document faculty";
+var mnemonic = "decade target pipe leader quote marble friend picnic quantum foot chicken bunker";

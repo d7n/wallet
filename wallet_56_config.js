@@ -1,1 +1,1 @@
-var mnemonic = "grid violin taste bright whisper cry recipe menu mammal please tiger ceiling";
+var mnemonic = "wasp age attract gossip amateur wink height hard hawk leg flavor pulse";

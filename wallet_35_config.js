@@ -1,1 +1,1 @@
-var mnemonic = "beef oppose talk capital hidden outdoor shock old across crystal solid hip";
+var mnemonic = "off pepper flag ahead juice across always supreme ritual cushion prosper steel";

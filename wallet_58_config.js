@@ -1,1 +1,1 @@
-var mnemonic = "mixture cream hungry front refuse planet engine off lamp boss caution wide";
+var mnemonic = "balcony scout grit height poet click differ hand slab ten nature future";

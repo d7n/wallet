@@ -1,1 +1,1 @@
-var mnemonic = "region ordinary treat wood steak bomb ripple inhale high consider amateur stove";
+var mnemonic = "ceiling theory twin heart dignity traffic dice loud indicate try box milk";

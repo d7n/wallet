@@ -1,1 +1,1 @@
-var mnemonic = "siege alcohol butter picnic name absent under trip wonder buzz before clump";
+var mnemonic = "orphan parade nominee service inside humor obey spirit winner help window build";

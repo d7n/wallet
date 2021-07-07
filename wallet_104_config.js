@@ -1,1 +1,1 @@
-var mnemonic = "mixture there relief anchor mimic present jazz donor public fun faculty code";
+var mnemonic = "size media wine wrestle coil rib idea wet fuel traffic episode chimney";

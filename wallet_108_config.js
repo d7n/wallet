@@ -1,1 +1,1 @@
-var mnemonic = "fluid wink vital practice chapter protect burst wine wear category day entire";
+var mnemonic = "wrestle make sock polar easy act rigid unveil top crush toe mixed";

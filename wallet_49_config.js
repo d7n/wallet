@@ -1,1 +1,1 @@
-var mnemonic = "maple hat flat vital torch yellow drip manual mail salt merry evil";
+var mnemonic = "hair daughter economy dice caught card treat lock mimic damp cover forest";

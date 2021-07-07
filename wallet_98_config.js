@@ -1,1 +1,1 @@
-var mnemonic = "physical glory tourist scene wear shed across final fame novel blossom mobile";
+var mnemonic = "foil cry smooth enter girl lemon effort meat turn elephant coast lock";

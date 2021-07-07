@@ -1,1 +1,1 @@
-var mnemonic = "stadium barely prefer pair foot knee excite history senior wink rough truly";
+var mnemonic = "answer arctic wink shiver multiply odor amused mercy fever best coach protect";

@@ -1,1 +1,1 @@
-var mnemonic = "snake weather prosper coffee shine ill zoo clever stamp october song private";
+var mnemonic = "find guide lunar lesson gown fatal demand napkin post poverty shrug nominee";

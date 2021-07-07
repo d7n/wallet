@@ -1,1 +1,1 @@
-var mnemonic = "canoe drink float diary excuse mail scorpion that toe various spread artefact";
+var mnemonic = "equip menu swing arm popular limit dismiss ignore print spread paddle despair";

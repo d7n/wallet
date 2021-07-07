@@ -1,1 +1,1 @@
-var mnemonic = "umbrella priority lava destroy ten milk mass record sausage drive toddler divorce";
+var mnemonic = "credit adapt shoulder slight organ team side valve outside wreck wet okay";

@@ -1,1 +1,1 @@
-var mnemonic = "diary world puppy fire budget ancient neutral virus share inflict catalog auto";
+var mnemonic = "small half alcohol manage faculty tape margin bounce material rubber parrot grief";

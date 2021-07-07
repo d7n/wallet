@@ -1,1 +1,1 @@
-var mnemonic = "horse private bid life mask extra stem post pyramid muscle hip top";
+var mnemonic = "region gas chimney logic direct cloud venture scrub globe improve remember define";

@@ -1,1 +1,1 @@
-var mnemonic = "drill manage affair item goddess whip guitar wagon duty cherry universe diagram";
+var mnemonic = "cross copper notice tobacco round rookie organ sick tree ritual pottery lake";

@@ -1,1 +1,1 @@
-var mnemonic = "just increase stand pupil split air barrel slab submit special image region";
+var mnemonic = "viable fatal budget bamboo scissors away truck present announce daring apart state";
