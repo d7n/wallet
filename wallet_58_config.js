@@ -1,1 +1,1 @@
-var mnemonic = "napkin bunker scare lemon possible fragile over guard bonus essay palace erosion";
+var mnemonic = "together three ignore elite spend blind eager title humble pair mouse key";

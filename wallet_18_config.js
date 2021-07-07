@@ -1,1 +1,1 @@
-var mnemonic = "convince permit gasp tomorrow winter tape minor payment shift master blame learn";
+var mnemonic = "gadget pledge kind duty happy peasant purchase gaze inquiry depend bicycle sail";

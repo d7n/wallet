@@ -1,1 +1,1 @@
-var mnemonic = "spatial car release knife away drama young obscure gather chimney syrup loud";
+var mnemonic = "assault friend walnut develop caution mango fuel disease key fitness flag member";

@@ -1,1 +1,1 @@
-var mnemonic = "drama tackle upper release picnic turn welcome mystery prepare next desert sudden";
+var mnemonic = "way once spoon tuna sugar duty cycle ozone damage develop expand train";

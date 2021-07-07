@@ -1,1 +1,1 @@
-var mnemonic = "uphold ride mango super bridge pitch act smart narrow like control jar";
+var mnemonic = "disease settle debate there west paper brown goat crazy bulb agree baby";

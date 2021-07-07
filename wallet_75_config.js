@@ -1,1 +1,1 @@
-var mnemonic = "sphere transfer know enrich visual blur auto broccoli window race clay vital";
+var mnemonic = "inner either crystal pass palm sleep rabbit curious boy fine nut crumble";

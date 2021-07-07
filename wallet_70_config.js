@@ -1,1 +1,1 @@
-var mnemonic = "tuna curve swallow easy nerve slush pelican pony cheese river draw bicycle";
+var mnemonic = "knee defense marriage wrist rigid draw again once slice flag primary purity";

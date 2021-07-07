@@ -1,1 +1,1 @@
-var mnemonic = "canal share elder furnace excite unable usage better have diagram battle evoke";
+var mnemonic = "acquire neither super skin eternal engage lazy swing online target chair barely";

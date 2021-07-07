@@ -1,1 +1,1 @@
-var mnemonic = "forget cinnamon kite quality boat jump panic hurdle essence view always wedding";
+var mnemonic = "silent fish edge earth blouse forest snake assault section gloom gesture paper";

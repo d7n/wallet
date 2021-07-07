@@ -1,1 +1,1 @@
-var mnemonic = "carbon invest zero dilemma margin mansion pumpkin awful exhaust climb ginger tiger";
+var mnemonic = "want charge trouble sunset family marine word omit priority profit damage code";

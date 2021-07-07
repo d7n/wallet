@@ -1,1 +1,1 @@
-var mnemonic = "just morning rhythm outside soft cactus rather envelope best fault festival illness";
+var mnemonic = "crucial click napkin twenty road accuse dumb cave slight use baby supply";

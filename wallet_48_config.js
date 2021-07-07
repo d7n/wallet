@@ -1,1 +1,1 @@
-var mnemonic = "profit flee wisdom pair runway permit bar salon define renew fresh oil";
+var mnemonic = "impulse version cage blush seat practice middle clay fetch pilot wagon purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "like rule upgrade resemble vague client inside rice gain tip giant senior";
+var mnemonic = "rigid fan wagon front proof cycle goose curtain will curtain faith frozen";

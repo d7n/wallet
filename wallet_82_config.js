@@ -1,1 +1,1 @@
-var mnemonic = "muffin vehicle royal aerobic barely whip hand pretty dinner bind burst age";
+var mnemonic = "remain call jar silly expand echo asset wonder render auto float asthma";

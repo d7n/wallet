@@ -1,1 +1,1 @@
-var mnemonic = "panic glory champion garment kingdom injury later someone family couch grab lady";
+var mnemonic = "click dragon bottom fury cover noodle easy question meadow woman garden comfort";

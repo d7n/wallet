@@ -1,1 +1,1 @@
-var mnemonic = "switch faint window rose spoil peasant rifle prepare spare sick fame motion";
+var mnemonic = "fit foster upon write ring finger aisle polar actress toilet code flee";

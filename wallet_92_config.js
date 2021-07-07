@@ -1,1 +1,1 @@
-var mnemonic = "spirit tube brush melody define give family jump enhance chicken spare license";
+var mnemonic = "mom print more example tissue foil fiscal add road become capital quality";

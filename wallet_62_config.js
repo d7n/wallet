@@ -1,1 +1,1 @@
-var mnemonic = "swallow kiwi retreat place radar fold flower leisure wrong dirt bracket next";
+var mnemonic = "satisfy hover cause grief shallow faith beef photo torch such actual swim";

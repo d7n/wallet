@@ -1,1 +1,1 @@
-var mnemonic = "tuition fox have wheat ticket woman butter copy flock divert auction parent";
+var mnemonic = "police cruise twist whip nice indicate tooth jaguar melody vendor juice zero";

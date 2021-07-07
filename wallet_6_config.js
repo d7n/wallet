@@ -1,1 +1,1 @@
-var mnemonic = "multiply profit cliff defense scatter twelve suit announce merry need device mosquito";
+var mnemonic = "violin electric picnic start foam false trust chronic lyrics tree okay intact";

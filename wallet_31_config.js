@@ -1,1 +1,1 @@
-var mnemonic = "shaft fringe beauty frown rug figure gold abstract wagon inspire tenant supreme";
+var mnemonic = "rescue quarter coin source rule size game paddle number top often bullet";

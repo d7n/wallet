@@ -1,1 +1,1 @@
-var mnemonic = "rival agree seven culture endorse mix orchard pave staff jazz reveal length";
+var mnemonic = "miracle electric nation lake siege diet burden solar guard hire coil length";

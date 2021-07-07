@@ -1,1 +1,1 @@
-var mnemonic = "amazing force lava salt often virtual mind hold history ordinary tell shuffle";
+var mnemonic = "regular expire already private flat interest convince gate enjoy jelly adapt neglect";

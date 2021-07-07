@@ -1,1 +1,1 @@
-var mnemonic = "cover fall veteran attract analyst business buyer type bunker gauge mistake bronze";
+var mnemonic = "waste cream addict choose actress group keen mosquito loyal report gallery play";

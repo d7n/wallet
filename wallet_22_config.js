@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow anxiety blanket engine friend fall topic obey again mercy profit habit";
+var mnemonic = "design other income confirm tenant student cousin find always judge candy must";

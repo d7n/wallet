@@ -1,1 +1,1 @@
-var mnemonic = "upgrade provide cross collect undo field swing fame weather number day emerge";
+var mnemonic = "genuine inquiry foster mammal sweet ramp flavor coconut helmet maze music drop";

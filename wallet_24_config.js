@@ -1,1 +1,1 @@
-var mnemonic = "burden honey vibrant collect couch lawsuit glow art flat talk erupt sheriff";
+var mnemonic = "water vivid ostrich coach faculty learn sing spy nice other onion business";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb game thank caution friend output equip blur heavy talk lock reveal";
+var mnemonic = "what tower shoe nest grunt audit dumb lecture light enforce tired occur";

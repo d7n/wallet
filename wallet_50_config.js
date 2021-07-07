@@ -1,1 +1,1 @@
-var mnemonic = "flag want room already chest describe allow myself fix shrimp kitchen elbow";
+var mnemonic = "hint post silk cruel maple pipe artist quick upon item cake rain";

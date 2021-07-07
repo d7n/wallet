@@ -1,1 +1,1 @@
-var mnemonic = "stomach lava appear blouse engine mail cliff gold talent athlete rescue mule";
+var mnemonic = "receive social aerobic capable giggle hold truly prefer butter twist summer build";

@@ -1,1 +1,1 @@
-var mnemonic = "better gaze nation conduct perfect typical clutch buddy dirt rigid olympic supreme";
+var mnemonic = "joy educate know depart gorilla genuine enough warm essence ensure miracle flight";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt raven banner practice fiscal tower snap mail equal want require gauge";
+var mnemonic = "key wheel organ thought dolphin industry unaware box system foster useful crush";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol forward donate horror stone news raw clever sunny theme hammer chef";
+var mnemonic = "shock outer crowd hybrid acid story air cabin giggle expand weasel spin";

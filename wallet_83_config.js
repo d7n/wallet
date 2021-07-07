@@ -1,1 +1,1 @@
-var mnemonic = "obey envelope upgrade program chicken legal first run glance dance illegal manual";
+var mnemonic = "major match father chest fee modify sunset way boil occur seven mandate";

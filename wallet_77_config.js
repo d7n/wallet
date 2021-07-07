@@ -1,1 +1,1 @@
-var mnemonic = "crazy grain stock net acoustic material ignore ankle hurry defy size ensure";
+var mnemonic = "option oppose rotate cabin scheme robust call strong pattern history cute chest";

@@ -1,1 +1,1 @@
-var mnemonic = "wave giggle expect close gift inch manage merge era brother grocery explain";
+var mnemonic = "teach enough carbon liquid vast fiber magic squeeze kit federal galaxy hello";

@@ -1,1 +1,1 @@
-var mnemonic = "agree draft behind man donkey thrive moment delay athlete bargain ostrich subject";
+var mnemonic = "sock motor future satisfy spawn wisdom someone coast cave output unit choose";

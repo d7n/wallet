@@ -1,1 +1,1 @@
-var mnemonic = "waste donor buzz clay task oil tired swift have enemy nature old";
+var mnemonic = "panther pilot idea journey typical able awesome keep bonus cloud machine leopard";

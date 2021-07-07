@@ -1,1 +1,1 @@
-var mnemonic = "blouse police together verb riot slide sausage exit inject accident water valve";
+var mnemonic = "over love pet deny funny business chef case candy donkey service wrist";

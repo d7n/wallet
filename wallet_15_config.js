@@ -1,1 +1,1 @@
-var mnemonic = "ask guard mountain bracket comic rule firm spring black figure course forest";
+var mnemonic = "lion tumble usual cattle board found frame work viable voice memory honey";

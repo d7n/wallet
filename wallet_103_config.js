@@ -1,1 +1,1 @@
-var mnemonic = "grocery bread depend bulb intact resemble elephant lamp capable car solid evil";
+var mnemonic = "enable trumpet goddess lesson movie minute wild sudden want better discover ecology";

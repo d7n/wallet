@@ -1,1 +1,1 @@
-var mnemonic = "island spoil critic solid knock forget scare cereal coffee unable setup congress";
+var mnemonic = "bless stay honey maid velvet cargo patch acoustic brave voice tourist innocent";

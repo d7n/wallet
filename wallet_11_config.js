@@ -1,1 +1,1 @@
-var mnemonic = "message nest rib simple yard cream nuclear truly wonder sugar height tomorrow";
+var mnemonic = "choose husband since slot snake few average fit bracket liquid build promote";

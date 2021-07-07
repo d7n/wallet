@@ -1,1 +1,1 @@
-var mnemonic = "tooth beauty tissue peasant feel bounce sponsor general recall kiss funny duck";
+var mnemonic = "disorder volcano essay defense universe smart have snow supreme panel mind crash";

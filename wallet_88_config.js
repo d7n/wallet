@@ -1,1 +1,1 @@
-var mnemonic = "gain crush other comfort aerobic vote balance twelve travel milk aware program";
+var mnemonic = "able ocean giraffe smile dish chief ring left radio century song sausage";

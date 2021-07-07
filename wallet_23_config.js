@@ -1,1 +1,1 @@
-var mnemonic = "stage foster attract vendor effort donkey twist crouch frog advance bracket school";
+var mnemonic = "elder glimpse hundred empty later various quarter talent betray beach gorilla invest";

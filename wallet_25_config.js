@@ -1,1 +1,1 @@
-var mnemonic = "confirm flat unhappy vague spike finger burger cinnamon tell reason output jewel";
+var mnemonic = "jacket surround future marriage bubble submit fury wise father intact alien usual";

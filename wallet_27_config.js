@@ -1,1 +1,1 @@
-var mnemonic = "winter loan alien churn believe explain jacket miracle infant meat physical license";
+var mnemonic = "ensure ensure drastic reflect feed wrist struggle prize mosquito pudding gauge mammal";

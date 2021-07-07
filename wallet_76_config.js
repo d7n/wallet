@@ -1,1 +1,1 @@
-var mnemonic = "deer blossom chunk sunset adult future want bar open large matrix exit";
+var mnemonic = "skirt attend zebra ladder correct base there text hundred pluck various shoot";

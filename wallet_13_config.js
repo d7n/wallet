@@ -1,1 +1,1 @@
-var mnemonic = "acid abstract shadow code home furnace timber still power second olympic tortoise";
+var mnemonic = "ahead ocean feature airport fog live derive holiday myth puzzle cash organ";

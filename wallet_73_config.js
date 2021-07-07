@@ -1,1 +1,1 @@
-var mnemonic = "menu pass holiday kid alter current guess page link fever coffee cherry";
+var mnemonic = "hen tornado knee young ability clarify six suspect mother ramp pause fitness";

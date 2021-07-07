@@ -1,1 +1,1 @@
-var mnemonic = "shift discover burst bargain warm damp unknown mutual actress multiply jar ecology";
+var mnemonic = "broccoli evoke strong kidney orbit tag pledge quote volume uniform lens upper";

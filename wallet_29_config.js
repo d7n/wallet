@@ -1,1 +1,1 @@
-var mnemonic = "safe approve shrimp exercise allow add cake prosper couch tiger push thank";
+var mnemonic = "rural toddler margin either quote bright citizen domain wise stool final post";

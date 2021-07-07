@@ -1,1 +1,1 @@
-var mnemonic = "phrase half rotate citizen mechanic force cheap embody club glare pioneer oval";
+var mnemonic = "lesson tornado inherit spatial invest isolate woman suffer nice bless square puppy";

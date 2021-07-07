@@ -1,1 +1,1 @@
-var mnemonic = "ceiling spirit grief nose remove wonder tunnel cage twelve rebel rack armed";
+var mnemonic = "suffer scheme sword fruit blade wealth unknown february resemble laptop floor kitchen";

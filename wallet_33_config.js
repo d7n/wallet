@@ -1,1 +1,1 @@
-var mnemonic = "final sell merge crop warrior unaware element bracket use actress repeat involve";
+var mnemonic = "torch resemble anger run whisper doll cost lemon sphere enact appear fuel";

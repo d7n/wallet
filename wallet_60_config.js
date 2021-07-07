@@ -1,1 +1,1 @@
-var mnemonic = "visual menu grab muffin clutch parrot drive plastic border tiger zebra parent";
+var mnemonic = "reveal thrive ocean teach limit fruit bullet dust protect hospital opinion train";

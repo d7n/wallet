@@ -1,1 +1,1 @@
-var mnemonic = "lend asthma original absent network outside alien wool weasel field scrap point";
+var mnemonic = "cave below enough eagle pony spin twin nest match unknown fabric interest";

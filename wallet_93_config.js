@@ -1,1 +1,1 @@
-var mnemonic = "lock trade magnet cereal timber pony talk ozone trip trade mandate brief";
+var mnemonic = "audit grief dumb inform proud space spatial raccoon addict company song hospital";

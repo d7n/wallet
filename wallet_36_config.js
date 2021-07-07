@@ -1,1 +1,1 @@
-var mnemonic = "pull quote choice rare thrive cousin market wheat profit wine country air";
+var mnemonic = "invite plate spray comic acid spatial illness dog plunge enhance diamond pioneer";

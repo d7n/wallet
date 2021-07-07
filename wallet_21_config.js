@@ -1,1 +1,1 @@
-var mnemonic = "thumb fabric chimney review sign crystal clown base oppose elegant sausage beauty";
+var mnemonic = "coyote family champion logic intact garden way average note supply wasp access";

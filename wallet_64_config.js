@@ -1,1 +1,1 @@
-var mnemonic = "stone skull frame foil soda heart buddy actual annual frequent account bulk";
+var mnemonic = "index exchange learn obvious butter federal antique tourist human peanut absent void";

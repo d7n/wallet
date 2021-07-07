@@ -1,1 +1,1 @@
-var mnemonic = "keep bone spend weather wedding bright wagon evolve skill plastic ramp collect";
+var mnemonic = "ship bread hole park term pilot rapid bacon kid basic please curious";

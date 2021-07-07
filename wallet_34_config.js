@@ -1,1 +1,1 @@
-var mnemonic = "script alien remain rally material adult ahead cake begin lumber bag canvas";
+var mnemonic = "hover saddle absorb bottom leave afford online write sudden rubber brisk inspire";

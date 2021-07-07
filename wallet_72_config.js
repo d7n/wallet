@@ -1,1 +1,1 @@
-var mnemonic = "pride sausage section pumpkin pony anchor treat either pen visa accident type";
+var mnemonic = "prefer now measure nothing cover demise network sail toe buyer rice squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology agent oil razor change file autumn axis giraffe powder piano head";
+var mnemonic = "defy bubble ankle core coyote current digital health dream left indicate addict";

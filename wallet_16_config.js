@@ -1,1 +1,1 @@
-var mnemonic = "beauty fan steel result punch kitchen amused skirt famous nose simple grocery";
+var mnemonic = "wish raccoon approve round crystal either shy judge mosquito guess bench filter";

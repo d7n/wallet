@@ -1,1 +1,1 @@
-var mnemonic = "junk any lucky ripple fork connect celery impact slice purpose tiny start";
+var mnemonic = "finger until reason measure legal above floor embrace cricket naive sock cat";

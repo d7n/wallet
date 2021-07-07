@@ -1,1 +1,1 @@
-var mnemonic = "primary please horror summer kiwi pretty year dismiss school develop quantum infant";
+var mnemonic = "pulp muffin dizzy matter knock total neutral tornado galaxy pupil edit twice";

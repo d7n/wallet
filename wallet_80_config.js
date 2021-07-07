@@ -1,1 +1,1 @@
-var mnemonic = "retire design coyote stove father vibrant bus bracket embody accuse rubber nominee";
+var mnemonic = "fresh seven enter debris depart festival bullet excess copy glove garbage exclude";

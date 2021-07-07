@@ -1,1 +1,1 @@
-var mnemonic = "gallery spawn talk worry girl current panel kiwi maple mesh fortune hover";
+var mnemonic = "card attitude opera decline advance earth argue distance arch crane client vague";

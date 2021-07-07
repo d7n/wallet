@@ -1,1 +1,1 @@
-var mnemonic = "dragon detect identify fork clever slot cause frown mean artist future prevent";
+var mnemonic = "diagram select exact youth inner tattoo devote soul table hundred cube slush";

@@ -1,1 +1,1 @@
-var mnemonic = "hello high add baby ocean right wine what write tribe bus high";
+var mnemonic = "notable actual over shield extra ball card silly lobster walnut rack use";

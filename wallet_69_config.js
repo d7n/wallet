@@ -1,1 +1,1 @@
-var mnemonic = "deputy anxiety easily earn distance exercise hour cave time hour egg mail";
+var mnemonic = "core smoke toddler sniff jealous yellow menu offer income nasty adapt layer";

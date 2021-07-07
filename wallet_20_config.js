@@ -1,1 +1,1 @@
-var mnemonic = "mixed quit dose alter quit figure illness rug divert shed village skill";
+var mnemonic = "style federal parrot crowd skill blur carbon hub desk bench student crucial";

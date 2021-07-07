@@ -1,1 +1,1 @@
-var mnemonic = "funny plastic express panda another team assault cry fringe torch border stuff";
+var mnemonic = "energy detail cloth occur zero wear pride concert defense ramp honey vital";

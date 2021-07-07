@@ -1,1 +1,1 @@
-var mnemonic = "suggest neither silent select melt usual task minor lounge delay earth baby";
+var mnemonic = "gauge raise kick thing vessel one lonely legend churn orbit inherit december";

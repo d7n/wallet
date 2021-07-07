@@ -1,1 +1,1 @@
-var mnemonic = "chalk butter skill sword pool sing then dune prosper champion cash engage";
+var mnemonic = "reward enforce bargain era spirit expose humble satisfy lizard easy merry practice";

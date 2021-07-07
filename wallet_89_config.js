@@ -1,1 +1,1 @@
-var mnemonic = "coach derive method glare road illness daughter awkward eyebrow coral panda company";
+var mnemonic = "tool fury hedgehog motor dune green total option question funny anger hip";

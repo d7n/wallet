@@ -1,1 +1,1 @@
-var mnemonic = "glow tube deer finish attract piece tray street inflict hockey knife parade";
+var mnemonic = "desert bargain silver emotion ten spoil owner book shiver scrub raise where";

@@ -1,1 +1,1 @@
-var mnemonic = "seven sugar awful lend explain bundle celery reveal trial year public square";
+var mnemonic = "option venue open flag alcohol grunt asset film soccer pledge decline heart";

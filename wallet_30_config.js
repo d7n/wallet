@@ -1,1 +1,1 @@
-var mnemonic = "lunar decrease hawk matrix mutual tent neutral jewel brick reject give trigger";
+var mnemonic = "fork engine amazing make midnight foil basket shop cactus fire much decade";

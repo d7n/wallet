@@ -1,1 +1,1 @@
-var mnemonic = "life enough blood boring solid protect debate frequent ginger style bridge census";
+var mnemonic = "wreck easily own cereal social settle group exercise tell web soap vehicle";

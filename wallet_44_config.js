@@ -1,1 +1,1 @@
-var mnemonic = "soldier search gauge column turkey slot caught pluck another seat retreat face";
+var mnemonic = "empower liquid artist lesson situate truck fish vibrant tattoo blame brisk rigid";

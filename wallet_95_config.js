@@ -1,1 +1,1 @@
-var mnemonic = "chuckle tennis mother lunch merry cloth assume push begin buyer steak voyage";
+var mnemonic = "nominee base mutual pumpkin whisper lend moment hamster orbit warfare spice trash";

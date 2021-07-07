@@ -1,1 +1,1 @@
-var mnemonic = "bag program energy tissue side vicious shell orange pill output culture inside";
+var mnemonic = "seven agent october open ripple firm fence shiver photo slice man visa";

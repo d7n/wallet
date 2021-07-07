@@ -1,1 +1,1 @@
-var mnemonic = "enjoy assume radar bind whisper pulp family miracle grow crunch once middle";
+var mnemonic = "soap music unable skirt picture axis marriage hard behave whisper fragile dream";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate notice diagram carry coffee hold abuse rubber skirt shuffle cart smooth";
+var mnemonic = "they canal unit hard that left defy deliver private skirt uncle position";

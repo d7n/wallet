@@ -1,1 +1,1 @@
-var mnemonic = "stable supply power spawn donkey post live anchor clock ozone predict tower";
+var mnemonic = "dress grunt describe emerge before normal security virtual tide suit sugar light";

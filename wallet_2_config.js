@@ -1,1 +1,1 @@
-var mnemonic = "oblige celery fold camera fence liberty rose cruel bicycle venue absurd inquiry";
+var mnemonic = "nuclear feature reward reason column energy anger flower diary office evil second";

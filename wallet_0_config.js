@@ -1,1 +1,1 @@
-var mnemonic = "brisk tonight lounge sustain board move wasp combine reform sustain draft replace";
+var mnemonic = "receive grace impulse bone pair file wink decrease hat happy pill february";

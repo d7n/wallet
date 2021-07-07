@@ -1,1 +1,1 @@
-var mnemonic = "must entry rack polar curious aunt multiply physical stem goddess bright sock";
+var mnemonic = "lizard rose pluck filter undo aunt sing chicken okay elegant quantum wild";

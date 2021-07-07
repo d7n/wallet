@@ -1,1 +1,1 @@
-var mnemonic = "warfare various toss demise member earn involve pig fetch essay student effort";
+var mnemonic = "bird six problem mean enact head steel rescue impact heavy flavor moon";

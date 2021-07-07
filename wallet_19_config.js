@@ -1,1 +1,1 @@
-var mnemonic = "donate crew initial end series satisfy audit seek useless body oppose cargo";
+var mnemonic = "artwork tomorrow front walk chef common orchard foot network title field empower";

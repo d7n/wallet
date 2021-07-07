@@ -1,1 +1,1 @@
-var mnemonic = "pride faint pupil bleak destroy coach movie income badge clog fortune cupboard";
+var mnemonic = "middle rug room lend spin clip dismiss erase panther approve sound pony";
