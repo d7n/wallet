@@ -1,1 +1,1 @@
-var mnemonic = "worth genuine hint ordinary audit employ ketchup over unable diary bunker top";
+var mnemonic = "among below tag crisp midnight view pepper salt midnight clog ugly envelope";

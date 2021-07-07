@@ -1,1 +1,1 @@
-var mnemonic = "tribe slice change spend post exit hill candy buddy space hamster solid";
+var mnemonic = "stock armor unit blood daring silver parent bread improve winter royal dove";

@@ -1,1 +1,1 @@
-var mnemonic = "hover universe artwork catalog bundle faint jaguar insane outside spare accident result";
+var mnemonic = "silent slam celery notable parent private female toddler corn between annual spider";

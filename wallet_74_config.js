@@ -1,1 +1,1 @@
-var mnemonic = "emerge gym tired unaware face ill uncover blade proud source first know";
+var mnemonic = "girl marriage face defy climb sight hamster transfer leave weird giraffe virus";

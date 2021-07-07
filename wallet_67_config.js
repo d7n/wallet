@@ -1,1 +1,1 @@
-var mnemonic = "tennis eager hunt episode night quiz swap burst company must middle victory";
+var mnemonic = "rich learn track brother ankle ability lend seven task position firm knock";

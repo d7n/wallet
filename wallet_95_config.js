@@ -1,1 +1,1 @@
-var mnemonic = "actual coconut dose hole accident truth album chaos veteran share stay pair";
+var mnemonic = "tide entry act jaguar rookie bench recycle autumn jacket purity rally detail";

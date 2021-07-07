@@ -1,1 +1,1 @@
-var mnemonic = "hotel stool spoon skill flash must popular dog hood extra top glue";
+var mnemonic = "seven soap divert exchange throw choice involve speak enemy yard inmate clerk";

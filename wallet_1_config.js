@@ -1,1 +1,1 @@
-var mnemonic = "clinic random bid rough badge host better sort air brush hold accuse";
+var mnemonic = "dragon beauty culture reveal rhythm nice parent airport weapon spoil kind skill";

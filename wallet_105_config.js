@@ -1,1 +1,1 @@
-var mnemonic = "observe scout reopen interest name chair tonight affair brush confirm group submit";
+var mnemonic = "equal device solution gospel lawsuit fade coffee become pigeon salt window produce";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual salute ridge copy shrimp rapid mechanic stool shallow goddess render goose";
+var mnemonic = "echo delay slogan admit fitness fluid combine toss peasant action coil punch";

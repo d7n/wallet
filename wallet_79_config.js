@@ -1,1 +1,1 @@
-var mnemonic = "large sunny one shaft catch buddy congress once spirit usage camera feature";
+var mnemonic = "absurd analyst edit tell share foster vocal certain negative jelly bullet clerk";

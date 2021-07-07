@@ -1,1 +1,1 @@
-var mnemonic = "rough piano extra rack capital point window punch object travel album crumble";
+var mnemonic = "catch kite tobacco remove board skirt clump end usual near oyster gas";

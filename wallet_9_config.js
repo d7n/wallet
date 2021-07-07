@@ -1,1 +1,1 @@
-var mnemonic = "year search chronic undo tape science erode skirt crumble session jar youth";
+var mnemonic = "wagon ball wedding retire actress flame base husband caution amount song feature";

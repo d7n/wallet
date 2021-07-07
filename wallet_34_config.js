@@ -1,1 +1,1 @@
-var mnemonic = "gas token baby image crime maid awful lucky depth stable ticket maple";
+var mnemonic = "gather energy tell math wonder pioneer present concert response repeat sound margin";

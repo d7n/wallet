@@ -1,1 +1,1 @@
-var mnemonic = "because arrow spoil bread slice what noodle script bird rate what file";
+var mnemonic = "route industry warfare enlist finish bid twin father weasel twice rigid sausage";

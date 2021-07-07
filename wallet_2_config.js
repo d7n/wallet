@@ -1,1 +1,1 @@
-var mnemonic = "romance copy sentence excite common learn feature scheme please renew brass vote";
+var mnemonic = "shoe art donkey excite address sting start knife size two angry sight";

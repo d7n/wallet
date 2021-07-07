@@ -1,1 +1,1 @@
-var mnemonic = "few morning kidney party diesel curtain match ghost radar surface drama cross";
+var mnemonic = "shift picnic luxury merry grunt worth kiss wool wine buffalo happy asthma";

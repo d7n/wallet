@@ -1,1 +1,1 @@
-var mnemonic = "service peanut conduct damage asset april swear kid bar ivory grass prevent";
+var mnemonic = "abstract noise stable melt purpose ball clever library three lend weird travel";

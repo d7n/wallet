@@ -1,1 +1,1 @@
-var mnemonic = "forum poverty someone record envelope ride skull throw retreat birth expect viable";
+var mnemonic = "beef plug pledge betray alarm wear lottery immense world popular raven lumber";

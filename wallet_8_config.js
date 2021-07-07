@@ -1,1 +1,1 @@
-var mnemonic = "twist cage rich door accuse curve pencil travel prepare robust uphold boost";
+var mnemonic = "skill hair foam critic cash knock torch route flip rent truck long";

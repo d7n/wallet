@@ -1,1 +1,1 @@
-var mnemonic = "trust section raw affair want rely dynamic series enrich dutch rule area";
+var mnemonic = "ring give leg hard change easily news gospel oven orange fat height";

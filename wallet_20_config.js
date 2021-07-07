@@ -1,1 +1,1 @@
-var mnemonic = "goddess absurd voyage diagram clean cook bread myth drip picnic mixture grief";
+var mnemonic = "breeze giggle become remove category jewel goddess valid sustain board bone yard";

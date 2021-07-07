@@ -1,1 +1,1 @@
-var mnemonic = "material oval multiply worry eye hollow auto crazy gospel few verb neutral";
+var mnemonic = "virus prevent bless gorilla table fan beyond beef axis slot gallery kangaroo";

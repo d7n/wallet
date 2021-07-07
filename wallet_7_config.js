@@ -1,1 +1,1 @@
-var mnemonic = "across tobacco ten sauce child unable reward tomorrow stuff coyote hammer shy";
+var mnemonic = "affair health lawn car shiver leader illness wrap miracle retreat crucial involve";

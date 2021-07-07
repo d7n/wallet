@@ -1,1 +1,1 @@
-var mnemonic = "bone walnut hurt admit glance promote first powder plunge response lunar worry";
+var mnemonic = "style card copper logic feature vocal erupt rural glad fun memory south";

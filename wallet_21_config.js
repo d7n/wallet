@@ -1,1 +1,1 @@
-var mnemonic = "unfair injury foil earth million club boat lens warm group aisle impact";
+var mnemonic = "bundle report letter arch salmon script heart behave inform swarm dolphin accuse";

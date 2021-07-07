@@ -1,1 +1,1 @@
-var mnemonic = "loud ancient horror midnight february glue indicate bind urban good tattoo hobby";
+var mnemonic = "goose glory height group tuna tomorrow vacant river pencil birth half suspect";

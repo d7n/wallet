@@ -1,1 +1,1 @@
-var mnemonic = "dance hungry river reform reveal solution neglect isolate spot cause gadget merry";
+var mnemonic = "expect couple amateur surround thing garden review patient rural stock brain churn";

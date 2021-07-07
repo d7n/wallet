@@ -1,1 +1,1 @@
-var mnemonic = "flip water month tuna witness dolphin critic prize fresh wink dentist tag";
+var mnemonic = "emerge angle pulp crack scout credit ocean hockey network beyond explain cheese";

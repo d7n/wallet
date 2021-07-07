@@ -1,1 +1,1 @@
-var mnemonic = "six hidden rookie heavy balcony smooth believe nerve long maid ankle destroy";
+var mnemonic = "bring erosion that stock flush mind people muscle render similar range awake";

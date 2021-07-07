@@ -1,1 +1,1 @@
-var mnemonic = "matter chaos rare steel bracket asthma subway next gown photo perfect plug";
+var mnemonic = "begin once candy enter minor firm identify carry ordinary junior orbit other";

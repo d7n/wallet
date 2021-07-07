@@ -1,1 +1,1 @@
-var mnemonic = "fresh often wear drama poverty glance crime sick demise liquid side example";
+var mnemonic = "bright broom drink wash offer cupboard fiction inquiry organ small benefit fire";

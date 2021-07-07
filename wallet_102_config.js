@@ -1,1 +1,1 @@
-var mnemonic = "hidden poverty reward cave notable prison trumpet sketch abuse embody autumn clutch";
+var mnemonic = "silent element coin magnet render develop rebel broken diamond actual review tank";

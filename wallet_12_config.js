@@ -1,1 +1,1 @@
-var mnemonic = "mosquito marble machine pioneer taxi saddle exhaust pupil rhythm artwork interest vault";
+var mnemonic = "isolate domain mystery type brother feel pave ripple weekend convince rail attend";

@@ -1,1 +1,1 @@
-var mnemonic = "type sadness clerk dumb inside bottom lawn citizen still intact purchase grunt";
+var mnemonic = "awesome kind provide glad infant mother connect erupt arctic fiction industry wisdom";

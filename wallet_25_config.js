@@ -1,1 +1,1 @@
-var mnemonic = "sketch quiz burger crawl margin suffer disease wife tennis broccoli tunnel alley";
+var mnemonic = "issue biology armor finger stomach limit noble welcome attitude yellow able art";

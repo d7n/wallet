@@ -1,1 +1,1 @@
-var mnemonic = "grain audit velvet useful ridge dog width bomb meat enjoy notice knock";
+var mnemonic = "drive inspire you lemon spell shallow custom soft mail zoo acid capable";

@@ -1,1 +1,1 @@
-var mnemonic = "limb render duty rack road drama forest donor flower brand pyramid rate";
+var mnemonic = "gym clever now long focus title fit bring famous weasel charge oval";

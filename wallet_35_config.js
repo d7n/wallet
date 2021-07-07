@@ -1,1 +1,1 @@
-var mnemonic = "desk grass rich museum surprise release piano predict inner child flash corn";
+var mnemonic = "kite annual argue option quote birth carpet advance casual slide flag frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut cake sight dolphin gate secret license gallery now swear wish flip";
+var mnemonic = "april infant fish gravity dinosaur energy doctor inside dune kick embrace when";

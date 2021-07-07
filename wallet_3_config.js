@@ -1,1 +1,1 @@
-var mnemonic = "dry ship gas word extra mule switch cruel cool there squirrel drop";
+var mnemonic = "weather drill cinnamon gas guide sun tattoo food furnace mule tribe industry";

@@ -1,1 +1,1 @@
-var mnemonic = "board another mechanic drastic inflict pioneer stem amused scare section such curtain";
+var mnemonic = "safe humble author actor crowd virus caught use chapter wear deny version";

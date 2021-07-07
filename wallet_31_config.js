@@ -1,1 +1,1 @@
-var mnemonic = "educate recipe skin foster split youth series text return script lonely dentist";
+var mnemonic = "indicate gun winner dish broom toe position fox trade guess erupt claw";

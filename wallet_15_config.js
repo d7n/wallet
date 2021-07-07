@@ -1,1 +1,1 @@
-var mnemonic = "evil prison deny pottery path super example payment explain depart number cricket";
+var mnemonic = "adapt detail toward melt soup behind actor castle mutual butter social spirit";

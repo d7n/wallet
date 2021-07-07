@@ -1,1 +1,1 @@
-var mnemonic = "invite size purse shock skill duty battle creek magic baby anchor tennis";
+var mnemonic = "because zero little tribe viable track stone wonder enact march priority actor";

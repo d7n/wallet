@@ -1,1 +1,1 @@
-var mnemonic = "live use fragile distance allow prevent beauty because bread olympic stock ready";
+var mnemonic = "album dose suggest lobster wheat rebel install rural curve cancel circle citizen";

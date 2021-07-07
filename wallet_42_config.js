@@ -1,1 +1,1 @@
-var mnemonic = "deputy smooth wait inflict tumble lazy meat vibrant hold whip various recycle";
+var mnemonic = "diet step neither praise clarify plate once copper cause coyote reason clock";

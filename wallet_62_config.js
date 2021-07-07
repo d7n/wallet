@@ -1,1 +1,1 @@
-var mnemonic = "duck despair reveal amused cruel bargain now absorb simple shoulder thumb valid";
+var mnemonic = "teach survey latin jeans argue neglect film hello evidence economy endorse chronic";

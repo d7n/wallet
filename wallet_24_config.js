@@ -1,1 +1,1 @@
-var mnemonic = "denial remain clog flower involve volcano spatial turkey fiscal load steak bicycle";
+var mnemonic = "fiber text deny trumpet night whisper label pilot tumble motion execute debate";

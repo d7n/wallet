@@ -1,1 +1,1 @@
-var mnemonic = "nature bless black burger verify payment dolphin undo primary fine what design";
+var mnemonic = "host already own sing media elegant enroll there era combine bicycle crack";

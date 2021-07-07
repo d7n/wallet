@@ -1,1 +1,1 @@
-var mnemonic = "frost jungle valve pen kite stereo advice apology horn autumn banana celery";
+var mnemonic = "feed yard cute broken bomb concert borrow decide often include combine edge";

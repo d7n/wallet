@@ -1,1 +1,1 @@
-var mnemonic = "vague ankle call ketchup tuna brother chapter width roof rubber sight artefact";
+var mnemonic = "brief double festival duty offer nasty furnace rhythm width lion chief route";

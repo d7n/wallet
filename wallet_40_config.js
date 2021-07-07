@@ -1,1 +1,1 @@
-var mnemonic = "mountain blood fox infant future plastic eight view zebra sustain resist palm";
+var mnemonic = "divert curve bless armed mirror mass motor pluck copper champion catalog balance";

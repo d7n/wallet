@@ -1,1 +1,1 @@
-var mnemonic = "huge there neck fiber avoid large sentence spend spot fan exotic embrace";
+var mnemonic = "page credit anchor apple grace brass brown father lunar garlic reject miss";

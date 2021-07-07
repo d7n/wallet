@@ -1,1 +1,1 @@
-var mnemonic = "refuse detail atom hurdle beach gather control sword across sample horse melt";
+var mnemonic = "awkward aunt inherit ask logic finish detail battle candy robust collect congress";

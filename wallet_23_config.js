@@ -1,1 +1,1 @@
-var mnemonic = "slice discover guilt federal minimum neutral asset swear brown else faculty verb";
+var mnemonic = "income creek return hope luxury road fish shift suggest income poverty ticket";

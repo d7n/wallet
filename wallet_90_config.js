@@ -1,1 +1,1 @@
-var mnemonic = "core dust ginger wet autumn wing donkey lecture security salon submit cinnamon";
+var mnemonic = "want hobby explain search fitness current relax dish wolf inflict amused wild";

@@ -1,1 +1,1 @@
-var mnemonic = "fury dress vote arm item bounce office unaware control ten travel blanket";
+var mnemonic = "place idea scene country plate caution ripple clip stick elite deer then";

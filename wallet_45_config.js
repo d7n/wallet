@@ -1,1 +1,1 @@
-var mnemonic = "person swamp bulk silver quit addict sock sniff chronic hidden icon badge";
+var mnemonic = "tourist squirrel wage input twist drink punch just pepper gain now valley";

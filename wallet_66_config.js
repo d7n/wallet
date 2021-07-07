@@ -1,1 +1,1 @@
-var mnemonic = "else helmet enlist rural march fuel spice cotton help celery wild light";
+var mnemonic = "hammer student harvest choose car depart cattle pause parrot awful bulk promote";

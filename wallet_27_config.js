@@ -1,1 +1,1 @@
-var mnemonic = "field resist orchard female lyrics inspire capital grab pigeon action cover crazy";
+var mnemonic = "zero board road wealth hub toe pole genre climb barely absorb rely";

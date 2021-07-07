@@ -1,1 +1,1 @@
-var mnemonic = "sorry kick fix physical spring apple car uphold abandon donate enhance foam";
+var mnemonic = "foster sea kick young spring torch engage balance damp year spice exist";

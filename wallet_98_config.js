@@ -1,1 +1,1 @@
-var mnemonic = "sample fee during tourist alarm orchard make radio property tail reveal spice";
+var mnemonic = "review income height pepper rate stairs alter add cushion rule enjoy famous";

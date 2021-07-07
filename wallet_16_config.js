@@ -1,1 +1,1 @@
-var mnemonic = "mule insect suit flock guilt crack pulp prison want derive steak range";
+var mnemonic = "double inflict guide carry girl mule south flavor eager gauge used seven";

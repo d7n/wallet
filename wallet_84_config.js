@@ -1,1 +1,1 @@
-var mnemonic = "connect defense affair repeat skin find unlock century plastic swamp uncle chuckle";
+var mnemonic = "cycle bulk pledge chunk anger cup invite now festival output all country";

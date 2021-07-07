@@ -1,1 +1,1 @@
-var mnemonic = "lunch zebra say misery milk dilemma recycle author nest radar suspect order";
+var mnemonic = "neutral name bullet roof scatter fashion hamster rebel forward pill episode test";

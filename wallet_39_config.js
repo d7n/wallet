@@ -1,1 +1,1 @@
-var mnemonic = "plate uncle empty exist dial cluster adjust ask fault noodle drastic raven";
+var mnemonic = "high prevent visa assume unknown emotion obvious ramp describe violin sport deny";

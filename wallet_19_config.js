@@ -1,1 +1,1 @@
-var mnemonic = "trumpet logic coach egg tissue muscle funny inject often pipe payment net";
+var mnemonic = "lion rain render giggle good beef entire empower father width survey message";

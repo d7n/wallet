@@ -1,1 +1,1 @@
-var mnemonic = "scatter biology rack rabbit arrow warfare language woman fox maze sweet pitch";
+var mnemonic = "royal hurry refuse fossil damp arrange fiscal expect about cactus priority clap";

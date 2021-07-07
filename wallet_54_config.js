@@ -1,1 +1,1 @@
-var mnemonic = "else flower diesel denial vibrant snack thunder accident eyebrow bag slogan cousin";
+var mnemonic = "day warfare melt improve exclude artist gas describe poverty arm possible draw";

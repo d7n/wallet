@@ -1,1 +1,1 @@
-var mnemonic = "mother churn situate video horror isolate night census armor odor legal round";
+var mnemonic = "job mammal casual pause crisp snap ocean wrist diary wire guilt update";

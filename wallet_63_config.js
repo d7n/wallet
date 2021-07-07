@@ -1,1 +1,1 @@
-var mnemonic = "symbol shuffle embody candy shop pigeon situate filter such acoustic hold torch";
+var mnemonic = "shell pulse pride method report seven define kitchen horn true sketch armed";

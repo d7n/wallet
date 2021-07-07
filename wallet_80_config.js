@@ -1,1 +1,1 @@
-var mnemonic = "bomb combine flag wish shiver dinner bring syrup august frequent million identify";
+var mnemonic = "limb tonight rather extra over feature three hurt proud awesome degree stamp";

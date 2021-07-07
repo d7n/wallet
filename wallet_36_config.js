@@ -1,1 +1,1 @@
-var mnemonic = "people top length protect page impose spoon color property warm crazy crystal";
+var mnemonic = "mobile level move south merit ankle reveal bonus city cloud vivid harbor";

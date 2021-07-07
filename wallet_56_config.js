@@ -1,1 +1,1 @@
-var mnemonic = "amount rubber horse grass runway tomato invest smart tooth away remind pelican";
+var mnemonic = "frequent derive say swallow sunny regret bag loop long room comfort wall";

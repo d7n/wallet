@@ -1,1 +1,1 @@
-var mnemonic = "into elbow hammer chest artist buzz voice foam nation moment purpose cliff";
+var mnemonic = "arrange engine design embark health top vehicle gather property beauty garlic celery";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer mutual where sniff hockey obscure bonus hamster inquiry process proof kit";
+var mnemonic = "brother point bomb album oppose open endorse appear script box vault purpose";

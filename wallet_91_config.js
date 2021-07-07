@@ -1,1 +1,1 @@
-var mnemonic = "arch differ panic blush system mix settle worth give velvet company runway";
+var mnemonic = "worth index half describe talent hover try oblige february steel solar oblige";

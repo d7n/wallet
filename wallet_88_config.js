@@ -1,1 +1,1 @@
-var mnemonic = "human sail donate doctor nose salute client tube olympic scissors essence segment";
+var mnemonic = "gasp scissors tail situate country thought fatal chalk rebuild hope zero process";

@@ -1,1 +1,1 @@
-var mnemonic = "panel region copy remind code wild force inject famous guide sweet silly";
+var mnemonic = "glue two gloom toe business artwork assist scatter depart scissors zone sense";

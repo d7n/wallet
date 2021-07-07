@@ -1,1 +1,1 @@
-var mnemonic = "pig cat ship spirit cook grass subject winter chalk verify pepper waste";
+var mnemonic = "trim mushroom emerge state vacuum raven pond sport biology cat detail bicycle";

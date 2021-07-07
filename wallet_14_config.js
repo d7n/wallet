@@ -1,1 +1,1 @@
-var mnemonic = "still guess tilt rebel transfer assume quality comic seven seat omit solution";
+var mnemonic = "ramp flat transfer verb follow urge oppose soldier blame grid awkward curve";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure mesh caution horror figure luxury palace chase scout clap priority walk";
+var mnemonic = "price car pool law bid bonus raccoon decide muffin wish surge special";
