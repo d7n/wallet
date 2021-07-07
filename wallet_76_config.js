@@ -1,1 +1,1 @@
-var mnemonic = "yard shoe blame settle alert chat blue once reflect verify cage advice";
+var mnemonic = "kid melt cause hybrid nation stuff element churn hover flower limb usual";

@@ -1,1 +1,1 @@
-var mnemonic = "opera pair news major obvious provide lab sight cloud share beef length";
+var mnemonic = "grocery where share two plug banana hawk seat stove resist crater music";

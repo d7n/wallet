@@ -1,1 +1,1 @@
-var mnemonic = "garden random join august snow involve acquire fade scare forest lock bird";
+var mnemonic = "taste sunset endorse love observe torch balance satisfy bar urge magic siege";

@@ -1,1 +1,1 @@
-var mnemonic = "joy spatial perfect goose evidence require funny song favorite trouble recall hobby";
+var mnemonic = "vendor announce short mass treat resource secret wage shoe oppose country eyebrow";

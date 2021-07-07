@@ -1,1 +1,1 @@
-var mnemonic = "swift company spare veteran royal illness sniff sun random address sail fluid";
+var mnemonic = "brain wide empower rigid woman zoo fresh village hood fortune jaguar oil";

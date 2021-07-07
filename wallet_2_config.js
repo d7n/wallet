@@ -1,1 +1,1 @@
-var mnemonic = "health car trash unaware actual deal process gasp wagon vicious matter fitness";
+var mnemonic = "scale put minimum enemy kitchen negative base holiday onion ask stove addict";

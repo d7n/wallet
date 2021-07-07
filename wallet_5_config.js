@@ -1,1 +1,1 @@
-var mnemonic = "powder easily feed sauce quit run upset goose train tiger endless warrior";
+var mnemonic = "brush picture ugly fresh voyage leg south hobby enemy grass abstract heart";

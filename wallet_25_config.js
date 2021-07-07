@@ -1,1 +1,1 @@
-var mnemonic = "gravity ranch enact suspect announce romance rare clerk position web kid among";
+var mnemonic = "pink true april milk orange review crumble ill drip clay opera divert";

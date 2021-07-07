@@ -1,1 +1,1 @@
-var mnemonic = "share garden often muffin tip mercy february seminar rubber skate disorder job";
+var mnemonic = "notice father market health today actor impulse ride case kite blood melody";

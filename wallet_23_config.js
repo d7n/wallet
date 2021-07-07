@@ -1,1 +1,1 @@
-var mnemonic = "appear brother question hidden expand tomato farm shed eye orchard rely master";
+var mnemonic = "setup help excess start trash wood walnut cancel pistol man two short";

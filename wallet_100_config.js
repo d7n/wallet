@@ -1,1 +1,1 @@
-var mnemonic = "leaf ensure layer outer eight wood always night near sting pledge faint";
+var mnemonic = "iron idea sheriff popular purpose earth friend easily eyebrow exile blouse buzz";

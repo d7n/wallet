@@ -1,1 +1,1 @@
-var mnemonic = "february extra come mandate oblige creek where suspect auction laundry expand glory";
+var mnemonic = "bomb clerk soap size recipe say pony silver stool excuse atom again";

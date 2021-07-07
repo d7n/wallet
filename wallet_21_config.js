@@ -1,1 +1,1 @@
-var mnemonic = "husband proof silly tired undo attitude museum derive social maze assault woman";
+var mnemonic = "ramp erosion climb fall waste hand model scissors dose carpet action grocery";

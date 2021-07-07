@@ -1,1 +1,1 @@
-var mnemonic = "defy snap calm mirror output arrive federal steak coconut gun split double";
+var mnemonic = "multiply swap favorite type room suggest wrestle legend cream glimpse someone fork";

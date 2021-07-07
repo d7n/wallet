@@ -1,1 +1,1 @@
-var mnemonic = "manual mechanic amused shift begin essence room sign hope earn stamp cover";
+var mnemonic = "razor tortoise uncle firm high excuse wish blast question shock loop slight";

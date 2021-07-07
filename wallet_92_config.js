@@ -1,1 +1,1 @@
-var mnemonic = "audit gallery old worth fly indoor puppy music napkin update grit choose";
+var mnemonic = "afford write nerve similar taxi army couple enrich maze file chapter cool";

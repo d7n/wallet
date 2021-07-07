@@ -1,1 +1,1 @@
-var mnemonic = "illegal alert swallow noodle rigid flat lottery when path turn manual element";
+var mnemonic = "stamp hole film family clump level use giraffe symbol mosquito spin iron";

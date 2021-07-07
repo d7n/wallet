@@ -1,1 +1,1 @@
-var mnemonic = "organ fork keep rent cactus senior enact column chalk lab spy sniff";
+var mnemonic = "report trouble jealous knife upper antique deliver senior worth ignore claim title";

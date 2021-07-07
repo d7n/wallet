@@ -1,1 +1,1 @@
-var mnemonic = "mansion task snap satisfy term hockey fantasy analyst black donor carbon chimney";
+var mnemonic = "crop smart soap rotate sick equal extend emotion federal timber share mammal";

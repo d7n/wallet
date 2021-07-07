@@ -1,1 +1,1 @@
-var mnemonic = "mesh harvest eagle dolphin group melt critic glad family feature cargo process";
+var mnemonic = "mention arrange title lonely sure scene agent stomach labor rug hair prison";

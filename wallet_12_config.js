@@ -1,1 +1,1 @@
-var mnemonic = "install pitch pepper upon monster maple favorite text addict fix girl ceiling";
+var mnemonic = "endless flip dream stereo record dish month armor wait female oyster estate";

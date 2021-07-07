@@ -1,1 +1,1 @@
-var mnemonic = "program brain stay citizen orbit play excuse push sadness scrap nominee indicate";
+var mnemonic = "inflict puppy acoustic ill march spice fruit emotion suspect salmon orphan stick";

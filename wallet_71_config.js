@@ -1,1 +1,1 @@
-var mnemonic = "north accuse curtain welcome sand burst very smooth tone switch adjust response";
+var mnemonic = "own awesome always guess object else risk rebuild unfold guard kitten payment";

@@ -1,1 +1,1 @@
-var mnemonic = "mention tragic hotel regret bridge spoil inject forward across ladder search frown";
+var mnemonic = "bounce subway rough festival long exchange laugh trophy memory basket pottery abandon";

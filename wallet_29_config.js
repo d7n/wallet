@@ -1,1 +1,1 @@
-var mnemonic = "borrow enemy trial parrot name dove orbit number animal height winner mango";
+var mnemonic = "theory dizzy winter subject mention broom spin knee lawsuit piece giant satoshi";

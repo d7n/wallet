@@ -1,1 +1,1 @@
-var mnemonic = "scare maple client invest library genius aerobic foot fringe target vague elegant";
+var mnemonic = "lobster mutual proud slender hand spring vocal average invest extra ready topic";

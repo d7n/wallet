@@ -1,1 +1,1 @@
-var mnemonic = "unknown chat drum adapt gain pond loan close vintage luxury bridge few";
+var mnemonic = "swear country evoke output describe sick sunset core mask swear erosion unknown";

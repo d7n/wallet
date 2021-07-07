@@ -1,1 +1,1 @@
-var mnemonic = "trip barely square pledge rib voyage forward ugly forward high powder volume";
+var mnemonic = "ask pact jar fossil idle brass valley book damage census goose violin";

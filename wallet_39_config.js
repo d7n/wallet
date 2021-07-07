@@ -1,1 +1,1 @@
-var mnemonic = "churn hard twin artwork core glad chase utility similar sister peanut measure";
+var mnemonic = "swing gauge isolate other stand fence kangaroo pipe father voice advance music";

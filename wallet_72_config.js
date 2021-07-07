@@ -1,1 +1,1 @@
-var mnemonic = "present salad peace face battle barrel jungle feature business friend clinic budget";
+var mnemonic = "blood sock black sure million offer fat lady shaft morning vintage alter";

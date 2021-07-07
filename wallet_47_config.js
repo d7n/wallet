@@ -1,1 +1,1 @@
-var mnemonic = "orchard expire vacuum elite book nose couch bicycle prefer slender special march";
+var mnemonic = "fruit stone ethics gym verb smoke zoo cycle weekend then host leave";

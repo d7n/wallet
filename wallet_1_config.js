@@ -1,1 +1,1 @@
-var mnemonic = "item kangaroo notice cannon make flavor nephew spike wear abandon glory erode";
+var mnemonic = "still flat duck donkey crystal female world hand curious hospital saddle response";

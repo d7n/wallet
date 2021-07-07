@@ -1,1 +1,1 @@
-var mnemonic = "reveal clinic athlete answer burst sock grape hundred artist kiwi garage potato";
+var mnemonic = "upper music notice twist puppy cigar high flight service guilt rifle cabbage";

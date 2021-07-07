@@ -1,1 +1,1 @@
-var mnemonic = "intact situate market dust quit husband critic inspire once mad session bounce";
+var mnemonic = "hamster spice calm rib shed metal remind kingdom sunny auto produce jaguar";

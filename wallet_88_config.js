@@ -1,1 +1,1 @@
-var mnemonic = "ugly drink planet fork level into ordinary paddle issue tonight evoke polar";
+var mnemonic = "scene private advance town order silent garment payment suggest happy rebuild depth";

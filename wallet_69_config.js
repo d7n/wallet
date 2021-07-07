@@ -1,1 +1,1 @@
-var mnemonic = "collect divorce plunge steel exact plunge zoo cycle grocery spend photo other";
+var mnemonic = "will hour embrace gas cement vintage fiction okay fiction mirror pole allow";

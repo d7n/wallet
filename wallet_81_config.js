@@ -1,1 +1,1 @@
-var mnemonic = "steel soap random arrow spell goat pencil beyond praise movie void shallow";
+var mnemonic = "vote consider celery curtain shine gasp pistol plastic example exercise vast cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "frog chaos quality lecture worry grain avoid entry plastic buffalo salon crater";
+var mnemonic = "visa arrow clay solve derive puppy pelican follow tool inside badge online";

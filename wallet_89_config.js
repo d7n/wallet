@@ -1,1 +1,1 @@
-var mnemonic = "toe tiger style double sketch apart all list behind moment saddle despair";
+var mnemonic = "census plunge catch defense purity boss gap neck weird this phrase stone";

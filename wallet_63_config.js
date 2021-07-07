@@ -1,1 +1,1 @@
-var mnemonic = "calm benefit addict visual yard brain search subway hire resource tackle doll";
+var mnemonic = "walk sort vibrant solution jungle matter scene about refuse type match budget";

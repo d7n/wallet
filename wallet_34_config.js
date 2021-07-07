@@ -1,1 +1,1 @@
-var mnemonic = "install inject suggest order bird wait embrace pattern envelope nerve cage hand";
+var mnemonic = "flavor tower tuna expose gloom marine walk outside tobacco success wild dirt";

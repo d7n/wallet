@@ -1,1 +1,1 @@
-var mnemonic = "lunar lunch similar disease hurt creek mandate limb screen across include begin";
+var mnemonic = "transfer slow diagram proud script loan mushroom left struggle few guitar merry";

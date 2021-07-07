@@ -1,1 +1,1 @@
-var mnemonic = "video wish please build between fury spot buddy recall letter manual silly";
+var mnemonic = "antique senior toe blossom position laundry venture mercy dove real family custom";

@@ -1,1 +1,1 @@
-var mnemonic = "final proof section habit smart clarify effort hood chimney battle exact alley";
+var mnemonic = "program comic festival hundred sunset spy pledge banana unable enjoy grit actor";

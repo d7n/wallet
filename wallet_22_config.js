@@ -1,1 +1,1 @@
-var mnemonic = "decorate lemon series envelope text proud casual proof amazing salute pioneer parade";
+var mnemonic = "survey neck move arrow punch crime car unlock network screen exit subject";

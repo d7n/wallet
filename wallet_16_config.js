@@ -1,1 +1,1 @@
-var mnemonic = "turkey mosquito glory poet gap seminar when daring youth foster stairs globe";
+var mnemonic = "rotate auction easy describe divert inside night regret trouble across desk acoustic";

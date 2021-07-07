@@ -1,1 +1,1 @@
-var mnemonic = "often boat clarify used squeeze nurse hurdle spell metal history pink episode";
+var mnemonic = "enhance siege quit opera enlist blue pizza radar balcony tank carbon kite";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra bomb grid marriage pole negative caution during reason speed ill alone";
+var mnemonic = "divert toward vault erode label cabbage luxury pupil rival visa valid draw";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit rather predict tissue share number amazing develop cheese bronze ahead tackle";
+var mnemonic = "heart neck alert neutral agent elegant push neck flip wisdom despair price";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy action beyond strong antique lady hope genre ice monkey frame rebel";
+var mnemonic = "test chalk portion fruit void kid cancel lobster wrong hammer blast action";

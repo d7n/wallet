@@ -1,1 +1,1 @@
-var mnemonic = "tank cool pistol gym fiscal control maximum scan state swift try oak";
+var mnemonic = "reveal record afford tuna cinnamon two science ridge zoo language play laugh";

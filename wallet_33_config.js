@@ -1,1 +1,1 @@
-var mnemonic = "tape garden toy destroy stand destroy cabbage alcohol space skin company boost";
+var mnemonic = "anxiety vital clown leg foster favorite quantum wire catch need arrow leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "dress crush this kit girl infant around oblige mass addict sleep lizard";
+var mnemonic = "include cup debris mean unique tennis lucky bridge lonely govern match globe";

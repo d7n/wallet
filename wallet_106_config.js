@@ -1,1 +1,1 @@
-var mnemonic = "evoke sphere tired valid sell fan holiday mushroom amateur mesh donkey swap";
+var mnemonic = "minimum glimpse enable cute enforce glass library cheese parent jealous consider spoon";

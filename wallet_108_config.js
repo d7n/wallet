@@ -1,1 +1,1 @@
-var mnemonic = "grain initial supreme wrestle when grocery wise giggle dress swap lady annual";
+var mnemonic = "behave enough reopen moment job belt alcohol quiz noble metal ritual when";

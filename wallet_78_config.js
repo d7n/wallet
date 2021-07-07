@@ -1,1 +1,1 @@
-var mnemonic = "dance captain unfold theory robot actual demise good sense chef erupt museum";
+var mnemonic = "math stove search poem horn fly flee fork cook melody hollow tomorrow";

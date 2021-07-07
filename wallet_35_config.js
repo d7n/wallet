@@ -1,1 +1,1 @@
-var mnemonic = "amused approve trust parade tobacco swear yard absorb insect eyebrow primary woman";
+var mnemonic = "pulp search diet shy rapid nest helmet fire option stand since cruise";

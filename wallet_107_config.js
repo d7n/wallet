@@ -1,1 +1,1 @@
-var mnemonic = "gym deliver knife rescue unfold since exit diamond arena wrist close appear";
+var mnemonic = "near forward place common hen coyote ask alter broccoli lift rice promote";

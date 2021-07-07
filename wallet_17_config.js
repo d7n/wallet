@@ -1,1 +1,1 @@
-var mnemonic = "wish lyrics dumb network upgrade rate expire among depth upset earth sure";
+var mnemonic = "fire town public when tent elder text eyebrow lazy bleak capital turtle";

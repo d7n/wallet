@@ -1,1 +1,1 @@
-var mnemonic = "grid pelican clerk doll lumber such differ goose rule whale record antenna";
+var mnemonic = "fitness again peanut huge mutual simple resemble blade moment first bundle gift";

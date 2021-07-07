@@ -1,1 +1,1 @@
-var mnemonic = "muffin observe cry canyon lady sick giant planet tuna voice account monster";
+var mnemonic = "height deposit disagree empty federal message kind craft drop seek sock surge";

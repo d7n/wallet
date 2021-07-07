@@ -1,1 +1,1 @@
-var mnemonic = "then attend token fetch scrap comfort raw occur wink fine satisfy cook";
+var mnemonic = "equip cheese imitate burden term option token hold pelican prevent quote forest";

@@ -1,1 +1,1 @@
-var mnemonic = "food wasp length limb width vendor worth recycle lawsuit flag agent fiscal";
+var mnemonic = "mercy rough dash spoon evoke excuse actress chaos monkey jealous pond action";

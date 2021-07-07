@@ -1,1 +1,1 @@
-var mnemonic = "rebuild kite apart industry broken below seven example dress milk impulse goddess";
+var mnemonic = "fee tornado firm barely author sister water abuse mass leaf rebel profit";

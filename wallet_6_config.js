@@ -1,1 +1,1 @@
-var mnemonic = "accuse clean shine subject total name urge often inner brand ask valve";
+var mnemonic = "sunny program glare infant derive exclude perfect pelican garment eight next trim";

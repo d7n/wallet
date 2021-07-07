@@ -1,1 +1,1 @@
-var mnemonic = "dune armed fold joke fancy cycle refuse average dignity maple leaf beef";
+var mnemonic = "rally inform spirit process impulse can thought force kangaroo scare rain load";

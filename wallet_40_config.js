@@ -1,1 +1,1 @@
-var mnemonic = "stay stone evidence future explain electric sweet birth close receive finish sheriff";
+var mnemonic = "armor damage fabric comic book asthma erupt bring payment garlic room prepare";

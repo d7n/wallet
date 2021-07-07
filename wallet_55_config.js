@@ -1,1 +1,1 @@
-var mnemonic = "borrow churn frown total raven grass scheme matter tooth narrow acoustic burst";
+var mnemonic = "yellow ugly language foam rotate spin naive better old certain coconut brother";

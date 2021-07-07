@@ -1,1 +1,1 @@
-var mnemonic = "shadow raise uncover invest female boss proof remove improve bargain bike quick";
+var mnemonic = "lens situate process spray often major power fossil whisper chalk brush sorry";

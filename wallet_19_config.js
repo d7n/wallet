@@ -1,1 +1,1 @@
-var mnemonic = "indoor zoo rubber screen repair hurt chimney about memory orient tilt dynamic";
+var mnemonic = "marine fiscal genuine rent atom hello boost mammal secret cover much debris";

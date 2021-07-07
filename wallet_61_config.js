@@ -1,1 +1,1 @@
-var mnemonic = "cabin diesel brief announce dentist combine ketchup answer matrix buddy car slow";
+var mnemonic = "crisp obscure plug fit rare humble original brave medal switch slow system";

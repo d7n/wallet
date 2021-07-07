@@ -1,1 +1,1 @@
-var mnemonic = "defense pool gas park bright carpet gadget bright key skirt accuse art";
+var mnemonic = "setup climb false theory gain choice put trophy hat rally extend bunker";

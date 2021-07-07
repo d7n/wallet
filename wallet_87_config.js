@@ -1,1 +1,1 @@
-var mnemonic = "labor kingdom oil able waste million option combine pledge run parrot cram";
+var mnemonic = "flavor shock iron buffalo true scatter brass error dash work adjust talent";

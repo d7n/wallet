@@ -1,1 +1,1 @@
-var mnemonic = "current soft kingdom steak tongue poverty velvet method leopard simple fever correct";
+var mnemonic = "wing weird name faith innocent latin chimney valve glass cover matter dose";

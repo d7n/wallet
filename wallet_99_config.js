@@ -1,1 +1,1 @@
-var mnemonic = "crucial century sun assault card poverty bar bus seminar auction used input";
+var mnemonic = "dune anxiety orbit uncover salad pizza base exist seed office try fluid";

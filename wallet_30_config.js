@@ -1,1 +1,1 @@
-var mnemonic = "napkin omit real chunk adapt weasel donor employ soccer unfold video initial";
+var mnemonic = "feed depart shield bundle embody output shrug caught artist canvas obey congress";

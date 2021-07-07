@@ -1,1 +1,1 @@
-var mnemonic = "prison scissors race bicycle amateur excess blast snake educate arm illegal finish";
+var mnemonic = "huge model indoor slight defense orchard company item reopen antenna dismiss unusual";

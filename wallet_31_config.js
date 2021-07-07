@@ -1,1 +1,1 @@
-var mnemonic = "universe neck atom liquid embody final paddle puzzle boat proud ocean clarify";
+var mnemonic = "tribe portion artefact invite leopard volcano rude orbit typical general you impose";

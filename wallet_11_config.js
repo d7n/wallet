@@ -1,1 +1,1 @@
-var mnemonic = "affair idle guitar lift giggle strong laptop alien program cancel brother wise";
+var mnemonic = "wide guard anxiety valley rival stem protect derive sustain crisp grocery health";

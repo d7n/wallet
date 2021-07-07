@@ -1,1 +1,1 @@
-var mnemonic = "field where resist gospel firm what gasp game labor cause ivory common";
+var mnemonic = "image alcohol midnight tobacco steak network soda kangaroo scorpion style mosquito pear";

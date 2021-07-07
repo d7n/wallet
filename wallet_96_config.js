@@ -1,1 +1,1 @@
-var mnemonic = "fatigue nerve injury stone ridge same favorite ready rabbit depth hat stadium";
+var mnemonic = "toe hope welcome mango usual seven column imitate apology gadget key slice";

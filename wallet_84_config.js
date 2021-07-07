@@ -1,1 +1,1 @@
-var mnemonic = "solve knee spider joy grief stand culture off north awful candy crush";
+var mnemonic = "outdoor session say right sound horror latin barrel slow valley biology hip";

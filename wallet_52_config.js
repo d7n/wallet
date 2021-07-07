@@ -1,1 +1,1 @@
-var mnemonic = "royal element card badge local frequent siren paper deer chase chuckle rally";
+var mnemonic = "bubble garlic absorb expose unable tongue lottery flee slender couch spin message";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze simple caution reduce flush trouble assault raven place divorce nerve impact";
+var mnemonic = "wage grab cherry pact chest long fatal magnet umbrella prepare agree unit";

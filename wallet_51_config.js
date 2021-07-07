@@ -1,1 +1,1 @@
-var mnemonic = "budget wheat lemon kiwi gentle rabbit follow surprise foster solid speed season";
+var mnemonic = "climb purpose candy wait august mushroom lady frog staff where mouse area";

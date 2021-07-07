@@ -1,1 +1,1 @@
-var mnemonic = "uphold fun summer nerve team truck ocean another bacon knife pair friend";
+var mnemonic = "skill club cross unhappy end street verb leader between slogan column onion";

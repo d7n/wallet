@@ -1,1 +1,1 @@
-var mnemonic = "cigar cube drastic depth apple swing bargain blossom city jewel expect apart";
+var mnemonic = "voyage chief guard ride surprise equal essay grunt grass capable purse slice";

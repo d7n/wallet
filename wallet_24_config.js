@@ -1,1 +1,1 @@
-var mnemonic = "avocado document dash tuna love butter annual chef idle unique grab hungry";
+var mnemonic = "narrow frequent wisdom slim require capable laundry card turn knee disagree merry";

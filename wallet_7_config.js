@@ -1,1 +1,1 @@
-var mnemonic = "mention supply impulse example clown deal common fabric endorse motor theme fruit";
+var mnemonic = "stereo profit menu service film permit steel because people kite victory royal";

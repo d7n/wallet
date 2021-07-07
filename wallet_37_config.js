@@ -1,1 +1,1 @@
-var mnemonic = "river purity home cloth friend spice opera muscle weekend mom cook erode";
+var mnemonic = "short saddle initial blast nothing saddle february metal erase dinner push syrup";

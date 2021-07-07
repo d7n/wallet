@@ -1,1 +1,1 @@
-var mnemonic = "few recycle dolphin antique theory net inform phrase embark save reopen parrot";
+var mnemonic = "polar rely perfect include primary drastic soccer pear believe garage happy whisper";

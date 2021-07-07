@@ -1,1 +1,1 @@
-var mnemonic = "order spring mechanic demise alpha town habit ship credit artist cost renew";
+var mnemonic = "street floor actress excuse candy daring card option carry legal staff feature";

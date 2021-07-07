@@ -1,1 +1,1 @@
-var mnemonic = "pencil beef pony indoor brief badge year vote patient tube assist attitude";
+var mnemonic = "square ensure asthma cave tent liar verify divide finish gift supreme lonely";
