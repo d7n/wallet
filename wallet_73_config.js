@@ -1,1 +1,1 @@
-var mnemonic = "proud balance era evidence magnet hen climb raccoon butter seven deer bridge";
+var mnemonic = "seed hood movie spirit harbor van situate analyst pink ladder spoon boost";

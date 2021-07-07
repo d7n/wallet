@@ -1,1 +1,1 @@
-var mnemonic = "artist upon brown cheese left fix chef cruise brain clown hamster skin";
+var mnemonic = "route stumble act paddle critic palace message present tonight energy cube ripple";

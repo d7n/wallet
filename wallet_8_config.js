@@ -1,1 +1,1 @@
-var mnemonic = "stairs awkward process kidney engage square denial much hammer volcano glove frog";
+var mnemonic = "initial rather reveal swap cup convince supply raise unique opera skin way";

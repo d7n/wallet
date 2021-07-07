@@ -1,1 +1,1 @@
-var mnemonic = "vapor slow owner trip popular popular child satoshi input stick choice canoe";
+var mnemonic = "battle useful enough leopard forum affair spy safe vanish veteran fork ready";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp yard duck ritual glue cup embark conduct control neck clerk cinnamon";
+var mnemonic = "ceiling blue clip giggle funny notice castle jewel about path zone legal";

@@ -1,1 +1,1 @@
-var mnemonic = "friend dynamic shop wedding action huge feature fan auto shock trade hero";
+var mnemonic = "toast beyond match grain case seat tuna sleep velvet unfold invite cause";

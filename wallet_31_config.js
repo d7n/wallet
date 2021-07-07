@@ -1,1 +1,1 @@
-var mnemonic = "alert same lend atom choose pig lion collect casual purity screen misery";
+var mnemonic = "fit measure similar connect first coffee lyrics bring endorse distance catch enjoy";

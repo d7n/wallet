@@ -1,1 +1,1 @@
-var mnemonic = "cram bar wine ridge worth girl where flash impulse mechanic atom soup";
+var mnemonic = "verb injury gloom thought bounce change ginger cycle shift satisfy legal common";

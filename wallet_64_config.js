@@ -1,1 +1,1 @@
-var mnemonic = "shuffle nest mansion view trend frozen eagle pride confirm inmate lift choice";
+var mnemonic = "control feature action process north save hour render shrimp remind weekend thank";

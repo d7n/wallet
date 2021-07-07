@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon then muscle slide fabric move maximum carry exotic galaxy garden walnut";
+var mnemonic = "drastic keen sweet top leg empty february produce one balcony pear benefit";

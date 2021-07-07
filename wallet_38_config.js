@@ -1,1 +1,1 @@
-var mnemonic = "gap arctic burden normal term usual image acid anxiety sentence tribe random";
+var mnemonic = "type palace kit alley jar solar snow sausage vendor doll gasp thing";

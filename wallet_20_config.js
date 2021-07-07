@@ -1,1 +1,1 @@
-var mnemonic = "marine enable expect use width piano choice head judge lizard abuse monkey";
+var mnemonic = "hard zebra outer frequent about connect tide pelican fold copper exclude world";

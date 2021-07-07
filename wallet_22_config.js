@@ -1,1 +1,1 @@
-var mnemonic = "crop police program debate share pig history impose claim chuckle vanish hen";
+var mnemonic = "adjust kite purchase shaft differ position drill where hold cheap company glide";

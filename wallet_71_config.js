@@ -1,1 +1,1 @@
-var mnemonic = "filter cover few typical pencil allow inner solve retire live invite leg";
+var mnemonic = "chimney digital topic trick budget auto tennis rhythm aunt exact popular solid";

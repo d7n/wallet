@@ -1,1 +1,1 @@
-var mnemonic = "human curious trim stadium pizza need update since axis canvas retreat guilt";
+var mnemonic = "adult kingdom long report video fury cake fabric title dice dutch basic";

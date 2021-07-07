@@ -1,1 +1,1 @@
-var mnemonic = "key provide seek bullet chapter talent fix cart action fresh bridge harsh";
+var mnemonic = "acid wear pledge copy digital nasty kid arm bronze decorate crystal antique";

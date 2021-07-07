@@ -1,1 +1,1 @@
-var mnemonic = "future weird suspect harbor board ceiling anxiety cancel hello october tomorrow celery";
+var mnemonic = "danger model hub minimum dismiss color thing cart green chalk divert open";

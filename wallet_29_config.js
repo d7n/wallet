@@ -1,1 +1,1 @@
-var mnemonic = "pledge lucky cat bright actress blade silent ski lion party rapid cash";
+var mnemonic = "nest tooth memory music winter example oak mammal include giraffe luxury sleep";

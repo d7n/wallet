@@ -1,1 +1,1 @@
-var mnemonic = "picture wild sponsor mom bridge embrace sadness zero sphere vibrant attract alone";
+var mnemonic = "digital exercise cream hair super legal despair dress chimney until pattern hammer";

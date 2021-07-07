@@ -1,1 +1,1 @@
-var mnemonic = "door enhance deposit palace pink hybrid clever response left debris escape infant";
+var mnemonic = "height deliver gesture rabbit number rose bag awake shove myth sister audit";

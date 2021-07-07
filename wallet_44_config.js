@@ -1,1 +1,1 @@
-var mnemonic = "bike deputy prosper wrong effort ring load garbage fossil sword post napkin";
+var mnemonic = "auto cycle bitter update amazing sphere clinic frame frequent detail cruise across";

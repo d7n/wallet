@@ -1,1 +1,1 @@
-var mnemonic = "minimum island nothing pledge farm nerve sunny estate alarm apart balcony balcony";
+var mnemonic = "upper trial antique nice fog squeeze solution fitness evil impose tag upon";

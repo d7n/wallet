@@ -1,1 +1,1 @@
-var mnemonic = "undo orphan unfair anger combine belt auction police laptop attitude midnight satoshi";
+var mnemonic = "rookie credit master gorilla guide april seminar hurdle clock tobacco awake just";

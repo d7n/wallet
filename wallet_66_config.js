@@ -1,1 +1,1 @@
-var mnemonic = "worth grow never apart wonder hedgehog person fortune lesson obey invite display";
+var mnemonic = "spider mule want train vehicle lemon busy bus welcome crumble correct track";

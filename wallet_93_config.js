@@ -1,1 +1,1 @@
-var mnemonic = "convince grid burger mansion toy push mistake opinion surface panel ball clay";
+var mnemonic = "first small secret loud script legal bind step enrich minute build fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony antenna lesson nose relief wood mistake large crack search slush pink";
+var mnemonic = "various solution wire waste network enter flight physical chief tenant catalog else";

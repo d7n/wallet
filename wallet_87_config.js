@@ -1,1 +1,1 @@
-var mnemonic = "skull into vendor laundry bean relax super biology emotion room rifle magnet";
+var mnemonic = "extend assault hover surge parrot swarm still pony kidney eight sure trumpet";

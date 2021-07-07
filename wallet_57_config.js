@@ -1,1 +1,1 @@
-var mnemonic = "oval insane cousin develop dolphin sadness kiwi amateur chunk favorite all bubble";
+var mnemonic = "mix such harbor circle tent artefact flock rhythm dad negative lounge defy";

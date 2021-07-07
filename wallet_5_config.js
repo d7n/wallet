@@ -1,1 +1,1 @@
-var mnemonic = "shrug aerobic warfare test expose lazy language review pattern loop october left";
+var mnemonic = "cotton tired vast gap focus discover eternal captain tortoise mean amazing half";

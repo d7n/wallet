@@ -1,1 +1,1 @@
-var mnemonic = "search kid solid advice federal use march swear allow genuine book talent";
+var mnemonic = "police lemon curve dumb achieve animal swing perfect denial ring firm army";

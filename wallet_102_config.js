@@ -1,1 +1,1 @@
-var mnemonic = "volcano insect embrace renew nurse scout frame meat release tube useful cigar";
+var mnemonic = "unaware photo truth own speak hazard heart bag imitate lawsuit loop heavy";

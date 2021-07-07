@@ -1,1 +1,1 @@
-var mnemonic = "design increase sphere rather globe time captain million pupil loyal two dutch";
+var mnemonic = "marine bitter popular speed tackle sleep elevator gorilla liquid wheel exhaust detail";

@@ -1,1 +1,1 @@
-var mnemonic = "wage witness spot inform immense song warrior opera market clinic pipe credit";
+var mnemonic = "flock situate ribbon demand erode toward loyal ill favorite initial little icon";

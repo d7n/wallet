@@ -1,1 +1,1 @@
-var mnemonic = "outside attitude puzzle radar brand dismiss waste void inform spend clump second";
+var mnemonic = "dignity violin citizen gospel soda rescue song depart tent enlist weekend future";

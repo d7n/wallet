@@ -1,1 +1,1 @@
-var mnemonic = "history oval gaze oppose slogan outer invest dinner mad renew supply census";
+var mnemonic = "define eye bargain crowd thing input update word affair famous clump weather";

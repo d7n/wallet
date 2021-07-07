@@ -1,1 +1,1 @@
-var mnemonic = "banana split goose fiscal resource idea dove clip book unhappy foam ketchup";
+var mnemonic = "crunch during misery tag merry material shoe dad buffalo often onion crash";

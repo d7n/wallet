@@ -1,1 +1,1 @@
-var mnemonic = "edit paper hard champion toe wood track volcano mandate urge duty oval";
+var mnemonic = "sing alone hole suspect panther matrix guess easily settle define ugly fiber";

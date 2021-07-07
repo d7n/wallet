@@ -1,1 +1,1 @@
-var mnemonic = "host butter hungry burden perfect scissors seminar wedding search develop budget seed";
+var mnemonic = "game range slow rebel congress cost husband invite zone glory crater shed";

@@ -1,1 +1,1 @@
-var mnemonic = "post path mechanic hello party cotton start turtle accident mutual ripple pet";
+var mnemonic = "ignore suspect because control cement symbol shrug junk struggle throw reduce first";

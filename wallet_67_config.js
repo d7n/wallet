@@ -1,1 +1,1 @@
-var mnemonic = "hover laptop culture parade stamp deer diamond retreat spider butter embody whisper";
+var mnemonic = "maple dinosaur match own swift behave walnut swing pyramid visit long error";

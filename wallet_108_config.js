@@ -1,1 +1,1 @@
-var mnemonic = "wool fall robust vintage bid fresh surprise way palace craft dinner proof";
+var mnemonic = "still aim spring disagree ahead shed shed again angle crane saddle famous";

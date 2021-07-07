@@ -1,1 +1,1 @@
-var mnemonic = "order speak host dinner strategy victory work tool document salmon tiger remain";
+var mnemonic = "another bundle allow denial train impulse smile scorpion lamp history chair width";

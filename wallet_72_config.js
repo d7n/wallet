@@ -1,1 +1,1 @@
-var mnemonic = "barely first payment inflict pistol arena side panel diet monkey beef when";
+var mnemonic = "machine bag observe stable immune feed choice dinosaur quote sell notable shop";

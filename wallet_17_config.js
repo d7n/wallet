@@ -1,1 +1,1 @@
-var mnemonic = "above hood whale expand fatal woman regular turtle save play match orbit";
+var mnemonic = "animal divide sauce crowd purse butter hidden quiz tiger like evil patrol";

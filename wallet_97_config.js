@@ -1,1 +1,1 @@
-var mnemonic = "soccer such move deliver secret upper guess chaos cargo teach luxury judge";
+var mnemonic = "priority witness aim fix embark hello blossom detail castle assume address three";

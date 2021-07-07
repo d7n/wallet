@@ -1,1 +1,1 @@
-var mnemonic = "code rocket bonus strike squirrel oxygen manage science twice garlic arch charge";
+var mnemonic = "void achieve demise gallery camera anxiety december wealth vague notable case occur";

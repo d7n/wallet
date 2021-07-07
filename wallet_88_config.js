@@ -1,1 +1,1 @@
-var mnemonic = "muffin daring biology govern era gas float raven punch bundle address reform";
+var mnemonic = "true cart month utility canyon upset burger come hire always end coil";

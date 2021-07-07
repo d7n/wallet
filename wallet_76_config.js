@@ -1,1 +1,1 @@
-var mnemonic = "fashion sunset struggle endless south solve cruise awake select easy cheese object";
+var mnemonic = "inquiry valve inject near unit much slim govern cruel trigger climb attitude";

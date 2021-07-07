@@ -1,1 +1,1 @@
-var mnemonic = "sword couch deputy garment aisle moon goat photo tunnel mouse frown island";
+var mnemonic = "perfect honey roof trick page shock jealous split spike play limit orient";

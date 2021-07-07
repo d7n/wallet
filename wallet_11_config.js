@@ -1,1 +1,1 @@
-var mnemonic = "travel stick dream breeze shield addict where robot dumb popular brass sheriff";
+var mnemonic = "mushroom bid normal pill hungry shiver into orange trial spare check noble";

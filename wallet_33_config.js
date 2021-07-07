@@ -1,1 +1,1 @@
-var mnemonic = "thumb crouch drop taste float season illness impulse liquid pair dolphin tragic";
+var mnemonic = "mother life lobster cluster elite change reflect rookie bracket youth clerk absorb";

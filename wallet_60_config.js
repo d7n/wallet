@@ -1,1 +1,1 @@
-var mnemonic = "gain angle fetch proud stool fish void fatigue memory keep try retire";
+var mnemonic = "dream pet physical fitness kitten mind kiss bullet merge sausage purchase convince";

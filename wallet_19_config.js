@@ -1,1 +1,1 @@
-var mnemonic = "skull blind leg gym depend discover risk stamp life chuckle chaos skirt";
+var mnemonic = "save birth history anger feed lunch width spend oxygen canoe eager adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "seed joke sibling garlic south weird topple feel copy word nothing easy";
+var mnemonic = "wrist roof oyster fossil control hand indoor twice surround upon depend solution";

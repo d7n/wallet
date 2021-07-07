@@ -1,1 +1,1 @@
-var mnemonic = "end margin surprise inflict they quantum awesome coast more seat crisp sheriff";
+var mnemonic = "extend brother change mad yard leg tornado wage access injury rebel someone";

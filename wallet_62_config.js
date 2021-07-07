@@ -1,1 +1,1 @@
-var mnemonic = "barely sudden hire predict direct cement derive finish fitness absent bubble sort";
+var mnemonic = "replace snow luggage twelve abstract ivory child sample hamster common camp myth";

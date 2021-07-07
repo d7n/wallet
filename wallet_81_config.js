@@ -1,1 +1,1 @@
-var mnemonic = "waste latin core coyote merge coral praise used shell smart roof habit";
+var mnemonic = "initial twenty clown oppose indicate start finger humble hole vapor degree spin";

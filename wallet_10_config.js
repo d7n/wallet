@@ -1,1 +1,1 @@
-var mnemonic = "vital horror adapt funny sibling doll brown decrease rug ankle wealth hover";
+var mnemonic = "start control cave pizza orient pair divide tragic point material lucky theory";

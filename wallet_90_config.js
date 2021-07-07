@@ -1,1 +1,1 @@
-var mnemonic = "stable diary bread rug exhaust modify feel alley will shrimp fiber stay";
+var mnemonic = "grid arrange screen friend defy dinner immune spy three mix skirt sort";

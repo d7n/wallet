@@ -1,1 +1,1 @@
-var mnemonic = "extend little valve horror frame later rate pilot month cool divide mutual";
+var mnemonic = "emerge garden swamp keen smoke patrol mistake fiscal half poet sword injury";

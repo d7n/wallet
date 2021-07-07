@@ -1,1 +1,1 @@
-var mnemonic = "bid dance resist result gather sibling live frame raccoon bachelor cherry theory";
+var mnemonic = "wedding neither wild worth exclude lunar spot ship cliff staff peace oppose";

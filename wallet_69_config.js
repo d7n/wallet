@@ -1,1 +1,1 @@
-var mnemonic = "hub life rice girl bag stock rookie relax mixed march fame debris";
+var mnemonic = "senior offer hazard purity danger castle dilemma human elevator below borrow clerk";

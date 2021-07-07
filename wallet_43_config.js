@@ -1,1 +1,1 @@
-var mnemonic = "weekend social inmate fragile tank oval bundle banner trumpet exist kiss open";
+var mnemonic = "sudden embrace gather today push weird plastic dove again fever horse peasant";

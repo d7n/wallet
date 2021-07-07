@@ -1,1 +1,1 @@
-var mnemonic = "catalog moon occur useful legend practice property fancy inner use subject spike";
+var mnemonic = "virus ice giraffe rug drift youth ritual glow oak tip miss claw";

@@ -1,1 +1,1 @@
-var mnemonic = "fire salt rubber brown tooth puzzle disease grant can denial control vehicle";
+var mnemonic = "vacant bone ivory size claw defense huge giraffe hockey dove rapid mushroom";

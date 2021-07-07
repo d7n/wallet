@@ -1,1 +1,1 @@
-var mnemonic = "soft metal clown leopard arrive bundle season copy train pilot boring smart";
+var mnemonic = "group park cost veteran exist merry staff busy check card prize amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "empty pond match morning quick yard supply enrich emerge core oyster purpose";
+var mnemonic = "brief stay oxygen fabric remind faculty chase rally record gas wreck legal";

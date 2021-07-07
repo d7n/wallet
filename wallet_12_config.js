@@ -1,1 +1,1 @@
-var mnemonic = "damp ostrich number lazy add situate child fee garden menu east reason";
+var mnemonic = "orange crawl mammal nose inform gold stock reject snap heart miss grain";

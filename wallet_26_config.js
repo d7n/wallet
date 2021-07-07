@@ -1,1 +1,1 @@
-var mnemonic = "actor whisper burst gadget okay river secret elite know reform absorb cliff";
+var mnemonic = "metal sunset wire install pet confirm pledge vicious crisp laundry rescue car";

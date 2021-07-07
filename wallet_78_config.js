@@ -1,1 +1,1 @@
-var mnemonic = "early carpet earth salmon today blade salmon frozen mistake wheat super rail";
+var mnemonic = "put elite senior pulp brown blanket screen sheriff urge gauge execute quiz";

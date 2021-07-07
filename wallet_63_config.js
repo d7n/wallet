@@ -1,1 +1,1 @@
-var mnemonic = "crash calm when holiday taste kiss empower ten talent appear tobacco skull";
+var mnemonic = "excite close alone general owner coach champion bamboo index survey skin tape";

@@ -1,1 +1,1 @@
-var mnemonic = "vague gadget kick identify route various flee knock goddess culture student table";
+var mnemonic = "nest require soft large scale hover slush trophy country little exhibit oven";

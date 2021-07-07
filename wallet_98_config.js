@@ -1,1 +1,1 @@
-var mnemonic = "approve tissue language doll beach pulp edge purpose slot chief chunk joy";
+var mnemonic = "report husband visit swallow frown little hockey curious antenna ability upon celery";

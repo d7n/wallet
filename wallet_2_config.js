@@ -1,1 +1,1 @@
-var mnemonic = "bamboo giggle pass awesome brother oblige strike oil output purity casual talent";
+var mnemonic = "bomb exotic cram brother push guide duck solar switch digital blossom team";

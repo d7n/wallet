@@ -1,1 +1,1 @@
-var mnemonic = "modify glare trigger pizza smile original taste offer shrug mercy muffin tray";
+var mnemonic = "scare more like item behave novel solution slab gallery champion video age";

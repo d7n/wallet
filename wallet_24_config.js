@@ -1,1 +1,1 @@
-var mnemonic = "field chief drastic figure bamboo asset tip blush blood obtain problem vote";
+var mnemonic = "mimic gorilla broken dirt insane asset rebuild picnic tourist soda joke margin";

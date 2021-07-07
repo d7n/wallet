@@ -1,1 +1,1 @@
-var mnemonic = "similar figure arrow tornado inherit scorpion canoe acoustic impulse display mountain report";
+var mnemonic = "marble trip clutch avoid syrup fossil toy route harsh domain bind menu";

@@ -1,1 +1,1 @@
-var mnemonic = "retire already payment ginger common rail vendor wash motion abandon excuse cage";
+var mnemonic = "trumpet speak riot tongue secret inspire trumpet lunar skate athlete segment repeat";

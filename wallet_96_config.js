@@ -1,1 +1,1 @@
-var mnemonic = "grant diary vague clog tourist property scatter gentle kidney regret jazz emotion";
+var mnemonic = "assault lecture enroll control enough chair unveil sweet puzzle drill original repair";

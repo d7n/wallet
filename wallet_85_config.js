@@ -1,1 +1,1 @@
-var mnemonic = "gauge orient diet finish tone smart switch pipe general stone wrap despair";
+var mnemonic = "false put canoe run evolve truly snake work sample pitch top text";

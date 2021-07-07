@@ -1,1 +1,1 @@
-var mnemonic = "engine erosion symptom lens bind language rotate random toe very service legal";
+var mnemonic = "genre cheese delay sauce father fatigue wide tide scan slam nephew isolate";

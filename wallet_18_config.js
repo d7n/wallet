@@ -1,1 +1,1 @@
-var mnemonic = "liar narrow when spatial eight toe save daughter street foot vehicle admit";
+var mnemonic = "foam switch amazing thumb erupt elder offer ceiling defense clip course sure";

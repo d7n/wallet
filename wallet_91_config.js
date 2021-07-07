@@ -1,1 +1,1 @@
-var mnemonic = "minute rabbit beach polar zoo pave fun crumble tissue remind educate hungry";
+var mnemonic = "random flip similar dragon define crucial hidden fiction domain spike shrug fresh";

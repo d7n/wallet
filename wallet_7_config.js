@@ -1,1 +1,1 @@
-var mnemonic = "river brass salon document transfer canoe obey section collect buzz help humor";
+var mnemonic = "skirt filter body fade minute chef glove payment true garlic wedding head";
