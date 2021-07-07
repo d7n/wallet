@@ -1,1 +1,1 @@
-var mnemonic = "youth announce evolve heart bleak fashion barely adult minor later rotate prize";
+var mnemonic = "joy file poem gentle prosper choice balance drift gather sound fiscal spirit";

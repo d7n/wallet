@@ -1,1 +1,1 @@
-var mnemonic = "mind wheel cabbage tattoo milk patient segment trouble journey actor situate banner";
+var mnemonic = "fiction shrimp shine trip slim primary fault pattern prepare wealth help sick";

@@ -1,1 +1,1 @@
-var mnemonic = "audit nothing symbol calm pyramid cotton oil observe vicious vehicle immune dwarf";
+var mnemonic = "put acoustic recall basic claim between liquid people piece mobile tower sudden";

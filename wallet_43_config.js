@@ -1,1 +1,1 @@
-var mnemonic = "maximum forest provide sustain orient couple recall tourist trouble type grocery whisper";
+var mnemonic = "silent sort baby utility coil art prosper split poem prison you soup";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon laptop clinic sick series large mass annual fluid imitate vibrant slab";
+var mnemonic = "enjoy disorder scale other explain two squeeze strike congress people rabbit negative";

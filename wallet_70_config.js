@@ -1,1 +1,1 @@
-var mnemonic = "sure unable treat suffer churn car movie photo winner viable awake flame";
+var mnemonic = "spoon tiny print beef typical horse utility lounge cup husband tattoo rebel";

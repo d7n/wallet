@@ -1,1 +1,1 @@
-var mnemonic = "flavor exist symptom ramp snack alone swap plug magnet swap private sad";
+var mnemonic = "silent access dad scrap palm monster monkey lift trend post couple focus";

@@ -1,1 +1,1 @@
-var mnemonic = "valve tumble collect orphan vendor crouch poet adapt attack snack glass describe";
+var mnemonic = "clean want skull street equip thunder fabric play keen remove combine planet";

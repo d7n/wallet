@@ -1,1 +1,1 @@
-var mnemonic = "social goddess youth defense water chair brisk denial tobacco coast until copper";
+var mnemonic = "clog relief cannon focus tower flip icon then alley news kangaroo treat";

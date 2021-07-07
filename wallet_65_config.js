@@ -1,1 +1,1 @@
-var mnemonic = "add two ignore hunt produce expand shock play glare twice address excess";
+var mnemonic = "leader parent burst finger ethics learn text health outer tower brown ribbon";

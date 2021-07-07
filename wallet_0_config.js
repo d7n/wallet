@@ -1,1 +1,1 @@
-var mnemonic = "oblige asset tell mention blossom angle snap media soccer then rookie dial";
+var mnemonic = "hard pupil symptom unhappy practice unfold crazy weather sense enter car glue";

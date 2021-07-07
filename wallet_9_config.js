@@ -1,1 +1,1 @@
-var mnemonic = "daring debris erase panther normal wedding kit reunion border welcome reform muffin";
+var mnemonic = "labor friend usual dance boat general city bacon basic goddess token beef";

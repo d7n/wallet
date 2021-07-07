@@ -1,1 +1,1 @@
-var mnemonic = "total pilot word leopard seven congress allow nice stable donkey miss proof";
+var mnemonic = "spy need empower erode empty alcohol equal unit weekend butter lesson wet";

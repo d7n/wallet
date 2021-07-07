@@ -1,1 +1,1 @@
-var mnemonic = "embrace bike argue tonight rent anger gown famous oven wheel scale endorse";
+var mnemonic = "grass sleep rebel denial suffer exit toilet solid pear nature hour other";

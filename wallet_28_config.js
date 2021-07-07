@@ -1,1 +1,1 @@
-var mnemonic = "truck relax wreck nice ladder topple ivory claw solution bread abstract wife";
+var mnemonic = "expose utility rifle matter board rose umbrella forward connect spike enable bargain";

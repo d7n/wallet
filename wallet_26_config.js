@@ -1,1 +1,1 @@
-var mnemonic = "coil toe sell focus vital panda prize leg delay find carpet zone";
+var mnemonic = "doctor program crop find orange lab scrap cute forest image purity miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "proud win approve share close shoe gold battle celery hero suspect this";
+var mnemonic = "jungle talk sugar divorce rule uphold vessel doctor sausage practice trumpet trade";

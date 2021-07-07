@@ -1,1 +1,1 @@
-var mnemonic = "solution dash vendor swap trick naive social educate assume used speak tattoo";
+var mnemonic = "planet phrase chuckle because chef waste fault buyer sheriff congress drink fault";

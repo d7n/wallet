@@ -1,1 +1,1 @@
-var mnemonic = "one win group barely brush quick nasty benefit silver lobster record fit";
+var mnemonic = "again episode odor hurt mountain safe habit artefact rain wine crumble large";

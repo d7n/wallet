@@ -1,1 +1,1 @@
-var mnemonic = "blouse property vivid small purchase spy wheat humor job trap confirm ivory";
+var mnemonic = "frog muffin chicken genre celery fat bullet borrow type hole miss cube";

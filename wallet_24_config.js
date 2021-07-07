@@ -1,1 +1,1 @@
-var mnemonic = "grit replace twelve mandate dish nature yard family slice bless kick control";
+var mnemonic = "jealous adult height payment fee develop maze buddy elite soft civil lawsuit";

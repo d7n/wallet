@@ -1,1 +1,1 @@
-var mnemonic = "large tonight oven collect become skin slogan few eagle accident miss supply";
+var mnemonic = "rice pitch regular repeat daughter immense cheese junk comfort stone pledge small";

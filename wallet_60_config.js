@@ -1,1 +1,1 @@
-var mnemonic = "ready wire frozen ski invite course box airport sound comic plastic cigar";
+var mnemonic = "mansion exhibit call silver cushion joy echo cruel calm avocado holiday future";

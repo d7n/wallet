@@ -1,1 +1,1 @@
-var mnemonic = "plate supply boss unknown type ocean humor exotic old maple snow hurry";
+var mnemonic = "they amateur small flavor curve token basket artefact country clarify tuition patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy security half basket celery indicate boat insane vital absent melt social";
+var mnemonic = "maximum today cute transfer leave picnic aim record resist roof predict behind";

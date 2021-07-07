@@ -1,1 +1,1 @@
-var mnemonic = "squirrel retire asset song gallery embark famous erupt evolve unfair combine genius";
+var mnemonic = "very bottom client hedgehog gun column describe fat hood eagle dune portion";

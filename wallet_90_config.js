@@ -1,1 +1,1 @@
-var mnemonic = "expect into embody ginger chronic hat idle resist sight canyon knife garbage";
+var mnemonic = "sausage evil bring furnace crash erupt gauge permit skull dinosaur alpha client";

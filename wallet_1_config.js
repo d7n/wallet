@@ -1,1 +1,1 @@
-var mnemonic = "hill multiply panel mirror cloud crater summer maze charge million two tone";
+var mnemonic = "story chair alpha area penalty marine hole cricket radar echo blush velvet";

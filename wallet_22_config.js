@@ -1,1 +1,1 @@
-var mnemonic = "fancy kangaroo cousin cram bulb sing cattle remove follow text oven foil";
+var mnemonic = "balance small garlic conduct orbit success vanish horse blade ice push subway";

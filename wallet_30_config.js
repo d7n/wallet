@@ -1,1 +1,1 @@
-var mnemonic = "federal today kangaroo term torch early wear youth banana apple near person";
+var mnemonic = "hamster alley leader reject win dog music blur spray dust blur gallery";

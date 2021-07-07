@@ -1,1 +1,1 @@
-var mnemonic = "initial turkey ecology property exclude advance cloud meadow faith spread use twice";
+var mnemonic = "polar client soup pond all talk zoo glow ostrich dress future vintage";

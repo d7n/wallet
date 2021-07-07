@@ -1,1 +1,1 @@
-var mnemonic = "soap pluck custom field chimney hidden excite treat depend direct put puppy";
+var mnemonic = "guilt health asset wreck steel speed same actress opinion danger ship unfold";

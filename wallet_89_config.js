@@ -1,1 +1,1 @@
-var mnemonic = "anger club shallow tone survey sound can cabbage bomb excite enough wisdom";
+var mnemonic = "nurse used tree chief achieve wheel clarify business define shed angry express";

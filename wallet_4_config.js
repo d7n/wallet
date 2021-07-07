@@ -1,1 +1,1 @@
-var mnemonic = "bamboo mouse reopen ritual invite media inject relax firm frame virtual warfare";
+var mnemonic = "agree tilt sweet success panic fatigue bullet sugar cube drive walnut crazy";

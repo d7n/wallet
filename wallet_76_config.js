@@ -1,1 +1,1 @@
-var mnemonic = "april guess chair bamboo hollow donkey eye source throw bridge over uncle";
+var mnemonic = "coconut such victory web gauge puppy private ski rib faith girl mimic";

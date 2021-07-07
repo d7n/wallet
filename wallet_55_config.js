@@ -1,1 +1,1 @@
-var mnemonic = "spy entry puppy puzzle glow salad bubble empty tattoo orbit glare tennis";
+var mnemonic = "effort term pretty impact rent reveal ill cinnamon fever acoustic inch swim";

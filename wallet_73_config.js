@@ -1,1 +1,1 @@
-var mnemonic = "latin exact lady child away mushroom fly slice vehicle flush view retire";
+var mnemonic = "define task tuna turkey diesel throw junk ketchup engine blast major erase";

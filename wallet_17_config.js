@@ -1,1 +1,1 @@
-var mnemonic = "clerk elevator weekend fog pink toilet burger dwarf frame this resource business";
+var mnemonic = "quarter balcony faculty escape code unfair useful hollow rely quantum also frozen";

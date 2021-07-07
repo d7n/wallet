@@ -1,1 +1,1 @@
-var mnemonic = "reward vehicle cereal stock express rare venue section razor palm unfold bind";
+var mnemonic = "bike you design truly foot wing lab tag few vocal rent faint";

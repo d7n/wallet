@@ -1,1 +1,1 @@
-var mnemonic = "swamp cake spawn warrior camp wolf empty shield comic once enrich rather";
+var mnemonic = "defy egg chef march frequent volume clean talk angle country pass antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor quality taste fame butter slush almost tuna aspect accuse senior cover";
+var mnemonic = "erase dream drive shiver bind middle regret route enroll boat come mixture";

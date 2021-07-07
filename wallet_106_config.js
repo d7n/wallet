@@ -1,1 +1,1 @@
-var mnemonic = "device sting trouble column bundle honey eye stable glory pen aspect have";
+var mnemonic = "sweet art nephew survey famous tobacco bomb excite taxi swim thing enroll";

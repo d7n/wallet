@@ -1,1 +1,1 @@
-var mnemonic = "arch elephant uniform canoe enter credit pilot battle muffin oppose raise maximum";
+var mnemonic = "dilemma puzzle phone never arctic across famous join maple possible unique sun";

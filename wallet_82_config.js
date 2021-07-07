@@ -1,1 +1,1 @@
-var mnemonic = "palm glad protect armor refuse boat river dirt student harvest zero distance";
+var mnemonic = "select project educate mouse spatial call pink clarify exhibit celery soap bounce";

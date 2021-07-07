@@ -1,1 +1,1 @@
-var mnemonic = "neutral sentence coil boil proof moral width chief traffic borrow profit shuffle";
+var mnemonic = "maze skin flight slow stumble hip welcome purity salute gain lucky turkey";

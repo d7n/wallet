@@ -1,1 +1,1 @@
-var mnemonic = "mass frame universe oyster liquid mobile emerge hen settle stay bulb derive";
+var mnemonic = "exact private pass butter mesh blood squirrel machine adult tunnel jeans rigid";

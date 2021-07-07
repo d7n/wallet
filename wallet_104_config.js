@@ -1,1 +1,1 @@
-var mnemonic = "stuff month chest wedding machine month bitter address innocent catch sure news";
+var mnemonic = "improve power error hospital home term luxury exhibit observe plunge ahead frozen";

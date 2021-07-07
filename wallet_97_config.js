@@ -1,1 +1,1 @@
-var mnemonic = "coral across loud over minor fatal breeze blouse peace clap reduce define";
+var mnemonic = "retire fish before lecture day host scatter also shallow toddler atom summer";

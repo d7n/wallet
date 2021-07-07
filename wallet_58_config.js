@@ -1,1 +1,1 @@
-var mnemonic = "mean decade toward clap lumber pumpkin law deposit royal road jewel blood";
+var mnemonic = "swing believe tooth talent theme spring balance shift caught few dizzy icon";

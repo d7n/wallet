@@ -1,1 +1,1 @@
-var mnemonic = "buddy this erosion carbon buyer six sound decade inflict ski lake kind";
+var mnemonic = "cereal album turtle mosquito team domain fatal exercise allow front parent birth";

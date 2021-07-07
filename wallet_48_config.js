@@ -1,1 +1,1 @@
-var mnemonic = "spider inhale goat loyal unfair media bar zero weekend marble wall picture";
+var mnemonic = "fault typical hire catch tone evil then man rhythm ten erosion when";

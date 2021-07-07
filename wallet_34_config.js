@@ -1,1 +1,1 @@
-var mnemonic = "pigeon crumble hotel street adapt garlic impact coyote hair erupt heavy coral";
+var mnemonic = "sand slender canal barrel blade satisfy enjoy swap carpet decorate choose firm";

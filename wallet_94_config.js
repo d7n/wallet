@@ -1,1 +1,1 @@
-var mnemonic = "dress inmate strike wolf toilet pair logic patient scare life hunt fabric";
+var mnemonic = "elite gaze hold road frown steak trigger close tool aim east tortoise";

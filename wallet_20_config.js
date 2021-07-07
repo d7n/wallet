@@ -1,1 +1,1 @@
-var mnemonic = "base easily smooth fluid poet open minute sick island lonely dad tonight";
+var mnemonic = "jump erosion wet antique display curtain devote spatial grant ski deny develop";

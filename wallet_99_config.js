@@ -1,1 +1,1 @@
-var mnemonic = "market veteran budget blanket flush flat detect camp crystal way hundred pulse";
+var mnemonic = "next clay normal still please bargain dose rural token wild leopard cover";

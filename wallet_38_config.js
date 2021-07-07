@@ -1,1 +1,1 @@
-var mnemonic = "royal injury foster rally grape duty onion rely home glove crime know";
+var mnemonic = "detect laundry bamboo salt combine ensure remember define settle defy mercy under";

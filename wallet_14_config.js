@@ -1,1 +1,1 @@
-var mnemonic = "waste lizard resist enable rather property mobile minute scissors anchor burger reopen";
+var mnemonic = "symbol rapid empower ostrich about man fatal act wedding time mask antenna";

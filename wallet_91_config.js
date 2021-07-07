@@ -1,1 +1,1 @@
-var mnemonic = "toilet elite prize tide build quote pyramid pen proud civil middle network";
+var mnemonic = "gold define lift wasp turn blade when bridge toilet boil saddle tourist";

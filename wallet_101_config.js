@@ -1,1 +1,1 @@
-var mnemonic = "off monkey scorpion crime rib canvas horse sea drink mention cupboard pilot";
+var mnemonic = "leaf input inherit adjust okay blush drop where trash adjust cave word";

@@ -1,1 +1,1 @@
-var mnemonic = "distance cattle festival note flip you install task alarm cliff author argue";
+var mnemonic = "sibling alert quit canvas later toy bridge fury uncover plug rotate lunch";

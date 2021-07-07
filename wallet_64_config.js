@@ -1,1 +1,1 @@
-var mnemonic = "exotic near very prize face seat spray bar claim lucky journey fault";
+var mnemonic = "gospel pupil path announce child soap furnace stamp decorate quiz forum fold";

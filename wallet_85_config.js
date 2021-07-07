@@ -1,1 +1,1 @@
-var mnemonic = "soccer sign strike pulse stuff obvious major defense approve mix initial cannon";
+var mnemonic = "remove renew just wedding craft tower cake bright embody board also sample";

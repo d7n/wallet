@@ -1,1 +1,1 @@
-var mnemonic = "spend strike cruise quarter total hard remind only audit nasty brick double";
+var mnemonic = "blame cave luggage direct pause erosion congress two intact around turtle number";

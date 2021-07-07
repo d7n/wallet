@@ -1,1 +1,1 @@
-var mnemonic = "olive tiny prepare swim helmet motor fiscal shield episode decorate double connect";
+var mnemonic = "peace park consider neither discover panther cool mass harsh puppy screen miracle";

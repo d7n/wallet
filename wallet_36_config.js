@@ -1,1 +1,1 @@
-var mnemonic = "razor color tuition raw comfort birth train fuel stem square glass buddy";
+var mnemonic = "mystery arena tip prosper junk wreck more spin glance wrong exchange immune";

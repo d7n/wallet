@@ -1,1 +1,1 @@
-var mnemonic = "wreck family hawk sure imitate author high novel glare sustain antique upon";
+var mnemonic = "change dignity dove animal weekend salt shuffle uphold faculty chalk wrestle grass";

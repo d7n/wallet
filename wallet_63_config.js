@@ -1,1 +1,1 @@
-var mnemonic = "attract palace soldier boost action youth spy rough avocado alarm enjoy vibrant";
+var mnemonic = "exercise index oak hunt spy combine only island dismiss chapter favorite promote";

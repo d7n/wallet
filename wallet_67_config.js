@@ -1,1 +1,1 @@
-var mnemonic = "violin legal blind later govern focus link crane claw camp border mobile";
+var mnemonic = "shoe north model trophy slot cabbage find toddler dismiss reduce square sound";

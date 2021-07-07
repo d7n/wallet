@@ -1,1 +1,1 @@
-var mnemonic = "relief steak want gauge spray oxygen bundle best urban connect pet exhibit";
+var mnemonic = "soul climb various corn must render age toddler calm decade close error";

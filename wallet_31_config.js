@@ -1,1 +1,1 @@
-var mnemonic = "scare coffee alien hurt curtain across bring nothing degree snow oyster slogan";
+var mnemonic = "shallow gap also canyon across state diagram winter afford adapt fruit menu";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase weather example also access symptom uphold upper road false unknown earth";
+var mnemonic = "sock easily distance attitude paddle light daughter satoshi weapon birth rifle legend";

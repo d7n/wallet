@@ -1,1 +1,1 @@
-var mnemonic = "stamp mind control sweet saddle urban genuine fly nuclear annual husband exercise";
+var mnemonic = "boss kid engine devote attack promote magnet garlic put lamp hungry universe";

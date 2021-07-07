@@ -1,1 +1,1 @@
-var mnemonic = "okay world license aim photo alcohol explain knife denial require jealous region";
+var mnemonic = "setup crystal culture fault among print visual segment arch provide card mountain";

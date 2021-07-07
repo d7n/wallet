@@ -1,1 +1,1 @@
-var mnemonic = "access borrow near odor swim primary regret earth town forum casual pass";
+var mnemonic = "alone frame book pulse sign solar high urban almost ensure clarify tackle";

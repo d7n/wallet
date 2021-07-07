@@ -1,1 +1,1 @@
-var mnemonic = "property merry power grape rotate dynamic high wrong door embody marble vacuum";
+var mnemonic = "open happy minimum build ready fatigue tunnel sense solar swamp gadget grocery";

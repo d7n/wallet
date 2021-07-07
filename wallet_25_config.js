@@ -1,1 +1,1 @@
-var mnemonic = "snack tobacco salt bleak ketchup insane improve amateur boat march fiscal salute";
+var mnemonic = "main treat science blush figure stairs sea enable member cancel reduce humble";

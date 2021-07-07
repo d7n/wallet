@@ -1,1 +1,1 @@
-var mnemonic = "better render verify mouse cover suffer tank misery burden salad coyote luxury";
+var mnemonic = "ranch kit find tiny fiber engine blossom flower favorite claim solar funny";

@@ -1,1 +1,1 @@
-var mnemonic = "elder own goat valley toilet hollow legal march bubble mad maple winner";
+var mnemonic = "fringe wish labor obscure food say success attitude answer curve work discover";

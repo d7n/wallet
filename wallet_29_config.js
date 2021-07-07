@@ -1,1 +1,1 @@
-var mnemonic = "jungle saddle ship credit jewel limb help tourist ahead broom female air";
+var mnemonic = "curve fit dynamic sheriff useful tornado solve snack broken august rocket cheap";

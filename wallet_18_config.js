@@ -1,1 +1,1 @@
-var mnemonic = "capital wine attack forget maid eager impact fever dial holiday village tilt";
+var mnemonic = "distance sample neglect wrist river away piano blade during forget garage horse";

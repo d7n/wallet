@@ -1,1 +1,1 @@
-var mnemonic = "end scare shell top region connect blur naive topple acoustic ripple student";
+var mnemonic = "bleak year genuine glide slim swarm minute kiwi wise upgrade method detail";

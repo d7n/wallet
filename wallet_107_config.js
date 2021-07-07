@@ -1,1 +1,1 @@
-var mnemonic = "media chunk orbit alert dress water opinion shove mind forward shallow frown";
+var mnemonic = "craft return account limb water one insect elevator island shoe hammer family";

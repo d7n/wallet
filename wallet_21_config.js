@@ -1,1 +1,1 @@
-var mnemonic = "height mother develop horse empty practice artefact vocal glow decorate paper olive";
+var mnemonic = "dress govern hollow believe club omit property dinner exotic jealous silent glide";

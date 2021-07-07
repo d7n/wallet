@@ -1,1 +1,1 @@
-var mnemonic = "lab genre weasel trash danger stone shock spider dilemma taste seminar volume";
+var mnemonic = "assault midnight hole apart weapon curtain across entry crack gym fitness inherit";

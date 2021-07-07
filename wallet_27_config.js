@@ -1,1 +1,1 @@
-var mnemonic = "weather tattoo juice blade void pencil sting learn trash distance actor relax";
+var mnemonic = "setup double pumpkin possible cotton pledge barely giraffe below cheese sweet eager";

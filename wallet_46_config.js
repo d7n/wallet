@@ -1,1 +1,1 @@
-var mnemonic = "group evoke bulb unique begin act test soon volcano smile gym ivory";
+var mnemonic = "story sunny relief oblige fabric craft trim pioneer labor globe phrase rug";

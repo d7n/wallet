@@ -1,1 +1,1 @@
-var mnemonic = "fuel affair coyote until sibling shrimp rib envelope tail uphold stamp wheel";
+var mnemonic = "able love olympic woman pig sing surprise february nut quarter guilt course";

@@ -1,1 +1,1 @@
-var mnemonic = "crater unique gold raven visit leisure catalog material swamp icon swim cruel";
+var mnemonic = "pig wheat angry ahead elbow apart ordinary million erase beyond long emotion";

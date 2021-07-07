@@ -1,1 +1,1 @@
-var mnemonic = "solid cause concert dad february concert debate canoe buzz stairs midnight unknown";
+var mnemonic = "enforce eternal rich luggage toss fuel shuffle nuclear script under ten upon";

@@ -1,1 +1,1 @@
-var mnemonic = "error iron tribe pioneer hundred large lawn lady pulse fish project myth";
+var mnemonic = "mask panel toast net flavor expire demise lecture awkward still cinnamon make";

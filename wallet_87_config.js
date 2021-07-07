@@ -1,1 +1,1 @@
-var mnemonic = "bag opinion lava original tiger depend host one whisper poet segment melody";
+var mnemonic = "copy undo flag kick border ahead toddler wheel swim veteran rely card";

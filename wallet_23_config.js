@@ -1,1 +1,1 @@
-var mnemonic = "island duck welcome oxygen tilt toy palace deposit voyage fade stairs route";
+var mnemonic = "vital plunge bar where slush oval soap claim ivory goose elite envelope";
