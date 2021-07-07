@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur double express worry clown write legend beyond core medal ticket brush";
+var mnemonic = "error gadget dress tree session sense regret wait shrimp ladder lyrics final";

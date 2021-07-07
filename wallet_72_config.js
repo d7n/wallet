@@ -1,1 +1,1 @@
-var mnemonic = "toss urge cage height snow priority tissue mass basket hockey rug century";
+var mnemonic = "decline ozone identify fence slab celery have plate palm wood heavy picnic";

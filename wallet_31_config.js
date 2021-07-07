@@ -1,1 +1,1 @@
-var mnemonic = "hub reveal champion pepper expose model ability giggle welcome light gravity jungle";
+var mnemonic = "speed fold wrestle climb census antenna glue stamp profit chest depart sheriff";

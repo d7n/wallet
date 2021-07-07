@@ -1,1 +1,1 @@
-var mnemonic = "tomato city chair student mobile sick firm excite bird suspect search ball";
+var mnemonic = "present drum knee upon uphold myth shrug reveal obvious thing intact month";

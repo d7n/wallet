@@ -1,1 +1,1 @@
-var mnemonic = "air acquire easily grocery virtual tourist vacant noise biology insect spy library";
+var mnemonic = "inspire enlist swamp brother second blossom cart lunch vessel primary either machine";

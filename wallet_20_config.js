@@ -1,1 +1,1 @@
-var mnemonic = "radar arrange elephant cart clinic guitar violin they autumn mimic document soft";
+var mnemonic = "swim convince execute prefer enjoy spawn jar afford marriage soup multiply pear";

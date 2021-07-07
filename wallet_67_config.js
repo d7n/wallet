@@ -1,1 +1,1 @@
-var mnemonic = "glide castle settle tag invite child matter gate treat else guide beach";
+var mnemonic = "assist excite path pizza local adjust bomb ginger cup code position clock";

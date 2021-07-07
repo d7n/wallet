@@ -1,1 +1,1 @@
-var mnemonic = "bring lyrics cereal beach industry urban giant oven health license minor true";
+var mnemonic = "peace arena wrist during blame stomach kind hurdle wage best plate rally";

@@ -1,1 +1,1 @@
-var mnemonic = "seek ring road educate crawl gospel unfair relief heart slide explain wreck";
+var mnemonic = "awesome athlete village donkey surprise hobby attend inspire tumble caught bottom eager";

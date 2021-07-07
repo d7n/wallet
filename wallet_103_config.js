@@ -1,1 +1,1 @@
-var mnemonic = "wife snack output sunset emerge sail vintage crime recall canoe photo empty";
+var mnemonic = "swamp green unique maximum piece grass security option shallow spirit piece brain";

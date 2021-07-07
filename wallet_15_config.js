@@ -1,1 +1,1 @@
-var mnemonic = "chase repair visual canyon adapt rare mention great shine search worth toddler";
+var mnemonic = "memory please desert detail original cheese hedgehog practice hood surround pig maple";

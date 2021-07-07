@@ -1,1 +1,1 @@
-var mnemonic = "boring account hockey flash shrug myth enroll ritual wide citizen spring festival";
+var mnemonic = "bargain clog leave attract basket border sniff maid suffer nest drum isolate";

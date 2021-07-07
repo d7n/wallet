@@ -1,1 +1,1 @@
-var mnemonic = "gauge lamp say pioneer essence hybrid burden enable mansion furnace ozone jelly";
+var mnemonic = "exit deliver creek over talent have opinion best salt piece cricket impose";

@@ -1,1 +1,1 @@
-var mnemonic = "runway machine recipe thumb space effort custom six fiscal next filter spirit";
+var mnemonic = "this joke olive victory crisp typical today tool saddle layer toddler thought";

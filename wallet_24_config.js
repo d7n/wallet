@@ -1,1 +1,1 @@
-var mnemonic = "zero flush awesome voice flee number tip squeeze off oak amount wire";
+var mnemonic = "bid clever govern slush beauty neutral heavy blade screen plug order fun";

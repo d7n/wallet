@@ -1,1 +1,1 @@
-var mnemonic = "snack twin paper execute gain enemy rail pottery eternal three that miracle";
+var mnemonic = "celery brown section scatter alcohol wheel surface spin slice barrel name rapid";

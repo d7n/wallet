@@ -1,1 +1,1 @@
-var mnemonic = "end mention very diary cave embrace baby august drip pen wink ice";
+var mnemonic = "until attract beach term tip blur account acid curious crater ask sudden";

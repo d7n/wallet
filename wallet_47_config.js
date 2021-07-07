@@ -1,1 +1,1 @@
-var mnemonic = "dutch firm junior battle tragic bunker gas penalty spatial quit ski shift";
+var mnemonic = "spin split away pulp promote universe stairs stone giggle question adapt chef";

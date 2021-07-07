@@ -1,1 +1,1 @@
-var mnemonic = "polar matter outdoor finger network camp between run hill slush raise early";
+var mnemonic = "occur inside attract dial differ pole seed shaft globe recipe someone mouse";

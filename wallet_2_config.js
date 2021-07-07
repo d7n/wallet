@@ -1,1 +1,1 @@
-var mnemonic = "violin electric work write lemon romance foam field friend school spin monkey";
+var mnemonic = "gossip subway property scrap ahead soap hobby behind web pretty arrive media";

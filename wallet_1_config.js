@@ -1,1 +1,1 @@
-var mnemonic = "antique lunch able upon midnight yellow gauge burst sword woman elite sing";
+var mnemonic = "verb discover attract wedding wine file judge canoe alter mercy erase dog";

@@ -1,1 +1,1 @@
-var mnemonic = "ring rapid forget tip detail sentence palace art subway steak civil canvas";
+var mnemonic = "churn alter cereal hub theme boil find lunch push corn garlic salad";

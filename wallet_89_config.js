@@ -1,1 +1,1 @@
-var mnemonic = "wise guilt monster cricket scorpion early huge fancy music check nasty total";
+var mnemonic = "room paper certain absorb balcony vital drum pass possible divorce wing crawl";

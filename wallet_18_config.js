@@ -1,1 +1,1 @@
-var mnemonic = "rabbit width anger book link stumble tray capable load social rib mistake";
+var mnemonic = "game glove voice quiz room unlock mixture genre wolf hawk arena hour";

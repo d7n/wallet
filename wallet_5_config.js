@@ -1,1 +1,1 @@
-var mnemonic = "ozone lonely pottery split enjoy under memory final horse flock stage fault";
+var mnemonic = "blouse resist balcony ocean illness menu weapon easily damage frame buffalo bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "square draw drift cram inspire region dilemma speak story chaos arrow hold";
+var mnemonic = "steel absorb truth ship rally effort diamond broom they nerve thumb rebel";

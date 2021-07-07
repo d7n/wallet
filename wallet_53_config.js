@@ -1,1 +1,1 @@
-var mnemonic = "toe delay cigar junior badge immune property assist maid vessel combine warm";
+var mnemonic = "road install pitch knee web tooth fog toe wire cheese bulk click";

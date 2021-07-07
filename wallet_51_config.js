@@ -1,1 +1,1 @@
-var mnemonic = "one wisdom install muffin slice file eager unaware toast offer magic flavor";
+var mnemonic = "absent all record green recipe envelope thing become oyster steak lawn day";

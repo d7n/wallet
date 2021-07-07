@@ -1,1 +1,1 @@
-var mnemonic = "volcano silver avocado lecture armor canyon club economy vacant tunnel song wedding";
+var mnemonic = "young shift wrist wolf forum glove bomb organ team snake honey boy";

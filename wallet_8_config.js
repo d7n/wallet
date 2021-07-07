@@ -1,1 +1,1 @@
-var mnemonic = "require hurdle tide load lobster lab abuse pulp enjoy habit puzzle during";
+var mnemonic = "various observe hint match pony feel already indoor fog steak hospital before";

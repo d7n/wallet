@@ -1,1 +1,1 @@
-var mnemonic = "phone middle primary shrug deposit swing cluster promote elder lecture pride before";
+var mnemonic = "brisk citizen submit ramp lunar gospel wire question atom essay spare equip";

@@ -1,1 +1,1 @@
-var mnemonic = "route display taste local sphere picnic legend guitar absent coin ginger pioneer";
+var mnemonic = "detect unlock coyote payment ahead shadow regret banana matrix stable globe hair";

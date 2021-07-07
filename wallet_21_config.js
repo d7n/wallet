@@ -1,1 +1,1 @@
-var mnemonic = "appear donkey country tiny kind orient high athlete pig clump old upset";
+var mnemonic = "dad cupboard clown easily kidney diesel spawn onion excite dad monitor arrest";

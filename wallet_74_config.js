@@ -1,1 +1,1 @@
-var mnemonic = "bag hurt license join feel pen learn comfort little duty argue job";
+var mnemonic = "husband name later album reform survey remind extend talk proud amateur actor";

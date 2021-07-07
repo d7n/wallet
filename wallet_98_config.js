@@ -1,1 +1,1 @@
-var mnemonic = "vicious habit bundle exchange mimic client accuse prevent utility faint feel bench";
+var mnemonic = "secret wrestle clump travel scissors winner notable update gossip scrub behave frown";

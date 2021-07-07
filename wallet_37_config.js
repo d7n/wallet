@@ -1,1 +1,1 @@
-var mnemonic = "blame lava plate tail nuclear carbon target enrich situate liberty injury profit";
+var mnemonic = "gun frame empty mad box episode canvas enhance captain heart vital huge";

@@ -1,1 +1,1 @@
-var mnemonic = "police pioneer film craft silly dinosaur gentle hurry prosper human humble until";
+var mnemonic = "spread glimpse expect narrow prize update grain burden indoor galaxy stairs craft";

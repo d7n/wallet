@@ -1,1 +1,1 @@
-var mnemonic = "two spring clinic neck alert conduct only bargain axis junior fruit need";
+var mnemonic = "say island avocado version flat sting dry mandate safe nominee inhale silk";

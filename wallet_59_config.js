@@ -1,1 +1,1 @@
-var mnemonic = "sail tooth still keep subject solve project artwork license ride error thrive";
+var mnemonic = "diet task sense entry glue enlist alarm trash smooth photo dilemma dial";

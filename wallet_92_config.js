@@ -1,1 +1,1 @@
-var mnemonic = "hello mixed stool rebuild track burger random knife dash student uncover upon";
+var mnemonic = "badge cool suspect junior blouse health business strike weekend melody concert curtain";

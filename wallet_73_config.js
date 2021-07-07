@@ -1,1 +1,1 @@
-var mnemonic = "clean elbow hawk weapon abuse cigar dust friend blame floor canyon elephant";
+var mnemonic = "gather enjoy sad stage task negative person lab forward message frost state";

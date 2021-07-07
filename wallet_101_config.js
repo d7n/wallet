@@ -1,1 +1,1 @@
-var mnemonic = "crystal chair tank region face clerk scout cream chief hire rule cargo";
+var mnemonic = "trick frequent main palace undo february milk version increase increase fog cat";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy couch bean decrease require prefer awake sell all toddler swing myself";
+var mnemonic = "negative able amused drama tobacco round leisure start use verb result base";

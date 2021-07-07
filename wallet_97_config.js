@@ -1,1 +1,1 @@
-var mnemonic = "trouble frame valley nation average wish answer path ecology patient weird shallow";
+var mnemonic = "provide route small liquid chapter mad limit seven square certain eye squeeze";

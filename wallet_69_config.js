@@ -1,1 +1,1 @@
-var mnemonic = "bulk wasp snow bid width diet cigar awesome gentle uncover suit thank";
+var mnemonic = "quarter protect room cheap thank virtual adult exile rate cat crouch local";

@@ -1,1 +1,1 @@
-var mnemonic = "friend news sample cry east behind expire gym palace dignity poverty sustain";
+var mnemonic = "piece hollow inherit report coyote away museum layer fortune whale stomach uniform";

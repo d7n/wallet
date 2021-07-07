@@ -1,1 +1,1 @@
-var mnemonic = "private action second matrix raccoon island labor energy refuse until athlete comic";
+var mnemonic = "curtain confirm panic capable soap fortune critic remind describe middle bind lounge";

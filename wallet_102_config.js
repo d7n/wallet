@@ -1,1 +1,1 @@
-var mnemonic = "reflect increase runway clean dad service arrest right above soccer market episode";
+var mnemonic = "embark camp breeze gown catalog empower claim deposit between affair upgrade squeeze";

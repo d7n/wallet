@@ -1,1 +1,1 @@
-var mnemonic = "spread advice quit nurse window trigger smooth crew bitter early adjust salmon";
+var mnemonic = "cage six giggle unfair universe butter silver noise stay hood mutual upper";

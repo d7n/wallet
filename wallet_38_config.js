@@ -1,1 +1,1 @@
-var mnemonic = "cattle hair leg holiday other copper fever social struggle quality long smile";
+var mnemonic = "supply dice upset surge evil own chat still faint control coral mean";

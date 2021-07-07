@@ -1,1 +1,1 @@
-var mnemonic = "word improve magic joke glow ugly balcony wise tomato assault grow snow";
+var mnemonic = "mass athlete slot review three solid pelican human rifle earth lake system";

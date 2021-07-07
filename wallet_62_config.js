@@ -1,1 +1,1 @@
-var mnemonic = "solid hidden empty flower kid retire potato urge captain popular left night";
+var mnemonic = "page fresh wagon twist blue garage wide north pill extend twenty uniform";

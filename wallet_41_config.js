@@ -1,1 +1,1 @@
-var mnemonic = "hill cage laptop plate imitate address fever effort feature meat amount harsh";
+var mnemonic = "inquiry puppy chapter measure render manual recall resemble recipe bonus visa damage";

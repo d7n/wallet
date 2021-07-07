@@ -1,1 +1,1 @@
-var mnemonic = "chicken regret nominee glory rapid oil ripple dolphin hungry gold suspect pulse";
+var mnemonic = "dinner crowd harbor risk paper surface month stereo apple crack coach senior";

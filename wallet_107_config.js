@@ -1,1 +1,1 @@
-var mnemonic = "meat margin scene lesson plate nose elder enter hidden prize predict behind";
+var mnemonic = "vacuum machine mirror purpose caution calm artefact pipe blue benefit bone guilt";

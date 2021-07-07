@@ -1,1 +1,1 @@
-var mnemonic = "wrap dance name region denial floor smooth magnet regret stand lake flag";
+var mnemonic = "recall access dose draft update section slight wrong two wedding super slight";

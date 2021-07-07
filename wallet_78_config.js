@@ -1,1 +1,1 @@
-var mnemonic = "divert delay journey syrup topic found voyage mutual sport recycle find spike";
+var mnemonic = "slide prison pear step palm powder rookie vocal popular fence flip planet";

@@ -1,1 +1,1 @@
-var mnemonic = "noise visit average cart voice easy human rapid elder hockey agent kiwi";
+var mnemonic = "dance elephant shift general push garden exchange timber crunch economy meat board";

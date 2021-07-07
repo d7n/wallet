@@ -1,1 +1,1 @@
-var mnemonic = "shadow address always fiscal reason retire remind normal pool oven city unaware";
+var mnemonic = "metal amateur student action mercy suspect guitar course always category region bottom";

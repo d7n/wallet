@@ -1,1 +1,1 @@
-var mnemonic = "wealth fix buzz inhale stay fix human join language fiber advance harsh";
+var mnemonic = "appear practice damage pudding razor comic family latin devote tape flight title";

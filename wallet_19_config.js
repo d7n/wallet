@@ -1,1 +1,1 @@
-var mnemonic = "entry intact rare engage dog trophy element cherry rib reason apple notable";
+var mnemonic = "flavor body pyramid steak dragon impact include tenant chunk tiger buffalo female";

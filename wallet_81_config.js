@@ -1,1 +1,1 @@
-var mnemonic = "utility tower zone relief dish material labor fragile monkey load empty panda";
+var mnemonic = "hub vanish feature torch opinion cross job feature refuse ball seek syrup";

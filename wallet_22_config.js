@@ -1,1 +1,1 @@
-var mnemonic = "what wall swift lunar blame wrestle crystal split approve expand car liquid";
+var mnemonic = "glass disease park verify raccoon remind case diet unique regular rescue help";

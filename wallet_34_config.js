@@ -1,1 +1,1 @@
-var mnemonic = "equal surprise sail lottery caution angle buffalo dizzy cushion payment token pluck";
+var mnemonic = "repeat century differ wagon alert author nerve witness wire people pond skill";

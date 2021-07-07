@@ -1,1 +1,1 @@
-var mnemonic = "excite wise expect mechanic catalog nose tiny thunder pink profit badge fall";
+var mnemonic = "twelve banner bachelor decline when team daughter barrel device teach worth very";

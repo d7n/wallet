@@ -1,1 +1,1 @@
-var mnemonic = "lonely soft renew seat trophy salon feel happy shrug steel metal copy";
+var mnemonic = "shrimp saddle goose shaft vehicle bag crunch cannon often gaze critic clay";

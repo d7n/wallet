@@ -1,1 +1,1 @@
-var mnemonic = "provide coach space try estate neglect genius glimpse invite tennis myth pluck";
+var mnemonic = "carry wild unique winner viable cradle prefer purchase brass phone crack jungle";

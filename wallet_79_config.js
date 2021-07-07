@@ -1,1 +1,1 @@
-var mnemonic = "noble teach bundle spin clinic game faith today safe side easy nasty";
+var mnemonic = "pig river enact fancy auction auto crumble dream odor curtain tornado air";

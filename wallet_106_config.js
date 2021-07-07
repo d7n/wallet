@@ -1,1 +1,1 @@
-var mnemonic = "various actor absorb notable physical fall jar spot keep borrow skate abuse";
+var mnemonic = "goose tooth siege awkward vocal casino broken firm spend spawn border split";

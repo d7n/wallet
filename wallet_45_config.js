@@ -1,1 +1,1 @@
-var mnemonic = "galaxy tower news canvas inquiry tenant cheap code street chaos destroy wood";
+var mnemonic = "cause vapor unknown cushion average paper shiver favorite quit alien blade deny";

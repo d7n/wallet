@@ -1,1 +1,1 @@
-var mnemonic = "silly burst suffer ask brand jacket silent spike west clump code mandate";
+var mnemonic = "burst grid december goose casual adapt urban unlock undo shadow fossil radio";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut reason renew arch castle sponsor planet rookie certain diamond bubble service";
+var mnemonic = "village soul cousin alert circle license radar pistol sudden peanut calm addict";

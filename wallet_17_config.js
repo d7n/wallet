@@ -1,1 +1,1 @@
-var mnemonic = "owner derive present crane pitch digital claw funny vapor tribe shrug video";
+var mnemonic = "wear female oyster sail aim canyon wash until yard room fly young";

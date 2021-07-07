@@ -1,1 +1,1 @@
-var mnemonic = "lens lemon clap brisk begin orphan spell marine rate orange destroy average";
+var mnemonic = "any someone firm craft cram equal pencil artist pool stomach paper inner";

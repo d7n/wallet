@@ -1,1 +1,1 @@
-var mnemonic = "hint region potato reveal axis false edit cannon uncle debris window shove";
+var mnemonic = "logic shell grunt color party surge doctor clock quote rhythm flush cherry";

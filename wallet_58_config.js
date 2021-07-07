@@ -1,1 +1,1 @@
-var mnemonic = "layer glass people roof manual torch lazy tomato glue robust argue normal";
+var mnemonic = "olympic daughter list arrest ready ramp chalk negative quiz brush tired bottom";

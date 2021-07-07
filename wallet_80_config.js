@@ -1,1 +1,1 @@
-var mnemonic = "gorilla short stem universe essence design loyal paper chat fit sketch adapt";
+var mnemonic = "grain forest banner rebuild calm grid woman address crop ocean nose cry";

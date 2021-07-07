@@ -1,1 +1,1 @@
-var mnemonic = "rate scare impose like cotton miss network scatter window analyst field spend";
+var mnemonic = "cup urban begin live pluck barely wish hair aunt pen matrix lunch";

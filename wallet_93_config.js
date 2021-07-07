@@ -1,1 +1,1 @@
-var mnemonic = "human pole noise describe glory swarm curve hungry live lumber student monkey";
+var mnemonic = "repeat pepper heart auction champion crouch scout mistake margin point visual tomorrow";

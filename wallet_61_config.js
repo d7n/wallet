@@ -1,1 +1,1 @@
-var mnemonic = "echo lesson shallow loop nice harvest shoe spirit eight edge celery ahead";
+var mnemonic = "tube later theme notice bonus guitar describe what lock dawn brand resource";

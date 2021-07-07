@@ -1,1 +1,1 @@
-var mnemonic = "budget goat abandon warrior father impose weapon movie shine permit maze weasel";
+var mnemonic = "fiber sock worth guilt come rubber staff apology throw sell blade panel";

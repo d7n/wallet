@@ -1,1 +1,1 @@
-var mnemonic = "pretty valley combine youth impose gold wear zero gasp impose glare cloud";
+var mnemonic = "photo vicious say record absurd version meat virus choice install sail engage";

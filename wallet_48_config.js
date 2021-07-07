@@ -1,1 +1,1 @@
-var mnemonic = "shoot chase tennis icon brown first cube pattern discover trophy basket kiwi";
+var mnemonic = "person above hill ozone kitten news disagree addict hundred banana blind earn";

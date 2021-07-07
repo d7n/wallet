@@ -1,1 +1,1 @@
-var mnemonic = "invest attitude dance stool express play actor benefit alter believe adapt benefit";
+var mnemonic = "such festival loan leisure jealous trash panic chapter clutch addict remember remain";

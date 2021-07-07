@@ -1,1 +1,1 @@
-var mnemonic = "labor idle that auction defense peace frost home ostrich ripple valley woman";
+var mnemonic = "grace birth spare garage chunk coast heart heavy squeeze soccer flower yellow";

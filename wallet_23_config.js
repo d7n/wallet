@@ -1,1 +1,1 @@
-var mnemonic = "metal struggle silent tree juice firm clutch prison reason thought plug thought";
+var mnemonic = "grab midnight element message ill park unusual mad harsh move permit enlist";

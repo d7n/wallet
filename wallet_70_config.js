@@ -1,1 +1,1 @@
-var mnemonic = "penalty trade fade shoe unique tide off grant recycle response win best";
+var mnemonic = "lift bounce birth citizen lift whisper expose reduce window velvet assist fall";

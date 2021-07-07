@@ -1,1 +1,1 @@
-var mnemonic = "garbage bus also capable choose hint dish multiply easy patch reflect private";
+var mnemonic = "soda museum sport waste target cruel lottery they sail cabin vital rapid";

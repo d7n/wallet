@@ -1,1 +1,1 @@
-var mnemonic = "apple dish crack rough ladder menu opinion situate squirrel uniform bicycle answer";
+var mnemonic = "dream attack various seed you atom lucky fence hybrid index rifle vintage";

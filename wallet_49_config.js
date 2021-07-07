@@ -1,1 +1,1 @@
-var mnemonic = "profit kangaroo deliver reopen segment beef appear same pet pill produce truck";
+var mnemonic = "because pen case output acid eternal favorite lunch ten powder glass welcome";

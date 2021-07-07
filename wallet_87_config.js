@@ -1,1 +1,1 @@
-var mnemonic = "garment act escape struggle cube whale chair trial fragile typical short frog";
+var mnemonic = "canoe tissue more olympic swear tourist stadium shrimp tired oven siege mean";

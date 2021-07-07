@@ -1,1 +1,1 @@
-var mnemonic = "vibrant gospel police concert two derive can orange bring notable peace seek";
+var mnemonic = "reform myth smile spring vague kind syrup because sing biology oxygen unable";
