@@ -1,1 +1,1 @@
-var mnemonic = "grass job host immune extend people hurry antenna apart tower circle evil";
+var mnemonic = "various actor absorb notable physical fall jar spot keep borrow skate abuse";

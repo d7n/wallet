@@ -1,1 +1,1 @@
-var mnemonic = "orchard solve edge eye spoil vessel swarm attitude confirm ability plunge biology";
+var mnemonic = "nephew voyage remember opera pole section soul help add property honey drip";

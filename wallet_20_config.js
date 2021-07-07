@@ -1,1 +1,1 @@
-var mnemonic = "wash ability grass fade horror endorse immense core lucky flush joke media";
+var mnemonic = "radar arrange elephant cart clinic guitar violin they autumn mimic document soft";

@@ -1,1 +1,1 @@
-var mnemonic = "flee delay celery nerve person truly satisfy matter mistake wise square squeeze";
+var mnemonic = "violin electric work write lemon romance foam field friend school spin monkey";

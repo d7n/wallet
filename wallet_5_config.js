@@ -1,1 +1,1 @@
-var mnemonic = "trip clock drill claim copy kidney attitude decide elite wage kit crop";
+var mnemonic = "ozone lonely pottery split enjoy under memory final horse flock stage fault";

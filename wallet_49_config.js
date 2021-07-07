@@ -1,1 +1,1 @@
-var mnemonic = "tomato ability matrix lion style garlic put already scissors regular side loud";
+var mnemonic = "profit kangaroo deliver reopen segment beef appear same pet pill produce truck";

@@ -1,1 +1,1 @@
-var mnemonic = "icon drastic race slight kiss slogan tent amazing patient oil toast symptom";
+var mnemonic = "end mention very diary cave embrace baby august drip pen wink ice";

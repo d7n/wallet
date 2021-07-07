@@ -1,1 +1,1 @@
-var mnemonic = "coconut breeze sock ribbon hammer inherit issue bring celery lamp nuclear spoon";
+var mnemonic = "polar matter outdoor finger network camp between run hill slush raise early";

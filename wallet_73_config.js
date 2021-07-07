@@ -1,1 +1,1 @@
-var mnemonic = "divert perfect entire phone bitter else wealth unfold tent cricket possible donor";
+var mnemonic = "clean elbow hawk weapon abuse cigar dust friend blame floor canyon elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "night december brain maid canyon usage robust evidence east farm express kiwi";
+var mnemonic = "chicken regret nominee glory rapid oil ripple dolphin hungry gold suspect pulse";

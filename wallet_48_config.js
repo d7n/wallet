@@ -1,1 +1,1 @@
-var mnemonic = "relax promote helmet modify nerve celery famous wisdom silent absurd amount often";
+var mnemonic = "shoot chase tennis icon brown first cube pattern discover trophy basket kiwi";

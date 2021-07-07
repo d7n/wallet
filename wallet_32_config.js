@@ -1,1 +1,1 @@
-var mnemonic = "across option that lift fiber bike entry symbol fade bomb until either";
+var mnemonic = "ivory choice owner follow hobby purse color vehicle segment tennis initial draft";

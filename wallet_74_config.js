@@ -1,1 +1,1 @@
-var mnemonic = "chest boat fox faculty such circle cushion oven excess unlock shove undo";
+var mnemonic = "bag hurt license join feel pen learn comfort little duty argue job";

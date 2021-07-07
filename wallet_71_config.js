@@ -1,1 +1,1 @@
-var mnemonic = "base rapid habit nothing humble number mix enroll slam indicate action defense";
+var mnemonic = "vibrant gospel police concert two derive can orange bring notable peace seek";

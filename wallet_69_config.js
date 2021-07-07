@@ -1,1 +1,1 @@
-var mnemonic = "assault daring rookie admit tuition october imitate axis there describe crystal come";
+var mnemonic = "bulk wasp snow bid width diet cigar awesome gentle uncover suit thank";

@@ -1,1 +1,1 @@
-var mnemonic = "forum spice upper what warfare case engine state bicycle humble ethics enjoy";
+var mnemonic = "stem exhaust lunch globe tilt hollow tragic horse fetch seed couple clinic";

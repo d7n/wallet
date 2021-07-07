@@ -1,1 +1,1 @@
-var mnemonic = "purpose breeze rose bamboo cube dose turn dose pistol ugly employ pulse";
+var mnemonic = "two spring clinic neck alert conduct only bargain axis junior fruit need";

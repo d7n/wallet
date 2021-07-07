@@ -1,1 +1,1 @@
-var mnemonic = "merry panel opinion dolphin mad other below borrow doll kingdom toe tornado";
+var mnemonic = "hello mixed stool rebuild track burger random knife dash student uncover upon";

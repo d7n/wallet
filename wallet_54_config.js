@@ -1,1 +1,1 @@
-var mnemonic = "item park quality quarter interest print rocket smooth judge blossom special damp";
+var mnemonic = "boring account hockey flash shrug myth enroll ritual wide citizen spring festival";

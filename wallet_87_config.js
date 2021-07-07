@@ -1,1 +1,1 @@
-var mnemonic = "view fire salad goat image express embark under bonus party hawk electric";
+var mnemonic = "garment act escape struggle cube whale chair trial fragile typical short frog";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud blur globe nice shoot boost feel assume elegant boost fossil coast";
+var mnemonic = "trouble frame valley nation average wish answer path ecology patient weird shallow";

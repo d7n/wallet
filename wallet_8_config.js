@@ -1,1 +1,1 @@
-var mnemonic = "response client cricket figure repair depend pair mass guess quit where smoke";
+var mnemonic = "require hurdle tide load lobster lab abuse pulp enjoy habit puzzle during";

@@ -1,1 +1,1 @@
-var mnemonic = "verify step satoshi plug submit humor prevent grunt mind million erode orbit";
+var mnemonic = "layer glass people roof manual torch lazy tomato glue robust argue normal";

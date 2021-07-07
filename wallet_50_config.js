@@ -1,1 +1,1 @@
-var mnemonic = "knock patrol spell border bean wear deny cotton speed pencil cube exhaust";
+var mnemonic = "move someone curious fatal toss shove enter easily lyrics weather banner pool";

@@ -1,1 +1,1 @@
-var mnemonic = "quit nephew light pet share impose dune measure neither minute canvas better";
+var mnemonic = "wrap dance name region denial floor smooth magnet regret stand lake flag";

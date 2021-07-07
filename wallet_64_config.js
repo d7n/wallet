@@ -1,1 +1,1 @@
-var mnemonic = "will nominee action borrow palace nut menu analyst stool issue perfect divorce";
+var mnemonic = "shadow address always fiscal reason retire remind normal pool oven city unaware";

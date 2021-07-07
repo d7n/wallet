@@ -1,1 +1,1 @@
-var mnemonic = "steak grow tray scissors club urge wink jar various guide join dial";
+var mnemonic = "spread advice quit nurse window trigger smooth crew bitter early adjust salmon";

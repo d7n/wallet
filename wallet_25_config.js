@@ -1,1 +1,1 @@
-var mnemonic = "divide sausage code frozen segment use enroll company hello fetch brass ask";
+var mnemonic = "arctic unique shrug view seed build joy silver general fame syrup sudden";

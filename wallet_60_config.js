@@ -1,1 +1,1 @@
-var mnemonic = "wrestle vendor canal guess finish waste novel client inch swap between tail";
+var mnemonic = "alter that pause rebel intact escape ozone stage desert quit rival vacuum";

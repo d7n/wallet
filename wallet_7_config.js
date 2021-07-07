@@ -1,1 +1,1 @@
-var mnemonic = "lonely repair buddy clerk inflict fit churn federal merit target question veteran";
+var mnemonic = "heavy couch bean decrease require prefer awake sell all toddler swing myself";

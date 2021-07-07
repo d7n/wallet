@@ -1,1 +1,1 @@
-var mnemonic = "shove flee twenty eyebrow head amateur affair rail artefact record mask video";
+var mnemonic = "word improve magic joke glow ugly balcony wise tomato assault grow snow";

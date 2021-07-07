@@ -1,1 +1,1 @@
-var mnemonic = "tide candy elegant liar common base car receive evolve space lounge give";
+var mnemonic = "gauge lamp say pioneer essence hybrid burden enable mansion furnace ozone jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige chicken cereal peace believe keep celery hobby tongue raise jump ignore";
+var mnemonic = "chase repair visual canyon adapt rare mention great shine search worth toddler";

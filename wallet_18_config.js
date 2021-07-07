@@ -1,1 +1,1 @@
-var mnemonic = "melody step cereal fury battle this crucial dial wage patient discover twist";
+var mnemonic = "rabbit width anger book link stumble tray capable load social rib mistake";

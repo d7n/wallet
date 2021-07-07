@@ -1,1 +1,1 @@
-var mnemonic = "party proud swallow wolf spread orphan apple fabric physical safe auto thought";
+var mnemonic = "hill cage laptop plate imitate address fever effort feature meat amount harsh";

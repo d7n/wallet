@@ -1,1 +1,1 @@
-var mnemonic = "middle antenna network hidden amount fragile weekend young problem student bachelor tobacco";
+var mnemonic = "pretty valley combine youth impose gold wear zero gasp impose glare cloud";

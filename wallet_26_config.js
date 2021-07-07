@@ -1,1 +1,1 @@
-var mnemonic = "cable bleak miracle home soccer disagree piano bar select grape victory inquiry";
+var mnemonic = "apple dish crack rough ladder menu opinion situate squirrel uniform bicycle answer";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent just end hobby mixture awesome wonder ice before figure tube hand";
+var mnemonic = "hub reveal champion pepper expose model ability giggle welcome light gravity jungle";

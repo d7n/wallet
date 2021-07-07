@@ -1,1 +1,1 @@
-var mnemonic = "spoil robot list crunch casino repair school market illegal palm ketchup sibling";
+var mnemonic = "cattle hair leg holiday other copper fever social struggle quality long smile";

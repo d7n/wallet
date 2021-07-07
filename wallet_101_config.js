@@ -1,1 +1,1 @@
-var mnemonic = "snap barely outdoor soft neglect next hero call hello indicate during language";
+var mnemonic = "crystal chair tank region face clerk scout cream chief hire rule cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "scan ride nation lend park father copy improve puppy laptop whip keen";
+var mnemonic = "human pole noise describe glory swarm curve hungry live lumber student monkey";

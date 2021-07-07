@@ -1,1 +1,1 @@
-var mnemonic = "balcony barely theory multiply poverty school nasty advance goose off unaware today";
+var mnemonic = "lens lemon clap brisk begin orphan spell marine rate orange destroy average";

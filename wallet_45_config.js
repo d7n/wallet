@@ -1,1 +1,1 @@
-var mnemonic = "math eyebrow sun olympic promote addict nothing east cook urge such grab";
+var mnemonic = "galaxy tower news canvas inquiry tenant cheap code street chaos destroy wood";

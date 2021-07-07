@@ -1,1 +1,1 @@
-var mnemonic = "perfect recipe trophy flock pretty journey drastic immune silver unusual gallery carpet";
+var mnemonic = "noble teach bundle spin clinic game faith today safe side easy nasty";

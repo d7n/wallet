@@ -1,1 +1,1 @@
-var mnemonic = "wool clarify vendor mechanic accuse stamp mad coyote detail fine deliver paddle";
+var mnemonic = "wife snack output sunset emerge sail vintage crime recall canoe photo empty";

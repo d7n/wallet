@@ -1,1 +1,1 @@
-var mnemonic = "live fan cabbage verb else erase desert tunnel salmon vicious admit skin";
+var mnemonic = "entry intact rare engage dog trophy element cherry rib reason apple notable";

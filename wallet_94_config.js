@@ -1,1 +1,1 @@
-var mnemonic = "second child rally despair design treat one acoustic peanut axis dragon blouse";
+var mnemonic = "wealth fix buzz inhale stay fix human join language fiber advance harsh";

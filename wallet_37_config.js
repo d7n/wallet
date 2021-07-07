@@ -1,1 +1,1 @@
-var mnemonic = "among bench foam sustain concert strike uniform area seat tag rely ozone";
+var mnemonic = "blame lava plate tail nuclear carbon target enrich situate liberty injury profit";

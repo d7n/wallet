@@ -1,1 +1,1 @@
-var mnemonic = "spell black media sunset fiscal device already extend hungry april leisure chest";
+var mnemonic = "provide coach space try estate neglect genius glimpse invite tennis myth pluck";

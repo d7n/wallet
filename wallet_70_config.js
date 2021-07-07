@@ -1,1 +1,1 @@
-var mnemonic = "address canvas air pull lift dragon wire almost meadow erode reduce small";
+var mnemonic = "penalty trade fade shoe unique tide off grant recycle response win best";

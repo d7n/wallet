@@ -1,1 +1,1 @@
-var mnemonic = "gate resist tragic slide blanket parade hen exhaust assist cushion enough coyote";
+var mnemonic = "oppose tired mushroom depart father cave popular broom shop blush child lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "outside chunk miracle nuclear smoke web figure proud surge nuclear obscure hour";
+var mnemonic = "meat margin scene lesson plate nose elder enter hidden prize predict behind";

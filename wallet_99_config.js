@@ -1,1 +1,1 @@
-var mnemonic = "arrange island time welcome sand thank gaze village marble canyon person bachelor";
+var mnemonic = "police pioneer film craft silly dinosaur gentle hurry prosper human humble until";

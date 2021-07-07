@@ -1,1 +1,1 @@
-var mnemonic = "normal sick critic adjust bicycle narrow obvious north gospel shrug pulse never";
+var mnemonic = "volcano silver avocado lecture armor canyon club economy vacant tunnel song wedding";

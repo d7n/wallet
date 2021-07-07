@@ -1,1 +1,1 @@
-var mnemonic = "since worth uphold brand great human reduce cushion census series coast renew";
+var mnemonic = "shove hour health mix young puzzle soap wrong addict play blame violin";

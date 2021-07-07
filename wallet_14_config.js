@@ -1,1 +1,1 @@
-var mnemonic = "picture correct note little air social hammer aware track knock easily view";
+var mnemonic = "survey modify top desk pioneer raise sea silent ranch youth urge twist";

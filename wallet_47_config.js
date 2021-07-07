@@ -1,1 +1,1 @@
-var mnemonic = "seat cave gas stone lunch palm supreme mule flower evolve seed obey";
+var mnemonic = "dutch firm junior battle tragic bunker gas penalty spatial quit ski shift";

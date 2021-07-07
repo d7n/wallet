@@ -1,1 +1,1 @@
-var mnemonic = "pepper cloud amused replace filter spoon answer neck gesture slogan arrow say";
+var mnemonic = "owner derive present crane pitch digital claw funny vapor tribe shrug video";

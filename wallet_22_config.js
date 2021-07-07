@@ -1,1 +1,1 @@
-var mnemonic = "ancient file wall lesson risk suspect very immense stand bench indicate horse";
+var mnemonic = "what wall swift lunar blame wrestle crystal split approve expand car liquid";

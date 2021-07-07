@@ -1,1 +1,1 @@
-var mnemonic = "embody claw then stuff blind code depth fox diesel eyebrow insane velvet";
+var mnemonic = "coconut reason renew arch castle sponsor planet rookie certain diamond bubble service";

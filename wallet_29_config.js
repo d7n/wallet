@@ -1,1 +1,1 @@
-var mnemonic = "letter make swift antique owner thing ripple help minor game across oyster";
+var mnemonic = "mosquito ugly goddess firm ensure merge garment spirit burger box another sister";

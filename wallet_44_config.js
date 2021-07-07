@@ -1,1 +1,1 @@
-var mnemonic = "near nuclear protect submit attend museum food minimum entry impose gallery spell";
+var mnemonic = "friend news sample cry east behind expire gym palace dignity poverty sustain";

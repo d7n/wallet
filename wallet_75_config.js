@@ -1,1 +1,1 @@
-var mnemonic = "thrive feel fit concert blanket visual ship what stem usage rigid siren";
+var mnemonic = "noise visit average cart voice easy human rapid elder hockey agent kiwi";

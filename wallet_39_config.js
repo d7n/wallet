@@ -1,1 +1,1 @@
-var mnemonic = "deliver jaguar say hub huge shrug often evil escape captain giggle minimum";
+var mnemonic = "runway machine recipe thumb space effort custom six fiscal next filter spirit";

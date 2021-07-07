@@ -1,1 +1,1 @@
-var mnemonic = "actress leave cotton artefact dice alien labor unable nice essence exercise machine";
+var mnemonic = "zero flush awesome voice flee number tip squeeze off oak amount wire";

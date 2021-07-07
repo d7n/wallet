@@ -1,1 +1,1 @@
-var mnemonic = "valid casual occur trade frozen scrub near affair text film cart comic";
+var mnemonic = "one wisdom install muffin slice file eager unaware toast offer magic flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "trial reunion cinnamon erosion renew dust spider dentist twin rally era hold";
+var mnemonic = "excite wise expect mechanic catalog nose tiny thunder pink profit badge fall";

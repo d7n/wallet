@@ -1,1 +1,1 @@
-var mnemonic = "chicken ribbon machine sock jump glue witness add grow jeans repeat talk";
+var mnemonic = "midnight chest mean curtain uphold quiz link flock gather pull install enemy";

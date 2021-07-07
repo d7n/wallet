@@ -1,1 +1,1 @@
-var mnemonic = "dream buzz curious bar museum idea ritual this shock chronic pact winner";
+var mnemonic = "glide castle settle tag invite child matter gate treat else guide beach";

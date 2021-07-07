@@ -1,1 +1,1 @@
-var mnemonic = "fork salad dinosaur strike budget element staff meadow bracket search aim width";
+var mnemonic = "budget goat abandon warrior father impose weapon movie shine permit maze weasel";

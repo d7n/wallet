@@ -1,1 +1,1 @@
-var mnemonic = "predict holiday trick rival crowd speed now stock occur inspire dry innocent";
+var mnemonic = "balcony camera car route luggage giant balcony glow miracle wolf urban arrive";

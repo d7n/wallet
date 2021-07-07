@@ -1,1 +1,1 @@
-var mnemonic = "access absent ridge brand lunch bring require crystal spend enlist lunar olive";
+var mnemonic = "square draw drift cram inspire region dilemma speak story chaos arrow hold";

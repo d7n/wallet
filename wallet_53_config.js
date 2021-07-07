@@ -1,1 +1,1 @@
-var mnemonic = "fence assume boost coffee left tomato lottery acoustic rail treat rent execute";
+var mnemonic = "toe delay cigar junior badge immune property assist maid vessel combine warm";

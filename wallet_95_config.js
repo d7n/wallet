@@ -1,1 +1,1 @@
-var mnemonic = "orchard actor approve pole deposit saddle mean poverty title tape vendor wonder";
+var mnemonic = "snack twin paper execute gain enemy rail pottery eternal three that miracle";

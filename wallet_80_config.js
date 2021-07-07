@@ -1,1 +1,1 @@
-var mnemonic = "device mutual thank net visit keen subject citizen they wide cave property";
+var mnemonic = "gorilla short stem universe essence design loyal paper chat fit sketch adapt";

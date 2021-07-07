@@ -1,1 +1,1 @@
-var mnemonic = "mirror turkey cancel opera tuna flag tide design achieve rug clock shoot";
+var mnemonic = "echo all brave distance debate kit moral demise era goose front oyster";

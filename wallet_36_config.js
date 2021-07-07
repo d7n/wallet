@@ -1,1 +1,1 @@
-var mnemonic = "symbol employ recycle region over vault extra other fiscal valid hybrid bird";
+var mnemonic = "garbage bus also capable choose hint dish multiply easy patch reflect private";

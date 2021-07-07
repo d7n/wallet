@@ -1,1 +1,1 @@
-var mnemonic = "exile guide poet follow twist trip mixed private reflect boss buddy turkey";
+var mnemonic = "wise guilt monster cricket scorpion early huge fancy music check nasty total";

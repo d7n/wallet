@@ -1,1 +1,1 @@
-var mnemonic = "essence clown struggle obtain cinnamon quiz wheel beauty escape story knife treat";
+var mnemonic = "warrior library demand fragile strategy cupboard earn together average jungle output canoe";

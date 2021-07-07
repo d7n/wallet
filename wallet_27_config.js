@@ -1,1 +1,1 @@
-var mnemonic = "common ranch supply loop friend fold vehicle input obey firm primary sign";
+var mnemonic = "trash raw remember spot say suspect impose cage summer split inside they";

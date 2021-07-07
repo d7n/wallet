@@ -1,1 +1,1 @@
-var mnemonic = "asthma green shop nest post wealth wave display major elevator stay width";
+var mnemonic = "seek ring road educate crawl gospel unfair relief heart slide explain wreck";

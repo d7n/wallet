@@ -1,1 +1,1 @@
-var mnemonic = "strategy basket refuse phrase few blame fresh sunset system lion brand vanish";
+var mnemonic = "reflect increase runway clean dad service arrest right above soccer market episode";

@@ -1,1 +1,1 @@
-var mnemonic = "festival upset stand rocket magnet outdoor crystal dish allow sustain misery lucky";
+var mnemonic = "lonely soft renew seat trophy salon feel happy shrug steel metal copy";

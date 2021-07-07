@@ -1,1 +1,1 @@
-var mnemonic = "under illness innocent party arrest rigid mushroom flower drop banana wool vanish";
+var mnemonic = "utility tower zone relief dish material labor fragile monkey load empty panda";

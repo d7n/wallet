@@ -1,1 +1,1 @@
-var mnemonic = "write tail outdoor void sphere soccer need earn way attitude grass fence";
+var mnemonic = "route display taste local sphere picnic legend guitar absent coin ginger pioneer";

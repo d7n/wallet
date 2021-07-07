@@ -1,1 +1,1 @@
-var mnemonic = "diesel slush execute color smart symptom meat pioneer wage innocent fancy ethics";
+var mnemonic = "ring rapid forget tip detail sentence palace art subway steak civil canvas";

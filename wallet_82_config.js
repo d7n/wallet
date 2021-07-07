@@ -1,1 +1,1 @@
-var mnemonic = "panic push carry eight joy bunker shoot chronic oppose dance table plug";
+var mnemonic = "bring lyrics cereal beach industry urban giant oven health license minor true";

@@ -1,1 +1,1 @@
-var mnemonic = "minor fiber witness carry cram bird park outer garden neglect unique wedding";
+var mnemonic = "rate scare impose like cotton miss network scatter window analyst field spend";

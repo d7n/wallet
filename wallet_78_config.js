@@ -1,1 +1,1 @@
-var mnemonic = "dream town thrive water uniform army duck ready airport call feel fragile";
+var mnemonic = "divert delay journey syrup topic found voyage mutual sport recycle find spike";

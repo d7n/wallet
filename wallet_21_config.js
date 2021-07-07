@@ -1,1 +1,1 @@
-var mnemonic = "celery setup prepare side man theme teach mirror drip wasp skull gallery";
+var mnemonic = "appear donkey country tiny kind orient high athlete pig clump old upset";

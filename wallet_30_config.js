@@ -1,1 +1,1 @@
-var mnemonic = "cattle service bamboo cushion economy leader ready main myself link hedgehog scale";
+var mnemonic = "seven expect all trial fortune under friend south labor cabin pink item";

@@ -1,1 +1,1 @@
-var mnemonic = "method need word razor vibrant sport penalty excite fiction write rare shy";
+var mnemonic = "author ceiling broom popular inside echo noise physical labor swear blade assist";

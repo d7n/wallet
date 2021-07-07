@@ -1,1 +1,1 @@
-var mnemonic = "control grief sun intact clog asset demand brush keep elevator bus despair";
+var mnemonic = "sail tooth still keep subject solve project artwork license ride error thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson silk frequent monster blue south peasant deny better hair large tribe";
+var mnemonic = "invest attitude dance stool express play actor benefit alter believe adapt benefit";

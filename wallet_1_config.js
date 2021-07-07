@@ -1,1 +1,1 @@
-var mnemonic = "language correct civil image exchange used canoe visual fence sponsor perfect truck";
+var mnemonic = "antique lunch able upon midnight yellow gauge burst sword woman elite sing";

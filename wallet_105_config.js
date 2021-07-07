@@ -1,1 +1,1 @@
-var mnemonic = "already uncle sorry enter spread three matrix enter eagle file satisfy flame";
+var mnemonic = "tomato city chair student mobile sick firm excite bird suspect search ball";
