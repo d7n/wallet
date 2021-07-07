@@ -1,1 +1,1 @@
-var mnemonic = "betray leaf armed increase vendor actress arrive crater version steel diamond naive";
+var mnemonic = "nice feature drama kit worth reopen announce safe inject female foot sock";

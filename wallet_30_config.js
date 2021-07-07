@@ -1,1 +1,1 @@
-var mnemonic = "crew image indicate rookie dance thrive ritual sense finger mass onion salon";
+var mnemonic = "jungle impulse ahead enemy pyramid fatigue renew latin sand daring such economy";

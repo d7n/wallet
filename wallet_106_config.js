@@ -1,1 +1,1 @@
-var mnemonic = "vote stable flash now fiber double cube normal coffee stadium appear chicken";
+var mnemonic = "treat food language refuse force rival quantum forest forward genius define bunker";

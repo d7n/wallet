@@ -1,1 +1,1 @@
-var mnemonic = "diet trouble size two broccoli diet bike surround hip doctor original enable";
+var mnemonic = "supply since please mechanic life oil alert team blood kitchen chat this";

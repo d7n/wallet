@@ -1,1 +1,1 @@
-var mnemonic = "marriage giant outside remain raw wash faculty face license elegant quit base";
+var mnemonic = "miss refuse engage forward debris giant reflect girl cigar dance discover peace";

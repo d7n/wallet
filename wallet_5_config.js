@@ -1,1 +1,1 @@
-var mnemonic = "pause exhibit add drip shine theme slow range crouch auto produce tiger";
+var mnemonic = "shy joke negative coil give panic pigeon admit vacuum mouse foil syrup";

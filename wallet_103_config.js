@@ -1,1 +1,1 @@
-var mnemonic = "uniform matrix solution visit awesome dignity bright toddler quote valid thing innocent";
+var mnemonic = "element speak top knock expose bind clerk actress best poem ten glow";

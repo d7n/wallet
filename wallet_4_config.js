@@ -1,1 +1,1 @@
-var mnemonic = "verb law forum enforce sugar drill buffalo poet away decline make deputy";
+var mnemonic = "ride forget grow liquid walk grief camp rate taxi banner soup crawl";

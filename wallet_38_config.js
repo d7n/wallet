@@ -1,1 +1,1 @@
-var mnemonic = "broom rural hover envelope cheap tourist volume misery inner wish worry human";
+var mnemonic = "cloth property arrest fade fat paddle news favorite unhappy ask category car";

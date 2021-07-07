@@ -1,1 +1,1 @@
-var mnemonic = "frozen outdoor agree victory motor focus brass region dune another length bind";
+var mnemonic = "response south fresh account health away twelve simple settle push tell always";

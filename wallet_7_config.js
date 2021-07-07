@@ -1,1 +1,1 @@
-var mnemonic = "upgrade budget dish blouse tattoo kitten kidney domain twice small hour gate";
+var mnemonic = "crisp double learn slide museum jewel theory expect skate olympic awake dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "sand dash february trade nice figure pill attend language once endless tray";
+var mnemonic = "large abuse dolphin disagree deny convince pause keen size liar robust patient";

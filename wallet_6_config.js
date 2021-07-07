@@ -1,1 +1,1 @@
-var mnemonic = "month inmate praise liquid hello rug chat alien error scene caution body";
+var mnemonic = "antique people royal denial feel include hammer story brush trust help width";

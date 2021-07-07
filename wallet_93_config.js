@@ -1,1 +1,1 @@
-var mnemonic = "crawl rescue clarify slender exact because obvious woman volcano machine potato waste";
+var mnemonic = "fine culture entry baby story stage charge more true category spoil forest";

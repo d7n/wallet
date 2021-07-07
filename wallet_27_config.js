@@ -1,1 +1,1 @@
-var mnemonic = "bus swap catalog shallow material hidden derive will advice wrist fun admit";
+var mnemonic = "open detect post minute protect clarify oxygen eager artefact bus junior found";

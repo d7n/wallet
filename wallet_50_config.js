@@ -1,1 +1,1 @@
-var mnemonic = "click cancel hire album ring correct radio say local news bind tuna";
+var mnemonic = "average grief sun grab grow smooth sausage fade chef isolate dose citizen";

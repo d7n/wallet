@@ -1,1 +1,1 @@
-var mnemonic = "achieve critic disagree humor reject salt enlist pig focus actor blame chimney";
+var mnemonic = "wait puzzle stereo corn dust actual excite way cloud hill shoe wing";

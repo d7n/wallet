@@ -1,1 +1,1 @@
-var mnemonic = "prosper gain snack split tattoo toddler divorce fantasy purpose brick faint laundry";
+var mnemonic = "upper wide bless garbage tourist vendor pair female pet skin enter excess";

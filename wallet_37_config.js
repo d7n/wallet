@@ -1,1 +1,1 @@
-var mnemonic = "veteran dutch core sponsor expand hover wool burst flip until idea lion";
+var mnemonic = "tide reflect oak discover atom shaft among smart fancy about upon muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "door cook bunker pull polar risk march sugar danger rain layer toward";
+var mnemonic = "behind patrol comfort immense eyebrow romance knock ecology flower sign vivid tree";

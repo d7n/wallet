@@ -1,1 +1,1 @@
-var mnemonic = "caution soup aerobic deer stone gap clay cloth envelope select shoulder payment";
+var mnemonic = "sweet true secret outside orchard pipe crouch blur cherry exit just owner";

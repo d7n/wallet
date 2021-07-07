@@ -1,1 +1,1 @@
-var mnemonic = "stove radio frame pool outer reveal fat wool beyond grace actual clerk";
+var mnemonic = "autumn dentist traffic beyond merry drama assist ready prosper dumb expose coil";

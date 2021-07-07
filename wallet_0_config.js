@@ -1,1 +1,1 @@
-var mnemonic = "deliver album transfer lemon angry cage sadness sudden viable black current slab";
+var mnemonic = "exercise cloud bullet rule picnic future moon clarify tell brown fold odor";

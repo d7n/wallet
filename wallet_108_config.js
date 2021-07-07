@@ -1,1 +1,1 @@
-var mnemonic = "bracket find rural brave foot ticket faint industry light valley floor list";
+var mnemonic = "helmet actual forum item pole solution fashion acquire coconut glow term unaware";

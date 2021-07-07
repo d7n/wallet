@@ -1,1 +1,1 @@
-var mnemonic = "rib stereo judge quantum final skin deliver stable wrap wall law acoustic";
+var mnemonic = "spatial learn brass fury change abandon barely rug hold merit produce inside";

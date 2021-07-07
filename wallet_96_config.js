@@ -1,1 +1,1 @@
-var mnemonic = "story math junk double noise distance visit unveil essay cousin volcano symptom";
+var mnemonic = "dirt shoot pitch tribe dragon answer crack crouch ensure stage cargo pear";

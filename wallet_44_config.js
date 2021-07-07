@@ -1,1 +1,1 @@
-var mnemonic = "crouch divorce battle bus naive leaf object arrow congress general urge tower";
+var mnemonic = "normal family lawn empty clinic coral wood grief plastic melt thumb patch";

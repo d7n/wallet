@@ -1,1 +1,1 @@
-var mnemonic = "field setup stay merry reveal kid thumb bracket renew lumber helmet current";
+var mnemonic = "strong jaguar describe purchase oblige cover print install torch chimney drip tunnel";

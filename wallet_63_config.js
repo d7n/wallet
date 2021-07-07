@@ -1,1 +1,1 @@
-var mnemonic = "miss priority blanket dentist enact spin divide hole pass monitor marriage shadow";
+var mnemonic = "dinner paddle impact what spell canal scan poem cement slender honey diary";

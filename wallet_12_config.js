@@ -1,1 +1,1 @@
-var mnemonic = "sponsor because ritual field outdoor liquid open annual keen choose gadget bus";
+var mnemonic = "biology become remind struggle soccer student alpha reason tube drastic balance foot";

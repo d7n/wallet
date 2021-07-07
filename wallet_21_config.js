@@ -1,1 +1,1 @@
-var mnemonic = "normal champion cabin cupboard iron blue area provide dizzy tuition grunt sick";
+var mnemonic = "roof hard neglect photo analyst chase rhythm sniff legal torch little across";

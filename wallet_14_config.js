@@ -1,1 +1,1 @@
-var mnemonic = "captain office vacant copper squeeze safe depth cabbage siren plate family wrap";
+var mnemonic = "shiver allow ankle yellow glide speak brisk angry october escape weekend virtual";

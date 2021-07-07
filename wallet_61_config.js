@@ -1,1 +1,1 @@
-var mnemonic = "swarm force violin reject blast fold catch modify novel soccer you embrace";
+var mnemonic = "spider marble life drama chat pole nice wreck habit popular math street";

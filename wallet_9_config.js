@@ -1,1 +1,1 @@
-var mnemonic = "steak quarter say strategy dilemma pyramid used process trap pumpkin hole boat";
+var mnemonic = "chef era end mosquito planet then shift habit vast luxury access athlete";

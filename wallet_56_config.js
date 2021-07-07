@@ -1,1 +1,1 @@
-var mnemonic = "stereo board tennis erosion vanish protect random inject dirt bounce dignity bike";
+var mnemonic = "buyer upper course easy orbit blanket desert rug economy neck minor leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "any loan exist glance civil ugly knee legend toward inside melt illness";
+var mnemonic = "glory now hope era comfort dash book find bridge bacon sustain smooth";

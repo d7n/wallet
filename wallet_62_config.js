@@ -1,1 +1,1 @@
-var mnemonic = "shuffle unusual evidence sketch allow pottery warfare merry helmet vague taste learn";
+var mnemonic = "feed hair panda trophy mirror gate fuel nuclear slab eagle spice extra";

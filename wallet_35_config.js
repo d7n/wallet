@@ -1,1 +1,1 @@
-var mnemonic = "wheel priority tackle bronze jealous cigar void economy hair dizzy proud much";
+var mnemonic = "lab myself intact valley version man fold romance local slow sunset fan";

@@ -1,1 +1,1 @@
-var mnemonic = "toe liquid cram trust boost where misery input receive access program file";
+var mnemonic = "dirt latin trouble later brain stereo load pact lock area scene game";

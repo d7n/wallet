@@ -1,1 +1,1 @@
-var mnemonic = "shed original dry million monitor absorb fun actor dilemma tuition volcano code";
+var mnemonic = "yard idle vibrant false under forest decrease over animal weekend deputy twelve";

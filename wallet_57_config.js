@@ -1,1 +1,1 @@
-var mnemonic = "arm work alcohol jar warfare novel patient inject below urge shallow tomato";
+var mnemonic = "ugly fitness spy famous install upon gown like inhale kite praise nasty";

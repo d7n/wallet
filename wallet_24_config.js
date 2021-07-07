@@ -1,1 +1,1 @@
-var mnemonic = "acquire polar fade matrix pass rubber hungry people option surface ill reflect";
+var mnemonic = "age sting seek pair snake chunk plastic logic youth biology sweet matter";

@@ -1,1 +1,1 @@
-var mnemonic = "account december foam depth crawl profit fatal diary brother kidney knock elite";
+var mnemonic = "east panda maximum town drip loyal loud bleak black vintage relax relief";

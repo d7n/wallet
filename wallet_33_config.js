@@ -1,1 +1,1 @@
-var mnemonic = "result crawl emotion cream virtual tissue enroll vault bubble divert seek town";
+var mnemonic = "vocal skin stomach huge suit energy mixture shallow target loop salute there";

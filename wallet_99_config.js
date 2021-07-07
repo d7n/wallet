@@ -1,1 +1,1 @@
-var mnemonic = "bench cigar pink doctor wait width earth long fashion fortune alcohol food";
+var mnemonic = "canvas upon panther bounce cancel agent rebel account upgrade off level employ";

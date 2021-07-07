@@ -1,1 +1,1 @@
-var mnemonic = "market basket slender danger hire hamster group chuckle speak link satoshi degree";
+var mnemonic = "resist begin outside leisure alley cloud neck release wash step voyage defy";

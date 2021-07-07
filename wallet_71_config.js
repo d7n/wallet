@@ -1,1 +1,1 @@
-var mnemonic = "gas identify expand monkey refuse gather moon enforce load abandon affair cage";
+var mnemonic = "street enact meat trap crowd tongue food inmate large bicycle swamp enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "address whip pet zero rail claw gallery wagon defy engage follow focus";
+var mnemonic = "alter region crouch lottery lift random sadness lobster faith high sorry eternal";

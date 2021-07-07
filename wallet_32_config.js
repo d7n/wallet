@@ -1,1 +1,1 @@
-var mnemonic = "correct when traffic artefact law camp cargo bag style layer ship much";
+var mnemonic = "lyrics unique yard traffic matter flight behind inside hope art creek where";

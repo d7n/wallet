@@ -1,1 +1,1 @@
-var mnemonic = "wood buffalo time oven place whale humble sustain adult album evidence spare";
+var mnemonic = "sing join uniform stage link zone bachelor laundry cabbage purchase into amateur";

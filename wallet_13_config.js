@@ -1,1 +1,1 @@
-var mnemonic = "carry average shield mimic candy possible keen usage peasant segment arch front";
+var mnemonic = "follow silent oxygen blush result invest bean tree first rent love front";

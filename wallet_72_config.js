@@ -1,1 +1,1 @@
-var mnemonic = "enemy police wink biology cereal pig retreat copy buffalo copy cherry farm";
+var mnemonic = "snake upset congress reopen music question company marble capital consider ship pet";

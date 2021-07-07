@@ -1,1 +1,1 @@
-var mnemonic = "correct pizza cabbage century oil stool exotic bridge light child sword key";
+var mnemonic = "venue doctor rug dish tape stock youth glove december hockey lucky chronic";

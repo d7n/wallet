@@ -1,1 +1,1 @@
-var mnemonic = "across truly raccoon derive garden fix gospel act clean weird defy bird";
+var mnemonic = "apology black motor august balcony eyebrow depth bamboo time dash leg broccoli";

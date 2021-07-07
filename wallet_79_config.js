@@ -1,1 +1,1 @@
-var mnemonic = "kit cause sight brush lawn room feed come unveil any confirm alien";
+var mnemonic = "base spend math island village boat lizard spread cousin cruel mail hunt";

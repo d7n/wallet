@@ -1,1 +1,1 @@
-var mnemonic = "occur brush lucky attitude olympic sample fee lunch tornado dry entry frequent";
+var mnemonic = "flee illness category heavy aware venue amount anger coyote dog scrub until";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot unveil pattern use fit urban riot visa modify hotel squeeze legal";
+var mnemonic = "pelican leopard jacket useless crane cream farm curve nephew benefit slice glad";

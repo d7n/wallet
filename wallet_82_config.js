@@ -1,1 +1,1 @@
-var mnemonic = "glance lumber pottery rigid caught lunar refuse shell power else orphan surface";
+var mnemonic = "cream strike jewel wrap long web admit palace pave unlock scrap same";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict october jump move stay lazy carpet kind uniform amused sea raise";
+var mnemonic = "hat smart fiscal check front velvet orphan bridge omit beach glove school";

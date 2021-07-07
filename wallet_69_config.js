@@ -1,1 +1,1 @@
-var mnemonic = "sudden special spell velvet obscure burger idle meadow forest debate code tiger";
+var mnemonic = "orphan apology picnic inmate antenna throw mirror father orange street media thank";

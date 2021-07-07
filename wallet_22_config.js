@@ -1,1 +1,1 @@
-var mnemonic = "expose pole unveil nominee symbol ask fossil palm unfair whale box large";
+var mnemonic = "attend album clarify pave easy elephant vintage culture average lend quantum miracle";

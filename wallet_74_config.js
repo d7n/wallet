@@ -1,1 +1,1 @@
-var mnemonic = "smile mail skill movie view liquid conduct spring harsh tuition steel panther";
+var mnemonic = "pipe jeans steel salt detail flower cotton enact dilemma few step tank";

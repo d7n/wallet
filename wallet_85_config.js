@@ -1,1 +1,1 @@
-var mnemonic = "cool soon reduce horn lady minute foster step wonder tone rhythm alcohol";
+var mnemonic = "rapid avoid mass forum wheat acid craft you bounce repeat update blush";

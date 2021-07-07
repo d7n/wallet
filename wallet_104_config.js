@@ -1,1 +1,1 @@
-var mnemonic = "cannon abandon left cotton until degree armor knock lyrics doctor clarify wool";
+var mnemonic = "fever arch dial manage position gossip fitness lend bronze true rough axis";

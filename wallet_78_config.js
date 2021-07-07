@@ -1,1 +1,1 @@
-var mnemonic = "round pulp forest dove tube detect subject chalk sphere ginger fun tool";
+var mnemonic = "dune ensure join song jewel lumber sure firm solve need scorpion purpose";

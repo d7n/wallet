@@ -1,1 +1,1 @@
-var mnemonic = "swift pitch early matter either danger snack about fall seat eye system";
+var mnemonic = "poverty attract snow grunt knife motion gravity cigar impact achieve east radio";

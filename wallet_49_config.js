@@ -1,1 +1,1 @@
-var mnemonic = "coach trip neither cargo nose output solution prosper review cigar divorce cherry";
+var mnemonic = "stomach jeans category bike ecology attend stable evidence clap review social search";

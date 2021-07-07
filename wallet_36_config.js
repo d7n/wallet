@@ -1,1 +1,1 @@
-var mnemonic = "buffalo ramp close index spice bone steak page march result slogan phone";
+var mnemonic = "core orchard tenant maze blur cotton lava kidney charge beyond opinion exclude";

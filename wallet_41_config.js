@@ -1,1 +1,1 @@
-var mnemonic = "valve gossip ability entire six pistol must sustain anger unknown broken depend";
+var mnemonic = "sick predict right execute cabin salmon visit toy firm afford gun injury";

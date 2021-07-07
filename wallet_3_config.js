@@ -1,1 +1,1 @@
-var mnemonic = "mad soon broom jar donate gesture aware arrange someone target planet timber";
+var mnemonic = "egg envelope neither fog exile hub minimum sad quality forest orange rent";

@@ -1,1 +1,1 @@
-var mnemonic = "visa captain else stock cabbage blur typical arrange gorilla borrow that milk";
+var mnemonic = "ethics wreck polar abandon mixed mouse fatal orchard regular beach pilot fatigue";

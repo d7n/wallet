@@ -1,1 +1,1 @@
-var mnemonic = "coffee camp hybrid diet furnace cricket gas else verb charge ordinary dune";
+var mnemonic = "gauge clinic ticket surround capital exotic wave orchard senior core clutch deer";

@@ -1,1 +1,1 @@
-var mnemonic = "someone sleep else giant deal name hedgehog garage travel ski ecology visual";
+var mnemonic = "foot enemy slam hover faculty negative evil ocean mixed absent morning upper";

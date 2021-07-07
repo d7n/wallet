@@ -1,1 +1,1 @@
-var mnemonic = "comfort team develop diamond dutch arm stuff nominee draft green erode replace";
+var mnemonic = "budget agent snack crucial tide umbrella cliff admit carry inch strategy dry";

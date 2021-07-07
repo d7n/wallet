@@ -1,1 +1,1 @@
-var mnemonic = "delay squeeze device hood patrol brave worth excite card pistol cabin kitchen";
+var mnemonic = "base clutch roof version baby museum slim cradle coral palace reopen cheap";

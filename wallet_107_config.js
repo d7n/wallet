@@ -1,1 +1,1 @@
-var mnemonic = "city bracket bulb sing menu senior farm rebuild blade wheel uniform brass";
+var mnemonic = "teach select annual thrive brass genius duty loop walnut capable jazz tail";

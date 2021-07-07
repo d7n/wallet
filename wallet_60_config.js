@@ -1,1 +1,1 @@
-var mnemonic = "reject jump secret sad farm sphere gift core little pact base still";
+var mnemonic = "edit fall media daughter boss proud express obvious cute change life night";

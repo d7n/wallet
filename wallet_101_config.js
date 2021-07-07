@@ -1,1 +1,1 @@
-var mnemonic = "crater brief recipe poem object make height uncover attract sword exact rude";
+var mnemonic = "drip cannon else keep arrive carbon feel resist kite juice web crash";

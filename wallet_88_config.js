@@ -1,1 +1,1 @@
-var mnemonic = "tragic hill combine grit lawsuit soldier logic twelve enough forum length rhythm";
+var mnemonic = "excite source fuel across gallery kidney spare witness oven skin shed punch";

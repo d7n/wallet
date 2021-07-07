@@ -1,1 +1,1 @@
-var mnemonic = "rent goddess angle flip history fold blanket topic impact crazy health unaware";
+var mnemonic = "firm lumber during combine misery turtle able tongue rubber celery book main";

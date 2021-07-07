@@ -1,1 +1,1 @@
-var mnemonic = "slogan plunge crumble smoke stumble lunch fade weird climb since mango stand";
+var mnemonic = "vibrant someone indicate two galaxy grant output large output virus chicken bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "common helmet wild angry series radio fix beauty fine right cabbage sword";
+var mnemonic = "century spray stay tag immense coral elegant poverty danger whip utility act";

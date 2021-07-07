@@ -1,1 +1,1 @@
-var mnemonic = "mother shy syrup narrow enlist better lamp taste tattoo calm off review";
+var mnemonic = "work model banner census verify enable ahead present capital harvest focus copper";

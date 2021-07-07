@@ -1,1 +1,1 @@
-var mnemonic = "real cross bag ocean twenty away drill loop august bread describe top";
+var mnemonic = "online cereal tide room purse please daughter junior tool front enroll quit";

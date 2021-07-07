@@ -1,1 +1,1 @@
-var mnemonic = "gate develop barely labor erosion stand narrow cushion diagram sample kitchen enjoy";
+var mnemonic = "plug curious mystery minute borrow drama install artwork allow walnut twist dune";

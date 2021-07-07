@@ -1,1 +1,1 @@
-var mnemonic = "tube ill shove february day company refuse clinic village alert crucial tissue";
+var mnemonic = "forget hood index trim potato resource lake mouse place wrist accuse pottery";

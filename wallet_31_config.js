@@ -1,1 +1,1 @@
-var mnemonic = "tip salmon material buyer skin praise candy release audit turn fantasy maple";
+var mnemonic = "mango frog cross increase real few message hybrid exist hello attend glide";
