@@ -1,1 +1,1 @@
-var mnemonic = "odor belt fit can cube harvest mother crystal reunion initial yellow theme";
+var mnemonic = "sample measure photo solution sail chest venture dust clean cook predict dutch";

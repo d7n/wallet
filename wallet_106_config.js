@@ -1,1 +1,1 @@
-var mnemonic = "put manual smart accuse feature vessel nephew execute rate hollow custom tide";
+var mnemonic = "alarm organ meadow cousin burst bird warm napkin awkward thought laugh shadow";

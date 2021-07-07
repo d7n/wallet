@@ -1,1 +1,1 @@
-var mnemonic = "stuff noise short slight quality copper puzzle receive move razor alert degree";
+var mnemonic = "vote client cage word rug accident property unlock knock hour polar garment";

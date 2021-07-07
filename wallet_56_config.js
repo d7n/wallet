@@ -1,1 +1,1 @@
-var mnemonic = "end cube anchor pave extend camera oil movie exchange orchard wasp own";
+var mnemonic = "piano idle empty talent oblige label critic before awkward boil speed sugar";

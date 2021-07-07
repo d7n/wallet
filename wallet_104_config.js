@@ -1,1 +1,1 @@
-var mnemonic = "crawl sponsor armed lava motor moment inquiry shadow lava van flavor old";
+var mnemonic = "close element moral stage alien paper ordinary flag crumble apology soul ensure";

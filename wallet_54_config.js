@@ -1,1 +1,1 @@
-var mnemonic = "salute brown morning noble catalog visual digital bounce segment camp argue tape";
+var mnemonic = "leave unhappy beauty affair budget cause because patch tank open child spring";

@@ -1,1 +1,1 @@
-var mnemonic = "burger cluster strike pond jacket inquiry muffin pelican parrot dynamic smooth vanish";
+var mnemonic = "office first hover remain flush material mystery view leader nothing clog gesture";

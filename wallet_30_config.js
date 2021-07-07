@@ -1,1 +1,1 @@
-var mnemonic = "vapor shell father boss soul skin turn borrow over escape decrease almost";
+var mnemonic = "pilot vessel grow father nothing warm below mobile robust exhibit black pear";

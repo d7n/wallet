@@ -1,1 +1,1 @@
-var mnemonic = "palm enforce van reason rhythm there north dice vivid rack prevent cross";
+var mnemonic = "page nose come program fun list east helmet lesson rookie cradle menu";

@@ -1,1 +1,1 @@
-var mnemonic = "learn sugar injury dream skull festival ankle friend open spot appear report";
+var mnemonic = "weapon critic bracket exotic guess engine endorse prison scrap another uncover copy";

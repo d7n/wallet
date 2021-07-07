@@ -1,1 +1,1 @@
-var mnemonic = "great lyrics hub dial forest chef elder romance laundry laptop truth butter";
+var mnemonic = "industry mansion radio strong inch letter loyal core ring forget old ethics";

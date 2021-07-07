@@ -1,1 +1,1 @@
-var mnemonic = "glass prosper drastic outside title caught elephant face light round day room";
+var mnemonic = "clutch because pistol patch deal giraffe demise skull maid tuna trophy try";

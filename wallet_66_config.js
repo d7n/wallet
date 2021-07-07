@@ -1,1 +1,1 @@
-var mnemonic = "what online valley whale couch seven old drop almost cattle seed please";
+var mnemonic = "version fire monkey leave humble faculty valid like gate door moon silly";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward manage expose dignity major render gift slam stereo float deputy will";
+var mnemonic = "sheriff entire exhaust whisper bracket state chest analyst couple imitate bird matrix";

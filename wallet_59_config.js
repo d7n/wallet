@@ -1,1 +1,1 @@
-var mnemonic = "advice flip slush seminar loop august belt please eagle latin venue struggle";
+var mnemonic = "year autumn boat movie like blossom sing rack denial cherry submit twist";

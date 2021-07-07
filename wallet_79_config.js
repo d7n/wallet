@@ -1,1 +1,1 @@
-var mnemonic = "lake dwarf reveal turtle dilemma wine chase evil start flight middle satisfy";
+var mnemonic = "art actor poet episode trim draft fog humble skate unhappy dose month";

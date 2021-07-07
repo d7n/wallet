@@ -1,1 +1,1 @@
-var mnemonic = "palace dog chalk accident unlock garment recipe source aisle equip pumpkin property";
+var mnemonic = "range stumble cup acid suit erosion voyage prosper obtain gesture biology spice";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer lounge rule thrive harsh wreck network wonder rifle possible safe gloom";
+var mnemonic = "toddler seven want better inhale advance dwarf opinion manage client type nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "casual blur valve beach veteran aspect enact click perfect enemy unfair primary";
+var mnemonic = "add pony learn enforce result tell scan hospital skull bounce gorilla ostrich";

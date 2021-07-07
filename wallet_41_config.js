@@ -1,1 +1,1 @@
-var mnemonic = "crystal vanish swarm trumpet wait dentist thunder derive team ridge visit lend";
+var mnemonic = "midnight quiz foil ridge lamp bread actual life modify hour desk clean";

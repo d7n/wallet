@@ -1,1 +1,1 @@
-var mnemonic = "seminar rude bean message doctor magnet century that black fossil fabric gaze";
+var mnemonic = "blade card buzz aim item celery club aisle album misery pig divert";

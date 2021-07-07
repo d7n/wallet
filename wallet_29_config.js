@@ -1,1 +1,1 @@
-var mnemonic = "organ father tissue pepper define visual detect dynamic tag behind hotel submit";
+var mnemonic = "home rent squirrel change milk country flight damp stereo ladder cash cradle";

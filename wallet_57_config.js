@@ -1,1 +1,1 @@
-var mnemonic = "whale bless surge discover black bid exclude opera orphan drill unlock kit";
+var mnemonic = "glance wine bomb short awful fame gift shoulder system orphan access naive";

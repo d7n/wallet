@@ -1,1 +1,1 @@
-var mnemonic = "bacon tribe metal emerge crumble rally dog engage treat exclude will hammer";
+var mnemonic = "silver prize ghost soldier hope thank issue proud shallow shrimp music dove";

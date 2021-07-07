@@ -1,1 +1,1 @@
-var mnemonic = "bean gown glory ramp damp cute pig scheme because kind pledge bring";
+var mnemonic = "diary mirror behave feel floor spare hotel sure crystal input size allow";

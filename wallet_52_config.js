@@ -1,1 +1,1 @@
-var mnemonic = "float fox stumble client manual segment budget coast neutral thumb horn cost";
+var mnemonic = "various spare thumb crazy oblige submit mix friend strategy sauce guess height";

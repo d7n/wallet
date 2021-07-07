@@ -1,1 +1,1 @@
-var mnemonic = "embody coral develop cake again still kitchen analyst awful round crawl custom";
+var mnemonic = "client sun hello apart crisp reason hope month fit noble solution clever";

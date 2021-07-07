@@ -1,1 +1,1 @@
-var mnemonic = "chuckle silver tide tip minute rookie giraffe ladder winner mosquito merit sell";
+var mnemonic = "pony enemy mad wear jazz body like fashion inflict potato sponsor rival";

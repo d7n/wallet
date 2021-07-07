@@ -1,1 +1,1 @@
-var mnemonic = "day monkey pole auction people fuel moment law mercy weird roof beef";
+var mnemonic = "icon crater fragile culture crime silent purity index winner lens party grow";

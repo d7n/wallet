@@ -1,1 +1,1 @@
-var mnemonic = "fence suspect casino lamp food any tuition vibrant secret extra dream lawsuit";
+var mnemonic = "depth please illness edge oblige forget lecture convince casual note celery thumb";

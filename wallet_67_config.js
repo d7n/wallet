@@ -1,1 +1,1 @@
-var mnemonic = "stage strike myself industry attend kingdom label palace journey injury invite wedding";
+var mnemonic = "advance remain tomorrow merge velvet about quiz void treat bulb sound length";

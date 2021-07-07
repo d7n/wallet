@@ -1,1 +1,1 @@
-var mnemonic = "alert coyote bubble link dress winter paper surface depth bring sense repair";
+var mnemonic = "special chalk course upgrade false credit acquire album phrase promote summer slam";

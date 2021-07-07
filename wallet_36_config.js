@@ -1,1 +1,1 @@
-var mnemonic = "boy guitar inquiry web claim follow alpha dentist sketch exist vintage horn";
+var mnemonic = "twelve black super measure symbol spider dinosaur cage above ladder any canoe";

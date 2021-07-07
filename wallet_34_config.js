@@ -1,1 +1,1 @@
-var mnemonic = "spice veteran acoustic destroy warfare husband subject fruit cattle lecture clump mimic";
+var mnemonic = "winter vibrant depart wrap child thank tattoo display card flame talent smile";

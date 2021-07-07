@@ -1,1 +1,1 @@
-var mnemonic = "sister ocean stumble hedgehog census differ letter correct message enforce present egg";
+var mnemonic = "exchange victory level renew know pepper puzzle disease silent join result wrist";

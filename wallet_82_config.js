@@ -1,1 +1,1 @@
-var mnemonic = "victory novel virus dry vintage mercy afraid clown unhappy craft cricket blade";
+var mnemonic = "hundred luxury search cable ethics reopen accuse west spell into crew list";

@@ -1,1 +1,1 @@
-var mnemonic = "will away scorpion silver fiscal educate surge bullet clarify there service input";
+var mnemonic = "myself shine occur window inspire often torch three change risk hotel supply";

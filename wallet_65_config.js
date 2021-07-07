@@ -1,1 +1,1 @@
-var mnemonic = "room gloom diet increase organ pulp crystal garden pause bird detail fragile";
+var mnemonic = "police track boss endless avocado genre august achieve clever lift swallow shy";

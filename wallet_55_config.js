@@ -1,1 +1,1 @@
-var mnemonic = "luggage control mask canvas soft update burden resist error regular chase grow";
+var mnemonic = "rapid tent exile issue hint yellow drastic concert cousin brick barrel wage";

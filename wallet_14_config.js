@@ -1,1 +1,1 @@
-var mnemonic = "visual will lecture thumb execute adjust ice screen nest short resource seek";
+var mnemonic = "athlete reduce grain great entire program logic wire mule salon strong simple";

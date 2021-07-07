@@ -1,1 +1,1 @@
-var mnemonic = "gauge open fire real quantum math track buyer drop verb zoo excess";
+var mnemonic = "asset base embody quiz ritual caution buddy region cradle obtain perfect toilet";

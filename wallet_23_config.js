@@ -1,1 +1,1 @@
-var mnemonic = "fat soldier van shop okay cinnamon marine relax airport adapt heavy truck";
+var mnemonic = "purse audit dentist barrel crush salt motion final find any parrot episode";

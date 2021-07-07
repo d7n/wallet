@@ -1,1 +1,1 @@
-var mnemonic = "convince negative shield wrong buffalo between jazz sorry better tent end frown";
+var mnemonic = "hat brown broken stem void potato measure wife hip voice bunker size";

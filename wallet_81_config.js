@@ -1,1 +1,1 @@
-var mnemonic = "arctic north giant silent hold cloud round sell kick rural latin keen";
+var mnemonic = "nut install spoil where chase render input innocent either whale response mansion";

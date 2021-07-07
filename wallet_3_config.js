@@ -1,1 +1,1 @@
-var mnemonic = "bundle used clog pipe jump stone welcome notice logic iron swear hollow";
+var mnemonic = "order obscure shrimp nose destroy zone essay elevator merge moon video ginger";

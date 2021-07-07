@@ -1,1 +1,1 @@
-var mnemonic = "wrong tunnel orbit pizza senior puzzle lyrics decide lava rug diamond strong";
+var mnemonic = "fee obscure pizza panther load sword common race boil month trap garment";

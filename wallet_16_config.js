@@ -1,1 +1,1 @@
-var mnemonic = "fortune boring unlock license adapt route shoe orchard clutch naive climb secret";
+var mnemonic = "allow basic peace elegant junior bonus rug umbrella govern very stadium lab";

@@ -1,1 +1,1 @@
-var mnemonic = "spin uncle level time illness doctor federal enter priority menu bachelor swallow";
+var mnemonic = "object quiz trend switch similar panther casino always dawn ugly deer glass";

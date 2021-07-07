@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pool case debate moment mechanic motor virus grocery reflect provide orient";
+var mnemonic = "appear crush innocent vehicle blanket noodle better often pass muscle tower scare";

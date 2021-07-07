@@ -1,1 +1,1 @@
-var mnemonic = "broom track estate kit double dolphin panther sense ski path various roof";
+var mnemonic = "cluster below aspect smooth cinnamon barely ribbon general best mosquito attract fade";

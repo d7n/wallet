@@ -1,1 +1,1 @@
-var mnemonic = "civil pitch plunge cliff old utility link edge world glance direct door";
+var mnemonic = "olympic radio couple off chimney federal thank rug delay benefit stamp supply";

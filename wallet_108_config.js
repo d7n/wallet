@@ -1,1 +1,1 @@
-var mnemonic = "trim amount scare open describe sure dirt write shaft ghost arctic tissue";
+var mnemonic = "vacant glide reward arrive timber woman feature orbit grief shift elbow lock";

@@ -1,1 +1,1 @@
-var mnemonic = "oak taste use winner snake equip miss enter divert mango viable crash";
+var mnemonic = "decide mechanic wasp curve virus tent spoil cat energy risk total upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle tribe drum crumble power exotic inquiry van thank flavor swear infant";
+var mnemonic = "minimum hedgehog neither that actress boat famous client wreck tissue loop use";

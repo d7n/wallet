@@ -1,1 +1,1 @@
-var mnemonic = "rescue number knife area junior warrior soccer shiver into soldier entire duty";
+var mnemonic = "increase pool picture drink noise laugh wet bleak morning find multiply album";

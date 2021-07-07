@@ -1,1 +1,1 @@
-var mnemonic = "swim cream harsh eternal learn eager fan update shrimp exact live symbol";
+var mnemonic = "dice embark shadow copper creek opera waste amused caught resource hamster tiger";

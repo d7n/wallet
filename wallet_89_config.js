@@ -1,1 +1,1 @@
-var mnemonic = "parent aim easy salt hazard mystery popular river snap funny bridge meadow";
+var mnemonic = "punch cinnamon risk rate bleak birth unknown transfer damage ancient finish clever";

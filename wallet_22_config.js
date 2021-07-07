@@ -1,1 +1,1 @@
-var mnemonic = "omit chapter border conduct truly outside mansion pupil glimpse review lobster turkey";
+var mnemonic = "first napkin ankle road during priority roof surround hour wide consider cherry";

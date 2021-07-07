@@ -1,1 +1,1 @@
-var mnemonic = "glad blue during outside excuse fringe clever squirrel stereo planet memory lend";
+var mnemonic = "draft social diary excess immense hold cancel ghost protect answer rubber breeze";

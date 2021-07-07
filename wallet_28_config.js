@@ -1,1 +1,1 @@
-var mnemonic = "scene water feel forward hold present captain buzz number noodle mountain fuel";
+var mnemonic = "just pear anchor tone enter document wrap primary draft scene virus trash";

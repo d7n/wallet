@@ -1,1 +1,1 @@
-var mnemonic = "puppy fringe dirt topple dizzy avoid recall noise crew flat prize law";
+var mnemonic = "clarify cradle north smart tone genuine soldier topic beyond make cricket auto";

@@ -1,1 +1,1 @@
-var mnemonic = "scout physical blur meat salad sponsor pledge mix fluid join fault bind";
+var mnemonic = "airport seek target spy jar verify december member edge under menu gravity";

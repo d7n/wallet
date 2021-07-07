@@ -1,1 +1,1 @@
-var mnemonic = "zebra version february addict dutch century master seat cross soft need ensure";
+var mnemonic = "control gym upon estate round problem have better rubber recall finger execute";

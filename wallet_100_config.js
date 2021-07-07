@@ -1,1 +1,1 @@
-var mnemonic = "energy zebra strong rubber security draft bleak panther agree van purse carry";
+var mnemonic = "cage cushion together plunge heavy gain damage runway mansion laptop ill fantasy";

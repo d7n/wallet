@@ -1,1 +1,1 @@
-var mnemonic = "museum color suit hollow spell inhale ahead clutch weather wash shift disease";
+var mnemonic = "drum party lesson angle service champion immense forget manage blossom crunch icon";

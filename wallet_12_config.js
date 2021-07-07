@@ -1,1 +1,1 @@
-var mnemonic = "social crunch effort child perfect poem key swift sound drip finger drive";
+var mnemonic = "talk volcano gate dilemma foster solid silk cram change normal camera accident";

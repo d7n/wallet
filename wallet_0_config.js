@@ -1,1 +1,1 @@
-var mnemonic = "whip struggle butter bullet chair toast economy ribbon leave until rocket dance";
+var mnemonic = "poem like fantasy stadium stove grid foot piano record sunset hurt identify";

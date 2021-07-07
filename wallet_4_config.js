@@ -1,1 +1,1 @@
-var mnemonic = "top half sign spirit sign wedding canyon two valid awkward across cannon";
+var mnemonic = "dust require spice correct spoon reveal mammal steel galaxy cost mass anger";

@@ -1,1 +1,1 @@
-var mnemonic = "boring young ride impact dream popular skill replace shallow medal invite awful";
+var mnemonic = "primary vivid lizard deputy swim circle culture dust theme cannon upset ostrich";

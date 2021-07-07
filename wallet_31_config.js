@@ -1,1 +1,1 @@
-var mnemonic = "laugh agent clump memory order clarify drum diamond viable scissors mask zebra";
+var mnemonic = "doll space salt cruise slab wife donate whale angry security lens impose";

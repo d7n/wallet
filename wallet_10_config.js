@@ -1,1 +1,1 @@
-var mnemonic = "winter swift rapid wolf include ancient observe entry aware among sweet lottery";
+var mnemonic = "control nasty border noble asset veteran view power reveal bread belt shift";

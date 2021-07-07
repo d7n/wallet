@@ -1,1 +1,1 @@
-var mnemonic = "discover picnic property merit ghost stairs sorry hip sense stick trick shiver";
+var mnemonic = "that minimum police agree mandate soft evoke slow wide decade ship endless";

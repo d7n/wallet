@@ -1,1 +1,1 @@
-var mnemonic = "hope bubble list trouble blouse venue want air start have tray unaware";
+var mnemonic = "feed drastic climb dose stove air wrestle fetch sample venue rely favorite";

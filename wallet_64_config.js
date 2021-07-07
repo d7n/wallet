@@ -1,1 +1,1 @@
-var mnemonic = "doctor gossip rebuild antique defense decorate quiz between universe oppose dream drift";
+var mnemonic = "joke demise silly salute fashion metal remind only auction nut pipe luxury";

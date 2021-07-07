@@ -1,1 +1,1 @@
-var mnemonic = "month object venture ride speak brick entire album city paddle churn tattoo";
+var mnemonic = "mushroom sheriff vacant useless huge injury unveil joke large force beyond bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "dish decline enable valley prefer picnic soul bamboo shiver tone admit cruel";
+var mnemonic = "roast afford mom asthma verb warrior rose south sight pause blur explain";

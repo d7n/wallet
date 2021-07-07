@@ -1,1 +1,1 @@
-var mnemonic = "host leopard bread total convince animal mask pretty amount climb meadow rifle";
+var mnemonic = "tomato topple carbon wave change drill visa tribe act endless pumpkin swear";

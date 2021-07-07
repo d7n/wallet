@@ -1,1 +1,1 @@
-var mnemonic = "kit sing elder hill path cushion pair either used bronze midnight judge";
+var mnemonic = "matrix female island attract vanish day various blossom spoon raw creek knife";

@@ -1,1 +1,1 @@
-var mnemonic = "assist eight cat run plate acoustic rose corn board play street pride";
+var mnemonic = "until shiver old banana erode person butter certain accuse parent bracket depart";

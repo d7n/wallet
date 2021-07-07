@@ -1,1 +1,1 @@
-var mnemonic = "render tilt letter reform curtain accuse region eight cotton glow luggage kiss";
+var mnemonic = "situate surround machine fiscal ready kidney exist split similar number possible good";

@@ -1,1 +1,1 @@
-var mnemonic = "fan demise opinion siren sleep input gossip pyramid enlist illegal arrive conduct";
+var mnemonic = "shop slogan off fade double bid mixed number service scale motor brisk";

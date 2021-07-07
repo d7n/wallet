@@ -1,1 +1,1 @@
-var mnemonic = "train title barrel ride opera parrot hidden else discover pond sure theme";
+var mnemonic = "ignore exile wire dress income loop auto tell divorce wool fog act";

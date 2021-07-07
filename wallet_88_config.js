@@ -1,1 +1,1 @@
-var mnemonic = "gather letter seminar pioneer maid purse dose utility rose rib kingdom inflict";
+var mnemonic = "stone three such success truly noise frog wall now index fun already";

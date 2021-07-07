@@ -1,1 +1,1 @@
-var mnemonic = "noise cousin wet fork junior disorder model wonder false pave joy erase";
+var mnemonic = "plug bar define trend dynamic nut melody ostrich gloom tip must globe";

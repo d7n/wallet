@@ -1,1 +1,1 @@
-var mnemonic = "lift heart fork fitness okay cabbage bunker rain speak dog slice mountain";
+var mnemonic = "damage draft burden shadow license sweet insect exit cereal dream lemon nation";

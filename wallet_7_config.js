@@ -1,1 +1,1 @@
-var mnemonic = "east type fever verb rescue remain slight insect ball trap ripple fold";
+var mnemonic = "inflict despair agent service orchard silent dust network blade move demise ahead";

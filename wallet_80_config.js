@@ -1,1 +1,1 @@
-var mnemonic = "require undo install ivory certain frame human antenna ginger photo law great";
+var mnemonic = "guide ramp render number ten basic topic extend weekend tone area oil";

@@ -1,1 +1,1 @@
-var mnemonic = "return food turtle inherit move task moment ethics explain olympic render shift";
+var mnemonic = "dish drill neck hill hip assist receive twist match gallery dog draft";

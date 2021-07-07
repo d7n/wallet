@@ -1,1 +1,1 @@
-var mnemonic = "enter wire erosion juice obtain begin member traffic carbon boss room alert";
+var mnemonic = "remind mule negative cycle dragon rebel fury seed thunder slice abuse vapor";

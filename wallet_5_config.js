@@ -1,1 +1,1 @@
-var mnemonic = "elegant achieve conduct sugar tumble someone height cup protect fever lift fantasy";
+var mnemonic = "slim window taxi omit rough code shallow machine design coil spy brief";

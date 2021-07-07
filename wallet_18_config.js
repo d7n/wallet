@@ -1,1 +1,1 @@
-var mnemonic = "winter couple spare someone nest metal shadow lucky coach heavy book about";
+var mnemonic = "hint thumb angle distance real army ginger push swarm giggle guard regret";

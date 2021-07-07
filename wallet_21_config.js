@@ -1,1 +1,1 @@
-var mnemonic = "fault faculty warfare mind arctic trumpet equal upset term fashion monster first";
+var mnemonic = "hamster burst plastic sweet vendor fantasy badge attract add matrix toddler that";

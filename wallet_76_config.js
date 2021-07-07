@@ -1,1 +1,1 @@
-var mnemonic = "diesel notice inform inmate toy ready oyster trophy ready pretty evil book";
+var mnemonic = "brave alien infant mouse tape off gift pond tilt lucky direct civil";
