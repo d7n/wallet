@@ -1,1 +1,1 @@
-var mnemonic = "cactus skirt appear thing obscure they enjoy advice hand flower apology flush";
+var mnemonic = "ivory code humble salon lemon melt index foam expose beef kite stem";

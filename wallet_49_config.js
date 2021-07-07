@@ -1,1 +1,1 @@
-var mnemonic = "pool artwork grunt hold pattern escape best response inside confirm belt shadow";
+var mnemonic = "crowd stomach crouch aim adapt suffer sorry write category recipe dinosaur attack";

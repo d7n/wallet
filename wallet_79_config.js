@@ -1,1 +1,1 @@
-var mnemonic = "bus trigger flame wool grief urban demise large license run october wonder";
+var mnemonic = "orbit canoe quiz faith theory firm audit solid salt basic risk harbor";

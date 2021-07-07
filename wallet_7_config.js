@@ -1,1 +1,1 @@
-var mnemonic = "admit large eye age job shoot spider mutual acoustic lobster want receive";
+var mnemonic = "shield celery panther ramp invite soldier clock salt rhythm crater excess shop";

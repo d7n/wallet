@@ -1,1 +1,1 @@
-var mnemonic = "display soon layer demise rude snap umbrella grief word inject spell puppy";
+var mnemonic = "clump spider duty almost park spread sausage problem hawk abandon label toddler";

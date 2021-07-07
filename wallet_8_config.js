@@ -1,1 +1,1 @@
-var mnemonic = "this put essay beauty result fossil cat enable wrap desk top table";
+var mnemonic = "artist possible stone hollow hero enhance income sphere oppose rubber wild broom";

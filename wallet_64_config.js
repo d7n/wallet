@@ -1,1 +1,1 @@
-var mnemonic = "patrol urban cricket rescue foster vehicle entire fog torch planet comic genuine";
+var mnemonic = "obtain meadow course walnut skull fresh tornado expire narrow victory depth brain";

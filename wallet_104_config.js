@@ -1,1 +1,1 @@
-var mnemonic = "rice eagle rich rich moon movie pet love yellow file rifle waste";
+var mnemonic = "grid best leopard obey autumn walnut baby stick start level wall about";

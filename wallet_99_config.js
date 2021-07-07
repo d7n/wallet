@@ -1,1 +1,1 @@
-var mnemonic = "hair lake begin vessel sell trigger salad boil helmet rubber twenty blast";
+var mnemonic = "course defense symptom cruise sock guilt actual float effort dance tonight spatial";

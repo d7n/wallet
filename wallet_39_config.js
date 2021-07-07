@@ -1,1 +1,1 @@
-var mnemonic = "resource enjoy thumb mosquito play muffin whale chuckle excess crane someone burst";
+var mnemonic = "flame shoulder diary equip vendor camera black vault empty smart patient bulb";

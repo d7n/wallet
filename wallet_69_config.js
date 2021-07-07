@@ -1,1 +1,1 @@
-var mnemonic = "frog exercise awkward option rural sheriff swim lava notice sort beach once";
+var mnemonic = "rebuild hidden chest fruit artwork urge sick dance network donate unable hair";

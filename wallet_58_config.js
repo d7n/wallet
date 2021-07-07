@@ -1,1 +1,1 @@
-var mnemonic = "record pilot reward foster tomato chronic pottery pistol latin recipe salad tone";
+var mnemonic = "inhale village season domain gaze square duck divide actor island gasp tomorrow";

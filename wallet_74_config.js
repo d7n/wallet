@@ -1,1 +1,1 @@
-var mnemonic = "enhance bean alcohol method alcohol half olympic copper rely invite catalog adult";
+var mnemonic = "muscle now culture salt airport crystal enter net aisle draw fitness inherit";

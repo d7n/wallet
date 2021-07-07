@@ -1,1 +1,1 @@
-var mnemonic = "exchange mean mixture amazing inject model river hire shallow turn among quick";
+var mnemonic = "kiss carpet oppose dirt fog sword rescue void badge anchor quantum poverty";

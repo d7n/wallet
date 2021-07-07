@@ -1,1 +1,1 @@
-var mnemonic = "thumb tomorrow soft abuse hurdle casino shine cube token grant fatal extra";
+var mnemonic = "glory stock pulp limb saddle ocean found local belt evidence grow omit";

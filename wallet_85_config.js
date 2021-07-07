@@ -1,1 +1,1 @@
-var mnemonic = "salon gravity civil gloom volume yellow ensure loud tuna issue often boring";
+var mnemonic = "treat tool animal oval autumn pumpkin pond confirm faculty west marine ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "include increase midnight slab scout staff island this ticket garden pretty someone";
+var mnemonic = "notice system load barrel fat twist glide choice alien dance never comic";

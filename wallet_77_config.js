@@ -1,1 +1,1 @@
-var mnemonic = "retire catalog turkey arrive buddy foot system odor human satoshi buffalo round";
+var mnemonic = "paper old strong jaguar coffee prison public crouch join tide tackle zone";

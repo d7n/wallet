@@ -1,1 +1,1 @@
-var mnemonic = "grape current tooth kiss film piano curious helmet small obtain canal pistol";
+var mnemonic = "tenant flush regret furnace add focus latin balance vehicle curve ship squirrel";

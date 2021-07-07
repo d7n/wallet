@@ -1,1 +1,1 @@
-var mnemonic = "lend loop visa inside adult damage draw tide soon culture perfect canal";
+var mnemonic = "orbit great wait always lottery kiwi million crime siege armed skate woman";

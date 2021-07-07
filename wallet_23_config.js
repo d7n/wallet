@@ -1,1 +1,1 @@
-var mnemonic = "describe insect boss jelly benefit impact rotate canyon argue bleak erupt spoil";
+var mnemonic = "language climb hungry dynamic tired girl lucky mention build obey sauce ball";

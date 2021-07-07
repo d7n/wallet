@@ -1,1 +1,1 @@
-var mnemonic = "destroy dice group negative into refuse melt awesome crucial plug hammer program";
+var mnemonic = "unable heart lounge evil bonus pulse tag develop ring have file minute";

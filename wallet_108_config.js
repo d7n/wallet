@@ -1,1 +1,1 @@
-var mnemonic = "cake sound shine ladder table guess soap assist often shift control federal";
+var mnemonic = "borrow weird quarter frequent zone today history pigeon rule column that fine";

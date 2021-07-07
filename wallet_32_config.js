@@ -1,1 +1,1 @@
-var mnemonic = "hospital super wash noodle credit social fall chef inspire double inquiry chapter";
+var mnemonic = "session brick rose goat bachelor fade safe bring cruel okay emerge later";

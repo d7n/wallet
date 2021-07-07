@@ -1,1 +1,1 @@
-var mnemonic = "water consider blanket pair hello joke patrol arch deliver adjust harvest riot";
+var mnemonic = "grunt math skirt kid clog wheel across broken gain tool boil grocery";

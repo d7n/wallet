@@ -1,1 +1,1 @@
-var mnemonic = "firm harbor immune auto food roof bunker thunder select old ripple lobster";
+var mnemonic = "tongue before bulb plunge empty mom cinnamon enforce decrease visual asset cabbage";

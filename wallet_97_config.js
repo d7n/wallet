@@ -1,1 +1,1 @@
-var mnemonic = "long embody noise crumble range junk outer property pudding video divide mom";
+var mnemonic = "noble basket man sort system soul stable liar capital slow return bean";

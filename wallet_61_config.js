@@ -1,1 +1,1 @@
-var mnemonic = "second hurry invite absorb say wild fall sheriff gather cheese reward child";
+var mnemonic = "save diagram absent inner ignore congress story net sweet alone rookie real";

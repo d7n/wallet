@@ -1,1 +1,1 @@
-var mnemonic = "across scrap drip portion leg model mask escape make pistol wrong any";
+var mnemonic = "pave corn final certain tuna leave family dumb victory photo leaf rare";

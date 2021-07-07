@@ -1,1 +1,1 @@
-var mnemonic = "educate ancient auto toe canvas salon patch point zero kiwi remind shaft";
+var mnemonic = "slender dose movie major trumpet inhale nature share wagon enjoy alone select";

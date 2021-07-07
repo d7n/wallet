@@ -1,1 +1,1 @@
-var mnemonic = "season solar rare powder another creek helmet pitch adapt pave beyond outer";
+var mnemonic = "youth hub session belt supreme brisk cabbage taste various couple injury sniff";

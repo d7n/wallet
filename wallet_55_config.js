@@ -1,1 +1,1 @@
-var mnemonic = "wing cheap risk merry month topple ball rabbit prepare clown focus cruise";
+var mnemonic = "drastic palace patrol high festival vapor oven dice orchard gate dance adult";

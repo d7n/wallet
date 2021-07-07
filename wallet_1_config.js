@@ -1,1 +1,1 @@
-var mnemonic = "destroy quality fan usage wing federal fly task bottom guilt match capital";
+var mnemonic = "canal minor sibling engine spike grab bread rubber myself ripple glare banana";

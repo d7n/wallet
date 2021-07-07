@@ -1,1 +1,1 @@
-var mnemonic = "road blood evidence critic mandate build arrive vault chuckle curve always team";
+var mnemonic = "demand clarify retire one electric anchor negative tribe say talent season thing";

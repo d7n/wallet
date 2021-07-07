@@ -1,1 +1,1 @@
-var mnemonic = "surge draft miss universe road simple curtain general junior rebuild spirit extend";
+var mnemonic = "dwarf winner leave soft shiver imitate rule chuckle develop crime private armor";

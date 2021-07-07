@@ -1,1 +1,1 @@
-var mnemonic = "blossom tree deposit raise tumble wall victory source wing layer situate hedgehog";
+var mnemonic = "either wet water correct depart safe design segment include april merit unfold";

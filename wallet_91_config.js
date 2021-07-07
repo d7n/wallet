@@ -1,1 +1,1 @@
-var mnemonic = "beauty giggle artist recall element ketchup saddle mask magic shrimp income tomato";
+var mnemonic = "loop clutch box tired depth horn exclude urge match car reopen cliff";

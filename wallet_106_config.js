@@ -1,1 +1,1 @@
-var mnemonic = "depart cactus thumb cute curtain prison ivory filter night grape scorpion wear";
+var mnemonic = "again wing nothing tennis plunge tag quarter manage second bag rebuild screen";

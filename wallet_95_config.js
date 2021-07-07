@@ -1,1 +1,1 @@
-var mnemonic = "scheme write tiger rescue human cost motion avocado across camp until mind";
+var mnemonic = "limit shadow unknown zoo coffee marine amount summer era wedding video argue";

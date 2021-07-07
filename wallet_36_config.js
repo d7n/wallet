@@ -1,1 +1,1 @@
-var mnemonic = "pull force baby ignore poet brave coil source hurdle situate body brother";
+var mnemonic = "cigar spoon bullet orbit shoe square rose method sunset enemy empower bracket";

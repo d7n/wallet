@@ -1,1 +1,1 @@
-var mnemonic = "credit minute boring rate document save milk upgrade virtual coast uncle sibling";
+var mnemonic = "amazing oil wise hip sport timber penalty puzzle river cereal transfer trouble";

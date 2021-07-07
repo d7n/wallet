@@ -1,1 +1,1 @@
-var mnemonic = "spawn harbor jungle minor mad actual donate visual hill bulk pioneer flock";
+var mnemonic = "thank vintage worth expand quiz cake sphere emerge safe key blame six";

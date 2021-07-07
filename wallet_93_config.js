@@ -1,1 +1,1 @@
-var mnemonic = "notable elder together amazing wait hood end blur luxury they picnic valid";
+var mnemonic = "stuff brown virtual ritual achieve napkin tourist rug glare begin make law";

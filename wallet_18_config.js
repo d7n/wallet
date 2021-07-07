@@ -1,1 +1,1 @@
-var mnemonic = "hover when aisle replace dinosaur this enforce vanish input prosper vintage swing";
+var mnemonic = "silent business soap execute roast waste audit aware cable verb leader explain";

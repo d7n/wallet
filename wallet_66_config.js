@@ -1,1 +1,1 @@
-var mnemonic = "noble tuition fever scare oxygen wife shy toward kit excite cargo various";
+var mnemonic = "various flavor plate chase spirit ozone kingdom energy entire primary rely camera";

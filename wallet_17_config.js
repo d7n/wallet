@@ -1,1 +1,1 @@
-var mnemonic = "prize chalk dove fold arch burger cinnamon wave taste lazy rhythm junk";
+var mnemonic = "april hip disease cloth daughter stairs clown bless trial wasp crash maple";

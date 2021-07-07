@@ -1,1 +1,1 @@
-var mnemonic = "profit enlist dolphin north fog upgrade jaguar shuffle catalog damage sad body";
+var mnemonic = "innocent seven element visit elbow ginger medal couch food arrive fire benefit";

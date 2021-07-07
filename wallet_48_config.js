@@ -1,1 +1,1 @@
-var mnemonic = "gallery sausage crop forward chaos museum ancient push spare panther polar steak";
+var mnemonic = "aim napkin detect arch hungry sniff planet decorate hamster faculty glare neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "april avoid nerve drum forum agent buyer mansion industry inform music retreat";
+var mnemonic = "alcohol picnic define pistol auction asset story start detect canal hair skate";

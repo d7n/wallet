@@ -1,1 +1,1 @@
-var mnemonic = "gasp acoustic yellow stereo captain merge rate fox boat kiss actor budget";
+var mnemonic = "hint biology pitch air box skirt boring pizza code rally wealth nominee";

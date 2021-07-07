@@ -1,1 +1,1 @@
-var mnemonic = "emerge three process street scatter engage stand duty salmon great arch invite";
+var mnemonic = "equip acoustic sign ill domain margin drift admit love motor ripple village";

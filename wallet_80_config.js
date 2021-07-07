@@ -1,1 +1,1 @@
-var mnemonic = "choice weapon bundle winter shine price flag erase burden tone health helmet";
+var mnemonic = "chat jar kind struggle vanish pupil labor genre diary upgrade crash danger";

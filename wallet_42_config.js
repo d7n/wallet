@@ -1,1 +1,1 @@
-var mnemonic = "energy lunch vocal give fluid forum enlist climb gloom fiscal monitor object";
+var mnemonic = "wait actress poem apple comfort left news engage blur nature flight axis";

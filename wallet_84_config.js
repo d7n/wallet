@@ -1,1 +1,1 @@
-var mnemonic = "history tooth banana daring gorilla nose curve just wire open spin discover";
+var mnemonic = "love genius enter what source eager glory mouse boring shield sentence fiction";

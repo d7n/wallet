@@ -1,1 +1,1 @@
-var mnemonic = "model supreme path piece tongue brain flight define taxi team merry they";
+var mnemonic = "siege improve brief reduce universe practice organ truth crash one already choice";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge vanish young fish smoke spy bridge reject random mom shift suffer";
+var mnemonic = "talk cake patient ready art rapid legend frequent provide random doll craft";

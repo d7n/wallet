@@ -1,1 +1,1 @@
-var mnemonic = "unique aware term such caution shine core inflict alcohol menu habit trick";
+var mnemonic = "benefit forest buzz strike victory select blouse metal simple bitter guilt manage";

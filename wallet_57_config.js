@@ -1,1 +1,1 @@
-var mnemonic = "mail copper list sick glove property park ramp become zone carbon planet";
+var mnemonic = "raise improve engine lizard wrestle night hard practice aerobic torch arctic film";

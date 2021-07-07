@@ -1,1 +1,1 @@
-var mnemonic = "stock lunch issue prefer garlic royal budget size real market barely nature";
+var mnemonic = "fork torch ability museum ribbon image credit video like angry earth salute";

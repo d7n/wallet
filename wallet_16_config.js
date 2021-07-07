@@ -1,1 +1,1 @@
-var mnemonic = "clerk sunset turn cloth oblige bulk legend emotion human you margin enable";
+var mnemonic = "biology still cereal liquid jealous scan cricket local airport prevent public lawn";

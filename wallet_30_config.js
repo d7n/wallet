@@ -1,1 +1,1 @@
-var mnemonic = "wet little execute during secret dinosaur wheat announce silver make lens quit";
+var mnemonic = "volume host cream version rebuild aspect lonely online escape outside tunnel apart";

@@ -1,1 +1,1 @@
-var mnemonic = "street demise visa initial wide inquiry super change number online kid pulp";
+var mnemonic = "live zone unlock idle combine museum gallery smile glow setup exile attend";

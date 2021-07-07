@@ -1,1 +1,1 @@
-var mnemonic = "armed surround improve fatigue october panther voice lazy mention input scout funny";
+var mnemonic = "mosquito emerge carpet valve tail axis table start business also puzzle champion";

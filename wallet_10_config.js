@@ -1,1 +1,1 @@
-var mnemonic = "van display daring useless divorce bounce elder sign sad cute unveil delay";
+var mnemonic = "cabin orchard output buffalo energy reveal fancy annual scorpion deputy february resource";

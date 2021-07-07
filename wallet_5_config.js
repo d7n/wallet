@@ -1,1 +1,1 @@
-var mnemonic = "snack crawl category office curtain paper rain wedding use steak fence fancy";
+var mnemonic = "scissors tonight beyond quantum warrior drop cereal certain invite proof original panther";

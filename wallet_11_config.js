@@ -1,1 +1,1 @@
-var mnemonic = "three they sunny buzz hurdle cancel cash sibling vapor life skate coast";
+var mnemonic = "family kick regret lady layer amount betray scale velvet return average rubber";

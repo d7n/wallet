@@ -1,1 +1,1 @@
-var mnemonic = "buzz session gym rib owner again almost neglect current double hub coil";
+var mnemonic = "clock april soft toward gas amused grunt keen canal frozen wheat olympic";

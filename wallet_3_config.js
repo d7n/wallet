@@ -1,1 +1,1 @@
-var mnemonic = "viable tattoo cook leaf problem end oppose found crime junk joy cloud";
+var mnemonic = "empty laugh gold lend around shoot balance hard grace hockey alarm early";

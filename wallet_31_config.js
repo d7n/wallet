@@ -1,1 +1,1 @@
-var mnemonic = "achieve wrist imitate gossip render top develop bread under become sudden endless";
+var mnemonic = "grocery audit caught fuel follow transfer convince charge fox cigar regret sure";

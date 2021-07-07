@@ -1,1 +1,1 @@
-var mnemonic = "pluck salt kangaroo club pudding chronic deputy promote chief sniff manage beauty";
+var mnemonic = "mention chest culture undo surface drill gather cricket endless angry horror grant";

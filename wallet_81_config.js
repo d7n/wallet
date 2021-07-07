@@ -1,1 +1,1 @@
-var mnemonic = "useless woman gorilla advance own trophy plastic pretty drum chuckle concert rally";
+var mnemonic = "absent convince inject bargain disorder unfair audit edge text wave hip stumble";

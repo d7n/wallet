@@ -1,1 +1,1 @@
-var mnemonic = "enlist congress erupt estate cost drama furnace review velvet allow screen never";
+var mnemonic = "double method repeat ugly speed island unit fabric pioneer open regret empower";

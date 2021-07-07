@@ -1,1 +1,1 @@
-var mnemonic = "sting expand help rail spare parent shield allow skirt target main shoot";
+var mnemonic = "much void spy below extra bottom hammer emerge region cook series people";

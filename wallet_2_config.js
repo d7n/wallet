@@ -1,1 +1,1 @@
-var mnemonic = "stand road candy lens usual announce garage this brisk effort word finish";
+var mnemonic = "antenna fitness clap trick repair photo slogan obey athlete tissue brick camp";

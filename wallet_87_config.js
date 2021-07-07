@@ -1,1 +1,1 @@
-var mnemonic = "address grit onion fiscal pull olive artefact few unfold accuse electric uniform";
+var mnemonic = "fun alone squirrel weasel whisper barrel silly smooth flag west initial zoo";

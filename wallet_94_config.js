@@ -1,1 +1,1 @@
-var mnemonic = "metal account loan alone humble present drastic announce rare athlete over family";
+var mnemonic = "riot burst matrix can orchard olympic immense income blanket shuffle rifle noodle";

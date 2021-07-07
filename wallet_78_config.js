@@ -1,1 +1,1 @@
-var mnemonic = "wasp cheap piece accuse brain gravity hunt drastic scout amazing shine before";
+var mnemonic = "orbit romance ghost call giggle forum either kite dice goose energy sea";

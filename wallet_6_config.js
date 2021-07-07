@@ -1,1 +1,1 @@
-var mnemonic = "dream angry meat year sauce fashion please rally pool better alien end";
+var mnemonic = "theory still unable home ramp teach kit mushroom country disease grain profit";

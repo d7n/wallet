@@ -1,1 +1,1 @@
-var mnemonic = "amazing install frost squirrel vicious balance uncover option fruit foster destroy bulk";
+var mnemonic = "bless wealth habit mandate action marble cupboard promote toward drift dutch fold";

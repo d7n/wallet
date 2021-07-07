@@ -1,1 +1,1 @@
-var mnemonic = "spoil course giant agree margin eight deny grant text heart beef boat";
+var mnemonic = "scrap lesson protect hurt merry sausage bread chase become spoil faith junior";

@@ -1,1 +1,1 @@
-var mnemonic = "jar lawn shoe shoot hand right caught ignore oil damage obtain mind";
+var mnemonic = "goddess left armor strike ahead away pretty daring net charge merry rookie";

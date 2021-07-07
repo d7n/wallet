@@ -1,1 +1,1 @@
-var mnemonic = "doll stick liar scheme size valid library birth clean hire cream virtual";
+var mnemonic = "boy since protect grab spot assault snap journey puppy document attract blur";

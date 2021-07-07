@@ -1,1 +1,1 @@
-var mnemonic = "night document wheat magnet salmon tissue daring put police develop yellow canvas";
+var mnemonic = "actress define reopen pave else term imitate actual movie entry struggle picture";

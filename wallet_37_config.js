@@ -1,1 +1,1 @@
-var mnemonic = "current weather win occur twice horn object pool decade dance awake differ";
+var mnemonic = "east swamp flat cousin math violin execute boring ramp grape license mask";

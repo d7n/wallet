@@ -1,1 +1,1 @@
-var mnemonic = "cliff chef winner ice donkey flip meat snow fee design praise tribe";
+var mnemonic = "century design olympic apart innocent term adult canvas later tank plug stand";

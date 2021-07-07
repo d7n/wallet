@@ -1,1 +1,1 @@
-var mnemonic = "erase vehicle nasty keep one game program glory drink catalog art exhaust";
+var mnemonic = "youth across final rhythm before boil object state proud sail situate nuclear";
