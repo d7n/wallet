@@ -1,1 +1,1 @@
-var mnemonic = "raccoon will annual shallow begin gap pudding unaware angry pipe media limb";
+var mnemonic = "thrive feel fit concert blanket visual ship what stem usage rigid siren";

@@ -1,1 +1,1 @@
-var mnemonic = "phone chronic castle music tackle volume explain special quote bird latin pride";
+var mnemonic = "verify step satoshi plug submit humor prevent grunt mind million erode orbit";

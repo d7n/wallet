@@ -1,1 +1,1 @@
-var mnemonic = "observe brand prize water blue glare weasel oil midnight permit subject december";
+var mnemonic = "oblige chicken cereal peace believe keep celery hobby tongue raise jump ignore";

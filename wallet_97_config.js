@@ -1,1 +1,1 @@
-var mnemonic = "teach place mandate maple toe brief enough gauge umbrella remind gesture video";
+var mnemonic = "cloud blur globe nice shoot boost feel assume elegant boost fossil coast";

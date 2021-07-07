@@ -1,1 +1,1 @@
-var mnemonic = "digital mention moon puppy flag program fresh wrist boat steel word token";
+var mnemonic = "guilt dog flush acquire acoustic wood over disorder reflect blade cute try";

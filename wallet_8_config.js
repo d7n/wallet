@@ -1,1 +1,1 @@
-var mnemonic = "illness gas pave tongue baby derive industry drink glimpse nurse banana quit";
+var mnemonic = "response client cricket figure repair depend pair mass guess quit where smoke";

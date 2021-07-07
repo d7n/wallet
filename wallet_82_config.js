@@ -1,1 +1,1 @@
-var mnemonic = "vocal favorite regret skin waste rally pyramid age flee name resource excite";
+var mnemonic = "panic push carry eight joy bunker shoot chronic oppose dance table plug";

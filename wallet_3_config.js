@@ -1,1 +1,1 @@
-var mnemonic = "float tiger glove merit group coyote have avoid galaxy setup bounce elbow";
+var mnemonic = "purpose breeze rose bamboo cube dose turn dose pistol ugly employ pulse";

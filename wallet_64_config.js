@@ -1,1 +1,1 @@
-var mnemonic = "canoe bus royal health gesture furnace miss renew winner initial sadness attract";
+var mnemonic = "will nominee action borrow palace nut menu analyst stool issue perfect divorce";

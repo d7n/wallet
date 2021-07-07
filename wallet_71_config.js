@@ -1,1 +1,1 @@
-var mnemonic = "crop rather morning pluck kiss elegant bring crucial wife advice add museum";
+var mnemonic = "base rapid habit nothing humble number mix enroll slam indicate action defense";

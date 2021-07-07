@@ -1,1 +1,1 @@
-var mnemonic = "kitten match decorate bubble edge sun gorilla cart salute better fly post";
+var mnemonic = "attend miracle hint feature surround awful canyon glow ozone once dolphin try";

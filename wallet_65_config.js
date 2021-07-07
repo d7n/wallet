@@ -1,1 +1,1 @@
-var mnemonic = "file order marriage shallow any exit depend cousin tattoo weasel turtle ball";
+var mnemonic = "fork salad dinosaur strike budget element staff meadow bracket search aim width";

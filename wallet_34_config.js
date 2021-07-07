@@ -1,1 +1,1 @@
-var mnemonic = "train old sniff nature pioneer denial supply suit luggage acid divide call";
+var mnemonic = "goat link whip dirt wheat hockey cube exclude equip walnut parrot trade";

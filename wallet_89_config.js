@@ -1,1 +1,1 @@
-var mnemonic = "remember machine crush punch possible ill plastic bind antique remember melody entry";
+var mnemonic = "exile guide poet follow twist trip mixed private reflect boss buddy turkey";

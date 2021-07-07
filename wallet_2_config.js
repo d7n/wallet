@@ -1,1 +1,1 @@
-var mnemonic = "off logic useful chaos slogan wear either predict gesture steak celery verify";
+var mnemonic = "flee delay celery nerve person truly satisfy matter mistake wise square squeeze";

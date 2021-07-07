@@ -1,1 +1,1 @@
-var mnemonic = "throw question best dragon wine flat vintage sugar real junior ski artist";
+var mnemonic = "since worth uphold brand great human reduce cushion census series coast renew";

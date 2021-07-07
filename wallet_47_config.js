@@ -1,1 +1,1 @@
-var mnemonic = "fancy electric daughter force exist gloom conduct april like admit keep tuna";
+var mnemonic = "seat cave gas stone lunch palm supreme mule flower evolve seed obey";

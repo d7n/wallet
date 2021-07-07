@@ -1,1 +1,1 @@
-var mnemonic = "song girl bid unfair doctor enact woman sound door bag involve section";
+var mnemonic = "forum spice upper what warfare case engine state bicycle humble ethics enjoy";

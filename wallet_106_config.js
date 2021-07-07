@@ -1,1 +1,1 @@
-var mnemonic = "practice tiger joke spring glove cancel onion arrange abuse know excuse unit";
+var mnemonic = "grass job host immune extend people hurry antenna apart tower circle evil";

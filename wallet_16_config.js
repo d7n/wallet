@@ -1,1 +1,1 @@
-var mnemonic = "shrug peace amazing have wire minor lounge border mirror rotate help other";
+var mnemonic = "essence clown struggle obtain cinnamon quiz wheel beauty escape story knife treat";

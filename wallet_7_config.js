@@ -1,1 +1,1 @@
-var mnemonic = "anxiety basket spy exist hollow reward know negative human better slide put";
+var mnemonic = "lonely repair buddy clerk inflict fit churn federal merit target question veteran";

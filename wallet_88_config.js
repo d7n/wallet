@@ -1,1 +1,1 @@
-var mnemonic = "stage blood uncover search local orange wonder start balcony before include essence";
+var mnemonic = "stadium few own cruise amount slice enter mail destroy alert fantasy purchase";

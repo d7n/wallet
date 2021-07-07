@@ -1,1 +1,1 @@
-var mnemonic = "demise virtual saddle frozen asset aware argue travel hood burden knee enroll";
+var mnemonic = "trial reunion cinnamon erosion renew dust spider dentist twin rally era hold";

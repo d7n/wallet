@@ -1,1 +1,1 @@
-var mnemonic = "adapt cake bicycle sense rhythm oil punch opera room lawn beauty banner";
+var mnemonic = "minor fiber witness carry cram bird park outer garden neglect unique wedding";

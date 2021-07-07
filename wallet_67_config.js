@@ -1,1 +1,1 @@
-var mnemonic = "possible tribe bachelor box twelve column seminar trial cloth interest smoke explain";
+var mnemonic = "dream buzz curious bar museum idea ritual this shock chronic pact winner";

@@ -1,1 +1,1 @@
-var mnemonic = "about key trash polar bridge someone sniff wife glue squeeze beach describe";
+var mnemonic = "diesel slush execute color smart symptom meat pioneer wage innocent fancy ethics";

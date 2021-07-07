@@ -1,1 +1,1 @@
-var mnemonic = "scissors basket battle polar spice erosion mobile latin decrease human picnic carry";
+var mnemonic = "shove flee twenty eyebrow head amateur affair rail artefact record mask video";

@@ -1,1 +1,1 @@
-var mnemonic = "swap either episode main lion edit glide force kiss brave spawn subway";
+var mnemonic = "spoil robot list crunch casino repair school market illegal palm ketchup sibling";

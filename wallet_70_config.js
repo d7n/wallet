@@ -1,1 +1,1 @@
-var mnemonic = "bus asthma urban eye inject liberty say pepper cover change proof eight";
+var mnemonic = "address canvas air pull lift dragon wire almost meadow erode reduce small";

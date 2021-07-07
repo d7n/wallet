@@ -1,1 +1,1 @@
-var mnemonic = "school cloth enjoy object dutch erosion silk nation cave square avoid recipe";
+var mnemonic = "embody claw then stuff blind code depth fox diesel eyebrow insane velvet";

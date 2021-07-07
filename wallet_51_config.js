@@ -1,1 +1,1 @@
-var mnemonic = "melody furnace sheriff once gauge exile fever path badge divide sorry bring";
+var mnemonic = "valid casual occur trade frozen scrub near affair text film cart comic";

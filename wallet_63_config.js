@@ -1,1 +1,1 @@
-var mnemonic = "domain run panther cereal proud upon coral gift waste squirrel pool gentle";
+var mnemonic = "icon drastic race slight kiss slogan tent amazing patient oil toast symptom";

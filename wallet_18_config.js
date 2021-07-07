@@ -1,1 +1,1 @@
-var mnemonic = "hill neck stay response cross column nurse silly deer slow private legend";
+var mnemonic = "melody step cereal fury battle this crucial dial wage patient discover twist";

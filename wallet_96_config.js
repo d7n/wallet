@@ -1,1 +1,1 @@
-var mnemonic = "fame income glad cream help address donor finish toy frequent paper filter";
+var mnemonic = "chunk oil next village virtual mammal hazard fringe shadow royal replace debate";

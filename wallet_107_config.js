@@ -1,1 +1,1 @@
-var mnemonic = "wheel portion concert train bring earth tube scale know general music more";
+var mnemonic = "outside chunk miracle nuclear smoke web figure proud surge nuclear obscure hour";

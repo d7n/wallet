@@ -1,1 +1,1 @@
-var mnemonic = "master wood rule hip twice very plate mammal beauty blush birth catch";
+var mnemonic = "wash ability grass fade horror endorse immense core lucky flush joke media";

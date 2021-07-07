@@ -1,1 +1,1 @@
-var mnemonic = "when want tone gift february derive fiscal animal day original umbrella chest";
+var mnemonic = "mirror turkey cancel opera tuna flag tide design achieve rug clock shoot";

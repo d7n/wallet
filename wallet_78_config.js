@@ -1,1 +1,1 @@
-var mnemonic = "flavor sibling oval smile secret journey bottom find decrease apple detail crash";
+var mnemonic = "dream town thrive water uniform army duck ready airport call feel fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet lyrics never punch final burger educate bundle isolate sad shrug curve";
+var mnemonic = "orchard actor approve pole deposit saddle mean poverty title tape vendor wonder";

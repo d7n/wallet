@@ -1,1 +1,1 @@
-var mnemonic = "result only genius animal drum wedding behind cake scatter animal throw dentist";
+var mnemonic = "merry panel opinion dolphin mad other below borrow doll kingdom toe tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "future erase sea position duty asthma effort base stuff stick release tired";
+var mnemonic = "sure remove desk fabric axis refuse master eyebrow hobby garbage lesson survey";

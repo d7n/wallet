@@ -1,1 +1,1 @@
-var mnemonic = "humble tissue permit utility clinic pistol pitch theme market entire amount crack";
+var mnemonic = "dish drop dynamic omit lobster reunion tuition horn inform execute flash program";

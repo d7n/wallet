@@ -1,1 +1,1 @@
-var mnemonic = "wait security enter earth december much panic alpha ribbon yard tackle dream";
+var mnemonic = "tomato ability matrix lion style garlic put already scissors regular side loud";

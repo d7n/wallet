@@ -1,1 +1,1 @@
-var mnemonic = "mail swallow before click jeans stuff stone fossil purse grain topic hunt";
+var mnemonic = "tide candy elegant liar common base car receive evolve space lounge give";

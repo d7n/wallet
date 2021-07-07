@@ -1,1 +1,1 @@
-var mnemonic = "minimum excuse detect level license expand region senior gorilla assist rent usual";
+var mnemonic = "cable bleak miracle home soccer disagree piano bar select grape victory inquiry";

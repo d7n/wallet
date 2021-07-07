@@ -1,1 +1,1 @@
-var mnemonic = "pair sort extra initial joke blue tornado record day measure skate twist";
+var mnemonic = "orchard solve edge eye spoil vessel swarm attitude confirm ability plunge biology";

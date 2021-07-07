@@ -1,1 +1,1 @@
-var mnemonic = "pink shell eternal change isolate cry increase can toe sorry barrel wisdom";
+var mnemonic = "common ranch supply loop friend fold vehicle input obey firm primary sign";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope island mercy valid example floor car trumpet elegant intact stand employ";
+var mnemonic = "across option that lift fiber bike entry symbol fade bomb until either";

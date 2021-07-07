@@ -1,1 +1,1 @@
-var mnemonic = "term process chimney horse sausage scorpion outer major bone alone filter raw";
+var mnemonic = "live fan cabbage verb else erase desert tunnel salmon vicious admit skin";

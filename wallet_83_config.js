@@ -1,1 +1,1 @@
-var mnemonic = "group spy fiscal they smoke rely slow solar foot afford inquiry aisle";
+var mnemonic = "festival upset stand rocket magnet outdoor crystal dish allow sustain misery lucky";

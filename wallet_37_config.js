@@ -1,1 +1,1 @@
-var mnemonic = "demand path glove hint song blush film base frozen guess fuel vessel";
+var mnemonic = "among bench foam sustain concert strike uniform area seat tag rely ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "leader recall stove weekend fever board school swing vacant check throw zebra";
+var mnemonic = "picture correct note little air social hammer aware track knock easily view";

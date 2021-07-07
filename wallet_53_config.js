@@ -1,1 +1,1 @@
-var mnemonic = "exercise goat fatigue orchard fork harbor misery elevator gun trigger acid few";
+var mnemonic = "fence assume boost coffee left tomato lottery acoustic rail treat rent execute";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma below city inmate plunge action build surround gentle rent antenna slab";
+var mnemonic = "chest boat fox faculty such circle cushion oven excess unlock shove undo";

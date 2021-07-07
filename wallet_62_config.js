@@ -1,1 +1,1 @@
-var mnemonic = "jewel bean deposit bracket tunnel echo since sausage smooth jewel teach property";
+var mnemonic = "fatigue below raw fiscal trade code inherit abstract rather steak black hill";

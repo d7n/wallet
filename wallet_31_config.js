@@ -1,1 +1,1 @@
-var mnemonic = "shine gallery distance order chest inflict hazard visit essence shock axis judge";
+var mnemonic = "prevent just end hobby mixture awesome wonder ice before figure tube hand";

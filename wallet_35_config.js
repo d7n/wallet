@@ -1,1 +1,1 @@
-var mnemonic = "sure supply chaos ghost flight motion gossip review brief anxiety brand common";
+var mnemonic = "spell black media sunset fiscal device already extend hungry april leisure chest";

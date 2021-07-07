@@ -1,1 +1,1 @@
-var mnemonic = "usage ripple all glow tired flag shed staff awake calm still soft";
+var mnemonic = "strategy basket refuse phrase few blame fresh sunset system lion brand vanish";

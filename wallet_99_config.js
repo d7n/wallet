@@ -1,1 +1,1 @@
-var mnemonic = "helmet reduce atom base easy foot engage average tail measure thought autumn";
+var mnemonic = "arrange island time welcome sand thank gaze village marble canyon person bachelor";

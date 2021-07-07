@@ -1,1 +1,1 @@
-var mnemonic = "spy decline response trophy then amount art child void bring weasel spare";
+var mnemonic = "coconut breeze sock ribbon hammer inherit issue bring celery lamp nuclear spoon";

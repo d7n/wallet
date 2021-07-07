@@ -1,1 +1,1 @@
-var mnemonic = "state cat item echo void scale doctor charge volume float tumble correct";
+var mnemonic = "celery setup prepare side man theme teach mirror drip wasp skull gallery";

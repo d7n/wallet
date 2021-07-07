@@ -1,1 +1,1 @@
-var mnemonic = "secret thunder sail bike price such reject gossip primary rib whisper citizen";
+var mnemonic = "math eyebrow sun olympic promote addict nothing east cook urge such grab";

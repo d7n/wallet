@@ -1,1 +1,1 @@
-var mnemonic = "portion select wild picnic hawk fresh judge document foam rice raise square";
+var mnemonic = "near nuclear protect submit attend museum food minimum entry impose gallery spell";

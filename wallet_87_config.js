@@ -1,1 +1,1 @@
-var mnemonic = "web pear grunt quantum hawk dentist possible purchase remind notice globe trick";
+var mnemonic = "view fire salad goat image express embark under bonus party hawk electric";

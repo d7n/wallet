@@ -1,1 +1,1 @@
-var mnemonic = "hint piano cruel reason trumpet there banner file wine time common gown";
+var mnemonic = "night december brain maid canyon usage robust evidence east farm express kiwi";

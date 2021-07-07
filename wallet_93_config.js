@@ -1,1 +1,1 @@
-var mnemonic = "chest coffee width shoulder bounce vast awful hockey impose wise wheel fish";
+var mnemonic = "scan ride nation lend park father copy improve puppy laptop whip keen";

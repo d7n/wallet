@@ -1,1 +1,1 @@
-var mnemonic = "meadow ten gold since already cube gaze usual road provide able tumble";
+var mnemonic = "method need word razor vibrant sport penalty excite fiction write rare shy";

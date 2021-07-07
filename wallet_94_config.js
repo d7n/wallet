@@ -1,1 +1,1 @@
-var mnemonic = "page grow remove simple coral humor fish lyrics legal spider evil letter";
+var mnemonic = "second child rally despair design treat one acoustic peanut axis dragon blouse";

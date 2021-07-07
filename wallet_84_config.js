@@ -1,1 +1,1 @@
-var mnemonic = "arena powder improve north artefact one leave woman margin brief oblige build";
+var mnemonic = "quit nephew light pet share impose dune measure neither minute canvas better";

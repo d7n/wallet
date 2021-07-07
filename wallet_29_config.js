@@ -1,1 +1,1 @@
-var mnemonic = "window remove exist pumpkin topic open double endorse liquid naive pass all";
+var mnemonic = "letter make swift antique owner thing ripple help minor game across oyster";

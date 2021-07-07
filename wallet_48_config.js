@@ -1,1 +1,1 @@
-var mnemonic = "trial shoulder range distance guide modify foster program jaguar inch fuel grid";
+var mnemonic = "relax promote helmet modify nerve celery famous wisdom silent absurd amount often";

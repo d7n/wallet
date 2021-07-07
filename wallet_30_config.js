@@ -1,1 +1,1 @@
-var mnemonic = "punch day fatal project army crazy atom naive virtual melody upper bulk";
+var mnemonic = "cattle service bamboo cushion economy leader ready main myself link hedgehog scale";

@@ -1,1 +1,1 @@
-var mnemonic = "tape silver trigger fortune first desert clog nut glass portion skate perfect";
+var mnemonic = "already uncle sorry enter spread three matrix enter eagle file satisfy flame";

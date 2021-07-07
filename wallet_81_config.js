@@ -1,1 +1,1 @@
-var mnemonic = "suit jelly point rib convince agent client cave casino ready illegal tongue";
+var mnemonic = "under illness innocent party arrest rigid mushroom flower drop banana wool vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "master mercy limb pottery track riot shift service copy foster soldier desert";
+var mnemonic = "pepper cloud amused replace filter spoon answer neck gesture slogan arrow say";

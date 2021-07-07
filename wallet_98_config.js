@@ -1,1 +1,1 @@
-var mnemonic = "peasant lawsuit eagle pass pact weapon extra invite edge grow lab risk";
+var mnemonic = "tunnel adult tag office version witness purse carry result assist budget silver";

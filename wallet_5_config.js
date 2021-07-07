@@ -1,1 +1,1 @@
-var mnemonic = "paper smoke outer twelve network section conduct glow feed trouble hobby shadow";
+var mnemonic = "trip clock drill claim copy kidney attitude decide elite wage kit crop";

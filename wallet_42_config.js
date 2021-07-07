@@ -1,1 +1,1 @@
-var mnemonic = "merge blast pyramid acoustic skin robust weather apology rain present gospel ask";
+var mnemonic = "write tail outdoor void sphere soccer need earn way attitude grass fence";

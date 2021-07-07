@@ -1,1 +1,1 @@
-var mnemonic = "film wear furnace pledge portion stereo profit output legal route idle music";
+var mnemonic = "asthma green shop nest post wealth wave display major elevator stay width";

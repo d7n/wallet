@@ -1,1 +1,1 @@
-var mnemonic = "melody van fitness domain surface scan viable glad amount area soup wrong";
+var mnemonic = "normal sick critic adjust bicycle narrow obvious north gospel shrug pulse never";

@@ -1,1 +1,1 @@
-var mnemonic = "allow duck crazy stadium jar knock gasp size frog soccer bomb seek";
+var mnemonic = "device mutual thank net visit keen subject citizen they wide cave property";

@@ -1,1 +1,1 @@
-var mnemonic = "great wife initial divorce push injury ticket bar sausage comfort rebel invite";
+var mnemonic = "divert perfect entire phone bitter else wealth unfold tent cricket possible donor";

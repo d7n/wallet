@@ -1,1 +1,1 @@
-var mnemonic = "arch local guard anger banner swear minute thrive chunk coffee april leave";
+var mnemonic = "assault daring rookie admit tuition october imitate axis there describe crystal come";

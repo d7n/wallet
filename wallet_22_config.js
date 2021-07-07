@@ -1,1 +1,1 @@
-var mnemonic = "special behave topic chimney buddy grass inhale below tobacco solution certain toddler";
+var mnemonic = "ancient file wall lesson risk suspect very immense stand bench indicate horse";

@@ -1,1 +1,1 @@
-var mnemonic = "letter leg frog vapor decide milk start gauge near rookie ocean kingdom";
+var mnemonic = "knock patrol spell border bean wear deny cotton speed pencil cube exhaust";

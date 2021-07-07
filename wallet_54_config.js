@@ -1,1 +1,1 @@
-var mnemonic = "birth catch demand attract spoil exit nest grass hawk fancy whip carpet";
+var mnemonic = "item park quality quarter interest print rocket smooth judge blossom special damp";

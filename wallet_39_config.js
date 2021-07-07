@@ -1,1 +1,1 @@
-var mnemonic = "morning image dinner enforce oil quarter apart dose force snake exclude suggest";
+var mnemonic = "deliver jaguar say hub huge shrug often evil escape captain giggle minimum";

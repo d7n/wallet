@@ -1,1 +1,1 @@
-var mnemonic = "isolate physical sick riot sure dose slim reward ghost fever chimney diesel";
+var mnemonic = "jelly lumber diesel settle simple cause action rent pigeon arrow pulp seek";

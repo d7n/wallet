@@ -1,1 +1,1 @@
-var mnemonic = "nation taxi march upon autumn warm suffer leg craft good attract proof";
+var mnemonic = "steak grow tray scissors club urge wink jar various guide join dial";

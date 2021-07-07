@@ -1,1 +1,1 @@
-var mnemonic = "dutch human sure frown drift provide rather forest letter update sail reunion";
+var mnemonic = "bonus toe clock funny drive shuffle absorb actor ordinary tennis country garbage";

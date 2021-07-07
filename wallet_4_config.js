@@ -1,1 +1,1 @@
-var mnemonic = "squirrel glass able toward office crazy crater tilt file daughter cousin repeat";
+var mnemonic = "enable switch cannon famous brave jeans media uphold shy flee wave network";
