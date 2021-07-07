@@ -1,1 +1,1 @@
-var mnemonic = "ill quit inhale exist table genre pluck interest mind hybrid cable wild";
+var mnemonic = "pelican scorpion marine day dutch edit barrel lamp field old cheap raven";

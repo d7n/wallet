@@ -1,1 +1,1 @@
-var mnemonic = "round merge comic car oyster corn trial label poet blue split junior";
+var mnemonic = "into sun stereo sugar biology smile wish beauty jaguar ski excite month";

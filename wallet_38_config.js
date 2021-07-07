@@ -1,1 +1,1 @@
-var mnemonic = "insane guilt panic squeeze embody pull run cousin boost right this dignity";
+var mnemonic = "egg subject fashion left approve noodle wealth barrel mule birth food employ";

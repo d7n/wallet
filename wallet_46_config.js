@@ -1,1 +1,1 @@
-var mnemonic = "point keep edge wolf blanket addict dog bubble buffalo lemon snake patch";
+var mnemonic = "prosper narrow say usage cage book switch tumble menu crystal fatigue absent";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile skill shadow forward easy comic jar abuse want huge oxygen interest";
+var mnemonic = "cry planet claim auto rally twist goddess sure track can ordinary sport";

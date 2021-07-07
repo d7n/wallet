@@ -1,1 +1,1 @@
-var mnemonic = "squeeze image mixture hamster hundred blade program nuclear elbow excite army east";
+var mnemonic = "butter view become toe walk alert tiny phrase pause trust green tortoise";

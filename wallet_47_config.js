@@ -1,1 +1,1 @@
-var mnemonic = "confirm virus miss pony cover gun subway shove silk picnic area bench";
+var mnemonic = "unveil huge sponsor cave proud joke estate artefact wreck memory early use";

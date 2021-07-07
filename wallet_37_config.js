@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo surge deer glory upper icon denial august absorb fruit taste cancel";
+var mnemonic = "laundry teach castle guide foam basket indoor magnet maze hundred trick glue";

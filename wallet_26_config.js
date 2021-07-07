@@ -1,1 +1,1 @@
-var mnemonic = "denial crew size loop have brisk window umbrella render square wrist arena";
+var mnemonic = "wrong toss vibrant fame believe spring unlock equal join permit mercy pencil";

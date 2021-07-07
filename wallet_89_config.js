@@ -1,1 +1,1 @@
-var mnemonic = "license use bonus reward wrong tobacco key modify crime cute yellow spare";
+var mnemonic = "walnut close silver forum setup barrel under open render outdoor flash poet";

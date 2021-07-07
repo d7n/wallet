@@ -1,1 +1,1 @@
-var mnemonic = "gate remove margin banana sorry search echo notice salad now addict blade";
+var mnemonic = "nuclear spring now display view arrow swamp proof spell swift ethics submit";

@@ -1,1 +1,1 @@
-var mnemonic = "power volcano fold drama second girl flush fat photo trumpet gentle lumber";
+var mnemonic = "shrimp minute crouch dash answer dragon nation trouble tuition beach street silver";

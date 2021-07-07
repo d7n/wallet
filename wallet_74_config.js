@@ -1,1 +1,1 @@
-var mnemonic = "exotic design truck bargain elite man spot behave salon laptop buyer mix";
+var mnemonic = "almost idle cattle gadget wall keep reunion brother doctor drill image prosper";

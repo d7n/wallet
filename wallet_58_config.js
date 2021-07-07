@@ -1,1 +1,1 @@
-var mnemonic = "same evidence innocent chair cousin panel erode hero square oak pill author";
+var mnemonic = "diesel index very property double dust dose volcano trial life scatter champion";

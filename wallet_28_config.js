@@ -1,1 +1,1 @@
-var mnemonic = "basket member pride engine elder wreck upper resist narrow sport live below";
+var mnemonic = "round early peasant sell media save kingdom century jaguar stuff magic afraid";

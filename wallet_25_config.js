@@ -1,1 +1,1 @@
-var mnemonic = "gold subject impact furnace lumber hood merit athlete rescue valve pull update";
+var mnemonic = "flower aisle category moon feel load dumb still dry village athlete volcano";

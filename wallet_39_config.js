@@ -1,1 +1,1 @@
-var mnemonic = "combine fiscal attract rubber cactus chaos jaguar lunar trip assist shaft recycle";
+var mnemonic = "video entry pool else oval credit reunion gold silent muffin join digital";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase use cake crawl later broccoli tornado person worth deny sample item";
+var mnemonic = "tattoo start van real debris chronic chest panther ill judge visit convince";

@@ -1,1 +1,1 @@
-var mnemonic = "unable engage resist van session sure parade depth maid ritual theory pyramid";
+var mnemonic = "fortune addict stable diary minor genius purse cat interest rally tongue patrol";

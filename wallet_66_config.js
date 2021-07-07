@@ -1,1 +1,1 @@
-var mnemonic = "cigar crunch tonight pizza draft ivory double bicycle loan dune blame cook";
+var mnemonic = "remind plunge hire mule certain snake regular service there calm laptop junior";

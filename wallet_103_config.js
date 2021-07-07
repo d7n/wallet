@@ -1,1 +1,1 @@
-var mnemonic = "tattoo result laugh book satisfy target syrup desert hidden defense either elder";
+var mnemonic = "surprise chef resource melody brain simple infant nerve bid sun trend crop";

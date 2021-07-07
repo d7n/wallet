@@ -1,1 +1,1 @@
-var mnemonic = "problem sure earth crumble essence stick warfare cruise venue hurt guide wide";
+var mnemonic = "fence winner style category slice public sick zero cannon mistake shadow erosion";

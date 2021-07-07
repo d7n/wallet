@@ -1,1 +1,1 @@
-var mnemonic = "guard tiny police capital quiz execute arm response custom viable forest deny";
+var mnemonic = "pool hold supreme switch cup decorate suit wash someone excess wrong jacket";

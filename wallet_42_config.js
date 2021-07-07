@@ -1,1 +1,1 @@
-var mnemonic = "silent climb hire sea harvest crucial artwork size later reflect convince penalty";
+var mnemonic = "snow hollow arrow whisper dune discover blossom sister orchard toddler slow private";

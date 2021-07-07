@@ -1,1 +1,1 @@
-var mnemonic = "minimum fog wall cruel burger belt waste amazing goat disease half song";
+var mnemonic = "soap pipe quit work seek rescue used design road reason frame whale";

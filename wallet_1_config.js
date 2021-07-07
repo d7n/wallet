@@ -1,1 +1,1 @@
-var mnemonic = "never wrong bleak trim uncover palm cancel object enough razor say famous";
+var mnemonic = "tool shoulder liar foil describe coin clinic local salon mechanic travel coach";

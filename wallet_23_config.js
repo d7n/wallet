@@ -1,1 +1,1 @@
-var mnemonic = "rich host maid erase devote grant test road joy turtle evoke juice";
+var mnemonic = "slow brisk never dumb useful retreat stadium twice aerobic spell over all";

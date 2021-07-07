@@ -1,1 +1,1 @@
-var mnemonic = "virus supreme hamster angry lava drama truck cupboard capital right glue alert";
+var mnemonic = "spice arrange congress breeze destroy garbage sun thumb below kidney fit limit";

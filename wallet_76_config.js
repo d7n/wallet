@@ -1,1 +1,1 @@
-var mnemonic = "dignity tooth crater thrive practice broccoli century loud sheriff sting sign mention";
+var mnemonic = "source funny card crouch addict disagree blossom alpha latin blast rifle song";

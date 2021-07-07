@@ -1,1 +1,1 @@
-var mnemonic = "dune grain begin top hawk mule asthma unaware decline lens wrong obscure";
+var mnemonic = "swear detail wheel chair present sphere ozone idea parent lemon force common";

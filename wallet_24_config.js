@@ -1,1 +1,1 @@
-var mnemonic = "addict lady tobacco stereo devote legend entire vote east daring biology hole";
+var mnemonic = "found category turn defense stove nice fiscal have shell icon faculty vital";

@@ -1,1 +1,1 @@
-var mnemonic = "issue pipe trouble improve capable tent damp find below unable scale legend";
+var mnemonic = "glow tourist fee nuclear hair jazz purity lazy region bitter pilot strike";

@@ -1,1 +1,1 @@
-var mnemonic = "check order night spoil zero damage cradle bacon brain require spirit subject";
+var mnemonic = "hotel oval trouble treat garbage film network pistol film bleak agree gain";

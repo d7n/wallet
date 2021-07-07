@@ -1,1 +1,1 @@
-var mnemonic = "van cupboard sleep sail dry soul note remind inner turkey rapid uncle";
+var mnemonic = "cram liquid swing boil bench confirm sunny bus upgrade start topic satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican chapter dream crisp depend large fix spot quarter wasp twenty mango";
+var mnemonic = "borrow hungry idle pyramid ordinary live remember marine street quiz oak town";

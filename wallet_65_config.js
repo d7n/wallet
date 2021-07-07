@@ -1,1 +1,1 @@
-var mnemonic = "play magic easily limb coconut race affair throw sort short crowd special";
+var mnemonic = "more siege panda mail nose length open crush coffee tomato pond fitness";

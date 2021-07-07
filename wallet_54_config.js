@@ -1,1 +1,1 @@
-var mnemonic = "lottery maze sphere palace snack treat day march brand leader swamp scorpion";
+var mnemonic = "proud camera mutual obscure secret thing stand divide habit fringe duck syrup";

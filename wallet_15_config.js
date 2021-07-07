@@ -1,1 +1,1 @@
-var mnemonic = "boy chase enact number dog risk sound margin salad polar first pottery";
+var mnemonic = "suspect law faculty annual main rude palace position height rate ask jelly";

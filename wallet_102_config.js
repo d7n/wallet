@@ -1,1 +1,1 @@
-var mnemonic = "fatal already cushion reflect puzzle almost secret razor lock rely planet abandon";
+var mnemonic = "border endless high brass program flock cup certain midnight fold length divert";

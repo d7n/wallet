@@ -1,1 +1,1 @@
-var mnemonic = "sure sponsor bus select juice old usual charge illegal glue announce arrow";
+var mnemonic = "result key wolf reduce unfair shallow move talent scissors miss charge cancel";

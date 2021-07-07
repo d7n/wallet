@@ -1,1 +1,1 @@
-var mnemonic = "churn park hurt loud session hedgehog ketchup face wrist stove tube grape";
+var mnemonic = "toward gate fan know floor monster carbon snake hard emotion wrist pulp";

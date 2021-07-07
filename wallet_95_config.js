@@ -1,1 +1,1 @@
-var mnemonic = "joy ill forget leader ball cruel ship guitar smart smooth obvious rebel";
+var mnemonic = "fiscal veteran athlete assume spy dish delay dream poem bounce breeze drive";

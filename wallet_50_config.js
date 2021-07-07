@@ -1,1 +1,1 @@
-var mnemonic = "used health raven piece pulse aspect whip shock photo cat cancel maple";
+var mnemonic = "soft since federal blast feature bone sure chimney dial weapon rabbit figure";

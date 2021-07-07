@@ -1,1 +1,1 @@
-var mnemonic = "tube pulp federal devote fall age then tourist talent rough position tape";
+var mnemonic = "live path also excess fluid pluck weird coyote visual toward exotic review";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff never cherry junior tuna mean cage fault company follow goat arrow";
+var mnemonic = "will address solar neutral black organ party genius man coyote control tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "enough rally neck camp erosion logic element fatigue music rhythm high diesel";
+var mnemonic = "fish industry harsh auction august shift march dad damp leader credit worth";

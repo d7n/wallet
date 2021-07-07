@@ -1,1 +1,1 @@
-var mnemonic = "crew device return alley thumb horse deputy very tragic spot misery minimum";
+var mnemonic = "birth symbol knee thing mention claim bundle text penalty potato cross ship";

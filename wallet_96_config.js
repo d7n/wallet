@@ -1,1 +1,1 @@
-var mnemonic = "scale eternal estate sunny wish chronic custom leaf file solid icon tattoo";
+var mnemonic = "fun leopard page task sweet detect bar illness gauge hybrid episode intact";

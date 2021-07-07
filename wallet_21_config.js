@@ -1,1 +1,1 @@
-var mnemonic = "cliff stone surround athlete multiply genius sniff tunnel seed junior fragile credit";
+var mnemonic = "garment enable surge bar banner uniform verify suspect mix decline energy grain";

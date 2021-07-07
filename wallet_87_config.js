@@ -1,1 +1,1 @@
-var mnemonic = "index west tumble major unaware pear lobster world rotate ship debris point";
+var mnemonic = "sport yellow enact chimney dad hammer pause exile coconut before turtle tray";

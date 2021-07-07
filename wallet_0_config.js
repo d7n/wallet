@@ -1,1 +1,1 @@
-var mnemonic = "latin soap farm woman elephant marble ask flame name coach sausage opinion";
+var mnemonic = "orchard verify before sport evoke olive shift gadget cushion twice young lock";

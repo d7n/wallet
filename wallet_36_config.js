@@ -1,1 +1,1 @@
-var mnemonic = "culture disagree bicycle pattern stand patch frown series drift swarm popular smart";
+var mnemonic = "true grief coyote flush oven exotic spend rookie give aerobic recipe ability";

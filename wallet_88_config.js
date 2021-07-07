@@ -1,1 +1,1 @@
-var mnemonic = "cube hamster pitch learn lake frozen potato street glance corn bar execute";
+var mnemonic = "certain phone erosion usual zero soccer cube coyote marble truth drink meat";

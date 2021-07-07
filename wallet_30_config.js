@@ -1,1 +1,1 @@
-var mnemonic = "tenant actress ahead happy immense mercy fog uniform dawn clump wrap divert";
+var mnemonic = "cement soup elbow attract miss myself abstract flower view stereo ticket mesh";

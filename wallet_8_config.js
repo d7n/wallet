@@ -1,1 +1,1 @@
-var mnemonic = "fluid library rival swamp matrix tomato enough faith noodle sheriff south cake";
+var mnemonic = "payment domain canoe sauce bar only pelican face legal size cabbage loud";

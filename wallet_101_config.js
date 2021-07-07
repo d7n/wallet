@@ -1,1 +1,1 @@
-var mnemonic = "daughter vicious genius goose nephew cherry bitter render vacant empower ordinary garlic";
+var mnemonic = "harbor zone drive column squirrel gossip aim manual collect spend attend discover";

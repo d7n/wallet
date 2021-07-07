@@ -1,1 +1,1 @@
-var mnemonic = "unknown universe kite lazy slush market off market trial test acid what";
+var mnemonic = "amused town hour cruel crouch little caution depend link shuffle series spy";

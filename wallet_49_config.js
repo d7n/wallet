@@ -1,1 +1,1 @@
-var mnemonic = "entry pause token exist gesture anchor detect easy ticket sword moon lucky";
+var mnemonic = "kitchen tired renew lava office jeans priority city strong balcony initial extend";

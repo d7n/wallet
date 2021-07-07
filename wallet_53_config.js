@@ -1,1 +1,1 @@
-var mnemonic = "canvas cash bring chest steel muscle easy public room vacant start accuse";
+var mnemonic = "gain program napkin much wisdom depth cradle swarm drift chicken boy turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty initial hurt ramp bleak height swing other angle keep warfare body";
+var mnemonic = "calm jeans mercy solar diamond hole gym balance surface bean word tip";

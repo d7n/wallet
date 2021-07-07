@@ -1,1 +1,1 @@
-var mnemonic = "parent myth square agree increase method upper ahead field clap frown pitch";
+var mnemonic = "foam viable bunker tip primary pole flavor panda verify trophy impulse source";

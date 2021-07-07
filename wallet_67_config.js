@@ -1,1 +1,1 @@
-var mnemonic = "clever gaze garbage give net section champion woman second science decorate scrub";
+var mnemonic = "hedgehog oak royal buyer noodle phrase point upper forum fuel destroy marble";

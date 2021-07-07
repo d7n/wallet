@@ -1,1 +1,1 @@
-var mnemonic = "mean warfare purchase doll gravity click silly belt letter cup camera filter";
+var mnemonic = "proof mystery jelly broom again summer connect hurdle tortoise shock upgrade mirror";

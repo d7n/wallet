@@ -1,1 +1,1 @@
-var mnemonic = "equip leaf spoil mosquito recall mesh cage visit struggle horror dentist color";
+var mnemonic = "dove buddy ball unhappy grain nut pause awkward fall unfair gesture ozone";

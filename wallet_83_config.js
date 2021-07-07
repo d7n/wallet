@@ -1,1 +1,1 @@
-var mnemonic = "among bracket luggage range yard crazy oil reunion dish public torch panic";
+var mnemonic = "promote scatter neither wisdom amused sample useless cake beyond friend veteran soldier";

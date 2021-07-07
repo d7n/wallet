@@ -1,1 +1,1 @@
-var mnemonic = "cluster woman pledge obey sad subway tennis lawn mosquito pave ahead physical";
+var mnemonic = "patch copper bronze detail prosper effort position same miracle museum more wedding";

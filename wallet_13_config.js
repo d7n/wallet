@@ -1,1 +1,1 @@
-var mnemonic = "cave rose output glide length vendor slight fiber debris palm misery morning";
+var mnemonic = "gaze use suit smile also wedding feature lamp harvest cause insect elbow";

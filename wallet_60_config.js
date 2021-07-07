@@ -1,1 +1,1 @@
-var mnemonic = "abstract purchase exclude whale senior liquid unaware donate police talent digital obvious";
+var mnemonic = "result never addict receive bulb skirt pony eagle balcony spoil long arrest";

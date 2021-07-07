@@ -1,1 +1,1 @@
-var mnemonic = "stuff decline remove argue infant perfect spell solid grant section sure torch";
+var mnemonic = "finger stock observe someone beef evoke rule neutral rice travel finish dad";

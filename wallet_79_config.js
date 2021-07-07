@@ -1,1 +1,1 @@
-var mnemonic = "today sight intact planet dust sport jelly panther coconut faith hurt suit";
+var mnemonic = "patrol disagree transfer wash cute regular gift witness cigar usual salmon possible";

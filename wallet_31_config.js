@@ -1,1 +1,1 @@
-var mnemonic = "goat skin unusual dad eye faint wagon helmet cargo flush capable deputy";
+var mnemonic = "tree calm term bar what news flash shadow permit mansion curve borrow";

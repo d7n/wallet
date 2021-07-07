@@ -1,1 +1,1 @@
-var mnemonic = "puzzle light surge shell carpet spy pencil soon episode damp panda nose";
+var mnemonic = "turn motion raw question salmon common minimum tragic giggle wait gas urge";

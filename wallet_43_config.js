@@ -1,1 +1,1 @@
-var mnemonic = "maximum eagle mix trade debris social onion below method deal aim van";
+var mnemonic = "grape basic original vault more next cruise lunch high rigid candy bird";

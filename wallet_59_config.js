@@ -1,1 +1,1 @@
-var mnemonic = "coil pig topple hazard door oppose dutch grab near now casual snow";
+var mnemonic = "chaos educate crouch aspect mask wash name mail adjust oil tortoise circle";

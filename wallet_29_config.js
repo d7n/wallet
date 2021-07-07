@@ -1,1 +1,1 @@
-var mnemonic = "mechanic suspect hood cement path broccoli fine maze obtain matrix zero setup";
+var mnemonic = "retreat home head day bridge defense bracket asset sleep walnut flame upper";

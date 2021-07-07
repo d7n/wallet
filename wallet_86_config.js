@@ -1,1 +1,1 @@
-var mnemonic = "jacket laundry network key abstract cook tomorrow auto always tumble wise health";
+var mnemonic = "visa benefit explain maze sadness spread stand cigar combine onion curious country";

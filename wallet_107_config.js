@@ -1,1 +1,1 @@
-var mnemonic = "dream genius seven smooth quantum valid retreat eight voice cheap drum sense";
+var mnemonic = "cruise vacant winter cross curtain devote episode hint bronze erase jealous blast";

@@ -1,1 +1,1 @@
-var mnemonic = "insect tobacco dawn trick embark angle mother earth auction venue human cactus";
+var mnemonic = "thing amount truck season trigger bid swamp call victory loud note canyon";

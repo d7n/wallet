@@ -1,1 +1,1 @@
-var mnemonic = "hungry bar neither flee flight mail apology juice holiday salute whip build";
+var mnemonic = "supply cinnamon ten forget glad finish fiction squeeze dirt chest advance public";

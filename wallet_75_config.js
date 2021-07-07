@@ -1,1 +1,1 @@
-var mnemonic = "embody write sponsor nerve angry execute general reward nature grain song neither";
+var mnemonic = "write airport defy intact top arena demise asthma radio swear spike ghost";

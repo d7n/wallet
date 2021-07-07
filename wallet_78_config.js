@@ -1,1 +1,1 @@
-var mnemonic = "bind title smart sail predict rude illness diary case divert like about";
+var mnemonic = "surge brush hockey crystal concert spy general enable love gym victory cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "wool lobster milk annual inquiry sense offer rabbit achieve vast addict child";
+var mnemonic = "ridge embark pond use alpha cable clock finish poverty behave lyrics card";

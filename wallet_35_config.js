@@ -1,1 +1,1 @@
-var mnemonic = "will try noise head timber oak bone milk sand garbage tower mercy";
+var mnemonic = "manual lunch ozone wonder cable action inner amused convince energy spy love";

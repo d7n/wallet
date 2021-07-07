@@ -1,1 +1,1 @@
-var mnemonic = "embark arm title zoo obvious erase shoot series receive gain sign joy";
+var mnemonic = "evolve balcony check suffer say lake curious bullet soccer swamp below demise";

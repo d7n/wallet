@@ -1,1 +1,1 @@
-var mnemonic = "banner olive upset nominee narrow cement baby carpet bounce alien parrot lottery";
+var mnemonic = "someone fresh kangaroo hurry spend lawn voice six wire betray arrange anchor";

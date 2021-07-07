@@ -1,1 +1,1 @@
-var mnemonic = "carry pink post drill display public left assist grief mansion remain ceiling";
+var mnemonic = "scissors only rapid act retire kid barely shiver inhale under fringe suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "image describe exile hedgehog panic poem hole horn come walk tribe claw";
+var mnemonic = "slice fashion core salute crawl dolphin power scissors scare buddy either inject";

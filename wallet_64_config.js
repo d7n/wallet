@@ -1,1 +1,1 @@
-var mnemonic = "mushroom wheat wrong company fashion ask crazy innocent diary regular neither vanish";
+var mnemonic = "hand direct stand you hobby boy fox near latin snake check envelope";

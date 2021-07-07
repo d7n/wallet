@@ -1,1 +1,1 @@
-var mnemonic = "effort iron inhale trim color case evoke erosion arrow portion glide benefit";
+var mnemonic = "dilemma offer extend lock blue jealous joy toe soldier cross coil early";

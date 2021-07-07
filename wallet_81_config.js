@@ -1,1 +1,1 @@
-var mnemonic = "pluck correct silly extend dirt foster home raw wine inhale energy pudding";
+var mnemonic = "smart prepare family lottery tomato front flee shoot able security belt artist";

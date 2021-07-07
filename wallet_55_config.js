@@ -1,1 +1,1 @@
-var mnemonic = "sign bar throw dance digital solve strategy brick boat canal choice couple";
+var mnemonic = "moral uniform family decrease hotel flee suit alert garment erode master typical";

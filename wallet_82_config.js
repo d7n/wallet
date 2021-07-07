@@ -1,1 +1,1 @@
-var mnemonic = "either finish spread fruit tribe blur outside frame uniform doll truly february";
+var mnemonic = "bus jazz sniff bread drive judge discover range wise feed shoe congress";

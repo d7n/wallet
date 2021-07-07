@@ -1,1 +1,1 @@
-var mnemonic = "next picnic essence above wisdom remember also renew demise surprise pretty alone";
+var mnemonic = "mix problem tribe inch divorce matter border legend blast arctic mail that";
