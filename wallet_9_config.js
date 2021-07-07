@@ -1,1 +1,1 @@
-var mnemonic = "wrap cash radar high choice census toward sustain apology cabin combine bean";
+var mnemonic = "humble tissue permit utility clinic pistol pitch theme market entire amount crack";

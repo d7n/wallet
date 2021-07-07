@@ -1,1 +1,1 @@
-var mnemonic = "save bench infant position moment squirrel work season moral urge ceiling diesel";
+var mnemonic = "worth enemy pulse giraffe same differ flag play sketch grit response feature";

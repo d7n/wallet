@@ -1,1 +1,1 @@
-var mnemonic = "drill lava behind shrug output bright public hood wedding portion agent arrow";
+var mnemonic = "leader recall stove weekend fever board school swing vacant check throw zebra";

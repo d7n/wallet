@@ -1,1 +1,1 @@
-var mnemonic = "van update topic frog prize climb exist absent alone lake fine clinic";
+var mnemonic = "observe brand prize water blue glare weasel oil midnight permit subject december";

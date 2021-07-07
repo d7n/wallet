@@ -1,1 +1,1 @@
-var mnemonic = "keen cancel skate panther annual very test enough ice dignity faculty upon";
+var mnemonic = "possible tribe bachelor box twelve column seminar trial cloth interest smoke explain";

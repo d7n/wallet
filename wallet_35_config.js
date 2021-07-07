@@ -1,1 +1,1 @@
-var mnemonic = "gallery session online drama rich inner vintage view mushroom marble loyal ethics";
+var mnemonic = "sure supply chaos ghost flight motion gossip review brief anxiety brand common";

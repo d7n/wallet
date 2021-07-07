@@ -1,1 +1,1 @@
-var mnemonic = "pretty hurdle stage all fork knife various master sustain marriage spider excess";
+var mnemonic = "fame income glad cream help address donor finish toy frequent paper filter";

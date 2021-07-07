@@ -1,1 +1,1 @@
-var mnemonic = "table art laundry head until label grief digital athlete inch help bind";
+var mnemonic = "isolate physical sick riot sure dose slim reward ghost fever chimney diesel";

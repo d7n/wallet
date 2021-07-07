@@ -1,1 +1,1 @@
-var mnemonic = "person clown manual simple caught bird umbrella toilet breeze embody wink turtle";
+var mnemonic = "shiver scout future scrap rather chicken total release shy drum shuffle muscle";

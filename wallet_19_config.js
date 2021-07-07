@@ -1,1 +1,1 @@
-var mnemonic = "move embark occur crawl crash visa reason edge major success stuff sketch";
+var mnemonic = "term process chimney horse sausage scorpion outer major bone alone filter raw";

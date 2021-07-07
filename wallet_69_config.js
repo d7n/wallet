@@ -1,1 +1,1 @@
-var mnemonic = "mind engine mule average world labor risk quiz napkin trust response icon";
+var mnemonic = "arch local guard anger banner swear minute thrive chunk coffee april leave";

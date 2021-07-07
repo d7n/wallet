@@ -1,1 +1,1 @@
-var mnemonic = "rookie wrestle umbrella inflict foot hidden shadow foam tunnel crystal team gloom";
+var mnemonic = "great wife initial divorce push injury ticket bar sausage comfort rebel invite";

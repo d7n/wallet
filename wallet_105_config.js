@@ -1,1 +1,1 @@
-var mnemonic = "sock green jelly chaos artist deposit nut shine federal metal maximum evidence";
+var mnemonic = "tape silver trigger fortune first desert clog nut glass portion skate perfect";

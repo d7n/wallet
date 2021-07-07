@@ -1,1 +1,1 @@
-var mnemonic = "shadow grocery near crush spare shock often boost pulp skull away bacon";
+var mnemonic = "helmet reduce atom base easy foot engage average tail measure thought autumn";

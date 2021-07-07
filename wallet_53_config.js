@@ -1,1 +1,1 @@
-var mnemonic = "company daughter pave camp visual name sand shoe weird stable core pretty";
+var mnemonic = "exercise goat fatigue orchard fork harbor misery elevator gun trigger acid few";

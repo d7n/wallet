@@ -1,1 +1,1 @@
-var mnemonic = "piano bid symptom office begin helmet pink crazy access possible client sentence";
+var mnemonic = "phone chronic castle music tackle volume explain special quote bird latin pride";

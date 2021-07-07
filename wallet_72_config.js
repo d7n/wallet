@@ -1,1 +1,1 @@
-var mnemonic = "stadium pepper bus century craft rate parrot evoke mandate table trust box";
+var mnemonic = "ugly kite zebra dad similar bind auction gap caught combine drama whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk kitten trend word casino expose pill room easily mistake section never";
+var mnemonic = "eager slice eight system bunker enlist obscure vocal ring twelve horn pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "surround access crawl donkey fragile game antique run also margin leisure will";
+var mnemonic = "float tiger glove merit group coyote have avoid galaxy setup bounce elbow";

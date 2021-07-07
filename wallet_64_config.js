@@ -1,1 +1,1 @@
-var mnemonic = "apology joke equip aware ketchup snake picture climb girl plate this meat";
+var mnemonic = "canoe bus royal health gesture furnace miss renew winner initial sadness attract";

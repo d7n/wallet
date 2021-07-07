@@ -1,1 +1,1 @@
-var mnemonic = "bomb law visual gossip garment spy improve version because motor drift crouch";
+var mnemonic = "melody furnace sheriff once gauge exile fever path badge divide sorry bring";

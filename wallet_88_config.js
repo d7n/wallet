@@ -1,1 +1,1 @@
-var mnemonic = "inspire divorce announce year vault fatigue leg skill path order immense slam";
+var mnemonic = "stage blood uncover search local orange wonder start balcony before include essence";

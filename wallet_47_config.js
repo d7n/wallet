@@ -1,1 +1,1 @@
-var mnemonic = "nest column essence fault try syrup rude frost exhibit setup bottom spot";
+var mnemonic = "fancy electric daughter force exist gloom conduct april like admit keep tuna";

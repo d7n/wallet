@@ -1,1 +1,1 @@
-var mnemonic = "quality solid quote draft boring spice easily fall suit series imitate develop";
+var mnemonic = "suit jelly point rib convince agent client cave casino ready illegal tongue";

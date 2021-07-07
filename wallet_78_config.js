@@ -1,1 +1,1 @@
-var mnemonic = "tower armed rubber club enforce mirror minimum catch knee evidence faith test";
+var mnemonic = "flavor sibling oval smile secret journey bottom find decrease apple detail crash";

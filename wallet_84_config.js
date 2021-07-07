@@ -1,1 +1,1 @@
-var mnemonic = "rookie common shoulder marine pipe room egg example drum vendor zone episode";
+var mnemonic = "arena powder improve north artefact one leave woman margin brief oblige build";

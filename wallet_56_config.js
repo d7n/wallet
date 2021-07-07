@@ -1,1 +1,1 @@
-var mnemonic = "shop chief source victory smoke demise under lazy wreck fit prepare file";
+var mnemonic = "work equip lab dream pave cost pottery shoulder away drama habit cross";

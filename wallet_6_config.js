@@ -1,1 +1,1 @@
-var mnemonic = "thumb shoe knife team legend destroy kidney hybrid digital cave before spatial";
+var mnemonic = "girl film junior loop rug crisp napkin record type sniff glimpse tree";

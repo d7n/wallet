@@ -1,1 +1,1 @@
-var mnemonic = "confirm aerobic match six goat regular either weapon board faith trash avoid";
+var mnemonic = "portion select wild picnic hawk fresh judge document foam rice raise square";

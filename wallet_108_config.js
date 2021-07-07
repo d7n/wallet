@@ -1,1 +1,1 @@
-var mnemonic = "essence grit dinner click battle monkey obvious funny sorry iron picnic return";
+var mnemonic = "roof what suggest armor consider whisper case hunt flight suit lens increase";

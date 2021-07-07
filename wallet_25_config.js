@@ -1,1 +1,1 @@
-var mnemonic = "second oppose federal tennis rail liquid black sunny mutual blind head athlete";
+var mnemonic = "inject loop detail smile slight equal summer pitch parade cancel success give";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat napkin agree expand embrace square hobby nice kitchen organ traffic ecology";
+var mnemonic = "hint piano cruel reason trumpet there banner file wine time common gown";

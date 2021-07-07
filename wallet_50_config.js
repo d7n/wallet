@@ -1,1 +1,1 @@
-var mnemonic = "card spider sweet domain panel flip task potato charge light uphold praise";
+var mnemonic = "letter leg frog vapor decide milk start gauge near rookie ocean kingdom";

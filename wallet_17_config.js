@@ -1,1 +1,1 @@
-var mnemonic = "scatter expand knee eye gadget fine soft diamond century judge all dove";
+var mnemonic = "master mercy limb pottery track riot shift service copy foster soldier desert";

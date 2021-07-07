@@ -1,1 +1,1 @@
-var mnemonic = "live crumble shoot hire armed ranch effort recipe morning loud exile oppose";
+var mnemonic = "meadow ten gold since already cube gaze usual road provide able tumble";

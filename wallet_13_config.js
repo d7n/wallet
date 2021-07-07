@@ -1,1 +1,1 @@
-var mnemonic = "lab wide win light tenant under tooth drama battle antenna oil clutch";
+var mnemonic = "mail swallow before click jeans stuff stone fossil purse grain topic hunt";

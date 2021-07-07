@@ -1,1 +1,1 @@
-var mnemonic = "term police typical flash stone denial early will visit immense rate tree";
+var mnemonic = "when want tone gift february derive fiscal animal day original umbrella chest";

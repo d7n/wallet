@@ -1,1 +1,1 @@
-var mnemonic = "bachelor age drastic moment okay organ crack impose peace actual glory knife";
+var mnemonic = "shine gallery distance order chest inflict hazard visit essence shock axis judge";

@@ -1,1 +1,1 @@
-var mnemonic = "sport earn run enough disease matrix infant suspect way gate again armor";
+var mnemonic = "off logic useful chaos slogan wear either predict gesture steak celery verify";

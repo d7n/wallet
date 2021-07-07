@@ -1,1 +1,1 @@
-var mnemonic = "small lock search seven dream below exist actor there hill boss grape";
+var mnemonic = "wheel portion concert train bring earth tube scale know general music more";

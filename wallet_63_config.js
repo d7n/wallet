@@ -1,1 +1,1 @@
-var mnemonic = "almost canal pulse carry armed leader code equal stairs tackle nest enlist";
+var mnemonic = "domain run panther cereal proud upon coral gift waste squirrel pool gentle";

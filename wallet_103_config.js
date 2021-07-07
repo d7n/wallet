@@ -1,1 +1,1 @@
-var mnemonic = "illness grunt tent accuse hockey modify hill dumb smart fox unveil target";
+var mnemonic = "autumn hip truth desk know cash symptom monitor survey entry blouse grit";

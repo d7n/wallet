@@ -1,1 +1,1 @@
-var mnemonic = "gap stay waste olympic disorder current soap only pear example voyage festival";
+var mnemonic = "state cat item echo void scale doctor charge volume float tumble correct";

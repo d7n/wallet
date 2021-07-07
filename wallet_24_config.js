@@ -1,1 +1,1 @@
-var mnemonic = "input sugar method tube someone company voice disorder rely gas combine replace";
+var mnemonic = "online general cruise edit addict ice awful patient roof say chef evolve";

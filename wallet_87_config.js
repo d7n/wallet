@@ -1,1 +1,1 @@
-var mnemonic = "pistol kid correct since diary fork misery milk exile burst corn talent";
+var mnemonic = "web pear grunt quantum hawk dentist possible purchase remind notice globe trick";

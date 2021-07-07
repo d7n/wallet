@@ -1,1 +1,1 @@
-var mnemonic = "crystal reunion approve that soap owner youth cement friend screen dune whip";
+var mnemonic = "file order marriage shallow any exit depend cousin tattoo weasel turtle ball";

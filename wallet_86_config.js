@@ -1,1 +1,1 @@
-var mnemonic = "deposit nature trouble day nasty same miss finger morning foil dismiss unfair";
+var mnemonic = "scissors basket battle polar spice erosion mobile latin decrease human picnic carry";

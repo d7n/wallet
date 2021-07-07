@@ -1,1 +1,1 @@
-var mnemonic = "maximum glare plug horn news round meadow notable lawsuit page cushion clean";
+var mnemonic = "canoe pyramid sugar bacon right canvas metal alpha protect used hello pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "gas hire verify feel catalog gift animal fish you sister doctor high";
+var mnemonic = "allow duck crazy stadium jar knock gasp size frog soccer bomb seek";

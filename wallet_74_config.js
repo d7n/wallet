@@ -1,1 +1,1 @@
-var mnemonic = "loyal mix jealous switch baby choice naive reason employ chase blouse among";
+var mnemonic = "dilemma below city inmate plunge action build surround gentle rent antenna slab";

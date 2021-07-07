@@ -1,1 +1,1 @@
-var mnemonic = "reunion year front glue put rug cinnamon useless gorilla butter witness naive";
+var mnemonic = "bus asthma urban eye inject liberty say pepper cover change proof eight";

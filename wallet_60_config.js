@@ -1,1 +1,1 @@
-var mnemonic = "buffalo kangaroo metal kitchen tilt turkey climb lunch cargo allow hair rare";
+var mnemonic = "height sheriff avocado local banana wall chapter reflect creek reform echo stock";

@@ -1,1 +1,1 @@
-var mnemonic = "material fancy enroll phrase black fade helmet audit target license review dice";
+var mnemonic = "song girl bid unfair doctor enact woman sound door bag involve section";

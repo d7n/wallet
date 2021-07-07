@@ -1,1 +1,1 @@
-var mnemonic = "airport just envelope radio muscle grocery stamp project tray bar leaf together";
+var mnemonic = "special behave topic chimney buddy grass inhale below tobacco solution certain toddler";

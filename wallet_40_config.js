@@ -1,1 +1,1 @@
-var mnemonic = "volcano list merit fix win uphold ugly welcome mix ten hobby title";
+var mnemonic = "about key trash polar bridge someone sniff wife glue squeeze beach describe";

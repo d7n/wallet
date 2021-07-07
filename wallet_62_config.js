@@ -1,1 +1,1 @@
-var mnemonic = "wisdom there weird blouse heavy certain horse broccoli soccer arrange insane swing";
+var mnemonic = "jewel bean deposit bracket tunnel echo since sausage smooth jewel teach property";

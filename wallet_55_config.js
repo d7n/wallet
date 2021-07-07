@@ -1,1 +1,1 @@
-var mnemonic = "wrong abuse keen length hero disagree best jaguar parade brain warrior caution";
+var mnemonic = "pair sort extra initial joke blue tornado record day measure skate twist";

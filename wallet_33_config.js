@@ -1,1 +1,1 @@
-var mnemonic = "thumb trick erase subway track affair fiction volcano zero begin access night";
+var mnemonic = "kitten match decorate bubble edge sun gorilla cart salute better fly post";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid human renew hidden skate negative soul ride tuition picture paper shoe";
+var mnemonic = "anxiety basket spy exist hollow reward know negative human better slide put";

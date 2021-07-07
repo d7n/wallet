@@ -1,1 +1,1 @@
-var mnemonic = "verb bird arch tank foster just either riot unlock tribe churn render";
+var mnemonic = "trial shoulder range distance guide modify foster program jaguar inch fuel grid";

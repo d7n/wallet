@@ -1,1 +1,1 @@
-var mnemonic = "water sugar uncle kitten ill name maple debate interest barely ceiling drink";
+var mnemonic = "swap either episode main lion edit glide force kiss brave spawn subway";

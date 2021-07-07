@@ -1,1 +1,1 @@
-var mnemonic = "fame urge expire height mansion repeat basic large fire vast speak first";
+var mnemonic = "vocal favorite regret skin waste rally pyramid age flee name resource excite";

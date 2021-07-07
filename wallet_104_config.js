@@ -1,1 +1,1 @@
-var mnemonic = "ahead tenant can category sand spoon clown addict angry key daring frame";
+var mnemonic = "melody van fitness domain surface scan viable glad amount area soup wrong";

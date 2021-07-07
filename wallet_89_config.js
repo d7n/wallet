@@ -1,1 +1,1 @@
-var mnemonic = "gas tuna parade dirt chapter ready ripple muscle deputy valve voyage large";
+var mnemonic = "remember machine crush punch possible ill plastic bind antique remember melody entry";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance endorse gauge verb demise garlic rent render mention accident boy concert";
+var mnemonic = "dutch human sure frown drift provide rather forest letter update sail reunion";

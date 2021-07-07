@@ -1,1 +1,1 @@
-var mnemonic = "job you oval wife mass gentle cycle movie increase universe surge urge";
+var mnemonic = "paper smoke outer twelve network section conduct glow feed trouble hobby shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope treat unhappy era option soul favorite invest gift furnace patient pave";
+var mnemonic = "merge blast pyramid acoustic skin robust weather apology rain present gospel ask";

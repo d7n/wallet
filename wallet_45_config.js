@@ -1,1 +1,1 @@
-var mnemonic = "power quit acquire damage leg come style web wear slam copper venture";
+var mnemonic = "secret thunder sail bike price such reject gossip primary rib whisper citizen";

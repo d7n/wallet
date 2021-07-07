@@ -1,1 +1,1 @@
-var mnemonic = "family spoon way digital toilet century this slight pave potato faint memory";
+var mnemonic = "peasant lawsuit eagle pass pact weapon extra invite edge grow lab risk";

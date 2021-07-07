@@ -1,1 +1,1 @@
-var mnemonic = "bamboo version grid crouch stumble tired pelican myself lend sustain dream sister";
+var mnemonic = "demise virtual saddle frozen asset aware argue travel hood burden knee enroll";

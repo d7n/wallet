@@ -1,1 +1,1 @@
-var mnemonic = "awake general spawn modify share arrow type wink goddess phone gloom gloom";
+var mnemonic = "desk trick basic baby bread wife develop damp miss board kitten gas";

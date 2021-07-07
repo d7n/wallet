@@ -1,1 +1,1 @@
-var mnemonic = "cricket defense card enough used wisdom core slight main canoe bargain trick";
+var mnemonic = "minimum excuse detect level license expand region senior gorilla assist rent usual";

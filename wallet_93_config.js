@@ -1,1 +1,1 @@
-var mnemonic = "join fun owner elegant soon garment century lamp ribbon brick always right";
+var mnemonic = "chest coffee width shoulder bounce vast awful hockey impose wise wheel fish";

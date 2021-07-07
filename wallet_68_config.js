@@ -1,1 +1,1 @@
-var mnemonic = "rocket quiz quit nut cruise isolate real steel oil river mom swallow";
+var mnemonic = "early secret mushroom minimum select frame mass adult flock then section dove";

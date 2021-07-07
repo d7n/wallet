@@ -1,1 +1,1 @@
-var mnemonic = "bird mixed control flame thumb stable history buzz ecology aisle gain august";
+var mnemonic = "result only genius animal drum wedding behind cake scatter animal throw dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch gospel mystery symbol knee priority animal wine brave require vivid pupil";
+var mnemonic = "educate subway window depth radio lemon cannon lend ship increase month true";

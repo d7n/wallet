@@ -1,1 +1,1 @@
-var mnemonic = "bottom trend tired describe use pipe power ring person hobby vote shell";
+var mnemonic = "raccoon will annual shallow begin gap pudding unaware angry pipe media limb";

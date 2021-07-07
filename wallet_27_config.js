@@ -1,1 +1,1 @@
-var mnemonic = "parrot prize away chuckle better coach federal acoustic jelly paper tourist joy";
+var mnemonic = "pink shell eternal change isolate cry increase can toe sorry barrel wisdom";

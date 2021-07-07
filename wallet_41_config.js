@@ -1,1 +1,1 @@
-var mnemonic = "normal dwarf want box dizzy anger vehicle demise right glove treat festival";
+var mnemonic = "blade sample deposit oval blade glance beauty crane supply pact soon rent";

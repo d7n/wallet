@@ -1,1 +1,1 @@
-var mnemonic = "right crash guide hip excess loud rural pluck friend usage pottery object";
+var mnemonic = "birth catch demand attract spoil exit nest grass hawk fancy whip carpet";

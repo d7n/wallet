@@ -1,1 +1,1 @@
-var mnemonic = "chuckle cheap rubber cheese attitude nest century erase couple camera coil jungle";
+var mnemonic = "toilet lyrics never punch final burger educate bundle isolate sad shrug curve";

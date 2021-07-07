@@ -1,1 +1,1 @@
-var mnemonic = "book thank tray mail copper solution polar attend twin toss lawn chalk";
+var mnemonic = "nation taxi march upon autumn warm suffer leg craft good attract proof";

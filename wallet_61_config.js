@@ -1,1 +1,1 @@
-var mnemonic = "dune repeat prize scare vintage pledge post forward need priority broom bird";
+var mnemonic = "future erase sea position duty asthma effort base stuff stick release tired";

@@ -1,1 +1,1 @@
-var mnemonic = "snow slight opera volume shield cash hungry net just audit range other";
+var mnemonic = "page grow remove simple coral humor fish lyrics legal spider evil letter";

@@ -1,1 +1,1 @@
-var mnemonic = "palace tumble hamster alpha paper sound wage exist token guitar tone meat";
+var mnemonic = "shrug peace amazing have wire minor lounge border mirror rotate help other";

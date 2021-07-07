@@ -1,1 +1,1 @@
-var mnemonic = "conduct demand fall office next immune panther vivid airport enrich left riot";
+var mnemonic = "film wear furnace pledge portion stereo profit output legal route idle music";

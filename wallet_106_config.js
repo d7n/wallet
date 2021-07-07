@@ -1,1 +1,1 @@
-var mnemonic = "defense rotate flee sheriff length emerge name jaguar day grocery twelve clean";
+var mnemonic = "practice tiger joke spring glove cancel onion arrange abuse know excuse unit";

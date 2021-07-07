@@ -1,1 +1,1 @@
-var mnemonic = "machine dry web trouble misery capital admit grass autumn prison argue pause";
+var mnemonic = "window remove exist pumpkin topic open double endorse liquid naive pass all";
