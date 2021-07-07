@@ -1,1 +1,1 @@
-var mnemonic = "palace attend couch father leopard butter deposit valid struggle senior radar surge";
+var mnemonic = "april hood attend toy unveil smile dynamic sunset recycle coach identify across";

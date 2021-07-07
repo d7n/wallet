@@ -1,1 +1,1 @@
-var mnemonic = "switch stone tattoo sort pear insane advice allow slow shield autumn option";
+var mnemonic = "bulb else allow corn trim vintage must exchange master give nest canyon";

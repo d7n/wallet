@@ -1,1 +1,1 @@
-var mnemonic = "detect noodle tree coyote wrong decorate fit share endorse retire scout immense";
+var mnemonic = "below used suggest awkward annual camera layer purse soccer verb margin capable";

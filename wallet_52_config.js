@@ -1,1 +1,1 @@
-var mnemonic = "typical gorilla alcohol similar always smart result job popular consider great network";
+var mnemonic = "liquid siege mix liar choose teach supreme ecology raw sentence leisure cable";

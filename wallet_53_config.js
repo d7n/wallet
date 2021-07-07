@@ -1,1 +1,1 @@
-var mnemonic = "tomato blame wink year child learn salon extend carry pass kitchen humor";
+var mnemonic = "cycle gift apology alcohol current arch upon quarter shell dilemma deputy supreme";

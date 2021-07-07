@@ -1,1 +1,1 @@
-var mnemonic = "lazy suspect accident call jewel monster purchase napkin cushion naive stadium penalty";
+var mnemonic = "devote sword engage oak quick suggest oven kiss moon room hidden three";

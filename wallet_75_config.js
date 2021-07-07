@@ -1,1 +1,1 @@
-var mnemonic = "chalk elephant merit island piano maximum mimic curious hockey motion marine kitchen";
+var mnemonic = "junior infant cruel chase dream credit brain source novel age flight snack";

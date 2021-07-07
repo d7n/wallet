@@ -1,1 +1,1 @@
-var mnemonic = "buzz frost squeeze electric crop romance ocean skull pudding limit repair van";
+var mnemonic = "click trip whale unaware park earn indicate pass lift muscle excite profit";

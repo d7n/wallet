@@ -1,1 +1,1 @@
-var mnemonic = "hero resemble club coconut famous choice inhale prison history enforce cheap dinner";
+var mnemonic = "rescue address dog print shop piano choose nuclear find priority asset reject";

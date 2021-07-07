@@ -1,1 +1,1 @@
-var mnemonic = "quit hockey wrist glass radar topple stone erase print such small flee";
+var mnemonic = "ghost envelope half scrap demise skill valley tree oblige quick job buffalo";

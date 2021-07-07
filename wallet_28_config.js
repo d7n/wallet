@@ -1,1 +1,1 @@
-var mnemonic = "inflict fence online impulse evolve twelve utility ethics wink skull evil height";
+var mnemonic = "wisdom citizen love ticket that cactus soup blouse anger trust blue vicious";

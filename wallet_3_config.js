@@ -1,1 +1,1 @@
-var mnemonic = "diary scale swim staff tool summer idle smoke desert search party myself";
+var mnemonic = "pledge august hair mercy twelve quote tag profit middle famous tail modify";

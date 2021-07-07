@@ -1,1 +1,1 @@
-var mnemonic = "crunch reunion quit need scorpion resemble spray arrow hundred humble pink require";
+var mnemonic = "leopard swing vehicle repair rotate clip loyal anxiety until worry drink noble";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano lock diary foster earth measure extra special involve dust chunk tree";
+var mnemonic = "target human cost damp energy day menu earth yard illegal pave leopard";

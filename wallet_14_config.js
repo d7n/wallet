@@ -1,1 +1,1 @@
-var mnemonic = "slow fluid cradle wear april frost upon bag nest mushroom split clerk";
+var mnemonic = "manage swim summer angry hotel rain client deer perfect metal remain lawn";

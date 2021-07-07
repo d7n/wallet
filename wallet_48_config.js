@@ -1,1 +1,1 @@
-var mnemonic = "online shaft evoke hurry bulb combine label clip click ability abandon interest";
+var mnemonic = "theme leg subject object ugly light coin rare ten begin crane toddler";

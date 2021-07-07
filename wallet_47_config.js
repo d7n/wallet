@@ -1,1 +1,1 @@
-var mnemonic = "rice spoil animal real donkey simple sentence measure clock elbow shuffle hill";
+var mnemonic = "correct bird depend scan index grain spoil region diesel prevent ticket scorpion";

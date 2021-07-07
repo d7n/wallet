@@ -1,1 +1,1 @@
-var mnemonic = "episode success series slogan milk husband angry game obtain cup involve bid";
+var mnemonic = "cousin fix draw device conduct bleak rhythm absent fitness sample person turkey";

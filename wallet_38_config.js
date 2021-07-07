@@ -1,1 +1,1 @@
-var mnemonic = "beyond between case wrestle labor series castle true cheese time chase embark";
+var mnemonic = "deny hire fantasy wish play evidence diary dog cruel jazz latin home";

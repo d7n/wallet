@@ -1,1 +1,1 @@
-var mnemonic = "pyramid fabric traffic sure next depend enjoy enlist tilt spring believe oval";
+var mnemonic = "ocean sell spot alien north stereo leisure clinic library copper salmon man";

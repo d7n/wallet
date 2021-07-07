@@ -1,1 +1,1 @@
-var mnemonic = "nominee crew chief crew woman frequent grass abuse cargo tunnel mercy control";
+var mnemonic = "cricket stairs vivid shoot husband labor weekend expire patient live drift south";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb evolve youth around moment swamp cash tank airport fabric install artefact";
+var mnemonic = "wait syrup empower marine run essence define decorate embark zone sheriff elbow";

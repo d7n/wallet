@@ -1,1 +1,1 @@
-var mnemonic = "cushion phone blossom ridge client there stomach pistol blame escape major reunion";
+var mnemonic = "artefact donate fire present maze total stereo basic ignore daring odor action";

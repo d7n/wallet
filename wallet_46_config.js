@@ -1,1 +1,1 @@
-var mnemonic = "friend smart name physical admit weird become poem clutch nice trick mimic";
+var mnemonic = "prevent maple jar mix fat library swift inch awkward game provide flat";

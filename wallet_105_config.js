@@ -1,1 +1,1 @@
-var mnemonic = "network dad save skin because royal argue target insane message cement urban";
+var mnemonic = "canvas wagon mix promote royal umbrella mushroom initial weapon beef across panel";

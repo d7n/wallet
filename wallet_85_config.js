@@ -1,1 +1,1 @@
-var mnemonic = "edge then poet struggle during feed organ hedgehog fame female announce dust";
+var mnemonic = "act word ladder very matter patient trip sauce uncle snow into feel";

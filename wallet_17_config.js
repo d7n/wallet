@@ -1,1 +1,1 @@
-var mnemonic = "sibling guard total return canvas dance woman unique uncover rescue car fabric";
+var mnemonic = "genuine roast misery unveil student search hazard wet bridge chase hope swallow";

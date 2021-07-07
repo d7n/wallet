@@ -1,1 +1,1 @@
-var mnemonic = "ten grocery claw deal shuffle young march wealth hip glide frozen general";
+var mnemonic = "office mass census online unaware regular entire ridge celery unable pioneer spider";

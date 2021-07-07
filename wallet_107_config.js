@@ -1,1 +1,1 @@
-var mnemonic = "dignity tiger trigger noodle memory style double enable shiver urge calm omit";
+var mnemonic = "lazy account resist raven pass zebra sleep always junior girl caught jungle";

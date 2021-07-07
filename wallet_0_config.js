@@ -1,1 +1,1 @@
-var mnemonic = "exile gown carry owner decorate check dinner pistol head damage order fire";
+var mnemonic = "curious install verb menu agree music setup company ocean peasant market turtle";

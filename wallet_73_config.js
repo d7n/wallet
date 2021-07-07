@@ -1,1 +1,1 @@
-var mnemonic = "fire lounge damage still daring device cross dwarf prepare predict urban pepper";
+var mnemonic = "tragic spawn enroll city other bunker lava emerge arrest produce wool ready";

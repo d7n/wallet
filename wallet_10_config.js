@@ -1,1 +1,1 @@
-var mnemonic = "ability renew tenant tilt girl club special cost warm situate retire phrase";
+var mnemonic = "diamond minor brisk viable east tent envelope play surface flip void armor";

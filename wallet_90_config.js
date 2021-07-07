@@ -1,1 +1,1 @@
-var mnemonic = "nice zone fork gather cradle wink crash never worry approve chronic joy";
+var mnemonic = "vote found giant solar magnet torch impulse sing cereal umbrella today fury";

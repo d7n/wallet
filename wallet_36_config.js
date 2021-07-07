@@ -1,1 +1,1 @@
-var mnemonic = "sudden okay eternal twelve dragon current taste angry window equal mind champion";
+var mnemonic = "dismiss when taste into truth opera carbon similar tunnel merit language almost";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry alter either crisp section gap rice measure wire glow vapor able";
+var mnemonic = "infant visa carry leaf breeze endless exotic push spare hawk unaware sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard raise cushion spring hollow today health identify wrestle country hollow whale";
+var mnemonic = "auction orient three shrimp portion south celery valid rotate dad wrap inform";

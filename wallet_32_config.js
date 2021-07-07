@@ -1,1 +1,1 @@
-var mnemonic = "orchard pitch damage memory crumble load theme hurry sand skull warfare rug";
+var mnemonic = "double grow gravity guitar figure cram doctor romance laundry favorite attack rigid";

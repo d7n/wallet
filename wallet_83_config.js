@@ -1,1 +1,1 @@
-var mnemonic = "swap canvas shrug wolf cruel regular buyer hire adapt finish airport scrub";
+var mnemonic = "bring shaft nation alien citizen burger theme buddy crush island begin water";

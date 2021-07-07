@@ -1,1 +1,1 @@
-var mnemonic = "still chief casual deputy absent seed major siege weapon vintage advice art";
+var mnemonic = "thumb loop peasant umbrella basic old winner satisfy echo left hockey tower";

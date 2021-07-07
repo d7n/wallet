@@ -1,1 +1,1 @@
-var mnemonic = "exit into army corn rib rigid chef brass bring cruel foil project";
+var mnemonic = "candy flat win trade fault illegal oil garment super crush material city";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel trouble knock balcony fresh movie friend lunar immune first divorce fluid";
+var mnemonic = "attend hair visa drink organ party divert into perfect visit what holiday";

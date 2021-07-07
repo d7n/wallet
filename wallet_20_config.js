@@ -1,1 +1,1 @@
-var mnemonic = "soccer surround fork boss front cage speed prevent transfer grow silent dad";
+var mnemonic = "bean science pretty cry verify drip casino affair festival slow conduct castle";

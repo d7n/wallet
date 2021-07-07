@@ -1,1 +1,1 @@
-var mnemonic = "degree speak card spend piano gesture estate firm wash trash donor message";
+var mnemonic = "cement bike rely document stairs between zone dismiss angry omit escape harbor";

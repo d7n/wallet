@@ -1,1 +1,1 @@
-var mnemonic = "slide fat old hope various maximum cram ridge inmate wagon clump clip";
+var mnemonic = "car few exit pave horn boil trust circle old turn increase movie";

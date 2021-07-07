@@ -1,1 +1,1 @@
-var mnemonic = "end route rich cheap either skin ball save birth thrive dice mimic";
+var mnemonic = "drill wheat loud actress rude soap visit ignore guilt junk will endless";

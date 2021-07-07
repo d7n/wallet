@@ -1,1 +1,1 @@
-var mnemonic = "silver chapter eight avocado symbol unlock often remove ancient test surprise myself";
+var mnemonic = "illness ripple injury follow biology general knee cement tiger alien immune fiction";

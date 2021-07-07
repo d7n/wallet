@@ -1,1 +1,1 @@
-var mnemonic = "help august airport fabric mobile task horse slight gold crime bamboo cannon";
+var mnemonic = "switch obvious bounce throw usual army sock company access hair educate below";

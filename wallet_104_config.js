@@ -1,1 +1,1 @@
-var mnemonic = "suffer baby follow antenna hero spoon run half net permit property swallow";
+var mnemonic = "truly hello pigeon snack bicycle always tobacco caught attitude eagle noble river";

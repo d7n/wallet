@@ -1,1 +1,1 @@
-var mnemonic = "license bamboo supreme also stone flame orchard focus review erosion unique health";
+var mnemonic = "carpet annual clerk join teach explain corn minimum custom expose awake caution";

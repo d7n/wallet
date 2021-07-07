@@ -1,1 +1,1 @@
-var mnemonic = "ozone mobile grace sport ethics gloom come stereo meat purity pond decrease";
+var mnemonic = "cruise spice gold oppose camera nerve total vapor time rally series robot";

@@ -1,1 +1,1 @@
-var mnemonic = "amused emotion electric omit fee decorate pear prefer daring sad book note";
+var mnemonic = "lava rare type inherit bright tonight venture add color deer indoor palace";

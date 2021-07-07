@@ -1,1 +1,1 @@
-var mnemonic = "amazing essay chat elite hurt profit fetch crop foil fine fetch mandate";
+var mnemonic = "check judge truly need height unveil glue impose peasant genuine figure angry";

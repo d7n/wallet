@@ -1,1 +1,1 @@
-var mnemonic = "sell modify scene amazing indicate rack latin demise surface outer debris filter";
+var mnemonic = "result cross unaware amateur force problem mechanic mansion drama since add notable";

@@ -1,1 +1,1 @@
-var mnemonic = "remind tired range accuse spike human panther document trick gown ginger segment";
+var mnemonic = "demise fruit nice glue narrow space dismiss cover portion exist joke settle";

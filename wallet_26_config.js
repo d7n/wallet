@@ -1,1 +1,1 @@
-var mnemonic = "exact bike bulb blade kit kick bargain gesture crystal barrel key device";
+var mnemonic = "sing round evil armed rigid forget prefer clerk soda faith planet autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "protect visit borrow merge curious enrich clay rail access clever broken like";
+var mnemonic = "glimpse topple marine adapt away situate exercise demise gloom private bar giraffe";

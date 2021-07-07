@@ -1,1 +1,1 @@
-var mnemonic = "glass adapt boring slide spell senior diamond green deposit inside response coconut";
+var mnemonic = "hybrid wish host depart trash time device home empty staff moral fine";

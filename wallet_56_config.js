@@ -1,1 +1,1 @@
-var mnemonic = "junk tomorrow pitch bid slam convince jacket cancel tobacco unfair genuine sure";
+var mnemonic = "snap cricket sun cupboard rhythm gold dismiss shy chase dress movie crash";

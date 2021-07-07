@@ -1,1 +1,1 @@
-var mnemonic = "reopen bounce credit embody double infant engage remember cream whale bench army";
+var mnemonic = "boss mention asset large mansion spell gravity poverty broken scout visual kind";

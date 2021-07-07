@@ -1,1 +1,1 @@
-var mnemonic = "moral lunch busy episode punch vicious pony throw page desk nice isolate";
+var mnemonic = "public history comfort month there diagram wealth unusual image bus rifle father";

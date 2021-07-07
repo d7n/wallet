@@ -1,1 +1,1 @@
-var mnemonic = "script brave name sign kiwi derive demise welcome tourist palace message gesture";
+var mnemonic = "gallery daring flat craft wet muffin gossip average mountain bring float moon";

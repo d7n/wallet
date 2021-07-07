@@ -1,1 +1,1 @@
-var mnemonic = "horse leave hotel gentle trash mule put grace asthma giraffe avoid hungry";
+var mnemonic = "symptom coil valve crew utility shoulder marble box recycle brass bone need";

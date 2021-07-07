@@ -1,1 +1,1 @@
-var mnemonic = "budget spring better moment duty window notable remove people garage tribe bleak";
+var mnemonic = "chase area tide casino hurry spray manual verify grunt soap robust aerobic";

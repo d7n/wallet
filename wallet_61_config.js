@@ -1,1 +1,1 @@
-var mnemonic = "lecture student report odor reveal pulp quality field today mask sketch stable";
+var mnemonic = "pull gather involve birth dance mobile nuclear venture core talent pretty axis";

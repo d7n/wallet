@@ -1,1 +1,1 @@
-var mnemonic = "trade guard movie thumb fantasy brush flip globe upon ordinary misery poem";
+var mnemonic = "rifle borrow melody exhibit project envelope stay muscle romance blade robot cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "couple whisper sense clinic slow version nerve loyal purity click stay crunch";
+var mnemonic = "lemon increase aerobic parade dice circle decade void device group insane upon";

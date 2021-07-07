@@ -1,1 +1,1 @@
-var mnemonic = "pyramid tail two open nuclear add script jacket soccer flower purity dream";
+var mnemonic = "hand burst hotel grid used hurt course still end amateur tank card";

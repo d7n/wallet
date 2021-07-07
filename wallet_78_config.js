@@ -1,1 +1,1 @@
-var mnemonic = "crew travel relax approve noodle undo ready liar story enter remember gas";
+var mnemonic = "buddy ecology forum first decorate riot minimum crystal hen resource wage depth";

@@ -1,1 +1,1 @@
-var mnemonic = "region siege neither three warrior direct lazy cycle test walk source priority";
+var mnemonic = "actress crash shove slogan defense regular pave chat stuff dress rail equal";

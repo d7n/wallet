@@ -1,1 +1,1 @@
-var mnemonic = "wheel airport wave phrase anxiety couch skin card quick test ancient planet";
+var mnemonic = "inject aspect real coach worth wrong hat soda simple cabin monster defense";

@@ -1,1 +1,1 @@
-var mnemonic = "cook romance actual river crystal soon hurt refuse gauge chronic twenty luggage";
+var mnemonic = "creek range problem vote ticket fabric matrix devote stomach used genre clean";

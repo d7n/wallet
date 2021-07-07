@@ -1,1 +1,1 @@
-var mnemonic = "brief little assist dilemma twin mixed obscure slot glass inject scare regular";
+var mnemonic = "vague ugly laptop bus glove drama master vital retreat sock hair garage";

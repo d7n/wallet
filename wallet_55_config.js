@@ -1,1 +1,1 @@
-var mnemonic = "engage sea sea social weapon render mistake accident bamboo nose energy suit";
+var mnemonic = "seat diamond impact digital abandon throw dirt congress wage check smart please";

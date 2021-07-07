@@ -1,1 +1,1 @@
-var mnemonic = "thunder inform open hair swarm track october edge fence gloom order early";
+var mnemonic = "circle length artefact drip dignity antenna worry toe feed crawl awkward slogan";

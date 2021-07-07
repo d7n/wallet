@@ -1,1 +1,1 @@
-var mnemonic = "burden illness panda pepper install air enemy gossip undo crouch treat vessel";
+var mnemonic = "wool expose flash describe install fiber beauty bomb strong list goose crush";

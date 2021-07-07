@@ -1,1 +1,1 @@
-var mnemonic = "bus luggage barely pigeon devote egg disorder monitor across harbor impulse chuckle";
+var mnemonic = "mutual brother merge frog flavor ivory jacket another hurry fame close replace";

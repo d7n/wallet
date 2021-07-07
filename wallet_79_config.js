@@ -1,1 +1,1 @@
-var mnemonic = "feel bag apple crumble opinion swap venue panther trick off hunt earth";
+var mnemonic = "heavy amazing virtual pet kitchen enhance pledge stamp genius shed damage warm";

@@ -1,1 +1,1 @@
-var mnemonic = "maple future maple foam devote scale hybrid just kitchen what guard salad";
+var mnemonic = "cart auto shock teach jungle sample guard super fly pact eagle arena";

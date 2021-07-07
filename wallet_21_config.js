@@ -1,1 +1,1 @@
-var mnemonic = "shoot connect attack gasp use cushion sound awkward vivid lonely father farm";
+var mnemonic = "scrub virtual crater artefact delay pyramid build glide material yard destroy relief";

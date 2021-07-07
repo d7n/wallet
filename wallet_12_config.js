@@ -1,1 +1,1 @@
-var mnemonic = "blush saddle picnic often claw version transfer switch license wasp sport abuse";
+var mnemonic = "napkin fork alarm roof fuel animal cage outdoor network fine want brain";

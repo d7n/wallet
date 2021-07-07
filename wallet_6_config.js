@@ -1,1 +1,1 @@
-var mnemonic = "reveal tray opera save cricket upset defense split sense tape tooth mass";
+var mnemonic = "onion topple amateur reunion shiver simple simple inside situate win raw deer";

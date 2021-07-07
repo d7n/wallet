@@ -1,1 +1,1 @@
-var mnemonic = "fan child appear endorse space metal waste life wine abstract angle cherry";
+var mnemonic = "divert fuel laundry hidden found aerobic six loyal emotion bachelor over group";

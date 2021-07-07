@@ -1,1 +1,1 @@
-var mnemonic = "find zone banana service soap focus quiz boat flash neither exact giggle";
+var mnemonic = "cricket acid gown elite gather program prepare link situate penalty curve certain";

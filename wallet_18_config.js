@@ -1,1 +1,1 @@
-var mnemonic = "inhale noodle when wild adapt marriage expire canyon nasty donate hover small";
+var mnemonic = "tray antique ostrich draw fog feed tomato grocery tennis index ostrich sock";
