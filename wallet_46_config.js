@@ -1,1 +1,1 @@
-var mnemonic = "lemon phrase keen leaf remind stereo solution tape setup ladder require save";
+var mnemonic = "melody ozone bone memory oval soap era talent win carpet autumn meadow";

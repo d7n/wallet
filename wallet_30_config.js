@@ -1,1 +1,1 @@
-var mnemonic = "lecture sight work cliff eagle history feature deny void inside hope high";
+var mnemonic = "price school inspire enable try style run scene clump waste document horror";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle rice other diary cotton key banner bird detail estate mix sphere";
+var mnemonic = "pistol nation long speak apology thrive fit kid mirror rocket pulse female";

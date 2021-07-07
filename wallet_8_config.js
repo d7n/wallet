@@ -1,1 +1,1 @@
-var mnemonic = "jazz equal goat barrel view perfect nerve loan message area loyal rocket";
+var mnemonic = "defense uniform supreme material prevent trumpet flavor offer truck build crawl ship";

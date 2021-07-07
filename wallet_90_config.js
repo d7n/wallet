@@ -1,1 +1,1 @@
-var mnemonic = "joke address snow danger border cause sea lend burst mom concert turkey";
+var mnemonic = "liar hedgehog public buyer bring reopen excess middle cradle rude solve gorilla";

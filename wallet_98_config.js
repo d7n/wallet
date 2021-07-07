@@ -1,1 +1,1 @@
-var mnemonic = "scare rocket eternal icon about weird major divert puzzle approve essence solid";
+var mnemonic = "stage slide dune alien giraffe fine scorpion derive arch punch soccer afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "secret either cricket swap typical jump gap hip erupt impact soul such";
+var mnemonic = "place dial jaguar yard tail cliff tumble friend verify area stone gap";

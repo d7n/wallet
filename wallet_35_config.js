@@ -1,1 +1,1 @@
-var mnemonic = "short tree found canvas gravity comfort swallow federal flag remind appear skill";
+var mnemonic = "punch cherry glass maid ship near film total capital near erode orchard";

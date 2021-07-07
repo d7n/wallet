@@ -1,1 +1,1 @@
-var mnemonic = "dad sniff random expand proof wheat please wash cube mushroom sting various";
+var mnemonic = "enlist thumb canyon thought exit print nuclear surface click arm adapt various";

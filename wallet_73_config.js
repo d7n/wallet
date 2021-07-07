@@ -1,1 +1,1 @@
-var mnemonic = "pass film prevent stumble island arrive minor forget clinic patrol perfect riot";
+var mnemonic = "ten mule journey kit wheat diamond place harvest motion alpha choice mountain";

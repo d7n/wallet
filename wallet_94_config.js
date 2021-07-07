@@ -1,1 +1,1 @@
-var mnemonic = "egg direct release praise people faculty tuition travel dune brass swap few";
+var mnemonic = "bonus sign maximum usual they jacket recall moral minor blush west situate";

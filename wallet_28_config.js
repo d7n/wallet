@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon reveal waste sketch wife also little noise elite casino impose sister";
+var mnemonic = "drop city post work behave quit jazz give advance carpet ready cupboard";

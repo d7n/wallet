@@ -1,1 +1,1 @@
-var mnemonic = "same cloud sick mind drum manage violin owner message matter glad chase";
+var mnemonic = "regular pony alter topic sunset material office record wrist guitar around dash";

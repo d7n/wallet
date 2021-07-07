@@ -1,1 +1,1 @@
-var mnemonic = "diesel deal kiss degree offer lesson define great clerk recycle total fence";
+var mnemonic = "hand office glance reunion order size tongue flash fitness plastic change rookie";

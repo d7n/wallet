@@ -1,1 +1,1 @@
-var mnemonic = "skull song skull call rude gloom distance direct era spawn mirror across";
+var mnemonic = "naive gossip bamboo hurry negative ozone hold shrug prosper enact promote actor";

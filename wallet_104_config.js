@@ -1,1 +1,1 @@
-var mnemonic = "soap zone sun economy spin document artwork round item student erode spirit";
+var mnemonic = "dutch parrot alcohol wall fashion rival local buyer bracket upper debris people";

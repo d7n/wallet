@@ -1,1 +1,1 @@
-var mnemonic = "antenna arrive endless inch coast usual alcohol age depart actress equip bar";
+var mnemonic = "junior spoon that bone giggle music banner crowd occur pizza live belt";

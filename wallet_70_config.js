@@ -1,1 +1,1 @@
-var mnemonic = "this logic potato exhibit space cushion old method frown keep useful you";
+var mnemonic = "hold cheese decorate announce van seed around acid wrap modify coin caught";

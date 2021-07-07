@@ -1,1 +1,1 @@
-var mnemonic = "someone punch turtle lunar pause galaxy hire noise alarm marriage tower goat";
+var mnemonic = "festival route save simple girl coast damage must curtain that congress oven";

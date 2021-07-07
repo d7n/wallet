@@ -1,1 +1,1 @@
-var mnemonic = "bind employ front tenant trigger crisp quantum eye pottery outside antique account";
+var mnemonic = "review busy build prefer shaft frog neck hockey vapor prosper arrest man";

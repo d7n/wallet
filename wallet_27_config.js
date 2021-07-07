@@ -1,1 +1,1 @@
-var mnemonic = "ski clutch almost ticket coast media path supply universe vicious shuffle fish";
+var mnemonic = "debris pistol network lawsuit vibrant congress immense sport milk core water north";

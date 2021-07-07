@@ -1,1 +1,1 @@
-var mnemonic = "pass such permit physical nature cruel hello nasty staff hen divert fork";
+var mnemonic = "spice recipe wolf undo wash deer tone rebuild answer nice vicious silent";

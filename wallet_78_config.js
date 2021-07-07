@@ -1,1 +1,1 @@
-var mnemonic = "bundle barely better side rotate uniform oak narrow museum limb exotic ritual";
+var mnemonic = "refuse satisfy echo female easily file fashion receive fabric shoulder arrest skin";

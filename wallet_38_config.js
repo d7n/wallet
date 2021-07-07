@@ -1,1 +1,1 @@
-var mnemonic = "naive security genre vapor visa marriage leisure soul tattoo danger virtual blood";
+var mnemonic = "various modify salon traffic trumpet awful inner giant bargain issue collect there";

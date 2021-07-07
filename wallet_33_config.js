@@ -1,1 +1,1 @@
-var mnemonic = "spider dolphin wide situate whale property fog drum night valve inside suggest";
+var mnemonic = "catalog caution come breeze comfort double small adjust pencil robot lyrics project";

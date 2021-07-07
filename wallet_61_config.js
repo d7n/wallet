@@ -1,1 +1,1 @@
-var mnemonic = "salon viable pause borrow cash trade capable again glance accuse double taste";
+var mnemonic = "equip horror reveal auto drill inner escape festival tail hobby blanket mule";

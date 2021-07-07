@@ -1,1 +1,1 @@
-var mnemonic = "vessel mix laugh note minimum tenant match memory rookie prevent zero skate";
+var mnemonic = "cage habit pioneer series seminar spend lunar ripple evoke return view gospel";

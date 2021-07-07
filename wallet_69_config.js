@@ -1,1 +1,1 @@
-var mnemonic = "plastic deliver tree august crumble cube wish armed erase head daughter december";
+var mnemonic = "social average grain tank parrot arrive innocent live employ stuff follow satoshi";

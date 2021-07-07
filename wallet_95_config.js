@@ -1,1 +1,1 @@
-var mnemonic = "satoshi leave smart about rich unfair extra affair layer essay arm buddy";
+var mnemonic = "dwarf include buzz wire same dance country own dial winner scatter cook";

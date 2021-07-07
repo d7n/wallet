@@ -1,1 +1,1 @@
-var mnemonic = "vicious ready bleak borrow ecology canvas sing sunset shoulder two myself autumn";
+var mnemonic = "express utility picture maze senior maid escape mandate cook grid other vintage";

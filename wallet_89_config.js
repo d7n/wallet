@@ -1,1 +1,1 @@
-var mnemonic = "please outside obtain foster doctor illness arm end twenty muffin miss bridge";
+var mnemonic = "invite warm furnace shy gown art make meat ritual screen leave panic";

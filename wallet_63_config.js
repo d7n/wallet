@@ -1,1 +1,1 @@
-var mnemonic = "club across feature flee misery captain worth update portion tired piece dash";
+var mnemonic = "magnet ignore pumpkin tooth share swear owner chaos cheap shiver legal primary";

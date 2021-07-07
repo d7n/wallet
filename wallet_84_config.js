@@ -1,1 +1,1 @@
-var mnemonic = "magnet peanut skirt soul fluid okay aerobic crowd purpose oak ten quit";
+var mnemonic = "donate ginger eye unlock frozen december mix canoe tobacco away monkey pony";

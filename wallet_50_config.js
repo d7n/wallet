@@ -1,1 +1,1 @@
-var mnemonic = "invite drive liberty wonder actor column select credit pave supply repeat paddle";
+var mnemonic = "dragon draw caution believe endorse swing shoulder resemble laptop saddle eagle upon";

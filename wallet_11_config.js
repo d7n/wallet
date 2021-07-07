@@ -1,1 +1,1 @@
-var mnemonic = "clever wait mirror nation skin sting uncover mandate frog subject loop olympic";
+var mnemonic = "milk drill leaf opera olympic dirt lazy code bean manual cool hedgehog";

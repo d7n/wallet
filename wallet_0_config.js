@@ -1,1 +1,1 @@
-var mnemonic = "leopard minute oven wet monitor mountain mom opera blood stove script track";
+var mnemonic = "crumble ivory usage sad local tent rice skin dutch blame broccoli assault";

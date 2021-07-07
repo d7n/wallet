@@ -1,1 +1,1 @@
-var mnemonic = "smile cinnamon flat enforce syrup advance dance swarm tattoo normal hunt oven";
+var mnemonic = "join cute mail still apology you evolve kick stage child hour solve";

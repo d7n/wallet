@@ -1,1 +1,1 @@
-var mnemonic = "east theory nature luggage chicken recycle kind nothing december lottery forest bulk";
+var mnemonic = "must olive fatal very train tail sketch diamond shy lucky duty excess";

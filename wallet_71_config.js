@@ -1,1 +1,1 @@
-var mnemonic = "please under vintage material yellow scale finger own august stock primary iron";
+var mnemonic = "bomb whip video remove six struggle cancel jazz erupt skate blouse about";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage road baby census lumber chimney genius tourist mass very beef various";
+var mnemonic = "tiny gallery opinion aunt steak manual brother pulse label alone ocean rib";

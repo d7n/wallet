@@ -1,1 +1,1 @@
-var mnemonic = "jelly runway buzz inspire trash era hedgehog giggle right green fuel switch";
+var mnemonic = "coral welcome popular shallow illegal critic answer praise advice victory middle estate";

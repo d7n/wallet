@@ -1,1 +1,1 @@
-var mnemonic = "man never naive usage legend concert shell mimic sport pluck twelve kitchen";
+var mnemonic = "moment rigid better list rapid other settle unfold boring around hazard effort";

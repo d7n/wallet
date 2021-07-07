@@ -1,1 +1,1 @@
-var mnemonic = "entire hedgehog metal announce health switch battle patch comic analyst adult nasty";
+var mnemonic = "olive bind basic coconut pencil happy brush armor wisdom mobile left security";

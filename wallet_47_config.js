@@ -1,1 +1,1 @@
-var mnemonic = "daughter chair stool blush diamond bubble occur lonely lounge require rack sketch";
+var mnemonic = "purity license text frog solution morning capital scorpion cotton lunar first inspire";

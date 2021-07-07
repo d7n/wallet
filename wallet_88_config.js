@@ -1,1 +1,1 @@
-var mnemonic = "tourist grab approve brass crisp inch garbage circle uphold equal suggest october";
+var mnemonic = "celery service sight shock more bulk canal birth flush village room drip";

@@ -1,1 +1,1 @@
-var mnemonic = "pride city grab worth spread melody analyst traffic caution sugar power staff";
+var mnemonic = "hour outside siren follow detect hockey chief useless top visual civil remove";

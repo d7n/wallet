@@ -1,1 +1,1 @@
-var mnemonic = "icon prize cargo myself nasty fun imitate chicken zone future become moon";
+var mnemonic = "weird next live upset lecture april across lunar burger page cabbage face";

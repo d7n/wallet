@@ -1,1 +1,1 @@
-var mnemonic = "salt more account color flag tired bounce genius husband assist effort era";
+var mnemonic = "jewel chalk describe scorpion chief blame machine luxury pioneer emerge hole juice";

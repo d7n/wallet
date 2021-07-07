@@ -1,1 +1,1 @@
-var mnemonic = "inherit palace genre notable fly wrong object cabin lend cute ramp pyramid";
+var mnemonic = "minor service final video wine now social plunge museum forward layer desk";

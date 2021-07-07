@@ -1,1 +1,1 @@
-var mnemonic = "crowd task bunker pyramid fun grant capital royal acquire hurt antique zone";
+var mnemonic = "garden present shell often off dilemma gym marble borrow robot athlete adjust";

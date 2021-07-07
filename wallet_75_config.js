@@ -1,1 +1,1 @@
-var mnemonic = "way bag labor tape prosper another blanket wrestle praise twin major rescue";
+var mnemonic = "wing forget three extend swap mansion myself slow dutch transfer tag liquid";

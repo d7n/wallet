@@ -1,1 +1,1 @@
-var mnemonic = "hood duty reform hospital loud neither black occur mass acoustic sorry kidney";
+var mnemonic = "business rubber glare topple siege alien deny slender today theory onion pumpkin";

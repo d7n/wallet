@@ -1,1 +1,1 @@
-var mnemonic = "knock east relax improve wave amateur pistol absurd slight trick indicate pencil";
+var mnemonic = "athlete buyer snap harbor defy dragon season soul immense dove online aware";

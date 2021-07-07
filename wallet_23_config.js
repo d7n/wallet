@@ -1,1 +1,1 @@
-var mnemonic = "truth indoor express spider squeeze farm core hawk stove order firm clarify";
+var mnemonic = "reject remain suggest priority honey aunt health satoshi misery wet museum benefit";

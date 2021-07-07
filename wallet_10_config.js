@@ -1,1 +1,1 @@
-var mnemonic = "return great spoil wall also solid able canvas depend legal spatial uncover";
+var mnemonic = "knee proof gentle force violin focus turn episode ghost artist century edit";

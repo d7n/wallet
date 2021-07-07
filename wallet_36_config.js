@@ -1,1 +1,1 @@
-var mnemonic = "cement lunar spray identify surprise reunion fringe hope melt camera entire size";
+var mnemonic = "happy key lift you pull exact muffin morning burst shield result boat";

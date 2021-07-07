@@ -1,1 +1,1 @@
-var mnemonic = "index rookie sniff call divorce virus reward mosquito salt staff bus brick";
+var mnemonic = "exchange grain mouse south again airport wave skate seek day snap west";

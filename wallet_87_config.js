@@ -1,1 +1,1 @@
-var mnemonic = "student bitter another method spend cabin crop exact scrap quick angry mouse";
+var mnemonic = "remind acid dream pause yellow express hunt valley story quantum gesture job";

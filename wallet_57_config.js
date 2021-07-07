@@ -1,1 +1,1 @@
-var mnemonic = "clock axis prepare mimic genuine grief senior seven series else vintage undo";
+var mnemonic = "pig rent blast void tail west tired question noble number please car";

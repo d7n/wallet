@@ -1,1 +1,1 @@
-var mnemonic = "love surprise ocean shock entire weird access ribbon text urge drip know";
+var mnemonic = "rice end cause diary protect useless lava very code sadness goat apology";

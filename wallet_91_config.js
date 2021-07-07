@@ -1,1 +1,1 @@
-var mnemonic = "resemble book cream hamster smooth clown dinosaur flight clarify icon clinic wife";
+var mnemonic = "wild evil breeze term burger mention science mosquito steel blame lawsuit stay";

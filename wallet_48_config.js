@@ -1,1 +1,1 @@
-var mnemonic = "regret assist grain abuse useful word belt grab ride clean essence pluck";
+var mnemonic = "shove oil lens patient animal axis december hockey recipe caught element govern";

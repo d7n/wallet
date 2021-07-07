@@ -1,1 +1,1 @@
-var mnemonic = "veteran patient blossom limit evoke vanish float approve risk apology verb venture";
+var mnemonic = "shuffle vanish actor bubble find nuclear alley tongue myself strategy champion vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "home observe divorce raccoon slim shrug page antique garage device helmet bottom";
+var mnemonic = "hurry net hockey fiscal theory birth surround elbow dove large enrich scare";

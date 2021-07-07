@@ -1,1 +1,1 @@
-var mnemonic = "major eternal moral shine grace confirm cart bus chest faint certain unfair";
+var mnemonic = "rescue chicken excite adult hedgehog only require acoustic powder alert essence element";

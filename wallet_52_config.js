@@ -1,1 +1,1 @@
-var mnemonic = "sudden push company skin uniform machine portion crew horror tissue day tiny";
+var mnemonic = "blanket village before worth claim myself injury adjust black middle amount comfort";

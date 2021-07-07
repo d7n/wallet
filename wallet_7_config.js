@@ -1,1 +1,1 @@
-var mnemonic = "exhaust infant team gasp snake manage clean trigger fiction dice nature sign";
+var mnemonic = "riot buffalo receive proof feature test discover warrior coral casual island piano";

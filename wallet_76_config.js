@@ -1,1 +1,1 @@
-var mnemonic = "angle useful giraffe another region tenant cement frown violin cover major beach";
+var mnemonic = "network noodle tell crowd submit sadness green point goddess champion soldier hotel";

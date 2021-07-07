@@ -1,1 +1,1 @@
-var mnemonic = "velvet trap dawn humble width elevator world win swing alone van gate";
+var mnemonic = "zone flash erode pig panic voyage fox jungle verb damage champion have";

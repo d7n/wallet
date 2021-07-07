@@ -1,1 +1,1 @@
-var mnemonic = "cruise insane soft flee drop level napkin charge error will solve grain";
+var mnemonic = "same drink intact throw december rhythm news turn science capital west dismiss";

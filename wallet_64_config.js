@@ -1,1 +1,1 @@
-var mnemonic = "evil rent treat invest reject survey service tackle armed hill amazing outside";
+var mnemonic = "else jacket camera differ spirit artwork traffic this fork truck blouse prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "video vacant shuffle chair blanket hold library develop aisle elegant system gloom";
+var mnemonic = "column hope solid lift thumb shed impact trap amount common sunset tissue";

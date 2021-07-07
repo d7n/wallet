@@ -1,1 +1,1 @@
-var mnemonic = "beyond enhance depart flee monster fade swim clarify remove doctor hurdle capital";
+var mnemonic = "zebra shop deputy zebra bridge victory mansion forget maximum require until ill";

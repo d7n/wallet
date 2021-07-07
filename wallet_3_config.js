@@ -1,1 +1,1 @@
-var mnemonic = "laundry step bulk pilot fade flight drastic dragon love divorce speed black";
+var mnemonic = "december into learn jaguar escape bottom push hotel topic already matrix crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "document young stand book name arrest trumpet provide economy midnight rail false";
+var mnemonic = "blade drink advance curious carry mushroom essence bridge honey ship follow addict";

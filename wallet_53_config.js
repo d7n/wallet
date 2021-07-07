@@ -1,1 +1,1 @@
-var mnemonic = "bargain sudden scrub door vacuum hamster purity explain evolve grace satisfy west";
+var mnemonic = "tail omit bag uncle vacuum security cheese diesel able smooth reunion cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "key palace voyage oil talent delay other danger leg rent airport wave";
+var mnemonic = "elevator size drop crawl real glow early welcome trip suspect rib dwarf";

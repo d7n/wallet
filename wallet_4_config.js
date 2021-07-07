@@ -1,1 +1,1 @@
-var mnemonic = "involve moral suffer leaf gold ranch noble wall calm globe attitude cream";
+var mnemonic = "chat boil enrich state laugh garbage awesome draft two long already rug";

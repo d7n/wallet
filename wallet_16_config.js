@@ -1,1 +1,1 @@
-var mnemonic = "mother window plug scout fan bachelor notice pudding finish tell saddle abuse";
+var mnemonic = "perfect original myth juice calm monster same garden clean pen tip face";

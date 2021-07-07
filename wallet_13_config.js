@@ -1,1 +1,1 @@
-var mnemonic = "creek coral secret junk sound language tail vacant coast raw tongue gorilla";
+var mnemonic = "design awake control forget ice skull crumble fold food dwarf bamboo fame";

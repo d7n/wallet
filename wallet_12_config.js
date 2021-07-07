@@ -1,1 +1,1 @@
-var mnemonic = "infant loop wonder pizza eagle obscure give summer common team news illegal";
+var mnemonic = "cake output inmate trouble control edge marine knock busy shop priority check";

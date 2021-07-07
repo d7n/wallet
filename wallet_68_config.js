@@ -1,1 +1,1 @@
-var mnemonic = "impulse borrow chimney erode casual opinion solve luxury exchange current own come";
+var mnemonic = "defy jewel junior sphere neither begin parade point muscle upset range grape";

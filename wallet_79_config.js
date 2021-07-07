@@ -1,1 +1,1 @@
-var mnemonic = "soap divorce resemble funny asthma sleep sound film about glide mixed air";
+var mnemonic = "bird broken element crunch mandate again arrow leaf asthma hero vast duty";

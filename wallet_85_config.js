@@ -1,1 +1,1 @@
-var mnemonic = "ritual express next exhibit cement start crack pond little cigar virus vehicle";
+var mnemonic = "assist fruit leisure local merit tenant door hold satoshi bike police silent";

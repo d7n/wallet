@@ -1,1 +1,1 @@
-var mnemonic = "outside fit million pause assume extra spice thumb awake dawn mosquito aim";
+var mnemonic = "betray soup rhythm parrot language couch average nominee engine virus drum century";

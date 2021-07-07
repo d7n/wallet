@@ -1,1 +1,1 @@
-var mnemonic = "february vessel level decide walnut park another tenant mimic beach abuse ivory";
+var mnemonic = "island extend enact tattoo attitude choice outer indicate parrot carry pencil fatal";

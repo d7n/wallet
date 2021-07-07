@@ -1,1 +1,1 @@
-var mnemonic = "maze gorilla pottery order cart whip auction shoulder injury south slogan asthma";
+var mnemonic = "page flash health fee chat defense affair myself silent honey wedding unhappy";

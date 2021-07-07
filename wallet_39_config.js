@@ -1,1 +1,1 @@
-var mnemonic = "desert muffin alert once output lens verify old bachelor arrow voyage amazing";
+var mnemonic = "deputy borrow animal file cement regular mirror door extra glare famous crumble";

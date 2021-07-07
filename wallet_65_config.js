@@ -1,1 +1,1 @@
-var mnemonic = "cream law wool border capital fun sense observe dynamic scrub gym idea";
+var mnemonic = "number shift valley master skill explain verify solid salt shadow olive put";
