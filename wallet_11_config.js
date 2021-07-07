@@ -1,1 +1,1 @@
-var mnemonic = "write apology square permit vivid hint flee silent daring hobby damage shell";
+var mnemonic = "fringe bottom just pipe gold ticket embody video input zebra crew hunt";

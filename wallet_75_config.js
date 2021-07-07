@@ -1,1 +1,1 @@
-var mnemonic = "marble universe flock first ball day cruel believe second alley intact orchard";
+var mnemonic = "night just bracket employ vivid method wink congress snow toddler tone leaf";

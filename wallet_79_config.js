@@ -1,1 +1,1 @@
-var mnemonic = "reason merit moon sing cereal emotion develop hawk fork problem sign gold";
+var mnemonic = "diagram drastic please glare coyote stick enough citizen throw margin wonder govern";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose obvious blind pause unknown gap bonus ladder pole adapt vendor door";
+var mnemonic = "patch funny kidney sight leg jewel unaware because giant pony gown crop";

@@ -1,1 +1,1 @@
-var mnemonic = "away fly tool garlic pride noodle doctor diet erode online glue there";
+var mnemonic = "famous decade invite vanish eternal glove tilt foil nest tortoise zero crash";

@@ -1,1 +1,1 @@
-var mnemonic = "energy rain black stadium seat ceiling debris language fragile riot island miracle";
+var mnemonic = "trigger teach announce differ height network dinosaur script drum bleak reason tortoise";

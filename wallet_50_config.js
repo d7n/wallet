@@ -1,1 +1,1 @@
-var mnemonic = "magic october december robust state nature fatigue human flower ball tragic satoshi";
+var mnemonic = "wasp want question island walk patch general math host ranch inside census";

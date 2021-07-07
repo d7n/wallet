@@ -1,1 +1,1 @@
-var mnemonic = "occur rotate express update between fever entire grant flat rely head resemble";
+var mnemonic = "naive silly priority staff muffin robust forget van poem leisure capable donor";

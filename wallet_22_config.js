@@ -1,1 +1,1 @@
-var mnemonic = "involve month solid gift gadget disease doctor enough glory arrive zone boss";
+var mnemonic = "shoot tell alter resemble burden conduct vacuum crack cheap february hip such";

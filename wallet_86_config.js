@@ -1,1 +1,1 @@
-var mnemonic = "south gate blue history top type mosquito enough ginger hidden virus floor";
+var mnemonic = "opera misery crisp give spot sail fault goose huge sunset south weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "valley brain inside fruit pyramid tourist open omit make kiwi accuse devote";
+var mnemonic = "nut matrix frown clerk game fancy pottery amateur neglect sentence ticket guitar";

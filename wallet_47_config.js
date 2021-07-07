@@ -1,1 +1,1 @@
-var mnemonic = "indoor gravity axis great mango fantasy oppose subway tribe key bless dynamic";
+var mnemonic = "okay trigger call captain diesel wet endless rookie space comfort prison rally";

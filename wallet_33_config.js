@@ -1,1 +1,1 @@
-var mnemonic = "sense since focus blanket suggest series height sadness awake tiny rapid upset";
+var mnemonic = "upper hint fantasy door frost must ramp office fit minor empty rough";

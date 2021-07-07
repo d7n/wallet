@@ -1,1 +1,1 @@
-var mnemonic = "question moon vicious close involve abandon lunch girl average bind shop early";
+var mnemonic = "tackle rain member royal large object disorder taste myself dog rhythm chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect night cinnamon sort rude crime vivid adapt unusual uncover pen sausage";
+var mnemonic = "sound adapt color approve siege sport appear wrap category material because camera";

@@ -1,1 +1,1 @@
-var mnemonic = "give leisure craft egg similar ivory canal velvet emerge census achieve matter";
+var mnemonic = "decade near glimpse rally office mixture gun guilt gospel soldier twice secret";

@@ -1,1 +1,1 @@
-var mnemonic = "section finish ball casual meadow need either swallow ugly april disagree spoon";
+var mnemonic = "unknown mimic legal tobacco wage frozen scrub canyon glad measure industry west";

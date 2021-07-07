@@ -1,1 +1,1 @@
-var mnemonic = "garbage same sister hurdle must canal reveal island diary myth magnet cause";
+var mnemonic = "swear fiction acid auto brain chimney copper item velvet mesh riot fuel";

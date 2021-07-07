@@ -1,1 +1,1 @@
-var mnemonic = "beauty allow keep shed mom purchase sugar when float consider wheat embrace";
+var mnemonic = "design skill utility jeans stock rally load wing spring electric rabbit attract";

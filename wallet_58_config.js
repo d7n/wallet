@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow peanut fan subject casual hero picture exchange praise alley enrich inspire";
+var mnemonic = "dolphin add stay average empty eye ripple observe toward clog certain ugly";

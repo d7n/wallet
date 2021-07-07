@@ -1,1 +1,1 @@
-var mnemonic = "draw orange intact tide cross behind anger dirt snow also lottery catalog";
+var mnemonic = "setup rifle leisure exotic tail define awesome hire kind cable essence dream";

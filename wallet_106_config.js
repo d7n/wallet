@@ -1,1 +1,1 @@
-var mnemonic = "address loud verify shield pond south maple dose pulse toe identify frog";
+var mnemonic = "protect twist salon renew floor fly hint rib close stuff tail onion";

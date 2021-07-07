@@ -1,1 +1,1 @@
-var mnemonic = "mosquito teach perfect lemon life monkey gadget exercise return wrist actual waste";
+var mnemonic = "enroll universe honey sweet clown scheme shallow fix affair certain cute common";

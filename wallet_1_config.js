@@ -1,1 +1,1 @@
-var mnemonic = "save share ignore game basic develop cool elegant rifle genius warrior arena";
+var mnemonic = "arm veteran wish height music dust chunk produce pony body stereo crisp";

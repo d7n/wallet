@@ -1,1 +1,1 @@
-var mnemonic = "room receive height foam spread almost dress dress thunder tomato field country";
+var mnemonic = "flame light recall behave throw goat practice unknown fade hero critic worry";

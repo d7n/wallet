@@ -1,1 +1,1 @@
-var mnemonic = "nose library soon reunion brief crush fabric car drum play chuckle nice";
+var mnemonic = "brief human end smoke emotion album again remain rhythm firm story praise";

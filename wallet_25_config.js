@@ -1,1 +1,1 @@
-var mnemonic = "uncle real illness frost express spatial success ancient fame census tackle hammer";
+var mnemonic = "sound pear clever crater tragic oven swamp trophy diet chronic inspire obey";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle symbol later math ride because grief field cabin success provide urban";
+var mnemonic = "virus doll jelly curve clean crop afford wish rib scatter moon keen";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge despair garage foot split hamster cream divorce rebuild want caught truck";
+var mnemonic = "orchard nature model belt monster candy chest ten invite purity unveil hole";

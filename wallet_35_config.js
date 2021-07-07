@@ -1,1 +1,1 @@
-var mnemonic = "little spring embrace category hobby fade blood frown anxiety true cake face";
+var mnemonic = "camp elbow fog long whip pony need quiz pull pelican okay welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp denial sight build lumber antenna permit vintage tool day write wheat";
+var mnemonic = "favorite lava rescue mom laptop mechanic cactus focus above earn joy always";

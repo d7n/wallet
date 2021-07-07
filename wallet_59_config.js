@@ -1,1 +1,1 @@
-var mnemonic = "denial swing material tongue police cram rail nest snow camera bacon motor";
+var mnemonic = "social gain carpet royal rib abandon normal margin country mandate vehicle group";

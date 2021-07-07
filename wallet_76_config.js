@@ -1,1 +1,1 @@
-var mnemonic = "glass protect capable ceiling step only soccer require ill target turtle arch";
+var mnemonic = "aerobic creek bundle dwarf guilt cash grid kit sound guilt wolf weather";

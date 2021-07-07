@@ -1,1 +1,1 @@
-var mnemonic = "hospital lady mobile exit custom scorpion trip argue limit bid host survey";
+var mnemonic = "charge unaware sting laugh return neglect night host industry confirm health fantasy";

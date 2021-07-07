@@ -1,1 +1,1 @@
-var mnemonic = "hen round shuffle danger alpha urge correct enable average owner divorce trumpet";
+var mnemonic = "situate saddle convince promote shy erosion melt swamp tunnel foster song claim";

@@ -1,1 +1,1 @@
-var mnemonic = "box under involve skill friend apart trim home glimpse place gun bunker";
+var mnemonic = "usage document skate crowd once napkin custom glove appear inhale champion fatigue";

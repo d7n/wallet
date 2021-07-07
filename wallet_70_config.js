@@ -1,1 +1,1 @@
-var mnemonic = "goose mother device culture goddess cube copper soccer sort raw acid only";
+var mnemonic = "ritual situate bag olympic call garlic public faith spoil pupil cake tail";

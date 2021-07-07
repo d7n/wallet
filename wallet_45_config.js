@@ -1,1 +1,1 @@
-var mnemonic = "drastic advance token true also diary salad desert life suffer exhibit actress";
+var mnemonic = "dilemma physical coast surface expose express laptop hero exile filter eager olympic";

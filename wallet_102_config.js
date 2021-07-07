@@ -1,1 +1,1 @@
-var mnemonic = "road injury south cool delay drive dumb nuclear program alpha into wrist";
+var mnemonic = "found doctor miss solution borrow empower decorate hand august oblige antenna neck";

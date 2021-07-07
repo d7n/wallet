@@ -1,1 +1,1 @@
-var mnemonic = "want version engage rice rent choose hub tattoo slender step tiger race";
+var mnemonic = "quote crouch envelope stone train alter time cram divorce leave scorpion shuffle";

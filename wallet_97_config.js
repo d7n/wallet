@@ -1,1 +1,1 @@
-var mnemonic = "problem lazy filter admit purpose always noodle oyster valid actress stone episode";
+var mnemonic = "try silly special battle off mask sword kind liar bonus actual youth";

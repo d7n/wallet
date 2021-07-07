@@ -1,1 +1,1 @@
-var mnemonic = "clutch diagram gold stay either clip security vocal despair clock throw motion";
+var mnemonic = "joke cricket question broom inherit surface jungle letter elevator coast prosper giggle";

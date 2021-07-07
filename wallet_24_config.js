@@ -1,1 +1,1 @@
-var mnemonic = "city sorry drift fee cannon close response nothing twist tilt weird innocent";
+var mnemonic = "spoon banana siren produce great radar endless jazz comfort will lake sister";

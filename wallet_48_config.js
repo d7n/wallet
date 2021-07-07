@@ -1,1 +1,1 @@
-var mnemonic = "mobile radar modify suggest alert jar vapor tenant sand outside artwork boil";
+var mnemonic = "engine floor common floor sad uphold case mimic vivid column kid pledge";

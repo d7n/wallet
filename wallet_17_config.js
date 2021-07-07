@@ -1,1 +1,1 @@
-var mnemonic = "sample abandon observe error record dash humor fuel top demise render note";
+var mnemonic = "hill struggle food mechanic combine carry awesome peasant coffee sheriff win brother";

@@ -1,1 +1,1 @@
-var mnemonic = "tell pet music world gesture rigid midnight direct vote game april that";
+var mnemonic = "select apology check delay motion bring elevator record upper mesh mixed song";

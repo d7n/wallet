@@ -1,1 +1,1 @@
-var mnemonic = "own brother canal alien avocado aunt minor three sentence runway trip mass";
+var mnemonic = "vacuum mouse motion spare quantum wasp feel liar away rural bundle enact";

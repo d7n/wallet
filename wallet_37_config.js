@@ -1,1 +1,1 @@
-var mnemonic = "birth skull blouse alien comfort recycle lens soup want pause rally category";
+var mnemonic = "gown early much narrow verb parent swap virus evolve only click canyon";

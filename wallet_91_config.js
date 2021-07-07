@@ -1,1 +1,1 @@
-var mnemonic = "tenant suit civil chalk frost basic license idea oppose vast lift toy";
+var mnemonic = "smile solution pizza shed father shallow mixture lunch love timber length social";

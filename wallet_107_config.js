@@ -1,1 +1,1 @@
-var mnemonic = "grab belt medal budget monster gravity exhibit decline cable east lock apart";
+var mnemonic = "bamboo ivory fog borrow metal pluck wood equal horn neutral dish sorry";

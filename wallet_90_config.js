@@ -1,1 +1,1 @@
-var mnemonic = "mom purse orbit youth wage actress immense innocent amused leisure develop office";
+var mnemonic = "mechanic shadow jaguar obscure indicate mention above offer guide credit flame neck";

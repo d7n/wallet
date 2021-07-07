@@ -1,1 +1,1 @@
-var mnemonic = "weird sure dinner tube analyst violin piece broken kite net tomorrow sea";
+var mnemonic = "horn face require want denial wish day face bike quantum puzzle injury";

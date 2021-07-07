@@ -1,1 +1,1 @@
-var mnemonic = "volume dirt lumber kiwi wide innocent hover undo fire surface awesome weekend";
+var mnemonic = "cargo stumble ranch green still depth believe fatal enrich priority crouch paddle";

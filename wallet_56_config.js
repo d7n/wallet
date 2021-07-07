@@ -1,1 +1,1 @@
-var mnemonic = "used surprise jacket hawk ski flight tongue shoulder web riot inquiry demand";
+var mnemonic = "reveal need village undo rude polar eyebrow scissors remove seminar umbrella judge";

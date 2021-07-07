@@ -1,1 +1,1 @@
-var mnemonic = "replace noise type brush party hamster hen pencil second deny diagram royal";
+var mnemonic = "leader hint impulse strategy silly enhance gesture story bamboo observe open example";

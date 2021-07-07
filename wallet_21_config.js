@@ -1,1 +1,1 @@
-var mnemonic = "later chaos ocean quick caught eager unknown day eye robot inherit jewel";
+var mnemonic = "skill usage chaos range actual find left sail carbon true radar tell";

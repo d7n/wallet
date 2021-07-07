@@ -1,1 +1,1 @@
-var mnemonic = "neutral leader sleep luxury december payment sail citizen idle chef mouse photo";
+var mnemonic = "adjust equip grain way settle spell empty over mix tide behind change";

@@ -1,1 +1,1 @@
-var mnemonic = "cost chronic pulp turkey machine solution recipe insect aunt float buffalo flush";
+var mnemonic = "brush crowd any chest sight kidney item safe comic price spider brand";

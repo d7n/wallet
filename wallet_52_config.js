@@ -1,1 +1,1 @@
-var mnemonic = "away cost page club approve achieve organ page manual reform rare citizen";
+var mnemonic = "pair pottery brother frozen any wonder express lamp city damage verb mad";

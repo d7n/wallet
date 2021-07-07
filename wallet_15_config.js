@@ -1,1 +1,1 @@
-var mnemonic = "pitch amateur soccer concert embark myth then primary discover hen finish code";
+var mnemonic = "govern knock great burst leader glad supply hotel puzzle burden viable theme";

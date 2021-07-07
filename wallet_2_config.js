@@ -1,1 +1,1 @@
-var mnemonic = "iron gym shrug yard emerge float dust lesson gain absurd dust space";
+var mnemonic = "awake current actress wolf fancy weird inquiry tank burger tired hunt wash";

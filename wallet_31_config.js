@@ -1,1 +1,1 @@
-var mnemonic = "bleak quote flame parade kite script increase once village original unknown unaware";
+var mnemonic = "fresh police valid seek mad danger depth push banner trumpet path smoke";

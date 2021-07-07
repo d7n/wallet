@@ -1,1 +1,1 @@
-var mnemonic = "february mixture wall clump into oblige check first valve hobby marriage shoot";
+var mnemonic = "lava cotton stock slot teach draw habit oil dose one ugly either";

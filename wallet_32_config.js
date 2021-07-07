@@ -1,1 +1,1 @@
-var mnemonic = "fiber gas behave edge perfect quarter domain rather safe check gadget cool";
+var mnemonic = "chunk chicken betray runway gadget mixed phone depend park keep hungry repair";

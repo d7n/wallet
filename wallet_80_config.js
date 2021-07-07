@@ -1,1 +1,1 @@
-var mnemonic = "bunker pioneer prefer travel blur provide actual prosper craft nurse budget road";
+var mnemonic = "meat bus exist ostrich track cupboard either album curve friend tell what";

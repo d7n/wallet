@@ -1,1 +1,1 @@
-var mnemonic = "neck model access isolate easy drum thought ethics seed three route tell";
+var mnemonic = "black secret rare topple female broom smooth finish decline beach walk scissors";

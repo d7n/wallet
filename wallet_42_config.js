@@ -1,1 +1,1 @@
-var mnemonic = "winner parrot original hen resist cactus aspect feel remind floor replace welcome";
+var mnemonic = "moral surface display tube nut trouble ritual loan oppose cement nothing alarm";

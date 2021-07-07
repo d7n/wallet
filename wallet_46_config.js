@@ -1,1 +1,1 @@
-var mnemonic = "tray grant fantasy damage rule cereal youth usual erupt blame thumb school";
+var mnemonic = "require trumpet donate give major face quality napkin because critic chalk truly";

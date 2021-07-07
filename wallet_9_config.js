@@ -1,1 +1,1 @@
-var mnemonic = "adapt link gap client cat culture stick arm speed solve keen proof";
+var mnemonic = "pave invite scissors primary nuclear tackle birth crystal note weapon device blouse";

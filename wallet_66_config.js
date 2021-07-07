@@ -1,1 +1,1 @@
-var mnemonic = "desk volcano top genre weather buffalo shiver artwork water issue hurt miracle";
+var mnemonic = "myth merry rough winner decline industry library metal matrix mesh hood purity";

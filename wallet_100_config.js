@@ -1,1 +1,1 @@
-var mnemonic = "zone april grain argue reform hope dilemma pass world march hope keep";
+var mnemonic = "adapt snack peasant length bread order business joke lecture aspect vintage ill";

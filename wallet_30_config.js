@@ -1,1 +1,1 @@
-var mnemonic = "extend weapon air pelican benefit salute phone garage crack hawk plate clerk";
+var mnemonic = "hawk afford mansion win focus stairs gorilla twelve humor marble sunny code";

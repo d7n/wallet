@@ -1,1 +1,1 @@
-var mnemonic = "gate blast still sign school occur tomato general talent brief sweet eternal";
+var mnemonic = "clip time rough gate possible patch access crime social waste nose insane";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch gather opinion purchase robust depart meadow february soft fortune sock crane";
+var mnemonic = "baby into onion result close normal volume coil canoe seed explain stand";

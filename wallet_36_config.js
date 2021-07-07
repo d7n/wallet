@@ -1,1 +1,1 @@
-var mnemonic = "master uncover candy focus exhaust clever seed bright ticket adult nurse raccoon";
+var mnemonic = "huge volume miss spy mansion upgrade monitor base ketchup guess subway treat";

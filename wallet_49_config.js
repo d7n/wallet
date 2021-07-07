@@ -1,1 +1,1 @@
-var mnemonic = "boy swift swift kit quiz marble struggle alert start board guilt screen";
+var mnemonic = "derive item trigger combine supply fat digital carpet essence pilot inspire unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer guide size manual addict differ exercise trust assist stand attend season";
+var mnemonic = "cabin one silent april evoke meat alone hawk divide oil hundred subject";

@@ -1,1 +1,1 @@
-var mnemonic = "figure very bench kiwi quote unit involve absorb swift lamp offer aerobic";
+var mnemonic = "pear afford aspect breeze board measure pride notice inject burden door burger";

@@ -1,1 +1,1 @@
-var mnemonic = "term mango artist please winner local embrace hurdle around bind shiver chaos";
+var mnemonic = "sentence together purpose uncle orbit perfect license scissors reflect first today cactus";

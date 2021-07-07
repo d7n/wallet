@@ -1,1 +1,1 @@
-var mnemonic = "say walnut must foam question like injury decline old couple name until";
+var mnemonic = "pull again already chapter opera adjust author ability crumble rib office prize";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage olympic merge jump verify effort suit hill blue torch various uncover";
+var mnemonic = "point snap flee old obscure vote dose federal limit pizza capital seek";

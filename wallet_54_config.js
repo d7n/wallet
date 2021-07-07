@@ -1,1 +1,1 @@
-var mnemonic = "travel strategy sentence forget ladder foster fire matter purpose symbol illegal item";
+var mnemonic = "april early believe common this bullet run cash decide loud bonus taste";

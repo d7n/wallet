@@ -1,1 +1,1 @@
-var mnemonic = "buyer flash young episode suspect shadow bonus defense trust advice forget couch";
+var mnemonic = "orbit hope acid pulse retreat lamp exact smile universe logic farm upset";

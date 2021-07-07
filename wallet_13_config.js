@@ -1,1 +1,1 @@
-var mnemonic = "put safe embark margin valid capable exchange acoustic old federal since dismiss";
+var mnemonic = "better business army horror illness pen dizzy tribe surround armed canvas month";

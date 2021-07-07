@@ -1,1 +1,1 @@
-var mnemonic = "chest old skull axis mandate away sure lawsuit pond knee excuse hole";
+var mnemonic = "chaos climb business harbor tag input next oil utility park provide edge";

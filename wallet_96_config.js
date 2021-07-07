@@ -1,1 +1,1 @@
-var mnemonic = "hard exhibit fence effort shallow ozone beyond skin estate mesh race garment";
+var mnemonic = "unit hungry reform arrow disagree north dignity sphere series sing photo club";

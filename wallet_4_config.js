@@ -1,1 +1,1 @@
-var mnemonic = "antique mystery enough weird notice police law cigar sketch remain twist oven";
+var mnemonic = "bunker hill dinosaur outer soup breeze swift glow bronze saddle whale dress";

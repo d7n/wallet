@@ -1,1 +1,1 @@
-var mnemonic = "only vital gloom mobile develop vocal junk skate recycle topic moon luggage";
+var mnemonic = "elite myth doctor crash cattle divide side abstract lemon hip quit abandon";
