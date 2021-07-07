@@ -1,1 +1,1 @@
-var mnemonic = "mom latin elegant bright slender funny material squirrel income burger guitar deliver";
+var mnemonic = "shadow raise uncover invest female boss proof remove improve bargain bike quick";

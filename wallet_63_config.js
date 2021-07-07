@@ -1,1 +1,1 @@
-var mnemonic = "rabbit edit safe omit pig gas fat fitness group spirit pony between";
+var mnemonic = "calm benefit addict visual yard brain search subway hire resource tackle doll";

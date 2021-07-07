@@ -1,1 +1,1 @@
-var mnemonic = "sail target vague chronic boy else uncover bomb question conduct camp sock";
+var mnemonic = "trip barely square pledge rib voyage forward ugly forward high powder volume";

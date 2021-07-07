@@ -1,1 +1,1 @@
-var mnemonic = "invite garden pink present fall remain long pole salt virus injury sleep";
+var mnemonic = "grain initial supreme wrestle when grocery wise giggle dress swap lady annual";

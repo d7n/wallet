@@ -1,1 +1,1 @@
-var mnemonic = "idea number stumble pen actual gentle eyebrow into extend twice eager slim";
+var mnemonic = "napkin omit real chunk adapt weasel donor employ soccer unfold video initial";

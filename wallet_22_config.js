@@ -1,1 +1,1 @@
-var mnemonic = "rude lecture high salute degree hint fringe judge story light spread coral";
+var mnemonic = "decorate lemon series envelope text proud casual proof amazing salute pioneer parade";

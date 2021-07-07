@@ -1,1 +1,1 @@
-var mnemonic = "sphere coil kingdom loyal couch uphold glad join athlete bar smoke basic";
+var mnemonic = "grid pelican clerk doll lumber such differ goose rule whale record antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "appear scare mimic pilot cinnamon enemy word miracle scout quarter trick hundred";
+var mnemonic = "organ fork keep rent cactus senior enact column chalk lab spy sniff";

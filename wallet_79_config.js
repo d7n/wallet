@@ -1,1 +1,1 @@
-var mnemonic = "perfect build replace anger motion isolate hurt sausage resource pyramid ten rotate";
+var mnemonic = "lend dolphin absent author ketchup gallery boring idea rapid february corn result";

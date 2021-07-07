@@ -1,1 +1,1 @@
-var mnemonic = "fun excuse gadget fall awesome treat pizza cube mix verify idle elbow";
+var mnemonic = "often boat clarify used squeeze nurse hurdle spell metal history pink episode";

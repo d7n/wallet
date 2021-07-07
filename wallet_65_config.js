@@ -1,1 +1,1 @@
-var mnemonic = "relief assume surface slide setup dinosaur hurry eight foam drive reason retire";
+var mnemonic = "dress crush this kit girl infant around oblige mass addict sleep lizard";

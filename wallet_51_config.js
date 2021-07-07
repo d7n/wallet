@@ -1,1 +1,1 @@
-var mnemonic = "into olympic palm peace base derive roof garage sister cause arrest flower";
+var mnemonic = "budget wheat lemon kiwi gentle rabbit follow surprise foster solid speed season";

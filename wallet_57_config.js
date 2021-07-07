@@ -1,1 +1,1 @@
-var mnemonic = "fix inject collect neutral abuse pizza meadow report zoo age worth prepare";
+var mnemonic = "share garden often muffin tip mercy february seminar rubber skate disorder job";

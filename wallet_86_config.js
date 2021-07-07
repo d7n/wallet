@@ -1,1 +1,1 @@
-var mnemonic = "island crew unable state pulse lemon salute panther sea bleak forest burden";
+var mnemonic = "cigar cube drastic depth apple swing bargain blossom city jewel expect apart";

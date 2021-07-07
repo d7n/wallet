@@ -1,1 +1,1 @@
-var mnemonic = "summer rhythm bulb garlic fade fury mammal orphan filter essence weather buzz";
+var mnemonic = "opera pair news major obvious provide lab sight cloud share beef length";

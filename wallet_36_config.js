@@ -1,1 +1,1 @@
-var mnemonic = "punch acquire dragon because universe leopard taxi pattern lawsuit marine critic sweet";
+var mnemonic = "loud lady reflect expect student castle casino title sure other void egg";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey pole insect sample gather bike print fantasy divorce arctic choose pumpkin";
+var mnemonic = "program brain stay citizen orbit play excuse push sadness scrap nominee indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme sunny salon jacket scheme bomb forum bounce leader cheap wonder stumble";
+var mnemonic = "solve knee spider joy grief stand culture off north awful candy crush";

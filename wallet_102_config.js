@@ -1,1 +1,1 @@
-var mnemonic = "deny toddler nephew tunnel kidney gift total flower focus pioneer category heart";
+var mnemonic = "february extra come mandate oblige creek where suspect auction laundry expand glory";

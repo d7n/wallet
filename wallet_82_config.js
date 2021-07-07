@@ -1,1 +1,1 @@
-var mnemonic = "settle fringe agent solution normal filter green patrol typical common someone soccer";
+var mnemonic = "unknown chat drum adapt gain pond loan close vintage luxury bridge few";

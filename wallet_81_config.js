@@ -1,1 +1,1 @@
-var mnemonic = "surface author live pause winner man project disease kid fork emotion eagle";
+var mnemonic = "steel soap random arrow spell goat pencil beyond praise movie void shallow";

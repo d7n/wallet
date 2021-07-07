@@ -1,1 +1,1 @@
-var mnemonic = "monitor job first unusual stadium match ability friend bar grocery squirrel pen";
+var mnemonic = "economy model spin axis safe rally path safe field arm soccer spread";

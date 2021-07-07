@@ -1,1 +1,1 @@
-var mnemonic = "board town jelly manage misery teach doll skill gown table trim cupboard";
+var mnemonic = "affair idle guitar lift giggle strong laptop alien program cancel brother wise";

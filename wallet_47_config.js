@@ -1,1 +1,1 @@
-var mnemonic = "tattoo owner giggle beef coral run apart office miss omit choice history";
+var mnemonic = "orchard expire vacuum elite book nose couch bicycle prefer slender special march";

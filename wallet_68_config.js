@@ -1,1 +1,1 @@
-var mnemonic = "stand bracket derive piece attend name cheese guess expire vintage quick neither";
+var mnemonic = "rabbit rather predict tissue share number amazing develop cheese bronze ahead tackle";

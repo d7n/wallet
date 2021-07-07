@@ -1,1 +1,1 @@
-var mnemonic = "endorse under virus flower amazing barely lecture always give key vicious record";
+var mnemonic = "universe neck atom liquid embody final paddle puzzle boat proud ocean clarify";

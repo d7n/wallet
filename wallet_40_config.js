@@ -1,1 +1,1 @@
-var mnemonic = "stumble asthma lock kingdom wheel whip together worry bicycle pledge lunch negative";
+var mnemonic = "stay stone evidence future explain electric sweet birth close receive finish sheriff";

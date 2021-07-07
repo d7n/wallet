@@ -1,1 +1,1 @@
-var mnemonic = "scrap maximum child embark friend room camera already blush outdoor inspire myself";
+var mnemonic = "defense pool gas park bright carpet gadget bright key skirt accuse art";

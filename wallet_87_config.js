@@ -1,1 +1,1 @@
-var mnemonic = "copy october hospital unique wolf erupt valley net urban mouse rescue cigar";
+var mnemonic = "labor kingdom oil able waste million option combine pledge run parrot cram";

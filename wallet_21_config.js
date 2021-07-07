@@ -1,1 +1,1 @@
-var mnemonic = "absurd magnet nothing girl dolphin dish common second seed weather wrap brass";
+var mnemonic = "husband proof silly tired undo attitude museum derive social maze assault woman";

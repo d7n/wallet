@@ -1,1 +1,1 @@
-var mnemonic = "simple ecology avocado evoke slow burst away coconut peanut cherry more palm";
+var mnemonic = "avocado document dash tuna love butter annual chef idle unique grab hungry";

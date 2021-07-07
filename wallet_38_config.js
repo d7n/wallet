@@ -1,1 +1,1 @@
-var mnemonic = "violin appear wear noble dust sick earth inner pyramid setup lake miracle";
+var mnemonic = "liberty sing camp crisp piece process guilt taste pretty cereal empty owner";

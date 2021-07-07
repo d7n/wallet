@@ -1,1 +1,1 @@
-var mnemonic = "trouble major dawn lazy admit step disorder again repair add cry penalty";
+var mnemonic = "appear brother question hidden expand tomato farm shed eye orchard rely master";

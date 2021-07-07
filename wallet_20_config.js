@@ -1,1 +1,1 @@
-var mnemonic = "notice make sting reward judge auction reject cover glue annual wink arrive";
+var mnemonic = "plunge useful version social behave gloom forum flag glimpse park coyote struggle";

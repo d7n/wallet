@@ -1,1 +1,1 @@
-var mnemonic = "liquid coach endless elder connect update smooth unable imitate rate swim lumber";
+var mnemonic = "armed announce cream again thing excess release involve island soul outdoor true";

@@ -1,1 +1,1 @@
-var mnemonic = "earth bonus gown today polar current steel crash brand trip must salute";
+var mnemonic = "field where resist gospel firm what gasp game labor cause ivory common";

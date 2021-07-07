@@ -1,1 +1,1 @@
-var mnemonic = "census morning regret behind involve dress spoon build usage view raccoon vague";
+var mnemonic = "river purity home cloth friend spice opera muscle weekend mom cook erode";

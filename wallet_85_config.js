@@ -1,1 +1,1 @@
-var mnemonic = "corn coconut maximum this address document vanish woman champion pave budget sustain";
+var mnemonic = "pretty trash evidence square double grain mesh chimney hamster slot random ostrich";

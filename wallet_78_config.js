@@ -1,1 +1,1 @@
-var mnemonic = "excuse boy any engage door fuel need arm isolate post increase lamp";
+var mnemonic = "dance captain unfold theory robot actual demise good sense chef erupt museum";

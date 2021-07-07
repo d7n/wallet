@@ -1,1 +1,1 @@
-var mnemonic = "match mosquito feed catalog sense piano drift old absorb other eternal fork";
+var mnemonic = "pencil beef pony indoor brief badge year vote patient tube assist attitude";

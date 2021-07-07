@@ -1,1 +1,1 @@
-var mnemonic = "hazard super unaware fan actress never timber option ball topple add document";
+var mnemonic = "fatigue nerve injury stone ridge same favorite ready rabbit depth hat stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "exile calm name amused secret dial begin tail antenna anxiety wool tube";
+var mnemonic = "tank cool pistol gym fiscal control maximum scan state swift try oak";

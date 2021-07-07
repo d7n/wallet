@@ -1,1 +1,1 @@
-var mnemonic = "devote kidney advice client buzz senior harsh blur better remove phrase garage";
+var mnemonic = "amused approve trust parade tobacco swear yard absorb insect eyebrow primary woman";

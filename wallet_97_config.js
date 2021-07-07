@@ -1,1 +1,1 @@
-var mnemonic = "story fit file turkey idea hood predict try maple merge follow since";
+var mnemonic = "swift company spare veteran royal illness sniff sun random address sail fluid";

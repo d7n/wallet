@@ -1,1 +1,1 @@
-var mnemonic = "garlic vanish unique smart cram spatial inmate absurd luggage broom view man";
+var mnemonic = "collect divorce plunge steel exact plunge zoo cycle grocery spend photo other";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran razor milk across immense wide rhythm approve under south coyote cherry";
+var mnemonic = "rose where doctor rent bargain actual skate that focus wild forget call";

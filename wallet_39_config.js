@@ -1,1 +1,1 @@
-var mnemonic = "ketchup acid useless say tooth tower jar churn surround swift burden season";
+var mnemonic = "churn hard twin artwork core glad chase utility similar sister peanut measure";

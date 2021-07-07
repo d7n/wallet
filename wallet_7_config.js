@@ -1,1 +1,1 @@
-var mnemonic = "they kite now mammal erosion puppy labor stairs garden little pig broken";
+var mnemonic = "mention supply impulse example clown deal common fabric endorse motor theme fruit";

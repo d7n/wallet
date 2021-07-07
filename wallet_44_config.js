@@ -1,1 +1,1 @@
-var mnemonic = "enact essay faint atom blur today ostrich erase solid pink scheme segment";
+var mnemonic = "rebuild kite apart industry broken below seven example dress milk impulse goddess";

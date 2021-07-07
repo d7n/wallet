@@ -1,1 +1,1 @@
-var mnemonic = "name album private text inform bean unaware industry merit copper slot multiply";
+var mnemonic = "prison scissors race bicycle amateur excess blast snake educate arm illegal finish";

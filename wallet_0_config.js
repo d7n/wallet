@@ -1,1 +1,1 @@
-var mnemonic = "hundred course train donor lawsuit replace menu spirit illegal trust dragon evil";
+var mnemonic = "rain found device stereo online breeze mystery bachelor miracle stamp summer employ";

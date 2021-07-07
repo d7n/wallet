@@ -1,1 +1,1 @@
-var mnemonic = "suggest blind seminar tunnel arrow buyer effort engine canyon kingdom nut consider";
+var mnemonic = "frog chaos quality lecture worry grain avoid entry plastic buffalo salon crater";

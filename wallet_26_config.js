@@ -1,1 +1,1 @@
-var mnemonic = "rescue screen marriage primary winter coil oyster benefit add cook material salon";
+var mnemonic = "uphold fun summer nerve team truck ocean another bacon knife pair friend";

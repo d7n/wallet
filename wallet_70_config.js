@@ -1,1 +1,1 @@
-var mnemonic = "better reflect wear drink during thought quality base various lake actor focus";
+var mnemonic = "lazy action beyond strong antique lady hope genre ice monkey frame rebel";

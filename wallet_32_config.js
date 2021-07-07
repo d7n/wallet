@@ -1,1 +1,1 @@
-var mnemonic = "material sail knife second poverty interest where pair category ritual abstract side";
+var mnemonic = "mansion task snap satisfy term hockey fantasy analyst black donor carbon chimney";

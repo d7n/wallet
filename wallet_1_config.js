@@ -1,1 +1,1 @@
-var mnemonic = "february ability west hover tomato oil edge dog ridge noble sustain subject";
+var mnemonic = "item kangaroo notice cannon make flavor nephew spike wear abandon glory erode";

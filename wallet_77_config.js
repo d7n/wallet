@@ -1,1 +1,1 @@
-var mnemonic = "liar honey current bicycle average foster lawn absurd pass such gesture daughter";
+var mnemonic = "joy spatial perfect goose evidence require funny song favorite trouble recall hobby";

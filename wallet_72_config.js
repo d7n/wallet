@@ -1,1 +1,1 @@
-var mnemonic = "empower never slender myth youth slow flight thumb voice aim surface nasty";
+var mnemonic = "present salad peace face battle barrel jungle feature business friend clinic budget";

@@ -1,1 +1,1 @@
-var mnemonic = "water frequent session loud cake debate lamp uniform divorce embrace announce crawl";
+var mnemonic = "scare maple client invest library genius aerobic foot fringe target vague elegant";

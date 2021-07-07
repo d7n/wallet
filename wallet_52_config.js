@@ -1,1 +1,1 @@
-var mnemonic = "dune side agree inch orbit sound wonder inmate approve apple muffin mystery";
+var mnemonic = "royal element card badge local frequent siren paper deer chase chuckle rally";

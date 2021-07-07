@@ -1,1 +1,1 @@
-var mnemonic = "banana mask approve blur powder tool filter judge link laptop gallery fine";
+var mnemonic = "banner fitness fault erase hunt monkey demand boil predict bounce zero pottery";

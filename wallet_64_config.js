@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow renew bring monitor music page gown gesture entry option team risk";
+var mnemonic = "reveal clinic athlete answer burst sock grape hundred artist kiwi garage potato";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic hen scheme economy mix fall erupt okay record gap west shift";
+var mnemonic = "indoor zoo rubber screen repair hurt chimney about memory orient tilt dynamic";

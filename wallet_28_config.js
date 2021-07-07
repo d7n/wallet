@@ -1,1 +1,1 @@
-var mnemonic = "beach wrist replace curtain skill hotel bar offer tuna cram include wire";
+var mnemonic = "final proof section habit smart clarify effort hood chimney battle exact alley";

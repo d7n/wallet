@@ -1,1 +1,1 @@
-var mnemonic = "marine purpose bamboo crumble divert pride close cycle slide dilemma galaxy vague";
+var mnemonic = "borrow churn frown total raven grass scheme matter tooth narrow acoustic burst";

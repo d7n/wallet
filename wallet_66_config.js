@@ -1,1 +1,1 @@
-var mnemonic = "magnet have fix sure sing mother copper off afraid sheriff mind alarm";
+var mnemonic = "illegal alert swallow noodle rigid flat lottery when path turn manual element";

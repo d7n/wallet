@@ -1,1 +1,1 @@
-var mnemonic = "truly section live buyer help another cup dad trip pizza narrow chalk";
+var mnemonic = "wish lyrics dumb network upgrade rate expire among depth upset earth sure";

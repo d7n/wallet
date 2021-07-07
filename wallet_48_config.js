@@ -1,1 +1,1 @@
-var mnemonic = "series window sample soon hill kiwi ready ugly inhale family swift riot";
+var mnemonic = "then attend token fetch scrap comfort raw occur wink fine satisfy cook";

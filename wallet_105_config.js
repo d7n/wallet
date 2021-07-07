@@ -1,1 +1,1 @@
-var mnemonic = "secret jaguar kitten dismiss caught birth dwarf quit middle auction mesh hobby";
+var mnemonic = "few recycle dolphin antique theory net inform phrase embark save reopen parrot";

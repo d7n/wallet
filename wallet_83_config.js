@@ -1,1 +1,1 @@
-var mnemonic = "float head trigger still regret orange whip skin rapid certain slab follow";
+var mnemonic = "behind exercise voyage basket category bird hour twelve flower patient dog jaguar";

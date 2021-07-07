@@ -1,1 +1,1 @@
-var mnemonic = "uniform opinion fold grant elegant again hello off absorb expand pumpkin lend";
+var mnemonic = "turkey mosquito glory poet gap seminar when daring youth foster stairs globe";

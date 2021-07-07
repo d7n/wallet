@@ -1,1 +1,1 @@
-var mnemonic = "labor various tornado twin adapt solution seven cloth debris fetch tragic because";
+var mnemonic = "muffin observe cry canyon lady sick giant planet tuna voice account monster";

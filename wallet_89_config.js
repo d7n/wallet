@@ -1,1 +1,1 @@
-var mnemonic = "gravity license grow oyster video whisper salon core raise book wrap unlock";
+var mnemonic = "toe tiger style double sketch apart all list behind moment saddle despair";

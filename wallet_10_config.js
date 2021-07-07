@@ -1,1 +1,1 @@
-var mnemonic = "exclude fresh luggage aspect hire stadium source argue inherit uniform robust old";
+var mnemonic = "defy snap calm mirror output arrive federal steak coconut gun split double";

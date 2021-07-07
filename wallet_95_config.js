@@ -1,1 +1,1 @@
-var mnemonic = "media vibrant kitchen canvas december ginger stadium tumble green spend next glow";
+var mnemonic = "clever already tool file local album document grid weekend dutch rose novel";

@@ -1,1 +1,1 @@
-var mnemonic = "senior soldier develop symptom cool draft thank often park act east match";
+var mnemonic = "lunar lunch similar disease hurt creek mandate limb screen across include begin";

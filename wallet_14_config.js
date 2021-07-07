@@ -1,1 +1,1 @@
-var mnemonic = "loyal derive repeat repeat solar shoe enough unaware argue dignity current cage";
+var mnemonic = "dice lucky cook piece thing gun ceiling dynamic sustain sting feature reduce";

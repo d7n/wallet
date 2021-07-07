@@ -1,1 +1,1 @@
-var mnemonic = "mandate million sand nuclear update live glare visit crack roof program annual";
+var mnemonic = "bronze simple caution reduce flush trouble assault raven place divorce nerve impact";

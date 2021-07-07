@@ -1,1 +1,1 @@
-var mnemonic = "perfect exclude shop pupil angry twelve sting bunker mad choice canyon tent";
+var mnemonic = "manual mechanic amused shift begin essence room sign hope earn stamp cover";

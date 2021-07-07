@@ -1,1 +1,1 @@
-var mnemonic = "pen clock stereo speak today scout music runway eager kingdom rather lizard";
+var mnemonic = "install inject suggest order bird wait embrace pattern envelope nerve cage hand";

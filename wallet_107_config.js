@@ -1,1 +1,1 @@
-var mnemonic = "salute arrange fat ketchup fluid goose deer seat social damage slam differ";
+var mnemonic = "gym deliver knife rescue unfold since exit diamond arena wrist close appear";

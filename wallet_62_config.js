@@ -1,1 +1,1 @@
-var mnemonic = "cost moment ordinary infant swamp wreck health aerobic pause refuse vanish moon";
+var mnemonic = "current soft kingdom steak tongue poverty velvet method leopard simple fever correct";

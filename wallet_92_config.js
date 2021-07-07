@@ -1,1 +1,1 @@
-var mnemonic = "senior fringe disease awful pistol air galaxy isolate other adjust banana desert";
+var mnemonic = "audit gallery old worth fly indoor puppy music napkin update grit choose";

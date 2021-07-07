@@ -1,1 +1,1 @@
-var mnemonic = "large claw hospital face world bubble seed call dignity behave source bracket";
+var mnemonic = "zebra bomb grid marriage pole negative caution during reason speed ill alone";

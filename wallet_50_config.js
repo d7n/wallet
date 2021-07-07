@@ -1,1 +1,1 @@
-var mnemonic = "amount zero sphere craft burger hood pool apology alarm mad shallow extend";
+var mnemonic = "video wish please build between fury spot buddy recall letter manual silly";

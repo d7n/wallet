@@ -1,1 +1,1 @@
-var mnemonic = "party book smart foil much nuclear hobby tongue toddler patrol fox news";
+var mnemonic = "evoke sphere tired valid sell fan holiday mushroom amateur mesh donkey swap";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth treat feature cute modify rally gorilla edit increase exotic steak gravity";
+var mnemonic = "yard shoe blame settle alert chat blue once reflect verify cage advice";

@@ -1,1 +1,1 @@
-var mnemonic = "spice shed identify dish milk fix music throw main brass cup dawn";
+var mnemonic = "accuse clean shine subject total name urge often inner brand ask valve";

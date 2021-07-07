@@ -1,1 +1,1 @@
-var mnemonic = "income little face unhappy horror august sibling grunt fossil setup mixed birth";
+var mnemonic = "develop feature issue car extend cook vault slogan sleep elder spin surface";

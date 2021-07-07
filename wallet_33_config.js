@@ -1,1 +1,1 @@
-var mnemonic = "aspect seminar help deal blossom world mix radio together juice junior fantasy";
+var mnemonic = "tape garden toy destroy stand destroy cabbage alcohol space skin company boost";

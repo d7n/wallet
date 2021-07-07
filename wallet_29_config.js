@@ -1,1 +1,1 @@
-var mnemonic = "cook lottery guide response luggage derive volcano dawn box census pattern crime";
+var mnemonic = "borrow enemy trial parrot name dove orbit number animal height winner mango";
