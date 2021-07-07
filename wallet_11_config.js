@@ -1,1 +1,1 @@
-var mnemonic = "drill wheat loud actress rude soap visit ignore guilt junk will endless";
+var mnemonic = "write apology square permit vivid hint flee silent daring hobby damage shell";

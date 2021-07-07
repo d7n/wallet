@@ -1,1 +1,1 @@
-var mnemonic = "chase area tide casino hurry spray manual verify grunt soap robust aerobic";
+var mnemonic = "extend weapon air pelican benefit salute phone garage crack hawk plate clerk";

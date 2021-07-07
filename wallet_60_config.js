@@ -1,1 +1,1 @@
-var mnemonic = "eye street assume goat false jump asset flat circle normal million kidney";
+var mnemonic = "away fly tool garlic pride noodle doctor diet erode online glue there";

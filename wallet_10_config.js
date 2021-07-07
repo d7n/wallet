@@ -1,1 +1,1 @@
-var mnemonic = "diamond minor brisk viable east tent envelope play surface flip void armor";
+var mnemonic = "nose library soon reunion brief crush fabric car drum play chuckle nice";

@@ -1,1 +1,1 @@
-var mnemonic = "office mass census online unaware regular entire ridge celery unable pioneer spider";
+var mnemonic = "reflect night cinnamon sort rude crime vivid adapt unusual uncover pen sausage";

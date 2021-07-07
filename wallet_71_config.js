@@ -1,1 +1,1 @@
-var mnemonic = "leopard swing vehicle repair rotate clip loyal anxiety until worry drink noble";
+var mnemonic = "art crop fitness frown guitar mushroom orbit crystal orbit violin tail clay";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid siege mix liar choose teach supreme ecology raw sentence leisure cable";
+var mnemonic = "away cost page club approve achieve organ page manual reform rare citizen";

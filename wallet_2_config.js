@@ -1,1 +1,1 @@
-var mnemonic = "wait syrup empower marine run essence define decorate embark zone sheriff elbow";
+var mnemonic = "iron gym shrug yard emerge float dust lesson gain absurd dust space";

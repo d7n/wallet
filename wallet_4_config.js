@@ -1,1 +1,1 @@
-var mnemonic = "inject aspect real coach worth wrong hat soda simple cabin monster defense";
+var mnemonic = "antique mystery enough weird notice police law cigar sketch remain twist oven";

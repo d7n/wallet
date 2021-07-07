@@ -1,1 +1,1 @@
-var mnemonic = "buddy ecology forum first decorate riot minimum crystal hen resource wage depth";
+var mnemonic = "prefer guide size manual addict differ exercise trust assist stand attend season";

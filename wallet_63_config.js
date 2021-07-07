@@ -1,1 +1,1 @@
-var mnemonic = "cricket acid gown elite gather program prepare link situate penalty curve certain";
+var mnemonic = "lamp denial sight build lumber antenna permit vintage tool day write wheat";

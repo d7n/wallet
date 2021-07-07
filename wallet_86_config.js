@@ -1,1 +1,1 @@
-var mnemonic = "cricket stairs vivid shoot husband labor weekend expire patient live drift south";
+var mnemonic = "south gate blue history top type mosquito enough ginger hidden virus floor";

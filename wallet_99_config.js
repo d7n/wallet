@@ -1,1 +1,1 @@
-var mnemonic = "april hood attend toy unveil smile dynamic sunset recycle coach identify across";
+var mnemonic = "replace noise type brush party hamster hen pencil second deny diagram royal";

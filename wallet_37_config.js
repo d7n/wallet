@@ -1,1 +1,1 @@
-var mnemonic = "carpet annual clerk join teach explain corn minimum custom expose awake caution";
+var mnemonic = "birth skull blouse alien comfort recycle lens soup want pause rally category";

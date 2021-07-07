@@ -1,1 +1,1 @@
-var mnemonic = "below used suggest awkward annual camera layer purse soccer verb margin capable";
+var mnemonic = "problem lazy filter admit purpose always noodle oyster valid actress stone episode";

@@ -1,1 +1,1 @@
-var mnemonic = "curious install verb menu agree music setup company ocean peasant market turtle";
+var mnemonic = "want version engage rice rent choose hub tattoo slender step tiger race";

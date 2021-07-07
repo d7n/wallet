@@ -1,1 +1,1 @@
-var mnemonic = "hand burst hotel grid used hurt course still end amateur tank card";
+var mnemonic = "soda similar setup exchange judge verify artefact possible pond gym debris response";

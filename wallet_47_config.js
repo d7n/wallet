@@ -1,1 +1,1 @@
-var mnemonic = "correct bird depend scan index grain spoil region diesel prevent ticket scorpion";
+var mnemonic = "indoor gravity axis great mango fantasy oppose subway tribe key bless dynamic";

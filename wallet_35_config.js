@@ -1,1 +1,1 @@
-var mnemonic = "scrub dial orphan mobile blanket noble raccoon harbor rifle chimney wish teach";
+var mnemonic = "little spring embrace category hobby fade blood frown anxiety true cake face";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke use clerk kind leader bridge mutual job enroll used fluid jaguar";
+var mnemonic = "drastic advance token true also diary salad desert life suffer exhibit actress";

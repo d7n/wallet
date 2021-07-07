@@ -1,1 +1,1 @@
-var mnemonic = "cheese pill friend phone before match blind collect treat nest slice school";
+var mnemonic = "chest old skull axis mandate away sure lawsuit pond knee excuse hole";

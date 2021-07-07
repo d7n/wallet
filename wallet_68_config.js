@@ -1,1 +1,1 @@
-var mnemonic = "fiber canal mutual manual logic apart thrive bulb panel timber nephew puppy";
+var mnemonic = "cost chronic pulp turkey machine solution recipe insect aunt float buffalo flush";

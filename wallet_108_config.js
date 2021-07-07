@@ -1,1 +1,1 @@
-var mnemonic = "security shadow struggle quick mention reveal master solve milk motion defy field";
+var mnemonic = "february mixture wall clump into oblige check first valve hobby marriage shoot";

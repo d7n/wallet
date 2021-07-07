@@ -1,1 +1,1 @@
-var mnemonic = "mask legend order rice bonus number divide thunder switch potato person despair";
+var mnemonic = "hat green seek color mutual industry knee father bunker tonight tool bounce";

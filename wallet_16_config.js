@@ -1,1 +1,1 @@
-var mnemonic = "switch obvious bounce throw usual army sock company access hair educate below";
+var mnemonic = "mask drop violin ginger duty taxi winter divorce kiwi museum tone pig";

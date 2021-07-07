@@ -1,1 +1,1 @@
-var mnemonic = "public history comfort month there diagram wealth unusual image bus rifle father";
+var mnemonic = "grain glass wheat bench logic wrap mutual flee morning release chuckle open";

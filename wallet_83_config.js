@@ -1,1 +1,1 @@
-var mnemonic = "bring shaft nation alien citizen burger theme buddy crush island begin water";
+var mnemonic = "hen round shuffle danger alpha urge correct enable average owner divorce trumpet";

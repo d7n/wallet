@@ -1,1 +1,1 @@
-var mnemonic = "artefact donate fire present maze total stereo basic ignore daring odor action";
+var mnemonic = "figure very bench kiwi quote unit involve absorb swift lamp offer aerobic";

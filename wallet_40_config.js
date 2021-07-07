@@ -1,1 +1,1 @@
-var mnemonic = "auction orient three shrimp portion south celery valid rotate dad wrap inform";
+var mnemonic = "draw orange intact tide cross behind anger dirt snow also lottery catalog";

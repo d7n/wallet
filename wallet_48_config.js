@@ -1,1 +1,1 @@
-var mnemonic = "theme leg subject object ugly light coin rare ten begin crane toddler";
+var mnemonic = "mobile radar modify suggest alert jar vapor tenant sand outside artwork boil";

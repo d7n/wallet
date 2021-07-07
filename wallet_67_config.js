@@ -1,1 +1,1 @@
-var mnemonic = "mutual brother merge frog flavor ivory jacket another hurry fame close replace";
+var mnemonic = "say walnut must foam question like injury decline old couple name until";

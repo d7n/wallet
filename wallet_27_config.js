@@ -1,1 +1,1 @@
-var mnemonic = "wool expose flash describe install fiber beauty bomb strong list goose crush";
+var mnemonic = "exhaust drum remove unit tank code common nurse ahead icon toss bring";

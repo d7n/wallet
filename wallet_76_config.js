@@ -1,1 +1,1 @@
-var mnemonic = "car topple kiwi medal column eye move wide visual step bounce hope";
+var mnemonic = "glass protect capable ceiling step only soccer require ill target turtle arch";

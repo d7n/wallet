@@ -1,1 +1,1 @@
-var mnemonic = "actress crash shove slogan defense regular pave chat stuff dress rail equal";
+var mnemonic = "coin fortune knife front empty uphold marble canyon prepare chicken advice degree";

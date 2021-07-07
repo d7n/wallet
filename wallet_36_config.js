@@ -1,1 +1,1 @@
-var mnemonic = "dismiss when taste into truth opera carbon similar tunnel merit language almost";
+var mnemonic = "master uncover candy focus exhaust clever seed bright ticket adult nurse raccoon";

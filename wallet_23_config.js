@@ -1,1 +1,1 @@
-var mnemonic = "hybrid wish host depart trash time device home empty staff moral fine";
+var mnemonic = "give leisure craft egg similar ivory canal velvet emerge census achieve matter";

@@ -1,1 +1,1 @@
-var mnemonic = "general kingdom buddy forum enough interest melt series load gauge build couple";
+var mnemonic = "adapt link gap client cat culture stick arm speed solve keen proof";

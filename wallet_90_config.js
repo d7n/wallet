@@ -1,1 +1,1 @@
-var mnemonic = "vote found giant solar magnet torch impulse sing cereal umbrella today fury";
+var mnemonic = "mom purse orbit youth wage actress immense innocent amused leisure develop office";

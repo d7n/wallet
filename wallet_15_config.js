@@ -1,1 +1,1 @@
-var mnemonic = "nuclear foil bid air weird elephant ritual uphold amused plunge umbrella jaguar";
+var mnemonic = "pitch amateur soccer concert embark myth then primary discover hen finish code";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle gift apology alcohol current arch upon quarter shell dilemma deputy supreme";
+var mnemonic = "occur rotate express update between fever entire grant flat rely head resemble";

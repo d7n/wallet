@@ -1,1 +1,1 @@
-var mnemonic = "lemon increase aerobic parade dice circle decade void device group insane upon";
+var mnemonic = "figure afraid pulse buffalo include print empty cargo broccoli gun elegant assume";

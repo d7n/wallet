@@ -1,1 +1,1 @@
-var mnemonic = "candy flat win trade fault illegal oil garment super crush material city";
+var mnemonic = "shuffle symbol later math ride because grief field cabin success provide urban";

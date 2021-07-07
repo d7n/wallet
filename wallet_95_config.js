@@ -1,1 +1,1 @@
-var mnemonic = "devote sword engage oak quick suggest oven kiss moon room hidden three";
+var mnemonic = "hospital lady mobile exit custom scorpion trip argue limit bid host survey";

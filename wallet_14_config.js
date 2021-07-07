@@ -1,1 +1,1 @@
-var mnemonic = "manage swim summer angry hotel rain client deer perfect metal remain lawn";
+var mnemonic = "gate blast still sign school occur tomato general talent brief sweet eternal";

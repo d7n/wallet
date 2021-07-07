@@ -1,1 +1,1 @@
-var mnemonic = "napkin fork alarm roof fuel animal cage outdoor network fine want brain";
+var mnemonic = "box under involve skill friend apart trim home glimpse place gun bunker";

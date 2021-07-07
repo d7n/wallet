@@ -1,1 +1,1 @@
-var mnemonic = "ocean sell spot alien north stereo leisure clinic library copper salmon man";
+var mnemonic = "hard exhibit fence effort shallow ozone beyond skin estate mesh race garment";

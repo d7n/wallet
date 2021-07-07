@@ -1,1 +1,1 @@
-var mnemonic = "pull gather involve birth dance mobile nuclear venture core talent pretty axis";
+var mnemonic = "question moon vicious close involve abandon lunch girl average bind shop early";

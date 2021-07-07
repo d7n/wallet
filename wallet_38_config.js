@@ -1,1 +1,1 @@
-var mnemonic = "deny hire fantasy wish play evidence diary dog cruel jazz latin home";
+var mnemonic = "valley brain inside fruit pyramid tourist open omit make kiwi accuse devote";

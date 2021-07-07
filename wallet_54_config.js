@@ -1,1 +1,1 @@
-var mnemonic = "miracle cheese banana note donor submit culture town soft turtle inquiry depth";
+var mnemonic = "travel strategy sentence forget ladder foster fire matter purpose symbol illegal item";

@@ -1,1 +1,1 @@
-var mnemonic = "circle length artefact drip dignity antenna worry toe feed crawl awkward slogan";
+var mnemonic = "magic october december robust state nature fatigue human flower ball tragic satoshi";

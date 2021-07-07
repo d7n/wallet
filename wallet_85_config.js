@@ -1,1 +1,1 @@
-var mnemonic = "act word ladder very matter patient trip sauce uncle snow into feel";
+var mnemonic = "room receive height foam spread almost dress dress thunder tomato field country";

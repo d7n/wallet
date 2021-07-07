@@ -1,1 +1,1 @@
-var mnemonic = "bean science pretty cry verify drip casino affair festival slow conduct castle";
+var mnemonic = "emerge despair garage foot split hamster cream divorce rebuild want caught truck";

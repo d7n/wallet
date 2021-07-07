@@ -1,1 +1,1 @@
-var mnemonic = "lazy account resist raven pass zebra sleep always junior girl caught jungle";
+var mnemonic = "grab belt medal budget monster gravity exhibit decline cable east lock apart";

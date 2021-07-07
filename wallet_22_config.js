@@ -1,1 +1,1 @@
-var mnemonic = "rescue address dog print shop piano choose nuclear find priority asset reject";
+var mnemonic = "involve month solid gift gadget disease doctor enough glory arrive zone boss";

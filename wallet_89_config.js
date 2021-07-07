@@ -1,1 +1,1 @@
-var mnemonic = "ghost envelope half scrap demise skill valley tree oblige quick job buffalo";
+var mnemonic = "bargain interest host carry room speak kite relief purity cricket idle tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "truly hello pigeon snack bicycle always tobacco caught attitude eagle noble river";
+var mnemonic = "own brother canal alien avocado aunt minor three sentence runway trip mass";

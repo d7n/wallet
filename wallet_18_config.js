@@ -1,1 +1,1 @@
-var mnemonic = "tray antique ostrich draw fog feed tomato grocery tennis index ostrich sock";
+var mnemonic = "cruel exit shoe whisper nose inflict bird thank decade exchange maze aisle";

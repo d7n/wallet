@@ -1,1 +1,1 @@
-var mnemonic = "genuine roast misery unveil student search hazard wet bridge chase hope swallow";
+var mnemonic = "sample abandon observe error record dash humor fuel top demise render note";

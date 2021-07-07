@@ -1,1 +1,1 @@
-var mnemonic = "rifle borrow melody exhibit project envelope stay muscle romance blade robot cargo";
+var mnemonic = "oppose obvious blind pause unknown gap bonus ladder pole adapt vendor door";

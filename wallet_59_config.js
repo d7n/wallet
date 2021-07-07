@@ -1,1 +1,1 @@
-var mnemonic = "install stadium rookie hotel prosper sauce mouse kingdom tape betray pig cloud";
+var mnemonic = "denial swing material tongue police cram rail nest snow camera bacon motor";

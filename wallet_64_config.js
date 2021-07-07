@@ -1,1 +1,1 @@
-var mnemonic = "thumb loop peasant umbrella basic old winner satisfy echo left hockey tower";
+var mnemonic = "drum medal reason aunt aware tackle fatigue square drastic barrel staff suggest";

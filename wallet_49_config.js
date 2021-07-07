@@ -1,1 +1,1 @@
-var mnemonic = "trash shuffle deer dash gentle ribbon lock quit jeans unusual priority clay";
+var mnemonic = "boy swift swift kit quiz marble struggle alert start board guilt screen";

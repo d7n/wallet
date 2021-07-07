@@ -1,1 +1,1 @@
-var mnemonic = "snap cricket sun cupboard rhythm gold dismiss shy chase dress movie crash";
+var mnemonic = "used surprise jacket hawk ski flight tongue shoulder web riot inquiry demand";

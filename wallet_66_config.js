@@ -1,1 +1,1 @@
-var mnemonic = "legal kangaroo tone toward return obscure swarm crouch lava broccoli make duty";
+var mnemonic = "desk volcano top genre weather buffalo shiver artwork water issue hurt miracle";

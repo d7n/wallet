@@ -1,1 +1,1 @@
-var mnemonic = "divert fuel laundry hidden found aerobic six loyal emotion bachelor over group";
+var mnemonic = "curve cute gown fluid couch expand control soccer cheap degree shiver feed";

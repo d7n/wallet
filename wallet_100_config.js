@@ -1,1 +1,1 @@
-var mnemonic = "car few exit pave horn boil trust circle old turn increase movie";
+var mnemonic = "zone april grain argue reform hope dilemma pass world march hope keep";

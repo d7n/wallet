@@ -1,1 +1,1 @@
-var mnemonic = "cement bike rely document stairs between zone dismiss angry omit escape harbor";
+var mnemonic = "honey benefit model rice retreat ticket gather barrel bachelor void figure enough";

@@ -1,1 +1,1 @@
-var mnemonic = "seat diamond impact digital abandon throw dirt congress wage check smart please";
+var mnemonic = "buyer flash young episode suspect shadow bonus defense trust advice forget couch";

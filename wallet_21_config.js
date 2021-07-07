@@ -1,1 +1,1 @@
-var mnemonic = "scrub virtual crater artefact delay pyramid build glide material yard destroy relief";
+var mnemonic = "later chaos ocean quick caught eager unknown day eye robot inherit jewel";

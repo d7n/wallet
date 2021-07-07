@@ -1,1 +1,1 @@
-var mnemonic = "vague ugly laptop bus glove drama master vital retreat sock hair garage";
+var mnemonic = "bunker pioneer prefer travel blur provide actual prosper craft nurse budget road";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge august hair mercy twelve quote tag profit middle famous tail modify";
+var mnemonic = "ranch gather opinion purchase robust depart meadow february soft fortune sock crane";

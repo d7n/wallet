@@ -1,1 +1,1 @@
-var mnemonic = "check judge truly need height unveil glue impose peasant genuine figure angry";
+var mnemonic = "garbage olympic merge jump verify effort suit hill blue torch various uncover";

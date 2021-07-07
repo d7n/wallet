@@ -1,1 +1,1 @@
-var mnemonic = "sing round evil armed rigid forget prefer clerk soda faith planet autumn";
+var mnemonic = "neck model access isolate easy drum thought ethics seed three route tell";

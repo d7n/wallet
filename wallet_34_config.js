@@ -1,1 +1,1 @@
-var mnemonic = "click trip whale unaware park earn indicate pass lift muscle excite profit";
+var mnemonic = "supreme merry scan hope acoustic cargo fuel exile general nasty adult horror";

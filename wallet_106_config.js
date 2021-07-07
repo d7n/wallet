@@ -1,1 +1,1 @@
-var mnemonic = "amused dinner soldier phone agree key meat fatigue icon cupboard knock glance";
+var mnemonic = "address loud verify shield pond south maple dose pulse toe identify frog";

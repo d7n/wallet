@@ -1,1 +1,1 @@
-var mnemonic = "tray accident common bus coin bind subway bench happy satisfy diet gain";
+var mnemonic = "put safe embark margin valid capable exchange acoustic old federal since dismiss";

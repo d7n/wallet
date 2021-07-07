@@ -1,1 +1,1 @@
-var mnemonic = "bulb else allow corn trim vintage must exchange master give nest canyon";
+var mnemonic = "uncle real illness frost express spatial success ancient fame census tackle hammer";

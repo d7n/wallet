@@ -1,1 +1,1 @@
-var mnemonic = "cruise spice gold oppose camera nerve total vapor time rally series robot";
+var mnemonic = "tell pet music world gesture rigid midnight direct vote game april that";

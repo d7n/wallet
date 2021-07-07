@@ -1,1 +1,1 @@
-var mnemonic = "boss mention asset large mansion spell gravity poverty broken scout visual kind";
+var mnemonic = "beauty allow keep shed mom purchase sugar when float consider wheat embrace";

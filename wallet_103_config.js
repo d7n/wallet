@@ -1,1 +1,1 @@
-var mnemonic = "gallery daring flat craft wet muffin gossip average mountain bring float moon";
+var mnemonic = "marriage logic roast trigger adult nephew myself capable above genuine biology globe";

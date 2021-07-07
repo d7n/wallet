@@ -1,1 +1,1 @@
-var mnemonic = "heavy amazing virtual pet kitchen enhance pledge stamp genius shed damage warm";
+var mnemonic = "reason merit moon sing cereal emotion develop hawk fork problem sign gold";

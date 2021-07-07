@@ -1,1 +1,1 @@
-var mnemonic = "illness ripple injury follow biology general knee cement tiger alien immune fiction";
+var mnemonic = "lesson soft tunnel timber swift often magic waste miss output baby eye";

@@ -1,1 +1,1 @@
-var mnemonic = "clip farm build skull stumble strategy deliver change doctor pepper move junk";
+var mnemonic = "sense since focus blanket suggest series height sadness awake tiny rapid upset";

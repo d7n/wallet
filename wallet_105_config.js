@@ -1,1 +1,1 @@
-var mnemonic = "canvas wagon mix promote royal umbrella mushroom initial weapon beef across panel";
+var mnemonic = "section finish ball casual meadow need either swallow ugly april disagree spoon";

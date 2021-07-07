@@ -1,1 +1,1 @@
-var mnemonic = "cart auto shock teach jungle sample guard super fly pact eagle arena";
+var mnemonic = "garbage same sister hurdle must canal reveal island diary myth magnet cause";

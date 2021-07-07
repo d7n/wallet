@@ -1,1 +1,1 @@
-var mnemonic = "tragic spawn enroll city other bunker lava emerge arrest produce wool ready";
+var mnemonic = "clutch diagram gold stay either clip security vocal despair clock throw motion";

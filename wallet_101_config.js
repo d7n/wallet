@@ -1,1 +1,1 @@
-var mnemonic = "sword doctor guard tennis gauge scale wire just eagle skull judge fence";
+var mnemonic = "volume dirt lumber kiwi wide innocent hover undo fire surface awesome weekend";

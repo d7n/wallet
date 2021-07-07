@@ -1,1 +1,1 @@
-var mnemonic = "creek range problem vote ticket fabric matrix devote stomach used genre clean";
+var mnemonic = "road injury south cool delay drive dumb nuclear program alpha into wrist";

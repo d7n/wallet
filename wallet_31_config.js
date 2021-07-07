@@ -1,1 +1,1 @@
-var mnemonic = "cousin fix draw device conduct bleak rhythm absent fitness sample person turkey";
+var mnemonic = "bleak quote flame parade kite script increase once village original unknown unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom coil valve crew utility shoulder marble box recycle brass bone need";
+var mnemonic = "goose mother device culture goddess cube copper soccer sort raw acid only";
