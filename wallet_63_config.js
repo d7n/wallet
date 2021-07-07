@@ -1,1 +1,1 @@
-var mnemonic = "favorite lava rescue mom laptop mechanic cactus focus above earn joy always";
+var mnemonic = "almost canal pulse carry armed leader code equal stairs tackle nest enlist";

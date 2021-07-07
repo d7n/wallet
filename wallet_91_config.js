@@ -1,1 +1,1 @@
-var mnemonic = "smile solution pizza shed father shallow mixture lunch love timber length social";
+var mnemonic = "term police typical flash stone denial early will visit immense rate tree";

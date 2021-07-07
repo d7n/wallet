@@ -1,1 +1,1 @@
-var mnemonic = "moral surface display tube nut trouble ritual loan oppose cement nothing alarm";
+var mnemonic = "envelope treat unhappy era option soul favorite invest gift furnace patient pave";

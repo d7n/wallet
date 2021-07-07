@@ -1,1 +1,1 @@
-var mnemonic = "pull again already chapter opera adjust author ability crumble rib office prize";
+var mnemonic = "keen cancel skate panther annual very test enough ice dignity faculty upon";

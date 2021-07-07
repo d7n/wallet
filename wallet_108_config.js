@@ -1,1 +1,1 @@
-var mnemonic = "lava cotton stock slot teach draw habit oil dose one ugly either";
+var mnemonic = "essence grit dinner click battle monkey obvious funny sorry iron picnic return";

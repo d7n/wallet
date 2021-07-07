@@ -1,1 +1,1 @@
-var mnemonic = "mechanic shadow jaguar obscure indicate mention above offer guide credit flame neck";
+var mnemonic = "enhance endorse gauge verb demise garlic rent render mention accident boy concert";

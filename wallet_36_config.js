@@ -1,1 +1,1 @@
-var mnemonic = "huge volume miss spy mansion upgrade monitor base ketchup guess subway treat";
+var mnemonic = "save bench infant position moment squirrel work season moral urge ceiling diesel";

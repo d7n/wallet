@@ -1,1 +1,1 @@
-var mnemonic = "found doctor miss solution borrow empower decorate hand august oblige antenna neck";
+var mnemonic = "decorate hollow test gown sail feature mobile federal awesome vintage begin science";

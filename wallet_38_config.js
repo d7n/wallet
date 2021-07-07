@@ -1,1 +1,1 @@
-var mnemonic = "nut matrix frown clerk game fancy pottery amateur neglect sentence ticket guitar";
+var mnemonic = "water sugar uncle kitten ill name maple debate interest barely ceiling drink";

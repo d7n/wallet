@@ -1,1 +1,1 @@
-var mnemonic = "dilemma physical coast surface expose express laptop hero exile filter eager olympic";
+var mnemonic = "power quit acquire damage leg come style web wear slam copper venture";

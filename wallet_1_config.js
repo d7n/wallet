@@ -1,1 +1,1 @@
-var mnemonic = "arm veteran wish height music dust chunk produce pony body stereo crisp";
+var mnemonic = "person clown manual simple caught bird umbrella toilet breeze embody wink turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown mimic legal tobacco wage frozen scrub canyon glad measure industry west";
+var mnemonic = "sock green jelly chaos artist deposit nut shine federal metal maximum evidence";

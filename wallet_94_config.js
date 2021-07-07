@@ -1,1 +1,1 @@
-var mnemonic = "trigger teach announce differ height network dinosaur script drum bleak reason tortoise";
+var mnemonic = "snow slight opera volume shield cash hungry net just audit range other";

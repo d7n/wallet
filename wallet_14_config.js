@@ -1,1 +1,1 @@
-var mnemonic = "clip time rough gate possible patch access crime social waste nose insane";
+var mnemonic = "drill lava behind shrug output bright public hood wedding portion agent arrow";

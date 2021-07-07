@@ -1,1 +1,1 @@
-var mnemonic = "camp elbow fog long whip pony need quiz pull pelican okay welcome";
+var mnemonic = "gallery session online drama rich inner vintage view mushroom marble loyal ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mouse motion spare quantum wasp feel liar away rural bundle enact";
+var mnemonic = "ahead tenant can category sand spoon clown addict angry key daring frame";

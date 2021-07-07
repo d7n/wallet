@@ -1,1 +1,1 @@
-var mnemonic = "blame turn fetch manual mask reopen gesture ignore swarm saddle angle before";
+var mnemonic = "thumb shoe knife team legend destroy kidney hybrid digital cave before spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy arrive measure river cable sentence boil film move income chicken foot";
+var mnemonic = "lemon choose prevent hotel festival zoo label invest category witness naive jungle";

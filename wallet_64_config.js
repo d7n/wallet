@@ -1,1 +1,1 @@
-var mnemonic = "team latin inspire manual million vacuum issue flower trip moon welcome industry";
+var mnemonic = "apology joke equip aware ketchup snake picture climb girl plate this meat";

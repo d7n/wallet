@@ -1,1 +1,1 @@
-var mnemonic = "bunker hill dinosaur outer soup breeze swift glow bronze saddle whale dress";
+var mnemonic = "rookie series sample cash witness decade true find bone island orbit income";

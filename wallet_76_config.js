@@ -1,1 +1,1 @@
-var mnemonic = "aerobic creek bundle dwarf guilt cash grid kit sound guilt wolf weather";
+var mnemonic = "ranch gospel mystery symbol knee priority animal wine brave require vivid pupil";

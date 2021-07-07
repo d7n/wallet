@@ -1,1 +1,1 @@
-var mnemonic = "better business army horror illness pen dizzy tribe surround armed canvas month";
+var mnemonic = "lab wide win light tenant under tooth drama battle antenna oil clutch";

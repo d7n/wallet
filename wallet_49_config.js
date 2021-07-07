@@ -1,1 +1,1 @@
-var mnemonic = "derive item trigger combine supply fat digital carpet essence pilot inspire unveil";
+var mnemonic = "business daring clap truck erode border embark knock vast today panic drop";

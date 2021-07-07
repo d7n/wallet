@@ -1,1 +1,1 @@
-var mnemonic = "design skill utility jeans stock rally load wing spring electric rabbit attract";
+var mnemonic = "machine dry web trouble misery capital admit grass autumn prison argue pause";

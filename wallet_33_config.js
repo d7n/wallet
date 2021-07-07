@@ -1,1 +1,1 @@
-var mnemonic = "upper hint fantasy door frost must ramp office fit minor empty rough";
+var mnemonic = "thumb trick erase subway track affair fiction volcano zero begin access night";

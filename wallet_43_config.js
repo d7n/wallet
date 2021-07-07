@@ -1,1 +1,1 @@
-var mnemonic = "solve blade affair uncover select atom liberty silly pottery salute gauge bench";
+var mnemonic = "live crumble shoot hire armed ranch effort recipe morning loud exile oppose";

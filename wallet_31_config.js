@@ -1,1 +1,1 @@
-var mnemonic = "fresh police valid seek mad danger depth push banner trumpet path smoke";
+var mnemonic = "bachelor age drastic moment okay organ crack impose peace actual glory knife";

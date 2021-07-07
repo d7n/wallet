@@ -1,1 +1,1 @@
-var mnemonic = "point snap flee old obscure vote dose federal limit pizza capital seek";
+var mnemonic = "inspire divorce announce year vault fatigue leg skill path order immense slam";

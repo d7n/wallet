@@ -1,1 +1,1 @@
-var mnemonic = "pave invite scissors primary nuclear tackle birth crystal note weapon device blouse";
+var mnemonic = "wrap cash radar high choice census toward sustain apology cabin combine bean";

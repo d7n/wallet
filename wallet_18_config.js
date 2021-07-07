@@ -1,1 +1,1 @@
-var mnemonic = "board must catalog radar lawsuit once chief drum mother link knock wall";
+var mnemonic = "satoshi into evidence luggage siren fetch illegal useful dinosaur grab desk universe";

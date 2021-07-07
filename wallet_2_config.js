@@ -1,1 +1,1 @@
-var mnemonic = "awake current actress wolf fancy weird inquiry tank burger tired hunt wash";
+var mnemonic = "sport earn run enough disease matrix infant suspect way gate again armor";

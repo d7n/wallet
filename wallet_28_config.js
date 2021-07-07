@@ -1,1 +1,1 @@
-var mnemonic = "misery sketch increase network since spoil blur attend sound pigeon this faculty";
+var mnemonic = "matrix state dizzy cinnamon puzzle source flash age stadium canal super nature";

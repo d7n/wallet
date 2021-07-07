@@ -1,1 +1,1 @@
-var mnemonic = "brain mean blame fame dawn bid knee collect sister apple else wet";
+var mnemonic = "gas tuna parade dirt chapter ready ripple muscle deputy valve voyage large";

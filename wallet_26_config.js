@@ -1,1 +1,1 @@
-var mnemonic = "black secret rare topple female broom smooth finish decline beach walk scissors";
+var mnemonic = "cricket defense card enough used wisdom core slight main canoe bargain trick";

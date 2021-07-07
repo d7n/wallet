@@ -1,1 +1,1 @@
-var mnemonic = "wise suggest hover mix tortoise size educate spider approve tide device oval";
+var mnemonic = "awake general spawn modify share arrow type wink goddess phone gloom gloom";

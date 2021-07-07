@@ -1,1 +1,1 @@
-var mnemonic = "brief human end smoke emotion album again remain rhythm firm story praise";
+var mnemonic = "surround shove trend echo bubble video door solve cause dress eye myth";

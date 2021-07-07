@@ -1,1 +1,1 @@
-var mnemonic = "inhale scan neither coast jungle mixed evoke basket brick cluster business budget";
+var mnemonic = "pistol kid correct since diary fork misery milk exile burst corn talent";

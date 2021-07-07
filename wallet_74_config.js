@@ -1,1 +1,1 @@
-var mnemonic = "elite myth doctor crash cattle divide side abstract lemon hip quit abandon";
+var mnemonic = "loyal mix jealous switch baby choice naive reason employ chase blouse among";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust equip grain way settle spell empty over mix tide behind change";
+var mnemonic = "rookie common shoulder marine pipe room egg example drum vendor zone episode";

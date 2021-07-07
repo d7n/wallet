@@ -1,1 +1,1 @@
-var mnemonic = "horn face require want denial wish day face bike quantum puzzle injury";
+var mnemonic = "quality solid quote draft boring spice easily fall suit series imitate develop";

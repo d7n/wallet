@@ -1,1 +1,1 @@
-var mnemonic = "sound pear clever crater tragic oven swamp trophy diet chronic inspire obey";
+var mnemonic = "second oppose federal tennis rail liquid black sunny mutual blind head athlete";

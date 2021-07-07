@@ -1,1 +1,1 @@
-var mnemonic = "protect twist salon renew floor fly hint rib close stuff tail onion";
+var mnemonic = "defense rotate flee sheriff length emerge name jaguar day grocery twelve clean";

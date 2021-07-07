@@ -1,1 +1,1 @@
-var mnemonic = "decade near glimpse rally office mixture gun guilt gospel soldier twice secret";
+var mnemonic = "table art laundry head until label grief digital athlete inch help bind";

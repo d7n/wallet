@@ -1,1 +1,1 @@
-var mnemonic = "charge unaware sting laugh return neglect night host industry confirm health fantasy";
+var mnemonic = "chuckle cheap rubber cheese attitude nest century erase couple camera coil jungle";

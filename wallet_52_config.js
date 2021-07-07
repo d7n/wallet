@@ -1,1 +1,1 @@
-var mnemonic = "pair pottery brother frozen any wonder express lamp city damage verb mad";
+var mnemonic = "conduct demand fall office next immune panther vivid airport enrich left riot";

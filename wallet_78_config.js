@@ -1,1 +1,1 @@
-var mnemonic = "cabin one silent april evoke meat alone hawk divide oil hundred subject";
+var mnemonic = "tower armed rubber club enforce mirror minimum catch knee evidence faith test";

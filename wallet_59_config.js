@@ -1,1 +1,1 @@
-var mnemonic = "social gain carpet royal rib abandon normal margin country mandate vehicle group";
+var mnemonic = "maximum glare plug horn news round meadow notable lawsuit page cushion clean";

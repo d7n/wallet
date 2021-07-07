@@ -1,1 +1,1 @@
-var mnemonic = "brush crowd any chest sight kidney item safe comic price spider brand";
+var mnemonic = "rocket quiz quit nut cruise isolate real steel oil river mom swallow";

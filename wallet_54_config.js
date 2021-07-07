@@ -1,1 +1,1 @@
-var mnemonic = "april early believe common this bullet run cash decide loud bonus taste";
+var mnemonic = "right crash guide hip excess loud rural pluck friend usage pottery object";

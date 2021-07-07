@@ -1,1 +1,1 @@
-var mnemonic = "enroll universe honey sweet clown scheme shallow fix affair certain cute common";
+var mnemonic = "bomb law visual gossip garment spy improve version because motor drift crouch";

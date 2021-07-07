@@ -1,1 +1,1 @@
-var mnemonic = "pear afford aspect breeze board measure pride notice inject burden door burger";
+var mnemonic = "fame urge expire height mansion repeat basic large fire vast speak first";

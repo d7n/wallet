@@ -1,1 +1,1 @@
-var mnemonic = "setup rifle leisure exotic tail define awesome hire kind cable essence dream";
+var mnemonic = "volcano list merit fix win uphold ugly welcome mix ten hobby title";

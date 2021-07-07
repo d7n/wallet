@@ -1,1 +1,1 @@
-var mnemonic = "patch funny kidney sight leg jewel unaware because giant pony gown crop";
+var mnemonic = "join fun owner elegant soon garment century lamp ribbon brick always right";

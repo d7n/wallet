@@ -1,1 +1,1 @@
-var mnemonic = "sound adapt color approve siege sport appear wrap category material because camera";
+var mnemonic = "family spoon way digital toilet century this slight pave potato faint memory";

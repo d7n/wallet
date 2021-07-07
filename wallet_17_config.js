@@ -1,1 +1,1 @@
-var mnemonic = "hill struggle food mechanic combine carry awesome peasant coffee sheriff win brother";
+var mnemonic = "scatter expand knee eye gadget fine soft diamond century judge all dove";

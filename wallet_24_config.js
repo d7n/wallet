@@ -1,1 +1,1 @@
-var mnemonic = "spoon banana siren produce great radar endless jazz comfort will lake sister";
+var mnemonic = "input sugar method tube someone company voice disorder rely gas combine replace";

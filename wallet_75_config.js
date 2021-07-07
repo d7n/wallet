@@ -1,1 +1,1 @@
-var mnemonic = "night just bracket employ vivid method wink congress snow toddler tone leaf";
+var mnemonic = "bottom trend tired describe use pipe power ring person hobby vote shell";

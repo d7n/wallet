@@ -1,1 +1,1 @@
-var mnemonic = "okay trigger call captain diesel wet endless rookie space comfort prison rally";
+var mnemonic = "nest column essence fault try syrup rude frost exhibit setup bottom spot";

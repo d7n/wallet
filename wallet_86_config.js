@@ -1,1 +1,1 @@
-var mnemonic = "opera misery crisp give spot sail fault goose huge sunset south weapon";
+var mnemonic = "deposit nature trouble day nasty same miss finger morning foil dismiss unfair";

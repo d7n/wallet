@@ -1,1 +1,1 @@
-var mnemonic = "tackle rain member royal large object disorder taste myself dog rhythm chunk";
+var mnemonic = "dune repeat prize scare vintage pledge post forward need priority broom bird";

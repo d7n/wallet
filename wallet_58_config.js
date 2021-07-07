@@ -1,1 +1,1 @@
-var mnemonic = "dolphin add stay average empty eye ripple observe toward clog certain ugly";
+var mnemonic = "piano bid symptom office begin helmet pink crazy access possible client sentence";

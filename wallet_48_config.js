@@ -1,1 +1,1 @@
-var mnemonic = "engine floor common floor sad uphold case mimic vivid column kid pledge";
+var mnemonic = "verb bird arch tank foster just either riot unlock tribe churn render";

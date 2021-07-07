@@ -1,1 +1,1 @@
-var mnemonic = "govern knock great burst leader glad supply hotel puzzle burden viable theme";
+var mnemonic = "van update topic frog prize climb exist absent alone lake fine clinic";

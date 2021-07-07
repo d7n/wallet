@@ -1,1 +1,1 @@
-var mnemonic = "chunk chicken betray runway gadget mixed phone depend park keep hungry repair";
+var mnemonic = "way input head truth pizza alley leave denial erupt rate reform together";

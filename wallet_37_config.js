@@ -1,1 +1,1 @@
-var mnemonic = "gown early much narrow verb parent swap virus evolve only click canyon";
+var mnemonic = "interest magic crane bounce crew audit language code below jeans drill corn";

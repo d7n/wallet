@@ -1,1 +1,1 @@
-var mnemonic = "meadow fitness monitor scene yard curious wall layer brave other frozen neutral";
+var mnemonic = "machine arrest profit crop couch fuel same cheese pottery awkward help hood";

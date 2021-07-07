@@ -1,1 +1,1 @@
-var mnemonic = "cargo stumble ranch green still depth believe fatal enrich priority crouch paddle";
+var mnemonic = "album hand later cancel achieve spot doctor scheme dizzy bunker remain wheat";

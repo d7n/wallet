@@ -1,1 +1,1 @@
-var mnemonic = "sentence together purpose uncle orbit perfect license scissors reflect first today cactus";
+var mnemonic = "normal dwarf want box dizzy anger vehicle demise right glove treat festival";

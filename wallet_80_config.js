@@ -1,1 +1,1 @@
-var mnemonic = "meat bus exist ostrich track cupboard either album curve friend tell what";
+var mnemonic = "gas hire verify feel catalog gift animal fish you sister doctor high";

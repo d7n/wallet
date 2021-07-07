@@ -1,1 +1,1 @@
-var mnemonic = "ritual situate bag olympic call garlic public faith spoil pupil cake tail";
+var mnemonic = "reunion year front glue put rug cinnamon useless gorilla butter witness naive";

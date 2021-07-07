@@ -1,1 +1,1 @@
-var mnemonic = "wing perfect lamp creek gospel desert clog device gift jazz seat penalty";
+var mnemonic = "job you oval wife mass gentle cycle movie increase universe surge urge";

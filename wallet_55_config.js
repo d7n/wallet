@@ -1,1 +1,1 @@
-var mnemonic = "orbit hope acid pulse retreat lamp exact smile universe logic farm upset";
+var mnemonic = "wrong abuse keen length hero disagree best jaguar parade brain warrior caution";

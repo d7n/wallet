@@ -1,1 +1,1 @@
-var mnemonic = "shoot tell alter resemble burden conduct vacuum crack cheap february hip such";
+var mnemonic = "airport just envelope radio muscle grocery stamp project tray bar leaf together";

@@ -1,1 +1,1 @@
-var mnemonic = "virus doll jelly curve clean crop afford wish rib scatter moon keen";
+var mnemonic = "pyramid human renew hidden skate negative soul ride tuition picture paper shoe";

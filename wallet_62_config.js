@@ -1,1 +1,1 @@
-var mnemonic = "silk anchor gauge crystal term derive cat mail void state choose song";
+var mnemonic = "wisdom there weird blouse heavy certain horse broccoli soccer arrange insane swing";

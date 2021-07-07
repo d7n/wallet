@@ -1,1 +1,1 @@
-var mnemonic = "myth merry rough winner decline industry library metal matrix mesh hood purity";
+var mnemonic = "sketch unfair toast nuclear lady alien cycle eager kitten later original poverty";

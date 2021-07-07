@@ -1,1 +1,1 @@
-var mnemonic = "baby into onion result close normal volume coil canoe seed explain stand";
+var mnemonic = "surround access crawl donkey fragile game antique run also margin leisure will";

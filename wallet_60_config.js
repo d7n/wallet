@@ -1,1 +1,1 @@
-var mnemonic = "famous decade invite vanish eternal glove tilt foil nest tortoise zero crash";
+var mnemonic = "buffalo kangaroo metal kitchen tilt turkey climb lunch cargo allow hair rare";

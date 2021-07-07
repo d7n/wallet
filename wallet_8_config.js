@@ -1,1 +1,1 @@
-var mnemonic = "slush risk inform armed height sunny denial mad snake erase reason series";
+var mnemonic = "park flag donkey dad brand easily warfare mansion final worry impulse below";

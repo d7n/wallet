@@ -1,1 +1,1 @@
-var mnemonic = "situate saddle convince promote shy erosion melt swamp tunnel foster song claim";
+var mnemonic = "symbol pigeon endless bone total pink club enjoy labor canal tourist two";

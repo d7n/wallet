@@ -1,1 +1,1 @@
-var mnemonic = "reveal need village undo rude polar eyebrow scissors remove seminar umbrella judge";
+var mnemonic = "shop chief source victory smoke demise under lazy wreck fit prepare file";

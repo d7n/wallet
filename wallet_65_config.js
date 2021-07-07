@@ -1,1 +1,1 @@
-var mnemonic = "spider section luxury myth crew amazing piano remove echo frog kitchen teach";
+var mnemonic = "crystal reunion approve that soap owner youth cement friend screen dune whip";

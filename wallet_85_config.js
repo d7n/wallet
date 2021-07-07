@@ -1,1 +1,1 @@
-var mnemonic = "flame light recall behave throw goat practice unknown fade hero critic worry";
+var mnemonic = "bamboo version grid crouch stumble tired pelican myself lend sustain dream sister";

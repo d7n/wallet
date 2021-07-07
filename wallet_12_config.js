@@ -1,1 +1,1 @@
-var mnemonic = "usage document skate crowd once napkin custom glove appear inhale champion fatigue";
+var mnemonic = "situate deer naive inhale question item forget baby horn easily stage frozen";

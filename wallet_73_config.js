@@ -1,1 +1,1 @@
-var mnemonic = "joke cricket question broom inherit surface jungle letter elevator coast prosper giggle";
+var mnemonic = "rookie wrestle umbrella inflict foot hidden shadow foam tunnel crystal team gloom";

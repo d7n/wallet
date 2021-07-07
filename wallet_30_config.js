@@ -1,1 +1,1 @@
-var mnemonic = "hawk afford mansion win focus stairs gorilla twelve humor marble sunny code";
+var mnemonic = "surge miracle flag three model blush either winner state address bomb length";

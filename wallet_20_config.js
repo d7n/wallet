@@ -1,1 +1,1 @@
-var mnemonic = "orchard nature model belt monster candy chest ten invite purity unveil hole";
+var mnemonic = "solution rookie purse frost extend rigid donkey code purpose forward title swing";

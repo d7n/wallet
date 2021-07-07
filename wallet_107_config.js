@@ -1,1 +1,1 @@
-var mnemonic = "bamboo ivory fog borrow metal pluck wood equal horn neutral dish sorry";
+var mnemonic = "small lock search seven dream below exist actor there hill boss grape";

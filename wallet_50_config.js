@@ -1,1 +1,1 @@
-var mnemonic = "wasp want question island walk patch general math host ranch inside census";
+var mnemonic = "card spider sweet domain panel flip task potato charge light uphold praise";
