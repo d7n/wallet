@@ -1,1 +1,1 @@
-var mnemonic = "vault sentence body select select pulse foster discover true inject escape song";
+var mnemonic = "gentle rice other diary cotton key banner bird detail estate mix sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "come crowd woman awake lottery blur tortoise toss absurd strike horn dinner";
+var mnemonic = "please under vintage material yellow scale finger own august stock primary iron";

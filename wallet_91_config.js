@@ -1,1 +1,1 @@
-var mnemonic = "indoor matter radio coconut select picture bachelor layer obey match tackle debris";
+var mnemonic = "resemble book cream hamster smooth clown dinosaur flight clarify icon clinic wife";

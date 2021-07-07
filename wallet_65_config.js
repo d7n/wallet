@@ -1,1 +1,1 @@
-var mnemonic = "gloom luxury surface season camera window clap meadow source fence ask shoot";
+var mnemonic = "cream law wool border capital fun sense observe dynamic scrub gym idea";

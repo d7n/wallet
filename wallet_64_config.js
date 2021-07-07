@@ -1,1 +1,1 @@
-var mnemonic = "soul bitter pretty solar vintage blanket actress hero update scale void mystery";
+var mnemonic = "evil rent treat invest reject survey service tackle armed hill amazing outside";

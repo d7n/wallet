@@ -1,1 +1,1 @@
-var mnemonic = "charge reform december ostrich wonder salon donate magic field quiz debris margin";
+var mnemonic = "pass such permit physical nature cruel hello nasty staff hen divert fork";

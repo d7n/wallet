@@ -1,1 +1,1 @@
-var mnemonic = "earn street dumb canal toy human engage impulse forget supply season aerobic";
+var mnemonic = "joke address snow danger border cause sea lend burst mom concert turkey";

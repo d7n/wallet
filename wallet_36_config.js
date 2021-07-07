@@ -1,1 +1,1 @@
-var mnemonic = "accuse vocal margin blame snap boy bicycle can paper slim city skin";
+var mnemonic = "cement lunar spray identify surprise reunion fringe hope melt camera entire size";

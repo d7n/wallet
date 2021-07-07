@@ -1,1 +1,1 @@
-var mnemonic = "attend shadow unaware wife announce jewel pitch dice slim bunker verb dose";
+var mnemonic = "goat merge eight click ugly pact fresh screen steak boy eternal picnic";

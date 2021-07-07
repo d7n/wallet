@@ -1,1 +1,1 @@
-var mnemonic = "custom little limit electric spare lift flight kid swing town tenant cereal";
+var mnemonic = "leopard minute oven wet monitor mountain mom opera blood stove script track";

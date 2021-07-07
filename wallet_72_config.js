@@ -1,1 +1,1 @@
-var mnemonic = "version soft staff slender banana engine collect whisper opera car metal fine";
+var mnemonic = "debate tattoo illness fix tortoise disorder solid problem cricket trash object seminar";

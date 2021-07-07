@@ -1,1 +1,1 @@
-var mnemonic = "history april ensure rapid car bright river either awake mountain shallow section";
+var mnemonic = "warfare parent inmate guilt effort cube pluck traffic hand decade kite grant";

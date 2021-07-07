@@ -1,1 +1,1 @@
-var mnemonic = "amused unfold ignore more merge media emerge useless vendor snow wire oval";
+var mnemonic = "video vacant shuffle chair blanket hold library develop aisle elegant system gloom";

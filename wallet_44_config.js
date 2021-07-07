@@ -1,1 +1,1 @@
-var mnemonic = "illegal asset race badge quantum boss rate shell artefact manual champion assist";
+var mnemonic = "antenna arrive endless inch coast usual alcohol age depart actress equip bar";

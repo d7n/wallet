@@ -1,1 +1,1 @@
-var mnemonic = "digital evoke leisure utility miracle robust discover area connect slight foil consider";
+var mnemonic = "ritual express next exhibit cement start crack pond little cigar virus vehicle";

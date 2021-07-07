@@ -1,1 +1,1 @@
-var mnemonic = "soap window radio amateur cruel lawsuit cluster catalog spike identify kiss cinnamon";
+var mnemonic = "detail pistol trial cousin flip admit blush unusual wisdom detect harvest venue";

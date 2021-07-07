@@ -1,1 +1,1 @@
-var mnemonic = "table age letter guilt device fault wealth artist knee require hollow clay";
+var mnemonic = "man never naive usage legend concert shell mimic sport pluck twelve kitchen";

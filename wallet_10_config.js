@@ -1,1 +1,1 @@
-var mnemonic = "risk juice path wise initial grant across rookie easily inside tenant exit";
+var mnemonic = "return great spoil wall also solid able canvas depend legal spatial uncover";

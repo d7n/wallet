@@ -1,1 +1,1 @@
-var mnemonic = "lamp clay pact verify blanket more hunt globe fold advice talent seek";
+var mnemonic = "hood duty reform hospital loud neither black occur mass acoustic sorry kidney";

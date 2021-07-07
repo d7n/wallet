@@ -1,1 +1,1 @@
-var mnemonic = "master sight quit basic twelve snap follow option april language nice talk";
+var mnemonic = "magnet peanut skirt soul fluid okay aerobic crowd purpose oak ten quit";

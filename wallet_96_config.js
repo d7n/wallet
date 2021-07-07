@@ -1,1 +1,1 @@
-var mnemonic = "typical mix umbrella rapid call toilet desert indicate garlic speed gym way";
+var mnemonic = "vicious ready bleak borrow ecology canvas sing sunset shoulder two myself autumn";

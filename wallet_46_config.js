@@ -1,1 +1,1 @@
-var mnemonic = "stomach rescue gasp hour cry nephew breeze cycle quantum echo enhance invite";
+var mnemonic = "lemon phrase keen leaf remind stereo solution tape setup ladder require save";

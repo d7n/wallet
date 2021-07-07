@@ -1,1 +1,1 @@
-var mnemonic = "draft romance journey dignity envelope penalty erupt rigid diagram forward evolve napkin";
+var mnemonic = "truth indoor express spider squeeze farm core hawk stove order firm clarify";

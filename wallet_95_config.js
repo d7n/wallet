@@ -1,1 +1,1 @@
-var mnemonic = "color add accident three awesome permit canvas cable bread trigger like evil";
+var mnemonic = "satoshi leave smart about rich unfair extra affair layer essay arm buddy";

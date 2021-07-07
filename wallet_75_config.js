@@ -1,1 +1,1 @@
-var mnemonic = "wrist visa worth cannon pole hero skin type record park label gas";
+var mnemonic = "way bag labor tape prosper another blanket wrestle praise twin major rescue";

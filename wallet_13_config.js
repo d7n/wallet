@@ -1,1 +1,1 @@
-var mnemonic = "illegal fan twenty ginger grape trumpet emotion educate robust symbol learn employ";
+var mnemonic = "creek coral secret junk sound language tail vacant coast raw tongue gorilla";

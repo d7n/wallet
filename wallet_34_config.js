@@ -1,1 +1,1 @@
-var mnemonic = "behave learn tray nice traffic train topple chair minor scorpion glide unaware";
+var mnemonic = "cruise insane soft flee drop level napkin charge error will solve grain";

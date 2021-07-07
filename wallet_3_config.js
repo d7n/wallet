@@ -1,1 +1,1 @@
-var mnemonic = "toy frown race burden super joy battle music slab arrest adjust voyage";
+var mnemonic = "laundry step bulk pilot fade flight drastic dragon love divorce speed black";

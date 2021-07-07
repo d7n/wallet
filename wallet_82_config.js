@@ -1,1 +1,1 @@
-var mnemonic = "depth rail soul evolve annual current margin grape virtual hair ship sheriff";
+var mnemonic = "icon prize cargo myself nasty fun imitate chicken zone future become moon";

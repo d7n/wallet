@@ -1,1 +1,1 @@
-var mnemonic = "coconut cement dry couple finish exhaust suit access solid squeeze license enrich";
+var mnemonic = "cotton common boat hand race choice rice bean mansion occur edit plug";

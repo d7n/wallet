@@ -1,1 +1,1 @@
-var mnemonic = "thank toe funny egg napkin carbon lonely hello trust birth wreck keep";
+var mnemonic = "pride city grab worth spread melody analyst traffic caution sugar power staff";

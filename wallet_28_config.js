@@ -1,1 +1,1 @@
-var mnemonic = "disease water silly napkin target trap detect lava please rival sword sorry";
+var mnemonic = "cinnamon reveal waste sketch wife also little noise elite casino impose sister";

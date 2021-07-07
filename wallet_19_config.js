@@ -1,1 +1,1 @@
-var mnemonic = "lunch tuna icon lawsuit fancy tragic fitness strategy stick kangaroo priority monkey";
+var mnemonic = "mule another announce review hair dog action child doctor rail sense accident";

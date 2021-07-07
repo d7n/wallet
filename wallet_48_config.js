@@ -1,1 +1,1 @@
-var mnemonic = "know version venue toward rebel talk indicate tornado lecture fancy artwork jazz";
+var mnemonic = "regret assist grain abuse useful word belt grab ride clean essence pluck";

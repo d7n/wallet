@@ -1,1 +1,1 @@
-var mnemonic = "slice traffic legend leisure churn six unhappy history inside fox section account";
+var mnemonic = "knock east relax improve wave amateur pistol absurd slight trick indicate pencil";

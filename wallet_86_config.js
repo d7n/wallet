@@ -1,1 +1,1 @@
-var mnemonic = "range panther nuclear film surround crash next daring glance funny uncover sting";
+var mnemonic = "ability sea dirt smart upon special unfair logic kiss funny actual boss";

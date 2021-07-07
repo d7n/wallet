@@ -1,1 +1,1 @@
-var mnemonic = "join home perfect easy slight people boring fiscal grocery plug flush pen";
+var mnemonic = "soap zone sun economy spin document artwork round item student erode spirit";

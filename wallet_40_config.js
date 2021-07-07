@@ -1,1 +1,1 @@
-var mnemonic = "physical forest scheme like either employ valid joy smile dial brave hungry";
+var mnemonic = "digital desk vendor blood kitchen begin crouch profit salmon execute rebuild hub";

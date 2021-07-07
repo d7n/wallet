@@ -1,1 +1,1 @@
-var mnemonic = "fold blossom pig sadness annual release exercise deer fruit someone enroll cliff";
+var mnemonic = "infant loop wonder pizza eagle obscure give summer common team news illegal";

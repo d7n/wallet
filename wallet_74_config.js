@@ -1,1 +1,1 @@
-var mnemonic = "company wagon convince same avocado hammer slim flash execute subway black remove";
+var mnemonic = "letter regular creek talent year retreat final canal manual report cook wise";

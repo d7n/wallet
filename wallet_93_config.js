@@ -1,1 +1,1 @@
-var mnemonic = "town maple style tiny tiger spring dice allow safe vintage monitor icon";
+var mnemonic = "diesel deal kiss degree offer lesson define great clerk recycle total fence";

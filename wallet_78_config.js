@@ -1,1 +1,1 @@
-var mnemonic = "snap section once truly come hover actor burst demise seed fantasy weasel";
+var mnemonic = "bundle barely better side rotate uniform oak narrow museum limb exotic ritual";

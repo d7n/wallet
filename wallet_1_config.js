@@ -1,1 +1,1 @@
-var mnemonic = "estate remain wolf grape athlete cost eyebrow umbrella second tomato deposit happy";
+var mnemonic = "vintage road baby census lumber chimney genius tourist mass very beef various";

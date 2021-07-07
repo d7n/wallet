@@ -1,1 +1,1 @@
-var mnemonic = "tip order skirt breeze tackle index merit return call require arrow bulb";
+var mnemonic = "shadow pelican approve audit weapon great file bone virtual suit beach evidence";

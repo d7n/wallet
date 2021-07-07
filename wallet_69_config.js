@@ -1,1 +1,1 @@
-var mnemonic = "omit buffalo torch enable exotic almost spider movie stick taste miracle card";
+var mnemonic = "plastic deliver tree august crumble cube wish armed erase head daughter december";

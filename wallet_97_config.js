@@ -1,1 +1,1 @@
-var mnemonic = "try attend update oil bone nothing this loyal rabbit legend castle bargain";
+var mnemonic = "toe coast empty wear toast clean smoke source arrow image faint poem";

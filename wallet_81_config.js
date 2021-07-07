@@ -1,1 +1,1 @@
-var mnemonic = "note robot crawl cube clutch pluck text census middle truck exit chest";
+var mnemonic = "crowd task bunker pyramid fun grant capital royal acquire hurt antique zone";

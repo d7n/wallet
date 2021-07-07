@@ -1,1 +1,1 @@
-var mnemonic = "kiss faculty denial balcony supreme monkey sudden stock gap social combine crunch";
+var mnemonic = "love surprise ocean shock entire weird access ribbon text urge drip know";

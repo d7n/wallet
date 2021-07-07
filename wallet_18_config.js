@@ -1,1 +1,1 @@
-var mnemonic = "hold prefer mandate boss enjoy inherit resource frozen display setup neck ill";
+var mnemonic = "jelly runway buzz inspire trash era hedgehog giggle right green fuel switch";

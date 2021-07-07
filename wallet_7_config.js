@@ -1,1 +1,1 @@
-var mnemonic = "common baby buffalo holiday cherry catalog shine crop arctic patch maid clever";
+var mnemonic = "exhaust infant team gasp snake manage clean trigger fiction dice nature sign";

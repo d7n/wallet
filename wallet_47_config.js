@@ -1,1 +1,1 @@
-var mnemonic = "humor suit harbor brass unlock nurse twist captain dune pretty vessel recall";
+var mnemonic = "daughter chair stool blush diamond bubble occur lonely lounge require rack sketch";

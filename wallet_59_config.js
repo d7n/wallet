@@ -1,1 +1,1 @@
-var mnemonic = "broccoli approve fuel demise diary blur gorilla fit museum hawk faint example";
+var mnemonic = "vessel mix laugh note minimum tenant match memory rookie prevent zero skate";

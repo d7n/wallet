@@ -1,1 +1,1 @@
-var mnemonic = "grit novel below sound walnut reward couple camera hamster roof lion feature";
+var mnemonic = "velvet trap dawn humble width elevator world win swing alone van gate";

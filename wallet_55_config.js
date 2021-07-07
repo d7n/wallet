@@ -1,1 +1,1 @@
-var mnemonic = "cart rely fresh tomato alert glad genuine shock tragic method gasp proof";
+var mnemonic = "salt more account color flag tired bounce genius husband assist effort era";

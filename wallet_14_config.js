@@ -1,1 +1,1 @@
-var mnemonic = "cotton lazy skin artefact valve garage license rigid topple ethics flush antenna";
+var mnemonic = "february vessel level decide walnut park another tenant mimic beach abuse ivory";

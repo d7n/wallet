@@ -1,1 +1,1 @@
-var mnemonic = "drive artist real soft seven actress pudding winter note below brown veteran";
+var mnemonic = "naive security genre vapor visa marriage leisure soul tattoo danger virtual blood";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness neither gesture blur idea master dress raccoon choose airport hill reform";
+var mnemonic = "clock axis prepare mimic genuine grief senior seven series else vintage undo";

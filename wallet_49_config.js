@@ -1,1 +1,1 @@
-var mnemonic = "average axis fiction busy weekend duty suit faint egg rack link used";
+var mnemonic = "tone sword awful burst success head marble fatigue play gas draw heavy";

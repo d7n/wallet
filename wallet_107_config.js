@@ -1,1 +1,1 @@
-var mnemonic = "discover unit acid screen oil carbon filter poet sight tuition honey jungle";
+var mnemonic = "strong paddle aerobic shy list proof say pelican loyal outer embark fit";

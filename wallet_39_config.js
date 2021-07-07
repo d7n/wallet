@@ -1,1 +1,1 @@
-var mnemonic = "shallow grab stairs north crater valley season bean cousin couple cup blouse";
+var mnemonic = "desert muffin alert once output lens verify old bachelor arrow voyage amazing";

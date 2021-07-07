@@ -1,1 +1,1 @@
-var mnemonic = "timber elbow forward brass expect advance tide muffin surprise flash pave exhaust";
+var mnemonic = "beyond enhance depart flee monster fade swim clarify remove doctor hurdle capital";

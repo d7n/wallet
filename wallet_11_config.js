@@ -1,1 +1,1 @@
-var mnemonic = "exit noble scheme reject anxiety loud glue follow dish cluster shallow twin";
+var mnemonic = "clever wait mirror nation skin sting uncover mandate frog subject loop olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "cook tray uncle worry bring injury climb delay banner tell joy raven";
+var mnemonic = "bind employ front tenant trigger crisp quantum eye pottery outside antique account";

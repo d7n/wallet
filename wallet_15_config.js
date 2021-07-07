@@ -1,1 +1,1 @@
-var mnemonic = "found era sibling diesel escape pave gossip tower census auction snack sibling";
+var mnemonic = "east theory nature luggage chicken recycle kind nothing december lottery forest bulk";

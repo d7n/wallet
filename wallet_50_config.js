@@ -1,1 +1,1 @@
-var mnemonic = "floor describe person purchase sauce false inmate expect circle jeans coil powder";
+var mnemonic = "invite drive liberty wonder actor column select credit pave supply repeat paddle";

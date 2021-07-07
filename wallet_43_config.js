@@ -1,1 +1,1 @@
-var mnemonic = "salt since squirrel hurdle secret typical ten miss ship fog flavor industry";
+var mnemonic = "inherit palace genre notable fly wrong object cabin lend cute ramp pyramid";

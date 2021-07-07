@@ -1,1 +1,1 @@
-var mnemonic = "plunge hood army believe crazy traffic monster often blood notice trend able";
+var mnemonic = "veteran patient blossom limit evoke vanish float approve risk apology verb venture";

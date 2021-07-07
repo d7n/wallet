@@ -1,1 +1,1 @@
-var mnemonic = "ship series load across jar swim pond three vapor diet orbit rifle";
+var mnemonic = "tourist grab approve brass crisp inch garbage circle uphold equal suggest october";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify lonely target else enter minimum capital pottery nasty purchase fortune human";
+var mnemonic = "secret either cricket swap typical jump gap hip erupt impact soul such";

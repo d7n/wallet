@@ -1,1 +1,1 @@
-var mnemonic = "guilt wide magnet utility valley unlock useful settle mechanic plate attack agent";
+var mnemonic = "please outside obtain foster doctor illness arm end twenty muffin miss bridge";

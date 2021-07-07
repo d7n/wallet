@@ -1,1 +1,1 @@
-var mnemonic = "mask toe carry miss cash vast mountain access fork burger boost bomb";
+var mnemonic = "soap divorce resemble funny asthma sleep sound film about glide mixed air";

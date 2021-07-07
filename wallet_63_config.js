@@ -1,1 +1,1 @@
-var mnemonic = "margin humor void pill basic wisdom clerk lens eternal body ritual father";
+var mnemonic = "club across feature flee misery captain worth update portion tired piece dash";

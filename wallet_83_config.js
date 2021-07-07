@@ -1,1 +1,1 @@
-var mnemonic = "half empower garment zoo aisle raccoon switch survey salmon mandate elder crop";
+var mnemonic = "off barrel live oppose tobacco fox pave require ahead afford test mimic";

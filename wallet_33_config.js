@@ -1,1 +1,1 @@
-var mnemonic = "diary witness shaft sting kind build runway this sad jungle hub peanut";
+var mnemonic = "spider dolphin wide situate whale property fog drum night valve inside suggest";

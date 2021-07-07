@@ -1,1 +1,1 @@
-var mnemonic = "lava core box fog drive vault final pink valid blast town gap";
+var mnemonic = "outside fit million pause assume extra spice thumb awake dawn mosquito aim";

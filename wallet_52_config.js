@@ -1,1 +1,1 @@
-var mnemonic = "cart mandate hungry summer certain priority sweet jaguar elbow accuse thunder crowd";
+var mnemonic = "sudden push company skin uniform machine portion crew horror tissue day tiny";

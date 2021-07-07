@@ -1,1 +1,1 @@
-var mnemonic = "chair clever major nothing carry inhale raise wage proud mobile tribe romance";
+var mnemonic = "student bitter another method spend cabin crop exact scrap quick angry mouse";

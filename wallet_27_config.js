@@ -1,1 +1,1 @@
-var mnemonic = "paddle dinner baby able gym define inject unable flash system section sweet";
+var mnemonic = "ski clutch almost ticket coast media path supply universe vicious shuffle fish";

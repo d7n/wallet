@@ -1,1 +1,1 @@
-var mnemonic = "endless inject library hope right proof uncover cabbage great subject member spot";
+var mnemonic = "pass film prevent stumble island arrive minor forget clinic patrol perfect riot";

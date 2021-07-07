@@ -1,1 +1,1 @@
-var mnemonic = "hand lens domain favorite wisdom crisp pear blanket prize shoe label accuse";
+var mnemonic = "girl honey divorce kiss fiscal pear milk leave excuse into cause electric";

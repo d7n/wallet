@@ -1,1 +1,1 @@
-var mnemonic = "gown body minimum merit body fish engine leader myth race coach mushroom";
+var mnemonic = "key palace voyage oil talent delay other danger leg rent airport wave";

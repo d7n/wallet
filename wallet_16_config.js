@@ -1,1 +1,1 @@
-var mnemonic = "welcome sauce future shallow agree mountain taxi elite drive black beef entire";
+var mnemonic = "mother window plug scout fan bachelor notice pudding finish tell saddle abuse";

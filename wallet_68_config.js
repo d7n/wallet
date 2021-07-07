@@ -1,1 +1,1 @@
-var mnemonic = "rice grace mask empower produce where pumpkin business pottery come clean board";
+var mnemonic = "impulse borrow chimney erode casual opinion solve luxury exchange current own come";

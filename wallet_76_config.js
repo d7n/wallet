@@ -1,1 +1,1 @@
-var mnemonic = "wash input rack copper inhale barrel weather junk rocket among bring pyramid";
+var mnemonic = "angle useful giraffe another region tenant cement frown violin cover major beach";

@@ -1,1 +1,1 @@
-var mnemonic = "extra arch curve cherry machine resist initial job search nose bring history";
+var mnemonic = "egg direct release praise people faculty tuition travel dune brass swap few";

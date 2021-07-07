@@ -1,1 +1,1 @@
-var mnemonic = "green floor stable insect such random build future core goddess machine book";
+var mnemonic = "dad sniff random expand proof wheat please wash cube mushroom sting various";

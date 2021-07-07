@@ -1,1 +1,1 @@
-var mnemonic = "adjust swing cloud cool honey together apple skate man priority glue detail";
+var mnemonic = "jazz equal goat barrel view perfect nerve loan message area loyal rocket";

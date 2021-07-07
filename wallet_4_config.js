@@ -1,1 +1,1 @@
-var mnemonic = "inflict hat couple dynamic cruise nature square swing model inner tunnel soldier";
+var mnemonic = "involve moral suffer leaf gold ranch noble wall calm globe attitude cream";
