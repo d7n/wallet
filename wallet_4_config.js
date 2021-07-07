@@ -1,1 +1,1 @@
-var mnemonic = "course inform purpose panic crystal pact urge faith trick lock cage smoke";
+var mnemonic = "occur ticket screen vessel river roast announce shed enter master renew strong";

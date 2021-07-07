@@ -1,1 +1,1 @@
-var mnemonic = "betray client tent pyramid sick list expand worry reason excite uncle medal";
+var mnemonic = "hub life rice girl bag stock rookie relax mixed march fame debris";

@@ -1,1 +1,1 @@
-var mnemonic = "script peace derive matter section nothing above walk wish baby cry jelly";
+var mnemonic = "shuffle nest mansion view trend frozen eagle pride confirm inmate lift choice";

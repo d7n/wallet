@@ -1,1 +1,1 @@
-var mnemonic = "write virus buzz lend again inherit dice brass ability clown hero poet";
+var mnemonic = "oval insane cousin develop dolphin sadness kiwi amateur chunk favorite all bubble";

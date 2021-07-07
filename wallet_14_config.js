@@ -1,1 +1,1 @@
-var mnemonic = "service above boil electric ordinary advance tone swear beach joke flash valley";
+var mnemonic = "cram bar wine ridge worth girl where flash impulse mechanic atom soup";

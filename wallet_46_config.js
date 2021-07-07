@@ -1,1 +1,1 @@
-var mnemonic = "cup clap example act few category better trend notable delay ancient advice";
+var mnemonic = "outside attitude puzzle radar brand dismiss waste void inform spend clump second";

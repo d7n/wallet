@@ -1,1 +1,1 @@
-var mnemonic = "magic element puppy hazard blue match barrel asset room impact arena identify";
+var mnemonic = "gauge orient diet finish tone smart switch pipe general stone wrap despair";

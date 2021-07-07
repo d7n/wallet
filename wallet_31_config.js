@@ -1,1 +1,1 @@
-var mnemonic = "damage heavy dwarf example crystal mango argue school skirt river useful deer";
+var mnemonic = "alert same lend atom choose pig lion collect casual purity screen misery";

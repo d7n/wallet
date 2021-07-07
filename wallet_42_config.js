@@ -1,1 +1,1 @@
-var mnemonic = "vendor pelican amateur say audit hedgehog borrow render seat carpet edit awful";
+var mnemonic = "picture wild sponsor mom bridge embrace sadness zero sphere vibrant attract alone";

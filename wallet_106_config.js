@@ -1,1 +1,1 @@
-var mnemonic = "minute heavy derive child gain tooth between vibrant aunt catch bridge sort";
+var mnemonic = "vague gadget kick identify route various flee knock goddess culture student table";

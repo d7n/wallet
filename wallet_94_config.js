@@ -1,1 +1,1 @@
-var mnemonic = "bind sibling sport wall ordinary young pond must luxury high always tuition";
+var mnemonic = "soft metal clown leopard arrive bundle season copy train pilot boring smart";

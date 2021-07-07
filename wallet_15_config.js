@@ -1,1 +1,1 @@
-var mnemonic = "spin clog imitate stool fan vibrant habit lucky disagree soda hurt clump";
+var mnemonic = "seed joke sibling garlic south weird topple feel copy word nothing easy";

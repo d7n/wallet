@@ -1,1 +1,1 @@
-var mnemonic = "write bag gallery area student impose artefact nature unaware entire breeze mobile";
+var mnemonic = "edit paper hard champion toe wood track volcano mandate urge duty oval";

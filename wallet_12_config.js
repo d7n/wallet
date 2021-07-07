@@ -1,1 +1,1 @@
-var mnemonic = "mirror absurd output plug march charge shove mention absent runway cactus mouse";
+var mnemonic = "damp ostrich number lazy add situate child fee garden menu east reason";

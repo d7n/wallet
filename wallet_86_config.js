@@ -1,1 +1,1 @@
-var mnemonic = "super food steel amazing egg chaos slush scrap pumpkin betray fatigue coil";
+var mnemonic = "host butter hungry burden perfect scissors seminar wedding search develop budget seed";

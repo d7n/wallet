@@ -1,1 +1,1 @@
-var mnemonic = "card dish dish matrix alter setup nurse hour artwork mouse enrich mystery";
+var mnemonic = "balcony antenna lesson nose relief wood mistake large crack search slush pink";

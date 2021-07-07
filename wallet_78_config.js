@@ -1,1 +1,1 @@
-var mnemonic = "shield kit someone mirror milk bronze credit slide thank brisk wait blur";
+var mnemonic = "early carpet earth salmon today blade salmon frozen mistake wheat super rail";

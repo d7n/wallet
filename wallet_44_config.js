@@ -1,1 +1,1 @@
-var mnemonic = "live stem couple shrimp acquire theory capital inside lonely another circle member";
+var mnemonic = "bike deputy prosper wrong effort ring load garbage fossil sword post napkin";

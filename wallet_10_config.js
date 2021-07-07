@@ -1,1 +1,1 @@
-var mnemonic = "true acquire horse amateur decrease layer young lazy beauty obtain vintage major";
+var mnemonic = "vital horror adapt funny sibling doll brown decrease rug ankle wealth hover";

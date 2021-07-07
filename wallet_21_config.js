@@ -1,1 +1,1 @@
-var mnemonic = "undo finger panel ship permit manual relief sniff honey drip laptop nephew";
+var mnemonic = "match bag kite rapid abstract program glimpse abandon oven wagon treat chicken";

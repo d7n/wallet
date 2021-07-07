@@ -1,1 +1,1 @@
-var mnemonic = "magnet used place service buyer actor need drift ship illegal army hand";
+var mnemonic = "bamboo giggle pass awesome brother oblige strike oil output purity casual talent";

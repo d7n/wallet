@@ -1,1 +1,1 @@
-var mnemonic = "labor valley canal skirt prepare cruise uphold blood shoe win awesome museum";
+var mnemonic = "cliff divorce glimpse practice junk build midnight essay someone wage sustain shrimp";

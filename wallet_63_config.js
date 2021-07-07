@@ -1,1 +1,1 @@
-var mnemonic = "demand grain december search advice warfare supreme slender coil organ route screen";
+var mnemonic = "crash calm when holiday taste kiss empower ten talent appear tobacco skull";

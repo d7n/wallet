@@ -1,1 +1,1 @@
-var mnemonic = "ginger text once near ahead chaos warfare matter begin kitten easily gadget";
+var mnemonic = "actor whisper burst gadget okay river secret elite know reform absorb cliff";

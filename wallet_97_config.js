@@ -1,1 +1,1 @@
-var mnemonic = "ostrich caught despair jar board broom empower trumpet pair that negative cactus";
+var mnemonic = "soccer such move deliver secret upper guess chaos cargo teach luxury judge";

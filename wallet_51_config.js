@@ -1,1 +1,1 @@
-var mnemonic = "spray vote fiscal rescue still zoo couple dose clip execute winner ask";
+var mnemonic = "human curious trim stadium pizza need update since axis canvas retreat guilt";

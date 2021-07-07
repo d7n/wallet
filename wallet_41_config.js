@@ -1,1 +1,1 @@
-var mnemonic = "purchase entry picnic team infant depart robot embark derive wine pig example";
+var mnemonic = "member reform unusual family spell recall lamp wife lottery expose vocal hire";

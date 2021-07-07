@@ -1,1 +1,1 @@
-var mnemonic = "twelve spy special pencil broom adjust rent flag tiny canal two task";
+var mnemonic = "minute rabbit beach polar zoo pave fun crumble tissue remind educate hungry";

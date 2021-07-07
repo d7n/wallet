@@ -1,1 +1,1 @@
-var mnemonic = "stairs author leaf method banner nut bubble wrestle thank stomach stone crop";
+var mnemonic = "casual rigid grab empty luxury pulse include raven snap fun lift twice";

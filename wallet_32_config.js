@@ -1,1 +1,1 @@
-var mnemonic = "squeeze churn chair dry pulse mind almost icon man brother wrong staff";
+var mnemonic = "wage witness spot inform immense song warrior opera market clinic pipe credit";

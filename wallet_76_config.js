@@ -1,1 +1,1 @@
-var mnemonic = "race obvious soon leg jeans nation believe song grit blossom post fee";
+var mnemonic = "fashion sunset struggle endless south solve cruise awake select easy cheese object";

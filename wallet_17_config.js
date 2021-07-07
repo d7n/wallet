@@ -1,1 +1,1 @@
-var mnemonic = "jeans wing stuff warrior vast reopen glove album pause grow inhale spice";
+var mnemonic = "above hood whale expand fatal woman regular turtle save play match orbit";

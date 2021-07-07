@@ -1,1 +1,1 @@
-var mnemonic = "monkey fine feed mimic enrich candy warm lemon weapon fire display loan";
+var mnemonic = "convince grid burger mansion toy push mistake opinion surface panel ball clay";

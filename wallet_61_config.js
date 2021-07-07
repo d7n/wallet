@@ -1,1 +1,1 @@
-var mnemonic = "fuel burger laugh hip ethics menu cactus wrestle answer camera horn use";
+var mnemonic = "bid dance resist result gather sibling live frame raccoon bachelor cherry theory";

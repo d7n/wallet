@@ -1,1 +1,1 @@
-var mnemonic = "slot raven settle drastic marble fruit ecology toast area math that grace";
+var mnemonic = "midnight student rotate echo idea doctor muscle blanket nurse fire head target";

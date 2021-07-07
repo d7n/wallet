@@ -1,1 +1,1 @@
-var mnemonic = "else social deliver include emotion pair cherry arrow torch slice tent fetch";
+var mnemonic = "sword couch deputy garment aisle moon goat photo tunnel mouse frown island";

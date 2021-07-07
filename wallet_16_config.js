@@ -1,1 +1,1 @@
-var mnemonic = "entry smooth core poem kangaroo tuna time hazard lock hammer consider kiss";
+var mnemonic = "extend little valve horror frame later rate pilot month cool divide mutual";

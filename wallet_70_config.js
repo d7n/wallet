@@ -1,1 +1,1 @@
-var mnemonic = "explain kit frequent corn hero certain pill pattern need above tray shoe";
+var mnemonic = "search kid solid advice federal use march swear allow genuine book talent";

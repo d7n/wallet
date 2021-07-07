@@ -1,1 +1,1 @@
-var mnemonic = "permit abandon oven unknown edge thrive lazy alpha acquire winner argue filter";
+var mnemonic = "path guilt onion fan help erosion script edit seed once flat choice";

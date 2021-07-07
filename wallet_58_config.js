@@ -1,1 +1,1 @@
-var mnemonic = "feel poverty design tape whale enable bronze yellow bounce flag sword dove";
+var mnemonic = "federal shoe cabin fall federal feature method order web crawl circle coyote";

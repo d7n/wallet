@@ -1,1 +1,1 @@
-var mnemonic = "engage obscure tell close history region tuition jacket auto mail acquire ozone";
+var mnemonic = "worth grow never apart wonder hedgehog person fortune lesson obey invite display";

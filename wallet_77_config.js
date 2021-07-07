@@ -1,1 +1,1 @@
-var mnemonic = "toss prison mad nurse trend bitter check eye father cherry summer desert";
+var mnemonic = "history oval gaze oppose slogan outer invest dinner mad renew supply census";

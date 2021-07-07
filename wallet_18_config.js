@@ -1,1 +1,1 @@
-var mnemonic = "position twin slender into meadow horror memory segment planet blast media end";
+var mnemonic = "liar narrow when spatial eight toe save daughter street foot vehicle admit";

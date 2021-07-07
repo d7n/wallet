@@ -1,1 +1,1 @@
-var mnemonic = "elegant cable fiscal start humble boat genre protect news this stem correct";
+var mnemonic = "squeeze frost shuffle welcome blind solar coconut cement leisure menu action disagree";

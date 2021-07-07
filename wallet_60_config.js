@@ -1,1 +1,1 @@
-var mnemonic = "alert pigeon embody bronze type seven share case pattern behind citizen inherit";
+var mnemonic = "gain angle fetch proud stool fish void fatigue memory keep try retire";

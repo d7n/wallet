@@ -1,1 +1,1 @@
-var mnemonic = "possible trumpet clap spider human celery celery welcome prize kit now pepper";
+var mnemonic = "audit head december proof hedgehog forget reason manual uphold exclude peace element";

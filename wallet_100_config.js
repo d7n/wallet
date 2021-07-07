@@ -1,1 +1,1 @@
-var mnemonic = "afford energy shrug snack piece robust wave cattle village clay build price";
+var mnemonic = "empty neither funny agree visual lonely leader speak hard jar uphold swim";

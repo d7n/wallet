@@ -1,1 +1,1 @@
-var mnemonic = "noise pioneer safe lunar yard typical clog use penalty skate idle start";
+var mnemonic = "minimum island nothing pledge farm nerve sunny estate alarm apart balcony balcony";

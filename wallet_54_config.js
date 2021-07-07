@@ -1,1 +1,1 @@
-var mnemonic = "piano fever chair sunny fly couch loan shell swap open mobile blanket";
+var mnemonic = "verify gown bullet alone opera veteran body mother title goat earn tent";

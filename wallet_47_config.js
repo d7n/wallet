@@ -1,1 +1,1 @@
-var mnemonic = "elder vessel rib common found curve clutch pioneer accident doll cat gain";
+var mnemonic = "post path mechanic hello party cotton start turtle accident mutual ripple pet";

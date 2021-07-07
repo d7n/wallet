@@ -1,1 +1,1 @@
-var mnemonic = "bottom dash twin scan chicken boss paddle wealth release meadow mimic mandate";
+var mnemonic = "proud balance era evidence magnet hen climb raccoon butter seven deer bridge";

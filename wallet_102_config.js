@@ -1,1 +1,1 @@
-var mnemonic = "domain holiday cricket sad silly team wish chat monkey elite art castle";
+var mnemonic = "volcano insect embrace renew nurse scout frame meat release tube useful cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle fork museum hawk rebel economy faith sorry isolate forest useful list";
+var mnemonic = "reward sniff champion welcome evil bullet eager long deny obscure gloom enact";

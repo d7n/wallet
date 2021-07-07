@@ -1,1 +1,1 @@
-var mnemonic = "salmon fee beef cry head utility inner cattle skull list human inside";
+var mnemonic = "engine erosion symptom lens bind language rotate random toe very service legal";

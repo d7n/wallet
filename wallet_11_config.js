@@ -1,1 +1,1 @@
-var mnemonic = "jazz maple gas word hidden skill blouse cage airport library silk vibrant";
+var mnemonic = "travel stick dream breeze shield addict where robot dumb popular brass sheriff";

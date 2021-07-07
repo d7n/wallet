@@ -1,1 +1,1 @@
-var mnemonic = "lizard mango lend cup boost guitar fade prize beauty safe gossip owner";
+var mnemonic = "marine enable expect use width piano choice head judge lizard abuse monkey";

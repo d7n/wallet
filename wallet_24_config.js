@@ -1,1 +1,1 @@
-var mnemonic = "above desert pottery butter outer post december prefer country burden category settle";
+var mnemonic = "field chief drastic figure bamboo asset tip blush blood obtain problem vote";

@@ -1,1 +1,1 @@
-var mnemonic = "cave gentle bonus budget speed crouch same rotate amateur join autumn lamp";
+var mnemonic = "report brief dinosaur duck pistol tonight jar seed hunt start fiber early";

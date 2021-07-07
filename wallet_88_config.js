@@ -1,1 +1,1 @@
-var mnemonic = "double bone silent oppose snow proud film copy barrel business leopard idle";
+var mnemonic = "muffin daring biology govern era gas float raven punch bundle address reform";

@@ -1,1 +1,1 @@
-var mnemonic = "return enter rough town series harvest super buddy celery snap surge that";
+var mnemonic = "fire salt rubber brown tooth puzzle disease grant can denial control vehicle";

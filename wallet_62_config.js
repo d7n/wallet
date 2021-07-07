@@ -1,1 +1,1 @@
-var mnemonic = "easy cake fog neutral initial goose salt settle gesture pink example gown";
+var mnemonic = "barely sudden hire predict direct cement derive finish fitness absent bubble sort";

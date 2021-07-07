@@ -1,1 +1,1 @@
-var mnemonic = "bachelor swim denial foot clerk wheel empty hill raise identify flag pizza";
+var mnemonic = "lamp yard duck ritual glue cup embark conduct control neck clerk cinnamon";

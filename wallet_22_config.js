@@ -1,1 +1,1 @@
-var mnemonic = "mixed blouse doll warfare brother into topic excess skirt panda issue scheme";
+var mnemonic = "crop police program debate share pig history impose claim chuckle vanish hen";

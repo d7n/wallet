@@ -1,1 +1,1 @@
-var mnemonic = "rotate salmon install annual man organ accident message scan rely manual essence";
+var mnemonic = "friend dynamic shop wedding action huge feature fan auto shock trade hero";

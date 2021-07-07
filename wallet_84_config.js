@@ -1,1 +1,1 @@
-var mnemonic = "advice rack rule million airport search abstract giraffe ladder smoke mention field";
+var mnemonic = "grab rose tree pencil scout regret adapt youth tail pulp document wage";

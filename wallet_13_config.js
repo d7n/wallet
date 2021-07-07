@@ -1,1 +1,1 @@
-var mnemonic = "street merge desert vintage dance obvious extend order leader razor sing trust";
+var mnemonic = "margin weather smart weapon embark frame rice more multiply divert drum cart";

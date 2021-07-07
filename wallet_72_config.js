@@ -1,1 +1,1 @@
-var mnemonic = "eye hint artist tumble welcome item edge panel boost light bottom bleak";
+var mnemonic = "barely first payment inflict pistol arena side panel diet monkey beef when";

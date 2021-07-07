@@ -1,1 +1,1 @@
-var mnemonic = "method warm alone when patch success lens symptom pass suspect all special";
+var mnemonic = "banana split goose fiscal resource idea dove clip book unhappy foam ketchup";

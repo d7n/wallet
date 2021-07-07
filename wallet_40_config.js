@@ -1,1 +1,1 @@
-var mnemonic = "october ketchup people wink where lottery situate ill spirit yellow place adult";
+var mnemonic = "history gorilla make minor tail emerge movie minor evil rubber vapor connect";

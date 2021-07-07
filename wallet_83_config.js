@@ -1,1 +1,1 @@
-var mnemonic = "uncle coral sausage man connect beef leisure apart oblige exist clump fancy";
+var mnemonic = "future weird suspect harbor board ceiling anxiety cancel hello october tomorrow celery";

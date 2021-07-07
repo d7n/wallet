@@ -1,1 +1,1 @@
-var mnemonic = "dove excess cook cereal sell debris reunion praise mimic panther candy anxiety";
+var mnemonic = "stable diary bread rug exhaust modify feel alley will shrimp fiber stay";

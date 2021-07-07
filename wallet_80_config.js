@@ -1,1 +1,1 @@
-var mnemonic = "ramp tank keep energy correct expose smooth dawn jazz casual music cloth";
+var mnemonic = "young two acoustic venture mutual cost ice office half fortune stove warm";

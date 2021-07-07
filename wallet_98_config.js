@@ -1,1 +1,1 @@
-var mnemonic = "elegant dismiss gossip top engage horror power middle laptop hedgehog step error";
+var mnemonic = "approve tissue language doll beach pulp edge purpose slot chief chunk joy";

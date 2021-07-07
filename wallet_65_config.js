@@ -1,1 +1,1 @@
-var mnemonic = "want panel fix frozen banner opera runway live critic bubble you mixture";
+var mnemonic = "order speak host dinner strategy victory work tool document salmon tiger remain";

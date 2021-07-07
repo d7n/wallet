@@ -1,1 +1,1 @@
-var mnemonic = "essay deputy jazz behind crouch chef feed mad shine steak talent clog";
+var mnemonic = "key provide seek bullet chapter talent fix cart action fresh bridge harsh";

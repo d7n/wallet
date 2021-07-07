@@ -1,1 +1,1 @@
-var mnemonic = "abstract school recycle truck prison clog machine catalog mushroom broccoli frozen sustain";
+var mnemonic = "undo orphan unfair anger combine belt auction police laptop attitude midnight satoshi";

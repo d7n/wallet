@@ -1,1 +1,1 @@
-var mnemonic = "math screen face make hint capital wrong wealth link title fury winter";
+var mnemonic = "cinnamon then muscle slide fabric move maximum carry exotic galaxy garden walnut";

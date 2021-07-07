@@ -1,1 +1,1 @@
-var mnemonic = "cancel gown goose soft lucky easy vacant forget genre width erase secret";
+var mnemonic = "catalog moon occur useful legend practice property fancy inner use subject spike";

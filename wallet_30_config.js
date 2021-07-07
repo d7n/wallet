@@ -1,1 +1,1 @@
-var mnemonic = "aim blouse nephew april swap exchange must unhappy blanket local when profit";
+var mnemonic = "destroy hip cluster extend vote argue habit ugly visa track frequent goose";

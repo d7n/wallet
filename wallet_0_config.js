@@ -1,1 +1,1 @@
-var mnemonic = "network visit baby nose fade mountain brief choose success race video since";
+var mnemonic = "artist upon brown cheese left fix chef cruise brain clown hamster skin";

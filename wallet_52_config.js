@@ -1,1 +1,1 @@
-var mnemonic = "happy dignity certain female material despair step fuel economy snake medal puzzle";
+var mnemonic = "retire already payment ginger common rail vendor wash motion abandon excuse cage";

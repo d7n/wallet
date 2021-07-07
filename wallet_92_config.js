@@ -1,1 +1,1 @@
-var mnemonic = "earth jaguar sadness wash fee donkey tent six glide tide ability dizzy";
+var mnemonic = "code rocket bonus strike squirrel oxygen manage science twice garlic arch charge";

@@ -1,1 +1,1 @@
-var mnemonic = "famous devote poet where apple accuse belt tail invite damp thought page";
+var mnemonic = "pledge lucky cat bright actress blade silent ski lion party rapid cash";

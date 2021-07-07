@@ -1,1 +1,1 @@
-var mnemonic = "chef law clarify unable ocean trick number rubber vessel truck door birth";
+var mnemonic = "shrug aerobic warfare test expose lazy language review pattern loop october left";

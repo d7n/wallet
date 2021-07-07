@@ -1,1 +1,1 @@
-var mnemonic = "host miracle hood suit scrub peasant pole trust entry glass punch place";
+var mnemonic = "door enhance deposit palace pink hybrid clever response left debris escape infant";

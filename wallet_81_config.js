@@ -1,1 +1,1 @@
-var mnemonic = "casino crucial minimum coral element glove autumn crumble monster bleak melody toast";
+var mnemonic = "waste latin core coyote merge coral praise used shell smart roof habit";

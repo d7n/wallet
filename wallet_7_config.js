@@ -1,1 +1,1 @@
-var mnemonic = "announce curtain copper easy depart flock curtain rice master topic hero ivory";
+var mnemonic = "river brass salon document transfer canoe obey section collect buzz help humor";

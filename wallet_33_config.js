@@ -1,1 +1,1 @@
-var mnemonic = "high emerge bench card retreat find gold sock approve bronze scare panther";
+var mnemonic = "thumb crouch drop taste float season illness impulse liquid pair dolphin tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch ripple very panel board idea target screen cute slow assume funny";
+var mnemonic = "sphere service boring glass teach remain treat retreat great board hen update";

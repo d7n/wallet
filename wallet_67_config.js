@@ -1,1 +1,1 @@
-var mnemonic = "rice crop enable syrup insane soccer example park cannon midnight wagon fold";
+var mnemonic = "hover laptop culture parade stamp deer diamond retreat spider butter embody whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "observe mansion traffic video warm flock work before prosper resemble hero rude";
+var mnemonic = "filter cover few typical pencil allow inner solve retire live invite leg";

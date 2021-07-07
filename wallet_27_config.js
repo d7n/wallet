@@ -1,1 +1,1 @@
-var mnemonic = "kind recall fatigue exit actual canyon health spot ready claw atom prize";
+var mnemonic = "prefer insane riot absent oven crash net staff link car ocean inquiry";

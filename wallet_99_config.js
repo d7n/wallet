@@ -1,1 +1,1 @@
-var mnemonic = "sign iron various upgrade smoke enact child ride toward wife illegal security";
+var mnemonic = "similar figure arrow tornado inherit scorpion canoe acoustic impulse display mountain report";

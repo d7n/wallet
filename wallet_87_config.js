@@ -1,1 +1,1 @@
-var mnemonic = "cute soft cement panel craft unhappy rival rule novel acid mistake put";
+var mnemonic = "skull into vendor laundry bean relax super biology emotion room rifle magnet";

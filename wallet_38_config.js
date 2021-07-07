@@ -1,1 +1,1 @@
-var mnemonic = "casino wrap aerobic royal chalk frequent bind laptop motor wing cactus catalog";
+var mnemonic = "gap arctic burden normal term usual image acid anxiety sentence tribe random";
