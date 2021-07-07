@@ -1,1 +1,1 @@
-var mnemonic = "bargain clog leave attract basket border sniff maid suffer nest drum isolate";
+var mnemonic = "mail pyramid address nose buddy certain wise axis exist recall skirt person";

@@ -1,1 +1,1 @@
-var mnemonic = "goose tooth siege awkward vocal casino broken firm spend spawn border split";
+var mnemonic = "potato holiday valve act survey plastic jungle extra category butter grocery animal";

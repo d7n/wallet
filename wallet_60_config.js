@@ -1,1 +1,1 @@
-var mnemonic = "inner asset enhance first motor hill laugh cross upper venue twice steak";
+var mnemonic = "great rotate dream rate chimney early club school fragile wheat upgrade trash";

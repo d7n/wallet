@@ -1,1 +1,1 @@
-var mnemonic = "dance elephant shift general push garden exchange timber crunch economy meat board";
+var mnemonic = "myself wish defy during equal virtual hope success crazy mass puzzle hidden";

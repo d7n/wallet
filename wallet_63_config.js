@@ -1,1 +1,1 @@
-var mnemonic = "until attract beach term tip blur account acid curious crater ask sudden";
+var mnemonic = "supply expose aerobic toss stock improve endorse hire bracket sibling disagree tackle";

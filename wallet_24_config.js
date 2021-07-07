@@ -1,1 +1,1 @@
-var mnemonic = "bid clever govern slush beauty neutral heavy blade screen plug order fun";
+var mnemonic = "bar autumn table crunch picture romance squeeze used deny silk artefact similar";

@@ -1,1 +1,1 @@
-var mnemonic = "hair suffer team beyond stomach vacuum begin vital few sibling noble hobby";
+var mnemonic = "crawl guide upgrade receive stock keep release heavy much catch filter stairs";

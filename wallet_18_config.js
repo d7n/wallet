@@ -1,1 +1,1 @@
-var mnemonic = "game glove voice quiz room unlock mixture genre wolf hawk arena hour";
+var mnemonic = "input term option uncover gown jelly galaxy fold sleep tunnel valve warfare";

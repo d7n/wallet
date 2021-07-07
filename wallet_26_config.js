@@ -1,1 +1,1 @@
-var mnemonic = "dream attack various seed you atom lucky fence hybrid index rifle vintage";
+var mnemonic = "local project grief echo canyon bus decorate base slam camp letter gesture";

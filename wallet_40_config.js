@@ -1,1 +1,1 @@
-var mnemonic = "churn alter cereal hub theme boil find lunch push corn garlic salad";
+var mnemonic = "ankle motion rich raise decrease among demand reject breeze eye tunnel oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip subway property scrap ahead soap hobby behind web pretty arrive media";
+var mnemonic = "noble violin culture remain century help soccer decade fatigue crew tuition track";

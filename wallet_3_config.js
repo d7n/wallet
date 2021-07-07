@@ -1,1 +1,1 @@
-var mnemonic = "say island avocado version flat sting dry mandate safe nominee inhale silk";
+var mnemonic = "mosquito journey ribbon test junior myth shy hospital hundred give copper cigar";

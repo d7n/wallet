@@ -1,1 +1,1 @@
-var mnemonic = "two onion vessel agent craft desk spike horse wisdom lizard worth mimic";
+var mnemonic = "obtain chase vibrant talent live bar box social addict pride salad world";

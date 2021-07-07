@@ -1,1 +1,1 @@
-var mnemonic = "memory please desert detail original cheese hedgehog practice hood surround pig maple";
+var mnemonic = "skirt outdoor twelve vanish deer pioneer vicious potato embody flight void genius";

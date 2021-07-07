@@ -1,1 +1,1 @@
-var mnemonic = "village soul cousin alert circle license radar pistol sudden peanut calm addict";
+var mnemonic = "plate profit uphold artwork grace open chimney legend claw endorse adjust fat";

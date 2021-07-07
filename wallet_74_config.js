@@ -1,1 +1,1 @@
-var mnemonic = "husband name later album reform survey remind extend talk proud amateur actor";
+var mnemonic = "over suggest mesh antique summer ripple coconut tired amazing guide course glory";

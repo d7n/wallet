@@ -1,1 +1,1 @@
-var mnemonic = "appear practice damage pudding razor comic family latin devote tape flight title";
+var mnemonic = "broccoli science junior muffin ancient marble enable winner scout crumble fury ritual";

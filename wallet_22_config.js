@@ -1,1 +1,1 @@
-var mnemonic = "glass disease park verify raccoon remind case diet unique regular rescue help";
+var mnemonic = "suggest vote stadium post orchard build craft carbon omit satoshi slim bird";

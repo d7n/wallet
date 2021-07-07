@@ -1,1 +1,1 @@
-var mnemonic = "celery brown section scatter alcohol wheel surface spin slice barrel name rapid";
+var mnemonic = "blade neglect below rely broccoli cousin hour echo practice sense ceiling accident";

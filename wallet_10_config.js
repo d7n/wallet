@@ -1,1 +1,1 @@
-var mnemonic = "cup urban begin live pluck barely wish hair aunt pen matrix lunch";
+var mnemonic = "mule divide wrap solution transfer outdoor fork fuel machine bar phrase robust";

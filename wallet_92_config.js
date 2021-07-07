@@ -1,1 +1,1 @@
-var mnemonic = "badge cool suspect junior blouse health business strike weekend melody concert curtain";
+var mnemonic = "hello sport bullet awake negative twice wagon then limit hold cargo true";

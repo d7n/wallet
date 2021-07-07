@@ -1,1 +1,1 @@
-var mnemonic = "absent all record green recipe envelope thing become oyster steak lawn day";
+var mnemonic = "chronic tone result submit gasp spy lemon bring april scheme idle around";

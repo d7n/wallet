@@ -1,1 +1,1 @@
-var mnemonic = "mass athlete slot review three solid pelican human rifle earth lake system";
+var mnemonic = "scorpion lesson jungle obvious satoshi target obvious town famous swarm cost melt";

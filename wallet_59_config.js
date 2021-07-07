@@ -1,1 +1,1 @@
-var mnemonic = "diet task sense entry glue enlist alarm trash smooth photo dilemma dial";
+var mnemonic = "occur middle claim siege gadget lady frog bonus unveil bright combine tent";

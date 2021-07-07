@@ -1,1 +1,1 @@
-var mnemonic = "dinner crowd harbor risk paper surface month stereo apple crack coach senior";
+var mnemonic = "swarm witness cover fork small mean smart kid cabin wrong club minute";

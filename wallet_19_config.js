@@ -1,1 +1,1 @@
-var mnemonic = "flavor body pyramid steak dragon impact include tenant chunk tiger buffalo female";
+var mnemonic = "code market face romance margin final flight lonely pride name finish renew";

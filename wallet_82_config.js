@@ -1,1 +1,1 @@
-var mnemonic = "peace arena wrist during blame stomach kind hurdle wage best plate rally";
+var mnemonic = "someone insane master female van kidney pass want tube excess bronze color";

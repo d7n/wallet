@@ -1,1 +1,1 @@
-var mnemonic = "cause vapor unknown cushion average paper shiver favorite quit alien blade deny";
+var mnemonic = "bargain easily dry escape wife rhythm vivid interest year truly empty depart";

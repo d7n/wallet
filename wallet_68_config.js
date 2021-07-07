@@ -1,1 +1,1 @@
-var mnemonic = "photo vicious say record absurd version meat virus choice install sail engage";
+var mnemonic = "entry shoe wheel laundry green average cradle tag machine small original style";

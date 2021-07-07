@@ -1,1 +1,1 @@
-var mnemonic = "speed fold wrestle climb census antenna glue stamp profit chest depart sheriff";
+var mnemonic = "caution sniff cash marriage improve analyst life lemon chaos all whip muscle";

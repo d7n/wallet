@@ -1,1 +1,1 @@
-var mnemonic = "swamp green unique maximum piece grass security option shallow spirit piece brain";
+var mnemonic = "celery before lock real setup identify layer budget bridge verb rocket ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "neck shoot measure humble like obvious nut source sail hair soul humor";
+var mnemonic = "little fit retire monkey music load box range apology foster taste pear";

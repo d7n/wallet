@@ -1,1 +1,1 @@
-var mnemonic = "rocket spawn rubber figure silver vicious protect night april pistol genuine lecture";
+var mnemonic = "talent clerk kit dilemma scrub razor hello cart there genre diesel once";

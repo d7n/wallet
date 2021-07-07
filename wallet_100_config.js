@@ -1,1 +1,1 @@
-var mnemonic = "cage six giggle unfair universe butter silver noise stay hood mutual upper";
+var mnemonic = "fee meat clarify stairs kangaroo weapon quarter okay wing ranch enter saddle";

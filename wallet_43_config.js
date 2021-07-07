@@ -1,1 +1,1 @@
-var mnemonic = "unveil bitter laundry fetch diesel armor kiss couple final question favorite mystery";
+var mnemonic = "brain index stomach erosion jazz item easily service online gown clean angle";

@@ -1,1 +1,1 @@
-var mnemonic = "assist excite path pizza local adjust bomb ginger cup code position clock";
+var mnemonic = "buyer carpet light burden twice size ocean clean layer cabbage twenty shiver";

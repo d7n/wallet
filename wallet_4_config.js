@@ -1,1 +1,1 @@
-var mnemonic = "grace birth spare garage chunk coast heart heavy squeeze soccer flower yellow";
+var mnemonic = "nice one pull van august math blush input great express renew badge";

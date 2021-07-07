@@ -1,1 +1,1 @@
-var mnemonic = "inquiry puppy chapter measure render manual recall resemble recipe bonus visa damage";
+var mnemonic = "isolate inner rally party employ unfair wasp fancy hold rich wonder february";

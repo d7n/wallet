@@ -1,1 +1,1 @@
-var mnemonic = "various observe hint match pony feel already indoor fog steak hospital before";
+var mnemonic = "rocket acid lyrics antenna puzzle shrug build boy waste chaos kit client";

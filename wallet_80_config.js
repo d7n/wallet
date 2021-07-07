@@ -1,1 +1,1 @@
-var mnemonic = "grain forest banner rebuild calm grid woman address crop ocean nose cry";
+var mnemonic = "mutual capable baby foam similar rely stage river theory turn axis issue";

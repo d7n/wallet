@@ -1,1 +1,1 @@
-var mnemonic = "negative able amused drama tobacco round leisure start use verb result base";
+var mnemonic = "wash prepare coyote monitor junk recall innocent street diet claw talk front";

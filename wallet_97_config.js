@@ -1,1 +1,1 @@
-var mnemonic = "provide route small liquid chapter mad limit seven square certain eye squeeze";
+var mnemonic = "very stay company title punch rapid provide bench depth weapon panther security";

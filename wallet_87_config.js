@@ -1,1 +1,1 @@
-var mnemonic = "canoe tissue more olympic swear tourist stadium shrimp tired oven siege mean";
+var mnemonic = "water menu rigid glass clap whisper dizzy civil bachelor furnace length uncover";

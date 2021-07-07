@@ -1,1 +1,1 @@
-var mnemonic = "twelve banner bachelor decline when team daughter barrel device teach worth very";
+var mnemonic = "couch tray have volume october fork arctic sheriff empower pottery more roast";

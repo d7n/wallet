@@ -1,1 +1,1 @@
-var mnemonic = "present drum knee upon uphold myth shrug reveal obvious thing intact month";
+var mnemonic = "miracle chicken opera domain bicycle wing chimney consider brisk donor away name";

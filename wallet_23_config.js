@@ -1,1 +1,1 @@
-var mnemonic = "grab midnight element message ill park unusual mad harsh move permit enlist";
+var mnemonic = "level rain excuse afford road enrich canal core area kit street mask";

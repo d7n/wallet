@@ -1,1 +1,1 @@
-var mnemonic = "awesome athlete village donkey surprise hobby attend inspire tumble caught bottom eager";
+var mnemonic = "clutch fault cinnamon polar chalk process twist cushion library year remember measure";

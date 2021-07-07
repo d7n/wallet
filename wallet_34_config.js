@@ -1,1 +1,1 @@
-var mnemonic = "repeat century differ wagon alert author nerve witness wire people pond skill";
+var mnemonic = "jazz magic stairs loud coast image barely wise happy duty advice gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter protect room cheap thank virtual adult exile rate cat crouch local";
+var mnemonic = "comic fence girl drift champion kiss offer clog grace acoustic day duty";

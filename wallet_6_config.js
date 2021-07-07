@@ -1,1 +1,1 @@
-var mnemonic = "steel absorb truth ship rally effort diamond broom they nerve thumb rebel";
+var mnemonic = "scorpion street phone inside course cabin replace fever object rare emotion display";

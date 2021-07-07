@@ -1,1 +1,1 @@
-var mnemonic = "gather enjoy sad stage task negative person lab forward message frost state";
+var mnemonic = "panel civil section document grape fine cupboard merge pelican drop salmon concert";

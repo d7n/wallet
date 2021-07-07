@@ -1,1 +1,1 @@
-var mnemonic = "method develop virtual organ hole canyon cost shed dial panel sell select";
+var mnemonic = "depart canal ecology banana settle idle mouse deposit where predict park soft";

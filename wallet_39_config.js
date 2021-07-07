@@ -1,1 +1,1 @@
-var mnemonic = "this joke olive victory crisp typical today tool saddle layer toddler thought";
+var mnemonic = "engage coin evidence wrap gift tent squirrel gallery load senior check then";

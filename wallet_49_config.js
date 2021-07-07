@@ -1,1 +1,1 @@
-var mnemonic = "because pen case output acid eternal favorite lunch ten powder glass welcome";
+var mnemonic = "custom police swamp slide reduce milk apple carbon squeeze invite purpose frequent";

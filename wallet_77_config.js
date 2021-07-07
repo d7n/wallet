@@ -1,1 +1,1 @@
-var mnemonic = "carpet daring hammer audit sense grid pony ghost service slush unlock south";
+var mnemonic = "reason beauty wasp canyon turkey side disorder under fuel globe private defy";

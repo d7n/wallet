@@ -1,1 +1,1 @@
-var mnemonic = "exit deliver creek over talent have opinion best salt piece cricket impose";
+var mnemonic = "inner economy now rose maximum cliff extra unit prefer palace rival half";

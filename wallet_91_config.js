@@ -1,1 +1,1 @@
-var mnemonic = "erase swarm cross electric random lumber match vintage awkward chunk secret husband";
+var mnemonic = "tag shrimp nut runway myself float legal various interest amused lens stone";

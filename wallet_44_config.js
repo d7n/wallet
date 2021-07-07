@@ -1,1 +1,1 @@
-var mnemonic = "piece hollow inherit report coyote away museum layer fortune whale stomach uniform";
+var mnemonic = "demise swift discover neck hat nest already uphold innocent this circle during";

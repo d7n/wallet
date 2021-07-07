@@ -1,1 +1,1 @@
-var mnemonic = "tube later theme notice bonus guitar describe what lock dawn brand resource";
+var mnemonic = "champion dry point subject riot track crush olive breeze flip online suggest";

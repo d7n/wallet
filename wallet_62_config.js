@@ -1,1 +1,1 @@
-var mnemonic = "page fresh wagon twist blue garage wide north pill extend twenty uniform";
+var mnemonic = "that marble patrol virus magic rug brown hurt match gravity field announce";

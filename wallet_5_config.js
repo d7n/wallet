@@ -1,1 +1,1 @@
-var mnemonic = "blouse resist balcony ocean illness menu weapon easily damage frame buffalo bacon";
+var mnemonic = "square witness glance another three distance firm chase dinner hunt casual cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "dad cupboard clown easily kidney diesel spawn onion excite dad monitor arrest";
+var mnemonic = "three village race suit suggest trade auto wheat orient raccoon charge gasp";

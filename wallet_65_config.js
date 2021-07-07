@@ -1,1 +1,1 @@
-var mnemonic = "fiber sock worth guilt come rubber staff apology throw sell blade panel";
+var mnemonic = "faint cotton notice payment load same ostrich pretty typical gas oak beach";

@@ -1,1 +1,1 @@
-var mnemonic = "gun frame empty mad box episode canvas enhance captain heart vital huge";
+var mnemonic = "monkey girl bind green elder animal orphan act envelope truly skull address";

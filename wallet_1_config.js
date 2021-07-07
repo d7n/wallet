@@ -1,1 +1,1 @@
-var mnemonic = "verb discover attract wedding wine file judge canoe alter mercy erase dog";
+var mnemonic = "album million captain bunker fever connect present diesel insane solve wide talent";

@@ -1,1 +1,1 @@
-var mnemonic = "soda museum sport waste target cruel lottery they sail cabin vital rapid";
+var mnemonic = "glove cloth mother valve clump cluster swear gauge length quarter sight spoon";

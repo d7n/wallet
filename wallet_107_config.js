@@ -1,1 +1,1 @@
-var mnemonic = "vacuum machine mirror purpose caution calm artefact pipe blue benefit bone guilt";
+var mnemonic = "tray farm net push duck maze sail hundred best cricket promote floor";

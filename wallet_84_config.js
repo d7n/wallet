@@ -1,1 +1,1 @@
-var mnemonic = "recall access dose draft update section slight wrong two wedding super slight";
+var mnemonic = "exclude day rotate enrich purity saddle water exit stock cable north identify";

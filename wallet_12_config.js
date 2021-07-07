@@ -1,1 +1,1 @@
-var mnemonic = "brisk citizen submit ramp lunar gospel wire question atom essay spare equip";
+var mnemonic = "model pioneer thumb hover dove salmon chaos book require east tumble father";

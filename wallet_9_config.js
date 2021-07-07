@@ -1,1 +1,1 @@
-var mnemonic = "logic shell grunt color party surge doctor clock quote rhythm flush cherry";
+var mnemonic = "mass donkey access hurry monitor black want clump swap animal core viable";

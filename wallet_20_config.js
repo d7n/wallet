@@ -1,1 +1,1 @@
-var mnemonic = "swim convince execute prefer enjoy spawn jar afford marriage soup multiply pear";
+var mnemonic = "pass trim fragile sibling stool increase client song wisdom about gown evidence";

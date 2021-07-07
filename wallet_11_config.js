@@ -1,1 +1,1 @@
-var mnemonic = "duty love fresh wheat swear busy settle cinnamon slot kick course box";
+var mnemonic = "mass donate enable pole famous gospel wait taste sword impose march perfect";

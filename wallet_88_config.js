@@ -1,1 +1,1 @@
-var mnemonic = "burst grid december goose casual adapt urban unlock undo shadow fossil radio";
+var mnemonic = "later pulse gospel table hockey key worth cave denial that jelly carry";

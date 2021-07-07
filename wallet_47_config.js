@@ -1,1 +1,1 @@
-var mnemonic = "spin split away pulp promote universe stairs stone giggle question adapt chef";
+var mnemonic = "lock tiny struggle daring region impulse infant now neither economy sight way";

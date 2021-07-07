@@ -1,1 +1,1 @@
-var mnemonic = "shrimp saddle goose shaft vehicle bag crunch cannon often gaze critic clay";
+var mnemonic = "intact butter cover hawk train wrist sibling depart bird pony razor dove";

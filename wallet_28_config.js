@@ -1,1 +1,1 @@
-var mnemonic = "occur inside attract dial differ pole seed shaft globe recipe someone mouse";
+var mnemonic = "glue guard expect ticket canvas goddess matter mammal during goose exile siren";

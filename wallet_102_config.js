@@ -1,1 +1,1 @@
-var mnemonic = "embark camp breeze gown catalog empower claim deposit between affair upgrade squeeze";
+var mnemonic = "sure brave tank cinnamon company hospital news speed turkey drastic kingdom endorse";

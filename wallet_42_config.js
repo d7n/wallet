@@ -1,1 +1,1 @@
-var mnemonic = "detect unlock coyote payment ahead shadow regret banana matrix stable globe hair";
+var mnemonic = "tonight vacuum chat okay arrest mountain staff abandon shuffle service dentist vibrant";

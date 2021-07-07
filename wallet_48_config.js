@@ -1,1 +1,1 @@
-var mnemonic = "person above hill ozone kitten news disagree addict hundred banana blind earn";
+var mnemonic = "bar topple essence unusual three element erosion excess above speed fitness climb";

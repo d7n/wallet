@@ -1,1 +1,1 @@
-var mnemonic = "metal amateur student action mercy suspect guitar course always category region bottom";
+var mnemonic = "account biology secret awesome nose candy report coyote topic cube room rather";

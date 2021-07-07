@@ -1,1 +1,1 @@
-var mnemonic = "road install pitch knee web tooth fog toe wire cheese bulk click";
+var mnemonic = "nation eyebrow age visit absent viable guitar alter diary flat earn absurd";

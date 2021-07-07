@@ -1,1 +1,1 @@
-var mnemonic = "wear female oyster sail aim canyon wash until yard room fly young";
+var mnemonic = "shift protect cruel copy cherry public attitude tumble slab virtual quick neither";

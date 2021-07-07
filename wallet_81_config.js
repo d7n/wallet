@@ -1,1 +1,1 @@
-var mnemonic = "hub vanish feature torch opinion cross job feature refuse ball seek syrup";
+var mnemonic = "total transfer divorce memory orange seat million jump glare hire test sister";

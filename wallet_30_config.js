@@ -1,1 +1,1 @@
-var mnemonic = "shiver wave empty into isolate mushroom world volcano nominee crumble inherit melody";
+var mnemonic = "mammal tiger awake tumble practice price daring valve pipe blur erode face";

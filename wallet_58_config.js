@@ -1,1 +1,1 @@
-var mnemonic = "olympic daughter list arrest ready ramp chalk negative quiz brush tired bottom";
+var mnemonic = "inspire diet relief child dust federal humor exhibit ski chief tiny wolf";

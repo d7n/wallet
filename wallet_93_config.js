@@ -1,1 +1,1 @@
-var mnemonic = "repeat pepper heart auction champion crouch scout mistake margin point visual tomorrow";
+var mnemonic = "bean brush peanut rare fragile planet burger talent matrix bus aerobic purpose";

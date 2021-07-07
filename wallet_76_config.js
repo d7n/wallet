@@ -1,1 +1,1 @@
-var mnemonic = "such festival loan leisure jealous trash panic chapter clutch addict remember remain";
+var mnemonic = "total opinion antenna surround flame jealous license like pave whisper silver peace";

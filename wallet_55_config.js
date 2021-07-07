@@ -1,1 +1,1 @@
-var mnemonic = "team above fat maple pioneer comfort garlic true whisper enemy snack wide";
+var mnemonic = "adapt sausage indicate ridge sure know garlic window sort sister family disease";

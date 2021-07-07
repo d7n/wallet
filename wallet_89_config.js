@@ -1,1 +1,1 @@
-var mnemonic = "room paper certain absorb balcony vital drum pass possible divorce wing crawl";
+var mnemonic = "rain robust grief leg mixture then captain recall kick gap robust culture";

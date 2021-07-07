@@ -1,1 +1,1 @@
-var mnemonic = "lift bounce birth citizen lift whisper expose reduce window velvet assist fall";
+var mnemonic = "select fiber kangaroo athlete volcano manual display mistake royal attack wild siege";

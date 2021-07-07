@@ -1,1 +1,1 @@
-var mnemonic = "come there record topple memory fluid price whisper equip pepper entire margin";
+var mnemonic = "talent mandate gadget senior snake exhaust option track attack mystery flee unable";

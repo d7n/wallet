@@ -1,1 +1,1 @@
-var mnemonic = "inspire enlist swamp brother second blossom cart lunch vessel primary either machine";
+var mnemonic = "dawn foam parrot mimic require hire license close debate faculty ability mouse";

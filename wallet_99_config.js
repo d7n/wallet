@@ -1,1 +1,1 @@
-var mnemonic = "spread glimpse expect narrow prize update grain burden indoor galaxy stairs craft";
+var mnemonic = "network hard asthma script item hair federal aim chicken tenant rabbit blossom";
