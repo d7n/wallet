@@ -1,1 +1,1 @@
-var mnemonic = "dragon beauty culture reveal rhythm nice parent airport weapon spoil kind skill";
+var mnemonic = "service hazard person client size wheat attract snack tackle heavy goddess render";

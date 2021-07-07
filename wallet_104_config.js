@@ -1,1 +1,1 @@
-var mnemonic = "expect couple amateur surround thing garden review patient rural stock brain churn";
+var mnemonic = "suffer baby follow antenna hero spoon run half net permit property swallow";

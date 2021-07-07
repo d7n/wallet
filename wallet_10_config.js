@@ -1,1 +1,1 @@
-var mnemonic = "brother point bomb album oppose open endorse appear script box vault purpose";
+var mnemonic = "ability renew tenant tilt girl club special cost warm situate retire phrase";

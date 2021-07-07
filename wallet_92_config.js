@@ -1,1 +1,1 @@
-var mnemonic = "bring erosion that stock flush mind people muscle render similar range awake";
+var mnemonic = "exclude tribe poverty example fire help logic when drop heart icon rough";

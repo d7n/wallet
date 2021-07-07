@@ -1,1 +1,1 @@
-var mnemonic = "price car pool law bid bonus raccoon decide muffin wish surge special";
+var mnemonic = "crew travel relax approve noodle undo ready liar story enter remember gas";

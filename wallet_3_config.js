@@ -1,1 +1,1 @@
-var mnemonic = "weather drill cinnamon gas guide sun tattoo food furnace mule tribe industry";
+var mnemonic = "diary scale swim staff tool summer idle smoke desert search party myself";

@@ -1,1 +1,1 @@
-var mnemonic = "style card copper logic feature vocal erupt rural glad fun memory south";
+var mnemonic = "cushion phone blossom ridge client there stomach pistol blame escape major reunion";

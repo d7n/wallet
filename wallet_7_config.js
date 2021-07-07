@@ -1,1 +1,1 @@
-var mnemonic = "affair health lawn car shiver leader illness wrap miracle retreat crucial involve";
+var mnemonic = "exit into army corn rib rigid chef brass bring cruel foil project";

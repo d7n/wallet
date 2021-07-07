@@ -1,1 +1,1 @@
-var mnemonic = "shell pulse pride method report seven define kitchen horn true sketch armed";
+var mnemonic = "find zone banana service soap focus quiz boat flash neither exact giggle";

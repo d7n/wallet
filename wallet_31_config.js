@@ -1,1 +1,1 @@
-var mnemonic = "indicate gun winner dish broom toe position fox trade guess erupt claw";
+var mnemonic = "episode success series slogan milk husband angry game obtain cup involve bid";

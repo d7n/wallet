@@ -1,1 +1,1 @@
-var mnemonic = "glue two gloom toe business artwork assist scatter depart scissors zone sense";
+var mnemonic = "chalk elephant merit island piano maximum mimic curious hockey motion marine kitchen";

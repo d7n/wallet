@@ -1,1 +1,1 @@
-var mnemonic = "day warfare melt improve exclude artist gas describe poverty arm possible draw";
+var mnemonic = "cash outside express tuition about knife cancel swap calm reveal flock tiger";

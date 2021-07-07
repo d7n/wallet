@@ -1,1 +1,1 @@
-var mnemonic = "limb tonight rather extra over feature three hurt proud awesome degree stamp";
+var mnemonic = "brief little assist dilemma twin mixed obscure slot glass inject scare regular";

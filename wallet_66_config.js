@@ -1,1 +1,1 @@
-var mnemonic = "hammer student harvest choose car depart cattle pause parrot awful bulk promote";
+var mnemonic = "hour unveil drive sand manage hurry route search open celery benefit despair";

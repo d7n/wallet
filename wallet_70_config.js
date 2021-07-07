@@ -1,1 +1,1 @@
-var mnemonic = "pony vacuum broom clap mystery march remind hip ordinary sugar thrive decrease";
+var mnemonic = "horse leave hotel gentle trash mule put grace asthma giraffe avoid hungry";

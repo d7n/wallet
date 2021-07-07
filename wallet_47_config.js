@@ -1,1 +1,1 @@
-var mnemonic = "shift picnic luxury merry grunt worth kiss wool wine buffalo happy asthma";
+var mnemonic = "rice spoil animal real donkey simple sentence measure clock elbow shuffle hill";

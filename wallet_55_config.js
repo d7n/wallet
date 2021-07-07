@@ -1,1 +1,1 @@
-var mnemonic = "giggle goat quantum average flight leave tool cup blur wasp river old";
+var mnemonic = "engage sea sea social weapon render mistake accident bamboo nose energy suit";

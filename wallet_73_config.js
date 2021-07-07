@@ -1,1 +1,1 @@
-var mnemonic = "place idea scene country plate caution ripple clip stick elite deer then";
+var mnemonic = "fire lounge damage still daring device cross dwarf prepare predict urban pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "skill hair foam critic cash knock torch route flip rent truck long";
+var mnemonic = "pyramid tail two open nuclear add script jacket soccer flower purity dream";

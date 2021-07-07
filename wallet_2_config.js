@@ -1,1 +1,1 @@
-var mnemonic = "shoe art donkey excite address sting start knife size two angry sight";
+var mnemonic = "dumb evolve youth around moment swamp cash tank airport fabric install artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate domain mystery type brother feel pave ripple weekend convince rail attend";
+var mnemonic = "blush saddle picnic often claw version transfer switch license wasp sport abuse";

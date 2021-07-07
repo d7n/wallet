@@ -1,1 +1,1 @@
-var mnemonic = "bundle report letter arch salmon script heart behave inform swarm dolphin accuse";
+var mnemonic = "shoot connect attack gasp use cushion sound awkward vivid lonely father farm";

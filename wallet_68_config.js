@@ -1,1 +1,1 @@
-var mnemonic = "trim mushroom emerge state vacuum raven pond sport biology cat detail bicycle";
+var mnemonic = "income reject rain hello occur excuse flat federal flight regret fuel limb";

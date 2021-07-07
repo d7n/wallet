@@ -1,1 +1,1 @@
-var mnemonic = "page credit anchor apple grace brass brown father lunar garlic reject miss";
+var mnemonic = "sell modify scene amazing indicate rack latin demise surface outer debris filter";

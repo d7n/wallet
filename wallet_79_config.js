@@ -1,1 +1,1 @@
-var mnemonic = "absurd analyst edit tell share foster vocal certain negative jelly bullet clerk";
+var mnemonic = "feel bag apple crumble opinion swap venue panther trick off hunt earth";

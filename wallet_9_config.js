@@ -1,1 +1,1 @@
-var mnemonic = "wagon ball wedding retire actress flame base husband caution amount song feature";
+var mnemonic = "few elevator sheriff liberty bitter health luggage wrist stamp horror gravity legal";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent derive say swallow sunny regret bag loop long room comfort wall";
+var mnemonic = "junk tomorrow pitch bid slam convince jacket cancel tobacco unfair genuine sure";

@@ -1,1 +1,1 @@
-var mnemonic = "silent slam celery notable parent private female toddler corn between annual spider";
+var mnemonic = "trade guard movie thumb fantasy brush flip globe upon ordinary misery poem";

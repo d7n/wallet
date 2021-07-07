@@ -1,1 +1,1 @@
-var mnemonic = "addict heart angry shock pink another cherry hold order jazz fork tail";
+var mnemonic = "couple whisper sense clinic slow version nerve loyal purity click stay crunch";

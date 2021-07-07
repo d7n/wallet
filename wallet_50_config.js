@@ -1,1 +1,1 @@
-var mnemonic = "catch kite tobacco remove board skirt clump end usual near oyster gas";
+var mnemonic = "thunder inform open hair swarm track october edge fence gloom order early";

@@ -1,1 +1,1 @@
-var mnemonic = "high prevent visa assume unknown emotion obvious ramp describe violin sport deny";
+var mnemonic = "end derive doctor hamster year guitar whip clerk alarm attract sphere bird";

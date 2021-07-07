@@ -1,1 +1,1 @@
-var mnemonic = "tourist squirrel wage input twist drink punch just pepper gain now valley";
+var mnemonic = "chronic resist material index orient minor lock cruel mask length word smile";

@@ -1,1 +1,1 @@
-var mnemonic = "echo delay slogan admit fitness fluid combine toss peasant action coil punch";
+var mnemonic = "beyond between case wrestle labor series castle true cheese time chase embark";

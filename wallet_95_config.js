@@ -1,1 +1,1 @@
-var mnemonic = "tide entry act jaguar rookie bench recycle autumn jacket purity rally detail";
+var mnemonic = "lazy suspect accident call jewel monster purchase napkin cushion naive stadium penalty";

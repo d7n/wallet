@@ -1,1 +1,1 @@
-var mnemonic = "artwork relax above glow error cart run vendor sick inside suffer lunar";
+var mnemonic = "palace attend couch father leopard butter deposit valid struggle senior radar surge";

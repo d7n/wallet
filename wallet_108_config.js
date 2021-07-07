@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon credit artist never upon enter plate retreat celery blame timber quit";
+var mnemonic = "tank lamp sleep ugly discover awesome cart helmet club diet arrange awake";

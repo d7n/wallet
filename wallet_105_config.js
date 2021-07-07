@@ -1,1 +1,1 @@
-var mnemonic = "equal device solution gospel lawsuit fade coffee become pigeon salt window produce";
+var mnemonic = "network dad save skin because royal argue target insane message cement urban";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe fee boy average cargo clutch wealth pool all pole call bench";
+var mnemonic = "course common favorite noise coconut choose family print robot rubber critic meat";

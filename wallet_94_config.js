@@ -1,1 +1,1 @@
-var mnemonic = "credit power merry refuse erosion much follow change trade crouch maze symbol";
+var mnemonic = "protect visit borrow merge curious enrich clay rail access clever broken like";

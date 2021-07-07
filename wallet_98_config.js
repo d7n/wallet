@@ -1,1 +1,1 @@
-var mnemonic = "review income height pepper rate stairs alter add cushion rule enjoy famous";
+var mnemonic = "ten grocery claw deal shuffle young march wealth hip glide frozen general";

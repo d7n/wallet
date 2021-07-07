@@ -1,1 +1,1 @@
-var mnemonic = "feed yard cute broken bomb concert borrow decide often include combine edge";
+var mnemonic = "orchard pitch damage memory crumble load theme hurry sand skull warfare rug";

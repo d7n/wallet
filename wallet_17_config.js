@@ -1,1 +1,1 @@
-var mnemonic = "gym clever now long focus title fit bring famous weasel charge oval";
+var mnemonic = "sibling guard total return canvas dance woman unique uncover rescue car fabric";

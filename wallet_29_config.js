@@ -1,1 +1,1 @@
-var mnemonic = "damp essay aspect attitude glory purpose frog cattle pride tree battle race";
+var mnemonic = "reopen bounce credit embody double infant engage remember cream whale bench army";

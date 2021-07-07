@@ -1,1 +1,1 @@
-var mnemonic = "kite annual argue option quote birth carpet advance casual slide flag frozen";
+var mnemonic = "gym private thunder calm vote flavor version argue atom shove tonight machine";

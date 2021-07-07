@@ -1,1 +1,1 @@
-var mnemonic = "silent element coin magnet render develop rebel broken diamond actual review tank";
+var mnemonic = "cook romance actual river crystal soon hurt refuse gauge chronic twenty luggage";

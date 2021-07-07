@@ -1,1 +1,1 @@
-var mnemonic = "album dose suggest lobster wheat rebel install rural curve cancel circle citizen";
+var mnemonic = "silver chapter eight avocado symbol unlock often remove ancient test surprise myself";

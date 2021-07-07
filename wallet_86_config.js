@@ -1,1 +1,1 @@
-var mnemonic = "foster sea kick young spring torch engage balance damp year spice exist";
+var mnemonic = "nominee crew chief crew woman frequent grass abuse cargo tunnel mercy control";

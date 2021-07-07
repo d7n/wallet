@@ -1,1 +1,1 @@
-var mnemonic = "rich learn track brother ankle ability lend seven task position firm knock";
+var mnemonic = "bus luggage barely pigeon devote egg disorder monitor across harbor impulse chuckle";

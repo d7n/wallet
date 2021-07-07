@@ -1,1 +1,1 @@
-var mnemonic = "awkward aunt inherit ask logic finish detail battle candy robust collect congress";
+var mnemonic = "elder actress leader rich track bread remove ozone bench run camp wear";

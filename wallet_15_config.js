@@ -1,1 +1,1 @@
-var mnemonic = "adapt detail toward melt soup behind actor castle mutual butter social spirit";
+var mnemonic = "typical wash notice glove mammal among cruise sense regret between modify tattoo";

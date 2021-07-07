@@ -1,1 +1,1 @@
-var mnemonic = "because zero little tribe viable track stone wonder enact march priority actor";
+var mnemonic = "crunch reunion quit need scorpion resemble spray arrow hundred humble pink require";

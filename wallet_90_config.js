@@ -1,1 +1,1 @@
-var mnemonic = "want hobby explain search fitness current relax dish wolf inflict amused wild";
+var mnemonic = "nice zone fork gather cradle wink crash never worry approve chronic joy";

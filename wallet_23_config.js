@@ -1,1 +1,1 @@
-var mnemonic = "income creek return hope luxury road fish shift suggest income poverty ticket";
+var mnemonic = "glass adapt boring slide spell senior diamond green deposit inside response coconut";

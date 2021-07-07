@@ -1,1 +1,1 @@
-var mnemonic = "used candy giraffe ring present blue rice census endless anxiety border raven";
+var mnemonic = "demise wreck emerge buddy sock aspect alert later ahead inside wreck diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile level move south merit ankle reveal bonus city cloud vivid harbor";
+var mnemonic = "sudden okay eternal twelve dragon current taste angry window equal mind champion";

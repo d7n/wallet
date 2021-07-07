@@ -1,1 +1,1 @@
-var mnemonic = "cycle ritual lonely sheriff swallow clinic stick salmon place identify parrot runway";
+var mnemonic = "inhale noodle when wild adapt marriage expire canyon nasty donate hover small";

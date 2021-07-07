@@ -1,1 +1,1 @@
-var mnemonic = "worth index half describe talent hover try oblige february steel solar oblige";
+var mnemonic = "badge retreat sing method exotic olive race wish hurry office ride aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "teach survey latin jeans argue neglect film hello evidence economy endorse chronic";
+var mnemonic = "fan child appear endorse space metal waste life wine abstract angle cherry";

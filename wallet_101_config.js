@@ -1,1 +1,1 @@
-var mnemonic = "april infant fish gravity dinosaur energy doctor inside dune kick embrace when";
+var mnemonic = "ring side fiscal crime inject language solid vault soon narrow artist client";

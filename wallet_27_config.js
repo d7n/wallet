@@ -1,1 +1,1 @@
-var mnemonic = "zero board road wealth hub toe pole genre climb barely absorb rely";
+var mnemonic = "burden illness panda pepper install air enemy gossip undo crouch treat vessel";

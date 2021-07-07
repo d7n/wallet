@@ -1,1 +1,1 @@
-var mnemonic = "beef plug pledge betray alarm wear lottery immense world popular raven lumber";
+var mnemonic = "license bamboo supreme also stone flame orchard focus review erosion unique health";

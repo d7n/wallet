@@ -1,1 +1,1 @@
-var mnemonic = "emerge angle pulp crack scout credit ocean hockey network beyond explain cheese";
+var mnemonic = "wheel airport wave phrase anxiety couch skin card quick test ancient planet";

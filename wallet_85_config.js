@@ -1,1 +1,1 @@
-var mnemonic = "awesome kind provide glad infant mother connect erupt arctic fiction industry wisdom";
+var mnemonic = "edge then poet struggle during feed organ hedgehog fame female announce dust";

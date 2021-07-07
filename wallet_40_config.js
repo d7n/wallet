@@ -1,1 +1,1 @@
-var mnemonic = "divert curve bless armed mirror mass motor pluck copper champion catalog balance";
+var mnemonic = "cupboard raise cushion spring hollow today health identify wrestle country hollow whale";

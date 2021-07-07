@@ -1,1 +1,1 @@
-var mnemonic = "route industry warfare enlist finish bid twin father weasel twice rigid sausage";
+var mnemonic = "hero desk radar much vivid odor width insane card cost wrestle accuse";

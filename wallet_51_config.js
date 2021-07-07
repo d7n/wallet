@@ -1,1 +1,1 @@
-var mnemonic = "neutral name bullet roof scatter fashion hamster rebel forward pill episode test";
+var mnemonic = "fuel trouble knock balcony fresh movie friend lunar immune first divorce fluid";

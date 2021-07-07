@@ -1,1 +1,1 @@
-var mnemonic = "double inflict guide carry girl mule south flavor eager gauge used seven";
+var mnemonic = "help august airport fabric mobile task horse slight gold crime bamboo cannon";

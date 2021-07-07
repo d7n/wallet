@@ -1,1 +1,1 @@
-var mnemonic = "cycle bulk pledge chunk anger cup invite now festival output all country";
+var mnemonic = "hire evolve beach obey obvious discover pilot where endorse garment helmet credit";

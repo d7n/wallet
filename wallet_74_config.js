@@ -1,1 +1,1 @@
-var mnemonic = "girl marriage face defy climb sight hamster transfer leave weird giraffe virus";
+var mnemonic = "exist custom cream fit own ice social prepare profit child matter puzzle";

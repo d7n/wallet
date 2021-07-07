@@ -1,1 +1,1 @@
-var mnemonic = "final inch joy easily hedgehog lamp shallow survey globe risk know happy";
+var mnemonic = "script brave name sign kiwi derive demise welcome tourist palace message gesture";

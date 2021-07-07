@@ -1,1 +1,1 @@
-var mnemonic = "diet step neither praise clarify plate once copper cause coyote reason clock";
+var mnemonic = "bulk upper share essence can lyrics cluster wrist vast snake aspect supply";

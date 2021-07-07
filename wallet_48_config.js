@@ -1,1 +1,1 @@
-var mnemonic = "burst file oven hello trim process rib tiny replace future shadow harbor";
+var mnemonic = "online shaft evoke hurry bulb combine label clip click ability abandon interest";

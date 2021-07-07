@@ -1,1 +1,1 @@
-var mnemonic = "ring give leg hard change easily news gospel oven orange fat height";
+var mnemonic = "degree speak card spend piano gesture estate firm wash trash donor message";

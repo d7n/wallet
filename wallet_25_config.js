@@ -1,1 +1,1 @@
-var mnemonic = "issue biology armor finger stomach limit noble welcome attitude yellow able art";
+var mnemonic = "switch stone tattoo sort pear insane advice allow slow shield autumn option";

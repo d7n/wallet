@@ -1,1 +1,1 @@
-var mnemonic = "abstract noise stable melt purpose ball clever library three lend weird travel";
+var mnemonic = "inflict fence online impulse evolve twelve utility ethics wink skull evil height";

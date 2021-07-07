@@ -1,1 +1,1 @@
-var mnemonic = "royal hurry refuse fossil damp arrange fiscal expect about cactus priority clap";
+var mnemonic = "ozone mobile grace sport ethics gloom come stereo meat purity pond decrease";

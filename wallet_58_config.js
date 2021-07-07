@@ -1,1 +1,1 @@
-var mnemonic = "garment access grape wine fragile brick collect leader pink just wreck floor";
+var mnemonic = "remind tired range accuse spike human panther document trick gown ginger segment";

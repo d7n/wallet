@@ -1,1 +1,1 @@
-var mnemonic = "agree almost session quiz shock turn gorilla accident virus ripple tiger stuff";
+var mnemonic = "dignity tiger trigger noodle memory style double enable shiver urge calm omit";

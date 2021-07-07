@@ -1,1 +1,1 @@
-var mnemonic = "safe humble author actor crowd virus caught use chapter wear deny version";
+var mnemonic = "smile boy clutch cat web region brain blame same visit stairs make";

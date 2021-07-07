@@ -1,1 +1,1 @@
-var mnemonic = "debate middle foil rally clap zoo away derive pill plug blue wage";
+var mnemonic = "region siege neither three warrior direct lazy cycle test walk source priority";

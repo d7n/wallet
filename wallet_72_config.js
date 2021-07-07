@@ -1,1 +1,1 @@
-var mnemonic = "seven soap divert exchange throw choice involve speak enemy yard inmate clerk";
+var mnemonic = "three summer shove area skirt raw industry perfect ice way enter tongue";

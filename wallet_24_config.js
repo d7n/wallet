@@ -1,1 +1,1 @@
-var mnemonic = "fiber text deny trumpet night whisper label pilot tumble motion execute debate";
+var mnemonic = "volcano lock diary foster earth measure extra special involve dust chunk tree";

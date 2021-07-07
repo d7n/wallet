@@ -1,1 +1,1 @@
-var mnemonic = "addict wagon trick book flock pill unaware much canoe figure liquid jealous";
+var mnemonic = "tomato blame wink year child learn salon extend carry pass kitchen humor";

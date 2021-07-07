@@ -1,1 +1,1 @@
-var mnemonic = "annual canal cycle upgrade slide link annual isolate outer leave federal furnace";
+var mnemonic = "exile gown carry owner decorate check dinner pistol head damage order fire";

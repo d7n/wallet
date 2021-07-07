@@ -1,1 +1,1 @@
-var mnemonic = "bright broom drink wash offer cupboard fiction inquiry organ small benefit fire";
+var mnemonic = "bulb poet end senior drive illness drift start later crawl north junior";

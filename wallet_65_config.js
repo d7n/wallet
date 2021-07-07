@@ -1,1 +1,1 @@
-var mnemonic = "sock else uphold baby better fire enroll clap loan nut moment torch";
+var mnemonic = "science orchard able room race flat venture pave strategy victory because south";

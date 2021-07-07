@@ -1,1 +1,1 @@
-var mnemonic = "mango victory clock scrap ivory expect sniff couch private injury truly truth";
+var mnemonic = "tiny arena wet junior trip limit shy blush scare coyote domain fiscal";

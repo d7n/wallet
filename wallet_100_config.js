@@ -1,1 +1,1 @@
-var mnemonic = "host already own sing media elegant enroll there era combine bicycle crack";
+var mnemonic = "slide fat old hope various maximum cram ridge inmate wagon clump clip";

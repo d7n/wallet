@@ -1,1 +1,1 @@
-var mnemonic = "slender income mixed tennis slush surge explain boring picture pipe frequent fence";
+var mnemonic = "still chief casual deputy absent seed major siege weapon vintage advice art";

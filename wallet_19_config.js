@@ -1,1 +1,1 @@
-var mnemonic = "lion rain render giggle good beef entire empower father width survey message";
+var mnemonic = "maple future maple foam devote scale hybrid just kitchen what guard salad";

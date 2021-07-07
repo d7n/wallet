@@ -1,1 +1,1 @@
-var mnemonic = "stock armor unit blood daring silver parent bread improve winter royal dove";
+var mnemonic = "pyramid fabric traffic sure next depend enjoy enlist tilt spring believe oval";

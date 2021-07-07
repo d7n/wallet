@@ -1,1 +1,1 @@
-var mnemonic = "bag tribe voyage cruel quarter potato fit accuse net era craft above";
+var mnemonic = "budget spring better moment duty window notable remove people garage tribe bleak";

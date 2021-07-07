@@ -1,1 +1,1 @@
-var mnemonic = "smooth weapon rescue twist elbow raven fatal better dog faint foil attitude";
+var mnemonic = "quit hockey wrist glass radar topple stone erase print such small flee";

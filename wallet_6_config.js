@@ -1,1 +1,1 @@
-var mnemonic = "scale winner vote simple document nut item wolf anxiety park equal disease";
+var mnemonic = "reveal tray opera save cricket upset defense split sense tape tooth mass";
