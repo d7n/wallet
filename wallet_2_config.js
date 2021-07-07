@@ -1,1 +1,1 @@
-var mnemonic = "noble violin culture remain century help soccer decade fatigue crew tuition track";
+var mnemonic = "mango satoshi giggle stool sand exercise broccoli sting blouse latin pyramid receive";

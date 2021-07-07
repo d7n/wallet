@@ -1,1 +1,1 @@
-var mnemonic = "skirt outdoor twelve vanish deer pioneer vicious potato embody flight void genius";
+var mnemonic = "bracket clay spell father clap want pizza grain lecture cactus increase glory";

@@ -1,1 +1,1 @@
-var mnemonic = "couch tray have volume october fork arctic sheriff empower pottery more roast";
+var mnemonic = "fork reason slice first pumpkin judge suit reduce concert beach mixed stay";

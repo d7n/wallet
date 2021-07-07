@@ -1,1 +1,1 @@
-var mnemonic = "glue guard expect ticket canvas goddess matter mammal during goose exile siren";
+var mnemonic = "between kiwi quantum canal liar rough pupil gold galaxy guitar about impose";

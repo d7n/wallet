@@ -1,1 +1,1 @@
-var mnemonic = "talent mandate gadget senior snake exhaust option track attack mystery flee unable";
+var mnemonic = "clinic knife tiger praise crop novel wrong protect protect hurry flip describe";

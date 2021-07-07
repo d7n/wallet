@@ -1,1 +1,1 @@
-var mnemonic = "input term option uncover gown jelly galaxy fold sleep tunnel valve warfare";
+var mnemonic = "spring orchard comfort badge claim cost clap clever frost avoid ostrich husband";

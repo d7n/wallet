@@ -1,1 +1,1 @@
-var mnemonic = "bargain easily dry escape wife rhythm vivid interest year truly empty depart";
+var mnemonic = "say super knife minute lake toe frequent mom work mind sleep equal";

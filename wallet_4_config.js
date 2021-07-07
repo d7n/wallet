@@ -1,1 +1,1 @@
-var mnemonic = "nice one pull van august math blush input great express renew badge";
+var mnemonic = "inherit gift solution label reunion govern meat wheel walnut spawn erode shield";

@@ -1,1 +1,1 @@
-var mnemonic = "someone insane master female van kidney pass want tube excess bronze color";
+var mnemonic = "obvious moral feature clap wool garbage addict faith renew pear wedding build";

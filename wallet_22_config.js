@@ -1,1 +1,1 @@
-var mnemonic = "suggest vote stadium post orchard build craft carbon omit satoshi slim bird";
+var mnemonic = "amused spirit alien sign portion math ten grunt shell attend slam kingdom";

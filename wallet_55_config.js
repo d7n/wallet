@@ -1,1 +1,1 @@
-var mnemonic = "adapt sausage indicate ridge sure know garlic window sort sister family disease";
+var mnemonic = "embark wide silly work found faculty naive chaos raven chalk parrot draw";

@@ -1,1 +1,1 @@
-var mnemonic = "potato holiday valve act survey plastic jungle extra category butter grocery animal";
+var mnemonic = "angry desk goddess meadow ridge safe ostrich oak snow afraid coach ten";

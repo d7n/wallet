@@ -1,1 +1,1 @@
-var mnemonic = "select fiber kangaroo athlete volcano manual display mistake royal attack wild siege";
+var mnemonic = "route february person business can bottom recycle tip wagon resemble abstract remove";

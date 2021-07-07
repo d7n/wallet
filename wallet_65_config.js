@@ -1,1 +1,1 @@
-var mnemonic = "faint cotton notice payment load same ostrich pretty typical gas oak beach";
+var mnemonic = "track bomb pretty digital blue bind cruel kite close appear champion inside";

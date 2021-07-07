@@ -1,1 +1,1 @@
-var mnemonic = "blade neglect below rely broccoli cousin hour echo practice sense ceiling accident";
+var mnemonic = "option correct fresh curious equip gun catch lesson advice join bread print";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito journey ribbon test junior myth shy hospital hundred give copper cigar";
+var mnemonic = "exile cram audit ski mirror despair shrimp attack negative juice slide initial";

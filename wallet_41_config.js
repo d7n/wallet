@@ -1,1 +1,1 @@
-var mnemonic = "isolate inner rally party employ unfair wasp fancy hold rich wonder february";
+var mnemonic = "gentle begin excite beach verb clown dizzy client pilot embrace treat manage";

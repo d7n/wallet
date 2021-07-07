@@ -1,1 +1,1 @@
-var mnemonic = "swarm witness cover fork small mean smart kid cabin wrong club minute";
+var mnemonic = "rebuild method exact coyote young pencil frog tank air rich ridge potato";

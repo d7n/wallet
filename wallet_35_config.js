@@ -1,1 +1,1 @@
-var mnemonic = "modify street subject interest zebra pelican crop awkward tiger sleep magnet tilt";
+var mnemonic = "must music two merit cash provide aspect emotion spatial chunk round glow";

@@ -1,1 +1,1 @@
-var mnemonic = "album million captain bunker fever connect present diesel insane solve wide talent";
+var mnemonic = "mandate impact include extra olive symptom practice long filter monitor forget bag";

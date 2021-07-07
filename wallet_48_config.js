@@ -1,1 +1,1 @@
-var mnemonic = "bar topple essence unusual three element erosion excess above speed fitness climb";
+var mnemonic = "found prison onion blind convince copper gentle alert powder south key wrestle";

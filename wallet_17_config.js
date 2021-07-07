@@ -1,1 +1,1 @@
-var mnemonic = "shift protect cruel copy cherry public attitude tumble slab virtual quick neither";
+var mnemonic = "sketch mix receive school exile amateur become pig web file accuse oppose";

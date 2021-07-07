@@ -1,1 +1,1 @@
-var mnemonic = "caution sniff cash marriage improve analyst life lemon chaos all whip muscle";
+var mnemonic = "talent select salad swarm syrup nephew nation arena security hair enemy embark";

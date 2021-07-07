@@ -1,1 +1,1 @@
-var mnemonic = "ride safe tooth rookie fun gym stadium country farm broom used clay";
+var mnemonic = "situate frequent left rely acid fit change dream fix eye range pattern";

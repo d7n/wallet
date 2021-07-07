@@ -1,1 +1,1 @@
-var mnemonic = "jazz magic stairs loud coast image barely wise happy duty advice gesture";
+var mnemonic = "rely pave pony night salon cereal absorb nuclear radar absurd mad grid";

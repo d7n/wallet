@@ -1,1 +1,1 @@
-var mnemonic = "fee meat clarify stairs kangaroo weapon quarter okay wing ranch enter saddle";
+var mnemonic = "produce glance plug sunny crowd visit lamp private pattern cave drastic fabric";

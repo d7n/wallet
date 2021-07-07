@@ -1,1 +1,1 @@
-var mnemonic = "source hover report typical desk build stick admit awful vapor endless crop";
+var mnemonic = "fee large fabric lab require east express drink render lesson original celery";

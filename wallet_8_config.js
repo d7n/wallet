@@ -1,1 +1,1 @@
-var mnemonic = "rocket acid lyrics antenna puzzle shrug build boy waste chaos kit client";
+var mnemonic = "evolve aisle umbrella true lemon position toddler repeat only gather glimpse hockey";

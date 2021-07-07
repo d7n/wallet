@@ -1,1 +1,1 @@
-var mnemonic = "supply expose aerobic toss stock improve endorse hire bracket sibling disagree tackle";
+var mnemonic = "next spot pottery upon bachelor size below key exit cave anchor nurse";

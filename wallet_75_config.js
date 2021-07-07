@@ -1,1 +1,1 @@
-var mnemonic = "myself wish defy during equal virtual hope success crazy mass puzzle hidden";
+var mnemonic = "dumb feature banner tuition glide hunt forest ginger police puzzle broom goose";

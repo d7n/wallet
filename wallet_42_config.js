@@ -1,1 +1,1 @@
-var mnemonic = "tonight vacuum chat okay arrest mountain staff abandon shuffle service dentist vibrant";
+var mnemonic = "lumber jelly cup one ladder carbon unknown turkey plastic ostrich unveil program";

@@ -1,1 +1,1 @@
-var mnemonic = "water menu rigid glass clap whisper dizzy civil bachelor furnace length uncover";
+var mnemonic = "crush you anxiety harbor winner cake visa humble edge arena agree mercy";

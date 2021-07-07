@@ -1,1 +1,1 @@
-var mnemonic = "broccoli science junior muffin ancient marble enable winner scout crumble fury ritual";
+var mnemonic = "occur camp boil place general device response surprise tonight hurry spawn file";

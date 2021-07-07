@@ -1,1 +1,1 @@
-var mnemonic = "later pulse gospel table hockey key worth cave denial that jelly carry";
+var mnemonic = "clip also hammer voyage scrap devote recall police nerve keep network zebra";

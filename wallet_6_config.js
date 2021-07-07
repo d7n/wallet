@@ -1,1 +1,1 @@
-var mnemonic = "scorpion street phone inside course cabin replace fever object rare emotion display";
+var mnemonic = "used remain solution identify sniff cup social letter kiwi spike what burden";

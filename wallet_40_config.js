@@ -1,1 +1,1 @@
-var mnemonic = "ankle motion rich raise decrease among demand reject breeze eye tunnel oxygen";
+var mnemonic = "solve history music write couple castle slow opinion traffic pave helmet village";

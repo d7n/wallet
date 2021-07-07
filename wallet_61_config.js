@@ -1,1 +1,1 @@
-var mnemonic = "champion dry point subject riot track crush olive breeze flip online suggest";
+var mnemonic = "spy universe oblige dress lady visit stage width bird choice lemon syrup";

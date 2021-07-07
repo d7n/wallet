@@ -1,1 +1,1 @@
-var mnemonic = "sure brave tank cinnamon company hospital news speed turkey drastic kingdom endorse";
+var mnemonic = "kid flavor opinion ring wine acid few rate love town blur audit";

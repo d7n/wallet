@@ -1,1 +1,1 @@
-var mnemonic = "hello sport bullet awake negative twice wagon then limit hold cargo true";
+var mnemonic = "steel abuse keep yellow below syrup drastic service rhythm fame deliver check";

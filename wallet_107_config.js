@@ -1,1 +1,1 @@
-var mnemonic = "tray farm net push duck maze sail hundred best cricket promote floor";
+var mnemonic = "nothing fiscal artwork economy math drastic lift recipe whisper often whisper slush";

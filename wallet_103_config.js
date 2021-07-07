@@ -1,1 +1,1 @@
-var mnemonic = "celery before lock real setup identify layer budget bridge verb rocket ecology";
+var mnemonic = "smile exercise similar path lava soft taxi tumble hole nasty story manage";

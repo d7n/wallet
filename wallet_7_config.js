@@ -1,1 +1,1 @@
-var mnemonic = "wash prepare coyote monitor junk recall innocent street diet claw talk front";
+var mnemonic = "slim object elevator idle differ isolate regret absorb sample ancient prison ceiling";

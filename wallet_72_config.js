@@ -1,1 +1,1 @@
-var mnemonic = "lazy board bullet rack demise recipe return gun actor wisdom judge candy";
+var mnemonic = "identify blush turn diet drastic side spare pear supply dragon target hair";

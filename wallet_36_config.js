@@ -1,1 +1,1 @@
-var mnemonic = "glove cloth mother valve clump cluster swear gauge length quarter sight spoon";
+var mnemonic = "whip skate agent arctic cool giraffe double stool dust surface enter unit";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey girl bind green elder animal orphan act envelope truly skull address";
+var mnemonic = "chase orbit box sword poverty round art discover poet blanket theme derive";

@@ -1,1 +1,1 @@
-var mnemonic = "mass donkey access hurry monitor black want clump swap animal core viable";
+var mnemonic = "virtual jaguar tourist coach win planet swarm service verb topple glove renew";

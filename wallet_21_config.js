@@ -1,1 +1,1 @@
-var mnemonic = "three village race suit suggest trade auto wheat orient raccoon charge gasp";
+var mnemonic = "arm clerk change desk olympic excuse west tube exercise depart luggage develop";

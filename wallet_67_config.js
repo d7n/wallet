@@ -1,1 +1,1 @@
-var mnemonic = "buyer carpet light burden twice size ocean clean layer cabbage twenty shiver";
+var mnemonic = "twenty ramp grow can outdoor actress nasty merry height social sport peace";

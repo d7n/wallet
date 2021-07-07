@@ -1,1 +1,1 @@
-var mnemonic = "exclude day rotate enrich purity saddle water exit stock cable north identify";
+var mnemonic = "return bitter index box tissue consider rapid donate design sing worry slot";

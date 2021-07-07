@@ -1,1 +1,1 @@
-var mnemonic = "code market face romance margin final flight lonely pride name finish renew";
+var mnemonic = "truly report orchard rack deal fatal abstract between stamp vote august coin";

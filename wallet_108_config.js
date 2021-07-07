@@ -1,1 +1,1 @@
-var mnemonic = "talent clerk kit dilemma scrub razor hello cart there genre diesel once";
+var mnemonic = "scorpion spoon critic buyer cheese rug neutral subway retire diesel marble cliff";

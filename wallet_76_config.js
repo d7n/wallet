@@ -1,1 +1,1 @@
-var mnemonic = "total opinion antenna surround flame jealous license like pave whisper silver peace";
+var mnemonic = "merit wonder infant ladder bar mountain device tiny muscle attend that sketch";

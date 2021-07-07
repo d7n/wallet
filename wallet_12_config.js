@@ -1,1 +1,1 @@
-var mnemonic = "model pioneer thumb hover dove salmon chaos book require east tumble father";
+var mnemonic = "ozone baby search venture capable science advice scatter mention hotel warfare ring";

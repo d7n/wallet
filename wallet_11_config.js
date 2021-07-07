@@ -1,1 +1,1 @@
-var mnemonic = "mass donate enable pole famous gospel wait taste sword impose march perfect";
+var mnemonic = "air fee flush apology train pen blame alley resource ocean pluck shoot";

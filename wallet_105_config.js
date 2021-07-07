@@ -1,1 +1,1 @@
-var mnemonic = "miracle chicken opera domain bicycle wing chimney consider brisk donor away name";
+var mnemonic = "scheme dish gauge milk sustain gold dignity sauce clerk arena initial palace";

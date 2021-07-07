@@ -1,1 +1,1 @@
-var mnemonic = "very stay company title punch rapid provide bench depth weapon panther security";
+var mnemonic = "health barrel cloth valid rude diagram awesome youth labor grunt manage bridge";

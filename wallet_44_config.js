@@ -1,1 +1,1 @@
-var mnemonic = "demise swift discover neck hat nest already uphold innocent this circle during";
+var mnemonic = "aspect moment mutual hockey curtain stable hunt tuition copper shoulder fetch girl";

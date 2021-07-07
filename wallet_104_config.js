@@ -1,1 +1,1 @@
-var mnemonic = "short hunt royal degree shrug door field enrich guess cruise satoshi sugar";
+var mnemonic = "session cart portion adjust raccoon become inspire version believe holiday sound gauge";

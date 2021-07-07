@@ -1,1 +1,1 @@
-var mnemonic = "occur middle claim siege gadget lady frog bonus unveil bright combine tent";
+var mnemonic = "candy parade vast dad digital possible inhale rib service vibrant mind degree";

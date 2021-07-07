@@ -1,1 +1,1 @@
-var mnemonic = "nation eyebrow age visit absent viable guitar alter diary flat earn absurd";
+var mnemonic = "bacon alcohol income mother under fall draft winter marble catalog offer water";

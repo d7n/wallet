@@ -1,1 +1,1 @@
-var mnemonic = "account biology secret awesome nose candy report coyote topic cube room rather";
+var mnemonic = "volcano way blast asset grass joy hunt puppy gossip law thumb cattle";

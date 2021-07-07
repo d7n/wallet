@@ -1,1 +1,1 @@
-var mnemonic = "mammal tiger awake tumble practice price daring valve pipe blur erode face";
+var mnemonic = "armor chuckle final worth depart reject another vehicle gown adapt hand fringe";

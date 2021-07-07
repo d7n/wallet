@@ -1,1 +1,1 @@
-var mnemonic = "gasp okay network network ring release cousin lion index runway afford roof";
+var mnemonic = "priority grab hire black lawsuit wing act island consider attack spy distance";

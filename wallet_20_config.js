@@ -1,1 +1,1 @@
-var mnemonic = "pass trim fragile sibling stool increase client song wisdom about gown evidence";
+var mnemonic = "lab hurry gadget garbage entire start problem exact view mutual body grant";

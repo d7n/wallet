@@ -1,1 +1,1 @@
-var mnemonic = "that marble patrol virus magic rug brown hurt match gravity field announce";
+var mnemonic = "clown wine absurd before upper bomb december fragile illness output you total";

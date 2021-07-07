@@ -1,1 +1,1 @@
-var mnemonic = "intact butter cover hawk train wrist sibling depart bird pony razor dove";
+var mnemonic = "neck notable royal awesome problem bless uncover pumpkin tiger cute release noise";

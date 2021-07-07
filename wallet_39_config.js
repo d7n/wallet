@@ -1,1 +1,1 @@
-var mnemonic = "engage coin evidence wrap gift tent squirrel gallery load senior check then";
+var mnemonic = "tag aerobic elbow outside movie possible panel drill smart top accident family";

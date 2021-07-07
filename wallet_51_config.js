@@ -1,1 +1,1 @@
-var mnemonic = "chronic tone result submit gasp spy lemon bring april scheme idle around";
+var mnemonic = "extend position like route unique total toddler echo deer cream observe tray";

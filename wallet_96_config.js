@@ -1,1 +1,1 @@
-var mnemonic = "exotic cliff submit gather endorse essence tackle suffer talent habit habit maid";
+var mnemonic = "elder super omit indoor usual neck tribe copy airport size buyer soon";

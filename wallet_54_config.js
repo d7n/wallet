@@ -1,1 +1,1 @@
-var mnemonic = "mail pyramid address nose buddy certain wise axis exist recall skirt person";
+var mnemonic = "combine habit girl warfare what way liar obscure infant label glory chronic";

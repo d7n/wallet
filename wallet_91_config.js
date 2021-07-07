@@ -1,1 +1,1 @@
-var mnemonic = "tag shrimp nut runway myself float legal various interest amused lens stone";
+var mnemonic = "unit spot advance lobster often army wall round smoke shoulder pudding payment";

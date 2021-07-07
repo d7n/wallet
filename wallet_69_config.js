@@ -1,1 +1,1 @@
-var mnemonic = "comic fence girl drift champion kiss offer clog grace acoustic day duty";
+var mnemonic = "pen laugh hamster abuse educate make crumble remove near captain more catch";

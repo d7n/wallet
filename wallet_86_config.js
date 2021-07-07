@@ -1,1 +1,1 @@
-var mnemonic = "scorpion lesson jungle obvious satoshi target obvious town famous swarm cost melt";
+var mnemonic = "denial virtual capable evil display hair attend glance butter life fold gym";

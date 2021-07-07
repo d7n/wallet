@@ -1,1 +1,1 @@
-var mnemonic = "network hard asthma script item hair federal aim chicken tenant rabbit blossom";
+var mnemonic = "wire amateur excite glass point endorse cloud guilt unable flat occur gauge";

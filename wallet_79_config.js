@@ -1,1 +1,1 @@
-var mnemonic = "coyote prosper ocean club poverty inject timber rough hope cloth capital journey";
+var mnemonic = "before great license pole tumble front leaf fatal chaos capable barely erode";

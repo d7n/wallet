@@ -1,1 +1,1 @@
-var mnemonic = "inner economy now rose maximum cliff extra unit prefer palace rival half";
+var mnemonic = "noble couple barely layer reward duck napkin van student captain final rival";

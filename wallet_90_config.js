@@ -1,1 +1,1 @@
-var mnemonic = "mammal dune sweet impact enroll toe sad episode bonus river outside stadium";
+var mnemonic = "rely sand pear end motor claim bullet social viable quick giant nephew";

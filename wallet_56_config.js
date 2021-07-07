@@ -1,1 +1,1 @@
-var mnemonic = "little fit retire monkey music load box range apology foster taste pear";
+var mnemonic = "venture fall rapid defy switch purpose loud spread fat crew unhappy antenna";

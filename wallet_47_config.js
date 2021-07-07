@@ -1,1 +1,1 @@
-var mnemonic = "lock tiny struggle daring region impulse infant now neither economy sight way";
+var mnemonic = "define else error clip decade wrestle side flight walk dolphin leader abandon";

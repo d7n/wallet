@@ -1,1 +1,1 @@
-var mnemonic = "mutual capable baby foam similar rely stage river theory turn axis issue";
+var mnemonic = "battle doll baby island silent pepper since electric three purity royal slender";

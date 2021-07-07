@@ -1,1 +1,1 @@
-var mnemonic = "easy nature squeeze anxiety swap mutual treat soap deliver enrich faint erase";
+var mnemonic = "sketch oven input outdoor arrow kit enroll section adapt orchard weapon behind";

@@ -1,1 +1,1 @@
-var mnemonic = "what blood trust conduct fringe view speak milk isolate lab crucial immune";
+var mnemonic = "shaft harvest slender hip vanish like zero truly nation festival umbrella salon";

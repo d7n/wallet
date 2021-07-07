@@ -1,1 +1,1 @@
-var mnemonic = "square witness glance another three distance firm chase dinner hunt casual cigar";
+var mnemonic = "main erase refuse reform diary room memory dumb lecture hub profit slush";

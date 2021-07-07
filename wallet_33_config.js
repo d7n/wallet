@@ -1,1 +1,1 @@
-var mnemonic = "dawn foam parrot mimic require hire license close debate faculty ability mouse";
+var mnemonic = "answer you friend trend ivory father tell awkward city odor seven fringe";

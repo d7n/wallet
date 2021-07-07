@@ -1,1 +1,1 @@
-var mnemonic = "depart canal ecology banana settle idle mouse deposit where predict park soft";
+var mnemonic = "win behave turtle yard issue disease render merge blossom vault spike you";

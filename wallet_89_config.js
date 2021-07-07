@@ -1,1 +1,1 @@
-var mnemonic = "rain robust grief leg mixture then captain recall kick gap robust culture";
+var mnemonic = "busy project intact whale injury view voice frown riot curve inspire breeze";

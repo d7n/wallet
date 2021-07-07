@@ -1,1 +1,1 @@
-var mnemonic = "over suggest mesh antique summer ripple coconut tired amazing guide course glory";
+var mnemonic = "govern icon phrase adapt kitchen dream output cigar primary bonus dignity swarm";

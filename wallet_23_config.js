@@ -1,1 +1,1 @@
-var mnemonic = "level rain excuse afford road enrich canal core area kit street mask";
+var mnemonic = "alter donor twelve garment ghost work message degree erase erosion priority inform";

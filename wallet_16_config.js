@@ -1,1 +1,1 @@
-var mnemonic = "inform gorilla box sand soldier century cotton media grass edge program child";
+var mnemonic = "nut army paddle jar guitar dove short evoke visual kiwi know narrow";
