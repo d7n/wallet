@@ -1,1 +1,1 @@
-var mnemonic = "rescue chicken excite adult hedgehog only require acoustic powder alert essence element";
+var mnemonic = "notice grit bleak husband crop trumpet safe police custom kangaroo forward know";

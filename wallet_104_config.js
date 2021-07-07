@@ -1,1 +1,1 @@
-var mnemonic = "dutch parrot alcohol wall fashion rival local buyer bracket upper debris people";
+var mnemonic = "logic recall deliver runway check festival sheriff hand bird replace news mass";

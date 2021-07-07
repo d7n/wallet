@@ -1,1 +1,1 @@
-var mnemonic = "donate ginger eye unlock frozen december mix canoe tobacco away monkey pony";
+var mnemonic = "salon lecture diesel skate biology column high side kit unable slice heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "must olive fatal very train tail sketch diamond shy lucky duty excess";
+var mnemonic = "viable rate visual ship fault fragile airport front diet cinnamon vanish craft";

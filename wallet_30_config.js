@@ -1,1 +1,1 @@
-var mnemonic = "price school inspire enable try style run scene clump waste document horror";
+var mnemonic = "buffalo party annual forward surge trouble average cable goat blouse forward useless";

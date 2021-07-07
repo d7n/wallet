@@ -1,1 +1,1 @@
-var mnemonic = "cake output inmate trouble control edge marine knock busy shop priority check";
+var mnemonic = "fancy marble gaze steak hamster student garment raw series bulb elite camp";

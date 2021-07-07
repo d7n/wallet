@@ -1,1 +1,1 @@
-var mnemonic = "hand office glance reunion order size tongue flash fitness plastic change rookie";
+var mnemonic = "brother seed van beach hill opinion clump captain limit acid wrestle breeze";

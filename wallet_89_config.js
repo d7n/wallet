@@ -1,1 +1,1 @@
-var mnemonic = "invite warm furnace shy gown art make meat ritual screen leave panic";
+var mnemonic = "net citizen advance vanish wheel easily case patrol foster twenty bacon property";

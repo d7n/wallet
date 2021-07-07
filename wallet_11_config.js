@@ -1,1 +1,1 @@
-var mnemonic = "milk drill leaf opera olympic dirt lazy code bean manual cool hedgehog";
+var mnemonic = "mechanic collect myth art federal delay dash obtain often explain brown object";

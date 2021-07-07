@@ -1,1 +1,1 @@
-var mnemonic = "describe bone fuel journey enter million beach chronic senior layer rebel blade";
+var mnemonic = "hour match wild tackle general enlist cliff lumber earn actress sheriff verb";

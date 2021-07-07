@@ -1,1 +1,1 @@
-var mnemonic = "join cute mail still apology you evolve kick stage child hour solve";
+var mnemonic = "steel slight outer glimpse tragic matter enemy flee room wrap cluster effort";

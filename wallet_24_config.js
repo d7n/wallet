@@ -1,1 +1,1 @@
-var mnemonic = "business rubber glare topple siege alien deny slender today theory onion pumpkin";
+var mnemonic = "garage virtual miss someone gossip december shuffle primary oval replace test good";

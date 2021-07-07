@@ -1,1 +1,1 @@
-var mnemonic = "garden present shell often off dilemma gym marble borrow robot athlete adjust";
+var mnemonic = "world dice ethics same behave opinion push alien strong cage mass favorite";

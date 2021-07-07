@@ -1,1 +1,1 @@
-var mnemonic = "view desert vast kangaroo symptom beef shine oak knock offer analyst because";
+var mnemonic = "until just benefit magnet devote point quit target wool people copy bread";

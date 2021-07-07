@@ -1,1 +1,1 @@
-var mnemonic = "celery service sight shock more bulk canal birth flush village room drip";
+var mnemonic = "hire crisp toe rent hurry rifle enact visa chase raccoon unhappy guitar";

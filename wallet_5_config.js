@@ -1,1 +1,1 @@
-var mnemonic = "ocean mistake enact dilemma knee juice debate laundry recipe raven sting wolf";
+var mnemonic = "debris exhaust seat caution awkward relief seven decade ignore march gap board";

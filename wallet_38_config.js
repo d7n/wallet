@@ -1,1 +1,1 @@
-var mnemonic = "various modify salon traffic trumpet awful inner giant bargain issue collect there";
+var mnemonic = "much stomach return push pole badge medal habit limit stand boring doll";

@@ -1,1 +1,1 @@
-var mnemonic = "attend obscure essence simple garden visa noise atom fever label rent donate";
+var mnemonic = "lend manual glass dinner body almost move congress artist census pass student";

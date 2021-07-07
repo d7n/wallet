@@ -1,1 +1,1 @@
-var mnemonic = "choice capital stem tooth slide couch mail arch debate click citizen stereo";
+var mnemonic = "praise method amateur benefit jungle coach weird keen ankle pave sorry alarm";

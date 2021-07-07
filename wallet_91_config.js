@@ -1,1 +1,1 @@
-var mnemonic = "wild evil breeze term burger mention science mosquito steel blame lawsuit stay";
+var mnemonic = "steak uncover desk immense among soul crop head wear minor attitude few";

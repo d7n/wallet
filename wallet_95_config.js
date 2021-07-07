@@ -1,1 +1,1 @@
-var mnemonic = "dwarf include buzz wire same dance country own dial winner scatter cook";
+var mnemonic = "silent dynamic number mad current cattle squeeze chef anxiety media initial fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "festival route save simple girl coast damage must curtain that congress oven";
+var mnemonic = "once scorpion blame announce raccoon squeeze float upon loyal vibrant include tuna";

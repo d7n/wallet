@@ -1,1 +1,1 @@
-var mnemonic = "bonus sign maximum usual they jacket recall moral minor blush west situate";
+var mnemonic = "radar world window faith execute shrimp network body season blush shrug slender";

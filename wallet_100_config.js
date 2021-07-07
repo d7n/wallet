@@ -1,1 +1,1 @@
-var mnemonic = "grit cube below skill clock pilot half cigar lonely earn step tattoo";
+var mnemonic = "nature cereal turkey head fence field leg spy acid pencil true jump";

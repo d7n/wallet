@@ -1,1 +1,1 @@
-var mnemonic = "page flash health fee chat defense affair myself silent honey wedding unhappy";
+var mnemonic = "remain save private marine noodle fan verify emotion need awful confirm chair";

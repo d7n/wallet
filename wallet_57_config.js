@@ -1,1 +1,1 @@
-var mnemonic = "pig rent blast void tail west tired question noble number please car";
+var mnemonic = "tongue faint remain robot moral caught tenant spider era super dish goose";

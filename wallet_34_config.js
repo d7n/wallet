@@ -1,1 +1,1 @@
-var mnemonic = "same drink intact throw december rhythm news turn science capital west dismiss";
+var mnemonic = "lawsuit festival door lady bubble beach island extend arena blade jealous lift";

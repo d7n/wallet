@@ -1,1 +1,1 @@
-var mnemonic = "blade drink advance curious carry mushroom essence bridge honey ship follow addict";
+var mnemonic = "prosper glue belt buyer silly recall dust flip cute reform usual reunion";

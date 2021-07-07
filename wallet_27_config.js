@@ -1,1 +1,1 @@
-var mnemonic = "debris pistol network lawsuit vibrant congress immense sport milk core water north";
+var mnemonic = "dress audit planet end earn insect key essence husband exotic list stock";

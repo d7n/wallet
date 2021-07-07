@@ -1,1 +1,1 @@
-var mnemonic = "olive bind basic coconut pencil happy brush armor wisdom mobile left security";
+var mnemonic = "panther monster moment young slow erupt seat solid tragic coconut black bid";

@@ -1,1 +1,1 @@
-var mnemonic = "stage slide dune alien giraffe fine scorpion derive arch punch soccer afraid";
+var mnemonic = "senior ribbon color oak course banana fuel right broken prosper half hobby";

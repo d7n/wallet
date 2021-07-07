@@ -1,1 +1,1 @@
-var mnemonic = "drop city post work behave quit jazz give advance carpet ready cupboard";
+var mnemonic = "south wrong solar climb swift west jar warrior claim say swift color";

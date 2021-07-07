@@ -1,1 +1,1 @@
-var mnemonic = "zone flash erode pig panic voyage fox jungle verb damage champion have";
+var mnemonic = "supply develop task noise alarm original glimpse mimic juice pretty refuse crystal";

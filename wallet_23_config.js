@@ -1,1 +1,1 @@
-var mnemonic = "reject remain suggest priority honey aunt health satoshi misery wet museum benefit";
+var mnemonic = "panel party turkey again element tunnel achieve brown mind fringe lock ten";

@@ -1,1 +1,1 @@
-var mnemonic = "story fly always imitate idle thank churn earn ordinary client insect raise";
+var mnemonic = "february view forum hover cradle mother circle survey upset maple adapt able";

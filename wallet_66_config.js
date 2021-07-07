@@ -1,1 +1,1 @@
-var mnemonic = "asset toy concert okay chaos fruit click there arch solar hand economy";
+var mnemonic = "zebra author fly resemble hand boil filter find eight fire convince normal";

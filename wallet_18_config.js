@@ -1,1 +1,1 @@
-var mnemonic = "coral welcome popular shallow illegal critic answer praise advice victory middle estate";
+var mnemonic = "primary three sail off blame deputy obtain common cinnamon rally powder alcohol";

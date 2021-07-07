@@ -1,1 +1,1 @@
-var mnemonic = "punch cherry glass maid ship near film total capital near erode orchard";
+var mnemonic = "milk parent camera palace purse find worry autumn express melt decrease siren";

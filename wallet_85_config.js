@@ -1,1 +1,1 @@
-var mnemonic = "assist fruit leisure local merit tenant door hold satoshi bike police silent";
+var mnemonic = "fix foster circle okay speed bamboo style blood extend wall win film";

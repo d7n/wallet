@@ -1,1 +1,1 @@
-var mnemonic = "island extend enact tattoo attitude choice outer indicate parrot carry pencil fatal";
+var mnemonic = "hundred ask actual forward captain modify divorce celery tobacco sponsor kidney repeat";

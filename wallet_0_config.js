@@ -1,1 +1,1 @@
-var mnemonic = "crumble ivory usage sad local tent rice skin dutch blame broccoli assault";
+var mnemonic = "useless whip parrot slot dial shoe decrease mule mimic author math prevent";

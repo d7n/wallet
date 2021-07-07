@@ -1,1 +1,1 @@
-var mnemonic = "elevator size drop crawl real glow early welcome trip suspect rib dwarf";
+var mnemonic = "century drama lecture law spoil mask album pigeon broken glimpse dash length";

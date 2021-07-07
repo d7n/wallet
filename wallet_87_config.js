@@ -1,1 +1,1 @@
-var mnemonic = "remind acid dream pause yellow express hunt valley story quantum gesture job";
+var mnemonic = "sail smile thing aunt hawk hair sleep cage intact muscle huge exotic";

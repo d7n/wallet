@@ -1,1 +1,1 @@
-var mnemonic = "review busy build prefer shaft frog neck hockey vapor prosper arrest man";
+var mnemonic = "child broccoli reopen spring van turkey road dwarf ill snap material brand";

@@ -1,1 +1,1 @@
-var mnemonic = "social average grain tank parrot arrive innocent live employ stuff follow satoshi";
+var mnemonic = "staff pill sick mouse random monitor devote practice pilot soul ceiling end";

@@ -1,1 +1,1 @@
-var mnemonic = "minor service final video wine now social plunge museum forward layer desk";
+var mnemonic = "settle trend sketch private airport raccoon width festival various nut purpose lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "place dial jaguar yard tail cliff tumble friend verify area stone gap";
+var mnemonic = "mystery total holiday shaft latin hybrid example silver easy buzz spy south";

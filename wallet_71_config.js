@@ -1,1 +1,1 @@
-var mnemonic = "bomb whip video remove six struggle cancel jazz erupt skate blouse about";
+var mnemonic = "uncle rebuild west school royal awesome shell omit reason inform sword cannon";

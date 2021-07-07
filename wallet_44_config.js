@@ -1,1 +1,1 @@
-var mnemonic = "junior spoon that bone giggle music banner crowd occur pizza live belt";
+var mnemonic = "later gym peace car kind divert pencil acoustic high poverty wasp coach";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete buyer snap harbor defy dragon season soul immense dove online aware";
+var mnemonic = "young loyal fall bronze cube drink trick intact slender coach finish marine";

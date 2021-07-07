@@ -1,1 +1,1 @@
-var mnemonic = "zebra shop deputy zebra bridge victory mansion forget maximum require until ill";
+var mnemonic = "neither lunch same spread birth sword better crucial mule thank decade mountain";

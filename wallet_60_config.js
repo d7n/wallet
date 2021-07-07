@@ -1,1 +1,1 @@
-var mnemonic = "naive gossip bamboo hurry negative ozone hold shrug prosper enact promote actor";
+var mnemonic = "blame horse require credit what garden habit hollow raise hospital welcome bounce";

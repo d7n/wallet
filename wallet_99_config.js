@@ -1,1 +1,1 @@
-var mnemonic = "regular pony alter topic sunset material office record wrist guitar around dash";
+var mnemonic = "pretty drastic fragile subject drop pepper interest become napkin release monster ball";

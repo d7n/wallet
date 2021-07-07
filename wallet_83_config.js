@@ -1,1 +1,1 @@
-var mnemonic = "bulk license burst parade dirt beyond income depart hair oxygen fade crunch";
+var mnemonic = "situate web family illegal entire win hunt erupt want life grape core";

@@ -1,1 +1,1 @@
-var mnemonic = "knee proof gentle force violin focus turn episode ghost artist century edit";
+var mnemonic = "grunt mesh vast rocket grow sample rose unveil drop energy march claw";

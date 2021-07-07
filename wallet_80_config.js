@@ -1,1 +1,1 @@
-var mnemonic = "shuffle vanish actor bubble find nuclear alley tongue myself strategy champion vacant";
+var mnemonic = "address scatter pave attract trumpet avoid price morning short mutual actress orbit";

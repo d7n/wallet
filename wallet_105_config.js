@@ -1,1 +1,1 @@
-var mnemonic = "moment rigid better list rapid other settle unfold boring around hazard effort";
+var mnemonic = "love stand canoe hour category use soul unfair hedgehog gun force recycle";

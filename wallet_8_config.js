@@ -1,1 +1,1 @@
-var mnemonic = "defense uniform supreme material prevent trumpet flavor offer truck build crawl ship";
+var mnemonic = "pill news rich author beach bullet stay bottom carpet tongue north jazz";

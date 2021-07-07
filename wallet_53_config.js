@@ -1,1 +1,1 @@
-var mnemonic = "tail omit bag uncle vacuum security cheese diesel able smooth reunion cliff";
+var mnemonic = "squirrel smoke horn arena embody aunt stem fatigue drop cigar skate tent";

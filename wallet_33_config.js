@@ -1,1 +1,1 @@
-var mnemonic = "catalog caution come breeze comfort double small adjust pencil robot lyrics project";
+var mnemonic = "kind hope opinion person taxi general tuition outside safe asset over gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "network noodle tell crowd submit sadness green point goddess champion soldier hotel";
+var mnemonic = "evolve shrimp palm cake bundle hundred awake judge rent frog thunder hidden";

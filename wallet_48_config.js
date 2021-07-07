@@ -1,1 +1,1 @@
-var mnemonic = "shove oil lens patient animal axis december hockey recipe caught element govern";
+var mnemonic = "plate bench win torch local million imitate inside negative giggle scheme banana";

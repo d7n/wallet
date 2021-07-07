@@ -1,1 +1,1 @@
-var mnemonic = "blur finish crowd fault engine timber joke hundred token purse lemon inform";
+var mnemonic = "walk purity tuna cart sister scatter device fit patient shrug uphold fork";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket village before worth claim myself injury adjust black middle amount comfort";
+var mnemonic = "action deal ill denial title pyramid swear cricket climb morning proud rookie";

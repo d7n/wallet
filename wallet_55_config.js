@@ -1,1 +1,1 @@
-var mnemonic = "jewel chalk describe scorpion chief blame machine luxury pioneer emerge hole juice";
+var mnemonic = "mountain health identify fever dice fun much fine rather hard syrup cream";

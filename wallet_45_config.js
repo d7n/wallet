@@ -1,1 +1,1 @@
-var mnemonic = "hurry net hockey fiscal theory birth surround elbow dove large enrich scare";
+var mnemonic = "hood pattern income iron robust fat toddler animal occur smart mobile project";

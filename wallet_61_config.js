@@ -1,1 +1,1 @@
-var mnemonic = "equip horror reveal auto drill inner escape festival tail hobby blanket mule";
+var mnemonic = "blame luggage coyote trigger device stable tumble absorb frozen cigar patch crawl";

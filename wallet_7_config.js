@@ -1,1 +1,1 @@
-var mnemonic = "riot buffalo receive proof feature test discover warrior coral casual island piano";
+var mnemonic = "can allow barrel horse duck describe avocado old century fix prefer split";

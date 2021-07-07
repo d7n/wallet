@@ -1,1 +1,1 @@
-var mnemonic = "dragon draw caution believe endorse swing shoulder resemble laptop saddle eagle upon";
+var mnemonic = "sadness bubble confirm early brass lawn book valley original throw remain enforce";

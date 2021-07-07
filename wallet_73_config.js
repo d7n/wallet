@@ -1,1 +1,1 @@
-var mnemonic = "ten mule journey kit wheat diamond place harvest motion alpha choice mountain";
+var mnemonic = "life ahead summer giraffe bridge chase minimum limit fashion excess segment enable";

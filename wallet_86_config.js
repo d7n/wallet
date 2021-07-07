@@ -1,1 +1,1 @@
-var mnemonic = "fiscal mom angle honey bright brush rather math tuition rural mix boat";
+var mnemonic = "boost unknown style chair rubber open great shiver purse frog column shell";

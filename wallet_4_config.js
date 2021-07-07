@@ -1,1 +1,1 @@
-var mnemonic = "chat boil enrich state laugh garbage awesome draft two long already rug";
+var mnemonic = "small neck fee december nuclear magnet obvious great mirror caution word another";

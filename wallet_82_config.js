@@ -1,1 +1,1 @@
-var mnemonic = "weird next live upset lecture april across lunar burger page cabbage face";
+var mnemonic = "antenna motor napkin approve air process chicken cost filter soon surprise mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny gallery opinion aunt steak manual brother pulse label alone ocean rib";
+var mnemonic = "floor orange demand example bid canal rain rotate session arrive palm banana";

@@ -1,1 +1,1 @@
-var mnemonic = "happy key lift you pull exact muffin morning burst shield result boat";
+var mnemonic = "shove eternal snack glow candy lion write concert smart wife auto butter";

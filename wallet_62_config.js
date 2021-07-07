@@ -1,1 +1,1 @@
-var mnemonic = "spice recipe wolf undo wash deer tone rebuild answer nice vicious silent";
+var mnemonic = "identify grass segment chat uphold remind alley skill apart swallow jaguar magnet";

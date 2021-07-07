@@ -1,1 +1,1 @@
-var mnemonic = "perfect original myth juice calm monster same garden clean pen tip face";
+var mnemonic = "large essence fantasy mad kiss tilt earn total october provide select antenna";

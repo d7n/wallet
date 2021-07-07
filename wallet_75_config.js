@@ -1,1 +1,1 @@
-var mnemonic = "wing forget three extend swap mansion myself slow dutch transfer tag liquid";
+var mnemonic = "guard keep car connect popular table again trumpet effort carpet dinosaur shoot";

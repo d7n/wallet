@@ -1,1 +1,1 @@
-var mnemonic = "december into learn jaguar escape bottom push hotel topic already matrix crawl";
+var mnemonic = "polar night connect marine burden emotion van purpose version benefit swing finish";

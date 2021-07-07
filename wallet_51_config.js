@@ -1,1 +1,1 @@
-var mnemonic = "whale piano pact cheap place spatial bar electric proof family piece desert";
+var mnemonic = "sniff grunt episode tortoise anger find defy usual master nest grab domain";

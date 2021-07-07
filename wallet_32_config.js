@@ -1,1 +1,1 @@
-var mnemonic = "junk hard duck angle state return slush voice photo old picture birth";
+var mnemonic = "urge flavor prison tree castle hidden normal excuse three cake verify slogan";

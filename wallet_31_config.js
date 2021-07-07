@@ -1,1 +1,1 @@
-var mnemonic = "polar toy feature differ strike congress short hint razor element now make";
+var mnemonic = "inmate divert movie throw evoke security kite eternal mention change march sunny";

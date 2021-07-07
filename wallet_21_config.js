@@ -1,1 +1,1 @@
-var mnemonic = "exchange grain mouse south again airport wave skate seek day snap west";
+var mnemonic = "measure bronze behind capable park lawsuit person behave pelican protect hamster breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "defy jewel junior sphere neither begin parade point muscle upset range grape";
+var mnemonic = "dry emotion shell smile foam bless shop conduct doctor same interest rack";

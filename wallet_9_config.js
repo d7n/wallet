@@ -1,1 +1,1 @@
-var mnemonic = "betray soup rhythm parrot language couch average nominee engine virus drum century";
+var mnemonic = "annual innocent candy output occur champion race seat real never topple actress";
