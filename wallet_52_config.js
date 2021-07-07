@@ -1,1 +1,1 @@
-var mnemonic = "resource genuine struggle chase uphold comic club brisk earn crew van unable";
+var mnemonic = "gallery spawn talk worry girl current panel kiwi maple mesh fortune hover";

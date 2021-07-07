@@ -1,1 +1,1 @@
-var mnemonic = "chat float save pulp dove loyal waste sudden equip impose brick retire";
+var mnemonic = "lend asthma original absent network outside alien wool weasel field scrap point";

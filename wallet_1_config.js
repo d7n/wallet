@@ -1,1 +1,1 @@
-var mnemonic = "bicycle radio nothing swallow kingdom issue december gain tell trophy climb faith";
+var mnemonic = "wave giggle expect close gift inch manage merge era brother grocery explain";

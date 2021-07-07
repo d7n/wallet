@@ -1,1 +1,1 @@
-var mnemonic = "prize surge cloth art interest sad split vast wide valid reopen parrot";
+var mnemonic = "thumb fabric chimney review sign crystal clown base oppose elegant sausage beauty";

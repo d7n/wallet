@@ -1,1 +1,1 @@
-var mnemonic = "sniff assume nice good table believe evolve alcohol fresh flavor athlete junior";
+var mnemonic = "retire design coyote stove father vibrant bus bracket embody accuse rubber nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "leave what laundry advice olive faith strong cancel bullet wolf rely term";
+var mnemonic = "donate crew initial end series satisfy audit seek useless body oppose cargo";

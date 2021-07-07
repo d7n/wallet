@@ -1,1 +1,1 @@
-var mnemonic = "save glance soft idea absurd want beyond park final fee ancient reduce";
+var mnemonic = "waste donor buzz clay task oil tired swift have enemy nature old";

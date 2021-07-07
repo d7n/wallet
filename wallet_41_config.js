@@ -1,1 +1,1 @@
-var mnemonic = "riot visa check census gaze squirrel axis bracket divorce auto kid account";
+var mnemonic = "carbon invest zero dilemma margin mansion pumpkin awful exhaust climb ginger tiger";

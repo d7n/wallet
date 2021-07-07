@@ -1,1 +1,1 @@
-var mnemonic = "swamp pear giggle grape light journey doll soon develop seminar boy saddle";
+var mnemonic = "life enough blood boring solid protect debate frequent ginger style bridge census";

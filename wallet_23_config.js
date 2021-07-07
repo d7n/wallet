@@ -1,1 +1,1 @@
-var mnemonic = "cactus illegal crumble cycle solution satisfy all jewel release cook tennis box";
+var mnemonic = "stage foster attract vendor effort donkey twist crouch frog advance bracket school";

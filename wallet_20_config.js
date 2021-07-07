@@ -1,1 +1,1 @@
-var mnemonic = "connect kind swap abstract copy hole huge cruise unfair mix engage arctic";
+var mnemonic = "mixed quit dose alter quit figure illness rug divert shed village skill";

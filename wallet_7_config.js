@@ -1,1 +1,1 @@
-var mnemonic = "labor slush anger arrow program wheat cradle task there gather alien depth";
+var mnemonic = "primary please horror summer kiwi pretty year dismiss school develop quantum infant";

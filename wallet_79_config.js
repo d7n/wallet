@@ -1,1 +1,1 @@
-var mnemonic = "gate good style priority flush assist quote dumb start lounge stable erode";
+var mnemonic = "tooth beauty tissue peasant feel bounce sponsor general recall kiss funny duck";

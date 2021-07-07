@@ -1,1 +1,1 @@
-var mnemonic = "record author head empower clip elephant guitar risk still middle goose play";
+var mnemonic = "current runway grace stumble local access vicious volcano figure describe ten vapor";

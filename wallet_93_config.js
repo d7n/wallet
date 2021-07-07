@@ -1,1 +1,1 @@
-var mnemonic = "evolve worry coffee glove slide bargain frame august trumpet brave spray spoon";
+var mnemonic = "lock trade magnet cereal timber pony talk ozone trip trade mandate brief";

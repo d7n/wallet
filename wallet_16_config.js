@@ -1,1 +1,1 @@
-var mnemonic = "parade art axis benefit electric give agree define useless float brass similar";
+var mnemonic = "beauty fan steel result punch kitchen amused skirt famous nose simple grocery";

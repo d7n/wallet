@@ -1,1 +1,1 @@
-var mnemonic = "cool method walk medal insect ribbon thank lumber anger joy weird stable";
+var mnemonic = "deny swarm almost crew book vicious detect drill arrow laundry lumber jealous";

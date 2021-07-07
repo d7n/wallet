@@ -1,1 +1,1 @@
-var mnemonic = "uniform winner hour topic layer burst insane boil disagree equip stairs cram";
+var mnemonic = "spatial car release knife away drama young obscure gather chimney syrup loud";

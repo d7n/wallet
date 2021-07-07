@@ -1,1 +1,1 @@
-var mnemonic = "tide country absurd october write then vintage include soda turn truth recycle";
+var mnemonic = "convince permit gasp tomorrow winter tape minor payment shift master blame learn";

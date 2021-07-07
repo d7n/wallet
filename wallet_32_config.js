@@ -1,1 +1,1 @@
-var mnemonic = "bean forum planet tent fluid patient razor warrior nice day tobacco mean";
+var mnemonic = "imitate notice diagram carry coffee hold abuse rubber skirt shuffle cart smooth";

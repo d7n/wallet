@@ -1,1 +1,1 @@
-var mnemonic = "between theme frown unit way check egg matrix alley erosion account prosper";
+var mnemonic = "keep bone spend weather wedding bright wagon evolve skill plastic ramp collect";

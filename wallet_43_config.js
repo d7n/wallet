@@ -1,1 +1,1 @@
-var mnemonic = "flame eyebrow now engage giraffe wear eight castle kit flee magnet math";
+var mnemonic = "stable supply power spawn donkey post live anchor clock ozone predict tower";

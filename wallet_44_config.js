@@ -1,1 +1,1 @@
-var mnemonic = "horse couple nature abuse oval island frown goat around pen position agent";
+var mnemonic = "soldier search gauge column turkey slot caught pluck another seat retreat face";

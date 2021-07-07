@@ -1,1 +1,1 @@
-var mnemonic = "corn wood task sun tragic shoe during arrange suspect loud swarm matrix";
+var mnemonic = "grocery bread depend bulb intact resemble elephant lamp capable car solid evil";

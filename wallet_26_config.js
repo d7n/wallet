@@ -1,1 +1,1 @@
-var mnemonic = "brick tilt minor prepare addict radar tower oxygen suffer endless elegant bar";
+var mnemonic = "dragon detect identify fork clever slot cause frown mean artist future prevent";

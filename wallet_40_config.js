@@ -1,1 +1,1 @@
-var mnemonic = "model void close blur hour knife detail waste purpose traffic galaxy top";
+var mnemonic = "warfare various toss demise member earn involve pig fetch essay student effort";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern media neglect suspect knee toss warrior sign lend name zero border";
+var mnemonic = "decide hundred photo hockey list drive alien breeze million abuse brick elder";

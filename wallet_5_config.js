@@ -1,1 +1,1 @@
-var mnemonic = "young wasp barrel venture own shrug skirt bid foot small beef tonight";
+var mnemonic = "dumb game thank caution friend output equip blur heavy talk lock reveal";

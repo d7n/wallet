@@ -1,1 +1,1 @@
-var mnemonic = "fitness meat ginger razor base venture problem subway what room method basic";
+var mnemonic = "hello high add baby ocean right wine what write tribe bus high";

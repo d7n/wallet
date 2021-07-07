@@ -1,1 +1,1 @@
-var mnemonic = "elevator volume extra bean erupt input coconut use clever include eagle february";
+var mnemonic = "tilt raven banner practice fiscal tower snap mail equal want require gauge";

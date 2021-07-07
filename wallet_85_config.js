@@ -1,1 +1,1 @@
-var mnemonic = "exhibit crisp diamond like reduce birth afraid cake cheap child rough observe";
+var mnemonic = "like rule upgrade resemble vague client inside rice gain tip giant senior";

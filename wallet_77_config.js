@@ -1,1 +1,1 @@
-var mnemonic = "pass opinion warfare result base demand awesome list foil patch tag warm";
+var mnemonic = "crazy grain stock net acoustic material ignore ankle hurry defy size ensure";

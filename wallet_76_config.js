@@ -1,1 +1,1 @@
-var mnemonic = "cotton best pig venture panda eyebrow ozone security rifle blush trim lunch";
+var mnemonic = "deer blossom chunk sunset adult future want bar open large matrix exit";

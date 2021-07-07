@@ -1,1 +1,1 @@
-var mnemonic = "bitter law power demand mind noise doll call token reward work wave";
+var mnemonic = "pull quote choice rare thrive cousin market wheat profit wine country air";

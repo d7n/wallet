@@ -1,1 +1,1 @@
-var mnemonic = "wet borrow draw already blast divert tube history parrot distance crane fluid";
+var mnemonic = "tuition fox have wheat ticket woman butter copy flock divert auction parent";

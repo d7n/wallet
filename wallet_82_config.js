@@ -1,1 +1,1 @@
-var mnemonic = "pause purity embody jungle mandate drive thing bachelor claw ordinary code person";
+var mnemonic = "muffin vehicle royal aerobic barely whip hand pretty dinner bind burst age";

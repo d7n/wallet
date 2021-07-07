@@ -1,1 +1,1 @@
-var mnemonic = "glow render fruit defy paddle because eagle soul venue gap little fruit";
+var mnemonic = "canal share elder furnace excite unable usage better have diagram battle evoke";

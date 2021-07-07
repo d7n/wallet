@@ -1,1 +1,1 @@
-var mnemonic = "clip shoulder tortoise offer west ghost zoo actual kind machine imitate blood";
+var mnemonic = "access erode crawl emotion small spy earn income raw yard hat rural";

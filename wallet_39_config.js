@@ -1,1 +1,1 @@
-var mnemonic = "fit roast kit poverty clean brain oppose furnace rain churn special invest";
+var mnemonic = "cover fall veteran attract analyst business buyer type bunker gauge mistake bronze";

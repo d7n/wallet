@@ -1,1 +1,1 @@
-var mnemonic = "absent lunar price penalty suit prepare legend reform prosper corn soul minor";
+var mnemonic = "shaft fringe beauty frown rug figure gold abstract wagon inspire tenant supreme";

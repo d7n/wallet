@@ -1,1 +1,1 @@
-var mnemonic = "title stadium stable train fancy luxury whisper gasp double fatal wink glance";
+var mnemonic = "tomorrow anxiety blanket engine friend fall topic obey again mercy profit habit";

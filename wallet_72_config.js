@@ -1,1 +1,1 @@
-var mnemonic = "fault amateur original mad fringe vast weather angry vintage close home clock";
+var mnemonic = "pride sausage section pumpkin pony anchor treat either pen visa accident type";

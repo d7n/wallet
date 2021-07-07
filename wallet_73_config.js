@@ -1,1 +1,1 @@
-var mnemonic = "concert offer divide stage panther gold portion whip glow again double disorder";
+var mnemonic = "menu pass holiday kid alter current guess page link fever coffee cherry";

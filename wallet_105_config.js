@@ -1,1 +1,1 @@
-var mnemonic = "live beyond marble excite symptom minimum gallery old holiday truck bullet birth";
+var mnemonic = "island spoil critic solid knock forget scare cereal coffee unable setup congress";

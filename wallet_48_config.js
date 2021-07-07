@@ -1,1 +1,1 @@
-var mnemonic = "slow copy uphold this now board armed minor fragile reveal material kidney";
+var mnemonic = "profit flee wisdom pair runway permit bar salon define renew fresh oil";

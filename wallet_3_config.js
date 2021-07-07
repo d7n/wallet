@@ -1,1 +1,1 @@
-var mnemonic = "tilt dutch zebra token promote special tilt alien sentence check unknown matrix";
+var mnemonic = "forget cinnamon kite quality boat jump panic hurdle essence view always wedding";

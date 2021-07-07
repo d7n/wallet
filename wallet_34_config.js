@@ -1,1 +1,1 @@
-var mnemonic = "surge panda erosion volcano slender camera echo include cement seven split burst";
+var mnemonic = "script alien remain rally material adult ahead cake begin lumber bag canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "average vessel torch spare okay flat garden stumble hood stock simple spray";
+var mnemonic = "chuckle tennis mother lunch merry cloth assume push begin buyer steak voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "voice man twelve bubble symptom magic year venue select future nerve change";
+var mnemonic = "trial capable fly situate try over gaze live satoshi light yellow auto";

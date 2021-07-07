@@ -1,1 +1,1 @@
-var mnemonic = "oppose wall silly annual vapor insane error leopard change patrol slight gas";
+var mnemonic = "wolf spray master plastic raw change word talent play answer print skin";

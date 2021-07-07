@@ -1,1 +1,1 @@
-var mnemonic = "party verb need lecture start inflict minute later tone senior clown abandon";
+var mnemonic = "multiply profit cliff defense scatter twelve suit announce merry need device mosquito";

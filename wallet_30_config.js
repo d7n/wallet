@@ -1,1 +1,1 @@
-var mnemonic = "video champion debris athlete either sad security toddler radio sister lend sunset";
+var mnemonic = "lunar decrease hawk matrix mutual tent neutral jewel brick reject give trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "area pond matrix drastic income trend dad elder path destroy object design";
+var mnemonic = "pride faint pupil bleak destroy coach movie income badge clog fortune cupboard";

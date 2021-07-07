@@ -1,1 +1,1 @@
-var mnemonic = "educate outside nature slice decide virtual power alter mammal sail fold proud";
+var mnemonic = "ecology agent oil razor change file autumn axis giraffe powder piano head";

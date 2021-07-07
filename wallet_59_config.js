@@ -1,1 +1,1 @@
-var mnemonic = "public aim grab mention pole century apart twist kitten over connect swing";
+var mnemonic = "weapon maple grow recipe climb receive staff mouse rebuild hire sort credit";

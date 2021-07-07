@@ -1,1 +1,1 @@
-var mnemonic = "law double prison rocket pudding velvet merry auction drink elevator nothing gadget";
+var mnemonic = "must entry rack polar curious aunt multiply physical stem goddess bright sock";

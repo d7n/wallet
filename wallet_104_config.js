@@ -1,1 +1,1 @@
-var mnemonic = "radio want option visa lounge doll water arch wasp staff wolf enter";
+var mnemonic = "alcohol forward donate horror stone news raw clever sunny theme hammer chef";

@@ -1,1 +1,1 @@
-var mnemonic = "rally flip quarter eager target obscure inspire canoe animal stone embody question";
+var mnemonic = "phrase half rotate citizen mechanic force cheap embody club glare pioneer oval";

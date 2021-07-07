@@ -1,1 +1,1 @@
-var mnemonic = "smoke card exchange truck tenant orbit tool enhance cabin social wheel page";
+var mnemonic = "napkin bunker scare lemon possible fragile over guard bonus essay palace erosion";

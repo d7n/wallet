@@ -1,1 +1,1 @@
-var mnemonic = "setup sword erupt mercy mask cook ugly cliff health sweet gospel sign";
+var mnemonic = "agree draft behind man donkey thrive moment delay athlete bargain ostrich subject";

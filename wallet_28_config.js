@@ -1,1 +1,1 @@
-var mnemonic = "simple trumpet subway embark special heavy bridge excess olympic pond teach rate";
+var mnemonic = "glow tube deer finish attract piece tray street inflict hockey knife parade";

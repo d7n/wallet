@@ -1,1 +1,1 @@
-var mnemonic = "loud bridge boil genre dream catch symptom liquid boost exclude guide remain";
+var mnemonic = "junk any lucky ripple fork connect celery impact slice purpose tiny start";

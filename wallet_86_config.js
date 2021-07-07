@@ -1,1 +1,1 @@
-var mnemonic = "grab security lemon task search blush torch follow simple doll script lunch";
+var mnemonic = "amazing force lava salt often virtual mind hold history ordinary tell shuffle";

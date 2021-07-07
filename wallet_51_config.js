@@ -1,1 +1,1 @@
-var mnemonic = "grunt vocal letter boat review cycle input stage evil argue shiver camera";
+var mnemonic = "suggest neither silent select melt usual task minor lounge delay earth baby";

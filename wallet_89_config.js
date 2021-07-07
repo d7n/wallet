@@ -1,1 +1,1 @@
-var mnemonic = "option fiber game trap drama economy hint agent trigger conduct often awful";
+var mnemonic = "coach derive method glare road illness daughter awkward eyebrow coral panda company";

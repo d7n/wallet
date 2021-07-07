@@ -1,1 +1,1 @@
-var mnemonic = "virus powder act melody jaguar wine language cactus pride access action empty";
+var mnemonic = "assist title mom letter tourist sadness clutch front pencil public assume public";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial capital ribbon oval biology sunny solid romance camera joy steak ceiling";
+var mnemonic = "final sell merge crop warrior unaware element bracket use actress repeat involve";

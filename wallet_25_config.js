@@ -1,1 +1,1 @@
-var mnemonic = "elite sword total sense tiny talk infant shrug usual flight upgrade remind";
+var mnemonic = "confirm flat unhappy vague spike finger burger cinnamon tell reason output jewel";

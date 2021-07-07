@@ -1,1 +1,1 @@
-var mnemonic = "cloth legal element entire dismiss soccer object pizza spoon domain blush absent";
+var mnemonic = "stomach lava appear blouse engine mail cliff gold talent athlete rescue mule";

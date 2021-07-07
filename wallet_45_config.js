@@ -1,1 +1,1 @@
-var mnemonic = "bright rally alter tired birth drift amused cause attack broccoli bus chimney";
+var mnemonic = "drama tackle upper release picnic turn welcome mystery prepare next desert sudden";

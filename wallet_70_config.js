@@ -1,1 +1,1 @@
-var mnemonic = "lounge dress picture feel punch gather bulk denial tank run check cable";
+var mnemonic = "tuna curve swallow easy nerve slush pelican pony cheese river draw bicycle";

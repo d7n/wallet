@@ -1,1 +1,1 @@
-var mnemonic = "ensure awake bubble fade stone banana dragon oval concert erosion glimpse enemy";
+var mnemonic = "bag program energy tissue side vicious shell orange pill output culture inside";

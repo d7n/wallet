@@ -1,1 +1,1 @@
-var mnemonic = "below insane daring danger salute slide fork resemble open crucial satisfy plunge";
+var mnemonic = "winter loan alien churn believe explain jacket miracle infant meat physical license";

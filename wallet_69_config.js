@@ -1,1 +1,1 @@
-var mnemonic = "symbol scheme detect toy swallow unknown quit stomach snake start woman surface";
+var mnemonic = "deputy anxiety easily earn distance exercise hour cave time hour egg mail";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom lemon gesture scale liquid manual dove liar moral proud tooth gossip";
+var mnemonic = "census champion congress pet pill erase rubber wasp cheap parade bomb hidden";

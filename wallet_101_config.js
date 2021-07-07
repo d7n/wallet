@@ -1,1 +1,1 @@
-var mnemonic = "heavy shiver kite cherry tribe indoor breeze ready unique task term busy";
+var mnemonic = "party stereo obtain monitor spoil youth wealth hybrid apart carpet behave inner";

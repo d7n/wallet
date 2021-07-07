@@ -1,1 +1,1 @@
-var mnemonic = "parent gauge pen bird undo develop wise require can parade daughter supply";
+var mnemonic = "crop over chase sibling mask coyote weapon wealth easily boring elder flip";

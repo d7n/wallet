@@ -1,1 +1,1 @@
-var mnemonic = "title pet decorate arrange earn ready tide student install rifle into essay";
+var mnemonic = "spirit tube brush melody define give family jump enhance chicken spare license";

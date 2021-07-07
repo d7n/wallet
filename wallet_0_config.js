@@ -1,1 +1,1 @@
-var mnemonic = "work predict morning path nature pistol bright cupboard rural payment shove unit";
+var mnemonic = "brisk tonight lounge sustain board move wasp combine reform sustain draft replace";

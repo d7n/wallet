@@ -1,1 +1,1 @@
-var mnemonic = "only dumb birth name youth tunnel owner slogan bulb defy ginger device";
+var mnemonic = "ceiling spirit grief nose remove wonder tunnel cage twelve rebel rack armed";

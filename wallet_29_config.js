@@ -1,1 +1,1 @@
-var mnemonic = "retreat actress tower inform mass diary lemon extra raw tube atom advice";
+var mnemonic = "safe approve shrimp exercise allow add cake prosper couch tiger push thank";

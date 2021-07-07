@@ -1,1 +1,1 @@
-var mnemonic = "alpha spray search never edge jump diagram ability rough control paddle unveil";
+var mnemonic = "seven sugar awful lend explain bundle celery reveal trial year public square";

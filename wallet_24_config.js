@@ -1,1 +1,1 @@
-var mnemonic = "jazz veteran forum cushion topic lift noble decrease core holiday raise outer";
+var mnemonic = "burden honey vibrant collect couch lawsuit glow art flat talk erupt sheriff";

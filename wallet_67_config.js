@@ -1,1 +1,1 @@
-var mnemonic = "truth ability write jaguar bid raw trigger bamboo release manual feed wash";
+var mnemonic = "just morning rhythm outside soft cactus rather envelope best fault festival illness";

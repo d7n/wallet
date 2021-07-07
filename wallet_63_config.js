@@ -1,1 +1,1 @@
-var mnemonic = "barrel cotton key battle story item since they cousin few hill globe";
+var mnemonic = "uphold ride mango super bridge pitch act smart narrow like control jar";

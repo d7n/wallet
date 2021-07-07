@@ -1,1 +1,1 @@
-var mnemonic = "ride pause ginger apple woman cupboard bar oil anxiety submit slice lake";
+var mnemonic = "stone skull frame foil soda heart buddy actual annual frequent account bulk";

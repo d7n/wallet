@@ -1,1 +1,1 @@
-var mnemonic = "easy brief venue key huge blind income girl picnic pluck hammer once";
+var mnemonic = "better gaze nation conduct perfect typical clutch buddy dirt rigid olympic supreme";

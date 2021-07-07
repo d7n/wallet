@@ -1,1 +1,1 @@
-var mnemonic = "family shoulder enact hybrid mixed jewel giggle detail coin nation sand vast";
+var mnemonic = "swallow kiwi retreat place radar fold flower leisure wrong dirt bracket next";

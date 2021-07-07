@@ -1,1 +1,1 @@
-var mnemonic = "sauce dinosaur drink unfair urge assist gold illegal riot expect shed fatigue";
+var mnemonic = "visual menu grab muffin clutch parrot drive plastic border tiger zebra parent";
