@@ -1,1 +1,1 @@
-var mnemonic = "gate useless tail luggage peace medal dirt car captain critic finish claw";
+var mnemonic = "illegal asset race badge quantum boss rate shell artefact manual champion assist";

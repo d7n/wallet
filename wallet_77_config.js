@@ -1,1 +1,1 @@
-var mnemonic = "way scrub winner lift section fabric abuse tongue hat follow silver select";
+var mnemonic = "awake vapor dial universe swear common humble ketchup shine negative comfort segment";

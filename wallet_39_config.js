@@ -1,1 +1,1 @@
-var mnemonic = "biology invest pitch shadow simple panel forward bunker stand vicious bullet aim";
+var mnemonic = "shallow grab stairs north crater valley season bean cousin couple cup blouse";

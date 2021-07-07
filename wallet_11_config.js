@@ -1,1 +1,1 @@
-var mnemonic = "metal lounge explain advance save unit love copy useful arm scrap skirt";
+var mnemonic = "exit noble scheme reject anxiety loud glue follow dish cluster shallow twin";

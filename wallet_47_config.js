@@ -1,1 +1,1 @@
-var mnemonic = "drum sort art surround regret ten broccoli strategy panda begin breeze weekend";
+var mnemonic = "humor suit harbor brass unlock nurse twist captain dune pretty vessel recall";

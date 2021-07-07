@@ -1,1 +1,1 @@
-var mnemonic = "honey illegal spray produce letter veteran camp battle enter law never drill";
+var mnemonic = "earn street dumb canal toy human engage impulse forget supply season aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "hand almost minute sentence curious sibling achieve decide usage feel artefact habit";
+var mnemonic = "soul bitter pretty solar vintage blanket actress hero update scale void mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "layer track cherry few region what beach afford bronze leopard rescue debris";
+var mnemonic = "history april ensure rapid car bright river either awake mountain shallow section";

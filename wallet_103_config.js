@@ -1,1 +1,1 @@
-var mnemonic = "vapor garage lobster achieve city shoot keep hen forget comfort choice spring";
+var mnemonic = "green floor stable insect such random build future core goddess machine book";

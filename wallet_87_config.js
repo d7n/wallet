@@ -1,1 +1,1 @@
-var mnemonic = "upgrade good system play belt burst exist suit turn tuna swap program";
+var mnemonic = "chair clever major nothing carry inhale raise wage proud mobile tribe romance";

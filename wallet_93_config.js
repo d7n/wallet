@@ -1,1 +1,1 @@
-var mnemonic = "artefact describe assume fall crack embrace ship scrap crop differ nest level";
+var mnemonic = "town maple style tiny tiger spring dice allow safe vintage monitor icon";

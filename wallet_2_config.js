@@ -1,1 +1,1 @@
-var mnemonic = "interest pole knife vague price behind remove pledge discover average address fury";
+var mnemonic = "vault sentence body select select pulse foster discover true inject escape song";

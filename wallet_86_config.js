@@ -1,1 +1,1 @@
-var mnemonic = "siren knee fatigue lake demand nose steel round more recall bus try";
+var mnemonic = "range panther nuclear film surround crash next daring glance funny uncover sting";

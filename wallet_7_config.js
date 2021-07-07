@@ -1,1 +1,1 @@
-var mnemonic = "above stay shrug live open olympic drift dwarf crush knock sell knock";
+var mnemonic = "common baby buffalo holiday cherry catalog shine crop arctic patch maid clever";

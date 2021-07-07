@@ -1,1 +1,1 @@
-var mnemonic = "thrive valley equal trip uncle grid light prevent cream innocent input razor";
+var mnemonic = "attend shadow unaware wife announce jewel pitch dice slim bunker verb dose";

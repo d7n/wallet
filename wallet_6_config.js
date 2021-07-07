@@ -1,1 +1,1 @@
-var mnemonic = "open outside inside wear ring wave march fetch wild stable planet merry";
+var mnemonic = "cook tray uncle worry bring injury climb delay banner tell joy raven";

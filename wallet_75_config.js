@@ -1,1 +1,1 @@
-var mnemonic = "doctor chest north pepper remind primary distance wood orange kidney thing armed";
+var mnemonic = "wrist visa worth cannon pole hero skin type record park label gas";

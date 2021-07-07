@@ -1,1 +1,1 @@
-var mnemonic = "rebuild certain lend rail portion chuckle radio oxygen whip solar casual outside";
+var mnemonic = "toy frown race burden super joy battle music slab arrest adjust voyage";

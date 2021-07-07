@@ -1,1 +1,1 @@
-var mnemonic = "advance private immune select display finger track quiz embrace second type choice";
+var mnemonic = "wonder clean knee modify liberty bonus quiz glove junk secret cost dwarf";

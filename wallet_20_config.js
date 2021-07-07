@@ -1,1 +1,1 @@
-var mnemonic = "bicycle town vast plastic defy scrub basic rough odor middle river isolate";
+var mnemonic = "soap window radio amateur cruel lawsuit cluster catalog spike identify kiss cinnamon";

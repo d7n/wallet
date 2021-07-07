@@ -1,1 +1,1 @@
-var mnemonic = "width worry future oxygen cruel royal unaware vessel siege crucial slice crucial";
+var mnemonic = "lunch tuna icon lawsuit fancy tragic fitness strategy stick kangaroo priority monkey";

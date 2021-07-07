@@ -1,1 +1,1 @@
-var mnemonic = "laptop electric elephant snap draft earth sniff empower trust satoshi wide stomach";
+var mnemonic = "insect master address hair jump gadget tomorrow blast slide crash pumpkin hospital";

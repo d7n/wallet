@@ -1,1 +1,1 @@
-var mnemonic = "appear two avocado company shell hello plastic city field cupboard invite recall";
+var mnemonic = "omit buffalo torch enable exotic almost spider movie stick taste miracle card";

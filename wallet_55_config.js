@@ -1,1 +1,1 @@
-var mnemonic = "popular invest call wheel razor bronze draft disease elegant carry trick unveil";
+var mnemonic = "cart rely fresh tomato alert glad genuine shock tragic method gasp proof";

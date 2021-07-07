@@ -1,1 +1,1 @@
-var mnemonic = "obscure glad biology cause pencil draw winter portion finish chronic egg decline";
+var mnemonic = "slice traffic legend leisure churn six unhappy history inside fox section account";

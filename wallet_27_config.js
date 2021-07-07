@@ -1,1 +1,1 @@
-var mnemonic = "assume normal loan picture impact spirit coconut guilt vessel romance shed leader";
+var mnemonic = "paddle dinner baby able gym define inject unable flash system section sweet";

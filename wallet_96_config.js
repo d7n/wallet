@@ -1,1 +1,1 @@
-var mnemonic = "quiz emotion black barrel decline pioneer away arch credit bar tomorrow lens";
+var mnemonic = "typical mix umbrella rapid call toilet desert indicate garlic speed gym way";

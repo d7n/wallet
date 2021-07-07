@@ -1,1 +1,1 @@
-var mnemonic = "rich depend unlock dignity wheel shell dirt stool trouble sound cage goose";
+var mnemonic = "plunge hood army believe crazy traffic monster often blood notice trend able";

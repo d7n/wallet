@@ -1,1 +1,1 @@
-var mnemonic = "love cloud cloth acid enemy panda unfold person sentence cotton liar liar";
+var mnemonic = "custom little limit electric spare lift flight kid swing town tenant cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "noise ginger box pistol try alley walk thank attend sketch forward wash";
+var mnemonic = "mom pelican still inherit street plug pizza badge survey smart pottery swing";

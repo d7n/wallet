@@ -1,1 +1,1 @@
-var mnemonic = "proof theory room toe bench tent blanket cherry ghost lawn wrestle jazz";
+var mnemonic = "discover few buddy differ world once birth shadow metal poet sugar habit";

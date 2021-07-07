@@ -1,1 +1,1 @@
-var mnemonic = "practice season visa neglect visual sense buffalo sustain state shoe rough frequent";
+var mnemonic = "guilt wide magnet utility valley unlock useful settle mechanic plate attack agent";

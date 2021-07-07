@@ -1,1 +1,1 @@
-var mnemonic = "crowd script radio hazard process jealous wave will shrug increase jump perfect";
+var mnemonic = "ginger spirit measure bracket lucky pass antique what virus term electric drift";

@@ -1,1 +1,1 @@
-var mnemonic = "fury absent park joke climb invest mule poet asthma curtain attract fury";
+var mnemonic = "stadium fringe pumpkin desk page public correct describe loop humor seat poem";

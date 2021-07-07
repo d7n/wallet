@@ -1,1 +1,1 @@
-var mnemonic = "display fly adult town they walnut reflect van sword napkin idea attack";
+var mnemonic = "draft romance journey dignity envelope penalty erupt rigid diagram forward evolve napkin";

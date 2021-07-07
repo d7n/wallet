@@ -1,1 +1,1 @@
-var mnemonic = "enjoy jungle animal learn glass true cherry pyramid width strong wheat voyage";
+var mnemonic = "meadow sheriff beauty lion fatal twin valid enemy soul nerve impact diagram";

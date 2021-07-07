@@ -1,1 +1,1 @@
-var mnemonic = "stadium lift luxury gift pencil blouse noise valley evil skirt genre used";
+var mnemonic = "extra arch curve cherry machine resist initial job search nose bring history";

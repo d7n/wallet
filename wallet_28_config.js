@@ -1,1 +1,1 @@
-var mnemonic = "ankle draft palace diary mask matter never output matter boat daughter hello";
+var mnemonic = "disease water silly napkin target trap detect lava please rival sword sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant erupt aerobic stick slush side shed fog purity calm budget bring";
+var mnemonic = "average axis fiction busy weekend duty suit faint egg rack link used";

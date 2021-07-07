@@ -1,1 +1,1 @@
-var mnemonic = "country range mobile this public warrior cruel accuse liar finger outer gather";
+var mnemonic = "know version venue toward rebel talk indicate tornado lecture fancy artwork jazz";

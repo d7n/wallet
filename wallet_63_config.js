@@ -1,1 +1,1 @@
-var mnemonic = "blood mule label panther boil wealth work random illness spice grocery siren";
+var mnemonic = "margin humor void pill basic wisdom clerk lens eternal body ritual father";

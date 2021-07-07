@@ -1,1 +1,1 @@
-var mnemonic = "off artist rotate double music fun anger focus unveil bonus lyrics fat";
+var mnemonic = "cotton lazy skin artefact valve garage license rigid topple ethics flush antenna";

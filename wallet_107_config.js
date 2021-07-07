@@ -1,1 +1,1 @@
-var mnemonic = "year artefact cup main fetch dutch welcome cattle cool choose eye angry";
+var mnemonic = "discover unit acid screen oil carbon filter poet sight tuition honey jungle";

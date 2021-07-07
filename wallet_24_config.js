@@ -1,1 +1,1 @@
-var mnemonic = "mountain panther cushion desert wave junk dolphin hill text tissue floor dose";
+var mnemonic = "lamp clay pact verify blanket more hunt globe fold advice talent seek";

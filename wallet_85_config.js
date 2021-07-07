@@ -1,1 +1,1 @@
-var mnemonic = "milk creek dignity already trim unusual glide nuclear network lab bike glow";
+var mnemonic = "digital evoke leisure utility miracle robust discover area connect slight foil consider";

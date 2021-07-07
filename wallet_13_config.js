@@ -1,1 +1,1 @@
-var mnemonic = "hurdle achieve sea asset ill donate planet nature merit great lemon casual";
+var mnemonic = "illegal fan twenty ginger grape trumpet emotion educate robust symbol learn employ";

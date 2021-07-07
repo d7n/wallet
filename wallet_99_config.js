@@ -1,1 +1,1 @@
-var mnemonic = "describe oak minimum now river peace crisp riot chat frown thrive property";
+var mnemonic = "cinnamon smart pill choice drastic bundle lonely purity celery guess gun undo";

@@ -1,1 +1,1 @@
-var mnemonic = "wood blush dash kitchen dragon celery shallow enter follow soup cricket link";
+var mnemonic = "lava core box fog drive vault final pink valid blast town gap";

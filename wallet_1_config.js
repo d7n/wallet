@@ -1,1 +1,1 @@
-var mnemonic = "electric drama tornado coconut brass cycle fence south find salon today hint";
+var mnemonic = "estate remain wolf grape athlete cost eyebrow umbrella second tomato deposit happy";

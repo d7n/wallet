@@ -1,1 +1,1 @@
-var mnemonic = "dove enhance moral involve dove easy little wash village suggest rail disagree";
+var mnemonic = "note robot crawl cube clutch pluck text census middle truck exit chest";

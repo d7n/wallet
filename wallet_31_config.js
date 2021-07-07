@@ -1,1 +1,1 @@
-var mnemonic = "jeans relief orphan neglect urban toilet vapor fabric desk perfect inside grocery";
+var mnemonic = "burden type sample square fabric wear family diagram vote together federal salt";

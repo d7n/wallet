@@ -1,1 +1,1 @@
-var mnemonic = "trap earth mirror negative during fragile mistake remain fame prepare window column";
+var mnemonic = "half empower garment zoo aisle raccoon switch survey salmon mandate elder crop";

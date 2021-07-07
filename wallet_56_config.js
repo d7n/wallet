@@ -1,1 +1,1 @@
-var mnemonic = "picture diet shrug stuff run wing decorate clutch rally among hedgehog column";
+var mnemonic = "grit novel below sound walnut reward couple camera hamster roof lion feature";

@@ -1,1 +1,1 @@
-var mnemonic = "lab cabbage hold sheriff slide input long cook history oven effort rabbit";
+var mnemonic = "amused unfold ignore more merge media emerge useless vendor snow wire oval";

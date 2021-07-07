@@ -1,1 +1,1 @@
-var mnemonic = "violin penalty item three snow slow tube follow charge thrive canyon gun";
+var mnemonic = "gloom luxury surface season camera window clap meadow source fence ask shoot";

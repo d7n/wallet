@@ -1,1 +1,1 @@
-var mnemonic = "envelope regret ribbon march crystal gown near trash chicken cement float foster";
+var mnemonic = "timber elbow forward brass expect advance tide muffin surprise flash pave exhaust";

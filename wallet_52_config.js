@@ -1,1 +1,1 @@
-var mnemonic = "release option salad middle magic abuse scale decline maximum sign awkward emerge";
+var mnemonic = "cart mandate hungry summer certain priority sweet jaguar elbow accuse thunder crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "vault hand ski spend length very brass usual symbol engine best width";
+var mnemonic = "salt since squirrel hurdle secret typical ten miss ship fog flavor industry";

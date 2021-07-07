@@ -1,1 +1,1 @@
-var mnemonic = "bracket can gold style wine advice gun clever crazy deposit carry brain";
+var mnemonic = "indoor matter radio coconut select picture bachelor layer obey match tackle debris";

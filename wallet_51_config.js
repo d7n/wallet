@@ -1,1 +1,1 @@
-var mnemonic = "donor grass need shoe present erosion review toddler nation captain smoke reveal";
+var mnemonic = "nuclear broom train plastic provide decrease treat reveal electric bulb napkin harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "blur welcome blame message such mercy hand couple virtual attract wealth possible";
+var mnemonic = "gown body minimum merit body fish engine leader myth race coach mushroom";

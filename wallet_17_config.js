@@ -1,1 +1,1 @@
-var mnemonic = "adjust hover paddle stable document desert sadness team carbon involve become advance";
+var mnemonic = "thank toe funny egg napkin carbon lonely hello trust birth wreck keep";

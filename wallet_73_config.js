@@ -1,1 +1,1 @@
-var mnemonic = "present dawn debate tower siege stereo clock actual chimney ostrich awkward acquire";
+var mnemonic = "endless inject library hope right proof uncover cabbage great subject member spot";

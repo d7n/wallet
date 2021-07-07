@@ -1,1 +1,1 @@
-var mnemonic = "hero cement beyond magnet high garden spirit slight cry saddle term help";
+var mnemonic = "come crowd woman awake lottery blur tortoise toss absurd strike horn dinner";

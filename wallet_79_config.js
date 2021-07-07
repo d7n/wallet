@@ -1,1 +1,1 @@
-var mnemonic = "fuel sketch ozone sample cricket thumb tail diet only dilemma cattle shuffle";
+var mnemonic = "mask toe carry miss cash vast mountain access fork burger boost bomb";

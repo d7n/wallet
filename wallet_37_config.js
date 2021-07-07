@@ -1,1 +1,1 @@
-var mnemonic = "eagle weather smile unfold sketch place ranch elegant pulse future imitate midnight";
+var mnemonic = "coconut cement dry couple finish exhaust suit access solid squeeze license enrich";

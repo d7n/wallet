@@ -1,1 +1,1 @@
-var mnemonic = "expect trash explain visit uphold liar uncle pupil artefact aware doctor indoor";
+var mnemonic = "color add accident three awesome permit canvas cable bread trigger like evil";

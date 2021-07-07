@@ -1,1 +1,1 @@
-var mnemonic = "remain faint avoid floor decrease endorse regret coach derive piece civil cable";
+var mnemonic = "stomach rescue gasp hour cry nephew breeze cycle quantum echo enhance invite";

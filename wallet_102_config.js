@@ -1,1 +1,1 @@
-var mnemonic = "rural follow suspect exclude gym radio match design heavy tail satoshi control";
+var mnemonic = "clarify lonely target else enter minimum capital pottery nasty purchase fortune human";

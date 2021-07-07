@@ -1,1 +1,1 @@
-var mnemonic = "goose lumber city time field grunt admit endless dune stamp joy cotton";
+var mnemonic = "charge reform december ostrich wonder salon donate magic field quiz debris margin";

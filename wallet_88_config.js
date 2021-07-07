@@ -1,1 +1,1 @@
-var mnemonic = "apology feature aware sugar apology come guilt there earth reason bean hope";
+var mnemonic = "ship series load across jar swim pond three vapor diet orbit rifle";

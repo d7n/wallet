@@ -1,1 +1,1 @@
-var mnemonic = "blossom double silly core stove skill bind airport solve capital leg dog";
+var mnemonic = "join home perfect easy slight people boring fiscal grocery plug flush pen";

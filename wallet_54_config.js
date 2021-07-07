@@ -1,1 +1,1 @@
-var mnemonic = "cupboard warrior rent clump balance chat disagree viable torch obscure genre spirit";
+var mnemonic = "kiss faculty denial balcony supreme monkey sudden stock gap social combine crunch";

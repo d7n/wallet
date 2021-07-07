@@ -1,1 +1,1 @@
-var mnemonic = "endless label dice elite champion mad task impact humor feel clown thing";
+var mnemonic = "try attend update oil bone nothing this loyal rabbit legend castle bargain";

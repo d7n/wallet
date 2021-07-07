@@ -1,1 +1,1 @@
-var mnemonic = "abuse pretty ozone hobby kind cook east govern cactus coin surprise box";
+var mnemonic = "frown wolf machine curve property grace fork excess horror enroll minimum angry";

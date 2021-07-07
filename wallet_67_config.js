@@ -1,1 +1,1 @@
-var mnemonic = "stove steak copper decrease twin culture swing truth scrub figure slab nominee";
+var mnemonic = "phrase frog chase enlist pink minimum solution audit copper above symptom luxury";

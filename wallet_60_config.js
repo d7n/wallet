@@ -1,1 +1,1 @@
-var mnemonic = "morning strike lunar success square announce immense negative gaze enroll expect owner";
+var mnemonic = "gather enlist mammal cake sea nominee weird age scrap drastic other cry";

@@ -1,1 +1,1 @@
-var mnemonic = "photo oppose rookie salute pilot helmet gift funny age until panda over";
+var mnemonic = "version soft staff slender banana engine collect whisper opera car metal fine";

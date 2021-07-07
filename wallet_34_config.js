@@ -1,1 +1,1 @@
-var mnemonic = "normal file adjust hair horn benefit predict pigeon require gun reopen beef";
+var mnemonic = "behave learn tray nice traffic train topple chair minor scorpion glide unaware";

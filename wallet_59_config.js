@@ -1,1 +1,1 @@
-var mnemonic = "frown ill sword category decorate crowd spawn iron fresh omit cause miss";
+var mnemonic = "broccoli approve fuel demise diary blur gorilla fit museum hawk faint example";

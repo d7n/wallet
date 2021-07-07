@@ -1,1 +1,1 @@
-var mnemonic = "spice gadget fresh relief right can swing cradle fresh able cheese fat";
+var mnemonic = "accuse vocal margin blame snap boy bicycle can paper slim city skin";

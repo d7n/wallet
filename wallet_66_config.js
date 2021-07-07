@@ -1,1 +1,1 @@
-var mnemonic = "churn warfare network walnut auction call farm amateur write ivory emotion dinner";
+var mnemonic = "hand lens domain favorite wisdom crisp pear blanket prize shoe label accuse";

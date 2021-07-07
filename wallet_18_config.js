@@ -1,1 +1,1 @@
-var mnemonic = "manage million field advice hour thing lens visual express undo this arrive";
+var mnemonic = "hold prefer mandate boss enjoy inherit resource frozen display setup neck ill";

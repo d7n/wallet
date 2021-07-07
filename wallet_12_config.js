@@ -1,1 +1,1 @@
-var mnemonic = "bar loan blush pride judge craft load copy measure exercise certain amount";
+var mnemonic = "fold blossom pig sadness annual release exercise deer fruit someone enroll cliff";

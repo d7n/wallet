@@ -1,1 +1,1 @@
-var mnemonic = "tell faint seek unfold misery release swamp wrong best boil undo pioneer";
+var mnemonic = "rice grace mask empower produce where pumpkin business pottery come clean board";

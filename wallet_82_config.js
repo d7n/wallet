@@ -1,1 +1,1 @@
-var mnemonic = "prevent sudden view convince start bench save six wave dry soft solid";
+var mnemonic = "depth rail soul evolve annual current margin grape virtual hair ship sheriff";

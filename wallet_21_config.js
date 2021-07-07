@@ -1,1 +1,1 @@
-var mnemonic = "man pig face reopen pig cross vehicle nice unique fade salute nation";
+var mnemonic = "rotate volume gospel combine flat split aspect between jacket defense salt unlock";

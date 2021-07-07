@@ -1,1 +1,1 @@
-var mnemonic = "stool phrase alert water benefit lawsuit citizen joke rough trim hill rule";
+var mnemonic = "inflict hat couple dynamic cruise nature square swing model inner tunnel soldier";

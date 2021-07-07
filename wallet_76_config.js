@@ -1,1 +1,1 @@
-var mnemonic = "absent diet family club outdoor winner circle love crisp energy quality glove";
+var mnemonic = "wash input rack copper inhale barrel weather junk rocket among bring pyramid";

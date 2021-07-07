@@ -1,1 +1,1 @@
-var mnemonic = "weasel fold cannon fossil pupil door wood corn bone artwork trial symptom";
+var mnemonic = "found era sibling diesel escape pave gossip tower census auction snack sibling";

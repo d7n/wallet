@@ -1,1 +1,1 @@
-var mnemonic = "order honey myth educate alert cabin item fury digital hold work remember";
+var mnemonic = "tip order skirt breeze tackle index merit return call require arrow bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "wage latin illness stomach foster wonder mix jazz sing stuff pizza throw";
+var mnemonic = "welcome sauce future shallow agree mountain taxi elite drive black beef entire";
