@@ -1,1 +1,1 @@
-var mnemonic = "cart attitude cycle delay guilt artefact woman dance relax accident love initial";
+var mnemonic = "seminar allow ozone nephew false vast gaze uncle corn flush maximum already";

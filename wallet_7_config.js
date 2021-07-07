@@ -1,1 +1,1 @@
-var mnemonic = "involve sport lesson critic father record dance edge tank report bunker link";
+var mnemonic = "matrix radio flat jaguar galaxy ugly wreck fringe fold tip anxiety ten";

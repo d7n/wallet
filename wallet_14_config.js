@@ -1,1 +1,1 @@
-var mnemonic = "dolphin blind envelope local vocal work swift apple carpet artefact ahead velvet";
+var mnemonic = "shuffle rough learn wave maximum unfair exit wealth scorpion expire typical salon";

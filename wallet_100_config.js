@@ -1,1 +1,1 @@
-var mnemonic = "rail wheel trim furnace express near approve rice curious hidden comfort million";
+var mnemonic = "abuse mouse social primary birth inquiry attack doll gold vessel fetch say";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse scheme reason egg uncle remind drink myth similar rose abandon immense";
+var mnemonic = "when size soft aim planet despair lecture bonus bag scan convince length";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar elite decade bind device asset into blouse tonight step defy equal";
+var mnemonic = "below shed lawsuit soap aware increase toe wisdom meat fame cherry multiply";

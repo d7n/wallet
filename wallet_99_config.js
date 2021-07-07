@@ -1,1 +1,1 @@
-var mnemonic = "phone parent kick planet fat confirm gesture luxury idea yellow cart kangaroo";
+var mnemonic = "shiver radio vocal auction melody champion choose filter tape still banana eternal";

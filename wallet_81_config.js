@@ -1,1 +1,1 @@
-var mnemonic = "universe expand brown gloom foam biology soon forest woman explain lady network";
+var mnemonic = "mind exclude fancy chair capital wise random twenty illegal bless artefact drastic";

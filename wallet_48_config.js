@@ -1,1 +1,1 @@
-var mnemonic = "blood scorpion fix indoor butter reveal reason impact resemble legal ripple another";
+var mnemonic = "erosion sand lucky forget sudden kick air occur defense insane squirrel medal";

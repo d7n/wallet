@@ -1,1 +1,1 @@
-var mnemonic = "mule ritual genius edit raw will about finish never owner spoon shove";
+var mnemonic = "town grace lounge burst vocal citizen april call conduct mosquito sun control";

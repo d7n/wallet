@@ -1,1 +1,1 @@
-var mnemonic = "club fire merge flat program gap champion bunker tree reward rack kid";
+var mnemonic = "reveal exotic age clump shop front unusual pull rubber target similar track";

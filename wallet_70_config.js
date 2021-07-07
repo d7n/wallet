@@ -1,1 +1,1 @@
-var mnemonic = "decorate carbon lonely sail prize cherry session group flame slim abstract myself";
+var mnemonic = "typical veteran nest clever state approve doctor fade range genuine arrange pledge";

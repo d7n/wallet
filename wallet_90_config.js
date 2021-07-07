@@ -1,1 +1,1 @@
-var mnemonic = "test tent boy defense energy pretty foster cook version rough transfer aunt";
+var mnemonic = "fog thrive average early auction same range enhance flat have fluid unlock";

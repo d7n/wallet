@@ -1,1 +1,1 @@
-var mnemonic = "laundry napkin ladder core shoot lonely alarm bike laundry frost twice old";
+var mnemonic = "three funny also symbol dune label hospital fiction oxygen claw deposit bachelor";

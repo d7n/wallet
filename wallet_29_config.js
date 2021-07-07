@@ -1,1 +1,1 @@
-var mnemonic = "robust useful utility noodle health afford cannon derive hip gauge gold find";
+var mnemonic = "second suspect palace mail orphan trumpet sadness wheel soon nation bleak solid";

@@ -1,1 +1,1 @@
-var mnemonic = "ten wrestle infant still join spread boat eyebrow pitch blade can during";
+var mnemonic = "current couch pride silk half dish cause list tank sugar pill suspect";

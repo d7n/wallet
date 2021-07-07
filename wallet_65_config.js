@@ -1,1 +1,1 @@
-var mnemonic = "stomach lava code abstract excite above demand side hollow need violin damage";
+var mnemonic = "expire sunset drink crime abandon hover warfare guide upon push drum uncle";

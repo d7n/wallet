@@ -1,1 +1,1 @@
-var mnemonic = "grace aisle social paper oven silver worry sea help orbit hole skin";
+var mnemonic = "system paper myth course away work box winter album uncle dolphin settle";

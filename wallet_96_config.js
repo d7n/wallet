@@ -1,1 +1,1 @@
-var mnemonic = "live talk foil ritual powder shrug resource seminar voice drama exact chapter";
+var mnemonic = "tone today roof depend pistol spoon winter mean alien recall best photo";

@@ -1,1 +1,1 @@
-var mnemonic = "profit jazz ketchup ball universe pencil enjoy donkey frown lift scissors truck";
+var mnemonic = "rebel warm menu put punch level early flight absurd enable give current";

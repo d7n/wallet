@@ -1,1 +1,1 @@
-var mnemonic = "language fancy supreme aware only raw oval little chaos wide option other";
+var mnemonic = "general trip pill tiny focus sunset athlete maximum fix math debris peace";

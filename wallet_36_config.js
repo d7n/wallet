@@ -1,1 +1,1 @@
-var mnemonic = "pride orange beauty allow arm need still special rich cargo brick cattle";
+var mnemonic = "helmet clerk actress father gym mean either upgrade ancient helmet ivory badge";

@@ -1,1 +1,1 @@
-var mnemonic = "basket exile police season recall remove human busy depart cream pelican room";
+var mnemonic = "spirit average clown ship shrug genius correct alcohol convince ankle price clump";

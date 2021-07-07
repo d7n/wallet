@@ -1,1 +1,1 @@
-var mnemonic = "issue pause mystery wool upon observe hill reduce twice express rice labor";
+var mnemonic = "easy snack mixed mimic fabric deal script sunset era awake hip very";

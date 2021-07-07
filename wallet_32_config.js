@@ -1,1 +1,1 @@
-var mnemonic = "moon pottery empower pass spoil ranch tray hard rabbit decline discover cotton";
+var mnemonic = "fix accuse quantum dad carry pool usage bracket people park love fever";

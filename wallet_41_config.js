@@ -1,1 +1,1 @@
-var mnemonic = "grid short crack unfold citizen call hotel spread liar garlic absent bird";
+var mnemonic = "million best stone cash layer beyond detect harsh also stamp govern ethics";

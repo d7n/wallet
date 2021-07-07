@@ -1,1 +1,1 @@
-var mnemonic = "document protect snow object bronze stomach banana area action immense wild autumn";
+var mnemonic = "witness whip casino brave chest double correct innocent donor calm people maze";

@@ -1,1 +1,1 @@
-var mnemonic = "auto achieve manage despair series author congress during miss satoshi play wide";
+var mnemonic = "plug cart bike dawn fan brain song analyst wealth advice example pledge";

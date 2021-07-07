@@ -1,1 +1,1 @@
-var mnemonic = "glass gun script undo person debris lawsuit all rely certain comfort leader";
+var mnemonic = "tool blame urge nothing chalk similar candy bottom uncover during half movie";

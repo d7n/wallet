@@ -1,1 +1,1 @@
-var mnemonic = "collect gauge miss achieve market sport throw together crazy candy bubble next";
+var mnemonic = "fruit fashion illness tiger sketch cousin flat job fix radio labor girl";

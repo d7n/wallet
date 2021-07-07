@@ -1,1 +1,1 @@
-var mnemonic = "asset radar host top enforce brief treat rain grief purse climb distance";
+var mnemonic = "rubber prefer census genuine barely fury faint moment double gauge profit decorate";

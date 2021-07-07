@@ -1,1 +1,1 @@
-var mnemonic = "harvest agree person enroll little impulse rich culture erode soft lazy banana";
+var mnemonic = "decade opera lobster velvet circle neglect poem educate ship advance fan secret";

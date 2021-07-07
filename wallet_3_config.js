@@ -1,1 +1,1 @@
-var mnemonic = "draw alien skin aspect detect flash alley bean filter card mixed fossil";
+var mnemonic = "else february exchange vanish amateur print mango receive climb smile unaware security";

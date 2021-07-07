@@ -1,1 +1,1 @@
-var mnemonic = "year tomorrow worth file neither people lecture slush inflict lottery young famous";
+var mnemonic = "lunch dynamic great item napkin enemy shoe pride desert drive select artefact";

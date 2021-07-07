@@ -1,1 +1,1 @@
-var mnemonic = "gadget rice universe joy size film copy basic shed mushroom noise must";
+var mnemonic = "reopen control work cool dinner stable lonely potato main hover setup tool";

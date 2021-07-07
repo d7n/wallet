@@ -1,1 +1,1 @@
-var mnemonic = "grocery disease banana grid eight expire drop analyst fix visa sustain style";
+var mnemonic = "abstract feel chief flock clean shrug boil innocent custom click man any";

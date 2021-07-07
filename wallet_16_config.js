@@ -1,1 +1,1 @@
-var mnemonic = "exit method tragic movie move sunny cheese tissue safe sniff fade true";
+var mnemonic = "degree cupboard visa dismiss sadness behave warrior grant obtain glad scan rug";

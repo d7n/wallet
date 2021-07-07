@@ -1,1 +1,1 @@
-var mnemonic = "immense wash silver sorry obey sleep planet maid proud kangaroo brief fence";
+var mnemonic = "wagon over aim cube problem crumble ancient enhance congress poet garment general";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble open radar flash crisp truth quantum chief where faint old coyote";
+var mnemonic = "penalty veteran sugar rescue argue report use layer key steel more stone";

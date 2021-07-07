@@ -1,1 +1,1 @@
-var mnemonic = "adjust minimum tooth blast luggage body goat swing muscle over fan impulse";
+var mnemonic = "riot rally over twenty address admit end flat robust fossil ladder goat";

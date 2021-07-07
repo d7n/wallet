@@ -1,1 +1,1 @@
-var mnemonic = "smoke void decade walk concert ice video skill idea south appear brief";
+var mnemonic = "damp earth rich recipe aspect faith suffer together obscure enroll neck feature";

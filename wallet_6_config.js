@@ -1,1 +1,1 @@
-var mnemonic = "knife usual decide flock leopard settle coast identify hat deputy sustain true";
+var mnemonic = "increase verb dress fee voice sudden dry tomorrow dismiss purity link aunt";

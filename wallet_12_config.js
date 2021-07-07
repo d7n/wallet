@@ -1,1 +1,1 @@
-var mnemonic = "hard gravity token whisper rain exhaust stove fitness sniff horse input video";
+var mnemonic = "flower unhappy armed around market wine blast analyst renew extend record faith";

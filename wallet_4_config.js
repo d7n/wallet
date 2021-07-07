@@ -1,1 +1,1 @@
-var mnemonic = "next share kite myth peasant ignore interest tip slender also august pattern";
+var mnemonic = "turkey muffin lonely iron cheap hurdle crisp bunker almost put credit junk";

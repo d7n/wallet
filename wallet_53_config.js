@@ -1,1 +1,1 @@
-var mnemonic = "side crystal core record spawn axis culture image stay scrub water tail";
+var mnemonic = "beach subway orbit safe brief test account void truck hotel own during";

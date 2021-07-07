@@ -1,1 +1,1 @@
-var mnemonic = "swarm ketchup action donor joke phrase century human desk party core zebra";
+var mnemonic = "december lumber congress short chef world few ship return mammal bronze weather";

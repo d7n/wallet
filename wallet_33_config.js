@@ -1,1 +1,1 @@
-var mnemonic = "diamond custom quiz piece purpose wheat actual method sniff noise spatial average";
+var mnemonic = "gate ride pair thing nose desert cruise ghost nation mango curtain cool";

@@ -1,1 +1,1 @@
-var mnemonic = "dove acquire display urban sleep enhance neutral kangaroo festival album airport ship";
+var mnemonic = "aisle shiver addict absurd dress myself success skin draw unique excuse myself";

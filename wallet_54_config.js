@@ -1,1 +1,1 @@
-var mnemonic = "payment tool bamboo citizen caught anxiety august sibling always gaze bicycle citizen";
+var mnemonic = "tobacco topple winter menu hill defense master then fever eternal kiss lizard";

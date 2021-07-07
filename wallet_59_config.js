@@ -1,1 +1,1 @@
-var mnemonic = "quit pupil noble recall answer prison begin blur tell change round garbage";
+var mnemonic = "fatal parent drive sell club genius soccer talent canoe oxygen suggest focus";

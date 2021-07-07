@@ -1,1 +1,1 @@
-var mnemonic = "can session december weird chimney silly lift insane nominee before ketchup axis";
+var mnemonic = "glide apology panda country hazard witness knee inch excess they true pilot";

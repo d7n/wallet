@@ -1,1 +1,1 @@
-var mnemonic = "sustain captain quantum leg super deny perfect symbol chalk chapter mutual avoid";
+var mnemonic = "thank wise arena piece wash grunt essence among until usual phone dwarf";

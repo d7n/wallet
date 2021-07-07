@@ -1,1 +1,1 @@
-var mnemonic = "example reason ticket praise wisdom symbol pretty potato arrange world empty crazy";
+var mnemonic = "dad salmon blouse box retire raccoon brisk scout describe now remind nest";

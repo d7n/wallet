@@ -1,1 +1,1 @@
-var mnemonic = "nice video peasant miss aim degree guard focus wheat skull wolf tape";
+var mnemonic = "segment cliff hobby buffalo hello switch double tomorrow sugar rifle myself model";

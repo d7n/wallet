@@ -1,1 +1,1 @@
-var mnemonic = "make ten slide arch arena motion garment dress still organ season step";
+var mnemonic = "height position famous boy above make weekend dice canal response scout write";

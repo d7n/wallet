@@ -1,1 +1,1 @@
-var mnemonic = "jealous horn inject engage rail ozone humble garage plug they boost appear";
+var mnemonic = "orphan stable gown witness lesson observe sponsor agree burden casino chair coast";

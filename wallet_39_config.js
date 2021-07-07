@@ -1,1 +1,1 @@
-var mnemonic = "sweet fringe very slam ticket cycle fuel rally collect captain decorate stick";
+var mnemonic = "deny other document fiber digital pretty rib snack raise panther spread pony";

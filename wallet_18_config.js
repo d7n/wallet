@@ -1,1 +1,1 @@
-var mnemonic = "chimney rocket brush sauce burger announce tape october truck lens notice skill";
+var mnemonic = "bubble brick modify memory better win museum night alien little grocery luggage";

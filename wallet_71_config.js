@@ -1,1 +1,1 @@
-var mnemonic = "sponsor actual act leave involve dragon fine order alpha spoil atom great";
+var mnemonic = "alcohol arm general crowd relief battle case aspect romance nominee injury erupt";

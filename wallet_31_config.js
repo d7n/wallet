@@ -1,1 +1,1 @@
-var mnemonic = "minute fossil angry shine spirit what twenty use armor vital across fatigue";
+var mnemonic = "budget celery order sadness enjoy silver age nation fresh embark tobacco tiger";

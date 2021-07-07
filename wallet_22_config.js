@@ -1,1 +1,1 @@
-var mnemonic = "gravity mixture maid visit force garden life online field wool lazy general";
+var mnemonic = "crack donkey skull symptom fluid disease grace blouse better choice tray ordinary";

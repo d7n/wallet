@@ -1,1 +1,1 @@
-var mnemonic = "mixture suit business topic into despair spoil medal scissors insect own business";
+var mnemonic = "inspire onion link north truck kitchen leave gain slice sock barely hamster";

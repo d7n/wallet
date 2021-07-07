@@ -1,1 +1,1 @@
-var mnemonic = "damp unknown milk syrup green volcano mom between amused media where hire";
+var mnemonic = "cause skin web bless zero umbrella cloud since stand measure useful horn";

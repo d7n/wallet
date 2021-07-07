@@ -1,1 +1,1 @@
-var mnemonic = "romance suit sell gloom submit cause race advance settle sock kite minute";
+var mnemonic = "fatal fun input leaf hope size genuine ivory skill chalk between olympic";

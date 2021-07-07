@@ -1,1 +1,1 @@
-var mnemonic = "between quiz left glad output vast limit bargain cool enjoy pull illegal";
+var mnemonic = "borrow price task black slice method author normal grant match element nominee";

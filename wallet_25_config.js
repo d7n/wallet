@@ -1,1 +1,1 @@
-var mnemonic = "pretty minute robust gossip task hair title during object general parent faint";
+var mnemonic = "concert guide promote march lawn various finish autumn barrel drill exhaust mouse";

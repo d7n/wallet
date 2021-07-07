@@ -1,1 +1,1 @@
-var mnemonic = "street original rich change certain apple age supreme hawk mobile view forest";
+var mnemonic = "novel regret monkey copy siren aisle come color observe clog bus modify";

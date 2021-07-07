@@ -1,1 +1,1 @@
-var mnemonic = "spoon salute desert exotic side wonder frog theme matrix wait dragon nephew";
+var mnemonic = "fall lift pyramid cargo change power three syrup endless net tragic rubber";

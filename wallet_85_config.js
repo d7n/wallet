@@ -1,1 +1,1 @@
-var mnemonic = "lift pumpkin excess sock adjust potato tree runway myth very nominee lend";
+var mnemonic = "autumn merge common arrive pony milk mutual fury desk bread hair harvest";

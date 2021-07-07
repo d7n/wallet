@@ -1,1 +1,1 @@
-var mnemonic = "example echo sister awful school man prosper roof push core ring barely";
+var mnemonic = "human wedding front era stuff brown border hub space rebel crystal license";

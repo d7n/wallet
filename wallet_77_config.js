@@ -1,1 +1,1 @@
-var mnemonic = "faith thumb fiscal tornado worry business ride bridge boss abandon distance minimum";
+var mnemonic = "jazz wreck federal wing thought phrase maximum excuse occur parrot sausage exchange";

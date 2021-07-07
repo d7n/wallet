@@ -1,1 +1,1 @@
-var mnemonic = "step cabin cloth outside dwarf swing faint shell timber supply cloud vital";
+var mnemonic = "voice essay curve find salad tunnel caught fit transfer badge village rally";

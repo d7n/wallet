@@ -1,1 +1,1 @@
-var mnemonic = "lunar group about next month road few guilt about loyal wisdom meadow";
+var mnemonic = "live midnight evidence indicate little goddess gentle aisle decade fury stool worth";

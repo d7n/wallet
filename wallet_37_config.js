@@ -1,1 +1,1 @@
-var mnemonic = "picture opinion token predict punch include habit jeans outer mix kiwi table";
+var mnemonic = "subway audit divide try slide pistol baby above trust theme choice hockey";

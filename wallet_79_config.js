@@ -1,1 +1,1 @@
-var mnemonic = "model glance matter more can buffalo echo anchor glove coach fee quote";
+var mnemonic = "item into domain blast glue scissors habit order donate grid drift task";

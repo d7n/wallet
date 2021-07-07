@@ -1,1 +1,1 @@
-var mnemonic = "denial fame trend that amateur swallow swift sweet oak wash sign mushroom";
+var mnemonic = "behind rebel animal dumb among toilet master crucial glue copper zoo anger";

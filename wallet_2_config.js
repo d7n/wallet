@@ -1,1 +1,1 @@
-var mnemonic = "lounge fee alpha corn cat december energy nature aerobic play kind dirt";
+var mnemonic = "exist often profit seed sail ugly bike arm minute match ensure car";

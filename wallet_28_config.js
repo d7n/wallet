@@ -1,1 +1,1 @@
-var mnemonic = "myth dilemma move intact direct truly fine grain fringe abstract panel knock";
+var mnemonic = "elbow visa tree soap bitter alter strategy tonight notable harvest kite trigger";

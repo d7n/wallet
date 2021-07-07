@@ -1,1 +1,1 @@
-var mnemonic = "possible distance cry donkey lake delay valid cactus vanish visit broccoli arm";
+var mnemonic = "despair biology install ghost bind senior grass indicate bundle hire enforce swamp";

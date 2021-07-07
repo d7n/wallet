@@ -1,1 +1,1 @@
-var mnemonic = "flash submit oil decorate current giraffe energy fee civil piano cigar number";
+var mnemonic = "cloth garden number feature benefit horse vessel open hunt either balcony attack";

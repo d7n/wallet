@@ -1,1 +1,1 @@
-var mnemonic = "easily treat nothing desk knee knife cable sausage jungle obscure produce moral";
+var mnemonic = "catalog senior trick during bench neutral execute atom olive leader bracket deer";

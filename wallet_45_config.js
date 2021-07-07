@@ -1,1 +1,1 @@
-var mnemonic = "next derive quote useful cream panther hair output cash gather print tube";
+var mnemonic = "message slide bleak cave marble neck used uniform october live feel check";

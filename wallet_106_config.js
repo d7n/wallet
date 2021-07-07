@@ -1,1 +1,1 @@
-var mnemonic = "choose shine trust sure ranch betray library disease pond shock wool window";
+var mnemonic = "calm timber clog short ritual romance expect tooth subject inject vendor coyote";

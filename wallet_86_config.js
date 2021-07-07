@@ -1,1 +1,1 @@
-var mnemonic = "manage lake sorry unit fatigue wing buddy hybrid coach monitor scene tongue";
+var mnemonic = "bonus affair fiscal giant advance lottery gain double fiction female jump enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "venue sword exile knock warrior hood gallery spider cricket drill foot teach";
+var mnemonic = "assault novel shadow clump impulse tongue kitchen stage crop lecture barrel bar";
