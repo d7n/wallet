@@ -1,1 +1,1 @@
-var mnemonic = "walk sort vibrant solution jungle matter scene about refuse type match budget";
+var mnemonic = "attend slice accuse produce feature barrel tomorrow sadness more fade patrol chicken";

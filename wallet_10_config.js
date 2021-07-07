@@ -1,1 +1,1 @@
-var mnemonic = "multiply swap favorite type room suggest wrestle legend cream glimpse someone fork";
+var mnemonic = "crush unhappy elbow link bus typical document tumble puzzle angle all easy";

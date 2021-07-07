@@ -1,1 +1,1 @@
-var mnemonic = "blood sock black sure million offer fat lady shaft morning vintage alter";
+var mnemonic = "cigar gym steak rescue engine verb panther dinosaur document hockey light diagram";

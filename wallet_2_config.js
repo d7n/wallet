@@ -1,1 +1,1 @@
-var mnemonic = "scale put minimum enemy kitchen negative base holiday onion ask stove addict";
+var mnemonic = "dust camp novel mutual suit gown obey armed wear renew avoid learn";

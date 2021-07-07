@@ -1,1 +1,1 @@
-var mnemonic = "square ensure asthma cave tent liar verify divide finish gift supreme lonely";
+var mnemonic = "swim card olive kind rebel museum chaos trial image core february coin";

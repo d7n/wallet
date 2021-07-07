@@ -1,1 +1,1 @@
-var mnemonic = "climb purpose candy wait august mushroom lady frog staff where mouse area";
+var mnemonic = "boy whale snap stumble rack helmet debris stadium normal curtain stand defense";

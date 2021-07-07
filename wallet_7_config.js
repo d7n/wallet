@@ -1,1 +1,1 @@
-var mnemonic = "stereo profit menu service film permit steel because people kite victory royal";
+var mnemonic = "violin say home foam acquire dish permit basket cross hip menu coast";

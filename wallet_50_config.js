@@ -1,1 +1,1 @@
-var mnemonic = "antique senior toe blossom position laundry venture mercy dove real family custom";
+var mnemonic = "romance race slush mushroom deputy purity know miracle flat venture laptop frequent";

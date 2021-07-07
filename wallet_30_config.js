@@ -1,1 +1,1 @@
-var mnemonic = "feed depart shield bundle embody output shrug caught artist canvas obey congress";
+var mnemonic = "poet twist bomb fatal smoke warfare ready labor desert mail cabin film";

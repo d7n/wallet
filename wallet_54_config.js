@@ -1,1 +1,1 @@
-var mnemonic = "image alcohol midnight tobacco steak network soda kangaroo scorpion style mosquito pear";
+var mnemonic = "sand tank quarter zone car february brick hospital unknown save search super";

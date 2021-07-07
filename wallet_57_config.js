@@ -1,1 +1,1 @@
-var mnemonic = "notice father market health today actor impulse ride case kite blood melody";
+var mnemonic = "club once subject town motor finish amazing swallow eternal tent escape taste";

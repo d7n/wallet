@@ -1,1 +1,1 @@
-var mnemonic = "armor damage fabric comic book asthma erupt bring payment garlic room prepare";
+var mnemonic = "melody link thing execute memory sell parent twin case urge excite elbow";

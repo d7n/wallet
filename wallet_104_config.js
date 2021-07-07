@@ -1,1 +1,1 @@
-var mnemonic = "visa arrow clay solve derive puppy pelican follow tool inside badge online";
+var mnemonic = "fuel wrap soda crack amused trigger envelope birth much spot mango great";

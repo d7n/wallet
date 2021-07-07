@@ -1,1 +1,1 @@
-var mnemonic = "eye furnace elevator indicate tenant hidden two into autumn arm churn glare";
+var mnemonic = "awkward card latin flame eye favorite twenty sample horror omit spin day";

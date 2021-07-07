@@ -1,1 +1,1 @@
-var mnemonic = "ramp erosion climb fall waste hand model scissors dose carpet action grocery";
+var mnemonic = "sick crawl happy purity trigger void soul approve dinosaur secret guard theory";

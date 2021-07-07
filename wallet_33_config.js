@@ -1,1 +1,1 @@
-var mnemonic = "anxiety vital clown leg foster favorite quantum wire catch need arrow leopard";
+var mnemonic = "polar tortoise merry ecology fade position near horse frequent churn metal design";

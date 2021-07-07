@@ -1,1 +1,1 @@
-var mnemonic = "kid melt cause hybrid nation stuff element churn hover flower limb usual";
+var mnemonic = "hungry because matter primary clip general object route clay sail essence control";

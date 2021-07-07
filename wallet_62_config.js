@@ -1,1 +1,1 @@
-var mnemonic = "wing weird name faith innocent latin chimney valve glass cover matter dose";
+var mnemonic = "arrest pencil domain risk you time equal artwork shine devote abstract note";

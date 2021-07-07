@@ -1,1 +1,1 @@
-var mnemonic = "flavor tower tuna expose gloom marine walk outside tobacco success wild dirt";
+var mnemonic = "funny budget velvet aim aware mobile envelope animal episode bronze word aisle";

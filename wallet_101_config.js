@@ -1,1 +1,1 @@
-var mnemonic = "fitness again peanut huge mutual simple resemble blade moment first bundle gift";
+var mnemonic = "rebel cinnamon sponsor giraffe cage absurd advance judge rally naive exchange whale";

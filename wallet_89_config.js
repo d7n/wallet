@@ -1,1 +1,1 @@
-var mnemonic = "census plunge catch defense purity boss gap neck weird this phrase stone";
+var mnemonic = "rubber cherry fence control ordinary goose naive little shop wash jaguar help";

@@ -1,1 +1,1 @@
-var mnemonic = "near forward place common hen coyote ask alter broccoli lift rice promote";
+var mnemonic = "usual slab moral lift atom poem metal guitar gas august daughter horn";

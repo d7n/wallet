@@ -1,1 +1,1 @@
-var mnemonic = "inflict puppy acoustic ill march spice fruit emotion suspect salmon orphan stick";
+var mnemonic = "clip solar immense museum body grass say more acoustic dismiss flag apple";

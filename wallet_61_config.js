@@ -1,1 +1,1 @@
-var mnemonic = "crisp obscure plug fit rare humble original brave medal switch slow system";
+var mnemonic = "foot seven color december cross east grass mass fog gasp expect blade";

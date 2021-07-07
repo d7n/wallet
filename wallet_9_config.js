@@ -1,1 +1,1 @@
-var mnemonic = "mercy rough dash spoon evoke excuse actress chaos monkey jealous pond action";
+var mnemonic = "sudden acid galaxy hamster foot round feed mimic curious fit club gloom";

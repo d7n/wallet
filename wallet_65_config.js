@@ -1,1 +1,1 @@
-var mnemonic = "include cup debris mean unique tennis lucky bridge lonely govern match globe";
+var mnemonic = "illness endless ten subject tribe develop diary ceiling butter engage apart furnace";

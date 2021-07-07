@@ -1,1 +1,1 @@
-var mnemonic = "shiver correct offer direct wear noble dolphin gauge chuckle trip book extend";
+var mnemonic = "kit crowd afraid street disorder scheme empty charge desert tired spring senior";

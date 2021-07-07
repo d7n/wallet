@@ -1,1 +1,1 @@
-var mnemonic = "swear country evoke output describe sick sunset core mask swear erosion unknown";
+var mnemonic = "soup find glare vibrant bean wrap general fence surround border below place";

@@ -1,1 +1,1 @@
-var mnemonic = "size over lemon swap neutral egg mesh trigger outer harsh toward birth";
+var mnemonic = "robust friend extra sound ramp pear gorilla acid pen primary destroy effort";

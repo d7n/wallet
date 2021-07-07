@@ -1,1 +1,1 @@
-var mnemonic = "flavor shock iron buffalo true scatter brass error dash work adjust talent";
+var mnemonic = "ride expect diagram group thunder junk announce burst guess artist planet learn";

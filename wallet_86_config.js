@@ -1,1 +1,1 @@
-var mnemonic = "voyage chief guard ride surprise equal essay grunt grass capable purse slice";
+var mnemonic = "absurd burst spider office energy wool diet loud what smoke refuse excuse";

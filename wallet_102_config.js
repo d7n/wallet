@@ -1,1 +1,1 @@
-var mnemonic = "bomb clerk soap size recipe say pony silver stool excuse atom again";
+var mnemonic = "gas search neither spawn moment radio secret lounge special pull north hub";

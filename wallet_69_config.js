@@ -1,1 +1,1 @@
-var mnemonic = "will hour embrace gas cement vintage fiction okay fiction mirror pole allow";
+var mnemonic = "ball bundle canal onion wing setup flash rocket attack round option link";

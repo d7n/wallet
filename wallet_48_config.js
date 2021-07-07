@@ -1,1 +1,1 @@
-var mnemonic = "equip cheese imitate burden term option token hold pelican prevent quote forest";
+var mnemonic = "oven way blind fish slam parrot water power panic stove submit wood";

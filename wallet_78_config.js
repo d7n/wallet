@@ -1,1 +1,1 @@
-var mnemonic = "math stove search poem horn fly flee fork cook melody hollow tomorrow";
+var mnemonic = "flat scan illness heavy labor loop health rate critic life joke afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal record afford tuna cinnamon two science ridge zoo language play laugh";
+var mnemonic = "ozone pear wire click quiz hazard wing eight ill soccer soon empty";

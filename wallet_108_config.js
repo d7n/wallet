@@ -1,1 +1,1 @@
-var mnemonic = "behave enough reopen moment job belt alcohol quiz noble metal ritual when";
+var mnemonic = "kiwi route lobster rose question company section dutch anchor water water civil";

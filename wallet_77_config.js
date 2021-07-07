@@ -1,1 +1,1 @@
-var mnemonic = "vendor announce short mass treat resource secret wage shoe oppose country eyebrow";
+var mnemonic = "topple sauce spatial coach approve maple inquiry rate wolf demise copper level";

@@ -1,1 +1,1 @@
-var mnemonic = "razor tortoise uncle firm high excuse wish blast question shock loop slight";
+var mnemonic = "hybrid error tenant universe suffer true problem useful blouse enforce math keen";

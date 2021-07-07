@@ -1,1 +1,1 @@
-var mnemonic = "narrow frequent wisdom slim require capable laundry card turn knee disagree merry";
+var mnemonic = "shaft flight camp state vivid share tissue bird crunch chat clutch skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster spice calm rib shed metal remind kingdom sunny auto produce jaguar";
+var mnemonic = "exhaust race flock gasp fog monster imitate point rescue corn uncover bundle";

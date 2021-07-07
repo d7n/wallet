@@ -1,1 +1,1 @@
-var mnemonic = "setup help excess start trash wood walnut cancel pistol man two short";
+var mnemonic = "toilet solve empower output kingdom olympic infant deal action hurry become sketch";

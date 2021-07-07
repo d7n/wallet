@@ -1,1 +1,1 @@
-var mnemonic = "short saddle initial blast nothing saddle february metal erase dinner push syrup";
+var mnemonic = "wasp dismiss credit lava you fortune unaware omit sudden father derive describe";

@@ -1,1 +1,1 @@
-var mnemonic = "undo cover train neglect gym embody scrub direct lazy lunch duck skirt";
+var mnemonic = "famous brave bacon horror early tiny path faith fantasy setup scrub flip";

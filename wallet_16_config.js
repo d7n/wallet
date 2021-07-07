@@ -1,1 +1,1 @@
-var mnemonic = "rotate auction easy describe divert inside night regret trouble across desk acoustic";
+var mnemonic = "fix note ship shoulder name noise perfect follow judge noodle toward arrest";

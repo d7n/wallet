@@ -1,1 +1,1 @@
-var mnemonic = "marine fiscal genuine rent atom hello boost mammal secret cover much debris";
+var mnemonic = "ethics flock doll river occur flip stand minute identify mushroom wagon flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "toe hope welcome mango usual seven column imitate apology gadget key slice";
+var mnemonic = "magnet horn enrich unfold sell raise goat wait motion auction pen group";

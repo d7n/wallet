@@ -1,1 +1,1 @@
-var mnemonic = "endless flip dream stereo record dish month armor wait female oyster estate";
+var mnemonic = "feed post bleak blossom bunker reason review island cycle gallery left vapor";

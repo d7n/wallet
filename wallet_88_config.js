@@ -1,1 +1,1 @@
-var mnemonic = "scene private advance town order silent garment payment suggest happy rebuild depth";
+var mnemonic = "left dial agent cattle illegal edit injury hurry swim mosquito lend member";

@@ -1,1 +1,1 @@
-var mnemonic = "ask pact jar fossil idle brass valley book damage census goose violin";
+var mnemonic = "disease cream fiber wisdom audit scout board west income jungle slide pipe";

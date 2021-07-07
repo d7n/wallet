@@ -1,1 +1,1 @@
-var mnemonic = "setup climb false theory gain choice put trophy hat rally extend bunker";
+var mnemonic = "actress special cotton modify calm spread mystery orange cute sadness business praise";

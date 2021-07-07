@@ -1,1 +1,1 @@
-var mnemonic = "still flat duck donkey crystal female world hand curious hospital saddle response";
+var mnemonic = "breeze tower boring message vintage galaxy primary inject rookie enroll wage salt";

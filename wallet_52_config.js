@@ -1,1 +1,1 @@
-var mnemonic = "bubble garlic absorb expose unable tongue lottery flee slender couch spin message";
+var mnemonic = "hollow merry they moral priority bargain truck enable fresh mail frog alpha";

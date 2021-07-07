@@ -1,1 +1,1 @@
-var mnemonic = "report trouble jealous knife upper antique deliver senior worth ignore claim title";
+var mnemonic = "when erase atom bubble detail plug ginger gossip mandate road nest alcohol";

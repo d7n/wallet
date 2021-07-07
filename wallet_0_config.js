@@ -1,1 +1,1 @@
-var mnemonic = "million jump change illegal van air series police urban corn true jacket";
+var mnemonic = "axis tired twelve mass upgrade magnet spy mirror debris enable impact ill";

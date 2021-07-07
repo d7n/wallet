@@ -1,1 +1,1 @@
-var mnemonic = "upper music notice twist puppy cigar high flight service guilt rifle cabbage";
+var mnemonic = "bacon mom ranch deny bid below cause grid message extra real turtle";

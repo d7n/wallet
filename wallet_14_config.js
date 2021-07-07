@@ -1,1 +1,1 @@
-var mnemonic = "reform join twin text oxygen crisp swallow gown payment when vague boost";
+var mnemonic = "pill tonight vanish attitude column chase reason inform neglect keen tank twelve";

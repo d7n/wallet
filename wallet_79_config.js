@@ -1,1 +1,1 @@
-var mnemonic = "predict divert film spatial toy bone asthma average better dove creek super";
+var mnemonic = "lend rapid toss able shrimp joke paper baby unable slab panda all";

@@ -1,1 +1,1 @@
-var mnemonic = "divert toward vault erode label cabbage luxury pupil rival visa valid draw";
+var mnemonic = "apart taste remind despair fire rally eye unique rhythm result ignore mirror";

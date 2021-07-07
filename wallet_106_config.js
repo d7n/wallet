@@ -1,1 +1,1 @@
-var mnemonic = "minimum glimpse enable cute enforce glass library cheese parent jealous consider spoon";
+var mnemonic = "glad manual flush motion fire situate depth bike famous man maze embrace";

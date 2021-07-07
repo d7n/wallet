@@ -1,1 +1,1 @@
-var mnemonic = "robust scatter speed iron dose brass anger undo treat gate tail cook";
+var mnemonic = "october multiply judge clever school task crouch second off salmon excuse divorce";

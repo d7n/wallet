@@ -1,1 +1,1 @@
-var mnemonic = "acid plate point borrow viable essence tribe orbit test bag raccoon ancient";
+var mnemonic = "dream glare clutch maximum people ecology apart argue arch laptop chunk diesel";

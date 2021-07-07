@@ -1,1 +1,1 @@
-var mnemonic = "vote consider celery curtain shine gasp pistol plastic example exercise vast cloth";
+var mnemonic = "crush grow person mouse brick keen twice fiction boost siege pill idle";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce subway rough festival long exchange laugh trophy memory basket pottery abandon";
+var mnemonic = "laugh deposit suffer gesture lecture vault physical spirit swarm afraid pioneer frame";

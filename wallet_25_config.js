@@ -1,1 +1,1 @@
-var mnemonic = "pink true april milk orange review crumble ill drip clay opera divert";
+var mnemonic = "square pool napkin language blood pretty drip common economy biology produce strategy";

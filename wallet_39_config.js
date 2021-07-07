@@ -1,1 +1,1 @@
-var mnemonic = "swing gauge isolate other stand fence kangaroo pipe father voice advance music";
+var mnemonic = "lava pink tribe dirt scrub raccoon ensure crew dash comic forget eternal";

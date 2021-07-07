@@ -1,1 +1,1 @@
-var mnemonic = "survey neck move arrow punch crime car unlock network screen exit subject";
+var mnemonic = "risk toast help total trend ethics cruise palm dinosaur achieve confirm speak";

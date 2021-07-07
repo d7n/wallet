@@ -1,1 +1,1 @@
-var mnemonic = "real indoor rapid shrimp resist mercy soft nasty aware lonely slim degree";
+var mnemonic = "say shift school clown stumble patient tide gather stomach cherry burger mind";

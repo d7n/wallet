@@ -1,1 +1,1 @@
-var mnemonic = "seat chimney salute have twice place pigeon learn unfold dilemma song palace";
+var mnemonic = "dirt grab sadness awesome palm skate ribbon lion fluid try guitar avocado";

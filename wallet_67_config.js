@@ -1,1 +1,1 @@
-var mnemonic = "transfer slow diagram proud script loan mushroom left struggle few guitar merry";
+var mnemonic = "permit day garage ride divide frown only head net impact swing twice";

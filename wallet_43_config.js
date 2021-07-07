@@ -1,1 +1,1 @@
-var mnemonic = "lobster mutual proud slender hand spring vocal average invest extra ready topic";
+var mnemonic = "cup amount motor subway kiss notable dish more snake knock begin barely";

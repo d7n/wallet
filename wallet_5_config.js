@@ -1,1 +1,1 @@
-var mnemonic = "brush picture ugly fresh voyage leg south hobby enemy grass abstract heart";
+var mnemonic = "ask dawn laptop tip athlete length master tuna exercise ill top effort";

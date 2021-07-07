@@ -1,1 +1,1 @@
-var mnemonic = "crop smart soap rotate sick equal extend emotion federal timber share mammal";
+var mnemonic = "flower season crunch broom boil put useful aisle maid talk drink aerobic";

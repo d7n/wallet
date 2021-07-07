@@ -1,1 +1,1 @@
-var mnemonic = "shell pulp lemon crawl engage inside strategy season example artwork hawk emerge";
+var mnemonic = "vehicle spare sad memory gorilla avoid emotion rail fix make orchard day";

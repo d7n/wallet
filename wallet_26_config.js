@@ -1,1 +1,1 @@
-var mnemonic = "skill club cross unhappy end street verb leader between slogan column onion";
+var mnemonic = "chase device defy wide hair rhythm street supply save upgrade square dilemma";

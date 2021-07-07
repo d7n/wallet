@@ -1,1 +1,1 @@
-var mnemonic = "heart neck alert neutral agent elegant push neck flip wisdom despair price";
+var mnemonic = "sense hub timber raw canoe throw cheap scan close height mind place";

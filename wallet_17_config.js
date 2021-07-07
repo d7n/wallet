@@ -1,1 +1,1 @@
-var mnemonic = "fire town public when tent elder text eyebrow lazy bleak capital turtle";
+var mnemonic = "twice volume illegal scout double quarter combine better hunt feature multiply build";

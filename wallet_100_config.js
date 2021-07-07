@@ -1,1 +1,1 @@
-var mnemonic = "iron idea sheriff popular purpose earth friend easily eyebrow exile blouse buzz";
+var mnemonic = "zero survey credit dad knife hope giggle arrest fortune gift reflect peasant";

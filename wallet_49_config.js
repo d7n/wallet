@@ -1,1 +1,1 @@
-var mnemonic = "inherit setup pattern speak bachelor industry aerobic gospel melody erupt column hello";
+var mnemonic = "arrange nation hire lobster health melt still plug gate lunch grain pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "afford write nerve similar taxi army couple enrich maze file chapter cool";
+var mnemonic = "brown cry ecology chapter soldier wire ancient cheap dutch oblige strategy casino";

@@ -1,1 +1,1 @@
-var mnemonic = "taste sunset endorse love observe torch balance satisfy bar urge magic siege";
+var mnemonic = "tone blanket pigeon jealous idea learn animal open square ball urban enlist";

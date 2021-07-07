@@ -1,1 +1,1 @@
-var mnemonic = "fruit stone ethics gym verb smoke zoo cycle weekend then host leave";
+var mnemonic = "ticket citizen breeze shock canoe erode enter decorate crawl age sunset false";

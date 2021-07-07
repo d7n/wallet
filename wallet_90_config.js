@@ -1,1 +1,1 @@
-var mnemonic = "before bomb control proof eager tree unable bulb fence submit cruise fold";
+var mnemonic = "ozone pioneer shield phone always cute parent fetch depth tell flip detail";

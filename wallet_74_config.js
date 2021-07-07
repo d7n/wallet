@@ -1,1 +1,1 @@
-var mnemonic = "rally inform spirit process impulse can thought force kangaroo scare rain load";
+var mnemonic = "engine name exit jelly rice defense answer travel pumpkin trap middle actor";

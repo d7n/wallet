@@ -1,1 +1,1 @@
-var mnemonic = "enhance siege quit opera enlist blue pizza radar balcony tank carbon kite";
+var mnemonic = "fringe soldier relax art elephant animal silly text nephew pool ostrich essence";

@@ -1,1 +1,1 @@
-var mnemonic = "program comic festival hundred sunset spy pledge banana unable enjoy grit actor";
+var mnemonic = "dice similar sleep disagree diagram bulb village thunder owner empower blast run";

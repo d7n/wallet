@@ -1,1 +1,1 @@
-var mnemonic = "sunny program glare infant derive exclude perfect pelican garment eight next trim";
+var mnemonic = "appear cricket rough clinic original other genuine any health inform trip estate";
