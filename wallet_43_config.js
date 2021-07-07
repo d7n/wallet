@@ -1,1 +1,1 @@
-var mnemonic = "dress grunt describe emerge before normal security virtual tide suit sugar light";
+var mnemonic = "head company timber type dilemma portion civil goose twenty intact long local";

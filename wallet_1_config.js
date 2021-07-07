@@ -1,1 +1,1 @@
-var mnemonic = "teach enough carbon liquid vast fiber magic squeeze kit federal galaxy hello";
+var mnemonic = "sibling own buzz caught cargo slice cloud quarter stick sunny slide kind";

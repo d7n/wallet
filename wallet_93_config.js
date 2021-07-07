@@ -1,1 +1,1 @@
-var mnemonic = "audit grief dumb inform proud space spatial raccoon addict company song hospital";
+var mnemonic = "leisure toilet broccoli angle face error fault destroy pass credit rare loop";

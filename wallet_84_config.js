@@ -1,1 +1,1 @@
-var mnemonic = "joy educate know depart gorilla genuine enough warm essence ensure miracle flight";
+var mnemonic = "omit nerve utility print envelope evoke wire surface pull knee traffic window";

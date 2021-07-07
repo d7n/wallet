@@ -1,1 +1,1 @@
-var mnemonic = "artwork tomorrow front walk chef common orchard foot network title field empower";
+var mnemonic = "proud office conduct syrup sweet office since deposit say shaft remember glow";

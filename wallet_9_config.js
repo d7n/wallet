@@ -1,1 +1,1 @@
-var mnemonic = "dawn trigger kitchen fragile fiber inner turn weapon pluck pretty people head";
+var mnemonic = "angry bid raccoon fruit carry fossil more desert fee bullet museum diet";

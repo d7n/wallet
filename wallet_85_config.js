@@ -1,1 +1,1 @@
-var mnemonic = "rigid fan wagon front proof cycle goose curtain will curtain faith frozen";
+var mnemonic = "absurd head helmet shock fluid pumpkin topic sick coil grant item light";

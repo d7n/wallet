@@ -1,1 +1,1 @@
-var mnemonic = "wish raccoon approve round crystal either shy judge mosquito guess bench filter";
+var mnemonic = "woman glory feel balance curve hospital camp surprise animal honey desk south";

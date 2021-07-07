@@ -1,1 +1,1 @@
-var mnemonic = "defy bubble ankle core coyote current digital health dream left indicate addict";
+var mnemonic = "detail bench olive prepare reveal mixture runway company canyon mean lecture foot";

@@ -1,1 +1,1 @@
-var mnemonic = "reward enforce bargain era spirit expose humble satisfy lizard easy merry practice";
+var mnemonic = "surge practice panic game million panic behind kangaroo congress panther clerk memory";

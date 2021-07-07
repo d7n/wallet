@@ -1,1 +1,1 @@
-var mnemonic = "regular expire already private flat interest convince gate enjoy jelly adapt neglect";
+var mnemonic = "deny omit trap inflict fox certain gym sauce aisle hard achieve occur";

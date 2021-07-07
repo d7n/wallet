@@ -1,1 +1,1 @@
-var mnemonic = "rude swamp mother dolphin observe pioneer census castle lake stand dune dirt";
+var mnemonic = "bring juice innocent truly credit powder caught blood motion shoe hundred bleak";

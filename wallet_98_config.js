@@ -1,1 +1,1 @@
-var mnemonic = "option venue open flag alcohol grunt asset film soccer pledge decline heart";
+var mnemonic = "property festival bacon color pattern tornado elite twin behind dice loud fossil";

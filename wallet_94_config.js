@@ -1,1 +1,1 @@
-var mnemonic = "service blanket ready crouch twelve equal know income gift pizza advice oblige";
+var mnemonic = "motion lottery usage help tobacco ghost shove donate behind melody share exhaust";

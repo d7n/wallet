@@ -1,1 +1,1 @@
-var mnemonic = "lesson tornado inherit spatial invest isolate woman suffer nice bless square puppy";
+var mnemonic = "window deliver coyote wrist average rely obvious slice lock umbrella never provide";

@@ -1,1 +1,1 @@
-var mnemonic = "tool fury hedgehog motor dune green total option question funny anger hip";
+var mnemonic = "skate rhythm argue despair tower curve now deliver option invite never run";

@@ -1,1 +1,1 @@
-var mnemonic = "style federal parrot crowd skill blur carbon hub desk bench student crucial";
+var mnemonic = "abandon inner lounge outside great sunny first forward donor side frozen dove";

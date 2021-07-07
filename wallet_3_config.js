@@ -1,1 +1,1 @@
-var mnemonic = "silent fish edge earth blouse forest snake assault section gloom gesture paper";
+var mnemonic = "addict candy nation cube assist casual cup stone bunker diagram mountain iron";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant loop alter novel arena crucial elbow pet repeat smooth ranch deliver";
+var mnemonic = "promote blur render mystery distance swallow few beef outside doll sausage forward";

@@ -1,1 +1,1 @@
-var mnemonic = "lion tumble usual cattle board found frame work viable voice memory honey";
+var mnemonic = "mercy nuclear laptop chat turkey multiply floor coach material desk curtain rude";

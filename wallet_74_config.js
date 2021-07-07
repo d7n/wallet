@@ -1,1 +1,1 @@
-var mnemonic = "key wheel organ thought dolphin industry unaware box system foster useful crush";
+var mnemonic = "gorilla pizza hamster bullet limit ostrich claw inherit usage sustain annual pudding";

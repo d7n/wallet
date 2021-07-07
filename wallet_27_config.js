@@ -1,1 +1,1 @@
-var mnemonic = "ensure ensure drastic reflect feed wrist struggle prize mosquito pudding gauge mammal";
+var mnemonic = "list palace ripple draw front design speak differ keen window correct warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "ship bread hole park term pilot rapid bacon kid basic please curious";
+var mnemonic = "youth aspect unlock clock music happy note weasel blouse can water easily";

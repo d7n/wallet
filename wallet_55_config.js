@@ -1,1 +1,1 @@
-var mnemonic = "acquire neither super skin eternal engage lazy swing online target chair barely";
+var mnemonic = "twelve approve process step lady reunion wrap town south glove churn clay";

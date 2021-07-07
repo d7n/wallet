@@ -1,1 +1,1 @@
-var mnemonic = "reveal thrive ocean teach limit fruit bullet dust protect hospital opinion train";
+var mnemonic = "tuition behind advance plastic burst pulp egg february dwarf car lady solid";

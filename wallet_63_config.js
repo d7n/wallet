@@ -1,1 +1,1 @@
-var mnemonic = "disease settle debate there west paper brown goat crazy bulb agree baby";
+var mnemonic = "empower bounce alarm pulp surround ecology raise save piece trap original hybrid";

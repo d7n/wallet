@@ -1,1 +1,1 @@
-var mnemonic = "real all elbow surprise shoe pretty fence despair rose aunt excuse century";
+var mnemonic = "jelly make height pear rubber vapor grant slush inject equip alarm velvet";

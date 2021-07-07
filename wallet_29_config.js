@@ -1,1 +1,1 @@
-var mnemonic = "rural toddler margin either quote bright citizen domain wise stool final post";
+var mnemonic = "seek pitch calm asset route harbor unable exist faint when symptom bean";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial click napkin twenty road accuse dumb cave slight use baby supply";
+var mnemonic = "calm violin rapid blush shrug spread story bracket eternal bachelor crazy insect";

@@ -1,1 +1,1 @@
-var mnemonic = "design other income confirm tenant student cousin find always judge candy must";
+var mnemonic = "book once general match general almost pave room abuse axis tuition demand";

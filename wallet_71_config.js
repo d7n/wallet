@@ -1,1 +1,1 @@
-var mnemonic = "police cruise twist whip nice indicate tooth jaguar melody vendor juice zero";
+var mnemonic = "repair elegant shrimp wrestle evidence brown other dial rate resource stamp eager";

@@ -1,1 +1,1 @@
-var mnemonic = "hint post silk cruel maple pipe artist quick upon item cake rain";
+var mnemonic = "practice breeze stone derive reward pair junior practice destroy bargain breeze silly";

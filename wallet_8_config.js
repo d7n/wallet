@@ -1,1 +1,1 @@
-var mnemonic = "honey drift coast electric bread jealous broom poverty logic scale season arrow";
+var mnemonic = "forward ten rule display plug skirt tone dad pelican remind tobacco amused";

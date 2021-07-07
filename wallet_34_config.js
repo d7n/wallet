@@ -1,1 +1,1 @@
-var mnemonic = "hover saddle absorb bottom leave afford online write sudden rubber brisk inspire";
+var mnemonic = "please shield mean burger frog elephant draw relief gym idle auction monster";

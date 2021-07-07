@@ -1,1 +1,1 @@
-var mnemonic = "disorder volcano essay defense universe smart have snow supreme panel mind crash";
+var mnemonic = "vibrant bird produce explain various upper intact rival scrap road mouse robust";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard rose pluck filter undo aunt sing chicken okay elegant quantum wild";
+var mnemonic = "agree anger absent clinic fruit seat family fade metal raw strategy purpose";

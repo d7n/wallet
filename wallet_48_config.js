@@ -1,1 +1,1 @@
-var mnemonic = "impulse version cage blush seat practice middle clay fetch pilot wagon purchase";
+var mnemonic = "odor weird acid iron tool tail roast talent vast afraid maid chunk";

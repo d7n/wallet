@@ -1,1 +1,1 @@
-var mnemonic = "over love pet deny funny business chef case candy donkey service wrist";
+var mnemonic = "maple say swap shell ostrich elegant tired cradle advance blade always warfare";

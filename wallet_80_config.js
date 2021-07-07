@@ -1,1 +1,1 @@
-var mnemonic = "fresh seven enter debris depart festival bullet excess copy glove garbage exclude";
+var mnemonic = "goose blouse invite pair abandon remain brave wagon sting stamp release clerk";

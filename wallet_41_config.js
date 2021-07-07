@@ -1,1 +1,1 @@
-var mnemonic = "want charge trouble sunset family marine word omit priority profit damage code";
+var mnemonic = "fog sort kidney veteran soda resemble assault tail situate dry appear front";

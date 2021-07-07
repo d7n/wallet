@@ -1,1 +1,1 @@
-var mnemonic = "major match father chest fee modify sunset way boil occur seven mandate";
+var mnemonic = "bag result type water man toward gift now barely black corn repair";

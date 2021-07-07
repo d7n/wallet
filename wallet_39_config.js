@@ -1,1 +1,1 @@
-var mnemonic = "waste cream addict choose actress group keen mosquito loyal report gallery play";
+var mnemonic = "cram grab jacket recall move wing merry model absorb output pink mandate";

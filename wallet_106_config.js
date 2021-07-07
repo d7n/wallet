@@ -1,1 +1,1 @@
-var mnemonic = "talk surface side dilemma play toe erase what attract nut raise large";
+var mnemonic = "shadow silent ethics abandon vehicle nephew palace task person they garment derive";

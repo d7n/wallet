@@ -1,1 +1,1 @@
-var mnemonic = "gossip fatal tilt hunt grid knock slim coral tenant trash expose code";
+var mnemonic = "canvas quantum raven corn final skull alcohol maid cushion gravity render develop";

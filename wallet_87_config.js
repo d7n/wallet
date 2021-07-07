@@ -1,1 +1,1 @@
-var mnemonic = "sock motor future satisfy spawn wisdom someone coast cave output unit choose";
+var mnemonic = "decrease limit soccer ocean job renew elevator dizzy boring acquire salad rude";

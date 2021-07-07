@@ -1,1 +1,1 @@
-var mnemonic = "click dragon bottom fury cover noodle easy question meadow woman garden comfort";
+var mnemonic = "sunset always badge diet dog turn alcohol exclude depart action valve blood";

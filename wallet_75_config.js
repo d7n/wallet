@@ -1,1 +1,1 @@
-var mnemonic = "inner either crystal pass palm sleep rabbit curious boy fine nut crumble";
+var mnemonic = "license during tank rude execute fun fabric cruise fatal clog sand spike";

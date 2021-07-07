@@ -1,1 +1,1 @@
-var mnemonic = "prefer now measure nothing cover demise network sail toe buyer rice squeeze";
+var mnemonic = "busy arrow stage gas kingdom absurd wisdom hand number electric unknown few";

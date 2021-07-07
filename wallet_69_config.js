@@ -1,1 +1,1 @@
-var mnemonic = "core smoke toddler sniff jealous yellow menu offer income nasty adapt layer";
+var mnemonic = "floor flame mom behind blue jar desk ignore capable vacuum wisdom slender";

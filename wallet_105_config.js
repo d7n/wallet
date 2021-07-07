@@ -1,1 +1,1 @@
-var mnemonic = "bless stay honey maid velvet cargo patch acoustic brave voice tourist innocent";
+var mnemonic = "blind able slab cruise job sense cushion liar three better over answer";

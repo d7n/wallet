@@ -1,1 +1,1 @@
-var mnemonic = "enable trumpet goddess lesson movie minute wild sudden want better discover ecology";
+var mnemonic = "repeat crater bundle wrist enough knock pattern order detail oblige fuel humor";

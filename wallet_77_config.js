@@ -1,1 +1,1 @@
-var mnemonic = "option oppose rotate cabin scheme robust call strong pattern history cute chest";
+var mnemonic = "security equal hospital always major harvest prosper oyster year derive inhale ketchup";

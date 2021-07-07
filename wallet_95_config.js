@@ -1,1 +1,1 @@
-var mnemonic = "nominee base mutual pumpkin whisper lend moment hamster orbit warfare spice trash";
+var mnemonic = "stage flash fuel child you income battle injury jungle guitar wet mansion";

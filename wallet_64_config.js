@@ -1,1 +1,1 @@
-var mnemonic = "index exchange learn obvious butter federal antique tourist human peanut absent void";
+var mnemonic = "neglect ball hand panda april hurdle absorb expose tortoise install tissue rabbit";

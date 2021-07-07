@@ -1,1 +1,1 @@
-var mnemonic = "cave below enough eagle pony spin twin nest match unknown fabric interest";
+var mnemonic = "sentence walnut valve tobacco glare gallery perfect attend misery volume depend asset";

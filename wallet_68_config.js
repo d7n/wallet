@@ -1,1 +1,1 @@
-var mnemonic = "soap music unable skirt picture axis marriage hard behave whisper fragile dream";
+var mnemonic = "equal pelican inject junk surge knife anxiety small salad oval forum wing";

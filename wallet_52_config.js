@@ -1,1 +1,1 @@
-var mnemonic = "card attitude opera decline advance earth argue distance arch crane client vague";
+var mnemonic = "ten aim actual two oyster blush among duty razor sauce pepper book";

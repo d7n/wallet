@@ -1,1 +1,1 @@
-var mnemonic = "coyote family champion logic intact garden way average note supply wasp access";
+var mnemonic = "timber coconut donor silver oak crucial only slide student noise fortune gun";

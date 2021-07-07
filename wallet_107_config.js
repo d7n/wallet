@@ -1,1 +1,1 @@
-var mnemonic = "wreck easily own cereal social settle group exercise tell web soap vehicle";
+var mnemonic = "rhythm among train valid artefact hidden plastic evoke upper hill catch scorpion";

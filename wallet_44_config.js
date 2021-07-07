@@ -1,1 +1,1 @@
-var mnemonic = "empower liquid artist lesson situate truck fish vibrant tattoo blame brisk rigid";
+var mnemonic = "talk drink volume leaf bag protect capable vehicle asthma garbage middle hover";

@@ -1,1 +1,1 @@
-var mnemonic = "corn faculty quiz farm bounce dad myself hockey garden tornado exist decade";
+var mnemonic = "wagon grape avoid box document erosion toe siege square trial retire play";

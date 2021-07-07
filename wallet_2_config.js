@@ -1,1 +1,1 @@
-var mnemonic = "nuclear feature reward reason column energy anger flower diary office evil second";
+var mnemonic = "athlete embrace laugh drift climb soldier turn wolf brain random safe response";

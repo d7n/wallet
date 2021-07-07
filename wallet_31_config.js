@@ -1,1 +1,1 @@
-var mnemonic = "rescue quarter coin source rule size game paddle number top often bullet";
+var mnemonic = "isolate color lamp adapt choice urge episode oxygen nothing ancient oak endorse";

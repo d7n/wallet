@@ -1,1 +1,1 @@
-var mnemonic = "seven agent october open ripple firm fence shiver photo slice man visa";
+var mnemonic = "vapor chase chair parade lake autumn better trash giggle super blame mango";

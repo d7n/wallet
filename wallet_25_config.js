@@ -1,1 +1,1 @@
-var mnemonic = "jacket surround future marriage bubble submit fury wise father intact alien usual";
+var mnemonic = "mesh divert kind ivory hundred vivid river balcony rice inject piece entire";

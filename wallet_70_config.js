@@ -1,1 +1,1 @@
-var mnemonic = "knee defense marriage wrist rigid draw again once slice flag primary purity";
+var mnemonic = "uphold innocent fish indicate fortune wish suit love update monkey judge worry";

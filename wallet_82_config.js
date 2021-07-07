@@ -1,1 +1,1 @@
-var mnemonic = "remain call jar silly expand echo asset wonder render auto float asthma";
+var mnemonic = "label toe hockey reason abuse chair recycle ladder casual acid special kite";

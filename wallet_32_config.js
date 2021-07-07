@@ -1,1 +1,1 @@
-var mnemonic = "they canal unit hard that left defy deliver private skirt uncle position";
+var mnemonic = "convince section settle easy wave erupt vessel fragile dial lazy mystery tooth";

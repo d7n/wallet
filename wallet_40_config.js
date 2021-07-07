@@ -1,1 +1,1 @@
-var mnemonic = "bird six problem mean enact head steel rescue impact heavy flavor moon";
+var mnemonic = "shed exclude elite box naive quarter marine skin picture state elder online";

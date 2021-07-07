@@ -1,1 +1,1 @@
-var mnemonic = "receive social aerobic capable giggle hold truly prefer butter twist summer build";
+var mnemonic = "blind spy tomato history cave sea spoon depth patient artefact raven spare";

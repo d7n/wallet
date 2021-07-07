@@ -1,1 +1,1 @@
-var mnemonic = "mom print more example tissue foil fiscal add road become capital quality";
+var mnemonic = "wrap enforce brown increase skate hospital eagle tongue tone primary great nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "torch resemble anger run whisper doll cost lemon sphere enact appear fuel";
+var mnemonic = "home onion lunar gravity rail bonus armor correct pool lumber trade pony";

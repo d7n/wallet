@@ -1,1 +1,1 @@
-var mnemonic = "skirt attend zebra ladder correct base there text hundred pluck various shoot";
+var mnemonic = "hungry smoke beef estate way hip romance cheese screen shoe nest oyster";

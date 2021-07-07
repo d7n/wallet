@@ -1,1 +1,1 @@
-var mnemonic = "satisfy hover cause grief shallow faith beef photo torch such actual swim";
+var mnemonic = "alcohol parrot gain renew another shuffle exist prize high climb shine hunt";

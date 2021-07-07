@@ -1,1 +1,1 @@
-var mnemonic = "shock outer crowd hybrid acid story air cabin giggle expand weasel spin";
+var mnemonic = "cereal palace thought resemble perfect theory daring smooth juice unlock glory raw";

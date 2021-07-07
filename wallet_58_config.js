@@ -1,1 +1,1 @@
-var mnemonic = "together three ignore elite spend blind eager title humble pair mouse key";
+var mnemonic = "taste describe category cross merit gift diet kid lava ability nuclear forget";

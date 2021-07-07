@@ -1,1 +1,1 @@
-var mnemonic = "miracle electric nation lake siege diet burden solar guard hire coil length";
+var mnemonic = "tomorrow law wine oyster review twenty alone check prosper glass bless quit";

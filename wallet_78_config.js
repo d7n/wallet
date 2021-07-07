@@ -1,1 +1,1 @@
-var mnemonic = "update pilot crew pink reject drive dwarf awake wink fabric stay dizzy";
+var mnemonic = "rival castle light scare banner shoot grocery spirit hedgehog misery parade leaf";

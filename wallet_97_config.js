@@ -1,1 +1,1 @@
-var mnemonic = "assault friend walnut develop caution mango fuel disease key fitness flag member";
+var mnemonic = "alien what monitor poet skirt fringe glow program left during door milk";

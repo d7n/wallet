@@ -1,1 +1,1 @@
-var mnemonic = "what tower shoe nest grunt audit dumb lecture light enforce tired occur";
+var mnemonic = "quote knife sponsor hero acquire thank air hint hope cable furnace kitten";

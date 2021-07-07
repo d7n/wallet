@@ -1,1 +1,1 @@
-var mnemonic = "way once spoon tuna sugar duty cycle ozone damage develop expand train";
+var mnemonic = "daring canal bundle there stomach pudding urge suffer drip love gorilla inform";

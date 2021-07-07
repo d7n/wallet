@@ -1,1 +1,1 @@
-var mnemonic = "fork engine amazing make midnight foil basket shop cactus fire much decade";
+var mnemonic = "width layer legal prosper attitude knock liquid novel bar furnace miss shove";

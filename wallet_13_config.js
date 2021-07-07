@@ -1,1 +1,1 @@
-var mnemonic = "ahead ocean feature airport fog live derive holiday myth puzzle cash organ";
+var mnemonic = "any view beauty lecture cycle thank concert adult develop install afraid script";

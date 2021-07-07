@@ -1,1 +1,1 @@
-var mnemonic = "anchor song mirror degree flee position grief expose depth fury embrace jazz";
+var mnemonic = "alcohol session fatal fix mass corn ceiling usage claw develop ghost table";

@@ -1,1 +1,1 @@
-var mnemonic = "elder glimpse hundred empty later various quarter talent betray beach gorilla invest";
+var mnemonic = "travel pledge tilt caught source print worth hammer pair glue worry enact";

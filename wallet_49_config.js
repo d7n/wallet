@@ -1,1 +1,1 @@
-var mnemonic = "middle rug room lend spin clip dismiss erase panther approve sound pony";
+var mnemonic = "ozone comic orange need garment refuse crumble trial alarm uphold hockey tongue";

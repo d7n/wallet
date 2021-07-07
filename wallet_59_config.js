@@ -1,1 +1,1 @@
-var mnemonic = "near shoot pave glue rubber load tank narrow increase critic nephew wrong";
+var mnemonic = "club guilt summer lyrics gloom floor worth toilet sauce hero enrich disease";

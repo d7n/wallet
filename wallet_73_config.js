@@ -1,1 +1,1 @@
-var mnemonic = "hen tornado knee young ability clarify six suspect mother ramp pause fitness";
+var mnemonic = "brand wide usage judge pipe cupboard eight guess sand novel feed explain";

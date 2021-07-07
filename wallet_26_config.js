@@ -1,1 +1,1 @@
-var mnemonic = "diagram select exact youth inner tattoo devote soul table hundred cube slush";
+var mnemonic = "rent shaft tobacco person test purchase visa gadget catch rotate enact deer";

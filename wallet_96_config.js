@@ -1,1 +1,1 @@
-var mnemonic = "genuine inquiry foster mammal sweet ramp flavor coconut helmet maze music drop";
+var mnemonic = "chalk transfer head pen rigid next shine near faculty emotion timber jacket";

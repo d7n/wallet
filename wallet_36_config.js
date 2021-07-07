@@ -1,1 +1,1 @@
-var mnemonic = "invite plate spray comic acid spatial illness dog plunge enhance diamond pioneer";
+var mnemonic = "arrange axis task orbit quantum gospel combine journey vicious smooth endless giraffe";

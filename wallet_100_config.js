@@ -1,1 +1,1 @@
-var mnemonic = "energy detail cloth occur zero wear pride concert defense ramp honey vital";
+var mnemonic = "include october resist legend team this chicken bench asthma paper embrace wife";

@@ -1,1 +1,1 @@
-var mnemonic = "able ocean giraffe smile dish chief ring left radio century song sausage";
+var mnemonic = "unveil winner fruit funny satisfy column bottom purchase foam script around photo";

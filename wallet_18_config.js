@@ -1,1 +1,1 @@
-var mnemonic = "gadget pledge kind duty happy peasant purchase gaze inquiry depend bicycle sail";
+var mnemonic = "traffic parade property ancient spread theme unfair prefer sweet cook peasant neither";
