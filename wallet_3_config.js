@@ -1,1 +1,1 @@
-var mnemonic = "exile cram audit ski mirror despair shrimp attack negative juice slide initial";
+var mnemonic = "tilt dutch zebra token promote special tilt alien sentence check unknown matrix";

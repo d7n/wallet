@@ -1,1 +1,1 @@
-var mnemonic = "denial virtual capable evil display hair attend glance butter life fold gym";
+var mnemonic = "grab security lemon task search blush torch follow simple doll script lunch";

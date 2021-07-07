@@ -1,1 +1,1 @@
-var mnemonic = "health barrel cloth valid rude diagram awesome youth labor grunt manage bridge";
+var mnemonic = "uniform winner hour topic layer burst insane boil disagree equip stairs cram";

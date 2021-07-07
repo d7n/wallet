@@ -1,1 +1,1 @@
-var mnemonic = "situate frequent left rely acid fit change dream fix eye range pattern";
+var mnemonic = "alpha spray search never edge jump diagram ability rough control paddle unveil";

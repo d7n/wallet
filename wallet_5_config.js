@@ -1,1 +1,1 @@
-var mnemonic = "main erase refuse reform diary room memory dumb lecture hub profit slush";
+var mnemonic = "young wasp barrel venture own shrug skirt bid foot small beef tonight";

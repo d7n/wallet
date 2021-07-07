@@ -1,1 +1,1 @@
-var mnemonic = "before despair dirt danger bulb rare brain segment grow bike gloom scout";
+var mnemonic = "area pond matrix drastic income trend dad elder path destroy object design";

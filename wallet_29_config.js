@@ -1,1 +1,1 @@
-var mnemonic = "win behave turtle yard issue disease render merge blossom vault spike you";
+var mnemonic = "retreat actress tower inform mass diary lemon extra raw tube atom advice";

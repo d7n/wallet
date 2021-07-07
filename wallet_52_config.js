@@ -1,1 +1,1 @@
-var mnemonic = "celery merit combine truck blast praise topple dinosaur coil leg fence awake";
+var mnemonic = "resource genuine struggle chase uphold comic club brisk earn crew van unable";

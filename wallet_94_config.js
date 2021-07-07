@@ -1,1 +1,1 @@
-var mnemonic = "occur camp boil place general device response surprise tonight hurry spawn file";
+var mnemonic = "clip shoulder tortoise offer west ghost zoo actual kind machine imitate blood";

@@ -1,1 +1,1 @@
-var mnemonic = "steak quantum visa motor dynamic similar adult foster blouse foster float robot";
+var mnemonic = "horror endorse wet execute melody night flee work banana sustain zero wave";

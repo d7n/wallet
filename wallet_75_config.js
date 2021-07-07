@@ -1,1 +1,1 @@
-var mnemonic = "dumb feature banner tuition glide hunt forest ginger police puzzle broom goose";
+var mnemonic = "check foster salt neglect safe edge family river electric way decline mercy";

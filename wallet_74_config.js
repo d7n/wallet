@@ -1,1 +1,1 @@
-var mnemonic = "govern icon phrase adapt kitchen dream output cigar primary bonus dignity swarm";
+var mnemonic = "elevator volume extra bean erupt input coconut use clever include eagle february";

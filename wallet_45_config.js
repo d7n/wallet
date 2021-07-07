@@ -1,1 +1,1 @@
-var mnemonic = "say super knife minute lake toe frequent mom work mind sleep equal";
+var mnemonic = "bright rally alter tired birth drift amused cause attack broccoli bus chimney";

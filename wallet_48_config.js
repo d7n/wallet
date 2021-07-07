@@ -1,1 +1,1 @@
-var mnemonic = "found prison onion blind convince copper gentle alert powder south key wrestle";
+var mnemonic = "slow copy uphold this now board armed minor fragile reveal material kidney";

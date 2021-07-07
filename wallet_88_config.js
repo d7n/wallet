@@ -1,1 +1,1 @@
-var mnemonic = "clip also hammer voyage scrap devote recall police nerve keep network zebra";
+var mnemonic = "cargo live pet multiply hurt cactus ordinary hill usage sea soft prepare";

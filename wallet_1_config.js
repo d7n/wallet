@@ -1,1 +1,1 @@
-var mnemonic = "mandate impact include extra olive symptom practice long filter monitor forget bag";
+var mnemonic = "bicycle radio nothing swallow kingdom issue december gain tell trophy climb faith";

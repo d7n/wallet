@@ -1,1 +1,1 @@
-var mnemonic = "truly report orchard rack deal fatal abstract between stamp vote august coin";
+var mnemonic = "leave what laundry advice olive faith strong cancel bullet wolf rely term";

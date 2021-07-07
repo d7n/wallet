@@ -1,1 +1,1 @@
-var mnemonic = "forum what couch skin primary dawn vocal tennis know culture quarter rhythm";
+var mnemonic = "bean forum planet tent fluid patient razor warrior nice day tobacco mean";

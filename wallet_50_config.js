@@ -1,1 +1,1 @@
-var mnemonic = "dutch sheriff column unfair rate disease typical render more liquid flip airport";
+var mnemonic = "income pill describe staff license knife lobster grab jazz purse exotic quarter";

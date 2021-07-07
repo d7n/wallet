@@ -1,1 +1,1 @@
-var mnemonic = "option correct fresh curious equip gun catch lesson advice join bread print";
+var mnemonic = "average vessel torch spare okay flat garden stumble hood stock simple spray";

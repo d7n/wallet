@@ -1,1 +1,1 @@
-var mnemonic = "solve history music write couple castle slow opinion traffic pave helmet village";
+var mnemonic = "model void close blur hour knife detail waste purpose traffic galaxy top";

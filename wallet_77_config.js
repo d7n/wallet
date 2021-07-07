@@ -1,1 +1,1 @@
-var mnemonic = "tent onion reflect patch umbrella depart music curious shove agree ostrich improve";
+var mnemonic = "pass opinion warfare result base demand awesome list foil patch tag warm";

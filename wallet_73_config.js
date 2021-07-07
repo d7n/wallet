@@ -1,1 +1,1 @@
-var mnemonic = "habit dose forget rough behind mechanic bird student hip gorilla essay aspect";
+var mnemonic = "concert offer divide stage panther gold portion whip glow again double disorder";

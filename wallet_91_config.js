@@ -1,1 +1,1 @@
-var mnemonic = "unit spot advance lobster often army wall round smoke shoulder pudding payment";
+var mnemonic = "parent gauge pen bird undo develop wise require can parade daughter supply";

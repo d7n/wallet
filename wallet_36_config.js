@@ -1,1 +1,1 @@
-var mnemonic = "whip skate agent arctic cool giraffe double stool dust surface enter unit";
+var mnemonic = "bitter law power demand mind noise doll call token reward work wave";

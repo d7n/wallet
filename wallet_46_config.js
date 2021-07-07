@@ -1,1 +1,1 @@
-var mnemonic = "rebuild method exact coyote young pencil frog tank air rich ridge potato";
+var mnemonic = "educate outside nature slice decide virtual power alter mammal sail fold proud";

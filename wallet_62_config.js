@@ -1,1 +1,1 @@
-var mnemonic = "clown wine absurd before upper bomb december fragile illness output you total";
+var mnemonic = "family shoulder enact hybrid mixed jewel giggle detail coin nation sand vast";

@@ -1,1 +1,1 @@
-var mnemonic = "amount ozone abandon question crucial regret census dragon reject giraffe peasant donate";
+var mnemonic = "wet borrow draw already blast divert tube history parrot distance crane fluid";

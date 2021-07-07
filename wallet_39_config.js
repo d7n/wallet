@@ -1,1 +1,1 @@
-var mnemonic = "tag aerobic elbow outside movie possible panel drill smart top accident family";
+var mnemonic = "fit roast kit poverty clean brain oppose furnace rain churn special invest";

@@ -1,1 +1,1 @@
-var mnemonic = "kid flavor opinion ring wine acid few rate love town blur audit";
+var mnemonic = "record author head empower clip elephant guitar risk still middle goose play";

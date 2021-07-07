@@ -1,1 +1,1 @@
-var mnemonic = "arm clerk change desk olympic excuse west tube exercise depart luggage develop";
+var mnemonic = "prize surge cloth art interest sad split vast wide valid reopen parrot";

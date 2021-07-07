@@ -1,1 +1,1 @@
-var mnemonic = "bracket clay spell father clap want pizza grain lecture cactus increase glory";
+var mnemonic = "clock adapt elder owner educate doll abstract van pepper sand fresh veteran";

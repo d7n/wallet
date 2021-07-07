@@ -1,1 +1,1 @@
-var mnemonic = "employ absent stumble text skin leopard february flag barrel tortoise nation belt";
+var mnemonic = "voice man twelve bubble symptom magic year venue select future nerve change";

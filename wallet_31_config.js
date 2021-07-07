@@ -1,1 +1,1 @@
-var mnemonic = "talent select salad swarm syrup nephew nation arena security hair enemy embark";
+var mnemonic = "absent lunar price penalty suit prepare legend reform prosper corn soul minor";

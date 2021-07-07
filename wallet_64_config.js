@@ -1,1 +1,1 @@
-var mnemonic = "volcano way blast asset grass joy hunt puppy gossip law thumb cattle";
+var mnemonic = "ride pause ginger apple woman cupboard bar oil anxiety submit slice lake";

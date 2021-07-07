@@ -1,1 +1,1 @@
-var mnemonic = "medal harvest bench lunar february blur labor debris wait convince element enhance";
+var mnemonic = "rally flip quarter eager target obscure inspire canoe animal stone embody question";

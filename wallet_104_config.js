@@ -1,1 +1,1 @@
-var mnemonic = "session cart portion adjust raccoon become inspire version believe holiday sound gauge";
+var mnemonic = "radio want option visa lounge doll water arch wasp staff wolf enter";

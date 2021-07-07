@@ -1,1 +1,1 @@
-var mnemonic = "scorpion spoon critic buyer cheese rug neutral subway retire diesel marble cliff";
+var mnemonic = "cloth legal element entire dismiss soccer object pizza spoon domain blush absent";

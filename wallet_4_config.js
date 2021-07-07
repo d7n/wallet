@@ -1,1 +1,1 @@
-var mnemonic = "inherit gift solution label reunion govern meat wheel walnut spawn erode shield";
+var mnemonic = "ensure awake bubble fade stone banana dragon oval concert erosion glimpse enemy";

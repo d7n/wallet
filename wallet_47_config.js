@@ -1,1 +1,1 @@
-var mnemonic = "define else error clip decade wrestle side flight walk dolphin leader abandon";
+var mnemonic = "only dumb birth name youth tunnel owner slogan bulb defy ginger device";

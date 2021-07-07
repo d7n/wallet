@@ -1,1 +1,1 @@
-var mnemonic = "twenty ramp grow can outdoor actress nasty merry height social sport peace";
+var mnemonic = "truth ability write jaguar bid raw trigger bamboo release manual feed wash";

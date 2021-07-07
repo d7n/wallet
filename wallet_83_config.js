@@ -1,1 +1,1 @@
-var mnemonic = "neck notable royal awesome problem bless uncover pumpkin tiger cute release noise";
+var mnemonic = "resource alert hurry nose kite scene nuclear mandate vacant climb help student";

@@ -1,1 +1,1 @@
-var mnemonic = "amused spirit alien sign portion math ten grunt shell attend slam kingdom";
+var mnemonic = "title stadium stable train fancy luxury whisper gasp double fatal wink glance";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect moment mutual hockey curtain stable hunt tuition copper shoulder fetch girl";
+var mnemonic = "horse couple nature abuse oval island frown goat around pen position agent";

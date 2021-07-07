@@ -1,1 +1,1 @@
-var mnemonic = "battle doll baby island silent pepper since electric three purity royal slender";
+var mnemonic = "sniff assume nice good table believe evolve alcohol fresh flavor athlete junior";

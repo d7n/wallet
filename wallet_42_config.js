@@ -1,1 +1,1 @@
-var mnemonic = "lumber jelly cup one ladder carbon unknown turkey plastic ostrich unveil program";
+var mnemonic = "birth tone census coast carry occur door guitar reopen girl waste chimney";

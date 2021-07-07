@@ -1,1 +1,1 @@
-var mnemonic = "venture fall rapid defy switch purpose loud spread fat crew unhappy antenna";
+var mnemonic = "mammal faint ecology liar bright cotton giant burden next fault mesh tag";

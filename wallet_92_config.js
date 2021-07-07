@@ -1,1 +1,1 @@
-var mnemonic = "steel abuse keep yellow below syrup drastic service rhythm fame deliver check";
+var mnemonic = "title pet decorate arrange earn ready tide student install rifle into essay";

@@ -1,1 +1,1 @@
-var mnemonic = "wire amateur excite glass point endorse cloud guilt unable flat occur gauge";
+var mnemonic = "device visa friend protect happy repeat seek exercise clean axis banner depend";

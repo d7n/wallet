@@ -1,1 +1,1 @@
-var mnemonic = "track bomb pretty digital blue bind cruel kite close appear champion inside";
+var mnemonic = "fitness meat ginger razor base venture problem subway what room method basic";

@@ -1,1 +1,1 @@
-var mnemonic = "return bitter index box tissue consider rapid donate design sing worry slot";
+var mnemonic = "easy brief venue key huge blind income girl picnic pluck hammer once";

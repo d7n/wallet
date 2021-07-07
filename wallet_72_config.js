@@ -1,1 +1,1 @@
-var mnemonic = "identify blush turn diet drastic side spare pear supply dragon target hair";
+var mnemonic = "fault amateur original mad fringe vast weather angry vintage close home clock";

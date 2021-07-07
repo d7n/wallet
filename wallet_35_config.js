@@ -1,1 +1,1 @@
-var mnemonic = "must music two merit cash provide aspect emotion spatial chunk round glow";
+var mnemonic = "actor cinnamon stereo arm sausage balance usage crazy exclude south quote devote";

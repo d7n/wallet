@@ -1,1 +1,1 @@
-var mnemonic = "ozone baby search venture capable science advice scatter mention hotel warfare ring";
+var mnemonic = "loud bridge boil genre dream catch symptom liquid boost exclude guide remain";

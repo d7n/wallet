@@ -1,1 +1,1 @@
-var mnemonic = "answer you friend trend ivory father tell awkward city odor seven fringe";
+var mnemonic = "crucial capital ribbon oval biology sunny solid romance camera joy steak ceiling";

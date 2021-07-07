@@ -1,1 +1,1 @@
-var mnemonic = "pen laugh hamster abuse educate make crumble remove near captain more catch";
+var mnemonic = "symbol scheme detect toy swallow unknown quit stomach snake start woman surface";

@@ -1,1 +1,1 @@
-var mnemonic = "angry desk goddess meadow ridge safe ostrich oak snow afraid coach ten";
+var mnemonic = "brave novel common law about crack embrace talent fault decide salt category";

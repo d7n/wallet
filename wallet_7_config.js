@@ -1,1 +1,1 @@
-var mnemonic = "slim object elevator idle differ isolate regret absorb sample ancient prison ceiling";
+var mnemonic = "labor slush anger arrow program wheat cradle task there gather alien depth";

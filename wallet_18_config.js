@@ -1,1 +1,1 @@
-var mnemonic = "spring orchard comfort badge claim cost clap clever frost avoid ostrich husband";
+var mnemonic = "tide country absurd october write then vintage include soda turn truth recycle";

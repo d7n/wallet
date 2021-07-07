@@ -1,1 +1,1 @@
-var mnemonic = "alter donor twelve garment ghost work message degree erase erosion priority inform";
+var mnemonic = "cactus illegal crumble cycle solution satisfy all jewel release cook tennis box";

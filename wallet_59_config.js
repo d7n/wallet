@@ -1,1 +1,1 @@
-var mnemonic = "candy parade vast dad digital possible inhale rib service vibrant mind degree";
+var mnemonic = "public aim grab mention pole century apart twist kitten over connect swing";

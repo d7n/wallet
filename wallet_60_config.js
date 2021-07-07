@@ -1,1 +1,1 @@
-var mnemonic = "whale embark picnic mind grit avoid hello rebel nut such talent army";
+var mnemonic = "sauce dinosaur drink unfair urge assist gold illegal riot expect shed fatigue";

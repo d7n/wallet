@@ -1,1 +1,1 @@
-var mnemonic = "smile exercise similar path lava soft taxi tumble hole nasty story manage";
+var mnemonic = "corn wood task sun tragic shoe during arrange suspect loud swarm matrix";

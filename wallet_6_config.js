@@ -1,1 +1,1 @@
-var mnemonic = "used remain solution identify sniff cup social letter kiwi spike what burden";
+var mnemonic = "party verb need lecture start inflict minute later tone senior clown abandon";

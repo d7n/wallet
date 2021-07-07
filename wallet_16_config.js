@@ -1,1 +1,1 @@
-var mnemonic = "nut army paddle jar guitar dove short evoke visual kiwi know narrow";
+var mnemonic = "parade art axis benefit electric give agree define useless float brass similar";

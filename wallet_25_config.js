@@ -1,1 +1,1 @@
-var mnemonic = "stuff asset rude family dragon senior hope city rifle dose scissors movie";
+var mnemonic = "elite sword total sense tiny talk infant shrug usual flight upgrade remind";

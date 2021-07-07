@@ -1,1 +1,1 @@
-var mnemonic = "airport habit festival become depth satoshi tiny coffee multiply often normal fork";
+var mnemonic = "smoke card exchange truck tenant orbit tool enhance cabin social wheel page";

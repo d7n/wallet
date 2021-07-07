@@ -1,1 +1,1 @@
-var mnemonic = "area rather response autumn secret evoke soft tumble weasel obvious merge caution";
+var mnemonic = "flame eyebrow now engage giraffe wear eight castle kit flee magnet math";

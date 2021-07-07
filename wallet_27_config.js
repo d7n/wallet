@@ -1,1 +1,1 @@
-var mnemonic = "priority grab hire black lawsuit wing act island consider attack spy distance";
+var mnemonic = "below insane daring danger salute slide fork resemble open crucial satisfy plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "next spot pottery upon bachelor size below key exit cave anchor nurse";
+var mnemonic = "barrel cotton key battle story item since they cousin few hill globe";

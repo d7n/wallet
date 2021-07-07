@@ -1,1 +1,1 @@
-var mnemonic = "rely sand pear end motor claim bullet social viable quick giant nephew";
+var mnemonic = "chat float save pulp dove loyal waste sudden equip impose brick retire";

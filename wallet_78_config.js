@@ -1,1 +1,1 @@
-var mnemonic = "canvas liar decade elbow pond stay dog mutual subway pool auction history";
+var mnemonic = "cool method walk medal insect ribbon thank lumber anger joy weird stable";

@@ -1,1 +1,1 @@
-var mnemonic = "warm desert between planet ocean improve knee latin engine close keen rocket";
+var mnemonic = "pattern media neglect suspect knee toss warrior sign lend name zero border";

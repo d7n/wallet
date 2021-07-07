@@ -1,1 +1,1 @@
-var mnemonic = "between kiwi quantum canal liar rough pupil gold galaxy guitar about impose";
+var mnemonic = "simple trumpet subway embark special heavy bridge excess olympic pond teach rate";

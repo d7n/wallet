@@ -1,1 +1,1 @@
-var mnemonic = "spy universe oblige dress lady visit stage width bird choice lemon syrup";
+var mnemonic = "walnut buyer journey afford corn body mercy screen burst ceiling nephew demise";

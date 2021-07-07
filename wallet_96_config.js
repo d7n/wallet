@@ -1,1 +1,1 @@
-var mnemonic = "elder super omit indoor usual neck tribe copy airport size buyer soon";
+var mnemonic = "problem cricket room aisle inject census off defense style arrive mansion attack";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft harvest slender hip vanish like zero truly nation festival umbrella salon";
+var mnemonic = "work predict morning path nature pistol bright cupboard rural payment shove unit";

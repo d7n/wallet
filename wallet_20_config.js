@@ -1,1 +1,1 @@
-var mnemonic = "lab hurry gadget garbage entire start problem exact view mutual body grant";
+var mnemonic = "connect kind swap abstract copy hole huge cruise unfair mix engage arctic";

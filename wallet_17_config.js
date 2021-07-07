@@ -1,1 +1,1 @@
-var mnemonic = "sketch mix receive school exile amateur become pig web file accuse oppose";
+var mnemonic = "between theme frown unit way check egg matrix alley erosion account prosper";

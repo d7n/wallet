@@ -1,1 +1,1 @@
-var mnemonic = "frown follow van keen anchor frozen laptop together cage plug steel proof";
+var mnemonic = "evolve worry coffee glove slide bargain frame august trumpet brave spray spoon";

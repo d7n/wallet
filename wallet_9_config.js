@@ -1,1 +1,1 @@
-var mnemonic = "virtual jaguar tourist coach win planet swarm service verb topple glove renew";
+var mnemonic = "gloom lemon gesture scale liquid manual dove liar moral proud tooth gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum panda drama result lion creek filter adapt hint memory urban high";
+var mnemonic = "any bean fold sound vault edit vintage post cupboard student vehicle kingdom";

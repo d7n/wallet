@@ -1,1 +1,1 @@
-var mnemonic = "evolve aisle umbrella true lemon position toddler repeat only gather glimpse hockey";
+var mnemonic = "oppose wall silly annual vapor insane error leopard change patrol slight gas";

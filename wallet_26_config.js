@@ -1,1 +1,1 @@
-var mnemonic = "sea stuff suffer deny sudden minute trap bomb firm pole popular truck";
+var mnemonic = "brick tilt minor prepare addict radar tower oxygen suffer endless elegant bar";

@@ -1,1 +1,1 @@
-var mnemonic = "armor chuckle final worth depart reject another vehicle gown adapt hand fringe";
+var mnemonic = "video champion debris athlete either sad security toddler radio sister lend sunset";

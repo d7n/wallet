@@ -1,1 +1,1 @@
-var mnemonic = "nothing fiscal artwork economy math drastic lift recipe whisper often whisper slush";
+var mnemonic = "swamp pear giggle grape light journey doll soon develop seminar boy saddle";

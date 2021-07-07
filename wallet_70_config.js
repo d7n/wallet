@@ -1,1 +1,1 @@
-var mnemonic = "route february person business can bottom recycle tip wagon resemble abstract remove";
+var mnemonic = "lounge dress picture feel punch gather bulk denial tank run check cable";

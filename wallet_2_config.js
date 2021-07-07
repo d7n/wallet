@@ -1,1 +1,1 @@
-var mnemonic = "mango satoshi giggle stool sand exercise broccoli sting blouse latin pyramid receive";
+var mnemonic = "charge like symbol hunt theory okay tail jar record iron tornado inform";

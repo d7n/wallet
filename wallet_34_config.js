@@ -1,1 +1,1 @@
-var mnemonic = "rely pave pony night salon cereal absorb nuclear radar absurd mad grid";
+var mnemonic = "surge panda erosion volcano slender camera echo include cement seven split burst";

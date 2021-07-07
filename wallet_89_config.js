@@ -1,1 +1,1 @@
-var mnemonic = "busy project intact whale injury view voice frown riot curve inspire breeze";
+var mnemonic = "option fiber game trap drama economy hint agent trigger conduct often awful";

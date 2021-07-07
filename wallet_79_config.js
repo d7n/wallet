@@ -1,1 +1,1 @@
-var mnemonic = "before great license pole tumble front leaf fatal chaos capable barely erode";
+var mnemonic = "gate good style priority flush assist quote dumb start lounge stable erode";

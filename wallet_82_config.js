@@ -1,1 +1,1 @@
-var mnemonic = "obvious moral feature clap wool garbage addict faith renew pear wedding build";
+var mnemonic = "pause purity embody jungle mandate drive thing bachelor claw ordinary code person";

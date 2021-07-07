@@ -1,1 +1,1 @@
-var mnemonic = "merit wonder infant ladder bar mountain device tiny muscle attend that sketch";
+var mnemonic = "cotton best pig venture panda eyebrow ozone security rifle blush trim lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "produce glance plug sunny crowd visit lamp private pattern cave drastic fabric";
+var mnemonic = "spring need owner polar midnight final minimum crowd venue matter pet orbit";

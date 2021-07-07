@@ -1,1 +1,1 @@
-var mnemonic = "crush you anxiety harbor winner cake visa humble edge arena agree mercy";
+var mnemonic = "setup sword erupt mercy mask cook ugly cliff health sweet gospel sign";
