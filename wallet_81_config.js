@@ -1,1 +1,1 @@
-var mnemonic = "suffer ladder kitchen dream behave sausage prepare hill crime place keen scheme";
+var mnemonic = "rice clarify tower try belt disorder ensure small rotate embrace camera globe";

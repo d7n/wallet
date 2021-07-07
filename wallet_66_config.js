@@ -1,1 +1,1 @@
-var mnemonic = "december sunny world you normal learn fetch news pyramid index echo mask";
+var mnemonic = "hood guide attack maximum joy unusual suggest call pudding picture hour also";

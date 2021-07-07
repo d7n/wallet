@@ -1,1 +1,1 @@
-var mnemonic = "silent sort baby utility coil art prosper split poem prison you soup";
+var mnemonic = "pumpkin shiver solution where cinnamon rebuild best decrease vital what science suffer";

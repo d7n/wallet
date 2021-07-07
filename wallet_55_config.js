@@ -1,1 +1,1 @@
-var mnemonic = "effort term pretty impact rent reveal ill cinnamon fever acoustic inch swim";
+var mnemonic = "van resemble hundred vapor dream butter tank next useless kind timber steak";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling alert quit canvas later toy bridge fury uncover plug rotate lunch";
+var mnemonic = "alpha initial sing october sand lesson basket anchor proof muscle spare reunion";

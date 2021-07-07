@@ -1,1 +1,1 @@
-var mnemonic = "shoe north model trophy slot cabbage find toddler dismiss reduce square sound";
+var mnemonic = "alcohol rebuild slim judge awkward crumble quick switch rebel chat connect gallery";

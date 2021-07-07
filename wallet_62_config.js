@@ -1,1 +1,1 @@
-var mnemonic = "clog relief cannon focus tower flip icon then alley news kangaroo treat";
+var mnemonic = "chat omit today flush access mistake state unable hope damage oxygen grab";

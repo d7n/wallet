@@ -1,1 +1,1 @@
-var mnemonic = "able love olympic woman pig sing surprise february nut quarter guilt course";
+var mnemonic = "outside sign leisure shoe crime evolve sugar hobby level prison sibling clog";

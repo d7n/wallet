@@ -1,1 +1,1 @@
-var mnemonic = "labor friend usual dance boat general city bacon basic goddess token beef";
+var mnemonic = "method dismiss gas note mother awkward salute kitchen spray wisdom afford million";

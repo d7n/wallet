@@ -1,1 +1,1 @@
-var mnemonic = "clean want skull street equip thunder fabric play keen remove combine planet";
+var mnemonic = "vintage oval champion network degree wrong twist reform deny outdoor acid code";

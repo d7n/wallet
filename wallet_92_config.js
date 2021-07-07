@@ -1,1 +1,1 @@
-var mnemonic = "setup crystal culture fault among print visual segment arch provide card mountain";
+var mnemonic = "hammer fashion settle total evolve review pact often enter group fall wolf";

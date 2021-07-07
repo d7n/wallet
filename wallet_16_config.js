@@ -1,1 +1,1 @@
-var mnemonic = "they amateur small flavor curve token basket artefact country clarify tuition patrol";
+var mnemonic = "comic thrive foam robust struggle ahead payment drill near document supply oval";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt health asset wreck steel speed same actress opinion danger ship unfold";
+var mnemonic = "labor acoustic february sand extend skill advance teach refuse scrap couple surround";

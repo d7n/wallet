@@ -1,1 +1,1 @@
-var mnemonic = "daring liar skate olympic media net already equal wet student odor love";
+var mnemonic = "setup dinner hint flat also load will prepare world laugh wagon danger";

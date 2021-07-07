@@ -1,1 +1,1 @@
-var mnemonic = "next clay normal still please bargain dose rural token wild leopard cover";
+var mnemonic = "monkey warm disorder win parade armed evoke tribe seminar panel leopard cigar";

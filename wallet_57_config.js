@@ -1,1 +1,1 @@
-var mnemonic = "defy egg chef march frequent volume clean talk angle country pass antenna";
+var mnemonic = "trade drift current because smooth equip barrel dust fit shed leg excess";

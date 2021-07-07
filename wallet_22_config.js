@@ -1,1 +1,1 @@
-var mnemonic = "balance small garlic conduct orbit success vanish horse blade ice push subway";
+var mnemonic = "jazz drill pencil amount forget fish sample apple strike surge typical below";

@@ -1,1 +1,1 @@
-var mnemonic = "sock easily distance attitude paddle light daughter satoshi weapon birth rifle legend";
+var mnemonic = "letter monster leg demise cable abuse service rail height kit display fix";

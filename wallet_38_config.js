@@ -1,1 +1,1 @@
-var mnemonic = "detect laundry bamboo salt combine ensure remember define settle defy mercy under";
+var mnemonic = "medal match dismiss receive cherry cook era fire machine gallery hire alcohol";

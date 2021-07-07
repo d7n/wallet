@@ -1,1 +1,1 @@
-var mnemonic = "maze skin flight slow stumble hip welcome purity salute gain lucky turkey";
+var mnemonic = "unknown attract ethics brain taxi crystal trash cereal long glow search husband";

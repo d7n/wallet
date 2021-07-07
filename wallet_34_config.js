@@ -1,1 +1,1 @@
-var mnemonic = "sand slender canal barrel blade satisfy enjoy swap carpet decorate choose firm";
+var mnemonic = "enough steel wrist sight material hotel coil lounge middle cinnamon ghost jewel";

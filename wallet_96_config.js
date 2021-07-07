@@ -1,1 +1,1 @@
-var mnemonic = "change dignity dove animal weekend salt shuffle uphold faculty chalk wrestle grass";
+var mnemonic = "stock battle orphan omit royal indoor wife gold nurse sure soft cloud";

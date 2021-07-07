@@ -1,1 +1,1 @@
-var mnemonic = "very bottom client hedgehog gun column describe fat hood eagle dune portion";
+var mnemonic = "mystery gauge spike improve pyramid typical divide cave baby fade surprise bronze";

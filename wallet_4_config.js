@@ -1,1 +1,1 @@
-var mnemonic = "agree tilt sweet success panic fatigue bullet sugar cube drive walnut crazy";
+var mnemonic = "vote junior blood clay debate opera oblige unusual zone obey vocal crush";

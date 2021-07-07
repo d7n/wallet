@@ -1,1 +1,1 @@
-var mnemonic = "advice below capital sauce dinosaur brain dignity mesh know border drink boost";
+var mnemonic = "bar rather tray human decide rhythm budget unusual unveil neither coconut bind";

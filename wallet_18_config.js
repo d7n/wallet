@@ -1,1 +1,1 @@
-var mnemonic = "distance sample neglect wrist river away piano blade during forget garage horse";
+var mnemonic = "trend climb office glimpse mango fabric typical alert mirror warm tent inspire";

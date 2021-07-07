@@ -1,1 +1,1 @@
-var mnemonic = "shed winter more bid kitchen absent boat door absurd disagree clog prefer";
+var mnemonic = "accuse settle solve behind busy chicken grace home spell glance mention gadget";

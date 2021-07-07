@@ -1,1 +1,1 @@
-var mnemonic = "mansion exhibit call silver cushion joy echo cruel calm avocado holiday future";
+var mnemonic = "rhythm often tribe predict upgrade antique gentle evidence love nasty pulse march";

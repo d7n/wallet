@@ -1,1 +1,1 @@
-var mnemonic = "elite gaze hold road frown steak trigger close tool aim east tortoise";
+var mnemonic = "save text hen pig item suit return essay squirrel clown jewel movie";

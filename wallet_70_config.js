@@ -1,1 +1,1 @@
-var mnemonic = "spoon tiny print beef typical horse utility lounge cup husband tattoo rebel";
+var mnemonic = "smooth top robust disease crowd wine pig cricket street utility battle cupboard";

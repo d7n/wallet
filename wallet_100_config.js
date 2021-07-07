@@ -1,1 +1,1 @@
-var mnemonic = "finish wrap ranch coffee actress south feed poet act siren bonus climb";
+var mnemonic = "curtain super table school blue noise relax security mercy vocal robot slim";

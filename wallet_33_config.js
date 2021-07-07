@@ -1,1 +1,1 @@
-var mnemonic = "dilemma puzzle phone never arctic across famous join maple possible unique sun";
+var mnemonic = "chunk empower rose gas perfect action drastic penalty summer west type diagram";

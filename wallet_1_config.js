@@ -1,1 +1,1 @@
-var mnemonic = "story chair alpha area penalty marine hole cricket radar echo blush velvet";
+var mnemonic = "high dish island portion arrest clog other cliff lift feel giggle pepper";

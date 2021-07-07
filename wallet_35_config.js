@@ -1,1 +1,1 @@
-var mnemonic = "bike you design truly foot wing lab tag few vocal rent faint";
+var mnemonic = "winner code swing soda hover palm inner city setup survey distance high";

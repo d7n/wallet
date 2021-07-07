@@ -1,1 +1,1 @@
-var mnemonic = "coconut such victory web gauge puppy private ski rib faith girl mimic";
+var mnemonic = "consider rib intact steak coin pencil tribe dove arrange plunge laptop wheat";

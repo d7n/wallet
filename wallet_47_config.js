@@ -1,1 +1,1 @@
-var mnemonic = "boss kid engine devote attack promote magnet garlic put lamp hungry universe";
+var mnemonic = "define tongue clump crop garbage multiply peace royal jazz isolate exile relax";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe wish labor obscure food say success attitude answer curve work discover";
+var mnemonic = "shrimp clog child lonely water unfold echo skin home aim route similar";

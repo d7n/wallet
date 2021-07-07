@@ -1,1 +1,1 @@
-var mnemonic = "shallow gap also canyon across state diagram winter afford adapt fruit menu";
+var mnemonic = "burst child demise toddler subway dolphin place lottery churn magic announce waste";

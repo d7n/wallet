@@ -1,1 +1,1 @@
-var mnemonic = "novel height false fiscal such ocean file pilot tourist alarm explain man";
+var mnemonic = "chicken mother garlic couch crazy inmate settle park vital stock rule follow";

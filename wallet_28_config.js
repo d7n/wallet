@@ -1,1 +1,1 @@
-var mnemonic = "expose utility rifle matter board rose umbrella forward connect spike enable bargain";
+var mnemonic = "fan destroy world kit clip route crater armor pulp trash special fee";

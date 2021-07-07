@@ -1,1 +1,1 @@
-var mnemonic = "ranch kit find tiny fiber engine blossom flower favorite claim solar funny";
+var mnemonic = "guide stage bar love unaware mother gate use shove unlock ignore fiscal";

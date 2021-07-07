@@ -1,1 +1,1 @@
-var mnemonic = "remove renew just wedding craft tower cake bright embody board also sample";
+var mnemonic = "cement narrow race life conduct supreme autumn tired donor lion grab decline";

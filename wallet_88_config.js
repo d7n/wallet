@@ -1,1 +1,1 @@
-var mnemonic = "cereal album turtle mosquito team domain fatal exercise allow front parent birth";
+var mnemonic = "reunion table celery tiger dynamic license model equal old drip bind phrase";

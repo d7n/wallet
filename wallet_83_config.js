@@ -1,1 +1,1 @@
-var mnemonic = "open happy minimum build ready fatigue tunnel sense solar swamp gadget grocery";
+var mnemonic = "bus distance clarify mix knife tomato world merry once gas wrist parrot";

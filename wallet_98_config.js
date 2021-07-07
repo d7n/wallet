@@ -1,1 +1,1 @@
-var mnemonic = "again episode odor hurt mountain safe habit artefact rain wine crumble large";
+var mnemonic = "winner raccoon drum original day cattle obscure monkey soap embark spike mouse";

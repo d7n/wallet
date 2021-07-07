@@ -1,1 +1,1 @@
-var mnemonic = "mask panel toast net flavor expire demise lecture awkward still cinnamon make";
+var mnemonic = "mom creek local roast noble oxygen use foster search goddess season party";

@@ -1,1 +1,1 @@
-var mnemonic = "alone frame book pulse sign solar high urban almost ensure clarify tackle";
+var mnemonic = "clap insane grief rain swing liar globe twelve shine learn tiger item";

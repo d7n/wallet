@@ -1,1 +1,1 @@
-var mnemonic = "mystery arena tip prosper junk wreck more spin glance wrong exchange immune";
+var mnemonic = "venue nominee puzzle valley deliver number found aim forget lock say leader";

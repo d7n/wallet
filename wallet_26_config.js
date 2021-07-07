@@ -1,1 +1,1 @@
-var mnemonic = "doctor program crop find orange lab scrap cute forest image purity miracle";
+var mnemonic = "setup slot coin immense grunt journey acoustic lens gallery during edge absorb";

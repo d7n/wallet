@@ -1,1 +1,1 @@
-var mnemonic = "jungle talk sugar divorce rule uphold vessel doctor sausage practice trumpet trade";
+var mnemonic = "loop benefit all join paddle purchase hammer seminar infant market tortoise season";

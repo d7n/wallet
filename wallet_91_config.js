@@ -1,1 +1,1 @@
-var mnemonic = "gold define lift wasp turn blade when bridge toilet boil saddle tourist";
+var mnemonic = "capable twenty mule chimney hybrid galaxy use snake clutch hair fire theme";

@@ -1,1 +1,1 @@
-var mnemonic = "setup double pumpkin possible cotton pledge barely giraffe below cheese sweet eager";
+var mnemonic = "focus split bus only elder solution select mouse swamp legal fruit pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "finish duty circle fox better giraffe sock picture invest tag umbrella foam";
+var mnemonic = "pipe thrive average narrow grunt prefer narrow drop assist push sick hammer";

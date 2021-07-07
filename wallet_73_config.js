@@ -1,1 +1,1 @@
-var mnemonic = "define task tuna turkey diesel throw junk ketchup engine blast major erase";
+var mnemonic = "sunset canoe rude sheriff share need spider staff shine scale home inner";

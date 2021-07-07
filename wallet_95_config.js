@@ -1,1 +1,1 @@
-var mnemonic = "blame cave luggage direct pause erosion congress two intact around turtle number";
+var mnemonic = "champion update question whisper desert seed suit loyal teach shed shift follow";

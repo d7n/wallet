@@ -1,1 +1,1 @@
-var mnemonic = "quarter balcony faculty escape code unfair useful hollow rely quantum also frozen";
+var mnemonic = "fault trash phone nerve topple sudden december stable sadness stereo life virus";

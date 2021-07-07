@@ -1,1 +1,1 @@
-var mnemonic = "wool steak scare spin orbit casino april page bonus view fire pilot";
+var mnemonic = "public system try sting speak other cause produce latin dawn situate drip";

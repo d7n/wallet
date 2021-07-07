@@ -1,1 +1,1 @@
-var mnemonic = "pig wheat angry ahead elbow apart ordinary million erase beyond long emotion";
+var mnemonic = "tiger enroll mixed burst civil lawsuit valley vote outer month record napkin";

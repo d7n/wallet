@@ -1,1 +1,1 @@
-var mnemonic = "leader parent burst finger ethics learn text health outer tower brown ribbon";
+var mnemonic = "quarter mention satisfy mutual unfold tooth pigeon move write toddler apology logic";

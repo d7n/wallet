@@ -1,1 +1,1 @@
-var mnemonic = "improve power error hospital home term luxury exhibit observe plunge ahead frozen";
+var mnemonic = "demand extend cool reward move perfect fantasy quality spirit impose cabbage lumber";

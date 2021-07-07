@@ -1,1 +1,1 @@
-var mnemonic = "peace park consider neither discover panther cool mass harsh puppy screen miracle";
+var mnemonic = "milk abuse forward expose column behave lab hurdle bench notice kitten swear";

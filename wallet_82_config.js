@@ -1,1 +1,1 @@
-var mnemonic = "select project educate mouse spatial call pink clarify exhibit celery soap bounce";
+var mnemonic = "jar deer fly entire pool drive trash custom onion legal tell famous";

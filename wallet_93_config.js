@@ -1,1 +1,1 @@
-var mnemonic = "planet phrase chuckle because chef waste fault buyer sheriff congress drink fault";
+var mnemonic = "busy cinnamon basket fossil obey syrup problem valley flower slender concert avocado";

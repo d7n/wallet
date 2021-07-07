@@ -1,1 +1,1 @@
-var mnemonic = "leaf input inherit adjust okay blush drop where trash adjust cave word";
+var mnemonic = "promote dose summer pig milk renew hip supreme combine fantasy fresh salad";

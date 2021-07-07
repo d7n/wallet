@@ -1,1 +1,1 @@
-var mnemonic = "put acoustic recall basic claim between liquid people piece mobile tower sudden";
+var mnemonic = "truck abstract coyote coin proof mouse afraid cup plug bright edit sword";

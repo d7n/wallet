@@ -1,1 +1,1 @@
-var mnemonic = "polar client soup pond all talk zoo glow ostrich dress future vintage";
+var mnemonic = "illegal aim all grocery candy whip long will lesson wood lottery live";

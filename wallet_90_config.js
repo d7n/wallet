@@ -1,1 +1,1 @@
-var mnemonic = "sausage evil bring furnace crash erupt gauge permit skull dinosaur alpha client";
+var mnemonic = "nation start inject fury night nest lesson draw link sentence patrol echo";

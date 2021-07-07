@@ -1,1 +1,1 @@
-var mnemonic = "rice cream oil crisp acquire night unknown sense trouble friend wish total";
+var mnemonic = "response pair wink scatter try setup silk hunt depart smooth month success";

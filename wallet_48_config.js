@@ -1,1 +1,1 @@
-var mnemonic = "fault typical hire catch tone evil then man rhythm ten erosion when";
+var mnemonic = "gas group penalty else flush lonely dad case device supply ceiling effort";

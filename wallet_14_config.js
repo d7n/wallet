@@ -1,1 +1,1 @@
-var mnemonic = "symbol rapid empower ostrich about man fatal act wedding time mask antenna";
+var mnemonic = "dream mixed dumb rhythm outdoor regret apart song grid punch pool gold";

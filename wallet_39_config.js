@@ -1,1 +1,1 @@
-var mnemonic = "erase dream drive shiver bind middle regret route enroll boat come mixture";
+var mnemonic = "path cliff shine laundry rabbit frost harsh hand cherry daughter chest notice";

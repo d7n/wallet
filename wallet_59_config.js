@@ -1,1 +1,1 @@
-var mnemonic = "joy file poem gentle prosper choice balance drift gather sound fiscal spirit";
+var mnemonic = "modify limb album among stamp rotate outer body task city sense arrive";

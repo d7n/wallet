@@ -1,1 +1,1 @@
-var mnemonic = "enforce eternal rich luggage toss fuel shuffle nuclear script under ten upon";
+var mnemonic = "other spring blade core enemy unit prize borrow regret pulp member embody";

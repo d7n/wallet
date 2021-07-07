@@ -1,1 +1,1 @@
-var mnemonic = "copy tiger report firm angry inch field sad fade trophy amateur code";
+var mnemonic = "income bench pass buzz civil swarm envelope language target will tuition fork";

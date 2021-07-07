@@ -1,1 +1,1 @@
-var mnemonic = "story sunny relief oblige fabric craft trim pioneer labor globe phrase rug";
+var mnemonic = "private stomach scheme excite patient sample portion weekend dad vintage final drill";

@@ -1,1 +1,1 @@
-var mnemonic = "retire fish before lecture day host scatter also shallow toddler atom summer";
+var mnemonic = "skin bright jacket clinic hunt tonight second trip world girl process myth";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak year genuine glide slim swarm minute kiwi wise upgrade method detail";
+var mnemonic = "victory release melt blame family civil egg surprise result excuse away crawl";

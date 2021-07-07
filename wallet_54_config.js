@@ -1,1 +1,1 @@
-var mnemonic = "silent access dad scrap palm monster monkey lift trend post couple focus";
+var mnemonic = "expire glance scare powder seat anger vast ladder labor acquire chair amused";

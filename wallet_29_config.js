@@ -1,1 +1,1 @@
-var mnemonic = "curve fit dynamic sheriff useful tornado solve snack broken august rocket cheap";
+var mnemonic = "discover job slice extend whip noise case pear gift pony fever people";

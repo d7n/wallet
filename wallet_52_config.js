@@ -1,1 +1,1 @@
-var mnemonic = "soul climb various corn must render age toddler calm decade close error";
+var mnemonic = "rule version render blind danger beauty virus decide dance party enrich scare";

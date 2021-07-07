@@ -1,1 +1,1 @@
-var mnemonic = "fiction shrimp shine trip slim primary fault pattern prepare wealth help sick";
+var mnemonic = "crash item achieve inch giggle vapor thing invest transfer escape rhythm sustain";

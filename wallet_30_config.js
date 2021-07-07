@@ -1,1 +1,1 @@
-var mnemonic = "hamster alley leader reject win dog music blur spray dust blur gallery";
+var mnemonic = "mesh seminar evidence armed rebuild scheme please kick vocal gravity risk upper";

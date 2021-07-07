@@ -1,1 +1,1 @@
-var mnemonic = "craft return account limb water one insect elevator island shoe hammer family";
+var mnemonic = "laundry juice rubber piece ride section client letter prefer notice dust dragon";

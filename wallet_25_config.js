@@ -1,1 +1,1 @@
-var mnemonic = "main treat science blush figure stairs sea enable member cancel reduce humble";
+var mnemonic = "magnet nut october dinner girl pattern child cheese deputy possible click assault";

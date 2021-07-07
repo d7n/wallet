@@ -1,1 +1,1 @@
-var mnemonic = "frog muffin chicken genre celery fat bullet borrow type hole miss cube";
+var mnemonic = "tumble mix alpha earn find wrestle panda angle virtual despair game space";

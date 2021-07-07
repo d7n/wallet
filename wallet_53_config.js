@@ -1,1 +1,1 @@
-var mnemonic = "leave mutual raise stock tourist achieve scorpion creek fun minute chaos luxury";
+var mnemonic = "angle roast roast address lounge custom immune advice add march cluster direct";

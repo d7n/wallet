@@ -1,1 +1,1 @@
-var mnemonic = "jealous adult height payment fee develop maze buddy elite soft civil lawsuit";
+var mnemonic = "pizza stamp enroll inform start train envelope soda dose canvas bike mandate";

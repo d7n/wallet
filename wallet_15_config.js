@@ -1,1 +1,1 @@
-var mnemonic = "abstract noodle festival indoor world amazing tail remember exotic manual salon grit";
+var mnemonic = "drink sport often planet stone orphan refuse able tuition myth grit success";

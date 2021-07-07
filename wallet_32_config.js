@@ -1,1 +1,1 @@
-var mnemonic = "assault midnight hole apart weapon curtain across entry crack gym fitness inherit";
+var mnemonic = "ghost swim pear nurse funny spatial normal brick job pave mail release";

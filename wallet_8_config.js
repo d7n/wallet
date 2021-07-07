@@ -1,1 +1,1 @@
-var mnemonic = "digital palace skill trigger noodle boat tape man thing clinic response undo";
+var mnemonic = "skin wealth expect interest spoon rug true kitten super rival forum orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum today cute transfer leave picnic aim record resist roof predict behind";
+var mnemonic = "inform offer crawl verify where much clutch dumb orphan ivory pyramid couple";

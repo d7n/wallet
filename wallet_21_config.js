@@ -1,1 +1,1 @@
-var mnemonic = "dress govern hollow believe club omit property dinner exotic jealous silent glide";
+var mnemonic = "chapter favorite doll injury art section circle sight hundred debris elevator across";
