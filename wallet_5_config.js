@@ -1,1 +1,1 @@
-var mnemonic = "scissors tonight beyond quantum warrior drop cereal certain invite proof original panther";
+var mnemonic = "ceiling public east rose sunset crime custom enroll clean parade unit patrol";

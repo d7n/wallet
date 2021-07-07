@@ -1,1 +1,1 @@
-var mnemonic = "east swamp flat cousin math violin execute boring ramp grape license mask";
+var mnemonic = "picture opinion token predict punch include habit jeans outer mix kiwi table";

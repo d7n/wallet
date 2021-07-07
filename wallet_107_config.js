@@ -1,1 +1,1 @@
-var mnemonic = "refuse fossil door prosper nasty number pride frame fiber few denial expect";
+var mnemonic = "example reason ticket praise wisdom symbol pretty potato arrange world empty crazy";

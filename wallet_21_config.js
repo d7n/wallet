@@ -1,1 +1,1 @@
-var mnemonic = "shove umbrella toilet zebra recipe pencil sand shoe suspect wife mistake bargain";
+var mnemonic = "laundry napkin ladder core shoot lonely alarm bike laundry frost twice old";

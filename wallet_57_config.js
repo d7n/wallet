@@ -1,1 +1,1 @@
-var mnemonic = "raise improve engine lizard wrestle night hard practice aerobic torch arctic film";
+var mnemonic = "romance suit sell gloom submit cause race advance settle sock kite minute";

@@ -1,1 +1,1 @@
-var mnemonic = "century design olympic apart innocent term adult canvas later tank plug stand";
+var mnemonic = "club fire merge flat program gap champion bunker tree reward rack kid";

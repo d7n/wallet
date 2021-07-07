@@ -1,1 +1,1 @@
-var mnemonic = "bless wealth habit mandate action marble cupboard promote toward drift dutch fold";
+var mnemonic = "anchor say fiction banana spot side movie method believe grocery jazz pilot";

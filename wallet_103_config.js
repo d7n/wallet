@@ -1,1 +1,1 @@
-var mnemonic = "equip acoustic sign ill domain margin drift admit love motor ripple village";
+var mnemonic = "street original rich change certain apple age supreme hawk mobile view forest";

@@ -1,1 +1,1 @@
-var mnemonic = "canal minor sibling engine spike grab bread rubber myself ripple glare banana";
+var mnemonic = "bubble open radar flash crisp truth quantum chief where faint old coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit canoe quiz faith theory firm audit solid salt basic risk harbor";
+var mnemonic = "model glance matter more can buffalo echo anchor glove coach fee quote";

@@ -1,1 +1,1 @@
-var mnemonic = "siege improve brief reduce universe practice organ truth crash one already choice";
+var mnemonic = "decorate carbon lonely sail prize cherry session group flame slim abstract myself";

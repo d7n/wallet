@@ -1,1 +1,1 @@
-var mnemonic = "glory stock pulp limb saddle ocean found local belt evidence grow omit";
+var mnemonic = "grid short crack unfold citizen call hotel spread liar garlic absent bird";

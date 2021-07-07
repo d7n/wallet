@@ -1,1 +1,1 @@
-var mnemonic = "mosquito emerge carpet valve tail axis table start business also puzzle champion";
+var mnemonic = "manage lake sorry unit fatigue wing buddy hybrid coach monitor scene tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "grid best leopard obey autumn walnut baby stick start level wall about";
+var mnemonic = "collect gauge miss achieve market sport throw together crazy candy bubble next";

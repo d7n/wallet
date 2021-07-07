@@ -1,1 +1,1 @@
-var mnemonic = "cabin orchard output buffalo energy reveal fancy annual scorpion deputy february resource";
+var mnemonic = "gadget rice universe joy size film copy basic shed mushroom noise must";

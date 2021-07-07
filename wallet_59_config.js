@@ -1,1 +1,1 @@
-var mnemonic = "much void spy below extra bottom hammer emerge region cook series people";
+var mnemonic = "quit pupil noble recall answer prison begin blur tell change round garbage";

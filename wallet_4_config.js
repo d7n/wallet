@@ -1,1 +1,1 @@
-var mnemonic = "rate fluid corn enhance brass truth mention happy unaware solar please spin";
+var mnemonic = "next share kite myth peasant ignore interest tip slender also august pattern";

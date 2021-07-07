@@ -1,1 +1,1 @@
-var mnemonic = "during catalog foil first deny sphere volume recipe retire aspect hello empty";
+var mnemonic = "hazard daring miracle magnet have space narrow base panther surface nut excess";

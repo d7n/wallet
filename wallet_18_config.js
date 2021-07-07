@@ -1,1 +1,1 @@
-var mnemonic = "silent business soap execute roast waste audit aware cable verb leader explain";
+var mnemonic = "chimney rocket brush sauce burger announce tape october truck lens notice skill";

@@ -1,1 +1,1 @@
-var mnemonic = "flame shoulder diary equip vendor camera black vault empty smart patient bulb";
+var mnemonic = "sweet fringe very slam ticket cycle fuel rally collect captain decorate stick";

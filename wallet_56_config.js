@@ -1,1 +1,1 @@
-var mnemonic = "mention chest culture undo surface drill gather cricket endless angry horror grant";
+var mnemonic = "profit jazz ketchup ball universe pencil enjoy donkey frown lift scissors truck";

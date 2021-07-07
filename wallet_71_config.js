@@ -1,1 +1,1 @@
-var mnemonic = "actress define reopen pave else term imitate actual movie entry struggle picture";
+var mnemonic = "sponsor actual act leave involve dragon fine order alpha spoil atom great";

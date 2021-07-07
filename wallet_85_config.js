@@ -1,1 +1,1 @@
-var mnemonic = "treat tool animal oval autumn pumpkin pond confirm faculty west marine ranch";
+var mnemonic = "lift pumpkin excess sock adjust potato tree runway myth very nominee lend";

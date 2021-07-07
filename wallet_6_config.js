@@ -1,1 +1,1 @@
-var mnemonic = "theory still unable home ramp teach kit mushroom country disease grain profit";
+var mnemonic = "knife usual decide flock leopard settle coast identify hat deputy sustain true";

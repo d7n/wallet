@@ -1,1 +1,1 @@
-var mnemonic = "grunt parade drift usage shallow stool recipe street vivid marine ghost never";
+var mnemonic = "ten wrestle infant still join spread boat eyebrow pitch blade can during";

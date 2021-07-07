@@ -1,1 +1,1 @@
-var mnemonic = "ivory code humble salon lemon melt index foam expose beef kite stem";
+var mnemonic = "hire base cheese planet ranch short plate crush twenty course letter gloom";

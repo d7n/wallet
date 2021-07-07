@@ -1,1 +1,1 @@
-var mnemonic = "family kick regret lady layer amount betray scale velvet return average rubber";
+var mnemonic = "resource amused maze unusual put regret cliff dice sense talk dice text";

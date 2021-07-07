@@ -1,1 +1,1 @@
-var mnemonic = "antenna fitness clap trick repair photo slogan obey athlete tissue brick camp";
+var mnemonic = "lounge fee alpha corn cat december energy nature aerobic play kind dirt";

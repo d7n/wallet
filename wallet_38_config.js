@@ -1,1 +1,1 @@
-var mnemonic = "phone outdoor boost educate inherit gift filter select width edit hidden enable";
+var mnemonic = "damp unknown milk syrup green volcano mom between amused media where hire";

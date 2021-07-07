@@ -1,1 +1,1 @@
-var mnemonic = "custom cake document announce thumb lecture valve entire claim magnet cost kiwi";
+var mnemonic = "pattern park speed tribe duck aunt proof upon sunny favorite like arctic";

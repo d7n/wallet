@@ -1,1 +1,1 @@
-var mnemonic = "live zone unlock idle combine museum gallery smile glow setup exile attend";
+var mnemonic = "step cabin cloth outside dwarf swing faint shell timber supply cloud vital";

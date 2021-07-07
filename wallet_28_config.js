@@ -1,1 +1,1 @@
-var mnemonic = "genuine snake horse human border scrub guard economy future super refuse box";
+var mnemonic = "myth dilemma move intact direct truly fine grain fringe abstract panel knock";

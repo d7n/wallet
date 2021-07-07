@@ -1,1 +1,1 @@
-var mnemonic = "shield celery panther ramp invite soldier clock salt rhythm crater excess shop";
+var mnemonic = "involve sport lesson critic father record dance edge tank report bunker link";

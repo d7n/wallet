@@ -1,1 +1,1 @@
-var mnemonic = "chat jar kind struggle vanish pupil labor genre diary upgrade crash danger";
+var mnemonic = "prevent tomorrow scorpion open robot icon web reward other pair sunny penalty";

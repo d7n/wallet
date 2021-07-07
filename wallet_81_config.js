@@ -1,1 +1,1 @@
-var mnemonic = "absent convince inject bargain disorder unfair audit edge text wave hip stumble";
+var mnemonic = "universe expand brown gloom foam biology soon forest woman explain lady network";

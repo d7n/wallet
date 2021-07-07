@@ -1,1 +1,1 @@
-var mnemonic = "orbit romance ghost call giggle forum either kite dice goose energy sea";
+var mnemonic = "harvest agree person enroll little impulse rich culture erode soft lazy banana";

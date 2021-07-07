@@ -1,1 +1,1 @@
-var mnemonic = "cigar spoon bullet orbit shoe square rose method sunset enemy empower bracket";
+var mnemonic = "pride orange beauty allow arm need still special rich cargo brick cattle";

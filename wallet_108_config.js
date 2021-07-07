@@ -1,1 +1,1 @@
-var mnemonic = "borrow weird quarter frequent zone today history pigeon rule column that fine";
+var mnemonic = "coyote purchase mother month shuffle cheese sort lizard aisle point word symbol";

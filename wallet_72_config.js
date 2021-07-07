@@ -1,1 +1,1 @@
-var mnemonic = "bounce grid mass sorry comic page tongue like eye observe social merit";
+var mnemonic = "insect topic sleep cloth panic cotton grit cannon tag front feel regular";

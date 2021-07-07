@@ -1,1 +1,1 @@
-var mnemonic = "hint biology pitch air box skirt boring pizza code rally wealth nominee";
+var mnemonic = "easily treat nothing desk knee knife cable sausage jungle obscure produce moral";

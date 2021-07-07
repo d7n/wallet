@@ -1,1 +1,1 @@
-var mnemonic = "biology still cereal liquid jealous scan cricket local airport prevent public lawn";
+var mnemonic = "exit method tragic movie move sunny cheese tissue safe sniff fade true";

@@ -1,1 +1,1 @@
-var mnemonic = "pave corn final certain tuna leave family dumb victory photo leaf rare";
+var mnemonic = "gravity mixture maid visit force garden life online field wool lazy general";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf winner leave soft shiver imitate rule chuckle develop crime private armor";
+var mnemonic = "sustain captain quantum leg super deny perfect symbol chalk chapter mutual avoid";

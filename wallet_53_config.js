@@ -1,1 +1,1 @@
-var mnemonic = "fall vast bid fantasy simple festival vapor glove blind lobster valid razor";
+var mnemonic = "side crystal core record spawn axis culture image stay scrub water tail";

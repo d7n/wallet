@@ -1,1 +1,1 @@
-var mnemonic = "talk cake patient ready art rapid legend frequent provide random doll craft";
+var mnemonic = "require carry price rug resist staff bright convince differ choice tower orphan";

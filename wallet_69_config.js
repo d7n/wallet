@@ -1,1 +1,1 @@
-var mnemonic = "rebuild hidden chest fruit artwork urge sick dance network donate unable hair";
+var mnemonic = "asset radar host top enforce brief treat rain grief purse climb distance";

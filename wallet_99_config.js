@@ -1,1 +1,1 @@
-var mnemonic = "course defense symptom cruise sock guilt actual float effort dance tonight spatial";
+var mnemonic = "phone parent kick planet fat confirm gesture luxury idea yellow cart kangaroo";

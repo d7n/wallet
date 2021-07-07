@@ -1,1 +1,1 @@
-var mnemonic = "love genius enter what source eager glory mouse boring shield sentence fiction";
+var mnemonic = "lunar group about next month road few guilt about loyal wisdom meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "fork torch ability museum ribbon image credit video like angry earth salute";
+var mnemonic = "example echo sister awful school man prosper roof push core ring barely";

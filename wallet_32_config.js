@@ -1,1 +1,1 @@
-var mnemonic = "session brick rose goat bachelor fade safe bring cruel okay emerge later";
+var mnemonic = "moon pottery empower pass spoil ranch tray hard rabbit decline discover cotton";

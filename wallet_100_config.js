@@ -1,1 +1,1 @@
-var mnemonic = "youth across final rhythm before boil object state proud sail situate nuclear";
+var mnemonic = "rail wheel trim furnace express near approve rice curious hidden comfort million";

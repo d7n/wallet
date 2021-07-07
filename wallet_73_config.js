@@ -1,1 +1,1 @@
-var mnemonic = "goddess left armor strike ahead away pretty daring net charge merry rookie";
+var mnemonic = "spoon salute desert exotic side wonder frog theme matrix wait dragon nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "april follow venue patient miracle vocal liberty assume raw occur stock junk";
+var mnemonic = "sugar elite decade bind device asset into blouse tonight step defy equal";

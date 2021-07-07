@@ -1,1 +1,1 @@
-var mnemonic = "alcohol picnic define pistol auction asset story start detect canal hair skate";
+var mnemonic = "stomach lava code abstract excite above demand side hollow need violin damage";

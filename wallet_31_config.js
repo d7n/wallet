@@ -1,1 +1,1 @@
-var mnemonic = "grocery audit caught fuel follow transfer convince charge fox cigar regret sure";
+var mnemonic = "minute fossil angry shine spirit what twenty use armor vital across fatigue";

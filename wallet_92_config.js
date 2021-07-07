@@ -1,1 +1,1 @@
-var mnemonic = "amazing oil wise hip sport timber penalty puzzle river cereal transfer trouble";
+var mnemonic = "ecology excess inflict middle culture ocean enact common forum stuff tourist labor";

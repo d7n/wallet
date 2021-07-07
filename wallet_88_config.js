@@ -1,1 +1,1 @@
-var mnemonic = "benefit forest buzz strike victory select blouse metal simple bitter guilt manage";
+var mnemonic = "make ten slide arch arena motion garment dress still organ season step";

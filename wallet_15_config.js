@@ -1,1 +1,1 @@
-var mnemonic = "clerk example better album canvas tooth proof alpha iron badge only early";
+var mnemonic = "token wing enjoy ridge slam inspire eight annual tomorrow common ceiling share";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap lesson protect hurt merry sausage bread chase become spoil faith junior";
+var mnemonic = "empty decade trouble bamboo disease milk kiwi wish copper lion can hard";

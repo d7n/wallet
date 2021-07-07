@@ -1,1 +1,1 @@
-var mnemonic = "save diagram absent inner ignore congress story net sweet alone rookie real";
+var mnemonic = "blouse scheme reason egg uncle remind drink myth similar rose abandon immense";

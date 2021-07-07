@@ -1,1 +1,1 @@
-var mnemonic = "exhibit direct ahead waste keep fitness east fence spell menu measure arctic";
+var mnemonic = "venue sword exile knock warrior hood gallery spider cricket drill foot teach";

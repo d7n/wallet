@@ -1,1 +1,1 @@
-var mnemonic = "paper old strong jaguar coffee prison public crouch join tide tackle zone";
+var mnemonic = "faith thumb fiscal tornado worry business ride bridge boss abandon distance minimum";

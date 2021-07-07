@@ -1,1 +1,1 @@
-var mnemonic = "unable heart lounge evil bonus pulse tag develop ring have file minute";
+var mnemonic = "dolphin blind envelope local vocal work swift apple carpet artefact ahead velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain meadow course walnut skull fresh tornado expire narrow victory depth brain";
+var mnemonic = "dove acquire display urban sleep enhance neutral kangaroo festival album airport ship";

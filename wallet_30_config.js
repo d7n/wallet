@@ -1,1 +1,1 @@
-var mnemonic = "volume host cream version rebuild aspect lonely online escape outside tunnel apart";
+var mnemonic = "cart attitude cycle delay guilt artefact woman dance relax accident love initial";

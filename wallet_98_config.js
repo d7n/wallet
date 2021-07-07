@@ -1,1 +1,1 @@
-var mnemonic = "boy since protect grab spot assault snap journey puppy document attract blur";
+var mnemonic = "mixture suit business topic into despair spoil medal scissors insect own business";

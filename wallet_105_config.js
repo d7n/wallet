@@ -1,1 +1,1 @@
-var mnemonic = "habit estate any wedding travel cube danger iron faculty behave talent suggest";
+var mnemonic = "year tomorrow worth file neither people lecture slush inflict lottery young famous";

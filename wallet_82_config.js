@@ -1,1 +1,1 @@
-var mnemonic = "innocent seven element visit elbow ginger medal couch food arrive fire benefit";
+var mnemonic = "immense wash silver sorry obey sleep planet maid proud kangaroo brief fence";

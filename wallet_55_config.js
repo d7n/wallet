@@ -1,1 +1,1 @@
-var mnemonic = "drastic palace patrol high festival vapor oven dice orchard gate dance adult";
+var mnemonic = "glass gun script undo person debris lawsuit all rely certain comfort leader";

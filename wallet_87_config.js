@@ -1,1 +1,1 @@
-var mnemonic = "fun alone squirrel weasel whisper barrel silly smooth flag west initial zoo";
+var mnemonic = "mule ritual genius edit raw will about finish never owner spoon shove";

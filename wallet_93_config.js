@@ -1,1 +1,1 @@
-var mnemonic = "stuff brown virtual ritual achieve napkin tourist rug glare begin make law";
+var mnemonic = "island great start vacant evil double wide excess siege poet claim gain";

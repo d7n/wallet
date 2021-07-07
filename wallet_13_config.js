@@ -1,1 +1,1 @@
-var mnemonic = "either wet water correct depart safe design segment include april merit unfold";
+var mnemonic = "alcohol jazz near beach claim recycle first congress power twin settle moon";

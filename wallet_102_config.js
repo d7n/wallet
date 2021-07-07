@@ -1,1 +1,1 @@
-var mnemonic = "kiss carpet oppose dirt fog sword rescue void badge anchor quantum poverty";
+var mnemonic = "fit motion tornado marble labor man kiss address issue tortoise catalog ride";

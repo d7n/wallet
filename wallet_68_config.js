@@ -1,1 +1,1 @@
-var mnemonic = "wonder powder curious gasp scene credit sting wolf source over comfort section";
+var mnemonic = "adjust minimum tooth blast luggage body goat swing muscle over fan impulse";

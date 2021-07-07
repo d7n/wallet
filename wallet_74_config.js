@@ -1,1 +1,1 @@
-var mnemonic = "muscle now culture salt airport crystal enter net aisle draw fitness inherit";
+var mnemonic = "task december sadness rice human sad large egg shy phrase bright track";

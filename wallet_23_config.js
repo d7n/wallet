@@ -1,1 +1,1 @@
-var mnemonic = "language climb hungry dynamic tired girl lucky mention build obey sauce ball";
+var mnemonic = "smoke void decade walk concert ice video skill idea south appear brief";

@@ -1,1 +1,1 @@
-var mnemonic = "noble basket man sort system soul stable liar capital slow return bean";
+var mnemonic = "denial fame trend that amateur swallow swift sweet oak wash sign mushroom";

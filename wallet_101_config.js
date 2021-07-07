@@ -1,1 +1,1 @@
-var mnemonic = "tenant flush regret furnace add focus latin balance vehicle curve ship squirrel";
+var mnemonic = "between quiz left glad output vast limit bargain cool enjoy pull illegal";

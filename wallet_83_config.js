@@ -1,1 +1,1 @@
-var mnemonic = "double method repeat ugly speed island unit fabric pioneer open regret empower";
+var mnemonic = "crystal one gravity assume bird demise stool scene purse equal bind kid";

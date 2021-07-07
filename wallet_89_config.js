@@ -1,1 +1,1 @@
-var mnemonic = "slender dose movie major trumpet inhale nature share wagon enjoy alone select";
+var mnemonic = "swarm ketchup action donor joke phrase century human desk party core zebra";

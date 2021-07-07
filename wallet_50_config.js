@@ -1,1 +1,1 @@
-var mnemonic = "grunt math skirt kid clog wheel across broken gain tool boil grocery";
+var mnemonic = "all enough family rich gospel toy nest onion skin open main raw";

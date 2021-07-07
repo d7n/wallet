@@ -1,1 +1,1 @@
-var mnemonic = "thank admit lake spoon zebra wife garage glance spell clock vital ugly";
+var mnemonic = "diamond custom quiz piece purpose wheat actual method sniff noise spatial average";

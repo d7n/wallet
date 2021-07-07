@@ -1,1 +1,1 @@
-var mnemonic = "crowd stomach crouch aim adapt suffer sorry write category recipe dinosaur attack";
+var mnemonic = "jealous horn inject engage rail ozone humble garage plug they boost appear";

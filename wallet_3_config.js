@@ -1,1 +1,1 @@
-var mnemonic = "empty laugh gold lend around shoot balance hard grace hockey alarm early";
+var mnemonic = "draw alien skin aspect detect flash alley bean filter card mixed fossil";

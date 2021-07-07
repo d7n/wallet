@@ -1,1 +1,1 @@
-var mnemonic = "sight fork right will chimney wing try address steak wise habit direct";
+var mnemonic = "hard gravity token whisper rain exhaust stove fitness sniff horse input video";

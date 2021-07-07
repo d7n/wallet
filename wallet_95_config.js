@@ -1,1 +1,1 @@
-var mnemonic = "limit shadow unknown zoo coffee marine amount summer era wedding video argue";
+var mnemonic = "pulse inch tattoo inch know design sail trial silly modify wheat shallow";

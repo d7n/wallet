@@ -1,1 +1,1 @@
-var mnemonic = "medal report close squeeze grain barrel oval glass alien object ordinary humble";
+var mnemonic = "language fancy supreme aware only raw oval little chaos wide option other";

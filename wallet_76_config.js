@@ -1,1 +1,1 @@
-var mnemonic = "win gauge illegal seat state follow auction baby ecology horror acquire mom";
+var mnemonic = "document protect snow object bronze stomach banana area action immense wild autumn";

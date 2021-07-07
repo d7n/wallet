@@ -1,1 +1,1 @@
-var mnemonic = "thank vintage worth expand quiz cake sphere emerge safe key blame six";
+var mnemonic = "pretty minute robust gossip task hair title during object general parent faint";

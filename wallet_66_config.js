@@ -1,1 +1,1 @@
-var mnemonic = "various flavor plate chase spirit ozone kingdom energy entire primary rely camera";
+var mnemonic = "grocery disease banana grid eight expire drop analyst fix visa sustain style";

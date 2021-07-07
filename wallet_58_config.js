@@ -1,1 +1,1 @@
-var mnemonic = "inhale village season domain gaze square duck divide actor island gasp tomorrow";
+var mnemonic = "auto achieve manage despair series author congress during miss satoshi play wide";

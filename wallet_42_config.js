@@ -1,1 +1,1 @@
-var mnemonic = "wait actress poem apple comfort left news engage blur nature flight axis";
+var mnemonic = "ensure near merge peanut render blush outside tired arrest aerobic area puppy";
