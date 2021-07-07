@@ -1,1 +1,1 @@
-var mnemonic = "promote scatter neither wisdom amused sample useless cake beyond friend veteran soldier";
+var mnemonic = "enlist congress erupt estate cost drama furnace review velvet allow screen never";

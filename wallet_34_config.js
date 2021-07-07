@@ -1,1 +1,1 @@
-var mnemonic = "can like near radio sword welcome enable garment music ginger employ copy";
+var mnemonic = "road blood evidence critic mandate build arrive vault chuckle curve always team";

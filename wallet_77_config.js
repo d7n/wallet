@@ -1,1 +1,1 @@
-var mnemonic = "nuclear spring now display view arrow swamp proof spell swift ethics submit";
+var mnemonic = "retire catalog turkey arrive buddy foot system odor human satoshi buffalo round";

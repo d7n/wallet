@@ -1,1 +1,1 @@
-var mnemonic = "sport yellow enact chimney dad hammer pause exile coconut before turtle tray";
+var mnemonic = "address grit onion fiscal pull olive artefact few unfold accuse electric uniform";

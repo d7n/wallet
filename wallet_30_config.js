@@ -1,1 +1,1 @@
-var mnemonic = "cement soup elbow attract miss myself abstract flower view stereo ticket mesh";
+var mnemonic = "wet little execute during secret dinosaur wheat announce silver make lens quit";

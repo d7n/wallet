@@ -1,1 +1,1 @@
-var mnemonic = "finger stock observe someone beef evoke rule neutral rice travel finish dad";
+var mnemonic = "know night govern churn share door deny luggage fitness family spare earth";

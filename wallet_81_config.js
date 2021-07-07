@@ -1,1 +1,1 @@
-var mnemonic = "smart prepare family lottery tomato front flee shoot able security belt artist";
+var mnemonic = "useless woman gorilla advance own trophy plastic pretty drum chuckle concert rally";

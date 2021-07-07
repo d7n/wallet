@@ -1,1 +1,1 @@
-var mnemonic = "foam viable bunker tip primary pole flavor panda verify trophy impulse source";
+var mnemonic = "three they sunny buzz hurdle cancel cash sibling vapor life skate coast";

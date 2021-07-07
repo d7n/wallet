@@ -1,1 +1,1 @@
-var mnemonic = "proof mystery jelly broom again summer connect hurdle tortoise shock upgrade mirror";
+var mnemonic = "across scrap drip portion leg model mask escape make pistol wrong any";

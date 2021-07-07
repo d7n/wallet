@@ -1,1 +1,1 @@
-var mnemonic = "supply cinnamon ten forget glad finish fiction squeeze dirt chest advance public";
+var mnemonic = "hair lake begin vessel sell trigger salad boil helmet rubber twenty blast";

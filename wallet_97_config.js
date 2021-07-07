@@ -1,1 +1,1 @@
-var mnemonic = "key patient test joke advice must whisper stumble unfold record scheme kid";
+var mnemonic = "long embody noise crumble range junk outer property pudding video divide mom";

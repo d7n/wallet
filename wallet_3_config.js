@@ -1,1 +1,1 @@
-var mnemonic = "exhibit clock actress impose labor joy crash wet ensure adapt future water";
+var mnemonic = "viable tattoo cook leaf problem end oppose found crime junk joy cloud";

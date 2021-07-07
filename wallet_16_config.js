@@ -1,1 +1,1 @@
-var mnemonic = "evolve balcony check suffer say lake curious bullet soccer swamp below demise";
+var mnemonic = "clerk sunset turn cloth oblige bulk legend emotion human you margin enable";

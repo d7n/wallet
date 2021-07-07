@@ -1,1 +1,1 @@
-var mnemonic = "poverty river total spider rhythm idea economy entire jungle theory use guilt";
+var mnemonic = "street demise visa initial wide inquiry super change number online kid pulp";

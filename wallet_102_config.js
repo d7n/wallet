@@ -1,1 +1,1 @@
-var mnemonic = "border endless high brass program flock cup certain midnight fold length divert";
+var mnemonic = "exchange mean mixture amazing inject model river hire shallow turn among quick";

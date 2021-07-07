@@ -1,1 +1,1 @@
-var mnemonic = "unveil huge sponsor cave proud joke estate artefact wreck memory early use";
+var mnemonic = "atom tennis fame buzz orient blossom property dog suspect aspect charge wet";

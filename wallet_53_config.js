@@ -1,1 +1,1 @@
-var mnemonic = "gain program napkin much wisdom depth cradle swarm drift chicken boy turtle";
+var mnemonic = "annual table during priority member napkin nest apple auction cliff champion sand";

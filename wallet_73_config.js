@@ -1,1 +1,1 @@
-var mnemonic = "shrimp minute crouch dash answer dragon nation trouble tuition beach street silver";
+var mnemonic = "jar lawn shoe shoot hand right caught ignore oil damage obtain mind";

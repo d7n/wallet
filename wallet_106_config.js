@@ -1,1 +1,1 @@
-var mnemonic = "pelican scorpion marine day dutch edit barrel lamp field old cheap raven";
+var mnemonic = "depart cactus thumb cute curtain prison ivory filter night grape scorpion wear";

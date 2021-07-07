@@ -1,1 +1,1 @@
-var mnemonic = "cruise vacant winter cross curtain devote episode hint bronze erase jealous blast";
+var mnemonic = "pact ladder upgrade sketch detect great rival toe avoid arrange endorse moral";

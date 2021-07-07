@@ -1,1 +1,1 @@
-var mnemonic = "spice arrange congress breeze destroy garbage sun thumb below kidney fit limit";
+var mnemonic = "stand road candy lens usual announce garage this brisk effort word finish";

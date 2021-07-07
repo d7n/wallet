@@ -1,1 +1,1 @@
-var mnemonic = "mandate utility vendor asset assault prevent movie spy security primary fan industry";
+var mnemonic = "rent twelve medal satisfy loyal food measure anger foil thunder prevent month";

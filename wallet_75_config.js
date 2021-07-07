@@ -1,1 +1,1 @@
-var mnemonic = "write airport defy intact top arena demise asthma radio swear spike ghost";
+var mnemonic = "cliff chef winner ice donkey flip meat snow fee design praise tribe";

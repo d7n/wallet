@@ -1,1 +1,1 @@
-var mnemonic = "dove buddy ball unhappy grain nut pause awkward fall unfair gesture ozone";
+var mnemonic = "south wrestle odor vicious shrug express explain tonight already novel immune snow";

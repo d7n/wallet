@@ -1,1 +1,1 @@
-var mnemonic = "laundry teach castle guide foam basket indoor magnet maze hundred trick glue";
+var mnemonic = "current weather win occur twice horn object pool decade dance awake differ";

@@ -1,1 +1,1 @@
-var mnemonic = "manual lunch ozone wonder cable action inner amused convince energy spy love";
+var mnemonic = "session valve dentist unique arrange mask card trouble limb parrot turkey skate";

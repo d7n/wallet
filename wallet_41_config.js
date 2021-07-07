@@ -1,1 +1,1 @@
-var mnemonic = "calm jeans mercy solar diamond hole gym balance surface bean word tip";
+var mnemonic = "thumb tomorrow soft abuse hurdle casino shine cube token grant fatal extra";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy rural leg ugly home island supreme derive nest until harbor degree";
+var mnemonic = "surge draft miss universe road simple curtain general junior rebuild spirit extend";

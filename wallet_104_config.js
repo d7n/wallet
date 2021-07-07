@@ -1,1 +1,1 @@
-var mnemonic = "borrow hungry idle pyramid ordinary live remember marine street quiz oak town";
+var mnemonic = "rice eagle rich rich moon movie pet love yellow file rifle waste";

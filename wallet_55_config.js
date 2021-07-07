@@ -1,1 +1,1 @@
-var mnemonic = "moral uniform family decrease hotel flee suit alert garment erode master typical";
+var mnemonic = "wing cheap risk merry month topple ball rabbit prepare clown focus cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "visa benefit explain maze sadness spread stand cigar combine onion curious country";
+var mnemonic = "armed surround improve fatigue october panther voice lazy mention input scout funny";

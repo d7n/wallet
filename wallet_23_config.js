@@ -1,1 +1,1 @@
-var mnemonic = "slow brisk never dumb useful retreat stadium twice aerobic spell over all";
+var mnemonic = "describe insect boss jelly benefit impact rotate canyon argue bleak erupt spoil";

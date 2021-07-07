@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tired renew lava office jeans priority city strong balcony initial extend";
+var mnemonic = "pool artwork grunt hold pattern escape best response inside confirm belt shadow";

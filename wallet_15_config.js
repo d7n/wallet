@@ -1,1 +1,1 @@
-var mnemonic = "suspect law faculty annual main rude palace position height rate ask jelly";
+var mnemonic = "tackle major conduct divert praise outer volume observe west sense tackle artwork";

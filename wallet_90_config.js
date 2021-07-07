@@ -1,1 +1,1 @@
-var mnemonic = "someone fresh kangaroo hurry spend lawn voice six wire betray arrange anchor";
+var mnemonic = "lend loop visa inside adult damage draw tide soon culture perfect canal";

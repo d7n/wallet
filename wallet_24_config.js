@@ -1,1 +1,1 @@
-var mnemonic = "found category turn defense stove nice fiscal have shell icon faculty vital";
+var mnemonic = "spy night draw brother soft tower quiz extra camera spray onion hill";

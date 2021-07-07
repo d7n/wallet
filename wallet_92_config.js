@@ -1,1 +1,1 @@
-var mnemonic = "cram liquid swing boil bench confirm sunny bus upgrade start topic satisfy";
+var mnemonic = "credit minute boring rate document save milk upgrade virtual coast uncle sibling";

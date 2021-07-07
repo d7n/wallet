@@ -1,1 +1,1 @@
-var mnemonic = "egg subject fashion left approve noodle wealth barrel mule birth food employ";
+var mnemonic = "appear act like jump inner phrase uncle polar task poem immense curve";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong toss vibrant fame believe spring unlock equal join permit mercy pencil";
+var mnemonic = "pledge vanish young fish smoke spy bridge reject random mom shift suffer";

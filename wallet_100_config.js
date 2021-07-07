@@ -1,1 +1,1 @@
-var mnemonic = "swear detail wheel chair present sphere ozone idea parent lemon force common";
+var mnemonic = "erase vehicle nasty keep one game program glory drink catalog art exhaust";

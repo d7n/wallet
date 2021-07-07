@@ -1,1 +1,1 @@
-var mnemonic = "crumble extra coconut near virtual govern east swear monster hole pet bronze";
+var mnemonic = "firm harbor immune auto food roof bunker thunder select old ripple lobster";

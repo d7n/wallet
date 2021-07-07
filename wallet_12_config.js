@@ -1,1 +1,1 @@
-var mnemonic = "glow tourist fee nuclear hair jazz purity lazy region bitter pilot strike";
+var mnemonic = "poet sleep stove mix analyst achieve tourist assist derive defense sausage elephant";

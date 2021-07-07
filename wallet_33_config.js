@@ -1,1 +1,1 @@
-var mnemonic = "live path also excess fluid pluck weird coyote visual toward exotic review";
+var mnemonic = "concert impose rabbit happy amount give eye page logic west private moment";

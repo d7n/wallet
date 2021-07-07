@@ -1,1 +1,1 @@
-var mnemonic = "toddler deputy price ozone assault always rude axis unaware chronic clock crazy";
+var mnemonic = "hover when aisle replace dinosaur this enforce vanish input prosper vintage swing";

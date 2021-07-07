@@ -1,1 +1,1 @@
-var mnemonic = "fence winner style category slice public sick zero cannon mistake shadow erosion";
+var mnemonic = "crack round picnic inside arrest fat liquid best tube despair eager plug";

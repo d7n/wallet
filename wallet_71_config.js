@@ -1,1 +1,1 @@
-var mnemonic = "mix problem tribe inch divorce matter border legend blast arctic mail that";
+var mnemonic = "night document wheat magnet salmon tissue daring put police develop yellow canvas";

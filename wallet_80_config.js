@@ -1,1 +1,1 @@
-var mnemonic = "dilemma offer extend lock blue jealous joy toe soldier cross coil early";
+var mnemonic = "choice weapon bundle winter shine price flag erase burden tone health helmet";

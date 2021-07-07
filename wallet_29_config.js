@@ -1,1 +1,1 @@
-var mnemonic = "retreat home head day bridge defense bracket asset sleep walnut flame upper";
+var mnemonic = "soap prevent crater prize clarify dawn possible access globe similar penalty organ";

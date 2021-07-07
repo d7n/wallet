@@ -1,1 +1,1 @@
-var mnemonic = "more siege panda mail nose length open crush coffee tomato pond fitness";
+var mnemonic = "april avoid nerve drum forum agent buyer mansion industry inform music retreat";

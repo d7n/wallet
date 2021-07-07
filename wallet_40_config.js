@@ -1,1 +1,1 @@
-var mnemonic = "patch copper bronze detail prosper effort position same miracle museum more wedding";
+var mnemonic = "spoil course giant agree margin eight deny grant text heart beef boat";

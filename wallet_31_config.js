@@ -1,1 +1,1 @@
-var mnemonic = "tree calm term bar what news flash shadow permit mansion curve borrow";
+var mnemonic = "achieve wrist imitate gossip render top develop bread under become sudden endless";

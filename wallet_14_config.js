@@ -1,1 +1,1 @@
-var mnemonic = "guard supreme arm great daring talent harsh anger occur marine human surface";
+var mnemonic = "destroy dice group negative into refuse melt awesome crucial plug hammer program";

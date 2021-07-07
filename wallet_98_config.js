@@ -1,1 +1,1 @@
-var mnemonic = "slice fashion core salute crawl dolphin power scissors scare buddy either inject";
+var mnemonic = "doll stick liar scheme size valid library birth clean hire cream virtual";

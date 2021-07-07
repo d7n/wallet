@@ -1,1 +1,1 @@
-var mnemonic = "scissors only rapid act retire kid barely shiver inhale under fringe suffer";
+var mnemonic = "hospital super wash noodle credit social fall chef inspire double inquiry chapter";

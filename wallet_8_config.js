@@ -1,1 +1,1 @@
-var mnemonic = "payment domain canoe sauce bar only pelican face legal size cabbage loud";
+var mnemonic = "this put essay beauty result fossil cat enable wrap desk top table";

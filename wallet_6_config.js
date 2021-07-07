@@ -1,1 +1,1 @@
-var mnemonic = "armed giggle hold moment parrot front myself baby bicycle police orchard guard";
+var mnemonic = "dream angry meat year sauce fashion please rally pool better alien end";

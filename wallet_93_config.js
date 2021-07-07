@@ -1,1 +1,1 @@
-var mnemonic = "flight little gas soul want doll parade appear can misery magnet build";
+var mnemonic = "notable elder together amazing wait hood end blur luxury they picnic valid";

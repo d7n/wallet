@@ -1,1 +1,1 @@
-var mnemonic = "source funny card crouch addict disagree blossom alpha latin blast rifle song";
+var mnemonic = "script burst autumn planet tool tool pepper notice broom kit two point";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge embark pond use alpha cable clock finish poverty behave lyrics card";
+var mnemonic = "cake sound shine ladder table guess soap assist often shift control federal";

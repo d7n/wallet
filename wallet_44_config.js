@@ -1,1 +1,1 @@
-var mnemonic = "amused town hour cruel crouch little caution depend link shuffle series spy";
+var mnemonic = "stem edge metal film expand mixed foster stay mesh swarm remain pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "butter view become toe walk alert tiny phrase pause trust green tortoise";
+var mnemonic = "admit large eye age job shoot spider mutual acoustic lobster want receive";

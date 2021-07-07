@@ -1,1 +1,1 @@
-var mnemonic = "result key wolf reduce unfair shallow move talent scissors miss charge cancel";
+var mnemonic = "prize chalk dove fold arch burger cinnamon wave taste lazy rhythm junk";

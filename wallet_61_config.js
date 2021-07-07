@@ -1,1 +1,1 @@
-var mnemonic = "very stumble utility beyond build circle buyer slide merry kidney busy science";
+var mnemonic = "second hurry invite absorb say wild fall sheriff gather cheese reward child";

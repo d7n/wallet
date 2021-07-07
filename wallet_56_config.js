@@ -1,1 +1,1 @@
-var mnemonic = "toward gate fan know floor monster carbon snake hard emotion wrist pulp";
+var mnemonic = "pluck salt kangaroo club pudding chronic deputy promote chief sniff manage beauty";

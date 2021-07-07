@@ -1,1 +1,1 @@
-var mnemonic = "tool shoulder liar foil describe coin clinic local salon mechanic travel coach";
+var mnemonic = "destroy quality fan usage wing federal fly task bottom guilt match capital";

@@ -1,1 +1,1 @@
-var mnemonic = "pool hold supreme switch cup decorate suit wash someone excess wrong jacket";
+var mnemonic = "include increase midnight slab scout staff island this ticket garden pretty someone";

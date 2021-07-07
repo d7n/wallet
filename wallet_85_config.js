@@ -1,1 +1,1 @@
-var mnemonic = "soap pipe quit work seek rescue used design road reason frame whale";
+var mnemonic = "salon gravity civil gloom volume yellow ensure loud tuna issue often boring";

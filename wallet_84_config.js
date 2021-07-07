@@ -1,1 +1,1 @@
-var mnemonic = "into sun stereo sugar biology smile wish beauty jaguar ski excite month";
+var mnemonic = "history tooth banana daring gorilla nose curve just wire open spin discover";

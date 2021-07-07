@@ -1,1 +1,1 @@
-var mnemonic = "result never addict receive bulb skirt pony eagle balcony spoil long arrest";
+var mnemonic = "episode mercy town broom abandon master minimum lunch fit web orphan bitter";

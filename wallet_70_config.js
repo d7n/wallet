@@ -1,1 +1,1 @@
-var mnemonic = "turn motion raw question salmon common minimum tragic giggle wait gas urge";
+var mnemonic = "model supreme path piece tongue brain flight define taxi team merry they";

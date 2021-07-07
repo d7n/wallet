@@ -1,1 +1,1 @@
-var mnemonic = "tattoo start van real debris chronic chest panther ill judge visit convince";
+var mnemonic = "metal account loan alone humble present drastic announce rare athlete over family";

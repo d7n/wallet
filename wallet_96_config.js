@@ -1,1 +1,1 @@
-var mnemonic = "fun leopard page task sweet detect bar illness gauge hybrid episode intact";
+var mnemonic = "display soon layer demise rude snap umbrella grief word inject spell puppy";

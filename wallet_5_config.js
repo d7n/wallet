@@ -1,1 +1,1 @@
-var mnemonic = "seek zone educate mail enjoy reform neglect resource depart auction bar sing";
+var mnemonic = "snack crawl category office curtain paper rain wedding use steak fence fancy";

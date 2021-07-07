@@ -1,1 +1,1 @@
-var mnemonic = "snow hollow arrow whisper dune discover blossom sister orchard toddler slow private";
+var mnemonic = "energy lunch vocal give fluid forum enlist climb gloom fiscal monitor object";

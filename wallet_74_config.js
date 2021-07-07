@@ -1,1 +1,1 @@
-var mnemonic = "almost idle cattle gadget wall keep reunion brother doctor drill image prosper";
+var mnemonic = "enhance bean alcohol method alcohol half olympic copper rely invite catalog adult";

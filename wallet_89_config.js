@@ -1,1 +1,1 @@
-var mnemonic = "walnut close silver forum setup barrel under open render outdoor flash poet";
+var mnemonic = "educate ancient auto toe canvas salon patch point zero kiwi remind shaft";

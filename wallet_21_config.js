@@ -1,1 +1,1 @@
-var mnemonic = "garment enable surge bar banner uniform verify suspect mix decline energy grain";
+var mnemonic = "captain nuclear measure february busy asset endless gentle size chest add earth";

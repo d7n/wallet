@@ -1,1 +1,1 @@
-var mnemonic = "hand direct stand you hobby boy fox near latin snake check envelope";
+var mnemonic = "patrol urban cricket rescue foster vehicle entire fog torch planet comic genuine";

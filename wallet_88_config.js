@@ -1,1 +1,1 @@
-var mnemonic = "certain phone erosion usual zero soccer cube coyote marble truth drink meat";
+var mnemonic = "unique aware term such caution shine core inflict alcohol menu habit trick";

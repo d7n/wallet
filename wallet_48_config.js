@@ -1,1 +1,1 @@
-var mnemonic = "fish industry harsh auction august shift march dad damp leader credit worth";
+var mnemonic = "gallery sausage crop forward chaos museum ancient push spare panther polar steak";

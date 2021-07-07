@@ -1,1 +1,1 @@
-var mnemonic = "diesel index very property double dust dose volcano trial life scatter champion";
+var mnemonic = "record pilot reward foster tomato chronic pottery pistol latin recipe salad tone";

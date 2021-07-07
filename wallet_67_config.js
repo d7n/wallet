@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog oak royal buyer noodle phrase point upper forum fuel destroy marble";
+var mnemonic = "amazing install frost squirrel vicious balance uncover option fruit foster destroy bulk";

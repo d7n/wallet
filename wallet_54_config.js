@@ -1,1 +1,1 @@
-var mnemonic = "proud camera mutual obscure secret thing stand divide habit fringe duck syrup";
+var mnemonic = "urban lonely brain wait attract second blade glue flight claw nerve real";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze use suit smile also wedding feature lamp harvest cause insect elbow";
+var mnemonic = "blossom tree deposit raise tumble wall victory source wing layer situate hedgehog";

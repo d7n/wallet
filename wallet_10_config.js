@@ -1,1 +1,1 @@
-var mnemonic = "chest possible leave horror quit marble suit person hen sustain cement furnace";
+var mnemonic = "van display daring useless divorce bounce elder sign sad cute unveil delay";

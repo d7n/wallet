@@ -1,1 +1,1 @@
-var mnemonic = "thing amount truck season trigger bid swamp call victory loud note canyon";
+var mnemonic = "cactus skirt appear thing obscure they enjoy advice hand flower apology flush";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor zone drive column squirrel gossip aim manual collect spend attend discover";
+var mnemonic = "grape current tooth kiss film piano curious helmet small obtain canal pistol";

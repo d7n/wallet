@@ -1,1 +1,1 @@
-var mnemonic = "hotel oval trouble treat garbage film network pistol film bleak agree gain";
+var mnemonic = "beauty giggle artist recall element ketchup saddle mask magic shrimp income tomato";

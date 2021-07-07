@@ -1,1 +1,1 @@
-var mnemonic = "remind plunge hire mule certain snake regular service there calm laptop junior";
+var mnemonic = "noble tuition fever scare oxygen wife shy toward kit excite cargo various";

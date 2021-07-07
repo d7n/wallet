@@ -1,1 +1,1 @@
-var mnemonic = "birth symbol knee thing mention claim bundle text penalty potato cross ship";
+var mnemonic = "stock lunch issue prefer garlic royal budget size real market barely nature";

@@ -1,1 +1,1 @@
-var mnemonic = "round early peasant sell media save kingdom century jaguar stuff magic afraid";
+var mnemonic = "rail visual page jealous rifle story leisure festival typical almost observe novel";
