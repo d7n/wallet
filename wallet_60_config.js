@@ -1,1 +1,1 @@
-var mnemonic = "tuition behind advance plastic burst pulp egg february dwarf car lady solid";
+var mnemonic = "zone moon table snake insect drum volume among muffin reunion ramp isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas quantum raven corn final skull alcohol maid cushion gravity render develop";
+var mnemonic = "neck carbon robot mandate omit opinion bus innocent smoke wait physical glare";

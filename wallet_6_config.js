@@ -1,1 +1,1 @@
-var mnemonic = "raven indoor attract penalty panic fringe point check skull sister gentle caution";
+var mnemonic = "glide wild tomorrow situate stem jelly media size just frequent leave sorry";

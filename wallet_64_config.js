@@ -1,1 +1,1 @@
-var mnemonic = "neglect ball hand panda april hurdle absorb expose tortoise install tissue rabbit";
+var mnemonic = "mosquito check motion grass diet attend pistol scrap pumpkin evoke decline praise";

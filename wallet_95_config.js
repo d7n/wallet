@@ -1,1 +1,1 @@
-var mnemonic = "stage flash fuel child you income battle injury jungle guitar wet mansion";
+var mnemonic = "lab social size ghost gentle critic glance field still favorite clown about";

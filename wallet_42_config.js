@@ -1,1 +1,1 @@
-var mnemonic = "aware ten news skirt just captain loop better couple hint rose venue";
+var mnemonic = "menu owner frown close thing apology play happy naive rookie stairs guard";

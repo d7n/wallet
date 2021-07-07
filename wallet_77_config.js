@@ -1,1 +1,1 @@
-var mnemonic = "security equal hospital always major harvest prosper oyster year derive inhale ketchup";
+var mnemonic = "fee enlist winter yard horse bullet sunset insect thought inner shrug coach";

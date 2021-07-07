@@ -1,1 +1,1 @@
-var mnemonic = "bag result type water man toward gift now barely black corn repair";
+var mnemonic = "front ask pizza field strategy solution canoe foil wire thrive expire gym";

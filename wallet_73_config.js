@@ -1,1 +1,1 @@
-var mnemonic = "brand wide usage judge pipe cupboard eight guess sand novel feed explain";
+var mnemonic = "fancy already symptom spirit gaze damage trash neither bunker hockey cruel setup";

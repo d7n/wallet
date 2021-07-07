@@ -1,1 +1,1 @@
-var mnemonic = "isolate color lamp adapt choice urge episode oxygen nothing ancient oak endorse";
+var mnemonic = "spoil screen dress shine august afraid novel shrimp fluid recall shift scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "addict candy nation cube assist casual cup stone bunker diagram mountain iron";
+var mnemonic = "exotic meadow cupboard result cabbage forest setup reform favorite manual winner giggle";

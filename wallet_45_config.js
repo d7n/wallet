@@ -1,1 +1,1 @@
-var mnemonic = "daring canal bundle there stomach pudding urge suffer drip love gorilla inform";
+var mnemonic = "risk trophy acid three dirt regular wealth invite safe minute ready all";

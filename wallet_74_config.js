@@ -1,1 +1,1 @@
-var mnemonic = "gorilla pizza hamster bullet limit ostrich claw inherit usage sustain annual pudding";
+var mnemonic = "royal myth oyster unable plug nerve bitter immune gorilla caught robot daring";

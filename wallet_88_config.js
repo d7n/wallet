@@ -1,1 +1,1 @@
-var mnemonic = "unveil winner fruit funny satisfy column bottom purchase foam script around photo";
+var mnemonic = "east marine steak world powder pulp gift scrap oval bomb execute fiscal";

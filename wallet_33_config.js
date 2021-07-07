@@ -1,1 +1,1 @@
-var mnemonic = "home onion lunar gravity rail bonus armor correct pool lumber trade pony";
+var mnemonic = "cricket spray hard worth stereo unique keep elite whale voyage ecology offer";

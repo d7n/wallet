@@ -1,1 +1,1 @@
-var mnemonic = "include october resist legend team this chicken bench asthma paper embrace wife";
+var mnemonic = "prefer eyebrow true business catalog seminar eyebrow rude dragon slight warrior dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure toilet broccoli angle face error fault destroy pass credit rare loop";
+var mnemonic = "deliver insect blade raw exclude trick salt manual enter slam spend couple";

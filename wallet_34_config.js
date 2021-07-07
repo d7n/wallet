@@ -1,1 +1,1 @@
-var mnemonic = "please shield mean burger frog elephant draw relief gym idle auction monster";
+var mnemonic = "rough weird reflect rude sponsor quantum mimic mansion twelve bomb dawn quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "march avoid miracle unusual goat scheme kite that eagle penalty behave small";
+var mnemonic = "road camera nothing doll aunt spy capital gloom buffalo casino step uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "recall quantum about action impulse example enough shrug return token surround repair";
+var mnemonic = "penalty mixture deal error tumble legal surface between come master dismiss ice";

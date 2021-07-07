@@ -1,1 +1,1 @@
-var mnemonic = "promote blur render mystery distance swallow few beef outside doll sausage forward";
+var mnemonic = "switch crazy list ball claw coyote champion congress pause club section sea";

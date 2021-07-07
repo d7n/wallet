@@ -1,1 +1,1 @@
-var mnemonic = "mesh divert kind ivory hundred vivid river balcony rice inject piece entire";
+var mnemonic = "hammer girl tortoise critic corn anchor pole father work clerk explain rose";

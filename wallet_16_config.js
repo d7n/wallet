@@ -1,1 +1,1 @@
-var mnemonic = "woman glory feel balance curve hospital camp surprise animal honey desk south";
+var mnemonic = "chicken tourist opinion luggage egg major release dad color blast tail glory";

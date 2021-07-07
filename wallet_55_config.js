@@ -1,1 +1,1 @@
-var mnemonic = "twelve approve process step lady reunion wrap town south glove churn clay";
+var mnemonic = "excess infant rug release globe asset enhance alcohol absent mass year prefer";

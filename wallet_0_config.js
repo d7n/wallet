@@ -1,1 +1,1 @@
-var mnemonic = "time source lift scale list space grab pulp column knife enlist lonely";
+var mnemonic = "upper bullet result armed nose man screen enhance violin kidney chief cotton";

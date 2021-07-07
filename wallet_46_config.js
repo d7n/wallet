@@ -1,1 +1,1 @@
-var mnemonic = "detail bench olive prepare reveal mixture runway company canyon mean lecture foot";
+var mnemonic = "mixture piece venue need film talent other symptom surface memory addict lecture";

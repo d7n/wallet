@@ -1,1 +1,1 @@
-var mnemonic = "traffic parade property ancient spread theme unfair prefer sweet cook peasant neither";
+var mnemonic = "day street gas evil casual improve spend dog tool together praise mystery";

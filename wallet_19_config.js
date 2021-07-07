@@ -1,1 +1,1 @@
-var mnemonic = "proud office conduct syrup sweet office since deposit say shaft remember glow";
+var mnemonic = "little hazard memory hard fatal wide cousin dream trial student vessel tissue";

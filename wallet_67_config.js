@@ -1,1 +1,1 @@
-var mnemonic = "calm violin rapid blush shrug spread story bracket eternal bachelor crazy insect";
+var mnemonic = "short all peasant speed rabbit side success spread accuse shoulder garden question";

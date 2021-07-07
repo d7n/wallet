@@ -1,1 +1,1 @@
-var mnemonic = "cereal palace thought resemble perfect theory daring smooth juice unlock glory raw";
+var mnemonic = "canyon ordinary carpet odor limit crew poem film hammer laugh liar dove";

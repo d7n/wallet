@@ -1,1 +1,1 @@
-var mnemonic = "busy arrow stage gas kingdom absurd wisdom hand number electric unknown few";
+var mnemonic = "hurt excuse roast shallow oven unhappy member banana bless uniform average teach";

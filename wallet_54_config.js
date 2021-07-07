@@ -1,1 +1,1 @@
-var mnemonic = "dog royal wrap fragile slim team forget angle educate bachelor remain solid";
+var mnemonic = "spot trash inner light course busy fruit when tilt lawsuit athlete distance";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant bird produce explain various upper intact rival scrap road mouse robust";
+var mnemonic = "air buffalo shift tackle sunny erode thrive decade merge payment few yellow";

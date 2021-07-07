@@ -1,1 +1,1 @@
-var mnemonic = "rival castle light scare banner shoot grocery spirit hedgehog misery parade leaf";
+var mnemonic = "elephant rifle space foam spray scissors flash aerobic economy october good hamster";

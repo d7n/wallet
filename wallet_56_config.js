@@ -1,1 +1,1 @@
-var mnemonic = "west kangaroo sand whip turkey furnace fork lyrics arrange exile lady nominee";
+var mnemonic = "access inhale grunt horn eternal light dress yard hundred keen outer bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence walnut valve tobacco glare gallery perfect attend misery volume depend asset";
+var mnemonic = "guess weasel dash flame detect shallow nasty drum example embark chat pass";

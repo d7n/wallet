@@ -1,1 +1,1 @@
-var mnemonic = "omit nerve utility print envelope evoke wire surface pull knee traffic window";
+var mnemonic = "small rotate tornado upset chronic matter garage box clog sad update lottery";

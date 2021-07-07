@@ -1,1 +1,1 @@
-var mnemonic = "taste describe category cross merit gift diet kid lava ability nuclear forget";
+var mnemonic = "lion orient grit ring horse alien canoe lazy turtle sheriff pole avocado";

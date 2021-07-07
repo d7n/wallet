@@ -1,1 +1,1 @@
-var mnemonic = "absurd head helmet shock fluid pumpkin topic sick coil grant item light";
+var mnemonic = "omit pencil pelican dinosaur rural keen absent young now make abandon sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "alien what monitor poet skirt fringe glow program left during door milk";
+var mnemonic = "staff struggle cover blush language wait bachelor large giraffe pelican check special";

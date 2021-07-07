@@ -1,1 +1,1 @@
-var mnemonic = "youth aspect unlock clock music happy note weasel blouse can water easily";
+var mnemonic = "useful own cross brass mule build exhibit pear purpose sing elder copy";

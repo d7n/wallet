@@ -1,1 +1,1 @@
-var mnemonic = "practice breeze stone derive reward pair junior practice destroy bargain breeze silly";
+var mnemonic = "analyst orphan flee mesh tell weasel loyal garment scrap certain eagle law";

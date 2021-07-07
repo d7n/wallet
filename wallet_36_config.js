@@ -1,1 +1,1 @@
-var mnemonic = "arrange axis task orbit quantum gospel combine journey vicious smooth endless giraffe";
+var mnemonic = "heart aware armor purchase water survey lawn brisk domain scan utility weather";

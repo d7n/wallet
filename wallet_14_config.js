@@ -1,1 +1,1 @@
-var mnemonic = "heavy snap various holiday adult keen language catalog amount oak immense injury";
+var mnemonic = "prison journey monitor trouble urge series energy bring swarm tribe mutual teach";

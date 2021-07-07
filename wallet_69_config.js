@@ -1,1 +1,1 @@
-var mnemonic = "floor flame mom behind blue jar desk ignore capable vacuum wisdom slender";
+var mnemonic = "earth mistake rocket fence gallery able address oppose gift ready weather reveal";

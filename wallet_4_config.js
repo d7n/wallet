@@ -1,1 +1,1 @@
-var mnemonic = "vapor chase chair parade lake autumn better trash giggle super blame mango";
+var mnemonic = "crunch moral surface session muffin wasp prepare knife proud appear jeans cotton";

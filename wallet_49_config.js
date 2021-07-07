@@ -1,1 +1,1 @@
-var mnemonic = "ozone comic orange need garment refuse crumble trial alarm uphold hockey tongue";
+var mnemonic = "scatter twelve display honey knock pepper label suggest next exist gain brain";

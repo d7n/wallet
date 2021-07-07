@@ -1,1 +1,1 @@
-var mnemonic = "shadow silent ethics abandon vehicle nephew palace task person they garment derive";
+var mnemonic = "unlock pig voyage shrug diamond habit virtual person open assault layer moral";

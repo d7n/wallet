@@ -1,1 +1,1 @@
-var mnemonic = "ability bubble choose harsh pyramid lab spin marriage behind valid current render";
+var mnemonic = "kingdom danger belt there cousin term bar vendor suspect behind spider elegant";

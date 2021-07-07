@@ -1,1 +1,1 @@
-var mnemonic = "empower bounce alarm pulp surround ecology raise save piece trap original hybrid";
+var mnemonic = "profit decrease cruel wink clog auction stereo napkin camp blind silly pave";

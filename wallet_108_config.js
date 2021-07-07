@@ -1,1 +1,1 @@
-var mnemonic = "blind spy tomato history cave sea spoon depth patient artefact raven spare";
+var mnemonic = "danger bridge enemy alley sell fault lizard expect cruel soccer seminar client";

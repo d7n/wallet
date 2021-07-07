@@ -1,1 +1,1 @@
-var mnemonic = "surge practice panic game million panic behind kangaroo congress panther clerk memory";
+var mnemonic = "plug soccer satoshi report hawk final liar improve foil gauge choose essay";

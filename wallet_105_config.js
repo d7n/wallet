@@ -1,1 +1,1 @@
-var mnemonic = "blind able slab cruise job sense cushion liar three better over answer";
+var mnemonic = "rice craft brisk pass spend effort amazing media pole bike art dove";

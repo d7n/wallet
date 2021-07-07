@@ -1,1 +1,1 @@
-var mnemonic = "width layer legal prosper attitude knock liquid novel bar furnace miss shove";
+var mnemonic = "spin average gasp tourist asthma test eager drastic fly oak trust chief";

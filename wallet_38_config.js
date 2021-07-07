@@ -1,1 +1,1 @@
-var mnemonic = "sunset always badge diet dog turn alcohol exclude depart action valve blood";
+var mnemonic = "run cruel lab lens brush easy obscure attend width matrix amused weather";

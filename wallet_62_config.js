@@ -1,1 +1,1 @@
-var mnemonic = "alcohol parrot gain renew another shuffle exist prize high climb shine hunt";
+var mnemonic = "shell chicken author garbage raccoon rough achieve click blouse turn real march";

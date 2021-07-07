@@ -1,1 +1,1 @@
-var mnemonic = "decrease limit soccer ocean job renew elevator dizzy boring acquire salad rude";
+var mnemonic = "butter tuna rebel swift hundred knife faith increase negative travel rhythm inform";

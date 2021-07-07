@@ -1,1 +1,1 @@
-var mnemonic = "maple say swap shell ostrich elegant tired cradle advance blade always warfare";
+var mnemonic = "resist habit sing round student flame pig level dial cancel seed naive";

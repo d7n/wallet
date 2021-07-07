@@ -1,1 +1,1 @@
-var mnemonic = "jelly make height pear rubber vapor grant slush inject equip alarm velvet";
+var mnemonic = "away language twelve robust rug often cousin barrel sound shoe box sustain";

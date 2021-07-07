@@ -1,1 +1,1 @@
-var mnemonic = "bring juice innocent truly credit powder caught blood motion shoe hundred bleak";
+var mnemonic = "occur what icon jazz nose believe fantasy crunch clinic source minute potato";

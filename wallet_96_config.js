@@ -1,1 +1,1 @@
-var mnemonic = "chalk transfer head pen rigid next shine near faculty emotion timber jacket";
+var mnemonic = "coast urban flower enemy move cute cycle palm devote peasant undo hero";

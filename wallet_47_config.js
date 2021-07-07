@@ -1,1 +1,1 @@
-var mnemonic = "current lab material minor market tower basic cigar salon surround census lesson";
+var mnemonic = "trick rib sphere task hammer harsh rare secret moral venture wrist cable";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy nuclear laptop chat turkey multiply floor coach material desk curtain rude";
+var mnemonic = "plunge document quantum hurt mention side exclude animal old seminar camera idle";

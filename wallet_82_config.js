@@ -1,1 +1,1 @@
-var mnemonic = "label toe hockey reason abuse chair recycle ladder casual acid special kite";
+var mnemonic = "about material analyst artist glimpse ship marble parade gorilla praise online effort";

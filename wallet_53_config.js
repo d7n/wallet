@@ -1,1 +1,1 @@
-var mnemonic = "agree anger absent clinic fruit seat family fade metal raw strategy purpose";
+var mnemonic = "pig flag dismiss mutual fiction fragile toe bring leg jungle escape approve";

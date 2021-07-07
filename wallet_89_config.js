@@ -1,1 +1,1 @@
-var mnemonic = "skate rhythm argue despair tower curve now deliver option invite never run";
+var mnemonic = "wonder boil cram alpha portion deal cheese peasant wealth attitude blast resist";

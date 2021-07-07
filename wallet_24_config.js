@@ -1,1 +1,1 @@
-var mnemonic = "slush bacon mirror fold ring flush black fat ensure bike tooth whale";
+var mnemonic = "portion gravity evidence pledge tomato wide stumble describe try claim coconut random";

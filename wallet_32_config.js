@@ -1,1 +1,1 @@
-var mnemonic = "convince section settle easy wave erupt vessel fragile dial lazy mystery tooth";
+var mnemonic = "prefer famous sound health cry honey crucial coin arrow today success daring";

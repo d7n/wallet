@@ -1,1 +1,1 @@
-var mnemonic = "uphold innocent fish indicate fortune wish suit love update monkey judge worry";
+var mnemonic = "member immense surprise elephant isolate actress ribbon blame two noble dry direct";

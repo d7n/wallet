@@ -1,1 +1,1 @@
-var mnemonic = "athlete embrace laugh drift climb soldier turn wolf brain random safe response";
+var mnemonic = "jungle cannon carbon blame cream fury useful bullet start laundry fluid off";

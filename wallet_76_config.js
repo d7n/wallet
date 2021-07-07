@@ -1,1 +1,1 @@
-var mnemonic = "hungry smoke beef estate way hip romance cheese screen shoe nest oyster";
+var mnemonic = "submit pave pilot trumpet give erupt strategy slush screen aware start shallow";

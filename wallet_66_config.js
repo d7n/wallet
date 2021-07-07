@@ -1,1 +1,1 @@
-var mnemonic = "window deliver coyote wrist average rely obvious slice lock umbrella never provide";
+var mnemonic = "choice dwarf pigeon dumb unaware stadium mean discover people birth ghost fold";

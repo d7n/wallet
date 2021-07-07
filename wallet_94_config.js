@@ -1,1 +1,1 @@
-var mnemonic = "motion lottery usage help tobacco ghost shove donate behind melody share exhaust";
+var mnemonic = "nut sand scene spider crumble cabin eagle rib tumble cost girl legend";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest minor hole involve age inform apology piano entire desert music crazy";
+var mnemonic = "adjust pride hero onion pond crumble canoe jeans onion deliver tourist behave";

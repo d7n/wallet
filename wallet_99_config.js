@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow law wine oyster review twenty alone check prosper glass bless quit";
+var mnemonic = "tragic clay yellow enough typical guitar traffic health kiss unfair insect size";

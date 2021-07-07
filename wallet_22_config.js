@@ -1,1 +1,1 @@
-var mnemonic = "book once general match general almost pave room abuse axis tuition demand";
+var mnemonic = "chair champion inflict stumble south father exist believe cushion mixed shoot possible";

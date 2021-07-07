@@ -1,1 +1,1 @@
-var mnemonic = "travel pledge tilt caught source print worth hammer pair glue worry enact";
+var mnemonic = "crash reflect level achieve extra collect lava flag win fame road pioneer";

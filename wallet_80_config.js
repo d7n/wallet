@@ -1,1 +1,1 @@
-var mnemonic = "goose blouse invite pair abandon remain brave wagon sting stamp release clerk";
+var mnemonic = "cart scale miss gaze disorder hair ritual can clarify shoe ripple gauge";

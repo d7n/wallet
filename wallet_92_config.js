@@ -1,1 +1,1 @@
-var mnemonic = "wrap enforce brown increase skate hospital eagle tongue tone primary great nurse";
+var mnemonic = "alley silver theme warm around exit cool crucial funny orange busy swallow";

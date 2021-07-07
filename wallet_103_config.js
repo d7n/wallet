@@ -1,1 +1,1 @@
-var mnemonic = "repeat crater bundle wrist enough knock pattern order detail oblige fuel humor";
+var mnemonic = "power bargain leg above unfold pig method travel strong blossom best caught";

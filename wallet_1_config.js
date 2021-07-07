@@ -1,1 +1,1 @@
-var mnemonic = "sibling own buzz caught cargo slice cloud quarter stick sunny slide kind";
+var mnemonic = "entire jump parade economy cricket wise talk screen casual armor diet second";

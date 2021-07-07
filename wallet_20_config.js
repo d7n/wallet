@@ -1,1 +1,1 @@
-var mnemonic = "abandon inner lounge outside great sunny first forward donor side frozen dove";
+var mnemonic = "success reward busy badge give ignore embody science material praise wife deposit";

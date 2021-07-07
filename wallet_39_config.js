@@ -1,1 +1,1 @@
-var mnemonic = "cram grab jacket recall move wing merry model absorb output pink mandate";
+var mnemonic = "ring vessel diet pill feel zero awful empower require hospital hockey emotion";
