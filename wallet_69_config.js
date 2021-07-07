@@ -1,1 +1,1 @@
-var mnemonic = "fame fiscal ranch renew music youth strike manage hen acquire easy quiz";
+var mnemonic = "nest near mosquito kit monster steel kitten stand cool super icon bless";

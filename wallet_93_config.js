@@ -1,1 +1,1 @@
-var mnemonic = "weapon series dizzy merit van lunch opinion buddy sand struggle fee burst";
+var mnemonic = "give pizza also board illegal twenty speed inner cinnamon decorate crumble eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "behind laptop runway rookie box drop argue outside air rent protect friend";
+var mnemonic = "mind either disagree because slice imitate real buzz salt awake minute sand";

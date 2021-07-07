@@ -1,1 +1,1 @@
-var mnemonic = "nurse duck head refuse need manual island mystery claw whip plate prison";
+var mnemonic = "assume step company syrup garlic boost two what time width brief apple";

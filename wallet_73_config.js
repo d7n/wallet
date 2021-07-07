@@ -1,1 +1,1 @@
-var mnemonic = "decade target pipe leader quote marble friend picnic quantum foot chicken bunker";
+var mnemonic = "salmon guide find album enter reunion midnight grunt august pelican sheriff around";

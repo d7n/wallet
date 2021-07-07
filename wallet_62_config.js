@@ -1,1 +1,1 @@
-var mnemonic = "answer arctic wink shiver multiply odor amused mercy fever best coach protect";
+var mnemonic = "office rude merge visa squirrel couple man fruit december doll sign ask";

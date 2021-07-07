@@ -1,1 +1,1 @@
-var mnemonic = "zoo shoe teach argue maze nurse run input advice waste bench market";
+var mnemonic = "resist aware fruit push ivory river mutual tomorrow fence expect dance spy";

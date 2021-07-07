@@ -1,1 +1,1 @@
-var mnemonic = "disagree toilet adult daring trick mystery nothing dizzy before doctor indoor inch";
+var mnemonic = "devote light door pledge pottery virtual victory country potato ring system rude";

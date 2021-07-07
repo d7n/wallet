@@ -1,1 +1,1 @@
-var mnemonic = "rigid assault toddler lens guide repeat sad display meat elder stairs trash";
+var mnemonic = "insane glad target useless post gas rebuild ripple creek garment advance shadow";

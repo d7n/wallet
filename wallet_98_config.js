@@ -1,1 +1,1 @@
-var mnemonic = "foil cry smooth enter girl lemon effort meat turn elephant coast lock";
+var mnemonic = "dance mom breeze wrap toe era zoo absent response wrestle issue enrich";

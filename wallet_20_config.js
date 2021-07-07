@@ -1,1 +1,1 @@
-var mnemonic = "toilet toward age erase tiny keen hundred apple know morning raise dignity";
+var mnemonic = "hero economy chest segment violin vapor blue illegal cousin toward middle horn";

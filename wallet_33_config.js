@@ -1,1 +1,1 @@
-var mnemonic = "rookie update treat surround embody danger assist already patient agent tennis spare";
+var mnemonic = "april artist onion child series theory deposit rude element raccoon again inform";

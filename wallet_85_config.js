@@ -1,1 +1,1 @@
-var mnemonic = "pill blanket lake fossil milk group define order link fame pumpkin hip";
+var mnemonic = "salute decline guitar panic network maximum clip slogan tube advance doctor deal";

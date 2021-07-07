@@ -1,1 +1,1 @@
-var mnemonic = "claim oven wagon together hand shoulder jungle jaguar twenty potato pause scan";
+var mnemonic = "divide trick cactus foot undo artwork parade enhance glory embrace camera enable";

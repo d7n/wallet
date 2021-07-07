@@ -1,1 +1,1 @@
-var mnemonic = "empower lounge aerobic race process typical piano legend omit mask unfair evil";
+var mnemonic = "peasant say pool shrug swap juice deposit warfare inspire pig dumb flower";

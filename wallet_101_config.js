@@ -1,1 +1,1 @@
-var mnemonic = "return fame donate electric trouble injury topic onion tip stumble language spice";
+var mnemonic = "ostrich panel miss now cloth own scheme put scrap daring onion index";

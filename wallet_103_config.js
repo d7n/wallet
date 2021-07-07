@@ -1,1 +1,1 @@
-var mnemonic = "dynamic window nut shoot country detect mesh vessel obey shrimp brief february";
+var mnemonic = "core source tackle spell build pipe smooth penalty derive space hollow hawk";

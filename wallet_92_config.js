@@ -1,1 +1,1 @@
-var mnemonic = "wish chuckle head hard name slice learn drip page puzzle thought wool";
+var mnemonic = "work vocal wedding you cake omit dignity clever rail dash lake month";

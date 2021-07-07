@@ -1,1 +1,1 @@
-var mnemonic = "entire maid steak clutch path squeeze arrange scout decide flat year dutch";
+var mnemonic = "route roof unveil write daring mosquito hat denial home cake budget casual";

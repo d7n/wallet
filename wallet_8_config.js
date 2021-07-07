@@ -1,1 +1,1 @@
-var mnemonic = "luxury parrot town void work truth stage crane save describe slice horse";
+var mnemonic = "auction orphan ten opinion drop property antenna crucial cake torch burst pact";

@@ -1,1 +1,1 @@
-var mnemonic = "arch borrow essay dress head cabin effort cheap opinion lobster year stereo";
+var mnemonic = "opera element gesture total rifle pig rather joke order race reveal have";

@@ -1,1 +1,1 @@
-var mnemonic = "swear few crew cereal curious since aim unusual candy speak jealous limb";
+var mnemonic = "ring afraid armed track horse diary fashion dial copper feature crane police";

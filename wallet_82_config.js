@@ -1,1 +1,1 @@
-var mnemonic = "network master actor cart ensure achieve ginger elder cinnamon tail scrub apple";
+var mnemonic = "skill reunion foam proof rack cushion budget social snack twice salon glide";

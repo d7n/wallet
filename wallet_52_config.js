@@ -1,1 +1,1 @@
-var mnemonic = "radar drama sudden slice north quarter hero pilot result file alarm popular";
+var mnemonic = "gesture hole employ lounge delay coil close obtain enact truth keep grain";

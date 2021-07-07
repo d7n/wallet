@@ -1,1 +1,1 @@
-var mnemonic = "side cup stereo toilet crucial april once episode become supreme ice erosion";
+var mnemonic = "antique equal piano kit laundry obtain twin genius choice banner bag group";

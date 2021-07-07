@@ -1,1 +1,1 @@
-var mnemonic = "junk exercise erode cereal broken story salute gun flavor frame hidden income";
+var mnemonic = "panda kiss hotel accident fashion trend follow flame wink punch ahead embody";

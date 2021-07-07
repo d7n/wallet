@@ -1,1 +1,1 @@
-var mnemonic = "own notable luxury head away slam celery turtle book leaf goddess stable";
+var mnemonic = "crouch vacuum skill width rough catch else country affair panel middle bachelor";

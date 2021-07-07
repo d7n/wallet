@@ -1,1 +1,1 @@
-var mnemonic = "crack delay online put teach rapid agent length coast rescue garden live";
+var mnemonic = "jacket primary smoke remove tiger balance group control razor skull camera cradle";

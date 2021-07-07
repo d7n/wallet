@@ -1,1 +1,1 @@
-var mnemonic = "win industry wrist crash scatter trash zebra game notice venue love carpet";
+var mnemonic = "layer confirm clean drink window dutch civil attack minor tuition quit crawl";

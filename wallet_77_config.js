@@ -1,1 +1,1 @@
-var mnemonic = "small half alcohol manage faculty tape margin bounce material rubber parrot grief";
+var mnemonic = "moon letter empower outdoor age stone taxi shy normal decide silk afraid";

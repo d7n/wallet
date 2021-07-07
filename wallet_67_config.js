@@ -1,1 +1,1 @@
-var mnemonic = "side paddle chapter subject enact small defy minute guitar fashion laugh crucial";
+var mnemonic = "orphan parrot mandate lounge display quote prison hedgehog ignore car hotel drink";

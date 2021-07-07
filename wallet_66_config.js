@@ -1,1 +1,1 @@
-var mnemonic = "jealous like transfer fence night frequent kangaroo foster cotton hard hundred mule";
+var mnemonic = "fruit screen eternal use session curve chest segment risk nominee cave now";

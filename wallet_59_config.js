@@ -1,1 +1,1 @@
-var mnemonic = "someone roast frequent gift allow name speak guide include pistol rocket grow";
+var mnemonic = "flag butter village width chapter physical alone machine noble reduce two hurdle";

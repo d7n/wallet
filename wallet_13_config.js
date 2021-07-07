@@ -1,1 +1,1 @@
-var mnemonic = "find guide lunar lesson gown fatal demand napkin post poverty shrug nominee";
+var mnemonic = "naive notice perfect parade theme poverty shallow arena rally fiber timber during";

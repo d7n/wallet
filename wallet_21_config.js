@@ -1,1 +1,1 @@
-var mnemonic = "region gas chimney logic direct cloud venture scrub globe improve remember define";
+var mnemonic = "claw endorse grid enlist tank ball fiction situate dice mountain veteran once";

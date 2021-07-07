@@ -1,1 +1,1 @@
-var mnemonic = "size media wine wrestle coil rib idea wet fuel traffic episode chimney";
+var mnemonic = "dentist boil weather dizzy throw silver trigger gadget tower advance hint van";

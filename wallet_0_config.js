@@ -1,1 +1,1 @@
-var mnemonic = "bamboo friend rather easy actual venture sentence mixed dumb round system garment";
+var mnemonic = "awesome crouch car live kid object grain sight skirt cause enact update";

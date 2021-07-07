@@ -1,1 +1,1 @@
-var mnemonic = "shadow spy dizzy boost result expire poem hire wolf aisle mind winner";
+var mnemonic = "actual multiply promote clever moon barrel acquire scheme unfair west valve sound";

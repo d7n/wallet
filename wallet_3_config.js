@@ -1,1 +1,1 @@
-var mnemonic = "universe famous wink plastic volume pet joy frost night during two labor";
+var mnemonic = "edit slogan people cannon rigid fantasy admit animal domain hammer wrong estate";

@@ -1,1 +1,1 @@
-var mnemonic = "junior blossom million effort inflict cry broken crouch taste click file trial";
+var mnemonic = "impact month between just mushroom future company sister then crawl gossip measure";

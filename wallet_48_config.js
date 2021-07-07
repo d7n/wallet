@@ -1,1 +1,1 @@
-var mnemonic = "best office share charge plate club climb example elevator lake ride afford";
+var mnemonic = "pelican merry shaft term spray fold defense squirrel nice practice elevator plastic";

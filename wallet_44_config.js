@@ -1,1 +1,1 @@
-var mnemonic = "choose wool sell strike real quote cherry name repair stairs stage right";
+var mnemonic = "wolf unhappy unable hamster tenant icon catch end file near where embrace";

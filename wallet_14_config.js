@@ -1,1 +1,1 @@
-var mnemonic = "true call digital carbon seed priority across choose style reason require favorite";
+var mnemonic = "win gloom flee extra above scorpion powder shy bronze object bike curtain";

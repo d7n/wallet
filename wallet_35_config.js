@@ -1,1 +1,1 @@
-var mnemonic = "off pepper flag ahead juice across always supreme ritual cushion prosper steel";
+var mnemonic = "clown clip recall wreck trumpet corn trend portion modify fresh enemy stem";

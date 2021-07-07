@@ -1,1 +1,1 @@
-var mnemonic = "equip menu swing arm popular limit dismiss ignore print spread paddle despair";
+var mnemonic = "glimpse umbrella drink devote kiss minor flock spirit canyon behind help hidden";

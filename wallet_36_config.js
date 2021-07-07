@@ -1,1 +1,1 @@
-var mnemonic = "wild toss narrow unaware snap outdoor decade kitten already duck tent present";
+var mnemonic = "rabbit cause advice clay update scare enforce excuse buzz define salute shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom modify spider enlist bright gauge carpet spice arm snap word mom";
+var mnemonic = "neutral derive scale blue entry library awesome rule among sound vapor genre";

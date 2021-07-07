@@ -1,1 +1,1 @@
-var mnemonic = "rare kit hour rich wealth wisdom toss useful rare flash fossil industry";
+var mnemonic = "staff spawn wrestle title swear deal immune oyster spawn spin silk duty";

@@ -1,1 +1,1 @@
-var mnemonic = "any west skull section plate tent cabin defense embody wrong mango wheat";
+var mnemonic = "guilt immense drift caution cart small teach excess clinic right art divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wise fragile absurd witness child mail upset walk flat donor arm";
+var mnemonic = "garlic build harsh carbon fan fitness catch warrior fix hood cereal square";

@@ -1,1 +1,1 @@
-var mnemonic = "cross copper notice tobacco round rookie organ sick tree ritual pottery lake";
+var mnemonic = "cry ripple aim bunker famous evoke year cat mushroom inflict solar again";

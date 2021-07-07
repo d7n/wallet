@@ -1,1 +1,1 @@
-var mnemonic = "barrel company connect above session place scare garden powder love romance amateur";
+var mnemonic = "warrior radio believe merge banana display crop insect fork jaguar identify width";

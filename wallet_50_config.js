@@ -1,1 +1,1 @@
-var mnemonic = "reform organ warfare garlic museum pistol hold dune level exclude record depend";
+var mnemonic = "excess earn scheme quarter course depend door network chuckle believe quantum gain";

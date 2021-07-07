@@ -1,1 +1,1 @@
-var mnemonic = "skate strategy heavy half coyote remove senior wait pilot twist aim zero";
+var mnemonic = "horn forum dawn render suggest ladder surface model cabbage float cradle bar";

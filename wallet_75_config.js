@@ -1,1 +1,1 @@
-var mnemonic = "differ top refuse matter film rib success organ away arm tape screen";
+var mnemonic = "cover isolate place ocean dirt more address quick scare sudden brisk journey";

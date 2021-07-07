@@ -1,1 +1,1 @@
-var mnemonic = "faith jewel ribbon cake stumble anchor inside penalty pelican actor trim quarter";
+var mnemonic = "trumpet enact minute asthma sketch weekend resist brown scale crazy art furnace";

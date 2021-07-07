@@ -1,1 +1,1 @@
-var mnemonic = "token seat emerge alcohol craft hen nerve muffin prevent shoe room slide";
+var mnemonic = "repeat parade can dish poem panda found scout among dinner opinion marine";

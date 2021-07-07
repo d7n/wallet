@@ -1,1 +1,1 @@
-var mnemonic = "hair daughter economy dice caught card treat lock mimic damp cover forest";
+var mnemonic = "truly seven arm team primary monitor ride casino warm aware brief fit";

@@ -1,1 +1,1 @@
-var mnemonic = "panic switch lizard tag banner knife there egg design print judge knee";
+var mnemonic = "pitch cup between walnut merit juice park matter story oven ankle rib";

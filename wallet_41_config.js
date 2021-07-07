@@ -1,1 +1,1 @@
-var mnemonic = "enjoy dwarf prison destroy proof simple prefer smooth ring grain build original";
+var mnemonic = "cattle fossil theme lunar enlist echo dinosaur gain state wear exist agent";

@@ -1,1 +1,1 @@
-var mnemonic = "inch cement next reopen armor earn noodle tell trend cluster casual bring";
+var mnemonic = "shy frame bid this pupil borrow refuse heart law bleak ten clump";

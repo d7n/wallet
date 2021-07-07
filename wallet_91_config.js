@@ -1,1 +1,1 @@
-var mnemonic = "giggle element holiday upset correct leg maximum pill struggle arm balcony valve";
+var mnemonic = "debate order crime vault prepare saddle embark eternal detail emotion direct spread";

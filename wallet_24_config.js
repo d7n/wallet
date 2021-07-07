@@ -1,1 +1,1 @@
-var mnemonic = "rally boat video critic such sunny aunt casual shine blossom effort bulk";
+var mnemonic = "fade guilt protect resist disagree say antenna identify better barrel join quit";

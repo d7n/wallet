@@ -1,1 +1,1 @@
-var mnemonic = "balcony scout grit height poet click differ hand slab ten nature future";
+var mnemonic = "sudden tornado approve rocket one custom person federal creek pizza siren concert";

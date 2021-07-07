@@ -1,1 +1,1 @@
-var mnemonic = "domain arrange inquiry staff olive regular industry rhythm laptop pill noise despair";
+var mnemonic = "rigid brother consider dawn route biology dream hybrid punch beyond hidden rate";

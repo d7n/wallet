@@ -1,1 +1,1 @@
-var mnemonic = "viable fatal budget bamboo scissors away truck present announce daring apart state";
+var mnemonic = "employ reduce valley gadget sight tree produce glory sport flock amused casual";

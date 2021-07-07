@@ -1,1 +1,1 @@
-var mnemonic = "credit adapt shoulder slight organ team side valve outside wreck wet okay";
+var mnemonic = "visa deliver law solid arm staff tone yellow knee sick bring shock";

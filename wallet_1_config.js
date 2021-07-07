@@ -1,1 +1,1 @@
-var mnemonic = "tortoise zero derive hybrid punch public regret bird first require vocal moon";
+var mnemonic = "also deny ecology present maple breeze mango object bomb vocal tiger good";

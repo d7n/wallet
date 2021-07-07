@@ -1,1 +1,1 @@
-var mnemonic = "orphan parade nominee service inside humor obey spirit winner help window build";
+var mnemonic = "current hollow all gentle advice drastic front survey put extend tonight blade";

@@ -1,1 +1,1 @@
-var mnemonic = "spread tattoo aisle swim venue armor thing broom dial dismiss step letter";
+var mnemonic = "climb van prosper smoke hockey produce stamp craft celery exclude message parade";

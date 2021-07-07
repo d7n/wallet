@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ceiling keep bonus parade used access rice tail merit crystal poverty";
+var mnemonic = "outside game video coyote lunch repeat annual caution right lizard put intact";

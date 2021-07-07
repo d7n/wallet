@@ -1,1 +1,1 @@
-var mnemonic = "wasp age attract gossip amateur wink height hard hawk leg flavor pulse";
+var mnemonic = "soul erosion green another firm bracket history still buzz cup forget gate";

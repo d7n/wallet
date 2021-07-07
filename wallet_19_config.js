@@ -1,1 +1,1 @@
-var mnemonic = "protect health illness perfect token lunar earn box whip provide vessel pair";
+var mnemonic = "regret glide hen motion margin produce soda sniff predict gauge ugly search";

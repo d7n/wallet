@@ -1,1 +1,1 @@
-var mnemonic = "daughter suffer dilemma rally stamp dutch property sunny margin cliff display ranch";
+var mnemonic = "grain alpha mimic license amused flat ethics half slide quiz speed birth";

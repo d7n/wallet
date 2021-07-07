@@ -1,1 +1,1 @@
-var mnemonic = "exit jaguar claim cloth fresh sick silver float large logic arrest salad";
+var mnemonic = "eyebrow hope drum run found alter there narrow humor photo funny grape";

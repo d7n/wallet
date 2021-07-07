@@ -1,1 +1,1 @@
-var mnemonic = "reduce labor divide sport glimpse abuse turtle retreat acquire balcony dial course";
+var mnemonic = "bird adjust deputy goddess wasp truth flee item response athlete local exclude";

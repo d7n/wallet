@@ -1,1 +1,1 @@
-var mnemonic = "there quick blast glove machine sunny knock laugh adjust truth urban slow";
+var mnemonic = "trash proud spell truly pigeon invest gesture river world recall orphan burger";

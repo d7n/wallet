@@ -1,1 +1,1 @@
-var mnemonic = "cool maze grape monster balance add merge sense unique prefer pupil net";
+var mnemonic = "kiwi that robot future review jaguar rely under crouch cruise struggle all";

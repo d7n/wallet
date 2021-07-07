@@ -1,1 +1,1 @@
-var mnemonic = "slogan fence sell letter gloom wedding machine dust between kitchen day pact";
+var mnemonic = "vacant orient high tuna gain harbor clown want donor dragon renew text";

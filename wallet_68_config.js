@@ -1,1 +1,1 @@
-var mnemonic = "control top boil cake glow base spy gauge slender gas cherry unusual";
+var mnemonic = "tip random sting crack flavor despair fish hair invest bike tuna salute";

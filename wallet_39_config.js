@@ -1,1 +1,1 @@
-var mnemonic = "ceiling theory twin heart dignity traffic dice loud indicate try box milk";
+var mnemonic = "major tumble few bulk turn artwork double lab eager bronze brass gain";

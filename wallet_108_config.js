@@ -1,1 +1,1 @@
-var mnemonic = "wrestle make sock polar easy act rigid unveil top crush toe mixed";
+var mnemonic = "cup rice utility rice spring subway melt beyond carry moon index misery";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic vintage ritual balance cute craft air image theory lock tail circle";
+var mnemonic = "chair bottom dirt marine little extend struggle file bottom upper eight parade";

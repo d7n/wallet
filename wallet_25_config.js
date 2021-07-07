@@ -1,1 +1,1 @@
-var mnemonic = "talent portion type chapter traffic noble short squeeze grocery planet position zebra";
+var mnemonic = "turtle dirt display nuclear spike candy web guide circle isolate buyer close";

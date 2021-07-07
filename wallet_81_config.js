@@ -1,1 +1,1 @@
-var mnemonic = "enrich draw leopard metal shed ghost hawk describe dizzy object stamp fever";
+var mnemonic = "receive aware cross lab tip marble crew film settle deposit strike nut";

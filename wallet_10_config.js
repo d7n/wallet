@@ -1,1 +1,1 @@
-var mnemonic = "author mule fan achieve discover skate effort frame perfect social tribe energy";
+var mnemonic = "budget sorry kitchen flag hospital hold hidden vendor vehicle monkey camp noble";

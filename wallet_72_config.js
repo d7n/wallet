@@ -1,1 +1,1 @@
-var mnemonic = "scrub plunge puzzle embrace scene luxury shed chicken hill segment high trophy";
+var mnemonic = "allow menu salon maid width faculty people industry ticket replace patrol rail";

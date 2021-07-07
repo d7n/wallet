@@ -1,1 +1,1 @@
-var mnemonic = "pig laptop album surge liar arrow issue ready tiny hobby scrub kid";
+var mnemonic = "security retire detail celery planet guard stamp pelican identify you firm antenna";

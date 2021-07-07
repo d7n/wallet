@@ -1,1 +1,1 @@
-var mnemonic = "year popular refuse critic various learn asthma donor once envelope lesson valley";
+var mnemonic = "open ordinary blood bonus sea custom grief village document caution evidence thing";

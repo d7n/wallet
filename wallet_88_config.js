@@ -1,1 +1,1 @@
-var mnemonic = "few sudden airport enable mandate ski report helmet miss vacant bike abuse";
+var mnemonic = "lawn trial mule join chunk unfold scheme kind ticket ready divide visit";

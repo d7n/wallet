@@ -1,1 +1,1 @@
-var mnemonic = "faith noise mimic outer web stay arrest deputy balance asthma about car";
+var mnemonic = "into leisure eyebrow bid taste mansion dizzy purity capable refuse topple usage";
