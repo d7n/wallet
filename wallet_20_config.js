@@ -1,1 +1,1 @@
-var mnemonic = "olympic radio couple off chimney federal thank rug delay benefit stamp supply";
+var mnemonic = "lizard mango lend cup boost guitar fade prize beauty safe gossip owner";

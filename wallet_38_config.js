@@ -1,1 +1,1 @@
-var mnemonic = "remind mule negative cycle dragon rebel fury seed thunder slice abuse vapor";
+var mnemonic = "casino wrap aerobic royal chalk frequent bind laptop motor wing cactus catalog";

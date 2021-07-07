@@ -1,1 +1,1 @@
-var mnemonic = "various spare thumb crazy oblige submit mix friend strategy sauce guess height";
+var mnemonic = "happy dignity certain female material despair step fuel economy snake medal puzzle";

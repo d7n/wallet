@@ -1,1 +1,1 @@
-var mnemonic = "sample measure photo solution sail chest venture dust clean cook predict dutch";
+var mnemonic = "sign iron various upgrade smoke enact child ride toward wife illegal security";

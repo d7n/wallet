@@ -1,1 +1,1 @@
-var mnemonic = "close element moral stage alien paper ordinary flag crumble apology soul ensure";
+var mnemonic = "possible trumpet clap spider human celery celery welcome prize kit now pepper";

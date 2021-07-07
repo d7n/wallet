@@ -1,1 +1,1 @@
-var mnemonic = "rapid tent exile issue hint yellow drastic concert cousin brick barrel wage";
+var mnemonic = "noise pioneer safe lunar yard typical clog use penalty skate idle start";

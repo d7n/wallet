@@ -1,1 +1,1 @@
-var mnemonic = "industry mansion radio strong inch letter loyal core ring forget old ethics";
+var mnemonic = "cute soft cement panel craft unhappy rival rule novel acid mistake put";

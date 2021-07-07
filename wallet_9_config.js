@@ -1,1 +1,1 @@
-var mnemonic = "increase pool picture drink noise laugh wet bleak morning find multiply album";
+var mnemonic = "essay deputy jazz behind crouch chef feed mad shine steak talent clog";

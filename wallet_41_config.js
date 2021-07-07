@@ -1,1 +1,1 @@
-var mnemonic = "midnight quiz foil ridge lamp bread actual life modify hour desk clean";
+var mnemonic = "purchase entry picnic team infant depart robot embark derive wine pig example";

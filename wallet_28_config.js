@@ -1,1 +1,1 @@
-var mnemonic = "just pear anchor tone enter document wrap primary draft scene virus trash";
+var mnemonic = "return enter rough town series harvest super buddy celery snap surge that";

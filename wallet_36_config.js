@@ -1,1 +1,1 @@
-var mnemonic = "twelve black super measure symbol spider dinosaur cage above ladder any canoe";
+var mnemonic = "permit abandon oven unknown edge thrive lazy alpha acquire winner argue filter";

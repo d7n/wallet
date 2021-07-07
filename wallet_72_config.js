@@ -1,1 +1,1 @@
-var mnemonic = "fee obscure pizza panther load sword common race boil month trap garment";
+var mnemonic = "eye hint artist tumble welcome item edge panel boost light bottom bleak";

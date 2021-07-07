@@ -1,1 +1,1 @@
-var mnemonic = "doll space salt cruise slab wife donate whale angry security lens impose";
+var mnemonic = "damage heavy dwarf example crystal mango argue school skirt river useful deer";

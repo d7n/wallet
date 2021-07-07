@@ -1,1 +1,1 @@
-var mnemonic = "purse audit dentist barrel crush salt motion final find any parrot episode";
+var mnemonic = "slot raven settle drastic marble fruit ecology toast area math that grace";

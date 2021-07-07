@@ -1,1 +1,1 @@
-var mnemonic = "sheriff entire exhaust whisper bracket state chest analyst couple imitate bird matrix";
+var mnemonic = "october ketchup people wink where lottery situate ill spirit yellow place adult";

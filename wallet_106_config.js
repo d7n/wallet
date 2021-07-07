@@ -1,1 +1,1 @@
-var mnemonic = "alarm organ meadow cousin burst bird warm napkin awkward thought laugh shadow";
+var mnemonic = "minute heavy derive child gain tooth between vibrant aunt catch bridge sort";

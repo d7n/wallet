@@ -1,1 +1,1 @@
-var mnemonic = "dust require spice correct spoon reveal mammal steel galaxy cost mass anger";
+var mnemonic = "course inform purpose panic crystal pact urge faith trick lock cage smoke";

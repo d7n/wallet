@@ -1,1 +1,1 @@
-var mnemonic = "clutch because pistol patch deal giraffe demise skull maid tuna trophy try";
+var mnemonic = "advice rack rule million airport search abstract giraffe ladder smoke mention field";

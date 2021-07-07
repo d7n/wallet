@@ -1,1 +1,1 @@
-var mnemonic = "index hub panther resource tenant affair observe holiday photo dumb peace ripple";
+var mnemonic = "gather poverty trip mutual bus jelly secret ethics sample salute lunch spray";

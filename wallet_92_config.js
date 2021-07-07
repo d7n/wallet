@@ -1,1 +1,1 @@
-var mnemonic = "toddler seven want better inhale advance dwarf opinion manage client type nurse";
+var mnemonic = "earth jaguar sadness wash fee donkey tent six glide tide ability dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "airport seek target spy jar verify december member edge under menu gravity";
+var mnemonic = "ball quiz total faculty drink assume yard panel royal proud canoe power";

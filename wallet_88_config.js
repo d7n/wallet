@@ -1,1 +1,1 @@
-var mnemonic = "stone three such success truly noise frog wall now index fun already";
+var mnemonic = "double bone silent oppose snow proud film copy barrel business leopard idle";

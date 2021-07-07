@@ -1,1 +1,1 @@
-var mnemonic = "vacant glide reward arrive timber woman feature orbit grief shift elbow lock";
+var mnemonic = "trick young praise nothing bleak unknown click climb brother similar buddy local";

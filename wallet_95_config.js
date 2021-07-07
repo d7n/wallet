@@ -1,1 +1,1 @@
-var mnemonic = "blade card buzz aim item celery club aisle album misery pig divert";
+var mnemonic = "bachelor swim denial foot clerk wheel empty hill raise identify flag pizza";

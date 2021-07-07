@@ -1,1 +1,1 @@
-var mnemonic = "cage cushion together plunge heavy gain damage runway mansion laptop ill fantasy";
+var mnemonic = "afford energy shrug snack piece robust wave cattle village clay build price";

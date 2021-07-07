@@ -1,1 +1,1 @@
-var mnemonic = "video cube behind slim lawsuit alarm thank tag trumpet home inform butter";
+var mnemonic = "abstract school recycle truck prison clog machine catalog mushroom broccoli frozen sustain";

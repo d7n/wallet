@@ -1,1 +1,1 @@
-var mnemonic = "glance wine bomb short awful fame gift shoulder system orphan access naive";
+var mnemonic = "write virus buzz lend again inherit dice brass ability clown hero poet";

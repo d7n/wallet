@@ -1,1 +1,1 @@
-var mnemonic = "chief attend negative country gospel floor soon trade narrow glove earn sorry";
+var mnemonic = "cave gentle bonus budget speed crouch same rotate amateur join autumn lamp";

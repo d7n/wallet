@@ -1,1 +1,1 @@
-var mnemonic = "leave unhappy beauty affair budget cause because patch tank open child spring";
+var mnemonic = "piano fever chair sunny fly couch loan shell swap open mobile blanket";

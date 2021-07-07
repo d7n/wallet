@@ -1,1 +1,1 @@
-var mnemonic = "until shiver old banana erode person butter certain accuse parent bracket depart";
+var mnemonic = "live stem couple shrimp acquire theory capital inside lonely another circle member";

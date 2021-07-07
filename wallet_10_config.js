@@ -1,1 +1,1 @@
-var mnemonic = "control nasty border noble asset veteran view power reveal bread belt shift";
+var mnemonic = "true acquire horse amateur decrease layer young lazy beauty obtain vintage major";

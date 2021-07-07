@@ -1,1 +1,1 @@
-var mnemonic = "true robust ten prize salt north lava opinion oyster message canvas pond";
+var mnemonic = "bottom dash twin scan chicken boss paddle wealth release meadow mimic mandate";

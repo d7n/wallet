@@ -1,1 +1,1 @@
-var mnemonic = "athlete reduce grain great entire program logic wire mule salon strong simple";
+var mnemonic = "service above boil electric ordinary advance tone swear beach joke flash valley";

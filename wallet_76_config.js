@@ -1,1 +1,1 @@
-var mnemonic = "brave alien infant mouse tape off gift pond tilt lucky direct civil";
+var mnemonic = "race obvious soon leg jeans nation believe song grit blossom post fee";

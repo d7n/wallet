@@ -1,1 +1,1 @@
-var mnemonic = "allow basic peace elegant junior bonus rug umbrella govern very stadium lab";
+var mnemonic = "entry smooth core poem kangaroo tuna time hazard lock hammer consider kiss";

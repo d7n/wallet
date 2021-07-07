@@ -1,1 +1,1 @@
-var mnemonic = "object quiz trend switch similar panther casino always dawn ugly deer glass";
+var mnemonic = "above desert pottery butter outer post december prefer country burden category settle";

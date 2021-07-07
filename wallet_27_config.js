@@ -1,1 +1,1 @@
-var mnemonic = "hat brown broken stem void potato measure wife hip voice bunker size";
+var mnemonic = "kind recall fatigue exit actual canyon health spot ready claw atom prize";

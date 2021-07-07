@@ -1,1 +1,1 @@
-var mnemonic = "salute nut razor payment crucial glove local cook seven ten tape lamp";
+var mnemonic = "monkey fine feed mimic enrich candy warm lemon weapon fire display loan";

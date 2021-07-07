@@ -1,1 +1,1 @@
-var mnemonic = "situate surround machine fiscal ready kidney exist split similar number possible good";
+var mnemonic = "pause slogan carpet tip dog clap yellow large joke vibrant nuclear fire";

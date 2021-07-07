@@ -1,1 +1,1 @@
-var mnemonic = "drum party lesson angle service champion immense forget manage blossom crunch icon";
+var mnemonic = "elegant dismiss gossip top engage horror power middle laptop hedgehog step error";

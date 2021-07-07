@@ -1,1 +1,1 @@
-var mnemonic = "damage draft burden shadow license sweet insect exit cereal dream lemon nation";
+var mnemonic = "distance wing slide afford noble cross zero aware work scorpion mass abandon";

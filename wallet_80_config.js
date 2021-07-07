@@ -1,1 +1,1 @@
-var mnemonic = "guide ramp render number ten basic topic extend weekend tone area oil";
+var mnemonic = "ramp tank keep energy correct expose smooth dawn jazz casual music cloth";

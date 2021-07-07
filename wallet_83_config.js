@@ -1,1 +1,1 @@
-var mnemonic = "depth please illness edge oblige forget lecture convince casual note celery thumb";
+var mnemonic = "uncle coral sausage man connect beef leisure apart oblige exist clump fancy";

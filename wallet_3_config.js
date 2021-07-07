@@ -1,1 +1,1 @@
-var mnemonic = "order obscure shrimp nose destroy zone essay elevator merge moon video ginger";
+var mnemonic = "kind early obtain census smooth valley wear pen album cotton bring athlete";

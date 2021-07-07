@@ -1,1 +1,1 @@
-var mnemonic = "hundred luxury search cable ethics reopen accuse west spell into crew list";
+var mnemonic = "card dish dish matrix alter setup nurse hour artwork mouse enrich mystery";

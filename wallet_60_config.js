@@ -1,1 +1,1 @@
-var mnemonic = "control gym upon estate round problem have better rubber recall finger execute";
+var mnemonic = "alert pigeon embody bronze type seven share case pattern behind citizen inherit";

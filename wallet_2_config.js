@@ -1,1 +1,1 @@
-var mnemonic = "cluster below aspect smooth cinnamon barely ribbon general best mosquito attract fade";
+var mnemonic = "magnet used place service buyer actor need drift ship illegal army hand";

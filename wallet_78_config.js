@@ -1,1 +1,1 @@
-var mnemonic = "pony enemy mad wear jazz body like fashion inflict potato sponsor rival";
+var mnemonic = "shield kit someone mirror milk bronze credit slide thank brisk wait blur";

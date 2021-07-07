@@ -1,1 +1,1 @@
-var mnemonic = "dice embark shadow copper creek opera waste amused caught resource hamster tiger";
+var mnemonic = "uncle fork museum hawk rebel economy faith sorry isolate forest useful list";

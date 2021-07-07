@@ -1,1 +1,1 @@
-var mnemonic = "clarify cradle north smart tone genuine soldier topic beyond make cricket auto";
+var mnemonic = "twelve spy special pencil broom adjust rent flag tiny canal two task";

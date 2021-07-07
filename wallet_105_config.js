@@ -1,1 +1,1 @@
-var mnemonic = "draft social diary excess immense hold cancel ghost protect answer rubber breeze";
+var mnemonic = "write bag gallery area student impose artefact nature unaware entire breeze mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "employ faith ketchup hip minimum fragile hundred finish exotic produce lemon tip";
+var mnemonic = "toss prison mad nurse trend bitter check eye father cherry summer desert";

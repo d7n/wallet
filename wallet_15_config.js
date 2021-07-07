@@ -1,1 +1,1 @@
-var mnemonic = "primary vivid lizard deputy swim circle culture dust theme cannon upset ostrich";
+var mnemonic = "spin clog imitate stool fan vibrant habit lucky disagree soda hurt clump";

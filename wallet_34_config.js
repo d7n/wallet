@@ -1,1 +1,1 @@
-var mnemonic = "winter vibrant depart wrap child thank tattoo display card flame talent smile";
+var mnemonic = "salmon fee beef cry head utility inner cattle skull list human inside";

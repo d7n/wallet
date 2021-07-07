@@ -1,1 +1,1 @@
-var mnemonic = "weapon critic bracket exotic guess engine endorse prison scrap another uncover copy";
+var mnemonic = "cancel gown goose soft lucky easy vacant forget genre width erase secret";

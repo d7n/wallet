@@ -1,1 +1,1 @@
-var mnemonic = "minimum hedgehog neither that actress boat famous client wreck tissue loop use";
+var mnemonic = "elegant cable fiscal start humble boat genre protect news this stem correct";

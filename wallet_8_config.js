@@ -1,1 +1,1 @@
-var mnemonic = "decide mechanic wasp curve virus tent spoil cat energy risk total upgrade";
+var mnemonic = "envelope borrow word fringe chat obtain adjust copy business knock coral jungle";

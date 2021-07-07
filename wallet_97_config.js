@@ -1,1 +1,1 @@
-var mnemonic = "dish drill neck hill hip assist receive twist match gallery dog draft";
+var mnemonic = "ostrich caught despair jar board broom empower trumpet pair that negative cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict despair agent service orchard silent dust network blade move demise ahead";
+var mnemonic = "announce curtain copper easy depart flock curtain rice master topic hero ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "client sun hello apart crisp reason hope month fit noble solution clever";
+var mnemonic = "feel poverty design tape whale enable bronze yellow bounce flag sword dove";

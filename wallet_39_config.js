@@ -1,1 +1,1 @@
-var mnemonic = "diary mirror behave feel floor spare hotel sure crystal input size allow";
+var mnemonic = "rotate salmon install annual man organ accident message scan rely manual essence";

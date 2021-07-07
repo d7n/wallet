@@ -1,1 +1,1 @@
-var mnemonic = "asset base embody quiz ritual caution buddy region cradle obtain perfect toilet";
+var mnemonic = "magic element puppy hazard blue match barrel asset room impact arena identify";

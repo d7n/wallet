@@ -1,1 +1,1 @@
-var mnemonic = "home rent squirrel change milk country flight damp stereo ladder cash cradle";
+var mnemonic = "famous devote poet where apple accuse belt tail invite damp thought page";

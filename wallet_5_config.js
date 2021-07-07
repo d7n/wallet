@@ -1,1 +1,1 @@
-var mnemonic = "slim window taxi omit rough code shallow machine design coil spy brief";
+var mnemonic = "chef law clarify unable ocean trick number rubber vessel truck door birth";

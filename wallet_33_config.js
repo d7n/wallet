@@ -1,1 +1,1 @@
-var mnemonic = "hero burger holiday veteran melt royal ladder advice venture merge choose kingdom";
+var mnemonic = "high emerge bench card retreat find gold sock approve bronze scare panther";

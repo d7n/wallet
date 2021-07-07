@@ -1,1 +1,1 @@
-var mnemonic = "art actor poet episode trim draft fog humble skate unhappy dose month";
+var mnemonic = "else social deliver include emotion pair cherry arrow torch slice tent fetch";

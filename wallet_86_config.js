@@ -1,1 +1,1 @@
-var mnemonic = "width style faith swear violin slender write hurry dash purpose ensure tenant";
+var mnemonic = "super food steel amazing egg chaos slush scrap pumpkin betray fatigue coil";

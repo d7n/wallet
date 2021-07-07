@@ -1,1 +1,1 @@
-var mnemonic = "hint thumb angle distance real army ginger push swarm giggle guard regret";
+var mnemonic = "position twin slender into meadow horror memory segment planet blast media end";

@@ -1,1 +1,1 @@
-var mnemonic = "range stumble cup acid suit erosion voyage prosper obtain gesture biology spice";
+var mnemonic = "cup clap example act few category better trend notable delay ancient advice";

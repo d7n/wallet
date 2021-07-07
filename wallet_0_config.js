@@ -1,1 +1,1 @@
-var mnemonic = "poem like fantasy stadium stove grid foot piano record sunset hurt identify";
+var mnemonic = "network visit baby nose fade mountain brief choose success race video since";

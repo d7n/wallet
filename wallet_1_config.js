@@ -1,1 +1,1 @@
-var mnemonic = "cup garbage more major process diamond curtain device athlete rifle hungry bone";
+var mnemonic = "method warm alone when patch success lens symptom pass suspect all special";

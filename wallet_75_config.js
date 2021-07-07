@@ -1,1 +1,1 @@
-var mnemonic = "silver prize ghost soldier hope thank issue proud shallow shrimp music dove";
+var mnemonic = "park typical valid entire hire bind catalog trend blossom label ocean else";

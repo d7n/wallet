@@ -1,1 +1,1 @@
-var mnemonic = "special chalk course upgrade false credit acquire album phrase promote summer slam";
+var mnemonic = "satisfy fancy husband math symptom festival affair hole journey home shrug pause";

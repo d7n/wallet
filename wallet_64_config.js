@@ -1,1 +1,1 @@
-var mnemonic = "joke demise silly salute fashion metal remind only auction nut pipe luxury";
+var mnemonic = "script peace derive matter section nothing above walk wish baby cry jelly";

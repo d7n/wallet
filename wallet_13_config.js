@@ -1,1 +1,1 @@
-var mnemonic = "add pony learn enforce result tell scan hospital skull bounce gorilla ostrich";
+var mnemonic = "street merge desert vintage dance obvious extend order leader razor sing trust";

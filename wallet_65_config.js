@@ -1,1 +1,1 @@
-var mnemonic = "police track boss endless avocado genre august achieve clever lift swallow shy";
+var mnemonic = "want panel fix frozen banner opera runway live critic bubble you mixture";

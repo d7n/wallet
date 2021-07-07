@@ -1,1 +1,1 @@
-var mnemonic = "gallery hunt panther mountain apple apart clay visa net install hood topic";
+var mnemonic = "demand grain december search advice warfare supreme slender coil organ route screen";

@@ -1,1 +1,1 @@
-var mnemonic = "shop slogan off fade double bid mixed number service scale motor brisk";
+var mnemonic = "debris thrive crowd bid replace test put rigid frown fury vote suit";

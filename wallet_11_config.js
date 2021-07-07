@@ -1,1 +1,1 @@
-var mnemonic = "tomato topple carbon wave change drill visa tribe act endless pumpkin swear";
+var mnemonic = "jazz maple gas word hidden skill blouse cage airport library silk vibrant";

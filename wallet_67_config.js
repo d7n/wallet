@@ -1,1 +1,1 @@
-var mnemonic = "advance remain tomorrow merge velvet about quiz void treat bulb sound length";
+var mnemonic = "rice crop enable syrup insane soccer example park cannon midnight wagon fold";

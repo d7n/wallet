@@ -1,1 +1,1 @@
-var mnemonic = "matrix female island attract vanish day various blossom spoon raw creek knife";
+var mnemonic = "explain kit frequent corn hero certain pill pattern need above tray shoe";

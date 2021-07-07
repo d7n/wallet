@@ -1,1 +1,1 @@
-var mnemonic = "exchange victory level renew know pepper puzzle disease silent join result wrist";
+var mnemonic = "squeeze churn chair dry pulse mind almost icon man brother wrong staff";

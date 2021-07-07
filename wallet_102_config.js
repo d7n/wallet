@@ -1,1 +1,1 @@
-var mnemonic = "icon crater fragile culture crime silent purity index winner lens party grow";
+var mnemonic = "domain holiday cricket sad silly team wish chat monkey elite art castle";

@@ -1,1 +1,1 @@
-var mnemonic = "talk volcano gate dilemma foster solid silk cram change normal camera accident";
+var mnemonic = "mirror absurd output plug march charge shove mention absent runway cactus mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "piano idle empty talent oblige label critic before awkward boil speed sugar";
+var mnemonic = "example crowd cliff power clip gym vacant indoor manage dial practice crystal";

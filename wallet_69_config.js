@@ -1,1 +1,1 @@
-var mnemonic = "feed drastic climb dose stove air wrestle fetch sample venue rely favorite";
+var mnemonic = "betray client tent pyramid sick list expand worry reason excite uncle medal";

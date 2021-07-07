@@ -1,1 +1,1 @@
-var mnemonic = "plug bar define trend dynamic nut melody ostrich gloom tip must globe";
+var mnemonic = "jeans wing stuff warrior vast reopen glove album pause grow inhale spice";

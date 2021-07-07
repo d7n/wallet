@@ -1,1 +1,1 @@
-var mnemonic = "version fire monkey leave humble faculty valid like gate door moon silly";
+var mnemonic = "engage obscure tell close history region tuition jacket auto mail acquire ozone";

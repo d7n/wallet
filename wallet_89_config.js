@@ -1,1 +1,1 @@
-var mnemonic = "punch cinnamon risk rate bleak birth unknown transfer damage ancient finish clever";
+var mnemonic = "stairs author leaf method banner nut bubble wrestle thank stomach stone crop";

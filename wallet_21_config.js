@@ -1,1 +1,1 @@
-var mnemonic = "hamster burst plastic sweet vendor fantasy badge attract add matrix toddler that";
+var mnemonic = "undo finger panel ship permit manual relief sniff honey drip laptop nephew";

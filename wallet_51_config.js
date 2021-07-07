@@ -1,1 +1,1 @@
-var mnemonic = "crucial adult layer dismiss battle economy type below hover frozen clerk sting";
+var mnemonic = "spray vote fiscal rescue still zoo couple dose clip execute winner ask";

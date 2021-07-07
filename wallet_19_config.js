@@ -1,1 +1,1 @@
-var mnemonic = "ignore exile wire dress income loop auto tell divorce wool fog act";
+var mnemonic = "wink rigid acquire lava bottom resemble next script host hybrid blur knee";
