@@ -1,1 +1,1 @@
-var mnemonic = "crouch vacuum skill width rough catch else country affair panel middle bachelor";
+var mnemonic = "vicious laundry curtain battle curtain round process pledge armed enhance long fox";

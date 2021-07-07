@@ -1,1 +1,1 @@
-var mnemonic = "assume step company syrup garlic boost two what time width brief apple";
+var mnemonic = "gym swear rebel safe mystery rebuild horror asset what broom salad update";

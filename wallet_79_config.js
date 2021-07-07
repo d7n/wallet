@@ -1,1 +1,1 @@
-var mnemonic = "actual multiply promote clever moon barrel acquire scheme unfair west valve sound";
+var mnemonic = "apart proud renew master vessel win waste fade month diagram poverty enact";

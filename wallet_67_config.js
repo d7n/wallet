@@ -1,1 +1,1 @@
-var mnemonic = "orphan parrot mandate lounge display quote prison hedgehog ignore car hotel drink";
+var mnemonic = "lava joy forward flee appear galaxy drastic nominee merry label reveal trouble";

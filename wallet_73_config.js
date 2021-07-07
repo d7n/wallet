@@ -1,1 +1,1 @@
-var mnemonic = "salmon guide find album enter reunion midnight grunt august pelican sheriff around";
+var mnemonic = "brass lawsuit shiver try display soul voice fire vehicle approve wink decade";

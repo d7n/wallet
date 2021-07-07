@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow hope drum run found alter there narrow humor photo funny grape";
+var mnemonic = "shove engage elite flip ugly combine model fan dove venue capable answer";

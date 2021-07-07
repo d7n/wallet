@@ -1,1 +1,1 @@
-var mnemonic = "twice guitar blind brave hour explain portion meat attitude cotton brain jacket";
+var mnemonic = "flag bullet myth people scrub heavy funny avocado cloud snow topic eight";

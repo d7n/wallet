@@ -1,1 +1,1 @@
-var mnemonic = "moon letter empower outdoor age stone taxi shy normal decide silk afraid";
+var mnemonic = "east cruel gravity swift rose notable inner arrest mule path kitten retreat";

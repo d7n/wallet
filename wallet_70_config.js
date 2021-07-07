@@ -1,1 +1,1 @@
-var mnemonic = "grain alpha mimic license amused flat ethics half slide quiz speed birth";
+var mnemonic = "keep bonus unfold city winner provide tell drip hand miss armed gasp";

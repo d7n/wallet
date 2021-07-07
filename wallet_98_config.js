@@ -1,1 +1,1 @@
-var mnemonic = "dance mom breeze wrap toe era zoo absent response wrestle issue enrich";
+var mnemonic = "weird card auto push merge mother print blast doctor pattern toss dice";

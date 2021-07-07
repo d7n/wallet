@@ -1,1 +1,1 @@
-var mnemonic = "human exchange office october execute have hair glove pause window expire party";
+var mnemonic = "spare hello dizzy innocent lecture scorpion type access glow peasant business merry";

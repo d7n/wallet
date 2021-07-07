@@ -1,1 +1,1 @@
-var mnemonic = "excess earn scheme quarter course depend door network chuckle believe quantum gain";
+var mnemonic = "report lucky muffin oppose economy grief flee congress base until secret share";

@@ -1,1 +1,1 @@
-var mnemonic = "soul erosion green another firm bracket history still buzz cup forget gate";
+var mnemonic = "space shell arrest artist clutch tail flock tape nurse bless cake enact";

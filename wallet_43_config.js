@@ -1,1 +1,1 @@
-var mnemonic = "crime surface genuine earth echo buddy deal narrow danger fatal file poverty";
+var mnemonic = "era fashion hire cancel clip host aisle grow ribbon sword deposit whale";

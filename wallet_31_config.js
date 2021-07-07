@@ -1,1 +1,1 @@
-var mnemonic = "trip walnut bus sword utility rice figure summer bread sting someone pear";
+var mnemonic = "better nuclear glue wagon sunny permit engine prepare moment expire audit shoulder";

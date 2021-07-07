@@ -1,1 +1,1 @@
-var mnemonic = "age domain orchard cart engine rate silk brush scrap oval unaware sibling";
+var mnemonic = "open special small rural settle borrow two tornado clay advice enact monster";

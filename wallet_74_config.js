@@ -1,1 +1,1 @@
-var mnemonic = "chair bottom dirt marine little extend struggle file bottom upper eight parade";
+var mnemonic = "possible cry crunch fashion ticket cave pulp buyer often digital easily minute";

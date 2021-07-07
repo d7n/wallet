@@ -1,1 +1,1 @@
-var mnemonic = "matter champion label body robust alert chicken believe trial yellow adapt lounge";
+var mnemonic = "enter debris ivory alien violin hurt foam inherit course tongue seat fetch";

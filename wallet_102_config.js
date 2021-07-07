@@ -1,1 +1,1 @@
-var mnemonic = "glimpse umbrella drink devote kiss minor flock spirit canyon behind help hidden";
+var mnemonic = "token stick vivid garden push truly random hero umbrella exact horn cart";

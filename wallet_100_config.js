@@ -1,1 +1,1 @@
-var mnemonic = "lens note such spray fever crane obvious main doctor attack rigid salad";
+var mnemonic = "horse already palace chalk boost tide pizza scare recipe evoke flight mention";

@@ -1,1 +1,1 @@
-var mnemonic = "mind either disagree because slice imitate real buzz salt awake minute sand";
+var mnemonic = "same force excuse dumb deputy lumber sudden assume range review noble above";

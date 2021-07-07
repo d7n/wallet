@@ -1,1 +1,1 @@
-var mnemonic = "devote light door pledge pottery virtual victory country potato ring system rude";
+var mnemonic = "opera seed habit chronic amateur rebuild rhythm way force tongue fork emotion";

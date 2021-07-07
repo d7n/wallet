@@ -1,1 +1,1 @@
-var mnemonic = "antique equal piano kit laundry obtain twin genius choice banner bag group";
+var mnemonic = "attack frown fame soul system cluster illegal sound grief pluck differ pig";

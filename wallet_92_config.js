@@ -1,1 +1,1 @@
-var mnemonic = "work vocal wedding you cake omit dignity clever rail dash lake month";
+var mnemonic = "rich army cupboard chase calm major large letter account when between faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "outside game video coyote lunch repeat annual caution right lizard put intact";
+var mnemonic = "note blame volcano soda enforce relief pole garden into report visa rain";

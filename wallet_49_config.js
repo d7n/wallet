@@ -1,1 +1,1 @@
-var mnemonic = "truly seven arm team primary monitor ride casino warm aware brief fit";
+var mnemonic = "veteran artefact scale warm across token gold hero young volume phrase salon";

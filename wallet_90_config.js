@@ -1,1 +1,1 @@
-var mnemonic = "pitch cup between walnut merit juice park matter story oven ankle rib";
+var mnemonic = "portion great main forget theme snap mask fabric expire more hurry welcome";

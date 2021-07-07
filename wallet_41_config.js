@@ -1,1 +1,1 @@
-var mnemonic = "cattle fossil theme lunar enlist echo dinosaur gain state wear exist agent";
+var mnemonic = "hero power claim kick steak bargain brand hurry galaxy orphan illness damp";

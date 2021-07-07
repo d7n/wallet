@@ -1,1 +1,1 @@
-var mnemonic = "during same limb answer baby erosion december picture nation castle hurdle fire";
+var mnemonic = "immune garage sorry swarm drastic leisure wood castle inhale basic blast lock";

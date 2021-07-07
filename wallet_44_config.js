@@ -1,1 +1,1 @@
-var mnemonic = "wolf unhappy unable hamster tenant icon catch end file near where embrace";
+var mnemonic = "stick silk chapter senior woman neck blade midnight trial employ upon woman";

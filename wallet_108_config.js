@@ -1,1 +1,1 @@
-var mnemonic = "cup rice utility rice spring subway melt beyond carry moon index misery";
+var mnemonic = "potato tomato item ill lock sock drum firm vital brother sugar abuse";

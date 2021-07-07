@@ -1,1 +1,1 @@
-var mnemonic = "guilt immense drift caution cart small teach excess clinic right art divorce";
+var mnemonic = "demise ivory limit truck enlist crumble viable omit subject cliff act false";

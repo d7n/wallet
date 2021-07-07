@@ -1,1 +1,1 @@
-var mnemonic = "gesture hole employ lounge delay coil close obtain enact truth keep grain";
+var mnemonic = "abandon convince kick harsh expire rookie leaf shrug shed baby knife bone";

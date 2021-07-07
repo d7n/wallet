@@ -1,1 +1,1 @@
-var mnemonic = "give pizza also board illegal twenty speed inner cinnamon decorate crumble eyebrow";
+var mnemonic = "pulp hidden quick ten when claw marriage drip clerk parrot tobacco sort";

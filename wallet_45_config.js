@@ -1,1 +1,1 @@
-var mnemonic = "security retire detail celery planet guard stamp pelican identify you firm antenna";
+var mnemonic = "canal loop blue camp change bleak there mixed bless cat eyebrow escape";

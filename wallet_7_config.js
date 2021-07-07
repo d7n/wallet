@@ -1,1 +1,1 @@
-var mnemonic = "cry ripple aim bunker famous evoke year cat mushroom inflict solar again";
+var mnemonic = "hour bounce ginger cannon useless attend sea plate fan slab base glow";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn trial mule join chunk unfold scheme kind ticket ready divide visit";
+var mnemonic = "cheese rally general planet green among list nephew around zero artefact basic";

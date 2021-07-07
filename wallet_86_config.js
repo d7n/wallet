@@ -1,1 +1,1 @@
-var mnemonic = "slice axis bargain try hub black train reduce catalog guide lake always";
+var mnemonic = "left seminar unique sniff cannon hawk intact knock proud maze thunder actress";

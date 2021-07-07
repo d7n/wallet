@@ -1,1 +1,1 @@
-var mnemonic = "staff spawn wrestle title swear deal immune oyster spawn spin silk duty";
+var mnemonic = "misery wedding wool vessel afraid lens cousin filter link skirt erase detect";

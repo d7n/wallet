@@ -1,1 +1,1 @@
-var mnemonic = "auction orphan ten opinion drop property antenna crucial cake torch burst pact";
+var mnemonic = "target horn deal teach east report half coach mother kit inflict exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "debate order crime vault prepare saddle embark eternal detail emotion direct spread";
+var mnemonic = "van luxury ask soon sick window work sort season range amount nation";

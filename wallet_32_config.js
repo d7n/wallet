@@ -1,1 +1,1 @@
-var mnemonic = "neutral derive scale blue entry library awesome rule among sound vapor genre";
+var mnemonic = "satisfy cactus bring jewel jacket public camp fish leg typical fluid base";

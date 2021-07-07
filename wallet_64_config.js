@@ -1,1 +1,1 @@
-var mnemonic = "garlic build harsh carbon fan fitness catch warrior fix hood cereal square";
+var mnemonic = "raise sniff position erase arrange dream coin rookie muscle kiwi naive shift";

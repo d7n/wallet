@@ -1,1 +1,1 @@
-var mnemonic = "insane glad target useless post gas rebuild ripple creek garment advance shadow";
+var mnemonic = "ancient truth trim alter bundle fence note glove velvet file lake wine";

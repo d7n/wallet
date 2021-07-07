@@ -1,1 +1,1 @@
-var mnemonic = "pelican merry shaft term spray fold defense squirrel nice practice elevator plastic";
+var mnemonic = "myself catch online rebel artefact feature gym ask fat pulp avocado wave";

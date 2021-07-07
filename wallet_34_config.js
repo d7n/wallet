@@ -1,1 +1,1 @@
-var mnemonic = "jacket primary smoke remove tiger balance group control razor skull camera cradle";
+var mnemonic = "image sphere giraffe ankle future shaft liar click correct unfair note vivid";

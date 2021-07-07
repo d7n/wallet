@@ -1,1 +1,1 @@
-var mnemonic = "tip random sting crack flavor despair fish hair invest bike tuna salute";
+var mnemonic = "spray cactus hurry away black code lava nerve reason list fly sunny";

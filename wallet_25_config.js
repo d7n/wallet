@@ -1,1 +1,1 @@
-var mnemonic = "turtle dirt display nuclear spike candy web guide circle isolate buyer close";
+var mnemonic = "pudding quarter harsh problem smile remind month monster similar blame purpose baby";

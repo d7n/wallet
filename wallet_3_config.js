@@ -1,1 +1,1 @@
-var mnemonic = "edit slogan people cannon rigid fantasy admit animal domain hammer wrong estate";
+var mnemonic = "image upset table minute august actor short oval lesson hungry gas truly";

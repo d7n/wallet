@@ -1,1 +1,1 @@
-var mnemonic = "kiwi that robot future review jaguar rely under crouch cruise struggle all";
+var mnemonic = "decade sweet rabbit same side cotton live mistake leg tunnel cancel orange";

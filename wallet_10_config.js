@@ -1,1 +1,1 @@
-var mnemonic = "budget sorry kitchen flag hospital hold hidden vendor vehicle monkey camp noble";
+var mnemonic = "subject magnet solve common square unlock team airport cricket option venture pencil";

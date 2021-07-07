@@ -1,1 +1,1 @@
-var mnemonic = "open ordinary blood bonus sea custom grief village document caution evidence thing";
+var mnemonic = "include enhance crowd guess senior sun wagon pluck must giraffe recipe alert";

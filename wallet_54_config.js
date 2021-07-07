@@ -1,1 +1,1 @@
-var mnemonic = "climb van prosper smoke hockey produce stamp craft celery exclude message parade";
+var mnemonic = "render mandate menu depend police lend domain decorate blade tourist absorb twelve";

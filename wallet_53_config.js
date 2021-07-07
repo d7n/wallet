@@ -1,1 +1,1 @@
-var mnemonic = "ring afraid armed track horse diary fashion dial copper feature crane police";
+var mnemonic = "trend bar blouse term conduct try material indicate cigar negative defy inner";

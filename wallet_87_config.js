@@ -1,1 +1,1 @@
-var mnemonic = "resist aware fruit push ivory river mutual tomorrow fence expect dance spy";
+var mnemonic = "advice wire unhappy trust fringe slush plastic east steel clap place initial";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit screen eternal use session curve chest segment risk nominee cave now";
+var mnemonic = "around slide vendor square rifle live impulse scrap cash fire want always";

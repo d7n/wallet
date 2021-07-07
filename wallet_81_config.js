@@ -1,1 +1,1 @@
-var mnemonic = "receive aware cross lab tip marble crew film settle deposit strike nut";
+var mnemonic = "teach belt chicken when polar doctor endless champion canvas man pipe organ";

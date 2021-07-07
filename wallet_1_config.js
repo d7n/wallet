@@ -1,1 +1,1 @@
-var mnemonic = "also deny ecology present maple breeze mango object bomb vocal tiger good";
+var mnemonic = "hybrid stuff ketchup weather buddy motor seek album expand bracket coyote milk";

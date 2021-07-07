@@ -1,1 +1,1 @@
-var mnemonic = "into leisure eyebrow bid taste mansion dizzy purity capable refuse topple usage";
+var mnemonic = "audit dynamic curtain vote arrest able toilet fatigue report silver august cousin";

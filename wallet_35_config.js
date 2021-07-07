@@ -1,1 +1,1 @@
-var mnemonic = "clown clip recall wreck trumpet corn trend portion modify fresh enemy stem";
+var mnemonic = "adjust mean repeat crisp cross fatal dust review alley just observe hair";

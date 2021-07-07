@@ -1,1 +1,1 @@
-var mnemonic = "salute decline guitar panic network maximum clip slogan tube advance doctor deal";
+var mnemonic = "captain jeans atom place marine skin drop cram hamster ancient fog weather";

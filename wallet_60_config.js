@@ -1,1 +1,1 @@
-var mnemonic = "current hollow all gentle advice drastic front survey put extend tonight blade";
+var mnemonic = "place wrist manual crush age gas shrug rookie produce uncover skull pattern";

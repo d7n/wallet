@@ -1,1 +1,1 @@
-var mnemonic = "horn forum dawn render suggest ladder surface model cabbage float cradle bar";
+var mnemonic = "among sell couch then trophy feel almost thunder differ plug army predict";

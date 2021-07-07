@@ -1,1 +1,1 @@
-var mnemonic = "make artist slight large smoke luggage light venue fury blue pear edge";
+var mnemonic = "hotel zoo collect fatigue quantum segment tray hair fog mind frequent insect";

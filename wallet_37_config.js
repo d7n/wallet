@@ -1,1 +1,1 @@
-var mnemonic = "half element foster patch thrive drip dog damage first traffic multiply member";
+var mnemonic = "burst shadow fan awesome base cargo jazz virtual pencil balance key mandate";

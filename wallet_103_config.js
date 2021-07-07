@@ -1,1 +1,1 @@
-var mnemonic = "core source tackle spell build pipe smooth penalty derive space hollow hawk";
+var mnemonic = "typical catalog pulp soup call common post also once sword promote notable";

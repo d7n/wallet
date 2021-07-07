@@ -1,1 +1,1 @@
-var mnemonic = "bird adjust deputy goddess wasp truth flee item response athlete local exclude";
+var mnemonic = "anger shallow theory drum motion measure enjoy cycle sense pill dinosaur sign";

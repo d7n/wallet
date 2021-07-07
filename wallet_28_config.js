@@ -1,1 +1,1 @@
-var mnemonic = "tail bargain leisure sand exist miss cinnamon rich sun polar drama tuition";
+var mnemonic = "cruise derive angry weapon glimpse erupt tail between amount relax diet slush";

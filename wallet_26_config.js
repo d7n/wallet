@@ -1,1 +1,1 @@
-var mnemonic = "route roof unveil write daring mosquito hat denial home cake budget casual";
+var mnemonic = "tuna clever tide crop gown illegal runway filter wolf scrap van nation";

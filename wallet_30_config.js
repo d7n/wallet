@@ -1,1 +1,1 @@
-var mnemonic = "vacant orient high tuna gain harbor clown want donor dragon renew text";
+var mnemonic = "seek only menu patient unable again typical mobile memory sick fitness cruise";

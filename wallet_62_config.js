@@ -1,1 +1,1 @@
-var mnemonic = "office rude merge visa squirrel couple man fruit december doll sign ask";
+var mnemonic = "south burst tragic jar defense shock detect iron cricket ethics parrot work";

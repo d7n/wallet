@@ -1,1 +1,1 @@
-var mnemonic = "warrior radio believe merge banana display crop insect fork jaguar identify width";
+var mnemonic = "boring unhappy burden gasp turtle tilt rotate canyon stove sing salon about";

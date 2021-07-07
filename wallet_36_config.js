@@ -1,1 +1,1 @@
-var mnemonic = "rabbit cause advice clay update scare enforce excuse buzz define salute shoe";
+var mnemonic = "village step medal tank machine myth doctor various dance else toddler like";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet enact minute asthma sketch weekend resist brown scale crazy art furnace";
+var mnemonic = "able brief cruise blood account leave acid robust wink build then bone";

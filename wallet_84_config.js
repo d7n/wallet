@@ -1,1 +1,1 @@
-var mnemonic = "visa deliver law solid arm staff tone yellow knee sick bring shock";
+var mnemonic = "warfare unfair wrap speak champion news issue into benefit unable dilemma arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "divide trick cactus foot undo artwork parade enhance glory embrace camera enable";
+var mnemonic = "youth endorse have border stage brass razor garden rabbit dove present blade";

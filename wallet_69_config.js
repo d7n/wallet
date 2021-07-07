@@ -1,1 +1,1 @@
-var mnemonic = "nest near mosquito kit monster steel kitten stand cool super icon bless";
+var mnemonic = "cheese steel silent poverty outdoor shrimp promote ball jeans install hospital bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich panel miss now cloth own scheme put scrap daring onion index";
+var mnemonic = "practice danger hover display modify stairs marriage lady agree yard later magic";

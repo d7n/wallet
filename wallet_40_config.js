@@ -1,1 +1,1 @@
-var mnemonic = "power now novel loud better unveil jazz churn long burden menu velvet";
+var mnemonic = "pink supply dust rich hurt stage team agree broom acid pepper oyster";

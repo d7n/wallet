@@ -1,1 +1,1 @@
-var mnemonic = "allow menu salon maid width faculty people industry ticket replace patrol rail";
+var mnemonic = "drastic actress summer neglect steak window salmon humble fat coyote modify parent";

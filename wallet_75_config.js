@@ -1,1 +1,1 @@
-var mnemonic = "cover isolate place ocean dirt more address quick scare sudden brisk journey";
+var mnemonic = "beach write motor furnace weird vault alter omit occur census sugar dance";

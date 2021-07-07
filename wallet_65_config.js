@@ -1,1 +1,1 @@
-var mnemonic = "shy frame bid this pupil borrow refuse heart law bleak ten clump";
+var mnemonic = "cheese deny museum crime again group bundle maple glare wide horror north";

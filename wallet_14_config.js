@@ -1,1 +1,1 @@
-var mnemonic = "win gloom flee extra above scorpion powder shy bronze object bike curtain";
+var mnemonic = "torch obvious green harbor equal mosquito modify erase skin member message close";

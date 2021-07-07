@@ -1,1 +1,1 @@
-var mnemonic = "claw endorse grid enlist tank ball fiction situate dice mountain veteran once";
+var mnemonic = "flash either hurry focus category talk middle top session potato stove access";

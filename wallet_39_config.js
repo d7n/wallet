@@ -1,1 +1,1 @@
-var mnemonic = "major tumble few bulk turn artwork double lab eager bronze brass gain";
+var mnemonic = "cabbage village fit twice people tilt fragile cluster pioneer color question orange";

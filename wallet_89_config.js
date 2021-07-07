@@ -1,1 +1,1 @@
-var mnemonic = "pave group crystal foot time wrist bring best ship pigeon square beef";
+var mnemonic = "subway cup viable inmate vendor stock whip february bind valve metal enter";

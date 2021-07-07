@@ -1,1 +1,1 @@
-var mnemonic = "repeat parade can dish poem panda found scout among dinner opinion marine";
+var mnemonic = "calm purpose decide faculty retreat rubber solution evidence element claim seminar actual";

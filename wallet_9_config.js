@@ -1,1 +1,1 @@
-var mnemonic = "cloud check deputy pause clock wrist upper inner else drill market swallow";
+var mnemonic = "just true maple merry mouse idea avoid size dust tired clean soul";

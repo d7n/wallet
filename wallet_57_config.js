@@ -1,1 +1,1 @@
-var mnemonic = "wolf spawn angle jar mule amazing access also fox color pottery extend";
+var mnemonic = "power broccoli dirt salt enlist arrow jeans box add fiscal attend hundred";

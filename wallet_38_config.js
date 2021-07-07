@@ -1,1 +1,1 @@
-var mnemonic = "opera element gesture total rifle pig rather joke order race reveal have";
+var mnemonic = "price tuna veteran drop people neutral release loop raven middle fly box";
