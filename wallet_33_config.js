@@ -1,1 +1,1 @@
-var mnemonic = "chunk empower rose gas perfect action drastic penalty summer west type diagram";
+var mnemonic = "slot recall orbit key copper embrace vapor panther increase coil release vocal";

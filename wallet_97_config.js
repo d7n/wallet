@@ -1,1 +1,1 @@
-var mnemonic = "skin bright jacket clinic hunt tonight second trip world girl process myth";
+var mnemonic = "return food turtle inherit move task moment ethics explain olympic render shift";

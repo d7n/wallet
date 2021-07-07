@@ -1,1 +1,1 @@
-var mnemonic = "rule version render blind danger beauty virus decide dance party enrich scare";
+var mnemonic = "float fox stumble client manual segment budget coast neutral thumb horn cost";

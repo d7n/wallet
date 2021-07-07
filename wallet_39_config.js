@@ -1,1 +1,1 @@
-var mnemonic = "path cliff shine laundry rabbit frost harsh hand cherry daughter chest notice";
+var mnemonic = "bean gown glory ramp damp cute pig scheme because kind pledge bring";

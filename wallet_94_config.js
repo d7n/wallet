@@ -1,1 +1,1 @@
-var mnemonic = "save text hen pig item suit return essay squirrel clown jewel movie";
+var mnemonic = "stuff noise short slight quality copper puzzle receive move razor alert degree";

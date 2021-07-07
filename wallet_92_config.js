@@ -1,1 +1,1 @@
-var mnemonic = "hammer fashion settle total evolve review pact often enter group fall wolf";
+var mnemonic = "buyer lounge rule thrive harsh wreck network wonder rifle possible safe gloom";

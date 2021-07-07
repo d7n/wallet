@@ -1,1 +1,1 @@
-var mnemonic = "skin wealth expect interest spoon rug true kitten super rival forum orphan";
+var mnemonic = "oak taste use winner snake equip miss enter divert mango viable crash";

@@ -1,1 +1,1 @@
-var mnemonic = "demand extend cool reward move perfect fantasy quality spirit impose cabbage lumber";
+var mnemonic = "crawl sponsor armed lava motor moment inquiry shadow lava van flavor old";

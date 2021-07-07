@@ -1,1 +1,1 @@
-var mnemonic = "trade drift current because smooth equip barrel dust fit shed leg excess";
+var mnemonic = "whale bless surge discover black bid exclude opera orphan drill unlock kit";

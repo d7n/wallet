@@ -1,1 +1,1 @@
-var mnemonic = "steel awkward choose hill slight fiber capable badge island fresh hundred aim";
+var mnemonic = "bundle used clog pipe jump stone welcome notice logic iron swear hollow";

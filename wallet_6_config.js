@@ -1,1 +1,1 @@
-var mnemonic = "erupt game only arch false rookie mosquito vintage math ball lesson argue";
+var mnemonic = "truck defy ordinary harsh fine project uncover today budget point butter reason";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant survey pet viable best source liquid pattern gown apology island prefer";
+var mnemonic = "embody coral develop cake again still kitchen analyst awful round crawl custom";

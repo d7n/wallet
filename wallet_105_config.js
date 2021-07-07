@@ -1,1 +1,1 @@
-var mnemonic = "outside sign leisure shoe crime evolve sugar hobby level prison sibling clog";
+var mnemonic = "glad blue during outside excuse fringe clever squirrel stereo planet memory lend";

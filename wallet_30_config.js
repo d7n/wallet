@@ -1,1 +1,1 @@
-var mnemonic = "mesh seminar evidence armed rebuild scheme please kick vocal gravity risk upper";
+var mnemonic = "vapor shell father boss soul skin turn borrow over escape decrease almost";

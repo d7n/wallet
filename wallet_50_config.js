@@ -1,1 +1,1 @@
-var mnemonic = "bar rather tray human decide rhythm budget unusual unveil neither coconut bind";
+var mnemonic = "fan demise opinion siren sleep input gossip pyramid enlist illegal arrive conduct";

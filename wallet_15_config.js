@@ -1,1 +1,1 @@
-var mnemonic = "drink sport often planet stone orphan refuse able tuition myth grit success";
+var mnemonic = "boring young ride impact dream popular skill replace shallow medal invite awful";

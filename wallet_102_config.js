@@ -1,1 +1,1 @@
-var mnemonic = "pipe thrive average narrow grunt prefer narrow drop assist push sick hammer";
+var mnemonic = "day monkey pole auction people fuel moment law mercy weird roof beef";

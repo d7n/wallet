@@ -1,1 +1,1 @@
-var mnemonic = "trend climb office glimpse mango fabric typical alert mirror warm tent inspire";
+var mnemonic = "winter couple spare someone nest metal shadow lucky coach heavy book about";

@@ -1,1 +1,1 @@
-var mnemonic = "response pair wink scatter try setup silk hunt depart smooth month success";
+var mnemonic = "crystal vanish swarm trumpet wait dentist thunder derive team ridge visit lend";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken mother garlic couch crazy inmate settle park vital stock rule follow";
+var mnemonic = "giggle tribe drum crumble power exotic inquiry van thank flavor swear infant";

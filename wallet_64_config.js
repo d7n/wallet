@@ -1,1 +1,1 @@
-var mnemonic = "old merge reason main consider leg regret weapon labor draft abandon motion";
+var mnemonic = "doctor gossip rebuild antique defense decorate quiz between universe oppose dream drift";

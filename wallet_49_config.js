@@ -1,1 +1,1 @@
-var mnemonic = "truck abstract coyote coin proof mouse afraid cup plug bright edit sword";
+var mnemonic = "scout physical blur meat salad sponsor pledge mix fluid join fault bind";

@@ -1,1 +1,1 @@
-var mnemonic = "busy cinnamon basket fossil obey syrup problem valley flower slender concert avocado";
+var mnemonic = "give torch forward easily unable wolf provide measure convince employ immense letter";

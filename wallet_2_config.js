@@ -1,1 +1,1 @@
-var mnemonic = "shrimp clog child lonely water unfold echo skin home aim route similar";
+var mnemonic = "broom track estate kit double dolphin panther sense ski path various roof";

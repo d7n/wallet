@@ -1,1 +1,1 @@
-var mnemonic = "ginger unhappy slight practice exact surface crawl zero false excite wide more";
+var mnemonic = "great lyrics hub dial forest chef elder romance laundry laptop truth butter";

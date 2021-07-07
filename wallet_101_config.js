@@ -1,1 +1,1 @@
-var mnemonic = "promote dose summer pig milk renew hip supreme combine fantasy fresh salad";
+var mnemonic = "will away scorpion silver fiscal educate surge bullet clarify there service input";

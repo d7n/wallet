@@ -1,1 +1,1 @@
-var mnemonic = "nation start inject fury night nest lesson draw link sentence patrol echo";
+var mnemonic = "palm enforce van reason rhythm there north dice vivid rack prevent cross";

@@ -1,1 +1,1 @@
-var mnemonic = "capable twenty mule chimney hybrid galaxy use snake clutch hair fire theme";
+var mnemonic = "puppy fringe dirt topple dizzy avoid recall noise crew flat prize law";

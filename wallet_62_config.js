@@ -1,1 +1,1 @@
-var mnemonic = "chat omit today flush access mistake state unable hope damage oxygen grab";
+var mnemonic = "month object venture ride speak brick entire album city paddle churn tattoo";

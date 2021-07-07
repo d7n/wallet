@@ -1,1 +1,1 @@
-var mnemonic = "clap insane grief rain swing liar globe twelve shine learn tiger item";
+var mnemonic = "learn sugar injury dream skull festival ankle friend open spot appear report";

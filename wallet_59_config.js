@@ -1,1 +1,1 @@
-var mnemonic = "modify limb album among stamp rotate outer body task city sense arrive";
+var mnemonic = "advice flip slush seminar loop august belt please eagle latin venue struggle";

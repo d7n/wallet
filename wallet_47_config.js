@@ -1,1 +1,1 @@
-var mnemonic = "define tongue clump crop garbage multiply peace royal jazz isolate exile relax";
+var mnemonic = "upgrade pool case debate moment mechanic motor virus grocery reflect provide orient";

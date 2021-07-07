@@ -1,1 +1,1 @@
-var mnemonic = "guide stage bar love unaware mother gate use shove unlock ignore fiscal";
+var mnemonic = "social crunch effort child perfect poem key swift sound drip finger drive";

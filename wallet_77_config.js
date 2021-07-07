@@ -1,1 +1,1 @@
-var mnemonic = "vintage oval champion network degree wrong twist reform deny outdoor acid code";
+var mnemonic = "burden pencil fantasy orange cook fee tell one envelope honey movie couch";

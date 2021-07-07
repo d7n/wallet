@@ -1,1 +1,1 @@
-var mnemonic = "burst child demise toddler subway dolphin place lottery churn magic announce waste";
+var mnemonic = "laugh agent clump memory order clarify drum diamond viable scissors mask zebra";

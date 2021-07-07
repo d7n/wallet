@@ -1,1 +1,1 @@
-var mnemonic = "pizza stamp enroll inform start train envelope soda dose canvas bike mandate";
+var mnemonic = "spin uncle level time illness doctor federal enter priority menu bachelor swallow";

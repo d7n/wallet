@@ -1,1 +1,1 @@
-var mnemonic = "labor acoustic february sand extend skill advance teach refuse scrap couple surround";
+var mnemonic = "lake dwarf reveal turtle dilemma wine chase evil start flight middle satisfy";

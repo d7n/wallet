@@ -1,1 +1,1 @@
-var mnemonic = "fan destroy world kit clip route crater armor pulp trash special fee";
+var mnemonic = "scene water feel forward hold present captain buzz number noodle mountain fuel";

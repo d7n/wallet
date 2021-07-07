@@ -1,1 +1,1 @@
-var mnemonic = "medal match dismiss receive cherry cook era fire machine gallery hire alcohol";
+var mnemonic = "enter wire erosion juice obtain begin member traffic carbon boss room alert";

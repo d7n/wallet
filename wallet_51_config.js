@@ -1,1 +1,1 @@
-var mnemonic = "atom vendor notice range apple claim lyrics dynamic venture element urban phrase";
+var mnemonic = "chaos again oven apple donate opinion hockey earth speed wheel rapid base";

@@ -1,1 +1,1 @@
-var mnemonic = "enough steel wrist sight material hotel coil lounge middle cinnamon ghost jewel";
+var mnemonic = "spice veteran acoustic destroy warfare husband subject fruit cattle lecture clump mimic";

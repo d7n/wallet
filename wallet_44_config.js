@@ -1,1 +1,1 @@
-var mnemonic = "alpha initial sing october sand lesson basket anchor proof muscle spare reunion";
+var mnemonic = "assist eight cat run plate acoustic rose corn board play street pride";

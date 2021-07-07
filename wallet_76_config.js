@@ -1,1 +1,1 @@
-var mnemonic = "consider rib intact steak coin pencil tribe dove arrange plunge laptop wheat";
+var mnemonic = "diesel notice inform inmate toy ready oyster trophy ready pretty evil book";

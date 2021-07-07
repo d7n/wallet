@@ -1,1 +1,1 @@
-var mnemonic = "rice clarify tower try belt disorder ensure small rotate embrace camera globe";
+var mnemonic = "arctic north giant silent hold cloud round sell kick rural latin keen";

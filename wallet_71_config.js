@@ -1,1 +1,1 @@
-var mnemonic = "crash item achieve inch giggle vapor thing invest transfer escape rhythm sustain";
+var mnemonic = "discover picnic property merit ghost stairs sorry hip sense stick trick shiver";

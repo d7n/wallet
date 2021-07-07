@@ -1,1 +1,1 @@
-var mnemonic = "strike spin movie kiwi fame wrestle rail royal satisfy razor motion basic";
+var mnemonic = "civil pitch plunge cliff old utility link edge world glance direct door";

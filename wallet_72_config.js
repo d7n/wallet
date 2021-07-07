@@ -1,1 +1,1 @@
-var mnemonic = "income bench pass buzz civil swarm envelope language target will tuition fork";
+var mnemonic = "wrong tunnel orbit pizza senior puzzle lyrics decide lava rug diamond strong";

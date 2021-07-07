@@ -1,1 +1,1 @@
-var mnemonic = "quarter mention satisfy mutual unfold tooth pigeon move write toddler apology logic";
+var mnemonic = "room gloom diet increase organ pulp crystal garden pause bird detail fragile";

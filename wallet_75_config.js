@@ -1,1 +1,1 @@
-var mnemonic = "milk abuse forward expose column behave lab hurdle bench notice kitten swear";
+var mnemonic = "bacon tribe metal emerge crumble rally dog engage treat exclude will hammer";

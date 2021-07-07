@@ -1,1 +1,1 @@
-var mnemonic = "curtain super table school blue noise relax security mercy vocal robot slim";
+var mnemonic = "energy zebra strong rubber security draft bleak panther agree van purse carry";

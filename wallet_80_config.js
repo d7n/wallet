@@ -1,1 +1,1 @@
-var mnemonic = "stairs laugh harvest congress around conduct subject undo mail label fiscal snow";
+var mnemonic = "require undo install ivory certain frame human antenna ginger photo law great";

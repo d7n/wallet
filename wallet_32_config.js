@@ -1,1 +1,1 @@
-var mnemonic = "ghost swim pear nurse funny spatial normal brick job pave mail release";
+var mnemonic = "sister ocean stumble hedgehog census differ letter correct message enforce present egg";

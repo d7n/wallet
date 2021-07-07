@@ -1,1 +1,1 @@
-var mnemonic = "stock battle orphan omit royal indoor wife gold nurse sure soft cloud";
+var mnemonic = "tenant angle tower trend surround day cart hill elevator answer impact donate";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble mix alpha earn find wrestle panda angle virtual despair game space";
+var mnemonic = "chuckle silver tide tip minute rookie giraffe ladder winner mosquito merit sell";

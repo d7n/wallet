@@ -1,1 +1,1 @@
-var mnemonic = "setup dinner hint flat also load will prepare world laugh wagon danger";
+var mnemonic = "winter swift rapid wolf include ancient observe entry aware among sweet lottery";

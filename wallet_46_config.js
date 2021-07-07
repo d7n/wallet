@@ -1,1 +1,1 @@
-var mnemonic = "private stomach scheme excite patient sample portion weekend dad vintage final drill";
+var mnemonic = "palace dog chalk accident unlock garment recipe source aisle equip pumpkin property";

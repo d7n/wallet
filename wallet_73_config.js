@@ -1,1 +1,1 @@
-var mnemonic = "sunset canoe rude sheriff share need spider staff shine scale home inner";
+var mnemonic = "army weird sock genre someone minor used anchor broom earth differ code";

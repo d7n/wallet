@@ -1,1 +1,1 @@
-var mnemonic = "setup slot coin immense grunt journey acoustic lens gallery during edge absorb";
+var mnemonic = "lounge club bag bullet rigid repair trophy dish sock castle basket mixed";

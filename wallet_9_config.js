@@ -1,1 +1,1 @@
-var mnemonic = "method dismiss gas note mother awkward salute kitchen spray wisdom afford million";
+var mnemonic = "rescue number knife area junior warrior soccer shiver into soldier entire duty";

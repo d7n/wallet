@@ -1,1 +1,1 @@
-var mnemonic = "smooth top robust disease crowd wine pig cricket street utility battle cupboard";
+var mnemonic = "kit sing elder hill path cushion pair either used bronze midnight judge";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown attract ethics brain taxi crystal trash cereal long glow search husband";
+var mnemonic = "glass prosper drastic outside title caught elephant face light round day room";

@@ -1,1 +1,1 @@
-var mnemonic = "mom creek local roast noble oxygen use foster search goddess season party";
+var mnemonic = "orange orphan kit trust gap dolphin rigid jump garbage eye install food";

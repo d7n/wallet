@@ -1,1 +1,1 @@
-var mnemonic = "monkey warm disorder win parade armed evoke tribe seminar panel leopard cigar";
+var mnemonic = "odor belt fit can cube harvest mother crystal reunion initial yellow theme";

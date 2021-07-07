@@ -1,1 +1,1 @@
-var mnemonic = "alcohol rebuild slim judge awkward crumble quick switch rebel chat connect gallery";
+var mnemonic = "stage strike myself industry attend kingdom label palace journey injury invite wedding";

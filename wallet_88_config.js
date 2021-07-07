@@ -1,1 +1,1 @@
-var mnemonic = "reunion table celery tiger dynamic license model equal old drip bind phrase";
+var mnemonic = "gather letter seminar pioneer maid purse dose utility rose rib kingdom inflict";

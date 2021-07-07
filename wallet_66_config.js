@@ -1,1 +1,1 @@
-var mnemonic = "hood guide attack maximum joy unusual suggest call pudding picture hour also";
+var mnemonic = "what online valley whale couch seven old drop almost cattle seed please";

@@ -1,1 +1,1 @@
-var mnemonic = "open retreat pistol duty rough gossip exotic lady rhythm mango timber nephew";
+var mnemonic = "pizza place ahead pond club fashion must garbage unaware pottery fever normal";

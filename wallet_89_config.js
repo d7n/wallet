@@ -1,1 +1,1 @@
-var mnemonic = "script sponsor correct animal plug gather flash rabbit hawk bounce acid beauty";
+var mnemonic = "parent aim easy salt hazard mystery popular river snap funny bridge meadow";

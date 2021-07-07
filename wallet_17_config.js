@@ -1,1 +1,1 @@
-var mnemonic = "fault trash phone nerve topple sudden december stable sadness stereo life virus";
+var mnemonic = "noise cousin wet fork junior disorder model wonder false pave joy erase";

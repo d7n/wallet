@@ -1,1 +1,1 @@
-var mnemonic = "tiger enroll mixed burst civil lawsuit valley vote outer month record napkin";
+var mnemonic = "alert coyote bubble link dress winter paper surface depth bring sense repair";

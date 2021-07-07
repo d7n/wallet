@@ -1,1 +1,1 @@
-var mnemonic = "other spring blade core enemy unit prize borrow regret pulp member embody";
+var mnemonic = "train title barrel ride opera parrot hidden else discover pond sure theme";

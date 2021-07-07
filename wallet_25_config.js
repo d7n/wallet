@@ -1,1 +1,1 @@
-var mnemonic = "magnet nut october dinner girl pattern child cheese deputy possible click assault";
+var mnemonic = "flame estate catch pyramid gaze cover push rude tongue diesel aerobic broom";

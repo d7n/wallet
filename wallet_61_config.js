@@ -1,1 +1,1 @@
-var mnemonic = "inform offer crawl verify where much clutch dumb orphan ivory pyramid couple";
+var mnemonic = "dinosaur once kit kitten solution multiply believe pull manage bamboo peanut exhaust";

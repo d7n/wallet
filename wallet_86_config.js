@@ -1,1 +1,1 @@
-var mnemonic = "sorry carpet crawl rival retreat remove fabric nose balcony damp spare poet";
+var mnemonic = "dose celery person visa brave calm raccoon fuel neck license radar assault";

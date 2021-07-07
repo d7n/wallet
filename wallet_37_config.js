@@ -1,1 +1,1 @@
-var mnemonic = "public system try sting speak other cause produce latin dawn situate drip";
+var mnemonic = "swim cream harsh eternal learn eager fan update shrimp exact live symbol";

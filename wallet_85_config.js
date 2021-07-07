@@ -1,1 +1,1 @@
-var mnemonic = "cement narrow race life conduct supreme autumn tired donor lion grab decline";
+var mnemonic = "gauge open fire real quantum math track buyer drop verb zoo excess";

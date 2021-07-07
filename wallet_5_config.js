@@ -1,1 +1,1 @@
-var mnemonic = "accuse settle solve behind busy chicken grace home spell glance mention gadget";
+var mnemonic = "elegant achieve conduct sugar tumble someone height cup protect fever lift fantasy";

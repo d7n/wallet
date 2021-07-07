@@ -1,1 +1,1 @@
-var mnemonic = "champion update question whisper desert seed suit loyal teach shed shift follow";
+var mnemonic = "seminar rude bean message doctor magnet century that black fossil fabric gaze";

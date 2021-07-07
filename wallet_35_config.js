@@ -1,1 +1,1 @@
-var mnemonic = "winner code swing soda hover palm inner city setup survey distance high";
+var mnemonic = "render tilt letter reform curtain accuse region eight cotton glow luggage kiss";

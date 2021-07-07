@@ -1,1 +1,1 @@
-var mnemonic = "loop benefit all join paddle purchase hammer seminar infant market tortoise season";
+var mnemonic = "host leopard bread total convince animal mask pretty amount climb meadow rifle";

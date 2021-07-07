@@ -1,1 +1,1 @@
-var mnemonic = "brain cycle tilt plate convince crop vacuum limb sport foam future fringe";
+var mnemonic = "hope bubble list trouble blouse venue want air start have tray unaware";

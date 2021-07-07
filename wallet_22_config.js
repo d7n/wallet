@@ -1,1 +1,1 @@
-var mnemonic = "jazz drill pencil amount forget fish sample apple strike surge typical below";
+var mnemonic = "omit chapter border conduct truly outside mansion pupil glimpse review lobster turkey";

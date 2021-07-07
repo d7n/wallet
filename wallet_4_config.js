@@ -1,1 +1,1 @@
-var mnemonic = "vote junior blood clay debate opera oblige unusual zone obey vocal crush";
+var mnemonic = "top half sign spirit sign wedding canyon two valid awkward across cannon";

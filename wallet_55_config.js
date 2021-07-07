@@ -1,1 +1,1 @@
-var mnemonic = "van resemble hundred vapor dream butter tank next useless kind timber steak";
+var mnemonic = "luggage control mask canvas soft update burden resist error regular chase grow";

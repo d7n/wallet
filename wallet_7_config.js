@@ -1,1 +1,1 @@
-var mnemonic = "grant earth below mechanic actual keep injury loan good auto way decade";
+var mnemonic = "east type fever verb rescue remain slight insect ball trap ripple fold";

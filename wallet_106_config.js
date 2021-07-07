@@ -1,1 +1,1 @@
-var mnemonic = "rude attitude age guess enlist debris now alien slab olympic minor noodle";
+var mnemonic = "put manual smart accuse feature vessel nephew execute rate hollow custom tide";

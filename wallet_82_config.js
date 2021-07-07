@@ -1,1 +1,1 @@
-var mnemonic = "jar deer fly entire pool drive trash custom onion legal tell famous";
+var mnemonic = "victory novel virus dry vintage mercy afraid clown unhappy craft cricket blade";

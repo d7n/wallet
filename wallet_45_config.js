@@ -1,1 +1,1 @@
-var mnemonic = "illegal aim all grocery candy whip long will lesson wood lottery live";
+var mnemonic = "burger cluster strike pond jacket inquiry muffin pelican parrot dynamic smooth vanish";

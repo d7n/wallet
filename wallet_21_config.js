@@ -1,1 +1,1 @@
-var mnemonic = "chapter favorite doll injury art section circle sight hundred debris elevator across";
+var mnemonic = "fault faculty warfare mind arctic trumpet equal upset term fashion monster first";

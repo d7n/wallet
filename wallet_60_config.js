@@ -1,1 +1,1 @@
-var mnemonic = "rhythm often tribe predict upgrade antique gentle evidence love nasty pulse march";
+var mnemonic = "zebra version february addict dutch century master seat cross soft need ensure";

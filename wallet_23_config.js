@@ -1,1 +1,1 @@
-var mnemonic = "target wheel jump stable decrease extend resemble orange fossil tumble release close";
+var mnemonic = "fat soldier van shop okay cinnamon marine relax airport adapt heavy truck";

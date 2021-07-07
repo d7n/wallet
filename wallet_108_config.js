@@ -1,1 +1,1 @@
-var mnemonic = "letter monster leg demise cable abuse service rail height kit display fix";
+var mnemonic = "trim amount scare open describe sure dirt write shaft ghost arctic tissue";

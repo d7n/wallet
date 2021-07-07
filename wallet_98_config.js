@@ -1,1 +1,1 @@
-var mnemonic = "winner raccoon drum original day cattle obscure monkey soap embark spike mouse";
+var mnemonic = "museum color suit hollow spell inhale ahead clutch weather wash shift disease";
