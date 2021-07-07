@@ -1,1 +1,1 @@
-var mnemonic = "rule entry drift below tone diagram mixed term series elite ribbon pitch";
+var mnemonic = "stumble asthma lock kingdom wheel whip together worry bicycle pledge lunch negative";

@@ -1,1 +1,1 @@
-var mnemonic = "deny other document fiber digital pretty rib snack raise panther spread pony";
+var mnemonic = "ketchup acid useless say tooth tower jar churn surround swift burden season";

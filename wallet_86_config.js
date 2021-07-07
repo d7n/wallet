@@ -1,1 +1,1 @@
-var mnemonic = "bonus affair fiscal giant advance lottery gain double fiction female jump enhance";
+var mnemonic = "island crew unable state pulse lemon salute panther sea bleak forest burden";

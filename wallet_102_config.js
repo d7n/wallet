@@ -1,1 +1,1 @@
-var mnemonic = "combine evoke just target arrive dial fruit powder inch rescue layer improve";
+var mnemonic = "deny toddler nephew tunnel kidney gift total flower focus pioneer category heart";

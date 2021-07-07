@@ -1,1 +1,1 @@
-var mnemonic = "shiver radio vocal auction melody champion choose filter tape still banana eternal";
+var mnemonic = "weapon afraid rocket usage broccoli argue rain atom repair happy upset slot";

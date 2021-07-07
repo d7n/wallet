@@ -1,1 +1,1 @@
-var mnemonic = "indoor capital sustain home again card zoo mimic reward brick nose thrive";
+var mnemonic = "water frequent session loud cake debate lamp uniform divorce embrace announce crawl";

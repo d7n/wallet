@@ -1,1 +1,1 @@
-var mnemonic = "crack donkey skull symptom fluid disease grace blouse better choice tray ordinary";
+var mnemonic = "rude lecture high salute degree hint fringe judge story light spread coral";

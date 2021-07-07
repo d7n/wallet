@@ -1,1 +1,1 @@
-var mnemonic = "erase cover skill lizard tape okay copper vehicle plastic pool ridge kite";
+var mnemonic = "float head trigger still regret orange whip skin rapid certain slab follow";

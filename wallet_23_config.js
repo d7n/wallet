@@ -1,1 +1,1 @@
-var mnemonic = "damp earth rich recipe aspect faith suffer together obscure enroll neck feature";
+var mnemonic = "trouble major dawn lazy admit step disorder again repair add cry penalty";

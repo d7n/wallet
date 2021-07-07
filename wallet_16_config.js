@@ -1,1 +1,1 @@
-var mnemonic = "degree cupboard visa dismiss sadness behave warrior grant obtain glad scan rug";
+var mnemonic = "uniform opinion fold grant elegant again hello off absorb expand pumpkin lend";

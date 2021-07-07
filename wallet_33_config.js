@@ -1,1 +1,1 @@
-var mnemonic = "gate ride pair thing nose desert cruise ghost nation mango curtain cool";
+var mnemonic = "aspect seminar help deal blossom world mix radio together juice junior fantasy";

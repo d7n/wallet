@@ -1,1 +1,1 @@
-var mnemonic = "fruit fashion illness tiger sketch cousin flat job fix radio labor girl";
+var mnemonic = "suggest blind seminar tunnel arrow buyer effort engine canyon kingdom nut consider";

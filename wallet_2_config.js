@@ -1,1 +1,1 @@
-var mnemonic = "exist often profit seed sail ugly bike arm minute match ensure car";
+var mnemonic = "vote sketch rice public find donate damage sheriff amazing option moon rich";

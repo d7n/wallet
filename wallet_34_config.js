@@ -1,1 +1,1 @@
-var mnemonic = "sunset believe cost found target flag labor mango sea tired when chair";
+var mnemonic = "pen clock stereo speak today scout music runway eager kingdom rather lizard";

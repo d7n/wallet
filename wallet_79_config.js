@@ -1,1 +1,1 @@
-var mnemonic = "item into domain blast glue scissors habit order donate grid drift task";
+var mnemonic = "perfect build replace anger motion isolate hurt sausage resource pyramid ten rotate";

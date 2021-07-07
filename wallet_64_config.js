@@ -1,1 +1,1 @@
-var mnemonic = "aisle shiver addict absurd dress myself success skin draw unique excuse myself";
+var mnemonic = "tomorrow renew bring monitor music page gown gesture entry option team risk";

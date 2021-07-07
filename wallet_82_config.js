@@ -1,1 +1,1 @@
-var mnemonic = "wagon over aim cube problem crumble ancient enhance congress poet garment general";
+var mnemonic = "settle fringe agent solution normal filter green patrol typical common someone soccer";

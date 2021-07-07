@@ -1,1 +1,1 @@
-var mnemonic = "cloth garden number feature benefit horse vessel open hunt either balcony attack";
+var mnemonic = "income little face unhappy horror august sibling grunt fossil setup mixed birth";

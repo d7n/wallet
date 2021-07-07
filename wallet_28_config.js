@@ -1,1 +1,1 @@
-var mnemonic = "elbow visa tree soap bitter alter strategy tonight notable harvest kite trigger";
+var mnemonic = "beach wrist replace curtain skill hotel bar offer tuna cram include wire";

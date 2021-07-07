@@ -1,1 +1,1 @@
-var mnemonic = "glide apology panda country hazard witness knee inch excess they true pilot";
+var mnemonic = "clinic hen scheme economy mix fall erupt okay record gap west shift";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn merge common arrive pony milk mutual fury desk bread hair harvest";
+var mnemonic = "corn coconut maximum this address document vanish woman champion pave budget sustain";

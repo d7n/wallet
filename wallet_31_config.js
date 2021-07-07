@@ -1,1 +1,1 @@
-var mnemonic = "budget celery order sadness enjoy silver age nation fresh embark tobacco tiger";
+var mnemonic = "endorse under virus flower amazing barely lecture always give key vicious record";

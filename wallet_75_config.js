@@ -1,1 +1,1 @@
-var mnemonic = "reveal exotic age clump shop front unusual pull rubber target similar track";
+var mnemonic = "match mosquito feed catalog sense piano drift old absorb other eternal fork";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder frog carbon target mobile tiny shrug major brass pass dune oil";
+var mnemonic = "rotate learn burger timber anger now master fiber suffer rose impulse hammer";

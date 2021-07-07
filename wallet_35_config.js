@@ -1,1 +1,1 @@
-var mnemonic = "below shed lawsuit soap aware increase toe wisdom meat fame cherry multiply";
+var mnemonic = "devote kidney advice client buzz senior harsh blur better remove phrase garage";

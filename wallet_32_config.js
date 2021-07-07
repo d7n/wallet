@@ -1,1 +1,1 @@
-var mnemonic = "fix accuse quantum dad carry pool usage bracket people park love fever";
+var mnemonic = "material sail knife second poverty interest where pair category ritual abstract side";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow price task black slice method author normal grant match element nominee";
+var mnemonic = "sphere coil kingdom loyal couch uphold glad join athlete bar smoke basic";

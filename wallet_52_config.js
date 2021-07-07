@@ -1,1 +1,1 @@
-var mnemonic = "human wedding front era stuff brown border hub space rebel crystal license";
+var mnemonic = "dune side agree inch orbit sound wonder inmate approve apple muffin mystery";

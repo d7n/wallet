@@ -1,1 +1,1 @@
-var mnemonic = "lunch dynamic great item napkin enemy shoe pride desert drive select artefact";
+var mnemonic = "secret jaguar kitten dismiss caught birth dwarf quit middle auction mesh hobby";

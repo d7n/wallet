@@ -1,1 +1,1 @@
-var mnemonic = "penalty veteran sugar rescue argue report use layer key steel more stone";
+var mnemonic = "february ability west hover tomato oil edge dog ridge noble sustain subject";

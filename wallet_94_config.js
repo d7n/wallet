@@ -1,1 +1,1 @@
-var mnemonic = "again retreat patrol theory volcano lazy eye coil ecology frown agree soup";
+var mnemonic = "mom latin elegant bright slender funny material squirrel income burger guitar deliver";

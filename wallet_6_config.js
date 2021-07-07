@@ -1,1 +1,1 @@
-var mnemonic = "increase verb dress fee voice sudden dry tomorrow dismiss purity link aunt";
+var mnemonic = "spice shed identify dish milk fix music throw main brass cup dawn";

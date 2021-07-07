@@ -1,1 +1,1 @@
-var mnemonic = "science scissors genius exclude story auction detail lunch giraffe upon deposit true";
+var mnemonic = "empower never slender myth youth slow flight thumb voice aim surface nasty";

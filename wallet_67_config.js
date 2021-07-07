@@ -1,1 +1,1 @@
-var mnemonic = "raise disease burger industry they organ lava either settle outdoor script dirt";
+var mnemonic = "senior soldier develop symptom cool draft thank often park act east match";

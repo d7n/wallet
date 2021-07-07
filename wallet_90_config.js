@@ -1,1 +1,1 @@
-var mnemonic = "fog thrive average early auction same range enhance flat have fluid unlock";
+var mnemonic = "veteran razor milk across immense wide rhythm approve under south coyote cherry";

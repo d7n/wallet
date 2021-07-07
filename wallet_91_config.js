@@ -1,1 +1,1 @@
-var mnemonic = "spirit average clown ship shrug genius correct alcohol convince ankle price clump";
+var mnemonic = "appear scare mimic pilot cinnamon enemy word miracle scout quarter trick hundred";

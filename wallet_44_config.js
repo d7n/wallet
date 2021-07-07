@@ -1,1 +1,1 @@
-var mnemonic = "attitude educate liberty artist cave fire ridge shiver olympic layer split wear";
+var mnemonic = "enact essay faint atom blur today ostrich erase solid pink scheme segment";

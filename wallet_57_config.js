@@ -1,1 +1,1 @@
-var mnemonic = "fatal fun input leaf hope size genuine ivory skill chalk between olympic";
+var mnemonic = "fix inject collect neutral abuse pizza meadow report zoo age worth prepare";

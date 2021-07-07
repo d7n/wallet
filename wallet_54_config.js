@@ -1,1 +1,1 @@
-var mnemonic = "tobacco topple winter menu hill defense master then fever eternal kiss lizard";
+var mnemonic = "earth bonus gown today polar current steel crash brand trip must salute";

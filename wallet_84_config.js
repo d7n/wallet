@@ -1,1 +1,1 @@
-var mnemonic = "live midnight evidence indicate little goddess gentle aisle decade fury stool worth";
+var mnemonic = "scheme sunny salon jacket scheme bomb forum bounce leader cheap wonder stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus item radar shiver hazard glove present ribbon front omit siren diagram";
+var mnemonic = "amount zero sphere craft burger hood pool apology alarm mad shallow extend";

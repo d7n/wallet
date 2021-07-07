@@ -1,1 +1,1 @@
-var mnemonic = "betray inch bar public grocery bitter way track team require cherry lyrics";
+var mnemonic = "senior fringe disease awful pistol air galaxy isolate other adjust banana desert";

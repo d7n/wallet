@@ -1,1 +1,1 @@
-var mnemonic = "three funny also symbol dune label hospital fiction oxygen claw deposit bachelor";
+var mnemonic = "absurd magnet nothing girl dolphin dish common second seed weather wrap brass";

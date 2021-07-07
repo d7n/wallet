@@ -1,1 +1,1 @@
-var mnemonic = "system paper myth course away work box winter album uncle dolphin settle";
+var mnemonic = "truly section live buyer help another cup dad trip pizza narrow chalk";

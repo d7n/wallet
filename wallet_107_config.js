@@ -1,1 +1,1 @@
-var mnemonic = "dad salmon blouse box retire raccoon brisk scout describe now remind nest";
+var mnemonic = "salute arrange fat ketchup fluid goose deer seat social damage slam differ";

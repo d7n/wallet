@@ -1,1 +1,1 @@
-var mnemonic = "riot rally over twenty address admit end flat robust fossil ladder goat";
+var mnemonic = "stand bracket derive piece attend name cheese guess expire vintage quick neither";

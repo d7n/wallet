@@ -1,1 +1,1 @@
-var mnemonic = "mind exclude fancy chair capital wise random twenty illegal bless artefact drastic";
+var mnemonic = "surface author live pause winner man project disease kid fork emotion eagle";

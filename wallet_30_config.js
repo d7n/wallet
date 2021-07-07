@@ -1,1 +1,1 @@
-var mnemonic = "seminar allow ozone nephew false vast gaze uncle corn flush maximum already";
+var mnemonic = "idea number stumble pen actual gentle eyebrow into extend twice eager slim";

@@ -1,1 +1,1 @@
-var mnemonic = "typical veteran nest clever state approve doctor fade range genuine arrange pledge";
+var mnemonic = "better reflect wear drink during thought quality base various lake actor focus";

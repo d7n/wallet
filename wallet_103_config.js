@@ -1,1 +1,1 @@
-var mnemonic = "novel regret monkey copy siren aisle come color observe clog bus modify";
+var mnemonic = "labor various tornado twin adapt solution seven cloth debris fetch tragic because";

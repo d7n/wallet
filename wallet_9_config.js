@@ -1,1 +1,1 @@
-var mnemonic = "segment cliff hobby buffalo hello switch double tomorrow sugar rifle myself model";
+var mnemonic = "country skull armed path north surround bench pole sing leisure federal second";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rough learn wave maximum unfair exit wealth scorpion expire typical salon";
+var mnemonic = "loyal derive repeat repeat solar shoe enough unaware argue dignity current cage";

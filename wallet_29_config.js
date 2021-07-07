@@ -1,1 +1,1 @@
-var mnemonic = "second suspect palace mail orphan trumpet sadness wheel soon nation bleak solid";
+var mnemonic = "cook lottery guide response luggage derive volcano dawn box census pattern crime";

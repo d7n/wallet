@@ -1,1 +1,1 @@
-var mnemonic = "matrix radio flat jaguar galaxy ugly wreck fringe fold tip anxiety ten";
+var mnemonic = "they kite now mammal erosion puppy labor stairs garden little pig broken";

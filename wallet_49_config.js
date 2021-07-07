@@ -1,1 +1,1 @@
-var mnemonic = "orphan stable gown witness lesson observe sponsor agree burden casino chair coast";
+var mnemonic = "tip verb gap dumb follow bamboo actor flower alien mail average gym";

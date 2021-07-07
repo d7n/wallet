@@ -1,1 +1,1 @@
-var mnemonic = "else february exchange vanish amateur print mango receive climb smile unaware security";
+var mnemonic = "name album private text inform bean unaware industry merit copper slot multiply";

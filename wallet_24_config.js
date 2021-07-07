@@ -1,1 +1,1 @@
-var mnemonic = "easy snack mixed mimic fabric deal script sunset era awake hip very";
+var mnemonic = "simple ecology avocado evoke slow burst away coconut peanut cherry more palm";

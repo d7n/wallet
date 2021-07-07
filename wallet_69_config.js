@@ -1,1 +1,1 @@
-var mnemonic = "rubber prefer census genuine barely fury faint moment double gauge profit decorate";
+var mnemonic = "garlic vanish unique smart cram spatial inmate absurd luggage broom view man";

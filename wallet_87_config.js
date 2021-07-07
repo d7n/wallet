@@ -1,1 +1,1 @@
-var mnemonic = "town grace lounge burst vocal citizen april call conduct mosquito sun control";
+var mnemonic = "copy october hospital unique wolf erupt valley net urban mouse rescue cigar";

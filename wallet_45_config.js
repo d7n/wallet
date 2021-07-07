@@ -1,1 +1,1 @@
-var mnemonic = "message slide bleak cave marble neck used uniform october live feel check";
+var mnemonic = "short indicate visit ski naive host south narrow amount escape floor start";

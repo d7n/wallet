@@ -1,1 +1,1 @@
-var mnemonic = "mass vapor clutch despair pupil soft mean win drop saddle venue lonely";
+var mnemonic = "rescue screen marriage primary winter coil oyster benefit add cook material salon";

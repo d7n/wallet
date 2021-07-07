@@ -1,1 +1,1 @@
-var mnemonic = "beach subway orbit safe brief test account void truck hotel own during";
+var mnemonic = "banana mask approve blur powder tool filter judge link laptop gallery fine";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel warm menu put punch level early flight absurd enable give current";
+var mnemonic = "summer rhythm bulb garlic fade fury mammal orphan filter essence weather buzz";

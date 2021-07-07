@@ -1,1 +1,1 @@
-var mnemonic = "inspire onion link north truck kitchen leave gain slice sock barely hamster";
+var mnemonic = "foam key kit panther merit use industry enemy scale sleep cancel turkey";

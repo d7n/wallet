@@ -1,1 +1,1 @@
-var mnemonic = "doll boil decrease diary diet garden dynamic mechanic razor find fix absurd";
+var mnemonic = "scheme invest theory trade tool bronze supreme travel try index spice wave";

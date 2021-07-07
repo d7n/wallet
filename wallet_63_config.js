@@ -1,1 +1,1 @@
-var mnemonic = "voice essay curve find salad tunnel caught fit transfer badge village rally";
+var mnemonic = "rabbit edit safe omit pig gas fat fitness group spirit pony between";

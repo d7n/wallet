@@ -1,1 +1,1 @@
-var mnemonic = "thank wise arena piece wash grunt essence among until usual phone dwarf";
+var mnemonic = "notice make sting reward judge auction reject cover glue annual wink arrive";

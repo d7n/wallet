@@ -1,1 +1,1 @@
-var mnemonic = "assault novel shadow clump impulse tongue kitchen stage crop lecture barrel bar";
+var mnemonic = "peace menu arrest elevator fatigue essence timber stuff flavor muffin cruise notable";

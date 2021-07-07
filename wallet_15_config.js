@@ -1,1 +1,1 @@
-var mnemonic = "defy aspect yellow garment advice husband mad relief hawk shrimp castle eyebrow";
+var mnemonic = "mandate million sand nuclear update live glare visit crack roof program annual";

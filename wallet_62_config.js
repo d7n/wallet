@@ -1,1 +1,1 @@
-var mnemonic = "resemble flight ahead address breeze letter harbor miss gloom unaware calm nasty";
+var mnemonic = "cost moment ordinary infant swamp wreck health aerobic pause refuse vanish moon";

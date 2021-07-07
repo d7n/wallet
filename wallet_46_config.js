@@ -1,1 +1,1 @@
-var mnemonic = "general trip pill tiny focus sunset athlete maximum fix math debris peace";
+var mnemonic = "liquid coach endless elder connect update smooth unable imitate rate swim lumber";

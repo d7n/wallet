@@ -1,1 +1,1 @@
-var mnemonic = "jazz wreck federal wing thought phrase maximum excuse occur parrot sausage exchange";
+var mnemonic = "liar honey current bicycle average foster lawn absurd pass such gesture daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "despair biology install ghost bind senior grass indicate bundle hire enforce swamp";
+var mnemonic = "tattoo owner giggle beef coral run apart office miss omit choice history";

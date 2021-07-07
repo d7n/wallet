@@ -1,1 +1,1 @@
-var mnemonic = "catalog senior trick during bench neutral execute atom olive leader bracket deer";
+var mnemonic = "hundred course train donor lawsuit replace menu spirit illegal trust dragon evil";

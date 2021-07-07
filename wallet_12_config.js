@@ -1,1 +1,1 @@
-var mnemonic = "flower unhappy armed around market wine blast analyst renew extend record faith";
+var mnemonic = "kite include valid audit fiscal autumn arctic scorpion mom ten delay manual";

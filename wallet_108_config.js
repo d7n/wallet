@@ -1,1 +1,1 @@
-var mnemonic = "list survey grow stem visual increase crater system hollow culture attract tonight";
+var mnemonic = "invite garden pink present fall remain long pole salt virus injury sleep";

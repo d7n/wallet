@@ -1,1 +1,1 @@
-var mnemonic = "million best stone cash layer beyond detect harsh also stamp govern ethics";
+var mnemonic = "sail target vague chronic boy else uncover bomb question conduct camp sock";

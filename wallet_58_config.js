@@ -1,1 +1,1 @@
-var mnemonic = "plug cart bike dawn fan brain song analyst wealth advice example pledge";
+var mnemonic = "monitor job first unusual stadium match ability friend bar grocery squirrel pen";

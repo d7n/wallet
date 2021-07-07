@@ -1,1 +1,1 @@
-var mnemonic = "height position famous boy above make weekend dice canal response scout write";
+var mnemonic = "habit voyage pyramid put cactus indoor spell property margin fence clip analyst";

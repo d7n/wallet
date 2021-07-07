@@ -1,1 +1,1 @@
-var mnemonic = "calm timber clog short ritual romance expect tooth subject inject vendor coyote";
+var mnemonic = "party book smart foil much nuclear hobby tongue toddler patrol fox news";

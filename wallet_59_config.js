@@ -1,1 +1,1 @@
-var mnemonic = "fatal parent drive sell club genius soccer talent canoe oxygen suggest focus";
+var mnemonic = "large claw hospital face world bubble seed call dignity behave source bracket";

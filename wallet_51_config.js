@@ -1,1 +1,1 @@
-var mnemonic = "pupil hurry alone latin illness keep cute minor ask neither same rapid";
+var mnemonic = "into olympic palm peace base derive roof garage sister cause arrest flower";

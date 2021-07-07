@@ -1,1 +1,1 @@
-var mnemonic = "helmet clerk actress father gym mean either upgrade ancient helmet ivory badge";
+var mnemonic = "punch acquire dragon because universe leopard taxi pattern lawsuit marine critic sweet";

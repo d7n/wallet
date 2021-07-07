@@ -1,1 +1,1 @@
-var mnemonic = "abuse mouse social primary birth inquiry attack doll gold vessel fetch say";
+var mnemonic = "patrol stamp turtle enlist neutral book arrive early maid small initial wild";

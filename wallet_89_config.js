@@ -1,1 +1,1 @@
-var mnemonic = "december lumber congress short chef world few ship return mammal bronze weather";
+var mnemonic = "gravity license grow oyster video whisper salon core raise book wrap unlock";

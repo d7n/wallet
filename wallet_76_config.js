@@ -1,1 +1,1 @@
-var mnemonic = "witness whip casino brave chest double correct innocent donor calm people maze";
+var mnemonic = "cloth treat feature cute modify rally gorilla edit increase exotic steak gravity";

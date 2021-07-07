@@ -1,1 +1,1 @@
-var mnemonic = "expire sunset drink crime abandon hover warfare guide upon push drum uncle";
+var mnemonic = "relief assume surface slide setup dinosaur hurry eight foam drive reason retire";

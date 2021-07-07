@@ -1,1 +1,1 @@
-var mnemonic = "shoulder beauty palace hunt system drive remain jaguar talk coin slot guess";
+var mnemonic = "board town jelly manage misery teach doll skill gown table trim cupboard";
