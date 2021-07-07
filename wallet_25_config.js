@@ -1,1 +1,1 @@
-var mnemonic = "chalk home engage best success april agent crop enroll eagle light quality";
+var mnemonic = "slogan plunge crumble smoke stumble lunch fade weird climb since mango stand";

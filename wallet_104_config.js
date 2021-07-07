@@ -1,1 +1,1 @@
-var mnemonic = "tide loan guess grant chair alone boost wear fault elite crazy upset";
+var mnemonic = "cannon abandon left cotton until degree armor knock lyrics doctor clarify wool";

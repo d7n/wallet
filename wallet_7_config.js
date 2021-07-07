@@ -1,1 +1,1 @@
-var mnemonic = "metal garment invest pumpkin fog shoulder pull attract party donate among fall";
+var mnemonic = "upgrade budget dish blouse tattoo kitten kidney domain twice small hour gate";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic culture wreck school bomb purse list window mesh around exchange eight";
+var mnemonic = "stereo board tennis erosion vanish protect random inject dirt bounce dignity bike";

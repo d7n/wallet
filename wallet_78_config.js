@@ -1,1 +1,1 @@
-var mnemonic = "tone long network family smile tattoo trigger surround prevent setup finish worry";
+var mnemonic = "round pulp forest dove tube detect subject chalk sphere ginger fun tool";

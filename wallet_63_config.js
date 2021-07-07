@@ -1,1 +1,1 @@
-var mnemonic = "blind ranch giant tiny session pave profit skill idle wink frog valid";
+var mnemonic = "miss priority blanket dentist enact spin divide hole pass monitor marriage shadow";

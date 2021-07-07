@@ -1,1 +1,1 @@
-var mnemonic = "silk about army trigger crisp ivory echo damage huge rain stamp indoor";
+var mnemonic = "skin decline fiscal lend coach fish delay idle aisle novel remind glad";

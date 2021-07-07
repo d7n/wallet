@@ -1,1 +1,1 @@
-var mnemonic = "grain magic follow manual axis electric able offer mountain panel blossom gate";
+var mnemonic = "crouch divorce battle bus naive leaf object arrow congress general urge tower";

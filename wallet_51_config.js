@@ -1,1 +1,1 @@
-var mnemonic = "clip swing another broccoli dismiss sauce label primary admit seat film throw";
+var mnemonic = "real cross bag ocean twenty away drill loop august bread describe top";

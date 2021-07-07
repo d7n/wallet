@@ -1,1 +1,1 @@
-var mnemonic = "candy season scare egg theme spot choose remove add power normal winner";
+var mnemonic = "bracket find rural brave foot ticket faint industry light valley floor list";

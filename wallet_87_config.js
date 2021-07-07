@@ -1,1 +1,1 @@
-var mnemonic = "thing coin original december style sunny cliff source crush ten unit essence";
+var mnemonic = "process orphan vapor sniff cheese march earth become universe sad hole remember";

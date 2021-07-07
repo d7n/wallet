@@ -1,1 +1,1 @@
-var mnemonic = "boat pilot vital over lock toilet orchard warrior above legal toss recall";
+var mnemonic = "asthma vote candy return split creek diamond discover gospel worth frequent speak";

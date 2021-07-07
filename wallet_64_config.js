@@ -1,1 +1,1 @@
-var mnemonic = "merry waste garlic iron interest regular unable say door shiver worry else";
+var mnemonic = "meadow win giggle cable rib valley sibling area risk flavor civil regular";

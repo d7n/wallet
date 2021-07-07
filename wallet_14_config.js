@@ -1,1 +1,1 @@
-var mnemonic = "raw music wing deliver blame call jaguar rather over coast silver plate";
+var mnemonic = "captain office vacant copper squeeze safe depth cabbage siren plate family wrap";

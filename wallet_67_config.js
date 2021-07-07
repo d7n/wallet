@@ -1,1 +1,1 @@
-var mnemonic = "feel unfair nuclear aspect also gate pretty flame hollow edge suspect sunset";
+var mnemonic = "rent goddess angle flip history fold blanket topic impact crazy health unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "into wing spirit pattern verify tail zero clog front acid theme width";
+var mnemonic = "glance lumber pottery rigid caught lunar refuse shell power else orphan surface";

@@ -1,1 +1,1 @@
-var mnemonic = "upset school syrup cushion tree decline remain toe ticket fragile pledge sting";
+var mnemonic = "tragic hill combine grit lawsuit soldier logic twelve enough forum length rhythm";

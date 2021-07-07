@@ -1,1 +1,1 @@
-var mnemonic = "pulse chair build afford erase sleep bullet olympic give square mean predict";
+var mnemonic = "supply boy snow school salmon hire camera excuse swim remain ride pause";

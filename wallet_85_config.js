@@ -1,1 +1,1 @@
-var mnemonic = "human divert chronic race relax chapter cupboard mixture trash hello dash indicate";
+var mnemonic = "cool soon reduce horn lady minute foster step wonder tone rhythm alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow brass rebuild you elegant fluid huge cousin learn beach crush radar";
+var mnemonic = "delay squeeze device hood patrol brave worth excite card pistol cabin kitchen";

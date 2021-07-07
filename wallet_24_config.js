@@ -1,1 +1,1 @@
-var mnemonic = "faculty prepare around crisp enough test riot monitor smart detail parent hire";
+var mnemonic = "acquire polar fade matrix pass rubber hungry people option surface ill reflect";

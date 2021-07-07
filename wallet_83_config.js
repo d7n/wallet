@@ -1,1 +1,1 @@
-var mnemonic = "mother result artist brain knock omit typical path follow critic club accident";
+var mnemonic = "field setup stay merry reveal kid thumb bracket renew lumber helmet current";

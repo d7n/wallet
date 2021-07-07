@@ -1,1 +1,1 @@
-var mnemonic = "milk squeeze order stable rack strategy dose mention poet intact submit female";
+var mnemonic = "gather lake attend scissors casual tired range sunset model unknown provide initial";

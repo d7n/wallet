@@ -1,1 +1,1 @@
-var mnemonic = "misery pet sword material clock siege cry analyst tornado swallow ripple van";
+var mnemonic = "bundle ill crush giraffe fancy what achieve mask dawn shaft engage harvest";

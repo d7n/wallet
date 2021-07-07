@@ -1,1 +1,1 @@
-var mnemonic = "artwork language hard develop skirt crucial raccoon dad tornado asthma artefact dinner";
+var mnemonic = "shoulder square absent judge melt right measure casino stumble will wild wheel";

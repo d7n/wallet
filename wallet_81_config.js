@@ -1,1 +1,1 @@
-var mnemonic = "cousin gift wish use soda ticket option actual gate usage badge hand";
+var mnemonic = "market basket slender danger hire hamster group chuckle speak link satoshi degree";

@@ -1,1 +1,1 @@
-var mnemonic = "sort exile clinic weird table miracle discover copper critic define dwarf crime";
+var mnemonic = "vote stable flash now fiber double cube normal coffee stadium appear chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow wasp blast walnut tool reason fly immense mango pluck cry carpet";
+var mnemonic = "slice dawn auction board second stay before cause pull view flat cotton";

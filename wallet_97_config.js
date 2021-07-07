@@ -1,1 +1,1 @@
-var mnemonic = "maximum cigar timber limb aerobic market siege what urban pond buzz stumble";
+var mnemonic = "address whip pet zero rail claw gallery wagon defy engage follow focus";

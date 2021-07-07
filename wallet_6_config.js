@@ -1,1 +1,1 @@
-var mnemonic = "laptop provide excess repair quit wait announce funny swarm card spy lion";
+var mnemonic = "month inmate praise liquid hello rug chat alien error scene caution body";

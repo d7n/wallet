@@ -1,1 +1,1 @@
-var mnemonic = "genre vault donor express snack advice right tomato joy recall amount dream";
+var mnemonic = "someone soccer fix evoke entry swear era slab tobacco grit quantum try";

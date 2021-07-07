@@ -1,1 +1,1 @@
-var mnemonic = "junk coast soft frequent tribe taste glory poverty action perfect illness infant";
+var mnemonic = "betray leaf armed increase vendor actress arrive crater version steel diamond naive";

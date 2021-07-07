@@ -1,1 +1,1 @@
-var mnemonic = "swear ribbon toss theory live term flat ice hire change rose squirrel";
+var mnemonic = "achieve critic disagree humor reject salt enlist pig focus actor blame chimney";

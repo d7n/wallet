@@ -1,1 +1,1 @@
-var mnemonic = "receive live orchard frown zero vote foot bone swear daring cancel deputy";
+var mnemonic = "frozen outdoor agree victory motor focus brass region dune another length bind";

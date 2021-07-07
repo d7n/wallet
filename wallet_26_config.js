@@ -1,1 +1,1 @@
-var mnemonic = "solution unveil search increase sting mixture book assist when engine notable jacket";
+var mnemonic = "caution soup aerobic deer stone gap clay cloth envelope select shoulder payment";

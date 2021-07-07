@@ -1,1 +1,1 @@
-var mnemonic = "market estate cute vapor ski fruit mix finish ketchup salute unaware sock";
+var mnemonic = "occur brush lucky attitude olympic sample fee lunch tornado dry entry frequent";

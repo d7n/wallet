@@ -1,1 +1,1 @@
-var mnemonic = "cart fall release lobster refuse swarm panel want daughter element false credit";
+var mnemonic = "enemy police wink biology cereal pig retreat copy buffalo copy cherry farm";

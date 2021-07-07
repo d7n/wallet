@@ -1,1 +1,1 @@
-var mnemonic = "royal behind beauty parrot draw margin logic cluster december large cupboard joke";
+var mnemonic = "buffalo ramp close index spice bone steak page march result slogan phone";

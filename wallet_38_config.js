@@ -1,1 +1,1 @@
-var mnemonic = "chief note oven cycle satoshi acoustic adjust card sword record hurdle drink";
+var mnemonic = "broom rural hover envelope cheap tourist volume misery inner wish worry human";

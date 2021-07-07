@@ -1,1 +1,1 @@
-var mnemonic = "warm close chase situate labor forum conduct pigeon foil series purpose fame";
+var mnemonic = "city bracket bulb sing menu senior farm rebuild blade wheel uniform brass";

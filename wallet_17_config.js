@@ -1,1 +1,1 @@
-var mnemonic = "fox stamp junior lake cannon bind swamp talk toss pink fish flight";
+var mnemonic = "horse swear cement letter shoot diesel thumb say finish point leaf use";

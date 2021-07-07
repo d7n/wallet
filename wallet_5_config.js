@@ -1,1 +1,1 @@
-var mnemonic = "lion month ozone mammal apart people autumn illness cement vote quantum picnic";
+var mnemonic = "pause exhibit add drip shine theme slow range crouch auto produce tiger";

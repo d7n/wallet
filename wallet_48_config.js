@@ -1,1 +1,1 @@
-var mnemonic = "census double sugar march extra hawk border joke glide blast silent weird";
+var mnemonic = "swift pitch early matter either danger snack about fall seat eye system";

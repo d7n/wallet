@@ -1,1 +1,1 @@
-var mnemonic = "corn engine endless menu need creek pipe play angle tower tumble enlist";
+var mnemonic = "correct pizza cabbage century oil stool exotic bridge light child sword key";

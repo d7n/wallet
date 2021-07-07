@@ -1,1 +1,1 @@
-var mnemonic = "entire boost music buddy gate limb typical tomato suspect despair guilt antenna";
+var mnemonic = "arm work alcohol jar warfare novel patient inject below urge shallow tomato";

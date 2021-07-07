@@ -1,1 +1,1 @@
-var mnemonic = "weasel cupboard total sauce gloom stock alley once sight celery swarm alpha";
+var mnemonic = "normal champion cabin cupboard iron blue area provide dizzy tuition grunt sick";

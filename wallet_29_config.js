@@ -1,1 +1,1 @@
-var mnemonic = "suffer agent install today apple oblige guilt ball sell proof kitten scale";
+var mnemonic = "box chapter shoe moment verb million mandate lottery brief plug tornado demise";

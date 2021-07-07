@@ -1,1 +1,1 @@
-var mnemonic = "mirror cattle laugh invite private vapor fringe outside swear bright erupt pitch";
+var mnemonic = "gate develop barely labor erosion stand narrow cushion diagram sample kitchen enjoy";

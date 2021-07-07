@@ -1,1 +1,1 @@
-var mnemonic = "smooth argue guitar kitten object rent void carpet group garlic believe south";
+var mnemonic = "shoot unveil pattern use fit urban riot visa modify hotel squeeze legal";

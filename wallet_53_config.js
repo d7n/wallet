@@ -1,1 +1,1 @@
-var mnemonic = "all stone impulse fiscal trophy road loan extra phone build atom fire";
+var mnemonic = "rural orphan vessel lunch leopard diamond fury monster gold tomato violin cake";

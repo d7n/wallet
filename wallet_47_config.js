@@ -1,1 +1,1 @@
-var mnemonic = "about blood point wood pole shock version exact deny method close unveil";
+var mnemonic = "across truly raccoon derive garden fix gospel act clean weird defy bird";

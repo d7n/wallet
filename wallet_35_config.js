@@ -1,1 +1,1 @@
-var mnemonic = "appear grant supreme space baby timber spoil gallery shiver begin tortoise phrase";
+var mnemonic = "wheel priority tackle bronze jealous cigar void economy hair dizzy proud much";

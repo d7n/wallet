@@ -1,1 +1,1 @@
-var mnemonic = "taste mountain salmon tongue human fold baby anxiety virtual loud joy install";
+var mnemonic = "veteran dutch core sponsor expand hover wool burst flip until idea lion";

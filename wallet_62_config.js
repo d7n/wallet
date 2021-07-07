@@ -1,1 +1,1 @@
-var mnemonic = "sausage fan cement tell head sport onion beach high together deliver physical";
+var mnemonic = "shuffle unusual evidence sketch allow pottery warfare merry helmet vague taste learn";

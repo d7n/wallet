@@ -1,1 +1,1 @@
-var mnemonic = "pioneer gorilla now industry nuclear enrich grace price dizzy output push finish";
+var mnemonic = "gas identify expand monkey refuse gather moon enforce load abandon affair cage";

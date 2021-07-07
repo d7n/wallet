@@ -1,1 +1,1 @@
-var mnemonic = "cost pumpkin first involve company visa virtual object dentist used scheme spin";
+var mnemonic = "mother shy syrup narrow enlist better lamp taste tattoo calm off review";

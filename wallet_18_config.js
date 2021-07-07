@@ -1,1 +1,1 @@
-var mnemonic = "acquire lyrics shoe guess test off carpet author nerve minimum credit outdoor";
+var mnemonic = "stove radio frame pool outer reveal fat wool beyond grace actual clerk";

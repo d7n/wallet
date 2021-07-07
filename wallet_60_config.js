@@ -1,1 +1,1 @@
-var mnemonic = "spike argue green live energy kingdom poverty exist indoor spike faith student";
+var mnemonic = "reject jump secret sad farm sphere gift core little pact base still";

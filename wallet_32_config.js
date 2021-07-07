@@ -1,1 +1,1 @@
-var mnemonic = "huge often faith over decide friend pact school praise stable grass movie";
+var mnemonic = "correct when traffic artefact law camp cargo bag style layer ship much";

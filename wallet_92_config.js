@@ -1,1 +1,1 @@
-var mnemonic = "ivory question company spice fringe sadness north matrix guide toe develop write";
+var mnemonic = "confirm avocado relief tail refuse coast often battle mom search canyon media";

@@ -1,1 +1,1 @@
-var mnemonic = "car soon equip effort trust process episode glare pet trend chest leaf";
+var mnemonic = "sponsor because ritual field outdoor liquid open annual keen choose gadget bus";

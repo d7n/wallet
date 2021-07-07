@@ -1,1 +1,1 @@
-var mnemonic = "universe volume rack double brown catalog hill genuine depth gown spin alpha";
+var mnemonic = "tip salmon material buyer skin praise candy release audit turn fantasy maple";

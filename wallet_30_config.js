@@ -1,1 +1,1 @@
-var mnemonic = "embark veteran mercy blanket diary left leader idle lottery bomb movie juice";
+var mnemonic = "crew image indicate rookie dance thrive ritual sense finger mass onion salon";

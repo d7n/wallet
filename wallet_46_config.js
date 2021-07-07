@@ -1,1 +1,1 @@
-var mnemonic = "stable blue draw lesson seminar december hand youth barrel discover stage security";
+var mnemonic = "wood buffalo time oven place whale humble sustain adult album evidence spare";

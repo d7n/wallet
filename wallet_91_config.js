@@ -1,1 +1,1 @@
-var mnemonic = "render hunt script shrug derive laundry way spike ability purpose purpose glad";
+var mnemonic = "any loan exist glance civil ugly knee legend toward inside melt illness";

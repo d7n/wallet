@@ -1,1 +1,1 @@
-var mnemonic = "joke penalty clown edit student earn project nurse game laptop gesture truth";
+var mnemonic = "result crawl emotion cream virtual tissue enroll vault bubble divert seek town";

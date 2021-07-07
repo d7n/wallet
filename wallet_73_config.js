@@ -1,1 +1,1 @@
-var mnemonic = "cabbage trick horse giant apple garden electric loop wife sense head swing";
+var mnemonic = "fog type clinic boss trap plastic file silly priority drive photo emotion";

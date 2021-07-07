@@ -1,1 +1,1 @@
-var mnemonic = "despair doctor fox thank anger hint marble property recycle service employ suspect";
+var mnemonic = "coffee camp hybrid diet furnace cricket gas else verb charge ordinary dune";

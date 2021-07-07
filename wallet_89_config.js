@@ -1,1 +1,1 @@
-var mnemonic = "foam program chalk when punch warfare donate tattoo north include book caught";
+var mnemonic = "say collect shield flame olive orbit remember insane tuition toe poverty quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "famous horse jewel later rack copper tumble dust music regular wire remember";
+var mnemonic = "kit cause sight brush lawn room feed come unveil any confirm alien";

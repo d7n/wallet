@@ -1,1 +1,1 @@
-var mnemonic = "question anxiety cereal history ice belt leopard entry hire sell father base";
+var mnemonic = "click cancel hire album ring correct radio say local news bind tuna";

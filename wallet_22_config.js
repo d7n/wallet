@@ -1,1 +1,1 @@
-var mnemonic = "nut exhibit stock future tortoise ride core jar topple jeans certain song";
+var mnemonic = "expose pole unveil nominee symbol ask fossil palm unfair whale box large";

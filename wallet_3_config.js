@@ -1,1 +1,1 @@
-var mnemonic = "oyster fire ripple scan gorilla bulb plug cupboard lobster already weapon elbow";
+var mnemonic = "mad soon broom jar donate gesture aware arrange someone target planet timber";

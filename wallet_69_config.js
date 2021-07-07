@@ -1,1 +1,1 @@
-var mnemonic = "happy faith limit gas adjust wheat umbrella early phrase file laugh receive";
+var mnemonic = "sudden special spell velvet obscure burger idle meadow forest debate code tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "duty focus amused course bullet airport diet all jacket frown section cruise";
+var mnemonic = "prosper gain snack split tattoo toddler divorce fantasy purpose brick faint laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "attack fly spot young iron pigeon mimic summer direct remove buffalo zoo";
+var mnemonic = "shed original dry million monitor absorb fun actor dilemma tuition volcano code";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror swap cross mansion curve stomach supreme alter nominee melody empty misery";
+var mnemonic = "bus swap catalog shallow material hidden derive will advice wrist fun admit";

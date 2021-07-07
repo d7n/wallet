@@ -1,1 +1,1 @@
-var mnemonic = "tragic song potato step mountain abuse gentle balance nose monkey general bargain";
+var mnemonic = "someone sleep else giant deal name hedgehog garage travel ski ecology visual";

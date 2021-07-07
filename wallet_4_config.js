@@ -1,1 +1,1 @@
-var mnemonic = "huge choice payment proud laundry goat zero fine route rapid tray library";
+var mnemonic = "verb law forum enforce sugar drill buffalo poet away decline make deputy";

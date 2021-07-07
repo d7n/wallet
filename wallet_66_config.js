@@ -1,1 +1,1 @@
-var mnemonic = "midnight aunt sibling roof spider strike lemon load enough clown category wrap";
+var mnemonic = "toe liquid cram trust boost where misery input receive access program file";

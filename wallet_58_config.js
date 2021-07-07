@@ -1,1 +1,1 @@
-var mnemonic = "better today enough love cloth pig mystery burden eagle hand route main";
+var mnemonic = "common helmet wild angry series radio fix beauty fine right cabbage sword";

@@ -1,1 +1,1 @@
-var mnemonic = "injury biology midnight employ hobby panic dream useful give kite fossil radar";
+var mnemonic = "inflict october jump move stay lazy carpet kind uniform amused sea raise";

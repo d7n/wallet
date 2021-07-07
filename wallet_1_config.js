@@ -1,1 +1,1 @@
-var mnemonic = "mystery gaze fiscal link midnight orphan taste assume gold gold sand coral";
+var mnemonic = "tube ill shove february day company refuse clinic village alert crucial tissue";

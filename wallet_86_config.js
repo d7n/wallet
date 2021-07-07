@@ -1,1 +1,1 @@
-var mnemonic = "edge penalty law rally trust trophy nest tide visa trend paddle van";
+var mnemonic = "stairs leaf anchor relief kangaroo sentence chapter chair tail artist brush once";

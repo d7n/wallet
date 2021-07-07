@@ -1,1 +1,1 @@
-var mnemonic = "field grass custom tumble cliff world crop catalog glove impact distance erode";
+var mnemonic = "comfort team develop diamond dutch arm stuff nominee draft green erode replace";

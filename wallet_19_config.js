@@ -1,1 +1,1 @@
-var mnemonic = "swing position model inform scan bind dawn just network amateur flash fork";
+var mnemonic = "visa captain else stock cabbage blur typical arrange gorilla borrow that milk";

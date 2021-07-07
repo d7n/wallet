@@ -1,1 +1,1 @@
-var mnemonic = "certain light cargo elder defense glove auto increase sick elegant april release";
+var mnemonic = "uniform matrix solution visit awesome dignity bright toddler quote valid thing innocent";

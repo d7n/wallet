@@ -1,1 +1,1 @@
-var mnemonic = "mushroom tilt unhappy rhythm define run board horror animal giraffe erosion arena";
+var mnemonic = "cushion domain inmate pole negative sing estate engine prize hour pill bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "tip rent hazard need peanut energy bitter festival still beauty unique opera";
+var mnemonic = "marriage giant outside remain raw wash faculty face license elegant quit base";

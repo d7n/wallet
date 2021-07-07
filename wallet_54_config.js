@@ -1,1 +1,1 @@
-var mnemonic = "duck flush path unfair globe tooth slow tattoo swear unaware sleep large";
+var mnemonic = "sand dash february trade nice figure pill attend language once endless tray";
