@@ -1,1 +1,1 @@
-var mnemonic = "danger bridge enemy alley sell fault lizard expect cruel soccer seminar client";
+var mnemonic = "wool lobster milk annual inquiry sense offer rabbit achieve vast addict child";

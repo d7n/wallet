@@ -1,1 +1,1 @@
-var mnemonic = "day street gas evil casual improve spend dog tool together praise mystery";
+var mnemonic = "material wild potato song update shoe rebel reveal cousin boy measure excuse";

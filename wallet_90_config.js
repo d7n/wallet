@@ -1,1 +1,1 @@
-var mnemonic = "guess weasel dash flame detect shallow nasty drum example embark chat pass";
+var mnemonic = "banner olive upset nominee narrow cement baby carpet bounce alien parrot lottery";

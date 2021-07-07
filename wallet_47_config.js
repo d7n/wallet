@@ -1,1 +1,1 @@
-var mnemonic = "trick rib sphere task hammer harsh rare secret moral venture wrist cable";
+var mnemonic = "confirm virus miss pony cover gun subway shove silk picnic area bench";

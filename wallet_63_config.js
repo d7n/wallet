@@ -1,1 +1,1 @@
-var mnemonic = "profit decrease cruel wink clog auction stereo napkin camp blind silly pave";
+var mnemonic = "motion miracle athlete way enroll broom pretty burst muscle identify chair settle";

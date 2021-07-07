@@ -1,1 +1,1 @@
-var mnemonic = "upper bullet result armed nose man screen enhance violin kidney chief cotton";
+var mnemonic = "latin soap farm woman elephant marble ask flame name coach sausage opinion";

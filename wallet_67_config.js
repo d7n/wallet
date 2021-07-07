@@ -1,1 +1,1 @@
-var mnemonic = "short all peasant speed rabbit side success spread accuse shoulder garden question";
+var mnemonic = "clever gaze garbage give net section champion woman second science decorate scrub";

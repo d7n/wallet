@@ -1,1 +1,1 @@
-var mnemonic = "little hazard memory hard fatal wide cousin dream trial student vessel tissue";
+var mnemonic = "sniff never cherry junior tuna mean cage fault company follow goat arrow";

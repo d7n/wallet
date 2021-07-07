@@ -1,1 +1,1 @@
-var mnemonic = "plug soccer satoshi report hawk final liar improve foil gauge choose essay";
+var mnemonic = "plate board joy trial kiwi quote check hood vapor fog cactus table";

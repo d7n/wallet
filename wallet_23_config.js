@@ -1,1 +1,1 @@
-var mnemonic = "crash reflect level achieve extra collect lava flag win fame road pioneer";
+var mnemonic = "rich host maid erase devote grant test road joy turtle evoke juice";

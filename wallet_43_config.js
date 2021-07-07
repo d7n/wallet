@@ -1,1 +1,1 @@
-var mnemonic = "vivid twin urge couch kind rookie daughter luggage mind muscle tilt maid";
+var mnemonic = "maximum eagle mix trade debris social onion below method deal aim van";

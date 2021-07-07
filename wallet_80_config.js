@@ -1,1 +1,1 @@
-var mnemonic = "cart scale miss gaze disorder hair ritual can clarify shoe ripple gauge";
+var mnemonic = "effort iron inhale trim color case evoke erosion arrow portion glide benefit";

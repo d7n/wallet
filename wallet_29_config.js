@@ -1,1 +1,1 @@
-var mnemonic = "wish plug pause detail tired cat explain peasant surge find feel baby";
+var mnemonic = "mechanic suspect hood cement path broccoli fine maze obtain matrix zero setup";

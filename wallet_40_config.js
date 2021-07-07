@@ -1,1 +1,1 @@
-var mnemonic = "clown truck usual night crunch way feed drama rookie civil oval arctic";
+var mnemonic = "cluster woman pledge obey sad subway tennis lawn mosquito pave ahead physical";

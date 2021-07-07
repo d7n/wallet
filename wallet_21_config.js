@@ -1,1 +1,1 @@
-var mnemonic = "uncle bonus vessel river joy outdoor field kiss half ability slot benefit";
+var mnemonic = "cliff stone surround athlete multiply genius sniff tunnel seed junior fragile credit";

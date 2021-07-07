@@ -1,1 +1,1 @@
-var mnemonic = "air buffalo shift tackle sunny erode thrive decade merge payment few yellow";
+var mnemonic = "today sight intact planet dust sport jelly panther coconut faith hurt suit";

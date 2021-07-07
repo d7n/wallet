@@ -1,1 +1,1 @@
-var mnemonic = "cricket spray hard worth stereo unique keep elite whale voyage ecology offer";
+var mnemonic = "tube pulp federal devote fall age then tourist talent rough position tape";

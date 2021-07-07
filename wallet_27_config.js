@@ -1,1 +1,1 @@
-var mnemonic = "embrace fiber crazy gym citizen once plate ride oval obtain laptop ostrich";
+var mnemonic = "stuff decline remove argue infant perfect spell solid grant section sure torch";

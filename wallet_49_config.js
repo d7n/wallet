@@ -1,1 +1,1 @@
-var mnemonic = "scatter twelve display honey knock pepper label suggest next exist gain brain";
+var mnemonic = "entry pause token exist gesture anchor detect easy ticket sword moon lucky";

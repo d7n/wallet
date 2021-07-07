@@ -1,1 +1,1 @@
-var mnemonic = "earth mistake rocket fence gallery able address oppose gift ready weather reveal";
+var mnemonic = "ghost marine rapid token warrior health comfort replace sure sausage effort lesson";

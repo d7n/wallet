@@ -1,1 +1,1 @@
-var mnemonic = "exotic meadow cupboard result cabbage forest setup reform favorite manual winner giggle";
+var mnemonic = "vacant mixture chimney uncle banner pair isolate silver grass opera shadow history";

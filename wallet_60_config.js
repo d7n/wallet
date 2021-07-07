@@ -1,1 +1,1 @@
-var mnemonic = "zone moon table snake insect drum volume among muffin reunion ramp isolate";
+var mnemonic = "abstract purchase exclude whale senior liquid unaware donate police talent digital obvious";

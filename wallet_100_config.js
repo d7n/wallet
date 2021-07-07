@@ -1,1 +1,1 @@
-var mnemonic = "prefer eyebrow true business catalog seminar eyebrow rude dragon slight warrior dignity";
+var mnemonic = "dune grain begin top hawk mule asthma unaware decline lens wrong obscure";

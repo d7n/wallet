@@ -1,1 +1,1 @@
-var mnemonic = "excess infant rug release globe asset enhance alcohol absent mass year prefer";
+var mnemonic = "sign bar throw dance digital solve strategy brick boat canal choice couple";

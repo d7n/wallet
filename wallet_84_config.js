@@ -1,1 +1,1 @@
-var mnemonic = "small rotate tornado upset chronic matter garage box clog sad update lottery";
+var mnemonic = "round merge comic car oyster corn trial label poet blue split junior";

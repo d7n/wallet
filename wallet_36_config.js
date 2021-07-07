@@ -1,1 +1,1 @@
-var mnemonic = "heart aware armor purchase water survey lawn brisk domain scan utility weather";
+var mnemonic = "culture disagree bicycle pattern stand patch frown series drift swarm popular smart";

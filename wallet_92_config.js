@@ -1,1 +1,1 @@
-var mnemonic = "alley silver theme warm around exit cool crucial funny orange busy swallow";
+var mnemonic = "van cupboard sleep sail dry soul note remind inner turkey rapid uncle";

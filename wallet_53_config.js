@@ -1,1 +1,1 @@
-var mnemonic = "pig flag dismiss mutual fiction fragile toe bring leg jungle escape approve";
+var mnemonic = "canvas cash bring chest steel muscle easy public room vacant start accuse";

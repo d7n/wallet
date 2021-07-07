@@ -1,1 +1,1 @@
-var mnemonic = "plunge document quantum hurt mention side exclude animal old seminar camera idle";
+var mnemonic = "boy chase enact number dog risk sound margin salad polar first pottery";

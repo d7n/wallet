@@ -1,1 +1,1 @@
-var mnemonic = "hammer girl tortoise critic corn anchor pole father work clerk explain rose";
+var mnemonic = "gold subject impact furnace lumber hood merit athlete rescue valve pull update";

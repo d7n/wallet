@@ -1,1 +1,1 @@
-var mnemonic = "ball doctor evil labor climb evil sleep plug that zoo blood sting";
+var mnemonic = "nasty initial hurt ramp bleak height swing other angle keep warfare body";

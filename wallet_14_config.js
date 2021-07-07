@@ -1,1 +1,1 @@
-var mnemonic = "prison journey monitor trouble urge series energy bring swarm tribe mutual teach";
+var mnemonic = "antique write motor crunch slight public three kid trouble meat poem bomb";

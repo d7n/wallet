@@ -1,1 +1,1 @@
-var mnemonic = "jungle cannon carbon blame cream fury useful bullet start laundry fluid off";
+var mnemonic = "virus supreme hamster angry lava drama truck cupboard capital right glue alert";

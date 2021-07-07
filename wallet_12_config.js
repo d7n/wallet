@@ -1,1 +1,1 @@
-var mnemonic = "road camera nothing doll aunt spy capital gloom buffalo casino step uphold";
+var mnemonic = "issue pipe trouble improve capable tent damp find below unable scale legend";

@@ -1,1 +1,1 @@
-var mnemonic = "deer number split dwarf wheat bottom region tomorrow thank lesson morning stomach";
+var mnemonic = "enough rally neck camp erosion logic element fatigue music rhythm high diesel";

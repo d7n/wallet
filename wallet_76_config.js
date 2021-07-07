@@ -1,1 +1,1 @@
-var mnemonic = "submit pave pilot trumpet give erupt strategy slush screen aware start shallow";
+var mnemonic = "dignity tooth crater thrive practice broccoli century loud sheriff sting sign mention";

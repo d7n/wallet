@@ -1,1 +1,1 @@
-var mnemonic = "risk trophy acid three dirt regular wealth invite safe minute ready all";
+var mnemonic = "blood duck mango relief cool sausage odor puzzle chef embark one outside";

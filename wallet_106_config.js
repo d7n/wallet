@@ -1,1 +1,1 @@
-var mnemonic = "unlock pig voyage shrug diamond habit virtual person open assault layer moral";
+var mnemonic = "ill quit inhale exist table genre pluck interest mind hybrid cable wild";

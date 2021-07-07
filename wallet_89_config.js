@@ -1,1 +1,1 @@
-var mnemonic = "wonder boil cram alpha portion deal cheese peasant wealth attitude blast resist";
+var mnemonic = "license use bonus reward wrong tobacco key modify crime cute yellow spare";

@@ -1,1 +1,1 @@
-var mnemonic = "rough weird reflect rude sponsor quantum mimic mansion twelve bomb dawn quiz";
+var mnemonic = "oil diary genre rent rebel giggle cradle collect outdoor because mule bench";

@@ -1,1 +1,1 @@
-var mnemonic = "spot trash inner light course busy fruit when tilt lawsuit athlete distance";
+var mnemonic = "lottery maze sphere palace snack treat day march brand leader swamp scorpion";

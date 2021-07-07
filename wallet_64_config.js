@@ -1,1 +1,1 @@
-var mnemonic = "mosquito check motion grass diet attend pistol scrap pumpkin evoke decline praise";
+var mnemonic = "mushroom wheat wrong company fashion ask crazy innocent diary regular neither vanish";

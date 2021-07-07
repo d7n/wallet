@@ -1,1 +1,1 @@
-var mnemonic = "kingdom danger belt there cousin term bar vendor suspect behind spider elegant";
+var mnemonic = "squeeze image mixture hamster hundred blade program nuclear elbow excite army east";

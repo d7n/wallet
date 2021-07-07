@@ -1,1 +1,1 @@
-var mnemonic = "kid fury all able clap rookie cousin pupil spice hat ecology they";
+var mnemonic = "will try noise head timber oak bone milk sand garbage tower mercy";

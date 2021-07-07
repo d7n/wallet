@@ -1,1 +1,1 @@
-var mnemonic = "review floor wink sport engine wreck assume dice mandate hard faith feed";
+var mnemonic = "unable engage resist van session sure parade depth maid ritual theory pyramid";

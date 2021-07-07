@@ -1,1 +1,1 @@
-var mnemonic = "machine evoke refuse crucial window acquire lecture hockey door code clip ball";
+var mnemonic = "fluid library rival swamp matrix tomato enough faith noodle sheriff south cake";

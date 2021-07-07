@@ -1,1 +1,1 @@
-var mnemonic = "east marine steak world powder pulp gift scrap oval bomb execute fiscal";
+var mnemonic = "cube hamster pitch learn lake frozen potato street glance corn bar execute";

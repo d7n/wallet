@@ -1,1 +1,1 @@
-var mnemonic = "age sick pudding action tomorrow kid stay expect nurse reward weasel birth";
+var mnemonic = "denial crew size loop have brisk window umbrella render square wrist arena";

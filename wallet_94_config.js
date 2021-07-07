@@ -1,1 +1,1 @@
-var mnemonic = "nut sand scene spider crumble cabin eagle rib tumble cost girl legend";
+var mnemonic = "phrase use cake crawl later broccoli tornado person worth deny sample item";

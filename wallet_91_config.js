@@ -1,1 +1,1 @@
-var mnemonic = "survey ginger engine inflict lyrics maze hope wet bounce attitude blush hood";
+var mnemonic = "check order night spoil zero damage cradle bacon brain require spirit subject";

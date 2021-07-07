@@ -1,1 +1,1 @@
-var mnemonic = "chicken tourist opinion luggage egg major release dad color blast tail glory";
+var mnemonic = "embark arm title zoo obvious erase shoot series receive gain sign joy";

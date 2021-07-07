@@ -1,1 +1,1 @@
-var mnemonic = "fancy already symptom spirit gaze damage trash neither bunker hockey cruel setup";
+var mnemonic = "power volcano fold drama second girl flush fat photo trumpet gentle lumber";

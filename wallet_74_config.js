@@ -1,1 +1,1 @@
-var mnemonic = "royal myth oyster unable plug nerve bitter immune gorilla caught robot daring";
+var mnemonic = "exotic design truck bargain elite man spot behave salon laptop buyer mix";

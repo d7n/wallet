@@ -1,1 +1,1 @@
-var mnemonic = "member immense surprise elephant isolate actress ribbon blame two noble dry direct";
+var mnemonic = "puzzle light surge shell carpet spy pencil soon episode damp panda nose";

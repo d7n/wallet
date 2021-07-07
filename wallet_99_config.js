@@ -1,1 +1,1 @@
-var mnemonic = "tragic clay yellow enough typical guitar traffic health kiss unfair insect size";
+var mnemonic = "hungry bar neither flee flight mail apology juice holiday salute whip build";

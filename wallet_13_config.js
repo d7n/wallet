@@ -1,1 +1,1 @@
-var mnemonic = "kidney duty rain stem ecology vast loop false swap vital before injury";
+var mnemonic = "cave rose output glide length vendor slight fiber debris palm misery morning";

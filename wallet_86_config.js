@@ -1,1 +1,1 @@
-var mnemonic = "bachelor honey snake typical erosion blast load erase mean jump reason client";
+var mnemonic = "jacket laundry network key abstract cook tomorrow auto always tumble wise health";

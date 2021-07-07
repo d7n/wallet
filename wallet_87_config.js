@@ -1,1 +1,1 @@
-var mnemonic = "butter tuna rebel swift hundred knife faith increase negative travel rhythm inform";
+var mnemonic = "index west tumble major unaware pear lobster world rotate ship debris point";

@@ -1,1 +1,1 @@
-var mnemonic = "choice dwarf pigeon dumb unaware stadium mean discover people birth ghost fold";
+var mnemonic = "cigar crunch tonight pizza draft ivory double bicycle loan dune blame cook";

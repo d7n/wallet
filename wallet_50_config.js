@@ -1,1 +1,1 @@
-var mnemonic = "analyst orphan flee mesh tell weasel loyal garment scrap certain eagle law";
+var mnemonic = "used health raven piece pulse aspect whip shock photo cat cancel maple";

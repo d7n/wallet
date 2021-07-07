@@ -1,1 +1,1 @@
-var mnemonic = "power bargain leg above unfold pig method travel strong blossom best caught";
+var mnemonic = "tattoo result laugh book satisfy target syrup desert hidden defense either elder";

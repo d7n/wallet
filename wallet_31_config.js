@@ -1,1 +1,1 @@
-var mnemonic = "spoil screen dress shine august afraid novel shrimp fluid recall shift scrub";
+var mnemonic = "goat skin unusual dad eye faint wagon helmet cargo flush capable deputy";

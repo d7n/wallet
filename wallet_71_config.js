@@ -1,1 +1,1 @@
-var mnemonic = "history sign original clever buffalo tomato know novel mechanic test regular country";
+var mnemonic = "next picnic essence above wisdom remember also renew demise surprise pretty alone";

@@ -1,1 +1,1 @@
-var mnemonic = "access inhale grunt horn eternal light dress yard hundred keen outer bachelor";
+var mnemonic = "churn park hurt loud session hedgehog ketchup face wrist stove tube grape";

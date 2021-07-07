@@ -1,1 +1,1 @@
-var mnemonic = "two romance inject spawn crucial high around dress horn cheese rotate leisure";
+var mnemonic = "crew device return alley thumb horse deputy very tragic spot misery minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt excuse roast shallow oven unhappy member banana bless uniform average teach";
+var mnemonic = "shove draft puzzle turtle crisp visa town distance pledge fit tunnel thank";

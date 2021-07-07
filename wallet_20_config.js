@@ -1,1 +1,1 @@
-var mnemonic = "success reward busy badge give ignore embody science material praise wife deposit";
+var mnemonic = "dial long situate green upgrade zoo estate crash awful glare erosion tragic";

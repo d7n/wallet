@@ -1,1 +1,1 @@
-var mnemonic = "staff struggle cover blush language wait bachelor large giraffe pelican check special";
+var mnemonic = "mountain mushroom believe method canoe honey soul bar aspect crumble syrup concert";

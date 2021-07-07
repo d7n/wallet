@@ -1,1 +1,1 @@
-var mnemonic = "crunch moral surface session muffin wasp prepare knife proud appear jeans cotton";
+var mnemonic = "rich easily vital unknown cigar trip rookie trade gift mango pulse income";

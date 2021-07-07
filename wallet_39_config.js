@@ -1,1 +1,1 @@
-var mnemonic = "ring vessel diet pill feel zero awful empower require hospital hockey emotion";
+var mnemonic = "combine fiscal attract rubber cactus chaos jaguar lunar trip assist shaft recycle";

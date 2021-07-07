@@ -1,1 +1,1 @@
-var mnemonic = "omit pencil pelican dinosaur rural keen absent young now make abandon sudden";
+var mnemonic = "minimum fog wall cruel burger belt waste amazing goat disease half song";

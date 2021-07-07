@@ -1,1 +1,1 @@
-var mnemonic = "front ask pizza field strategy solution canoe foil wire thrive expire gym";
+var mnemonic = "among bracket luggage range yard crazy oil reunion dish public torch panic";

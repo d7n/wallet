@@ -1,1 +1,1 @@
-var mnemonic = "elephant rifle space foam spray scissors flash aerobic economy october good hamster";
+var mnemonic = "bind title smart sail predict rude illness diary case divert like about";

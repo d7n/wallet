@@ -1,1 +1,1 @@
-var mnemonic = "add over move orphan craft truth filter wink monkey easy swap mule";
+var mnemonic = "problem sure earth crumble essence stick warfare cruise venue hurt guide wide";

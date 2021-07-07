@@ -1,1 +1,1 @@
-var mnemonic = "resist habit sing round student flame pig level dial cancel seed naive";
+var mnemonic = "kangaroo surge deer glory upper icon denial august absorb fruit taste cancel";

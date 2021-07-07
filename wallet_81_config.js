@@ -1,1 +1,1 @@
-var mnemonic = "maze warfare mix rather pair diesel civil thank crush nature local mammal";
+var mnemonic = "pluck correct silly extend dirt foster home raw wine inhale energy pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "rice craft brisk pass spend effort amazing media pole bike art dove";
+var mnemonic = "equip leaf spoil mosquito recall mesh cage visit struggle horror dentist color";

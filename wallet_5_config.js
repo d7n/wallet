@@ -1,1 +1,1 @@
-var mnemonic = "chuckle throw game frequent wedding expose expand hollow fatigue current summer run";
+var mnemonic = "bonus note traffic million ribbon laugh tell chuckle auction peasant awkward price";

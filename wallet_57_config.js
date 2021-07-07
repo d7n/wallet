@@ -1,1 +1,1 @@
-var mnemonic = "switch crazy list ball claw coyote champion congress pause club section sea";
+var mnemonic = "fragile skill shadow forward easy comic jar abuse want huge oxygen interest";

@@ -1,1 +1,1 @@
-var mnemonic = "hero man collect bird foil involve find assist minute multiply large brush";
+var mnemonic = "dream genius seven smooth quantum valid retreat eight voice cheap drum sense";

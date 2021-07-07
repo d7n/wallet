@@ -1,1 +1,1 @@
-var mnemonic = "stick screen elder argue build name grain settle fossil genius camp earn";
+var mnemonic = "guard tiny police capital quiz execute arm response custom viable forest deny";

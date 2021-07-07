@@ -1,1 +1,1 @@
-var mnemonic = "deliver insect blade raw exclude trick salt manual enter slam spend couple";
+var mnemonic = "ginger news mango where purpose yard office proof rough foam quarter safe";

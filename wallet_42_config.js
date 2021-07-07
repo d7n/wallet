@@ -1,1 +1,1 @@
-var mnemonic = "menu owner frown close thing apology play happy naive rookie stairs guard";
+var mnemonic = "silent climb hire sea harvest crucial artwork size later reflect convince penalty";

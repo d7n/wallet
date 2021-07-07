@@ -1,1 +1,1 @@
-var mnemonic = "prefer famous sound health cry honey crucial coin arrow today success daring";
+var mnemonic = "carry pink post drill display public left assist grief mansion remain ceiling";

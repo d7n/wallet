@@ -1,1 +1,1 @@
-var mnemonic = "away language twelve robust rug often cousin barrel sound shoe box sustain";
+var mnemonic = "daughter vicious genius goose nephew cherry bitter render vacant empower ordinary garlic";

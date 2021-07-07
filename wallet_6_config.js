@@ -1,1 +1,1 @@
-var mnemonic = "glide wild tomorrow situate stem jelly media size just frequent leave sorry";
+var mnemonic = "choose someone arrive tail ghost awful dove cupboard gap discover rally damp";

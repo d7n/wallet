@@ -1,1 +1,1 @@
-var mnemonic = "lion orient grit ring horse alien canoe lazy turtle sheriff pole avocado";
+var mnemonic = "same evidence innocent chair cousin panel erode hero square oak pill author";

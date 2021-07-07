@@ -1,1 +1,1 @@
-var mnemonic = "lab social size ghost gentle critic glance field still favorite clown about";
+var mnemonic = "joy ill forget leader ball cruel ship guitar smart smooth obvious rebel";

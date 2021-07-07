@@ -1,1 +1,1 @@
-var mnemonic = "next trend scissors mobile service pitch hazard present dutch bind lyrics hat";
+var mnemonic = "parent myth square agree increase method upper ahead field clap frown pitch";

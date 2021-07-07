@@ -1,1 +1,1 @@
-var mnemonic = "about material analyst artist glimpse ship marble parade gorilla praise online effort";
+var mnemonic = "either finish spread fruit tribe blur outside frame uniform doll truly february";

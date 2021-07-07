@@ -1,1 +1,1 @@
-var mnemonic = "coast urban flower enemy move cute cycle palm devote peasant undo hero";
+var mnemonic = "scale eternal estate sunny wish chronic custom leaf file solid icon tattoo";
