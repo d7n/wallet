@@ -1,1 +1,1 @@
-var mnemonic = "poet twist bomb fatal smoke warfare ready labor desert mail cabin film";
+var mnemonic = "embark veteran mercy blanket diary left leader idle lottery bomb movie juice";

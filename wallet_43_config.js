@@ -1,1 +1,1 @@
-var mnemonic = "cup amount motor subway kiss notable dish more snake knock begin barely";
+var mnemonic = "corn engine endless menu need creek pipe play angle tower tumble enlist";

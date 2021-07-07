@@ -1,1 +1,1 @@
-var mnemonic = "sand tank quarter zone car february brick hospital unknown save search super";
+var mnemonic = "duck flush path unfair globe tooth slow tattoo swear unaware sleep large";

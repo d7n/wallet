@@ -1,1 +1,1 @@
-var mnemonic = "match vast genre badge music essay hundred figure galaxy twelve unique panther";
+var mnemonic = "tip rent hazard need peanut energy bitter festival still beauty unique opera";

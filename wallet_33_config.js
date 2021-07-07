@@ -1,1 +1,1 @@
-var mnemonic = "polar tortoise merry ecology fade position near horse frequent churn metal design";
+var mnemonic = "joke penalty clown edit student earn project nurse game laptop gesture truth";

@@ -1,1 +1,1 @@
-var mnemonic = "ride expect diagram group thunder junk announce burst guess artist planet learn";
+var mnemonic = "thing coin original december style sunny cliff source crush ten unit essence";

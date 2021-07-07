@@ -1,1 +1,1 @@
-var mnemonic = "feed post bleak blossom bunker reason review island cycle gallery left vapor";
+var mnemonic = "car soon equip effort trust process episode glare pet trend chest leaf";

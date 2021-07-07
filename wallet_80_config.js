@@ -1,1 +1,1 @@
-var mnemonic = "exhaust race flock gasp fog monster imitate point rescue corn uncover bundle";
+var mnemonic = "yellow wasp blast walnut tool reason fly immense mango pluck cry carpet";

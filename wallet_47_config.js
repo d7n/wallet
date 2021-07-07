@@ -1,1 +1,1 @@
-var mnemonic = "ticket citizen breeze shock canoe erode enter decorate crawl age sunset false";
+var mnemonic = "about blood point wood pole shock version exact deny method close unveil";

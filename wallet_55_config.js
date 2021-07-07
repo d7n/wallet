@@ -1,1 +1,1 @@
-var mnemonic = "camp flip worth taxi episode impose useless else lake illegal problem craft";
+var mnemonic = "genre vault donor express snack advice right tomato joy recall amount dream";

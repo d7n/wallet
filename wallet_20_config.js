@@ -1,1 +1,1 @@
-var mnemonic = "awkward card latin flame eye favorite twenty sample horror omit spin day";
+var mnemonic = "swear ribbon toss theory live term flat ice hire change rose squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "october multiply judge clever school task crouch second off salmon excuse divorce";
+var mnemonic = "duty focus amused course bullet airport diet all jacket frown section cruise";

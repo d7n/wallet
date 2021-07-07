@@ -1,1 +1,1 @@
-var mnemonic = "left dial agent cattle illegal edit injury hurry swim mosquito lend member";
+var mnemonic = "upset school syrup cushion tree decline remain toe ticket fragile pledge sting";

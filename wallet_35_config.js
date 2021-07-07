@@ -1,1 +1,1 @@
-var mnemonic = "grab taxi announce mango liquid satisfy sun flavor frequent suffer observe tree";
+var mnemonic = "appear grant supreme space baby timber spoil gallery shiver begin tortoise phrase";

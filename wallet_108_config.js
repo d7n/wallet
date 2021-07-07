@@ -1,1 +1,1 @@
-var mnemonic = "kiwi route lobster rose question company section dutch anchor water water civil";
+var mnemonic = "candy season scare egg theme spot choose remove add power normal winner";

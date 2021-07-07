@@ -1,1 +1,1 @@
-var mnemonic = "glad manual flush motion fire situate depth bike famous man maze embrace";
+var mnemonic = "sort exile clinic weird table miracle discover copper critic define dwarf crime";

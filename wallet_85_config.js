@@ -1,1 +1,1 @@
-var mnemonic = "energy humble rhythm ribbon believe pool reopen motor hope chalk expect tail";
+var mnemonic = "human divert chronic race relax chapter cupboard mixture trash hello dash indicate";

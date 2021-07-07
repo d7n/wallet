@@ -1,1 +1,1 @@
-var mnemonic = "ethics flock doll river occur flip stand minute identify mushroom wagon flavor";
+var mnemonic = "swing position model inform scan bind dawn just network amateur flash fork";

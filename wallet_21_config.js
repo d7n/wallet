@@ -1,1 +1,1 @@
-var mnemonic = "sick crawl happy purity trigger void soul approve dinosaur secret guard theory";
+var mnemonic = "weasel cupboard total sauce gloom stock alley once sight celery swarm alpha";

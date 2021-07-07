@@ -1,1 +1,1 @@
-var mnemonic = "ozone pioneer shield phone always cute parent fetch depth tell flip detail";
+var mnemonic = "cost pumpkin first involve company visa virtual object dentist used scheme spin";

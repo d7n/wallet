@@ -1,1 +1,1 @@
-var mnemonic = "dream glare clutch maximum people ecology apart argue arch laptop chunk diesel";
+var mnemonic = "wing eternal real priority infant evoke pulp novel lift outside wise bargain";

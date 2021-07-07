@@ -1,1 +1,1 @@
-var mnemonic = "laugh deposit suffer gesture lecture vault physical spirit swarm afraid pioneer frame";
+var mnemonic = "guess dismiss mention velvet stumble share recycle glimpse multiply soon exotic little";

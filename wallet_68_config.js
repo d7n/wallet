@@ -1,1 +1,1 @@
-var mnemonic = "sense hub timber raw canoe throw cheap scan close height mind place";
+var mnemonic = "boat pilot vital over lock toilet orchard warrior above legal toss recall";

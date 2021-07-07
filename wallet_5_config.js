@@ -1,1 +1,1 @@
-var mnemonic = "ask dawn laptop tip athlete length master tuna exercise ill top effort";
+var mnemonic = "lion month ozone mammal apart people autumn illness cement vote quantum picnic";

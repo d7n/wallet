@@ -1,1 +1,1 @@
-var mnemonic = "crush grow person mouse brick keen twice fiction boost siege pill idle";
+var mnemonic = "cousin gift wish use soda ticket option actual gate usage badge hand";

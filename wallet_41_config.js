@@ -1,1 +1,1 @@
-var mnemonic = "disease cream fiber wisdom audit scout board west income jungle slide pipe";
+var mnemonic = "yellow enemy medal material rib blade sniff glimpse bulk misery avoid recipe";

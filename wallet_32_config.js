@@ -1,1 +1,1 @@
-var mnemonic = "flower season crunch broom boil put useful aisle maid talk drink aerobic";
+var mnemonic = "huge often faith over decide friend pact school praise stable grass movie";

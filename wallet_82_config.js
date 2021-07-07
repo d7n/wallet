@@ -1,1 +1,1 @@
-var mnemonic = "soup find glare vibrant bean wrap general fence surround border below place";
+var mnemonic = "into wing spirit pattern verify tail zero clog front acid theme width";

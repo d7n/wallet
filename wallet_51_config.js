@@ -1,1 +1,1 @@
-var mnemonic = "boy whale snap stumble rack helmet debris stadium normal curtain stand defense";
+var mnemonic = "clip swing another broccoli dismiss sauce label primary admit seat film throw";

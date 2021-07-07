@@ -1,1 +1,1 @@
-var mnemonic = "actress special cotton modify calm spread mystery orange cute sadness business praise";
+var mnemonic = "cabbage trick horse giant apple garden electric loop wife sense head swing";

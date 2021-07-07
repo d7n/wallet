@@ -1,1 +1,1 @@
-var mnemonic = "square pool napkin language blood pretty drip common economy biology produce strategy";
+var mnemonic = "chalk home engage best success april agent crop enroll eagle light quality";

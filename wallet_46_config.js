@@ -1,1 +1,1 @@
-var mnemonic = "say shift school clown stumble patient tide gather stomach cherry burger mind";
+var mnemonic = "stable blue draw lesson seminar december hand youth barrel discover stage security";

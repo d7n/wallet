@@ -1,1 +1,1 @@
-var mnemonic = "breeze tower boring message vintage galaxy primary inject rookie enroll wage salt";
+var mnemonic = "mystery gaze fiscal link midnight orphan taste assume gold gold sand coral";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar gym steak rescue engine verb panther dinosaur document hockey light diagram";
+var mnemonic = "cart fall release lobster refuse swarm panel want daughter element false credit";

@@ -1,1 +1,1 @@
-var mnemonic = "tone blanket pigeon jealous idea learn animal open square ball urban enlist";
+var mnemonic = "spike argue green live energy kingdom poverty exist indoor spike faith student";

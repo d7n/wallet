@@ -1,1 +1,1 @@
-var mnemonic = "hungry because matter primary clip general object route clay sail essence control";
+var mnemonic = "injury biology midnight employ hobby panic dream useful give kite fossil radar";

@@ -1,1 +1,1 @@
-var mnemonic = "brown cry ecology chapter soldier wire ancient cheap dutch oblige strategy casino";
+var mnemonic = "ivory question company spice fringe sadness north matrix guide toe develop write";

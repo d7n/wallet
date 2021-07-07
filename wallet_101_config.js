@@ -1,1 +1,1 @@
-var mnemonic = "rebel cinnamon sponsor giraffe cage absurd advance judge rally naive exchange whale";
+var mnemonic = "behind scan damp copper oxygen people unaware rice shiver dog wink tunnel";

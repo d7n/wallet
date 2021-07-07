@@ -1,1 +1,1 @@
-var mnemonic = "wasp dismiss credit lava you fortune unaware omit sudden father derive describe";
+var mnemonic = "taste mountain salmon tongue human fold baby anxiety virtual loud joy install";

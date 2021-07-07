@@ -1,1 +1,1 @@
-var mnemonic = "joke tooth truth behave loop caught enroll tumble judge frown safe grant";
+var mnemonic = "chief note oven cycle satoshi acoustic adjust card sword record hurdle drink";

@@ -1,1 +1,1 @@
-var mnemonic = "topple sauce spatial coach approve maple inquiry rate wolf demise copper level";
+var mnemonic = "attack fly spot young iron pigeon mimic summer direct remove buffalo zoo";

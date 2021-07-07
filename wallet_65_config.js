@@ -1,1 +1,1 @@
-var mnemonic = "illness endless ten subject tribe develop diary ceiling butter engage apart furnace";
+var mnemonic = "artwork language hard develop skirt crucial raccoon dad tornado asthma artefact dinner";

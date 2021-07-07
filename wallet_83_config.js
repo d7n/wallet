@@ -1,1 +1,1 @@
-var mnemonic = "dirt grab sadness awesome palm skate ribbon lion fluid try guitar avocado";
+var mnemonic = "mother result artist brain knock omit typical path follow critic club accident";

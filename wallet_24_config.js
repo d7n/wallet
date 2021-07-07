@@ -1,1 +1,1 @@
-var mnemonic = "shaft flight camp state vivid share tissue bird crunch chat clutch skirt";
+var mnemonic = "faculty prepare around crisp enough test riot monitor smart detail parent hire";

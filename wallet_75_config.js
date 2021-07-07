@@ -1,1 +1,1 @@
-var mnemonic = "swim card olive kind rebel museum chaos trial image core february coin";
+var mnemonic = "misery pet sword material clock siege cry analyst tornado swallow ripple van";

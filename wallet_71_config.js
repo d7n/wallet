@@ -1,1 +1,1 @@
-var mnemonic = "bracket stamp armed tag elder ginger trend dumb pair buyer fresh salute";
+var mnemonic = "pioneer gorilla now industry nuclear enrich grace price dizzy output push finish";

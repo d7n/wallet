@@ -1,1 +1,1 @@
-var mnemonic = "attend slice accuse produce feature barrel tomorrow sadness more fade patrol chicken";
+var mnemonic = "blind ranch giant tiny session pave profit skill idle wink frog valid";

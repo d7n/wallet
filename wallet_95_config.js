@@ -1,1 +1,1 @@
-var mnemonic = "kit crowd afraid street disorder scheme empty charge desert tired spring senior";
+var mnemonic = "smooth argue guitar kitten object rent void carpet group garlic believe south";

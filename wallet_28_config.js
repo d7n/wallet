@@ -1,1 +1,1 @@
-var mnemonic = "dice similar sleep disagree diagram bulb village thunder owner empower blast run";
+var mnemonic = "field grass custom tumble cliff world crop catalog glove impact distance erode";

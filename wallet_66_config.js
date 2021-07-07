@@ -1,1 +1,1 @@
-var mnemonic = "attend company badge later gather grace float dose display sunny maximum team";
+var mnemonic = "midnight aunt sibling roof spider strike lemon load enough clown category wrap";

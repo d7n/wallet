@@ -1,1 +1,1 @@
-var mnemonic = "enjoy brisk night ramp refuse pool worth join morning consider flip because";
+var mnemonic = "suffer agent install today apple oblige guilt ball sell proof kitten scale";

@@ -1,1 +1,1 @@
-var mnemonic = "lend rapid toss able shrimp joke paper baby unable slab panda all";
+var mnemonic = "famous horse jewel later rack copper tumble dust music regular wire remember";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber cherry fence control ordinary goose naive little shop wash jaguar help";
+var mnemonic = "foam program chalk when punch warfare donate tattoo north include book caught";

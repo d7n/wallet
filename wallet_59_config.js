@@ -1,1 +1,1 @@
-var mnemonic = "apart taste remind despair fire rally eye unique rhythm result ignore mirror";
+var mnemonic = "junk coast soft frequent tribe taste glory poverty action perfect illness infant";

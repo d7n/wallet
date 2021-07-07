@@ -1,1 +1,1 @@
-var mnemonic = "appear cricket rough clinic original other genuine any health inform trip estate";
+var mnemonic = "laptop provide excess repair quit wait announce funny swarm card spy lion";

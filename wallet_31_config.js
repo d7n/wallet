@@ -1,1 +1,1 @@
-var mnemonic = "infant switch march scale assist confirm stomach family happy unfair aisle tennis";
+var mnemonic = "universe volume rack double brown catalog hill genuine depth gown spin alpha";

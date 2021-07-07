@@ -1,1 +1,1 @@
-var mnemonic = "when erase atom bubble detail plug ginger gossip mandate road nest alcohol";
+var mnemonic = "render hunt script shrug derive laundry way spike ability purpose purpose glad";

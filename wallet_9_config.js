@@ -1,1 +1,1 @@
-var mnemonic = "sudden acid galaxy hamster foot round feed mimic curious fit club gloom";
+var mnemonic = "clap together razor dragon sketch cradle kangaroo bridge supply rose betray height";

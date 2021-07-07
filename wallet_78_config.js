@@ -1,1 +1,1 @@
-var mnemonic = "flat scan illness heavy labor loop health rate critic life joke afraid";
+var mnemonic = "tone long network family smile tattoo trigger surround prevent setup finish worry";

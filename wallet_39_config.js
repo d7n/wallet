@@ -1,1 +1,1 @@
-var mnemonic = "lava pink tribe dirt scrub raccoon ensure crew dash comic forget eternal";
+var mnemonic = "cross category decorate wreck admit key release slot six cabin electric middle";

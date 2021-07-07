@@ -1,1 +1,1 @@
-var mnemonic = "arrest pencil domain risk you time equal artwork shine devote abstract note";
+var mnemonic = "sausage fan cement tell head sport onion beach high together deliver physical";

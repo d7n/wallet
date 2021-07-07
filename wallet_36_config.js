@@ -1,1 +1,1 @@
-var mnemonic = "famous brave bacon horror early tiny path faith fantasy setup scrub flip";
+var mnemonic = "royal behind beauty parrot draw margin logic cluster december large cupboard joke";

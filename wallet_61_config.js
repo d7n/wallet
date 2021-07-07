@@ -1,1 +1,1 @@
-var mnemonic = "foot seven color december cross east grass mass fog gasp expect blade";
+var mnemonic = "song film wealth gold surprise love proof amazing best common hurdle there";

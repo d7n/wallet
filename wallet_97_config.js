@@ -1,1 +1,1 @@
-var mnemonic = "say awkward affair transfer awful donate salon forget sausage comic shoot reveal";
+var mnemonic = "maximum cigar timber limb aerobic market siege what urban pond buzz stumble";

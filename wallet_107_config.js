@@ -1,1 +1,1 @@
-var mnemonic = "usual slab moral lift atom poem metal guitar gas august daughter horn";
+var mnemonic = "warm close chase situate labor forum conduct pigeon foil series purpose fame";

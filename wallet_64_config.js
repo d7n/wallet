@@ -1,1 +1,1 @@
-var mnemonic = "bacon mom ranch deny bid below cause grid message extra real turtle";
+var mnemonic = "merry waste garlic iron interest regular unable say door shiver worry else";

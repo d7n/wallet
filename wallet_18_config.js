@@ -1,1 +1,1 @@
-var mnemonic = "hybrid error tenant universe suffer true problem useful blouse enforce math keen";
+var mnemonic = "acquire lyrics shoe guess test off carpet author nerve minimum credit outdoor";

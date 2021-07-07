@@ -1,1 +1,1 @@
-var mnemonic = "swallow carbon fish easily metal agent engine supply lemon combine insect predict";
+var mnemonic = "bubble junk upset across monkey dog vintage middle craft manual turtle echo";

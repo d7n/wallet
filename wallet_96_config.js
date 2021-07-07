@@ -1,1 +1,1 @@
-var mnemonic = "magnet horn enrich unfold sell raise goat wait motion auction pen group";
+var mnemonic = "eternal settle news soon kitchen gas unhappy outdoor jeans claw kitten point";

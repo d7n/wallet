@@ -1,1 +1,1 @@
-var mnemonic = "iron cable educate price fly sail lunar bread capable sport share physical";
+var mnemonic = "despair doctor fox thank anger hint marble property recycle service employ suspect";

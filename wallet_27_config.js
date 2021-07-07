@@ -1,1 +1,1 @@
-var mnemonic = "clip solar immense museum body grass say more acoustic dismiss flag apple";
+var mnemonic = "mirror swap cross mansion curve stomach supreme alter nominee melody empty misery";

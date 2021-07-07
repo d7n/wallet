@@ -1,1 +1,1 @@
-var mnemonic = "dash current syrup spare chaos buzz torch episode good team cause excuse";
+var mnemonic = "digital scene fatigue major city alpha police badge black copy weird boil";

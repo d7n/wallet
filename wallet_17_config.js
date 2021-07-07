@@ -1,1 +1,1 @@
-var mnemonic = "twice volume illegal scout double quarter combine better hunt feature multiply build";
+var mnemonic = "fox stamp junior lake cannon bind swamp talk toss pink fish flight";

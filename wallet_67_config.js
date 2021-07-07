@@ -1,1 +1,1 @@
-var mnemonic = "permit day garage ride divide frown only head net impact swing twice";
+var mnemonic = "feel unfair nuclear aspect also gate pretty flame hollow edge suspect sunset";

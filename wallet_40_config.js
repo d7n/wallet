@@ -1,1 +1,1 @@
-var mnemonic = "melody link thing execute memory sell parent twin case urge excite elbow";
+var mnemonic = "mirror cattle laugh invite private vapor fringe outside swear bright erupt pitch";

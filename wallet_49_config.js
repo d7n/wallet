@@ -1,1 +1,1 @@
-var mnemonic = "arrange nation hire lobster health melt still plug gate lunch grain pistol";
+var mnemonic = "frog puppy nature staff ramp book era client staff spend oval census";

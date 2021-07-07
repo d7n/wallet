@@ -1,1 +1,1 @@
-var mnemonic = "gas search neither spawn moment radio secret lounge special pull north hub";
+var mnemonic = "mushroom tilt unhappy rhythm define run board horror animal giraffe erosion arena";

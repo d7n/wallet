@@ -1,1 +1,1 @@
-var mnemonic = "risk toast help total trend ethics cruise palm dinosaur achieve confirm speak";
+var mnemonic = "nut exhibit stock future tortoise ride core jar topple jeans certain song";

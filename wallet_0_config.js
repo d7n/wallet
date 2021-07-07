@@ -1,1 +1,1 @@
-var mnemonic = "axis tired twelve mass upgrade magnet spy mirror debris enable impact ill";
+var mnemonic = "silly country chase talent park wild hello famous route river tail opera";

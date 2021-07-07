@@ -1,1 +1,1 @@
-var mnemonic = "next tribe void satoshi stand innocent peace pulse dutch cannon joke post";
+var mnemonic = "milk squeeze order stable rack strategy dose mention poet intact submit female";

@@ -1,1 +1,1 @@
-var mnemonic = "robust friend extra sound ramp pear gorilla acid pen primary destroy effort";
+var mnemonic = "better today enough love cloth pig mystery burden eagle hand route main";

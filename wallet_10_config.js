@@ -1,1 +1,1 @@
-var mnemonic = "crush unhappy elbow link bus typical document tumble puzzle angle all easy";
+var mnemonic = "boat unusual mercy snap twice face opinion enter scrub average lumber sand";

@@ -1,1 +1,1 @@
-var mnemonic = "zero survey credit dad knife hope giggle arrest fortune gift reflect peasant";
+var mnemonic = "tragic song potato step mountain abuse gentle balance nose monkey general bargain";

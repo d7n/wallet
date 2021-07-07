@@ -1,1 +1,1 @@
-var mnemonic = "romance race slush mushroom deputy purity know miracle flat venture laptop frequent";
+var mnemonic = "question anxiety cereal history ice belt leopard entry hire sell father base";

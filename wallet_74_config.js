@@ -1,1 +1,1 @@
-var mnemonic = "engine name exit jelly rice defense answer travel pumpkin trap middle actor";
+var mnemonic = "walk drip divide police only liquid galaxy kit process danger mass uncover";

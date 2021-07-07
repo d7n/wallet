@@ -1,1 +1,1 @@
-var mnemonic = "pill tonight vanish attitude column chase reason inform neglect keen tank twelve";
+var mnemonic = "raw music wing deliver blame call jaguar rather over coast silver plate";

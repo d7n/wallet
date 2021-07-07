@@ -1,1 +1,1 @@
-var mnemonic = "advice thumb cost olive veteran now cause kitchen round pig eternal toilet";
+var mnemonic = "grain magic follow manual axis electric able offer mountain panel blossom gate";

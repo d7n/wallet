@@ -1,1 +1,1 @@
-var mnemonic = "hollow merry they moral priority bargain truck enable fresh mail frog alpha";
+var mnemonic = "market estate cute vapor ski fruit mix finish ketchup salute unaware sock";

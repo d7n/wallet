@@ -1,1 +1,1 @@
-var mnemonic = "bone dinosaur drift reveal casual laugh nurse margin scorpion pig vanish poverty";
+var mnemonic = "oyster fire ripple scan gorilla bulb plug cupboard lobster already weapon elbow";

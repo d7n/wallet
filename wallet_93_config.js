@@ -1,1 +1,1 @@
-var mnemonic = "ozone pear wire click quiz hazard wing eight ill soccer soon empty";
+var mnemonic = "behave loud velvet slender glide poem salon benefit today damage surround canal";

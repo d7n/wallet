@@ -1,1 +1,1 @@
-var mnemonic = "vehicle spare sad memory gorilla avoid emotion rail fix make orchard day";
+var mnemonic = "all stone impulse fiscal trophy road loan extra phone build atom fire";

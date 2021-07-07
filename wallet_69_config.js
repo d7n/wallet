@@ -1,1 +1,1 @@
-var mnemonic = "ball bundle canal onion wing setup flash rocket attack round option link";
+var mnemonic = "happy faith limit gas adjust wheat umbrella early phrase file laugh receive";
