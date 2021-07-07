@@ -1,1 +1,1 @@
-var mnemonic = "assault lecture enroll control enough chair unveil sweet puzzle drill original repair";
+var mnemonic = "quiz emotion black barrel decline pioneer away arch credit bar tomorrow lens";

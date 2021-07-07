@@ -1,1 +1,1 @@
-var mnemonic = "chimney digital topic trick budget auto tennis rhythm aunt exact popular solid";
+var mnemonic = "hero cement beyond magnet high garden spirit slight cry saddle term help";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition program call marine pond toddler obtain scatter because word fee caught";
+var mnemonic = "laptop electric elephant snap draft earth sniff empower trust satoshi wide stomach";

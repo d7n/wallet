@@ -1,1 +1,1 @@
-var mnemonic = "butter same pool rescue west logic romance umbrella cool field truly salt";
+var mnemonic = "display fly adult town they walnut reflect van sword napkin idea attack";

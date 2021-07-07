@@ -1,1 +1,1 @@
-var mnemonic = "side bullet gadget expose dress act grief regret dinner boring paddle first";
+var mnemonic = "business icon give pulp hood rain gain dragon skirt code leopard live";

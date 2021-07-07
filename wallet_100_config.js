@@ -1,1 +1,1 @@
-var mnemonic = "dinner proud rookie client there extra enroll mystery boat junk dinner wing";
+var mnemonic = "layer track cherry few region what beach afford bronze leopard rescue debris";

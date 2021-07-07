@@ -1,1 +1,1 @@
-var mnemonic = "later cloud insect spike soap simple wife squirrel tuition brisk ship boss";
+var mnemonic = "blossom double silly core stove skill bind airport solve capital leg dog";

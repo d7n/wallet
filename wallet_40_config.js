@@ -1,1 +1,1 @@
-var mnemonic = "canal cinnamon reward filter wife rough cost crime pilot cry trend day";
+var mnemonic = "kit panther mention vacant bachelor below purpose faith unable item vanish beach";

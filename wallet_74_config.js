@@ -1,1 +1,1 @@
-var mnemonic = "climb alcohol pact local direct post relief device damage music logic valid";
+var mnemonic = "art aware ostrich rose slot media price vendor remember time auction cupboard";

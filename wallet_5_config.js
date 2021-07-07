@@ -1,1 +1,1 @@
-var mnemonic = "cotton tired vast gap focus discover eternal captain tortoise mean amazing half";
+var mnemonic = "thrive valley equal trip uncle grid light prevent cream innocent input razor";

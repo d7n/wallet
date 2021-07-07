@@ -1,1 +1,1 @@
-var mnemonic = "true cart month utility canyon upset burger come hire always end coil";
+var mnemonic = "apology feature aware sugar apology come guilt there earth reason bean hope";

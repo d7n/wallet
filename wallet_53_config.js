@@ -1,1 +1,1 @@
-var mnemonic = "olympic frown gossip tell raccoon payment cushion tape design maple game inmate";
+var mnemonic = "abuse pretty ozone hobby kind cook east govern cactus coin surprise box";

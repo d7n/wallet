@@ -1,1 +1,1 @@
-var mnemonic = "digital exercise cream hair super legal despair dress chimney until pattern hammer";
+var mnemonic = "wage exhaust abstract document replace quarter nurse payment space limit manage metal";

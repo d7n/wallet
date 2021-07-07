@@ -1,1 +1,1 @@
-var mnemonic = "type deputy physical frog castle fit prize boss say review onion tongue";
+var mnemonic = "eagle weather smile unfold sketch place ranch elegant pulse future imitate midnight";

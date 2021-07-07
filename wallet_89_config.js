@@ -1,1 +1,1 @@
-var mnemonic = "brown good chronic drink feature front punch guitar despair typical athlete quality";
+var mnemonic = "practice season visa neglect visual sense buffalo sustain state shoe rough frequent";

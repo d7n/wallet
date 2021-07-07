@@ -1,1 +1,1 @@
-var mnemonic = "perfect honey roof trick page shock jealous split spike play limit orient";
+var mnemonic = "fuel sketch ozone sample cricket thumb tail diet only dilemma cattle shuffle";

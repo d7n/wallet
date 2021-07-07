@@ -1,1 +1,1 @@
-var mnemonic = "route stumble act paddle critic palace message present tonight energy cube ripple";
+var mnemonic = "love cloud cloth acid enemy panda unfold person sentence cotton liar liar";

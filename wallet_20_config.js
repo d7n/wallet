@@ -1,1 +1,1 @@
-var mnemonic = "hard zebra outer frequent about connect tide pelican fold copper exclude world";
+var mnemonic = "bicycle town vast plastic defy scrub basic rough odor middle river isolate";

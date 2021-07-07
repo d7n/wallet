@@ -1,1 +1,1 @@
-var mnemonic = "save birth history anger feed lunch width spend oxygen canoe eager adapt";
+var mnemonic = "width worry future oxygen cruel royal unaware vessel siege crucial slice crucial";

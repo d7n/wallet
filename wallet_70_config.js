@@ -1,1 +1,1 @@
-var mnemonic = "police lemon curve dumb achieve animal swing perfect denial ring firm army";
+var mnemonic = "advance private immune select display finger track quiz embrace second type choice";

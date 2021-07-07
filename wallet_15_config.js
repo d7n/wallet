@@ -1,1 +1,1 @@
-var mnemonic = "wrist roof oyster fossil control hand indoor twice surround upon depend solution";
+var mnemonic = "weasel fold cannon fossil pupil door wood corn bone artwork trial symptom";

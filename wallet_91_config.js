@@ -1,1 +1,1 @@
-var mnemonic = "random flip similar dragon define crucial hidden fiction domain spike shrug fresh";
+var mnemonic = "bracket can gold style wine advice gun clever crazy deposit carry brain";

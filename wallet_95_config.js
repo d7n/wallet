@@ -1,1 +1,1 @@
-var mnemonic = "ceiling blue clip giggle funny notice castle jewel about path zone legal";
+var mnemonic = "expect trash explain visit uphold liar uncle pupil artefact aware doctor indoor";

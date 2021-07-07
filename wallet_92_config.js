@@ -1,1 +1,1 @@
-var mnemonic = "void achieve demise gallery camera anxiety december wealth vague notable case occur";
+var mnemonic = "order honey myth educate alert cabin item fury digital hold work remember";

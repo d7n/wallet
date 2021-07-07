@@ -1,1 +1,1 @@
-var mnemonic = "type palace kit alley jar solar snow sausage vendor doll gasp thing";
+var mnemonic = "soap valve endorse raw deposit cargo magic lava return asthma cushion license";

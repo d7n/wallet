@@ -1,1 +1,1 @@
-var mnemonic = "animal divide sauce crowd purse butter hidden quiz tiger like evil patrol";
+var mnemonic = "adjust hover paddle stable document desert sadness team carbon involve become advance";

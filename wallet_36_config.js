@@ -1,1 +1,1 @@
-var mnemonic = "excess enemy luggage session dry come soap health error art paddle reward";
+var mnemonic = "spice gadget fresh relief right can swing cradle fresh able cheese fat";

@@ -1,1 +1,1 @@
-var mnemonic = "nest tooth memory music winter example oak mammal include giraffe luxury sleep";
+var mnemonic = "obscure glad biology cause pencil draw winter portion finish chronic egg decline";

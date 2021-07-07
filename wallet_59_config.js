@@ -1,1 +1,1 @@
-var mnemonic = "pink drink ghost grant chronic balcony joke shock bring unusual unveil fade";
+var mnemonic = "frown ill sword category decorate crowd spawn iron fresh omit cause miss";

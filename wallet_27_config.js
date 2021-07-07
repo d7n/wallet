@@ -1,1 +1,1 @@
-var mnemonic = "foil please huge half gasp mechanic silk glue border clown curve shrug";
+var mnemonic = "assume normal loan picture impact spirit coconut guilt vessel romance shed leader";

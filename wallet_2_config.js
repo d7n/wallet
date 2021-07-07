@@ -1,1 +1,1 @@
-var mnemonic = "bomb exotic cram brother push guide duck solar switch digital blossom team";
+var mnemonic = "interest pole knife vague price behind remove pledge discover average address fury";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic keen sweet top leg empty february produce one balcony pear benefit";
+var mnemonic = "proof theory room toe bench tent blanket cherry ghost lawn wrestle jazz";

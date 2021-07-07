@@ -1,1 +1,1 @@
-var mnemonic = "initial rather reveal swap cup convince supply raise unique opera skin way";
+var mnemonic = "magic engage audit stamp tourist rebuild castle train embrace file maple canoe";

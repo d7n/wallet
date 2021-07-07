@@ -1,1 +1,1 @@
-var mnemonic = "crunch during misery tag merry material shoe dad buffalo often onion crash";
+var mnemonic = "electric drama tornado coconut brass cycle fence south find salon today hint";

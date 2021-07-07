@@ -1,1 +1,1 @@
-var mnemonic = "scare more like item behave novel solution slab gallery champion video age";
+var mnemonic = "country range mobile this public warrior cruel accuse liar finger outer gather";

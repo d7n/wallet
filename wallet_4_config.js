@@ -1,1 +1,1 @@
-var mnemonic = "just clog leaf nothing inspire empty obvious puzzle deliver boat rapid senior";
+var mnemonic = "stool phrase alert water benefit lawsuit citizen joke rough trim hill rule";

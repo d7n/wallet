@@ -1,1 +1,1 @@
-var mnemonic = "priority witness aim fix embark hello blossom detail castle assume address three";
+var mnemonic = "endless label dice elite champion mad task impact humor feel clown thing";

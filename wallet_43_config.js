@@ -1,1 +1,1 @@
-var mnemonic = "sudden embrace gather today push weird plastic dove again fever horse peasant";
+var mnemonic = "vault hand ski spend length very brass usual symbol engine best width";

@@ -1,1 +1,1 @@
-var mnemonic = "danger model hub minimum dismiss color thing cart green chalk divert open";
+var mnemonic = "trap earth mirror negative during fragile mistake remain fame prepare window column";

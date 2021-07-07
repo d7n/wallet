@@ -1,1 +1,1 @@
-var mnemonic = "seed hood movie spirit harbor van situate analyst pink ladder spoon boost";
+var mnemonic = "present dawn debate tower siege stereo clock actual chimney ostrich awkward acquire";

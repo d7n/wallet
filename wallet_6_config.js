@@ -1,1 +1,1 @@
-var mnemonic = "rookie credit master gorilla guide april seminar hurdle clock tobacco awake just";
+var mnemonic = "open outside inside wear ring wave march fetch wild stable planet merry";

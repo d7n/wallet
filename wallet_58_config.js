@@ -1,1 +1,1 @@
-var mnemonic = "absorb search person asthma mention because buffalo stamp traffic champion journey doll";
+var mnemonic = "unlock submit fun letter slam joke rug law drink business whisper spike";

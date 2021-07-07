@@ -1,1 +1,1 @@
-var mnemonic = "unaware photo truth own speak hazard heart bag imitate lawsuit loop heavy";
+var mnemonic = "rural follow suspect exclude gym radio match design heavy tail satoshi control";

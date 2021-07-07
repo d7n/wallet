@@ -1,1 +1,1 @@
-var mnemonic = "marine bitter popular speed tackle sleep elevator gorilla liquid wheel exhaust detail";
+var mnemonic = "picture diet shrug stuff run wing decorate clutch rally among hedgehog column";

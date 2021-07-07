@@ -1,1 +1,1 @@
-var mnemonic = "flock situate ribbon demand erode toward loyal ill favorite initial little icon";
+var mnemonic = "prize coconut boss organ illness guess caution border frown law chimney drive";

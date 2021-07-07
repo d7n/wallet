@@ -1,1 +1,1 @@
-var mnemonic = "first small secret loud script legal bind step enrich minute build fortune";
+var mnemonic = "artefact describe assume fall crack embrace ship scrap crop differ nest level";

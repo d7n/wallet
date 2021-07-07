@@ -1,1 +1,1 @@
-var mnemonic = "metal sunset wire install pet confirm pledge vicious crisp laundry rescue car";
+var mnemonic = "noise ginger box pistol try alley walk thank attend sketch forward wash";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge garden swamp keen smoke patrol mistake fiscal half poet sword injury";
+var mnemonic = "wage latin illness stomach foster wonder mix jazz sing stuff pizza throw";

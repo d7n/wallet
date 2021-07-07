@@ -1,1 +1,1 @@
-var mnemonic = "quit monitor board medal comic cheap disagree culture merit fever flame grow";
+var mnemonic = "rebuild certain lend rail portion chuckle radio oxygen whip solar casual outside";

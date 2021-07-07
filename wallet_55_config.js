@@ -1,1 +1,1 @@
-var mnemonic = "upper trial antique nice fog squeeze solution fitness evil impose tag upon";
+var mnemonic = "popular invest call wheel razor bronze draft disease elegant carry trick unveil";

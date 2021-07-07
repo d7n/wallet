@@ -1,1 +1,1 @@
-var mnemonic = "mimic gorilla broken dirt insane asset rebuild picnic tourist soda joke margin";
+var mnemonic = "mountain panther cushion desert wave junk dolphin hill text tissue floor dose";

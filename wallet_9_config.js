@@ -1,1 +1,1 @@
-var mnemonic = "acid wear pledge copy digital nasty kid arm bronze decorate crystal antique";
+var mnemonic = "wood blush dash kitchen dragon celery shallow enter follow soup cricket link";

@@ -1,1 +1,1 @@
-var mnemonic = "extend brother change mad yard leg tornado wage access injury rebel someone";
+var mnemonic = "doctor chest north pepper remind primary distance wood orange kidney thing armed";

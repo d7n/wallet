@@ -1,1 +1,1 @@
-var mnemonic = "height deliver gesture rabbit number rose bag awake shove myth sister audit";
+var mnemonic = "blur welcome blame message such mercy hand couple virtual attract wealth possible";

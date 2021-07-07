@@ -1,1 +1,1 @@
-var mnemonic = "start control cave pizza orient pair divide tragic point material lucky theory";
+var mnemonic = "danger express rocket two play panel goose broccoli toe analyst govern clever";

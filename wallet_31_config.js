@@ -1,1 +1,1 @@
-var mnemonic = "fit measure similar connect first coffee lyrics bring endorse distance catch enjoy";
+var mnemonic = "jeans relief orphan neglect urban toilet vapor fabric desk perfect inside grocery";

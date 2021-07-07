@@ -1,1 +1,1 @@
-var mnemonic = "replace snow luggage twelve abstract ivory child sample hamster common camp myth";
+var mnemonic = "goose lumber city time field grunt admit endless dune stamp joy cotton";

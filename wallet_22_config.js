@@ -1,1 +1,1 @@
-var mnemonic = "adjust kite purchase shaft differ position drill where hold cheap company glide";
+var mnemonic = "found inject bracket social foil input also toward proud defy extra wear";

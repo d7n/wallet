@@ -1,1 +1,1 @@
-var mnemonic = "verb injury gloom thought bounce change ginger cycle shift satisfy legal common";
+var mnemonic = "off artist rotate double music fun anger focus unveil bonus lyrics fat";

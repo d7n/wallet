@@ -1,1 +1,1 @@
-var mnemonic = "various solution wire waste network enter flight physical chief tenant catalog else";
+var mnemonic = "prevent sudden view convince start bench save six wave dry soft solid";

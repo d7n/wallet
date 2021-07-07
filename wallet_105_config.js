@@ -1,1 +1,1 @@
-var mnemonic = "sing alone hole suspect panther matrix guess easily settle define ugly fiber";
+var mnemonic = "age beach slide hip begin mouse cereal escape gauge best clip crack";

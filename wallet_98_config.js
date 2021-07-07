@@ -1,1 +1,1 @@
-var mnemonic = "report husband visit swallow frown little hockey curious antenna ability upon celery";
+var mnemonic = "fury absent park joke climb invest mule poet asthma curtain attract fury";

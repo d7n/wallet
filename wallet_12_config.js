@@ -1,1 +1,1 @@
-var mnemonic = "orange crawl mammal nose inform gold stock reject snap heart miss grain";
+var mnemonic = "bar loan blush pride judge craft load copy measure exercise certain amount";

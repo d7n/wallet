@@ -1,1 +1,1 @@
-var mnemonic = "trumpet speak riot tongue secret inspire trumpet lunar skate athlete segment repeat";
+var mnemonic = "release option salad middle magic abuse scale decline maximum sign awkward emerge";

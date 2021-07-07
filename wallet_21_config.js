@@ -1,1 +1,1 @@
-var mnemonic = "hip ignore ginger diary permit hotel scorpion vendor fruit garden icon mad";
+var mnemonic = "man pig face reopen pig cross vehicle nice unique fade salute nation";

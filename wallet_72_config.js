@@ -1,1 +1,1 @@
-var mnemonic = "machine bag observe stable immune feed choice dinosaur quote sell notable shop";
+var mnemonic = "photo oppose rookie salute pilot helmet gift funny age until panda over";

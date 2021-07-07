@@ -1,1 +1,1 @@
-var mnemonic = "human feature desert number illegal sponsor fabric hybrid salt canal grace step";
+var mnemonic = "year artefact cup main fetch dutch welcome cattle cool choose eye angry";

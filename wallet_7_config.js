@@ -1,1 +1,1 @@
-var mnemonic = "skirt filter body fade minute chef glove payment true garlic wedding head";
+var mnemonic = "above stay shrug live open olympic drift dwarf crush knock sell knock";

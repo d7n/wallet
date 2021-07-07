@@ -1,1 +1,1 @@
-var mnemonic = "adult kingdom long report video fury cake fabric title dice dutch basic";
+var mnemonic = "donor grass need shoe present erosion review toddler nation captain smoke reveal";

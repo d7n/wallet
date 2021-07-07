@@ -1,1 +1,1 @@
-var mnemonic = "mix such harbor circle tent artefact flock rhythm dad negative lounge defy";
+var mnemonic = "involve treat beauty fence elite insane burger innocent fly airport sense virus";

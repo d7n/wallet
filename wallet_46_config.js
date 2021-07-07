@@ -1,1 +1,1 @@
-var mnemonic = "dignity violin citizen gospel soda rescue song depart tent enlist weekend future";
+var mnemonic = "remain faint avoid floor decrease endorse regret coach derive piece civil cable";

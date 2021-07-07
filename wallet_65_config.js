@@ -1,1 +1,1 @@
-var mnemonic = "another bundle allow denial train impulse smile scorpion lamp history chair width";
+var mnemonic = "violin penalty item three snow slow tube follow charge thrive canyon gun";

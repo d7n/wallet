@@ -1,1 +1,1 @@
-var mnemonic = "supreme noise need route scan surround wave glue bonus age they panel";
+var mnemonic = "cupboard warrior rent clump balance chat disagree viable torch obscure genre spirit";

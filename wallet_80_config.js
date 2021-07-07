@@ -1,1 +1,1 @@
-var mnemonic = "country curtain rotate gift rookie ankle dutch poverty maze output across sword";
+var mnemonic = "rich depend unlock dignity wheel shell dirt stool trouble sound cage goose";

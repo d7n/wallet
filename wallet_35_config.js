@@ -1,1 +1,1 @@
-var mnemonic = "obey sketch term shock collect supreme more knee boost practice thank audit";
+var mnemonic = "tail edit receive indicate vivid orbit swallow sort stay beyond daughter badge";

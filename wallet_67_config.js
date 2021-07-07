@@ -1,1 +1,1 @@
-var mnemonic = "maple dinosaur match own swift behave walnut swing pyramid visit long error";
+var mnemonic = "stove steak copper decrease twin culture swing truth scrub figure slab nominee";

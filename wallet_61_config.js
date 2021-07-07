@@ -1,1 +1,1 @@
-var mnemonic = "wedding neither wild worth exclude lunar spot ship cliff staff peace oppose";
+var mnemonic = "enjoy jungle animal learn glass true cherry pyramid width strong wheat voyage";

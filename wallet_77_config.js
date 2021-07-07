@@ -1,1 +1,1 @@
-var mnemonic = "define eye bargain crowd thing input update word affair famous clump weather";
+var mnemonic = "way scrub winner lift section fabric abuse tongue hat follow silver select";

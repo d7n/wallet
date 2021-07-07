@@ -1,1 +1,1 @@
-var mnemonic = "initial twenty clown oppose indicate start finger humble hole vapor degree spin";
+var mnemonic = "dove enhance moral involve dove easy little wash village suggest rail disagree";

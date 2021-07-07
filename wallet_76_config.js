@@ -1,1 +1,1 @@
-var mnemonic = "inquiry valve inject near unit much slim govern cruel trigger climb attitude";
+var mnemonic = "absent diet family club outdoor winner circle love crisp energy quality glove";

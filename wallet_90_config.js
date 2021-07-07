@@ -1,1 +1,1 @@
-var mnemonic = "grid arrange screen friend defy dinner immune spy three mix skirt sort";
+var mnemonic = "honey illegal spray produce letter veteran camp battle enter law never drill";

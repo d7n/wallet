@@ -1,1 +1,1 @@
-var mnemonic = "mushroom bid normal pill hungry shiver into orange trial spare check noble";
+var mnemonic = "metal lounge explain advance save unit love copy useful arm scrap skirt";

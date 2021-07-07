@@ -1,1 +1,1 @@
-var mnemonic = "extend assault hover surge parrot swarm still pony kidney eight sure trumpet";
+var mnemonic = "upgrade good system play belt burst exist suit turn tuna swap program";

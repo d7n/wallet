@@ -1,1 +1,1 @@
-var mnemonic = "control feature action process north save hour render shrimp remind weekend thank";
+var mnemonic = "hand almost minute sentence curious sibling achieve decide usage feel artefact habit";

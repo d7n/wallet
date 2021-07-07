@@ -1,1 +1,1 @@
-var mnemonic = "dream pet physical fitness kitten mind kiss bullet merge sausage purchase convince";
+var mnemonic = "morning strike lunar success square announce immense negative gaze enroll expect owner";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant bone ivory size claw defense huge giraffe hockey dove rapid mushroom";
+var mnemonic = "ankle draft palace diary mask matter never output matter boat daughter hello";
