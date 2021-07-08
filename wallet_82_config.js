@@ -1,1 +1,1 @@
-var mnemonic = "middle shop original story large silver scene valve mind gorilla mammal faith";
+var mnemonic = "predict ritual zone also now north sibling inject tent rabbit crater achieve";

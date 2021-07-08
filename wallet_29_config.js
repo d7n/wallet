@@ -1,1 +1,1 @@
-var mnemonic = "board employ pony amused also phrase chat believe level ranch cruel physical";
+var mnemonic = "blood skirt boss library entry vote valley tank script pride mountain diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "range side clever cool tenant course sound jewel behave draft shiver tortoise";
+var mnemonic = "depend basket split forget report brief neglect paddle until vapor fork expire";

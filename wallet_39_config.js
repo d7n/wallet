@@ -1,1 +1,1 @@
-var mnemonic = "split fatal task outer zero hold doll original spray pumpkin initial slide";
+var mnemonic = "bargain glow manual car talent sunny oven slight couple try noble midnight";

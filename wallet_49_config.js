@@ -1,1 +1,1 @@
-var mnemonic = "priority glide jealous inner group collect frame assume long soda author car";
+var mnemonic = "speak demise gauge wasp ticket scan hat tool tell rain truly eagle";

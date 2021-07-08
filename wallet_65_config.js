@@ -1,1 +1,1 @@
-var mnemonic = "law country hard original horse time captain display seat chimney high inside";
+var mnemonic = "side dizzy switch clinic find idea message damp company ordinary casino remember";

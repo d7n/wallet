@@ -1,1 +1,1 @@
-var mnemonic = "sponsor coast farm enemy pride oil various report uncle gospel ranch zero";
+var mnemonic = "damage job mammal degree genuine mind develop ostrich loop that skirt dress";

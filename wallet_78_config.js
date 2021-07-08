@@ -1,1 +1,1 @@
-var mnemonic = "cactus month voyage depart segment call stereo pair eternal erode present stay";
+var mnemonic = "execute rocket inquiry arena despair perfect spider slush brick mountain lonely impulse";

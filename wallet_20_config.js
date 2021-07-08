@@ -1,1 +1,1 @@
-var mnemonic = "annual area future crane crew chicken lucky bench verify assume praise husband";
+var mnemonic = "net copper fence clay attack rural bread custom police east immense moon";

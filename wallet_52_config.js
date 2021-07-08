@@ -1,1 +1,1 @@
-var mnemonic = "peanut world frog pig cart audit awful pottery fresh measure almost song";
+var mnemonic = "place panther either wrestle burden fringe ginger cinnamon member poet awake summer";

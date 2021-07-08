@@ -1,1 +1,1 @@
-var mnemonic = "unable gap face enter fan pulse electric wonder oak toy paper income";
+var mnemonic = "bracket tenant list verb sick jazz drive enhance real situate acquire churn";

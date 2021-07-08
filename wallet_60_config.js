@@ -1,1 +1,1 @@
-var mnemonic = "jungle sick change depth text naive tribe cigar key able arm draw";
+var mnemonic = "bracket permit ready flip height spin glory trick depend cool exchange seminar";

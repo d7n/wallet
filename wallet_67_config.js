@@ -1,1 +1,1 @@
-var mnemonic = "talk pole have quality more science lift pulse drive equip return dog";
+var mnemonic = "amount trial ensure elder recipe struggle accident educate wait behind attract atom";

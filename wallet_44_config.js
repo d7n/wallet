@@ -1,1 +1,1 @@
-var mnemonic = "pottery globe tone climb devote coffee avocado you card blur stairs elephant";
+var mnemonic = "fiber unusual sniff weekend gather corn nerve capital space warfare galaxy vapor";

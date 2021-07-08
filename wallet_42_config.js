@@ -1,1 +1,1 @@
-var mnemonic = "wonder need certain elegant senior strategy weather trip that drink remind bid";
+var mnemonic = "next merit negative whale into slow all motion glory special neglect speed";

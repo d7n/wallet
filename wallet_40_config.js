@@ -1,1 +1,1 @@
-var mnemonic = "rather target diagram now squeeze gather bid copy remember crystal coral direct";
+var mnemonic = "floor tongue measure sort round tomorrow benefit derive bird coyote east forest";

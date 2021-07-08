@@ -1,1 +1,1 @@
-var mnemonic = "fortune tail rifle laptop erase grow uncle ball old horror pave robust";
+var mnemonic = "mushroom also ethics push hollow fire crouch ready someone rival raise sibling";

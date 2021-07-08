@@ -1,1 +1,1 @@
-var mnemonic = "fancy junk rebel bleak emerge crumble invest chronic pass margin story phrase";
+var mnemonic = "recall casual critic journey modify twelve mystery inject salute keen keen effort";

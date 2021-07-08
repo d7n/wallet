@@ -1,1 +1,1 @@
-var mnemonic = "anchor romance confirm animal tell window celery eagle aim furnace great enough";
+var mnemonic = "curious elevator vintage photo deliver install empower type room render grunt coral";

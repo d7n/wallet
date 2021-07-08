@@ -1,1 +1,1 @@
-var mnemonic = "helmet dance sun oak panther force suspect this guess second trial suggest";
+var mnemonic = "lake split clip clock dizzy invest horse movie enhance lend canal artwork";

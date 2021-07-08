@@ -1,1 +1,1 @@
-var mnemonic = "genius property agent squirrel beef diesel harvest dawn refuse ketchup sunny end";
+var mnemonic = "purpose dry member relax arena mention reject ritual modify job sadness dinosaur";

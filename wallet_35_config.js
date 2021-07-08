@@ -1,1 +1,1 @@
-var mnemonic = "practice enemy avocado there naive accident roast camp honey swarm drama van";
+var mnemonic = "broccoli there length forget fire weekend hybrid word staff grocery will also";

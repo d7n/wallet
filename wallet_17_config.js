@@ -1,1 +1,1 @@
-var mnemonic = "crime large item sunset oblige friend laundry sad bean raccoon start people";
+var mnemonic = "sense bicycle sport diamond type cherry tomorrow swing steel fee treat badge";

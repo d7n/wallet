@@ -1,1 +1,1 @@
-var mnemonic = "turtle control general renew feature tragic leaf again lake insect drop mix";
+var mnemonic = "cry size else enact mountain valve mule total scissors pluck soup luxury";

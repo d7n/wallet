@@ -1,1 +1,1 @@
-var mnemonic = "certain debris naive craft convince expose royal wasp soap truth travel success";
+var mnemonic = "razor current wool tissue rug cup wish another turtle album tape machine";

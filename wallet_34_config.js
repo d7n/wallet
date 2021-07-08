@@ -1,1 +1,1 @@
-var mnemonic = "tip velvet antique place oxygen glide behave simple bag quarter message fruit";
+var mnemonic = "hero staff brand rally market silk transfer excess betray foil cupboard worry";

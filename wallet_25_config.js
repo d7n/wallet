@@ -1,1 +1,1 @@
-var mnemonic = "position seven orbit north purchase tilt reduce spirit toilet near whale shock";
+var mnemonic = "coffee agree copper execute hire antenna whale tiny review together spring hunt";

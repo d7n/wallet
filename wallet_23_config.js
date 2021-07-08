@@ -1,1 +1,1 @@
-var mnemonic = "consider ability explain mirror surge accuse knee liquid dust chaos fever butter";
+var mnemonic = "spike place own walnut toilet avocado sudden leopard cupboard omit menu eagle";

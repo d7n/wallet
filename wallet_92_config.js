@@ -1,1 +1,1 @@
-var mnemonic = "guide pride predict replace sort turn cage tortoise fabric add skirt student";
+var mnemonic = "cook blame motor outside leisure misery parent tooth pink shove mind health";

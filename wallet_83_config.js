@@ -1,1 +1,1 @@
-var mnemonic = "zero sport judge runway merge chase day tilt license proof nominee alley";
+var mnemonic = "sauce toward evolve fork struggle concert tired still wall stick beef sentence";

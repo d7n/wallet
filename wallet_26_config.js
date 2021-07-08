@@ -1,1 +1,1 @@
-var mnemonic = "surprise reduce minimum all robot hello bus hip ski wait universe latin";
+var mnemonic = "extend peasant crumble grace country mechanic immense page army feature mango dance";

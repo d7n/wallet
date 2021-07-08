@@ -1,1 +1,1 @@
-var mnemonic = "renew upper era barrel settle abuse then win fix lobster bacon guide";
+var mnemonic = "large actor state badge inner dwarf glance mystery ugly carry save pluck";

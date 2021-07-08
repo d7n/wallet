@@ -1,1 +1,1 @@
-var mnemonic = "impulse lesson load amused hood garden agent barrel elevator canvas round earn";
+var mnemonic = "smile pear symbol call renew churn boil kit industry trouble adapt lamp";

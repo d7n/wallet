@@ -1,1 +1,1 @@
-var mnemonic = "elite runway leaf pet service symptom about bring reduce bless power forest";
+var mnemonic = "sick sketch wall protect focus swarm buddy usage prefer define outer advice";

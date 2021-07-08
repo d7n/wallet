@@ -1,1 +1,1 @@
-var mnemonic = "resemble guard execute exact large sock wire invite item couple guilt invite";
+var mnemonic = "budget erase crack bright crystal speak tribe pipe blanket raccoon please abstract";

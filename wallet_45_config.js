@@ -1,1 +1,1 @@
-var mnemonic = "ignore cool above ice coyote crunch horror rookie section size panther library";
+var mnemonic = "hunt unique catch spare shove soup lazy fossil weekend miss aware fitness";

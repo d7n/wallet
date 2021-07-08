@@ -1,1 +1,1 @@
-var mnemonic = "soda convince absurd horn comic warm useless fade april skirt guitar elephant";
+var mnemonic = "rocket any pelican lion curious brain like violin opinion illegal improve click";

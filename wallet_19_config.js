@@ -1,1 +1,1 @@
-var mnemonic = "fiction fire track race army exact toe capital husband venue pilot glass";
+var mnemonic = "camera retreat exchange account shadow advance mechanic final hawk ankle pool coyote";

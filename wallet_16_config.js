@@ -1,1 +1,1 @@
-var mnemonic = "option surprise surge better option target deputy reopen cover whip badge end";
+var mnemonic = "aspect curious mixed review another cruel thought breeze night virtual frown album";

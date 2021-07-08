@@ -1,1 +1,1 @@
-var mnemonic = "edge network swamp fortune balance answer differ height box typical mammal good";
+var mnemonic = "spin flee favorite laundry online regret execute viable design garbage worry pride";

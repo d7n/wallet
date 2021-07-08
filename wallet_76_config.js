@@ -1,1 +1,1 @@
-var mnemonic = "innocent system shallow mass artist fix illness ridge wrong panda gather split";
+var mnemonic = "method assist glide across rain spy neck know manage more motor unaware";

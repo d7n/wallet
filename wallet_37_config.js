@@ -1,1 +1,1 @@
-var mnemonic = "notable rival heart sleep cook pistol genuine scheme sister region piece assist";
+var mnemonic = "stumble image zero either large goose meat member enter link route burden";

@@ -1,1 +1,1 @@
-var mnemonic = "quit scorpion auction leisure manage start razor village firm frog fresh obtain";
+var mnemonic = "drift garden marriage tiny dust replace clown faculty moon mean veteran same";

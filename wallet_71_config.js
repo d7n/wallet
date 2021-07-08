@@ -1,1 +1,1 @@
-var mnemonic = "fetch someone into already illegal clerk boss once source mimic skate harvest";
+var mnemonic = "eyebrow confirm sorry lounge amazing thing feature rebel yellow deal swear pistol";

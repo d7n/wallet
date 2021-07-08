@@ -1,1 +1,1 @@
-var mnemonic = "trouble inquiry that power weird anxiety enough bulb mirror kit october ribbon";
+var mnemonic = "label setup odor exercise lounge erase genuine humble shell empower pill seminar";

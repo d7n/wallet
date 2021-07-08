@@ -1,1 +1,1 @@
-var mnemonic = "crawl retreat frequent faculty team seat desert emotion fetch judge master come";
+var mnemonic = "unfair silly lock spider route cup ripple flush undo firm unfair across";

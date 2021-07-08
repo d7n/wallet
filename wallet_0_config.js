@@ -1,1 +1,1 @@
-var mnemonic = "eager trash object claim ten nuclear safe erase loud remove swift library";
+var mnemonic = "shuffle lake daughter shock build occur radar bamboo lion toast prison regular";

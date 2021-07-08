@@ -1,1 +1,1 @@
-var mnemonic = "happy average fossil pepper never convince glare section lock garment spot version";
+var mnemonic = "web razor plastic budget normal beef exist blossom oval royal addict virus";

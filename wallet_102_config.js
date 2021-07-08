@@ -1,1 +1,1 @@
-var mnemonic = "expose afraid area dentist six hat follow brisk differ bamboo pistol list";
+var mnemonic = "whale slice skate bicycle deny salt damp garment minor relief parent holiday";

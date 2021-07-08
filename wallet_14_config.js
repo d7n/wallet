@@ -1,1 +1,1 @@
-var mnemonic = "unusual initial reveal february boy speed use green split burst donkey essay";
+var mnemonic = "filter screen stable tip guide blue network adjust globe whip angry enter";

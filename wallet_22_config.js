@@ -1,1 +1,1 @@
-var mnemonic = "winner early airport egg opera tooth urge retire during level order bridge";
+var mnemonic = "dry famous now cry flag track axis harbor transfer blossom similar taxi";

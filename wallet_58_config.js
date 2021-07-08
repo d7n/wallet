@@ -1,1 +1,1 @@
-var mnemonic = "organ ride twice body utility trust mystery forest canyon tilt park buzz";
+var mnemonic = "rubber rally smile gun skill expire cover stereo ladder zero scrap shoulder";

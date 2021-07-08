@@ -1,1 +1,1 @@
-var mnemonic = "wreck acid shadow panther welcome screen fence canoe drama dash labor detail";
+var mnemonic = "since client afford hockey media reflect inspire width huge fluid gallery enhance";

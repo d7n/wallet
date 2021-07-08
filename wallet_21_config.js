@@ -1,1 +1,1 @@
-var mnemonic = "insane announce nominee trap room rain ask surround right reduce anchor door";
+var mnemonic = "crater biology cattle hole language festival jealous average retreat vote retreat stomach";

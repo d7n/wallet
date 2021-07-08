@@ -1,1 +1,1 @@
-var mnemonic = "document bitter vendor round addict regret bounce right dance victory track tell";
+var mnemonic = "stove left draw merry echo wife rebel awful poem imitate smoke segment";

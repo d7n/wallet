@@ -1,1 +1,1 @@
-var mnemonic = "thank burger domain rabbit spread grow noise chapter busy digital skirt resist";
+var mnemonic = "width stumble monitor private lamp dice airport govern grass hospital elite asthma";

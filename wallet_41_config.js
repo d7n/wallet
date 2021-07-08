@@ -1,1 +1,1 @@
-var mnemonic = "toddler vague cloth bundle december crop smoke walk deer envelope robot material";
+var mnemonic = "reopen negative accident tired ramp exhibit produce become sleep cave anger thing";

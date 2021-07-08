@@ -1,1 +1,1 @@
-var mnemonic = "zoo bomb apology laundry add nice remove unhappy siege chapter large spirit";
+var mnemonic = "garage laptop deposit funny insect error people supply slow joke course inform";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote ivory still now margin pole actor bulk carry fortune girl become";
+var mnemonic = "theory refuse fluid glory online page ready trial sun dry brass doll";

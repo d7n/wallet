@@ -1,1 +1,1 @@
-var mnemonic = "economy little object pulse hobby ketchup real issue wage salute wide detail";
+var mnemonic = "marble fatal inner right hurt stand ring stuff never banner nut high";

@@ -1,1 +1,1 @@
-var mnemonic = "crater rookie path gesture devote lunch earth valid life donor april second";
+var mnemonic = "runway wonder idle jacket fabric snap cycle humor capital fault else evolve";

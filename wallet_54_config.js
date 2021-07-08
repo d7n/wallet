@@ -1,1 +1,1 @@
-var mnemonic = "sing wisdom valve pilot unique finger flight diamond muscle census witness nose";
+var mnemonic = "come maid panda include birth host kind myth syrup hybrid frame predict";

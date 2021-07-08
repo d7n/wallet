@@ -1,1 +1,1 @@
-var mnemonic = "ghost ancient during prosper accident olympic range student soul more velvet barrel";
+var mnemonic = "private exit offer zebra piece noise pride lobster suspect tongue drive cheap";

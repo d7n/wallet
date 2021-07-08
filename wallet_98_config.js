@@ -1,1 +1,1 @@
-var mnemonic = "injury parent grant service such travel current old false spare tilt avoid";
+var mnemonic = "tool stem attract silly lady afraid citizen hurt carry upgrade fall century";

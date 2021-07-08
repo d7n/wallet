@@ -1,1 +1,1 @@
-var mnemonic = "snack tray capital figure parent antenna broken success crystal melody circle stool";
+var mnemonic = "fine globe switch mobile before select humor candy naive zoo borrow tuna";

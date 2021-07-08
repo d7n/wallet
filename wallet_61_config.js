@@ -1,1 +1,1 @@
-var mnemonic = "wife casino gentle load found ladder boil lab tourist father candy grass";
+var mnemonic = "debate change utility evidence deputy dog bitter embody ritual guide punch lava";

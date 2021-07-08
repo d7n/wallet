@@ -1,1 +1,1 @@
-var mnemonic = "shrug aim renew shoulder borrow attend ecology chicken outdoor region retreat vocal";
+var mnemonic = "primary boring congress reduce garlic swarm action scrap hurdle subject glow scene";

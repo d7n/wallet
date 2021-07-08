@@ -1,1 +1,1 @@
-var mnemonic = "august length rate today project hill unaware foil beach logic success sail";
+var mnemonic = "enroll tomorrow aware sponsor project throw subject retire ten evil meat enroll";

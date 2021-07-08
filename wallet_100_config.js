@@ -1,1 +1,1 @@
-var mnemonic = "gun live wall address tuition idea suffer absent fat trigger scan cup";
+var mnemonic = "secret cereal immense often idle quit example gallery success diagram language wild";

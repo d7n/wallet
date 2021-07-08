@@ -1,1 +1,1 @@
-var mnemonic = "casual fame match limit club sugar into give category pair lounge orphan";
+var mnemonic = "leave noise list tragic outer novel impulse chase naive beyond panda glove";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate similar cinnamon science check disease smile goose purity kingdom group excuse";
+var mnemonic = "congress prepare burger scan common effort laundry deputy truth pill refuse venue";

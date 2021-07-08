@@ -1,1 +1,1 @@
-var mnemonic = "alley vehicle film ramp rival pet hobby end proof desert put you";
+var mnemonic = "aerobic disease latin window catch time couch wood pride stuff bacon hen";

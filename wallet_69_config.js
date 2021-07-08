@@ -1,1 +1,1 @@
-var mnemonic = "food flash trend viable electric record cousin gas observe level only pet";
+var mnemonic = "knee earth just other pioneer alcohol foster review worry carbon fashion useful";

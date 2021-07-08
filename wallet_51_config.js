@@ -1,1 +1,1 @@
-var mnemonic = "wagon inhale valley oval ahead debris trouble apple rent leg alien very";
+var mnemonic = "silent shrug ankle history arrest normal old alien patient animal wisdom finish";

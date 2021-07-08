@@ -1,1 +1,1 @@
-var mnemonic = "music toy outer grief notice wool label steak earn detail sponsor melt";
+var mnemonic = "follow chief bone public decorate glare deputy age hammer uncover trouble clutch";

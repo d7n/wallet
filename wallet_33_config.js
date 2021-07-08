@@ -1,1 +1,1 @@
-var mnemonic = "ten merry tattoo dumb first above save puzzle leopard love travel since";
+var mnemonic = "shrug rival breeze noodle tattoo life special fee main inherit series shrug";

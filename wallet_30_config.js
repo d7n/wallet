@@ -1,1 +1,1 @@
-var mnemonic = "feature thank material scan defense reduce salmon chicken virtual rice steak october";
+var mnemonic = "vote motion melt repeat slogan second setup stage chuckle glow few blur";

@@ -1,1 +1,1 @@
-var mnemonic = "now must scrub position thought galaxy news gym fat shallow universe basket";
+var mnemonic = "couple goat worth organ same velvet clog van afford achieve few genius";

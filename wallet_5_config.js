@@ -1,1 +1,1 @@
-var mnemonic = "humor salmon thrive gallery general fever blossom list arrest defense because hair";
+var mnemonic = "final school lava law mystery great grocery suggest choose furnace roast desk";

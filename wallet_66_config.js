@@ -1,1 +1,1 @@
-var mnemonic = "fossil zebra transfer build distance blossom deal drill brick source limb collect";
+var mnemonic = "inner brave river lazy people word rebel pistol odor pink coyote decide";

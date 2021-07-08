@@ -1,1 +1,1 @@
-var mnemonic = "modify sunset dose cram parrot present stick tomato knee fruit once dish";
+var mnemonic = "sorry loop long shuffle perfect amateur account genuine pretty economy segment danger";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling width mad acquire strategy strategy buzz orbit luxury siren spread dose";
+var mnemonic = "have category retreat mix library scrap language despair derive ginger crisp salon";
