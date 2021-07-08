@@ -1,1 +1,1 @@
-var mnemonic = "random profit unknown slogan trip green detect trash spare flame cart purse";
+var mnemonic = "unhappy reunion outside credit photo solution item chunk jewel accuse chase use";

@@ -1,1 +1,1 @@
-var mnemonic = "check mimic youth believe castle soldier beef home surface meat repair pool";
+var mnemonic = "please million oblige fragile devote tooth cry truck place grocery girl boat";

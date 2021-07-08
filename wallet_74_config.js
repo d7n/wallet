@@ -1,1 +1,1 @@
-var mnemonic = "first calm toss dad empower approve good sign card cup rescue rude";
+var mnemonic = "leisure shop side burden twelve forest client that movie ritual fly filter";

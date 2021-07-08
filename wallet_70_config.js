@@ -1,1 +1,1 @@
-var mnemonic = "mandate lyrics tissue unlock uphold track lunar plug stamp wine cook inhale";
+var mnemonic = "merit between hurry build pony school asthma banana advance crucial tower public";

@@ -1,1 +1,1 @@
-var mnemonic = "skill shoot hen smart midnight mechanic typical harvest tiger link cigar dune";
+var mnemonic = "shiver liar method invite rubber energy also cute east manual idea region";

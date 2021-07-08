@@ -1,1 +1,1 @@
-var mnemonic = "into tattoo skate canyon ensure middle knock orient tunnel obvious tonight advice";
+var mnemonic = "sketch obscure observe spoil crime monster devote valve game crumble ahead boat";

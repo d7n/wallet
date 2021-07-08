@@ -1,1 +1,1 @@
-var mnemonic = "inflict salmon arm federal cake route toilet answer coil library ripple tent";
+var mnemonic = "elder actual common loop glare giraffe nothing consider soul sister climb season";

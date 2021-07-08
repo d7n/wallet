@@ -1,1 +1,1 @@
-var mnemonic = "absorb cash poem polar equal steak depart picture bind indoor wrist amateur";
+var mnemonic = "sauce cement bleak dream accuse citizen push page boil shoe wreck scissors";

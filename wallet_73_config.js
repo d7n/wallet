@@ -1,1 +1,1 @@
-var mnemonic = "medal push cloth person chaos figure tenant profit junior boss you surface";
+var mnemonic = "story enemy aunt evil van sea avocado thunder bargain diet diesel avocado";

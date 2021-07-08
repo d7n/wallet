@@ -1,1 +1,1 @@
-var mnemonic = "evil submit liar dinosaur demise mechanic mechanic volume rifle net pigeon comfort";
+var mnemonic = "enable spoil gesture coach sell route sunset among celery neck lunch remind";

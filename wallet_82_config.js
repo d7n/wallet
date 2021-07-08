@@ -1,1 +1,1 @@
-var mnemonic = "buzz fence season lottery solution slice special sting weird quality rocket three";
+var mnemonic = "tired sudden feature neck expect paddle sniff treat curve seat dial offer";

@@ -1,1 +1,1 @@
-var mnemonic = "small purchase case maze elegant wagon dress prefer artwork jealous alcohol only";
+var mnemonic = "enjoy appear large fever certain song echo fine park dry item flip";

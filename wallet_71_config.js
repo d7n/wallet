@@ -1,1 +1,1 @@
-var mnemonic = "mercy bulk flee extend undo movie juice twice broccoli meat exit dune";
+var mnemonic = "spend ticket lake image cattle regret pigeon ocean rubber flush cry leaf";

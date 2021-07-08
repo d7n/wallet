@@ -1,1 +1,1 @@
-var mnemonic = "box sure code olive hunt audit noise scissors victory bid record orient";
+var mnemonic = "helmet ski tray long make rapid wet brass guitar violin scare volume";

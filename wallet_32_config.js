@@ -1,1 +1,1 @@
-var mnemonic = "inherit slender note episode tomato tuna hockey soldier claw nature parrot quit";
+var mnemonic = "wear gentle naive gas slam wise shift attend morning section still embody";

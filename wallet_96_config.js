@@ -1,1 +1,1 @@
-var mnemonic = "swallow lock exact beyond vicious tone kit medal need hard fame unknown";
+var mnemonic = "vacant ethics easy employ arch gain quit magic ivory prefer charge inspire";

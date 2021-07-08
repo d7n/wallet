@@ -1,1 +1,1 @@
-var mnemonic = "caught erase fuel unfold cake bench humble curve tiny plunge nest leader";
+var mnemonic = "reduce remove harbor decade earth hybrid symptom remind hawk school apart tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "have miss awake range cave genuine goose best aware hungry voice cherry";
+var mnemonic = "absorb wonder furnace flower virtual dignity nasty frown text canoe lecture income";

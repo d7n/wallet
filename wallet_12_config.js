@@ -1,1 +1,1 @@
-var mnemonic = "salad give pause ritual connect giant come normal strategy gravity hard voice";
+var mnemonic = "people spread dolphin uncover joke olive load erupt oil drill expect finger";

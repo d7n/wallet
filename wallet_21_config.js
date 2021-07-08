@@ -1,1 +1,1 @@
-var mnemonic = "atom stick badge credit veteran fury despair skill sting tide double dolphin";
+var mnemonic = "giggle vocal tank pottery raw embrace abandon have unusual worry wear regret";

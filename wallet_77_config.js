@@ -1,1 +1,1 @@
-var mnemonic = "romance omit spoil slogan short squeeze buddy slim labor gorilla actual diesel";
+var mnemonic = "ugly avoid door segment thing toward giant symbol ask dish describe ball";

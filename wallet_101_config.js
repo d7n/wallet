@@ -1,1 +1,1 @@
-var mnemonic = "maple ghost ecology result harsh nasty armor unknown casual text much wagon";
+var mnemonic = "army behind imitate clay brass unfair pizza avocado merge chat grunt electric";

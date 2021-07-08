@@ -1,1 +1,1 @@
-var mnemonic = "blame burden exit term churn left bubble shoulder cushion napkin roast amateur";
+var mnemonic = "approve genius devote quiz electric enlist tennis retire diet point gate grass";

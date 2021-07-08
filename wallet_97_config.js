@@ -1,1 +1,1 @@
-var mnemonic = "mechanic yard then brain valley grant army jelly flower churn bird order";
+var mnemonic = "suspect because drum car girl wise faint involve tray noise aware recycle";

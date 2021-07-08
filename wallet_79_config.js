@@ -1,1 +1,1 @@
-var mnemonic = "acid lamp easily course time top mercy exit day move spend erupt";
+var mnemonic = "frequent crop curve float pool bless muscle plate express quote vessel inch";

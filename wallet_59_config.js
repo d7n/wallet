@@ -1,1 +1,1 @@
-var mnemonic = "popular cupboard bind paper truth process despair face rug federal mail hen";
+var mnemonic = "suit enlist put grace raise else valid truth bronze goddess wage quality";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch destroy property vintage sausage broom check office ridge damp nest virtual";
+var mnemonic = "upon erupt dynamic abuse jazz crisp mimic stuff globe bulb include stick";

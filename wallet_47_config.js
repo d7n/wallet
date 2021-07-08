@@ -1,1 +1,1 @@
-var mnemonic = "cute table frost income oyster reason category frog pony guide noble process";
+var mnemonic = "danger autumn service property skill only discover question crane combine prison stable";

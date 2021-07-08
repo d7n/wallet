@@ -1,1 +1,1 @@
-var mnemonic = "common knee obey crystal lonely enroll bundle deal mouse crystal camp off";
+var mnemonic = "congress bike mistake spare away use version merit field repeat reunion hole";

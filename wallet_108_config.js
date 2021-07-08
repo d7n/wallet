@@ -1,1 +1,1 @@
-var mnemonic = "arrange clarify denial inside banner trouble idle donor usage vicious tuition hip";
+var mnemonic = "clerk dish when merry crane case kiss sight delay solid open weird";

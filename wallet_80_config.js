@@ -1,1 +1,1 @@
-var mnemonic = "popular glide expire snack boil imitate paper blood ghost indicate stage lyrics";
+var mnemonic = "suffer churn dinner staff gas boring adjust aisle glue addict tower dilemma";

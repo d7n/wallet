@@ -1,1 +1,1 @@
-var mnemonic = "flight alone village snap client biology garden unhappy cradle patch turtle miss";
+var mnemonic = "sudden usual regret such tackle marriage trim purpose employ planet sadness betray";

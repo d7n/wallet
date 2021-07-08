@@ -1,1 +1,1 @@
-var mnemonic = "gift flat walnut sister wonder merry fish rely spend assume elder ethics";
+var mnemonic = "juice rice isolate brush item foot cannon excite critic diamond invest flip";

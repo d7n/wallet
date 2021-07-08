@@ -1,1 +1,1 @@
-var mnemonic = "reflect sugar admit mule diagram wrong screen tube warrior join problem bamboo";
+var mnemonic = "leopard because siren obey timber execute pipe disorder deputy term spatial model";

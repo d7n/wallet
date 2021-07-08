@@ -1,1 +1,1 @@
-var mnemonic = "venture seven fragile trigger smile boil often still palm average pill way";
+var mnemonic = "naive canoe there vicious sad please wool cabbage stay spare verify hurry";

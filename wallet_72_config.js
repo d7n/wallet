@@ -1,1 +1,1 @@
-var mnemonic = "punch taxi power fitness ski walnut seminar blood build satoshi vanish atom";
+var mnemonic = "clarify frequent immune aspect cradle final upgrade young angle jacket dawn pool";

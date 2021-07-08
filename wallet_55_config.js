@@ -1,1 +1,1 @@
-var mnemonic = "problem mother real connect scrub text number warfare mutual pear supply wave";
+var mnemonic = "chapter comic segment reject shock brand vicious save swarm enact kick save";

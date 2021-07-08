@@ -1,1 +1,1 @@
-var mnemonic = "skate outer nurse tunnel raccoon leg bird daughter daring load sand smoke";
+var mnemonic = "story hen melt tomorrow naive tag before tomato rocket illegal pilot ranch";

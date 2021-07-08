@@ -1,1 +1,1 @@
-var mnemonic = "cycle dentist width addict famous clock pink drama deer nose move pair";
+var mnemonic = "female connect believe crush include music donate fashion update check treat hood";

@@ -1,1 +1,1 @@
-var mnemonic = "length grief melt sausage cheap amount clown vintage yard animal bubble relief";
+var mnemonic = "like wisdom sure budget warm wool food sentence scheme empty flip badge";

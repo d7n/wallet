@@ -1,1 +1,1 @@
-var mnemonic = "soccer better risk dash harvest bullet radar pistol buyer swing select spare";
+var mnemonic = "virus night erase illness powder strong romance together turkey dinner proud mammal";

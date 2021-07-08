@@ -1,1 +1,1 @@
-var mnemonic = "shadow evil movie winner supreme gun inspire spawn hero rescue solar august";
+var mnemonic = "tone catch season method loop radio captain vessel reflect smoke flock found";

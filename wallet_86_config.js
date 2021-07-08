@@ -1,1 +1,1 @@
-var mnemonic = "joy crop estate gate senior admit face debate chimney wine wood lake";
+var mnemonic = "alone helmet dwarf tide blouse agree torch dial chronic mind fix audit";

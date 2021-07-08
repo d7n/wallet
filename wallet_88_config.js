@@ -1,1 +1,1 @@
-var mnemonic = "recipe episode mirror review vibrant genius tuna rapid vapor solution total manage";
+var mnemonic = "butter shove fix surface radar sugar pact consider age express digital open";

@@ -1,1 +1,1 @@
-var mnemonic = "million sibling hood accident maid uncover that seminar junk garbage spell despair";
+var mnemonic = "finish once income vanish sure photo then coral series law glove season";

@@ -1,1 +1,1 @@
-var mnemonic = "almost certain argue lyrics blouse shove sibling digital feel step wealth release";
+var mnemonic = "business gas delay network elbow strike giggle duck couch wonder opera delay";

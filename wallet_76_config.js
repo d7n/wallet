@@ -1,1 +1,1 @@
-var mnemonic = "club often tool exhaust turtle monkey bread cream fish liquid price rain";
+var mnemonic = "priority catalog recall tower practice soldier expose young steak garage gaze advice";

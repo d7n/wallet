@@ -1,1 +1,1 @@
-var mnemonic = "ritual pluck lunch any radar tank name oven ocean universe gesture force";
+var mnemonic = "blouse mask two hair weapon casino smooth sunny dismiss praise beyond fringe";

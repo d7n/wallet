@@ -1,1 +1,1 @@
-var mnemonic = "illegal capable wrist galaxy fame diet option sleep report video craft dumb";
+var mnemonic = "artefact office drill still boring knee mosquito happy order differ surge enable";

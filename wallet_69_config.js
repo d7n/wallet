@@ -1,1 +1,1 @@
-var mnemonic = "budget risk silent stand zero taste erode parrot alley health shoulder lady";
+var mnemonic = "caution blanket circle lamp bullet bulk reflect worry flight buzz arctic novel";

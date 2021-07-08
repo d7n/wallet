@@ -1,1 +1,1 @@
-var mnemonic = "card scale sick cage census slide embrace airport patch senior hat involve";
+var mnemonic = "social argue absurd you oil drift recipe smoke volume problem trip bar";

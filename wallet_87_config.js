@@ -1,1 +1,1 @@
-var mnemonic = "divide october foster team carbon book settle actor permit mix champion define";
+var mnemonic = "glory vault blur beauty disagree half motor milk false strike float spell";

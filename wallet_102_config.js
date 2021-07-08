@@ -1,1 +1,1 @@
-var mnemonic = "tip tower digital transfer shop charge anxiety section awkward kidney heart alter";
+var mnemonic = "practice impulse luxury mix eager diesel very paddle heart job embrace someone";

@@ -1,1 +1,1 @@
-var mnemonic = "occur caution moon vague monitor unknown antique husband renew size act jewel";
+var mnemonic = "urban admit syrup whip reveal evil recall duck abstract cattle drip battle";

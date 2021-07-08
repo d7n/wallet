@@ -1,1 +1,1 @@
-var mnemonic = "bitter link refuse morning prison want torch layer hero bomb twist mind";
+var mnemonic = "since bottom acid word develop cliff leaf coin wolf dad visual degree";

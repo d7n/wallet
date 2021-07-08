@@ -1,1 +1,1 @@
-var mnemonic = "tribe bulk typical reason outer open scene tired coil assault purpose taxi";
+var mnemonic = "era use poverty elevator fork negative income coffee scheme chase path cluster";

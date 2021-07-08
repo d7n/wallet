@@ -1,1 +1,1 @@
-var mnemonic = "pizza museum nothing infant grid empower economy globe switch betray alcohol scale";
+var mnemonic = "bar toddler volcano that outside alien foot stumble horror actress half help";

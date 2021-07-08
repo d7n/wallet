@@ -1,1 +1,1 @@
-var mnemonic = "market alter target awful tone abandon behind magnet rebel busy lunar whisper";
+var mnemonic = "frost online negative hold immense mutual cook enjoy delay engine guilt arrow";

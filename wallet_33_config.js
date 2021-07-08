@@ -1,1 +1,1 @@
-var mnemonic = "idle company work join genre genius elite rapid window desk impose guilt";
+var mnemonic = "burger expect junior valve panel unique ranch trim coral quick model toward";

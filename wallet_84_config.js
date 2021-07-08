@@ -1,1 +1,1 @@
-var mnemonic = "twelve swear proof park brick shell capital direct hockey easy candy carry";
+var mnemonic = "rebuild depend wedding nice habit hub relax today early sport before banana";

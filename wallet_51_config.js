@@ -1,1 +1,1 @@
-var mnemonic = "believe hen wonder prepare patrol course farm neutral claw empty horn escape";
+var mnemonic = "omit shrug fee awful grit height small arch mercy penalty goat rival";

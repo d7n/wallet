@@ -1,1 +1,1 @@
-var mnemonic = "tooth that clean globe length attract humble buddy cage solid leave family";
+var mnemonic = "maze guitar pig bitter attitude scrap topple west bird twist pencil midnight";

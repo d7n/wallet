@@ -1,1 +1,1 @@
-var mnemonic = "reform thank blur aim middle menu light enact burger prison claw genius";
+var mnemonic = "dignity good hand fatigue attend purchase glory mutual obtain bus large glimpse";

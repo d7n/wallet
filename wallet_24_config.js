@@ -1,1 +1,1 @@
-var mnemonic = "entire spatial neck forget ancient guitar custom crouch abstract spike unfair process";
+var mnemonic = "illegal wood pizza lottery imitate little sword face fun swarm large rifle";

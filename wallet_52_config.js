@@ -1,1 +1,1 @@
-var mnemonic = "tenant pigeon cash junk kid couple nut guitar dog bachelor dawn squirrel";
+var mnemonic = "liquid now income slab corn seek party glove network hello robust forward";

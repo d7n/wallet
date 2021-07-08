@@ -1,1 +1,1 @@
-var mnemonic = "response tenant clutch early cool lobster hour cluster mosquito adult early sunset";
+var mnemonic = "ocean mobile arena ready hold claw obtain bacon ask earth ankle atom";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth trend pet print ensure light plastic decide excuse symptom shallow oyster";
+var mnemonic = "appear ritual girl panic furnace tobacco click student office power gauge improve";

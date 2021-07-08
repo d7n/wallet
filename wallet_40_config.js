@@ -1,1 +1,1 @@
-var mnemonic = "fluid when depart jeans protect hidden clarify effort bench cigar buyer bridge";
+var mnemonic = "report stuff hungry cage throw choice planet measure bunker field dog hobby";

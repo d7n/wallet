@@ -1,1 +1,1 @@
-var mnemonic = "staff humor fire pledge rebuild west door situate middle slam derive kid";
+var mnemonic = "subject black embrace mechanic tribe luggage mirror man work refuse boss visual";

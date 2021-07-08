@@ -1,1 +1,1 @@
-var mnemonic = "iron mountain slide hand better lizard decline easy street weapon tank festival";
+var mnemonic = "panel power swing winter express change okay mouse affair nerve toss rubber";

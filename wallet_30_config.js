@@ -1,1 +1,1 @@
-var mnemonic = "smile loop banner prosper subway shove morning party note liar web short";
+var mnemonic = "damp diesel way fuel sadness tape nerve budget make spread tape erosion";

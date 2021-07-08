@@ -1,1 +1,1 @@
-var mnemonic = "route concert chicken abstract host couch doll drama garment attitude special abstract";
+var mnemonic = "flame unfair diamond sponsor chapter breeze alone forget define fortune expose oven";

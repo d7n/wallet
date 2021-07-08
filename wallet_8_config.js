@@ -1,1 +1,1 @@
-var mnemonic = "answer clip lift dance benefit cactus address clinic express modify book horn";
+var mnemonic = "security lamp security auction leopard surprise sting nuclear future curious crane absorb";

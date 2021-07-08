@@ -1,1 +1,1 @@
-var mnemonic = "giggle quality cruel humble fine course castle impose casual muffin entire weather";
+var mnemonic = "forget flight garlic visa hour gallery crucial extra simple solid share skate";

@@ -1,1 +1,1 @@
-var mnemonic = "proof express logic inner deal mass early smooth picture arrive acoustic noise";
+var mnemonic = "luxury hood jungle member wood judge fish during hen drip father input";

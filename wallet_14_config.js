@@ -1,1 +1,1 @@
-var mnemonic = "meat steel crumble love depth boil tube extra family play balcony fence";
+var mnemonic = "property risk witness orphan doll amateur cattle scatter pilot tunnel update erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "certain blade narrow where foster seek spare blanket act insect point glory";
+var mnemonic = "pluck boat clock real price early siege knife about wrestle labor employ";

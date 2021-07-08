@@ -1,1 +1,1 @@
-var mnemonic = "soda fossil ocean chunk burst kick neither chuckle goose birth slow father";
+var mnemonic = "hurry sausage shed rice sad control lawsuit click insane sketch artefact paddle";

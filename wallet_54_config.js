@@ -1,1 +1,1 @@
-var mnemonic = "apart issue gate hidden learn quiz ivory sweet blame quarter when media";
+var mnemonic = "buddy scare finger tackle hold bus dial travel flower execute discover person";

@@ -1,1 +1,1 @@
-var mnemonic = "egg guess wheat demand miss tooth lonely mercy ethics sister bicycle frost";
+var mnemonic = "cream token enlist shoe infant decrease spice soul rifle sun cancel found";

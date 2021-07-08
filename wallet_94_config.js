@@ -1,1 +1,1 @@
-var mnemonic = "useful dignity ginger twelve company infant beef crime hotel original minute sun";
+var mnemonic = "ordinary relax steel basic phone village cost state produce tape run include";

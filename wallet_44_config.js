@@ -1,1 +1,1 @@
-var mnemonic = "season use error stone fatal walnut birth elder wealth soccer cactus debris";
+var mnemonic = "bullet off squirrel loyal cabin letter poem witness affair pumpkin electric dismiss";

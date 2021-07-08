@@ -1,1 +1,1 @@
-var mnemonic = "sting bracket pyramid electric century lizard hair hope vanish coin age trip";
+var mnemonic = "evolve adjust rather dynamic cage execute chaos digital always dance skill blood";

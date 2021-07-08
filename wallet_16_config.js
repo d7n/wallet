@@ -1,1 +1,1 @@
-var mnemonic = "play dizzy old bounce now silver true accuse guard sea liberty word";
+var mnemonic = "clean group update flip bamboo trumpet metal recycle reveal wealth coral bench";

@@ -1,1 +1,1 @@
-var mnemonic = "main tape gospel video eager urge barrel assault sell hurdle husband combine";
+var mnemonic = "mistake public vault drill rally scatter delay zero cupboard what toilet prosper";

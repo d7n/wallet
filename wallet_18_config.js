@@ -1,1 +1,1 @@
-var mnemonic = "easily off citizen promote echo sight ritual prosper chief just retreat raven";
+var mnemonic = "knife leader talent settle beach alley vicious sugar act lizard tennis scrap";

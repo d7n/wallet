@@ -1,1 +1,1 @@
-var mnemonic = "wealth public spell enough grab motion castle scorpion quit vibrant long input";
+var mnemonic = "grief token put six ill win wealth universe abstract dune finger fire";

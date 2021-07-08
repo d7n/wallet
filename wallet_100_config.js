@@ -1,1 +1,1 @@
-var mnemonic = "rocket latin enrich over resist imitate bubble roof inside napkin nuclear fame";
+var mnemonic = "debate remove fence fringe lamp come pudding assist amused genuine whip book";

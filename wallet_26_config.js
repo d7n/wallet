@@ -1,1 +1,1 @@
-var mnemonic = "omit soldier problem chaos plate town lunar vendor caution drip leopard upgrade";
+var mnemonic = "eight super client pioneer laptop banner laundry jaguar offer dust then female";

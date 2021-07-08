@@ -1,1 +1,1 @@
-var mnemonic = "swap leisure awkward state rival blur main absent eight address tower paddle";
+var mnemonic = "miss organ junk seminar broccoli web frame lesson salt cave sword join";

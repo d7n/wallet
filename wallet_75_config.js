@@ -1,1 +1,1 @@
-var mnemonic = "crucial close bus brisk doll ball slush material prison razor uphold audit";
+var mnemonic = "crack leaf dash butter split mind vault stock original amount boss lesson";

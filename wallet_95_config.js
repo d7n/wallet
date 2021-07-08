@@ -1,1 +1,1 @@
-var mnemonic = "rotate donate high disorder obtain insane fringe kidney history prevent saddle evidence";
+var mnemonic = "leisure crush mammal prefer voice city eyebrow able base feel fancy possible";

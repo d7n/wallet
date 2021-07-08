@@ -1,1 +1,1 @@
-var mnemonic = "choice above honey civil alpha weather daring quiz brave ladder habit wrong";
+var mnemonic = "blame fresh feel panic brass junior achieve piano loud program dove license";

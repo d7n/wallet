@@ -1,1 +1,1 @@
-var mnemonic = "mountain thunder horror sword promote simple silent believe parent tonight era hint";
+var mnemonic = "bar worth sense rack outer slender photo guard poverty loyal live couple";

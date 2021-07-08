@@ -1,1 +1,1 @@
-var mnemonic = "strike ketchup jelly later black coffee number demise gown glue spring code";
+var mnemonic = "meat cream great final pill increase tent jacket helmet seven topic laundry";
