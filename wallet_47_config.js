@@ -1,1 +1,1 @@
-var mnemonic = "silly notice capital stadium milk turn mistake eternal century cup sauce stem";
+var mnemonic = "stick treat abstract today laptop trim shadow narrow response all buyer whisper";

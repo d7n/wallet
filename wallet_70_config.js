@@ -1,1 +1,1 @@
-var mnemonic = "next spike people hurry garden garlic crime motor quality guess inflict exclude";
+var mnemonic = "inquiry danger modify sail inflict chest cup thumb jelly offer blossom parent";

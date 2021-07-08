@@ -1,1 +1,1 @@
-var mnemonic = "prefer hover butter grain army know decline copy enroll grunt erode olympic";
+var mnemonic = "describe tone cave coin observe vicious prefer art amount produce output simple";

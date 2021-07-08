@@ -1,1 +1,1 @@
-var mnemonic = "avoid split blanket push dismiss ketchup melody head maid focus father cradle";
+var mnemonic = "brain chase crisp latin pool borrow result torch relax latin cloud coach";

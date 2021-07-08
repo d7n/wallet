@@ -1,1 +1,1 @@
-var mnemonic = "enlist scare prevent mass route panic narrow habit office useful thunder tomorrow";
+var mnemonic = "skill argue hello give prison tooth owner romance science dolphin blast discover";

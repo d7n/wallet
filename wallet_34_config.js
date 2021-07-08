@@ -1,1 +1,1 @@
-var mnemonic = "wire system hood earn wall gasp cement method lawn mad misery tomorrow";
+var mnemonic = "unfold tumble penalty guard sausage disease arena hour thumb worth fantasy erupt";

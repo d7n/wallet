@@ -1,1 +1,1 @@
-var mnemonic = "flush can fox air alcohol mutual boil width rate citizen stumble turn";
+var mnemonic = "patrol traffic mask artefact fiscal blush despair work link roast gloom cabin";

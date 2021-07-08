@@ -1,1 +1,1 @@
-var mnemonic = "amazing rival ocean off similar survey amazing wide coral give awesome diary";
+var mnemonic = "arch blood antenna wasp cradle voyage harsh habit enforce unique liberty monster";

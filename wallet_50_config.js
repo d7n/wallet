@@ -1,1 +1,1 @@
-var mnemonic = "strategy mountain play accident cake mechanic talk practice erupt cheap pottery arrest";
+var mnemonic = "crouch practice beef grocery tumble ecology fork myth trumpet anger tunnel alpha";

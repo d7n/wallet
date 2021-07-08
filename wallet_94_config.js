@@ -1,1 +1,1 @@
-var mnemonic = "gentle add aware mixed excuse pipe rough stage pride shop path endorse";
+var mnemonic = "actual patrol bundle scorpion cactus ridge save reject mind title pattern olive";

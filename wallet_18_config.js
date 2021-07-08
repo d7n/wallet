@@ -1,1 +1,1 @@
-var mnemonic = "winner easily august galaxy truck endorse flash board mountain gate blanket violin";
+var mnemonic = "inquiry phrase photo pipe emerge chaos provide observe prize hobby early trip";

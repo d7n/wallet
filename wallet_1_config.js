@@ -1,1 +1,1 @@
-var mnemonic = "pony image attitude lunch camera often smoke chase orbit hazard fiction strike";
+var mnemonic = "ethics daring educate occur immune prize drill ripple hammer police trumpet song";

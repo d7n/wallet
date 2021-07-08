@@ -1,1 +1,1 @@
-var mnemonic = "also dream bargain pencil kangaroo casino window hero clever proud position combine";
+var mnemonic = "borrow artwork ahead potato change flavor truck quick bargain stomach quote decline";

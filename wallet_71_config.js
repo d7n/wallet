@@ -1,1 +1,1 @@
-var mnemonic = "beyond define today spoil foster piano capital oblige spray trip season recall";
+var mnemonic = "push crucial orchard absurd excite vacant bike tower behind reunion fashion purity";

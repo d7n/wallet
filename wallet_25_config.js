@@ -1,1 +1,1 @@
-var mnemonic = "win federal tape mouse trial fat sorry denial all slice install frog";
+var mnemonic = "soup fantasy inform salute ozone churn account shift laptop double such walnut";

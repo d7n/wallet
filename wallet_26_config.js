@@ -1,1 +1,1 @@
-var mnemonic = "blouse talk depend ride tide diagram frost topic frown pond powder win";
+var mnemonic = "general tornado solve sight noise address ship twelve gift spirit speed pupil";

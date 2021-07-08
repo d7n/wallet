@@ -1,1 +1,1 @@
-var mnemonic = "general lock cushion will such capital laugh false chase advice link milk";
+var mnemonic = "fat nation matrix vocal club van popular chuckle deputy provide fever attitude";

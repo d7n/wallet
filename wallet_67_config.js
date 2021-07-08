@@ -1,1 +1,1 @@
-var mnemonic = "rain fork envelope grit betray piano banana box fat cause reject essay";
+var mnemonic = "sword derive decrease risk broccoli muffin topic payment flower inspire reveal beach";

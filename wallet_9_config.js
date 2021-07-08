@@ -1,1 +1,1 @@
-var mnemonic = "lava sea icon tiny creek lounge above lobster grace metal hazard advance";
+var mnemonic = "drink drip city screen unusual napkin brief gaze melody pulp aim swap";

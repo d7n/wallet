@@ -1,1 +1,1 @@
-var mnemonic = "baby merry lounge charge color nothing rule another trumpet panda hawk spider";
+var mnemonic = "holiday empty child exile scare display street leave quality away monkey energy";

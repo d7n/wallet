@@ -1,1 +1,1 @@
-var mnemonic = "able roof congress ice produce sweet spirit slide drink best title foil";
+var mnemonic = "evidence tomato poet jealous bacon jazz silver cereal juice search cluster surge";

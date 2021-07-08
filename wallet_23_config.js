@@ -1,1 +1,1 @@
-var mnemonic = "enroll venture bulk present warrior sheriff episode surround solution bring clutch garment";
+var mnemonic = "nest menu gravity roof behind learn churn milk apart reason panic cigar";

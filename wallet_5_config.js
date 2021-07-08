@@ -1,1 +1,1 @@
-var mnemonic = "purchase rural cable gospel plunge huge name meadow convince debate more robust";
+var mnemonic = "fox capital noise fruit vocal again attitude wine wedding margin cluster depth";

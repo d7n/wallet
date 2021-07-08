@@ -1,1 +1,1 @@
-var mnemonic = "net slender clutch push excuse hood eye over olympic soap favorite shrug";
+var mnemonic = "attack worry method tumble bullet flavor beach fatal style tumble puzzle chair";

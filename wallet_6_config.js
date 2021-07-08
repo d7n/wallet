@@ -1,1 +1,1 @@
-var mnemonic = "discover jeans kitchen road attack wet grant proof believe time equip ceiling";
+var mnemonic = "conduct cup task cherry cool shy local shuffle clever myself rail hollow";

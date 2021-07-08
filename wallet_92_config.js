@@ -1,1 +1,1 @@
-var mnemonic = "pyramid account perfect catch erupt retreat rail omit credit intact pottery search";
+var mnemonic = "scene toss time jelly joke rate rain rail project plate reveal grocery";

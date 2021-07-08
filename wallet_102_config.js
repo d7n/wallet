@@ -1,1 +1,1 @@
-var mnemonic = "middle goddess evidence enjoy kit envelope length spare observe various firm one";
+var mnemonic = "ecology boat duck angry dumb rice upon body bonus cute decide quiz";

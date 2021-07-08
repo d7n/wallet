@@ -1,1 +1,1 @@
-var mnemonic = "deputy fiction split water super daring clever rookie hammer orbit angry yellow";
+var mnemonic = "notice document arm utility action popular exclude proud control stuff amazing knock";

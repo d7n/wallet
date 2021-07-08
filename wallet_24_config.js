@@ -1,1 +1,1 @@
-var mnemonic = "park other excite forget toe exotic general bounce tennis crush hotel tent";
+var mnemonic = "decade visual poverty fun appear impose add evidence case discover evoke amateur";

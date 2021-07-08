@@ -1,1 +1,1 @@
-var mnemonic = "theory model enemy harbor panda sail arena pudding stumble uncover latin key";
+var mnemonic = "average choose razor smooth journey fluid goat sick message wrap fashion lottery";

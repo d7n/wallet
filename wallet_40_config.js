@@ -1,1 +1,1 @@
-var mnemonic = "success grid oblige detail age attend great eagle appear nothing industry expect";
+var mnemonic = "notable mango immune large spot business figure shock talk soon program badge";

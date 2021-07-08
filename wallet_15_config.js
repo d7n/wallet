@@ -1,1 +1,1 @@
-var mnemonic = "satoshi slim eyebrow possible save hour add rural rack lonely employ defy";
+var mnemonic = "artefact popular corn when vicious special excuse gift junk soon spider shop";

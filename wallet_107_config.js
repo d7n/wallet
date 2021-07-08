@@ -1,1 +1,1 @@
-var mnemonic = "jazz story autumn require strike fiction spice side camera enforce coffee clip";
+var mnemonic = "include program rubber shoot jeans sponsor school piece gossip devote ocean elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "flame execute disorder chalk person offer impulse shift economy exotic swarm sail";
+var mnemonic = "half cry evoke ride shoe hand slush spike sister jacket swap allow";

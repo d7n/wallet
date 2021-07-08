@@ -1,1 +1,1 @@
-var mnemonic = "slice morning virus artwork damage forum boring crunch coast settle blast injury";
+var mnemonic = "bright girl lobster stairs kit any panel sort gate ginger pride stereo";

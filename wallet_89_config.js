@@ -1,1 +1,1 @@
-var mnemonic = "sample lab turn speak surprise misery discover fix jaguar angle assault unknown";
+var mnemonic = "fancy crisp vehicle blush day cream school still beach early shiver destroy";

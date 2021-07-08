@@ -1,1 +1,1 @@
-var mnemonic = "ensure outdoor cattle accuse grab poem frog ahead fold secret around alarm";
+var mnemonic = "roast phrase almost vocal unfair behave average unfair celery rifle sell nuclear";

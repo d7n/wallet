@@ -1,1 +1,1 @@
-var mnemonic = "garment donkey park swift member chest struggle hard assist envelope december wear";
+var mnemonic = "amused bus science throw radio father borrow cupboard arch camp option sunny";

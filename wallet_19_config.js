@@ -1,1 +1,1 @@
-var mnemonic = "price swap any leg swap slab maze innocent since gesture wreck photo";
+var mnemonic = "remind country organ crane rapid habit poverty crystal finish charge detect solve";

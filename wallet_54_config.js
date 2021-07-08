@@ -1,1 +1,1 @@
-var mnemonic = "harvest umbrella fade island palace random uncover half oxygen distance away hobby";
+var mnemonic = "artefact alcohol network sock symptom cattle betray life cycle moral stairs trouble";

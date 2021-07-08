@@ -1,1 +1,1 @@
-var mnemonic = "space predict hockey play never message satoshi excuse duck tennis exhibit embody";
+var mnemonic = "clown present struggle art spell dirt person chair neglect under plunge spider";

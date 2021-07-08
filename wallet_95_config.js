@@ -1,1 +1,1 @@
-var mnemonic = "possible adapt base spread gentle evil snake aunt charge artefact length lemon";
+var mnemonic = "accuse canal scene glue syrup lend neutral rabbit lake city despair soon";

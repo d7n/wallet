@@ -1,1 +1,1 @@
-var mnemonic = "few village power wink hospital ivory leaf runway often tired gasp luxury";
+var mnemonic = "lounge goddess total crack hazard issue relax road stadium artist thumb slam";

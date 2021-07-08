@@ -1,1 +1,1 @@
-var mnemonic = "crumble soup build violin cycle antenna neither glove sadness stumble top oyster";
+var mnemonic = "soup trust move suggest swim thrive wool effort hub actor barrel shoulder";

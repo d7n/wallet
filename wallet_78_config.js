@@ -1,1 +1,1 @@
-var mnemonic = "miss profit gold vacant together sniff party trust build wood fever blind";
+var mnemonic = "empower village fan rack adult elevator naive hood miracle ahead guide merge";

@@ -1,1 +1,1 @@
-var mnemonic = "affair affair bomb fiction about organ robot liar suffer cupboard unveil dumb";
+var mnemonic = "live immune task quick bus exile twenty allow goose feature music size";

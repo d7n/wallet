@@ -1,1 +1,1 @@
-var mnemonic = "boil attack length error world december weird sentence meat regret control expose";
+var mnemonic = "satisfy bitter unable convince diagram impulse arrow when green riot layer soft";

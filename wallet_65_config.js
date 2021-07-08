@@ -1,1 +1,1 @@
-var mnemonic = "sun miracle sentence raven fortune math resist album radar mimic danger accident";
+var mnemonic = "horn strike index loop rescue balance off youth woman plate vote shed";

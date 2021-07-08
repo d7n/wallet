@@ -1,1 +1,1 @@
-var mnemonic = "muffin turkey clap require canoe near actual blind vote pigeon flee venue";
+var mnemonic = "squeeze crater cruise raw fire idea mother orphan orient always violin guitar";

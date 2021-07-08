@@ -1,1 +1,1 @@
-var mnemonic = "account essence vehicle you very humble sign design unit pipe crack hole";
+var mnemonic = "mass hat position around private ancient remember arctic rotate quarter such width";

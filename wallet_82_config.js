@@ -1,1 +1,1 @@
-var mnemonic = "appear used injury ivory opinion order student cabbage clutch exact once sweet";
+var mnemonic = "limb detect actress hand party lounge route three regular sorry broom trigger";

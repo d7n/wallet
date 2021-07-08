@@ -1,1 +1,1 @@
-var mnemonic = "oil suffer pizza simple awkward sell then chase total book because dice";
+var mnemonic = "derive race casual yard grunt spice plastic art cage lamp cage swamp";

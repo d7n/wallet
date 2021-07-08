@@ -1,1 +1,1 @@
-var mnemonic = "ice file relief until bike crystal axis today diamond rabbit when attend";
+var mnemonic = "crime crucial kick gas label title skin alley peace morning elbow speed";

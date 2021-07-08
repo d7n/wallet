@@ -1,1 +1,1 @@
-var mnemonic = "frozen actor remain fatal obey force velvet six sentence exist that inject";
+var mnemonic = "female river half autumn poverty train fluid gain mango climb reunion extra";

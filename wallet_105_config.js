@@ -1,1 +1,1 @@
-var mnemonic = "dynamic bulk loud grab kangaroo neck bar hollow embark base salon outside";
+var mnemonic = "student chuckle climb tuition file exit unit shrug airport knife loan mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "escape boring proud orange reunion hour camp begin fly damage moment acid";
+var mnemonic = "grow tenant grocery isolate always copy retire art toss alert above suffer";

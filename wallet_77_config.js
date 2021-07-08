@@ -1,1 +1,1 @@
-var mnemonic = "virtual scrub prize cotton illegal gain size youth myth blast broccoli broken";
+var mnemonic = "expire found trip notice unlock unhappy reflect danger tell surround radar wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle desert begin field proud box summer hip trophy turtle glance coast";
+var mnemonic = "more husband panda leave enrich priority valid cinnamon lazy anger corn exhaust";

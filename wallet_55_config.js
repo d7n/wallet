@@ -1,1 +1,1 @@
-var mnemonic = "tortoise frozen photo chapter cruel brain mom camp virtual entry critic police";
+var mnemonic = "dinosaur egg kind fit brand food unit void enough unhappy still magic";

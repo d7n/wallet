@@ -1,1 +1,1 @@
-var mnemonic = "quality tumble split fuel enhance comfort word ice token pistol answer movie";
+var mnemonic = "awesome extend popular dutch debris right like column offer genre lizard hedgehog";

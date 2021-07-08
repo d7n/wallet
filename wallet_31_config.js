@@ -1,1 +1,1 @@
-var mnemonic = "grief adapt marine reopen asset good deliver find idle early maximum master";
+var mnemonic = "multiply dial sound member helmet arctic detect pupil cereal just rocket submit";

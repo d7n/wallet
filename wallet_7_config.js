@@ -1,1 +1,1 @@
-var mnemonic = "they frog group female process crop floor bridge busy draft goat design";
+var mnemonic = "shy reunion weapon obey country canyon devote riot trip escape van topple";

@@ -1,1 +1,1 @@
-var mnemonic = "winter hello caution sniff control buddy ship pen inform common cloth evolve";
+var mnemonic = "buzz person dash pass robust someone illness immense sick entire flash refuse";

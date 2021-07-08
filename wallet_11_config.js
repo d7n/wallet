@@ -1,1 +1,1 @@
-var mnemonic = "member arrow age payment install any eagle trouble fatigue hard country inject";
+var mnemonic = "tumble train level monster admit grid metal permit call breeze season glory";

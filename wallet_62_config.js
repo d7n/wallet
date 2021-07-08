@@ -1,1 +1,1 @@
-var mnemonic = "success sunset unit book gain spawn worth danger start sustain gloom nerve";
+var mnemonic = "neck oak toast snack supply door cover arrow impulse sunny indoor card";

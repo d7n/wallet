@@ -1,1 +1,1 @@
-var mnemonic = "sustain anger marriage pepper thunder raise stuff luxury foam fossil pony bomb";
+var mnemonic = "time evoke hollow valve glass obscure lyrics style august similar junior engage";

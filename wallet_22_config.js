@@ -1,1 +1,1 @@
-var mnemonic = "merge walnut agree claim melt admit pudding review okay little sight elephant";
+var mnemonic = "weasel scorpion smooth breeze congress blind horse awesome resource worry news judge";

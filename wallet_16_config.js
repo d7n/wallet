@@ -1,1 +1,1 @@
-var mnemonic = "toast view solution romance episode define labor list divide render creek monster";
+var mnemonic = "settle hundred soup wall fitness feature exercise soldier public exile extra jacket";

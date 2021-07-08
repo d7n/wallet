@@ -1,1 +1,1 @@
-var mnemonic = "crawl atom rose excite once excite alert cereal service lawsuit hero crucial";
+var mnemonic = "blush century depend sketch crisp civil captain wing finish step green board";

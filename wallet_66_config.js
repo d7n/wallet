@@ -1,1 +1,1 @@
-var mnemonic = "struggle guess effort aim spring cash spell portion marble genius slab law";
+var mnemonic = "tent rough urge reunion erode crane token endless deputy concert account slim";

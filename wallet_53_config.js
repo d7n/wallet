@@ -1,1 +1,1 @@
-var mnemonic = "indoor spatial army stumble goose original analyst lawn lunch vacuum safe donate";
+var mnemonic = "humor general category climb script fruit version hospital pet segment mother mango";

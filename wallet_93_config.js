@@ -1,1 +1,1 @@
-var mnemonic = "table churn maid settle purity cradle photo clown phone index diamond wink";
+var mnemonic = "royal citizen roof ring once twenty fiscal then talent measure guard cycle";

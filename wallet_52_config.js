@@ -1,1 +1,1 @@
-var mnemonic = "dinner innocent dolphin pizza toilet future pattern rely effort cable okay wet";
+var mnemonic = "near polar fall symptom vacuum image youth champion river bar view model";

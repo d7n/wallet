@@ -1,1 +1,1 @@
-var mnemonic = "appear angry south type lady settle coffee author pair defy gap agent";
+var mnemonic = "drop unaware dentist attack family end nose abandon source width cream stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "trash dish unlock prevent morning valid grain doll swim zebra mention sausage";
+var mnemonic = "spray junior anxiety melody retreat online jar festival bridge weapon icon employ";

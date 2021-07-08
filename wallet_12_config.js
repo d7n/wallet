@@ -1,1 +1,1 @@
-var mnemonic = "buddy lonely chronic trick cinnamon expose denial question meat alter law below";
+var mnemonic = "six game that lift purity hidden argue deal require neck humble setup";

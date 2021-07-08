@@ -1,1 +1,1 @@
-var mnemonic = "sorry school distance shop gospel display acid mean slot rhythm priority nation";
+var mnemonic = "lottery blood twist gaze month depart bubble similar grass submit globe grunt";

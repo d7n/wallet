@@ -1,1 +1,1 @@
-var mnemonic = "snake audit prepare earth pattern awesome welcome spike paddle pattern legal car";
+var mnemonic = "custom joke nut warfare target swear easy pride please more mango leave";

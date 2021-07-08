@@ -1,1 +1,1 @@
-var mnemonic = "bronze sibling quality bulk motion dad focus endless sleep joy nurse relax";
+var mnemonic = "wrestle width plate spider minimum drastic swap plate ordinary fee height flush";

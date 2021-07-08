@@ -1,1 +1,1 @@
-var mnemonic = "provide bright dial velvet retire elegant essay series body shock work retreat";
+var mnemonic = "divert army island twelve gloom visual agree logic now letter habit reopen";

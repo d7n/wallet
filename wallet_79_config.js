@@ -1,1 +1,1 @@
-var mnemonic = "task famous holiday hotel photo royal game vast color fire brand siren";
+var mnemonic = "strong found stumble assault nation muscle eyebrow dirt disagree giraffe mimic fat";

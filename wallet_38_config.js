@@ -1,1 +1,1 @@
-var mnemonic = "crash foster cherry luxury drama leaf small belt forget alone finish dove";
+var mnemonic = "desert onion flight answer purpose step mobile lonely funny seek demand endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "fish girl duty desert suffer skull panic install voyage finger tenant hybrid";
+var mnemonic = "ride rely reform duty erosion talk wise salon style flight shock sick";

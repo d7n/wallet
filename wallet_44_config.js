@@ -1,1 +1,1 @@
-var mnemonic = "limit lazy first remove coyote fortune jealous boring hold punch lamp oak";
+var mnemonic = "apology piece door elegant accuse design armed vintage prison hawk fine word";

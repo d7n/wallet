@@ -1,1 +1,1 @@
-var mnemonic = "oil angle practice brush concert industry crew domain sister engage grab truly";
+var mnemonic = "surprise skate cage topple range hawk surface weapon seven silk hour dolphin";

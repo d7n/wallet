@@ -1,1 +1,1 @@
-var mnemonic = "very thunder praise person claim cash display rent domain inhale level spike";
+var mnemonic = "ladder rhythm sad nut live early mosquito rich enemy trust place despair";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder gaze panic deal recall onion comfort impulse mesh duck depth that";
+var mnemonic = "nurse memory load receive glory siren upon era copy permit river cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy render extra winner demise harvest quote dawn cause olive price tip";
+var mnemonic = "drop rather ecology paper film world wool portion approve town intact affair";

@@ -1,1 +1,1 @@
-var mnemonic = "permit occur review hurdle refuse divorce impulse sting sudden message mandate own";
+var mnemonic = "toy gloom trip sentence column pioneer arch puppy absent crouch elite oven";
