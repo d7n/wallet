@@ -1,1 +1,1 @@
-var mnemonic = "genre abuse scout enroll spice hand vintage track flat glue canvas hollow";
+var mnemonic = "negative soul again bunker cement author crumble loyal shift reason sunset tissue";

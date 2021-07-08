@@ -1,1 +1,1 @@
-var mnemonic = "flat vacant unfold refuse rich dynamic lady iron expose rice addict woman";
+var mnemonic = "vacant car heavy caught coffee keen into snow swing coin access dinosaur";

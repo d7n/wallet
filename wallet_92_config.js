@@ -1,1 +1,1 @@
-var mnemonic = "pupil trash notice dream sniff habit scorpion student patient swarm plunge cactus";
+var mnemonic = "salmon that exile echo half census settle predict blast custom buzz long";

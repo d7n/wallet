@@ -1,1 +1,1 @@
-var mnemonic = "sign globe virtual calm balcony bus genre obtain subject auction gentle hurry";
+var mnemonic = "runway vacant bicycle daughter letter emotion cycle remove save embark warrior cute";

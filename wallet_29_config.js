@@ -1,1 +1,1 @@
-var mnemonic = "unfair soda soccer detail cart lab exercise prefer night escape power type";
+var mnemonic = "kiss large strong brass joke raccoon exit river loud crop rude reward";

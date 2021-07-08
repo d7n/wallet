@@ -1,1 +1,1 @@
-var mnemonic = "song cheese close category expect stairs kid road memory nest dilemma refuse";
+var mnemonic = "mixture brisk opera capital raw admit rare copy replace regular flight injury";

@@ -1,1 +1,1 @@
-var mnemonic = "often window hub forget various ranch mandate canoe march skill enemy observe";
+var mnemonic = "tag define shuffle chapter post basic fetch now ice drastic have leopard";

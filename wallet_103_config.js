@@ -1,1 +1,1 @@
-var mnemonic = "stock minor super turn tube outside recall term domain tone prefer artefact";
+var mnemonic = "motion card opinion rely supply slice tumble sugar hint normal grain same";

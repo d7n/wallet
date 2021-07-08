@@ -1,1 +1,1 @@
-var mnemonic = "bike guard arrow deliver fly steel elder equal height mango pyramid dice";
+var mnemonic = "month school ecology inject sing normal consider snow document episode party spare";

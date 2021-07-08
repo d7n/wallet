@@ -1,1 +1,1 @@
-var mnemonic = "rubber pole apology blossom review bring throw rapid recall pass visual shaft";
+var mnemonic = "waste orphan title rubber common demand insect letter energy ridge citizen riot";

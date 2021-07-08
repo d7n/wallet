@@ -1,1 +1,1 @@
-var mnemonic = "add love weekend loyal agree twenty utility wave husband left lounge script";
+var mnemonic = "walnut month click era track dose pulp economy expect gap view push";

@@ -1,1 +1,1 @@
-var mnemonic = "point convince frozen claw remind harsh wrong guitar shed document sustain domain";
+var mnemonic = "better inch position infant ship genre twist innocent hammer walk script crane";

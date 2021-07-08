@@ -1,1 +1,1 @@
-var mnemonic = "knock holiday birth also noodle regret control extra scatter cover wrong faculty";
+var mnemonic = "enter evoke emerge force void session abuse salmon merit hunt emotion grant";

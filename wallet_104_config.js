@@ -1,1 +1,1 @@
-var mnemonic = "fury tobacco beauty reject cover rabbit option bracket clean shuffle neither renew";
+var mnemonic = "expire health tornado invite morning long long health immune stem absurd charge";

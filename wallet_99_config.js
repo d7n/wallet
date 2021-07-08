@@ -1,1 +1,1 @@
-var mnemonic = "miracle easily festival solar during level pistol fever leopard clarify also faith";
+var mnemonic = "salute chair response cart extra very pepper roast shoe ordinary violin decline";

@@ -1,1 +1,1 @@
-var mnemonic = "promote panther orange oak figure fox term reason light crumble faculty crew";
+var mnemonic = "chest tank escape ostrich law require case quiz ordinary rural twin tennis";

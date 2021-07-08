@@ -1,1 +1,1 @@
-var mnemonic = "catalog before member balcony neglect caution elbow silk injury wagon sugar budget";
+var mnemonic = "easy erode odor purpose brief primary army source dash brand mutual curtain";

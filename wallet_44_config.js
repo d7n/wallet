@@ -1,1 +1,1 @@
-var mnemonic = "enrich often lonely hard actress enjoy spend visa recycle violin estate stem";
+var mnemonic = "artefact merry team shoulder sound weird together neither wire slide sheriff plunge";

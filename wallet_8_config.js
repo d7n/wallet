@@ -1,1 +1,1 @@
-var mnemonic = "luggage shallow student toward crack calm hard rose leisure wall spirit close";
+var mnemonic = "hybrid vicious whisper tomorrow olive celery label slender then spot rural laundry";

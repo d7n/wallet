@@ -1,1 +1,1 @@
-var mnemonic = "again hunt junior discover cattle agent anxiety teach cattle pizza hero another";
+var mnemonic = "garbage area praise evolve ordinary iron hair limit eternal exit alley brisk";

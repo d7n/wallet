@@ -1,1 +1,1 @@
-var mnemonic = "fuel tag reduce sheriff salt run project pudding ecology outdoor lottery inside";
+var mnemonic = "spell word impulse own decorate find split vendor this edit spray region";

@@ -1,1 +1,1 @@
-var mnemonic = "find warfare affair unfold knee purse infant pelican mimic force remove either";
+var mnemonic = "zoo attract vapor fever rural obscure direct swamp tomorrow mosquito certain patch";

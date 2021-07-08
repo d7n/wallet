@@ -1,1 +1,1 @@
-var mnemonic = "jazz myself once render slot ticket cinnamon poem airport later enhance mandate";
+var mnemonic = "note cousin knock depend dutch pluck inmate neutral pilot squirrel mystery panel";

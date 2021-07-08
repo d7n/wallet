@@ -1,1 +1,1 @@
-var mnemonic = "embody shift month gallery antique crouch scheme hunt tool little wolf nation";
+var mnemonic = "adapt lottery sing balance job obvious mobile mirror citizen veteran anchor minute";

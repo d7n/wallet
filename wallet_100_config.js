@@ -1,1 +1,1 @@
-var mnemonic = "wait hybrid people average wage author cotton goat extra alley soon destroy";
+var mnemonic = "depth unlock entry prize draw seat century else borrow soup address man";

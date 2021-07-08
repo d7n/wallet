@@ -1,1 +1,1 @@
-var mnemonic = "like umbrella enjoy absurd fog detail dentist sign giant blood two trip";
+var mnemonic = "helmet reason object caught trend reform keen best bind ability omit emerge";

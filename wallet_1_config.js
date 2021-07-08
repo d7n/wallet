@@ -1,1 +1,1 @@
-var mnemonic = "equip ship demand mixture catch mystery noble echo disorder father salt anger";
+var mnemonic = "immune patrol depth mother anxiety cat ride amateur nuclear morning fame slot";

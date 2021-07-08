@@ -1,1 +1,1 @@
-var mnemonic = "grape mosquito conduct pizza man balcony carbon control creek way attack verify";
+var mnemonic = "lunch kick airport image bike tobacco slogan visit wedding cup cluster acoustic";

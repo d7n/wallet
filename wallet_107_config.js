@@ -1,1 +1,1 @@
-var mnemonic = "reunion organ art wrist ozone test aware expect foot mad update ask";
+var mnemonic = "diagram spawn hold night bind believe ensure result draw electric lonely best";

@@ -1,1 +1,1 @@
-var mnemonic = "design plastic atom bid theme gossip tag album situate soap blade innocent";
+var mnemonic = "mom system hobby jazz direct liberty when feel oak margin divert daring";

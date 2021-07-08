@@ -1,1 +1,1 @@
-var mnemonic = "trust grab stable credit genius garden voice near hat aisle foot chuckle";
+var mnemonic = "much uncover silly gain security rhythm amateur brisk advance various cause spoon";

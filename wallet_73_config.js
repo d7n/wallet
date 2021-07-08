@@ -1,1 +1,1 @@
-var mnemonic = "learn chaos dad canvas merge uphold better extend drip model sunny ecology";
+var mnemonic = "pretty jewel scrap unfair lobster peace add left sweet token ice green";

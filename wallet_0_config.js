@@ -1,1 +1,1 @@
-var mnemonic = "grace drill section rally side roof profit once language sauce virus foil";
+var mnemonic = "goat manage control until emerge north drip cruel update concert buyer theory";

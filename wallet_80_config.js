@@ -1,1 +1,1 @@
-var mnemonic = "ecology guitar turkey green lottery romance soldier penalty fiber stamp fame kingdom";
+var mnemonic = "over mammal puzzle hurry gasp sentence stick citizen apple excess scrap demise";

@@ -1,1 +1,1 @@
-var mnemonic = "salad very fruit salt awesome nut absent citizen shield piece laundry way";
+var mnemonic = "february recycle can toddler elite anxiety space update nurse tower bag napkin";

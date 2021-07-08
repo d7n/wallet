@@ -1,1 +1,1 @@
-var mnemonic = "beyond genuine cherry desk solar dance middle humor century filter unveil south";
+var mnemonic = "wine pattern dash theme velvet razor verify faculty heart shrug surround dove";

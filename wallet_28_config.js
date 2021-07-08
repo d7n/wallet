@@ -1,1 +1,1 @@
-var mnemonic = "high palace nation sure clown fold film cause dolphin knife tiny furnace";
+var mnemonic = "jump rate bronze claw hurt argue enrich decline ready crater always friend";

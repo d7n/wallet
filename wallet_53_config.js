@@ -1,1 +1,1 @@
-var mnemonic = "enroll wheat satoshi resemble excess aspect doctor stage wisdom bubble hospital chuckle";
+var mnemonic = "hood wrestle stamp flash unfold middle chair panel ride raven try arctic";

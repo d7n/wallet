@@ -1,1 +1,1 @@
-var mnemonic = "snap visit hurry put carbon exercise document corn interest recipe error metal";
+var mnemonic = "height submit rigid panther pass belt tennis subway seven draw snack write";

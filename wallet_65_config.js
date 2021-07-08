@@ -1,1 +1,1 @@
-var mnemonic = "salt boring rude city steak crucial wreck extra wool vault scene fold";
+var mnemonic = "parrot device welcome clinic below narrow raccoon write proud attend stick faint";

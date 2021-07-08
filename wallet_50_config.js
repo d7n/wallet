@@ -1,1 +1,1 @@
-var mnemonic = "vintage tilt uniform forum argue cactus stadium ankle bar pigeon odor honey";
+var mnemonic = "measure punch cigar face layer aisle liar orphan belt ice famous news";

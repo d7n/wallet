@@ -1,1 +1,1 @@
-var mnemonic = "fog old snap cushion grit concert fire inside orange crystal prevent soldier";
+var mnemonic = "wish paper element puppy ability account torch scorpion twist fabric sunny skate";

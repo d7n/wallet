@@ -1,1 +1,1 @@
-var mnemonic = "find maze bread avocado drama guilt swamp immense tumble biology build puzzle";
+var mnemonic = "breeze impulse stem crumble wing side choice decide quarter require quit permit";

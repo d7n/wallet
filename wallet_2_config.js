@@ -1,1 +1,1 @@
-var mnemonic = "aisle kangaroo blouse spawn close fall emerge reveal type invite trumpet north";
+var mnemonic = "half black diesel banana lab surge snap crack wisdom south erosion huge";

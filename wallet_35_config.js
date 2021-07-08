@@ -1,1 +1,1 @@
-var mnemonic = "now absurd desk excuse gain direct aerobic cloud fashion honey network plug";
+var mnemonic = "alone hawk saddle silver one acid stairs success brown prevent sand fall";

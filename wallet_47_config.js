@@ -1,1 +1,1 @@
-var mnemonic = "connect tag pyramid unhappy lizard begin assist hand era dizzy heavy profit";
+var mnemonic = "size subject wide output hazard notice man area neck reunion slogan chase";

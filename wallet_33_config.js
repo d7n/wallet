@@ -1,1 +1,1 @@
-var mnemonic = "deliver soda razor evolve blame rescue payment uncover honey also opinion general";
+var mnemonic = "animal three spray clinic depart fee balance fence old scorpion coffee outdoor";

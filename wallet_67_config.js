@@ -1,1 +1,1 @@
-var mnemonic = "tide basic build foil employ choice echo they twelve worth custom foster";
+var mnemonic = "orient anchor mind quality harsh dish crucial stuff derive east salmon age";

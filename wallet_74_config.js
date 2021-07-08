@@ -1,1 +1,1 @@
-var mnemonic = "old run someone betray flame predict hotel rely advice champion cram earn";
+var mnemonic = "receive penalty mouse weekend swap session solid expand wheat report that area";

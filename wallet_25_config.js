@@ -1,1 +1,1 @@
-var mnemonic = "orchard phrase increase just sea resist elbow document small scorpion urban recipe";
+var mnemonic = "salmon enough opera acoustic thrive brain sausage shine nut grid learn dress";

@@ -1,1 +1,1 @@
-var mnemonic = "noise ocean art super wet rifle domain echo genius update must appear";
+var mnemonic = "canyon chimney flock table employ sleep issue act acoustic lift cave process";

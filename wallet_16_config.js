@@ -1,1 +1,1 @@
-var mnemonic = "soccer pitch hazard figure whisper portion ignore pilot knife together piece control";
+var mnemonic = "kick future soldier jelly goddess ice across prefer oval drama ignore daughter";

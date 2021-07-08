@@ -1,1 +1,1 @@
-var mnemonic = "cargo foil narrow tag regret travel exclude hard cover puzzle wool duck";
+var mnemonic = "august upgrade include fog useful bring mail arrest grass hurdle dirt hockey";

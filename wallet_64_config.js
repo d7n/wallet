@@ -1,1 +1,1 @@
-var mnemonic = "unlock limb puzzle rough cave vocal almost burden rail dwarf business state";
+var mnemonic = "wasp pretty door hurry furnace goddess smile barrel version game quality chronic";

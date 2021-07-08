@@ -1,1 +1,1 @@
-var mnemonic = "disease expand human cable mesh supply blur glove clinic note world then";
+var mnemonic = "delay fine knock drift interest teach comic fresh denial easily obvious concert";

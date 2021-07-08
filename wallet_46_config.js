@@ -1,1 +1,1 @@
-var mnemonic = "choose pill bullet dress canvas jelly science cotton gaze snap waste body";
+var mnemonic = "tank demand aspect magnet monitor alley always deputy domain achieve hurdle alert";

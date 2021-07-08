@@ -1,1 +1,1 @@
-var mnemonic = "whisper judge report coffee adapt congress dress head next original round sauce";
+var mnemonic = "exchange combine festival echo maid camp clerk cement often board high night";

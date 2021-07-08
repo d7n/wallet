@@ -1,1 +1,1 @@
-var mnemonic = "lock glide swear stone bean route live half floor ensure okay sure";
+var mnemonic = "vessel memory basket find rent trust witness rubber devote puzzle group mosquito";

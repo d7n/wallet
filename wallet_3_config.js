@@ -1,1 +1,1 @@
-var mnemonic = "engine ring announce boost sheriff depend job behave bag share enemy heavy";
+var mnemonic = "elevator noble dice action ten smart gravity trade final bargain duty dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder shaft venture satoshi state kiss extend dinner doll shallow novel among";
+var mnemonic = "flash vicious special symptom empower dream betray hip retire sorry snack polar";

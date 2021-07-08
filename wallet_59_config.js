@@ -1,1 +1,1 @@
-var mnemonic = "interest eager say useful syrup crack fix creek treat regret fence dad";
+var mnemonic = "next kit street domain predict vault top news cinnamon pluck festival able";

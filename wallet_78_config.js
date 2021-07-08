@@ -1,1 +1,1 @@
-var mnemonic = "flower basic dream scene burden grief lake menu trip wear tonight arctic";
+var mnemonic = "spell rotate legal slush want chronic hurry stuff pink beauty suggest wife";

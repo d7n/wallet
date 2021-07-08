@@ -1,1 +1,1 @@
-var mnemonic = "that excess isolate reopen figure december leader expose tree surface cool animal";
+var mnemonic = "report mad wagon civil direct spring toy situate olive power fatal warrior";

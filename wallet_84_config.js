@@ -1,1 +1,1 @@
-var mnemonic = "nerve dial scare category unhappy alone note prevent pool bean clip more";
+var mnemonic = "wolf deputy evil vessel spatial spy ritual artefact judge ridge guard trim";

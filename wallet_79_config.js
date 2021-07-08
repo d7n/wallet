@@ -1,1 +1,1 @@
-var mnemonic = "predict envelope fever lock hamster yard cook prison price chimney print ice";
+var mnemonic = "quote desert beyond depend warm aware mail bridge cement install end mango";

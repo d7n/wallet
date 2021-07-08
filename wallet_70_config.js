@@ -1,1 +1,1 @@
-var mnemonic = "street pluck hour pyramid stool whisper cash mean else liquid smart top";
+var mnemonic = "cash second mountain company ethics suggest torch marriage subway smile crisp heavy";

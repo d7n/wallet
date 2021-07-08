@@ -1,1 +1,1 @@
-var mnemonic = "ordinary gym crew erupt drama waste engage galaxy ensure mother moon diary";
+var mnemonic = "soap prosper barrel illegal argue logic brown raw figure fiction amused idle";

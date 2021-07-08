@@ -1,1 +1,1 @@
-var mnemonic = "problem weekend dumb cream ginger dignity ring stamp sorry until enroll spread";
+var mnemonic = "drama emerge dice point scissors bargain skirt crucial feed fix attract chat";

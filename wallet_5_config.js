@@ -1,1 +1,1 @@
-var mnemonic = "gown outdoor shell stadium pledge quality sustain harvest fold list program wrist";
+var mnemonic = "mask bless inspire plunge frog always lava clap guilt original swamp sunny";

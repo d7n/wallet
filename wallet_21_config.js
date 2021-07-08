@@ -1,1 +1,1 @@
-var mnemonic = "flip satisfy axis produce equal normal scissors mansion clay cargo spread woman";
+var mnemonic = "warrior whale garbage april labor loan carbon cup congress inherit sustain soul";

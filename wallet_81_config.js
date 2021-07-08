@@ -1,1 +1,1 @@
-var mnemonic = "flavor guitar basic grass truck urge transfer become minute lumber fun cabin";
+var mnemonic = "surge ticket today flat owner pudding move universe path vacuum plate maple";

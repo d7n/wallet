@@ -1,1 +1,1 @@
-var mnemonic = "rose oil nerve invest cliff measure scale police loud target velvet ugly";
+var mnemonic = "second drop reject tomato uncover supply ticket solve voice possible swift share";

@@ -1,1 +1,1 @@
-var mnemonic = "also prison mouse wheat way double merit saddle broccoli whale viable chronic";
+var mnemonic = "island thank aim bulk outdoor nose wave young web cattle lady seven";

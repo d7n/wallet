@@ -1,1 +1,1 @@
-var mnemonic = "throw sort charge topple cycle urge marriage magic degree glance museum glide";
+var mnemonic = "oven deposit donkey method tortoise walnut dry addict dizzy ceiling orient board";

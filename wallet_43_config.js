@@ -1,1 +1,1 @@
-var mnemonic = "olive always business travel envelope slot choose glimpse chimney spin round staff";
+var mnemonic = "guitar despair solid wealth bacon picnic merge junior marble buyer twist chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "frame found short emotion shop other dune uphold scissors fringe parent install";
+var mnemonic = "list trust culture educate tissue oblige grief grunt table view nephew follow";

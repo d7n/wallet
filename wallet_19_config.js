@@ -1,1 +1,1 @@
-var mnemonic = "chalk media sniff light lion surprise rice panther wheel tell teach run";
+var mnemonic = "blast gather damage outer another helmet host salmon allow panel list curtain";

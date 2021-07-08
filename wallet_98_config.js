@@ -1,1 +1,1 @@
-var mnemonic = "rescue obvious wheat scrap member ribbon execute yellow pulp hotel mail fossil";
+var mnemonic = "change grocery rent coach photo cycle solid switch between hospital lonely north";

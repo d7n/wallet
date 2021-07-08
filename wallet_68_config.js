@@ -1,1 +1,1 @@
-var mnemonic = "mobile run gallery novel hundred question unable zone coffee office skill question";
+var mnemonic = "juice during echo unveil law execute system sugar treat sentence soup tomato";

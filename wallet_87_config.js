@@ -1,1 +1,1 @@
-var mnemonic = "club oven slogan shallow hammer swamp swear cream pistol idea key bitter";
+var mnemonic = "mistake convince math trap absurd hunt better same world point page used";

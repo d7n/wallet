@@ -1,1 +1,1 @@
-var mnemonic = "monitor author truly evidence guard already method side security barrel video desert";
+var mnemonic = "produce raven kitchen scrap swim eternal vessel top whip era ramp ostrich";

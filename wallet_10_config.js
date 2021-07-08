@@ -1,1 +1,1 @@
-var mnemonic = "team fancy year baby lecture ceiling napkin much pizza game garlic grow";
+var mnemonic = "wild check garlic edit diet victory attract suffer palm letter twist omit";

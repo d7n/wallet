@@ -1,1 +1,1 @@
-var mnemonic = "strike work answer view scrub crisp slender theory merry opera ready file";
+var mnemonic = "supply enjoy only kitchen early wish tiger clarify crunch erode drive cart";

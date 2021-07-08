@@ -1,1 +1,1 @@
-var mnemonic = "jewel entry sure limit hockey era kingdom since govern anxiety cave matrix";
+var mnemonic = "learn federal valve side eyebrow avoid crane menu dawn comic swear very";

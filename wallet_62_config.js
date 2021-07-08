@@ -1,1 +1,1 @@
-var mnemonic = "movie express creek camp page kitchen crush kiss catch squirrel lamp slot";
+var mnemonic = "fragile clown giant rug property humor endless thank length caught thought must";

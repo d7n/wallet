@@ -1,1 +1,1 @@
-var mnemonic = "virus right pear photo juice push consider damage depend unlock palm worry";
+var mnemonic = "claw arena route pipe sea confirm boring raw castle unhappy solution toilet";

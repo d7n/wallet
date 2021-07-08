@@ -1,1 +1,1 @@
-var mnemonic = "silent wash adjust lawsuit chalk muscle good outdoor story protect visual drive";
+var mnemonic = "nose foil palm issue benefit room gauge coin solid odor club topic";

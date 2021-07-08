@@ -1,1 +1,1 @@
-var mnemonic = "rabbit tide dirt juice this toddler try noble tuition meadow ozone accuse";
+var mnemonic = "fame float subject lobster adult deputy achieve unhappy outside suggest limb already";
