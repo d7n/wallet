@@ -1,1 +1,1 @@
-var mnemonic = "shadow image mansion coral sustain citizen slim viable pizza step breeze brand";
+var mnemonic = "access autumn bring cube canal sister razor frozen vessel space need neglect";

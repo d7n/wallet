@@ -1,1 +1,1 @@
-var mnemonic = "caution side slot blossom kiwi daughter ketchup exhibit obtain total universe document";
+var mnemonic = "future device orchard canal decade similar radar useless craft another segment strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "danger piece worth cousin quiz lock copy behind brother nut actor tone";
+var mnemonic = "situate donor pottery logic online hen project warm road oil castle face";

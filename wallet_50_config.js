@@ -1,1 +1,1 @@
-var mnemonic = "wrap little purchase volcano blossom winner sausage force echo staff illegal spell";
+var mnemonic = "blade hub current burden twelve fuel marriage gown eager vanish offer staff";

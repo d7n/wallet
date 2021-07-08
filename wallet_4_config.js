@@ -1,1 +1,1 @@
-var mnemonic = "law scan write faith hover repair sock say virtual cart exhaust myself";
+var mnemonic = "school hidden electric group visual uniform gas axis pole rocket fetch velvet";

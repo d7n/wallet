@@ -1,1 +1,1 @@
-var mnemonic = "garlic language plate deposit turtle chalk sell era shine oil bicycle helmet";
+var mnemonic = "bench catch drip example help step earth define wait lobster wait acquire";

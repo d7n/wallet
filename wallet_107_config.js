@@ -1,1 +1,1 @@
-var mnemonic = "media supreme dumb fox hero rather glory rural mosquito renew syrup dose";
+var mnemonic = "visa blade intact school grunt tribe rule frozen garment dismiss amateur segment";

@@ -1,1 +1,1 @@
-var mnemonic = "grit enhance modify sadness mercy ethics motion film engine fork ozone copper";
+var mnemonic = "neglect catch liquid deer tribe chair destroy party sun debris eternal hobby";

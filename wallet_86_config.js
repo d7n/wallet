@@ -1,1 +1,1 @@
-var mnemonic = "globe robust harsh item fury visual south can february sword path code";
+var mnemonic = "two hello merge lunch spend token dutch ten planet style thumb yard";

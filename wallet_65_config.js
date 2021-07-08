@@ -1,1 +1,1 @@
-var mnemonic = "lamp afraid athlete ordinary chat there december apart humble hawk reveal leopard";
+var mnemonic = "citizen away alarm guess very point orient modify vessel dentist six science";

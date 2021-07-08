@@ -1,1 +1,1 @@
-var mnemonic = "clinic piece cherry nephew cinnamon leaf fantasy motion cheap shock cool juice";
+var mnemonic = "rhythm lonely summer wife such tragic chef hawk kind elegant hour right";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tornado keen loan lock eight evoke tool problem cactus mother sand";
+var mnemonic = "abuse twice check slot save leopard deputy foot supreme sketch drum rather";

@@ -1,1 +1,1 @@
-var mnemonic = "submit glad glide pond inhale trust agree caution spy body index west";
+var mnemonic = "early nasty winner shallow spice area person conduct payment dune repair cable";

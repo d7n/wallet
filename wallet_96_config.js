@@ -1,1 +1,1 @@
-var mnemonic = "imitate snake hero flee shoulder fringe hundred easy floor tell tattoo need";
+var mnemonic = "glide release cupboard rare region occur client phone ski stick note smoke";

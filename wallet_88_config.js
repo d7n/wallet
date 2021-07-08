@@ -1,1 +1,1 @@
-var mnemonic = "warfare nuclear good peasant become citizen chase bring found hill offer whisper";
+var mnemonic = "pyramid gun luxury safe audit oven head receive rookie buddy solid benefit";

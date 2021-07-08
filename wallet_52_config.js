@@ -1,1 +1,1 @@
-var mnemonic = "alone impose tank permit glue fury wish pig ridge arch arctic cabin";
+var mnemonic = "net return valley culture tool summer mechanic theory survey poem size odor";

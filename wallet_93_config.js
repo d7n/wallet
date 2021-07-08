@@ -1,1 +1,1 @@
-var mnemonic = "idea bike lesson patch orbit turkey urban can method shaft service mention";
+var mnemonic = "maximum visa beach wine tank mesh idea stage jar clay season bless";

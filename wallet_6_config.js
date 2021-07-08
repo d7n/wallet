@@ -1,1 +1,1 @@
-var mnemonic = "olympic month insect wise thank edit climb cart firm gasp inform race";
+var mnemonic = "scene elite govern join exist vehicle half siege fat spike guess champion";

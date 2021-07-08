@@ -1,1 +1,1 @@
-var mnemonic = "weird assault unable spin tilt already roof wheat clerk fiscal lens trend";
+var mnemonic = "cluster flat again emerge agree action fiscal quality height avoid ability toddler";

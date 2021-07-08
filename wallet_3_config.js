@@ -1,1 +1,1 @@
-var mnemonic = "upgrade other sniff brand helmet private then embody gospel pulp ritual trigger";
+var mnemonic = "blur clown spare document enforce viable squeeze force fold lobster slab air";

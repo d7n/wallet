@@ -1,1 +1,1 @@
-var mnemonic = "gym rather talent end flash armed subway amused patch addict stone kidney";
+var mnemonic = "essence diesel scatter eye glide replace sell code vault pelican echo host";

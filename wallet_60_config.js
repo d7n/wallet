@@ -1,1 +1,1 @@
-var mnemonic = "flip spike slush future scale fitness pear high peace shoot parrot side";
+var mnemonic = "alcohol aerobic choose resist entire urban fun link produce knock flip rug";

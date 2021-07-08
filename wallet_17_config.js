@@ -1,1 +1,1 @@
-var mnemonic = "goat crumble bubble kangaroo hamster silk lamp truly laundry gauge pitch identify";
+var mnemonic = "disagree acid ocean useless spend inch share rhythm action weasel inquiry interest";

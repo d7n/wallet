@@ -1,1 +1,1 @@
-var mnemonic = "month trigger mushroom huge meat tired spend true ski monster mask double";
+var mnemonic = "vendor high clay never sense turn merge arctic chief bind denial east";

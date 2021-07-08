@@ -1,1 +1,1 @@
-var mnemonic = "black coral route stable off disease deal require unaware section time mind";
+var mnemonic = "horn course pitch excess remove truth elder case renew nerve major laugh";

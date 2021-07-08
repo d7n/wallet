@@ -1,1 +1,1 @@
-var mnemonic = "hood flame mechanic remember middle quiz project cereal curve affair tool usual";
+var mnemonic = "key hair cargo predict crack mosquito water matrix parent dog sketch require";

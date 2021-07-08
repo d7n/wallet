@@ -1,1 +1,1 @@
-var mnemonic = "spray inside coast parade gap slim economy round street trial render photo";
+var mnemonic = "boy cement popular cheese manage business little apart clinic giant crop pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "melody wet anchor menu giggle dirt limit deal gospel assault solar private";
+var mnemonic = "enjoy cotton view bundle share undo couple magic endless typical paddle supreme";

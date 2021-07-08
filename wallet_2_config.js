@@ -1,1 +1,1 @@
-var mnemonic = "carbon birth lizard fresh gasp between word basket dune fold cruise cheese";
+var mnemonic = "pledge advance initial club lamp original around crazy exclude seat broccoli yard";

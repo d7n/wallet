@@ -1,1 +1,1 @@
-var mnemonic = "liquid useless nature rebuild beauty bridge coin hint join convince jeans pull";
+var mnemonic = "farm fabric real hamster crunch budget boat armed cube useful lobster oblige";

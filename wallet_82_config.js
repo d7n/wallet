@@ -1,1 +1,1 @@
-var mnemonic = "what ramp absorb plunge crack imitate monitor winter what fiber they spend";
+var mnemonic = "grant gallery sudden equip hard move magic bubble main man sudden hat";

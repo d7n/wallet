@@ -1,1 +1,1 @@
-var mnemonic = "retreat thunder ketchup earth man nation craft cross shaft blood amount spirit";
+var mnemonic = "obscure hospital brush nuclear tennis guard ready blade gown junior fantasy guide";

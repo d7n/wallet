@@ -1,1 +1,1 @@
-var mnemonic = "cute theme taste admit chronic seed stereo weather route night loud grow";
+var mnemonic = "carry fame favorite keen exact garlic swift ability above scale print brown";

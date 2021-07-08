@@ -1,1 +1,1 @@
-var mnemonic = "release consider burst code equal hill nuclear visit fat spoon minute actress";
+var mnemonic = "creek lonely dizzy flat glance maid faculty virtual swim derive mystery pole";

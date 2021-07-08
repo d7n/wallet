@@ -1,1 +1,1 @@
-var mnemonic = "pear boat design program neck diet increase online there scorpion stage real";
+var mnemonic = "junk buffalo moment sense bunker tuition letter save hammer disagree erase goat";

@@ -1,1 +1,1 @@
-var mnemonic = "away claw foster chalk sudden wagon arrive pony enact exile address spring";
+var mnemonic = "snow bitter neck unusual drip front solution electric donor bonus suit armor";

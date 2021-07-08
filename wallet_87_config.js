@@ -1,1 +1,1 @@
-var mnemonic = "step walk below sword craft field bread gauge opera rhythm museum kick";
+var mnemonic = "globe review cotton insane virtual jelly van member reopen hollow angle jealous";

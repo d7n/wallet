@@ -1,1 +1,1 @@
-var mnemonic = "calm danger thunder envelope coast energy advance dragon vocal lizard tribe coil";
+var mnemonic = "estate uncle october between into snow brave solid loop school orange life";

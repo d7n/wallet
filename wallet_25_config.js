@@ -1,1 +1,1 @@
-var mnemonic = "tape pistol diary job motor cable eyebrow snow volume strategy any tower";
+var mnemonic = "caught must pair observe dream maple author tent faculty improve arch master";

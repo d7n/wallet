@@ -1,1 +1,1 @@
-var mnemonic = "auction fuel room ketchup kid dentist talk galaxy slight endorse notable gentle";
+var mnemonic = "over upgrade kitten history obtain special equal cool solve elephant screen sick";

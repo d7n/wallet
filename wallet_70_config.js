@@ -1,1 +1,1 @@
-var mnemonic = "fury hotel wing decline damage pumpkin globe into tilt today pave large";
+var mnemonic = "since general drastic differ letter vocal squeeze chuckle raw lawn shuffle meadow";

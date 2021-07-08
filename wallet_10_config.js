@@ -1,1 +1,1 @@
-var mnemonic = "mandate above false olive correct copy tiger repeat corn simple way cup";
+var mnemonic = "night bus nothing island measure report book sight avocado ice account rail";

@@ -1,1 +1,1 @@
-var mnemonic = "angle ramp cage ball mobile garden client offer elbow online inherit slight";
+var mnemonic = "detect warfare quick animal horn matter balance side silver open fly oyster";

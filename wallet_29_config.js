@@ -1,1 +1,1 @@
-var mnemonic = "artist oxygen walk order office blanket arrow general energy method dutch eternal";
+var mnemonic = "nephew fiscal setup sphere dizzy liberty gadget rival swear you latin chuckle";

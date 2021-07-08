@@ -1,1 +1,1 @@
-var mnemonic = "candy anchor student bullet phone wheel gauge park unable broom math attract";
+var mnemonic = "picture festival nut shadow flee whip visit rug home ahead foot cup";

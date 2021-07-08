@@ -1,1 +1,1 @@
-var mnemonic = "avocado swear erosion reform worry stable fit shield cement roof equal hood";
+var mnemonic = "radar same feel cruel couple match occur ozone tackle amount muscle toward";

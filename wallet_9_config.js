@@ -1,1 +1,1 @@
-var mnemonic = "donor ripple garment slam beauty amused leaf attend piece coffee maze announce";
+var mnemonic = "knee live trial clay direct hurdle object hold material second square onion";

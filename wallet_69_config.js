@@ -1,1 +1,1 @@
-var mnemonic = "artefact robust plastic typical boat pole sword stereo imitate random science recycle";
+var mnemonic = "wreck grape invite vanish alien sell lyrics opinion scatter burden million sleep";

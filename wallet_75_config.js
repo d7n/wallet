@@ -1,1 +1,1 @@
-var mnemonic = "alert also junior great reflect peanut ketchup clever rib bonus turkey april";
+var mnemonic = "jungle tribe fan ritual innocent pyramid olive uncover public random steel isolate";

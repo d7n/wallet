@@ -1,1 +1,1 @@
-var mnemonic = "pencil picture region arrow energy fiscal cannon romance loop wage business three";
+var mnemonic = "team wonder divorce lady typical into rich jeans suspect first lab rare";

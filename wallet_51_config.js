@@ -1,1 +1,1 @@
-var mnemonic = "lesson mercy session salmon among combine hundred inquiry rough melt balance practice";
+var mnemonic = "upset garlic filter cage since analyst feel syrup cattle fire law blame";

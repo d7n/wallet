@@ -1,1 +1,1 @@
-var mnemonic = "inform oven bone blue minor desk expose issue clap add sudden volcano";
+var mnemonic = "almost roof curtain view jewel target flash legal opinion right pilot suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "baby story runway flip permit penalty grain leader such ball ability sort";
+var mnemonic = "trend execute flee cabbage limb lunar prosper devote embody twice gas rent";

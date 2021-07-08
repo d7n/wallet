@@ -1,1 +1,1 @@
-var mnemonic = "rival charge wonder update vague engage punch miracle aisle eight dolphin era";
+var mnemonic = "left find okay pigeon deer true slam crucial collect empower own neglect";

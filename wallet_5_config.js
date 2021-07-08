@@ -1,1 +1,1 @@
-var mnemonic = "crane social mad slam race inspire range name wheel drastic grocery between";
+var mnemonic = "naive float august anger hero square alone million surround earth soft nut";

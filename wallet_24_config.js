@@ -1,1 +1,1 @@
-var mnemonic = "frequent perfect knock naive cinnamon tomorrow jaguar material fantasy vehicle decorate cat";
+var mnemonic = "inform owner cram zone seek eight term domain crack kit ramp pig";

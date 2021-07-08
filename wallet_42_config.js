@@ -1,1 +1,1 @@
-var mnemonic = "describe violin hazard width author garbage pen trade helmet exercise stamp leisure";
+var mnemonic = "pave apple foam health weekend inherit coast fire envelope pizza win element";

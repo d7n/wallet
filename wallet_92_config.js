@@ -1,1 +1,1 @@
-var mnemonic = "item extend armor wolf garden gloom slot warfare sun theme vacuum mix";
+var mnemonic = "choose fluid advice cargo defense bicycle permit spread mean web entire must";

@@ -1,1 +1,1 @@
-var mnemonic = "patient jealous pumpkin junk obscure path absorb stem artwork enforce carpet author";
+var mnemonic = "dwarf silly tool basic crowd quote recall purpose common depend brother shuffle";

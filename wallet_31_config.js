@@ -1,1 +1,1 @@
-var mnemonic = "badge furnace soda couch begin puzzle any square cinnamon wish resource write";
+var mnemonic = "vault own tenant copper enhance casino silver chicken modify loud busy lottery";

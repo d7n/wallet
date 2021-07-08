@@ -1,1 +1,1 @@
-var mnemonic = "walnut ramp practice unaware safe movie sudden entire fish space step muscle";
+var mnemonic = "flip magnet space hat corn resist client book carpet crystal ordinary library";

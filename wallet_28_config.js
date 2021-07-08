@@ -1,1 +1,1 @@
-var mnemonic = "knee melt cause sauce speak viable home manage ozone elder deer dad";
+var mnemonic = "virtual citizen alley mimic army exact notable finger mass ritual heavy bike";

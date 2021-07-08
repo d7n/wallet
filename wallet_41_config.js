@@ -1,1 +1,1 @@
-var mnemonic = "rubber bacon sun charge sleep spray unusual method confirm cute green render";
+var mnemonic = "demise bid staff fatal tray expose gas fatal among turn peanut subject";

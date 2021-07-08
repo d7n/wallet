@@ -1,1 +1,1 @@
-var mnemonic = "believe hollow dynamic fence way stadium maple balance during chalk alarm post";
+var mnemonic = "admit dream pear pause hospital morning thing flower duck render worth favorite";

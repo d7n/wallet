@@ -1,1 +1,1 @@
-var mnemonic = "side assault zebra dismiss outside steak sugar slight wagon dune night media";
+var mnemonic = "trash hospital alley kick cause card casual virtual require ethics fiber measure";

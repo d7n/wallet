@@ -1,1 +1,1 @@
-var mnemonic = "junior rigid filter conduct affair flash beef require forget banana aim network";
+var mnemonic = "spoon scrap vacuum rare rather empower local divert fresh wheel always couch";

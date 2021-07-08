@@ -1,1 +1,1 @@
-var mnemonic = "decade fragile wet razor brass pipe cigar eight cactus always decrease country";
+var mnemonic = "since wealth magic palace pulse scrap invest salt hip eternal magnet rare";

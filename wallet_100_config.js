@@ -1,1 +1,1 @@
-var mnemonic = "nuclear message adult amused apple green language humor venue cherry lift foster";
+var mnemonic = "party cup puppy announce step either output pink siege symptom solution tongue";

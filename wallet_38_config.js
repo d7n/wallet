@@ -1,1 +1,1 @@
-var mnemonic = "grit beef various avocado lumber enter cute cheap gorilla impulse air foam";
+var mnemonic = "miss all grunt brisk turkey glide hawk corn champion soul frog dress";

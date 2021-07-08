@@ -1,1 +1,1 @@
-var mnemonic = "inmate dirt awake grit oblige inch recall problem happy cash common urge";
+var mnemonic = "biology envelope muscle perfect scatter word resist future scrub prison piano course";

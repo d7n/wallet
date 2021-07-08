@@ -1,1 +1,1 @@
-var mnemonic = "deputy sadness forget lazy frequent man recycle sphere castle skull aisle volcano";
+var mnemonic = "large mixed ask nut feed ozone knife census path deer bundle team";

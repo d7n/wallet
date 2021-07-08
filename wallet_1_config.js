@@ -1,1 +1,1 @@
-var mnemonic = "false involve tired exit grab poet evil differ cupboard that certain bid";
+var mnemonic = "unable obscure human unhappy nuclear load dice trust economy friend limb timber";

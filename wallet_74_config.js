@@ -1,1 +1,1 @@
-var mnemonic = "man peasant hour police team they chef jar brand opinion normal card";
+var mnemonic = "spider normal increase expose bacon blanket exercise control clock estate genius fresh";

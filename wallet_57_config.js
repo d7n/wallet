@@ -1,1 +1,1 @@
-var mnemonic = "notice film diet smooth clutch ketchup salon depend fancy front tourist chicken";
+var mnemonic = "silver vintage rocket marble act trigger fly attack vendor key life blossom";

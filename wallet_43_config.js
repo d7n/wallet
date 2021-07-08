@@ -1,1 +1,1 @@
-var mnemonic = "blanket noise assist shrug share bubble also nation estate woman assault market";
+var mnemonic = "hurt flash swear income galaxy emerge divide wing error false pride fence";

@@ -1,1 +1,1 @@
-var mnemonic = "sting clerk place truck security help exercise concert beach gold cruise forget";
+var mnemonic = "right gate okay juice lonely rib rely toss review crouch vague away";

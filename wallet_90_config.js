@@ -1,1 +1,1 @@
-var mnemonic = "meat attract cotton stomach brown metal fan junk wing lobster acoustic custom";
+var mnemonic = "lunar profit frog caught judge company image profit shaft wolf reunion decline";

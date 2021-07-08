@@ -1,1 +1,1 @@
-var mnemonic = "unknown weapon select matrix boy harsh advance dolphin have desert direct oxygen";
+var mnemonic = "ask already pudding allow rib snake wealth hand story fog army sibling";

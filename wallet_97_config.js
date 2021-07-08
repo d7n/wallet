@@ -1,1 +1,1 @@
-var mnemonic = "alpha wild jealous frown riot combine virtual find aware enact cave gas";
+var mnemonic = "kidney breeze illegal canyon safe paper since vague spice soul basic insane";

@@ -1,1 +1,1 @@
-var mnemonic = "scout december noise wrap void eternal sure oven sudden robust radar festival";
+var mnemonic = "hole master goat media satoshi problem check trust series various hotel agree";

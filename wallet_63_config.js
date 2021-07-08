@@ -1,1 +1,1 @@
-var mnemonic = "thank cream utility goat sell taxi enlist affair hundred legend trim neither";
+var mnemonic = "law region aisle unique duck eye coyote wheel beauty index coconut blue";

@@ -1,1 +1,1 @@
-var mnemonic = "call slight involve defense make state lab fit engage cost arm double";
+var mnemonic = "morning spend shoulder remind reject split hybrid maid galaxy orange purse sustain";

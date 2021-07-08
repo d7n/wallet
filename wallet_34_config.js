@@ -1,1 +1,1 @@
-var mnemonic = "churn clump bracket same raven rough reason garlic improve lounge hair salon";
+var mnemonic = "armor cradle elephant child brown material glimpse fiscal repeat ahead student warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "nest filter ankle palm minute lawn lizard question bus easy view drip";
+var mnemonic = "cream romance pair kid comic inner initial beach indoor base hood waste";

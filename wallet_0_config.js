@@ -1,1 +1,1 @@
-var mnemonic = "conduct cement chase cement goat letter trigger aim nation ozone antenna fantasy";
+var mnemonic = "noise detail animal share volcano rich equal chunk soon front merry dress";

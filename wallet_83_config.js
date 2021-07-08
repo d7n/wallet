@@ -1,1 +1,1 @@
-var mnemonic = "account ask lock flat mix very shield drastic away fame slab left";
+var mnemonic = "trash process loan confirm fly stomach empty minute strategy pepper potato submit";

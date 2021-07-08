@@ -1,1 +1,1 @@
-var mnemonic = "bird glare bunker invest tortoise absent anger idle organ wash forward repair";
+var mnemonic = "grit retire obey energy north tourist pull gap step someone between since";

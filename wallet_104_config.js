@@ -1,1 +1,1 @@
-var mnemonic = "purpose session lesson census large wage jump across galaxy collect buddy betray";
+var mnemonic = "dad burden deliver increase priority more trust traffic crazy own crucial alter";
