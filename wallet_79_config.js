@@ -1,1 +1,1 @@
-var mnemonic = "toward spice thought corn eight pony helmet gun matrix top lottery sketch";
+var mnemonic = "apology symptom trend control harvest kiss time romance birth sure enroll cupboard";

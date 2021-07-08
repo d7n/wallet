@@ -1,1 +1,1 @@
-var mnemonic = "off devote sentence wine medal summer arctic man install luxury helmet quit";
+var mnemonic = "shrug private obvious vast stuff parent fix hungry dose elder erode void";

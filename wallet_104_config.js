@@ -1,1 +1,1 @@
-var mnemonic = "neglect notice walk rich bird luxury stand hood step typical answer robot";
+var mnemonic = "innocent mistake spider casual mutual leaf radar tissue license myself hold jar";

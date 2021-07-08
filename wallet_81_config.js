@@ -1,1 +1,1 @@
-var mnemonic = "picture laundry cruise document hover evolve sausage venue tooth ramp fantasy tired";
+var mnemonic = "prepare reform honey inmate switch chalk special pill section taxi panel flock";

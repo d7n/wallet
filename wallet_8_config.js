@@ -1,1 +1,1 @@
-var mnemonic = "awesome thing ceiling fresh athlete upgrade shy icon general gravity point tuition";
+var mnemonic = "purse rug cloud fashion another party burden solve length tone weapon useful";

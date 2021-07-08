@@ -1,1 +1,1 @@
-var mnemonic = "interest caution shoulder panic color tank estate estate welcome fantasy bar maid";
+var mnemonic = "best dove exit ahead green love course label fantasy copper ghost vintage";

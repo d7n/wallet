@@ -1,1 +1,1 @@
-var mnemonic = "grain jaguar when goose immune athlete future decorate plastic genre example miracle";
+var mnemonic = "talent turkey maid allow mind exclude weird praise hidden chief welcome alien";

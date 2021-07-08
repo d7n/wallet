@@ -1,1 +1,1 @@
-var mnemonic = "junior attend brave layer above bargain know suspect broccoli become clutch option";
+var mnemonic = "only world south lottery medal often aunt goat frequent coach shell silver";

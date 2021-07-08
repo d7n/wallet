@@ -1,1 +1,1 @@
-var mnemonic = "huge merry wish soldier awake rescue whisper crime squeeze once since father";
+var mnemonic = "inmate define still now reopen cattle essay fence exclude fuel poem fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "magic cause differ poverty velvet mass quiz forum lamp vintage pigeon dress";
+var mnemonic = "actress where armor federal devote silk account length return code across possible";

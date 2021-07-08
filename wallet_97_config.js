@@ -1,1 +1,1 @@
-var mnemonic = "section payment decline remind copy mouse such fiber burger simple vapor useful";
+var mnemonic = "dry network appear shy wagon omit chief divorce custom gate pole mad";

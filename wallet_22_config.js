@@ -1,1 +1,1 @@
-var mnemonic = "cash next success program marine grunt hover seven cube must travel super";
+var mnemonic = "surprise panther rather october impulse cup whisper screen can gospel property mobile";

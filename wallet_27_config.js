@@ -1,1 +1,1 @@
-var mnemonic = "ball pool bulk road large pond recycle small night occur slot kitchen";
+var mnemonic = "ice love immense parrot habit mercy paper foster plastic betray approve shuffle";

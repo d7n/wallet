@@ -1,1 +1,1 @@
-var mnemonic = "flower snake champion village regular slush skirt cram used check almost similar";
+var mnemonic = "jazz fame among dose fever patient apology kidney medal recall run dry";

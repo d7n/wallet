@@ -1,1 +1,1 @@
-var mnemonic = "want swift gadget creek attitude fun refuse flock post diet width slush";
+var mnemonic = "kitchen boring music spoon talk aspect profit stadium taxi head year arrange";

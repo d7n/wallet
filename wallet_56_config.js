@@ -1,1 +1,1 @@
-var mnemonic = "blush cable tip cost thumb vacuum spare grant various virus raccoon alpha";
+var mnemonic = "position current knock trend plate ridge noodle mask twenty season find slice";

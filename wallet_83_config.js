@@ -1,1 +1,1 @@
-var mnemonic = "clap antique safe wide merge across lunch ostrich typical man ketchup decorate";
+var mnemonic = "poverty helmet reunion plate play inherit market danger enjoy height ordinary spot";

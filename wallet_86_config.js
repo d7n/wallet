@@ -1,1 +1,1 @@
-var mnemonic = "cricket pill trust father elder volume hedgehog garage chuckle keep food wool";
+var mnemonic = "brush fine planet lady excite crash away maximum much forget sunset pyramid";

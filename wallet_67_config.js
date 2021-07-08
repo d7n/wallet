@@ -1,1 +1,1 @@
-var mnemonic = "name rib security liar latin east deer acquire stage eight region keen";
+var mnemonic = "viable decorate great aerobic quiz love guitar like fold sleep butter bitter";

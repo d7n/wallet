@@ -1,1 +1,1 @@
-var mnemonic = "trigger volume giraffe input people inmate little carpet extend goddess question innocent";
+var mnemonic = "typical steel middle annual wisdom business divert feed copy key sound draft";

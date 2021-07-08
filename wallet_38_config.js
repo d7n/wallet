@@ -1,1 +1,1 @@
-var mnemonic = "ranch outer stairs valid pilot stock cheese host atom month grid legal";
+var mnemonic = "matter shuffle giraffe gauge saddle little claw dune cloud athlete lend about";

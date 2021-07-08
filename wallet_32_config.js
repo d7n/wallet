@@ -1,1 +1,1 @@
-var mnemonic = "purchase twist engine vague measure annual glide filter topple common wife bracket";
+var mnemonic = "assist erase success verb armor give humble start bone area trigger pig";

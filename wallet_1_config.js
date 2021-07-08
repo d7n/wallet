@@ -1,1 +1,1 @@
-var mnemonic = "sport sauce become tone correct level despair mass tunnel material cheese donor";
+var mnemonic = "they diesel style drift cage under piece inflict legal fold gaze barrel";

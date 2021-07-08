@@ -1,1 +1,1 @@
-var mnemonic = "fringe identify royal feature roof blush crop agent story catalog evil arena";
+var mnemonic = "damp donkey impact axis bamboo century top company vacuum budget symbol pride";

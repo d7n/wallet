@@ -1,1 +1,1 @@
-var mnemonic = "fuel fee hover canyon steak immune stable chimney sport toss bone slab";
+var mnemonic = "boy frame mind ordinary volume weasel garden capable silent tip tag neither";

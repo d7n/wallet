@@ -1,1 +1,1 @@
-var mnemonic = "milk equal tube poem magnet virus assault forward odor happy holiday rough";
+var mnemonic = "expose blush tackle rude segment slush worth position snake never flag concert";

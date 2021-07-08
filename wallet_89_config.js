@@ -1,1 +1,1 @@
-var mnemonic = "tribe oval wood book recipe sponsor subject valley season egg art also";
+var mnemonic = "fresh object weasel mom diagram wise youth aunt expand cliff nasty dose";

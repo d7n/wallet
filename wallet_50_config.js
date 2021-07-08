@@ -1,1 +1,1 @@
-var mnemonic = "ivory equip shuffle scan raccoon pilot celery coyote twist public thought display";
+var mnemonic = "squirrel chase wide dress cake stadium shallow media like spatial fan valid";

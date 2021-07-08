@@ -1,1 +1,1 @@
-var mnemonic = "beef donkey situate mix ladder educate security eyebrow exile bag method found";
+var mnemonic = "anchor click afraid link come retire divide boat broccoli void ship federal";

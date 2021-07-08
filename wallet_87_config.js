@@ -1,1 +1,1 @@
-var mnemonic = "hawk resource pioneer option annual song upset injury round amused later glad";
+var mnemonic = "excess dash park diagram subway fun mix topple liquid volcano exchange afraid";

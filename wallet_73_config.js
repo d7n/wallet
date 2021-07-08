@@ -1,1 +1,1 @@
-var mnemonic = "render fossil stadium annual blind pet runway satoshi lyrics biology visual orchard";
+var mnemonic = "misery shy quick vendor proud expand install dove ginger ghost verb elegant";

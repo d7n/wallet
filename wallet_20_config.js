@@ -1,1 +1,1 @@
-var mnemonic = "front funny concert weasel produce pupil poem wing dream canyon inside combine";
+var mnemonic = "nature record rebuild holiday above two helmet object patrol bag barrel more";

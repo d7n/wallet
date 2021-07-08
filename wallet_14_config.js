@@ -1,1 +1,1 @@
-var mnemonic = "glide also regret list steel vibrant wall nuclear this luxury sketch edit";
+var mnemonic = "dune labor refuse minute pool junior useful enlist grace grow patient faint";

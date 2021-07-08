@@ -1,1 +1,1 @@
-var mnemonic = "onion critic wall glow harbor wine image survey trip copy fish ring";
+var mnemonic = "genuine design beach climb music base valid scrap floor seek asset school";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer cluster very buffalo treat ramp erase accident avocado solid armed field";
+var mnemonic = "twin wise predict liquid walnut onion puzzle flee often staff fog album";

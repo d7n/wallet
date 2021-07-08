@@ -1,1 +1,1 @@
-var mnemonic = "prize doll hurdle usage gym snake elder warm cube draft damp betray";
+var mnemonic = "extra total manage cannon dawn panther absurd laundry burger raise habit dawn";

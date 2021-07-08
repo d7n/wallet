@@ -1,1 +1,1 @@
-var mnemonic = "fire outside hill garbage orient fortune expand talent length entire eyebrow wedding";
+var mnemonic = "barely spot fix matter leaf into congress risk asset nothing hip small";

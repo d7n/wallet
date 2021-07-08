@@ -1,1 +1,1 @@
-var mnemonic = "typical fragile small income reason upon absorb soda edge stairs fat wasp";
+var mnemonic = "critic pottery legal pulse try valley forest parent core island law affair";

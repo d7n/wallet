@@ -1,1 +1,1 @@
-var mnemonic = "swing ostrich absorb tape glass bread slender rare banner virtual snow van";
+var mnemonic = "drum loud feed rubber normal device silk priority web between infant emotion";

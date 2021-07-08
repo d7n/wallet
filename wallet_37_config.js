@@ -1,1 +1,1 @@
-var mnemonic = "hello danger banner squeeze motion tooth churn render audit fog nose item";
+var mnemonic = "dice useless solution legal they zone pear piano warm wash thank rice";

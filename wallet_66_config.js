@@ -1,1 +1,1 @@
-var mnemonic = "fire install hub syrup popular spider divide suffer gold worth order solar";
+var mnemonic = "vague despair scorpion angle hotel lift side kick ankle recall believe kid";

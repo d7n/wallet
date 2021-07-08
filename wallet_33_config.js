@@ -1,1 +1,1 @@
-var mnemonic = "peanut father gossip couch ghost young enforce sudden leave issue glad never";
+var mnemonic = "hover kiss melody assume seek fiction endless sphere orbit drop slow afford";

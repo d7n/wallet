@@ -1,1 +1,1 @@
-var mnemonic = "buyer blanket valley potato ivory accident social tide slogan check alone core";
+var mnemonic = "destroy paper deal slice arctic monkey element inform february trap idea truly";

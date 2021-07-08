@@ -1,1 +1,1 @@
-var mnemonic = "skirt accuse two ramp embody entire tired pride rival panther taste apple";
+var mnemonic = "beyond invest fatal raise mushroom lens alley lucky height drip primary duty";

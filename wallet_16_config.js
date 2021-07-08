@@ -1,1 +1,1 @@
-var mnemonic = "umbrella awkward embark cloud save ordinary message goddess index blood arrange coyote";
+var mnemonic = "payment version tray annual diet drink velvet powder walnut village alarm tower";

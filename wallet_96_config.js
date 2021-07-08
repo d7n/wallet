@@ -1,1 +1,1 @@
-var mnemonic = "guard ball picture menu kangaroo absorb input birth never solid number walnut";
+var mnemonic = "noise survey away cram early order anxiety middle endorse barrel deposit force";

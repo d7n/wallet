@@ -1,1 +1,1 @@
-var mnemonic = "reduce legal until coast sustain beyond seek early worry solar merry ensure";
+var mnemonic = "ability economy often lawsuit brief chicken circle clarify invite inner trust decrease";

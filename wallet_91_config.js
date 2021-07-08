@@ -1,1 +1,1 @@
-var mnemonic = "group elevator page sell grunt merry degree indoor prefer upper decade puzzle";
+var mnemonic = "surround butter basket ball nerve spend cigar distance hip tail kind kite";

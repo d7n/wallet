@@ -1,1 +1,1 @@
-var mnemonic = "verify bid march craft apart coral world lonely napkin fitness elevator reject";
+var mnemonic = "chicken amount sentence discover vast obey useless lab print believe end depend";

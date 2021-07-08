@@ -1,1 +1,1 @@
-var mnemonic = "attract artist stamp quality convince visual torch skill number announce sustain sugar";
+var mnemonic = "record poem zero honey spoon over cute thunder year wool exchange unfair";

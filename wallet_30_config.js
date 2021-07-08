@@ -1,1 +1,1 @@
-var mnemonic = "damage ride depth desk protect prefer furnace glance zoo movie curtain puppy";
+var mnemonic = "shove airport know entry accuse candy dice swift practice above early thrive";

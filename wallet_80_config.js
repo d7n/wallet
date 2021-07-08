@@ -1,1 +1,1 @@
-var mnemonic = "snake unique paper camp cool cricket feature lawsuit accident idea iron sausage";
+var mnemonic = "dove know give inflict attract capital reason jaguar dream educate ostrich opinion";

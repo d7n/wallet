@@ -1,1 +1,1 @@
-var mnemonic = "bargain agree fix vivid trial visa garment song saddle seven spider attract";
+var mnemonic = "vanish prefer occur vote choice gate buyer range label aware mosquito afford";

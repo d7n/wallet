@@ -1,1 +1,1 @@
-var mnemonic = "gas still venture protect scrap october laugh expand load account siren pattern";
+var mnemonic = "crunch valid awkward junk steel advice hurry top tissue limit ride subject";

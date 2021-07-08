@@ -1,1 +1,1 @@
-var mnemonic = "cannon run surround suit dance annual vocal joy tool eternal silk glimpse";
+var mnemonic = "fault citizen kitten sample hundred put snake cloth buddy sight kidney turkey";

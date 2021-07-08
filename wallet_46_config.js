@@ -1,1 +1,1 @@
-var mnemonic = "menu soccer vessel tonight law place female hollow inflict cradle merit double";
+var mnemonic = "install tube burst machine bubble rate erupt weekend practice slender write second";

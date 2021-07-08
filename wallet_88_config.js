@@ -1,1 +1,1 @@
-var mnemonic = "figure coach spell twice ethics poem tobacco oak come timber tortoise middle";
+var mnemonic = "denial elevator two faculty cloud sugar divide team spend kitten aerobic chicken";

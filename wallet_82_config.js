@@ -1,1 +1,1 @@
-var mnemonic = "toilet subject elegant similar frown release wrap mercy gun idea differ angry";
+var mnemonic = "cluster mixed evolve prefer voyage praise loop material sleep burst loud dove";

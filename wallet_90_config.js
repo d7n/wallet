@@ -1,1 +1,1 @@
-var mnemonic = "expect easily boy dial keep menu erosion grass grocery chicken any wise";
+var mnemonic = "final slim reason squirrel present setup bracket promote unknown receive humor used";

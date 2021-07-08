@@ -1,1 +1,1 @@
-var mnemonic = "point catalog lion midnight lemon enrich assist twice burden robust tongue settle";
+var mnemonic = "detect bamboo celery describe reject age alarm ancient rebuild primary hollow erupt";

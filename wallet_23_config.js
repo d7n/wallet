@@ -1,1 +1,1 @@
-var mnemonic = "balance muscle chair differ ketchup host mother cereal glue useless person economy";
+var mnemonic = "amazing pull hurry hockey deer reduce parade fatal green verb erode neither";

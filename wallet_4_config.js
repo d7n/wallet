@@ -1,1 +1,1 @@
-var mnemonic = "laugh choose obey lab tenant unusual income transfer output maximum address portion";
+var mnemonic = "popular slab seek accuse issue weapon shine upset squeeze angle smooth host";

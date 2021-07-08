@@ -1,1 +1,1 @@
-var mnemonic = "leisure slab skull blind way file ticket object tower piano casual slight";
+var mnemonic = "height stable shoot tool owner wife ginger hurdle weather swim enjoy shuffle";

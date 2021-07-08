@@ -1,1 +1,1 @@
-var mnemonic = "insane eternal blame weekend sock olive notable toddler shine evil survey tree";
+var mnemonic = "remain strike veteran kidney ski pistol inch frost guard inch blanket travel";

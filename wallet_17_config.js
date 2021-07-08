@@ -1,1 +1,1 @@
-var mnemonic = "concert girl spy sing fantasy thing mail violin island dad admit mouse";
+var mnemonic = "audit margin faith essay sorry deal sustain aim ticket south route seek";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut roof audit ketchup beyond know describe tape cat second chimney act";
+var mnemonic = "license suffer write field cat sword legend burst distance verify funny thought";

@@ -1,1 +1,1 @@
-var mnemonic = "account add blame milk critic unveil suit spoon excuse rice expect worry";
+var mnemonic = "north quality orchard analyst kingdom pottery angle security column initial custom disease";

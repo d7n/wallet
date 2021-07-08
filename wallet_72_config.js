@@ -1,1 +1,1 @@
-var mnemonic = "churn deny distance doll document clutch flash train there this dwarf region";
+var mnemonic = "mean hire hundred hurdle announce envelope believe leopard coil magnet ocean net";

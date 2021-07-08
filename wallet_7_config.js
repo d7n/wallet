@@ -1,1 +1,1 @@
-var mnemonic = "acid owner duck banana mad celery add drama cruel regret bean swift";
+var mnemonic = "enter later impulse owner state loyal ski library invest duck cotton since";

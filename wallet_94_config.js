@@ -1,1 +1,1 @@
-var mnemonic = "essence cup junk coffee case guard hood because prize head jazz mountain";
+var mnemonic = "innocent breeze tank donor dove tell second dish spatial wrestle catch obey";

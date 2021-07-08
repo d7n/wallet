@@ -1,1 +1,1 @@
-var mnemonic = "panther agree collect about kitten dawn tourist artwork author stock sport cat";
+var mnemonic = "hard nurse creek morning lunar trade game syrup comic detail sure hamster";

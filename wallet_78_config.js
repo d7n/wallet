@@ -1,1 +1,1 @@
-var mnemonic = "surge fiction debate arrive empty match wet spike stuff tail stomach visual";
+var mnemonic = "win fee robot uphold gravity just debris double derive rescue brave text";

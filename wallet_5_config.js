@@ -1,1 +1,1 @@
-var mnemonic = "dove crime calm garbage question palace hover iron kiwi boost raven main";
+var mnemonic = "twice benefit neutral filter neck brush canal cram public media pair gate";

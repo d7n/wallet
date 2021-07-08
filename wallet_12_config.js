@@ -1,1 +1,1 @@
-var mnemonic = "poet hidden outdoor target craft sun return clever pulp claw industry public";
+var mnemonic = "walk helmet rescue drift stove physical index element accident ensure acid mention";

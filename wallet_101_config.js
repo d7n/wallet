@@ -1,1 +1,1 @@
-var mnemonic = "green aware news matter hurry easy produce tunnel ask afraid spread name";
+var mnemonic = "grab awful void dignity cart gold state never benefit neck twenty sound";

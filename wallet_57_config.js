@@ -1,1 +1,1 @@
-var mnemonic = "favorite lock upgrade ranch test search wing trophy balcony laptop balance train";
+var mnemonic = "dose asthma execute tobacco fiction remember sudden evolve owner luxury tortoise symptom";

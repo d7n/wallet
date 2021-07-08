@@ -1,1 +1,1 @@
-var mnemonic = "write powder digital define couch rotate patrol youth flame wife banner property";
+var mnemonic = "dynamic burger wild habit robust amused network cinnamon shock casual ask apart";

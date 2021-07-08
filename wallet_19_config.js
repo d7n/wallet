@@ -1,1 +1,1 @@
-var mnemonic = "apple canvas across possible inject fox disease birth luxury evidence load hundred";
+var mnemonic = "melt nice wise shed wear cook rhythm damp enforce layer cruise album";

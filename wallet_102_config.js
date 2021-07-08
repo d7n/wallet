@@ -1,1 +1,1 @@
-var mnemonic = "picture tower auto stable canyon innocent pole horn reject upgrade harsh noble";
+var mnemonic = "excess come spoil fade risk laptop airport opera ostrich you frequent useless";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito flag tray risk range ill arrow embrace picture hybrid level diet";
+var mnemonic = "fuel repeat raccoon heart cattle solid enforce improve salon picnic youth thunder";

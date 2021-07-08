@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit fence will turtle index enable expect surprise stadium skate goose input";
+var mnemonic = "fiscal parrot kangaroo improve bring burst observe virtual obey struggle agent three";

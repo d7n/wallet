@@ -1,1 +1,1 @@
-var mnemonic = "casino truck fabric leopard twice salmon hurdle setup cage upset clog shy";
+var mnemonic = "boil into burden bronze found sight uphold gown baby effort champion sauce";

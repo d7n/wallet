@@ -1,1 +1,1 @@
-var mnemonic = "twelve quiz camera rural word velvet flush grant mammal glare immense dad";
+var mnemonic = "pyramid deer nature hen life employ benefit improve office search tongue domain";

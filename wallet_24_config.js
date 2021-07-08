@@ -1,1 +1,1 @@
-var mnemonic = "stairs couch insane siren polar baby river awake steak twenty faculty boat";
+var mnemonic = "velvet response olympic donate skate recall vital grow surround winter total renew";

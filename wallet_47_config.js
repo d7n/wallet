@@ -1,1 +1,1 @@
-var mnemonic = "luxury middle summer motion crisp alien casual permit similar glass butter deposit";
+var mnemonic = "custom noble school metal void toddler eyebrow rural will choose sample urge";
