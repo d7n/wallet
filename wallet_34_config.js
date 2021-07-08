@@ -1,1 +1,1 @@
-var mnemonic = "decrease balcony bid gain brisk neutral state depend write kangaroo law scissors";
+var mnemonic = "keen sadness torch note pair collect hood notice reopen wing festival perfect";

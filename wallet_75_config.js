@@ -1,1 +1,1 @@
-var mnemonic = "movie cheese impulse galaxy burst switch hole summer kiwi congress people zebra";
+var mnemonic = "spare slam then slogan rather spray dust price music real consider night";

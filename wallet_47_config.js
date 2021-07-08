@@ -1,1 +1,1 @@
-var mnemonic = "chef sport bundle lemon wisdom thing silver receive nut trumpet below genre";
+var mnemonic = "black gadget forest warfare circle direct coach isolate lunar devote neck cheese";

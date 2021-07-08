@@ -1,1 +1,1 @@
-var mnemonic = "noodle gas breeze mammal staff erode organ thunder predict economy illness false";
+var mnemonic = "beauty glue excuse bless throw crack infant correct fit relax sphere stadium";

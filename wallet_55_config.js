@@ -1,1 +1,1 @@
-var mnemonic = "merge much trigger boat bubble hurry artwork reduce beyond visa useful toddler";
+var mnemonic = "neither sketch detect matrix cheese adapt slim citizen luxury lemon initial calm";

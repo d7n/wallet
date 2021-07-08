@@ -1,1 +1,1 @@
-var mnemonic = "share owner design change ecology antique cargo loop general sing diagram join";
+var mnemonic = "seed burst broom hungry noble faith replace dose web income minimum demand";

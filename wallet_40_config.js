@@ -1,1 +1,1 @@
-var mnemonic = "gospel glue pulp leaf emotion flame sentence marble zoo advance demand price";
+var mnemonic = "visit excite scatter velvet proud domain surface priority vault crew rack faint";

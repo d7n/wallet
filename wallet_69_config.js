@@ -1,1 +1,1 @@
-var mnemonic = "enroll pond ahead main control enforce laugh use alone tide prison cruel";
+var mnemonic = "relief crazy grab orange usual glove bachelor upset escape shoulder tumble minimum";

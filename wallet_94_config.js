@@ -1,1 +1,1 @@
-var mnemonic = "immune metal blind gossip verify exotic yard heart sheriff water stamp argue";
+var mnemonic = "balance catch carry element glow output diagram often what sea alien remember";

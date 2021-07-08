@@ -1,1 +1,1 @@
-var mnemonic = "senior scheme excite observe immune act frame ride myself choice ethics title";
+var mnemonic = "kitchen improve lecture produce two veteran brief hello gadget shrug device term";

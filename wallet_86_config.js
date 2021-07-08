@@ -1,1 +1,1 @@
-var mnemonic = "damp student jeans mother lock feel shiver hip trim car rubber obey";
+var mnemonic = "mention armor rent security average thrive false expect album album dad shine";

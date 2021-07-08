@@ -1,1 +1,1 @@
-var mnemonic = "invite glow main unfold stairs record squirrel veteran where front minimum figure";
+var mnemonic = "just train trial timber process nose toy notable trophy vintage ignore number";

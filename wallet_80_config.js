@@ -1,1 +1,1 @@
-var mnemonic = "acoustic solar chef derive laptop blanket lucky myself atom ghost reflect emerge";
+var mnemonic = "flat task mansion tuna jazz plastic until update crack very surface brown";

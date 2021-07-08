@@ -1,1 +1,1 @@
-var mnemonic = "plug sketch whip bleak solar gorilla cake unhappy dragon gloom fatal uphold";
+var mnemonic = "congress produce genius hawk chicken hidden message evoke link patrol old waste";

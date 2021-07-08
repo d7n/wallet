@@ -1,1 +1,1 @@
-var mnemonic = "copy envelope few devote pen combine ripple side spoon wrap pool toddler";
+var mnemonic = "again weird visa nest unveil ketchup enhance fan expire matter deer happy";

@@ -1,1 +1,1 @@
-var mnemonic = "sand erosion trip ability benefit canal slender image fault media ridge consider";
+var mnemonic = "taxi lobster obvious floor science wisdom language mother car warrior load silver";

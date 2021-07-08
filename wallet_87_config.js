@@ -1,1 +1,1 @@
-var mnemonic = "tag flame produce bunker fence october large swear load reveal metal cupboard";
+var mnemonic = "abandon decline image alone essay nation medal oxygen denial quality caught toss";

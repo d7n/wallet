@@ -1,1 +1,1 @@
-var mnemonic = "giraffe exhibit giraffe ramp nominee more net mask since tail wild casual";
+var mnemonic = "similar people shop word problem ivory balance dove radar great biology spatial";

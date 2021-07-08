@@ -1,1 +1,1 @@
-var mnemonic = "seek stuff swift tennis genre envelope ozone accuse risk slush enough ring";
+var mnemonic = "speak pistol glory copper steak matrix kite fiscal wage saddle wire chair";

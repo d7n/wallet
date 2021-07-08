@@ -1,1 +1,1 @@
-var mnemonic = "gravity kit music before response nothing burger toddler design around jaguar scrap";
+var mnemonic = "ripple siren cruise deputy grape crime decade vast shiver length much enrich";

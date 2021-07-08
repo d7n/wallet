@@ -1,1 +1,1 @@
-var mnemonic = "verify buyer tackle fitness best will aware floor tragic design galaxy teach";
+var mnemonic = "return ranch bird forest crush shoe fiction apple jaguar coil approve churn";

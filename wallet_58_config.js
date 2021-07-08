@@ -1,1 +1,1 @@
-var mnemonic = "mimic senior armed ensure april demand amount under treat vanish luxury can";
+var mnemonic = "captain poet useful require curious evil high what knife cave control worth";

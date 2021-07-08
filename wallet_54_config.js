@@ -1,1 +1,1 @@
-var mnemonic = "venture road rack salad fly route tattoo all raw gift grit narrow";
+var mnemonic = "such use radio entry label banner until mistake float guard hammer increase";

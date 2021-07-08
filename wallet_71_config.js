@@ -1,1 +1,1 @@
-var mnemonic = "erosion adjust correct into sunny shoot rough near crucial save taxi board";
+var mnemonic = "whip dutch business glory friend smoke delay near blouse trumpet wagon cruel";

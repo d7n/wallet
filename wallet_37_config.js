@@ -1,1 +1,1 @@
-var mnemonic = "entry guilt whale bounce soon invest over million scrap poverty path castle";
+var mnemonic = "mom trumpet drum misery august silent rug nuclear token voice help fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "bag grow detail display plunge deal soccer upset survey suspect purchase bitter";
+var mnemonic = "mercy calm ridge gaze climb option fortune crop mouse topple entry arrest";

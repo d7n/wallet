@@ -1,1 +1,1 @@
-var mnemonic = "excuse balcony burger company lemon short buyer once nice tail modify mention";
+var mnemonic = "miss food frame thank dirt curious ring mimic kind slight joy ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol symptom avocado announce embark little car nest person develop fitness proud";
+var mnemonic = "pave tide biology crawl salmon divert sunset grant diamond melody fortune broken";

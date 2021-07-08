@@ -1,1 +1,1 @@
-var mnemonic = "visual dolphin fame asset cheese spoon solid student barely assist gun enact";
+var mnemonic = "wheel wide away flame gate switch typical festival mammal disagree unfair cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "replace fitness federal crane topple shiver beach beyond anchor near spy annual";
+var mnemonic = "nerve keep man animal acoustic will flavor rabbit denial enrich asthma afford";

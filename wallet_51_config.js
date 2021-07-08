@@ -1,1 +1,1 @@
-var mnemonic = "actress supply eight naive sure regret amazing promote minor wash success foam";
+var mnemonic = "walk right brown defense castle album debris loop rebuild pledge educate clown";

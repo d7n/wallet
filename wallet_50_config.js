@@ -1,1 +1,1 @@
-var mnemonic = "region obey toe harsh improve usual saddle robot matrix reward endless margin";
+var mnemonic = "odor knock open dawn copper ball accuse excuse sponsor taxi away lake";

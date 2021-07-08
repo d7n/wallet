@@ -1,1 +1,1 @@
-var mnemonic = "onion address entry hedgehog manual cousin goat best quit asthma range damp";
+var mnemonic = "luggage scout view tool business outdoor sell help chapter search age section";

@@ -1,1 +1,1 @@
-var mnemonic = "warm roast stadium kingdom solar cabbage infant rapid brave twice render solid";
+var mnemonic = "pigeon blind toss vault often absorb whip income amazing cluster velvet foil";

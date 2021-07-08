@@ -1,1 +1,1 @@
-var mnemonic = "wage liberty logic change home disagree life state success else regular choose";
+var mnemonic = "excuse tennis crouch tunnel hour system run museum useful empty object false";

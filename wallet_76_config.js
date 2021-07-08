@@ -1,1 +1,1 @@
-var mnemonic = "drum sing double own drift chimney old rebel strategy zoo quality case";
+var mnemonic = "display vacant onion viable proof basket puzzle weird scissors velvet where goose";

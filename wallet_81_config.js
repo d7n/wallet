@@ -1,1 +1,1 @@
-var mnemonic = "insect now visual good canoe together escape swamp auto siege south identify";
+var mnemonic = "trouble april cube neck volcano provide unique virtual shift pond paddle mountain";

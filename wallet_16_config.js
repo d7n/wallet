@@ -1,1 +1,1 @@
-var mnemonic = "much pond half quality copper dad clog reason sauce crunch toward velvet";
+var mnemonic = "spoil flight cover dose merry unhappy exhibit start punch sheriff behave fiscal";

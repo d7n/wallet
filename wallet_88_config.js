@@ -1,1 +1,1 @@
-var mnemonic = "barrel toy pizza dinner cycle birth mad soft erupt victory retreat desert";
+var mnemonic = "maze rally rare describe liberty team ladder between solve upon practice please";

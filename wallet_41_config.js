@@ -1,1 +1,1 @@
-var mnemonic = "domain quote drop elegant degree fade spike execute quarter bulk ladder wish";
+var mnemonic = "shed robust ship unveil educate obscure glory have wagon upset lock fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "brown daughter health minimum arctic riot topic tone another unaware artwork fossil";
+var mnemonic = "round dwarf lumber liberty purse daring opinion maximum estate whisper float toy";

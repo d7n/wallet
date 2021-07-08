@@ -1,1 +1,1 @@
-var mnemonic = "hole flee this still system burden attract gadget ridge scout clean motion";
+var mnemonic = "asthma garden jewel local during hero front banner leg divert eagle upon";

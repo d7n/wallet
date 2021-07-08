@@ -1,1 +1,1 @@
-var mnemonic = "vibrant please culture beauty ancient toe like voice setup shoulder pull aware";
+var mnemonic = "sketch battle waste account kidney mistake come alpha august brand wasp evil";

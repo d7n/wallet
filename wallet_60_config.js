@@ -1,1 +1,1 @@
-var mnemonic = "scheme that endorse spider series blossom danger hover become wear laptop boat";
+var mnemonic = "spy rib mimic forward orbit cradle ostrich view wear jaguar tent world";

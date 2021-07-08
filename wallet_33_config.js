@@ -1,1 +1,1 @@
-var mnemonic = "method pulp venture later chunk fiber inhale minimum light better dish limb";
+var mnemonic = "crush detail pave globe top crazy banana kangaroo kind convince odor syrup";

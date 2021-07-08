@@ -1,1 +1,1 @@
-var mnemonic = "cool venue tooth rigid job large enable paper kitchen angle equip canoe";
+var mnemonic = "receive filter forum wheat glass category unfair glare pitch stay garden steel";

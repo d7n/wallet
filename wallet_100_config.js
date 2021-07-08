@@ -1,1 +1,1 @@
-var mnemonic = "drill hawk dress blood cupboard reunion myself term hire twin valley assist";
+var mnemonic = "quarter hard smart home tenant range farm toilet vanish universe claw hunt";

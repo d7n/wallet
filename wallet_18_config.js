@@ -1,1 +1,1 @@
-var mnemonic = "myth focus grape now merit still jar vintage depth setup glimpse swallow";
+var mnemonic = "glad rug afraid gloom link install bunker fine draw symbol prize vital";

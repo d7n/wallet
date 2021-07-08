@@ -1,1 +1,1 @@
-var mnemonic = "bamboo unable slender seed acid empty mind cannon inquiry output neither review";
+var mnemonic = "pool scrub letter antique flock impact ladder tourist trophy furnace arch enroll";

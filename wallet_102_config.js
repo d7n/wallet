@@ -1,1 +1,1 @@
-var mnemonic = "practice fatigue shop radio romance sustain jelly gossip receive clown metal profit";
+var mnemonic = "attend intact rail enjoy provide assume leaf fit agree original ecology argue";

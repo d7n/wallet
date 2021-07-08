@@ -1,1 +1,1 @@
-var mnemonic = "erosion section mirror screen satisfy suffer snap script leisure detail squirrel page";
+var mnemonic = "rude traffic oval brick trumpet proof maze gentle cause comfort dismiss orbit";

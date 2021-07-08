@@ -1,1 +1,1 @@
-var mnemonic = "echo finish embark earn sense round pull swarm try domain duck cherry";
+var mnemonic = "exercise destroy color shoe brass abandon ability canal uphold table keen legend";

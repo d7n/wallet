@@ -1,1 +1,1 @@
-var mnemonic = "latin taxi wait wrestle can royal dune neutral hospital grab hold dumb";
+var mnemonic = "midnight ramp flash supreme machine stool above sorry return coast force minute";

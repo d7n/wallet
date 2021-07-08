@@ -1,1 +1,1 @@
-var mnemonic = "twice curve mouse artwork stairs drill wait trial place ugly aspect evoke";
+var mnemonic = "cluster clerk filter danger someone begin picture uncover title witness fresh long";

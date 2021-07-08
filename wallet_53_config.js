@@ -1,1 +1,1 @@
-var mnemonic = "biology rice anxiety glow audit all acoustic lady pulse verb exist grain";
+var mnemonic = "roof olympic cabbage tool rent harsh tide used party tortoise cream bullet";

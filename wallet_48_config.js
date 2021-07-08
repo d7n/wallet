@@ -1,1 +1,1 @@
-var mnemonic = "error color horse arrow dizzy fitness wrap another town cruel help erupt";
+var mnemonic = "fabric lamp impulse control negative arch purse surprise opinion dignity return van";

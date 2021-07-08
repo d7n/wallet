@@ -1,1 +1,1 @@
-var mnemonic = "coil weather canoe write aunt picnic iron flat little heavy outdoor history";
+var mnemonic = "category refuse tiger grass walk response ask acquire lizard upset believe panda";

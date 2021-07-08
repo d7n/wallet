@@ -1,1 +1,1 @@
-var mnemonic = "ring page heart acid solution hard olympic rifle foil mesh hollow protect";
+var mnemonic = "loud rose boring age effort copper unhappy collect fitness fog dice zebra";

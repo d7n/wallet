@@ -1,1 +1,1 @@
-var mnemonic = "voice cruise cart news enemy clap purchase nice sausage gentle humor broken";
+var mnemonic = "tuna eyebrow deliver boring input bind gain taxi dizzy patch buddy arctic";

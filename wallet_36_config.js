@@ -1,1 +1,1 @@
-var mnemonic = "world joke grit practice chuckle drop pottery unfair chalk dynamic mom detail";
+var mnemonic = "decade angle maximum winter warrior expire total mix clap order same attend";

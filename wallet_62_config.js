@@ -1,1 +1,1 @@
-var mnemonic = "prison ask used trip genuine burst innocent foot relief decline brave exist";
+var mnemonic = "board evoke trash home olympic target dentist bridge casino trash tribe fault";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror leaf field either insane attitude slot romance weekend liar prison equip";
+var mnemonic = "beef film grass ghost job fame moral subway mask slow woman maze";

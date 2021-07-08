@@ -1,1 +1,1 @@
-var mnemonic = "total travel host reduce limb estate inject copy huge moral alone corn";
+var mnemonic = "charge silly random jar notable obtain song ordinary rough cake rebuild device";

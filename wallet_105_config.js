@@ -1,1 +1,1 @@
-var mnemonic = "multiply spare chaos snap destroy gate head apart proof deal turtle myth";
+var mnemonic = "fade old sustain fashion flavor hazard strategy tray prison love pyramid august";

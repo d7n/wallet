@@ -1,1 +1,1 @@
-var mnemonic = "trash always section deer tribe purpose drama prize diary seat motion immune";
+var mnemonic = "glad rice agree banner swallow chicken myself solid clay upper gap adjust";

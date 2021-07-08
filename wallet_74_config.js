@@ -1,1 +1,1 @@
-var mnemonic = "dragon crucial ensure reunion seven potato area eight text cup gadget spoon";
+var mnemonic = "dream media lake stove romance debate also fee favorite garment behind finger";

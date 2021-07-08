@@ -1,1 +1,1 @@
-var mnemonic = "exit tumble ice unlock zone benefit absurd surprise insect trouble property round";
+var mnemonic = "few wool nominee near mobile win tennis obscure buddy moon arena naive";

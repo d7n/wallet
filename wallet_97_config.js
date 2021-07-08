@@ -1,1 +1,1 @@
-var mnemonic = "hold stand tiny group sing joy ripple silk nasty letter sadness cement";
+var mnemonic = "law poet net pudding insane axis term client pupil custom practice media";

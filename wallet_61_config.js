@@ -1,1 +1,1 @@
-var mnemonic = "galaxy mention blossom inflict habit angry road jealous quantum country spray polar";
+var mnemonic = "brave muscle thought vote cluster room parrot gesture crush casual gloom ancient";

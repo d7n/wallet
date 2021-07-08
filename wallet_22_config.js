@@ -1,1 +1,1 @@
-var mnemonic = "dune captain disorder egg card supply next mistake congress mixture file battle";
+var mnemonic = "match wealth venue exile cousin canyon damp ability phone coral penalty extra";

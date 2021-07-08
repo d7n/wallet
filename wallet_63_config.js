@@ -1,1 +1,1 @@
-var mnemonic = "custom dutch weather oppose mimic gown vault enact excuse crush hospital penalty";
+var mnemonic = "bulk cover purity shy lab dolphin tortoise dwarf skin dance recipe panic";

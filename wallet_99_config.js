@@ -1,1 +1,1 @@
-var mnemonic = "afford amateur thunder hockey uncover area upper dial vital switch horse turkey";
+var mnemonic = "history maid couch pig lucky income zero youth midnight shoulder half relief";

@@ -1,1 +1,1 @@
-var mnemonic = "nut device pair inspire such loyal craft hospital leader aisle own fresh";
+var mnemonic = "panda afraid abuse clinic convince version fitness language mistake message abstract clap";

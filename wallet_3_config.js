@@ -1,1 +1,1 @@
-var mnemonic = "private mushroom bargain stand insect stove list razor transfer excuse step bubble";
+var mnemonic = "beef another excite offer casual tenant host soccer page column ceiling above";

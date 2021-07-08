@@ -1,1 +1,1 @@
-var mnemonic = "work umbrella path floor body cherry bargain advice pen one proof play";
+var mnemonic = "post catch lizard tissue blur demand about adapt timber auto furnace rally";

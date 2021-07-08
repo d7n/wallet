@@ -1,1 +1,1 @@
-var mnemonic = "unaware squeeze sponsor host lamp drift wool crunch check lift brisk disease";
+var mnemonic = "must bubble math tennis sort truth pride walnut hood thrive spell maze";

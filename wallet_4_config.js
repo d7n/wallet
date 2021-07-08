@@ -1,1 +1,1 @@
-var mnemonic = "exist arch pen human rough forward flower lesson float intact doll display";
+var mnemonic = "layer wrap appear sight load forget legal energy live road vital minute";

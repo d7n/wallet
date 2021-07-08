@@ -1,1 +1,1 @@
-var mnemonic = "debris believe essence rug shove warfare license essay judge regret staff critic";
+var mnemonic = "fruit hair issue route learn famous apology convince auto faint keep drift";

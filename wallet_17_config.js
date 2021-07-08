@@ -1,1 +1,1 @@
-var mnemonic = "benefit trophy peanut joke exclude citizen affair boss bullet insect coil conduct";
+var mnemonic = "thing coin tortoise photo know pumpkin filter panther equip almost like town";

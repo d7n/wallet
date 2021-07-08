@@ -1,1 +1,1 @@
-var mnemonic = "castle ribbon steel tortoise bag blouse entry budget tuna have sight gym";
+var mnemonic = "lion twist consider decrease tray balcony impact attack decline horse thumb wrong";

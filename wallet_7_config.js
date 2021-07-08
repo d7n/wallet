@@ -1,1 +1,1 @@
-var mnemonic = "glue tree poet token faint first silent inspire hand lift refuse material";
+var mnemonic = "hazard refuse tongue diagram legal grunt sad evil move village try ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "intact inform truth pretty april casual cruel magnet sun long submit trash";
+var mnemonic = "trust rich attend crowd couple method birth inherit insect night immense blind";

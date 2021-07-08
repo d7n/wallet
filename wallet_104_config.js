@@ -1,1 +1,1 @@
-var mnemonic = "pledge ordinary fortune aware gadget junior champion panic opinion discover pencil enhance";
+var mnemonic = "change donor news topple glimpse cement tuition because maximum very dawn word";

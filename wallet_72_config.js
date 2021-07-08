@@ -1,1 +1,1 @@
-var mnemonic = "denial lounge baby motion heart panel mule sustain sunset walk average man";
+var mnemonic = "month glass solution inspire dolphin market brisk impact virus goddess bundle shove";

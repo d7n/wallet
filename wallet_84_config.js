@@ -1,1 +1,1 @@
-var mnemonic = "copy close rate ribbon truck item exit food exact magnet busy movie";
+var mnemonic = "help canvas dwarf sister seat sheriff satisfy review hip horn aware scout";

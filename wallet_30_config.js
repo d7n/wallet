@@ -1,1 +1,1 @@
-var mnemonic = "ketchup card window thunder mirror armor medal input peanut seed scout blame";
+var mnemonic = "sand upper coin clock snap rough viable ranch hub range fiscal more";
