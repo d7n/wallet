@@ -1,1 +1,1 @@
-var mnemonic = "ensure marine scissors dwarf gold path glad purity lion patch paper lecture";
+var mnemonic = "motor cricket seek salute chuckle control achieve load female solid mechanic couple";

@@ -1,1 +1,1 @@
-var mnemonic = "check collect pulse shiver garden bounce dream reflect fire sad crucial close";
+var mnemonic = "tell north pumpkin bamboo naive cart before audit second shrug sister divert";

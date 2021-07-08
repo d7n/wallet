@@ -1,1 +1,1 @@
-var mnemonic = "direct essence coyote party beauty pluck paper blade onion embody oven snake";
+var mnemonic = "danger direct trash orange session toe never adult engage sense slide cage";

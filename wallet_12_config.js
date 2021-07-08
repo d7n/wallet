@@ -1,1 +1,1 @@
-var mnemonic = "dose smile poem essence crowd truth review motion banner situate certain use";
+var mnemonic = "alley wire solar fluid kite betray light erosion upgrade force proof venue";

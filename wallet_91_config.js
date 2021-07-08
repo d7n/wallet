@@ -1,1 +1,1 @@
-var mnemonic = "valve head parent victory move simple spatial craft bone drive call tip";
+var mnemonic = "light museum vintage october crew pitch canoe chronic immense name bench evoke";

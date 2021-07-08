@@ -1,1 +1,1 @@
-var mnemonic = "verb solution student hold slight wine paddle conduct cable marine random stuff";
+var mnemonic = "spider second trick vote other diesel dynamic oyster blouse shallow tube coil";

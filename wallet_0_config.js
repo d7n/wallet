@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur credit gas use divert pistol flower bamboo carry shed tackle art";
+var mnemonic = "wrist else busy pupil exhibit essence lamp cigar tobacco order always opera";

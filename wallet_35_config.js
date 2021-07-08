@@ -1,1 +1,1 @@
-var mnemonic = "oil put rice matrix science recipe napkin remind aware simple hurt word";
+var mnemonic = "rare flight later glance august exist broom ivory apart oyster yellow good";

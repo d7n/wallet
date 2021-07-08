@@ -1,1 +1,1 @@
-var mnemonic = "together relief various elder embark subway veteran divide neck gentle begin spot";
+var mnemonic = "pepper feature animal canoe gentle deliver inflict beef ensure border strategy bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff energy soft flee sun time joy leisure horn jungle glide banana";
+var mnemonic = "rescue manual unlock balcony defense capital chuckle cause slogan donate build poverty";

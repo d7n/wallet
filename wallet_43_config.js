@@ -1,1 +1,1 @@
-var mnemonic = "time frost inhale diary wall riot because essay bridge grit slice typical";
+var mnemonic = "suggest elbow pen kite this jelly trade drop nation motion swallow human";

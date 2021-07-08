@@ -1,1 +1,1 @@
-var mnemonic = "immune equip surround prepare crush radio anchor outer liar average vault husband";
+var mnemonic = "error lumber match under tortoise practice deputy account flag lift defy today";

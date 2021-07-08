@@ -1,1 +1,1 @@
-var mnemonic = "source family insane response shadow fun report hammer secret drama sure menu";
+var mnemonic = "gentle squirrel churn envelope better summer scout later pair can pledge fitness";

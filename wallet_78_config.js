@@ -1,1 +1,1 @@
-var mnemonic = "sea wolf twin gospel theory effort cricket chat safe burst panther dose";
+var mnemonic = "unlock exile cruel soda range mail dawn slam emerge drink road border";

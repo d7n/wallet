@@ -1,1 +1,1 @@
-var mnemonic = "maple puppy twin donate ski weather shed warm layer genuine update hello";
+var mnemonic = "code fold treat powder demise panic addict benefit wave siren tornado high";

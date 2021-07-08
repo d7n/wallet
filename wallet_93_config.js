@@ -1,1 +1,1 @@
-var mnemonic = "goose favorite donate lecture capital jealous saddle any ranch spice found mosquito";
+var mnemonic = "fatigue obtain priority embark symbol message foam bronze holiday ranch shell below";

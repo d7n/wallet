@@ -1,1 +1,1 @@
-var mnemonic = "shift true over toddler private sea nice fever mix crew snow sister";
+var mnemonic = "extra link arm hazard current aspect kingdom daring hidden warm dutch fragile";

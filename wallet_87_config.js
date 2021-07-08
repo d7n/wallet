@@ -1,1 +1,1 @@
-var mnemonic = "reopen pear drink want rent great caution canvas zero mesh science spot";
+var mnemonic = "shell myself track blur quick clerk dust imitate car push guess deny";

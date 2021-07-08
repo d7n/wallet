@@ -1,1 +1,1 @@
-var mnemonic = "three error dial coach always absorb ability quarter race fan fashion butter";
+var mnemonic = "grow pair travel select essay gym shine flee garlic orange occur wagon";

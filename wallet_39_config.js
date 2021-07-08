@@ -1,1 +1,1 @@
-var mnemonic = "scare truck patrol kangaroo uncle obey canal menu bird mail humble popular";
+var mnemonic = "action lecture coil enough smile episode caught tiny transfer evolve must that";

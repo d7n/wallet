@@ -1,1 +1,1 @@
-var mnemonic = "floor aspect panic noise rookie option employ brush defy normal option kit";
+var mnemonic = "legend trial vicious cram announce cigar knife rare plunge domain acoustic together";

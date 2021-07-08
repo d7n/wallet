@@ -1,1 +1,1 @@
-var mnemonic = "shrug trouble chase impulse comfort wood refuse harbor wage lazy volcano room";
+var mnemonic = "roof coffee tooth tray bus rebel notice exit alpha scissors great always";

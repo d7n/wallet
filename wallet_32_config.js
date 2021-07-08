@@ -1,1 +1,1 @@
-var mnemonic = "subway state loop giant praise twenty grant silk increase sadness enter depart";
+var mnemonic = "degree melt fly erode current boat resist dress plunge absurd copper peace";

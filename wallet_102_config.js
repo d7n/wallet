@@ -1,1 +1,1 @@
-var mnemonic = "yard hurry alarm thank retire seat imitate noise embody night witness radar";
+var mnemonic = "fork urban coyote prefer observe skill room border next pupil divide festival";

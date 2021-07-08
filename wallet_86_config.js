@@ -1,1 +1,1 @@
-var mnemonic = "film blast struggle bridge possible distance endless expect erosion tuna basket sketch";
+var mnemonic = "assume save vacuum custom fit globe pretty olive filter high swing potato";

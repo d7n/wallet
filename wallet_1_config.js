@@ -1,1 +1,1 @@
-var mnemonic = "essay arrange like glad grab powder steak robot endorse door eternal lemon";
+var mnemonic = "learn minute wrong pole citizen gap stable rally concert abuse finish ordinary";

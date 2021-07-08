@@ -1,1 +1,1 @@
-var mnemonic = "napkin wisdom project okay travel museum congress engine shy ribbon prevent image";
+var mnemonic = "action sheriff key hotel worth custom want aware liar system board unlock";

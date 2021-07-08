@@ -1,1 +1,1 @@
-var mnemonic = "acquire border organ swap element crack gorilla brown into type royal more";
+var mnemonic = "bulb honey mixed beauty flat mosquito carbon hood pet achieve draft betray";

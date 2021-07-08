@@ -1,1 +1,1 @@
-var mnemonic = "main assume talent brisk sweet ribbon impact code route picnic finish robust";
+var mnemonic = "catch vast foot later rail blood great pilot fabric extend catch welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "desk lesson good together cause can myself never sudden pumpkin cup cabbage";
+var mnemonic = "orange memory fitness plate wait love parrot picnic aisle situate refuse sword";

@@ -1,1 +1,1 @@
-var mnemonic = "local dignity school offer romance foster water strategy cinnamon hover where coral";
+var mnemonic = "idle auto guide assault gym piano sentence bitter appear change buzz scene";

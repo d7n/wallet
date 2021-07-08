@@ -1,1 +1,1 @@
-var mnemonic = "hawk pledge innocent exclude enhance never will type spot prize require funny";
+var mnemonic = "blur almost all better resist false hospital film digital skill swap almost";

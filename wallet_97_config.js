@@ -1,1 +1,1 @@
-var mnemonic = "develop chicken leaf sentence light empty type fury elbow clever anger annual";
+var mnemonic = "sugar flight prison radar curve cross pledge toward crunch will crisp spawn";

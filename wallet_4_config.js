@@ -1,1 +1,1 @@
-var mnemonic = "sphere despair level fitness setup beef lonely embrace nut injury access real";
+var mnemonic = "cliff uncle earth egg release brave affair actress enough solid bitter truth";

@@ -1,1 +1,1 @@
-var mnemonic = "clump better burger boy feature ensure patient second hobby marble message unable";
+var mnemonic = "nominee decorate gather diesel story scorpion street spoil together language review melt";

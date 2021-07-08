@@ -1,1 +1,1 @@
-var mnemonic = "friend spare faint bubble position believe scout sleep occur mass craft slogan";
+var mnemonic = "ribbon relief word attend magnet company obscure alpha name weekend route gold";

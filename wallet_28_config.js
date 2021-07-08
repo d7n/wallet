@@ -1,1 +1,1 @@
-var mnemonic = "absorb thank version grief bridge fruit skirt reject permit curtain health couple";
+var mnemonic = "library useless oil depart enable miracle catch scale bundle enrich always brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "pass filter track ozone stadium typical soda identify pair family history company";
+var mnemonic = "clock neutral hunt jealous gather bulb vivid satisfy cricket canoe sphere fan";

@@ -1,1 +1,1 @@
-var mnemonic = "patch because liberty rotate drill jaguar earth visit boost name energy pair";
+var mnemonic = "music ring taxi print issue eye goddess differ music february say smile";

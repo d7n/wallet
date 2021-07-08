@@ -1,1 +1,1 @@
-var mnemonic = "artwork day brave quote click text build tiny pulp among basket original";
+var mnemonic = "clay about radar tone pledge please devote morning tackle iron vintage uncover";

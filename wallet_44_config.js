@@ -1,1 +1,1 @@
-var mnemonic = "shoe crowd extra neck feature life limit design into emotion cabin timber";
+var mnemonic = "walnut future near track enact quality abuse gadget observe board funny penalty";

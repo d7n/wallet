@@ -1,1 +1,1 @@
-var mnemonic = "federal nurse energy patch regret hint dry dune lend museum keen venue";
+var mnemonic = "come innocent frequent symbol recycle forum flag jelly marble cook dolphin wisdom";

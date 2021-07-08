@@ -1,1 +1,1 @@
-var mnemonic = "predict during brother need tail reason film media bitter purity vessel settle";
+var mnemonic = "turn awful abuse usage exhibit badge marine casino alien dolphin provide bird";

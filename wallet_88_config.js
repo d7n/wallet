@@ -1,1 +1,1 @@
-var mnemonic = "lumber protect priority wrong surround refuse radio erupt hungry skill chef immune";
+var mnemonic = "true pen update try tattoo speed click bean remain learn trade total";

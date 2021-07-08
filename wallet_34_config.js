@@ -1,1 +1,1 @@
-var mnemonic = "zoo panic cereal axis bless around quarter else canvas later stage naive";
+var mnemonic = "promote velvet monkey now swift fancy pair abuse refuse document soda cable";

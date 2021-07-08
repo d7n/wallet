@@ -1,1 +1,1 @@
-var mnemonic = "possible olympic human goose able surprise govern latin wing virus busy address";
+var mnemonic = "buzz boost honey phone region worry coral bulk royal surface wrist decade";

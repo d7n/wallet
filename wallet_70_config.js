@@ -1,1 +1,1 @@
-var mnemonic = "pact angle crack stool trumpet uncover water talent ozone shed amateur cycle";
+var mnemonic = "together leader spend bottom release project brush copy occur install horse runway";

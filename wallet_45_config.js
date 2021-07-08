@@ -1,1 +1,1 @@
-var mnemonic = "outdoor ski invest debate camp diesel pretty grocery film visual mirror birth";
+var mnemonic = "aisle series ivory safe expire indicate bachelor deal river current cart company";

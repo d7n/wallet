@@ -1,1 +1,1 @@
-var mnemonic = "close eyebrow key drop assault tiger almost certain make city mosquito level";
+var mnemonic = "crystal hedgehog shaft parrot circle comic magnet nominee list walk enter diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "example turkey fade conduct door claim sting humble debate brisk fuel else";
+var mnemonic = "notable absorb cloud daring wrist talk list win install mean lounge love";

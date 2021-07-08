@@ -1,1 +1,1 @@
-var mnemonic = "valley first prefer oyster brave warrior raw busy critic baby time true";
+var mnemonic = "differ spider lunar color mad rotate tuna consider stool tray machine retire";

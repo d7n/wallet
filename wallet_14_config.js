@@ -1,1 +1,1 @@
-var mnemonic = "scale left inform turn subject peace solar sustain dizzy hair winner amazing";
+var mnemonic = "pave scale recycle know slogan ordinary attract twelve sniff member output survey";

@@ -1,1 +1,1 @@
-var mnemonic = "good section wing worth autumn blush core rifle scale soda strategy order";
+var mnemonic = "elegant knee erode edit flight more bleak copper brass impact expand bread";

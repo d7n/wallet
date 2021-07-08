@@ -1,1 +1,1 @@
-var mnemonic = "toast north until cram fancy magnet acid dice palace clerk hedgehog gaze";
+var mnemonic = "expand next jungle squirrel tuition curve drastic want drop broken month tent";

@@ -1,1 +1,1 @@
-var mnemonic = "south talent exit element digital romance episode news demand range because permit";
+var mnemonic = "wet rack health planet garbage embrace boss evoke club club bleak purpose";

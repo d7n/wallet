@@ -1,1 +1,1 @@
-var mnemonic = "weasel garlic morning curve venture gather merge mistake job latin exhibit burden";
+var mnemonic = "swing busy tiger matrix junk load awkward utility view skull sort electric";

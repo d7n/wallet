@@ -1,1 +1,1 @@
-var mnemonic = "fix casino wrist blossom ahead snap cram thunder mistake amateur typical like";
+var mnemonic = "rocket attract robust decide craft blade rally glimpse kidney hammer vehicle hospital";

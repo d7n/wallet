@@ -1,1 +1,1 @@
-var mnemonic = "upper fringe high have diagram ritual they execute digital fiction noodle patient";
+var mnemonic = "garbage imitate foster useless essay slim life grid various olympic crisp borrow";

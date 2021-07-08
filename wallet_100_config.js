@@ -1,1 +1,1 @@
-var mnemonic = "blast room myself sign genre light near embark wait warrior pluck remember";
+var mnemonic = "basket forest situate announce fashion can help evidence occur grocery sorry often";

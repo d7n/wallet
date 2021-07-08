@@ -1,1 +1,1 @@
-var mnemonic = "bomb mother ability point lift nominee bitter aim general combine rib glory";
+var mnemonic = "hello move view flock shoulder ticket else soccer seven dutch belt page";

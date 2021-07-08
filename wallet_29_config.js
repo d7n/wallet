@@ -1,1 +1,1 @@
-var mnemonic = "will world music suit mind fever sheriff shop favorite venture off glare";
+var mnemonic = "federal fee ocean retreat rose else nature chimney pioneer forest dad grow";

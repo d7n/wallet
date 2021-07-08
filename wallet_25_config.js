@@ -1,1 +1,1 @@
-var mnemonic = "patient escape rotate novel core goat grow twice lend mansion husband west";
+var mnemonic = "frozen today gift gossip purity exotic drill reveal address defy broccoli flip";

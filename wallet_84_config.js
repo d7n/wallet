@@ -1,1 +1,1 @@
-var mnemonic = "crane alarm gas circle humor false blame enforce taste fog mean final";
+var mnemonic = "push alarm glance idle since little rare master tennis change blossom brief";

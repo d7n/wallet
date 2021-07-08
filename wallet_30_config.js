@@ -1,1 +1,1 @@
-var mnemonic = "desert lawn rail must prison soccer supreme disagree image bean puppy spoil";
+var mnemonic = "once organ funny cover inmate reform invite start employ extend slim oxygen";

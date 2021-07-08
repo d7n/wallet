@@ -1,1 +1,1 @@
-var mnemonic = "outer improve gym satoshi disagree own scale layer discover polar remain rapid";
+var mnemonic = "arm pudding skate fiscal cigar view keen used once inside couch cross";

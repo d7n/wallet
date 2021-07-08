@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo motor dilemma federal that satisfy day weather program author gaze tooth";
+var mnemonic = "term come glove sister hint usual rival miss shed amused rebuild evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse obscure cover cotton battle obey buzz peanut fever wet music nature";
+var mnemonic = "juice april square noodle pepper advance slim shoulder hire struggle tissue orphan";

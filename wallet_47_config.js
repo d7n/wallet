@@ -1,1 +1,1 @@
-var mnemonic = "leopard mercy rapid dance plug shield announce labor toddler era excuse genuine";
+var mnemonic = "ceiling girl bag pudding tool silver guard wine ethics mass verb enforce";

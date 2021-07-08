@@ -1,1 +1,1 @@
-var mnemonic = "giraffe jaguar easy bleak clip return tell truck supreme glide answer sheriff";
+var mnemonic = "knock helmet notice another cool service seek treat vibrant firm talk worry";

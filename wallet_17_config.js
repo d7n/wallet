@@ -1,1 +1,1 @@
-var mnemonic = "usage science address south shoulder bike dial early proud gravity top chair";
+var mnemonic = "drum wire hurt gate daughter thank cricket flash hint jeans hunt embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "three thumb scan tired they tobacco walk cloud usual describe claw add";
+var mnemonic = "galaxy expire art deposit evidence priority awkward light bracket relax cactus remove";

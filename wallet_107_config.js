@@ -1,1 +1,1 @@
-var mnemonic = "memory enlist boil spray sea baby message demise perfect few monkey gallery";
+var mnemonic = "friend cute sweet length surface math current naive hammer embrace grain protect";

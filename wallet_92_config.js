@@ -1,1 +1,1 @@
-var mnemonic = "night prosper brown same rabbit noble pitch glance this axis mom zero";
+var mnemonic = "ozone section day adjust people else garden lawsuit master rude order ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "clever into domain diamond ordinary spend fly swear client still certain gym";
+var mnemonic = "faith among system clown demise review orchard rich force owner razor camp";

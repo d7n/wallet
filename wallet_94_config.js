@@ -1,1 +1,1 @@
-var mnemonic = "oven seek mule idea poet fabric hood universe small derive crowd vague";
+var mnemonic = "punch typical adjust soon truck ridge frown eight secret slice inmate current";

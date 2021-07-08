@@ -1,1 +1,1 @@
-var mnemonic = "effort crater funny cheap kind hungry nuclear plunge tip episode book check";
+var mnemonic = "denial advance derive beauty jazz olympic clarify cup divorce hungry road check";

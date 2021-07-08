@@ -1,1 +1,1 @@
-var mnemonic = "survey pear cover west dentist train april album rival ugly pretty educate";
+var mnemonic = "farm toe ice hover dizzy possible guide exercise spell floor mansion bean";

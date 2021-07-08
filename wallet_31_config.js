@@ -1,1 +1,1 @@
-var mnemonic = "valley text street atom reduce expose wagon lazy problem gossip gift vapor";
+var mnemonic = "home degree raven device door hurdle word burst icon armed dizzy charge";

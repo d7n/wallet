@@ -1,1 +1,1 @@
-var mnemonic = "furnace sort logic exit spy plunge major flat lake social weasel vehicle";
+var mnemonic = "involve high keen glimpse spend february twin angry aware tunnel pair blame";

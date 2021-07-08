@@ -1,1 +1,1 @@
-var mnemonic = "robust stick biology embody success syrup rent file find cradle until wave";
+var mnemonic = "survey chest champion arrange fan fall shadow novel anger above alien animal";

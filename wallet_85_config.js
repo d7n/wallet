@@ -1,1 +1,1 @@
-var mnemonic = "melt right traffic adjust review guilt sell surprise wheat way upset upper";
+var mnemonic = "exclude lesson ethics calm knee decorate trick wing fancy wonder hockey frost";

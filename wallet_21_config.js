@@ -1,1 +1,1 @@
-var mnemonic = "diet kit forward use dolphin letter latin february soap error romance enjoy";
+var mnemonic = "renew attack guide glare video beef smart oyster major motion endless acoustic";

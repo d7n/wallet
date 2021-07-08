@@ -1,1 +1,1 @@
-var mnemonic = "unfold raw assume expand model wagon depth nice hire buzz bamboo liar";
+var mnemonic = "rough sample about absent mail frost beach plastic achieve whisper note service";

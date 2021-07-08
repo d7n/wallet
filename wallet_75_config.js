@@ -1,1 +1,1 @@
-var mnemonic = "skill promote horn million shift bean west soon tenant affair pond kiwi";
+var mnemonic = "scare enter laugh know nurse erode type wealth inherit piece sunny boring";

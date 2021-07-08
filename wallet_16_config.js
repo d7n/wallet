@@ -1,1 +1,1 @@
-var mnemonic = "hidden garage essence arrow video model era medal rotate fitness cool tumble";
+var mnemonic = "three letter nose give make absurd priority invest siren ten life junk";

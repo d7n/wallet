@@ -1,1 +1,1 @@
-var mnemonic = "spoon can exile lecture wall easily humble swim snack lens reduce alter";
+var mnemonic = "report belt help poet rapid tiger tuition circle hire message visual wrong";
