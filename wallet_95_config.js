@@ -1,1 +1,1 @@
-var mnemonic = "leg slow hat dad vibrant outer bar glue emotion pair hedgehog ladder";
+var mnemonic = "list they enroll dust barrel grace flower rough frozen winner mandate wild";

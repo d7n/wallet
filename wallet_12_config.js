@@ -1,1 +1,1 @@
-var mnemonic = "fiscal life shop poet embody dolphin crazy page oil oyster accident state";
+var mnemonic = "fuel flower range assault script sheriff impact soda choice borrow flame squirrel";

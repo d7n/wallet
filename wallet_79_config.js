@@ -1,1 +1,1 @@
-var mnemonic = "round defense fiscal another entry mother cage husband say liquid case pass";
+var mnemonic = "gravity vital day flip drop pool plug comfort decorate split solid onion";

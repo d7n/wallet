@@ -1,1 +1,1 @@
-var mnemonic = "rhythm system silent because agent alley viable level giant rough yard blush";
+var mnemonic = "lyrics fury pulse relief ice zebra abstract same clap announce pattern cricket";

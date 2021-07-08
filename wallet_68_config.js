@@ -1,1 +1,1 @@
-var mnemonic = "spy tent stove punch soap music daring olympic rebuild limit brain fly";
+var mnemonic = "border predict tiger olive way olive only fork pumpkin recipe frequent pen";

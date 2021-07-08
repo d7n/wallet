@@ -1,1 +1,1 @@
-var mnemonic = "decrease frog window trust arrest domain teach member merry input tilt banner";
+var mnemonic = "bridge surge strong picture gorilla adjust sock lawn husband fiscal decline cross";

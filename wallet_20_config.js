@@ -1,1 +1,1 @@
-var mnemonic = "process okay accident wrist dad speed industry farm large pride settle virus";
+var mnemonic = "nominee uncle critic exhaust midnight friend bounce island piano adapt decorate figure";

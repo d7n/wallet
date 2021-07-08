@@ -1,1 +1,1 @@
-var mnemonic = "ribbon enforce stadium demise virtual expand sight middle scorpion focus again series";
+var mnemonic = "thing inflict gun zone parade dust town off wire setup rail road";

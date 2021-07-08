@@ -1,1 +1,1 @@
-var mnemonic = "tube alarm mango frequent woman ivory divorce antique small chest eyebrow thumb";
+var mnemonic = "lift mixed member element thing mountain predict slab hockey pledge flip toast";

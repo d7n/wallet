@@ -1,1 +1,1 @@
-var mnemonic = "suspect wish enemy casino onion walnut broken decide bone easily dragon flock";
+var mnemonic = "core rally photo feel equip sniff rare actor smoke rare chronic reduce";

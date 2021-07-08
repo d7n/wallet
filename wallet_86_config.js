@@ -1,1 +1,1 @@
-var mnemonic = "hole confirm panda hamster drastic page pony hobby produce resist control senior";
+var mnemonic = "depart space scissors tide enforce pizza glare hire miss toilet purpose into";

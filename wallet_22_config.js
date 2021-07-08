@@ -1,1 +1,1 @@
-var mnemonic = "peace device kind soon mercy modify omit subject balance session left flame";
+var mnemonic = "sample urban garlic table omit asthma ecology produce benefit isolate boat world";

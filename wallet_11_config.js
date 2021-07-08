@@ -1,1 +1,1 @@
-var mnemonic = "mutual rubber bachelor spell ozone kind fog mind unknown crop walnut duty";
+var mnemonic = "habit team ancient spin pioneer toddler stuff street cost child flag afford";

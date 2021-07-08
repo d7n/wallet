@@ -1,1 +1,1 @@
-var mnemonic = "army swift dentist champion assume civil system idea quit inflict gather file";
+var mnemonic = "discover survey mechanic rare uncle sustain struggle hello dinosaur also basket pond";

@@ -1,1 +1,1 @@
-var mnemonic = "march cat diary lottery shaft luxury culture friend actress derive earn ladder";
+var mnemonic = "will oak stem normal erode equip meadow together achieve family choose ability";

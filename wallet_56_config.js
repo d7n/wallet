@@ -1,1 +1,1 @@
-var mnemonic = "daring taxi video obvious roast subway spoon column recipe puzzle hurdle dash";
+var mnemonic = "body fall attack divert odor will desert myself chaos anchor already dress";

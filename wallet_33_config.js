@@ -1,1 +1,1 @@
-var mnemonic = "desk peanut text dune rebel transfer predict latin gravity autumn system call";
+var mnemonic = "teach crack pool enemy inmate minimum use moral abstract result notable erase";

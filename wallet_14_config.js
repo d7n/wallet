@@ -1,1 +1,1 @@
-var mnemonic = "release oil wrap dry palace flat sleep coin phone midnight front skill";
+var mnemonic = "pupil ski gym daughter skill miss cause claw alone couple clump injury";

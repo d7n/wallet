@@ -1,1 +1,1 @@
-var mnemonic = "imitate sort enhance three mother document damp prison electric settle input traffic";
+var mnemonic = "provide napkin mass brief cry gap soccer expect illegal broom seven twelve";

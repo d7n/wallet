@@ -1,1 +1,1 @@
-var mnemonic = "essay million owner slice squirrel case sibling wrestle spawn dance banana high";
+var mnemonic = "total quarter body pilot reflect aspect fat wire plate prevent marble feel";

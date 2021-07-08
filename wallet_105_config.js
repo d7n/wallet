@@ -1,1 +1,1 @@
-var mnemonic = "health tunnel congress split grace castle such label mercy reunion vanish kidney";
+var mnemonic = "special taxi increase super bar broccoli enroll trim angry glow second pill";

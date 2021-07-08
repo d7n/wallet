@@ -1,1 +1,1 @@
-var mnemonic = "pair slow split health border keep poverty spider tool accident pupil radio";
+var mnemonic = "wood high climb wall crime silent someone duck visual arrive shoulder afraid";

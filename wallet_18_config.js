@@ -1,1 +1,1 @@
-var mnemonic = "reduce tree gossip bird final sunset wrong believe ticket execute know zebra";
+var mnemonic = "ring adult tumble ladder version strategy virus damage innocent immense neutral iron";

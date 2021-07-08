@@ -1,1 +1,1 @@
-var mnemonic = "swallow iron glare crash blush unveil master frog hybrid advice dust short";
+var mnemonic = "market memory concert wink deliver oxygen devote clown pencil response kiwi next";

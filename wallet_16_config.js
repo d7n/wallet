@@ -1,1 +1,1 @@
-var mnemonic = "lunch atom meadow rotate vote protect screen captain seminar ensure shadow observe";
+var mnemonic = "device gap kite custom tornado horse neglect width junior craft sadness feel";

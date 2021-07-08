@@ -1,1 +1,1 @@
-var mnemonic = "size expand must diagram mystery jacket water december live eagle shine mechanic";
+var mnemonic = "blame lady attack flee human case build absurd enact stable bachelor flame";

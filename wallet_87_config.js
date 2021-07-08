@@ -1,1 +1,1 @@
-var mnemonic = "impact riot eager garbage pottery adjust exchange weasel lottery eager seat cool";
+var mnemonic = "swarm damp photo believe bracket glow run open pond hat lizard funny";

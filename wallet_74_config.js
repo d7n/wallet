@@ -1,1 +1,1 @@
-var mnemonic = "olive receive portion skull course frozen actress tunnel chat sunny hard toddler";
+var mnemonic = "host transfer pond picnic tip rug subject absurd obtain magic pizza switch";

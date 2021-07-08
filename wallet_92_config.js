@@ -1,1 +1,1 @@
-var mnemonic = "relief nuclear income trial budget rubber skull entire remember suggest solution option";
+var mnemonic = "ignore beef cherry decline strike absurd session assume tag result sock village";

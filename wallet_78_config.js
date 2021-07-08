@@ -1,1 +1,1 @@
-var mnemonic = "refuse fabric hybrid toddler path romance fever pull step fiber rail echo";
+var mnemonic = "tribe behind lyrics sunny eternal series acquire fence capable eye fetch raise";

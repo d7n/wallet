@@ -1,1 +1,1 @@
-var mnemonic = "pear man ahead sheriff strike expire spin churn ecology lake kite viable";
+var mnemonic = "laptop ball biology grape machine lazy hard home lottery toast wave expose";

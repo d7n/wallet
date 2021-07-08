@@ -1,1 +1,1 @@
-var mnemonic = "this cool chronic state tiny olive drastic mention village abstract donate milk";
+var mnemonic = "obtain approve hurt ladder addict chronic rubber balcony submit toe toss blade";

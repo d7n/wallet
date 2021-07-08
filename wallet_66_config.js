@@ -1,1 +1,1 @@
-var mnemonic = "good solar rural job ship strong absurd reason image behave race energy";
+var mnemonic = "clap trade pipe step there slim tumble limit wool tired blood spatial";

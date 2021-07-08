@@ -1,1 +1,1 @@
-var mnemonic = "emerge slab palace drum lunch tackle mad casino quiz monkey promote height";
+var mnemonic = "milk suffer token shallow copper inmate daring width perfect pepper wheat host";

@@ -1,1 +1,1 @@
-var mnemonic = "where lucky pelican grace goat teach hollow exercise peace soon hen practice";
+var mnemonic = "current agent face bundle rack approve pigeon perfect dice volcano mechanic settle";

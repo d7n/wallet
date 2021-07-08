@@ -1,1 +1,1 @@
-var mnemonic = "brass bread rally perfect sad shell whisper spice when chair shop alert";
+var mnemonic = "embark quantum clarify dismiss name claw erosion vibrant draft lesson hand talent";

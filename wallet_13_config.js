@@ -1,1 +1,1 @@
-var mnemonic = "sugar gain script alarm fluid ski mystery remind follow turn gas awful";
+var mnemonic = "execute drastic toddler swamp cruise cream trend return differ nothing city mix";

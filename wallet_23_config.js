@@ -1,1 +1,1 @@
-var mnemonic = "romance pencil property neither pull grant meadow gain guess purse dance wise";
+var mnemonic = "coil ripple miss view bottom vicious wheat cargo execute position soccer west";

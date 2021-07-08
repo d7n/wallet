@@ -1,1 +1,1 @@
-var mnemonic = "horse tennis spoil force glove mandate present insect heart napkin identify bid";
+var mnemonic = "very worth disorder panther stadium palm concert jungle eagle write poem pitch";

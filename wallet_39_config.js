@@ -1,1 +1,1 @@
-var mnemonic = "fossil dish rate cat outer high scrap same spy absent swallow unique";
+var mnemonic = "fit second either symbol bag pledge thumb viable uphold edge nurse despair";

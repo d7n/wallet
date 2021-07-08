@@ -1,1 +1,1 @@
-var mnemonic = "connect patient lake easily leave very valid body usage only rate purchase";
+var mnemonic = "screen illegal question saddle rude scissors long tattoo shock ship cook lamp";

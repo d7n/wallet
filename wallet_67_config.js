@@ -1,1 +1,1 @@
-var mnemonic = "absorb dash screen flame copper property boost sugar february permit cube hello";
+var mnemonic = "cancel shy found property social poem bar purse arm catalog team auction";

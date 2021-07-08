@@ -1,1 +1,1 @@
-var mnemonic = "pupil jaguar zero athlete jump quick settle tunnel route code lucky polar";
+var mnemonic = "donkey electric kitchen access connect ozone chief inmate captain fun absent melt";

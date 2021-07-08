@@ -1,1 +1,1 @@
-var mnemonic = "love enlist fire energy liar theory chef call zero physical fringe spatial";
+var mnemonic = "trip achieve witness decade opera unfair reduce switch letter harsh combine board";

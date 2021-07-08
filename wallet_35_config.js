@@ -1,1 +1,1 @@
-var mnemonic = "ridge weather joke doll tumble dinner talent goddess absent fit beauty change";
+var mnemonic = "matrix lens ski prevent gravity utility fade drama village catalog cluster mango";

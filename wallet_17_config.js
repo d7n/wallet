@@ -1,1 +1,1 @@
-var mnemonic = "vocal renew absent honey furnace mirror axis stairs trade artefact satoshi guitar";
+var mnemonic = "tank camp grace situate stadium kick rare mad method aware aspect danger";

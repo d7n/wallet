@@ -1,1 +1,1 @@
-var mnemonic = "rich together embark ask pool canvas vehicle know bless moral permit interest";
+var mnemonic = "master depth soldier trap pony diamond field poet funny found fat gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "also soccer blade move collect train human today kangaroo window very predict";
+var mnemonic = "tattoo museum wild chat endorse payment exhibit book team until thank rebuild";

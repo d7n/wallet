@@ -1,1 +1,1 @@
-var mnemonic = "employ fury pair rare manage napkin cupboard join hub taste chef border";
+var mnemonic = "breeze moment worry wasp estate system dwarf favorite educate primary address omit";

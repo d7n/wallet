@@ -1,1 +1,1 @@
-var mnemonic = "must van lottery bulb lab float old logic lunch program destroy robust";
+var mnemonic = "window grit allow proud aunt acquire mushroom mind print twelve sell close";

@@ -1,1 +1,1 @@
-var mnemonic = "mix special champion powder market elegant lonely gold blush gorilla panic whisper";
+var mnemonic = "shell icon evil forget oil bless feature melt weasel expire pyramid boil";

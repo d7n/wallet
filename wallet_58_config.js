@@ -1,1 +1,1 @@
-var mnemonic = "immense put shock mention other between stock index harvest digital edge birth";
+var mnemonic = "tennis lucky afford end evidence method pave layer witness banana clock assist";

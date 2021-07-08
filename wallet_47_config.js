@@ -1,1 +1,1 @@
-var mnemonic = "unfold cement dragon interest salon soccer that fantasy ice style ten secret";
+var mnemonic = "reopen label siege pumpkin laugh punch wet awful small better mixture organ";

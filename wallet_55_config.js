@@ -1,1 +1,1 @@
-var mnemonic = "gas top confirm salute arrow session tank raw evolve grief brush rich";
+var mnemonic = "flat siren beach seat task absurd erase shield brisk result finger gate";

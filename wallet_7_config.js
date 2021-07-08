@@ -1,1 +1,1 @@
-var mnemonic = "illness tumble crew clown depth fiber blue mountain shell walk rocket crowd";
+var mnemonic = "bubble tower short coyote wish vicious veteran buyer doctor bulk elite pink";

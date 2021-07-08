@@ -1,1 +1,1 @@
-var mnemonic = "soccer music endless better siege margin speak ribbon lesson rare keen announce";
+var mnemonic = "enjoy parade afraid pond grief wage obtain naive detect process major spy";

@@ -1,1 +1,1 @@
-var mnemonic = "lend general harvest hard course pole random gaze spy symptom loop arrange";
+var mnemonic = "that gaze loan disagree lens image float mimic middle milk purse announce";

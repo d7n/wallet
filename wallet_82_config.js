@@ -1,1 +1,1 @@
-var mnemonic = "myself visa grid mule velvet please gap leave catch kangaroo phrase opinion";
+var mnemonic = "clerk school board assume chuckle convince hire abandon corn write prevent comfort";

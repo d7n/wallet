@@ -1,1 +1,1 @@
-var mnemonic = "exhibit business ancient extra print claw sell large walnut category woman duty";
+var mnemonic = "symbol comfort van polar agree champion loan barely infant dilemma dilemma first";

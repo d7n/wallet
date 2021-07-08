@@ -1,1 +1,1 @@
-var mnemonic = "panda mix hungry pen cool dance bubble square fat output like matter";
+var mnemonic = "renew inhale cup talk emerge shock leg duck lunch upset shrug bird";

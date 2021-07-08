@@ -1,1 +1,1 @@
-var mnemonic = "flock ship diagram aisle best crane lend load wear submit hedgehog spice";
+var mnemonic = "quarter exit priority breeze erode universe coin bachelor math dolphin sword network";

@@ -1,1 +1,1 @@
-var mnemonic = "frost claw fork pool result lazy effort business shiver tragic people mass";
+var mnemonic = "another cluster replace cancel finish harsh palm unable limit evil pond symbol";

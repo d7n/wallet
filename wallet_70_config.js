@@ -1,1 +1,1 @@
-var mnemonic = "during limb puppy walnut injury slim winter organ test never rotate spoil";
+var mnemonic = "filter truth situate element chair tuition act pretty train guard half caught";

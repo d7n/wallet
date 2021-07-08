@@ -1,1 +1,1 @@
-var mnemonic = "length blade blood own girl adapt hello sentence update obtain warfare stomach";
+var mnemonic = "sheriff permit patch jaguar emotion van goose monkey pink candy cup glide";

@@ -1,1 +1,1 @@
-var mnemonic = "source vault ridge federal job breeze depend unaware glare nest cause call";
+var mnemonic = "chalk bread session memory cruise zone sword acquire father owner occur color";

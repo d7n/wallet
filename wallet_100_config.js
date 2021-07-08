@@ -1,1 +1,1 @@
-var mnemonic = "napkin effort average north damp cruise rebel credit true timber still melt";
+var mnemonic = "buzz insane swallow equal blur broken fury project couch liar ladder surface";

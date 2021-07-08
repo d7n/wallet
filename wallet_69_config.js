@@ -1,1 +1,1 @@
-var mnemonic = "army draft cake amazing agree behind copy system enroll recycle churn emotion";
+var mnemonic = "cabin cable weasel huge spoon defense egg park promote soccer that wire";

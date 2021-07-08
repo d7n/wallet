@@ -1,1 +1,1 @@
-var mnemonic = "price pink group merry artefact number arrest rule useless stove churn clog";
+var mnemonic = "glimpse worry blur lyrics will loan cup private gloom rely write siege";

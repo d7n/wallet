@@ -1,1 +1,1 @@
-var mnemonic = "lecture right attract cart account usage purpose club monkey biology ripple receive";
+var mnemonic = "net attend mirror chat resist lawsuit siren speed spoon business one elite";

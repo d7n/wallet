@@ -1,1 +1,1 @@
-var mnemonic = "turn clever sphere frown long load kangaroo acid possible never client gain";
+var mnemonic = "engage pink inside nothing liquid blast fault mobile install maid liar shrug";

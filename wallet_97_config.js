@@ -1,1 +1,1 @@
-var mnemonic = "skill cycle slender orchard fossil robot canal exact knife skate try lens";
+var mnemonic = "oval learn occur occur garlic winner buyer cute shock large fitness eager";

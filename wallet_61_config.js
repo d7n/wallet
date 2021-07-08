@@ -1,1 +1,1 @@
-var mnemonic = "twin learn used credit february neutral physical wool pink try vacuum sign";
+var mnemonic = "artwork appear auction quality sing hockey clip describe earth inflict link charge";

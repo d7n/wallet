@@ -1,1 +1,1 @@
-var mnemonic = "solution mutual receive worry cabin service dirt night pizza nice human shoulder";
+var mnemonic = "bind abandon chalk coral kitchen spare divide engage bullet account almost harbor";

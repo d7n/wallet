@@ -1,1 +1,1 @@
-var mnemonic = "cycle inside remain debate bulk correct vocal fat tattoo oil boring fiscal";
+var mnemonic = "snap million fluid goose adapt ignore leisure spin animal peasant gold pupil";

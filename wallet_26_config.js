@@ -1,1 +1,1 @@
-var mnemonic = "fix term project relax toilet melt shadow pattern stock peasant venture zero";
+var mnemonic = "gun tenant obey elephant assist machine cushion slogan either length ramp erupt";

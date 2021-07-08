@@ -1,1 +1,1 @@
-var mnemonic = "cart iron copy tongue palm shift genuine guitar coast borrow album end";
+var mnemonic = "mango between mutual inmate vital outer north radio derive tortoise inhale wool";

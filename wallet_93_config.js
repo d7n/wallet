@@ -1,1 +1,1 @@
-var mnemonic = "twist library debris goose gentle flat surprise child rhythm naive future awkward";
+var mnemonic = "blush hand fuel runway lemon hidden airport topic raise wonder mesh remain";

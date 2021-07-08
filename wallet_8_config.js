@@ -1,1 +1,1 @@
-var mnemonic = "evolve evolve congress mushroom best duty vanish slice wasp tip oven level";
+var mnemonic = "coil manual wage submit tiny blossom drip silly bracket hurry cart cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "potato public cabbage number reunion muffin clinic indicate sell vital case scissors";
+var mnemonic = "assume torch sadness worry flame matrix embody diary say accuse universe visual";

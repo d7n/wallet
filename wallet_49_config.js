@@ -1,1 +1,1 @@
-var mnemonic = "monitor taxi essay fitness retreat arctic increase clarify income goose genuine pretty";
+var mnemonic = "hover slow ensure under tennis priority argue accident switch aerobic barely welcome";

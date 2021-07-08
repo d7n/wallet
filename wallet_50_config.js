@@ -1,1 +1,1 @@
-var mnemonic = "screen legal dumb nothing art april pear attract violin giggle chase business";
+var mnemonic = "focus outer oil slender flush enlist tackle concert once melody seek typical";

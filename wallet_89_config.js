@@ -1,1 +1,1 @@
-var mnemonic = "cement truth shaft march bamboo stumble addict fall lesson allow allow excuse";
+var mnemonic = "focus horse surprise trim giraffe intact parrot strike agent mom little pulse";

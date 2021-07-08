@@ -1,1 +1,1 @@
-var mnemonic = "seminar shoe admit buzz fatigue tree eternal subway receive card crumble country";
+var mnemonic = "spray grocery lounge demise stamp capable enough donkey there glad garment reject";

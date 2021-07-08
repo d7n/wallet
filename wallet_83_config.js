@@ -1,1 +1,1 @@
-var mnemonic = "resist dog repair alone rebel farm rose found van trumpet issue reward";
+var mnemonic = "raw clarify spoon vessel giggle bread lake middle fantasy spot brush raw";

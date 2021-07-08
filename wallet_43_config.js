@@ -1,1 +1,1 @@
-var mnemonic = "cabbage chief purchase garage claw cupboard future scrap sausage together rural online";
+var mnemonic = "dumb volcano ladder orange vital shrimp bleak hurt never silly find tornado";

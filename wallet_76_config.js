@@ -1,1 +1,1 @@
-var mnemonic = "wire pulse shift license omit practice napkin village kitten boss tumble surprise";
+var mnemonic = "census liberty jacket negative access undo level slush trouble upgrade test citizen";

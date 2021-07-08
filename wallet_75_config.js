@@ -1,1 +1,1 @@
-var mnemonic = "survey luggage worry other rubber sauce balcony near twin suffer crucial year";
+var mnemonic = "faith mountain inflict chat advice blade jealous security evil tired whale start";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit clever that spread forum april age usual found laundry grunt clap";
+var mnemonic = "note scale copy narrow eager real draw track celery shift front source";
