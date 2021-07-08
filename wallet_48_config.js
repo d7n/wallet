@@ -1,1 +1,1 @@
-var mnemonic = "mother volume scrub general dizzy sick bacon nephew secret sell until cancel";
+var mnemonic = "hint awful faint never diet nominee hood exile wonder van prosper east";

@@ -1,1 +1,1 @@
-var mnemonic = "false brown great explain expose rail enforce wear afford around deposit drastic";
+var mnemonic = "coach museum leaf abstract steel ridge wonder fine attract pull prefer embrace";

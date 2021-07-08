@@ -1,1 +1,1 @@
-var mnemonic = "plug subject student unaware action service silver swarm fantasy plunge shiver wagon";
+var mnemonic = "burst half uphold staff zebra hamster image shop today record question run";

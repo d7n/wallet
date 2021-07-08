@@ -1,1 +1,1 @@
-var mnemonic = "theme transfer solution vehicle fetch bargain huge flight abandon network hawk cable";
+var mnemonic = "tube mobile network road piece maximum census harbor lock strong rookie carpet";

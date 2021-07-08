@@ -1,1 +1,1 @@
-var mnemonic = "hybrid couple invest season address safe genius such clarify must salute enforce";
+var mnemonic = "minor wild index reopen poet catch gaze blouse sea shiver federal sunset";

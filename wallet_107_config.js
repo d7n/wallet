@@ -1,1 +1,1 @@
-var mnemonic = "trial matrix kangaroo elite arrow elephant clap cupboard veteran hip burden devote";
+var mnemonic = "blush wild country tortoise prefer urge unlock gallery ketchup faint trust offer";

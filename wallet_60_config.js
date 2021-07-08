@@ -1,1 +1,1 @@
-var mnemonic = "prosper sauce envelope casual outer caught skate inform feel side outdoor unfair";
+var mnemonic = "wagon capital coil envelope online globe dream gather disorder panel inside movie";

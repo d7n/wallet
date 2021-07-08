@@ -1,1 +1,1 @@
-var mnemonic = "behind strategy scale text kite truly spell draft drop woman amateur room";
+var mnemonic = "adapt federal type occur excite tooth receive vague tribe master chase decorate";

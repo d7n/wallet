@@ -1,1 +1,1 @@
-var mnemonic = "enact vendor tide impulse market unable dwarf mother clip tape urban soul";
+var mnemonic = "smart glad bean shine attitude sphere whip dizzy equal debate elevator vault";

@@ -1,1 +1,1 @@
-var mnemonic = "venue private chair moral crop divert cage gospel nothing choice spike novel";
+var mnemonic = "still shift zebra okay syrup inhale subject snake donkey damage excess manual";

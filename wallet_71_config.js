@@ -1,1 +1,1 @@
-var mnemonic = "erupt system alter session acoustic adjust trigger custom ritual olive liberty cruise";
+var mnemonic = "fault warrior figure push juice honey express skate short strike warfare reflect";

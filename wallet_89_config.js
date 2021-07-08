@@ -1,1 +1,1 @@
-var mnemonic = "expose hover basic slush cradle clutch asthma fatal visual expire before snack";
+var mnemonic = "match assume green fit obtain pioneer move disease sight auction insect bench";

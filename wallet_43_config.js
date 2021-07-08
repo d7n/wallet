@@ -1,1 +1,1 @@
-var mnemonic = "sting mask target cause turn pause guitar rhythm recipe rival slogan future";
+var mnemonic = "maid love alley address lemon feel next mom want gown hip latin";

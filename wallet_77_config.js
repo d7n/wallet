@@ -1,1 +1,1 @@
-var mnemonic = "walk begin sketch loyal hybrid advice notice scrub head slush open caught";
+var mnemonic = "giant castle axis setup indicate glide wood pistol balance someone rhythm leopard";

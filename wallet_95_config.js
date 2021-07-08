@@ -1,1 +1,1 @@
-var mnemonic = "teach enable wild saddle wrist hub early citizen swallow tattoo bright hero";
+var mnemonic = "trend device village master stone stairs ridge believe beach wild minimum lion";

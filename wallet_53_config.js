@@ -1,1 +1,1 @@
-var mnemonic = "news shoulder remember cigar language unusual kidney will panther myself soldier moral";
+var mnemonic = "shoulder extend vivid vintage hotel powder almost trust illness tortoise moment fiber";

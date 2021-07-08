@@ -1,1 +1,1 @@
-var mnemonic = "frame tuna elephant exhibit code price modify wire term limit old curtain";
+var mnemonic = "goose song certain matter boss monkey seat bus crew injury blush survey";

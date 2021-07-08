@@ -1,1 +1,1 @@
-var mnemonic = "fuel video mobile urge tornado garment morning ability ship soup ramp ivory";
+var mnemonic = "ostrich proud tribe public pioneer noodle sorry elder poverty daring juice capital";

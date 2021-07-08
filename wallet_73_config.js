@@ -1,1 +1,1 @@
-var mnemonic = "matter swim another list pulse maid alley client stand dust sing blame";
+var mnemonic = "tenant divert brass hope talk airport pretty wealth army cupboard spatial initial";

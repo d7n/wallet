@@ -1,1 +1,1 @@
-var mnemonic = "spoil search talent flock mean rabbit pulse guitar version crisp hope together";
+var mnemonic = "minor earth lamp almost find check flock morning candy private tail legend";

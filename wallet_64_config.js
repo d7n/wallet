@@ -1,1 +1,1 @@
-var mnemonic = "alpha between seat glove humor diagram hybrid drastic carbon regular breeze virus";
+var mnemonic = "reduce tilt novel muffin clay brand volcano turtle village critic cheap tongue";

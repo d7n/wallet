@@ -1,1 +1,1 @@
-var mnemonic = "intact good allow viable change ticket twin outside sauce genius accident core";
+var mnemonic = "unlock dawn ethics drink dwarf eternal coast wedding silly remember humor machine";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal usual erosion twelve category genius inmate siege never fade galaxy lottery";
+var mnemonic = "margin credit hello gain rug bicycle clay census pistol just cliff vacant";

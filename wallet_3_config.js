@@ -1,1 +1,1 @@
-var mnemonic = "veteran mansion beach tumble spice keen curtain expire bronze sphere latin observe";
+var mnemonic = "assist shove couch never life rack earth fluid swing jewel muffin detect";

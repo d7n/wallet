@@ -1,1 +1,1 @@
-var mnemonic = "assume present tonight april priority tragic pretty birth butter honey chicken ozone";
+var mnemonic = "virtual race tonight early series certain example piano argue morning only material";

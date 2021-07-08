@@ -1,1 +1,1 @@
-var mnemonic = "garlic tape blur soccer similar this cigar tide faith elder rifle admit";
+var mnemonic = "equal frost mention urge area amused soldier drum flush emotion atom oil";

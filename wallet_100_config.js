@@ -1,1 +1,1 @@
-var mnemonic = "enact aerobic slam excuse cancel chair flip basket use reopen sight parent";
+var mnemonic = "rough explain capital tent quit pupil wreck battle source logic donate silk";

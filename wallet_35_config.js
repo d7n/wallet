@@ -1,1 +1,1 @@
-var mnemonic = "strong expect repeat file home desert wide beyond execute snap congress market";
+var mnemonic = "nature twelve one search replace belt coconut park youth adult thing captain";

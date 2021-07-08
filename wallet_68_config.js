@@ -1,1 +1,1 @@
-var mnemonic = "rough firm crop reveal fold wool blouse oblige note hurry output avoid";
+var mnemonic = "ketchup sentence science okay always clock mosquito reveal stomach luggage various fan";

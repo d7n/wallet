@@ -1,1 +1,1 @@
-var mnemonic = "light firm slide change what position blade coconut fall pulse more attitude";
+var mnemonic = "pencil rally quarter witness poverty toilet stairs void blanket wasp merry oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "various remind swift divert release clay quit employ light side merit turkey";
+var mnemonic = "genius raw doll plate craft trash sponsor float addict ignore ticket museum";

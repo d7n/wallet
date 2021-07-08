@@ -1,1 +1,1 @@
-var mnemonic = "angle oil nurse narrow wild dish damp idle gossip guitar walk hill";
+var mnemonic = "tray indicate struggle nephew undo trick soon column utility gas limit swamp";

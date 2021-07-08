@@ -1,1 +1,1 @@
-var mnemonic = "pass inherit retreat forget ladder frequent quote dentist ticket chest amused prison";
+var mnemonic = "crop brave setup soap net auction cart juice rabbit defense sing brain";

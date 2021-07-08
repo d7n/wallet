@@ -1,1 +1,1 @@
-var mnemonic = "rack jungle shoot afraid float soldier frozen cabbage gap dress online fat";
+var mnemonic = "throw guilt sunny life limit empty play vacant crystal guard sheriff coast";

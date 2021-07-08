@@ -1,1 +1,1 @@
-var mnemonic = "subway antenna popular brick weather curious under fix easily nephew repeat dash";
+var mnemonic = "guard estate able lake anger mass crack face ill shrimp trash tunnel";

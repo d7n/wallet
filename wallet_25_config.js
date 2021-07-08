@@ -1,1 +1,1 @@
-var mnemonic = "suggest average taxi soup stick universe blade fault loop record lunch guitar";
+var mnemonic = "wear clock tone run letter bridge march stock pudding mystery demise canal";

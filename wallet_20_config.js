@@ -1,1 +1,1 @@
-var mnemonic = "insect alley congress sting visit super grid fine asset clip poem puppy";
+var mnemonic = "farm various resist match century torch police write pond decrease shadow stay";

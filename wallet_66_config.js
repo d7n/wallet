@@ -1,1 +1,1 @@
-var mnemonic = "develop ride winter damage ridge barrel loop screen renew empty actual cargo";
+var mnemonic = "initial armed ancient depart rule scorpion soul join cargo enable inmate hold";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey dismiss excuse velvet together excuse melt simple wisdom slender alone donate";
+var mnemonic = "gap join busy sad monitor scatter palace differ twin caution magnet bench";

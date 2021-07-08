@@ -1,1 +1,1 @@
-var mnemonic = "comic nest despair divide priority dose peanut three mix slab oyster cargo";
+var mnemonic = "clutch museum kitten street jacket when pelican sketch around salon piece cube";

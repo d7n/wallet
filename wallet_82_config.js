@@ -1,1 +1,1 @@
-var mnemonic = "service retreat artist pudding trick coffee cross episode crazy dance much move";
+var mnemonic = "weekend cluster later cliff lazy grit happy slam quiz north raise mom";

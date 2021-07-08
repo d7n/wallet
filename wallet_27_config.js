@@ -1,1 +1,1 @@
-var mnemonic = "dentist entry twin settle jump nothing expire warrior collect embark eternal cement";
+var mnemonic = "fade burden plastic fringe call side lizard alley brave save same grant";

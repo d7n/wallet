@@ -1,1 +1,1 @@
-var mnemonic = "utility salute provide toddler earth camera urge valid hundred rude fetch kitchen";
+var mnemonic = "brief layer owner fruit clean same frozen indoor course own price hub";

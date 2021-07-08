@@ -1,1 +1,1 @@
-var mnemonic = "sense book quote mechanic zoo forward zebra rib decorate camera lonely shaft";
+var mnemonic = "rack bridge crazy ketchup solve depend flight gloom also play wrestle border";

@@ -1,1 +1,1 @@
-var mnemonic = "web sausage width wine churn visa aunt alter solve number verb kingdom";
+var mnemonic = "ritual surround fluid remove giraffe bronze settle have enforce alcohol logic wave";

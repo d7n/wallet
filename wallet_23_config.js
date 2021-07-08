@@ -1,1 +1,1 @@
-var mnemonic = "whale floor zoo divide blue degree humor coach deliver combine speed success";
+var mnemonic = "obvious abstract rule talk bounce brief object rare kangaroo funny sell blind";

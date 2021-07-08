@@ -1,1 +1,1 @@
-var mnemonic = "choose neither pen merit innocent beef ladder borrow tooth horror region devote";
+var mnemonic = "suspect present home hurt canvas sphere result couple portion try raise undo";

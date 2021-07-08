@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow enroll bird genre cup there run into trick moral price design";
+var mnemonic = "struggle crop magic vehicle pistol defense tail decrease resemble flag grocery diet";

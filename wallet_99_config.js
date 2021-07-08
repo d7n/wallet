@@ -1,1 +1,1 @@
-var mnemonic = "cancel forget verb someone brown velvet brown avocado certain icon almost immense";
+var mnemonic = "dinner civil emerge vibrant acid jelly tiny icon random finish step pistol";

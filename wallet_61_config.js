@@ -1,1 +1,1 @@
-var mnemonic = "turn urban age talent guard hub athlete canal develop duty rocket sing";
+var mnemonic = "lonely action attack stay else jaguar drill uncover injury bachelor actor topple";

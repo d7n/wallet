@@ -1,1 +1,1 @@
-var mnemonic = "expect gauge vacuum direct blast flash benefit hire air oyster fine mosquito";
+var mnemonic = "chuckle category kitchen museum skate flower attract fever alien neck consider novel";

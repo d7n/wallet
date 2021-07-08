@@ -1,1 +1,1 @@
-var mnemonic = "vendor shallow crisp minimum curve cable lift club sting deer end reunion";
+var mnemonic = "excess hamster today sword warrior clutch valley fault over lawsuit donate boost";

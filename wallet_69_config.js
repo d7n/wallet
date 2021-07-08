@@ -1,1 +1,1 @@
-var mnemonic = "entry fine demise dash print torch spoon excite alarm manage captain retreat";
+var mnemonic = "burden smooth side draw consider walnut want dinner rough result young crane";

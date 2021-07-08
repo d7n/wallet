@@ -1,1 +1,1 @@
-var mnemonic = "first doctor jazz stage alien royal code expire afraid element maze eager";
+var mnemonic = "theory steel goddess flight exist blur deliver stick gloom work winner remind";

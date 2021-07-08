@@ -1,1 +1,1 @@
-var mnemonic = "embody globe riot access marriage lady junk acid woman logic artefact opera";
+var mnemonic = "dismiss tail weasel vehicle invest next diary tower sorry owner envelope lawn";

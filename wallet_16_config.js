@@ -1,1 +1,1 @@
-var mnemonic = "warm grocery fatigue practice doll lonely used fit venue cram million diagram";
+var mnemonic = "height decorate cinnamon amateur organ loan dream october crystal coast actress swallow";

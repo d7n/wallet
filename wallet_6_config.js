@@ -1,1 +1,1 @@
-var mnemonic = "net atom slush soon pattern grace hazard sister snake gospel reflect bless";
+var mnemonic = "pipe gloom symbol crowd arm direct squeeze unaware perfect recycle open blanket";

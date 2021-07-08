@@ -1,1 +1,1 @@
-var mnemonic = "film float sadness floor end interest elite rubber stool hurt weekend frequent";
+var mnemonic = "destroy fruit swarm trophy sea two carbon magnet access cool artist torch";

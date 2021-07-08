@@ -1,1 +1,1 @@
-var mnemonic = "drama six journey method assist lab fog lake clutch canal strategy current";
+var mnemonic = "primary solution bean depth person twice carbon domain motor there warrior puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "team diamond never board lyrics ordinary regular glare attitude reflect exotic people";
+var mnemonic = "fire creek steak salon zoo demand angle prize eight confirm glass shrug";

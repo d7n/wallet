@@ -1,1 +1,1 @@
-var mnemonic = "unfold ankle bulb salute demand tower vocal term trouble blood alcohol exchange";
+var mnemonic = "duty maximum ill install cycle solution jelly matrix yard output marriage soul";

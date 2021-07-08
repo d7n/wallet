@@ -1,1 +1,1 @@
-var mnemonic = "young saddle lunar anger talk vessel usage filter trouble atom material retire";
+var mnemonic = "net betray ribbon much finger bundle crater pill oppose pupil arrest attitude";

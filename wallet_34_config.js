@@ -1,1 +1,1 @@
-var mnemonic = "satoshi giant derive effort palace drink cool chase abstract frown cushion require";
+var mnemonic = "emotion unfair dune record obscure quantum dress crumble piano already inquiry squirrel";

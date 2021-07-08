@@ -1,1 +1,1 @@
-var mnemonic = "tower juice argue grief bacon parade toss twenty mix diagram artist example";
+var mnemonic = "veteran minimum wonder artwork bamboo cute someone budget diagram bench similar sort";

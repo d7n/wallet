@@ -1,1 +1,1 @@
-var mnemonic = "bottom clip choose camp crystal wealth rally hill cave drop emerge circle";
+var mnemonic = "toast dog visual false pool mixture hard nothing frown lens exhibit sphere";

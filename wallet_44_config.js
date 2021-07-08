@@ -1,1 +1,1 @@
-var mnemonic = "chapter radar walk miracle unit web mix fatal claim control muscle history";
+var mnemonic = "ivory miracle monster attract clip season happy scene panel quiz noodle dish";

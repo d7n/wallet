@@ -1,1 +1,1 @@
-var mnemonic = "half romance loop apology oblige horror tell cycle okay brisk minor leader";
+var mnemonic = "immense just above silly order amateur record allow chicken across seat unfold";

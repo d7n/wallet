@@ -1,1 +1,1 @@
-var mnemonic = "swallow catch snap nephew finish thumb walnut hip useful initial jump garage";
+var mnemonic = "depend yellow frog trouble snow junk reopen any approve crane always aim";

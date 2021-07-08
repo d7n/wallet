@@ -1,1 +1,1 @@
-var mnemonic = "machine verb siege raccoon toe firm advance category law film pigeon matrix";
+var mnemonic = "arctic cry increase dignity write buddy peasant quarter dial sadness business wire";

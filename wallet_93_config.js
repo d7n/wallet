@@ -1,1 +1,1 @@
-var mnemonic = "uncover kid screen open cream zero twist envelope reunion ostrich tonight walk";
+var mnemonic = "village digital throw small loan valid spider describe pepper blast guard song";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi tip eager smoke desert peanut adult term few tourist weather toilet";
+var mnemonic = "blood volcano critic smooth winter disagree similar length tumble sauce mass weapon";

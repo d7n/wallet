@@ -1,1 +1,1 @@
-var mnemonic = "wing come expose provide odor puzzle salute talent million ripple vault tackle";
+var mnemonic = "shallow raccoon veteran farm capital task decide capital odor virtual timber wash";

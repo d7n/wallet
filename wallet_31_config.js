@@ -1,1 +1,1 @@
-var mnemonic = "century jaguar afraid jungle asset love chase syrup tackle swarm desk motion";
+var mnemonic = "modify apart subject ignore mechanic apology answer moral pole crazy pilot acid";

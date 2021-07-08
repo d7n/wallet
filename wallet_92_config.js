@@ -1,1 +1,1 @@
-var mnemonic = "nurse video field stuff child giraffe leg assault method taste rug now";
+var mnemonic = "hurt tissue uniform middle ivory chicken hurdle proud sock potato transfer kitchen";

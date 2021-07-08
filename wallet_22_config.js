@@ -1,1 +1,1 @@
-var mnemonic = "note candy unlock anxiety swap once render coach dry verify poem net";
+var mnemonic = "license question pencil account immense vendor mom actual tomorrow oblige prefer electric";

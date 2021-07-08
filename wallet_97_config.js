@@ -1,1 +1,1 @@
-var mnemonic = "smoke echo exile palace two nose rhythm carbon gown desk innocent donor";
+var mnemonic = "resource option immense drip helmet hedgehog forward aunt excite knife wood perfect";

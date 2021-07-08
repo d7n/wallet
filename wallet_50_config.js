@@ -1,1 +1,1 @@
-var mnemonic = "width large jungle portion joy jungle question degree hungry topic sand debate";
+var mnemonic = "marriage author deputy kitten brief above twist bean trade payment teach auto";

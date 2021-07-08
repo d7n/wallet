@@ -1,1 +1,1 @@
-var mnemonic = "skate damage win shoulder cause water clarify card night forum arena able";
+var mnemonic = "hold ghost oxygen mobile junk gap elder like wise glimpse thank feed";

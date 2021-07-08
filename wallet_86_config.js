@@ -1,1 +1,1 @@
-var mnemonic = "bus basket quick divide century possible enrich artist enlist vendor super have";
+var mnemonic = "edge stairs license angle unfair famous trade between vocal evil cake share";

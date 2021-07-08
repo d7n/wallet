@@ -1,1 +1,1 @@
-var mnemonic = "clarify pole material person wrap pencil cruel cake visit glad tube century";
+var mnemonic = "feature sock solar ten identify mule favorite prison evil text zone slice";

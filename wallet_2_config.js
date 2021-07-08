@@ -1,1 +1,1 @@
-var mnemonic = "wrong country wagon birth service pact behave pair truly desert unveil truck";
+var mnemonic = "sniff riot ski pulse bless skirt decline catch elephant reward brisk exhibit";

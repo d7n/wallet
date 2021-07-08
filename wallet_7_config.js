@@ -1,1 +1,1 @@
-var mnemonic = "world cycle snap always cycle movie cover kiss best horse lesson climb";
+var mnemonic = "thought twin suit pool viable attitude digital squirrel shiver script shiver short";

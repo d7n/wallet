@@ -1,1 +1,1 @@
-var mnemonic = "teach scan drastic clutch beef call bacon divide cinnamon candy night pause";
+var mnemonic = "dismiss rapid churn exclude display narrow hole game humble sorry chapter skin";

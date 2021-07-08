@@ -1,1 +1,1 @@
-var mnemonic = "devote exact fame enough island lounge jungle top town slender benefit inflict";
+var mnemonic = "coyote rate sauce grape camera panic three involve wheat happy lady whale";

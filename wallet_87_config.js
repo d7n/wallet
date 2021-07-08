@@ -1,1 +1,1 @@
-var mnemonic = "ahead change essence blind inside wood together hope night transfer crack blood";
+var mnemonic = "fall twist kiss oblige advice dwarf crawl salt pledge style ripple planet";

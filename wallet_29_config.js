@@ -1,1 +1,1 @@
-var mnemonic = "source wave cradle symptom pen carpet hospital mixture identify enemy spatial boy";
+var mnemonic = "outside fancy alter clever lawn kitchen tenant festival spread brisk action gesture";

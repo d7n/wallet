@@ -1,1 +1,1 @@
-var mnemonic = "churn tunnel noise dwarf chef claim negative assume chicken sword garden belt";
+var mnemonic = "eagle jump universe error correct purchase crouch solar today purchase rocket van";
