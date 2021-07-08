@@ -1,1 +1,1 @@
-var mnemonic = "virtual cabin fork roof nature pool range fuel consider smile calm regret";
+var mnemonic = "sting mask target cause turn pause guitar rhythm recipe rival slogan future";

@@ -1,1 +1,1 @@
-var mnemonic = "fade vault make swift nuclear slide crunch hover lava prison angry heart";
+var mnemonic = "team diamond never board lyrics ordinary regular glare attitude reflect exotic people";

@@ -1,1 +1,1 @@
-var mnemonic = "that water help surround sound consider job maximum cargo fatal capital hood";
+var mnemonic = "prosper sauce envelope casual outer caught skate inform feel side outdoor unfair";

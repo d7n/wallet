@@ -1,1 +1,1 @@
-var mnemonic = "apart zone hazard stool fresh december accident rival kidney laundry pipe gorilla";
+var mnemonic = "cluster brick clap awkward sell boss crystal brave control light industry enact";

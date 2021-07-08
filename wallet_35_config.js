@@ -1,1 +1,1 @@
-var mnemonic = "agree marble conduct coin snake gold bottom soccer humor senior club pioneer";
+var mnemonic = "strong expect repeat file home desert wide beyond execute snap congress market";

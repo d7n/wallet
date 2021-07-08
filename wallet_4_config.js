@@ -1,1 +1,1 @@
-var mnemonic = "wasp virus antique owner promote truck garlic snap emerge such novel mix";
+var mnemonic = "embody globe riot access marriage lady junk acid woman logic artefact opera";

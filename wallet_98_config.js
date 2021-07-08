@@ -1,1 +1,1 @@
-var mnemonic = "oxygen expect inner hybrid flower update debris people mutual biology what pen";
+var mnemonic = "vendor shallow crisp minimum curve cable lift club sting deer end reunion";

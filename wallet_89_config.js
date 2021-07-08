@@ -1,1 +1,1 @@
-var mnemonic = "lamp divert betray rigid select gift ensure tent clip nature lesson scout";
+var mnemonic = "expose hover basic slush cradle clutch asthma fatal visual expire before snack";

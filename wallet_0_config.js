@@ -1,1 +1,1 @@
-var mnemonic = "mistake movie vital interest enact kite inner height acid auto flee auction";
+var mnemonic = "sport science rival theme harvest nuclear state group include family until report";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran try hybrid winter upset autumn fun eyebrow rotate donkey local ice";
+var mnemonic = "theory daring media bubble unlock news veteran thumb orphan elegant culture fade";

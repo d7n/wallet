@@ -1,1 +1,1 @@
-var mnemonic = "crisp still century oil program glow comic human tourist drip release business";
+var mnemonic = "warm grocery fatigue practice doll lonely used fit venue cram million diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "mean alter inform expand swim genuine industry industry section evoke wise machine";
+var mnemonic = "truck virus love cash what glory only crucial dutch quarter happy steak";

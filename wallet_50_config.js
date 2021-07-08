@@ -1,1 +1,1 @@
-var mnemonic = "coffee canvas jaguar runway same change coral grape shield want sponsor limit";
+var mnemonic = "width large jungle portion joy jungle question degree hungry topic sand debate";

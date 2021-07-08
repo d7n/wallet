@@ -1,1 +1,1 @@
-var mnemonic = "ivory that track essay hollow oval mesh banana remain answer river guess";
+var mnemonic = "walk begin sketch loyal hybrid advice notice scrub head slush open caught";

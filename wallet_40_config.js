@@ -1,1 +1,1 @@
-var mnemonic = "chicken eye hurdle jealous twice document render hotel thank bar adapt supply";
+var mnemonic = "behind strategy scale text kite truly spell draft drop woman amateur room";

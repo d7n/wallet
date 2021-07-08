@@ -1,1 +1,1 @@
-var mnemonic = "talent album team exchange coral gown effort hour crop ugly balance uncover";
+var mnemonic = "tower juice argue grief bacon parade toss twenty mix diagram artist example";

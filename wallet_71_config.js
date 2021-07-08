@@ -1,1 +1,1 @@
-var mnemonic = "toast arrow swift rebuild cup net early wife weapon assault goat pumpkin";
+var mnemonic = "erupt system alter session acoustic adjust trigger custom ritual olive liberty cruise";

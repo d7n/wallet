@@ -1,1 +1,1 @@
-var mnemonic = "mask adjust mystery drama wire harbor connect voice theory summer organ spell";
+var mnemonic = "teach enable wild saddle wrist hub early citizen swallow tattoo bright hero";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder cabin copy wrestle material cargo animal frost portion wheel nothing caution";
+var mnemonic = "matter swim another list pulse maid alley client stand dust sing blame";

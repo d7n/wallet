@@ -1,1 +1,1 @@
-var mnemonic = "antenna physical enforce roast gadget dignity orphan inform panther cruise jealous edit";
+var mnemonic = "web sausage width wine churn visa aunt alter solve number verb kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse text brush brisk warm local family wood chicken memory climb castle";
+var mnemonic = "mobile three digital saddle kiwi oppose indicate tongue bridge orient joy increase";

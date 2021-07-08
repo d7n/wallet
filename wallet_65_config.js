@@ -1,1 +1,1 @@
-var mnemonic = "sock tank obey thumb actor secret crystal suffer lunch olive scatter course";
+var mnemonic = "rack jungle shoot afraid float soldier frozen cabbage gap dress online fat";

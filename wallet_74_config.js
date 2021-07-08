@@ -1,1 +1,1 @@
-var mnemonic = "luxury chuckle mirror tank screen wave order what attend snake ketchup world";
+var mnemonic = "young saddle lunar anger talk vessel usage filter trouble atom material retire";

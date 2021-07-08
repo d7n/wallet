@@ -1,1 +1,1 @@
-var mnemonic = "edit crazy female old zoo crawl super please fresh junk party match";
+var mnemonic = "medal master law fire youth nurse shell slam double fish route enjoy";

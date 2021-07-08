@@ -1,1 +1,1 @@
-var mnemonic = "enter upset rare brother news card coin scrub isolate skirt hill wash";
+var mnemonic = "half romance loop apology oblige horror tell cycle okay brisk minor leader";

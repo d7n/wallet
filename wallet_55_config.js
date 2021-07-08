@@ -1,1 +1,1 @@
-var mnemonic = "remove outside hawk govern miracle drink word milk path moon gun veteran";
+var mnemonic = "farm lecture amazing narrow mom pumpkin upgrade clip resist safe coast nest";

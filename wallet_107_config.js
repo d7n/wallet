@@ -1,1 +1,1 @@
-var mnemonic = "unlock uphold elevator simple rib mercy disease entry steak width kiss text";
+var mnemonic = "trial matrix kangaroo elite arrow elephant clap cupboard veteran hip burden devote";

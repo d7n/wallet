@@ -1,1 +1,1 @@
-var mnemonic = "anger fiber whisper fragile stable confirm series guard carpet report mobile diary";
+var mnemonic = "skate damage win shoulder cause water clarify card night forum arena able";

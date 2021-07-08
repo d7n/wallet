@@ -1,1 +1,1 @@
-var mnemonic = "rather adult pull sand lyrics eye test timber dilemma kiss surface palace";
+var mnemonic = "ill decorate glance rule disorder stem flip write broccoli music quote hat";

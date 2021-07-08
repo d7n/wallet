@@ -1,1 +1,1 @@
-var mnemonic = "shoulder ask pet proud scrap protect pond exist column pull memory live";
+var mnemonic = "develop ride winter damage ridge barrel loop screen renew empty actual cargo";

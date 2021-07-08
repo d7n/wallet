@@ -1,1 +1,1 @@
-var mnemonic = "embody defense tobacco scout inject glad injury roof lucky step tent rate";
+var mnemonic = "cake craft parade wink couch situate rack aware buzz dentist category sugar";

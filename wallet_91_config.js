@@ -1,1 +1,1 @@
-var mnemonic = "help depend tag fox banner intact movie ozone valid animal veteran glow";
+var mnemonic = "expect gauge vacuum direct blast flash benefit hire air oyster fine mosquito";

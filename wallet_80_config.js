@@ -1,1 +1,1 @@
-var mnemonic = "space decline message exile sock potato lonely negative velvet dice remember size";
+var mnemonic = "rural banana rather topic two sign cat delay bid announce surge exit";

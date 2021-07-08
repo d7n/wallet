@@ -1,1 +1,1 @@
-var mnemonic = "soldier lake tide fame letter trigger bid long bike wasp ill sorry";
+var mnemonic = "assume present tonight april priority tragic pretty birth butter honey chicken ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "spot waste frost surface provide cabbage federal detect effort beef palace check";
+var mnemonic = "wing come expose provide odor puzzle salute talent million ripple vault tackle";

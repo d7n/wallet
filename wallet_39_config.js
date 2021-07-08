@@ -1,1 +1,1 @@
-var mnemonic = "biology light spot moral mistake share axis enrich foam loyal power aisle";
+var mnemonic = "intact good allow viable change ticket twin outside sauce genius accident core";

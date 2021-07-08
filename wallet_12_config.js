@@ -1,1 +1,1 @@
-var mnemonic = "neither middle auction pluck grief license exhaust jeans material actor sphere web";
+var mnemonic = "garlic tape blur soccer similar this cigar tide faith elder rifle admit";

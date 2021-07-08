@@ -1,1 +1,1 @@
-var mnemonic = "upset diagram wolf alarm pact energy tide silent hard wear slow coral";
+var mnemonic = "frame tuna elephant exhibit code price modify wire term limit old curtain";

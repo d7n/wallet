@@ -1,1 +1,1 @@
-var mnemonic = "very giraffe valid noble april hockey green immune material scatter risk comfort";
+var mnemonic = "note candy unlock anxiety swap once render coach dry verify poem net";

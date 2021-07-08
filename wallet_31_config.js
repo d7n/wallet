@@ -1,1 +1,1 @@
-var mnemonic = "unknown crush infant equip before exhibit increase sniff moon screen pact volume";
+var mnemonic = "century jaguar afraid jungle asset love chase syrup tackle swarm desk motion";

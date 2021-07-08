@@ -1,1 +1,1 @@
-var mnemonic = "ignore medal leopard coconut spend resemble repeat churn vital inflict hold fantasy";
+var mnemonic = "source wave cradle symptom pen carpet hospital mixture identify enemy spatial boy";

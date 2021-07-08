@@ -1,1 +1,1 @@
-var mnemonic = "nurse student bunker usage blind attract radar sun now shock gift insect";
+var mnemonic = "fuel video mobile urge tornado garment morning ability ship soup ramp ivory";

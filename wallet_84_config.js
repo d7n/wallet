@@ -1,1 +1,1 @@
-var mnemonic = "artist script margin spy toddler bomb similar abandon unfair dish model cycle";
+var mnemonic = "angle truck famous copy purpose aerobic riot pony unfold prevent ocean document";

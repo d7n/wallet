@@ -1,1 +1,1 @@
-var mnemonic = "silly myth negative such hurdle surge album spoil match season ticket satisfy";
+var mnemonic = "news shoulder remember cigar language unusual kidney will panther myself soldier moral";

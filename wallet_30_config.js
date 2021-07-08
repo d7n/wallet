@@ -1,1 +1,1 @@
-var mnemonic = "invite burger body pulse novel tray outdoor humor frown fade shrimp permit";
+var mnemonic = "teach scan drastic clutch beef call bacon divide cinnamon candy night pause";

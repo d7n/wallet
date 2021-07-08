@@ -1,1 +1,1 @@
-var mnemonic = "person ecology empty universe sister spell donkey swift market oppose exhaust viable";
+var mnemonic = "fly gaze dog divorce glad similar forward rack exercise struggle deliver radio";

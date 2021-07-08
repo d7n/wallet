@@ -1,1 +1,1 @@
-var mnemonic = "door wing globe trouble middle place south interest vessel round avoid genuine";
+var mnemonic = "toilet crazy royal coral change tape pass fat innocent horse typical drink";

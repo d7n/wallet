@@ -1,1 +1,1 @@
-var mnemonic = "jaguar ship useful tilt diet giant better stand drastic party disagree sock";
+var mnemonic = "ahead change essence blind inside wood together hope night transfer crack blood";

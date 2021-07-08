@@ -1,1 +1,1 @@
-var mnemonic = "mechanic pen duck quarter material shy culture sphere jump trouble annual truth";
+var mnemonic = "entry fine demise dash print torch spoon excite alarm manage captain retreat";

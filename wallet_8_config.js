@@ -1,1 +1,1 @@
-var mnemonic = "bounce omit aunt cart priority prison spider field elephant toy hand army";
+var mnemonic = "enact vendor tide impulse market unable dwarf mother clip tape urban soul";

@@ -1,1 +1,1 @@
-var mnemonic = "pink panther census season evidence thank mention obey ginger shop position minimum";
+var mnemonic = "machine verb siege raccoon toe firm advance category law film pigeon matrix";

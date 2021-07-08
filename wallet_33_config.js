@@ -1,1 +1,1 @@
-var mnemonic = "bring tornado globe hunt derive erode range rent child fame delay side";
+var mnemonic = "hybrid couple invest season address safe genius such clarify must salute enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "chief horror spot jewel derive toe fun panel wolf muscle example bag";
+var mnemonic = "veteran mansion beach tumble spice keen curtain expire bronze sphere latin observe";

@@ -1,1 +1,1 @@
-var mnemonic = "very because burden ankle alien float fluid utility demand artist turtle wrist";
+var mnemonic = "uncover kid screen open cream zero twist envelope reunion ostrich tonight walk";

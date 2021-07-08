@@ -1,1 +1,1 @@
-var mnemonic = "sea baby team online broom evolve faith accuse buffalo supreme black that";
+var mnemonic = "rain shoulder load chronic pole vote write glare shadow piece chaos earn";

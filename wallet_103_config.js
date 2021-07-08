@@ -1,1 +1,1 @@
-var mnemonic = "mammal mother couch echo destroy cabbage memory speak prize clog smoke tag";
+var mnemonic = "utility salute provide toddler earth camera urge valid hundred rude fetch kitchen";

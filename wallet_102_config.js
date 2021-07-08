@@ -1,1 +1,1 @@
-var mnemonic = "expire identify dove inch rely vicious lawsuit analyst summer spawn enrich moral";
+var mnemonic = "light firm slide change what position blade coconut fall pulse more attitude";

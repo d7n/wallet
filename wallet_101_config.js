@@ -1,1 +1,1 @@
-var mnemonic = "wheat blur congress wish unhappy response sword verb develop first robust adjust";
+var mnemonic = "taxi tip eager smoke desert peanut adult term few tourist weather toilet";

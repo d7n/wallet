@@ -1,1 +1,1 @@
-var mnemonic = "echo fury bracket purchase hire use gasp they bind rib autumn then";
+var mnemonic = "voice angle sketch winter swallow wish nation final still license water mountain";

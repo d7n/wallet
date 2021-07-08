@@ -1,1 +1,1 @@
-var mnemonic = "canal foster pond tattoo recall weird congress audit canal demise canoe surge";
+var mnemonic = "eyebrow enroll bird genre cup there run into trick moral price design";

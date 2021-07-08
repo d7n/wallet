@@ -1,1 +1,1 @@
-var mnemonic = "canyon give glow noble snow hair all veteran lock bind leg among";
+var mnemonic = "unfold ankle bulb salute demand tower vocal term trouble blood alcohol exchange";

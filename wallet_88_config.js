@@ -1,1 +1,1 @@
-var mnemonic = "describe angry fault cricket bless stem prize survey future check mystery stage";
+var mnemonic = "immune mechanic lemon push hair uncover issue ridge remember great canoe uncover";

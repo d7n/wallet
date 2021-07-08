@@ -1,1 +1,1 @@
-var mnemonic = "found coin street flock select crouch steak media high match describe tiny";
+var mnemonic = "devote exact fame enough island lounge jungle top town slender benefit inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware pony room chapter cake nominee lift axis inflict ordinary crystal rude";
+var mnemonic = "churn tunnel noise dwarf chef claim negative assume chicken sword garden belt";

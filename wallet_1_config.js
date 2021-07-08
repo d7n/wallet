@@ -1,1 +1,1 @@
-var mnemonic = "fancy dinner innocent circle midnight raccoon eager situate lava enough physical tray";
+var mnemonic = "easy over finish grocery front hill clutch move label pride drama super";

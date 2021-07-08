@@ -1,1 +1,1 @@
-var mnemonic = "fruit destroy reform case volcano faint list toy book mushroom onion inner";
+var mnemonic = "soccer burger puzzle start victory horror juice position project rescue arrest endorse";

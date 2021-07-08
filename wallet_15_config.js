@@ -1,1 +1,1 @@
-var mnemonic = "carpet sheriff cotton bag swarm across fury anger umbrella slight start deputy";
+var mnemonic = "clarify pole material person wrap pencil cruel cake visit glad tube century";

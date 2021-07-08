@@ -1,1 +1,1 @@
-var mnemonic = "coin liar swing rough airport manage start elephant entire whisper weasel goat";
+var mnemonic = "angle oil nurse narrow wild dish damp idle gossip guitar walk hill";

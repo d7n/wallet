@@ -1,1 +1,1 @@
-var mnemonic = "peace twist aware remove tent skill drum world brain beef image flag";
+var mnemonic = "service retreat artist pudding trick coffee cross episode crazy dance much move";

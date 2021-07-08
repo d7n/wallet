@@ -1,1 +1,1 @@
-var mnemonic = "eternal mad spawn settle eagle aim marriage skirt disorder rescue belt orbit";
+var mnemonic = "cancel forget verb someone brown velvet brown avocado certain icon almost immense";

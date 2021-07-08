@@ -1,1 +1,1 @@
-var mnemonic = "they portion also language dynamic ask rude lava spirit useless census junk";
+var mnemonic = "net atom slush soon pattern grace hazard sister snake gospel reflect bless";

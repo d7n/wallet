@@ -1,1 +1,1 @@
-var mnemonic = "world gas face wagon picnic cluster gloom acquire indicate major office blood";
+var mnemonic = "venue private chair moral crop divert cage gospel nothing choice spike novel";

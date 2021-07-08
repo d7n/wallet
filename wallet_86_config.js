@@ -1,1 +1,1 @@
-var mnemonic = "script grass arrow person tuna punch hold soul mystery student heavy board";
+var mnemonic = "bus basket quick divide century possible enrich artist enlist vendor super have";

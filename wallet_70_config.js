@@ -1,1 +1,1 @@
-var mnemonic = "club leopard echo caution neither risk keen sample weasel chaos stage advance";
+var mnemonic = "theme transfer solution vehicle fetch bargain huge flight abandon network hawk cable";

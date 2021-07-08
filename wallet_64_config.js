@@ -1,1 +1,1 @@
-var mnemonic = "tank word copy alley divert pen wagon ice pluck depth shallow begin";
+var mnemonic = "alpha between seat glove humor diagram hybrid drastic carbon regular breeze virus";

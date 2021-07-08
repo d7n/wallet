@@ -1,1 +1,1 @@
-var mnemonic = "belt trouble stock exhaust urge flush wonder nasty animal album pioneer chuckle";
+var mnemonic = "first doctor jazz stage alien royal code expire afraid element maze eager";

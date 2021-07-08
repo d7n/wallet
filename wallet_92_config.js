@@ -1,1 +1,1 @@
-var mnemonic = "believe face require inmate face mule erase width sick snap message erupt";
+var mnemonic = "nurse video field stuff child giraffe leg assault method taste rug now";

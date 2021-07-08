@@ -1,1 +1,1 @@
-var mnemonic = "mad erode child torch violin thing sauce actor jaguar hello air unfair";
+var mnemonic = "subway antenna popular brick weather curious under fix easily nephew repeat dash";

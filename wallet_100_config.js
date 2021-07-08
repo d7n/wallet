@@ -1,1 +1,1 @@
-var mnemonic = "space rough huge apart amused page attitude vibrant wrist give patrol mail";
+var mnemonic = "enact aerobic slam excuse cancel chair flip basket use reopen sight parent";

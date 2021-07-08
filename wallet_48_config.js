@@ -1,1 +1,1 @@
-var mnemonic = "between van sheriff forum hurdle gun zero rubber tunnel digital rather idea";
+var mnemonic = "mother volume scrub general dizzy sick bacon nephew secret sell until cancel";

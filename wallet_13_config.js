@@ -1,1 +1,1 @@
-var mnemonic = "champion bar pulp private leopard whip jelly disease minimum thank plug modify";
+var mnemonic = "comic nest despair divide priority dose peanut three mix slab oyster cargo";

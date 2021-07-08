@@ -1,1 +1,1 @@
-var mnemonic = "account among purchase train twelve exhibit state delay orange health problem spider";
+var mnemonic = "turkey dismiss excuse velvet together excuse melt simple wisdom slender alone donate";

@@ -1,1 +1,1 @@
-var mnemonic = "slot saddle situate science dinner brass body arrow abandon direct cement west";
+var mnemonic = "spoil search talent flock mean rabbit pulse guitar version crisp hope together";

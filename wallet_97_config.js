@@ -1,1 +1,1 @@
-var mnemonic = "uncle october display next inherit artist same genuine slot moral cost eight";
+var mnemonic = "smoke echo exile palace two nose rhythm carbon gown desk innocent donor";

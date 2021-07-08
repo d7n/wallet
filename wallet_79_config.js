@@ -1,1 +1,1 @@
-var mnemonic = "review way core audit ocean antique puzzle reduce plug reward gym goose";
+var mnemonic = "swallow catch snap nephew finish thumb walnut hip useful initial jump garage";

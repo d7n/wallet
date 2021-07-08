@@ -1,1 +1,1 @@
-var mnemonic = "garage indicate castle fire into second program mimic purpose daughter admit dove";
+var mnemonic = "arrow panda burger text fly deputy sister space obscure blouse weather sketch";

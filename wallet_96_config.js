@@ -1,1 +1,1 @@
-var mnemonic = "drip feel diamond gentle saddle bus decade math rough call antique blanket";
+var mnemonic = "various remind swift divert release clay quit employ light side merit turkey";

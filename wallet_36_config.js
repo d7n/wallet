@@ -1,1 +1,1 @@
-var mnemonic = "junior tiger liar thing deliver violin club access employ bitter discover drill";
+var mnemonic = "choose neither pen merit innocent beef ladder borrow tooth horror region devote";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket family start feature fabric that gold example rally tattoo because whisper";
+var mnemonic = "insect alley congress sting visit super grid fine asset clip poem puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "report rent diesel web duck ritual swear melody lock glad interest purity";
+var mnemonic = "whale floor zoo divide blue degree humor coach deliver combine speed success";

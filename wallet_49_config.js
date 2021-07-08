@@ -1,1 +1,1 @@
-var mnemonic = "worry zone square vanish category sail guard foster snack chat thrive survey";
+var mnemonic = "raven lunch edge satoshi craft employ nasty produce slush symptom task brush";

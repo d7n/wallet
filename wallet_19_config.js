@@ -1,1 +1,1 @@
-var mnemonic = "shrimp enhance laptop method shoulder alert jelly tumble kite orphan primary okay";
+var mnemonic = "film float sadness floor end interest elite rubber stool hurt weekend frequent";

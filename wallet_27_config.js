@@ -1,1 +1,1 @@
-var mnemonic = "fee lizard piano recycle crisp monitor captain ability grass pride essence aisle";
+var mnemonic = "dentist entry twin settle jump nothing expire warrior collect embark eternal cement";

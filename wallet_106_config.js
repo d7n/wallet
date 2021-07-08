@@ -1,1 +1,1 @@
-var mnemonic = "subject horn frog mango wagon quit gauge learn aim manage cliff file";
+var mnemonic = "drama six journey method assist lab fog lake clutch canal strategy current";

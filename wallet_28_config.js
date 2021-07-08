@@ -1,1 +1,1 @@
-var mnemonic = "short borrow brother excess mesh rough moon dolphin warm rally ancient surprise";
+var mnemonic = "knee want theory above person cupboard chalk usage biology mango truth erode";

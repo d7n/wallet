@@ -1,1 +1,1 @@
-var mnemonic = "sense battle cradle harsh youth balance multiply struggle bounce heart guide twist";
+var mnemonic = "plug subject student unaware action service silver swarm fantasy plunge shiver wagon";

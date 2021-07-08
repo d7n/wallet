@@ -1,1 +1,1 @@
-var mnemonic = "clever uncle defense vapor ball produce sustain daring drama rhythm ripple toast";
+var mnemonic = "fancy manual snow remove trouble gym camp half flower pistol usual bag";
