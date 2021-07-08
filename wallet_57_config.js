@@ -1,1 +1,1 @@
-var mnemonic = "error one virtual humble iron crunch faint lend pave patient seven possible";
+var mnemonic = "prefer dune minute budget donate guard future fashion yellow network dynamic render";

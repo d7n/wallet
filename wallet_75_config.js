@@ -1,1 +1,1 @@
-var mnemonic = "quality collect trap laugh toddler clutch glad evolve mirror wish walnut keen";
+var mnemonic = "useful menu expose patch cherry deposit butter slim blue season spot bacon";

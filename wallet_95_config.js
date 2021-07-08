@@ -1,1 +1,1 @@
-var mnemonic = "wool cabin car cliff cactus amused service airport civil ribbon kangaroo real";
+var mnemonic = "glad remember off swap carpet spell long foil skill blue fog horror";

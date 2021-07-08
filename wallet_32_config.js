@@ -1,1 +1,1 @@
-var mnemonic = "mix gauge like dinner quote connect absorb street poet item reduce release";
+var mnemonic = "portion conduct across grid calm begin cricket nasty chicken unable afford solar";

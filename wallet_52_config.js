@@ -1,1 +1,1 @@
-var mnemonic = "issue one pen boss reject fix plunge venture analyst fire clarify doll";
+var mnemonic = "absorb mass still demand hurdle coral island enough dwarf sheriff hat equip";

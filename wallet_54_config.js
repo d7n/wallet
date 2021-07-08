@@ -1,1 +1,1 @@
-var mnemonic = "pond faculty imitate embody animal then help gap give knee casino avoid";
+var mnemonic = "brass glimpse sphere curious wing dust blind envelope between hole hundred cotton";

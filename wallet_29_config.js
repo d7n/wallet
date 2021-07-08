@@ -1,1 +1,1 @@
-var mnemonic = "merry arrest purpose just disorder other update patrol tent taste shoulder mind";
+var mnemonic = "edit kitchen pulse resemble question verify between when broccoli avocado depart assist";

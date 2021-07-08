@@ -1,1 +1,1 @@
-var mnemonic = "leaf shaft room three sponsor exclude execute life lobster permit bulb rare";
+var mnemonic = "arm trial victory final core normal recall mushroom small level public tired";

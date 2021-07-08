@@ -1,1 +1,1 @@
-var mnemonic = "water salmon interest drive detect gather wide minor country never bean razor";
+var mnemonic = "iron caught retreat search open boring race recycle picture chunk pet mosquito";

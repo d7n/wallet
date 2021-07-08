@@ -1,1 +1,1 @@
-var mnemonic = "fog nest wedding interest model match jump cheese limit traffic until credit";
+var mnemonic = "acoustic student actor movie gold jaguar assault luxury retreat legal identify credit";

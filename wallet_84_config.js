@@ -1,1 +1,1 @@
-var mnemonic = "effort brain tool call public early any region dinosaur key rebuild issue";
+var mnemonic = "crucial nothing exclude shallow you beyond festival photo ketchup myth battle receive";

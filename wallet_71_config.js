@@ -1,1 +1,1 @@
-var mnemonic = "lift possible vehicle melody below often sadness live system total knee lottery";
+var mnemonic = "legal letter refuse purpose grant normal october home help panda uphold frost";

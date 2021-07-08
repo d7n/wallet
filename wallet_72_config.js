@@ -1,1 +1,1 @@
-var mnemonic = "devote manage uphold another woman portion curtain bus brush ability promote mountain";
+var mnemonic = "trophy mix rich describe foam argue jewel insect example also opera siren";

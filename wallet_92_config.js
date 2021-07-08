@@ -1,1 +1,1 @@
-var mnemonic = "chapter parent ice purpose cloth word become earth novel flower gorilla inside";
+var mnemonic = "wise again shift shoulder siren noise desk angle regret narrow favorite thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "latin crowd dragon able nice legal brand survey creek modify sort diesel";
+var mnemonic = "vicious humble horror medal fiber message phrase stove lawn idea neck picnic";

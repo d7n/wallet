@@ -1,1 +1,1 @@
-var mnemonic = "shiver private illness net mother panic lock offer mobile they solution inch";
+var mnemonic = "glide bleak wing reflect harbor vault prefer rabbit liberty fire between cave";

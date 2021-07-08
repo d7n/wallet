@@ -1,1 +1,1 @@
-var mnemonic = "fox retire doll atom truly that wink list agree ensure vault ten";
+var mnemonic = "predict original vacuum innocent chair valve smart conduct spell eyebrow phrase borrow";

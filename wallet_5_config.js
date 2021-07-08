@@ -1,1 +1,1 @@
-var mnemonic = "vibrant dress brass under benefit render bleak earth mandate chicken math size";
+var mnemonic = "decline accident artist bridge boring eagle hawk opera physical remind item feed";

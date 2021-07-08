@@ -1,1 +1,1 @@
-var mnemonic = "rigid melt visit write tiger float lecture very produce huge artwork force";
+var mnemonic = "suggest license job crowd useless much torch raise come execute void bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "feel have fame dinner edge million cost skull daughter library illegal three";
+var mnemonic = "laugh present access reject ancient cousin story truck inch width mixed unveil";

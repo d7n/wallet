@@ -1,1 +1,1 @@
-var mnemonic = "mule sample brave lonely erosion man act kingdom tennis suggest book excess";
+var mnemonic = "great accident film dizzy pair fit media metal awake desk beyond enter";

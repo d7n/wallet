@@ -1,1 +1,1 @@
-var mnemonic = "twist advice rookie buyer talk best news humble click high weapon celery";
+var mnemonic = "lounge project usage exercise hedgehog someone student shoot sun tooth adapt brother";

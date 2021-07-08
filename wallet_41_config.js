@@ -1,1 +1,1 @@
-var mnemonic = "primary cousin major thought below banana layer gossip match sausage wise surprise";
+var mnemonic = "egg such license broken frequent coconut cram grace urge under label wine";

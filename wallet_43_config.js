@@ -1,1 +1,1 @@
-var mnemonic = "include inner bounce tomato concert cactus budget copper mind swim movie gauge";
+var mnemonic = "cradle later fix onion retire easy major floor shock lecture chief pyramid";

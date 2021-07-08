@@ -1,1 +1,1 @@
-var mnemonic = "virtual attend antique glide pool naive scare knee there improve soap broccoli";
+var mnemonic = "question virtual attack feed deposit pony route square armor mention noodle puzzle";

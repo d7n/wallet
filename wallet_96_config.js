@@ -1,1 +1,1 @@
-var mnemonic = "poverty token sure nest rally south body lonely review stable save deny";
+var mnemonic = "win media minor stool surprise group license crunch subject parrot voice output";

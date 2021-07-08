@@ -1,1 +1,1 @@
-var mnemonic = "dizzy movie mosquito quit love taxi powder raven resemble twin oyster recall";
+var mnemonic = "such peace harsh joke wrap wave setup hour behind elite custom vessel";

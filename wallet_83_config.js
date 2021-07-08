@@ -1,1 +1,1 @@
-var mnemonic = "venture define object faint senior century floor age old cushion pitch brick";
+var mnemonic = "unfold settle purchase winter issue they spell valid tongue street zero box";

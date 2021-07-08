@@ -1,1 +1,1 @@
-var mnemonic = "funny draft purpose disagree theme chalk work bargain museum fiscal scorpion ugly";
+var mnemonic = "grit point animal man uphold battle swear direct measure grid off floor";

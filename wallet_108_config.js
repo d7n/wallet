@@ -1,1 +1,1 @@
-var mnemonic = "term only arena decide excite album useless enlist thrive response blade silent";
+var mnemonic = "wreck mimic castle borrow pole wisdom bronze relief decade sign soap release";

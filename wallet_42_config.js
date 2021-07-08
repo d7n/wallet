@@ -1,1 +1,1 @@
-var mnemonic = "town powder intact sausage pumpkin prison hamster invite able veteran spike sunny";
+var mnemonic = "naive few gym buyer know unusual empower emerge fury shrug outer twin";

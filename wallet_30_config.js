@@ -1,1 +1,1 @@
-var mnemonic = "spot thrive firm another rare load size switch scheme vote ketchup ladder";
+var mnemonic = "hold inherit glory inject dragon genius need obvious caught issue year document";

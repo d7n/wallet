@@ -1,1 +1,1 @@
-var mnemonic = "lecture island barely load bracket animal impulse sight eight limit deliver trumpet";
+var mnemonic = "wrist race language prize clarify carry hill force post crisp luggage trumpet";

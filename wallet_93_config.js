@@ -1,1 +1,1 @@
-var mnemonic = "fence match distance analyst denial tuition tomato worth erode cluster purity bind";
+var mnemonic = "have swear badge wool stereo clap say copper blind exhaust chase outdoor";

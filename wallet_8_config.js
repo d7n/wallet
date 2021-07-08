@@ -1,1 +1,1 @@
-var mnemonic = "inherit surface once hobby sock motor airport across cigar head depart world";
+var mnemonic = "puzzle shift police hammer merge plug upset family snack inherit accident dial";

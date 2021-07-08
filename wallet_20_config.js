@@ -1,1 +1,1 @@
-var mnemonic = "total notice earth giraffe you ship laundry travel observe undo cliff attract";
+var mnemonic = "eight soccer sibling faint razor health state vote please skull marble burst";

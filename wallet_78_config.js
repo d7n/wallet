@@ -1,1 +1,1 @@
-var mnemonic = "smile clerk inspire loud file enter one leave shine carry soon label";
+var mnemonic = "echo couch ankle napkin grow child moment saddle polar left pretty way";

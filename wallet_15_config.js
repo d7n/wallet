@@ -1,1 +1,1 @@
-var mnemonic = "permit dutch diesel goat copy cherry street engage give lesson ladder crazy";
+var mnemonic = "sibling canal turn spatial letter able young pistol mirror nature control hand";

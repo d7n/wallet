@@ -1,1 +1,1 @@
-var mnemonic = "uphold huge brown copy icon prison cat path add effort million bacon";
+var mnemonic = "tuna motion dice shoot tell champion copper two angle wolf outer forget";

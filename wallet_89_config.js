@@ -1,1 +1,1 @@
-var mnemonic = "spread zone capable slam room day win heart riot energy expose crumble";
+var mnemonic = "medal snap list eyebrow exhibit hurt idle goose tape mirror reward cotton";

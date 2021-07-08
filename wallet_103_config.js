@@ -1,1 +1,1 @@
-var mnemonic = "educate cricket news dutch venue anchor october blossom hurt banana float tape";
+var mnemonic = "swift talent twice inject grape truth box mansion explain wrap bid spin";

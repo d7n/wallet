@@ -1,1 +1,1 @@
-var mnemonic = "number desert skate aware velvet error thought pool lawn ripple cupboard feature";
+var mnemonic = "fatal sting trade attract youth cushion twice expect jewel install exotic reject";

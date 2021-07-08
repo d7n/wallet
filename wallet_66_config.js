@@ -1,1 +1,1 @@
-var mnemonic = "trial false quick extend salute dinner plate mirror exact angle coach business";
+var mnemonic = "coconut south gun width miracle pumpkin choose lift child fossil drip quality";

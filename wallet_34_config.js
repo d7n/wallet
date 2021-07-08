@@ -1,1 +1,1 @@
-var mnemonic = "bottom scrap practice top report width betray coral pupil approve edit local";
+var mnemonic = "ready remember biology gauge require loop sweet oppose angry mind any adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest attitude merge olympic rhythm suggest monster embrace hub nest scan rent";
+var mnemonic = "inner ten silver work region phrase attitude figure fatigue flush parent purity";

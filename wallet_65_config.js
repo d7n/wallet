@@ -1,1 +1,1 @@
-var mnemonic = "body album deer husband thunder earth bronze margin rebuild dirt surge like";
+var mnemonic = "pet farm action earth warrior minimum sweet draft dry budget gossip midnight";

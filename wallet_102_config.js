@@ -1,1 +1,1 @@
-var mnemonic = "chunk twice rebel owner broom between urge split embrace liquid flight cruise";
+var mnemonic = "cactus cupboard term lazy throw frame radar dose foster face nerve measure";

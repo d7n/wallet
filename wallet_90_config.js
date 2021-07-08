@@ -1,1 +1,1 @@
-var mnemonic = "anger claim bonus this junk grunt noise spider depend jazz brush nephew";
+var mnemonic = "crack satoshi inspire fetch apology food wool cup artwork march impose vendor";

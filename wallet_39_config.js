@@ -1,1 +1,1 @@
-var mnemonic = "economy travel kingdom canvas poverty long people yellow oxygen tenant acoustic dove";
+var mnemonic = "box stand defy animal crater game robot clutch settle dutch citizen cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "museum seminar pull jealous domain response heavy segment cotton pigeon various organ";
+var mnemonic = "used million fan illness scene mutual detect wheat inquiry day patch shrimp";

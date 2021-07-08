@@ -1,1 +1,1 @@
-var mnemonic = "close bamboo shock aunt helmet repair diamond system utility kite method infant";
+var mnemonic = "job awake reduce maze invite danger tunnel twelve boat card across imitate";

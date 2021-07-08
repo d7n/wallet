@@ -1,1 +1,1 @@
-var mnemonic = "bulk afraid lawsuit fan fit margin force spider bracket neck sun glare";
+var mnemonic = "proof scale midnight athlete fan horror chunk leisure yellow limit renew mixture";

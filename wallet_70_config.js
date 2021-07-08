@@ -1,1 +1,1 @@
-var mnemonic = "leave drum foil deal oven spice upon bleak resource portion diagram effort";
+var mnemonic = "foil genius elbow team girl bone chuckle okay evil guide youth ticket";

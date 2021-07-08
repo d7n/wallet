@@ -1,1 +1,1 @@
-var mnemonic = "acquire cattle dwarf unhappy lizard cargo giggle faculty skull wheat dragon flame";
+var mnemonic = "loan tilt ticket draft tourist junk crash lava fish end radar merge";

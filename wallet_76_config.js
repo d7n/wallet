@@ -1,1 +1,1 @@
-var mnemonic = "swarm sheriff reform picnic film cake recycle rocket rule mention aim lucky";
+var mnemonic = "cloth spy defy march power sponsor sun foil shiver muffin bamboo vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "click gravity resemble confirm forum leave argue table vibrant mammal use drink";
+var mnemonic = "tribe carpet turkey onion draw tube ramp bleak pave recipe shop injury";

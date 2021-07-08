@@ -1,1 +1,1 @@
-var mnemonic = "neutral immune grief umbrella prepare fault drift cover country search erosion poverty";
+var mnemonic = "donate copy runway quick fat advice sibling power gun trust mind cruel";

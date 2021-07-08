@@ -1,1 +1,1 @@
-var mnemonic = "future prize uncle nothing able hammer define worth push glove trap elegant";
+var mnemonic = "spatial alone circle problem spike dismiss salad kiwi pizza exercise pill bring";

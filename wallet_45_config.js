@@ -1,1 +1,1 @@
-var mnemonic = "remind hold size dawn snow example faint wreck issue neither misery want";
+var mnemonic = "pelican bounce kingdom ankle moral snow boss elbow list odor under absurd";

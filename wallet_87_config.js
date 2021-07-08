@@ -1,1 +1,1 @@
-var mnemonic = "slab proof dentist treat devote fever surprise crystal hundred husband theme attract";
+var mnemonic = "attitude control blouse helmet oyster weather gesture wing journey verb volcano film";

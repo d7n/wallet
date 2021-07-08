@@ -1,1 +1,1 @@
-var mnemonic = "guitar boat suffer confirm key anger creek sell bridge minor crumble capital";
+var mnemonic = "require oxygen miracle slow else tell fatal boy dash shrimp uphold catalog";

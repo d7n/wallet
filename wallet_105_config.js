@@ -1,1 +1,1 @@
-var mnemonic = "title endless rate raw auction slab fault size key absorb strike artwork";
+var mnemonic = "mad key whale pride argue monster predict decide coconut neither blade color";

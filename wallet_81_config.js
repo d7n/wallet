@@ -1,1 +1,1 @@
-var mnemonic = "reunion innocent list voice chair public nominee between essay under clever build";
+var mnemonic = "jealous world similar try cat gaze tackle few illness video indoor say";

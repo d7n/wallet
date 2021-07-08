@@ -1,1 +1,1 @@
-var mnemonic = "custom dry depend popular neck rebel decorate already excess cousin slow shift";
+var mnemonic = "blouse wrestle auction mesh crash winner ramp tuition exit release voice poet";

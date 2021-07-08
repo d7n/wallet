@@ -1,1 +1,1 @@
-var mnemonic = "retreat busy into vibrant quick curious cream inhale chronic scorpion sad ghost";
+var mnemonic = "december enroll clap vocal sound bone butter damp logic badge nice tank";

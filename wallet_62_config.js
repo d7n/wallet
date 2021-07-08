@@ -1,1 +1,1 @@
-var mnemonic = "urban all subway shadow state eyebrow tool rifle raise census venture space";
+var mnemonic = "notice teach industry bomb project sausage artefact market wood holiday where upon";

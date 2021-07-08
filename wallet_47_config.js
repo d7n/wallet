@@ -1,1 +1,1 @@
-var mnemonic = "kick pottery cycle combine swim drive damage idle own toward hybrid script";
+var mnemonic = "hen spice head gather paddle omit evolve fame park amused rack uncover";

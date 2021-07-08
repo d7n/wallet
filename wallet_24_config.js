@@ -1,1 +1,1 @@
-var mnemonic = "miracle example hover inquiry pyramid fine budget dragon road equal cash potato";
+var mnemonic = "crop wage orbit cover crime gentle hotel sound melt action sure squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "orient arm duty road winter spend census tiger like puzzle when similar";
+var mnemonic = "august lesson refuse bunker miss equal luggage finger much unit among girl";

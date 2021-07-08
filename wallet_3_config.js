@@ -1,1 +1,1 @@
-var mnemonic = "magnet disorder history town tackle engage cactus menu popular gaze yellow coin";
+var mnemonic = "hero student chapter olympic nice erode health garbage property measure defense include";

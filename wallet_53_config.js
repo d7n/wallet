@@ -1,1 +1,1 @@
-var mnemonic = "card capital negative fluid total venture canal zoo life roast eyebrow ball";
+var mnemonic = "cover spread climb remove fitness frog fossil other youth husband file duck";

@@ -1,1 +1,1 @@
-var mnemonic = "camp humor fashion sustain nut follow reduce onion rib taste rifle surface";
+var mnemonic = "retreat girl bread spider whale shoe that just pony hint drum bus";

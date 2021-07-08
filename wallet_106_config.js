@@ -1,1 +1,1 @@
-var mnemonic = "invite provide nut elder gold raccoon blue skin guess timber believe buzz";
+var mnemonic = "steak trust awesome apple into miss obtain inner universe execute practice can";

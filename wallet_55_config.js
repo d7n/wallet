@@ -1,1 +1,1 @@
-var mnemonic = "guard language stadium picture fun dilemma holiday rifle lemon like cactus flight";
+var mnemonic = "pull blue captain furnace reduce brass business cricket amazing early citizen web";

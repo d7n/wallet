@@ -1,1 +1,1 @@
-var mnemonic = "robot stay keep reflect vehicle include return explain track find trial theory";
+var mnemonic = "sheriff scheme gossip witness sustain minute together ocean donate marriage burger pear";

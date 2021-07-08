@@ -1,1 +1,1 @@
-var mnemonic = "tree life celery holiday degree casino stem consider teach lumber mad beach";
+var mnemonic = "total image artist rotate reflect excite duty final move faith ghost inspire";

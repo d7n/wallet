@@ -1,1 +1,1 @@
-var mnemonic = "armed fox impulse tongue possible mad steel toy pulse topic flush only";
+var mnemonic = "proof horse capable cabbage cross draft enforce medal example frost gloom daughter";

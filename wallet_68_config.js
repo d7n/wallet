@@ -1,1 +1,1 @@
-var mnemonic = "charge cause decade bone edge round avocado radar margin few illegal garment";
+var mnemonic = "sell this portion happy canal asthma museum lock canyon wonder uniform trust";

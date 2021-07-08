@@ -1,1 +1,1 @@
-var mnemonic = "cradle concert couch produce situate fork warfare cross donor display stereo intact";
+var mnemonic = "stamp lion swim retreat mosquito mosquito fix imitate coin ecology order crack";

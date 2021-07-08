@@ -1,1 +1,1 @@
-var mnemonic = "mammal easily enrich upon kite dwarf evoke bread cherry cat almost involve";
+var mnemonic = "sphere learn thunder city exclude favorite unique jazz verify alley negative pink";

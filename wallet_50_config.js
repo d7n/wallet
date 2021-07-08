@@ -1,1 +1,1 @@
-var mnemonic = "dutch rose tooth first grief urban east enact problem gorilla just theory";
+var mnemonic = "return bulk potato isolate unlock cricket confirm inmate cube ripple wisdom travel";

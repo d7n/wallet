@@ -1,1 +1,1 @@
-var mnemonic = "fancy satisfy physical smooth dwarf cliff abstract scrub sniff sick common scan";
+var mnemonic = "glide debate outdoor word traffic vacant food now drastic category bus buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "object below digital lottery mom cabin animal degree skirt federal hope train";
+var mnemonic = "bone middle depth sight certain oblige utility ordinary spirit bulk fatal hello";

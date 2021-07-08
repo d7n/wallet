@@ -1,1 +1,1 @@
-var mnemonic = "salute slice buzz digital artwork calm ocean hazard boy sword fork then";
+var mnemonic = "junior purpose derive vacuum type motion glory ten document grunt hold fancy";

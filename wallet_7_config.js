@@ -1,1 +1,1 @@
-var mnemonic = "jar lady cage diesel sting hurt path fringe simple suspect expect agent";
+var mnemonic = "badge tent hello legal garbage duty whisper lawsuit marriage girl thing wrap";

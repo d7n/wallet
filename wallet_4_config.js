@@ -1,1 +1,1 @@
-var mnemonic = "spike glad glide knock fun endorse divert erupt festival connect heart cup";
+var mnemonic = "day curve volume wrist diary remove sphere remind position resist sleep globe";
