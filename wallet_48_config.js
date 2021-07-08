@@ -1,1 +1,1 @@
-var mnemonic = "dice awful alarm garbage knock disorder crawl hotel open jeans abuse alcohol";
+var mnemonic = "dumb bid creek income myself rigid bubble oxygen charge attend toe endorse";

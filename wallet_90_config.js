@@ -1,1 +1,1 @@
-var mnemonic = "eternal uniform exact thrive delay coil tent salute vocal snow youth soldier";
+var mnemonic = "jungle merit list wish bulk term suit bubble ball trouble heart evoke";

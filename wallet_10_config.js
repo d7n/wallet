@@ -1,1 +1,1 @@
-var mnemonic = "garlic mandate isolate twice twin assault dolphin pulse develop victory human amateur";
+var mnemonic = "empty snap hair promote shove sort agree oblige oxygen sea foam burden";

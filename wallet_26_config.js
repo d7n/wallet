@@ -1,1 +1,1 @@
-var mnemonic = "cluster thought frozen firm false any carry cram agent about vicious record";
+var mnemonic = "clarify assist replace alien olympic runway audit worth sad aware you radar";

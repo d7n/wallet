@@ -1,1 +1,1 @@
-var mnemonic = "bundle poverty focus credit jungle boost layer dance trophy fame nose decrease";
+var mnemonic = "inherit pudding image spring nasty brand core basket abuse pottery image bachelor";

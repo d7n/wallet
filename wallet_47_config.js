@@ -1,1 +1,1 @@
-var mnemonic = "inhale lift coil body gloom adjust dune project solar enjoy switch vacuum";
+var mnemonic = "earn duty rain assault blanket bubble crucial planet biology beef stable flag";

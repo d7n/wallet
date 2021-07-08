@@ -1,1 +1,1 @@
-var mnemonic = "town able pull other blade erase alter train humble trigger scheme palm";
+var mnemonic = "wonder method fragile vote cloud access uncover normal range tone curtain close";

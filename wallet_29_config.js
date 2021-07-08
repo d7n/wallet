@@ -1,1 +1,1 @@
-var mnemonic = "silk saddle grab toe milk risk split tackle mention before manual series";
+var mnemonic = "when matrix deliver ship half flame middle veteran apple cereal shoe mixture";

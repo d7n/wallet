@@ -1,1 +1,1 @@
-var mnemonic = "unhappy project mushroom kangaroo hub napkin donate doctor kidney spice glad fit";
+var mnemonic = "retreat label ready weasel blossom taxi either mail priority range purpose evidence";

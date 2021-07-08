@@ -1,1 +1,1 @@
-var mnemonic = "lunar update board season betray quarter panda analyst coffee pottery neck skate";
+var mnemonic = "industry become dash bargain bomb old shield sport tuition scout blossom fine";

@@ -1,1 +1,1 @@
-var mnemonic = "six negative disease frog steel armor use before cloth topic quote sound";
+var mnemonic = "gift top forest minute solar item pave spin hip spoon monkey flee";

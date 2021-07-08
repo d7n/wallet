@@ -1,1 +1,1 @@
-var mnemonic = "earth settle answer nature heart define split script law together traffic lunch";
+var mnemonic = "festival entire typical romance like lumber bless three obtain comfort husband science";

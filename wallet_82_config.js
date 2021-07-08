@@ -1,1 +1,1 @@
-var mnemonic = "practice force gold garden blade blue runway magnet canyon festival mad bind";
+var mnemonic = "fire fame mention column staff below green polar pride render suffer donate";

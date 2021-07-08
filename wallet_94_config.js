@@ -1,1 +1,1 @@
-var mnemonic = "tilt gasp vague tuna visual flip echo proof female twist enforce spin";
+var mnemonic = "pigeon siege room ostrich credit battle galaxy credit alcohol mango stuff rude";

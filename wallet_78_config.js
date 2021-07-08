@@ -1,1 +1,1 @@
-var mnemonic = "pistol deposit bridge afford crucial tower awake life easily panic cancel stereo";
+var mnemonic = "stand donate radar spin film hill rude force sad arrow fire talk";

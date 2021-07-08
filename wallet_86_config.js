@@ -1,1 +1,1 @@
-var mnemonic = "miracle shell galaxy text cross unusual mandate photo luggage crop develop credit";
+var mnemonic = "drive spare mechanic myth math poet coconut sugar orient tongue one diesel";

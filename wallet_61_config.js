@@ -1,1 +1,1 @@
-var mnemonic = "purse govern able ahead spy hair tray auto clean drop exclude divert";
+var mnemonic = "opinion edge appear purpose smoke comfort now sea seven guide soap door";

@@ -1,1 +1,1 @@
-var mnemonic = "route plunge armed above cart snake mad extend suspect gospel venture tattoo";
+var mnemonic = "mouse divorce secret split rally remove dwarf news hard keen myself menu";

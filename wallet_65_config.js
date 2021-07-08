@@ -1,1 +1,1 @@
-var mnemonic = "fog trick feel gorilla label room ceiling slide wash embark acquire cereal";
+var mnemonic = "wolf method render uphold effort february foster used rice illegal below below";

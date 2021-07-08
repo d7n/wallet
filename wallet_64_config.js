@@ -1,1 +1,1 @@
-var mnemonic = "hamster sniff angry raccoon jewel version speak crop flash glide people stairs";
+var mnemonic = "glance stomach credit lock act camp fee lobster custom work settle vicious";

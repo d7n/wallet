@@ -1,1 +1,1 @@
-var mnemonic = "action must own avocado crash glide once skill word paper banana shine";
+var mnemonic = "thought diary estate short boil clutch ecology worry virtual frozen sound dinosaur";

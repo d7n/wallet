@@ -1,1 +1,1 @@
-var mnemonic = "sense buzz grab gloom fabric flock exact also move measure pet grit";
+var mnemonic = "rotate myth shield front ahead song language multiply whale filter table transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "point answer chair minimum spray bike cave drama divorce book payment lottery";
+var mnemonic = "lazy stone cost company wolf cry arctic bean lumber usage doll doctor";

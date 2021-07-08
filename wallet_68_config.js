@@ -1,1 +1,1 @@
-var mnemonic = "success reunion hand squeeze soul pact artist tape woman already satoshi puzzle";
+var mnemonic = "path morning pool soda tree answer result curious cluster govern rally wreck";

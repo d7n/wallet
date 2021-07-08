@@ -1,1 +1,1 @@
-var mnemonic = "injury wing october weather reward toddler alien cute north cargo couch faint";
+var mnemonic = "include people fee wine story input slice traffic amateur increase economy buzz";

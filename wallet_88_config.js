@@ -1,1 +1,1 @@
-var mnemonic = "cruel course lake spawn learn theme human shield gather tape spice layer";
+var mnemonic = "physical differ jelly river rifle fabric security design cliff eagle dynamic spirit";

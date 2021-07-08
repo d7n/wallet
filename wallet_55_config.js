@@ -1,1 +1,1 @@
-var mnemonic = "onion where hood evidence chuckle attitude pattern orient circle hawk flavor end";
+var mnemonic = "wine deputy crater road erupt response lottery session wave near prevent walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "unit tool device uncle exercise scatter update venue tone fork velvet key";
+var mnemonic = "enhance tell crystal despair wedding pledge feel screen cancel extend pluck power";

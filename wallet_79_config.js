@@ -1,1 +1,1 @@
-var mnemonic = "coconut doctor female swallow amount smart question mouse talent ready cheese ghost";
+var mnemonic = "anxiety eye open reopen asset decrease blush deer enough seed garage enforce";

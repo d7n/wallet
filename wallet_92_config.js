@@ -1,1 +1,1 @@
-var mnemonic = "arrow dizzy payment winner essay crawl mutual repair festival able left near";
+var mnemonic = "process shuffle wear welcome artefact cool trend olympic accident shy spice flight";

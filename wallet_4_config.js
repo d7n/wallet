@@ -1,1 +1,1 @@
-var mnemonic = "mercy aerobic good live prefer account pulse lava bid label very awkward";
+var mnemonic = "possible verify robust spike industry magic spread federal comic choose canal shoot";

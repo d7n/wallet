@@ -1,1 +1,1 @@
-var mnemonic = "cave brisk idea decade quit mind dutch visa next staff spot candy";
+var mnemonic = "armed two sketch grant barely benefit forget galaxy oak gift wheat piano";

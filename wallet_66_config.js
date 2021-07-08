@@ -1,1 +1,1 @@
-var mnemonic = "length snow play want window swallow seminar hamster warfare luxury spirit range";
+var mnemonic = "icon code will high tonight tree innocent orchard potato frame shoe image";

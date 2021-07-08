@@ -1,1 +1,1 @@
-var mnemonic = "certain fine tower miss together alpha model column hundred screen note grant";
+var mnemonic = "lake egg expect thumb angry sight call concert engine social child grow";

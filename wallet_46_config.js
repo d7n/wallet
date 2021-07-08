@@ -1,1 +1,1 @@
-var mnemonic = "tree render soup roof immense knee half leisure empty still again cool";
+var mnemonic = "vital struggle save surface river judge rough undo bounce ripple sister during";

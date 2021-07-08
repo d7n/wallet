@@ -1,1 +1,1 @@
-var mnemonic = "patch surge abuse volcano couch gadget skirt elevator humble spirit ball junk";
+var mnemonic = "dizzy excite best rather fog pony only moral boil cage viable grace";

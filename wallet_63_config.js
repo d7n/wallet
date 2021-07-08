@@ -1,1 +1,1 @@
-var mnemonic = "give unveil found chief discover unlock deer alter sustain forest kit can";
+var mnemonic = "ability tail seek alpha panther chunk thought auto photo sea skill ritual";

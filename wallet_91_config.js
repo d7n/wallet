@@ -1,1 +1,1 @@
-var mnemonic = "grunt cake truth abuse adapt regret thank tell venue mechanic observe update";
+var mnemonic = "vague coconut polar injury drastic wing hawk predict police dirt brave absurd";

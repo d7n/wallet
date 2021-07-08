@@ -1,1 +1,1 @@
-var mnemonic = "myth vacant indicate rate rocket tourist host expand dignity parade salmon viable";
+var mnemonic = "quit jelly quarter primary hole two film cradle cheese woman trigger surge";

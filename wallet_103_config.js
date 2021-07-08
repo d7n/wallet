@@ -1,1 +1,1 @@
-var mnemonic = "secret nurse avocado hedgehog destroy kite later correct loop wrap pig bullet";
+var mnemonic = "employ mansion network february case zoo torch curious base subway ginger strong";

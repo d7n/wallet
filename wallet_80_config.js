@@ -1,1 +1,1 @@
-var mnemonic = "work uphold stairs know found dismiss right shy raven stay crush fetch";
+var mnemonic = "hobby shrimp enrich strategy child occur carry security rice kit spend judge";

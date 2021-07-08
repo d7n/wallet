@@ -1,1 +1,1 @@
-var mnemonic = "famous riot bullet wild today employ crazy found pony forest flame cabbage";
+var mnemonic = "spread gospel hungry claw scout marble three tape crouch inherit weird admit";

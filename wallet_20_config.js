@@ -1,1 +1,1 @@
-var mnemonic = "inform approve emerge abuse claim gap danger size nominee accuse quiz egg";
+var mnemonic = "mention easy leader combine provide habit supply assist crane unfair kangaroo blood";

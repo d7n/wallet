@@ -1,1 +1,1 @@
-var mnemonic = "silk shine kitchen wire extra mountain above adapt deliver glove raven enough";
+var mnemonic = "clerk scrap mixed rhythm delay general craft motor abandon use direct taxi";

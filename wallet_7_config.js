@@ -1,1 +1,1 @@
-var mnemonic = "roof install limb notice middle gain oval silver candy situate truly muffin";
+var mnemonic = "chimney lend coin glow connect forest radar dish syrup word brown unable";

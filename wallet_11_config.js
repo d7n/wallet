@@ -1,1 +1,1 @@
-var mnemonic = "duty cradle spread test include pulse about lock sunny south clever actress";
+var mnemonic = "canyon symptom next caution pulse worry hollow pave toe magic pledge cage";

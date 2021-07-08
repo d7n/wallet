@@ -1,1 +1,1 @@
-var mnemonic = "wonder raven second lounge grass crouch phone omit token business useless urge";
+var mnemonic = "clap sword apple unique series prosper jacket huge initial valley spend settle";

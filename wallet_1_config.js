@@ -1,1 +1,1 @@
-var mnemonic = "grass obtain book question tennis nasty couch indicate page stock renew brand";
+var mnemonic = "lens share major violin leaf employ direct tenant attitude fence blast either";

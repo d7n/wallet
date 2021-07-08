@@ -1,1 +1,1 @@
-var mnemonic = "protect wet acoustic midnight road write erode actor angry grace nice fold";
+var mnemonic = "useless liquid village gloom yard tunnel kind myth category nothing repeat damp";

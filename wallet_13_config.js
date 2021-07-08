@@ -1,1 +1,1 @@
-var mnemonic = "era net dry blast blanket umbrella wreck rocket fine want tragic bounce";
+var mnemonic = "umbrella design habit ill emotion obvious antenna april drill flush parade cheap";

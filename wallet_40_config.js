@@ -1,1 +1,1 @@
-var mnemonic = "battle capital grant similar end crush divert obtain venue key title unit";
+var mnemonic = "manual butter high omit place kite link unfair rose chronic time capital";

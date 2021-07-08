@@ -1,1 +1,1 @@
-var mnemonic = "lecture demand ice length slim admit hub used ribbon credit immense protect";
+var mnemonic = "broken resist mobile thumb define pluck electric title find quote health syrup";

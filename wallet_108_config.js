@@ -1,1 +1,1 @@
-var mnemonic = "tenant this current depart army meat fortune vocal engage cute butter elevator";
+var mnemonic = "donkey comfort govern armed fabric program symbol print desk object ring infant";

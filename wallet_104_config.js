@@ -1,1 +1,1 @@
-var mnemonic = "decorate broken nose youth gas blade end source quantum aspect range already";
+var mnemonic = "east antique finish whisper balcony physical actual private peasant crawl breeze liar";

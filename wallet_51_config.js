@@ -1,1 +1,1 @@
-var mnemonic = "fault census adapt produce used other item decorate movie cargo talent excite";
+var mnemonic = "orphan silver observe actress logic exercise bronze bean comfort boring twist feel";

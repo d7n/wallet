@@ -1,1 +1,1 @@
-var mnemonic = "major laptop subject remain spread puppy action become ocean ethics flame execute";
+var mnemonic = "private slogan melody remain enjoy talk conduct trigger aerobic retire promote again";

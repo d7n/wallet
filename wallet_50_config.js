@@ -1,1 +1,1 @@
-var mnemonic = "print ladder bread dizzy brief faculty female crumble region blue destroy toddler";
+var mnemonic = "gadget endorse cousin phrase all win flavor debris rely unfold need rule";

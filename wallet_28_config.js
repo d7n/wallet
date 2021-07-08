@@ -1,1 +1,1 @@
-var mnemonic = "river wreck expose bulb lab weekend theory smile scare leader ice aspect";
+var mnemonic = "fox dizzy lens warfare typical remove bundle lucky recipe donkey celery cherry";

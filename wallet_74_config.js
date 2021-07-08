@@ -1,1 +1,1 @@
-var mnemonic = "alley coral staff please entry holiday topple mass someone immense other solid";
+var mnemonic = "upgrade immense stadium chaos car seek cause vacuum pretty uniform miracle legend";

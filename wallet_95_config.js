@@ -1,1 +1,1 @@
-var mnemonic = "foam slice more recycle gadget group carpet banner neglect face donkey yellow";
+var mnemonic = "wise scan legal ripple cool twenty nasty trap dinner update knife vapor";

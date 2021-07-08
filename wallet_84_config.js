@@ -1,1 +1,1 @@
-var mnemonic = "stage double stem staff usual enrich honey mention window gold draw people";
+var mnemonic = "salon captain accident ribbon quote grit actress movie point any elegant thank";

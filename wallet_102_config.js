@@ -1,1 +1,1 @@
-var mnemonic = "piano holiday afraid enemy merry effort come cancel neck local worry muffin";
+var mnemonic = "cupboard surprise layer snow draw level raw midnight spirit tuition quit island";

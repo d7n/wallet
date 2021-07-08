@@ -1,1 +1,1 @@
-var mnemonic = "clap tuna coin nut teach fiber myth swallow letter smoke rude crane";
+var mnemonic = "apple mad fat stairs tornado endorse hedgehog warfare use uniform rice pull";

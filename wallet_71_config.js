@@ -1,1 +1,1 @@
-var mnemonic = "iron author carbon merry mandate elegant jump chase skill dirt topic transfer";
+var mnemonic = "expand bargain morning fall fossil hip ride shove glue judge crime settle";

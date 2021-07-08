@@ -1,1 +1,1 @@
-var mnemonic = "tip orange excuse despair exchange staff laugh can double brick era west";
+var mnemonic = "noise monkey ostrich menu relax actor vibrant left behave solve situate bring";

@@ -1,1 +1,1 @@
-var mnemonic = "taste solve jelly warm insect ripple blind accident remember link neither guitar";
+var mnemonic = "wrist resemble swear genre life news wealth aisle chair enroll emotion disease";

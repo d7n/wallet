@@ -1,1 +1,1 @@
-var mnemonic = "dirt stable kangaroo phrase avocado select worth wire birth marble useless group";
+var mnemonic = "receive bean sunny cricket embark coral mean depend argue daring topic candy";

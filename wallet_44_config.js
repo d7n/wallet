@@ -1,1 +1,1 @@
-var mnemonic = "grunt only dentist menu tattoo million roast hollow reject come canvas stick";
+var mnemonic = "announce cigar element subway insect mushroom cupboard adjust gas gravity arrange wide";

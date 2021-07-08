@@ -1,1 +1,1 @@
-var mnemonic = "muscle novel piano approve lift arrive wave thunder bulb enable venue talk";
+var mnemonic = "square indicate spend endless shadow nominee coral trip limit opera below happy";

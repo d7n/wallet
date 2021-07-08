@@ -1,1 +1,1 @@
-var mnemonic = "stone awesome figure obscure human hard loan neutral eternal nephew walnut machine";
+var mnemonic = "diesel day cost stone wing sponsor sight habit sausage panther buzz load";

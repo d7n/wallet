@@ -1,1 +1,1 @@
-var mnemonic = "dash latin meat trip autumn cost ladder erosion cloth pride table top";
+var mnemonic = "viable stone quantum say twice elephant pass law where mass seek walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy gold real hard potato equal company impose addict advice tonight grant";
+var mnemonic = "eyebrow flag item ordinary humor kitten ghost scrap unaware potato physical face";

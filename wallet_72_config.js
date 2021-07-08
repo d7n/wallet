@@ -1,1 +1,1 @@
-var mnemonic = "ship ripple category tattoo quarter then gaze submit atom caution ostrich switch";
+var mnemonic = "pitch venture penalty pact north check absent woman conduct tail tribe creek";

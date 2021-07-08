@@ -1,1 +1,1 @@
-var mnemonic = "list animal rate embark group eager polar shuffle answer danger juice raven";
+var mnemonic = "emerge wonder alien luggage obscure trigger simple dial wagon armed match bulk";

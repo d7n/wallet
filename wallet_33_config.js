@@ -1,1 +1,1 @@
-var mnemonic = "soldier afford danger meadow spy allow brisk noodle wife evolve champion forest";
+var mnemonic = "abandon benefit cement remind fit outdoor diet draft creek pink milk skin";

@@ -1,1 +1,1 @@
-var mnemonic = "host awkward reveal cover embody slight sudden copy unveil sort express conduct";
+var mnemonic = "neck excuse indoor tent result smoke mom bind decline differ conduct maple";

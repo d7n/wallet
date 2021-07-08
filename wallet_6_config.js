@@ -1,1 +1,1 @@
-var mnemonic = "gas execute movie breeze trade struggle movie vocal parade basic pear measure";
+var mnemonic = "toilet give donor office title bright umbrella frame face atom season blanket";

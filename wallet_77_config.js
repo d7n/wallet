@@ -1,1 +1,1 @@
-var mnemonic = "swear hero october daring toy setup chalk sting pen rubber apology artwork";
+var mnemonic = "tent gaze matrix van enact title clarify muffin spider front domain fall";

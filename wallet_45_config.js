@@ -1,1 +1,1 @@
-var mnemonic = "pen box uncover chair silent another detail behind minute scrap coconut member";
+var mnemonic = "high trade wash garden rigid virtual deposit move valley mule talk wood";

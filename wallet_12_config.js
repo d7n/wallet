@@ -1,1 +1,1 @@
-var mnemonic = "moment decrease amount stadium hat kitchen half stamp chunk legend club dentist";
+var mnemonic = "spice they group skate case zebra stay vivid hospital enhance ginger depart";

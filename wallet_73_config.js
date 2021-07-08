@@ -1,1 +1,1 @@
-var mnemonic = "buzz wash fold often nut pudding announce badge breeze legend poverty enough";
+var mnemonic = "wolf bird leave goddess shrug ghost noodle burst mix thunder office portion";

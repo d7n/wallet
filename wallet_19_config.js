@@ -1,1 +1,1 @@
-var mnemonic = "ignore cat unknown gadget surprise summer physical flower drill hurt kitchen chief";
+var mnemonic = "hint silk human return share because benefit sure inspire emerge actress indoor";

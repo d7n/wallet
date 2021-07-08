@@ -1,1 +1,1 @@
-var mnemonic = "essay country impulse inmate outer dress trial off someone minimum ice smoke";
+var mnemonic = "chapter cheese swarm please glue window cube tail nurse more ivory crush";

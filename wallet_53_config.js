@@ -1,1 +1,1 @@
-var mnemonic = "trumpet prefer crash tribe bid talk swear real amateur cover rabbit success";
+var mnemonic = "satoshi design embody chat index baby manage guilt pizza weekend battle riot";

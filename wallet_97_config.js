@@ -1,1 +1,1 @@
-var mnemonic = "chapter fan often supreme dolphin burger lonely game crater moment outdoor celery";
+var mnemonic = "pulse recycle version swift stick antenna grit hidden hedgehog various lawsuit pen";

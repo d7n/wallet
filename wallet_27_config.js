@@ -1,1 +1,1 @@
-var mnemonic = "matter tattoo holiday youth hour fly above civil dignity side mixed lumber";
+var mnemonic = "school slogan maximum indicate stadium obscure glad orient theme idea blue chair";

@@ -1,1 +1,1 @@
-var mnemonic = "cement renew rare equal cancel debate shoe scrap speak kick sister decade";
+var mnemonic = "panther tip meat effort neck combine buyer various theme impose such boil";

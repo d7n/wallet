@@ -1,1 +1,1 @@
-var mnemonic = "east cloud twice peanut guide fiction weather vocal drama error fantasy cruel";
+var mnemonic = "code aunt monitor exhibit shine okay inflict basket blanket cereal fortune resist";

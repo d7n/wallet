@@ -1,1 +1,1 @@
-var mnemonic = "matter annual follow diet fun skull gather trial kiss unable rug base";
+var mnemonic = "faith two wire near prize clump panther bag equal meat grow grid";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard detail unable crunch actual night task ancient repair fall unique silk";
+var mnemonic = "pig spring web stem dial minute summer expand dirt hen merge safe";

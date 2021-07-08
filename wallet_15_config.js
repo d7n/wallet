@@ -1,1 +1,1 @@
-var mnemonic = "grab drive asthma ten jelly nerve nose layer vanish call flip gauge";
+var mnemonic = "machine knife income atom manage frog protect surge lamp ceiling hockey fruit";
