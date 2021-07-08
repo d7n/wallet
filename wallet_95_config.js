@@ -1,1 +1,1 @@
-var mnemonic = "cement true license fall memory craft auction vast toast pen mother dose";
+var mnemonic = "wolf legend laptop sibling noble enact answer husband mule trim board ribbon";

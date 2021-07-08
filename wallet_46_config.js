@@ -1,1 +1,1 @@
-var mnemonic = "pen ramp island inner vacant hamster morning erase hedgehog guide wall world";
+var mnemonic = "kitten spoon couch jazz mercy another library royal swift captain artist vacuum";

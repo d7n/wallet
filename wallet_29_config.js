@@ -1,1 +1,1 @@
-var mnemonic = "illness this calm supply sample taxi suggest nephew much develop ankle movie";
+var mnemonic = "dash dragon fix noble digital review eyebrow oak gauge fortune describe identify";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle pear dinosaur swamp unaware tool wash advance saddle vapor abandon weird";
+var mnemonic = "reveal ensure zoo submit wall steel index sick solution easy usage thing";

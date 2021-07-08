@@ -1,1 +1,1 @@
-var mnemonic = "blur enable approve depart behave chunk exit faculty hour film lake old";
+var mnemonic = "security screen dice divide fluid volume host employ easily radio sphere sail";

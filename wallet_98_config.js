@@ -1,1 +1,1 @@
-var mnemonic = "exact enact omit neither area wreck champion pride trophy remove tissue nephew";
+var mnemonic = "since crawl awkward field genius never random load photo dry nurse concert";

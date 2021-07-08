@@ -1,1 +1,1 @@
-var mnemonic = "noble power warfare light gentle goddess human mimic present pig drink ready";
+var mnemonic = "damp cover vocal mule place abandon isolate approve endorse dolphin road enact";

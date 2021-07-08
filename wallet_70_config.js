@@ -1,1 +1,1 @@
-var mnemonic = "ready know gas report foster love unit dry deposit always keen hedgehog";
+var mnemonic = "gloom fee segment donate duty crop liberty limit wife online quality remind";

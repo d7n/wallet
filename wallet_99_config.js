@@ -1,1 +1,1 @@
-var mnemonic = "speed valid ten insane extra rib under nasty ahead violin wet donate";
+var mnemonic = "board rose flame squeeze palm proof hour table hospital biology rigid fantasy";

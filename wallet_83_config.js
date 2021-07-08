@@ -1,1 +1,1 @@
-var mnemonic = "then celery multiply very tube ecology observe illness snack ask afford all";
+var mnemonic = "miracle history tornado test country claim vault property such among end youth";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow merit village number bamboo employ choose tank ostrich choose excess garden";
+var mnemonic = "supply situate firm require glue winner cook wine marine fabric rookie tongue";

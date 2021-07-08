@@ -1,1 +1,1 @@
-var mnemonic = "inquiry phone sweet tape dish near erode trigger total report limit scout";
+var mnemonic = "farm gossip loud announce media actress scout cherry project either muffin busy";

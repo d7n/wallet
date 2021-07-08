@@ -1,1 +1,1 @@
-var mnemonic = "drink cover wonder process pulse glimpse lens harsh angle height long thought";
+var mnemonic = "license photo gorilla economy already put lemon agent cube common raw chat";

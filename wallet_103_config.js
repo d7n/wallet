@@ -1,1 +1,1 @@
-var mnemonic = "measure lend horror wool gossip two slide pencil pulse elbow nut uniform";
+var mnemonic = "combine limb torch blood turn athlete vapor analyst power issue develop vast";

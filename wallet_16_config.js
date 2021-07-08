@@ -1,1 +1,1 @@
-var mnemonic = "sugar ostrich universe say trash slender crumble choose garment forest vibrant task";
+var mnemonic = "pact fine super own enforce drive owner artwork arctic custom blue lake";

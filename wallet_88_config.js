@@ -1,1 +1,1 @@
-var mnemonic = "mix snake leisure boy betray depth alarm leg boat door ostrich ahead";
+var mnemonic = "tower view paper enough dignity machine east wreck journey fall warm elegant";

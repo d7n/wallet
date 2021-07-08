@@ -1,1 +1,1 @@
-var mnemonic = "trip battle humor section visa comic drink gospel amateur will flee boost";
+var mnemonic = "test frozen country cart such three recycle rice satisfy stairs square install";

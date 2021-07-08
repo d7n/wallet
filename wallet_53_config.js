@@ -1,1 +1,1 @@
-var mnemonic = "wire release party come consider crazy aspect buzz horse jungle virtual street";
+var mnemonic = "impact coach maze plate brief drift empty phrase indicate sphere fly income";

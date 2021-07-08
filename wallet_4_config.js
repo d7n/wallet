@@ -1,1 +1,1 @@
-var mnemonic = "property half gesture undo better lobster mention today scale pluck observe only";
+var mnemonic = "exit tired foster feed child digital lunch fit kidney resist labor praise";

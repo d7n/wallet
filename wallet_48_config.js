@@ -1,1 +1,1 @@
-var mnemonic = "small cave input supply fork rib shift average dose hair lava never";
+var mnemonic = "hotel strategy rifle north wink exhibit happy injury acid keen bike loyal";

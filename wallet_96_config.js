@@ -1,1 +1,1 @@
-var mnemonic = "visa gauge deposit possible pact travel pulp expect like palm situate method";
+var mnemonic = "august approve walnut jealous antique mercy armed bottom dismiss flat cloth end";

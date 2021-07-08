@@ -1,1 +1,1 @@
-var mnemonic = "potato frozen powder emerge close relax vessel toward flee resource plate chalk";
+var mnemonic = "talk improve artefact noodle police bottom delay inspire nut law ankle coach";

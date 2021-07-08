@@ -1,1 +1,1 @@
-var mnemonic = "busy wet glove punch once sad december boy bid flock boat join";
+var mnemonic = "giant promote blush loud horror pet dawn pelican small trade tide mercy";

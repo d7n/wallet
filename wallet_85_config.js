@@ -1,1 +1,1 @@
-var mnemonic = "fox soon chalk indoor ecology knife voice april rotate multiply culture forest";
+var mnemonic = "soap tent venue oil match sting bleak annual enlist drift return morning";

@@ -1,1 +1,1 @@
-var mnemonic = "caught erode matrix differ lamp rural because rack resource leopard fantasy arch";
+var mnemonic = "ball shiver energy cheap asthma section then sport million diary tenant web";

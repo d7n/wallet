@@ -1,1 +1,1 @@
-var mnemonic = "pole roof caution holiday miss misery rug found garden window genius fall";
+var mnemonic = "ten evidence elder vocal scissors hamster web siren submit love depart zebra";

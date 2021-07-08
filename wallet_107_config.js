@@ -1,1 +1,1 @@
-var mnemonic = "company tent undo amazing glory hollow prize skin civil usual attack moment";
+var mnemonic = "wrap stage daring cart surge fury uncover swear lawsuit twin arrive fall";

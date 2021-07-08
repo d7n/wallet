@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bus castle pulp laundry embody mouse junk decide flavor bundle stomach";
+var mnemonic = "trouble come edit trouble screen save public puppy almost leave picnic sell";

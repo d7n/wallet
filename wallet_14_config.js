@@ -1,1 +1,1 @@
-var mnemonic = "kidney educate fly chronic violin maze index exchange hub forget demand this";
+var mnemonic = "south baby bridge believe actor south float surface soup always exit slam";

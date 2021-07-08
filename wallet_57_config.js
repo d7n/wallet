@@ -1,1 +1,1 @@
-var mnemonic = "lake sustain butter sausage brave slogan duck pudding gauge noble deal small";
+var mnemonic = "rude arctic blur wrap people stem analyst unlock waste brother tag october";

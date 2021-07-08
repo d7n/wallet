@@ -1,1 +1,1 @@
-var mnemonic = "treat cube process cloth human able coin dog brush half chicken pool";
+var mnemonic = "trouble rely fit poet leisure resource amazing good drastic hill april nasty";

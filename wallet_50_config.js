@@ -1,1 +1,1 @@
-var mnemonic = "quick estate quiz crater tree hunt web company height help monkey vendor";
+var mnemonic = "estate result foot inquiry despair august sudden sound nuclear tray fantasy loop";

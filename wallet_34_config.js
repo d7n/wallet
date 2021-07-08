@@ -1,1 +1,1 @@
-var mnemonic = "online tornado brown chief cart deputy twist refuse razor add puzzle favorite";
+var mnemonic = "wonder knee south remain cinnamon old solar peace smoke cake gap sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "trim mercy result dinner pony burden route victory grid august smooth apart";
+var mnemonic = "curtain friend valve relief note smile chaos coach father puzzle sustain mix";

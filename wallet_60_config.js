@@ -1,1 +1,1 @@
-var mnemonic = "comfort deer wrong exist parrot catalog fog east kick property mouse ask";
+var mnemonic = "hood bus raise never volcano balcony blanket april camera today income matter";

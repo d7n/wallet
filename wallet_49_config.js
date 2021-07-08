@@ -1,1 +1,1 @@
-var mnemonic = "proud media quarter switch grit surge seat drift sting snake guide memory";
+var mnemonic = "erosion fog buzz provide foster what labor panther tell hub maid priority";

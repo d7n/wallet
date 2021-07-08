@@ -1,1 +1,1 @@
-var mnemonic = "witness film pottery real shell roof suggest much empower fence entire borrow";
+var mnemonic = "foot borrow myth stone next cry anchor voyage trumpet city expect salad";

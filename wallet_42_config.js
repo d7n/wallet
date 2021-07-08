@@ -1,1 +1,1 @@
-var mnemonic = "ignore enjoy dumb brisk estate crew loyal object bulb crew march sight";
+var mnemonic = "author task yellow text envelope fault reform cliff crisp civil mad poet";

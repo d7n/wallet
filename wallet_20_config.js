@@ -1,1 +1,1 @@
-var mnemonic = "ritual begin control hour void wild front load lend wife burger obtain";
+var mnemonic = "alert envelope divide sleep consider promote fantasy mass inside disease only penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel panel text loan seat jeans burst together damp blanket toilet pair";
+var mnemonic = "glimpse banana toss awful expand wine sock wonder drift cheap vivid inner";

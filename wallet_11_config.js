@@ -1,1 +1,1 @@
-var mnemonic = "position tiny relax industry shock biology sample drop crisp wood magnet distance";
+var mnemonic = "office spawn write essence novel galaxy mimic immune evolve crouch style fine";

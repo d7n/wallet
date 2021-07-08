@@ -1,1 +1,1 @@
-var mnemonic = "merry wink express screen genius song orbit alone rabbit enter nothing brand";
+var mnemonic = "liberty company crane rebuild rent stuff elegant victory recycle thumb tonight champion";

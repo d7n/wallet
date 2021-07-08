@@ -1,1 +1,1 @@
-var mnemonic = "spoil social secret couple dignity relief stumble audit recall jungle remind tackle";
+var mnemonic = "eye check brown check exist screen angry toy click endless adult you";

@@ -1,1 +1,1 @@
-var mnemonic = "peace tip fun nasty bar admit gown trash rib hidden dignity stock";
+var mnemonic = "token talk hockey crane hotel behind mask seed fit medal stove design";

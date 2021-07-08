@@ -1,1 +1,1 @@
-var mnemonic = "name people congress charge earn bounce relax impose design page any marine";
+var mnemonic = "enhance feature siege actress joke fashion movie tunnel current leaf horn market";

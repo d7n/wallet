@@ -1,1 +1,1 @@
-var mnemonic = "mountain voyage segment zero kingdom fantasy apple twin loop media rib various";
+var mnemonic = "glare wide street duty ecology fault receive desert wrist master edit unusual";

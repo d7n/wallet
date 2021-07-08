@@ -1,1 +1,1 @@
-var mnemonic = "artwork economy neck actor grunt royal moment fetch voice exhibit labor immune";
+var mnemonic = "animal dune few lab sun column glad cash tattoo law make diesel";

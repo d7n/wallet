@@ -1,1 +1,1 @@
-var mnemonic = "flat rubber soul drill expire holiday emotion ordinary roof august involve master";
+var mnemonic = "tooth unusual humor shadow sadness amazing buzz know forget nurse recycle salon";

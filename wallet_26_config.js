@@ -1,1 +1,1 @@
-var mnemonic = "mistake payment avocado funny shuffle script detail shiver hard excess narrow oak";
+var mnemonic = "token maze jewel pelican monitor resist boss search cradle diesel address wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "famous faith defense dragon shop another tomorrow visa copy horse common supreme";
+var mnemonic = "refuse refuse inspire snack profit urge argue youth nation find canyon awkward";

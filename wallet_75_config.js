@@ -1,1 +1,1 @@
-var mnemonic = "style decrease lazy speak negative police rebel recall hundred fragile water often";
+var mnemonic = "group bitter wrong meadow melody deny couch deputy retreat west season surge";

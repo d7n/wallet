@@ -1,1 +1,1 @@
-var mnemonic = "street hat garage false submit call text lonely silly witness wool plunge";
+var mnemonic = "adapt give account undo donkey lonely hotel staff start bean topple casual";

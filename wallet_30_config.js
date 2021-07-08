@@ -1,1 +1,1 @@
-var mnemonic = "slogan viable slot author arctic junk actor bridge beach primary expand glue";
+var mnemonic = "twist menu drop gallery medal verify gun weekend engine alert smoke myth";

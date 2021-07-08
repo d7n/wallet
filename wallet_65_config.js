@@ -1,1 +1,1 @@
-var mnemonic = "hidden kingdom physical world tower blast nasty card unique economy mouse flat";
+var mnemonic = "pear slender filter oak subway mobile finish fire strong height cannon cry";

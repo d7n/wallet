@@ -1,1 +1,1 @@
-var mnemonic = "scout donor save promote group wealth mansion ahead hazard other mountain tenant";
+var mnemonic = "super inject index response choice wall boil drama occur wait thought adjust";

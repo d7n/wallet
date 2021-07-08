@@ -1,1 +1,1 @@
-var mnemonic = "such proud surface excite evil piano category royal know learn heart gap";
+var mnemonic = "fragile dutch loud rival boring candy naive fantasy silent cousin genius lab";

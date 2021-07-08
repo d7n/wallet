@@ -1,1 +1,1 @@
-var mnemonic = "merit satisfy cement upon text viable way blade library decrease police unhappy";
+var mnemonic = "become youth owner appear print bid fame analyst hedgehog giant debate winner";

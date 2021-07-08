@@ -1,1 +1,1 @@
-var mnemonic = "timber silver derive path beef hamster amount away visa omit oblige cave";
+var mnemonic = "tired essay among physical artwork mushroom hospital property figure quality brisk venue";

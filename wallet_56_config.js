@@ -1,1 +1,1 @@
-var mnemonic = "actor remind father series practice amused orbit galaxy gain address image monitor";
+var mnemonic = "category kitchen garment electric matter file put embrace total dice blossom walk";

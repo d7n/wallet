@@ -1,1 +1,1 @@
-var mnemonic = "broken pipe renew emerge fun gossip never fringe resource horse thing gaze";
+var mnemonic = "ten badge please journey later path garlic lunar sponsor glow nerve traffic";

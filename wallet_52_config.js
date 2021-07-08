@@ -1,1 +1,1 @@
-var mnemonic = "tornado leg false trick child twist dignity spray shoe kingdom allow decrease";
+var mnemonic = "special inspire soul road upper crash salmon height estate system curious cram";

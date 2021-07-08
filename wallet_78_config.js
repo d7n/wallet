@@ -1,1 +1,1 @@
-var mnemonic = "problem surge sorry noodle eyebrow desk little denial blouse echo island decrease";
+var mnemonic = "report around medal already vanish hockey trade ability admit wonder exit concert";

@@ -1,1 +1,1 @@
-var mnemonic = "permit flush entry unveil orient save pig worth spot patch universe garlic";
+var mnemonic = "brown bright priority alert fluid chuckle frequent balcony slot flat choice pigeon";

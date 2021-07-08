@@ -1,1 +1,1 @@
-var mnemonic = "school weather index faint easily planet crush same lizard never couple erosion";
+var mnemonic = "impulse civil inject question random easy find crime option wrong dwarf clay";

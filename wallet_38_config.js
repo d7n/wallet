@@ -1,1 +1,1 @@
-var mnemonic = "virus one gesture vocal oval picture net carry teach rescue axis stool";
+var mnemonic = "lobster earth mechanic aerobic body foam park relax okay useful group junk";

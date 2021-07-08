@@ -1,1 +1,1 @@
-var mnemonic = "topple holiday spike day will bridge master sentence slice sun little forum";
+var mnemonic = "cloth glide solution whale soup provide offer try deputy couple rival desert";

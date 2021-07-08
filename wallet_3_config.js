@@ -1,1 +1,1 @@
-var mnemonic = "crystal stool fade pet they true test flock layer nerve bless tape";
+var mnemonic = "country property kiwi place conduct spend diamond poverty proof outdoor gun resource";

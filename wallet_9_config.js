@@ -1,1 +1,1 @@
-var mnemonic = "sugar jump knife sponsor bike notice wisdom walk question item harsh van";
+var mnemonic = "naive mimic bitter swift matrix gate floor easy sheriff scissors tenant diet";

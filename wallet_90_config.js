@@ -1,1 +1,1 @@
-var mnemonic = "bulb churn sock sugar celery aerobic conduct summer mule resist style legal";
+var mnemonic = "ritual broom deal help illness client essay mind session estate arch garbage";

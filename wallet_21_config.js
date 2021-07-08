@@ -1,1 +1,1 @@
-var mnemonic = "real lady lounge cave order pig across token case dynamic adapt forget";
+var mnemonic = "kitten useless orchard able inhale able essay price crack project add lawsuit";

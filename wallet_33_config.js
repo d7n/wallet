@@ -1,1 +1,1 @@
-var mnemonic = "fame trim wait exchange dinner opera install inspire electric orphan minor chief";
+var mnemonic = "garlic lottery pizza trigger session length truck across thumb poet mom mean";

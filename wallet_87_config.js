@@ -1,1 +1,1 @@
-var mnemonic = "pact soul viable vibrant harvest coast frame pattern quick food indoor when";
+var mnemonic = "square blouse bundle kiwi virtual direct desert emotion vacuum thought coast false";

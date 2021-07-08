@@ -1,1 +1,1 @@
-var mnemonic = "total news water shoot group invite recipe fork super yellow scene maze";
+var mnemonic = "other chronic cliff game delay bleak enroll verify result zoo wear pretty";

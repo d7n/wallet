@@ -1,1 +1,1 @@
-var mnemonic = "industry enable rule ready bamboo crowd lab grunt what useless average scrap";
+var mnemonic = "follow wagon lumber snap settle resource foster quote large portion hungry cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "used ring report dove chase mom hill fix defy avoid deposit craft";
+var mnemonic = "awful faculty layer absorb arch prefer follow improve pact hawk more kiwi";

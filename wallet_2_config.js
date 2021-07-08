@@ -1,1 +1,1 @@
-var mnemonic = "much kite volcano law about festival path hammer focus grace offer tip";
+var mnemonic = "position stand vanish derive blade carpet analyst funny gloom fat book resemble";

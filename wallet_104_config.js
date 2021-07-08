@@ -1,1 +1,1 @@
-var mnemonic = "duty limit merry aware practice where ring motor crew pretty erode lock";
+var mnemonic = "gap consider planet warrior tourist paper process analyst syrup truth shop annual";

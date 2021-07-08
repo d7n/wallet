@@ -1,1 +1,1 @@
-var mnemonic = "addict tag fiction wage control reject fish lecture discover pole connect lake";
+var mnemonic = "legal only moment zone jazz lonely news execute clog job omit wrap";

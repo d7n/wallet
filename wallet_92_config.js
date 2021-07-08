@@ -1,1 +1,1 @@
-var mnemonic = "brother misery swing rival index fish purity sponsor gadget buzz stadium bargain";
+var mnemonic = "moral glue feed mushroom burger mention face honey street antique someone analyst";

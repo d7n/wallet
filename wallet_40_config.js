@@ -1,1 +1,1 @@
-var mnemonic = "angle mention picture penalty fine novel innocent flash cloud stable approve vocal";
+var mnemonic = "hold blade entry trouble exact force awful replace market uphold future list";

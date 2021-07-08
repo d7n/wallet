@@ -1,1 +1,1 @@
-var mnemonic = "much senior either horror powder broccoli innocent tissue digital stock cause fix";
+var mnemonic = "reason found across hair observe camera nerve define extend base vintage zero";

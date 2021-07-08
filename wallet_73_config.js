@@ -1,1 +1,1 @@
-var mnemonic = "flock good nice exact grace actual chat jewel super echo shift flag";
+var mnemonic = "dutch cradle soon clump caught onion axis win cluster bonus net eager";

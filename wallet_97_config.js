@@ -1,1 +1,1 @@
-var mnemonic = "now stereo scout habit dream inform identify remind boring derive famous voyage";
+var mnemonic = "sugar aisle brick true spider coffee laundry soft limit enable weekend one";

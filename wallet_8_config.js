@@ -1,1 +1,1 @@
-var mnemonic = "farm alert lift inquiry pause travel soap hungry broccoli honey latin powder";
+var mnemonic = "stem consider remain cannon poverty pear battle scorpion much spend inmate baby";

@@ -1,1 +1,1 @@
-var mnemonic = "motion salon soccer occur raw coil obtain taxi state town assist fade";
+var mnemonic = "sugar hamster ski valve alarm orphan claim coffee bitter column bread enhance";

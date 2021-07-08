@@ -1,1 +1,1 @@
-var mnemonic = "snake diet ecology dog toast deny anchor puppy simple wheel knock safe";
+var mnemonic = "novel police bachelor rack output inflict title dune shoulder february put valve";

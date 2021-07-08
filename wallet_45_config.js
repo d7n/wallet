@@ -1,1 +1,1 @@
-var mnemonic = "huge neither blind pony ivory hover whip annual easily disagree gossip gadget";
+var mnemonic = "spy ladder magic speak lend capable creek tourist hope position cloud demand";

@@ -1,1 +1,1 @@
-var mnemonic = "river replace purity invite guide runway scan parrot warm call wear shuffle";
+var mnemonic = "bicycle rural remind warrior expect okay result response table glass absent laugh";

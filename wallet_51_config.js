@@ -1,1 +1,1 @@
-var mnemonic = "test bleak around riot miracle net offer wise blur chase auto dawn";
+var mnemonic = "adult start color thought mimic swim panda kitten flavor venue labor trip";

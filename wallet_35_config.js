@@ -1,1 +1,1 @@
-var mnemonic = "include expose olive error zebra term inmate vote cruel still cream arch";
+var mnemonic = "trigger marble body call chimney relax ramp dove wrong minute frequent hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant donor hurdle bean enroll twist mandate polar electric alone round roast";
+var mnemonic = "few junk drill neutral apple special lava choose walk unable iron noodle";
