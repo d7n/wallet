@@ -1,1 +1,1 @@
-var mnemonic = "drastic actress summer neglect steak window salmon humble fat coyote modify parent";
+var mnemonic = "hotel camp shrimp horse primary clean apology wonder elder various immune soup";

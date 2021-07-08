@@ -1,1 +1,1 @@
-var mnemonic = "crumble camera rescue onion cross favorite gorilla theory speak exist phrase radio";
+var mnemonic = "east edge airport drop current lazy scrub ostrich nuclear fatigue excite between";

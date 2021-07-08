@@ -1,1 +1,1 @@
-var mnemonic = "subject magnet solve common square unlock team airport cricket option venture pencil";
+var mnemonic = "answer celery police public pupil tail pond relax enroll prepare chair city";

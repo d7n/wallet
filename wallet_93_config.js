@@ -1,1 +1,1 @@
-var mnemonic = "pulp hidden quick ten when claw marriage drip clerk parrot tobacco sort";
+var mnemonic = "usual simple guess island tissue promote pyramid sun faith tape depart chat";

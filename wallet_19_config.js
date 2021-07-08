@@ -1,1 +1,1 @@
-var mnemonic = "alley spare analyst bounce either tired child glance wish admit depart extend";
+var mnemonic = "aerobic mimic price asset trap job evil price ready box require trend";

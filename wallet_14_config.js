@@ -1,1 +1,1 @@
-var mnemonic = "torch obvious green harbor equal mosquito modify erase skin member message close";
+var mnemonic = "school ten exclude dice call drama solution force volume age fee limit";

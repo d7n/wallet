@@ -1,1 +1,1 @@
-var mnemonic = "shove engage elite flip ugly combine model fan dove venue capable answer";
+var mnemonic = "shallow spend release slow turn dance govern gold ozone diet illness mushroom";

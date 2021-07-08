@@ -1,1 +1,1 @@
-var mnemonic = "prison wisdom disease shiver that room eight feel flag lyrics misery juice";
+var mnemonic = "desk bulk choice item truck entry vibrant labor tell dog spring horse";

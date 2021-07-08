@@ -1,1 +1,1 @@
-var mnemonic = "attack frown fame soul system cluster illegal sound grief pluck differ pig";
+var mnemonic = "mix engine print bag alarm mercy spirit fragile empower exotic random achieve";

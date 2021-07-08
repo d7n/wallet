@@ -1,1 +1,1 @@
-var mnemonic = "open special small rural settle borrow two tornado clay advice enact monster";
+var mnemonic = "gasp velvet mask expand stairs regret black adapt spot castle obtain canyon";

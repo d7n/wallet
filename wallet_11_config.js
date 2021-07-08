@@ -1,1 +1,1 @@
-var mnemonic = "among sell couch then trophy feel almost thunder differ plug army predict";
+var mnemonic = "quick page seat spell valid bar solve require kick mother obvious vacant";

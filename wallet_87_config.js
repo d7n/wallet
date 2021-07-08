@@ -1,1 +1,1 @@
-var mnemonic = "advice wire unhappy trust fringe slush plastic east steel clap place initial";
+var mnemonic = "pelican slot pluck pet seek lens view panther slice valve electric puzzle";

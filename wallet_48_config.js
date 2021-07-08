@@ -1,1 +1,1 @@
-var mnemonic = "myself catch online rebel artefact feature gym ask fat pulp avocado wave";
+var mnemonic = "share mansion damp capable fancy repeat uphold fatigue swallow culture palm catalog";

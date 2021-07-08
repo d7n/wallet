@@ -1,1 +1,1 @@
-var mnemonic = "calm purpose decide faculty retreat rubber solution evidence element claim seminar actual";
+var mnemonic = "hamster track phrase spoil ancient head cat width tongue strong animal coach";

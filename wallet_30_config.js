@@ -1,1 +1,1 @@
-var mnemonic = "seek only menu patient unable again typical mobile memory sick fitness cruise";
+var mnemonic = "sketch era medal quote law cube paper cigar feed dove violin patient";

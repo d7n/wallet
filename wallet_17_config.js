@@ -1,1 +1,1 @@
-var mnemonic = "same force excuse dumb deputy lumber sudden assume range review noble above";
+var mnemonic = "inside until jewel vital kiss jump shoe flat only hold theme treat";

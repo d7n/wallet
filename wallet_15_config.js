@@ -1,1 +1,1 @@
-var mnemonic = "enter debris ivory alien violin hurt foam inherit course tongue seat fetch";
+var mnemonic = "frog humble regret illegal rose riot hurry tail odor assault chief harvest";

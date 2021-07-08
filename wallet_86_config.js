@@ -1,1 +1,1 @@
-var mnemonic = "left seminar unique sniff cannon hawk intact knock proud maze thunder actress";
+var mnemonic = "drill invite guitar better dynamic picture fever hair symbol neither proof gauge";

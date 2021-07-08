@@ -1,1 +1,1 @@
-var mnemonic = "believe industry street snack someone aunt pyramid clarify derive vacuum body music";
+var mnemonic = "laptop farm female struggle mouse disease very ritual execute desert wool media";

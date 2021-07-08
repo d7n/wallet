@@ -1,1 +1,1 @@
-var mnemonic = "space shell arrest artist clutch tail flock tape nurse bless cake enact";
+var mnemonic = "gospel icon brave source mystery system frequent upset response siege seat depart";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare unfair wrap speak champion news issue into benefit unable dilemma arrest";
+var mnemonic = "forget come evidence audit whale rude soldier change essay eagle donate consider";

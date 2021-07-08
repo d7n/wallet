@@ -1,1 +1,1 @@
-var mnemonic = "able brief cruise blood account leave acid robust wink build then bone";
+var mnemonic = "twist badge occur keep hill analyst panic manage sing stadium tiny pudding";

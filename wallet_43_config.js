@@ -1,1 +1,1 @@
-var mnemonic = "era fashion hire cancel clip host aisle grow ribbon sword deposit whale";
+var mnemonic = "hazard winner flat consider agent month lonely liar raise path wish resource";

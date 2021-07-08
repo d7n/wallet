@@ -1,1 +1,1 @@
-var mnemonic = "van luxury ask soon sick window work sort season range amount nation";
+var mnemonic = "diamond battle deposit tunnel picnic cute flame mimic uncle peasant tumble decline";

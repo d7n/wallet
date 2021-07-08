@@ -1,1 +1,1 @@
-var mnemonic = "rich army cupboard chase calm major large letter account when between faculty";
+var mnemonic = "attend velvet distance stereo life cost melt sick cushion cruise emerge visual";

@@ -1,1 +1,1 @@
-var mnemonic = "power broccoli dirt salt enlist arrow jeans box add fiscal attend hundred";
+var mnemonic = "cluster vacant lounge debate repair unaware unfair slab off unfold oppose ensure";

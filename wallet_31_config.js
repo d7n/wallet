@@ -1,1 +1,1 @@
-var mnemonic = "better nuclear glue wagon sunny permit engine prepare moment expire audit shoulder";
+var mnemonic = "notable orient hover volume drill rather voice flavor melt public oblige bulb";

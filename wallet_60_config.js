@@ -1,1 +1,1 @@
-var mnemonic = "place wrist manual crush age gas shrug rookie produce uncover skull pattern";
+var mnemonic = "hidden also choice ranch supreme group meat gym case smile sight feature";

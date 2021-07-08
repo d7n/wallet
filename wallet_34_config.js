@@ -1,1 +1,1 @@
-var mnemonic = "image sphere giraffe ankle future shaft liar click correct unfair note vivid";
+var mnemonic = "faint faith material message can acid grief physical roast wrong income what";

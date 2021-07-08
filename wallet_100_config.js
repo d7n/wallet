@@ -1,1 +1,1 @@
-var mnemonic = "horse already palace chalk boost tide pizza scare recipe evoke flight mention";
+var mnemonic = "issue sport brand gap mammal mixture voyage solution display bleak jelly jazz";

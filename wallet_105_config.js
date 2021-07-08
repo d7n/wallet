@@ -1,1 +1,1 @@
-var mnemonic = "flag bullet myth people scrub heavy funny avocado cloud snow topic eight";
+var mnemonic = "video pudding term join orphan aerobic penalty stool donor silver marriage timber";

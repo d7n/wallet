@@ -1,1 +1,1 @@
-var mnemonic = "abandon convince kick harsh expire rookie leaf shrug shed baby knife bone";
+var mnemonic = "doctor net glory already remain custom protect half staff retire party gospel";

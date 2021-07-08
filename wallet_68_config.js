@@ -1,1 +1,1 @@
-var mnemonic = "spray cactus hurry away black code lava nerve reason list fly sunny";
+var mnemonic = "gallery asset any laptop return solid manual bonus raise gossip bicycle canal";

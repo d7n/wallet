@@ -1,1 +1,1 @@
-var mnemonic = "decade sweet rabbit same side cotton live mistake leg tunnel cancel orange";
+var mnemonic = "verb nation saddle wear addict radar nut album among bounce lend share";

@@ -1,1 +1,1 @@
-var mnemonic = "teach belt chicken when polar doctor endless champion canvas man pipe organ";
+var mnemonic = "dad robot action left misery citizen ritual lend spoil toward scrub siege";

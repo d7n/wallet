@@ -1,1 +1,1 @@
-var mnemonic = "report lucky muffin oppose economy grief flee congress base until secret share";
+var mnemonic = "blast funny cost thank scene differ twist buddy stick exclude festival syrup";

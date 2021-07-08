@@ -1,1 +1,1 @@
-var mnemonic = "subway cup viable inmate vendor stock whip february bind valve metal enter";
+var mnemonic = "angle decline adjust swing distance high border cause wall about decrease inject";

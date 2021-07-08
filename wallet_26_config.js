@@ -1,1 +1,1 @@
-var mnemonic = "tuna clever tide crop gown illegal runway filter wolf scrap van nation";
+var mnemonic = "prosper donkey impose farm give mad spice purchase viable define relief pyramid";

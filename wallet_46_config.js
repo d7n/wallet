@@ -1,1 +1,1 @@
-var mnemonic = "ancient truth trim alter bundle fence note glove velvet file lake wine";
+var mnemonic = "shrimp trick clump govern sweet fence arena put primary double manage zone";

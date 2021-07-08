@@ -1,1 +1,1 @@
-var mnemonic = "boring unhappy burden gasp turtle tilt rotate canyon stove sing salon about";
+var mnemonic = "follow arrange scatter toward airport write history sport any right shed phrase";

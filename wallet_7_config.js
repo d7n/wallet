@@ -1,1 +1,1 @@
-var mnemonic = "hour bounce ginger cannon useless attend sea plate fan slab base glow";
+var mnemonic = "crater coin mandate cousin now modify ancient gold expose cousin arena junior";

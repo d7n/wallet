@@ -1,1 +1,1 @@
-var mnemonic = "someone salute border remain hospital diet lonely banner scrub still practice tobacco";
+var mnemonic = "jelly moon idea course siren shaft clump law taxi impact illness because";

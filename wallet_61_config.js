@@ -1,1 +1,1 @@
-var mnemonic = "note blame volcano soda enforce relief pole garden into report visa rain";
+var mnemonic = "address spider dilemma coral prefer sausage you leg mind donate flower undo";

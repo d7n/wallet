@@ -1,1 +1,1 @@
-var mnemonic = "analyst under rapid omit midnight fame twin tuition chest health can key";
+var mnemonic = "bright gaze sustain leaf guide matrix flight barrel image bone top blast";

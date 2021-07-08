@@ -1,1 +1,1 @@
-var mnemonic = "raise sniff position erase arrange dream coin rookie muscle kiwi naive shift";
+var mnemonic = "erase garage depth pave ripple stool hurry aunt scale fetch excite elevator";

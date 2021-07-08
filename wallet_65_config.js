@@ -1,1 +1,1 @@
-var mnemonic = "cheese deny museum crime again group bundle maple glare wide horror north";
+var mnemonic = "holiday gather angry weekend jungle dwarf conduct upon visa laundry extra fee";

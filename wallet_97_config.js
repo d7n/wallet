@@ -1,1 +1,1 @@
-var mnemonic = "audit dynamic curtain vote arrest able toilet fatigue report silver august cousin";
+var mnemonic = "mixed session crime scatter pony lawn claim shrug six east consider attend";

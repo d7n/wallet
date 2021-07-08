@@ -1,1 +1,1 @@
-var mnemonic = "weird card auto push merge mother print blast doctor pattern toss dice";
+var mnemonic = "beauty attitude trend kidney wife service solution soldier runway cement slice year";

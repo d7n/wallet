@@ -1,1 +1,1 @@
-var mnemonic = "practice danger hover display modify stairs marriage lady agree yard later magic";
+var mnemonic = "blush project jacket job moment modify example beef ride squeeze hobby cannon";

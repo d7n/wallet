@@ -1,1 +1,1 @@
-var mnemonic = "salt fine pair eager soccer much stamp clog abuse velvet sample float";
+var mnemonic = "shed hire panther machine senior bird reject elegant gentle tonight movie company";

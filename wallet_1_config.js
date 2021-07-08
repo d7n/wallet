@@ -1,1 +1,1 @@
-var mnemonic = "hybrid stuff ketchup weather buddy motor seek album expand bracket coyote milk";
+var mnemonic = "acid equip uncover future mouse noble hope nest harvest balcony flat list";

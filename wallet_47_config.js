@@ -1,1 +1,1 @@
-var mnemonic = "youth endorse have border stage brass razor garden rabbit dove present blade";
+var mnemonic = "warm scrap smooth fall display defy lawn sea maid outdoor shove seed";

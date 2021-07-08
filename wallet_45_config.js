@@ -1,1 +1,1 @@
-var mnemonic = "canal loop blue camp change bleak there mixed bless cat eyebrow escape";
+var mnemonic = "announce venture trend upon banner subway sort run sustain puzzle evidence kind";

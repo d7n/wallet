@@ -1,1 +1,1 @@
-var mnemonic = "typical catalog pulp soup call common post also once sword promote notable";
+var mnemonic = "window room feed second practice pride cool correct profit whisper pioneer jaguar";

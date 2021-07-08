@@ -1,1 +1,1 @@
-var mnemonic = "stick silk chapter senior woman neck blade midnight trial employ upon woman";
+var mnemonic = "foam quarter stand album man junior kit initial solar annual faith goat";

@@ -1,1 +1,1 @@
-var mnemonic = "include enhance crowd guess senior sun wagon pluck must giraffe recipe alert";
+var mnemonic = "endless rigid ozone meadow health lunar fragile border dad liar future syrup";

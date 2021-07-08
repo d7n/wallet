@@ -1,1 +1,1 @@
-var mnemonic = "pink supply dust rich hurt stage team agree broom acid pepper oyster";
+var mnemonic = "maximum lesson expand spider common extend luggage layer loyal equal service abuse";

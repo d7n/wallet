@@ -1,1 +1,1 @@
-var mnemonic = "east cruel gravity swift rose notable inner arrest mule path kitten retreat";
+var mnemonic = "under bitter police horn series gaze tilt knee soldier web parade letter";

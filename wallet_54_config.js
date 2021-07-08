@@ -1,1 +1,1 @@
-var mnemonic = "render mandate menu depend police lend domain decorate blade tourist absorb twelve";
+var mnemonic = "idle fuel bomb peace risk burger gate knock master blind citizen speed";

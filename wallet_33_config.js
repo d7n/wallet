@@ -1,1 +1,1 @@
-var mnemonic = "error cube ocean mention clean castle regret fix tip staff torch mixture";
+var mnemonic = "erode disorder party kingdom weird city input between one soon wedding tilt";

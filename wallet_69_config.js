@@ -1,1 +1,1 @@
-var mnemonic = "cheese steel silent poverty outdoor shrimp promote ball jeans install hospital bomb";
+var mnemonic = "action earth catalog uncover illness patch wide blind shove universe when stem";

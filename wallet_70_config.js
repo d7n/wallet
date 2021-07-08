@@ -1,1 +1,1 @@
-var mnemonic = "keep bonus unfold city winner provide tell drip hand miss armed gasp";
+var mnemonic = "jar harvest mobile canyon tape pulse fluid fog silly short slush model";

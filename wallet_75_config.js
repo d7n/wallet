@@ -1,1 +1,1 @@
-var mnemonic = "beach write motor furnace weird vault alter omit occur census sugar dance";
+var mnemonic = "easy cook canoe crush diet mosquito fold glass common possible pioneer wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "flash either hurry focus category talk middle top session potato stove access";
+var mnemonic = "trap acoustic blind file such ribbon print amazing gift day silly zebra";

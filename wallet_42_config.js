@@ -1,1 +1,1 @@
-var mnemonic = "student sample lens mammal state genius salt method review near erode pact";
+var mnemonic = "increase around ladder napkin world sign mouse pottery giggle define confirm morning";

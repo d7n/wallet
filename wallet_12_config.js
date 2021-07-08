@@ -1,1 +1,1 @@
-var mnemonic = "gym swear rebel safe mystery rebuild horror asset what broom salad update";
+var mnemonic = "victory electric devote ensure enough bamboo vocal eternal minimum under fine calm";

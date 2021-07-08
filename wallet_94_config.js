@@ -1,1 +1,1 @@
-var mnemonic = "curious business video night access lunch twist enable inch utility want balance";
+var mnemonic = "amused process right there thrive organ have sad segment valid program elder";

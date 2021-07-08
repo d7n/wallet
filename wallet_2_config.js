@@ -1,1 +1,1 @@
-var mnemonic = "vicious laundry curtain battle curtain round process pledge armed enhance long fox";
+var mnemonic = "obscure antenna extra liquid champion captain clay lucky purchase glare allow assault";

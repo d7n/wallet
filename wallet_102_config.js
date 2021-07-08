@@ -1,1 +1,1 @@
-var mnemonic = "token stick vivid garden push truly random hero umbrella exact horn cart";
+var mnemonic = "submit salon fault invest silly foam advance market catch finger amused robot";

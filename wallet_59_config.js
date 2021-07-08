@@ -1,1 +1,1 @@
-var mnemonic = "open air hollow figure general tape machine maximum artefact canvas lend banner";
+var mnemonic = "morning crucial message salmon dolphin then gorilla simple matter raven card ghost";

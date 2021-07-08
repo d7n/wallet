@@ -1,1 +1,1 @@
-var mnemonic = "burst shadow fan awesome base cargo jazz virtual pencil balance key mandate";
+var mnemonic = "blossom such peace resemble spoil valley wrap sick midnight vintage inherit rather";

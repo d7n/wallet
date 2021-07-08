@@ -1,1 +1,1 @@
-var mnemonic = "apart proud renew master vessel win waste fade month diagram poverty enact";
+var mnemonic = "attract mass network skate extend media ocean barely lock uniform fix oven";

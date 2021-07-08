@@ -1,1 +1,1 @@
-var mnemonic = "monkey setup reveal meat flush rhythm idle gallery pistol ride mask essence";
+var mnemonic = "noise feed over merry avoid dune disease adjust hint weekend invite junk";

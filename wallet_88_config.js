@@ -1,1 +1,1 @@
-var mnemonic = "cheese rally general planet green among list nephew around zero artefact basic";
+var mnemonic = "drum clean unusual jelly february mercy come nature shove kidney around disorder";

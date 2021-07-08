@@ -1,1 +1,1 @@
-var mnemonic = "trend bar blouse term conduct try material indicate cigar negative defy inner";
+var mnemonic = "october canoe still have cluster emotion spawn other exile latin void oblige";

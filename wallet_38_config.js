@@ -1,1 +1,1 @@
-var mnemonic = "price tuna veteran drop people neutral release loop raven middle fly box";
+var mnemonic = "hard bid bicycle banana desert above brave unveil when laptop weasel town";

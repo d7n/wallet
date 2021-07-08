@@ -1,1 +1,1 @@
-var mnemonic = "image upset table minute august actor short oval lesson hungry gas truly";
+var mnemonic = "shell spatial remind action chat offer pass pitch correct frog remember debate";

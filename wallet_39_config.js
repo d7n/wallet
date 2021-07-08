@@ -1,1 +1,1 @@
-var mnemonic = "cabbage village fit twice people tilt fragile cluster pioneer color question orange";
+var mnemonic = "want party advance predict collect gas scheme report subway chuckle diesel say";

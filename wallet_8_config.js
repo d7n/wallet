@@ -1,1 +1,1 @@
-var mnemonic = "target horn deal teach east report half coach mother kit inflict exclude";
+var mnemonic = "more few pupil canal fault spirit grape office spoil vacuum culture face";

@@ -1,1 +1,1 @@
-var mnemonic = "hero power claim kick steak bargain brand hurry galaxy orphan illness damp";
+var mnemonic = "lamp inform that brother skin library point neglect depart weather notable month";

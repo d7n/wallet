@@ -1,1 +1,1 @@
-var mnemonic = "spare hello dizzy innocent lecture scorpion type access glow peasant business merry";
+var mnemonic = "into motor student donate have despair exchange parade sell kit crystal valley";

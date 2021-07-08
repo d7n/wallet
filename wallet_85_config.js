@@ -1,1 +1,1 @@
-var mnemonic = "captain jeans atom place marine skin drop cram hamster ancient fog weather";
+var mnemonic = "company track average boring avoid acquire faint acquire claim about maze fashion";

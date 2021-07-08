@@ -1,1 +1,1 @@
-var mnemonic = "just true maple merry mouse idea avoid size dust tired clean soul";
+var mnemonic = "impose engage ketchup must addict april ensure wing opera stable goddess pottery";

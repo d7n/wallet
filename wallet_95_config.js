@@ -1,1 +1,1 @@
-var mnemonic = "hotel zoo collect fatigue quantum segment tray hair fog mind frequent insect";
+var mnemonic = "elephant embrace cradle romance vapor middle exist child april believe about trumpet";

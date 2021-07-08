@@ -1,1 +1,1 @@
-var mnemonic = "adjust mean repeat crisp cross fatal dust review alley just observe hair";
+var mnemonic = "parade nurse scale few bonus turkey dwarf unhappy pond banana chapter lady";

@@ -1,1 +1,1 @@
-var mnemonic = "define consider meadow burst labor correct grief ride frost state recipe boat";
+var mnemonic = "neither palm grass friend supreme visual first priority paper era roof seminar";

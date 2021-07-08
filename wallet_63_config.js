@@ -1,1 +1,1 @@
-var mnemonic = "anger shallow theory drum motion measure enjoy cycle sense pill dinosaur sign";
+var mnemonic = "loop report badge subject item sock erupt phone urge caught father host";

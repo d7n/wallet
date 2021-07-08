@@ -1,1 +1,1 @@
-var mnemonic = "saddle acquire way thank motion offer tiger ribbon city tribe master build";
+var mnemonic = "virtual market social rent era merge current auction know topple muffin phrase";

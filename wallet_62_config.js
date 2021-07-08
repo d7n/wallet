@@ -1,1 +1,1 @@
-var mnemonic = "south burst tragic jar defense shock detect iron cricket ethics parrot work";
+var mnemonic = "pioneer squirrel welcome mammal palace bid castle slogan dance topic duck spirit";
