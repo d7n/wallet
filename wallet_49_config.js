@@ -1,1 +1,1 @@
-var mnemonic = "hamster banner stage type gown call host party famous reduce oyster load";
+var mnemonic = "bulk indoor caught shadow mosquito border mirror garbage endless noise furnace catalog";

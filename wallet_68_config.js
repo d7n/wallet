@@ -1,1 +1,1 @@
-var mnemonic = "lyrics document thumb educate veteran stairs monster muffin reopen marine absurd symbol";
+var mnemonic = "accuse ethics artwork decide vote prevent erode east math cook cup jazz";

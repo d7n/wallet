@@ -1,1 +1,1 @@
-var mnemonic = "high claw finish enroll holiday small club range slush cook space bridge";
+var mnemonic = "elephant shallow echo parrot file awkward denial involve expose stairs feed mail";

@@ -1,1 +1,1 @@
-var mnemonic = "genius region vocal early risk book devote charge course present off burger";
+var mnemonic = "best cereal chapter increase answer balance bracket share brick butter crater room";

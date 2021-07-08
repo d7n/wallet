@@ -1,1 +1,1 @@
-var mnemonic = "because boring inmate consider another picture lazy skull flavor actress ancient island";
+var mnemonic = "biology enhance rubber tent cable reject reveal material shell jelly wheel level";

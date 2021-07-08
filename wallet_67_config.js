@@ -1,1 +1,1 @@
-var mnemonic = "segment detail same glow bonus globe damp basket turtle dose ship card";
+var mnemonic = "slush talk cupboard biology forward invite lazy charge embody supreme tip void";

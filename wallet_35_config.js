@@ -1,1 +1,1 @@
-var mnemonic = "pluck rescue lava cream arena velvet hair capital whip ivory survey figure";
+var mnemonic = "where puzzle blast left clarify promote fun snap devote patient destroy must";

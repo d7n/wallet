@@ -1,1 +1,1 @@
-var mnemonic = "stove bronze guard iron arrest leopard connect pulp chicken orbit also glare";
+var mnemonic = "soccer when grid barrel attend knee spoon mention steel sudden govern hospital";

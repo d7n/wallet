@@ -1,1 +1,1 @@
-var mnemonic = "wheel fee captain neck kiwi wine include inside math supreme shield deposit";
+var mnemonic = "rebuild chat long weather such anxiety enjoy embark scene nation human sure";

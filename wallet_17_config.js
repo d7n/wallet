@@ -1,1 +1,1 @@
-var mnemonic = "make buddy identify used expose minimum green phrase vague south mistake powder";
+var mnemonic = "puppy inject oven roast clock expire drastic pigeon main excite rally social";

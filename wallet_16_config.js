@@ -1,1 +1,1 @@
-var mnemonic = "exact build artwork salad equal milk near slab denial twelve barely injury";
+var mnemonic = "magic coin rice false impact fine inject artist arrange pride diet opera";

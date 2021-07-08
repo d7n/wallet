@@ -1,1 +1,1 @@
-var mnemonic = "bag episode tomato advice sponsor vital flee use original great nominee orange";
+var mnemonic = "twist high warm ask party option net easy story unfold heart roof";

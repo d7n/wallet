@@ -1,1 +1,1 @@
-var mnemonic = "huge enact envelope budget erase clean candy yard segment dirt march verify";
+var mnemonic = "wood wink stamp life very angry caught volcano man misery orient canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "swap frame volcano ramp track foot insect rural hair marriage color unique";
+var mnemonic = "record switch unaware member dial today stumble balcony clump inmate act device";

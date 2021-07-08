@@ -1,1 +1,1 @@
-var mnemonic = "emotion misery gauge minimum general opera warm canvas alert aim fashion pass";
+var mnemonic = "morning setup notable book shy capable now organ garden another dry edit";

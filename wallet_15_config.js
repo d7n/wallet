@@ -1,1 +1,1 @@
-var mnemonic = "retire hood unfair armor love garlic present news what taxi scheme charge";
+var mnemonic = "never scorpion grass box wash flame pear torch ecology country frozen cradle";

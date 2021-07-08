@@ -1,1 +1,1 @@
-var mnemonic = "job divorce friend pet damp yard morning bean hello stumble plunge novel";
+var mnemonic = "venture patch decorate crash nephew today keen tone order tobacco behave elite";

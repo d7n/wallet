@@ -1,1 +1,1 @@
-var mnemonic = "clock west lottery bus finish total original echo bar differ famous eyebrow";
+var mnemonic = "maximum garage knife tent traffic tape cage mule spawn antique roof off";

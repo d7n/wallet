@@ -1,1 +1,1 @@
-var mnemonic = "blue offer torch squirrel unhappy man chimney hand sense post hat distance";
+var mnemonic = "wrist parade cool dial clip husband dream close radio theme stereo repeat";

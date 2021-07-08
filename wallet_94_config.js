@@ -1,1 +1,1 @@
-var mnemonic = "mixed strong carry nurse penalty omit become acid dirt allow mercy twice";
+var mnemonic = "repeat elevator glue impulse path design require allow security force infant ribbon";

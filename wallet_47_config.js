@@ -1,1 +1,1 @@
-var mnemonic = "video decrease you cotton sort slice delay dizzy hurt palm during shield";
+var mnemonic = "noble peasant alpha fox drill marble grape normal hat stamp virus security";

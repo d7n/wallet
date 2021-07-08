@@ -1,1 +1,1 @@
-var mnemonic = "friend claim glad nothing empower change shove random scout move cannon milk";
+var mnemonic = "uniform multiply alarm print deputy digital deny cup bronze client desert awesome";

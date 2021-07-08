@@ -1,1 +1,1 @@
-var mnemonic = "topple staff fetch scorpion soup figure bitter brick please virus predict carbon";
+var mnemonic = "connect ring system question you theory average little fiction extend small ring";

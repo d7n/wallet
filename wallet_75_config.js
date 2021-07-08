@@ -1,1 +1,1 @@
-var mnemonic = "beach refuse garage need rigid program vibrant taxi someone boss cargo proud";
+var mnemonic = "fox rail hard swear scare half swift save crew flash crunch seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant link demise reject spare inflict autumn bracket denial autumn easily lonely";
+var mnemonic = "relief frost spare easy emerge evidence visual chief parent beyond replace glad";

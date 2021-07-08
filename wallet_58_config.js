@@ -1,1 +1,1 @@
-var mnemonic = "flash march pear festival run provide you correct spike sadness manage choose";
+var mnemonic = "forum mountain gas rent glimpse defy short absurd bounce size unveil retire";

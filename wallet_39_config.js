@@ -1,1 +1,1 @@
-var mnemonic = "blind elegant lounge local carry evoke hunt huge symptom sport phrase portion";
+var mnemonic = "glide female require ladder script cover invest salon group prevent saddle code";

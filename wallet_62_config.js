@@ -1,1 +1,1 @@
-var mnemonic = "track file canoe typical green chimney parrot joy voyage elevator industry load";
+var mnemonic = "frequent suit high voice pattern rude book casino senior gospel pen slab";

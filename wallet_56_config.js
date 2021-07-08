@@ -1,1 +1,1 @@
-var mnemonic = "guilt dignity assist arrange doctor tomato erase siege suspect tissue level crucial";
+var mnemonic = "extra oblige extra wink panther network void garment bean fancy paper universe";

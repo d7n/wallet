@@ -1,1 +1,1 @@
-var mnemonic = "page brass blue also muffin swim foam total shell pencil fatal charge";
+var mnemonic = "silly negative transfer federal swarm antique clay fold mixed educate rival bus";

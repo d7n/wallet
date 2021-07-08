@@ -1,1 +1,1 @@
-var mnemonic = "tomato swift vote crater series fence excess glory decide window shadow solar";
+var mnemonic = "erode script rival badge ketchup neck behave virtual afford bicycle crawl pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "grass shed private figure exhaust smooth idea venture limb power gossip cloud";
+var mnemonic = "quick fox town mesh magic divert welcome exhibit father prefer tumble ship";

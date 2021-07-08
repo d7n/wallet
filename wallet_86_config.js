@@ -1,1 +1,1 @@
-var mnemonic = "special shy possible draw page follow control cactus convince toast robot token";
+var mnemonic = "zoo elder lecture crumble pig child trigger region next tip income solar";

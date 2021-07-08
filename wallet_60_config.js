@@ -1,1 +1,1 @@
-var mnemonic = "gaze distance name plate ghost wave abstract word strong weapon tribe smooth";
+var mnemonic = "vocal eye home bullet metal height royal plunge dinosaur spider busy chronic";

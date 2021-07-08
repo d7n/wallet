@@ -1,1 +1,1 @@
-var mnemonic = "behave month cancel boring unhappy rocket nice dose else pudding logic relief";
+var mnemonic = "tide emotion minor silly fade under city shy child rib salad enforce";

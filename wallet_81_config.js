@@ -1,1 +1,1 @@
-var mnemonic = "second empower fall step learn ship empower dad lunar length assist forward";
+var mnemonic = "inspire maple order badge amazing table squeeze patient buffalo giant reveal window";

@@ -1,1 +1,1 @@
-var mnemonic = "tide grab knee empty click seek ignore pepper stool doll artwork horn";
+var mnemonic = "claim unusual tired base pioneer grass fluid resemble swim ladder mountain farm";

@@ -1,1 +1,1 @@
-var mnemonic = "state accident ride already draft merit electric wing flame prison plug midnight";
+var mnemonic = "core laptop dress hockey powder scorpion palm long bread boring space muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "hat tree crowd life board zero team coffee scissors earn abandon soup";
+var mnemonic = "century drive hen puppy apology edge pencil begin rabbit that summer cupboard";

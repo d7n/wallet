@@ -1,1 +1,1 @@
-var mnemonic = "keen glide city hammer mystery student clever disorder wrong bar patch current";
+var mnemonic = "hazard gold short clay usual tube solve photo wire make amateur uncover";

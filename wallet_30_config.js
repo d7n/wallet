@@ -1,1 +1,1 @@
-var mnemonic = "run vicious atom hurry borrow shield illness midnight couch poverty blast wheel";
+var mnemonic = "normal limb blossom round nothing parent neither paper hedgehog link just glad";

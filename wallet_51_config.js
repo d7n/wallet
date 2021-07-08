@@ -1,1 +1,1 @@
-var mnemonic = "material firm essence skin reject ticket sketch mobile cruise cruel proud brave";
+var mnemonic = "rebuild right patrol pair coral vintage label among neck bicycle elephant wheat";

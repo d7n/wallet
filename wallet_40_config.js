@@ -1,1 +1,1 @@
-var mnemonic = "slot spike want valid range boat divide predict half blind end paper";
+var mnemonic = "tone print pyramid kid sentence bracket glide provide void estate sing success";

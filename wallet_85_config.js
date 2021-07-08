@@ -1,1 +1,1 @@
-var mnemonic = "school zone gossip girl toy blue bitter tired narrow income mirror describe";
+var mnemonic = "rural scout race concert strike stool harsh energy bronze bench smart blood";

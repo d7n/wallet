@@ -1,1 +1,1 @@
-var mnemonic = "odor arch canvas craft squirrel bridge later dentist pave oppose faith cattle";
+var mnemonic = "keep cherry wheat celery stool smile clever romance burden worth shiver orange";

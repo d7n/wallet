@@ -1,1 +1,1 @@
-var mnemonic = "first team endorse pet juice spend smart raven soda lobster taxi another";
+var mnemonic = "together casual tackle sun script security hat diamond veteran coast flame game";

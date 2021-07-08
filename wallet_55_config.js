@@ -1,1 +1,1 @@
-var mnemonic = "fall play mountain dwarf fox plastic joy song risk zone current unaware";
+var mnemonic = "valve smile unlock split subway master frog scrap near save above ignore";

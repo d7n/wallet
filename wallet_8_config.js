@@ -1,1 +1,1 @@
-var mnemonic = "net mango fruit long source walk dad case borrow glad mirror chief";
+var mnemonic = "wrong actress ocean stone winner fame can history inner spring auction effort";

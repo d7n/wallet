@@ -1,1 +1,1 @@
-var mnemonic = "romance almost trigger exercise roast double elephant message reopen depend blue adjust";
+var mnemonic = "abandon divert fiscal vote keep such deliver dress bamboo clarify eternal actual";

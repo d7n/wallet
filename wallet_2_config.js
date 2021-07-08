@@ -1,1 +1,1 @@
-var mnemonic = "era reduce leg skirt jacket economy cream click morning barely upper faith";
+var mnemonic = "lucky canal mimic curious viable moral helmet subject case slab kitchen hamster";

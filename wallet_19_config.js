@@ -1,1 +1,1 @@
-var mnemonic = "immune rent inflict lab clutch orient travel fiscal penalty exact include smart";
+var mnemonic = "matter middle bronze grain adapt float open swap analyst empower thumb audit";

@@ -1,1 +1,1 @@
-var mnemonic = "alter river exclude flat long dizzy surround other code distance ball buzz";
+var mnemonic = "wheat nose scare august lemon warfare trash all resource upper ecology scatter";

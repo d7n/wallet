@@ -1,1 +1,1 @@
-var mnemonic = "case weird uncle slice student icon flight wisdom model travel captain salon";
+var mnemonic = "grace oppose jar yard brass eager decrease exact wire theory buffalo uncover";

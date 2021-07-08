@@ -1,1 +1,1 @@
-var mnemonic = "cube layer already leave any fat maple sick net vital tragic prefer";
+var mnemonic = "struggle pelican second wild amazing mouse around common half romance source left";

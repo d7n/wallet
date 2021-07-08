@@ -1,1 +1,1 @@
-var mnemonic = "then drive merge boring aspect guitar exile until horse jeans lesson journey";
+var mnemonic = "ozone hamster mango swallow phone gas wrestle punch detail fit guess fire";

@@ -1,1 +1,1 @@
-var mnemonic = "glad rose swift chuckle raven install essence floor beef hamster afford timber";
+var mnemonic = "cause theme actress congress menu frog cause discover deny shift above thumb";

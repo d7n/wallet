@@ -1,1 +1,1 @@
-var mnemonic = "negative spread scrub faith dinner artist sentence worth ladder layer renew input";
+var mnemonic = "cost rapid purse defense tribe comic debate nature safe devote museum solution";

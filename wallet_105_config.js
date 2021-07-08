@@ -1,1 +1,1 @@
-var mnemonic = "clown inherit eye sadness kidney rice alley first hospital edge blue eye";
+var mnemonic = "couch advance review melody furnace girl term salt planet boost direct grow";

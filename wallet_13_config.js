@@ -1,1 +1,1 @@
-var mnemonic = "person topple sound lounge fun blast drastic mandate drill flight tonight monitor";
+var mnemonic = "burst riot ghost large age wife hammer alpha someone key destroy hip";

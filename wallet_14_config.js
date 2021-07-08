@@ -1,1 +1,1 @@
-var mnemonic = "jungle acquire unusual library host ghost huge reason diesel simple faculty champion";
+var mnemonic = "olive snap mercy equal neither all novel plug obscure glue crack usage";

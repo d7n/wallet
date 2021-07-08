@@ -1,1 +1,1 @@
-var mnemonic = "cloth right protect shell pledge design sibling disagree mesh afraid brain donate";
+var mnemonic = "plate hill lab play curve exhaust cover small snack unknown shell siege";

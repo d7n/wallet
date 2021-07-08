@@ -1,1 +1,1 @@
-var mnemonic = "release trigger define produce bar early wasp bitter domain warfare there hole";
+var mnemonic = "rebel life staff jungle rival taxi family stable just all cruel provide";

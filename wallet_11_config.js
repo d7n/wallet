@@ -1,1 +1,1 @@
-var mnemonic = "arm protect area subject damage vintage people again cereal gown pyramid deputy";
+var mnemonic = "tube life major attract clap invite despair crane turtle pet banner typical";

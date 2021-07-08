@@ -1,1 +1,1 @@
-var mnemonic = "blind floor farm broken ghost rifle field lecture left warm shuffle shy";
+var mnemonic = "course suffer now damp blossom address autumn target upon render stem remain";

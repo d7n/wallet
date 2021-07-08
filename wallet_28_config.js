@@ -1,1 +1,1 @@
-var mnemonic = "cabbage report bachelor endless quit enter wool eyebrow loan ritual apart cereal";
+var mnemonic = "skin gauge image auction happy live vicious trade drama inherit chair easy";

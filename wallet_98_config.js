@@ -1,1 +1,1 @@
-var mnemonic = "abstract stable online private rug inherit tower turtle transfer afraid focus index";
+var mnemonic = "pave catch tilt disagree promote major size useful elevator boring rose find";

@@ -1,1 +1,1 @@
-var mnemonic = "body field garbage pride wrong robot assume prefer metal orient element sponsor";
+var mnemonic = "upon cereal hen august subway poem rent reduce unaware example spare broom";

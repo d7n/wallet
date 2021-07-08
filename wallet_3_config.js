@@ -1,1 +1,1 @@
-var mnemonic = "reject wrestle oppose lend dad salt purse east glide clap crumble ostrich";
+var mnemonic = "welcome ecology tongue apart margin elevator come crystal peanut column inquiry cricket";

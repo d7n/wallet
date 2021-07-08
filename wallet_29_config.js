@@ -1,1 +1,1 @@
-var mnemonic = "alley total indicate area buzz soldier edit slot amazing loyal attract worth";
+var mnemonic = "market jar burger discover plastic congress door melody horror glass turkey canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve execute kiwi afraid route age shiver cactus old limb elevator unit";
+var mnemonic = "right fade door dog summer prison ice ramp medal gain drum museum";

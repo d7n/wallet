@@ -1,1 +1,1 @@
-var mnemonic = "mask junk leader spirit wagon waste frown speak pattern night company sword";
+var mnemonic = "cactus stage bachelor swift umbrella flat paddle sure puppy flock success submit";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch awful mountain small destroy warfare child balcony ahead mix hybrid thing";
+var mnemonic = "ride spoil under sort walk fitness violin can struggle useful move hover";

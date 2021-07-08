@@ -1,1 +1,1 @@
-var mnemonic = "reason surface force return lawn liar forest oven torch daughter orphan used";
+var mnemonic = "round obvious live bronze train antique salmon keep silent height ignore fabric";

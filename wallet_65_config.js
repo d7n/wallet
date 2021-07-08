@@ -1,1 +1,1 @@
-var mnemonic = "cup fold planet memory dwarf simple matter screen human casual fabric pistol";
+var mnemonic = "team happy extend raven lazy sting obvious taste more find decline dose";

@@ -1,1 +1,1 @@
-var mnemonic = "under axis mule expect reward that illness seminar night girl large access";
+var mnemonic = "curtain field borrow cushion rice empty team misery avoid siren identify hat";

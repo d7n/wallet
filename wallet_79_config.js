@@ -1,1 +1,1 @@
-var mnemonic = "aerobic noodle equip kiwi super again afford fuel bomb file sure pulp";
+var mnemonic = "pig mountain knock include acquire unique shoulder decade blush begin horn daughter";

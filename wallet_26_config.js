@@ -1,1 +1,1 @@
-var mnemonic = "orange field absorb easy render guess project north upgrade firm winter soft";
+var mnemonic = "topple practice fat secret grant system together stove diet area marine near";

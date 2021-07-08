@@ -1,1 +1,1 @@
-var mnemonic = "shuffle world word setup salon decorate curtain egg crew end cancel stay";
+var mnemonic = "annual fuel husband arrange depth panic leaf also fatigue snap cliff amount";

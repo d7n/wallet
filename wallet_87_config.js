@@ -1,1 +1,1 @@
-var mnemonic = "bind siren fiction plate used label museum virus vehicle wish outer plate";
+var mnemonic = "cannon latin child vacuum cabin decrease field protect service weasel know post";

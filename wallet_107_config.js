@@ -1,1 +1,1 @@
-var mnemonic = "whisper swarm asthma margin zero pride pink march unusual there unknown million";
+var mnemonic = "oppose rice young tackle capital brick letter measure siren witness mandate pizza";

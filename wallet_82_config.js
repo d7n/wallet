@@ -1,1 +1,1 @@
-var mnemonic = "more fee clay rigid toddler border math bronze various practice weird indoor";
+var mnemonic = "book body fabric night they artefact fringe flip flavor glide arm garden";

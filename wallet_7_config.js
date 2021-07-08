@@ -1,1 +1,1 @@
-var mnemonic = "leader work method whip turtle also coach broom lawn bid pool breeze";
+var mnemonic = "garage custom since found spatial pottery brand guard banner over win typical";

@@ -1,1 +1,1 @@
-var mnemonic = "trip ocean resist unknown aunt cargo cinnamon list route surprise canyon stadium";
+var mnemonic = "usual bird cube sort cause betray sun voyage teach divide shop banner";

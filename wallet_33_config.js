@@ -1,1 +1,1 @@
-var mnemonic = "life pulse daring tissue ability beauty cross seven butter traffic weekend pair";
+var mnemonic = "term shoe cloud consider segment cloth dutch remove sphere awake near layer";

@@ -1,1 +1,1 @@
-var mnemonic = "cake cruise soccer approve insect tragic cube leg blush wish device naive";
+var mnemonic = "aspect suggest gown close welcome genius copper pioneer spot kick figure husband";

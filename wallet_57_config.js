@@ -1,1 +1,1 @@
-var mnemonic = "nature else feature decorate horn grace digital note divide odor dumb lunch";
+var mnemonic = "early congress owner little pencil win crisp foster stem cactus almost ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "lens lazy flame foam crucial mistake jeans oval together width sad arm";
+var mnemonic = "place drama correct turtle major first city virtual brown gauge mask mobile";

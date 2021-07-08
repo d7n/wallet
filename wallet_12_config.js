@@ -1,1 +1,1 @@
-var mnemonic = "window mom jungle bargain exhaust movie gesture unhappy online office suggest health";
+var mnemonic = "measure reopen broccoli razor nest fame critic visual term danger decrease float";
