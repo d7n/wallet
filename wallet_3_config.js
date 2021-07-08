@@ -1,1 +1,1 @@
-var mnemonic = "blur clown spare document enforce viable squeeze force fold lobster slab air";
+var mnemonic = "hurry maze topple palace alarm cheese dust other height cheese creek eye";

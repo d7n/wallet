@@ -1,1 +1,1 @@
-var mnemonic = "night bus nothing island measure report book sight avocado ice account rail";
+var mnemonic = "modify error history remind top gym crush size country reject analyst oven";

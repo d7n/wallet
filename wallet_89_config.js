@@ -1,1 +1,1 @@
-var mnemonic = "snap body wrap denial easy draw illegal margin soft friend expire random";
+var mnemonic = "board invite dragon pulp prize donate arena magnet nurse smooth describe master";

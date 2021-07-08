@@ -1,1 +1,1 @@
-var mnemonic = "essence diesel scatter eye glide replace sell code vault pelican echo host";
+var mnemonic = "deny ozone dice crucial shrug similar ski east exclude gentle relax food";

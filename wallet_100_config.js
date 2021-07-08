@@ -1,1 +1,1 @@
-var mnemonic = "party cup puppy announce step either output pink siege symptom solution tongue";
+var mnemonic = "crime verify urge attitude motor dinner museum frost tackle color gasp segment";

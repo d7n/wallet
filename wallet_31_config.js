@@ -1,1 +1,1 @@
-var mnemonic = "vault own tenant copper enhance casino silver chicken modify loud busy lottery";
+var mnemonic = "law gallery toy rent vendor air gravity sponsor very earth brush tomorrow";

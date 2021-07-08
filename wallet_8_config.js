@@ -1,1 +1,1 @@
-var mnemonic = "cricket yard play noodle hub final inherit pledge people wild walk occur";
+var mnemonic = "absurd tent gloom recall hero reform exit labor loop select chuckle horse";

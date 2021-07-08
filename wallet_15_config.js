@@ -1,1 +1,1 @@
-var mnemonic = "actor dial harbor dismiss social breeze snap hole sea fluid column flame";
+var mnemonic = "tomorrow payment skate spider hobby pattern desk spoon lazy bar slot element";

@@ -1,1 +1,1 @@
-var mnemonic = "naive float august anger hero square alone million surround earth soft nut";
+var mnemonic = "hope pool version festival moon orphan teach risk coral trick evolve admit";

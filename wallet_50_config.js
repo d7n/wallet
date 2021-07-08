@@ -1,1 +1,1 @@
-var mnemonic = "blade hub current burden twelve fuel marriage gown eager vanish offer staff";
+var mnemonic = "scare pole company leisure wealth drum beauty burst language orchard wall traffic";

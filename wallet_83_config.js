@@ -1,1 +1,1 @@
-var mnemonic = "trash process loan confirm fly stomach empty minute strategy pepper potato submit";
+var mnemonic = "surprise teach accuse garage swim scale indoor wool they across bean path";

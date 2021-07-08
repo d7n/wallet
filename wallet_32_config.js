@@ -1,1 +1,1 @@
-var mnemonic = "creek lonely dizzy flat glance maid faculty virtual swim derive mystery pole";
+var mnemonic = "invest robot alert mushroom cabin final champion because ecology solution cousin bread";

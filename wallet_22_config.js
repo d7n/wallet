@@ -1,1 +1,1 @@
-var mnemonic = "over upgrade kitten history obtain special equal cool solve elephant screen sick";
+var mnemonic = "hero romance drive under camp humor salt brass prosper heavy mobile bone";

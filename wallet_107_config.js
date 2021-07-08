@@ -1,1 +1,1 @@
-var mnemonic = "visa blade intact school grunt tribe rule frozen garment dismiss amateur segment";
+var mnemonic = "century pink trash absorb swarm coconut radar bomb skirt earn escape exist";

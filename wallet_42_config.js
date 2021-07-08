@@ -1,1 +1,1 @@
-var mnemonic = "pave apple foam health weekend inherit coast fire envelope pizza win element";
+var mnemonic = "service couch drastic sentence animal saddle kid twist tired insane spike story";

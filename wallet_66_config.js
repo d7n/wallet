@@ -1,1 +1,1 @@
-var mnemonic = "grit retire obey energy north tourist pull gap step someone between since";
+var mnemonic = "flower industry pigeon traffic two midnight curious school crime file pizza arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "right gate okay juice lonely rib rely toss review crouch vague away";
+var mnemonic = "across trap music knee mercy photo hurt pledge siege judge change together";

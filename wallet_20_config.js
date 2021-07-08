@@ -1,1 +1,1 @@
-var mnemonic = "boy cement popular cheese manage business little apart clinic giant crop pepper";
+var mnemonic = "announce switch express hood nothing spatial diagram issue chase earth jungle lobster";

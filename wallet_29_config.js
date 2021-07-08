@@ -1,1 +1,1 @@
-var mnemonic = "nephew fiscal setup sphere dizzy liberty gadget rival swear you latin chuckle";
+var mnemonic = "blur unveil horse sausage success coral light actress basket problem trip pair";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol aerobic choose resist entire urban fun link produce knock flip rug";
+var mnemonic = "drink apology bean success tell veteran cross fun boil ask miracle panther";

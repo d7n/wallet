@@ -1,1 +1,1 @@
-var mnemonic = "humble random false shallow parrot trust laugh then project pigeon raise task";
+var mnemonic = "ranch eight dash panda estate pretty verb local relief original wait diet";

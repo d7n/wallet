@@ -1,1 +1,1 @@
-var mnemonic = "glide release cupboard rare region occur client phone ski stick note smoke";
+var mnemonic = "post hand brave school august slice pave grape release leader pepper olympic";

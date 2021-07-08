@@ -1,1 +1,1 @@
-var mnemonic = "biology envelope muscle perfect scatter word resist future scrub prison piano course";
+var mnemonic = "pride nice twist radio fall luxury duty ramp donor either dove reveal";

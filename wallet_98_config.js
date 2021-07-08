@@ -1,1 +1,1 @@
-var mnemonic = "picture festival nut shadow flee whip visit rug home ahead foot cup";
+var mnemonic = "soap theory gown virus tilt extra save pill wonder plug surround worth";

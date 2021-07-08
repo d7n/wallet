@@ -1,1 +1,1 @@
-var mnemonic = "dad burden deliver increase priority more trust traffic crazy own crucial alter";
+var mnemonic = "can maid hover surprise resource old business wait decide plastic small oak";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm lonely summer wife such tragic chef hawk kind elegant hour right";
+var mnemonic = "prize scene rebuild load broccoli float enlist robust royal pink search retreat";

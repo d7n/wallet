@@ -1,1 +1,1 @@
-var mnemonic = "cluster flat again emerge agree action fiscal quality height avoid ability toddler";
+var mnemonic = "husband focus use expect embody okay dish check drastic define peanut stick";

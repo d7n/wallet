@@ -1,1 +1,1 @@
-var mnemonic = "kidney breeze illegal canyon safe paper since vague spice soul basic insane";
+var mnemonic = "erupt palm muffin summer mesh amused symbol live merry sell ring title";

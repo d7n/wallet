@@ -1,1 +1,1 @@
-var mnemonic = "impose kangaroo mushroom echo polar source certain tackle cruise drink strike void";
+var mnemonic = "skill decline flame torch key funny rich gym whip sock viable awake";

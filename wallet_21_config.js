@@ -1,1 +1,1 @@
-var mnemonic = "army boy memory pigeon unique attack ride pilot square surround total avocado";
+var mnemonic = "spice then rate dwarf core mutual dirt clay mechanic ball bounce scale";

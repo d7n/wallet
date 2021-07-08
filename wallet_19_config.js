@@ -1,1 +1,1 @@
-var mnemonic = "access autumn bring cube canal sister razor frozen vessel space need neglect";
+var mnemonic = "angle glue strategy input vital frog orient hammer bulb seed fuel action";

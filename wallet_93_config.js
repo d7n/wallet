@@ -1,1 +1,1 @@
-var mnemonic = "maximum visa beach wine tank mesh idea stage jar clay season bless";
+var mnemonic = "pet neglect stuff float hundred drive fault chalk crisp salute assume used";

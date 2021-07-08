@@ -1,1 +1,1 @@
-var mnemonic = "morning spend shoulder remind reject split hybrid maid galaxy orange purse sustain";
+var mnemonic = "minute rail oil bulb ensure welcome profit source code endless weather coconut";

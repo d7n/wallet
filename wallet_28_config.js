@@ -1,1 +1,1 @@
-var mnemonic = "virtual citizen alley mimic army exact notable finger mass ritual heavy bike";
+var mnemonic = "ring scheme bench marble brown deer expire doctor ladder stem coyote fee";

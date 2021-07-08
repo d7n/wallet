@@ -1,1 +1,1 @@
-var mnemonic = "abuse twice check slot save leopard deputy foot supreme sketch drum rather";
+var mnemonic = "candy tongue chapter master cool wedding floor thing call insect venture call";

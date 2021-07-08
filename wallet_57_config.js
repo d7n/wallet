@@ -1,1 +1,1 @@
-var mnemonic = "silver vintage rocket marble act trigger fly attack vendor key life blossom";
+var mnemonic = "dignity return typical cage fortune eternal leg shift rough shed swift arrange";

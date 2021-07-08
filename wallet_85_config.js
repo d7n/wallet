@@ -1,1 +1,1 @@
-var mnemonic = "ask already pudding allow rib snake wealth hand story fog army sibling";
+var mnemonic = "else ahead submit pioneer narrow review task endless wonder anger pyramid village";

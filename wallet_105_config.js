@@ -1,1 +1,1 @@
-var mnemonic = "left find okay pigeon deer true slam crucial collect empower own neglect";
+var mnemonic = "flip steel cage door field omit dynamic great fitness globe tired whisper";

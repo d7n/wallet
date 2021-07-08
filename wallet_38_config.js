@@ -1,1 +1,1 @@
-var mnemonic = "miss all grunt brisk turkey glide hawk corn champion soul frog dress";
+var mnemonic = "neutral hold kick number awesome hobby witness endless nurse miracle tray step";

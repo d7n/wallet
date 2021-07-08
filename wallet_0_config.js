@@ -1,1 +1,1 @@
-var mnemonic = "noise detail animal share volcano rich equal chunk soon front merry dress";
+var mnemonic = "prison paper buddy often avocado angle novel live castle frozen wasp super";

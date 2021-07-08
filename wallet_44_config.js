@@ -1,1 +1,1 @@
-var mnemonic = "brain undo come kingdom siren film tuition hair awake fancy loyal hint";
+var mnemonic = "curtain long sniff gossip tomato vanish timber view beauty bus census frame";

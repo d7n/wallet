@@ -1,1 +1,1 @@
-var mnemonic = "large mixed ask nut feed ozone knife census path deer bundle team";
+var mnemonic = "shoulder medal pelican utility claim face piano foam gap snow rather journey";

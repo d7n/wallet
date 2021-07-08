@@ -1,1 +1,1 @@
-var mnemonic = "neglect catch liquid deer tribe chair destroy party sun debris eternal hobby";
+var mnemonic = "ability journey decide lecture festival hat present true puppy only fan gaze";

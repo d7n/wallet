@@ -1,1 +1,1 @@
-var mnemonic = "flip magnet space hat corn resist client book carpet crystal ordinary library";
+var mnemonic = "edge mention language cage route help kit dress have news settle merit";

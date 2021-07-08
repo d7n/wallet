@@ -1,1 +1,1 @@
-var mnemonic = "admit dream pear pause hospital morning thing flower duck render worth favorite";
+var mnemonic = "middle unlock symbol also fuel lake creek donkey fold reject mail bonus";

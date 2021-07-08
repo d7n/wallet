@@ -1,1 +1,1 @@
-var mnemonic = "enjoy cotton view bundle share undo couple magic endless typical paddle supreme";
+var mnemonic = "skill fog drama glove post organ select now parent toast tenant just";

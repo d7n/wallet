@@ -1,1 +1,1 @@
-var mnemonic = "radar same feel cruel couple match occur ozone tackle amount muscle toward";
+var mnemonic = "modify range talent symbol carbon purchase short grid cinnamon census walk pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "demise bid staff fatal tray expose gas fatal among turn peanut subject";
+var mnemonic = "machine deliver wage pause dinosaur satisfy claw borrow group document kit wonder";

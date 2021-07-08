@@ -1,1 +1,1 @@
-var mnemonic = "release pill clog magic involve shed great safe glass large amused gate";
+var mnemonic = "range subject until taxi hunt employ fiscal proud then people circle large";

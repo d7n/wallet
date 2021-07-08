@@ -1,1 +1,1 @@
-var mnemonic = "vendor high clay never sense turn merge arctic chief bind denial east";
+var mnemonic = "ride visa gap enable tribe taxi daughter never suspect dry tip twist";

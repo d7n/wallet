@@ -1,1 +1,1 @@
-var mnemonic = "lunar profit frog caught judge company image profit shaft wolf reunion decline";
+var mnemonic = "gown gloom blame want ceiling cheap neglect mixture gesture dove exit child";

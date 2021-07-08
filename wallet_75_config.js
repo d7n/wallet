@@ -1,1 +1,1 @@
-var mnemonic = "jungle tribe fan ritual innocent pyramid olive uncover public random steel isolate";
+var mnemonic = "mesh close wall obtain cabbage exchange stable balcony pull chat sword special";

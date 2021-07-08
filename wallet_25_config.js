@@ -1,1 +1,1 @@
-var mnemonic = "caught must pair observe dream maple author tent faculty improve arch master";
+var mnemonic = "left visual avocado learn hero tunnel knife basket emerge work raise idea";

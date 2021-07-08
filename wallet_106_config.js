@@ -1,1 +1,1 @@
-var mnemonic = "dwarf silly tool basic crowd quote recall purpose common depend brother shuffle";
+var mnemonic = "fabric dune error few move wrong model trophy sniff spend push core";

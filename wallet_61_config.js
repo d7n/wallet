@@ -1,1 +1,1 @@
-var mnemonic = "junk buffalo moment sense bunker tuition letter save hammer disagree erase goat";
+var mnemonic = "tribe tray notice scheme hand upon melody judge royal garage solid chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "since wealth magic palace pulse scrap invest salt hip eternal magnet rare";
+var mnemonic = "bike sugar warfare skill season nerve crowd mass sadness file turn cushion";

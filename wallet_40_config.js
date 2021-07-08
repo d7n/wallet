@@ -1,1 +1,1 @@
-var mnemonic = "spoon scrap vacuum rare rather empower local divert fresh wheel always couch";
+var mnemonic = "possible frown popular stereo unit unique honey pulse silly web town repeat";

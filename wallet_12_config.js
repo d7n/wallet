@@ -1,1 +1,1 @@
-var mnemonic = "city detail drop upon search cradle sort educate loan jazz armor yellow";
+var mnemonic = "tail mimic price senior ecology movie obey script immune push ship slight";

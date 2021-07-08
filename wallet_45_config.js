@@ -1,1 +1,1 @@
-var mnemonic = "bench catch drip example help step earth define wait lobster wait acquire";
+var mnemonic = "album dial tornado crater above oak victory sun welcome subject lens mask";

@@ -1,1 +1,1 @@
-var mnemonic = "hole master goat media satoshi problem check trust series various hotel agree";
+var mnemonic = "below belt range violin artefact wrong cattle voyage tumble uncover title pattern";

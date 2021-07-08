@@ -1,1 +1,1 @@
-var mnemonic = "genuine impact upper pelican donkey illness display monster critic direct fiction heart";
+var mnemonic = "elite enlist winter crisp first that little all huge fancy vendor foil";

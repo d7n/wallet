@@ -1,1 +1,1 @@
-var mnemonic = "snow bitter neck unusual drip front solution electric donor bonus suit armor";
+var mnemonic = "perfect warfare exit ordinary gap brick attend vote require wild maximum fall";

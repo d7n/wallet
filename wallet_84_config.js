@@ -1,1 +1,1 @@
-var mnemonic = "exact friend old divide spot genre model neutral margin fault cabbage cluster";
+var mnemonic = "clock route similar draft drum wire dentist future cube burst lyrics dragon";

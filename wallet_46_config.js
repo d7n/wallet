@@ -1,1 +1,1 @@
-var mnemonic = "future device orchard canal decade similar radar useless craft another segment strategy";
+var mnemonic = "account harbor begin soccer borrow volume kit route oxygen solution public swamp";

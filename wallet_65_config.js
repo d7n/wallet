@@ -1,1 +1,1 @@
-var mnemonic = "citizen away alarm guess very point orient modify vessel dentist six science";
+var mnemonic = "tape deposit gown biology meat april gift barrel busy brick feel begin";

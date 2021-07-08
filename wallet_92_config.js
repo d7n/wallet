@@ -1,1 +1,1 @@
-var mnemonic = "choose fluid advice cargo defense bicycle permit spread mean web entire must";
+var mnemonic = "story sponsor twice scissors silent cram fee sniff globe hint dune amount";

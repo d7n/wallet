@@ -1,1 +1,1 @@
-var mnemonic = "upset garlic filter cage since analyst feel syrup cattle fire law blame";
+var mnemonic = "special seat before guilt talk smile claw wheat endorse rule lunch wear";

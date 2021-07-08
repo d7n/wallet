@@ -1,1 +1,1 @@
-var mnemonic = "trend execute flee cabbage limb lunar prosper devote embody twice gas rent";
+var mnemonic = "tide crash price seven card syrup design scissors regular pelican document harsh";

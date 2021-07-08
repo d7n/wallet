@@ -1,1 +1,1 @@
-var mnemonic = "grant gallery sudden equip hard move magic bubble main man sudden hat";
+var mnemonic = "buddy shoe make absurd sibling minor salt move glad ship grape breeze";

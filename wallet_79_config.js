@@ -1,1 +1,1 @@
-var mnemonic = "farm fabric real hamster crunch budget boat armed cube useful lobster oblige";
+var mnemonic = "patient city fashion merit absent derive title off melt dentist still wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf sail cherry firm humble glad tilt marble version toast supreme august";
+var mnemonic = "pear morning damage crystal fringe giggle praise evolve garlic sad neither toy";

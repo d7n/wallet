@@ -1,1 +1,1 @@
-var mnemonic = "early nasty winner shallow spice area person conduct payment dune repair cable";
+var mnemonic = "danger whale wolf wing hub mouse dolphin boring strike face brain pilot";

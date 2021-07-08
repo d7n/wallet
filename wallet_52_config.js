@@ -1,1 +1,1 @@
-var mnemonic = "net return valley culture tool summer mechanic theory survey poem size odor";
+var mnemonic = "monkey drum domain rookie crystal dad monitor blame nose better kitchen pigeon";

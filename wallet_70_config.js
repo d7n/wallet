@@ -1,1 +1,1 @@
-var mnemonic = "since general drastic differ letter vocal squeeze chuckle raw lawn shuffle meadow";
+var mnemonic = "debate lazy off gain label lottery ancient fog dream ladder banana across";

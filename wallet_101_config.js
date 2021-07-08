@@ -1,1 +1,1 @@
-var mnemonic = "below chest machine vast recycle list describe cheap spirit jeans example rich";
+var mnemonic = "foam armor cat morning erase top life matter inner gown drama omit";

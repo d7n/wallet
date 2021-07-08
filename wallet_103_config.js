@@ -1,1 +1,1 @@
-var mnemonic = "cream romance pair kid comic inner initial beach indoor base hood waste";
+var mnemonic = "churn fun say veteran jungle beach obtain unaware source seminar perfect cheese";

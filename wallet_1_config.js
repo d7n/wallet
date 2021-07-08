@@ -1,1 +1,1 @@
-var mnemonic = "unable obscure human unhappy nuclear load dice trust economy friend limb timber";
+var mnemonic = "horse void tennis school notice coach transfer used dismiss alert make shock";

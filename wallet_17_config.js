@@ -1,1 +1,1 @@
-var mnemonic = "disagree acid ocean useless spend inch share rhythm action weasel inquiry interest";
+var mnemonic = "seminar silent feed sell stamp position cereal deny about together mind maple";

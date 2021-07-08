@@ -1,1 +1,1 @@
-var mnemonic = "situate donor pottery logic online hen project warm road oil castle face";
+var mnemonic = "supreme child swear poet rely coach wear subway mansion arctic inhale now";

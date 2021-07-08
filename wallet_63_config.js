@@ -1,1 +1,1 @@
-var mnemonic = "law region aisle unique duck eye coyote wheel beauty index coconut blue";
+var mnemonic = "end grid arrive great mind feature patch clutch seek upper loyal learn";

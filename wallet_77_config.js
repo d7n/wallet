@@ -1,1 +1,1 @@
-var mnemonic = "estate uncle october between into snow brave solid loop school orange life";
+var mnemonic = "dismiss click candy faint hammer thought marine prepare begin afford orange scheme";

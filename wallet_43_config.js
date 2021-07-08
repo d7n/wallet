@@ -1,1 +1,1 @@
-var mnemonic = "hurt flash swear income galaxy emerge divide wing error false pride fence";
+var mnemonic = "sport portion hard change cruise job stuff virtual question ship leave salon";

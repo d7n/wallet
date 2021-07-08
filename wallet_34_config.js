@@ -1,1 +1,1 @@
-var mnemonic = "armor cradle elephant child brown material glimpse fiscal repeat ahead student warfare";
+var mnemonic = "hint aware curtain replace appear smoke giraffe dinner donkey tribe salt error";

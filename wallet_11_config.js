@@ -1,1 +1,1 @@
-var mnemonic = "almost roof curtain view jewel target flash legal opinion right pilot suspect";
+var mnemonic = "lens stable typical rose slice become depart blood heart chaos tell swallow";

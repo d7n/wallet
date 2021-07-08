@@ -1,1 +1,1 @@
-var mnemonic = "globe review cotton insane virtual jelly van member reopen hollow angle jealous";
+var mnemonic = "leave cannon black jump moon verify element drama menu code play save";
