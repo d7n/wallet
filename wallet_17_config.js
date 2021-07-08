@@ -1,1 +1,1 @@
-var mnemonic = "wish paper element puppy ability account torch scorpion twist fabric sunny skate";
+var mnemonic = "helmet reveal kite release pond jealous banana chalk train moral country rotate";

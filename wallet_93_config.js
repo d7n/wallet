@@ -1,1 +1,1 @@
-var mnemonic = "better inch position infant ship genre twist innocent hammer walk script crane";
+var mnemonic = "taste solve jelly warm insect ripple blind accident remember link neither guitar";

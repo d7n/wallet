@@ -1,1 +1,1 @@
-var mnemonic = "current view trial garlic clerk defense benefit skull garment slim recipe shaft";
+var mnemonic = "piano holiday afraid enemy merry effort come cancel neck local worry muffin";

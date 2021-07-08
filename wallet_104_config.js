@@ -1,1 +1,1 @@
-var mnemonic = "expire health tornado invite morning long long health immune stem absurd charge";
+var mnemonic = "decorate broken nose youth gas blade end source quantum aspect range already";

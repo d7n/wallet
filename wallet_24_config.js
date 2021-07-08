@@ -1,1 +1,1 @@
-var mnemonic = "drama emerge dice point scissors bargain skirt crucial feed fix attract chat";
+var mnemonic = "fiscal tape hip giggle female method donkey pencil husband divide enjoy column";

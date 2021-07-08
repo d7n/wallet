@@ -1,1 +1,1 @@
-var mnemonic = "wasp pretty door hurry furnace goddess smile barrel version game quality chronic";
+var mnemonic = "hamster sniff angry raccoon jewel version speak crop flash glide people stairs";

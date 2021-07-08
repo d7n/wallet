@@ -1,1 +1,1 @@
-var mnemonic = "walnut month click era track dose pulp economy expect gap view push";
+var mnemonic = "matter tattoo holiday youth hour fly above civil dignity side mixed lumber";

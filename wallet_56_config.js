@@ -1,1 +1,1 @@
-var mnemonic = "mixture brisk opera capital raw admit rare copy replace regular flight injury";
+var mnemonic = "promote bronze middle cable swamp squirrel car elder romance auction acoustic bike";

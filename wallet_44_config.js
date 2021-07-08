@@ -1,1 +1,1 @@
-var mnemonic = "artefact merry team shoulder sound weird together neither wire slide sheriff plunge";
+var mnemonic = "grunt only dentist menu tattoo million roast hollow reject come canvas stick";

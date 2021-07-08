@@ -1,1 +1,1 @@
-var mnemonic = "kick future soldier jelly goddess ice across prefer oval drama ignore daughter";
+var mnemonic = "clap tuna coin nut teach fiber myth swallow letter smoke rude crane";

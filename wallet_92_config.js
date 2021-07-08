@@ -1,1 +1,1 @@
-var mnemonic = "salmon that exile echo half census settle predict blast custom buzz long";
+var mnemonic = "arrow dizzy payment winner essay crawl mutual repair festival able left near";

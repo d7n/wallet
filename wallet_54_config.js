@@ -1,1 +1,1 @@
-var mnemonic = "spell word impulse own decorate find split vendor this edit spray region";
+var mnemonic = "town able pull other blade erase alter train humble trigger scheme palm";

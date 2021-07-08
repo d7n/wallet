@@ -1,1 +1,1 @@
-var mnemonic = "next kit street domain predict vault top news cinnamon pluck festival able";
+var mnemonic = "cement renew rare equal cancel debate shoe scrap speak kick sister decade";

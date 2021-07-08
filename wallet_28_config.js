@@ -1,1 +1,1 @@
-var mnemonic = "jump rate bronze claw hurt argue enrich decline ready crater always friend";
+var mnemonic = "river wreck expose bulb lab weekend theory smile scare leader ice aspect";

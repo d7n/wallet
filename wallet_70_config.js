@@ -1,1 +1,1 @@
-var mnemonic = "cash second mountain company ethics suggest torch marriage subway smile crisp heavy";
+var mnemonic = "fetch cycle shock busy reveal tray soldier silent move recipe cruel net";

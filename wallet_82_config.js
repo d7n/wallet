@@ -1,1 +1,1 @@
-var mnemonic = "early correct blue pluck say power music drift egg body ghost solar";
+var mnemonic = "practice force gold garden blade blue runway magnet canyon festival mad bind";

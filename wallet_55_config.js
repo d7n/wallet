@@ -1,1 +1,1 @@
-var mnemonic = "quantum scale sound online dash credit laundry sing acid over gallery alpha";
+var mnemonic = "onion where hood evidence chuckle attitude pattern orient circle hawk flavor end";

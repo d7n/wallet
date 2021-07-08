@@ -1,1 +1,1 @@
-var mnemonic = "wine pattern dash theme velvet razor verify faculty heart shrug surround dove";
+var mnemonic = "shadow alter genius vacant protect spread salon amused mesh fringe blouse fork";

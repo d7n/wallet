@@ -1,1 +1,1 @@
-var mnemonic = "produce raven kitchen scrap swim eternal vessel top whip era ramp ostrich";
+var mnemonic = "market corn cart caught orbit ill stand couple funny area ski kind";

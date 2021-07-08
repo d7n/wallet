@@ -1,1 +1,1 @@
-var mnemonic = "exchange combine festival echo maid camp clerk cement often board high night";
+var mnemonic = "trophy learn impact dentist curtain keen place chat scissors awake accident latin";

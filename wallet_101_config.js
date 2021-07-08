@@ -1,1 +1,1 @@
-var mnemonic = "jaguar fat moment remind improve orphan trust soda miss water route film";
+var mnemonic = "shallow believe excite amused square cave nice dismiss pupil depend cousin vessel";

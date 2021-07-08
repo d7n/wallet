@@ -1,1 +1,1 @@
-var mnemonic = "negative soul again bunker cement author crumble loyal shift reason sunset tissue";
+var mnemonic = "point answer chair minimum spray bike cave drama divorce book payment lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge design share front squirrel immune drastic brain dismiss country kite file";
+var mnemonic = "sense buzz grab gloom fabric flock exact also move measure pet grit";

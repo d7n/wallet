@@ -1,1 +1,1 @@
-var mnemonic = "wolf deputy evil vessel spatial spy ritual artefact judge ridge guard trim";
+var mnemonic = "stage double stem staff usual enrich honey mention window gold draw people";

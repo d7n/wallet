@@ -1,1 +1,1 @@
-var mnemonic = "size subject wide output hazard notice man area neck reunion slogan chase";
+var mnemonic = "inhale lift coil body gloom adjust dune project solar enjoy switch vacuum";

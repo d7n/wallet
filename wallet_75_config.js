@@ -1,1 +1,1 @@
-var mnemonic = "flash vicious special symptom empower dream betray hip retire sorry snack polar";
+var mnemonic = "six negative disease frog steel armor use before cloth topic quote sound";

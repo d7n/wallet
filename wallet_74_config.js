@@ -1,1 +1,1 @@
-var mnemonic = "receive penalty mouse weekend swap session solid expand wheat report that area";
+var mnemonic = "alley coral staff please entry holiday topple mass someone immense other solid";

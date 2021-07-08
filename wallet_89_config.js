@@ -1,1 +1,1 @@
-var mnemonic = "breeze impulse stem crumble wing side choice decide quarter require quit permit";
+var mnemonic = "certain fine tower miss together alpha model column hundred screen note grant";

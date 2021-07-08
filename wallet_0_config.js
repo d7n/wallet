@@ -1,1 +1,1 @@
-var mnemonic = "goat manage control until emerge north drip cruel update concert buyer theory";
+var mnemonic = "lunar update board season betray quarter panda analyst coffee pottery neck skate";

@@ -1,1 +1,1 @@
-var mnemonic = "mom system hobby jazz direct liberty when feel oak margin divert daring";
+var mnemonic = "major laptop subject remain spread puppy action become ocean ethics flame execute";

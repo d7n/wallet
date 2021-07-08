@@ -1,1 +1,1 @@
-var mnemonic = "zoo attract vapor fever rural obscure direct swamp tomorrow mosquito certain patch";
+var mnemonic = "earth settle answer nature heart define split script law together traffic lunch";

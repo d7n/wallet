@@ -1,1 +1,1 @@
-var mnemonic = "orient anchor mind quality harsh dish crucial stuff derive east salmon age";
+var mnemonic = "silk shine kitchen wire extra mountain above adapt deliver glove raven enough";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage area praise evolve ordinary iron hair limit eternal exit alley brisk";
+var mnemonic = "stage smoke replace spoil year bargain crowd crack poet process charge runway";

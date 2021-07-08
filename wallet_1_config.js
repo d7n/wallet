@@ -1,1 +1,1 @@
-var mnemonic = "immune patrol depth mother anxiety cat ride amateur nuclear morning fame slot";
+var mnemonic = "grass obtain book question tennis nasty couch indicate page stock renew brand";

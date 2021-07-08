@@ -1,1 +1,1 @@
-var mnemonic = "elevator noble dice action ten smart gravity trade final bargain duty dirt";
+var mnemonic = "unit tool device uncle exercise scatter update venue tone fork velvet key";

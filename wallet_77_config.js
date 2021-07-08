@@ -1,1 +1,1 @@
-var mnemonic = "supply enjoy only kitchen early wish tiger clarify crunch erode drive cart";
+var mnemonic = "swear hero october daring toy setup chalk sting pen rubber apology artwork";

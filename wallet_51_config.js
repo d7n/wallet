@@ -1,1 +1,1 @@
-var mnemonic = "runway vacant bicycle daughter letter emotion cycle remove save embark warrior cute";
+var mnemonic = "fault census adapt produce used other item decorate movie cargo talent excite";

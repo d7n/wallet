@@ -1,1 +1,1 @@
-var mnemonic = "delay fine knock drift interest teach comic fresh denial easily obvious concert";
+var mnemonic = "protect wet acoustic midnight road write erode actor angry grace nice fold";

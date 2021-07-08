@@ -1,1 +1,1 @@
-var mnemonic = "second drop reject tomato uncover supply ticket solve voice possible swift share";
+var mnemonic = "purse govern able ahead spy hair tray auto clean drop exclude divert";

@@ -1,1 +1,1 @@
-var mnemonic = "oven deposit donkey method tortoise walnut dry addict dizzy ceiling orient board";
+var mnemonic = "essay country impulse inmate outer dress trial off someone minimum ice smoke";

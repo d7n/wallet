@@ -1,1 +1,1 @@
-var mnemonic = "spell rotate legal slush want chronic hurry stuff pink beauty suggest wife";
+var mnemonic = "pistol deposit bridge afford crucial tower awake life easily panic cancel stereo";

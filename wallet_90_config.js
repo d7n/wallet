@@ -1,1 +1,1 @@
-var mnemonic = "much uncover silly gain security rhythm amateur brisk advance various cause spoon";
+var mnemonic = "eternal uniform exact thrive delay coil tent salute vocal snow youth soldier";

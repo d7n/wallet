@@ -1,1 +1,1 @@
-var mnemonic = "lunch kick airport image bike tobacco slogan visit wedding cup cluster acoustic";
+var mnemonic = "tenant this current depart army meat fortune vocal engage cute butter elevator";

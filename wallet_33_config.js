@@ -1,1 +1,1 @@
-var mnemonic = "animal three spray clinic depart fee balance fence old scorpion coffee outdoor";
+var mnemonic = "soldier afford danger meadow spy allow brisk noodle wife evolve champion forest";

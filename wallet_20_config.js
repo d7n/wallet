@@ -1,1 +1,1 @@
-var mnemonic = "nose foil palm issue benefit room gauge coin solid odor club topic";
+var mnemonic = "inform approve emerge abuse claim gap danger size nominee accuse quiz egg";

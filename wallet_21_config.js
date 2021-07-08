@@ -1,1 +1,1 @@
-var mnemonic = "warrior whale garbage april labor loan carbon cup congress inherit sustain soul";
+var mnemonic = "bundle poverty focus credit jungle boost layer dance trophy fame nose decrease";

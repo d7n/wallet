@@ -1,1 +1,1 @@
-var mnemonic = "surge ticket today flat owner pudding move universe path vacuum plate maple";
+var mnemonic = "action must own avocado crash glide once skill word paper banana shine";

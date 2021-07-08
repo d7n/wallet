@@ -1,1 +1,1 @@
-var mnemonic = "wild check garlic edit diet victory attract suffer palm letter twist omit";
+var mnemonic = "garlic mandate isolate twice twin assault dolphin pulse develop victory human amateur";

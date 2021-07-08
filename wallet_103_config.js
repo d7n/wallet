@@ -1,1 +1,1 @@
-var mnemonic = "motion card opinion rely supply slice tumble sugar hint normal grain same";
+var mnemonic = "secret nurse avocado hedgehog destroy kite later correct loop wrap pig bullet";

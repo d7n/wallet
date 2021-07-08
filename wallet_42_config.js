@@ -1,1 +1,1 @@
-var mnemonic = "vessel memory basket find rent trust witness rubber devote puzzle group mosquito";
+var mnemonic = "matter annual follow diet fun skull gather trial kiss unable rug base";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon chimney flock table employ sleep issue act acoustic lift cave process";
+var mnemonic = "battle capital grant similar end crush divert obtain venue key title unit";

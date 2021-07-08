@@ -1,1 +1,1 @@
-var mnemonic = "match forum catch cute head still jealous unlock harvest tilt frozen stereo";
+var mnemonic = "cruel course lake spawn learn theme human shield gather tape spice layer";

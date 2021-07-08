@@ -1,1 +1,1 @@
-var mnemonic = "exclude travel sadness stable sustain thumb friend fabric license excess accuse auction";
+var mnemonic = "injury wing october weather reward toddler alien cute north cargo couch faint";

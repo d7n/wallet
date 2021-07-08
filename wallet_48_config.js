@@ -1,1 +1,1 @@
-var mnemonic = "tag define shuffle chapter post basic fetch now ice drastic have leopard";
+var mnemonic = "dice awful alarm garbage knock disorder crawl hotel open jeans abuse alcohol";

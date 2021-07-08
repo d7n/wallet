@@ -1,1 +1,1 @@
-var mnemonic = "helmet reason object caught trend reform keen best bind ability omit emerge";
+var mnemonic = "ship ripple category tattoo quarter then gaze submit atom caution ostrich switch";

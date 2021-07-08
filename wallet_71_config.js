@@ -1,1 +1,1 @@
-var mnemonic = "fever pause thrive wrong diesel blossom cry home absurd accident collect fever";
+var mnemonic = "iron author carbon merry mandate elegant jump chase skill dirt topic transfer";

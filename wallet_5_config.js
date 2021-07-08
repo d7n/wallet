@@ -1,1 +1,1 @@
-var mnemonic = "mask bless inspire plunge frog always lava clap guilt original swamp sunny";
+var mnemonic = "patch surge abuse volcano couch gadget skirt elevator humble spirit ball junk";

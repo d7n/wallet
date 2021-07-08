@@ -1,1 +1,1 @@
-var mnemonic = "alone hawk saddle silver one acid stairs success brown prevent sand fall";
+var mnemonic = "list animal rate embark group eager polar shuffle answer danger juice raven";

@@ -1,1 +1,1 @@
-var mnemonic = "learn federal valve side eyebrow avoid crane menu dawn comic swear very";
+var mnemonic = "cluster thought frozen firm false any carry cram agent about vicious record";

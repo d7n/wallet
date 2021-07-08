@@ -1,1 +1,1 @@
-var mnemonic = "skull network digital shine captain flash slight food gauge expect vibrant never";
+var mnemonic = "famous riot bullet wild today employ crazy found pony forest flame cabbage";

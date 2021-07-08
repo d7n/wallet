@@ -1,1 +1,1 @@
-var mnemonic = "change grocery rent coach photo cycle solid switch between hospital lonely north";
+var mnemonic = "biology cactus merit lens school joke hire eight album vibrant stairs frown";

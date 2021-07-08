@@ -1,1 +1,1 @@
-var mnemonic = "snap cruel devote battle urban moment brother gold what ramp smart oval";
+var mnemonic = "mean worth illegal example demand eyebrow pact hockey satisfy release mixed transfer";

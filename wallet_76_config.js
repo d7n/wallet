@@ -1,1 +1,1 @@
-var mnemonic = "adapt lottery sing balance job obvious mobile mirror citizen veteran anchor minute";
+var mnemonic = "host awkward reveal cover embody slight sudden copy unveil sort express conduct";

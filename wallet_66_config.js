@@ -1,1 +1,1 @@
-var mnemonic = "vacant car heavy caught coffee keen into snow swing coin access dinosaur";
+var mnemonic = "length snow play want window swallow seminar hamster warfare luxury spirit range";

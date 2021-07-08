@@ -1,1 +1,1 @@
-var mnemonic = "vendor crime acquire tool seed lyrics false narrow world worth captain door";
+var mnemonic = "grunt cake truth abuse adapt regret thank tell venue mechanic observe update";

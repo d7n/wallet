@@ -1,1 +1,1 @@
-var mnemonic = "parrot device welcome clinic below narrow raccoon write proud attend stick faint";
+var mnemonic = "fog trick feel gorilla label room ceiling slide wash embark acquire cereal";

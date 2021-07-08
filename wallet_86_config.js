@@ -1,1 +1,1 @@
-var mnemonic = "island thank aim bulk outdoor nose wave young web cattle lady seven";
+var mnemonic = "miracle shell galaxy text cross unusual mandate photo luggage crop develop credit";

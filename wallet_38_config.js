@@ -1,1 +1,1 @@
-var mnemonic = "chest tank escape ostrich law require case quiz ordinary rural twin tennis";
+var mnemonic = "route plunge armed above cart snake mad extend suspect gospel venture tattoo";

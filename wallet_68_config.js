@@ -1,1 +1,1 @@
-var mnemonic = "juice during echo unveil law execute system sugar treat sentence soup tomato";
+var mnemonic = "success reunion hand squeeze soul pact artist tape woman already satoshi puzzle";

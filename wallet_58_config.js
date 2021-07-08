@@ -1,1 +1,1 @@
-var mnemonic = "soap prosper barrel illegal argue logic brown raw figure fiction amused idle";
+var mnemonic = "unhappy project mushroom kangaroo hub napkin donate doctor kidney spice glad fit";

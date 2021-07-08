@@ -1,1 +1,1 @@
-var mnemonic = "measure punch cigar face layer aisle liar orphan belt ice famous news";
+var mnemonic = "print ladder bread dizzy brief faculty female crumble region blue destroy toddler";

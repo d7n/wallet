@@ -1,1 +1,1 @@
-var mnemonic = "claw arena route pipe sea confirm boring raw castle unhappy solution toilet";
+var mnemonic = "middle fee game ticket alarm vacant gospel strong chat toilet post appear";

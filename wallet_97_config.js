@@ -1,1 +1,1 @@
-var mnemonic = "month school ecology inject sing normal consider snow document episode party spare";
+var mnemonic = "chapter fan often supreme dolphin burger lonely game crater moment outdoor celery";

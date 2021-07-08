@@ -1,1 +1,1 @@
-var mnemonic = "kiss large strong brass joke raccoon exit river loud crop rude reward";
+var mnemonic = "silk saddle grab toe milk risk split tackle mention before manual series";

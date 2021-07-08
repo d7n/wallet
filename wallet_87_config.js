@@ -1,1 +1,1 @@
-var mnemonic = "mistake convince math trap absurd hunt better same world point page used";
+var mnemonic = "cute initial one change cloth peanut paper amazing become season drift winter";

@@ -1,1 +1,1 @@
-var mnemonic = "depth unlock entry prize draw seat century else borrow soup address man";
+var mnemonic = "muscle novel piano approve lift arrive wave thunder bulb enable venue talk";

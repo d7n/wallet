@@ -1,1 +1,1 @@
-var mnemonic = "tank demand aspect magnet monitor alley always deputy domain achieve hurdle alert";
+var mnemonic = "tree render soup roof immense knee half leisure empty still again cool";

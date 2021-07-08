@@ -1,1 +1,1 @@
-var mnemonic = "august upgrade include fog useful bring mail arrest grass hurdle dirt hockey";
+var mnemonic = "duty cradle spread test include pulse about lock sunny south clever actress";

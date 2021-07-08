@@ -1,1 +1,1 @@
-var mnemonic = "half black diesel banana lab surge snap crack wisdom south erosion huge";
+var mnemonic = "tip orange excuse despair exchange staff laugh can double brick era west";

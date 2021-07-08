@@ -1,1 +1,1 @@
-var mnemonic = "guitar despair solid wealth bacon picnic merge junior marble buyer twist chapter";
+var mnemonic = "dirt stable kangaroo phrase avocado select worth wire birth marble useless group";

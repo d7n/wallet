@@ -1,1 +1,1 @@
-var mnemonic = "note cousin knock depend dutch pluck inmate neutral pilot squirrel mystery panel";
+var mnemonic = "trophy gold real hard potato equal company impose addict advice tonight grant";

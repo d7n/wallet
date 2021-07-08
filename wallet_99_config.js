@@ -1,1 +1,1 @@
-var mnemonic = "salute chair response cart extra very pepper roast shoe ordinary violin decline";
+var mnemonic = "rally gaze silk satoshi object review slow must above suspect ice maid";

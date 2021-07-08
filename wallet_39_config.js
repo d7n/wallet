@@ -1,1 +1,1 @@
-var mnemonic = "nut tonight runway mask prefer climb play box omit window shoot home";
+var mnemonic = "search giggle pole crazy atom spread rally false frequent wolf boil open";

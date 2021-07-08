@@ -1,1 +1,1 @@
-var mnemonic = "report mad wagon civil direct spring toy situate olive power fatal warrior";
+var mnemonic = "mirror paddle crack scrub develop spray coast tower final pony fluid attract";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware muscle coyote olive crowd eye foster stand anger venture cake record";
+var mnemonic = "mercy aerobic good live prefer account pulse lava bid label very awkward";

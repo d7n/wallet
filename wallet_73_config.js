@@ -1,1 +1,1 @@
-var mnemonic = "pretty jewel scrap unfair lobster peace add left sweet token ice green";
+var mnemonic = "buzz wash fold often nut pudding announce badge breeze legend poverty enough";

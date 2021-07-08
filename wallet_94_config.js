@@ -1,1 +1,1 @@
-var mnemonic = "ancient wolf box hammer illegal roast amateur rescue coral offer burst census";
+var mnemonic = "tilt gasp vague tuna visual flip echo proof female twist enforce spin";

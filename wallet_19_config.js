@@ -1,1 +1,1 @@
-var mnemonic = "blast gather damage outer another helmet host salmon allow panel list curtain";
+var mnemonic = "ignore cat unknown gadget surprise summer physical flower drill hurt kitchen chief";

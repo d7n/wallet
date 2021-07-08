@@ -1,1 +1,1 @@
-var mnemonic = "salmon enough opera acoustic thrive brain sausage shine nut grid learn dress";
+var mnemonic = "dash latin meat trip autumn cost ladder erosion cloth pride table top";

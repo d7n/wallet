@@ -1,1 +1,1 @@
-var mnemonic = "quote desert beyond depend warm aware mail bridge cement install end mango";
+var mnemonic = "coconut doctor female swallow amount smart question mouse talent ready cheese ghost";
