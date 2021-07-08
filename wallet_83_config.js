@@ -1,1 +1,1 @@
-var mnemonic = "lava accuse blade goddess breeze siege hotel lizard fork movie mobile distance";
+var mnemonic = "tenant salad armor caught wrong symbol powder truck north trial salute alone";

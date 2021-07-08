@@ -1,1 +1,1 @@
-var mnemonic = "pitch elevator define shift guilt minor march copper virtual sentence tomato wink";
+var mnemonic = "pigeon hollow spice rocket mixed village carpet trend window verify view approve";

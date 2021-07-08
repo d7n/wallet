@@ -1,1 +1,1 @@
-var mnemonic = "adjust insane turn stay adjust pool evil orient palm have cube other";
+var mnemonic = "model pig aim picture puppy base tennis entry grain remove chimney nuclear";

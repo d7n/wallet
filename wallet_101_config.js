@@ -1,1 +1,1 @@
-var mnemonic = "faint catch consider similar nominee tribe physical lottery extra picnic pause youth";
+var mnemonic = "run large oval power pioneer rule erase type scale improve you stuff";

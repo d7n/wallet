@@ -1,1 +1,1 @@
-var mnemonic = "leopard climb stomach cabbage gown onion trim organ fringe renew injury cable";
+var mnemonic = "that father ivory physical wreck horse amused people stock fox limit midnight";

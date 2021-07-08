@@ -1,1 +1,1 @@
-var mnemonic = "three lyrics kitten dynamic satoshi round home kiss animal miss fringe pretty";
+var mnemonic = "fiscal way secret grief wreck cabbage promote cake increase define toy extra";

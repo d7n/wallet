@@ -1,1 +1,1 @@
-var mnemonic = "dad tragic average equal regret eye oven gospel pass spell desert manual";
+var mnemonic = "exist project snake hello never gorilla supreme tornado woman olive area desk";

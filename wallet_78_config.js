@@ -1,1 +1,1 @@
-var mnemonic = "fetch dream trouble rally oxygen fatal concert gauge general final judge baby";
+var mnemonic = "like grit joke pattern nasty corn puppy clever riot shield finish attract";

@@ -1,1 +1,1 @@
-var mnemonic = "story key endless pill stool method grocery seed pluck sleep grow reveal";
+var mnemonic = "gather online cycle cotton hotel mango mercy reward stage response novel emotion";

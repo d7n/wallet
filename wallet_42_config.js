@@ -1,1 +1,1 @@
-var mnemonic = "list cake atom old sample inner pottery chapter quantum donor slide shrimp";
+var mnemonic = "antenna snow open tiger swarm debate census enroll resist sock toilet general";

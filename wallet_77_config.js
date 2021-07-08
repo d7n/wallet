@@ -1,1 +1,1 @@
-var mnemonic = "breeze sibling raven cousin grace scan ladder tape glue response hat snap";
+var mnemonic = "tape athlete glimpse oyster like private struggle forward mammal arm setup mammal";

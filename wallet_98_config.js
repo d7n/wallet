@@ -1,1 +1,1 @@
-var mnemonic = "car diet crater panther position radio human ability advance dwarf search top";
+var mnemonic = "smooth lock fan there merry audit naive core fruit female left innocent";

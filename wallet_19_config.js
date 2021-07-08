@@ -1,1 +1,1 @@
-var mnemonic = "snake correct desk salmon farm sweet judge upon any vote ecology garden";
+var mnemonic = "mean priority surround cram heart report boost mistake devote december ask drive";

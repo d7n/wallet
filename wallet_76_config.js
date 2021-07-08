@@ -1,1 +1,1 @@
-var mnemonic = "mutual model drink share twin peanut tribe biology return wine vault gadget";
+var mnemonic = "wire fold skirt powder damp vacuum very wreck deliver will tattoo fog";

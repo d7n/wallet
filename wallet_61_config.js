@@ -1,1 +1,1 @@
-var mnemonic = "rapid civil critic aim dismiss decade table announce debate place repair achieve";
+var mnemonic = "bind fan stomach boy seek quarter invest pink barely utility dad ghost";

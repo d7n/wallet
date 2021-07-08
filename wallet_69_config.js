@@ -1,1 +1,1 @@
-var mnemonic = "region wheel section mango make require cube unaware surround wreck muffin winner";
+var mnemonic = "cattle wheat congress have risk dismiss boss spend suspect entry ill blue";

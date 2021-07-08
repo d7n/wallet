@@ -1,1 +1,1 @@
-var mnemonic = "coral quote dream cupboard chief burden hockey rhythm thunder menu turtle pumpkin";
+var mnemonic = "unveil output unique ship name ridge spread unit flag shoot flight debris";

@@ -1,1 +1,1 @@
-var mnemonic = "jar humor fortune aerobic dad achieve tackle meadow common village ankle sphere";
+var mnemonic = "loop lion rug spoon coconut poet doctor grant local envelope today medal";

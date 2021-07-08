@@ -1,1 +1,1 @@
-var mnemonic = "alley toe beyond okay tortoise mule festival now episode curious elevator razor";
+var mnemonic = "head chase connect solve nominee menu kick spread alone cloud flat increase";

@@ -1,1 +1,1 @@
-var mnemonic = "lion place ramp lunch rigid lava floor beyond skill game shine toast";
+var mnemonic = "retire office survey leopard feed warrior obtain song amused water width march";

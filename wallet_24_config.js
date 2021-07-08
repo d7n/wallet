@@ -1,1 +1,1 @@
-var mnemonic = "erase mad despair web coffee undo visa lonely face diesel crop bench";
+var mnemonic = "project hold punch shove bridge stand era stamp myth evolve sniff bullet";

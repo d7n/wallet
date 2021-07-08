@@ -1,1 +1,1 @@
-var mnemonic = "learn skate confirm abstract despair rocket need fee vacuum awkward fame only";
+var mnemonic = "trick grow bracket segment soldier artefact door brain penalty response useless food";

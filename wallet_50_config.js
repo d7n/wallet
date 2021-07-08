@@ -1,1 +1,1 @@
-var mnemonic = "replace make hub rich tomorrow winter famous popular avocado warrior craft machine";
+var mnemonic = "own toddler powder ball bring goat leader excuse jacket virtual derive creek";

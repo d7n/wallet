@@ -1,1 +1,1 @@
-var mnemonic = "today stone romance room impulse episode crane evoke wait craft estate arctic";
+var mnemonic = "glass girl genius weather baby real pony blade pitch denial credit control";

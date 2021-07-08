@@ -1,1 +1,1 @@
-var mnemonic = "tackle garbage permit someone stick dinner clump pond floor column cattle rival";
+var mnemonic = "attend matrix damp sand music canoe upset predict slender brick balcony nephew";

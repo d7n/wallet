@@ -1,1 +1,1 @@
-var mnemonic = "weapon sister raw guitar craft tongue pair loop seed range warfare agent";
+var mnemonic = "critic tide ghost concert grid glance skirt brave where tail file news";

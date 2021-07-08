@@ -1,1 +1,1 @@
-var mnemonic = "weird peace army above permit come act minimum rapid party vendor spike";
+var mnemonic = "that tribe exist settle tortoise dream unique whisper state bottom hazard name";

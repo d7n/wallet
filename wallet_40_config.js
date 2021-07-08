@@ -1,1 +1,1 @@
-var mnemonic = "avoid fat visit sing wagon jazz token job old explain bright miracle";
+var mnemonic = "alone parade write stool tail define choose kiss diary alter cool banana";

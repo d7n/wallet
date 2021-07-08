@@ -1,1 +1,1 @@
-var mnemonic = "rifle flower acquire sheriff stereo craft owner begin express small excuse keep";
+var mnemonic = "clay school friend midnight burger foil burger olive toilet tornado prepare wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft phone enroll race body cost chat urban test legend capital shift";
+var mnemonic = "glue teach cancel similar satoshi inspire menu bulk hello awesome ostrich real";

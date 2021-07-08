@@ -1,1 +1,1 @@
-var mnemonic = "ladder silver file dust topple start base picnic hotel bargain delay never";
+var mnemonic = "copy float capable planet scatter excuse because gravity margin biology ahead arrest";

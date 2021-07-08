@@ -1,1 +1,1 @@
-var mnemonic = "angry skull upon very absorb solution ahead glimpse release april train embark";
+var mnemonic = "sauce attract cash coyote fly purity insane dish undo goddess art float";

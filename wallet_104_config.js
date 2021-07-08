@@ -1,1 +1,1 @@
-var mnemonic = "hawk deny rival route else letter turkey right cream royal album situate";
+var mnemonic = "flee circle steak close similar under escape gentle tornado sell tide service";

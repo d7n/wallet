@@ -1,1 +1,1 @@
-var mnemonic = "reform car rule enhance floor monster kite hockey beauty save famous cost";
+var mnemonic = "render fitness excess dumb despair anxiety nose lesson burden island valid category";

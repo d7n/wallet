@@ -1,1 +1,1 @@
-var mnemonic = "industry shift you word dance dignity breeze whip profit submit wet seek";
+var mnemonic = "update half fiber label school gas dismiss know alert life speed idea";

@@ -1,1 +1,1 @@
-var mnemonic = "boost ten naive carbon regular fever awkward artwork giggle animal solar undo";
+var mnemonic = "swim super blanket husband better village scheme east disagree brass adult observe";

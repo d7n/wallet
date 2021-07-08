@@ -1,1 +1,1 @@
-var mnemonic = "frequent hello carbon gate roof hair dial sponsor cruise husband purpose devote";
+var mnemonic = "group coin rate jar avoid fit truck print matrix copper stem absent";

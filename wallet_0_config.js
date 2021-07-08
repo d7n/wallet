@@ -1,1 +1,1 @@
-var mnemonic = "tired paper seven cruise jealous minimum crawl muffin welcome snake subway wall";
+var mnemonic = "lake author garbage mention pencil sphere sock auto high treat swarm model";

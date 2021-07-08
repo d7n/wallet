@@ -1,1 +1,1 @@
-var mnemonic = "deliver verify notice foot marriage clinic hint fan frame toward add manage";
+var mnemonic = "arctic jeans lend loop salon story bulb lawn mushroom torch brick tube";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd profit anger lizard risk steel edit vehicle account little route useful";
+var mnemonic = "sort input twenty tissue jewel tool myself engage funny ahead kick where";

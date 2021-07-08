@@ -1,1 +1,1 @@
-var mnemonic = "cricket brother panel exclude palace slender inch lesson deer rain novel tone";
+var mnemonic = "tomato wealth ship genuine total large alpha degree negative reflect rare rib";

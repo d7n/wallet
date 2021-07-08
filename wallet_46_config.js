@@ -1,1 +1,1 @@
-var mnemonic = "staff zebra drink used glare install adult ignore mind rotate exact unable";
+var mnemonic = "video snow glove glass smile huge cry route length rare place oven";

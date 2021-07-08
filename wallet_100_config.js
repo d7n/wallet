@@ -1,1 +1,1 @@
-var mnemonic = "resemble canal lion monitor delay beef puzzle glance hidden panda across grape";
+var mnemonic = "negative child picnic knee indicate super menu fun swing bitter more deliver";

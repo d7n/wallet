@@ -1,1 +1,1 @@
-var mnemonic = "aware crazy gown regret potato online eight inquiry siege vague flee feed";
+var mnemonic = "cinnamon base popular circle shed warm odor evoke stadium dizzy vague barrel";

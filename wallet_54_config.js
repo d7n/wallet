@@ -1,1 +1,1 @@
-var mnemonic = "nuclear split position board empty save become crouch tone toward amateur liar";
+var mnemonic = "cancel sponsor symptom regular hill cave quality task squeeze fruit loyal oyster";

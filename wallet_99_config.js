@@ -1,1 +1,1 @@
-var mnemonic = "pass shrug tape mutual detail north decorate drastic pave mother album empower";
+var mnemonic = "vendor sea table cherry envelope vicious elephant click coach inmate share tumble";

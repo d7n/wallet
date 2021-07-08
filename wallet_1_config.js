@@ -1,1 +1,1 @@
-var mnemonic = "extra unfold private profit young attack mask huge grant squeeze crop parent";
+var mnemonic = "smoke century file merit picnic shadow front engine knife horn ordinary quantum";

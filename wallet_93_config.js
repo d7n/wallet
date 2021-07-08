@@ -1,1 +1,1 @@
-var mnemonic = "opera real size bachelor plug text festival couple skin enjoy grief nurse";
+var mnemonic = "add attract bone satoshi check zebra manage letter picnic oval congress neither";

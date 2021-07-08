@@ -1,1 +1,1 @@
-var mnemonic = "census sound charge avocado fiction range ozone involve armed endorse gain rifle";
+var mnemonic = "lonely entry spider field arctic shine buffalo turkey umbrella shove pull february";

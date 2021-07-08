@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur subject rival dragon smile claim step wash supply gravity destroy blind";
+var mnemonic = "deposit jar case knock laundry blame normal portion noble oppose nephew fiction";

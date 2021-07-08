@@ -1,1 +1,1 @@
-var mnemonic = "tennis battle outdoor share rather multiply spice mail govern edit blossom pulse";
+var mnemonic = "divide afford busy noodle scout member spell planet swim observe flat one";

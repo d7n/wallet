@@ -1,1 +1,1 @@
-var mnemonic = "increase girl gravity orphan term turkey demand rookie snake fragile pass primary";
+var mnemonic = "route fence toe token goat flight only lab coral mobile satoshi maid";

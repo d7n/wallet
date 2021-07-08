@@ -1,1 +1,1 @@
-var mnemonic = "tuition spread flee sick hover crucial group congress omit cancel very tip";
+var mnemonic = "lawn hole split industry danger boy bacon man punch spell time midnight";

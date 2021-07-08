@@ -1,1 +1,1 @@
-var mnemonic = "boost miracle divorce monitor cool poverty logic mosquito coin hawk switch wood";
+var mnemonic = "degree replace wear concert tell hole attend brisk muffin potato swing monkey";

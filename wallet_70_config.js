@@ -1,1 +1,1 @@
-var mnemonic = "captain impose original divert churn siege inner monkey later prefer giggle economy";
+var mnemonic = "jungle vessel bottom scissors place immune winner around satisfy fold insect general";

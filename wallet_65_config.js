@@ -1,1 +1,1 @@
-var mnemonic = "submit reason tail piece frost dwarf property escape picnic senior return twice";
+var mnemonic = "sail swap ripple uniform visual quit hood attitude ignore benefit ability core";

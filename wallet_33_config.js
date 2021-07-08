@@ -1,1 +1,1 @@
-var mnemonic = "mansion party hint syrup notice wish note insect royal safe govern help";
+var mnemonic = "shiver train pear render parade later outer clip check casino blind recipe";

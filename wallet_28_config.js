@@ -1,1 +1,1 @@
-var mnemonic = "warrior calm shock celery sight coffee position between salmon ripple chapter tired";
+var mnemonic = "deer torch ghost clutch spy alcohol birth mesh avocado trick drink high";

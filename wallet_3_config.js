@@ -1,1 +1,1 @@
-var mnemonic = "vapor average merit voice lady viable bike dinosaur inmate mesh resource pave";
+var mnemonic = "aunt sheriff asset label deal ritual shell field beach knife pudding trade";

@@ -1,1 +1,1 @@
-var mnemonic = "youth valid humor unaware bike giant section primary spare attract junior trap";
+var mnemonic = "color suffer glass stuff lake fuel property glass olympic local artist casino";

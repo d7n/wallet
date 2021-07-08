@@ -1,1 +1,1 @@
-var mnemonic = "immune coast public tumble assist ketchup symptom inflict exercise modify rib bitter";
+var mnemonic = "employ biology fall bitter bottom spider word build leaf title fashion tenant";

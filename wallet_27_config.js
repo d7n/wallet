@@ -1,1 +1,1 @@
-var mnemonic = "duck ancient absent gold time trick mask truly chimney art embark debate";
+var mnemonic = "isolate uphold veteran mail lyrics supply ostrich parade sell tail enhance great";

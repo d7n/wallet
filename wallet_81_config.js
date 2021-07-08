@@ -1,1 +1,1 @@
-var mnemonic = "series attack danger man divert pet harsh annual close tortoise link toward";
+var mnemonic = "forward another quiz garage sketch duty pitch enroll tail drive vendor sunset";

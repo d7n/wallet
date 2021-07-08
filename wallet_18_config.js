@@ -1,1 +1,1 @@
-var mnemonic = "again type aunt permit stuff awesome certain silent devote crush bamboo thank";
+var mnemonic = "say crack broom animal increase belt try myth helmet lunch alcohol artist";

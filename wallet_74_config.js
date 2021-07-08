@@ -1,1 +1,1 @@
-var mnemonic = "boy employ jungle run enlist festival bar song chalk law tobacco nice";
+var mnemonic = "oak village mechanic pave dose crazy topic unique wage family thank tonight";

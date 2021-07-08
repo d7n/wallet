@@ -1,1 +1,1 @@
-var mnemonic = "journey occur water crash better forum snack boss work wild blue wrist";
+var mnemonic = "bunker motor detail library office video hard file trade liquid shrimp between";

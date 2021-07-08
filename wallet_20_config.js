@@ -1,1 +1,1 @@
-var mnemonic = "flash word ankle split problem guide kiwi output perfect blood tattoo agree";
+var mnemonic = "win crowd course attack suffer cupboard marble produce junior fitness shine room";

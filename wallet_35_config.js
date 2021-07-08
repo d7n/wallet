@@ -1,1 +1,1 @@
-var mnemonic = "connect lion sketch grow then kit snow book lesson belt valve dirt";
+var mnemonic = "switch piano tired over actual family voyage thumb pen fresh regret asset";

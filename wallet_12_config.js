@@ -1,1 +1,1 @@
-var mnemonic = "decide lottery april pyramid thunder ginger bridge drive scrub relief phrase voice";
+var mnemonic = "appear nature lunch orphan thank tree shine pencil vapor leave butter ring";

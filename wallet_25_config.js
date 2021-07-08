@@ -1,1 +1,1 @@
-var mnemonic = "tennis flag long rocket early front limit power breeze square fun original";
+var mnemonic = "update easy stool cute velvet vote genre confirm crop bracket observe angle";

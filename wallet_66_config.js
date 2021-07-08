@@ -1,1 +1,1 @@
-var mnemonic = "welcome spot basket holiday angry attitude smart mother swim idea final need";
+var mnemonic = "bag front rough speak deer luggage write replace media alarm outdoor display";

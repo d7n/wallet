@@ -1,1 +1,1 @@
-var mnemonic = "you ability destroy avoid eye oil answer garage excuse sudden rent artwork";
+var mnemonic = "chalk diary envelope census hedgehog primary left shoot rebuild sight crazy another";

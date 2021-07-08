@@ -1,1 +1,1 @@
-var mnemonic = "lab female key phrase upset anger loan eagle arrow post kingdom inhale";
+var mnemonic = "share reason minimum equal midnight easy penalty lunar loyal sail parade escape";

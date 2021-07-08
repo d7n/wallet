@@ -1,1 +1,1 @@
-var mnemonic = "episode canyon current end trip arctic slender define inject arrange enable vehicle";
+var mnemonic = "absorb size critic parrot genius aware horn point close attend result artist";

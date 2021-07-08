@@ -1,1 +1,1 @@
-var mnemonic = "embark dish frost bike when pigeon erosion length lamp damage rent item";
+var mnemonic = "bomb fuel control stadium shield song assault vendor broccoli wet loyal space";

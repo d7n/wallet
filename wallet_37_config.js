@@ -1,1 +1,1 @@
-var mnemonic = "wagon aim seed distance misery favorite coffee stereo wreck velvet live jungle";
+var mnemonic = "spatial rich flush recipe odor own cart uncover fitness inform dose coconut";

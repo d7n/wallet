@@ -1,1 +1,1 @@
-var mnemonic = "vanish match pink recall cloth kiss room stay nature ensure engine mansion";
+var mnemonic = "market boss anxiety trash present cream dwarf practice replace sauce trick marriage";

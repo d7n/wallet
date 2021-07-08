@@ -1,1 +1,1 @@
-var mnemonic = "distance produce shoot canoe boring possible airport access host chest skin cherry";
+var mnemonic = "hold harvest smooth fan sign lion aerobic doctor dust already lens foster";

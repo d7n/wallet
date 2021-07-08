@@ -1,1 +1,1 @@
-var mnemonic = "visual hotel grab absent thank seminar matter plate must sound heavy lift";
+var mnemonic = "coral legend junior device fence alarm position whisper keep happy spend hawk";

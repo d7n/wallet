@@ -1,1 +1,1 @@
-var mnemonic = "near jacket fiction view over leaf level jealous saddle broccoli describe shallow";
+var mnemonic = "boss always six valley dune comic patrol grant idle seek scout silly";

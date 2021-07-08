@@ -1,1 +1,1 @@
-var mnemonic = "script sponsor deliver shoe cereal vendor you lecture slow habit novel depend";
+var mnemonic = "deposit labor page solve razor tissue jazz blood hedgehog filter mushroom insect";

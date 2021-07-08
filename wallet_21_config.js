@@ -1,1 +1,1 @@
-var mnemonic = "trust coach harvest slot tattoo valve task brother letter glow flush ladder";
+var mnemonic = "thing canal pig young salad crop oppose virtual minimum identify glove diet";

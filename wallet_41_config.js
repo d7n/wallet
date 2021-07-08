@@ -1,1 +1,1 @@
-var mnemonic = "phone security enemy arch update vendor scale garlic occur thunder distance slogan";
+var mnemonic = "know omit sort soldier work utility maximum tape mule umbrella capital december";

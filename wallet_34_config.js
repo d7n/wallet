@@ -1,1 +1,1 @@
-var mnemonic = "wasp odor great page west net kidney diet material board input mountain";
+var mnemonic = "enact limb catalog track word nest candy bargain enemy board neglect melt";

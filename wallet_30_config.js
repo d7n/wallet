@@ -1,1 +1,1 @@
-var mnemonic = "ridge tip inherit glare prize cinnamon anger electric reward seven kit over";
+var mnemonic = "alley stage toe sea border dwarf slam bar reflect void seminar sunset";

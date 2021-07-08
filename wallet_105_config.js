@@ -1,1 +1,1 @@
-var mnemonic = "divide speak unable century joy ignore fix slender feed check dignity maximum";
+var mnemonic = "when slow struggle until grape bring charge fix skate ten blur coral";

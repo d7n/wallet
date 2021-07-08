@@ -1,1 +1,1 @@
-var mnemonic = "cradle property oil pledge moon eternal tilt truth hello guard page merry";
+var mnemonic = "act tumble aunt involve search negative gravity broom hurry shrimp profit know";

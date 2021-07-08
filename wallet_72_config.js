@@ -1,1 +1,1 @@
-var mnemonic = "maximum symbol rare effort virtual chief help vibrant hotel hunt midnight differ";
+var mnemonic = "solid cream almost follow accuse truly era episode miss drill coyote vote";

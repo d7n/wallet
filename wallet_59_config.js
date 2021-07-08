@@ -1,1 +1,1 @@
-var mnemonic = "loyal trash woman year double priority also episode produce extend step expire";
+var mnemonic = "dad shadow lunch live release clerk liquid random dragon slim dish dinosaur";

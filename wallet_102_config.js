@@ -1,1 +1,1 @@
-var mnemonic = "crazy cat evolve letter minor basic excuse art knock innocent science rail";
+var mnemonic = "feel lock embark solve interest remain step program joke spatial machine old";
