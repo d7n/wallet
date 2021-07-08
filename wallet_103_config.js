@@ -1,1 +1,1 @@
-var mnemonic = "churn fun say veteran jungle beach obtain unaware source seminar perfect cheese";
+var mnemonic = "memory typical solar powder reopen ticket supreme mimic depth twenty message earn";

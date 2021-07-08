@@ -1,1 +1,1 @@
-var mnemonic = "sport portion hard change cruise job stuff virtual question ship leave salon";
+var mnemonic = "resource tourist better equal cook letter winner swarm sock army inflict lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "board invite dragon pulp prize donate arena magnet nurse smooth describe master";
+var mnemonic = "monitor solid diesel assist priority special soup phone muscle pattern organ vague";

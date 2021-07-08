@@ -1,1 +1,1 @@
-var mnemonic = "service couch drastic sentence animal saddle kid twist tired insane spike story";
+var mnemonic = "recipe tired easily seed display whip excuse relax castle file destroy valley";

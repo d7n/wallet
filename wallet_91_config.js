@@ -1,1 +1,1 @@
-var mnemonic = "edge mention language cage route help kit dress have news settle merit";
+var mnemonic = "enter hunt cream marine before whip kick cinnamon soft essence reveal crowd";

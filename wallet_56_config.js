@@ -1,1 +1,1 @@
-var mnemonic = "lazy inform slice gentle special buyer hub slogan universe veteran best alley";
+var mnemonic = "flip glimpse oppose lab jacket slice allow trial rotate casual water festival";

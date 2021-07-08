@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin army grit salmon mass punch cushion order blue tornado giraffe page";
+var mnemonic = "extend protect mad person fork process milk taxi multiply sadness promote jacket";

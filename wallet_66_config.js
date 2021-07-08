@@ -1,1 +1,1 @@
-var mnemonic = "flower industry pigeon traffic two midnight curious school crime file pizza arrow";
+var mnemonic = "regular garden season gauge coil cigar index cancel climb accident guess caught";

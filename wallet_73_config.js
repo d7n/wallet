@@ -1,1 +1,1 @@
-var mnemonic = "scan file duty trim person air supply fish slam order this race";
+var mnemonic = "post hockey plug pet satisfy history airport birth venture pride decorate able";

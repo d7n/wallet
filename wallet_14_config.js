@@ -1,1 +1,1 @@
-var mnemonic = "pear morning damage crystal fringe giggle praise evolve garlic sad neither toy";
+var mnemonic = "rude wrap write enact solid world play joy hurry bean open guard";

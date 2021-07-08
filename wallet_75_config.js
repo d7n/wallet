@@ -1,1 +1,1 @@
-var mnemonic = "mesh close wall obtain cabbage exchange stable balcony pull chat sword special";
+var mnemonic = "woman biology fitness device credit donor paddle much recycle clever stand pyramid";

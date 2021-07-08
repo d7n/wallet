@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow payment skate spider hobby pattern desk spoon lazy bar slot element";
+var mnemonic = "core spatial throw truly luggage young hello style live nest pepper mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain long sniff gossip tomato vanish timber view beauty bus census frame";
+var mnemonic = "admit define brass such refuse baby dash joke evidence job sand song";

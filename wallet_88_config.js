@@ -1,1 +1,1 @@
-var mnemonic = "world area gym salon all clip because beauty math chase estate duty";
+var mnemonic = "trip oven dry people donor illness fly divorce sentence people pencil february";

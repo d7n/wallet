@@ -1,1 +1,1 @@
-var mnemonic = "palace include win section balcony midnight flat goose diamond basket cage lion";
+var mnemonic = "gospel invest clarify top question attack skate spray dizzy burger pact middle";

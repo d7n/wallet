@@ -1,1 +1,1 @@
-var mnemonic = "across trap music knee mercy photo hurt pledge siege judge change together";
+var mnemonic = "upset noodle clutch swing zone useful tiny climb blood direct come trouble";

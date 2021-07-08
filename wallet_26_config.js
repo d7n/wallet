@@ -1,1 +1,1 @@
-var mnemonic = "supreme child swear poet rely coach wear subway mansion arctic inhale now";
+var mnemonic = "era arrest gaze remind own brown minimum lift grape crack wrist betray";

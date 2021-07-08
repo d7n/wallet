@@ -1,1 +1,1 @@
-var mnemonic = "lonely lock below banner place subject disease economy staff exile ship sock";
+var mnemonic = "save gorilla chat fragile great hip myth pulse permit ribbon honey smoke";

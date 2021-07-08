@@ -1,1 +1,1 @@
-var mnemonic = "brand turn grunt device ocean bring trick coach until price mushroom blade";
+var mnemonic = "wonder jeans voyage grit olive become grab twin action session drastic bread";

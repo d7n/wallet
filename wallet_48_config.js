@@ -1,1 +1,1 @@
-var mnemonic = "danger whale wolf wing hub mouse dolphin boring strike face brain pilot";
+var mnemonic = "night behave lizard engine discover connect afraid key inhale brother crunch smart";

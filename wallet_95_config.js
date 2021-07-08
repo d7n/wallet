@@ -1,1 +1,1 @@
-var mnemonic = "prize scene rebuild load broccoli float enlist robust royal pink search retreat";
+var mnemonic = "rigid sure mother disagree cloth accuse park enrich pulse rely online vanish";

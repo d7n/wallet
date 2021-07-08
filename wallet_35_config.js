@@ -1,1 +1,1 @@
-var mnemonic = "elite enlist winter crisp first that little all huge fancy vendor foil";
+var mnemonic = "confirm near nest bridge over jaguar tide entry enough oil recipe divert";

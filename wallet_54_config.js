@@ -1,1 +1,1 @@
-var mnemonic = "shoulder medal pelican utility claim face piano foam gap snow rather journey";
+var mnemonic = "pool club grocery exchange nominee deputy estate grid nothing ability dwarf true";

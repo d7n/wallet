@@ -1,1 +1,1 @@
-var mnemonic = "dream occur anger judge caught scare multiply marine later wish boss upper";
+var mnemonic = "universe isolate cost problem ranch faint light brass liberty lava limb climb";

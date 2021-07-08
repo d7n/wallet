@@ -1,1 +1,1 @@
-var mnemonic = "bike sugar warfare skill season nerve crowd mass sadness file turn cushion";
+var mnemonic = "then lazy filter unit salon float length obscure swim damage vacant dream";

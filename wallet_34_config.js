@@ -1,1 +1,1 @@
-var mnemonic = "hint aware curtain replace appear smoke giraffe dinner donkey tribe salt error";
+var mnemonic = "jar inform tunnel begin nuclear breeze hurt phrase dignity card trick party";

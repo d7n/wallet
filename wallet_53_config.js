@@ -1,1 +1,1 @@
-var mnemonic = "middle unlock symbol also fuel lake creek donkey fold reject mail bonus";
+var mnemonic = "avocado index rescue wage risk congress ill foil cricket mountain little nephew";

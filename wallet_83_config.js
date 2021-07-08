@@ -1,1 +1,1 @@
-var mnemonic = "surprise teach accuse garage swim scale indoor wool they across bean path";
+var mnemonic = "reform famous same since reopen fiber famous stairs worth piece chaos desert";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt palm muffin summer mesh amused symbol live merry sell ring title";
+var mnemonic = "minor supreme hover music inherit all allow artist bronze carbon express outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "hope pool version festival moon orphan teach risk coral trick evolve admit";
+var mnemonic = "wage excite flash only flight street change dignity jump burger pause frown";

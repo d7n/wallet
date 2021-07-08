@@ -1,1 +1,1 @@
-var mnemonic = "ride visa gap enable tribe taxi daughter never suspect dry tip twist";
+var mnemonic = "test crack fog harsh essay weapon subway kiss pizza now popular lift";

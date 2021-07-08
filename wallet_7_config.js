@@ -1,1 +1,1 @@
-var mnemonic = "ranch eight dash panda estate pretty verb local relief original wait diet";
+var mnemonic = "spot spread tonight tackle affair fun garlic body attract magic trade height";

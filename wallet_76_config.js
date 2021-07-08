@@ -1,1 +1,1 @@
-var mnemonic = "capable actor blue online dolphin critic joke art employ february around embark";
+var mnemonic = "bronze inside wash twice true phone upgrade purpose soon mask tent start";

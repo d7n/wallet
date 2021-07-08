@@ -1,1 +1,1 @@
-var mnemonic = "small meat reopen heart exotic bicycle limb diesel loop situate orbit either";
+var mnemonic = "soap donate critic language blur moral illegal term paddle grass sweet wasp";

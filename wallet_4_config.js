@@ -1,1 +1,1 @@
-var mnemonic = "adult push public arena honey firm relief crash legend aim mercy brother";
+var mnemonic = "salon market sadness cave prison fit water solve boring also surge exotic";

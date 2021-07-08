@@ -1,1 +1,1 @@
-var mnemonic = "pizza viable educate raccoon shoulder inspire tired dismiss nice wink uncover kind";
+var mnemonic = "actual great session eye age spirit penalty ecology vivid water figure survey";

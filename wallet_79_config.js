@@ -1,1 +1,1 @@
-var mnemonic = "patient city fashion merit absent derive title off melt dentist still wisdom";
+var mnemonic = "valid obtain shallow sell weather april stick peanut april arrive turn funny";

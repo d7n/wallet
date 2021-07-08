@@ -1,1 +1,1 @@
-var mnemonic = "neutral hold kick number awesome hobby witness endless nurse miracle tray step";
+var mnemonic = "response mule coffee rain mother this sure someone space lemon drastic citizen";

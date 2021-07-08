@@ -1,1 +1,1 @@
-var mnemonic = "foam armor cat morning erase top life matter inner gown drama omit";
+var mnemonic = "square execute depth square very thumb soon champion capital broom metal fetch";

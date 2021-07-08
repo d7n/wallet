@@ -1,1 +1,1 @@
-var mnemonic = "left visual avocado learn hero tunnel knife basket emerge work raise idea";
+var mnemonic = "legal absent vocal illegal tip pair valve thumb boat police crack crater";

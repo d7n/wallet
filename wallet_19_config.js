@@ -1,1 +1,1 @@
-var mnemonic = "angle glue strategy input vital frog orient hammer bulb seed fuel action";
+var mnemonic = "family witness parrot umbrella poverty toe eight elevator pepper garlic august swap";

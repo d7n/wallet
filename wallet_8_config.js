@@ -1,1 +1,1 @@
-var mnemonic = "absurd tent gloom recall hero reform exit labor loop select chuckle horse";
+var mnemonic = "load bacon zero minimum armor innocent mystery unable vacuum there lonely forest";

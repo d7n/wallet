@@ -1,1 +1,1 @@
-var mnemonic = "tape deposit gown biology meat april gift barrel busy brick feel begin";
+var mnemonic = "depart total identify earn carbon peanut stem matter manual genuine name rich";

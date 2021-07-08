@@ -1,1 +1,1 @@
-var mnemonic = "pride nice twist radio fall luxury duty ramp donor either dove reveal";
+var mnemonic = "cradle survey thrive potato diamond across village alone squirrel detail gas smile";

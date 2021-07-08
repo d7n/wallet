@@ -1,1 +1,1 @@
-var mnemonic = "drink apology bean success tell veteran cross fun boil ask miracle panther";
+var mnemonic = "spring cry buddy machine boat iron era edge window hawk pigeon phone";

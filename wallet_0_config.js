@@ -1,1 +1,1 @@
-var mnemonic = "prison paper buddy often avocado angle novel live castle frozen wasp super";
+var mnemonic = "jump travel artist combine shy company mobile ethics ship oxygen chunk mushroom";

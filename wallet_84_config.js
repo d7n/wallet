@@ -1,1 +1,1 @@
-var mnemonic = "clock route similar draft drum wire dentist future cube burst lyrics dragon";
+var mnemonic = "address need coral cable decade crack anger reward only alien avocado tonight";

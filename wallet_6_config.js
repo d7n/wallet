@@ -1,1 +1,1 @@
-var mnemonic = "fragile miss theme rib release razor win inmate nose chair lady few";
+var mnemonic = "discover cattle offer six thing advance tail page frequent derive calm dish";

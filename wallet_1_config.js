@@ -1,1 +1,1 @@
-var mnemonic = "horse void tennis school notice coach transfer used dismiss alert make shock";
+var mnemonic = "ramp can city method finish mirror nuclear history cancel scan hurdle icon";

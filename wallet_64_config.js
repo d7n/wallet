@@ -1,1 +1,1 @@
-var mnemonic = "husband focus use expect embody okay dish check drastic define peanut stick";
+var mnemonic = "cluster size cupboard enroll plastic orange confirm bless female honey begin mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "below belt range violin artefact wrong cattle voyage tumble uncover title pattern";
+var mnemonic = "moon vanish cattle list perfect merit horn sponsor joy cradle poverty sport";

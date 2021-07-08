@@ -1,1 +1,1 @@
-var mnemonic = "perfect warfare exit ordinary gap brick attend vote require wild maximum fall";
+var mnemonic = "arch ride endorse unlock purpose viable elegant sting tilt kit devote boy";

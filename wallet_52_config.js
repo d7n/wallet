@@ -1,1 +1,1 @@
-var mnemonic = "monkey drum domain rookie crystal dad monitor blame nose better kitchen pigeon";
+var mnemonic = "amazing lawn stable side state regret fitness two august hobby safe wrist";

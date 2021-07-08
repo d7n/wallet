@@ -1,1 +1,1 @@
-var mnemonic = "debate lazy off gain label lottery ancient fog dream ladder banana across";
+var mnemonic = "weapon rebuild toilet wool replace flee forum enact kangaroo era flush foot";

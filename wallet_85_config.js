@@ -1,1 +1,1 @@
-var mnemonic = "else ahead submit pioneer narrow review task endless wonder anger pyramid village";
+var mnemonic = "cycle peasant faint mass boil lounge timber foil spoil razor slide letter";

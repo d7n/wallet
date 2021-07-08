@@ -1,1 +1,1 @@
-var mnemonic = "modify range talent symbol carbon purchase short grid cinnamon census walk pelican";
+var mnemonic = "juice session toe liberty wear feed until urban hollow tag decade recipe";

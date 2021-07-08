@@ -1,1 +1,1 @@
-var mnemonic = "scare pole company leisure wealth drum beauty burst language orchard wall traffic";
+var mnemonic = "angle odor manual snake velvet uncover special snow million can sustain crush";

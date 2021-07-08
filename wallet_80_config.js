@@ -1,1 +1,1 @@
-var mnemonic = "deny ozone dice crucial shrug similar ski east exclude gentle relax food";
+var mnemonic = "barely permit debris candy betray approve rubber client during safe vague ticket";

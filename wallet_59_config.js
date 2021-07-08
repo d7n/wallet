@@ -1,1 +1,1 @@
-var mnemonic = "tide crash price seven card syrup design scissors regular pelican document harsh";
+var mnemonic = "device gun boring original remain venue seven vast skill eye vacant refuse";

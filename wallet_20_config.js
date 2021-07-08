@@ -1,1 +1,1 @@
-var mnemonic = "announce switch express hood nothing spatial diagram issue chase earth jungle lobster";
+var mnemonic = "predict magic valley prize antique write insane wheat gallery stick vintage true";

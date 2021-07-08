@@ -1,1 +1,1 @@
-var mnemonic = "end grid arrive great mind feature patch clutch seek upper loyal learn";
+var mnemonic = "lonely consider pair near daughter dumb winter ocean economy tone curve ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage decade drink paper panda music huge uphold lottery offer biology steel";
+var mnemonic = "source document ability degree sadness either protect purpose nature surge dentist scissors";

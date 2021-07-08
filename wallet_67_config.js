@@ -1,1 +1,1 @@
-var mnemonic = "unique then celery theme jealous erosion story immense hunt ethics shoe undo";
+var mnemonic = "good arctic brass subject mandate idle march armor mimic brave peace sugar";

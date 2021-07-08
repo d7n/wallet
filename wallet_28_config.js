@@ -1,1 +1,1 @@
-var mnemonic = "ring scheme bench marble brown deer expire doctor ladder stem coyote fee";
+var mnemonic = "shove lens color track raven aerobic prosper claim float basket tattoo shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric dune error few move wrong model trophy sniff spend push core";
+var mnemonic = "force segment stem scorpion broom zebra card notice weather rebel popular flush";

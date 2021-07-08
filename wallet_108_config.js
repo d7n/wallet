@@ -1,1 +1,1 @@
-var mnemonic = "skill decline flame torch key funny rich gym whip sock viable awake";
+var mnemonic = "subway casino kitten ocean crew kiwi left weekend dinner coconut youth auto";

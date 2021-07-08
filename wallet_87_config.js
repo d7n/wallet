@@ -1,1 +1,1 @@
-var mnemonic = "leave cannon black jump moon verify element drama menu code play save";
+var mnemonic = "popular risk silver aware daring material learn water ozone enact stamp child";

@@ -1,1 +1,1 @@
-var mnemonic = "special seat before guilt talk smile claw wheat endorse rule lunch wear";
+var mnemonic = "album farm apart drill huge helmet nature dad tent olive ancient gown";

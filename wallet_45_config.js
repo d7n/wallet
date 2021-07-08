@@ -1,1 +1,1 @@
-var mnemonic = "album dial tornado crater above oak victory sun welcome subject lens mask";
+var mnemonic = "deliver typical minor vanish sniff knee candy pair develop width uniform only";

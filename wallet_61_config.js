@@ -1,1 +1,1 @@
-var mnemonic = "tribe tray notice scheme hand upon melody judge royal garage solid chapter";
+var mnemonic = "kit arrest depart target truck elder juice decline anchor raccoon proud pyramid";

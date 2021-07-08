@@ -1,1 +1,1 @@
-var mnemonic = "skill fog drama glove post organ select now parent toast tenant just";
+var mnemonic = "pony install anchor later visa congress bomb robust album pear leave hurt";

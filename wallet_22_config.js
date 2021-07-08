@@ -1,1 +1,1 @@
-var mnemonic = "hero romance drive under camp humor salt brass prosper heavy mobile bone";
+var mnemonic = "process drastic mango ring fashion side grape case yellow educate wash toward";

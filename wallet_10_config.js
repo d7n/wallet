@@ -1,1 +1,1 @@
-var mnemonic = "modify error history remind top gym crush size country reject analyst oven";
+var mnemonic = "food awesome fault copy hybrid undo banner kick rural front paper quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "story sponsor twice scissors silent cram fee sniff globe hint dune amount";
+var mnemonic = "essay divorce penalty north near twice melt private crystal roast tobacco plate";

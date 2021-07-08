@@ -1,1 +1,1 @@
-var mnemonic = "hurry maze topple palace alarm cheese dust other height cheese creek eye";
+var mnemonic = "behind mammal injury pig actor develop acid clean wise chronic sphere alley";

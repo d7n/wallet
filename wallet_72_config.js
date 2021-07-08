@@ -1,1 +1,1 @@
-var mnemonic = "vote aim urge lucky blossom prison exit impose magic stock tribe pulp";
+var mnemonic = "seed swear puppy luggage chimney ill recall warrior dish air flower enroll";

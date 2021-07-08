@@ -1,1 +1,1 @@
-var mnemonic = "action evidence when matrix wild jacket attitude armor road clarify million raccoon";
+var mnemonic = "stand case couple light hand bracket praise monkey item lemon trouble pass";

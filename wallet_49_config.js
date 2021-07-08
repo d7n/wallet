@@ -1,1 +1,1 @@
-var mnemonic = "candy tongue chapter master cool wedding floor thing call insect venture call";
+var mnemonic = "neutral legal uniform census object explain sample solid discover fluid special couch";

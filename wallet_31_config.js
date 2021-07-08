@@ -1,1 +1,1 @@
-var mnemonic = "law gallery toy rent vendor air gravity sponsor very earth brush tomorrow";
+var mnemonic = "chicken ritual repair shop pond dynamic chair stumble leopard museum capital company";

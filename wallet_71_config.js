@@ -1,1 +1,1 @@
-var mnemonic = "filter bulk venue robot execute donor whale gas custom deputy author mad";
+var mnemonic = "seed office crater short lawn invite enjoy attract robot pistol inject paper";

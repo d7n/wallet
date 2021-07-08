@@ -1,1 +1,1 @@
-var mnemonic = "gown gloom blame want ceiling cheap neglect mixture gesture dove exit child";
+var mnemonic = "glance grain grit black tornado solar fame mansion denial vibrant admit fruit";

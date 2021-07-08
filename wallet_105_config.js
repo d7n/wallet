@@ -1,1 +1,1 @@
-var mnemonic = "flip steel cage door field omit dynamic great fitness globe tired whisper";
+var mnemonic = "guitar truck orange pet diary slice blame very ivory soup omit must";

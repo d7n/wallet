@@ -1,1 +1,1 @@
-var mnemonic = "machine deliver wage pause dinosaur satisfy claw borrow group document kit wonder";
+var mnemonic = "genre parent category shove october above holiday ask agent hotel dress soccer";

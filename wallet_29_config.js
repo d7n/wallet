@@ -1,1 +1,1 @@
-var mnemonic = "blur unveil horse sausage success coral light actress basket problem trip pair";
+var mnemonic = "seven coconut text ability hour face night air dismiss hunt pluck wine";

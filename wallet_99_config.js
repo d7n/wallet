@@ -1,1 +1,1 @@
-var mnemonic = "range subject until taxi hunt employ fiscal proud then people circle large";
+var mnemonic = "spread say myself hazard jeans logic unveil pulp genius talk sniff virtual";

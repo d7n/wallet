@@ -1,1 +1,1 @@
-var mnemonic = "lens stable typical rose slice become depart blood heart chaos tell swallow";
+var mnemonic = "vintage cave lumber fall home profit avocado cross execute bitter cradle fan";

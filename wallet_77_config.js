@@ -1,1 +1,1 @@
-var mnemonic = "dismiss click candy faint hammer thought marine prepare begin afford orange scheme";
+var mnemonic = "enter arrest enrich enlist fall hotel tragic tube scissors love wedding glass";

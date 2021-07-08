@@ -1,1 +1,1 @@
-var mnemonic = "spice then rate dwarf core mutual dirt clay mechanic ball bounce scale";
+var mnemonic = "avoid entry gift crew cable artefact march occur claw arena open fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "ability journey decide lecture festival hat present true puppy only fan gaze";
+var mnemonic = "science earth dash absent board glory repeat before crystal domain usage desert";

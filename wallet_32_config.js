@@ -1,1 +1,1 @@
-var mnemonic = "invest robot alert mushroom cabin final champion because ecology solution cousin bread";
+var mnemonic = "occur burst there snake write dinosaur inform dilemma flip police minimum tunnel";

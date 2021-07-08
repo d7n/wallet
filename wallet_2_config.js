@@ -1,1 +1,1 @@
-var mnemonic = "echo robust hospital weather jump way upset expose unaware garlic seven display";
+var mnemonic = "awful family spray provide tiger paper extend rubber make tongue animal plate";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity return typical cage fortune eternal leg shift rough shed swift arrange";
+var mnemonic = "kiss nothing derive cup fall prison hole awesome dwarf canyon ranch music";

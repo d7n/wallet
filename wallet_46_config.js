@@ -1,1 +1,1 @@
-var mnemonic = "account harbor begin soccer borrow volume kit route oxygen solution public swamp";
+var mnemonic = "arrest laptop large opera neglect size hour display sand merry kangaroo scan";

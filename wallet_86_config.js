@@ -1,1 +1,1 @@
-var mnemonic = "ankle brown twenty olive disagree senior false perfect smile swift solar vanish";
+var mnemonic = "spend cross limb carry glass salon nurse during push miracle sing bottom";

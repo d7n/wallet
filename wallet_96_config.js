@@ -1,1 +1,1 @@
-var mnemonic = "post hand brave school august slice pave grape release leader pepper olympic";
+var mnemonic = "strong bitter tape ticket seek soccer interest truth rug together under stove";
