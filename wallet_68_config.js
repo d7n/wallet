@@ -1,1 +1,1 @@
-var mnemonic = "farm toe ice hover dizzy possible guide exercise spell floor mansion bean";
+var mnemonic = "sad essay marine comic imitate spatial life wink flash shock stand exit";

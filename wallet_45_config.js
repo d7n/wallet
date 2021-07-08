@@ -1,1 +1,1 @@
-var mnemonic = "aisle series ivory safe expire indicate bachelor deal river current cart company";
+var mnemonic = "skate outer nurse tunnel raccoon leg bird daughter daring load sand smoke";

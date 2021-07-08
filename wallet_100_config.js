@@ -1,1 +1,1 @@
-var mnemonic = "basket forest situate announce fashion can help evidence occur grocery sorry often";
+var mnemonic = "rocket latin enrich over resist imitate bubble roof inside napkin nuclear fame";

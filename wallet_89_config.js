@@ -1,1 +1,1 @@
-var mnemonic = "bulb honey mixed beauty flat mosquito carbon hood pet achieve draft betray";
+var mnemonic = "length grief melt sausage cheap amount clown vintage yard animal bubble relief";

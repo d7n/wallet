@@ -1,1 +1,1 @@
-var mnemonic = "rescue manual unlock balcony defense capital chuckle cause slogan donate build poverty";
+var mnemonic = "popular cupboard bind paper truth process despair face rug federal mail hen";

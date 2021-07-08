@@ -1,1 +1,1 @@
-var mnemonic = "ribbon relief word attend magnet company obscure alpha name weekend route gold";
+var mnemonic = "cycle dentist width addict famous clock pink drama deer nose move pair";

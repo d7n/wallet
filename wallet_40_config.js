@@ -1,1 +1,1 @@
-var mnemonic = "run sense finish floor tent kitten current curious provide weekend fancy wish";
+var mnemonic = "fluid when depart jeans protect hidden clarify effort bench cigar buyer bridge";

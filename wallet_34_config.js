@@ -1,1 +1,1 @@
-var mnemonic = "promote velvet monkey now swift fancy pair abuse refuse document soda cable";
+var mnemonic = "small purchase case maze elegant wagon dress prefer artwork jealous alcohol only";

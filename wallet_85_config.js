@@ -1,1 +1,1 @@
-var mnemonic = "exclude lesson ethics calm knee decorate trick wing fancy wonder hockey frost";
+var mnemonic = "reflect sugar admit mule diagram wrong screen tube warrior join problem bamboo";

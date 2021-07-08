@@ -1,1 +1,1 @@
-var mnemonic = "idle auto guide assault gym piano sentence bitter appear change buzz scene";
+var mnemonic = "illegal capable wrist galaxy fame diet option sleep report video craft dumb";

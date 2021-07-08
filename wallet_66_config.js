@@ -1,1 +1,1 @@
-var mnemonic = "buzz boost honey phone region worry coral bulk royal surface wrist decade";
+var mnemonic = "enjoy reflect toast gap account crush answer day nature need whip curtain";

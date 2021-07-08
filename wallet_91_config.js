@@ -1,1 +1,1 @@
-var mnemonic = "light museum vintage october crew pitch canoe chronic immense name bench evoke";
+var mnemonic = "mountain thunder horror sword promote simple silent believe parent tonight era hint";

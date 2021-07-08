@@ -1,1 +1,1 @@
-var mnemonic = "grow pair travel select essay gym shine flee garlic orange occur wagon";
+var mnemonic = "suspect raccoon very negative luxury liberty trade mushroom cable laundry fall direct";

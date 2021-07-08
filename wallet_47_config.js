@@ -1,1 +1,1 @@
-var mnemonic = "ceiling girl bag pudding tool silver guard wine ethics mass verb enforce";
+var mnemonic = "cute table frost income oyster reason category frog pony guide noble process";

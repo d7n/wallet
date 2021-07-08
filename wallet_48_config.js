@@ -1,1 +1,1 @@
-var mnemonic = "rough sample about absent mail frost beach plastic achieve whisper note service";
+var mnemonic = "flight alone village snap client biology garden unhappy cradle patch turtle miss";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal hedgehog shaft parrot circle comic magnet nominee list walk enter diamond";
+var mnemonic = "inflict salmon arm federal cake route toilet answer coil library ripple tent";

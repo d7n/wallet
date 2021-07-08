@@ -1,1 +1,1 @@
-var mnemonic = "father achieve record over diamond flower click suit flag gown police sting";
+var mnemonic = "popular glide expire snack boil imitate paper blood ghost indicate stage lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff uncle earth egg release brave affair actress enough solid bitter truth";
+var mnemonic = "skill shoot hen smart midnight mechanic typical harvest tiger link cigar dune";

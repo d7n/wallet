@@ -1,1 +1,1 @@
-var mnemonic = "friend cute sweet length surface math current naive hammer embrace grain protect";
+var mnemonic = "check mimic youth believe castle soldier beef home surface meat repair pool";

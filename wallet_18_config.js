@@ -1,1 +1,1 @@
-var mnemonic = "blur almost all better resist false hospital film digital skill swap almost";
+var mnemonic = "easily off citizen promote echo sight ritual prosper chief just retreat raven";

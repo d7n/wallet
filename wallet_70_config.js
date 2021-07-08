@@ -1,1 +1,1 @@
-var mnemonic = "together leader spend bottom release project brush copy occur install horse runway";
+var mnemonic = "mandate lyrics tissue unlock uphold track lunar plug stamp wine cook inhale";

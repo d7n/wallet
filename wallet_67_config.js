@@ -1,1 +1,1 @@
-var mnemonic = "apology believe fossil nasty hope repair brother desk trash tonight prevent polar";
+var mnemonic = "main tape gospel video eager urge barrel assault sell hurdle husband combine";

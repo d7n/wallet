@@ -1,1 +1,1 @@
-var mnemonic = "frozen today gift gossip purity exotic drill reveal address defy broccoli flip";
+var mnemonic = "sting bracket pyramid electric century lizard hair hope vanish coin age trip";

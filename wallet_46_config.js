@@ -1,1 +1,1 @@
-var mnemonic = "rocket attract robust decide craft blade rally glimpse kidney hammer vehicle hospital";
+var mnemonic = "polar burst pattern sword verify analyst illness despair gate coconut usage plate";

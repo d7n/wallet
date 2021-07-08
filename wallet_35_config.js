@@ -1,1 +1,1 @@
-var mnemonic = "rare flight later glance august exist broom ivory apart oyster yellow good";
+var mnemonic = "bitter link refuse morning prison want torch layer hero bomb twist mind";

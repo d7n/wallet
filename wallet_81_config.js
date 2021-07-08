@@ -1,1 +1,1 @@
-var mnemonic = "clock neutral hunt jealous gather bulb vivid satisfy cricket canoe sphere fan";
+var mnemonic = "market alter target awful tone abandon behind magnet rebel busy lunar whisper";

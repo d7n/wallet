@@ -1,1 +1,1 @@
-var mnemonic = "term come glove sister hint usual rival miss shed amused rebuild evolve";
+var mnemonic = "budget risk silent stand zero taste erode parrot alley health shoulder lady";

@@ -1,1 +1,1 @@
-var mnemonic = "legend trial vicious cram announce cigar knife rare plunge domain acoustic together";
+var mnemonic = "club often tool exhaust turtle monkey bread cream fish liquid price rain";

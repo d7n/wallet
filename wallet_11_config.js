@@ -1,1 +1,1 @@
-var mnemonic = "knock helmet notice another cool service seek treat vibrant firm talk worry";
+var mnemonic = "blame burden exit term churn left bubble shoulder cushion napkin roast amateur";

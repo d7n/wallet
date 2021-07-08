@@ -1,1 +1,1 @@
-var mnemonic = "gentle squirrel churn envelope better summer scout later pair can pledge fitness";
+var mnemonic = "problem mother real connect scrub text number warfare mutual pear supply wave";

@@ -1,1 +1,1 @@
-var mnemonic = "expand next jungle squirrel tuition curve drastic want drop broken month tent";
+var mnemonic = "apart issue gate hidden learn quiz ivory sweet blame quarter when media";

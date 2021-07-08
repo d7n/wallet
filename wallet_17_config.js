@@ -1,1 +1,1 @@
-var mnemonic = "drum wire hurt gate daughter thank cricket flash hint jeans hunt embrace";
+var mnemonic = "strike ketchup jelly later black coffee number demise gown glue spring code";

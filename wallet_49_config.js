@@ -1,1 +1,1 @@
-var mnemonic = "garbage imitate foster useless essay slim life grid various olympic crisp borrow";
+var mnemonic = "mother gaze turkey clip coral cram author elbow wagon million pencil offer";

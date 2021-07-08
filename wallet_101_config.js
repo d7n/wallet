@@ -1,1 +1,1 @@
-var mnemonic = "endless soldier absorb attend corn distance convince diamond shrimp profit forward riot";
+var mnemonic = "maple ghost ecology result harsh nasty armor unknown casual text much wagon";

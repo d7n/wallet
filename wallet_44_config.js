@@ -1,1 +1,1 @@
-var mnemonic = "walnut future near track enact quality abuse gadget observe board funny penalty";
+var mnemonic = "season use error stone fatal walnut birth elder wealth soccer cactus debris";

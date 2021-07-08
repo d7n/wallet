@@ -1,1 +1,1 @@
-var mnemonic = "fatigue obtain priority embark symbol message foam bronze holiday ranch shell below";
+var mnemonic = "crunch destroy property vintage sausage broom check office ridge damp nest virtual";

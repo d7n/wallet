@@ -1,1 +1,1 @@
-var mnemonic = "home degree raven device door hurdle word burst icon armed dizzy charge";
+var mnemonic = "soda fossil ocean chunk burst kick neither chuckle goose birth slow father";

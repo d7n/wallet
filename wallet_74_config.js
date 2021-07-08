@@ -1,1 +1,1 @@
-var mnemonic = "motor cricket seek salute chuckle control achieve load female solid mechanic couple";
+var mnemonic = "first calm toss dad empower approve good sign card cup rescue rude";

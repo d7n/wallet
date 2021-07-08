@@ -1,1 +1,1 @@
-var mnemonic = "cycle timber improve nominee code educate undo plug response tumble umbrella eager";
+var mnemonic = "entire spatial neck forget ancient guitar custom crouch abstract spike unfair process";

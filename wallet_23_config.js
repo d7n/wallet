@@ -1,1 +1,1 @@
-var mnemonic = "turn awful abuse usage exhibit badge marine casino alien dolphin provide bird";
+var mnemonic = "choice above honey civil alpha weather daring quiz brave ladder habit wrong";

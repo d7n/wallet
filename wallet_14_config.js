@@ -1,1 +1,1 @@
-var mnemonic = "pave scale recycle know slogan ordinary attract twelve sniff member output survey";
+var mnemonic = "meat steel crumble love depth boil tube extra family play balcony fence";

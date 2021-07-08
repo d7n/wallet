@@ -1,1 +1,1 @@
-var mnemonic = "ozone section day adjust people else garden lawsuit master rude order ticket";
+var mnemonic = "staff humor fire pledge rebuild west door situate middle slam derive kid";

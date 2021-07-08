@@ -1,1 +1,1 @@
-var mnemonic = "bubble model goddess barely predict letter artefact salute rely angry wrestle clown";
+var mnemonic = "swallow lock exact beyond vicious tone kit medal need hard fame unknown";

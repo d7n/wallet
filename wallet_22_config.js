@@ -1,1 +1,1 @@
-var mnemonic = "skull reform hair joy vibrant pilot wheel quality asset drama noble enable";
+var mnemonic = "response tenant clutch early cool lobster hour cluster mosquito adult early sunset";

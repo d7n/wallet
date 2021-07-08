@@ -1,1 +1,1 @@
-var mnemonic = "federal fee ocean retreat rose else nature chimney pioneer forest dad grow";
+var mnemonic = "venture seven fragile trigger smile boil often still palm average pill way";

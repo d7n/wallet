@@ -1,1 +1,1 @@
-var mnemonic = "galaxy expire art deposit evidence priority awkward light bracket relax cactus remove";
+var mnemonic = "iron mountain slide hand better lizard decline easy street weapon tank festival";

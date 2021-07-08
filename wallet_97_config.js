@@ -1,1 +1,1 @@
-var mnemonic = "sugar flight prison radar curve cross pledge toward crunch will crisp spawn";
+var mnemonic = "mechanic yard then brain valley grant army jelly flower churn bird order";

@@ -1,1 +1,1 @@
-var mnemonic = "punch typical adjust soon truck ridge frown eight secret slice inmate current";
+var mnemonic = "useful dignity ginger twelve company infant beef crime hotel original minute sun";

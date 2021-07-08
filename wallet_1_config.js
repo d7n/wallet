@@ -1,1 +1,1 @@
-var mnemonic = "learn minute wrong pole citizen gap stable rally concert abuse finish ordinary";
+var mnemonic = "ritual pluck lunch any radar tank name oven ocean universe gesture force";

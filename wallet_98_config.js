@@ -1,1 +1,1 @@
-var mnemonic = "wet rack health planet garbage embrace boss evoke club club bleak purpose";
+var mnemonic = "bottom noise turn exercise sister kiwi want mail hood inner soon cover";

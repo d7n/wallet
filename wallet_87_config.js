@@ -1,1 +1,1 @@
-var mnemonic = "shell myself track blur quick clerk dust imitate car push guess deny";
+var mnemonic = "divide october foster team carbon book settle actor permit mix champion define";

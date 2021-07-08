@@ -1,1 +1,1 @@
-var mnemonic = "swing busy tiger matrix junk load awkward utility view skull sort electric";
+var mnemonic = "box sure code olive hunt audit noise scissors victory bid record orient";

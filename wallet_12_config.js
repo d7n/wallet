@@ -1,1 +1,1 @@
-var mnemonic = "alley wire solar fluid kite betray light erosion upgrade force proof venue";
+var mnemonic = "salad give pause ritual connect giant come normal strategy gravity hard voice";

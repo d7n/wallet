@@ -1,1 +1,1 @@
-var mnemonic = "wrist else busy pupil exhibit essence lamp cigar tobacco order always opera";
+var mnemonic = "theme august eagle ill pet reject hat pill second funny awful misery";

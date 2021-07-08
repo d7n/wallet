@@ -1,1 +1,1 @@
-var mnemonic = "come innocent frequent symbol recycle forum flag jelly marble cook dolphin wisdom";
+var mnemonic = "mercy bulk flee extend undo movie juice twice broccoli meat exit dune";

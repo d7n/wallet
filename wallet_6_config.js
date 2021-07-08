@@ -1,1 +1,1 @@
-var mnemonic = "roof coffee tooth tray bus rebel notice exit alpha scissors great always";
+var mnemonic = "beach budget scatter staff lawn sunset junk steak elevator grant hedgehog figure";

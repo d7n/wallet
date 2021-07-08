@@ -1,1 +1,1 @@
-var mnemonic = "action sheriff key hotel worth custom want aware liar system board unlock";
+var mnemonic = "super employ club pull cart wonder practice fiction ecology famous parrot visit";

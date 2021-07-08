@@ -1,1 +1,1 @@
-var mnemonic = "rigid suit warrior fiction curve winter involve meadow hole salute year dynamic";
+var mnemonic = "reform thank blur aim middle menu light enact burger prison claw genius";

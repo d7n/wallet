@@ -1,1 +1,1 @@
-var mnemonic = "action lecture coil enough smile episode caught tiny transfer evolve must that";
+var mnemonic = "area manual liberty knife race drift lecture trip any culture hurdle bicycle";

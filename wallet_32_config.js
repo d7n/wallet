@@ -1,1 +1,1 @@
-var mnemonic = "degree melt fly erode current boat resist dress plunge absurd copper peace";
+var mnemonic = "inherit slender note episode tomato tuna hockey soldier claw nature parrot quit";

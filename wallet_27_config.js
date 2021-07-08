@@ -1,1 +1,1 @@
-var mnemonic = "code fold treat powder demise panic addict benefit wave siren tornado high";
+var mnemonic = "frost off coil upgrade deny exclude already credit connect hover warrior skill";

@@ -1,1 +1,1 @@
-var mnemonic = "urge great bag predict powder pilot already pudding pretty angle disease vintage";
+var mnemonic = "giggle quality cruel humble fine course castle impose casual muffin entire weather";

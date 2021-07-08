@@ -1,1 +1,1 @@
-var mnemonic = "juice april square noodle pepper advance slim shoulder hire struggle tissue orphan";
+var mnemonic = "occur caution moon vague monitor unknown antique husband renew size act jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock exile cruel soda range mail dawn slam emerge drink road border";
+var mnemonic = "wealth trend pet print ensure light plastic decide excuse symptom shallow oyster";

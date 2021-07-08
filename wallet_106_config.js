@@ -1,1 +1,1 @@
-var mnemonic = "catch vast foot later rail blood great pilot fabric extend catch welcome";
+var mnemonic = "route concert chicken abstract host couch doll drama garment attitude special abstract";

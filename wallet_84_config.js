@@ -1,1 +1,1 @@
-var mnemonic = "push alarm glance idle since little rare master tennis change blossom brief";
+var mnemonic = "twelve swear proof park brick shell capital direct hockey easy candy carry";

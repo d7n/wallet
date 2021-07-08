@@ -1,1 +1,1 @@
-var mnemonic = "extra link arm hazard current aspect kingdom daring hidden warm dutch fragile";
+var mnemonic = "omit soldier problem chaos plate town lunar vendor caution drip leopard upgrade";

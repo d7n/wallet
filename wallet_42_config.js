@@ -1,1 +1,1 @@
-var mnemonic = "guilt invite paper satisfy purchase silver ring slender captain solar renew beauty";
+var mnemonic = "soccer better risk dash harvest bullet radar pistol buyer swing select spare";

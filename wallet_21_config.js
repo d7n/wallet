@@ -1,1 +1,1 @@
-var mnemonic = "renew attack guide glare video beef smart oyster major motion endless acoustic";
+var mnemonic = "atom stick badge credit veteran fury despair skill sting tide double dolphin";

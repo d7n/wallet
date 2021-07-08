@@ -1,1 +1,1 @@
-var mnemonic = "notable absorb cloud daring wrist talk list win install mean lounge love";
+var mnemonic = "common knee obey crystal lonely enroll bundle deal mouse crystal camp off";

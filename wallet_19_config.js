@@ -1,1 +1,1 @@
-var mnemonic = "tell north pumpkin bamboo naive cart before audit second shrug sister divert";
+var mnemonic = "swap leisure awkward state rival blur main absent eight address tower paddle";

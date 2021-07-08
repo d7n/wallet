@@ -1,1 +1,1 @@
-var mnemonic = "danger direct trash orange session toe never adult engage sense slide cage";
+var mnemonic = "almost certain argue lyrics blouse shove sibling digital feel step wealth release";

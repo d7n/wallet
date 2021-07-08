@@ -1,1 +1,1 @@
-var mnemonic = "report belt help poet rapid tiger tuition circle hire message visual wrong";
+var mnemonic = "answer clip lift dance benefit cactus address clinic express modify book horn";

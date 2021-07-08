@@ -1,1 +1,1 @@
-var mnemonic = "fork urban coyote prefer observe skill room border next pupil divide festival";
+var mnemonic = "tip tower digital transfer shop charge anxiety section awkward kidney heart alter";

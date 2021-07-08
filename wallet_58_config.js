@@ -1,1 +1,1 @@
-var mnemonic = "pepper feature animal canoe gentle deliver inflict beef ensure border strategy bullet";
+var mnemonic = "absorb cash poem polar equal steak depart picture bind indoor wrist amateur";

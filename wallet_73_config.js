@@ -1,1 +1,1 @@
-var mnemonic = "involve high keen glimpse spend february twin angry aware tunnel pair blame";
+var mnemonic = "medal push cloth person chaos figure tenant profit junior boss you surface";

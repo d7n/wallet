@@ -1,1 +1,1 @@
-var mnemonic = "canoe fossil person uncle quote wise dice wasp hazard sunny guide immense";
+var mnemonic = "card scale sick cage census slide embrace airport patch senior hat involve";

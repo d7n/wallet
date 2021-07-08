@@ -1,1 +1,1 @@
-var mnemonic = "denial advance derive beauty jazz olympic clarify cup divorce hungry road check";
+var mnemonic = "rotate donate high disorder obtain insane fringe kidney history prevent saddle evidence";

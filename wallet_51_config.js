@@ -1,1 +1,1 @@
-var mnemonic = "faith among system clown demise review orchard rich force owner razor camp";
+var mnemonic = "believe hen wonder prepare patrol course farm neutral claw empty horn escape";

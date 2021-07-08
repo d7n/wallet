@@ -1,1 +1,1 @@
-var mnemonic = "toy add game broom excess endorse powder young exotic planet funny usage";
+var mnemonic = "shadow evil movie winner supreme gun inspire spawn hero rescue solar august";

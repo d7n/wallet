@@ -1,1 +1,1 @@
-var mnemonic = "fresh street north grain horse gospel win medal speak village actual manual";
+var mnemonic = "arrange clarify denial inside banner trouble idle donor usage vicious tuition hip";

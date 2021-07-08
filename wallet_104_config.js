@@ -1,1 +1,1 @@
-var mnemonic = "elegant knee erode edit flight more bleak copper brass impact expand bread";
+var mnemonic = "display bread away quarter dutch model guitar poem crazy clerk quit person";

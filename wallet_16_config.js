@@ -1,1 +1,1 @@
-var mnemonic = "three letter nose give make absurd priority invest siren ten life junk";
+var mnemonic = "play dizzy old bounce now silver true accuse guard sea liberty word";

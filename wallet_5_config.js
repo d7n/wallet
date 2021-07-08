@@ -1,1 +1,1 @@
-var mnemonic = "unable hope bundle call stage love head into pole joke three drive";
+var mnemonic = "wealth public spell enough grab motion castle scorpion quit vibrant long input";

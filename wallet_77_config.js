@@ -1,1 +1,1 @@
-var mnemonic = "clay about radar tone pledge please devote morning tackle iron vintage uncover";
+var mnemonic = "romance omit spoil slogan short squeeze buddy slim labor gorilla actual diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "survey chest champion arrange fan fall shadow novel anger above alien animal";
+var mnemonic = "caught erase fuel unfold cake bench humble curve tiny plunge nest leader";

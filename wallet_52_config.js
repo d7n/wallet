@@ -1,1 +1,1 @@
-var mnemonic = "dilemma upon design type talk day deliver maze attitude audit battle now";
+var mnemonic = "tenant pigeon cash junk kid couple nut guitar dog bachelor dawn squirrel";

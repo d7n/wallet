@@ -1,1 +1,1 @@
-var mnemonic = "arm pudding skate fiscal cigar view keen used once inside couch cross";
+var mnemonic = "winner blouse blanket practice cable inmate tooth despair face dinner movie auto";

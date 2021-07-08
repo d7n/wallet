@@ -1,1 +1,1 @@
-var mnemonic = "music ring taxi print issue eye goddess differ music february say smile";
+var mnemonic = "tooth that clean globe length attract humble buddy cage solid leave family";

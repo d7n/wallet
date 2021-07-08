@@ -1,1 +1,1 @@
-var mnemonic = "library useless oil depart enable miracle catch scale bundle enrich always brisk";
+var mnemonic = "evil submit liar dinosaur demise mechanic mechanic volume rifle net pigeon comfort";

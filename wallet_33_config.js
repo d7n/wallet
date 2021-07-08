@@ -1,1 +1,1 @@
-var mnemonic = "error lumber match under tortoise practice deputy account flag lift defy today";
+var mnemonic = "idle company work join genre genius elite rapid window desk impose guilt";
