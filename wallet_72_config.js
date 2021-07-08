@@ -1,1 +1,1 @@
-var mnemonic = "cross creek person soft forget mutual swarm employ left vast spawn burden";
+var mnemonic = "reason surface force return lawn liar forest oven torch daughter orphan used";

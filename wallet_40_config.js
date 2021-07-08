@@ -1,1 +1,1 @@
-var mnemonic = "bean clog ostrich moon orange route confirm benefit vintage public judge tell";
+var mnemonic = "slot spike want valid range boat divide predict half blind end paper";

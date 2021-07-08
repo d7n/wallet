@@ -1,1 +1,1 @@
-var mnemonic = "old salmon inject grit remind level pizza kite patrol memory annual sphere";
+var mnemonic = "cloth right protect shell pledge design sibling disagree mesh afraid brain donate";

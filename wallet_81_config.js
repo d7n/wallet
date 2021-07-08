@@ -1,1 +1,1 @@
-var mnemonic = "spoil direct scan lens idle pioneer much source coach fork year foster";
+var mnemonic = "second empower fall step learn ship empower dad lunar length assist forward";

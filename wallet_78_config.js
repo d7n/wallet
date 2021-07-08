@@ -1,1 +1,1 @@
-var mnemonic = "sting garbage honey gather hurt sound sun loan genuine author plastic extend";
+var mnemonic = "mask junk leader spirit wagon waste frown speak pattern night company sword";

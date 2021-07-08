@@ -1,1 +1,1 @@
-var mnemonic = "sure judge empower dilemma obey filter wage outdoor capital custom eternal episode";
+var mnemonic = "net mango fruit long source walk dad case borrow glad mirror chief";

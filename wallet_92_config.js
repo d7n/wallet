@@ -1,1 +1,1 @@
-var mnemonic = "flee divert expect sure catalog bitter addict swarm random apology grow doll";
+var mnemonic = "because boring inmate consider another picture lazy skull flavor actress ancient island";

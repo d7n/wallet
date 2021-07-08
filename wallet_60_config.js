@@ -1,1 +1,1 @@
-var mnemonic = "small unhappy elite raven never gap reopen friend become tape side avocado";
+var mnemonic = "gaze distance name plate ghost wave abstract word strong weapon tribe smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "coral dove legend rhythm plug lawsuit valley clinic color rally assist ice";
+var mnemonic = "leader work method whip turtle also coach broom lawn bid pool breeze";

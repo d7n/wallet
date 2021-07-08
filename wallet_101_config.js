@@ -1,1 +1,1 @@
-var mnemonic = "funny dumb must unhappy carry history ignore local shed service secret advance";
+var mnemonic = "initial airport vendor trumpet exact coffee best retire label seven amount useful";

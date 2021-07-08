@@ -1,1 +1,1 @@
-var mnemonic = "faith media carbon acid sponsor segment second heart business travel moon neck";
+var mnemonic = "cube layer already leave any fat maple sick net vital tragic prefer";

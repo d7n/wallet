@@ -1,1 +1,1 @@
-var mnemonic = "buyer plate large hair argue behave bring game color sniff hollow dawn";
+var mnemonic = "wheel fee captain neck kiwi wine include inside math supreme shield deposit";

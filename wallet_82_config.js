@@ -1,1 +1,1 @@
-var mnemonic = "person paddle civil flag economy swap castle find tree couch come tragic";
+var mnemonic = "more fee clay rigid toddler border math bronze various practice weird indoor";

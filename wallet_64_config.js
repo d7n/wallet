@@ -1,1 +1,1 @@
-var mnemonic = "stamp explain raise earn amazing brother gym monkey salmon front already prevent";
+var mnemonic = "release trigger define produce bar early wasp bitter domain warfare there hole";

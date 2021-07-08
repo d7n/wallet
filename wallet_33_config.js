@@ -1,1 +1,1 @@
-var mnemonic = "notable size venue sample fury ski august popular promote try change enlist";
+var mnemonic = "life pulse daring tissue ability beauty cross seven butter traffic weekend pair";

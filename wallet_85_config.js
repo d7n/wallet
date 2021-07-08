@@ -1,1 +1,1 @@
-var mnemonic = "smooth normal cry moon grain rapid found arch aspect announce switch volcano";
+var mnemonic = "school zone gossip girl toy blue bitter tired narrow income mirror describe";

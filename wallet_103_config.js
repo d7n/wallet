@@ -1,1 +1,1 @@
-var mnemonic = "level develop tennis ecology rice busy burger calm pepper once diamond artefact";
+var mnemonic = "first team endorse pet juice spend smart raven soda lobster taxi another";

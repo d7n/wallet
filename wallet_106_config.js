@@ -1,1 +1,1 @@
-var mnemonic = "glass learn height youth dove over clap crucial social junior false glow";
+var mnemonic = "autumn response purpose upon suffer meadow tree habit grape kind sound try";

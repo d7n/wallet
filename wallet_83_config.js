@@ -1,1 +1,1 @@
-var mnemonic = "ozone solve merit hunt employ melody bubble hurry twist click announce fiscal";
+var mnemonic = "rabbit dog nerve ship later you verify camp area movie input indoor";

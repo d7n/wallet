@@ -1,1 +1,1 @@
-var mnemonic = "verb glory frost enhance skate review giant bean middle miss deal pizza";
+var mnemonic = "emotion misery gauge minimum general opera warm canvas alert aim fashion pass";

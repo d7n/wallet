@@ -1,1 +1,1 @@
-var mnemonic = "erosion lock fall special arctic lesson recall multiply sample duck carry vague";
+var mnemonic = "mixed strong carry nurse penalty omit become acid dirt allow mercy twice";

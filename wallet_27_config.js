@@ -1,1 +1,1 @@
-var mnemonic = "sick annual drastic power neither portion tip decline meat brave vacuum rent";
+var mnemonic = "blind floor farm broken ghost rifle field lecture left warm shuffle shy";

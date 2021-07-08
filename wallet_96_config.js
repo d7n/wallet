@@ -1,1 +1,1 @@
-var mnemonic = "grant leader dynamic method can physical sock convince escape ice mosquito brick";
+var mnemonic = "lens lazy flame foam crucial mistake jeans oval together width sad arm";

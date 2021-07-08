@@ -1,1 +1,1 @@
-var mnemonic = "volume around poet muffin inch myth worry world solve suffer trim opera";
+var mnemonic = "make buddy identify used expose minimum green phrase vague south mistake powder";

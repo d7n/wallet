@@ -1,1 +1,1 @@
-var mnemonic = "network trial across donkey list buyer vocal staff birth test wild pledge";
+var mnemonic = "whisper swarm asthma margin zero pride pink march unusual there unknown million";

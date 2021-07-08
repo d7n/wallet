@@ -1,1 +1,1 @@
-var mnemonic = "juice bronze plunge swamp toss stuff ginger loop actress duck inform chase";
+var mnemonic = "immune rent inflict lab clutch orient travel fiscal penalty exact include smart";

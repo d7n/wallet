@@ -1,1 +1,1 @@
-var mnemonic = "ready soft wool caught jar ranch spray harsh search neither strike sorry";
+var mnemonic = "keen glide city hammer mystery student clever disorder wrong bar patch current";

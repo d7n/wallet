@@ -1,1 +1,1 @@
-var mnemonic = "base sort pottery dirt quality brush wine gentle enough minute turkey coach";
+var mnemonic = "genius region vocal early risk book devote charge course present off burger";

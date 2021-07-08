@@ -1,1 +1,1 @@
-var mnemonic = "prepare valley custom cable cave view sphere craft wolf double evoke ankle";
+var mnemonic = "flash march pear festival run provide you correct spike sadness manage choose";

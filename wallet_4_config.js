@@ -1,1 +1,1 @@
-var mnemonic = "account absorb noodle huge nasty outer ginger spring skull they dismiss soccer";
+var mnemonic = "gauge legal avocado hand surround embody hire scene region order run vivid";

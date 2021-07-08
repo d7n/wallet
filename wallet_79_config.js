@@ -1,1 +1,1 @@
-var mnemonic = "number example now glue dumb scissors violin royal pluck lunar cheap announce";
+var mnemonic = "aerobic noodle equip kiwi super again afford fuel bomb file sure pulp";

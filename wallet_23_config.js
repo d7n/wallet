@@ -1,1 +1,1 @@
-var mnemonic = "surprise firm father economy ensure smart there tube cherry firm disagree vivid";
+var mnemonic = "blue offer torch squirrel unhappy man chimney hand sense post hat distance";

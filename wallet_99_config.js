@@ -1,1 +1,1 @@
-var mnemonic = "scissors relax shy common season erase animal discover toilet sure joy horror";
+var mnemonic = "usage slight gesture category crush shell forest chest stand anger buffalo ocean";

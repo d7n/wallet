@@ -1,1 +1,1 @@
-var mnemonic = "mention crush dentist fold minute share life nature aunt hope travel border";
+var mnemonic = "person topple sound lounge fun blast drastic mandate drill flight tonight monitor";

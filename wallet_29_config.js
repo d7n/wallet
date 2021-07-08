@@ -1,1 +1,1 @@
-var mnemonic = "thrive tongue tackle lemon balcony auto wolf inform gaze phone recycle tuition";
+var mnemonic = "alley total indicate area buzz soldier edit slot amazing loyal attract worth";

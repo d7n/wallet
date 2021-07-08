@@ -1,1 +1,1 @@
-var mnemonic = "enjoy gate screen episode video lamp hawk tornado half merge case robot";
+var mnemonic = "tide grab knee empty click seek ignore pepper stool doll artwork horn";

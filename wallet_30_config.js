@@ -1,1 +1,1 @@
-var mnemonic = "wing clutch spin shrug orbit half game safe gold blouse saddle question";
+var mnemonic = "run vicious atom hurry borrow shield illness midnight couch poverty blast wheel";

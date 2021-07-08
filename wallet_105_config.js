@@ -1,1 +1,1 @@
-var mnemonic = "assist whale tonight observe door move student ginger boil drastic catalog tongue";
+var mnemonic = "clown inherit eye sadness kidney rice alley first hospital edge blue eye";

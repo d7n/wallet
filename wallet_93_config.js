@@ -1,1 +1,1 @@
-var mnemonic = "client solid twist poet thought focus clap differ blade attack estate heavy";
+var mnemonic = "case weird uncle slice student icon flight wisdom model travel captain salon";

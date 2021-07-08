@@ -1,1 +1,1 @@
-var mnemonic = "dilemma figure reunion pen enjoy minimum quarter soup hope home slush unique";
+var mnemonic = "cabbage report bachelor endless quit enter wool eyebrow loan ritual apart cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "purity trust despair sustain detail confirm claw spot athlete mind deposit urban";
+var mnemonic = "stove bronze guard iron arrest leopard connect pulp chicken orbit also glare";

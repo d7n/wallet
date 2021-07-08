@@ -1,1 +1,1 @@
-var mnemonic = "weather yard escape phone clock where arrest private essence wrong gap gap";
+var mnemonic = "negative spread scrub faith dinner artist sentence worth ladder layer renew input";

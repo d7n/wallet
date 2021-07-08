@@ -1,1 +1,1 @@
-var mnemonic = "column lava rule spring detect cancel slice energy season arctic pattern velvet";
+var mnemonic = "naive figure grief still cruel twelve enact prosper subject stem genius cool";

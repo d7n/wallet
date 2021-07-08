@@ -1,1 +1,1 @@
-var mnemonic = "save banana jungle avoid deputy modify sight mistake parent present option audit";
+var mnemonic = "cup fold planet memory dwarf simple matter screen human casual fabric pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "wise drastic disease river diamond announce rib song rate object remain square";
+var mnemonic = "sausage country vehicle claim song sniff ladder siege fame multiply put glance";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe little forward twelve birth steel two version police coil rug grow";
+var mnemonic = "jungle acquire unusual library host ghost huge reason diesel simple faculty champion";

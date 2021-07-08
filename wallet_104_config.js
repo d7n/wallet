@@ -1,1 +1,1 @@
-var mnemonic = "napkin voyage grant hospital mouse unable miss rescue correct dilemma juice palace";
+var mnemonic = "topple staff fetch scorpion soup figure bitter brick please virus predict carbon";

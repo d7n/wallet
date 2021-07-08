@@ -1,1 +1,1 @@
-var mnemonic = "before write coin collect distance key tell below sudden elder until work";
+var mnemonic = "odor arch canvas craft squirrel bridge later dentist pave oppose faith cattle";

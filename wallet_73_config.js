@@ -1,1 +1,1 @@
-var mnemonic = "accuse code around oven zoo major monitor deal bounce aspect exercise seed";
+var mnemonic = "grass shed private figure exhaust smooth idea venture limb power gossip cloud";

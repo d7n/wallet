@@ -1,1 +1,1 @@
-var mnemonic = "peace sail desk position boost water napkin problem tooth start trigger draft";
+var mnemonic = "job divorce friend pet damp yard morning bean hello stumble plunge novel";

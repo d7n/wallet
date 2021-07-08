@@ -1,1 +1,1 @@
-var mnemonic = "build vital expect diagram outer soap inherit winter excess found later pitch";
+var mnemonic = "pupil lady domain neglect height brush lounge panic shoot royal salon avocado";

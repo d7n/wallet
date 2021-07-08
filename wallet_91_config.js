@@ -1,1 +1,1 @@
-var mnemonic = "powder focus board never raccoon impulse worry dragon behave pilot kite like";
+var mnemonic = "alter river exclude flat long dizzy surround other code distance ball buzz";

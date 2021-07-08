@@ -1,1 +1,1 @@
-var mnemonic = "day hurry mixed genuine speed invest feature rain garment guard scissors maximum";
+var mnemonic = "segment detail same glow bonus globe damp basket turtle dose ship card";

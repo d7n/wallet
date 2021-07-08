@@ -1,1 +1,1 @@
-var mnemonic = "regular kingdom address wire dance thumb novel leisure unusual cattle critic elite";
+var mnemonic = "hamster banner stage type gown call host party famous reduce oyster load";

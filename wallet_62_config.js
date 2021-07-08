@@ -1,1 +1,1 @@
-var mnemonic = "address adapt climb caught grass chapter wolf lunar slot good stadium exotic";
+var mnemonic = "track file canoe typical green chimney parrot joy voyage elevator industry load";

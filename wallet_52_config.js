@@ -1,1 +1,1 @@
-var mnemonic = "square noise tone identify prison junk what noodle drive drastic slush virus";
+var mnemonic = "body field garbage pride wrong robot assume prefer metal orient element sponsor";

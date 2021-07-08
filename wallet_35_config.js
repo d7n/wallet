@@ -1,1 +1,1 @@
-var mnemonic = "advance sense debris outdoor amount strong rival sing deputy piece salt home";
+var mnemonic = "pluck rescue lava cream arena velvet hair capital whip ivory survey figure";

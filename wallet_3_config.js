@@ -1,1 +1,1 @@
-var mnemonic = "flavor advice similar ask beauty stereo public pass bulb mobile avocado okay";
+var mnemonic = "reject wrestle oppose lend dad salt purse east glide clap crumble ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze simple clump session bubble pause stone civil deposit seven tree strong";
+var mnemonic = "swap frame volcano ramp track foot insect rural hair marriage color unique";

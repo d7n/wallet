@@ -1,1 +1,1 @@
-var mnemonic = "grace injury coil harvest exchange ticket truth quote network solar fox duty";
+var mnemonic = "clock west lottery bus finish total original echo bar differ famous eyebrow";

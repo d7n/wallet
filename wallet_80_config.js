@@ -1,1 +1,1 @@
-var mnemonic = "jazz zone almost network place snap joke moral convince frame canal edit";
+var mnemonic = "page brass blue also muffin swim foam total shell pencil fatal charge";

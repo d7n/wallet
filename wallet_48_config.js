@@ -1,1 +1,1 @@
-var mnemonic = "coach link method energy dentist drastic travel glad write pottery valley heavy";
+var mnemonic = "under axis mule expect reward that illness seminar night girl large access";

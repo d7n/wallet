@@ -1,1 +1,1 @@
-var mnemonic = "clay peace sad swarm razor inner fragile potato hen rack concert valid";
+var mnemonic = "glad rose swift chuckle raven install essence floor beef hamster afford timber";

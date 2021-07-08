@@ -1,1 +1,1 @@
-var mnemonic = "tape amazing finger quick mandate genre crunch tent model carry beauty guess";
+var mnemonic = "guilt dignity assist arrange doctor tomato erase siege suspect tissue level crucial";

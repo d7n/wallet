@@ -1,1 +1,1 @@
-var mnemonic = "cheese trick blanket diet actress fog clump cabin hungry expect elephant sadness";
+var mnemonic = "control dumb cake viable fancy absent cluster medal what pink clown used";

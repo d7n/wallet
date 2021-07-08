@@ -1,1 +1,1 @@
-var mnemonic = "hope oval myth insane guitar business burst cheap connect now deer black";
+var mnemonic = "bag episode tomato advice sponsor vital flee use original great nominee orange";

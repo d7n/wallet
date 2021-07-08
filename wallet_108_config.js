@@ -1,1 +1,1 @@
-var mnemonic = "please draw regret explain thunder above lava sister bless leaf abuse extra";
+var mnemonic = "catch whale wrist slush fitness fade educate muscle crisp width cloud decrease";

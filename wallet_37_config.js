@@ -1,1 +1,1 @@
-var mnemonic = "leave canyon jump ugly topple surface tonight indoor lobster unhappy movie net";
+var mnemonic = "custom response fashion hybrid jewel tell attend update beyond glimpse winter upgrade";

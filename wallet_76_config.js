@@ -1,1 +1,1 @@
-var mnemonic = "wild gadget net submit size cave cloth human winner supply spring saddle";
+var mnemonic = "huge enact envelope budget erase clean candy yard segment dirt march verify";

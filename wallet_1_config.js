@@ -1,1 +1,1 @@
-var mnemonic = "hope width tower element earth kangaroo travel bag trend patrol all immune";
+var mnemonic = "surround pear addict symbol face pyramid shuffle dog candy observe dice horror";

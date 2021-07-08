@@ -1,1 +1,1 @@
-var mnemonic = "fatal donate act climb purpose name wisdom forget funny myself coral wide";
+var mnemonic = "high claw finish enroll holiday small club range slush cook space bridge";

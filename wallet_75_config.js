@@ -1,1 +1,1 @@
-var mnemonic = "average tortoise divorce update nature diamond old aunt dilemma devote bless hood";
+var mnemonic = "beach refuse garage need rigid program vibrant taxi someone boss cargo proud";

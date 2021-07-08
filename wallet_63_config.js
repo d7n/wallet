@@ -1,1 +1,1 @@
-var mnemonic = "jump few tenant shrimp humble food ring amount axis wise find neither";
+var mnemonic = "trip ocean resist unknown aunt cargo cinnamon list route surprise canyon stadium";

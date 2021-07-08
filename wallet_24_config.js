@@ -1,1 +1,1 @@
-var mnemonic = "bone disease grape monkey sample twelve require office flip exhibit gasp frost";
+var mnemonic = "alter swap veteran tone earn must mistake cruel electric celery symptom wedding";

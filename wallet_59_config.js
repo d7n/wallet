@@ -1,1 +1,1 @@
-var mnemonic = "great brush plate dust used prevent detail day boat razor motion human";
+var mnemonic = "twelve execute kiwi afraid route age shiver cactus old limb elevator unit";

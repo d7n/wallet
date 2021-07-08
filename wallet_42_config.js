@@ -1,1 +1,1 @@
-var mnemonic = "apart electric axis pattern hazard oil crush kiss stomach glance awkward hand";
+var mnemonic = "friend claim glad nothing empower change shove random scout move cannon milk";

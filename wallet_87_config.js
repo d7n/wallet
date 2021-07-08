@@ -1,1 +1,1 @@
-var mnemonic = "wrong oil citizen witness enable hill manual auto dolphin belt monkey convince";
+var mnemonic = "bind siren fiction plate used label museum virus vehicle wish outer plate";

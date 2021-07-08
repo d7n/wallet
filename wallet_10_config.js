@@ -1,1 +1,1 @@
-var mnemonic = "resist remove side thank finish initial giraffe fun slim crime move holiday";
+var mnemonic = "walnut wild toy vacuum feed index gown purse connect purpose mimic wagon";

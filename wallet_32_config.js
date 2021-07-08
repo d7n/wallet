@@ -1,1 +1,1 @@
-var mnemonic = "inquiry merge cup heart shed toe affair subway daughter trip sport banana";
+var mnemonic = "state accident ride already draft merit electric wing flame prison plug midnight";

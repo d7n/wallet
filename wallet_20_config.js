@@ -1,1 +1,1 @@
-var mnemonic = "excess board knee bottom ahead garment goddess anchor nature dash dizzy coach";
+var mnemonic = "tomato swift vote crater series fence excess glory decide window shadow solar";

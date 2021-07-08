@@ -1,1 +1,1 @@
-var mnemonic = "hundred exist summer embark unhappy club night daring code they sniff alone";
+var mnemonic = "safe reunion song sick brass vintage visual swear two diary ladder vacuum";

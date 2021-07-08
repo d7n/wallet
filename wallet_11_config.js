@@ -1,1 +1,1 @@
-var mnemonic = "abuse actor number snap duty primary give miracle december damage paddle fly";
+var mnemonic = "arm protect area subject damage vintage people again cereal gown pyramid deputy";

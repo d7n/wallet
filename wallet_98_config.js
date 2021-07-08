@@ -1,1 +1,1 @@
-var mnemonic = "embark tongue forward large soap custom artwork maximum icon better horn ostrich";
+var mnemonic = "abstract stable online private rug inherit tower turtle transfer afraid focus index";

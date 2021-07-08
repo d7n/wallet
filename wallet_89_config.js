@@ -1,1 +1,1 @@
-var mnemonic = "elder tray gain robot deal economy marble tonight scatter mom captain confirm";
+var mnemonic = "squeeze clock steak matter call faint gadget upset rib damp clay reject";

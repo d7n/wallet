@@ -1,1 +1,1 @@
-var mnemonic = "miss that wage juice dolphin opinion expose fish tooth gospel innocent town";
+var mnemonic = "hat tree crowd life board zero team coffee scissors earn abandon soup";

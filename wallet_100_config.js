@@ -1,1 +1,1 @@
-var mnemonic = "rookie velvet depth uphold clock doll relax carbon sock endorse awake second";
+var mnemonic = "romance almost trigger exercise roast double elephant message reopen depend blue adjust";
