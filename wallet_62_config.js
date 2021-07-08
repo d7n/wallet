@@ -1,1 +1,1 @@
-var mnemonic = "renew coral balance brush smart update credit rely lemon boost chapter enable";
+var mnemonic = "call slight involve defense make state lab fit engage cost arm double";

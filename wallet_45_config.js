@@ -1,1 +1,1 @@
-var mnemonic = "salon genuine slide fashion floor medal ordinary frog tool biology beef example";
+var mnemonic = "garlic language plate deposit turtle chalk sell era shine oil bicycle helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture provide enlist okay reduce peasant bread trash state hair monster curve";
+var mnemonic = "bird glare bunker invest tortoise absent anger idle organ wash forward repair";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve universe juice trend initial hello peanut stove draft sibling piano push";
+var mnemonic = "thank cream utility goat sell taxi enlist affair hundred legend trim neither";

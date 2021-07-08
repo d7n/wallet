@@ -1,1 +1,1 @@
-var mnemonic = "vapor gaze ramp gasp faculty design setup tobacco aspect poet liar dance";
+var mnemonic = "fury hotel wing decline damage pumpkin globe into tilt today pave large";

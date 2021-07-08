@@ -1,1 +1,1 @@
-var mnemonic = "grab coast carry shed salmon asset roast display metal doctor sugar measure";
+var mnemonic = "hood flame mechanic remember middle quiz project cereal curve affair tool usual";

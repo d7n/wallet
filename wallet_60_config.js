@@ -1,1 +1,1 @@
-var mnemonic = "kid sweet wreck volcano leisure what kiss rookie blouse hungry verify cat";
+var mnemonic = "flip spike slush future scale fitness pear high peace shoot parrot side";

@@ -1,1 +1,1 @@
-var mnemonic = "they purse snap interest paddle old floor fever nature fitness glory rather";
+var mnemonic = "lesson mercy session salmon among combine hundred inquiry rough melt balance practice";

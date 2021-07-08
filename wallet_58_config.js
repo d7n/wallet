@@ -1,1 +1,1 @@
-var mnemonic = "confirm merry caution net under key evil capable remind bench trumpet poet";
+var mnemonic = "avocado swear erosion reform worry stable fit shield cement roof equal hood";

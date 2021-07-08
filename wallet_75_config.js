@@ -1,1 +1,1 @@
-var mnemonic = "odor alley average defense loyal caution ritual remind day double curtain doll";
+var mnemonic = "alert also junior great reflect peanut ketchup clever rib bonus turkey april";

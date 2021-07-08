@@ -1,1 +1,1 @@
-var mnemonic = "cotton name network video boss oppose bitter echo side gas among stomach";
+var mnemonic = "month trigger mushroom huge meat tired spend true ski monster mask double";

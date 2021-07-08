@@ -1,1 +1,1 @@
-var mnemonic = "coin cloth addict olympic nut sudden blossom wish flavor lumber talk truck";
+var mnemonic = "donor ripple garment slam beauty amused leaf attend piece coffee maze announce";

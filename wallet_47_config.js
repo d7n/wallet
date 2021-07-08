@@ -1,1 +1,1 @@
-var mnemonic = "absurd alarm cook yard olympic tree undo sing raven during sweet foster";
+var mnemonic = "angle ramp cage ball mobile garden client offer elbow online inherit slight";

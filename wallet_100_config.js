@@ -1,1 +1,1 @@
-var mnemonic = "snake canal rug action lamp endorse unaware poet usage story tobacco moment";
+var mnemonic = "nuclear message adult amused apple green language humor venue cherry lift foster";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse grass frown what decline biology fever turn couple despair record goose";
+var mnemonic = "warfare nuclear good peasant become citizen chase bring found hill offer whisper";

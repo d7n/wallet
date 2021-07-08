@@ -1,1 +1,1 @@
-var mnemonic = "shield strike reveal trade canoe base obtain plate bamboo stumble suit enjoy";
+var mnemonic = "grit beef various avocado lumber enter cute cheap gorilla impulse air foam";

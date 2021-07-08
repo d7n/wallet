@@ -1,1 +1,1 @@
-var mnemonic = "spare able hero genius habit praise pole wood region deposit rigid autumn";
+var mnemonic = "knee melt cause sauce speak viable home manage ozone elder deer dad";

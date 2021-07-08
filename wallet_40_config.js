@@ -1,1 +1,1 @@
-var mnemonic = "outer search hammer uphold day eight weasel click slide wasp foil winner";
+var mnemonic = "junior rigid filter conduct affair flash beef require forget banana aim network";

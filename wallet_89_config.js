@@ -1,1 +1,1 @@
-var mnemonic = "actress master stool before fold atom sphere trim inmate ignore mosquito used";
+var mnemonic = "square reflect history cousin various radar cloud ostrich slab domain person prize";

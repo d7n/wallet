@@ -1,1 +1,1 @@
-var mnemonic = "van bronze liquid deal shock pull lobster edit organ tragic floor autumn";
+var mnemonic = "pear boat design program neck diet increase online there scorpion stage real";

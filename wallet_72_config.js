@@ -1,1 +1,1 @@
-var mnemonic = "squirrel abstract wrist march initial ceiling fitness equip mimic leisure shield gossip";
+var mnemonic = "black coral route stable off disease deal require unaware section time mind";

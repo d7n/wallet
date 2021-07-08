@@ -1,1 +1,1 @@
-var mnemonic = "arctic sure call metal fetch just butter nerve satisfy laugh kite venture";
+var mnemonic = "found exercise black inquiry negative shift wire exotic perfect agree bright palace";

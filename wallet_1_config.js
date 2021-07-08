@@ -1,1 +1,1 @@
-var mnemonic = "drum loud problem wonder eight correct bid camp wall rude climb clown";
+var mnemonic = "false involve tired exit grab poet evil differ cupboard that certain bid";

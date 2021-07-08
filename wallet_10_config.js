@@ -1,1 +1,1 @@
-var mnemonic = "warrior repair weasel crater coach shoot rather tattoo subway brick skill range";
+var mnemonic = "mandate above false olive correct copy tiger repeat corn simple way cup";

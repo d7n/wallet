@@ -1,1 +1,1 @@
-var mnemonic = "false barrel ask vapor accident jar enough industry truly other total trouble";
+var mnemonic = "danger piece worth cousin quiz lock copy behind brother nut actor tone";

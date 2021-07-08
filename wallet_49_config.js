@@ -1,1 +1,1 @@
-var mnemonic = "power flat share ahead amazing immense sell fresh zebra one lumber trick";
+var mnemonic = "tunnel tornado keen loan lock eight evoke tool problem cactus mother sand";

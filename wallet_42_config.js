@@ -1,1 +1,1 @@
-var mnemonic = "notice worth boat swim thunder into grit scrap ten exist metal move";
+var mnemonic = "describe violin hazard width author garbage pen trade helmet exercise stamp leisure";

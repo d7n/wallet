@@ -1,1 +1,1 @@
-var mnemonic = "promote dad deal help choose prize vanish dwarf stone people average faculty";
+var mnemonic = "begin drift sea oyster hello stadium clinic hire funny control hill dance";

@@ -1,1 +1,1 @@
-var mnemonic = "march inhale wait domain nerve vanish typical rocket sunset phrase power lazy";
+var mnemonic = "upper primary flock join mix figure possible combine fuel vault chef wool";

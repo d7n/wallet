@@ -1,1 +1,1 @@
-var mnemonic = "initial top old december blur educate stone filter lock blossom finger tank";
+var mnemonic = "inmate dirt awake grit oblige inch recall problem happy cash common urge";

@@ -1,1 +1,1 @@
-var mnemonic = "proof expire jaguar humble iron jewel maze stomach wink erase orange rib";
+var mnemonic = "genuine middle tongue castle age post crisp predict record today craft today";

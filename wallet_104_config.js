@@ -1,1 +1,1 @@
-var mnemonic = "inspire deposit kid fever divide error breeze elegant brisk disagree wage track";
+var mnemonic = "purpose session lesson census large wage jump across galaxy collect buddy betray";

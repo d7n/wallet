@@ -1,1 +1,1 @@
-var mnemonic = "novel various jaguar slab salon spell credit equip pull assist fitness mind";
+var mnemonic = "flag leisure ceiling inside entry draft village other egg adjust exhibit divorce";

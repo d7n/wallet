@@ -1,1 +1,1 @@
-var mnemonic = "asthma actress develop battle mind hire when quarter broken bean lounge moon";
+var mnemonic = "idea bike lesson patch orbit turkey urban can method shaft service mention";

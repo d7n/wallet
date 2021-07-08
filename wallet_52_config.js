@@ -1,1 +1,1 @@
-var mnemonic = "beach glad enjoy code wisdom lumber nest absorb mind pill deer thing";
+var mnemonic = "alone impose tank permit glue fury wish pig ridge arch arctic cabin";

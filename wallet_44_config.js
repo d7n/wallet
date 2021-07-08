@@ -1,1 +1,1 @@
-var mnemonic = "bid where horn wing main include toy february debris awkward long fever";
+var mnemonic = "reform casino quarter nasty indicate first topic oxygen comfort champion pottery rapid";

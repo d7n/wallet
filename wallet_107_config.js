@@ -1,1 +1,1 @@
-var mnemonic = "shove mass suggest recycle math alley violin reflect opera they real uphold";
+var mnemonic = "media supreme dumb fox hero rather glory rural mosquito renew syrup dose";

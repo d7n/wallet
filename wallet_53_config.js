@@ -1,1 +1,1 @@
-var mnemonic = "off volume spawn near hunt script vocal foot domain cancel orange merit";
+var mnemonic = "believe hollow dynamic fence way stadium maple balance during chalk alarm post";

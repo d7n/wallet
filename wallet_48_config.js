@@ -1,1 +1,1 @@
-var mnemonic = "raccoon oblige lucky weapon elevator tide frame dignity exact apple disorder uniform";
+var mnemonic = "submit glad glide pond inhale trust agree caution spy body index west";

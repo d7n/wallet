@@ -1,1 +1,1 @@
-var mnemonic = "blanket good onion gesture million action educate staff will sorry wink eagle";
+var mnemonic = "honey erupt present empty renew edit kit girl evidence very sick rack";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk business bunker wrestle apart claw toe diesel peace husband endless online";
+var mnemonic = "frequent perfect knock naive cinnamon tomorrow jaguar material fantasy vehicle decorate cat";

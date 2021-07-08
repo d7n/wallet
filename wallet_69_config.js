@@ -1,1 +1,1 @@
-var mnemonic = "struggle trust excess spice glide sheriff catch sadness pitch draft tank turkey";
+var mnemonic = "artefact robust plastic typical boat pole sword stereo imitate random science recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "nation pony spoon face unaware brief auction antenna endless fuel hen usual";
+var mnemonic = "artist oxygen walk order office blanket arrow general energy method dutch eternal";

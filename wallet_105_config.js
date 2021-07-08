@@ -1,1 +1,1 @@
-var mnemonic = "myth negative door buffalo fall essence federal donate team before water battle";
+var mnemonic = "rival charge wonder update vague engage punch miracle aisle eight dolphin era";

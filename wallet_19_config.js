@@ -1,1 +1,1 @@
-var mnemonic = "ensure pottery cinnamon memory gauge change believe robot menu capital siege sting";
+var mnemonic = "shadow image mansion coral sustain citizen slim viable pizza step breeze brand";

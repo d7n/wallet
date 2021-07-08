@@ -1,1 +1,1 @@
-var mnemonic = "lava maximum hat dentist letter turtle kiss pear corn man almost sure";
+var mnemonic = "monster wild square fever armor design six fancy ahead treat blade essay";

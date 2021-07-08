@@ -1,1 +1,1 @@
-var mnemonic = "blame soap trust home enact ivory anxiety electric brass decide choice title";
+var mnemonic = "what ramp absorb plunge crack imitate monitor winter what fiber they spend";

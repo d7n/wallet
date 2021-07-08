@@ -1,1 +1,1 @@
-var mnemonic = "kitten summer flock stem critic solar climb reform obey other number target";
+var mnemonic = "tape pistol diary job motor cable eyebrow snow volume strategy any tower";

@@ -1,1 +1,1 @@
-var mnemonic = "detect lucky twist ramp coil van choice rescue around private carpet surge";
+var mnemonic = "liquid useless nature rebuild beauty bridge coin hint join convince jeans pull";

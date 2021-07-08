@@ -1,1 +1,1 @@
-var mnemonic = "cotton unveil segment scrub crush badge verb gun code sort vacuum saddle";
+var mnemonic = "grit enhance modify sadness mercy ethics motion film engine fork ozone copper";

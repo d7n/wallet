@@ -1,1 +1,1 @@
-var mnemonic = "equip tag ladder army what rude capable canyon kitchen make good metal";
+var mnemonic = "caution side slot blossom kiwi daughter ketchup exhibit obtain total universe document";

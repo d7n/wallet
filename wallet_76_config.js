@@ -1,1 +1,1 @@
-var mnemonic = "decorate spring child drip cradle ball shallow pulp still use rough social";
+var mnemonic = "mom recycle panda damp business dragon toilet mechanic travel monitor steel moral";

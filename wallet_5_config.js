@@ -1,1 +1,1 @@
-var mnemonic = "flush rail phone visa worth wedding report shuffle ten mirror float doll";
+var mnemonic = "crane social mad slam race inspire range name wheel drastic grocery between";

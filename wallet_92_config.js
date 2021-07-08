@@ -1,1 +1,1 @@
-var mnemonic = "entire sibling mistake sock juice dance wise wine vote entire ketchup exotic";
+var mnemonic = "item extend armor wolf garden gloom slot warfare sun theme vacuum mix";

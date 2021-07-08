@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wait table elegant biology outer hint open pepper destroy arrest moment";
+var mnemonic = "law scan write faith hover repair sock say virtual cart exhaust myself";

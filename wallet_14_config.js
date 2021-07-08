@@ -1,1 +1,1 @@
-var mnemonic = "push broccoli program arrest laptop zebra wolf defy expand lion proof tissue";
+var mnemonic = "rate edit jaguar brave genuine crack surge normal found frost output plastic";

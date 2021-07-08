@@ -1,1 +1,1 @@
-var mnemonic = "seven floor hub police custom exotic dinner hard copper erode cloth lesson";
+var mnemonic = "melody wet anchor menu giggle dirt limit deal gospel assault solar private";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence wisdom pool payment elder gasp custom never either moon protect tip";
+var mnemonic = "unknown weapon select matrix boy harsh advance dolphin have desert direct oxygen";

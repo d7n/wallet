@@ -1,1 +1,1 @@
-var mnemonic = "save warm mixed zebra tip when coach amateur guard surprise slush name";
+var mnemonic = "auction fuel room ketchup kid dentist talk galaxy slight endorse notable gentle";

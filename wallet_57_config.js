@@ -1,1 +1,1 @@
-var mnemonic = "plunge agent bicycle vacant mom solar feel away where impact tail mystery";
+var mnemonic = "notice film diet smooth clutch ketchup salon depend fancy front tourist chicken";

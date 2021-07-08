@@ -1,1 +1,1 @@
-var mnemonic = "bridge fortune reduce bean cloth become about tape that deer virus scale";
+var mnemonic = "deputy sadness forget lazy frequent man recycle sphere castle skull aisle volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "polar fiber indoor prevent enlist identify oyster neglect gain pilot flat green";
+var mnemonic = "lamp afraid athlete ordinary chat there december apart humble hawk reveal leopard";

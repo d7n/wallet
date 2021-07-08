@@ -1,1 +1,1 @@
-var mnemonic = "spawn armor obtain feed lava position bracket style security bundle poet amateur";
+var mnemonic = "insane soup shop couple zoo butter entry agree fault divide oval chase";

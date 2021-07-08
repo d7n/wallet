@@ -1,1 +1,1 @@
-var mnemonic = "village mango awful path elegant caught fiction hole grape patient half lion";
+var mnemonic = "away claw foster chalk sudden wagon arrive pony enact exile address spring";

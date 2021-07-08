@@ -1,1 +1,1 @@
-var mnemonic = "section ketchup rail symptom canoe mammal rapid hope satoshi another salon torch";
+var mnemonic = "gym rather talent end flash armed subway amused patch addict stone kidney";

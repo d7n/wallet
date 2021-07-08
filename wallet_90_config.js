@@ -1,1 +1,1 @@
-var mnemonic = "myth gravity analyst behind left bonus strong company abuse giggle squeeze thank";
+var mnemonic = "meat attract cotton stomach brown metal fan junk wing lobster acoustic custom";

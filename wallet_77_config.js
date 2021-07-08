@@ -1,1 +1,1 @@
-var mnemonic = "thunder person syrup rally knife around eagle salad museum sudden lizard umbrella";
+var mnemonic = "calm danger thunder envelope coast energy advance dragon vocal lizard tribe coil";

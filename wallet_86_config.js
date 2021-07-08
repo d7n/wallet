@@ -1,1 +1,1 @@
-var mnemonic = "minute august stomach squeeze cry village target elbow recipe unknown scrub ability";
+var mnemonic = "globe robust harsh item fury visual south can february sword path code";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster head bottom dial cry gift hockey above crunch catalog skill flip";
+var mnemonic = "nest filter ankle palm minute lawn lizard question bus easy view drip";

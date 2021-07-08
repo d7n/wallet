@@ -1,1 +1,1 @@
-var mnemonic = "sausage wild wedding almost rice pepper orient gap carpet desert age soda";
+var mnemonic = "carbon birth lizard fresh gasp between word basket dune fold cruise cheese";

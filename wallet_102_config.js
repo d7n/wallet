@@ -1,1 +1,1 @@
-var mnemonic = "nominee area tonight tunnel oyster fox repair advice estate wrestle relief escape";
+var mnemonic = "decade fragile wet razor brass pipe cigar eight cactus always decrease country";

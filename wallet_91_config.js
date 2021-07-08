@@ -1,1 +1,1 @@
-var mnemonic = "toe second sting number chair betray wasp cute truly knife engage decrease";
+var mnemonic = "walnut ramp practice unaware safe movie sudden entire fish space step muscle";

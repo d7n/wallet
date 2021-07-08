@@ -1,1 +1,1 @@
-var mnemonic = "diagram scatter faculty grab guide hospital choose start someone song six leisure";
+var mnemonic = "conduct cement chase cement goat letter trigger aim nation ozone antenna fantasy";

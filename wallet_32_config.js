@@ -1,1 +1,1 @@
-var mnemonic = "unfold tomorrow tooth face similar abuse walnut level shadow employ obvious food";
+var mnemonic = "release consider burst code equal hill nuclear visit fat spoon minute actress";

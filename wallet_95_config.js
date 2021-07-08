@@ -1,1 +1,1 @@
-var mnemonic = "pool father brain flat prison kidney inmate sound quit day wheat dinner";
+var mnemonic = "clinic piece cherry nephew cinnamon leaf fantasy motion cheap shock cool juice";

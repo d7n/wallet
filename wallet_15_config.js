@@ -1,1 +1,1 @@
-var mnemonic = "priority try away spider pupil dance begin render outer blood tiger slam";
+var mnemonic = "weekend neither biology perfect ask consider you goddess lady region illness uncle";

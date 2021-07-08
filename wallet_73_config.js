@@ -1,1 +1,1 @@
-var mnemonic = "output shaft okay limb snap rail face skill fabric quiz attend churn";
+var mnemonic = "cute theme taste admit chronic seed stereo weather route night loud grow";

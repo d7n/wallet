@@ -1,1 +1,1 @@
-var mnemonic = "spell diagram hollow hill unit half axis either family bonus state slogan";
+var mnemonic = "audit pass walnut response butter session add beauty pottery bomb demise step";

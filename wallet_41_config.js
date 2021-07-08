@@ -1,1 +1,1 @@
-var mnemonic = "general ability drive then board quote endless tide sting happy elbow gold";
+var mnemonic = "rubber bacon sun charge sleep spray unusual method confirm cute green render";

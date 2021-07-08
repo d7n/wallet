@@ -1,1 +1,1 @@
-var mnemonic = "ignore submit busy there total huge sign craft vanish peace hat trigger";
+var mnemonic = "inform oven bone blue minor desk expose issue clap add sudden volcano";

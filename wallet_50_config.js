@@ -1,1 +1,1 @@
-var mnemonic = "congress elbow belt quarter brand genius search brief victory treat man unique";
+var mnemonic = "wrap little purchase volcano blossom winner sausage force echo staff illegal spell";

@@ -1,1 +1,1 @@
-var mnemonic = "real certain awesome pigeon moral tree pool midnight garlic awkward defy ghost";
+var mnemonic = "tent glance organ column march govern toss chair same sad cram ensure";

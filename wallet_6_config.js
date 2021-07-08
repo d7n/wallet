@@ -1,1 +1,1 @@
-var mnemonic = "jaguar boost text trade pig execute quick month shrug witness gloom result";
+var mnemonic = "olympic month insect wise thank edit climb cart firm gasp inform race";

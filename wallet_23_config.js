@@ -1,1 +1,1 @@
-var mnemonic = "obey cloud business more emotion van wave meat fetch increase all sad";
+var mnemonic = "pencil picture region arrow energy fiscal cannon romance loop wage business three";

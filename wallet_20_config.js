@@ -1,1 +1,1 @@
-var mnemonic = "calm three ozone slam eight mass bulk crush predict stove lunch appear";
+var mnemonic = "spray inside coast parade gap slim economy round street trial render photo";

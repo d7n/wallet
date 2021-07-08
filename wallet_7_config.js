@@ -1,1 +1,1 @@
-var mnemonic = "lumber thrive that anchor romance certain rotate sunset stadium unusual damage enrich";
+var mnemonic = "bulk acquire into evoke catalog tuition original pizza arm cry oak luggage";

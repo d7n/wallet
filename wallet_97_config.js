@@ -1,1 +1,1 @@
-var mnemonic = "act coin october chase circle siege deliver want abstract chase skin three";
+var mnemonic = "alpha wild jealous frown riot combine virtual find aware enact cave gas";

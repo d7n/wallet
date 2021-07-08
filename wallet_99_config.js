@@ -1,1 +1,1 @@
-var mnemonic = "magic swamp eagle maple milk someone entry frozen adapt fiber boil boy";
+var mnemonic = "rocket depth weird luggage catalog expose cannon heavy hard explain track youth";

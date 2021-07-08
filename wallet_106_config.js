@@ -1,1 +1,1 @@
-var mnemonic = "carpet brick unveil author avoid speed work execute network project warrior thank";
+var mnemonic = "patient jealous pumpkin junk obscure path absorb stem artwork enforce carpet author";

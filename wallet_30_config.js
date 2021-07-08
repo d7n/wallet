@@ -1,1 +1,1 @@
-var mnemonic = "fault wrong castle believe this action modify elbow brisk hidden very mixed";
+var mnemonic = "retreat thunder ketchup earth man nation craft cross shaft blood amount spirit";

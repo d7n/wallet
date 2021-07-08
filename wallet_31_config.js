@@ -1,1 +1,1 @@
-var mnemonic = "fitness vacuum acoustic survey moment rough artist today balance else edit rude";
+var mnemonic = "badge furnace soda couch begin puzzle any square cinnamon wish resource write";

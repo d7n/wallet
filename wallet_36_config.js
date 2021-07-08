@@ -1,1 +1,1 @@
-var mnemonic = "insane eye seminar company way slogan fun chunk attack shuffle taste adult";
+var mnemonic = "sting clerk place truck security help exercise concert beach gold cruise forget";
