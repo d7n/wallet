@@ -1,1 +1,1 @@
-var mnemonic = "puzzle shift police hammer merge plug upset family snack inherit accident dial";
+var mnemonic = "wrong uncover summer actor noble purity estate tackle solve lonely paper obvious";

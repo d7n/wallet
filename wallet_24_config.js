@@ -1,1 +1,1 @@
-var mnemonic = "crop wage orbit cover crime gentle hotel sound melt action sure squirrel";
+var mnemonic = "borrow awake imitate degree battle decide return tortoise skill fade another door";

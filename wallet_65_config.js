@@ -1,1 +1,1 @@
-var mnemonic = "pet farm action earth warrior minimum sweet draft dry budget gossip midnight";
+var mnemonic = "funny inner half angle injury habit cloth shrimp market exotic verify anchor";

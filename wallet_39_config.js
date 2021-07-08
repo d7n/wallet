@@ -1,1 +1,1 @@
-var mnemonic = "box stand defy animal crater game robot clutch settle dutch citizen cancel";
+var mnemonic = "grunt broken pottery estate question element mixed second alcohol entry track fiction";

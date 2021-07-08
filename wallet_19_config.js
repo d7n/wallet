@@ -1,1 +1,1 @@
-var mnemonic = "inner ten silver work region phrase attitude figure fatigue flush parent purity";
+var mnemonic = "clog lumber youth burger praise mutual faculty parade champion dolphin able maple";

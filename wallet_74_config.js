@@ -1,1 +1,1 @@
-var mnemonic = "acoustic student actor movie gold jaguar assault luxury retreat legal identify credit";
+var mnemonic = "cushion essay oblige insect object great explain zero rate crack pilot drive";

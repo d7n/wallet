@@ -1,1 +1,1 @@
-var mnemonic = "fog desk laugh bean alter quiz man leader harbor seed pattern risk";
+var mnemonic = "sudden unlock puzzle basket item luggage cost common target amused shine wave";

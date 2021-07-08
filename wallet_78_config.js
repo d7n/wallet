@@ -1,1 +1,1 @@
-var mnemonic = "echo couch ankle napkin grow child moment saddle polar left pretty way";
+var mnemonic = "enter keen vague churn tackle betray sign lunar wire stone flush input";

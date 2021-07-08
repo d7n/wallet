@@ -1,1 +1,1 @@
-var mnemonic = "wreck mimic castle borrow pole wisdom bronze relief decade sign soap release";
+var mnemonic = "drink three test picnic emotion calm lend worth alert target belt material";

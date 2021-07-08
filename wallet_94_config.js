@@ -1,1 +1,1 @@
-var mnemonic = "sheriff scheme gossip witness sustain minute together ocean donate marriage burger pear";
+var mnemonic = "verb renew index document cause music trash chronic shift reduce object play";

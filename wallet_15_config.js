@@ -1,1 +1,1 @@
-var mnemonic = "sibling canal turn spatial letter able young pistol mirror nature control hand";
+var mnemonic = "income receive emerge dish cruise pen boil balcony yard polar ketchup topple";

@@ -1,1 +1,1 @@
-var mnemonic = "term enrich rocket vault certain donate scatter cost know safe neck lottery";
+var mnemonic = "speed mesh zoo trust mother width view powder client join useless float";

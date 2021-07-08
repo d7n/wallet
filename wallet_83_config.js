@@ -1,1 +1,1 @@
-var mnemonic = "unfold settle purchase winter issue they spell valid tongue street zero box";
+var mnemonic = "knock voice invest bridge solve cement napkin bring keen busy say sea";

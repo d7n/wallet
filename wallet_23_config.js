@@ -1,1 +1,1 @@
-var mnemonic = "glide bleak wing reflect harbor vault prefer rabbit liberty fire between cave";
+var mnemonic = "bottom rigid fresh trap police return still input beyond bunker hat turkey";

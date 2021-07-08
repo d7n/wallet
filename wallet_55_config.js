@@ -1,1 +1,1 @@
-var mnemonic = "pull blue captain furnace reduce brass business cricket amazing early citizen web";
+var mnemonic = "quick cable october police until alarm hill pottery few creek soon board";

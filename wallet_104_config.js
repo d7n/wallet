@@ -1,1 +1,1 @@
-var mnemonic = "indicate blouse common issue evil orphan torch obscure heavy battle alert detail";
+var mnemonic = "torch penalty people match cloud smile shadow slow leave soda acquire scorpion";

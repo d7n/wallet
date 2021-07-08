@@ -1,1 +1,1 @@
-var mnemonic = "portion conduct across grid calm begin cricket nasty chicken unable afford solar";
+var mnemonic = "punch tonight royal teach stable bracket rice bulb frozen more half sauce";

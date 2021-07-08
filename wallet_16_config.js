@@ -1,1 +1,1 @@
-var mnemonic = "ill inside juice term river chest bicycle spice project mom clay river";
+var mnemonic = "critic obtain muffin crime plastic witness potato turtle risk abandon answer until";

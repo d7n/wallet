@@ -1,1 +1,1 @@
-var mnemonic = "brass glimpse sphere curious wing dust blind envelope between hole hundred cotton";
+var mnemonic = "fall steel swing pudding rely planet broom breeze gauge tray awesome valley";

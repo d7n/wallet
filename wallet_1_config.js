@@ -1,1 +1,1 @@
-var mnemonic = "suggest license job crowd useless much torch raise come execute void bicycle";
+var mnemonic = "funny brave actor inner dentist tube gaze lunch lift hero please mail";

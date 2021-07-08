@@ -1,1 +1,1 @@
-var mnemonic = "loan tilt ticket draft tourist junk crash lava fish end radar merge";
+var mnemonic = "thing patch stumble word scatter cloud debate below pave suffer flower nose";

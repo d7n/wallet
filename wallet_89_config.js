@@ -1,1 +1,1 @@
-var mnemonic = "medal snap list eyebrow exhibit hurt idle goose tape mirror reward cotton";
+var mnemonic = "web board brand crunch medal must emotion fragile simple hill basket lesson";

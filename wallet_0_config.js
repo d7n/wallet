@@ -1,1 +1,1 @@
-var mnemonic = "over miracle police rail turkey eight disorder loyal thunder always choose giggle";
+var mnemonic = "expose boss velvet earth dolphin asthma cable scare sniff update fatal excite";

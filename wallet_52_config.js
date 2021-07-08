@@ -1,1 +1,1 @@
-var mnemonic = "absorb mass still demand hurdle coral island enough dwarf sheriff hat equip";
+var mnemonic = "tower work example burden print eternal sphere bright pass detect seed fun";

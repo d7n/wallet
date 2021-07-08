@@ -1,1 +1,1 @@
-var mnemonic = "proof horse capable cabbage cross draft enforce medal example frost gloom daughter";
+var mnemonic = "avoid ketchup pumpkin hurry flight sentence pupil keep october another tell disease";

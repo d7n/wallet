@@ -1,1 +1,1 @@
-var mnemonic = "have swear badge wool stereo clap say copper blind exhaust chase outdoor";
+var mnemonic = "apple magnet want high sock figure dog vintage remain group rival sting";

@@ -1,1 +1,1 @@
-var mnemonic = "legal letter refuse purpose grant normal october home help panda uphold frost";
+var mnemonic = "analyst among train print robot mesh smile tourist erode harbor venue boss";

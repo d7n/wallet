@@ -1,1 +1,1 @@
-var mnemonic = "reward right bean airport okay marble door twist slush unit pelican addict";
+var mnemonic = "broccoli hollow arena exclude glance cover execute tilt they visit gun suit";

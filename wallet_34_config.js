@@ -1,1 +1,1 @@
-var mnemonic = "ready remember biology gauge require loop sweet oppose angry mind any adapt";
+var mnemonic = "object liar seminar mass clinic tell bachelor gift oval prison slice actual";

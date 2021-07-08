@@ -1,1 +1,1 @@
-var mnemonic = "return bulk potato isolate unlock cricket confirm inmate cube ripple wisdom travel";
+var mnemonic = "romance era mad canyon north copy crisp aspect travel balcony card segment";

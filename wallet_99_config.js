@@ -1,1 +1,1 @@
-var mnemonic = "require oxygen miracle slow else tell fatal boy dash shrimp uphold catalog";
+var mnemonic = "divert aisle spread glimpse prosper below custom legend pink cloud power regular";

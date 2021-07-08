@@ -1,1 +1,1 @@
-var mnemonic = "stamp lion swim retreat mosquito mosquito fix imitate coin ecology order crack";
+var mnemonic = "phone throw album step bag method pelican usage near charge verb explain";

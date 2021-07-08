@@ -1,1 +1,1 @@
-var mnemonic = "sphere learn thunder city exclude favorite unique jazz verify alley negative pink";
+var mnemonic = "amazing clever image puzzle nerve black forest sausage sponsor used wasp space";

@@ -1,1 +1,1 @@
-var mnemonic = "palace flat error pledge reject tumble joy destroy torch check flash trouble";
+var mnemonic = "menu shy focus alarm shop decorate next ask together antenna service verb";

@@ -1,1 +1,1 @@
-var mnemonic = "badge tent hello legal garbage duty whisper lawsuit marriage girl thing wrap";
+var mnemonic = "swamp method soft clip smart fiscal trophy basket learn grocery craft impulse";

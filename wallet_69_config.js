@@ -1,1 +1,1 @@
-var mnemonic = "there ginger huge risk giggle stay thumb giggle humble venture attack plastic";
+var mnemonic = "smile clock loyal account print attract gorilla rib spoil gravity spell column";

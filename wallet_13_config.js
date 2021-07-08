@@ -1,1 +1,1 @@
-var mnemonic = "glide debate outdoor word traffic vacant food now drastic category bus buffalo";
+var mnemonic = "hen envelope obscure shoulder arrange safe screen tip volume sleep critic frequent";

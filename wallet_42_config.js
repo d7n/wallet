@@ -1,1 +1,1 @@
-var mnemonic = "naive few gym buyer know unusual empower emerge fury shrug outer twin";
+var mnemonic = "amount island tent path century reveal column famous album visual cruel rice";

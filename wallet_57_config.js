@@ -1,1 +1,1 @@
-var mnemonic = "prefer dune minute budget donate guard future fashion yellow network dynamic render";
+var mnemonic = "visa jeans reveal baby theory option alone boy bulb modify remind brown";

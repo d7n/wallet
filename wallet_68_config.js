@@ -1,1 +1,1 @@
-var mnemonic = "sell this portion happy canal asthma museum lock canyon wonder uniform trust";
+var mnemonic = "memory insane ride crane size near oxygen toilet next flight sustain pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude control blouse helmet oyster weather gesture wing journey verb volcano film";
+var mnemonic = "guilt level bus dance team clay also edit hen jealous promote glory";

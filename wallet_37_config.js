@@ -1,1 +1,1 @@
-var mnemonic = "unable blade illness matter rain possible arena paper shield coast liar early";
+var mnemonic = "welcome present letter couple frequent trouble ribbon merge obvious emerge brown want";

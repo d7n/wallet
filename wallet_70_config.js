@@ -1,1 +1,1 @@
-var mnemonic = "foil genius elbow team girl bone chuckle okay evil guide youth ticket";
+var mnemonic = "result maximum bag egg hospital load lock chair assault soldier rural clown";

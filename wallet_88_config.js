@@ -1,1 +1,1 @@
-var mnemonic = "tuna motion dice shoot tell champion copper two angle wolf outer forget";
+var mnemonic = "fine catalog shoe robot stool demand coral glue squirrel animal skull mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "swift talent twice inject grape truth box mansion explain wrap bid spin";
+var mnemonic = "describe idea crew thank elevator wagon emerge try august valid screen excite";

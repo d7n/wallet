@@ -1,1 +1,1 @@
-var mnemonic = "arm trial victory final core normal recall mushroom small level public tired";
+var mnemonic = "list siege grab burger talent actual palace tooth wrestle culture need vehicle";

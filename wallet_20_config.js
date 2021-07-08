@@ -1,1 +1,1 @@
-var mnemonic = "eight soccer sibling faint razor health state vote please skull marble burst";
+var mnemonic = "adjust imitate field fatal shine zone library logic heavy mass drum basic";

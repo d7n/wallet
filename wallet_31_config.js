@@ -1,1 +1,1 @@
-var mnemonic = "great accident film dizzy pair fit media metal awake desk beyond enter";
+var mnemonic = "inherit else you seed wedding bubble assault much tunnel ball ready picnic";

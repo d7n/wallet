@@ -1,1 +1,1 @@
-var mnemonic = "mad key whale pride argue monster predict decide coconut neither blade color";
+var mnemonic = "room lonely badge list art inside kid nurse bright roof endorse verb";

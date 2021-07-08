@@ -1,1 +1,1 @@
-var mnemonic = "coconut south gun width miracle pumpkin choose lift child fossil drip quality";
+var mnemonic = "hotel car range mind grace tone cross step index addict super print";

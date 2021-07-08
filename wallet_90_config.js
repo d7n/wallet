@@ -1,1 +1,1 @@
-var mnemonic = "crack satoshi inspire fetch apology food wool cup artwork march impose vendor";
+var mnemonic = "kiss win demand park unfold client drop bullet fiction buddy cement hero";

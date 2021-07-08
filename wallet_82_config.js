@@ -1,1 +1,1 @@
-var mnemonic = "august lesson refuse bunker miss equal luggage finger much unit among girl";
+var mnemonic = "huge hand penalty small warm security wheel wire logic romance apple movie";

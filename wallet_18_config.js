@@ -1,1 +1,1 @@
-var mnemonic = "job awake reduce maze invite danger tunnel twelve boat card across imitate";
+var mnemonic = "spare change energy indoor upon mouse concert swift ill harsh slam sport";

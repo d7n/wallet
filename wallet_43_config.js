@@ -1,1 +1,1 @@
-var mnemonic = "cradle later fix onion retire easy major floor shock lecture chief pyramid";
+var mnemonic = "earn float artefact daring pen elite win stock kit curtain snack impulse";

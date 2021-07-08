@@ -1,1 +1,1 @@
-var mnemonic = "glad remember off swap carpet spell long foil skill blue fog horror";
+var mnemonic = "bulb hammer poem soft puppy coach pulp settle notice label pudding kit";

@@ -1,1 +1,1 @@
-var mnemonic = "bone middle depth sight certain oblige utility ordinary spirit bulk fatal hello";
+var mnemonic = "salt outside snow police picture gorilla gloom omit gas stock virus bubble";

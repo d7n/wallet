@@ -1,1 +1,1 @@
-var mnemonic = "cover spread climb remove fitness frog fossil other youth husband file duck";
+var mnemonic = "step cause neither couch sort egg mystery thumb drum awake suffer rough";

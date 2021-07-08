@@ -1,1 +1,1 @@
-var mnemonic = "taste parade fruit waste typical fit section climb picnic run jaguar utility";
+var mnemonic = "ranch junk behind ride abandon use sponsor cloth family pet staff hair";

@@ -1,1 +1,1 @@
-var mnemonic = "reject tide caution rotate cancel dose entry iron utility illegal spend cigar";
+var mnemonic = "one lesson ghost hood among oppose smooth refuse various hard suit onion";

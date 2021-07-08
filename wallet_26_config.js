@@ -1,1 +1,1 @@
-var mnemonic = "fatal sting trade attract youth cushion twice expect jewel install exotic reject";
+var mnemonic = "dinner lawn grid chimney canal response rude yellow swift much track october";

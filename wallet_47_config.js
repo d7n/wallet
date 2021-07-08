@@ -1,1 +1,1 @@
-var mnemonic = "hen spice head gather paddle omit evolve fame park amused rack uncover";
+var mnemonic = "dress renew already stereo minute little cactus repeat logic surround clog eternal";

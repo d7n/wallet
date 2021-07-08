@@ -1,1 +1,1 @@
-var mnemonic = "hold inherit glory inject dragon genius need obvious caught issue year document";
+var mnemonic = "gospel disagree lumber gold depth body upper three idle regret gospel butter";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo sample act rural series endorse sock jeans lens viable start boil";
+var mnemonic = "infant spin shrimp cheese two goat equip gorilla pull figure apple viable";

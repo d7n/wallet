@@ -1,1 +1,1 @@
-var mnemonic = "used million fan illness scene mutual detect wheat inquiry day patch shrimp";
+var mnemonic = "claw subway fresh prison doll deal income range canal pole lazy sense";

@@ -1,1 +1,1 @@
-var mnemonic = "special rate height control column public grid dad sleep hurry adapt humble";
+var mnemonic = "bread era chief code cupboard upset oxygen gift dog audit valley drip";

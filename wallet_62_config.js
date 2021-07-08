@@ -1,1 +1,1 @@
-var mnemonic = "notice teach industry bomb project sausage artefact market wood holiday where upon";
+var mnemonic = "ridge electric pledge destroy help danger inflict exit hair differ sunny hip";

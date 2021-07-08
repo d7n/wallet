@@ -1,1 +1,1 @@
-var mnemonic = "december enroll clap vocal sound bone butter damp logic badge nice tank";
+var mnemonic = "index cactus install clown income silver task program plastic match tide dove";

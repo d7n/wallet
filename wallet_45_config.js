@@ -1,1 +1,1 @@
-var mnemonic = "pelican bounce kingdom ankle moral snow boss elbow list odor under absurd";
+var mnemonic = "tree pipe sure cover early face alone grid cry boring pond approve";

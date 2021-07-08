@@ -1,1 +1,1 @@
-var mnemonic = "donate copy runway quick fat advice sibling power gun trust mind cruel";
+var mnemonic = "cupboard phone river submit since text leave only party trim month burst";

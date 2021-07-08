@@ -1,1 +1,1 @@
-var mnemonic = "such peace harsh joke wrap wave setup hour behind elite custom vessel";
+var mnemonic = "smooth okay almost eager buyer more snack narrow drastic obscure flip target";

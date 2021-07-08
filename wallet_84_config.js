@@ -1,1 +1,1 @@
-var mnemonic = "crucial nothing exclude shallow you beyond festival photo ketchup myth battle receive";
+var mnemonic = "ostrich make turn dad collect metal obscure among split fiber extend helmet";

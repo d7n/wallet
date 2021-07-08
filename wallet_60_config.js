@@ -1,1 +1,1 @@
-var mnemonic = "spatial alone circle problem spike dismiss salad kiwi pizza exercise pill bring";
+var mnemonic = "cruise table amused joy captain dad artefact hybrid canal material differ upon";

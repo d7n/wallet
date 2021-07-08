@@ -1,1 +1,1 @@
-var mnemonic = "edit kitchen pulse resemble question verify between when broccoli avocado depart assist";
+var mnemonic = "stomach rule hazard awesome decline lamp slow hint ahead file alter test";

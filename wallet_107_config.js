@@ -1,1 +1,1 @@
-var mnemonic = "wrist race language prize clarify carry hill force post crisp luggage trumpet";
+var mnemonic = "cream heart kingdom seven tuna magnet audit young height wisdom holiday question";

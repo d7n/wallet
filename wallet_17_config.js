@@ -1,1 +1,1 @@
-var mnemonic = "olive ill vacuum venue step ghost manual congress consider infant scan pen";
+var mnemonic = "flight good pluck hurry team current truck desk ocean game train lucky";

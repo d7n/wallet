@@ -1,1 +1,1 @@
-var mnemonic = "useful menu expose patch cherry deposit butter slim blue season spot bacon";
+var mnemonic = "language capable live ignore swamp mango bench rebel blue same print expose";

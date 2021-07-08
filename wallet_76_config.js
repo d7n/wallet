@@ -1,1 +1,1 @@
-var mnemonic = "cloth spy defy march power sponsor sun foil shiver muffin bamboo vicious";
+var mnemonic = "code merge peanut cute giant identify slim dust notable frog ugly radar";

@@ -1,1 +1,1 @@
-var mnemonic = "question virtual attack feed deposit pony route square armor mention noodle puzzle";
+var mnemonic = "sad hidden uncover crater wonder search attend diamond version patch trumpet material";

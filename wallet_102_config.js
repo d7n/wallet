@@ -1,1 +1,1 @@
-var mnemonic = "cactus cupboard term lazy throw frame radar dose foster face nerve measure";
+var mnemonic = "explain enable endorse okay dignity history borrow pupil embrace leaf net rich";

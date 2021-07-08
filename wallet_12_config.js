@@ -1,1 +1,1 @@
-var mnemonic = "blouse wrestle auction mesh crash winner ramp tuition exit release voice poet";
+var mnemonic = "deputy arm field project tube stereo subway pioneer brick cabbage nuclear reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious humble horror medal fiber message phrase stove lawn idea neck picnic";
+var mnemonic = "organ fuel forum leg clarify rather return waste nominee lyrics slice fury";

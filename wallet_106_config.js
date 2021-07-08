@@ -1,1 +1,1 @@
-var mnemonic = "steak trust awesome apple into miss obtain inner universe execute practice can";
+var mnemonic = "adapt shaft topic injury stand minimum truth peace crime gentle club assume";

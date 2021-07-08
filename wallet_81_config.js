@@ -1,1 +1,1 @@
-var mnemonic = "jealous world similar try cat gaze tackle few illness video indoor say";
+var mnemonic = "short better nasty exact minute vendor exist cry vicious valid citizen ripple";

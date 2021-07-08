@@ -1,1 +1,1 @@
-var mnemonic = "tribe carpet turkey onion draw tube ramp bleak pave recipe shop injury";
+var mnemonic = "setup heart truth recipe clay mountain mule popular super desk hybrid sketch";

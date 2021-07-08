@@ -1,1 +1,1 @@
-var mnemonic = "decline accident artist bridge boring eagle hawk opera physical remind item feed";
+var mnemonic = "dignity crop kind silly ready follow gravity drum direct object bright zone";

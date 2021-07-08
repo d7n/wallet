@@ -1,1 +1,1 @@
-var mnemonic = "dust shell comic swap lake away glass assume guide oil tree inquiry";
+var mnemonic = "wise treat kit edit lady lend oblige divorce install play inspire entire";

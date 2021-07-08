@@ -1,1 +1,1 @@
-var mnemonic = "iron caught retreat search open boring race recycle picture chunk pet mosquito";
+var mnemonic = "kidney unfold pink amount point artwork wear early lake smile kidney fox";

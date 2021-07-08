@@ -1,1 +1,1 @@
-var mnemonic = "ribbon fame scale frozen session portion message void this bubble liar borrow";
+var mnemonic = "letter report illegal faint spot spoil plunge rural paddle copper dog used";

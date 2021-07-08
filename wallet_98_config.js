@@ -1,1 +1,1 @@
-var mnemonic = "proof scale midnight athlete fan horror chunk leisure yellow limit renew mixture";
+var mnemonic = "diagram eyebrow destroy adapt wrestle proof energy glance birth alarm isolate wreck";

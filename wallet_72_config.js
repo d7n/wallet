@@ -1,1 +1,1 @@
-var mnemonic = "trophy mix rich describe foam argue jewel insect example also opera siren";
+var mnemonic = "theme assume stereo cliff churn cotton wild install fence labor winter fetch";

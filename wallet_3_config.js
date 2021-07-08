@@ -1,1 +1,1 @@
-var mnemonic = "hero student chapter olympic nice erode health garbage property measure defense include";
+var mnemonic = "ski brain phone pepper soft chaos shiver talent test number ride quantum";

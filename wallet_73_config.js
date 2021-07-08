@@ -1,1 +1,1 @@
-var mnemonic = "laugh present access reject ancient cousin story truck inch width mixed unveil";
+var mnemonic = "fault clap gasp avocado video giraffe surround speed history impact final cost";

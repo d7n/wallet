@@ -1,1 +1,1 @@
-var mnemonic = "canoe orbit valley tumble reopen scale oven any poem roof honey weird";
+var mnemonic = "review parrot swift deal choice predict glow blood mind judge engine elephant";
