@@ -1,1 +1,1 @@
-var mnemonic = "private exit offer zebra piece noise pride lobster suspect tongue drive cheap";
+var mnemonic = "detect lucky twist ramp coil van choice rescue around private carpet surge";

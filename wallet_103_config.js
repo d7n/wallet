@@ -1,1 +1,1 @@
-var mnemonic = "ceiling page release cream title mosquito parrot grab picture cram aisle excuse";
+var mnemonic = "lobster head bottom dial cry gift hockey above crunch catalog skill flip";

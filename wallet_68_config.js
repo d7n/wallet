@@ -1,1 +1,1 @@
-var mnemonic = "budget erase crack bright crystal speak tribe pipe blanket raccoon please abstract";
+var mnemonic = "initial top old december blur educate stone filter lock blossom finger tank";

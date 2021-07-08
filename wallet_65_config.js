@@ -1,1 +1,1 @@
-var mnemonic = "side dizzy switch clinic find idea message damp company ordinary casino remember";
+var mnemonic = "polar fiber indoor prevent enlist identify oyster neglect gain pilot flat green";

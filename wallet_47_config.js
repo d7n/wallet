@@ -1,1 +1,1 @@
-var mnemonic = "sorry loop long shuffle perfect amateur account genuine pretty economy segment danger";
+var mnemonic = "absurd alarm cook yard olympic tree undo sing raven during sweet foster";

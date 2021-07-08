@@ -1,1 +1,1 @@
-var mnemonic = "reopen negative accident tired ramp exhibit produce become sleep cave anger thing";
+var mnemonic = "general ability drive then board quote endless tide sting happy elbow gold";

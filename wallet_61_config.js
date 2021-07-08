@@ -1,1 +1,1 @@
-var mnemonic = "debate change utility evidence deputy dog bitter embody ritual guide punch lava";
+var mnemonic = "van bronze liquid deal shock pull lobster edit organ tragic floor autumn";

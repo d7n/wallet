@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow confirm sorry lounge amazing thing feature rebel yellow deal swear pistol";
+var mnemonic = "pact infant primary maple enroll police jungle beauty sample bargain innocent trash";

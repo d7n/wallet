@@ -1,1 +1,1 @@
-var mnemonic = "similar uphold strategy cabin nice tumble loop thank hover knee enhance joke";
+var mnemonic = "actress master stool before fold atom sphere trim inmate ignore mosquito used";

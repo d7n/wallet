@@ -1,1 +1,1 @@
-var mnemonic = "unfair silly lock spider route cup ripple flush undo firm unfair across";
+var mnemonic = "unfold tomorrow tooth face similar abuse walnut level shadow employ obvious food";

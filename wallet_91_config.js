@@ -1,1 +1,1 @@
-var mnemonic = "stove left draw merry echo wife rebel awful poem imitate smoke segment";
+var mnemonic = "toe second sting number chair betray wasp cute truly knife engage decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "follow chief bone public decorate glare deputy age hammer uncover trouble clutch";
+var mnemonic = "plunge agent bicycle vacant mom solar feel away where impact tail mystery";

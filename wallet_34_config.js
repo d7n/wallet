@@ -1,1 +1,1 @@
-var mnemonic = "hero staff brand rally market silk transfer excess betray foil cupboard worry";
+var mnemonic = "vendor piano absorb exile stuff december enrich isolate embody wrist struggle category";

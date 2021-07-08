@@ -1,1 +1,1 @@
-var mnemonic = "secret cereal immense often idle quit example gallery success diagram language wild";
+var mnemonic = "snake canal rug action lamp endorse unaware poet usage story tobacco moment";

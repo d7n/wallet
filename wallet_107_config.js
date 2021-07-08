@@ -1,1 +1,1 @@
-var mnemonic = "figure convince task snack tank relief sword burden thrive know flush obscure";
+var mnemonic = "shove mass suggest recycle math alley violin reflect opera they real uphold";

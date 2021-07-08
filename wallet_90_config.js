@@ -1,1 +1,1 @@
-var mnemonic = "leave noise list tragic outer novel impulse chase naive beyond panda glove";
+var mnemonic = "myth gravity analyst behind left bonus strong company abuse giggle squeeze thank";

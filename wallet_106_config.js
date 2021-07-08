@@ -1,1 +1,1 @@
-var mnemonic = "valve immune cat govern curve ensure tuna mouse diary upper blade curtain";
+var mnemonic = "carpet brick unveil author avoid speed work execute network project warrior thank";

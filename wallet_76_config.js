@@ -1,1 +1,1 @@
-var mnemonic = "method assist glide across rain spy neck know manage more motor unaware";
+var mnemonic = "decorate spring child drip cradle ball shallow pulp still use rough social";

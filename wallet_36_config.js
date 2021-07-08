@@ -1,1 +1,1 @@
-var mnemonic = "purpose dry member relax arena mention reject ritual modify job sadness dinosaur";
+var mnemonic = "insane eye seminar company way slogan fun chunk attack shuffle taste adult";

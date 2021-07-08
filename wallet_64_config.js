@@ -1,1 +1,1 @@
-var mnemonic = "large actor state badge inner dwarf glance mystery ugly carry save pluck";
+var mnemonic = "such depth pipe walk ticket lift candy giraffe stove unfair fault used";

@@ -1,1 +1,1 @@
-var mnemonic = "next merit negative whale into slow all motion glory special neglect speed";
+var mnemonic = "notice worth boat swim thunder into grit scrap ten exist metal move";

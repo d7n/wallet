@@ -1,1 +1,1 @@
-var mnemonic = "mushroom also ethics push hollow fire crouch ready someone rival raise sibling";
+var mnemonic = "ignore submit busy there total huge sign craft vanish peace hat trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce toward evolve fork struggle concert tired still wall stick beef sentence";
+var mnemonic = "buzz civil text account usual laugh ripple magnet want amateur stock vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect curious mixed review another cruel thought breeze night virtual frown album";
+var mnemonic = "cotton name network video boss oppose bitter echo side gas among stomach";

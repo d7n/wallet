@@ -1,1 +1,1 @@
-var mnemonic = "cry size else enact mountain valve mule total scissors pluck soup luxury";
+var mnemonic = "blanket good onion gesture million action educate staff will sorry wink eagle";

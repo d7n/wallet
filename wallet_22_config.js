@@ -1,1 +1,1 @@
-var mnemonic = "dry famous now cry flag track axis harbor transfer blossom similar taxi";
+var mnemonic = "save warm mixed zebra tip when coach amateur guard surprise slush name";

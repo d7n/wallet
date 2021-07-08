@@ -1,1 +1,1 @@
-var mnemonic = "oil fame input pledge dance arctic track wrap pool blame almost grace";
+var mnemonic = "coin cloth addict olympic nut sudden blossom wish flavor lumber talk truck";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber unusual sniff weekend gather corn nerve capital space warfare galaxy vapor";
+var mnemonic = "bid where horn wing main include toy february debris awkward long fever";

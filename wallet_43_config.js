@@ -1,1 +1,1 @@
-var mnemonic = "web tattoo turkey school topple drama debris journey fabric foam survey mad";
+var mnemonic = "accuse adapt maple pill divorce true sister menu volcano any tuition fork";

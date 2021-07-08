@@ -1,1 +1,1 @@
-var mnemonic = "become hour drama suffer enemy pistol merit love daughter royal eight ask";
+var mnemonic = "cotton unveil segment scrub crush badge verb gun code sort vacuum saddle";

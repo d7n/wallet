@@ -1,1 +1,1 @@
-var mnemonic = "rubber rally smile gun skill expire cover stereo ladder zero scrap shoulder";
+var mnemonic = "confirm merry caution net under key evil capable remind bench trumpet poet";

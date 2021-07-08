@@ -1,1 +1,1 @@
-var mnemonic = "damage job mammal degree genuine mind develop ostrich loop that skirt dress";
+var mnemonic = "shield strike reveal trade canoe base obtain plate bamboo stumble suit enjoy";

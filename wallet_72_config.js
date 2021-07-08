@@ -1,1 +1,1 @@
-var mnemonic = "have category retreat mix library scrap language despair derive ginger crisp salon";
+var mnemonic = "squirrel abstract wrist march initial ceiling fitness equip mimic leisure shield gossip";

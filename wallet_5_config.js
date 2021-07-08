@@ -1,1 +1,1 @@
-var mnemonic = "final school lava law mystery great grocery suggest choose furnace roast desk";
+var mnemonic = "flush rail phone visa worth wedding report shuffle ten mirror float doll";

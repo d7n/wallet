@@ -1,1 +1,1 @@
-var mnemonic = "camera retreat exchange account shadow advance mechanic final hawk ankle pool coyote";
+var mnemonic = "ensure pottery cinnamon memory gauge change believe robot menu capital siege sting";

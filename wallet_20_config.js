@@ -1,1 +1,1 @@
-var mnemonic = "net copper fence clay attack rural bread custom police east immense moon";
+var mnemonic = "calm three ozone slam eight mass bulk crush predict stove lunch appear";

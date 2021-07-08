@@ -1,1 +1,1 @@
-var mnemonic = "whale slice skate bicycle deny salt damp garment minor relief parent holiday";
+var mnemonic = "nominee area tonight tunnel oyster fox repair advice estate wrestle relief escape";

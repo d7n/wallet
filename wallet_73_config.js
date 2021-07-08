@@ -1,1 +1,1 @@
-var mnemonic = "link priority rare medal vocal soft rich moon east helmet arena siege";
+var mnemonic = "output shaft okay limb snap rail face skill fabric quiz attend churn";

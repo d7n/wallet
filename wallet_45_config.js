@@ -1,1 +1,1 @@
-var mnemonic = "hunt unique catch spare shove soup lazy fossil weekend miss aware fitness";
+var mnemonic = "salon genuine slide fashion floor medal ordinary frog tool biology beef example";

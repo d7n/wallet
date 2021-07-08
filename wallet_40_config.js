@@ -1,1 +1,1 @@
-var mnemonic = "floor tongue measure sort round tomorrow benefit derive bird coyote east forest";
+var mnemonic = "outer search hammer uphold day eight weasel click slide wasp foil winner";

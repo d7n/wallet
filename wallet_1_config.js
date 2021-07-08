@@ -1,1 +1,1 @@
-var mnemonic = "since client afford hockey media reflect inspire width huge fluid gallery enhance";
+var mnemonic = "drum loud problem wonder eight correct bid camp wall rude climb clown";

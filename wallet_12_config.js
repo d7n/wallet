@@ -1,1 +1,1 @@
-var mnemonic = "balcony regular mom stuff around axis river area flower element salon bus";
+var mnemonic = "real certain awesome pigeon moral tree pool midnight garlic awkward defy ghost";

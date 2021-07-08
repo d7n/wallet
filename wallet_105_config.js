@@ -1,1 +1,1 @@
-var mnemonic = "bracket tenant list verb sick jazz drive enhance real situate acquire churn";
+var mnemonic = "myth negative door buffalo fall essence federal donate team before water battle";

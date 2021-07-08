@@ -1,1 +1,1 @@
-var mnemonic = "broccoli there length forget fire weekend hybrid word staff grocery will also";
+var mnemonic = "march inhale wait domain nerve vanish typical rocket sunset phrase power lazy";

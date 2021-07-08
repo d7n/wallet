@@ -1,1 +1,1 @@
-var mnemonic = "spike place own walnut toilet avocado sudden leopard cupboard omit menu eagle";
+var mnemonic = "obey cloud business more emotion van wave meat fetch increase all sad";

@@ -1,1 +1,1 @@
-var mnemonic = "speak demise gauge wasp ticket scan hat tool tell rain truly eagle";
+var mnemonic = "power flat share ahead amazing immense sell fresh zebra one lumber trick";

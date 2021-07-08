@@ -1,1 +1,1 @@
-var mnemonic = "label setup odor exercise lounge erase genuine humble shell empower pill seminar";
+var mnemonic = "small elbow prevent equip sorry beyond panther fog hole shy evil wolf";

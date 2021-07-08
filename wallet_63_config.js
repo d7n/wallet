@@ -1,1 +1,1 @@
-var mnemonic = "curious elevator vintage photo deliver install empower type room render grunt coral";
+var mnemonic = "nerve universe juice trend initial hello peanut stove draft sibling piano push";

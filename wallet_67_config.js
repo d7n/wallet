@@ -1,1 +1,1 @@
-var mnemonic = "amount trial ensure elder recipe struggle accident educate wait behind attract atom";
+var mnemonic = "promote dad deal help choose prize vanish dwarf stone people average faculty";

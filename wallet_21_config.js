@@ -1,1 +1,1 @@
-var mnemonic = "crater biology cattle hole language festival jealous average retreat vote retreat stomach";
+var mnemonic = "captain retreat gallery muffin vivid practice future rival album tourist marriage flame";

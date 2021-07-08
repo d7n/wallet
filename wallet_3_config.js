@@ -1,1 +1,1 @@
-var mnemonic = "drift garden marriage tiny dust replace clown faculty moon mean veteran same";
+var mnemonic = "hammer pudding cart erode mind rail artist subject exact prevent notable gain";

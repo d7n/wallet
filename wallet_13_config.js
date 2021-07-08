@@ -1,1 +1,1 @@
-var mnemonic = "siege guitar similar learn stick guilt plunge tell negative foil rough wage";
+var mnemonic = "arch tattoo total gravity badge notable minute aunt buyer melody harvest number";

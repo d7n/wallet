@@ -1,1 +1,1 @@
-var mnemonic = "shrug rival breeze noodle tattoo life special fee main inherit series shrug";
+var mnemonic = "novel various jaguar slab salon spell credit equip pull assist fitness mind";

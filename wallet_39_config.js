@@ -1,1 +1,1 @@
-var mnemonic = "bargain glow manual car talent sunny oven slight couple try noble midnight";
+var mnemonic = "spawn armor obtain feed lava position bracket style security bundle poet amateur";

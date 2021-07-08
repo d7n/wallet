@@ -1,1 +1,1 @@
-var mnemonic = "cook blame motor outside leisure misery parent tooth pink shove mind health";
+var mnemonic = "entire sibling mistake sock juice dance wise wine vote entire ketchup exotic";

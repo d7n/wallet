@@ -1,1 +1,1 @@
-var mnemonic = "flat length tongue enhance advance ready material friend trash rally space claw";
+var mnemonic = "sheriff eagle lobster robot alter live whisper aspect garlic egg since dice";

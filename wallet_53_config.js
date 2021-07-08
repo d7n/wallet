@@ -1,1 +1,1 @@
-var mnemonic = "primary boring congress reduce garlic swarm action scrap hurdle subject glow scene";
+var mnemonic = "off volume spawn near hunt script vocal foot domain cancel orange merit";

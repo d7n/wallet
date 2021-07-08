@@ -1,1 +1,1 @@
-var mnemonic = "couple goat worth organ same velvet clog van afford achieve few genius";
+var mnemonic = "arctic sure call metal fetch just butter nerve satisfy laugh kite venture";

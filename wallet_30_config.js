@@ -1,1 +1,1 @@
-var mnemonic = "vote motion melt repeat slogan second setup stage chuckle glow few blur";
+var mnemonic = "fault wrong castle believe this action modify elbow brisk hidden very mixed";

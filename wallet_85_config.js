@@ -1,1 +1,1 @@
-var mnemonic = "sick sketch wall protect focus swarm buddy usage prefer define outer advice";
+var mnemonic = "sentence wisdom pool payment elder gasp custom never either moon protect tip";

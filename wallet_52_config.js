@@ -1,1 +1,1 @@
-var mnemonic = "place panther either wrestle burden fringe ginger cinnamon member poet awake summer";
+var mnemonic = "beach glad enjoy code wisdom lumber nest absorb mind pill deer thing";

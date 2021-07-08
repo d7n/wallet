@@ -1,1 +1,1 @@
-var mnemonic = "extend peasant crumble grace country mechanic immense page army feature mango dance";
+var mnemonic = "false barrel ask vapor accident jar enough industry truly other total trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "fine globe switch mobile before select humor candy naive zoo borrow tuna";
+var mnemonic = "section ketchup rail symptom canoe mammal rapid hope satoshi another salon torch";

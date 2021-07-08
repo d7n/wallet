@@ -1,1 +1,1 @@
-var mnemonic = "eager fatigue profit gun visual curve library journey giggle obvious practice sock";
+var mnemonic = "act coin october chase circle siege deliver want abstract chase skin three";

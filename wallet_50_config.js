@@ -1,1 +1,1 @@
-var mnemonic = "runway wonder idle jacket fabric snap cycle humor capital fault else evolve";
+var mnemonic = "congress elbow belt quarter brand genius search brief victory treat man unique";

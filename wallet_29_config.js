@@ -1,1 +1,1 @@
-var mnemonic = "blood skirt boss library entry vote valley tank script pride mountain diesel";
+var mnemonic = "nation pony spoon face unaware brief auction antenna endless fuel hen usual";

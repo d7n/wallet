@@ -1,1 +1,1 @@
-var mnemonic = "math mask hire wink sad you casino garlic gloom enrich sudden void";
+var mnemonic = "minute august stomach squeeze cry village target elbow recipe unknown scrub ability";

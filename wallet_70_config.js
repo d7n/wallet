@@ -1,1 +1,1 @@
-var mnemonic = "enroll tomorrow aware sponsor project throw subject retire ten evil meat enroll";
+var mnemonic = "vapor gaze ramp gasp faculty design setup tobacco aspect poet liar dance";

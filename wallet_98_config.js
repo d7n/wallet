@@ -1,1 +1,1 @@
-var mnemonic = "tool stem attract silly lady afraid citizen hurt carry upgrade fall century";
+var mnemonic = "busy inherit emotion lock meadow soon priority twice throw carbon display payment";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee agree copper execute hire antenna whale tiny review together spring hunt";
+var mnemonic = "kitten summer flock stem critic solar climb reform obey other number target";

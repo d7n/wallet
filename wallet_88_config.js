@@ -1,1 +1,1 @@
-var mnemonic = "person legal umbrella furnace smile glare comfort sustain habit arrive stuff recycle";
+var mnemonic = "mouse grass frown what decline biology fever turn couple despair record goose";

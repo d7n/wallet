@@ -1,1 +1,1 @@
-var mnemonic = "stumble image zero either large goose meat member enter link route burden";
+var mnemonic = "village mango awful path elegant caught fiction hole grape patient half lion";

@@ -1,1 +1,1 @@
-var mnemonic = "web razor plastic budget normal beef exist blossom oval royal addict virus";
+var mnemonic = "spare able hero genius habit praise pole wood region deposit rigid autumn";

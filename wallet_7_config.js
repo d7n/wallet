@@ -1,1 +1,1 @@
-var mnemonic = "width stumble monitor private lamp dice airport govern grass hospital elite asthma";
+var mnemonic = "lumber thrive that anchor romance certain rotate sunset stadium unusual damage enrich";

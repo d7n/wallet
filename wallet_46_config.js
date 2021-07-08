@@ -1,1 +1,1 @@
-var mnemonic = "marble fatal inner right hurt stand ring stuff never banner nut high";
+var mnemonic = "equip tag ladder army what rude capable canyon kitchen make good metal";

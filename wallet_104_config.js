@@ -1,1 +1,1 @@
-var mnemonic = "garage laptop deposit funny insect error people supply slow joke course inform";
+var mnemonic = "inspire deposit kid fever divide error breeze elegant brisk disagree wage track";

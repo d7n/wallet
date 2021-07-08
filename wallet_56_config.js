@@ -1,1 +1,1 @@
-var mnemonic = "quick glove unfair problem crime index soccer marble together example language stem";
+var mnemonic = "spell diagram hollow hill unit half axis either family bonus state slogan";

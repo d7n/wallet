@@ -1,1 +1,1 @@
-var mnemonic = "silent shrug ankle history arrest normal old alien patient animal wisdom finish";
+var mnemonic = "they purse snap interest paddle old floor fever nature fitness glory rather";

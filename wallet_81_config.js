@@ -1,1 +1,1 @@
-var mnemonic = "donor about uphold little six disagree unable joke biology castle wild patch";
+var mnemonic = "seven floor hub police custom exotic dinner hard copper erode cloth lesson";

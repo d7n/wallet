@@ -1,1 +1,1 @@
-var mnemonic = "episode health banner shuffle mechanic proof road panther erase fever mammal unique";
+var mnemonic = "depend occur pipe reveal nephew maximum below rent pistol ordinary hat toast";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lake daughter shock build occur radar bamboo lion toast prison regular";
+var mnemonic = "diagram scatter faculty grab guide hospital choose start someone song six leisure";

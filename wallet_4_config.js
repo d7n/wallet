@@ -1,1 +1,1 @@
-var mnemonic = "aerobic disease latin window catch time couch wood pride stuff bacon hen";
+var mnemonic = "kiwi wait table elegant biology outer hint open pepper destroy arrest moment";

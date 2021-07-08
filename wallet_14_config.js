@@ -1,1 +1,1 @@
-var mnemonic = "filter screen stable tip guide blue network adjust globe whip angry enter";
+var mnemonic = "push broccoli program arrest laptop zebra wolf defy expand lion proof tissue";

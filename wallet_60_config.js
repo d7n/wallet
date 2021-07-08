@@ -1,1 +1,1 @@
-var mnemonic = "bracket permit ready flip height spin glory trick depend cool exchange seminar";
+var mnemonic = "kid sweet wreck volcano leisure what kiss rookie blouse hungry verify cat";

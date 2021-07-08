@@ -1,1 +1,1 @@
-var mnemonic = "predict ritual zone also now north sibling inject tent rabbit crater achieve";
+var mnemonic = "blame soap trust home enact ivory anxiety electric brass decide choice title";

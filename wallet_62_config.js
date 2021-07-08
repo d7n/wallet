@@ -1,1 +1,1 @@
-var mnemonic = "switch hedgehog often hire sand switch cabbage sail tomorrow dry cost pattern";
+var mnemonic = "renew coral balance brush smart update credit rely lemon boost chapter enable";

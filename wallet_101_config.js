@@ -1,1 +1,1 @@
-var mnemonic = "recall casual critic journey modify twelve mystery inject salute keen keen effort";
+var mnemonic = "proof expire jaguar humble iron jewel maze stomach wink erase orange rib";

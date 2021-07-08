@@ -1,1 +1,1 @@
-var mnemonic = "execute rocket inquiry arena despair perfect spider slush brick mountain lonely impulse";
+var mnemonic = "grab coast carry shed salmon asset roast display metal doctor sugar measure";

@@ -1,1 +1,1 @@
-var mnemonic = "razor current wool tissue rug cup wish another turtle album tape machine";
+var mnemonic = "spirit mystery allow carbon adult exclude space forward someone crane gentle heavy";

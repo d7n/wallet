@@ -1,1 +1,1 @@
-var mnemonic = "inner brave river lazy people word rebel pistol odor pink coyote decide";
+var mnemonic = "mixture provide enlist okay reduce peasant bread trash state hair monster curve";
