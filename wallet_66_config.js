@@ -1,1 +1,1 @@
-var mnemonic = "truth famous target soon egg direct happy clump tide crime lumber unit";
+var mnemonic = "flat vacant unfold refuse rich dynamic lady iron expose rice addict woman";

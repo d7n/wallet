@@ -1,1 +1,1 @@
-var mnemonic = "quarter pool slow aspect mixture foot fatal usual arctic energy pink pulp";
+var mnemonic = "quantum nasty merry around copy hold tent buzz mandate category cargo rough";

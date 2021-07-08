@@ -1,1 +1,1 @@
-var mnemonic = "crucial derive achieve hurdle air bulb feed copper space start also funny";
+var mnemonic = "old run someone betray flame predict hotel rely advice champion cram earn";

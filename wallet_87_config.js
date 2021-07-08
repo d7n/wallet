@@ -1,1 +1,1 @@
-var mnemonic = "review zero oppose night slogan donate honey august trap opera east chest";
+var mnemonic = "club oven slogan shallow hammer swamp swear cream pistol idea key bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "enact maid enroll ability joke nurse birth trick core clarify finish loop";
+var mnemonic = "frame found short emotion shop other dune uphold scissors fringe parent install";

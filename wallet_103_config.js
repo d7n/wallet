@@ -1,1 +1,1 @@
-var mnemonic = "dad sniff garment rifle crumble scale detail kidney evolve define zoo dove";
+var mnemonic = "stock minor super turn tube outside recall term domain tone prefer artefact";

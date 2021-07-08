@@ -1,1 +1,1 @@
-var mnemonic = "margin choice absent absorb inspire loop material often frozen elite body general";
+var mnemonic = "crowd laundry chef remind often blade want lady foam walk isolate truly";

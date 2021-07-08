@@ -1,1 +1,1 @@
-var mnemonic = "section identify firm lawn pill noise van when cherry inner length royal";
+var mnemonic = "lock glide swear stone bean route live half floor ensure okay sure";

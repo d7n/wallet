@@ -1,1 +1,1 @@
-var mnemonic = "poet reunion exhibit spider army vapor woman dress chair fragile goat speak";
+var mnemonic = "whisper judge report coffee adapt congress dress head next original round sauce";

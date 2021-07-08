@@ -1,1 +1,1 @@
-var mnemonic = "bone cushion dance fox gain toe foam matter cause bind meadow visit";
+var mnemonic = "cargo foil narrow tag regret travel exclude hard cover puzzle wool duck";

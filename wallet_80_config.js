@@ -1,1 +1,1 @@
-var mnemonic = "during round pottery early slab account warm bundle give valve vicious ritual";
+var mnemonic = "ecology guitar turkey green lottery romance soldier penalty fiber stamp fame kingdom";

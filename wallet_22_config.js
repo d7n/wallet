@@ -1,1 +1,1 @@
-var mnemonic = "sign all suffer climb roast rice group social monster install before ankle";
+var mnemonic = "design plastic atom bid theme gossip tag album situate soap blade innocent";

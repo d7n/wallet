@@ -1,1 +1,1 @@
-var mnemonic = "lens mansion put luggage pull bronze creek carpet siren exile blue pride";
+var mnemonic = "street pluck hour pyramid stool whisper cash mean else liquid smart top";

@@ -1,1 +1,1 @@
-var mnemonic = "mind twin jealous ignore hedgehog exact genius penalty slab toy comfort drop";
+var mnemonic = "like umbrella enjoy absurd fog detail dentist sign giant blood two trip";

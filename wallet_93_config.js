@@ -1,1 +1,1 @@
-var mnemonic = "vast giraffe comfort stamp angry early entry oven donor absurd option food";
+var mnemonic = "point convince frozen claw remind harsh wrong guitar shed document sustain domain";

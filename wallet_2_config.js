@@ -1,1 +1,1 @@
-var mnemonic = "else quantum scorpion wall bench club blast injury meadow tourist chef best";
+var mnemonic = "aisle kangaroo blouse spawn close fall emerge reveal type invite trumpet north";

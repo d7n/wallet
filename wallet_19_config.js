@@ -1,1 +1,1 @@
-var mnemonic = "brisk excess venture globe real glide myself saddle check hour wink indoor";
+var mnemonic = "chalk media sniff light lion surprise rice panther wheel tell teach run";

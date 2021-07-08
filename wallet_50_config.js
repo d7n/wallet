@@ -1,1 +1,1 @@
-var mnemonic = "below still cable element machine easily deal wrap flush donate awesome roof";
+var mnemonic = "vintage tilt uniform forum argue cactus stadium ankle bar pigeon odor honey";

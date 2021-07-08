@@ -1,1 +1,1 @@
-var mnemonic = "valid vicious pen celery inquiry away case rebuild belt veteran device render";
+var mnemonic = "manual keen grid bubble case cage process crazy present topple cook crisp";

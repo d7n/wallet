@@ -1,1 +1,1 @@
-var mnemonic = "copy nurse music agree regret cement exist rich fiscal blur toss junk";
+var mnemonic = "that excess isolate reopen figure december leader expose tree surface cool animal";

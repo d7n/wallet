@@ -1,1 +1,1 @@
-var mnemonic = "muffin tired light clown setup destroy antique enact grain boring order velvet";
+var mnemonic = "flower basic dream scene burden grief lake menu trip wear tonight arctic";

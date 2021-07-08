@@ -1,1 +1,1 @@
-var mnemonic = "ivory deliver scatter age health borrow rate tourist exhibit that elephant tomorrow";
+var mnemonic = "olive always business travel envelope slot choose glimpse chimney spin round staff";

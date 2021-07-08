@@ -1,1 +1,1 @@
-var mnemonic = "peasant drama wait potato immune repeat retreat fun punch vanish task globe";
+var mnemonic = "often window hub forget various ranch mandate canoe march skill enemy observe";

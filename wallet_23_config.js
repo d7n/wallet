@@ -1,1 +1,1 @@
-var mnemonic = "badge note nose wall road change toss pear crucial electric toy adapt";
+var mnemonic = "jazz myself once render slot ticket cinnamon poem airport later enhance mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff suffer win cheap problem fringe journey hour item squeeze misery sugar";
+var mnemonic = "engine ring announce boost sheriff depend job behave bag share enemy heavy";

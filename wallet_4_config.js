@@ -1,1 +1,1 @@
-var mnemonic = "smoke giraffe plastic sick earth eye duck hero taxi motor ten image";
+var mnemonic = "satoshi stage rescue input absent canal until crush swear garage program organ";

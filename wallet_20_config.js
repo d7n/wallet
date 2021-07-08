@@ -1,1 +1,1 @@
-var mnemonic = "kid obvious disease twenty start noise suggest raise craft prison flip marble";
+var mnemonic = "silent wash adjust lawsuit chalk muscle good outdoor story protect visual drive";

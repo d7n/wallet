@@ -1,1 +1,1 @@
-var mnemonic = "fix hold unfair error adapt trumpet bring trick explain height install giant";
+var mnemonic = "seed office old verb diamond bone link audit question pudding erupt electric";

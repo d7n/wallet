@@ -1,1 +1,1 @@
-var mnemonic = "owner legend old try pilot devote leopard various calm drink mad today";
+var mnemonic = "knock holiday birth also noodle regret control extra scatter cover wrong faculty";

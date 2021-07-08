@@ -1,1 +1,1 @@
-var mnemonic = "faculty suspect waste source loan gap code pride shift pair tone because";
+var mnemonic = "grace drill section rally side roof profit once language sauce virus foil";

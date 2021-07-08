@@ -1,1 +1,1 @@
-var mnemonic = "burden online conduct earn hammer broom focus embody thank tornado act lyrics";
+var mnemonic = "sign globe virtual calm balcony bus genre obtain subject auction gentle hurry";

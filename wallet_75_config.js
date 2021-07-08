@@ -1,1 +1,1 @@
-var mnemonic = "mom breeze foot utility inform maze chapter initial excite long agent excite";
+var mnemonic = "shoulder shaft venture satoshi state kiss extend dinner doll shallow novel among";

@@ -1,1 +1,1 @@
-var mnemonic = "coil resource pattern text strike twin bronze stamp spend almost text news";
+var mnemonic = "wait hybrid people average wage author cotton goat extra alley soon destroy";

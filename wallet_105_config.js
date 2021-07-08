@@ -1,1 +1,1 @@
-var mnemonic = "finish tattoo potato dragon hint design desert cancel danger wire disagree salt";
+var mnemonic = "disease expand human cable mesh supply blur glove clinic note world then";

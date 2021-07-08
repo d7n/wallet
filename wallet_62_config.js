@@ -1,1 +1,1 @@
-var mnemonic = "industry master when actress unit tunnel into ski vessel diamond bottom lunar";
+var mnemonic = "movie express creek camp page kitchen crush kiss catch squirrel lamp slot";

@@ -1,1 +1,1 @@
-var mnemonic = "virus birth evil address staff deposit brief unlock breeze bring craft sand";
+var mnemonic = "now absurd desk excuse gain direct aerobic cloud fashion honey network plug";

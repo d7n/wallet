@@ -1,1 +1,1 @@
-var mnemonic = "farm blind street fee stock grass flock purity assault okay jelly bone";
+var mnemonic = "bike guard arrow deliver fly steel elder equal height mango pyramid dice";

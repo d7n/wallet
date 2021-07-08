@@ -1,1 +1,1 @@
-var mnemonic = "valley only artist enemy curve embody ceiling prison ritual reveal bacon light";
+var mnemonic = "rubber pole apology blossom review bring throw rapid recall pass visual shaft";

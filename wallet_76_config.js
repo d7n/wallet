@@ -1,1 +1,1 @@
-var mnemonic = "zero verb firm party social arrange pass choose lawn modify novel hard";
+var mnemonic = "embody shift month gallery antique crouch scheme hunt tool little wolf nation";

@@ -1,1 +1,1 @@
-var mnemonic = "switch spot travel train south worth shallow bid family sibling core airport";
+var mnemonic = "unfair soda soccer detail cart lab exercise prefer night escape power type";

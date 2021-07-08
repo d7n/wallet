@@ -1,1 +1,1 @@
-var mnemonic = "space furnace climb favorite marine olympic husband stick ceiling urge deny afraid";
+var mnemonic = "find maze bread avocado drama guilt swamp immense tumble biology build puzzle";

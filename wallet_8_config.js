@@ -1,1 +1,1 @@
-var mnemonic = "rapid autumn ripple among brand goddess pulse autumn involve vocal idle hedgehog";
+var mnemonic = "luggage shallow student toward crack calm hard rose leisure wall spirit close";

@@ -1,1 +1,1 @@
-var mnemonic = "approve gather bulb load reduce fox bubble year chunk jewel winter antenna";
+var mnemonic = "noise ocean art super wet rifle domain echo genius update must appear";

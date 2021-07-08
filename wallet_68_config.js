@@ -1,1 +1,1 @@
-var mnemonic = "meat siege pizza artist range film giraffe envelope glue spatial uphold card";
+var mnemonic = "mobile run gallery novel hundred question unable zone coffee office skill question";

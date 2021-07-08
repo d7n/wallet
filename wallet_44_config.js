@@ -1,1 +1,1 @@
-var mnemonic = "series pizza salad ill glove stumble assault prosper frog toward strike hurry";
+var mnemonic = "enrich often lonely hard actress enjoy spend visa recycle violin estate stem";

@@ -1,1 +1,1 @@
-var mnemonic = "slide pattern swamp master have useful analyst mesh hope margin disagree potato";
+var mnemonic = "strike work answer view scrub crisp slender theory merry opera ready file";

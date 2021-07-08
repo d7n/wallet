@@ -1,1 +1,1 @@
-var mnemonic = "vague require brisk tree visit midnight bar drift hair vicious render already";
+var mnemonic = "tilt slot warrior desk raw member cycle tray same churn someone pig";

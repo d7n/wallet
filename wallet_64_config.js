@@ -1,1 +1,1 @@
-var mnemonic = "that cement transfer before universe funny define head ill veteran glimpse fringe";
+var mnemonic = "unlock limb puzzle rough cave vocal almost burden rail dwarf business state";

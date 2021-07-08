@@ -1,1 +1,1 @@
-var mnemonic = "strike secret fresh unfair wide property come double curtain puppy alone pear";
+var mnemonic = "virus right pear photo juice push consider damage depend unlock palm worry";

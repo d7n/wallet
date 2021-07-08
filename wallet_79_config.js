@@ -1,1 +1,1 @@
-var mnemonic = "palm maximum high warm topple profit edit engage fruit cable dream ranch";
+var mnemonic = "predict envelope fever lock hamster yard cook prison price chimney print ice";

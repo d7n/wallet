@@ -1,1 +1,1 @@
-var mnemonic = "hard cherry permit cushion give left meat random cross license merit foot";
+var mnemonic = "ugly idea foil fetch vicious slight segment scorpion blossom practice develop rotate";

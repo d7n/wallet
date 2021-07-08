@@ -1,1 +1,1 @@
-var mnemonic = "remind evoke onion stool guard oxygen siren onion obey true boy tribe";
+var mnemonic = "high palace nation sure clown fold film cause dolphin knife tiny furnace";

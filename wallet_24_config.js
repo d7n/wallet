@@ -1,1 +1,1 @@
-var mnemonic = "flower crystal swamp slide license sure sustain broom audit better endless soap";
+var mnemonic = "problem weekend dumb cream ginger dignity ring stamp sorry until enroll spread";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn language kiss humor repeat mix skate blur pink tower exist grab";
+var mnemonic = "swift cloud vessel tuna cricket output pipe witness feed laptop dice genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "usage enjoy auction swallow excess remember garlic stock vault shaft place honey";
+var mnemonic = "jewel entry sure limit hockey era kingdom since govern anxiety cave matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit hamster solution clog sport gadget hole limb tragic hope filter awful";
+var mnemonic = "train woman use gather clinic aisle trophy gas budget crumble client slide";

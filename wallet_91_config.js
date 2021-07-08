@@ -1,1 +1,1 @@
-var mnemonic = "neither come family equip ecology album satoshi fashion network thunder coffee name";
+var mnemonic = "apart cube legal magnet keep turkey famous catalog guess slam grant total";

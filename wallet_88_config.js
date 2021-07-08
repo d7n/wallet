@@ -1,1 +1,1 @@
-var mnemonic = "fortune lobster filter able gospel sell cricket winter room sunny moral puppy";
+var mnemonic = "plunge good fresh sleep fault consider deal early diagram toast protect token";

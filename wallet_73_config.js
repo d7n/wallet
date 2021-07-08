@@ -1,1 +1,1 @@
-var mnemonic = "unfold ritual slight icon worry brand artwork express surround scheme equal swing";
+var mnemonic = "learn chaos dad canvas merge uphold better extend drip model sunny ecology";

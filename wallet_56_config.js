@@ -1,1 +1,1 @@
-var mnemonic = "drum bonus butter hood kick seek bicycle joke submit earth drastic action";
+var mnemonic = "song cheese close category expect stairs kid road memory nest dilemma refuse";

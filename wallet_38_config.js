@@ -1,1 +1,1 @@
-var mnemonic = "music dutch car civil inquiry expose govern breeze reform exchange spin dizzy";
+var mnemonic = "promote panther orange oak figure fox term reason light crumble faculty crew";

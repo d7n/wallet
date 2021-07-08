@@ -1,1 +1,1 @@
-var mnemonic = "obscure blade thought discover fantasy cover wine second portion hurry swarm world";
+var mnemonic = "team fancy year baby lecture ceiling napkin much pizza game garlic grow";

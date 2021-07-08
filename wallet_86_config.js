@@ -1,1 +1,1 @@
-var mnemonic = "gown sorry hair benefit school sword talk often ecology fine need trip";
+var mnemonic = "also prison mouse wheat way double merit saddle broccoli whale viable chronic";

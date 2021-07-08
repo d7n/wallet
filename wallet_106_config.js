@@ -1,1 +1,1 @@
-var mnemonic = "muffin miss fit early dragon assist sand swamp install shaft tank click";
+var mnemonic = "genre abuse scout enroll spice hand vintage track flat glue canvas hollow";

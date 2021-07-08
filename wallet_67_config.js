@@ -1,1 +1,1 @@
-var mnemonic = "mom claim bring monitor fiber caught enter upgrade narrow mechanic soup office";
+var mnemonic = "tide basic build foil employ choice echo they twelve worth custom foster";

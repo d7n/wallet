@@ -1,1 +1,1 @@
-var mnemonic = "peanut ancient orchard sight mixture chat slush dove panther survey laptop forum";
+var mnemonic = "reunion organ art wrist ozone test aware expect foot mad update ask";

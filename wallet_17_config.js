@@ -1,1 +1,1 @@
-var mnemonic = "light cereal awake initial sunny afraid melt loop inflict cover net paddle";
+var mnemonic = "fog old snap cushion grit concert fire inside orange crystal prevent soldier";

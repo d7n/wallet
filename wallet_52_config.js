@@ -1,1 +1,1 @@
-var mnemonic = "grace inject castle grief mouse early edit expose soon resist shell recipe";
+var mnemonic = "monitor author truly evidence guard already method side security barrel video desert";

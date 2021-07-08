@@ -1,1 +1,1 @@
-var mnemonic = "cereal acquire crunch pole bag hospital above attack ugly garlic valley swim";
+var mnemonic = "rescue obvious wheat scrap member ribbon execute yellow pulp hotel mail fossil";

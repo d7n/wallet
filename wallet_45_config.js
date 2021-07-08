@@ -1,1 +1,1 @@
-var mnemonic = "blade detect off cry please job hybrid bubble obtain liberty symbol scene";
+var mnemonic = "salad very fruit salt awesome nut absent citizen shield piece laundry way";

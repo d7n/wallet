@@ -1,1 +1,1 @@
-var mnemonic = "select drum memory jungle warrior brand matrix genuine notice march mushroom obvious";
+var mnemonic = "bring fame drill strong erase disorder curve armed van opinion network girl";

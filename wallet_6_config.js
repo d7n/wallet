@@ -1,1 +1,1 @@
-var mnemonic = "club peanut ignore garden syrup pigeon turn there broken talent mule age";
+var mnemonic = "task rural dice basic fiber cost pizza all mammal mobile wash usual";

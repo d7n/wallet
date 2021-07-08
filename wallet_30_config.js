@@ -1,1 +1,1 @@
-var mnemonic = "sniff letter deny window depend pet empty tired deal vicious obvious combine";
+var mnemonic = "again hunt junior discover cattle agent anxiety teach cattle pizza hero another";

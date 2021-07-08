@@ -1,1 +1,1 @@
-var mnemonic = "tackle flush someone slice title candy gym orchard live innocent version moment";
+var mnemonic = "garbage gaze usage cluster foot edit hat carbon wrist dentist mail cube";

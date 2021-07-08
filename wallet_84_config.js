@@ -1,1 +1,1 @@
-var mnemonic = "zebra inject crane monitor observe foot gun amazing entry length genre wheat";
+var mnemonic = "nerve dial scare category unhappy alone note prevent pool bean clip more";

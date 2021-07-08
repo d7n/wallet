@@ -1,1 +1,1 @@
-var mnemonic = "cereal series sugar hundred genius play cream lyrics warm planet enter bitter";
+var mnemonic = "pupil trash notice dream sniff habit scorpion student patient swarm plunge cactus";

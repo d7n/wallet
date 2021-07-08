@@ -1,1 +1,1 @@
-var mnemonic = "name gorilla point gown top scare system toy bar cloth dice delay";
+var mnemonic = "catalog before member balcony neglect caution elbow silk injury wagon sugar budget";

@@ -1,1 +1,1 @@
-var mnemonic = "step gallery arrest print wheat flag cover another fish guilt trophy small";
+var mnemonic = "rabbit tide dirt juice this toddler try noble tuition meadow ozone accuse";

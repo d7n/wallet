@@ -1,1 +1,1 @@
-var mnemonic = "pretty float doctor fossil zoo little twelve enlist frozen gorilla worry earn";
+var mnemonic = "artwork say dignity catalog wedding digital define feature order unveil water topple";

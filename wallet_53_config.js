@@ -1,1 +1,1 @@
-var mnemonic = "deposit grocery bitter adult lock similar hole wood excuse demise siege play";
+var mnemonic = "enroll wheat satoshi resemble excess aspect doctor stage wisdom bubble hospital chuckle";

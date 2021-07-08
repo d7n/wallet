@@ -1,1 +1,1 @@
-var mnemonic = "breeze float coil today awful law diary settle champion grow lecture jump";
+var mnemonic = "add love weekend loyal agree twenty utility wave husband left lounge script";

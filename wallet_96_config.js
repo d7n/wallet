@@ -1,1 +1,1 @@
-var mnemonic = "audit negative asthma raise easy sail define patrol style snake copy theory";
+var mnemonic = "rival fall anxiety stumble poverty captain snap find party stand pole damp";

@@ -1,1 +1,1 @@
-var mnemonic = "humble label scale digital gauge sad color dice polar capable six actress";
+var mnemonic = "trust grab stable credit genius garden voice near hat aisle foot chuckle";

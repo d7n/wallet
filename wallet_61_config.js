@@ -1,1 +1,1 @@
-var mnemonic = "fringe wink keep gate struggle zone afford island orbit photo reopen lesson";
+var mnemonic = "rose oil nerve invest cliff measure scale police loud target velvet ugly";

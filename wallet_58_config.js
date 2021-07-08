@@ -1,1 +1,1 @@
-var mnemonic = "boil churn pluck decorate inquiry toddler steel demise picnic animal edge huge";
+var mnemonic = "ordinary gym crew erupt drama waste engage galaxy ensure mother moon diary";

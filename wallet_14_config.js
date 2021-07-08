@@ -1,1 +1,1 @@
-var mnemonic = "word evidence notice famous tackle sail slight welcome garbage hood plate autumn";
+var mnemonic = "hat tornado easy float anxiety opinion minimum same laptop stove artwork sphere";

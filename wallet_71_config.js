@@ -1,1 +1,1 @@
-var mnemonic = "enhance helmet increase salad machine relief also soldier radar safe ring food";
+var mnemonic = "stable mad paddle together rescue drop miracle lab cross return dice salute";

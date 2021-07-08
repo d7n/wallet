@@ -1,1 +1,1 @@
-var mnemonic = "december side fiscal excite switch fat final romance local grocery wisdom sketch";
+var mnemonic = "equip ship demand mixture catch mystery noble echo disorder father salt anger";
