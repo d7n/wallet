@@ -1,1 +1,1 @@
-var mnemonic = "awake return climb rack utility actor victory wonder gloom panda cancel airport";
+var mnemonic = "witness film pottery real shell roof suggest much empower fence entire borrow";

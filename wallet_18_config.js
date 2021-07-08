@@ -1,1 +1,1 @@
-var mnemonic = "glad van limb hello emerge person initial equip tonight tooth soap equip";
+var mnemonic = "tail dose struggle labor voice december clog disagree tilt exhaust carpet omit";

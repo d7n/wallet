@@ -1,1 +1,1 @@
-var mnemonic = "clinic island age brisk giraffe vicious hidden enforce you stadium manage faculty";
+var mnemonic = "total news water shoot group invite recipe fork super yellow scene maze";

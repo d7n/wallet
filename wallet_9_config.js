@@ -1,1 +1,1 @@
-var mnemonic = "swarm zone enter alpha coyote clarify pigeon world heart thrive never roast";
+var mnemonic = "sugar jump knife sponsor bike notice wisdom walk question item harsh van";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange top false wife dance coral cube obscure outdoor mad trash aisle";
+var mnemonic = "mistake payment avocado funny shuffle script detail shiver hard excess narrow oak";

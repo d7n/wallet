@@ -1,1 +1,1 @@
-var mnemonic = "olympic lazy shrimp nest grass fatal tube burden anger trip shop achieve";
+var mnemonic = "lake warm mosquito stool gesture hard awful dinner eternal rich pelican into";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli loyal soap sad arctic isolate innocent super scale flush under bundle";
+var mnemonic = "street hat garage false submit call text lonely silly witness wool plunge";

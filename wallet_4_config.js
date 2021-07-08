@@ -1,1 +1,1 @@
-var mnemonic = "extra gun secret crane arrange poet proud law actual vapor ivory festival";
+var mnemonic = "property half gesture undo better lobster mention today scale pluck observe only";

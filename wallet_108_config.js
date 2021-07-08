@@ -1,1 +1,1 @@
-var mnemonic = "before example forest shove effort eye unhappy decide window tree acquire emotion";
+var mnemonic = "trip battle humor section visa comic drink gospel amateur will flee boost";

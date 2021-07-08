@@ -1,1 +1,1 @@
-var mnemonic = "genre alert rude vehicle sentence live power pigeon goat trial twin fox";
+var mnemonic = "bulb churn sock sugar celery aerobic conduct summer mule resist style legal";

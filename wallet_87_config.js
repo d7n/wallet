@@ -1,1 +1,1 @@
-var mnemonic = "original supply sudden toddler exist canoe stick slogan remember hundred security forum";
+var mnemonic = "pact soul viable vibrant harvest coast frame pattern quick food indoor when";

@@ -1,1 +1,1 @@
-var mnemonic = "piece wink analyst slot develop index paddle fashion brain because near forward";
+var mnemonic = "drink cover wonder process pulse glimpse lens harsh angle height long thought";

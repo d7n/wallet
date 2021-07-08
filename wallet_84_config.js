@@ -1,1 +1,1 @@
-var mnemonic = "pole wolf hybrid stairs valley police woman spoil cause clog miss output";
+var mnemonic = "much senior either horror powder broccoli innocent tissue digital stock cause fix";

@@ -1,1 +1,1 @@
-var mnemonic = "safe salmon pink tent between coconut disagree exhaust office bid purity stand";
+var mnemonic = "caught erode matrix differ lamp rural because rack resource leopard fantasy arch";

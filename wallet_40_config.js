@@ -1,1 +1,1 @@
-var mnemonic = "ocean setup slim fish spoon guide grape know exact tower clown carpet";
+var mnemonic = "angle mention picture penalty fine novel innocent flash cloud stable approve vocal";

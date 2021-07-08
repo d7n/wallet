@@ -1,1 +1,1 @@
-var mnemonic = "exist catalog hurt letter east always tone label tree later plug goose";
+var mnemonic = "list sauce long worth stove drive one suggest cup duty shove junior";

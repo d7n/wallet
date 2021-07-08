@@ -1,1 +1,1 @@
-var mnemonic = "put service welcome lock arrest magic repair rice tourist small bind derive";
+var mnemonic = "mix snake leisure boy betray depth alarm leg boat door ostrich ahead";

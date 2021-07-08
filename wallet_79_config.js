@@ -1,1 +1,1 @@
-var mnemonic = "hawk service lend gym monkey gossip cruel bulb chimney sadness nut poverty";
+var mnemonic = "basic debate seminar garment seminar evil identify rose accuse divorce okay dash";

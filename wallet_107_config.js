@@ -1,1 +1,1 @@
-var mnemonic = "gate tenant buffalo crush velvet under sustain achieve industry donkey noise engine";
+var mnemonic = "company tent undo amazing glory hollow prize skin civil usual attack moment";

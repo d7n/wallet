@@ -1,1 +1,1 @@
-var mnemonic = "custom magnet acid jar bracket split neck frost hood magic found step";
+var mnemonic = "crystal stool fade pet they true test flock layer nerve bless tape";

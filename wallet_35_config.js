@@ -1,1 +1,1 @@
-var mnemonic = "police pyramid flash steak duty asset brass material shed garage choose vehicle";
+var mnemonic = "include expose olive error zebra term inmate vote cruel still cream arch";

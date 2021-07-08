@@ -1,1 +1,1 @@
-var mnemonic = "simple liberty bubble surround cool pig permit oblige portion lend away wish";
+var mnemonic = "ignore enjoy dumb brisk estate crew loyal object bulb crew march sight";

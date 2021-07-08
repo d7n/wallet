@@ -1,1 +1,1 @@
-var mnemonic = "bitter squirrel lawn case promote route cry rose favorite swift merry dynamic";
+var mnemonic = "broken pipe renew emerge fun gossip never fringe resource horse thing gaze";

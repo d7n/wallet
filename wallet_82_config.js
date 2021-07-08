@@ -1,1 +1,1 @@
-var mnemonic = "sugar embody fine spatial perfect glide trophy earn mistake once harvest amateur";
+var mnemonic = "caught track denial toward saddle wrap food knock sun major hard symbol";

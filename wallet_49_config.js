@@ -1,1 +1,1 @@
-var mnemonic = "shoot deny control burden sea odor assume jaguar glad remind nephew useful";
+var mnemonic = "proud media quarter switch grit surge seat drift sting snake guide memory";

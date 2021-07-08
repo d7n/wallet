@@ -1,1 +1,1 @@
-var mnemonic = "squeeze nerve art flat boost bid remain strategy trim right day better";
+var mnemonic = "inquiry phone sweet tape dish near erode trigger total report limit scout";

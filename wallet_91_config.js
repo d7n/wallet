@@ -1,1 +1,1 @@
-var mnemonic = "use sell explain vote art foster tackle aunt devote plate under life";
+var mnemonic = "artwork economy neck actor grunt royal moment fetch voice exhibit labor immune";

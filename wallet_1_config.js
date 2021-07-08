@@ -1,1 +1,1 @@
-var mnemonic = "edge gym castle hat steel better scheme symbol whisper usual fashion chaos";
+var mnemonic = "blur enable approve depart behave chunk exit faculty hour film lake old";

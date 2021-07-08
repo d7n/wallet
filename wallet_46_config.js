@@ -1,1 +1,1 @@
-var mnemonic = "network shock mobile flash adult erupt exit pattern fatal pudding myth pipe";
+var mnemonic = "pen ramp island inner vacant hamster morning erase hedgehog guide wall world";

@@ -1,1 +1,1 @@
-var mnemonic = "gown level attitude fork raven seven talk purpose lemon feed flavor wine";
+var mnemonic = "noble power warfare light gentle goddess human mimic present pig drink ready";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover stadium adult trip flower toddler dignity voice advice actor provide glue";
+var mnemonic = "weasel panel text loan seat jeans burst together damp blanket toilet pair";

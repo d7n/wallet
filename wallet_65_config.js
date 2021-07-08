@@ -1,1 +1,1 @@
-var mnemonic = "soap surface vivid rack shop left length surprise mix joke now enough";
+var mnemonic = "hidden kingdom physical world tower blast nasty card unique economy mouse flat";

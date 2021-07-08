@@ -1,1 +1,1 @@
-var mnemonic = "gold gauge soldier badge great auto below shock tone check celery camera";
+var mnemonic = "caution tired scale day accuse adapt north fine know glow squirrel gate";

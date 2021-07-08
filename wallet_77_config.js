@@ -1,1 +1,1 @@
-var mnemonic = "capital exclude oppose program practice chicken brown wave cave orphan spirit same";
+var mnemonic = "snake diet ecology dog toast deny anchor puppy simple wheel knock safe";

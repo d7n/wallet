@@ -1,1 +1,1 @@
-var mnemonic = "leg curious vocal near express rail mimic family accident notable figure blush";
+var mnemonic = "slogan viable slot author arctic junk actor bridge beach primary expand glue";

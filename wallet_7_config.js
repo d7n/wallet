@@ -1,1 +1,1 @@
-var mnemonic = "rug chat cricket image yellow man now digital combine still night brave";
+var mnemonic = "method model crush cash exhaust boat cactus today recipe infant despair desert";

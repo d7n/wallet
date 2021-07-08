@@ -1,1 +1,1 @@
-var mnemonic = "step elegant life mention zoo gather shoulder credit miss drift across silent";
+var mnemonic = "duty limit merry aware practice where ring motor crew pretty erode lock";

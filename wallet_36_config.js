@@ -1,1 +1,1 @@
-var mnemonic = "note board visit chief ethics check anger now say spend slam library";
+var mnemonic = "addict tag fiction wage control reject fish lecture discover pole connect lake";

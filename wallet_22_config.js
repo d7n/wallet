@@ -1,1 +1,1 @@
-var mnemonic = "wire wheat design expose unfold hold pink wide humble antique tree trap";
+var mnemonic = "industry enable rule ready bamboo crowd lab grunt what useless average scrap";

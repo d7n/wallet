@@ -1,1 +1,1 @@
-var mnemonic = "lady position bamboo collect track rapid endless there garden next audit kind";
+var mnemonic = "much kite volcano law about festival path hammer focus grace offer tip";

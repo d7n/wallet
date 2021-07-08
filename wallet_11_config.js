@@ -1,1 +1,1 @@
-var mnemonic = "history sea timber celery genius hazard nice unhappy empower hip addict labor";
+var mnemonic = "position tiny relax industry shock biology sample drop crisp wood magnet distance";

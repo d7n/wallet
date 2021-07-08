@@ -1,1 +1,1 @@
-var mnemonic = "return road add way health magic reopen project march trust mansion october";
+var mnemonic = "style decrease lazy speak negative police rebel recall hundred fragile water often";

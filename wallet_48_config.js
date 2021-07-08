@@ -1,1 +1,1 @@
-var mnemonic = "barrel violin alert have head rich aisle crime absent depend december hospital";
+var mnemonic = "small cave input supply fork rib shift average dose hair lava never";

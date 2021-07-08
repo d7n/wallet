@@ -1,1 +1,1 @@
-var mnemonic = "stumble police half broken vanish great confirm atom tape elevator turn fat";
+var mnemonic = "tornado leg false trick child twist dignity spray shoe kingdom allow decrease";

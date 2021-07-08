@@ -1,1 +1,1 @@
-var mnemonic = "review view blanket card palm weasel car top social fame motion canoe";
+var mnemonic = "ahead offer neglect smart pact ribbon dial blossom midnight attack mansion garden";

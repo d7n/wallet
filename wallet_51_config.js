@@ -1,1 +1,1 @@
-var mnemonic = "air supply more embark math note open diamond diamond album speak focus";
+var mnemonic = "test bleak around riot miracle net offer wise blur chase auto dawn";

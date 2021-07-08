@@ -1,1 +1,1 @@
-var mnemonic = "come carpet dentist banner post lion glove trust mystery dumb gentle gym";
+var mnemonic = "effort flag mandate blast bone once couch actress rabbit magnet brother wasp";

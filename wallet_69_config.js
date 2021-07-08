@@ -1,1 +1,1 @@
-var mnemonic = "insane social solve rocket lecture crystal crack rack jump armor axis couch";
+var mnemonic = "potato frozen powder emerge close relax vessel toward flee resource plate chalk";

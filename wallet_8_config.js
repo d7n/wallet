@@ -1,1 +1,1 @@
-var mnemonic = "burden three famous start tomato crash couple winter duck remain fame grant";
+var mnemonic = "farm alert lift inquiry pause travel soap hungry broccoli honey latin powder";

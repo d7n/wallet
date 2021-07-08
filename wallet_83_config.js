@@ -1,1 +1,1 @@
-var mnemonic = "follow dad chunk uphold merit lemon force final taxi rifle basket access";
+var mnemonic = "then celery multiply very tube ecology observe illness snack ask afford all";

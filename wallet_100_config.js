@@ -1,1 +1,1 @@
-var mnemonic = "faint void worry belt ankle grocery duck setup half nation puzzle observe";
+var mnemonic = "elegant donor hurdle bean enroll twist mandate polar electric alone round roast";

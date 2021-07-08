@@ -1,1 +1,1 @@
-var mnemonic = "child feel board bamboo harsh brass dress pepper jar diagram tennis anger";
+var mnemonic = "deal aisle conduct hint stove want end regret income metal congress limb";

@@ -1,1 +1,1 @@
-var mnemonic = "chase tuna cool miss bus else burger hybrid pill body own hand";
+var mnemonic = "turtle liar welcome velvet shield neck goat fluid story salute model document";

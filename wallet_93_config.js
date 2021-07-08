@@ -1,1 +1,1 @@
-var mnemonic = "fortune tower swap copper rent sustain tail rebel beach plunge seat multiply";
+var mnemonic = "ecology jazz glue tank episode often blame ketchup tumble panther under pioneer";

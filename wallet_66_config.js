@@ -1,1 +1,1 @@
-var mnemonic = "emotion velvet airport expire security learn burst pigeon lecture deal right pretty";
+var mnemonic = "mechanic word false coral swarm modify amused uncle napkin effort volume define";

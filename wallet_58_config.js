@@ -1,1 +1,1 @@
-var mnemonic = "rib pottery tornado stumble grit vapor island welcome resist dish west ship";
+var mnemonic = "horse blur possible also sniff curve toilet decorate seat mechanic chef render";

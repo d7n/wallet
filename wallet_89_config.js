@@ -1,1 +1,1 @@
-var mnemonic = "erosion piano shrimp glow unhappy member banana notice blast type journey short";
+var mnemonic = "return favorite brave glare atom begin light capital fog apart expose skill";

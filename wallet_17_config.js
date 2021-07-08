@@ -1,1 +1,1 @@
-var mnemonic = "laundry swift boring august health leave private birth swamp dance uniform spring";
+var mnemonic = "permit flush entry unveil orient save pig worth spot patch universe garlic";

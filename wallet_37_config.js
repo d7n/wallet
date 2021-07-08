@@ -1,1 +1,1 @@
-var mnemonic = "minute jacket dutch apart green unaware cool punch silk certain simple business";
+var mnemonic = "trim mercy result dinner pony burden route victory grid august smooth apart";

@@ -1,1 +1,1 @@
-var mnemonic = "carry churn finish still crane world stem century write drama habit cradle";
+var mnemonic = "speed valid ten insane extra rib under nasty ahead violin wet donate";

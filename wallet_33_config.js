@@ -1,1 +1,1 @@
-var mnemonic = "equal lady dinosaur loyal oppose raven age blur reopen onion crucial denial";
+var mnemonic = "fame trim wait exchange dinner opera install inspire electric orphan minor chief";

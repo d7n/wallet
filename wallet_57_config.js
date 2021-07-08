@@ -1,1 +1,1 @@
-var mnemonic = "day wear walk crush fence loyal live cart oven fiction reject bounce";
+var mnemonic = "lake sustain butter sausage brave slogan duck pudding gauge noble deal small";

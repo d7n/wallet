@@ -1,1 +1,1 @@
-var mnemonic = "tower sound rural rival walk then gloom gospel script buddy brother evil";
+var mnemonic = "huge neither blind pony ivory hover whip annual easily disagree gossip gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "pact melt tomorrow green post like tuition either monkey gloom hawk pulp";
+var mnemonic = "yellow merit village number bamboo employ choose tank ostrich choose excess garden";

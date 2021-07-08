@@ -1,1 +1,1 @@
-var mnemonic = "cabin regret dirt sample language market culture robot asthma host corn human";
+var mnemonic = "busy wet glove punch once sad december boy bid flock boat join";

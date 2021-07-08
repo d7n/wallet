@@ -1,1 +1,1 @@
-var mnemonic = "enrich rural common bulk success praise zebra lecture unique actor brush toe";
+var mnemonic = "topple holiday spike day will bridge master sentence slice sun little forum";

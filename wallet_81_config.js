@@ -1,1 +1,1 @@
-var mnemonic = "peanut chest census eager reform inmate pen change tissue taste vicious arrange";
+var mnemonic = "merry wink express screen genius song orbit alone rabbit enter nothing brand";

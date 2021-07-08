@@ -1,1 +1,1 @@
-var mnemonic = "news install spray mention aunt culture achieve obey science abstract arrange industry";
+var mnemonic = "flat rubber soul drill expire holiday emotion ordinary roof august involve master";

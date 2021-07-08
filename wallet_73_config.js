@@ -1,1 +1,1 @@
-var mnemonic = "agent tobacco tenant chunk oval cream ripple media distance comfort nephew hidden";
+var mnemonic = "flock good nice exact grace actual chat jewel super echo shift flag";

@@ -1,1 +1,1 @@
-var mnemonic = "notable same grow suit feature pink jungle divorce ride delay raw copy";
+var mnemonic = "mountain voyage segment zero kingdom fantasy apple twin loop media rib various";

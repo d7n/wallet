@@ -1,1 +1,1 @@
-var mnemonic = "remember motion own flash margin upper scheme wasp catch wheat unknown royal";
+var mnemonic = "name people congress charge earn bounce relax impose design page any marine";

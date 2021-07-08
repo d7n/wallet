@@ -1,1 +1,1 @@
-var mnemonic = "atom custom coin crunch business remind screen vapor trash copper random sad";
+var mnemonic = "timber silver derive path beef hamster amount away visa omit oblige cave";

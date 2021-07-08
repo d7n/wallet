@@ -1,1 +1,1 @@
-var mnemonic = "lend sort olympic debris island crime chalk wheel boy crack plate slide";
+var mnemonic = "sugar ostrich universe say trash slender crumble choose garment forest vibrant task";

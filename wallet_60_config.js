@@ -1,1 +1,1 @@
-var mnemonic = "describe country toast ranch ready often grain duty evidence beach kitchen turtle";
+var mnemonic = "comfort deer wrong exist parrot catalog fog east kick property mouse ask";

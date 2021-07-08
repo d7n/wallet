@@ -1,1 +1,1 @@
-var mnemonic = "label arctic upset manual select actual mix person host wood jungle maid";
+var mnemonic = "actor remind father series practice amused orbit galaxy gain address image monitor";

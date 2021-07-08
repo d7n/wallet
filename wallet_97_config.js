@@ -1,1 +1,1 @@
-var mnemonic = "arch drill few roast pyramid school trial elephant sad rhythm cigar fish";
+var mnemonic = "now stereo scout habit dream inform identify remind boring derive famous voyage";

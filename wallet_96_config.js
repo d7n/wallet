@@ -1,1 +1,1 @@
-var mnemonic = "rule tuition direct second isolate answer agent unknown clap worth again need";
+var mnemonic = "visa gauge deposit possible pact travel pulp expect like palm situate method";

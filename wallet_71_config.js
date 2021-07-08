@@ -1,1 +1,1 @@
-var mnemonic = "federal ugly enhance must seven dose wealth jealous adjust gravity phone knife";
+var mnemonic = "valve thing save protect mosquito silver fat engage cheap tip correct bachelor";

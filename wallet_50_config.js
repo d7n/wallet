@@ -1,1 +1,1 @@
-var mnemonic = "hen exclude sea cigar banana forget success modify combine traffic nuclear unfold";
+var mnemonic = "quick estate quiz crater tree hunt web company height help monkey vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow essence ladder lawn steel garden chair final music away sudden subject";
+var mnemonic = "outdoor bus castle pulp laundry embody mouse junk decide flavor bundle stomach";

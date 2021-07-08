@@ -1,1 +1,1 @@
-var mnemonic = "claw rule subway craft rich pair struggle replace adjust stamp cherry firm";
+var mnemonic = "ready know gas report foster love unit dry deposit always keen hedgehog";

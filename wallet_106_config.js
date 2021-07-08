@@ -1,1 +1,1 @@
-var mnemonic = "chronic flag leopard chair holiday border vanish stand oil brown theme suffer";
+var mnemonic = "pole roof caution holiday miss misery rug found garden window genius fall";

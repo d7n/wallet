@@ -1,1 +1,1 @@
-var mnemonic = "way talk fade buzz garage change monster depth borrow lava clay genuine";
+var mnemonic = "kidney educate fly chronic violin maze index exchange hub forget demand this";

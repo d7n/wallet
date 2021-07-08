@@ -1,1 +1,1 @@
-var mnemonic = "someone defense foam uniform unique clarify sun cute measure benefit theme curtain";
+var mnemonic = "merit satisfy cement upon text viable way blade library decrease police unhappy";

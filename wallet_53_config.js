@@ -1,1 +1,1 @@
-var mnemonic = "oval turkey private capable unlock combine pave punch badge thumb upgrade twin";
+var mnemonic = "wire release party come consider crazy aspect buzz horse jungle virtual street";

@@ -1,1 +1,1 @@
-var mnemonic = "donate audit near hub switch feed input cat ride garlic disease million";
+var mnemonic = "real lady lounge cave order pig across token case dynamic adapt forget";

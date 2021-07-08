@@ -1,1 +1,1 @@
-var mnemonic = "blame snack artefact eager execute road hero entire project panic bargain slogan";
+var mnemonic = "problem surge sorry noodle eyebrow desk little denial blouse echo island decrease";

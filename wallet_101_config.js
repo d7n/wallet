@@ -1,1 +1,1 @@
-var mnemonic = "large chair drill august together never lava fashion inside ritual wait hotel";
+var mnemonic = "spoil social secret couple dignity relief stumble audit recall jungle remind tackle";
