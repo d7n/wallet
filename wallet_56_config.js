@@ -1,1 +1,1 @@
-var mnemonic = "body fall attack divert odor will desert myself chaos anchor already dress";
+var mnemonic = "spend update actual riot attack hat tired cheese west cheap office pave";

@@ -1,1 +1,1 @@
-var mnemonic = "coil manual wage submit tiny blossom drip silly bracket hurry cart cradle";
+var mnemonic = "vessel safe rule express spider weasel nature myth car lunch over jelly";

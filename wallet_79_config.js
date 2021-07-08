@@ -1,1 +1,1 @@
-var mnemonic = "gravity vital day flip drop pool plug comfort decorate split solid onion";
+var mnemonic = "pulp brave sentence install mix ticket immune congress thought bright surprise swing";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy parade afraid pond grief wage obtain naive detect process major spy";
+var mnemonic = "iron tragic pact almost scissors labor brave almost message point leisure enforce";

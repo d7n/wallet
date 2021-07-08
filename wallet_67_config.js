@@ -1,1 +1,1 @@
-var mnemonic = "cancel shy found property social poem bar purse arm catalog team auction";
+var mnemonic = "come question identify differ meadow tooth source model circle pencil minor property";

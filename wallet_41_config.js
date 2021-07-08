@@ -1,1 +1,1 @@
-var mnemonic = "job entry cute garlic flip asset picnic pigeon obtain deputy stomach uphold";
+var mnemonic = "sock link invest session income corn arrow toward soon save riot teach";

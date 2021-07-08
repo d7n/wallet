@@ -1,1 +1,1 @@
-var mnemonic = "diet hold math orchard polar float typical tool nurse burden table must";
+var mnemonic = "enhance sketch actor choose squirrel agent baby under rug index flock fiction";

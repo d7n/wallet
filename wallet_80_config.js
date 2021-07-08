@@ -1,1 +1,1 @@
-var mnemonic = "quarter exit priority breeze erode universe coin bachelor math dolphin sword network";
+var mnemonic = "gather solve under dolphin battle rather glove cereal test leader milk idle";

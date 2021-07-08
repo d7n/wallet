@@ -1,1 +1,1 @@
-var mnemonic = "sheriff permit patch jaguar emotion van goose monkey pink candy cup glide";
+var mnemonic = "neither hammer region cute length angle wage mention fantasy wasp rail absurd";

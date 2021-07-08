@@ -1,1 +1,1 @@
-var mnemonic = "will oak stem normal erode equip meadow together achieve family choose ability";
+var mnemonic = "market husband raise stone onion try armed dismiss duty dry board mouse";

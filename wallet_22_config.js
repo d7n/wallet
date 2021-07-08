@@ -1,1 +1,1 @@
-var mnemonic = "sample urban garlic table omit asthma ecology produce benefit isolate boat world";
+var mnemonic = "grape health unveil village toddler hurdle initial stumble general move fish vote";

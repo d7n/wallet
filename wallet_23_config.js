@@ -1,1 +1,1 @@
-var mnemonic = "coil ripple miss view bottom vicious wheat cargo execute position soccer west";
+var mnemonic = "tenant action only problem identify harbor glove syrup fringe ship enforce output";

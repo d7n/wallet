@@ -1,1 +1,1 @@
-var mnemonic = "hover slow ensure under tennis priority argue accident switch aerobic barely welcome";
+var mnemonic = "ignore joy rib wheat lion diagram cliff summer motion butter sure sunset";

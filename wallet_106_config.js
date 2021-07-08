@@ -1,1 +1,1 @@
-var mnemonic = "another cluster replace cancel finish harsh palm unable limit evil pond symbol";
+var mnemonic = "van tell issue pass budget cargo arrow actress deliver barrel truck youth";

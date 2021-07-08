@@ -1,1 +1,1 @@
-var mnemonic = "mango between mutual inmate vital outer north radio derive tortoise inhale wool";
+var mnemonic = "roast response deputy vintage license drama voyage pilot cute siren layer pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "noise chair text city man uncover fix fog icon matter bright jacket";
+var mnemonic = "fat name tattoo random destroy lyrics mercy axis profit memory maple street";

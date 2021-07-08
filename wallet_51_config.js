@@ -1,1 +1,1 @@
-var mnemonic = "boss member chest early allow fade riot innocent moment bundle pact sing";
+var mnemonic = "what shove calm census economy jelly soccer satisfy throw because sure pear";

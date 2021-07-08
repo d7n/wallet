@@ -1,1 +1,1 @@
-var mnemonic = "rose burger champion engine remove parade silly crack resemble urban black neutral";
+var mnemonic = "armed few soul diary seminar portion second excess lab head faith pig";

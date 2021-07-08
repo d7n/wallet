@@ -1,1 +1,1 @@
-var mnemonic = "ring adult tumble ladder version strategy virus damage innocent immense neutral iron";
+var mnemonic = "believe include dilemma insect merit call initial vapor cargo yard bus armor";

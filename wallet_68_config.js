@@ -1,1 +1,1 @@
-var mnemonic = "border predict tiger olive way olive only fork pumpkin recipe frequent pen";
+var mnemonic = "word twelve bundle label fork glare world defy deputy fury coconut electric";

@@ -1,1 +1,1 @@
-var mnemonic = "shell icon evil forget oil bless feature melt weasel expire pyramid boil";
+var mnemonic = "wheat system check topple few senior umbrella pig train that mesh deer";

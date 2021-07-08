@@ -1,1 +1,1 @@
-var mnemonic = "renew inhale cup talk emerge shock leg duck lunch upset shrug bird";
+var mnemonic = "source action spike eternal easy mimic birth park flight clutch around hire";

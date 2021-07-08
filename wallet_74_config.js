@@ -1,1 +1,1 @@
-var mnemonic = "host transfer pond picnic tip rug subject absurd obtain magic pizza switch";
+var mnemonic = "surround evolve crumble idle celery canyon nuclear crouch wife lizard basket oak";

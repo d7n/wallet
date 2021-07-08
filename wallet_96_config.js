@@ -1,1 +1,1 @@
-var mnemonic = "clog tree illness symbol expect team load treat imitate range angle powder";
+var mnemonic = "veteran produce ship margin muffin tonight prepare enough duck buyer trade join";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle spatial total sugar vault whisper energy wrap beach you habit pistol";
+var mnemonic = "tide ice gift popular slogan jazz learn absurd deal attack captain uniform";

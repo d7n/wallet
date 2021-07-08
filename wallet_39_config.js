@@ -1,1 +1,1 @@
-var mnemonic = "fit second either symbol bag pledge thumb viable uphold edge nurse despair";
+var mnemonic = "jazz diet broken view regret extend mammal very mule fever episode labor";

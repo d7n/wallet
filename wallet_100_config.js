@@ -1,1 +1,1 @@
-var mnemonic = "buzz insane swallow equal blur broken fury project couch liar ladder surface";
+var mnemonic = "venue habit airport speak mass little there ability student fragile refuse owner";

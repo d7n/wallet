@@ -1,1 +1,1 @@
-var mnemonic = "focus horse surprise trim giraffe intact parrot strike agent mom little pulse";
+var mnemonic = "chase canal around throw faculty industry fat issue ask relax dilemma industry";

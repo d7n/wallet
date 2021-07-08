@@ -1,1 +1,1 @@
-var mnemonic = "screen illegal question saddle rude scissors long tattoo shock ship cook lamp";
+var mnemonic = "robot school math fence echo october width rifle urge tomato produce hurry";

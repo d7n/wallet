@@ -1,1 +1,1 @@
-var mnemonic = "dumb volcano ladder orange vital shrimp bleak hurt never silly find tornado";
+var mnemonic = "law yellow wave relief diary raccoon rural because rare exist arm leader";

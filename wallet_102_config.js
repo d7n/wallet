@@ -1,1 +1,1 @@
-var mnemonic = "provide napkin mass brief cry gap soccer expect illegal broom seven twelve";
+var mnemonic = "never track arena victory advance rude embark just route unfold salon original";

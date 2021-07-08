@@ -1,1 +1,1 @@
-var mnemonic = "tiger globe spring edit bicycle rigid valve problem walnut step feature setup";
+var mnemonic = "glove valve robot else bitter tornado retire leisure scout rubber fantasy romance";

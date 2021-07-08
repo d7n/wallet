@@ -1,1 +1,1 @@
-var mnemonic = "cute squirrel blue excuse today prison catch lottery flee gallery company naive";
+var mnemonic = "spatial science fatal problem space immune little area gain hotel liberty bitter";

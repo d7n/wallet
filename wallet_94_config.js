@@ -1,1 +1,1 @@
-var mnemonic = "spray grocery lounge demise stamp capable enough donkey there glad garment reject";
+var mnemonic = "cash crumble ugly rare put exotic remind better noise area unusual pioneer";

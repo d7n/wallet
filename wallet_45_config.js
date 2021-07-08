@@ -1,1 +1,1 @@
-var mnemonic = "donkey electric kitchen access connect ozone chief inmate captain fun absent melt";
+var mnemonic = "mirror auction short win obey kangaroo marine camp spice awesome rhythm there";

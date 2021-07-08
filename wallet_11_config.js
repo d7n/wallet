@@ -1,1 +1,1 @@
-var mnemonic = "habit team ancient spin pioneer toddler stuff street cost child flag afford";
+var mnemonic = "ecology degree clump tuna track weather cross upper prosper finger demise hood";

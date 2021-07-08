@@ -1,1 +1,1 @@
-var mnemonic = "bridge surge strong picture gorilla adjust sock lawn husband fiscal decline cross";
+var mnemonic = "copy width thank wise account water decrease define book teach man outer";

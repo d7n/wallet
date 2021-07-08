@@ -1,1 +1,1 @@
-var mnemonic = "artwork appear auction quality sing hockey clip describe earth inflict link charge";
+var mnemonic = "weapon entire submit arrange group mirror torch guitar object cattle beauty play";

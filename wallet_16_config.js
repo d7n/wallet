@@ -1,1 +1,1 @@
-var mnemonic = "device gap kite custom tornado horse neglect width junior craft sadness feel";
+var mnemonic = "card quick nut ribbon author sense during frozen rib enter flag improve";

@@ -1,1 +1,1 @@
-var mnemonic = "engage pink inside nothing liquid blast fault mobile install maid liar shrug";
+var mnemonic = "valley fatal pyramid tent student liar impose tuition scheme never valve shoe";

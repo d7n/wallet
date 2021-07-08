@@ -1,1 +1,1 @@
-var mnemonic = "teach crack pool enemy inmate minimum use moral abstract result notable erase";
+var mnemonic = "purchase make fresh peasant man tide double human east garden stumble one";

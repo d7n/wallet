@@ -1,1 +1,1 @@
-var mnemonic = "gun tenant obey elephant assist machine cushion slogan either length ramp erupt";
+var mnemonic = "walk inch future empower ice dumb soccer eyebrow resource possible kit develop";

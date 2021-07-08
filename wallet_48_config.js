@@ -1,1 +1,1 @@
-var mnemonic = "fox want debate satisfy humor client clay siege tackle banana mushroom credit";
+var mnemonic = "soccer jazz inflict physical doll canyon worry agent lock olympic number lizard";

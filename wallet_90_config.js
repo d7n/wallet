@@ -1,1 +1,1 @@
-var mnemonic = "blame lady attack flee human case build absurd enact stable bachelor flame";
+var mnemonic = "seed wild innocent organ regular end trim fix inflict enjoy lamp scrub";

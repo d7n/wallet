@@ -1,1 +1,1 @@
-var mnemonic = "swamp response aspect obey outer people lunar share sense bridge zero filter";
+var mnemonic = "luggage rude dragon wrong prosper kid tennis idea alert obscure floor mansion";

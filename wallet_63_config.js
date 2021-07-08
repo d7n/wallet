@@ -1,1 +1,1 @@
-var mnemonic = "word friend leopard giraffe endless cherry swear remember plug toe eternal category";
+var mnemonic = "advice wife mesh pave mimic void fiber success three away hockey hedgehog";

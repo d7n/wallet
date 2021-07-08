@@ -1,1 +1,1 @@
-var mnemonic = "wood high climb wall crime silent someone duck visual arrive shoulder afraid";
+var mnemonic = "retreat wrap improve doctor useless boost morning lyrics tribe beef what shield";

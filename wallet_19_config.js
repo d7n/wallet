@@ -1,1 +1,1 @@
-var mnemonic = "trip achieve witness decade opera unfair reduce switch letter harsh combine board";
+var mnemonic = "culture yard crash hunt ordinary embody topic guilt glove derive risk method";

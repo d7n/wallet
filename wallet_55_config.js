@@ -1,1 +1,1 @@
-var mnemonic = "flat siren beach seat task absurd erase shield brisk result finger gate";
+var mnemonic = "core loan rice fiction music few solution feature where pause cute thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "kick sing book live bullet subject mosquito way hotel congress alpha bachelor";
+var mnemonic = "only daring rally photo silent april congress detect series recipe grass tunnel";

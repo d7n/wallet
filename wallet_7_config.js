@@ -1,1 +1,1 @@
-var mnemonic = "bubble tower short coyote wish vicious veteran buyer doctor bulk elite pink";
+var mnemonic = "jealous such cause assume morning comic best airport job wasp despair furnace";

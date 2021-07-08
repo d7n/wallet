@@ -1,1 +1,1 @@
-var mnemonic = "core rally photo feel equip sniff rare actor smoke rare chronic reduce";
+var mnemonic = "suffer river about rug blade idle avocado brother basket churn desert fringe";

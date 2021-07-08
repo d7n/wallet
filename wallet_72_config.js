@@ -1,1 +1,1 @@
-var mnemonic = "discover survey mechanic rare uncle sustain struggle hello dinosaur also basket pond";
+var mnemonic = "chicken artefact city stuff spread split edge warm foil crouch window broccoli";

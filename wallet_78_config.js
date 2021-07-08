@@ -1,1 +1,1 @@
-var mnemonic = "tribe behind lyrics sunny eternal series acquire fence capable eye fetch raise";
+var mnemonic = "journey veteran spare grit era item indoor scrub throw coyote attitude enrich";

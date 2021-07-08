@@ -1,1 +1,1 @@
-var mnemonic = "depart space scissors tide enforce pizza glare hire miss toilet purpose into";
+var mnemonic = "trap success smile decorate include inherit build carbon theory husband blue planet";

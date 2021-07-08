@@ -1,1 +1,1 @@
-var mnemonic = "focus outer oil slender flush enlist tackle concert once melody seek typical";
+var mnemonic = "estate nation poem charge tip warm please write chief expect fat snake";

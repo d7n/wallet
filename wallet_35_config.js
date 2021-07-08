@@ -1,1 +1,1 @@
-var mnemonic = "matrix lens ski prevent gravity utility fade drama village catalog cluster mango";
+var mnemonic = "rapid ethics cabbage dream until online knock moon physical worth blue embrace";

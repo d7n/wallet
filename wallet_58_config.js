@@ -1,1 +1,1 @@
-var mnemonic = "tennis lucky afford end evidence method pave layer witness banana clock assist";
+var mnemonic = "beef bar mention dune kite put imitate survey champion want clean misery";

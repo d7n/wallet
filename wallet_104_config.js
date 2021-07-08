@@ -1,1 +1,1 @@
-var mnemonic = "laptop ball biology grape machine lazy hard home lottery toast wave expose";
+var mnemonic = "extend purchase select antenna analyst inquiry panda boring tiny habit insect pony";

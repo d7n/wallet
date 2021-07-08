@@ -1,1 +1,1 @@
-var mnemonic = "raw clarify spoon vessel giggle bread lake middle fantasy spot brush raw";
+var mnemonic = "wreck piece mutual weasel wheel plate donkey planet draw note burger print";

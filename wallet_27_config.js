@@ -1,1 +1,1 @@
-var mnemonic = "bind abandon chalk coral kitchen spare divide engage bullet account almost harbor";
+var mnemonic = "spider maximum fun blur build depth wrist leaf pioneer inform you thank";

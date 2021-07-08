@@ -1,1 +1,1 @@
-var mnemonic = "ignore beef cherry decline strike absurd session assume tag result sock village";
+var mnemonic = "budget spice cable okay skate little trophy useless sell poverty army image";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk bread session memory cruise zone sword acquire father owner occur color";
+var mnemonic = "resemble spider monster current nothing brand among sure barrel mean coast control";

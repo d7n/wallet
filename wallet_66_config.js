@@ -1,1 +1,1 @@
-var mnemonic = "clap trade pipe step there slim tumble limit wool tired blood spatial";
+var mnemonic = "maid chase engage uphold foam pistol machine diesel flock awful goat plate";

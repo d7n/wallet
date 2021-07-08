@@ -1,1 +1,1 @@
-var mnemonic = "milk suffer token shallow copper inmate daring width perfect pepper wheat host";
+var mnemonic = "nice liar require kind cover nuclear inside swamp seat gun mutual peasant";

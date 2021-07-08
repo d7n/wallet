@@ -1,1 +1,1 @@
-var mnemonic = "window grit allow proud aunt acquire mushroom mind print twelve sell close";
+var mnemonic = "sure few hip middle oak portion flavor pen derive fan slim meadow";

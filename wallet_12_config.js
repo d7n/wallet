@@ -1,1 +1,1 @@
-var mnemonic = "fuel flower range assault script sheriff impact soda choice borrow flame squirrel";
+var mnemonic = "axis render piano digital average kiss please attend crack sad draw bomb";

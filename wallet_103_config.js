@@ -1,1 +1,1 @@
-var mnemonic = "symbol comfort van polar agree champion loan barely infant dilemma dilemma first";
+var mnemonic = "cloth link solution negative skate mouse side ice catch modify minute assume";

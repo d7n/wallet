@@ -1,1 +1,1 @@
-var mnemonic = "master depth soldier trap pony diamond field poet funny found fat gravity";
+var mnemonic = "off stable answer truth frown blood distance input busy crater park neglect";

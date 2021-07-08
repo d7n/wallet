@@ -1,1 +1,1 @@
-var mnemonic = "snap million fluid goose adapt ignore leisure spin animal peasant gold pupil";
+var mnemonic = "horror fence wink march gather ride february sister prosper build damp obscure";

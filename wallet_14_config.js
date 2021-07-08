@@ -1,1 +1,1 @@
-var mnemonic = "pupil ski gym daughter skill miss cause claw alone couple clump injury";
+var mnemonic = "sorry tornado expand plastic alien sentence rule scrap salad antique program people";

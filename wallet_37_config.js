@@ -1,1 +1,1 @@
-var mnemonic = "vendor diesel swing decorate cause else cupboard oil milk artwork angle beach";
+var mnemonic = "fossil bike topic master weapon alter style scatter boost moon reject below";

@@ -1,1 +1,1 @@
-var mnemonic = "note scale copy narrow eager real draw track celery shift front source";
+var mnemonic = "flavor mad network push space vague tower question clap cluster senior chef";

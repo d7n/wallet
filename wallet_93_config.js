@@ -1,1 +1,1 @@
-var mnemonic = "blush hand fuel runway lemon hidden airport topic raise wonder mesh remain";
+var mnemonic = "symbol myself second uphold network occur garbage shed video crawl such appear";

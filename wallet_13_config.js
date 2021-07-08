@@ -1,1 +1,1 @@
-var mnemonic = "execute drastic toddler swamp cruise cream trend return differ nothing city mix";
+var mnemonic = "find copper warfare hard frozen member ready name rural fun soon still";

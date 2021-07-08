@@ -1,1 +1,1 @@
-var mnemonic = "total quarter body pilot reflect aspect fat wire plate prevent marble feel";
+var mnemonic = "hat season bulb cattle allow surge laugh inch brown mind rifle share";

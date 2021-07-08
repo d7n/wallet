@@ -1,1 +1,1 @@
-var mnemonic = "embark quantum clarify dismiss name claw erosion vibrant draft lesson hand talent";
+var mnemonic = "damage deliver tank mammal gold credit soul random device struggle heart gas";

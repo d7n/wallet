@@ -1,1 +1,1 @@
-var mnemonic = "cabin cable weasel huge spoon defense egg park promote soccer that wire";
+var mnemonic = "attack sorry oxygen depart mixture clip select summer cage visit infant grain";

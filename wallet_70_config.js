@@ -1,1 +1,1 @@
-var mnemonic = "filter truth situate element chair tuition act pretty train guard half caught";
+var mnemonic = "stove raccoon dance leisure apple bonus replace milk eyebrow laugh hero egg";

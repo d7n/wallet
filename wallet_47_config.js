@@ -1,1 +1,1 @@
-var mnemonic = "reopen label siege pumpkin laugh punch wet awful small better mixture organ";
+var mnemonic = "tattoo govern volume space that want toss sight bus general fan bring";

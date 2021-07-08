@@ -1,1 +1,1 @@
-var mnemonic = "faith mountain inflict chat advice blade jealous security evil tired whale start";
+var mnemonic = "album obvious sort cattle cannon toward roast bachelor gossip burden act rapid";

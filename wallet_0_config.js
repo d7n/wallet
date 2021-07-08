@@ -1,1 +1,1 @@
-var mnemonic = "pioneer anxiety merge trumpet mirror convince tower ocean twelve off replace sugar";
+var mnemonic = "poet elephant flame jungle canal dust agree invest panel book angle debate";

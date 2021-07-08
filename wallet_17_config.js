@@ -1,1 +1,1 @@
-var mnemonic = "tank camp grace situate stadium kick rare mad method aware aspect danger";
+var mnemonic = "holiday inflict absorb picnic flock point female furnace boss spray solar mass";

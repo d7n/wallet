@@ -1,1 +1,1 @@
-var mnemonic = "that gaze loan disagree lens image float mimic middle milk purse announce";
+var mnemonic = "away mean brand behind nerve flock used civil sort craft depth crane";

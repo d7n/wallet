@@ -1,1 +1,1 @@
-var mnemonic = "little plastic interest amused bottom rapid sick inspire pear improve vessel camera";
+var mnemonic = "bird impose solve repeat struggle goat tomato cattle assist share satisfy hidden";

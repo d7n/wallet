@@ -1,1 +1,1 @@
-var mnemonic = "tattoo museum wild chat endorse payment exhibit book team until thank rebuild";
+var mnemonic = "dune wrist office action tunnel aim prosper process eternal mosquito diet smart";

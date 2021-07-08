@@ -1,1 +1,1 @@
-var mnemonic = "glimpse worry blur lyrics will loan cup private gloom rely write siege";
+var mnemonic = "stomach inherit mom giggle seek split taste inspire jungle spin lottery grief";

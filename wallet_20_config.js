@@ -1,1 +1,1 @@
-var mnemonic = "nominee uncle critic exhaust midnight friend bounce island piano adapt decorate figure";
+var mnemonic = "beyond define stomach point sustain left now cigar armor crawl pink bottom";

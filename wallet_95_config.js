@@ -1,1 +1,1 @@
-var mnemonic = "list they enroll dust barrel grace flower rough frozen winner mandate wild";
+var mnemonic = "car man original wear parent trade poem power chunk pact flee effort";

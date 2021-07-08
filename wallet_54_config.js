@@ -1,1 +1,1 @@
-var mnemonic = "method road sauce sport bread woman affair canvas domain enroll emotion spell";
+var mnemonic = "deposit earth crisp cup pepper idle above work clutch render liquid vessel";

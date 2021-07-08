@@ -1,1 +1,1 @@
-var mnemonic = "net attend mirror chat resist lawsuit siren speed spoon business one elite";
+var mnemonic = "certain web fabric shy pole bean chase yard age coil upgrade bonus";

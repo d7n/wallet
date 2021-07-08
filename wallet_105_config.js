@@ -1,1 +1,1 @@
-var mnemonic = "special taxi increase super bar broccoli enroll trim angry glow second pill";
+var mnemonic = "face acquire funny business exact rose celery guess habit film twenty upset";

@@ -1,1 +1,1 @@
-var mnemonic = "lift mixed member element thing mountain predict slab hockey pledge flip toast";
+var mnemonic = "exhaust loan recycle river blush smoke only review jump elevator pumpkin secret";
