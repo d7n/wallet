@@ -1,1 +1,1 @@
-var mnemonic = "exit tired foster feed child digital lunch fit kidney resist labor praise";
+var mnemonic = "loyal clap vague emerge crew march pole absorb toilet armor advice certain";

@@ -1,1 +1,1 @@
-var mnemonic = "security screen dice divide fluid volume host employ easily radio sphere sail";
+var mnemonic = "wise three dizzy embrace beef aspect level ice outer slam farm project";

@@ -1,1 +1,1 @@
-var mnemonic = "common afford mirror dirt before habit goddess heavy acoustic coyote edit slogan";
+var mnemonic = "scissors frog slush captain gym tooth amateur renew few island belt pipe";

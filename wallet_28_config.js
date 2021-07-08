@@ -1,1 +1,1 @@
-var mnemonic = "delay animal forward glare undo outdoor brass shallow abstract ugly lake antique";
+var mnemonic = "raven vessel smoke unit donor color else silver response sheriff output spread";

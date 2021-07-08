@@ -1,1 +1,1 @@
-var mnemonic = "ten evidence elder vocal scissors hamster web siren submit love depart zebra";
+var mnemonic = "cannon popular coral rude boil feed brisk make plate hint unable pledge";

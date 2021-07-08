@@ -1,1 +1,1 @@
-var mnemonic = "office spawn write essence novel galaxy mimic immune evolve crouch style fine";
+var mnemonic = "catalog uniform before avocado delay damp wise interest dismiss toss depart iron";

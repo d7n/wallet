@@ -1,1 +1,1 @@
-var mnemonic = "since crawl awkward field genius never random load photo dry nurse concert";
+var mnemonic = "occur protect hammer same better mask space raven match pyramid false narrow";

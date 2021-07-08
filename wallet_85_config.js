@@ -1,1 +1,1 @@
-var mnemonic = "soap tent venue oil match sting bleak annual enlist drift return morning";
+var mnemonic = "gun stem strategy wealth melody culture injury canal thrive eight slight cost";

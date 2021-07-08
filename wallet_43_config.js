@@ -1,1 +1,1 @@
-var mnemonic = "cloth glide solution whale soup provide offer try deputy couple rival desert";
+var mnemonic = "chimney battle come clog clerk dog borrow letter midnight culture stuff tray";

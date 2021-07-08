@@ -1,1 +1,1 @@
-var mnemonic = "trouble come edit trouble screen save public puppy almost leave picnic sell";
+var mnemonic = "mountain foster excuse where village equal market physical flock letter forum father";

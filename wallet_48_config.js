@@ -1,1 +1,1 @@
-var mnemonic = "hotel strategy rifle north wink exhibit happy injury acid keen bike loyal";
+var mnemonic = "talent tobacco width luxury flight horn online galaxy giggle depth chalk panic";

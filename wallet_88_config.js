@@ -1,1 +1,1 @@
-var mnemonic = "tower view paper enough dignity machine east wreck journey fall warm elegant";
+var mnemonic = "write priority rib unique skill foam fire sign motor hawk zone soup";

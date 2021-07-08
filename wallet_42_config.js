@@ -1,1 +1,1 @@
-var mnemonic = "author task yellow text envelope fault reform cliff crisp civil mad poet";
+var mnemonic = "also garage river protect pelican extra prevent govern cinnamon kid wheat act";

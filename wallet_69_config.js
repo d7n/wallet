@@ -1,1 +1,1 @@
-var mnemonic = "talk improve artefact noodle police bottom delay inspire nut law ankle coach";
+var mnemonic = "raven student between badge grab retreat secret chat penalty cactus fiction dilemma";

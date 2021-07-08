@@ -1,1 +1,1 @@
-var mnemonic = "gloom fee segment donate duty crop liberty limit wife online quality remind";
+var mnemonic = "envelope symptom grab catalog around pond gossip shed alley police tribe knife";

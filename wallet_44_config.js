@@ -1,1 +1,1 @@
-var mnemonic = "tooth unusual humor shadow sadness amazing buzz know forget nurse recycle salon";
+var mnemonic = "width cricket weasel isolate life fade robot bridge squirrel cool item marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "adult start color thought mimic swim panda kitten flavor venue labor trip";
+var mnemonic = "grace ship garment village swim buyer grape provide pulp ginger garden term";

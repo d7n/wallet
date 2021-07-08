@@ -1,1 +1,1 @@
-var mnemonic = "south baby bridge believe actor south float surface soup always exit slam";
+var mnemonic = "story exclude nephew elephant like become mixture security pave myth lift veteran";

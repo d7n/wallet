@@ -1,1 +1,1 @@
-var mnemonic = "trouble rely fit poet leisure resource amazing good drastic hill april nasty";
+var mnemonic = "auto moral term rack trim vessel tragic evil cash become zebra canyon";

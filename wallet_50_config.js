@@ -1,1 +1,1 @@
-var mnemonic = "estate result foot inquiry despair august sudden sound nuclear tray fantasy loop";
+var mnemonic = "dry vintage door wait fly twenty clown clerk old layer cycle benefit";

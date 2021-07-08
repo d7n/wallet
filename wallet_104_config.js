@@ -1,1 +1,1 @@
-var mnemonic = "gap consider planet warrior tourist paper process analyst syrup truth shop annual";
+var mnemonic = "math bachelor sleep genre clerk daring cricket rate trash idea aisle total";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate rather begin dilemma dial side fury wine caution manage pride trim";
+var mnemonic = "express morning salute voice wrestle duty all afraid cube dolphin property robot";

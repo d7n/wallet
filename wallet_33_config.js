@@ -1,1 +1,1 @@
-var mnemonic = "garlic lottery pizza trigger session length truck across thumb poet mom mean";
+var mnemonic = "company join someone strategy problem era crush wall bind method dance rely";

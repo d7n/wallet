@@ -1,1 +1,1 @@
-var mnemonic = "ball shiver energy cheap asthma section then sport million diary tenant web";
+var mnemonic = "hammer sleep evil update identify ginger wheat step jealous chronic bamboo track";

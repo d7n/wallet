@@ -1,1 +1,1 @@
-var mnemonic = "novel police bachelor rack output inflict title dune shoulder february put valve";
+var mnemonic = "merry skull wood top raven hen tuition push punch electric enter reduce";

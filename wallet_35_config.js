@@ -1,1 +1,1 @@
-var mnemonic = "trigger marble body call chimney relax ramp dove wrong minute frequent hazard";
+var mnemonic = "budget empty decrease lion initial follow lounge about sponsor say master cake";

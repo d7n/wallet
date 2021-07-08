@@ -1,1 +1,1 @@
-var mnemonic = "square blouse bundle kiwi virtual direct desert emotion vacuum thought coast false";
+var mnemonic = "unable vote organ ancient morning shaft napkin awesome gap engine welcome fox";

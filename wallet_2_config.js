@@ -1,1 +1,1 @@
-var mnemonic = "position stand vanish derive blade carpet analyst funny gloom fat book resemble";
+var mnemonic = "midnight utility glance bargain stuff fringe absent chapter paper vibrant wisdom toward";

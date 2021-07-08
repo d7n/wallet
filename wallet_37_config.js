@@ -1,1 +1,1 @@
-var mnemonic = "curtain friend valve relief note smile chaos coach father puzzle sustain mix";
+var mnemonic = "mistake slim explain gossip now mask side pond december romance awful scatter";

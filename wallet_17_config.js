@@ -1,1 +1,1 @@
-var mnemonic = "brown bright priority alert fluid chuckle frequent balcony slot flat choice pigeon";
+var mnemonic = "hole foot elevator bench spread extra scout chat slab hour safe shove";

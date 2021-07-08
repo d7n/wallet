@@ -1,1 +1,1 @@
-var mnemonic = "neglect exhaust innocent ready nuclear work wild decide lemon unaware matrix vote";
+var mnemonic = "poem dolphin follow vessel tumble forward resemble swap run wall mixture funny";

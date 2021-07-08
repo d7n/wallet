@@ -1,1 +1,1 @@
-var mnemonic = "legal only moment zone jazz lonely news execute clog job omit wrap";
+var mnemonic = "book enforce stairs corn nephew tell life slot catch exotic message million";

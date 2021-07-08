@@ -1,1 +1,1 @@
-var mnemonic = "moral glue feed mushroom burger mention face honey street antique someone analyst";
+var mnemonic = "minute blind lake direct science bounce coin humble horror accuse evidence drop";

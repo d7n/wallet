@@ -1,1 +1,1 @@
-var mnemonic = "test frozen country cart such three recycle rice satisfy stairs square install";
+var mnemonic = "exclude baby winter acoustic grace settle gas ship fantasy orient mean gasp";

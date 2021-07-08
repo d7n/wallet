@@ -1,1 +1,1 @@
-var mnemonic = "farm gossip loud announce media actress scout cherry project either muffin busy";
+var mnemonic = "quote say head pony magic possible panda region addict twin play anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap stage daring cart surge fury uncover swear lawsuit twin arrive fall";
+var mnemonic = "eye govern prefer inch survey arrest chase sand label box offer client";

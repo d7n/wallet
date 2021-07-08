@@ -1,1 +1,1 @@
-var mnemonic = "awful faculty layer absorb arch prefer follow improve pact hawk more kiwi";
+var mnemonic = "easy vacuum need cage lounge frame banner action point trend senior honey";

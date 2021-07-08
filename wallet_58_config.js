@@ -1,1 +1,1 @@
-var mnemonic = "lottery elevator fade author evidence identify comfort pottery bind blouse chaos evidence";
+var mnemonic = "motor right scatter surprise hurt unique word layer account eternal total oppose";

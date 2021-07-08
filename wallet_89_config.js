@@ -1,1 +1,1 @@
-var mnemonic = "garbage paper absent ecology erupt salt bullet rate uniform firm find observe";
+var mnemonic = "coconut hover burst lecture either item increase punch student sea profit coach";

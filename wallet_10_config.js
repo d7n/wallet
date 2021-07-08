@@ -1,1 +1,1 @@
-var mnemonic = "bicycle rural remind warrior expect okay result response table glass absent laugh";
+var mnemonic = "laugh fortune act claim sleep love muffin eager million canal corn sister";

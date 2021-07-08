@@ -1,1 +1,1 @@
-var mnemonic = "cycle hunt lamp school armed slush this useful pottery hamster helmet force";
+var mnemonic = "dignity achieve gather people require area speak pulp social thank fence return";

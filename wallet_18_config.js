@@ -1,1 +1,1 @@
-var mnemonic = "hole sad agent inspire double scrub ahead clown bargain bar prize orchard";
+var mnemonic = "tissue eager globe satoshi document top name hover dynamic audit skull olive";

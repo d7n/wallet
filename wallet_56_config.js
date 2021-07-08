@@ -1,1 +1,1 @@
-var mnemonic = "category kitchen garment electric matter file put embrace total dice blossom walk";
+var mnemonic = "faculty vague refuse summer idle oven pond future damage travel danger flag";

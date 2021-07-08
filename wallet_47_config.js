@@ -1,1 +1,1 @@
-var mnemonic = "become youth owner appear print bid fame analyst hedgehog giant debate winner";
+var mnemonic = "armed park sadness truck employ example meat feel tide tube meat drink";

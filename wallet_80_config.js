@@ -1,1 +1,1 @@
-var mnemonic = "enhance feature siege actress joke fashion movie tunnel current leaf horn market";
+var mnemonic = "fan screen approve major spoil waste spray affair limit pet wire derive";

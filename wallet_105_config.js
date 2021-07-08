@@ -1,1 +1,1 @@
-var mnemonic = "giant promote blush loud horror pet dawn pelican small trade tide mercy";
+var mnemonic = "roof rent idea humble dream hill victory scheme couple early define nose";

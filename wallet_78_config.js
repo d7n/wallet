@@ -1,1 +1,1 @@
-var mnemonic = "report around medal already vanish hockey trade ability admit wonder exit concert";
+var mnemonic = "engine rebuild beef antique library cruise faint elbow tourist neutral want female";

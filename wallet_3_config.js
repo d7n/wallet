@@ -1,1 +1,1 @@
-var mnemonic = "country property kiwi place conduct spend diamond poverty proof outdoor gun resource";
+var mnemonic = "assist caution course emotion pull mosquito brass owner pink mimic pottery health";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse civil inject question random easy find crime option wrong dwarf clay";
+var mnemonic = "shaft replace try wing phrase raw father muscle actress cause daughter mix";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster earth mechanic aerobic body foam park relax okay useful group junk";
+var mnemonic = "bean universe various actual strategy biology length clump minimum voyage sauce scene";

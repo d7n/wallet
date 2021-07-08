@@ -1,1 +1,1 @@
-var mnemonic = "dash dragon fix noble digital review eyebrow oak gauge fortune describe identify";
+var mnemonic = "naive pulp twin mimic spider hedgehog surprise pill snow inform feel amateur";

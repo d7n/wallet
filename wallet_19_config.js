@@ -1,1 +1,1 @@
-var mnemonic = "tired essay among physical artwork mushroom hospital property figure quality brisk venue";
+var mnemonic = "essay manual plate caution success cinnamon system huge rate faculty select item";

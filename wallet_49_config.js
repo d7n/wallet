@@ -1,1 +1,1 @@
-var mnemonic = "erosion fog buzz provide foster what labor panther tell hub maid priority";
+var mnemonic = "oak pioneer village pet afraid cherry scrap observe uniform echo number desert";

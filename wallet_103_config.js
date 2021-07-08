@@ -1,1 +1,1 @@
-var mnemonic = "combine limb torch blood turn athlete vapor analyst power issue develop vast";
+var mnemonic = "resource stage pumpkin blame silk erosion neither cotton vintage trial peasant argue";

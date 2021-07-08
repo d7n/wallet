@@ -1,1 +1,1 @@
-var mnemonic = "other chronic cliff game delay bleak enroll verify result zoo wear pretty";
+var mnemonic = "buddy exhaust tiger all clump census news smart piece elephant swear silent";

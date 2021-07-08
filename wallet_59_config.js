@@ -1,1 +1,1 @@
-var mnemonic = "aspect inch stereo brush finish joke neutral embody scare skin achieve board";
+var mnemonic = "rug oppose phone liar shoulder secret exit slab employ seat bacon city";

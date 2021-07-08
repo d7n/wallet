@@ -1,1 +1,1 @@
-var mnemonic = "reason found across hair observe camera nerve define extend base vintage zero";
+var mnemonic = "lend farm wait wet total pet lift chalk heavy width try promote";

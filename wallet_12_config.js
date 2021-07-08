@@ -1,1 +1,1 @@
-var mnemonic = "glimpse banana toss awful expand wine sock wonder drift cheap vivid inner";
+var mnemonic = "become immune young office spike enforce mule student canyon tomato fluid solid";

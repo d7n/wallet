@@ -1,1 +1,1 @@
-var mnemonic = "hood bus raise never volcano balcony blanket april camera today income matter";
+var mnemonic = "stomach alien swarm piano term other outer usual arrow dinner sauce island";

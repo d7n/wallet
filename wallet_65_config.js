@@ -1,1 +1,1 @@
-var mnemonic = "pear slender filter oak subway mobile finish fire strong height cannon cry";
+var mnemonic = "media margin senior aerobic disagree night among world man wedding add year";

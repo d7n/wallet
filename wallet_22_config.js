@@ -1,1 +1,1 @@
-var mnemonic = "follow wagon lumber snap settle resource foster quote large portion hungry cradle";
+var mnemonic = "zero phrase capable start life wire lady nice turkey august right culture";

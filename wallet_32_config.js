@@ -1,1 +1,1 @@
-var mnemonic = "adapt give account undo donkey lonely hotel staff start bean topple casual";
+var mnemonic = "source normal thumb amused beef venture spare tattoo jaguar depart critic always";

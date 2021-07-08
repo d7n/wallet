@@ -1,1 +1,1 @@
-var mnemonic = "alert envelope divide sleep consider promote fantasy mass inside disease only penalty";
+var mnemonic = "orange nature shadow final relief approve crunch enrich burden usage still apology";

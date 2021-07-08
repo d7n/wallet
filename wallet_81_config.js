@@ -1,1 +1,1 @@
-var mnemonic = "liberty company crane rebuild rent stuff elegant victory recycle thumb tonight champion";
+var mnemonic = "busy hybrid have around give vintage agent rib route noodle hedgehog relax";

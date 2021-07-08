@@ -1,1 +1,1 @@
-var mnemonic = "kitten useless orchard able inhale able essay price crack project add lawsuit";
+var mnemonic = "broom awkward elder reflect jazz evolve ten split often brain bind unfair";

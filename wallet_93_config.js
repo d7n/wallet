@@ -1,1 +1,1 @@
-var mnemonic = "soup powder tired fat alter staff jaguar opera tilt wrap rather exhaust";
+var mnemonic = "aware clever tuna round cereal expire veteran flock belt solid welcome coach";

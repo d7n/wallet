@@ -1,1 +1,1 @@
-var mnemonic = "token maze jewel pelican monitor resist boss search cradle diesel address wheel";
+var mnemonic = "bubble solve admit vanish road emotion worth scorpion brief cost piano holiday";

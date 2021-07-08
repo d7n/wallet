@@ -1,1 +1,1 @@
-var mnemonic = "melt impulse defy rely turkey cereal assume citizen cigar vapor sketch faculty";
+var mnemonic = "foot soda beef job pitch ethics fun nothing sunny borrow annual school";

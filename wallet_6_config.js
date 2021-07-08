@@ -1,1 +1,1 @@
-var mnemonic = "foot borrow myth stone next cry anchor voyage trumpet city expect salad";
+var mnemonic = "volume soul ranch embrace seat april problem few typical cricket board joke";

@@ -1,1 +1,1 @@
-var mnemonic = "super inject index response choice wall boil drama occur wait thought adjust";
+var mnemonic = "enlist razor very stock defense kit convince effort funny since wasp ceiling";

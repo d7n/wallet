@@ -1,1 +1,1 @@
-var mnemonic = "special inspire soul road upper crash salmon height estate system curious cram";
+var mnemonic = "update holiday absent combine little bag cat dust defense wear dash smile";

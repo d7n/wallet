@@ -1,1 +1,1 @@
-var mnemonic = "token talk hockey crane hotel behind mask seed fit medal stove design";
+var mnemonic = "team option clap correct old ceiling home detect inject unit slot congress";

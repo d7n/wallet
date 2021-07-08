@@ -1,1 +1,1 @@
-var mnemonic = "turkey solid unveil flush imitate page brother cat blanket fantasy unique lion";
+var mnemonic = "market blanket coffee unit magic laugh rival stage print drama vacant found";

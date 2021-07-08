@@ -1,1 +1,1 @@
-var mnemonic = "refuse refuse inspire snack profit urge argue youth nation find canyon awkward";
+var mnemonic = "high margin caution disease grit tip slight rail ranch chief nothing turtle";

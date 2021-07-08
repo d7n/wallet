@@ -1,1 +1,1 @@
-var mnemonic = "impact coach maze plate brief drift empty phrase indicate sphere fly income";
+var mnemonic = "pause enforce shield silent affair expect also genius buddy zebra slam belt";

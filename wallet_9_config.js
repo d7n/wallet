@@ -1,1 +1,1 @@
-var mnemonic = "naive mimic bitter swift matrix gate floor easy sheriff scissors tenant diet";
+var mnemonic = "limb pizza phrase reveal outside menu remember party picnic cute kite review";

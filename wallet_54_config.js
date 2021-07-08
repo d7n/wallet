@@ -1,1 +1,1 @@
-var mnemonic = "fragile dutch loud rival boring candy naive fantasy silent cousin genius lab";
+var mnemonic = "traffic embody wink rival worth manual chest lock gather split hand dial";

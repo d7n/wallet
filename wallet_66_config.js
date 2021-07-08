@@ -1,1 +1,1 @@
-var mnemonic = "rule tilt manage analyst mimic dad rose laundry slim kid soul ridge";
+var mnemonic = "license piano hollow size biology aware unfair ready duck cigar siren cereal";

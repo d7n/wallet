@@ -1,1 +1,1 @@
-var mnemonic = "hold blade entry trouble exact force awful replace market uphold future list";
+var mnemonic = "ivory motor later salt purse vicious draft moral solid sister phrase caught";

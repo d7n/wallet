@@ -1,1 +1,1 @@
-var mnemonic = "sugar aisle brick true spider coffee laundry soft limit enable weekend one";
+var mnemonic = "lock marble canvas much manual science valve hole mosquito absent guitar cart";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle edge main detect october knee concert soft fork person virtual worth";
+var mnemonic = "upgrade margin crumble combine calm annual farm scatter cable oblige this weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar hamster ski valve alarm orphan claim coffee bitter column bread enhance";
+var mnemonic = "van town begin frozen ordinary bacon prize multiply zoo mule vehicle ring";

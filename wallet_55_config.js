@@ -1,1 +1,1 @@
-var mnemonic = "damp cover vocal mule place abandon isolate approve endorse dolphin road enact";
+var mnemonic = "once omit medal skin paddle dutch awake will flat innocent vacuum imitate";

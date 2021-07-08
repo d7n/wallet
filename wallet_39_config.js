@@ -1,1 +1,1 @@
-var mnemonic = "license photo gorilla economy already put lemon agent cube common raw chat";
+var mnemonic = "west diesel give pledge mansion income square pave quote above work detail";

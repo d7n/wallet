@@ -1,1 +1,1 @@
-var mnemonic = "salad village bulb club impulse vibrant cattle embrace innocent loud bitter squirrel";
+var mnemonic = "volcano loan true ten during rent since double enable gauge accident piece";

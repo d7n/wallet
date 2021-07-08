@@ -1,1 +1,1 @@
-var mnemonic = "eye check brown check exist screen angry toy click endless adult you";
+var mnemonic = "drift plunge fine segment fog limit hamster shallow into before gossip easily";

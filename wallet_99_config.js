@@ -1,1 +1,1 @@
-var mnemonic = "board rose flame squeeze palm proof hour table hospital biology rigid fantasy";
+var mnemonic = "match concert bundle angle riot stock tip maid crazy warfare leisure habit";
