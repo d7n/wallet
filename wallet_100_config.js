@@ -1,1 +1,1 @@
-var mnemonic = "quarter hard smart home tenant range farm toilet vanish universe claw hunt";
+var mnemonic = "struggle tank economy nerve list purse taste silver grape couch pledge secret";

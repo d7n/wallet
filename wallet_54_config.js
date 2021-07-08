@@ -1,1 +1,1 @@
-var mnemonic = "such use radio entry label banner until mistake float guard hammer increase";
+var mnemonic = "cloth pill monitor oil spawn bright appear nut actress broken never warm";

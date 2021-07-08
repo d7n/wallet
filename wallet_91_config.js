@@ -1,1 +1,1 @@
-var mnemonic = "midnight ramp flash supreme machine stool above sorry return coast force minute";
+var mnemonic = "profit rare symptom wine adult rack sign disagree scorpion general away obscure";

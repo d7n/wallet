@@ -1,1 +1,1 @@
-var mnemonic = "visit excite scatter velvet proud domain surface priority vault crew rack faint";
+var mnemonic = "organ power age armor tree under space keep baby push deer protect";

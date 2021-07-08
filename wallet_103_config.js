@@ -1,1 +1,1 @@
-var mnemonic = "taxi lobster obvious floor science wisdom language mother car warrior load silver";
+var mnemonic = "immense sunny script skin guard famous observe icon airport sausage grace clarify";

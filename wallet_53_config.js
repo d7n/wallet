@@ -1,1 +1,1 @@
-var mnemonic = "roof olympic cabbage tool rent harsh tide used party tortoise cream bullet";
+var mnemonic = "soap inch vocal game absent great rich gravity loud into surround milk";

@@ -1,1 +1,1 @@
-var mnemonic = "flat task mansion tuna jazz plastic until update crack very surface brown";
+var mnemonic = "render chapter govern decrease loop toilet rate high claw promote skirt ivory";

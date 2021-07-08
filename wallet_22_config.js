@@ -1,1 +1,1 @@
-var mnemonic = "match wealth venue exile cousin canyon damp ability phone coral penalty extra";
+var mnemonic = "illegal edit all attract coach luggage oak wisdom spray doll harbor purity";

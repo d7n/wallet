@@ -1,1 +1,1 @@
-var mnemonic = "style civil top sleep captain govern avoid bean immense profit erosion mandate";
+var mnemonic = "wait soft cattle angle head chaos vapor loan era tell space arm";

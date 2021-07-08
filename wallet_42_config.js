@@ -1,1 +1,1 @@
-var mnemonic = "similar people shop word problem ivory balance dove radar great biology spatial";
+var mnemonic = "atom space arrive true voyage random hat moment boost scan expose crater";

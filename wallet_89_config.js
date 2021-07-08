@@ -1,1 +1,1 @@
-var mnemonic = "mercy calm ridge gaze climb option fortune crop mouse topple entry arrest";
+var mnemonic = "fee wing half bonus garage pigeon clutch satoshi hospital pool addict gauge";

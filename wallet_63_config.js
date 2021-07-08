@@ -1,1 +1,1 @@
-var mnemonic = "bulk cover purity shy lab dolphin tortoise dwarf skin dance recipe panic";
+var mnemonic = "figure cream whisper squirrel unique sheriff globe peace carbon come canvas sing";

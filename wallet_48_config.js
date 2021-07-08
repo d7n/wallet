@@ -1,1 +1,1 @@
-var mnemonic = "fabric lamp impulse control negative arch purse surprise opinion dignity return van";
+var mnemonic = "neither differ earth mirror firm student tide tank exhaust swallow moral hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "sand upper coin clock snap rough viable ranch hub range fiscal more";
+var mnemonic = "save forget erosion involve mixed slight frozen arrow tiny soldier seminar giggle";

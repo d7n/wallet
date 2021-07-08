@@ -1,1 +1,1 @@
-var mnemonic = "congress produce genius hawk chicken hidden message evoke link patrol old waste";
+var mnemonic = "column cart better bar universe minute path deer bargain lonely grain correct";

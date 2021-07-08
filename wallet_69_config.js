@@ -1,1 +1,1 @@
-var mnemonic = "relief crazy grab orange usual glove bachelor upset escape shoulder tumble minimum";
+var mnemonic = "mobile kind spirit resist direct between cactus announce knife primary come fall";

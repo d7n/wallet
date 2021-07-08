@@ -1,1 +1,1 @@
-var mnemonic = "receive filter forum wheat glass category unfair glare pitch stay garden steel";
+var mnemonic = "short deal use jar slot junk neglect stumble crumble perfect since future";

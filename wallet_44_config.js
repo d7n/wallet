@@ -1,1 +1,1 @@
-var mnemonic = "elevator hollow rice can parade slam cage couple plug polar cube blind";
+var mnemonic = "olive mixed firm truck deny please truth denial reduce photo spell news";

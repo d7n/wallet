@@ -1,1 +1,1 @@
-var mnemonic = "balance catch carry element glow output diagram often what sea alien remember";
+var mnemonic = "village embody fit tooth crush hope paddle autumn trim virus coin notable";

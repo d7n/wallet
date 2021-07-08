@@ -1,1 +1,1 @@
-var mnemonic = "brave muscle thought vote cluster room parrot gesture crush casual gloom ancient";
+var mnemonic = "cube relief ocean angry remain shed biology alley unique stage unveil scout";

@@ -1,1 +1,1 @@
-var mnemonic = "animal trap fat good repair ring actual clay finger horse estate fix";
+var mnemonic = "spawn simple cargo gym rare radar entry century unhappy walnut train bulk";

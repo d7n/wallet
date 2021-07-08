@@ -1,1 +1,1 @@
-var mnemonic = "asthma garden jewel local during hero front banner leg divert eagle upon";
+var mnemonic = "sea flame scrap legend cinnamon tobacco fiction melody sound asset wasp tag";

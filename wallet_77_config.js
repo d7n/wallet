@@ -1,1 +1,1 @@
-var mnemonic = "seed burst broom hungry noble faith replace dose web income minimum demand";
+var mnemonic = "arm estate crime reject company initial sword current obvious final impose vendor";

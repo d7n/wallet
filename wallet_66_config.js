@@ -1,1 +1,1 @@
-var mnemonic = "charge silly random jar notable obtain song ordinary rough cake rebuild device";
+var mnemonic = "stay milk lecture return above increase goddess into dilemma follow aware stereo";

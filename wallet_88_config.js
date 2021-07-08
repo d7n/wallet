@@ -1,1 +1,1 @@
-var mnemonic = "maze rally rare describe liberty team ladder between solve upon practice please";
+var mnemonic = "warm paper evil panic salad cousin van erase exact ill system unhappy";

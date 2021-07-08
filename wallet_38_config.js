@@ -1,1 +1,1 @@
-var mnemonic = "luggage scout view tool business outdoor sell help chapter search age section";
+var mnemonic = "diamond couch afford toss armed cover sick minimum denial wash globe cage";

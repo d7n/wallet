@@ -1,1 +1,1 @@
-var mnemonic = "melt dust oyster need call party nurse aspect boring citizen depth used";
+var mnemonic = "artwork echo very private vendor sure slogan measure canyon rally vicious describe";

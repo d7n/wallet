@@ -1,1 +1,1 @@
-var mnemonic = "panda afraid abuse clinic convince version fitness language mistake message abstract clap";
+var mnemonic = "now involve wrong clarify coconut dose local combine interest slight voice air";

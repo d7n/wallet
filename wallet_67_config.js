@@ -1,1 +1,1 @@
-var mnemonic = "trust rich attend crowd couple method birth inherit insect night immense blind";
+var mnemonic = "radio half seven slush blood phrase relief bright host hockey mother skill";

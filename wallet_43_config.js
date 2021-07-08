@@ -1,1 +1,1 @@
-var mnemonic = "provide purpose license true fence august glory certain skull session burden slight";
+var mnemonic = "forward amazing laptop kangaroo taste toast sing loyal number seven beach ignore";

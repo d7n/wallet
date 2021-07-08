@@ -1,1 +1,1 @@
-var mnemonic = "mom trumpet drum misery august silent rug nuclear token voice help fabric";
+var mnemonic = "one rare decorate defy blossom live advice birth eternal palm year shove";

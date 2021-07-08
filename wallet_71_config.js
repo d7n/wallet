@@ -1,1 +1,1 @@
-var mnemonic = "whip dutch business glory friend smoke delay near blouse trumpet wagon cruel";
+var mnemonic = "spring chapter mirror lawsuit black chase observe rookie together then another burst";

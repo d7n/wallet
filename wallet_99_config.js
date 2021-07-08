@@ -1,1 +1,1 @@
-var mnemonic = "history maid couch pig lucky income zero youth midnight shoulder half relief";
+var mnemonic = "eternal limb real catalog shed level essence lobster turkey enough hill claim";

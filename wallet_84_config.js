@@ -1,1 +1,1 @@
-var mnemonic = "help canvas dwarf sister seat sheriff satisfy review hip horn aware scout";
+var mnemonic = "orchard still monitor tobacco sing ski trash one cable field joy field";

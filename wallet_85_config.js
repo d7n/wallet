@@ -1,1 +1,1 @@
-var mnemonic = "position whale universe use lobster perfect antenna napkin celery deny bargain sauce";
+var mnemonic = "purity crisp resist rhythm bread whale wish ribbon iron crunch differ inside";

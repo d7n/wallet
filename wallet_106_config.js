@@ -1,1 +1,1 @@
-var mnemonic = "pool scrub letter antique flock impact ladder tourist trophy furnace arch enroll";
+var mnemonic = "frozen during olive custom clever tube refuse monitor solar neck below floor";

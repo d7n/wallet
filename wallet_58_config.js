@@ -1,1 +1,1 @@
-var mnemonic = "captain poet useful require curious evil high what knife cave control worth";
+var mnemonic = "mixture remember swing sister rack motor memory false display reunion fruit stable";

@@ -1,1 +1,1 @@
-var mnemonic = "crush detail pave globe top crazy banana kangaroo kind convince odor syrup";
+var mnemonic = "fatigue cement unfair model script pluck tattoo scrub seven jewel catch outside";

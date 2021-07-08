@@ -1,1 +1,1 @@
-var mnemonic = "miss food frame thank dirt curious ring mimic kind slight joy ignore";
+var mnemonic = "rescue room economy loop donate bench glass orient undo history picture brother";

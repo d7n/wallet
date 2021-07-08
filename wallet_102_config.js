@@ -1,1 +1,1 @@
-var mnemonic = "attend intact rail enjoy provide assume leaf fit agree original ecology argue";
+var mnemonic = "amount document east bracket library train already emotion move write notable involve";

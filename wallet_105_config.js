@@ -1,1 +1,1 @@
-var mnemonic = "fade old sustain fashion flavor hazard strategy tray prison love pyramid august";
+var mnemonic = "raven dutch repair three feature ramp answer foam multiply wool student merry";

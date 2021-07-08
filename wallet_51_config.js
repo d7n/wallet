@@ -1,1 +1,1 @@
-var mnemonic = "walk right brown defense castle album debris loop rebuild pledge educate clown";
+var mnemonic = "sphere snow crack bleak cream album drama metal farm garden stock boy";

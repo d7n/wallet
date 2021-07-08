@@ -1,1 +1,1 @@
-var mnemonic = "shed robust ship unveil educate obscure glory have wagon upset lock fuel";
+var mnemonic = "dune divorce quick boy spy distance supreme govern enemy expire soda survey";

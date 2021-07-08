@@ -1,1 +1,1 @@
-var mnemonic = "again weird visa nest unveil ketchup enhance fan expire matter deer happy";
+var mnemonic = "clever guilt similar shoe original urge empower mushroom depart avoid skull social";

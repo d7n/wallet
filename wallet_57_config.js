@@ -1,1 +1,1 @@
-var mnemonic = "cluster clerk filter danger someone begin picture uncover title witness fresh long";
+var mnemonic = "coral frame intact leader apple spread spray crunch celery breeze enforce mosquito";

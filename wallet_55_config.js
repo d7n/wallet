@@ -1,1 +1,1 @@
-var mnemonic = "neither sketch detect matrix cheese adapt slim citizen luxury lemon initial calm";
+var mnemonic = "notable pumpkin nose catch ancient crystal enjoy short width pave spring erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "mask price message once guitar loop melt can absent spoon repeat envelope";
+var mnemonic = "loan view motor possible object rule trap wing prosper salt fiscal gate";

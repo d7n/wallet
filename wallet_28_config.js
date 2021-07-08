@@ -1,1 +1,1 @@
-var mnemonic = "angry happy summer holiday tuition fire blush escape region rare abandon family";
+var mnemonic = "impact horn bread act exhibit green pull submit follow solid message replace";

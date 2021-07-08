@@ -1,1 +1,1 @@
-var mnemonic = "exercise destroy color shoe brass abandon ability canal uphold table keen legend";
+var mnemonic = "friend decrease mention sort where mask ceiling front swap zoo vacuum give";

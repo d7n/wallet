@@ -1,1 +1,1 @@
-var mnemonic = "mention armor rent security average thrive false expect album album dad shine";
+var mnemonic = "holiday custom private speak sauce doctor tribe legal powder hair tobacco second";

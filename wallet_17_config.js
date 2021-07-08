@@ -1,1 +1,1 @@
-var mnemonic = "thing coin tortoise photo know pumpkin filter panther equip almost like town";
+var mnemonic = "task snap open raise obscure meadow stock flip sad tide cram need";

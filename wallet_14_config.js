@@ -1,1 +1,1 @@
-var mnemonic = "excuse tennis crouch tunnel hour system run museum useful empty object false";
+var mnemonic = "cement sort company rule rose acid tattoo better grit guilt domain rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "few wool nominee near mobile win tennis obscure buddy moon arena naive";
+var mnemonic = "vital tired box grocery punch traffic cage space despair hen eagle onion";

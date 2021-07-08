@@ -1,1 +1,1 @@
-var mnemonic = "keen sadness torch note pair collect hood notice reopen wing festival perfect";
+var mnemonic = "trade catch spice unaware symptom kitten inmate culture cinnamon convince shrug fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel wide away flame gate switch typical festival mammal disagree unfair cinnamon";
+var mnemonic = "loan south trouble amazing bullet slow august obscure team still paper degree";

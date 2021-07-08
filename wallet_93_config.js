@@ -1,1 +1,1 @@
-var mnemonic = "nerve keep man animal acoustic will flavor rabbit denial enrich asthma afford";
+var mnemonic = "ill floor another ski gain produce assault forward cat farm clown sting";

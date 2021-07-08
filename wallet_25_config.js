@@ -1,1 +1,1 @@
-var mnemonic = "frequent abstract north tackle circle install crane arctic potato shoot hunt follow";
+var mnemonic = "pluck region penalty envelope suffer cradle uncover opinion vendor size various pilot";

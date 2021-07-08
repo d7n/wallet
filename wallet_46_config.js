@@ -1,1 +1,1 @@
-var mnemonic = "calm invest coffee now fan broccoli grant similar expose jewel behind barely";
+var mnemonic = "taste vapor true donor beauty swim misery child car edge icon rose";

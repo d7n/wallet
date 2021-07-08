@@ -1,1 +1,1 @@
-var mnemonic = "cram ethics wine yellow steak thought custom uphold prosper chef oval main";
+var mnemonic = "clinic please bullet surround nurse glove chase much flavor famous night enemy";

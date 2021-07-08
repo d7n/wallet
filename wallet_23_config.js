@@ -1,1 +1,1 @@
-var mnemonic = "beef film grass ghost job fame moral subway mask slow woman maze";
+var mnemonic = "close stable style exclude review alien neglect fish breeze call token stamp";

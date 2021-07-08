@@ -1,1 +1,1 @@
-var mnemonic = "oak media hedgehog science utility piano simple monster slight magic purity victory";
+var mnemonic = "gap security game mule wrong arrow enforce stumble express motion swap visit";

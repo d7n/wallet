@@ -1,1 +1,1 @@
-var mnemonic = "must bubble math tennis sort truth pride walnut hood thrive spell maze";
+var mnemonic = "tribe retire pelican story dress ice segment report master job luxury pet";

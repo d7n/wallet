@@ -1,1 +1,1 @@
-var mnemonic = "law poet net pudding insane axis term client pupil custom practice media";
+var mnemonic = "loyal foil cabbage twice police better marble beach civil faint trend cloud";

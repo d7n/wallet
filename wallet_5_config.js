@@ -1,1 +1,1 @@
-var mnemonic = "pave tide biology crawl salmon divert sunset grant diamond melody fortune broken";
+var mnemonic = "sell apology punch answer weasel cry vacant country use pencil lesson express";

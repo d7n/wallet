@@ -1,1 +1,1 @@
-var mnemonic = "liquid mutual artefact omit return height pen alarm accident motion wire duty";
+var mnemonic = "drama shell exchange drill cigar fog apple mountain puzzle dream praise welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty glue excuse bless throw crack infant correct fit relax sphere stadium";
+var mnemonic = "delay ripple tank retreat common away seek fly between boring sure unknown";

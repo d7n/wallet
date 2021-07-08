@@ -1,1 +1,1 @@
-var mnemonic = "post catch lizard tissue blur demand about adapt timber auto furnace rally";
+var mnemonic = "news course vicious outdoor anger thought aspect verb assault burger mechanic maple";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric flock surge prize room focus kid into shrug method divide stove";
+var mnemonic = "typical sun will benefit toast cannon gospel proof lonely select betray museum";

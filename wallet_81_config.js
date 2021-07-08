@@ -1,1 +1,1 @@
-var mnemonic = "trouble april cube neck volcano provide unique virtual shift pond paddle mountain";
+var mnemonic = "save exact taste warfare donor unlock cram burger marriage jaguar armed alien";

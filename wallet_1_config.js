@@ -1,1 +1,1 @@
-var mnemonic = "loud rose boring age effort copper unhappy collect fitness fog dice zebra";
+var mnemonic = "dad range ranch august candy assault lens undo vacant tackle balance casual";

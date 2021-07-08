@@ -1,1 +1,1 @@
-var mnemonic = "spoil flight cover dose merry unhappy exhibit start punch sheriff behave fiscal";
+var mnemonic = "height search palace marine wealth kiss bamboo field execute glue hire switch";

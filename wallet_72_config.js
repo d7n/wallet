@@ -1,1 +1,1 @@
-var mnemonic = "month glass solution inspire dolphin market brisk impact virus goddess bundle shove";
+var mnemonic = "magic inherit plug cage much friend entire burst chuckle penalty example year";

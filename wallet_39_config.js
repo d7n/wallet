@@ -1,1 +1,1 @@
-var mnemonic = "round dwarf lumber liberty purse daring opinion maximum estate whisper float toy";
+var mnemonic = "axis alone budget imitate range traffic gauge pen angle poet marine income";

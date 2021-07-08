@@ -1,1 +1,1 @@
-var mnemonic = "board evoke trash home olympic target dentist bridge casino trash tribe fault";
+var mnemonic = "relax praise ranch day vessel panther drama toss space rotate call rich";

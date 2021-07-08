@@ -1,1 +1,1 @@
-var mnemonic = "leg jazz sunset boss buyer swim cat potato village truck rhythm love";
+var mnemonic = "vivid master supreme team change small riot twin sell bulk actress kite";

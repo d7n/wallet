@@ -1,1 +1,1 @@
-var mnemonic = "sketch battle waste account kidney mistake come alpha august brand wasp evil";
+var mnemonic = "legend claw notable beauty seed aspect chapter bright price thing setup canyon";

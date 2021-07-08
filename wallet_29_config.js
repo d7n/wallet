@@ -1,1 +1,1 @@
-var mnemonic = "okay reveal cruel pulp era thank vapor enable mirror antique accident nothing";
+var mnemonic = "aisle gas arch armed swamp ride infant social rhythm pencil spray town";

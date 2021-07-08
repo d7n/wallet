@@ -1,1 +1,1 @@
-var mnemonic = "return ranch bird forest crush shoe fiction apple jaguar coil approve churn";
+var mnemonic = "foot amazing aim garlic city fire twenty virtual system govern dumb faith";

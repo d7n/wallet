@@ -1,1 +1,1 @@
-var mnemonic = "kitchen improve lecture produce two veteran brief hello gadget shrug device term";
+var mnemonic = "monkey athlete since diamond clap main over bullet citizen leisure era couch";

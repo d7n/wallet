@@ -1,1 +1,1 @@
-var mnemonic = "pigeon blind toss vault often absorb whip income amazing cluster velvet foil";
+var mnemonic = "punch define worry leaf yellow doll random snap rapid goddess all eager";

@@ -1,1 +1,1 @@
-var mnemonic = "brass chef shock sorry cage insane spring ask horror castle clown hockey";
+var mnemonic = "stamp capital theory govern pride series desk health pole defense era mail";

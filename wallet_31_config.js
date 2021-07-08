@@ -1,1 +1,1 @@
-var mnemonic = "mercy ability harbor donkey pig nature maid giraffe maple clown language business";
+var mnemonic = "sell chimney edge celery dwarf inmate autumn keep grief someone course magic";

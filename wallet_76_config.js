@@ -1,1 +1,1 @@
-var mnemonic = "display vacant onion viable proof basket puzzle weird scissors velvet where goose";
+var mnemonic = "echo pluck exotic best artefact improve entire wrestle glove rural raw ketchup";

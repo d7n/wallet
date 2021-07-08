@@ -1,1 +1,1 @@
-var mnemonic = "ripple siren cruise deputy grape crime decade vast shiver length much enrich";
+var mnemonic = "like silver hold sudden dragon total inspire disorder cement midnight make chunk";

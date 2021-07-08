@@ -1,1 +1,1 @@
-var mnemonic = "just train trial timber process nose toy notable trophy vintage ignore number";
+var mnemonic = "boss success island disagree flag animal habit around open siege hill earn";

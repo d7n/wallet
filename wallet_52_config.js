@@ -1,1 +1,1 @@
-var mnemonic = "category refuse tiger grass walk response ask acquire lizard upset believe panda";
+var mnemonic = "tornado enroll steel lyrics accident during core raven dragon ramp share coin";

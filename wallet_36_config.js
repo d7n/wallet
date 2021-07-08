@@ -1,1 +1,1 @@
-var mnemonic = "decade angle maximum winter warrior expire total mix clap order same attend";
+var mnemonic = "miracle giggle grape plunge pulse elite opinion other raw broccoli planet orphan";

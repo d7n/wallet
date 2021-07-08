@@ -1,1 +1,1 @@
-var mnemonic = "black gadget forest warfare circle direct coach isolate lunar devote neck cheese";
+var mnemonic = "analyst switch hurdle position viable path jeans submit they clown ensure above";

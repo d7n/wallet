@@ -1,1 +1,1 @@
-var mnemonic = "dream media lake stove romance debate also fee favorite garment behind finger";
+var mnemonic = "paddle ocean minor skin hello actor clay record hazard six debate paddle";

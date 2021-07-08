@@ -1,1 +1,1 @@
-var mnemonic = "search body flight derive into broom distance nephew usual lobster student wait";
+var mnemonic = "apology produce sustain radio dial security actual twin crowd work key cry";

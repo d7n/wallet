@@ -1,1 +1,1 @@
-var mnemonic = "beef another excite offer casual tenant host soccer page column ceiling above";
+var mnemonic = "carry wagon pretty popular peanut athlete leaf memory brother party now client";

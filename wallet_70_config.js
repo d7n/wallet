@@ -1,1 +1,1 @@
-var mnemonic = "lion twist consider decrease tray balcony impact attack decline horse thumb wrong";
+var mnemonic = "rich load badge often monkey room catch liar ethics carbon maid hockey";

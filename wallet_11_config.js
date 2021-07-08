@@ -1,1 +1,1 @@
-var mnemonic = "abandon hard slide build slab torch fuel know surprise hurdle ridge apology";
+var mnemonic = "rebuild century walnut leg unit guitar spread spy gather basic fun hard";
