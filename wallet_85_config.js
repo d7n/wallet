@@ -1,1 +1,1 @@
-var mnemonic = "rural scout race concert strike stool harsh energy bronze bench smart blood";
+var mnemonic = "dynamic lunch verb detail camera train say rice analyst gorilla scorpion quote";

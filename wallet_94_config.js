@@ -1,1 +1,1 @@
-var mnemonic = "repeat elevator glue impulse path design require allow security force infant ribbon";
+var mnemonic = "door crane any adult rack fly sort couch field smoke embrace river";

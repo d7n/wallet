@@ -1,1 +1,1 @@
-var mnemonic = "glide female require ladder script cover invest salon group prevent saddle code";
+var mnemonic = "payment disagree explain butter three ordinary laugh wave false advice baby naive";

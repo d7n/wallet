@@ -1,1 +1,1 @@
-var mnemonic = "usual bird cube sort cause betray sun voyage teach divide shop banner";
+var mnemonic = "blast divide banner such liar finish side uncover primary repair still rough";

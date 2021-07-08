@@ -1,1 +1,1 @@
-var mnemonic = "pig mountain knock include acquire unique shoulder decade blush begin horn daughter";
+var mnemonic = "flee trash prefer body pottery ring doll patient spare trigger skill reopen";

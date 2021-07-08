@@ -1,1 +1,1 @@
-var mnemonic = "bulk indoor caught shadow mosquito border mirror garbage endless noise furnace catalog";
+var mnemonic = "quit delay citizen drastic island dress crazy abuse goddess endorse close drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "where puzzle blast left clarify promote fun snap devote patient destroy must";
+var mnemonic = "maze pair seed risk permit paper local chair decline interest popular celery";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy inject oven roast clock expire drastic pigeon main excite rally social";
+var mnemonic = "street gift embody alpha supply label myself artist estate movie float snack";

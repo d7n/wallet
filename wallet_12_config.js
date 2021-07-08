@@ -1,1 +1,1 @@
-var mnemonic = "measure reopen broccoli razor nest fame critic visual term danger decrease float";
+var mnemonic = "border two drastic soccer stairs kitten cactus staff tomorrow number school lava";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform multiply alarm print deputy digital deny cup bronze client desert awesome";
+var mnemonic = "olive answer meat deal since relief ship weather better thrive thank omit";

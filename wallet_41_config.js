@@ -1,1 +1,1 @@
-var mnemonic = "cost rapid purse defense tribe comic debate nature safe devote museum solution";
+var mnemonic = "major inherit toy ancient elephant ice mammal awake will ritual bring price";

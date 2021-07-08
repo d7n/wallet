@@ -1,1 +1,1 @@
-var mnemonic = "normal limb blossom round nothing parent neither paper hedgehog link just glad";
+var mnemonic = "salute toss rib metal match solid depart elite menu elbow nest long";

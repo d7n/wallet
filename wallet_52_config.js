@@ -1,1 +1,1 @@
-var mnemonic = "upon cereal hen august subway poem rent reduce unaware example spare broom";
+var mnemonic = "awful change edge radio umbrella alone lens wage tooth frost ecology nasty";

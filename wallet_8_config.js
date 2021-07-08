@@ -1,1 +1,1 @@
-var mnemonic = "wrong actress ocean stone winner fame can history inner spring auction effort";
+var mnemonic = "eagle buyer bulk mandate hurry uncover naive harvest argue sword monkey blanket";

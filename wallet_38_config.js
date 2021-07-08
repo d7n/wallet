@@ -1,1 +1,1 @@
-var mnemonic = "thought notable foster skirt purpose lobster world awful idle rich exhibit embrace";
+var mnemonic = "mobile tongue because entire more guitar razor tube company stereo tank miss";

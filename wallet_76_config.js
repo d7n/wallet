@@ -1,1 +1,1 @@
-var mnemonic = "wood wink stamp life very angry caught volcano man misery orient canoe";
+var mnemonic = "deposit relief rice range actor run speed together excite keen foil focus";

@@ -1,1 +1,1 @@
-var mnemonic = "remain when asset airport raven walk catalog muscle brother melt mushroom area";
+var mnemonic = "inner trick excess jaguar rent skill castle hero ethics enrich tunnel misery";

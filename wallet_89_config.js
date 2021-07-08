@@ -1,1 +1,1 @@
-var mnemonic = "behind coast oven bunker essence bench second saddle again penalty trust grass";
+var mnemonic = "armor chest garlic dose same suspect print report talent wreck ritual door";

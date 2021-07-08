@@ -1,1 +1,1 @@
-var mnemonic = "slush talk cupboard biology forward invite lazy charge embody supreme tip void";
+var mnemonic = "south can gallery main rude taste father heart prison glow hunt radar";

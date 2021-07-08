@@ -1,1 +1,1 @@
-var mnemonic = "burst riot ghost large age wife hammer alpha someone key destroy hip";
+var mnemonic = "monkey around subway corn tube purse pair where hire antenna marriage spend";

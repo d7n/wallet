@@ -1,1 +1,1 @@
-var mnemonic = "around twelve city patrol west cross robot peasant walnut diesel surface text";
+var mnemonic = "dish three common kit obtain code when horn trumpet smooth purse foot";

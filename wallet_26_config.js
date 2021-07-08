@@ -1,1 +1,1 @@
-var mnemonic = "topple practice fat secret grant system together stove diet area marine near";
+var mnemonic = "post envelope attend cross offer crunch wheat acid worry pond swing afraid";

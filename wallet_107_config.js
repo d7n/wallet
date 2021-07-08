@@ -1,1 +1,1 @@
-var mnemonic = "oppose rice young tackle capital brick letter measure siren witness mandate pizza";
+var mnemonic = "muscle kitchen onion mango genuine melody copper buyer problem already promote immune";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist parade cool dial clip husband dream close radio theme stereo repeat";
+var mnemonic = "practice adjust oil trust sponsor main frozen rent approve morning coral smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid stamp giggle share immune arrive square phrase safe donate loyal capable";
+var mnemonic = "define vivid head eagle orange fit spread size floor expire express unhappy";

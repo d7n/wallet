@@ -1,1 +1,1 @@
-var mnemonic = "tide emotion minor silly fade under city shy child rib salad enforce";
+var mnemonic = "used asthma disease account page occur jacket forest venture orient guess rack";

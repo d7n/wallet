@@ -1,1 +1,1 @@
-var mnemonic = "flash start hint clean pair gaze pact breeze mention clog escape wise";
+var mnemonic = "round captain throw best blame bracket recall tape opera bunker venture over";

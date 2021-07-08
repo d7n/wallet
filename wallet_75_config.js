@@ -1,1 +1,1 @@
-var mnemonic = "fox rail hard swear scare half swift save crew flash crunch seminar";
+var mnemonic = "kingdom gadget define snack luggage alien faint amused east empower bind cat";

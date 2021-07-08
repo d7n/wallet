@@ -1,1 +1,1 @@
-var mnemonic = "garage custom since found spatial pottery brand guard banner over win typical";
+var mnemonic = "accuse fish clarify cry picture mail butter next fruit weather useless auction";

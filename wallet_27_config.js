@@ -1,1 +1,1 @@
-var mnemonic = "course suffer now damp blossom address autumn target upon render stem remain";
+var mnemonic = "leaf glimpse chuckle health useful combine earth tone execute stem tower minimum";

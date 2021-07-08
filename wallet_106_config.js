@@ -1,1 +1,1 @@
-var mnemonic = "interest slim between solar economy hold salon advice normal health wrestle sentence";
+var mnemonic = "switch element humble truck inflict flower slab tumble curtain baby earth twenty";

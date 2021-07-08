@@ -1,1 +1,1 @@
-var mnemonic = "rebel life staff jungle rival taxi family stable just all cruel provide";
+var mnemonic = "bacon best tomorrow rice before basic habit mixture artist addict wonder demand";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent suit high voice pattern rude book casino senior gospel pen slab";
+var mnemonic = "paper wing sock ripple setup blur bacon cannon sausage skin hamster forum";

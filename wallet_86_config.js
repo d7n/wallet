@@ -1,1 +1,1 @@
-var mnemonic = "zoo elder lecture crumble pig child trigger region next tip income solar";
+var mnemonic = "thrive know slice express spoil popular tree vast ostrich bird head science";

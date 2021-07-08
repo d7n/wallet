@@ -1,1 +1,1 @@
-var mnemonic = "book body fabric night they artefact fringe flip flavor glide arm garden";
+var mnemonic = "pattern vehicle roof glare legend vanish grid craft rug latin hard happy";

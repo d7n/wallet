@@ -1,1 +1,1 @@
-var mnemonic = "struggle pelican second wild amazing mouse around common half romance source left";
+var mnemonic = "inform disagree private shrimp enter gesture primary decorate nut program come maid";

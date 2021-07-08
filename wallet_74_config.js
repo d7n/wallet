@@ -1,1 +1,1 @@
-var mnemonic = "ride spoil under sort walk fitness violin can struggle useful move hover";
+var mnemonic = "alarm pioneer diet inherit nose air pretty primary sausage fall bench snake";

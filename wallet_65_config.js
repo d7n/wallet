@@ -1,1 +1,1 @@
-var mnemonic = "team happy extend raven lazy sting obvious taste more find decline dose";
+var mnemonic = "juice manual chuckle click pull exotic kind surface deputy shiver veteran surprise";

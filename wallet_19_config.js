@@ -1,1 +1,1 @@
-var mnemonic = "matter middle bronze grain adapt float open swap analyst empower thumb audit";
+var mnemonic = "height farm office evil clown lift purity economy guess outside collect pear";

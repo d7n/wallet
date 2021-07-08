@@ -1,1 +1,1 @@
-var mnemonic = "couch advance review melody furnace girl term salt planet boost direct grow";
+var mnemonic = "mind manage usual party monitor kiwi rain cloth fire feature orient blouse";

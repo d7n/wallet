@@ -1,1 +1,1 @@
-var mnemonic = "aspect suggest gown close welcome genius copper pioneer spot kick figure husband";
+var mnemonic = "girl ranch bid weapon abandon vibrant bus young guard copper veteran fabric";

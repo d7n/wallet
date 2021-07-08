@@ -1,1 +1,1 @@
-var mnemonic = "elephant shallow echo parrot file awkward denial involve expose stairs feed mail";
+var mnemonic = "casino order crisp odor awake curtain note segment main hunt boring hope";

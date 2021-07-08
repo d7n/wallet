@@ -1,1 +1,1 @@
-var mnemonic = "olive snap mercy equal neither all novel plug obscure glue crack usage";
+var mnemonic = "okay learn virus round end under rubber genuine guard banner bargain wagon";

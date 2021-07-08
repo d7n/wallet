@@ -1,1 +1,1 @@
-var mnemonic = "claim unusual tired base pioneer grass fluid resemble swim ladder mountain farm";
+var mnemonic = "produce radio protect build stomach sunset act thrive wash someone reduce cancel";

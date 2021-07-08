@@ -1,1 +1,1 @@
-var mnemonic = "early congress owner little pencil win crisp foster stem cactus almost ocean";
+var mnemonic = "erode become baby pudding glimpse bottom success pause half mosquito tree moment";

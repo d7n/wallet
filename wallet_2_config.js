@@ -1,1 +1,1 @@
-var mnemonic = "lucky canal mimic curious viable moral helmet subject case slab kitchen hamster";
+var mnemonic = "gloom mirror mosquito near please fabric strong only estate merry sweet glow";

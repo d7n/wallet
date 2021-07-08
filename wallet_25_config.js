@@ -1,1 +1,1 @@
-var mnemonic = "venture patch decorate crash nephew today keen tone order tobacco behave elite";
+var mnemonic = "galaxy prize around great oblige dynamic idle doctor pen hint kitten rally";

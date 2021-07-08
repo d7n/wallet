@@ -1,1 +1,1 @@
-var mnemonic = "raw tray peasant raccoon lucky daughter fashion remind ignore adjust decrease consider";
+var mnemonic = "bike minimum bottom bridge change buffalo clump raw rug pass opera south";

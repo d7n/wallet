@@ -1,1 +1,1 @@
-var mnemonic = "curtain field borrow cushion rice empty team misery avoid siren identify hat";
+var mnemonic = "weasel timber guilt pepper bamboo fabric leave name depend catch opera code";

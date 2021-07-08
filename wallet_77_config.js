@@ -1,1 +1,1 @@
-var mnemonic = "assault divorce title luggage settle file viable bamboo tuna feel whale surprise";
+var mnemonic = "solution swim other festival auto win yellow spoil rebuild expose pulp stuff";

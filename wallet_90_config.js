@@ -1,1 +1,1 @@
-var mnemonic = "setup like later scissors forest pizza fall clarify train slab seven jar";
+var mnemonic = "leaf copper chase picnic alarm apart fault rain jazz combine another soul";

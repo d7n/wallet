@@ -1,1 +1,1 @@
-var mnemonic = "soldier boat cart they diagram parade refuse achieve track pumpkin family year";
+var mnemonic = "jeans fall course annual autumn try grow kiwi worth love cat mosquito";

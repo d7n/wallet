@@ -1,1 +1,1 @@
-var mnemonic = "mimic bounce gesture funny outer similar differ mutual about country artwork churn";
+var mnemonic = "eight total else anchor elder host nice wool horn present champion spin";

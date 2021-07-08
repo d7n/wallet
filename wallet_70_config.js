@@ -1,1 +1,1 @@
-var mnemonic = "century drive hen puppy apology edge pencil begin rabbit that summer cupboard";
+var mnemonic = "uphold dwarf scene keen fire large simple tail guilt hazard glass walk";

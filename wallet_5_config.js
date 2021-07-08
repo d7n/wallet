@@ -1,1 +1,1 @@
-var mnemonic = "ozone hamster mango swallow phone gas wrestle punch detail fit guess fire";
+var mnemonic = "rural ostrich flock gown gorilla inject method chat build carry bargain rose";

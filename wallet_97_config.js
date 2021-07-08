@@ -1,1 +1,1 @@
-var mnemonic = "gasp ecology energy mushroom blouse apple tree thumb casual stadium wheat there";
+var mnemonic = "build manage index saddle pluck any obtain brisk sea caught stay anxiety";

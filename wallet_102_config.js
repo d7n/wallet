@@ -1,1 +1,1 @@
-var mnemonic = "best cereal chapter increase answer balance bracket share brick butter crater room";
+var mnemonic = "cabbage peasant equal action alone layer noble tray twenty world neck private";

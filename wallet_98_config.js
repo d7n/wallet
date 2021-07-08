@@ -1,1 +1,1 @@
-var mnemonic = "pave catch tilt disagree promote major size useful elevator boring rose find";
+var mnemonic = "document monitor moment alarm catalog flash sword tunnel fade scissors expect dance";

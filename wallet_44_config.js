@@ -1,1 +1,1 @@
-var mnemonic = "morning setup notable book shy capable now organ garden another dry edit";
+var mnemonic = "thrive bulk foam rocket tide celery raccoon treat excess vague limit motor";

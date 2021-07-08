@@ -1,1 +1,1 @@
-var mnemonic = "rebuild chat long weather such anxiety enjoy embark scene nation human sure";
+var mnemonic = "pretty digital invest obvious antenna receive patient damp feel glove capital dismiss";

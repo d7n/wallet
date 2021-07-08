@@ -1,1 +1,1 @@
-var mnemonic = "right fade door dog summer prison ice ramp medal gain drum museum";
+var mnemonic = "palace artefact drop settle churn lawn boring casino actress okay flower throw";

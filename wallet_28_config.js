@@ -1,1 +1,1 @@
-var mnemonic = "skin gauge image auction happy live vicious trade drama inherit chair easy";
+var mnemonic = "market arena brain universe left cupboard question feed include sun infant despair";

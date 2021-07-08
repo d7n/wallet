@@ -1,1 +1,1 @@
-var mnemonic = "abandon divert fiscal vote keep such deliver dress bamboo clarify eternal actual";
+var mnemonic = "quarter taste palm kid outer forward stairs garment model faint situate hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "term shoe cloud consider segment cloth dutch remove sphere awake near layer";
+var mnemonic = "easily same lemon opinion spell metal corn myself pelican above prevent cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "round obvious live bronze train antique salmon keep silent height ignore fabric";
+var mnemonic = "cushion case just canvas rigid wage pet genuine alter admit emotion exit";

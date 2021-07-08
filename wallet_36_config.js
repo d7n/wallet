@@ -1,1 +1,1 @@
-var mnemonic = "soccer when grid barrel attend knee spoon mention steel sudden govern hospital";
+var mnemonic = "theme marble bright summer ridge bitter quality life script mixed beyond slam";

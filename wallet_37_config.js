@@ -1,1 +1,1 @@
-var mnemonic = "quarter there rural strike good light hand habit silent theme car behind";
+var mnemonic = "file gloom thing daughter crucial pear mixture lounge width practice lawn rug";

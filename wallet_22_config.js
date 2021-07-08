@@ -1,1 +1,1 @@
-var mnemonic = "hazard gold short clay usual tube solve photo wire make amateur uncover";
+var mnemonic = "census reform current lottery tip best chicken build jungle soon narrow tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "cause theme actress congress menu frog cause discover deny shift above thumb";
+var mnemonic = "symbol private east grid tell pattern frost unlock mercy oxygen pledge bargain";

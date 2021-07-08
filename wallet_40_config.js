@@ -1,1 +1,1 @@
-var mnemonic = "tone print pyramid kid sentence bracket glide provide void estate sing success";
+var mnemonic = "uphold index brisk kiss omit orbit license long tonight ask arctic oxygen";

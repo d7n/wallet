@@ -1,1 +1,1 @@
-var mnemonic = "tube life major attract clap invite despair crane turtle pet banner typical";
+var mnemonic = "number token traffic deputy dove youth moral fame push found reopen pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "annual fuel husband arrange depth panic leaf also fatigue snap cliff amount";
+var mnemonic = "gift coconut conduct result throw elevator ostrich hurdle subway noodle minute adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "change media army melody oyster shy fantasy rule shove kind capable network";
+var mnemonic = "mouse action hawk toe tape potato tobacco quote manual hurdle never rather";

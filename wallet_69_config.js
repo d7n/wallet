@@ -1,1 +1,1 @@
-var mnemonic = "keep cherry wheat celery stool smile clever romance burden worth shiver orange";
+var mnemonic = "journey table alpha sword loyal into vapor price snack isolate become oyster";

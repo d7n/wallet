@@ -1,1 +1,1 @@
-var mnemonic = "cactus stage bachelor swift umbrella flat paddle sure puppy flock success submit";
+var mnemonic = "tomorrow salute circle law abstract rookie measure onion sure spatial click relief";

@@ -1,1 +1,1 @@
-var mnemonic = "relief frost spare easy emerge evidence visual chief parent beyond replace glad";
+var mnemonic = "govern emotion utility slice abuse void catalog cry pitch motion oblige breeze";

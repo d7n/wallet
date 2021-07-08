@@ -1,1 +1,1 @@
-var mnemonic = "market jar burger discover plastic congress door melody horror glass turkey canoe";
+var mnemonic = "various say crunch wedding resist glad stock napkin betray ladder old plastic";

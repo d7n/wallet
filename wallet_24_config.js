@@ -1,1 +1,1 @@
-var mnemonic = "park alarm vague undo pet maid isolate apple devote ozone unique caution";
+var mnemonic = "bind gorilla pistol seminar tackle chase poet era ceiling glow mushroom possible";

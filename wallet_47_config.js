@@ -1,1 +1,1 @@
-var mnemonic = "noble peasant alpha fox drill marble grape normal hat stamp virus security";
+var mnemonic = "globe stool neck easily humor century intact match legal segment sort often";

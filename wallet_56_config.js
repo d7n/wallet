@@ -1,1 +1,1 @@
-var mnemonic = "extra oblige extra wink panther network void garment bean fancy paper universe";
+var mnemonic = "become paddle volume pink enemy blast labor entry fork forum hole transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "detail raven citizen attack flag call stock help ribbon tiny hero blossom";
+var mnemonic = "mirror grass source famous paddle rule casino swallow motor practice clutch climb";

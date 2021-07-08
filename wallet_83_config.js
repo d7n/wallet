@@ -1,1 +1,1 @@
-var mnemonic = "hurry universe source address delay sphere forget valid basket public frequent arrest";
+var mnemonic = "license base theme embody divorce resist sort document school treat ten vague";

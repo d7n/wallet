@@ -1,1 +1,1 @@
-var mnemonic = "bring olympic vague faith caught month top tent amused busy amount dream";
+var mnemonic = "hero lecture swarm scene ill regular capable legend wolf erosion place fragile";

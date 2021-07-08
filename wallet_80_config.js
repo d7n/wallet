@@ -1,1 +1,1 @@
-var mnemonic = "silly negative transfer federal swarm antique clay fold mixed educate rival bus";
+var mnemonic = "few erupt remain viable sign awesome trick choose useful poet film obvious";

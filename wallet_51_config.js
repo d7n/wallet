@@ -1,1 +1,1 @@
-var mnemonic = "rebuild right patrol pair coral vintage label among neck bicycle elephant wheat";
+var mnemonic = "rubber salon trash cinnamon leg project layer crush approve spirit eagle join";

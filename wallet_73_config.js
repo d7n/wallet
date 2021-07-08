@@ -1,1 +1,1 @@
-var mnemonic = "quick fox town mesh magic divert welcome exhibit father prefer tumble ship";
+var mnemonic = "guard media own profit task warfare pistol festival picnic tail curtain liberty";

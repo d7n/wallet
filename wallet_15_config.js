@@ -1,1 +1,1 @@
-var mnemonic = "never scorpion grass box wash flame pear torch ecology country frozen cradle";
+var mnemonic = "avoid welcome kit fabric under bar fame coin manage inquiry diary machine";

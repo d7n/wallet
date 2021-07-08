@@ -1,1 +1,1 @@
-var mnemonic = "place drama correct turtle major first city virtual brown gauge mask mobile";
+var mnemonic = "approve gossip enable prepare fever mask sentence wear crush cake resist volcano";

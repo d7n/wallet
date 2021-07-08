@@ -1,1 +1,1 @@
-var mnemonic = "magic coin rice false impact fine inject artist arrange pride diet opera";
+var mnemonic = "next leave earn canoe room vintage tumble ride license shift idle stadium";
