@@ -1,1 +1,1 @@
-var mnemonic = "car man original wear parent trade poem power chunk pact flee effort";
+var mnemonic = "member best have hope inside major miracle round custom simple crop coil";

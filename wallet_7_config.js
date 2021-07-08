@@ -1,1 +1,1 @@
-var mnemonic = "jealous such cause assume morning comic best airport job wasp despair furnace";
+var mnemonic = "sustain goddess modify width between grocery crane crash trouble spy swing gap";

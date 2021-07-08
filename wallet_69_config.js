@@ -1,1 +1,1 @@
-var mnemonic = "attack sorry oxygen depart mixture clip select summer cage visit infant grain";
+var mnemonic = "naive entry name sister later danger siege spend please term emerge visa";

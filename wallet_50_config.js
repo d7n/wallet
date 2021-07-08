@@ -1,1 +1,1 @@
-var mnemonic = "estate nation poem charge tip warm please write chief expect fat snake";
+var mnemonic = "large express arrow harsh oil lawn pyramid end light place hidden decrease";

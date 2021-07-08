@@ -1,1 +1,1 @@
-var mnemonic = "culture yard crash hunt ordinary embody topic guilt glove derive risk method";
+var mnemonic = "polar arm gasp matter grow jungle draft refuse village client donate design";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken artefact city stuff spread split edge warm foil crouch window broccoli";
+var mnemonic = "maximum box slam patrol prefer canyon obtain among club slim over candy";

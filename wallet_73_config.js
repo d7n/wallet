@@ -1,1 +1,1 @@
-var mnemonic = "luggage rude dragon wrong prosper kid tennis idea alert obscure floor mansion";
+var mnemonic = "world junior share express nation next firm clip hip wing enemy kingdom";

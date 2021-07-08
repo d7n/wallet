@@ -1,1 +1,1 @@
-var mnemonic = "iron file zero enable about rhythm damage blush rifle cradle polar dilemma";
+var mnemonic = "great atom gallery fantasy swallow chaos fury tide document about sport ladder";

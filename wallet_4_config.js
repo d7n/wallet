@@ -1,1 +1,1 @@
-var mnemonic = "amateur pudding near ancient series lucky text meadow elephant exact memory feature";
+var mnemonic = "above install manual differ escape setup hunt already exotic pluck swim domain";

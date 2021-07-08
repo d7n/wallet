@@ -1,1 +1,1 @@
-var mnemonic = "law yellow wave relief diary raccoon rural because rare exist arm leader";
+var mnemonic = "edge obscure tomato cage detect ancient surround unaware habit catch huge fiscal";

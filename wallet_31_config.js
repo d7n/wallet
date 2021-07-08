@@ -1,1 +1,1 @@
-var mnemonic = "they between afford marriage age again private earn toss fortune garbage office";
+var mnemonic = "busy pioneer coil letter family uniform ridge walnut shock naive angle almost";

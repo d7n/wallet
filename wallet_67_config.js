@@ -1,1 +1,1 @@
-var mnemonic = "come question identify differ meadow tooth source model circle pencil minor property";
+var mnemonic = "brother mad blouse industry card brush above kind dynamic claim embody area";

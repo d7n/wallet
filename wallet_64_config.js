@@ -1,1 +1,1 @@
-var mnemonic = "exhaust loan recycle river blush smoke only review jump elevator pumpkin secret";
+var mnemonic = "dress ozone husband village behind fade cancel art track neck clerk castle";

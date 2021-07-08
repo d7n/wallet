@@ -1,1 +1,1 @@
-var mnemonic = "pulp brave sentence install mix ticket immune congress thought bright surprise swing";
+var mnemonic = "force giant knock develop slender genre same sniff accident replace turn antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble spider monster current nothing brand among sure barrel mean coast control";
+var mnemonic = "order script level immune canvas dice seed fly leg deal small charge";

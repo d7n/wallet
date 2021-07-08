@@ -1,1 +1,1 @@
-var mnemonic = "core loan rice fiction music few solution feature where pause cute thunder";
+var mnemonic = "tenant help faculty aim phrase balcony end into acid guess hello ginger";

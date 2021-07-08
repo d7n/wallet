@@ -1,1 +1,1 @@
-var mnemonic = "certain web fabric shy pole bean chase yard age coil upgrade bonus";
+var mnemonic = "muscle tenant rug awful gravity neck offer near artwork typical winter across";

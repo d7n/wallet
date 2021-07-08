@@ -1,1 +1,1 @@
-var mnemonic = "spider maximum fun blur build depth wrist leaf pioneer inform you thank";
+var mnemonic = "chapter orchard guess hair crucial demand forward clever fancy about swarm ability";

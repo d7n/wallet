@@ -1,1 +1,1 @@
-var mnemonic = "siren garment mule vital fog logic kid since bargain gather labor pattern";
+var mnemonic = "swallow robust book tattoo urban eye clarify olympic entry crawl infant kiwi";

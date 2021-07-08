@@ -1,1 +1,1 @@
-var mnemonic = "veteran produce ship margin muffin tonight prepare enough duck buyer trade join";
+var mnemonic = "number mule sauce enact tooth term picture audit rich split trick noodle";

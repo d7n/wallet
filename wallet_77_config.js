@@ -1,1 +1,1 @@
-var mnemonic = "flavor mad network push space vague tower question clap cluster senior chef";
+var mnemonic = "balcony typical margin angry aware duck gift health wool tiger atom dish";

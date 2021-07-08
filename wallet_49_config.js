@@ -1,1 +1,1 @@
-var mnemonic = "ignore joy rib wheat lion diagram cliff summer motion butter sure sunset";
+var mnemonic = "vast laugh spawn exchange ignore summer achieve arch deposit pen close panda";

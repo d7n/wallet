@@ -1,1 +1,1 @@
-var mnemonic = "dune wrist office action tunnel aim prosper process eternal mosquito diet smart";
+var mnemonic = "demise height mixture home acid toe gravity jelly interest eagle garbage sorry";

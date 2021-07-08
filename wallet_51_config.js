@@ -1,1 +1,1 @@
-var mnemonic = "what shove calm census economy jelly soccer satisfy throw because sure pear";
+var mnemonic = "scrub soccer solution rebel brain body parent rail body into mushroom metal";

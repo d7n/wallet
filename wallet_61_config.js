@@ -1,1 +1,1 @@
-var mnemonic = "weapon entire submit arrange group mirror torch guitar object cattle beauty play";
+var mnemonic = "sweet health switch hand video climb slow tattoo wet act thrive miracle";

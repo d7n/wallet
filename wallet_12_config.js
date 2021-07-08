@@ -1,1 +1,1 @@
-var mnemonic = "axis render piano digital average kiss please attend crack sad draw bomb";
+var mnemonic = "crystal use maze jaguar junk miracle alley relief mechanic alert sorry sadness";

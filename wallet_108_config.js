@@ -1,1 +1,1 @@
-var mnemonic = "metal nest catch defense release rural steel swim inside bench hint oak";
+var mnemonic = "scout enforce hurdle online bring since road ability erase chair rare hotel";

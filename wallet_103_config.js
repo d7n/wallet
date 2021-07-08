@@ -1,1 +1,1 @@
-var mnemonic = "cloth link solution negative skate mouse side ice catch modify minute assume";
+var mnemonic = "evolve drink cram west illness lens album mammal kiwi absent clarify fence";

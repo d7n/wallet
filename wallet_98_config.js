@@ -1,1 +1,1 @@
-var mnemonic = "roast response deputy vintage license drama voyage pilot cute siren layer pulp";
+var mnemonic = "clinic chronic pull secret mango symptom april crowd athlete magnet clinic raw";

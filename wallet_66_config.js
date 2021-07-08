@@ -1,1 +1,1 @@
-var mnemonic = "maid chase engage uphold foam pistol machine diesel flock awful goat plate";
+var mnemonic = "apple vintage way buddy swarm hub keep crush wish hover agree police";

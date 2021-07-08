@@ -1,1 +1,1 @@
-var mnemonic = "chase canal around throw faculty industry fat issue ask relax dilemma industry";
+var mnemonic = "call left naive pause injury property onion suffer demand gentle shoulder useless";

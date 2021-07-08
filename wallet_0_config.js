@@ -1,1 +1,1 @@
-var mnemonic = "poet elephant flame jungle canal dust agree invest panel book angle debate";
+var mnemonic = "brand process oppose insect soccer drill nest myth release situate net this";

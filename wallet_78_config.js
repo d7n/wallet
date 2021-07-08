@@ -1,1 +1,1 @@
-var mnemonic = "journey veteran spare grit era item indoor scrub throw coyote attitude enrich";
+var mnemonic = "together chapter capable abuse fuel require require antique bicycle trouble scale drastic";

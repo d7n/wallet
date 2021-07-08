@@ -1,1 +1,1 @@
-var mnemonic = "fat name tattoo random destroy lyrics mercy axis profit memory maple street";
+var mnemonic = "live buddy impose unfair rotate intact trash panther enact output health morning";

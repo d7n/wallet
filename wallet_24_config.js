@@ -1,1 +1,1 @@
-var mnemonic = "stomach inherit mom giggle seek split taste inspire jungle spin lottery grief";
+var mnemonic = "shoulder uncover baby jar security chaos foam assault mail mimic tongue kind";

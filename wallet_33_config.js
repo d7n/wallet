@@ -1,1 +1,1 @@
-var mnemonic = "purchase make fresh peasant man tide double human east garden stumble one";
+var mnemonic = "popular eight remind noise toss victory rebel under that rice loyal they";

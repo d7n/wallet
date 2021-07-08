@@ -1,1 +1,1 @@
-var mnemonic = "advice wife mesh pave mimic void fiber success three away hockey hedgehog";
+var mnemonic = "symbol century execute apology nasty tell gaze horse category trouble green favorite";

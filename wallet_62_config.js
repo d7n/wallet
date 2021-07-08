@@ -1,1 +1,1 @@
-var mnemonic = "hat season bulb cattle allow surge laugh inch brown mind rifle share";
+var mnemonic = "mercy brass put enjoy eight trend tomato divorce mad small year ribbon";

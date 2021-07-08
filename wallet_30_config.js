@@ -1,1 +1,1 @@
-var mnemonic = "neither hammer region cute length angle wage mention fantasy wasp rail absurd";
+var mnemonic = "source sure gloom title fuel secret scare ensure outdoor solution crowd unable";

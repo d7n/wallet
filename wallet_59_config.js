@@ -1,1 +1,1 @@
-var mnemonic = "wheat system check topple few senior umbrella pig train that mesh deer";
+var mnemonic = "grain author stable stumble genius couch victory prefer entry shell solve material";

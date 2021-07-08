@@ -1,1 +1,1 @@
-var mnemonic = "market husband raise stone onion try armed dismiss duty dry board mouse";
+var mnemonic = "display tragic blush soldier marine evolve lift cousin release surprise burden maid";

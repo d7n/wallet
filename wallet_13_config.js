@@ -1,1 +1,1 @@
-var mnemonic = "find copper warfare hard frozen member ready name rural fun soon still";
+var mnemonic = "diary milk profit permit cup rigid bench two fan food lamp alpha";

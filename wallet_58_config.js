@@ -1,1 +1,1 @@
-var mnemonic = "beef bar mention dune kite put imitate survey champion want clean misery";
+var mnemonic = "fatal brief spread skate stumble walnut fruit buyer secret join rabbit lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil bike topic master weapon alter style scatter boost moon reject below";
+var mnemonic = "bonus faint napkin leopard demand pudding foster token pave ancient skin suffer";

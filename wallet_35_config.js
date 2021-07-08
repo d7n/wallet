@@ -1,1 +1,1 @@
-var mnemonic = "rapid ethics cabbage dream until online knock moon physical worth blue embrace";
+var mnemonic = "often pride crumble secret cousin climb junk join boat valley theory use";

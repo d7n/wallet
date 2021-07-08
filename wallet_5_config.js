@@ -1,1 +1,1 @@
-var mnemonic = "glove valve robot else bitter tornado retire leisure scout rubber fantasy romance";
+var mnemonic = "extra glass error true trigger kiss cargo point chase vapor nominee pitch";

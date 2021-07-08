@@ -1,1 +1,1 @@
-var mnemonic = "horror fence wink march gather ride february sister prosper build damp obscure";
+var mnemonic = "tag soda forest episode open basket plastic pass increase ocean put young";

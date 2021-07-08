@@ -1,1 +1,1 @@
-var mnemonic = "source action spike eternal easy mimic birth park flight clutch around hire";
+var mnemonic = "stick response urge marine render tumble eternal tuition toward grid extend drop";

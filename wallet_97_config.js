@@ -1,1 +1,1 @@
-var mnemonic = "device impulse water velvet humor bleak dismiss blade can job exhibit current";
+var mnemonic = "autumn invest silver nose degree poverty tip lion multiply ramp grain picture";

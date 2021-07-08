@@ -1,1 +1,1 @@
-var mnemonic = "face acquire funny business exact rose celery guess habit film twenty upset";
+var mnemonic = "segment miracle lawn degree equip square save champion addict lumber ritual outdoor";

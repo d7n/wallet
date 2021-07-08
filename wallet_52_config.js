@@ -1,1 +1,1 @@
-var mnemonic = "tide ice gift popular slogan jazz learn absurd deal attack captain uniform";
+var mnemonic = "stem grass burger normal tail gym brave escape movie fragile strike speed";

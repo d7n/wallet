@@ -1,1 +1,1 @@
-var mnemonic = "task crack only fog oval crunch write panther leader fashion volume negative";
+var mnemonic = "organ plate welcome road slide voyage mixed country place age awkward require";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck piece mutual weasel wheel plate donkey planet draw note burger print";
+var mnemonic = "empower motor security donor page soccer rapid tube jar noble measure clever";

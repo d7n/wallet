@@ -1,1 +1,1 @@
-var mnemonic = "grace trade group surface luggage material oven unknown old battle december lunar";
+var mnemonic = "fever remain useless run siren feel awful once weekend scrap arena stadium";

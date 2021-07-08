@@ -1,1 +1,1 @@
-var mnemonic = "moon ramp toward trap sea nephew figure grit benefit mesh fine thought";
+var mnemonic = "visa only blind saddle option scheme dizzy kingdom vault chicken future fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "venue habit airport speak mass little there ability student fragile refuse owner";
+var mnemonic = "glass trap prize weird father maze display switch devote pig start spider";

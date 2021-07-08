@@ -1,1 +1,1 @@
-var mnemonic = "valley fatal pyramid tent student liar impose tuition scheme never valve shoe";
+var mnemonic = "purse final nose twelve future wild trap riot struggle diary sail tired";

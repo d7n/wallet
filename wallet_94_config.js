@@ -1,1 +1,1 @@
-var mnemonic = "cash crumble ugly rare put exotic remind better noise area unusual pioneer";
+var mnemonic = "detect float album debate crumble sibling light leader royal jump legend spice";

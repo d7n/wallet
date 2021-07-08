@@ -1,1 +1,1 @@
-var mnemonic = "surround evolve crumble idle celery canyon nuclear crouch wife lizard basket oak";
+var mnemonic = "mixture bulk edge sell denial deal bunker fabric volcano crowd embody ticket";

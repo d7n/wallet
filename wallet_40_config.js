@@ -1,1 +1,1 @@
-var mnemonic = "avoid claim submit finger file display neglect series joke under wedding response";
+var mnemonic = "violin hurdle moon verify island emerge response pact toe leisure aim father";

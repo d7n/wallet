@@ -1,1 +1,1 @@
-var mnemonic = "spend update actual riot attack hat tired cheese west cheap office pave";
+var mnemonic = "slight panel report junk attitude convince super current donate opera early accident";

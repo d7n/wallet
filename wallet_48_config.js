@@ -1,1 +1,1 @@
-var mnemonic = "soccer jazz inflict physical doll canyon worry agent lock olympic number lizard";
+var mnemonic = "evolve almost favorite rib wrap join hotel never myself praise sugar goddess";

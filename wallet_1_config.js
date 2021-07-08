@@ -1,1 +1,1 @@
-var mnemonic = "only daring rally photo silent april congress detect series recipe grass tunnel";
+var mnemonic = "pair seed print wedding print cabin road survey heart essence cave current";

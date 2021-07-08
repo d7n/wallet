@@ -1,1 +1,1 @@
-var mnemonic = "retreat wrap improve doctor useless boost morning lyrics tribe beef what shield";
+var mnemonic = "fossil interest tent increase spray crowd betray artefact expose moon ring mail";

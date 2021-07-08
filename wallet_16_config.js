@@ -1,1 +1,1 @@
-var mnemonic = "card quick nut ribbon author sense during frozen rib enter flag improve";
+var mnemonic = "hen security decorate field turn uncle imitate nurse owner dune flat blue";

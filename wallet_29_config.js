@@ -1,1 +1,1 @@
-var mnemonic = "suffer river about rug blade idle avocado brother basket churn desert fringe";
+var mnemonic = "tuna ostrich pact unfold gown because name scare cherry news nasty truck";

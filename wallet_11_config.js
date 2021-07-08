@@ -1,1 +1,1 @@
-var mnemonic = "ecology degree clump tuna track weather cross upper prosper finger demise hood";
+var mnemonic = "category exhibit shine guess ghost cart develop canal plunge then tooth pill";

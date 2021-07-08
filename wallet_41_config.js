@@ -1,1 +1,1 @@
-var mnemonic = "sock link invest session income corn arrow toward soon save riot teach";
+var mnemonic = "solid sphere area stove glove scare city file cattle way trash manage";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz diet broken view regret extend mammal very mule fever episode labor";
+var mnemonic = "lab evoke raccoon pumpkin salad sauce cake wasp cat beyond stairs phrase";

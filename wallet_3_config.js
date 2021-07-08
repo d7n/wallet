@@ -1,1 +1,1 @@
-var mnemonic = "away mean brand behind nerve flock used civil sort craft depth crane";
+var mnemonic = "claim script galaxy cruise action roast alpha region frown security frozen output";

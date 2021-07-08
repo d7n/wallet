@@ -1,1 +1,1 @@
-var mnemonic = "nice liar require kind cover nuclear inside swamp seat gun mutual peasant";
+var mnemonic = "agent harvest green amused render imitate detect fruit lumber parrot game mistake";

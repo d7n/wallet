@@ -1,1 +1,1 @@
-var mnemonic = "lazy flush copper arrest arrow fiction good doll job vote wasp green";
+var mnemonic = "medal coach honey symbol nothing nerve rain unit twice recipe snack believe";

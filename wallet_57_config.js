@@ -1,1 +1,1 @@
-var mnemonic = "enhance sketch actor choose squirrel agent baby under rug index flock fiction";
+var mnemonic = "soccer keen fence team mystery essence blush cabbage daring skull oval buyer";

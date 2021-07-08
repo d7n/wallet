@@ -1,1 +1,1 @@
-var mnemonic = "spatial science fatal problem space immune little area gain hotel liberty bitter";
+var mnemonic = "message organ corn slab cat toddler choice there feel master naive symbol";

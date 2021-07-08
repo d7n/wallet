@@ -1,1 +1,1 @@
-var mnemonic = "mirror auction short win obey kangaroo marine camp spice awesome rhythm there";
+var mnemonic = "elegant utility tower replace arctic peanut become supreme upset credit core stable";

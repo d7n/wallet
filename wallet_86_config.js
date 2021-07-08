@@ -1,1 +1,1 @@
-var mnemonic = "trap success smile decorate include inherit build carbon theory husband blue planet";
+var mnemonic = "truck cabbage vanish hundred weasel punch solution snap drill dust duty first";

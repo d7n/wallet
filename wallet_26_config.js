@@ -1,1 +1,1 @@
-var mnemonic = "walk inch future empower ice dumb soccer eyebrow resource possible kit develop";
+var mnemonic = "quiz garden surround stock shift ghost chest original address text gather arena";

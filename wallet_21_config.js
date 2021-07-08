@@ -1,1 +1,1 @@
-var mnemonic = "armed few soul diary seminar portion second excess lab head faith pig";
+var mnemonic = "wing pitch use supply jump genuine recall soft always ancient account mask";

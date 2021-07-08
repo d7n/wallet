@@ -1,1 +1,1 @@
-var mnemonic = "beyond define stomach point sustain left now cigar armor crawl pink bottom";
+var mnemonic = "they session genuine remove vintage exit pyramid dose harbor immense unveil canal";

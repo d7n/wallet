@@ -1,1 +1,1 @@
-var mnemonic = "extend purchase select antenna analyst inquiry panda boring tiny habit insect pony";
+var mnemonic = "broken demise slam edge crumble melt labor crane talk actual laptop sun";

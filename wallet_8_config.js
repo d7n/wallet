@@ -1,1 +1,1 @@
-var mnemonic = "vessel safe rule express spider weasel nature myth car lunch over jelly";
+var mnemonic = "whisper claw year husband chef exchange tomato proof diet truck promote upper";

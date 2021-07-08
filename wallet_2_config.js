@@ -1,1 +1,1 @@
-var mnemonic = "sure few hip middle oak portion flavor pen derive fan slim meadow";
+var mnemonic = "unknown velvet umbrella uniform cycle foot similar absurd initial ribbon use bachelor";

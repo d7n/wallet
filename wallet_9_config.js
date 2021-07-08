@@ -1,1 +1,1 @@
-var mnemonic = "design hip reveal debate forest subject between consider index umbrella embrace mass";
+var mnemonic = "bunker legal blast water quit path critic firm verb cart veteran trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "word twelve bundle label fork glare world defy deputy fury coconut electric";
+var mnemonic = "tiger rice blood myself negative trial embody powder olive two piano capital";

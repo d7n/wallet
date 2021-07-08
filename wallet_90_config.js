@@ -1,1 +1,1 @@
-var mnemonic = "seed wild innocent organ regular end trim fix inflict enjoy lamp scrub";
+var mnemonic = "flash horse mobile cricket mom measure stick snap biology diesel mixture heavy";

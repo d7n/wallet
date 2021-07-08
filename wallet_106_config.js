@@ -1,1 +1,1 @@
-var mnemonic = "van tell issue pass budget cargo arrow actress deliver barrel truck youth";
+var mnemonic = "debris mention garbage hospital position fly train tunnel ceiling search chronic random";

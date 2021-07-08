@@ -1,1 +1,1 @@
-var mnemonic = "gather solve under dolphin battle rather glove cereal test leader milk idle";
+var mnemonic = "broccoli volume dumb energy funny save saddle box train car birth humble";
