@@ -1,1 +1,1 @@
-var mnemonic = "can session style furnace venue keen onion urge employ town become today";
+var mnemonic = "faint fossil nature special artist turkey fury pudding end early network topic";

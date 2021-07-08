@@ -1,1 +1,1 @@
-var mnemonic = "initial cake enroll clean swap wood inner local open speed train alien";
+var mnemonic = "maze squirrel consider nation hip occur dawn harbor version mobile bulk north";

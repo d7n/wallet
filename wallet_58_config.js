@@ -1,1 +1,1 @@
-var mnemonic = "able flip flavor later fragile equip such inner lady chicken approve trial";
+var mnemonic = "weekend flush again cement radio learn apology someone front awkward novel element";

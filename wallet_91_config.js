@@ -1,1 +1,1 @@
-var mnemonic = "evidence install wall pass people good web kitten category cupboard wink more";
+var mnemonic = "oppose aunt rigid fetch myth method view vacuum skirt year that sustain";

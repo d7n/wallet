@@ -1,1 +1,1 @@
-var mnemonic = "jelly crisp clog awful erode antenna need answer source village cash predict";
+var mnemonic = "afraid urge cover struggle thought praise reunion make brand mad diagram surge";

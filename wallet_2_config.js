@@ -1,1 +1,1 @@
-var mnemonic = "excite potato net quit theme label attitude frame network gate goose model";
+var mnemonic = "aware toast social rice other transfer name flee real pottery museum flash";

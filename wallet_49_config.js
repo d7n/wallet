@@ -1,1 +1,1 @@
-var mnemonic = "allow unknown shoe surprise height various obtain liar attitude silly trophy gravity";
+var mnemonic = "voyage include donkey unfold shiver clinic tornado impact learn friend rotate fever";

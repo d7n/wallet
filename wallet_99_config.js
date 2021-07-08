@@ -1,1 +1,1 @@
-var mnemonic = "gasp state road sleep weather skill promote scene under boil list city";
+var mnemonic = "minute bicycle town ecology survey again guard account wife duck minor faith";

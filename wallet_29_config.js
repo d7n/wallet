@@ -1,1 +1,1 @@
-var mnemonic = "baby zone similar client rather praise like zebra light useless leader detail";
+var mnemonic = "arrow hard image eye various drama garage game success knife reward edge";

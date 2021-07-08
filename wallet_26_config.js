@@ -1,1 +1,1 @@
-var mnemonic = "super try ski cabin arch bright ivory culture celery exile clip spot";
+var mnemonic = "blood enjoy carry current neither arrive blanket multiply gasp correct find blush";

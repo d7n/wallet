@@ -1,1 +1,1 @@
-var mnemonic = "pelican tent echo gossip tuna torch wife spring autumn shallow suit crouch";
+var mnemonic = "winner napkin inch bonus keen tooth spawn try combine divorce ancient bike";

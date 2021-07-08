@@ -1,1 +1,1 @@
-var mnemonic = "swarm lab faculty sausage risk club brass truly verb strong nurse inherit";
+var mnemonic = "wheel quote cave verify tent suspect work benefit oyster today erupt library";

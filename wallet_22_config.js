@@ -1,1 +1,1 @@
-var mnemonic = "tube quiz wrist between wagon false runway symbol dish reject purity raise";
+var mnemonic = "nephew salon seven area miss move arch visa pen remind school reject";

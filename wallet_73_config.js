@@ -1,1 +1,1 @@
-var mnemonic = "tray clinic canoe exhaust ankle render gym try tennis farm task wealth";
+var mnemonic = "genuine fringe clutch birth limit antenna student intact know banner accuse rack";

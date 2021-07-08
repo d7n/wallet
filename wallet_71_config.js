@@ -1,1 +1,1 @@
-var mnemonic = "device casino owner scan syrup stay message process rail clock canoe join";
+var mnemonic = "under that spread tower wine twenty claw dragon nuclear unfold style sketch";

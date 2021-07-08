@@ -1,1 +1,1 @@
-var mnemonic = "delay reflect match analyst busy height must rude exclude rug loud hold";
+var mnemonic = "alert gym check city wise fringe dog unveil lady depth caught casino";

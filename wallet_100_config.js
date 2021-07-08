@@ -1,1 +1,1 @@
-var mnemonic = "spare width same then knife pear cloud margin call abuse device phone";
+var mnemonic = "essence legal yellow comfort response apart winner repeat repair element pass water";

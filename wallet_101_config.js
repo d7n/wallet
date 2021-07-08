@@ -1,1 +1,1 @@
-var mnemonic = "unit guilt slow mask corn tide nothing general wet govern add guilt";
+var mnemonic = "boil chat hire unknown town evil trash scrub trigger person time firm";

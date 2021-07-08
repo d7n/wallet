@@ -1,1 +1,1 @@
-var mnemonic = "asset cave cage second crunch icon fever dilemma actor vital monitor improve";
+var mnemonic = "lemon category twist awkward bike battle double bundle hurt divide fold latin";

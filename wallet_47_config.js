@@ -1,1 +1,1 @@
-var mnemonic = "card glide snake state screen young peasant silver now inch habit proud";
+var mnemonic = "fitness summer ivory bacon source arm vacuum together dance retire hockey patch";

@@ -1,1 +1,1 @@
-var mnemonic = "expose opinion sign bright march poverty pave mammal position myth aisle gasp";
+var mnemonic = "receive mammal slight wonder vital luggage will hotel more increase play spy";

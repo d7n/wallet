@@ -1,1 +1,1 @@
-var mnemonic = "duck hint inmate world lava panda live kick hunt health pretty convince";
+var mnemonic = "purse pattern unlock exile senior quick proud excess thank vault indoor drink";

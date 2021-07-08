@@ -1,1 +1,1 @@
-var mnemonic = "since impulse spirit already claw champion fall kid dove adapt thought race";
+var mnemonic = "parrot divide supreme invite return round fade honey stage avocado wood welcome";

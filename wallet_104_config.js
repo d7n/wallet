@@ -1,1 +1,1 @@
-var mnemonic = "error square gold crash piece chair chase sort master bicycle shield popular";
+var mnemonic = "usual horror cover loyal zero lemon weird impose surround dress siege surface";

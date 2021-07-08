@@ -1,1 +1,1 @@
-var mnemonic = "valley father pet hidden time delay ripple come hire whisper system tuition";
+var mnemonic = "rather punch canvas obey sad snake hole oppose fluid typical naive tennis";

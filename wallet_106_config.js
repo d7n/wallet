@@ -1,1 +1,1 @@
-var mnemonic = "alpha lab unique wrist asthma inherit curve hat broom iron expect spy";
+var mnemonic = "scrub jump net alarm drastic just regular swap abandon demand island drink";

@@ -1,1 +1,1 @@
-var mnemonic = "concert margin hidden domain canyon chest juice trend near betray total simple";
+var mnemonic = "grass federal guide quality cabbage orphan alley anxiety share intact bottom learn";

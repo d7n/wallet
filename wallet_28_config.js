@@ -1,1 +1,1 @@
-var mnemonic = "short affair session auction illegal carry drastic ethics song main sentence heavy";
+var mnemonic = "okay flush olympic have parent short marriage deputy excess member cricket rough";

@@ -1,1 +1,1 @@
-var mnemonic = "document bargain hole angry antique lend fish network hood march this heavy";
+var mnemonic = "trash paper office cluster female badge wife olive juice metal squeeze ride";

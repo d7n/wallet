@@ -1,1 +1,1 @@
-var mnemonic = "tumble first small wish milk pupil picnic ghost power coin family volcano";
+var mnemonic = "surge cake hover confirm napkin lonely trip kite jewel unknown other shaft";

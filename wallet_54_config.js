@@ -1,1 +1,1 @@
-var mnemonic = "broom already cigar high place essay wire buddy nose choice vapor frost";
+var mnemonic = "lunar add narrow alter human renew december pulse lion fat dial abandon";

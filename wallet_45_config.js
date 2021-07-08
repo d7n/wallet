@@ -1,1 +1,1 @@
-var mnemonic = "dove gain april coffee step bar hunt rigid tackle party screen wave";
+var mnemonic = "lake spice say pudding blast jungle city country scare denial praise boss";

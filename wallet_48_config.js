@@ -1,1 +1,1 @@
-var mnemonic = "crystal nature dance symbol marriage reduce nerve mother outdoor put angry protect";
+var mnemonic = "jewel measure infant such inform goddess jewel term metal lift dove pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "flame giraffe horse outdoor worry candy leaf oyster bamboo dilemma gather cigar";
+var mnemonic = "zebra together trophy urban burst cause sing april reason swing bird absent";

@@ -1,1 +1,1 @@
-var mnemonic = "drop famous ball attitude float believe civil rent laugh rail business chuckle";
+var mnemonic = "bulk sign make start south sentence special grace place space fiscal plunge";

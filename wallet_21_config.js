@@ -1,1 +1,1 @@
-var mnemonic = "mercy grit bright slogan attend photo car just soldier toilet theory favorite";
+var mnemonic = "sword enemy manual ritual hero test spatial charge poem either saddle finger";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop choose palace tonight deliver daughter wrist romance weasel make talent brick";
+var mnemonic = "vendor possible elephant helmet inmate outdoor blanket employ october help caution more";

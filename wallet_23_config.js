@@ -1,1 +1,1 @@
-var mnemonic = "genius pink leaf phrase cancel genre alley certain act runway inform figure";
+var mnemonic = "utility since guard bench cause innocent know pioneer monster exile mutual idea";

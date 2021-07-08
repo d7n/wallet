@@ -1,1 +1,1 @@
-var mnemonic = "win cup any sugar fan cram table senior orbit toy crunch fringe";
+var mnemonic = "lens mountain mystery monster rude infant rice boss slow suit funny menu";

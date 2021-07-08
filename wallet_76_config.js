@@ -1,1 +1,1 @@
-var mnemonic = "pill example assist slot radar stairs victory ivory negative deposit armed roof";
+var mnemonic = "forum push lab panther frame universe lecture nice mistake blood wood clutch";

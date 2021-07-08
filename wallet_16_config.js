@@ -1,1 +1,1 @@
-var mnemonic = "design draft author spawn lend across galaxy special raven trophy rate leader";
+var mnemonic = "truck hair ivory merry smoke slight cause ensure fire hurdle swim adjust";

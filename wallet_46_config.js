@@ -1,1 +1,1 @@
-var mnemonic = "live version glad coyote visual social net midnight quit remind all write";
+var mnemonic = "sea game modify anxiety chapter resource fiction volcano lecture uncle ketchup erupt";

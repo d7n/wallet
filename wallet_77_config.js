@@ -1,1 +1,1 @@
-var mnemonic = "bullet practice immune rain engage hand observe electric dawn gold tone opinion";
+var mnemonic = "inject stumble catalog cattle million jacket farm main borrow orchard perfect must";

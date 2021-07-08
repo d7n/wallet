@@ -1,1 +1,1 @@
-var mnemonic = "timber protect task pyramid endless excuse stuff horn wish swift fly fox";
+var mnemonic = "voice soccer solve slight awful space assault fade cart shine ask network";

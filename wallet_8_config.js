@@ -1,1 +1,1 @@
-var mnemonic = "equal horror exact endless sad enroll pattern veteran control rival august panel";
+var mnemonic = "frown rocket enrich wet safe behind uniform unique lady subject nasty combine";

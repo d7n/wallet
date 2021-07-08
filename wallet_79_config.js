@@ -1,1 +1,1 @@
-var mnemonic = "shed mom mistake also usage betray whisper front ribbon resource leaf glance";
+var mnemonic = "robust tired always apart floor comfort future grass domain disease coconut safe";

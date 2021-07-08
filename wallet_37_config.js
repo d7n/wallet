@@ -1,1 +1,1 @@
-var mnemonic = "radio frame crawl decide emotion canoe slab panic final paddle purpose canyon";
+var mnemonic = "space crawl custom double silly bone dream siege tuna easy update save";

@@ -1,1 +1,1 @@
-var mnemonic = "horror solid orbit hello demise wonder sweet road off weird bracket tail";
+var mnemonic = "jaguar quote breeze general sell cream sword legal hen truck small advice";

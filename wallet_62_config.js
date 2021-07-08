@@ -1,1 +1,1 @@
-var mnemonic = "hold inquiry jealous depart size cherry bag surround skate weekend wonder fiscal";
+var mnemonic = "cargo flush volume mushroom nice general stick cannon stable clip energy measure";

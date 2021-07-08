@@ -1,1 +1,1 @@
-var mnemonic = "thank mail sausage text witness educate common combine pole kid short leopard";
+var mnemonic = "display recall helmet riot clinic horse divert canyon margin ugly whip kidney";

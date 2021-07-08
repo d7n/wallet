@@ -1,1 +1,1 @@
-var mnemonic = "gorilla enjoy cool short trap world easily hair speed husband figure around";
+var mnemonic = "kitchen tattoo bacon pink celery balcony dawn chest fall armor canvas purse";

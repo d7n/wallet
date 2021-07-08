@@ -1,1 +1,1 @@
-var mnemonic = "sword abuse frequent govern cheese sense gadget before oyster couch possible flock";
+var mnemonic = "inquiry hotel dwarf calm flash wealth attack gym mango artist sibling social";

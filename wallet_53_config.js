@@ -1,1 +1,1 @@
-var mnemonic = "ginger grief sunny heart toward wife honey method cable add blanket program";
+var mnemonic = "bulb steak home awkward stock boat output purpose hip focus inhale blast";

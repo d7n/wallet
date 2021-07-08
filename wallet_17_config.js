@@ -1,1 +1,1 @@
-var mnemonic = "forum alpha fiction tattoo upon thrive phone run virus safe fit mask";
+var mnemonic = "picnic canal lucky caution pony offer draft okay dance pluck level hobby";

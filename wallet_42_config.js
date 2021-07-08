@@ -1,1 +1,1 @@
-var mnemonic = "matrix they mobile urban razor below armed reason turtle taste finish airport";
+var mnemonic = "live village knock thank media predict thumb sweet puppy cable face current";

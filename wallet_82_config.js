@@ -1,1 +1,1 @@
-var mnemonic = "bean merge when own dry element exchange pipe close patch laugh cage";
+var mnemonic = "loyal notice there combine ancient thrive quote degree robot dentist spray match";

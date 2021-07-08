@@ -1,1 +1,1 @@
-var mnemonic = "panther end walk rubber firm shed unit grocery cup future security novel";
+var mnemonic = "month super tobacco scatter daring sorry toward fun trigger thunder vintage pact";

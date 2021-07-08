@@ -1,1 +1,1 @@
-var mnemonic = "taxi cabbage ship erupt nose weird alert process caught nose among second";
+var mnemonic = "sweet palm tunnel height position fluid forest innocent gesture account kick weasel";

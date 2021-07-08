@@ -1,1 +1,1 @@
-var mnemonic = "drop accuse decline annual shaft smooth person sand stumble quiz shove salute";
+var mnemonic = "attack satisfy this float seminar belt middle current embark pledge describe gas";

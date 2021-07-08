@@ -1,1 +1,1 @@
-var mnemonic = "dose bundle swallow income nasty parrot emotion tenant pumpkin secret obvious clump";
+var mnemonic = "rely favorite comic actor love blind dish almost stumble speed icon tail";

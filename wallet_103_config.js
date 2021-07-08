@@ -1,1 +1,1 @@
-var mnemonic = "lucky leg fox trip kite coral coyote royal arrow regret access aisle";
+var mnemonic = "own cactus area asthma argue bind slot edit suggest siege fog minimum";

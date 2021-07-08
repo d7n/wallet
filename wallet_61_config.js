@@ -1,1 +1,1 @@
-var mnemonic = "apple arrange dolphin gossip board slice betray jazz alpha music nominee abstract";
+var mnemonic = "author tiger knee wood valve parade dust fly play expire area swamp";

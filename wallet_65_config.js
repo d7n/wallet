@@ -1,1 +1,1 @@
-var mnemonic = "gown busy animal napkin patrol attack forward uphold machine they disorder borrow";
+var mnemonic = "company warm zone caution cherry decline rally sunny blossom hedgehog pigeon response";

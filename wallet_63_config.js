@@ -1,1 +1,1 @@
-var mnemonic = "bulb develop fiscal dream kidney spatial arrest hundred fiscal boat age online";
+var mnemonic = "scissors invest twice blast blast staff animal timber brown when name family";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen choose obvious face flame light below square shoulder february boil abandon";
+var mnemonic = "soup upgrade afford stage era shallow cage bonus wait van response present";

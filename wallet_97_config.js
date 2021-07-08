@@ -1,1 +1,1 @@
-var mnemonic = "invite salad season holiday crane someone click dad magic nurse index blush";
+var mnemonic = "clip cluster drink any cluster patrol skirt cruel limb combine uncle blanket";

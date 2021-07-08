@@ -1,1 +1,1 @@
-var mnemonic = "unit smile garlic evoke swarm bone orbit opinion brand usual autumn busy";
+var mnemonic = "puppy weekend trophy flat fatigue pluck raise spring illegal noble left permit";

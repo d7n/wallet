@@ -1,1 +1,1 @@
-var mnemonic = "bicycle awake ship sea merry movie cross oval sick celery off wire";
+var mnemonic = "truck legal useless title believe talk between hair solution depend denial blur";

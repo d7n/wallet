@@ -1,1 +1,1 @@
-var mnemonic = "rather mad valve clean reason fever ridge window harvest curious soup girl";
+var mnemonic = "bundle okay clock lava bless rescue across vocal milk island cluster enemy";

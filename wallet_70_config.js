@@ -1,1 +1,1 @@
-var mnemonic = "village trial board walnut dolphin unhappy obey cloth purity leaf turtle drink";
+var mnemonic = "bomb now merry glory garden capable timber chuckle accident hand end tomorrow";

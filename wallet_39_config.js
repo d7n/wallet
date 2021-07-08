@@ -1,1 +1,1 @@
-var mnemonic = "swift hood slim grass smoke fiction fiscal doll margin brisk coyote response";
+var mnemonic = "head ill alpha walnut frequent canoe what husband pact couple immense scout";

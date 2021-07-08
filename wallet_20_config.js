@@ -1,1 +1,1 @@
-var mnemonic = "deny phone evolve switch narrow parent name quality arena obvious kiss effort";
+var mnemonic = "tray normal toilet scan eight young tooth kiwi unfair glue slab zoo";

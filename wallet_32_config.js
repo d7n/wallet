@@ -1,1 +1,1 @@
-var mnemonic = "icon wave lunar clutch social gentle all chair resource satoshi reunion deliver";
+var mnemonic = "tell sea wink museum usage profit analyst dumb unlock lemon tip hello";

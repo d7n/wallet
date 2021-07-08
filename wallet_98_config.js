@@ -1,1 +1,1 @@
-var mnemonic = "shell twin hill desk impact wait sudden join walk perfect west deliver";
+var mnemonic = "range sentence pipe enjoy equip gown kingdom frost egg notice ostrich milk";

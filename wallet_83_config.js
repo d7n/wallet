@@ -1,1 +1,1 @@
-var mnemonic = "stove visit thank morning prosper funny yard rubber stairs wreck milk museum";
+var mnemonic = "vague agent exhaust island account all prize differ bridge wave yellow rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "crane ship police alarm armor spend arrive legal negative want tragic sauce";
+var mnemonic = "ripple warfare young similar oil brother code mushroom home father awesome kingdom";

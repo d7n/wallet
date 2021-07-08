@@ -1,1 +1,1 @@
-var mnemonic = "resource just achieve nice marriage doll circle panic artefact abandon feel catalog";
+var mnemonic = "cargo verify gown other dust buffalo random evolve surge unlock demise fold";

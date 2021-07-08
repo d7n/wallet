@@ -1,1 +1,1 @@
-var mnemonic = "any category filter april enrich juice harsh valley useful asthma two gauge";
+var mnemonic = "slot neutral since picnic order decide host eight afraid era speak tattoo";

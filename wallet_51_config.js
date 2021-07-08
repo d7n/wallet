@@ -1,1 +1,1 @@
-var mnemonic = "around credit solution language moon unusual fold film treat right cradle clip";
+var mnemonic = "lyrics roof symptom hand acquire husband walnut scrub tomorrow mask decorate february";

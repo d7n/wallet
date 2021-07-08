@@ -1,1 +1,1 @@
-var mnemonic = "copper mutual bike sell steel test need want onion coffee grief web";
+var mnemonic = "truly alter way black until loan decorate stamp shed right session mimic";

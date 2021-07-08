@@ -1,1 +1,1 @@
-var mnemonic = "weather trouble deal enlist fox unknown away arch remind review real draw";
+var mnemonic = "shuffle weird pencil spot rice flash manual hospital give ensure wrong surge";

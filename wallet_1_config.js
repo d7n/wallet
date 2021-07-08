@@ -1,1 +1,1 @@
-var mnemonic = "winner setup shrug belt vast twist lonely boat amateur salute same sadness";
+var mnemonic = "reopen inquiry barely retreat alert elder flock gallery abstract access razor turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich carpet debate cook giant smooth ticket render segment march obscure bag";
+var mnemonic = "assault tube icon call typical bitter casual denial weapon piano major kit";

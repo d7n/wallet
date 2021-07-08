@@ -1,1 +1,1 @@
-var mnemonic = "taxi talk accident title food crop bracket young squeeze trigger mesh fine";
+var mnemonic = "gospel true marble empty camera soccer gravity power menu wise hub shop";

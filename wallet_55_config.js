@@ -1,1 +1,1 @@
-var mnemonic = "force help forward orchard treat barrel train room paddle burger hidden tower";
+var mnemonic = "offer night gap under merge solar egg rack tone accuse clump laptop";
