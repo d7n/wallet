@@ -1,1 +1,1 @@
-var mnemonic = "vintage cave lumber fall home profit avocado cross execute bitter cradle fan";
+var mnemonic = "mutual rubber bachelor spell ozone kind fog mind unknown crop walnut duty";

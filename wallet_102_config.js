@@ -1,1 +1,1 @@
-var mnemonic = "then lazy filter unit salon float length obscure swim damage vacant dream";
+var mnemonic = "imitate sort enhance three mother document damp prison electric settle input traffic";

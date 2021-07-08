@@ -1,1 +1,1 @@
-var mnemonic = "cradle survey thrive potato diamond across village alone squirrel detail gas smile";
+var mnemonic = "spy tent stove punch soap music daring olympic rebuild limit brain fly";

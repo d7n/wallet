@@ -1,1 +1,1 @@
-var mnemonic = "load bacon zero minimum armor innocent mystery unable vacuum there lonely forest";
+var mnemonic = "evolve evolve congress mushroom best duty vanish slice wasp tip oven level";

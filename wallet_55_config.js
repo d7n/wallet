@@ -1,1 +1,1 @@
-var mnemonic = "person mask secret escape inside miss water post foil review rigid donkey";
+var mnemonic = "gas top confirm salute arrow session tank raw evolve grief brush rich";

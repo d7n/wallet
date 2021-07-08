@@ -1,1 +1,1 @@
-var mnemonic = "seed swear puppy luggage chimney ill recall warrior dish air flower enroll";
+var mnemonic = "army swift dentist champion assume civil system idea quit inflict gather file";

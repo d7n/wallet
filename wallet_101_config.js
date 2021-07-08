@@ -1,1 +1,1 @@
-var mnemonic = "square execute depth square very thumb soon champion capital broom metal fetch";
+var mnemonic = "employ fury pair rare manage napkin cupboard join hub taste chef border";

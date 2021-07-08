@@ -1,1 +1,1 @@
-var mnemonic = "avocado index rescue wage risk congress ill foil cricket mountain little nephew";
+var mnemonic = "broccoli stove goose teach cement tumble zero ill modify length forward source";

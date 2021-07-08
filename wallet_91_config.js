@@ -1,1 +1,1 @@
-var mnemonic = "enter hunt cream marine before whip kick cinnamon soft essence reveal crowd";
+var mnemonic = "decrease frog window trust arrest domain teach member merry input tilt banner";

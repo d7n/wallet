@@ -1,1 +1,1 @@
-var mnemonic = "amazing lawn stable side state regret fitness two august hobby safe wrist";
+var mnemonic = "attitude used wrestle debris swarm metal wonder nerve inherit fantasy frame buffalo";

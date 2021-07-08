@@ -1,1 +1,1 @@
-var mnemonic = "good arctic brass subject mandate idle march armor mimic brave peace sugar";
+var mnemonic = "absorb dash screen flame copper property boost sugar february permit cube hello";

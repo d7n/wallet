@@ -1,1 +1,1 @@
-var mnemonic = "spend cross limb carry glass salon nurse during push miracle sing bottom";
+var mnemonic = "hole confirm panda hamster drastic page pony hobby produce resist control senior";

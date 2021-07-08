@@ -1,1 +1,1 @@
-var mnemonic = "seven coconut text ability hour face night air dismiss hunt pluck wine";
+var mnemonic = "suspect wish enemy casino onion walnut broken decide bone easily dragon flock";

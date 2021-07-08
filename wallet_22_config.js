@@ -1,1 +1,1 @@
-var mnemonic = "process drastic mango ring fashion side grape case yellow educate wash toward";
+var mnemonic = "peace device kind soon mercy modify omit subject balance session left flame";

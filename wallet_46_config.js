@@ -1,1 +1,1 @@
-var mnemonic = "arrest laptop large opera neglect size hour display sand merry kangaroo scan";
+var mnemonic = "pair slow split health border keep poverty spider tool accident pupil radio";

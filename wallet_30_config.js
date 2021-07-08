@@ -1,1 +1,1 @@
-var mnemonic = "actual great session eye age spirit penalty ecology vivid water figure survey";
+var mnemonic = "length blade blood own girl adapt hello sentence update obtain warfare stomach";

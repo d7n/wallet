@@ -1,1 +1,1 @@
-var mnemonic = "avoid entry gift crew cable artefact march occur claw arena open fitness";
+var mnemonic = "team dress order stairs mixture public truth security bean dove smart this";

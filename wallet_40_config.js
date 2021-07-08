@@ -1,1 +1,1 @@
-var mnemonic = "brief bullet toe hurry warfare bleak wrestle juice comfort arctic size hard";
+var mnemonic = "where lucky pelican grace goat teach hollow exercise peace soon hen practice";

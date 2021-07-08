@@ -1,1 +1,1 @@
-var mnemonic = "monitor solid diesel assist priority special soup phone muscle pattern organ vague";
+var mnemonic = "cement truth shaft march bamboo stumble addict fall lesson allow allow excuse";

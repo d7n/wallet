@@ -1,1 +1,1 @@
-var mnemonic = "weapon rebuild toilet wool replace flee forum enact kangaroo era flush foot";
+var mnemonic = "during limb puppy walnut injury slim winter organ test never rotate spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow bring junior punch wide nurse elevator hat snap slow axis key";
+var mnemonic = "pear man ahead sheriff strike expire spin churn ecology lake kite viable";

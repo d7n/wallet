@@ -1,1 +1,1 @@
-var mnemonic = "ramp can city method finish mirror nuclear history cancel scan hurdle icon";
+var mnemonic = "lounge orbit rule unveil welcome phone suit fabric scissors enable run scan";

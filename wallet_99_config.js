@@ -1,1 +1,1 @@
-var mnemonic = "spread say myself hazard jeans logic unveil pulp genius talk sniff virtual";
+var mnemonic = "sustain occur noise west menu path affair need viable famous arrow drift";

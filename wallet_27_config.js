@@ -1,1 +1,1 @@
-var mnemonic = "science earth dash absent board glory repeat before crystal domain usage desert";
+var mnemonic = "solution mutual receive worry cabin service dirt night pizza nice human shoulder";

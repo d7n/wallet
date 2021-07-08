@@ -1,1 +1,1 @@
-var mnemonic = "angle odor manual snake velvet uncover special snow million can sustain crush";
+var mnemonic = "screen legal dumb nothing art april pear attract violin giggle chase business";

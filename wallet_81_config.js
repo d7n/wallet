@@ -1,1 +1,1 @@
-var mnemonic = "pony install anchor later visa congress bomb robust album pear leave hurt";
+var mnemonic = "emerge slab palace drum lunch tackle mad casino quiz monkey promote height";

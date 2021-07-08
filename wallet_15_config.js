@@ -1,1 +1,1 @@
-var mnemonic = "core spatial throw truly luggage young hello style live nest pepper mistake";
+var mnemonic = "cycle inside remain debate bulk correct vocal fat tattoo oil boring fiscal";

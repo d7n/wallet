@@ -1,1 +1,1 @@
-var mnemonic = "rude wrap write enact solid world play joy hurry bean open guard";
+var mnemonic = "release oil wrap dry palace flat sleep coin phone midnight front skill";

@@ -1,1 +1,1 @@
-var mnemonic = "awful family spray provide tiger paper extend rubber make tongue animal plate";
+var mnemonic = "must van lottery bulb lab float old logic lunch program destroy robust";

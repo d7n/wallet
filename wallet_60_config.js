@@ -1,1 +1,1 @@
-var mnemonic = "spring cry buddy machine boat iron era edge window hawk pigeon phone";
+var mnemonic = "this cool chronic state tiny olive drastic mention village abstract donate milk";

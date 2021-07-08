@@ -1,1 +1,1 @@
-var mnemonic = "flip glimpse oppose lab jacket slice allow trial rotate casual water festival";
+var mnemonic = "daring taxi video obvious roast subway spoon column recipe puzzle hurdle dash";

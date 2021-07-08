@@ -1,1 +1,1 @@
-var mnemonic = "arch ride endorse unlock purpose viable elegant sting tilt kit devote boy";
+var mnemonic = "upper give steak such car height rate phrase mention mind wrist trade";

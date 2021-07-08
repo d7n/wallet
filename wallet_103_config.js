@@ -1,1 +1,1 @@
-var mnemonic = "memory typical solar powder reopen ticket supreme mimic depth twenty message earn";
+var mnemonic = "exhibit business ancient extra print claw sell large walnut category woman duty";

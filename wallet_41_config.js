@@ -1,1 +1,1 @@
-var mnemonic = "genre parent category shove october above holiday ask agent hotel dress soccer";
+var mnemonic = "wink copy until obey pair sauce trouble athlete stomach small alarm firm";

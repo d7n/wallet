@@ -1,1 +1,1 @@
-var mnemonic = "wonder jeans voyage grit olive become grab twin action session drastic bread";
+var mnemonic = "olive receive portion skull course frozen actress tunnel chat sunny hard toddler";

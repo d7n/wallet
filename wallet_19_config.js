@@ -1,1 +1,1 @@
-var mnemonic = "family witness parrot umbrella poverty toe eight elevator pepper garlic august swap";
+var mnemonic = "love enlist fire energy liar theory chef call zero physical fringe spatial";

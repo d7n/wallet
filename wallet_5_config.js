@@ -1,1 +1,1 @@
-var mnemonic = "wage excite flash only flight street change dignity jump burger pause frown";
+var mnemonic = "option raccoon random avocado east company lecture aerobic bird prepare slogan little";

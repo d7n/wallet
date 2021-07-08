@@ -1,1 +1,1 @@
-var mnemonic = "night behave lizard engine discover connect afraid key inhale brother crunch smart";
+var mnemonic = "media roof shell arena dismiss elite neglect giraffe silent dirt offer smooth";

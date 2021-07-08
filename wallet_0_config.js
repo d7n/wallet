@@ -1,1 +1,1 @@
-var mnemonic = "jump travel artist combine shy company mobile ethics ship oxygen chunk mushroom";
+var mnemonic = "panic panda history expect onion learn organ novel people burger blue call";

@@ -1,1 +1,1 @@
-var mnemonic = "device gun boring original remain venue seven vast skill eye vacant refuse";
+var mnemonic = "mix special champion powder market elegant lonely gold blush gorilla panic whisper";

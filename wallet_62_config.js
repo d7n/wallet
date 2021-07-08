@@ -1,1 +1,1 @@
-var mnemonic = "purity bleak busy pizza affair brisk mixed crop allow bid soda trumpet";
+var mnemonic = "essay million owner slice squirrel case sibling wrestle spawn dance banana high";

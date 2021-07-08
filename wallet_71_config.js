@@ -1,1 +1,1 @@
-var mnemonic = "seed office crater short lawn invite enjoy attract robot pistol inject paper";
+var mnemonic = "lecture right attract cart account usage purpose club monkey biology ripple receive";

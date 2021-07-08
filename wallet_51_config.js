@@ -1,1 +1,1 @@
-var mnemonic = "album farm apart drill huge helmet nature dad tent olive ancient gown";
+var mnemonic = "jazz aerobic drum spray toss song remove income exercise flavor sentence quality";

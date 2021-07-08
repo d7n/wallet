@@ -1,1 +1,1 @@
-var mnemonic = "cream congress ethics neglect device special moment wrap cattle boy make undo";
+var mnemonic = "cart iron copy tongue palm shift genuine guitar coast borrow album end";

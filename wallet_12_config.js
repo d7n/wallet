@@ -1,1 +1,1 @@
-var mnemonic = "element spot dinosaur soon west surprise found size loyal vote blossom talent";
+var mnemonic = "fiscal life shop poet embody dolphin crazy page oil oyster accident state";

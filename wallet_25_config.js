@@ -1,1 +1,1 @@
-var mnemonic = "legal absent vocal illegal tip pair valve thumb boat police crack crater";
+var mnemonic = "source vault ridge federal job breeze depend unaware glare nest cause call";

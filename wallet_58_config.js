@@ -1,1 +1,1 @@
-var mnemonic = "juice session toe liberty wear feed until urban hollow tag decade recipe";
+var mnemonic = "immense put shock mention other between stock index harvest digital edge birth";

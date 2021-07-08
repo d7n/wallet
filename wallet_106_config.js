@@ -1,1 +1,1 @@
-var mnemonic = "force segment stem scorpion broom zebra card notice weather rebel popular flush";
+var mnemonic = "frost claw fork pool result lazy effort business shiver tragic people mass";

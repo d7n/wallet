@@ -1,1 +1,1 @@
-var mnemonic = "recipe tired easily seed display whip excuse relax castle file destroy valley";
+var mnemonic = "potato public cabbage number reunion muffin clinic indicate sell vital case scissors";

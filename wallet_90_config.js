@@ -1,1 +1,1 @@
-var mnemonic = "glance grain grit black tornado solar fame mansion denial vibrant admit fruit";
+var mnemonic = "size expand must diagram mystery jacket water december live eagle shine mechanic";

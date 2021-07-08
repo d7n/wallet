@@ -1,1 +1,1 @@
-var mnemonic = "predict magic valley prize antique write insane wheat gallery stick vintage true";
+var mnemonic = "process okay accident wrist dad speed industry farm large pride settle virus";

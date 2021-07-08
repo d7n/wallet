@@ -1,1 +1,1 @@
-var mnemonic = "upset noodle clutch swing zone useful tiny climb blood direct come trouble";
+var mnemonic = "panda mix hungry pen cool dance bubble square fat output like matter";

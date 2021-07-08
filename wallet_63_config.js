@@ -1,1 +1,1 @@
-var mnemonic = "lonely consider pair near daughter dumb winter ocean economy tone curve ketchup";
+var mnemonic = "kangaroo celery raccoon luggage pattern smooth wave pull square business amateur worth";

@@ -1,1 +1,1 @@
-var mnemonic = "minor supreme hover music inherit all allow artist bronze carbon express outdoor";
+var mnemonic = "skill cycle slender orchard fossil robot canal exact knife skate try lens";

@@ -1,1 +1,1 @@
-var mnemonic = "resource tourist better equal cook letter winner swarm sock army inflict lawn";
+var mnemonic = "cabbage chief purchase garage claw cupboard future scrap sausage together rural online";

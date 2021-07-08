@@ -1,1 +1,1 @@
-var mnemonic = "confirm near nest bridge over jaguar tide entry enough oil recipe divert";
+var mnemonic = "ridge weather joke doll tumble dinner talent goddess absent fit beauty change";

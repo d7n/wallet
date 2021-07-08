@@ -1,1 +1,1 @@
-var mnemonic = "reform famous same since reopen fiber famous stairs worth piece chaos desert";
+var mnemonic = "resist dog repair alone rebel farm rose found van trumpet issue reward";

@@ -1,1 +1,1 @@
-var mnemonic = "kit arrest depart target truck elder juice decline anchor raccoon proud pyramid";
+var mnemonic = "twin learn used credit february neutral physical wool pink try vacuum sign";

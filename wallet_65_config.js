@@ -1,1 +1,1 @@
-var mnemonic = "depart total identify earn carbon peanut stem matter manual genuine name rich";
+var mnemonic = "brass bread rally perfect sad shell whisper spice when chair shop alert";

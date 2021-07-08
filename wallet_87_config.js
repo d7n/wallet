@@ -1,1 +1,1 @@
-var mnemonic = "popular risk silver aware daring material learn water ozone enact stamp child";
+var mnemonic = "impact riot eager garbage pottery adjust exchange weasel lottery eager seat cool";

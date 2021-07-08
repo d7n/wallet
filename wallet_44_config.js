@@ -1,1 +1,1 @@
-var mnemonic = "admit define brass such refuse baby dash joke evidence job sand song";
+var mnemonic = "horse tennis spoil force glove mandate present insect heart napkin identify bid";

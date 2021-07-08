@@ -1,1 +1,1 @@
-var mnemonic = "discover cattle offer six thing advance tail page frequent derive calm dish";
+var mnemonic = "rhythm system silent because agent alley viable level giant rough yard blush";

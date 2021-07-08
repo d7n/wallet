@@ -1,1 +1,1 @@
-var mnemonic = "neutral legal uniform census object explain sample solid discover fluid special couch";
+var mnemonic = "monitor taxi essay fitness retreat arctic increase clarify income goose genuine pretty";

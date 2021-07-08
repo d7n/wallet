@@ -1,1 +1,1 @@
-var mnemonic = "gospel invest clarify top question attack skate spray dizzy burger pact middle";
+var mnemonic = "ribbon enforce stadium demise virtual expand sight middle scorpion focus again series";

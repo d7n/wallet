@@ -1,1 +1,1 @@
-var mnemonic = "shove lens color track raven aerobic prosper claim float basket tattoo shoe";
+var mnemonic = "inmate success blue vintage salon detect produce inherit artefact opera subway same";

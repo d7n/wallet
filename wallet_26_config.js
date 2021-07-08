@@ -1,1 +1,1 @@
-var mnemonic = "era arrest gaze remind own brown minimum lift grape crack wrist betray";
+var mnemonic = "fix term project relax toilet melt shadow pattern stock peasant venture zero";

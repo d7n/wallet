@@ -1,1 +1,1 @@
-var mnemonic = "barely permit debris candy betray approve rubber client during safe vague ticket";
+var mnemonic = "flock ship diagram aisle best crane lend load wear submit hedgehog spice";

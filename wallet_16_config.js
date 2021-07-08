@@ -1,1 +1,1 @@
-var mnemonic = "test crack fog harsh essay weapon subway kiss pizza now popular lift";
+var mnemonic = "lunch atom meadow rotate vote protect screen captain seminar ensure shadow observe";

@@ -1,1 +1,1 @@
-var mnemonic = "post hockey plug pet satisfy history airport birth venture pride decorate able";
+var mnemonic = "antenna gas voice dismiss december dust skirt bag yellow private gospel wing";

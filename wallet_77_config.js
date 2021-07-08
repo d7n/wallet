@@ -1,1 +1,1 @@
-var mnemonic = "enter arrest enrich enlist fall hotel tragic tube scissors love wedding glass";
+var mnemonic = "fruit clever that spread forum april age usual found laundry grunt clap";

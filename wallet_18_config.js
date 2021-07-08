@@ -1,1 +1,1 @@
-var mnemonic = "moon vanish cattle list perfect merit horn sponsor joy cradle poverty sport";
+var mnemonic = "reduce tree gossip bird final sunset wrong believe ticket execute know zebra";

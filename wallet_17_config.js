@@ -1,1 +1,1 @@
-var mnemonic = "lecture beauty point topple wish typical umbrella stool flee bean pony turn";
+var mnemonic = "vocal renew absent honey furnace mirror axis stairs trade artefact satoshi guitar";

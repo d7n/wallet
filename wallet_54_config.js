@@ -1,1 +1,1 @@
-var mnemonic = "pool club grocery exchange nominee deputy estate grid nothing ability dwarf true";
+var mnemonic = "blade price artefact glare either exist tragic weekend claw tissue method usage";

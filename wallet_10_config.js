@@ -1,1 +1,1 @@
-var mnemonic = "food awesome fault copy hybrid undo banner kick rural front paper quiz";
+var mnemonic = "turn clever sphere frown long load kangaroo acid possible never client gain";

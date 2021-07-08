@@ -1,1 +1,1 @@
-var mnemonic = "deliver typical minor vanish sniff knee candy pair develop width uniform only";
+var mnemonic = "pupil jaguar zero athlete jump quick settle tunnel route code lucky polar";

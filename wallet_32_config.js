@@ -1,1 +1,1 @@
-var mnemonic = "occur burst there snake write dinosaur inform dilemma flip police minimum tunnel";
+var mnemonic = "soccer music endless better siege margin speak ribbon lesson rare keen announce";

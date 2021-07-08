@@ -1,1 +1,1 @@
-var mnemonic = "valid obtain shallow sell weather april stick peanut april arrive turn funny";
+var mnemonic = "round defense fiscal another entry mother cage husband say liquid case pass";

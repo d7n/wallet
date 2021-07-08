@@ -1,1 +1,1 @@
-var mnemonic = "strong bitter tape ticket seek soccer interest truth rug together under stove";
+var mnemonic = "paddle giggle leaf measure income siege short valley quantum embark tag timber";

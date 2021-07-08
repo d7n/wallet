@@ -1,1 +1,1 @@
-var mnemonic = "cycle peasant faint mass boil lounge timber foil spoil razor slide letter";
+var mnemonic = "brush fetch crunch ordinary empower faint dragon burden cruise purpose law knee";

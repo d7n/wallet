@@ -1,1 +1,1 @@
-var mnemonic = "copper absurd shy warfare task noodle victory engine turn slide climb convince";
+var mnemonic = "price pink group merry artefact number arrest rule useless stove churn clog";

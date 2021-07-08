@@ -1,1 +1,1 @@
-var mnemonic = "cluster size cupboard enroll plastic orange confirm bless female honey begin mushroom";
+var mnemonic = "tube alarm mango frequent woman ivory divorce antique small chest eyebrow thumb";

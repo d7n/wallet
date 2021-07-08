@@ -1,1 +1,1 @@
-var mnemonic = "modify flower supply series inhale ritual direct come during treat uncover eager";
+var mnemonic = "napkin effort average north damp cruise rebel credit true timber still melt";

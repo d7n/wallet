@@ -1,1 +1,1 @@
-var mnemonic = "chicken ritual repair shop pond dynamic chair stumble leopard museum capital company";
+var mnemonic = "scare age tail oval toward dish curve travel select version list mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "source document ability degree sadness either protect purpose nature surge dentist scissors";
+var mnemonic = "romance pencil property neither pull grant meadow gain guess purse dance wise";

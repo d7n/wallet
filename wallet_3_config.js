@@ -1,1 +1,1 @@
-var mnemonic = "behind mammal injury pig actor develop acid clean wise chronic sphere alley";
+var mnemonic = "lend general harvest hard course pole random gaze spy symptom loop arrange";

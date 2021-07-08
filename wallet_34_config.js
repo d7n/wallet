@@ -1,1 +1,1 @@
-var mnemonic = "jar inform tunnel begin nuclear breeze hurt phrase dignity card trick party";
+var mnemonic = "connect patient lake easily leave very valid body usage only rate purchase";

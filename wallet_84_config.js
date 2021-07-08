@@ -1,1 +1,1 @@
-var mnemonic = "address need coral cable decade crack anger reward only alien avocado tonight";
+var mnemonic = "swallow iron glare crash blush unveil master frog hybrid advice dust short";

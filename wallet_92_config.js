@@ -1,1 +1,1 @@
-var mnemonic = "essay divorce penalty north near twice melt private crystal roast tobacco plate";
+var mnemonic = "relief nuclear income trial budget rubber skull entire remember suggest solution option";

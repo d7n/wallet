@@ -1,1 +1,1 @@
-var mnemonic = "subway casino kitten ocean crew kiwi left weekend dinner coconut youth auto";
+var mnemonic = "notable great slight oak people diamond escape canyon cigar silent vital skill";
