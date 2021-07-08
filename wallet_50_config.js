@@ -1,1 +1,1 @@
-var mnemonic = "large express arrow harsh oil lawn pyramid end light place hidden decrease";
+var mnemonic = "laptop choose palace tonight deliver daughter wrist romance weasel make talent brick";

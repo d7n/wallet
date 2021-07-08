@@ -1,1 +1,1 @@
-var mnemonic = "often pride crumble secret cousin climb junk join boat valley theory use";
+var mnemonic = "cheese stadium case later inner neglect space cereal rifle prevent wonder citizen";

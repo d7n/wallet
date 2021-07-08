@@ -1,1 +1,1 @@
-var mnemonic = "busy pioneer coil letter family uniform ridge walnut shock naive angle almost";
+var mnemonic = "copper mutual bike sell steel test need want onion coffee grief web";

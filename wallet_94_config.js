@@ -1,1 +1,1 @@
-var mnemonic = "detect float album debate crumble sibling light leader royal jump legend spice";
+var mnemonic = "horror solid orbit hello demise wonder sweet road off weird bracket tail";

@@ -1,1 +1,1 @@
-var mnemonic = "edge obscure tomato cage detect ancient surround unaware habit catch huge fiscal";
+var mnemonic = "weather trouble deal enlist fox unknown away arch remind review real draw";

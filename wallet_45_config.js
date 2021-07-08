@@ -1,1 +1,1 @@
-var mnemonic = "elegant utility tower replace arctic peanut become supreme upset credit core stable";
+var mnemonic = "dove gain april coffee step bar hunt rigid tackle party screen wave";

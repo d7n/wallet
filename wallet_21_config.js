@@ -1,1 +1,1 @@
-var mnemonic = "wing pitch use supply jump genuine recall soft always ancient account mask";
+var mnemonic = "mercy grit bright slogan attend photo car just soldier toilet theory favorite";

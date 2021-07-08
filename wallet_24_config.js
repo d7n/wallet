@@ -1,1 +1,1 @@
-var mnemonic = "shoulder uncover baby jar security chaos foam assault mail mimic tongue kind";
+var mnemonic = "crane ship police alarm armor spend arrive legal negative want tragic sauce";

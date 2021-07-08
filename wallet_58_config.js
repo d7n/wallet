@@ -1,1 +1,1 @@
-var mnemonic = "fatal brief spread skate stumble walnut fruit buyer secret join rabbit lonely";
+var mnemonic = "able flip flavor later fragile equip such inner lady chicken approve trial";

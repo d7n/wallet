@@ -1,1 +1,1 @@
-var mnemonic = "soccer keen fence team mystery essence blush cabbage daring skull oval buyer";
+var mnemonic = "essence alley almost genre jungle glove fine enable miracle vivid retire empty";

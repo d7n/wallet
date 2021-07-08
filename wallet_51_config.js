@@ -1,1 +1,1 @@
-var mnemonic = "scrub soccer solution rebel brain body parent rail body into mushroom metal";
+var mnemonic = "around credit solution language moon unusual fold film treat right cradle clip";

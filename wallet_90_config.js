@@ -1,1 +1,1 @@
-var mnemonic = "flash horse mobile cricket mom measure stick snap biology diesel mixture heavy";
+var mnemonic = "concert margin hidden domain canyon chest juice trend near betray total simple";

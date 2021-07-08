@@ -1,1 +1,1 @@
-var mnemonic = "member best have hope inside major miracle round custom simple crop coil";
+var mnemonic = "any category filter april enrich juice harsh valley useful asthma two gauge";

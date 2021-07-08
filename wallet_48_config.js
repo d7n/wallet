@@ -1,1 +1,1 @@
-var mnemonic = "evolve almost favorite rib wrap join hotel never myself praise sugar goddess";
+var mnemonic = "crystal nature dance symbol marriage reduce nerve mother outdoor put angry protect";

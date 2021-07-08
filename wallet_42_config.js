@@ -1,1 +1,1 @@
-var mnemonic = "fever remain useless run siren feel awful once weekend scrap arena stadium";
+var mnemonic = "matrix they mobile urban razor below armed reason turtle taste finish airport";

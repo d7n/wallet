@@ -1,1 +1,1 @@
-var mnemonic = "brother mad blouse industry card brush above kind dynamic claim embody area";
+var mnemonic = "document bargain hole angry antique lend fish network hood march this heavy";

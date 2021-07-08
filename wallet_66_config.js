@@ -1,1 +1,1 @@
-var mnemonic = "apple vintage way buddy swarm hub keep crush wish hover agree police";
+var mnemonic = "skull toy excuse garment warfare mansion scale illegal cupboard flight modify scrub";

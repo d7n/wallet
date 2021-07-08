@@ -1,1 +1,1 @@
-var mnemonic = "world junior share express nation next firm clip hip wing enemy kingdom";
+var mnemonic = "tray clinic canoe exhaust ankle render gym try tennis farm task wealth";

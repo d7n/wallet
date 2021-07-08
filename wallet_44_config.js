@@ -1,1 +1,1 @@
-var mnemonic = "swallow robust book tattoo urban eye clarify olympic entry crawl infant kiwi";
+var mnemonic = "famous ladder junk staff ketchup rare giant roof asset state witness abandon";

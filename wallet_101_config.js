@@ -1,1 +1,1 @@
-var mnemonic = "funny lunch velvet live into ranch hire change garment lizard addict ginger";
+var mnemonic = "unit guilt slow mask corn tide nothing general wet govern add guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "purse final nose twelve future wild trap riot struggle diary sail tired";
+var mnemonic = "thank mail sausage text witness educate common combine pole kid short leopard";

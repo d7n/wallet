@@ -1,1 +1,1 @@
-var mnemonic = "great atom gallery fantasy swallow chaos fury tide document about sport ladder";
+var mnemonic = "resource just achieve nice marriage doll circle panic artefact abandon feel catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "finish myth pond silent student awake chimney motion modify often budget digital";
+var mnemonic = "since impulse spirit already claw champion fall kid dove adapt thought race";

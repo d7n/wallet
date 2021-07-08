@@ -1,1 +1,1 @@
-var mnemonic = "source sure gloom title fuel secret scare ensure outdoor solution crowd unable";
+var mnemonic = "hello suffer state motion save truth artwork panic gaze sorry butter sand";

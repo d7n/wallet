@@ -1,1 +1,1 @@
-var mnemonic = "display tragic blush soldier marine evolve lift cousin release surprise burden maid";
+var mnemonic = "submit ten security peanut tomorrow envelope laptop cook travel ghost hover tomato";

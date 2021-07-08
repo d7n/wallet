@@ -1,1 +1,1 @@
-var mnemonic = "bunker legal blast water quit path critic firm verb cart veteran trouble";
+var mnemonic = "unit smile garlic evoke swarm bone orbit opinion brand usual autumn busy";

@@ -1,1 +1,1 @@
-var mnemonic = "scout enforce hurdle online bring since road ability erase chair rare hotel";
+var mnemonic = "tumble first small wish milk pupil picnic ghost power coin family volcano";

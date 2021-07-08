@@ -1,1 +1,1 @@
-var mnemonic = "sweet health switch hand video climb slow tattoo wet act thrive miracle";
+var mnemonic = "apple arrange dolphin gossip board slice betray jazz alpha music nominee abstract";

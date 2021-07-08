@@ -1,1 +1,1 @@
-var mnemonic = "debris mention garbage hospital position fly train tunnel ceiling search chronic random";
+var mnemonic = "alpha lab unique wrist asthma inherit curve hat broom iron expect spy";

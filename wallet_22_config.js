@@ -1,1 +1,1 @@
-var mnemonic = "badge kiss round wheat warrior crack problem april silent tray unknown bench";
+var mnemonic = "tube quiz wrist between wagon false runway symbol dish reject purity raise";

@@ -1,1 +1,1 @@
-var mnemonic = "message organ corn slab cat toddler choice there feel master naive symbol";
+var mnemonic = "short affair session auction illegal carry drastic ethics song main sentence heavy";

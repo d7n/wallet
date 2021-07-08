@@ -1,1 +1,1 @@
-var mnemonic = "tool conduct earn bar fiscal jealous pyramid pull subway effort romance govern";
+var mnemonic = "bean merge when own dry element exchange pipe close patch laugh cage";

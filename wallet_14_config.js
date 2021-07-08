@@ -1,1 +1,1 @@
-var mnemonic = "frozen virtual route detail kid grid foster insane blast club broken album";
+var mnemonic = "genre scene wrap trap paddle exclude exit head online where voyage slogan";

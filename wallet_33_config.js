@@ -1,1 +1,1 @@
-var mnemonic = "popular eight remind noise toss victory rebel under that rice loyal they";
+var mnemonic = "frozen choose obvious face flame light below square shoulder february boil abandon";

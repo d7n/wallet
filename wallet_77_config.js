@@ -1,1 +1,1 @@
-var mnemonic = "balcony typical margin angry aware duck gift health wool tiger atom dish";
+var mnemonic = "bullet practice immune rain engage hand observe electric dawn gold tone opinion";

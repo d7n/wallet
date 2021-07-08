@@ -1,1 +1,1 @@
-var mnemonic = "harvest chase nature lamp also wonder rain charge march fix debate acid";
+var mnemonic = "swarm lab faculty sausage risk club brass truly verb strong nurse inherit";

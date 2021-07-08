@@ -1,1 +1,1 @@
-var mnemonic = "number mule sauce enact tooth term picture audit rich split trick noodle";
+var mnemonic = "dose bundle swallow income nasty parrot emotion tenant pumpkin secret obvious clump";

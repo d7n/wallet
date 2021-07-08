@@ -1,1 +1,1 @@
-var mnemonic = "explain track write sail gossip member network kiss tent barely switch yard";
+var mnemonic = "taxi cabbage ship erupt nose weird alert process caught nose among second";

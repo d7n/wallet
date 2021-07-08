@@ -1,1 +1,1 @@
-var mnemonic = "couch rain shove armor relax connect suffer donkey example remove surge satoshi";
+var mnemonic = "duck hint inmate world lava panda live kick hunt health pretty convince";

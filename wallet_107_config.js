@@ -1,1 +1,1 @@
-var mnemonic = "demise height mixture home acid toe gravity jelly interest eagle garbage sorry";
+var mnemonic = "panther end walk rubber firm shed unit grocery cup future security novel";

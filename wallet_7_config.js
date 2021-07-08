@@ -1,1 +1,1 @@
-var mnemonic = "sustain goddess modify width between grocery crane crash trouble spy swing gap";
+var mnemonic = "slide also leave remind amount fame buffalo brick sad steak shadow vivid";

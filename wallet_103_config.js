@@ -1,1 +1,1 @@
-var mnemonic = "evolve drink cram west illness lens album mammal kiwi absent clarify fence";
+var mnemonic = "lucky leg fox trip kite coral coyote royal arrow regret access aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "online black lounge moon hip way patient outside retire library horn session";
+var mnemonic = "icon wave lunar clutch social gentle all chair resource satoshi reunion deliver";

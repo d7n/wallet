@@ -1,1 +1,1 @@
-var mnemonic = "twenty imitate fun illness arctic horn canvas exchange bright neither chest donate";
+var mnemonic = "gown busy animal napkin patrol attack forward uphold machine they disorder borrow";

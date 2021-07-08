@@ -1,1 +1,1 @@
-var mnemonic = "lab evoke raccoon pumpkin salad sauce cake wasp cat beyond stairs phrase";
+var mnemonic = "swift hood slim grass smoke fiction fiscal doll margin brisk coyote response";

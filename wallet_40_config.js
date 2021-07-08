@@ -1,1 +1,1 @@
-var mnemonic = "violin hurdle moon verify island emerge response pact toe leisure aim father";
+var mnemonic = "timber protect task pyramid endless excuse stuff horn wish swift fly fox";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor top scout turtle view height awesome much fortune island cigar album";
+var mnemonic = "taxi talk accident title food crop bracket young squeeze trigger mesh fine";

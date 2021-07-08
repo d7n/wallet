@@ -1,1 +1,1 @@
-var mnemonic = "run into bacon devote fancy empower whip girl winner concert salmon view";
+var mnemonic = "genius pink leaf phrase cancel genre alley certain act runway inform figure";

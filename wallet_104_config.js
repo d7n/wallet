@@ -1,1 +1,1 @@
-var mnemonic = "broken demise slam edge crumble melt labor crane talk actual laptop sun";
+var mnemonic = "error square gold crash piece chair chase sort master bicycle shield popular";

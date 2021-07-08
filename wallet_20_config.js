@@ -1,1 +1,1 @@
-var mnemonic = "they session genuine remove vintage exit pyramid dose harbor immense unveil canal";
+var mnemonic = "deny phone evolve switch narrow parent name quality arena obvious kiss effort";

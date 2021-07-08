@@ -1,1 +1,1 @@
-var mnemonic = "category exhibit shine guess ghost cart develop canal plunge then tooth pill";
+var mnemonic = "valley father pet hidden time delay ripple come hire whisper system tuition";

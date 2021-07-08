@@ -1,1 +1,1 @@
-var mnemonic = "unknown velvet umbrella uniform cycle foot similar absurd initial ribbon use bachelor";
+var mnemonic = "excite potato net quit theme label attitude frame network gate goose model";

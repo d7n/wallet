@@ -1,1 +1,1 @@
-var mnemonic = "empower motor security donor page soccer rapid tube jar noble measure clever";
+var mnemonic = "stove visit thank morning prosper funny yard rubber stairs wreck milk museum";

@@ -1,1 +1,1 @@
-var mnemonic = "slight panel report junk attitude convince super current donate opera early accident";
+var mnemonic = "relief whip rocket simple photo once armor base public amazing settle casino";

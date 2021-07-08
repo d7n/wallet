@@ -1,1 +1,1 @@
-var mnemonic = "scissors boss summer pattern grunt vapor property spin unaware avocado welcome hotel";
+var mnemonic = "ginger grief sunny heart toward wife honey method cable add blanket program";

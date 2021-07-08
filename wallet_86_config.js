@@ -1,1 +1,1 @@
-var mnemonic = "truck cabbage vanish hundred weasel punch solution snap drill dust duty first";
+var mnemonic = "expose opinion sign bright march poverty pave mammal position myth aisle gasp";

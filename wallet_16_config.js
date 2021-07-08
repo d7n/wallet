@@ -1,1 +1,1 @@
-var mnemonic = "hen security decorate field turn uncle imitate nurse owner dune flat blue";
+var mnemonic = "design draft author spawn lend across galaxy special raven trophy rate leader";

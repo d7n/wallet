@@ -1,1 +1,1 @@
-var mnemonic = "chapter orchard guess hair crucial demand forward clever fancy about swarm ability";
+var mnemonic = "about solve amused stool faculty firm kite cave define follow tooth logic";

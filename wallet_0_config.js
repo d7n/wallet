@@ -1,1 +1,1 @@
-var mnemonic = "brand process oppose insect soccer drill nest myth release situate net this";
+var mnemonic = "token fox angry giraffe valve defy below immune museum flush opinion spice";

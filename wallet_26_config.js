@@ -1,1 +1,1 @@
-var mnemonic = "quiz garden surround stock shift ghost chest original address text gather arena";
+var mnemonic = "super try ski cabin arch bright ivory culture celery exile clip spot";

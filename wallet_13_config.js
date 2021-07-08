@@ -1,1 +1,1 @@
-var mnemonic = "diary milk profit permit cup rigid bench two fan food lamp alpha";
+var mnemonic = "dinosaur shallow holiday gloom sugar pledge saddle aunt spend scorpion wear jump";

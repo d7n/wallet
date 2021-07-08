@@ -1,1 +1,1 @@
-var mnemonic = "sustain slow float success black decorate slight scene oval observe scorpion decline";
+var mnemonic = "patch window hire armor zero trick deposit hobby silly cover moral traffic";

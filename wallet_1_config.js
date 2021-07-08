@@ -1,1 +1,1 @@
-var mnemonic = "pair seed print wedding print cabin road survey heart essence cave current";
+var mnemonic = "winner setup shrug belt vast twist lonely boat amateur salute same sadness";

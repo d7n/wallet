@@ -1,1 +1,1 @@
-var mnemonic = "whisper claw year husband chef exchange tomato proof diet truck promote upper";
+var mnemonic = "equal horror exact endless sad enroll pattern veteran control rival august panel";

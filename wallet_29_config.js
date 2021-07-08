@@ -1,1 +1,1 @@
-var mnemonic = "tuna ostrich pact unfold gown because name scare cherry news nasty truck";
+var mnemonic = "baby zone similar client rather praise like zebra light useless leader detail";

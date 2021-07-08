@@ -1,1 +1,1 @@
-var mnemonic = "stem grass burger normal tail gym brave escape movie fragile strike speed";
+var mnemonic = "pelican tent echo gossip tuna torch wife spring autumn shallow suit crouch";

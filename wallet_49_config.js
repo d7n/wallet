@@ -1,1 +1,1 @@
-var mnemonic = "vast laugh spawn exchange ignore summer achieve arch deposit pen close panda";
+var mnemonic = "allow unknown shoe surprise height various obtain liar attitude silly trophy gravity";

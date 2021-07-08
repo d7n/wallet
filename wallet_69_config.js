@@ -1,1 +1,1 @@
-var mnemonic = "naive entry name sister later danger siege spend please term emerge visa";
+var mnemonic = "social coffee village buffalo click demise interest curious combine change forest before";

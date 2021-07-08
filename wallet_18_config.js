@@ -1,1 +1,1 @@
-var mnemonic = "wolf remember anchor fun south exclude right magic stable soda traffic slam";
+var mnemonic = "initial cake enroll clean swap wood inner local open speed train alien";

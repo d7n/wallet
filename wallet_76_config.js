@@ -1,1 +1,1 @@
-var mnemonic = "medal coach honey symbol nothing nerve rain unit twice recipe snack believe";
+var mnemonic = "pill example assist slot radar stairs victory ivory negative deposit armed roof";

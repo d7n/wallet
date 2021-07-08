@@ -1,1 +1,1 @@
-var mnemonic = "gallery protect blossom ability purse arena deer gauge profit feed setup shed";
+var mnemonic = "can session style furnace venue keen onion urge employ town become today";

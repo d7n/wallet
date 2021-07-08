@@ -1,1 +1,1 @@
-var mnemonic = "crystal use maze jaguar junk miracle alley relief mechanic alert sorry sadness";
+var mnemonic = "sword abuse frequent govern cheese sense gadget before oyster couch possible flock";

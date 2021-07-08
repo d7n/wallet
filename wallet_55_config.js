@@ -1,1 +1,1 @@
-var mnemonic = "tenant help faculty aim phrase balcony end into acid guess hello ginger";
+var mnemonic = "force help forward orchard treat barrel train room paddle burger hidden tower";

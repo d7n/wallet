@@ -1,1 +1,1 @@
-var mnemonic = "force giant knock develop slender genre same sniff accident replace turn antenna";
+var mnemonic = "shed mom mistake also usage betray whisper front ribbon resource leaf glance";

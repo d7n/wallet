@@ -1,1 +1,1 @@
-var mnemonic = "dress ozone husband village behind fade cancel art track neck clerk castle";
+var mnemonic = "idea valley hair cousin detail similar budget nerve crash switch nice brain";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow feed caught divide clog behind ignore trouble engine know annual arrive";
+var mnemonic = "card glide snake state screen young peasant silver now inch habit proud";

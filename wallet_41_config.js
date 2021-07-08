@@ -1,1 +1,1 @@
-var mnemonic = "solid sphere area stove glove scare city file cattle way trash manage";
+var mnemonic = "city shell stuff artist cradle hazard skirt reveal front memory deliver lava";

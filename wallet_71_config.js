@@ -1,1 +1,1 @@
-var mnemonic = "muscle tenant rug awful gravity neck offer near artwork typical winter across";
+var mnemonic = "device casino owner scan syrup stay message process rail clock canoe join";

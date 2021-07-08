@@ -1,1 +1,1 @@
-var mnemonic = "increase reunion immune chest urban warrior sail moon rare legal sort tooth";
+var mnemonic = "forum alpha fiction tattoo upon thrive phone run virus safe fit mask";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli volume dumb energy funny save saddle box train car birth humble";
+var mnemonic = "bless oblige legal mansion nation ribbon online nuclear gravity similar knock romance";

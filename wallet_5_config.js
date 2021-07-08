@@ -1,1 +1,1 @@
-var mnemonic = "extra glass error true trigger kiss cargo point chase vapor nominee pitch";
+var mnemonic = "drop famous ball attitude float believe civil rent laugh rail business chuckle";

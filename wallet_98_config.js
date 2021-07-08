@@ -1,1 +1,1 @@
-var mnemonic = "clinic chronic pull secret mango symptom april crowd athlete magnet clinic raw";
+var mnemonic = "shell twin hill desk impact wait sudden join walk perfect west deliver";

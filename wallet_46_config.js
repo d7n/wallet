@@ -1,1 +1,1 @@
-var mnemonic = "fossil interest tent increase spray crowd betray artefact expose moon ring mail";
+var mnemonic = "live version glad coyote visual social net midnight quit remind all write";

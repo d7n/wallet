@@ -1,1 +1,1 @@
-var mnemonic = "above install manual differ escape setup hunt already exotic pluck swim domain";
+var mnemonic = "win cup any sugar fan cram table senior orbit toy crunch fringe";

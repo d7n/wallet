@@ -1,1 +1,1 @@
-var mnemonic = "grain author stable stumble genius couch victory prefer entry shell solve material";
+var mnemonic = "flame giraffe horse outdoor worry candy leaf oyster bamboo dilemma gather cigar";

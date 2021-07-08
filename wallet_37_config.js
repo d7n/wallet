@@ -1,1 +1,1 @@
-var mnemonic = "bonus faint napkin leopard demand pudding foster token pave ancient skin suffer";
+var mnemonic = "radio frame crawl decide emotion canoe slab panic final paddle purpose canyon";

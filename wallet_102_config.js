@@ -1,1 +1,1 @@
-var mnemonic = "erosion damage escape accident hockey clarify meat exhaust skill repeat silly hip";
+var mnemonic = "bicycle awake ship sea merry movie cross oval sick celery off wire";

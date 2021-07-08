@@ -1,1 +1,1 @@
-var mnemonic = "tiger rice blood myself negative trial embody powder olive two piano capital";
+var mnemonic = "drop accuse decline annual shaft smooth person sand stumble quiz shove salute";

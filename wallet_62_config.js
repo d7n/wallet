@@ -1,1 +1,1 @@
-var mnemonic = "mercy brass put enjoy eight trend tomato divorce mad small year ribbon";
+var mnemonic = "hold inquiry jealous depart size cherry bag surround skate weekend wonder fiscal";
