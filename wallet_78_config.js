@@ -1,1 +1,1 @@
-var mnemonic = "dish master umbrella raccoon zoo pulp please blame piece wire alien base";
+var mnemonic = "smile clerk inspire loud file enter one leave shine carry soon label";

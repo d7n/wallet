@@ -1,1 +1,1 @@
-var mnemonic = "firm bean kitchen property volume weasel coach addict custom indicate pilot alien";
+var mnemonic = "team essay machine general usage vanish balance rebel park rule tool cross";

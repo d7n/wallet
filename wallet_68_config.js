@@ -1,1 +1,1 @@
-var mnemonic = "industry family artwork joke travel slight high wedding hood leg hunt medal";
+var mnemonic = "charge cause decade bone edge round avocado radar margin few illegal garment";

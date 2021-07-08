@@ -1,1 +1,1 @@
-var mnemonic = "machine kangaroo sail burger trash curtain focus fee clever oppose duty left";
+var mnemonic = "permit dutch diesel goat copy cherry street engage give lesson ladder crazy";

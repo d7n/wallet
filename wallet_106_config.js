@@ -1,1 +1,1 @@
-var mnemonic = "multiply spawn ice gesture better high zero huge trash shrimp alley trigger";
+var mnemonic = "invite provide nut elder gold raccoon blue skin guess timber believe buzz";

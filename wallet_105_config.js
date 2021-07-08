@@ -1,1 +1,1 @@
-var mnemonic = "link feel knock clarify tube unknown friend you tell task draft wisdom";
+var mnemonic = "title endless rate raw auction slab fault size key absorb strike artwork";

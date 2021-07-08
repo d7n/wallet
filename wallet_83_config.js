@@ -1,1 +1,1 @@
-var mnemonic = "wealth boring sleep people toddler know city reject album anxiety young sun";
+var mnemonic = "venture define object faint senior century floor age old cushion pitch brick";

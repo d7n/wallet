@@ -1,1 +1,1 @@
-var mnemonic = "reflect bus grace tent hope gas riot then drive fortune bachelor honey";
+var mnemonic = "remind hold size dawn snow example faint wreck issue neither misery want";

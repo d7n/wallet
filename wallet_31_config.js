@@ -1,1 +1,1 @@
-var mnemonic = "vault mushroom boring dilemma myself claw seat feature drum parent attract scare";
+var mnemonic = "mule sample brave lonely erosion man act kingdom tennis suggest book excess";

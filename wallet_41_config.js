@@ -1,1 +1,1 @@
-var mnemonic = "van mom bottom grunt gauge episode case slab ecology original october nominee";
+var mnemonic = "primary cousin major thought below banana layer gossip match sausage wise surprise";

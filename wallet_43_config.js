@@ -1,1 +1,1 @@
-var mnemonic = "pencil amateur stone cover letter blouse jump mail pill income million license";
+var mnemonic = "include inner bounce tomato concert cactus budget copper mind swim movie gauge";

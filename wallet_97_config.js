@@ -1,1 +1,1 @@
-var mnemonic = "liquid cash aim trumpet wasp under nut food crunch quit tunnel father";
+var mnemonic = "camp humor fashion sustain nut follow reduce onion rib taste rifle surface";

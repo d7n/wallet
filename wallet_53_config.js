@@ -1,1 +1,1 @@
-var mnemonic = "canoe private response rebel scrub shift occur library glance scatter airport room";
+var mnemonic = "card capital negative fluid total venture canal zoo life roast eyebrow ball";

@@ -1,1 +1,1 @@
-var mnemonic = "congress carry field alley faculty oven chimney pear discover mirror harvest floor";
+var mnemonic = "retreat busy into vibrant quick curious cream inhale chronic scorpion sad ghost";

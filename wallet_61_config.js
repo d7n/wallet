@@ -1,1 +1,1 @@
-var mnemonic = "album exotic rather october jewel legend actual gas win two settle attitude";
+var mnemonic = "cradle concert couch produce situate fork warfare cross donor display stereo intact";

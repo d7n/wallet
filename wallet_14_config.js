@@ -1,1 +1,1 @@
-var mnemonic = "immense section rate brass energy dad city response nation robust reunion fancy";
+var mnemonic = "discover mule reflect design huge practice assist shove sure student dune person";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain critic weird slogan draw galaxy guilt traffic note paddle oak toss";
+var mnemonic = "lift possible vehicle melody below often sadness live system total knee lottery";

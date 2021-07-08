@@ -1,1 +1,1 @@
-var mnemonic = "indoor side anchor retreat best list correct define burden shoulder rude industry";
+var mnemonic = "uphold huge brown copy icon prison cat path add effort million bacon";

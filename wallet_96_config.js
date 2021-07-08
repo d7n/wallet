@@ -1,1 +1,1 @@
-var mnemonic = "begin obvious enrich rigid syrup stairs because ladder public toward crowd harbor";
+var mnemonic = "poverty token sure nest rally south body lonely review stable save deny";

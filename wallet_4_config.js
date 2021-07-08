@@ -1,1 +1,1 @@
-var mnemonic = "punch that mixture walnut pepper tissue raccoon lion mutual borrow sheriff balcony";
+var mnemonic = "spike glad glide knock fun endorse divert erupt festival connect heart cup";

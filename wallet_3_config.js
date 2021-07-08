@@ -1,1 +1,1 @@
-var mnemonic = "below budget loop head guide raise total impulse salute lock alien file";
+var mnemonic = "magnet disorder history town tackle engage cactus menu popular gaze yellow coin";

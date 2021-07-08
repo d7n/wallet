@@ -1,1 +1,1 @@
-var mnemonic = "runway monkey dad myth cliff virus grunt spin skirt picnic index merge";
+var mnemonic = "anger claim bonus this junk grunt noise spider depend jazz brush nephew";

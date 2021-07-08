@@ -1,1 +1,1 @@
-var mnemonic = "head hold toss patrol banana language hospital provide conduct filter snap sort";
+var mnemonic = "mix gauge like dinner quote connect absorb street poet item reduce release";

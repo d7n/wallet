@@ -1,1 +1,1 @@
-var mnemonic = "voice anchor basket east genre divert adjust all trouble solution affair refuse";
+var mnemonic = "twist advice rookie buyer talk best news humble click high weapon celery";

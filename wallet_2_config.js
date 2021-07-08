@@ -1,1 +1,1 @@
-var mnemonic = "bunker proud fix pudding select powder female oval govern mansion advance anxiety";
+var mnemonic = "object below digital lottery mom cabin animal degree skirt federal hope train";

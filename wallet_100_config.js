@@ -1,1 +1,1 @@
-var mnemonic = "initial balcony wool vocal extend monitor fever jar night scout unlock soap";
+var mnemonic = "salute slice buzz digital artwork calm ocean hazard boy sword fork then";

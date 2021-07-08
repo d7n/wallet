@@ -1,1 +1,1 @@
-var mnemonic = "mesh baby fluid assume casual thunder accuse obtain veteran lesson very gift";
+var mnemonic = "brisk caution pitch twelve series judge flavor pass enter girl mass flash";

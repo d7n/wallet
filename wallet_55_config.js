@@ -1,1 +1,1 @@
-var mnemonic = "tourist discover ready vault six hour carpet keep rather ritual spin buzz";
+var mnemonic = "guard language stadium picture fun dilemma holiday rifle lemon like cactus flight";

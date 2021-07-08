@@ -1,1 +1,1 @@
-var mnemonic = "tattoo destroy mandate immense abandon spawn judge fragile rack come trade december";
+var mnemonic = "trial false quick extend salute dinner plate mirror exact angle coach business";

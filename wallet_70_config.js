@@ -1,1 +1,1 @@
-var mnemonic = "object hybrid spy can denial early until uncle elephant august material air";
+var mnemonic = "leave drum foil deal oven spice upon bleak resource portion diagram effort";

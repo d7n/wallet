@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ice donate solar lunch maze gold great error brass neglect divide";
+var mnemonic = "robot stay keep reflect vehicle include return explain track find trial theory";

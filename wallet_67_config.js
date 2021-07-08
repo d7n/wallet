@@ -1,1 +1,1 @@
-var mnemonic = "fashion bus moment comic december auto duck fitness blush hollow point torch";
+var mnemonic = "dizzy movie mosquito quit love taxi powder raven resemble twin oyster recall";

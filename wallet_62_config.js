@@ -1,1 +1,1 @@
-var mnemonic = "acquire alter fish allow fence mutual script easy burst night blouse basket";
+var mnemonic = "urban all subway shadow state eyebrow tool rifle raise census venture space";

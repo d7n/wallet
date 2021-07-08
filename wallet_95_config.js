@@ -1,1 +1,1 @@
-var mnemonic = "fitness vote bless final knife fun alarm kingdom vendor stove cat betray";
+var mnemonic = "wool cabin car cliff cactus amused service airport civil ribbon kangaroo real";

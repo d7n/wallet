@@ -1,1 +1,1 @@
-var mnemonic = "trap badge job bamboo illegal ridge vacuum rural relax tree holiday neglect";
+var mnemonic = "term only arena decide excite album useless enlist thrive response blade silent";

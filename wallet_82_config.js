@@ -1,1 +1,1 @@
-var mnemonic = "history loud ozone shift swap extend near vault now waste between refuse";
+var mnemonic = "orient arm duty road winter spend census tiger like puzzle when similar";

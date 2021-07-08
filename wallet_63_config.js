@@ -1,1 +1,1 @@
-var mnemonic = "lift six movie winner magnet atom laundry yellow deposit ankle vendor camp";
+var mnemonic = "unhappy usual idea sibling vehicle alter three dog degree regret need town";

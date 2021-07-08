@@ -1,1 +1,1 @@
-var mnemonic = "random true car blade coffee nature biology cash pilot vague fine debate";
+var mnemonic = "neutral immune grief umbrella prepare fault drift cover country search erosion poverty";

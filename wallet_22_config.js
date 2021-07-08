@@ -1,1 +1,1 @@
-var mnemonic = "vague tuna case object parent famous common embrace impulse gorilla must divorce";
+var mnemonic = "useful hockey grape autumn ticket obvious frozen pill answer define agent erode";

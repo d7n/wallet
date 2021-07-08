@@ -1,1 +1,1 @@
-var mnemonic = "prosper hundred furnace trash token error purse panda badge top brown cinnamon";
+var mnemonic = "jar lady cage diesel sting hurt path fringe simple suspect expect agent";

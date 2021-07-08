@@ -1,1 +1,1 @@
-var mnemonic = "rice slice soul remove kiss crystal oblige auction cabin prize danger list";
+var mnemonic = "museum seminar pull jealous domain response heavy segment cotton pigeon various organ";

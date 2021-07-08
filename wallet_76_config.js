@@ -1,1 +1,1 @@
-var mnemonic = "junk hidden cave brave since check clinic wing swap adjust quit cheese";
+var mnemonic = "swarm sheriff reform picnic film cake recycle rocket rule mention aim lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "gas donate grief law border leave inch indoor segment burger agree strategy";
+var mnemonic = "mercy kick drip milk outside stool chicken vague pizza raw injury season";

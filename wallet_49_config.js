@@ -1,1 +1,1 @@
-var mnemonic = "usage negative second reflect word theory metal pride rival hip when reveal";
+var mnemonic = "cement fuel simple excuse this orchard emerge engine reason race later junk";

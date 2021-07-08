@@ -1,1 +1,1 @@
-var mnemonic = "rail fork pupil blood slender crime hotel flat tail slush maple cushion";
+var mnemonic = "wrestle ketchup guard zebra flush live plug organ forest session caught barely";

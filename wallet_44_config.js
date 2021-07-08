@@ -1,1 +1,1 @@
-var mnemonic = "double elevator jewel wish only neck kitchen border any trial fancy frozen";
+var mnemonic = "bitter flock radar forum flag mirror fruit biology dry range town flip";

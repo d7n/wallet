@@ -1,1 +1,1 @@
-var mnemonic = "casual gauge artefact dice concert actual laugh chef rabbit banner despair salon";
+var mnemonic = "spot decade win gold tiny term derive ginger there notable arrange mandate";

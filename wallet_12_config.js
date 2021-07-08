@@ -1,1 +1,1 @@
-var mnemonic = "book boy verify pony fade endless cry eye manage quit about alien";
+var mnemonic = "custom dry depend popular neck rebel decorate already excess cousin slow shift";

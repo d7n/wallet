@@ -1,1 +1,1 @@
-var mnemonic = "innocent leave toilet decorate secret tone someone nothing always walk cactus van";
+var mnemonic = "feel have fame dinner edge million cost skull daughter library illegal three";

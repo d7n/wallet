@@ -1,1 +1,1 @@
-var mnemonic = "ill pretty mule yellow pig forum bar husband assault dream scatter donate";
+var mnemonic = "solid eyebrow best trip puzzle physical away call pelican enrich quit text";

@@ -1,1 +1,1 @@
-var mnemonic = "possible noble also people lawn supreme venture copper embrace expire fit torch";
+var mnemonic = "future prize uncle nothing able hammer define worth push glove trap elegant";

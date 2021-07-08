@@ -1,1 +1,1 @@
-var mnemonic = "hospital coin old lab hip amount october draw address job ignore agree";
+var mnemonic = "fresh model grape firm assume creek mask exhaust pudding doll warm surround";

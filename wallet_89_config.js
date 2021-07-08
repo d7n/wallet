@@ -1,1 +1,1 @@
-var mnemonic = "faculty nothing senior trip base skirt denial pass coach search galaxy jungle";
+var mnemonic = "spread zone capable slam room day win heart riot energy expose crumble";

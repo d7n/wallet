@@ -1,1 +1,1 @@
-var mnemonic = "loop twin bean goose marble inform cool festival smoke culture shoot review";
+var mnemonic = "vibrant dress brass under benefit render bleak earth mandate chicken math size";

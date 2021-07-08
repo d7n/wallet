@@ -1,1 +1,1 @@
-var mnemonic = "umbrella skate snack buddy bike combine pony across brave view priority goose";
+var mnemonic = "lecture island barely load bracket animal impulse sight eight limit deliver trumpet";

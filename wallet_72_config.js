@@ -1,1 +1,1 @@
-var mnemonic = "catalog egg arrive exercise fiscal chuckle urban need much chicken ride worth";
+var mnemonic = "devote manage uphold another woman portion curtain bus brush ability promote mountain";

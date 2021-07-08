@@ -1,1 +1,1 @@
-var mnemonic = "dream unfold vendor distance monitor leaf current problem alert avoid casual decline";
+var mnemonic = "face august alien agree charge mother ribbon tourist describe shock symbol crack";

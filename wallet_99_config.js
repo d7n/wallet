@@ -1,1 +1,1 @@
-var mnemonic = "stem dentist alpha teach crumble gorilla hard forest loan lobster ordinary clever";
+var mnemonic = "guitar boat suffer confirm key anger creek sell bridge minor crumble capital";

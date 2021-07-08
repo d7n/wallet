@@ -1,1 +1,1 @@
-var mnemonic = "uncle twice about surround flag trade afford assault media basket good fatal";
+var mnemonic = "arrest attitude merge olympic rhythm suggest monster embrace hub nest scan rent";

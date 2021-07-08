@@ -1,1 +1,1 @@
-var mnemonic = "energy train bird sight inherit ghost flag base sorry jar gap mystery";
+var mnemonic = "gauge aisle local grant crater retire gloom captain taste regular rally club";

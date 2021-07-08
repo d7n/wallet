@@ -1,1 +1,1 @@
-var mnemonic = "write divert danger twenty uncle bar sunny accuse mixture simple accuse donkey";
+var mnemonic = "chunk twice rebel owner broom between urge split embrace liquid flight cruise";

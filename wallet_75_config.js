@@ -1,1 +1,1 @@
-var mnemonic = "chuckle tunnel replace era boil junior yellow river foam job bronze glow";
+var mnemonic = "quality collect trap laugh toddler clutch glad evolve mirror wish walnut keen";

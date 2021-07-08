@@ -1,1 +1,1 @@
-var mnemonic = "shoot raven silk useless want eagle laptop eagle torch soul pistol render";
+var mnemonic = "install one pupil buffalo small muscle sick maze unknown ability slice quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "soon fancy jaguar consider know crew squeeze copper climb cherry never stairs";
+var mnemonic = "spot thrive firm another rare load size switch scheme vote ketchup ladder";

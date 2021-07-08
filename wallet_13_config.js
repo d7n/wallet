@@ -1,1 +1,1 @@
-var mnemonic = "pet sustain pumpkin danger world number spirit pepper amount zero exchange expire";
+var mnemonic = "fancy satisfy physical smooth dwarf cliff abstract scrub sniff sick common scan";

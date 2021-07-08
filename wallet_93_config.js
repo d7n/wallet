@@ -1,1 +1,1 @@
-var mnemonic = "brand garment fancy blossom web become filter cool remember slab yard neither";
+var mnemonic = "fence match distance analyst denial tuition tomato worth erode cluster purity bind";

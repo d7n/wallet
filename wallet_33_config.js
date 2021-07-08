@@ -1,1 +1,1 @@
-var mnemonic = "stage opera recall neither cook proud voice person outer entire brass ignore";
+var mnemonic = "treat together honey waste bike wing silly clarify approve quarter regret front";

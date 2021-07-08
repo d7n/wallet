@@ -1,1 +1,1 @@
-var mnemonic = "water climb aerobic drip say impact friend butter gift mistake dial emerge";
+var mnemonic = "body album deer husband thunder earth bronze margin rebuild dirt surge like";

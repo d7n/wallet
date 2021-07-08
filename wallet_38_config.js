@@ -1,1 +1,1 @@
-var mnemonic = "glimpse course arena post soon unable setup close parrot rural hollow flag";
+var mnemonic = "fox retire doll atom truly that wink list agree ensure vault ten";

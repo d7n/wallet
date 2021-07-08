@@ -1,1 +1,1 @@
-var mnemonic = "scene sunny mail jazz help cradle attitude purse wash tattoo rough number";
+var mnemonic = "inherit surface once hobby sock motor airport across cigar head depart world";

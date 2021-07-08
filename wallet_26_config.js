@@ -1,1 +1,1 @@
-var mnemonic = "attract hidden will vendor decline forward oblige asset celery august doctor bridge";
+var mnemonic = "number desert skate aware velvet error thought pool lawn ripple cupboard feature";

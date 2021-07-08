@@ -1,1 +1,1 @@
-var mnemonic = "cage memory coyote agree identify unknown rug upgrade spare adjust evil festival";
+var mnemonic = "tree life celery holiday degree casino stem consider teach lumber mad beach";

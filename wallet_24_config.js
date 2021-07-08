@@ -1,1 +1,1 @@
-var mnemonic = "bamboo donor salmon drama force cliff section session indoor jewel farm alcohol";
+var mnemonic = "miracle example hover inquiry pyramid fine budget dragon road equal cash potato";

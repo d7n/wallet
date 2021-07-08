@@ -1,1 +1,1 @@
-var mnemonic = "syrup enjoy cabbage disagree attack world cheese receive move expect benefit visit";
+var mnemonic = "slab proof dentist treat devote fever surprise crystal hundred husband theme attract";

@@ -1,1 +1,1 @@
-var mnemonic = "spot scan purpose demise stove icon never glove author assume arrest scrub";
+var mnemonic = "fog nest wedding interest model match jump cheese limit traffic until credit";

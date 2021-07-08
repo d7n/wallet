@@ -1,1 +1,1 @@
-var mnemonic = "hub test laugh curve rather dance bacon toast throw blame hobby icon";
+var mnemonic = "acquire cattle dwarf unhappy lizard cargo giggle faculty skull wheat dragon flame";

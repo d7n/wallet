@@ -1,1 +1,1 @@
-var mnemonic = "narrow caught urge custom rapid sing tube health hobby current art blossom";
+var mnemonic = "sister vivid above axis century time wisdom athlete diamond farm enlist stomach";

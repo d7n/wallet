@@ -1,1 +1,1 @@
-var mnemonic = "example twelve pen suit coyote spring skirt broken casino slice exist below";
+var mnemonic = "girl pull reflect behave poem tiger copy furnace pause essence mean clever";

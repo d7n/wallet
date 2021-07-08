@@ -1,1 +1,1 @@
-var mnemonic = "fresh athlete people silent monster pizza fashion toward expand taste clap hunt";
+var mnemonic = "worry sort left history good hold fire beauty tube cargo subject unveil";

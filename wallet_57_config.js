@@ -1,1 +1,1 @@
-var mnemonic = "glimpse core window buzz noise state allow heavy position blame trap oven";
+var mnemonic = "error one virtual humble iron crunch faint lend pave patient seven possible";

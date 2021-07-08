@@ -1,1 +1,1 @@
-var mnemonic = "hollow busy praise outdoor pulp avocado shock arrest eagle loud remember drink";
+var mnemonic = "shiver private illness net mother panic lock offer mobile they solution inch";

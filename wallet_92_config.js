@@ -1,1 +1,1 @@
-var mnemonic = "try nose naive uncle keep judge solve chef unfold luggage depth type";
+var mnemonic = "chapter parent ice purpose cloth word become earth novel flower gorilla inside";

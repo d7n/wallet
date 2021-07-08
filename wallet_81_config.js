@@ -1,1 +1,1 @@
-var mnemonic = "attract injury bonus piece edit risk stem vessel trophy retire cancel toy";
+var mnemonic = "reunion innocent list voice chair public nominee between essay under clever build";

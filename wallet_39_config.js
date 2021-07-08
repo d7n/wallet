@@ -1,1 +1,1 @@
-var mnemonic = "auction total seminar badge fat version dirt can average skull beach silk";
+var mnemonic = "economy travel kingdom canvas poverty long people yellow oxygen tenant acoustic dove";

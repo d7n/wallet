@@ -1,1 +1,1 @@
-var mnemonic = "vocal brother digital exercise regular theme among lumber caught express twin toss";
+var mnemonic = "kick pottery cycle combine swim drive damage idle own toward hybrid script";

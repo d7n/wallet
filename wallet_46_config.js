@@ -1,1 +1,1 @@
-var mnemonic = "discover good creek ugly siren kitten bright elephant grief civil recycle legal";
+var mnemonic = "latin crowd dragon able nice legal brand survey creek modify sort diesel";

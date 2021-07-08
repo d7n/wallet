@@ -1,1 +1,1 @@
-var mnemonic = "radar sentence jazz frequent rug powder noble thrive blood neutral clever version";
+var mnemonic = "town powder intact sausage pumpkin prison hamster invite able veteran spike sunny";

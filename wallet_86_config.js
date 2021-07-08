@@ -1,1 +1,1 @@
-var mnemonic = "learn mention release clever board magic wagon author skate into bomb acid";
+var mnemonic = "click gravity resemble confirm forum leave argue table vibrant mammal use drink";

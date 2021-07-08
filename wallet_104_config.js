@@ -1,1 +1,1 @@
-var mnemonic = "verify distance lonely firm ranch potato cradle focus half spatial average run";
+var mnemonic = "awkward sphere alert north disease limit song pitch tip draw vehicle mango";

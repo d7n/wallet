@@ -1,1 +1,1 @@
-var mnemonic = "copper please escape ecology snake south memory joy shop assume brother often";
+var mnemonic = "impulse end front list ensure border card unknown cause symptom mad rhythm";

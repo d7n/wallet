@@ -1,1 +1,1 @@
-var mnemonic = "pupil satisfy attend duty sudden trust century city energy follow clump collect";
+var mnemonic = "rigid melt visit write tiger float lecture very produce huge artwork force";

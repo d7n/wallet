@@ -1,1 +1,1 @@
-var mnemonic = "march subject boy lyrics hard ship surround toe journey robust grant pride";
+var mnemonic = "bulk afraid lawsuit fan fit margin force spider bracket neck sun glare";

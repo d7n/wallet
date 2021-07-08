@@ -1,1 +1,1 @@
-var mnemonic = "acquire member argue fog flash weather pilot front tumble hurry topple one";
+var mnemonic = "leaf shaft room three sponsor exclude execute life lobster permit bulb rare";

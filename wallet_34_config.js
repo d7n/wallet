@@ -1,1 +1,1 @@
-var mnemonic = "labor chimney cross still regular share lemon family rule flat point goddess";
+var mnemonic = "bottom scrap practice top report width betray coral pupil approve edit local";
