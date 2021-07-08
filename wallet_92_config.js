@@ -1,1 +1,1 @@
-var mnemonic = "hurt tissue uniform middle ivory chicken hurdle proud sock potato transfer kitchen";
+var mnemonic = "cereal series sugar hundred genius play cream lyrics warm planet enter bitter";

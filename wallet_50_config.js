@@ -1,1 +1,1 @@
-var mnemonic = "marriage author deputy kitten brief above twist bean trade payment teach auto";
+var mnemonic = "below still cable element machine easily deal wrap flush donate awesome roof";

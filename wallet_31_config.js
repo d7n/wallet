@@ -1,1 +1,1 @@
-var mnemonic = "modify apart subject ignore mechanic apology answer moral pole crazy pilot acid";
+var mnemonic = "copy nurse music agree regret cement exist rich fiscal blur toss junk";

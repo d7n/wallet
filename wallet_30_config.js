@@ -1,1 +1,1 @@
-var mnemonic = "dismiss rapid churn exclude display narrow hole game humble sorry chapter skin";
+var mnemonic = "sniff letter deny window depend pet empty tired deal vicious obvious combine";

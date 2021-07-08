@@ -1,1 +1,1 @@
-var mnemonic = "pipe gloom symbol crowd arm direct squeeze unaware perfect recycle open blanket";
+var mnemonic = "club peanut ignore garden syrup pigeon turn there broken talent mule age";

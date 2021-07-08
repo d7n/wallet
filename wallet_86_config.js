@@ -1,1 +1,1 @@
-var mnemonic = "edge stairs license angle unfair famous trade between vocal evil cake share";
+var mnemonic = "gown sorry hair benefit school sword talk often ecology fine need trip";

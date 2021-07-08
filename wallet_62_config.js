@@ -1,1 +1,1 @@
-var mnemonic = "struggle crop magic vehicle pistol defense tail decrease resemble flag grocery diet";
+var mnemonic = "industry master when actress unit tunnel into ski vessel diamond bottom lunar";

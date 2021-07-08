@@ -1,1 +1,1 @@
-var mnemonic = "coyote rate sauce grape camera panic three involve wheat happy lady whale";
+var mnemonic = "ride omit attend grit exile snake ski festival trade pave jungle record";

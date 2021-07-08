@@ -1,1 +1,1 @@
-var mnemonic = "toast dog visual false pool mixture hard nothing frown lens exhibit sphere";
+var mnemonic = "valley only artist enemy curve embody ceiling prison ritual reveal bacon light";

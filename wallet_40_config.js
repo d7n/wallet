@@ -1,1 +1,1 @@
-var mnemonic = "adapt federal type occur excite tooth receive vague tribe master chase decorate";
+var mnemonic = "approve gather bulb load reduce fox bubble year chunk jewel winter antenna";

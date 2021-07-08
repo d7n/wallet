@@ -1,1 +1,1 @@
-var mnemonic = "fault warrior figure push juice honey express skate short strike warfare reflect";
+var mnemonic = "enhance helmet increase salad machine relief also soldier radar safe ring food";

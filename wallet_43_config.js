@@ -1,1 +1,1 @@
-var mnemonic = "maid love alley address lemon feel next mom want gown hip latin";
+var mnemonic = "ivory deliver scatter age health borrow rate tourist exhibit that elephant tomorrow";

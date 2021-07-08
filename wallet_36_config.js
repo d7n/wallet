@@ -1,1 +1,1 @@
-var mnemonic = "suspect present home hurt canvas sphere result couple portion try raise undo";
+var mnemonic = "strike secret fresh unfair wide property come double curtain puppy alone pear";

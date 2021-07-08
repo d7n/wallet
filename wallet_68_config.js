@@ -1,1 +1,1 @@
-var mnemonic = "ketchup sentence science okay always clock mosquito reveal stomach luggage various fan";
+var mnemonic = "meat siege pizza artist range film giraffe envelope glue spatial uphold card";

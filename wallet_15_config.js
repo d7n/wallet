@@ -1,1 +1,1 @@
-var mnemonic = "feature sock solar ten identify mule favorite prison evil text zone slice";
+var mnemonic = "name gorilla point gown top scare system toy bar cloth dice delay";

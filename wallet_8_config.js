@@ -1,1 +1,1 @@
-var mnemonic = "smart glad bean shine attitude sphere whip dizzy equal debate elevator vault";
+var mnemonic = "rapid autumn ripple among brand goddess pulse autumn involve vocal idle hedgehog";

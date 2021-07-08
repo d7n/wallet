@@ -1,1 +1,1 @@
-var mnemonic = "depend yellow frog trouble snow junk reopen any approve crane always aim";
+var mnemonic = "palm maximum high warm topple profit edit engage fruit cable dream ranch";

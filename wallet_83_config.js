@@ -1,1 +1,1 @@
-var mnemonic = "tray indicate struggle nephew undo trick soon column utility gas limit swamp";
+var mnemonic = "dawn language kiss humor repeat mix skate blur pink tower exist grab";

@@ -1,1 +1,1 @@
-var mnemonic = "net betray ribbon much finger bundle crater pill oppose pupil arrest attitude";
+var mnemonic = "crucial derive achieve hurdle air bulb feed copper space start also funny";

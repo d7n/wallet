@@ -1,1 +1,1 @@
-var mnemonic = "fall twist kiss oblige advice dwarf crawl salt pledge style ripple planet";
+var mnemonic = "review zero oppose night slogan donate honey august trap opera east chest";

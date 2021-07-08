@@ -1,1 +1,1 @@
-var mnemonic = "blood volcano critic smooth winter disagree similar length tumble sauce mass weapon";
+var mnemonic = "hard cherry permit cushion give left meat random cross license merit foot";

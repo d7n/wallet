@@ -1,1 +1,1 @@
-var mnemonic = "dog donkey find denial ability any snap pony tool butter ivory dry";
+var mnemonic = "enact maid enroll ability joke nurse birth trick core clarify finish loop";

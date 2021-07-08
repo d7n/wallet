@@ -1,1 +1,1 @@
-var mnemonic = "wear clock tone run letter bridge march stock pudding mystery demise canal";
+var mnemonic = "parade dose adjust rabbit play twin emerge grit forward order author topic";

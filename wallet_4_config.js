@@ -1,1 +1,1 @@
-var mnemonic = "dismiss tail weasel vehicle invest next diary tower sorry owner envelope lawn";
+var mnemonic = "smoke giraffe plastic sick earth eye duck hero taxi motor ten image";

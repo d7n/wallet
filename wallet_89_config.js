@@ -1,1 +1,1 @@
-var mnemonic = "match assume green fit obtain pioneer move disease sight auction insect bench";
+var mnemonic = "space furnace climb favorite marine olympic husband stick ceiling urge deny afraid";

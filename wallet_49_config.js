@@ -1,1 +1,1 @@
-var mnemonic = "differ element spike ribbon reform kite hat baby market defy lawsuit intact";
+var mnemonic = "hungry glad day spring keen pencil latin cook act loop correct salute";

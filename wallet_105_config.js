@@ -1,1 +1,1 @@
-var mnemonic = "slice camera fury multiply crumble beef unaware loyal keep poet dwarf million";
+var mnemonic = "finish tattoo potato dragon hint design desert cancel danger wire disagree salt";

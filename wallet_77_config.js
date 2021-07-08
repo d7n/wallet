@@ -1,1 +1,1 @@
-var mnemonic = "giant castle axis setup indicate glide wood pistol balance someone rhythm leopard";
+var mnemonic = "slide pattern swamp master have useful analyst mesh hope margin disagree potato";

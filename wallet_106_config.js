@@ -1,1 +1,1 @@
-var mnemonic = "primary solution bean depth person twice carbon domain motor there warrior puppy";
+var mnemonic = "muffin miss fit early dragon assist sand swamp install shaft tank click";

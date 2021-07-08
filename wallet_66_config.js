@@ -1,1 +1,1 @@
-var mnemonic = "initial armed ancient depart rule scorpion soul join cargo enable inmate hold";
+var mnemonic = "truth famous target soon egg direct happy clump tide crime lumber unit";

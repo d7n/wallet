@@ -1,1 +1,1 @@
-var mnemonic = "blue hero fashion repair inherit thought theme fault member medal sword this";
+var mnemonic = "remind evoke onion stool guard oxygen siren onion obey true boy tribe";

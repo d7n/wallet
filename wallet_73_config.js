@@ -1,1 +1,1 @@
-var mnemonic = "tenant divert brass hope talk airport pretty wealth army cupboard spatial initial";
+var mnemonic = "unfold ritual slight icon worry brand artwork express surround scheme equal swing";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual race tonight early series certain example piano argue morning only material";
+var mnemonic = "burden online conduct earn hammer broom focus embody thank tornado act lyrics";

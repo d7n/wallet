@@ -1,1 +1,1 @@
-var mnemonic = "crop brave setup soap net auction cart juice rabbit defense sing brain";
+var mnemonic = "vague require brisk tree visit midnight bar drift hair vicious render already";

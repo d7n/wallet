@@ -1,1 +1,1 @@
-var mnemonic = "minor wild index reopen poet catch gaze blouse sea shiver federal sunset";
+var mnemonic = "quick mansion black swap angle hurt quarter bubble mix lesson absent easily";

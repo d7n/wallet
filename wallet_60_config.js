@@ -1,1 +1,1 @@
-var mnemonic = "wagon capital coil envelope online globe dream gather disorder panel inside movie";
+var mnemonic = "quarter pool slow aspect mixture foot fatal usual arctic energy pink pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "blush wild country tortoise prefer urge unlock gallery ketchup faint trust offer";
+var mnemonic = "peanut ancient orchard sight mixture chat slush dove panther survey laptop forum";

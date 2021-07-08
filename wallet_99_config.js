@@ -1,1 +1,1 @@
-var mnemonic = "dinner civil emerge vibrant acid jelly tiny icon random finish step pistol";
+var mnemonic = "canoe ridge wreck quiz satoshi melt uniform beef juice mansion convince key";

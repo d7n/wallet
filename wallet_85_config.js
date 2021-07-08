@@ -1,1 +1,1 @@
-var mnemonic = "announce robust put noodle pair cycle uncover desert raven clay ritual pony";
+var mnemonic = "good body thank south stamp share scorpion excite coil try wealth nut";

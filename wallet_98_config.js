@@ -1,1 +1,1 @@
-var mnemonic = "excess hamster today sword warrior clutch valley fault over lawsuit donate boost";
+var mnemonic = "cereal acquire crunch pole bag hospital above attack ugly garlic valley swim";

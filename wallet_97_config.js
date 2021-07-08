@@ -1,1 +1,1 @@
-var mnemonic = "resource option immense drip helmet hedgehog forward aunt excite knife wood perfect";
+var mnemonic = "farm blind street fee stock grass flock purity assault okay jelly bone";

@@ -1,1 +1,1 @@
-var mnemonic = "forward fence same coach dilemma kind also menu sentence cage wasp sheriff";
+var mnemonic = "select drum memory jungle warrior brand matrix genuine notice march mushroom obvious";

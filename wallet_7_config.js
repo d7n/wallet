@@ -1,1 +1,1 @@
-var mnemonic = "thought twin suit pool viable attitude digital squirrel shiver script shiver short";
+var mnemonic = "any room yard grow small chunk away thumb this cash parrot tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "assist shove couch never life rack earth fluid swing jewel muffin detect";
+var mnemonic = "sheriff suffer win cheap problem fringe journey hour item squeeze misery sugar";

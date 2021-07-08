@@ -1,1 +1,1 @@
-var mnemonic = "fade burden plastic fringe call side lizard alley brave save same grant";
+var mnemonic = "breeze float coil today awful law diary settle champion grow lecture jump";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely action attack stay else jaguar drill uncover injury bachelor actor topple";
+var mnemonic = "fringe wink keep gate struggle zone afford island orbit photo reopen lesson";

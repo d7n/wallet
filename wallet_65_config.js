@@ -1,1 +1,1 @@
-var mnemonic = "throw guilt sunny life limit empty play vacant crystal guard sheriff coast";
+var mnemonic = "fragile account target hazard best crouch limit tiger wrestle section hungry elegant";

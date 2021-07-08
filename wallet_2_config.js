@@ -1,1 +1,1 @@
-var mnemonic = "sniff riot ski pulse bless skirt decline catch elephant reward brisk exhibit";
+var mnemonic = "else quantum scorpion wall bench club blast injury meadow tourist chef best";

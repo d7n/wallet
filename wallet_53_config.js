@@ -1,1 +1,1 @@
-var mnemonic = "shoulder extend vivid vintage hotel powder almost trust illness tortoise moment fiber";
+var mnemonic = "deposit grocery bitter adult lock similar hole wood excuse demise siege play";

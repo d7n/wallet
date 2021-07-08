@@ -1,1 +1,1 @@
-var mnemonic = "unlock dawn ethics drink dwarf eternal coast wedding silly remember humor machine";
+var mnemonic = "grab stem detect goat company accuse tobacco trade ill genius magic dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "hold ghost oxygen mobile junk gap elder like wise glimpse thank feed";
+var mnemonic = "acoustic discover promote author nation crack sphere wear roof miss miracle aisle";

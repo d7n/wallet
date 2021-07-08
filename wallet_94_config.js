@@ -1,1 +1,1 @@
-var mnemonic = "rack bridge crazy ketchup solve depend flight gloom also play wrestle border";
+var mnemonic = "fix hold unfair error adapt trumpet bring trick explain height install giant";

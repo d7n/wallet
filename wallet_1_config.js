@@ -1,1 +1,1 @@
-var mnemonic = "wise cricket unit nurse pill transfer hazard process juice stadium youth hip";
+var mnemonic = "december side fiscal excite switch fat final romance local grocery wisdom sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "duty maximum ill install cycle solution jelly matrix yard output marriage soul";
+var mnemonic = "usage enjoy auction swallow excess remember garlic stock vault shaft place honey";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend cluster later cliff lazy grit happy slam quiz north raise mom";
+var mnemonic = "pretty float doctor fossil zoo little twelve enlist frozen gorilla worry earn";

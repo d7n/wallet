@@ -1,1 +1,1 @@
-var mnemonic = "margin credit hello gain rug bicycle clay census pistol just cliff vacant";
+var mnemonic = "bone cushion dance fox gain toe foam matter cause bind meadow visit";

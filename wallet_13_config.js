@@ -1,1 +1,1 @@
-var mnemonic = "clutch museum kitten street jacket when pelican sketch around salon piece cube";
+var mnemonic = "owner legend old try pilot devote leopard various calm drink mad today";

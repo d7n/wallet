@@ -1,1 +1,1 @@
-var mnemonic = "nature twelve one search replace belt coconut park youth adult thing captain";
+var mnemonic = "virus birth evil address staff deposit brief unlock breeze bring craft sand";

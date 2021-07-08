@@ -1,1 +1,1 @@
-var mnemonic = "deputy twice enhance blanket typical arrest day suggest flight eight invest enroll";
+var mnemonic = "music dutch car civil inquiry expose govern breeze reform exchange spin dizzy";

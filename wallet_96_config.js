@@ -1,1 +1,1 @@
-var mnemonic = "genius raw doll plate craft trash sponsor float addict ignore ticket museum";
+var mnemonic = "audit negative asthma raise easy sail define patrol style snake copy theory";

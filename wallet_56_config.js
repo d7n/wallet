@@ -1,1 +1,1 @@
-var mnemonic = "theory steel goddess flight exist blur deliver stick gloom work winner remind";
+var mnemonic = "drum bonus butter hood kick seek bicycle joke submit earth drastic action";

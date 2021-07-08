@@ -1,1 +1,1 @@
-var mnemonic = "deal obey miracle girl surface pact deposit resource menu angle diet crucial";
+var mnemonic = "mom breeze foot utility inform maze chapter initial excite long agent excite";

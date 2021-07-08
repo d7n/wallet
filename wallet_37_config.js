@@ -1,1 +1,1 @@
-var mnemonic = "veteran minimum wonder artwork bamboo cute someone budget diagram bench similar sort";
+var mnemonic = "chest fatigue jelly guard observe close garment true bulb legal leisure slice";

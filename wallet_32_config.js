@@ -1,1 +1,1 @@
-var mnemonic = "ostrich proud tribe public pioneer noodle sorry elder poverty daring juice capital";
+var mnemonic = "poet reunion exhibit spider army vapor woman dress chair fragile goat speak";

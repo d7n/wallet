@@ -1,1 +1,1 @@
-var mnemonic = "shallow raccoon veteran farm capital task decide capital odor virtual timber wash";
+var mnemonic = "social final pave host rent pottery slow present quantum lumber fame category";

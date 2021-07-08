@@ -1,1 +1,1 @@
-var mnemonic = "reduce tilt novel muffin clay brand volcano turtle village critic cheap tongue";
+var mnemonic = "that cement transfer before universe funny define head ill veteran glimpse fringe";

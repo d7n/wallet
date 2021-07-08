@@ -1,1 +1,1 @@
-var mnemonic = "arrange fire filter army wrong rude find smile depend kit fish young";
+var mnemonic = "blade detect off cry please job hybrid bubble obtain liberty symbol scene";

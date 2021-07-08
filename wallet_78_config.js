@@ -1,1 +1,1 @@
-var mnemonic = "fire creek steak salon zoo demand angle prize eight confirm glass shrug";
+var mnemonic = "muffin tired light clown setup destroy antique enact grain boring order velvet";

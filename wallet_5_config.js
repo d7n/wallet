@@ -1,1 +1,1 @@
-var mnemonic = "tide urge tattoo drastic waste weekend dignity frozen scale gather cute aerobic";
+var mnemonic = "frown verb trophy meadow foster narrow leaf catalog monitor clay trim pyramid";

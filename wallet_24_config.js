@@ -1,1 +1,1 @@
-var mnemonic = "still shift zebra okay syrup inhale subject snake donkey damage excess manual";
+var mnemonic = "flower crystal swamp slide license sure sustain broom audit better endless soap";

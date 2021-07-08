@@ -1,1 +1,1 @@
-var mnemonic = "deputy sudden engine hunt math purpose meat bind danger mad stage grass";
+var mnemonic = "light cereal awake initial sunny afraid melt loop inflict cover net paddle";

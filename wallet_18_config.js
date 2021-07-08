@@ -1,1 +1,1 @@
-var mnemonic = "gap join busy sad monitor scatter palace differ twin caution magnet bench";
+var mnemonic = "unique avocado zero wage kingdom silk lend prosper source stereo enjoy blame";

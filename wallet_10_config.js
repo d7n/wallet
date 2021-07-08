@@ -1,1 +1,1 @@
-var mnemonic = "mountain install embody kitchen dry crouch cable silly mind robust tissue thing";
+var mnemonic = "obscure blade thought discover fantasy cover wine second portion hurry swarm world";

@@ -1,1 +1,1 @@
-var mnemonic = "develop dutch know chapter hill corn crouch pony track multiply loan pass";
+var mnemonic = "joy dove erosion parade luggage crouch six online cigar silver head donate";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy fruit swarm trophy sea two carbon magnet access cool artist torch";
+var mnemonic = "brisk excess venture globe real glide myself saddle check hour wink indoor";

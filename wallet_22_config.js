@@ -1,1 +1,1 @@
-var mnemonic = "license question pencil account immense vendor mom actual tomorrow oblige prefer electric";
+var mnemonic = "sign all suffer climb roast rice group social monster install before ankle";

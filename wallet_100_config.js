@@ -1,1 +1,1 @@
-var mnemonic = "rough explain capital tent quit pupil wreck battle source logic donate silk";
+var mnemonic = "coil resource pattern text strike twin bronze stamp spend almost text news";

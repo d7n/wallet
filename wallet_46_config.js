@@ -1,1 +1,1 @@
-var mnemonic = "coach museum leaf abstract steel ridge wonder fine attract pull prefer embrace";
+var mnemonic = "exchange will category coyote click tool cream erode cactus leader patrol stay";

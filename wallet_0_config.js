@@ -1,1 +1,1 @@
-var mnemonic = "card repeat gasp erosion indoor vicious cushion senior injury hand chicken treat";
+var mnemonic = "faculty suspect waste source loan gap code pride shift pair tone because";

@@ -1,1 +1,1 @@
-var mnemonic = "village digital throw small loan valid spider describe pepper blast guard song";
+var mnemonic = "vast giraffe comfort stamp angry early entry oven donor absurd option food";

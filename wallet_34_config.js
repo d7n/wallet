@@ -1,1 +1,1 @@
-var mnemonic = "emotion unfair dune record obscure quantum dress crumble piano already inquiry squirrel";
+var mnemonic = "rabbit hamster solution clog sport gadget hole limb tragic hope filter awful";

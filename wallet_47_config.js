@@ -1,1 +1,1 @@
-var mnemonic = "warm recall era unit lamp book case member laptop segment soda size";
+var mnemonic = "journey stamp sing blade couple hamster road regret canvas sense potato result";

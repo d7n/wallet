@@ -1,1 +1,1 @@
-var mnemonic = "eagle jump universe error correct purchase crouch solar today purchase rocket van";
+var mnemonic = "mind twin jealous ignore hedgehog exact genius penalty slab toy comfort drop";

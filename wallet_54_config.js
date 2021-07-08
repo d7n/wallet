@@ -1,1 +1,1 @@
-var mnemonic = "guard estate able lake anger mass crack face ill shrimp trash tunnel";
+var mnemonic = "quarter replace hundred speed stairs lend during dose review start unique ketchup";

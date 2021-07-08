@@ -1,1 +1,1 @@
-var mnemonic = "chuckle category kitchen museum skate flower attract fever alien neck consider novel";
+var mnemonic = "neither come family equip ecology album satoshi fashion network thunder coffee name";

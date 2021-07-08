@@ -1,1 +1,1 @@
-var mnemonic = "hint awful faint never diet nominee hood exile wonder van prosper east";
+var mnemonic = "peasant drama wait potato immune repeat retreat fun punch vanish task globe";

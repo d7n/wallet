@@ -1,1 +1,1 @@
-var mnemonic = "ivory miracle monster attract clip season happy scene panel quiz noodle dish";
+var mnemonic = "series pizza salad ill glove stumble assault prosper frog toward strike hurry";

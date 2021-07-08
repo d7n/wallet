@@ -1,1 +1,1 @@
-var mnemonic = "height decorate cinnamon amateur organ loan dream october crystal coast actress swallow";
+var mnemonic = "timber cute shrug there solid ritual produce remain world ask forget doctor";

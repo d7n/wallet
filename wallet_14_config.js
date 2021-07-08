@@ -1,1 +1,1 @@
-var mnemonic = "trade action upon beyond melody sister embrace sick never situate calm time";
+var mnemonic = "word evidence notice famous tackle sail slight welcome garbage hood plate autumn";
