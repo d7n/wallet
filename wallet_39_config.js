@@ -1,1 +1,1 @@
-var mnemonic = "buzz person dash pass robust someone illness immense sick entire flash refuse";
+var mnemonic = "piece wink analyst slot develop index paddle fashion brain because near forward";

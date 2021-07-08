@@ -1,1 +1,1 @@
-var mnemonic = "horn strike index loop rescue balance off youth woman plate vote shed";
+var mnemonic = "soap surface vivid rack shop left length surprise mix joke now enough";

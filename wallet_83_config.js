@@ -1,1 +1,1 @@
-var mnemonic = "more husband panda leave enrich priority valid cinnamon lazy anger corn exhaust";
+var mnemonic = "follow dad chunk uphold merit lemon force final taxi rifle basket access";

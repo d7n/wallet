@@ -1,1 +1,1 @@
-var mnemonic = "use antenna come again hello material nominee athlete off lake wool climb";
+var mnemonic = "label arctic upset manual select actual mix person host wood jungle maid";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact popular corn when vicious special excuse gift junk soon spider shop";
+var mnemonic = "crumble throw volume leave trouble myself peace solution paper city shove relax";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy lava lunar unlock case good almost index enemy melt master session";
+var mnemonic = "laundry swift boring august health leave private birth swamp dance uniform spring";

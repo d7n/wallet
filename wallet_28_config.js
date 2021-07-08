@@ -1,1 +1,1 @@
-var mnemonic = "nurse memory load receive glory siren upon era copy permit river cushion";
+var mnemonic = "salon avocado search april pyramid frozen maid accident dune old shed shiver";

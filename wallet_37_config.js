@@ -1,1 +1,1 @@
-var mnemonic = "right employ execute wreck junior settle novel invest radio nerve clog february";
+var mnemonic = "minute jacket dutch apart green unaware cool punch silk certain simple business";

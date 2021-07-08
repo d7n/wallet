@@ -1,1 +1,1 @@
-var mnemonic = "settle hundred soup wall fitness feature exercise soldier public exile extra jacket";
+var mnemonic = "lend sort olympic debris island crime chalk wheel boy crack plate slide";

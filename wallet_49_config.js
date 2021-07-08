@@ -1,1 +1,1 @@
-var mnemonic = "stick polar dog wood require hamster toddler never budget cousin music evil";
+var mnemonic = "shoot deny control burden sea odor assume jaguar glad remind nephew useful";

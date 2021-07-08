@@ -1,1 +1,1 @@
-var mnemonic = "borrow artwork ahead potato change flavor truck quick bargain stomach quote decline";
+var mnemonic = "exist catalog hurt letter east always tone label tree later plug goose";

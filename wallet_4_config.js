@@ -1,1 +1,1 @@
-var mnemonic = "notice document arm utility action popular exclude proud control stuff amazing knock";
+var mnemonic = "extra gun secret crane arrange poet proud law actual vapor ivory festival";

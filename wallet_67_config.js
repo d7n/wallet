@@ -1,1 +1,1 @@
-var mnemonic = "sword derive decrease risk broccoli muffin topic payment flower inspire reveal beach";
+var mnemonic = "review view blanket card palm weasel car top social fame motion canoe";

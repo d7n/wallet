@@ -1,1 +1,1 @@
-var mnemonic = "off swarm they liar broccoli salon income grocery word height remind target";
+var mnemonic = "day wear walk crush fence loyal live cart oven fiction reject bounce";

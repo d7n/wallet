@@ -1,1 +1,1 @@
-var mnemonic = "tent rough urge reunion erode crane token endless deputy concert account slim";
+var mnemonic = "emotion velvet airport expire security learn burst pigeon lecture deal right pretty";

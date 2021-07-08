@@ -1,1 +1,1 @@
-var mnemonic = "amused bus science throw radio father borrow cupboard arch camp option sunny";
+var mnemonic = "burden three famous start tomato crash couple winter duck remain fame grant";

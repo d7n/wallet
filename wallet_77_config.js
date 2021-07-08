@@ -1,1 +1,1 @@
-var mnemonic = "expire found trip notice unlock unhappy reflect danger tell surround radar wheel";
+var mnemonic = "capital exclude oppose program practice chicken brown wave cave orphan spirit same";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest hunt slender chat erupt hammer traffic detect rich maximum before young";
+var mnemonic = "ready clean knock key era nut hole enlist raccoon belt property upper";

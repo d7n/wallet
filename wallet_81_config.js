@@ -1,1 +1,1 @@
-var mnemonic = "attack worry method tumble bullet flavor beach fatal style tumble puzzle chair";
+var mnemonic = "peanut chest census eager reform inmate pen change tissue taste vicious arrange";

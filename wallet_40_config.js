@@ -1,1 +1,1 @@
-var mnemonic = "notable mango immune large spot business figure shock talk soon program badge";
+var mnemonic = "ocean setup slim fish spoon guide grape know exact tower clown carpet";

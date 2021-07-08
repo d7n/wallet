@@ -1,1 +1,1 @@
-var mnemonic = "inquiry danger modify sail inflict chest cup thumb jelly offer blossom parent";
+var mnemonic = "claw rule subway craft rich pair struggle replace adjust stamp cherry firm";

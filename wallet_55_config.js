@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur egg kind fit brand food unit void enough unhappy still magic";
+var mnemonic = "gown level attitude fork raven seven talk purpose lemon feed flavor wine";

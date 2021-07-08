@@ -1,1 +1,1 @@
-var mnemonic = "derive race casual yard grunt spice plastic art cage lamp cage swamp";
+var mnemonic = "custom magnet acid jar bracket split neck frost hood magic found step";

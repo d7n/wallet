@@ -1,1 +1,1 @@
-var mnemonic = "patrol traffic mask artefact fiscal blush despair work link roast gloom cabin";
+var mnemonic = "panda surge fine empower kangaroo spoon wine slab bless myth height two";

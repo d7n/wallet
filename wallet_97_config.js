@@ -1,1 +1,1 @@
-var mnemonic = "soccer noise fire bulk ski smile fatigue coyote hobby bean umbrella silent";
+var mnemonic = "arch drill few roast pyramid school trial elephant sad rhythm cigar fish";

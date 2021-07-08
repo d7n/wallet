@@ -1,1 +1,1 @@
-var mnemonic = "lounge goddess total crack hazard issue relax road stadium artist thumb slam";
+var mnemonic = "equal lady dinosaur loyal oppose raven age blur reopen onion crucial denial";

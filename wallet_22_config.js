@@ -1,1 +1,1 @@
-var mnemonic = "weasel scorpion smooth breeze congress blind horse awesome resource worry news judge";
+var mnemonic = "wire wheat design expose unfold hold pink wide humble antique tree trap";

@@ -1,1 +1,1 @@
-var mnemonic = "strong found stumble assault nation muscle eyebrow dirt disagree giraffe mimic fat";
+var mnemonic = "hawk service lend gym monkey gossip cruel bulb chimney sadness nut poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "act lunch power omit polar hamster crater apart steel warrior unaware broken";
+var mnemonic = "remember motion own flash margin upper scheme wasp catch wheat unknown royal";

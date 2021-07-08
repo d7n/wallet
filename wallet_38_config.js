@@ -1,1 +1,1 @@
-var mnemonic = "desert onion flight answer purpose step mobile lonely funny seek demand endorse";
+var mnemonic = "muffin favorite tortoise patient feel rebel gift hour sad click dignity until";

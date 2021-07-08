@@ -1,1 +1,1 @@
-var mnemonic = "surprise skate cage topple range hawk surface weapon seven silk hour dolphin";
+var mnemonic = "air supply more embark math note open diamond diamond album speak focus";

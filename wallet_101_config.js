@@ -1,1 +1,1 @@
-var mnemonic = "device syrup barrel know vault crush member public away party penalty sail";
+var mnemonic = "large chair drill august together never lava fashion inside ritual wait hotel";

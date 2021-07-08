@@ -1,1 +1,1 @@
-var mnemonic = "dash chair focus upset orient alone knock scrub curve popular circle plug";
+var mnemonic = "enrich rural common bulk success praise zebra lecture unique actor brush toe";

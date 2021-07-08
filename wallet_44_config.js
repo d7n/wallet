@@ -1,1 +1,1 @@
-var mnemonic = "apology piece door elegant accuse design armed vintage prison hawk fine word";
+var mnemonic = "news install spray mention aunt culture achieve obey science abstract arrange industry";

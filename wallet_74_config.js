@@ -1,1 +1,1 @@
-var mnemonic = "custom joke nut warfare target swear easy pride please more mango leave";
+var mnemonic = "tomorrow essence ladder lawn steel garden chair final music away sudden subject";

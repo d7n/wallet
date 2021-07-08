@@ -1,1 +1,1 @@
-var mnemonic = "bacon slogan cram below flavor job organ dumb budget giraffe lens power";
+var mnemonic = "police pyramid flash steak duty asset brass material shed garage choose vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry phrase photo pipe emerge chaos provide observe prize hobby early trip";
+var mnemonic = "glad van limb hello emerge person initial equip tonight tooth soap equip";

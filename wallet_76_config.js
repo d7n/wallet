@@ -1,1 +1,1 @@
-var mnemonic = "satisfy bitter unable convince diagram impulse arrow when green riot layer soft";
+var mnemonic = "face toilet prefer decide aspect earth base elegant caught exile stove miracle";

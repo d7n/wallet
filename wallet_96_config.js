@@ -1,1 +1,1 @@
-var mnemonic = "program animal bleak retire frame tomato potato garage tunnel solar turkey surface";
+var mnemonic = "rule tuition direct second isolate answer agent unknown clap worth again need";

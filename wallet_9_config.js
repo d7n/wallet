@@ -1,1 +1,1 @@
-var mnemonic = "drink drip city screen unusual napkin brief gaze melody pulp aim swap";
+var mnemonic = "swarm zone enter alpha coyote clarify pigeon world heart thrive never roast";

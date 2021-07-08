@@ -1,1 +1,1 @@
-var mnemonic = "party wreck prefer cereal april install feed hobby sweet route zoo march";
+var mnemonic = "child feel board bamboo harsh brass dress pepper jar diagram tennis anger";

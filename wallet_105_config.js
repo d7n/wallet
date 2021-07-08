@@ -1,1 +1,1 @@
-var mnemonic = "student chuckle climb tuition file exit unit shrug airport knife loan mixed";
+var mnemonic = "cabin regret dirt sample language market culture robot asthma host corn human";

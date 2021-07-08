@@ -1,1 +1,1 @@
-var mnemonic = "brain chase crisp latin pool borrow result torch relax latin cloud coach";
+var mnemonic = "carry churn finish still crane world stem century write drama habit cradle";

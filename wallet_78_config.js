@@ -1,1 +1,1 @@
-var mnemonic = "empower village fan rack adult elevator naive hood miracle ahead guide merge";
+var mnemonic = "blame snack artefact eager execute road hero entire project panic bargain slogan";

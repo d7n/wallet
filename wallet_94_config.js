@@ -1,1 +1,1 @@
-var mnemonic = "actual patrol bundle scorpion cactus ridge save reject mind title pattern olive";
+var mnemonic = "ability note crane enforce envelope record cruel crater delay steak interest real";

@@ -1,1 +1,1 @@
-var mnemonic = "average choose razor smooth journey fluid goat sick message wrap fashion lottery";
+var mnemonic = "among stumble crash side rice economy social pulse wasp hero cattle vital";

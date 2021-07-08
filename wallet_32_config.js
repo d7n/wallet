@@ -1,1 +1,1 @@
-var mnemonic = "ride rely reform duty erosion talk wise salon style flight shock sick";
+var mnemonic = "broccoli loyal soap sad arctic isolate innocent super scale flush under bundle";

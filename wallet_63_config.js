@@ -1,1 +1,1 @@
-var mnemonic = "clown present struggle art spell dirt person chair neglect under plunge spider";
+var mnemonic = "come carpet dentist banner post lion glove trust mystery dumb gentle gym";

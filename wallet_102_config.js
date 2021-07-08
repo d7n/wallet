@@ -1,1 +1,1 @@
-var mnemonic = "ecology boat duck angry dumb rice upon body bonus cute decide quiz";
+var mnemonic = "clinic island age brisk giraffe vicious hidden enforce you stadium manage faculty";

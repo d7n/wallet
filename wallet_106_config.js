@@ -1,1 +1,1 @@
-var mnemonic = "live immune task quick bus exile twenty allow goose feature music size";
+var mnemonic = "chronic flag leopard chair holiday border vanish stand oil brown theme suffer";

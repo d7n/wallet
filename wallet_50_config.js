@@ -1,1 +1,1 @@
-var mnemonic = "crouch practice beef grocery tumble ecology fork myth trumpet anger tunnel alpha";
+var mnemonic = "hen exclude sea cigar banana forget success modify combine traffic nuclear unfold";

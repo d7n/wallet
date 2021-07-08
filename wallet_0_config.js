@@ -1,1 +1,1 @@
-var mnemonic = "divert army island twelve gloom visual agree logic now letter habit reopen";
+var mnemonic = "priority clean uncover shadow border wise cigar pudding say meat antenna ceiling";

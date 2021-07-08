@@ -1,1 +1,1 @@
-var mnemonic = "bright girl lobster stairs kit any panel sort gate ginger pride stereo";
+var mnemonic = "put service welcome lock arrest magic repair rice tourist small bind derive";

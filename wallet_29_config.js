@@ -1,1 +1,1 @@
-var mnemonic = "ladder rhythm sad nut live early mosquito rich enemy trust place despair";
+var mnemonic = "fresh extend tent chronic gesture obvious hybrid fold rookie canvas month obey";

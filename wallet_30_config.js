@@ -1,1 +1,1 @@
-var mnemonic = "soup trust move suggest swim thrive wool effort hub actor barrel shoulder";
+var mnemonic = "leg curious vocal near express rail mimic family accident notable figure blush";

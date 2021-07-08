@@ -1,1 +1,1 @@
-var mnemonic = "near polar fall symptom vacuum image youth champion river bar view model";
+var mnemonic = "stumble police half broken vanish great confirm atom tape elevator turn fat";

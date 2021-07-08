@@ -1,1 +1,1 @@
-var mnemonic = "unfold tumble penalty guard sausage disease arena hour thumb worth fantasy erupt";
+var mnemonic = "present fuel idea bench trust opera clump bring salute pistol pole pole";

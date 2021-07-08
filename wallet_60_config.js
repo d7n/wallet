@@ -1,1 +1,1 @@
-var mnemonic = "toy gloom trip sentence column pioneer arch puppy absent crouch elite oven";
+var mnemonic = "describe country toast ranch ready often grain duty evidence beach kitchen turtle";

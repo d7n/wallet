@@ -1,1 +1,1 @@
-var mnemonic = "lottery blood twist gaze month depart bubble similar grass submit globe grunt";
+var mnemonic = "notable same grow suit feature pink jungle divorce ride delay raw copy";

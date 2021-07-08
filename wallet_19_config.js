@@ -1,1 +1,1 @@
-var mnemonic = "remind country organ crane rapid habit poverty crystal finish charge detect solve";
+var mnemonic = "atom custom coin crunch business remind screen vapor trash copper random sad";

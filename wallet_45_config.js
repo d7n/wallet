@@ -1,1 +1,1 @@
-var mnemonic = "drop unaware dentist attack family end nose abandon source width cream stuff";
+var mnemonic = "tower sound rural rival walk then gloom gospel script buddy brother evil";

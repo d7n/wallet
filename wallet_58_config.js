@@ -1,1 +1,1 @@
-var mnemonic = "blush century depend sketch crisp civil captain wing finish step green board";
+var mnemonic = "rib pottery tornado stumble grit vapor island welcome resist dish west ship";

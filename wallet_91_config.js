@@ -1,1 +1,1 @@
-var mnemonic = "describe tone cave coin observe vicious prefer art amount produce output simple";
+var mnemonic = "use sell explain vote art foster tackle aunt devote plate under life";

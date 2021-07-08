@@ -1,1 +1,1 @@
-var mnemonic = "skill argue hello give prison tooth owner romance science dolphin blast discover";
+var mnemonic = "lady position bamboo collect track rapid endless there garden next audit kind";

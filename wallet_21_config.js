@@ -1,1 +1,1 @@
-var mnemonic = "evidence tomato poet jealous bacon jazz silver cereal juice search cluster surge";
+var mnemonic = "donate audit near hub switch feed input cat ride garlic disease million";

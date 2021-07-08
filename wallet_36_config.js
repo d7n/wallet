@@ -1,1 +1,1 @@
-var mnemonic = "arch blood antenna wasp cradle voyage harsh habit enforce unique liberty monster";
+var mnemonic = "note board visit chief ethics check anger now say spend slam library";

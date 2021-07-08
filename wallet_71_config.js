@@ -1,1 +1,1 @@
-var mnemonic = "push crucial orchard absurd excite vacant bike tower behind reunion fashion purity";
+var mnemonic = "federal ugly enhance must seven dose wealth jealous adjust gravity phone knife";

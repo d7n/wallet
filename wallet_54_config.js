@@ -1,1 +1,1 @@
-var mnemonic = "artefact alcohol network sock symptom cattle betray life cycle moral stairs trouble";
+var mnemonic = "idle country snack pole parrot say wrestle project there lunar business include";

@@ -1,1 +1,1 @@
-var mnemonic = "six game that lift purity hidden argue deal require neck humble setup";
+var mnemonic = "uncover stadium adult trip flower toddler dignity voice advice actor provide glue";

@@ -1,1 +1,1 @@
-var mnemonic = "edit drift mutual tape must upper shrug spider cement portion thumb cat";
+var mnemonic = "element real punch rule peasant share cricket atom traffic blood giggle chicken";

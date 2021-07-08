@@ -1,1 +1,1 @@
-var mnemonic = "fox capital noise fruit vocal again attitude wine wedding margin cluster depth";
+var mnemonic = "olympic lazy shrimp nest grass fatal tube burden anger trip shop achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "search reopen cry train fall leader work faculty sphere romance robot copy";
+var mnemonic = "return road add way health magic reopen project march trust mansion october";

@@ -1,1 +1,1 @@
-var mnemonic = "royal citizen roof ring once twenty fiscal then talent measure guard cycle";
+var mnemonic = "fortune tower swap copper rent sustain tail rebel beach plunge seat multiply";

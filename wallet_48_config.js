@@ -1,1 +1,1 @@
-var mnemonic = "oven zoo either same liquid voyage bargain toddler wedding hockey twelve limit";
+var mnemonic = "barrel violin alert have head rich aisle crime absent depend december hospital";

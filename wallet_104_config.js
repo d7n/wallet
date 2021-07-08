@@ -1,1 +1,1 @@
-var mnemonic = "spray junior anxiety melody retreat online jar festival bridge weapon icon employ";
+var mnemonic = "step elegant life mention zoo gather shoulder credit miss drift across silent";

@@ -1,1 +1,1 @@
-var mnemonic = "mass hat position around private ancient remember arctic rotate quarter such width";
+var mnemonic = "drastic seven front hybrid desert young resemble traffic book miracle repeat veteran";

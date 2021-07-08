@@ -1,1 +1,1 @@
-var mnemonic = "scene toss time jelly joke rate rain rail project plate reveal grocery";
+var mnemonic = "gain welcome endorse stock divorce property kiss interest rice heavy alone piece";

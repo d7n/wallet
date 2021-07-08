@@ -1,1 +1,1 @@
-var mnemonic = "half cry evoke ride shoe hand slush spike sister jacket swap allow";
+var mnemonic = "faint void worry belt ankle grocery duck setup half nation puzzle observe";

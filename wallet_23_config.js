@@ -1,1 +1,1 @@
-var mnemonic = "nest menu gravity roof behind learn churn milk apart reason panic cigar";
+var mnemonic = "chase tuna cool miss bus else burger hybrid pill body own hand";

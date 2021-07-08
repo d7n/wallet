@@ -1,1 +1,1 @@
-var mnemonic = "general tornado solve sight noise address ship twelve gift spirit speed pupil";
+var mnemonic = "arrange top false wife dance coral cube obscure outdoor mad trash aisle";

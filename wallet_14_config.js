@@ -1,1 +1,1 @@
-var mnemonic = "blur blanket demand able rotate smile abuse nice lava diamond alert develop";
+var mnemonic = "way talk fade buzz garage change monster depth borrow lava clay genuine";

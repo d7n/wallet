@@ -1,1 +1,1 @@
-var mnemonic = "squeeze crater cruise raw fire idea mother orphan orient always violin guitar";
+var mnemonic = "pole wolf hybrid stairs valley police woman spoil cause clog miss output";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome extend popular dutch debris right like column offer genre lizard hedgehog";
+var mnemonic = "bitter squirrel lawn case promote route cry rose favorite swift merry dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "time evoke hollow valve glass obscure lyrics style august similar junior engage";
+var mnemonic = "before example forest shove effort eye unhappy decide window tree acquire emotion";

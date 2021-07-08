@@ -1,1 +1,1 @@
-var mnemonic = "conduct cup task cherry cool shy local shuffle clever myself rail hollow";
+var mnemonic = "awake return climb rack utility actor victory wonder gloom panda cancel airport";

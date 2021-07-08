@@ -1,1 +1,1 @@
-var mnemonic = "fancy crisp vehicle blush day cream school still beach early shiver destroy";
+var mnemonic = "erosion piano shrimp glow unhappy member banana notice blast type journey short";

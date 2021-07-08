@@ -1,1 +1,1 @@
-var mnemonic = "shy reunion weapon obey country canyon devote riot trip escape van topple";
+var mnemonic = "rug chat cricket image yellow man now digital combine still night brave";

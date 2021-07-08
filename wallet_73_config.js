@@ -1,1 +1,1 @@
-var mnemonic = "wrestle width plate spider minimum drastic swap plate ordinary fee height flush";
+var mnemonic = "agent tobacco tenant chunk oval cream ripple media distance comfort nephew hidden";

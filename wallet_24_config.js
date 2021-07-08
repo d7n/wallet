@@ -1,1 +1,1 @@
-var mnemonic = "decade visual poverty fun appear impose add evidence case discover evoke amateur";
+var mnemonic = "safe salmon pink tent between coconut disagree exhaust office bid purity stand";

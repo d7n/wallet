@@ -1,1 +1,1 @@
-var mnemonic = "neck oak toast snack supply door cover arrow impulse sunny indoor card";
+var mnemonic = "gold gauge soldier badge great auto below shock tone check celery camera";
