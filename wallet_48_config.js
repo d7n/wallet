@@ -1,1 +1,1 @@
-var mnemonic = "neither differ earth mirror firm student tide tank exhaust swallow moral hurdle";
+var mnemonic = "between van sheriff forum hurdle gun zero rubber tunnel digital rather idea";

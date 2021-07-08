@@ -1,1 +1,1 @@
-var mnemonic = "magic inherit plug cage much friend entire burst chuckle penalty example year";
+var mnemonic = "unaware pony room chapter cake nominee lift axis inflict ordinary crystal rude";

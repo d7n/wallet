@@ -1,1 +1,1 @@
-var mnemonic = "immense sunny script skin guard famous observe icon airport sausage grace clarify";
+var mnemonic = "mammal mother couch echo destroy cabbage memory speak prize clog smoke tag";

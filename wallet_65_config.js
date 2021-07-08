@@ -1,1 +1,1 @@
-var mnemonic = "apology produce sustain radio dial security actual twin crowd work key cry";
+var mnemonic = "sock tank obey thumb actor secret crystal suffer lunch olive scatter course";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal edit all attract coach luggage oak wisdom spray doll harbor purity";
+var mnemonic = "very giraffe valid noble april hockey green immune material scatter risk comfort";

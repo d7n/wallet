@@ -1,1 +1,1 @@
-var mnemonic = "friend decrease mention sort where mask ceiling front swap zoo vacuum give";
+var mnemonic = "coin liar swing rough airport manage start elephant entire whisper weasel goat";

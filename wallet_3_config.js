@@ -1,1 +1,1 @@
-var mnemonic = "carry wagon pretty popular peanut athlete leaf memory brother party now client";
+var mnemonic = "chief horror spot jewel derive toe fun panel wolf muscle example bag";

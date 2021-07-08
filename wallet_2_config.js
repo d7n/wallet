@@ -1,1 +1,1 @@
-var mnemonic = "stamp capital theory govern pride series desk health pole defense era mail";
+var mnemonic = "tell canoe happy remind spot winner wagon gown brisk age bridge bread";

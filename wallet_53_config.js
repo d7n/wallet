@@ -1,1 +1,1 @@
-var mnemonic = "soap inch vocal game absent great rich gravity loud into surround milk";
+var mnemonic = "silly myth negative such hurdle surge album spoil match season ticket satisfy";

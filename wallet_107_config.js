@@ -1,1 +1,1 @@
-var mnemonic = "typical sun will benefit toast cannon gospel proof lonely select betray museum";
+var mnemonic = "unlock uphold elevator simple rib mercy disease entry steak width kiss text";

@@ -1,1 +1,1 @@
-var mnemonic = "spring chapter mirror lawsuit black chase observe rookie together then another burst";
+var mnemonic = "toast arrow swift rebuild cup net early wife weapon assault goat pumpkin";

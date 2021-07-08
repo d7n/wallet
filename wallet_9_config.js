@@ -1,1 +1,1 @@
-var mnemonic = "build coin panel tuna display lizard sentence current parrot gospel purse awful";
+var mnemonic = "mass winner broccoli disease invite crisp machine must orange upper victory funny";

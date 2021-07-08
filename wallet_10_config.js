@@ -1,1 +1,1 @@
-var mnemonic = "punch define worry leaf yellow doll random snap rapid goddess all eager";
+var mnemonic = "rather adult pull sand lyrics eye test timber dilemma kiss surface palace";

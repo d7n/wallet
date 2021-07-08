@@ -1,1 +1,1 @@
-var mnemonic = "column cart better bar universe minute path deer bargain lonely grain correct";
+var mnemonic = "nurse student bunker usage blind attract radar sun now shock gift insect";

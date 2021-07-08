@@ -1,1 +1,1 @@
-var mnemonic = "echo pluck exotic best artefact improve entire wrestle glove rural raw ketchup";
+var mnemonic = "upset diagram wolf alarm pact energy tide silent hard wear slow coral";

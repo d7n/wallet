@@ -1,1 +1,1 @@
-var mnemonic = "struggle tank economy nerve list purse taste silver grape couch pledge secret";
+var mnemonic = "space rough huge apart amused page attitude vibrant wrist give patrol mail";

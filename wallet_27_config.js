@@ -1,1 +1,1 @@
-var mnemonic = "drama shell exchange drill cigar fog apple mountain puzzle dream praise welcome";
+var mnemonic = "fee lizard piano recycle crisp monitor captain ability grass pride essence aisle";

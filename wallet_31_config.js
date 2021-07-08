@@ -1,1 +1,1 @@
-var mnemonic = "sell chimney edge celery dwarf inmate autumn keep grief someone course magic";
+var mnemonic = "unknown crush infant equip before exhibit increase sniff moon screen pact volume";

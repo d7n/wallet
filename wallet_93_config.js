@@ -1,1 +1,1 @@
-var mnemonic = "ill floor another ski gain produce assault forward cat farm clown sting";
+var mnemonic = "very because burden ankle alien float fluid utility demand artist turtle wrist";

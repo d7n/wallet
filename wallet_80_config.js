@@ -1,1 +1,1 @@
-var mnemonic = "render chapter govern decrease loop toilet rate high claw promote skirt ivory";
+var mnemonic = "space decline message exile sock potato lonely negative velvet dice remember size";

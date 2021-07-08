@@ -1,1 +1,1 @@
-var mnemonic = "miracle expect cattle book time dutch general extra envelope alter post hub";
+var mnemonic = "worry zone square vanish category sail guard foster snack chat thrive survey";

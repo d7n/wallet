@@ -1,1 +1,1 @@
-var mnemonic = "rescue room economy loop donate bench glass orient undo history picture brother";
+var mnemonic = "shrimp enhance laptop method shoulder alert jelly tumble kite orphan primary okay";

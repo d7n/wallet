@@ -1,1 +1,1 @@
-var mnemonic = "warm paper evil panic salad cousin van erase exact ill system unhappy";
+var mnemonic = "describe angry fault cricket bless stem prize survey future check mystery stage";

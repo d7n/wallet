@@ -1,1 +1,1 @@
-var mnemonic = "frozen during olive custom clever tube refuse monitor solar neck below floor";
+var mnemonic = "subject horn frog mango wagon quit gauge learn aim manage cliff file";

@@ -1,1 +1,1 @@
-var mnemonic = "forward amazing laptop kangaroo taste toast sing loyal number seven beach ignore";
+var mnemonic = "virtual cabin fork roof nature pool range fuel consider smile calm regret";

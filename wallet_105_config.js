@@ -1,1 +1,1 @@
-var mnemonic = "raven dutch repair three feature ramp answer foam multiply wool student merry";
+var mnemonic = "sea baby team online broom evolve faith accuse buffalo supreme black that";

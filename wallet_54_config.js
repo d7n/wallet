@@ -1,1 +1,1 @@
-var mnemonic = "cloth pill monitor oil spawn bright appear nut actress broken never warm";
+var mnemonic = "mad erode child torch violin thing sauce actor jaguar hello air unfair";

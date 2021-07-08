@@ -1,1 +1,1 @@
-var mnemonic = "wedding little found plate sock oil cloth topple crawl virtual soda term";
+var mnemonic = "thunder cabin copy wrestle material cargo animal frost portion wheel nothing caution";

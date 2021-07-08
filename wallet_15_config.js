@@ -1,1 +1,1 @@
-var mnemonic = "short deal use jar slot junk neglect stumble crumble perfect since future";
+var mnemonic = "carpet sheriff cotton bag swarm across fury anger umbrella slight start deputy";

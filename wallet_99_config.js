@@ -1,1 +1,1 @@
-var mnemonic = "eternal limb real catalog shed level essence lobster turkey enough hill claim";
+var mnemonic = "eternal mad spawn settle eagle aim marriage skirt disorder rescue belt orbit";

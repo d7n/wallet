@@ -1,1 +1,1 @@
-var mnemonic = "miracle giggle grape plunge pulse elite opinion other raw broccoli planet orphan";
+var mnemonic = "junior tiger liar thing deliver violin club access employ bitter discover drill";

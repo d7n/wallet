@@ -1,1 +1,1 @@
-var mnemonic = "rich load badge often monkey room catch liar ethics carbon maid hockey";
+var mnemonic = "club leopard echo caution neither risk keen sample weasel chaos stage advance";

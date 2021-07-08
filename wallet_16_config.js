@@ -1,1 +1,1 @@
-var mnemonic = "height search palace marine wealth kiss bamboo field execute glue hire switch";
+var mnemonic = "crisp still century oil program glow comic human tourist drip release business";

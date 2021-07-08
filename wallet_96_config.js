@@ -1,1 +1,1 @@
-var mnemonic = "news course vicious outdoor anger thought aspect verb assault burger mechanic maple";
+var mnemonic = "drip feel diamond gentle saddle bus decade math rough call antique blanket";

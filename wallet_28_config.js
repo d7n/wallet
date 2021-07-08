@@ -1,1 +1,1 @@
-var mnemonic = "impact horn bread act exhibit green pull submit follow solid message replace";
+var mnemonic = "short borrow brother excess mesh rough moon dolphin warm rally ancient surprise";

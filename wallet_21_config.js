@@ -1,1 +1,1 @@
-var mnemonic = "purpose elephant volume define tooth cushion adult region one fiscal near speak";
+var mnemonic = "found coin street flock select crouch steak media high match describe tiny";

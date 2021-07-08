@@ -1,1 +1,1 @@
-var mnemonic = "legend claw notable beauty seed aspect chapter bright price thing setup canyon";
+var mnemonic = "oxygen expect inner hybrid flower update debris people mutual biology what pen";

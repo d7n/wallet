@@ -1,1 +1,1 @@
-var mnemonic = "sketch crawl poem fox bottom trophy push only enrich main ethics swift";
+var mnemonic = "edit crazy female old zoo crawl super please fresh junk party match";

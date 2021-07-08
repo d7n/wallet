@@ -1,1 +1,1 @@
-var mnemonic = "figure cream whisper squirrel unique sheriff globe peace carbon come canvas sing";
+var mnemonic = "excuse text brush brisk warm local family wood chicken memory climb castle";

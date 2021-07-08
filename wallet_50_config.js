@@ -1,1 +1,1 @@
-var mnemonic = "divorce iron strategy prepare exit such about order salute weekend pill film";
+var mnemonic = "coffee canvas jaguar runway same change coral grape shield want sponsor limit";

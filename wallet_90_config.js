@@ -1,1 +1,1 @@
-var mnemonic = "vital tired box grocery punch traffic cage space despair hen eagle onion";
+var mnemonic = "sense battle cradle harsh youth balance multiply struggle bounce heart guide twist";

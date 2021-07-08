@@ -1,1 +1,1 @@
-var mnemonic = "axis alone budget imitate range traffic gauge pen angle poet marine income";
+var mnemonic = "biology light spot moral mistake share axis enrich foam loyal power aisle";

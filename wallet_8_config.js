@@ -1,1 +1,1 @@
-var mnemonic = "boss success island disagree flag animal habit around open siege hill earn";
+var mnemonic = "bounce omit aunt cart priority prison spider field elephant toy hand army";

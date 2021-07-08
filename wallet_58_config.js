@@ -1,1 +1,1 @@
-var mnemonic = "mixture remember swing sister rack motor memory false display reunion fruit stable";
+var mnemonic = "enter upset rare brother news card coin scrub isolate skirt hill wash";

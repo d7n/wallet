@@ -1,1 +1,1 @@
-var mnemonic = "save exact taste warfare donor unlock cram burger marriage jaguar armed alien";
+var mnemonic = "anger fiber whisper fragile stable confirm series guard carpet report mobile diary";

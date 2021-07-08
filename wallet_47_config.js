@@ -1,1 +1,1 @@
-var mnemonic = "analyst switch hurdle position viable path jeans submit they clown ensure above";
+var mnemonic = "mean alter inform expand swim genuine industry industry section evoke wise machine";

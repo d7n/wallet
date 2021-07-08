@@ -1,1 +1,1 @@
-var mnemonic = "marine village industry only tiny potato treat miracle decorate like piano city";
+var mnemonic = "jaguar ship useful tilt diet giant better stand drastic party disagree sock";

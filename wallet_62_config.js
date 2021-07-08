@@ -1,1 +1,1 @@
-var mnemonic = "relax praise ranch day vessel panther drama toss space rotate call rich";
+var mnemonic = "canal foster pond tattoo recall weird congress audit canal demise canoe surge";

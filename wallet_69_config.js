@@ -1,1 +1,1 @@
-var mnemonic = "mobile kind spirit resist direct between cactus announce knife primary come fall";
+var mnemonic = "mechanic pen duck quarter material shy culture sphere jump trouble annual truth";

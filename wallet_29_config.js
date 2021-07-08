@@ -1,1 +1,1 @@
-var mnemonic = "aisle gas arch armed swamp ride infant social rhythm pencil spray town";
+var mnemonic = "ignore medal leopard coconut spend resemble repeat churn vital inflict hold fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "loan view motor possible object rule trap wing prosper salt fiscal gate";
+var mnemonic = "mistake movie vital interest enact kite inner height acid auto flee auction";

@@ -1,1 +1,1 @@
-var mnemonic = "task snap open raise obscure meadow stock flip sad tide cram need";
+var mnemonic = "embody defense tobacco scout inject glad injury roof lucky step tent rate";

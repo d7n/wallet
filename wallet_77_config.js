@@ -1,1 +1,1 @@
-var mnemonic = "arm estate crime reject company initial sword current obvious final impose vendor";
+var mnemonic = "ivory that track essay hollow oval mesh banana remain answer river guess";

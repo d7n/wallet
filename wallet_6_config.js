@@ -1,1 +1,1 @@
-var mnemonic = "wait soft cattle angle head chaos vapor loan era tell space arm";
+var mnemonic = "they portion also language dynamic ask rude lava spirit useless census junk";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado enroll steel lyrics accident during core raven dragon ramp share coin";
+var mnemonic = "clever uncle defense vapor ball produce sustain daring drama rhythm ripple toast";

@@ -1,1 +1,1 @@
-var mnemonic = "olive mixed firm truck deny please truth denial reduce photo spell news";
+var mnemonic = "cool tobacco imitate promote tumble office shadow squeeze strong fish oven mouse";

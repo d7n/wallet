@@ -1,1 +1,1 @@
-var mnemonic = "profit rare symptom wine adult rack sign disagree scorpion general away obscure";
+var mnemonic = "help depend tag fox banner intact movie ozone valid animal veteran glow";

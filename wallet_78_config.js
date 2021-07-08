@@ -1,1 +1,1 @@
-var mnemonic = "delay ripple tank retreat common away seek fly between boring sure unknown";
+var mnemonic = "fade vault make swift nuclear slide crunch hover lava prison angry heart";

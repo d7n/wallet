@@ -1,1 +1,1 @@
-var mnemonic = "tribe retire pelican story dress ice segment report master job luxury pet";
+var mnemonic = "champion bar pulp private leopard whip jelly disease minimum thank plug modify";

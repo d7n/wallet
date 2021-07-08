@@ -1,1 +1,1 @@
-var mnemonic = "clinic please bullet surround nurse glove chase much flavor famous night enemy";
+var mnemonic = "person ecology empty universe sister spell donkey swift market oppose exhaust viable";

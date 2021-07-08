@@ -1,1 +1,1 @@
-var mnemonic = "paddle ocean minor skin hello actor clay record hazard six debate paddle";
+var mnemonic = "luxury chuckle mirror tank screen wave order what attend snake ketchup world";

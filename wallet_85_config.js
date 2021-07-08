@@ -1,1 +1,1 @@
-var mnemonic = "purity crisp resist rhythm bread whale wish ribbon iron crunch differ inside";
+var mnemonic = "door wing globe trouble middle place south interest vessel round avoid genuine";

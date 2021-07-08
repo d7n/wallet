@@ -1,1 +1,1 @@
-var mnemonic = "organ power age armor tree under space keep baby push deer protect";
+var mnemonic = "chicken eye hurdle jealous twice document render hotel thank bar adapt supply";

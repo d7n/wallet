@@ -1,1 +1,1 @@
-var mnemonic = "like silver hold sudden dragon total inspire disorder cement midnight make chunk";
+var mnemonic = "agree marble conduct coin snake gold bottom soccer humor senior club pioneer";

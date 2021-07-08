@@ -1,1 +1,1 @@
-var mnemonic = "rebuild century walnut leg unit guitar spread spy gather basic fun hard";
+var mnemonic = "phrase riot you share legend endorse priority endless april bubble sense total";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow state wild whale swift summer general umbrella lucky staff have clean";
+var mnemonic = "canyon give glow noble snow hair all veteran lock bind leg among";

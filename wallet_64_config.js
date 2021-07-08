@@ -1,1 +1,1 @@
-var mnemonic = "now involve wrong clarify coconut dose local combine interest slight voice air";
+var mnemonic = "tank word copy alley divert pen wagon ice pluck depth shallow begin";

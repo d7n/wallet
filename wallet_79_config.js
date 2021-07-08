@@ -1,1 +1,1 @@
-var mnemonic = "joke athlete tourist jungle interest civil eight negative hat turkey rookie laptop";
+var mnemonic = "review way core audit ocean antique puzzle reduce plug reward gym goose";

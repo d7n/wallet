@@ -1,1 +1,1 @@
-var mnemonic = "one rare decorate defy blossom live advice birth eternal palm year shove";
+var mnemonic = "talent album team exchange coral gown effort hour crop ugly balance uncover";

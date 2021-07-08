@@ -1,1 +1,1 @@
-var mnemonic = "holiday custom private speak sauce doctor tribe legal powder hair tobacco second";
+var mnemonic = "script grass arrow person tuna punch hold soul mystery student heavy board";

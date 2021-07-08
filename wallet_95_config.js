@@ -1,1 +1,1 @@
-var mnemonic = "artwork echo very private vendor sure slogan measure canyon rally vicious describe";
+var mnemonic = "mask adjust mystery drama wire harbor connect voice theory summer organ spell";

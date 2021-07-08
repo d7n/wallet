@@ -1,1 +1,1 @@
-var mnemonic = "gap security game mule wrong arrow enforce stumble express motion swap visit";
+var mnemonic = "believe face require inmate face mule erase width sick snap message erupt";

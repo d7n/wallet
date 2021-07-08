@@ -1,1 +1,1 @@
-var mnemonic = "sea flame scrap legend cinnamon tobacco fiction melody sound asset wasp tag";
+var mnemonic = "wheat blur congress wish unhappy response sword verb develop first robust adjust";

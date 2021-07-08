@@ -1,1 +1,1 @@
-var mnemonic = "clever guilt similar shoe original urge empower mushroom depart avoid skull social";
+var mnemonic = "neither middle auction pluck grief license exhaust jeans material actor sphere web";

@@ -1,1 +1,1 @@
-var mnemonic = "trade catch spice unaware symptom kitten inmate culture cinnamon convince shrug fiction";
+var mnemonic = "ecology evoke client fantasy spin fit flag shoulder total dilemma patient diesel";

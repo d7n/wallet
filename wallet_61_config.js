@@ -1,1 +1,1 @@
-var mnemonic = "cube relief ocean angry remain shed biology alley unique stage unveil scout";
+var mnemonic = "dizzy wing wait city garlic food reduce switch country bamboo dove elegant";

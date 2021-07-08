@@ -1,1 +1,1 @@
-var mnemonic = "dune divorce quick boy spy distance supreme govern enemy expire soda survey";
+var mnemonic = "undo remind spawn pig auto viable bleak shrug unfair poet swift excuse";

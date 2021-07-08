@@ -1,1 +1,1 @@
-var mnemonic = "diamond couch afford toss armed cover sick minimum denial wash globe cage";
+var mnemonic = "apart zone hazard stool fresh december accident rival kidney laundry pipe gorilla";

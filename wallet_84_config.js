@@ -1,1 +1,1 @@
-var mnemonic = "orchard still monitor tobacco sing ski trash one cable field joy field";
+var mnemonic = "artist script margin spy toddler bomb similar abandon unfair dish model cycle";

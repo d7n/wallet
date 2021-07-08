@@ -1,1 +1,1 @@
-var mnemonic = "pluck region penalty envelope suffer cradle uncover opinion vendor size various pilot";
+var mnemonic = "display clog enough skirt small giant zoo drink pretty file middle negative";

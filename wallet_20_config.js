@@ -1,1 +1,1 @@
-var mnemonic = "stock hunt cost reveal interest nice maple record produce absent loan simple";
+var mnemonic = "blanket family start feature fabric that gold example rally tattoo because whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey athlete since diamond clap main over bullet citizen leisure era couch";
+var mnemonic = "fruit destroy reform case volcano faint list toy book mushroom onion inner";

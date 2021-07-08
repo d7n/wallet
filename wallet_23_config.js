@@ -1,1 +1,1 @@
-var mnemonic = "close stable style exclude review alien neglect fish breeze call token stamp";
+var mnemonic = "report rent diesel web duck ritual swear melody lock glad interest purity";

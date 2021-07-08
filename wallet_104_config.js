@@ -1,1 +1,1 @@
-var mnemonic = "anger balcony dirt found rural choice age damp normal amateur print object";
+var mnemonic = "spot waste frost surface provide cabbage federal detect effort beef palace check";

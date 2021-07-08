@@ -1,1 +1,1 @@
-var mnemonic = "save forget erosion involve mixed slight frozen arrow tiny soldier seminar giggle";
+var mnemonic = "invite burger body pulse novel tray outdoor humor frown fade shrimp permit";

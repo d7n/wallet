@@ -1,1 +1,1 @@
-var mnemonic = "dad range ranch august candy assault lens undo vacant tackle balance casual";
+var mnemonic = "fancy dinner innocent circle midnight raccoon eager situate lava enough physical tray";

@@ -1,1 +1,1 @@
-var mnemonic = "amount document east bracket library train already emotion move write notable involve";
+var mnemonic = "expire identify dove inch rely vicious lawsuit analyst summer spawn enrich moral";

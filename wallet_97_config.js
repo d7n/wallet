@@ -1,1 +1,1 @@
-var mnemonic = "loyal foil cabbage twice police better marble beach civil faint trend cloud";
+var mnemonic = "uncle october display next inherit artist same genuine slot moral cost eight";

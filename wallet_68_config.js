@@ -1,1 +1,1 @@
-var mnemonic = "pink nice disagree index unable virus pear enlist flash slender umbrella dial";
+var mnemonic = "lounge admit host public comfort speak avocado virtual hip pen solve canoe";

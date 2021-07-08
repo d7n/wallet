@@ -1,1 +1,1 @@
-var mnemonic = "stay milk lecture return above increase goddess into dilemma follow aware stereo";
+var mnemonic = "shoulder ask pet proud scrap protect pond exist column pull memory live";

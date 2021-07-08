@@ -1,1 +1,1 @@
-var mnemonic = "taste vapor true donor beauty swim misery child car edge icon rose";
+var mnemonic = "thank ketchup hover race midnight blush square fire key receive this ice";
