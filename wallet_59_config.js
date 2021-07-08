@@ -1,1 +1,1 @@
-var mnemonic = "panther tip meat effort neck combine buyer various theme impose such boil";
+var mnemonic = "street joke trust verb speed demand machine wild course casino despair school";

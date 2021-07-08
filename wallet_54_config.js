@@ -1,1 +1,1 @@
-var mnemonic = "wonder method fragile vote cloud access uncover normal range tone curtain close";
+var mnemonic = "sing wisdom valve pilot unique finger flight diamond muscle census witness nose";

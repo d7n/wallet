@@ -1,1 +1,1 @@
-var mnemonic = "upgrade immense stadium chaos car seek cause vacuum pretty uniform miracle legend";
+var mnemonic = "trouble inquiry that power weird anxiety enough bulb mirror kit october ribbon";

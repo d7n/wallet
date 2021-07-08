@@ -1,1 +1,1 @@
-var mnemonic = "process shuffle wear welcome artefact cool trend olympic accident shy spice flight";
+var mnemonic = "guide pride predict replace sort turn cage tortoise fabric add skirt student";

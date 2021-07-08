@@ -1,1 +1,1 @@
-var mnemonic = "emerge wonder alien luggage obscure trigger simple dial wagon armed match bulk";
+var mnemonic = "practice enemy avocado there naive accident roast camp honey swarm drama van";

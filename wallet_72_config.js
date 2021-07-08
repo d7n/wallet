@@ -1,1 +1,1 @@
-var mnemonic = "pitch venture penalty pact north check absent woman conduct tail tribe creek";
+var mnemonic = "sibling width mad acquire strategy strategy buzz orbit luxury siren spread dose";

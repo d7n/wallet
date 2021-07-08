@@ -1,1 +1,1 @@
-var mnemonic = "lens share major violin leaf employ direct tenant attitude fence blast either";
+var mnemonic = "wreck acid shadow panther welcome screen fence canoe drama dash labor detail";

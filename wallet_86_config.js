@@ -1,1 +1,1 @@
-var mnemonic = "drive spare mechanic myth math poet coconut sugar orient tongue one diesel";
+var mnemonic = "during ceiling pink service loop romance indicate myself amateur tree cousin steak";

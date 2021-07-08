@@ -1,1 +1,1 @@
-var mnemonic = "allow evil thumb cattle jewel column fiber lady fluid peace ginger toward";
+var mnemonic = "music toy outer grief notice wool label steak earn detail sponsor melt";

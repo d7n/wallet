@@ -1,1 +1,1 @@
-var mnemonic = "industry become dash bargain bomb old shield sport tuition scout blossom fine";
+var mnemonic = "eager trash object claim ten nuclear safe erase loud remove swift library";

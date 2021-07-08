@@ -1,1 +1,1 @@
-var mnemonic = "lake egg expect thumb angry sight call concert engine social child grow";
+var mnemonic = "repeat evolve avoid bar kit market flat horse skull normal another frown";

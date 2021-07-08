@@ -1,1 +1,1 @@
-var mnemonic = "metal will help defense gossip task excite usage forget fee uniform cotton";
+var mnemonic = "fuel into main help season earn hedgehog tube cotton poverty during venture";

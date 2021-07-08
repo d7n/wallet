@@ -1,1 +1,1 @@
-var mnemonic = "manual butter high omit place kite link unfair rose chronic time capital";
+var mnemonic = "rather target diagram now squeeze gather bid copy remember crystal coral direct";

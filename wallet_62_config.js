@@ -1,1 +1,1 @@
-var mnemonic = "quit jelly quarter primary hole two film cradle cheese woman trigger surge";
+var mnemonic = "episode please all tennis pulse violin basic more impulse model double express";

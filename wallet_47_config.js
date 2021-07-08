@@ -1,1 +1,1 @@
-var mnemonic = "earn duty rain assault blanket bubble crucial planet biology beef stable flag";
+var mnemonic = "modify sunset dose cram parrot present stick tomato knee fruit once dish";

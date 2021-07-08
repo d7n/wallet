@@ -1,1 +1,1 @@
-var mnemonic = "orphan silver observe actress logic exercise bronze bean comfort boring twist feel";
+var mnemonic = "wagon inhale valley oval ahead debris trouble apple rent leg alien very";

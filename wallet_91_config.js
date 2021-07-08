@@ -1,1 +1,1 @@
-var mnemonic = "vague coconut polar injury drastic wing hawk predict police dirt brave absurd";
+var mnemonic = "document bitter vendor round addict regret bounce right dance victory track tell";

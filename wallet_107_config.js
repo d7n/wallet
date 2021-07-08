@@ -1,1 +1,1 @@
-var mnemonic = "code aunt monitor exhibit shine okay inflict basket blanket cereal fortune resist";
+var mnemonic = "crawl aisle bronze network wild island relax neglect walnut useful purpose cherry";

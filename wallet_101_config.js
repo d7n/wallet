@@ -1,1 +1,1 @@
-var mnemonic = "leave element bread ranch ordinary top ritual theory gloom primary moment pigeon";
+var mnemonic = "fancy junk rebel bleak emerge crumble invest chronic pass margin story phrase";

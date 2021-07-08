@@ -1,1 +1,1 @@
-var mnemonic = "salon captain accident ribbon quote grit actress movie point any elegant thank";
+var mnemonic = "now must scrub position thought galaxy news gym fat shallow universe basket";

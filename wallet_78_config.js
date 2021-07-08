@@ -1,1 +1,1 @@
-var mnemonic = "stand donate radar spin film hill rude force sad arrow fire talk";
+var mnemonic = "cactus month voyage depart segment call stereo pair eternal erode present stay";

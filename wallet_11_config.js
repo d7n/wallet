@@ -1,1 +1,1 @@
-var mnemonic = "canyon symptom next caution pulse worry hollow pave toe magic pledge cage";
+var mnemonic = "fortune tail rifle laptop erase grow uncle ball old horror pave robust";

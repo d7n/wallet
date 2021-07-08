@@ -1,1 +1,1 @@
-var mnemonic = "anxiety eye open reopen asset decrease blush deer enough seed garage enforce";
+var mnemonic = "ghost ancient during prosper accident olympic range student soul more velvet barrel";

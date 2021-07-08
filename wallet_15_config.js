@@ -1,1 +1,1 @@
-var mnemonic = "machine knife income atom manage frog protect surge lamp ceiling hockey fruit";
+var mnemonic = "range side clever cool tenant course sound jewel behave draft shiver tortoise";

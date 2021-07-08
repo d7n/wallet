@@ -1,1 +1,1 @@
-var mnemonic = "magic aim art penalty excess wife hybrid cave punch intact sport manage";
+var mnemonic = "food flash trend viable electric record cousin gas observe level only pet";

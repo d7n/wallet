@@ -1,1 +1,1 @@
-var mnemonic = "viable stone quantum say twice elephant pass law where mass seek walnut";
+var mnemonic = "position seven orbit north purchase tilt reduce spirit toilet near whale shock";

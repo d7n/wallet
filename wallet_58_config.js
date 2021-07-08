@@ -1,1 +1,1 @@
-var mnemonic = "retreat label ready weasel blossom taxi either mail priority range purpose evidence";
+var mnemonic = "organ ride twice body utility trust mystery forest canyon tilt park buzz";

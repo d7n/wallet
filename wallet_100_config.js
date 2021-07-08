@@ -1,1 +1,1 @@
-var mnemonic = "square indicate spend endless shadow nominee coral trip limit opera below happy";
+var mnemonic = "gun live wall address tuition idea suffer absent fat trigger scan cup";

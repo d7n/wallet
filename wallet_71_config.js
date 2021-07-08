@@ -1,1 +1,1 @@
-var mnemonic = "expand bargain morning fall fossil hip ride shove glue judge crime settle";
+var mnemonic = "fetch someone into already illegal clerk boss once source mimic skate harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk scrap mixed rhythm delay general craft motor abandon use direct taxi";
+var mnemonic = "talk pole have quality more science lift pulse drive equip return dog";

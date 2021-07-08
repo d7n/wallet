@@ -1,1 +1,1 @@
-var mnemonic = "rotate myth shield front ahead song language multiply whale filter table transfer";
+var mnemonic = "certain debris naive craft convince expose royal wasp soap truth travel success";

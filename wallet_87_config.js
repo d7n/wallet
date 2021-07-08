@@ -1,1 +1,1 @@
-var mnemonic = "afford run hill prefer first hawk panther bind off symbol sunny waste";
+var mnemonic = "edge network swamp fortune balance answer differ height box typical mammal good";

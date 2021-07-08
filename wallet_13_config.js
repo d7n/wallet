@@ -1,1 +1,1 @@
-var mnemonic = "umbrella design habit ill emotion obvious antenna april drill flush parade cheap";
+var mnemonic = "dolphin awesome figure paper people inject hello drop flee grow essence clerk";

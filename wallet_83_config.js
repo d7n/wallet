@@ -1,1 +1,1 @@
-var mnemonic = "clap sword apple unique series prosper jacket huge initial valley spend settle";
+var mnemonic = "zero sport judge runway merge chase day tilt license proof nominee alley";

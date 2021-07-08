@@ -1,1 +1,1 @@
-var mnemonic = "dumb bid creek income myself rigid bubble oxygen charge attend toe endorse";
+var mnemonic = "impulse lesson load amused hood garden agent barrel elevator canvas round earn";

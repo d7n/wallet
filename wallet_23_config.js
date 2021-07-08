@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow flag item ordinary humor kitten ghost scrap unaware potato physical face";
+var mnemonic = "consider ability explain mirror surge accuse knee liquid dust chaos fever butter";

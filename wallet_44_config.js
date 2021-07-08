@@ -1,1 +1,1 @@
-var mnemonic = "announce cigar element subway insect mushroom cupboard adjust gas gravity arrange wide";
+var mnemonic = "pottery globe tone climb devote coffee avocado you card blur stairs elephant";

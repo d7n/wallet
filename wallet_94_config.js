@@ -1,1 +1,1 @@
-var mnemonic = "pigeon siege room ostrich credit battle galaxy credit alcohol mango stuff rude";
+var mnemonic = "train trigger metal save middle cinnamon hospital exit nerve science bronze tourist";

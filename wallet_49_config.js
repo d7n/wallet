@@ -1,1 +1,1 @@
-var mnemonic = "please march bus bright banana collect flower seed gorilla assume equip fuel";
+var mnemonic = "priority glide jealous inner group collect frame assume long soda author car";

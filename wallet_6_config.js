@@ -1,1 +1,1 @@
-var mnemonic = "toilet give donor office title bright umbrella frame face atom season blanket";
+var mnemonic = "indicate similar cinnamon science check disease smile goose purity kingdom group excuse";

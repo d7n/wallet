@@ -1,1 +1,1 @@
-var mnemonic = "icon code will high tonight tree innocent orchard potato frame shoe image";
+var mnemonic = "fossil zebra transfer build distance blossom deal drill brick source limb collect";

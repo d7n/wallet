@@ -1,1 +1,1 @@
-var mnemonic = "cupboard surprise layer snow draw level raw midnight spirit tuition quit island";
+var mnemonic = "expose afraid area dentist six hat follow brisk differ bamboo pistol list";

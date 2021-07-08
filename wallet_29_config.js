@@ -1,1 +1,1 @@
-var mnemonic = "when matrix deliver ship half flame middle veteran apple cereal shoe mixture";
+var mnemonic = "board employ pony amused also phrase chat believe level ranch cruel physical";

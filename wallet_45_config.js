@@ -1,1 +1,1 @@
-var mnemonic = "high trade wash garden rigid virtual deposit move valley mule talk wood";
+var mnemonic = "ignore cool above ice coyote crunch horror rookie section size panther library";

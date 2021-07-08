@@ -1,1 +1,1 @@
-var mnemonic = "satoshi design embody chat index baby manage guilt pizza weekend battle riot";
+var mnemonic = "shrug aim renew shoulder borrow attend ecology chicken outdoor region retreat vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist resemble swear genre life news wealth aisle chair enroll emotion disease";
+var mnemonic = "lamp menu stool bounce trick flower system fatal clock nothing echo proof";

@@ -1,1 +1,1 @@
-var mnemonic = "broken resist mobile thumb define pluck electric title find quote health syrup";
+var mnemonic = "glow suit tourist tube series label slender coral sadness lesson damp essay";

@@ -1,1 +1,1 @@
-var mnemonic = "faith two wire near prize clump panther bag equal meat grow grid";
+var mnemonic = "wonder need certain elegant senior strategy weather trip that drink remind bid";

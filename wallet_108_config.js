@@ -1,1 +1,1 @@
-var mnemonic = "donkey comfort govern armed fabric program symbol print desk object ring infant";
+var mnemonic = "coyote ivory still now margin pole actor bulk carry fortune girl become";

@@ -1,1 +1,1 @@
-var mnemonic = "mention easy leader combine provide habit supply assist crane unfair kangaroo blood";
+var mnemonic = "annual area future crane crew chicken lucky bench verify assume praise husband";

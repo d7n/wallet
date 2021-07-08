@@ -1,1 +1,1 @@
-var mnemonic = "ability tail seek alpha panther chunk thought auto photo sea skill ritual";
+var mnemonic = "anchor romance confirm animal tell window celery eagle aim furnace great enough";

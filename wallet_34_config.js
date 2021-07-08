@@ -1,1 +1,1 @@
-var mnemonic = "spread gospel hungry claw scout marble three tape crouch inherit weird admit";
+var mnemonic = "tip velvet antique place oxygen glide behave simple bag quarter message fruit";

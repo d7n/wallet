@@ -1,1 +1,1 @@
-var mnemonic = "wolf method render uphold effort february foster used rice illegal below below";
+var mnemonic = "law country hard original horse time captain display seat chimney high inside";

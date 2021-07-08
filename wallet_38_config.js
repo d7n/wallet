@@ -1,1 +1,1 @@
-var mnemonic = "mouse divorce secret split rally remove dwarf news hard keen myself menu";
+var mnemonic = "sponsor coast farm enemy pride oil various report uncle gospel ranch zero";

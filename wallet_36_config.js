@@ -1,1 +1,1 @@
-var mnemonic = "release ability easy wash stock foil jaguar also priority crane gorilla lift";
+var mnemonic = "genius property agent squirrel beef diesel harvest dawn refuse ketchup sunny end";

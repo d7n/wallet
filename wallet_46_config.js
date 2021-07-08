@@ -1,1 +1,1 @@
-var mnemonic = "vital struggle save surface river judge rough undo bounce ripple sister during";
+var mnemonic = "economy little object pulse hobby ketchup real issue wage salute wide detail";

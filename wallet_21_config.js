@@ -1,1 +1,1 @@
-var mnemonic = "inherit pudding image spring nasty brand core basket abuse pottery image bachelor";
+var mnemonic = "insane announce nominee trap room rain ask surround right reduce anchor door";

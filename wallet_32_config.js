@@ -1,1 +1,1 @@
-var mnemonic = "logic outer pepper relief comic canoe circle genius veteran tired favorite indicate";
+var mnemonic = "crawl retreat frequent faculty team seat desert emotion fetch judge master come";

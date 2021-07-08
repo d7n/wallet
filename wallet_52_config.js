@@ -1,1 +1,1 @@
-var mnemonic = "crime armor shoot envelope merit napkin twice evidence doll tree feel eyebrow";
+var mnemonic = "peanut world frog pig cart audit awful pottery fresh measure almost song";

@@ -1,1 +1,1 @@
-var mnemonic = "thought diary estate short boil clutch ecology worry virtual frozen sound dinosaur";
+var mnemonic = "nature dash chicken cliff soda tumble medal foot pride sister brisk heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "glance stomach credit lock act camp fee lobster custom work settle vicious";
+var mnemonic = "renew upper era barrel settle abuse then win fix lobster bacon guide";

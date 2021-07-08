@@ -1,1 +1,1 @@
-var mnemonic = "wolf bird leave goddess shrug ghost noodle burst mix thunder office portion";
+var mnemonic = "top forward rude evolve hurry riot guess divorce there alpha tilt chaos";

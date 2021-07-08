@@ -1,1 +1,1 @@
-var mnemonic = "gadget endorse cousin phrase all win flavor debris rely unfold need rule";
+var mnemonic = "crater rookie path gesture devote lunch earth valid life donor april second";

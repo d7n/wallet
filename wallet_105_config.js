@@ -1,1 +1,1 @@
-var mnemonic = "useless liquid village gloom yard tunnel kind myth category nothing repeat damp";
+var mnemonic = "unable gap face enter fan pulse electric wonder oak toy paper income";

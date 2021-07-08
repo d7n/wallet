@@ -1,1 +1,1 @@
-var mnemonic = "include people fee wine story input slice traffic amateur increase economy buzz";
+var mnemonic = "toddler vague cloth bundle december crop smoke walk deer envelope robot material";

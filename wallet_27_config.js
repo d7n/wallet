@@ -1,1 +1,1 @@
-var mnemonic = "school slogan maximum indicate stadium obscure glad orient theme idea blue chair";
+var mnemonic = "gap mask devote guilt modify brush benefit stumble index melody legal hazard";

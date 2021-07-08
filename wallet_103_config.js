@@ -1,1 +1,1 @@
-var mnemonic = "employ mansion network february case zoo torch curious base subway ginger strong";
+var mnemonic = "tenant often cool wealth congress aunt host spike zone simple lake tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "hint silk human return share because benefit sure inspire emerge actress indoor";
+var mnemonic = "fiction fire track race army exact toe capital husband venue pilot glass";

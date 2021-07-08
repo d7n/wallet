@@ -1,1 +1,1 @@
-var mnemonic = "opinion edge appear purpose smoke comfort now sea seven guide soap door";
+var mnemonic = "wife casino gentle load found ladder boil lab tourist father candy grass";

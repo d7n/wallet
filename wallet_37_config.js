@@ -1,1 +1,1 @@
-var mnemonic = "chapter cheese swarm please glue window cube tail nurse more ivory crush";
+var mnemonic = "notable rival heart sleep cook pistol genuine scheme sister region piece assist";

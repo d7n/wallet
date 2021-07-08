@@ -1,1 +1,1 @@
-var mnemonic = "develop kidney cement vibrant poem join rhythm dismiss news turn crane cushion";
+var mnemonic = "split fatal task outer zero hold doll original spray pumpkin initial slide";

@@ -1,1 +1,1 @@
-var mnemonic = "spice they group skate case zebra stay vivid hospital enhance ginger depart";
+var mnemonic = "always neutral month divorce stock cry ability occur glad announce source mean";

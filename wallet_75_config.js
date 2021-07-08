@@ -1,1 +1,1 @@
-var mnemonic = "gift top forest minute solar item pave spin hip spoon monkey flee";
+var mnemonic = "helmet dance sun oak panther force suspect this guess second trial suggest";

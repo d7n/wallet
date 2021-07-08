@@ -1,1 +1,1 @@
-var mnemonic = "noise monkey ostrich menu relax actor vibrant left behave solve situate bring";
+var mnemonic = "soda convince absurd horn comic warm useless fade april skirt guitar elephant";

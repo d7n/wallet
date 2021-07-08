@@ -1,1 +1,1 @@
-var mnemonic = "pig spring web stem dial minute summer expand dirt hen merge safe";
+var mnemonic = "turtle control general renew feature tragic leaf again lake insect drop mix";

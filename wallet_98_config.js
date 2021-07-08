@@ -1,1 +1,1 @@
-var mnemonic = "faculty sail athlete spend fresh manage fence rule illness merry pass section";
+var mnemonic = "injury parent grant service such travel current old false spare tilt avoid";

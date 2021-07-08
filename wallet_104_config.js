@@ -1,1 +1,1 @@
-var mnemonic = "east antique finish whisper balcony physical actual private peasant crawl breeze liar";
+var mnemonic = "zoo bomb apology laundry add nice remove unhappy siege chapter large spirit";

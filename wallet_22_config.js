@@ -1,1 +1,1 @@
-var mnemonic = "private slogan melody remain enjoy talk conduct trigger aerobic retire promote again";
+var mnemonic = "winner early airport egg opera tooth urge retire during level order bridge";

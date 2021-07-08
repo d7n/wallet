@@ -1,1 +1,1 @@
-var mnemonic = "auction noble ride mansion aunt egg lemon final comfort tackle snow satisfy";
+var mnemonic = "brave tunnel pole artist flip industry journey act oyster observe surge response";

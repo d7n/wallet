@@ -1,1 +1,1 @@
-var mnemonic = "lazy stone cost company wolf cry arctic bean lumber usage doll doctor";
+var mnemonic = "echo assist usage shrug refuse praise express truly advice kangaroo cargo need";

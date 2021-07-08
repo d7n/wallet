@@ -1,1 +1,1 @@
-var mnemonic = "chimney lend coin glow connect forest radar dish syrup word brown unable";
+var mnemonic = "thank burger domain rabbit spread grow noise chapter busy digital skirt resist";

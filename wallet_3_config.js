@@ -1,1 +1,1 @@
-var mnemonic = "enhance tell crystal despair wedding pledge feel screen cancel extend pluck power";
+var mnemonic = "quit scorpion auction leisure manage start razor village firm frog fresh obtain";

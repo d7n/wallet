@@ -1,1 +1,1 @@
-var mnemonic = "empty snap hair promote shove sort agree oblige oxygen sea foam burden";
+var mnemonic = "someone dash slam will neglect screen nature country range west salmon domain";

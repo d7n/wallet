@@ -1,1 +1,1 @@
-var mnemonic = "pulse recycle version swift stick antenna grit hidden hedgehog various lawsuit pen";
+var mnemonic = "delay indoor rotate object abandon rival skin liquid hen diary bubble couple";

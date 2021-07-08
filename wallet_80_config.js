@@ -1,1 +1,1 @@
-var mnemonic = "hobby shrimp enrich strategy child occur carry security rice kit spend judge";
+var mnemonic = "snack tray capital figure parent antenna broken success crystal melody circle stool";

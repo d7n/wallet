@@ -1,1 +1,1 @@
-var mnemonic = "path morning pool soda tree answer result curious cluster govern rally wreck";
+var mnemonic = "resemble guard execute exact large sock wire invite item couple guilt invite";

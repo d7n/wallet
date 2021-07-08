@@ -1,1 +1,1 @@
-var mnemonic = "dragon elevator ribbon kitchen curious select problem swap labor duck afraid strong";
+var mnemonic = "feature thank material scan defense reduce salmon chicken virtual rice steak october";

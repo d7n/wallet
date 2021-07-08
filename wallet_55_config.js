@@ -1,1 +1,1 @@
-var mnemonic = "wine deputy crater road erupt response lottery session wave near prevent walnut";
+var mnemonic = "grow second leave vendor fatal adult outdoor sunny giant slow dress laptop";

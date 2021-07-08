@@ -1,1 +1,1 @@
-var mnemonic = "neck excuse indoor tent result smoke mom bind decline differ conduct maple";
+var mnemonic = "innocent system shallow mass artist fix illness ridge wrong panda gather split";

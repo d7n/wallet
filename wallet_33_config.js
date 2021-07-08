@@ -1,1 +1,1 @@
-var mnemonic = "abandon benefit cement remind fit outdoor diet draft creek pink milk skin";
+var mnemonic = "ten merry tattoo dumb first above save puzzle leopard love travel since";

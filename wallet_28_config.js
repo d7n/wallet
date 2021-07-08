@@ -1,1 +1,1 @@
-var mnemonic = "fox dizzy lens warfare typical remove bundle lucky recipe donkey celery cherry";
+var mnemonic = "happy average fossil pepper never convince glare section lock garment spot version";

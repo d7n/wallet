@@ -1,1 +1,1 @@
-var mnemonic = "fire fame mention column staff below green polar pride render suffer donate";
+var mnemonic = "middle shop original story large silver scene valve mind gorilla mammal faith";

@@ -1,1 +1,1 @@
-var mnemonic = "possible verify robust spike industry magic spread federal comic choose canal shoot";
+var mnemonic = "alley vehicle film ramp rival pet hobby end proof desert put you";
