@@ -1,1 +1,1 @@
-var mnemonic = "unveil output unique ship name ridge spread unit flag shoot flight debris";
+var mnemonic = "prepare valley custom cable cave view sphere craft wolf double evoke ankle";

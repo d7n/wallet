@@ -1,1 +1,1 @@
-var mnemonic = "smooth lock fan there merry audit naive core fruit female left innocent";
+var mnemonic = "embark tongue forward large soap custom artwork maximum icon better horn ostrich";

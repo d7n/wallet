@@ -1,1 +1,1 @@
-var mnemonic = "project hold punch shove bridge stand era stamp myth evolve sniff bullet";
+var mnemonic = "bone disease grape monkey sample twelve require office flip exhibit gasp frost";

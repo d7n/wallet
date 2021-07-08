@@ -1,1 +1,1 @@
-var mnemonic = "bomb fuel control stadium shield song assault vendor broccoli wet loyal space";
+var mnemonic = "verb glory frost enhance skate review giant bean middle miss deal pizza";

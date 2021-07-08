@@ -1,1 +1,1 @@
-var mnemonic = "route fence toe token goat flight only lab coral mobile satoshi maid";
+var mnemonic = "hundred exist summer embark unhappy club night daring code they sniff alone";

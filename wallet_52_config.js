@@ -1,1 +1,1 @@
-var mnemonic = "discover dirt thumb disease radar legal anger symbol coin fresh subject fall";
+var mnemonic = "square noise tone identify prison junk what noodle drive drastic slush virus";

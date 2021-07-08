@@ -1,1 +1,1 @@
-var mnemonic = "market boss anxiety trash present cream dwarf practice replace sauce trick marriage";
+var mnemonic = "thrive tongue tackle lemon balcony auto wolf inform gaze phone recycle tuition";

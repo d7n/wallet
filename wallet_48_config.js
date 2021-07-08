@@ -1,1 +1,1 @@
-var mnemonic = "boss border exit blade tattoo gold fall reduce clump leisure result opera";
+var mnemonic = "coach link method energy dentist drastic travel glad write pottery valley heavy";

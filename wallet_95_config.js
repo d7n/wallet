@@ -1,1 +1,1 @@
-var mnemonic = "boss always six valley dune comic patrol grant idle seek scout silly";
+var mnemonic = "column lava rule spring detect cancel slice energy season arctic pattern velvet";

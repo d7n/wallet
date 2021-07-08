@@ -1,1 +1,1 @@
-var mnemonic = "joke much two gown reduce skirt prison merge hedgehog runway faint family";
+var mnemonic = "jazz zone almost network place snap joke moral convince frame canal edit";

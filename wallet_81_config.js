@@ -1,1 +1,1 @@
-var mnemonic = "forward another quiz garage sketch duty pitch enroll tail drive vendor sunset";
+var mnemonic = "spoil direct scan lens idle pioneer much source coach fork year foster";

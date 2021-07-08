@@ -1,1 +1,1 @@
-var mnemonic = "like grit joke pattern nasty corn puppy clever riot shield finish attract";
+var mnemonic = "sting garbage honey gather hurt sound sun loan genuine author plastic extend";

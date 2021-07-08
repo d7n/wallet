@@ -1,1 +1,1 @@
-var mnemonic = "know omit sort soldier work utility maximum tape mule umbrella capital december";
+var mnemonic = "weather yard escape phone clock where arrest private essence wrong gap gap";

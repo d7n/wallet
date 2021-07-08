@@ -1,1 +1,1 @@
-var mnemonic = "border upon lava also copy exchange dance hero include cream will crystal";
+var mnemonic = "coral dove legend rhythm plug lawsuit valley clinic color rally assist ice";

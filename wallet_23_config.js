@@ -1,1 +1,1 @@
-var mnemonic = "chalk diary envelope census hedgehog primary left shoot rebuild sight crazy another";
+var mnemonic = "surprise firm father economy ensure smart there tube cherry firm disagree vivid";

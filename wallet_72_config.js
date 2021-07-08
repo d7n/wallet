@@ -1,1 +1,1 @@
-var mnemonic = "solid cream almost follow accuse truly era episode miss drill coyote vote";
+var mnemonic = "cross creek person soft forget mutual swarm employ left vast spawn burden";

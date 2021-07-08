@@ -1,1 +1,1 @@
-var mnemonic = "bunker motor detail library office video hard file trade liquid shrimp between";
+var mnemonic = "erosion lock fall special arctic lesson recall multiply sample duck carry vague";

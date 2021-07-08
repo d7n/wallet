@@ -1,1 +1,1 @@
-var mnemonic = "arrest weekend work into issue crazy call enroll winter traffic office spice";
+var mnemonic = "purity trust despair sustain detail confirm claw spot athlete mind deposit urban";

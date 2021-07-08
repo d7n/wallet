@@ -1,1 +1,1 @@
-var mnemonic = "own toddler powder ball bring goat leader excuse jacket virtual derive creek";
+var mnemonic = "build vital expect diagram outer soap inherit winter excess found later pitch";

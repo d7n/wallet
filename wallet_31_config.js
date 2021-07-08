@@ -1,1 +1,1 @@
-var mnemonic = "retire office survey leopard feed warrior obtain song amused water width march";
+var mnemonic = "hope oval myth insane guitar business burst cheap connect now deer black";

@@ -1,1 +1,1 @@
-var mnemonic = "video snow glove glass smile huge cry route length rare place oven";
+var mnemonic = "phrase aware armor distance medal mutual course car mouse crazy captain tower";

@@ -1,1 +1,1 @@
-var mnemonic = "divide afford busy noodle scout member spell planet swim observe flat one";
+var mnemonic = "average tortoise divorce update nature diamond old aunt dilemma devote bless hood";

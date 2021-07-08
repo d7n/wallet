@@ -1,1 +1,1 @@
-var mnemonic = "child toilet duty tackle talent tent collect cloud spare sword ritual method";
+var mnemonic = "glass learn height youth dove over clap crucial social junior false glow";

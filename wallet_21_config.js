@@ -1,1 +1,1 @@
-var mnemonic = "thing canal pig young salad crop oppose virtual minimum identify glove diet";
+var mnemonic = "orphan daughter yellow guilt menu flash satoshi ivory crouch humor wood garbage";

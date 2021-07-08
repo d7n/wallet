@@ -1,1 +1,1 @@
-var mnemonic = "enact limb catalog track word nest candy bargain enemy board neglect melt";
+var mnemonic = "bracket have volcano violin art sand praise profit luxury guard belt color";

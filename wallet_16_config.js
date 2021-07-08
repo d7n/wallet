@@ -1,1 +1,1 @@
-var mnemonic = "thumb today omit fun defense often celery wealth lemon stand bomb swear";
+var mnemonic = "unusual peanut exist quiz month shield quarter spend concert cliff hobby midnight";

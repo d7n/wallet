@@ -1,1 +1,1 @@
-var mnemonic = "sauce attract cash coyote fly purity insane dish undo goddess art float";
+var mnemonic = "volume around poet muffin inch myth worry world solve suffer trim opera";

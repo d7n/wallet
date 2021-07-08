@@ -1,1 +1,1 @@
-var mnemonic = "add attract bone satoshi check zebra manage letter picnic oval congress neither";
+var mnemonic = "client solid twist poet thought focus clap differ blade attack estate heavy";

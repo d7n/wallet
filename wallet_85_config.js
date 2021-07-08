@@ -1,1 +1,1 @@
-var mnemonic = "deposit jar case knock laundry blame normal portion noble oppose nephew fiction";
+var mnemonic = "smooth normal cry moon grain rapid found arch aspect announce switch volcano";

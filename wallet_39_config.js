@@ -1,1 +1,1 @@
-var mnemonic = "sort input twenty tissue jewel tool myself engage funny ahead kick where";
+var mnemonic = "hip swarm reduce resist grain assault impulse price museum drama bacon left";

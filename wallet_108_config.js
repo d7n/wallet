@@ -1,1 +1,1 @@
-var mnemonic = "hold harvest smooth fan sign lion aerobic doctor dust already lens foster";
+var mnemonic = "please draw regret explain thunder above lava sister bless leaf abuse extra";

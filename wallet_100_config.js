@@ -1,1 +1,1 @@
-var mnemonic = "negative child picnic knee indicate super menu fun swing bitter more deliver";
+var mnemonic = "rookie velvet depth uphold clock doll relax carbon sock endorse awake second";

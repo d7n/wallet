@@ -1,1 +1,1 @@
-var mnemonic = "tomato wealth ship genuine total large alpha degree negative reflect rare rib";
+var mnemonic = "grace injury coil harvest exchange ticket truth quote network solar fox duty";

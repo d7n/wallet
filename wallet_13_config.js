@@ -1,1 +1,1 @@
-var mnemonic = "color suffer glass stuff lake fuel property glass olympic local artist casino";
+var mnemonic = "mention crush dentist fold minute share life nature aunt hope travel border";

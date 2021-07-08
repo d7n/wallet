@@ -1,1 +1,1 @@
-var mnemonic = "update half fiber label school gas dismiss know alert life speed idea";
+var mnemonic = "level develop tennis ecology rice busy burger calm pepper once diamond artefact";

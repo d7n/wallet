@@ -1,1 +1,1 @@
-var mnemonic = "group coin rate jar avoid fit truck print matrix copper stem absent";
+var mnemonic = "resist remove side thank finish initial giraffe fun slim crime move holiday";

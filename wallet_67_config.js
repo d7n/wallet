@@ -1,1 +1,1 @@
-var mnemonic = "clay school friend midnight burger foil burger olive toilet tornado prepare wasp";
+var mnemonic = "day hurry mixed genuine speed invest feature rain garment guard scissors maximum";

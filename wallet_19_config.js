@@ -1,1 +1,1 @@
-var mnemonic = "mean priority surround cram heart report boost mistake devote december ask drive";
+var mnemonic = "juice bronze plunge swamp toss stuff ginger loop actress duck inform chase";

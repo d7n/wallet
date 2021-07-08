@@ -1,1 +1,1 @@
-var mnemonic = "hand glare twenty fatigue inherit rug find urge during banner motion holiday";
+var mnemonic = "say cream inmate script purse trumpet boring clap admit ceiling certain address";

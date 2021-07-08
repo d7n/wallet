@@ -1,1 +1,1 @@
-var mnemonic = "swim super blanket husband better village scheme east disagree brass adult observe";
+var mnemonic = "regular kingdom address wire dance thumb novel leisure unusual cattle critic elite";

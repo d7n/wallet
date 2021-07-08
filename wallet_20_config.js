@@ -1,1 +1,1 @@
-var mnemonic = "win crowd course attack suffer cupboard marble produce junior fitness shine room";
+var mnemonic = "excess board knee bottom ahead garment goddess anchor nature dash dizzy coach";

@@ -1,1 +1,1 @@
-var mnemonic = "tool train poverty crunch symptom robust ginger coin bright draft whisper loan";
+var mnemonic = "faith media carbon acid sponsor segment second heart business travel moon neck";

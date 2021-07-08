@@ -1,1 +1,1 @@
-var mnemonic = "alone parade write stool tail define choose kiss diary alter cool banana";
+var mnemonic = "bean clog ostrich moon orange route confirm benefit vintage public judge tell";

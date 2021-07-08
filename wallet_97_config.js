@@ -1,1 +1,1 @@
-var mnemonic = "gather online cycle cotton hotel mango mercy reward stage response novel emotion";
+var mnemonic = "token provide ill ginger chicken pony slot sock curve cushion ill loan";

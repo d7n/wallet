@@ -1,1 +1,1 @@
-var mnemonic = "oak village mechanic pave dose crazy topic unique wage family thank tonight";
+var mnemonic = "predict total armor brother diagram easy intact curtain imitate fever creek rule";

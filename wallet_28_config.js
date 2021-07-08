@@ -1,1 +1,1 @@
-var mnemonic = "deer torch ghost clutch spy alcohol birth mesh avocado trick drink high";
+var mnemonic = "dilemma figure reunion pen enjoy minimum quarter soup hope home slush unique";

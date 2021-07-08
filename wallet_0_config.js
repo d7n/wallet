@@ -1,1 +1,1 @@
-var mnemonic = "lake author garbage mention pencil sphere sock auto high treat swarm model";
+var mnemonic = "bronze simple clump session bubble pause stone civil deposit seven tree strong";

@@ -1,1 +1,1 @@
-var mnemonic = "choose beach drop oblige object grape snap trap half have depart either";
+var mnemonic = "father task wire obey matrix daughter plug juice actor twin transfer usage";

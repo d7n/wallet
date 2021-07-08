@@ -1,1 +1,1 @@
-var mnemonic = "exist project snake hello never gorilla supreme tornado woman olive area desk";
+var mnemonic = "accuse code around oven zoo major monitor deal bounce aspect exercise seed";

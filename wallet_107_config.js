@@ -1,1 +1,1 @@
-var mnemonic = "rifle silver position super drum mass bulk math frozen brick alert club";
+var mnemonic = "network trial across donkey list buyer vocal staff birth test wild pledge";

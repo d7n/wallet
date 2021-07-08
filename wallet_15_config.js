@@ -1,1 +1,1 @@
-var mnemonic = "sister minimum gather wheel damp buyer receive define suspect grab mad include";
+var mnemonic = "orchard shoulder puppy motor must belt admit kid obtain photo satoshi flash";

@@ -1,1 +1,1 @@
-var mnemonic = "coral legend junior device fence alarm position whisper keep happy spend hawk";
+var mnemonic = "jump few tenant shrimp humble food ring amount axis wise find neither";

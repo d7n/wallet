@@ -1,1 +1,1 @@
-var mnemonic = "jungle vessel bottom scissors place immune winner around satisfy fold insect general";
+var mnemonic = "miss that wage juice dolphin opinion expose fish tooth gospel innocent town";

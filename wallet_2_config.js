@@ -1,1 +1,1 @@
-var mnemonic = "arctic jeans lend loop salon story bulb lawn mushroom torch brick tube";
+var mnemonic = "execute lava rural appear again salon verify claw head eye worry jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "educate clutch cinnamon area guilt name orchard divorce glimpse also define scare";
+var mnemonic = "address adapt climb caught grass chapter wolf lunar slot good stadium exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon base popular circle shed warm odor evoke stadium dizzy vague barrel";
+var mnemonic = "ten talk dawn filter betray badge security wedding quit couch recipe trigger";

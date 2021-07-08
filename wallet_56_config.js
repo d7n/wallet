@@ -1,1 +1,1 @@
-var mnemonic = "glue teach cancel similar satoshi inspire menu bulk hello awesome ostrich real";
+var mnemonic = "tape amazing finger quick mandate genre crunch tent model carry beauty guess";

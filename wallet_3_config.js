@@ -1,1 +1,1 @@
-var mnemonic = "aunt sheriff asset label deal ritual shell field beach knife pudding trade";
+var mnemonic = "flavor advice similar ask beauty stereo public pass bulb mobile avocado okay";

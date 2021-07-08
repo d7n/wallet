@@ -1,1 +1,1 @@
-var mnemonic = "small deliver smooth dutch author tornado cotton carpet taxi indicate sponsor buzz";
+var mnemonic = "ketchup alcohol upset capable leg shrimp pen effort road exit base foil";

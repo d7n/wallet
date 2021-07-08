@@ -1,1 +1,1 @@
-var mnemonic = "share reason minimum equal midnight easy penalty lunar loyal sail parade escape";
+var mnemonic = "gun iron wish rapid mule dice normal tragic window merge crash begin";

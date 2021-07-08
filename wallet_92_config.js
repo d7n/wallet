@@ -1,1 +1,1 @@
-var mnemonic = "degree replace wear concert tell hole attend brisk muffin potato swing monkey";
+var mnemonic = "flee divert expect sure catalog bitter addict swarm random apology grow doll";

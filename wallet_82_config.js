@@ -1,1 +1,1 @@
-var mnemonic = "deposit labor page solve razor tissue jazz blood hedgehog filter mushroom insect";
+var mnemonic = "person paddle civil flag economy swap castle find tree couch come tragic";

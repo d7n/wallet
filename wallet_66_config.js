@@ -1,1 +1,1 @@
-var mnemonic = "bag front rough speak deer luggage write replace media alarm outdoor display";
+var mnemonic = "attract explain position waste walnut solar gadget antenna perfect universe prevent stool";

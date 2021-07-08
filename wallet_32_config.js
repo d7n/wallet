@@ -1,1 +1,1 @@
-var mnemonic = "attend matrix damp sand music canoe upset predict slender brick balcony nephew";
+var mnemonic = "inquiry merge cup heart shed toe affair subway daughter trip sport banana";

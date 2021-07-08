@@ -1,1 +1,1 @@
-var mnemonic = "shiver train pear render parade later outer clip check casino blind recipe";
+var mnemonic = "notable size venue sample fury ski august popular promote try change enlist";

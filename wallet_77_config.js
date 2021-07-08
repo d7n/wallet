@@ -1,1 +1,1 @@
-var mnemonic = "tape athlete glimpse oyster like private struggle forward mammal arm setup mammal";
+var mnemonic = "notable team husband deny option immense shine hospital summer word squirrel mix";

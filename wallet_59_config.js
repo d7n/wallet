@@ -1,1 +1,1 @@
-var mnemonic = "dad shadow lunch live release clerk liquid random dragon slim dish dinosaur";
+var mnemonic = "great brush plate dust used prevent detail day boat razor motion human";

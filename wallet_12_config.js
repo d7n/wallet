@@ -1,1 +1,1 @@
-var mnemonic = "appear nature lunch orphan thank tree shine pencil vapor leave butter ring";
+var mnemonic = "current airport tumble imitate insect diary purpose metal monster try oxygen cluster";

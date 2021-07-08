@@ -1,1 +1,1 @@
-var mnemonic = "absorb size critic parrot genius aware horn point close attend result artist";
+var mnemonic = "cluster boring outdoor evolve empty brisk exercise girl frequent rookie scissors forget";

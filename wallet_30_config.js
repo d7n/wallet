@@ -1,1 +1,1 @@
-var mnemonic = "alley stage toe sea border dwarf slam bar reflect void seminar sunset";
+var mnemonic = "wing clutch spin shrug orbit half game safe gold blouse saddle question";

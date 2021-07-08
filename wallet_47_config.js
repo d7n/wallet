@@ -1,1 +1,1 @@
-var mnemonic = "pilot oak rookie swift oak route topic unit final wide wedding manage";
+var mnemonic = "orbit episode object picture few hidden rain trip else level shiver female";

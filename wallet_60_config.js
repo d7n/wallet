@@ -1,1 +1,1 @@
-var mnemonic = "glass girl genius weather baby real pony blade pitch denial credit control";
+var mnemonic = "small unhappy elite raven never gap reopen friend become tape side avocado";

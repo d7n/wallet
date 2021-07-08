@@ -1,1 +1,1 @@
-var mnemonic = "antenna snow open tiger swarm debate census enroll resist sock toilet general";
+var mnemonic = "apart electric axis pattern hazard oil crush kiss stomach glance awkward hand";

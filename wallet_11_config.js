@@ -1,1 +1,1 @@
-var mnemonic = "copy float capable planet scatter excuse because gravity margin biology ahead arrest";
+var mnemonic = "abuse actor number snap duty primary give miracle december damage paddle fly";

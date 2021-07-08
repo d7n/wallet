@@ -1,1 +1,1 @@
-var mnemonic = "castle need waste neglect bike employ proof actual manage keen kingdom wall";
+var mnemonic = "canoe little forward twelve birth steel two version police coil rug grow";

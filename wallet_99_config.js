@@ -1,1 +1,1 @@
-var mnemonic = "vendor sea table cherry envelope vicious elephant click coach inmate share tumble";
+var mnemonic = "scissors relax shy common season erase animal discover toilet sure joy horror";

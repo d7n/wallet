@@ -1,1 +1,1 @@
-var mnemonic = "switch piano tired over actual family voyage thumb pen fresh regret asset";
+var mnemonic = "advance sense debris outdoor amount strong rival sing deputy piece salt home";

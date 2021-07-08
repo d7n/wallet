@@ -1,1 +1,1 @@
-var mnemonic = "that father ivory physical wreck horse amused people stock fox limit midnight";
+var mnemonic = "buyer plate large hair argue behave bring game color sniff hollow dawn";

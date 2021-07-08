@@ -1,1 +1,1 @@
-var mnemonic = "match trend indicate innocent winner also movie undo song visit garden alley";
+var mnemonic = "number pistol insect jungle gadget rough capable vessel picnic soon excess napkin";

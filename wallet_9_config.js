@@ -1,1 +1,1 @@
-var mnemonic = "fiscal way secret grief wreck cabbage promote cake increase define toy extra";
+var mnemonic = "old salmon inject grit remind level pizza kite patrol memory annual sphere";

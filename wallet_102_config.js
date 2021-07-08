@@ -1,1 +1,1 @@
-var mnemonic = "feel lock embark solve interest remain step program joke spatial machine old";
+var mnemonic = "base sort pottery dirt quality brush wine gentle enough minute turkey coach";

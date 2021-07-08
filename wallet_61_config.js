@@ -1,1 +1,1 @@
-var mnemonic = "bind fan stomach boy seek quarter invest pink barely utility dad ghost";
+var mnemonic = "clay peace sad swarm razor inner fragile potato hen rack concert valid";

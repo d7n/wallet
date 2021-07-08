@@ -1,1 +1,1 @@
-var mnemonic = "trick grow bracket segment soldier artefact door brain penalty response useless food";
+var mnemonic = "image actual manual rival van elegant sunny panic frown village unlock reunion";

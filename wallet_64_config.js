@@ -1,1 +1,1 @@
-var mnemonic = "lawn hole split industry danger boy bacon man punch spell time midnight";
+var mnemonic = "stamp explain raise earn amazing brother gym monkey salmon front already prevent";

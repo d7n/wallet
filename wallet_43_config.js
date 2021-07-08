@@ -1,1 +1,1 @@
-var mnemonic = "critic tide ghost concert grid glance skirt brave where tail file news";
+var mnemonic = "enjoy gate screen episode video lamp hawk tornado half merge case robot";

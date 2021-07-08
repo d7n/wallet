@@ -1,1 +1,1 @@
-var mnemonic = "wire fold skirt powder damp vacuum very wreck deliver will tattoo fog";
+var mnemonic = "wild gadget net submit size cave cloth human winner supply spring saddle";

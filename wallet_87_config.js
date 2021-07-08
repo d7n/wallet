@@ -1,1 +1,1 @@
-var mnemonic = "pipe convince better derive music horse nerve hen project fossil company total";
+var mnemonic = "wrong oil citizen witness enable hill manual auto dolphin belt monkey convince";
