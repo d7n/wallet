@@ -1,1 +1,1 @@
-var mnemonic = "lend farm wait wet total pet lift chalk heavy width try promote";
+var mnemonic = "enhance merge analyst they warm auction rocket enough release volume grief host";

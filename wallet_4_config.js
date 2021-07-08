@@ -1,1 +1,1 @@
-var mnemonic = "loyal clap vague emerge crew march pole absorb toilet armor advice certain";
+var mnemonic = "valley negative unaware wild follow edge absurd minimum federal embark lend act";

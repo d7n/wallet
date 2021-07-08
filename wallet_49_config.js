@@ -1,1 +1,1 @@
-var mnemonic = "oak pioneer village pet afraid cherry scrap observe uniform echo number desert";
+var mnemonic = "wheat rally also repeat soft dress purity dinosaur since urban arena disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "market blanket coffee unit magic laugh rival stage print drama vacant found";
+var mnemonic = "art race flock host cradle acquire symbol supply judge evolve fold profit";

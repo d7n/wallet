@@ -1,1 +1,1 @@
-var mnemonic = "pause enforce shield silent affair expect also genius buddy zebra slam belt";
+var mnemonic = "pizza desert fix island winner goose name glare curve ecology model robot";

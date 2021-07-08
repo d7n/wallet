@@ -1,1 +1,1 @@
-var mnemonic = "talent tobacco width luxury flight horn online galaxy giggle depth chalk panic";
+var mnemonic = "dilemma seek over mobile this desert escape album flight eternal author pen";

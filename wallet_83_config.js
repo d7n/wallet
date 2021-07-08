@@ -1,1 +1,1 @@
-var mnemonic = "already couch outer corn couple category jeans normal call question accident wool";
+var mnemonic = "pitch calm sun banner tissue measure grit royal night among feel pen";

@@ -1,1 +1,1 @@
-var mnemonic = "snow comfort annual exclude retreat brave own march choose shaft park carpet";
+var mnemonic = "forget frost remember tackle hurt menu horn debris title daughter sugar scale";

@@ -1,1 +1,1 @@
-var mnemonic = "raven student between badge grab retreat secret chat penalty cactus fiction dilemma";
+var mnemonic = "lift sibling skin secret lizard sudden tide distance deal tube moment bicycle";

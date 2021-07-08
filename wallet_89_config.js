@@ -1,1 +1,1 @@
-var mnemonic = "coconut hover burst lecture either item increase punch student sea profit coach";
+var mnemonic = "lottery like youth tree time run short pizza stove current color item";

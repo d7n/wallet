@@ -1,1 +1,1 @@
-var mnemonic = "mountain foster excuse where village equal market physical flock letter forum father";
+var mnemonic = "grid stumble vast toward logic split swear zoo sugar load matrix danger";

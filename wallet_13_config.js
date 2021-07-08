@@ -1,1 +1,1 @@
-var mnemonic = "upgrade margin crumble combine calm annual farm scatter cable oblige this weapon";
+var mnemonic = "scissors scatter garbage cram debate moon obtain steak cake plate tank claw";

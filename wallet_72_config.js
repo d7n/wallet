@@ -1,1 +1,1 @@
-var mnemonic = "easy vacuum need cage lounge frame banner action point trend senior honey";
+var mnemonic = "october orange casino merry adult scene uniform century business bleak shove monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "gun stem strategy wealth melody culture injury canal thrive eight slight cost";
+var mnemonic = "sword perfect crouch agent swear cluster ecology pulse breeze buffalo skate market";

@@ -1,1 +1,1 @@
-var mnemonic = "engine rebuild beef antique library cruise faint elbow tourist neutral want female";
+var mnemonic = "frequent note abuse turtle alter joy option ugly oil harvest response lift";

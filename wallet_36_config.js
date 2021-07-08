@@ -1,1 +1,1 @@
-var mnemonic = "book enforce stairs corn nephew tell life slot catch exotic message million";
+var mnemonic = "prize worth exchange rent curtain license junior system curve aisle accuse length";

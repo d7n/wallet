@@ -1,1 +1,1 @@
-var mnemonic = "roof rent idea humble dream hill victory scheme couple early define nose";
+var mnemonic = "solar boss write topple smoke uncover fitness couple reveal child bitter best";

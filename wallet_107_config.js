@@ -1,1 +1,1 @@
-var mnemonic = "eye govern prefer inch survey arrest chase sand label box offer client";
+var mnemonic = "spring ticket rifle faint twist jeans tool dragon palm glue web high";

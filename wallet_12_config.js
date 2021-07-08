@@ -1,1 +1,1 @@
-var mnemonic = "become immune young office spike enforce mule student canyon tomato fluid solid";
+var mnemonic = "lazy february black shoulder artist media crisp egg replace avoid pet endless";

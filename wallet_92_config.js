@@ -1,1 +1,1 @@
-var mnemonic = "minute blind lake direct science bounce coin humble horror accuse evidence drop";
+var mnemonic = "sibling tool betray slam hover obey input royal series miss poverty cabin";

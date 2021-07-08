@@ -1,1 +1,1 @@
-var mnemonic = "traffic embody wink rival worth manual chest lock gather split hand dial";
+var mnemonic = "fatigue win fee october inner stick truth isolate sense ecology steel adapt";

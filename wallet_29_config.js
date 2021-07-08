@@ -1,1 +1,1 @@
-var mnemonic = "naive pulp twin mimic spider hedgehog surprise pill snow inform feel amateur";
+var mnemonic = "minimum cave crash hurry lens fashion shrimp cancel include dutch winter zone";

@@ -1,1 +1,1 @@
-var mnemonic = "limb pizza phrase reveal outside menu remember party picnic cute kite review";
+var mnemonic = "yellow attack electric carry document deliver opera ski fine faculty welcome page";

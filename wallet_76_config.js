@@ -1,1 +1,1 @@
-var mnemonic = "van town begin frozen ordinary bacon prize multiply zoo mule vehicle ring";
+var mnemonic = "price garbage wing matrix problem catch theme car jungle kidney flip hen";

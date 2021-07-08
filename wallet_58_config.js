@@ -1,1 +1,1 @@
-var mnemonic = "motor right scatter surprise hurt unique word layer account eternal total oppose";
+var mnemonic = "device add unhappy sock gate point surge crash royal embrace define ocean";

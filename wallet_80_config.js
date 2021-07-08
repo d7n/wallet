@@ -1,1 +1,1 @@
-var mnemonic = "fan screen approve major spoil waste spray affair limit pet wire derive";
+var mnemonic = "deal jacket state museum uncover increase another try capital genuine magic endless";

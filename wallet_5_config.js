@@ -1,1 +1,1 @@
-var mnemonic = "foot soda beef job pitch ethics fun nothing sunny borrow annual school";
+var mnemonic = "team reveal kitten clarify measure spin man airport balance envelope front sea";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp opinion moral lift blind shock forest unveil fiction chef prize obvious";
+var mnemonic = "cancel marriage sad squeeze oblige swallow dash gossip sunny horse shrimp report";

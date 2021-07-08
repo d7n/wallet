@@ -1,1 +1,1 @@
-var mnemonic = "update holiday absent combine little bag cat dust defense wear dash smile";
+var mnemonic = "above satisfy trigger buyer wolf menu must spike swear voice crystal prosper";

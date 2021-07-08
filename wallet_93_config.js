@@ -1,1 +1,1 @@
-var mnemonic = "aware clever tuna round cereal expire veteran flock belt solid welcome coach";
+var mnemonic = "situate clump behind feature spoon chase noise eight fatal wheat trip glow";

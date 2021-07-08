@@ -1,1 +1,1 @@
-var mnemonic = "armed park sadness truck employ example meat feel tide tube meat drink";
+var mnemonic = "whip weasel off valley sea fuel goose random game helmet dentist venue";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors frog slush captain gym tooth amateur renew few island belt pipe";
+var mnemonic = "bomb close indicate spring loyal wild response worry air gesture canal certain";

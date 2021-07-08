@@ -1,1 +1,1 @@
-var mnemonic = "cannon popular coral rude boil feed brisk make plate hint unable pledge";
+var mnemonic = "rally salad decorate fringe hub giant junior small jeans similar enrich upper";

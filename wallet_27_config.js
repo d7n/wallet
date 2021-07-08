@@ -1,1 +1,1 @@
-var mnemonic = "enlist razor very stock defense kit convince effort funny since wasp ceiling";
+var mnemonic = "design around barely call blanket screen toddler dry hold record safe ritual";

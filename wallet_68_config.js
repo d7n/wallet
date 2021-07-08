@@ -1,1 +1,1 @@
-var mnemonic = "misery move cruel used universe fork inspire digital engine anger come below";
+var mnemonic = "object clutch vault swarm antenna oven broccoli own stove pioneer convince today";

@@ -1,1 +1,1 @@
-var mnemonic = "quote say head pony magic possible panda region addict twin play anxiety";
+var mnemonic = "occur mean hazard token expire lecture siren sea sponsor lottery grocery assume";

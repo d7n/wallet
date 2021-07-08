@@ -1,1 +1,1 @@
-var mnemonic = "resource stage pumpkin blame silk erosion neither cotton vintage trial peasant argue";
+var mnemonic = "melt panic visit cash hint wealth crawl custom negative flock cute wait";

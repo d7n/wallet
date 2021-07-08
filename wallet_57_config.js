@@ -1,1 +1,1 @@
-var mnemonic = "skirt notable erupt scout orient unusual alone olympic museum tide dish weird";
+var mnemonic = "camera copy sad addict crystal kite always cram fitness focus fold panther";

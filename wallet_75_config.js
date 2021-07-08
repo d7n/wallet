@@ -1,1 +1,1 @@
-var mnemonic = "news tower flee flavor paper spatial vague response false year pass produce";
+var mnemonic = "animal rifle cactus ethics deer science river drop industry above lemon curious";

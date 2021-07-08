@@ -1,1 +1,1 @@
-var mnemonic = "faculty vague refuse summer idle oven pond future damage travel danger flag";
+var mnemonic = "believe tumble horn setup kidney identify wrap celery auto flower prevent become";

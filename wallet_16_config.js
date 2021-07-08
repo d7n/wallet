@@ -1,1 +1,1 @@
-var mnemonic = "among bracket fatal photo crisp trend secret shrug iron trick piece sort";
+var mnemonic = "glare aunt raccoon grain sunny light build ethics arena typical swing protect";

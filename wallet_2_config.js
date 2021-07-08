@@ -1,1 +1,1 @@
-var mnemonic = "midnight utility glance bargain stuff fringe absent chapter paper vibrant wisdom toward";
+var mnemonic = "pitch marble whale frown tourist practice vehicle walnut wash dragon engine calm";

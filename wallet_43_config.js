@@ -1,1 +1,1 @@
-var mnemonic = "chimney battle come clog clerk dog borrow letter midnight culture stuff tray";
+var mnemonic = "squirrel luggage scatter alpha order trip mean involve huge uncle noble wave";

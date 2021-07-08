@@ -1,1 +1,1 @@
-var mnemonic = "hole foot elevator bench spread extra scout chat slab hour safe shove";
+var mnemonic = "turtle swift amateur club rebuild effort cannon curve wink all tone just";

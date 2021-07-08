@@ -1,1 +1,1 @@
-var mnemonic = "occur protect hammer same better mask space raven match pyramid false narrow";
+var mnemonic = "actor park wash purchase there convince anger nation runway catalog oval radar";

@@ -1,1 +1,1 @@
-var mnemonic = "also garage river protect pelican extra prevent govern cinnamon kid wheat act";
+var mnemonic = "devote property dry scorpion shield smooth inch phone latin deliver swallow wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "rug oppose phone liar shoulder secret exit slab employ seat bacon city";
+var mnemonic = "lemon trial tree brief jungle runway orphan flavor lava orphan slam logic";

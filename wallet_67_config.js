@@ -1,1 +1,1 @@
-var mnemonic = "gather valve minor project robot knee fault profit aware someone defense runway";
+var mnemonic = "feed embrace kitchen cloud travel expose lab defense expand firm pudding depth";

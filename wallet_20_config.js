@@ -1,1 +1,1 @@
-var mnemonic = "orange nature shadow final relief approve crunch enrich burden usage still apology";
+var mnemonic = "village text spike enlist wagon vague snake firm coil size club slot";

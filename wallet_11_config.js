@@ -1,1 +1,1 @@
-var mnemonic = "catalog uniform before avocado delay damp wise interest dismiss toss depart iron";
+var mnemonic = "fiscal dose culture autumn float route violin magic jealous february modify topic";

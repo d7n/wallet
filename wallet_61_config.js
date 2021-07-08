@@ -1,1 +1,1 @@
-var mnemonic = "team option clap correct old ceiling home detect inject unit slot congress";
+var mnemonic = "lens exit rain gold install quantum exile ivory whip orbit misery milk";

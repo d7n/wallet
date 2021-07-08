@@ -1,1 +1,1 @@
-var mnemonic = "once omit medal skin paddle dutch awake will flat innocent vacuum imitate";
+var mnemonic = "safe hard wood mansion clown message loyal give drastic wonder bird install";

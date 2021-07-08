@@ -1,1 +1,1 @@
-var mnemonic = "width cricket weasel isolate life fade robot bridge squirrel cool item marriage";
+var mnemonic = "sure frozen energy carry mail laugh hill panther garden chunk ball proof";

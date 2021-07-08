@@ -1,1 +1,1 @@
-var mnemonic = "wage unusual manage cute elite romance have slush robot warfare grab select";
+var mnemonic = "enemy shield neglect vocal capable mind doctor police avoid example sure combine";

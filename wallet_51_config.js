@@ -1,1 +1,1 @@
-var mnemonic = "grace ship garment village swim buyer grape provide pulp ginger garden term";
+var mnemonic = "crumble steak exercise churn sample shiver ridge album news relief treat chief";

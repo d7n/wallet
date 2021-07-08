@@ -1,1 +1,1 @@
-var mnemonic = "exclude baby winter acoustic grace settle gas ship fantasy orient mean gasp";
+var mnemonic = "capital invite traffic monitor stock elevator recall confirm tragic merry example duty";

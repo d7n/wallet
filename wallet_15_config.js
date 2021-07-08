@@ -1,1 +1,1 @@
-var mnemonic = "shaft replace try wing phrase raw father muscle actress cause daughter mix";
+var mnemonic = "island forget core sibling lemon comic fade among they hard autumn summer";

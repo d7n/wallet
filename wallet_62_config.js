@@ -1,1 +1,1 @@
-var mnemonic = "poem dolphin follow vessel tumble forward resemble swap run wall mixture funny";
+var mnemonic = "right cage donate please rifle swallow prize holiday wedding foster pride shaft";

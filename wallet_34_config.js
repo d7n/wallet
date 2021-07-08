@@ -1,1 +1,1 @@
-var mnemonic = "struggle share pause idle speak forum dinosaur shadow exchange install cruise alert";
+var mnemonic = "alpha bag engine tackle virus invite expire august hire assault fabric grit";

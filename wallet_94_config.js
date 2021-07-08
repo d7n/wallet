@@ -1,1 +1,1 @@
-var mnemonic = "high margin caution disease grit tip slight rail ranch chief nothing turtle";
+var mnemonic = "soft spell tooth tenant visual teach mass stereo project daughter misery friend";

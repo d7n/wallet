@@ -1,1 +1,1 @@
-var mnemonic = "merry skull wood top raven hen tuition push punch electric enter reduce";
+var mnemonic = "fault inflict shove churn razor resemble jungle shadow clerk bronze render luxury";

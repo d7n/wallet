@@ -1,1 +1,1 @@
-var mnemonic = "oven robot roof slogan erosion satisfy good special popular same belt ozone";
+var mnemonic = "umbrella truth pear knee prefer quarter educate come grief chuckle sand live";

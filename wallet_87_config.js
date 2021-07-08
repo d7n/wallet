@@ -1,1 +1,1 @@
-var mnemonic = "unable vote organ ancient morning shaft napkin awesome gap engine welcome fox";
+var mnemonic = "chapter tobacco aisle snack oxygen seed wave action despair chronic measure pride";

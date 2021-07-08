@@ -1,1 +1,1 @@
-var mnemonic = "math bachelor sleep genre clerk daring cricket rate trash idea aisle total";
+var mnemonic = "bomb raw surface history live spell inherit other suspect gap target orbit";

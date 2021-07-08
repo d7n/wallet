@@ -1,1 +1,1 @@
-var mnemonic = "express morning salute voice wrestle duty all afraid cube dolphin property robot";
+var mnemonic = "apart grant history cute prefer item manage various review vehicle shiver galaxy";

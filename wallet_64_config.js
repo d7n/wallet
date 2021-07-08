@@ -1,1 +1,1 @@
-var mnemonic = "auto moral term rack trim vessel tragic evil cash become zebra canyon";
+var mnemonic = "dish fringe split swarm adjust foil skate jacket connect wonder industry brown";

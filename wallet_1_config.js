@@ -1,1 +1,1 @@
-var mnemonic = "wise three dizzy embrace beef aspect level ice outer slam farm project";
+var mnemonic = "supply nasty lobster wire august glare kick crew moral mouse arrange salute";

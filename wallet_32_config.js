@@ -1,1 +1,1 @@
-var mnemonic = "source normal thumb amused beef venture spare tattoo jaguar depart critic always";
+var mnemonic = "catch water hand month exercise regular canvas divert draw detect craft kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "broom awkward elder reflect jazz evolve ten split often brain bind unfair";
+var mnemonic = "legend aunt girl soul trap crime decide primary absent place praise venture";

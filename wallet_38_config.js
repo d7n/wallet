@@ -1,1 +1,1 @@
-var mnemonic = "bean universe various actual strategy biology length clump minimum voyage sauce scene";
+var mnemonic = "nothing drink below index renew screen inner oblige expect slam bleak print";

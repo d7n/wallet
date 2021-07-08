@@ -1,1 +1,1 @@
-var mnemonic = "story exclude nephew elephant like become mixture security pave myth lift veteran";
+var mnemonic = "avocado away slender very sock seat cute fold appear hollow notable palace";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy exhaust tiger all clump census news smart piece elephant swear silent";
+var mnemonic = "dwarf gesture lunar fringe siren vault pond survey eight hover depth faith";

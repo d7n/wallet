@@ -1,1 +1,1 @@
-var mnemonic = "wave despair scrap visa predict cash metal legend hurry problem acid add";
+var mnemonic = "settle gym bracket business clog flash base film elder master color saddle";

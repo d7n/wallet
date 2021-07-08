@@ -1,1 +1,1 @@
-var mnemonic = "drift plunge fine segment fog limit hamster shallow into before gossip easily";
+var mnemonic = "spring cotton lobster tennis setup sausage advice group shrug fiction stone silver";

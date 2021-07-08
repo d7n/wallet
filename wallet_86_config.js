@@ -1,1 +1,1 @@
-var mnemonic = "volcano loan true ten during rent since double enable gauge accident piece";
+var mnemonic = "already sleep must thrive accuse jump cheap point raw bounce desert clap";

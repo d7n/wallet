@@ -1,1 +1,1 @@
-var mnemonic = "position until holiday alien barrel tennis clutch open office test glue thumb";
+var mnemonic = "excess meadow coil elbow during armor pony layer oxygen upper sock cupboard";

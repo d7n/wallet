@@ -1,1 +1,1 @@
-var mnemonic = "knee soon orchard liquid world benefit area beauty couch sunny okay nasty";
+var mnemonic = "remain cargo version notable flash peace obscure select vague edit shine forget";

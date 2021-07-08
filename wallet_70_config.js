@@ -1,1 +1,1 @@
-var mnemonic = "envelope symptom grab catalog around pond gossip shed alley police tribe knife";
+var mnemonic = "load draw permit add menu six arm jump live rule country demand";

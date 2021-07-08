@@ -1,1 +1,1 @@
-var mnemonic = "mistake slim explain gossip now mask side pond december romance awful scatter";
+var mnemonic = "accuse screen wedding buffalo lunch east enhance cheap spirit blade narrow snake";

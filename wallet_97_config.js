@@ -1,1 +1,1 @@
-var mnemonic = "lock marble canvas much manual science valve hole mosquito absent guitar cart";
+var mnemonic = "reason solve pilot domain chief equip split float wink hub swallow color";

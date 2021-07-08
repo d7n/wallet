@@ -1,1 +1,1 @@
-var mnemonic = "hammer sleep evil update identify ginger wheat step jealous chronic bamboo track";
+var mnemonic = "dog label stomach distance pilot flip desert pen year helmet neither explain";

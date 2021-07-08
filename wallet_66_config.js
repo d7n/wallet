@@ -1,1 +1,1 @@
-var mnemonic = "license piano hollow size biology aware unfair ready duck cigar siren cereal";
+var mnemonic = "steel ostrich crime machine banner rail baby maze certain whale evil direct";

@@ -1,1 +1,1 @@
-var mnemonic = "company join someone strategy problem era crush wall bind method dance rely";
+var mnemonic = "library choice bachelor abandon visa manage dial own clerk control trouble police";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue eager globe satoshi document top name hover dynamic audit skull olive";
+var mnemonic = "satoshi before pepper issue hunt opinion toilet ask carry pattern legend meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "raven vessel smoke unit donor color else silver response sheriff output spread";
+var mnemonic = "movie age estate police angle lunar turn disagree wife soccer quality plunge";

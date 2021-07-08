@@ -1,1 +1,1 @@
-var mnemonic = "icon junior expire edge inner novel brief useful clump wheel digital dutch";
+var mnemonic = "drink wrap talk future bounce pass pulp craft useless inhale marble brother";

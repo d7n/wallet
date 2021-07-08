@@ -1,1 +1,1 @@
-var mnemonic = "assist caution course emotion pull mosquito brass owner pink mimic pottery health";
+var mnemonic = "access wing bracket loud assume again summer clog curtain lock next inspire";
