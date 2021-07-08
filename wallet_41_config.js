@@ -1,1 +1,1 @@
-var mnemonic = "remain cargo version notable flash peace obscure select vague edit shine forget";
+var mnemonic = "van mom bottom grunt gauge episode case slab ecology original october nominee";

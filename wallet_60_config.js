@@ -1,1 +1,1 @@
-var mnemonic = "party great toddler rapid shallow pool video love predict happy myself average";
+var mnemonic = "possible noble also people lawn supreme venture copper embrace expire fit torch";

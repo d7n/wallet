@@ -1,1 +1,1 @@
-var mnemonic = "supply nasty lobster wire august glare kick crew moral mouse arrange salute";
+var mnemonic = "pupil satisfy attend duty sudden trust century city energy follow clump collect";

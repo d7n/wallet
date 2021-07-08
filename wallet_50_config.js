@@ -1,1 +1,1 @@
-var mnemonic = "claim people traffic exercise two ridge fun female oyster rural tide wait";
+var mnemonic = "excess perfect better chef problem injury gown distance ball warfare firm struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "village text spike enlist wagon vague snake firm coil size club slot";
+var mnemonic = "stove result option comic hood dolphin tooth casual until cake inside sibling";

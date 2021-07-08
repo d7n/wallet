@@ -1,1 +1,1 @@
-var mnemonic = "sure frozen energy carry mail laugh hill panther garden chunk ball proof";
+var mnemonic = "double elevator jewel wish only neck kitchen border any trial fancy frozen";

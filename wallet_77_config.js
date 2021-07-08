@@ -1,1 +1,1 @@
-var mnemonic = "fault inflict shove churn razor resemble jungle shadow clerk bronze render luxury";
+var mnemonic = "below fever enlist drink embody exile company leave pride memory animal table";

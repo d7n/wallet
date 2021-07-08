@@ -1,1 +1,1 @@
-var mnemonic = "melt panic visit cash hint wealth crawl custom negative flock cute wait";
+var mnemonic = "sun hint ramp put cupboard trip type alien city marine people fog";

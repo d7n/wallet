@@ -1,1 +1,1 @@
-var mnemonic = "bomb raw surface history live spell inherit other suspect gap target orbit";
+var mnemonic = "verify distance lonely firm ranch potato cradle focus half spatial average run";

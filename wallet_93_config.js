@@ -1,1 +1,1 @@
-var mnemonic = "situate clump behind feature spoon chase noise eight fatal wheat trip glow";
+var mnemonic = "brand garment fancy blossom web become filter cool remember slab yard neither";

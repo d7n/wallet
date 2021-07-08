@@ -1,1 +1,1 @@
-var mnemonic = "soft spell tooth tenant visual teach mass stereo project daughter misery friend";
+var mnemonic = "galaxy ice donate solar lunch maze gold great error brass neglect divide";

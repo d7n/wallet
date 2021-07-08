@@ -1,1 +1,1 @@
-var mnemonic = "cup grape finger chalk ceiling rule erase gadget despair bunker load grab";
+var mnemonic = "auction total seminar badge fat version dirt can average skull beach silk";

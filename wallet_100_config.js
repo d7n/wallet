@@ -1,1 +1,1 @@
-var mnemonic = "hurdle demise option disorder digital goddess dilemma melody wasp gas frog canvas";
+var mnemonic = "initial balcony wool vocal extend monitor fever jar night scout unlock soap";

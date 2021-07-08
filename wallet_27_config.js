@@ -1,1 +1,1 @@
-var mnemonic = "design around barely call blanket screen toddler dry hold record safe ritual";
+var mnemonic = "rice slice soul remove kiss crystal oblige auction cabin prize danger list";

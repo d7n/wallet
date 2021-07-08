@@ -1,1 +1,1 @@
-var mnemonic = "right curtain fix veteran dog cream find brave lens episode helmet rule";
+var mnemonic = "vague tuna case object parent famous common embrace impulse gorilla must divorce";

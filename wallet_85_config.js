@@ -1,1 +1,1 @@
-var mnemonic = "sword perfect crouch agent swear cluster ecology pulse breeze buffalo skate market";
+var mnemonic = "energy train bird sight inherit ghost flag base sorry jar gap mystery";

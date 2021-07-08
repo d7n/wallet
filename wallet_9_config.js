@@ -1,1 +1,1 @@
-var mnemonic = "yellow attack electric carry document deliver opera ski fine faculty welcome page";
+var mnemonic = "blanket cause annual mask lunch gun stairs wool behave sister skirt push";

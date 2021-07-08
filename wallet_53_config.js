@@ -1,1 +1,1 @@
-var mnemonic = "pizza desert fix island winner goose name glare curve ecology model robot";
+var mnemonic = "canoe private response rebel scrub shift occur library glance scatter airport room";

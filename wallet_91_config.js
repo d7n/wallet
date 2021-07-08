@@ -1,1 +1,1 @@
-var mnemonic = "fall sphere carry retire fame swing lawsuit act credit issue switch erase";
+var mnemonic = "casual gauge artefact dice concert actual laugh chef rabbit banner despair salon";

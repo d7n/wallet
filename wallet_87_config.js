@@ -1,1 +1,1 @@
-var mnemonic = "chapter tobacco aisle snack oxygen seed wave action despair chronic measure pride";
+var mnemonic = "syrup enjoy cabbage disagree attack world cheese receive move expect benefit visit";

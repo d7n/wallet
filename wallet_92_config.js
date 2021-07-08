@@ -1,1 +1,1 @@
-var mnemonic = "sibling tool betray slam hover obey input royal series miss poverty cabin";
+var mnemonic = "try nose naive uncle keep judge solve chef unfold luggage depth type";

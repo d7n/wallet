@@ -1,1 +1,1 @@
-var mnemonic = "dog label stomach distance pilot flip desert pen year helmet neither explain";
+var mnemonic = "bamboo donor salmon drama force cliff section session indoor jewel farm alcohol";

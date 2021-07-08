@@ -1,1 +1,1 @@
-var mnemonic = "umbrella truth pear knee prefer quarter educate come grief chuckle sand live";
+var mnemonic = "narrow caught urge custom rapid sing tube health hobby current art blossom";

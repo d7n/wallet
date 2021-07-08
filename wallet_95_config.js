@@ -1,1 +1,1 @@
-var mnemonic = "settle gym bracket business clog flash base film elder master color saddle";
+var mnemonic = "fitness vote bless final knife fun alarm kingdom vendor stove cat betray";

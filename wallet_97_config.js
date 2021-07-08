@@ -1,1 +1,1 @@
-var mnemonic = "reason solve pilot domain chief equip split float wink hub swallow color";
+var mnemonic = "liquid cash aim trumpet wasp under nut food crunch quit tunnel father";

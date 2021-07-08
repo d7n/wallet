@@ -1,1 +1,1 @@
-var mnemonic = "just message unusual fish okay cost bracket mercy crew tag purchase use";
+var mnemonic = "attract injury bonus piece edit risk stem vessel trophy retire cancel toy";

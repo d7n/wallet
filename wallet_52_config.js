@@ -1,1 +1,1 @@
-var mnemonic = "above satisfy trigger buyer wolf menu must spike swear voice crystal prosper";
+var mnemonic = "patch leg scatter climb trumpet margin nominee either turkey eagle desk garment";

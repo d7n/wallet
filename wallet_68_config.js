@@ -1,1 +1,1 @@
-var mnemonic = "object clutch vault swarm antenna oven broccoli own stove pioneer convince today";
+var mnemonic = "industry family artwork joke travel slight high wedding hood leg hunt medal";

@@ -1,1 +1,1 @@
-var mnemonic = "library choice bachelor abandon visa manage dial own clerk control trouble police";
+var mnemonic = "stage opera recall neither cook proud voice person outer entire brass ignore";

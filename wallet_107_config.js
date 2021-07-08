@@ -1,1 +1,1 @@
-var mnemonic = "spring ticket rifle faint twist jeans tool dragon palm glue web high";
+var mnemonic = "umbrella skate snack buddy bike combine pony across brave view priority goose";

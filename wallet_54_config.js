@@ -1,1 +1,1 @@
-var mnemonic = "fatigue win fee october inner stick truth isolate sense ecology steel adapt";
+var mnemonic = "urge episode chuckle vacuum conduct pink eternal tunnel poem switch slim arrow";

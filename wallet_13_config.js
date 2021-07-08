@@ -1,1 +1,1 @@
-var mnemonic = "scissors scatter garbage cram debate moon obtain steak cake plate tank claw";
+var mnemonic = "pet sustain pumpkin danger world number spirit pepper amount zero exchange expire";

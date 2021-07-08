@@ -1,1 +1,1 @@
-var mnemonic = "occur mean hazard token expire lecture siren sea sponsor lottery grocery assume";
+var mnemonic = "vault mushroom boring dilemma myself claw seat feature drum parent attract scare";

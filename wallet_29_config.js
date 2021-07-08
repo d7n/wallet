@@ -1,1 +1,1 @@
-var mnemonic = "minimum cave crash hurry lens fashion shrimp cancel include dutch winter zone";
+var mnemonic = "fever lumber car boy hobby scene slice knock pilot narrow spell someone";

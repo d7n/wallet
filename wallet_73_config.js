@@ -1,1 +1,1 @@
-var mnemonic = "raven reflect helmet era tell goose act add away allow clerk soul";
+var mnemonic = "innocent leave toilet decorate secret tone someone nothing always walk cactus van";

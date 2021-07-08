@@ -1,1 +1,1 @@
-var mnemonic = "rally salad decorate fringe hub giant junior small jeans similar enrich upper";
+var mnemonic = "multiply spawn ice gesture better high zero huge trash shrimp alley trigger";

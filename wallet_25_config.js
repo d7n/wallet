@@ -1,1 +1,1 @@
-var mnemonic = "ritual certain process mesh improve whisper tooth aerobic olive wave effort must";
+var mnemonic = "detect spring arm receive dragon dance lumber release sugar exhibit face fiscal";

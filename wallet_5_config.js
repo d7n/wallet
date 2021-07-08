@@ -1,1 +1,1 @@
-var mnemonic = "team reveal kitten clarify measure spin man airport balance envelope front sea";
+var mnemonic = "loop twin bean goose marble inform cool festival smoke culture shoot review";

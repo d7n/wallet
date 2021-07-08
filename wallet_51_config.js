@@ -1,1 +1,1 @@
-var mnemonic = "crumble steak exercise churn sample shiver ridge album news relief treat chief";
+var mnemonic = "firm bean kitchen property volume weasel coach addict custom indicate pilot alien";

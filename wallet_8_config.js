@@ -1,1 +1,1 @@
-var mnemonic = "unveil stadium hollow scout food sudden leisure kiss west frost tenant kitten";
+var mnemonic = "scene sunny mail jazz help cradle attitude purse wash tattoo rough number";

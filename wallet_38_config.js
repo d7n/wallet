@@ -1,1 +1,1 @@
-var mnemonic = "nothing drink below index renew screen inner oblige expect slam bleak print";
+var mnemonic = "glimpse course arena post soon unable setup close parrot rural hollow flag";

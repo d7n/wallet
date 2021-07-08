@@ -1,1 +1,1 @@
-var mnemonic = "already sleep must thrive accuse jump cheap point raw bounce desert clap";
+var mnemonic = "learn mention release clever board magic wagon author skate into bomb acid";

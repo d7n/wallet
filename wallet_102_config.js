@@ -1,1 +1,1 @@
-var mnemonic = "dwarf gesture lunar fringe siren vault pond survey eight hover depth faith";
+var mnemonic = "write divert danger twenty uncle bar sunny accuse mixture simple accuse donkey";

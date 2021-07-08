@@ -1,1 +1,1 @@
-var mnemonic = "wheat rally also repeat soft dress purity dinosaur since urban arena disagree";
+var mnemonic = "usage negative second reflect word theory metal pride rival hip when reveal";

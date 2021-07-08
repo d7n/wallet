@@ -1,1 +1,1 @@
-var mnemonic = "october orange casino merry adult scene uniform century business bleak shove monitor";
+var mnemonic = "catalog egg arrive exercise fiscal chuckle urban need much chicken ride worth";

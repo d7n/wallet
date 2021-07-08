@@ -1,1 +1,1 @@
-var mnemonic = "pitch marble whale frown tourist practice vehicle walnut wash dragon engine calm";
+var mnemonic = "bunker proud fix pudding select powder female oval govern mansion advance anxiety";

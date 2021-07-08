@@ -1,1 +1,1 @@
-var mnemonic = "animal rifle cactus ethics deer science river drop industry above lemon curious";
+var mnemonic = "chuckle tunnel replace era boil junior yellow river foam job bronze glow";

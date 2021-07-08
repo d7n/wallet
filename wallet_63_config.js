@@ -1,1 +1,1 @@
-var mnemonic = "apart grant history cute prefer item manage various review vehicle shiver galaxy";
+var mnemonic = "lift six movie winner magnet atom laundry yellow deposit ankle vendor camp";

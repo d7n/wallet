@@ -1,1 +1,1 @@
-var mnemonic = "lift sibling skin secret lizard sudden tide distance deal tube moment bicycle";
+var mnemonic = "gas donate grief law border leave inch indoor segment burger agree strategy";

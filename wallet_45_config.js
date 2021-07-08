@@ -1,1 +1,1 @@
-var mnemonic = "belt miss sustain survey wrap click note digital rifle broken swamp useless";
+var mnemonic = "reflect bus grace tent hope gas riot then drive fortune bachelor honey";

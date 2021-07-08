@@ -1,1 +1,1 @@
-var mnemonic = "lottery like youth tree time run short pizza stove current color item";
+var mnemonic = "faculty nothing senior trip base skirt denial pass coach search galaxy jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor left ladder yard topple spawn portion slab pencil travel high tube";
+var mnemonic = "prosper hundred furnace trash token error purse panda badge top brown cinnamon";

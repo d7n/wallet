@@ -1,1 +1,1 @@
-var mnemonic = "enemy shield neglect vocal capable mind doctor police avoid example sure combine";
+var mnemonic = "soon fancy jaguar consider know crew squeeze copper climb cherry never stairs";

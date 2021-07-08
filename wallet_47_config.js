@@ -1,1 +1,1 @@
-var mnemonic = "whip weasel off valley sea fuel goose random game helmet dentist venue";
+var mnemonic = "vocal brother digital exercise regular theme among lumber caught express twin toss";

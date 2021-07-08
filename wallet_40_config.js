@@ -1,1 +1,1 @@
-var mnemonic = "tower ticket orient that gasp acquire wise settle fire sadness push equal";
+var mnemonic = "voice anchor basket east genre divert adjust all trouble solution affair refuse";

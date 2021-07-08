@@ -1,1 +1,1 @@
-var mnemonic = "capital invite traffic monitor stock elevator recall confirm tragic merry example duty";
+var mnemonic = "trap badge job bamboo illegal ridge vacuum rural relax tree holiday neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "actor park wash purchase there convince anger nation runway catalog oval radar";
+var mnemonic = "march subject boy lyrics hard ship surround toe journey robust grant pride";

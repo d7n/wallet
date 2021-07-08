@@ -1,1 +1,1 @@
-var mnemonic = "believe tumble horn setup kidney identify wrap celery auto flower prevent become";
+var mnemonic = "illness rain mass season extend army connect cross arrest upon deputy merit";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent note abuse turtle alter joy option ugly oil harvest response lift";
+var mnemonic = "dish master umbrella raccoon zoo pulp please blame piece wire alien base";

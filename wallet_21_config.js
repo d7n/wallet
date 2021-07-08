@@ -1,1 +1,1 @@
-var mnemonic = "legend aunt girl soul trap crime decide primary absent place praise venture";
+var mnemonic = "congress carry field alley faculty oven chimney pear discover mirror harvest floor";

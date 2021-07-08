@@ -1,1 +1,1 @@
-var mnemonic = "flip can gun network unveil erase bicycle fork palace violin inch render";
+var mnemonic = "uncle twice about surround flag trade afford assault media basket good fatal";

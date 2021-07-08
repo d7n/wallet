@@ -1,1 +1,1 @@
-var mnemonic = "lazy february black shoulder artist media crisp egg replace avoid pet endless";
+var mnemonic = "book boy verify pony fade endless cry eye manage quit about alien";

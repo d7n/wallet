@@ -1,1 +1,1 @@
-var mnemonic = "true moral finger lunar derive skull segment critic hover crush buzz initial";
+var mnemonic = "water climb aerobic drip say impact friend butter gift mistake dial emerge";

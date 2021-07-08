@@ -1,1 +1,1 @@
-var mnemonic = "glare aunt raccoon grain sunny light build ethics arena typical swing protect";
+var mnemonic = "example twelve pen suit coyote spring skirt broken casino slice exist below";

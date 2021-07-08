@@ -1,1 +1,1 @@
-var mnemonic = "grid stumble vast toward logic split swear zoo sugar load matrix danger";
+var mnemonic = "spot scan purpose demise stove icon never glove author assume arrest scrub";

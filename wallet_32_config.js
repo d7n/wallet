@@ -1,1 +1,1 @@
-var mnemonic = "catch water hand month exercise regular canvas divert draw detect craft kitten";
+var mnemonic = "head hold toss patrol banana language hospital provide conduct filter snap sort";

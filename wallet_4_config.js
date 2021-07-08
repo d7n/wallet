@@ -1,1 +1,1 @@
-var mnemonic = "valley negative unaware wild follow edge absurd minimum federal embark lend act";
+var mnemonic = "punch that mixture walnut pepper tissue raccoon lion mutual borrow sheriff balcony";

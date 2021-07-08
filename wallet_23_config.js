@@ -1,1 +1,1 @@
-var mnemonic = "drink wrap talk future bounce pass pulp craft useless inhale marble brother";
+var mnemonic = "hollow busy praise outdoor pulp avocado shock arrest eagle loud remember drink";

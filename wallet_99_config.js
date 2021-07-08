@@ -1,1 +1,1 @@
-var mnemonic = "lock unknown sock air once garage shove visit sibling nest scorpion hazard";
+var mnemonic = "stem dentist alpha teach crumble gorilla hard forest loan lobster ordinary clever";

@@ -1,1 +1,1 @@
-var mnemonic = "lens exit rain gold install quantum exile ivory whip orbit misery milk";
+var mnemonic = "album exotic rather october jewel legend actual gas win two settle attitude";

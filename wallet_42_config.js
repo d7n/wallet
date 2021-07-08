@@ -1,1 +1,1 @@
-var mnemonic = "devote property dry scorpion shield smooth inch phone latin deliver swallow wreck";
+var mnemonic = "radar sentence jazz frequent rug powder noble thrive blood neutral clever version";

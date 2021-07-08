@@ -1,1 +1,1 @@
-var mnemonic = "fiscal dose culture autumn float route violin magic jealous february modify topic";
+var mnemonic = "hub test laugh curve rather dance bacon toast throw blame hobby icon";

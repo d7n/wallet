@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo garbage valve actor boost provide salmon keen liar matrix jungle bulb";
+var mnemonic = "indoor side anchor retreat best list correct define burden shoulder rude industry";

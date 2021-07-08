@@ -1,1 +1,1 @@
-var mnemonic = "soon place unique bicycle guitar napkin recall oxygen fury maximum exhibit dinosaur";
+var mnemonic = "bench limb kitten service catalog grab toy load rack gadget flee cycle";

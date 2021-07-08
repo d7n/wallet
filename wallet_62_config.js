@@ -1,1 +1,1 @@
-var mnemonic = "right cage donate please rifle swallow prize holiday wedding foster pride shaft";
+var mnemonic = "acquire alter fish allow fence mutual script easy burst night blouse basket";

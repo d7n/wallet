@@ -1,1 +1,1 @@
-var mnemonic = "forget frost remember tackle hurt menu horn debris title daughter sugar scale";
+var mnemonic = "runway monkey dad myth cliff virus grunt spin skirt picnic index merge";

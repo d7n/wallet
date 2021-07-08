@@ -1,1 +1,1 @@
-var mnemonic = "load draw permit add menu six arm jump live rule country demand";
+var mnemonic = "object hybrid spy can denial early until uncle elephant august material air";

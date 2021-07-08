@@ -1,1 +1,1 @@
-var mnemonic = "accuse screen wedding buffalo lunch east enhance cheap spirit blade narrow snake";
+var mnemonic = "fresh athlete people silent monster pizza fashion toward expand taste clap hunt";

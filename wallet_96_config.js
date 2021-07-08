@@ -1,1 +1,1 @@
-var mnemonic = "excess meadow coil elbow during armor pony layer oxygen upper sock cupboard";
+var mnemonic = "begin obvious enrich rigid syrup stairs because ladder public toward crowd harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle swift amateur club rebuild effort cannon curve wink all tone just";
+var mnemonic = "copper please escape ecology snake south memory joy shop assume brother often";

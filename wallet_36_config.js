@@ -1,1 +1,1 @@
-var mnemonic = "prize worth exchange rent curtain license junior system curve aisle accuse length";
+var mnemonic = "acquire member argue fog flash weather pilot front tumble hurry topple one";

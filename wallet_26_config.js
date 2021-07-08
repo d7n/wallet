@@ -1,1 +1,1 @@
-var mnemonic = "doll oval unfold dumb ticket undo ready all bone argue autumn tide";
+var mnemonic = "attract hidden will vendor decline forward oblige asset celery august doctor bridge";

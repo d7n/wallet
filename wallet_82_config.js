@@ -1,1 +1,1 @@
-var mnemonic = "bomb close indicate spring loyal wild response worry air gesture canal certain";
+var mnemonic = "history loud ozone shift swap extend near vault now waste between refuse";

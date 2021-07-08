@@ -1,1 +1,1 @@
-var mnemonic = "steel ostrich crime machine banner rail baby maze certain whale evil direct";
+var mnemonic = "tattoo destroy mandate immense abandon spawn judge fragile rack come trade december";

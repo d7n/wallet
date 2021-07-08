@@ -1,1 +1,1 @@
-var mnemonic = "feed embrace kitchen cloud travel expose lab defense expand firm pudding depth";
+var mnemonic = "fashion bus moment comic december auto duck fitness blush hollow point torch";

@@ -1,1 +1,1 @@
-var mnemonic = "bird waste into torch soul utility friend result someone invest assume orient";
+var mnemonic = "shoot raven silk useless want eagle laptop eagle torch soul pistol render";

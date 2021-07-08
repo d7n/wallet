@@ -1,1 +1,1 @@
-var mnemonic = "lemon trial tree brief jungle runway orphan flavor lava orphan slam logic";
+var mnemonic = "seat mansion great fragile lottery surface ugly knock another reform chicken decline";

@@ -1,1 +1,1 @@
-var mnemonic = "camera copy sad addict crystal kite always cram fitness focus fold panther";
+var mnemonic = "glimpse core window buzz noise state allow heavy position blame trap oven";

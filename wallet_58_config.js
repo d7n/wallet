@@ -1,1 +1,1 @@
-var mnemonic = "device add unhappy sock gate point surge crash royal embrace define ocean";
+var mnemonic = "random true car blade coffee nature biology cash pilot vague fine debate";

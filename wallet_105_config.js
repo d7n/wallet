@@ -1,1 +1,1 @@
-var mnemonic = "solar boss write topple smoke uncover fitness couple reveal child bitter best";
+var mnemonic = "link feel knock clarify tube unknown friend you tell task draft wisdom";

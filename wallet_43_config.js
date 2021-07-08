@@ -1,1 +1,1 @@
-var mnemonic = "squirrel luggage scatter alpha order trip mean involve huge uncle noble wave";
+var mnemonic = "pencil amateur stone cover letter blouse jump mail pill income million license";

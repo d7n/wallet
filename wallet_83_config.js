@@ -1,1 +1,1 @@
-var mnemonic = "pitch calm sun banner tissue measure grit royal night among feel pen";
+var mnemonic = "wealth boring sleep people toddler know city reject album anxiety young sun";

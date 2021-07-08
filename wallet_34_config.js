@@ -1,1 +1,1 @@
-var mnemonic = "alpha bag engine tackle virus invite expire august hire assault fabric grit";
+var mnemonic = "labor chimney cross still regular share lemon family rule flat point goddess";

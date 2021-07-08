@@ -1,1 +1,1 @@
-var mnemonic = "dish fringe split swarm adjust foil skate jacket connect wonder industry brown";
+var mnemonic = "mesh baby fluid assume casual thunder accuse obtain veteran lesson very gift";

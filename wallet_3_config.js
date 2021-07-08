@@ -1,1 +1,1 @@
-var mnemonic = "access wing bracket loud assume again summer clog curtain lock next inspire";
+var mnemonic = "below budget loop head guide raise total impulse salute lock alien file";
