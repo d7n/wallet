@@ -1,1 +1,1 @@
-var mnemonic = "innocent breeze tank donor dove tell second dish spatial wrestle catch obey";
+var mnemonic = "gentle add aware mixed excuse pipe rough stage pride shop path endorse";

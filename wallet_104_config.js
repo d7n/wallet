@@ -1,1 +1,1 @@
-var mnemonic = "innocent mistake spider casual mutual leaf radar tissue license myself hold jar";
+var mnemonic = "trash dish unlock prevent morning valid grain doll swim zebra mention sausage";

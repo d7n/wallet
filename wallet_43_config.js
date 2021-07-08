@@ -1,1 +1,1 @@
-var mnemonic = "title bullet double multiply quantum rack misery debris pole daughter enhance essence";
+var mnemonic = "orphan pluck equal firm window captain nasty fetch clock smooth napkin update";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist bag spice wolf depth wrestle ocean absorb husband birth drama advance";
+var mnemonic = "baby merry lounge charge color nothing rule another trumpet panda hawk spider";

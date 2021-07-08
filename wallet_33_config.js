@@ -1,1 +1,1 @@
-var mnemonic = "hover kiss melody assume seek fiction endless sphere orbit drop slow afford";
+var mnemonic = "few village power wink hospital ivory leaf runway often tired gasp luxury";

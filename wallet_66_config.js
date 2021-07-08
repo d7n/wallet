@@ -1,1 +1,1 @@
-var mnemonic = "vague despair scorpion angle hotel lift side kick ankle recall believe kid";
+var mnemonic = "struggle guess effort aim spring cash spell portion marble genius slab law";

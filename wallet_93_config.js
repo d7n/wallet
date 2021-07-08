@@ -1,1 +1,1 @@
-var mnemonic = "coach monitor distance turtle adult invest worry scrub tooth shiver pyramid review";
+var mnemonic = "table churn maid settle purity cradle photo clown phone index diamond wink";

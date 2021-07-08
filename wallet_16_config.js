@@ -1,1 +1,1 @@
-var mnemonic = "payment version tray annual diet drink velvet powder walnut village alarm tower";
+var mnemonic = "toast view solution romance episode define labor list divide render creek monster";

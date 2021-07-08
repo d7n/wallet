@@ -1,1 +1,1 @@
-var mnemonic = "purse rug cloud fashion another party burden solve length tone weapon useful";
+var mnemonic = "garment donkey park swift member chest struggle hard assist envelope december wear";

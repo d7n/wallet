@@ -1,1 +1,1 @@
-var mnemonic = "excess come spoil fade risk laptop airport opera ostrich you frequent useless";
+var mnemonic = "middle goddess evidence enjoy kit envelope length spare observe various firm one";

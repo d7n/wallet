@@ -1,1 +1,1 @@
-var mnemonic = "jazz fame among dose fever patient apology kidney medal recall run dry";
+var mnemonic = "tank wasp six update expect kiwi aunt easy salmon tattoo floor skull";

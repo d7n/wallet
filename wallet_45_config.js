@@ -1,1 +1,1 @@
-var mnemonic = "indoor armed grass spawn sustain wealth lonely lunch mimic erosion search royal";
+var mnemonic = "appear angry south type lady settle coffee author pair defy gap agent";

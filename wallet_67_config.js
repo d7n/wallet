@@ -1,1 +1,1 @@
-var mnemonic = "viable decorate great aerobic quiz love guitar like fold sleep butter bitter";
+var mnemonic = "rain fork envelope grit betray piano banana box fat cause reject essay";

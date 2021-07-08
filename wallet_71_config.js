@@ -1,1 +1,1 @@
-var mnemonic = "shrug private obvious vast stuff parent fix hungry dose elder erode void";
+var mnemonic = "beyond define today spoil foster piano capital oblige spray trip season recall";

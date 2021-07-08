@@ -1,1 +1,1 @@
-var mnemonic = "boy frame mind ordinary volume weasel garden capable silent tip tag neither";
+var mnemonic = "success sunset unit book gain spawn worth danger start sustain gloom nerve";

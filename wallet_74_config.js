@@ -1,1 +1,1 @@
-var mnemonic = "anchor click afraid link come retire divide boat broccoli void ship federal";
+var mnemonic = "snake audit prepare earth pattern awesome welcome spike paddle pattern legal car";

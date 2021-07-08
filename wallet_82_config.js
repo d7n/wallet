@@ -1,1 +1,1 @@
-var mnemonic = "cluster mixed evolve prefer voyage praise loop material sleep burst loud dove";
+var mnemonic = "appear used injury ivory opinion order student cabbage clutch exact once sweet";

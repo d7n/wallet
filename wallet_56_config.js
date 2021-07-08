@@ -1,1 +1,1 @@
-var mnemonic = "position current knock trend plate ridge noodle mask twenty season find slice";
+var mnemonic = "talk merge hub twenty garden cousin document foam inmate rough inspire mixture";

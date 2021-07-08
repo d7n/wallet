@@ -1,1 +1,1 @@
-var mnemonic = "crunch valid awkward junk steel advice hurry top tissue limit ride subject";
+var mnemonic = "account essence vehicle you very humble sign design unit pipe crack hole";

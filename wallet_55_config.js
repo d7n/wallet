@@ -1,1 +1,1 @@
-var mnemonic = "chicken amount sentence discover vast obey useless lab print believe end depend";
+var mnemonic = "tortoise frozen photo chapter cruel brain mom camp virtual entry critic police";

@@ -1,1 +1,1 @@
-var mnemonic = "height stable shoot tool owner wife ginger hurdle weather swim enjoy shuffle";
+var mnemonic = "muffin turkey clap require canoe near actual blind vote pigeon flee venue";

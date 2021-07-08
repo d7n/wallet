@@ -1,1 +1,1 @@
-var mnemonic = "popular slab seek accuse issue weapon shine upset squeeze angle smooth host";
+var mnemonic = "deputy fiction split water super daring clever rookie hammer orbit angry yellow";

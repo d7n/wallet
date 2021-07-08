@@ -1,1 +1,1 @@
-var mnemonic = "damp donkey impact axis bamboo century top company vacuum budget symbol pride";
+var mnemonic = "space predict hockey play never message satoshi excuse duck tennis exhibit embody";

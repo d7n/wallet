@@ -1,1 +1,1 @@
-var mnemonic = "prepare reform honey inmate switch chalk special pill section taxi panel flock";
+var mnemonic = "net slender clutch push excuse hood eye over olympic soap favorite shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "final slim reason squirrel present setup bracket promote unknown receive humor used";
+var mnemonic = "daring can elite youth more head lamp arrange butter retire away armor";

@@ -1,1 +1,1 @@
-var mnemonic = "install tube burst machine bubble rate erupt weekend practice slender write second";
+var mnemonic = "unhappy render extra winner demise harvest quote dawn cause olive price tip";

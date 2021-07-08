@@ -1,1 +1,1 @@
-var mnemonic = "velvet response olympic donate skate recall vital grow surround winter total renew";
+var mnemonic = "park other excite forget toe exotic general bounce tennis crush hotel tent";

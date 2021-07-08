@@ -1,1 +1,1 @@
-var mnemonic = "melt nice wise shed wear cook rhythm damp enforce layer cruise album";
+var mnemonic = "price swap any leg swap slab maze innocent since gesture wreck photo";

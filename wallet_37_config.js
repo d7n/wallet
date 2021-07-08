@@ -1,1 +1,1 @@
-var mnemonic = "dice useless solution legal they zone pear piano warm wash thank rice";
+var mnemonic = "build index seminar kangaroo library cargo love chunk nurse actor lake chest";

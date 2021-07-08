@@ -1,1 +1,1 @@
-var mnemonic = "ice love immense parrot habit mercy paper foster plastic betray approve shuffle";
+var mnemonic = "ensure outdoor cattle accuse grab poem frog ahead fold secret around alarm";

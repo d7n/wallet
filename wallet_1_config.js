@@ -1,1 +1,1 @@
-var mnemonic = "they diesel style drift cage under piece inflict legal fold gaze barrel";
+var mnemonic = "pony image attitude lunch camera often smoke chase orbit hazard fiction strike";

@@ -1,1 +1,1 @@
-var mnemonic = "walk helmet rescue drift stove physical index element accident ensure acid mention";
+var mnemonic = "buddy lonely chronic trick cinnamon expose denial question meat alter law below";

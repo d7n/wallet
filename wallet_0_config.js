@@ -1,1 +1,1 @@
-var mnemonic = "fault citizen kitten sample hundred put snake cloth buddy sight kidney turkey";
+var mnemonic = "provide bright dial velvet retire elegant essay series body shock work retreat";

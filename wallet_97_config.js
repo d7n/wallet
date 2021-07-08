@@ -1,1 +1,1 @@
-var mnemonic = "dry network appear shy wagon omit chief divorce custom gate pole mad";
+var mnemonic = "sort check file oil city episode text picnic energy leaf broken odor";

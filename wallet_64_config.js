@@ -1,1 +1,1 @@
-var mnemonic = "mother disorder tooth leg meadow wool minute asset gate fatigue find drop";
+var mnemonic = "escape boring proud orange reunion hour camp begin fly damage moment acid";

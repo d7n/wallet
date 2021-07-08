@@ -1,1 +1,1 @@
-var mnemonic = "misery shy quick vendor proud expand install dove ginger ghost verb elegant";
+var mnemonic = "bronze sibling quality bulk motion dad focus endless sleep joy nurse relax";

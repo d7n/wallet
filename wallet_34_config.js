@@ -1,1 +1,1 @@
-var mnemonic = "drum loud feed rubber normal device silk priority web between infant emotion";
+var mnemonic = "wire system hood earn wall gasp cement method lawn mad misery tomorrow";

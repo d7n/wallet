@@ -1,1 +1,1 @@
-var mnemonic = "genuine design beach climb music base valid scrap floor seek asset school";
+var mnemonic = "possible adapt base spread gentle evil snake aunt charge artefact length lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish prefer occur vote choice gate buyer range label aware mosquito afford";
+var mnemonic = "ice file relief until bike crystal axis today diamond rabbit when attend";

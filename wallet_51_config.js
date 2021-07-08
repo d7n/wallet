@@ -1,1 +1,1 @@
-var mnemonic = "slush float total wrestle pink opera physical bomb guard theory arrange bless";
+var mnemonic = "oil angle practice brush concert industry crew domain sister engage grab truly";

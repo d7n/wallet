@@ -1,1 +1,1 @@
-var mnemonic = "expose blush tackle rude segment slush worth position snake never flag concert";
+var mnemonic = "able roof congress ice produce sweet spirit slide drink best title foil";

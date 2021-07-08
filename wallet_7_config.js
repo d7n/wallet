@@ -1,1 +1,1 @@
-var mnemonic = "enter later impulse owner state loyal ski library invest duck cotton since";
+var mnemonic = "they frog group female process crop floor bridge busy draft goat design";

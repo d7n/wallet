@@ -1,1 +1,1 @@
-var mnemonic = "party tent auction crystal cruel chimney state crush tuna police describe drama";
+var mnemonic = "avoid split blanket push dismiss ketchup melody head maid focus father cradle";

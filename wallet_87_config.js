@@ -1,1 +1,1 @@
-var mnemonic = "excess dash park diagram subway fun mix topple liquid volcano exchange afraid";
+var mnemonic = "around square ketchup alien attend robot stay angry face drink exhaust helmet";

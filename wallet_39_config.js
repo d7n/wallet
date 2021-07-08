@@ -1,1 +1,1 @@
-var mnemonic = "license suffer write field cat sword legend burst distance verify funny thought";
+var mnemonic = "winter hello caution sniff control buddy ship pen inform common cloth evolve";

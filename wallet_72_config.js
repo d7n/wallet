@@ -1,1 +1,1 @@
-var mnemonic = "mean hire hundred hurdle announce envelope believe leopard coil magnet ocean net";
+var mnemonic = "flush can fox air alcohol mutual boil width rate citizen stumble turn";

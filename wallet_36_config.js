@@ -1,1 +1,1 @@
-var mnemonic = "replace scale filter clinic cherry round word when expose cave swift merge";
+var mnemonic = "amazing rival ocean off similar survey amazing wide coral give awesome diary";

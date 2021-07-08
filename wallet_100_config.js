@@ -1,1 +1,1 @@
-var mnemonic = "dice boost spare tragic frog abstract east observe visual task style edit";
+var mnemonic = "flame execute disorder chalk person offer impulse shift economy exotic swarm sail";

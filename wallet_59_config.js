@@ -1,1 +1,1 @@
-var mnemonic = "only world south lottery medal often aunt goat frequent coach shell silver";
+var mnemonic = "also dream bargain pencil kangaroo casino window hero clever proud position combine";

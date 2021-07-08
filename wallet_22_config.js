@@ -1,1 +1,1 @@
-var mnemonic = "surprise panther rather october impulse cup whisper screen can gospel property mobile";
+var mnemonic = "merge walnut agree claim melt admit pudding review okay little sight elephant";

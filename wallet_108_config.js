@@ -1,1 +1,1 @@
-var mnemonic = "best dove exit ahead green love course label fantasy copper ghost vintage";
+var mnemonic = "sustain anger marriage pepper thunder raise stuff luxury foam fossil pony bomb";

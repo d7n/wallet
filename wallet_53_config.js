@@ -1,1 +1,1 @@
-var mnemonic = "critic pottery legal pulse try valley forest parent core island law affair";
+var mnemonic = "indoor spatial army stumble goose original analyst lawn lunch vacuum safe donate";

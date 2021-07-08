@@ -1,1 +1,1 @@
-var mnemonic = "twice benefit neutral filter neck brush canal cram public media pair gate";
+var mnemonic = "purchase rural cable gospel plunge huge name meadow convince debate more robust";

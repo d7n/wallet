@@ -1,1 +1,1 @@
-var mnemonic = "destroy paper deal slice arctic monkey element inform february trap idea truly";
+var mnemonic = "crawl atom rose excite once excite alert cereal service lawsuit hero crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel chase wide dress cake stadium shallow media like spatial fan valid";
+var mnemonic = "strategy mountain play accident cake mechanic talk practice erupt cheap pottery arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "ability economy often lawsuit brief chicken circle clarify invite inner trust decrease";
+var mnemonic = "frozen actor remain fatal obey force velvet six sentence exist that inject";

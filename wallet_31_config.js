@@ -1,1 +1,1 @@
-var mnemonic = "soul hurry dice elite rate kiwi barrel stock please diesel spider humor";
+var mnemonic = "grief adapt marine reopen asset good deliver find idle early maximum master";

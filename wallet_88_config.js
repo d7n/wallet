@@ -1,1 +1,1 @@
-var mnemonic = "denial elevator two faculty cloud sugar divide team spend kitten aerobic chicken";
+var mnemonic = "slice morning virus artwork damage forum boring crunch coast settle blast injury";

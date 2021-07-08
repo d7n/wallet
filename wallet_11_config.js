@@ -1,1 +1,1 @@
-var mnemonic = "print spy woman depart actress toss indoor design arena hybrid noble split";
+var mnemonic = "member arrow age payment install any eagle trouble fatigue hard country inject";

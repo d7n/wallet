@@ -1,1 +1,1 @@
-var mnemonic = "remain strike veteran kidney ski pistol inch frost guard inch blanket travel";
+var mnemonic = "sorry school distance shop gospel display acid mean slot rhythm priority nation";

@@ -1,1 +1,1 @@
-var mnemonic = "actress where armor federal devote silk account length return code across possible";
+var mnemonic = "dynamic bulk loud grab kangaroo neck bar hollow embark base salon outside";

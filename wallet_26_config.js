@@ -1,1 +1,1 @@
-var mnemonic = "parent immense fault hold parrot syrup potato length conduct place trip maximum";
+var mnemonic = "blouse talk depend ride tide diagram frost topic frown pond powder win";

@@ -1,1 +1,1 @@
-var mnemonic = "barely spot fix matter leaf into congress risk asset nothing hip small";
+var mnemonic = "satoshi slim eyebrow possible save hour add rural rack lonely employ defy";

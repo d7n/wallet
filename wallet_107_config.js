@@ -1,1 +1,1 @@
-var mnemonic = "record poem zero honey spoon over cute thunder year wool exchange unfair";
+var mnemonic = "jazz story autumn require strike fiction spice side camera enforce coffee clip";

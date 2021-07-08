@@ -1,1 +1,1 @@
-var mnemonic = "kitchen boring music spoon talk aspect profit stadium taxi head year arrange";
+var mnemonic = "shiver coach attract fame mass cereal pass admit promote pear slab try";

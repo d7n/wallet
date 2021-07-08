@@ -1,1 +1,1 @@
-var mnemonic = "assist erase success verb armor give humble start bone area trigger pig";
+var mnemonic = "fish girl duty desert suffer skull panic install voyage finger tenant hybrid";

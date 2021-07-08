@@ -1,1 +1,1 @@
-var mnemonic = "custom noble school metal void toddler eyebrow rural will choose sample urge";
+var mnemonic = "silly notice capital stadium milk turn mistake eternal century cup sauce stem";

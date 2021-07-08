@@ -1,1 +1,1 @@
-var mnemonic = "dynamic burger wild habit robust amused network cinnamon shock casual ask apart";
+var mnemonic = "virtual scrub prize cotton illegal gain size youth myth blast broccoli broken";

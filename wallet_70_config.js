@@ -1,1 +1,1 @@
-var mnemonic = "plug initial share menu supply movie tongue ecology cry found seven despair";
+var mnemonic = "next spike people hurry garden garlic crime motor quality guess inflict exclude";

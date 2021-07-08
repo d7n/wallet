@@ -1,1 +1,1 @@
-var mnemonic = "shove airport know entry accuse candy dice swift practice above early thrive";
+var mnemonic = "crumble soup build violin cycle antenna neither glove sadness stumble top oyster";

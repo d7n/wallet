@@ -1,1 +1,1 @@
-var mnemonic = "talent turkey maid allow mind exclude weird praise hidden chief welcome alien";
+var mnemonic = "quality tumble split fuel enhance comfort word ice token pistol answer movie";

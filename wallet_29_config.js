@@ -1,1 +1,1 @@
-var mnemonic = "fiscal parrot kangaroo improve bring burst observe virtual obey struggle agent three";
+var mnemonic = "very thunder praise person claim cash display rent domain inhale level spike";

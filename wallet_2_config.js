@@ -1,1 +1,1 @@
-var mnemonic = "beyond invest fatal raise mushroom lens alley lucky height drip primary duty";
+var mnemonic = "enlist scare prevent mass route panic narrow habit office useful thunder tomorrow";

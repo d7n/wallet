@@ -1,1 +1,1 @@
-var mnemonic = "brush fine planet lady excite crash away maximum much forget sunset pyramid";
+var mnemonic = "slogan pull lion health solve bonus candy reveal embrace main noise pear";

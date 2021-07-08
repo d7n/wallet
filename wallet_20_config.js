@@ -1,1 +1,1 @@
-var mnemonic = "nature record rebuild holiday above two helmet object patrol bag barrel more";
+var mnemonic = "page hard exhibit purchase reflect trash all flight vessel salute goose forget";

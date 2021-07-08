@@ -1,1 +1,1 @@
-var mnemonic = "pyramid deer nature hen life employ benefit improve office search tongue domain";
+var mnemonic = "boil attack length error world december weird sentence meat regret control expose";

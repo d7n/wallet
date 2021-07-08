@@ -1,1 +1,1 @@
-var mnemonic = "noise survey away cram early order anxiety middle endorse barrel deposit force";
+var mnemonic = "peasant plug parent coconut course casual need insane glide crowd myth taste";

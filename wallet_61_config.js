@@ -1,1 +1,1 @@
-var mnemonic = "drop orchard debate camp indicate owner swarm hard trigger slight cherry punch";
+var mnemonic = "general lock cushion will such capital laugh false chase advice link milk";

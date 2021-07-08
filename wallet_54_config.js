@@ -1,1 +1,1 @@
-var mnemonic = "opera solar split base proof afford verify satisfy two typical wine peace";
+var mnemonic = "harvest umbrella fade island palace random uncover half oxygen distance away hobby";

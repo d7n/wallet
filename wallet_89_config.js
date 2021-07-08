@@ -1,1 +1,1 @@
-var mnemonic = "fresh object weasel mom diagram wise youth aunt expand cliff nasty dose";
+var mnemonic = "sample lab turn speak surprise misery discover fix jaguar angle assault unknown";

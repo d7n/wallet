@@ -1,1 +1,1 @@
-var mnemonic = "win fee robot uphold gravity just debris double derive rescue brave text";
+var mnemonic = "miss profit gold vacant together sniff party trust build wood fever blind";

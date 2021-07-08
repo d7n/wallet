@@ -1,1 +1,1 @@
-var mnemonic = "north quality orchard analyst kingdom pottery angle security column initial custom disease";
+var mnemonic = "enough dwarf bike inner inner blue raise upon tired evolve trick release";

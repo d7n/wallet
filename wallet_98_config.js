@@ -1,1 +1,1 @@
-var mnemonic = "boil into burden bronze found sight uphold gown baby effort champion sauce";
+var mnemonic = "front tank dinosaur coral expire boss dove track silent code story vital";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge burst between crumble move census great waste lens orbit detect miracle";
+var mnemonic = "success grid oblige detail age attend great eagle appear nothing industry expect";

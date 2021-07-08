@@ -1,1 +1,1 @@
-var mnemonic = "save sock scissors guide bless cruise tell sure three frost blood unit";
+var mnemonic = "lava sea icon tiny creek lounge above lobster grace metal hazard advance";

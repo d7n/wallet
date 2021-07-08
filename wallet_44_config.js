@@ -1,1 +1,1 @@
-var mnemonic = "garden march armed blind mushroom twin brother clog tray bronze because violin";
+var mnemonic = "limit lazy first remove coyote fortune jealous boring hold punch lamp oak";

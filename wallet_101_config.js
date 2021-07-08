@@ -1,1 +1,1 @@
-var mnemonic = "grab awful void dignity cart gold state never benefit neck twenty sound";
+var mnemonic = "dismiss sword guide draw mutual december cement away have emerge ticket close";

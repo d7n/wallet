@@ -1,1 +1,1 @@
-var mnemonic = "amazing pull hurry hockey deer reduce parade fatal green verb erode neither";
+var mnemonic = "enroll venture bulk present warrior sheriff episode surround solution bring clutch garment";

@@ -1,1 +1,1 @@
-var mnemonic = "surround butter basket ball nerve spend cigar distance hip tail kind kite";
+var mnemonic = "prefer hover butter grain army know decline copy enroll grunt erode olympic";
