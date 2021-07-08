@@ -1,1 +1,1 @@
-var mnemonic = "phone lesson flush burst budget sister income turtle scene discover drink evoke";
+var mnemonic = "dad tragic average equal regret eye oven gospel pass spell desert manual";

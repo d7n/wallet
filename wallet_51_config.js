@@ -1,1 +1,1 @@
-var mnemonic = "into motor student donate have despair exchange parade sell kit crystal valley";
+var mnemonic = "aware crazy gown regret potato online eight inquiry siege vague flee feed";

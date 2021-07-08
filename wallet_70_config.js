@@ -1,1 +1,1 @@
-var mnemonic = "jar harvest mobile canyon tape pulse fluid fog silly short slush model";
+var mnemonic = "captain impose original divert churn siege inner monkey later prefer giggle economy";

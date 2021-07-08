@@ -1,1 +1,1 @@
-var mnemonic = "hidden also choice ranch supreme group meat gym case smile sight feature";
+var mnemonic = "today stone romance room impulse episode crane evoke wait craft estate arctic";

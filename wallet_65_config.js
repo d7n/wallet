@@ -1,1 +1,1 @@
-var mnemonic = "holiday gather angry weekend jungle dwarf conduct upon visa laundry extra fee";
+var mnemonic = "submit reason tail piece frost dwarf property escape picnic senior return twice";

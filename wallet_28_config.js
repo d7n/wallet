@@ -1,1 +1,1 @@
-var mnemonic = "crucial phrase sock journey remember loyal general truly post salute diary churn";
+var mnemonic = "warrior calm shock celery sight coffee position between salmon ripple chapter tired";

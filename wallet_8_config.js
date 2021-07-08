@@ -1,1 +1,1 @@
-var mnemonic = "more few pupil canal fault spirit grape office spoil vacuum culture face";
+var mnemonic = "cradle property oil pledge moon eternal tilt truth hello guard page merry";

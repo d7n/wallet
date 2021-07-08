@@ -1,1 +1,1 @@
-var mnemonic = "pelican slot pluck pet seek lens view panther slice valve electric puzzle";
+var mnemonic = "minute broom scissors exhibit attitude purchase kiss parade today mouse nest achieve";

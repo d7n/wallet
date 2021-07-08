@@ -1,1 +1,1 @@
-var mnemonic = "hockey waste special job casual baby rely section initial very term duck";
+var mnemonic = "census sound charge avocado fiction range ozone involve armed endorse gain rifle";

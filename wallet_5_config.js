@@ -1,1 +1,1 @@
-var mnemonic = "laptop farm female struggle mouse disease very ritual execute desert wool media";
+var mnemonic = "fade echo amateur bracket embody globe goat little blame maid diary resist";

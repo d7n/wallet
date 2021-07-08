@@ -1,1 +1,1 @@
-var mnemonic = "virtual market social rent era merge current auction know topple muffin phrase";
+var mnemonic = "tired paper seven cruise jealous minimum crawl muffin welcome snake subway wall";

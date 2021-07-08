@@ -1,1 +1,1 @@
-var mnemonic = "dad robot action left misery citizen ritual lend spoil toward scrub siege";
+var mnemonic = "series attack danger man divert pet harsh annual close tortoise link toward";

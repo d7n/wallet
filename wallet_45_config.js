@@ -1,1 +1,1 @@
-var mnemonic = "announce venture trend upon banner subway sort run sustain puzzle evidence kind";
+var mnemonic = "panther subject lucky undo sponsor dish mistake army crawl bleak process guitar";

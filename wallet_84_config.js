@@ -1,1 +1,1 @@
-var mnemonic = "forget come evidence audit whale rude soldier change essay eagle donate consider";
+var mnemonic = "lab female key phrase upset anger loan eagle arrow post kingdom inhale";

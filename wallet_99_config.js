@@ -1,1 +1,1 @@
-var mnemonic = "follow arrange scatter toward airport write history sport any right shed phrase";
+var mnemonic = "pass shrug tape mutual detail north decorate drastic pave mother album empower";

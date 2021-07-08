@@ -1,1 +1,1 @@
-var mnemonic = "attend velvet distance stereo life cost melt sick cushion cruise emerge visual";
+var mnemonic = "boost miracle divorce monitor cool poverty logic mosquito coin hawk switch wood";

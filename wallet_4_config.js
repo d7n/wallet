@@ -1,1 +1,1 @@
-var mnemonic = "cause disease detect lamp giant derive ready outer child tree industry lemon";
+var mnemonic = "reform car rule enhance floor monster kite hockey beauty save famous cost";

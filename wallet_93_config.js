@@ -1,1 +1,1 @@
-var mnemonic = "usual simple guess island tissue promote pyramid sun faith tape depart chat";
+var mnemonic = "opera real size bachelor plug text festival couple skin enjoy grief nurse";

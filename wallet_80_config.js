@@ -1,1 +1,1 @@
-var mnemonic = "clerk peace cannon doctor scissors option quiz person volcano coffee salt south";
+var mnemonic = "into velvet account flower copy lizard shy duck near mask ignore symbol";

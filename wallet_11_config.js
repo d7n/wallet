@@ -1,1 +1,1 @@
-var mnemonic = "quick page seat spell valid bar solve require kick mother obvious vacant";
+var mnemonic = "ladder silver file dust topple start base picnic hotel bargain delay never";

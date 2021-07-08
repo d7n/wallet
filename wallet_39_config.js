@@ -1,1 +1,1 @@
-var mnemonic = "want party advance predict collect gas scheme report subway chuckle diesel say";
+var mnemonic = "crowd profit anger lizard risk steel edit vehicle account little route useful";

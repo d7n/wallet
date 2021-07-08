@@ -1,1 +1,1 @@
-var mnemonic = "prosper donkey impose farm give mad spice purchase viable define relief pyramid";
+var mnemonic = "select tackle timber unknown mixed spend exclude exit birth army version typical";

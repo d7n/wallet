@@ -1,1 +1,1 @@
-var mnemonic = "recycle cushion wonder clutch father pave cabbage sign tank meat unknown brief";
+var mnemonic = "youth valid humor unaware bike giant section primary spare attract junior trap";

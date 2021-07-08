@@ -1,1 +1,1 @@
-var mnemonic = "desk bulk choice item truck entry vibrant labor tell dog spring horse";
+var mnemonic = "script sponsor deliver shoe cereal vendor you lecture slow habit novel depend";

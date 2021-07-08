@@ -1,1 +1,1 @@
-var mnemonic = "tomato talent hockey athlete diet rigid ancient brave nasty metal position hawk";
+var mnemonic = "cricket brother panel exclude palace slender inch lesson deer rain novel tone";

@@ -1,1 +1,1 @@
-var mnemonic = "shell spatial remind action chat offer pass pitch correct frog remember debate";
+var mnemonic = "vapor average merit voice lady viable bike dinosaur inmate mesh resource pave";

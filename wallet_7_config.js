@@ -1,1 +1,1 @@
-var mnemonic = "crater coin mandate cousin now modify ancient gold expose cousin arena junior";
+var mnemonic = "item learn armed auto drill illness flip spare empty verify leg awkward";

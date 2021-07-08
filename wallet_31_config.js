@@ -1,1 +1,1 @@
-var mnemonic = "notable orient hover volume drill rather voice flavor melt public oblige bulb";
+var mnemonic = "lion place ramp lunch rigid lava floor beyond skill game shine toast";

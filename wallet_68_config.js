@@ -1,1 +1,1 @@
-var mnemonic = "gallery asset any laptop return solid manual bonus raise gossip bicycle canal";
+var mnemonic = "lava document lab broccoli wear wreck camera toddler sample nurse video nuclear";

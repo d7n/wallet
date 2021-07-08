@@ -1,1 +1,1 @@
-var mnemonic = "october canoe still have cluster emotion spawn other exile latin void oblige";
+var mnemonic = "leopard climb stomach cabbage gown onion trim organ fringe renew injury cable";

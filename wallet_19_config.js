@@ -1,1 +1,1 @@
-var mnemonic = "aerobic mimic price asset trap job evil price ready box require trend";
+var mnemonic = "snake correct desk salmon farm sweet judge upon any vote ecology garden";

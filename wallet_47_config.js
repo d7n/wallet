@@ -1,1 +1,1 @@
-var mnemonic = "warm scrap smooth fall display defy lawn sea maid outdoor shove seed";
+var mnemonic = "plunge frog must cannon about race ankle update output expect hungry clinic";

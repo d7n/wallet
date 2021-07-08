@@ -1,1 +1,1 @@
-var mnemonic = "amused process right there thrive organ have sad segment valid program elder";
+var mnemonic = "journey occur water crash better forum snack boss work wild blue wrist";

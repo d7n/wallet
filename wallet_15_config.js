@@ -1,1 +1,1 @@
-var mnemonic = "frog humble regret illegal rose riot hurry tail odor assault chief harvest";
+var mnemonic = "artefact worth abstract cube teach grant wave claim slender obtain security trouble";

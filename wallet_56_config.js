@@ -1,1 +1,1 @@
-var mnemonic = "gospel icon brave source mystery system frequent upset response siege seat depart";
+var mnemonic = "shaft phone enroll race body cost chat urban test legend capital shift";

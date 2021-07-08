@@ -1,1 +1,1 @@
-var mnemonic = "horror live diamond true stage year blush walnut marble mushroom heavy depart";
+var mnemonic = "rifle flower acquire sheriff stereo craft owner begin express small excuse keep";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster vacant lounge debate repair unaware unfair slab off unfold oppose ensure";
+var mnemonic = "episode canyon current end trip arctic slender define inject arrange enable vehicle";

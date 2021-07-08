@@ -1,1 +1,1 @@
-var mnemonic = "share mansion damp capable fancy repeat uphold fatigue swallow culture palm catalog";
+var mnemonic = "item test absurd rotate nose depth bench medal address cement pink invest";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch era medal quote law cube paper cigar feed dove violin patient";
+var mnemonic = "ridge tip inherit glare prize cinnamon anger electric reward seven kit over";

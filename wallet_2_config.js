@@ -1,1 +1,1 @@
-var mnemonic = "obscure antenna extra liquid champion captain clay lucky purchase glare allow assault";
+var mnemonic = "deliver verify notice foot marriage clinic hint fan frame toward add manage";

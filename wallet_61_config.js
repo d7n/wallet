@@ -1,1 +1,1 @@
-var mnemonic = "address spider dilemma coral prefer sausage you leg mind donate flower undo";
+var mnemonic = "rapid civil critic aim dismiss decade table announce debate place repair achieve";

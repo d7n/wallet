@@ -1,1 +1,1 @@
-var mnemonic = "shrimp trick clump govern sweet fence arena put primary double manage zone";
+var mnemonic = "staff zebra drink used glare install adult ignore mind rotate exact unable";

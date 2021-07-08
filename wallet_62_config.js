@@ -1,1 +1,1 @@
-var mnemonic = "pioneer squirrel welcome mammal palace bid castle slogan dance topic duck spirit";
+var mnemonic = "practice either story mystery swap cigar scare tattoo answer craft audit deny";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed session crime scatter pony lawn claim shrug six east consider attend";
+var mnemonic = "story key endless pill stool method grocery seed pluck sleep grow reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "impose engage ketchup must addict april ensure wing opera stable goddess pottery";
+var mnemonic = "three lyrics kitten dynamic satoshi round home kiss animal miss fringe pretty";

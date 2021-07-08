@@ -1,1 +1,1 @@
-var mnemonic = "victory electric devote ensure enough bamboo vocal eternal minimum under fine calm";
+var mnemonic = "decide lottery april pyramid thunder ginger bridge drive scrub relief phrase voice";

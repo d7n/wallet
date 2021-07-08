@@ -1,1 +1,1 @@
-var mnemonic = "infant differ decrease dial skirt shift print expand ghost crisp pink galaxy";
+var mnemonic = "distance produce shoot canoe boring possible airport access host chest skin cherry";

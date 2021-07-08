@@ -1,1 +1,1 @@
-var mnemonic = "hotel camp shrimp horse primary clean apology wonder elder various immune soup";
+var mnemonic = "maximum symbol rare effort virtual chief help vibrant hotel hunt midnight differ";

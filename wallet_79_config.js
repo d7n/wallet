@@ -1,1 +1,1 @@
-var mnemonic = "attract mass network skate extend media ocean barely lock uniform fix oven";
+var mnemonic = "key add uncover fade steak loan unknown small neither slender lumber very";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant embrace cradle romance vapor middle exist child april believe about trumpet";
+var mnemonic = "near jacket fiction view over leaf level jealous saddle broccoli describe shallow";

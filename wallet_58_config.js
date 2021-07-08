@@ -1,1 +1,1 @@
-var mnemonic = "jelly moon idea course siren shaft clump law taxi impact illness because";
+var mnemonic = "coral quote dream cupboard chief burden hockey rhythm thunder menu turtle pumpkin";

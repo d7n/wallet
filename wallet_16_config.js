@@ -1,1 +1,1 @@
-var mnemonic = "east edge airport drop current lazy scrub ostrich nuclear fatigue excite between";
+var mnemonic = "wrap prevent ceiling brisk adjust wool avoid gloom whisper access keep tattoo";

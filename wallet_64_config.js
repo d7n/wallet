@@ -1,1 +1,1 @@
-var mnemonic = "erase garage depth pave ripple stool hurry aunt scale fetch excite elevator";
+var mnemonic = "tuition spread flee sick hover crucial group congress omit cancel very tip";

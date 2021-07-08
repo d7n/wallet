@@ -1,1 +1,1 @@
-var mnemonic = "idle fuel bomb peace risk burger gate knock master blind citizen speed";
+var mnemonic = "nuclear split position board empty save become crouch tone toward amateur liar";

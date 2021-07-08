@@ -1,1 +1,1 @@
-var mnemonic = "easy cook canoe crush diet mosquito fold glass common possible pioneer wheat";
+var mnemonic = "tennis battle outdoor share rather multiply spice mail govern edit blossom pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp velvet mask expand stairs regret black adapt spot castle obtain canyon";
+var mnemonic = "duck ancient absent gold time trick mask truly chimney art embark debate";

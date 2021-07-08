@@ -1,1 +1,1 @@
-var mnemonic = "endless rigid ozone meadow health lunar fragile border dad liar future syrup";
+var mnemonic = "adjust insane turn stay adjust pool evil orient palm have cube other";

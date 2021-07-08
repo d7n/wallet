@@ -1,1 +1,1 @@
-var mnemonic = "doctor net glory already remain custom protect half staff retire party gospel";
+var mnemonic = "parent hobby venture seat party parent field eye market front paddle follow";

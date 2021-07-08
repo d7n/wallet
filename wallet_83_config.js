@@ -1,1 +1,1 @@
-var mnemonic = "mix engine print bag alarm mercy spirit fragile empower exotic random achieve";
+var mnemonic = "lava accuse blade goddess breeze siege hotel lizard fork movie mobile distance";

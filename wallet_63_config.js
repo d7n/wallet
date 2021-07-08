@@ -1,1 +1,1 @@
-var mnemonic = "loop report badge subject item sock erupt phone urge caught father host";
+var mnemonic = "visual hotel grab absent thank seminar matter plate must sound heavy lift";

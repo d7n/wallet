@@ -1,1 +1,1 @@
-var mnemonic = "hazard winner flat consider agent month lonely liar raise path wish resource";
+var mnemonic = "weapon sister raw guitar craft tongue pair loop seed range warfare agent";

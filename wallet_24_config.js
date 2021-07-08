@@ -1,1 +1,1 @@
-var mnemonic = "noise feed over merry avoid dune disease adjust hint weekend invite junk";
+var mnemonic = "erase mad despair web coffee undo visa lonely face diesel crop bench";

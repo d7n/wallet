@@ -1,1 +1,1 @@
-var mnemonic = "video pudding term join orphan aerobic penalty stool donor silver marriage timber";
+var mnemonic = "divide speak unable century joy ignore fix slender feed check dignity maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "increase around ladder napkin world sign mouse pottery giggle define confirm morning";
+var mnemonic = "list cake atom old sample inner pottery chapter quantum donor slide shrimp";

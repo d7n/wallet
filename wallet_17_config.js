@@ -1,1 +1,1 @@
-var mnemonic = "inside until jewel vital kiss jump shoe flat only hold theme treat";
+var mnemonic = "angry skull upon very absorb solution ahead glimpse release april train embark";

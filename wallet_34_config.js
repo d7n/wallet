@@ -1,1 +1,1 @@
-var mnemonic = "faint faith material message can acid grief physical roast wrong income what";
+var mnemonic = "wasp odor great page west net kidney diet material board input mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "under bitter police horn series gaze tilt knee soldier web parade letter";
+var mnemonic = "breeze sibling raven cousin grace scan ladder tape glue response hat snap";

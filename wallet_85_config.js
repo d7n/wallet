@@ -1,1 +1,1 @@
-var mnemonic = "company track average boring avoid acquire faint acquire claim about maze fashion";
+var mnemonic = "dinosaur subject rival dragon smile claim step wash supply gravity destroy blind";

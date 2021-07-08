@@ -1,1 +1,1 @@
-var mnemonic = "loud develop mention same when place better nest flush column lumber humble";
+var mnemonic = "link stable decade save ginger onion dune cube hungry bulb pet wife";

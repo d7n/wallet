@@ -1,1 +1,1 @@
-var mnemonic = "morning crucial message salmon dolphin then gorilla simple matter raven card ghost";
+var mnemonic = "loyal trash woman year double priority also episode produce extend step expire";

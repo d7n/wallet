@@ -1,1 +1,1 @@
-var mnemonic = "sock clerk chase unhappy head decrease improve later pear discover razor outdoor";
+var mnemonic = "boy employ jungle run enlist festival bar song chalk law tobacco nice";

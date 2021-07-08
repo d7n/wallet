@@ -1,1 +1,1 @@
-var mnemonic = "drum clean unusual jelly february mercy come nature shove kidney around disorder";
+var mnemonic = "increase girl gravity orphan term turkey demand rookie snake fragile pass primary";

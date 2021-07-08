@@ -1,1 +1,1 @@
-var mnemonic = "when drip agree raven paddle evil soft fun together they afford concert";
+var mnemonic = "tackle garbage permit someone stick dinner clump pond floor column cattle rival";

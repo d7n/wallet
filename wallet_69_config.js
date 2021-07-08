@@ -1,1 +1,1 @@
-var mnemonic = "action earth catalog uncover illness patch wide blind shove universe when stem";
+var mnemonic = "region wheel section mango make require cube unaware surround wreck muffin winner";

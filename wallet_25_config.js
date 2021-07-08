@@ -1,1 +1,1 @@
-var mnemonic = "middle silent video collect gravity hospital elevator need furnace novel match breeze";
+var mnemonic = "tennis flag long rocket early front limit power breeze square fun original";

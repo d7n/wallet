@@ -1,1 +1,1 @@
-var mnemonic = "blossom such peace resemble spoil valley wrap sick midnight vintage inherit rather";
+var mnemonic = "wagon aim seed distance misery favorite coffee stereo wreck velvet live jungle";

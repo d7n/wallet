@@ -1,1 +1,1 @@
-var mnemonic = "diamond battle deposit tunnel picnic cute flame mimic uncle peasant tumble decline";
+var mnemonic = "jar humor fortune aerobic dad achieve tackle meadow common village ankle sphere";

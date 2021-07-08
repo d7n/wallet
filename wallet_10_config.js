@@ -1,1 +1,1 @@
-var mnemonic = "answer celery police public pupil tail pond relax enroll prepare chair city";
+var mnemonic = "frequent hello carbon gate roof hair dial sponsor cruise husband purpose devote";

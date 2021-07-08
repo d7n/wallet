@@ -1,1 +1,1 @@
-var mnemonic = "school ten exclude dice call drama solution force volume age fee limit";
+var mnemonic = "coyote ship peace route entry clock soldier gaze other bleak scheme stove";

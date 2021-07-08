@@ -1,1 +1,1 @@
-var mnemonic = "shed hire panther machine senior bird reject elegant gentle tonight movie company";
+var mnemonic = "flash word ankle split problem guide kiwi output perfect blood tattoo agree";

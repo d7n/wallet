@@ -1,1 +1,1 @@
-var mnemonic = "shallow spend release slow turn dance govern gold ozone diet illness mushroom";
+var mnemonic = "fetch dream trouble rally oxygen fatal concert gauge general final judge baby";

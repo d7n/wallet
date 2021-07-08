@@ -1,1 +1,1 @@
-var mnemonic = "erode disorder party kingdom weird city input between one soon wedding tilt";
+var mnemonic = "mansion party hint syrup notice wish note insect royal safe govern help";

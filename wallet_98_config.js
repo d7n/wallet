@@ -1,1 +1,1 @@
-var mnemonic = "beauty attitude trend kidney wife service solution soldier runway cement slice year";
+var mnemonic = "car diet crater panther position radio human ability advance dwarf search top";

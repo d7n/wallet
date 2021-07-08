@@ -1,1 +1,1 @@
-var mnemonic = "bright gaze sustain leaf guide matrix flight barrel image bone top blast";
+var mnemonic = "learn skate confirm abstract despair rocket need fee vacuum awkward fame only";

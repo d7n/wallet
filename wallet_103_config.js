@@ -1,1 +1,1 @@
-var mnemonic = "window room feed second practice pride cool correct profit whisper pioneer jaguar";
+var mnemonic = "industry shift you word dance dignity breeze whip profit submit wet seek";

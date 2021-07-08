@@ -1,1 +1,1 @@
-var mnemonic = "acid equip uncover future mouse noble hope nest harvest balcony flat list";
+var mnemonic = "extra unfold private profit young attack mask huge grant squeeze crop parent";

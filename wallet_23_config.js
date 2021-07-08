@@ -1,1 +1,1 @@
-var mnemonic = "hamster track phrase spoil ancient head cat width tongue strong animal coach";
+var mnemonic = "you ability destroy avoid eye oil answer garage excuse sudden rent artwork";

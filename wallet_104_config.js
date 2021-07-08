@@ -1,1 +1,1 @@
-var mnemonic = "neither palm grass friend supreme visual first priority paper era roof seminar";
+var mnemonic = "hawk deny rival route else letter turkey right cream royal album situate";

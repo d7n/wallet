@@ -1,1 +1,1 @@
-var mnemonic = "drill invite guitar better dynamic picture fever hair symbol neither proof gauge";
+var mnemonic = "weird peace army above permit come act minimum rapid party vendor spike";

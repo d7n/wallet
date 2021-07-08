@@ -1,1 +1,1 @@
-var mnemonic = "submit salon fault invest silly foam advance market catch finger amused robot";
+var mnemonic = "crazy cat evolve letter minor basic excuse art knock innocent science rail";

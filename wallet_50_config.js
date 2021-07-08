@@ -1,1 +1,1 @@
-var mnemonic = "blast funny cost thank scene differ twist buddy stick exclude festival syrup";
+var mnemonic = "replace make hub rich tomorrow winter famous popular avocado warrior craft machine";

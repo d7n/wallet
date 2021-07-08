@@ -1,1 +1,1 @@
-var mnemonic = "parade nurse scale few bonus turkey dwarf unhappy pond banana chapter lady";
+var mnemonic = "connect lion sketch grow then kit snow book lesson belt valve dirt";

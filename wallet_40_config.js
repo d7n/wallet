@@ -1,1 +1,1 @@
-var mnemonic = "maximum lesson expand spider common extend luggage layer loyal equal service abuse";
+var mnemonic = "avoid fat visit sing wagon jazz token job old explain bright miracle";

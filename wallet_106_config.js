@@ -1,1 +1,1 @@
-var mnemonic = "this memory call mixed message dignity shuffle drink sound olive execute south";
+var mnemonic = "valve main mirror question crawl napkin foster state reason amount bundle galaxy";

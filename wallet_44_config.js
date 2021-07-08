@@ -1,1 +1,1 @@
-var mnemonic = "foam quarter stand album man junior kit initial solar annual faith goat";
+var mnemonic = "embark dish frost bike when pigeon erosion length lamp damage rent item";

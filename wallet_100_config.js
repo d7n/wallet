@@ -1,1 +1,1 @@
-var mnemonic = "issue sport brand gap mammal mixture voyage solution display bleak jelly jazz";
+var mnemonic = "resemble canal lion monitor delay beef puzzle glance hidden panda across grape";
