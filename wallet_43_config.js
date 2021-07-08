@@ -1,1 +1,1 @@
-var mnemonic = "earn float artefact daring pen elite win stock kit curtain snack impulse";
+var mnemonic = "hair alarm cereal square pioneer client web emotion year affair lunch regular";

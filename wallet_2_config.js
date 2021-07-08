@@ -1,1 +1,1 @@
-var mnemonic = "salt outside snow police picture gorilla gloom omit gas stock virus bubble";
+var mnemonic = "damage sing mixed develop avocado level merge veteran gasp blame fever orphan";

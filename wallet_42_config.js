@@ -1,1 +1,1 @@
-var mnemonic = "amount island tent path century reveal column famous album visual cruel rice";
+var mnemonic = "giraffe exhibit giraffe ramp nominee more net mask since tail wild casual";

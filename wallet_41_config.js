@@ -1,1 +1,1 @@
-var mnemonic = "maze ship first judge where entry install uphold bread predict furnace toddler";
+var mnemonic = "domain quote drop elegant degree fade spike execute quarter bulk ladder wish";

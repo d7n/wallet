@@ -1,1 +1,1 @@
-var mnemonic = "explain enable endorse okay dignity history borrow pupil embrace leaf net rich";
+var mnemonic = "practice fatigue shop radio romance sustain jelly gossip receive clown metal profit";

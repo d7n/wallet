@@ -1,1 +1,1 @@
-var mnemonic = "cream heart kingdom seven tuna magnet audit young height wisdom holiday question";
+var mnemonic = "ginger token resemble divorce firm exhibit anxiety arch theme banner deny session";

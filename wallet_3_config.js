@@ -1,1 +1,1 @@
-var mnemonic = "ski brain phone pepper soft chaos shiver talent test number ride quantum";
+var mnemonic = "private mushroom bargain stand insect stove list razor transfer excuse step bubble";

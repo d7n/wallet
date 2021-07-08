@@ -1,1 +1,1 @@
-var mnemonic = "swamp method soft clip smart fiscal trophy basket learn grocery craft impulse";
+var mnemonic = "glue tree poet token faint first silent inspire hand lift refuse material";

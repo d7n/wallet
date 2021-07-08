@@ -1,1 +1,1 @@
-var mnemonic = "squeeze love easy million velvet dinner circle dress bike toward crowd exercise";
+var mnemonic = "hole flee this still system burden attract gadget ridge scout clean motion";

@@ -1,1 +1,1 @@
-var mnemonic = "list siege grab burger talent actual palace tooth wrestle culture need vehicle";
+var mnemonic = "world joke grit practice chuckle drop pottery unfair chalk dynamic mom detail";

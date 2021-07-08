@@ -1,1 +1,1 @@
-var mnemonic = "one lesson ghost hood among oppose smooth refuse various hard suit onion";
+var mnemonic = "voice cruise cart news enemy clap purchase nice sausage gentle humor broken";

@@ -1,1 +1,1 @@
-var mnemonic = "quick cable october police until alarm hill pottery few creek soon board";
+var mnemonic = "merge much trigger boat bubble hurry artwork reduce beyond visa useful toddler";

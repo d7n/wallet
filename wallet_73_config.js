@@ -1,1 +1,1 @@
-var mnemonic = "fault clap gasp avocado video giraffe surround speed history impact final cost";
+var mnemonic = "during gloom oil tag antenna way moon miracle ordinary orphan shift power";

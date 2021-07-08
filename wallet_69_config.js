@@ -1,1 +1,1 @@
-var mnemonic = "smile clock loyal account print attract gorilla rib spoil gravity spell column";
+var mnemonic = "enroll pond ahead main control enforce laugh use alone tide prison cruel";

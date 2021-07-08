@@ -1,1 +1,1 @@
-var mnemonic = "step cause neither couch sort egg mystery thumb drum awake suffer rough";
+var mnemonic = "biology rice anxiety glow audit all acoustic lady pulse verb exist grain";

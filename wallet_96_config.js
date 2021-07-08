@@ -1,1 +1,1 @@
-var mnemonic = "input cannon hero pepper merry claim brother vague nut outdoor same follow";
+var mnemonic = "work umbrella path floor body cherry bargain advice pen one proof play";

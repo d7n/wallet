@@ -1,1 +1,1 @@
-var mnemonic = "crop monster antenna dragon bicycle deliver tribe brown mule force abstract vacant";
+var mnemonic = "bitter chimney tonight banana utility strong happy magnet gorilla buyer author rebuild";

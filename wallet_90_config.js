@@ -1,1 +1,1 @@
-var mnemonic = "kiss win demand park unfold client drop bullet fiction buddy cement hero";
+var mnemonic = "exit tumble ice unlock zone benefit absurd surprise insect trouble property round";

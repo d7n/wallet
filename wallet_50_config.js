@@ -1,1 +1,1 @@
-var mnemonic = "romance era mad canyon north copy crisp aspect travel balcony card segment";
+var mnemonic = "region obey toe harsh improve usual saddle robot matrix reward endless margin";

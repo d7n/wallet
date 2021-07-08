@@ -1,1 +1,1 @@
-var mnemonic = "review parrot swift deal choice predict glow blood mind judge engine elephant";
+var mnemonic = "diesel sphere aim enroll ticket athlete switch account time victory vehicle ridge";

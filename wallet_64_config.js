@@ -1,1 +1,1 @@
-var mnemonic = "bread era chief code cupboard upset oxygen gift dog audit valley drip";
+var mnemonic = "nut device pair inspire such loyal craft hospital leader aisle own fresh";

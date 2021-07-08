@@ -1,1 +1,1 @@
-var mnemonic = "gospel disagree lumber gold depth body upper three idle regret gospel butter";
+var mnemonic = "ketchup card window thunder mirror armor medal input peanut seed scout blame";

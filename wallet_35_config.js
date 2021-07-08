@@ -1,1 +1,1 @@
-var mnemonic = "lobster clay access cute best tissue rain usual among disease inject topple";
+var mnemonic = "gravity kit music before response nothing burger toddler design around jaguar scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "enter keen vague churn tackle betray sign lunar wire stone flush input";
+var mnemonic = "noodle gas breeze mammal staff erode organ thunder predict economy illness false";

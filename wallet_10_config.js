@@ -1,1 +1,1 @@
-var mnemonic = "kidney unfold pink amount point artwork wear early lake smile kidney fox";
+var mnemonic = "warm roast stadium kingdom solar cabbage infant rapid brave twice render solid";

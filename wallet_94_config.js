@@ -1,1 +1,1 @@
-var mnemonic = "verb renew index document cause music trash chronic shift reduce object play";
+var mnemonic = "immune metal blind gossip verify exotic yard heart sheriff water stamp argue";

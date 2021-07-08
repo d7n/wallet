@@ -1,1 +1,1 @@
-var mnemonic = "opinion setup gesture recall make chat evidence patch marriage hybrid helmet claim";
+var mnemonic = "onion address entry hedgehog manual cousin goat best quit asthma range damp";

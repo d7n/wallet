@@ -1,1 +1,1 @@
-var mnemonic = "describe idea crew thank elevator wagon emerge try august valid screen excite";
+var mnemonic = "sand erosion trip ability benefit canal slender image fault media ridge consider";

@@ -1,1 +1,1 @@
-var mnemonic = "hen envelope obscure shoulder arrange safe screen tip volume sleep critic frequent";
+var mnemonic = "unaware squeeze sponsor host lamp drift wool crunch check lift brisk disease";

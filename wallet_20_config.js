@@ -1,1 +1,1 @@
-var mnemonic = "adjust imitate field fatal shine zone library logic heavy mass drum basic";
+var mnemonic = "debris believe essence rug shove warfare license essay judge regret staff critic";

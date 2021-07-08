@@ -1,1 +1,1 @@
-var mnemonic = "amazing clever image puzzle nerve black forest sausage sponsor used wasp space";
+var mnemonic = "share owner design change ecology antique cargo loop general sing diagram join";

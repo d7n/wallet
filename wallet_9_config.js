@@ -1,1 +1,1 @@
-var mnemonic = "another success asthma destroy undo guess choose rich develop faint sleep jazz";
+var mnemonic = "hidden inquiry rail hello weather raven crew among pledge before banner sock";

@@ -1,1 +1,1 @@
-var mnemonic = "dress renew already stereo minute little cactus repeat logic surround clog eternal";
+var mnemonic = "chef sport bundle lemon wisdom thing silver receive nut trumpet below genre";

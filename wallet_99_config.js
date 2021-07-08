@@ -1,1 +1,1 @@
-var mnemonic = "divert aisle spread glimpse prosper below custom legend pink cloud power regular";
+var mnemonic = "afford amateur thunder hockey uncover area upper dial vital switch horse turkey";

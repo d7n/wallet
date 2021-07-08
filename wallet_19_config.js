@@ -1,1 +1,1 @@
-var mnemonic = "clog lumber youth burger praise mutual faculty parade champion dolphin able maple";
+var mnemonic = "excuse balcony burger company lemon short buyer once nice tail modify mention";

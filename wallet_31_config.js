@@ -1,1 +1,1 @@
-var mnemonic = "inherit else you seed wedding bubble assault much tunnel ball ready picnic";
+var mnemonic = "toilet way dog stairs sorry victory armed vital teach source dune urban";

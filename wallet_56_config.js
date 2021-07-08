@@ -1,1 +1,1 @@
-var mnemonic = "sad hidden uncover crater wonder search attend diamond version patch trumpet material";
+var mnemonic = "rally gadget rhythm video camera woman coil undo fruit crouch shy coyote";

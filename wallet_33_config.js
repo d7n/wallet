@@ -1,1 +1,1 @@
-var mnemonic = "churn stay tree tragic print field broken like evolve skull assist note";
+var mnemonic = "method pulp venture later chunk fiber inhale minimum light better dish limb";

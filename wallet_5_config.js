@@ -1,1 +1,1 @@
-var mnemonic = "dignity crop kind silly ready follow gravity drum direct object bright zone";
+var mnemonic = "alcohol symptom avocado announce embark little car nest person develop fitness proud";

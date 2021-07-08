@@ -1,1 +1,1 @@
-var mnemonic = "avoid ketchup pumpkin hurry flight sentence pupil keep october another tell disease";
+var mnemonic = "cigar wage gasp oval drop suit gauge supply position differ kiwi sing";

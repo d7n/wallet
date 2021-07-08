@@ -1,1 +1,1 @@
-var mnemonic = "borrow awake imitate degree battle decide return tortoise skill fade another door";
+var mnemonic = "have accuse furnace scare ketchup try ancient fashion club leopard twin spoil";

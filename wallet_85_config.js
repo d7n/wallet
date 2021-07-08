@@ -1,1 +1,1 @@
-var mnemonic = "grape ghost train grow almost elder mutual cream erosion velvet sword spawn";
+var mnemonic = "imitate mushroom engage culture panda absurd country power range report weekend vocal";

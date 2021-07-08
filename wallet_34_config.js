@@ -1,1 +1,1 @@
-var mnemonic = "object liar seminar mass clinic tell bachelor gift oval prison slice actual";
+var mnemonic = "decrease balcony bid gain brisk neutral state depend write kangaroo law scissors";

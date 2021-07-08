@@ -1,1 +1,1 @@
-var mnemonic = "ridge electric pledge destroy help danger inflict exit hair differ sunny hip";
+var mnemonic = "prison ask used trip genuine burst innocent foot relief decline brave exist";

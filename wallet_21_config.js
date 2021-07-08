@@ -1,1 +1,1 @@
-var mnemonic = "index cactus install clown income silver task program plastic match tide dove";
+var mnemonic = "erosion section mirror screen satisfy suffer snap script leisure detail squirrel page";

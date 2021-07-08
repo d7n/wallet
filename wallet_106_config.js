@@ -1,1 +1,1 @@
-var mnemonic = "adapt shaft topic injury stand minimum truth peace crime gentle club assume";
+var mnemonic = "bamboo unable slender seed acid empty mind cannon inquiry output neither review";

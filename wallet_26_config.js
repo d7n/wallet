@@ -1,1 +1,1 @@
-var mnemonic = "dinner lawn grid chimney canal response rude yellow swift much track october";
+var mnemonic = "trash always section deer tribe purpose drama prize diary seat motion immune";

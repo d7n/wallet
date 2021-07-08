@@ -1,1 +1,1 @@
-var mnemonic = "tree pipe sure cover early face alone grid cry boring pond approve";
+var mnemonic = "senior scheme excite observe immune act frame ride myself choice ethics title";

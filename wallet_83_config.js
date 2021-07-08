@@ -1,1 +1,1 @@
-var mnemonic = "knock voice invest bridge solve cement napkin bring keen busy say sea";
+var mnemonic = "echo finish embark earn sense round pull swarm try domain duck cherry";

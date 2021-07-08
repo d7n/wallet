@@ -1,1 +1,1 @@
-var mnemonic = "visa jeans reveal baby theory option alone boy bulb modify remind brown";
+var mnemonic = "twice curve mouse artwork stairs drill wait trial place ugly aspect evoke";

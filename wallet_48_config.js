@@ -1,1 +1,1 @@
-var mnemonic = "wise treat kit edit lady lend oblige divorce install play inspire entire";
+var mnemonic = "error color horse arrow dizzy fitness wrap another town cruel help erupt";

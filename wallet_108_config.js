@@ -1,1 +1,1 @@
-var mnemonic = "drink three test picnic emotion calm lend worth alert target belt material";
+var mnemonic = "elbow judge all bless health area decline reason young enrich click resource";

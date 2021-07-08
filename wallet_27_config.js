@@ -1,1 +1,1 @@
-var mnemonic = "claw subway fresh prison doll deal income range canal pole lazy sense";
+var mnemonic = "bacon brush exit chase blame canoe diamond parade silly blind toe cradle";

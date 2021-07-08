@@ -1,1 +1,1 @@
-var mnemonic = "bulb hammer poem soft puppy coach pulp settle notice label pudding kit";
+var mnemonic = "hat step laundry speak manual find mobile lonely runway position payment exchange";

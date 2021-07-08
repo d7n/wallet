@@ -1,1 +1,1 @@
-var mnemonic = "tower work example burden print eternal sphere bright pass detect seed fun";
+var mnemonic = "coil weather canoe write aunt picnic iron flat little heavy outdoor history";

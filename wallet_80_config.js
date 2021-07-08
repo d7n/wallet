@@ -1,1 +1,1 @@
-var mnemonic = "menu shy focus alarm shop decorate next ask together antenna service verb";
+var mnemonic = "acoustic solar chef derive laptop blanket lucky myself atom ghost reflect emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate carry manual dinner sock barely mouse rain record post fuel rebuild";
+var mnemonic = "dune captain disorder egg card supply next mistake congress mixture file battle";

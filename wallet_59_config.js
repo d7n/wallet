@@ -1,1 +1,1 @@
-var mnemonic = "ranch junk behind ride abandon use sponsor cloth family pet staff hair";
+var mnemonic = "visual dolphin fame asset cheese spoon solid student barely assist gun enact";

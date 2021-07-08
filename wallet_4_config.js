@@ -1,1 +1,1 @@
-var mnemonic = "shock fall year patrol mule process pioneer toss suffer horn ship old";
+var mnemonic = "exist arch pen human rough forward flower lesson float intact doll display";

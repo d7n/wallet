@@ -1,1 +1,1 @@
-var mnemonic = "indicate scale shuffle peasant village way outside arena nurse sight angry rib";
+var mnemonic = "carbon salon satoshi echo novel since rather hint remind foot aerobic bunker";

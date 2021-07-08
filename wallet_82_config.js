@@ -1,1 +1,1 @@
-var mnemonic = "huge hand penalty small warm security wheel wire logic romance apple movie";
+var mnemonic = "verify buyer tackle fitness best will aware floor tragic design galaxy teach";

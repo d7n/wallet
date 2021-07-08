@@ -1,1 +1,1 @@
-var mnemonic = "theme assume stereo cliff churn cotton wild install fence labor winter fetch";
+var mnemonic = "denial lounge baby motion heart panel mule sustain sunset walk average man";

@@ -1,1 +1,1 @@
-var mnemonic = "result maximum bag egg hospital load lock chair assault soldier rural clown";
+var mnemonic = "castle ribbon steel tortoise bag blouse entry budget tuna have sight gym";

@@ -1,1 +1,1 @@
-var mnemonic = "code merge peanut cute giant identify slim dust notable frog ugly radar";
+var mnemonic = "drum sing double own drift chimney old rebel strategy zoo quality case";

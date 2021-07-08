@@ -1,1 +1,1 @@
-var mnemonic = "torch penalty people match cloud smile shadow slow leave soda acquire scorpion";
+var mnemonic = "pledge ordinary fortune aware gadget junior champion panic opinion discover pencil enhance";

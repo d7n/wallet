@@ -1,1 +1,1 @@
-var mnemonic = "expose boss velvet earth dolphin asthma cable scare sniff update fatal excite";
+var mnemonic = "tiger plug soon famous minute nominee tool snap kit crew tortoise edit";

@@ -1,1 +1,1 @@
-var mnemonic = "spare change energy indoor upon mouse concert swift ill harsh slam sport";
+var mnemonic = "myth focus grape now merit still jar vintage depth setup glimpse swallow";

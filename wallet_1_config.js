@@ -1,1 +1,1 @@
-var mnemonic = "funny brave actor inner dentist tube gaze lunch lift hero please mail";
+var mnemonic = "ring page heart acid solution hard olympic rifle foil mesh hollow protect";

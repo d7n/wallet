@@ -1,1 +1,1 @@
-var mnemonic = "cupboard phone river submit since text leave only party trim month burst";
+var mnemonic = "mimic senior armed ensure april demand amount under treat vanish luxury can";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich make turn dad collect metal obscure among split fiber extend helmet";
+var mnemonic = "copy close rate ribbon truck item exit food exact magnet busy movie";

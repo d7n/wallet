@@ -1,1 +1,1 @@
-var mnemonic = "stomach rule hazard awesome decline lamp slow hint ahead file alter test";
+var mnemonic = "icon input dawn draw clerk waste hollow fury slab exit lyrics spare";

@@ -1,1 +1,1 @@
-var mnemonic = "apple magnet want high sock figure dog vintage remain group rival sting";
+var mnemonic = "replace fitness federal crane topple shiver beach beyond anchor near spy annual";

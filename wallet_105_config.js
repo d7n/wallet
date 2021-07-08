@@ -1,1 +1,1 @@
-var mnemonic = "room lonely badge list art inside kid nurse bright roof endorse verb";
+var mnemonic = "multiply spare chaos snap destroy gate head apart proof deal turtle myth";

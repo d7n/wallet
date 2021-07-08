@@ -1,1 +1,1 @@
-var mnemonic = "fall steel swing pudding rely planet broom breeze gauge tray awesome valley";
+var mnemonic = "venture road rack salad fly route tattoo all raw gift grit narrow";

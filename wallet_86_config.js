@@ -1,1 +1,1 @@
-var mnemonic = "setup heart truth recipe clay mountain mule popular super desk hybrid sketch";
+var mnemonic = "damp student jeans mother lock feel shiver hip trim car rubber obey";

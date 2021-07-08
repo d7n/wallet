@@ -1,1 +1,1 @@
-var mnemonic = "cushion essay oblige insect object great explain zero rate crack pilot drive";
+var mnemonic = "dragon crucial ensure reunion seven potato area eight text cup gadget spoon";

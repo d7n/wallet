@@ -1,1 +1,1 @@
-var mnemonic = "punch tonight royal teach stable bracket rice bulb frozen more half sauce";
+var mnemonic = "plug sketch whip bleak solar gorilla cake unhappy dragon gloom fatal uphold";

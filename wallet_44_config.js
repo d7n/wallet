@@ -1,1 +1,1 @@
-var mnemonic = "sudden unlock puzzle basket item luggage cost common target amused shine wave";
+var mnemonic = "measure timber witness brief crumble engage motor indicate plastic never unknown cry";

@@ -1,1 +1,1 @@
-var mnemonic = "short better nasty exact minute vendor exist cry vicious valid citizen ripple";
+var mnemonic = "insect now visual good canoe together escape swamp auto siege south identify";

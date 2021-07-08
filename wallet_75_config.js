@@ -1,1 +1,1 @@
-var mnemonic = "language capable live ignore swamp mango bench rebel blue same print expose";
+var mnemonic = "movie cheese impulse galaxy burst switch hole summer kiwi congress people zebra";

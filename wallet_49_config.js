@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hollow arena exclude glance cover execute tilt they visit gun suit";
+var mnemonic = "seek stuff swift tennis genre envelope ozone accuse risk slush enough ring";

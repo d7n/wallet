@@ -1,1 +1,1 @@
-var mnemonic = "funny inner half angle injury habit cloth shrimp market exotic verify anchor";
+var mnemonic = "can wife lake leopard morning repeat stamp mansion acquire hedgehog friend mesh";

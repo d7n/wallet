@@ -1,1 +1,1 @@
-var mnemonic = "infant spin shrimp cheese two goat equip gorilla pull figure apple viable";
+var mnemonic = "custom dutch weather oppose mimic gown vault enact excuse crush hospital penalty";

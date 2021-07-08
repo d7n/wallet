@@ -1,1 +1,1 @@
-var mnemonic = "flight good pluck hurry team current truck desk ocean game train lucky";
+var mnemonic = "benefit trophy peanut joke exclude citizen affair boss bullet insect coil conduct";

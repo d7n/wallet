@@ -1,1 +1,1 @@
-var mnemonic = "diagram eyebrow destroy adapt wrestle proof energy glance birth alarm isolate wreck";
+var mnemonic = "vibrant please culture beauty ancient toe like voice setup shoulder pull aware";

@@ -1,1 +1,1 @@
-var mnemonic = "income receive emerge dish cruise pen boil balcony yard polar ketchup topple";
+var mnemonic = "cool venue tooth rigid job large enable paper kitchen angle equip canoe";

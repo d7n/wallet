@@ -1,1 +1,1 @@
-var mnemonic = "cruise table amused joy captain dad artefact hybrid canal material differ upon";
+var mnemonic = "scheme that endorse spider series blossom danger hover become wear laptop boat";

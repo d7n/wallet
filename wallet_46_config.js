@@ -1,1 +1,1 @@
-var mnemonic = "organ fuel forum leg clarify rather return waste nominee lyrics slice fury";
+var mnemonic = "youth cruel gap penalty monkey essence observe duck grow embrace polar roast";

@@ -1,1 +1,1 @@
-var mnemonic = "behind luxury piano olympic forward lonely debate obvious cotton truth gas spot";
+var mnemonic = "hold stand tiny group sing joy ripple silk nasty letter sadness cement";
