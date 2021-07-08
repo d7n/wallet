@@ -1,1 +1,1 @@
-var mnemonic = "approve gossip enable prepare fever mask sentence wear crush cake resist volcano";
+var mnemonic = "erase work sound blossom section kick onion lottery inherit retreat wrestle grain";

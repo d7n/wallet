@@ -1,1 +1,1 @@
-var mnemonic = "crisp awake exhibit maple soft aware grit judge chunk spatial pave feel";
+var mnemonic = "good section wing worth autumn blush core rifle scale soda strategy order";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom gadget define snack luggage alien faint amused east empower bind cat";
+var mnemonic = "skill promote horn million shift bean west soon tenant affair pond kiwi";

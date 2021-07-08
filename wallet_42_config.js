@@ -1,1 +1,1 @@
-var mnemonic = "olive answer meat deal since relief ship weather better thrive thank omit";
+var mnemonic = "base minor glare decline victory token joy cross stable close music fatal";

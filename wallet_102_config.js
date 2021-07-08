@@ -1,1 +1,1 @@
-var mnemonic = "cabbage peasant equal action alone layer noble tray twenty world neck private";
+var mnemonic = "yard hurry alarm thank retire seat imitate noise embody night witness radar";

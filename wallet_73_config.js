@@ -1,1 +1,1 @@
-var mnemonic = "guard media own profit task warfare pistol festival picnic tail curtain liberty";
+var mnemonic = "furnace sort logic exit spy plunge major flat lake social weasel vehicle";

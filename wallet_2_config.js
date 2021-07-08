@@ -1,1 +1,1 @@
-var mnemonic = "gloom mirror mosquito near please fabric strong only estate merry sweet glow";
+var mnemonic = "fatigue budget sad crush vivid daughter away recipe final sound symbol ordinary";

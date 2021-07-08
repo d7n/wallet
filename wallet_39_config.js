@@ -1,1 +1,1 @@
-var mnemonic = "payment disagree explain butter three ordinary laugh wave false advice baby naive";
+var mnemonic = "scare truck patrol kangaroo uncle obey canal menu bird mail humble popular";

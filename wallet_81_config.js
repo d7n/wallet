@@ -1,1 +1,1 @@
-var mnemonic = "skull runway barrel spoil armed fetch silent among umbrella crush usual flight";
+var mnemonic = "pass filter track ozone stadium typical soda identify pair family history company";

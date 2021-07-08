@@ -1,1 +1,1 @@
-var mnemonic = "bacon best tomorrow rice before basic habit mixture artist addict wonder demand";
+var mnemonic = "napkin wisdom project okay travel museum congress engine shy ribbon prevent image";

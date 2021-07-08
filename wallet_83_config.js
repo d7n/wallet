@@ -1,1 +1,1 @@
-var mnemonic = "license base theme embody divorce resist sort document school treat ten vague";
+var mnemonic = "desk lesson good together cause can myself never sudden pumpkin cup cabbage";

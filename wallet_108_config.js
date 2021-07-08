@@ -1,1 +1,1 @@
-var mnemonic = "dish three common kit obtain code when horn trumpet smooth purse foot";
+var mnemonic = "grow hurt radar gorilla february snack merry talent eager lens early pepper";

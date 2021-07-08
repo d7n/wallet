@@ -1,1 +1,1 @@
-var mnemonic = "scatter health upgrade flame rude pyramid know enough biology expect tortoise coin";
+var mnemonic = "dinosaur credit gas use divert pistol flower bamboo carry shed tackle art";

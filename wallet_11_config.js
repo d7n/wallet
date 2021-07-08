@@ -1,1 +1,1 @@
-var mnemonic = "number token traffic deputy dove youth moral fame push found reopen pepper";
+var mnemonic = "giraffe jaguar easy bleak clip return tell truck supreme glide answer sheriff";

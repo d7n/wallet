@@ -1,1 +1,1 @@
-var mnemonic = "document monitor moment alarm catalog flash sword tunnel fade scissors expect dance";
+var mnemonic = "south talent exit element digital romance episode news demand range because permit";

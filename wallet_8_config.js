@@ -1,1 +1,1 @@
-var mnemonic = "eagle buyer bulk mandate hurry uncover naive harvest argue sword monkey blanket";
+var mnemonic = "spoon can exile lecture wall easily humble swim snack lens reduce alter";

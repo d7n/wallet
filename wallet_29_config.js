@@ -1,1 +1,1 @@
-var mnemonic = "various say crunch wedding resist glad stock napkin betray ladder old plastic";
+var mnemonic = "will world music suit mind fever sheriff shop favorite venture off glare";

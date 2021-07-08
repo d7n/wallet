@@ -1,1 +1,1 @@
-var mnemonic = "hero lecture swarm scene ill regular capable legend wolf erosion place fragile";
+var mnemonic = "crane alarm gas circle humor false blame enforce taste fog mean final";

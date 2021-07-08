@@ -1,1 +1,1 @@
-var mnemonic = "isolate miracle belt seek foot approve flash walk unit lemon will tissue";
+var mnemonic = "shrug trouble chase impulse comfort wood refuse harbor wage lazy volcano room";

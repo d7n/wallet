@@ -1,1 +1,1 @@
-var mnemonic = "build manage index saddle pluck any obtain brisk sea caught stay anxiety";
+var mnemonic = "develop chicken leaf sentence light empty type fury elbow clever anger annual";

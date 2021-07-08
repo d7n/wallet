@@ -1,1 +1,1 @@
-var mnemonic = "few erupt remain viable sign awesome trick choose useful poet film obvious";
+var mnemonic = "actual camera defy amount screen brief bleak mother swallow real card heavy";

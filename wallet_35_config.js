@@ -1,1 +1,1 @@
-var mnemonic = "maze pair seed risk permit paper local chair decline interest popular celery";
+var mnemonic = "oil put rice matrix science recipe napkin remind aware simple hurt word";

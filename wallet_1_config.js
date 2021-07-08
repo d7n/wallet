@@ -1,1 +1,1 @@
-var mnemonic = "bike minimum bottom bridge change buffalo clump raw rug pass opera south";
+var mnemonic = "essay arrange like glad grab powder steak robot endorse door eternal lemon";

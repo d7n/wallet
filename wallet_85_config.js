@@ -1,1 +1,1 @@
-var mnemonic = "dynamic lunch verb detail camera train say rice analyst gorilla scorpion quote";
+var mnemonic = "melt right traffic adjust review guilt sell surprise wheat way upset upper";

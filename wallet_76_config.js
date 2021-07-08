@@ -1,1 +1,1 @@
-var mnemonic = "deposit relief rice range actor run speed together excite keen foil focus";
+var mnemonic = "floor aspect panic noise rookie option employ brush defy normal option kit";

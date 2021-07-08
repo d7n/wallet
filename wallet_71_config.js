@@ -1,1 +1,1 @@
-var mnemonic = "gift coconut conduct result throw elevator ostrich hurdle subway noodle minute adjust";
+var mnemonic = "federal nurse energy patch regret hint dry dune lend museum keen venue";

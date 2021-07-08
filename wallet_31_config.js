@@ -1,1 +1,1 @@
-var mnemonic = "warfare series soup liquid minor pond derive sketch risk salad teach feel";
+var mnemonic = "valley text street atom reduce expose wagon lazy problem gossip gift vapor";

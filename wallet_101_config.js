@@ -1,1 +1,1 @@
-var mnemonic = "act resource file maze able mosquito census hurt crisp income climb soft";
+var mnemonic = "case jewel number oven vacant idle obscure vendor tone pizza security bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey around subway corn tube purse pair where hire antenna marriage spend";
+var mnemonic = "direct essence coyote party beauty pluck paper blade onion embody oven snake";

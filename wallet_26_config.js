@@ -1,1 +1,1 @@
-var mnemonic = "post envelope attend cross offer crunch wheat acid worry pond swing afraid";
+var mnemonic = "shift true over toddler private sea nice fever mix crew snow sister";

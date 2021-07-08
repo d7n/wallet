@@ -1,1 +1,1 @@
-var mnemonic = "leaf copper chase picnic alarm apart fault rain jazz combine another soul";
+var mnemonic = "outer improve gym satoshi disagree own scale layer discover polar remain rapid";

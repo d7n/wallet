@@ -1,1 +1,1 @@
-var mnemonic = "avoid welcome kit fabric under bar fame coin manage inquiry diary machine";
+var mnemonic = "close eyebrow key drop assault tiger almost certain make city mosquito level";

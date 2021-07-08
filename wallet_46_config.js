@@ -1,1 +1,1 @@
-var mnemonic = "used asthma disease account page occur jacket forest venture orient guess rack";
+var mnemonic = "fix casino wrist blossom ahead snap cram thunder mistake amateur typical like";

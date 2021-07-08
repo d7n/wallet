@@ -1,1 +1,1 @@
-var mnemonic = "erode become baby pudding glimpse bottom success pause half mosquito tree moment";
+var mnemonic = "weasel garlic morning curve venture gather merge mistake job latin exhibit burden";

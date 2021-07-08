@@ -1,1 +1,1 @@
-var mnemonic = "bind gorilla pistol seminar tackle chase poet era ceiling glow mushroom possible";
+var mnemonic = "casual grace skin sniff beyond elegant forward stumble push educate bike arctic";

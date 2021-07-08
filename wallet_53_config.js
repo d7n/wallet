@@ -1,1 +1,1 @@
-var mnemonic = "pretty digital invest obvious antenna receive patient damp feel glove capital dismiss";
+var mnemonic = "local dignity school offer romance foster water strategy cinnamon hover where coral";

@@ -1,1 +1,1 @@
-var mnemonic = "globe stool neck easily humor century intact match legal segment sort often";
+var mnemonic = "leopard mercy rapid dance plug shield announce labor toddler era excuse genuine";

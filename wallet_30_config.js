@@ -1,1 +1,1 @@
-var mnemonic = "salute toss rib metal match solid depart elite menu elbow nest long";
+var mnemonic = "desert lawn rail must prison soccer supreme disagree image bean puppy spoil";

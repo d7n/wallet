@@ -1,1 +1,1 @@
-var mnemonic = "juice manual chuckle click pull exotic kind surface deputy shiver veteran surprise";
+var mnemonic = "verb solution student hold slight wine paddle conduct cable marine random stuff";

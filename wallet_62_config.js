@@ -1,1 +1,1 @@
-var mnemonic = "paper wing sock ripple setup blur bacon cannon sausage skin hamster forum";
+var mnemonic = "slide name mandate napkin black bone cram tortoise remember laptop pulp remind";

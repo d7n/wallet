@@ -1,1 +1,1 @@
-var mnemonic = "toilet novel car sponsor alone disease syrup increase oppose afraid claw harsh";
+var mnemonic = "together relief various elder embark subway veteran divide neck gentle begin spot";

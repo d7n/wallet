@@ -1,1 +1,1 @@
-var mnemonic = "dragon click veteran memory audit album sense planet picnic daring lunch misery";
+var mnemonic = "subway state loop giant praise twenty grant silk increase sadness enter depart";

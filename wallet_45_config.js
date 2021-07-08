@@ -1,1 +1,1 @@
-var mnemonic = "inform disagree private shrimp enter gesture primary decorate nut program come maid";
+var mnemonic = "outdoor ski invest debate camp diesel pretty grocery film visual mirror birth";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle kitchen onion mango genuine melody copper buyer problem already promote immune";
+var mnemonic = "memory enlist boil spray sea baby message demise perfect few monkey gallery";

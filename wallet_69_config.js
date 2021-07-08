@@ -1,1 +1,1 @@
-var mnemonic = "journey table alpha sword loyal into vapor price snack isolate become oyster";
+var mnemonic = "kangaroo motor dilemma federal that satisfy day weather program author gaze tooth";

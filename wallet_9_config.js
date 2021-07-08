@@ -1,1 +1,1 @@
-var mnemonic = "weekend pitch morning inquiry advice country festival usual culture split main glory";
+var mnemonic = "way ivory oven engage moral recycle subject reduce size wild noble inmate";

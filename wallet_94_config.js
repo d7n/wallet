@@ -1,1 +1,1 @@
-var mnemonic = "door crane any adult rack fly sort couch field smoke embrace river";
+var mnemonic = "oven seek mule idea poet fabric hood universe small derive crowd vague";

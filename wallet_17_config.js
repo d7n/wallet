@@ -1,1 +1,1 @@
-var mnemonic = "street gift embody alpha supply label myself artist estate movie float snack";
+var mnemonic = "usage science address south shoulder bike dial early proud gravity top chair";

@@ -1,1 +1,1 @@
-var mnemonic = "armor chest garlic dose same suspect print report talent wreck ritual door";
+var mnemonic = "acquire border organ swap element crack gorilla brown into type royal more";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans fall course annual autumn try grow kiwi worth love cat mosquito";
+var mnemonic = "hospital crazy nice slender vast naive citizen screen insect day light creek";

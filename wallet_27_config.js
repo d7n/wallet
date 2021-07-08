@@ -1,1 +1,1 @@
-var mnemonic = "leaf glimpse chuckle health useful combine earth tone execute stem tower minimum";
+var mnemonic = "maple puppy twin donate ski weather shed warm layer genuine update hello";

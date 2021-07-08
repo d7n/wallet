@@ -1,1 +1,1 @@
-var mnemonic = "round captain throw best blame bracket recall tape opera bunker venture over";
+var mnemonic = "sphere despair level fitness setup beef lonely embrace nut injury access real";

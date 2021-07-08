@@ -1,1 +1,1 @@
-var mnemonic = "spoon unfold provide extend develop drastic patch clown unusual move quit transfer";
+var mnemonic = "valve head parent victory move simple spatial craft bone drive call tip";

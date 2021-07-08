@@ -1,1 +1,1 @@
-var mnemonic = "thrive know slice express spoil popular tree vast ostrich bird head science";
+var mnemonic = "film blast struggle bridge possible distance endless expect erosion tuna basket sketch";

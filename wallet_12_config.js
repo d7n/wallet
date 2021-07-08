@@ -1,1 +1,1 @@
-var mnemonic = "border two drastic soccer stairs kitten cactus staff tomorrow number school lava";
+var mnemonic = "dose smile poem essence crowd truth review motion banner situate certain use";

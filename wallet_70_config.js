@@ -1,1 +1,1 @@
-var mnemonic = "uphold dwarf scene keen fire large simple tail guilt hazard glass walk";
+var mnemonic = "pact angle crack stool trumpet uncover water talent ozone shed amateur cycle";

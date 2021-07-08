@@ -1,1 +1,1 @@
-var mnemonic = "south can gallery main rude taste father heart prison glow hunt radar";
+var mnemonic = "ecology afford only situate era must enough such repeat olympic million assume";

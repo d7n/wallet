@@ -1,1 +1,1 @@
-var mnemonic = "belt future song impulse inject oblige twenty skill drip spare leisure giraffe";
+var mnemonic = "reopen pear drink want rent great caution canvas zero mesh science spot";

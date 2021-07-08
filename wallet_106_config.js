@@ -1,1 +1,1 @@
-var mnemonic = "switch element humble truck inflict flower slab tumble curtain baby earth twenty";
+var mnemonic = "main assume talent brisk sweet ribbon impact code route picnic finish robust";

@@ -1,1 +1,1 @@
-var mnemonic = "urban attack destroy pair barely swarm sniff kite stool exit sword weapon";
+var mnemonic = "friend spare faint bubble position believe scout sleep occur mass craft slogan";

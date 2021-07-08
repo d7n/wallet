@@ -1,1 +1,1 @@
-var mnemonic = "uphold index brisk kiss omit orbit license long tonight ask arctic oxygen";
+var mnemonic = "anchor mesh search very device ladder describe library idea decline spend swing";

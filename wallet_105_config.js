@@ -1,1 +1,1 @@
-var mnemonic = "mind manage usual party monitor kiwi rain cloth fire feature orient blouse";
+var mnemonic = "barrel melody pole remind visa dignity horror regret priority among cave toward";

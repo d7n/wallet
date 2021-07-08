@@ -1,1 +1,1 @@
-var mnemonic = "weasel timber guilt pepper bamboo fabric leave name depend catch opera code";
+var mnemonic = "unfold raw assume expand model wagon depth nice hire buzz bamboo liar";

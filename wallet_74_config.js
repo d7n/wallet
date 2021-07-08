@@ -1,1 +1,1 @@
-var mnemonic = "alarm pioneer diet inherit nose air pretty primary sausage fall bench snake";
+var mnemonic = "ensure marine scissors dwarf gold path glad purity lion patch paper lecture";

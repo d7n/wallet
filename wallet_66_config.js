@@ -1,1 +1,1 @@
-var mnemonic = "girl ranch bid weapon abandon vibrant bus young guard copper veteran fabric";
+var mnemonic = "possible olympic human goose able surprise govern latin wing virus busy address";

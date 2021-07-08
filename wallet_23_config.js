@@ -1,1 +1,1 @@
-var mnemonic = "practice adjust oil trust sponsor main frozen rent approve morning coral smoke";
+var mnemonic = "predict during brother need tail reason film media bitter purity vessel settle";

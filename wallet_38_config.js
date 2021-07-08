@@ -1,1 +1,1 @@
-var mnemonic = "mobile tongue because entire more guitar razor tube company stereo tank miss";
+var mnemonic = "example turkey fade conduct door claim sting humble debate brisk fuel else";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion case just canvas rigid wage pet genuine alter admit emotion exit";
+var mnemonic = "clump better burger boy feature ensure patient second hobby marble message unable";

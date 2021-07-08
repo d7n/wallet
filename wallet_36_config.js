@@ -1,1 +1,1 @@
-var mnemonic = "theme marble bright summer ridge bitter quality life script mixed beyond slam";
+var mnemonic = "vote salon lottery hunt ahead fun vendor glare network into absorb news";

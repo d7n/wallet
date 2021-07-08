@@ -1,1 +1,1 @@
-var mnemonic = "govern emotion utility slice abuse void catalog cry pitch motion oblige breeze";
+var mnemonic = "diet kit forward use dolphin letter latin february soap error romance enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern vehicle roof glare legend vanish grid craft rug latin hard happy";
+var mnemonic = "child isolate bind panic flower side bar slam rain feel endorse paddle";

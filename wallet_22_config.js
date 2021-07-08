@@ -1,1 +1,1 @@
-var mnemonic = "census reform current lottery tip best chicken build jungle soon narrow tomorrow";
+var mnemonic = "vanish always sight sad garlic surface fit marble lottery ridge inflict dutch";

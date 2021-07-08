@@ -1,1 +1,1 @@
-var mnemonic = "inner trick excess jaguar rent skill castle hero ethics enrich tunnel misery";
+var mnemonic = "robust stick biology embody success syrup rent file find cradle until wave";

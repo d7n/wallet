@@ -1,1 +1,1 @@
-var mnemonic = "learn announce uncle race blast laugh cabbage spray edit stool kind pumpkin";
+var mnemonic = "survey pear cover west dentist train april album rival ugly pretty educate";

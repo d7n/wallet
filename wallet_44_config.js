@@ -1,1 +1,1 @@
-var mnemonic = "thrive bulk foam rocket tide celery raccoon treat excess vague limit motor";
+var mnemonic = "shoe crowd extra neck feature life limit design into emotion cabin timber";

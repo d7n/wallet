@@ -1,1 +1,1 @@
-var mnemonic = "awful change edge radio umbrella alone lens wage tooth frost ecology nasty";
+var mnemonic = "sting veteran also supreme crop venue skirt zoo soda match strategy rich";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber salon trash cinnamon leg project layer crush approve spirit eagle join";
+var mnemonic = "clever into domain diamond ordinary spend fly swear client still certain gym";

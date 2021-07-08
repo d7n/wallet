@@ -1,1 +1,1 @@
-var mnemonic = "galaxy prize around great oblige dynamic idle doctor pen hint kitten rally";
+var mnemonic = "patient escape rotate novel core goat grow twice lend mansion husband west";

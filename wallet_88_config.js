@@ -1,1 +1,1 @@
-var mnemonic = "mouse action hawk toe tape potato tobacco quote manual hurdle never rather";
+var mnemonic = "lumber protect priority wrong surround refuse radio erupt hungry skill chef immune";

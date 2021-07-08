@@ -1,1 +1,1 @@
-var mnemonic = "flee trash prefer body pottery ring doll patient spare trigger skill reopen";
+var mnemonic = "round deputy such loan position risk lawsuit absurd type enrich whisper lawsuit";

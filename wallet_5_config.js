@@ -1,1 +1,1 @@
-var mnemonic = "rural ostrich flock gown gorilla inject method chat build carry bargain rose";
+var mnemonic = "nature brother fold sister razor garage youth unfold tank push milk cart";

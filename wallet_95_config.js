@@ -1,1 +1,1 @@
-var mnemonic = "mirror grass source famous paddle rule casino swallow motor practice clutch climb";
+var mnemonic = "effort crater funny cheap kind hungry nuclear plunge tip episode book check";

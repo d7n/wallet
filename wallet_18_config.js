@@ -1,1 +1,1 @@
-var mnemonic = "casino order crisp odor awake curtain note segment main hunt boring hope";
+var mnemonic = "hawk pledge innocent exclude enhance never will type spot prize require funny";

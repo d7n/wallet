@@ -1,1 +1,1 @@
-var mnemonic = "large retire stumble manage include aerobic season bundle chat walnut grid retire";
+var mnemonic = "patch because liberty rotate drill jaguar earth visit boost name energy pair";

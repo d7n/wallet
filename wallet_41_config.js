@@ -1,1 +1,1 @@
-var mnemonic = "major inherit toy ancient elephant ice mammal awake will ritual bring price";
+var mnemonic = "bomb mother ability point lift nominee bitter aim general combine rib glory";

@@ -1,1 +1,1 @@
-var mnemonic = "blast divide banner such liar finish side uncover primary repair still rough";
+var mnemonic = "negative wild lab dragon penalty bunker sphere winter vapor color among wedding";

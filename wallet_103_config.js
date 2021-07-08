@@ -1,1 +1,1 @@
-var mnemonic = "cross bulk taxi before decrease dawn square egg repeat own disorder toilet";
+var mnemonic = "three error dial coach always absorb ability quarter race fan fashion butter";

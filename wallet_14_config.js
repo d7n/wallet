@@ -1,1 +1,1 @@
-var mnemonic = "okay learn virus round end under rubber genuine guard banner bargain wagon";
+var mnemonic = "scale left inform turn subject peace solar sustain dizzy hair winner amazing";

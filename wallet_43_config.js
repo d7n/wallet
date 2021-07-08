@@ -1,1 +1,1 @@
-var mnemonic = "produce radio protect build stomach sunset act thrive wash someone reduce cancel";
+var mnemonic = "time frost inhale diary wall riot because essay bridge grit slice typical";
