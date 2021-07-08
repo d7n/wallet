@@ -1,1 +1,1 @@
-var mnemonic = "chapter comic segment reject shock brand vicious save swarm enact kick save";
+var mnemonic = "verify bid march craft apart coral world lonely napkin fitness elevator reject";

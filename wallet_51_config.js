@@ -1,1 +1,1 @@
-var mnemonic = "omit shrug fee awful grit height small arch mercy penalty goat rival";
+var mnemonic = "shove pink domain split spatial seven trend wink gasp weasel hand finish";

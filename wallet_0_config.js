@@ -1,1 +1,1 @@
-var mnemonic = "table cover shuffle above clump dad heavy remind object traffic behave faith";
+var mnemonic = "cannon run surround suit dance annual vocal joy tool eternal silk glimpse";

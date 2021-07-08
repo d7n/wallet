@@ -1,1 +1,1 @@
-var mnemonic = "upon erupt dynamic abuse jazz crisp mimic stuff globe bulb include stick";
+var mnemonic = "razor casual sort pattern shock emotion release okay coffee pole blur razor";

@@ -1,1 +1,1 @@
-var mnemonic = "merit between hurry build pony school asthma banana advance crucial tower public";
+var mnemonic = "mix swap unaware flush what blossom rough notable short tape royal east";

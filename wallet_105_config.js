@@ -1,1 +1,1 @@
-var mnemonic = "dignity good hand fatigue attend purchase glory mutual obtain bus large glimpse";
+var mnemonic = "magic cause differ poverty velvet mass quiz forum lamp vintage pigeon dress";

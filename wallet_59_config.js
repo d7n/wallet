@@ -1,1 +1,1 @@
-var mnemonic = "suit enlist put grace raise else valid truth bronze goddess wage quality";
+var mnemonic = "junior attend brave layer above bargain know suspect broccoli become clutch option";

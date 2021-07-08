@@ -1,1 +1,1 @@
-var mnemonic = "army behind imitate clay brass unfair pizza avocado merge chat grunt electric";
+var mnemonic = "green aware news matter hurry easy produce tunnel ask afraid spread name";

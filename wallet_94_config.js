@@ -1,1 +1,1 @@
-var mnemonic = "ordinary relax steel basic phone village cost state produce tape run include";
+var mnemonic = "essence cup junk coffee case guard hood because prize head jazz mountain";

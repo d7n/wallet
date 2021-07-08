@@ -1,1 +1,1 @@
-var mnemonic = "sketch obscure observe spoil crime monster devote valve game crumble ahead boat";
+var mnemonic = "clap antique safe wide merge across lunch ostrich typical man ketchup decorate";

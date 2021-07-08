@@ -1,1 +1,1 @@
-var mnemonic = "security lamp security auction leopard surprise sting nuclear future curious crane absorb";
+var mnemonic = "awesome thing ceiling fresh athlete upgrade shy icon general gravity point tuition";

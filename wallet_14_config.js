@@ -1,1 +1,1 @@
-var mnemonic = "property risk witness orphan doll amateur cattle scatter pilot tunnel update erupt";
+var mnemonic = "glide also regret list steel vibrant wall nuclear this luxury sketch edit";

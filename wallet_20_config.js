@@ -1,1 +1,1 @@
-var mnemonic = "urban admit syrup whip reveal evil recall duck abstract cattle drip battle";
+var mnemonic = "front funny concert weasel produce pupil poem wing dream canyon inside combine";

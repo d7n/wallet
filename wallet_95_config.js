@@ -1,1 +1,1 @@
-var mnemonic = "leisure crush mammal prefer voice city eyebrow able base feel fancy possible";
+var mnemonic = "onion critic wall glow harbor wine image survey trip copy fish ring";

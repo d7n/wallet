@@ -1,1 +1,1 @@
-var mnemonic = "shed icon chase staff fury foot chalk also canyon early tuna innocent";
+var mnemonic = "fire install hub syrup popular spider divide suffer gold worth order solar";

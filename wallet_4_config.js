@@ -1,1 +1,1 @@
-var mnemonic = "shiver liar method invite rubber energy also cute east manual idea region";
+var mnemonic = "laugh choose obey lab tenant unusual income transfer output maximum address portion";

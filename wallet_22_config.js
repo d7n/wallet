@@ -1,1 +1,1 @@
-var mnemonic = "ocean mobile arena ready hold claw obtain bacon ask earth ankle atom";
+var mnemonic = "cash next success program marine grunt hover seven cube must travel super";

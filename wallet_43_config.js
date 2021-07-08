@@ -1,1 +1,1 @@
-var mnemonic = "juice rice isolate brush item foot cannon excite critic diamond invest flip";
+var mnemonic = "athlete globe process memory ride sense age section addict half chimney charge";

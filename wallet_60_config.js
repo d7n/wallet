@@ -1,1 +1,1 @@
-var mnemonic = "female connect believe crush include music donate fashion update check treat hood";
+var mnemonic = "face pigeon coral town width canoe draft vacuum obtain peace future multiply";

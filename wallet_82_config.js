@@ -1,1 +1,1 @@
-var mnemonic = "tired sudden feature neck expect paddle sniff treat curve seat dial offer";
+var mnemonic = "toilet subject elegant similar frown release wrap mercy gun idea differ angry";

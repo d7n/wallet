@@ -1,1 +1,1 @@
-var mnemonic = "bar worth sense rack outer slender photo guard poverty loyal live couple";
+var mnemonic = "group elevator page sell grunt merry degree indoor prefer upper decade puzzle";

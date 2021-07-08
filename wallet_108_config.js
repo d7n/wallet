@@ -1,1 +1,1 @@
-var mnemonic = "clerk dish when merry crane case kiss sight delay solid open weird";
+var mnemonic = "interest caution shoulder panic color tank estate estate welcome fantasy bar maid";

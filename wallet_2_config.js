@@ -1,1 +1,1 @@
-var mnemonic = "social argue absurd you oil drift recipe smoke volume problem trip bar";
+var mnemonic = "skirt accuse two ramp embody entire tired pride rival panther taste apple";

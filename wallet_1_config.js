@@ -1,1 +1,1 @@
-var mnemonic = "blouse mask two hair weapon casino smooth sunny dismiss praise beyond fringe";
+var mnemonic = "sport sauce become tone correct level despair mass tunnel material cheese donor";

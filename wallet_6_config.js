@@ -1,1 +1,1 @@
-var mnemonic = "athlete review typical desk retire system picnic city margin dry carbon blush";
+var mnemonic = "armor milk save mushroom live sail replace awake load toy tell dream";

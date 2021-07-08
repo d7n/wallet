@@ -1,1 +1,1 @@
-var mnemonic = "rebuild depend wedding nice habit hub relax today early sport before banana";
+var mnemonic = "leisure slab skull blind way file ticket object tower piano casual slight";

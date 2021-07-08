@@ -1,1 +1,1 @@
-var mnemonic = "congress bike mistake spare away use version merit field repeat reunion hole";
+var mnemonic = "ranch outer stairs valid pilot stock cheese host atom month grid legal";

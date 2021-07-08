@@ -1,1 +1,1 @@
-var mnemonic = "crack leaf dash butter split mind vault stock original amount boss lesson";
+var mnemonic = "prize doll hurdle usage gym snake elder warm cube draft damp betray";

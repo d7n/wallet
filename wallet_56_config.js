@@ -1,1 +1,1 @@
-var mnemonic = "consider wet bronze seek note sword venue maple swim bunker kite host";
+var mnemonic = "blush cable tip cost thumb vacuum spare grant various virus raccoon alpha";

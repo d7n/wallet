@@ -1,1 +1,1 @@
-var mnemonic = "leisure shop side burden twelve forest client that movie ritual fly filter";
+var mnemonic = "beef donkey situate mix ladder educate security eyebrow exile bag method found";

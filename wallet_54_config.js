@@ -1,1 +1,1 @@
-var mnemonic = "buddy scare finger tackle hold bus dial travel flower execute discover person";
+var mnemonic = "jacket gun shrug robust depth elite yellow figure move ripple palm vague";

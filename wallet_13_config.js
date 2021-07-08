@@ -1,1 +1,1 @@
-var mnemonic = "business gas delay network elbow strike giggle duck couch wonder opera delay";
+var mnemonic = "gas still venture protect scrap october laugh expand load account siren pattern";

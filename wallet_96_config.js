@@ -1,1 +1,1 @@
-var mnemonic = "vacant ethics easy employ arch gain quit magic ivory prefer charge inspire";
+var mnemonic = "guard ball picture menu kangaroo absorb input birth never solid number walnut";

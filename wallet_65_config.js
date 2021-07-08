@@ -1,1 +1,1 @@
-var mnemonic = "luxury hood jungle member wood judge fish during hen drip father input";
+var mnemonic = "point catalog lion midnight lemon enrich assist twice burden robust tongue settle";

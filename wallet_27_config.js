@@ -1,1 +1,1 @@
-var mnemonic = "vapor witness neutral estate bacon impact taste goddess cereal beach farm hire";
+var mnemonic = "ball pool bulk road large pond recycle small night occur slot kitchen";

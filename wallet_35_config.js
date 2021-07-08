@@ -1,1 +1,1 @@
-var mnemonic = "since bottom acid word develop cliff leaf coin wolf dad visual degree";
+var mnemonic = "flower snake champion village regular slush skirt cram used check almost similar";

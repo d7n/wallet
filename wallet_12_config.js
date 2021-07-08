@@ -1,1 +1,1 @@
-var mnemonic = "people spread dolphin uncover joke olive load erupt oil drill expect finger";
+var mnemonic = "poet hidden outdoor target craft sun return clever pulp claw industry public";

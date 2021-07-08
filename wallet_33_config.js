@@ -1,1 +1,1 @@
-var mnemonic = "burger expect junior valve panel unique ranch trim coral quick model toward";
+var mnemonic = "peanut father gossip couch ghost young enforce sudden leave issue glad never";

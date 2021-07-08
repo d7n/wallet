@@ -1,1 +1,1 @@
-var mnemonic = "giggle vocal tank pottery raw embrace abandon have unusual worry wear regret";
+var mnemonic = "milk equal tube poem magnet virus assault forward odor happy holiday rough";

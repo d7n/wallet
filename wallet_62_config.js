@@ -1,1 +1,1 @@
-var mnemonic = "forget flight garlic visa hour gallery crucial extra simple solid share skate";
+var mnemonic = "fuel fee hover canyon steak immune stable chimney sport toss bone slab";

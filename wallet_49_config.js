@@ -1,1 +1,1 @@
-var mnemonic = "divert hint among stadium matter frame bright tone adjust stay adapt hint";
+var mnemonic = "put portion bomb shine stem amused choice lawn brisk that math zebra";

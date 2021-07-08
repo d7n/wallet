@@ -1,1 +1,1 @@
-var mnemonic = "pluck boat clock real price early siege knife about wrestle labor employ";
+var mnemonic = "fringe identify royal feature roof blush crop agent story catalog evil arena";

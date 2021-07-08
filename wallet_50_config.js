@@ -1,1 +1,1 @@
-var mnemonic = "tone catch season method loop radio captain vessel reflect smoke flock found";
+var mnemonic = "ivory equip shuffle scan raccoon pilot celery coyote twist public thought display";

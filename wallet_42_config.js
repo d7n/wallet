@@ -1,1 +1,1 @@
-var mnemonic = "virus night erase illness powder strong romance together turkey dinner proud mammal";
+var mnemonic = "reduce legal until coast sustain beyond seek early worry solar merry ensure";

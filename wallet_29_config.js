@@ -1,1 +1,1 @@
-var mnemonic = "naive canoe there vicious sad please wool cabbage stay spare verify hurry";
+var mnemonic = "lawsuit fence will turtle index enable expect surprise stadium skate goose input";

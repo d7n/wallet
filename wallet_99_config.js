@@ -1,1 +1,1 @@
-var mnemonic = "reduce remove harbor decade earth hybrid symptom remind hawk school apart tackle";
+var mnemonic = "pattern decade sheriff use obscure anger energy absurd agent time broom mammal";

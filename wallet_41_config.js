@@ -1,1 +1,1 @@
-var mnemonic = "era use poverty elevator fork negative income coffee scheme chase path cluster";
+var mnemonic = "grain jaguar when goose immune athlete future decorate plastic genre example miracle";

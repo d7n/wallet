@@ -1,1 +1,1 @@
-var mnemonic = "elder actual common loop glare giraffe nothing consider soul sister climb season";
+var mnemonic = "fire outside hill garbage orient fortune expand talent length entire eyebrow wedding";

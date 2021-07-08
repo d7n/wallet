@@ -1,1 +1,1 @@
-var mnemonic = "maze guitar pig bitter attitude scrap topple west bird twist pencil midnight";
+var mnemonic = "express ready scissors during slot prize fan lock distance name assault uncover";

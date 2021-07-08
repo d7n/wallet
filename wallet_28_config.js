@@ -1,1 +1,1 @@
-var mnemonic = "enable spoil gesture coach sell route sunset among celery neck lunch remind";
+var mnemonic = "panther agree collect about kitten dawn tourist artwork author stock sport cat";

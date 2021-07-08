@@ -1,1 +1,1 @@
-var mnemonic = "alone helmet dwarf tide blouse agree torch dial chronic mind fix audit";
+var mnemonic = "cricket pill trust father elder volume hedgehog garage chuckle keep food wool";

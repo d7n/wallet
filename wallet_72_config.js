@@ -1,1 +1,1 @@
-var mnemonic = "clarify frequent immune aspect cradle final upgrade young angle jacket dawn pool";
+var mnemonic = "churn deny distance doll document clutch flash train there this dwarf region";

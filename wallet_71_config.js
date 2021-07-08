@@ -1,1 +1,1 @@
-var mnemonic = "spend ticket lake image cattle regret pigeon ocean rubber flush cry leaf";
+var mnemonic = "off devote sentence wine medal summer arctic man install luxury helmet quit";

@@ -1,1 +1,1 @@
-var mnemonic = "report stuff hungry cage throw choice planet measure bunker field dog hobby";
+var mnemonic = "stumble web cupboard idea hard proud fun cement consider must bamboo index";

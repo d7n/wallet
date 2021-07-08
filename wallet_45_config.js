@@ -1,1 +1,1 @@
-var mnemonic = "story hen melt tomorrow naive tag before tomato rocket illegal pilot ranch";
+var mnemonic = "year hospital garage chunk indoor double flash donkey term purchase develop length";

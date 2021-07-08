@@ -1,1 +1,1 @@
-var mnemonic = "ugly avoid door segment thing toward giant symbol ask dish describe ball";
+var mnemonic = "write powder digital define couch rotate patrol youth flame wife banner property";

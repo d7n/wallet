@@ -1,1 +1,1 @@
-var mnemonic = "approve genius devote quiz electric enlist tennis retire diet point gate grass";
+var mnemonic = "aware calm hire hunt then fiber elevator session unable lunar stage unhappy";

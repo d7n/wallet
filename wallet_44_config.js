@@ -1,1 +1,1 @@
-var mnemonic = "bullet off squirrel loyal cabin letter poem witness affair pumpkin electric dismiss";
+var mnemonic = "napkin aerobic across dance carbon rally coconut denial inject old noodle place";

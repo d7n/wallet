@@ -1,1 +1,1 @@
-var mnemonic = "flame unfair diamond sponsor chapter breeze alone forget define fortune expose oven";
+var mnemonic = "huge merry wish soldier awake rescue whisper crime squeeze once since father";

@@ -1,1 +1,1 @@
-var mnemonic = "copy tumble close coast security pencil flight dwarf gesture topple spread nephew";
+var mnemonic = "account add blame milk critic unveil suit spoon excuse rice expect worry";

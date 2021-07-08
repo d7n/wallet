@@ -1,1 +1,1 @@
-var mnemonic = "carpet curtain mammal turkey average lawsuit ill explain car response royal blade";
+var mnemonic = "insane eternal blame weekend sock olive notable toddler shine evil survey tree";

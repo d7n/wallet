@@ -1,1 +1,1 @@
-var mnemonic = "please million oblige fragile devote tooth cry truck place grocery girl boat";
+var mnemonic = "attract artist stamp quality convince visual torch skill number announce sustain sugar";

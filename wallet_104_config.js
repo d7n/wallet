@@ -1,1 +1,1 @@
-var mnemonic = "jeans air distance strike various survey marine shove vintage boss estate exhaust";
+var mnemonic = "neglect notice walk rich bird luxury stand hood step typical answer robot";

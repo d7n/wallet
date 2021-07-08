@@ -1,1 +1,1 @@
-var mnemonic = "like wisdom sure budget warm wool food sentence scheme empty flip badge";
+var mnemonic = "tribe oval wood book recipe sponsor subject valley season egg art also";

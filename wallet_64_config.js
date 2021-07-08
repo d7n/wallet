@@ -1,1 +1,1 @@
-var mnemonic = "obtain language awkward meat paddle pistol rhythm good brother zero repair worth";
+var mnemonic = "demise close depart palm lounge client index absurd good actor easily dizzy";

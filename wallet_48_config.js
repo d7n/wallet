@@ -1,1 +1,1 @@
-var mnemonic = "sudden usual regret such tackle marriage trim purpose employ planet sadness betray";
+var mnemonic = "want swift gadget creek attitude fun refuse flock post diet width slush";

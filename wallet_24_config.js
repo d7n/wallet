@@ -1,1 +1,1 @@
-var mnemonic = "illegal wood pizza lottery imitate little sword face fun swarm large rifle";
+var mnemonic = "stairs couch insane siren polar baby river awake steak twenty faculty boat";

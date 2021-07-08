@@ -1,1 +1,1 @@
-var mnemonic = "miss organ junk seminar broccoli web frame lesson salt cave sword join";
+var mnemonic = "apple canvas across possible inject fox disease birth luxury evidence load hundred";

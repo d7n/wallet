@@ -1,1 +1,1 @@
-var mnemonic = "caution blanket circle lamp bullet bulk reflect worry flight buzz arctic novel";
+var mnemonic = "south dentist axis blanket snow castle slogan swamp nerve grape plug heart";

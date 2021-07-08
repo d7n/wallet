@@ -1,1 +1,1 @@
-var mnemonic = "artefact office drill still boring knee mosquito happy order differ surge enable";
+var mnemonic = "typical fragile small income reason upon absorb soda edge stairs fat wasp";

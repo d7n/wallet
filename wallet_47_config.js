@@ -1,1 +1,1 @@
-var mnemonic = "danger autumn service property skill only discover question crane combine prison stable";
+var mnemonic = "luxury middle summer motion crisp alien casual permit similar glass butter deposit";

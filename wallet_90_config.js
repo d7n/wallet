@@ -1,1 +1,1 @@
-var mnemonic = "clown glow drip divorce oblige travel cover erode submit amount talent uniform";
+var mnemonic = "expect easily boy dial keep menu erosion grass grocery chicken any wise";

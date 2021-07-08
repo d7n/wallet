@@ -1,1 +1,1 @@
-var mnemonic = "meat cream great final pill increase tent jacket helmet seven topic laundry";
+var mnemonic = "concert girl spy sing fantasy thing mail violin island dad admit mouse";

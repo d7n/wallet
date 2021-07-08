@@ -1,1 +1,1 @@
-var mnemonic = "borrow feel liberty hidden corn travel hockey opinion praise raccoon palm grunt";
+var mnemonic = "menu soccer vessel tonight law place female hollow inflict cradle merit double";

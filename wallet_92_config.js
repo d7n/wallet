@@ -1,1 +1,1 @@
-var mnemonic = "subject black embrace mechanic tribe luggage mirror man work refuse boss visual";
+var mnemonic = "hammer cluster very buffalo treat ramp erase accident avocado solid armed field";

@@ -1,1 +1,1 @@
-var mnemonic = "cream token enlist shoe infant decrease spice soul rifle sun cancel found";
+var mnemonic = "acid owner duck banana mad celery add drama cruel regret bean swift";

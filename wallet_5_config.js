@@ -1,1 +1,1 @@
-var mnemonic = "grief token put six ill win wealth universe abstract dune finger fire";
+var mnemonic = "dove crime calm garbage question palace hover iron kiwi boost raven main";

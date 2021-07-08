@@ -1,1 +1,1 @@
-var mnemonic = "suspect because drum car girl wise faint involve tray noise aware recycle";
+var mnemonic = "section payment decline remind copy mouse such fiber burger simple vapor useful";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve adjust rather dynamic cage execute chaos digital always dance skill blood";
+var mnemonic = "cereal tribe toddler picnic differ degree enough student know diary payment exhibit";

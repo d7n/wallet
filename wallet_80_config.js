@@ -1,1 +1,1 @@
-var mnemonic = "suffer churn dinner staff gas boring adjust aisle glue addict tower dilemma";
+var mnemonic = "snake unique paper camp cool cricket feature lawsuit accident idea iron sausage";

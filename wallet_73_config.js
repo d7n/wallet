@@ -1,1 +1,1 @@
-var mnemonic = "story enemy aunt evil van sea avocado thunder bargain diet diesel avocado";
+var mnemonic = "render fossil stadium annual blind pet runway satoshi lyrics biology visual orchard";

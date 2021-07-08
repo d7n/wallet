@@ -1,1 +1,1 @@
-var mnemonic = "butter shove fix surface radar sugar pact consider age express digital open";
+var mnemonic = "figure coach spell twice ethics poem tobacco oak come timber tortoise middle";

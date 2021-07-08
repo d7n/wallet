@@ -1,1 +1,1 @@
-var mnemonic = "panel power swing winter express change okay mouse affair nerve toss rubber";
+var mnemonic = "hello danger banner squeeze motion tooth churn render audit fog nose item";

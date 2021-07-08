@@ -1,1 +1,1 @@
-var mnemonic = "finish once income vanish sure photo then coral series law glove season";
+var mnemonic = "critic mushroom assist pact pupil wife rude genius secret eyebrow pretty engine";

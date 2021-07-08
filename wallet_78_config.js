@@ -1,1 +1,1 @@
-var mnemonic = "appear ritual girl panic furnace tobacco click student office power gauge improve";
+var mnemonic = "surge fiction debate arrive empty match wet spike stuff tail stomach visual";

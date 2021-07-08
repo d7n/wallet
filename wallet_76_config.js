@@ -1,1 +1,1 @@
-var mnemonic = "priority catalog recall tower practice soldier expose young steak garage gaze advice";
+var mnemonic = "twelve quiz camera rural word velvet flush grant mammal glare immense dad";

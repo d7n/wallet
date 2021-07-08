@@ -1,1 +1,1 @@
-var mnemonic = "frost online negative hold immense mutual cook enjoy delay engine guilt arrow";
+var mnemonic = "picture laundry cruise document hover evolve sausage venue tooth ramp fantasy tired";

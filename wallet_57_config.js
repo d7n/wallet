@@ -1,1 +1,1 @@
-var mnemonic = "helmet ski tray long make rapid wet brass guitar violin scare volume";
+var mnemonic = "favorite lock upgrade ranch test search wing trophy balcony laptop balance train";

@@ -1,1 +1,1 @@
-var mnemonic = "damp diesel way fuel sadness tape nerve budget make spread tape erosion";
+var mnemonic = "damage ride depth desk protect prefer furnace glance zoo movie curtain puppy";

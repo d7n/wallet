@@ -1,1 +1,1 @@
-var mnemonic = "liquid now income slab corn seek party glove network hello robust forward";
+var mnemonic = "trigger volume giraffe input people inmate little carpet extend goddess question innocent";

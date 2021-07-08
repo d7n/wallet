@@ -1,1 +1,1 @@
-var mnemonic = "tribe bomb fat wreck vote supreme manage cloud leave brass clerk popular";
+var mnemonic = "casino truck fabric leopard twice salmon hurdle setup cage upset clog shy";
