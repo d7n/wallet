@@ -1,1 +1,1 @@
-var mnemonic = "phone master today equip ignore illness permit bomb achieve sniff render train";
+var mnemonic = "push hand tide summer recipe resource stomach rich model bottom awful tube";

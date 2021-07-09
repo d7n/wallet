@@ -1,1 +1,1 @@
-var mnemonic = "north blade increase field addict cause canvas include aim spawn ball bulb";
+var mnemonic = "runway drum fit diet retreat fame address master between tumble muscle absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "inform regular clog exile into truck risk visual day best type print";
+var mnemonic = "rug unusual problem arena absorb top pizza evil genuine harsh olympic easily";

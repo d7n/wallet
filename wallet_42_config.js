@@ -1,1 +1,1 @@
-var mnemonic = "service betray voice extend tragic tuna canyon chase shoot mad desk indicate";
+var mnemonic = "cereal crack pudding detail hint powder throw legend kind mistake waste lesson";

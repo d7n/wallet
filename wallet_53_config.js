@@ -1,1 +1,1 @@
-var mnemonic = "segment creek device minimum couple festival image left convince fame wish shift";
+var mnemonic = "family start mesh stomach fee civil stage sign finger oven marine small";

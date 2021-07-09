@@ -1,1 +1,1 @@
-var mnemonic = "tongue orient fancy rigid tail dwarf quarter guard trial skate reject eye";
+var mnemonic = "prepare thunder sight foster palm toe mango neutral fluid stool endorse real";

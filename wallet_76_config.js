@@ -1,1 +1,1 @@
-var mnemonic = "south snack motion share bright educate large open agree carry faint turtle";
+var mnemonic = "follow matter daring spin riot piano stumble result before arctic isolate inhale";

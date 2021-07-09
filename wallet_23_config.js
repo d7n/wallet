@@ -1,1 +1,1 @@
-var mnemonic = "safe tonight chef music danger smooth skirt dutch door wheel kit famous";
+var mnemonic = "match glove ring lock crazy either typical anger snap twelve donor unaware";

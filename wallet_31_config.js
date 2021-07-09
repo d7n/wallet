@@ -1,1 +1,1 @@
-var mnemonic = "delay rebel gap hawk alter device word metal what october divert reason";
+var mnemonic = "away tattoo economy cup valley ladder silk rookie voice report patrol gospel";

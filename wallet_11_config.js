@@ -1,1 +1,1 @@
-var mnemonic = "motion reflect exotic airport minute runway correct myself blind start able bounce";
+var mnemonic = "viable seed circle scatter swear song spider shadow cabin sphere buddy false";

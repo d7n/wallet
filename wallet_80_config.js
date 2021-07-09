@@ -1,1 +1,1 @@
-var mnemonic = "sick shiver paddle finish then course digital mechanic salon nature artefact victory";
+var mnemonic = "rule rate siren viable jaguar phrase tired country mixed hidden answer skate";

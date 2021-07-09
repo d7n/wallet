@@ -1,1 +1,1 @@
-var mnemonic = "base above code stay kiwi flush fetch such depart skill draft patrol";
+var mnemonic = "eagle charge blast lamp cradle mix peace basic claw network benefit april";

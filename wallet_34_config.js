@@ -1,1 +1,1 @@
-var mnemonic = "razor want leader candy foster air scrub velvet genuine eager skill hospital";
+var mnemonic = "select sun scene sudden smooth sea brush use buyer clay belt river";

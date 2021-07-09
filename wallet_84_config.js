@@ -1,1 +1,1 @@
-var mnemonic = "duck consider sister vivid nephew liquid tide hazard path success hospital unfold";
+var mnemonic = "child nice estate settle above narrow island sail high valve hospital steel";

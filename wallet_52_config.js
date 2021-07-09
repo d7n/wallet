@@ -1,1 +1,1 @@
-var mnemonic = "comfort alert artefact skull popular glory traffic soup swarm happy indicate head";
+var mnemonic = "together film broom section ugly forest mask pipe curtain option disorder tag";

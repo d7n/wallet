@@ -1,1 +1,1 @@
-var mnemonic = "mercy broom illegal visual accident attack uncover bacon inside cabbage donor maple";
+var mnemonic = "soldier sugar dial wasp since juice hotel obscure alpha alter bulb tank";

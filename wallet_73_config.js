@@ -1,1 +1,1 @@
-var mnemonic = "captain cereal flame cart bundle silk distance toddler list master theme satisfy";
+var mnemonic = "quarter dwarf beef crowd horn bubble rescue attend disagree comic immune tag";

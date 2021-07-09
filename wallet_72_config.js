@@ -1,1 +1,1 @@
-var mnemonic = "humble chest medal around increase radio nest file surround talent talent thank";
+var mnemonic = "other bachelor excuse thought engine pact ride cherry valley space under fever";

@@ -1,1 +1,1 @@
-var mnemonic = "license pear laptop broccoli coin bag eager lounge toast acid donate inspire";
+var mnemonic = "anchor supply wonder illness easily blouse rally exotic volcano tattoo subway clerk";

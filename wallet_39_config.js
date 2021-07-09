@@ -1,1 +1,1 @@
-var mnemonic = "pen gather radio sadness assist attract reopen artefact chest black achieve february";
+var mnemonic = "false rural skull appear antique degree tunnel typical stool crawl pony jacket";

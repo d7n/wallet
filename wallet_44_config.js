@@ -1,1 +1,1 @@
-var mnemonic = "burden organ coast trouble hurt income banner then over turn eight manual";
+var mnemonic = "unit victory proof feed desert armed fruit tide green print dove bid";

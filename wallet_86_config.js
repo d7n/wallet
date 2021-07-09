@@ -1,1 +1,1 @@
-var mnemonic = "ocean bread carpet promote cattle pigeon task chase convince foil inspire virus";
+var mnemonic = "found yard peanut eight fiction dragon genius neutral autumn sentence arrive cloud";

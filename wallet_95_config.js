@@ -1,1 +1,1 @@
-var mnemonic = "master rent garbage chuckle industry balcony gun hedgehog fire help fitness illness";
+var mnemonic = "equal sentence capital drop just infant type cigar speed speak market useless";

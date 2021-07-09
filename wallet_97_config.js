@@ -1,1 +1,1 @@
-var mnemonic = "deer police reveal useless body strike certain best curious version rural chronic";
+var mnemonic = "brisk raccoon kick tourist puzzle obtain popular laundry screen special repeat typical";

@@ -1,1 +1,1 @@
-var mnemonic = "fit decade talk elevator forest fork coffee urban essence genuine eager credit";
+var mnemonic = "wall expect relax debate exercise march such daughter flower brisk estate maple";

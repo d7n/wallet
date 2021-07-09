@@ -1,1 +1,1 @@
-var mnemonic = "vapor gap bus kiss bounce edit farm access young approve predict tornado";
+var mnemonic = "razor plug trip debris candy limb moment deny flag weasel basket shoot";

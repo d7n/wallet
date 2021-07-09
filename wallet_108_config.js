@@ -1,1 +1,1 @@
-var mnemonic = "decide gloom column sister sibling tide next corn other bag bird hat";
+var mnemonic = "carbon erupt sample laptop artist climb merry ripple mass behave tube sun";

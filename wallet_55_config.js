@@ -1,1 +1,1 @@
-var mnemonic = "ship bar aware salt choice leg iron burden eye concert badge border";
+var mnemonic = "quick rent right ill donkey swift pelican smooth purity service world tag";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow leaf between moral rice jar thrive resource patch tongue unusual video";
+var mnemonic = "ball end ability sister melt load govern price convince earth project praise";

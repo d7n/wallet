@@ -1,1 +1,1 @@
-var mnemonic = "client smart spring weather health mail own powder capital update sing envelope";
+var mnemonic = "mean click bullet love hope diet wall canal apart calm bicycle bean";

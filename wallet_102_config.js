@@ -1,1 +1,1 @@
-var mnemonic = "equal local uniform snap bleak pet board autumn begin raccoon faculty quantum";
+var mnemonic = "flavor category indoor bonus cabbage wasp hamster fury narrow burden bag point";

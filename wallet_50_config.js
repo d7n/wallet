@@ -1,1 +1,1 @@
-var mnemonic = "style face erase scheme sea evil trend unfold display tired fine ask";
+var mnemonic = "rug turtle black milk duck give dinosaur neither teach crouch deal drive";

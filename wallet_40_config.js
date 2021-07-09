@@ -1,1 +1,1 @@
-var mnemonic = "income security bamboo dinosaur bitter lottery stand bamboo luxury piano unusual kid";
+var mnemonic = "brave zero verb kitten voyage bullet holiday stairs animal miracle because liar";

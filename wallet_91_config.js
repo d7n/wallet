@@ -1,1 +1,1 @@
-var mnemonic = "option spatial soft gun prosper coyote convince work flat alpha canvas load";
+var mnemonic = "either anger debate hammer focus text gift avoid miracle exchange pride someone";

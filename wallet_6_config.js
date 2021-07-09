@@ -1,1 +1,1 @@
-var mnemonic = "ivory certain height badge team fatigue rubber jazz empower donkey price morning";
+var mnemonic = "insane assume surge exclude robot exchange resource thought end session steak promote";

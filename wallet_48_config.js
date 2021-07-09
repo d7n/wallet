@@ -1,1 +1,1 @@
-var mnemonic = "slender good gorilla bird ketchup awake romance logic fury embark alcohol shop";
+var mnemonic = "shell lion horn art enemy bullet tomato item account desk start mesh";

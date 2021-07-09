@@ -1,1 +1,1 @@
-var mnemonic = "finger square virus two final claw warfare cloud gap celery potato hat";
+var mnemonic = "double movie bargain beauty floor dance forest chaos direct chicken spy shock";

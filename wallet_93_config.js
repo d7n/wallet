@@ -1,1 +1,1 @@
-var mnemonic = "uncle torch avoid certain require antique margin empty vault saddle own solve";
+var mnemonic = "canoe sun tank rate stadium occur kidney clap judge quarter crouch donate";

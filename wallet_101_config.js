@@ -1,1 +1,1 @@
-var mnemonic = "divorce derive forget boat dash tone swamp pool argue owner sleep much";
+var mnemonic = "wrap desk chef history depend clip journey group palace bus aisle glance";

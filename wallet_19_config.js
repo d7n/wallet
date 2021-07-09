@@ -1,1 +1,1 @@
-var mnemonic = "cream foot coast cheese category promote manual north genre avoid stick theme";
+var mnemonic = "balance trumpet wait fault child decide proud design core canal sadness awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom equal spend hat draft sorry twice yard gasp foot orbit wagon";
+var mnemonic = "flip wait quarter raw festival require black stock limit brand panther accident";

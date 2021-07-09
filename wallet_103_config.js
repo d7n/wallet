@@ -1,1 +1,1 @@
-var mnemonic = "cruel power three leaf skate example venture jealous giant bring scene earth";
+var mnemonic = "naive hero very cereal that merge empty task brain manage father satoshi";

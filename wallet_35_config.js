@@ -1,1 +1,1 @@
-var mnemonic = "chalk kick actual home exact town call arena solid popular click burst";
+var mnemonic = "decide know velvet drama fish frozen squeeze lyrics become panther throw rather";

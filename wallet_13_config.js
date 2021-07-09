@@ -1,1 +1,1 @@
-var mnemonic = "index regular verb quit radar kiwi pistol cancel tray defy rescue track";
+var mnemonic = "lift tell sadness kidney symbol ladder pudding liar toward emotion ridge stamp";

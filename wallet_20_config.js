@@ -1,1 +1,1 @@
-var mnemonic = "divert forum employ resist item alpha shine near stock advice jaguar short";
+var mnemonic = "stick frown enough quantum scare cage daring title wet arctic mansion under";

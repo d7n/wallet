@@ -1,1 +1,1 @@
-var mnemonic = "vote nurse affair ball family innocent scatter waste fiction cargo disorder receive";
+var mnemonic = "truly leopard include tent simple what else rival gas whip royal vague";

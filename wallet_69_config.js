@@ -1,1 +1,1 @@
-var mnemonic = "burst sudden notable among long skate where file fury confirm dial round";
+var mnemonic = "plunge concert excess outside tip cabbage unveil bring cigar electric hint aspect";

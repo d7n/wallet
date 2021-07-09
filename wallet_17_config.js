@@ -1,1 +1,1 @@
-var mnemonic = "upper vicious connect useful become almost race weekend install mesh frame mechanic";
+var mnemonic = "promote room mosquito animal west devote patch purpose trigger tiny robot cabin";

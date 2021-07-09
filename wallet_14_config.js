@@ -1,1 +1,1 @@
-var mnemonic = "popular tail hip shine young choice jelly amazing vote afraid pumpkin cake";
+var mnemonic = "tortoise target panther occur perfect hover bike matter bag kingdom chair torch";

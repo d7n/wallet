@@ -1,1 +1,1 @@
-var mnemonic = "couple debate salt magnet flat limit detect often bike you hover stage";
+var mnemonic = "hood magnet midnight pair pave material flip derive tone raw vapor bronze";

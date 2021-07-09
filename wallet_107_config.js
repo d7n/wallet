@@ -1,1 +1,1 @@
-var mnemonic = "cool split train throw kick add resource double section hurt turtle tragic";
+var mnemonic = "fold panel frame knock abandon issue notice prepare grief save slim link";

@@ -1,1 +1,1 @@
-var mnemonic = "case spare school neglect fever remove setup glass gasp thunder print pledge";
+var mnemonic = "luggage monster doctor margin evoke tone trick tennis consider boat dutch view";

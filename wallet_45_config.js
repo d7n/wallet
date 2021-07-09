@@ -1,1 +1,1 @@
-var mnemonic = "panda spike solution retire car work rival toddler brisk digital salt neglect";
+var mnemonic = "system school leaf segment horn glance frame spatial actress vivid amazing spare";

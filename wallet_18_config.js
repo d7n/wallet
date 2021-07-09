@@ -1,1 +1,1 @@
-var mnemonic = "team virus arch pill affair ability ticket blame inch page tower upset";
+var mnemonic = "rhythm raven prefer slot extend quarter symbol silent lucky security charge angry";

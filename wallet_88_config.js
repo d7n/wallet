@@ -1,1 +1,1 @@
-var mnemonic = "weapon trumpet keep grow left three mercy correct young lemon length seed";
+var mnemonic = "orphan abandon ankle believe you argue once lake try tribe green parade";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur fluid eager tissue piano smooth mixed stable screen fiction solid window";
+var mnemonic = "prevent chronic because antenna stadium vapor like caution impose clown print angry";

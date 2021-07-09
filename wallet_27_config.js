@@ -1,1 +1,1 @@
-var mnemonic = "slab adapt super lunar yellow green truck lunch basket bronze entry earn";
+var mnemonic = "save upgrade awesome have whale motor isolate bar whip example chef over";

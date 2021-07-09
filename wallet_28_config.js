@@ -1,1 +1,1 @@
-var mnemonic = "pen chef glide cricket design talk deal equip police avoid page print";
+var mnemonic = "lunch extra toward course usual crawl clog pluck wing problem define buzz";

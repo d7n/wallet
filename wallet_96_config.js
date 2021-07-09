@@ -1,1 +1,1 @@
-var mnemonic = "possible latin manage coconut poem brick profit lamp inquiry flame very quality";
+var mnemonic = "sheriff cool good envelope avocado scorpion misery source bind brave pact hood";

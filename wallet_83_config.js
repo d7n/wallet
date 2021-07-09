@@ -1,1 +1,1 @@
-var mnemonic = "animal biology unfold picture chapter omit fence pause large ceiling fatal slab";
+var mnemonic = "casual lunar panic rally lottery boil liberty pink erase merry soon vacuum";

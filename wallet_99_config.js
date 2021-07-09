@@ -1,1 +1,1 @@
-var mnemonic = "nerve rigid coach congress purity wise eager exotic adjust mean you time";
+var mnemonic = "eagle embody pudding art silent curve engine issue until lunch maze garden";

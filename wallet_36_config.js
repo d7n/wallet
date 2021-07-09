@@ -1,1 +1,1 @@
-var mnemonic = "addict diamond chunk tower hope hold glass law letter flock install behave";
+var mnemonic = "powder jaguar top reject tilt indoor sword elite opera unable company agree";

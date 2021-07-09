@@ -1,1 +1,1 @@
-var mnemonic = "opinion color left end river burden artwork thing twelve absurd present syrup";
+var mnemonic = "song project rival total usual path joke lizard notice okay exit bounce";

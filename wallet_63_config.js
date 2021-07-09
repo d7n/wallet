@@ -1,1 +1,1 @@
-var mnemonic = "pass obtain fiscal exotic onion move actress summer worry pudding weird enable";
+var mnemonic = "dice jaguar balance napkin ensure polar endless process dutch giggle order valve";

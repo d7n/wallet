@@ -1,1 +1,1 @@
-var mnemonic = "equip moment cousin there tank subject tonight vessel kind setup open photo";
+var mnemonic = "lawn enter kiwi shaft phone swallow simple bulk time apple maid bike";

@@ -1,1 +1,1 @@
-var mnemonic = "erode picture wolf favorite shield garlic happy tennis goat shift famous airport";
+var mnemonic = "island ordinary slice fluid protect wedding fade nut almost age text coral";

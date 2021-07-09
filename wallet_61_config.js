@@ -1,1 +1,1 @@
-var mnemonic = "october entry permit hello depth extend another walnut glue letter lab size";
+var mnemonic = "basket reason mass dwarf owner mirror deny ritual moon draw wall amateur";

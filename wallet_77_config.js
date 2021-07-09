@@ -1,1 +1,1 @@
-var mnemonic = "floor talent sausage ethics swim material process engage scout abstract tortoise spoil";
+var mnemonic = "become swap someone canvas cancel hair try flight tennis imitate avocado guide";

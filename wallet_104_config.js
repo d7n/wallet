@@ -1,1 +1,1 @@
-var mnemonic = "sign sight pink almost one ribbon word elder cliff divide armor replace";
+var mnemonic = "resource bounce divide clay test world aspect pig ostrich wire truly cherry";

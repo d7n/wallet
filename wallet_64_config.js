@@ -1,1 +1,1 @@
-var mnemonic = "mask couch result dinosaur scatter walk seat matter bike flag huge cactus";
+var mnemonic = "young crucial turn blast write settle pen meadow lobster auto sea gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "account pact walnut normal critic crime dance key achieve thing moment patrol";
+var mnemonic = "service scrub trip market patrol solar initial will jungle magic mix night";

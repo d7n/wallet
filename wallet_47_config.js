@@ -1,1 +1,1 @@
-var mnemonic = "else matter junk culture swap various spy fragile return expand when domain";
+var mnemonic = "post brisk rifle blue make dinner brick omit lounge search example fuel";

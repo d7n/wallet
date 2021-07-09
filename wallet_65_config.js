@@ -1,1 +1,1 @@
-var mnemonic = "clinic roof mandate exhaust icon uniform cargo palace puppy lawsuit win perfect";
+var mnemonic = "obey divert chaos expand grain soon win planet moon joke cement short";

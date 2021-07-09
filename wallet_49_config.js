@@ -1,1 +1,1 @@
-var mnemonic = "radio attitude today inmate borrow clutch gravity hair dune cave timber able";
+var mnemonic = "feel since buffalo mandate oval reason scout use fabric awkward intact idea";

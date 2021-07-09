@@ -1,1 +1,1 @@
-var mnemonic = "library shine flat clump earn dream crop write escape estate cotton cigar";
+var mnemonic = "brush coconut special economy upgrade switch master fun traffic festival dentist glass";

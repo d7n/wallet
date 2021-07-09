@@ -1,1 +1,1 @@
-var mnemonic = "income strong hire nice soft accuse gap payment shield umbrella lyrics learn";
+var mnemonic = "thing diamond oyster over august salt slide radio cannon wrestle castle napkin";

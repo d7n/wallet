@@ -1,1 +1,1 @@
-var mnemonic = "smart hello ceiling box swap expect tag puzzle travel duck cricket dress";
+var mnemonic = "forget panda nose thing ten cup remove essay pen hungry path story";

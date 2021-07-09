@@ -1,1 +1,1 @@
-var mnemonic = "sketch submit mouse reduce ecology melody crane put uphold neglect tumble height";
+var mnemonic = "next royal shrug dizzy drill bubble alter honey brush jewel machine mirror";

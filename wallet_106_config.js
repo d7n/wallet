@@ -1,1 +1,1 @@
-var mnemonic = "broom exclude history museum frog camp fame ladder uniform cave chair narrow";
+var mnemonic = "vibrant build sausage junior ride outer cream mule peanut crystal ship attitude";

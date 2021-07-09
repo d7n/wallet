@@ -1,1 +1,1 @@
-var mnemonic = "enrich egg soap guilt evil display destroy wise arrest episode eyebrow help";
+var mnemonic = "throw drip caught comfort close ceiling ritual scare typical return license indoor";

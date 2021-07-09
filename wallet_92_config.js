@@ -1,1 +1,1 @@
-var mnemonic = "abuse nephew suit involve wrestle web sight apple abandon bulb edge quit";
+var mnemonic = "school dwarf night siren author neutral again evolve track what know thing";

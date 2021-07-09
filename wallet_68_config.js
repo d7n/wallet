@@ -1,1 +1,1 @@
-var mnemonic = "sphere rhythm cricket easily earn regret scissors cat virtual sauce question injury";
+var mnemonic = "choose disagree venue clock ability fox shell purity crane ship squeeze cage";

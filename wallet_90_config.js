@@ -1,1 +1,1 @@
-var mnemonic = "connect okay winner thank soul sail witness dance dinosaur erase dinosaur change";
+var mnemonic = "mystery again matter dumb fiction sister supreme rate drop ill silver cross";

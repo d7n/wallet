@@ -1,1 +1,1 @@
-var mnemonic = "nut eye sun horse emerge hover unable tornado tape material violin humor";
+var mnemonic = "dust welcome wreck video car planet tuition slogan catch science stumble sword";

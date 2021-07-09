@@ -1,1 +1,1 @@
-var mnemonic = "icon brown print anxiety dinosaur comfort census net become sea miracle step";
+var mnemonic = "bundle harbor tent matter enjoy fever cluster pond safe open still fame";

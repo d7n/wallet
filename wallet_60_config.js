@@ -1,1 +1,1 @@
-var mnemonic = "trick hurdle figure job foil domain bounce rough despair author online document";
+var mnemonic = "pause belt impose grunt scrap tunnel lift stage useless claw nephew reform";

@@ -1,1 +1,1 @@
-var mnemonic = "region arch tent drastic name explain camera avocado draft gather orphan impose";
+var mnemonic = "shadow audit kitten valve opinion ecology jar document expect small crack total";

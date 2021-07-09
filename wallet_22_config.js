@@ -1,1 +1,1 @@
-var mnemonic = "across hole bar cattle avoid language work jazz razor bring stomach reveal";
+var mnemonic = "dune camera castle orchard uncover lemon vault spring moral dinosaur wagon joke";

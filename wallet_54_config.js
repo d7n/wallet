@@ -1,1 +1,1 @@
-var mnemonic = "case law romance gift win immense allow path tooth wave normal gallery";
+var mnemonic = "fun apart music just oil announce fork school purse topple hurdle doll";

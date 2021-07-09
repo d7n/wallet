@@ -1,1 +1,1 @@
-var mnemonic = "bounce zebra ladder permit chimney exotic forward shell rather abuse drive fuel";
+var mnemonic = "vacuum access empty blue crack expose jealous color say despair together tornado";

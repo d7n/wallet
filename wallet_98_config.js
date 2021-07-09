@@ -1,1 +1,1 @@
-var mnemonic = "fury maple crowd gift stock home virtual crater balance disease claim river";
+var mnemonic = "staff liberty run noble offer unfold wine shuffle myself long body old";

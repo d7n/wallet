@@ -1,1 +1,1 @@
-var mnemonic = "scheme fade invite broken family brand pattern razor census wife valve unfold";
+var mnemonic = "phrase air heavy item raven large pudding merry kind urge way visit";

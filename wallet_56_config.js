@@ -1,1 +1,1 @@
-var mnemonic = "code lucky birth knock hen define primary rebel muscle suggest assault skirt";
+var mnemonic = "shop mixture leg proof teach diesel enable baby gasp tree trip push";

@@ -1,1 +1,1 @@
-var mnemonic = "vote crunch display sketch salt era lemon teach chronic aspect blush record";
+var mnemonic = "song distance upgrade strategy brisk room jeans option barrel slow erupt loud";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud museum auto lyrics student blind crash gospel candy rubber employ runway";
+var mnemonic = "expose scatter pond early vague manual fence furnace luxury route expire remain";
