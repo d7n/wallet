@@ -1,1 +1,1 @@
-var mnemonic = "typical auto tube pulse echo post over rib this you tortoise okay";
+var mnemonic = "champion ivory foot make miss boring barely rabbit hard pipe cube health";

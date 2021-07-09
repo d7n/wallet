@@ -1,1 +1,1 @@
-var mnemonic = "jazz token elevator tail luggage catch tag chef uniform embark dizzy eyebrow";
+var mnemonic = "gather mosquito buyer topple wisdom above illness document museum dune machine kite";

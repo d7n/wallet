@@ -1,1 +1,1 @@
-var mnemonic = "power inquiry today man dawn achieve hint engine suspect quiz tool usual";
+var mnemonic = "nuclear negative age cancel expect wing three boat convince project hobby few";

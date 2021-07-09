@@ -1,1 +1,1 @@
-var mnemonic = "prosper alley forward armor belt print collect jar agent fancy phrase around";
+var mnemonic = "inmate erupt dutch firm body air time punch people believe ride code";

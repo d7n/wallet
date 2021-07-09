@@ -1,1 +1,1 @@
-var mnemonic = "purpose poem lunar history humor print obey fragile conduct mango cram mandate";
+var mnemonic = "stage present have sleep snack believe menu cost exhibit legend desert trap";

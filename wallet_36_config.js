@@ -1,1 +1,1 @@
-var mnemonic = "reflect helmet lemon diesel fine humble prosper barely taste decorate remind style";
+var mnemonic = "bonus chicken reform clump traffic illness hollow rifle short train know rate";

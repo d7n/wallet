@@ -1,1 +1,1 @@
-var mnemonic = "original whisper can cross sleep lawsuit blanket bone speak danger axis impact";
+var mnemonic = "accuse carbon critic recycle furnace swap gloom huge obvious trouble job gown";

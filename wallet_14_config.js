@@ -1,1 +1,1 @@
-var mnemonic = "lava jealous uphold slim ocean asthma problem prize another insect robot toward";
+var mnemonic = "cruel feed service lamp today pulse ceiling milk stay treat session cram";

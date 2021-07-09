@@ -1,1 +1,1 @@
-var mnemonic = "mention fee rib entire lion strike now river table comic fresh stumble";
+var mnemonic = "atom expand kick enemy wedding pledge thank volcano horse ecology insect crush";

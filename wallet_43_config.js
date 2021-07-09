@@ -1,1 +1,1 @@
-var mnemonic = "three vessel fresh bachelor fossil arena flash notice high august clutch abstract";
+var mnemonic = "elder comic verify ritual also main divide style athlete beauty only gold";

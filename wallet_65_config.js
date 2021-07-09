@@ -1,1 +1,1 @@
-var mnemonic = "catch interest unit announce long where blue holiday physical van increase loan";
+var mnemonic = "scout muscle smile consider smile bullet limb chicken hammer obvious broom vibrant";

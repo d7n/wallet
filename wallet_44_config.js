@@ -1,1 +1,1 @@
-var mnemonic = "stairs similar dawn yellow derive uncle visa issue tongue scan voice hundred";
+var mnemonic = "bone spike table scheme reduce decide toy myself mail kangaroo raccoon expand";

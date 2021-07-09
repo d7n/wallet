@@ -1,1 +1,1 @@
-var mnemonic = "embark market crime soft reveal merry bid planet rough drum indoor quality";
+var mnemonic = "web gasp eyebrow project math invest elbow people dirt such original speak";

@@ -1,1 +1,1 @@
-var mnemonic = "code act reform buffalo save shuffle mimic pause term turtle odor table";
+var mnemonic = "cheese canal evoke renew pact enough van salon mechanic reason claw wall";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid oxygen strong economy depart album army bamboo caught first scorpion mind";
+var mnemonic = "uphold resist series side dragon first lottery foster kangaroo badge race drama";

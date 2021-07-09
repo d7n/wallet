@@ -1,1 +1,1 @@
-var mnemonic = "differ worth float museum please elegant tattoo parade cry kidney enhance water";
+var mnemonic = "mobile valid rice off coast return suffer cigar eye relief sphere oyster";

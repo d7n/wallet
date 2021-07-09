@@ -1,1 +1,1 @@
-var mnemonic = "village street roof blade usage ten someone van exercise slab hill jaguar";
+var mnemonic = "upper cave festival subject mistake enough cupboard weasel during gasp cool wisdom";

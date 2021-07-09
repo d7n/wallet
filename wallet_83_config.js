@@ -1,1 +1,1 @@
-var mnemonic = "thrive angry shrimp salute basic account rent picture rifle dizzy minute text";
+var mnemonic = "wild side multiply pool equip diamond wine sea brand limb guide place";

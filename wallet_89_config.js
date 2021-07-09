@@ -1,1 +1,1 @@
-var mnemonic = "olive veteran coin degree pipe oval light segment sea way wild episode";
+var mnemonic = "news disagree this promote swing limb rabbit ship casual snow filter enter";

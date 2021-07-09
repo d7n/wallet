@@ -1,1 +1,1 @@
-var mnemonic = "sick alpha double crucial like forget win bargain upgrade lounge they egg";
+var mnemonic = "logic spoon category spin south cable welcome police dove win title attack";

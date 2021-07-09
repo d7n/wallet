@@ -1,1 +1,1 @@
-var mnemonic = "hat wool peanut cruel minor plunge quote balcony rapid appear crawl sample";
+var mnemonic = "essay rug away icon palm clump birth blur spy someone health spirit";

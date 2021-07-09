@@ -1,1 +1,1 @@
-var mnemonic = "ethics slim weird dish song estate glad close cost menu oven bright";
+var mnemonic = "produce glove credit language solve audit ghost course museum wool ostrich race";

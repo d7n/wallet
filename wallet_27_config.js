@@ -1,1 +1,1 @@
-var mnemonic = "lock myth invite absent dinner damage decorate better fantasy wagon cruise purse";
+var mnemonic = "lesson ginger tuna actress cabin zero zoo latin exist outside young fuel";

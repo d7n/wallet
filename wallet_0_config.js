@@ -1,1 +1,1 @@
-var mnemonic = "fruit process enact couch flight salon abuse select combine cart fee travel";
+var mnemonic = "situate suggest upset green film sea cage soldier clerk twist obscure stage";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster method fantasy lion draft host dice divorce voice system love insect";
+var mnemonic = "picnic vacant crane toward dentist else sort gorilla addict holiday frequent hunt";

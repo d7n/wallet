@@ -1,1 +1,1 @@
-var mnemonic = "garbage habit admit mansion keep perfect fine boss sweet vapor violin ready";
+var mnemonic = "aspect crane giant void cliff wink marine bless plunge panda scrub foil";

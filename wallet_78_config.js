@@ -1,1 +1,1 @@
-var mnemonic = "duck eager shop fatigue valid echo west slight cruel skate shoe morning";
+var mnemonic = "dog guilt same day poem still burden toward gate cattle check sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid modify walnut orphan doctor beach tool sleep advance bean radio city";
+var mnemonic = "cereal forum pluck adjust access element cement dose fragile bring record build";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee acquire suspect exchange one occur segment extra school keen flush fall";
+var mnemonic = "electric route this stool dentist crawl impact raw tide dry siege guide";

@@ -1,1 +1,1 @@
-var mnemonic = "color eagle eyebrow update inmate badge crack blind engine physical gate core";
+var mnemonic = "walnut elder catch bamboo illness manage pink adult domain advice satoshi frog";

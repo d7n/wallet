@@ -1,1 +1,1 @@
-var mnemonic = "resemble warrior connect fortune evoke dutch palm outdoor skull similar crumble exercise";
+var mnemonic = "soda moral dove toward bullet grass camp buddy domain evidence bone owner";

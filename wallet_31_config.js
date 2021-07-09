@@ -1,1 +1,1 @@
-var mnemonic = "echo polar heart shuffle settle intact cheap traffic proud lecture install intact";
+var mnemonic = "lobster icon pony street penalty top boss put dutch original impose brown";

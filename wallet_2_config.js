@@ -1,1 +1,1 @@
-var mnemonic = "december travel auto tube pipe gentle job aim mix cry smooth orphan";
+var mnemonic = "novel matrix credit humble camp kiwi fun whale catalog worth wolf step";

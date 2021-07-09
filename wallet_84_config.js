@@ -1,1 +1,1 @@
-var mnemonic = "pyramid shrug dutch average wrong chest knife enable zone sketch fog cat";
+var mnemonic = "survey magic crush mercy power over captain crazy tomato stool lemon moon";

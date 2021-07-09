@@ -1,1 +1,1 @@
-var mnemonic = "tray absurd fall cargo motion eagle build wonder notice perfect weather income";
+var mnemonic = "choice horn enough cable message strategy fashion usage swim barrel cake cube";

@@ -1,1 +1,1 @@
-var mnemonic = "report security faint hybrid onion stadium bag impulse advice will slow voyage";
+var mnemonic = "poverty satisfy drill merge fluid canvas wine sing ignore spirit drill couple";

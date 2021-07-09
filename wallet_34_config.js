@@ -1,1 +1,1 @@
-var mnemonic = "snack fantasy olympic hidden claw jealous color ignore space arena receive potato";
+var mnemonic = "chat illness panther praise airport describe elevator enjoy equip model into panic";

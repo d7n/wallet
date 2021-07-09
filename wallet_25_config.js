@@ -1,1 +1,1 @@
-var mnemonic = "whip century miss near crawl basic ecology accident wrong trophy shrimp unusual";
+var mnemonic = "explain conduct artwork lava motion toddler horse sad domain electric pull mystery";

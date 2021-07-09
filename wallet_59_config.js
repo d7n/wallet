@@ -1,1 +1,1 @@
-var mnemonic = "under ladder sudden tape resist dolphin west hood dad bundle tape gain";
+var mnemonic = "donkey normal evolve pink report mom joy diagram fatal insane seat discover";

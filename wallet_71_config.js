@@ -1,1 +1,1 @@
-var mnemonic = "mobile twenty call unique hour adjust hurt cook betray nest wrap crawl";
+var mnemonic = "step pink shrug remind index repeat depth subway fine minimum cart wet";

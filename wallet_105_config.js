@@ -1,1 +1,1 @@
-var mnemonic = "episode boss joke device task radar admit gadget observe clinic nature solve";
+var mnemonic = "marble floor mind alter harsh news loan anchor quantum entry disagree voice";

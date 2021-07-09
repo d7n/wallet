@@ -1,1 +1,1 @@
-var mnemonic = "copy execute credit push birth tilt leaf upset coral language rare inquiry";
+var mnemonic = "civil nurse settle gain fame blossom icon hurry general twenty sorry uncover";

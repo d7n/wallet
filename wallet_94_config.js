@@ -1,1 +1,1 @@
-var mnemonic = "snow patch budget orient panda marine weather cinnamon question seed orient file";
+var mnemonic = "notice winter language glove admit spirit double tobacco laundry allow situate dawn";

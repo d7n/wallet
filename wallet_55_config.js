@@ -1,1 +1,1 @@
-var mnemonic = "income nurse isolate joy crater myself claim bean vehicle sense trim ride";
+var mnemonic = "invite sign sight only river energy virtual range palace pond champion stumble";

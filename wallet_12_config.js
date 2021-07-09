@@ -1,1 +1,1 @@
-var mnemonic = "mammal tenant oppose neglect cinnamon reflect divorce sword picture cloud bacon opinion";
+var mnemonic = "desk plastic frame vibrant staff success yard bounce quantum crouch obtain exchange";

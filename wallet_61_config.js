@@ -1,1 +1,1 @@
-var mnemonic = "fiction tooth media galaxy mention flag crack tag south despair pledge load";
+var mnemonic = "you erosion endorse mistake tray prefer truly beef robot proud agree sibling";

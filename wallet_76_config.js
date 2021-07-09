@@ -1,1 +1,1 @@
-var mnemonic = "ridge merry average saddle parade trash patrol light vote absurd forward recipe";
+var mnemonic = "give dress silly glass kid excess submit cute side squirrel priority blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup mesh hole review stand segment still smart pink depend settle movie";
+var mnemonic = "pass flame tennis soap trust pair danger carbon cherry rather calm tip";

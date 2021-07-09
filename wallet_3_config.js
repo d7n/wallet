@@ -1,1 +1,1 @@
-var mnemonic = "diary valve carpet garage bone split describe fossil glass body box erosion";
+var mnemonic = "bachelor device tone soccer police web warm connect ripple version nasty elbow";

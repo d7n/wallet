@@ -1,1 +1,1 @@
-var mnemonic = "season web awkward amount neck culture valid coin physical float first energy";
+var mnemonic = "laugh cushion unit mule protect slam pride chalk scan photo leisure planet";

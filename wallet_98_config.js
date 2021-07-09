@@ -1,1 +1,1 @@
-var mnemonic = "bundle replace toward lawn saddle paddle ecology damage forum luxury laptop clown";
+var mnemonic = "scissors rice jeans mean letter rice crawl tongue cost wheat rent sight";

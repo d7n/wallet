@@ -1,1 +1,1 @@
-var mnemonic = "must brick thing female toast object expect scrub release purpose airport latin";
+var mnemonic = "champion struggle remember hair quantum square venue muffin oak grow sibling pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "patch replace carpet outside cost gaze tattoo urge pipe sustain hint dwarf";
+var mnemonic = "ranch winner three night holiday drive skin simple spider same swift dad";

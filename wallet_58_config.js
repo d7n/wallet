@@ -1,1 +1,1 @@
-var mnemonic = "paddle ketchup tattoo paddle shrug school target fade clip kiss regular dismiss";
+var mnemonic = "sheriff mask typical treat busy velvet arrange cycle alter history people negative";

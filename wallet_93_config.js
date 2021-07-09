@@ -1,1 +1,1 @@
-var mnemonic = "quantum program identify romance matter letter cigar velvet buyer airport hard fiction";
+var mnemonic = "way credit meadow moral solve blood transfer poverty yellow negative hat pencil";

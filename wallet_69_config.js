@@ -1,1 +1,1 @@
-var mnemonic = "helmet angle era thing stuff badge party gather thumb couple neck hello";
+var mnemonic = "tail leopard allow horror regret nephew adjust diamond crawl abstract begin diagram";

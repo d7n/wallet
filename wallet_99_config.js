@@ -1,1 +1,1 @@
-var mnemonic = "someone scout furnace basic decrease search fiber raw life grain ready belt";
+var mnemonic = "kick cherry brother kid upon later liberty puppy rural system gospel certain";

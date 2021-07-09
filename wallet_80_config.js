@@ -1,1 +1,1 @@
-var mnemonic = "abandon mail social stick together sample awake eagle ivory access equip main";
+var mnemonic = "cheese pledge strategy lift anchor false goose robust talk smoke work artist";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose maple sound clap silk merry march jungle steel piano present crawl";
+var mnemonic = "mother virtual decade tribe language fox able truth canal erupt make clown";

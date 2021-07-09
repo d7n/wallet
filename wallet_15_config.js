@@ -1,1 +1,1 @@
-var mnemonic = "exhaust public armed sun multiply pole veteran antenna laundry soap whale tissue";
+var mnemonic = "clump huge typical agree pool neglect rate wood abuse comic bus rigid";

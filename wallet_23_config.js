@@ -1,1 +1,1 @@
-var mnemonic = "gift family october feed latin rescue twist rent trap sweet axis coconut";
+var mnemonic = "cake airport trust champion trap question mail skull ranch enough decade gate";

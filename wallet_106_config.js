@@ -1,1 +1,1 @@
-var mnemonic = "echo jeans nerve planet equip inject dry police punch wall celery inflict";
+var mnemonic = "elder corn globe connect giant shift grunt thought lunar shiver surround race";

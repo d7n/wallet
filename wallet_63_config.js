@@ -1,1 +1,1 @@
-var mnemonic = "vendor drive transfer level liar source fruit dismiss expect faculty surround stable";
+var mnemonic = "tent syrup state spoil stereo response kind trend action village repair bus";

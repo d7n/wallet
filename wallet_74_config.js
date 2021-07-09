@@ -1,1 +1,1 @@
-var mnemonic = "bubble must life potato fee snap promote gas wild snap echo orient";
+var mnemonic = "rely rude laptop jump negative discover brush caution venture capable base poem";

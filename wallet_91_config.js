@@ -1,1 +1,1 @@
-var mnemonic = "robust betray impose mesh hazard pave orphan nothing custom hole enact unknown";
+var mnemonic = "shoulder bridge little fix jacket marriage rifle remember rhythm inspire print belt";

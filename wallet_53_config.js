@@ -1,1 +1,1 @@
-var mnemonic = "deliver clump hole trust hurry pear fog drive birth crucial foil mango";
+var mnemonic = "clog gaze jazz hover rifle today asset bone market aware delay smooth";

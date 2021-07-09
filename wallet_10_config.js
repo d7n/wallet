@@ -1,1 +1,1 @@
-var mnemonic = "middle amateur range behind review zero comfort finish outer lyrics face adapt";
+var mnemonic = "point surprise similar someone close unable ladder make cement hour have license";

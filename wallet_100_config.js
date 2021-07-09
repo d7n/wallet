@@ -1,1 +1,1 @@
-var mnemonic = "half elite coin venture dream this duck enemy dune rather eye hamster";
+var mnemonic = "aisle arrest diamond float swift index juice erode paper matrix scrap copy";

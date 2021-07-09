@@ -1,1 +1,1 @@
-var mnemonic = "insect speak robust patrol atom toast return exclude clarify rich install alone";
+var mnemonic = "diet viable entry kiwi village dinosaur bronze wrap prepare strong laundry fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "current now fossil alien grain escape love teach old fly brick utility";
+var mnemonic = "brave execute judge fine blossom donate tray dry sport resist figure despair";

@@ -1,1 +1,1 @@
-var mnemonic = "century truly produce syrup turn inch panther elegant neither three degree expand";
+var mnemonic = "unfold truth fun text gorilla hello park degree economy flag blame maid";

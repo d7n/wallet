@@ -1,1 +1,1 @@
-var mnemonic = "air firm prevent upon turtle obscure purity crowd audit neck calm luggage";
+var mnemonic = "vivid update mean hire secret only then spare maid shy bachelor pulse";

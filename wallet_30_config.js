@@ -1,1 +1,1 @@
-var mnemonic = "toward pluck copy resource energy welcome photo unknown lonely govern indicate much";
+var mnemonic = "atom tube sponsor clinic blood kingdom next cube stamp wear alley gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "rib crop hamster enact tone fragile afford robot rail wrap include fragile";
+var mnemonic = "tomato act faint story today tooth bottom nice pluck tuna fluid lecture";

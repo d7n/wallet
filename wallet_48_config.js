@@ -1,1 +1,1 @@
-var mnemonic = "polar soon ask chimney author wild lend keep artefact engage siren need";
+var mnemonic = "oval friend valid defy edit match donkey copper twin blanket flat oil";

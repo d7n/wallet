@@ -1,1 +1,1 @@
-var mnemonic = "word question frog nephew urban tree then possible coconut tribe neutral heart";
+var mnemonic = "just mix crush limb unusual talent can solid rescue fog lady monkey";

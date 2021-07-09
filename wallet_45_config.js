@@ -1,1 +1,1 @@
-var mnemonic = "will news soda debris endless piano satisfy torch rely script father main";
+var mnemonic = "unable stem dad mechanic direct gym antique bunker guitar ceiling direct grow";

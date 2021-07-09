@@ -1,1 +1,1 @@
-var mnemonic = "candy urban blast joke afford need ghost runway annual thing discover endorse";
+var mnemonic = "ahead worry ethics flash fossil local orient spice become glide lesson pause";

@@ -1,1 +1,1 @@
-var mnemonic = "predict panda pioneer behave thrive lounge recall century turtle junk neck brown";
+var mnemonic = "elevator security crisp rare output divert citizen pool gate recall asset ring";

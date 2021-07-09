@@ -1,1 +1,1 @@
-var mnemonic = "tiny empower sword endless crawl maid elevator shell credit tourist hurt wild";
+var mnemonic = "goat cry myself game farm jewel finger emerge actress salute slush aim";

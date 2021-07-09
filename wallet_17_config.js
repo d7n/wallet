@@ -1,1 +1,1 @@
-var mnemonic = "leopard fish tuna reunion move life hazard lemon parent hospital anger glance";
+var mnemonic = "huge awesome three taste diagram faith trouble rule bullet record royal object";

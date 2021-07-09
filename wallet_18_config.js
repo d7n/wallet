@@ -1,1 +1,1 @@
-var mnemonic = "emerge lizard remain couple slot cabbage nuclear ramp enact host bachelor reject";
+var mnemonic = "deputy brand mule climb ten usual false truth person margin unknown capable";

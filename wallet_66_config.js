@@ -1,1 +1,1 @@
-var mnemonic = "typical bird infant hour apology genius honey lizard swamp coast bundle baby";
+var mnemonic = "salad stick sting cart canoe arena scare phone robust cupboard praise impose";

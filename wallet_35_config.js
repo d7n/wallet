@@ -1,1 +1,1 @@
-var mnemonic = "donkey action recall inform secret hobby pulse weird lizard route rival quick";
+var mnemonic = "hospital coral game photo decline tissue neck arrest clutch provide tissue castle";

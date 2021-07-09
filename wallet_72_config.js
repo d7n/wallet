@@ -1,1 +1,1 @@
-var mnemonic = "wash lady glance inmate estate voyage paddle exact mistake human sand champion";
+var mnemonic = "clinic state polar office furnace cluster arrive south hunt answer mammal toward";

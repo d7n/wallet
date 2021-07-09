@@ -1,1 +1,1 @@
-var mnemonic = "welcome cram dune logic lyrics fashion rebel film coffee dilemma often tuna";
+var mnemonic = "crowd stone miracle express wrestle cave volume slim vivid promote legend screen";
