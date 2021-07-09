@@ -1,1 +1,1 @@
-var mnemonic = "busy cycle enact manual goose young word say solar key panel piano";
+var mnemonic = "accuse bright toy royal grocery rate damage card injury page fee crazy";

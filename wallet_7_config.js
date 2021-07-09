@@ -1,1 +1,1 @@
-var mnemonic = "whale smart autumn edit wedding thunder sell radar evolve limit fun income";
+var mnemonic = "impact manage magic output injury tent clip amazing use genuine verb kit";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket claw gossip float label outdoor abandon analyst prison furnace treat addict";
+var mnemonic = "invite useful maple piece remind stool weather image phrase crew rare lion";

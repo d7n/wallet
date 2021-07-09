@@ -1,1 +1,1 @@
-var mnemonic = "live praise tornado height define window reopen feed exotic always fantasy unfair";
+var mnemonic = "leaf thunder recall sentence unfair protect disease jelly net acoustic aspect era";

@@ -1,1 +1,1 @@
-var mnemonic = "exist lamp truth fish ready collect scan august wear true movie forum";
+var mnemonic = "local crowd quit gap cradle lunar term occur machine coin logic mystery";

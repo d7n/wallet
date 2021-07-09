@@ -1,1 +1,1 @@
-var mnemonic = "cradle green club ridge once funny fault genius hope follow hold include";
+var mnemonic = "robust cram piece crucial kitten hand wild position cluster entire deposit pilot";

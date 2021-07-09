@@ -1,1 +1,1 @@
-var mnemonic = "panther fine acid whale oblige thing merit fever hour pencil grape priority";
+var mnemonic = "festival limit attack motion mixture powder nuclear lift rare tower palace grace";

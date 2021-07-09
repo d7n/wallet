@@ -1,1 +1,1 @@
-var mnemonic = "mother jungle smart attract kick scorpion quit zebra that impose equal napkin";
+var mnemonic = "nominee squirrel fine outside tone tilt suspect author utility usual forward speed";

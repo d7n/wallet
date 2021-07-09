@@ -1,1 +1,1 @@
-var mnemonic = "charge reflect domain toddler kangaroo muffin armed marble organ found whisper garment";
+var mnemonic = "dose note meat grain net filter subject high diet damp pact about";

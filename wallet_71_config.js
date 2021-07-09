@@ -1,1 +1,1 @@
-var mnemonic = "rib fly slight frown cake artefact cupboard dice universe gown future very";
+var mnemonic = "curve wheel april position range south industry faith oppose helmet elephant gather";

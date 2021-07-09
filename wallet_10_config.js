@@ -1,1 +1,1 @@
-var mnemonic = "rib exile struggle eight twenty list shaft expand punch vapor beach idle";
+var mnemonic = "index deer reopen process spider dream luxury anchor ordinary lucky reform museum";

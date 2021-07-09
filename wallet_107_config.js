@@ -1,1 +1,1 @@
-var mnemonic = "fancy token depend learn hazard erode breeze deny vendor blush drastic ice";
+var mnemonic = "couple orphan someone rose tag weapon grocery enable tube fashion trust token";

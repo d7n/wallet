@@ -1,1 +1,1 @@
-var mnemonic = "coach fork hood trouble cancel scrub script vintage since anchor rain coil";
+var mnemonic = "gain weapon real husband appear refuse bench divert scheme sibling insane endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "over unable boring noodle concert retire give shrug undo ship trick grief";
+var mnemonic = "guess icon now glue field rabbit audit decrease zebra sheriff sketch shoot";

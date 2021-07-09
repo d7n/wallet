@@ -1,1 +1,1 @@
-var mnemonic = "sphere novel warrior exotic shine until amount depend blue circle burst lounge";
+var mnemonic = "awful differ denial fine when use address doll uniform kiwi rural rude";

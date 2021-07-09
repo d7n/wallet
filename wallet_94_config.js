@@ -1,1 +1,1 @@
-var mnemonic = "rookie treat seat include sausage inherit latin slide since finish repeat symbol";
+var mnemonic = "album enroll throw faint lamp foster brother kick decorate have width vivid";

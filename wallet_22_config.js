@@ -1,1 +1,1 @@
-var mnemonic = "animal grow wheel trumpet mercy oblige advance soldier cram curious way unknown";
+var mnemonic = "coral post noble dizzy hero ring spirit client host grid flip kid";

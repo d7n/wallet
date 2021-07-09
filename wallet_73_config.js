@@ -1,1 +1,1 @@
-var mnemonic = "scorpion turtle clump height quarter arrest nice tank wide course endorse glimpse";
+var mnemonic = "demise ordinary another fashion resemble make shop sail jewel wave gravity doctor";

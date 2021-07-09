@@ -1,1 +1,1 @@
-var mnemonic = "age video culture coconut essay add crop tide cube develop require mutual";
+var mnemonic = "ostrich short poet trust social unusual enhance brand service violin achieve grunt";

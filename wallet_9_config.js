@@ -1,1 +1,1 @@
-var mnemonic = "chef medal piano guilt music bread federal please wonder noise pledge sustain";
+var mnemonic = "until erosion inject hurt steak bunker tool wolf level dose rug finish";

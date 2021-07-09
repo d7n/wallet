@@ -1,1 +1,1 @@
-var mnemonic = "rule flight trial sauce reform surface settle bag impulse taxi very oak";
+var mnemonic = "finger echo brass flower plastic move execute random glimpse master pizza arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna december foil stuff brick master search easy today dignity dad sustain";
+var mnemonic = "echo kite moon drop cousin jewel cry purchase exotic huge catch tray";

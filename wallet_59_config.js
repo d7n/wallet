@@ -1,1 +1,1 @@
-var mnemonic = "water vote sleep grape smile extra east cherry face ribbon object eager";
+var mnemonic = "club ensure scare embark recycle tooth analyst large inch holiday exclude task";

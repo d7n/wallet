@@ -1,1 +1,1 @@
-var mnemonic = "rain capable physical gap still have world old already fold episode legal";
+var mnemonic = "useful love hole anxiety razor century gloom reveal gossip move aisle scrap";

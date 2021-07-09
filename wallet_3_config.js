@@ -1,1 +1,1 @@
-var mnemonic = "drum provide quick sister east vintage route sudden crisp margin manage olive";
+var mnemonic = "urban push ripple tide wagon stable uncover drill knock problem host finish";

@@ -1,1 +1,1 @@
-var mnemonic = "neither tray street add fish husband simple nephew wide power smart pill";
+var mnemonic = "tonight abandon can marriage game suit protect unaware purpose equip baby swim";

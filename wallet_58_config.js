@@ -1,1 +1,1 @@
-var mnemonic = "erode exile much visual evoke half celery mask sniff hobby bachelor wire";
+var mnemonic = "tuition jacket ice coin pelican age tone gospel child consider weekend boss";

@@ -1,1 +1,1 @@
-var mnemonic = "canal fit topple silver buddy resource cruel gain retreat tray settle laundry";
+var mnemonic = "quiz risk across chalk hair deer dune armed hidden canyon endorse credit";

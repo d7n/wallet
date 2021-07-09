@@ -1,1 +1,1 @@
-var mnemonic = "loud eight fiber dune bullet behind frown crunch timber used pioneer behave";
+var mnemonic = "steak brother idea naive hybrid glimpse glide mushroom smart lock what baby";

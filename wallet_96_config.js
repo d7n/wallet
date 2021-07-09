@@ -1,1 +1,1 @@
-var mnemonic = "fence predict energy object salon razor eye dilemma canyon mother sword length";
+var mnemonic = "year leaf enough soul match sketch buyer coil horror easily layer talent";

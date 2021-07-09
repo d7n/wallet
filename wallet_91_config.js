@@ -1,1 +1,1 @@
-var mnemonic = "armed supreme merry civil hat clever holiday mammal game quarter mosquito auto";
+var mnemonic = "start use false viable proof rib pencil girl oppose sadness depart level";

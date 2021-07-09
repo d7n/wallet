@@ -1,1 +1,1 @@
-var mnemonic = "ribbon aunt oak wait ridge high animal top indicate garage velvet aunt";
+var mnemonic = "dinosaur sugar bundle mango struggle suggest glance transfer repeat market frame claim";

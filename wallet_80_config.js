@@ -1,1 +1,1 @@
-var mnemonic = "rhythm amateur anxiety sand summer witness east open fly peace salt water";
+var mnemonic = "hazard leopard thrive runway digital want void devote private hint rally relief";

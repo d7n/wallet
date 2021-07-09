@@ -1,1 +1,1 @@
-var mnemonic = "two spirit jacket please elder clever gallery sugar curious wrestle wear fabric";
+var mnemonic = "parade orange rug birth faint lonely degree melt jar tuition debate lab";

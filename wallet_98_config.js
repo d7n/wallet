@@ -1,1 +1,1 @@
-var mnemonic = "captain mosquito stairs noise educate distance beach own hobby flash joke weather";
+var mnemonic = "keep runway oil trigger they promote daughter dolphin fade vehicle seat silk";

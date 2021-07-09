@@ -1,1 +1,1 @@
-var mnemonic = "assume foster blur industry slender virtual country funny frame ticket radar unit";
+var mnemonic = "ride scan wash never wave extra tooth trumpet need book fiber work";

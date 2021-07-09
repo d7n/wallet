@@ -1,1 +1,1 @@
-var mnemonic = "humble apple favorite dismiss north leader mechanic margin identify install mutual accuse";
+var mnemonic = "whip tomorrow taste grow adapt dash train hero box celery dream expect";

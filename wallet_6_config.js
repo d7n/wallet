@@ -1,1 +1,1 @@
-var mnemonic = "luxury lava desert truck canvas gorilla balance exile taste decorate wrestle parade";
+var mnemonic = "swarm arrow pilot prepare veteran that mistake slide dinner girl detail turn";

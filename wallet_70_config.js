@@ -1,1 +1,1 @@
-var mnemonic = "rail cake dawn deer proud return section barrel crisp bamboo slab vast";
+var mnemonic = "submit orient kitten unknown latin sense whisper idea gravity yard leaf speed";

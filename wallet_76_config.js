@@ -1,1 +1,1 @@
-var mnemonic = "onion hole matter desk decide muffin refuse urge reopen group snow snap";
+var mnemonic = "stamp dawn slice warm virus salute dune give lens clog island long";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond submit swift apple vague spend pulp stadium enemy subject blame blanket";
+var mnemonic = "cotton trade dynamic adjust sort speed into expire wet confirm live tray";

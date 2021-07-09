@@ -1,1 +1,1 @@
-var mnemonic = "borrow secret slush smart zero auto mimic steak truth cart logic dice";
+var mnemonic = "caught together brisk buyer comic exact guard arch glide social focus april";

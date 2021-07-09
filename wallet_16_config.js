@@ -1,1 +1,1 @@
-var mnemonic = "flee winter sibling reopen gift bracket relax fault amazing chase control meat";
+var mnemonic = "salmon oyster lady nature soldier marble ask cotton unfold stay office menu";

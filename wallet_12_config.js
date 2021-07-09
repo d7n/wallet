@@ -1,1 +1,1 @@
-var mnemonic = "inquiry sting lecture attack artefact absorb crawl genuine puzzle sunny report blast";
+var mnemonic = "zoo puppy aerobic security host merry power weekend omit valley amount snap";

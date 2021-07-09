@@ -1,1 +1,1 @@
-var mnemonic = "verb video fine pull evolve twice abuse city pull type bounce betray";
+var mnemonic = "green mobile swamp unlock one lens tip feed attract bird skull alien";

@@ -1,1 +1,1 @@
-var mnemonic = "clever vapor winter blade observe royal famous measure blind lottery monkey velvet";
+var mnemonic = "climb dentist decorate screen web salad toe buyer virtual crunch diesel era";

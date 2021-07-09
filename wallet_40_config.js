@@ -1,1 +1,1 @@
-var mnemonic = "cabbage lady fog drastic reflect jar ordinary analyst soon bunker input hollow";
+var mnemonic = "license boost since shell verify topic physical pyramid grid tackle tumble hard";

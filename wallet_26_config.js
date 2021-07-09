@@ -1,1 +1,1 @@
-var mnemonic = "mercy sorry student ability spy error talk dust occur banana scout carry";
+var mnemonic = "repair session endless ethics rigid segment success mansion dog wash rent mammal";

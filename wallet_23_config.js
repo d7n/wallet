@@ -1,1 +1,1 @@
-var mnemonic = "tomato author dry render ladder kick sock gadget huge coin reform jump";
+var mnemonic = "swallow fruit response marine copy woman apple polar keep skull chef artist";

@@ -1,1 +1,1 @@
-var mnemonic = "boy path hurry ready kind net sing into attitude melody hidden void";
+var mnemonic = "sell blind liquid payment quiz wrist swarm toe blade suffer sudden ribbon";

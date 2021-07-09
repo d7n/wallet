@@ -1,1 +1,1 @@
-var mnemonic = "say unlock iron illness vote tenant kind sand mechanic this pledge network";
+var mnemonic = "material early place cart fantasy whip magic naive mom camera glide desert";

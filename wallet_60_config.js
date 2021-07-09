@@ -1,1 +1,1 @@
-var mnemonic = "raven october swarm prevent scan divide minor wasp have aware keep method";
+var mnemonic = "heart tomorrow daughter goat estate jealous net bottom pattern aware pitch bike";

@@ -1,1 +1,1 @@
-var mnemonic = "echo flash praise wrist student fiber option fish pistol such trip sudden";
+var mnemonic = "obvious isolate idle critic humble cricket right erupt curtain afraid empower small";

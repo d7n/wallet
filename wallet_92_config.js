@@ -1,1 +1,1 @@
-var mnemonic = "diet photo convince bullet public fog brand between front fossil inject taxi";
+var mnemonic = "awful age lend yard put nasty smooth cheese recycle canvas advance nature";

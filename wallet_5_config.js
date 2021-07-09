@@ -1,1 +1,1 @@
-var mnemonic = "tell anchor oxygen acquire cement broken blame thank virus game duck canvas";
+var mnemonic = "tiger behave slight glue armor choice boring meat spray dad talent despair";

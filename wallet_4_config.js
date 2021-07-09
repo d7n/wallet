@@ -1,1 +1,1 @@
-var mnemonic = "shield cheap digital decrease giggle dwarf foil weekend awful wild error stem";
+var mnemonic = "fantasy approve page brief deposit bean wisdom midnight clap reduce boy visit";

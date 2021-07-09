@@ -1,1 +1,1 @@
-var mnemonic = "beyond another mention pluck poverty welcome have list hawk novel foam sea";
+var mnemonic = "cannon exchange avoid demand comic benefit group bicycle phone because ask gas";

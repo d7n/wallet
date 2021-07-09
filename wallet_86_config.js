@@ -1,1 +1,1 @@
-var mnemonic = "iron police web barely wife jar alter boss dish exhibit upgrade portion";
+var mnemonic = "stay soccer add tornado brush bird select high suit token inmate employ";

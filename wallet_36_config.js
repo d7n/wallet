@@ -1,1 +1,1 @@
-var mnemonic = "fork scan describe task make enter any desk tank color voice era";
+var mnemonic = "narrow rib elbow toss april quit girl depend barrel connect neither vote";

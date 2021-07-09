@@ -1,1 +1,1 @@
-var mnemonic = "soon tomorrow real what rapid true mobile excess there grain quarter unit";
+var mnemonic = "earn panther gossip myself erosion gospel luxury embark ice curve logic unable";

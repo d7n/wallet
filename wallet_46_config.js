@@ -1,1 +1,1 @@
-var mnemonic = "nasty once jazz brass silly wrap gorilla twin blush disorder much thumb";
+var mnemonic = "scheme dilemma across polar cousin lumber impulse amused right window desert bridge";

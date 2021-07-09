@@ -1,1 +1,1 @@
-var mnemonic = "large skull juice honey sister chunk picture pigeon cloud eyebrow weasel puzzle";
+var mnemonic = "foster clinic tip code dove client process panic struggle reflect absorb share";

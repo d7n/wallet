@@ -1,1 +1,1 @@
-var mnemonic = "perfect lawsuit employ love cactus turn feature jar admit remove velvet magic";
+var mnemonic = "blue million what seat must daring hammer guitar drift ill expire salon";

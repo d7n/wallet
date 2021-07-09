@@ -1,1 +1,1 @@
-var mnemonic = "art raw dolphin gap base bid idea limb pony weather chief dilemma";
+var mnemonic = "verb second disease art great seed caught learn crazy bronze afford version";

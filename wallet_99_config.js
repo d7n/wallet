@@ -1,1 +1,1 @@
-var mnemonic = "hidden tribe body blood awake armor lava fish strike tragic anchor father";
+var mnemonic = "gain concert input round monster hospital clutch burger naive amazing cruel valid";

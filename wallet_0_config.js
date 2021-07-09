@@ -1,1 +1,1 @@
-var mnemonic = "adult survey grape twin junior earth vendor around liberty ghost wife rug";
+var mnemonic = "extra ritual limb couch maze almost almost force soon situate burden disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "truly regular social shiver exile dog hedgehog gossip bag deal final vacant";
+var mnemonic = "average chapter source urge float horn suggest depend belt neutral helmet short";

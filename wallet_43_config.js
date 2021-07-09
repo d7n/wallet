@@ -1,1 +1,1 @@
-var mnemonic = "grace grid loyal photo fabric relax chair uncle license drum van venture";
+var mnemonic = "cabin hunt digital notice swarm tray exit mercy reflect copy banner symptom";

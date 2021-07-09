@@ -1,1 +1,1 @@
-var mnemonic = "wolf annual praise razor vessel derive make still mercy boil wrap caught";
+var mnemonic = "flock cancel add attitude smoke like tiny secret mutual airport noble fault";

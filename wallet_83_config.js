@@ -1,1 +1,1 @@
-var mnemonic = "bundle where dial door stereo slight cruise ceiling brief disorder wrestle powder";
+var mnemonic = "replace motor rocket october false program more convince crouch dog lift romance";

@@ -1,1 +1,1 @@
-var mnemonic = "forum onion ethics helmet faith crouch economy paper name script caught leave";
+var mnemonic = "assault found youth magic flash wreck cereal typical culture weather trick program";

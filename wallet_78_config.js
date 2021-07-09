@@ -1,1 +1,1 @@
-var mnemonic = "exile radio useful among session snake offer shy scale vapor cream kingdom";
+var mnemonic = "absorb ticket now hundred loan safe tray notice armor dynamic virtual unit";

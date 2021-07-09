@@ -1,1 +1,1 @@
-var mnemonic = "shield panic damage jazz great stone lawn addict follow jeans toss act";
+var mnemonic = "car cinnamon private beach liberty stamp advice length action cable width unusual";

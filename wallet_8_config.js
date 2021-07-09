@@ -1,1 +1,1 @@
-var mnemonic = "hurdle wealth hat nominee fury crystal leader approve shrug delay hurt hundred";
+var mnemonic = "delay maid lonely limb spider organ jungle eight secret bike tip whip";

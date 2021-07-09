@@ -1,1 +1,1 @@
-var mnemonic = "hard repeat dawn unusual hint shift pave protect spin resemble public carbon";
+var mnemonic = "river amazing drink dizzy chuckle method cover snack frost electric cactus crawl";

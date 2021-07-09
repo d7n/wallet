@@ -1,1 +1,1 @@
-var mnemonic = "hockey emerge order scene swamp together okay armor muffin extend siren faith";
+var mnemonic = "toward educate cactus step around want climb cook chair over section unusual";

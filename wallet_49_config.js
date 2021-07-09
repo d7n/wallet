@@ -1,1 +1,1 @@
-var mnemonic = "cheese style journey toy town dirt negative round grunt crash panda clown";
+var mnemonic = "six burst wait very manual daring child phone attack ostrich budget festival";

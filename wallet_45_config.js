@@ -1,1 +1,1 @@
-var mnemonic = "unfold phone deal tank aim goddess order select absurd name elephant frozen";
+var mnemonic = "soccer they clap elephant thunder boy tooth useful boy ticket laptop broom";

@@ -1,1 +1,1 @@
-var mnemonic = "area wasp post snap ceiling doll way woman inch blouse high banner";
+var mnemonic = "spot brother dirt nature always under vote manage heavy absorb collect engine";

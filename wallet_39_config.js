@@ -1,1 +1,1 @@
-var mnemonic = "name nominee reunion grace evolve push cushion copper dirt flee penalty flush";
+var mnemonic = "gossip olive battle rapid tape coil object negative network design metal stamp";

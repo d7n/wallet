@@ -1,1 +1,1 @@
-var mnemonic = "vague hand differ hill exhaust cloth wet truck actual ancient hurdle north";
+var mnemonic = "upgrade assault brisk gasp horror orange curtain tuition cigar never width problem";

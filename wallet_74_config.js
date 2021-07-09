@@ -1,1 +1,1 @@
-var mnemonic = "mule bring thing mechanic dress spare tornado reflect zebra insect scrub veteran";
+var mnemonic = "coast ignore drip category alarm depth battle sand gauge mechanic knee useless";

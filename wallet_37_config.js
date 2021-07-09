@@ -1,1 +1,1 @@
-var mnemonic = "scout burger ribbon motion lamp matter employ innocent laundry muffin approve frozen";
+var mnemonic = "arrow muscle inject ribbon rubber anchor couch glass tree home mother practice";

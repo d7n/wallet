@@ -1,1 +1,1 @@
-var mnemonic = "faith garment broom rough under source wife torch shrimp shield enemy paper";
+var mnemonic = "walk voyage topple labor rabbit assault credit during balance engage spoon vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage dinner weather again dignity pistol indicate front receive buyer need field";
+var mnemonic = "dynamic stuff fetch clump innocent jaguar normal what collect popular gift divorce";

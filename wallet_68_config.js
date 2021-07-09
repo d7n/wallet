@@ -1,1 +1,1 @@
-var mnemonic = "bird execute manual leopard scan lecture midnight mammal afford question drive scrub";
+var mnemonic = "index tent prize image autumn ginger gap digital trend civil boat grant";
