@@ -1,1 +1,1 @@
-var mnemonic = "captain oak bullet crystal illness enrich glue dutch oil episode begin jacket";
+var mnemonic = "key oval urban animal survey across boring habit tissue often trim robot";

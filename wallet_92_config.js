@@ -1,1 +1,1 @@
-var mnemonic = "good grunt music comfort beyond rich acoustic soul bus olive crunch zone";
+var mnemonic = "warfare mandate motion update rib enforce glass stuff sword dignity raise slush";

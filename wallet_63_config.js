@@ -1,1 +1,1 @@
-var mnemonic = "dinner word sustain fold copper mimic wheel behave thrive swamp duty long";
+var mnemonic = "jealous salmon brother pizza select wait legend prevent bid opera network library";

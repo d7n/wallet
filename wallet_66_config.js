@@ -1,1 +1,1 @@
-var mnemonic = "laundry unfold drift broken ozone air warfare one mandate foil oblige crisp";
+var mnemonic = "hawk consider weapon mask small elevator example alley excuse cheap hamster resource";

@@ -1,1 +1,1 @@
-var mnemonic = "genre box chest multiply release surface buyer recall blame manual annual keen";
+var mnemonic = "post profit isolate engage spread shoot focus grab club stem check inmate";

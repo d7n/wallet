@@ -1,1 +1,1 @@
-var mnemonic = "seminar satisfy humble pumpkin brother service oblige anger tower trade claim ticket";
+var mnemonic = "patch dwarf foot swear basic surface couch lawn floor west sorry climb";

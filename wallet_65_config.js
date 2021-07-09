@@ -1,1 +1,1 @@
-var mnemonic = "pave alarm inner kingdom carry thing tray draft knife miracle awful under";
+var mnemonic = "champion chronic save message slender any travel flavor debris afford success elite";

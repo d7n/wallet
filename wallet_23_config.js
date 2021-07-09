@@ -1,1 +1,1 @@
-var mnemonic = "day orient okay keep develop hint chief swarm tunnel boring prevent weapon";
+var mnemonic = "meat reform remove dance dawn release appear fun volume wealth excuse catalog";

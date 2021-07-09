@@ -1,1 +1,1 @@
-var mnemonic = "rule real vicious dentist sick dignity rally crowd senior ladder push plastic";
+var mnemonic = "else amateur stand aisle middle baby dose genius flush property jungle holiday";

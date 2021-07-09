@@ -1,1 +1,1 @@
-var mnemonic = "brain lake claim fortune dog protect ramp attack blossom route render target";
+var mnemonic = "dentist dash bird lonely cereal liberty nation try truck coral input eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "defense refuse tongue faith sign beef poverty wall dentist spike stadium all";
+var mnemonic = "decline rack congress dove ancient shaft diesel trial limb stand design chuckle";

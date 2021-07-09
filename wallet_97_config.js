@@ -1,1 +1,1 @@
-var mnemonic = "notice sign source clean mammal tilt onion direct hip address wealth grain";
+var mnemonic = "fiber script salt curve forest minimum truly canvas action notable crouch glad";

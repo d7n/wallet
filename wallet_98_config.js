@@ -1,1 +1,1 @@
-var mnemonic = "kitchen ketchup injury mercy aspect keep primary combine tower stone accuse machine";
+var mnemonic = "monster odor identify silent friend animal ritual salute tower margin duck sad";

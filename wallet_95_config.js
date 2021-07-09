@@ -1,1 +1,1 @@
-var mnemonic = "fatal marble then brush final climb rail horn person marble provide south";
+var mnemonic = "reward drama brother unfold swear knock damp cloth lava resource fluid game";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil method soft script scout bomb royal bonus trade edit husband cliff";
+var mnemonic = "buddy urban mobile allow embrace inhale flame empty midnight spell drive side";

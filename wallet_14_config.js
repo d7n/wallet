@@ -1,1 +1,1 @@
-var mnemonic = "brand half woman unknown skirt ring cheap rely assume honey immense bird";
+var mnemonic = "page sock small protect wave dress verb stay gold stumble table result";

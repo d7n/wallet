@@ -1,1 +1,1 @@
-var mnemonic = "sport garlic message wheat neither happy pony slush twelve road someone casino";
+var mnemonic = "cat dial next right hope awesome quantum play dad salmon suffer cable";

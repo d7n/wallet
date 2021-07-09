@@ -1,1 +1,1 @@
-var mnemonic = "beach glow welcome employ grief output dragon success float boat market basic";
+var mnemonic = "fat sheriff guess deposit announce balance example bamboo harsh noodle inspire joy";

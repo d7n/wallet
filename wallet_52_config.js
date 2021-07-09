@@ -1,1 +1,1 @@
-var mnemonic = "setup siren diet among any electric swamp camp chase raven spider view";
+var mnemonic = "meadow base write gentle news nephew thank you clown north security stamp";

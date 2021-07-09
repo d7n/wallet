@@ -1,1 +1,1 @@
-var mnemonic = "vast tree trash park siege awkward insane illness ancient hobby team skin";
+var mnemonic = "neck fiscal garden loop torch citizen alpha bundle soon lemon amount text";

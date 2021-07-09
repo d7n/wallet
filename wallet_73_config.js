@@ -1,1 +1,1 @@
-var mnemonic = "south inflict jar argue alpha noodle trouble ability about term knee emotion";
+var mnemonic = "vapor cigar silk cotton shoulder ordinary west napkin tiger brother lunar bless";

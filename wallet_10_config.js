@@ -1,1 +1,1 @@
-var mnemonic = "behave bounce wisdom lend try core chief leaf antenna desk fly school";
+var mnemonic = "lunch cable heart honey abuse trend onion truly jar glove nature crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate predict liar this draw lock tooth wood battle model movie famous";
+var mnemonic = "catch option issue nephew gate budget coyote swing act sponsor eager pause";

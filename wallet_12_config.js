@@ -1,1 +1,1 @@
-var mnemonic = "submit auto artwork barrel abuse asthma lawn paddle siren faculty essay master";
+var mnemonic = "faith hint this chair dynamic spawn letter roast select face lonely evoke";

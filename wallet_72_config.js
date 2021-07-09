@@ -1,1 +1,1 @@
-var mnemonic = "stable sustain into define fork raccoon awful relief task quit charge retreat";
+var mnemonic = "speed globe comic axis logic output such bag shiver execute mango salad";

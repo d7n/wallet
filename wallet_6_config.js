@@ -1,1 +1,1 @@
-var mnemonic = "history school soon fiber wrestle mercy canal permit sniff nut clarify usage";
+var mnemonic = "party work ensure penalty dry foster toward attract wave allow huge foil";

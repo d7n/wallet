@@ -1,1 +1,1 @@
-var mnemonic = "flat talent strategy business pull churn shaft accuse fancy eyebrow goat shoulder";
+var mnemonic = "address eagle theory lawsuit stomach random acquire place endorse scan lucky silent";

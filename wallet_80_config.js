@@ -1,1 +1,1 @@
-var mnemonic = "tip rude camera you kid trip quiz advance tooth sea guilt acid";
+var mnemonic = "zone reward arch walnut grid fly toe beyond gadget shift fog park";

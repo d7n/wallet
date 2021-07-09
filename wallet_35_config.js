@@ -1,1 +1,1 @@
-var mnemonic = "behave flat twice spell month fitness when ignore agent early two reveal";
+var mnemonic = "kind design hat project junior mosquito angle hidden purchase salon time road";

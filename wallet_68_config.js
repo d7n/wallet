@@ -1,1 +1,1 @@
-var mnemonic = "focus beach trash vicious palace era toast discover cliff say chapter urge";
+var mnemonic = "misery skull hello weasel toward cement acquire soldier ladder bridge orient gift";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple nuclear beyond mix noodle park december daughter decrease drop ozone spread";
+var mnemonic = "peasant camp fury joy subway canal hollow enforce scissors super category return";

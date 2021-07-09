@@ -1,1 +1,1 @@
-var mnemonic = "town sock idle mercy wide case spot buddy decrease sand weekend course";
+var mnemonic = "way agree sketch age fringe control social injury educate common maid century";

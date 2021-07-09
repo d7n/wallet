@@ -1,1 +1,1 @@
-var mnemonic = "income future embrace soft stand push question economy air useful social survey";
+var mnemonic = "correct utility divert twin narrow divide usage slogan script vicious off remind";

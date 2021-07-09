@@ -1,1 +1,1 @@
-var mnemonic = "loop witness soul wire cabbage basket section debate oppose chase divide people";
+var mnemonic = "friend knee crime opera struggle wide boss auction unit glove okay pupil";

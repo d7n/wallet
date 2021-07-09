@@ -1,1 +1,1 @@
-var mnemonic = "wing lava mechanic vocal fashion young before bundle fortune spare atom cabbage";
+var mnemonic = "merit poet oval tumble cherry heart occur drip dad sustain decorate machine";

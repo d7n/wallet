@@ -1,1 +1,1 @@
-var mnemonic = "vague prevent night clutch kitchen legend execute height jacket torch walk breeze";
+var mnemonic = "chest siren maze express feature arm clip omit guess action twice crucial";

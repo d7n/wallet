@@ -1,1 +1,1 @@
-var mnemonic = "strong boil destroy timber round satoshi afraid smooth make admit welcome next";
+var mnemonic = "cycle debris soda ankle neutral health jump glory edit parade fade auto";

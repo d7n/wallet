@@ -1,1 +1,1 @@
-var mnemonic = "language ten rice crouch render wear since acid frozen bounce steel plastic";
+var mnemonic = "exile dress wealth twist conduct hub square enhance demise ocean rural open";

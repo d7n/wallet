@@ -1,1 +1,1 @@
-var mnemonic = "drive silent ozone also garbage embody weasel baby hotel alcohol puzzle engage";
+var mnemonic = "much family game north bulb poverty silly retreat exhaust story combine child";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel warrior meadow reward cabin bleak wild wasp useful globe again vivid";
+var mnemonic = "museum beach fly frost cricket right decrease ice bargain material antenna peanut";

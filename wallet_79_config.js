@@ -1,1 +1,1 @@
-var mnemonic = "record shuffle dinosaur either light subject guilt already vehicle gauge crew sister";
+var mnemonic = "frame wife cattle reject fine please blame mass verb before carbon festival";

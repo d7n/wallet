@@ -1,1 +1,1 @@
-var mnemonic = "wall profit rich island armor spoon ritual hello axis obscure certain limit";
+var mnemonic = "finish lyrics suspect pitch short kite wreck unfair harsh orange suit bind";

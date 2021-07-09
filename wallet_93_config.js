@@ -1,1 +1,1 @@
-var mnemonic = "neglect young balance off weekend cancel cherry lawn chapter salad tornado turn";
+var mnemonic = "neglect never fortune dolphin lunar movie never aerobic oxygen chest remove deliver";

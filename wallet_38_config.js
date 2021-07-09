@@ -1,1 +1,1 @@
-var mnemonic = "more rice whale penalty acoustic vendor antenna bright limb nature fancy vicious";
+var mnemonic = "doctor amazing consider raven model type place syrup feel dune bread squeeze";

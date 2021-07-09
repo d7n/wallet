@@ -1,1 +1,1 @@
-var mnemonic = "oak sound office traffic grit ball away kidney pelican blossom ribbon police";
+var mnemonic = "antenna narrow february enroll wood bread train earn will legend busy grief";

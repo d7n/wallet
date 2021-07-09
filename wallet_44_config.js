@@ -1,1 +1,1 @@
-var mnemonic = "lonely road blue sword curve input add response twice tortoise quiz aerobic";
+var mnemonic = "enhance skin remember result soul ill thing penalty exist comic evidence canvas";

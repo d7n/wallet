@@ -1,1 +1,1 @@
-var mnemonic = "hawk impulse dance weasel visit couple oak celery disorder budget climb border";
+var mnemonic = "enroll kangaroo keep museum swear minimum false antique famous slender deny divorce";

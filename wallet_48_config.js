@@ -1,1 +1,1 @@
-var mnemonic = "baby online home model claw extend ecology unveil bread provide clown pupil";
+var mnemonic = "occur angle minor misery city across doll ill attend actress reform filter";

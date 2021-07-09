@@ -1,1 +1,1 @@
-var mnemonic = "peanut dash smoke tomato grain ski fault file wool royal hammer shove";
+var mnemonic = "unusual arm oven senior small crash senior forum concert diamond ring flip";

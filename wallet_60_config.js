@@ -1,1 +1,1 @@
-var mnemonic = "diamond garlic march artist unhappy ankle buddy gloom luggage mirror palace young";
+var mnemonic = "pluck ask chief exercise guide pear achieve vintage twice equal notice outside";

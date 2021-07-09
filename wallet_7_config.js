@@ -1,1 +1,1 @@
-var mnemonic = "tag shed notice ranch insect coil aim eternal bicycle accident speak matter";
+var mnemonic = "tourist pride faith little primary much domain fold home mutual arrest engage";

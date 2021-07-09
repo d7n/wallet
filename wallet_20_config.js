@@ -1,1 +1,1 @@
-var mnemonic = "caution devote crazy embrace consider rate rain lift adapt reward color define";
+var mnemonic = "onion describe shoe tenant joy negative shy favorite monitor west trumpet nurse";

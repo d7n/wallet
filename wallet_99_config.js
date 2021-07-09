@@ -1,1 +1,1 @@
-var mnemonic = "tiny jaguar merge term provide spin pair caution liberty champion mirror useless";
+var mnemonic = "fortune fruit gallery cargo sick biology domain lawsuit obvious soldier language match";

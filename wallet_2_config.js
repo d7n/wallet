@@ -1,1 +1,1 @@
-var mnemonic = "omit comfort chief vague kiss spoil sauce humble guitar enact edge captain";
+var mnemonic = "foster unfold alien science client fury erosion struggle obscure prevent box anger";

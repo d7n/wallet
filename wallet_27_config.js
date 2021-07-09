@@ -1,1 +1,1 @@
-var mnemonic = "predict achieve rival doctor guilt collect liberty drum flame inflict width interest";
+var mnemonic = "segment voyage select oval doll achieve sure swarm slide cupboard oak embody";

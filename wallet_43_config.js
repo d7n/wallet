@@ -1,1 +1,1 @@
-var mnemonic = "sail mail small shock address slice main time answer keep pulp faint";
+var mnemonic = "normal isolate demise good differ punch piece few mother fiscal range try";

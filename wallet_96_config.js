@@ -1,1 +1,1 @@
-var mnemonic = "syrup photo venue account draft vital give tip saddle flower strike transfer";
+var mnemonic = "fiction turn because amateur carry toss author liberty pottery girl near actor";

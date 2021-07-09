@@ -1,1 +1,1 @@
-var mnemonic = "urge deliver copy toward rate water stand domain peasant reject south fringe";
+var mnemonic = "prevent wave tenant vocal athlete exact air giraffe sight proof fragile muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "love panther beach remove truck lucky ketchup crucial humor situate stuff weasel";
+var mnemonic = "sniff addict concert chaos depart long clutch guitar remind empower bring seven";

@@ -1,1 +1,1 @@
-var mnemonic = "language narrow lazy dress swift mixed ethics brother pizza other curious foil";
+var mnemonic = "vanish explain walk vital nation win right kitten approve achieve rack visual";

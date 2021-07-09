@@ -1,1 +1,1 @@
-var mnemonic = "inside scorpion sadness addict online oval jaguar grunt raw warfare ahead above";
+var mnemonic = "limit impact better dinner nuclear earn aerobic tongue lion thrive absorb have";

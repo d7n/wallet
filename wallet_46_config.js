@@ -1,1 +1,1 @@
-var mnemonic = "cradle bleak response annual hazard horse proof siren carry rice bottom off";
+var mnemonic = "slogan script craft spider apart pledge figure scout brother ocean fringe dish";

@@ -1,1 +1,1 @@
-var mnemonic = "calm tobacco gold find wood slogan skill donkey board edge human project";
+var mnemonic = "inspire type next then such normal bean choice better two health slow";

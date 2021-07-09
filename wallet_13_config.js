@@ -1,1 +1,1 @@
-var mnemonic = "mandate promote resource lizard chef choose lunar lumber salute slot deer van";
+var mnemonic = "type heavy aunt divert excite wave allow trigger nation cute sunset parade";

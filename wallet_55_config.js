@@ -1,1 +1,1 @@
-var mnemonic = "whale puzzle neglect guilt repair pilot ramp mushroom forward mercy shove minor";
+var mnemonic = "actress taxi shock easy giraffe friend teach supply shop empower knee core";

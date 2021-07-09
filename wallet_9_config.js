@@ -1,1 +1,1 @@
-var mnemonic = "wedding leg abuse typical april enter expire discover drill rule casual license";
+var mnemonic = "decade mosquito ginger jazz spoil wrap melt gloom uncover tent menu inhale";

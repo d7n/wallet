@@ -1,1 +1,1 @@
-var mnemonic = "spare rain random bread core ensure dumb peanut raccoon dentist order inside";
+var mnemonic = "decline cinnamon wash approve exist evil brief comic whip stool lecture hood";

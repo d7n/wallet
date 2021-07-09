@@ -1,1 +1,1 @@
-var mnemonic = "learn risk visa genre tragic monkey tackle fashion tool lawsuit ensure multiply";
+var mnemonic = "width custom expire fog face large couple drum will rhythm expose dove";

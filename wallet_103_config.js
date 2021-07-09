@@ -1,1 +1,1 @@
-var mnemonic = "deliver inhale coast device section expire birth hurry keep solve gather salad";
+var mnemonic = "bundle super achieve reduce obvious swap essay consider online draft upgrade neglect";

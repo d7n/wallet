@@ -1,1 +1,1 @@
-var mnemonic = "anger keep often solve crowd donate effort cliff enter square strong major";
+var mnemonic = "bacon noise tilt angry scene else obey judge dumb salon frequent veteran";

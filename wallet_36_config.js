@@ -1,1 +1,1 @@
-var mnemonic = "utility rate poet yard grocery enforce air young rain link sheriff remove";
+var mnemonic = "mom truth undo observe salute urban unit faculty glory spy proof remind";

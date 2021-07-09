@@ -1,1 +1,1 @@
-var mnemonic = "pilot solve under select volcano blush chat faith quick spy miss tennis";
+var mnemonic = "imitate light farm episode impose mystery trip habit valid grant brass aware";

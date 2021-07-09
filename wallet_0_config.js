@@ -1,1 +1,1 @@
-var mnemonic = "topic gain slight stamp seven wedding chest cannon december situate skull cover";
+var mnemonic = "silk detail raise echo beef main law farm blame mystery priority couple";

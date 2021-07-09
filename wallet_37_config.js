@@ -1,1 +1,1 @@
-var mnemonic = "judge advance void thank carpet glide enroll hub law picnic provide atom";
+var mnemonic = "board iron muffin agent actor tool path history jar end section royal";

@@ -1,1 +1,1 @@
-var mnemonic = "glory salon rocket sudden champion expect comfort age task frog token address";
+var mnemonic = "brief potato health glass fashion voice rapid ready virus pistol stick earn";

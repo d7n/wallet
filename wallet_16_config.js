@@ -1,1 +1,1 @@
-var mnemonic = "puppy goddess strike screen sniff already legal stable abandon lion vibrant estate";
+var mnemonic = "term able acoustic slim biology purpose already trouble educate second flat express";

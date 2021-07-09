@@ -1,1 +1,1 @@
-var mnemonic = "suggest hand artefact drop exile thumb collect arrest actress scrap wife spend";
+var mnemonic = "hunt chat myth total mimic quick detect orient once text thumb rib";

@@ -1,1 +1,1 @@
-var mnemonic = "salt unfair host refuse capable suggest until theme worry silly survey plunge";
+var mnemonic = "tribe baby horror resist once useless birth glimpse title foot advance impose";

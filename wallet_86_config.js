@@ -1,1 +1,1 @@
-var mnemonic = "curve same discover aim grace harsh vacuum galaxy force lion acoustic flight";
+var mnemonic = "illegal year donkey crop journey offer cigar home garment scan plate mean";

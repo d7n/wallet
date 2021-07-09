@@ -1,1 +1,1 @@
-var mnemonic = "dynamic one resource symptom chase unusual model method east fit achieve lumber";
+var mnemonic = "lava size shoot basic across romance kind moral puppy fat upgrade cactus";

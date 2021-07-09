@@ -1,1 +1,1 @@
-var mnemonic = "elbow script dash rebel update rib wise decorate wrong crisp ugly auction";
+var mnemonic = "invest opinion raccoon project zebra city relax trim mango thrive cement nice";

@@ -1,1 +1,1 @@
-var mnemonic = "scout noise wasp miss spring afraid lecture devote skirt congress draw pull";
+var mnemonic = "wash weird unable extra dance early laugh major hard silent oppose orient";

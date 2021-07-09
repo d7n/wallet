@@ -1,1 +1,1 @@
-var mnemonic = "beach ghost eight dentist transfer symptom drive armor visual celery large ethics";
+var mnemonic = "already hen catalog under carry master raven typical giggle update output either";

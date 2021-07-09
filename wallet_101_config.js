@@ -1,1 +1,1 @@
-var mnemonic = "today talk faith betray ceiling dose engage element alone squeeze nephew raven";
+var mnemonic = "estate dance spatial lobster lab debris tackle faculty language onion manual canvas";

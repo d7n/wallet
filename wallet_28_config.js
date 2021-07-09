@@ -1,1 +1,1 @@
-var mnemonic = "pear mixed fun elbow mad young crazy butter inherit jungle urban strategy";
+var mnemonic = "marriage develop jaguar garden menu shop mountain always extend shrug marine earn";

@@ -1,1 +1,1 @@
-var mnemonic = "empty ostrich welcome athlete silly unusual midnight sister peace salon razor camera";
+var mnemonic = "slim leopard wine pill east enter equal eye puzzle across depth vital";

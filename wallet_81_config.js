@@ -1,1 +1,1 @@
-var mnemonic = "educate credit witness theme episode stool surround size captain fault couch limb";
+var mnemonic = "key endless despair gown harsh roast illness soccer keen level shop debris";

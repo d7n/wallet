@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rhythm ability retire rain wagon conduct doll spend pass vendor detect";
+var mnemonic = "gadget can state enroll van rug hill narrow amazing marble sock siege";

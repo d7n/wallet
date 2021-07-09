@@ -1,1 +1,1 @@
-var mnemonic = "height magic noble light wild length load asthma local hidden correct champion";
+var mnemonic = "fold border enhance child pact idea amount find captain turtle drive medal";

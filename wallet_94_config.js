@@ -1,1 +1,1 @@
-var mnemonic = "tortoise female situate hidden inspire dose pretty injury divorce okay escape jewel";
+var mnemonic = "ask kitchen cruel physical hunt topple mobile maze knee movie legend riot";
