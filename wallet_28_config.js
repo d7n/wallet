@@ -1,1 +1,1 @@
-var mnemonic = "course need jealous round fantasy injury limit sketch target high blur control";
+var mnemonic = "drill turtle any world inmate stand armed balance furnace oxygen demand aim";

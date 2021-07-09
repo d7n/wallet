@@ -1,1 +1,1 @@
-var mnemonic = "inflict alcohol eight match few artefact loop butter cereal panda antenna boss";
+var mnemonic = "judge buddy comfort garden lawn verb grocery elite sail tired depart story";

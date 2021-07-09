@@ -1,1 +1,1 @@
-var mnemonic = "exit claw guilt bargain tiny pioneer despair relief intact shove noise divert";
+var mnemonic = "segment south breeze clock toss diet harvest sweet catch private army exhibit";

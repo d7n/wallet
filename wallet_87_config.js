@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog then insane tumble heart page banana strong move clerk truly mountain";
+var mnemonic = "kiwi amateur wait battle bind exotic stem stove digital mimic crouch lunar";

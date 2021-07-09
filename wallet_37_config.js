@@ -1,1 +1,1 @@
-var mnemonic = "range elbow decline screen call dial come scatter curtain minor canyon argue";
+var mnemonic = "muffin select typical ladder this oblige melody leaf resource length powder desert";

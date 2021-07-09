@@ -1,1 +1,1 @@
-var mnemonic = "slender foil boss gas soldier satisfy apple portion domain boost laugh tone";
+var mnemonic = "office early onion key flush casual use bundle switch feature security tuition";

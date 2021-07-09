@@ -1,1 +1,1 @@
-var mnemonic = "brown crisp film palm noodle tape evil garment traffic squirrel donor swallow";
+var mnemonic = "sweet trick just hire square estate like act certain nuclear family chest";

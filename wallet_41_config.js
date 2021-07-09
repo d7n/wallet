@@ -1,1 +1,1 @@
-var mnemonic = "tunnel refuse liar search resource cigar whisper range item marble actual amazing";
+var mnemonic = "test book tube service culture punch use combine umbrella burst pioneer jealous";

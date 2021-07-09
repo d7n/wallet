@@ -1,1 +1,1 @@
-var mnemonic = "feel sunset guitar lesson mule coin home course bench shuffle rifle crash";
+var mnemonic = "gown pave number twist neglect record glad chaos book blood victory jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage toddler hard equip canvas extend enroll ill blanket veteran leaf federal";
+var mnemonic = "thumb cargo neglect candy lizard random split claim manage elegant toddler scrub";

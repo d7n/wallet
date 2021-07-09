@@ -1,1 +1,1 @@
-var mnemonic = "slight north coffee soccer gospel clump awful clown crucial dizzy heart town";
+var mnemonic = "iron gold acoustic wine toddler all slim chest select output purpose cheese";

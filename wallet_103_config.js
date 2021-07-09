@@ -1,1 +1,1 @@
-var mnemonic = "pelican visit coach edge hospital capable rapid suffer chair hat fiscal jump";
+var mnemonic = "maze cake rescue garden dentist stove hybrid gesture promote reunion spring client";

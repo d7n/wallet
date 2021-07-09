@@ -1,1 +1,1 @@
-var mnemonic = "gorilla legend antique wisdom visual smoke slight wink warm absorb steak bicycle";
+var mnemonic = "uncle east correct spend brand cake fruit replace ice piece waste denial";

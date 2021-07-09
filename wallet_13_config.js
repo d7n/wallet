@@ -1,1 +1,1 @@
-var mnemonic = "very glove wrong update monster thank hurry pole match donkey measure echo";
+var mnemonic = "potato filter soon crunch fork hundred echo ribbon brick nephew sea federal";

@@ -1,1 +1,1 @@
-var mnemonic = "valley brick color august weasel special hundred rival science thrive size trip";
+var mnemonic = "save large kit vibrant spawn illness kidney cheap bargain receive bullet hip";

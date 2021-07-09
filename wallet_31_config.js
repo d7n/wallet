@@ -1,1 +1,1 @@
-var mnemonic = "electric label glide interest seek tobacco purchase good worry short armor rice";
+var mnemonic = "retreat damp fold wasp coyote kiwi shock bike shed engage topple arrive";

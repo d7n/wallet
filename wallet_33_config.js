@@ -1,1 +1,1 @@
-var mnemonic = "drill shy afford dignity monkey cactus alert afford intact cliff mixture skull";
+var mnemonic = "unhappy struggle gas slogan before immense fox uncle trick ride blood uncle";

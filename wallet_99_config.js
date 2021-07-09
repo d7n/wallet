@@ -1,1 +1,1 @@
-var mnemonic = "alien scissors fade again civil inject valley drip tattoo ensure match gasp";
+var mnemonic = "bag diagram quantum picture woman stereo wait lawsuit trouble relief galaxy trophy";

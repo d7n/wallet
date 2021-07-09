@@ -1,1 +1,1 @@
-var mnemonic = "across office analyst switch hard chaos wire stamp position dynamic bomb credit";
+var mnemonic = "item ethics section merit place topple grocery clown short bracket rain solar";

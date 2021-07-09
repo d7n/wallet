@@ -1,1 +1,1 @@
-var mnemonic = "merit occur cute dismiss endless vote tent audit wing drive connect mass";
+var mnemonic = "verify artist safe cruel buffalo glove month frown record verb tooth broken";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty ghost document place network defense penalty divert lunar noise property coil";
+var mnemonic = "next retire butter dwarf place drop exhibit sure yard proof april below";

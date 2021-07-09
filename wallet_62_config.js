@@ -1,1 +1,1 @@
-var mnemonic = "waste cabbage bonus buyer diamond mystery wet screen ticket current priority crunch";
+var mnemonic = "boat win ugly name noise knife primary now slab wire captain wealth";

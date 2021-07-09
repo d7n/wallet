@@ -1,1 +1,1 @@
-var mnemonic = "company video square grace extra hobby arrow memory love unveil still awake";
+var mnemonic = "globe friend picnic cradle until dream end sword nest dish menu damp";

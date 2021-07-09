@@ -1,1 +1,1 @@
-var mnemonic = "arrest crisp cycle potato bike finger pelican random history fish volcano island";
+var mnemonic = "cargo priority pencil science extra toy aisle please idea angry dizzy learn";

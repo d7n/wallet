@@ -1,1 +1,1 @@
-var mnemonic = "detail talk bike company allow inform sphere satisfy sell funny target large";
+var mnemonic = "farm oppose blossom lyrics net there erode crash orange detail neck ship";

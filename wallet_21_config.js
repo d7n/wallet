@@ -1,1 +1,1 @@
-var mnemonic = "accuse yellow venture cruise alone actress shove armor inquiry wedding buyer vacuum";
+var mnemonic = "drive predict transfer actor crane vague amateur shell jacket okay burger bean";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy top ball certain label reunion response glass filter execute step under";
+var mnemonic = "pledge monkey man romance notable pen mansion pepper upper forward cave defense";

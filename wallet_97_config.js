@@ -1,1 +1,1 @@
-var mnemonic = "rib few vast sunny employ art property sausage ankle injury access dentist";
+var mnemonic = "rifle mutual olive apology forest culture usual cram sausage shy order tilt";

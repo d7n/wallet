@@ -1,1 +1,1 @@
-var mnemonic = "minimum mass dawn tooth voice sunset foot opinion purchase knee sword hamster";
+var mnemonic = "apple atom gossip person soup color slim pave scatter window foam message";

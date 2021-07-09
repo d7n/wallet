@@ -1,1 +1,1 @@
-var mnemonic = "adult just cousin tongue sorry stairs follow sniff absorb lava captain discover";
+var mnemonic = "lunch bomb input prepare physical coil theme agree hood smooth awake scene";

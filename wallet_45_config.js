@@ -1,1 +1,1 @@
-var mnemonic = "ketchup barely observe battle cube dizzy bounce glass combine wolf calm vanish";
+var mnemonic = "crane amateur thunder barrel auto select surprise remember devote pass deposit truth";

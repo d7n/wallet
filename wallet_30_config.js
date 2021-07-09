@@ -1,1 +1,1 @@
-var mnemonic = "head blur bless fortune ozone wire deposit echo flag monkey open present";
+var mnemonic = "female power input size father version about relax kitten define spin message";

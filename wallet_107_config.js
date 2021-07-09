@@ -1,1 +1,1 @@
-var mnemonic = "comic license lounge swear update swear fall asset elevator cream foam cup";
+var mnemonic = "vacuum hospital off switch evil auction shock mind inner language lake suffer";

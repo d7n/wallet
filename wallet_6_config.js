@@ -1,1 +1,1 @@
-var mnemonic = "mirror solid join satoshi tuna area hotel jealous century birth inside enroll";
+var mnemonic = "fruit shallow improve tail say man dismiss rookie victory frown twin excess";

@@ -1,1 +1,1 @@
-var mnemonic = "rich such obscure fiscal image cinnamon price common bullet olympic aisle spring";
+var mnemonic = "tissue october sauce barrel great music spider tribe orient detail shoot collect";

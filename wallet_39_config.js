@@ -1,1 +1,1 @@
-var mnemonic = "reveal prevent fog ball camp hole oil vintage barrel valley love grunt";
+var mnemonic = "fortune lion frame spin actual oak echo quote critic chief pipe grain";

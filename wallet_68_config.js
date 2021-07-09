@@ -1,1 +1,1 @@
-var mnemonic = "online gloom young mystery family witness swarm uncover orchard broccoli dolphin become";
+var mnemonic = "veteran fence remain select embrace tip raw admit hour pole search bronze";

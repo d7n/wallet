@@ -1,1 +1,1 @@
-var mnemonic = "rapid assault noodle pretty soda scan head bounce alien bullet hammer park";
+var mnemonic = "physical helmet bullet fortune skull now winner brown finish video thunder mixed";

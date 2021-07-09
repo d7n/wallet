@@ -1,1 +1,1 @@
-var mnemonic = "police awesome round expect job retire barrel armor stick crucial result mule";
+var mnemonic = "shallow script bonus damage stairs quick require around dawn worry fiscal junior";

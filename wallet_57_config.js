@@ -1,1 +1,1 @@
-var mnemonic = "rate legend myself taste jaguar buzz slight race glory resource color silly";
+var mnemonic = "tumble fold bitter donor cart reward luxury pool rescue palace shadow ability";

@@ -1,1 +1,1 @@
-var mnemonic = "flower guess forum pretty panda shoe husband citizen captain empty abuse afraid";
+var mnemonic = "garage quarter ill unknown ensure monster drastic gown minimum laundry robust vacuum";

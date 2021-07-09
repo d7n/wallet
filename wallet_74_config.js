@@ -1,1 +1,1 @@
-var mnemonic = "eternal pledge never catch useless hedgehog hockey reward essay menu rug asset";
+var mnemonic = "leader claim price orient sorry miss quiz title recycle great pulse pig";

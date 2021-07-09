@@ -1,1 +1,1 @@
-var mnemonic = "festival express taxi forum tragic kit employ weasel elephant estate direct strong";
+var mnemonic = "claw cruel witness bread rapid steel crowd gun sad gadget main siege";

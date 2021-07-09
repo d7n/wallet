@@ -1,1 +1,1 @@
-var mnemonic = "orchard undo beauty cash chapter mother supply output arrest crack feel essence";
+var mnemonic = "cupboard pluck person venue exchange address plunge prison abandon clarify live bronze";

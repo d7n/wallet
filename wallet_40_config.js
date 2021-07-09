@@ -1,1 +1,1 @@
-var mnemonic = "barrel body notice become lazy destroy weapon brief pond palace inform snake";
+var mnemonic = "step dolphin onion chalk wagon egg asthma sniff candy december recall junk";

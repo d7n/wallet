@@ -1,1 +1,1 @@
-var mnemonic = "cause despair settle marine wedding begin whisper fun couple candy casual length";
+var mnemonic = "escape diagram creek victory whale immune mad injury close illness hire inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "humor hen elder enroll impulse attack bike orange fence ensure brush social";
+var mnemonic = "elite trumpet tell chapter lift huge bonus suspect tuition ignore tape mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious adjust garlic cigar harsh shrug reunion fetch wreck laugh maid slab";
+var mnemonic = "monster stereo license sure shop rigid frown mansion cousin return ignore bitter";

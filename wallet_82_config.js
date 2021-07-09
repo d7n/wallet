@@ -1,1 +1,1 @@
-var mnemonic = "reward talk evolve power wait ceiling wolf hover peace exotic novel wood";
+var mnemonic = "lucky abandon that buddy canvas program cloth wave armor twice awful pledge";

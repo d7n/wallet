@@ -1,1 +1,1 @@
-var mnemonic = "aisle another shoot menu adapt second blouse awake solid tuna supply near";
+var mnemonic = "meadow flush wolf scrap lobster stable twist occur board december zone clown";

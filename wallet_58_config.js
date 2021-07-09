@@ -1,1 +1,1 @@
-var mnemonic = "creek exhaust tail giraffe gun hotel auto skill arrange filter total antenna";
+var mnemonic = "coyote scatter venue strike invest guilt select royal hole home jewel rich";

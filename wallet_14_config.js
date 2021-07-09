@@ -1,1 +1,1 @@
-var mnemonic = "live network pizza govern waste scheme motion similar monkey proof loan act";
+var mnemonic = "siren fresh ensure step sustain river maximum fish civil code youth parade";

@@ -1,1 +1,1 @@
-var mnemonic = "arena field diary annual horse tooth match aunt guard depend short boat";
+var mnemonic = "mandate unique twelve tennis trigger heavy crop pluck robust cage bright borrow";

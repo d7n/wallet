@@ -1,1 +1,1 @@
-var mnemonic = "cement faint salt body trial police cabin merry basic chapter finish erosion";
+var mnemonic = "select fun mesh save water resist wheat violin toss social bunker uncover";

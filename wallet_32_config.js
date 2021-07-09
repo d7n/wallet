@@ -1,1 +1,1 @@
-var mnemonic = "cross unlock glad pigeon purse vessel robot enroll prosper zero copy health";
+var mnemonic = "hollow tomorrow ensure hole neck ivory option never lesson exact indicate subway";

@@ -1,1 +1,1 @@
-var mnemonic = "wage drill fork neglect critic fan motion embody divorce calm street universe";
+var mnemonic = "idle lend mosquito blind vacant tragic bar hire public birth profit begin";

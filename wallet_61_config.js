@@ -1,1 +1,1 @@
-var mnemonic = "siege grab behave motor view decorate resource fancy invest renew taxi blame";
+var mnemonic = "erupt slam daring industry similar mail curtain man intact grace soccer hole";

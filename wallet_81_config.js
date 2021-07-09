@@ -1,1 +1,1 @@
-var mnemonic = "virtual sock wrong labor math cloud body lens plunge monkey artefact real";
+var mnemonic = "effort rain divert usage stand exchange antique erosion case kitchen borrow track";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve april multiply soul bamboo ten trash critic imitate endless evolve slow";
+var mnemonic = "model village mushroom couch crisp thing danger require naive patch onion burger";

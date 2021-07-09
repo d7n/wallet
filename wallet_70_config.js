@@ -1,1 +1,1 @@
-var mnemonic = "favorite ripple huge shine evil guide sign online cruise length spoil noble";
+var mnemonic = "penalty desert toss hen total away explain view arrest radio topic beach";

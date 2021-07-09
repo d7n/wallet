@@ -1,1 +1,1 @@
-var mnemonic = "kitten finish capable virus gossip pluck milk egg siege very donkey thought";
+var mnemonic = "knee noodle two attitude comic sick return adjust uphold charge sun hub";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain acquire catalog piano exact fragile often noble hybrid talent pave sister";
+var mnemonic = "language unusual stick nurse path load chest latin shield message quick uniform";

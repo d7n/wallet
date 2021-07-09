@@ -1,1 +1,1 @@
-var mnemonic = "large student churn train dune donkey wage hair hold company cattle tiny";
+var mnemonic = "palm nice weird lamp employ thunder cost knife embark orient wonder shed";

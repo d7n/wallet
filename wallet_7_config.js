@@ -1,1 +1,1 @@
-var mnemonic = "trouble someone rifle day regret normal shallow throw affair story ostrich rug";
+var mnemonic = "clay day orient holiday include betray giant voyage artwork sunset enemy bone";

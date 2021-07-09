@@ -1,1 +1,1 @@
-var mnemonic = "ribbon bind guilt chuckle together evil around inside ketchup steak destroy truth";
+var mnemonic = "olive lunch auto dumb inquiry find rice fiscal pony way hen cover";

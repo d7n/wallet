@@ -1,1 +1,1 @@
-var mnemonic = "gloom garbage leave truth party crunch autumn promote drastic board kitten surface";
+var mnemonic = "lottery urge mom column hospital then project broken off feel furnace consider";

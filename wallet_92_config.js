@@ -1,1 +1,1 @@
-var mnemonic = "liquid slender kick pigeon wheel asset among meat merit rough fine runway";
+var mnemonic = "holiday roast assist put pizza question scatter hip drift clutch mix vacuum";

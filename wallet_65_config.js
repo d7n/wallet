@@ -1,1 +1,1 @@
-var mnemonic = "reward coach scale under merit holiday grid afraid blanket leisure guard fresh";
+var mnemonic = "artist horror barrel rotate obvious bundle reduce sell critic fortune indicate trick";

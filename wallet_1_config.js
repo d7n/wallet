@@ -1,1 +1,1 @@
-var mnemonic = "fame tide supply economy second civil glory gate blue clarify humor sentence";
+var mnemonic = "often warrior treat stumble upset tell dilemma dry knee mechanic bronze never";

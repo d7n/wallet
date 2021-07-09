@@ -1,1 +1,1 @@
-var mnemonic = "middle judge crunch pattern entry uphold absurd include matrix flag blanket glass";
+var mnemonic = "pretty hurdle feed question loan blanket session security speed stock orbit usage";

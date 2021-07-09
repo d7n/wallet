@@ -1,1 +1,1 @@
-var mnemonic = "number dentist drop hire anxiety glue dawn reward cliff decline gravity problem";
+var mnemonic = "differ skate element ask click twenty tray produce remember treat twelve improve";

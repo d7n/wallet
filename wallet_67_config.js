@@ -1,1 +1,1 @@
-var mnemonic = "item wasp mansion name ramp process blouse subject notice laptop forum craft";
+var mnemonic = "peasant depend involve renew enroll anchor puzzle tower early main point turn";

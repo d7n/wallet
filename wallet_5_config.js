@@ -1,1 +1,1 @@
-var mnemonic = "pass require open dish advice fork square breeze host peanut more finish";
+var mnemonic = "cake mosquito camera afraid affair enforce nature surge tell second element belt";

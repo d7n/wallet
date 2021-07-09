@@ -1,1 +1,1 @@
-var mnemonic = "body blast lumber lawn airport uncle adjust matter radar defense typical apology";
+var mnemonic = "sustain eyebrow rural spy talent album clap cabin double ticket west cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "allow alarm slush cousin galaxy alpha treat guess three other movie belt";
+var mnemonic = "raccoon sphere remain ladder girl amount bone pluck core act very rough";

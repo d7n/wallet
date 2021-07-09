@@ -1,1 +1,1 @@
-var mnemonic = "wisdom help knee photo ignore royal believe cruise exhaust pioneer tragic conduct";
+var mnemonic = "lava type stamp milk lemon glass army scheme napkin verify problem ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "space profit fabric giraffe okay logic vapor butter few click busy absorb";
+var mnemonic = "ocean object immense false crop genre wolf minimum mammal flight dog accident";

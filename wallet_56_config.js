@@ -1,1 +1,1 @@
-var mnemonic = "together announce dumb salt meat hidden assist vacant blanket slight gown suspect";
+var mnemonic = "digital help regular bean oven course tribe laugh favorite radio sort impose";

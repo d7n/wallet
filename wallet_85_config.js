@@ -1,1 +1,1 @@
-var mnemonic = "prize leopard galaxy ring jealous history chef settle render genius drastic orchard";
+var mnemonic = "cupboard divert mercy crumble coil borrow fiscal update bid scale flame address";

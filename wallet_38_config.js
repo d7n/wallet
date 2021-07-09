@@ -1,1 +1,1 @@
-var mnemonic = "twist flat spice indoor elite spy pledge can typical lumber blanket school";
+var mnemonic = "farm actress toilet frost damp sleep velvet region survey copy undo top";

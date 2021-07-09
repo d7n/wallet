@@ -1,1 +1,1 @@
-var mnemonic = "hire absorb abandon acoustic dice hobby control neck shallow donkey stereo bean";
+var mnemonic = "during mad spirit cotton identify repair lend gas frozen cruise impose urban";

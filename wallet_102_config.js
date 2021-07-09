@@ -1,1 +1,1 @@
-var mnemonic = "gauge enough library wait sport hour accuse banana forest ignore urge evidence";
+var mnemonic = "describe creek matter genius indicate creek total version giant blue cousin seed";

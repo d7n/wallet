@@ -1,1 +1,1 @@
-var mnemonic = "motor produce broom great trend buddy sound taste dilemma renew orchard control";
+var mnemonic = "slide bamboo clever valley dumb still tide stem evil one horse leader";

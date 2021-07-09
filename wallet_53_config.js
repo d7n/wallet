@@ -1,1 +1,1 @@
-var mnemonic = "debris ten very double mother sure top raccoon expect cargo grass basket";
+var mnemonic = "foam crash medal people rhythm credit author sun slam blush motor any";

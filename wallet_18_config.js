@@ -1,1 +1,1 @@
-var mnemonic = "employ excite work position aerobic essence december silk jewel keen radio noodle";
+var mnemonic = "pave oblige warrior fiber hawk trouble tackle brain ankle stone stumble nerve";

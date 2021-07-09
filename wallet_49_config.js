@@ -1,1 +1,1 @@
-var mnemonic = "gap trigger silver letter time resist medal also sock bind game rifle";
+var mnemonic = "welcome gap spoil mountain assist picnic decline voice ribbon naive resemble rude";

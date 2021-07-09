@@ -1,1 +1,1 @@
-var mnemonic = "goose suit keep liar betray mammal custom clean divert crouch neutral prize";
+var mnemonic = "strategy twist glance width glad budget job boy shrug bundle lock pledge";

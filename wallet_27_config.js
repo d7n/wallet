@@ -1,1 +1,1 @@
-var mnemonic = "shaft leopard differ unaware typical convince piece boring balance rigid hidden shell";
+var mnemonic = "embrace repeat interest anchor father volume approve bronze insane morning brisk swap";

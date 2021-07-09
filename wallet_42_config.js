@@ -1,1 +1,1 @@
-var mnemonic = "auction gasp medal habit solution veteran inflict success visit donate link gentle";
+var mnemonic = "tent woman fortune pumpkin bone book cousin spider gift clap response frog";

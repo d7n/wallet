@@ -1,1 +1,1 @@
-var mnemonic = "boy plunge shoulder jaguar convince square arena cage solid amount limb decide";
+var mnemonic = "program skull behave defy river hello humor tent position idle powder regular";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy garment fall fiction buddy orange purpose galaxy blossom sort humor midnight";
+var mnemonic = "inmate glide appear joy beyond narrow allow film mandate possible file convince";

@@ -1,1 +1,1 @@
-var mnemonic = "birth spin raw limit powder script lizard shrug oppose occur better erase";
+var mnemonic = "sad joy satisfy pluck exhaust excuse ride valve sweet garbage attack uncle";

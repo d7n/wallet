@@ -1,1 +1,1 @@
-var mnemonic = "foster famous wish feed balcony asset cook pencil napkin defy level nerve";
+var mnemonic = "forum injury cram isolate neglect current pill lock judge cry hope length";

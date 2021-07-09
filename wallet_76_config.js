@@ -1,1 +1,1 @@
-var mnemonic = "proud dream popular skirt normal begin suffer foil holiday pistol proof you";
+var mnemonic = "shiver cool begin uncover tuition fantasy enable ripple chief define amateur spoil";

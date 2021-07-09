@@ -1,1 +1,1 @@
-var mnemonic = "decide alcohol rebel able come girl goose jump erosion card history camp";
+var mnemonic = "kick miss symbol rhythm profit sock fruit achieve essence supply journey area";

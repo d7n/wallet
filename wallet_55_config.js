@@ -1,1 +1,1 @@
-var mnemonic = "anxiety master pen stereo census ocean street reduce audit month faint typical";
+var mnemonic = "honey shop picture shrug action omit spike original meadow rotate orange floor";
