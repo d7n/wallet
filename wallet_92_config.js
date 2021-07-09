@@ -1,1 +1,1 @@
-var mnemonic = "coral cart shoulder aspect that slide avoid aspect feed limb jazz next";
+var mnemonic = "teach envelope address recycle van together wine require process enhance border tortoise";

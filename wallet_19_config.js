@@ -1,1 +1,1 @@
-var mnemonic = "digital peasant sunny suspect tooth large mask salad couch museum game weasel";
+var mnemonic = "pet between region iron garment spare album price swap brand wreck stone";

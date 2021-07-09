@@ -1,1 +1,1 @@
-var mnemonic = "fantasy unknown include maximum arrest agent drama life rural spike beef web";
+var mnemonic = "uniform radio salute crane borrow dwarf decide truck announce garden problem obey";

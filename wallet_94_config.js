@@ -1,1 +1,1 @@
-var mnemonic = "spice scare design acquire outside outer february cattle inject hero sunny order";
+var mnemonic = "system never foil alley sweet discover cash identify pluck define cheap defy";

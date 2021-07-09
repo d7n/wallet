@@ -1,1 +1,1 @@
-var mnemonic = "flavor evidence tribe long planet odor uphold noise random audit quarter nose";
+var mnemonic = "diesel gas knife law neglect weasel dentist seven bulk athlete future plunge";

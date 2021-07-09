@@ -1,1 +1,1 @@
-var mnemonic = "joke total dry multiply crew stool gaze design similar truth beach fee";
+var mnemonic = "basket cloud brass month love year tumble glance pair tomorrow output end";

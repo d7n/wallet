@@ -1,1 +1,1 @@
-var mnemonic = "decade region tongue basic crew night love ship until lens ancient alone";
+var mnemonic = "fresh arm attract family loop uncle solve adult clap rookie flock drama";

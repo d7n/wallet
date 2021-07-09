@@ -1,1 +1,1 @@
-var mnemonic = "rifle horn race pull grab install fan spawn response hockey toe spoil";
+var mnemonic = "december divert audit finish skirt boring reject glove wife mansion hawk mouse";

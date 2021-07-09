@@ -1,1 +1,1 @@
-var mnemonic = "then neutral fossil today vast clump bring young system often cook such";
+var mnemonic = "chief victory raw flock frown taxi avocado raven choose omit under calm";

@@ -1,1 +1,1 @@
-var mnemonic = "badge believe cram keep fantasy moral loop ripple dice protect lunch scan";
+var mnemonic = "fold daring chunk task bottom trick praise crowd raven can day trumpet";

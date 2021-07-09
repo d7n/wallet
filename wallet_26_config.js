@@ -1,1 +1,1 @@
-var mnemonic = "eternal bridge flip fork enact retire season ten meat scrub sample cousin";
+var mnemonic = "glare brush misery park brass minimum chaos food wonder armor impact picture";

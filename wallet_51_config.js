@@ -1,1 +1,1 @@
-var mnemonic = "federal town despair drama soul history primary dose economy sphere shaft endless";
+var mnemonic = "help oval mind write affair nature medal forum nominee accident gesture cave";

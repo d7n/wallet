@@ -1,1 +1,1 @@
-var mnemonic = "retire pretty club update west speed inch crane trust thing obtain reflect";
+var mnemonic = "position harsh april meat helmet adult pioneer solution vibrant wash diet bench";

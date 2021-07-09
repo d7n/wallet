@@ -1,1 +1,1 @@
-var mnemonic = "feel height defy north leader gallery illness quantum vote true main table";
+var mnemonic = "index copper route round cloud autumn viable innocent flat bird gravity stadium";

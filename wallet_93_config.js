@@ -1,1 +1,1 @@
-var mnemonic = "cabin across canoe chase describe dilemma truth round comic fragile crucial enable";
+var mnemonic = "walk control alarm quote clown mad saddle doctor puzzle elegant advice gather";

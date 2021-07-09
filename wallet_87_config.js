@@ -1,1 +1,1 @@
-var mnemonic = "sock fossil era spray glow slim winner average vocal bread repeat cost";
+var mnemonic = "electric report riot review tube volcano young waste type price gain demand";

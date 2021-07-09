@@ -1,1 +1,1 @@
-var mnemonic = "result roof thought deposit salmon lens rose stove pull crouch ride apart";
+var mnemonic = "super absurd wisdom race aerobic into photo author shallow melody drastic boost";

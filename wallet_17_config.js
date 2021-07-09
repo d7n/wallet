@@ -1,1 +1,1 @@
-var mnemonic = "turtle series screen exist film area steak cat absent people enable sword";
+var mnemonic = "coast update orbit empty uniform scissors lion bike baby raw disagree broken";

@@ -1,1 +1,1 @@
-var mnemonic = "blush cave library cricket very siren black electric recipe hire able drum";
+var mnemonic = "carry render find salmon people enough guide speak exhaust cat kidney potato";

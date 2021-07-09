@@ -1,1 +1,1 @@
-var mnemonic = "clutch coconut above acid crystal hire inside wheel charge mass rack miracle";
+var mnemonic = "during cat loyal moment pledge common permit pizza fatal novel approve play";

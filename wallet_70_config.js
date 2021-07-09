@@ -1,1 +1,1 @@
-var mnemonic = "shy oval mail skill column already atom sad kiss enable process off";
+var mnemonic = "during stairs ginger mad sudden spray team tissue salute syrup spoil magnet";

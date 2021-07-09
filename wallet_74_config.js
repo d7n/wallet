@@ -1,1 +1,1 @@
-var mnemonic = "achieve reopen pave crowd virus crucial obvious pill close banner chronic catch";
+var mnemonic = "misery tortoise coach rotate armor cannon essay reopen bind spend raccoon prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese hint sell fantasy crowd awkward pave idea velvet entire join pole";
+var mnemonic = "ozone decorate sound fade cake arrest time purchase strong exchange chef license";

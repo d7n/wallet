@@ -1,1 +1,1 @@
-var mnemonic = "window february mushroom own another snake just erode name phone stable you";
+var mnemonic = "diesel company puppy educate shrimp magnet simple diet hybrid region alert exile";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty crisp pass appear dragon boost material seed thumb rocket tuna gorilla";
+var mnemonic = "inject vintage burger kid tongue error regular enable total basic already guilt";

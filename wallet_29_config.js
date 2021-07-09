@@ -1,1 +1,1 @@
-var mnemonic = "little captain school horse gorilla dry energy pact pitch bless skirt panda";
+var mnemonic = "boy space anchor endorse palace defense roof cabin possible depth render trigger";

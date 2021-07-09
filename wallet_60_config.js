@@ -1,1 +1,1 @@
-var mnemonic = "describe wife jelly become oxygen random axis stamp barrel frequent glance fringe";
+var mnemonic = "ranch volcano pulse urge spike trust slide ozone bus image bicycle soup";

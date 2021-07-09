@@ -1,1 +1,1 @@
-var mnemonic = "cabin finish debate shoulder twin illness umbrella butter trash away combine brown";
+var mnemonic = "outer flag mutual cattle indoor gold profit fog small level wave bounce";

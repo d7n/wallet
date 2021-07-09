@@ -1,1 +1,1 @@
-var mnemonic = "volume scan material profit dream crash siren narrow awake sure earn dose";
+var mnemonic = "achieve apart desert chimney crater wish spoil slender top music flavor aisle";

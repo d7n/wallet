@@ -1,1 +1,1 @@
-var mnemonic = "mean height fold tomato dirt detail mail ring squeeze someone expire ready";
+var mnemonic = "oppose review level luggage myself major just avocado heavy smart flame wreck";

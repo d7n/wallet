@@ -1,1 +1,1 @@
-var mnemonic = "clerk train drill work notice uphold prefer worth modify supply inner divide";
+var mnemonic = "senior arrange pulp arch soccer eyebrow dumb civil seed analyst hub flock";

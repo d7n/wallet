@@ -1,1 +1,1 @@
-var mnemonic = "rifle begin follow clown distance police state coach swamp miracle nasty suit";
+var mnemonic = "secret check educate garbage insane since defy case tattoo erase fringe brand";

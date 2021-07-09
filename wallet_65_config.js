@@ -1,1 +1,1 @@
-var mnemonic = "nature boring reopen arena patient stone share fog term envelope tragic hen";
+var mnemonic = "loan scene injury boring zebra deliver another sport blood hunt pencil fuel";

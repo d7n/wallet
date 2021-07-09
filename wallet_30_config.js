@@ -1,1 +1,1 @@
-var mnemonic = "day world crucial old view spot repair grace away video glow quick";
+var mnemonic = "price skill flash shoe organ inspire brass three puppy basket spider trouble";

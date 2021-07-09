@@ -1,1 +1,1 @@
-var mnemonic = "discover seed social roast tube route degree episode wide rib they okay";
+var mnemonic = "pudding method amateur pave output obscure timber column gossip material when polar";

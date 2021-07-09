@@ -1,1 +1,1 @@
-var mnemonic = "alone more lobster attend stumble render together approve anger desert pretty stuff";
+var mnemonic = "hen sock beyond squirrel town business head cable floor announce trust wood";

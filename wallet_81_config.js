@@ -1,1 +1,1 @@
-var mnemonic = "goddess embrace stairs forum hedgehog defy monkey common radar afraid elegant brown";
+var mnemonic = "result city morning acid satoshi random second winner detect creek kitten dream";

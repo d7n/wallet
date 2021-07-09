@@ -1,1 +1,1 @@
-var mnemonic = "park govern grain town eager radar spider produce unhappy flame answer invite";
+var mnemonic = "draw brand invest summer popular various marine jaguar arena ridge paper any";

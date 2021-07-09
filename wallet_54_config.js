@@ -1,1 +1,1 @@
-var mnemonic = "wine system nuclear depend option brain situate delay jaguar toilet snack entry";
+var mnemonic = "source valve pull duck place exit ecology tank remember furnace legal damp";

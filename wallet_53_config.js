@@ -1,1 +1,1 @@
-var mnemonic = "balcony frozen acquire foam huge reform evoke supreme cloud town proof any";
+var mnemonic = "skull cluster jazz output tragic wide fade laugh wonder subway sure pyramid";

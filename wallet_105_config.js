@@ -1,1 +1,1 @@
-var mnemonic = "student casino language during amateur silly bundle drive leave what picnic boost";
+var mnemonic = "awesome wave camp used saddle proof work vital clap emotion clerk bargain";

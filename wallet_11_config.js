@@ -1,1 +1,1 @@
-var mnemonic = "orchard judge also beauty slogan want domain width story grid tattoo humble";
+var mnemonic = "model wild mango cradle ill child rug bid panda river hawk junior";

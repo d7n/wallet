@@ -1,1 +1,1 @@
-var mnemonic = "type peasant ladder host arrow ask lunar feel coin index monitor endorse";
+var mnemonic = "school butter strategy today raven quote such fuel dignity slam myself track";

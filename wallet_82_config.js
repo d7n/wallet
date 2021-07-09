@@ -1,1 +1,1 @@
-var mnemonic = "parrot educate pull much horse hole payment card rigid crunch average hazard";
+var mnemonic = "town airport staff february chimney feature phrase arena burst quality morning rough";

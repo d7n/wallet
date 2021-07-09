@@ -1,1 +1,1 @@
-var mnemonic = "liquid exotic often debate when force cook journey tissue congress scrub easy";
+var mnemonic = "cancel fiber pause buyer depart surround panther nature stomach desert sauce bright";

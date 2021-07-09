@@ -1,1 +1,1 @@
-var mnemonic = "circle answer turtle defy where curve rifle science senior useless bird web";
+var mnemonic = "board warfare setup attract weather melody close pupil gentle dutch mind feature";

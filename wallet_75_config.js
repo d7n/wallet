@@ -1,1 +1,1 @@
-var mnemonic = "arrow cool issue drop year enlist menu negative loan ritual net kingdom";
+var mnemonic = "gorilla creek climb fold slender elbow scare rent illness oil predict else";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk wall grit stay bubble mention upon carbon amateur jar forest satoshi";
+var mnemonic = "best music west myself emerge pipe kiwi liberty trial salt step delay";

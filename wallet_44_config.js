@@ -1,1 +1,1 @@
-var mnemonic = "maid daring fiction bridge pond young hard bulk zone owner forest squeeze";
+var mnemonic = "refuse degree you surprise coffee elder piece glide swamp bundle obey basic";

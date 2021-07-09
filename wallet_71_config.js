@@ -1,1 +1,1 @@
-var mnemonic = "faith badge play once walnut awful water muffin ocean harsh adapt volcano";
+var mnemonic = "cricket empower valve invite magic penalty either episode enact slender garment clever";

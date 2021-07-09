@@ -1,1 +1,1 @@
-var mnemonic = "number race wave town kind cat velvet color recall smooth portion wage";
+var mnemonic = "gravity grocery pioneer tenant table asset cruel erupt stay brick sustain easy";

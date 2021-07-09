@@ -1,1 +1,1 @@
-var mnemonic = "slim ridge catch apple shoulder dwarf history call space prison armed gentle";
+var mnemonic = "nasty bridge inject fragile almost chuckle receive degree mule enlist adapt culture";

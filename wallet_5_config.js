@@ -1,1 +1,1 @@
-var mnemonic = "must fruit rocket rack cash crack excuse march trash able marble plug";
+var mnemonic = "guide crowd unit segment forward skin gossip vicious congress mercy kiwi surround";

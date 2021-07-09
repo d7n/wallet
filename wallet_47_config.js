@@ -1,1 +1,1 @@
-var mnemonic = "situate account display approve mercy ghost toast cactus tooth layer labor fuel";
+var mnemonic = "leave tape kingdom cat olympic drop sustain brown insane will erosion game";

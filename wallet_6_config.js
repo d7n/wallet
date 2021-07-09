@@ -1,1 +1,1 @@
-var mnemonic = "tackle forum trim genuine member cat mystery mother usual cart blur author";
+var mnemonic = "scorpion scale eternal surround voyage episode soul cactus tongue decline filter awake";

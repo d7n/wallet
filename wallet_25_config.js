@@ -1,1 +1,1 @@
-var mnemonic = "target swear arm black letter snack dutch giant shop solve potato pulp";
+var mnemonic = "blind vacant cradle mercy awful ethics never pipe account fuel warm comic";

@@ -1,1 +1,1 @@
-var mnemonic = "engage shaft stove leaf festival remind bridge unaware thrive road mystery dignity";
+var mnemonic = "enemy will burst addict puzzle bring place jelly kid moon oven vessel";

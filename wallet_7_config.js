@@ -1,1 +1,1 @@
-var mnemonic = "flush sponsor rough dizzy eight eagle chase reason candy know train use";
+var mnemonic = "trim mushroom burger home provide easily nominee maid announce gas play drum";

@@ -1,1 +1,1 @@
-var mnemonic = "garage ritual metal spatial tongue cheap exercise misery cup spatial nut situate";
+var mnemonic = "local boost fat push tennis evoke harbor outer mouse series ethics maple";

@@ -1,1 +1,1 @@
-var mnemonic = "master luggage village luxury random chimney snake language medal symptom word forum";
+var mnemonic = "creek reveal outer day hard cigar vault ankle vapor feed turkey drill";

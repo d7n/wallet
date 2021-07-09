@@ -1,1 +1,1 @@
-var mnemonic = "bulk blind finish smoke coconut divert amount burger below heavy erode hood";
+var mnemonic = "awesome version come example runway tattoo mail scrub toward doctor poverty venue";

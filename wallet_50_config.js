@@ -1,1 +1,1 @@
-var mnemonic = "tag banner fancy parade magic tooth speak exile slice zebra where differ";
+var mnemonic = "priority dance equip win undo glare project chuckle ketchup power pitch forest";

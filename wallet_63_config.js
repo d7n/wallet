@@ -1,1 +1,1 @@
-var mnemonic = "allow boat fire sign build police prevent abuse list warm tobacco olympic";
+var mnemonic = "jazz demand ecology diary duty security giraffe screen play comfort version citizen";

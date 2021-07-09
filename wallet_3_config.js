@@ -1,1 +1,1 @@
-var mnemonic = "wall coast prevent vendor jelly annual puzzle exchange reason worth agree turtle";
+var mnemonic = "hen crouch awkward mobile early gesture swim young portion feed random debate";

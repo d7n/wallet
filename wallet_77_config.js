@@ -1,1 +1,1 @@
-var mnemonic = "oppose cigar brush iron romance author elephant table album culture fabric upgrade";
+var mnemonic = "aim online legend beyond world attend neither pattern treat tank okay people";

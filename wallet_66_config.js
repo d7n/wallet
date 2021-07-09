@@ -1,1 +1,1 @@
-var mnemonic = "fame thought random brown enlist dash school buzz tilt yard garage seek";
+var mnemonic = "still stuff merit post muscle orphan logic second noise wave road coil";

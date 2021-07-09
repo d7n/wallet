@@ -1,1 +1,1 @@
-var mnemonic = "lonely kiwi unable valid spider season upset coil senior tomorrow initial renew";
+var mnemonic = "ritual quiz display tiny essay pigeon ritual loyal elbow comic learn assume";

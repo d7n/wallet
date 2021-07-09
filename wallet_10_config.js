@@ -1,1 +1,1 @@
-var mnemonic = "slam hurdle misery box ladder nice wool prize echo tornado visual avocado";
+var mnemonic = "puzzle satoshi emerge jaguar illegal window honey seven smile vanish girl stick";

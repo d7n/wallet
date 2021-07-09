@@ -1,1 +1,1 @@
-var mnemonic = "mountain glow assault neck author motion girl light corn noise bind buffalo";
+var mnemonic = "safe season bright already scan brass glad utility rigid nothing merge radar";

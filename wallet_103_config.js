@@ -1,1 +1,1 @@
-var mnemonic = "reopen movie fish explain leaf couple despair can leisure vague fade address";
+var mnemonic = "author mimic school foil crumble address junior rude dance output little era";

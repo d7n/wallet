@@ -1,1 +1,1 @@
-var mnemonic = "spray insane provide fiber awful area fatigue furnace crunch critic rent spare";
+var mnemonic = "woman mule arch clinic ignore carpet old limit announce cricket man tilt";

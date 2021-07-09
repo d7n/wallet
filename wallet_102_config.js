@@ -1,1 +1,1 @@
-var mnemonic = "insane giraffe run witness rural govern inner hero age cook frown long";
+var mnemonic = "junior embark hazard average faculty plastic setup prefer miss sting pigeon ecology";

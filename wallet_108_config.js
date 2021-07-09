@@ -1,1 +1,1 @@
-var mnemonic = "solar taxi ignore more depth vehicle ball tonight worry bounce crane hat";
+var mnemonic = "frozen survey flash machine diamond exclude option trade garment muffin mutual blue";

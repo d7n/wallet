@@ -1,1 +1,1 @@
-var mnemonic = "rich hub fish blame expire guess chat claim pair venue describe swallow";
+var mnemonic = "seek street sign actress divide round female ten biology laugh jacket argue";

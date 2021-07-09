@@ -1,1 +1,1 @@
-var mnemonic = "garlic scatter main task sort panel imitate sun team exile endorse baby";
+var mnemonic = "wait master unit crane mandate glow beef crime prevent gym kit blast";

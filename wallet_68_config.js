@@ -1,1 +1,1 @@
-var mnemonic = "toward suspect trial speed neutral dilemma notable can orbit senior royal bitter";
+var mnemonic = "initial want maple olympic much grab avoid funny better toward drama glass";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy organ genius discover unable cube impose harsh same remain mesh mule";
+var mnemonic = "trust engage neither maximum version mirror rice source add grace obey vocal";

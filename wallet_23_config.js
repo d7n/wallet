@@ -1,1 +1,1 @@
-var mnemonic = "pipe mandate unfair sweet erode extra portion anxiety draft island flight bitter";
+var mnemonic = "hub economy enhance task cart family next advice agree across beauty goose";

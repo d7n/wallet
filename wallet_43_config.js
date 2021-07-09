@@ -1,1 +1,1 @@
-var mnemonic = "leg course used fan shadow tiger ship dune spoil crop cover violin";
+var mnemonic = "misery pole two timber prefer until hood eager then conduct sight dice";

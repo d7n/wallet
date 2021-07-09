@@ -1,1 +1,1 @@
-var mnemonic = "desert reason accident swift suggest flag tenant swim such ginger assist lizard";
+var mnemonic = "wild ghost ecology expose roof area mountain city include gaze chair web";

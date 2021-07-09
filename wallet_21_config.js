@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon situate mule resemble earth angle joy record employ beach since churn";
+var mnemonic = "forest rocket awake copper banner evolve winner bundle pause danger spare sell";

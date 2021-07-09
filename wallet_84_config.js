@@ -1,1 +1,1 @@
-var mnemonic = "stem forget unaware satisfy asset chunk page hole ahead express faith youth";
+var mnemonic = "large river venture tiger ridge joke subject party rural sheriff energy organ";

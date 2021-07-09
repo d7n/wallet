@@ -1,1 +1,1 @@
-var mnemonic = "crawl rich eager penalty naive ceiling able cinnamon sea adjust describe major";
+var mnemonic = "powder depart later reform invest violin someone later bottom quarter hurdle venture";

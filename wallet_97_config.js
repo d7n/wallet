@@ -1,1 +1,1 @@
-var mnemonic = "mansion carbon mother error ordinary purse trip recipe witness burger raw swamp";
+var mnemonic = "impulse code frog scare april print bracket axis benefit lemon stand report";

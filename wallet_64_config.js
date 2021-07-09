@@ -1,1 +1,1 @@
-var mnemonic = "swift century morning gauge monitor theory police clay deny increase brand chief";
+var mnemonic = "chief huge spoon ozone penalty animal prison alcohol rapid snap era critic";

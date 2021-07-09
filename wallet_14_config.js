@@ -1,1 +1,1 @@
-var mnemonic = "hero ball taste truly alone win enhance drill lobster phone celery mountain";
+var mnemonic = "admit return stone easily smoke divert sweet refuse lamp glow forward skirt";
