@@ -1,1 +1,1 @@
-var mnemonic = "hurt fury cluster useful soon cake nothing crazy physical jar pact whisper";
+var mnemonic = "enhance enlist blind force rally same tired where tool afraid pilot jaguar";

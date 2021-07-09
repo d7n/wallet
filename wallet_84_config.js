@@ -1,1 +1,1 @@
-var mnemonic = "stem daring sock small fan prize flat biology puzzle alien habit fever";
+var mnemonic = "salute shrug rain sustain room doctor spend skirt margin napkin true laptop";

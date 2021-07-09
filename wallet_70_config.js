@@ -1,1 +1,1 @@
-var mnemonic = "sun whale sock bean square congress uniform input outer empower animal pull";
+var mnemonic = "stable about glove rail huge acid hazard liquid jeans marine review manual";

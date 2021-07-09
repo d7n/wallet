@@ -1,1 +1,1 @@
-var mnemonic = "luggage clean toward merry rug olive salt distance prosper depart rescue cement";
+var mnemonic = "fortune reward canoe arena suit swing misery notice surround nerve mystery absent";

@@ -1,1 +1,1 @@
-var mnemonic = "focus witness month hollow erode together speed clown symptom valve chimney situate";
+var mnemonic = "evolve glue month desk drastic govern breeze eternal gorilla agent slide buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "teach dilemma steel canal pet item stool earn scene auction record obey";
+var mnemonic = "crush rare sad neither dinner physical join segment season universe midnight afraid";

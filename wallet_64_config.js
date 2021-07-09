@@ -1,1 +1,1 @@
-var mnemonic = "ridge stool document input come crew rescue cheese range attract garden health";
+var mnemonic = "wall turtle canal fiction confirm harvest harbor quit praise extend attack install";

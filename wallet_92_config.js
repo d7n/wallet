@@ -1,1 +1,1 @@
-var mnemonic = "shrug permit offer program rural tissue step peasant spider cable broom art";
+var mnemonic = "winter grant shoot auto dune spray cluster fat spread gossip episode call";

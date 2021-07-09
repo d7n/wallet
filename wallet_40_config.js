@@ -1,1 +1,1 @@
-var mnemonic = "steel wood hero gather nuclear manage unknown garage stereo sentence asset vote";
+var mnemonic = "online mule trouble noodle tongue spray pond toilet speed three day mixture";

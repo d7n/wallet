@@ -1,1 +1,1 @@
-var mnemonic = "alter town uniform gasp senior cook curious chase smile void voice sadness";
+var mnemonic = "flag absurd misery voice train crane beef guess shop young frost hunt";

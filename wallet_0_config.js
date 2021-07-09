@@ -1,1 +1,1 @@
-var mnemonic = "danger honey wide merit nature helmet push inmate escape front supply urge";
+var mnemonic = "nominee run demise correct describe icon indicate minimum claim lobster identify nasty";

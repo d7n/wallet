@@ -1,1 +1,1 @@
-var mnemonic = "sign anchor smart diary arch proof depend sunset frozen apart snake invite";
+var mnemonic = "hero sock inmate ensure ski toy person disagree kid base canoe enjoy";

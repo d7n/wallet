@@ -1,1 +1,1 @@
-var mnemonic = "hurt tribe lava reopen memory random cause drive since gravity law sibling";
+var mnemonic = "claim print carpet muffin bone punch lawn afraid kitten ignore champion pet";

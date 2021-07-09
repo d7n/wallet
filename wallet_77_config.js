@@ -1,1 +1,1 @@
-var mnemonic = "laptop enroll group zone lecture group blue chair spatial food camera slot";
+var mnemonic = "cabbage caught vehicle ahead void gossip pigeon office outside token actress admit";

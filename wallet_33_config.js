@@ -1,1 +1,1 @@
-var mnemonic = "custom oblige lock ecology point hungry outside casual develop book vital raw";
+var mnemonic = "rhythm actor interest narrow describe oak foil retreat protect right dream tourist";

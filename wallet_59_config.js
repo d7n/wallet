@@ -1,1 +1,1 @@
-var mnemonic = "high recycle twist river stable slow cargo silver monster weather run syrup";
+var mnemonic = "fiber chronic general shiver gallery want jungle legal maid before name seed";

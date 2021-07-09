@@ -1,1 +1,1 @@
-var mnemonic = "radar brisk history opera assume armed someone climb stock square wall such";
+var mnemonic = "state snake sense smooth shield sheriff ripple cart drop shuffle bomb begin";

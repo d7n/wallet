@@ -1,1 +1,1 @@
-var mnemonic = "scrap flee force hour alcohol funny group mirror paddle fitness flavor north";
+var mnemonic = "code room report random matrix feed coconut reason critic net diamond poet";

@@ -1,1 +1,1 @@
-var mnemonic = "view outside member tortoise wave jeans add caught pudding fatigue parade audit";
+var mnemonic = "urge arrive venue anger please tired indicate success marriage pumpkin novel cannon";

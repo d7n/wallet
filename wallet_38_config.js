@@ -1,1 +1,1 @@
-var mnemonic = "steak force bicycle amateur plate agent example scorpion weasel split enough hello";
+var mnemonic = "arrange waste puppy hat crew exact forward staff rural spy whale survey";

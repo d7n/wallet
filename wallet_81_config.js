@@ -1,1 +1,1 @@
-var mnemonic = "syrup loop amazing pave hurt ancient keep lumber mutual loyal project distance";
+var mnemonic = "blanket slender trumpet pass faint lobster glory appear maze swarm size wave";

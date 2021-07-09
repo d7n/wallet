@@ -1,1 +1,1 @@
-var mnemonic = "scrub pledge mouse comfort front inch future kitten slot maze world distance";
+var mnemonic = "topic mesh salmon luxury banana buzz please mimic own they cinnamon cruise";

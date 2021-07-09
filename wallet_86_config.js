@@ -1,1 +1,1 @@
-var mnemonic = "lesson fix market buyer track relax retire trophy fall flat habit enough";
+var mnemonic = "bird quiz payment gas stairs attend hammer fee better half leg nothing";

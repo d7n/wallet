@@ -1,1 +1,1 @@
-var mnemonic = "green expire trumpet math laugh act laundry track sister ice elbow weekend";
+var mnemonic = "parent museum eight require shove lonely orchard book burden marriage lecture deal";

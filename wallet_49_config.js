@@ -1,1 +1,1 @@
-var mnemonic = "belt real response resource knee identify doctor parent price popular used private";
+var mnemonic = "wonder hand tortoise setup burden intact exact wonder merge forward aim front";

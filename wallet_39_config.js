@@ -1,1 +1,1 @@
-var mnemonic = "trophy pink dog cart pluck paper burden below return result broken save";
+var mnemonic = "neck peasant hint acid half scrap sport install juice lonely copy surface";

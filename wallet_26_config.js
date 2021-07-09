@@ -1,1 +1,1 @@
-var mnemonic = "you enlist gold frog topic oven drill under sick park cream meat";
+var mnemonic = "above harbor bless ankle pioneer topic hire summer entire bronze include limb";

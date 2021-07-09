@@ -1,1 +1,1 @@
-var mnemonic = "short notice core that sign razor gas lumber oppose twin song claim";
+var mnemonic = "civil dust grunt glass recall neither shiver mixed oblige moon update fatal";

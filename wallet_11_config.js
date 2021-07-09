@@ -1,1 +1,1 @@
-var mnemonic = "edit wise twelve pool split grant inmate wild float sudden danger detect";
+var mnemonic = "leaf fold bike excuse rail velvet forget garage pony shrimp foot forget";

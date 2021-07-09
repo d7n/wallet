@@ -1,1 +1,1 @@
-var mnemonic = "oblige face deal inquiry range orange word vague crawl cat nothing bench";
+var mnemonic = "donkey enemy little include social fossil pistol celery lizard gift chicken rude";

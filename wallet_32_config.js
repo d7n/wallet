@@ -1,1 +1,1 @@
-var mnemonic = "scene fancy rice invest attract orphan first question north mother defy omit";
+var mnemonic = "begin maximum garden cart hen list wasp green receive road clock floor";

@@ -1,1 +1,1 @@
-var mnemonic = "budget bicycle twenty exchange diesel smile master reduce explain where consider night";
+var mnemonic = "tornado now tribe one grunt soul amazing twelve element wide off clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "stock glass brave cost humor escape divide piece safe crisp drama patient";
+var mnemonic = "bean story enroll promote sunset kiss term apple monkey evoke gas side";

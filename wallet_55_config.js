@@ -1,1 +1,1 @@
-var mnemonic = "glue huge indicate despair morning bring wave yard knock front envelope brand";
+var mnemonic = "garden pave minute aim exile genre wrap chief casino illegal crystal replace";

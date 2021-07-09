@@ -1,1 +1,1 @@
-var mnemonic = "offer salute lab warfare grab doctor future dolphin ladder blush design upset";
+var mnemonic = "crazy public smoke tired wealth then midnight excuse apart kidney blame penalty";

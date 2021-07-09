@@ -1,1 +1,1 @@
-var mnemonic = "addict salad buffalo mouse employ marriage salon fiscal humble fitness club post";
+var mnemonic = "fault dolphin behind busy cupboard public pig rubber ocean link wisdom brush";

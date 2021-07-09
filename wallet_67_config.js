@@ -1,1 +1,1 @@
-var mnemonic = "series gloom gauge prison boring credit way push claw vivid excess lift";
+var mnemonic = "oak process fall medal naive bachelor atom load sight close vanish into";

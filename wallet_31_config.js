@@ -1,1 +1,1 @@
-var mnemonic = "nose great nurse hobby voyage finish amount priority earth tell together there";
+var mnemonic = "follow water urge purse enjoy couple settle motion forget stomach wet strategy";

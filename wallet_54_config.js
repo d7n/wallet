@@ -1,1 +1,1 @@
-var mnemonic = "strategy box into pigeon puzzle fan enough two typical appear airport combine";
+var mnemonic = "jealous suffer vivid gentle dry distance metal dove pipe aspect gap nut";

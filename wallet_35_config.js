@@ -1,1 +1,1 @@
-var mnemonic = "scare caution misery pistol impulse message actor orbit obscure sing distance chat";
+var mnemonic = "wrist axis spider broccoli main mouse fee melody grow file stem royal";

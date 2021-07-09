@@ -1,1 +1,1 @@
-var mnemonic = "outer phone section finish toilet rose patient insect author voyage congress afford";
+var mnemonic = "oppose lion saddle senior fashion fly decorate bottom disorder modify kiwi chief";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry improve steel rapid antique cinnamon pair leave soda abandon cycle obvious";
+var mnemonic = "warrior local power laptop bounce citizen return hello trade myth century upgrade";

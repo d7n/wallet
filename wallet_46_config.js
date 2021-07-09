@@ -1,1 +1,1 @@
-var mnemonic = "valley calm magnet pause dash hand avocado iron water bulk peanut educate";
+var mnemonic = "spoil gallery pumpkin milk favorite secret caught lunch coil minute riot evoke";

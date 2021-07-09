@@ -1,1 +1,1 @@
-var mnemonic = "tiny increase affair genius describe trip sample exit cotton chat drive garment";
+var mnemonic = "tobacco hope drive bomb dirt alarm permit insect merit reduce cheese moral";

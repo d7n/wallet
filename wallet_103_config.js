@@ -1,1 +1,1 @@
-var mnemonic = "abandon method chat pizza twenty rural image token plastic basic hurt egg";
+var mnemonic = "cat deposit mother lyrics hub wheel session wheat turn sausage goose defy";

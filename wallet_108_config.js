@@ -1,1 +1,1 @@
-var mnemonic = "donor approve struggle math main please provide valve rail cruel practice drastic";
+var mnemonic = "share school token peanut truck life current address fire color chat ask";

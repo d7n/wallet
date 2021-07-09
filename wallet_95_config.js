@@ -1,1 +1,1 @@
-var mnemonic = "trial extend brass rare exile chief nut regret fold lava lamp amount";
+var mnemonic = "border fun destroy champion blossom want vacuum make myth skirt curve claw";

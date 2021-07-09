@@ -1,1 +1,1 @@
-var mnemonic = "learn crane seminar inspire resist dice razor future belt abandon marriage bike";
+var mnemonic = "enough tunnel answer smoke toe unlock come face dismiss ritual recipe timber";

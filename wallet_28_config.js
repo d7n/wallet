@@ -1,1 +1,1 @@
-var mnemonic = "into stay glide zoo test media staff model tunnel school bless symbol";
+var mnemonic = "lazy region team clean wage crane tomorrow absent poet nothing feed devote";

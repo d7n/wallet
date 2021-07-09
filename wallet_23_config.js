@@ -1,1 +1,1 @@
-var mnemonic = "joy normal cupboard bitter hawk upper oxygen fluid near label short daring";
+var mnemonic = "rate quote cargo erode sunset huge certain impact scheme mad rain budget";

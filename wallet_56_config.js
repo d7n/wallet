@@ -1,1 +1,1 @@
-var mnemonic = "clip soon verify brown scrub grace heart cloth milk north parrot rocket";
+var mnemonic = "cargo diagram current speak snake pen clarify base dinosaur spin glimpse gun";

@@ -1,1 +1,1 @@
-var mnemonic = "lake laptop good album prize hair lumber gather knock head year cigar";
+var mnemonic = "seminar notice lucky erupt fade all genuine distance rebuild lemon like upset";

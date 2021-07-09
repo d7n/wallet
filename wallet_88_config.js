@@ -1,1 +1,1 @@
-var mnemonic = "tongue hint voice figure wire industry rhythm duty song amount chimney notice";
+var mnemonic = "foil brown harsh until police shrug like favorite shove fortune furnace kidney";

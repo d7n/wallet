@@ -1,1 +1,1 @@
-var mnemonic = "picture impact adapt task drip helmet cage purpose autumn leopard chief lamp";
+var mnemonic = "friend horror purity crawl guard trophy tuna plastic ready swallow top cloud";

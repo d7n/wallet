@@ -1,1 +1,1 @@
-var mnemonic = "bless erase fortune mule scissors nothing memory number tip damp outer swift";
+var mnemonic = "royal hammer surprise combine cement twin bulk gun humor crack capable spider";

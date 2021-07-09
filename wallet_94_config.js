@@ -1,1 +1,1 @@
-var mnemonic = "clip basic annual bulk sign reduce chapter ceiling ice hat direct advice";
+var mnemonic = "fortune clinic camera mountain depend garbage acid message decline tobacco suspect fox";

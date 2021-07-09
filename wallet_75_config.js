@@ -1,1 +1,1 @@
-var mnemonic = "broccoli differ enjoy gown involve file stool fiber trial permit culture village";
+var mnemonic = "range fantasy census wait fluid lucky trouble fitness infant around game female";

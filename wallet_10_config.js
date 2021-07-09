@@ -1,1 +1,1 @@
-var mnemonic = "gesture increase alter proud enforce journey tuition where cube stove piano climb";
+var mnemonic = "hen enroll grief slice dismiss holiday avoid hill boring help dwarf hawk";

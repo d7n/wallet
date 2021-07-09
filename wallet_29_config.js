@@ -1,1 +1,1 @@
-var mnemonic = "retire manage bike faint breeze grow happy gloom egg snap trial entire";
+var mnemonic = "close vote figure physical radar maze embark other dirt river brief learn";

@@ -1,1 +1,1 @@
-var mnemonic = "horse embark search consider pony double where hamster indicate level tank broccoli";
+var mnemonic = "grain position curtain black winter neither case gorilla valid crisp knife weather";

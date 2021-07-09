@@ -1,1 +1,1 @@
-var mnemonic = "attitude clerk region reject soul miracle safe glare rescue course north total";
+var mnemonic = "lecture banana please best code run win roast unfair profit flip eight";

@@ -1,1 +1,1 @@
-var mnemonic = "biology elite copper start slice jealous fancy pipe amateur place curve weekend";
+var mnemonic = "bike rival color glow liar detail token disease rib tonight crime tool";

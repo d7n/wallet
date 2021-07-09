@@ -1,1 +1,1 @@
-var mnemonic = "unable sustain another item degree situate hub leaf bounce seven used hundred";
+var mnemonic = "first couple flat plunge moon omit reunion reopen car discover off rug";

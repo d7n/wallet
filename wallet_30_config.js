@@ -1,1 +1,1 @@
-var mnemonic = "bracket false absorb iron cluster leisure finger chalk edit glass rescue dad";
+var mnemonic = "frost know pistol betray stamp enlist coil blade clever unit total sustain";

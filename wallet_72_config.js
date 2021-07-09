@@ -1,1 +1,1 @@
-var mnemonic = "stomach rib start upon drive term nasty evil puppy surface vocal off";
+var mnemonic = "fire rack wood potato blouse culture cupboard regret all earn empty museum";

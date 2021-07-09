@@ -1,1 +1,1 @@
-var mnemonic = "auto talent punch smart catalog void athlete major cliff trip flash surface";
+var mnemonic = "worth hungry unlock profit roast nurse coconut employ vehicle search cruel general";

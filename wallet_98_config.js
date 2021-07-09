@@ -1,1 +1,1 @@
-var mnemonic = "plastic cargo once erode notice guide paper opera sword calm alter version";
+var mnemonic = "cactus inject market equal critic reveal vanish shaft spatial rude oak vote";

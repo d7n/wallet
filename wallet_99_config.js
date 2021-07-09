@@ -1,1 +1,1 @@
-var mnemonic = "indoor vocal isolate guilt hard plastic notice chat mimic daring chapter wool";
+var mnemonic = "cheese avoid shuffle remain present powder identify lazy pink split voyage buyer";

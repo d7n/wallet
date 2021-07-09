@@ -1,1 +1,1 @@
-var mnemonic = "pledge mutual faculty legend lemon used agree hire rabbit defense lab modify";
+var mnemonic = "spread opinion reflect worth creek knife defense prize catalog marine spoon work";

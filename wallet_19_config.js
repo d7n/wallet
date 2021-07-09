@@ -1,1 +1,1 @@
-var mnemonic = "mechanic nose absorb confirm fat gate marble solve sauce zoo roast art";
+var mnemonic = "truth develop dad settle section track awake bracket tobacco file still able";

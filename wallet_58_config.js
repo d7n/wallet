@@ -1,1 +1,1 @@
-var mnemonic = "eternal stem primary bulk spider remind fiscal marble author nothing benefit post";
+var mnemonic = "strategy resource lunch myself path mandate result nuclear gesture mechanic feed gorilla";

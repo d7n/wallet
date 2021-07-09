@@ -1,1 +1,1 @@
-var mnemonic = "network rather oil cook dinner sadness federal still slab bachelor tide card";
+var mnemonic = "legal midnight exile report yard pluck stumble common lecture swear era museum";

@@ -1,1 +1,1 @@
-var mnemonic = "rude disorder exhibit lab famous song glimpse artist gym fan jaguar anxiety";
+var mnemonic = "elite faith column layer tower write response luxury like thumb lounge police";

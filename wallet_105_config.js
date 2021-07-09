@@ -1,1 +1,1 @@
-var mnemonic = "betray reform panda chronic exchange balcony embody ordinary rug cost option unique";
+var mnemonic = "gun next mean sense give moon kitten split animal captain deny organ";

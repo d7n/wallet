@@ -1,1 +1,1 @@
-var mnemonic = "quiz element cricket vibrant day tomato nose path useless squeeze merry member";
+var mnemonic = "capital leave celery multiply glare spot pill waste capital erode drink nose";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker matter strong immense inflict jazz custom mass umbrella example rotate gun";
+var mnemonic = "maid such guilt hollow matrix fame lake aspect concert sign control punch";

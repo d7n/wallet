@@ -1,1 +1,1 @@
-var mnemonic = "cherry fix ankle paper radio unhappy absent pulse bundle evil bless friend";
+var mnemonic = "income reunion course crack fine stairs other letter popular bullet cruel pigeon";

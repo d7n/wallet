@@ -1,1 +1,1 @@
-var mnemonic = "news soul great sword stumble attitude maple trial april noble nothing annual";
+var mnemonic = "sting crouch enemy spray curious sunny name apple arctic carpet hurry west";

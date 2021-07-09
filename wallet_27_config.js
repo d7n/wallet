@@ -1,1 +1,1 @@
-var mnemonic = "floor shoulder armed stamp mercy warfare suit easily churn receive close way";
+var mnemonic = "defense actress illness swing vocal miracle engage guard spatial stamp able mention";

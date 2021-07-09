@@ -1,1 +1,1 @@
-var mnemonic = "shuffle report pipe infant tooth employ age net prevent attitude hat program";
+var mnemonic = "erosion truth tell expose zero twin sauce strategy ostrich night dune gorilla";

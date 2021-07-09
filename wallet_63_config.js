@@ -1,1 +1,1 @@
-var mnemonic = "blouse rely stumble work adapt oil pudding matrix faculty better normal execute";
+var mnemonic = "use hope idle section excess suggest envelope summer culture frequent history shop";

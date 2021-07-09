@@ -1,1 +1,1 @@
-var mnemonic = "supreme expose maze add unveil defy rubber machine walk fault blouse grocery";
+var mnemonic = "robot produce sword series hole push into output arrest replace arrow purse";

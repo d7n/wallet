@@ -1,1 +1,1 @@
-var mnemonic = "rhythm volcano shoulder script discover lock sketch pride ladder garage shop appear";
+var mnemonic = "day help super volcano slab suit zoo club salad dawn nasty dinosaur";

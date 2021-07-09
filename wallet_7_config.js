@@ -1,1 +1,1 @@
-var mnemonic = "spy spy loan bargain develop quantum special crush aisle champion despair isolate";
+var mnemonic = "uniform uncle square vendor decrease adult castle mushroom title sponsor regular solar";

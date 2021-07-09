@@ -1,1 +1,1 @@
-var mnemonic = "resource tray gospel either myself steak cancel volume series grant denial rather";
+var mnemonic = "filter amount exclude current afraid poem keep marriage sauce region gasp pyramid";

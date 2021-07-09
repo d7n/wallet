@@ -1,1 +1,1 @@
-var mnemonic = "noodle suit rhythm rent exist obey hover skate raven label powder race";
+var mnemonic = "kite circle hover play topic behind theme lyrics curtain mountain girl decorate";

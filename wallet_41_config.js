@@ -1,1 +1,1 @@
-var mnemonic = "bulb amateur similar secret sort bicycle fuel history rain midnight powder dutch";
+var mnemonic = "leisure ocean rifle galaxy budget season vehicle work when indicate capital general";

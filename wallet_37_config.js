@@ -1,1 +1,1 @@
-var mnemonic = "pond farm traffic estate curve slogan member pact vague wood napkin during";
+var mnemonic = "disorder amazing rose gain fossil track poverty vapor impulse detect oppose scene";

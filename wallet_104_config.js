@@ -1,1 +1,1 @@
-var mnemonic = "floor fiction consider piano worth air pole uphold absorb addict april stable";
+var mnemonic = "food culture resemble ozone walnut proud black manual oval useful seed mom";

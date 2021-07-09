@@ -1,1 +1,1 @@
-var mnemonic = "author dry piece task put subway earth issue apart vocal hour miss";
+var mnemonic = "toilet prepare demand fuel roof unhappy you champion battle win spin fee";
