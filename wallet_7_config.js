@@ -1,1 +1,1 @@
-var mnemonic = "impact manage magic output injury tent clip amazing use genuine verb kit";
+var mnemonic = "execute fire idle easily accident subway cool clock aware network little egg";

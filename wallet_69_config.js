@@ -1,1 +1,1 @@
-var mnemonic = "range item icon science race pottery evidence dose capital sadness tail future";
+var mnemonic = "fame embrace artefact latin number addict begin antenna swarm dash flip interest";

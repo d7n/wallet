@@ -1,1 +1,1 @@
-var mnemonic = "green mobile swamp unlock one lens tip feed attract bird skull alien";
+var mnemonic = "left flavor notice island federal ordinary punch bind citizen grow brush bid";

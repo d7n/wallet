@@ -1,1 +1,1 @@
-var mnemonic = "delay maid lonely limb spider organ jungle eight secret bike tip whip";
+var mnemonic = "panda monster clock deposit talk always nature people pumpkin dutch alien excuse";

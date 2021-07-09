@@ -1,1 +1,1 @@
-var mnemonic = "zoo puppy aerobic security host merry power weekend omit valley amount snap";
+var mnemonic = "expire student art sure unfair disagree pass front bean holiday dutch famous";

@@ -1,1 +1,1 @@
-var mnemonic = "license boost since shell verify topic physical pyramid grid tackle tumble hard";
+var mnemonic = "admit mean medal shine mesh spoon top general pyramid ginger follow spot";

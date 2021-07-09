@@ -1,1 +1,1 @@
-var mnemonic = "club ensure scare embark recycle tooth analyst large inch holiday exclude task";
+var mnemonic = "affair then fit dirt damp duck original culture section vibrant scale trial";

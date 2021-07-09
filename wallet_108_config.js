@@ -1,1 +1,1 @@
-var mnemonic = "there ivory board put coin away drill broken online settle artwork morning";
+var mnemonic = "common reason prepare squeeze pigeon used parrot casual remind horse asthma public";

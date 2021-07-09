@@ -1,1 +1,1 @@
-var mnemonic = "awful differ denial fine when use address doll uniform kiwi rural rude";
+var mnemonic = "best acoustic rail neglect tool mask case walk frost close fashion caution";

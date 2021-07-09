@@ -1,1 +1,1 @@
-var mnemonic = "awful age lend yard put nasty smooth cheese recycle canvas advance nature";
+var mnemonic = "clog claim electric blame pact shuffle lunch space rigid horse sadness smoke";

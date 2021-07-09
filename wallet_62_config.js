@@ -1,1 +1,1 @@
-var mnemonic = "lend marriage pistol betray fan sphere truck sport crucial destroy first swear";
+var mnemonic = "tip yellow tape action hunt cactus bike security negative radio coast elephant";

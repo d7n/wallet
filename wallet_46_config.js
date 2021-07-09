@@ -1,1 +1,1 @@
-var mnemonic = "scheme dilemma across polar cousin lumber impulse amused right window desert bridge";
+var mnemonic = "nothing agree armor panda method smoke version salon hello fabric oak flag";

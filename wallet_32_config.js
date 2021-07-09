@@ -1,1 +1,1 @@
-var mnemonic = "drill begin sleep phrase negative where office wing second stomach year fun";
+var mnemonic = "approve offer corn fatigue stuff depth brand potato mechanic design tornado media";

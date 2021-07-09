@@ -1,1 +1,1 @@
-var mnemonic = "submit orient kitten unknown latin sense whisper idea gravity yard leaf speed";
+var mnemonic = "column spatial proof valve amazing ginger urban play mistake error silly corn";

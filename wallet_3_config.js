@@ -1,1 +1,1 @@
-var mnemonic = "urban push ripple tide wagon stable uncover drill knock problem host finish";
+var mnemonic = "media forest visit tell dream open idle age banana congress female wait";

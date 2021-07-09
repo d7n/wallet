@@ -1,1 +1,1 @@
-var mnemonic = "accuse bright toy royal grocery rate damage card injury page fee crazy";
+var mnemonic = "any use plug crane luxury old bone symptom cram laptop win despair";

@@ -1,1 +1,1 @@
-var mnemonic = "repair session endless ethics rigid segment success mansion dog wash rent mammal";
+var mnemonic = "embark board fly price express alarm venture panther lift immune car better";

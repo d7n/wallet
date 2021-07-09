@@ -1,1 +1,1 @@
-var mnemonic = "keep runway oil trigger they promote daughter dolphin fade vehicle seat silk";
+var mnemonic = "gravity culture orphan entire wonder super idle cluster drill celery fog orient";

@@ -1,1 +1,1 @@
-var mnemonic = "guess icon now glue field rabbit audit decrease zebra sheriff sketch shoot";
+var mnemonic = "save layer gather model sponsor dignity metal goddess husband tuna divide vivid";

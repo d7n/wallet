@@ -1,1 +1,1 @@
-var mnemonic = "reform hat fire problem total canyon detect glance ghost open pink profit";
+var mnemonic = "two axis next slight enable mean vacant fitness sting cream absent assume";

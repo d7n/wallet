@@ -1,1 +1,1 @@
-var mnemonic = "echo kite moon drop cousin jewel cry purchase exotic huge catch tray";
+var mnemonic = "between escape blame crucial fringe frame shadow light young damp ahead capital";

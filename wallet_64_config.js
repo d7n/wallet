@@ -1,1 +1,1 @@
-var mnemonic = "ride scan wash never wave extra tooth trumpet need book fiber work";
+var mnemonic = "anxiety soccer rule asthma bridge index meat cloth stove impulse material maze";

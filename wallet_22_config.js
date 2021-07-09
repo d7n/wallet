@@ -1,1 +1,1 @@
-var mnemonic = "coral post noble dizzy hero ring spirit client host grid flip kid";
+var mnemonic = "lumber portion siren enforce jewel foster picnic dwarf split february convince lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "replace motor rocket october false program more convince crouch dog lift romance";
+var mnemonic = "master voyage vote word someone small bundle trick poet mammal pet velvet";

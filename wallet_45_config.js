@@ -1,1 +1,1 @@
-var mnemonic = "soccer they clap elephant thunder boy tooth useful boy ticket laptop broom";
+var mnemonic = "flock mystery seat sheriff assume eagle pepper firm setup abstract hello aisle";

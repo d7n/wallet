@@ -1,1 +1,1 @@
-var mnemonic = "until erosion inject hurt steak bunker tool wolf level dose rug finish";
+var mnemonic = "seat height message actress agent dream february vehicle whale mimic grid this";

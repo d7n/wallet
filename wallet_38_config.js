@@ -1,1 +1,1 @@
-var mnemonic = "whip tomorrow taste grow adapt dash train hero box celery dream expect";
+var mnemonic = "famous bomb cream fence puzzle execute fade domain verb minimum skill poet";

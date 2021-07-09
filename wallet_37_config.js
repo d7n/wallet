@@ -1,1 +1,1 @@
-var mnemonic = "arrow muscle inject ribbon rubber anchor couch glass tree home mother practice";
+var mnemonic = "dentist title nest gym now muscle cube expand smile chronic double regret";

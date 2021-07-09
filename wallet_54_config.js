@@ -1,1 +1,1 @@
-var mnemonic = "car cinnamon private beach liberty stamp advice length action cable width unusual";
+var mnemonic = "farm apology exhibit fossil ripple daring hurt feature fortune perfect bag lock";

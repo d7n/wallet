@@ -1,1 +1,1 @@
-var mnemonic = "start use false viable proof rib pencil girl oppose sadness depart level";
+var mnemonic = "bomb taxi plug naive matter shuffle man print holiday mule round rhythm";

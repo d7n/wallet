@@ -1,1 +1,1 @@
-var mnemonic = "coast ignore drip category alarm depth battle sand gauge mechanic knee useless";
+var mnemonic = "interest frame dinner marine loan sort soccer video they bonus absurd six";

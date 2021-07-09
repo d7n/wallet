@@ -1,1 +1,1 @@
-var mnemonic = "verb second disease art great seed caught learn crazy bronze afford version";
+var mnemonic = "pledge proof final night album balcony attract swift normal pumpkin clip protect";

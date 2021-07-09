@@ -1,1 +1,1 @@
-var mnemonic = "assault found youth magic flash wreck cereal typical culture weather trick program";
+var mnemonic = "depth tackle exotic mass result burger about put evil knock bar situate";

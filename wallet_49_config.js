@@ -1,1 +1,1 @@
-var mnemonic = "six burst wait very manual daring child phone attack ostrich budget festival";
+var mnemonic = "reduce helmet interest tell spawn cushion elbow tobacco island praise slab minimum";

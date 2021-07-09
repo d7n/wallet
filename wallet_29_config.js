@@ -1,1 +1,1 @@
-var mnemonic = "caught together brisk buyer comic exact guard arch glide social focus april";
+var mnemonic = "easily mimic faculty duty hope main suggest matter endorse pond betray horse";

@@ -1,1 +1,1 @@
-var mnemonic = "invite useful maple piece remind stool weather image phrase crew rare lion";
+var mnemonic = "dragon pizza share claim put kite capital lazy early impact fossil erosion";

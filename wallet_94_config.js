@@ -1,1 +1,1 @@
-var mnemonic = "album enroll throw faint lamp foster brother kick decorate have width vivid";
+var mnemonic = "soldier rubber embrace young vacuum tunnel village give ecology tower exile recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon oyster lady nature soldier marble ask cotton unfold stay office menu";
+var mnemonic = "faculty reason thought write length business rail welcome edge relief aunt tank";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy approve page brief deposit bean wisdom midnight clap reduce boy visit";
+var mnemonic = "label anxiety favorite rate exist sister antique captain coyote tobacco blouse movie";

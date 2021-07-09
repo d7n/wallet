@@ -1,1 +1,1 @@
-var mnemonic = "quiz risk across chalk hair deer dune armed hidden canyon endorse credit";
+var mnemonic = "chimney season prize never trigger consider extra repeat artwork horn robot priority";

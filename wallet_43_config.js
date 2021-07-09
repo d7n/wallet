@@ -1,1 +1,1 @@
-var mnemonic = "cabin hunt digital notice swarm tray exit mercy reflect copy banner symptom";
+var mnemonic = "mountain wasp universe arena process three girl glide gym pole decorate castle";

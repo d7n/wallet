@@ -1,1 +1,1 @@
-var mnemonic = "parade orange rug birth faint lonely degree melt jar tuition debate lab";
+var mnemonic = "sugar visual this drink busy load face indoor try diamond wrong seek";

@@ -1,1 +1,1 @@
-var mnemonic = "useful love hole anxiety razor century gloom reveal gossip move aisle scrap";
+var mnemonic = "lobster course distance orient violin south job taxi invest gaze soul year";

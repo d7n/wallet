@@ -1,1 +1,1 @@
-var mnemonic = "curve wheel april position range south industry faith oppose helmet elephant gather";
+var mnemonic = "quote isolate club goddess couple silent remind imitate addict arctic series bounce";

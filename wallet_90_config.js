@@ -1,1 +1,1 @@
-var mnemonic = "solid entire field evidence filter snap perfect rhythm nothing chunk side ride";
+var mnemonic = "melody toe group hollow innocent under million alarm element stumble among spray";

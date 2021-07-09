@@ -1,1 +1,1 @@
-var mnemonic = "upgrade assault brisk gasp horror orange curtain tuition cigar never width problem";
+var mnemonic = "try mosquito salute wine razor blue network antique walk owner cable ivory";

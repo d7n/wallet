@@ -1,1 +1,1 @@
-var mnemonic = "blue million what seat must daring hammer guitar drift ill expire salon";
+var mnemonic = "donor voyage monster chuckle lumber prefer witness trial excite cheese gauge person";

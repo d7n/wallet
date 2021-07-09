@@ -1,1 +1,1 @@
-var mnemonic = "spot brother dirt nature always under vote manage heavy absorb collect engine";
+var mnemonic = "agent barely lake monitor horn friend regret such step total discover wasp";

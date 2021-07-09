@@ -1,1 +1,1 @@
-var mnemonic = "female insane roof column include vague talent until silk voice moral call";
+var mnemonic = "bone you girl boring achieve dance yard oxygen taste coast clutch effort";

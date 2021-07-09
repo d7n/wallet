@@ -1,1 +1,1 @@
-var mnemonic = "stamp dawn slice warm virus salute dune give lens clog island long";
+var mnemonic = "unique minute this august grab tomorrow pelican approve office tobacco slam dove";

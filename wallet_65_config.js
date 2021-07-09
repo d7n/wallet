@@ -1,1 +1,1 @@
-var mnemonic = "dose note meat grain net filter subject high diet damp pact about";
+var mnemonic = "drink enlist stereo harvest sustain supply fit armor universe squirrel floor tiny";

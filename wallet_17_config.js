@@ -1,1 +1,1 @@
-var mnemonic = "river amazing drink dizzy chuckle method cover snack frost electric cactus crawl";
+var mnemonic = "awkward silent daughter crouch link corn culture cube feed discover test comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee squirrel fine outside tone tilt suspect author utility usual forward speed";
+var mnemonic = "now lesson bring quantum uncle artwork blast ride excuse hurt melody buzz";

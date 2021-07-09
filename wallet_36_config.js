@@ -1,1 +1,1 @@
-var mnemonic = "narrow rib elbow toss april quit girl depend barrel connect neither vote";
+var mnemonic = "sound ready achieve ball moment trust suffer easy clown pulse shell what";

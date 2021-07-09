@@ -1,1 +1,1 @@
-var mnemonic = "stay soccer add tornado brush bird select high suit token inmate employ";
+var mnemonic = "dilemma chicken catalog negative oxygen bright boring have logic plunge theory crystal";

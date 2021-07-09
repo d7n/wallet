@@ -1,1 +1,1 @@
-var mnemonic = "sell blind liquid payment quiz wrist swarm toe blade suffer sudden ribbon";
+var mnemonic = "donkey intact arrest attack wet brave flat lazy deputy penalty brown cabbage";

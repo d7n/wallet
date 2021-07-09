@@ -1,1 +1,1 @@
-var mnemonic = "swallow fruit response marine copy woman apple polar keep skull chef artist";
+var mnemonic = "bless pet buzz canoe vocal turkey alter idea nation crash smile wonder";

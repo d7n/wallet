@@ -1,1 +1,1 @@
-var mnemonic = "toward educate cactus step around want climb cook chair over section unusual";
+var mnemonic = "drum square hurry audit uniform mango slow summer card winner aware negative";

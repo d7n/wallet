@@ -1,1 +1,1 @@
-var mnemonic = "index tent prize image autumn ginger gap digital trend civil boat grant";
+var mnemonic = "supreme affair paddle wrong slab wine stock until shoe easily screen left";

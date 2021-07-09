@@ -1,1 +1,1 @@
-var mnemonic = "globe muscle world pink tank income grant cherry smart wire salon swing";
+var mnemonic = "corn width pelican clerk organ share lawsuit toe purpose hungry begin click";

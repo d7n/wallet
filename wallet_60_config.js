@@ -1,1 +1,1 @@
-var mnemonic = "heart tomorrow daughter goat estate jealous net bottom pattern aware pitch bike";
+var mnemonic = "canyon bulk ribbon leader ozone dish alpha clap steel family weapon price";

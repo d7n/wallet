@@ -1,1 +1,1 @@
-var mnemonic = "reward original average link beach sight they actual soap figure primary area";
+var mnemonic = "mango noodle flock clever voice major thrive laugh kit verify merge shield";

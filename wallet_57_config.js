@@ -1,1 +1,1 @@
-var mnemonic = "purity enhance roof beef snap kitten congress desk relief fame blast acid";
+var mnemonic = "orchard beyond erupt parade kite snow pepper hollow bring gasp holiday pitch";

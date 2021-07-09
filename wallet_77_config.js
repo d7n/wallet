@@ -1,1 +1,1 @@
-var mnemonic = "obvious isolate idle critic humble cricket right erupt curtain afraid empower small";
+var mnemonic = "license salute dinner change border amused envelope dish install merry fence enjoy";

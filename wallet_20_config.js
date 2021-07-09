@@ -1,1 +1,1 @@
-var mnemonic = "finger echo brass flower plastic move execute random glimpse master pizza arrest";
+var mnemonic = "shove couch sister economy festival plug open rifle subject pave trade village";

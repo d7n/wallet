@@ -1,1 +1,1 @@
-var mnemonic = "cotton trade dynamic adjust sort speed into expire wet confirm live tray";
+var mnemonic = "purse runway term sting nation scale bright dutch version assault skin unaware";

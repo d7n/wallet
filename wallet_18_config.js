@@ -1,1 +1,1 @@
-var mnemonic = "zone income post solve push snow remember vintage casual bundle any season";
+var mnemonic = "weapon excuse broccoli diesel spray adult hidden genuine often shrug play excite";

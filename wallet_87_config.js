@@ -1,1 +1,1 @@
-var mnemonic = "festival limit attack motion mixture powder nuclear lift rare tower palace grace";
+var mnemonic = "electric stool tenant indicate occur dinosaur call actress acid must patch mother";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder hen luxury gaze priority win acquire question install artefact please nice";
+var mnemonic = "glance carpet fatigue august soldier squirrel damp perfect carbon spray trend window";

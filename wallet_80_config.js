@@ -1,1 +1,1 @@
-var mnemonic = "hazard leopard thrive runway digital want void devote private hint rally relief";
+var mnemonic = "learn century since absorb silk spoil consider this chef remove inject enforce";

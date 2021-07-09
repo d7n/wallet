@@ -1,1 +1,1 @@
-var mnemonic = "tuition jacket ice coin pelican age tone gospel child consider weekend boss";
+var mnemonic = "infant control ritual desk exhaust explain pigeon club wage fever fall canal";

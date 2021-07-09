@@ -1,1 +1,1 @@
-var mnemonic = "tiger behave slight glue armor choice boring meat spray dad talent despair";
+var mnemonic = "relax salon debate cactus obey impact eye apology helmet know behind identify";

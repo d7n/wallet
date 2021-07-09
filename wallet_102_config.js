@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur sugar bundle mango struggle suggest glance transfer repeat market frame claim";
+var mnemonic = "table flower unit hungry wagon bundle ritual lend deny cube ritual off";

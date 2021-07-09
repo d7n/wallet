@@ -1,1 +1,1 @@
-var mnemonic = "extra ritual limb couch maze almost almost force soon situate burden disorder";
+var mnemonic = "weapon coach slim crime mass laundry pledge wish fossil column sea position";

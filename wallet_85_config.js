@@ -1,1 +1,1 @@
-var mnemonic = "leaf thunder recall sentence unfair protect disease jelly net acoustic aspect era";
+var mnemonic = "bamboo park daughter tired fringe grit quote dwarf manage abuse legend slam";

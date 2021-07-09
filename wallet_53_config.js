@@ -1,1 +1,1 @@
-var mnemonic = "edge young endless album skull affair helmet eagle profit once address ginger";
+var mnemonic = "tag bulk host wheel speak pencil plunge retreat volume remain educate helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight abandon can marriage game suit protect unaware purpose equip baby swim";
+var mnemonic = "call pioneer obscure try music delay approve soup come okay wine fatal";

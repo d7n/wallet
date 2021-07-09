@@ -1,1 +1,1 @@
-var mnemonic = "material early place cart fantasy whip magic naive mom camera glide desert";
+var mnemonic = "sorry step render torch anger bread world pizza nation foam alpha popular";

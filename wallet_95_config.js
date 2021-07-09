@@ -1,1 +1,1 @@
-var mnemonic = "cannon exchange avoid demand comic benefit group bicycle phone because ask gas";
+var mnemonic = "april lizard jump cruise husband market alien problem supreme grocery photo brass";
