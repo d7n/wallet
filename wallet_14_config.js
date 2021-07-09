@@ -1,1 +1,1 @@
-var mnemonic = "poverty primary trust woman basic long acid call warfare when spread gasp";
+var mnemonic = "company differ couch ivory then daughter satisfy gauge toss direct weasel choose";

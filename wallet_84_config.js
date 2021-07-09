@@ -1,1 +1,1 @@
-var mnemonic = "monster smart render detail charge electric inner trumpet scatter desk shiver core";
+var mnemonic = "alter vote viable current drip find kind impulse top dragon garment such";

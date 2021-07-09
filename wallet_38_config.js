@@ -1,1 +1,1 @@
-var mnemonic = "virtual piano link tower lend mule truck stick prevent sock false now";
+var mnemonic = "song visa reflect version paddle dinner session place similar engine ordinary embody";

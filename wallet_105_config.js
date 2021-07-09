@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cake diesel index cancel tray hill phone volume front sense hair";
+var mnemonic = "street famous remove material duty upgrade material gift gun increase draw awesome";

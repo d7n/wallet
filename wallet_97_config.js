@@ -1,1 +1,1 @@
-var mnemonic = "erosion shoe random split early wait sample enroll empower night eyebrow pepper";
+var mnemonic = "vanish top bleak amateur utility nuclear exhibit city own sausage merry badge";

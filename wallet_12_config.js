@@ -1,1 +1,1 @@
-var mnemonic = "amount acquire they riot fashion prison friend approve burst laugh only loan";
+var mnemonic = "harbor cheese entire vapor tourist teach concert aisle pledge vapor sad frequent";

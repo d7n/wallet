@@ -1,1 +1,1 @@
-var mnemonic = "model setup bracket cheap truly else resource race trophy split relief column";
+var mnemonic = "exact build hood wear upset lake rent auction denial debris crush year";

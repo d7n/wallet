@@ -1,1 +1,1 @@
-var mnemonic = "goose radio feed arrange entire outside dinner another notice victory law vivid";
+var mnemonic = "capable indicate force ski rude plunge canyon disagree push advance immune access";

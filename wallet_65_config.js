@@ -1,1 +1,1 @@
-var mnemonic = "smoke clump medal canyon agree disease exhaust riot post reward actor game";
+var mnemonic = "sell assist flush giggle orient high setup maximum advice current average casual";

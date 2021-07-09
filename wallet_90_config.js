@@ -1,1 +1,1 @@
-var mnemonic = "chuckle divide hammer case grit teach verify faith lion enrich inform pigeon";
+var mnemonic = "burst equip submit rate sketch robust switch response throw brave candy raven";

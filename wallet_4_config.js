@@ -1,1 +1,1 @@
-var mnemonic = "goose deer box spider barrel dawn umbrella brave dinosaur sad silk reflect";
+var mnemonic = "ice oyster logic rib enter priority wise robot swim coyote praise fossil";

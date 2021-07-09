@@ -1,1 +1,1 @@
-var mnemonic = "adjust pitch elegant silent rhythm afraid kick kidney convince success order poet";
+var mnemonic = "language invest beach battle buddy token order shrimp physical guard cradle combine";

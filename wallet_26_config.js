@@ -1,1 +1,1 @@
-var mnemonic = "unfair used venue spell yellow sister goat giggle snake domain degree rescue";
+var mnemonic = "wall total casino season they clarify fish okay net liar science piece";

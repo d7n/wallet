@@ -1,1 +1,1 @@
-var mnemonic = "benefit eyebrow scan coral letter fashion laugh sand medal country leader vicious";
+var mnemonic = "birth eye ball rough tomato toe myth across lumber desk corn donor";

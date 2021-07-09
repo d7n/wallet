@@ -1,1 +1,1 @@
-var mnemonic = "much dragon honey sport letter mixed tool soft cause visa joke raw";
+var mnemonic = "radio kiwi three size tell episode mobile mirror evil coconut behave staff";

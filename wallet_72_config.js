@@ -1,1 +1,1 @@
-var mnemonic = "banana express dynamic hope warm congress spoon dice quarter book clay pair";
+var mnemonic = "logic crazy icon village fall rural trumpet evil snap bachelor witness nest";

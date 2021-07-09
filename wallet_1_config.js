@@ -1,1 +1,1 @@
-var mnemonic = "glow stadium thumb leisure thrive insect arrow hair bar hammer fox regret";
+var mnemonic = "orbit surge theory before hurry useful range olympic vague lottery act emerge";

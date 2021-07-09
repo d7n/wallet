@@ -1,1 +1,1 @@
-var mnemonic = "say palm series owner pudding tumble illness solid tenant rib bullet wash";
+var mnemonic = "huge kite tiny whip remove moon aim venue trade banner nephew extend";

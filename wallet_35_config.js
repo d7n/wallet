@@ -1,1 +1,1 @@
-var mnemonic = "donkey deal where claw bulb reason warrior silver pride panic captain theme";
+var mnemonic = "thought later wide oil mimic rail flash chimney race wrap venture anxiety";

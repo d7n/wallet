@@ -1,1 +1,1 @@
-var mnemonic = "purpose science defense guide series happy parent dirt foam beef output arrow";
+var mnemonic = "march youth legend pudding salute add slim survey auction segment hat tumble";

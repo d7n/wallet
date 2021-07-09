@@ -1,1 +1,1 @@
-var mnemonic = "april brick come squeeze crater blind mountain sheriff vote reward enroll tail";
+var mnemonic = "card panic fresh moon twenty cluster fragile swamp mule junior liquid rough";

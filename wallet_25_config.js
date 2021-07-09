@@ -1,1 +1,1 @@
-var mnemonic = "hope brisk gown double buffalo dawn media prevent victory mistake record clap";
+var mnemonic = "birth elbow predict drive vicious acid where begin hello shock better puzzle";

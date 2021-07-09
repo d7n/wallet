@@ -1,1 +1,1 @@
-var mnemonic = "rival twenty employ purpose ice mad coast cream senior tail curious faculty";
+var mnemonic = "march deal marine admit confirm repeat danger need make pitch swim appear";

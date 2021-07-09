@@ -1,1 +1,1 @@
-var mnemonic = "spell inspire damage feed clump poem damage vast trade real moon neutral";
+var mnemonic = "frost asthma chest forum air clay deputy april sing dash fat office";

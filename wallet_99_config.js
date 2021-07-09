@@ -1,1 +1,1 @@
-var mnemonic = "domain glimpse note coconut depend blush bonus impose artwork surface pistol foster";
+var mnemonic = "melt wisdom pluck track shield bamboo machine inhale child rebel float fresh";

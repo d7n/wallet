@@ -1,1 +1,1 @@
-var mnemonic = "since symptom estate input hold coast comic civil envelope need gesture fiscal";
+var mnemonic = "reform involve trip depth squeeze master unit joke journey prevent federal certain";

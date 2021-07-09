@@ -1,1 +1,1 @@
-var mnemonic = "thing coil theory leaf cram endless bamboo uncover west shy cause exercise";
+var mnemonic = "also boat wreck beauty confirm brave alter online august taste trip space";

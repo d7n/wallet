@@ -1,1 +1,1 @@
-var mnemonic = "bike animal birth lizard panda make fee seed mechanic panther unfair repeat";
+var mnemonic = "biology height mention service drift body little barely bargain announce debris decide";

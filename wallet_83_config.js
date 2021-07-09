@@ -1,1 +1,1 @@
-var mnemonic = "mountain notable knee quick donkey beauty web riot whip romance cruel payment";
+var mnemonic = "rural great exist include gas embrace mercy control alcohol glide sustain office";

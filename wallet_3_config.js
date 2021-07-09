@@ -1,1 +1,1 @@
-var mnemonic = "parrot outdoor thunder force bundle borrow cluster rebel stage hungry police soda";
+var mnemonic = "sweet horn excite castle junior flame arm cherry movie reform plastic envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt apple comic bubble bulb plastic quick busy true bacon owner logic";
+var mnemonic = "actual sunny moment song spare just athlete police robot basket spider flavor";

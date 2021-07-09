@@ -1,1 +1,1 @@
-var mnemonic = "pencil six salon reform road finish clever tip traffic aware quiz usual";
+var mnemonic = "adult matrix level shadow wild layer quit decade bar trim shuffle action";

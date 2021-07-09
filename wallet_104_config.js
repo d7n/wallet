@@ -1,1 +1,1 @@
-var mnemonic = "mouse repair matter sign sell champion budget general trouble slab web smooth";
+var mnemonic = "volcano tenant fit upset pipe wise rubber engine orbit enough you foot";

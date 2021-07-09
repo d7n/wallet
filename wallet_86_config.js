@@ -1,1 +1,1 @@
-var mnemonic = "equip people garden orchard input vanish orange vacuum session double cycle spoon";
+var mnemonic = "impact shoe magnet hedgehog neglect elder utility perfect nut price like sight";

@@ -1,1 +1,1 @@
-var mnemonic = "fever abstract corn next toe wife toast auction crowd scene ivory team";
+var mnemonic = "olympic waste cluster nasty monster control helmet remember olympic inform husband public";

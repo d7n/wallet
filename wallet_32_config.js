@@ -1,1 +1,1 @@
-var mnemonic = "print glare cluster spice avoid cry rigid eye exhibit subway correct exhibit";
+var mnemonic = "budget movie way slim burden refuse collect nuclear fee cigar cute present";

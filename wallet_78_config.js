@@ -1,1 +1,1 @@
-var mnemonic = "jump mad slice initial sun you stove online style sand hurt pave";
+var mnemonic = "quick million tank hockey answer average desk govern loan miracle material usual";

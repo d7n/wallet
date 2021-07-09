@@ -1,1 +1,1 @@
-var mnemonic = "retire rebuild banner stamp strike anxiety sing easily blouse circle rent decrease";
+var mnemonic = "defense antenna wink frequent owner focus able law penalty toward chalk salon";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon elder picture liquid impose recycle rhythm spatial rhythm excess measure pioneer";
+var mnemonic = "control release fold taste stage afford rival false umbrella leg wrist tattoo";

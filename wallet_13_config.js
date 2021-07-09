@@ -1,1 +1,1 @@
-var mnemonic = "clog egg rhythm saddle slogan cactus base plastic trouble view poem balcony";
+var mnemonic = "flush universe own hobby tongue east castle oak intact swamp shy south";

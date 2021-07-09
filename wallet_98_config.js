@@ -1,1 +1,1 @@
-var mnemonic = "around exile heavy truly monkey property daring hammer extend result ecology business";
+var mnemonic = "scheme latin core celery brush ivory secret excuse rose observe old spring";

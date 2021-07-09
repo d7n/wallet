@@ -1,1 +1,1 @@
-var mnemonic = "amateur harbor half rich eyebrow rescue ill robust kangaroo cause language panther";
+var mnemonic = "clog dutch strike use grass borrow dragon estate project ribbon palace monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse churn silk cliff company multiply minimum mixture worth swing mouse fit";
+var mnemonic = "vacant vocal cheese busy stool wild rabbit beef trend you cup employ";

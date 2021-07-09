@@ -1,1 +1,1 @@
-var mnemonic = "ozone option diesel logic outside area mimic ocean rude update supreme off";
+var mnemonic = "purse donate hello giant juice enjoy aspect spot advance shy uphold elevator";

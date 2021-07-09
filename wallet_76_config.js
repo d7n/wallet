@@ -1,1 +1,1 @@
-var mnemonic = "beef spy curious success reflect bronze slab avocado moral recipe kite gaze";
+var mnemonic = "crime limb fee eyebrow job risk piece bicycle notice identify festival envelope";

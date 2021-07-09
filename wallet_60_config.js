@@ -1,1 +1,1 @@
-var mnemonic = "identify top seat buzz erupt web mystery page leopard season hollow jungle";
+var mnemonic = "enforce pistol twice ramp lesson wing orbit pilot bean stay illness quote";

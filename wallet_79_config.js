@@ -1,1 +1,1 @@
-var mnemonic = "copper away wisdom excuse switch maple calm regular order receive light step";
+var mnemonic = "try silk salad marble chapter wait index gain cabbage involve siren tool";

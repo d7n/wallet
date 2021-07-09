@@ -1,1 +1,1 @@
-var mnemonic = "awesome truth logic skull either once adapt shed casual load sugar enforce";
+var mnemonic = "imitate simple alert remind caught wire heart budget summer action push floor";

@@ -1,1 +1,1 @@
-var mnemonic = "copper mixture liquid tree pumpkin siege dune vote trip inform pave minimum";
+var mnemonic = "chat nephew snap modify object remind motion right satisfy dentist club prize";

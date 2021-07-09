@@ -1,1 +1,1 @@
-var mnemonic = "exclude turkey unhappy engage fiscal fit above mammal account glare already lunch";
+var mnemonic = "report basic ostrich pole join north buddy merge panda prepare tiger sand";

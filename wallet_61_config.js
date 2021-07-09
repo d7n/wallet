@@ -1,1 +1,1 @@
-var mnemonic = "ripple wrestle decide chef army draft cry slogan segment fire bag speak";
+var mnemonic = "paper consider general treat list love asthma zone piece lottery undo west";

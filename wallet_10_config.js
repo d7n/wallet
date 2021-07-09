@@ -1,1 +1,1 @@
-var mnemonic = "tuition skull disagree viable legend flee guess order hold anxiety access measure";
+var mnemonic = "liquid cinnamon grant very myth prepare comic act diet drink cable describe";

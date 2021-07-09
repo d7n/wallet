@@ -1,1 +1,1 @@
-var mnemonic = "other since sheriff between put bamboo sustain midnight basic pig camera vehicle";
+var mnemonic = "they amazing vocal language torch board pistol circle snap degree shallow embark";

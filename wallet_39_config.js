@@ -1,1 +1,1 @@
-var mnemonic = "evil cram trick pistol valid journey error desert clap also canyon glare";
+var mnemonic = "dial lens stove roast inner wife pond collect private venue poverty search";

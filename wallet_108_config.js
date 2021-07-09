@@ -1,1 +1,1 @@
-var mnemonic = "jacket treat help hunt quote chapter frost what obscure theory acoustic fame";
+var mnemonic = "increase swarm network ride invest wealth away become sentence bone swear dentist";

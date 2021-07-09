@@ -1,1 +1,1 @@
-var mnemonic = "glimpse spare silver forward must woman grape valley exile bid pave unable";
+var mnemonic = "buddy shrimp buffalo smooth income crunch cat kind drama alley fetch sting";

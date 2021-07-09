@@ -1,1 +1,1 @@
-var mnemonic = "cereal just vendor alpha tail lottery help tourist excuse casual sunny waste";
+var mnemonic = "embody shop liquid drill robust risk soldier name cave crush gesture seed";

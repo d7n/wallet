@@ -1,1 +1,1 @@
-var mnemonic = "inner summer always gallery caution ocean mad mutual saddle divide hair wrist";
+var mnemonic = "derive diet company moral detect impulse emotion vessel pen dismiss squeeze rude";

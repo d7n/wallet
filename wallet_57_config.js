@@ -1,1 +1,1 @@
-var mnemonic = "glass cricket exile amused police thought garden manage field garlic mango fold";
+var mnemonic = "oxygen top aim trap setup sad other van bright achieve shadow certain";

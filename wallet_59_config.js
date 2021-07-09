@@ -1,1 +1,1 @@
-var mnemonic = "victory dry chicken such mango dismiss soda coast since finger advice use";
+var mnemonic = "trial floor poet monster income property warm orphan rice citizen eager fix";

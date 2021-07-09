@@ -1,1 +1,1 @@
-var mnemonic = "index useless indicate artefact weapon history ramp weapon ski poet claim regular";
+var mnemonic = "legal cash borrow owner elbow humor pull leopard stove unable slam stadium";

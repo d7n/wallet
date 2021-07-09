@@ -1,1 +1,1 @@
-var mnemonic = "road that vicious wild neck verb fantasy humor flag flavor glow essence";
+var mnemonic = "alley predict rival any peanut caution absurd system kingdom turn curtain discover";

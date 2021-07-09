@@ -1,1 +1,1 @@
-var mnemonic = "resemble trash gloom virus potato orient enough palm blast venture one infant";
+var mnemonic = "bean faculty over mean enough remember gaze crush neck palace above they";

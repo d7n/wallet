@@ -1,1 +1,1 @@
-var mnemonic = "dentist dwarf double apple exist girl multiply lunch output solar alarm gap";
+var mnemonic = "club feel cheap liar spy magnet virus private erosion rotate whisper ancient";

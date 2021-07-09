@@ -1,1 +1,1 @@
-var mnemonic = "leave soft notable airport leader matrix off use reflect brief risk afford";
+var mnemonic = "false truck glare idle whisper walnut episode never stove sunny bind maple";

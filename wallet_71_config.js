@@ -1,1 +1,1 @@
-var mnemonic = "jazz key embark pool icon undo old unique service bread leopard seek";
+var mnemonic = "mirror hat news post prepare cat matrix icon winner panel indicate orbit";

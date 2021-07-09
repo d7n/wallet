@@ -1,1 +1,1 @@
-var mnemonic = "essence robot opera gift link strike stay bean bird law stuff grass";
+var mnemonic = "switch dash shaft family powder hire hedgehog snake burger guard help radio";

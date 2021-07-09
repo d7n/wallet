@@ -1,1 +1,1 @@
-var mnemonic = "remain mix job almost moon unfold artist couch copy olive side urban";
+var mnemonic = "tent symptom lamp essay foam around kid joke chicken sock turn swing";

@@ -1,1 +1,1 @@
-var mnemonic = "female old relax odor average group wrap draw parade crack fever argue";
+var mnemonic = "pistol velvet angry whisper charge girl visual equal grain organ engine answer";

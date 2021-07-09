@@ -1,1 +1,1 @@
-var mnemonic = "garlic truck favorite poem cement switch you know idea unique birth again";
+var mnemonic = "pyramid motion tell layer lesson blossom panther frost fetch monkey blossom state";

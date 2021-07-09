@@ -1,1 +1,1 @@
-var mnemonic = "rapid winter minor crew only tomorrow collect interest local soul science thing";
+var mnemonic = "normal cup merry slender office erase expand craft victory pledge fruit feature";

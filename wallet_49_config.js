@@ -1,1 +1,1 @@
-var mnemonic = "swap define green mesh left shoe boost agree notable finger few gentle";
+var mnemonic = "hero run riot guard slot tail swap walnut make need decide idea";

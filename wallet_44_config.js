@@ -1,1 +1,1 @@
-var mnemonic = "loyal antenna retire tourist local gallery visual exotic light diary debate bracket";
+var mnemonic = "direct mobile leisure rabbit strategy poet office silver parrot help strategy want";

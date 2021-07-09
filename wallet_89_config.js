@@ -1,1 +1,1 @@
-var mnemonic = "ordinary memory wasp primary oblige video robot grocery attitude concert fox day";
+var mnemonic = "pyramid fault pluck process alcohol lemon walk spring owner armor pitch fork";

@@ -1,1 +1,1 @@
-var mnemonic = "stage seek quantum index toy gallery about bubble spot first daughter trip";
+var mnemonic = "girl purchase fabric slight draft job afraid audit law garage impose mechanic";

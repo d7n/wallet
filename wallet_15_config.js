@@ -1,1 +1,1 @@
-var mnemonic = "tourist town jump tray useless garment garden problem salute palm bring north";
+var mnemonic = "sea depend ticket lawn funny salute quiz much sample prefer garage mass";

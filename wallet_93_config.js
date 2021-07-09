@@ -1,1 +1,1 @@
-var mnemonic = "wave police modify despair rate jewel end survey tree universe sport inspire";
+var mnemonic = "school urge cage erupt bunker explain believe bread angry service ozone share";

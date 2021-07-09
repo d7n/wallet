@@ -1,1 +1,1 @@
-var mnemonic = "organ humor question camera security sad exact math thought favorite divorce task";
+var mnemonic = "warrior obscure reopen ice text kind host vote over sketch space shell";

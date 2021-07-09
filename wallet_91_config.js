@@ -1,1 +1,1 @@
-var mnemonic = "recall flush glad tape essence mechanic hammer captain tip ritual boost fee";
+var mnemonic = "clutch client apple claw brand spoon chuckle special uncover brass actor version";

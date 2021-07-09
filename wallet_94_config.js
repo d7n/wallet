@@ -1,1 +1,1 @@
-var mnemonic = "member erupt ritual absent evoke solar rotate angle language agree suspect myth";
+var mnemonic = "wage cinnamon brush dash deer sad paddle rail heavy wisdom praise raw";

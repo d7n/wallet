@@ -1,1 +1,1 @@
-var mnemonic = "nerve spare sponsor salad agree decide ramp focus puppy detail daughter define";
+var mnemonic = "run will invite shell quality protect auto fat tell accident gather earth";

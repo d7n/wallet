@@ -1,1 +1,1 @@
-var mnemonic = "space tribe assault denial farm moment raccoon naive avoid decade explain cliff";
+var mnemonic = "enact chaos tenant opera banner venue diamond steak afraid action rail amused";

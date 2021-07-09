@@ -1,1 +1,1 @@
-var mnemonic = "board frost mixed pyramid offer document this cereal noodle basket mirror copper";
+var mnemonic = "oblige bleak live rich edit warm life nose domain ship stem lyrics";

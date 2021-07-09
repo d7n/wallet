@@ -1,1 +1,1 @@
-var mnemonic = "spice exile picture once drill lend fine glad exist click will patrol";
+var mnemonic = "dial legend cloud where museum middle dose fetch other mad deal sport";

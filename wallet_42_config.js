@@ -1,1 +1,1 @@
-var mnemonic = "option supply ozone physical shoe swamp tent fly digital cinnamon manual relief";
+var mnemonic = "duck tobacco injury moon verb wash soccer churn pen convince viable inquiry";

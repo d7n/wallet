@@ -1,1 +1,1 @@
-var mnemonic = "student sea defense trust basic tooth myth globe drip lumber victory find";
+var mnemonic = "shiver bind neither crack protect mistake inner gap below wage hungry equip";

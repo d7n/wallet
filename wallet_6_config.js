@@ -1,1 +1,1 @@
-var mnemonic = "cabbage grow estate sustain steel visit patient silent tree furnace ahead beyond";
+var mnemonic = "lesson tongue original inmate flash deal valid broccoli cluster federal excite whale";

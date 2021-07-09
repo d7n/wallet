@@ -1,1 +1,1 @@
-var mnemonic = "reward bless goose gorilla nasty cattle agree giant maze grow napkin cable";
+var mnemonic = "police huge hat laugh online room asset picture ozone pipe final large";

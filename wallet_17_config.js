@@ -1,1 +1,1 @@
-var mnemonic = "saddle man fame fork neglect pride legend blur index excite question era";
+var mnemonic = "auction ivory advance dry cradle shock voice silver pyramid avocado issue senior";

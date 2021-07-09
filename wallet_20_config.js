@@ -1,1 +1,1 @@
-var mnemonic = "future various fine desert begin afford culture file sugar work buffalo empty";
+var mnemonic = "behind vocal strike alarm leg project film embark enforce task try hat";

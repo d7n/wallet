@@ -1,1 +1,1 @@
-var mnemonic = "illness cake try sort moon future fringe bridge liar invest exclude category";
+var mnemonic = "physical version antenna weasel grit neck always clap shop suspect unfair spoon";
