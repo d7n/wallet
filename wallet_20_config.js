@@ -1,1 +1,1 @@
-var mnemonic = "address ladder tortoise short expand razor cross curious until monitor weekend cigar";
+var mnemonic = "zone tilt upgrade episode bring sad choice wall betray that acoustic opera";

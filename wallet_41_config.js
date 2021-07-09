@@ -1,1 +1,1 @@
-var mnemonic = "want vessel wolf category toss prison crawl series sad tail team sun";
+var mnemonic = "spread truly plunge slight expand rib net oak legend exhibit fetch damage";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo core remember cable virus tree spoil year tiny finger tank old";
+var mnemonic = "traffic arctic pottery ski custom unfair veteran approve awful eager high duck";

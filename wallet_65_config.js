@@ -1,1 +1,1 @@
-var mnemonic = "type jelly people squirrel earn recall picture lumber basket spike access heart";
+var mnemonic = "pitch flush identify gloom topple little oyster never rhythm sun uniform false";

@@ -1,1 +1,1 @@
-var mnemonic = "message exchange churn park always evidence palm table current powder behave matrix";
+var mnemonic = "method hurdle insect roof jelly ready cushion expand nerve winner salt child";

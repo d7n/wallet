@@ -1,1 +1,1 @@
-var mnemonic = "solve clutch couple strike lyrics series grab machine tunnel catch vivid rare";
+var mnemonic = "funny misery strong pluck hope system visa core thing walk easily talent";

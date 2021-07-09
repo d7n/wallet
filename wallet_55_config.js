@@ -1,1 +1,1 @@
-var mnemonic = "pluck flee misery spirit rally produce radio symptom voyage reject radio antenna";
+var mnemonic = "census core zone moment faint allow badge still dawn daughter laundry maximum";

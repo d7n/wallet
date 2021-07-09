@@ -1,1 +1,1 @@
-var mnemonic = "arch enable excuse head fury express remember metal apple special jelly champion";
+var mnemonic = "stick water horror lesson aware aim average purchase enough twist bunker riot";

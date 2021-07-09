@@ -1,1 +1,1 @@
-var mnemonic = "favorite olive comfort glare fine wild resource phrase rebel noble push obey";
+var mnemonic = "medal swamp child mushroom diary pear season muscle card undo sail decade";

@@ -1,1 +1,1 @@
-var mnemonic = "thank family benefit gown wing divert caution bargain wheel clog screen sorry";
+var mnemonic = "salon boy fiction license federal panda rent vicious average glue opinion expect";

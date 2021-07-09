@@ -1,1 +1,1 @@
-var mnemonic = "roast chalk top olympic million remind tool sound harbor cry burden giant";
+var mnemonic = "false mosquito hello clog upset recipe bus vast bubble enter concert glide";

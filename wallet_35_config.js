@@ -1,1 +1,1 @@
-var mnemonic = "now creek flower type cannon city suspect strong sort knee space slogan";
+var mnemonic = "middle true magnet laptop quiz tiny afford injury eternal shallow pink figure";

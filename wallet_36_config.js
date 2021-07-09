@@ -1,1 +1,1 @@
-var mnemonic = "worth basket boss gentle garden neck bind project employ humble daring cheese";
+var mnemonic = "steel valve embark supply soon lend absent voice drip sell panda piano";

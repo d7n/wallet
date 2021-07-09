@@ -1,1 +1,1 @@
-var mnemonic = "already alpha bar tone rescue peace ignore sadness reform pioneer key garbage";
+var mnemonic = "upgrade quantum floor filter eagle excess host acoustic document tomorrow advice icon";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap lonely until winner vanish canyon hunt gym rely excess into struggle";
+var mnemonic = "skull mixed soul capable pluck salute hurdle air eagle cherry mail typical";

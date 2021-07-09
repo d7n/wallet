@@ -1,1 +1,1 @@
-var mnemonic = "matrix mixed case plunge west rather churn add step boring tower demand";
+var mnemonic = "useless verb mask sister tumble brass brown sorry egg match multiply combine";

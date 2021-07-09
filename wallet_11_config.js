@@ -1,1 +1,1 @@
-var mnemonic = "grit skull tunnel choose zero cook giant job another tool topic motion";
+var mnemonic = "magnet camera raw ozone kite sense universe giggle arm coach ability indoor";

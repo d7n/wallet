@@ -1,1 +1,1 @@
-var mnemonic = "upgrade item bulk thank abandon fragile shrimp copy rigid hope tribe joy";
+var mnemonic = "leopard next bachelor borrow flip guide mask neglect noise useful inherit skull";

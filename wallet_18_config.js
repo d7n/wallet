@@ -1,1 +1,1 @@
-var mnemonic = "daring ribbon behave lizard canyon spatial dignity section swarm sleep valid decide";
+var mnemonic = "desert donkey actress brief poet bike replace calm hawk nation second lucky";

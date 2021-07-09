@@ -1,1 +1,1 @@
-var mnemonic = "wide butter weasel isolate earn system mistake display junior crunch inflict emotion";
+var mnemonic = "table barely news siren chest cash whale flee canoe opinion flavor copper";

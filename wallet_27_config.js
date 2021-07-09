@@ -1,1 +1,1 @@
-var mnemonic = "green gown phrase toilet chest salt calm club orient crash add dinner";
+var mnemonic = "fox matter flee verb coast corn door cable dinner fuel magic total";

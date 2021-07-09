@@ -1,1 +1,1 @@
-var mnemonic = "stomach achieve just enlist ancient lemon ankle cushion auto rent bullet people";
+var mnemonic = "vessel sister main cube marble please outer length renew profit during tuna";

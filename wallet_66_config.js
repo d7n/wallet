@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit bounce tray zero office jar myself win light paper faith group";
+var mnemonic = "fetch little human oblige bright champion donate mail kingdom load cluster super";

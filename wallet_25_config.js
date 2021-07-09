@@ -1,1 +1,1 @@
-var mnemonic = "friend harbor decorate reward material mirror record clerk inherit define skull scene";
+var mnemonic = "lab sick smile never dress tenant chase police satoshi advice ostrich bullet";

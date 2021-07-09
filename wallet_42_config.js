@@ -1,1 +1,1 @@
-var mnemonic = "mule supply tragic luggage friend cactus lady ancient erase cherry radio crawl";
+var mnemonic = "saddle sort exile position hub truck above barrel onion field cluster fold";

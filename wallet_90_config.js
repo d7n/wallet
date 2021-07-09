@@ -1,1 +1,1 @@
-var mnemonic = "interest vehicle cross grunt since sail network cream rule conduct supreme mixed";
+var mnemonic = "until office science blast aim erase poem track trap apology victory evolve";

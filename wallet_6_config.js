@@ -1,1 +1,1 @@
-var mnemonic = "collect banner floor differ leave kiss fence innocent raw speed ketchup target";
+var mnemonic = "explain tray actual head virus vessel beach frequent supreme proof stable appear";

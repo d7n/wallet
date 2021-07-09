@@ -1,1 +1,1 @@
-var mnemonic = "mad task achieve cargo connect audit awkward impose popular minimum catalog ripple";
+var mnemonic = "shoulder essence local weasel cabin rug soccer always obvious virtual finger battle";

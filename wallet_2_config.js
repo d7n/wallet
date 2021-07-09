@@ -1,1 +1,1 @@
-var mnemonic = "monster pupil throw exclude fish glad sea little quality awful wool odor";
+var mnemonic = "mimic endless void drastic mixture between output razor nose explain floor position";

@@ -1,1 +1,1 @@
-var mnemonic = "december soap budget taste pledge kind dirt nephew before imitate gorilla olympic";
+var mnemonic = "ketchup lens muffin april idea stomach nuclear dragon notable card fatigue check";

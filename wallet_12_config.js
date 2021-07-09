@@ -1,1 +1,1 @@
-var mnemonic = "phrase winner picnic settle material mercy valley buzz grid silver gun domain";
+var mnemonic = "village lawsuit turtle bike illness polar girl ready sister bargain unaware cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor control mimic cover nature lottery elder client old comfort trade alarm";
+var mnemonic = "old erosion shock unknown muffin stereo science hover tower robot celery mammal";

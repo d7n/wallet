@@ -1,1 +1,1 @@
-var mnemonic = "enforce flower staff poet list tag dry mystery way category moment figure";
+var mnemonic = "dinner make north hub skull kit gaze defy nature front jar marine";

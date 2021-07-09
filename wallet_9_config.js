@@ -1,1 +1,1 @@
-var mnemonic = "under despair thunder dune alert invest joy result ripple slam core gasp";
+var mnemonic = "page wreck nerve border radar frequent decline tackle door example outside extra";

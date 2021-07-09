@@ -1,1 +1,1 @@
-var mnemonic = "rookie embody type emerge force until nice bacon deal gym unique orange";
+var mnemonic = "river own come patch crouch student column zone giant again tail cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "come olive remind wrap nasty odor cushion bottom ostrich move cattle unit";
+var mnemonic = "between sail guess kitten conduct public seminar vast manage link vehicle exile";

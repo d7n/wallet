@@ -1,1 +1,1 @@
-var mnemonic = "various item crime admit shock ask punch gather over client cricket crucial";
+var mnemonic = "program curve excuse frost town tape dismiss scheme engine bacon joy arrange";

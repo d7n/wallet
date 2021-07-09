@@ -1,1 +1,1 @@
-var mnemonic = "atom share fire suspect exchange planet again around attract save dawn recall";
+var mnemonic = "kitten bag stamp hospital phrase burger face silly long define ignore desk";

@@ -1,1 +1,1 @@
-var mnemonic = "library country mother they summer onion tide health journey hospital rain company";
+var mnemonic = "process appear utility gentle property soap gospel worth road twenty drop slam";

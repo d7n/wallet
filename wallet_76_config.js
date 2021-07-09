@@ -1,1 +1,1 @@
-var mnemonic = "design spider judge hair engage that leg dish normal drill link sock";
+var mnemonic = "useless cause program young party urban relax thunder steak live snow favorite";

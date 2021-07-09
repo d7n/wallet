@@ -1,1 +1,1 @@
-var mnemonic = "height dress gift narrow movie pyramid genuine inject book glass ozone math";
+var mnemonic = "youth quantum alien connect lock dumb tobacco melody security okay crime segment";

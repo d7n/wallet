@@ -1,1 +1,1 @@
-var mnemonic = "narrow nest crawl news daughter abstract slide attack taxi invest have romance";
+var mnemonic = "luggage crisp topple inject baby fossil that bring afford battle bid diesel";

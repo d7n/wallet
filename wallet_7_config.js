@@ -1,1 +1,1 @@
-var mnemonic = "slide engage runway usage else humble zero identify toe table daughter forest";
+var mnemonic = "cube holiday victory copper old wage day anxiety science scrub maid fog";

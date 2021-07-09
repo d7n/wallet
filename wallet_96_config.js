@@ -1,1 +1,1 @@
-var mnemonic = "parade begin monster mercy burger refuse payment rack reward visa brick large";
+var mnemonic = "spray frequent banner legal stuff civil decide shallow pill minor minimum feature";

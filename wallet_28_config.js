@@ -1,1 +1,1 @@
-var mnemonic = "cost cost bus famous naive wedding dose drip deliver common frost write";
+var mnemonic = "bridge logic apology profit pulp vintage blind smart lion version fuel ridge";

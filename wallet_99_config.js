@@ -1,1 +1,1 @@
-var mnemonic = "theme upset rhythm ten negative food blouse actor sword maple toddler asthma";
+var mnemonic = "clever minimum human load ice crash rocket doctor image predict wear crush";

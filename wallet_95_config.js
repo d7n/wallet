@@ -1,1 +1,1 @@
-var mnemonic = "frog train turkey topple armor joke meadow company move gentle ignore peace";
+var mnemonic = "saddle gain aerobic bottom twin humble muffin economy prepare ancient grace enact";

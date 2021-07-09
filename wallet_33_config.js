@@ -1,1 +1,1 @@
-var mnemonic = "royal grid useful burden harvest book heart cushion radio coyote tornado say";
+var mnemonic = "enemy sorry steel comic fiction faith spare toddler attend asthma hotel first";

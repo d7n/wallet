@@ -1,1 +1,1 @@
-var mnemonic = "divert impose champion sock modify together multiply brisk resemble mobile walnut attend";
+var mnemonic = "margin guide alert abuse bachelor supreme smooth list vapor hope stay host";

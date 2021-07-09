@@ -1,1 +1,1 @@
-var mnemonic = "pole render school neutral drift chunk silly sudden energy december lunar renew";
+var mnemonic = "naive abuse december chapter nerve faculty obey chat rib offer prize stairs";

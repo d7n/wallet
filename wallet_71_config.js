@@ -1,1 +1,1 @@
-var mnemonic = "mobile defense brain later drop title betray mammal grit trigger cruise drill";
+var mnemonic = "bronze give junk voyage disease pioneer strong cook van other debris apology";

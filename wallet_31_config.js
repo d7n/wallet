@@ -1,1 +1,1 @@
-var mnemonic = "involve during wheel dog draft forest direct canyon pioneer share already attitude";
+var mnemonic = "wine future argue diagram soon deal build oblige birth edge chapter phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel loop random convince okay amateur umbrella dentist fury general solid inform";
+var mnemonic = "sock sight shoulder paper rough cargo pink device master venture core dial";

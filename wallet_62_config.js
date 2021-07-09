@@ -1,1 +1,1 @@
-var mnemonic = "urge length wheel crack exchange offer robust coffee decade sound seat enforce";
+var mnemonic = "stumble nuclear cabbage metal place other auction organ ecology tone leader illness";

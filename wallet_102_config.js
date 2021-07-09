@@ -1,1 +1,1 @@
-var mnemonic = "lab mule circle romance myth use until mutual banner fix already hundred";
+var mnemonic = "become rookie million illegal rib wreck narrow involve snake bronze unit myth";

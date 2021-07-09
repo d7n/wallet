@@ -1,1 +1,1 @@
-var mnemonic = "pottery visit recall height useful lamp correct peanut diary exist faculty amazing";
+var mnemonic = "hair antenna soft response faith floor invest pool advice napkin next silly";

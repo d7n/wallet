@@ -1,1 +1,1 @@
-var mnemonic = "fix response jungle robot later juice elephant chair mother resemble word arrest";
+var mnemonic = "wear castle tree rose awesome faculty approve gallery fly seed exclude spell";

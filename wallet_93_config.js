@@ -1,1 +1,1 @@
-var mnemonic = "damage deposit dinosaur skill oil panther round field address muffin this ethics";
+var mnemonic = "robust female spend shoot hint chimney illegal predict try spread vague gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan accuse cluster flower wheat dose unfold achieve left fatal federal daughter";
+var mnemonic = "left blind afford exhibit bundle sample better anxiety senior travel sunny chapter";

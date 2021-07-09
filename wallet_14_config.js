@@ -1,1 +1,1 @@
-var mnemonic = "pelican install wisdom deliver find despair peace wild toddler soldier daring plate";
+var mnemonic = "develop grief scare rebel large repair hurry song embark avoid tool corn";

@@ -1,1 +1,1 @@
-var mnemonic = "ride ten mouse employ cross divorce cannon first rescue bullet coast street";
+var mnemonic = "top brass nasty wedding daring theory palm man limit quarter acoustic hunt";

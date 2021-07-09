@@ -1,1 +1,1 @@
-var mnemonic = "nasty garden enforce air curious lottery poet clump goat display viable final";
+var mnemonic = "valley pool best balance rhythm spider corn brief employ humble battle announce";

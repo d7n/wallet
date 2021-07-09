@@ -1,1 +1,1 @@
-var mnemonic = "inner proof unhappy drop output favorite dose castle gate sound cactus rabbit";
+var mnemonic = "limb hire come city leave romance obtain people chair vicious charge trophy";

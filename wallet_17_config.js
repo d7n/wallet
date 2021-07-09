@@ -1,1 +1,1 @@
-var mnemonic = "tunnel hotel cause mango cage cycle joy chapter urge save decide bitter";
+var mnemonic = "riot lava alert search bonus indicate capital leaf slender exact slice solve";

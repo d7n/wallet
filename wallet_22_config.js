@@ -1,1 +1,1 @@
-var mnemonic = "slow rocket cart excess reason problem interest web ten burst tenant pact";
+var mnemonic = "width letter genre dune abandon direct label mushroom damage oval letter brain";

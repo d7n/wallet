@@ -1,1 +1,1 @@
-var mnemonic = "child sell weasel almost island suspect price ignore sea wool melt category";
+var mnemonic = "okay road poem game taste wisdom enrich fossil vintage broken laptop spy";

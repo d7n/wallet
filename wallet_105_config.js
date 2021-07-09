@@ -1,1 +1,1 @@
-var mnemonic = "parrot work guard green furnace duty crack announce twenty comic light spatial";
+var mnemonic = "save rain enter slender arch seminar burst west ignore account service excuse";

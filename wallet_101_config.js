@@ -1,1 +1,1 @@
-var mnemonic = "junk lounge brush labor rhythm rubber various apple indoor chimney sleep hire";
+var mnemonic = "soul million stomach dumb news fat rice awesome blossom spoil select own";

@@ -1,1 +1,1 @@
-var mnemonic = "steak grant weather avocado rare moment silver brand denial express tomato dune";
+var mnemonic = "weekend dice away donkey dwarf author torch awesome galaxy leopard explain riot";

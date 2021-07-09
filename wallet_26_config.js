@@ -1,1 +1,1 @@
-var mnemonic = "patient baby mesh useful toss celery eyebrow wet wage seed spike logic";
+var mnemonic = "victory area miss half arctic eye scout merry crucial adjust will slogan";

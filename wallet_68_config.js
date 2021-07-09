@@ -1,1 +1,1 @@
-var mnemonic = "pass brother pony oak hero pride asthma fringe become alien hurdle ensure";
+var mnemonic = "resource world lecture have scout subway nest mesh tell result maple waste";

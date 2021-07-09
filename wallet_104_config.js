@@ -1,1 +1,1 @@
-var mnemonic = "green appear public figure acid carbon grape autumn great gospel fence foster";
+var mnemonic = "grocery certain abstract stay public blanket trumpet someone actress weasel lucky spin";

@@ -1,1 +1,1 @@
-var mnemonic = "swap shallow gain trap add tank year twist legal summer clog spatial";
+var mnemonic = "baby defy two acquire junk humble little health amount point lesson job";

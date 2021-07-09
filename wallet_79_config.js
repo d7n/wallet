@@ -1,1 +1,1 @@
-var mnemonic = "response kid drastic debris best helmet early want seat circle primary tornado";
+var mnemonic = "ice fuel bring present street merge glue excess trouble another supply cage";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel easy era please rigid south easy wedding caution lottery home else";
+var mnemonic = "hen ramp soap next major put topple quit ladder reject upset capable";

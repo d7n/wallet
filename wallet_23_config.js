@@ -1,1 +1,1 @@
-var mnemonic = "fancy hollow control wire remember resemble sail jealous sell cost moon settle";
+var mnemonic = "lottery series margin clown pottery domain crew note crawl detect pulp burst";

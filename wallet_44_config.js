@@ -1,1 +1,1 @@
-var mnemonic = "burden dinner palm donate solar hill shallow adjust shy hawk museum calm";
+var mnemonic = "coral faculty only prefer surface together wear primary catch build happy excess";

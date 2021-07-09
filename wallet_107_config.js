@@ -1,1 +1,1 @@
-var mnemonic = "cost social system prison dove gap van flash already obscure boat coyote";
+var mnemonic = "soccer soul pottery local unveil legend hour feature glass story animal trouble";

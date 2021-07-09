@@ -1,1 +1,1 @@
-var mnemonic = "able junior dune pride illegal opinion dawn deliver license staff stay carry";
+var mnemonic = "art monster veteran honey snap stairs chimney annual cabbage slight valve noise";

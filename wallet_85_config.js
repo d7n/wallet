@@ -1,1 +1,1 @@
-var mnemonic = "business purpose isolate reason season giggle ozone bunker vapor empty ask alpha";
+var mnemonic = "word tribe forget essay strong funny bread offer produce enrich sand plunge";

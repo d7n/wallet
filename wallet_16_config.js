@@ -1,1 +1,1 @@
-var mnemonic = "awesome stage three dawn scale icon often hospital army magic accuse jazz";
+var mnemonic = "fruit link circle foot shop author silver shadow ginger tone human spoon";

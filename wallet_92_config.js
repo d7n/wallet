@@ -1,1 +1,1 @@
-var mnemonic = "chicken polar scale rapid note action lava sheriff know enhance radar monster";
+var mnemonic = "collect way middle grunt blast pulse canvas time legal bomb prison air";

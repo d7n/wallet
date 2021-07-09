@@ -1,1 +1,1 @@
-var mnemonic = "secret cabbage win still general shiver choice secret distance excite inherit chuckle";
+var mnemonic = "decrease view mule foster rapid aware wrong garage possible discover blanket ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "blush exact enable joke jelly survey movie around vast reason abuse home";
+var mnemonic = "relief gas canoe east present defy noble paper jaguar affair measure stomach";

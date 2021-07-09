@@ -1,1 +1,1 @@
-var mnemonic = "behave frozen fire clay distance speed include transfer little kick awkward great";
+var mnemonic = "indoor leave time cry honey visit dry release canal drop flight ship";

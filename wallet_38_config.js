@@ -1,1 +1,1 @@
-var mnemonic = "hurdle polar talent credit close obey mixed patch ramp clock usage nerve";
+var mnemonic = "slim farm panic gown noodle ketchup anger promote tiny polar language color";

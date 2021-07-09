@@ -1,1 +1,1 @@
-var mnemonic = "labor ethics kind like stool lucky rocket index chief hire extend tiny";
+var mnemonic = "satoshi wire hawk width page course image just wink employ pistol zone";
