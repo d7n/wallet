@@ -1,1 +1,1 @@
-var mnemonic = "control prize sorry spice great finger group zoo fiscal bronze toe analyst";
+var mnemonic = "van group saddle exclude confirm ancient perfect deposit trim agree error topple";

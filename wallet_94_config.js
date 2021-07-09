@@ -1,1 +1,1 @@
-var mnemonic = "grant hero type police blame twenty green oppose trumpet shield bike wisdom";
+var mnemonic = "cheese diet primary mouse exotic patch depend impact tragic group insect radio";

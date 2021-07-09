@@ -1,1 +1,1 @@
-var mnemonic = "protect harvest patch replace bid speak govern dream imitate day awkward april";
+var mnemonic = "write drive boring opinion over issue number baby address pretty jaguar surface";

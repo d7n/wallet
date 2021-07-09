@@ -1,1 +1,1 @@
-var mnemonic = "bar guitar bless wet theme happy choice enact panda tape mean phrase";
+var mnemonic = "luxury beauty urban mass melt jar credit seed skull achieve drip behind";

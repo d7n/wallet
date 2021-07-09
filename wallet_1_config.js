@@ -1,1 +1,1 @@
-var mnemonic = "bulk tomorrow grocery shift sad silver december coin student miracle verify ketchup";
+var mnemonic = "throw thunder observe extend tide license burst typical dress review crucial fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "episode erosion alert fee boil flower thunder vague parade sweet that sleep";
+var mnemonic = "radar into ridge room chimney maximum inflict ketchup index update hold scene";

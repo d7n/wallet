@@ -1,1 +1,1 @@
-var mnemonic = "consider acquire rapid juice behind coconut lion brand install melt bracket novel";
+var mnemonic = "around arrest author heart fork grid blame flush capable type announce drink";

@@ -1,1 +1,1 @@
-var mnemonic = "middle fiction pepper seat notice hammer rose garlic enlist offer wait swap";
+var mnemonic = "suggest ribbon wage rhythm vault stem divert dial castle income tree cross";

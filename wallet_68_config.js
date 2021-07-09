@@ -1,1 +1,1 @@
-var mnemonic = "chunk damage critic angle news derive action like bless you document income";
+var mnemonic = "polar hole reflect few home judge gloom mind during tortoise tooth cactus";

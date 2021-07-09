@@ -1,1 +1,1 @@
-var mnemonic = "update senior atom breeze employ gentle renew cement apology tattoo notable eight";
+var mnemonic = "powder insane chaos action retreat gallery dentist menu hazard load movie vague";

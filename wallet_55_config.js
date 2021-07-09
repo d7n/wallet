@@ -1,1 +1,1 @@
-var mnemonic = "coin aware monster anxiety real awake treat citizen nurse pass head output";
+var mnemonic = "upper liberty half enact brown spray pond much art common put outer";

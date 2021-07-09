@@ -1,1 +1,1 @@
-var mnemonic = "critic thing awesome crouch history afford gasp tube apart tray cactus empty";
+var mnemonic = "large humble rare olive parrot seek board like refuse devote donkey upon";

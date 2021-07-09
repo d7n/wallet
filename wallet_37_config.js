@@ -1,1 +1,1 @@
-var mnemonic = "river pool power news foot retire woman cupboard foil current cabin excess";
+var mnemonic = "split try vacuum depart inquiry fitness game armed pride force solution rule";

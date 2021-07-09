@@ -1,1 +1,1 @@
-var mnemonic = "zone source travel field now witness apology stone use village poem easily";
+var mnemonic = "craft picnic endless sponsor glare breeze nuclear shuffle hockey nurse fence twice";

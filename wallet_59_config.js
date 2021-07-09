@@ -1,1 +1,1 @@
-var mnemonic = "lobster region tuition annual supreme advice annual reason mistake erosion run tattoo";
+var mnemonic = "divorce practice pet flight network matrix source stick face perfect require mind";

@@ -1,1 +1,1 @@
-var mnemonic = "today mail like glad rather diesel fantasy uniform humble milk hen put";
+var mnemonic = "enjoy squeeze among tenant plunge melody either mean lottery scan front update";

@@ -1,1 +1,1 @@
-var mnemonic = "win angle cotton moral mixture wrist crisp capable hard slab century transfer";
+var mnemonic = "brisk remember foam couch figure physical margin ski kick jar achieve south";

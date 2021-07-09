@@ -1,1 +1,1 @@
-var mnemonic = "civil zero enter globe swarm deputy enemy portion beyond grocery merit jar";
+var mnemonic = "globe license craft present margin stay seed provide walnut disorder riot unfold";

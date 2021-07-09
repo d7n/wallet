@@ -1,1 +1,1 @@
-var mnemonic = "leader chapter sad earn hamster endorse race scout change approve pony false";
+var mnemonic = "mutual crash already crane beyond stairs open dinosaur glory pill tomato slogan";

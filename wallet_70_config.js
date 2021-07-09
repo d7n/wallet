@@ -1,1 +1,1 @@
-var mnemonic = "damp music science indicate lawsuit clean uniform leopard hip regular push vacuum";
+var mnemonic = "trial tobacco plug drastic indoor alien lava unit opera trumpet usage cost";

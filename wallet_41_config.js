@@ -1,1 +1,1 @@
-var mnemonic = "before dignity cram skull midnight oyster slow canyon hello business armed crew";
+var mnemonic = "online latin punch dirt bless option wine admit kiwi neither library spoon";

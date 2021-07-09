@@ -1,1 +1,1 @@
-var mnemonic = "labor street ginger trip require spray bag arctic upon employ kitchen they";
+var mnemonic = "island hockey praise buddy hill utility slight spin subway arrest primary inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "home chase add great agent economy bless stumble city melt invest execute";
+var mnemonic = "mind energy vehicle cause square unfair amazing friend inside private lend bulb";

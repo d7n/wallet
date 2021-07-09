@@ -1,1 +1,1 @@
-var mnemonic = "pitch cement tattoo hood crane sniff lonely actor what glow above trial";
+var mnemonic = "pepper desk snow pig machine marble shadow honey wheat thank viable hen";

@@ -1,1 +1,1 @@
-var mnemonic = "around ripple believe improve cricket struggle arctic stick recall phrase execute modify";
+var mnemonic = "cup soft physical target dentist angle secret strike weasel fancy fall tragic";

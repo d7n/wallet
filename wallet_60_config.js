@@ -1,1 +1,1 @@
-var mnemonic = "runway warm coach foot fuel kingdom collect reduce advance lift canal electric";
+var mnemonic = "love exercise they universe online velvet much earn pizza water song picture";

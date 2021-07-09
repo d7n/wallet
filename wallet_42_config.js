@@ -1,1 +1,1 @@
-var mnemonic = "reopen unveil debate warm cook where rib eagle ridge grace tattoo purity";
+var mnemonic = "light bridge eyebrow govern lizard rather grant choose cause explain toy large";

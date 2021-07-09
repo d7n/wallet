@@ -1,1 +1,1 @@
-var mnemonic = "attend market snake magnet flock toward collect capital rain alien april clinic";
+var mnemonic = "awake hunt smooth neglect waste slow click mountain soul feed interest food";

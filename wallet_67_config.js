@@ -1,1 +1,1 @@
-var mnemonic = "pride act rack shift awkward night scheme seed path benefit inflict denial";
+var mnemonic = "climb start scene coffee tape fever poverty lake immune raccoon tone chaos";

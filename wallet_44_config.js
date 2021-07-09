@@ -1,1 +1,1 @@
-var mnemonic = "coral model fashion small lazy sick spare month amazing ask ride equip";
+var mnemonic = "inhale road what differ actual debate quit issue switch love trial airport";

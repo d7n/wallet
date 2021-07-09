@@ -1,1 +1,1 @@
-var mnemonic = "gown glad wrist smart impact soft gas total giggle doll unveil logic";
+var mnemonic = "obey tail friend whisper country cash void metal acquire budget protect pilot";

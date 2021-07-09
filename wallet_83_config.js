@@ -1,1 +1,1 @@
-var mnemonic = "ribbon version exit melt crazy help wage glass quick bulk cricket pledge";
+var mnemonic = "pair upon lava captain famous timber claw ceiling six belt mango bottom";

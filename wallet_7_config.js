@@ -1,1 +1,1 @@
-var mnemonic = "antenna bag rude float test shove wrist jungle story tragic siege pact";
+var mnemonic = "tortoise outside step person topic belt session roast kit chase slogan scale";

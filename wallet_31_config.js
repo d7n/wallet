@@ -1,1 +1,1 @@
-var mnemonic = "panic pair earn move multiply surface trade entire smooth detect piece way";
+var mnemonic = "hedgehog actress aspect envelope pyramid giggle antenna regret almost mutual barrel artist";

@@ -1,1 +1,1 @@
-var mnemonic = "drip market broom paper entire client similar inhale trust portion road coral";
+var mnemonic = "collect thing salad patrol clump bronze museum victory entry verb bulb travel";

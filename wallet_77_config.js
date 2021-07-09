@@ -1,1 +1,1 @@
-var mnemonic = "glide girl math razor girl decorate wolf tube repair curtain stumble blast";
+var mnemonic = "victory alien neck average various man remember shoe play bind tuition climb";

@@ -1,1 +1,1 @@
-var mnemonic = "follow whisper balcony credit record sunny acquire retire ripple figure purchase record";
+var mnemonic = "minimum fashion honey simple melt help invite video coyote anxiety outside awkward";

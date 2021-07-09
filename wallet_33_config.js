@@ -1,1 +1,1 @@
-var mnemonic = "curtain pistol office camp drip above stadium prepare father ten series oven";
+var mnemonic = "mind talk possible derive inform carpet matter glimpse catch bike maze banner";

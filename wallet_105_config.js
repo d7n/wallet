@@ -1,1 +1,1 @@
-var mnemonic = "cousin believe nation setup sting penalty scatter key oyster adapt warfare evoke";
+var mnemonic = "harsh always february talk object trouble smooth pole essay canyon swamp athlete";

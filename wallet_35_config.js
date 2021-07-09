@@ -1,1 +1,1 @@
-var mnemonic = "panda demise pole grunt dwarf say scare brown cram tip expect innocent";
+var mnemonic = "column pretty endless able cause push law luxury predict silent lyrics fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "riot call palm motion december more pig spatial deny throw ignore credit";
+var mnemonic = "naive little attack clinic yellow adjust access idle sense trade sting bench";

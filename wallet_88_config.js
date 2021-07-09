@@ -1,1 +1,1 @@
-var mnemonic = "nice lunar mechanic vivid naive nothing travel slice rapid replace father over";
+var mnemonic = "coral napkin rough portion ride upgrade area omit gaze judge patch neither";

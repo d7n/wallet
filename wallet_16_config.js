@@ -1,1 +1,1 @@
-var mnemonic = "truly box horse excuse inspire industry equal spend purpose tiger neglect swarm";
+var mnemonic = "shoot dose wet mouse soul skin add false they jazz outdoor travel";

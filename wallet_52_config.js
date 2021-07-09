@@ -1,1 +1,1 @@
-var mnemonic = "record slot veteran material casino ankle melody method little scare debate canvas";
+var mnemonic = "fringe risk wide oak visit shell casino great thank tortoise exercise hen";

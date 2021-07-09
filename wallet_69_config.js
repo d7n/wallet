@@ -1,1 +1,1 @@
-var mnemonic = "blouse use poverty you thank lion run clip glance fork room oak";
+var mnemonic = "march level lunch post depart vanish muscle baby crane limb history across";

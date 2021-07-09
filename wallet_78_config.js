@@ -1,1 +1,1 @@
-var mnemonic = "shell crop radar ride basket sphere top utility margin mail desk wrist";
+var mnemonic = "hold distance truly town foam jump fly syrup relief object table transfer";

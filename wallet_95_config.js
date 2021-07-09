@@ -1,1 +1,1 @@
-var mnemonic = "indicate require test vocal vote fuel once hat relief pumpkin twenty palace";
+var mnemonic = "recycle liquid travel husband report shy outer want voice critic farm mango";

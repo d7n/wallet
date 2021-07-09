@@ -1,1 +1,1 @@
-var mnemonic = "yellow aerobic scheme empower embody ability boy nature forest skate auto shield";
+var mnemonic = "cool flock city hollow wine swift crouch rose pitch bird exist east";

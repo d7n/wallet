@@ -1,1 +1,1 @@
-var mnemonic = "indoor episode rifle repair pride between hover taste verify wall mule group";
+var mnemonic = "laugh sight bargain art science pumpkin ritual captain general relief lottery business";

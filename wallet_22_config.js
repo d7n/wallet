@@ -1,1 +1,1 @@
-var mnemonic = "fringe fitness exist become metal bicycle confirm curious ignore text leaf lawn";
+var mnemonic = "nasty life unknown name file pair mansion process health source device cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "stay axis dog glance save belt help clock urge motor clerk cactus";
+var mnemonic = "among carry village fuel once tomato disease crush attack flip casino raw";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson security blush apple jewel frequent dog device crisp craft boost piece";
+var mnemonic = "orphan retire speak noise couch monster element series relief parrot step dose";

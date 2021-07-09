@@ -1,1 +1,1 @@
-var mnemonic = "what ugly impulse naive immense unlock twelve bubble era heart chat normal";
+var mnemonic = "leaf offer romance another abandon absurd chunk assist addict able silver timber";

@@ -1,1 +1,1 @@
-var mnemonic = "immense police bullet figure firm hood sheriff solid spawn morning taste mystery";
+var mnemonic = "conduct index royal crisp public soap initial menu draft comfort dignity wrestle";

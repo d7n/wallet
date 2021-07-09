@@ -1,1 +1,1 @@
-var mnemonic = "harsh tackle addict project trip economy old impose robust orphan vapor wine";
+var mnemonic = "trigger grit payment author clutch office era fatal also mass dentist pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "sick mind car agent current enlist joy penalty debris raise change reflect";
+var mnemonic = "obvious item find grocery minimum agree casino swamp shadow situate kingdom hand";

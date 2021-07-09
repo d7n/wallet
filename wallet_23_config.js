@@ -1,1 +1,1 @@
-var mnemonic = "snack way later seed traffic organ matter route situate park anger horn";
+var mnemonic = "casino betray spend trouble symptom regret square almost skate rose aerobic proud";

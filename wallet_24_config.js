@@ -1,1 +1,1 @@
-var mnemonic = "dune jungle solid dream pelican fever truly abstract swallow like rural ghost";
+var mnemonic = "assist accident fade confirm enact ordinary crucial burst glue swarm hunt cushion";

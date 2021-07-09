@@ -1,1 +1,1 @@
-var mnemonic = "agree discover liar cannon sport loop nuclear orphan divert medal crawl gap";
+var mnemonic = "sausage cement gasp derive oak remind roof detect then weasel rent swap";

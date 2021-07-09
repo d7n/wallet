@@ -1,1 +1,1 @@
-var mnemonic = "quit crumble assault label fatal era must repeat section escape monkey damage";
+var mnemonic = "typical boil industry donate buzz love cool have phrase install kitchen subject";

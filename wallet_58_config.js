@@ -1,1 +1,1 @@
-var mnemonic = "ranch disease supreme theme maid beyond market clap laugh casino coffee pioneer";
+var mnemonic = "swap input patch stomach bomb honey fiber guard rent minute draw crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor goddess dynamic strategy habit midnight camp witness feature account wool gesture";
+var mnemonic = "have cherry vicious planet lake another agree voice private sting dish net";

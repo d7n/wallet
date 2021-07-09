@@ -1,1 +1,1 @@
-var mnemonic = "moral drive vendor fantasy boy rib code depth moment bring true craft";
+var mnemonic = "pet imitate december sweet mixture student broom budget fossil dragon hill poet";

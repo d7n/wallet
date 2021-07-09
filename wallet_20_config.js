@@ -1,1 +1,1 @@
-var mnemonic = "float public cliff room true casino save future seek tomorrow room viable";
+var mnemonic = "core merit match move reason define slice company dynamic fee skill orange";

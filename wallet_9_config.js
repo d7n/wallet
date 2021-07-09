@@ -1,1 +1,1 @@
-var mnemonic = "area cycle you payment city funny family sock level inch come winner";
+var mnemonic = "famous review rent indoor appear scene huge boring slice acoustic quarter pencil";

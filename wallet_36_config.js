@@ -1,1 +1,1 @@
-var mnemonic = "swim brass circle shine solid favorite sign acquire sort park ritual airport";
+var mnemonic = "silly ugly idea biology slush other west cool cute focus focus barrel";

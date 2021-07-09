@@ -1,1 +1,1 @@
-var mnemonic = "system click slice elevator law valve tattoo pact sure apple behave shoulder";
+var mnemonic = "toe jacket sugar income march cool fiscal author wrong unhappy very knife";

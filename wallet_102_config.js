@@ -1,1 +1,1 @@
-var mnemonic = "either truck fringe twelve demand start inhale stool silk exact rough vicious";
+var mnemonic = "pause curve spin label genius hire language caught weird bone useless awesome";

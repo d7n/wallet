@@ -1,1 +1,1 @@
-var mnemonic = "core body nominee moon bachelor exact pattern alert health doctor tongue attend";
+var mnemonic = "final violin venture citizen grape soon mercy wheat carbon price coast isolate";

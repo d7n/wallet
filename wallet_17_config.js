@@ -1,1 +1,1 @@
-var mnemonic = "suggest eternal odor eager advice lock tragic staff swing say demand reject";
+var mnemonic = "hub fine bracket surround spider gadget absurd earth trash this coral cook";

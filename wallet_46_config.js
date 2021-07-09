@@ -1,1 +1,1 @@
-var mnemonic = "exchange focus fiber cruel depart recycle midnight alien century dinosaur have stamp";
+var mnemonic = "traffic tattoo nothing riot whale adult unusual ghost adapt dish crouch glance";

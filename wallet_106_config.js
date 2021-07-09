@@ -1,1 +1,1 @@
-var mnemonic = "evidence family list dose embark tattoo salute lounge cup fit million reject";
+var mnemonic = "burst swarm weird laugh vivid bottom disagree manage inherit hollow teach secret";

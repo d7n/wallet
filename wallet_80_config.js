@@ -1,1 +1,1 @@
-var mnemonic = "crowd invest pitch maximum kick disease skin tortoise invest middle skull reform";
+var mnemonic = "swarm april plastic pudding indoor sketch execute crunch random tumble roof arctic";

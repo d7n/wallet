@@ -1,1 +1,1 @@
-var mnemonic = "virtual bus embrace surge drastic hawk thumb picnic penalty genuine daring pyramid";
+var mnemonic = "poet try minimum enrich click common desk acid chimney brief work physical";

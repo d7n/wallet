@@ -1,1 +1,1 @@
-var mnemonic = "sure jungle twelve recall industry heavy catalog denial fine destroy recycle kangaroo";
+var mnemonic = "holiday learn venue region unfair foster life range sing dish swear cricket";

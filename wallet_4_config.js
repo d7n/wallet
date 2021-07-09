@@ -1,1 +1,1 @@
-var mnemonic = "reflect annual bus despair caught sound scale bullet south decline ribbon destroy";
+var mnemonic = "artwork general gaze ladder tone muffin blanket gun print remember rice tone";

@@ -1,1 +1,1 @@
-var mnemonic = "shell ridge motor wet wall orient category present neither jealous lunar text";
+var mnemonic = "leg flee stomach fossil angry mountain armor obey empower mimic cluster observe";

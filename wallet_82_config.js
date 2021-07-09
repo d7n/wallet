@@ -1,1 +1,1 @@
-var mnemonic = "spring keep discover twist strong satisfy select wood rain spice grow degree";
+var mnemonic = "laundry laugh peace daughter interest trouble civil coast then whisper this casual";

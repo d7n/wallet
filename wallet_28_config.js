@@ -1,1 +1,1 @@
-var mnemonic = "task neither trap act tomato usage mango body gallery sail nest unveil";
+var mnemonic = "sun apart ancient forum wing throw margin okay negative east bean dish";

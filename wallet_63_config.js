@@ -1,1 +1,1 @@
-var mnemonic = "anchor vote home happy error injury warrior merry jewel tenant abandon apple";
+var mnemonic = "news clap crucial biology tray need pond brief minor inflict robot vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "there please town junk melody one profit around whip oxygen among accident";
+var mnemonic = "frame injury nerve daring deal chief oxygen illegal sunny monster daughter vehicle";

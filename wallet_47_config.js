@@ -1,1 +1,1 @@
-var mnemonic = "emotion satisfy fat burden inherit garden control shy average antenna sponsor dinner";
+var mnemonic = "march neutral cake someone click gossip inform success isolate poem era diary";

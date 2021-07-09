@@ -1,1 +1,1 @@
-var mnemonic = "alert believe rabbit cabin custom verb arrive steak fruit notable figure focus";
+var mnemonic = "park answer agent legal payment tongue differ latin flip session memory frozen";

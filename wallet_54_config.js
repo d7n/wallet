@@ -1,1 +1,1 @@
-var mnemonic = "route blur person boat bean major clarify sustain maze tray better trial";
+var mnemonic = "soda mass olympic ignore motion manual fly space fiscal lazy pepper dwarf";

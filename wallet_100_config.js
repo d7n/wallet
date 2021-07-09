@@ -1,1 +1,1 @@
-var mnemonic = "pear extend sick tortoise toss polar maximum garment moral submit credit hungry";
+var mnemonic = "position weapon perfect mask drama kangaroo artist home error pet mad buzz";
