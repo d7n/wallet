@@ -1,1 +1,1 @@
-var mnemonic = "acid mask solar mean knock race gossip erupt repeat bring judge funny";
+var mnemonic = "night phrase army lens slot venue isolate flat emerge tackle syrup allow";

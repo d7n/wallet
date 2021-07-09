@@ -1,1 +1,1 @@
-var mnemonic = "recycle utility immune tone slogan midnight badge settle slim park hunt bargain";
+var mnemonic = "armed express detect reward wing lazy blame later fuel taste smart parade";

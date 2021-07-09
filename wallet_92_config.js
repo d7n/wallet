@@ -1,1 +1,1 @@
-var mnemonic = "harbor erupt approve use pizza gown language buddy sunset knee cousin ceiling";
+var mnemonic = "meat issue asset conduct mango hospital cushion pelican security slab tunnel crawl";

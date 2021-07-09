@@ -1,1 +1,1 @@
-var mnemonic = "final exchange sword act main kitchen defy horn hockey nominee unique civil";
+var mnemonic = "goddess stuff nephew laundry rich note prison gift vendor soccer chunk opinion";

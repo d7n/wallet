@@ -1,1 +1,1 @@
-var mnemonic = "jar urge cart daring violin avoid foot fluid nice object practice search";
+var mnemonic = "canal walnut clown cargo large age warrior mad unveil car winner yard";

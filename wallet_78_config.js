@@ -1,1 +1,1 @@
-var mnemonic = "laugh also pretty picnic solid place dress typical shoot doll keen voyage";
+var mnemonic = "discover venue goose zero symptom square hamster arm various vacuum choice seek";

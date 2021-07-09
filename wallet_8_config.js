@@ -1,1 +1,1 @@
-var mnemonic = "upset relax above enact tobacco viable dizzy deposit wild dice result piano";
+var mnemonic = "digital cram cash wall sponsor uncle green mass liar pause weapon slight";

@@ -1,1 +1,1 @@
-var mnemonic = "glare hurdle test exact chaos shine run pig purity asthma dutch lucky";
+var mnemonic = "someone lemon egg together fault hotel basket usage episode know usage antique";

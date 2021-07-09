@@ -1,1 +1,1 @@
-var mnemonic = "hour add pill glory notice world awkward virtual dish virus future often";
+var mnemonic = "movie super increase hybrid ensure target legend source donate draw initial vacuum";

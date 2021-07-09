@@ -1,1 +1,1 @@
-var mnemonic = "rival solve prize report boring sauce dune person never muffin habit fabric";
+var mnemonic = "holiday step nose mobile limit thumb oval venue pool plastic decide final";

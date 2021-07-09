@@ -1,1 +1,1 @@
-var mnemonic = "fix reform duck mechanic ice know grow claw prefer tongue loop emerge";
+var mnemonic = "whale exile library swear round blanket odor bullet text door plunge penalty";

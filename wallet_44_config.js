@@ -1,1 +1,1 @@
-var mnemonic = "elbow weasel arctic supreme crush rival mobile panic patch fog wine detail";
+var mnemonic = "cute crush stage tower notable hole knife practice decline patient stuff hollow";

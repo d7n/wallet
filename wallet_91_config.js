@@ -1,1 +1,1 @@
-var mnemonic = "market glad hungry exclude tail gate alone hat argue ripple zebra step";
+var mnemonic = "glide boring tortoise lady explain wrist universe gesture enough invite relief main";

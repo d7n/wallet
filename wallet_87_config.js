@@ -1,1 +1,1 @@
-var mnemonic = "vast ten axis congress draw laugh sunset peace lumber hood tourist anger";
+var mnemonic = "special tide onion outer elder stable balance stable chef swallow rib bacon";

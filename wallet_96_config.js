@@ -1,1 +1,1 @@
-var mnemonic = "stay thing spice trouble sugar know stone trust timber current tired one";
+var mnemonic = "trash panda piece priority flip weapon worth decorate shadow eye end argue";

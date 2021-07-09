@@ -1,1 +1,1 @@
-var mnemonic = "error floor rotate address ability grunt cabin rally deer youth sunny awesome";
+var mnemonic = "differ behind student buzz grape click hire shove heavy inch capital profit";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist garage gossip october shield shield same weapon desert umbrella strong bachelor";
+var mnemonic = "blind decide habit arctic unfold island brain syrup uphold tonight catalog hint";

@@ -1,1 +1,1 @@
-var mnemonic = "scene agent cable risk clarify series fever supply air cover inject cradle";
+var mnemonic = "leave penalty rhythm bitter prize craft place absurd chat witness city neutral";

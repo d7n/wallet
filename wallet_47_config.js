@@ -1,1 +1,1 @@
-var mnemonic = "portion amused gate tuition sponsor worth vendor actual segment scare crucial cruise";
+var mnemonic = "eternal faith decide arrange fault seminar wine review barely fashion used morning";

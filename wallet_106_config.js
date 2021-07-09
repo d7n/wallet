@@ -1,1 +1,1 @@
-var mnemonic = "pig evil inspire heavy hockey gather midnight desk solve inherit wheel trust";
+var mnemonic = "error taste december dad fashion six attitude enemy usual benefit nut iron";

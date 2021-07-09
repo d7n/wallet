@@ -1,1 +1,1 @@
-var mnemonic = "pulp thought benefit trophy armor recycle ask bread adjust grief whip annual";
+var mnemonic = "left virus citizen calm voyage envelope target castle wasp barely story eye";

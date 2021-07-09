@@ -1,1 +1,1 @@
-var mnemonic = "include luxury dinner corn evoke mail favorite fly spend pear reason garden";
+var mnemonic = "harvest hire code ice message jar mouse behind refuse time entire pave";

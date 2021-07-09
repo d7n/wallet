@@ -1,1 +1,1 @@
-var mnemonic = "move shell resemble tornado grow meadow amount movie creek funny taxi crack";
+var mnemonic = "afraid jump abstract collect double clog normal wear fee gesture there that";

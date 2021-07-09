@@ -1,1 +1,1 @@
-var mnemonic = "finish upset mistake drill bright supply receive enforce sunset victory seminar grape";
+var mnemonic = "person give usual flag match window search acid design picnic reward wire";

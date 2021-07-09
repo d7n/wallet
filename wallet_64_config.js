@@ -1,1 +1,1 @@
-var mnemonic = "apology scout pizza little service heavy bottom panic ghost orphan hammer wrap";
+var mnemonic = "card inhale photo define excuse simple lonely charge list fit slab swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "skill acquire matrix okay steak nuclear prepare cruel portion reopen fantasy chunk";
+var mnemonic = "danger raccoon art jelly evoke tissue reject excess slogan tube judge ski";

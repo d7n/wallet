@@ -1,1 +1,1 @@
-var mnemonic = "coil scheme rough actor market melody refuse galaxy legend giant exotic famous";
+var mnemonic = "august front swamp pig come crowd satisfy broccoli angry south wage buddy";

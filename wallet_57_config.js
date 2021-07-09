@@ -1,1 +1,1 @@
-var mnemonic = "horse amateur few proud feature snake dynamic right tool slight dad sunny";
+var mnemonic = "congress outer school destroy random local disorder galaxy scene punch deny fire";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan sure remain market mimic safe slight inject skill rebuild output gauge";
+var mnemonic = "easily devote like neutral connect speed cart hope wrong pencil jaguar fatigue";

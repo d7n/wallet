@@ -1,1 +1,1 @@
-var mnemonic = "rubber fun warm lemon anger follow salon faculty whip dice enlist kind";
+var mnemonic = "topic palm renew garlic draft fossil property tobacco enable cube charge pitch";

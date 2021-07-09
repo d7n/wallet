@@ -1,1 +1,1 @@
-var mnemonic = "bicycle burden two better town found harvest post blame hammer deliver smoke";
+var mnemonic = "explain spy treat tooth river crime allow crater mango burger almost silly";

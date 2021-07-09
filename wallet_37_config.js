@@ -1,1 +1,1 @@
-var mnemonic = "strong venture creek brush any stand hover rare math fiscal pull discover";
+var mnemonic = "decline retreat smooth video vintage tube later pioneer announce gain convince network";

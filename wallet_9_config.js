@@ -1,1 +1,1 @@
-var mnemonic = "maid oppose tuna blame olympic fiber pilot flame car tumble special never";
+var mnemonic = "floor feed agent excite torch kitten edit valid reason utility cage release";

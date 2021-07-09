@@ -1,1 +1,1 @@
-var mnemonic = "blood drift note maid fine warm helmet cross balcony sample circle voice";
+var mnemonic = "bright tragic cry galaxy accuse document deer flight artist coin jazz april";

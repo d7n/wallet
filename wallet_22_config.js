@@ -1,1 +1,1 @@
-var mnemonic = "cheese typical syrup toast begin pioneer prosper orphan forward exercise chaos useful";
+var mnemonic = "blame proud pistol father ahead dress staff price salad genius celery tower";

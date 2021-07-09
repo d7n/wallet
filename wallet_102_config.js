@@ -1,1 +1,1 @@
-var mnemonic = "police scorpion cradle soon supreme glide dignity like captain stove hybrid accident";
+var mnemonic = "discover vocal child apart blast chair fitness type spray disorder runway eternal";

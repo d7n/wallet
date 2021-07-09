@@ -1,1 +1,1 @@
-var mnemonic = "damage flat general bind crater tumble foster lazy reduce improve surround someone";
+var mnemonic = "adjust crucial come lyrics wall runway fabric divert bench slice promote smart";

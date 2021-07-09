@@ -1,1 +1,1 @@
-var mnemonic = "setup pencil leader provide ring wash broccoli hill review ride alpha empty";
+var mnemonic = "learn wheel globe panther evoke tuna still chair sadness lawsuit reform until";

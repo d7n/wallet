@@ -1,1 +1,1 @@
-var mnemonic = "worth right melody squeeze also giant same nephew pet wave nose sight";
+var mnemonic = "snap combine caught purpose transfer spawn ten large again verb boost ceiling";

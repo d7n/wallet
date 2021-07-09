@@ -1,1 +1,1 @@
-var mnemonic = "vintage cave walk pigeon ankle doll label thunder pudding school brisk crystal";
+var mnemonic = "crisp ride youth exhibit hair sail cheap hungry forum camp surround beach";

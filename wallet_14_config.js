@@ -1,1 +1,1 @@
-var mnemonic = "van vacant burden surface thrive gadget slim illness axis trumpet yellow ten";
+var mnemonic = "swear three soul typical name student fix lizard series dune solve gap";

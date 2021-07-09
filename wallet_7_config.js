@@ -1,1 +1,1 @@
-var mnemonic = "child good cigar exotic winter foot pelican imitate unlock pony joy latin";
+var mnemonic = "move borrow play leaf strategy resemble never wait web glory delay flash";

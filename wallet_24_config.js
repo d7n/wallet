@@ -1,1 +1,1 @@
-var mnemonic = "super denial iron boost swap increase rally kit remove modify case major";
+var mnemonic = "noodle track poem stadium text depart senior tobacco exact trip tiny shrug";

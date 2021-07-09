@@ -1,1 +1,1 @@
-var mnemonic = "among index ivory door chalk tongue coil swift display mention denial leaf";
+var mnemonic = "brass flower auction receive leg girl memory jungle rain step glue patch";

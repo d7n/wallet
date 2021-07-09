@@ -1,1 +1,1 @@
-var mnemonic = "shock wise spirit gadget cook element unfold master day glad lyrics image";
+var mnemonic = "copper few devote main ensure gym pond favorite butter media make ill";

@@ -1,1 +1,1 @@
-var mnemonic = "learn scrub ranch mind add squirrel until update staff mother bulk human";
+var mnemonic = "fatal wreck index empower ghost carpet auction upgrade author cause scan sing";

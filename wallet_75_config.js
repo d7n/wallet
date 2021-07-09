@@ -1,1 +1,1 @@
-var mnemonic = "cool stuff bullet fit voice apart happy actress ketchup era diary squirrel";
+var mnemonic = "chapter love mercy cloth obscure change blind bus build diet exit sibling";

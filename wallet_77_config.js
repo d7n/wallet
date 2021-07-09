@@ -1,1 +1,1 @@
-var mnemonic = "cruise circle retire unknown gas shuffle fly spider void task process suggest";
+var mnemonic = "grocery doctor duty grief evil disease bag ride weather sad pottery rapid";

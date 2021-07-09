@@ -1,1 +1,1 @@
-var mnemonic = "lend green glove able fabric lemon excess lyrics fee gossip axis enter";
+var mnemonic = "tell craft security more uncover main general alert craft fade horse lemon";

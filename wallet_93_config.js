@@ -1,1 +1,1 @@
-var mnemonic = "museum multiply observe burden provide drastic blanket smoke tongue satisfy pyramid mosquito";
+var mnemonic = "practice latin heavy era army caught ostrich elder edge enact glide cat";

@@ -1,1 +1,1 @@
-var mnemonic = "trade mouse weather gift aim lake faith one report tired napkin giraffe";
+var mnemonic = "receive month burden abuse faint vehicle garbage merry cry reform install pride";

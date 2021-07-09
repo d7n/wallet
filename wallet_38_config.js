@@ -1,1 +1,1 @@
-var mnemonic = "engage tag loyal kiss palace desert ocean choose struggle suit crucial olympic";
+var mnemonic = "patient tomorrow family evolve public eyebrow super stem zone art narrow minimum";

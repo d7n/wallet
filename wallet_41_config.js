@@ -1,1 +1,1 @@
-var mnemonic = "deny flash chief trumpet type remain much material require bicycle throw test";
+var mnemonic = "wire topple parrot sign small lab bundle silent chuckle fashion winter myth";

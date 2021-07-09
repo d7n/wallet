@@ -1,1 +1,1 @@
-var mnemonic = "improve render zero craft below solution dismiss typical action funny search beach";
+var mnemonic = "blouse force trash satisfy syrup napkin dog vivid clump because denial oak";

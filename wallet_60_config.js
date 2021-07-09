@@ -1,1 +1,1 @@
-var mnemonic = "net amused bulb visa shift tool burst basket ask supply video control";
+var mnemonic = "bottom scrap sail credit lawsuit cry expect cave inch humble album helmet";

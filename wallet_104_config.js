@@ -1,1 +1,1 @@
-var mnemonic = "seek oven antenna dream work among link sentence mom car orchard raven";
+var mnemonic = "parent miracle wait audit embrace rhythm retire sail device seven trust blast";

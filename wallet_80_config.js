@@ -1,1 +1,1 @@
-var mnemonic = "success silly spin aware layer expand order stadium remind green swing skate";
+var mnemonic = "cereal salt foster boil possible birth believe vapor rich write cherry library";

@@ -1,1 +1,1 @@
-var mnemonic = "crack virus piano save image invite forget faculty broken pledge direct avoid";
+var mnemonic = "sword inner range simple know quarter palace year service lumber reveal disease";

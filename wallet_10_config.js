@@ -1,1 +1,1 @@
-var mnemonic = "piece weird planet clever total drill human undo confirm maze pet nuclear";
+var mnemonic = "awake onion update pattern pride soon expand donate whale kite trouble wing";

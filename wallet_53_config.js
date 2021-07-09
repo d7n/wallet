@@ -1,1 +1,1 @@
-var mnemonic = "vast brother mule loan wide dumb steel smooth inform ghost idle million";
+var mnemonic = "address injury grow brown shine goose purpose lobster jealous pill rack hundred";

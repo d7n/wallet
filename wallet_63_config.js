@@ -1,1 +1,1 @@
-var mnemonic = "champion stay loop board manual metal puzzle path brand myth agree ski";
+var mnemonic = "another kidney panther skirt pull lab auction boring grid parent moral pond";

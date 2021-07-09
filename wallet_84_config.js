@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow quantum install galaxy enhance tuition arrange general manage lucky coyote urban";
+var mnemonic = "double battle valve gift arrive old expose version world north swallow abuse";

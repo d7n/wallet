@@ -1,1 +1,1 @@
-var mnemonic = "derive digital drink enrich know vibrant shoot chunk seek hen flush skull";
+var mnemonic = "custom exhaust mansion paddle race satoshi find figure pave shiver gadget fame";

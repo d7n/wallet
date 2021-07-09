@@ -1,1 +1,1 @@
-var mnemonic = "spin symptom okay prefer orange movie genius tower merit snap nut gift";
+var mnemonic = "month garage change image amazing hungry pride primary dirt purse ready three";

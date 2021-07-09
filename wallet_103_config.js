@@ -1,1 +1,1 @@
-var mnemonic = "injury faculty bag execute catch grit renew clean drip address gaze undo";
+var mnemonic = "resource tribe category vanish brave scan certain occur trash distance hollow track";

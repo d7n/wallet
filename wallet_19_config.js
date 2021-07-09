@@ -1,1 +1,1 @@
-var mnemonic = "piece unknown poem shed glass escape moon genre squirrel slight soccer peasant";
+var mnemonic = "nose already basket lonely gasp live road legend belt garden ostrich congress";

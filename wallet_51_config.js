@@ -1,1 +1,1 @@
-var mnemonic = "daughter mushroom potato thumb diamond blade lizard viable pepper glimpse squirrel exchange";
+var mnemonic = "already only private icon urge average decrease dream alpha volume stereo oppose";

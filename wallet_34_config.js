@@ -1,1 +1,1 @@
-var mnemonic = "property style accident catch purity profit frozen zone spring depart timber tackle";
+var mnemonic = "begin exist fancy tourist wasp bus volume occur chalk kid fall word";

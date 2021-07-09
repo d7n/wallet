@@ -1,1 +1,1 @@
-var mnemonic = "alcohol kid artwork blossom forum real ask talk tower trial lumber blade";
+var mnemonic = "across comfort twin riot acid fiscal cupboard debris panel dress mind human";

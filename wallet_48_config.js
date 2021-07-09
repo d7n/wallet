@@ -1,1 +1,1 @@
-var mnemonic = "brass uncover design spoon hamster snack duck category extra belt tattoo success";
+var mnemonic = "dilemma oblige judge occur modify anchor pelican truck desert double drama swallow";

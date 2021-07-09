@@ -1,1 +1,1 @@
-var mnemonic = "misery digital machine depart dentist thunder merge session punch rapid pause addict";
+var mnemonic = "private sustain banana book blush camp gentle lazy hero govern absurd robot";

@@ -1,1 +1,1 @@
-var mnemonic = "corn guitar scene among picture spread future average digital resemble boost abandon";
+var mnemonic = "bleak flip post fence spell begin cave govern pilot soon cruel ribbon";

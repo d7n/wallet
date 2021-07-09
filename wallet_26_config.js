@@ -1,1 +1,1 @@
-var mnemonic = "finger seat squirrel grant gossip fence poet banana kingdom extend employ domain";
+var mnemonic = "already report proof number boat broom celery fog fringe video crater size";

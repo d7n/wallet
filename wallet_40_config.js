@@ -1,1 +1,1 @@
-var mnemonic = "alert snack long harbor patch crouch grunt satisfy include clutch nasty when";
+var mnemonic = "shove title night mercy lawsuit leaf fame edit idle behave monitor camera";

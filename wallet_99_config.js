@@ -1,1 +1,1 @@
-var mnemonic = "picnic taste special athlete half lawsuit grid cash install typical now vault";
+var mnemonic = "learn duck afraid pretty live wonder ship pride over clinic script corn";

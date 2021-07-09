@@ -1,1 +1,1 @@
-var mnemonic = "letter agree crime audit smoke clutch hat subway nice head glue reopen";
+var mnemonic = "endless usual that vintage arrow mango prosper bone vendor organ utility gossip";

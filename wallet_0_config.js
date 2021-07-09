@@ -1,1 +1,1 @@
-var mnemonic = "drip surface long multiply unfair mention scissors nature swear unusual mutual drip";
+var mnemonic = "meat spatial despair play eagle keen deputy miracle mixed dad broccoli tiny";

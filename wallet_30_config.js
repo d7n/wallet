@@ -1,1 +1,1 @@
-var mnemonic = "toward nephew tell sunny upset panda scheme false fossil bubble door fork";
+var mnemonic = "neglect pupil onion net whisper public can midnight ecology weather among shrug";

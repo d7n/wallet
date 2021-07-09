@@ -1,1 +1,1 @@
-var mnemonic = "gown input alarm head elbow door senior confirm tunnel comfort tennis faint";
+var mnemonic = "party shine during exercise reopen beauty tower atom strategy rebuild rhythm capable";

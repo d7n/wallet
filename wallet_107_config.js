@@ -1,1 +1,1 @@
-var mnemonic = "dash valid speak use essence canal provide margin course blouse beyond unable";
+var mnemonic = "finger syrup industry outside ritual gravity actual agree vendor energy blossom borrow";

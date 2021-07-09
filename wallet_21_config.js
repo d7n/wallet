@@ -1,1 +1,1 @@
-var mnemonic = "tiger stomach awesome faculty napkin task tide source square casual clock puzzle";
+var mnemonic = "dress labor fog change provide resource entry moon lottery release follow oxygen";

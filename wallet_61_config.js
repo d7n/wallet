@@ -1,1 +1,1 @@
-var mnemonic = "erupt eyebrow art young tongue clip aware merit rough van bicycle swarm";
+var mnemonic = "oval black stable supreme autumn strike street original stadium regular rare infant";
