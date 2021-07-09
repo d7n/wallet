@@ -1,1 +1,1 @@
-var mnemonic = "enforce pistol twice ramp lesson wing orbit pilot bean stay illness quote";
+var mnemonic = "mushroom hen symbol unique inquiry term century idea borrow truly gather embody";

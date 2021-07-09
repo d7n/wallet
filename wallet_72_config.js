@@ -1,1 +1,1 @@
-var mnemonic = "logic crazy icon village fall rural trumpet evil snap bachelor witness nest";
+var mnemonic = "walk replace today angry cereal appear swallow atom girl carry victory actor";

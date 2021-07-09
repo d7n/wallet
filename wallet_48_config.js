@@ -1,1 +1,1 @@
-var mnemonic = "funny rather toilet slush number illness feel next milk gospel canyon february";
+var mnemonic = "pear across pigeon around hedgehog arrange farm cement damp foster room search";

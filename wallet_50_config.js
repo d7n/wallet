@@ -1,1 +1,1 @@
-var mnemonic = "basket opinion auto inquiry curtain awful biology pyramid iron change salon project";
+var mnemonic = "sentence raccoon month duck waste rule organ jeans two never easy nature";

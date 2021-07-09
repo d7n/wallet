@@ -1,1 +1,1 @@
-var mnemonic = "alter vote viable current drip find kind impulse top dragon garment such";
+var mnemonic = "marine stay salad era recycle frame ignore dish stock provide typical run";

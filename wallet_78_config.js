@@ -1,1 +1,1 @@
-var mnemonic = "quick million tank hockey answer average desk govern loan miracle material usual";
+var mnemonic = "secret afford eight answer invite around super estate advance all awful sock";

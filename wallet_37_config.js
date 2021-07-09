@@ -1,1 +1,1 @@
-var mnemonic = "clog dutch strike use grass borrow dragon estate project ribbon palace monkey";
+var mnemonic = "slam umbrella tragic urban vendor harbor flag giant zero job repeat identify";

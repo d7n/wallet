@@ -1,1 +1,1 @@
-var mnemonic = "vanish top bleak amateur utility nuclear exhibit city own sausage merry badge";
+var mnemonic = "galaxy purpose unable road clarify captain tooth medal margin federal frame aisle";

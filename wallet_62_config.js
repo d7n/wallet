@@ -1,1 +1,1 @@
-var mnemonic = "club feel cheap liar spy magnet virus private erosion rotate whisper ancient";
+var mnemonic = "perfect bonus tornado behave elephant improve receive coast asthma gallery famous gadget";

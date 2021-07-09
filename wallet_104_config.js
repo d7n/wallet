@@ -1,1 +1,1 @@
-var mnemonic = "volcano tenant fit upset pipe wise rubber engine orbit enough you foot";
+var mnemonic = "team length apple sure produce talent hollow edge dust cart jelly replace";

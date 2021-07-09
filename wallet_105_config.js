@@ -1,1 +1,1 @@
-var mnemonic = "street famous remove material duty upgrade material gift gun increase draw awesome";
+var mnemonic = "dune nephew tail middle weapon attend advance verify foil live useless this";

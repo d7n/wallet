@@ -1,1 +1,1 @@
-var mnemonic = "direct mobile leisure rabbit strategy poet office silver parrot help strategy want";
+var mnemonic = "fringe frown bachelor snap situate furnace portion critic matrix public what ceiling";

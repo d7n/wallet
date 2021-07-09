@@ -1,1 +1,1 @@
-var mnemonic = "card panic fresh moon twenty cluster fragile swamp mule junior liquid rough";
+var mnemonic = "increase comic bomb pond tape brain senior tragic rebel crisp congress fruit";

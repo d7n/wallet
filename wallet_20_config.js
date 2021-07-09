@@ -1,1 +1,1 @@
-var mnemonic = "behind vocal strike alarm leg project film embark enforce task try hat";
+var mnemonic = "grocery sock legend trigger amused deliver eye flight require mail accuse chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "sea depend ticket lawn funny salute quiz much sample prefer garage mass";
+var mnemonic = "tomorrow arena video repair that pyramid mail magnet cook scout method laugh";

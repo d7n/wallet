@@ -1,1 +1,1 @@
-var mnemonic = "nation door yellow tuition wise disagree salon crumble zoo rather giraffe adapt";
+var mnemonic = "snack ocean debris isolate power gauge gun super direct border steak wrong";

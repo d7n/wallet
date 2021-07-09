@@ -1,1 +1,1 @@
-var mnemonic = "enact chaos tenant opera banner venue diamond steak afraid action rail amused";
+var mnemonic = "segment wear cash catalog key sport mammal delay hidden own hedgehog vintage";

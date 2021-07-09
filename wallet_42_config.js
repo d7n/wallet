@@ -1,1 +1,1 @@
-var mnemonic = "duck tobacco injury moon verb wash soccer churn pen convince viable inquiry";
+var mnemonic = "potato device smoke economy moral fix engage nerve where photo prize practice";

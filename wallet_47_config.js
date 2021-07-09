@@ -1,1 +1,1 @@
-var mnemonic = "hundred lava short prepare gown connect market tell fame nuclear because valve";
+var mnemonic = "pig penalty design mix access original improve sword frozen insane outdoor coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "report basic ostrich pole join north buddy merge panda prepare tiger sand";
+var mnemonic = "tragic observe top diet suggest work daring extend first banana company skill";

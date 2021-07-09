@@ -1,1 +1,1 @@
-var mnemonic = "defense antenna wink frequent owner focus able law penalty toward chalk salon";
+var mnemonic = "jacket game flower erode ivory proof sure knock core discover cruel comic";

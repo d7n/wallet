@@ -1,1 +1,1 @@
-var mnemonic = "company differ couch ivory then daughter satisfy gauge toss direct weasel choose";
+var mnemonic = "winter where estate alter bicycle envelope then tuition tongue lemon sure friend";

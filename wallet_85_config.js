@@ -1,1 +1,1 @@
-var mnemonic = "language invest beach battle buddy token order shrimp physical guard cradle combine";
+var mnemonic = "staff write act scene expect embody sight rather together mother cram record";

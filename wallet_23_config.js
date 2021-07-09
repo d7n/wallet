@@ -1,1 +1,1 @@
-var mnemonic = "capable indicate force ski rude plunge canyon disagree push advance immune access";
+var mnemonic = "stable open shed toy case burger inmate occur uniform recipe salt laundry";

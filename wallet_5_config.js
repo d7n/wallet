@@ -1,1 +1,1 @@
-var mnemonic = "physical version antenna weasel grit neck always clap shop suspect unfair spoon";
+var mnemonic = "van social detail morning spirit source chimney dress pudding found grape bench";

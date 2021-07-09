@@ -1,1 +1,1 @@
-var mnemonic = "derive diet company moral detect impulse emotion vessel pen dismiss squeeze rude";
+var mnemonic = "whip science clip canal spider deer gentle subject expire off squirrel shed";

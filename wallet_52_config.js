@@ -1,1 +1,1 @@
-var mnemonic = "bean faculty over mean enough remember gaze crush neck palace above they";
+var mnemonic = "bundle mushroom grant pitch track three orbit grant base wage ability fish";

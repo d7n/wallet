@@ -1,1 +1,1 @@
-var mnemonic = "frost asthma chest forum air clay deputy april sing dash fat office";
+var mnemonic = "dog intact chalk veteran decide wall donor strategy fragile cupboard beauty soft";

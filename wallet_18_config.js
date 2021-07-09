@@ -1,1 +1,1 @@
-var mnemonic = "march youth legend pudding salute add slim survey auction segment hat tumble";
+var mnemonic = "icon arm assist antique noise nice amused alcohol hurdle oval clerk lumber";

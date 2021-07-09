@@ -1,1 +1,1 @@
-var mnemonic = "reform involve trip depth squeeze master unit joke journey prevent federal certain";
+var mnemonic = "book try remove behave employ phone over reopen drama tornado crazy glory";

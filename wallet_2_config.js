@@ -1,1 +1,1 @@
-var mnemonic = "embody shop liquid drill robust risk soldier name cave crush gesture seed";
+var mnemonic = "belt denial apart oblige ranch lawn ship antenna immense home morning excess";

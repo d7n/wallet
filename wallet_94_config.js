@@ -1,1 +1,1 @@
-var mnemonic = "wage cinnamon brush dash deer sad paddle rail heavy wisdom praise raw";
+var mnemonic = "roof coin typical action success wave spread cluster view scheme enjoy record";

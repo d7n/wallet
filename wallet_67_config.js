@@ -1,1 +1,1 @@
-var mnemonic = "soccer valley crack symbol today clerk toss carry robot ethics suggest evoke";
+var mnemonic = "clerk primary attitude gallery enroll stone buyer crowd ordinary illness laptop emotion";

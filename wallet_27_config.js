@@ -1,1 +1,1 @@
-var mnemonic = "purse donate hello giant juice enjoy aspect spot advance shy uphold elevator";
+var mnemonic = "trim bulk million keep display stay average wire dutch access alter rhythm";

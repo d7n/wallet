@@ -1,1 +1,1 @@
-var mnemonic = "doll exclude acquire open arena race bacon arrow during cruel remind athlete";
+var mnemonic = "delay object human whisper spread gun indicate holiday brown senior anxiety world";

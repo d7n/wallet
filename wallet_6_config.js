@@ -1,1 +1,1 @@
-var mnemonic = "lesson tongue original inmate flash deal valid broccoli cluster federal excite whale";
+var mnemonic = "second blood great bone tiger supreme habit door assist once book electric";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid cinnamon grant very myth prepare comic act diet drink cable describe";
+var mnemonic = "clip satisfy slow tag noble setup skate produce wisdom hawk culture abstract";

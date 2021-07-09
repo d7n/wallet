@@ -1,1 +1,1 @@
-var mnemonic = "false truck glare idle whisper walnut episode never stove sunny bind maple";
+var mnemonic = "this gaze increase during silver region mask motion drill prosper agree dawn";

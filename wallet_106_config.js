@@ -1,1 +1,1 @@
-var mnemonic = "police huge hat laugh online room asset picture ozone pipe final large";
+var mnemonic = "join melody noodle bone place announce digital private sleep repeat enrich decide";

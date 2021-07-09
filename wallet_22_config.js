@@ -1,1 +1,1 @@
-var mnemonic = "alley predict rival any peanut caution absurd system kingdom turn curtain discover";
+var mnemonic = "hole electric elder deny mind craft relax click bonus warfare puzzle cluster";

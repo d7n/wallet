@@ -1,1 +1,1 @@
-var mnemonic = "switch dash shaft family powder hire hedgehog snake burger guard help radio";
+var mnemonic = "share nasty update odor naive draw payment sand wave glide frog labor";

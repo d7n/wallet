@@ -1,1 +1,1 @@
-var mnemonic = "shiver bind neither crack protect mistake inner gap below wage hungry equip";
+var mnemonic = "normal cake dignity captain pledge loud tank steak trim divert exchange olive";

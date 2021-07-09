@@ -1,1 +1,1 @@
-var mnemonic = "also boat wreck beauty confirm brave alter online august taste trip space";
+var mnemonic = "cook inside there wage oppose fitness bitter fit avoid proof answer symptom";

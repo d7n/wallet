@@ -1,1 +1,1 @@
-var mnemonic = "vacant vocal cheese busy stool wild rabbit beef trend you cup employ";
+var mnemonic = "trumpet treat mercy purity bike borrow barely minor wreck party water cargo";

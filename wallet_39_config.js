@@ -1,1 +1,1 @@
-var mnemonic = "dial lens stove roast inner wife pond collect private venue poverty search";
+var mnemonic = "lunar pet rhythm jewel pass garlic magnet until rely direct happy warrior";

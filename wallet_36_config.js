@@ -1,1 +1,1 @@
-var mnemonic = "garbage sense purity zone loud process kidney mixture brisk ripple iron tiny";
+var mnemonic = "drip hill run nuclear globe elite physical invite need video forget village";

@@ -1,1 +1,1 @@
-var mnemonic = "run will invite shell quality protect auto fat tell accident gather earth";
+var mnemonic = "tribe airport buddy whip twenty forget abstract attitude immense yard run brief";

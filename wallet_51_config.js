@@ -1,1 +1,1 @@
-var mnemonic = "tone general tree tilt alpha dune net mule frozen huge hidden bid";
+var mnemonic = "ivory grape eyebrow essay steak focus wet bracket jump antenna soda engage";

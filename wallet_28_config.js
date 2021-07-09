@@ -1,1 +1,1 @@
-var mnemonic = "thing regret leisure second nasty sport gadget student fog candy fantasy silk";
+var mnemonic = "invest firm bacon soft welcome tail knife grow gas black cloud stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch client apple claw brand spoon chuckle special uncover brass actor version";
+var mnemonic = "announce gown spray addict garlic future word exclude foil burger mansion advance";

@@ -1,1 +1,1 @@
-var mnemonic = "sell assist flush giggle orient high setup maximum advice current average casual";
+var mnemonic = "salmon once text range acquire film click certain riot evolve offer more";

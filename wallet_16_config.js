@@ -1,1 +1,1 @@
-var mnemonic = "inch music current elder display wealth mother album cabin shrug wide blush";
+var mnemonic = "hollow rich drop melt virus march front student crime acoustic virus venue";

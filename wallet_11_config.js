@@ -1,1 +1,1 @@
-var mnemonic = "march deal marine admit confirm repeat danger need make pitch swim appear";
+var mnemonic = "pitch bitter biology basic receive chimney famous lawsuit rare lunch segment angry";

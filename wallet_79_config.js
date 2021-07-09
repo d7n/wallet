@@ -1,1 +1,1 @@
-var mnemonic = "try silk salad marble chapter wait index gain cabbage involve siren tool";
+var mnemonic = "trumpet trick broccoli hip flag there census interest river vintage execute rack";

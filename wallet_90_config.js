@@ -1,1 +1,1 @@
-var mnemonic = "burst equip submit rate sketch robust switch response throw brave candy raven";
+var mnemonic = "quit vault tumble belt bar cage jazz index assume another just april";

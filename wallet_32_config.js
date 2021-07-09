@@ -1,1 +1,1 @@
-var mnemonic = "budget movie way slim burden refuse collect nuclear fee cigar cute present";
+var mnemonic = "humble brass curious disease spread village history mind school lens dust craft";

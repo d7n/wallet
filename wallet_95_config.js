@@ -1,1 +1,1 @@
-var mnemonic = "girl purchase fabric slight draft job afraid audit law garage impose mechanic";
+var mnemonic = "auto brave indoor catalog already load magnet coach narrow twenty vehicle decide";

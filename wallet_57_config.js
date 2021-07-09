@@ -1,1 +1,1 @@
-var mnemonic = "oxygen top aim trap setup sad other van bright achieve shadow certain";
+var mnemonic = "kiss cotton awful myth cable pair inject similar science empty educate original";

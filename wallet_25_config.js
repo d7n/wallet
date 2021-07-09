@@ -1,1 +1,1 @@
-var mnemonic = "birth elbow predict drive vicious acid where begin hello shock better puzzle";
+var mnemonic = "wrestle hurry convince witness tooth stuff carpet hungry inquiry crunch settle balcony";

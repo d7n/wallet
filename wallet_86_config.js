@@ -1,1 +1,1 @@
-var mnemonic = "impact shoe magnet hedgehog neglect elder utility perfect nut price like sight";
+var mnemonic = "spend found display company prefer quarter employ dinner nephew wheat person van";

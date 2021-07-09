@@ -1,1 +1,1 @@
-var mnemonic = "crime limb fee eyebrow job risk piece bicycle notice identify festival envelope";
+var mnemonic = "hair help deposit decide despair force total chef priority eager symbol cash";

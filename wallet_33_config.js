@@ -1,1 +1,1 @@
-var mnemonic = "buddy shrimp buffalo smooth income crunch cat kind drama alley fetch sting";
+var mnemonic = "wink system hire churn table crash model shove admit imitate razor soft";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior obscure reopen ice text kind host vote over sketch space shell";
+var mnemonic = "panic violin mixture ill wrap mountain polar forward slogan airport maze outside";

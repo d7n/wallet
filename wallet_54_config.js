@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow brave flag forest fish scrap kite urban capable since shaft open";
+var mnemonic = "sure know wisdom snow exercise salon vast style fiber venture round vocal";

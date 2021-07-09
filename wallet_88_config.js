@@ -1,1 +1,1 @@
-var mnemonic = "fantasy eyebrow fiber wagon tell language core ensure napkin educate tenant win";
+var mnemonic = "bike crop put client quiz brown frequent sausage sauce exhibit vague bread";

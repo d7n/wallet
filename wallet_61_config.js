@@ -1,1 +1,1 @@
-var mnemonic = "paper consider general treat list love asthma zone piece lottery undo west";
+var mnemonic = "know solid success roast utility syrup menu unusual cool sea outer face";

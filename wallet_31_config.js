@@ -1,1 +1,1 @@
-var mnemonic = "radio kiwi three size tell episode mobile mirror evil coconut behave staff";
+var mnemonic = "stamp sorry nuclear rapid athlete initial vibrant machine speak feed rain quick";

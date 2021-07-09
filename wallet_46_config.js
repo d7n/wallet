@@ -1,1 +1,1 @@
-var mnemonic = "audit index jelly dirt winter suffer allow derive alien curtain math innocent";
+var mnemonic = "spider cotton point blame enjoy voice school devote peasant wrong wedding pill";

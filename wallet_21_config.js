@@ -1,1 +1,1 @@
-var mnemonic = "pistol velvet angry whisper charge girl visual equal grain organ engine answer";
+var mnemonic = "race feature vital priority stick enough glow wagon able trial divide security";

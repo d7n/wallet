@@ -1,1 +1,1 @@
-var mnemonic = "ice oyster logic rib enter priority wise robot swim coyote praise fossil";
+var mnemonic = "age river option chest skate rate brain dismiss evil increase project donor";

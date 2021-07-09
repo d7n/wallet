@@ -1,1 +1,1 @@
-var mnemonic = "tent symptom lamp essay foam around kid joke chicken sock turn swing";
+var mnemonic = "twice have satisfy layer tortoise syrup salt slender grant liberty thrive survey";

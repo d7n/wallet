@@ -1,1 +1,1 @@
-var mnemonic = "wall total casino season they clarify fish okay net liar science piece";
+var mnemonic = "goose boss grain very arrest arch few state arch connect year abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "exact build hood wear upset lake rent auction denial debris crush year";
+var mnemonic = "twenty wink profit hungry million keep exchange orient canyon tuition only adjust";

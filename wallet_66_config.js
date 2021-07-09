@@ -1,1 +1,1 @@
-var mnemonic = "oblige bleak live rich edit warm life nose domain ship stem lyrics";
+var mnemonic = "marriage potato expire corn song teach equal visual hope garlic squeeze act";

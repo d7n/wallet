@@ -1,1 +1,1 @@
-var mnemonic = "biology height mention service drift body little barely bargain announce debris decide";
+var mnemonic = "fortune spot suspect logic display dragon wink jelly merry dune sleep about";

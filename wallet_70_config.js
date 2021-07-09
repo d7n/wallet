@@ -1,1 +1,1 @@
-var mnemonic = "relax silk beach tumble wood amazing sleep domain improve video sure effort";
+var mnemonic = "oven wait alarm chicken gentle slim system razor promote destroy canal enrich";

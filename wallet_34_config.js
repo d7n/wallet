@@ -1,1 +1,1 @@
-var mnemonic = "adult matrix level shadow wild layer quit decade bar trim shuffle action";
+var mnemonic = "symbol breeze leopard arrow retreat kit exhaust legend spoon sunset long pilot";

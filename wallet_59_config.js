@@ -1,1 +1,1 @@
-var mnemonic = "trial floor poet monster income property warm orphan rice citizen eager fix";
+var mnemonic = "good real conduct wave slow survey excuse hawk can erosion jar exercise";

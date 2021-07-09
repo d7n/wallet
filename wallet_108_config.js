@@ -1,1 +1,1 @@
-var mnemonic = "increase swarm network ride invest wealth away become sentence bone swear dentist";
+var mnemonic = "puzzle enable upgrade guide various chaos hard soap hidden erase install regret";

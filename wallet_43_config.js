@@ -1,1 +1,1 @@
-var mnemonic = "legal cash borrow owner elbow humor pull leopard stove unable slam stadium";
+var mnemonic = "siren express confirm dawn reunion piano dial true hospital ritual effort exit";

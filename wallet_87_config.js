@@ -1,1 +1,1 @@
-var mnemonic = "pyramid motion tell layer lesson blossom panther frost fetch monkey blossom state";
+var mnemonic = "hotel mass bean rude little fox speak combine amused charge solar emerge";

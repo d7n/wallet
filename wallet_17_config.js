@@ -1,1 +1,1 @@
-var mnemonic = "auction ivory advance dry cradle shock voice silver pyramid avocado issue senior";
+var mnemonic = "obtain rude advance cave south gown truth yellow addict tennis flush march";

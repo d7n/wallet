@@ -1,1 +1,1 @@
-var mnemonic = "normal cup merry slender office erase expand craft victory pledge fruit feature";
+var mnemonic = "aunt hover race reveal frog air meadow bunker subway tank lawsuit birth";

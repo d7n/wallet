@@ -1,1 +1,1 @@
-var mnemonic = "birth eye ball rough tomato toe myth across lumber desk corn donor";
+var mnemonic = "reunion popular flush radar asset neither clean hammer chimney peace level idea";

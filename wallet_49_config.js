@@ -1,1 +1,1 @@
-var mnemonic = "hero run riot guard slot tail swap walnut make need decide idea";
+var mnemonic = "people throw exact awesome game afraid alpha social effort tray thought laugh";

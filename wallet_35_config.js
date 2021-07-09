@@ -1,1 +1,1 @@
-var mnemonic = "thought later wide oil mimic rail flash chimney race wrap venture anxiety";
+var mnemonic = "magic smooth eagle wise west gospel kangaroo success fire ship jazz gossip";

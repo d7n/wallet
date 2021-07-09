@@ -1,1 +1,1 @@
-var mnemonic = "orbit surge theory before hurry useful range olympic vague lottery act emerge";
+var mnemonic = "enemy attract badge crane poverty smart siege steak invite damp victory barrel";

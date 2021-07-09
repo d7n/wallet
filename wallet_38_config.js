@@ -1,1 +1,1 @@
-var mnemonic = "song visa reflect version paddle dinner session place similar engine ordinary embody";
+var mnemonic = "act already pulse amateur network brisk solve rapid symptom spare camp obey";

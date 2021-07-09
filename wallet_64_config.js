@@ -1,1 +1,1 @@
-var mnemonic = "wrong neck nephew symbol deny bachelor swim another excess market rally wink";
+var mnemonic = "custom cool know harbor almost just thunder box hero expire notice gain";

@@ -1,1 +1,1 @@
-var mnemonic = "chat nephew snap modify object remind motion right satisfy dentist club prize";
+var mnemonic = "fog bomb used daring rug gate another sorry cabin outdoor slow panda";

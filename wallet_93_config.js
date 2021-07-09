@@ -1,1 +1,1 @@
-var mnemonic = "school urge cage erupt bunker explain believe bread angry service ozone share";
+var mnemonic = "grunt clump riot vanish purity science emotion sort model veteran ecology tomato";

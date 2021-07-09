@@ -1,1 +1,1 @@
-var mnemonic = "harbor cheese entire vapor tourist teach concert aisle pledge vapor sad frequent";
+var mnemonic = "keen head square because buddy vintage victory mind eyebrow portion pave proud";
