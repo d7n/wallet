@@ -1,1 +1,1 @@
-var mnemonic = "phrase file sorry measure purity opera nominee plunge slush valve result brown";
+var mnemonic = "scrap shrug thunder pencil crack base peace kit tonight large negative giant";

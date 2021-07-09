@@ -1,1 +1,1 @@
-var mnemonic = "give faculty kind custom garment cry multiply crater fit thunder soft head";
+var mnemonic = "toward agent quote topple snow host december mass maximum van coast debris";

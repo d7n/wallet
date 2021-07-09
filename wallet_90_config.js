@@ -1,1 +1,1 @@
-var mnemonic = "eternal egg satisfy limb copy voice rifle claw okay rate angry box";
+var mnemonic = "submit acquire essay enter extend cat margin material produce admit palm pledge";

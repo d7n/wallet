@@ -1,1 +1,1 @@
-var mnemonic = "clutch insane brush pizza amount order piece volume lend clerk patient winter";
+var mnemonic = "impose nose nerve sadness burst end blast example sail void live across";

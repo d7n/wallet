@@ -1,1 +1,1 @@
-var mnemonic = "modify pink twelve struggle focus sword fever harvest burger adult coin vehicle";
+var mnemonic = "slot family distance weapon glare release cave thought tunnel ripple bronze gloom";

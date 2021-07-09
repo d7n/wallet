@@ -1,1 +1,1 @@
-var mnemonic = "spell acid craft brief poet luggage brush clinic short fan endless essence";
+var mnemonic = "acquire clip bronze agent bacon lyrics clump warm meat elite across click";

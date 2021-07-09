@@ -1,1 +1,1 @@
-var mnemonic = "expand chair fog wink marriage risk order original level slice sketch tennis";
+var mnemonic = "general labor praise replace imitate rude moment sun mobile boy cupboard sample";

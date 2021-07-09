@@ -1,1 +1,1 @@
-var mnemonic = "stock monitor ocean act wise alone enable exist phone hungry layer special";
+var mnemonic = "hard vehicle window seek glory oven report marble antenna manage tape network";

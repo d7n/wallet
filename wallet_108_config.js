@@ -1,1 +1,1 @@
-var mnemonic = "miss forum describe cherry host canoe key enjoy term unique sentence shallow";
+var mnemonic = "magic extend always brain hotel fade spider oblige crane volcano wood someone";

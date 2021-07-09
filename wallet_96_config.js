@@ -1,1 +1,1 @@
-var mnemonic = "wash cat ignore head wedding huge decide bless radar comfort antique camera";
+var mnemonic = "enjoy such liberty dentist push vast romance depth fruit burger culture bundle";

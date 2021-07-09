@@ -1,1 +1,1 @@
-var mnemonic = "process garden unique inquiry initial festival venture ordinary sauce home august cactus";
+var mnemonic = "voyage bargain junk inform ski lawsuit apology lady uncover estate since hollow";

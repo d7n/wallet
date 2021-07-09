@@ -1,1 +1,1 @@
-var mnemonic = "rose absurd open angle car blame keep sad doctor sign convince reject";
+var mnemonic = "nose early emerge six dish damp potato sell undo inform delay proof";

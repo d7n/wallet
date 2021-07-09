@@ -1,1 +1,1 @@
-var mnemonic = "regular amateur split smooth slam chapter physical milk list half renew camp";
+var mnemonic = "tomorrow elevator utility goat balcony trouble shift orchard abuse flag casino prosper";

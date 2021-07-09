@@ -1,1 +1,1 @@
-var mnemonic = "dance mention report power apology possible knee spike minute rib enroll provide";
+var mnemonic = "tongue crazy diary proof robust leader spell foam valley air resemble vessel";

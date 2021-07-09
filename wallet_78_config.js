@@ -1,1 +1,1 @@
-var mnemonic = "ocean weasel element hurdle nest glass amused private exit quote sheriff unaware";
+var mnemonic = "stable primary avocado elbow hood chest meat rent aspect bar exchange retire";

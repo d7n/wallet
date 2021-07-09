@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stage breeze cover predict just win hunt because guilt taste cloth";
+var mnemonic = "globe talk hurt novel grant talent lecture cricket curious vacuum vacuum tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "replace cousin frost security boy cycle marble wrap equip best floor labor";
+var mnemonic = "clump cricket uncover appear input shield plug wolf work cute join scene";

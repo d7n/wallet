@@ -1,1 +1,1 @@
-var mnemonic = "diary giraffe token task boy woman blind blouse afford fiction gloom network";
+var mnemonic = "wine drift trip logic warrior forward unfold melt uncle derive kit ozone";

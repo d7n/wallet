@@ -1,1 +1,1 @@
-var mnemonic = "brass park ridge gorilla upon play forest anger blade basket toddler short";
+var mnemonic = "train salmon protect tell punch property wing unhappy exhaust size fly multiply";

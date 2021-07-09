@@ -1,1 +1,1 @@
-var mnemonic = "dice giraffe fan egg junk flavor glance ugly nut point math panel";
+var mnemonic = "poet shrug supreme topple raise real photo blind nephew exact parrot hole";

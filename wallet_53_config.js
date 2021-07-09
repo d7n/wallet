@@ -1,1 +1,1 @@
-var mnemonic = "bike obscure battle attitude hen toe leopard hamster strong lab broccoli marriage";
+var mnemonic = "tiny october idea alpha amount onion rubber pelican dilemma rug drama organ";

@@ -1,1 +1,1 @@
-var mnemonic = "twin potato chef mandate team sniff opera bean wall typical disorder nut";
+var mnemonic = "lion cluster dress script frost guilt mirror fabric remain weapon false author";

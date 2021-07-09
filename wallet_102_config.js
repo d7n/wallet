@@ -1,1 +1,1 @@
-var mnemonic = "pill pony payment include bag axis entry share survey reward tennis mango";
+var mnemonic = "edit walnut tired toilet effort order soda lab salad group shiver puppy";

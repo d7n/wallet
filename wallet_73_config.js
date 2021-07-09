@@ -1,1 +1,1 @@
-var mnemonic = "outside paddle elder farm company empower author select wet exercise decline bright";
+var mnemonic = "truck remember weird slight odor firm topic budget mind pear aspect sail";

@@ -1,1 +1,1 @@
-var mnemonic = "earth grocery latin salute rack snap amount bring step coil ice quantum";
+var mnemonic = "error like box earn alley silent happy cinnamon hero person lecture bubble";

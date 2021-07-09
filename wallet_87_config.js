@@ -1,1 +1,1 @@
-var mnemonic = "able help mercy piece vault left soon upset elevator enforce increase coil";
+var mnemonic = "olive arm cradle alarm math tissue derive sister team connect excess virus";

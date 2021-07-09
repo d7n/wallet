@@ -1,1 +1,1 @@
-var mnemonic = "wave legend tourist mouse shift guard apart discover average draw hundred bicycle";
+var mnemonic = "fee pizza illness output barrel purchase aisle cluster burden system gain globe";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus cream ghost minimum live mountain fly hunt axis warfare inherit calm";
+var mnemonic = "tray squeeze cover tube useful require elder share vast olympic point six";

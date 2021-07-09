@@ -1,1 +1,1 @@
-var mnemonic = "tape dad auction salute please trick series destroy kind enter void rack";
+var mnemonic = "change column tortoise civil elite quantum focus charge program swim source film";

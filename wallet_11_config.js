@@ -1,1 +1,1 @@
-var mnemonic = "loan opinion toe creek saddle cheap gain rely rather legend helmet okay";
+var mnemonic = "win multiply random cost unfold produce load scatter mercy ribbon liberty unveil";

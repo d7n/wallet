@@ -1,1 +1,1 @@
-var mnemonic = "desert gauge draft chimney other limb ability toss text panda square step";
+var mnemonic = "flash rare original kite entry vital girl federal crater chief jealous pull";

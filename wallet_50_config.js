@@ -1,1 +1,1 @@
-var mnemonic = "unable brass album rookie chuckle bar vocal receive above enjoy aisle long";
+var mnemonic = "excess hungry vote useless ozone network rebuild east affair turn lunar hip";

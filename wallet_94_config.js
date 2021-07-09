@@ -1,1 +1,1 @@
-var mnemonic = "ethics review pill opinion vendor gaze glance race fame quiz credit trumpet";
+var mnemonic = "sell ostrich scare black unknown assault dutch chair pretty glad cigar cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "walk train symbol immune feel egg gadget suspect slogan sell useless snap";
+var mnemonic = "onion latin decline iron identify sheriff winner indicate inform brush dad figure";

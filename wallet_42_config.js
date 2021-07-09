@@ -1,1 +1,1 @@
-var mnemonic = "evolve pause pony blossom chronic lawn allow art six hurry jacket melody";
+var mnemonic = "brother raccoon pudding disease material hidden orchard fee open weather wool hover";

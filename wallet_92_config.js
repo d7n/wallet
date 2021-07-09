@@ -1,1 +1,1 @@
-var mnemonic = "carry mean maple grief add wasp game convince shove sister donkey life";
+var mnemonic = "accuse fatigue effort raccoon news provide target online weasel increase hire behave";

@@ -1,1 +1,1 @@
-var mnemonic = "reason torch puppy vague shoulder tape pet energy demise scorpion dove begin";
+var mnemonic = "radio grant nation novel clap cabin office pepper goat craft festival alter";

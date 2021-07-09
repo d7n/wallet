@@ -1,1 +1,1 @@
-var mnemonic = "budget what possible profit agree snow maximum response wagon dutch also summer";
+var mnemonic = "peasant delay phrase gift weasel wet elite hen entry mosquito elder will";

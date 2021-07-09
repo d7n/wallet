@@ -1,1 +1,1 @@
-var mnemonic = "around tiny noise galaxy grape phrase timber sound rough sort fat slim";
+var mnemonic = "fruit eager wood end elephant index point spell thank exit brother finger";

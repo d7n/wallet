@@ -1,1 +1,1 @@
-var mnemonic = "rebel bar game clump orbit affair asset hope awake leader hungry olympic";
+var mnemonic = "laundry verify chalk need wine balcony lake eager jeans suit coach satoshi";

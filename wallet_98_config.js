@@ -1,1 +1,1 @@
-var mnemonic = "switch hidden tissue fragile cherry genuine volcano question border mistake screen bar";
+var mnemonic = "forest lobster drift valid rack dizzy switch witness banner lesson width cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "blood exhaust december nasty correct acid travel answer round minute smile aim";
+var mnemonic = "asthma entry siege famous all quarter exchange cricket become old follow exact";

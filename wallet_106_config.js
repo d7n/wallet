@@ -1,1 +1,1 @@
-var mnemonic = "table film plunge inform vicious uniform expand climb spider various road permit";
+var mnemonic = "tilt flight minor intact side edge eye ostrich focus crystal remind abstract";

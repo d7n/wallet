@@ -1,1 +1,1 @@
-var mnemonic = "outside chunk garbage option favorite mandate nurse antique avoid decide future wrist";
+var mnemonic = "empty diary family aunt spatial energy ranch indicate summer fee drip survey";

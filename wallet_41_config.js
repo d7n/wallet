@@ -1,1 +1,1 @@
-var mnemonic = "delay cliff subject good shoe tomato head result leopard later employ letter";
+var mnemonic = "borrow frequent promote faculty chaos protect kitten fruit trouble prefer error glow";

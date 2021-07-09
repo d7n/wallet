@@ -1,1 +1,1 @@
-var mnemonic = "disagree pumpkin stand asthma food flash author wrap squeeze slice return space";
+var mnemonic = "choice okay critic wrist bunker problem exact bag grant banana keep kind";

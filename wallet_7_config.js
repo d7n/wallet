@@ -1,1 +1,1 @@
-var mnemonic = "flower entire minute umbrella memory guide movie such bamboo episode regret crew";
+var mnemonic = "pottery because life still liberty minute dove light away maximum trophy pistol";

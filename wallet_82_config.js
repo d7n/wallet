@@ -1,1 +1,1 @@
-var mnemonic = "muscle climb brown shove movie idle mechanic noble again dog oxygen nephew";
+var mnemonic = "crawl path hip board civil snake distance pen bar cash manual across";

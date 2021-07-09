@@ -1,1 +1,1 @@
-var mnemonic = "noise muffin dance retreat knock space timber rigid wave blind fiscal sure";
+var mnemonic = "man talent material pear stamp aunt tree air enroll coffee present garment";

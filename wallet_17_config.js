@@ -1,1 +1,1 @@
-var mnemonic = "exact answer sheriff photo flat science into protect trophy gift victory resource";
+var mnemonic = "choice audit access crazy foster ankle shield glove tumble believe save garage";

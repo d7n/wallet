@@ -1,1 +1,1 @@
-var mnemonic = "join frozen crazy remember churn wheat diet jungle ridge regret receive check";
+var mnemonic = "behave assist clean absent negative jar raw thought thumb limit access calm";

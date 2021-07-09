@@ -1,1 +1,1 @@
-var mnemonic = "burst slide victory neutral ability situate seed pluck immense lamp special prosper";
+var mnemonic = "congress upgrade model summer code mesh first mouse word season glory visual";

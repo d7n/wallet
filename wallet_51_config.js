@@ -1,1 +1,1 @@
-var mnemonic = "fit cost blossom pass menu elder spin clog envelope provide surprise hint";
+var mnemonic = "elevator select avocado mosquito file awake casual consider roast immense rabbit unfair";

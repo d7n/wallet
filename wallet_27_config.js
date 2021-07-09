@@ -1,1 +1,1 @@
-var mnemonic = "loyal weird budget foot pigeon turtle base planet neither embody mirror inhale";
+var mnemonic = "gate salad young blur coffee wedding elder echo wage twelve online core";

@@ -1,1 +1,1 @@
-var mnemonic = "stage nation you process apology screen fade hospital chronic degree cost win";
+var mnemonic = "million install gauge silly stove topple mosquito image recipe fantasy atom solution";

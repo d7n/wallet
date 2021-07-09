@@ -1,1 +1,1 @@
-var mnemonic = "hood ordinary marble where clarify cloth stadium what praise west spike gold";
+var mnemonic = "achieve attack erupt stone cream evolve defy february note basket focus liquid";

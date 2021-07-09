@@ -1,1 +1,1 @@
-var mnemonic = "coil aware tag satoshi daring style into apart belt wine tattoo better";
+var mnemonic = "public cool flat sentence adjust dice organ ask write example soon problem";

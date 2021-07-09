@@ -1,1 +1,1 @@
-var mnemonic = "police hard boat husband toy diamond response auction glad garment green figure";
+var mnemonic = "clutch crisp glue message nest verb pass arena vacant dutch filter figure";

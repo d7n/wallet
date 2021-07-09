@@ -1,1 +1,1 @@
-var mnemonic = "cabbage lend liar saddle decade blush viable chief swim winter bubble seek";
+var mnemonic = "despair primary measure stick profit prefer space spawn choice claw boring word";

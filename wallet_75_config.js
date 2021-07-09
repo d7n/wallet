@@ -1,1 +1,1 @@
-var mnemonic = "short west desk engine cloud elite sick cheap vacant arch cluster canyon";
+var mnemonic = "fancy december month planet present file later pool walk solution captain fox";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal forest arm polar faith cage siege rib hour cactus diamond kidney";
+var mnemonic = "swim trap supreme crack project drink wasp dove chair hair cup repair";

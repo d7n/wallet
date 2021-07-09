@@ -1,1 +1,1 @@
-var mnemonic = "library yellow suit avocado view jar female someone barrel empower holiday uniform";
+var mnemonic = "favorite edit decline entire taxi web dismiss argue toilet eyebrow kitchen mosquito";

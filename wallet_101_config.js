@@ -1,1 +1,1 @@
-var mnemonic = "system pulp pig beach blade member cook brick pretty marriage review smile";
+var mnemonic = "chapter lens wheel exchange woman visit sustain harvest result essence blur problem";

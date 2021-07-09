@@ -1,1 +1,1 @@
-var mnemonic = "early wall neck essay little again maid climb version tail cheap leader";
+var mnemonic = "already limb crop gaze start document original quantum canvas laundry waste faith";

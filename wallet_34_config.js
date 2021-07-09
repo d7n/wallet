@@ -1,1 +1,1 @@
-var mnemonic = "wave dream length seek half twin visa scheme desk hip harvest useless";
+var mnemonic = "differ energy awful banner crane reveal twice hungry abandon tired ten share";

@@ -1,1 +1,1 @@
-var mnemonic = "walk pupil fringe ignore expand breeze fat toy very unfold extra position";
+var mnemonic = "usual sad spin garlic manage punch icon matrix moral viable scare smoke";

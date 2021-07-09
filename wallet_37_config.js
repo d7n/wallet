@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit sing program catalog notable nasty rookie expect nerve erosion burger pool";
+var mnemonic = "bicycle above injury salmon rug expire side abandon repeat purity blast width";

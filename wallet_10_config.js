@@ -1,1 +1,1 @@
-var mnemonic = "another scatter nurse monster fix dumb team focus play cinnamon humble inspire";
+var mnemonic = "truth section dial spike spoil alpha when cupboard discover warrior rebuild good";

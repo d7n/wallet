@@ -1,1 +1,1 @@
-var mnemonic = "hint bench talent hundred load girl vote digital north whisper undo blossom";
+var mnemonic = "random girl junior will month claim oil leg this curve desk jar";

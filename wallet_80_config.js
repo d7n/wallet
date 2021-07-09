@@ -1,1 +1,1 @@
-var mnemonic = "adapt security embark october minor blame embody card name scheme pyramid still";
+var mnemonic = "situate glove shove chat sunny remain quantum retreat glad detect around observe";

@@ -1,1 +1,1 @@
-var mnemonic = "claim solution under buzz immense boil reopen shop finger bright safe often";
+var mnemonic = "manage tennis doll language awesome celery voice run maple someone coral hurt";

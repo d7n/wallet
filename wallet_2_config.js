@@ -1,1 +1,1 @@
-var mnemonic = "fan trim increase truth napkin hospital race visa spice tennis letter engage";
+var mnemonic = "scare crane web trash captain nice strategy cruise expire buzz near gain";

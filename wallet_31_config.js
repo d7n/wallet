@@ -1,1 +1,1 @@
-var mnemonic = "patrol hedgehog exile myself enact bronze luxury bonus address primary check dilemma";
+var mnemonic = "point divert immune south weapon liberty anxiety deputy jar pattern raven page";

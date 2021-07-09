@@ -1,1 +1,1 @@
-var mnemonic = "story army motor leg gain open warfare element paper loyal situate hire";
+var mnemonic = "orbit boil vacant shuffle buzz imitate creek frequent emotion gain fossil observe";

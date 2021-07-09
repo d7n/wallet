@@ -1,1 +1,1 @@
-var mnemonic = "risk harbor day real few raccoon style raw congress cradle harvest basket";
+var mnemonic = "broom coyote trim leg response file situate become seminar claim fury keep";

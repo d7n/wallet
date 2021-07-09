@@ -1,1 +1,1 @@
-var mnemonic = "police able all sun smile cargo toilet raccoon rude unusual daughter neither";
+var mnemonic = "mail gasp surround holiday shoulder fury flush blur staff heavy age eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone settle noodle license piano heart pulp coffee ghost random portion mom";
+var mnemonic = "woman wisdom soap luggage insane pull prepare march lonely course hedgehog business";

@@ -1,1 +1,1 @@
-var mnemonic = "person trick swamp fun royal lunar modify expire short truth divorce twist";
+var mnemonic = "occur omit sketch wife shallow album surge reform nuclear regular bring cute";

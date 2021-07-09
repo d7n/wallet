@@ -1,1 +1,1 @@
-var mnemonic = "life search water squirrel beyond problem aerobic toward unusual bracket total poverty";
+var mnemonic = "hen pen awake fly over myth render gesture sock claim nut identify";

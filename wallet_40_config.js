@@ -1,1 +1,1 @@
-var mnemonic = "night camera sudden crumble category brave wisdom traffic ancient orient hollow canal";
+var mnemonic = "horn nurse idle shoe own feed subway edit snow fee above require";

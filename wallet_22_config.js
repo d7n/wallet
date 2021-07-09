@@ -1,1 +1,1 @@
-var mnemonic = "tennis vanish bargain method never share retire toward problem accident bread grid";
+var mnemonic = "leaf drink grant code beauty boost maximum tiny future cradle behind toddler";

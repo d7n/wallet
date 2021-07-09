@@ -1,1 +1,1 @@
-var mnemonic = "luggage essay script car modify length exchange radar glory fashion verify lesson";
+var mnemonic = "rabbit embrace choice rose aspect morning middle plunge enroll umbrella mercy funny";

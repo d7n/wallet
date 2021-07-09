@@ -1,1 +1,1 @@
-var mnemonic = "pelican raccoon crack will arrange market ignore music bamboo relax taste kiwi";
+var mnemonic = "unable hidden ostrich donate ketchup bind athlete dose vote ticket depth minimum";

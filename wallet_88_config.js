@@ -1,1 +1,1 @@
-var mnemonic = "electric token region dress alone liar glide peace infant fire pull humble";
+var mnemonic = "mandate clever eagle forum iron jelly ritual example vocal witness brown you";

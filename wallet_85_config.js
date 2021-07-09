@@ -1,1 +1,1 @@
-var mnemonic = "dolphin will mistake stable run wool faint state era agent toss bless";
+var mnemonic = "text fish day refuse sweet inmate clog cruel truly upon wolf crucial";

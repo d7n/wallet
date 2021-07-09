@@ -1,1 +1,1 @@
-var mnemonic = "similar sleep actress govern proud grief memory biology devote frozen vanish scrap";
+var mnemonic = "universe atom catalog brisk provide arena reflect express shield industry surround metal";

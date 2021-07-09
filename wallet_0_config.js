@@ -1,1 +1,1 @@
-var mnemonic = "napkin oven cruise loud settle diary busy inhale dolphin artist resist draw";
+var mnemonic = "bright goat dwarf unaware they lemon orchard street drill bench dad noodle";

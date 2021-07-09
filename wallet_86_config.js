@@ -1,1 +1,1 @@
-var mnemonic = "pave satoshi usual warm verify whisper weather wasp swing ill eye lazy";
+var mnemonic = "team mail year receive category obvious solve recall arctic print march master";

@@ -1,1 +1,1 @@
-var mnemonic = "smile flip place never weasel puppy hair chat near bridge unveil swear";
+var mnemonic = "arena current net rough cage veteran sign blanket mixture script famous indoor";

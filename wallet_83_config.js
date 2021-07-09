@@ -1,1 +1,1 @@
-var mnemonic = "satisfy control taste pigeon monkey ability reject capable cable oval cage soccer";
+var mnemonic = "exotic alarm soon feel increase argue speak catch immense hope village cruise";
