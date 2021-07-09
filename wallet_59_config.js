@@ -1,1 +1,1 @@
-var mnemonic = "boat ask shiver enrich increase put festival prison gorilla panther behave screen";
+var mnemonic = "high recycle twist river stable slow cargo silver monster weather run syrup";

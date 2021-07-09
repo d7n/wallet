@@ -1,1 +1,1 @@
-var mnemonic = "giant enemy exotic leg venture tumble supreme taste setup taste festival board";
+var mnemonic = "sugar purchase swamp escape regular shrimp lizard claim rude solution call crawl";

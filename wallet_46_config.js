@@ -1,1 +1,1 @@
-var mnemonic = "note aerobic marriage garlic case good vintage pepper local put crane find";
+var mnemonic = "valley calm magnet pause dash hand avocado iron water bulk peanut educate";

@@ -1,1 +1,1 @@
-var mnemonic = "note pioneer process idle layer elegant symptom when copy river dragon avoid";
+var mnemonic = "mechanic nose absorb confirm fat gate marble solve sauce zoo roast art";

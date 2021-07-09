@@ -1,1 +1,1 @@
-var mnemonic = "oil jungle chicken sight plate clown whisper parrot glue where stereo adapt";
+var mnemonic = "shrug permit offer program rural tissue step peasant spider cable broom art";

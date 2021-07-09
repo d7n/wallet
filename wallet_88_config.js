@@ -1,1 +1,1 @@
-var mnemonic = "castle metal supply stove box fog super enable swift cabin rough tilt";
+var mnemonic = "tongue hint voice figure wire industry rhythm duty song amount chimney notice";

@@ -1,1 +1,1 @@
-var mnemonic = "key common front affair cube trick menu bomb liar hungry slab today";
+var mnemonic = "scrub pledge mouse comfort front inch future kitten slot maze world distance";

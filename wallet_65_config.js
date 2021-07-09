@@ -1,1 +1,1 @@
-var mnemonic = "evil urge spring stuff frog addict pipe matter whip talk dawn river";
+var mnemonic = "supreme expose maze add unveil defy rubber machine walk fault blouse grocery";

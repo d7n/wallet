@@ -1,1 +1,1 @@
-var mnemonic = "still amazing rough kiss yellow atom denial charge road solve rug issue";
+var mnemonic = "teach dilemma steel canal pet item stool earn scene auction record obey";

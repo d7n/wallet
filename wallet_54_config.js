@@ -1,1 +1,1 @@
-var mnemonic = "battle text sell cradle add orient alcohol immune scheme imitate cupboard trumpet";
+var mnemonic = "strategy box into pigeon puzzle fan enough two typical appear airport combine";

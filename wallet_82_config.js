@@ -1,1 +1,1 @@
-var mnemonic = "antenna hour almost brick hire guilt observe domain area orphan vital attend";
+var mnemonic = "news soul great sword stumble attitude maple trial april noble nothing annual";

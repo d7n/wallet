@@ -1,1 +1,1 @@
-var mnemonic = "thrive casino cheese benefit slim lava spray actor cabin water enter sadness";
+var mnemonic = "donor approve struggle math main please provide valve rail cruel practice drastic";

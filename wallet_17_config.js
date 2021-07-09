@@ -1,1 +1,1 @@
-var mnemonic = "rookie honey increase diesel insect actress member goddess fee chaos firm frost";
+var mnemonic = "focus witness month hollow erode together speed clown symptom valve chimney situate";

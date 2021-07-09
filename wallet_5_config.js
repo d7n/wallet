@@ -1,1 +1,1 @@
-var mnemonic = "lion tumble pass blanket spin donkey random post cancel sudden cash until";
+var mnemonic = "scrap flee force hour alcohol funny group mirror paddle fitness flavor north";

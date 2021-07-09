@@ -1,1 +1,1 @@
-var mnemonic = "noble maple exact wise error club vendor diagram april review lounge open";
+var mnemonic = "network rather oil cook dinner sadness federal still slab bachelor tide card";

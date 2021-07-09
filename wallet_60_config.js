@@ -1,1 +1,1 @@
-var mnemonic = "slam pigeon answer file increase beef used patient east hood lazy surge";
+var mnemonic = "bunker matter strong immense inflict jazz custom mass umbrella example rotate gun";

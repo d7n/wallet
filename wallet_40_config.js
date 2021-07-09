@@ -1,1 +1,1 @@
-var mnemonic = "toddler scrub slam poem human purse gather space kangaroo chicken section cargo";
+var mnemonic = "steel wood hero gather nuclear manage unknown garage stereo sentence asset vote";

@@ -1,1 +1,1 @@
-var mnemonic = "happy gentle ancient cry trophy object door pole truly ring guess budget";
+var mnemonic = "horse embark search consider pony double where hamster indicate level tank broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "brother blood robust fiction vehicle maze seminar cart tent current normal able";
+var mnemonic = "custom oblige lock ecology point hungry outside casual develop book vital raw";

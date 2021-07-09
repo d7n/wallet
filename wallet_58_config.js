@@ -1,1 +1,1 @@
-var mnemonic = "spoon taste service faculty open garden visit drama grain toward dune erode";
+var mnemonic = "eternal stem primary bulk spider remind fiscal marble author nothing benefit post";

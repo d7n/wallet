@@ -1,1 +1,1 @@
-var mnemonic = "describe elder obvious indoor observe donor large soldier gravity list cry finger";
+var mnemonic = "betray reform panda chronic exchange balcony embody ordinary rug cost option unique";

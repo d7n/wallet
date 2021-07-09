@@ -1,1 +1,1 @@
-var mnemonic = "sad celery steel coin raw hobby dash forget chase churn vintage regular";
+var mnemonic = "belt real response resource knee identify doctor parent price popular used private";

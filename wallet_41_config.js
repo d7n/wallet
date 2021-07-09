@@ -1,1 +1,1 @@
-var mnemonic = "swallow month canvas coconut cricket wear pulse enhance they simple choose hour";
+var mnemonic = "bulb amateur similar secret sort bicycle fuel history rain midnight powder dutch";

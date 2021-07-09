@@ -1,1 +1,1 @@
-var mnemonic = "apple stamp deposit elegant luxury bridge inherit boy camera blood permit clinic";
+var mnemonic = "pond farm traffic estate curve slogan member pact vague wood napkin during";

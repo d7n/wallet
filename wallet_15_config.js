@@ -1,1 +1,1 @@
-var mnemonic = "fossil middle melody unknown nothing treat example bind album staff only elevator";
+var mnemonic = "slice anger ketchup year furnace wheel else figure wink success unique initial";

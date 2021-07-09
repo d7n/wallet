@@ -1,1 +1,1 @@
-var mnemonic = "shuffle build balcony park black black web weather labor hole exile stand";
+var mnemonic = "scare caution misery pistol impulse message actor orbit obscure sing distance chat";

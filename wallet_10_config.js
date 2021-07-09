@@ -1,1 +1,1 @@
-var mnemonic = "jelly genuine cave tip keep stumble undo believe lock grace glue borrow";
+var mnemonic = "gesture increase alter proud enforce journey tuition where cube stove piano climb";

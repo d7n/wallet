@@ -1,1 +1,1 @@
-var mnemonic = "squirrel crash secret lock trust puppy black violin model logic silk apology";
+var mnemonic = "stem daring sock small fan prize flat biology puzzle alien habit fever";

@@ -1,1 +1,1 @@
-var mnemonic = "world lake arrive bulb sting prison useless excess domain blame energy spatial";
+var mnemonic = "trophy pink dog cart pluck paper burden below return result broken save";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid giraffe wonder embrace apple lab cool video this biology race hammer";
+var mnemonic = "green expire trumpet math laugh act laundry track sister ice elbow weekend";

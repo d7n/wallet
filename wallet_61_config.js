@@ -1,1 +1,1 @@
-var mnemonic = "library pulp park quick together upgrade pluck suggest future fold elegant senior";
+var mnemonic = "noodle suit rhythm rent exist obey hover skate raven label powder race";

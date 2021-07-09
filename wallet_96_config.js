@@ -1,1 +1,1 @@
-var mnemonic = "pipe assume bronze fetch reject unhappy gloom gorilla provide tired rude spot";
+var mnemonic = "wide add panel family lawsuit cycle wedding copy reward employ ladder net";

@@ -1,1 +1,1 @@
-var mnemonic = "off orphan social chat merit soon base century tower boring engage all";
+var mnemonic = "glue huge indicate despair morning bring wave yard knock front envelope brand";

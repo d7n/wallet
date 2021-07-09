@@ -1,1 +1,1 @@
-var mnemonic = "protect supply cattle sugar bundle erode shift uphold square expose local family";
+var mnemonic = "card drill during pool science lucky spot letter matrix fatigue worry where";

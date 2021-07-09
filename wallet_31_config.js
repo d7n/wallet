@@ -1,1 +1,1 @@
-var mnemonic = "beef lend clutch excess brick ability cake wheel exact great fringe spin";
+var mnemonic = "nose great nurse hobby voyage finish amount priority earth tell together there";

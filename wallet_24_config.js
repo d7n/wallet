@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hole legend library clog cake black praise helmet cook debate control";
+var mnemonic = "wedding horror pledge chuckle hamster mule demand shell switch isolate first decrease";

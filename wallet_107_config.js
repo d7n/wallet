@@ -1,1 +1,1 @@
-var mnemonic = "assist taxi hobby quick car army crumble future mirror volcano code marble";
+var mnemonic = "author dry piece task put subway earth issue apart vocal hour miss";

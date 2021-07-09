@@ -1,1 +1,1 @@
-var mnemonic = "sun term install oyster give license ten physical soft blouse resist fun";
+var mnemonic = "scene fancy rice invest attract orphan first question north mother defy omit";

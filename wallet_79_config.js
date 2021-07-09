@@ -1,1 +1,1 @@
-var mnemonic = "verb pipe sight knock ship vibrant quote about soda word valley leader";
+var mnemonic = "shuffle report pipe infant tooth employ age net prevent attitude hat program";

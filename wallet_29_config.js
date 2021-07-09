@@ -1,1 +1,1 @@
-var mnemonic = "runway reopen ripple essay lady replace remain dad shop cup blame accident";
+var mnemonic = "retire manage bike faint breeze grow happy gloom egg snap trial entire";

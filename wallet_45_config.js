@@ -1,1 +1,1 @@
-var mnemonic = "expect negative survey group light dolphin snap tube scare enroll scissors electric";
+var mnemonic = "budget bicycle twenty exchange diesel smile master reduce explain where consider night";

@@ -1,1 +1,1 @@
-var mnemonic = "side write hole enforce mango patrol address diagram turn wealth awake junior";
+var mnemonic = "hurt tribe lava reopen memory random cause drive since gravity law sibling";

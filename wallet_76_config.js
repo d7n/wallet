@@ -1,1 +1,1 @@
-var mnemonic = "sand toe local vintage elder quarter poem inside category cover benefit multiply";
+var mnemonic = "sad regret wrestle grocery runway orbit humor expire guard borrow sentence dial";

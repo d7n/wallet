@@ -1,1 +1,1 @@
-var mnemonic = "profit angle public tenant exact torch media soon error choice fuel maid";
+var mnemonic = "quiz element cricket vibrant day tomato nose path useless squeeze merry member";

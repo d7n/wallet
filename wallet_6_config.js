@@ -1,1 +1,1 @@
-var mnemonic = "gesture soap novel property prosper apology cargo deal large suffer head image";
+var mnemonic = "wink teach next juice differ truck average demand outdoor hollow million among";

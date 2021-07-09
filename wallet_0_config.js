@@ -1,1 +1,1 @@
-var mnemonic = "lava muscle elephant lamp tuna strong method series peasant always draw grace";
+var mnemonic = "danger honey wide merit nature helmet push inmate escape front supply urge";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust nice must athlete pride hat combine stable answer neck apart able";
+var mnemonic = "mammal dust unfold furnace genre assume lottery burger sauce vessel urban route";

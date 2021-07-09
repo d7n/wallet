@@ -1,1 +1,1 @@
-var mnemonic = "awesome defense dutch detail mention gold million bullet minimum magnet wolf radio";
+var mnemonic = "view outside member tortoise wave jeans add caught pudding fatigue parade audit";

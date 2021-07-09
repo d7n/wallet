@@ -1,1 +1,1 @@
-var mnemonic = "fortune water shadow cube above prosper leopard harbor thunder parade piano tonight";
+var mnemonic = "luggage clean toward merry rug olive salt distance prosper depart rescue cement";

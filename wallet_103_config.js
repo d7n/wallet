@@ -1,1 +1,1 @@
-var mnemonic = "door resemble start pig skirt under slam skirt quiz eagle fit model";
+var mnemonic = "abandon method chat pizza twenty rural image token plastic basic hurt egg";

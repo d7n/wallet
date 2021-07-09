@@ -1,1 +1,1 @@
-var mnemonic = "scissors aerobic transfer goose elegant into dry hill melody sight fork return";
+var mnemonic = "piece twist sunset infant remind nothing will now minimum merge pizza found";

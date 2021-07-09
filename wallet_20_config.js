@@ -1,1 +1,1 @@
-var mnemonic = "life lake song unfair jealous gate recycle radar grape minimum link bid";
+var mnemonic = "outer phone section finish toilet rose patient insect author voyage congress afford";

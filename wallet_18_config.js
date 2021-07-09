@@ -1,1 +1,1 @@
-var mnemonic = "cannon scissors final attack check fog suspect wrap sausage pull spare cool";
+var mnemonic = "learn crane seminar inspire resist dice razor future belt abandon marriage bike";

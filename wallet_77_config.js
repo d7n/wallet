@@ -1,1 +1,1 @@
-var mnemonic = "alarm hospital tube blade other assault wrong jump never meat physical elbow";
+var mnemonic = "laptop enroll group zone lecture group blue chair spatial food camera slot";

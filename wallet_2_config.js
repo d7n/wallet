@@ -1,1 +1,1 @@
-var mnemonic = "civil time damage stereo remain athlete border flee left pelican subway error";
+var mnemonic = "check exist bright stomach armed toe host episode disorder rookie zebra pride";

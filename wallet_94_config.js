@@ -1,1 +1,1 @@
-var mnemonic = "coffee also garment income parade grab master gift wood fashion poem alert";
+var mnemonic = "clip basic annual bulk sign reduce chapter ceiling ice hat direct advice";

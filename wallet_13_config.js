@@ -1,1 +1,1 @@
-var mnemonic = "detect moment bright tornado collect achieve lift banana analyst cage subway swap";
+var mnemonic = "offer salute lab warfare grab doctor future dolphin ladder blush design upset";

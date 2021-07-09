@@ -1,1 +1,1 @@
-var mnemonic = "thumb oil carry strategy sunset hedgehog frog piece blush unknown victory organ";
+var mnemonic = "maximum quick draw cradle laptop salmon borrow trend super social aim relief";

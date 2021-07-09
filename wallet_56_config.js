@@ -1,1 +1,1 @@
-var mnemonic = "general wolf rice spoon bean final jeans boss extend own price alter";
+var mnemonic = "clip soon verify brown scrub grace heart cloth milk north parrot rocket";

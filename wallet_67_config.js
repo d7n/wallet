@@ -1,1 +1,1 @@
-var mnemonic = "trigger credit marble swallow increase chicken quality pull wonder february silk face";
+var mnemonic = "series gloom gauge prison boring credit way push claw vivid excess lift";

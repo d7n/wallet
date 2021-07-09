@@ -1,1 +1,1 @@
-var mnemonic = "minor torch memory now neither copy stereo attend you wait learn tenant";
+var mnemonic = "solar theme story lounge cash monster option luggage arch race upon inhale";

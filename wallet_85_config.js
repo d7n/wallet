@@ -1,1 +1,1 @@
-var mnemonic = "recycle steel mirror dutch tower remove pear spatial resource swim duty bright";
+var mnemonic = "stock glass brave cost humor escape divide piece safe crisp drama patient";

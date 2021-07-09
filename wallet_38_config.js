@@ -1,1 +1,1 @@
-var mnemonic = "silver betray frame neutral curious bronze extend tone abuse write donate blue";
+var mnemonic = "steak force bicycle amateur plate agent example scorpion weasel split enough hello";

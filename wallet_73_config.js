@@ -1,1 +1,1 @@
-var mnemonic = "tenant skirt into rural rebuild jacket isolate panther sea deputy ready wage";
+var mnemonic = "attitude clerk region reject soul miracle safe glare rescue course north total";

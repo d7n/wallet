@@ -1,1 +1,1 @@
-var mnemonic = "across hero common faith garbage sugar thank able inherit fringe divert bind";
+var mnemonic = "syrup loop amazing pave hurt ancient keep lumber mutual loyal project distance";

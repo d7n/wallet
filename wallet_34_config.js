@@ -1,1 +1,1 @@
-var mnemonic = "height ugly open ill vehicle impulse hungry bracket increase mystery toddler wage";
+var mnemonic = "bless erase fortune mule scissors nothing memory number tip damp outer swift";

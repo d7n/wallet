@@ -1,1 +1,1 @@
-var mnemonic = "creek wrong track mistake assist humble asset deputy crop trick fashion quiz";
+var mnemonic = "plastic cargo once erode notice guide paper opera sword calm alter version";

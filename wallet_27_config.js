@@ -1,1 +1,1 @@
-var mnemonic = "pioneer kangaroo friend auto grape cycle inspire ball awesome flee hood monkey";
+var mnemonic = "floor shoulder armed stamp mercy warfare suit easily churn receive close way";

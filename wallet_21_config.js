@@ -1,1 +1,1 @@
-var mnemonic = "wait table donor awful elbow amused tag ensure stool clay slight square";
+var mnemonic = "leave ugly clown hidden melody cloud noodle swim once stamp review decide";

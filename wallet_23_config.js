@@ -1,1 +1,1 @@
-var mnemonic = "quiz latin ensure near dial ostrich off boy where agent crunch toss";
+var mnemonic = "joy normal cupboard bitter hawk upper oxygen fluid near label short daring";

@@ -1,1 +1,1 @@
-var mnemonic = "eager inherit way scout stem average magic accident limb grit brain people";
+var mnemonic = "floor fiction consider piano worth air pole uphold absorb addict april stable";

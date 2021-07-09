@@ -1,1 +1,1 @@
-var mnemonic = "hand exchange sport ring loan dismiss cement kid olive priority dirt tell";
+var mnemonic = "erase gallery under town tunnel legal tobacco any system common benefit critic";

@@ -1,1 +1,1 @@
-var mnemonic = "danger grape riot exotic flag reveal orient eager weather consider giggle dream";
+var mnemonic = "stomach rib start upon drive term nasty evil puppy surface vocal off";

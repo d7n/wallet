@@ -1,1 +1,1 @@
-var mnemonic = "anger elephant thought smile need lottery pool clown census crush pepper save";
+var mnemonic = "become metal upset bicycle dolphin slim art ensure party yellow space draft";

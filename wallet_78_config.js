@@ -1,1 +1,1 @@
-var mnemonic = "vague recipe dragon install never sense census purpose direct cereal lock cube";
+var mnemonic = "rhythm volcano shoulder script discover lock sketch pride ladder garage shop appear";

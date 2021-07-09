@@ -1,1 +1,1 @@
-var mnemonic = "today draw taste feel cable slush liar slice direct exit exhaust tomato";
+var mnemonic = "lake laptop good album prize hair lumber gather knock head year cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "hole visa end business deputy differ guide slow reveal install cancel vicious";
+var mnemonic = "trial extend brass rare exile chief nut regret fold lava lamp amount";

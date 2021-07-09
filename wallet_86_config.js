@@ -1,1 +1,1 @@
-var mnemonic = "soda gesture bridge galaxy extra furnace poem just pool skull quantum increase";
+var mnemonic = "lesson fix market buyer track relax retire trophy fall flat habit enough";

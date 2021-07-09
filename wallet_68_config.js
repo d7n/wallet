@@ -1,1 +1,1 @@
-var mnemonic = "offer spot romance crime market size innocent ladder casino rude merry similar";
+var mnemonic = "hurt fury cluster useful soon cake nothing crazy physical jar pact whisper";

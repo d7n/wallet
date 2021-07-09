@@ -1,1 +1,1 @@
-var mnemonic = "control success dry aware now ride nurse pledge decade donor utility style";
+var mnemonic = "ridge stool document input come crew rescue cheese range attract garden health";

@@ -1,1 +1,1 @@
-var mnemonic = "include supreme rose breeze friend hurry nurse rely mandate interest safe mistake";
+var mnemonic = "resource tray gospel either myself steak cancel volume series grant denial rather";

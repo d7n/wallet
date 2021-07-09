@@ -1,1 +1,1 @@
-var mnemonic = "youth spray jewel gate genius moon owner also crack agent boost title";
+var mnemonic = "oblige face deal inquiry range orange word vague crawl cat nothing bench";

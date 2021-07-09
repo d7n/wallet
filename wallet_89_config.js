@@ -1,1 +1,1 @@
-var mnemonic = "health critic skull round elegant join model inch exist label trash they";
+var mnemonic = "radar brisk history opera assume armed someone climb stock square wall such";

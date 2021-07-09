@@ -1,1 +1,1 @@
-var mnemonic = "helmet room crew zebra guilt paddle medal shine target flip six radar";
+var mnemonic = "inquiry improve steel rapid antique cinnamon pair leave soda abandon cycle obvious";

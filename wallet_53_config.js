@@ -1,1 +1,1 @@
-var mnemonic = "average rubber limb twice wash coyote pull oxygen universe smoke cat fork";
+var mnemonic = "picture impact adapt task drip helmet cage purpose autumn leopard chief lamp";

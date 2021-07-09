@@ -1,1 +1,1 @@
-var mnemonic = "juice begin trap middle once consider calm window motor pink work since";
+var mnemonic = "pledge mutual faculty legend lemon used agree hire rabbit defense lab modify";

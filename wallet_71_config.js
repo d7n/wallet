@@ -1,1 +1,1 @@
-var mnemonic = "despair business concert horror answer upon praise cup kangaroo bicycle emotion script";
+var mnemonic = "cherry fix ankle paper radio unhappy absent pulse bundle evil bless friend";

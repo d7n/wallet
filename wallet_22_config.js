@@ -1,1 +1,1 @@
-var mnemonic = "know fetch choose soft tortoise banana badge tonight fiction salute special nice";
+var mnemonic = "biology elite copper start slice jealous fancy pipe amateur place curve weekend";

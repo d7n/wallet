@@ -1,1 +1,1 @@
-var mnemonic = "city oppose language project over home engine define modify mystery solution genre";
+var mnemonic = "edit wise twelve pool split grant inmate wild float sudden danger detect";
