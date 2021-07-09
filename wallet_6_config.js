@@ -1,1 +1,1 @@
-var mnemonic = "enhance outdoor sauce velvet more mesh size cupboard hip milk weather gloom";
+var mnemonic = "current robot draw goddess before found couch van gun lonely struggle sibling";

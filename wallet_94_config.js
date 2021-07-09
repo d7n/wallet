@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur ocean salmon afford iron account palace initial output bone case today";
+var mnemonic = "dance obtain convince december enrich orchard robust mechanic expire truck biology honey";

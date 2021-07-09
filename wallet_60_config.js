@@ -1,1 +1,1 @@
-var mnemonic = "sail math recipe magnet settle tornado common trip creek grit easily expand";
+var mnemonic = "theory choice rotate blur borrow dinner symbol unique focus entire cost borrow";

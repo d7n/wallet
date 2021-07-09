@@ -1,1 +1,1 @@
-var mnemonic = "offer chief pepper eye special primary notice venture volume narrow behave joke";
+var mnemonic = "arrange sleep control smile flag again romance harbor tonight degree grace country";

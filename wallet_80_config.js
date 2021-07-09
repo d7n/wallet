@@ -1,1 +1,1 @@
-var mnemonic = "vast tiger dry deliver menu old swarm notice language coil certain bacon";
+var mnemonic = "tattoo oval drill sort disorder above fall can caution camera margin loop";

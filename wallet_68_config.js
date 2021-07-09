@@ -1,1 +1,1 @@
-var mnemonic = "foam disagree gain fiscal rule tongue mixture jewel glad van reason eight";
+var mnemonic = "suggest mandate hedgehog pear hurt damage crowd physical brisk manual spare spike";

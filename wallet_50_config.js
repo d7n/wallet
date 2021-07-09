@@ -1,1 +1,1 @@
-var mnemonic = "next across pupil auction ask path salon sphere dizzy medal language another";
+var mnemonic = "cute army dignity walk digital sound kid always mind demise energy wall";

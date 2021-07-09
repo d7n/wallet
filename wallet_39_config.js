@@ -1,1 +1,1 @@
-var mnemonic = "alcohol math senior gossip utility misery pact noodle intact wire catch bar";
+var mnemonic = "report name soda bamboo inflict question bacon victory expose dish pattern hover";

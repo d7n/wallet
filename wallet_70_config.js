@@ -1,1 +1,1 @@
-var mnemonic = "pair dentist alert decide task grunt flame birth stone ship ability record";
+var mnemonic = "release illness explain flight live ceiling mandate couch foil patrol cave cargo";

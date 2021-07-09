@@ -1,1 +1,1 @@
-var mnemonic = "patient fringe legend energy sunset drum magic sting clip eight income machine";
+var mnemonic = "pepper urge hidden special ice rhythm donor symptom shiver battle coffee forum";

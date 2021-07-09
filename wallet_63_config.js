@@ -1,1 +1,1 @@
-var mnemonic = "sing place pistol brass faith spider insect strategy wrist coral liar soon";
+var mnemonic = "stuff stool host country suit home armor clay garage fantasy bulk device";

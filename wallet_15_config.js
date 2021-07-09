@@ -1,1 +1,1 @@
-var mnemonic = "material blood bacon family cloud wonder plastic upgrade desert suffer trick tray";
+var mnemonic = "dawn original trial opinion describe slim night wet portion mail coil spot";

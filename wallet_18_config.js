@@ -1,1 +1,1 @@
-var mnemonic = "indicate horn consider answer robot wagon latin shadow episode secret unusual together";
+var mnemonic = "absent truck wise menu case paddle energy birth coconut sound check tourist";

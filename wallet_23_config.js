@@ -1,1 +1,1 @@
-var mnemonic = "ketchup solid biology okay maid pass before visa matter famous run raccoon";
+var mnemonic = "purse cry fiction base annual banner tree ignore veteran mask rack insane";

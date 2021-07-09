@@ -1,1 +1,1 @@
-var mnemonic = "bunker train measure clinic embark grid math civil distance way banner country";
+var mnemonic = "sample much erase plate welcome mimic stone slogan hobby law gallery multiply";

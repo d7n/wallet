@@ -1,1 +1,1 @@
-var mnemonic = "peanut derive clean type cute hand dirt venture broken monster sick shiver";
+var mnemonic = "essay journey turn goose that clerk advice narrow pear brick hurdle salute";

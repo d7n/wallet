@@ -1,1 +1,1 @@
-var mnemonic = "scrap trumpet hand tongue rug debris fancy grunt lunch pitch interest mad";
+var mnemonic = "sock wisdom toy cram armor cycle venue allow utility talent humble prepare";

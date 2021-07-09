@@ -1,1 +1,1 @@
-var mnemonic = "universe knock throw provide hello south chronic muscle fuel wave symptom address";
+var mnemonic = "sing sponsor cargo victory faculty oppose female book blind join avoid topic";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket always cement dumb burger alter raw caution shell canal cave surround";
+var mnemonic = "bright win taxi envelope slow toast slab funny unknown else develop suffer";

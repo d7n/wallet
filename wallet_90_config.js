@@ -1,1 +1,1 @@
-var mnemonic = "dismiss butter scout illness drop reflect bitter minimum update edit laugh remember";
+var mnemonic = "school crumble situate fade cigar define online father jacket exchange mushroom snow";

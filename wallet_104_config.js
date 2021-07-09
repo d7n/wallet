@@ -1,1 +1,1 @@
-var mnemonic = "sting note reward warm cotton april scan rotate nothing runway stamp foil";
+var mnemonic = "capable holiday again post buzz roast opinion special proof lawn ability trash";

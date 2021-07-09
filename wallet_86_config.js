@@ -1,1 +1,1 @@
-var mnemonic = "owner symptom orbit begin mistake train country vintage miracle helmet movie expose";
+var mnemonic = "trophy provide direct raise couch disagree tree rug connect radio poet enrich";

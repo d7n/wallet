@@ -1,1 +1,1 @@
-var mnemonic = "mango arrive matrix crash session solve popular auction adjust degree season dial";
+var mnemonic = "kidney scrub absent tip detect often teach salute dose salt people glance";

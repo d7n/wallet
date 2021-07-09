@@ -1,1 +1,1 @@
-var mnemonic = "two light cabbage skull today glue cotton path cereal offer mechanic grace";
+var mnemonic = "weapon camp oil patient shallow funny scorpion bulk afford deliver win sausage";

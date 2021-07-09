@@ -1,1 +1,1 @@
-var mnemonic = "chunk shock antenna garment once ankle uphold pull sugar hurt jelly easy";
+var mnemonic = "tumble hollow cube distance cute decide dinner stick decline unusual cage fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "expand erupt cereal title wreck prison city pistol category naive yard worth";
+var mnemonic = "tip weekend dune alpha finish trigger clog elder goat cricket oyster trap";

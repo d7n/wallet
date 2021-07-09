@@ -1,1 +1,1 @@
-var mnemonic = "muffin purpose bubble piano age push snap endless indicate defense broom fold";
+var mnemonic = "hammer empty crowd arctic together very fox slab soda woman mixture radio";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous junior feel final off ritual scrub recycle mixed merit mandate shed";
+var mnemonic = "image impose lesson mosquito lawn remember sound evolve pill fence depth electric";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen pupil describe any vault mystery sniff rice swift prepare copy tomorrow";
+var mnemonic = "tunnel dream clog worry fancy luggage second catalog force heart practice horn";

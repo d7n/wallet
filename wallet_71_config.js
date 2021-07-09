@@ -1,1 +1,1 @@
-var mnemonic = "ramp course nation time witness balance unfair audit rural suspect pistol when";
+var mnemonic = "setup glance someone vapor buddy weather ladder attend outside area state autumn";

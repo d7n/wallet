@@ -1,1 +1,1 @@
-var mnemonic = "ocean path month media raise crush slim october crawl middle mixed nest";
+var mnemonic = "cradle used urge anger fantasy poet ordinary tumble stand crane test often";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar clutch sunny prevent dinner glory topic cruel uphold amused edge acid";
+var mnemonic = "oven youth gravity industry mask habit bullet beef blame hammer muffin fiscal";

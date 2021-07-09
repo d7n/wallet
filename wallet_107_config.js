@@ -1,1 +1,1 @@
-var mnemonic = "amount void math bring cram roast puzzle december inject worry plastic garden";
+var mnemonic = "avoid balance unhappy safe clinic depth inner wish topple mix impulse length";

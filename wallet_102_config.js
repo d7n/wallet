@@ -1,1 +1,1 @@
-var mnemonic = "minute change subject crisp choose plastic attract slim silver useless debate return";
+var mnemonic = "shiver punch twin play spread release market valid power butter total enrich";

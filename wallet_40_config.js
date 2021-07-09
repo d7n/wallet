@@ -1,1 +1,1 @@
-var mnemonic = "raw link modify blame bulb candy hero prosper muscle endless sail leader";
+var mnemonic = "throw pistol canal include nurse vital wrist relief hammer stage zebra silly";

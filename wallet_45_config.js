@@ -1,1 +1,1 @@
-var mnemonic = "glove much else cave casual comic sample goat rapid arch maximum uncle";
+var mnemonic = "club universe frame armor electric sun casino recall expect asset write student";

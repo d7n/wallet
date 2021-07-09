@@ -1,1 +1,1 @@
-var mnemonic = "cake bus drama surprise oak wreck supreme click rack half valve convince";
+var mnemonic = "stairs oil fitness chronic metal apple reflect rose trial stock canvas strong";

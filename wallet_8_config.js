@@ -1,1 +1,1 @@
-var mnemonic = "enforce funny mail ladder device hood flag assist december range judge winter";
+var mnemonic = "top during decline crane term initial high zoo blanket fire point subway";

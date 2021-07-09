@@ -1,1 +1,1 @@
-var mnemonic = "deny image fish demise betray park finger eye lawn gold elegant silent";
+var mnemonic = "coin horse educate develop tray venture weapon retreat humor lecture buyer thing";

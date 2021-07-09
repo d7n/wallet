@@ -1,1 +1,1 @@
-var mnemonic = "deer outdoor loyal barely organ escape rate market dutch road spray trophy";
+var mnemonic = "mercy approve process cloud victory joy envelope cement ignore army mushroom tooth";

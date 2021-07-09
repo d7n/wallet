@@ -1,1 +1,1 @@
-var mnemonic = "appear dad devote text snake define crack senior pink scan slab regret";
+var mnemonic = "tuition task wife source visual claw idea palm talent venue reason genre";

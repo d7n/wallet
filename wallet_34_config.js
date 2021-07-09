@@ -1,1 +1,1 @@
-var mnemonic = "sniff whip sing outer ignore unusual capable snap apart response venue pulp";
+var mnemonic = "audit ribbon drum orbit mind day vacuum fiber race trial fury brown";

@@ -1,1 +1,1 @@
-var mnemonic = "denial light tobacco short phrase minor rifle dry cream breeze van bike";
+var mnemonic = "ranch sick adjust wrist humor review this display rookie coyote pattern extra";

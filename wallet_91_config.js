@@ -1,1 +1,1 @@
-var mnemonic = "immense group flower cigar sword air someone rigid mistake cannon alley middle";
+var mnemonic = "bonus museum enforce order number glow explain camp rent recycle world detail";

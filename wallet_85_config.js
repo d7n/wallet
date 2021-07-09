@@ -1,1 +1,1 @@
-var mnemonic = "lawn cause silent fossil gym frown choose unable mobile dawn dad stick";
+var mnemonic = "popular hobby category gas perfect liar matrix congress mirror rich differ calm";

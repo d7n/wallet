@@ -1,1 +1,1 @@
-var mnemonic = "resource culture runway buyer poverty mutual winter script swap nuclear climb fly";
+var mnemonic = "calm elder remind regular finger market elegant casino spell program flush useless";

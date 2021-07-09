@@ -1,1 +1,1 @@
-var mnemonic = "tank toss cliff love jungle foot acoustic kid monster rubber jaguar comic";
+var mnemonic = "torch pig total illness keep drum sing demand damp hungry orphan inch";

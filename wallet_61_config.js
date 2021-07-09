@@ -1,1 +1,1 @@
-var mnemonic = "method use theme airport mimic luxury flower category deposit title parent diet";
+var mnemonic = "light visit thing wrap much invite crush three pear wasp twin biology";

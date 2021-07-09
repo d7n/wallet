@@ -1,1 +1,1 @@
-var mnemonic = "motion doctor genuine invite logic swear small found degree labor prosper style";
+var mnemonic = "nothing core fantasy unveil object soda soft manage evil dress narrow alone";

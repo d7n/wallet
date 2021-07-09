@@ -1,1 +1,1 @@
-var mnemonic = "tongue salmon mandate tobacco erode open idea machine impose share elevator merit";
+var mnemonic = "mixed fault emerge draft penalty onion pioneer ancient allow spot stand seminar";

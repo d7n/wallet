@@ -1,1 +1,1 @@
-var mnemonic = "wild foot tray boss prison obey rebuild they wage dove rough usual";
+var mnemonic = "pretty yard region actor street rocket oil guess purity place decline devote";

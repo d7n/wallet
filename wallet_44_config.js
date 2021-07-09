@@ -1,1 +1,1 @@
-var mnemonic = "enable change window smile toss scrub immense link relief walk lecture eager";
+var mnemonic = "master reward rich fox labor tragic giant damage matter enhance fresh travel";

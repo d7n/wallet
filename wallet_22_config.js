@@ -1,1 +1,1 @@
-var mnemonic = "piece dice way hen cloud lyrics ketchup during conduct build lava cave";
+var mnemonic = "profit plunge convince nature cotton supreme bulb title note resource spray vicious";

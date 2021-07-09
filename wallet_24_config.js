@@ -1,1 +1,1 @@
-var mnemonic = "crew story cause fan letter stumble use enforce novel lecture entire virtual";
+var mnemonic = "dentist electric music valid knife jelly reflect away obtain view comic green";

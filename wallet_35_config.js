@@ -1,1 +1,1 @@
-var mnemonic = "slight upon castle lift glance nothing page mechanic leopard kind drama warfare";
+var mnemonic = "radar repeat because tiger asset similar history retreat melt message bacon danger";

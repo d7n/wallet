@@ -1,1 +1,1 @@
-var mnemonic = "dumb sphere surround burden execute struggle melt plug attend notable spring frame";
+var mnemonic = "wrap common broken myself remove gap attract nuclear betray close deputy dance";

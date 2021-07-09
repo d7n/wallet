@@ -1,1 +1,1 @@
-var mnemonic = "invite unable vintage type farm hope eight view muffin omit habit afraid";
+var mnemonic = "regret razor such lion step alien melt canal access viable field short";

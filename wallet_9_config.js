@@ -1,1 +1,1 @@
-var mnemonic = "cigar family silver coil gym artist image vicious improve track dog reject";
+var mnemonic = "punch total private once file supreme olive funny able more current clip";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple casual vacuum matter consider hold manage sister brass bracket strong arctic";
+var mnemonic = "illegal alert trust another gloom trap fiber rookie south symbol kiwi output";

@@ -1,1 +1,1 @@
-var mnemonic = "energy sock disease trim pitch bullet pottery muscle rail senior defy diagram";
+var mnemonic = "accident balance manual fiction sleep twist object member day claim jealous flash";

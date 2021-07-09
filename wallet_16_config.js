@@ -1,1 +1,1 @@
-var mnemonic = "cry finger dream ready nation near egg sorry sign wet expand salmon";
+var mnemonic = "cotton price metal peanut company inherit prepare desk green ill rescue target";

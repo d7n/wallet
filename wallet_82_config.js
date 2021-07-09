@@ -1,1 +1,1 @@
-var mnemonic = "october bamboo input upgrade explain twice desert retreat wave jacket dash round";
+var mnemonic = "saddle dumb biology oval discover congress success tuna share edit legend analyst";

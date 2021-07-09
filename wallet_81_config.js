@@ -1,1 +1,1 @@
-var mnemonic = "slender cover multiply common abstract table start trophy acquire excuse hazard auction";
+var mnemonic = "skull later december over dawn dentist answer melody inflict gorilla wish roof";

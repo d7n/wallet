@@ -1,1 +1,1 @@
-var mnemonic = "chair must predict because arch core win aunt tiny negative skate where";
+var mnemonic = "admit fame that sibling priority tube grit else omit actress spread assume";

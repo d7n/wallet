@@ -1,1 +1,1 @@
-var mnemonic = "issue satoshi turtle hollow tank gap wet soda resemble empower choice kingdom";
+var mnemonic = "repair license grass rebuild notable knee rigid together icon quit tiger oblige";

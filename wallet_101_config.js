@@ -1,1 +1,1 @@
-var mnemonic = "pluck tortoise voyage sweet spin crumble switch doll west tell list canyon";
+var mnemonic = "museum north token guitar hire remember soda slow worth embark unaware edge";

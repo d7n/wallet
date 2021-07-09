@@ -1,1 +1,1 @@
-var mnemonic = "chapter dirt lecture gun crime toward rough brown parrot ship strategy betray";
+var mnemonic = "combine burger giant brief evolve enable submit crisp afraid sight screen devote";

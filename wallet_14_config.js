@@ -1,1 +1,1 @@
-var mnemonic = "twin gown tongue wisdom rebuild impose grief forget anxiety abandon parent put";
+var mnemonic = "tree pony abstract wait honey pencil language diesel boil found warrior chuckle";

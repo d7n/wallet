@@ -1,1 +1,1 @@
-var mnemonic = "material soap jeans banner year whisper essay actual twin fantasy devote actress";
+var mnemonic = "crash wrist decide wife round case step ball kid wish viable trophy";

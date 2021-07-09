@@ -1,1 +1,1 @@
-var mnemonic = "age concert upper injury decline chuckle firm copper danger latin excuse answer";
+var mnemonic = "case inject minimum add soldier matrix stove horn mention vacuum hurt verify";

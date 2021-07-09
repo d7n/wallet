@@ -1,1 +1,1 @@
-var mnemonic = "brand spawn resource wrist forest wild sound hair robust light hope current";
+var mnemonic = "tribe mercy always this spot chase salad endless moon crisp crime shiver";

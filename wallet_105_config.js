@@ -1,1 +1,1 @@
-var mnemonic = "sure gossip debris body gaze concert milk diagram shove solution apart sport";
+var mnemonic = "nut turn broken alcohol crush six dawn raven desk debate evolve enjoy";

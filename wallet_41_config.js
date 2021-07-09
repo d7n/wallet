@@ -1,1 +1,1 @@
-var mnemonic = "matrix citizen normal term obtain rookie uniform swing produce floor three parent";
+var mnemonic = "tongue page until sketch plunge submit apart hobby doctor fade payment source";

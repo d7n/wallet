@@ -1,1 +1,1 @@
-var mnemonic = "forest episode evoke fruit circle tiger across rescue price unhappy goat soldier";
+var mnemonic = "battle dilemma west tongue tackle cousin high often mixture repair magic sure";

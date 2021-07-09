@@ -1,1 +1,1 @@
-var mnemonic = "deer number onion thing target clever number click muscle message alien frost";
+var mnemonic = "start anchor pass lizard axis vicious much about purpose chronic video detail";

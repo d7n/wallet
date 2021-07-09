@@ -1,1 +1,1 @@
-var mnemonic = "board black pelican plastic rookie answer cannon clip power away motor security";
+var mnemonic = "session tired speak force slim leader whip tank bacon mother blood melody";

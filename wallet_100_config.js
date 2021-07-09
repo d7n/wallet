@@ -1,1 +1,1 @@
-var mnemonic = "basic lesson fiscal write valve pulse play change demand rival chalk glare";
+var mnemonic = "wing august nerve dinosaur force bamboo cat quiz turn lizard thunder fringe";

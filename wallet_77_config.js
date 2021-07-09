@@ -1,1 +1,1 @@
-var mnemonic = "sudden timber try design because lumber lake blast twin wait fence speed";
+var mnemonic = "nasty naive spoon shine stamp donate hybrid poem similar often panel source";

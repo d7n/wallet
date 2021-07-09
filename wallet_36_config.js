@@ -1,1 +1,1 @@
-var mnemonic = "clever print gadget diary firm sniff battle hamster mango flavor tuition hungry";
+var mnemonic = "team mention toe attack thrive wolf extra animal loud satisfy enter domain";

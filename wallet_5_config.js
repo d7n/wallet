@@ -1,1 +1,1 @@
-var mnemonic = "army lab autumn gossip memory index wage boil dish toddler road snake";
+var mnemonic = "hybrid arch garlic muffin moment mixed cost regret salt neither elbow alarm";

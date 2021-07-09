@@ -1,1 +1,1 @@
-var mnemonic = "used define direct race dawn hamster force blue submit will sheriff vacant";
+var mnemonic = "reward acid tennis first hammer ready arrest emerge volcano lizard cave long";

@@ -1,1 +1,1 @@
-var mnemonic = "egg benefit execute long wait assist neither equip wrap place inform busy";
+var mnemonic = "scatter poem cloth glance indicate skill crack citizen exhaust remove inflict gold";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin dwarf close improve balcony doll erosion exist trophy used ranch fun";
+var mnemonic = "mom safe twice dance behave dose weapon bean brief route drum useful";

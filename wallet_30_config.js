@@ -1,1 +1,1 @@
-var mnemonic = "three misery dog room concert cat capable buddy hero add estate habit";
+var mnemonic = "minute draw maple shoe nose deposit field toss price key jar crash";

@@ -1,1 +1,1 @@
-var mnemonic = "sign vault sweet nominee fade fit nest husband faculty true gauge rice";
+var mnemonic = "loan beef little maid little ancient taste stand bounce glow draft forum";

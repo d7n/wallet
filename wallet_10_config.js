@@ -1,1 +1,1 @@
-var mnemonic = "under until fashion list joy moral bracket tuna just poverty brass alcohol";
+var mnemonic = "deny glance feature two spend confirm lady cereal buzz phone autumn kitten";

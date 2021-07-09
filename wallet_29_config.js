@@ -1,1 +1,1 @@
-var mnemonic = "bottom old fiscal estate test throw evolve dose bread nation bounce critic";
+var mnemonic = "infant benefit barely swear plunge route civil gaze shaft vault age impose";

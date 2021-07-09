@@ -1,1 +1,1 @@
-var mnemonic = "midnight approve meat interest palm transfer torch barely gauge pony dress camera";
+var mnemonic = "mixed paper siege palace devote cable spring vital pair sort sudden add";

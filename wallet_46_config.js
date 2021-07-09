@@ -1,1 +1,1 @@
-var mnemonic = "invite worry organ remind busy knife disagree repair book gossip muscle spice";
+var mnemonic = "ring direct hurdle deliver immune leg science gather bargain actor yard giggle";

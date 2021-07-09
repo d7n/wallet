@@ -1,1 +1,1 @@
-var mnemonic = "alert attract people few wolf same announce humble aerobic exclude betray cigar";
+var mnemonic = "movie knife soft agree audit exit blood planet royal lunar code dance";

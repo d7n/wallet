@@ -1,1 +1,1 @@
-var mnemonic = "rocket palace pilot inspire caught enemy pair sun immune cave lottery solution";
+var mnemonic = "crisp wing coyote code vague key wage loyal across victory hurry garden";

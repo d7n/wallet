@@ -1,1 +1,1 @@
-var mnemonic = "wine cloth divide gain mad art all gospel seminar idea cry delay";
+var mnemonic = "success verify minute room noise nasty wreck live body orbit staff stock";

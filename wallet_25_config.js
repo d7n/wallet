@@ -1,1 +1,1 @@
-var mnemonic = "hero document settle brief gown tag example stick shiver guide select bonus";
+var mnemonic = "mom divide when curious strong age stairs honey slogan dignity welcome idea";

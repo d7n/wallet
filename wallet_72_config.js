@@ -1,1 +1,1 @@
-var mnemonic = "boost slam peanut economy grace frozen barely photo swear fence powder grocery";
+var mnemonic = "ladder stone ticket taxi carbon duty local issue spawn embrace load list";
