@@ -1,1 +1,1 @@
-var mnemonic = "lemon category twist awkward bike battle double bundle hurt divide fold latin";
+var mnemonic = "material soap jeans banner year whisper essay actual twin fantasy devote actress";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics roof symptom hand acquire husband walnut scrub tomorrow mask decorate february";
+var mnemonic = "napkin dwarf close improve balcony doll erosion exist trophy used ranch fun";

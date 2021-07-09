@@ -1,1 +1,1 @@
-var mnemonic = "gospel true marble empty camera soccer gravity power menu wise hub shop";
+var mnemonic = "enhance outdoor sauce velvet more mesh size cupboard hip milk weather gloom";

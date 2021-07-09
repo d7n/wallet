@@ -1,1 +1,1 @@
-var mnemonic = "truck legal useless title believe talk between hair solution depend denial blur";
+var mnemonic = "minute change subject crisp choose plastic attract slim silver useless debate return";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel measure infant such inform goddess jewel term metal lift dove pepper";
+var mnemonic = "alert attract people few wolf same announce humble aerobic exclude betray cigar";

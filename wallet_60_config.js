@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tattoo bacon pink celery balcony dawn chest fall armor canvas purse";
+var mnemonic = "sail math recipe magnet settle tornado common trip creek grit easily expand";

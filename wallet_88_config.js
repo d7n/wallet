@@ -1,1 +1,1 @@
-var mnemonic = "usage grape holiday middle save topple void true shrimp eternal venue cancel";
+var mnemonic = "deer number onion thing target clever number click muscle message alien frost";

@@ -1,1 +1,1 @@
-var mnemonic = "range sentence pipe enjoy equip gown kingdom frost egg notice ostrich milk";
+var mnemonic = "mango arrive matrix crash session solve popular auction adjust degree season dial";

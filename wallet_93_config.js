@@ -1,1 +1,1 @@
-var mnemonic = "toe february scrap horn dinosaur wet sad almost inherit vanish two autumn";
+var mnemonic = "ripple casual vacuum matter consider hold manage sister brass bracket strong arctic";

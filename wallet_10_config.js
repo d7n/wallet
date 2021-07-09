@@ -1,1 +1,1 @@
-var mnemonic = "display recall helmet riot clinic horse divert canyon margin ugly whip kidney";
+var mnemonic = "under until fashion list joy moral bracket tuna just poverty brass alcohol";

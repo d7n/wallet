@@ -1,1 +1,1 @@
-var mnemonic = "purse pattern unlock exile senior quick proud excess thank vault indoor drink";
+var mnemonic = "flower merge accident enforce engage sniff either table shop aisle jungle perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "offer night gap under merge solar egg rack tone accuse clump laptop";
+var mnemonic = "cricket always cement dumb burger alter raw caution shell canal cave surround";

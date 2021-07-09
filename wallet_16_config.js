@@ -1,1 +1,1 @@
-var mnemonic = "truck hair ivory merry smoke slight cause ensure fire hurdle swim adjust";
+var mnemonic = "cry finger dream ready nation near egg sorry sign wet expand salmon";

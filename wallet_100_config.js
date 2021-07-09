@@ -1,1 +1,1 @@
-var mnemonic = "essence legal yellow comfort response apart winner repeat repair element pass water";
+var mnemonic = "basic lesson fiscal write valve pulse play change demand rival chalk glare";

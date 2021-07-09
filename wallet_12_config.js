@@ -1,1 +1,1 @@
-var mnemonic = "inquiry hotel dwarf calm flash wealth attack gym mango artist sibling social";
+var mnemonic = "crouch banana never setup clutch impact bottom leaf south sense flip sphere";

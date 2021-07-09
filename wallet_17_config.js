@@ -1,1 +1,1 @@
-var mnemonic = "picnic canal lucky caution pony offer draft okay dance pluck level hobby";
+var mnemonic = "wild foot tray boss prison obey rebuild they wage dove rough usual";

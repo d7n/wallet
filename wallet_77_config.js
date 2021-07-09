@@ -1,1 +1,1 @@
-var mnemonic = "inject stumble catalog cattle million jacket farm main borrow orchard perfect must";
+var mnemonic = "sudden timber try design because lumber lake blast twin wait fence speed";

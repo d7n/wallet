@@ -1,1 +1,1 @@
-var mnemonic = "usual horror cover loyal zero lemon weird impose surround dress siege surface";
+var mnemonic = "sting note reward warm cotton april scan rotate nothing runway stamp foil";

@@ -1,1 +1,1 @@
-var mnemonic = "truly alter way black until loan decorate stamp shed right session mimic";
+var mnemonic = "invite unable vintage type farm hope eight view muffin omit habit afraid";

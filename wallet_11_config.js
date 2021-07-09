@@ -1,1 +1,1 @@
-var mnemonic = "rather punch canvas obey sad snake hole oppose fluid typical naive tennis";
+var mnemonic = "glide once library knee dress size cage desert strategy defy grass champion";

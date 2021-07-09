@@ -1,1 +1,1 @@
-var mnemonic = "voyage include donkey unfold shiver clinic tornado impact learn friend rotate fever";
+var mnemonic = "vote year real spatial salt water orient submit hold plate unique ability";

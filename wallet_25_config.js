@@ -1,1 +1,1 @@
-var mnemonic = "sting legal evil tennis human oppose define deer venue lawn goose neither";
+var mnemonic = "hero document settle brief gown tag example stick shiver guide select bonus";

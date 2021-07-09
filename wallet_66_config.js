@@ -1,1 +1,1 @@
-var mnemonic = "begin winter reopen suspect amateur finish stadium sport round emotion sentence borrow";
+var mnemonic = "reform oppose collect drive profit rally bright cool concert gentle liar potato";

@@ -1,1 +1,1 @@
-var mnemonic = "faint fossil nature special artist turkey fury pudding end early network topic";
+var mnemonic = "brand spawn resource wrist forest wild sound hair robust light hope current";

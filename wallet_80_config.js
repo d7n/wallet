@@ -1,1 +1,1 @@
-var mnemonic = "found ahead loud leaf mixture shop stamp fabric reveal cry unable aware";
+var mnemonic = "vast tiger dry deliver menu old swarm notice language coil certain bacon";

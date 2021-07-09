@@ -1,1 +1,1 @@
-var mnemonic = "frame wood inform sudden quality wet water medal clip trip food hobby";
+var mnemonic = "side story rice roast crystal arch craft energy also horror quote clog";

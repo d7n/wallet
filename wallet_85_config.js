@@ -1,1 +1,1 @@
-var mnemonic = "purity cloth case right pole sausage elder door become month gold weasel";
+var mnemonic = "lawn cause silent fossil gym frown choose unable mobile dawn dad stick";

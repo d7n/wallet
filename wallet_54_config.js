@@ -1,1 +1,1 @@
-var mnemonic = "lunar add narrow alter human renew december pulse lion fat dial abandon";
+var mnemonic = "scrap trumpet hand tongue rug debris fancy grunt lunch pitch interest mad";

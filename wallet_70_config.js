@@ -1,1 +1,1 @@
-var mnemonic = "bomb now merry glory garden capable timber chuckle accident hand end tomorrow";
+var mnemonic = "pair dentist alert decide task grunt flame birth stone ship ability record";

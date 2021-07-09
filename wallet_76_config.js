@@ -1,1 +1,1 @@
-var mnemonic = "forum push lab panther frame universe lecture nice mistake blood wood clutch";
+var mnemonic = "tongue salmon mandate tobacco erode open idea machine impose share elevator merit";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose aunt rigid fetch myth method view vacuum skirt year that sustain";
+var mnemonic = "immense group flower cigar sword air someone rigid mistake cannon alley middle";

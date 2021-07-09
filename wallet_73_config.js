@@ -1,1 +1,1 @@
-var mnemonic = "genuine fringe clutch birth limit antenna student intact know banner accuse rack";
+var mnemonic = "affair cover similar girl debris matrix market giggle upgrade palm guilt violin";

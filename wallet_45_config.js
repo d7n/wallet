@@ -1,1 +1,1 @@
-var mnemonic = "lake spice say pudding blast jungle city country scare denial praise boss";
+var mnemonic = "glove much else cave casual comic sample goat rapid arch maximum uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket wall ancient whip resemble pause uncle habit dinner blush express oppose";
+var mnemonic = "twin gown tongue wisdom rebuild impose grief forget anxiety abandon parent put";

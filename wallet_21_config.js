@@ -1,1 +1,1 @@
-var mnemonic = "sword enemy manual ritual hero test spatial charge poem either saddle finger";
+var mnemonic = "oxygen pupil describe any vault mystery sniff rice swift prepare copy tomorrow";

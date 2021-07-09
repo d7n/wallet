@@ -1,1 +1,1 @@
-var mnemonic = "maze squirrel consider nation hip occur dawn harbor version mobile bulk north";
+var mnemonic = "indicate horn consider answer robot wagon latin shadow episode secret unusual together";

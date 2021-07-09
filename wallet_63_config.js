@@ -1,1 +1,1 @@
-var mnemonic = "scissors invest twice blast blast staff animal timber brown when name family";
+var mnemonic = "sing place pistol brass faith spider insect strategy wrist coral liar soon";

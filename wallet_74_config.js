@@ -1,1 +1,1 @@
-var mnemonic = "dice hurdle ensure spread sail craft maid minimum come sister urge toe";
+var mnemonic = "resource culture runway buyer poverty mutual winter script swap nuclear climb fly";

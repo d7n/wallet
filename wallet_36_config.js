@@ -1,1 +1,1 @@
-var mnemonic = "park dumb rebuild harvest engine tunnel subway galaxy winter armed age thumb";
+var mnemonic = "clever print gadget diary firm sniff battle hamster mango flavor tuition hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "slot neutral since picnic order decide host eight afraid era speak tattoo";
+var mnemonic = "patient fringe legend energy sunset drum magic sting clip eight income machine";

@@ -1,1 +1,1 @@
-var mnemonic = "utility since guard bench cause innocent know pioneer monster exile mutual idea";
+var mnemonic = "ketchup solid biology okay maid pass before visa matter famous run raccoon";

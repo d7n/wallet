@@ -1,1 +1,1 @@
-var mnemonic = "puppy weekend trophy flat fatigue pluck raise spring illegal noble left permit";
+var mnemonic = "cigar family silver coil gym artist image vicious improve track dog reject";

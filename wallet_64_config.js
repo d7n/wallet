@@ -1,1 +1,1 @@
-var mnemonic = "prefer ten brief course suspect crawl donor copper sail immense guide axis";
+var mnemonic = "chapter dirt lecture gun crime toward rough brown parrot ship strategy betray";

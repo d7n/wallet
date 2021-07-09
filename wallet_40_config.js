@@ -1,1 +1,1 @@
-var mnemonic = "voice soccer solve slight awful space assault fade cart shine ask network";
+var mnemonic = "raw link modify blame bulb candy hero prosper muscle endless sail leader";

@@ -1,1 +1,1 @@
-var mnemonic = "okay flush olympic have parent short marriage deputy excess member cricket rough";
+var mnemonic = "sign vault sweet nominee fade fit nest husband faculty true gauge rice";

@@ -1,1 +1,1 @@
-var mnemonic = "tray normal toilet scan eight young tooth kiwi unfair glue slab zoo";
+var mnemonic = "wine cloth divide gain mad art all gospel seminar idea cry delay";

@@ -1,1 +1,1 @@
-var mnemonic = "month super tobacco scatter daring sorry toward fun trigger thunder vintage pact";
+var mnemonic = "amount void math bring cram roast puzzle december inject worry plastic garden";

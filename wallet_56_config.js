@@ -1,1 +1,1 @@
-var mnemonic = "warfare awful wonder dinner scrub polar vivid hammer dish possible evil will";
+var mnemonic = "fatigue eyebrow vague doctor vault light lucky inhale improve language garbage video";

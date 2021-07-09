@@ -1,1 +1,1 @@
-var mnemonic = "clip cluster drink any cluster patrol skirt cruel limb combine uncle blanket";
+var mnemonic = "age concert upper injury decline chuckle firm copper danger latin excuse answer";

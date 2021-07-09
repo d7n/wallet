@@ -1,1 +1,1 @@
-var mnemonic = "company warm zone caution cherry decline rally sunny blossom hedgehog pigeon response";
+var mnemonic = "peanut derive clean type cute hand dirt venture broken monster sick shiver";

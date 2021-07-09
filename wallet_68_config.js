@@ -1,1 +1,1 @@
-var mnemonic = "attack satisfy this float seminar belt middle current embark pledge describe gas";
+var mnemonic = "foam disagree gain fiscal rule tongue mixture jewel glad van reason eight";

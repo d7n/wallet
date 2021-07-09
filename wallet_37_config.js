@@ -1,1 +1,1 @@
-var mnemonic = "space crawl custom double silly bone dream siege tuna easy update save";
+var mnemonic = "denial light tobacco short phrase minor rifle dry cream breeze van bike";

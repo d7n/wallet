@@ -1,1 +1,1 @@
-var mnemonic = "own cactus area asthma argue bind slot edit suggest siege fog minimum";
+var mnemonic = "midnight approve meat interest palm transfer torch barely gauge pony dress camera";

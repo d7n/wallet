@@ -1,1 +1,1 @@
-var mnemonic = "wheel quote cave verify tent suspect work benefit oyster today erupt library";
+var mnemonic = "sniff whip sing outer ignore unusual capable snap apart response venue pulp";

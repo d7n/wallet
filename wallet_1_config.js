@@ -1,1 +1,1 @@
-var mnemonic = "reopen inquiry barely retreat alert elder flock gallery abstract access razor turtle";
+var mnemonic = "cake bus drama surprise oak wreck supreme click rack half valve convince";

@@ -1,1 +1,1 @@
-var mnemonic = "aware toast social rice other transfer name flee real pottery museum flash";
+var mnemonic = "enroll valley erosion hood electric heart choice mosquito boy zone hobby laptop";

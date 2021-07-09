@@ -1,1 +1,1 @@
-var mnemonic = "grass federal guide quality cabbage orphan alley anxiety share intact bottom learn";
+var mnemonic = "dismiss butter scout illness drop reflect bitter minimum update edit laugh remember";

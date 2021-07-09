@@ -1,1 +1,1 @@
-var mnemonic = "fitness summer ivory bacon source arm vacuum together dance retire hockey patch";
+var mnemonic = "chair must predict because arch core win aunt tiny negative skate where";

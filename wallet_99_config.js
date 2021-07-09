@@ -1,1 +1,1 @@
-var mnemonic = "minute bicycle town ecology survey again guard account wife duck minor faith";
+var mnemonic = "enjoy hold town decorate design outer pupil defense logic film cable strike";

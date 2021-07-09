@@ -1,1 +1,1 @@
-var mnemonic = "cargo flush volume mushroom nice general stick cannon stable clip energy measure";
+var mnemonic = "bunker train measure clinic embark grid math civil distance way banner country";

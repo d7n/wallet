@@ -1,1 +1,1 @@
-var mnemonic = "bulb steak home awkward stock boat output purpose hip focus inhale blast";
+var mnemonic = "panther better space rate reason cereal insect grit depart demand kiss left";

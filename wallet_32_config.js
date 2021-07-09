@@ -1,1 +1,1 @@
-var mnemonic = "tell sea wink museum usage profit analyst dumb unlock lemon tip hello";
+var mnemonic = "issue satoshi turtle hollow tank gap wet soda resemble empower choice kingdom";

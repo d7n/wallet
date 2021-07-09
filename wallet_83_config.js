@@ -1,1 +1,1 @@
-var mnemonic = "vague agent exhaust island account all prize differ bridge wave yellow rocket";
+var mnemonic = "appear dad devote text snake define crack senior pink scan slab regret";

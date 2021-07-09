@@ -1,1 +1,1 @@
-var mnemonic = "frown rocket enrich wet safe behind uniform unique lady subject nasty combine";
+var mnemonic = "enforce funny mail ladder device hood flag assist december range judge winter";

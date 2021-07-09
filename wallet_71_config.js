@@ -1,1 +1,1 @@
-var mnemonic = "under that spread tower wine twenty claw dragon nuclear unfold style sketch";
+var mnemonic = "ramp course nation time witness balance unfair audit rural suspect pistol when";

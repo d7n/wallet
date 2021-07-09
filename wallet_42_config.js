@@ -1,1 +1,1 @@
-var mnemonic = "live village knock thank media predict thumb sweet puppy cable face current";
+var mnemonic = "rocket palace pilot inspire caught enemy pair sun immune cave lottery solution";

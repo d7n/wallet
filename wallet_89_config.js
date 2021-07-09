@@ -1,1 +1,1 @@
-var mnemonic = "bundle okay clock lava bless rescue across vocal milk island cluster enemy";
+var mnemonic = "energy sock disease trim pitch bullet pottery muscle rail senior defy diagram";

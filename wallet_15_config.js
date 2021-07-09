@@ -1,1 +1,1 @@
-var mnemonic = "pioneer assist child protect uncover clean viable comfort outer scan bounce chicken";
+var mnemonic = "material blood bacon family cloud wonder plastic upgrade desert suffer trick tray";

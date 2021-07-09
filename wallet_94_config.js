@@ -1,1 +1,1 @@
-var mnemonic = "jaguar quote breeze general sell cream sword legal hen truck small advice";
+var mnemonic = "dinosaur ocean salmon afford iron account palace initial output bone case today";

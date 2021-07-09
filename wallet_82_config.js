@@ -1,1 +1,1 @@
-var mnemonic = "loyal notice there combine ancient thrive quote degree robot dentist spray match";
+var mnemonic = "october bamboo input upgrade explain twice desert retreat wave jacket dash round";

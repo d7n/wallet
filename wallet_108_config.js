@@ -1,1 +1,1 @@
-var mnemonic = "surge cake hover confirm napkin lonely trip kite jewel unknown other shaft";
+var mnemonic = "ocean path month media raise crush slim october crawl middle mixed nest";

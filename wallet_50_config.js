@@ -1,1 +1,1 @@
-var mnemonic = "vendor possible elephant helmet inmate outdoor blanket employ october help caution more";
+var mnemonic = "next across pupil auction ask path salon sphere dizzy medal language another";

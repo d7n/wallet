@@ -1,1 +1,1 @@
-var mnemonic = "useless clerk emerge object hero laundry guitar labor despair injury analyst canoe";
+var mnemonic = "motion doctor genuine invite logic swear small found degree labor prosper style";

@@ -1,1 +1,1 @@
-var mnemonic = "rely favorite comic actor love blind dish almost stumble speed icon tail";
+var mnemonic = "seminar clutch sunny prevent dinner glory topic cruel uphold amused edge acid";

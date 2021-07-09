@@ -1,1 +1,1 @@
-var mnemonic = "blood enjoy carry current neither arrive blanket multiply gasp correct find blush";
+var mnemonic = "tank toss cliff love jungle foot acoustic kid monster rubber jaguar comic";

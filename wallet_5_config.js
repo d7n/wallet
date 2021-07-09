@@ -1,1 +1,1 @@
-var mnemonic = "bulk sign make start south sentence special grace place space fiscal plunge";
+var mnemonic = "army lab autumn gossip memory index wage boil dish toddler road snake";

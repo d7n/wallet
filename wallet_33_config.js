@@ -1,1 +1,1 @@
-var mnemonic = "soup upgrade afford stage era shallow cage bonus wait van response present";
+var mnemonic = "deer outdoor loyal barely organ escape rate market dutch road spray trophy";

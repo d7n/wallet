@@ -1,1 +1,1 @@
-var mnemonic = "sword garbage anger coral omit balcony bomb tiny detect glory aware rude";
+var mnemonic = "used define direct race dawn hamster force blue submit will sheriff vacant";

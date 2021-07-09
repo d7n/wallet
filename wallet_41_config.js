@@ -1,1 +1,1 @@
-var mnemonic = "lake math draft sadness flush rather invest indoor near exit theme boat";
+var mnemonic = "matrix citizen normal term obtain rookie uniform swing produce floor three parent";

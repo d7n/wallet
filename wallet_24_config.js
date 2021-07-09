@@ -1,1 +1,1 @@
-var mnemonic = "ripple warfare young similar oil brother code mushroom home father awesome kingdom";
+var mnemonic = "crew story cause fan letter stumble use enforce novel lecture entire virtual";

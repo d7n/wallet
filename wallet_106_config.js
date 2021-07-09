@@ -1,1 +1,1 @@
-var mnemonic = "scrub jump net alarm drastic just regular swap abandon demand island drink";
+var mnemonic = "muffin purpose bubble piano age push snap endless indicate defense broom fold";

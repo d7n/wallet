@@ -1,1 +1,1 @@
-var mnemonic = "winner napkin inch bonus keen tooth spawn try combine divorce ancient bike";
+var mnemonic = "forest episode evoke fruit circle tiger across rescue price unhappy goat soldier";

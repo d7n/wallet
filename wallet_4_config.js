@@ -1,1 +1,1 @@
-var mnemonic = "lens mountain mystery monster rude infant rice boss slow suit funny menu";
+var mnemonic = "universe knock throw provide hello south chronic muscle fuel wave symptom address";

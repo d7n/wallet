@@ -1,1 +1,1 @@
-var mnemonic = "sweet palm tunnel height position fluid forest innocent gesture account kick weasel";
+var mnemonic = "two light cabbage skull today glue cotton path cereal offer mechanic grace";

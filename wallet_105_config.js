@@ -1,1 +1,1 @@
-var mnemonic = "alert gym check city wise fringe dog unveil lady depth caught casino";
+var mnemonic = "sure gossip debris body gaze concert milk diagram shove solution apart sport";

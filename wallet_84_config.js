@@ -1,1 +1,1 @@
-var mnemonic = "cargo verify gown other dust buffalo random evolve surge unlock demise fold";
+var mnemonic = "deny image fish demise betray park finger eye lawn gold elegant silent";
