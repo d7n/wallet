@@ -1,1 +1,1 @@
-var mnemonic = "stable primary avocado elbow hood chest meat rent aspect bar exchange retire";
+var mnemonic = "invest amateur icon rare avoid eternal radar rocket camp negative weird extra";

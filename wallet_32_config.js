@@ -1,1 +1,1 @@
-var mnemonic = "arena current net rough cage veteran sign blanket mixture script famous indoor";
+var mnemonic = "burst junk trim network spin shield jump actual churn student obtain rely";

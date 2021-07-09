@@ -1,1 +1,1 @@
-var mnemonic = "horn nurse idle shoe own feed subway edit snow fee above require";
+var mnemonic = "afraid mandate brand chunk trouble sample fossil parrot guitar pledge shoot dragon";

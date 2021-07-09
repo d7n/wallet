@@ -1,1 +1,1 @@
-var mnemonic = "wine drift trip logic warrior forward unfold melt uncle derive kit ozone";
+var mnemonic = "gown cement source wise fever shield wash make advice adapt window actress";

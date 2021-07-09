@@ -1,1 +1,1 @@
-var mnemonic = "truth section dial spike spoil alpha when cupboard discover warrior rebuild good";
+var mnemonic = "shallow school vicious share squeeze tent swift cube traffic embark parrot timber";

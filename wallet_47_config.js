@@ -1,1 +1,1 @@
-var mnemonic = "grant finish drip wedding twist public vicious win inside puzzle roast flat";
+var mnemonic = "text split uncle faculty flower table recipe unveil home helmet thing menu";

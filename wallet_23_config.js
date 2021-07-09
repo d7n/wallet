@@ -1,1 +1,1 @@
-var mnemonic = "dish immense nice loan wild excuse catalog robot hotel machine special erosion";
+var mnemonic = "guilt remain viable appear hope abstract sing olive mandate trophy magic youth";

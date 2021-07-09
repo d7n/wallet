@@ -1,1 +1,1 @@
-var mnemonic = "impose nose nerve sadness burst end blast example sail void live across";
+var mnemonic = "aunt illness observe wire olive voice merge debate memory fame unit chicken";

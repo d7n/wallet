@@ -1,1 +1,1 @@
-var mnemonic = "asthma entry siege famous all quarter exchange cricket become old follow exact";
+var mnemonic = "spawn area cash ugly earn brain pool often situate pond online column";

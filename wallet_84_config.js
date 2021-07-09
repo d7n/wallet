@@ -1,1 +1,1 @@
-var mnemonic = "winter buddy electric tray final grit gentle utility sketch tail clump tuition";
+var mnemonic = "fresh danger miss jewel erase jacket frozen error oval silver citizen page";

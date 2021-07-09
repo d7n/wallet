@@ -1,1 +1,1 @@
-var mnemonic = "enjoy such liberty dentist push vast romance depth fruit burger culture bundle";
+var mnemonic = "shock just elder spoon shed since liquid boost book glove grass delay";

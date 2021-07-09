@@ -1,1 +1,1 @@
-var mnemonic = "lion cluster dress script frost guilt mirror fabric remain weapon false author";
+var mnemonic = "analyst minimum turn canvas walnut tortoise bracket embrace rally mistake various stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "tray squeeze cover tube useful require elder share vast olympic point six";
+var mnemonic = "damage jelly juice slab favorite winner spring torch amateur buffalo alone middle";

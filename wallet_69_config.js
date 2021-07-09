@@ -1,1 +1,1 @@
-var mnemonic = "achieve attack erupt stone cream evolve defy february note basket focus liquid";
+var mnemonic = "hunt grid pyramid rare december pumpkin wheat hurdle salt valley rule culture";

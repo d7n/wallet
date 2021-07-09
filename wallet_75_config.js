@@ -1,1 +1,1 @@
-var mnemonic = "fancy december month planet present file later pool walk solution captain fox";
+var mnemonic = "slide disorder swap spawn throw general proof buffalo crawl tree entire topic";

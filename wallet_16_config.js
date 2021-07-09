@@ -1,1 +1,1 @@
-var mnemonic = "early aunt sadness upset neither sort era strategy tool eyebrow flash rebuild";
+var mnemonic = "slice security regret cake shadow army lady sunset ostrich drill dizzy thing";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle voyage leave winner scissors morning reject moon deputy sight donate decide";
+var mnemonic = "shell surface flock front shaft flee jeans detail raise friend lion guess";

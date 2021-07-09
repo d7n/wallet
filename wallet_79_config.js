@@ -1,1 +1,1 @@
-var mnemonic = "occur omit sketch wife shallow album surge reform nuclear regular bring cute";
+var mnemonic = "confirm find first ridge race power scatter among oppose taste apology involve";

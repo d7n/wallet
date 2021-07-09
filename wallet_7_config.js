@@ -1,1 +1,1 @@
-var mnemonic = "pottery because life still liberty minute dove light away maximum trophy pistol";
+var mnemonic = "canal dawn thumb cage bitter approve under wink digital royal math height";

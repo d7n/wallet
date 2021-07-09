@@ -1,1 +1,1 @@
-var mnemonic = "crawl path hip board civil snake distance pen bar cash manual across";
+var mnemonic = "fee please excuse tissue sure laundry promote brief reason suffer cinnamon visa";

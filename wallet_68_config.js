@@ -1,1 +1,1 @@
-var mnemonic = "swim trap supreme crack project drink wasp dove chair hair cup repair";
+var mnemonic = "outside supply body joy repair burger rigid shop isolate gap upgrade brother";

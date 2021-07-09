@@ -1,1 +1,1 @@
-var mnemonic = "excess hungry vote useless ozone network rebuild east affair turn lunar hip";
+var mnemonic = "clutch school noise hazard quit capital ball accident garment derive ball hammer";

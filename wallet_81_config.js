@@ -1,1 +1,1 @@
-var mnemonic = "voyage bargain junk inform ski lawsuit apology lady uncover estate since hollow";
+var mnemonic = "wise where empower vehicle supreme genre brave hidden brass cube fiber blue";

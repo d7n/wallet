@@ -1,1 +1,1 @@
-var mnemonic = "point divert immune south weapon liberty anxiety deputy jar pattern raven page";
+var mnemonic = "report finger time rival indoor tower element wife tape rotate truth fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate clever eagle forum iron jelly ritual example vocal witness brown you";
+var mnemonic = "enemy army voice wheel dose hat puppy tobacco vote vacuum razor concert";

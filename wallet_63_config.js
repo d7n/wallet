@@ -1,1 +1,1 @@
-var mnemonic = "public cool flat sentence adjust dice organ ask write example soon problem";
+var mnemonic = "goat frozen truth post unveil error adapt whisper tongue wagon alley famous";

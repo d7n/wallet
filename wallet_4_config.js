@@ -1,1 +1,1 @@
-var mnemonic = "scrap shrug thunder pencil crack base peace kit tonight large negative giant";
+var mnemonic = "own borrow artefact settle expect rubber gaze credit clump dragon kit trash";

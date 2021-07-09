@@ -1,1 +1,1 @@
-var mnemonic = "gate salad young blur coffee wedding elder echo wage twelve online core";
+var mnemonic = "question future fragile safe dog flat item inflict open wide floor hobby";

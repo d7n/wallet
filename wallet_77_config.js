@@ -1,1 +1,1 @@
-var mnemonic = "general labor praise replace imitate rude moment sun mobile boy cupboard sample";
+var mnemonic = "verify stock laugh say because alone abstract happy novel main ugly sugar";

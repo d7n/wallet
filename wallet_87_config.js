@@ -1,1 +1,1 @@
-var mnemonic = "olive arm cradle alarm math tissue derive sister team connect excess virus";
+var mnemonic = "piece vault amateur change pear door quit idle reject tired quarter poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf drink grant code beauty boost maximum tiny future cradle behind toddler";
+var mnemonic = "aunt subject hurt pumpkin hurry silver cricket hollow accident stable fiscal second";

@@ -1,1 +1,1 @@
-var mnemonic = "change column tortoise civil elite quantum focus charge program swim source film";
+var mnemonic = "submit chaos manual denial disease village clerk obscure sponsor pottery tortoise insect";

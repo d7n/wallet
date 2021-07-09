@@ -1,1 +1,1 @@
-var mnemonic = "lemon library idea kiss solar air trade blind dinner potato half chaos";
+var mnemonic = "today faculty unfold relief forward child inhale display link imitate ceiling token";

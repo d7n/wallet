@@ -1,1 +1,1 @@
-var mnemonic = "error like box earn alley silent happy cinnamon hero person lecture bubble";
+var mnemonic = "logic rapid range crater poem food that lyrics code laptop agree brother";

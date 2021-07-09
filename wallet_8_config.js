@@ -1,1 +1,1 @@
-var mnemonic = "random girl junior will month claim oil leg this curve desk jar";
+var mnemonic = "slot front humble glue fiscal verb left horn crime faculty aspect canvas";

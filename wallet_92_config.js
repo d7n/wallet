@@ -1,1 +1,1 @@
-var mnemonic = "accuse fatigue effort raccoon news provide target online weasel increase hire behave";
+var mnemonic = "alley pink place measure arctic best slogan soda fan size light excess";

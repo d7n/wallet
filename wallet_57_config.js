@@ -1,1 +1,1 @@
-var mnemonic = "behind series arm defy consider section genre lucky grace can bridge banana";
+var mnemonic = "card rib chimney demand economy deliver voyage churn jazz people version before";

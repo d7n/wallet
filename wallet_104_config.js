@@ -1,1 +1,1 @@
-var mnemonic = "fruit eager wood end elephant index point spell thank exit brother finger";
+var mnemonic = "capital lunar vehicle flat link chair short resist collect jealous truth aunt";

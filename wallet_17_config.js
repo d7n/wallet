@@ -1,1 +1,1 @@
-var mnemonic = "choice audit access crazy foster ankle shield glove tumble believe save garage";
+var mnemonic = "feature thumb provide type negative pottery park stable enter wing cabin canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "train salmon protect tell punch property wing unhappy exhaust size fly multiply";
+var mnemonic = "erase dismiss practice payment spice used kangaroo ignore fat faint mention gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "bright goat dwarf unaware they lemon orchard street drill bench dad noodle";
+var mnemonic = "coil parent property capital notable renew style stadium width rocket vague one";

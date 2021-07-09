@@ -1,1 +1,1 @@
-var mnemonic = "onion latin decline iron identify sheriff winner indicate inform brush dad figure";
+var mnemonic = "method inherit wear near myself trumpet before march pigeon version annual stuff";

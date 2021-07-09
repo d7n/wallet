@@ -1,1 +1,1 @@
-var mnemonic = "borrow frequent promote faculty chaos protect kitten fruit trouble prefer error glow";
+var mnemonic = "pyramid forget observe juice click scheme twice expect sight fox private shoe";

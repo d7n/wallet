@@ -1,1 +1,1 @@
-var mnemonic = "toward agent quote topple snow host december mass maximum van coast debris";
+var mnemonic = "eagle capital green right delay faint second glow budget strong advance potato";

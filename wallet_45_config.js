@@ -1,1 +1,1 @@
-var mnemonic = "network clay dolphin limb example net token local palace eye flat width";
+var mnemonic = "rain light west elephant torch enjoy enable pet name lawn razor tobacco";

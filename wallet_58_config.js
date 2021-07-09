@@ -1,1 +1,1 @@
-var mnemonic = "special snake leg dose own insane program diet settle ecology permit coach";
+var mnemonic = "cliff vital during thank anger express float leaf detect satoshi tomorrow crash";

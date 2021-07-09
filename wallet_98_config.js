@@ -1,1 +1,1 @@
-var mnemonic = "forest lobster drift valid rack dizzy switch witness banner lesson width cloth";
+var mnemonic = "finger brain since vague hedgehog blush world bargain language high cluster kidney";

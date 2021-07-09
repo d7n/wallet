@@ -1,1 +1,1 @@
-var mnemonic = "peasant delay phrase gift weasel wet elite hen entry mosquito elder will";
+var mnemonic = "slam trip spring crush force length dream ginger giggle inflict width interest";

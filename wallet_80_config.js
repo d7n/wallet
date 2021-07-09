@@ -1,1 +1,1 @@
-var mnemonic = "situate glove shove chat sunny remain quantum retreat glad detect around observe";
+var mnemonic = "green stamp salmon fence note blade student group real route weapon vapor";

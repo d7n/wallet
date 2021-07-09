@@ -1,1 +1,1 @@
-var mnemonic = "poet shrug supreme topple raise real photo blind nephew exact parrot hole";
+var mnemonic = "cable scheme solar major piece betray clip move raven smoke pistol useful";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle above injury salmon rug expire side abandon repeat purity blast width";
+var mnemonic = "foot bread battle artist draw once monkey cupboard train wrist bid fan";

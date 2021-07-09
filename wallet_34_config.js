@@ -1,1 +1,1 @@
-var mnemonic = "differ energy awful banner crane reveal twice hungry abandon tired ten share";
+var mnemonic = "resource lunch episode bike random exile force night employ donate situate current";

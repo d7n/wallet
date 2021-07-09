@@ -1,1 +1,1 @@
-var mnemonic = "sick today high deputy brand bulb mixed sight episode trim silent sentence";
+var mnemonic = "brown prize nuclear creek frost describe parrot mention latin satoshi chair plunge";

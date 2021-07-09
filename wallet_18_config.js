@@ -1,1 +1,1 @@
-var mnemonic = "laundry verify chalk need wine balcony lake eager jeans suit coach satoshi";
+var mnemonic = "trophy risk infant pull turkey dinner pretty cross pupil scorpion dust rapid";

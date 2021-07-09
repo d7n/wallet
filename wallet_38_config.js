@@ -1,1 +1,1 @@
-var mnemonic = "slot family distance weapon glare release cave thought tunnel ripple bronze gloom";
+var mnemonic = "try evil sheriff clock stadium parent fantasy emerge nuclear flower chase staff";

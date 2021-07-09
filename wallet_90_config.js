@@ -1,1 +1,1 @@
-var mnemonic = "submit acquire essay enter extend cat margin material produce admit palm pledge";
+var mnemonic = "ivory moon train logic income suit shove cart slender science shield talent";

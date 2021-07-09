@@ -1,1 +1,1 @@
-var mnemonic = "text fish day refuse sweet inmate clog cruel truly upon wolf crucial";
+var mnemonic = "brisk answer rabbit slogan culture syrup tobacco column movie finish attitude wedding";

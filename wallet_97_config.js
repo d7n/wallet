@@ -1,1 +1,1 @@
-var mnemonic = "evil rural field exercise fade advance spider crowd body toddler poet carbon";
+var mnemonic = "waste since hurry enrich merit reflect solution portion library mix forward midnight";

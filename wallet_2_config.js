@@ -1,1 +1,1 @@
-var mnemonic = "scare crane web trash captain nice strategy cruise expire buzz near gain";
+var mnemonic = "drip budget coil culture quiz quit dream coach music engage absent shine";

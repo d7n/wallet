@@ -1,1 +1,1 @@
-var mnemonic = "empty diary family aunt spatial energy ranch indicate summer fee drip survey";
+var mnemonic = "vapor mechanic surround sample nut develop great express near flush ozone social";

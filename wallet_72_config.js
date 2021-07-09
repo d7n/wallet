@@ -1,1 +1,1 @@
-var mnemonic = "clutch crisp glue message nest verb pass arena vacant dutch filter figure";
+var mnemonic = "mansion catch slight favorite wear jelly ostrich decorate glad voice axis between";

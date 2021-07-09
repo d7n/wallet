@@ -1,1 +1,1 @@
-var mnemonic = "team mail year receive category obvious solve recall arctic print march master";
+var mnemonic = "avocado couple daring brown meadow tilt unique sleep carbon food practice pledge";

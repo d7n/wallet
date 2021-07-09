@@ -1,1 +1,1 @@
-var mnemonic = "exotic alarm soon feel increase argue speak catch immense hope village cruise";
+var mnemonic = "divide hope drastic arctic quiz stomach neutral review report fiber twice grocery";

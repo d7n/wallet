@@ -1,1 +1,1 @@
-var mnemonic = "magic extend always brain hotel fade spider oblige crane volcano wood someone";
+var mnemonic = "exit essay tourist north phrase silly file barrel cactus pink floor west";

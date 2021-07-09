@@ -1,1 +1,1 @@
-var mnemonic = "tongue crazy diary proof robust leader spell foam valley air resemble vessel";
+var mnemonic = "broom monster cabbage stand damage evoke talent noise length suspect ranch sail";

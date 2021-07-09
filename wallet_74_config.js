@@ -1,1 +1,1 @@
-var mnemonic = "orbit boil vacant shuffle buzz imitate creek frequent emotion gain fossil observe";
+var mnemonic = "opera law parade shine motion jealous proud prefer now bid strong night";

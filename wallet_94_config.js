@@ -1,1 +1,1 @@
-var mnemonic = "sell ostrich scare black unknown assault dutch chair pretty glad cigar cruel";
+var mnemonic = "volume gospel panther will dinosaur alcohol gesture crucial stereo way farm run";

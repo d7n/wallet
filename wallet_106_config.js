@@ -1,1 +1,1 @@
-var mnemonic = "tilt flight minor intact side edge eye ostrich focus crystal remind abstract";
+var mnemonic = "figure journey planet dismiss roof rich famous tiger robust arch join search";

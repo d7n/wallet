@@ -1,1 +1,1 @@
-var mnemonic = "tiny october idea alpha amount onion rubber pelican dilemma rug drama organ";
+var mnemonic = "raven usage pulse sail suit kite raw egg must thought jewel review";

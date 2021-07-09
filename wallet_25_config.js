@@ -1,1 +1,1 @@
-var mnemonic = "despair primary measure stick profit prefer space spawn choice claw boring word";
+var mnemonic = "patrol royal session write erode museum gas forward near film air together";

@@ -1,1 +1,1 @@
-var mnemonic = "man talent material pear stamp aunt tree air enroll coffee present garment";
+var mnemonic = "public sketch glow story cliff olympic hello valve trash wall need purity";

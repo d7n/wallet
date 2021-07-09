@@ -1,1 +1,1 @@
-var mnemonic = "truck remember weird slight odor firm topic budget mind pear aspect sail";
+var mnemonic = "destroy impact illegal long yard later magic dolphin blood unusual jazz addict";

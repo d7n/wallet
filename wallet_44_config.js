@@ -1,1 +1,1 @@
-var mnemonic = "favorite edit decline entire taxi web dismiss argue toilet eyebrow kitchen mosquito";
+var mnemonic = "gasp float bachelor bread name search sudden few basket loop permit cheap";

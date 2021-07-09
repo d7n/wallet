@@ -1,1 +1,1 @@
-var mnemonic = "inflict oval fresh essence element web wheat noble celery three door ketchup";
+var mnemonic = "north avocado heavy fly canal price elbow junk barely balcony tongue ahead";

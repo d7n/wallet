@@ -1,1 +1,1 @@
-var mnemonic = "flash rare original kite entry vital girl federal crater chief jealous pull";
+var mnemonic = "manage oval spray exotic gain same emerge relief easily shock miss estate";

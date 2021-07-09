@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow elevator utility goat balcony trouble shift orchard abuse flag casino prosper";
+var mnemonic = "stairs thought hire target long toe fossil adult aim tail tunnel veteran";

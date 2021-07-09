@@ -1,1 +1,1 @@
-var mnemonic = "twin until filter mimic crane find ignore decide visual prison wall emotion";
+var mnemonic = "know offer swamp snake popular congress laugh know hollow frost blush lottery";

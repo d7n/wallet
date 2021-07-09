@@ -1,1 +1,1 @@
-var mnemonic = "month tenant dinosaur era extra invest fitness quarter family music globe spring";
+var mnemonic = "steel limb lumber meat title antenna expose decide lawsuit hard mixture symptom";

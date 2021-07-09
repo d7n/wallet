@@ -1,1 +1,1 @@
-var mnemonic = "hard vehicle window seek glory oven report marble antenna manage tape network";
+var mnemonic = "rent hill pole second plate apple sign open bag toast holiday fitness";

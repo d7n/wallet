@@ -1,1 +1,1 @@
-var mnemonic = "mail gasp surround holiday shoulder fury flush blur staff heavy age eyebrow";
+var mnemonic = "bachelor room abuse sniff eternal present perfect aspect envelope average stadium enough";

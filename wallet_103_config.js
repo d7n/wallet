@@ -1,1 +1,1 @@
-var mnemonic = "globe talk hurt novel grant talent lecture cricket curious vacuum vacuum tonight";
+var mnemonic = "bubble brisk allow stomach candy come absorb vast light eye second senior";

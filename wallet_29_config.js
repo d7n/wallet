@@ -1,1 +1,1 @@
-var mnemonic = "agree robust oak clutch fork orbit inquiry enroll shoot lazy match spin";
+var mnemonic = "home sun hurry trim thing story pattern mistake cloth yard sing proud";

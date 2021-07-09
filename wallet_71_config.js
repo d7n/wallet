@@ -1,1 +1,1 @@
-var mnemonic = "nose early emerge six dish damp potato sell undo inform delay proof";
+var mnemonic = "ill plunge limb business leader robot sword also address mother fun position";

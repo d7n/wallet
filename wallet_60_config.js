@@ -1,1 +1,1 @@
-var mnemonic = "clump cricket uncover appear input shield plug wolf work cute join scene";
+var mnemonic = "hand agent ignore today achieve stumble mind hero child gun neither hockey";

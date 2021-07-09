@@ -1,1 +1,1 @@
-var mnemonic = "woman wisdom soap luggage insane pull prepare march lonely course hedgehog business";
+var mnemonic = "possible income monkey legend trust tooth step skirt stage identify method judge";

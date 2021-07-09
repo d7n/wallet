@@ -1,1 +1,1 @@
-var mnemonic = "pool matrix history eight company wisdom shoot else entry blush morning swamp";
+var mnemonic = "eight armor man mail pottery danger camp access since pilot educate art";

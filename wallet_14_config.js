@@ -1,1 +1,1 @@
-var mnemonic = "unable hidden ostrich donate ketchup bind athlete dose vote ticket depth minimum";
+var mnemonic = "voice awful news shoulder photo hand point rhythm ostrich cave pottery trouble";

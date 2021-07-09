@@ -1,1 +1,1 @@
-var mnemonic = "broom coyote trim leg response file situate become seminar claim fury keep";
+var mnemonic = "oxygen pigeon zero announce embody art super focus erode emerge diary alert";

@@ -1,1 +1,1 @@
-var mnemonic = "manage tennis doll language awesome celery voice run maple someone coral hurt";
+var mnemonic = "next fan shine achieve scale strategy slab core hour problem position monster";

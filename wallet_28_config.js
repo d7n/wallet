@@ -1,1 +1,1 @@
-var mnemonic = "radio grant nation novel clap cabin office pepper goat craft festival alter";
+var mnemonic = "innocent surface pluck wage moment label funny valve middle rather sense fragile";

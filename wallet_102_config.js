@@ -1,1 +1,1 @@
-var mnemonic = "edit walnut tired toilet effort order soda lab salad group shiver puppy";
+var mnemonic = "ecology announce clay rapid rude submit ball banana warm glow romance argue";

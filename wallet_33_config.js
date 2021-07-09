@@ -1,1 +1,1 @@
-var mnemonic = "bunker intact pudding panic zero sunny animal jaguar often vehicle water food";
+var mnemonic = "broken ability truth beef own neutral approve happy market hammer output mind";

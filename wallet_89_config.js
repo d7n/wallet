@@ -1,1 +1,1 @@
-var mnemonic = "hen pen awake fly over myth render gesture sock claim nut identify";
+var mnemonic = "ice cheap furnace police melt library what reward camp wall erode turkey";

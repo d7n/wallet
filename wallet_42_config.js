@@ -1,1 +1,1 @@
-var mnemonic = "brother raccoon pudding disease material hidden orchard fee open weather wool hover";
+var mnemonic = "final garage announce type youth worry equip pet fragile check fly boat";

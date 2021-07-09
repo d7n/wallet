@@ -1,1 +1,1 @@
-var mnemonic = "win multiply random cost unfold produce load scatter mercy ribbon liberty unveil";
+var mnemonic = "design thunder tell only route govern cash music noodle proud bottom wreck";

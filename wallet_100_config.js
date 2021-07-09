@@ -1,1 +1,1 @@
-var mnemonic = "behave assist clean absent negative jar raw thought thumb limit access calm";
+var mnemonic = "amazing kangaroo cinnamon embark child east gown sail shaft attack second swear";

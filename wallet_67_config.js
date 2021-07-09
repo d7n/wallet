@@ -1,1 +1,1 @@
-var mnemonic = "action mosquito narrow join miracle angry capable version divert relax party else";
+var mnemonic = "aim faith culture carry woman hungry slow income cave correct absent talk";

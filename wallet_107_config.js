@@ -1,1 +1,1 @@
-var mnemonic = "already limb crop gaze start document original quantum canvas laundry waste faith";
+var mnemonic = "type arena tired use chalk make cupboard wealth core timber air equip";
