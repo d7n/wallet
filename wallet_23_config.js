@@ -1,1 +1,1 @@
-var mnemonic = "remember neck thrive fire seven once certain frozen frequent vast dolphin trigger";
+var mnemonic = "pause behave drip stay sail witness teach learn addict beach regular toddler";

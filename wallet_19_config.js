@@ -1,1 +1,1 @@
-var mnemonic = "cream grace output diet lazy check smart draft march only disorder setup";
+var mnemonic = "fruit quantum they health garbage ritual green project word decline spot install";

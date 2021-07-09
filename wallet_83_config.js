@@ -1,1 +1,1 @@
-var mnemonic = "length whip project bind side wear music ahead actual spare hard measure";
+var mnemonic = "saddle arrow hockey decline since garlic choose school latin pull monkey misery";

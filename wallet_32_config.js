@@ -1,1 +1,1 @@
-var mnemonic = "afford famous beauty bike portion solution chair able merge since drill road";
+var mnemonic = "census illegal session burger enhance subject rural marine crystal gas dirt elephant";

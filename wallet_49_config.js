@@ -1,1 +1,1 @@
-var mnemonic = "butter castle cargo ladder submit omit spawn web bean flag melody someone";
+var mnemonic = "diet curve kidney apology empower stone cigar shoulder use neck mail urge";

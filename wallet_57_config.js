@@ -1,1 +1,1 @@
-var mnemonic = "blur text again stuff panther peace problem indoor agent dream excuse morning";
+var mnemonic = "monitor equal scrub cradle end exercise sell punch comfort depend source bargain";

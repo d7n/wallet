@@ -1,1 +1,1 @@
-var mnemonic = "innocent clerk fall gesture enrich vendor put match merit cancel beach magic";
+var mnemonic = "orbit arrest glass mesh program correct mutual royal patch eagle pig vapor";

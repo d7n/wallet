@@ -1,1 +1,1 @@
-var mnemonic = "hello cliff fruit forward antique cover elephant cricket then acid lesson neglect";
+var mnemonic = "cactus simple outdoor slight phone trend point attitude right mule arrange save";

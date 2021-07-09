@@ -1,1 +1,1 @@
-var mnemonic = "skin base cake demand soon token nose water novel raven doctor tiger";
+var mnemonic = "country arm thought vivid august online wage view action fold coyote rapid";

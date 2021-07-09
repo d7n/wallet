@@ -1,1 +1,1 @@
-var mnemonic = "nation month divorce trash mixture apology rib beyond scout clog spare march";
+var mnemonic = "okay gate invite pink trim cash little tooth cry pact exist path";

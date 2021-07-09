@@ -1,1 +1,1 @@
-var mnemonic = "swallow crew wheat shiver dust rural coil way derive icon fiction ancient";
+var mnemonic = "return mouse trigger ticket quote heavy ignore orchard net carry brand tumble";

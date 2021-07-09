@@ -1,1 +1,1 @@
-var mnemonic = "salon miracle idle describe blossom home armor humble clump gaze early smoke";
+var mnemonic = "fit behave canvas antique sponsor face history carry embrace fatigue crime media";

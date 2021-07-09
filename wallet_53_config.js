@@ -1,1 +1,1 @@
-var mnemonic = "shove glue siren rival favorite unlock stereo eagle runway case romance into";
+var mnemonic = "document noble wheat shoot crime fatal behave vivid sorry rely private neither";

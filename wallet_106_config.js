@@ -1,1 +1,1 @@
-var mnemonic = "primary trouble meadow poverty weather crumble brief fire leg album visit matrix";
+var mnemonic = "enjoy mail cave praise pact mobile equal nasty gold body keep stomach";

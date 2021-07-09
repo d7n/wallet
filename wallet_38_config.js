@@ -1,1 +1,1 @@
-var mnemonic = "click turtle unit negative advice bar regular hello spray hotel absurd trim";
+var mnemonic = "caution rebel enlist enforce eye fly barely wrap nurse soccer scout rack";

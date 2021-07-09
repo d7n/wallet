@@ -1,1 +1,1 @@
-var mnemonic = "paddle width kingdom sort gap area abuse purse near image junk stomach";
+var mnemonic = "draft already bulk method soda thought left alien cart casino wise feel";

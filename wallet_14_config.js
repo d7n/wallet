@@ -1,1 +1,1 @@
-var mnemonic = "project sunny apart recipe reward logic six cactus side submit narrow wrist";
+var mnemonic = "glad symbol autumn moment before reunion alone vanish absent final inform diet";

@@ -1,1 +1,1 @@
-var mnemonic = "type echo employ worth normal fury blur motion female sugar beef cat";
+var mnemonic = "key capital drop opinion march admit sing royal later rich slogan post";

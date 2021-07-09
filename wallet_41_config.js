@@ -1,1 +1,1 @@
-var mnemonic = "autumn unfair sun idea misery reform primary ten oppose party now deliver";
+var mnemonic = "field attend bomb belt review flee hint tank cram tornado mystery seminar";

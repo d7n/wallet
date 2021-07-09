@@ -1,1 +1,1 @@
-var mnemonic = "neglect wild mistake boat suit memory amount cake vapor file negative allow";
+var mnemonic = "used grab load maple type panel math giraffe image village image special";

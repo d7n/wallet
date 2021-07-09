@@ -1,1 +1,1 @@
-var mnemonic = "weird kind grain perfect attract elite spring steak regular mention badge hobby";
+var mnemonic = "unlock dust rib raccoon trumpet already know client chase marble garage recall";

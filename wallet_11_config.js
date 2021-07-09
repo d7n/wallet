@@ -1,1 +1,1 @@
-var mnemonic = "field forward broccoli easily flame scatter hybrid height grain tiny tonight lawn";
+var mnemonic = "ginger captain toe canyon segment mixture galaxy student pilot spice inside future";

@@ -1,1 +1,1 @@
-var mnemonic = "swear street great water cheap awkward fluid bulk stable advance flame eight";
+var mnemonic = "three web eyebrow faculty earn pizza critic silly siren adapt shoot edge";

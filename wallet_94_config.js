@@ -1,1 +1,1 @@
-var mnemonic = "gravity excite current trial robot riot rough canal own favorite order wear";
+var mnemonic = "magnet inform tell fruit depend around view teach hammer measure occur buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "style rubber news ten elbow grace culture bunker slush silk add then";
+var mnemonic = "travel mean critic snap duty wolf ostrich found crumble radio image assault";

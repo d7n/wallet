@@ -1,1 +1,1 @@
-var mnemonic = "melt dose match across main arrive vicious symbol absorb lamp mail combine";
+var mnemonic = "odor animal castle lecture bitter example canyon clerk just emerge reward session";

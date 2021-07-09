@@ -1,1 +1,1 @@
-var mnemonic = "kidney arena cruel level vivid where pottery barely fruit shock usual shrug";
+var mnemonic = "gorilla erase glory object demise almost bring alarm diet trophy term cart";

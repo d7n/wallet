@@ -1,1 +1,1 @@
-var mnemonic = "put chunk obvious upset meat off slogan reveal wet fiber match man";
+var mnemonic = "cake true leisure cruel toddler fly bulk purity medal round kid rice";

@@ -1,1 +1,1 @@
-var mnemonic = "network various twenty essay prefer glove flash breeze transfer suspect wolf insect";
+var mnemonic = "carbon apart document ability glory twelve lens observe morning wage recall churn";

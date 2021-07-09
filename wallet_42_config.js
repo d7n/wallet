@@ -1,1 +1,1 @@
-var mnemonic = "beach remove remind icon pond verify similar web trigger horse anxiety glass";
+var mnemonic = "arch adult copper top great reflect pull estate romance kingdom food finger";

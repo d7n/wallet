@@ -1,1 +1,1 @@
-var mnemonic = "razor copper midnight speed solution thumb luggage butter dinner wrap mean error";
+var mnemonic = "captain junk best net hollow gadget argue pencil bulb avoid hen insect";

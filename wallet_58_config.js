@@ -1,1 +1,1 @@
-var mnemonic = "brown spring hire stage belt combine admit reason raise usual imitate range";
+var mnemonic = "swap mixture moment point double host major legend object slush demand fancy";

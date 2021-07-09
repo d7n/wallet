@@ -1,1 +1,1 @@
-var mnemonic = "review visa twenty few panel alarm reject gossip true trouble reopen corn";
+var mnemonic = "remind brave glad harsh mountain blue couple trim false own figure cradle";

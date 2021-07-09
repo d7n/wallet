@@ -1,1 +1,1 @@
-var mnemonic = "area cart between cactus artwork gasp coyote crunch funny grain love today";
+var mnemonic = "forget reflect toward cliff number pill involve unfair loyal solution hundred waste";

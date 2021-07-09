@@ -1,1 +1,1 @@
-var mnemonic = "congress cousin enact head tank mind earn wrap champion siren spike undo";
+var mnemonic = "trap region ridge disease blood media network public subject domain cross apart";

@@ -1,1 +1,1 @@
-var mnemonic = "miss swamp plate link best front often fashion slush elegant brisk stereo";
+var mnemonic = "man release alley disagree tenant galaxy leg average edit traffic dirt giant";

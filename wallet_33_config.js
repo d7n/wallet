@@ -1,1 +1,1 @@
-var mnemonic = "country alien amount expect vault stock soccer panda axis atom major hurt";
+var mnemonic = "display pepper night broccoli list mean seven motor regret script bike crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "direct demand buzz whip lunch cabin inside bar enemy aunt soap kit";
+var mnemonic = "post axis hurt can conduct nominee spice castle stairs rocket craft lunch";

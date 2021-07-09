@@ -1,1 +1,1 @@
-var mnemonic = "race scrap since pig cricket rib sport net room kit seek soap";
+var mnemonic = "race develop safe orient chair double lamp other alone rival primary damage";

@@ -1,1 +1,1 @@
-var mnemonic = "young treat series zero sudden convince enter purchase legend false safe cart";
+var mnemonic = "want initial task tired favorite source shrug congress tackle turkey normal post";

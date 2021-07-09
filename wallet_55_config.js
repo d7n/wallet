@@ -1,1 +1,1 @@
-var mnemonic = "surge air era trade just crop level kite bulk future soul exchange";
+var mnemonic = "crane bone source differ cinnamon joke fee corn upon bread climb bless";

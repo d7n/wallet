@@ -1,1 +1,1 @@
-var mnemonic = "twice case flight hundred judge found reunion flower act boat punch absent";
+var mnemonic = "toddler setup gadget clinic spatial strategy close tuition hidden grain need pigeon";

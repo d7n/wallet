@@ -1,1 +1,1 @@
-var mnemonic = "media island combine purchase resource long nut menu boring denial door language";
+var mnemonic = "couch chunk box essence garment kind route dress tortoise advice impulse evidence";

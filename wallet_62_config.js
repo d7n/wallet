@@ -1,1 +1,1 @@
-var mnemonic = "album jacket word gate method equip nerve assault arrive narrow bunker initial";
+var mnemonic = "special often language menu daring indoor festival silver heavy learn shoot few";

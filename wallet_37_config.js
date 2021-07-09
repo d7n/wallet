@@ -1,1 +1,1 @@
-var mnemonic = "edit piano bridge perfect gaze what arrest cash elegant cloth lizard exhibit";
+var mnemonic = "apology village hire father lion flavor hedgehog worth calm inform tank arena";

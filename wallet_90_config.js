@@ -1,1 +1,1 @@
-var mnemonic = "argue fan genius virus shallow impose submit sound urge melt patient razor";
+var mnemonic = "hurdle input crunch blossom enemy hour verb much dose shoot lava bread";

@@ -1,1 +1,1 @@
-var mnemonic = "drop fly length lift rubber affair between chunk degree angry orchard hand";
+var mnemonic = "episode inside offer loop umbrella oil curious garlic despair crop asthma custom";

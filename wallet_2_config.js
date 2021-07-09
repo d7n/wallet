@@ -1,1 +1,1 @@
-var mnemonic = "pulse morning oppose wild cloud acoustic swim remain nerve coach peanut reduce";
+var mnemonic = "favorite million enforce enable morning muscle tail boring choice march fortune girl";

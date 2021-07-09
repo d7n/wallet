@@ -1,1 +1,1 @@
-var mnemonic = "innocent much thumb want undo banner release pioneer baby deer surround best";
+var mnemonic = "pelican doctor scene gain interest among enjoy cheap rice foot latin cash";

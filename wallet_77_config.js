@@ -1,1 +1,1 @@
-var mnemonic = "sleep resemble kite evil wealth tail chapter coin chef naive hole light";
+var mnemonic = "render deposit margin fame mountain want atom arrange jump tail slim charge";

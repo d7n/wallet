@@ -1,1 +1,1 @@
-var mnemonic = "spend welcome dress wide culture subject lamp wheel once appear water mass";
+var mnemonic = "enforce pool tent actor garlic state enjoy glass fox capable pen wheat";

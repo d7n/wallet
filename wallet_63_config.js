@@ -1,1 +1,1 @@
-var mnemonic = "lunar curtain smile nation sibling fossil curve badge good medal minor hood";
+var mnemonic = "purpose mammal sister guitar perfect street absurd wait cannon soda harsh cram";

@@ -1,1 +1,1 @@
-var mnemonic = "below dust odor method salad wish cup early real tackle thunder high";
+var mnemonic = "valid refuse pretty edit below review stairs you robust soldier razor candy";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen plug engage wine umbrella border disagree innocent great priority rival segment";
+var mnemonic = "sweet club disease mention nice knee panther feed modify error lake favorite";

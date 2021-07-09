@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pilot soul stairs cost genius addict guard person sphere script fan";
+var mnemonic = "deposit sell join credit vehicle fish drift kingdom roast engage grass fabric";

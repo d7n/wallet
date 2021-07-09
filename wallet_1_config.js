@@ -1,1 +1,1 @@
-var mnemonic = "truth woman rebel hammer oxygen cliff upgrade client area patch mix swallow";
+var mnemonic = "flush input region people tone nurse resemble stem cost dragon riot bar";

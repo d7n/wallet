@@ -1,1 +1,1 @@
-var mnemonic = "voice street lab lyrics elevator code same involve chicken lion gossip wet";
+var mnemonic = "same cigar sample door tiny health worry town toast pig group just";

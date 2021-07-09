@@ -1,1 +1,1 @@
-var mnemonic = "office current like brick aspect pattern hood silent month wish crisp choose";
+var mnemonic = "wrist scatter scan ostrich reduce grab pioneer globe zoo hire clay wrap";

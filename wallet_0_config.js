@@ -1,1 +1,1 @@
-var mnemonic = "learn foil journey write few own shy hawk whale air nation normal";
+var mnemonic = "series cherry finish soccer during doctor universe setup sunny upon autumn tilt";

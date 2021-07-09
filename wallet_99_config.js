@@ -1,1 +1,1 @@
-var mnemonic = "repeat only gate boil joy family loan provide language salmon embody diet";
+var mnemonic = "shrimp arctic alarm corn truly monkey cargo solution view memory dose raise";

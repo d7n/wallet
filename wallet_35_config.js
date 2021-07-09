@@ -1,1 +1,1 @@
-var mnemonic = "gate tag bulb derive barrel rack satisfy twice fault soda clock insect";
+var mnemonic = "eager prison lend you chat seven pair clown mushroom cruel horse floor";

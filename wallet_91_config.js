@@ -1,1 +1,1 @@
-var mnemonic = "spike loop skirt paper timber tower just seat increase pill final bus";
+var mnemonic = "choice desk true sudden butter build tool cheese glow artwork remain category";

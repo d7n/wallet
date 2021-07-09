@@ -1,1 +1,1 @@
-var mnemonic = "bulb subway lizard recycle roast awake adjust misery fruit hammer rapid isolate";
+var mnemonic = "concert muscle swarm air perfect anger honey outer fold reform celery client";

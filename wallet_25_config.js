@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shed else trick music edge effort horse consider jar acquire lava";
+var mnemonic = "solution subway still snake joke hundred pyramid view effort senior squeeze much";

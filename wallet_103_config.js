@@ -1,1 +1,1 @@
-var mnemonic = "mail sick run blood toast cram picnic tongue slow brave rhythm access";
+var mnemonic = "mad fit satisfy extend boring act scare amount tribe deny across gather";

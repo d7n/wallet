@@ -1,1 +1,1 @@
-var mnemonic = "sense august hand wet oxygen language net amateur before chapter artwork pudding";
+var mnemonic = "arrange mandate scan piece topic cliff can edit attack bunker pink start";

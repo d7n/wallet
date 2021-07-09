@@ -1,1 +1,1 @@
-var mnemonic = "twice slice annual hill tide total level antenna tooth plug divert minute";
+var mnemonic = "small clerk around village champion cushion method job veteran memory remind endless";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic over toe victory better hybrid this assist swift orange shine worth";
+var mnemonic = "swamp act fossil steel math love recycle short demand vibrant vicious switch";

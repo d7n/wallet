@@ -1,1 +1,1 @@
-var mnemonic = "early bottom scout oval elephant usage moral fence truck drum turtle urban";
+var mnemonic = "hurt slam huge food angry obtain purchase industry rookie knife estate truck";

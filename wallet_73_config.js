@@ -1,1 +1,1 @@
-var mnemonic = "exact stable urban appear only silly effort ostrich brush nothing next cinnamon";
+var mnemonic = "expand patrol twelve image rubber spy open lonely draft connect find acquire";

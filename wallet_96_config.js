@@ -1,1 +1,1 @@
-var mnemonic = "neutral rotate list blast stock mansion enroll upon song depth climb topic";
+var mnemonic = "use claw sound lamp have dynamic million wall area exact cost stool";

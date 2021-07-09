@@ -1,1 +1,1 @@
-var mnemonic = "dynamic extend wash assume fashion rally arrive work please mountain gallery layer";
+var mnemonic = "kiss patient unable code biology have promote tool bread image jungle all";

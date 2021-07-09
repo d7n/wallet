@@ -1,1 +1,1 @@
-var mnemonic = "scan omit soon dentist minute credit supply gentle market useless uphold tape";
+var mnemonic = "casual champion fabric dream resource cattle sand bike hover burden enter rich";

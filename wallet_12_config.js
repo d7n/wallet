@@ -1,1 +1,1 @@
-var mnemonic = "transfer degree pelican glass peasant horror labor frown credit creek eagle accident";
+var mnemonic = "online dance switch mechanic soup adult flush army cover milk knife organ";

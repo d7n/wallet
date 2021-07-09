@@ -1,1 +1,1 @@
-var mnemonic = "today fox network almost half inquiry gallery obscure shove strike crop speed";
+var mnemonic = "leaf infant skull focus behave nephew begin reform clutch merge photo match";

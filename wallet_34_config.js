@@ -1,1 +1,1 @@
-var mnemonic = "employ bridge echo public release stone canoe tube wet alpha absorb high";
+var mnemonic = "sail family history invest sentence unaware limit december talk donor amazing provide";

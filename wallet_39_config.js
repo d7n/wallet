@@ -1,1 +1,1 @@
-var mnemonic = "client wrestle venture essence oil asset novel bid canyon fossil wink escape";
+var mnemonic = "river render company clerk cancel awesome spike satoshi offer sauce coil rude";

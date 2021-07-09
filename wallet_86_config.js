@@ -1,1 +1,1 @@
-var mnemonic = "park solid pitch crawl glare palm maple radio glory spring lamp patch";
+var mnemonic = "hero flat fiction walk nerve alley belt excess shed express lesson paddle";

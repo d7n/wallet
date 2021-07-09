@@ -1,1 +1,1 @@
-var mnemonic = "amazing fold catalog sunny wife can swarm wrap grocery pride produce uncover";
+var mnemonic = "dress surge glare over total current seminar click favorite surface exchange giant";

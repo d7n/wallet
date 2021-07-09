@@ -1,1 +1,1 @@
-var mnemonic = "unlock flip baby rib tent right tiny negative flag midnight want delay";
+var mnemonic = "ethics banner chicken sunny student strong satisfy clip can special term system";

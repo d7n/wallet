@@ -1,1 +1,1 @@
-var mnemonic = "peanut congress column collect cereal give file civil panel chunk between survey";
+var mnemonic = "tuition sketch skull jar body snack antique quit orange enable wheat round";

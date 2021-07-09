@@ -1,1 +1,1 @@
-var mnemonic = "grape ask strategy portion spring solid monitor fashion ostrich rather cannon coach";
+var mnemonic = "celery voyage town save success recall boost parrot armor cave cotton shiver";

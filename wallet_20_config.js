@@ -1,1 +1,1 @@
-var mnemonic = "boat time arch meat roast page drop pupil square settle parrot warfare";
+var mnemonic = "crunch pass subject hand artefact belt about smooth mother hedgehog verb type";

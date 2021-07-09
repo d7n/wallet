@@ -1,1 +1,1 @@
-var mnemonic = "wood dog own rich review blade tower trend manage antenna display behind";
+var mnemonic = "girl drift wrist cloud coast web heavy clump exhaust fiber tornado clutch";

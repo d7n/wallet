@@ -1,1 +1,1 @@
-var mnemonic = "onion segment coach neutral barely green scorpion kangaroo chat type fancy rice";
+var mnemonic = "old garment lucky jacket canvas grief idle seven okay syrup muscle adapt";

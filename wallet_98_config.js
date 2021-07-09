@@ -1,1 +1,1 @@
-var mnemonic = "sleep worry priority fashion prevent worry sister elite buddy leopard hazard park";
+var mnemonic = "estate dirt mansion live twin mask brown rich roast obtain meadow merge";

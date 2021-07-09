@@ -1,1 +1,1 @@
-var mnemonic = "mammal dinner race they admit mixed observe join jazz remain supply special";
+var mnemonic = "impact horror view expire cancel fiscal spring elbow float umbrella outdoor benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle tuition journey cat bitter clutch guide spoil bulb veteran slender lounge";
+var mnemonic = "tide crucial poverty boost april dilemma giant glide urge jar give powder";

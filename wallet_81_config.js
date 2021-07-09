@@ -1,1 +1,1 @@
-var mnemonic = "field flush stomach ability twenty target search angle engage table expire fresh";
+var mnemonic = "net bullet okay crater rifle reject goat shy cart method six essence";

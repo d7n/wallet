@@ -1,1 +1,1 @@
-var mnemonic = "fresh bag manage beauty arrest item become rhythm frost knee ask price";
+var mnemonic = "seat hobby glue hope task athlete robust biology leader evoke pair excuse";

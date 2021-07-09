@@ -1,1 +1,1 @@
-var mnemonic = "autumn orchard zero sea abuse palace glimpse real heart rifle smile horse";
+var mnemonic = "raccoon onion cry guess close during blossom six dress skirt annual income";

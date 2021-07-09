@@ -1,1 +1,1 @@
-var mnemonic = "result chimney never merit immune glad elevator response desert mystery embark bomb";
+var mnemonic = "clap day wolf sugar fan pride tomorrow setup oyster purpose six detect";

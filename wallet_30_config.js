@@ -1,1 +1,1 @@
-var mnemonic = "toward blouse medal roof short muffin jazz gather below wink beef main";
+var mnemonic = "canyon spring crane ostrich siren shell resource box project endorse among spike";

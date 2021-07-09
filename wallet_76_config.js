@@ -1,1 +1,1 @@
-var mnemonic = "cattle option kit tumble slam chest bicycle race burger rude genre twice";
+var mnemonic = "behind chimney cherry clean hill page balcony kit nuclear quantum paper ancient";
