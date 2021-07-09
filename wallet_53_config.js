@@ -1,1 +1,1 @@
-var mnemonic = "undo toast fall oak subject video turkey boss true venue regret dizzy";
+var mnemonic = "deliver clump hole trust hurry pear fog drive birth crucial foil mango";

@@ -1,1 +1,1 @@
-var mnemonic = "screen suit tube future resource frame donkey apple need arrest age stage";
+var mnemonic = "typical bird infant hour apology genius honey lizard swamp coast bundle baby";

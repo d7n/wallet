@@ -1,1 +1,1 @@
-var mnemonic = "style super hold cool file vital dice monitor olive favorite phone panel";
+var mnemonic = "just aspect power genuine cheese all face envelope popular brain degree page";

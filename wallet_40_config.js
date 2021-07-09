@@ -1,1 +1,1 @@
-var mnemonic = "rough toss one square cram degree piece mammal car thought envelope time";
+var mnemonic = "funny limb slow nephew patrol vault glass attend noodle sing scissors they";

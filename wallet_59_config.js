@@ -1,1 +1,1 @@
-var mnemonic = "else direct bracket fog issue forward door aspect jar badge noise assault";
+var mnemonic = "under ladder sudden tape resist dolphin west hood dad bundle tape gain";

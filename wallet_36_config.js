@@ -1,1 +1,1 @@
-var mnemonic = "demand blue fetch bid salute ill draft forget fame provide copy chaos";
+var mnemonic = "reflect helmet lemon diesel fine humble prosper barely taste decorate remind style";

@@ -1,1 +1,1 @@
-var mnemonic = "seven pluck style owner stuff minimum thunder hood vanish walnut inhale basic";
+var mnemonic = "deal nephew symptom miracle double consider cruel beauty snake when slide dwarf";

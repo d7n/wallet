@@ -1,1 +1,1 @@
-var mnemonic = "almost stem edit magnet stock model disorder accuse today cancel spider primary";
+var mnemonic = "toward pluck copy resource energy welcome photo unknown lonely govern indicate much";

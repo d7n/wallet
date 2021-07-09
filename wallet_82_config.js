@@ -1,1 +1,1 @@
-var mnemonic = "program ensure alone mind poet pig vibrant couple balcony ahead seminar unfold";
+var mnemonic = "purpose poem lunar history humor print obey fragile conduct mango cram mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "forget grunt slender witness wait jewel reward winner humor burst pumpkin chair";
+var mnemonic = "snack fantasy olympic hidden claw jealous color ignore space arena receive potato";

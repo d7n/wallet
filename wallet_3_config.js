@@ -1,1 +1,1 @@
-var mnemonic = "violin hero portion orchard evolve release series idle apart once avocado apology";
+var mnemonic = "diary valve carpet garage bone split describe fossil glass body box erosion";

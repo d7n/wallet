@@ -1,1 +1,1 @@
-var mnemonic = "interest jealous direct cousin medal idea obvious across exercise two present gold";
+var mnemonic = "patch replace carpet outside cost gaze tattoo urge pipe sustain hint dwarf";

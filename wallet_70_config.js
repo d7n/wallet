@@ -1,1 +1,1 @@
-var mnemonic = "tattoo abstract relief galaxy exercise oblige inmate fatal boil trophy become later";
+var mnemonic = "welcome cram dune logic lyrics fashion rebel film coffee dilemma often tuna";

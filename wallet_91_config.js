@@ -1,1 +1,1 @@
-var mnemonic = "time toss picnic opinion find right clutch ribbon air bind easy plate";
+var mnemonic = "robust betray impose mesh hazard pave orphan nothing custom hole enact unknown";

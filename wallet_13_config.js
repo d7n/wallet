@@ -1,1 +1,1 @@
-var mnemonic = "force expect ketchup potato net result potato royal cabin answer toast rich";
+var mnemonic = "predict panda pioneer behave thrive lounge recall century turtle junk neck brown";

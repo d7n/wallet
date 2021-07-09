@@ -1,1 +1,1 @@
-var mnemonic = "angry host girl valid liquid trash exotic current liar area youth exit";
+var mnemonic = "abandon mail social stick together sample awake eagle ivory access equip main";

@@ -1,1 +1,1 @@
-var mnemonic = "below thank indicate stand remove garbage narrow menu casual across congress season";
+var mnemonic = "report security faint hybrid onion stadium bag impulse advice will slow voyage";

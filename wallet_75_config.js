@@ -1,1 +1,1 @@
-var mnemonic = "display polar toward april always age deal razor pride call favorite letter";
+var mnemonic = "air firm prevent upon turtle obscure purity crowd audit neck calm luggage";

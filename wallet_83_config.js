@@ -1,1 +1,1 @@
-var mnemonic = "brother because town original autumn club since bullet indoor hedgehog mixed help";
+var mnemonic = "thrive angry shrimp salute basic account rent picture rifle dizzy minute text";

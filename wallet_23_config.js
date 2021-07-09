@@ -1,1 +1,1 @@
-var mnemonic = "amused female else photo eyebrow hotel uphold enrich leopard hand carry canoe";
+var mnemonic = "gift family october feed latin rescue twist rent trap sweet axis coconut";

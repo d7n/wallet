@@ -1,1 +1,1 @@
-var mnemonic = "biology evil frozen pause beauty okay tenant rail final rely castle magnet";
+var mnemonic = "afraid modify walnut orphan doctor beach tool sleep advance bean radio city";

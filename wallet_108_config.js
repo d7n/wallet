@@ -1,1 +1,1 @@
-var mnemonic = "balance slogan coffee base evil meat domain trophy jump dog become long";
+var mnemonic = "word question frog nephew urban tree then possible coconut tribe neutral heart";

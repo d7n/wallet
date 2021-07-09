@@ -1,1 +1,1 @@
-var mnemonic = "window acid order segment crush number second goddess about absent economy steel";
+var mnemonic = "pyramid shrug dutch average wrong chest knife enable zone sketch fog cat";

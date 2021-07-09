@@ -1,1 +1,1 @@
-var mnemonic = "floor fuel chair trap aware nose total video hood absurd crash melody";
+var mnemonic = "jaguar inmate elbow exercise mention tree carpet until mosquito enough spice suit";

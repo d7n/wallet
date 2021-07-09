@@ -1,1 +1,1 @@
-var mnemonic = "excess clay design say approve junk wheel bid still blade upset fan";
+var mnemonic = "lock myth invite absent dinner damage decorate better fantasy wagon cruise purse";

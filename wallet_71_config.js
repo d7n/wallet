@@ -1,1 +1,1 @@
-var mnemonic = "spray junior bicycle sun drink virus metal project danger absurd excite live";
+var mnemonic = "mobile twenty call unique hour adjust hurt cook betray nest wrap crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal matter inject grab grief arrange suffer venture slot improve hunt mountain";
+var mnemonic = "sick alpha double crucial like forget win bargain upgrade lounge they egg";

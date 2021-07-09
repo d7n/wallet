@@ -1,1 +1,1 @@
-var mnemonic = "pride conduct post patch glance output child used dragon mixture term this";
+var mnemonic = "village street roof blade usage ten someone van exercise slab hill jaguar";

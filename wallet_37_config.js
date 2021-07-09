@@ -1,1 +1,1 @@
-var mnemonic = "fan okay syrup blouse birth sheriff walnut artwork copy trip crystal claim";
+var mnemonic = "tent trap century extend garment identify pyramid estate deer tired steak fine";

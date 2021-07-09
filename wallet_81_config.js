@@ -1,1 +1,1 @@
-var mnemonic = "fresh worth vivid success bunker mandate doll liar song drama scrub please";
+var mnemonic = "prosper alley forward armor belt print collect jar agent fancy phrase around";

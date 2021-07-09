@@ -1,1 +1,1 @@
-var mnemonic = "olive drift grid guard deal tobacco profit zero salon any yellow agree";
+var mnemonic = "middle amateur range behind review zero comfort finish outer lyrics face adapt";

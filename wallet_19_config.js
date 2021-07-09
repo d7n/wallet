@@ -1,1 +1,1 @@
-var mnemonic = "bar rocket drift anxiety spot major actual gadget crazy brass lunch cruel";
+var mnemonic = "embark market crime soft reveal merry bid planet rough drum indoor quality";

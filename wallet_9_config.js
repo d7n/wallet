@@ -1,1 +1,1 @@
-var mnemonic = "blanket twelve tell charge merge rug prevent trade pulp diary click slight";
+var mnemonic = "purpose maple sound clap silk merry march jungle steel piano present crawl";

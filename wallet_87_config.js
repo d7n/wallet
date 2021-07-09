@@ -1,1 +1,1 @@
-var mnemonic = "various voice body village tonight design bean female awkward use target lesson";
+var mnemonic = "misery hat hint cute panda correct crew child neck ghost phrase public";

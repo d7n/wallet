@@ -1,1 +1,1 @@
-var mnemonic = "body shoulder alcohol scare success roast boy resource aerobic magic meadow catch";
+var mnemonic = "half elite coin venture dream this duck enemy dune rather eye hamster";

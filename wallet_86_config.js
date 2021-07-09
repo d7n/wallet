@@ -1,1 +1,1 @@
-var mnemonic = "average sea fork analyst teach deny pole twenty pet crunch victory victory";
+var mnemonic = "code act reform buffalo save shuffle mimic pause term turtle odor table";

@@ -1,1 +1,1 @@
-var mnemonic = "tired bubble unhappy chimney sound glow favorite engage mango vintage legend army";
+var mnemonic = "fruit process enact couch flight salon abuse select combine cart fee travel";

@@ -1,1 +1,1 @@
-var mnemonic = "latin crime kidney spoil divert public chat symptom liberty swallow direct apart";
+var mnemonic = "mammal tenant oppose neglect cinnamon reflect divorce sword picture cloud bacon opinion";

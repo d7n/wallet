@@ -1,1 +1,1 @@
-var mnemonic = "tape cool disagree lobster begin miss nice lamp provide key also shadow";
+var mnemonic = "garbage habit admit mansion keep perfect fine boss sweet vapor violin ready";

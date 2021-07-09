@@ -1,1 +1,1 @@
-var mnemonic = "vanish arch news world affair youth group vapor wash ski theory have";
+var mnemonic = "oven rare learn catalog misery apart sauce build evil income bundle turn";

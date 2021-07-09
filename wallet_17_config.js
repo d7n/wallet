@@ -1,1 +1,1 @@
-var mnemonic = "dwarf divide belt mad fog water magic infant very include onion gallery";
+var mnemonic = "leopard fish tuna reunion move life hazard lemon parent hospital anger glance";

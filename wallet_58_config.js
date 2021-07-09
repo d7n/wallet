@@ -1,1 +1,1 @@
-var mnemonic = "pluck narrow present art sausage end order virus finger state pull busy";
+var mnemonic = "paddle ketchup tattoo paddle shrug school target fade clip kiss regular dismiss";

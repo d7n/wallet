@@ -1,1 +1,1 @@
-var mnemonic = "slight alone attend pet ethics dumb health gym swim similar balcony grit";
+var mnemonic = "bundle replace toward lawn saddle paddle ecology damage forum luxury laptop clown";

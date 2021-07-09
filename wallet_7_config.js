@@ -1,1 +1,1 @@
-var mnemonic = "boy nasty idle road mention amount fee dice shuffle taxi exist patrol";
+var mnemonic = "civil tobacco wrestle save frog always manual kid nasty rural legal like";

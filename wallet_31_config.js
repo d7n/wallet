@@ -1,1 +1,1 @@
-var mnemonic = "approve dad weekend quarter crumble hamster upgrade flat can this coil visual";
+var mnemonic = "echo polar heart shuffle settle intact cheap traffic proud lecture install intact";

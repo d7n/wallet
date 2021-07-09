@@ -1,1 +1,1 @@
-var mnemonic = "permit claim magic bird dish rebuild wonder vicious produce excuse large train";
+var mnemonic = "arrive year gadget maple chalk other wait pool sunset buddy silent voice";

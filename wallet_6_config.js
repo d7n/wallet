@@ -1,1 +1,1 @@
-var mnemonic = "among later spice kick chase roast beyond message off steak kiwi future";
+var mnemonic = "tiny empower sword endless crawl maid elevator shell credit tourist hurt wild";

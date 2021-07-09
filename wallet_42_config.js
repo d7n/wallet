@@ -1,1 +1,1 @@
-var mnemonic = "thought sick rhythm order busy royal struggle robot month royal movie embark";
+var mnemonic = "jazz token elevator tail luggage catch tag chef uniform embark dizzy eyebrow";

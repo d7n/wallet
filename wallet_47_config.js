@@ -1,1 +1,1 @@
-var mnemonic = "select among hundred excess spoon innocent february weapon report sauce tongue length";
+var mnemonic = "utility manage merry impact list offer various coast cup help index primary";

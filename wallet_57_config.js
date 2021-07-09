@@ -1,1 +1,1 @@
-var mnemonic = "title scale insect tent service addict peace swim derive stable slush develop";
+var mnemonic = "insect speak robust patrol atom toast return exclude clarify rich install alone";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle load leader attack deal super key raven ten silver tiger cause";
+var mnemonic = "someone scout furnace basic decrease search fiber raw life grain ready belt";

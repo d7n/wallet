@@ -1,1 +1,1 @@
-var mnemonic = "business bread weather wrestle candy health gallery item test zone observe boost";
+var mnemonic = "cute enrich summer derive debris student tree oyster stadium cute goddess worry";

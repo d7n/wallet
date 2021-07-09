@@ -1,1 +1,1 @@
-var mnemonic = "elevator proud dove frame hybrid cause normal indicate black island biology sunset";
+var mnemonic = "ridge merry average saddle parade trash patrol light vote absurd forward recipe";

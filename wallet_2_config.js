@@ -1,1 +1,1 @@
-var mnemonic = "loud moon client common subject embark fire ivory frozen under maximum bounce";
+var mnemonic = "december travel auto tube pipe gentle job aim mix cry smooth orphan";

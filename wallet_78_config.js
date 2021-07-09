@@ -1,1 +1,1 @@
-var mnemonic = "odor brand wheat adapt office path upon please first pledge width entire";
+var mnemonic = "duck eager shop fatigue valid echo west slight cruel skate shoe morning";

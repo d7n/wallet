@@ -1,1 +1,1 @@
-var mnemonic = "gap rapid tomorrow seat habit opinion session local noodle already dwarf novel";
+var mnemonic = "tip cheese yard nest quarter wrap grow acoustic vital true stem differ";

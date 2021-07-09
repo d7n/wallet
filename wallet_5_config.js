@@ -1,1 +1,1 @@
-var mnemonic = "able shiver clutch gadget high type blade category worry beef congress promote";
+var mnemonic = "nominee acquire suspect exchange one occur segment extra school keen flush fall";

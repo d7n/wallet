@@ -1,1 +1,1 @@
-var mnemonic = "flight mail crew confirm reason clinic curve inhale fossil illegal review purchase";
+var mnemonic = "original whisper can cross sleep lawsuit blanket bone speak danger axis impact";

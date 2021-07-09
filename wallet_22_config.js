@@ -1,1 +1,1 @@
-var mnemonic = "embrace lift vivid display only vague machine balance beef knee salt stay";
+var mnemonic = "resemble warrior connect fortune evoke dutch palm outdoor skull similar crumble exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "coast broom smoke bag useless work sell cliff proud vessel early believe";
+var mnemonic = "century truly produce syrup turn inch panther elegant neither three degree expand";

@@ -1,1 +1,1 @@
-var mnemonic = "caution noise room plug domain spring jewel smile paddle laptop curtain undo";
+var mnemonic = "quantum program identify romance matter letter cigar velvet buyer airport hard fiction";

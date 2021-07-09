@@ -1,1 +1,1 @@
-var mnemonic = "engine route model boost ugly bitter forward stereo casual average process gasp";
+var mnemonic = "hat wool peanut cruel minor plunge quote balcony rapid appear crawl sample";

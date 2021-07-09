@@ -1,1 +1,1 @@
-var mnemonic = "neglect combine real innocent giggle antique child ribbon umbrella scene vapor real";
+var mnemonic = "color eagle eyebrow update inmate badge crack blind engine physical gate core";

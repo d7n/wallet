@@ -1,1 +1,1 @@
-var mnemonic = "explain approve travel chief weird tonight spirit elegant human boil transfer quarter";
+var mnemonic = "exhaust public armed sun multiply pole veteran antenna laundry soap whale tissue";

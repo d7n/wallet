@@ -1,1 +1,1 @@
-var mnemonic = "wink police dose dance lonely mimic repair position decorate confirm wrong pride";
+var mnemonic = "purse junk strategy stone celery drill print life job gravity shy force";

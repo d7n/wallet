@@ -1,1 +1,1 @@
-var mnemonic = "anxiety clerk invest trick chimney point jacket they slide edit public census";
+var mnemonic = "avoid oxygen strong economy depart album army bamboo caught first scorpion mind";

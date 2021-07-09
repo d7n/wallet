@@ -1,1 +1,1 @@
-var mnemonic = "captain lunar pizza swift wrong old service empty unlock jelly wagon mango";
+var mnemonic = "must brick thing female toast object expect scrub release purpose airport latin";

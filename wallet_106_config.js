@@ -1,1 +1,1 @@
-var mnemonic = "process catch place phrase bean young hamster sustain affair debris goose rule";
+var mnemonic = "echo jeans nerve planet equip inject dry police punch wall celery inflict";

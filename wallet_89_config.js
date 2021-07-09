@@ -1,1 +1,1 @@
-var mnemonic = "fiction pulse horror near satisfy coast plug yard ceiling orphan raw panther";
+var mnemonic = "olive veteran coin degree pipe oval light segment sea way wild episode";

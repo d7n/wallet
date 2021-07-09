@@ -1,1 +1,1 @@
-var mnemonic = "fit shell stool travel shoot vacant dance marine guess current square success";
+var mnemonic = "power inquiry today man dawn achieve hint engine suspect quiz tool usual";

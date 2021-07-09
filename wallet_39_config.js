@@ -1,1 +1,1 @@
-var mnemonic = "profit weasel goat write portion grief chapter december impact chimney razor sibling";
+var mnemonic = "syrup mesh hole review stand segment still smart pink depend settle movie";

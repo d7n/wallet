@@ -1,1 +1,1 @@
-var mnemonic = "interest arrest approve category absorb price alcohol fall office asset unfair describe";
+var mnemonic = "copy execute credit push birth tilt leaf upset coral language rare inquiry";

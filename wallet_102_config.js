@@ -1,1 +1,1 @@
-var mnemonic = "day flock canvas hurry aware jaguar cannon conduct response hockey blur try";
+var mnemonic = "emotion grass scatter bag harbor physical shine tide kingdom dice hole movie";

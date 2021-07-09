@@ -1,1 +1,1 @@
-var mnemonic = "spot uniform forget foster gas clay season quit amateur doll yellow candy";
+var mnemonic = "stairs similar dawn yellow derive uncle visa issue tongue scan voice hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch mountain spike enable host attitude puzzle crystal correct disorder once dizzy";
+var mnemonic = "replace finger rocket ability garbage junior uncle repair bread bus science top";

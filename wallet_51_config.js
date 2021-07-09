@@ -1,1 +1,1 @@
-var mnemonic = "magnet rich address knee eager cake confirm cherry what throw dinosaur trick";
+var mnemonic = "current now fossil alien grain escape love teach old fly brick utility";

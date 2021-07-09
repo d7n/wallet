@@ -1,1 +1,1 @@
-var mnemonic = "rule box clay soft resemble walk verb silly trouble barely merry raven";
+var mnemonic = "donkey action recall inform secret hobby pulse weird lizard route rival quick";

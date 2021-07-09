@@ -1,1 +1,1 @@
-var mnemonic = "layer jungle matrix buzz skin gauge end video horror cook candy flower";
+var mnemonic = "ethics slim weird dish song estate glad close cost menu oven bright";

@@ -1,1 +1,1 @@
-var mnemonic = "coin casual ten borrow turkey must proud place feel prosper make immense";
+var mnemonic = "differ worth float museum please elegant tattoo parade cry kidney enhance water";

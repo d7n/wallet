@@ -1,1 +1,1 @@
-var mnemonic = "staff iron album wrap punch language frequent engage cheap coconut combine daring";
+var mnemonic = "will news soda debris endless piano satisfy torch rely script father main";

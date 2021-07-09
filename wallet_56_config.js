@@ -1,1 +1,1 @@
-var mnemonic = "garage else solution destroy vehicle coffee rather lounge pioneer man sketch lizard";
+var mnemonic = "original check average bread puzzle illness vacuum enjoy curve wage boat cluster";

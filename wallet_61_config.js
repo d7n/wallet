@@ -1,1 +1,1 @@
-var mnemonic = "tattoo need crane cotton option question drive canoe clown pepper next slice";
+var mnemonic = "fiction tooth media galaxy mention flag crack tag south despair pledge load";

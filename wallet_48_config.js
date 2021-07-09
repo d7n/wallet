@@ -1,1 +1,1 @@
-var mnemonic = "exact shallow retire cabin castle author calm brief junk wrist bamboo march";
+var mnemonic = "polar soon ask chimney author wild lend keep artefact engage siren need";

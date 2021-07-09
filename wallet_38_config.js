@@ -1,1 +1,1 @@
-var mnemonic = "town sunset choice rural spider negative diesel level buffalo giant toddler whip";
+var mnemonic = "oyster method fantasy lion draft host dice divorce voice system love insect";

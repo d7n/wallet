@@ -1,1 +1,1 @@
-var mnemonic = "fiction protect bread lawsuit unhappy true business connect alien flush swift fun";
+var mnemonic = "mention fee rib entire lion strike now river table comic fresh stumble";

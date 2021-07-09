@@ -1,1 +1,1 @@
-var mnemonic = "century ranch hub syrup among average analyst bulb good cannon alone help";
+var mnemonic = "hidden grief fashion almost either exact fine switch wool false siege shadow";

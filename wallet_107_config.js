@@ -1,1 +1,1 @@
-var mnemonic = "inflict day scare tired dilemma typical toilet real cram advice large female";
+var mnemonic = "candy urban blast joke afford need ghost runway annual thing discover endorse";

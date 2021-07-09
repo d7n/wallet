@@ -1,1 +1,1 @@
-var mnemonic = "pledge duty pulp weekend type plate taxi disagree post fragile oak hurry";
+var mnemonic = "snow patch budget orient panda marine weather cinnamon question seed orient file";
