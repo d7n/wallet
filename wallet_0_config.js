@@ -1,1 +1,1 @@
-var mnemonic = "method hurdle insect roof jelly ready cushion expand nerve winner salt child";
+var mnemonic = "hurt apple comic bubble bulb plastic quick busy true bacon owner logic";

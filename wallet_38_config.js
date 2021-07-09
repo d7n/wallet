@@ -1,1 +1,1 @@
-var mnemonic = "slim farm panic gown noodle ketchup anger promote tiny polar language color";
+var mnemonic = "virtual piano link tower lend mule truck stick prevent sock false now";

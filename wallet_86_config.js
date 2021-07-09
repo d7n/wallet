@@ -1,1 +1,1 @@
-var mnemonic = "wear castle tree rose awesome faculty approve gallery fly seed exclude spell";
+var mnemonic = "equip people garden orchard input vanish orange vacuum session double cycle spoon";

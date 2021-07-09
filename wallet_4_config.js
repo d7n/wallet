@@ -1,1 +1,1 @@
-var mnemonic = "salmon clock silent broom candy what parent glide credit remember transfer avoid";
+var mnemonic = "goose deer box spider barrel dawn umbrella brave dinosaur sad silk reflect";

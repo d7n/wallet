@@ -1,1 +1,1 @@
-var mnemonic = "clever minimum human load ice crash rocket doctor image predict wear crush";
+var mnemonic = "domain glimpse note coconut depend blush bonus impose artwork surface pistol foster";

@@ -1,1 +1,1 @@
-var mnemonic = "medal swamp child mushroom diary pear season muscle card undo sail decade";
+var mnemonic = "model setup bracket cheap truly else resource race trophy split relief column";

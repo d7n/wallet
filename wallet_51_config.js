@@ -1,1 +1,1 @@
-var mnemonic = "satoshi wire hawk width page course image just wink employ pistol zone";
+var mnemonic = "ritual insane honey poem cart welcome warm desk zero casino drill sorry";

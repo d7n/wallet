@@ -1,1 +1,1 @@
-var mnemonic = "luggage crisp topple inject baby fossil that bring afford battle bid diesel";
+var mnemonic = "glow stadium thumb leisure thrive insect arrow hair bar hammer fox regret";

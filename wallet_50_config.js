@@ -1,1 +1,1 @@
-var mnemonic = "table barely news siren chest cash whale flee canoe opinion flavor copper";
+var mnemonic = "lawsuit bottom floor bubble knife run decade guitar suspect city combine tissue";

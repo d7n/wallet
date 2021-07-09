@@ -1,1 +1,1 @@
-var mnemonic = "youth quantum alien connect lock dumb tobacco melody security okay crime segment";
+var mnemonic = "around exile heavy truly monkey property daring hammer extend result ecology business";

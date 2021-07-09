@@ -1,1 +1,1 @@
-var mnemonic = "robust female spend shoot hint chimney illegal predict try spread vague gravity";
+var mnemonic = "wave police modify despair rate jewel end survey tree universe sport inspire";

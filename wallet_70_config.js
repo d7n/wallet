@@ -1,1 +1,1 @@
-var mnemonic = "plug cattle hazard sound debris elbow cloth head bag aisle avoid pet";
+var mnemonic = "merit soft funny summer economy pyramid exercise random settle express cat spot";

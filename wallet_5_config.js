@@ -1,1 +1,1 @@
-var mnemonic = "art monster veteran honey snap stairs chimney annual cabbage slight valve noise";
+var mnemonic = "illness cake try sort moon future fringe bridge liar invest exclude category";

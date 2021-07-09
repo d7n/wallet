@@ -1,1 +1,1 @@
-var mnemonic = "sudden master satoshi situate exotic mother throw reopen thumb pill give atom";
+var mnemonic = "ordinary memory wasp primary oblige video robot grocery attitude concert fox day";

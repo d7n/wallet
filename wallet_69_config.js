@@ -1,1 +1,1 @@
-var mnemonic = "leopard next bachelor borrow flip guide mask neglect noise useful inherit skull";
+var mnemonic = "other since sheriff between put bamboo sustain midnight basic pig camera vehicle";

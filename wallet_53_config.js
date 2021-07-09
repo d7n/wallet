@@ -1,1 +1,1 @@
-var mnemonic = "dad balcony burst shuffle swamp cart govern police hover pride arrive million";
+var mnemonic = "awesome truth logic skull either once adapt shed casual load sugar enforce";

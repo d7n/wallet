@@ -1,1 +1,1 @@
-var mnemonic = "top brass nasty wedding daring theory palm man limit quarter acoustic hunt";
+var mnemonic = "print glare cluster spice avoid cry rigid eye exhibit subway correct exhibit";

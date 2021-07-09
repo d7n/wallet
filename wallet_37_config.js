@@ -1,1 +1,1 @@
-var mnemonic = "vessel sister main cube marble please outer length renew profit during tuna";
+var mnemonic = "amateur harbor half rich eyebrow rescue ill robust kangaroo cause language panther";

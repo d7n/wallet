@@ -1,1 +1,1 @@
-var mnemonic = "enemy sorry steel comic fiction faith spare toddler attend asthma hotel first";
+var mnemonic = "glimpse spare silver forward must woman grape valley exile bid pave unable";

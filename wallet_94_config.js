@@ -1,1 +1,1 @@
-var mnemonic = "morning clerk salmon anxiety leisure wash kiss brother cheap chaos filter puzzle";
+var mnemonic = "member erupt ritual absent evoke solar rotate angle language agree suspect myth";

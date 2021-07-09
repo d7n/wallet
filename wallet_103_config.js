@@ -1,1 +1,1 @@
-var mnemonic = "crush lemon copy maid diary just tiger enact aerobic siren witness ocean";
+var mnemonic = "space tribe assault denial farm moment raccoon naive avoid decade explain cliff";

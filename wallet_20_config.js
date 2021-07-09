@@ -1,1 +1,1 @@
-var mnemonic = "zone tilt upgrade episode bring sad choice wall betray that acoustic opera";
+var mnemonic = "future various fine desert begin afford culture file sugar work buffalo empty";

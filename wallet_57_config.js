@@ -1,1 +1,1 @@
-var mnemonic = "focus fame best robot remind raccoon popular warrior rough float source furnace";
+var mnemonic = "glass cricket exile amused police thought garden manage field garlic mango fold";

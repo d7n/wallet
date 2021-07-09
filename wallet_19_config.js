@@ -1,1 +1,1 @@
-var mnemonic = "skull mixed soul capable pluck salute hurdle air eagle cherry mail typical";
+var mnemonic = "say palm series owner pudding tumble illness solid tenant rib bullet wash";

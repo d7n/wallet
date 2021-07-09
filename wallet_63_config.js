@@ -1,1 +1,1 @@
-var mnemonic = "artwork razor holiday route clap century table world anchor inject garment frown";
+var mnemonic = "spice exile picture once drill lend fine glad exist click will patrol";

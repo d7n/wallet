@@ -1,1 +1,1 @@
-var mnemonic = "riot lava alert search bonus indicate capital leaf slender exact slice solve";
+var mnemonic = "saddle man fame fork neglect pride legend blur index excite question era";

@@ -1,1 +1,1 @@
-var mnemonic = "margin guide alert abuse bachelor supreme smooth list vapor hope stay host";
+var mnemonic = "spell inspire damage feed clump poem damage vast trade real moon neutral";

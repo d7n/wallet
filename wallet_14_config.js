@@ -1,1 +1,1 @@
-var mnemonic = "develop grief scare rebel large repair hurry song embark avoid tool corn";
+var mnemonic = "poverty primary trust woman basic long acid call warfare when spread gasp";

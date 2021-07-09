@@ -1,1 +1,1 @@
-var mnemonic = "pitch flush identify gloom topple little oyster never rhythm sun uniform false";
+var mnemonic = "smoke clump medal canyon agree disease exhaust riot post reward actor game";

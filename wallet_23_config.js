@@ -1,1 +1,1 @@
-var mnemonic = "lottery series margin clown pottery domain crew note crawl detect pulp burst";
+var mnemonic = "goose radio feed arrange entire outside dinner another notice victory law vivid";

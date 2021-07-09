@@ -1,1 +1,1 @@
-var mnemonic = "between sail guess kitten conduct public seminar vast manage link vehicle exile";
+var mnemonic = "sadness oil couple mushroom foil dynamic vanish gas often alone good found";

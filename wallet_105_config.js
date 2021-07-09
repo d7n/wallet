@@ -1,1 +1,1 @@
-var mnemonic = "save rain enter slender arch seminar burst west ignore account service excuse";
+var mnemonic = "pioneer cake diesel index cancel tray hill phone volume front sense hair";

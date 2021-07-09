@@ -1,1 +1,1 @@
-var mnemonic = "naive abuse december chapter nerve faculty obey chat rib offer prize stairs";
+var mnemonic = "tourist town jump tray useless garment garden problem salute palm bring north";

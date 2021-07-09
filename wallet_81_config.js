@@ -1,1 +1,1 @@
-var mnemonic = "roast loud food palace scheme portion field radio pet punch cross woman";
+var mnemonic = "leave soft notable airport leader matrix off use reflect brief risk afford";

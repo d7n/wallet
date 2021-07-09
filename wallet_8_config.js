@@ -1,1 +1,1 @@
-var mnemonic = "kitten bag stamp hospital phrase burger face silly long define ignore desk";
+var mnemonic = "essence robot opera gift link strike stay bean bird law stuff grass";

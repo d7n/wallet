@@ -1,1 +1,1 @@
-var mnemonic = "middle true magnet laptop quiz tiny afford injury eternal shallow pink figure";
+var mnemonic = "donkey deal where claw bulb reason warrior silver pride panic captain theme";

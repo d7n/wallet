@@ -1,1 +1,1 @@
-var mnemonic = "victory area miss half arctic eye scout merry crucial adjust will slogan";
+var mnemonic = "unfair used venue spell yellow sister goat giggle snake domain degree rescue";

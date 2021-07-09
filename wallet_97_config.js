@@ -1,1 +1,1 @@
-var mnemonic = "diesel cereal lumber powder example stone scale entire initial deny march biology";
+var mnemonic = "erosion shoe random split early wait sample enroll empower night eyebrow pepper";

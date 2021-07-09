@@ -1,1 +1,1 @@
-var mnemonic = "limb hire come city leave romance obtain people chair vicious charge trophy";
+var mnemonic = "ripple wrestle decide chef army draft cry slogan segment fire bag speak";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch little human oblige bright champion donate mail kingdom load cluster super";
+var mnemonic = "board frost mixed pyramid offer document this cereal noodle basket mirror copper";

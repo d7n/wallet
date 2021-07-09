@@ -1,1 +1,1 @@
-var mnemonic = "until office science blast aim erase poem track trap apology victory evolve";
+var mnemonic = "chuckle divide hammer case grit teach verify faith lion enrich inform pigeon";

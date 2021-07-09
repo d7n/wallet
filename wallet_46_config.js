@@ -1,1 +1,1 @@
-var mnemonic = "decrease view mule foster rapid aware wrong garage possible discover blanket ugly";
+var mnemonic = "vote panic dismiss path hip insane moral casual shadow office run ready";

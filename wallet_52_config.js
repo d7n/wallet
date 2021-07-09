@@ -1,1 +1,1 @@
-var mnemonic = "sock sight shoulder paper rough cargo pink device master venture core dial";
+var mnemonic = "resemble trash gloom virus potato orient enough palm blast venture one infant";

@@ -1,1 +1,1 @@
-var mnemonic = "hen ramp soap next major put topple quit ladder reject upset capable";
+var mnemonic = "clog egg rhythm saddle slogan cactus base plastic trouble view poem balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "friend survey kiwi give slot quick health squeeze duty latin step early";
+var mnemonic = "identify top seat buzz erupt web mystery page leopard season hollow jungle";

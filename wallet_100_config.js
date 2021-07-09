@@ -1,1 +1,1 @@
-var mnemonic = "valley pool best balance rhythm spider corn brief employ humble battle announce";
+var mnemonic = "organ humor question camera security sad exact math thought favorite divorce task";

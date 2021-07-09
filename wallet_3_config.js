@@ -1,1 +1,1 @@
-var mnemonic = "upgrade quantum floor filter eagle excess host acoustic document tomorrow advice icon";
+var mnemonic = "parrot outdoor thunder force bundle borrow cluster rebel stage hungry police soda";

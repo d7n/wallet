@@ -1,1 +1,1 @@
-var mnemonic = "fruit link circle foot shop author silver shadow ginger tone human spoon";
+var mnemonic = "offer apple amateur raccoon say century jazz shoe zebra relax globe evidence";

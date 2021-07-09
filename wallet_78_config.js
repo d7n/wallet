@@ -1,1 +1,1 @@
-var mnemonic = "old erosion shock unknown muffin stereo science hover tower robot celery mammal";
+var mnemonic = "jump mad slice initial sun you stove online style sand hurt pave";

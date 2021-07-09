@@ -1,1 +1,1 @@
-var mnemonic = "indoor leave time cry honey visit dry release canal drop flight ship";
+var mnemonic = "copper mixture liquid tree pumpkin siege dune vote trip inform pave minimum";

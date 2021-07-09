@@ -1,1 +1,1 @@
-var mnemonic = "program curve excuse frost town tape dismiss scheme engine bacon joy arrange";
+var mnemonic = "female old relax odor average group wrap draw parade crack fever argue";

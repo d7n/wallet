@@ -1,1 +1,1 @@
-var mnemonic = "word tribe forget essay strong funny bread offer produce enrich sand plunge";
+var mnemonic = "adjust pitch elegant silent rhythm afraid kick kidney convince success order poet";

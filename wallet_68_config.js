@@ -1,1 +1,1 @@
-var mnemonic = "resource world lecture have scout subway nest mesh tell result maple waste";
+var mnemonic = "since symptom estate input hold coast comic civil envelope need gesture fiscal";

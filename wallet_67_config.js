@@ -1,1 +1,1 @@
-var mnemonic = "dinner make north hub skull kit gaze defy nature front jar marine";
+var mnemonic = "spy problem tree occur weather coil laundry steak trap buzz defense mandate";

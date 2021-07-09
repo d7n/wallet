@@ -1,1 +1,1 @@
-var mnemonic = "salon boy fiction license federal panda rent vicious average glue opinion expect";
+var mnemonic = "round grape curtain similar embark arrest panic canyon ice talent divorce affair";

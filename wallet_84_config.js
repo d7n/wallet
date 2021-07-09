@@ -1,1 +1,1 @@
-var mnemonic = "critic fee slot steak chronic custom save broken wheel public sudden fence";
+var mnemonic = "monster smart render detail charge electric inner trumpet scatter desk shiver core";

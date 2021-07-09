@@ -1,1 +1,1 @@
-var mnemonic = "useless verb mask sister tumble brass brown sorry egg match multiply combine";
+var mnemonic = "cause library spice very able device essay afraid force purchase steel peanut";

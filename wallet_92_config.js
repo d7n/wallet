@@ -1,1 +1,1 @@
-var mnemonic = "collect way middle grunt blast pulse canvas time legal bomb prison air";
+var mnemonic = "rapid winter minor crew only tomorrow collect interest local soul science thing";

@@ -1,1 +1,1 @@
-var mnemonic = "process appear utility gentle property soap gospel worth road twenty drop slam";
+var mnemonic = "benefit eyebrow scan coral letter fashion laugh sand medal country leader vicious";

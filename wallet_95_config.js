@@ -1,1 +1,1 @@
-var mnemonic = "saddle gain aerobic bottom twin humble muffin economy prepare ancient grace enact";
+var mnemonic = "stage seek quantum index toy gallery about bubble spot first daughter trip";

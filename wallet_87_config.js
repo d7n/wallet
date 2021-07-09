@@ -1,1 +1,1 @@
-var mnemonic = "cupboard student link around journey gadget fever amount author wealth bridge great";
+var mnemonic = "garlic truck favorite poem cement switch you know idea unique birth again";

@@ -1,1 +1,1 @@
-var mnemonic = "left blind afford exhibit bundle sample better anxiety senior travel sunny chapter";
+var mnemonic = "swap define green mesh left shoe boost agree notable finger few gentle";

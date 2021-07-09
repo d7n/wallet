@@ -1,1 +1,1 @@
-var mnemonic = "bronze lend outer huge almost rule trophy squeeze zero column citizen regret";
+var mnemonic = "quiz laptop decrease actor potato solution chunk elephant treat tuition radio honey";

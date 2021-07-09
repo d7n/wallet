@@ -1,1 +1,1 @@
-var mnemonic = "stumble nuclear cabbage metal place other auction organ ecology tone leader illness";
+var mnemonic = "dentist dwarf double apple exist girl multiply lunch output solar alarm gap";

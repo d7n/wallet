@@ -1,1 +1,1 @@
-var mnemonic = "spread truly plunge slight expand rib net oak legend exhibit fetch damage";
+var mnemonic = "retire rebuild banner stamp strike anxiety sing easily blouse circle rent decrease";

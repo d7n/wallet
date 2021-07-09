@@ -1,1 +1,1 @@
-var mnemonic = "useless cause program young party urban relax thunder steak live snow favorite";
+var mnemonic = "beef spy curious success reflect bronze slab avocado moral recipe kite gaze";

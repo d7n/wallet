@@ -1,1 +1,1 @@
-var mnemonic = "become rookie million illegal rib wreck narrow involve snake bronze unit myth";
+var mnemonic = "exclude turkey unhappy engage fiscal fit above mammal account glare already lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze give junk voyage disease pioneer strong cook van other debris apology";
+var mnemonic = "jazz key embark pool icon undo old unique service bread leopard seek";

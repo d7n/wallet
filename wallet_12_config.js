@@ -1,1 +1,1 @@
-var mnemonic = "village lawsuit turtle bike illness polar girl ready sister bargain unaware cactus";
+var mnemonic = "amount acquire they riot fashion prison friend approve burst laugh only loan";

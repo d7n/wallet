@@ -1,1 +1,1 @@
-var mnemonic = "explain tray actual head virus vessel beach frequent supreme proof stable appear";
+var mnemonic = "cabbage grow estate sustain steel visit patient silent tree furnace ahead beyond";

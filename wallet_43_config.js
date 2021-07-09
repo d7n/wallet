@@ -1,1 +1,1 @@
-var mnemonic = "announce convince lobster scout opera aim people canal strategy badge mosquito rack";
+var mnemonic = "index useless indicate artefact weapon history ramp weapon ski poet claim regular";

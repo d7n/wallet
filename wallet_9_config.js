@@ -1,1 +1,1 @@
-var mnemonic = "page wreck nerve border radar frequent decline tackle door example outside extra";
+var mnemonic = "student sea defense trust basic tooth myth globe drip lumber victory find";

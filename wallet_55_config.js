@@ -1,1 +1,1 @@
-var mnemonic = "census core zone moment faint allow badge still dawn daughter laundry maximum";
+var mnemonic = "fever abstract corn next toe wife toast auction crowd scene ivory team";

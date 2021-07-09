@@ -1,1 +1,1 @@
-var mnemonic = "since comic erode hotel sample ridge thumb horror various misery glory frown";
+var mnemonic = "glide awkward trade lottery slight attitude stone festival spirit exercise valid imitate";

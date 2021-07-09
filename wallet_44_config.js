@@ -1,1 +1,1 @@
-var mnemonic = "coral faculty only prefer surface together wear primary catch build happy excess";
+var mnemonic = "loyal antenna retire tourist local gallery visual exotic light diary debate bracket";

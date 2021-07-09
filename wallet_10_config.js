@@ -1,1 +1,1 @@
-var mnemonic = "river own come patch crouch student column zone giant again tail cousin";
+var mnemonic = "tuition skull disagree viable legend flee guess order hold anxiety access measure";

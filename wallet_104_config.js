@@ -1,1 +1,1 @@
-var mnemonic = "grocery certain abstract stay public blanket trumpet someone actress weasel lucky spin";
+var mnemonic = "mouse repair matter sign sell champion budget general trouble slab web smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup lens muffin april idea stomach nuclear dragon notable card fatigue check";
+var mnemonic = "recall flush glad tape essence mechanic hammer captain tip ritual boost fee";

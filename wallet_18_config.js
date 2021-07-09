@@ -1,1 +1,1 @@
-var mnemonic = "desert donkey actress brief poet bike replace calm hawk nation second lucky";
+var mnemonic = "purpose science defense guide series happy parent dirt foam beef output arrow";

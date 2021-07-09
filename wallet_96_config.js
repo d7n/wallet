@@ -1,1 +1,1 @@
-var mnemonic = "spray frequent banner legal stuff civil decide shallow pill minor minimum feature";
+var mnemonic = "april brick come squeeze crater blind mountain sheriff vote reward enroll tail";

@@ -1,1 +1,1 @@
-var mnemonic = "ice fuel bring present street merge glue excess trouble another supply cage";
+var mnemonic = "copper away wisdom excuse switch maple calm regular order receive light step";

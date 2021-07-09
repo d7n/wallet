@@ -1,1 +1,1 @@
-var mnemonic = "series useless hurry oak flat cute thunder govern flip spider soon shield";
+var mnemonic = "inner summer always gallery caution ocean mad mutual saddle divide hair wrist";

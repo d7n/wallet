@@ -1,1 +1,1 @@
-var mnemonic = "soul million stomach dumb news fat rice awesome blossom spoil select own";
+var mnemonic = "bike animal birth lizard panda make fee seed mechanic panther unfair repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic endless void drastic mixture between output razor nose explain floor position";
+var mnemonic = "cereal just vendor alpha tail lottery help tourist excuse casual sunny waste";

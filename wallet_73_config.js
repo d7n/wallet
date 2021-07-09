@@ -1,1 +1,1 @@
-var mnemonic = "baby defy two acquire junk humble little health amount point lesson job";
+var mnemonic = "thing coil theory leaf cram endless bamboo uncover west shy cause exercise";

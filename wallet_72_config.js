@@ -1,1 +1,1 @@
-var mnemonic = "okay road poem game taste wisdom enrich fossil vintage broken laptop spy";
+var mnemonic = "banana express dynamic hope warm congress spoon dice quarter book clay pair";

@@ -1,1 +1,1 @@
-var mnemonic = "hair antenna soft response faith floor invest pool advice napkin next silly";
+var mnemonic = "remain mix job almost moon unfold artist couch copy olive side urban";

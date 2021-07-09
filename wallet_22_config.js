@@ -1,1 +1,1 @@
-var mnemonic = "width letter genre dune abandon direct label mushroom damage oval letter brain";
+var mnemonic = "road that vicious wild neck verb fantasy humor flag flavor glow essence";
