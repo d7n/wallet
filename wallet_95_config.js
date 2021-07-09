@@ -1,1 +1,1 @@
-var mnemonic = "roof guide wise tourist diagram fever flash abandon category ribbon dynamic appear";
+var mnemonic = "best ring glad forest secret rude bus knock original member candy ordinary";

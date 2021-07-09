@@ -1,1 +1,1 @@
-var mnemonic = "raven usage pulse sail suit kite raw egg must thought jewel review";
+var mnemonic = "oblige such latin benefit bleak napkin reopen dirt know combine maple frown";

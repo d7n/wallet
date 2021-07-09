@@ -1,1 +1,1 @@
-var mnemonic = "resource lunch episode bike random exile force night employ donate situate current";
+var mnemonic = "lake jump surround fossil uniform bomb embrace tennis hollow antique shed exercise";

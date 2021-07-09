@@ -1,1 +1,1 @@
-var mnemonic = "elite deposit calm enhance doll iron alcohol trick marriage depend unveil rifle";
+var mnemonic = "pet ranch hard grief prepare kiss muffin cargo initial enter one close";

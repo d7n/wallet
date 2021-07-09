@@ -1,1 +1,1 @@
-var mnemonic = "broom monster cabbage stand damage evoke talent noise length suspect ranch sail";
+var mnemonic = "assault orbit immune unique safe bone extra body smart craft erosion fiscal";

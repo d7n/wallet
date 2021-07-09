@@ -1,1 +1,1 @@
-var mnemonic = "slot front humble glue fiscal verb left horn crime faculty aspect canvas";
+var mnemonic = "display surround special satisfy curve emerge cook daring girl discover grow phone";

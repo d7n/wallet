@@ -1,1 +1,1 @@
-var mnemonic = "foster office grocery person vague seat paddle buyer bus coffee under execute";
+var mnemonic = "cherry frown defy bamboo between number travel laptop either jungle obey man";

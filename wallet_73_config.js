@@ -1,1 +1,1 @@
-var mnemonic = "destroy impact illegal long yard later magic dolphin blood unusual jazz addict";
+var mnemonic = "abandon version destroy bleak clutch disease crunch found zero tank hint mother";

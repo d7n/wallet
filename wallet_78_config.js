@@ -1,1 +1,1 @@
-var mnemonic = "invest amateur icon rare avoid eternal radar rocket camp negative weird extra";
+var mnemonic = "brisk casino ivory plug minimum female appear disease nasty ethics labor okay";

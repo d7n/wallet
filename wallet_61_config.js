@@ -1,1 +1,1 @@
-var mnemonic = "twelve tide march reform city gym orchard pilot vague fluid various draw";
+var mnemonic = "tip wear already soul execute view model opera unaware purity dignity upset";

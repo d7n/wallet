@@ -1,1 +1,1 @@
-var mnemonic = "type arena tired use chalk make cupboard wealth core timber air equip";
+var mnemonic = "arrest orchard oyster science often quote wasp air more uncover drop alpha";

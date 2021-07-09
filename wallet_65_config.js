@@ -1,1 +1,1 @@
-var mnemonic = "damage jelly juice slab favorite winner spring torch amateur buffalo alone middle";
+var mnemonic = "salon adapt resource transfer print banana private easily ivory raw sunny diet";

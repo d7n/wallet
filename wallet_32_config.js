@@ -1,1 +1,1 @@
-var mnemonic = "burst junk trim network spin shield jump actual churn student obtain rely";
+var mnemonic = "message broccoli blouse sting run false motion park travel sphere eternal wish";

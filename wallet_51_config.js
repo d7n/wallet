@@ -1,1 +1,1 @@
-var mnemonic = "crucial gloom inside relax lift drive history manage liberty pipe cage drill";
+var mnemonic = "attitude method tourist fruit play balance diagram control level region regular doll";

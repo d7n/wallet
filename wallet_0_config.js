@@ -1,1 +1,1 @@
-var mnemonic = "coil parent property capital notable renew style stadium width rocket vague one";
+var mnemonic = "scrub chair raw venue rigid lunch slender reflect castle brain staff shield";

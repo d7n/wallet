@@ -1,1 +1,1 @@
-var mnemonic = "waste since hurry enrich merit reflect solution portion library mix forward midnight";
+var mnemonic = "feature fossil crime small because buyer gravity chief jelly author food throw";

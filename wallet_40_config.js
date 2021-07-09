@@ -1,1 +1,1 @@
-var mnemonic = "afraid mandate brand chunk trouble sample fossil parrot guitar pledge shoot dragon";
+var mnemonic = "weekend math same donkey demand sponsor slush hat shiver coyote must head";

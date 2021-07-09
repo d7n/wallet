@@ -1,1 +1,1 @@
-var mnemonic = "vapor mechanic surround sample nut develop great express near flush ozone social";
+var mnemonic = "lobster assault rose law sick utility spin today ribbon broken north shine";

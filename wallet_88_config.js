@@ -1,1 +1,1 @@
-var mnemonic = "enemy army voice wheel dose hat puppy tobacco vote vacuum razor concert";
+var mnemonic = "delay traffic symbol they column fee often addict help salmon culture company";

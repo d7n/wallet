@@ -1,1 +1,1 @@
-var mnemonic = "canal dawn thumb cage bitter approve under wink digital royal math height";
+var mnemonic = "discover palm risk grief quick seven liquid stand guilt shell embrace bachelor";

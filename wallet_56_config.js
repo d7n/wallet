@@ -1,1 +1,1 @@
-var mnemonic = "today faculty unfold relief forward child inhale display link imitate ceiling token";
+var mnemonic = "leisure couch cushion quiz ability wall vessel vessel author response group tower";

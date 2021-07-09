@@ -1,1 +1,1 @@
-var mnemonic = "exit essay tourist north phrase silly file barrel cactus pink floor west";
+var mnemonic = "file slogan nurse demise push brand arena auto fashion very sentence wing";

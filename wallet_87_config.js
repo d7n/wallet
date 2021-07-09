@@ -1,1 +1,1 @@
-var mnemonic = "piece vault amateur change pear door quit idle reject tired quarter poverty";
+var mnemonic = "vacuum hybrid praise elegant knock hard jelly thing task dust merit denial";

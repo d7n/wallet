@@ -1,1 +1,1 @@
-var mnemonic = "opera law parade shine motion jealous proud prefer now bid strong night";
+var mnemonic = "uncle pretty clap unable banana comfort light mail destroy maze vital category";

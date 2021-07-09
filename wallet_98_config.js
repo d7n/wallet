@@ -1,1 +1,1 @@
-var mnemonic = "finger brain since vague hedgehog blush world bargain language high cluster kidney";
+var mnemonic = "bubble comic hidden sun wagon public success horse fade beef glow pave";

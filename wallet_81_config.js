@@ -1,1 +1,1 @@
-var mnemonic = "wise where empower vehicle supreme genre brave hidden brass cube fiber blue";
+var mnemonic = "search swift blur notable shift debris filter garage decrease little decrease perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "own borrow artefact settle expect rubber gaze credit clump dragon kit trash";
+var mnemonic = "salute cram ocean just feed final danger priority indicate recall logic castle";

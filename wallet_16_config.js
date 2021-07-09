@@ -1,1 +1,1 @@
-var mnemonic = "slice security regret cake shadow army lady sunset ostrich drill dizzy thing";
+var mnemonic = "rib corn filter exotic round hurry salute sheriff struggle peanut sausage guess";

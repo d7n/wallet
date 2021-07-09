@@ -1,1 +1,1 @@
-var mnemonic = "manage oval spray exotic gain same emerge relief easily shock miss estate";
+var mnemonic = "wrap claim yard march rookie prison reunion genuine ancient coffee table rich";

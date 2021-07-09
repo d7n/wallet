@@ -1,1 +1,1 @@
-var mnemonic = "steel limb lumber meat title antenna expose decide lawsuit hard mixture symptom";
+var mnemonic = "arrow shock valid social bicycle seven refuse shield abandon sing wonder ball";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle capital green right delay faint second glow budget strong advance potato";
+var mnemonic = "come behave scale dose fatal resemble audit supreme ridge ancient obtain guide";

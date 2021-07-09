@@ -1,1 +1,1 @@
-var mnemonic = "fresh danger miss jewel erase jacket frozen error oval silver citizen page";
+var mnemonic = "hire swim tunnel crime present nuclear slot anchor again thing ivory second";

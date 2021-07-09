@@ -1,1 +1,1 @@
-var mnemonic = "drip budget coil culture quiz quit dream coach music engage absent shine";
+var mnemonic = "human thing quick gather abstract trim portion embrace just skill use usage";

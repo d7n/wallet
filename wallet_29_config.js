@@ -1,1 +1,1 @@
-var mnemonic = "home sun hurry trim thing story pattern mistake cloth yard sing proud";
+var mnemonic = "betray rude slogan brain wonder farm peanut cash execute welcome bench feed";

@@ -1,1 +1,1 @@
-var mnemonic = "submit chaos manual denial disease village clerk obscure sponsor pottery tortoise insect";
+var mnemonic = "library poem major junk home gun normal train follow immense ribbon grab";

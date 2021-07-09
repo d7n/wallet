@@ -1,1 +1,1 @@
-var mnemonic = "oxygen pigeon zero announce embody art super focus erode emerge diary alert";
+var mnemonic = "eternal sight certain distance tray asthma develop wall safe come narrow ahead";

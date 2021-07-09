@@ -1,1 +1,1 @@
-var mnemonic = "final garage announce type youth worry equip pet fragile check fly boat";
+var mnemonic = "image brain panther distance orphan unusual laugh pioneer net fresh few leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "volume gospel panther will dinosaur alcohol gesture crucial stereo way farm run";
+var mnemonic = "patrol youth dismiss walk bread grunt physical rent cable hub excess concert";

@@ -1,1 +1,1 @@
-var mnemonic = "eight armor man mail pottery danger camp access since pilot educate art";
+var mnemonic = "spoon ripple almost meat skate sunny symbol raise solar erase memory subway";

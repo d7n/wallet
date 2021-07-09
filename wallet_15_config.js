@@ -1,1 +1,1 @@
-var mnemonic = "social nut climb library stay wall retire powder time enhance favorite wonder";
+var mnemonic = "scale object exist saddle danger dumb advice depth gorilla doll general gospel";

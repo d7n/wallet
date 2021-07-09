@@ -1,1 +1,1 @@
-var mnemonic = "possible income monkey legend trust tooth step skirt stage identify method judge";
+var mnemonic = "icon media dash funny have useless art obtain zone marine renew federal";

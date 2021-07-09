@@ -1,1 +1,1 @@
-var mnemonic = "feature thumb provide type negative pottery park stable enter wing cabin canvas";
+var mnemonic = "boring rug asset assume mule defense dove powder wet able process own";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow school vicious share squeeze tent swift cube traffic embark parrot timber";
+var mnemonic = "acoustic matrix live thrive cave burden camp basic afraid main off farm";

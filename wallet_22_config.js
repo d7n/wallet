@@ -1,1 +1,1 @@
-var mnemonic = "aunt subject hurt pumpkin hurry silver cricket hollow accident stable fiscal second";
+var mnemonic = "tuition random iron secret indicate famous better million place valley inmate rapid";

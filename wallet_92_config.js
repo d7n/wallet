@@ -1,1 +1,1 @@
-var mnemonic = "alley pink place measure arctic best slogan soda fan size light excess";
+var mnemonic = "fine error skin borrow dragon hand physical gun disorder traffic thumb define";

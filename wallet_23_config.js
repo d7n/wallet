@@ -1,1 +1,1 @@
-var mnemonic = "guilt remain viable appear hope abstract sing olive mandate trophy magic youth";
+var mnemonic = "where grape hat lens armor dismiss crouch fox shift picnic meat nose";

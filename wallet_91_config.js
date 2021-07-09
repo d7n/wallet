@@ -1,1 +1,1 @@
-var mnemonic = "stairs thought hire target long toe fossil adult aim tail tunnel veteran";
+var mnemonic = "satisfy document swear close van solve between acoustic position two term deny";

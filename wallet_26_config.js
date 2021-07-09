@@ -1,1 +1,1 @@
-var mnemonic = "slam trip spring crush force length dream ginger giggle inflict width interest";
+var mnemonic = "correct seminar help bicycle glide mercy absent infant click abuse find valve";

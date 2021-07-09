@@ -1,1 +1,1 @@
-var mnemonic = "rain light west elephant torch enjoy enable pet name lawn razor tobacco";
+var mnemonic = "cement defense castle nice cigar october dress kite guess seven august atom";

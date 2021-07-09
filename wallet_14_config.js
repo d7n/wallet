@@ -1,1 +1,1 @@
-var mnemonic = "voice awful news shoulder photo hand point rhythm ostrich cave pottery trouble";
+var mnemonic = "mule vault wait recipe hawk tobacco viable siege stable embrace reopen add";

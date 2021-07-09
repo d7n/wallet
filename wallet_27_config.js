@@ -1,1 +1,1 @@
-var mnemonic = "question future fragile safe dog flat item inflict open wide floor hobby";
+var mnemonic = "nurse spring bright trick sun dress carry cube voice sibling claw silk";

@@ -1,1 +1,1 @@
-var mnemonic = "goat frozen truth post unveil error adapt whisper tongue wagon alley famous";
+var mnemonic = "slice remove correct fan throw huge nerve distance own void state floor";

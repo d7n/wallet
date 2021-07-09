@@ -1,1 +1,1 @@
-var mnemonic = "bachelor room abuse sniff eternal present perfect aspect envelope average stadium enough";
+var mnemonic = "charge rack bid plunge journey mother media side disorder thank vault unveil";

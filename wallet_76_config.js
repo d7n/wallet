@@ -1,1 +1,1 @@
-var mnemonic = "skill skirt network champion stay inhale easily during chapter fold obscure force";
+var mnemonic = "daughter screen bracket mirror step noodle profit eternal hill laugh okay opera";

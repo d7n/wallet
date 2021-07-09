@@ -1,1 +1,1 @@
-var mnemonic = "trophy risk infant pull turkey dinner pretty cross pupil scorpion dust rapid";
+var mnemonic = "velvet rice quick accident bus rebuild alien seed spoil collect rural version";

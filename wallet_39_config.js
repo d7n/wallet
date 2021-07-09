@@ -1,1 +1,1 @@
-var mnemonic = "know offer swamp snake popular congress laugh know hollow frost blush lottery";
+var mnemonic = "build mammal achieve mixed chat mouse rely before about search betray measure";

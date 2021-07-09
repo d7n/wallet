@@ -1,1 +1,1 @@
-var mnemonic = "aunt illness observe wire olive voice merge debate memory fame unit chicken";
+var mnemonic = "nuclear hat unusual area volcano clip member bicycle push range margin dish";

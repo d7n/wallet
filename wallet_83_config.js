@@ -1,1 +1,1 @@
-var mnemonic = "divide hope drastic arctic quiz stomach neutral review report fiber twice grocery";
+var mnemonic = "sing modify decrease rabbit discover middle birth mandate silly poet rain faint";

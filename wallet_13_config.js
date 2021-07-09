@@ -1,1 +1,1 @@
-var mnemonic = "next fan shine achieve scale strategy slab core hour problem position monster";
+var mnemonic = "void foam exercise huge school next popular veteran attract key arrange reveal";

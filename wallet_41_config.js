@@ -1,1 +1,1 @@
-var mnemonic = "pyramid forget observe juice click scheme twice expect sight fox private shoe";
+var mnemonic = "diesel puzzle ten stem famous require apology head match crew liquid vivid";

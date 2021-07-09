@@ -1,1 +1,1 @@
-var mnemonic = "report finger time rival indoor tower element wife tape rotate truth fresh";
+var mnemonic = "fringe morning add paddle embrace helmet fever receive heart tool easily winter";

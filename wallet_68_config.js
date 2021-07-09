@@ -1,1 +1,1 @@
-var mnemonic = "outside supply body joy repair burger rigid shop isolate gap upgrade brother";
+var mnemonic = "before document alert spatial couple nasty ticket mushroom job abandon panic expect";

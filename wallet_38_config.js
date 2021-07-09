@@ -1,1 +1,1 @@
-var mnemonic = "try evil sheriff clock stadium parent fantasy emerge nuclear flower chase staff";
+var mnemonic = "have rack misery problem jeans wolf utility cliff age roof october figure";

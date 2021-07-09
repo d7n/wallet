@@ -1,1 +1,1 @@
-var mnemonic = "erase dismiss practice payment spice used kangaroo ignore fat faint mention gesture";
+var mnemonic = "parent lend raven hazard want add change rival among surface crash deputy";

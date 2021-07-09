@@ -1,1 +1,1 @@
-var mnemonic = "north avocado heavy fly canal price elbow junk barely balcony tongue ahead";
+var mnemonic = "two cradle renew cause banana page museum essay portion merge ozone spoil";

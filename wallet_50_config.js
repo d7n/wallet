@@ -1,1 +1,1 @@
-var mnemonic = "clutch school noise hazard quit capital ball accident garment derive ball hammer";
+var mnemonic = "guilt couple trap play pelican plug endless viable put tilt slab input";

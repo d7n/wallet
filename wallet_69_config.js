@@ -1,1 +1,1 @@
-var mnemonic = "hunt grid pyramid rare december pumpkin wheat hurdle salt valley rule culture";
+var mnemonic = "symptom rare book lava gadget shed border omit twenty science acid glory";

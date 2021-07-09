@@ -1,1 +1,1 @@
-var mnemonic = "green stamp salmon fence note blade student group real route weapon vapor";
+var mnemonic = "genre venture left trial appear ceiling welcome slice master prefer seek tiny";

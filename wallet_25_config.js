@@ -1,1 +1,1 @@
-var mnemonic = "patrol royal session write erode museum gas forward near film air together";
+var mnemonic = "plunge explain bread mammal setup million mail film ready butter fiction biology";

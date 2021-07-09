@@ -1,1 +1,1 @@
-var mnemonic = "boring proof avocado gap camera artefact snap rice dune intact awkward purity";
+var mnemonic = "disease credit coyote fame disease genre ready intact rate kick bird there";

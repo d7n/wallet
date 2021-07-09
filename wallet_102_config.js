@@ -1,1 +1,1 @@
-var mnemonic = "ecology announce clay rapid rude submit ball banana warm glow romance argue";
+var mnemonic = "style super crowd health silent image sell invite virus cycle clinic umbrella";

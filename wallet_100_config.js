@@ -1,1 +1,1 @@
-var mnemonic = "amazing kangaroo cinnamon embark child east gown sail shaft attack second swear";
+var mnemonic = "vehicle episode torch route seek virus eager tribe course clutch ozone volcano";

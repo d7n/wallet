@@ -1,1 +1,1 @@
-var mnemonic = "capital lunar vehicle flat link chair short resist collect jealous truth aunt";
+var mnemonic = "must evoke canal response above crawl shove pass ozone normal tenant clinic";

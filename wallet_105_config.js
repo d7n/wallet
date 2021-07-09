@@ -1,1 +1,1 @@
-var mnemonic = "brown prize nuclear creek frost describe parrot mention latin satoshi chair plunge";
+var mnemonic = "guess promote fly submit venture collect acoustic track maximum journey soap wear";

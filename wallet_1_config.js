@@ -1,1 +1,1 @@
-var mnemonic = "shell surface flock front shaft flee jeans detail raise friend lion guess";
+var mnemonic = "short another toe fat fly street rookie cinnamon can tuna sting expire";

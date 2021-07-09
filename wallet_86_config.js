@@ -1,1 +1,1 @@
-var mnemonic = "avocado couple daring brown meadow tilt unique sleep carbon food practice pledge";
+var mnemonic = "divert access frequent identify priority trial race demand exercise display silver cement";

@@ -1,1 +1,1 @@
-var mnemonic = "logic rapid range crater poem food that lyrics code laptop agree brother";
+var mnemonic = "spread metal stand armed menu unlock like turkey hello gate spoil uncover";

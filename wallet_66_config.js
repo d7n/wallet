@@ -1,1 +1,1 @@
-var mnemonic = "story trumpet pulp together fury candy crunch few walnut state current siren";
+var mnemonic = "jump scheme empty fun hero during tumble tray amateur boil display regret";

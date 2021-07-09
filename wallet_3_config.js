@@ -1,1 +1,1 @@
-var mnemonic = "analyst minimum turn canvas walnut tortoise bracket embrace rally mistake various stamp";
+var mnemonic = "depart fossil moon sand fruit citizen crisp essence lunar hood lottery hockey";

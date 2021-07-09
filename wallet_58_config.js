@@ -1,1 +1,1 @@
-var mnemonic = "cliff vital during thank anger express float leaf detect satoshi tomorrow crash";
+var mnemonic = "perfect village boil few scare thunder rapid gown energy hedgehog soon degree";

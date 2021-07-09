@@ -1,1 +1,1 @@
-var mnemonic = "bubble brisk allow stomach candy come absorb vast light eye second senior";
+var mnemonic = "hammer engage sphere path stumble ritual pill very exotic wealth number place";

@@ -1,1 +1,1 @@
-var mnemonic = "ice cheap furnace police melt library what reward camp wall erode turkey";
+var mnemonic = "parade wish volcano naive fresh deposit because human alter genius chef usual";

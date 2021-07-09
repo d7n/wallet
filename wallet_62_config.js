@@ -1,1 +1,1 @@
-var mnemonic = "swap office wire run hollow confirm seed tenant million jaguar exile ketchup";
+var mnemonic = "cram follow symbol clinic pumpkin doctor discover sign dilemma treat breeze obtain";

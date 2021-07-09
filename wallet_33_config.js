@@ -1,1 +1,1 @@
-var mnemonic = "broken ability truth beef own neutral approve happy market hammer output mind";
+var mnemonic = "thrive scheme loyal ketchup blood reflect dragon wish omit figure wise modify";

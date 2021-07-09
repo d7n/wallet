@@ -1,1 +1,1 @@
-var mnemonic = "gown cement source wise fever shield wash make advice adapt window actress";
+var mnemonic = "fiscal ship soap weasel suggest onion same search pony target noodle bike";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm find first ridge race power scatter among oppose taste apology involve";
+var mnemonic = "order stay robust pistol feature nephew tilt industry wonder business sing air";

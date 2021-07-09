@@ -1,1 +1,1 @@
-var mnemonic = "cable scheme solar major piece betray clip move raven smoke pistol useful";
+var mnemonic = "execute brother weapon weasel rich arrange negative demise sorry vehicle blood destroy";

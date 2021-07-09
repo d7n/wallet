@@ -1,1 +1,1 @@
-var mnemonic = "card rib chimney demand economy deliver voyage churn jazz people version before";
+var mnemonic = "usage curve awake relax carbon fee cube raise absurd city snap curve";

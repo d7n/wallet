@@ -1,1 +1,1 @@
-var mnemonic = "figure journey planet dismiss roof rich famous tiger robust arch join search";
+var mnemonic = "junior engine float acid spend outer south verb jacket artist lift trial";

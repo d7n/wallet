@@ -1,1 +1,1 @@
-var mnemonic = "rent hill pole second plate apple sign open bag toast holiday fitness";
+var mnemonic = "taste scheme melody zoo bullet cricket feel busy prison hockey vicious envelope";

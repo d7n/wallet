@@ -1,1 +1,1 @@
-var mnemonic = "shock just elder spoon shed since liquid boost book glove grass delay";
+var mnemonic = "emerge curve suggest exist immense forest face fortune inch movie desk shallow";

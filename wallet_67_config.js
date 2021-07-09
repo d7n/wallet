@@ -1,1 +1,1 @@
-var mnemonic = "aim faith culture carry woman hungry slow income cave correct absent talk";
+var mnemonic = "gold meat name dignity equal helmet danger half hello hint artist hen";

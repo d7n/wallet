@@ -1,1 +1,1 @@
-var mnemonic = "spawn area cash ugly earn brain pool often situate pond online column";
+var mnemonic = "sentence parrot audit question whale struggle click weapon flower gauge fatal side";
