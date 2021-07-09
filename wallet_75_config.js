@@ -1,1 +1,1 @@
-var mnemonic = "mom gauge coffee mechanic grain decrease surge property hospital same beyond license";
+var mnemonic = "buddy motion exclude sketch drift link photo elder swap useful forget water";

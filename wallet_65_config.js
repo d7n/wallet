@@ -1,1 +1,1 @@
-var mnemonic = "royal purse feel choose farm cube hole name entire inspire flat laugh";
+var mnemonic = "candy eight book produce steak finger derive method edit reduce before stumble";

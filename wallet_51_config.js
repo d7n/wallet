@@ -1,1 +1,1 @@
-var mnemonic = "prepare spice brain stone coyote vacant steak now bring garment march lab";
+var mnemonic = "stool snake flight shuffle section timber never lobster tomato post brick tobacco";

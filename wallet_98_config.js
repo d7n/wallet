@@ -1,1 +1,1 @@
-var mnemonic = "retreat emotion car title cycle youth neck rose sting prepare promote country";
+var mnemonic = "good rail choice govern paddle small inflict home piece tumble name flame";

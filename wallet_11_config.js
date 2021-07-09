@@ -1,1 +1,1 @@
-var mnemonic = "peasant spend load vault menu zone figure three drum name into idle";
+var mnemonic = "home image deny senior comfort stomach nuclear card world place consider spot";

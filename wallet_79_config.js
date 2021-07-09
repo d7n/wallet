@@ -1,1 +1,1 @@
-var mnemonic = "pear vessel estate buzz sick jar planet animal sport shadow caught enemy";
+var mnemonic = "simple quarter october size bitter twin supreme define order lawsuit valid cancel";

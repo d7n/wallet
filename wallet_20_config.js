@@ -1,1 +1,1 @@
-var mnemonic = "account melt token crazy trap bar tag army doctor catalog gold arena";
+var mnemonic = "web mutual shuffle connect run tiny solid cost furnace live also black";

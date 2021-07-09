@@ -1,1 +1,1 @@
-var mnemonic = "trigger thing mule slab like embrace output crime fancy legal connect uncover";
+var mnemonic = "choice cram loud example bless popular absorb tray analyst student maze below";

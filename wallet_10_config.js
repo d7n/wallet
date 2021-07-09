@@ -1,1 +1,1 @@
-var mnemonic = "opinion movie diary admit unlock jelly fine drift key unique club ensure";
+var mnemonic = "deer circle addict gate pride donkey output auction legend beauty range bring";

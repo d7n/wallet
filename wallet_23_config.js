@@ -1,1 +1,1 @@
-var mnemonic = "breeze tiny trophy sound alarm provide hen remember weapon climb dash boss";
+var mnemonic = "punch weasel scatter obey reflect improve ocean resemble apart victory three flee";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal spot indicate patient unable bind flip cry melody chase inside unknown";
+var mnemonic = "issue either dad short horse announce almost kind shoe nominee reflect tiger";

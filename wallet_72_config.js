@@ -1,1 +1,1 @@
-var mnemonic = "fiscal deposit distance pattern egg border cotton buyer ritual oyster merge click";
+var mnemonic = "drill bottom core small elder knife floor stock exhibit pair grocery imitate";

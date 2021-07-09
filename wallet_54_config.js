@@ -1,1 +1,1 @@
-var mnemonic = "gallery sugar rail borrow future pistol own sure athlete legend bike faint";
+var mnemonic = "source daughter reunion whale diary absent bounce arctic spin enable economy orange";

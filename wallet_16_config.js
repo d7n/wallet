@@ -1,1 +1,1 @@
-var mnemonic = "elite smart robot outside soup hole legal normal avoid skull divorce ankle";
+var mnemonic = "game stadium unhappy farm shrimp glance volume wonder prefer cover february fossil";

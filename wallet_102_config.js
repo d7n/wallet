@@ -1,1 +1,1 @@
-var mnemonic = "reflect combine road regular social angry soon exchange upper decide leave canoe";
+var mnemonic = "attitude lesson void early prefer social venture fury expire shift junior dash";

@@ -1,1 +1,1 @@
-var mnemonic = "bike begin dwarf churn response major comic sun pistol taxi menu void";
+var mnemonic = "hero inject test robot bottom trip hip best animal security enemy elegant";

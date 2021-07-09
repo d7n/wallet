@@ -1,1 +1,1 @@
-var mnemonic = "sort wool air three elite ocean speed depart replace bottom sand oven";
+var mnemonic = "beyond kingdom mention famous taxi forest host sense panda name fitness squeeze";

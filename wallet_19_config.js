@@ -1,1 +1,1 @@
-var mnemonic = "grant menu holiday lawn lava edit light true tool magic picnic mesh";
+var mnemonic = "reveal claw tiny west office nation anxiety also palm faint almost scissors";

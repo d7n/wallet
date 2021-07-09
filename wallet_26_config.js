@@ -1,1 +1,1 @@
-var mnemonic = "base that increase garbage huge diesel output toss smoke govern throw phone";
+var mnemonic = "feel dove bike cube valid project hat rack ridge entry retire net";

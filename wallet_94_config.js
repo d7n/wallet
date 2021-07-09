@@ -1,1 +1,1 @@
-var mnemonic = "evidence involve strike kangaroo beyond cycle chest coach olympic master they detail";
+var mnemonic = "insane such become brass hurt dolphin follow crawl angle guide quick speed";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight panda exotic tank casual puzzle pepper vacant north history radio hat";
+var mnemonic = "spoil scout few brand upon when merry together dice level method cross";

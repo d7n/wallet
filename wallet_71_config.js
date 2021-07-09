@@ -1,1 +1,1 @@
-var mnemonic = "swarm distance better rookie grace express sun ahead acid feature pretty expect";
+var mnemonic = "adult woman initial combine live dwarf large online february quality pink topple";

@@ -1,1 +1,1 @@
-var mnemonic = "federal negative depth estate bone tone note margin light saddle wreck famous";
+var mnemonic = "blind similar reflect usual caught zoo north burden crawl matter hour lake";

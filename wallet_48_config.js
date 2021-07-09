@@ -1,1 +1,1 @@
-var mnemonic = "arrest drip music arena axis version all intact mansion clutch empower trouble";
+var mnemonic = "muscle powder ghost ready anger grab debris sister remain cattle peace canvas";

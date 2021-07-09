@@ -1,1 +1,1 @@
-var mnemonic = "fabric flag cause win opera avocado bottom public demand dilemma file dinosaur";
+var mnemonic = "replace result since slot deer window life cross sunny duty urge couch";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon tenant circle taste wild confirm duty dynamic syrup draft royal prepare";
+var mnemonic = "enrich female obey fee law system allow this film toe enrich seek";

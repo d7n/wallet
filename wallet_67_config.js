@@ -1,1 +1,1 @@
-var mnemonic = "vintage broccoli mad grunt umbrella foil filter dynamic invite scrub winter slender";
+var mnemonic = "near confirm again simple dilemma charge anxiety accuse fiber trade route zebra";

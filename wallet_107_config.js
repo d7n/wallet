@@ -1,1 +1,1 @@
-var mnemonic = "movie credit add breeze there cream scorpion february fat buddy next leisure";
+var mnemonic = "veteran never lens scrap lend canvas still inject library sea protect include";

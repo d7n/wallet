@@ -1,1 +1,1 @@
-var mnemonic = "embark sunny brown lonely cradle bright teach speak shuffle meadow tackle topic";
+var mnemonic = "promote board uncover lazy jelly amount orchard globe program together admit cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "move cook monitor shoulder physical caution judge hello nose height loud sunset";
+var mnemonic = "frown beauty you burst club blanket field gather guide margin weapon animal";

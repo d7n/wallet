@@ -1,1 +1,1 @@
-var mnemonic = "option fresh boost leg rotate good develop dawn border material sing bike";
+var mnemonic = "dove seed hospital crane prosper globe room only diagram pet cup advice";

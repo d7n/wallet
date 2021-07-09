@@ -1,1 +1,1 @@
-var mnemonic = "kitchen actual service feature chest embrace crack ski gesture display convince bind";
+var mnemonic = "fury act spoon eyebrow squirrel zone mention prefer ketchup satoshi jewel party";

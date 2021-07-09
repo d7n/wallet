@@ -1,1 +1,1 @@
-var mnemonic = "cat scan wide right laugh move truth either wheel picture option daring";
+var mnemonic = "tenant pigeon veteran vital require blouse grant suspect gym shaft cause extend";

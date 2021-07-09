@@ -1,1 +1,1 @@
-var mnemonic = "kite spike half regular mushroom lounge keep escape swear damage collect opinion";
+var mnemonic = "solid hazard author dirt film interest sail buyer gown someone salon galaxy";

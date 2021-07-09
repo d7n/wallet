@@ -1,1 +1,1 @@
-var mnemonic = "purity zero eye thunder monkey crew blue bright arctic dice bleak steel";
+var mnemonic = "decide position humor party mosquito decline panther help oxygen basket two frown";

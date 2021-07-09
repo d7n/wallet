@@ -1,1 +1,1 @@
-var mnemonic = "vast oppose blind cradle lens cable tobacco present evolve canoe remember bless";
+var mnemonic = "just robust luggage lava direct cricket discover visit alcohol result hero slogan";

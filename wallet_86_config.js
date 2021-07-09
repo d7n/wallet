@@ -1,1 +1,1 @@
-var mnemonic = "shed shrimp limit own awful eagle elbow camp jelly denial piece voice";
+var mnemonic = "promote prosper logic split ordinary approve lock gossip suggest injury transfer zebra";

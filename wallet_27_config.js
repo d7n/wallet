@@ -1,1 +1,1 @@
-var mnemonic = "sign sunny derive wood grocery board raise diamond bachelor burst allow winner";
+var mnemonic = "pulse tackle metal oyster disease galaxy surface curious journey step flip uphold";

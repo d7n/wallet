@@ -1,1 +1,1 @@
-var mnemonic = "flag wood game concert fetch destroy salad stamp shove weapon judge smile";
+var mnemonic = "hedgehog knee thank enter wash theory awful awake turn collect slow size";

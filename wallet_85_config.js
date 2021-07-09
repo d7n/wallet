@@ -1,1 +1,1 @@
-var mnemonic = "drive primary pave lottery regret language twenty phrase dolphin case boss journey";
+var mnemonic = "slim garlic deny program link daring digital patch luggage fault female primary";

@@ -1,1 +1,1 @@
-var mnemonic = "end oval brand antique peasant impulse chimney area juice menu master culture";
+var mnemonic = "stock brand gown interest strike park summer alter upgrade talk empower fine";

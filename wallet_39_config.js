@@ -1,1 +1,1 @@
-var mnemonic = "work goat property bike future great nerve short super help world assume";
+var mnemonic = "crystal ahead agent leaf often pass treat forward broccoli leg plunge artwork";

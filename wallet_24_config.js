@@ -1,1 +1,1 @@
-var mnemonic = "blade hand bottom lion kick nut depart cause remind fabric fitness pact";
+var mnemonic = "guilt define soda drift exhibit concert change alter practice jaguar imitate family";

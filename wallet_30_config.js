@@ -1,1 +1,1 @@
-var mnemonic = "butter blanket frame puppy open citizen affair bonus palace decorate pause scan";
+var mnemonic = "repeat fire proof segment luggage lift amazing taste boil foil pupil clump";

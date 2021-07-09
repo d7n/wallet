@@ -1,1 +1,1 @@
-var mnemonic = "around enough genius oxygen govern dismiss butter lend toddler myself field follow";
+var mnemonic = "age road wedding pelican close crucial doll lucky virtual merry road corn";

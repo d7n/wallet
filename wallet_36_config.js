@@ -1,1 +1,1 @@
-var mnemonic = "cry keen word winter tilt nasty goat sponsor rabbit fever swing idle";
+var mnemonic = "theme merge zone skill sheriff pear major quantum dizzy able lizard rich";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny long arena photo mammal worth echo color use accident scheme code";
+var mnemonic = "brick ostrich sunset there example fee program easy eagle recycle hub dilemma";

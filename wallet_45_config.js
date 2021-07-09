@@ -1,1 +1,1 @@
-var mnemonic = "blanket runway punch idea write biology empty predict fun trumpet science market";
+var mnemonic = "clinic duck phrase couple web casual speed divorce fan indoor decline stomach";

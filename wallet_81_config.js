@@ -1,1 +1,1 @@
-var mnemonic = "fee future giggle earn planet horse chief hedgehog lawsuit plug define frog";
+var mnemonic = "beyond control best avoid luxury sure anchor flash tell cancel main always";

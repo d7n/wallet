@@ -1,1 +1,1 @@
-var mnemonic = "ladder current regular kid future index sand improve romance fever radar wheel";
+var mnemonic = "joke damp inform wear grape concert coast sunny rabbit attend bridge version";

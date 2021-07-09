@@ -1,1 +1,1 @@
-var mnemonic = "order ecology tail birth kitten angle town length snap whip benefit crane";
+var mnemonic = "snake blood excuse surge village cube asset robot follow busy switch museum";

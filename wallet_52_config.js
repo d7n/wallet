@@ -1,1 +1,1 @@
-var mnemonic = "nature husband yellow nothing figure cousin meat festival install fantasy siren brand";
+var mnemonic = "clown snack worth behind diary captain august error man dish diesel refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "usage genius slender impact kangaroo lunch now auction drive half limit light";
+var mnemonic = "admit mirror bundle spare cherry ability jacket simple country figure spatial soon";

@@ -1,1 +1,1 @@
-var mnemonic = "normal tool captain practice phone junior unaware strategy quarter bleak absent bubble";
+var mnemonic = "squeeze that lamp borrow state birth where enable visual bid task shuffle";

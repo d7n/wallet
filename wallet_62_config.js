@@ -1,1 +1,1 @@
-var mnemonic = "expand desk planet initial mystery defense pulp depth rude obtain around drift";
+var mnemonic = "image property patrol hub stool job train wrist stereo fat poem suspect";

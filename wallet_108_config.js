@@ -1,1 +1,1 @@
-var mnemonic = "traffic dinosaur consider fox east coil tongue denial grace clock issue radar";
+var mnemonic = "wise skate fashion turkey exile shove worry purchase any kidney crane adjust";

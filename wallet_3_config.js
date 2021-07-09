@@ -1,1 +1,1 @@
-var mnemonic = "language there trend elevator merit ten word scale pipe smart load gorilla";
+var mnemonic = "bacon arm pen level athlete tuition heavy guide forest post jazz grunt";

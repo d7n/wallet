@@ -1,1 +1,1 @@
-var mnemonic = "catalog arm blade near middle palm upgrade alarm index ostrich polar unusual";
+var mnemonic = "tail turkey mutual capable atom cliff profit ribbon clip drink juice broken";

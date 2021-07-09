@@ -1,1 +1,1 @@
-var mnemonic = "initial finger purse bacon person spatial fury december version harsh evil ship";
+var mnemonic = "humble rack interest pole fringe catch accuse report defy assist social hair";

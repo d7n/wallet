@@ -1,1 +1,1 @@
-var mnemonic = "draft glove sand situate expire scene fluid hover reduce tongue wait crouch";
+var mnemonic = "click fresh palm brother output leave stool hobby abuse fold leg sense";

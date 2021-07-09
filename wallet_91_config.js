@@ -1,1 +1,1 @@
-var mnemonic = "correct inmate donate tell dress open hunt buyer grunt sketch monster gun";
+var mnemonic = "bomb trick illegal walk depend basket twin wisdom speed prize dismiss renew";

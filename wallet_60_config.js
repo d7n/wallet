@@ -1,1 +1,1 @@
-var mnemonic = "split skirt decline size educate corn strategy bag impulse prevent ahead south";
+var mnemonic = "monster limit blue lion slight juice song appear unusual box plate jewel";

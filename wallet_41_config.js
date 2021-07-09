@@ -1,1 +1,1 @@
-var mnemonic = "north fringe client shine address pluck hidden candy any pioneer economy flame";
+var mnemonic = "glide guilt jump leaf timber ketchup mercy pear gas swing razor pride";

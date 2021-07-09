@@ -1,1 +1,1 @@
-var mnemonic = "nasty boost cost topic tunnel mango surge spoil ranch buzz heavy coyote";
+var mnemonic = "obey easy bar have oxygen bacon mechanic goddess rude destroy guilt maple";

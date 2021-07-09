@@ -1,1 +1,1 @@
-var mnemonic = "equip scout story drum middle town arch pioneer sick surface manual joy";
+var mnemonic = "army subway acoustic glow truly chat mango box tattoo defense rib kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "circle blanket kiwi ring narrow owner history punch oval rate faculty true";
+var mnemonic = "dance grab lawsuit deliver art program casino memory emotion popular ranch unlock";

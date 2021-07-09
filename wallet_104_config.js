@@ -1,1 +1,1 @@
-var mnemonic = "member ask liar transfer daring say weapon dinner exchange soul door soap";
+var mnemonic = "faith alpha envelope search fly soap reward twin trigger piece must industry";

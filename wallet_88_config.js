@@ -1,1 +1,1 @@
-var mnemonic = "fossil purse pudding empower sausage wait about laugh fade chuckle install carbon";
+var mnemonic = "this decrease museum rally pilot taste sorry slush want angry define day";

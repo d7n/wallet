@@ -1,1 +1,1 @@
-var mnemonic = "include argue garbage slender equip truth strong churn planet glory calm parent";
+var mnemonic = "cheap bulb stock pizza visit buyer agent total fuel happy utility federal";

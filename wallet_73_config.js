@@ -1,1 +1,1 @@
-var mnemonic = "amused trap cannon you drink tunnel swarm gorilla chalk dolphin unit cactus";
+var mnemonic = "height can section tower concert solve edge shoulder mask scrub resist suffer";

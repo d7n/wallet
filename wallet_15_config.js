@@ -1,1 +1,1 @@
-var mnemonic = "save ceiling poem bulk indicate amused climb weekend brisk scatter gun artefact";
+var mnemonic = "merit wagon hire broccoli jewel forward feed wealth nothing fetch cherry jar";

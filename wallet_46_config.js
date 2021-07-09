@@ -1,1 +1,1 @@
-var mnemonic = "inhale trouble jazz process fancy rifle gospel permit odor east web tumble";
+var mnemonic = "vicious disagree blouse fruit embark equal critic ordinary bless announce razor orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "often accuse cost grit piano network divorce round future maple sun siren";
+var mnemonic = "half execute magic solar want company globe hurdle morning parrot custom nurse";

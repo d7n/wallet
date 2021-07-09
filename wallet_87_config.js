@@ -1,1 +1,1 @@
-var mnemonic = "current hawk long prefer stadium remain nice fall legal phrase antique also";
+var mnemonic = "cry guard woman uncle quantum inmate call reward bar roof verify silent";

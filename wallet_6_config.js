@@ -1,1 +1,1 @@
-var mnemonic = "improve rule mosquito spawn dice venture metal grass weekend antique typical inch";
+var mnemonic = "steel one nerve three chapter obtain sunny maximum valley thrive man cable";

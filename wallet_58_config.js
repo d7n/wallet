@@ -1,1 +1,1 @@
-var mnemonic = "spoon always exile that retreat six plate month among photo myself lounge";
+var mnemonic = "pave humble grocery will luxury unaware prosper walk bulk concert pulp cannon";

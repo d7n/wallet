@@ -1,1 +1,1 @@
-var mnemonic = "select client crop rice foil liar exotic onion nature dumb wheat bring";
+var mnemonic = "potato food weather cream anchor install better fossil stool canvas witness never";

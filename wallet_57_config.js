@@ -1,1 +1,1 @@
-var mnemonic = "bonus turkey occur extra genuine exclude fragile wool fabric between mixture fault";
+var mnemonic = "eye tragic chef sock cluster gown chimney before awful nasty piano charge";

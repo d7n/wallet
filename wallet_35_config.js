@@ -1,1 +1,1 @@
-var mnemonic = "pond potato skate sheriff talent fix bubble quote cherry picture science vanish";
+var mnemonic = "announce couch polar prepare pipe among until stairs card cause close depart";

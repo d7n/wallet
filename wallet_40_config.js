@@ -1,1 +1,1 @@
-var mnemonic = "review mule wrist ghost hole clap sting bless security mixed apology purpose";
+var mnemonic = "sunset portion culture gloom protect agent episode luggage consider pencil friend umbrella";

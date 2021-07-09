@@ -1,1 +1,1 @@
-var mnemonic = "weird balcony jungle eager turkey leisure rare provide rebel blast patient toward";
+var mnemonic = "reopen theory orbit silent general spatial chase junior deal iron quarter moral";

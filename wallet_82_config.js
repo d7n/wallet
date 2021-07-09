@@ -1,1 +1,1 @@
-var mnemonic = "glance icon yellow state material fine cook suffer wall install cement flame";
+var mnemonic = "detect defense pact blood devote indicate scrub honey example camera tree flower";

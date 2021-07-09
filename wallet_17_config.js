@@ -1,1 +1,1 @@
-var mnemonic = "verb reason lab onion under example knife bubble toilet arrange chief dynamic";
+var mnemonic = "burst oak struggle cage avocado ensure buddy anger length soul humor guide";

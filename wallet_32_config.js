@@ -1,1 +1,1 @@
-var mnemonic = "another picnic mountain biology other plate expire mention come effort honey excite";
+var mnemonic = "odor lake history stairs little father orange green garden priority bike near";

@@ -1,1 +1,1 @@
-var mnemonic = "trash popular vendor bar pumpkin dinosaur vault inquiry flee organ shadow club";
+var mnemonic = "index crisp fossil sea promote soccer notable meadow scissors claim grunt uncle";

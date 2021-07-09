@@ -1,1 +1,1 @@
-var mnemonic = "magnet confirm leisure system rural mouse defense yard nation clump nurse art";
+var mnemonic = "theory hour evil fun lock throw chronic nothing month strike shock aerobic";

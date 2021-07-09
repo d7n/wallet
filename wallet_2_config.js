@@ -1,1 +1,1 @@
-var mnemonic = "correct mail pink lawsuit usual avocado enrich wagon boil secret old stumble";
+var mnemonic = "choose about leader spot mind scale electric sock pudding order horse sick";

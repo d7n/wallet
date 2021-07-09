@@ -1,1 +1,1 @@
-var mnemonic = "crawl impose army ridge bird crane prepare cloth quality account range start";
+var mnemonic = "state receive tip flame scan float pet report victory action uphold kidney";

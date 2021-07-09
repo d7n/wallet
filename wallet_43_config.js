@@ -1,1 +1,1 @@
-var mnemonic = "zone general matrix kick supreme dish motor wage winter shed dumb pig";
+var mnemonic = "boost exclude toward desk horror person crew gift like kitchen practice train";

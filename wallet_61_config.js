@@ -1,1 +1,1 @@
-var mnemonic = "crystal bitter lady diet slab clown kitchen solar outer provide emerge eye";
+var mnemonic = "kid glove smooth ribbon coil caught what raise scatter panda obscure jump";

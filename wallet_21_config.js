@@ -1,1 +1,1 @@
-var mnemonic = "short trial crucial volcano category sail dice biology shallow tomato upon laundry";
+var mnemonic = "rich imitate squirrel museum label vessel half mean reason own forum entire";

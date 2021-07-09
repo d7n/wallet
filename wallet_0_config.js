@@ -1,1 +1,1 @@
-var mnemonic = "smoke valley ribbon tree trim tail miracle unfair medal hidden erase mom";
+var mnemonic = "embrace virus narrow fever frozen remind citizen glory eyebrow cute marine essay";

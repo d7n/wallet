@@ -1,1 +1,1 @@
-var mnemonic = "armed umbrella elder height nerve hazard lumber oven arrive what pear cancel";
+var mnemonic = "security special involve shrug goose feel series detect ball smart toilet auto";

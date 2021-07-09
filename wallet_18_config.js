@@ -1,1 +1,1 @@
-var mnemonic = "embark ask school misery guess submit spirit isolate pupil fault ask year";
+var mnemonic = "rent crater despair balcony tribe school over issue melody term beach approve";

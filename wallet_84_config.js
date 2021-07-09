@@ -1,1 +1,1 @@
-var mnemonic = "spice shock hunt rice essay diamond tourist buzz mango lamp torch valid";
+var mnemonic = "flip height hamster pigeon ahead huge among upgrade fatal hungry such genre";
