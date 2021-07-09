@@ -1,1 +1,1 @@
-var mnemonic = "plastic eternal behind census dry deposit shove evoke ride ice expire frame";
+var mnemonic = "spread harvest can trophy crisp kitchen brown episode logic okay throw craft";

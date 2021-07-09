@@ -1,1 +1,1 @@
-var mnemonic = "moon sock motion eager blind swear fine olive witness manual aisle caught";
+var mnemonic = "annual flip access pudding talent endorse abuse follow exact analyst major hint";

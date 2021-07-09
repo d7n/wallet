@@ -1,1 +1,1 @@
-var mnemonic = "zero series deposit doll group lonely region paper fish you utility cook";
+var mnemonic = "near cement rough unusual manage royal glow evoke own solution style polar";

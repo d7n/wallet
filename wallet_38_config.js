@@ -1,1 +1,1 @@
-var mnemonic = "copper head parade easy rather word license weapon two lucky prevent wife";
+var mnemonic = "poet curious avoid script copy awful scene pumpkin staff practice spot exhaust";

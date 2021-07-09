@@ -1,1 +1,1 @@
-var mnemonic = "female already tank artefact iron indicate point firm myth maze fame connect";
+var mnemonic = "purity youth hidden oblige afraid nation before color off metal shove noise";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost crowd cabin nest eyebrow north corn song fever picnic thumb artwork";
+var mnemonic = "liquid sister number duck fringe sadness blade clean project river square like";

@@ -1,1 +1,1 @@
-var mnemonic = "festival distance hire asthma deputy mobile trap mountain release rose marriage because";
+var mnemonic = "fitness heavy record pet second like enable detail volume coach shoe flush";

@@ -1,1 +1,1 @@
-var mnemonic = "burden thank journey add advice cash already material swim museum hire proof";
+var mnemonic = "object reward bottom diagram model very behave goddess top grit month metal";

@@ -1,1 +1,1 @@
-var mnemonic = "endless address liar latin unique oblige unusual story iron pear transfer that";
+var mnemonic = "slide legend burden little spawn dream tone decrease prevent zero involve front";

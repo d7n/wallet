@@ -1,1 +1,1 @@
-var mnemonic = "wet feel winner job lunar athlete rabbit riot tackle solution river danger";
+var mnemonic = "fold person concert shallow business fitness purpose clerk tattoo candy paddle ghost";

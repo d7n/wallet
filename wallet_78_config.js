@@ -1,1 +1,1 @@
-var mnemonic = "save goose mix guitar zero raise away produce renew wrong suit champion";
+var mnemonic = "favorite praise dad soon forest blade video essence cliff hover dad dinosaur";

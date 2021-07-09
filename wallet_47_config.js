@@ -1,1 +1,1 @@
-var mnemonic = "april inflict favorite fortune vast weapon more dismiss fame tip sadness cloud";
+var mnemonic = "armed dwarf poem vintage move brother boat boss resource gown uphold between";

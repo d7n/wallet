@@ -1,1 +1,1 @@
-var mnemonic = "all inject betray camp horn dumb village fuel buffalo soul soda melody";
+var mnemonic = "furnace charge skin paper tenant report dutch gaze puzzle evidence donate water";

@@ -1,1 +1,1 @@
-var mnemonic = "toast bag step hospital fame property opera spoon damp zone ocean nasty";
+var mnemonic = "child supreme entry divorce steak arrange survey domain since west prison cup";

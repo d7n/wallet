@@ -1,1 +1,1 @@
-var mnemonic = "electric chaos warfare common mutual link avoid hub supply reject weasel sphere";
+var mnemonic = "fall rifle easy wisdom disorder wheel answer bronze subway birth point drill";

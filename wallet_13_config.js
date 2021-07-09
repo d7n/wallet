@@ -1,1 +1,1 @@
-var mnemonic = "castle trash offer learn bubble nothing drift pencil card sound journey develop";
+var mnemonic = "fatal next hockey glass salute license trip start hero peace speak small";

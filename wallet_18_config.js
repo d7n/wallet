@@ -1,1 +1,1 @@
-var mnemonic = "electric sorry trick room evil mix cheese echo marine other kite bright";
+var mnemonic = "magic enhance churn fit urge hungry oxygen sadness taxi need this retire";

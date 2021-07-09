@@ -1,1 +1,1 @@
-var mnemonic = "slice water impact neither patch giant load dress yellow lens anchor bean";
+var mnemonic = "laptop cradle tunnel topple elegant trust shock board cry robot crane moment";

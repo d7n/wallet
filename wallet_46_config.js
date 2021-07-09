@@ -1,1 +1,1 @@
-var mnemonic = "ordinary side approve rail walnut reopen blue weasel bargain claw cook physical";
+var mnemonic = "fire multiply lesson small opinion impulse grab satoshi nation sustain perfect clog";

@@ -1,1 +1,1 @@
-var mnemonic = "moon price hungry false code evolve canoe essay any item canoe soul";
+var mnemonic = "regular shove praise zero carbon crunch empty ginger have canyon hawk output";

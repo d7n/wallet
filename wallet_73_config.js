@@ -1,1 +1,1 @@
-var mnemonic = "inherit corn soup submit diagram marine recall aisle visa panther island beef";
+var mnemonic = "timber permit shoulder bone vote urban wheat wise shock border grid cheap";

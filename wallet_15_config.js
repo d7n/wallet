@@ -1,1 +1,1 @@
-var mnemonic = "leave scrub wine bronze air verify dismiss emotion credit thunder blue rabbit";
+var mnemonic = "keep define bring extend whisper swing sleep sail forward state trouble whale";

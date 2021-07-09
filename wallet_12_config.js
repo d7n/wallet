@@ -1,1 +1,1 @@
-var mnemonic = "winter dignity bread coyote surface dose object spare gain recipe panel strategy";
+var mnemonic = "remember illegal exclude nerve autumn firm trip tree moment window gaze cluster";

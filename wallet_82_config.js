@@ -1,1 +1,1 @@
-var mnemonic = "fiction lucky winter bounce boy rally tide pottery spawn debate display measure";
+var mnemonic = "process south since hidden satoshi garlic carpet army shove garbage slow tissue";

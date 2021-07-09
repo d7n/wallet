@@ -1,1 +1,1 @@
-var mnemonic = "bulk method economy number dumb steak lunar march seed floor about trade";
+var mnemonic = "donkey tip age gift legal negative oppose exhibit inch disease joy region";

@@ -1,1 +1,1 @@
-var mnemonic = "draft just dutch crisp elbow scrap hip ship improve identify father tenant";
+var mnemonic = "minimum torch reject knock brother mule disagree benefit motion acoustic cream parent";

@@ -1,1 +1,1 @@
-var mnemonic = "invest visual vicious lion flip primary excuse light correct sibling soul shed";
+var mnemonic = "pear creek settle giggle record lift apart sister agent uncover ivory surface";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz click under scatter lottery size rapid illness skin tool skate solid";
+var mnemonic = "work record news divide rice promote this portion media jungle chapter enter";

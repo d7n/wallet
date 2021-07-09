@@ -1,1 +1,1 @@
-var mnemonic = "couple found above whisper left better spray genre dragon scene position amateur";
+var mnemonic = "sniff lunar copper answer crash senior doll empty stadium survey photo time";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce pyramid image attract same fiscal slide comic math usage doctor future";
+var mnemonic = "pizza knock bleak song dolphin wheat flavor food soldier debris night lecture";

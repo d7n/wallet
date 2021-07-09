@@ -1,1 +1,1 @@
-var mnemonic = "clay orange dress burst chuckle limb pulse double ceiling crack pole force";
+var mnemonic = "animal rely finger crush hospital injury soft tortoise actual truck drama advice";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle source guess play vintage negative term license notice owner device salt";
+var mnemonic = "panda coffee drama erode giggle maple differ edge peasant conduct opera make";

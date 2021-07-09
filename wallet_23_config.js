@@ -1,1 +1,1 @@
-var mnemonic = "cruise spider fatal glory keen demand stage gold laugh castle equip guitar";
+var mnemonic = "dice grid seek calm decline object nose include siege cattle easy copy";

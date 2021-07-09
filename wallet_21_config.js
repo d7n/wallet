@@ -1,1 +1,1 @@
-var mnemonic = "oak cook tape piece amazing heavy assault wet clock home plastic earth";
+var mnemonic = "lunch bridge tired away absurd knife warrior invest prize elbow skill top";

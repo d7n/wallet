@@ -1,1 +1,1 @@
-var mnemonic = "burger wonder inform run since kiss jeans exist sadness kidney wrap arctic";
+var mnemonic = "side cliff unit scout gossip major used scrap crunch category comfort bless";

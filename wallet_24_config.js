@@ -1,1 +1,1 @@
-var mnemonic = "retreat anxiety flame adult require key welcome rebel record power basic balance";
+var mnemonic = "despair predict frog resist license control tone enroll hawk violin bracket usage";

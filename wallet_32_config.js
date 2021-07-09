@@ -1,1 +1,1 @@
-var mnemonic = "earn film catch depth paddle excuse okay course taxi attract leg gorilla";
+var mnemonic = "dial woman path glad cement possible brisk diagram decrease amazing frost life";

@@ -1,1 +1,1 @@
-var mnemonic = "stay disorder axis umbrella afraid model divorce blue supreme slight reopen insane";
+var mnemonic = "kick urban inner slight enjoy demand setup trend already lecture repeat vanish";

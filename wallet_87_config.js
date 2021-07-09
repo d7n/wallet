@@ -1,1 +1,1 @@
-var mnemonic = "upset pact wise sadness improve hub catch aisle pistol economy decrease spare";
+var mnemonic = "practice certain menu attend swamp cable security rhythm hub furnace vital shoot";

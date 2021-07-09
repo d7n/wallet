@@ -1,1 +1,1 @@
-var mnemonic = "error custom audit lobster media rice way marble smoke base alert manual";
+var mnemonic = "spin defense edge jaguar scrap protect soon firm alien turn lounge confirm";

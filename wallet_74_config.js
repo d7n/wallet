@@ -1,1 +1,1 @@
-var mnemonic = "column reform sentence sausage advance turtle result since spike month beach run";
+var mnemonic = "cost olive nice alone summer join key salad solve subject pass neutral";

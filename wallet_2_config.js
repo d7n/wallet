@@ -1,1 +1,1 @@
-var mnemonic = "stumble result stamp pen elegant end repeat artist army easy bicycle shoot";
+var mnemonic = "donkey van essay cotton ready violin canal rookie fiber flag sign combine";

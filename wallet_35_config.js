@@ -1,1 +1,1 @@
-var mnemonic = "mountain twin decide parrot naive crazy float initial drift drive arena coach";
+var mnemonic = "economy absorb jar purpose gas reflect never disagree opera truth fury hill";

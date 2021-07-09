@@ -1,1 +1,1 @@
-var mnemonic = "screen race hazard bottom brush elder laundry reopen local shallow price company";
+var mnemonic = "evil surround drop version canoe chef ocean month favorite spike gallery swing";

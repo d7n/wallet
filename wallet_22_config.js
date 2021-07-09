@@ -1,1 +1,1 @@
-var mnemonic = "know tissue sport brain brisk mirror lesson bulk arch broccoli flight record";
+var mnemonic = "ticket stereo exchange pretty thank scheme thumb west dilemma mountain supply focus";

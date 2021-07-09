@@ -1,1 +1,1 @@
-var mnemonic = "clever close mule obvious father episode someone laptop drip bean sheriff giraffe";
+var mnemonic = "awkward song display fragile buyer advice produce meat flavor marble engine improve";

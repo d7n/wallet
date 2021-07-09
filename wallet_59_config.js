@@ -1,1 +1,1 @@
-var mnemonic = "initial dice country sponsor beyond post civil sword actual duty all engage";
+var mnemonic = "vibrant reduce iron canvas eternal suggest wait private alpha float century slow";

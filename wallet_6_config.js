@@ -1,1 +1,1 @@
-var mnemonic = "anchor pumpkin wide quiz donor exotic stick radar round good reform jacket";
+var mnemonic = "train auto surge lens hello decline abuse regular liquid bird attack velvet";

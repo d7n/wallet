@@ -1,1 +1,1 @@
-var mnemonic = "screen meadow kiss soup ability tape stomach skate hill bring axis snake";
+var mnemonic = "oak bridge soda fox what bus unfold fat proud taxi flame dragon";

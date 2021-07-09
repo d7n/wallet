@@ -1,1 +1,1 @@
-var mnemonic = "behave language wife nerve someone ginger album person behave siren decade oppose";
+var mnemonic = "answer radio glass sea abstract supply card pumpkin forum prevent few faint";

@@ -1,1 +1,1 @@
-var mnemonic = "sense valley degree near grape away flavor brown prevent category hazard balance";
+var mnemonic = "robot home empower february zone evil asset town raven frown fluid forum";

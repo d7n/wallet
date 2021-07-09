@@ -1,1 +1,1 @@
-var mnemonic = "congress crew pulp iron tornado dumb awful upset genuine task cup cream";
+var mnemonic = "matrix element fortune aerobic glory crazy salon plug deliver little rally hawk";

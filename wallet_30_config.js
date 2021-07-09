@@ -1,1 +1,1 @@
-var mnemonic = "control hover bean silent steak frozen fun nerve confirm section round burst";
+var mnemonic = "speak size consider wet seek dentist fever vote grow timber devote artwork";

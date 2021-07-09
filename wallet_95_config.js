@@ -1,1 +1,1 @@
-var mnemonic = "energy birth decade pony april giggle steel hollow pioneer tunnel alone section";
+var mnemonic = "zero roof among opinion sustain another fork stool seek athlete solution burden";

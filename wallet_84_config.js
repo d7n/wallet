@@ -1,1 +1,1 @@
-var mnemonic = "tongue assist stairs swim seed keep over render absorb attitude victory lens";
+var mnemonic = "answer split music post sphere prize reason ginger birth way story bulk";

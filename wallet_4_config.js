@@ -1,1 +1,1 @@
-var mnemonic = "mammal acquire bulk negative bubble style orchard fragile ridge board clock box";
+var mnemonic = "friend various sure sample easy corn grief kitchen silver column echo slender";

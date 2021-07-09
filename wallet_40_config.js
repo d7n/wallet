@@ -1,1 +1,1 @@
-var mnemonic = "material ice sample discover sign stamp rough market couch desk album return";
+var mnemonic = "window plate tonight moment lemon wheel silk virus lesson struggle sniff toy";

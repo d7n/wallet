@@ -1,1 +1,1 @@
-var mnemonic = "knee reform annual waste dice entry future gesture merit check type scheme";
+var mnemonic = "glue evolve chat clever isolate hazard flash monkey bean visit riot lobster";

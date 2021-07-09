@@ -1,1 +1,1 @@
-var mnemonic = "misery trouble replace usage indoor now legend rally large bird toss female";
+var mnemonic = "chaos swear chief sure curve draw ethics zero cause scheme must enrich";

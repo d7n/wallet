@@ -1,1 +1,1 @@
-var mnemonic = "erupt photo circle average iron ghost dinosaur draft robot lumber school various";
+var mnemonic = "scheme denial chaos category right talent ask cargo base town kite onion";

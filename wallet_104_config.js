@@ -1,1 +1,1 @@
-var mnemonic = "length trouble stuff tag kingdom appear pave long lumber dash notable twist";
+var mnemonic = "way adapt hurt coyote mouse bench puzzle funny punch vintage stairs cup";

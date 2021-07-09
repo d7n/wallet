@@ -1,1 +1,1 @@
-var mnemonic = "notice false scout venue pledge pitch pause hazard enter boy garment together";
+var mnemonic = "noodle fatigue shock blossom twin globe nuclear year disease bike garment soul";

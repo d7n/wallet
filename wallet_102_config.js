@@ -1,1 +1,1 @@
-var mnemonic = "bean popular piece satisfy bleak weasel detect festival lock pencil blast insect";
+var mnemonic = "luggage satoshi digital bachelor discover waste timber useless drip task profit eight";

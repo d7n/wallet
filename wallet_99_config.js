@@ -1,1 +1,1 @@
-var mnemonic = "relief market net series drink owner beyond legal radio since join pluck";
+var mnemonic = "sing alpha laugh infant way remove remove author wreck pact prize maze";

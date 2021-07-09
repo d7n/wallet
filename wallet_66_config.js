@@ -1,1 +1,1 @@
-var mnemonic = "school copper normal cabbage fruit congress reward resist wall tribe pioneer desert";
+var mnemonic = "letter cargo local acid duty critic prosper tide never inhale lemon chest";

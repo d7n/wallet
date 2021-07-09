@@ -1,1 +1,1 @@
-var mnemonic = "citizen what protect sugar dinosaur shoot theory over creek uncover video genius";
+var mnemonic = "denial cloth found menu minute wealth silent exercise turkey host flash acoustic";

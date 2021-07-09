@@ -1,1 +1,1 @@
-var mnemonic = "unknown just scare legal head quiz mystery brown such ginger issue alien";
+var mnemonic = "organ observe truck lock core web doctor oven farm trigger rate express";

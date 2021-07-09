@@ -1,1 +1,1 @@
-var mnemonic = "rate answer baby honey enrich magic real sheriff tongue quick spoil elephant";
+var mnemonic = "knee item timber street detect sudden quiz family bubble rescue exit weird";

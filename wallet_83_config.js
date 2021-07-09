@@ -1,1 +1,1 @@
-var mnemonic = "garage awful orphan slice elevator term join transfer giant into tail expect";
+var mnemonic = "base exhibit know shuffle sleep gold spawn essay doctor fall early use";

@@ -1,1 +1,1 @@
-var mnemonic = "convince blanket excuse because disagree force awful topic route ball paper buzz";
+var mnemonic = "size firm fog ticket eagle mandate ask drama fly force friend media";

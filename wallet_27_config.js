@@ -1,1 +1,1 @@
-var mnemonic = "into mutual news gorilla pony grace lecture neglect cousin thrive midnight clerk";
+var mnemonic = "order favorite edit similar alcohol train display question urban between endless biology";

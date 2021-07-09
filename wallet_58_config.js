@@ -1,1 +1,1 @@
-var mnemonic = "case budget suspect enable foster creek pet intact auto mango grape brain";
+var mnemonic = "panther airport city sniff tell high letter nice paddle indoor try letter";

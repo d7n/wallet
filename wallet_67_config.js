@@ -1,1 +1,1 @@
-var mnemonic = "govern fragile wisdom horror orbit all fantasy dial exist final typical maple";
+var mnemonic = "quarter attract orchard lecture relief impulse silk annual zoo awkward seminar hair";

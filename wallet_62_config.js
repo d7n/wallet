@@ -1,1 +1,1 @@
-var mnemonic = "hockey fancy evil dress address walk engine dog ten harvest concert minute";
+var mnemonic = "kiwi rabbit coach twenty fatal ignore excuse auction page cup glue loyal";

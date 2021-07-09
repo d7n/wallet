@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow sibling shield century also range girl atom tube cousin portion volume";
+var mnemonic = "moral cloth early seminar agent draw champion aerobic network chuckle canoe diagram";

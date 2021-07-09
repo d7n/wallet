@@ -1,1 +1,1 @@
-var mnemonic = "method morning left garlic female artwork strong process spider point dilemma reform";
+var mnemonic = "beach remain immune broken erupt power demise what harsh umbrella episode give";

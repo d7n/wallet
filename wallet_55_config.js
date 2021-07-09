@@ -1,1 +1,1 @@
-var mnemonic = "pigeon model praise bachelor dinner biology among festival blur broom enter donkey";
+var mnemonic = "carbon chaos tongue floor end news fever under behave trim enable shine";

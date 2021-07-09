@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur trumpet cook you visual country embody student train game universe weather";
+var mnemonic = "hammer beef comfort involve omit candy gesture bunker fiction special garment total";

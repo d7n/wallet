@@ -1,1 +1,1 @@
-var mnemonic = "before sentence metal useless dish credit toward stem barrel emotion coconut series";
+var mnemonic = "mixed exile apple fortune track lizard supply jacket pool deliver weather pulp";

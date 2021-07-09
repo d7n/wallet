@@ -1,1 +1,1 @@
-var mnemonic = "require nature region float long odor forward force damp pause broom limb";
+var mnemonic = "afraid buffalo verify tired eyebrow worry orchard change muffin bundle doll throw";

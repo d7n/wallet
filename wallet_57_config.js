@@ -1,1 +1,1 @@
-var mnemonic = "marriage legend couch history hen empower borrow sleep lift local mixture amount";
+var mnemonic = "thumb rude sell cost spoon sail soldier hint flavor album modify clown";

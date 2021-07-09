@@ -1,1 +1,1 @@
-var mnemonic = "nature ribbon poem hurry hope joy indoor cotton cage depend used awake";
+var mnemonic = "hundred crew penalty motion island suspect kitten trumpet what spread spray skin";

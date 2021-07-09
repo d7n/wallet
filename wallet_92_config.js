@@ -1,1 +1,1 @@
-var mnemonic = "curve image wish giant check camera metal law absurd bone erase scrub";
+var mnemonic = "transfer orient crawl mad try come powder knee laptop square surprise jungle";

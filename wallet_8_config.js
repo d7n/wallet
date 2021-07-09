@@ -1,1 +1,1 @@
-var mnemonic = "neither ignore afford enrich cool audit holiday figure waste open tiger what";
+var mnemonic = "shadow page token prosper genuine horse sport write version case box neither";

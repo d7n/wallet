@@ -1,1 +1,1 @@
-var mnemonic = "awake swamp tomorrow scout holiday zoo laundry magnet enable uncover burst define";
+var mnemonic = "citizen person melody december foam mule marble wonder chalk lesson behind ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "argue produce bubble diesel ride warfare cost prize summer spoil soft make";
+var mnemonic = "space cloud toward nice lizard license wink memory fiction drift spoon pattern";

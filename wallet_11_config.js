@@ -1,1 +1,1 @@
-var mnemonic = "donate drum isolate town since clinic local volume visual basic enforce comic";
+var mnemonic = "nice galaxy plate weapon stove rebel state vibrant charge sadness waste speed";

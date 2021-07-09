@@ -1,1 +1,1 @@
-var mnemonic = "neither dwarf era draft orchard cricket cause now window strategy farm strike";
+var mnemonic = "invite chicken scatter wise gadget time cram crazy prize harsh zero exhaust";

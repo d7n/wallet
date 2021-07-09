@@ -1,1 +1,1 @@
-var mnemonic = "tail matter lab neglect wheel push trim depth dilemma banana circle young";
+var mnemonic = "pulp bulb absurd security smoke smile distance modify before parade enforce warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "then pool team book peace round cannon attract fringe tunnel afford symptom";
+var mnemonic = "enact gasp lecture same segment unfold same spider violin genuine crazy better";

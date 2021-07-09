@@ -1,1 +1,1 @@
-var mnemonic = "leave license pond volcano demise salmon nephew camp vacant section just way";
+var mnemonic = "sweet invite feel similar save fame potato observe wine license shy manual";

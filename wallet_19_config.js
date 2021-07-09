@@ -1,1 +1,1 @@
-var mnemonic = "black laptop push rare uniform relax talk theme salmon loud rug utility";
+var mnemonic = "twist alpha despair genius trophy adult mistake feature sister gallery wealth twice";

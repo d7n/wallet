@@ -1,1 +1,1 @@
-var mnemonic = "nice civil island this produce bus genius learn arm hole myself verify";
+var mnemonic = "brown lens produce urge trade detect hotel include again there begin hour";

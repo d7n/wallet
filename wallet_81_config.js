@@ -1,1 +1,1 @@
-var mnemonic = "turn stage win armed category usual play exist siren smart angle plastic";
+var mnemonic = "battle end normal tennis dizzy lesson relax amount diesel network trip churn";

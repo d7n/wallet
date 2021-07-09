@@ -1,1 +1,1 @@
-var mnemonic = "loyal lobster alter sadness credit erode first rookie disagree wedding depth blur";
+var mnemonic = "rug tired submit bamboo cute fire rare mirror pattern maximum disorder useful";

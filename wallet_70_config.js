@@ -1,1 +1,1 @@
-var mnemonic = "upper black asthma kingdom swarm addict already try original ability purchase tell";
+var mnemonic = "earth search quote envelope permit purpose ride process brave make profit fish";
