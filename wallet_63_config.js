@@ -1,1 +1,1 @@
-var mnemonic = "exercise loyal exist hero ketchup exclude cattle cable tray bomb absorb room";
+var mnemonic = "utility try model century error slow avoid employ trumpet horn giant begin";

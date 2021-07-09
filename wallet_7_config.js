@@ -1,1 +1,1 @@
-var mnemonic = "surface digital armor erode torch identify fine color across oil right place";
+var mnemonic = "tail unhappy flight hurt body nation popular profit camp gentle setup then";

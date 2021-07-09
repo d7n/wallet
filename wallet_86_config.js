@@ -1,1 +1,1 @@
-var mnemonic = "gossip market glove protect obscure melt inherit early happy deliver palace rhythm";
+var mnemonic = "wheat nation shiver shop cream lake pair evoke joy swamp fluid giant";

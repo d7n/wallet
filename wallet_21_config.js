@@ -1,1 +1,1 @@
-var mnemonic = "practice debris bullet garden wire iron cigar lottery cover chase cash liar";
+var mnemonic = "device scrub sick pause olive raw album route hero design two museum";

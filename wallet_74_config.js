@@ -1,1 +1,1 @@
-var mnemonic = "north gold eye snow solid amount tiger craft endorse version kangaroo change";
+var mnemonic = "analyst later payment piece vacuum employ armed middle swing swift border dumb";

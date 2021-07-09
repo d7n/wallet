@@ -1,1 +1,1 @@
-var mnemonic = "design crumble roast stadium friend season prosper train upper artefact antique wheel";
+var mnemonic = "jaguar embrace purse code tumble dream run capital gospel virus famous arctic";

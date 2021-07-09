@@ -1,1 +1,1 @@
-var mnemonic = "topple ride trend beyond mimic flame social trigger extra kidney evil member";
+var mnemonic = "wasp elder either rabbit liberty web quick goddess fox habit ribbon bid";

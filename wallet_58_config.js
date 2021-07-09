@@ -1,1 +1,1 @@
-var mnemonic = "bulk sock also oval urge race juice olive stadium daring almost long";
+var mnemonic = "dinner nothing select away weather there bless power sibling always own blouse";

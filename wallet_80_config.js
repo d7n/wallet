@@ -1,1 +1,1 @@
-var mnemonic = "board any fine reform pyramid grab inherit cloth pluck mango predict deposit";
+var mnemonic = "legal modify beyond notice predict brief crouch diet keen oak resist curious";

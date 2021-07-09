@@ -1,1 +1,1 @@
-var mnemonic = "main crane cover fork scrub super uniform miss school toast circle indicate";
+var mnemonic = "insane observe despair wife twenty reward unhappy fetch stay wasp female interest";

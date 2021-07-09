@@ -1,1 +1,1 @@
-var mnemonic = "jump section wire pioneer anchor again leave garment random ready host walk";
+var mnemonic = "green lobster chicken observe fruit ride fault pigeon elegant pluck dragon advance";

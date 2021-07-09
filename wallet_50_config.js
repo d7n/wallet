@@ -1,1 +1,1 @@
-var mnemonic = "script knee congress brief flavor prosper special sister lawn cargo cage side";
+var mnemonic = "arrest belt pig giraffe ritual deposit sheriff nature piano finger denial enjoy";

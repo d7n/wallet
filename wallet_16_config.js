@@ -1,1 +1,1 @@
-var mnemonic = "canyon chase alien index easy review company street phrase nut cheap mom";
+var mnemonic = "stamp adjust nerve veteran install repair combine patient tackle jacket square define";

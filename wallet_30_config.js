@@ -1,1 +1,1 @@
-var mnemonic = "provide casino this decrease oyster term side shaft eyebrow pepper dismiss fortune";
+var mnemonic = "home win wagon smooth hen surge aisle shoulder brain typical name benefit";

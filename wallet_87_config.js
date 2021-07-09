@@ -1,1 +1,1 @@
-var mnemonic = "someone thrive steak roast fluid split olive december tide artwork idle dream";
+var mnemonic = "tackle surprise invite clean cattle busy upgrade estate perfect scare this mad";

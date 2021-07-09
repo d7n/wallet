@@ -1,1 +1,1 @@
-var mnemonic = "round into ecology clever margin trim wedding insane pride mother puzzle mechanic";
+var mnemonic = "stone march dilemma shoe away analyst predict board buddy acid face spare";

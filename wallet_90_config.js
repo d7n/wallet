@@ -1,1 +1,1 @@
-var mnemonic = "snap noodle essence hammer fancy drink trigger tunnel pledge robot mouse surface";
+var mnemonic = "coil insane fly parrot daughter bind shove ripple menu conduct common cake";

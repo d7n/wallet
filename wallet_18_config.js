@@ -1,1 +1,1 @@
-var mnemonic = "collect ride win illegal speak guitar stuff summer cradle install embrace alter";
+var mnemonic = "stadium leisure wave wine game east solid neutral speak okay shop fresh";

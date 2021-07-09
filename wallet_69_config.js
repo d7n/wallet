@@ -1,1 +1,1 @@
-var mnemonic = "zebra clay credit bicycle vault jump inch tooth decade void oil frost";
+var mnemonic = "shift volcano dwarf quantum develop distance turkey walk skirt flip frozen excess";

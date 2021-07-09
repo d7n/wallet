@@ -1,1 +1,1 @@
-var mnemonic = "guess empower identify elder volume embark neck brief awful legal emerge roof";
+var mnemonic = "great body network kangaroo later hour blood frown bring ill betray include";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe narrow inhale oyster flush onion parent prize sport degree quantum elbow";
+var mnemonic = "leopard public pilot wrong banana choice pigeon fly script busy trust rival";

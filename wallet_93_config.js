@@ -1,1 +1,1 @@
-var mnemonic = "grab fish cable apart tuna whale august amused chaos pioneer ticket elite";
+var mnemonic = "warfare insane wrestle final work impulse mosquito wreck regular spirit slab valley";

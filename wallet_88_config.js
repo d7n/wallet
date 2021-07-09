@@ -1,1 +1,1 @@
-var mnemonic = "fiction august raw salute thumb surge concert ten ozone upset cook fortune";
+var mnemonic = "matter pitch outdoor reflect genuine security panda super buffalo prosper amateur leaf";

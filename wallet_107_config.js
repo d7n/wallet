@@ -1,1 +1,1 @@
-var mnemonic = "sugar hazard planet skirt lesson tornado bring crime obey wagon stuff marriage";
+var mnemonic = "romance hamster insect fire vapor churn imitate undo wife person rhythm erode";

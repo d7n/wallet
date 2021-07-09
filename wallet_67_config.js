@@ -1,1 +1,1 @@
-var mnemonic = "legend market battle alone sand agree code cement drastic raven regular atom";
+var mnemonic = "remain sort viable quit entry forest note demand sense acid depend remove";

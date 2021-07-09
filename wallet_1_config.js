@@ -1,1 +1,1 @@
-var mnemonic = "wise wagon someone shrug voyage shop assist strategy weasel sentence void gate";
+var mnemonic = "amount kick theory detail ball abuse ginger glimpse repair ski example theme";

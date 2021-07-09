@@ -1,1 +1,1 @@
-var mnemonic = "rather install end pass tired satoshi diary super spice usage manual regret";
+var mnemonic = "jacket indoor live sad later witness shadow accident recall figure hand comic";

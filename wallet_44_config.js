@@ -1,1 +1,1 @@
-var mnemonic = "adult shift kitchen cream attend provide recipe jungle ready foil anger tennis";
+var mnemonic = "produce reform pilot perfect dilemma garment whip split horse refuse annual noise";

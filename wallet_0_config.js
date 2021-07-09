@@ -1,1 +1,1 @@
-var mnemonic = "bulb way trap rare travel warfare canyon prosper various hill pig ability";
+var mnemonic = "general certain hybrid length dust region push horror there carry draw post";

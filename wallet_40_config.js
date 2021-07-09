@@ -1,1 +1,1 @@
-var mnemonic = "obvious east magnet vessel balcony ladder knock album rib ball girl fun";
+var mnemonic = "child end canvas dynamic badge force love engage always soup physical arrow";

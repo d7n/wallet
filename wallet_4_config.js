@@ -1,1 +1,1 @@
-var mnemonic = "oppose winter tattoo hybrid fence month muffin spike giraffe neglect ripple various";
+var mnemonic = "picture jacket enhance castle thunder skin swallow lake hover flame curve tunnel";

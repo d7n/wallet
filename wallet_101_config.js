@@ -1,1 +1,1 @@
-var mnemonic = "kingdom mesh doll random smile ghost town metal submit fabric hospital hobby";
+var mnemonic = "dash gasp delay coil faint company attitude alone bus tiny cart lunar";

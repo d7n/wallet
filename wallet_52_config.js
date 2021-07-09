@@ -1,1 +1,1 @@
-var mnemonic = "renew balance card wave cabin either ramp fever eight steel toast axis";
+var mnemonic = "mix wage joy purity stairs peace token public image popular judge rally";

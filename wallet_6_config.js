@@ -1,1 +1,1 @@
-var mnemonic = "peace apple warm true tree narrow reject chase snack remember infant crime";
+var mnemonic = "immune match world inherit visa worry still deny light elephant cool process";

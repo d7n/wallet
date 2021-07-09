@@ -1,1 +1,1 @@
-var mnemonic = "retire gossip bird enlist opera embrace foster bamboo rule slice spray source";
+var mnemonic = "metal cruel brick slide fiscal tower direct acoustic balcony soon build jeans";

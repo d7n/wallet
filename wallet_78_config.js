@@ -1,1 +1,1 @@
-var mnemonic = "chest mystery toilet fence private oxygen rate insane regret purpose enrich vivid";
+var mnemonic = "divorce bottom stay afford clip leopard suffer clarify tent mimic remember oyster";

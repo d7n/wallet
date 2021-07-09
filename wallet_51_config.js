@@ -1,1 +1,1 @@
-var mnemonic = "session erase evil rebuild tunnel dilemma detail grid brown news educate baby";
+var mnemonic = "social divorce thrive squirrel giggle clinic symptom beef danger fault spider crew";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna swap margin winter whip empty yellow conduct square cattle eager inside";
+var mnemonic = "say soon they high coil mistake source symbol can spoil enemy hamster";

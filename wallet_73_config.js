@@ -1,1 +1,1 @@
-var mnemonic = "echo firm wasp teach firm appear project visual coyote jacket blossom delay";
+var mnemonic = "face squirrel tank loud flat cupboard volcano shy joke spirit valley cart";

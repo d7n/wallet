@@ -1,1 +1,1 @@
-var mnemonic = "potato gallery edge where surround olive punch later shock ride spell switch";
+var mnemonic = "number drink guilt mandate derive despair suffer video student festival medal world";

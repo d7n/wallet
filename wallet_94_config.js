@@ -1,1 +1,1 @@
-var mnemonic = "start black guard despair awesome resource report direct hope father nasty harvest";
+var mnemonic = "absurd coast brass define involve that borrow ticket whale lazy basic museum";

@@ -1,1 +1,1 @@
-var mnemonic = "stem cream impact blind smile category federal mystery struggle potato tortoise special";
+var mnemonic = "consider unlock distance quick year acid duty faith lake people orbit lecture";

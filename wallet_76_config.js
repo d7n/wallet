@@ -1,1 +1,1 @@
-var mnemonic = "kiss balcony paper cry flush merge episode error unit lunar float forum";
+var mnemonic = "label august dilemma twist blue pizza drop drink sadness beauty arch arrow";

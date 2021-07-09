@@ -1,1 +1,1 @@
-var mnemonic = "owner hip alien you assist cigar federal blue dance cycle apology invest";
+var mnemonic = "promote animal deer judge slim depth blush rifle pink decrease toward business";

@@ -1,1 +1,1 @@
-var mnemonic = "park mom cake combine hazard zebra stage human trim barrel army input";
+var mnemonic = "glory visit purchase month coin capable weapon submit stumble stumble mechanic rigid";

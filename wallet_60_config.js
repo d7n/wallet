@@ -1,1 +1,1 @@
-var mnemonic = "artefact oval valve orphan dish virtual curtain found lock cost loud episode";
+var mnemonic = "bracket tonight spike wife supply hurt panda demand reason guess wasp night";

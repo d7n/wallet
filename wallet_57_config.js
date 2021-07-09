@@ -1,1 +1,1 @@
-var mnemonic = "brand bachelor alter inject involve happy tool please learn twin mushroom wish";
+var mnemonic = "robust cloth brief hen spoon rose blanket crater ensure canvas hello notice";

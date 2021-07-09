@@ -1,1 +1,1 @@
-var mnemonic = "genius street call mass link scare blossom oyster level secret junior profit";
+var mnemonic = "giant father shock guide picnic shadow digital shop tunnel arch situate welcome";

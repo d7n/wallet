@@ -1,1 +1,1 @@
-var mnemonic = "knife travel ghost execute afraid extend saddle into donkey cook cruel puzzle";
+var mnemonic = "web virus grain obey mule jewel patrol zoo almost manual attack deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug help label coach kangaroo envelope paddle wealth flag boil dream lake";
+var mnemonic = "gossip receive exotic spend exclude pen deny funny must leaf buddy awkward";

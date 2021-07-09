@@ -1,1 +1,1 @@
-var mnemonic = "evolve impose key find act retreat immune welcome style various hamster output";
+var mnemonic = "bulk exist page essay occur reward smart image allow arrive spy skirt";

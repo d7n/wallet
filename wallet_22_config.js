@@ -1,1 +1,1 @@
-var mnemonic = "stone warm head number call cousin swim stable cream crucial erosion nephew";
+var mnemonic = "jar festival panther intact front leave cinnamon tide vacuum define tired burger";

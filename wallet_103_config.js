@@ -1,1 +1,1 @@
-var mnemonic = "divorce debate crunch engage album gift bright ranch doctor bar woman matter";
+var mnemonic = "hover badge pledge trouble soda trial scan virtual warrior toe rely crouch";

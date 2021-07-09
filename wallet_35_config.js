@@ -1,1 +1,1 @@
-var mnemonic = "point glue conduct tank gasp enemy vibrant fog plunge tenant pencil apple";
+var mnemonic = "flat lunar rifle region burden unveil mixture original solid elephant spread retreat";

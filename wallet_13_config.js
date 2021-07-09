@@ -1,1 +1,1 @@
-var mnemonic = "canyon riot increase club joke senior wheel neutral fence rotate outer envelope";
+var mnemonic = "evolve merry worry dirt census cage symbol spell gap relax behind glare";

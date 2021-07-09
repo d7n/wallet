@@ -1,1 +1,1 @@
-var mnemonic = "lady furnace advice loyal produce camp skull primary sell camera art actress";
+var mnemonic = "puzzle stay coconut mansion gift believe enough squirrel grape smile brass ice";

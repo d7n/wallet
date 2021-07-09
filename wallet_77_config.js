@@ -1,1 +1,1 @@
-var mnemonic = "rice flavor top replace distance cannon bounce typical foot observe trim wave";
+var mnemonic = "thank exclude invite critic ocean cinnamon bring tube hard gallery build crash";

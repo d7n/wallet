@@ -1,1 +1,1 @@
-var mnemonic = "gentle put narrow science eager pause donkey curtain gadget baby nation clay";
+var mnemonic = "version gift rebuild will secret alert exact tonight pass release enable nuclear";

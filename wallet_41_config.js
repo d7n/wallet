@@ -1,1 +1,1 @@
-var mnemonic = "copper visa dad maid scatter alien fish evolve atom mix offer stem";
+var mnemonic = "total prize final yellow favorite shift language august goose atom seek stock";

@@ -1,1 +1,1 @@
-var mnemonic = "glad slogan praise tell pattern tip monkey identify monitor expose message sphere";
+var mnemonic = "guilt actress noodle that main rail verify coconut modify print cliff force";

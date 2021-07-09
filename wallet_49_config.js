@@ -1,1 +1,1 @@
-var mnemonic = "below install brave stick devote gym range gift hip alarm hip crowd";
+var mnemonic = "depend permit hidden dish fold solid hip cancel typical curious body struggle";

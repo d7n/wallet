@@ -1,1 +1,1 @@
-var mnemonic = "wasp comic wheel detect benefit cross umbrella speed view next found caught";
+var mnemonic = "valid salt permit scale income rule labor photo picnic hollow fatigue same";

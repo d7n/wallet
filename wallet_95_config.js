@@ -1,1 +1,1 @@
-var mnemonic = "jelly result siege draw cash eager display baby blossom symbol rough leader";
+var mnemonic = "empower broom fault fatigue owner vibrant hobby undo metal scan garlic phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "extra certain diamond snake frequent boy drift perfect trouble wet spread boring";
+var mnemonic = "shy intact fabric annual ring eyebrow walk duty oil job perfect snake";

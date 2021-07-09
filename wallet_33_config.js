@@ -1,1 +1,1 @@
-var mnemonic = "few smooth ticket term axis wife earn fade bike cup prefer toss";
+var mnemonic = "cry enemy energy execute hungry until nurse abstract route helmet model assume";

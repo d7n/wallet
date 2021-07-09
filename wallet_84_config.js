@@ -1,1 +1,1 @@
-var mnemonic = "cherry circle valve enjoy hurry weasel taste hamster pond adjust vital warrior";
+var mnemonic = "deputy snap you exercise artefact meat improve card disorder grape exchange kid";

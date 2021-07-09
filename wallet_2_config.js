@@ -1,1 +1,1 @@
-var mnemonic = "calm paddle crazy minimum pumpkin dwarf gain sight response affair embark firm";
+var mnemonic = "super appear erosion priority syrup extra junior leader apology clog offer awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "connect amount whisper canal cloth fault decorate lake viable find ahead post";
+var mnemonic = "lizard blind curtain vital trust frog bundle leaf miss public remain damp";

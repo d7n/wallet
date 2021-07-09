@@ -1,1 +1,1 @@
-var mnemonic = "upon belt replace script foil trend glass diesel chair damage anxiety word";
+var mnemonic = "dentist budget asthma quantum weird nerve scrub vote cradle exhaust solid remain";

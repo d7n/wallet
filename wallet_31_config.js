@@ -1,1 +1,1 @@
-var mnemonic = "please flavor must federal final analyst adapt glide wasp media mention mad";
+var mnemonic = "finish acoustic hub slam egg pyramid silk battle observe cable tail swift";

@@ -1,1 +1,1 @@
-var mnemonic = "science drive speed exist elephant shed jeans side candy vague fine broccoli";
+var mnemonic = "feature pink course wife stick response mosquito coil cabin page awake agent";

@@ -1,1 +1,1 @@
-var mnemonic = "air stool someone entry idle trip copper trip guilt phone domain gift";
+var mnemonic = "donate panel great almost time kit buddy advice wisdom extra web aware";

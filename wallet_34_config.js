@@ -1,1 +1,1 @@
-var mnemonic = "jump volume pencil crouch interest notice crazy tonight soccer peanut ginger alone";
+var mnemonic = "seat drift agent mouse session expose account first elevator liar fatigue athlete";

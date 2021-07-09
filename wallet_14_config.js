@@ -1,1 +1,1 @@
-var mnemonic = "predict picture cereal slow penalty hood depth build motion strong bird exclude";
+var mnemonic = "slush title provide advice upset pass useful vast number chief absorb year";

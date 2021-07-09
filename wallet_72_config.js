@@ -1,1 +1,1 @@
-var mnemonic = "swing chalk drive alcohol process drip neutral ride pilot swear sell cereal";
+var mnemonic = "gadget abuse fit spice notice bulb lunar shock critic sight walk order";

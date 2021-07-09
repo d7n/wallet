@@ -1,1 +1,1 @@
-var mnemonic = "ecology open various kitten express leisure capital review cream deposit example coyote";
+var mnemonic = "gorilla phone roast safe employ spatial air strategy fat tool tooth dolphin";

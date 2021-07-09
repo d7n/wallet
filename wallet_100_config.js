@@ -1,1 +1,1 @@
-var mnemonic = "steel rib click body volume genius idea hawk kite submit face coyote";
+var mnemonic = "scare coil receive abuse flee abandon fiction dizzy fade enlist replace thing";

@@ -1,1 +1,1 @@
-var mnemonic = "awful second image move just party sphere flight aunt behave fun outside";
+var mnemonic = "cage prefer practice cigar august wrap maximum horse property garment occur swim";

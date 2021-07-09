@@ -1,1 +1,1 @@
-var mnemonic = "lake day raccoon world trouble language tape basket when confirm romance person";
+var mnemonic = "cereal anchor banana organ pattern want day carry safe aim assist other";

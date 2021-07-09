@@ -1,1 +1,1 @@
-var mnemonic = "hawk champion unique air arch chronic embody try error abandon brush lake";
+var mnemonic = "armor avocado prize more jaguar leopard rich pole assume smile derive habit";

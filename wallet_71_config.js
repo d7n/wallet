@@ -1,1 +1,1 @@
-var mnemonic = "submit naive man print flavor tower gun summer wash magnet bridge climb";
+var mnemonic = "despair bullet stay flavor expect current gauge hip style team pair disorder";

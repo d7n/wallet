@@ -1,1 +1,1 @@
-var mnemonic = "alien display wild coil tattoo detect caution east pelican essence true analyst";
+var mnemonic = "find service meat tobacco acoustic comfort hidden swear tip rigid tennis silly";

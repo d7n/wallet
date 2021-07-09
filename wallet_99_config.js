@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cluster exercise worry gospel vital already vote trap adjust search toward";
+var mnemonic = "inflict rude tag figure list shoot symptom boy short south crane message";

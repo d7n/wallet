@@ -1,1 +1,1 @@
-var mnemonic = "relief attract faculty utility year parent forum six couch air split grit";
+var mnemonic = "spoil degree often leaf deliver bone party beef frequent lend ostrich huge";

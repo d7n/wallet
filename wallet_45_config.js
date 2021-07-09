@@ -1,1 +1,1 @@
-var mnemonic = "stool volume approve crop scheme actress drill picture lawn other major budget";
+var mnemonic = "parrot monster local diagram drop rely survey walk fragile cook over video";

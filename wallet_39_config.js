@@ -1,1 +1,1 @@
-var mnemonic = "taxi raise return like print vague waste hybrid start discover snap climb";
+var mnemonic = "wise parrot fork journey runway knee regular abuse satisfy discover manual subway";

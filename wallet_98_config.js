@@ -1,1 +1,1 @@
-var mnemonic = "loud monkey fade kiwi giant tomorrow cloud miss twice build twice vacuum";
+var mnemonic = "risk lift release about tunnel bullet pool dwarf public entire range shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid upgrade surface stereo forward judge stereo liberty secret ribbon royal indicate";
+var mnemonic = "curious law asset luggage job group isolate happy amount seat balcony erase";

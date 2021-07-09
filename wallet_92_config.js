@@ -1,1 +1,1 @@
-var mnemonic = "eight better bike juice reopen birth tornado happy wreck damp until rate";
+var mnemonic = "cost mechanic inside visa actress brand armed one casino away radar peasant";

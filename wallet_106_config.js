@@ -1,1 +1,1 @@
-var mnemonic = "decrease salon bundle kiss drill chief devote tissue father actress panic supply";
+var mnemonic = "minimum final tennis route noise two random cushion style ten upgrade swim";

@@ -1,1 +1,1 @@
-var mnemonic = "easy soup place page relax bottom heavy olive decline prepare cable guard";
+var mnemonic = "lunar muffin weird series minimum upon often bargain shadow yard forum ill";
