@@ -1,1 +1,1 @@
-var mnemonic = "enact gasp lecture same segment unfold same spider violin genuine crazy better";
+var mnemonic = "adult shift kitchen cream attend provide recipe jungle ready foil anger tennis";

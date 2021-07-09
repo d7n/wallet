@@ -1,1 +1,1 @@
-var mnemonic = "base exhibit know shuffle sleep gold spawn essay doctor fall early use";
+var mnemonic = "snow mobile render peanut sign total survey leave warm clarify warrior strike";

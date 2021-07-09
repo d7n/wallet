@@ -1,1 +1,1 @@
-var mnemonic = "donkey tip age gift legal negative oppose exhibit inch disease joy region";
+var mnemonic = "adapt trend story child earth moon reject object measure expose owner organ";

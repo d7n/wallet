@@ -1,1 +1,1 @@
-var mnemonic = "vibrant reduce iron canvas eternal suggest wait private alpha float century slow";
+var mnemonic = "awful second image move just party sphere flight aunt behave fun outside";

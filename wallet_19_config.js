@@ -1,1 +1,1 @@
-var mnemonic = "twist alpha despair genius trophy adult mistake feature sister gallery wealth twice";
+var mnemonic = "extra certain diamond snake frequent boy drift perfect trouble wet spread boring";

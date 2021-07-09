@@ -1,1 +1,1 @@
-var mnemonic = "glue evolve chat clever isolate hazard flash monkey bean visit riot lobster";
+var mnemonic = "loud monkey fade kiwi giant tomorrow cloud miss twice build twice vacuum";

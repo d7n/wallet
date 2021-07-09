@@ -1,1 +1,1 @@
-var mnemonic = "despair predict frog resist license control tone enroll hawk violin bracket usage";
+var mnemonic = "wing void era direct endorse blind claw noise supply lawsuit nice you";

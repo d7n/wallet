@@ -1,1 +1,1 @@
-var mnemonic = "awkward song display fragile buyer advice produce meat flavor marble engine improve";
+var mnemonic = "fiction august raw salute thumb surge concert ten ozone upset cook fortune";

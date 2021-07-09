@@ -1,1 +1,1 @@
-var mnemonic = "knee item timber street detect sudden quiz family bubble rescue exit weird";
+var mnemonic = "round into ecology clever margin trim wedding insane pride mother puzzle mechanic";

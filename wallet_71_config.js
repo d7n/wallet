@@ -1,1 +1,1 @@
-var mnemonic = "pulp bulb absurd security smoke smile distance modify before parade enforce warfare";
+var mnemonic = "submit naive man print flavor tower gun summer wash magnet bridge climb";

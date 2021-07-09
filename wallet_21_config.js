@@ -1,1 +1,1 @@
-var mnemonic = "lunch bridge tired away absurd knife warrior invest prize elbow skill top";
+var mnemonic = "practice debris bullet garden wire iron cigar lottery cover chase cash liar";

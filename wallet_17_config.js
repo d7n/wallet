@@ -1,1 +1,1 @@
-var mnemonic = "crew include bottom payment jaguar cannon rack deposit protect history burger reopen";
+var mnemonic = "oblige century fragile become service museum camp crop satisfy couple energy enroll";

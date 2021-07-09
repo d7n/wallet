@@ -1,1 +1,1 @@
-var mnemonic = "raven gun that reduce lucky humble pave shoe leisure report talent arrange";
+var mnemonic = "jump section wire pioneer anchor again leave garment random ready host walk";

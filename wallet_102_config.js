@@ -1,1 +1,1 @@
-var mnemonic = "luggage satoshi digital bachelor discover waste timber useless drip task profit eight";
+var mnemonic = "alien display wild coil tattoo detect caution east pelican essence true analyst";

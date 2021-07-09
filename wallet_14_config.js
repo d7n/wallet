@@ -1,1 +1,1 @@
-var mnemonic = "fitness heavy record pet second like enable detail volume coach shoe flush";
+var mnemonic = "predict picture cereal slow penalty hood depth build motion strong bird exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "invite chicken scatter wise gadget time cram crazy prize harsh zero exhaust";
+var mnemonic = "kingdom mesh doll random smile ghost town metal submit fabric hospital hobby";

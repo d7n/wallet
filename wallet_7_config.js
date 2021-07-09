@@ -1,1 +1,1 @@
-var mnemonic = "fall rifle easy wisdom disorder wheel answer bronze subway birth point drill";
+var mnemonic = "surface digital armor erode torch identify fine color across oil right place";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon chaos tongue floor end news fever under behave trim enable shine";
+var mnemonic = "process enjoy convince lawn protect clinic two defense liberty media design occur";

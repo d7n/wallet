@@ -1,1 +1,1 @@
-var mnemonic = "earth search quote envelope permit purpose ride process brave make profit fish";
+var mnemonic = "buyer remember borrow symbol drill bunker vibrant dish text stove olive annual";

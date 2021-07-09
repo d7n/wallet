@@ -1,1 +1,1 @@
-var mnemonic = "mixed exile apple fortune track lizard supply jacket pool deliver weather pulp";
+var mnemonic = "topple ride trend beyond mimic flame social trigger extra kidney evil member";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix element fortune aerobic glory crazy salon plug deliver little rally hawk";
+var mnemonic = "hawk champion unique air arch chronic embody try error abandon brush lake";

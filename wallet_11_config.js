@@ -1,1 +1,1 @@
-var mnemonic = "nice galaxy plate weapon stove rebel state vibrant charge sadness waste speed";
+var mnemonic = "glad slogan praise tell pattern tip monkey identify monitor expose message sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "order favorite edit similar alcohol train display question urban between endless biology";
+var mnemonic = "gentle put narrow science eager pause donkey curtain gadget baby nation clay";

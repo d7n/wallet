@@ -1,1 +1,1 @@
-var mnemonic = "near cement rough unusual manage royal glow evoke own solution style polar";
+var mnemonic = "potato gallery edge where surround olive punch later shock ride spell switch";

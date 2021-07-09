@@ -1,1 +1,1 @@
-var mnemonic = "kick urban inner slight enjoy demand setup trend already lecture repeat vanish";
+var mnemonic = "park mom cake combine hazard zebra stage human trim barrel army input";

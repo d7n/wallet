@@ -1,1 +1,1 @@
-var mnemonic = "remember illegal exclude nerve autumn firm trip tree moment window gaze cluster";
+var mnemonic = "design crumble roast stadium friend season prosper train upper artefact antique wheel";

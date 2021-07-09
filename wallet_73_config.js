@@ -1,1 +1,1 @@
-var mnemonic = "timber permit shoulder bone vote urban wheat wise shock border grid cheap";
+var mnemonic = "echo firm wasp teach firm appear project visual coyote jacket blossom delay";

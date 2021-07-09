@@ -1,1 +1,1 @@
-var mnemonic = "train auto surge lens hello decline abuse regular liquid bird attack velvet";
+var mnemonic = "peace apple warm true tree narrow reject chase snack remember infant crime";

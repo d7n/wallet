@@ -1,1 +1,1 @@
-var mnemonic = "dial woman path glad cement possible brisk diagram decrease amazing frost life";
+var mnemonic = "knife travel ghost execute afraid extend saddle into donkey cook cruel puzzle";

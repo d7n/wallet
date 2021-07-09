@@ -1,1 +1,1 @@
-var mnemonic = "animal rely finger crush hospital injury soft tortoise actual truck drama advice";
+var mnemonic = "taxi raise return like print vague waste hybrid start discover snap climb";

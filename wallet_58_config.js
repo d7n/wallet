@@ -1,1 +1,1 @@
-var mnemonic = "panther airport city sniff tell high letter nice paddle indoor try letter";
+var mnemonic = "bulk sock also oval urge race juice olive stadium daring almost long";

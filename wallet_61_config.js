@@ -1,1 +1,1 @@
-var mnemonic = "regular shove praise zero carbon crunch empty ginger have canyon hawk output";
+var mnemonic = "slight try math away crowd cake hour system obvious knock top utility";

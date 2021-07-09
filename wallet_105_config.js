@@ -1,1 +1,1 @@
-var mnemonic = "side cliff unit scout gossip major used scrap crunch category comfort bless";
+var mnemonic = "air stool someone entry idle trip copper trip guilt phone domain gift";

@@ -1,1 +1,1 @@
-var mnemonic = "pear creek settle giggle record lift apart sister agent uncover ivory surface";
+var mnemonic = "start black guard despair awesome resource report direct hope father nasty harvest";

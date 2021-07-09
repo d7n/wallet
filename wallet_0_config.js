@@ -1,1 +1,1 @@
-var mnemonic = "brown lens produce urge trade detect hotel include again there begin hour";
+var mnemonic = "bulb way trap rare travel warfare canyon prosper various hill pig ability";

@@ -1,1 +1,1 @@
-var mnemonic = "beach remain immune broken erupt power demise what harsh umbrella episode give";
+var mnemonic = "upon belt replace script foil trend glass diesel chair damage anxiety word";

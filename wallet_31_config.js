@@ -1,1 +1,1 @@
-var mnemonic = "gesture moon alpha second hamster zebra cinnamon emerge chest gap always velvet";
+var mnemonic = "please flavor must federal final analyst adapt glide wasp media mention mad";

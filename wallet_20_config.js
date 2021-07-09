@@ -1,1 +1,1 @@
-var mnemonic = "work record news divide rice promote this portion media jungle chapter enter";
+var mnemonic = "antenna swap margin winter whip empty yellow conduct square cattle eager inside";

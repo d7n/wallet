@@ -1,1 +1,1 @@
-var mnemonic = "battle end normal tennis dizzy lesson relax amount diesel network trip churn";
+var mnemonic = "tuition blade hunt cart join remain faint top ethics napkin envelope child";

@@ -1,1 +1,1 @@
-var mnemonic = "economy absorb jar purpose gas reflect never disagree opera truth fury hill";
+var mnemonic = "point glue conduct tank gasp enemy vibrant fog plunge tenant pencil apple";

@@ -1,1 +1,1 @@
-var mnemonic = "way adapt hurt coyote mouse bench puzzle funny punch vintage stairs cup";
+var mnemonic = "rather powder message final mechanic begin neutral awful flight chapter maze animal";

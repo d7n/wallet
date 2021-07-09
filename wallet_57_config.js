@@ -1,1 +1,1 @@
-var mnemonic = "thumb rude sell cost spoon sail soldier hint flavor album modify clown";
+var mnemonic = "brand bachelor alter inject involve happy tool please learn twin mushroom wish";

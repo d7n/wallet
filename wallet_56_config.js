@@ -1,1 +1,1 @@
-var mnemonic = "robot home empower february zone evil asset town raven frown fluid forum";
+var mnemonic = "dream worth evidence diesel genre process silly solar outdoor boring mention hospital";

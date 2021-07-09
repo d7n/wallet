@@ -1,1 +1,1 @@
-var mnemonic = "magic enhance churn fit urge hungry oxygen sadness taxi need this retire";
+var mnemonic = "collect ride win illegal speak guitar stuff summer cradle install embrace alter";

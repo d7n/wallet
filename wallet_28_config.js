@@ -1,1 +1,1 @@
-var mnemonic = "panda coffee drama erode giggle maple differ edge peasant conduct opera make";
+var mnemonic = "diagram box talent fashion act abuse reunion symbol mandate visa session dish";

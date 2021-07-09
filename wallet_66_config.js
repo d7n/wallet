@@ -1,1 +1,1 @@
-var mnemonic = "letter cargo local acid duty critic prosper tide never inhale lemon chest";
+var mnemonic = "curtain place door jewel abstract gorilla naive cannon jungle decrease palace bar";

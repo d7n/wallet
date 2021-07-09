@@ -1,1 +1,1 @@
-var mnemonic = "clump awkward flip legal treat car unit dinner autumn tree immune floor";
+var mnemonic = "script knee congress brief flavor prosper special sister lawn cargo cage side";

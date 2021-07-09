@@ -1,1 +1,1 @@
-var mnemonic = "sweet invite feel similar save fame potato observe wine license shy manual";
+var mnemonic = "rather install end pass tired satoshi diary super spice usage manual regret";

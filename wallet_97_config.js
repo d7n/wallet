@@ -1,1 +1,1 @@
-var mnemonic = "space cloud toward nice lizard license wink memory fiction drift spoon pattern";
+var mnemonic = "monkey focus kid idea loyal situate absent actual bleak soon lab coil";

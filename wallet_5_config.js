@@ -1,1 +1,1 @@
-var mnemonic = "avocado duty become hobby air salt steak injury library use possible myth";
+var mnemonic = "guess empower identify elder volume embark neck brief awful legal emerge roof";

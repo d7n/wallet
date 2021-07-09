@@ -1,1 +1,1 @@
-var mnemonic = "citizen person melody december foam mule marble wonder chalk lesson behind ceiling";
+var mnemonic = "aunt artwork face flower endorse someone broken sword satoshi strike cruel left";

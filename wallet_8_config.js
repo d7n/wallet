@@ -1,1 +1,1 @@
-var mnemonic = "shadow page token prosper genuine horse sport write version case box neither";
+var mnemonic = "want wide rare detect execute virus birth arrange profit truck guess welcome";

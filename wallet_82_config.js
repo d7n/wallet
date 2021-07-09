@@ -1,1 +1,1 @@
-var mnemonic = "process south since hidden satoshi garlic carpet army shove garbage slow tissue";
+var mnemonic = "canoe narrow inhale oyster flush onion parent prize sport degree quantum elbow";

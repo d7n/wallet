@@ -1,1 +1,1 @@
-var mnemonic = "sniff lunar copper answer crash senior doll empty stadium survey photo time";
+var mnemonic = "jump volume pencil crouch interest notice crazy tonight soccer peanut ginger alone";

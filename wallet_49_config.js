@@ -1,1 +1,1 @@
-var mnemonic = "indoor grunt letter panel donkey design battle during trophy cruise chunk decline";
+var mnemonic = "below install brave stick devote gym range gift hip alarm hip crowd";

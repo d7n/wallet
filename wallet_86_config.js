@@ -1,1 +1,1 @@
-var mnemonic = "spin defense edge jaguar scrap protect soon firm alien turn lounge confirm";
+var mnemonic = "gossip market glove protect obscure melt inherit early happy deliver palace rhythm";

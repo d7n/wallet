@@ -1,1 +1,1 @@
-var mnemonic = "answer split music post sphere prize reason ginger birth way story bulk";
+var mnemonic = "cherry circle valve enjoy hurry weasel taste hamster pond adjust vital warrior";

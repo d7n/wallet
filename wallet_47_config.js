@@ -1,1 +1,1 @@
-var mnemonic = "armed dwarf poem vintage move brother boat boss resource gown uphold between";
+var mnemonic = "relief attract faculty utility year parent forum six couch air split grit";

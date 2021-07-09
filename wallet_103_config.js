@@ -1,1 +1,1 @@
-var mnemonic = "annual flip access pudding talent endorse abuse follow exact analyst major hint";
+var mnemonic = "divorce debate crunch engage album gift bright ranch doctor bar woman matter";

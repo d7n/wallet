@@ -1,1 +1,1 @@
-var mnemonic = "zero roof among opinion sustain another fork stool seek athlete solution burden";
+var mnemonic = "jelly result siege draw cash eager display baby blossom symbol rough leader";

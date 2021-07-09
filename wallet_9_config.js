@@ -1,1 +1,1 @@
-var mnemonic = "denial cloth found menu minute wealth silent exercise turkey host flash acoustic";
+var mnemonic = "elephant shoe improve purpose grocery embrace name whisper town steak render brick";

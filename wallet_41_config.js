@@ -1,1 +1,1 @@
-var mnemonic = "moral cloth early seminar agent draw champion aerobic network chuckle canoe diagram";
+var mnemonic = "copper visa dad maid scatter alien fish evolve atom mix offer stem";

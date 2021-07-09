@@ -1,1 +1,1 @@
-var mnemonic = "seat choice kitten pear save team winner galaxy nasty spell okay rebel";
+var mnemonic = "zebra clay credit bicycle vault jump inch tooth decade void oil frost";

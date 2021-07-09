@@ -1,1 +1,1 @@
-var mnemonic = "march little congress success relief equal glass hill sell prefer unaware soap";
+var mnemonic = "session erase evil rebuild tunnel dilemma detail grid brown news educate baby";

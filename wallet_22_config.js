@@ -1,1 +1,1 @@
-var mnemonic = "ticket stereo exchange pretty thank scheme thumb west dilemma mountain supply focus";
+var mnemonic = "stone warm head number call cousin swim stable cream crucial erosion nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza knock bleak song dolphin wheat flavor food soldier debris night lecture";
+var mnemonic = "few smooth ticket term axis wife earn fade bike cup prefer toss";

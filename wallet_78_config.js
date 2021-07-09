@@ -1,1 +1,1 @@
-var mnemonic = "favorite praise dad soon forest blade video essence cliff hover dad dinosaur";
+var mnemonic = "chest mystery toilet fence private oxygen rate insane regret purpose enrich vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "purity youth hidden oblige afraid nation before color off metal shove noise";
+var mnemonic = "rice flavor top replace distance cannon bounce typical foot observe trim wave";

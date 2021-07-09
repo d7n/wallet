@@ -1,1 +1,1 @@
-var mnemonic = "slide legend burden little spawn dream tone decrease prevent zero involve front";
+var mnemonic = "lake day raccoon world trouble language tape basket when confirm romance person";

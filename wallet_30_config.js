@@ -1,1 +1,1 @@
-var mnemonic = "speak size consider wet seek dentist fever vote grow timber devote artwork";
+var mnemonic = "provide casino this decrease oyster term side shaft eyebrow pepper dismiss fortune";

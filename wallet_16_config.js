@@ -1,1 +1,1 @@
-var mnemonic = "oak bridge soda fox what bus unfold fat proud taxi flame dragon";
+var mnemonic = "canyon chase alien index easy review company street phrase nut cheap mom";

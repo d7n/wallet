@@ -1,1 +1,1 @@
-var mnemonic = "dice grid seek calm decline object nose include siege cattle easy copy";
+var mnemonic = "science drive speed exist elephant shed jeans side candy vague fine broccoli";

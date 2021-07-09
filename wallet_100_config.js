@@ -1,1 +1,1 @@
-var mnemonic = "furnace charge skin paper tenant report dutch gaze puzzle evidence donate water";
+var mnemonic = "steel rib click body volume genius idea hawk kite submit face coyote";

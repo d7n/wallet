@@ -1,1 +1,1 @@
-var mnemonic = "liquid sister number duck fringe sadness blade clean project river square like";
+var mnemonic = "wasp comic wheel detect benefit cross umbrella speed view next found caught";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel hour garbage breeze fade base include office ecology law accident wave";
+var mnemonic = "grab fish cable apart tuna whale august amused chaos pioneer ticket elite";

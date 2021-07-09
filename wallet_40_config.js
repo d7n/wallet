@@ -1,1 +1,1 @@
-var mnemonic = "window plate tonight moment lemon wheel silk virus lesson struggle sniff toy";
+var mnemonic = "obvious east magnet vessel balcony ladder knock album rib ball girl fun";

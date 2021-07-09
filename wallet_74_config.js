@@ -1,1 +1,1 @@
-var mnemonic = "cost olive nice alone summer join key salad solve subject pass neutral";
+var mnemonic = "north gold eye snow solid amount tiger craft endorse version kangaroo change";

@@ -1,1 +1,1 @@
-var mnemonic = "evil surround drop version canoe chef ocean month favorite spike gallery swing";
+var mnemonic = "renew balance card wave cabin either ramp fever eight steel toast axis";

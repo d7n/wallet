@@ -1,1 +1,1 @@
-var mnemonic = "size firm fog ticket eagle mandate ask drama fly force friend media";
+var mnemonic = "lady furnace advice loyal produce camp skull primary sell camera art actress";

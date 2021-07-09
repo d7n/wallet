@@ -1,1 +1,1 @@
-var mnemonic = "object reward bottom diagram model very behave goddess top grit month metal";
+var mnemonic = "exercise loyal exist hero ketchup exclude cattle cable tray bomb absorb room";

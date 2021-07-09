@@ -1,1 +1,1 @@
-var mnemonic = "sign when couple task unfold army ginger essence crane suggest must rent";
+var mnemonic = "evolve impose key find act retreat immune welcome style various hamster output";

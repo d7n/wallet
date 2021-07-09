@@ -1,1 +1,1 @@
-var mnemonic = "donkey van essay cotton ready violin canal rookie fiber flag sign combine";
+var mnemonic = "calm paddle crazy minimum pumpkin dwarf gain sight response affair embark firm";

@@ -1,1 +1,1 @@
-var mnemonic = "sing alpha laugh infant way remove remove author wreck pact prize maze";
+var mnemonic = "ordinary cluster exercise worry gospel vital already vote trap adjust search toward";

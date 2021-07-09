@@ -1,1 +1,1 @@
-var mnemonic = "transfer orient crawl mad try come powder knee laptop square surprise jungle";
+var mnemonic = "eight better bike juice reopen birth tornado happy wreck damp until rate";

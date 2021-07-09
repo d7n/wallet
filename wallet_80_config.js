@@ -1,1 +1,1 @@
-var mnemonic = "fold person concert shallow business fitness purpose clerk tattoo candy paddle ghost";
+var mnemonic = "board any fine reform pyramid grab inherit cloth pluck mango predict deposit";

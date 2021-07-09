@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rabbit coach twenty fatal ignore excuse auction page cup glue loyal";
+var mnemonic = "assault fresh merry original slow gold file orphan project south guide pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer beef comfort involve omit candy gesture bunker fiction special garment total";
+var mnemonic = "kiss balcony paper cry flush merge episode error unit lunar float forum";

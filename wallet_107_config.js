@@ -1,1 +1,1 @@
-var mnemonic = "rug tired submit bamboo cute fire rare mirror pattern maximum disorder useful";
+var mnemonic = "sugar hazard planet skirt lesson tornado bring crime obey wagon stuff marriage";

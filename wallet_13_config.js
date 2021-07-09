@@ -1,1 +1,1 @@
-var mnemonic = "fatal next hockey glass salute license trip start hero peace speak small";
+var mnemonic = "canyon riot increase club joke senior wheel neutral fence rotate outer envelope";

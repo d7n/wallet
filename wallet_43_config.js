@@ -1,1 +1,1 @@
-var mnemonic = "fashion barrel eyebrow always resist curve sudden lobster endorse raw food index";
+var mnemonic = "shrug help label coach kangaroo envelope paddle wealth flag boil dream lake";
