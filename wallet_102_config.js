@@ -1,1 +1,1 @@
-var mnemonic = "flavor category indoor bonus cabbage wasp hamster fury narrow burden bag point";
+var mnemonic = "much into echo farm robot lazy toilet double tray glove dove wool";

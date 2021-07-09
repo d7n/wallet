@@ -1,1 +1,1 @@
-var mnemonic = "canoe sun tank rate stadium occur kidney clap judge quarter crouch donate";
+var mnemonic = "demand movie scheme swear trophy because yard sweet path daring process move";

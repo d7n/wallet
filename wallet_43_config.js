@@ -1,1 +1,1 @@
-var mnemonic = "prepare thunder sight foster palm toe mango neutral fluid stool endorse real";
+var mnemonic = "calm lift across myself skate fame lawsuit kingdom rapid minute square brush";

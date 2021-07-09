@@ -1,1 +1,1 @@
-var mnemonic = "away tattoo economy cup valley ladder silk rookie voice report patrol gospel";
+var mnemonic = "bag panda finish link already around push ancient pulp around state switch";

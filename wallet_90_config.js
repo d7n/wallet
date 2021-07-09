@@ -1,1 +1,1 @@
-var mnemonic = "mystery again matter dumb fiction sister supreme rate drop ill silver cross";
+var mnemonic = "join oyster wild fiction tool glow okay fire exit fever scan embody";

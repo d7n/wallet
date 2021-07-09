@@ -1,1 +1,1 @@
-var mnemonic = "island ordinary slice fluid protect wedding fade nut almost age text coral";
+var mnemonic = "today despair try aware clap vehicle three island swim rain fold upon";

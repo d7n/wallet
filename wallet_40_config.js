@@ -1,1 +1,1 @@
-var mnemonic = "brave zero verb kitten voyage bullet holiday stairs animal miracle because liar";
+var mnemonic = "online exchange blue sugar gasp garlic pen empower year once breeze act";

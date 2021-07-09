@@ -1,1 +1,1 @@
-var mnemonic = "follow matter daring spin riot piano stumble result before arctic isolate inhale";
+var mnemonic = "vanish alley canvas trust eager visa conduct act rifle ribbon always west";

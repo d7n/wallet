@@ -1,1 +1,1 @@
-var mnemonic = "system school leaf segment horn glance frame spatial actress vivid amazing spare";
+var mnemonic = "more organ pelican guide donkey swap poem raccoon bunker ride axis vintage";

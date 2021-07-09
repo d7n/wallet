@@ -1,1 +1,1 @@
-var mnemonic = "resource bounce divide clay test world aspect pig ostrich wire truly cherry";
+var mnemonic = "peasant bleak twice child aunt galaxy clutch wrap pause travel rose minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "wall expect relax debate exercise march such daughter flower brisk estate maple";
+var mnemonic = "pyramid roof tag real song side dust episode scale modify license canoe";

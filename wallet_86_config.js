@@ -1,1 +1,1 @@
-var mnemonic = "found yard peanut eight fiction dragon genius neutral autumn sentence arrive cloud";
+var mnemonic = "liquid lady unit sleep tail topic hand famous minor attract chapter flavor";

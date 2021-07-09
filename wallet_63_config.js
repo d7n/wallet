@@ -1,1 +1,1 @@
-var mnemonic = "dice jaguar balance napkin ensure polar endless process dutch giggle order valve";
+var mnemonic = "sponsor morning symptom yard sign cotton protect physical coin solve narrow tool";

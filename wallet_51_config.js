@@ -1,1 +1,1 @@
-var mnemonic = "razor plug trip debris candy limb moment deny flag weasel basket shoot";
+var mnemonic = "wisdom road void desert offer cradle gospel charge benefit embrace immune business";

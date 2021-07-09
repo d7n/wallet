@@ -1,1 +1,1 @@
-var mnemonic = "save upgrade awesome have whale motor isolate bar whip example chef over";
+var mnemonic = "skirt coyote crisp execute gentle caution region seat awake shoulder roof envelope";

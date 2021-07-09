@@ -1,1 +1,1 @@
-var mnemonic = "balance trumpet wait fault child decide proud design core canal sadness awesome";
+var mnemonic = "jacket market negative brick square undo habit tail buddy verb chunk fetch";

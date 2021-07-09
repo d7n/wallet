@@ -1,1 +1,1 @@
-var mnemonic = "mean click bullet love hope diet wall canal apart calm bicycle bean";
+var mnemonic = "number caution neck enroll all hurt alone accident mushroom visa typical lunch";

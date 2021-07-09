@@ -1,1 +1,1 @@
-var mnemonic = "hurt record egg make rifle idea trigger attract wear attitude sunny about";
+var mnemonic = "vast fit spring zebra metal citizen toast crisp element couple feel rapid";

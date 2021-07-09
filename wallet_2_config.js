@@ -1,1 +1,1 @@
-var mnemonic = "expose scatter pond early vague manual fence furnace luxury route expire remain";
+var mnemonic = "subway what point field rare miss essence armor oblige match sibling state";

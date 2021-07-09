@@ -1,1 +1,1 @@
-var mnemonic = "family start mesh stomach fee civil stage sign finger oven marine small";
+var mnemonic = "toward response jar disagree biology rule allow analyst already vote monster thunder";

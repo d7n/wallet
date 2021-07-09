@@ -1,1 +1,1 @@
-var mnemonic = "runway drum fit diet retreat fame address master between tumble muscle absorb";
+var mnemonic = "pink hollow space danger slogan purity total soldier warfare advance cement history";

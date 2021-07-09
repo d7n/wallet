@@ -1,1 +1,1 @@
-var mnemonic = "next royal shrug dizzy drill bubble alter honey brush jewel machine mirror";
+var mnemonic = "orphan reduce quote divide lawn eye pencil label audit impact side usual";

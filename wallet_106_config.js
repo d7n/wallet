@@ -1,1 +1,1 @@
-var mnemonic = "vibrant build sausage junior ride outer cream mule peanut crystal ship attitude";
+var mnemonic = "grab sketch mixed brush exist dwarf prepare excuse actress same undo west";

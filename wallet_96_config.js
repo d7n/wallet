@@ -1,1 +1,1 @@
-var mnemonic = "sheriff cool good envelope avocado scorpion misery source bind brave pact hood";
+var mnemonic = "worth popular draw web cactus soccer easy album nest awake mandate accuse";

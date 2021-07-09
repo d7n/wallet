@@ -1,1 +1,1 @@
-var mnemonic = "weapon vessel quality pink sustain just bamboo desk all pear argue always";
+var mnemonic = "sail service inquiry fortune space exclude orchard owner crazy whale return credit";

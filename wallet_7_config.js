@@ -1,1 +1,1 @@
-var mnemonic = "feel coffee mandate excite swear decrease device hole genuine grace mad vote";
+var mnemonic = "fiber scatter coil sorry ranch canvas shoulder average ghost naive silent dilemma";

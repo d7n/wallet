@@ -1,1 +1,1 @@
-var mnemonic = "pause belt impose grunt scrap tunnel lift stage useless claw nephew reform";
+var mnemonic = "review essay wink glow finger receive awake act fine worry update manage";

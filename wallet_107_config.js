@@ -1,1 +1,1 @@
-var mnemonic = "fold panel frame knock abandon issue notice prepare grief save slim link";
+var mnemonic = "eye abuse pelican absurd craft sense local globe strategy tourist mix goat";

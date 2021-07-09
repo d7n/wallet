@@ -1,1 +1,1 @@
-var mnemonic = "lift tell sadness kidney symbol ladder pudding liar toward emotion ridge stamp";
+var mnemonic = "crazy nephew window surprise quality craft bunker brief afford miracle wife baby";

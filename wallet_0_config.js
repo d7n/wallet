@@ -1,1 +1,1 @@
-var mnemonic = "song project rival total usual path joke lizard notice okay exit bounce";
+var mnemonic = "oblige predict gravity pigeon laugh treat dry inflict zebra spawn hello trash";

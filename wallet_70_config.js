@@ -1,1 +1,1 @@
-var mnemonic = "dust welcome wreck video car planet tuition slogan catch science stumble sword";
+var mnemonic = "toast educate flee enhance merry donkey rather disagree decline magic hen delay";

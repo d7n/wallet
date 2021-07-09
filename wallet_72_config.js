@@ -1,1 +1,1 @@
-var mnemonic = "other bachelor excuse thought engine pact ride cherry valley space under fever";
+var mnemonic = "census merry range please random resource clock first damage kiwi game assault";

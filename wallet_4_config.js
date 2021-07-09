@@ -1,1 +1,1 @@
-var mnemonic = "soldier sugar dial wasp since juice hotel obscure alpha alter bulb tank";
+var mnemonic = "news error nothing lunar taste sight define cause fall hotel physical ethics";

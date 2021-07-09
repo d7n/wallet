@@ -1,1 +1,1 @@
-var mnemonic = "together film broom section ugly forest mask pipe curtain option disorder tag";
+var mnemonic = "repeat endorse visa runway shell announce lunar entry balance similar praise town";

@@ -1,1 +1,1 @@
-var mnemonic = "either anger debate hammer focus text gift avoid miracle exchange pride someone";
+var mnemonic = "march journey major jeans click brisk inherit refuse govern night art panther";

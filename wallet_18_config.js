@@ -1,1 +1,1 @@
-var mnemonic = "rhythm raven prefer slot extend quarter symbol silent lucky security charge angry";
+var mnemonic = "ridge decrease sense noble text chaos yellow dynamic black enemy special prevent";

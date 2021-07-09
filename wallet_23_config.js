@@ -1,1 +1,1 @@
-var mnemonic = "match glove ring lock crazy either typical anger snap twelve donor unaware";
+var mnemonic = "refuse employ rice drink core margin small wage satisfy find frozen stay";

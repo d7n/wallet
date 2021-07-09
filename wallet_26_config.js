@@ -1,1 +1,1 @@
-var mnemonic = "truly leopard include tent simple what else rival gas whip royal vague";
+var mnemonic = "second fatal collect apology blur photo follow stand attract banner lawsuit thunder";

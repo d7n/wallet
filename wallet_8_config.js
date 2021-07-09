@@ -1,1 +1,1 @@
-var mnemonic = "eagle charge blast lamp cradle mix peace basic claw network benefit april";
+var mnemonic = "matrix panther address legend balcony grief knock suit pet aspect oval ranch";

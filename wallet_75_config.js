@@ -1,1 +1,1 @@
-var mnemonic = "work damp similar damp spoil pipe scale twenty rescue cigar eye weasel";
+var mnemonic = "hope drastic ice already bicycle grass also truth congress pink once tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow audit kitten valve opinion ecology jar document expect small crack total";
+var mnemonic = "boat buddy entire fruit shiver key grape poem answer fault street approve";

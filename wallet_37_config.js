@@ -1,1 +1,1 @@
-var mnemonic = "bundle harbor tent matter enjoy fever cluster pond safe open still fame";
+var mnemonic = "antique champion equip absorb offer fog donkey wear input reveal then net";

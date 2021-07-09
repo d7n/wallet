@@ -1,1 +1,1 @@
-var mnemonic = "basket reason mass dwarf owner mirror deny ritual moon draw wall amateur";
+var mnemonic = "tongue music cloud pioneer aerobic reopen vast beach include velvet furnace display";

@@ -1,1 +1,1 @@
-var mnemonic = "brush coconut special economy upgrade switch master fun traffic festival dentist glass";
+var mnemonic = "mean clay rifle dust yellow answer end wedding error glance wisdom liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "promote room mosquito animal west devote patch purpose trigger tiny robot cabin";
+var mnemonic = "ticket olympic craft imitate ladder device kiss crane cash art asset duck";

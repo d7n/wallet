@@ -1,1 +1,1 @@
-var mnemonic = "song distance upgrade strategy brisk room jeans option barrel slow erupt loud";
+var mnemonic = "logic great skull weird toast body nation arrive consider fortune blush tissue";

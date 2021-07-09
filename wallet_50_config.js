@@ -1,1 +1,1 @@
-var mnemonic = "rug turtle black milk duck give dinosaur neither teach crouch deal drive";
+var mnemonic = "wheat learn tribe concert senior poem season fiction city monster steak copper";

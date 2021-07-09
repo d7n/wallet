@@ -1,1 +1,1 @@
-var mnemonic = "post brisk rifle blue make dinner brick omit lounge search example fuel";
+var mnemonic = "soup stumble pair kiwi brush brick man rail action notice hurry success";

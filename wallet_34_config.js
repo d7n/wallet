@@ -1,1 +1,1 @@
-var mnemonic = "select sun scene sudden smooth sea brush use buyer clay belt river";
+var mnemonic = "direct method winner broom upon village able young chief inherit violin warrior";

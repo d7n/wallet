@@ -1,1 +1,1 @@
-var mnemonic = "orphan abandon ankle believe you argue once lake try tribe green parade";
+var mnemonic = "about measure absurd nasty adult forest check gasp tongue cheese powder loop";

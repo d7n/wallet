@@ -1,1 +1,1 @@
-var mnemonic = "push hand tide summer recipe resource stomach rich model bottom awful tube";
+var mnemonic = "brother seat wise nerve ankle soccer radar aisle obscure right often curious";

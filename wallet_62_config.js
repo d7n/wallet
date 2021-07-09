@@ -1,1 +1,1 @@
-var mnemonic = "rug unusual problem arena absorb top pizza evil genuine harsh olympic easily";
+var mnemonic = "shed symptom stem there assault lemon wrap crowd arena position strike deal";

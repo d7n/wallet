@@ -1,1 +1,1 @@
-var mnemonic = "casual lunar panic rally lottery boil liberty pink erase merry soon vacuum";
+var mnemonic = "cage finish violin cash slim limb mandate arm test hover fever street";

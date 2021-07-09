@@ -1,1 +1,1 @@
-var mnemonic = "thing diamond oyster over august salt slide radio cannon wrestle castle napkin";
+var mnemonic = "ability differ solid style open duck mistake chair exercise choice slogan street";

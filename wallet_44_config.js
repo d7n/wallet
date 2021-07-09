@@ -1,1 +1,1 @@
-var mnemonic = "unit victory proof feed desert armed fruit tide green print dove bid";
+var mnemonic = "now slice drama sentence alter present ladder poverty fiscal fatigue lend second";

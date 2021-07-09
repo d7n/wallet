@@ -1,1 +1,1 @@
-var mnemonic = "hood magnet midnight pair pave material flip derive tone raw vapor bronze";
+var mnemonic = "craft luxury adjust exact fly hospital thumb mansion shine fix derive describe";

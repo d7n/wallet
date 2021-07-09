@@ -1,1 +1,1 @@
-var mnemonic = "shop mixture leg proof teach diesel enable baby gasp tree trip push";
+var mnemonic = "cherry example jaguar month thunder device dream cushion impulse clip fame regret";

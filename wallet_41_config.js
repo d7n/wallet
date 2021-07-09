@@ -1,1 +1,1 @@
-var mnemonic = "lawn enter kiwi shaft phone swallow simple bulk time apple maid bike";
+var mnemonic = "earth absurd gloom vague team shuffle grunt sword defy elevator act boil";

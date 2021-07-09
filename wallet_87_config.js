@@ -1,1 +1,1 @@
-var mnemonic = "rookie verb science destroy melody into crime ivory spin tuition tone divert";
+var mnemonic = "desert during endorse afford ivory project bulk razor island myself grocery conduct";

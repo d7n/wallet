@@ -1,1 +1,1 @@
-var mnemonic = "staff liberty run noble offer unfold wine shuffle myself long body old";
+var mnemonic = "resemble mercy damage hazard forget build slam inflict hurt win rigid jeans";

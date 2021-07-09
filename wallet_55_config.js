@@ -1,1 +1,1 @@
-var mnemonic = "quick rent right ill donkey swift pelican smooth purity service world tag";
+var mnemonic = "talk twin pepper aisle permit unit want above end saddle husband property";

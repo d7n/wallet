@@ -1,1 +1,1 @@
-var mnemonic = "mountain multiply friend lobster annual fantasy minute plug excuse core private motor";
+var mnemonic = "tongue effort ball anxiety flush need humble panel tribe tattoo sell culture";

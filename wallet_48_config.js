@@ -1,1 +1,1 @@
-var mnemonic = "shell lion horn art enemy bullet tomato item account desk start mesh";
+var mnemonic = "later transfer catalog person guitar repair venture dress myth enemy capable float";

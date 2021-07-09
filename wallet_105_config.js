@@ -1,1 +1,1 @@
-var mnemonic = "figure beef tomorrow upon opinion dad juice arch kitchen gadget globe pizza";
+var mnemonic = "crunch squeeze cream crime demise potato fall resist wife image random napkin";

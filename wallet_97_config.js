@@ -1,1 +1,1 @@
-var mnemonic = "brisk raccoon kick tourist puzzle obtain popular laundry screen special repeat typical";
+var mnemonic = "useful tip foil winter original clutch answer assault kitten essay just truck";

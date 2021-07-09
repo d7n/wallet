@@ -1,1 +1,1 @@
-var mnemonic = "decide know velvet drama fish frozen squeeze lyrics become panther throw rather";
+var mnemonic = "mesh diesel during illness smart gloom shield genre stadium note oil success";

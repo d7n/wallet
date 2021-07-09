@@ -1,1 +1,1 @@
-var mnemonic = "child nice estate settle above narrow island sail high valve hospital steel";
+var mnemonic = "various slim pride current mention empty fringe wash genre gym hover drink";

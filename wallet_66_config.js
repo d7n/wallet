@@ -1,1 +1,1 @@
-var mnemonic = "electric fog account fog dinner attack series quantum prison lamp suggest boil";
+var mnemonic = "cruel surround guard around galaxy income chalk youth reopen grocery tail object";

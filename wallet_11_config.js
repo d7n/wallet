@@ -1,1 +1,1 @@
-var mnemonic = "viable seed circle scatter swear song spider shadow cabin sphere buddy false";
+var mnemonic = "wild crouch tag leisure material plunge luggage note width shoot grace wrestle";

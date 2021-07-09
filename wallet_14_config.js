@@ -1,1 +1,1 @@
-var mnemonic = "tortoise target panther occur perfect hover bike matter bag kingdom chair torch";
+var mnemonic = "about dismiss abandon laugh ribbon state economy unveil large kitten cruise divide";

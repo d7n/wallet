@@ -1,1 +1,1 @@
-var mnemonic = "choose disagree venue clock ability fox shell purity crane ship squeeze cage";
+var mnemonic = "civil fire shell deliver grab fashion dinosaur have swallow humble march enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "fun apart music just oil announce fork school purse topple hurdle doll";
+var mnemonic = "mom aunt pelican engine wage hurdle trouble uncover lumber rent devote argue";

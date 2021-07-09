@@ -1,1 +1,1 @@
-var mnemonic = "rule rate siren viable jaguar phrase tired country mixed hidden answer skate";
+var mnemonic = "tilt begin kick south link infant grief shaft reveal road ordinary wage";

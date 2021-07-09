@@ -1,1 +1,1 @@
-var mnemonic = "insane assume surge exclude robot exchange resource thought end session steak promote";
+var mnemonic = "angry soldier diesel anxiety stay ostrich wide pluck grow tide dice unable";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cost sauce wrap thumb birth into distance family panel helmet rotate";
+var mnemonic = "grunt best tomato process wrist essence tell ask fault next rural enter";

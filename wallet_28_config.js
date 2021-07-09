@@ -1,1 +1,1 @@
-var mnemonic = "lunch extra toward course usual crawl clog pluck wing problem define buzz";
+var mnemonic = "enable tomato stuff frequent pass thumb job eye satisfy journey pool poem";

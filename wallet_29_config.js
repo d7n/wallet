@@ -1,1 +1,1 @@
-var mnemonic = "dust moon safe banner coin refuse youth feed warfare breeze tornado sea";
+var mnemonic = "humor virtual cluster manual aunt outdoor account skate enlist color perfect urge";

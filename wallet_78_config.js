@@ -1,1 +1,1 @@
-var mnemonic = "ball end ability sister melt load govern price convince earth project praise";
+var mnemonic = "weasel copper fancy goddess abandon cool sausage doll million that owner bicycle";

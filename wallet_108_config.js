@@ -1,1 +1,1 @@
-var mnemonic = "carbon erupt sample laptop artist climb merry ripple mass behave tube sun";
+var mnemonic = "brisk heart moral want assume box spare stove dutch click curve type";

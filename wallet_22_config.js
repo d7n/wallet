@@ -1,1 +1,1 @@
-var mnemonic = "dune camera castle orchard uncover lemon vault spring moral dinosaur wagon joke";
+var mnemonic = "fame employ unable opera under diagram artwork garbage rotate gravity quote satisfy";

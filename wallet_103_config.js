@@ -1,1 +1,1 @@
-var mnemonic = "naive hero very cereal that merge empty task brain manage father satoshi";
+var mnemonic = "lamp citizen stay mobile model mixture state chicken peasant twenty must decide";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest roast mosquito limb tag large absurd exhibit jelly senior come syrup";
+var mnemonic = "divert broccoli smile ripple film kangaroo pass remind gloom prison drama fetch";

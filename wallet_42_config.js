@@ -1,1 +1,1 @@
-var mnemonic = "cereal crack pudding detail hint powder throw legend kind mistake waste lesson";
+var mnemonic = "camera absent liberty now shaft lucky amateur seat spoon lizard mechanic cousin";

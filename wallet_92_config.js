@@ -1,1 +1,1 @@
-var mnemonic = "school dwarf night siren author neutral again evolve track what know thing";
+var mnemonic = "west congress column road sight lesson lazy behave repair beauty verb grocery";

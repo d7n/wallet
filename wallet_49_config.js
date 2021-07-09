@@ -1,1 +1,1 @@
-var mnemonic = "feel since buffalo mandate oval reason scout use fabric awkward intact idea";
+var mnemonic = "moral yellow next violin float sign track leopard latin connect peanut since";

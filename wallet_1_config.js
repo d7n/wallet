@@ -1,1 +1,1 @@
-var mnemonic = "forget panda nose thing ten cup remove essay pen hungry path story";
+var mnemonic = "equip fog gloom useless flower moment word melt doctor express draw clog";

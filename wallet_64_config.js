@@ -1,1 +1,1 @@
-var mnemonic = "young crucial turn blast write settle pen meadow lobster auto sea gesture";
+var mnemonic = "object ball vessel bird girl rescue erase rescue donkey simple essence awful";

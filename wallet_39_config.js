@@ -1,1 +1,1 @@
-var mnemonic = "false rural skull appear antique degree tunnel typical stool crawl pony jacket";
+var mnemonic = "scheme mail hybrid roast denial section trust swarm uniform across birth start";

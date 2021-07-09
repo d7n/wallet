@@ -1,1 +1,1 @@
-var mnemonic = "vacuum access empty blue crack expose jealous color say despair together tornado";
+var mnemonic = "relief afraid group industry define apple glance window food fresh nature happy";

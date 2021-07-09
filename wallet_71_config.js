@@ -1,1 +1,1 @@
-var mnemonic = "hold priority radio admit giggle evil sting kick camera mansion cheese hunt";
+var mnemonic = "horror refuse health major quiz wood same blade wage regular amateur panda";

@@ -1,1 +1,1 @@
-var mnemonic = "stick frown enough quantum scare cage daring title wet arctic mansion under";
+var mnemonic = "umbrella rebuild post sample bright maid they outside bright project earn unusual";
