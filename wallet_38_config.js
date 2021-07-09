@@ -1,1 +1,1 @@
-var mnemonic = "pear calm whip ginger boost glove produce asthma similar prosper inject seed";
+var mnemonic = "follow whisper balcony credit record sunny acquire retire ripple figure purchase record";

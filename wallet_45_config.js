@@ -1,1 +1,1 @@
-var mnemonic = "club universe frame armor electric sun casino recall expect asset write student";
+var mnemonic = "alert believe rabbit cabin custom verb arrive steak fruit notable figure focus";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed fault emerge draft penalty onion pioneer ancient allow spot stand seminar";
+var mnemonic = "middle fiction pepper seat notice hammer rose garlic enlist offer wait swap";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle dumb biology oval discover congress success tuna share edit legend analyst";
+var mnemonic = "spring keep discover twist strong satisfy select wood rain spice grow degree";

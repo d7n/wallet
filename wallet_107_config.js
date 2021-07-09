@@ -1,1 +1,1 @@
-var mnemonic = "avoid balance unhappy safe clinic depth inner wish topple mix impulse length";
+var mnemonic = "immense police bullet figure firm hood sheriff solid spawn morning taste mystery";

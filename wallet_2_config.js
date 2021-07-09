@@ -1,1 +1,1 @@
-var mnemonic = "cart remember honey guess stomach often season unfold meadow ivory hip ship";
+var mnemonic = "stay axis dog glance save belt help clock urge motor clerk cactus";

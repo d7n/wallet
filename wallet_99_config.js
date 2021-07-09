@@ -1,1 +1,1 @@
-var mnemonic = "penalty tape diesel depend whale road bulk lunar cherry inside ill tortoise";
+var mnemonic = "update senior atom breeze employ gentle renew cement apology tattoo notable eight";

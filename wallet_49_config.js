@@ -1,1 +1,1 @@
-var mnemonic = "audit lab high clutch black company draft cargo laugh credit advance special";
+var mnemonic = "home chase add great agent economy bless stumble city melt invest execute";

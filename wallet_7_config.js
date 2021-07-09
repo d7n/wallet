@@ -1,1 +1,1 @@
-var mnemonic = "tumble hollow cube distance cute decide dinner stick decline unusual cage fossil";
+var mnemonic = "antenna bag rude float test shove wrist jungle story tragic siege pact";

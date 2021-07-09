@@ -1,1 +1,1 @@
-var mnemonic = "episode range pudding doll mirror concert spend suggest flee address buzz opinion";
+var mnemonic = "cattle mind book major helmet park thunder youth spray century remember kid";

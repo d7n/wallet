@@ -1,1 +1,1 @@
-var mnemonic = "seat unit captain layer swap acquire consider device shiver tenant guess flash";
+var mnemonic = "father lab silly hat gift galaxy typical utility order sponsor journey insane";

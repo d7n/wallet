@@ -1,1 +1,1 @@
-var mnemonic = "mercy approve process cloud victory joy envelope cement ignore army mushroom tooth";
+var mnemonic = "curtain pistol office camp drip above stadium prepare father ten series oven";

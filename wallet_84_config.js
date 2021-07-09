@@ -1,1 +1,1 @@
-var mnemonic = "coin horse educate develop tray venture weapon retreat humor lecture buyer thing";
+var mnemonic = "core body nominee moon bachelor exact pattern alert health doctor tongue attend";

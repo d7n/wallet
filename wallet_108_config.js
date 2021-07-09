@@ -1,1 +1,1 @@
-var mnemonic = "cradle used urge anger fantasy poet ordinary tumble stand crane test often";
+var mnemonic = "around ripple believe improve cricket struggle arctic stick recall phrase execute modify";

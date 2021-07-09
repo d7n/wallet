@@ -1,1 +1,1 @@
-var mnemonic = "calm elder remind regular finger market elegant casino spell program flush useless";
+var mnemonic = "today mail like glad rather diesel fantasy uniform humble milk hen put";

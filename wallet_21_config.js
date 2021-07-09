@@ -1,1 +1,1 @@
-var mnemonic = "tunnel dream clog worry fancy luggage second catalog force heart practice horn";
+var mnemonic = "shell ridge motor wet wall orient category present neither jealous lunar text";

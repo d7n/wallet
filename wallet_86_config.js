@@ -1,1 +1,1 @@
-var mnemonic = "trophy provide direct raise couch disagree tree rug connect radio poet enrich";
+var mnemonic = "law solve maximum census search scene sunny marine height heavy entire topic";

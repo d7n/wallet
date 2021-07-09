@@ -1,1 +1,1 @@
-var mnemonic = "volcano satoshi inhale range supreme keep patient plug wrestle bitter depend echo";
+var mnemonic = "wet salad funny assault supreme oval glide embrace forget million clock devote";

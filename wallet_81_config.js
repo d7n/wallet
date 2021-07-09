@@ -1,1 +1,1 @@
-var mnemonic = "skull later december over dawn dentist answer melody inflict gorilla wish roof";
+var mnemonic = "figure gift fly bike drip kidney pull patrol rack health topic tumble";

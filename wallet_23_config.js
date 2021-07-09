@@ -1,1 +1,1 @@
-var mnemonic = "purse cry fiction base annual banner tree ignore veteran mask rack insane";
+var mnemonic = "snack way later seed traffic organ matter route situate park anger horn";

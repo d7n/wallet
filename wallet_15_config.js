@@ -1,1 +1,1 @@
-var mnemonic = "dawn original trial opinion describe slim night wet portion mail coil spot";
+var mnemonic = "birth hole birth garment quick find fresh marine wool west syrup tag";

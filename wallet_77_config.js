@@ -1,1 +1,1 @@
-var mnemonic = "nasty naive spoon shine stamp donate hybrid poem similar often panel source";
+var mnemonic = "glide girl math razor girl decorate wolf tube repair curtain stumble blast";

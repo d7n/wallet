@@ -1,1 +1,1 @@
-var mnemonic = "tongue page until sketch plunge submit apart hobby doctor fade payment source";
+var mnemonic = "before dignity cram skull midnight oyster slow canyon hello business armed crew";

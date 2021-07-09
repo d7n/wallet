@@ -1,1 +1,1 @@
-var mnemonic = "mosquito prison sell evoke believe fiction couple leisure motor glide green child";
+var mnemonic = "hope useful water limb balcony puzzle amateur project kingdom dragon season outdoor";

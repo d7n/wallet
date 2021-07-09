@@ -1,1 +1,1 @@
-var mnemonic = "tuition task wife source visual claw idea palm talent venue reason genre";
+var mnemonic = "ribbon version exit melt crazy help wage glass quick bulk cricket pledge";

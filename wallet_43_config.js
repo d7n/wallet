@@ -1,1 +1,1 @@
-var mnemonic = "image impose lesson mosquito lawn remember sound evolve pill fence depth electric";
+var mnemonic = "episode erosion alert fee boil flower thunder vague parade sweet that sleep";

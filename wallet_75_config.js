@@ -1,1 +1,1 @@
-var mnemonic = "weapon camp oil patient shallow funny scorpion bulk afford deliver win sausage";
+var mnemonic = "virtual bus embrace surge drastic hawk thumb picnic penalty genuine daring pyramid";

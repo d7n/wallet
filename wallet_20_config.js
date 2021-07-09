@@ -1,1 +1,1 @@
-var mnemonic = "success verify minute room noise nasty wreck live body orbit staff stock";
+var mnemonic = "float public cliff room true casino save future seek tomorrow room viable";

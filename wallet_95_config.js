@@ -1,1 +1,1 @@
-var mnemonic = "pepper urge hidden special ice rhythm donor symptom shiver battle coffee forum";
+var mnemonic = "indicate require test vocal vote fuel once hat relief pumpkin twenty palace";

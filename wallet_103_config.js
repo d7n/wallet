@@ -1,1 +1,1 @@
-var mnemonic = "mixed paper siege palace devote cable spring vital pair sort sudden add";
+var mnemonic = "indoor episode rifle repair pride between hover taste verify wall mule group";

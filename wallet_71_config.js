@@ -1,1 +1,1 @@
-var mnemonic = "setup glance someone vapor buddy weather ladder attend outside area state autumn";
+var mnemonic = "there please town junk melody one profit around whip oxygen among accident";

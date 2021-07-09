@@ -1,1 +1,1 @@
-var mnemonic = "ranch sick adjust wrist humor review this display rookie coyote pattern extra";
+var mnemonic = "river pool power news foot retire woman cupboard foil current cabin excess";

@@ -1,1 +1,1 @@
-var mnemonic = "repair license grass rebuild notable knee rigid together icon quit tiger oblige";
+var mnemonic = "critic thing awesome crouch history afford gasp tube apart tray cactus empty";

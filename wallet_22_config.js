@@ -1,1 +1,1 @@
-var mnemonic = "profit plunge convince nature cotton supreme bulb title note resource spray vicious";
+var mnemonic = "fringe fitness exist become metal bicycle confirm curious ignore text leaf lawn";

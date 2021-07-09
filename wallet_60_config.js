@@ -1,1 +1,1 @@
-var mnemonic = "theory choice rotate blur borrow dinner symbol unique focus entire cost borrow";
+var mnemonic = "runway warm coach foot fuel kingdom collect reduce advance lift canal electric";

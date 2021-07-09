@@ -1,1 +1,1 @@
-var mnemonic = "infant benefit barely swear plunge route civil gaze shaft vault age impose";
+var mnemonic = "labor street ginger trip require spray bag arctic upon employ kitchen they";

@@ -1,1 +1,1 @@
-var mnemonic = "cute army dignity walk digital sound kid always mind demise energy wall";
+var mnemonic = "riot call palm motion december more pig spatial deny throw ignore credit";

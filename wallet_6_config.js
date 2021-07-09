@@ -1,1 +1,1 @@
-var mnemonic = "current robot draw goddess before found couch van gun lonely struggle sibling";
+var mnemonic = "intact west alter sport blanket globe cage twelve what muffin load top";

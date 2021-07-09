@@ -1,1 +1,1 @@
-var mnemonic = "crisp wing coyote code vague key wage loyal across victory hurry garden";
+var mnemonic = "reopen unveil debate warm cook where rib eagle ridge grace tattoo purity";

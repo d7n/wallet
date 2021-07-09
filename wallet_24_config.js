@@ -1,1 +1,1 @@
-var mnemonic = "dentist electric music valid knife jelly reflect away obtain view comic green";
+var mnemonic = "dune jungle solid dream pelican fever truly abstract swallow like rural ghost";

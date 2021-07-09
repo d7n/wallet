@@ -1,1 +1,1 @@
-var mnemonic = "report name soda bamboo inflict question bacon victory expose dish pattern hover";
+var mnemonic = "vapor goddess dynamic strategy habit midnight camp witness feature account wool gesture";

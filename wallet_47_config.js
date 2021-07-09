@@ -1,1 +1,1 @@
-var mnemonic = "admit fame that sibling priority tube grit else omit actress spread assume";
+var mnemonic = "emotion satisfy fat burden inherit garden control shy average antenna sponsor dinner";

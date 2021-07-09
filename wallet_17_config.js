@@ -1,1 +1,1 @@
-var mnemonic = "pretty yard region actor street rocket oil guess purity place decline devote";
+var mnemonic = "suggest eternal odor eager advice lock tragic staff swing say demand reject";

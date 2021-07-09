@@ -1,1 +1,1 @@
-var mnemonic = "puzzle eyebrow copper alien bulk club wait tennis jealous twenty remember shoulder";
+var mnemonic = "blouse use poverty you thank lion run clip glance fork room oak";

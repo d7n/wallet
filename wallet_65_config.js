@@ -1,1 +1,1 @@
-var mnemonic = "essay journey turn goose that clerk advice narrow pear brick hurdle salute";
+var mnemonic = "zone source travel field now witness apology stone use village poem easily";

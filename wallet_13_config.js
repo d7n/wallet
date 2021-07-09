@@ -1,1 +1,1 @@
-var mnemonic = "arrange sleep control smile flag again romance harbor tonight degree grace country";
+var mnemonic = "system click slice elevator law valve tattoo pact sure apple behave shoulder";

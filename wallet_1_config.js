@@ -1,1 +1,1 @@
-var mnemonic = "stairs oil fitness chronic metal apple reflect rose trial stock canvas strong";
+var mnemonic = "bulk tomorrow grocery shift sad silver december coin student miracle verify ketchup";

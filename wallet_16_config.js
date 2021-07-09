@@ -1,1 +1,1 @@
-var mnemonic = "cotton price metal peanut company inherit prepare desk green ill rescue target";
+var mnemonic = "truly box horse excuse inspire industry equal spend purpose tiger neglect swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "typical suit pioneer analyst celery leopard vibrant mammal expose gym egg road";
+var mnemonic = "track worry guard mango quit cigar true cloud stand critic satoshi coach";

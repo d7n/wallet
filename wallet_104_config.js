@@ -1,1 +1,1 @@
-var mnemonic = "capable holiday again post buzz roast opinion special proof lawn ability trash";
+var mnemonic = "leader chapter sad earn hamster endorse race scout change approve pony false";

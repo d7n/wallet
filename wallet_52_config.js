@@ -1,1 +1,1 @@
-var mnemonic = "battle dilemma west tongue tackle cousin high often mixture repair magic sure";
+var mnemonic = "record slot veteran material casino ankle melody method little scare debate canvas";

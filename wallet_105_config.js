@@ -1,1 +1,1 @@
-var mnemonic = "nut turn broken alcohol crush six dawn raven desk debate evolve enjoy";
+var mnemonic = "cousin believe nation setup sting penalty scatter key oyster adapt warfare evoke";

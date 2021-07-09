@@ -1,1 +1,1 @@
-var mnemonic = "mom safe twice dance behave dose weapon bean brief route drum useful";
+var mnemonic = "control prize sorry spice great finger group zoo fiscal bronze toe analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "devote tongue economy mule tennis day reject motion dream salmon tumble divert";
+var mnemonic = "test bone better elder biology derive pilot earth sudden lift suit bean";

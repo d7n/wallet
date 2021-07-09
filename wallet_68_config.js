@@ -1,1 +1,1 @@
-var mnemonic = "suggest mandate hedgehog pear hurt damage crowd physical brisk manual spare spike";
+var mnemonic = "chunk damage critic angle news derive action like bless you document income";

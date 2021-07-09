@@ -1,1 +1,1 @@
-var mnemonic = "light visit thing wrap much invite crush three pear wasp twin biology";
+var mnemonic = "tortoise empower metal rent concert scene review mad fit pelican basket tray";

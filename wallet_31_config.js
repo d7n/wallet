@@ -1,1 +1,1 @@
-var mnemonic = "regret razor such lion step alien melt canal access viable field short";
+var mnemonic = "panic pair earn move multiply surface trade entire smooth detect piece way";

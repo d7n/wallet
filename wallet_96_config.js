@@ -1,1 +1,1 @@
-var mnemonic = "oven youth gravity industry mask habit bullet beef blame hammer muffin fiscal";
+var mnemonic = "pitch cement tattoo hood crane sniff lonely actor what glow above trial";

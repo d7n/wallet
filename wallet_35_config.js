@@ -1,1 +1,1 @@
-var mnemonic = "radar repeat because tiger asset similar history retreat melt message bacon danger";
+var mnemonic = "panda demise pole grunt dwarf say scare brown cram tip expect innocent";

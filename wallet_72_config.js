@@ -1,1 +1,1 @@
-var mnemonic = "ladder stone ticket taxi carbon duty local issue spawn embrace load list";
+var mnemonic = "what ugly impulse naive immense unlock twelve bubble era heart chat normal";

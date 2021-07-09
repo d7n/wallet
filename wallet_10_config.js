@@ -1,1 +1,1 @@
-var mnemonic = "deny glance feature two spend confirm lady cereal buzz phone autumn kitten";
+var mnemonic = "consider acquire rapid juice behind coconut lion brand install melt bracket novel";

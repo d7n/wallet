@@ -1,1 +1,1 @@
-var mnemonic = "bonus museum enforce order number glow explain camp rent recycle world detail";
+var mnemonic = "evidence ribbon stick valley system rapid fine staff beauty country castle act";

@@ -1,1 +1,1 @@
-var mnemonic = "throw pistol canal include nurse vital wrist relief hammer stage zebra silly";
+var mnemonic = "bar guitar bless wet theme happy choice enact panda tape mean phrase";

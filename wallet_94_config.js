@@ -1,1 +1,1 @@
-var mnemonic = "dance obtain convince december enrich orchard robust mechanic expire truck biology honey";
+var mnemonic = "grant hero type police blame twenty green oppose trumpet shield bike wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney scrub absent tip detect often teach salute dose salt people glance";
+var mnemonic = "receive rose just intact valve case dash remove solve cricket fire age";

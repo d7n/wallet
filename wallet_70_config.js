@@ -1,1 +1,1 @@
-var mnemonic = "release illness explain flight live ceiling mandate couch foil patrol cave cargo";
+var mnemonic = "damp music science indicate lawsuit clean uniform leopard hip regular push vacuum";

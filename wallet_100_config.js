@@ -1,1 +1,1 @@
-var mnemonic = "wing august nerve dinosaur force bamboo cat quiz turn lizard thunder fringe";
+var mnemonic = "pear extend sick tortoise toss polar maximum garment moral submit credit hungry";

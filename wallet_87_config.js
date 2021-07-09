@@ -1,1 +1,1 @@
-var mnemonic = "tribe mercy always this spot chase salad endless moon crisp crime shiver";
+var mnemonic = "fossil book mystery trouble witness chunk swap supreme unknown pilot island exhibit";

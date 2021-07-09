@@ -1,1 +1,1 @@
-var mnemonic = "sing sponsor cargo victory faculty oppose female book blind join avoid topic";
+var mnemonic = "reflect annual bus despair caught sound scale bullet south decline ribbon destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver punch twin play spread release market valid power butter total enrich";
+var mnemonic = "either truck fringe twelve demand start inhale stool silk exact rough vicious";

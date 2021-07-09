@@ -1,1 +1,1 @@
-var mnemonic = "hammer empty crowd arctic together very fox slab soda woman mixture radio";
+var mnemonic = "evidence family list dose embark tattoo salute lounge cup fit million reject";

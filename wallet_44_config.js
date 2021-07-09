@@ -1,1 +1,1 @@
-var mnemonic = "master reward rich fox labor tragic giant damage matter enhance fresh travel";
+var mnemonic = "coral model fashion small lazy sick spare month amazing ask ride equip";

@@ -1,1 +1,1 @@
-var mnemonic = "team mention toe attack thrive wolf extra animal loud satisfy enter domain";
+var mnemonic = "swim brass circle shine solid favorite sign acquire sort park ritual airport";

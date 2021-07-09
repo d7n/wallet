@@ -1,1 +1,1 @@
-var mnemonic = "witness daughter busy winter secret orbit snake thank milk option rate cream";
+var mnemonic = "ranch disease supreme theme maid beyond market clap laugh casino coffee pioneer";

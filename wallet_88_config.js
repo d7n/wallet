@@ -1,1 +1,1 @@
-var mnemonic = "start anchor pass lizard axis vicious much about purpose chronic video detail";
+var mnemonic = "nice lunar mechanic vivid naive nothing travel slice rapid replace father over";

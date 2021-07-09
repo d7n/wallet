@@ -1,1 +1,1 @@
-var mnemonic = "torch pig total illness keep drum sing demand damp hungry orphan inch";
+var mnemonic = "gorilla resource south artist flip blue coral prosper pink tuna cash drop";

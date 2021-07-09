@@ -1,1 +1,1 @@
-var mnemonic = "loan beef little maid little ancient taste stand bounce glow draft forum";
+var mnemonic = "task neither trap act tomato usage mango body gallery sail nest unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "session tired speak force slim leader whip tank bacon mother blood melody";
+var mnemonic = "lesson security blush apple jewel frequent dog device crisp craft boost piece";

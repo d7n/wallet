@@ -1,1 +1,1 @@
-var mnemonic = "punch total private once file supreme olive funny able more current clip";
+var mnemonic = "area cycle you payment city funny family sock level inch come winner";

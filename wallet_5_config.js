@@ -1,1 +1,1 @@
-var mnemonic = "hybrid arch garlic muffin moment mixed cost regret salt neither elbow alarm";
+var mnemonic = "crime fine coral hurt parade machine draw march group furnace fresh couple";

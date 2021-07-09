@@ -1,1 +1,1 @@
-var mnemonic = "wrap common broken myself remove gap attract nuclear betray close deputy dance";
+var mnemonic = "moon program cage imitate radio wild tragic portion sustain rail oval atom";

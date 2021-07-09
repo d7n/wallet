@@ -1,1 +1,1 @@
-var mnemonic = "combine burger giant brief evolve enable submit crisp afraid sight screen devote";
+var mnemonic = "brick gasp exhaust bid galaxy siren plunge smile fiber stem chronic dwarf";

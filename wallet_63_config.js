@@ -1,1 +1,1 @@
-var mnemonic = "stuff stool host country suit home armor clay garage fantasy bulk device";
+var mnemonic = "anchor vote home happy error injury warrior merry jewel tenant abandon apple";

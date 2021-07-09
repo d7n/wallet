@@ -1,1 +1,1 @@
-var mnemonic = "accident balance manual fiction sleep twist object member day claim jealous flash";
+var mnemonic = "switch father next hurt ceiling device false arm enact chef riot angry";

@@ -1,1 +1,1 @@
-var mnemonic = "ring direct hurdle deliver immune leg science gather bargain actor yard giggle";
+var mnemonic = "exchange focus fiber cruel depart recycle midnight alien century dinosaur have stamp";

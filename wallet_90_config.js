@@ -1,1 +1,1 @@
-var mnemonic = "school crumble situate fade cigar define online father jacket exchange mushroom snow";
+var mnemonic = "polar ritual fee twelve miracle pudding earn pass mind rely actor party";

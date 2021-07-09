@@ -1,1 +1,1 @@
-var mnemonic = "illegal alert trust another gloom trap fiber rookie south symbol kiwi output";
+var mnemonic = "sick mind car agent current enlist joy penalty debris raise change reflect";

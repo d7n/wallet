@@ -1,1 +1,1 @@
-var mnemonic = "sample much erase plate welcome mimic stone slogan hobby law gallery multiply";
+var mnemonic = "wolf inflict swim fashion cheese mouse card panel during license involve general";

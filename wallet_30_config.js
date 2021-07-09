@@ -1,1 +1,1 @@
-var mnemonic = "minute draw maple shoe nose deposit field toss price key jar crash";
+var mnemonic = "inquiry turn prevent mimic erosion melody wait defy lend force soda scrub";

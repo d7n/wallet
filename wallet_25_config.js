@@ -1,1 +1,1 @@
-var mnemonic = "mom divide when curious strong age stairs honey slogan dignity welcome idea";
+var mnemonic = "sight aisle wasp crumble stone rally marriage guilt exhibit another indoor height";

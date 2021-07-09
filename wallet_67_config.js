@@ -1,1 +1,1 @@
-var mnemonic = "still rain buddy wild must close decade brother viable chronic cushion pair";
+var mnemonic = "pride act rack shift awkward night scheme seed path benefit inflict denial";

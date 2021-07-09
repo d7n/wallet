@@ -1,1 +1,1 @@
-var mnemonic = "reward acid tennis first hammer ready arrest emerge volcano lizard cave long";
+var mnemonic = "win angle cotton moral mixture wrist crisp capable hard slab century transfer";

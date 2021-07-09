@@ -1,1 +1,1 @@
-var mnemonic = "sock wisdom toy cram armor cycle venue allow utility talent humble prepare";
+var mnemonic = "route blur person boat bean major clarify sustain maze tray better trial";

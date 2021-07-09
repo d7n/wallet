@@ -1,1 +1,1 @@
-var mnemonic = "case inject minimum add soldier matrix stove horn mention vacuum hurt verify";
+var mnemonic = "civil zero enter globe swarm deputy enemy portion beyond grocery merit jar";

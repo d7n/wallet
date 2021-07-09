@@ -1,1 +1,1 @@
-var mnemonic = "tree pony abstract wait honey pencil language diesel boil found warrior chuckle";
+var mnemonic = "film spatial coconut custom truly stereo toddler verify pluck salmon divorce slab";
