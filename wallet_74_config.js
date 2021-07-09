@@ -1,1 +1,1 @@
-var mnemonic = "truly action sample stock gym egg taxi amateur ski urban stamp version";
+var mnemonic = "eternal pledge never catch useless hedgehog hockey reward essay menu rug asset";

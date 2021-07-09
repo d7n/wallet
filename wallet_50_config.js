@@ -1,1 +1,1 @@
-var mnemonic = "dice slim layer horn bottom naive reunion deal tide lumber blush whisper";
+var mnemonic = "wisdom help knee photo ignore royal believe cruise exhaust pioneer tragic conduct";

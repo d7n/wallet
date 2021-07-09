@@ -1,1 +1,1 @@
-var mnemonic = "width must airport coast elephant film immune kiss blind sure ill else";
+var mnemonic = "reward talk evolve power wait ceiling wolf hover peace exotic novel wood";

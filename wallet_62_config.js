@@ -1,1 +1,1 @@
-var mnemonic = "song polar enable giggle vicious online summer first crouch funny rough tuition";
+var mnemonic = "waste cabbage bonus buyer diamond mystery wet screen ticket current priority crunch";

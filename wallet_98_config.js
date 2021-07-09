@@ -1,1 +1,1 @@
-var mnemonic = "ethics intact slush oblige neck cupboard taste flame love hero token sibling";
+var mnemonic = "arrest crisp cycle potato bike finger pelican random history fish volcano island";

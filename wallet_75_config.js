@@ -1,1 +1,1 @@
-var mnemonic = "shine enrich onion member sauce grain glow enroll essence song release return";
+var mnemonic = "large student churn train dune donkey wage hair hold company cattle tiny";

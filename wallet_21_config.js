@@ -1,1 +1,1 @@
-var mnemonic = "album city knife true iron board unlock note make subway transfer dwarf";
+var mnemonic = "accuse yellow venture cruise alone actress shove armor inquiry wedding buyer vacuum";

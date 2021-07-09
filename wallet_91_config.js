@@ -1,1 +1,1 @@
-var mnemonic = "save trouble mixture flight vague random spin exotic measure rescue wire loud";
+var mnemonic = "police awesome round expect job retire barrel armor stick crucial result mule";

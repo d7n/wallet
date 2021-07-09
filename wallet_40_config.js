@@ -1,1 +1,1 @@
-var mnemonic = "mercy afford pretty entire concert actress advice empty end reward purpose wisdom";
+var mnemonic = "barrel body notice become lazy destroy weapon brief pond palace inform snake";

@@ -1,1 +1,1 @@
-var mnemonic = "gain limb remind chef chat rebuild enact warrior change carpet fat north";
+var mnemonic = "number dentist drop hire anxiety glue dawn reward cliff decline gravity problem";

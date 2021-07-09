@@ -1,1 +1,1 @@
-var mnemonic = "into twist merge enhance improve dirt despair obtain enhance slight annual shock";
+var mnemonic = "twenty calm rigid galaxy flash rebuild toy remind belt hamster afraid next";

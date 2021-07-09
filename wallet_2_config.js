@@ -1,1 +1,1 @@
-var mnemonic = "expect around trip clock essay spot peanut sun until job again list";
+var mnemonic = "hire absorb abandon acoustic dice hobby control neck shallow donkey stereo bean";

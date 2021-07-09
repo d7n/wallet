@@ -1,1 +1,1 @@
-var mnemonic = "top depart artist miss disease paddle original setup early art february oppose";
+var mnemonic = "valley brick color august weasel special hundred rival science thrive size trip";

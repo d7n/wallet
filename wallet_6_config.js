@@ -1,1 +1,1 @@
-var mnemonic = "betray book valve twenty wrap version ten debate chair furnace matter foster";
+var mnemonic = "mirror solid join satoshi tuna area hotel jealous century birth inside enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "absent heart target runway pigeon scan among hint useless enemy sun smart";
+var mnemonic = "galaxy top ball certain label reunion response glass filter execute step under";

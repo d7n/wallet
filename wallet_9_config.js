@@ -1,1 +1,1 @@
-var mnemonic = "man antenna dish ketchup icon scene wall fox empty rice neither six";
+var mnemonic = "toe chase axis bitter proof adult find kit fire spread risk uncover";

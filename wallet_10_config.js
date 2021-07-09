@@ -1,1 +1,1 @@
-var mnemonic = "scene pear welcome usual vault review lunar blind head december season canvas";
+var mnemonic = "rich such obscure fiscal image cinnamon price common bullet olympic aisle spring";

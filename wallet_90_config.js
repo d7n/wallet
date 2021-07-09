@@ -1,1 +1,1 @@
-var mnemonic = "render arena weasel course pass atom grant miracle execute catalog crystal approve";
+var mnemonic = "evolve april multiply soul bamboo ten trash critic imitate endless evolve slow";

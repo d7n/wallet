@@ -1,1 +1,1 @@
-var mnemonic = "urban essence before direct special true today decide kidney hurt sight actress";
+var mnemonic = "pass require open dish advice fork square breeze host peanut more finish";

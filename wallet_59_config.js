@@ -1,1 +1,1 @@
-var mnemonic = "law fence domain garage runway ridge soap mouse maple crack clown genius";
+var mnemonic = "merit occur cute dismiss endless vote tent audit wing drive connect mass";

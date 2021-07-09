@@ -1,1 +1,1 @@
-var mnemonic = "butter artefact awkward label flash soul figure weird suggest small family claim";
+var mnemonic = "detail talk bike company allow inform sphere satisfy sell funny target large";

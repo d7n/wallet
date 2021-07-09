@@ -1,1 +1,1 @@
-var mnemonic = "beef dash sniff mother crumble piece evidence viable garlic august scrap post";
+var mnemonic = "inflict alcohol eight match few artefact loop butter cereal panda antenna boss";

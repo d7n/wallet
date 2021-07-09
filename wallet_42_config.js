@@ -1,1 +1,1 @@
-var mnemonic = "sell fiber kit dolphin few allow target man bamboo goat elite name";
+var mnemonic = "auction gasp medal habit solution veteran inflict success visit donate link gentle";

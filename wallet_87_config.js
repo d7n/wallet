@@ -1,1 +1,1 @@
-var mnemonic = "trade pass domain harvest slice run double canoe just garage shield neutral";
+var mnemonic = "hedgehog then insane tumble heart page banana strong move clerk truly mountain";

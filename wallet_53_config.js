@@ -1,1 +1,1 @@
-var mnemonic = "unusual long clinic network cat addict satoshi bicycle original aunt deer polar";
+var mnemonic = "debris ten very double mother sure top raccoon expect cargo grass basket";

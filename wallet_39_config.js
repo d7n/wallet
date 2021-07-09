@@ -1,1 +1,1 @@
-var mnemonic = "athlete sunny fire pulse ketchup rebuild input vault whale hobby patrol canal";
+var mnemonic = "reveal prevent fog ball camp hole oil vintage barrel valley love grunt";

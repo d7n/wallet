@@ -1,1 +1,1 @@
-var mnemonic = "avocado sword will orchard surface guilt two unhappy various prize rabbit wrong";
+var mnemonic = "birth spin raw limit powder script lizard shrug oppose occur better erase";

@@ -1,1 +1,1 @@
-var mnemonic = "super dizzy same trouble music fix maid cruel claim indoor test knife";
+var mnemonic = "motor produce broom great trend buddy sound taste dilemma renew orchard control";

@@ -1,1 +1,1 @@
-var mnemonic = "theory enrich industry future fortune speed quarter uncover cabin dolphin private absurd";
+var mnemonic = "allow alarm slush cousin galaxy alpha treat guess three other movie belt";

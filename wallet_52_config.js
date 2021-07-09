@@ -1,1 +1,1 @@
-var mnemonic = "garbage like panic way radar survey rice million appear time rotate actor";
+var mnemonic = "minimum mass dawn tooth voice sunset foot opinion purchase knee sword hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum talent nature clean green choose soap please bike corn inform eagle";
+var mnemonic = "green mosquito lend alcohol advance wrap please fat lawsuit intact science famous";

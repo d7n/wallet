@@ -1,1 +1,1 @@
-var mnemonic = "best torch forget pave shine blast coyote evil dolphin attend hundred better";
+var mnemonic = "head blur bless fortune ozone wire deposit echo flag monkey open present";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe benefit invest noodle strategy confirm blur side voice sunset cube wink";
+var mnemonic = "drill shy afford dignity monkey cactus alert afford intact cliff mixture skull";

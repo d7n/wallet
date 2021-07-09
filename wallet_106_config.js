@@ -1,1 +1,1 @@
-var mnemonic = "property sea season cloth case improve jealous bench admit cloth ankle trophy";
+var mnemonic = "cause despair settle marine wedding begin whisper fun couple candy casual length";

@@ -1,1 +1,1 @@
-var mnemonic = "feature plastic economy west spare champion coil slogan dust belt cloud jealous";
+var mnemonic = "live network pizza govern waste scheme motion similar monkey proof loan act";

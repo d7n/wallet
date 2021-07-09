@@ -1,1 +1,1 @@
-var mnemonic = "sustain citizen slim hood choice outer simple chalk insect alley unable swim";
+var mnemonic = "sing muscle tool furnace raise first crunch alley ready birth bid weird";

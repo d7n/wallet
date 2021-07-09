@@ -1,1 +1,1 @@
-var mnemonic = "run tuna emerge dynamic betray sunny corn solid total pretty smooth erase";
+var mnemonic = "where muscle wasp all arm patrol concert main dilemma hope apology link";

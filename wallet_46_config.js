@@ -1,1 +1,1 @@
-var mnemonic = "valve motor aim remain mouse train burger cage almost crisp salt kidney";
+var mnemonic = "skate kitchen daring elder million credit cloth pool sister lock unhappy chaos";

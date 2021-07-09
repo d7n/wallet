@@ -1,1 +1,1 @@
-var mnemonic = "wage gain scene equal warfare initial raven tray gadget sand timber squirrel";
+var mnemonic = "across office analyst switch hard chaos wire stamp position dynamic bomb credit";

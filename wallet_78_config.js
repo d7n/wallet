@@ -1,1 +1,1 @@
-var mnemonic = "mushroom soul outdoor churn orange leaf near letter innocent marine inject rookie";
+var mnemonic = "body blast lumber lawn airport uncle adjust matter radar defense typical apology";

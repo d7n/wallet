@@ -1,1 +1,1 @@
-var mnemonic = "point comfort pumpkin analyst cliff unusual genuine vacuum jeans host edge law";
+var mnemonic = "pelican visit coach edge hospital capable rapid suffer chair hat fiscal jump";

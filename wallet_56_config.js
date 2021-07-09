@@ -1,1 +1,1 @@
-var mnemonic = "twenty clerk torch silver hat corn educate pepper glimpse exercise load fantasy";
+var mnemonic = "together announce dumb salt meat hidden assist vacant blanket slight gown suspect";

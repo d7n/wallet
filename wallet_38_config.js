@@ -1,1 +1,1 @@
-var mnemonic = "medal test entire turkey argue stairs guard pride clown sign gold flame";
+var mnemonic = "twist flat spice indoor elite spy pledge can typical lumber blanket school";

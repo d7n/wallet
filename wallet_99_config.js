@@ -1,1 +1,1 @@
-var mnemonic = "hockey assault frown armed pass boil face aisle outdoor obvious crash hawk";
+var mnemonic = "alien scissors fade again civil inject valley drip tattoo ensure match gasp";

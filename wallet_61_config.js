@@ -1,1 +1,1 @@
-var mnemonic = "clap fox almost diary talent shine brand couple issue among sleep ship";
+var mnemonic = "siege grab behave motor view decorate resource fancy invest renew taxi blame";

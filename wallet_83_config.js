@@ -1,1 +1,1 @@
-var mnemonic = "know voice mutual brick runway citizen entry pilot inmate boring page thought";
+var mnemonic = "orchard undo beauty cash chapter mother supply output arrest crack feel essence";

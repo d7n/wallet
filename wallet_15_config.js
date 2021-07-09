@@ -1,1 +1,1 @@
-var mnemonic = "west cement buffalo morning elevator oval umbrella area left wheat word feel";
+var mnemonic = "ribbon bind guilt chuckle together evil around inside ketchup steak destroy truth";

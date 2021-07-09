@@ -1,1 +1,1 @@
-var mnemonic = "fatigue dirt own train urge traffic season trip aisle first peanut document";
+var mnemonic = "festival express taxi forum tragic kit employ weasel elephant estate direct strong";

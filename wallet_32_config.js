@@ -1,1 +1,1 @@
-var mnemonic = "make attitude hundred divert sign scare casino broom caution olympic session lazy";
+var mnemonic = "cross unlock glad pigeon purse vessel robot enroll prosper zero copy health";

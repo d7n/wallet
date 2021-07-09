@@ -1,1 +1,1 @@
-var mnemonic = "stick shop surprise employ since sound sponsor double chapter thank brother hair";
+var mnemonic = "asthma nurse device fatigue mansion equal size faint sausage husband unhappy bundle";

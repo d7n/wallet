@@ -1,1 +1,1 @@
-var mnemonic = "canoe magnet loud inner vessel exhibit minor during weapon illegal fat nut";
+var mnemonic = "vicious adjust garlic cigar harsh shrug reunion fetch wreck laugh maid slab";

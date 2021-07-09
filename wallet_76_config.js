@@ -1,1 +1,1 @@
-var mnemonic = "appear pool spare void couple west fork boil old fence bless mechanic";
+var mnemonic = "proud dream popular skirt normal begin suffer foil holiday pistol proof you";

@@ -1,1 +1,1 @@
-var mnemonic = "until dinosaur panther total sniff village pioneer various leopard expand brass crash";
+var mnemonic = "ketchup barely observe battle cube dizzy bounce glass combine wolf calm vanish";

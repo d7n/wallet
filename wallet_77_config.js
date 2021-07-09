@@ -1,1 +1,1 @@
-var mnemonic = "trouble devote tip forget actress resist budget slim genius tree glass spend";
+var mnemonic = "cradle isolate plate essay joy benefit armor insane mirror arena casual submit";

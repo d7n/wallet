@@ -1,1 +1,1 @@
-var mnemonic = "obtain copy shock disease dawn oppose glass fantasy open hood purchase fossil";
+var mnemonic = "comic license lounge swear update swear fall asset elevator cream foam cup";

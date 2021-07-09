@@ -1,1 +1,1 @@
-var mnemonic = "parade silk evil scheme index click trophy hill school about three couch";
+var mnemonic = "gorilla legend antique wisdom visual smoke slight wink warm absorb steak bicycle";

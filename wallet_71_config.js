@@ -1,1 +1,1 @@
-var mnemonic = "frequent tomato budget gloom sea glove expand rack decline teach faculty unhappy";
+var mnemonic = "humor hen elder enroll impulse attack bike orange fence ensure brush social";

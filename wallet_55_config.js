@@ -1,1 +1,1 @@
-var mnemonic = "empty expose ordinary claim notice parrot blur carbon afford term vapor hub";
+var mnemonic = "anxiety master pen stereo census ocean street reduce audit month faint typical";

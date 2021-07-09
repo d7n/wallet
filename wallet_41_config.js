@@ -1,1 +1,1 @@
-var mnemonic = "tennis absorb cereal timber ankle finger tonight major prize style arctic there";
+var mnemonic = "tunnel refuse liar search resource cigar whisper range item marble actual amazing";

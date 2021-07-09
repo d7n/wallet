@@ -1,1 +1,1 @@
-var mnemonic = "leg old sketch lesson rebel escape scissors gadget response meat goddess famous";
+var mnemonic = "aisle another shoot menu adapt second blouse awake solid tuna supply near";

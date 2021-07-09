@@ -1,1 +1,1 @@
-var mnemonic = "jaguar pudding foil system magic assume dynamic rich pulse grape return grass";
+var mnemonic = "boy plunge shoulder jaguar convince square arena cage solid amount limb decide";

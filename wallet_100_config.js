@@ -1,1 +1,1 @@
-var mnemonic = "whip bunker chicken reason begin seek rib attitude toward capable exit squirrel";
+var mnemonic = "lizard square snap exercise umbrella negative bring rigid select check endorse ring";

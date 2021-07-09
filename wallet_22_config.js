@@ -1,1 +1,1 @@
-var mnemonic = "long inflict letter hawk letter club duty catalog sketch author grit toy";
+var mnemonic = "slight north coffee soccer gospel clump awful clown crucial dizzy heart town";

@@ -1,1 +1,1 @@
-var mnemonic = "noble you thunder unable lava energy torch bomb repeat rate beach above";
+var mnemonic = "virtual sock wrong labor math cloud body lens plunge monkey artefact real";

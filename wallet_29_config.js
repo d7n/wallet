@@ -1,1 +1,1 @@
-var mnemonic = "entry all earn brave connect loop opinion enough road hungry topic order";
+var mnemonic = "sausage toddler hard equip canvas extend enroll ill blanket veteran leaf federal";

@@ -1,1 +1,1 @@
-var mnemonic = "debate hint magnet render gift afford actress skull twice miss song wire";
+var mnemonic = "sponsor cabbage team pyramid target immune raw market point enjoy artwork hunt";

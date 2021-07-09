@@ -1,1 +1,1 @@
-var mnemonic = "express used wealth embark chef mimic lonely cluster valley artefact moral museum";
+var mnemonic = "liquid slender kick pigeon wheel asset among meat merit rough fine runway";

@@ -1,1 +1,1 @@
-var mnemonic = "medal shy energy unlock rally allow execute affair rug candy water girl";
+var mnemonic = "decide alcohol rebel able come girl goose jump erosion card history camp";

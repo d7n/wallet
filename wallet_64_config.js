@@ -1,1 +1,1 @@
-var mnemonic = "equip flock journey lava subway wedding vibrant today wedding music message veteran";
+var mnemonic = "nasty ghost document place network defense penalty divert lunar noise property coil";

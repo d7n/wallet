@@ -1,1 +1,1 @@
-var mnemonic = "basic wing obscure million pulse genius foam allow beef turtle aspect lady";
+var mnemonic = "carpet kingdom start similar foil gloom hockey vocal ginger timber session desert";

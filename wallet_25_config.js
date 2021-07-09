@@ -1,1 +1,1 @@
-var mnemonic = "trophy music salon alarm shove session impulse glide science nothing all snack";
+var mnemonic = "feel sunset guitar lesson mule coin home course bench shuffle rifle crash";

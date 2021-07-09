@@ -1,1 +1,1 @@
-var mnemonic = "embark pear goose toilet stick still hollow shield sister immune since carbon";
+var mnemonic = "employ excite work position aerobic essence december silk jewel keen radio noodle";

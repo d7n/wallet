@@ -1,1 +1,1 @@
-var mnemonic = "unhappy subject pudding mad shallow act spot crumble humble author know poem";
+var mnemonic = "shaft leopard differ unaware typical convince piece boring balance rigid hidden shell";

@@ -1,1 +1,1 @@
-var mnemonic = "busy salon face cube ribbon jungle absent bargain minimum boil oyster gravity";
+var mnemonic = "reward coach scale under merit holiday grid afraid blanket leisure guard fresh";

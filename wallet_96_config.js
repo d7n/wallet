@@ -1,1 +1,1 @@
-var mnemonic = "disease swim message educate find dust yellow ribbon liar street nominee feature";
+var mnemonic = "space profit fabric giraffe okay logic vapor butter few click busy absorb";

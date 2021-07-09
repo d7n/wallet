@@ -1,1 +1,1 @@
-var mnemonic = "obey fix rare paper enlist pipe final various alter chicken unfair tray";
+var mnemonic = "range elbow decline screen call dial come scatter curtain minor canyon argue";

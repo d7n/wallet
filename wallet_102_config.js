@@ -1,1 +1,1 @@
-var mnemonic = "pistol ozone grunt winner repeat couch hazard salmon high series vanish insane";
+var mnemonic = "gauge enough library wait sport hour accuse banana forest ignore urge evidence";

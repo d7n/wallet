@@ -1,1 +1,1 @@
-var mnemonic = "problem neutral welcome excuse lumber couple icon dilemma school tortoise month cancel";
+var mnemonic = "cement faint salt body trial police cabin merry basic chapter finish erosion";

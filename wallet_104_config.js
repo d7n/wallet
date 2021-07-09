@@ -1,1 +1,1 @@
-var mnemonic = "approve fragile casino hint bargain outside cool ice rough enroll naive fruit";
+var mnemonic = "kitten finish capable virus gossip pluck milk egg siege very donkey thought";

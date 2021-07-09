@@ -1,1 +1,1 @@
-var mnemonic = "expand control traffic scheme captain face food damage elder resemble usual nerve";
+var mnemonic = "trouble someone rifle day regret normal shallow throw affair story ostrich rug";

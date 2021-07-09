@@ -1,1 +1,1 @@
-var mnemonic = "assault year web guilt choice scissors spoon ripple profit achieve ensure coffee";
+var mnemonic = "online gloom young mystery family witness swarm uncover orchard broccoli dolphin become";

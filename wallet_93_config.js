@@ -1,1 +1,1 @@
-var mnemonic = "shrimp only mirror skull antenna grid parent thing art announce market era";
+var mnemonic = "gloom garbage leave truth party crunch autumn promote drastic board kitten surface";

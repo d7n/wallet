@@ -1,1 +1,1 @@
-var mnemonic = "rude want traffic mail junior priority purpose flock vibrant wash legend helmet";
+var mnemonic = "rapid assault noodle pretty soda scan head bounce alien bullet hammer park";
