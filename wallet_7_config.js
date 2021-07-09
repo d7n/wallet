@@ -1,1 +1,1 @@
-var mnemonic = "chapter develop dust squirrel helmet economy liberty history crush lawn enable require";
+var mnemonic = "armed umbrella elder height nerve hazard lumber oven arrive what pear cancel";

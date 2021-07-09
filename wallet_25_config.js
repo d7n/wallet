@@ -1,1 +1,1 @@
-var mnemonic = "point spice crowd method deal erupt capital quit travel ivory vivid buddy";
+var mnemonic = "midnight panda exotic tank casual puzzle pepper vacant north history radio hat";

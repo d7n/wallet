@@ -1,1 +1,1 @@
-var mnemonic = "motion minimum short gift kangaroo buyer write patch mystery stick disagree walnut";
+var mnemonic = "legal heart april snack harsh flavor mechanic merry around smoke antenna cricket";

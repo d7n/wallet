@@ -1,1 +1,1 @@
-var mnemonic = "balance shadow engage correct kite junk enforce together recipe gospel that hire";
+var mnemonic = "magnet confirm leisure system rural mouse defense yard nation clump nurse art";

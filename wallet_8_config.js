@@ -1,1 +1,1 @@
-var mnemonic = "civil sponsor art poet hurdle vanish ask female mushroom text jealous suspect";
+var mnemonic = "useless divorce eye crumble elevator public spy kind screen maple above join";

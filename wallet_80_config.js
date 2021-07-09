@@ -1,1 +1,1 @@
-var mnemonic = "couch annual enforce mail brief eyebrow neutral kidney maple mixed accident more";
+var mnemonic = "bike begin dwarf churn response major comic sun pistol taxi menu void";

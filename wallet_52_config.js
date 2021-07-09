@@ -1,1 +1,1 @@
-var mnemonic = "company glass hazard sniff yard upper exercise woman kangaroo crunch obtain session";
+var mnemonic = "nature husband yellow nothing figure cousin meat festival install fantasy siren brand";

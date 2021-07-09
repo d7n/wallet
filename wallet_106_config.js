@@ -1,1 +1,1 @@
-var mnemonic = "error stock attack dinner author misery across elegant just phone way forward";
+var mnemonic = "normal tool captain practice phone junior unaware strategy quarter bleak absent bubble";

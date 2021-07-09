@@ -1,1 +1,1 @@
-var mnemonic = "enjoy divert border carry team idle meat gossip choose invest mandate left";
+var mnemonic = "crawl impose army ridge bird crane prepare cloth quality account range start";

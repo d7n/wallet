@@ -1,1 +1,1 @@
-var mnemonic = "interest damage weekend taxi voyage tape umbrella attitude gun idle dolphin today";
+var mnemonic = "fabric flag cause win opera avocado bottom public demand dilemma file dinosaur";

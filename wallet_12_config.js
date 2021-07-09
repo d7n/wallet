@@ -1,1 +1,1 @@
-var mnemonic = "view town pony chimney model media decline same wasp salt casino unveil";
+var mnemonic = "often accuse cost grit piano network divorce round future maple sun siren";

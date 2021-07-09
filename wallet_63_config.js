@@ -1,1 +1,1 @@
-var mnemonic = "donate eagle spend valley recycle share life industry cruel more dance approve";
+var mnemonic = "swear lecture delay dove direct industry iron tank amazing enable urge common";

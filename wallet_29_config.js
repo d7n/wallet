@@ -1,1 +1,1 @@
-var mnemonic = "tank glance crystal long van subway torch sentence range budget tiger train";
+var mnemonic = "pig upper stay clay pioneer maze situate grunt omit hungry spoil tuition";

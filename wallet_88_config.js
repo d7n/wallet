@@ -1,1 +1,1 @@
-var mnemonic = "year eight fee vibrant castle giggle match width dress salt shed rookie";
+var mnemonic = "fossil purse pudding empower sausage wait about laugh fade chuckle install carbon";

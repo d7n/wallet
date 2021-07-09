@@ -1,1 +1,1 @@
-var mnemonic = "awful dizzy pause else sunny hammer disease resist real master drink bird";
+var mnemonic = "select client crop rice foil liar exotic onion nature dumb wheat bring";

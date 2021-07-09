@@ -1,1 +1,1 @@
-var mnemonic = "enough trouble jewel person road mirror expect pizza pipe clutch knife index";
+var mnemonic = "pond potato skate sheriff talent fix bubble quote cherry picture science vanish";

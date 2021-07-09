@@ -1,1 +1,1 @@
-var mnemonic = "december apart alone fluid budget uncle code play level gorilla ankle emotion";
+var mnemonic = "nasty boost cost topic tunnel mango surge spoil ranch buzz heavy coyote";

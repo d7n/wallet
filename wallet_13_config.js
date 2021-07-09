@@ -1,1 +1,1 @@
-var mnemonic = "ask journey broom layer help goddess boat rhythm sleep patient present erosion";
+var mnemonic = "dragon deposit joy meadow siren fork syrup flock supreme bounce submit worth";

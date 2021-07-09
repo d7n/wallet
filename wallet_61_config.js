@@ -1,1 +1,1 @@
-var mnemonic = "super evidence hole seven weapon super inherit cricket knife pioneer rebel lounge";
+var mnemonic = "crystal bitter lady diet slab clown kitchen solar outer provide emerge eye";

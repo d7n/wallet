@@ -1,1 +1,1 @@
-var mnemonic = "detect strong plate valve napkin weekend prepare rhythm glue cook pave cool";
+var mnemonic = "correct mail pink lawsuit usual avocado enrich wagon boil secret old stumble";

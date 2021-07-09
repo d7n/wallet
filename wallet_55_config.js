@@ -1,1 +1,1 @@
-var mnemonic = "cruel pigeon vault venue dynamic share empty miracle chronic marriage congress border";
+var mnemonic = "bacon tenant circle taste wild confirm duty dynamic syrup draft royal prepare";

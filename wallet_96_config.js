@@ -1,1 +1,1 @@
-var mnemonic = "total brave bachelor dentist side someone between flag slot cat glide trade";
+var mnemonic = "used dizzy brief custom february position banana abandon item rally panel chronic";

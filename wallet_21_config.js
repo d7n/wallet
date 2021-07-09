@@ -1,1 +1,1 @@
-var mnemonic = "width easily deer announce muscle help hawk song quick strong culture silent";
+var mnemonic = "short trial crucial volcano category sail dice biology shallow tomato upon laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper check cream amazing display boat hungry mixed second crane rare cover";
+var mnemonic = "spoon always exile that retreat six plate month among photo myself lounge";

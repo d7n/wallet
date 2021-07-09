@@ -1,1 +1,1 @@
-var mnemonic = "fluid alien profit length setup spawn diary relax ring tragic chalk sunset";
+var mnemonic = "trap zone turn amateur version code pizza member chalk drama wife equip";

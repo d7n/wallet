@@ -1,1 +1,1 @@
-var mnemonic = "earth find random sadness lady prefer couple kidney exchange ask expire fame";
+var mnemonic = "traffic dinosaur consider fox east coil tongue denial grace clock issue radar";

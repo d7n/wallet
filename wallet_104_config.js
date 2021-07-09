@@ -1,1 +1,1 @@
-var mnemonic = "sponsor industry seat bid place cigar size kit category network absurd food";
+var mnemonic = "member ask liar transfer daring say weapon dinner exchange soul door soap";

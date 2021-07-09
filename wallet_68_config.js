@@ -1,1 +1,1 @@
-var mnemonic = "oxygen analyst order business pattern over allow pet merry fringe differ exhibit";
+var mnemonic = "end oval brand antique peasant impulse chimney area juice menu master culture";

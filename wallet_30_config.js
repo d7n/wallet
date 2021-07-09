@@ -1,1 +1,1 @@
-var mnemonic = "cloth tiger attract below example list dirt battle invite current drama century";
+var mnemonic = "butter blanket frame puppy open citizen affair bonus palace decorate pause scan";

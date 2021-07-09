@@ -1,1 +1,1 @@
-var mnemonic = "damp priority reform ability marble wrap mixed muffin client found brick kitten";
+var mnemonic = "verb reason lab onion under example knife bubble toilet arrange chief dynamic";

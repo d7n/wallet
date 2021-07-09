@@ -1,1 +1,1 @@
-var mnemonic = "clip toward owner canvas hospital canvas tool exact such piano resource pond";
+var mnemonic = "sort wool air three elite ocean speed depart replace bottom sand oven";

@@ -1,1 +1,1 @@
-var mnemonic = "palace indoor valve furnace barely similar exile outdoor base benefit creek screen";
+var mnemonic = "mammal spot indicate patient unable bind flip cry melody chase inside unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "case echo what awake deer liar file exhaust real plug enjoy load";
+var mnemonic = "pudding universe add subject hood fog talk memory useful night strike cave";

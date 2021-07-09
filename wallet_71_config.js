@@ -1,1 +1,1 @@
-var mnemonic = "shadow more festival eight bonus sample chair crowd danger absorb thumb eagle";
+var mnemonic = "swarm distance better rookie grace express sun ahead acid feature pretty expect";

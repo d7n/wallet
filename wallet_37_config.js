@@ -1,1 +1,1 @@
-var mnemonic = "innocent treat wagon economy patch goddess buyer pill town amount cheap eager";
+var mnemonic = "equip scout story drum middle town arch pioneer sick surface manual joy";

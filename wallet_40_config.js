@@ -1,1 +1,1 @@
-var mnemonic = "wave blame purity open mesh curve pretty maid coral update thrive outside";
+var mnemonic = "review mule wrist ghost hole clap sting bless security mixed apology purpose";

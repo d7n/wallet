@@ -1,1 +1,1 @@
-var mnemonic = "rather copper mango punch carpet able cost merry gaze song often cruise";
+var mnemonic = "work goat property bike future great nerve short super help world assume";

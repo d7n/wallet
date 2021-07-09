@@ -1,1 +1,1 @@
-var mnemonic = "unusual domain memory post salon evil guide divide pause execute story member";
+var mnemonic = "option fresh boost leg rotate good develop dawn border material sing bike";

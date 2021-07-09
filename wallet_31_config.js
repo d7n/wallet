@@ -1,1 +1,1 @@
-var mnemonic = "local portion payment meat fetch dove lunch right visa crater crush then";
+var mnemonic = "embark sunny brown lonely cradle bright teach speak shuffle meadow tackle topic";

@@ -1,1 +1,1 @@
-var mnemonic = "rain pledge organ segment laptop salad health unlock wonder coast truth attend";
+var mnemonic = "smart know agree lucky two pet goat grant buffalo pilot tattoo evoke";

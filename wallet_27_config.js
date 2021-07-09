@@ -1,1 +1,1 @@
-var mnemonic = "attend reward defy coral fresh erosion mixture what fire actor solar smoke";
+var mnemonic = "sign sunny derive wood grocery board raise diamond bachelor burst allow winner";

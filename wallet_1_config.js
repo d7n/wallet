@@ -1,1 +1,1 @@
-var mnemonic = "will web squeeze sport miss arrive traffic traffic upon annual lady album";
+var mnemonic = "order ecology tail birth kitten angle town length snap whip benefit crane";

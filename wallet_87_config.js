@@ -1,1 +1,1 @@
-var mnemonic = "turtle skull merry toddler globe dismiss clog doll edge venue lens popular";
+var mnemonic = "current hawk long prefer stadium remain nice fall legal phrase antique also";

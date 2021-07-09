@@ -1,1 +1,1 @@
-var mnemonic = "ski boring toss museum foot idea always alien deputy polar doll road";
+var mnemonic = "cat scan wide right laugh move truth either wheel picture option daring";

@@ -1,1 +1,1 @@
-var mnemonic = "pave lazy margin skate stereo trash behave robot club garden wide acquire";
+var mnemonic = "blade hand bottom lion kick nut depart cause remind fabric fitness pact";

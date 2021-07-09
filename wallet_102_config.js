@@ -1,1 +1,1 @@
-var mnemonic = "foam shrimp vital pony entry spawn embody surprise fork verify test rural";
+var mnemonic = "reflect combine road regular social angry soon exchange upper decide leave canoe";

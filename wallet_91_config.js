@@ -1,1 +1,1 @@
-var mnemonic = "plastic hurt job flat fame donor suit please thunder orbit nurse strike";
+var mnemonic = "correct inmate donate tell dress open hunt buyer grunt sketch monster gun";

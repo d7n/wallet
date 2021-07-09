@@ -1,1 +1,1 @@
-var mnemonic = "company resource axis consider depend address surface media secret joy slush spare";
+var mnemonic = "embark ask school misery guess submit spirit isolate pupil fault ask year";

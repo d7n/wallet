@@ -1,1 +1,1 @@
-var mnemonic = "midnight edit quote odor stumble drill call vessel entry crumble reward burden";
+var mnemonic = "save ceiling poem bulk indicate amused climb weekend brisk scatter gun artefact";

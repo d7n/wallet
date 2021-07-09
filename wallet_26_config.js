@@ -1,1 +1,1 @@
-var mnemonic = "world flock net very wall furnace client enemy join surprise speed mercy";
+var mnemonic = "base that increase garbage huge diesel output toss smoke govern throw phone";

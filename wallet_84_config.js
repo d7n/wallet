@@ -1,1 +1,1 @@
-var mnemonic = "supply member night shuffle secret sunset egg will leopard oven visa ill";
+var mnemonic = "spice shock hunt rice essay diamond tourist buzz mango lamp torch valid";

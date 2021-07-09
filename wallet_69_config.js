@@ -1,1 +1,1 @@
-var mnemonic = "output rival urge innocent give girl public middle horror repair power eager";
+var mnemonic = "draw second olive rally depart swear syrup enforce fever stem battle grass";

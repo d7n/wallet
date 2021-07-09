@@ -1,1 +1,1 @@
-var mnemonic = "mask stand nuclear aim brick flame lesson comic swarm play embody oven";
+var mnemonic = "breeze tiny trophy sound alarm provide hen remember weapon climb dash boss";

@@ -1,1 +1,1 @@
-var mnemonic = "want cattle inquiry size process spray swallow feed curve save borrow share";
+var mnemonic = "peasant spend load vault menu zone figure three drum name into idle";

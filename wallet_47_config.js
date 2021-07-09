@@ -1,1 +1,1 @@
-var mnemonic = "diary stereo gap afraid essay animal pledge wood size prepare senior teach";
+var mnemonic = "initial finger purse bacon person spatial fury december version harsh evil ship";

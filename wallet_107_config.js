@@ -1,1 +1,1 @@
-var mnemonic = "pave noise excess spawn history shallow dog rate dolphin ordinary never case";
+var mnemonic = "movie credit add breeze there cream scorpion february fat buddy next leisure";

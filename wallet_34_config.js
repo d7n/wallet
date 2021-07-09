@@ -1,1 +1,1 @@
-var mnemonic = "symbol mass record turkey timber believe betray arch chapter diamond kit subway";
+var mnemonic = "flag wood game concert fetch destroy salad stamp shove weapon judge smile";

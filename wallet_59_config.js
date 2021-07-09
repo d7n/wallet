@@ -1,1 +1,1 @@
-var mnemonic = "brother raw what audit broom humble beauty require practice mosquito fury pink";
+var mnemonic = "share rural album captain collect mandate drift task cereal chair rely such";

@@ -1,1 +1,1 @@
-var mnemonic = "degree between lab comic leisure great spice frost hungry evidence vague profit";
+var mnemonic = "mom gauge coffee mechanic grain decrease surge property hospital same beyond license";

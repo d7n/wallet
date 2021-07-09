@@ -1,1 +1,1 @@
-var mnemonic = "inhale civil identify cute unfold plunge sweet tiny aunt slush capable same";
+var mnemonic = "smoke valley ribbon tree trim tail miracle unfair medal hidden erase mom";

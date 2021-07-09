@@ -1,1 +1,1 @@
-var mnemonic = "purse valid mango prosper medal sort dress property soon wonder gain twice";
+var mnemonic = "draft glove sand situate expire scene fluid hover reduce tongue wait crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "combine peasant draft giraffe essence record fringe comfort code area mistake invest";
+var mnemonic = "trigger thing mule slab like embrace output crime fancy legal connect uncover";

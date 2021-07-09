@@ -1,1 +1,1 @@
-var mnemonic = "control teach best another orchard south panic neck donate birth outdoor park";
+var mnemonic = "include argue garbage slender equip truth strong churn planet glory calm parent";

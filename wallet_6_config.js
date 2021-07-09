@@ -1,1 +1,1 @@
-var mnemonic = "engine seven three suffer ancient color train cigar jungle retreat danger jar";
+var mnemonic = "improve rule mosquito spawn dice venture metal grass weekend antique typical inch";

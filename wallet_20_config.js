@@ -1,1 +1,1 @@
-var mnemonic = "rain book turtle express harsh under grape excess youth lazy struggle because";
+var mnemonic = "account melt token crazy trap bar tag army doctor catalog gold arena";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze vanish keen heart dash scissors renew oven chuckle purpose laptop carry";
+var mnemonic = "amused trap cannon you drink tunnel swarm gorilla chalk dolphin unit cactus";

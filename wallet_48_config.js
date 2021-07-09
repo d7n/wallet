@@ -1,1 +1,1 @@
-var mnemonic = "scene base behind impulse hello milk sword beauty drastic mushroom color minor";
+var mnemonic = "arrest drip music arena axis version all intact mansion clutch empower trouble";

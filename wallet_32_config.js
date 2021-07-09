@@ -1,1 +1,1 @@
-var mnemonic = "drip flash thing similar chronic mixed oblige ice area derive spring fiscal";
+var mnemonic = "another picnic mountain biology other plate expire mention come effort honey excite";

@@ -1,1 +1,1 @@
-var mnemonic = "forest option maple rescue undo fox lens search join course photo aim";
+var mnemonic = "usage genius slender impact kangaroo lunch now auction drive half limit light";

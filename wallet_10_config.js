@@ -1,1 +1,1 @@
-var mnemonic = "phrase jelly gauge suffer lemon ski absent squirrel rug once ocean divert";
+var mnemonic = "opinion movie diary admit unlock jelly fine drift key unique club ensure";

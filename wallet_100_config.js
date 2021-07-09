@@ -1,1 +1,1 @@
-var mnemonic = "rain pepper release weapon rail term copy curve point math spread evoke";
+var mnemonic = "move cook monitor shoulder physical caution judge hello nose height loud sunset";

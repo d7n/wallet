@@ -1,1 +1,1 @@
-var mnemonic = "hill rubber door paddle organ joy lemon spawn know wrong rose sauce";
+var mnemonic = "grant menu holiday lawn lava edit light true tool magic picnic mesh";

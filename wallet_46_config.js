@@ -1,1 +1,1 @@
-var mnemonic = "differ whip fox reason unusual scale merge card spawn curve fuel bike";
+var mnemonic = "inhale trouble jazz process fancy rifle gospel permit odor east web tumble";

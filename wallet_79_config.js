@@ -1,1 +1,1 @@
-var mnemonic = "salute increase insect awkward van acquire couch fancy practice judge ketchup torch";
+var mnemonic = "pear vessel estate buzz sick jar planet animal sport shadow caught enemy";

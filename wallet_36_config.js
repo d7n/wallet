@@ -1,1 +1,1 @@
-var mnemonic = "gym essay chief artwork bargain hair chuckle tent join border boost glass";
+var mnemonic = "cry keen word winter tilt nasty goat sponsor rabbit fever swing idle";

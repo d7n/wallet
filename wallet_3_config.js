@@ -1,1 +1,1 @@
-var mnemonic = "kitchen verify result resist differ surface black celery jungle bunker require elegant";
+var mnemonic = "language there trend elevator merit ten word scale pipe smart load gorilla";

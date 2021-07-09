@@ -1,1 +1,1 @@
-var mnemonic = "pilot tourist monster chronic buyer cross high mutual glad melody innocent cost";
+var mnemonic = "prepare spice brain stone coyote vacant steak now bring garment march lab";

@@ -1,1 +1,1 @@
-var mnemonic = "they donkey point then lunar dwarf hammer unhappy mention hen whisper cherry";
+var mnemonic = "zone general matrix kick supreme dish motor wage winter shed dumb pig";

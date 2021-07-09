@@ -1,1 +1,1 @@
-var mnemonic = "food theory neither render speak gesture confirm thunder legal dog purse hello";
+var mnemonic = "circle blanket kiwi ring narrow owner history punch oval rate faculty true";

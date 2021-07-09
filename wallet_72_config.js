@@ -1,1 +1,1 @@
-var mnemonic = "creek gloom circle royal accident scissors aim canal acquire naive thank glare";
+var mnemonic = "fiscal deposit distance pattern egg border cotton buyer ritual oyster merge click";

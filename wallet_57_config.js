@@ -1,1 +1,1 @@
-var mnemonic = "pond toss consider number crumble recipe provide deer mesh smart wide unlock";
+var mnemonic = "bonus turkey occur extra genuine exclude fragile wool fabric between mixture fault";

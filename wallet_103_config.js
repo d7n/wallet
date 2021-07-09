@@ -1,1 +1,1 @@
-var mnemonic = "confirm curve search speak stool pencil plug gospel fancy claim october edge";
+var mnemonic = "tiny long arena photo mammal worth echo color use accident scheme code";

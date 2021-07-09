@@ -1,1 +1,1 @@
-var mnemonic = "sketch tenant trophy dolphin aisle sister tired off spend gasp section test";
+var mnemonic = "kite spike half regular mushroom lounge keep escape swear damage collect opinion";

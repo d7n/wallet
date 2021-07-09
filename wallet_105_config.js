@@ -1,1 +1,1 @@
-var mnemonic = "tourist add genius eye lion match name kangaroo error among pact miss";
+var mnemonic = "federal negative depth estate bone tone note margin light saddle wreck famous";

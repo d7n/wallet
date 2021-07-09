@@ -1,1 +1,1 @@
-var mnemonic = "level weird truly muscle pull chalk also divide glass fault adjust tank";
+var mnemonic = "fee future giggle earn planet horse chief hedgehog lawsuit plug define frog";

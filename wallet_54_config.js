@@ -1,1 +1,1 @@
-var mnemonic = "slot siege birth switch lab spray tongue coffee flock focus impact timber";
+var mnemonic = "gallery sugar rail borrow future pistol own sure athlete legend bike faint";

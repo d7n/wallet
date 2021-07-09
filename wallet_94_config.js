@@ -1,1 +1,1 @@
-var mnemonic = "bar olive leg access garden north screen recycle black worth aspect fire";
+var mnemonic = "evidence involve strike kangaroo beyond cycle chest coach olympic master they detail";
