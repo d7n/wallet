@@ -1,1 +1,1 @@
-var mnemonic = "merit poet oval tumble cherry heart occur drip dad sustain decorate machine";
+var mnemonic = "reflect chest tonight high airport slush absorb clip visa blur crime kind";

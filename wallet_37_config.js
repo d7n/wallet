@@ -1,1 +1,1 @@
-var mnemonic = "board iron muffin agent actor tool path history jar end section royal";
+var mnemonic = "rate answer baby honey enrich magic real sheriff tongue quick spoil elephant";

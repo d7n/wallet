@@ -1,1 +1,1 @@
-var mnemonic = "hunt chat myth total mimic quick detect orient once text thumb rib";
+var mnemonic = "congress crew pulp iron tornado dumb awful upset genuine task cup cream";

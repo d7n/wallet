@@ -1,1 +1,1 @@
-var mnemonic = "misery skull hello weasel toward cement acquire soldier ladder bridge orient gift";
+var mnemonic = "theory frozen extend panda medal drill merge rule tilt body pipe else";

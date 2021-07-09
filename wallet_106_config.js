@@ -1,1 +1,1 @@
-var mnemonic = "shine flee spice rookie dose embark labor abstract roof resist scorpion twist";
+var mnemonic = "plastic eternal behind census dry deposit shove evoke ride ice expire frame";

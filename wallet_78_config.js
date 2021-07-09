@@ -1,1 +1,1 @@
-var mnemonic = "unusual arm oven senior small crash senior forum concert diamond ring flip";
+var mnemonic = "save goose mix guitar zero raise away produce renew wrong suit champion";

@@ -1,1 +1,1 @@
-var mnemonic = "whip cake give keep police direct one laundry sock remind long scare";
+var mnemonic = "require nature region float long odor forward force damp pause broom limb";

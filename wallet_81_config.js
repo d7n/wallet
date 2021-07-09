@@ -1,1 +1,1 @@
-var mnemonic = "key endless despair gown harsh roast illness soccer keen level shop debris";
+var mnemonic = "turn stage win armed category usual play exist siren smart angle plastic";

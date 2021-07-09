@@ -1,1 +1,1 @@
-var mnemonic = "marriage develop jaguar garden menu shop mountain always extend shrug marine earn";
+var mnemonic = "saddle source guess play vintage negative term license notice owner device salt";

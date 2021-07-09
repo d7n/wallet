@@ -1,1 +1,1 @@
-var mnemonic = "security merit close again short hood slim donate mule answer online minor";
+var mnemonic = "control hover bean silent steak frozen fun nerve confirm section round burst";

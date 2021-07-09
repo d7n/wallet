@@ -1,1 +1,1 @@
-var mnemonic = "spoil cabbage pause summer cloud raw labor essay clay human age slow";
+var mnemonic = "behave language wife nerve someone ginger album person behave siren decade oppose";

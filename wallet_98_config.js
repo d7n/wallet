@@ -1,1 +1,1 @@
-var mnemonic = "monster odor identify silent friend animal ritual salute tower margin duck sad";
+var mnemonic = "knee reform annual waste dice entry future gesture merit check type scheme";

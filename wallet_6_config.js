@@ -1,1 +1,1 @@
-var mnemonic = "party work ensure penalty dry foster toward attract wave allow huge foil";
+var mnemonic = "anchor pumpkin wide quiz donor exotic stick radar round good reform jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "much family game north bulb poverty silly retreat exhaust story combine child";
+var mnemonic = "mammal acquire bulk negative bubble style orchard fragile ridge board clock box";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate light farm episode impose mystery trip habit valid grant brass aware";
+var mnemonic = "female already tank artefact iron indicate point firm myth maze fame connect";

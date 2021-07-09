@@ -1,1 +1,1 @@
-var mnemonic = "meat reform remove dance dawn release appear fun volume wealth excuse catalog";
+var mnemonic = "cruise spider fatal glory keen demand stage gold laugh castle equip guitar";

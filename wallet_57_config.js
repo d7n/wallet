@@ -1,1 +1,1 @@
-var mnemonic = "antenna narrow february enroll wood bread train earn will legend busy grief";
+var mnemonic = "marriage legend couch history hen empower borrow sleep lift local mixture amount";

@@ -1,1 +1,1 @@
-var mnemonic = "axis bulk giggle attend loan master destroy noodle rent group pudding voice";
+var mnemonic = "balance frame tragic flavor bronze suspect surprise pottery exit access tiny embody";

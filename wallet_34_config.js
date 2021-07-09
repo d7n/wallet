@@ -1,1 +1,1 @@
-var mnemonic = "monkey song impose omit point virtual gas program wait raccoon census wild";
+var mnemonic = "couple found above whisper left better spray genre dragon scene position amateur";

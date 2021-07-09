@@ -1,1 +1,1 @@
-var mnemonic = "slush circle lizard spare december fat panda copy have suggest average labor";
+var mnemonic = "legal usage inside law lecture federal sheriff hurt matrix hamster virtual nurse";

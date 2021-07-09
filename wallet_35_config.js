@@ -1,1 +1,1 @@
-var mnemonic = "kind design hat project junior mosquito angle hidden purchase salon time road";
+var mnemonic = "mountain twin decide parrot naive crazy float initial drift drive arena coach";

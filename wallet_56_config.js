@@ -1,1 +1,1 @@
-var mnemonic = "olive whip spoil shock same west moon keep often basic cabbage wet";
+var mnemonic = "sense valley degree near grape away flavor brown prevent category hazard balance";

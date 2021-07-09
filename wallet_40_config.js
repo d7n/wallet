@@ -1,1 +1,1 @@
-var mnemonic = "width custom expire fog face large couple drum will rhythm expose dove";
+var mnemonic = "material ice sample discover sign stamp rough market couch desk album return";

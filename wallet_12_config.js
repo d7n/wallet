@@ -1,1 +1,1 @@
-var mnemonic = "faith hint this chair dynamic spawn letter roast select face lonely evoke";
+var mnemonic = "winter dignity bread coyote surface dose object spare gain recipe panel strategy";

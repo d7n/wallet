@@ -1,1 +1,1 @@
-var mnemonic = "jealous salmon brother pizza select wait legend prevent bid opera network library";
+var mnemonic = "burden thank journey add advice cash already material swim museum hire proof";

@@ -1,1 +1,1 @@
-var mnemonic = "lava size shoot basic across romance kind moral puppy fat upgrade cactus";
+var mnemonic = "govern fragile wisdom horror orbit all fantasy dial exist final typical maple";

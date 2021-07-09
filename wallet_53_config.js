@@ -1,1 +1,1 @@
-var mnemonic = "decline cinnamon wash approve exist evil brief comic whip stool lecture hood";
+var mnemonic = "erupt photo circle average iron ghost dinosaur draft robot lumber school various";

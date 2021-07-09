@@ -1,1 +1,1 @@
-var mnemonic = "hawk consider weapon mask small elevator example alley excuse cheap hamster resource";
+var mnemonic = "school copper normal cabbage fruit congress reward resist wall tribe pioneer desert";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal year donkey crop journey offer cigar home garment scan plate mean";
+var mnemonic = "error custom audit lobster media rice way marble smoke base alert manual";

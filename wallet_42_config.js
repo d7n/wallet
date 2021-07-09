@@ -1,1 +1,1 @@
-var mnemonic = "athlete company sting work net awake tragic smooth rib symbol milk sleep";
+var mnemonic = "notice false scout venue pledge pitch pause hazard enter boy garment together";

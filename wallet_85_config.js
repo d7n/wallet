@@ -1,1 +1,1 @@
-var mnemonic = "brief potato health glass fashion voice rapid ready virus pistol stick earn";
+var mnemonic = "zero series deposit doll group lonely region paper fish you utility cook";

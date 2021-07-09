@@ -1,1 +1,1 @@
-var mnemonic = "frame wife cattle reject fine please blame mass verb before carbon festival";
+var mnemonic = "awake swamp tomorrow scout holiday zoo laundry magnet enable uncover burst define";

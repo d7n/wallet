@@ -1,1 +1,1 @@
-var mnemonic = "vanish explain walk vital nation win right kitten approve achieve rack visual";
+var mnemonic = "oak cook tape piece amazing heavy assault wet clock home plastic earth";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff addict concert chaos depart long clutch guitar remind empower bring seven";
+var mnemonic = "neither ignore afford enrich cool audit holiday figure waste open tiger what";

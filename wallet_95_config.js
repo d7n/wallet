@@ -1,1 +1,1 @@
-var mnemonic = "reward drama brother unfold swear knock damp cloth lava resource fluid game";
+var mnemonic = "energy birth decade pony april giggle steel hollow pioneer tunnel alone section";

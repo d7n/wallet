@@ -1,1 +1,1 @@
-var mnemonic = "exile dress wealth twist conduct hub square enhance demise ocean rural open";
+var mnemonic = "length trouble stuff tag kingdom appear pave long lumber dash notable twist";

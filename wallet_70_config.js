@@ -1,1 +1,1 @@
-var mnemonic = "correct utility divert twin narrow divide usage slogan script vicious off remind";
+var mnemonic = "upper black asthma kingdom swarm addict already try original ability purchase tell";

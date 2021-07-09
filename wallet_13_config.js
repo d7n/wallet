@@ -1,1 +1,1 @@
-var mnemonic = "type heavy aunt divert excite wave allow trigger nation cute sunset parade";
+var mnemonic = "castle trash offer learn bubble nothing drift pencil card sound journey develop";

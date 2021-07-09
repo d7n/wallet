@@ -1,1 +1,1 @@
-var mnemonic = "enroll kangaroo keep museum swear minimum false antique famous slender deny divorce";
+var mnemonic = "burger wonder inform run since kiss jeans exist sadness kidney wrap arctic";

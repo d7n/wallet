@@ -1,1 +1,1 @@
-var mnemonic = "bracket card empower scare consider obvious weekend luggage night ball oval father";
+var mnemonic = "clay orange dress burst chuckle limb pulse double ceiling crack pole force";

@@ -1,1 +1,1 @@
-var mnemonic = "decade mosquito ginger jazz spoil wrap melt gloom uncover tent menu inhale";
+var mnemonic = "citizen what protect sugar dinosaur shoot theory over creek uncover video genius";

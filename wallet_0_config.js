@@ -1,1 +1,1 @@
-var mnemonic = "silk detail raise echo beef main law farm blame mystery priority couple";
+var mnemonic = "nice civil island this produce bus genius learn arm hole myself verify";

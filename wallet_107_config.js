@@ -1,1 +1,1 @@
-var mnemonic = "friend knee crime opera struggle wide boss auction unit glove okay pupil";
+var mnemonic = "loyal lobster alter sadness credit erode first rookie disagree wedding depth blur";

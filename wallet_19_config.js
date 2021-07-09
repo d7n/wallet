@@ -1,1 +1,1 @@
-var mnemonic = "address eagle theory lawsuit stomach random acquire place endorse scan lucky silent";
+var mnemonic = "black laptop push rare uniform relax talk theme salmon loud rug utility";

@@ -1,1 +1,1 @@
-var mnemonic = "normal isolate demise good differ punch piece few mother fiscal range try";
+var mnemonic = "hub drive surprise swallow awesome blood position ethics coral force curtain peace";

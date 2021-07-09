@@ -1,1 +1,1 @@
-var mnemonic = "way agree sketch age fringe control social injury educate common maid century";
+var mnemonic = "garage awful orphan slice elevator term join transfer giant into tail expect";

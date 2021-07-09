@@ -1,1 +1,1 @@
-var mnemonic = "wash weird unable extra dance early laugh major hard silent oppose orient";
+var mnemonic = "april inflict favorite fortune vast weapon more dismiss fame tip sadness cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "museum beach fly frost cricket right decrease ice bargain material antenna peanut";
+var mnemonic = "draft just dutch crisp elbow scrap hip ship improve identify father tenant";

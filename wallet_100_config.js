@@ -1,1 +1,1 @@
-var mnemonic = "peasant camp fury joy subway canal hollow enforce scissors super category return";
+var mnemonic = "all inject betray camp horn dumb village fuel buffalo soul soda melody";

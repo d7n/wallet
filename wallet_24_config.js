@@ -1,1 +1,1 @@
-var mnemonic = "chest siren maze express feature arm clip omit guess action twice crucial";
+var mnemonic = "retreat anxiety flame adult require key welcome rebel record power basic balance";

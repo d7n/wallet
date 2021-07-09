@@ -1,1 +1,1 @@
-var mnemonic = "hamster expose laptop zone kingdom law much empower arm ethics hair evolve";
+var mnemonic = "tail matter lab neglect wheel push trim depth dilemma banana circle young";

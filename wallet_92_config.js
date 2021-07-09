@@ -1,1 +1,1 @@
-var mnemonic = "warfare mandate motion update rib enforce glass stuff sword dignity raise slush";
+var mnemonic = "curve image wish giant check camera metal law absurd bone erase scrub";

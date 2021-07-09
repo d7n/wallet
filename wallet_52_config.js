@@ -1,1 +1,1 @@
-var mnemonic = "meadow base write gentle news nephew thank you clown north security stamp";
+var mnemonic = "screen race hazard bottom brush elder laundry reopen local shallow price company";

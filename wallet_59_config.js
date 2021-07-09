@@ -1,1 +1,1 @@
-var mnemonic = "else amateur stand aisle middle baby dose genius flush property jungle holiday";
+var mnemonic = "initial dice country sponsor beyond post civil sword actual duty all engage";

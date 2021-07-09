@@ -1,1 +1,1 @@
-var mnemonic = "lunch cable heart honey abuse trend onion truly jar glove nature crowd";
+var mnemonic = "before sentence metal useless dish credit toward stem barrel emotion coconut series";

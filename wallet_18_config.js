@@ -1,1 +1,1 @@
-var mnemonic = "fold border enhance child pact idea amount find captain turtle drive medal";
+var mnemonic = "electric sorry trick room evil mix cheese echo marine other kite bright";

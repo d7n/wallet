@@ -1,1 +1,1 @@
-var mnemonic = "slim leopard wine pill east enter equal eye puzzle across depth vital";
+var mnemonic = "nature ribbon poem hurry hope joy indoor cotton cage depend used awake";

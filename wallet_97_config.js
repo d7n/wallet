@@ -1,1 +1,1 @@
-var mnemonic = "fiber script salt curve forest minimum truly canvas action notable crouch glad";
+var mnemonic = "argue produce bubble diesel ride warfare cost prize summer spoil soft make";

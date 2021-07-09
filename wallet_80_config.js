@@ -1,1 +1,1 @@
-var mnemonic = "zone reward arch walnut grid fly toe beyond gadget shift fog park";
+var mnemonic = "wet feel winner job lunar athlete rabbit riot tackle solution river danger";

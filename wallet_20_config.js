@@ -1,1 +1,1 @@
-var mnemonic = "onion describe shoe tenant joy negative shy favorite monitor west trumpet nurse";
+var mnemonic = "buzz click under scatter lottery size rapid illness skin tool skate solid";

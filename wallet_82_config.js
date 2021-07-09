@@ -1,1 +1,1 @@
-var mnemonic = "key oval urban animal survey across boring habit tissue often trim robot";
+var mnemonic = "fiction lucky winter bounce boy rally tide pottery spawn debate display measure";

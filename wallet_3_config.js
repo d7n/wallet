@@ -1,1 +1,1 @@
-var mnemonic = "cat dial next right hope awesome quantum play dad salmon suffer cable";
+var mnemonic = "toast bag step hospital fame property opera spoon damp zone ocean nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel bundle exotic forest fold evidence ozone hazard glide silly resemble husband";
+var mnemonic = "humor salad boost guess spend jealous milk arrange quiz copper box unable";

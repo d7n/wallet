@@ -1,1 +1,1 @@
-var mnemonic = "cycle debris soda ankle neutral health jump glory edit parade fade auto";
+var mnemonic = "moon price hungry false code evolve canoe essay any item canoe soul";

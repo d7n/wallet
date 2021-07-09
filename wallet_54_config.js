@@ -1,1 +1,1 @@
-var mnemonic = "invest opinion raccoon project zebra city relax trim mango thrive cement nice";
+var mnemonic = "method morning left garlic female artwork strong process spider point dilemma reform";

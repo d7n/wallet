@@ -1,1 +1,1 @@
-var mnemonic = "neck fiscal garden loop torch citizen alpha bundle soon lemon amount text";
+var mnemonic = "unknown just scare legal head quiz mystery brown such ginger issue alien";

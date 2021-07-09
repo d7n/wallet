@@ -1,1 +1,1 @@
-var mnemonic = "soul wood grit afraid various scrub chief patient income bench bleak alarm";
+var mnemonic = "leave scrub wine bronze air verify dismiss emotion credit thunder blue rabbit";

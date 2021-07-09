@@ -1,1 +1,1 @@
-var mnemonic = "tourist pride faith little primary much domain fold home mutual arrest engage";
+var mnemonic = "electric chaos warfare common mutual link avoid hub supply reject weasel sphere";

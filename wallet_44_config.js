@@ -1,1 +1,1 @@
-var mnemonic = "enhance skin remember result soul ill thing penalty exist comic evidence canvas";
+var mnemonic = "then pool team book peace round cannon attract fringe tunnel afford symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan script craft spider apart pledge figure scout brother ocean fringe dish";
+var mnemonic = "ordinary side approve rail walnut reopen blue weasel bargain claw cook physical";

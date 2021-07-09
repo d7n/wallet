@@ -1,1 +1,1 @@
-var mnemonic = "actress taxi shock easy giraffe friend teach supply shop empower knee core";
+var mnemonic = "pigeon model praise bachelor dinner biology among festival blur broom enter donkey";

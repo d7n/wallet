@@ -1,1 +1,1 @@
-var mnemonic = "prevent wave tenant vocal athlete exact air giraffe sight proof fragile muscle";
+var mnemonic = "hockey fancy evil dress address walk engine dog ten harvest concert minute";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon noise tilt angry scene else obey judge dumb salon frequent veteran";
+var mnemonic = "column reform sentence sausage advance turtle result since spike month beach run";

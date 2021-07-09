@@ -1,1 +1,1 @@
-var mnemonic = "tribe baby horror resist once useless birth glimpse title foot advance impose";
+var mnemonic = "case budget suspect enable foster creek pet intact auto mango grape brain";

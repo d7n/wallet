@@ -1,1 +1,1 @@
-var mnemonic = "finish lyrics suspect pitch short kite wreck unfair harsh orange suit bind";
+var mnemonic = "eyebrow sibling shield century also range girl atom tube cousin portion volume";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy urban mobile allow embrace inhale flame empty midnight spell drive side";
+var mnemonic = "enforce pyramid image attract same fiscal slide comic math usage doctor future";

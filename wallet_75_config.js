@@ -1,1 +1,1 @@
-var mnemonic = "gadget can state enroll van rug hill narrow amazing marble sock siege";
+var mnemonic = "convince blanket excuse because disagree force awful topic route ball paper buzz";

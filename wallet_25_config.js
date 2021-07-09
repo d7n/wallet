@@ -1,1 +1,1 @@
-var mnemonic = "limit impact better dinner nuclear earn aerobic tongue lion thrive absorb have";
+var mnemonic = "misery trouble replace usage indoor now legend rally large bird toss female";

@@ -1,1 +1,1 @@
-var mnemonic = "twin interest sad junk favorite fossil approve profit check original crunch cover";
+var mnemonic = "know tissue sport brain brisk mirror lesson bulk arch broccoli flight record";

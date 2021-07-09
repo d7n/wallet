@@ -1,1 +1,1 @@
-var mnemonic = "range together equal breeze spider pulp novel review caught marine join wall";
+var mnemonic = "earn film catch depth paddle excuse okay course taxi attract leg gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle super achieve reduce obvious swap essay consider online draft upgrade neglect";
+var mnemonic = "moon sock motion eager blind swear fine olive witness manual aisle caught";

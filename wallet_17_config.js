@@ -1,1 +1,1 @@
-var mnemonic = "catch option issue nephew gate budget coyote swing act sponsor eager pause";
+var mnemonic = "virus cruel cupboard aisle work style stool captain mad claim rookie poem";

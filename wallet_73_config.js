@@ -1,1 +1,1 @@
-var mnemonic = "vapor cigar silk cotton shoulder ordinary west napkin tiger brother lunar bless";
+var mnemonic = "inherit corn soup submit diagram marine recall aisle visa panther island beef";

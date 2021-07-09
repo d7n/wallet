@@ -1,1 +1,1 @@
-var mnemonic = "decline rack congress dove ancient shaft diesel trial limb stand design chuckle";
+var mnemonic = "shock cradle tribe bind model zone genre oak jelly power diary must";

@@ -1,1 +1,1 @@
-var mnemonic = "post profit isolate engage spread shoot focus grab club stem check inmate";
+var mnemonic = "clever close mule obvious father episode someone laptop drip bean sheriff giraffe";

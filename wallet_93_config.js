@@ -1,1 +1,1 @@
-var mnemonic = "neglect never fortune dolphin lunar movie never aerobic oxygen chest remove deliver";
+var mnemonic = "either material cram anxiety cabin comfort physical injury cotton bridge appear praise";
