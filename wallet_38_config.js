@@ -1,1 +1,1 @@
-var mnemonic = "swim october blouse table error tide ahead desert make patch select thing";
+var mnemonic = "hurdle polar talent credit close obey mixed patch ramp clock usage nerve";

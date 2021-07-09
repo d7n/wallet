@@ -1,1 +1,1 @@
-var mnemonic = "situate upper chase cupboard column once virus pond glass swarm lamp pottery";
+var mnemonic = "labor ethics kind like stool lucky rocket index chief hire extend tiny";

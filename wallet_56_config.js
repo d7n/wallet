@@ -1,1 +1,1 @@
-var mnemonic = "swallow walnut observe riot law video toe rule scissors approve uniform shallow";
+var mnemonic = "steak grant weather avocado rare moment silver brand denial express tomato dune";

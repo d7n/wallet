@@ -1,1 +1,1 @@
-var mnemonic = "cotton chat present dad desk soup shaft sting panic ride mind fish";
+var mnemonic = "pluck flee misery spirit rally produce radio symptom voyage reject radio antenna";

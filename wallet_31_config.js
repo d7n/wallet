@@ -1,1 +1,1 @@
-var mnemonic = "clump iron cupboard measure ivory ivory enough giraffe update desert vague large";
+var mnemonic = "involve during wheel dog draft forest direct canyon pioneer share already attitude";

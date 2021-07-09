@@ -1,1 +1,1 @@
-var mnemonic = "kitten dilemma victory caught that vibrant always deputy follow ill panel stool";
+var mnemonic = "roast chalk top olympic million remind tool sound harbor cry burden giant";

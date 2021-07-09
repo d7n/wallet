@@ -1,1 +1,1 @@
-var mnemonic = "card stool voyage pelican blast kitchen chef cloth square merge replace dutch";
+var mnemonic = "swap shallow gain trap add tank year twist legal summer clog spatial";

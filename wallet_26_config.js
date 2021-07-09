@@ -1,1 +1,1 @@
-var mnemonic = "target chapter honey muscle offer garage ready trend tortoise card ice film";
+var mnemonic = "patient baby mesh useful toss celery eyebrow wet wage seed spike logic";

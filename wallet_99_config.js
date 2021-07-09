@@ -1,1 +1,1 @@
-var mnemonic = "defense silk erosion find cereal crazy horn private damp wolf amazing fossil";
+var mnemonic = "theme upset rhythm ten negative food blouse actor sword maple toddler asthma";

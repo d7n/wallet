@@ -1,1 +1,1 @@
-var mnemonic = "jump inflict useful syrup engine frozen faculty swear strategy erupt happy decade";
+var mnemonic = "cover solid pupil youth banner garlic devote sell shift blast state thumb";

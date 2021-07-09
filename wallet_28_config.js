@@ -1,1 +1,1 @@
-var mnemonic = "spell plunge ivory sketch board sphere radio review brush harsh worry blush";
+var mnemonic = "cost cost bus famous naive wedding dose drip deliver common frost write";

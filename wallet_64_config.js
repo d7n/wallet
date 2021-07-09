@@ -1,1 +1,1 @@
-var mnemonic = "pool tiny deal all cup process hen jeans online recipe suit cement";
+var mnemonic = "fitness gasp piece fluid normal beauty dog hat hover response fire cotton";

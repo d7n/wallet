@@ -1,1 +1,1 @@
-var mnemonic = "taste pyramid sock flip match turn cinnamon junk quantum gospel nerve step";
+var mnemonic = "solve clutch couple strike lyrics series grab machine tunnel catch vivid rare";

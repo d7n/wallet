@@ -1,1 +1,1 @@
-var mnemonic = "measure curtain brother grant six announce cube kick rabbit voyage card steel";
+var mnemonic = "library country mother they summer onion tide health journey hospital rain company";

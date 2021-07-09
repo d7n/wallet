@@ -1,1 +1,1 @@
-var mnemonic = "wet faint spike endorse hammer fruit exhaust rigid sorry cube exact fetch";
+var mnemonic = "green appear public figure acid carbon grape autumn great gospel fence foster";

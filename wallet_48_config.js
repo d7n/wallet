@@ -1,1 +1,1 @@
-var mnemonic = "couch elder repeat kit sail veteran such advice anger ice gloom bracket";
+var mnemonic = "thank family benefit gown wing divert caution bargain wheel clog screen sorry";

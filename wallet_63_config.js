@@ -1,1 +1,1 @@
-var mnemonic = "organ rose salad life year leopard genre move valve bright choose icon";
+var mnemonic = "reform since engine age vocal chase cry entry turn unfair butter doctor";

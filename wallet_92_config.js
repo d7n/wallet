@@ -1,1 +1,1 @@
-var mnemonic = "chat donor matrix nerve unknown bulk salute soccer grow lemon trade parent";
+var mnemonic = "chicken polar scale rapid note action lava sheriff know enhance radar monster";

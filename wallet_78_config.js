@@ -1,1 +1,1 @@
-var mnemonic = "cook capital loyal cement next sunset gentle alley fever latin piano flash";
+var mnemonic = "indoor control mimic cover nature lottery elder client old comfort trade alarm";

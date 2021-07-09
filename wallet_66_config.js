@@ -1,1 +1,1 @@
-var mnemonic = "taste ginger relief solution laptop off candy indicate blush embody coral upon";
+var mnemonic = "lawsuit bounce tray zero office jar myself win light paper faith group";

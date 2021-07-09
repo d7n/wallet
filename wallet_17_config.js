@@ -1,1 +1,1 @@
-var mnemonic = "pair book humble scene actor giant clever intact oil first coin pride";
+var mnemonic = "tunnel hotel cause mango cage cycle joy chapter urge save decide bitter";

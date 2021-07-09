@@ -1,1 +1,1 @@
-var mnemonic = "grow grit dose velvet fox cross stumble funny stock step mixture earth";
+var mnemonic = "green gown phrase toilet chest salt calm club orient crash add dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "point very gentle that flee infant few farm pilot drift regular cattle";
+var mnemonic = "blush exact enable joke jelly survey movie around vast reason abuse home";

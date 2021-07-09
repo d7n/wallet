@@ -1,1 +1,1 @@
-var mnemonic = "any air bulk screen imitate mask clarify injury roof current surface object";
+var mnemonic = "purse grape resist develop abandon transfer parade canyon grow crystal crew arrest";

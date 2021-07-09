@@ -1,1 +1,1 @@
-var mnemonic = "country balance drill grunt draft monster medal vintage curtain upgrade affair pluck";
+var mnemonic = "junk lounge brush labor rhythm rubber various apple indoor chimney sleep hire";

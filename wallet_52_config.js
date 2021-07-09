@@ -1,1 +1,1 @@
-var mnemonic = "ketchup lamp auction wire chat where tattoo sniff swarm bitter oppose remain";
+var mnemonic = "barrel loop random convince okay amateur umbrella dentist fury general solid inform";

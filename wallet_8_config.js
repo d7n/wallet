@@ -1,1 +1,1 @@
-var mnemonic = "observe clip school valid neutral shift ship bargain fame drink shrimp genre";
+var mnemonic = "atom share fire suspect exchange planet again around attract save dawn recall";

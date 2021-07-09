@@ -1,1 +1,1 @@
-var mnemonic = "ribbon bomb joke deliver suit ugly era domain minimum choose shallow lion";
+var mnemonic = "pelican install wisdom deliver find despair peace wild toddler soldier daring plate";

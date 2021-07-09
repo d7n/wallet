@@ -1,1 +1,1 @@
-var mnemonic = "today improve place tribe have arrive orange good dawn gap warm music";
+var mnemonic = "inner proof unhappy drop output favorite dose castle gate sound cactus rabbit";

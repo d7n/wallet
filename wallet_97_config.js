@@ -1,1 +1,1 @@
-var mnemonic = "over twelve vacuum salmon lumber alien ensure wild correct receive gasp illness";
+var mnemonic = "plastic route twenty cook live swift pattern shrug spatial target secret grab";

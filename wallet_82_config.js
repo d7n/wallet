@@ -1,1 +1,1 @@
-var mnemonic = "gentle brass aim food onion tray strong outer scissors useful clever main";
+var mnemonic = "still notice raven amount fury worry embody blanket neglect aware tuition collect";

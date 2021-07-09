@@ -1,1 +1,1 @@
-var mnemonic = "green battle eight pair kit valley still mimic piano common cereal disorder";
+var mnemonic = "secret cabbage win still general shiver choice secret distance excite inherit chuckle";

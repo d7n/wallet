@@ -1,1 +1,1 @@
-var mnemonic = "fault cannon total crucial nest public infant benefit talent observe pioneer matrix";
+var mnemonic = "damage deposit dinosaur skill oil panther round field address muffin this ethics";

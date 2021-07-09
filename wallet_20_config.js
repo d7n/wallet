@@ -1,1 +1,1 @@
-var mnemonic = "crouch become inmate track hunt muscle flight dizzy spread mistake frequent angle";
+var mnemonic = "address ladder tortoise short expand razor cross curious until monitor weekend cigar";

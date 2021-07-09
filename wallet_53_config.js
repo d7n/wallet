@@ -1,1 +1,1 @@
-var mnemonic = "crazy enjoy hurdle rate elegant armor major earn wage lift ignore tent";
+var mnemonic = "engage trend wonder delay critic live follow despair brief twelve gravity motion";

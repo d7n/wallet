@@ -1,1 +1,1 @@
-var mnemonic = "slow gaze rapid sword ten disease express viable dizzy virus hood nuclear";
+var mnemonic = "divert impose champion sock modify together multiply brisk resemble mobile walnut attend";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor slide ball table camp mansion canoe cruise vintage ridge raccoon tone";
+var mnemonic = "friend harbor decorate reward material mirror record clerk inherit define skull scene";

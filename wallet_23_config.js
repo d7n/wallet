@@ -1,1 +1,1 @@
-var mnemonic = "salt car clerk usage exclude unable below decade useful wedding curtain spawn";
+var mnemonic = "fancy hollow control wire remember resemble sail jealous sell cost moon settle";

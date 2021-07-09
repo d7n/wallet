@@ -1,1 +1,1 @@
-var mnemonic = "open pole robust duck vivid egg dragon frost identify fatigue stereo panel";
+var mnemonic = "enforce flower staff poet list tag dry mystery way category moment figure";

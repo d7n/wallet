@@ -1,1 +1,1 @@
-var mnemonic = "tape castle pulp refuse belt answer couple peanut vital tower unusual ridge";
+var mnemonic = "slogan accuse cluster flower wheat dose unfold achieve left fatal federal daughter";

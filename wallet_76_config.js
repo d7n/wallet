@@ -1,1 +1,1 @@
-var mnemonic = "trigger claim road erupt vast relax border payment cart fish educate elbow";
+var mnemonic = "design spider judge hair engage that leg dish normal drill link sock";

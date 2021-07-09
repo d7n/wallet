@@ -1,1 +1,1 @@
-var mnemonic = "stool nominee toe course crucial laptop teach drastic kiwi source frost depart";
+var mnemonic = "amused century inspire mean banana pelican earn poet job struggle bulb fire";

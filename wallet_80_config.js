@@ -1,1 +1,1 @@
-var mnemonic = "lend oil normal nothing occur sudden immense north shy food smart seminar";
+var mnemonic = "pottery visit recall height useful lamp correct peanut diary exist faculty amazing";

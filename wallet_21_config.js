@@ -1,1 +1,1 @@
-var mnemonic = "magic badge match bullet vote real episode review immense fold bridge wage";
+var mnemonic = "various item crime admit shock ask punch gather over client cricket crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "develop raccoon injury apple such pluck tuna globe obscure call minimum acoustic";
+var mnemonic = "slow rocket cart excess reason problem interest web ten burst tenant pact";

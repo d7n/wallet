@@ -1,1 +1,1 @@
-var mnemonic = "gentle shop taxi zoo maximum ability invite radio avoid drastic mask glory";
+var mnemonic = "hello scrub void worry digital scale quote width rubber cancel because seven";

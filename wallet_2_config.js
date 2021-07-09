@@ -1,1 +1,1 @@
-var mnemonic = "right oppose dash fabric stool modify auction puzzle stuff bubble found gate";
+var mnemonic = "monster pupil throw exclude fish glad sea little quality awful wool odor";

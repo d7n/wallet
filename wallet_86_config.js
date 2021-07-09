@@ -1,1 +1,1 @@
-var mnemonic = "tell bone wool attract romance image celery cheese dynamic anchor sudden inquiry";
+var mnemonic = "fix response jungle robot later juice elephant chair mother resemble word arrest";

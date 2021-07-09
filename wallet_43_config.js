@@ -1,1 +1,1 @@
-var mnemonic = "square minor situate tilt thrive affair eight script arena pilot galaxy lottery";
+var mnemonic = "cabin stomach favorite drop judge candy cheap turtle husband success choice banana";

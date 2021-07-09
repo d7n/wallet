@@ -1,1 +1,1 @@
-var mnemonic = "loop sunset lecture excite path resource ladder cool relax wave slam vanish";
+var mnemonic = "already alpha bar tone rescue peace ignore sadness reform pioneer key garbage";

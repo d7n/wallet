@@ -1,1 +1,1 @@
-var mnemonic = "drum artist ship arctic typical hawk detail pattern neglect month together gown";
+var mnemonic = "child sell weasel almost island suspect price ignore sea wool melt category";

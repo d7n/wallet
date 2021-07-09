@@ -1,1 +1,1 @@
-var mnemonic = "guess beauty shadow bomb bronze innocent muscle mix dinosaur veteran tornado flag";
+var mnemonic = "business purpose isolate reason season giggle ozone bunker vapor empty ask alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic leaf logic quick renew swing repeat social desk vocal pumpkin section";
+var mnemonic = "mobile defense brain later drop title betray mammal grit trigger cruise drill";

@@ -1,1 +1,1 @@
-var mnemonic = "impose assume next section day deposit skirt almost fatigue faint record rescue";
+var mnemonic = "lock satisfy absurd toward reveal kidney salute very tuna atom peace fade";

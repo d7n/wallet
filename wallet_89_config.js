@@ -1,1 +1,1 @@
-var mnemonic = "ball lawn damage deposit lake sibling deer uncover dilemma media plug sample";
+var mnemonic = "pause state stem because thought liberty hollow social admit engine pond onion";

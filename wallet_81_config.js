@@ -1,1 +1,1 @@
-var mnemonic = "gloom wage civil frame slogan lamp poem slogan guess bacon lesson squirrel";
+var mnemonic = "observe inflict habit journey eight nut include speak effort reason almost field";

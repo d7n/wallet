@@ -1,1 +1,1 @@
-var mnemonic = "stem combine team turtle birth captain mansion wrestle thumb symbol recall odor";
+var mnemonic = "narrow nest crawl news daughter abstract slide attack taxi invest have romance";

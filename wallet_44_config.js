@@ -1,1 +1,1 @@
-var mnemonic = "cabbage october always borrow point vacuum syrup brave mosquito effort broom world";
+var mnemonic = "burden dinner palm donate solar hill shallow adjust shy hawk museum calm";

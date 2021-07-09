@@ -1,1 +1,1 @@
-var mnemonic = "total tomorrow divert surface safe need now check income viable pact paddle";
+var mnemonic = "slide engage runway usage else humble zero identify toe table daughter forest";

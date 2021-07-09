@@ -1,1 +1,1 @@
-var mnemonic = "square metal base era pistol figure zone spoon broccoli food pencil casual";
+var mnemonic = "cupboard gift genius afraid group humor unfold multiply property filter few drum";

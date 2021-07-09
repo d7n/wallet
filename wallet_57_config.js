@@ -1,1 +1,1 @@
-var mnemonic = "explain symbol perfect present metal interest miss over egg sail suffer swarm";
+var mnemonic = "foam device hard move enroll level extra observe avoid because hello honey";

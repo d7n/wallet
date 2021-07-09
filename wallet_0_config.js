@@ -1,1 +1,1 @@
-var mnemonic = "notice degree attitude width option left shuffle unveil half rigid morning army";
+var mnemonic = "message exchange churn park always evidence palm table current powder behave matrix";

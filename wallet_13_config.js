@@ -1,1 +1,1 @@
-var mnemonic = "narrow day mandate gravity gloom tomato crumble empower wine room goose fringe";
+var mnemonic = "diesel easy era please rigid south easy wedding caution lottery home else";

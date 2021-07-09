@@ -1,1 +1,1 @@
-var mnemonic = "spatial entry club theme into inspire romance cupboard donkey foster require produce";
+var mnemonic = "stomach achieve just enlist ancient lemon ankle cushion auto rent bullet people";

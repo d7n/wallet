@@ -1,1 +1,1 @@
-var mnemonic = "museum estate donkey abuse illegal sense board accuse dust dutch blast risk";
+var mnemonic = "collect banner floor differ leave kiss fence innocent raw speed ketchup target";

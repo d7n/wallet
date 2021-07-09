@@ -1,1 +1,1 @@
-var mnemonic = "sunset copper armed observe scheme time push shrug uncle degree nature render";
+var mnemonic = "wrap lonely until winner vanish canyon hunt gym rely excess into struggle";

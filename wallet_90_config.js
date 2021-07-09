@@ -1,1 +1,1 @@
-var mnemonic = "hurt wheel false hamster aspect pupil gate peanut nuclear trophy diesel polar";
+var mnemonic = "interest vehicle cross grunt since sail network cream rule conduct supreme mixed";

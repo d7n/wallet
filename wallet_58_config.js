@@ -1,1 +1,1 @@
-var mnemonic = "snap scout hotel analyst emotion vessel ring olympic meat toy stone gift";
+var mnemonic = "behave frozen fire clay distance speed include transfer little kick awkward great";

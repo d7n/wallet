@@ -1,1 +1,1 @@
-var mnemonic = "ostrich devote hundred summer box cement drama fragile focus method aspect pilot";
+var mnemonic = "december soap budget taste pledge kind dirt nephew before imitate gorilla olympic";

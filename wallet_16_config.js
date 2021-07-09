@@ -1,1 +1,1 @@
-var mnemonic = "blind system illness lava fiber wash hub neutral general barely shaft depart";
+var mnemonic = "awesome stage three dawn scale icon often hospital army magic accuse jazz";

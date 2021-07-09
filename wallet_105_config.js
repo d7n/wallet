@@ -1,1 +1,1 @@
-var mnemonic = "obvious isolate route verb dream wink refuse silver boy verify fringe enough";
+var mnemonic = "parrot work guard green furnace duty crack announce twenty comic light spatial";

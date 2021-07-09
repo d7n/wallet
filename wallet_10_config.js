@@ -1,1 +1,1 @@
-var mnemonic = "laundry thunder filter purpose left peace female clog sausage level replace cycle";
+var mnemonic = "rookie embody type emerge force until nice bacon deal gym unique orange";

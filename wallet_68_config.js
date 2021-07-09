@@ -1,1 +1,1 @@
-var mnemonic = "era royal shaft rely bleak attack tunnel arctic spot deposit excess hard";
+var mnemonic = "pass brother pony oak hero pride asthma fringe become alien hurdle ensure";

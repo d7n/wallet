@@ -1,1 +1,1 @@
-var mnemonic = "eye spell noise monster furnace hedgehog random attitude moment enter kitchen trap";
+var mnemonic = "royal grid useful burden harvest book heart cushion radio coyote tornado say";

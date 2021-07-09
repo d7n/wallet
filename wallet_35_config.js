@@ -1,1 +1,1 @@
-var mnemonic = "occur slow float bird shop ginger unit estate key slam flee athlete";
+var mnemonic = "now creek flower type cannon city suspect strong sort knee space slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "combine predict equip rent shoe sport choice ribbon odor toast student wagon";
+var mnemonic = "height dress gift narrow movie pyramid genuine inject book glass ozone math";

@@ -1,1 +1,1 @@
-var mnemonic = "world mammal man survey run sniff kit carry apart street flower shoe";
+var mnemonic = "under despair thunder dune alert invest joy result ripple slam core gasp";

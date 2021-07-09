@@ -1,1 +1,1 @@
-var mnemonic = "unfold action long stay stage fiscal material swallow rocket blast kind home";
+var mnemonic = "ribbon bench lunar cat dutch best inflict typical turn fox tiger behind";

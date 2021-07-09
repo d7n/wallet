@@ -1,1 +1,1 @@
-var mnemonic = "rule fault logic sight senior pistol problem ticket order slender affair attitude";
+var mnemonic = "nasty garden enforce air curious lottery poet clump goat display viable final";

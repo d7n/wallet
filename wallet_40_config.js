@@ -1,1 +1,1 @@
-var mnemonic = "axis wash soup client dish crowd else radar match they over camera";
+var mnemonic = "favorite olive comfort glare fine wild resource phrase rebel noble push obey";

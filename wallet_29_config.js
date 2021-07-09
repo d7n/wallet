@@ -1,1 +1,1 @@
-var mnemonic = "defense liberty lava empty banana crowd outside entire local conduct acoustic crash";
+var mnemonic = "mad task achieve cargo connect audit awkward impose popular minimum catalog ripple";

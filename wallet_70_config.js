@@ -1,1 +1,1 @@
-var mnemonic = "process sure tribe angle term burger among rebuild network month tennis together";
+var mnemonic = "village afford member kind inmate letter drift vanish stay topic certain curtain";

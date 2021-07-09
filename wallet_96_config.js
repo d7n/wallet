@@ -1,1 +1,1 @@
-var mnemonic = "blush win ribbon token ranch february apple leader access material invite raise";
+var mnemonic = "parade begin monster mercy burger refuse payment rack reward visa brick large";

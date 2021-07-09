@@ -1,1 +1,1 @@
-var mnemonic = "time urge avoid supreme deny sauce bottom muscle stem hundred almost dawn";
+var mnemonic = "follow normal net clump plate chief patch access mercy pencil leave input";

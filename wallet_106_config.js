@@ -1,1 +1,1 @@
-var mnemonic = "estate snake add meat buyer chicken vendor code apple bean route idea";
+var mnemonic = "bamboo core remember cable virus tree spoil year tiny finger tank old";

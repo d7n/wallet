@@ -1,1 +1,1 @@
-var mnemonic = "nominee olympic trim glad fuel heart fatigue sad lucky caution merge connect";
+var mnemonic = "ride ten mouse employ cross divorce cannon first rescue bullet coast street";

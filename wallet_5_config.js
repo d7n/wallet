@@ -1,1 +1,1 @@
-var mnemonic = "mosquito aisle furnace rug advance cube giant master flag rice struggle thumb";
+var mnemonic = "able junior dune pride illegal opinion dawn deliver license staff stay carry";

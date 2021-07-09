@@ -1,1 +1,1 @@
-var mnemonic = "clarify increase guide wrong reason better since lab suit reunion shine artist";
+var mnemonic = "frog train turkey topple armor joke meadow company move gentle ignore peace";

@@ -1,1 +1,1 @@
-var mnemonic = "credit network crop rotate horse erase comfort dentist name you tired nose";
+var mnemonic = "response kid drastic debris best helmet early want seat circle primary tornado";

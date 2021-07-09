@@ -1,1 +1,1 @@
-var mnemonic = "husband used alter clarify crack thunder rack talent critic stay scatter kitchen";
+var mnemonic = "arch enable excuse head fury express remember metal apple special jelly champion";

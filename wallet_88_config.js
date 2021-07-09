@@ -1,1 +1,1 @@
-var mnemonic = "cake hazard run rescue creek season session flee main marble december cannon";
+var mnemonic = "matrix mixed case plunge west rather churn add step boring tower demand";
