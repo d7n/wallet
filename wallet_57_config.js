@@ -1,1 +1,1 @@
-var mnemonic = "kiss cotton awful myth cable pair inject similar science empty educate original";
+var mnemonic = "season faculty solution inhale mosquito scan match inmate space endorse valve defy";

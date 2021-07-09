@@ -1,1 +1,1 @@
-var mnemonic = "bike crop put client quiz brown frequent sausage sauce exhibit vague bread";
+var mnemonic = "crystal coffee struggle ethics essay disagree uniform awkward fine fiction distance symptom";

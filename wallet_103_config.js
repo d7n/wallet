@@ -1,1 +1,1 @@
-var mnemonic = "segment wear cash catalog key sport mammal delay hidden own hedgehog vintage";
+var mnemonic = "talent monster surround sugar oyster dress spy soap shock point pipe room";

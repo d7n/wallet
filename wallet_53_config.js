@@ -1,1 +1,1 @@
-var mnemonic = "assist romance hair talk quit excuse feed tone report west toy era";
+var mnemonic = "joy monster road stairs woman provide kitten agree bread small exchange analyst";

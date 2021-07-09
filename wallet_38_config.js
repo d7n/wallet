@@ -1,1 +1,1 @@
-var mnemonic = "act already pulse amateur network brisk solve rapid symptom spare camp obey";
+var mnemonic = "decline verify foot pact rescue lawsuit retreat october share husband brave bring";

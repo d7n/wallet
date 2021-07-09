@@ -1,1 +1,1 @@
-var mnemonic = "galaxy purpose unable road clarify captain tooth medal margin federal frame aisle";
+var mnemonic = "ripple party weather buddy predict midnight own sight super artefact pepper shrug";

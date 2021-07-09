@@ -1,1 +1,1 @@
-var mnemonic = "trumpet treat mercy purity bike borrow barely minor wreck party water cargo";
+var mnemonic = "depth execute hope spatial true fall universe proud oven forest hat profit";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle hurry convince witness tooth stuff carpet hungry inquiry crunch settle balcony";
+var mnemonic = "figure olive lion sand source long escape velvet tiger copper just manual";

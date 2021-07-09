@@ -1,1 +1,1 @@
-var mnemonic = "staff write act scene expect embody sight rather together mother cram record";
+var mnemonic = "cereal exclude used cancel body stem assist lawn uncle keep nerve loan";

@@ -1,1 +1,1 @@
-var mnemonic = "twice have satisfy layer tortoise syrup salt slender grant liberty thrive survey";
+var mnemonic = "winter fire hurt crisp student enrich today foam easy boat maximum draw";

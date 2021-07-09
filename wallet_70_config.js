@@ -1,1 +1,1 @@
-var mnemonic = "oven wait alarm chicken gentle slim system razor promote destroy canal enrich";
+var mnemonic = "side bachelor asset hole elbow model host seven expose corn ribbon general";

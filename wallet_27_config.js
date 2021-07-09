@@ -1,1 +1,1 @@
-var mnemonic = "trim bulk million keep display stay average wire dutch access alter rhythm";
+var mnemonic = "sea daughter foster tiger hollow critic monitor mom dragon agent custom glove";

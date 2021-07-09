@@ -1,1 +1,1 @@
-var mnemonic = "pear across pigeon around hedgehog arrange farm cement damp foster room search";
+var mnemonic = "tomorrow fashion shoe dwarf relax balcony horn enable animal battle faint army";

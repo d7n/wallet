@@ -1,1 +1,1 @@
-var mnemonic = "twenty wink profit hungry million keep exchange orient canyon tuition only adjust";
+var mnemonic = "surface pistol put step lion spread letter switch pretty lounge domain actor";

@@ -1,1 +1,1 @@
-var mnemonic = "share nasty update odor naive draw payment sand wave glide frog labor";
+var mnemonic = "tomorrow believe small oyster shadow oppose curve whip bird elbow draft clay";

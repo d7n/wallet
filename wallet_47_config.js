@@ -1,1 +1,1 @@
-var mnemonic = "pig penalty design mix access original improve sword frozen insane outdoor coconut";
+var mnemonic = "sleep park solution arena book peasant tornado now syrup chat width anxiety";

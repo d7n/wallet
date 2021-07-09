@@ -1,1 +1,1 @@
-var mnemonic = "quit vault tumble belt bar cage jazz index assume another just april";
+var mnemonic = "taxi until analyst finish dish media pitch feed riot viable fault place";

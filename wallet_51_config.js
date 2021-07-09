@@ -1,1 +1,1 @@
-var mnemonic = "ivory grape eyebrow essay steak focus wet bracket jump antenna soda engage";
+var mnemonic = "leaf exhaust jacket giggle holiday final rule meadow ask laundry rubber child";

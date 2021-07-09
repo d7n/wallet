@@ -1,1 +1,1 @@
-var mnemonic = "van social detail morning spirit source chimney dress pudding found grape bench";
+var mnemonic = "labor moral double very lyrics cute hockey embark gasp maid hungry sorry";

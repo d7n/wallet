@@ -1,1 +1,1 @@
-var mnemonic = "puzzle enable upgrade guide various chaos hard soap hidden erase install regret";
+var mnemonic = "story they mechanic skin soul expect search awful aim pool among pink";

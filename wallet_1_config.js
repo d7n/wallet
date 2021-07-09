@@ -1,1 +1,1 @@
-var mnemonic = "enemy attract badge crane poverty smart siege steak invite damp victory barrel";
+var mnemonic = "jeans stage odor mistake bike load lunar maple goose cousin crash review";

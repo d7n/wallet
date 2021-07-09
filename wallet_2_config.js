@@ -1,1 +1,1 @@
-var mnemonic = "belt denial apart oblige ranch lawn ship antenna immense home morning excess";
+var mnemonic = "resemble reform teach project project tornado round finish slender honey impact reflect";

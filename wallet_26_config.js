@@ -1,1 +1,1 @@
-var mnemonic = "goose boss grain very arrest arch few state arch connect year abandon";
+var mnemonic = "feed labor imitate party clever inherit own prize beef raven column satoshi";

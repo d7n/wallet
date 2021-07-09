@@ -1,1 +1,1 @@
-var mnemonic = "tragic observe top diet suggest work daring extend first banana company skill";
+var mnemonic = "arena mask auction suspect side person hip post onion clay faith enforce";

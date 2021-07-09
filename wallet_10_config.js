@@ -1,1 +1,1 @@
-var mnemonic = "clip satisfy slow tag noble setup skate produce wisdom hawk culture abstract";
+var mnemonic = "oxygen fever humble noise clarify inherit reason stock dice vendor weather episode";

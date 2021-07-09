@@ -1,1 +1,1 @@
-var mnemonic = "winter where estate alter bicycle envelope then tuition tongue lemon sure friend";
+var mnemonic = "apology brave type piano suspect emotion believe hover update negative doctor fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "panic violin mixture ill wrap mountain polar forward slogan airport maze outside";
+var mnemonic = "piece alien sight enemy detect current inquiry excess romance view sheriff install";

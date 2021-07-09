@@ -1,1 +1,1 @@
-var mnemonic = "icon arm assist antique noise nice amused alcohol hurdle oval clerk lumber";
+var mnemonic = "coyote sadness endorse happy obscure wonder feed chronic cook tree crisp fury";

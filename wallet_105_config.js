@@ -1,1 +1,1 @@
-var mnemonic = "dune nephew tail middle weapon attend advance verify foil live useless this";
+var mnemonic = "saddle notice tornado turtle friend around race team will artwork ugly badge";

@@ -1,1 +1,1 @@
-var mnemonic = "employ snow priority disorder floor sugar purity slice argue chimney head design";
+var mnemonic = "abuse polar glance fabric winner assault wife conduct earth twelve life metal";

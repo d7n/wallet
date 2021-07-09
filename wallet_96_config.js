@@ -1,1 +1,1 @@
-var mnemonic = "increase comic bomb pond tape brain senior tragic rebel crisp congress fruit";
+var mnemonic = "rug off toss copy motion daughter genius tooth joke monster stock surface";

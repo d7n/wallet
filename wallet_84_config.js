@@ -1,1 +1,1 @@
-var mnemonic = "marine stay salad era recycle frame ignore dish stock provide typical run";
+var mnemonic = "eagle nose eyebrow blur bottom grant ceiling walk afford kiwi type vital";

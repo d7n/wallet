@@ -1,1 +1,1 @@
-var mnemonic = "normal cake dignity captain pledge loud tank steak trim divert exchange olive";
+var mnemonic = "deal ranch swallow police master riot crane notable also response dash clean";

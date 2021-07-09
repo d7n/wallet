@@ -1,1 +1,1 @@
-var mnemonic = "book try remove behave employ phone over reopen drama tornado crazy glory";
+var mnemonic = "curtain limb series skirt velvet acoustic artist hour split august state marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "secret afford eight answer invite around super estate advance all awful sock";
+var mnemonic = "merit service satisfy bubble mix panic loyal tuition that artwork another load";

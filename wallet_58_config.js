@@ -1,1 +1,1 @@
-var mnemonic = "fog bomb used daring rug gate another sorry cabin outdoor slow panda";
+var mnemonic = "dignity slogan mimic random student spoil jacket usual sorry car detect recall";

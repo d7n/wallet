@@ -1,1 +1,1 @@
-var mnemonic = "right appear omit engage robot rug kick gift range buddy abandon neither";
+var mnemonic = "senior riot velvet liberty loop tourist much inherit start job fall broken";

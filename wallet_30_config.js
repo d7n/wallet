@@ -1,1 +1,1 @@
-var mnemonic = "delay object human whisper spread gun indicate holiday brown senior anxiety world";
+var mnemonic = "feel grape admit outer surge swallow error snow humor lift mule because";

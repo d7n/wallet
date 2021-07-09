@@ -1,1 +1,1 @@
-var mnemonic = "lunar pet rhythm jewel pass garlic magnet until rely direct happy warrior";
+var mnemonic = "panel success deliver obscure stomach quote spider raccoon ready elite scan burger";

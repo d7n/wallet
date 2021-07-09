@@ -1,1 +1,1 @@
-var mnemonic = "cruise math stamp timber yellow join rain sunny time canyon diesel female";
+var mnemonic = "funny balance knee forum common pilot donate diesel kingdom critic yellow cup";

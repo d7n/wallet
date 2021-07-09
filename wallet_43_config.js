@@ -1,1 +1,1 @@
-var mnemonic = "siren express confirm dawn reunion piano dial true hospital ritual effort exit";
+var mnemonic = "slice burst drift wasp bright gossip sudden uncover credit regular chimney enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "roof coin typical action success wave spread cluster view scheme enjoy record";
+var mnemonic = "clerk receive page rack educate find squirrel pottery fork link original result";

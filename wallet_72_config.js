@@ -1,1 +1,1 @@
-var mnemonic = "walk replace today angry cereal appear swallow atom girl carry victory actor";
+var mnemonic = "famous pretty relief they poverty decide logic subway giraffe record tomato worry";

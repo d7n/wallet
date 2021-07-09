@@ -1,1 +1,1 @@
-var mnemonic = "announce gown spray addict garlic future word exclude foil burger mansion advance";
+var mnemonic = "lend review zebra impulse merry interest snack aunt clean sugar sword hospital";

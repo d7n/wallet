@@ -1,1 +1,1 @@
-var mnemonic = "keen head square because buddy vintage victory mind eyebrow portion pave proud";
+var mnemonic = "actress chat fragile car mask cotton praise crash grace swamp young leader";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage potato expire corn song teach equal visual hope garlic squeeze act";
+var mnemonic = "trend bracket drum differ two chalk settle magic enough acoustic school glue";

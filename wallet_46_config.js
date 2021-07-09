@@ -1,1 +1,1 @@
-var mnemonic = "spider cotton point blame enjoy voice school devote peasant wrong wedding pill";
+var mnemonic = "flight result wife radio sound denial lucky desk add cactus club couple";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk primary attitude gallery enroll stone buyer crowd ordinary illness laptop emotion";
+var mnemonic = "hire walk wrap oblige sunset fix popular satoshi key mad hold eagle";

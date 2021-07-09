@@ -1,1 +1,1 @@
-var mnemonic = "team length apple sure produce talent hollow edge dust cart jelly replace";
+var mnemonic = "funny pact space clever glide torch mushroom comfort device length build skill";

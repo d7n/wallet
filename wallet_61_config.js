@@ -1,1 +1,1 @@
-var mnemonic = "know solid success roast utility syrup menu unusual cool sea outer face";
+var mnemonic = "jazz museum window label unveil reduce source ice debate assault champion exact";

@@ -1,1 +1,1 @@
-var mnemonic = "people throw exact awesome game afraid alpha social effort tray thought laugh";
+var mnemonic = "stool parade curve day fury solve system antenna tape rug fun kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "spend found display company prefer quarter employ dinner nephew wheat person van";
+var mnemonic = "popular isolate steak stage game umbrella rice honey move assist tortoise verb";

@@ -1,1 +1,1 @@
-var mnemonic = "raise end angry salon stone dolphin capable slight best large milk service";
+var mnemonic = "grunt saddle believe shine fever cook usage venue venture valley broken private";

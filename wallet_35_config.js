@@ -1,1 +1,1 @@
-var mnemonic = "magic smooth eagle wise west gospel kangaroo success fire ship jazz gossip";
+var mnemonic = "mean bless orphan around pass crew payment nut hidden recipe leader snow";

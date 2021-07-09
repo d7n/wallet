@@ -1,1 +1,1 @@
-var mnemonic = "auto brave indoor catalog already load magnet coach narrow twenty vehicle decide";
+var mnemonic = "rack major page opinion venue claim liar sample boost bright refuse primary";

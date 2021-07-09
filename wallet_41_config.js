@@ -1,1 +1,1 @@
-var mnemonic = "jacket game flower erode ivory proof sure knock core discover cruel comic";
+var mnemonic = "dinosaur vintage method cross option kiwi pulse fashion similar slush moral donate";

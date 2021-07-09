@@ -1,1 +1,1 @@
-var mnemonic = "slam umbrella tragic urban vendor harbor flag giant zero job repeat identify";
+var mnemonic = "filter tape hero sun habit burst permit island borrow carpet update century";

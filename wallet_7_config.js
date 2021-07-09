@@ -1,1 +1,1 @@
-var mnemonic = "tribe airport buddy whip twenty forget abstract attitude immense yard run brief";
+var mnemonic = "solution language tail rhythm develop case fold surge eager wait glare during";

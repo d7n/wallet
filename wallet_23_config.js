@@ -1,1 +1,1 @@
-var mnemonic = "stable open shed toy case burger inmate occur uniform recipe salt laundry";
+var mnemonic = "field invite service spike popular myth alter ritual auto pass gather surprise";

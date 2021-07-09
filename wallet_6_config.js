@@ -1,1 +1,1 @@
-var mnemonic = "second blood great bone tiger supreme habit door assist once book electric";
+var mnemonic = "ship clever wise prefer property absorb final tourist until treat parent oyster";

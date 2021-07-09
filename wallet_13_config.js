@@ -1,1 +1,1 @@
-var mnemonic = "tube vicious miracle sign debris echo fresh junior limb scene tackle loyal";
+var mnemonic = "image wood sell violin eagle asthma country portion caution fine away name";

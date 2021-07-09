@@ -1,1 +1,1 @@
-var mnemonic = "grocery sock legend trigger amused deliver eye flight require mail accuse chronic";
+var mnemonic = "dizzy negative unlock view below basic skate economy write march frown below";

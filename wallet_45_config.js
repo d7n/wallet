@@ -1,1 +1,1 @@
-var mnemonic = "phrase skin cheap dash float palm hip fiction patrol purpose iron muffin";
+var mnemonic = "rescue merge vessel fold omit polar over evolve congress coconut citizen bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "potato device smoke economy moral fix engage nerve where photo prize practice";
+var mnemonic = "candy brave repair security fuel bring elbow drill seven north filter humor";

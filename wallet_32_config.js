@@ -1,1 +1,1 @@
-var mnemonic = "humble brass curious disease spread village history mind school lens dust craft";
+var mnemonic = "print stable fragile shiver armor spoon stumble access snake practice valve enroll";

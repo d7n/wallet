@@ -1,1 +1,1 @@
-var mnemonic = "team apology scale under coral scheme math transfer bench input fruit neither";
+var mnemonic = "output fresh breeze bounce approve garlic planet indoor talk flush sing install";

@@ -1,1 +1,1 @@
-var mnemonic = "heart blue rare alcohol admit ankle oak resource benefit bright what lobster";
+var mnemonic = "acoustic wedding submit clerk disorder soldier release borrow tumble old provide seek";

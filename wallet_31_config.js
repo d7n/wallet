@@ -1,1 +1,1 @@
-var mnemonic = "stamp sorry nuclear rapid athlete initial vibrant machine speak feed rain quick";
+var mnemonic = "usual output romance range fish blade leg egg tank ginger like pause";

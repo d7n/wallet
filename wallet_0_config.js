@@ -1,1 +1,1 @@
-var mnemonic = "wild voyage prevent become fiscal spoon corn accuse canvas useful lawsuit palace";
+var mnemonic = "permit list grocery negative phrase affair action bomb page obtain element friend";

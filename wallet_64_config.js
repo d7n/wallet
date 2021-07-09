@@ -1,1 +1,1 @@
-var mnemonic = "custom cool know harbor almost just thunder box hero expire notice gain";
+var mnemonic = "audit purpose misery movie adjust better index private choice cheese test gesture";

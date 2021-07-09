@@ -1,1 +1,1 @@
-var mnemonic = "fringe frown bachelor snap situate furnace portion critic matrix public what ceiling";
+var mnemonic = "basic cloth possible taste under tiny spice shift cabbage lounge hazard hunt";

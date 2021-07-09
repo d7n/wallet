@@ -1,1 +1,1 @@
-var mnemonic = "this gaze increase during silver region mask motion drill prosper agree dawn";
+var mnemonic = "waste any devote grace kick code address sunny ice ability price drink";

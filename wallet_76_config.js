@@ -1,1 +1,1 @@
-var mnemonic = "hair help deposit decide despair force total chef priority eager symbol cash";
+var mnemonic = "onion marriage notice rose talk pattern rookie project valve proud hover thing";

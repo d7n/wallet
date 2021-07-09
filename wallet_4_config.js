@@ -1,1 +1,1 @@
-var mnemonic = "age river option chest skate rate brain dismiss evil increase project donor";
+var mnemonic = "kick alarm brief chaos curtain choose satoshi extra half egg diagram anger";

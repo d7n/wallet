@@ -1,1 +1,1 @@
-var mnemonic = "bundle mushroom grant pitch track three orbit grant base wage ability fish";
+var mnemonic = "field provide defy purse magnet nature hope cereal vague bid whip casual";

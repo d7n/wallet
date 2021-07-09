@@ -1,1 +1,1 @@
-var mnemonic = "aunt hover race reveal frog air meadow bunker subway tank lawsuit birth";
+var mnemonic = "fix march afford security fox turn twin strong manual galaxy wrestle wall";

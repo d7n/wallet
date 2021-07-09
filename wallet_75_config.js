@@ -1,1 +1,1 @@
-var mnemonic = "dog intact chalk veteran decide wall donor strategy fragile cupboard beauty soft";
+var mnemonic = "try kiwi enhance must manual hedgehog stairs notable frown save garden glance";

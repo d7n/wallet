@@ -1,1 +1,1 @@
-var mnemonic = "join melody noodle bone place announce digital private sleep repeat enrich decide";
+var mnemonic = "call chronic deal robot immune mesh shrug unfold diary school hidden smoke";

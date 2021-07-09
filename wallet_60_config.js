@@ -1,1 +1,1 @@
-var mnemonic = "mushroom hen symbol unique inquiry term century idea borrow truly gather embody";
+var mnemonic = "glue cool resist warm cat raise dragon fringe mixed letter kit group";

@@ -1,1 +1,1 @@
-var mnemonic = "whip science clip canal spider deer gentle subject expire off squirrel shed";
+var mnemonic = "shy nose wagon tunnel gasp merge mom million lumber liberty old resemble";

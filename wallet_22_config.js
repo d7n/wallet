@@ -1,1 +1,1 @@
-var mnemonic = "hole electric elder deny mind craft relax click bonus warfare puzzle cluster";
+var mnemonic = "found gaze jacket ugly garage march secret memory range video talent flag";

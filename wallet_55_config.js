@@ -1,1 +1,1 @@
-var mnemonic = "recipe gorilla guess glue street elbow analyst pass walnut head cave bracket";
+var mnemonic = "story area lift fire slam type cup three actual index chest turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune spot suspect logic display dragon wink jelly merry dune sleep about";
+var mnemonic = "agree crunch more velvet keep cereal merge assume twin chaos zebra rule";

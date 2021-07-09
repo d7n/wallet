@@ -1,1 +1,1 @@
-var mnemonic = "amused cram dash egg obscure rapid begin dignity poet open ethics message";
+var mnemonic = "discover orient general sea couch present paddle prefer magnet biology fancy shoe";

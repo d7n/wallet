@@ -1,1 +1,1 @@
-var mnemonic = "obtain rude advance cave south gown truth yellow addict tennis flush march";
+var mnemonic = "chronic protect siren camp dignity filter couch honey canvas copy danger advance";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet trick broccoli hip flag there census interest river vintage execute rack";
+var mnemonic = "ready notable canyon abuse pink hybrid coin rib clown stick ladder dry";

@@ -1,1 +1,1 @@
-var mnemonic = "wink system hire churn table crash model shove admit imitate razor soft";
+var mnemonic = "mountain nothing height indicate mix bleak sweet friend brother school float later";
