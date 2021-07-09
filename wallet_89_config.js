@@ -1,1 +1,1 @@
-var mnemonic = "bulk exist page essay occur reward smart image allow arrive spy skirt";
+var mnemonic = "mule awake blue alpha awesome raccoon kitten awake velvet brain armor charge";

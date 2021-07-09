@@ -1,1 +1,1 @@
-var mnemonic = "jaguar embrace purse code tumble dream run capital gospel virus famous arctic";
+var mnemonic = "setup lyrics side fabric melody rebel level stone purse nurse pink electric";

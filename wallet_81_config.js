@@ -1,1 +1,1 @@
-var mnemonic = "source arrange crazy blade mention maple minimum rely version whale book apple";
+var mnemonic = "mad tent gift milk hotel enforce urge outside render gain crush despair";

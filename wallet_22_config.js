@@ -1,1 +1,1 @@
-var mnemonic = "jar festival panther intact front leave cinnamon tide vacuum define tired burger";
+var mnemonic = "town type under basket collect once congress refuse disagree yard crystal rent";

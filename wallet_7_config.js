@@ -1,1 +1,1 @@
-var mnemonic = "tail unhappy flight hurt body nation popular profit camp gentle setup then";
+var mnemonic = "energy quiz sugar consider aware system mammal bone top hazard hedgehog average";

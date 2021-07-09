@@ -1,1 +1,1 @@
-var mnemonic = "find service meat tobacco acoustic comfort hidden swear tip rigid tennis silly";
+var mnemonic = "rare valley federal lava humor mimic escape flip rigid voyage hard oak";

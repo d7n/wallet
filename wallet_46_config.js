@@ -1,1 +1,1 @@
-var mnemonic = "lunar muffin weird series minimum upon often bargain shadow yard forum ill";
+var mnemonic = "pencil unknown virtual depart must sausage couch ramp attract jump hope december";

@@ -1,1 +1,1 @@
-var mnemonic = "social divorce thrive squirrel giggle clinic symptom beef danger fault spider crew";
+var mnemonic = "shock cruel eye object caution input kidney eye card twice circle air";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce bottom stay afford clip leopard suffer clarify tent mimic remember oyster";
+var mnemonic = "replace license spray record hen sword hotel sick cluster stone home draft";

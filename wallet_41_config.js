@@ -1,1 +1,1 @@
-var mnemonic = "total prize final yellow favorite shift language august goose atom seek stock";
+var mnemonic = "negative abandon gold property mother find witness blade image cabbage parade rigid";

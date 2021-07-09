@@ -1,1 +1,1 @@
-var mnemonic = "warfare insane wrestle final work impulse mosquito wreck regular spirit slab valley";
+var mnemonic = "chair plate silk fall ugly label base squeeze palm box catalog ankle";

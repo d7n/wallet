@@ -1,1 +1,1 @@
-var mnemonic = "thank exclude invite critic ocean cinnamon bring tube hard gallery build crash";
+var mnemonic = "next cart dwarf barely initial puzzle panther region carry onion receive nuclear";

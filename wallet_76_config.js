@@ -1,1 +1,1 @@
-var mnemonic = "label august dilemma twist blue pizza drop drink sadness beauty arch arrow";
+var mnemonic = "fruit rib limit excess gas volcano agent picnic device palm under abstract";

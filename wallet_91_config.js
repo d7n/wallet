@@ -1,1 +1,1 @@
-var mnemonic = "cereal anchor banana organ pattern want day carry safe aim assist other";
+var mnemonic = "endorse senior old inside cash trigger arena grow recipe huge cycle artist";

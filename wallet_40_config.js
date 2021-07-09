@@ -1,1 +1,1 @@
-var mnemonic = "child end canvas dynamic badge force love engage always soup physical arrow";
+var mnemonic = "stable parrot penalty pave yard violin display afraid tobacco main lava mirror";

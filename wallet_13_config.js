@@ -1,1 +1,1 @@
-var mnemonic = "evolve merry worry dirt census cage symbol spell gap relax behind glare";
+var mnemonic = "quarter dream lounge census curtain abstract surprise census fat blade shy reject";

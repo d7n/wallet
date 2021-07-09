@@ -1,1 +1,1 @@
-var mnemonic = "valid salt permit scale income rule labor photo picnic hollow fatigue same";
+var mnemonic = "inquiry husband just barely will figure arrange canal castle wool oil tunnel";

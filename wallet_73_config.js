@@ -1,1 +1,1 @@
-var mnemonic = "face squirrel tank loud flat cupboard volcano shy joke spirit valley cart";
+var mnemonic = "skill proof task desk comic common monkey blood number speak find offer";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist budget asthma quantum weird nerve scrub vote cradle exhaust solid remain";
+var mnemonic = "song rail evolve obey render enough friend young slide cheap fluid tourist";

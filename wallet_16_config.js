@@ -1,1 +1,1 @@
-var mnemonic = "stamp adjust nerve veteran install repair combine patient tackle jacket square define";
+var mnemonic = "major fatigue field project model phrase casino tomato play vendor frame tiny";

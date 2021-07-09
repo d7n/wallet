@@ -1,1 +1,1 @@
-var mnemonic = "cage prefer practice cigar august wrap maximum horse property garment occur swim";
+var mnemonic = "gauge record saddle slide attract eight cover submit truth brush bleak clutch";

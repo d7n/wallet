@@ -1,1 +1,1 @@
-var mnemonic = "parrot monster local diagram drop rely survey walk fragile cook over video";
+var mnemonic = "program upset area fade carbon boat allow chaos excess ladder hotel famous";

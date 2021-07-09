@@ -1,1 +1,1 @@
-var mnemonic = "general certain hybrid length dust region push horror there carry draw post";
+var mnemonic = "silver divorce bonus mammal picture myth inmate oven tuna glare candy mosquito";

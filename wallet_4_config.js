@@ -1,1 +1,1 @@
-var mnemonic = "picture jacket enhance castle thunder skin swallow lake hover flame curve tunnel";
+var mnemonic = "spot deny cream analyst fiction mixed fruit diamond middle hurt express bamboo";

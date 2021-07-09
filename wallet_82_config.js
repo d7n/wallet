@@ -1,1 +1,1 @@
-var mnemonic = "leopard public pilot wrong banana choice pigeon fly script busy trust rival";
+var mnemonic = "velvet wet oyster idea proud vote sing coyote cotton account risk elegant";

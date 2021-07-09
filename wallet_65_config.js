@@ -1,1 +1,1 @@
-var mnemonic = "jacket indoor live sad later witness shadow accident recall figure hand comic";
+var mnemonic = "hold cabbage useless glad uncle defy budget start humble object chef income";

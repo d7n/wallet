@@ -1,1 +1,1 @@
-var mnemonic = "device scrub sick pause olive raw album route hero design two museum";
+var mnemonic = "moment goose spin clump hair surprise trumpet demise best puppy doll produce";

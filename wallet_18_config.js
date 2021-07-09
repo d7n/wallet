@@ -1,1 +1,1 @@
-var mnemonic = "stadium leisure wave wine game east solid neutral speak okay shop fresh";
+var mnemonic = "sentence actor tomato saddle warm ensure game monitor badge steak whisper apple";

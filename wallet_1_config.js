@@ -1,1 +1,1 @@
-var mnemonic = "amount kick theory detail ball abuse ginger glimpse repair ski example theme";
+var mnemonic = "web repeat parade there muffin manage fire brain repeat penalty history palm";

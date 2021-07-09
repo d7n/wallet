@@ -1,1 +1,1 @@
-var mnemonic = "feature pink course wife stick response mosquito coil cabin page awake agent";
+var mnemonic = "sibling unfold noble harbor relax maximum glance cool machine horse refuse scene";

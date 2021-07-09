@@ -1,1 +1,1 @@
-var mnemonic = "bracket tonight spike wife supply hurt panda demand reason guess wasp night";
+var mnemonic = "favorite field cherry jelly print aisle uniform current palm spend ceiling romance";

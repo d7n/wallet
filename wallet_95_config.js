@@ -1,1 +1,1 @@
-var mnemonic = "empower broom fault fatigue owner vibrant hobby undo metal scan garlic phrase";
+var mnemonic = "picture proof into select grit beyond burst female gown scan first swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil degree often leaf deliver bone party beef frequent lend ostrich huge";
+var mnemonic = "bulk spoil near memory scorpion unlock youth output young output wrap crisp";

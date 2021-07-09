@@ -1,1 +1,1 @@
-var mnemonic = "remain sort viable quit entry forest note demand sense acid depend remove";
+var mnemonic = "all example tube swamp cost wedding robust sister tattoo rain tent battle";

@@ -1,1 +1,1 @@
-var mnemonic = "scare coil receive abuse flee abandon fiction dizzy fade enlist replace thing";
+var mnemonic = "project gather crystal curious trigger tilt damage leader digital rule tank company";

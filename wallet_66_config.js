@@ -1,1 +1,1 @@
-var mnemonic = "spring display riot silly antenna layer acid suffer rent raccoon keen gate";
+var mnemonic = "round wine return cram image burst try tissue lemon captain novel okay";

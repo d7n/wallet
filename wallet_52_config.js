@@ -1,1 +1,1 @@
-var mnemonic = "mix wage joy purity stairs peace token public image popular judge rally";
+var mnemonic = "extend battle unaware caution scrub ready slim axis coil reward salon atom";

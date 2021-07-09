@@ -1,1 +1,1 @@
-var mnemonic = "super appear erosion priority syrup extra junior leader apology clog offer awkward";
+var mnemonic = "indicate sudden sketch avoid measure next physical place swarm castle gallery witness";

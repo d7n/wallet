@@ -1,1 +1,1 @@
-var mnemonic = "gossip receive exotic spend exclude pen deny funny must leaf buddy awkward";
+var mnemonic = "loud ice loan idea leader legal already add alcohol morning mirror cereal";

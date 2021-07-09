@@ -1,1 +1,1 @@
-var mnemonic = "donate panel great almost time kit buddy advice wisdom extra web aware";
+var mnemonic = "nurse borrow abstract noble swamp empty fire void light walnut arrange body";

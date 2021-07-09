@@ -1,1 +1,1 @@
-var mnemonic = "dinner nothing select away weather there bless power sibling always own blouse";
+var mnemonic = "daughter force jacket girl select tag equal prepare switch frozen trade blast";

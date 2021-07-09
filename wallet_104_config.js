@@ -1,1 +1,1 @@
-var mnemonic = "scan addict rate over renew leave inhale wealth limit sketch lottery loyal";
+var mnemonic = "they funny unknown blind adjust affair sadness skin arena menu velvet loyal";

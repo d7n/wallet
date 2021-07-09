@@ -1,1 +1,1 @@
-var mnemonic = "armor avocado prize more jaguar leopard rich pole assume smile derive habit";
+var mnemonic = "slice stone method liberty child reason alcohol cage monster blood borrow crane";

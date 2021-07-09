@@ -1,1 +1,1 @@
-var mnemonic = "bubble lava combine rescue camera public boat scissors tragic abandon laundry awesome";
+var mnemonic = "panda lawsuit virus clean portion pluck zoo atom praise else ripple mechanic";

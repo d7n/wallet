@@ -1,1 +1,1 @@
-var mnemonic = "immune match world inherit visa worry still deny light elephant cool process";
+var mnemonic = "stadium token tennis ability notice float mail fee salon weather opera fault";

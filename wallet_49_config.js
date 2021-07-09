@@ -1,1 +1,1 @@
-var mnemonic = "depend permit hidden dish fold solid hip cancel typical curious body struggle";
+var mnemonic = "put lawsuit civil raise fire dance flock appear glue month device eager";

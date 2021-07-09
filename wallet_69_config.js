@@ -1,1 +1,1 @@
-var mnemonic = "shift volcano dwarf quantum develop distance turkey walk skirt flip frozen excess";
+var mnemonic = "reject hire slim fox ramp rose eight day neglect popular ostrich gallery";

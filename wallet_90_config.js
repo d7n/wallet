@@ -1,1 +1,1 @@
-var mnemonic = "coil insane fly parrot daughter bind shove ripple menu conduct common cake";
+var mnemonic = "enjoy chunk oil august session glue iron bike hollow cool badge merit";

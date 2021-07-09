@@ -1,1 +1,1 @@
-var mnemonic = "green lobster chicken observe fruit ride fault pigeon elegant pluck dragon advance";
+var mnemonic = "pig firm swap infant jump hood flower journey deny seminar scorpion release";

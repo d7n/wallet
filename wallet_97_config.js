@@ -1,1 +1,1 @@
-var mnemonic = "similar text tobacco olympic tired bid disorder sad cigar story canyon talk";
+var mnemonic = "deer click purity valid allow certain battle token ten absent save endorse";

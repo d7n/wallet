@@ -1,1 +1,1 @@
-var mnemonic = "insane observe despair wife twenty reward unhappy fetch stay wasp female interest";
+var mnemonic = "stay bright divorce duty entire rifle world kidney alien final cancel injury";

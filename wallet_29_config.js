@@ -1,1 +1,1 @@
-var mnemonic = "metal cruel brick slide fiscal tower direct acoustic balcony soon build jeans";
+var mnemonic = "empower panic lounge scrub budget resource organ trim casual board blast seminar";

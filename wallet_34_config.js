@@ -1,1 +1,1 @@
-var mnemonic = "seat drift agent mouse session expose account first elevator liar fatigue athlete";
+var mnemonic = "sock rail holiday fashion wrap gown beauty maximum midnight decline dust garden";

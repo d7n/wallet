@@ -1,1 +1,1 @@
-var mnemonic = "finish acoustic hub slam egg pyramid silk battle observe cable tail swift";
+var mnemonic = "twenty intact crush curious note pottery prosper feel occur almost pepper meat";

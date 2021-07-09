@@ -1,1 +1,1 @@
-var mnemonic = "stone march dilemma shoe away analyst predict board buddy acid face spare";
+var mnemonic = "album injury neglect infant actual canal device bench pitch toast box client";

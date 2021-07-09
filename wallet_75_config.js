@@ -1,1 +1,1 @@
-var mnemonic = "puzzle stay coconut mansion gift believe enough squirrel grape smile brass ice";
+var mnemonic = "program key naive original require ivory sphere entry outer crouch build fatigue";

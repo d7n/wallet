@@ -1,1 +1,1 @@
-var mnemonic = "wise parrot fork journey runway knee regular abuse satisfy discover manual subway";
+var mnemonic = "system rich ill legal clerk stomach tilt render away whisper mention hire";

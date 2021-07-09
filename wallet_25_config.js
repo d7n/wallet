@@ -1,1 +1,1 @@
-var mnemonic = "giant father shock guide picnic shadow digital shop tunnel arch situate welcome";
+var mnemonic = "title zero custom poverty exchange marble material ozone visit cute name wreck";

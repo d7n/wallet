@@ -1,1 +1,1 @@
-var mnemonic = "slush title provide advice upset pass useful vast number chief absorb year";
+var mnemonic = "tube option end session soccer merry course clutch exotic ask lift garlic";

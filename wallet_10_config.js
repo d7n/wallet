@@ -1,1 +1,1 @@
-var mnemonic = "wasp elder either rabbit liberty web quick goddess fox habit ribbon bid";
+var mnemonic = "burst diagram fire salon frequent alter crumble upgrade steel option dance middle";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd coast brass define involve that borrow ticket whale lazy basic museum";
+var mnemonic = "inhale fog shield ceiling museum quick disagree survey disorder bike trust one";

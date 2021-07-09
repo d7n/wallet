@@ -1,1 +1,1 @@
-var mnemonic = "produce reform pilot perfect dilemma garment whip split horse refuse annual noise";
+var mnemonic = "grow private blind until obvious food enlist element luggage talent wait pair";

@@ -1,1 +1,1 @@
-var mnemonic = "number drink guilt mandate derive despair suffer video student festival medal world";
+var mnemonic = "drill heart ring debate bone annual announce enhance question bamboo chaos congress";

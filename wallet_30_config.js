@@ -1,1 +1,1 @@
-var mnemonic = "home win wagon smooth hen surge aisle shoulder brain typical name benefit";
+var mnemonic = "share foot hunt acoustic immune flavor victory dolphin save harvest seminar gift";

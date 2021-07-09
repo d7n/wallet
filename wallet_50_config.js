@@ -1,1 +1,1 @@
-var mnemonic = "arrest belt pig giraffe ritual deposit sheriff nature piano finger denial enjoy";
+var mnemonic = "there humor language output model main program athlete humor desk paddle transfer";

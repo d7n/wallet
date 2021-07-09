@@ -1,1 +1,1 @@
-var mnemonic = "say soon they high coil mistake source symbol can spoil enemy hamster";
+var mnemonic = "reveal deny hill creek video risk rice draw supply type gown series";

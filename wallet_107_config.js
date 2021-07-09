@@ -1,1 +1,1 @@
-var mnemonic = "romance hamster insect fire vapor churn imitate undo wife person rhythm erode";
+var mnemonic = "notable force scheme eight brand lemon extend utility sweet spy rely deer";

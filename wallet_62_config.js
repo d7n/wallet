@@ -1,1 +1,1 @@
-var mnemonic = "zone peanut village you spare apology busy cousin damage token slush survey";
+var mnemonic = "task merge still kind private dash scare visit supreme pear deliver able";

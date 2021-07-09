@@ -1,1 +1,1 @@
-var mnemonic = "flat lunar rifle region burden unveil mixture original solid elephant spread retreat";
+var mnemonic = "there jelly alarm vibrant bunker raise metal panel ritual purse tattoo visa";

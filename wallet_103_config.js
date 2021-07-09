@@ -1,1 +1,1 @@
-var mnemonic = "hover badge pledge trouble soda trial scan virtual warrior toe rely crouch";
+var mnemonic = "improve burden genre shy involve tube sauce trigger shove initial alcohol sting";

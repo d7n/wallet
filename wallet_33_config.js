@@ -1,1 +1,1 @@
-var mnemonic = "cry enemy energy execute hungry until nurse abstract route helmet model assume";
+var mnemonic = "dutch law click icon clip arrive decorate bring toe forum talent wall";

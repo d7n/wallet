@@ -1,1 +1,1 @@
-var mnemonic = "version gift rebuild will secret alert exact tonight pass release enable nuclear";
+var mnemonic = "stone garage robot vague link transfer rose never candy diamond amused buyer";

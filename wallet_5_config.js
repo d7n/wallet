@@ -1,1 +1,1 @@
-var mnemonic = "great body network kangaroo later hour blood frown bring ill betray include";
+var mnemonic = "decide memory laundry zone transfer what flash put snack capital motor butter";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard blind curtain vital trust frog bundle leaf miss public remain damp";
+var mnemonic = "stage bargain top crime butter umbrella naive remain post holiday misery universe";

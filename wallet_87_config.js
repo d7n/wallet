@@ -1,1 +1,1 @@
-var mnemonic = "tackle surprise invite clean cattle busy upgrade estate perfect scare this mad";
+var mnemonic = "sign autumn spend spy spread ordinary jump glare extra short aunt entry";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict rude tag figure list shoot symptom boy short south crane message";
+var mnemonic = "october loan vague bag soldier keen beach piece luxury dish ask civil";

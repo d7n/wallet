@@ -1,1 +1,1 @@
-var mnemonic = "risk lift release about tunnel bullet pool dwarf public entire range shaft";
+var mnemonic = "judge tomato pottery elegant above sight dial issue example embody column budget";

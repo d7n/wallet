@@ -1,1 +1,1 @@
-var mnemonic = "consider unlock distance quick year acid duty faith lake people orbit lecture";
+var mnemonic = "modify prefer there glad hospital rebuild verify foot tooth art kick end";

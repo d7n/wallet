@@ -1,1 +1,1 @@
-var mnemonic = "crowd raw select same ripple giraffe human scene gift sentence approve moment";
+var mnemonic = "rate million frost bulb brick orbit sport broccoli movie apology era art";

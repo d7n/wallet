@@ -1,1 +1,1 @@
-var mnemonic = "gorilla phone roast safe employ spatial air strategy fat tool tooth dolphin";
+var mnemonic = "steak whip evidence beach plug lobster assault shallow crew obvious blood make";

@@ -1,1 +1,1 @@
-var mnemonic = "hover assist monitor jungle food age flip gentle below swim decorate badge";
+var mnemonic = "bus myth flame flame issue cargo slim release drum avocado silly shed";

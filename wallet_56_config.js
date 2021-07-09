@@ -1,1 +1,1 @@
-var mnemonic = "twelve word hidden tiny undo object concert dad spoon actual until task";
+var mnemonic = "antenna recipe dish yellow gossip scatter breeze farm tool ugly fire three";

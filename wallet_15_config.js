@@ -1,1 +1,1 @@
-var mnemonic = "promote animal deer judge slim depth blush rifle pink decrease toward business";
+var mnemonic = "ginger enemy north stumble name awesome crack reveal egg toward burst lava";

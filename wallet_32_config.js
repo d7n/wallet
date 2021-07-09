@@ -1,1 +1,1 @@
-var mnemonic = "web virus grain obey mule jewel patrol zoo almost manual attack deposit";
+var mnemonic = "setup access return surround fun snow neither south measure rich split blur";

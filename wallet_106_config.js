@@ -1,1 +1,1 @@
-var mnemonic = "minimum final tennis route noise two random cushion style ten upgrade swim";
+var mnemonic = "cruel genius predict alone steak mobile option symptom trigger tongue resist unhappy";

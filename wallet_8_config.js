@@ -1,1 +1,1 @@
-var mnemonic = "excite clog wreck narrow butter bench cover lucky grain modify feed panther";
+var mnemonic = "body squeeze muffin exchange physical stumble table fossil differ album giggle want";

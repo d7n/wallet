@@ -1,1 +1,1 @@
-var mnemonic = "utility try model century error slow avoid employ trumpet horn giant begin";
+var mnemonic = "plastic term matrix laptop illness effort front tobacco link divide social opinion";

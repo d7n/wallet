@@ -1,1 +1,1 @@
-var mnemonic = "safe exact kingdom casino educate air equal better bench morning goddess true";
+var mnemonic = "drift rubber slush stone sentence friend weird stem ugly wall exhibit hair";
