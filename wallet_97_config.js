@@ -1,1 +1,1 @@
-var mnemonic = "ripple party weather buddy predict midnight own sight super artefact pepper shrug";
+var mnemonic = "reveal matter inject grab grief arrange suffer venture slot improve hunt mountain";

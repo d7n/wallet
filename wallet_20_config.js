@@ -1,1 +1,1 @@
-var mnemonic = "dizzy negative unlock view below basic skate economy write march frown below";
+var mnemonic = "ranch mountain spike enable host attitude puzzle crystal correct disorder once dizzy";

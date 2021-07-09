@@ -1,1 +1,1 @@
-var mnemonic = "dignity slogan mimic random student spoil jacket usual sorry car detect recall";
+var mnemonic = "pluck narrow present art sausage end order virus finger state pull busy";

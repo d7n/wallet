@@ -1,1 +1,1 @@
-var mnemonic = "image wood sell violin eagle asthma country portion caution fine away name";
+var mnemonic = "force expect ketchup potato net result potato royal cabin answer toast rich";

@@ -1,1 +1,1 @@
-var mnemonic = "agree crunch more velvet keep cereal merge assume twin chaos zebra rule";
+var mnemonic = "brand cook artwork auto ozone detect debate guard mask quantum pencil very";

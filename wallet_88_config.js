@@ -1,1 +1,1 @@
-var mnemonic = "crystal coffee struggle ethics essay disagree uniform awkward fine fiction distance symptom";
+var mnemonic = "floor fuel chair trap aware nose total video hood absurd crash melody";

@@ -1,1 +1,1 @@
-var mnemonic = "wool tone boat purse knock zoo ship acquire key jump youth slow";
+var mnemonic = "brother because town original autumn club since bullet indoor hedgehog mixed help";

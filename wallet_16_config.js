@@ -1,1 +1,1 @@
-var mnemonic = "inch fatal busy keen width tiny mandate twenty guitar monster similar veteran";
+var mnemonic = "mutual setup doctor olympic myself vault anchor shoe always front brown educate";

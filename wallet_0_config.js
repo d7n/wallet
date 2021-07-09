@@ -1,1 +1,1 @@
-var mnemonic = "permit list grocery negative phrase affair action bomb page obtain element friend";
+var mnemonic = "tired bubble unhappy chimney sound glow favorite engage mango vintage legend army";

@@ -1,1 +1,1 @@
-var mnemonic = "hire walk wrap oblige sunset fix popular satoshi key mad hold eagle";
+var mnemonic = "century ranch hub syrup among average analyst bulb good cannon alone help";

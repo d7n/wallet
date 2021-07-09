@@ -1,1 +1,1 @@
-var mnemonic = "dirt hockey yard nation wasp sight actual photo assault syrup repair disorder";
+var mnemonic = "fit shell stool travel shoot vacant dance marine guess current square success";

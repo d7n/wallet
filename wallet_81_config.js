@@ -1,1 +1,1 @@
-var mnemonic = "waste any devote grace kick code address sunny ice ability price drink";
+var mnemonic = "fresh worth vivid success bunker mandate doll liar song drama scrub please";

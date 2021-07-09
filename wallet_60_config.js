@@ -1,1 +1,1 @@
-var mnemonic = "glue cool resist warm cat raise dragon fringe mixed letter kit group";
+var mnemonic = "below thank indicate stand remove garbage narrow menu casual across congress season";

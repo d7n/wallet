@@ -1,1 +1,1 @@
-var mnemonic = "ostrich matter expire require fan cereal top spoon often beauty inject tunnel";
+var mnemonic = "vanish arch news world affair youth group vapor wash ski theory have";

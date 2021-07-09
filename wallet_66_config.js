@@ -1,1 +1,1 @@
-var mnemonic = "trend bracket drum differ two chalk settle magic enough acoustic school glue";
+var mnemonic = "screen suit tube future resource frame donkey apple need arrest age stage";

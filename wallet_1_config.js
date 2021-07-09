@@ -1,1 +1,1 @@
-var mnemonic = "jeans stage odor mistake bike load lunar maple goose cousin crash review";
+var mnemonic = "coast broom smoke bag useless work sell cliff proud vessel early believe";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz museum window label unveil reduce source ice debate assault champion exact";
+var mnemonic = "tattoo need crane cotton option question drive canoe clown pepper next slice";

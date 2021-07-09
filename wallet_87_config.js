@@ -1,1 +1,1 @@
-var mnemonic = "side salt interest electric embrace soldier edge accident will tag jump giant";
+var mnemonic = "various voice body village tonight design bean female awkward use target lesson";

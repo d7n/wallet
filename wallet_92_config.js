@@ -1,1 +1,1 @@
-var mnemonic = "fix march afford security fox turn twin strong manual galaxy wrestle wall";
+var mnemonic = "interest arrest approve category absorb price alcohol fall office asset unfair describe";

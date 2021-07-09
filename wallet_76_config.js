@@ -1,1 +1,1 @@
-var mnemonic = "onion marriage notice rose talk pattern rookie project valve proud hover thing";
+var mnemonic = "elevator proud dove frame hybrid cause normal indicate black island biology sunset";

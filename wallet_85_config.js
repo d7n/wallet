@@ -1,1 +1,1 @@
-var mnemonic = "cereal exclude used cancel body stem assist lawn uncle keep nerve loan";
+var mnemonic = "permit claim magic bird dish rebuild wonder vicious produce excuse large train";

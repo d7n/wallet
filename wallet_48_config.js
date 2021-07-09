@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow fashion shoe dwarf relax balcony horn enable animal battle faint army";
+var mnemonic = "exact shallow retire cabin castle author calm brief junk wrist bamboo march";

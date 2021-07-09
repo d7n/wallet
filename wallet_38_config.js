@@ -1,1 +1,1 @@
-var mnemonic = "decline verify foot pact rescue lawsuit retreat october share husband brave bring";
+var mnemonic = "town sunset choice rural spider negative diesel level buffalo giant toddler whip";

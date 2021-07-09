@@ -1,1 +1,1 @@
-var mnemonic = "leaf exhaust jacket giggle holiday final rule meadow ask laundry rubber child";
+var mnemonic = "magnet rich address knee eager cake confirm cherry what throw dinosaur trick";

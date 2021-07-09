@@ -1,1 +1,1 @@
-var mnemonic = "feed labor imitate party clever inherit own prize beef raven column satoshi";
+var mnemonic = "flight mail crew confirm reason clinic curve inhale fossil illegal review purchase";

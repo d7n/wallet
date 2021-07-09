@@ -1,1 +1,1 @@
-var mnemonic = "vibrant quality category tilt control hair senior say umbrella benefit aerobic suggest";
+var mnemonic = "demand blue fetch bid salute ill draft forget fame provide copy chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk receive page rack educate find squirrel pottery fork link original result";
+var mnemonic = "pledge duty pulp weekend type plate taxi disagree post fragile oak hurry";

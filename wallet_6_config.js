@@ -1,1 +1,1 @@
-var mnemonic = "ship clever wise prefer property absorb final tourist until treat parent oyster";
+var mnemonic = "among later spice kick chase roast beyond message off steak kiwi future";

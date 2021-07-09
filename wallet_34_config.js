@@ -1,1 +1,1 @@
-var mnemonic = "senior trial panther off seminar legal upset giraffe lazy excuse stem bulb";
+var mnemonic = "forget grunt slender witness wait jewel reward winner humor burst pumpkin chair";

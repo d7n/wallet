@@ -1,1 +1,1 @@
-var mnemonic = "mean bless orphan around pass crew payment nut hidden recipe leader snow";
+var mnemonic = "rule box clay soft resemble walk verb silly trouble barely merry raven";

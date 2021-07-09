@@ -1,1 +1,1 @@
-var mnemonic = "joy monster road stairs woman provide kitten agree bread small exchange analyst";
+var mnemonic = "undo toast fall oak subject video turkey boss true venue regret dizzy";

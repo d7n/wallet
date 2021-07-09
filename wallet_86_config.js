@@ -1,1 +1,1 @@
-var mnemonic = "popular isolate steak stage game umbrella rice honey move assist tortoise verb";
+var mnemonic = "average sea fork analyst teach deny pole twenty pet crunch victory victory";

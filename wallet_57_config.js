@@ -1,1 +1,1 @@
-var mnemonic = "season faculty solution inhale mosquito scan match inmate space endorse valve defy";
+var mnemonic = "title scale insect tent service addict peace swim derive stable slush develop";

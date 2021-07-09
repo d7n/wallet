@@ -1,1 +1,1 @@
-var mnemonic = "filter tape hero sun habit burst permit island borrow carpet update century";
+var mnemonic = "fan okay syrup blouse birth sheriff walnut artwork copy trip crystal claim";

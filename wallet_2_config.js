@@ -1,1 +1,1 @@
-var mnemonic = "resemble reform teach project project tornado round finish slender honey impact reflect";
+var mnemonic = "loud moon client common subject embark fire ivory frozen under maximum bounce";

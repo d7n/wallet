@@ -1,1 +1,1 @@
-var mnemonic = "story they mechanic skin soul expect search awful aim pool among pink";
+var mnemonic = "balance slogan coffee base evil meat domain trophy jump dog become long";

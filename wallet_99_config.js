@@ -1,1 +1,1 @@
-var mnemonic = "discover orient general sea couch present paddle prefer magnet biology fancy shoe";
+var mnemonic = "noodle load leader attack deal super key raven ten silver tiger cause";

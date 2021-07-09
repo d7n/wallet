@@ -1,1 +1,1 @@
-var mnemonic = "inhale jump rely hedgehog industry half want describe afraid cover barrel action";
+var mnemonic = "inflict day scare tired dilemma typical toilet real cram advice large female";

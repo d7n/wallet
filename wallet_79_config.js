@@ -1,1 +1,1 @@
-var mnemonic = "ready notable canyon abuse pink hybrid coin rib clown stick ladder dry";
+var mnemonic = "average question remind bright potato garden rate title beyond session street bread";

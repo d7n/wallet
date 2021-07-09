@@ -1,1 +1,1 @@
-var mnemonic = "basic cloth possible taste under tiny spice shift cabbage lounge hazard hunt";
+var mnemonic = "spot uniform forget foster gas clay season quit amateur doll yellow candy";

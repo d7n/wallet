@@ -1,1 +1,1 @@
-var mnemonic = "lens gossip client aware dish talent crisp siren mass funny arm visit";
+var mnemonic = "neglect combine real innocent giggle antique child ribbon umbrella scene vapor real";

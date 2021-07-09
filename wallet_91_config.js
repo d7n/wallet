@@ -1,1 +1,1 @@
-var mnemonic = "lend review zebra impulse merry interest snack aunt clean sugar sword hospital";
+var mnemonic = "time toss picnic opinion find right clutch ribbon air bind easy plate";

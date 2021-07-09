@@ -1,1 +1,1 @@
-var mnemonic = "labor moral double very lyrics cute hockey embark gasp maid hungry sorry";
+var mnemonic = "able shiver clutch gadget high type blade category worry beef congress promote";

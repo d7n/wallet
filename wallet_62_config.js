@@ -1,1 +1,1 @@
-var mnemonic = "heart crash absurd tobacco exit portion bomb wide short glass blast cabin";
+var mnemonic = "delay goddess chronic glove pledge embody black disagree fan fruit tape analyst";

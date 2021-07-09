@@ -1,1 +1,1 @@
-var mnemonic = "call chronic deal robot immune mesh shrug unfold diary school hidden smoke";
+var mnemonic = "process catch place phrase bean young hamster sustain affair debris goose rule";

@@ -1,1 +1,1 @@
-var mnemonic = "senior riot velvet liberty loop tourist much inherit start job fall broken";
+var mnemonic = "spray junior bicycle sun drink virus metal project danger absurd excite live";

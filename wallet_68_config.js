@@ -1,1 +1,1 @@
-var mnemonic = "curtain limb series skirt velvet acoustic artist hour split august state marriage";
+var mnemonic = "famous dynamic captain because spring memory ozone affair awesome truth room crouch";

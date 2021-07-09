@@ -1,1 +1,1 @@
-var mnemonic = "found gaze jacket ugly garage march secret memory range video talent flag";
+var mnemonic = "embrace lift vivid display only vague machine balance beef knee salt stay";

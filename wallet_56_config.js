@@ -1,1 +1,1 @@
-var mnemonic = "depth execute hope spatial true fall universe proud oven forest hat profit";
+var mnemonic = "garage else solution destroy vehicle coffee rather lounge pioneer man sketch lizard";

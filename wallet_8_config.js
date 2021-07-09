@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow believe small oyster shadow oppose curve whip bird elbow draft clay";
+var mnemonic = "anxiety clerk invest trick chimney point jacket they slide edit public census";

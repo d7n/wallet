@@ -1,1 +1,1 @@
-var mnemonic = "field invite service spike popular myth alter ritual auto pass gather surprise";
+var mnemonic = "amused female else photo eyebrow hotel uphold enrich leopard hand carry canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "story area lift fire slam type cup three actual index chest turtle";
+var mnemonic = "record property rich chapter upon execute deposit carbon disorder kid buffalo spy";

@@ -1,1 +1,1 @@
-var mnemonic = "figure olive lion sand source long escape velvet tiger copper just manual";
+var mnemonic = "hurdle kingdom mean about pudding regret decide cigar climb seek quote tattoo";

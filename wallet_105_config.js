@@ -1,1 +1,1 @@
-var mnemonic = "saddle notice tornado turtle friend around race team will artwork ugly badge";
+var mnemonic = "fix crane embody ridge pipe ordinary wrist brass potato pet welcome robot";

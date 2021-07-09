@@ -1,1 +1,1 @@
-var mnemonic = "output fresh breeze bounce approve garlic planet indoor talk flush sing install";
+var mnemonic = "fiction pulse horror near satisfy coast plug yard ceiling orphan raw panther";

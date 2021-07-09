@@ -1,1 +1,1 @@
-var mnemonic = "chronic protect siren camp dignity filter couch honey canvas copy danger advance";
+var mnemonic = "dwarf divide belt mad fog water magic infant very include onion gallery";

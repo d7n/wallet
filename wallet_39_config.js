@@ -1,1 +1,1 @@
-var mnemonic = "panel success deliver obscure stomach quote spider raccoon ready elite scan burger";
+var mnemonic = "profit weasel goat write portion grief chapter december impact chimney razor sibling";

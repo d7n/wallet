@@ -1,1 +1,1 @@
-var mnemonic = "ignore fatal tissue depth wage tooth olive wagon crunch oblige good shy";
+var mnemonic = "violin hero portion orchard evolve release series idle apart once avocado apology";

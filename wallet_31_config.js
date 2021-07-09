@@ -1,1 +1,1 @@
-var mnemonic = "usual output romance range fish blade leg egg tank ginger like pause";
+var mnemonic = "approve dad weekend quarter crumble hamster upgrade flat can this coil visual";

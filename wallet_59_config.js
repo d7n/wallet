@@ -1,1 +1,1 @@
-var mnemonic = "visit debris guilt quality ritual endorse tuition ridge few liar donkey drastic";
+var mnemonic = "else direct bracket fog issue forward door aspect jar badge noise assault";

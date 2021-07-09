@@ -1,1 +1,1 @@
-var mnemonic = "famous pretty relief they poverty decide logic subway giraffe record tomato worry";
+var mnemonic = "liquid trim ostrich insane museum weapon prepare sail say tuition snack mention";

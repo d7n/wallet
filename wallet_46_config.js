@@ -1,1 +1,1 @@
-var mnemonic = "flight result wife radio sound denial lucky desk add cactus club couple";
+var mnemonic = "pride conduct post patch glance output child used dragon mixture term this";

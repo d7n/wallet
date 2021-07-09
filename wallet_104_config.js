@@ -1,1 +1,1 @@
-var mnemonic = "funny pact space clever glide torch mushroom comfort device length build skill";
+var mnemonic = "bus first teach suspect tackle country else autumn unknown squirrel bridge clock";

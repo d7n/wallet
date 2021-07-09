@@ -1,1 +1,1 @@
-var mnemonic = "apology brave type piano suspect emotion believe hover update negative doctor fantasy";
+var mnemonic = "obey exit loud punch fan moon leg off jump forget soldier digital";

@@ -1,1 +1,1 @@
-var mnemonic = "kick alarm brief chaos curtain choose satoshi extra half egg diagram anger";
+var mnemonic = "style super hold cool file vital dice monitor olive favorite phone panel";

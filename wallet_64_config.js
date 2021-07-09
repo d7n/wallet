@@ -1,1 +1,1 @@
-var mnemonic = "audit purpose misery movie adjust better index private choice cheese test gesture";
+var mnemonic = "resist curious hybrid goat title burger habit around photo lizard permit parrot";

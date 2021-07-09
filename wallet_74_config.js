@@ -1,1 +1,1 @@
-var mnemonic = "shy nose wagon tunnel gasp merge mom million lumber liberty old resemble";
+var mnemonic = "crazy nut frame enlist tiger type know ensure rebel number harsh side";

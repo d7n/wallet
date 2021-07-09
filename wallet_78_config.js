@@ -1,1 +1,1 @@
-var mnemonic = "merit service satisfy bubble mix panic loyal tuition that artwork another load";
+var mnemonic = "odor brand wheat adapt office path upon please first pledge width entire";

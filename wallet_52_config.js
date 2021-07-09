@@ -1,1 +1,1 @@
-var mnemonic = "field provide defy purse magnet nature hope cereal vague bid whip casual";
+var mnemonic = "interest jealous direct cousin medal idea obvious across exercise two present gold";

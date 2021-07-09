@@ -1,1 +1,1 @@
-var mnemonic = "winter fire hurt crisp student enrich today foam easy boat maximum draw";
+var mnemonic = "angry host girl valid liquid trash exotic current liar area youth exit";

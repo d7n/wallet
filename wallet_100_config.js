@@ -1,1 +1,1 @@
-var mnemonic = "piece alien sight enemy detect current inquiry excess romance view sheriff install";
+var mnemonic = "body shoulder alcohol scare success roast boy resource aerobic magic meadow catch";

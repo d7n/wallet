@@ -1,1 +1,1 @@
-var mnemonic = "sleep park solution arena book peasant tornado now syrup chat width anxiety";
+var mnemonic = "select among hundred excess spoon innocent february weapon report sauce tongue length";

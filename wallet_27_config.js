@@ -1,1 +1,1 @@
-var mnemonic = "sea daughter foster tiger hollow critic monitor mom dragon agent custom glove";
+var mnemonic = "excess clay design say approve junk wheel bid still blade upset fan";

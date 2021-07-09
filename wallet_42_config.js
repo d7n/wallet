@@ -1,1 +1,1 @@
-var mnemonic = "candy brave repair security fuel bring elbow drill seven north filter humor";
+var mnemonic = "thought sick rhythm order busy royal struggle robot month royal movie embark";

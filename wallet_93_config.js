@@ -1,1 +1,1 @@
-var mnemonic = "thought fun design ostrich ripple this treat spring purchase tooth wet evil";
+var mnemonic = "caution noise room plug domain spring jewel smile paddle laptop curtain undo";

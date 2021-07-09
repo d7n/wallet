@@ -1,1 +1,1 @@
-var mnemonic = "solution language tail rhythm develop case fold surge eager wait glare during";
+var mnemonic = "boy nasty idle road mention amount fee dice shuffle taxi exist patrol";

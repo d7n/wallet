@@ -1,1 +1,1 @@
-var mnemonic = "side bachelor asset hole elbow model host seven expose corn ribbon general";
+var mnemonic = "tattoo abstract relief galaxy exercise oblige inmate fatal boil trophy become later";

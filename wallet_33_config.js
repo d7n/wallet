@@ -1,1 +1,1 @@
-var mnemonic = "mountain nothing height indicate mix bleak sweet friend brother school float later";
+var mnemonic = "fiction protect bread lawsuit unhappy true business connect alien flush swift fun";

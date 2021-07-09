@@ -1,1 +1,1 @@
-var mnemonic = "slice burst drift wasp bright gossip sudden uncover credit regular chimney enemy";
+var mnemonic = "capital funny ivory that fuel girl film game fiber oxygen fiber describe";

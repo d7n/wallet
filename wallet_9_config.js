@@ -1,1 +1,1 @@
-var mnemonic = "deal ranch swallow police master riot crane notable also response dash clean";
+var mnemonic = "blanket twelve tell charge merge rug prevent trade pulp diary click slight";

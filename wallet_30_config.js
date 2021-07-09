@@ -1,1 +1,1 @@
-var mnemonic = "feel grape admit outer surge swallow error snow humor lift mule because";
+var mnemonic = "almost stem edit magnet stock model disorder accuse today cancel spider primary";

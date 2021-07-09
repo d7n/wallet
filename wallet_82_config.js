@@ -1,1 +1,1 @@
-var mnemonic = "chat inhale orange cupboard garden vintage blast pepper icon tiny spike rifle";
+var mnemonic = "program ensure alone mind poet pig vibrant couple balcony ahead seminar unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "speak snap melt dumb garage host birth shock garage caution kiss what";
+var mnemonic = "engine route model boost ugly bitter forward stereo casual average process gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon actress hill wool concert measure rival faith bike zero best pen";
+var mnemonic = "celery obvious style magic system nephew mix noise person inner famous dice";

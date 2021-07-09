@@ -1,1 +1,1 @@
-var mnemonic = "rescue merge vessel fold omit polar over evolve congress coconut citizen bundle";
+var mnemonic = "staff iron album wrap punch language frequent engage cheap coconut combine daring";

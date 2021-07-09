@@ -1,1 +1,1 @@
-var mnemonic = "rug off toss copy motion daughter genius tooth joke monster stock surface";
+var mnemonic = "drill plastic hazard shell arena maid taste roast wash castle fitness renew";

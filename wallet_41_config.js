@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur vintage method cross option kiwi pulse fashion similar slush moral donate";
+var mnemonic = "captain lunar pizza swift wrong old service empty unlock jelly wagon mango";

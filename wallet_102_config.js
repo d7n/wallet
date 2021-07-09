@@ -1,1 +1,1 @@
-var mnemonic = "arena mask auction suspect side person hip post onion clay faith enforce";
+var mnemonic = "day flock canvas hurry aware jaguar cannon conduct response hockey blur try";

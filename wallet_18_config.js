@@ -1,1 +1,1 @@
-var mnemonic = "coyote sadness endorse happy obscure wonder feed chronic cook tree crisp fury";
+var mnemonic = "chapter useful siren castle begin nuclear estate library citizen vanish panel pottery";

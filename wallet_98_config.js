@@ -1,1 +1,1 @@
-var mnemonic = "abuse polar glance fabric winner assault wife conduct earth twelve life metal";
+var mnemonic = "slight alone attend pet ethics dumb health gym swim similar balcony grit";

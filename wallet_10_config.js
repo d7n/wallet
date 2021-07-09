@@ -1,1 +1,1 @@
-var mnemonic = "oxygen fever humble noise clarify inherit reason stock dice vendor weather episode";
+var mnemonic = "olive drift grid guard deal tobacco profit zero salon any yellow agree";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado utility camp fold uphold retire donate armor milk timber congress wash";
+var mnemonic = "gap rapid tomorrow seat habit opinion session local noodle already dwarf novel";
