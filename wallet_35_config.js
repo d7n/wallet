@@ -1,1 +1,1 @@
-var mnemonic = "armed express detect reward wing lazy blame later fuel taste smart parade";
+var mnemonic = "tuna december foil stuff brick master search easy today dignity dad sustain";

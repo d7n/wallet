@@ -1,1 +1,1 @@
-var mnemonic = "blind decide habit arctic unfold island brain syrup uphold tonight catalog hint";
+var mnemonic = "draw man upset bomb enjoy obscure balcony addict amateur fence impact raccoon";

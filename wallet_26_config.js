@@ -1,1 +1,1 @@
-var mnemonic = "already report proof number boat broom celery fog fringe video crater size";
+var mnemonic = "mercy sorry student ability spy error talk dust occur banana scout carry";

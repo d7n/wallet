@@ -1,1 +1,1 @@
-var mnemonic = "special tide onion outer elder stable balance stable chef swallow rib bacon";
+var mnemonic = "panther fine acid whale oblige thing merit fever hour pencil grape priority";

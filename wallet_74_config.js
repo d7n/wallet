@@ -1,1 +1,1 @@
-var mnemonic = "dry wash ridge beyond author thrive salmon world radio apart aunt track";
+var mnemonic = "mule bring thing mechanic dress spare tornado reflect zebra insect scrub veteran";

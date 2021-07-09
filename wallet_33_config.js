@@ -1,1 +1,1 @@
-var mnemonic = "file cupboard area world behave tonight old wreck kingdom drop type tobacco";
+var mnemonic = "truly regular social shiver exile dog hedgehog gossip bag deal final vacant";

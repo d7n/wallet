@@ -1,1 +1,1 @@
-var mnemonic = "card inhale photo define excuse simple lonely charge list fit slab swallow";
+var mnemonic = "assume foster blur industry slender virtual country funny frame ticket radar unit";

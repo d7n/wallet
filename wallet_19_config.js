@@ -1,1 +1,1 @@
-var mnemonic = "nose already basket lonely gasp live road legend belt garden ostrich congress";
+var mnemonic = "age video culture coconut essay add crop tide cube develop require mutual";

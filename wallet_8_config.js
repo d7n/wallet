@@ -1,1 +1,1 @@
-var mnemonic = "digital cram cash wall sponsor uncle green mass liar pause weapon slight";
+var mnemonic = "hurdle wealth hat nominee fury crystal leader approve shrug delay hurt hundred";

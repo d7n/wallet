@@ -1,1 +1,1 @@
-var mnemonic = "fortune matter print mirror harbor sunset combine feed advice bundle notice lamp";
+var mnemonic = "rule flight trial sauce reform surface settle bag impulse taxi very oak";

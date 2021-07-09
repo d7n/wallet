@@ -1,1 +1,1 @@
-var mnemonic = "cousin piano spice gate cube husband priority wagon burst try apology infant";
+var mnemonic = "captain mosquito stairs noise educate distance beach own hobby flash joke weather";

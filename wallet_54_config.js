@@ -1,1 +1,1 @@
-var mnemonic = "door myth exist divorce drive theory relax magic boss nice brush base";
+var mnemonic = "shield panic damage jazz great stone lawn addict follow jeans toss act";

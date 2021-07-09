@@ -1,1 +1,1 @@
-var mnemonic = "fatal wreck index empower ghost carpet auction upgrade author cause scan sing";
+var mnemonic = "when stamp extra there wasp require gun injury bleak hurt student adult";

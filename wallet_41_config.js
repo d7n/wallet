@@ -1,1 +1,1 @@
-var mnemonic = "wire topple parrot sign small lab bundle silent chuckle fashion winter myth";
+var mnemonic = "mother jungle smart attract kick scorpion quit zebra that impose equal napkin";

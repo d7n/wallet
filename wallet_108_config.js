@@ -1,1 +1,1 @@
-var mnemonic = "someone lemon egg together fault hotel basket usage episode know usage antique";
+var mnemonic = "economy enjoy crouch later bring tape chef scare chimney hungry then lunch";

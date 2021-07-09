@@ -1,1 +1,1 @@
-var mnemonic = "learn wheel globe panther evoke tuna still chair sadness lawsuit reform until";
+var mnemonic = "raise cute gown tattoo dust harvest hold road mobile fitness journey deer";

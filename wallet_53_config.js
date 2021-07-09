@@ -1,1 +1,1 @@
-var mnemonic = "address injury grow brown shine goose purpose lobster jealous pill rack hundred";
+var mnemonic = "confirm churn utility predict wool thank off come express amused panel guard";

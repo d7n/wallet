@@ -1,1 +1,1 @@
-var mnemonic = "oval black stable supreme autumn strike street original stadium regular rare infant";
+var mnemonic = "loud eight fiber dune bullet behind frown crunch timber used pioneer behave";

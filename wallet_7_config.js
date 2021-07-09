@@ -1,1 +1,1 @@
-var mnemonic = "move borrow play leaf strategy resemble never wait web glory delay flash";
+var mnemonic = "whale smart autumn edit wedding thunder sell radar evolve limit fun income";

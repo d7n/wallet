@@ -1,1 +1,1 @@
-var mnemonic = "error taste december dad fashion six attitude enemy usual benefit nut iron";
+var mnemonic = "coach fork hood trouble cancel scrub script vintage since anchor rain coil";

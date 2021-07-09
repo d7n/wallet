@@ -1,1 +1,1 @@
-var mnemonic = "movie super increase hybrid ensure target legend source donate draw initial vacuum";
+var mnemonic = "flee winter sibling reopen gift bracket relax fault amazing chase control meat";

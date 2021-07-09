@@ -1,1 +1,1 @@
-var mnemonic = "whale exile library swear round blanket odor bullet text door plunge penalty";
+var mnemonic = "tomato author dry render ladder kick sock gadget huge coin reform jump";

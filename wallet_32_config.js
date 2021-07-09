@@ -1,1 +1,1 @@
-var mnemonic = "broccoli demise deny dog stage suspect letter sentence electric nephew claw episode";
+var mnemonic = "eager pride common episode fashion hawk boost into acid critic auction eternal";

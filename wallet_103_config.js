@@ -1,1 +1,1 @@
-var mnemonic = "resource tribe category vanish brave scan certain occur trash distance hollow track";
+var mnemonic = "barely blue oven seek about erupt venture drop slogan isolate sweet common";

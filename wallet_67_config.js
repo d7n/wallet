@@ -1,1 +1,1 @@
-var mnemonic = "tissue betray draft athlete double embrace corn struggle boring ride fresh rocket";
+var mnemonic = "over unable boring noodle concert retire give shrug undo ship trick grief";

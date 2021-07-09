@@ -1,1 +1,1 @@
-var mnemonic = "tiny verify weekend ridge close bar submit phone immune vacuum fame menu";
+var mnemonic = "say unlock iron illness vote tenant kind sand mechanic this pledge network";

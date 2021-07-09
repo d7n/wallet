@@ -1,1 +1,1 @@
-var mnemonic = "danger raccoon art jelly evoke tissue reject excess slogan tube judge ski";
+var mnemonic = "onion hole matter desk decide muffin refuse urge reopen group snow snap";

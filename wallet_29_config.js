@@ -1,1 +1,1 @@
-var mnemonic = "custom exhaust mansion paddle race satoshi find figure pave shiver gadget fame";
+var mnemonic = "borrow secret slush smart zero auto mimic steak truth cart logic dice";

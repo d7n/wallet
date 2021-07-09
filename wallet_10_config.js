@@ -1,1 +1,1 @@
-var mnemonic = "awake onion update pattern pride soon expand donate whale kite trouble wing";
+var mnemonic = "rib exile struggle eight twenty list shaft expand punch vapor beach idle";

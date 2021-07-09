@@ -1,1 +1,1 @@
-var mnemonic = "across comfort twin riot acid fiscal cupboard debris panel dress mind human";
+var mnemonic = "erode exile much visual evoke half celery mask sniff hobby bachelor wire";

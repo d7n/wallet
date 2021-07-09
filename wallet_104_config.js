@@ -1,1 +1,1 @@
-var mnemonic = "parent miracle wait audit embrace rhythm retire sail device seven trust blast";
+var mnemonic = "voyage dinner weather again dignity pistol indicate front receive buyer need field";

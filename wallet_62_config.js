@@ -1,1 +1,1 @@
-var mnemonic = "crisp ride youth exhibit hair sail cheap hungry forum camp surround beach";
+var mnemonic = "height shed travel stomach trust actor joy toward viable device exhaust round";

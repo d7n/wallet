@@ -1,1 +1,1 @@
-var mnemonic = "grain harvest method share tribe moment oven scare churn relax unlock start";
+var mnemonic = "charge reflect domain toddler kangaroo muffin armed marble organ found whisper garment";

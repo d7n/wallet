@@ -1,1 +1,1 @@
-var mnemonic = "bleak flip post fence spell begin cave govern pilot soon cruel ribbon";
+var mnemonic = "live praise tornado height define window reopen feed exotic always fantasy unfair";

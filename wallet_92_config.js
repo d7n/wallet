@@ -1,1 +1,1 @@
-var mnemonic = "meat issue asset conduct mango hospital cushion pelican security slab tunnel crawl";
+var mnemonic = "diet photo convince bullet public fog brand between front fossil inject taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "canal walnut clown cargo large age warrior mad unveil car winner yard";
+var mnemonic = "nasty once jazz brass silly wrap gorilla twin blush disorder much thumb";

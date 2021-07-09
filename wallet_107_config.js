@@ -1,1 +1,1 @@
-var mnemonic = "finger syrup industry outside ritual gravity actual agree vendor energy blossom borrow";
+var mnemonic = "fancy token depend learn hazard erode breeze deny vendor blush drastic ice";

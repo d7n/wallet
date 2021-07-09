@@ -1,1 +1,1 @@
-var mnemonic = "viable noodle another expand inspire pilot syrup chunk pudding faint add bridge";
+var mnemonic = "hard repeat dawn unusual hint shift pave protect spin resemble public carbon";

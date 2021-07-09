@@ -1,1 +1,1 @@
-var mnemonic = "vacant easy hungry taxi galaxy recall mirror future click garden mutual genre";
+var mnemonic = "name nominee reunion grace evolve push cushion copper dirt flee penalty flush";

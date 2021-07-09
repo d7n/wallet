@@ -1,1 +1,1 @@
-var mnemonic = "trash panda piece priority flip weapon worth decorate shadow eye end argue";
+var mnemonic = "fence predict energy object salon razor eye dilemma canyon mother sword length";

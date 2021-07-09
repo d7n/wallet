@@ -1,1 +1,1 @@
-var mnemonic = "floor feed agent excite torch kitten edit valid reason utility cage release";
+var mnemonic = "chef medal piano guilt music bread federal please wonder noise pledge sustain";

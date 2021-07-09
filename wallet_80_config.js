@@ -1,1 +1,1 @@
-var mnemonic = "cereal salt foster boil possible birth believe vapor rich write cherry library";
+var mnemonic = "rhythm amateur anxiety sand summer witness east open fly peace salt water";

@@ -1,1 +1,1 @@
-var mnemonic = "practice latin heavy era army caught ostrich elder edge enact glide cat";
+var mnemonic = "verb video fine pull evolve twice abuse city pull type bounce betray";

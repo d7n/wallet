@@ -1,1 +1,1 @@
-var mnemonic = "endless usual that vintage arrow mango prosper bone vendor organ utility gossip";
+var mnemonic = "often cable chest page mountain swallow reward day pair base return client";

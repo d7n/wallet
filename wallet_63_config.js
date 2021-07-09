@@ -1,1 +1,1 @@
-var mnemonic = "another kidney panther skirt pull lab auction boring grid parent moral pond";
+var mnemonic = "focus wing dry village record enough modify arrest defy style open smooth";

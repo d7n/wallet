@@ -1,1 +1,1 @@
-var mnemonic = "glide boring tortoise lady explain wrist universe gesture enough invite relief main";
+var mnemonic = "armed supreme merry civil hat clever holiday mammal game quarter mosquito auto";

@@ -1,1 +1,1 @@
-var mnemonic = "capable sting job resist right hotel rifle toss swift identify bronze dad";
+var mnemonic = "boy path hurry ready kind net sing into attitude melody hidden void";

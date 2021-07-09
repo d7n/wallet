@@ -1,1 +1,1 @@
-var mnemonic = "blame proud pistol father ahead dress staff price salad genius celery tower";
+var mnemonic = "animal grow wheel trumpet mercy oblige advance soldier cram curious way unknown";

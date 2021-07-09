@@ -1,1 +1,1 @@
-var mnemonic = "shadow paper black angle say odor first collect excess mule access ranch";
+var mnemonic = "unfair hard shine crack surge bike laptop bag moon wire clown annual";

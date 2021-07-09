@@ -1,1 +1,1 @@
-var mnemonic = "brass flower auction receive leg girl memory jungle rain step glue patch";
+var mnemonic = "grace grid loyal photo fabric relax chair uncle license drum van venture";

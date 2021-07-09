@@ -1,1 +1,1 @@
-var mnemonic = "person give usual flag match window search acid design picnic reward wire";
+var mnemonic = "forum onion ethics helmet faith crouch economy paper name script caught leave";

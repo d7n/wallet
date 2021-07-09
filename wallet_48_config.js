@@ -1,1 +1,1 @@
-var mnemonic = "dilemma oblige judge occur modify anchor pelican truck desert double drama swallow";
+var mnemonic = "art raw dolphin gap base bid idea limb pony weather chief dilemma";

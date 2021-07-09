@@ -1,1 +1,1 @@
-var mnemonic = "before pride melt cloud album decrease coyote style need fix unknown powder";
+var mnemonic = "start trust zoo enhance caught matrix ghost lab ankle raccoon loop more";

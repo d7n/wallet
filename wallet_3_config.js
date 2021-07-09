@@ -1,1 +1,1 @@
-var mnemonic = "amateur sniff gift absent sick mango cool welcome tip witness gas flower";
+var mnemonic = "drum provide quick sister east vintage route sudden crisp margin manage olive";

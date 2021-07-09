@@ -1,1 +1,1 @@
-var mnemonic = "sorry other fitness vacuum gossip gun strategy just reward clock obtain just";
+var mnemonic = "rib fly slight frown cake artefact cupboard dice universe gown future very";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess stuff nephew laundry rich note prison gift vendor soccer chunk opinion";
+var mnemonic = "inquiry sting lecture attack artefact absorb crawl genuine puzzle sunny report blast";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal faith decide arrange fault seminar wine review barely fashion used morning";
+var mnemonic = "busy cycle enact manual goose young word say solar key panel piano";

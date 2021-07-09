@@ -1,1 +1,1 @@
-var mnemonic = "noodle track poem stadium text depart senior tobacco exact trip tiny shrug";
+var mnemonic = "large skull juice honey sister chunk picture pigeon cloud eyebrow weasel puzzle";

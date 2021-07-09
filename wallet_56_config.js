@@ -1,1 +1,1 @@
-var mnemonic = "rose mix mountain welcome capable grape satoshi pudding join funny find gallery";
+var mnemonic = "exist lamp truth fish ready collect scan august wear true movie forum";

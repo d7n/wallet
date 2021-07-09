@@ -1,1 +1,1 @@
-var mnemonic = "hard faculty brother recycle able reveal common conduct wheel meat hole measure";
+var mnemonic = "general panther pudding talent kidney toss foam salt ivory exhaust license you";

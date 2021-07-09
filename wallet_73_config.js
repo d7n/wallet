@@ -1,1 +1,1 @@
-var mnemonic = "private sustain banana book blush camp gentle lazy hero govern absurd robot";
+var mnemonic = "scorpion turtle clump height quarter arrest nice tank wide course endorse glimpse";

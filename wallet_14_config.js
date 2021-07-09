@@ -1,1 +1,1 @@
-var mnemonic = "swear three soul typical name student fix lizard series dune solve gap";
+var mnemonic = "sphere novel warrior exotic shine until amount depend blue circle burst lounge";

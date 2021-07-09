@@ -1,1 +1,1 @@
-var mnemonic = "harvest hire code ice message jar mouse behind refuse time entire pave";
+var mnemonic = "rail cake dawn deer proud return section barrel crisp bamboo slab vast";

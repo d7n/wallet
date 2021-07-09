@@ -1,1 +1,1 @@
-var mnemonic = "tell craft security more uncover main general alert craft fade horse lemon";
+var mnemonic = "rookie treat seat include sausage inherit latin slide since finish repeat symbol";

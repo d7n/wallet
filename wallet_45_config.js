@@ -1,1 +1,1 @@
-var mnemonic = "blouse force trash satisfy syrup napkin dog vivid clump because denial oak";
+var mnemonic = "unfold phone deal tank aim goddess order select absurd name elephant frozen";

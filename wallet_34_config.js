@@ -1,1 +1,1 @@
-var mnemonic = "begin exist fancy tourist wasp bus volume occur chalk kid fall word";
+var mnemonic = "neither tray street add fish husband simple nephew wide power smart pill";

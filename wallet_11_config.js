@@ -1,1 +1,1 @@
-var mnemonic = "copper few devote main ensure gym pond favorite butter media make ill";
+var mnemonic = "lyrics island glass verb romance solve educate treat romance space flip inherit";

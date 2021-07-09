@@ -1,1 +1,1 @@
-var mnemonic = "learn duck afraid pretty live wonder ship pride over clinic script corn";
+var mnemonic = "hidden tribe body blood awake armor lava fish strike tragic anchor father";

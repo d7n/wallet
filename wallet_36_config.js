@@ -1,1 +1,1 @@
-var mnemonic = "receive month burden abuse faint vehicle garbage merry cry reform install pride";
+var mnemonic = "fork scan describe task make enter any desk tank color voice era";

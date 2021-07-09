@@ -1,1 +1,1 @@
-var mnemonic = "meat spatial despair play eagle keen deputy miracle mixed dad broccoli tiny";
+var mnemonic = "adult survey grape twin junior earth vendor around liberty ghost wife rug";

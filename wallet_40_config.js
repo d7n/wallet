@@ -1,1 +1,1 @@
-var mnemonic = "shove title night mercy lawsuit leaf fame edit idle behave monitor camera";
+var mnemonic = "cabbage lady fog drastic reflect jar ordinary analyst soon bunker input hollow";

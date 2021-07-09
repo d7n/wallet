@@ -1,1 +1,1 @@
-var mnemonic = "afraid jump abstract collect double clog normal wear fee gesture there that";
+var mnemonic = "faith garment broom rough under source wife torch shrimp shield enemy paper";

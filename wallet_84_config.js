@@ -1,1 +1,1 @@
-var mnemonic = "double battle valve gift arrive old expose version world north swallow abuse";
+var mnemonic = "clever vapor winter blade observe royal famous measure blind lottery monkey velvet";

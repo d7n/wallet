@@ -1,1 +1,1 @@
-var mnemonic = "moral goose half often nothing order auction head sibling spell foot blouse";
+var mnemonic = "theme robust view reward know quick annual then spread swarm action urge";

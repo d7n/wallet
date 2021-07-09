@@ -1,1 +1,1 @@
-var mnemonic = "diagram distance cherry ginger rib clutch vault tumble auction parrot garden table";
+var mnemonic = "sister promote fringe view raw horror ordinary myself draft tribe frame pitch";

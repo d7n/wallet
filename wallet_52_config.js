@@ -1,1 +1,1 @@
-var mnemonic = "holiday step nose mobile limit thumb oval venue pool plastic decide final";
+var mnemonic = "area wasp post snap ceiling doll way woman inch blouse high banner";

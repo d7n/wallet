@@ -1,1 +1,1 @@
-var mnemonic = "grocery doctor duty grief evil disease bag ride weather sad pottery rapid";
+var mnemonic = "echo flash praise wrist student fiber option fish pistol such trip sudden";

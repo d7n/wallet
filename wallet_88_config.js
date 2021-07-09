@@ -1,1 +1,1 @@
-var mnemonic = "differ behind student buzz grape click hire shove heavy inch capital profit";
+var mnemonic = "random fall palace venture remain behave genre veteran silver alarm fiber genre";

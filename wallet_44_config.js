@@ -1,1 +1,1 @@
-var mnemonic = "cute crush stage tower notable hole knife practice decline patient stuff hollow";
+var mnemonic = "wolf annual praise razor vessel derive make still mercy boil wrap caught";

@@ -1,1 +1,1 @@
-var mnemonic = "congress outer school destroy random local disorder galaxy scene punch deny fire";
+var mnemonic = "burden auction head wonder chase slogan dress sun tattoo ranch dance leopard";

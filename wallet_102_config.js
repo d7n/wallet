@@ -1,1 +1,1 @@
-var mnemonic = "discover vocal child apart blast chair fitness type spray disorder runway eternal";
+var mnemonic = "ribbon aunt oak wait ridge high animal top indicate garage velvet aunt";

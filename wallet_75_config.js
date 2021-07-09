@@ -1,1 +1,1 @@
-var mnemonic = "chapter love mercy cloth obscure change blind bus build diet exit sibling";
+var mnemonic = "soon tomorrow real what rapid true mobile excess there grain quarter unit";

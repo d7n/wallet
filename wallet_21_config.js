@@ -1,1 +1,1 @@
-var mnemonic = "dress labor fog change provide resource entry moon lottery release follow oxygen";
+var mnemonic = "rain capable physical gap still have world old already fold episode legal";

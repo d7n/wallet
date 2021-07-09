@@ -1,1 +1,1 @@
-var mnemonic = "august front swamp pig come crowd satisfy broccoli angry south wage buddy";
+var mnemonic = "beyond submit swift apple vague spend pulp stadium enemy subject blame blanket";

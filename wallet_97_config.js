@@ -1,1 +1,1 @@
-var mnemonic = "leave penalty rhythm bitter prize craft place absurd chat witness city neutral";
+var mnemonic = "adapt exhibit quarter camp spend adult glass apart hen trim habit garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "night phrase army lens slot venue isolate flat emerge tackle syrup allow";
+var mnemonic = "shield cheap digital decrease giggle dwarf foil weekend awful wild error stem";

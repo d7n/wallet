@@ -1,1 +1,1 @@
-var mnemonic = "snap combine caught purpose transfer spawn ten large again verb boost ceiling";
+var mnemonic = "luxury lava desert truck canvas gorilla balance exile taste decorate wrestle parade";
