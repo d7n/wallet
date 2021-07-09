@@ -1,1 +1,1 @@
-var mnemonic = "defy defy style size chaos improve excess wisdom forget surround install night";
+var mnemonic = "build have payment common poet camp buyer token disorder twice insane pencil";

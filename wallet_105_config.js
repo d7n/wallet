@@ -1,1 +1,1 @@
-var mnemonic = "crisp talk grow have night cross awkward another victory sketch load wing";
+var mnemonic = "finish upset mistake drill bright supply receive enforce sunset victory seminar grape";

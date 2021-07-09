@@ -1,1 +1,1 @@
-var mnemonic = "another talent behave bunker keen method panther fan ankle endorse sting earth";
+var mnemonic = "popular laundry rent author bullet height tennis dilemma turkey glove bus switch";

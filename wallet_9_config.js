@@ -1,1 +1,1 @@
-var mnemonic = "furnace ostrich under among suit accuse tragic cigar oyster toss mansion cave";
+var mnemonic = "maid oppose tuna blame olympic fiber pilot flame car tumble special never";

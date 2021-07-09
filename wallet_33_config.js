@@ -1,1 +1,1 @@
-var mnemonic = "mean snake cause journey sunny pumpkin elevator income solid across donkey original";
+var mnemonic = "fault forward pen science nice frown timber crane amateur target gorilla unusual";

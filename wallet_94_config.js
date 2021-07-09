@@ -1,1 +1,1 @@
-var mnemonic = "void shop cricket joke crack seminar raven few pipe unveil bike trend";
+var mnemonic = "lend green glove able fabric lemon excess lyrics fee gossip axis enter";

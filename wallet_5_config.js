@@ -1,1 +1,1 @@
-var mnemonic = "radar gas know artwork mixture around cinnamon theory unable involve blush ocean";
+var mnemonic = "rubber fun warm lemon anger follow salon faculty whip dice enlist kind";

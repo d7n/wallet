@@ -1,1 +1,1 @@
-var mnemonic = "include short gauge job student typical prosper orange found marriage palace fuel";
+var mnemonic = "cruise circle retire unknown gas shuffle fly spider void task process suggest";

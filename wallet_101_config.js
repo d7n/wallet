@@ -1,1 +1,1 @@
-var mnemonic = "island game protect teach good dose column legend cash method flip member";
+var mnemonic = "heavy antenna rose divorce engine awake reward mean concert ladder hood nuclear";

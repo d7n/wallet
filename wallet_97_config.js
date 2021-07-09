@@ -1,1 +1,1 @@
-var mnemonic = "funny imitate sell adjust paper price confirm reunion say deal license patch";
+var mnemonic = "scene agent cable risk clarify series fever supply air cover inject cradle";

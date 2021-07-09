@@ -1,1 +1,1 @@
-var mnemonic = "february run used wood bless lucky mushroom text window three rain aim";
+var mnemonic = "glare hurdle test exact chaos shine run pig purity asthma dutch lucky";

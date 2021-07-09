@@ -1,1 +1,1 @@
-var mnemonic = "safe urge sibling paper cushion useless ginger shift drum mosquito draft fix";
+var mnemonic = "crack virus piano save image invite forget faculty broken pledge direct avoid";

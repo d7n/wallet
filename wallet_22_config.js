@@ -1,1 +1,1 @@
-var mnemonic = "middle giggle copy boost dynamic eight wedding easily wine proud letter build";
+var mnemonic = "cheese typical syrup toast begin pioneer prosper orphan forward exercise chaos useful";

@@ -1,1 +1,1 @@
-var mnemonic = "whip process camp boost sand scheme cigar outdoor loan disagree lawsuit cannon";
+var mnemonic = "gown input alarm head elbow door senior confirm tunnel comfort tennis faint";

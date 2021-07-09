@@ -1,1 +1,1 @@
-var mnemonic = "feel divide claw exotic surge clutch giraffe type skirt crisp lecture achieve";
+var mnemonic = "hour add pill glory notice world awkward virtual dish virus future often";

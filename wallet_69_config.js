@@ -1,1 +1,1 @@
-var mnemonic = "sadness enforce hedgehog list puppy tumble toy taxi identify transfer print syrup";
+var mnemonic = "rally chat kitten leader bullet chunk zoo burger unlock round track wisdom";

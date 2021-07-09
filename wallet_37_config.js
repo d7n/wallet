@@ -1,1 +1,1 @@
-var mnemonic = "chest light canvas inflict divert hold shrimp antique hollow rice grief romance";
+var mnemonic = "strong venture creek brush any stand hover rare math fiscal pull discover";

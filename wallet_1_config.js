@@ -1,1 +1,1 @@
-var mnemonic = "chronic general sister stable bamboo device valley habit devote odor sauce hundred";
+var mnemonic = "dentist garage gossip october shield shield same weapon desert umbrella strong bachelor";

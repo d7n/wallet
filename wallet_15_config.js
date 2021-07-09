@@ -1,1 +1,1 @@
-var mnemonic = "naive problem poet people two waste shop angle when abuse ranch amateur";
+var mnemonic = "decade dawn put tower clip extra real cancel grit spawn mass castle";

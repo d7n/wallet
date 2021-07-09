@@ -1,1 +1,1 @@
-var mnemonic = "obey ramp ethics cruel lawsuit imitate type valley peanut visit garage glimpse";
+var mnemonic = "market glad hungry exclude tail gate alone hat argue ripple zebra step";

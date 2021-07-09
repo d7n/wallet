@@ -1,1 +1,1 @@
-var mnemonic = "nation yellow sorry token betray brave fatigue ten now equip valve snap";
+var mnemonic = "picnic taste special athlete half lawsuit grid cash install typical now vault";

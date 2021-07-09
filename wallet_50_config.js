@@ -1,1 +1,1 @@
-var mnemonic = "volume logic dumb raise pear pen flavor awesome stomach fresh project able";
+var mnemonic = "coil scheme rough actor market melody refuse galaxy legend giant exotic famous";

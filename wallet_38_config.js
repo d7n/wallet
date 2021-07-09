@@ -1,1 +1,1 @@
-var mnemonic = "decorate vault share nest unlock coast combine betray later logic inhale warrior";
+var mnemonic = "engage tag loyal kiss palace desert ocean choose struggle suit crucial olympic";

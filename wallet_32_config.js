@@ -1,1 +1,1 @@
-var mnemonic = "stamp office adapt panel basket lonely sign depend canyon impose august reduce";
+var mnemonic = "dawn park pitch parrot version program clutch balance razor offer noise more";

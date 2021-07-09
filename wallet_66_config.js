@@ -1,1 +1,1 @@
-var mnemonic = "sunset shadow hotel juice park funny fruit curtain satoshi soft make motion";
+var mnemonic = "letter agree crime audit smoke clutch hat subway nice head glue reopen";

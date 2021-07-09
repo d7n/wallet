@@ -1,1 +1,1 @@
-var mnemonic = "remind woman enemy any sadness glue fee fly master spring country man";
+var mnemonic = "chest broken display canvas divorce rabbit bind century delay teach fly hurt";

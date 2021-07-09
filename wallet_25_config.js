@@ -1,1 +1,1 @@
-var mnemonic = "silk hungry erosion alien opera size between capable narrow plastic december area";
+var mnemonic = "move shell resemble tornado grow meadow amount movie creek funny taxi crack";

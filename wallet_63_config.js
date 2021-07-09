@@ -1,1 +1,1 @@
-var mnemonic = "because lift awake hat soft tragic push address wage crumble engine ride";
+var mnemonic = "champion stay loop board manual metal puzzle path brand myth agree ski";

@@ -1,1 +1,1 @@
-var mnemonic = "runway knee leg report switch question race fly edge ask panther hawk";
+var mnemonic = "rebuild conduct you mule fringe business nasty spoil cloud keen trap mask";

@@ -1,1 +1,1 @@
-var mnemonic = "cream bag pistol system coil couch emotion lucky humble chuckle treat rice";
+var mnemonic = "spin symptom okay prefer orange movie genius tower merit snap nut gift";

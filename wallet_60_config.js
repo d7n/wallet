@@ -1,1 +1,1 @@
-var mnemonic = "draw unusual shove develop alpha what awkward priority have harsh wife health";
+var mnemonic = "net amused bulb visa shift tool burst basket ask supply video control";

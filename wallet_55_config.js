@@ -1,1 +1,1 @@
-var mnemonic = "sudden wage black jacket capital forward learn panther dumb pass speed nature";
+var mnemonic = "skirt minute clip brother drip water drill cash label use whale use";

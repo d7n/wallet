@@ -1,1 +1,1 @@
-var mnemonic = "hotel ice pizza innocent ecology crumble soup permit hard tell winner scissors";
+var mnemonic = "upset relax above enact tobacco viable dizzy deposit wild dice result piano";

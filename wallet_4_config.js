@@ -1,1 +1,1 @@
-var mnemonic = "first hunt ride between bacon already aerobic hamster adult shaft tortoise cement";
+var mnemonic = "acid mask solar mean knock race gossip erupt repeat bring judge funny";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn fox ski talent layer silly twist goose patch clump tube bind";
+var mnemonic = "alone immune useless glance service cream else dilemma story fortune attract ask";

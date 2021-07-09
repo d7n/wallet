@@ -1,1 +1,1 @@
-var mnemonic = "sand harvest food crew catalog finger judge observe snake priority armor volume";
+var mnemonic = "elbow weasel arctic supreme crush rival mobile panic patch fog wine detail";

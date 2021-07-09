@@ -1,1 +1,1 @@
-var mnemonic = "invite knife club artist buffalo fat turn radar alter sure cereal twelve";
+var mnemonic = "error floor rotate address ability grunt cabin rally deer youth sunny awesome";

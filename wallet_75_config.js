@@ -1,1 +1,1 @@
-var mnemonic = "frame shoulder tent swamp control feed beef wisdom hold upper green cycle";
+var mnemonic = "cool stuff bullet fit voice apart happy actress ketchup era diary squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "exact element play wet act wealth stable quit seek rapid broom decorate";
+var mnemonic = "gaze upper gaze front stadium chest tiger surface chicken toast amount risk";

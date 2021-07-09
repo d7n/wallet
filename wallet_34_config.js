@@ -1,1 +1,1 @@
-var mnemonic = "relief relax cute naive fury destroy false flower style slab critic mention";
+var mnemonic = "property style accident catch purity profit frozen zone spring depart timber tackle";

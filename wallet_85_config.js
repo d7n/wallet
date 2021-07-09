@@ -1,1 +1,1 @@
-var mnemonic = "brother beyond exchange shaft sword caught scale asthma monster future brick ozone";
+var mnemonic = "corn guitar scene among picture spread future average digital resemble boost abandon";

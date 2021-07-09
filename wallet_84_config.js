@@ -1,1 +1,1 @@
-var mnemonic = "farm reward pepper arch confirm language fence physical pumpkin toy secret hour";
+var mnemonic = "eyebrow quantum install galaxy enhance tuition arrange general manage lucky coyote urban";

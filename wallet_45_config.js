@@ -1,1 +1,1 @@
-var mnemonic = "way boat eight cruise join secret trophy orient chief allow assault series";
+var mnemonic = "improve render zero craft below solution dismiss typical action funny search beach";

@@ -1,1 +1,1 @@
-var mnemonic = "lake toast emerge aspect ride run rack wave genius around ring stereo";
+var mnemonic = "portion amused gate tuition sponsor worth vendor actual segment scare crucial cruise";

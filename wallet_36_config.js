@@ -1,1 +1,1 @@
-var mnemonic = "food chief arctic sister weasel illness metal guide hard until puppy sausage";
+var mnemonic = "trade mouse weather gift aim lake faith one report tired napkin giraffe";

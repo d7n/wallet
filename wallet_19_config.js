@@ -1,1 +1,1 @@
-var mnemonic = "parrot oval once west couple wonder ensure print myself suspect dignity typical";
+var mnemonic = "piece unknown poem shed glass escape moon genre squirrel slight soccer peasant";

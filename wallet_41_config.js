@@ -1,1 +1,1 @@
-var mnemonic = "two wrong wool violin fun retire stomach stomach man energy tide train";
+var mnemonic = "deny flash chief trumpet type remain much material require bicycle throw test";

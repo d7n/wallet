@@ -1,1 +1,1 @@
-var mnemonic = "proof imitate amused arch deposit mail lonely slam below comfort blanket remove";
+var mnemonic = "alert snack long harbor patch crouch grunt satisfy include clutch nasty when";

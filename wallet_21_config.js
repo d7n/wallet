@@ -1,1 +1,1 @@
-var mnemonic = "dune inspire jacket crumble price vessel mammal obvious unaware zone furnace hollow";
+var mnemonic = "tiger stomach awesome faculty napkin task tide source square casual clock puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "receive snap tuition grief phrase finger gun jewel scare pear then surge";
+var mnemonic = "topic hamster floor viable inject exclude parent cattle rebuild boring couple path";

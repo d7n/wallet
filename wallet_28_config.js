@@ -1,1 +1,1 @@
-var mnemonic = "please poverty fiction sail make spoil floor obvious awful fall ethics virus";
+var mnemonic = "switch menu run morning seek across lion furnace casual drama tide cable";

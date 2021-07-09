@@ -1,1 +1,1 @@
-var mnemonic = "iron nephew edit elder daughter metal scare logic stem coil interest correct";
+var mnemonic = "jar urge cart daring violin avoid foot fluid nice object practice search";

@@ -1,1 +1,1 @@
-var mnemonic = "before birth birth confirm believe appear female improve roast exact antenna vacuum";
+var mnemonic = "vast brother mule loan wide dumb steel smooth inform ghost idle million";

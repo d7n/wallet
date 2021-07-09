@@ -1,1 +1,1 @@
-var mnemonic = "add pave track secret bird fantasy economy version initial height lyrics end";
+var mnemonic = "slogan sure remain market mimic safe slight inject skill rebuild output gauge";

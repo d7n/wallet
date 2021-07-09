@@ -1,1 +1,1 @@
-var mnemonic = "dwarf gap sword radio treat logic limb gold oppose invest sad object";
+var mnemonic = "include luxury dinner corn evoke mail favorite fly spend pear reason garden";

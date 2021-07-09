@@ -1,1 +1,1 @@
-var mnemonic = "flight online hover mesh fog faint tragic square unique genuine trend purpose";
+var mnemonic = "damage flat general bind crater tumble foster lazy reduce improve surround someone";

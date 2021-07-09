@@ -1,1 +1,1 @@
-var mnemonic = "reduce toward toy forget oil old behave advice crowd peace health bulb";
+var mnemonic = "success silly spin aware layer expand order stadium remind green swing skate";

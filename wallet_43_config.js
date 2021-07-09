@@ -1,1 +1,1 @@
-var mnemonic = "million drift sauce object public plate shock click pave runway slice want";
+var mnemonic = "among index ivory door chalk tongue coil swift display mention denial leaf";

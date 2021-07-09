@@ -1,1 +1,1 @@
-var mnemonic = "giggle provide engine festival then tone velvet wing various impose author dolphin";
+var mnemonic = "piece weird planet clever total drill human undo confirm maze pet nuclear";

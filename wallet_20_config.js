@@ -1,1 +1,1 @@
-var mnemonic = "sure nuclear category debris monitor pear panic nerve observe smoke fat cancel";
+var mnemonic = "script friend rack sleep hockey toilet minor price hen element crater second";

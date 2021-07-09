@@ -1,1 +1,1 @@
-var mnemonic = "speak engage couple stone ecology tiny bridge bread possible journey grab catch";
+var mnemonic = "horse amateur few proud feature snake dynamic right tool slight dad sunny";

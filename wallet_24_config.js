@@ -1,1 +1,1 @@
-var mnemonic = "flag vendor enact hotel jealous actress coffee metal lab wrong april book";
+var mnemonic = "super denial iron boost swap increase rally kit remove modify case major";

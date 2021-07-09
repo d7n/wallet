@@ -1,1 +1,1 @@
-var mnemonic = "smart erosion life shallow toddler finish hair surface clap bind kitchen decide";
+var mnemonic = "group okay entry stable worry gentle alcohol exile carbon rural assault owner";

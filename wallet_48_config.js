@@ -1,1 +1,1 @@
-var mnemonic = "venture couch bachelor chunk upper evil minute biology since sugar hamster pet";
+var mnemonic = "brass uncover design spoon hamster snack duck category extra belt tattoo success";

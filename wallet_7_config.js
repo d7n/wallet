@@ -1,1 +1,1 @@
-var mnemonic = "rifle deliver giraffe claw song wasp venture tomato mule pact help earn";
+var mnemonic = "child good cigar exotic winter foot pelican imitate unlock pony joy latin";

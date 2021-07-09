@@ -1,1 +1,1 @@
-var mnemonic = "slam sure hair opera return rug business ceiling ramp orbit cargo tattoo";
+var mnemonic = "shock wise spirit gadget cook element unfold master day glad lyrics image";

@@ -1,1 +1,1 @@
-var mnemonic = "menu hard concert sadness loud grow nephew stock bind slight arctic icon";
+var mnemonic = "injury faculty bag execute catch grit renew clean drip address gaze undo";

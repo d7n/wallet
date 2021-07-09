@@ -1,1 +1,1 @@
-var mnemonic = "group hunt sail length action snack enemy agree jewel keep never beach";
+var mnemonic = "drip surface long multiply unfair mention scissors nature swear unusual mutual drip";

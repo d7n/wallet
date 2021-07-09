@@ -1,1 +1,1 @@
-var mnemonic = "abstract prison silent isolate tag change season peace brass patch romance orange";
+var mnemonic = "vast ten axis congress draw laugh sunset peace lumber hood tourist anger";

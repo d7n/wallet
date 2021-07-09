@@ -1,1 +1,1 @@
-var mnemonic = "answer report trim any inmate buyer echo silk gap slab lesson lizard";
+var mnemonic = "skill acquire matrix okay steak nuclear prepare cruel portion reopen fantasy chunk";

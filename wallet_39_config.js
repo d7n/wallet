@@ -1,1 +1,1 @@
-var mnemonic = "virus truck book donate speed link point man behave leg process couple";
+var mnemonic = "two copy injury voice clinic bonus before whisper oven hurt grunt shoot";

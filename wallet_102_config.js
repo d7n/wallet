@@ -1,1 +1,1 @@
-var mnemonic = "bullet day priority witness diesel make volume actress rug spare unit melt";
+var mnemonic = "police scorpion cradle soon supreme glide dignity like captain stove hybrid accident";

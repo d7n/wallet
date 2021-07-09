@@ -1,1 +1,1 @@
-var mnemonic = "price cruel label cousin wing wide outside blast dumb trust play sentence";
+var mnemonic = "juice electric mosquito census ethics symptom alert clown nice smile bomb nest";

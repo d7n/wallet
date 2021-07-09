@@ -1,1 +1,1 @@
-var mnemonic = "cushion chimney soda peasant appear print dash mean jungle cash hidden honey";
+var mnemonic = "learn scrub ranch mind add squirrel until update staff mother bulk human";

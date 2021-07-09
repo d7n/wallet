@@ -1,1 +1,1 @@
-var mnemonic = "exotic auto adjust south evidence arctic chalk utility odor fury earn rigid";
+var mnemonic = "stay thing spice trouble sugar know stone trust timber current tired one";

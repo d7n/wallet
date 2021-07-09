@@ -1,1 +1,1 @@
-var mnemonic = "miracle appear gloom cream off series spend noble select bridge cry tongue";
+var mnemonic = "pulp thought benefit trophy armor recycle ask bread adjust grief whip annual";

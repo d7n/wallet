@@ -1,1 +1,1 @@
-var mnemonic = "illness waste force runway accuse relax remember anchor present impulse prison pulp";
+var mnemonic = "alcohol kid artwork blossom forum real ask talk tower trial lumber blade";

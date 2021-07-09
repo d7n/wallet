@@ -1,1 +1,1 @@
-var mnemonic = "uncle window foil wool myself capital laptop eye test outer repair possible";
+var mnemonic = "worth right melody squeeze also giant same nephew pet wave nose sight";

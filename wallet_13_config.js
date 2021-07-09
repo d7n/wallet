@@ -1,1 +1,1 @@
-var mnemonic = "era snake cloud ritual code charge globe allow thing prize title general";
+var mnemonic = "setup pencil leader provide ring wash broccoli hill review ride alpha empty";

@@ -1,1 +1,1 @@
-var mnemonic = "seven range night tomorrow faint solar sweet vacant century horn edge plunge";
+var mnemonic = "clump reason cup receive fragile kitchen pumpkin describe pet banner lamp pulse";

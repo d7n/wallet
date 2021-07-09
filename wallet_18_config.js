@@ -1,1 +1,1 @@
-var mnemonic = "cereal walk age mad desert crazy wink street youth resist siege survey";
+var mnemonic = "bicycle burden two better town found harvest post blame hammer deliver smoke";

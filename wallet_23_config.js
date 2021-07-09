@@ -1,1 +1,1 @@
-var mnemonic = "help inflict slight improve manual ripple edit member snow morning traffic crime";
+var mnemonic = "fix reform duck mechanic ice know grow claw prefer tongue loop emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle vapor silk survey dolphin echo add inform into dial body category";
+var mnemonic = "recycle utility immune tone slogan midnight badge settle slim park hunt bargain";

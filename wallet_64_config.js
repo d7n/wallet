@@ -1,1 +1,1 @@
-var mnemonic = "doctor wagon visit myself will budget pencil dumb orient exit deliver clip";
+var mnemonic = "apology scout pizza little service heavy bottom panic ghost orphan hammer wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "half script orange eternal differ atom pause dad dumb shell mansion absorb";
+var mnemonic = "laugh also pretty picnic solid place dress typical shoot doll keen voyage";

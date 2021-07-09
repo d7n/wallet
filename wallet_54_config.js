@@ -1,1 +1,1 @@
-var mnemonic = "blind step ill rent junk fun order mask tennis carpet young castle";
+var mnemonic = "ostrich sleep glass beef crowd face fence giant cause flee awake hint";

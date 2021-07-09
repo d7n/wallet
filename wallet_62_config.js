@@ -1,1 +1,1 @@
-var mnemonic = "giggle gospel define garbage turtle churn outer swim tank type farm desk";
+var mnemonic = "vintage cave walk pigeon ankle doll label thunder pudding school brisk crystal";
