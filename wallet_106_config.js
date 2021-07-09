@@ -1,1 +1,1 @@
-var mnemonic = "wing gate door method bargain lottery kitten neutral vault crumble panic ten";
+var mnemonic = "appear fiscal abstract search modify cereal gym dutch common champion asset word";

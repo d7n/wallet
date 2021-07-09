@@ -1,1 +1,1 @@
-var mnemonic = "online mule trouble noodle tongue spray pond toilet speed three day mixture";
+var mnemonic = "learn risk visa genre tragic monkey tackle fashion tool lawsuit ensure multiply";

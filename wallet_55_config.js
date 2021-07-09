@@ -1,1 +1,1 @@
-var mnemonic = "garden pave minute aim exile genre wrap chief casino illegal crystal replace";
+var mnemonic = "whale puzzle neglect guilt repair pilot ramp mushroom forward mercy shove minor";

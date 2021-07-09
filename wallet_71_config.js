@@ -1,1 +1,1 @@
-var mnemonic = "income reunion course crack fine stairs other letter popular bullet cruel pigeon";
+var mnemonic = "theme mansion input large void pottery slogan oak episode ghost drum oval";

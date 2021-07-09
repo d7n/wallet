@@ -1,1 +1,1 @@
-var mnemonic = "topic mesh salmon luxury banana buzz please mimic own they cinnamon cruise";
+var mnemonic = "sail mail small shock address slice main time answer keep pulp faint";

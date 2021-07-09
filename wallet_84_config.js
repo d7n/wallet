@@ -1,1 +1,1 @@
-var mnemonic = "salute shrug rain sustain room doctor spend skirt margin napkin true laptop";
+var mnemonic = "brain lake claim fortune dog protect ramp attack blossom route render target";

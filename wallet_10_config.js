@@ -1,1 +1,1 @@
-var mnemonic = "hen enroll grief slice dismiss holiday avoid hill boring help dwarf hawk";
+var mnemonic = "behave bounce wisdom lend try core chief leaf antenna desk fly school";

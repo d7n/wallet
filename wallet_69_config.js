@@ -1,1 +1,1 @@
-var mnemonic = "average join federal tiger reject warrior kitchen palace gold this shoot vehicle";
+var mnemonic = "tunnel crouch fury vicious embark secret ski rib pool tip alley soul";

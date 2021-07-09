@@ -1,1 +1,1 @@
-var mnemonic = "truth develop dad settle section track awake bracket tobacco file still able";
+var mnemonic = "flat talent strategy business pull churn shaft accuse fancy eyebrow goat shoulder";

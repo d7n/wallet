@@ -1,1 +1,1 @@
-var mnemonic = "kite circle hover play topic behind theme lyrics curtain mountain girl decorate";
+var mnemonic = "strong boil destroy timber round satoshi afraid smooth make admit welcome next";

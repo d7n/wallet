@@ -1,1 +1,1 @@
-var mnemonic = "fire rack wood potato blouse culture cupboard regret all earn empty museum";
+var mnemonic = "stable sustain into define fork raccoon awful relief task quit charge retreat";

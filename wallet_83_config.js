@@ -1,1 +1,1 @@
-var mnemonic = "filter amount exclude current afraid poem keep marriage sauce region gasp pyramid";
+var mnemonic = "town sock idle mercy wide case spot buddy decrease sand weekend course";

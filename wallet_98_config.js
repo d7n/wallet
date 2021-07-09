@@ -1,1 +1,1 @@
-var mnemonic = "cactus inject market equal critic reveal vanish shaft spatial rude oak vote";
+var mnemonic = "kitchen ketchup injury mercy aspect keep primary combine tower stone accuse machine";

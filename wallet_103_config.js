@@ -1,1 +1,1 @@
-var mnemonic = "cat deposit mother lyrics hub wheel session wheat turn sausage goose defy";
+var mnemonic = "deliver inhale coast device section expire birth hurry keep solve gather salad";

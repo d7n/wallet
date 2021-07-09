@@ -1,1 +1,1 @@
-var mnemonic = "warrior local power laptop bounce citizen return hello trade myth century upgrade";
+var mnemonic = "drive silent ozone also garbage embody weasel baby hotel alcohol puzzle engage";

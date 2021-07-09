@@ -1,1 +1,1 @@
-var mnemonic = "bike rival color glow liar detail token disease rib tonight crime tool";
+var mnemonic = "bring wheel dragon foster uncle idle useful alter profit jewel miracle park";

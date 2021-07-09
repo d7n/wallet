@@ -1,1 +1,1 @@
-var mnemonic = "blanket slender trumpet pass faint lobster glory appear maze swarm size wave";
+var mnemonic = "educate credit witness theme episode stool surround size captain fault couch limb";

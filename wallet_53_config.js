@@ -1,1 +1,1 @@
-var mnemonic = "friend horror purity crawl guard trophy tuna plastic ready swallow top cloud";
+var mnemonic = "spare rain random bread core ensure dumb peanut raccoon dentist order inside";

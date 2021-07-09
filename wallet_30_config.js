@@ -1,1 +1,1 @@
-var mnemonic = "frost know pistol betray stamp enlist coil blade clever unit total sustain";
+var mnemonic = "bamboo major luxury thank erode way melt illness green blast drama common";

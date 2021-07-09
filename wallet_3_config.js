@@ -1,1 +1,1 @@
-var mnemonic = "donkey enemy little include social fossil pistol celery lizard gift chicken rude";
+var mnemonic = "sport garlic message wheat neither happy pony slush twelve road someone casino";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy public smoke tired wealth then midnight excuse apart kidney blame penalty";
+var mnemonic = "mandate promote resource lizard chef choose lunar lumber salute slot deer van";

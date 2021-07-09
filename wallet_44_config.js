@@ -1,1 +1,1 @@
-var mnemonic = "seminar notice lucky erupt fade all genuine distance rebuild lemon like upset";
+var mnemonic = "lonely road blue sword curve input add response twice tortoise quiz aerobic";

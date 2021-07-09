@@ -1,1 +1,1 @@
-var mnemonic = "claim print carpet muffin bone punch lawn afraid kitten ignore champion pet";
+var mnemonic = "notice sign source clean mammal tilt onion direct hip address wealth grain";

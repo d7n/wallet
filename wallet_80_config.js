@@ -1,1 +1,1 @@
-var mnemonic = "common jar tribe blast trigger asthma arch frame supply dwarf naive credit";
+var mnemonic = "tip rude camera you kid trip quiz advance tooth sea guilt acid";

@@ -1,1 +1,1 @@
-var mnemonic = "follow water urge purse enjoy couple settle motion forget stomach wet strategy";
+var mnemonic = "fetch master tent runway spirit industry pulse purchase crash gown spoon pony";

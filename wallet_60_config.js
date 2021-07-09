@@ -1,1 +1,1 @@
-var mnemonic = "maid such guilt hollow matrix fame lake aspect concert sign control punch";
+var mnemonic = "diamond garlic march artist unhappy ankle buddy gloom luggage mirror palace young";

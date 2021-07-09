@@ -1,1 +1,1 @@
-var mnemonic = "model velvet course turkey census sense patch wasp grape unknown off steak";
+var mnemonic = "history school soon fiber wrestle mercy canal permit sniff nut clarify usage";

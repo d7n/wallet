@@ -1,1 +1,1 @@
-var mnemonic = "fortune clinic camera mountain depend garbage acid message decline tobacco suspect fox";
+var mnemonic = "tortoise female situate hidden inspire dose pretty injury divorce okay escape jewel";

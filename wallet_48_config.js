@@ -1,1 +1,1 @@
-var mnemonic = "hero sock inmate ensure ski toy person disagree kid base canoe enjoy";
+var mnemonic = "baby online home model claw extend ecology unveil bread provide clown pupil";

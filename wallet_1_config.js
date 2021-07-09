@@ -1,1 +1,1 @@
-var mnemonic = "when near parent truck globe gasp hockey machine fabric table front glow";
+var mnemonic = "vast tree trash park siege awkward insane illness ancient hobby team skin";

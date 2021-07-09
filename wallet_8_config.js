@@ -1,1 +1,1 @@
-var mnemonic = "recycle saddle dress hope pattern buzz ivory cable avocado slab world seed";
+var mnemonic = "love panther beach remove truck lucky ketchup crucial humor situate stuff weasel";

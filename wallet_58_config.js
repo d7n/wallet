@@ -1,1 +1,1 @@
-var mnemonic = "strategy resource lunch myself path mandate result nuclear gesture mechanic feed gorilla";
+var mnemonic = "salt unfair host refuse capable suggest until theme worry silly survey plunge";

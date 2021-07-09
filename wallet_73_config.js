@@ -1,1 +1,1 @@
-var mnemonic = "lecture banana please best code run win roast unfair profit flip eight";
+var mnemonic = "south inflict jar argue alpha noodle trouble ability about term knee emotion";

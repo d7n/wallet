@@ -1,1 +1,1 @@
-var mnemonic = "flag absurd misery voice train crane beef guess shop young frost hunt";
+var mnemonic = "setup siren diet among any electric swamp camp chase raven spider view";

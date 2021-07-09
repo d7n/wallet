@@ -1,1 +1,1 @@
-var mnemonic = "acquire tired load federal south speed response pigeon ketchup banana symbol kid";
+var mnemonic = "syrup photo venue account draft vital give tip saddle flower strike transfer";

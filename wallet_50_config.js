@@ -1,1 +1,1 @@
-var mnemonic = "call avocado casino table biology surface cook combine engage female chase bracket";
+var mnemonic = "erode script spatial finger pilot erase tragic phone must obscure shoulder arrow";

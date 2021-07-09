@@ -1,1 +1,1 @@
-var mnemonic = "tornado now tribe one grunt soul amazing twelve element wide off clerk";
+var mnemonic = "happy craft learn drum apart betray tell leave cheese fish suspect enact";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee run demise correct describe icon indicate minimum claim lobster identify nasty";
+var mnemonic = "topic gain slight stamp seven wedding chest cannon december situate skull cover";

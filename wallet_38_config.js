@@ -1,1 +1,1 @@
-var mnemonic = "arrange waste puppy hat crew exact forward staff rural spy whale survey";
+var mnemonic = "more rice whale penalty acoustic vendor antenna bright limb nature fancy vicious";

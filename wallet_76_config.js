@@ -1,1 +1,1 @@
-var mnemonic = "debate catch uniform tell prosper lawn mimic security put glimpse sword panic";
+var mnemonic = "beach glow welcome employ grief output dragon success float boat market basic";

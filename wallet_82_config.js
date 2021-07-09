@@ -1,1 +1,1 @@
-var mnemonic = "sting crouch enemy spray curious sunny name apple arctic carpet hurry west";
+var mnemonic = "captain oak bullet crystal illness enrich glue dutch oil episode begin jacket";

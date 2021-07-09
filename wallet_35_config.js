@@ -1,1 +1,1 @@
-var mnemonic = "wrist axis spider broccoli main mouse fee melody grow file stem royal";
+var mnemonic = "behave flat twice spell month fitness when ignore agent early two reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform uncle square vendor decrease adult castle mushroom title sponsor regular solar";
+var mnemonic = "tag shed notice ranch insect coil aim eternal bicycle accident speak matter";

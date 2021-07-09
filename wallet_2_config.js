@@ -1,1 +1,1 @@
-var mnemonic = "add grief ill hub coach elegant invest multiply inherit hood loud opinion";
+var mnemonic = "omit comfort chief vague kiss spoil sauce humble guitar enact edge captain";

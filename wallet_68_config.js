@@ -1,1 +1,1 @@
-var mnemonic = "enhance enlist blind force rally same tired where tool afraid pilot jaguar";
+var mnemonic = "focus beach trash vicious palace era toast discover cliff say chapter urge";

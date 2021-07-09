@@ -1,1 +1,1 @@
-var mnemonic = "capital leave celery multiply glare spot pill waste capital erode drink nose";
+var mnemonic = "seminar satisfy humble pumpkin brother service oblige anger tower trade claim ticket";

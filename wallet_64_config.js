@@ -1,1 +1,1 @@
-var mnemonic = "wall turtle canal fiction confirm harvest harbor quit praise extend attack install";
+var mnemonic = "pulp math pole stem battle once aware kid you empty flip mask";

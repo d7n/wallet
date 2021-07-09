@@ -1,1 +1,1 @@
-var mnemonic = "first couple flat plunge moon omit reunion reopen car discover off rug";
+var mnemonic = "certain traffic flash column kid vast gentle horror lava common helmet offer";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm actor interest narrow describe oak foil retreat protect right dream tourist";
+var mnemonic = "spoil method soft script scout bomb royal bonus trade edit husband cliff";

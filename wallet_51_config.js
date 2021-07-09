@@ -1,1 +1,1 @@
-var mnemonic = "grain position curtain black winter neither case gorilla valid crisp knife weather";
+var mnemonic = "report patch fatal come depart buffalo green shock benefit survey sword crisp";

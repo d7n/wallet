@@ -1,1 +1,1 @@
-var mnemonic = "essence way juice arm sport unlock brand polar tooth doll license intact";
+var mnemonic = "language narrow lazy dress swift mixed ethics brother pizza other curious foil";

@@ -1,1 +1,1 @@
-var mnemonic = "civil dust grunt glass recall neither shiver mixed oblige moon update fatal";
+var mnemonic = "urge deliver copy toward rate water stand domain peasant reject south fringe";

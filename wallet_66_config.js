@@ -1,1 +1,1 @@
-var mnemonic = "crush rare sad neither dinner physical join segment season universe midnight afraid";
+var mnemonic = "laundry unfold drift broken ozone air warfare one mandate foil oblige crisp";

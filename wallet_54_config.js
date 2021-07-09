@@ -1,1 +1,1 @@
-var mnemonic = "jealous suffer vivid gentle dry distance metal dove pipe aspect gap nut";
+var mnemonic = "elbow script dash rebel update rib wise decorate wrong crisp ugly auction";

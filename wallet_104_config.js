@@ -1,1 +1,1 @@
-var mnemonic = "food culture resemble ozone walnut proud black manual oval useful seed mom";
+var mnemonic = "language ten rice crouch render wear since acid frozen bounce steel plastic";

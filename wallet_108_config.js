@@ -1,1 +1,1 @@
-var mnemonic = "share school token peanut truck life current address fire color chat ask";
+var mnemonic = "lens despair during witness phrase riot early embark truck potato warfare girl";

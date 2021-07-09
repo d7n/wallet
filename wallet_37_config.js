@@ -1,1 +1,1 @@
-var mnemonic = "disorder amazing rose gain fossil track poverty vapor impulse detect oppose scene";
+var mnemonic = "judge advance void thank carpet glide enroll hub law picnic provide atom";

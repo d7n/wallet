@@ -1,1 +1,1 @@
-var mnemonic = "arch shock million chronic ahead photo verify penalty fault verb clay pupil";
+var mnemonic = "vague prevent night clutch kitchen legend execute height jacket torch walk breeze";

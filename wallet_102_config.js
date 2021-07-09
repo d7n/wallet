@@ -1,1 +1,1 @@
-var mnemonic = "worth hungry unlock profit roast nurse coconut employ vehicle search cruel general";
+var mnemonic = "beach ghost eight dentist transfer symptom drive armor visual celery large ethics";

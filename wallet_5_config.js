@@ -1,1 +1,1 @@
-var mnemonic = "code room report random matrix feed coconut reason critic net diamond poet";
+var mnemonic = "defense refuse tongue faith sign beef poverty wall dentist spike stadium all";

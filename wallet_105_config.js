@@ -1,1 +1,1 @@
-var mnemonic = "gun next mean sense give moon kitten split animal captain deny organ";
+var mnemonic = "hawk impulse dance weasel visit couple oak celery disorder budget climb border";

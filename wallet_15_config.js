@@ -1,1 +1,1 @@
-var mnemonic = "badge glue bid comic ripple large voice dutch repeat price canyon aim";
+var mnemonic = "atom play brand minor pet miracle lobster denial tent usage phrase craft";

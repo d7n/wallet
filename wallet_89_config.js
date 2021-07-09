@@ -1,1 +1,1 @@
-var mnemonic = "state snake sense smooth shield sheriff ripple cart drop shuffle bomb begin";
+var mnemonic = "wing lava mechanic vocal fashion young before bundle fortune spare atom cabbage";

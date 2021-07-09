@@ -1,1 +1,1 @@
-var mnemonic = "spawn cool arrow lesson hunt person current tribe salute purse peace topic";
+var mnemonic = "anger keep often solve crowd donate effort cliff enter square strong major";

@@ -1,1 +1,1 @@
-var mnemonic = "fault dolphin behind busy cupboard public pig rubber ocean link wisdom brush";
+var mnemonic = "vote quick system bleak pelican kid program hero head betray return federal";

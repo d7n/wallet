@@ -1,1 +1,1 @@
-var mnemonic = "begin maximum garden cart hen list wasp green receive road clock floor";
+var mnemonic = "noise media glow horn illegal ride young general evoke chase inhale knife";

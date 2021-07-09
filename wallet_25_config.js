@@ -1,1 +1,1 @@
-var mnemonic = "spread opinion reflect worth creek knife defense prize catalog marine spoon work";
+var mnemonic = "inside scorpion sadness addict online oval jaguar grunt raw warfare ahead above";

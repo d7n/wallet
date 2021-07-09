@@ -1,1 +1,1 @@
-var mnemonic = "close vote figure physical radar maze embark other dirt river brief learn";
+var mnemonic = "squirrel warrior meadow reward cabin bleak wild wasp useful globe again vivid";

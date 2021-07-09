@@ -1,1 +1,1 @@
-var mnemonic = "cargo diagram current speak snake pen clarify base dinosaur spin glimpse gun";
+var mnemonic = "speak vanish glad depart rebuild theory merit next couple list type fly";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune reward canoe arena suit swing misery notice surround nerve mystery absent";
+var mnemonic = "neglect young balance off weekend cancel cherry lawn chapter salad tornado turn";

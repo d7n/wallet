@@ -1,1 +1,1 @@
-var mnemonic = "parent museum eight require shove lonely orchard book burden marriage lecture deal";
+var mnemonic = "scout noise wasp miss spring afraid lecture devote skirt congress draw pull";

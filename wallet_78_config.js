@@ -1,1 +1,1 @@
-var mnemonic = "day help super volcano slab suit zoo club salad dawn nasty dinosaur";
+var mnemonic = "peanut dash smoke tomato grain ski fault file wool royal hammer shove";

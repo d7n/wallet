@@ -1,1 +1,1 @@
-var mnemonic = "enough tunnel answer smoke toe unlock come face dismiss ritual recipe timber";
+var mnemonic = "height magic noble light wild length load asthma local hidden correct champion";

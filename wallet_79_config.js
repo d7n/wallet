@@ -1,1 +1,1 @@
-var mnemonic = "erosion truth tell expose zero twin sauce strategy ostrich night dune gorilla";
+var mnemonic = "record shuffle dinosaur either light subject guilt already vehicle gauge crew sister";

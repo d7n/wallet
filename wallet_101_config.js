@@ -1,1 +1,1 @@
-var mnemonic = "elite faith column layer tower write response luxury like thumb lounge police";
+var mnemonic = "today talk faith betray ceiling dose engage element alone squeeze nephew raven";

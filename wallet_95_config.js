@@ -1,1 +1,1 @@
-var mnemonic = "border fun destroy champion blossom want vacuum make myth skirt curve claw";
+var mnemonic = "fatal marble then brush final climb rail horn person marble provide south";

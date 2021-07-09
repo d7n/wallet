@@ -1,1 +1,1 @@
-var mnemonic = "spoil gallery pumpkin milk favorite secret caught lunch coil minute riot evoke";
+var mnemonic = "cradle bleak response annual hazard horse proof siren carry rice bottom off";

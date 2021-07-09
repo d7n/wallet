@@ -1,1 +1,1 @@
-var mnemonic = "use hope idle section excess suggest envelope summer culture frequent history shop";
+var mnemonic = "dinner word sustain fold copper mimic wheel behave thrive swamp duty long";

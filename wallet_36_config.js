@@ -1,1 +1,1 @@
-var mnemonic = "legal midnight exile report yard pluck stumble common lecture swear era museum";
+var mnemonic = "utility rate poet yard grocery enforce air young rain link sheriff remove";

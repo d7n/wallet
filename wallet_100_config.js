@@ -1,1 +1,1 @@
-var mnemonic = "tobacco hope drive bomb dirt alarm permit insect merit reduce cheese moral";
+var mnemonic = "ripple nuclear beyond mix noodle park december daughter decrease drop ozone spread";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage caught vehicle ahead void gossip pigeon office outside token actress admit";
+var mnemonic = "pilot solve under select volcano blush chat faith quick spy miss tennis";

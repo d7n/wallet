@@ -1,1 +1,1 @@
-var mnemonic = "bird quiz payment gas stairs attend hammer fee better half leg nothing";
+var mnemonic = "curve same discover aim grace harsh vacuum galaxy force lion acoustic flight";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder hand tortoise setup burden intact exact wonder merge forward aim front";
+var mnemonic = "calm tobacco gold find wood slogan skill donkey board edge human project";

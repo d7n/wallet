@@ -1,1 +1,1 @@
-var mnemonic = "squirrel jar wish excuse candy blush right cabin isolate urban snack point";
+var mnemonic = "empty ostrich welcome athlete silly unusual midnight sister peace salon razor camera";

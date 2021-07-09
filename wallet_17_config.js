@@ -1,1 +1,1 @@
-var mnemonic = "evolve glue month desk drastic govern breeze eternal gorilla agent slide buddy";
+var mnemonic = "rotate predict liar this draw lock tooth wood battle model movie famous";

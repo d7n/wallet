@@ -1,1 +1,1 @@
-var mnemonic = "oak process fall medal naive bachelor atom load sight close vanish into";
+var mnemonic = "dynamic one resource symptom chase unusual model method east fit achieve lumber";

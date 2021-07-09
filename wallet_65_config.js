@@ -1,1 +1,1 @@
-var mnemonic = "robot produce sword series hole push into output arrest replace arrow purse";
+var mnemonic = "pave alarm inner kingdom carry thing tray draft knife miracle awful under";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber chronic general shiver gallery want jungle legal maid before name seed";
+var mnemonic = "rule real vicious dentist sick dignity rally crowd senior ladder push plastic";

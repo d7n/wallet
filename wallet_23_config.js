@@ -1,1 +1,1 @@
-var mnemonic = "rate quote cargo erode sunset huge certain impact scheme mad rain budget";
+var mnemonic = "day orient okay keep develop hint chief swarm tunnel boring prevent weapon";
