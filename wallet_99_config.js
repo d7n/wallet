@@ -1,1 +1,1 @@
-var mnemonic = "october loan vague bag soldier keen beach piece luxury dish ask civil";
+var mnemonic = "defense silk erosion find cereal crazy horn private damp wolf amazing fossil";

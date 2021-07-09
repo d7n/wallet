@@ -1,1 +1,1 @@
-var mnemonic = "album injury neglect infant actual canal device bench pitch toast box client";
+var mnemonic = "spatial entry club theme into inspire romance cupboard donkey foster require produce";

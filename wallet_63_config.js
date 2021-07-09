@@ -1,1 +1,1 @@
-var mnemonic = "plastic term matrix laptop illness effort front tobacco link divide social opinion";
+var mnemonic = "organ rose salad life year leopard genre move valve bright choose icon";

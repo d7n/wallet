@@ -1,1 +1,1 @@
-var mnemonic = "steak whip evidence beach plug lobster assault shallow crew obvious blood make";
+var mnemonic = "hospital mercy charge aspect unhappy van crazy fantasy test sorry kiwi powder";

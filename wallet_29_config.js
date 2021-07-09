@@ -1,1 +1,1 @@
-var mnemonic = "empower panic lounge scrub budget resource organ trim casual board blast seminar";
+var mnemonic = "defense liberty lava empty banana crowd outside entire local conduct acoustic crash";

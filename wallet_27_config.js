@@ -1,1 +1,1 @@
-var mnemonic = "stone garage robot vague link transfer rose never candy diamond amused buyer";
+var mnemonic = "grow grit dose velvet fox cross stumble funny stock step mixture earth";

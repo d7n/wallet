@@ -1,1 +1,1 @@
-var mnemonic = "picture proof into select grit beyond burst female gown scan first swallow";
+var mnemonic = "clarify increase guide wrong reason better since lab suit reunion shine artist";

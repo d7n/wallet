@@ -1,1 +1,1 @@
-var mnemonic = "reveal deny hill creek video risk rice draw supply type gown series";
+var mnemonic = "crouch become inmate track hunt muscle flight dizzy spread mistake frequent angle";

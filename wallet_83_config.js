@@ -1,1 +1,1 @@
-var mnemonic = "claw vital fantasy judge drop this insane stairs unfold route soccer state";
+var mnemonic = "stool nominee toe course crucial laptop teach drastic kiwi source frost depart";

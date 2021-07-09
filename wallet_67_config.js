@@ -1,1 +1,1 @@
-var mnemonic = "all example tube swamp cost wedding robust sister tattoo rain tent battle";
+var mnemonic = "open pole robust duck vivid egg dragon frost identify fatigue stereo panel";

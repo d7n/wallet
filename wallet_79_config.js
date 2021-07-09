@@ -1,1 +1,1 @@
-var mnemonic = "drift rubber slush stone sentence friend weird stem ugly wall exhibit hair";
+var mnemonic = "credit network crop rotate horse erase comfort dentist name you tired nose";

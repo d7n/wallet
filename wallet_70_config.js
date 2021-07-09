@@ -1,1 +1,1 @@
-var mnemonic = "project carry vacant wife guilt lion mosquito general return camera interest check";
+var mnemonic = "process sure tribe angle term burger among rebuild network month tennis together";

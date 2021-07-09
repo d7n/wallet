@@ -1,1 +1,1 @@
-var mnemonic = "stay bright divorce duty entire rifle world kidney alien final cancel injury";
+var mnemonic = "crazy enjoy hurdle rate elegant armor major earn wage lift ignore tent";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch law click icon clip arrive decorate bring toe forum talent wall";
+var mnemonic = "eye spell noise monster furnace hedgehog random attitude moment enter kitchen trap";

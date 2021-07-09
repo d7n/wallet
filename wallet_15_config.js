@@ -1,1 +1,1 @@
-var mnemonic = "ginger enemy north stumble name awesome crack reveal egg toward burst lava";
+var mnemonic = "child truth village found join cool aerobic casino venue grocery mixed erupt";

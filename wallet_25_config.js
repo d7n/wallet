@@ -1,1 +1,1 @@
-var mnemonic = "title zero custom poverty exchange marble material ozone visit cute name wreck";
+var mnemonic = "flavor slide ball table camp mansion canoe cruise vintage ridge raccoon tone";

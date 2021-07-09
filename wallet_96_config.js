@@ -1,1 +1,1 @@
-var mnemonic = "inquiry husband just barely will figure arrange canal castle wool oil tunnel";
+var mnemonic = "blush win ribbon token ranch february apple leader access material invite raise";

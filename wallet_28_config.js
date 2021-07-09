@@ -1,1 +1,1 @@
-var mnemonic = "double nice sentence birth barely angry venture march deliver double sock party";
+var mnemonic = "spell plunge ivory sketch board sphere radio review brush harsh worry blush";

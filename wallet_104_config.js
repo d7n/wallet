@@ -1,1 +1,1 @@
-var mnemonic = "they funny unknown blind adjust affair sadness skin arena menu velvet loyal";
+var mnemonic = "wet faint spike endorse hammer fruit exhaust rigid sorry cube exact fetch";

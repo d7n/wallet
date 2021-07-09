@@ -1,1 +1,1 @@
-var mnemonic = "pig firm swap infant jump hood flower journey deny seminar scorpion release";
+var mnemonic = "era royal shaft rely bleak attack tunnel arctic spot deposit excess hard";

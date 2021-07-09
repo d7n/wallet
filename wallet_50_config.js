@@ -1,1 +1,1 @@
-var mnemonic = "there humor language output model main program athlete humor desk paddle transfer";
+var mnemonic = "weather hurry omit crystal tent napkin wrap city fantasy crumble nuclear clay";

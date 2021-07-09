@@ -1,1 +1,1 @@
-var mnemonic = "skill proof task desk comic common monkey blood number speak find offer";
+var mnemonic = "card stool voyage pelican blast kitchen chef cloth square merge replace dutch";

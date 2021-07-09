@@ -1,1 +1,1 @@
-var mnemonic = "improve burden genre shy involve tube sauce trigger shove initial alcohol sting";
+var mnemonic = "unfold action long stay stage fiscal material swallow rocket blast kind home";

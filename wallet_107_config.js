@@ -1,1 +1,1 @@
-var mnemonic = "notable force scheme eight brand lemon extend utility sweet spy rely deer";
+var mnemonic = "conduct confirm scorpion edge owner purchase chest funny follow tag situate ball";

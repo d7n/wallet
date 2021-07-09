@@ -1,1 +1,1 @@
-var mnemonic = "portion couple zero water arrive deny you series link armor east buzz";
+var mnemonic = "tell bone wool attract romance image celery cheese dynamic anchor sudden inquiry";

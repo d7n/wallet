@@ -1,1 +1,1 @@
-var mnemonic = "inhale fog shield ceiling museum quick disagree survey disorder bike trust one";
+var mnemonic = "jump inflict useful syrup engine frozen faculty swear strategy erupt happy decade";

@@ -1,1 +1,1 @@
-var mnemonic = "can trophy meadow purpose grass naive quality bounce sock know sure honey";
+var mnemonic = "exotic leaf logic quick renew swing repeat social desk vocal pumpkin section";

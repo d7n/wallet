@@ -1,1 +1,1 @@
-var mnemonic = "mule awake blue alpha awesome raccoon kitten awake velvet brain armor charge";
+var mnemonic = "ball lawn damage deposit lake sibling deer uncover dilemma media plug sample";

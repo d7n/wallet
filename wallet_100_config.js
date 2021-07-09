@@ -1,1 +1,1 @@
-var mnemonic = "project gather crystal curious trigger tilt damage leader digital rule tank company";
+var mnemonic = "rule fault logic sight senior pistol problem ticket order slender affair attitude";

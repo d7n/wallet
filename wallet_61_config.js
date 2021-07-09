@@ -1,1 +1,1 @@
-var mnemonic = "zero like current end ready impact sure away marine glare try bench";
+var mnemonic = "today improve place tribe have arrive orange good dawn gap warm music";

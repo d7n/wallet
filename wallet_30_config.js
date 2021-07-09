@@ -1,1 +1,1 @@
-var mnemonic = "share foot hunt acoustic immune flavor victory dolphin save harvest seminar gift";
+var mnemonic = "course midnight fish movie share forget nephew citizen owner energy width road";

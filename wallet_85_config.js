@@ -1,1 +1,1 @@
-var mnemonic = "drill heart ring debate bone annual announce enhance question bamboo chaos congress";
+var mnemonic = "guess beauty shadow bomb bronze innocent muscle mix dinosaur veteran tornado flag";

@@ -1,1 +1,1 @@
-var mnemonic = "morning rare common riot there joy library empty trophy huge lunar water";
+var mnemonic = "world mammal man survey run sniff kit carry apart street flower shoe";

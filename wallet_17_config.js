@@ -1,1 +1,1 @@
-var mnemonic = "rate million frost bulb brick orbit sport broccoli movie apology era art";
+var mnemonic = "pair book humble scene actor giant clever intact oil first coin pride";

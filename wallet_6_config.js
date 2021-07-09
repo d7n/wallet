@@ -1,1 +1,1 @@
-var mnemonic = "stadium token tennis ability notice float mail fee salon weather opera fault";
+var mnemonic = "museum estate donkey abuse illegal sense board accuse dust dutch blast risk";

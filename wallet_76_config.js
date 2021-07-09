@@ -1,1 +1,1 @@
-var mnemonic = "fruit rib limit excess gas volcano agent picnic device palm under abstract";
+var mnemonic = "trigger claim road erupt vast relax border payment cart fish educate elbow";

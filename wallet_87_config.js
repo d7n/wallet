@@ -1,1 +1,1 @@
-var mnemonic = "sign autumn spend spy spread ordinary jump glare extra short aunt entry";
+var mnemonic = "any air bulk screen imitate mask clarify injury roof current surface object";

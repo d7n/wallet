@@ -1,1 +1,1 @@
-var mnemonic = "basket engage depart arm position void kit before wife fall valve charge";
+var mnemonic = "chat donor matrix nerve unknown bulk salute soccer grow lemon trade parent";

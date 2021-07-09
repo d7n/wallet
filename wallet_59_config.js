@@ -1,1 +1,1 @@
-var mnemonic = "gauge record saddle slide attract eight cover submit truth brush bleak clutch";
+var mnemonic = "point very gentle that flee infant few farm pilot drift regular cattle";

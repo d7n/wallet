@@ -1,1 +1,1 @@
-var mnemonic = "cave high wild squeeze cloth napkin all season olive flat tilt weasel";
+var mnemonic = "lend oil normal nothing occur sudden immense north shy food smart seminar";

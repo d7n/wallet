@@ -1,1 +1,1 @@
-var mnemonic = "major fatigue field project model phrase casino tomato play vendor frame tiny";
+var mnemonic = "blind system illness lava fiber wash hub neutral general barely shaft depart";

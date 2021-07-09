@@ -1,1 +1,1 @@
-var mnemonic = "program key naive original require ivory sphere entry outer crouch build fatigue";
+var mnemonic = "slow gaze rapid sword ten disease express viable dizzy virus hood nuclear";

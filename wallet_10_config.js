@@ -1,1 +1,1 @@
-var mnemonic = "burst diagram fire salon frequent alter crumble upgrade steel option dance middle";
+var mnemonic = "laundry thunder filter purpose left peace female clog sausage level replace cycle";

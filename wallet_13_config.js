@@ -1,1 +1,1 @@
-var mnemonic = "quarter dream lounge census curtain abstract surprise census fat blade shy reject";
+var mnemonic = "narrow day mandate gravity gloom tomato crumble empower wine room goose fringe";

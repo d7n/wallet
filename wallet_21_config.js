@@ -1,1 +1,1 @@
-var mnemonic = "moment goose spin clump hair surprise trumpet demise best puppy doll produce";
+var mnemonic = "magic badge match bullet vote real episode review immense fold bridge wage";

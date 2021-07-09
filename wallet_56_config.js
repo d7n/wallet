@@ -1,1 +1,1 @@
-var mnemonic = "antenna recipe dish yellow gossip scatter breeze farm tool ugly fire three";
+var mnemonic = "swallow walnut observe riot law video toe rule scissors approve uniform shallow";

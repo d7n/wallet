@@ -1,1 +1,1 @@
-var mnemonic = "loud ice loan idea leader legal already add alcohol morning mirror cereal";
+var mnemonic = "square minor situate tilt thrive affair eight script arena pilot galaxy lottery";

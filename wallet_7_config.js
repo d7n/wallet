@@ -1,1 +1,1 @@
-var mnemonic = "energy quiz sugar consider aware system mammal bone top hazard hedgehog average";
+var mnemonic = "total tomorrow divert surface safe need now check income viable pact paddle";

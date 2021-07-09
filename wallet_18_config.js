@@ -1,1 +1,1 @@
-var mnemonic = "sentence actor tomato saddle warm ensure game monitor badge steak whisper apple";
+var mnemonic = "wrestle place major captain school onion juice expire eye wrist unknown swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist letter mango boost pupil fat ask swarm screen fault identify wood";
+var mnemonic = "square metal base era pistol figure zone spoon broccoli food pencil casual";

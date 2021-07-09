@@ -1,1 +1,1 @@
-var mnemonic = "panda lawsuit virus clean portion pluck zoo atom praise else ripple mechanic";
+var mnemonic = "pool tiny deal all cup process hen jeans online recipe suit cement";

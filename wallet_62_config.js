@@ -1,1 +1,1 @@
-var mnemonic = "task merge still kind private dash scare visit supreme pear deliver able";
+var mnemonic = "evil enjoy soup feed salt glue giggle voice marble snack marine balance";

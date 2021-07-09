@@ -1,1 +1,1 @@
-var mnemonic = "daughter force jacket girl select tag equal prepare switch frozen trade blast";
+var mnemonic = "snap scout hotel analyst emotion vessel ring olympic meat toy stone gift";

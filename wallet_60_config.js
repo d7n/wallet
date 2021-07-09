@@ -1,1 +1,1 @@
-var mnemonic = "favorite field cherry jelly print aisle uniform current palm spend ceiling romance";
+var mnemonic = "time urge avoid supreme deny sauce bottom muscle stem hundred almost dawn";

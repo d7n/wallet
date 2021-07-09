@@ -1,1 +1,1 @@
-var mnemonic = "stage bargain top crime butter umbrella naive remain post holiday misery universe";
+var mnemonic = "swim october blouse table error tide ahead desert make patch select thing";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling unfold noble harbor relax maximum glance cool machine horse refuse scene";
+var mnemonic = "salt car clerk usage exclude unable below decade useful wedding curtain spawn";

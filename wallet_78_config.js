@@ -1,1 +1,1 @@
-var mnemonic = "replace license spray record hen sword hotel sick cluster stone home draft";
+var mnemonic = "cook capital loyal cement next sunset gentle alley fever latin piano flash";

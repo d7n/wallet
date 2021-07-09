@@ -1,1 +1,1 @@
-var mnemonic = "slice stone method liberty child reason alcohol cage monster blood borrow crane";
+var mnemonic = "target chapter honey muscle offer garage ready trend tortoise card ice film";

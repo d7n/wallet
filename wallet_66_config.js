@@ -1,1 +1,1 @@
-var mnemonic = "round wine return cram image burst try tissue lemon captain novel okay";
+var mnemonic = "taste ginger relief solution laptop off candy indicate blush embody coral upon";

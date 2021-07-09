@@ -1,1 +1,1 @@
-var mnemonic = "velvet wet oyster idea proud vote sing coyote cotton account risk elegant";
+var mnemonic = "gentle brass aim food onion tray strong outer scissors useful clever main";

@@ -1,1 +1,1 @@
-var mnemonic = "sport list report salon elegant sunny tornado rent group frame style stereo";
+var mnemonic = "explain symbol perfect present metal interest miss over egg sail suffer swarm";

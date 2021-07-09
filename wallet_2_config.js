@@ -1,1 +1,1 @@
-var mnemonic = "indicate sudden sketch avoid measure next physical place swarm castle gallery witness";
+var mnemonic = "right oppose dash fabric stool modify auction puzzle stuff bubble found gate";

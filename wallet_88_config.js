@@ -1,1 +1,1 @@
-var mnemonic = "jaguar belt circle trade assist blush test more toy symbol joy opinion";
+var mnemonic = "cake hazard run rescue creek season session flee main marble december cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "chair plate silk fall ugly label base squeeze palm box catalog ankle";
+var mnemonic = "fault cannon total crucial nest public infant benefit talent observe pioneer matrix";

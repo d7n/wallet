@@ -1,1 +1,1 @@
-var mnemonic = "body squeeze muffin exchange physical stumble table fossil differ album giggle want";
+var mnemonic = "observe clip school valid neutral shift ship bargain fame drink shrimp genre";

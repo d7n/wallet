@@ -1,1 +1,1 @@
-var mnemonic = "mad tent gift milk hotel enforce urge outside render gain crush despair";
+var mnemonic = "gloom wage civil frame slogan lamp poem slogan guess bacon lesson squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "judge tomato pottery elegant above sight dial issue example embody column budget";
+var mnemonic = "combine predict equip rent shoe sport choice ribbon odor toast student wagon";

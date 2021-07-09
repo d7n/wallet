@@ -1,1 +1,1 @@
-var mnemonic = "rare valley federal lava humor mimic escape flip rigid voyage hard oak";
+var mnemonic = "toy copy defy more extend quit staff square casino find onion liquid";

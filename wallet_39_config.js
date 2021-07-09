@@ -1,1 +1,1 @@
-var mnemonic = "system rich ill legal clerk stomach tilt render away whisper mention hire";
+var mnemonic = "burst popular other grocery twelve position stool tag aunt vacant brick sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse senior old inside cash trigger arena grow recipe huge cycle artist";
+var mnemonic = "ostrich devote hundred summer box cement drama fragile focus method aspect pilot";

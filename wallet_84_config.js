@@ -1,1 +1,1 @@
-var mnemonic = "tackle picnic gadget curve lens behind oyster small veteran sudden govern legend";
+var mnemonic = "impose assume next section day deposit skirt almost fatigue faint record rescue";

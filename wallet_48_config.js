@@ -1,1 +1,1 @@
-var mnemonic = "turtle enforce wrestle rib define tail lamp boy unknown magnet between potato";
+var mnemonic = "couch elder repeat kit sail veteran such advice anger ice gloom bracket";

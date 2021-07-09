@@ -1,1 +1,1 @@
-var mnemonic = "town type under basket collect once congress refuse disagree yard crystal rent";
+var mnemonic = "develop raccoon injury apple such pluck tuna globe obscure call minimum acoustic";

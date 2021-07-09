@@ -1,1 +1,1 @@
-var mnemonic = "silver divorce bonus mammal picture myth inmate oven tuna glare candy mosquito";
+var mnemonic = "notice degree attitude width option left shuffle unveil half rigid morning army";

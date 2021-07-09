@@ -1,1 +1,1 @@
-var mnemonic = "trophy flock like exhibit census canal invest praise hat bitter rib item";
+var mnemonic = "clay perfect client advice phrase mechanic sense pulp pepper curious essence able";

@@ -1,1 +1,1 @@
-var mnemonic = "setup lyrics side fabric melody rebel level stone purse nurse pink electric";
+var mnemonic = "welcome vessel body uphold cigar motor stem miss art tray fever cement";

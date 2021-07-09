@@ -1,1 +1,1 @@
-var mnemonic = "relax ecology pyramid jazz join chicken fuel legend world alert degree embrace";
+var mnemonic = "drum artist ship arctic typical hawk detail pattern neglect month together gown";

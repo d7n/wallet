@@ -1,1 +1,1 @@
-var mnemonic = "behave maid merry brain spell congress anger wrestle process problem awake heart";
+var mnemonic = "reopen dwarf clerk huge solar away conduct grow steel inherit trash film";

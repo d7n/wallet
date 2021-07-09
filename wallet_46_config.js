@@ -1,1 +1,1 @@
-var mnemonic = "pencil unknown virtual depart must sausage couch ramp attract jump hope december";
+var mnemonic = "green battle eight pair kit valley still mimic piano common cereal disorder";

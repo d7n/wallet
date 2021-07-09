@@ -1,1 +1,1 @@
-var mnemonic = "bulk spoil near memory scorpion unlock youth output young output wrap crisp";
+var mnemonic = "choice radio can smart present fabric round wing beauty fatal garlic border";

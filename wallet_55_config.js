@@ -1,1 +1,1 @@
-var mnemonic = "bus myth flame flame issue cargo slim release drum avocado silly shed";
+var mnemonic = "cotton chat present dad desk soup shaft sting panic ride mind fish";

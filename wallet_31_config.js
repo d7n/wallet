@@ -1,1 +1,1 @@
-var mnemonic = "twenty intact crush curious note pottery prosper feel occur almost pepper meat";
+var mnemonic = "clump iron cupboard measure ivory ivory enough giraffe update desert vague large";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse borrow abstract noble swamp empty fire void light walnut arrange body";
+var mnemonic = "obvious isolate route verb dream wink refuse silver boy verify fringe enough";

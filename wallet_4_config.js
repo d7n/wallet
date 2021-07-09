@@ -1,1 +1,1 @@
-var mnemonic = "spot deny cream analyst fiction mixed fruit diamond middle hurt express bamboo";
+var mnemonic = "gentle shop taxi zoo maximum ability invite radio avoid drastic mask glory";

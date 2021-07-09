@@ -1,1 +1,1 @@
-var mnemonic = "extend battle unaware caution scrub ready slim axis coil reward salon atom";
+var mnemonic = "ketchup lamp auction wire chat where tattoo sniff swarm bitter oppose remain";

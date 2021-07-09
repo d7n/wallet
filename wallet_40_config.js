@@ -1,1 +1,1 @@
-var mnemonic = "stable parrot penalty pave yard violin display afraid tobacco main lava mirror";
+var mnemonic = "axis wash soup client dish crowd else radar match they over camera";

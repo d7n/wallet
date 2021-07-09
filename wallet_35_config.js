@@ -1,1 +1,1 @@
-var mnemonic = "there jelly alarm vibrant bunker raise metal panel ritual purse tattoo visa";
+var mnemonic = "occur slow float bird shop ginger unit estate key slam flee athlete";
