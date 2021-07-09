@@ -1,1 +1,1 @@
-var mnemonic = "inhale guess hold quick choice birth anchor coffee strong stable list harsh";
+var mnemonic = "walk train symbol immune feel egg gadget suspect slogan sell useless snap";

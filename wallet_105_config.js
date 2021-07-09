@@ -1,1 +1,1 @@
-var mnemonic = "casual sting produce room faint toddler bicycle glue thumb inmate file junk";
+var mnemonic = "demand obey avoid narrow stem feel minor ship couple nominee forward fashion";

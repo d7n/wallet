@@ -1,1 +1,1 @@
-var mnemonic = "pole mammal burger drink dream unfair exit occur girl together retire talk";
+var mnemonic = "noise muffin dance retreat knock space timber rigid wave blind fiscal sure";

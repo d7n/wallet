@@ -1,1 +1,1 @@
-var mnemonic = "hundred scan remain fortune tiger photo ugly simple reward engage once plate";
+var mnemonic = "rose absurd open angle car blame keep sad doctor sign convince reject";

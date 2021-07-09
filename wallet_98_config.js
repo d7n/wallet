@@ -1,1 +1,1 @@
-var mnemonic = "wear pear sample estate supply settle vintage cloth fever resemble illness scene";
+var mnemonic = "switch hidden tissue fragile cherry genuine volcano question border mistake screen bar";

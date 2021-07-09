@@ -1,1 +1,1 @@
-var mnemonic = "ozone stomach initial viable build cheese surprise father fancy lobster debris crouch";
+var mnemonic = "pelican raccoon crack will arrange market ignore music bamboo relax taste kiwi";

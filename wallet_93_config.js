@@ -1,1 +1,1 @@
-var mnemonic = "nut feature phrase camp grit boat zero word capital bomb buffalo rally";
+var mnemonic = "risk harbor day real few raccoon style raw congress cradle harvest basket";

@@ -1,1 +1,1 @@
-var mnemonic = "host bubble poverty use matter magic reason tribe gate scorpion accident coral";
+var mnemonic = "patrol hedgehog exile myself enact bronze luxury bonus address primary check dilemma";

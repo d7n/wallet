@@ -1,1 +1,1 @@
-var mnemonic = "firm quiz problem debris cabin can motor flat distance clip reject render";
+var mnemonic = "hood ordinary marble where clarify cloth stadium what praise west spike gold";

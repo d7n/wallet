@@ -1,1 +1,1 @@
-var mnemonic = "chalk next lens bean area waste joke tree address squeeze depend undo";
+var mnemonic = "early wall neck essay little again maid climb version tail cheap leader";

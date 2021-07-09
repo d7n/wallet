@@ -1,1 +1,1 @@
-var mnemonic = "cram lyrics stand gauge film twice attack correct curious hover beach there";
+var mnemonic = "short west desk engine cloud elite sick cheap vacant arch cluster canyon";

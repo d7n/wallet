@@ -1,1 +1,1 @@
-var mnemonic = "jewel animal anxiety spare venture tumble sort pretty ostrich sugar mango guess";
+var mnemonic = "exact answer sheriff photo flat science into protect trophy gift victory resource";

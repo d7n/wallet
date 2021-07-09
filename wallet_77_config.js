@@ -1,1 +1,1 @@
-var mnemonic = "affair aerobic account ridge brown duck rifle heart stay identify have hotel";
+var mnemonic = "expand chair fog wink marriage risk order original level slice sketch tennis";

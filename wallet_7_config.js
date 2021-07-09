@@ -1,1 +1,1 @@
-var mnemonic = "abandon trumpet mechanic unveil much uncle enforce cash provide nation will useless";
+var mnemonic = "flower entire minute umbrella memory guide movie such bamboo episode regret crew";

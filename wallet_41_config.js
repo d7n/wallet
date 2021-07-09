@@ -1,1 +1,1 @@
-var mnemonic = "clerk champion more corn disorder document team lunch tray grass enforce coral";
+var mnemonic = "delay cliff subject good shoe tomato head result leopard later employ letter";

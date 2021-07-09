@@ -1,1 +1,1 @@
-var mnemonic = "below surge horse slight warm retreat chief spoil invest home panel person";
+var mnemonic = "cactus cream ghost minimum live mountain fly hunt axis warfare inherit calm";

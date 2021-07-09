@@ -1,1 +1,1 @@
-var mnemonic = "oppose mansion style opinion shaft wool nurse black worry check vessel below";
+var mnemonic = "outside chunk garbage option favorite mandate nurse antique avoid decide future wrist";

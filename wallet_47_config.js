@@ -1,1 +1,1 @@
-var mnemonic = "guess merry bench dog hair color increase raw happy gas ship face";
+var mnemonic = "soft immune cereal wash orbit vital scan true inside absent leg coin";

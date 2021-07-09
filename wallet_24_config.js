@@ -1,1 +1,1 @@
-var mnemonic = "exit dove potato concert vessel fluid wine creek spice drill divide celery";
+var mnemonic = "lab deal december winner rally token effort maximum street small peasant arrow";

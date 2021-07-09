@@ -1,1 +1,1 @@
-var mnemonic = "symbol hurt quote tennis stool off comic still romance mosquito glove want";
+var mnemonic = "process garden unique inquiry initial festival venture ordinary sauce home august cactus";

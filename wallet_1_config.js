@@ -1,1 +1,1 @@
-var mnemonic = "travel grow hope quiz wet palace convince fluid among assault odor attack";
+var mnemonic = "hill diamond prepare session scare physical deer blue direct laptop version crisp";

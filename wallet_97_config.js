@@ -1,1 +1,1 @@
-var mnemonic = "various motion force love glare donkey word answer skull mail demand income";
+var mnemonic = "about drink pear uncle energy access stuff matrix ability antique almost whale";

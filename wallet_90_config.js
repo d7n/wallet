@@ -1,1 +1,1 @@
-var mnemonic = "chicken barely sweet core glove then surge blossom pink cup donkey canyon";
+var mnemonic = "eternal egg satisfy limb copy voice rifle claw okay rate angry box";

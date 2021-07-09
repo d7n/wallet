@@ -1,1 +1,1 @@
-var mnemonic = "wash drama saddle chair breeze pear feature census caught boring liar disease";
+var mnemonic = "cat sell smooth survey joy fiscal there maze confirm achieve shock evoke";

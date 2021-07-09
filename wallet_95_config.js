@@ -1,1 +1,1 @@
-var mnemonic = "spice gasp forest exhibit fine seed general puzzle burger fringe slight shift";
+var mnemonic = "walk pupil fringe ignore expand breeze fat toy very unfold extra position";

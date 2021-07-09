@@ -1,1 +1,1 @@
-var mnemonic = "wealth jeans disagree van juice trust release cliff dish humble seven share";
+var mnemonic = "eternal forest arm polar faith cage siege rib hour cactus diamond kidney";

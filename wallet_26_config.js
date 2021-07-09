@@ -1,1 +1,1 @@
-var mnemonic = "muscle rose lift wood jelly primary jelly correct satisfy risk cycle paddle";
+var mnemonic = "budget what possible profit agree snow maximum response wagon dutch also summer";

@@ -1,1 +1,1 @@
-var mnemonic = "idea oven knife amused cloud pulp duck wait fashion mule sure dinosaur";
+var mnemonic = "electric token region dress alone liar glide peace infant fire pull humble";

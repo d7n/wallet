@@ -1,1 +1,1 @@
-var mnemonic = "reopen range mystery flavor mammal total feel item dish mom bar man";
+var mnemonic = "table film plunge inform vicious uniform expand climb spider various road permit";

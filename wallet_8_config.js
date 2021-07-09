@@ -1,1 +1,1 @@
-var mnemonic = "loop staff amount pelican drift depth damp cupboard injury fiscal present steak";
+var mnemonic = "hint bench talent hundred load girl vote digital north whisper undo blossom";

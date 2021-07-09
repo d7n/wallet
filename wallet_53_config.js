@@ -1,1 +1,1 @@
-var mnemonic = "cake satoshi secret slogan enough tiny spell funny timber document name tornado";
+var mnemonic = "bike obscure battle attitude hen toe leopard hamster strong lab broccoli marriage";

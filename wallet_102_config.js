@@ -1,1 +1,1 @@
-var mnemonic = "charge market man sword bar soul planet scrap empower kind assist inherit";
+var mnemonic = "pill pony payment include bag axis entry share survey reward tennis mango";

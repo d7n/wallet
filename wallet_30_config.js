@@ -1,1 +1,1 @@
-var mnemonic = "swim exclude stand supply keen embody cube goddess victory cake kingdom soccer";
+var mnemonic = "give faculty kind custom garment cry multiply crater fit thunder soft head";

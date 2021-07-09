@@ -1,1 +1,1 @@
-var mnemonic = "cost quarter sniff mirror auto arena affair push wave glimpse build village";
+var mnemonic = "phrase file sorry measure purity opera nominee plunge slush valve result brown";

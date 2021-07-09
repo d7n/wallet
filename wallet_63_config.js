@@ -1,1 +1,1 @@
-var mnemonic = "color enhance orange between lake inner sorry bird smooth before track hollow";
+var mnemonic = "coil aware tag satoshi daring style into apart belt wine tattoo better";

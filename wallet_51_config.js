@@ -1,1 +1,1 @@
-var mnemonic = "echo buddy coast close thunder arch doll average secret cricket lab time";
+var mnemonic = "fit cost blossom pass menu elder spin clog envelope provide surprise hint";

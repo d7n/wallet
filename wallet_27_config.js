@@ -1,1 +1,1 @@
-var mnemonic = "truly embrace icon input eye squeeze egg hedgehog page ridge great achieve";
+var mnemonic = "loyal weird budget foot pigeon turtle base planet neither embody mirror inhale";

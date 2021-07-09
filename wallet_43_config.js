@@ -1,1 +1,1 @@
-var mnemonic = "minor tool cool stick mammal sight decrease hip photo come horn beach";
+var mnemonic = "diary giraffe token task boy woman blind blouse afford fiction gloom network";

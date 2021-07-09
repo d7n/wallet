@@ -1,1 +1,1 @@
-var mnemonic = "kitchen galaxy vintage pig drill original giggle inspire all rigid elder obtain";
+var mnemonic = "join frozen crazy remember churn wheat diet jungle ridge regret receive check";

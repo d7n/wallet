@@ -1,1 +1,1 @@
-var mnemonic = "venture slam usual swim unfair man machine valve brief exotic regular eternal";
+var mnemonic = "wash cat ignore head wedding huge decide bless radar comfort antique camera";

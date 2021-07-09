@@ -1,1 +1,1 @@
-var mnemonic = "bicycle pizza bulb diamond dismiss thumb family badge test trophy cream arena";
+var mnemonic = "modify pink twelve struggle focus sword fever harvest burger adult coin vehicle";

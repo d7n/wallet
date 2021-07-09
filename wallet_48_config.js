@@ -1,1 +1,1 @@
-var mnemonic = "vault boss olive barrel crane detect copy belt shoot reject industry episode";
+var mnemonic = "stock monitor ocean act wise alone enable exist phone hungry layer special";

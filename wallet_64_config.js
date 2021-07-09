@@ -1,1 +1,1 @@
-var mnemonic = "sauce sting make review also ensure decrease volume erode type virtual dolphin";
+var mnemonic = "brass park ridge gorilla upon play forest anger blade basket toddler short";

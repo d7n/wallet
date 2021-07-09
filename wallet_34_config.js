@@ -1,1 +1,1 @@
-var mnemonic = "idle tomato muffin wreck thumb kick then start valid cool beyond boring";
+var mnemonic = "wave dream length seek half twin visa scheme desk hip harvest useless";

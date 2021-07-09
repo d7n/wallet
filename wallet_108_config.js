@@ -1,1 +1,1 @@
-var mnemonic = "treat dilemma century catalog bitter insane disease tuna layer patch body useful";
+var mnemonic = "miss forum describe cherry host canoe key enjoy term unique sentence shallow";

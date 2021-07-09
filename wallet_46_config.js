@@ -1,1 +1,1 @@
-var mnemonic = "betray friend amazing will prize weather sword autumn extend need child puzzle";
+var mnemonic = "tape dad auction salute please trick series destroy kind enter void rack";

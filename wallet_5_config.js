@@ -1,1 +1,1 @@
-var mnemonic = "tragic era someone exact afford rigid glare citizen build napkin october laptop";
+var mnemonic = "clutch insane brush pizza amount order piece volume lend clerk patient winter";

@@ -1,1 +1,1 @@
-var mnemonic = "rough funny muscle idle twenty ice situate fatal call skate crop clog";
+var mnemonic = "pave satoshi usual warm verify whisper weather wasp swing ill eye lazy";

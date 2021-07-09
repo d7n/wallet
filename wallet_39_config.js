@@ -1,1 +1,1 @@
-var mnemonic = "side earn tone keen pencil issue manage prevent tornado park poet guide";
+var mnemonic = "evolve vocal trend pigeon arrive decade engage legal derive describe gaze bleak";

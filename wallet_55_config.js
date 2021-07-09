@@ -1,1 +1,1 @@
-var mnemonic = "mom chronic appear boring battle draw milk guide venue cycle potato toward";
+var mnemonic = "bless deposit regret sense obey into hidden park valid polar volcano approve";

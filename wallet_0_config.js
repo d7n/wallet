@@ -1,1 +1,1 @@
-var mnemonic = "parade body phrase more chaos lock steel consider inspire razor wish shoulder";
+var mnemonic = "napkin oven cruise loud settle diary busy inhale dolphin artist resist draw";

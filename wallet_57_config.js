@@ -1,1 +1,1 @@
-var mnemonic = "reduce dune plate demand glove hurdle flash naive fade neutral proud property";
+var mnemonic = "mammal never chapter oppose nominee glance idea hurry broken knife gentle hair";

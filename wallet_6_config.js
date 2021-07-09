@@ -1,1 +1,1 @@
-var mnemonic = "ranch great sense country engage rescue excite domain media swim goose gauge";
+var mnemonic = "van stage eye chuckle window vibrant tennis hand claim glue pumpkin math";

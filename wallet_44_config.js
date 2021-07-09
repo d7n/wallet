@@ -1,1 +1,1 @@
-var mnemonic = "volume session squirrel crazy action write topic link notable field salt message";
+var mnemonic = "library yellow suit avocado view jar female someone barrel empower holiday uniform";

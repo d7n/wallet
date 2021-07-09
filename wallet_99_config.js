@@ -1,1 +1,1 @@
-var mnemonic = "trade illness cloud cement kiss example acid summer review traffic tell spray";
+var mnemonic = "dance mention report power apology possible knee spike minute rib enroll provide";

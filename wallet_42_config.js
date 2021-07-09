@@ -1,1 +1,1 @@
-var mnemonic = "spawn industry say cattle hat broom link upon order bird inch soap";
+var mnemonic = "evolve pause pony blossom chronic lawn allow art six hurry jacket melody";

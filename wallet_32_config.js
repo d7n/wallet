@@ -1,1 +1,1 @@
-var mnemonic = "brain urge grid midnight cushion market punch brain canyon round spend fade";
+var mnemonic = "smile flip place never weasel puppy hair chat near bridge unveil swear";

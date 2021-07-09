@@ -1,1 +1,1 @@
-var mnemonic = "cattle divide enlist diagram next market ozone such congress shrug laptop useful";
+var mnemonic = "replace cousin frost security boy cycle marble wrap equip best floor labor";

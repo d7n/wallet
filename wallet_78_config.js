@@ -1,1 +1,1 @@
-var mnemonic = "place jar depart pet can until fox trick shove mail figure tornado";
+var mnemonic = "ocean weasel element hurdle nest glass amused private exit quote sheriff unaware";

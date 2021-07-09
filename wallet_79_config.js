@@ -1,1 +1,1 @@
-var mnemonic = "cream just shine sail focus curious emerge monster describe panel educate security";
+var mnemonic = "person trick swamp fun royal lunar modify expire short truth divorce twist";

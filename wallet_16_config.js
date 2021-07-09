@@ -1,1 +1,1 @@
-var mnemonic = "during drip lunar parade door lion tunnel odor drama dirt risk tattoo";
+var mnemonic = "gauge sister witness repeat silent olive ill comic salmon crunch verb swap";

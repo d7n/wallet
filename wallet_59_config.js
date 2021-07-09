@@ -1,1 +1,1 @@
-var mnemonic = "wing peace blouse genius nerve simple soda heart pass impact spread lady";
+var mnemonic = "blood exhaust december nasty correct acid travel answer round minute smile aim";

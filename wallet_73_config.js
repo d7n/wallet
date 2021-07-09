@@ -1,1 +1,1 @@
-var mnemonic = "skull dish yellow tree cherry unknown fancy spider pole panel prevent inject";
+var mnemonic = "outside paddle elder farm company empower author select wet exercise decline bright";

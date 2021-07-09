@@ -1,1 +1,1 @@
-var mnemonic = "good agent dog castle key often curious galaxy soon dog mass future";
+var mnemonic = "earth grocery latin salute rack snap amount bring step coil ice quantum";

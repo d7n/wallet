@@ -1,1 +1,1 @@
-var mnemonic = "fresh twelve tornado pave eyebrow rain border father unable shoot cupboard canal";
+var mnemonic = "tray behave rescue later afford original blue chimney face fortune word walnut";

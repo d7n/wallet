@@ -1,1 +1,1 @@
-var mnemonic = "trophy shield weird elegant fox appear toast innocent buzz number honey horror";
+var mnemonic = "flip random ball lab once ice cheese thing rule movie pyramid live";

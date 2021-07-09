@@ -1,1 +1,1 @@
-var mnemonic = "arrest ship home change pumpkin curtain lyrics industry make width open scout";
+var mnemonic = "claim solution under buzz immense boil reopen shop finger bright safe often";

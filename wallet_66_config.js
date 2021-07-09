@@ -1,1 +1,1 @@
-var mnemonic = "alley carry eyebrow skirt fruit disagree copper myself morning nuclear party dust";
+var mnemonic = "disagree pumpkin stand asthma food flash author wrap squeeze slice return space";

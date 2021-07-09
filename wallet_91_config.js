@@ -1,1 +1,1 @@
-var mnemonic = "clarify globe want nurse ridge sport ski tube brush antique pool anxiety";
+var mnemonic = "regular amateur split smooth slam chapter physical milk list half renew camp";

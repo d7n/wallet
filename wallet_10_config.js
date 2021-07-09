@@ -1,1 +1,1 @@
-var mnemonic = "month inhale permit kiwi door case fruit swap rebel asthma joke urban";
+var mnemonic = "another scatter nurse monster fix dumb team focus play cinnamon humble inspire";

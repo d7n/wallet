@@ -1,1 +1,1 @@
-var mnemonic = "stand ride tree student good tip frog purpose evil weasel spirit special";
+var mnemonic = "ethics review pill opinion vendor gaze glance race fame quiz credit trumpet";

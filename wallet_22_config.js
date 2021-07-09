@@ -1,1 +1,1 @@
-var mnemonic = "cement pony surprise bless lens upgrade bridge illness patrol pluck wave upset";
+var mnemonic = "tennis vanish bargain method never share retire toward problem accident bread grid";

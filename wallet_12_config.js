@@ -1,1 +1,1 @@
-var mnemonic = "birth film soon close blame aerobic select amateur judge need country coconut";
+var mnemonic = "burst slide victory neutral ability situate seed pluck immense lamp special prosper";

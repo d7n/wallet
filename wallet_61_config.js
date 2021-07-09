@@ -1,1 +1,1 @@
-var mnemonic = "snap neglect scan release judge travel size license boil cradle chunk pudding";
+var mnemonic = "luggage essay script car modify length exchange radar glory fashion verify lesson";

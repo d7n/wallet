@@ -1,1 +1,1 @@
-var mnemonic = "brave olympic fix enlist soap solution arm measure flush proud sort bone";
+var mnemonic = "night camera sudden crumble category brave wisdom traffic ancient orient hollow canal";

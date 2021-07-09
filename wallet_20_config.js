@@ -1,1 +1,1 @@
-var mnemonic = "winter project mechanic swim spider strike also pass can erase tray earn";
+var mnemonic = "devote torch vibrant vibrant aisle range inmate spice used timber buyer rib";

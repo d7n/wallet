@@ -1,1 +1,1 @@
-var mnemonic = "fiction aware gauge suggest escape soup dice action salute bench salmon meadow";
+var mnemonic = "squeeze stage breeze cover predict just win hunt because guilt taste cloth";

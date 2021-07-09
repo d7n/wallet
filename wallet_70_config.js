@@ -1,1 +1,1 @@
-var mnemonic = "become ship camp wheel divide dove three chunk vehicle keep copy bulb";
+var mnemonic = "spell acid craft brief poet luggage brush clinic short fan endless essence";

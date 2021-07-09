@@ -1,1 +1,1 @@
-var mnemonic = "drama letter axis snap east fame limb chalk cook shift fancy kiwi";
+var mnemonic = "desert gauge draft chimney other limb ability toss text panda square step";

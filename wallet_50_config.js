@@ -1,1 +1,1 @@
-var mnemonic = "upgrade they rebel summer absorb real sense guilt vacuum abandon glory during";
+var mnemonic = "unable brass album rookie chuckle bar vocal receive above enjoy aisle long";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat verb plug hub nation grow senior twice sadness behind devote detail";
+var mnemonic = "dice giraffe fan egg junk flavor glance ugly nut point math panel";

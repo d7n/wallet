@@ -1,1 +1,1 @@
-var mnemonic = "dry fancy region lunch life army damage slam deal degree cycle squirrel";
+var mnemonic = "render public enroll hamster nurse awkward latin female silly there denial push";

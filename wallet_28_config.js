@@ -1,1 +1,1 @@
-var mnemonic = "conduct pyramid public science spot uphold cook maple horse roof suspect grape";
+var mnemonic = "reason torch puppy vague shoulder tape pet energy demise scorpion dove begin";

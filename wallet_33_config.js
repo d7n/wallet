@@ -1,1 +1,1 @@
-var mnemonic = "arrive shoulder glove unknown diagram tooth basket chuckle document design slam liberty";
+var mnemonic = "course exercise card snap spot nation record load figure depend wear gesture";

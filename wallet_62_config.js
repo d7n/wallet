@@ -1,1 +1,1 @@
-var mnemonic = "road crazy damp tumble blast exact seed neither cause alter room reduce";
+var mnemonic = "stage nation you process apology screen fade hospital chronic degree cost win";

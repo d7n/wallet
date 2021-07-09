@@ -1,1 +1,1 @@
-var mnemonic = "strike erupt industry enforce wrist upset say seek dawn spy crisp mean";
+var mnemonic = "system pulp pig beach blade member cook brick pretty marriage review smile";

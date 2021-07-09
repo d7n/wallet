@@ -1,1 +1,1 @@
-var mnemonic = "sentence lucky demand move cloth mountain crack tortoise connect valid average ostrich";
+var mnemonic = "cabbage lend liar saddle decade blush viable chief swim winter bubble seek";

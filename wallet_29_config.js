@@ -1,1 +1,1 @@
-var mnemonic = "main unit walnut calm accuse donkey trust reveal indicate tongue neglect ankle";
+var mnemonic = "adult slim town unveil citizen warrior destroy party tilt elite bread way";

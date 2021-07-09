@@ -1,1 +1,1 @@
-var mnemonic = "amateur voice staff save excuse double width use camera minimum bone rapid";
+var mnemonic = "police able all sun smile cargo toilet raccoon rude unusual daughter neither";

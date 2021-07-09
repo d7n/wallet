@@ -1,1 +1,1 @@
-var mnemonic = "jelly future minimum tool vapor play pen cable hint kit sauce over";
+var mnemonic = "around tiny noise galaxy grape phrase timber sound rough sort fat slim";

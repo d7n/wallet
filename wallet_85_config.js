@@ -1,1 +1,1 @@
-var mnemonic = "drill staff kite mobile half display verify enemy steak praise wood useful";
+var mnemonic = "dolphin will mistake stable run wool faint state era agent toss bless";

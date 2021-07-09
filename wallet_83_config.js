@@ -1,1 +1,1 @@
-var mnemonic = "source coil ladder absurd guess discover suffer define jaguar soda plunge buffalo";
+var mnemonic = "satisfy control taste pigeon monkey ability reject capable cable oval cage soccer";

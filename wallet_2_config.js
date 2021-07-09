@@ -1,1 +1,1 @@
-var mnemonic = "black embody hotel live cannon infant version day panda early soda soup";
+var mnemonic = "fan trim increase truth napkin hospital race visa spice tennis letter engage";
