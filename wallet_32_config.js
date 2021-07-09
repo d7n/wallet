@@ -1,1 +1,1 @@
-var mnemonic = "large humble rare olive parrot seek board like refuse devote donkey upon";
+var mnemonic = "make attitude hundred divert sign scare casino broom caution olympic session lazy";

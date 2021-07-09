@@ -1,1 +1,1 @@
-var mnemonic = "craft picnic endless sponsor glare breeze nuclear shuffle hockey nurse fence twice";
+var mnemonic = "busy salon face cube ribbon jungle absent bargain minimum boil oyster gravity";

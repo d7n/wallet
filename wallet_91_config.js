@@ -1,1 +1,1 @@
-var mnemonic = "stomach muffin rough reunion lab radio between isolate brother budget account diesel";
+var mnemonic = "save trouble mixture flight vague random spin exotic measure rescue wire loud";

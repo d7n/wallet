@@ -1,1 +1,1 @@
-var mnemonic = "obvious item find grocery minimum agree casino swamp shadow situate kingdom hand";
+var mnemonic = "shrimp only mirror skull antenna grid parent thing art announce market era";

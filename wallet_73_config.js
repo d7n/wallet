@@ -1,1 +1,1 @@
-var mnemonic = "rib badge dumb hawk twin zoo hurt throw pyramid major swap version";
+var mnemonic = "canoe magnet loud inner vessel exhibit minor during weapon illegal fat nut";

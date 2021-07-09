@@ -1,1 +1,1 @@
-var mnemonic = "process nice nut romance move civil spy stock picnic arctic parade execute";
+var mnemonic = "unusual long clinic network cat addict satoshi bicycle original aunt deer polar";

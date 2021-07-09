@@ -1,1 +1,1 @@
-var mnemonic = "leaf offer romance another abandon absurd chunk assist addict able silver timber";
+var mnemonic = "sustain citizen slim hood choice outer simple chalk insect alley unable swim";

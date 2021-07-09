@@ -1,1 +1,1 @@
-var mnemonic = "limb feed spoil comfort tomorrow borrow hand alley typical moral stuff decade";
+var mnemonic = "render arena weasel course pass atom grant miracle execute catalog crystal approve";

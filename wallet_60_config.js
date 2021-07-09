@@ -1,1 +1,1 @@
-var mnemonic = "love exercise they universe online velvet much earn pizza water song picture";
+var mnemonic = "ketchup banana security panic matrix rose stable jump raccoon breeze game album";

@@ -1,1 +1,1 @@
-var mnemonic = "mind talk possible derive inform carpet matter glimpse catch bike maze banner";
+var mnemonic = "tribe benefit invest noodle strategy confirm blur side voice sunset cube wink";

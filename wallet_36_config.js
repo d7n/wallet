@@ -1,1 +1,1 @@
-var mnemonic = "silly ugly idea biology slush other west cool cute focus focus barrel";
+var mnemonic = "stick shop surprise employ since sound sponsor double chapter thank brother hair";

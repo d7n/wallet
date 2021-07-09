@@ -1,1 +1,1 @@
-var mnemonic = "swarm april plastic pudding indoor sketch execute crunch random tumble roof arctic";
+var mnemonic = "gold force august mushroom tool harbor course sense human inspire scorpion pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "casino betray spend trouble symptom regret square almost skate rose aerobic proud";
+var mnemonic = "walnut entire clinic delay popular menu rally jelly robust fade wild detect";

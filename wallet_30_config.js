@@ -1,1 +1,1 @@
-var mnemonic = "worry bachelor about ability session license drop nurse pull inner quote camp";
+var mnemonic = "best torch forget pave shine blast coyote evil dolphin attend hundred better";

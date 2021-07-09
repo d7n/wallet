@@ -1,1 +1,1 @@
-var mnemonic = "core merit match move reason define slice company dynamic fee skill orange";
+var mnemonic = "jaguar pudding foil system magic assume dynamic rich pulse grape return grass";

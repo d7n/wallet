@@ -1,1 +1,1 @@
-var mnemonic = "frame injury nerve daring deal chief oxygen illegal sunny monster daughter vehicle";
+var mnemonic = "frequent tomato budget gloom sea glove expand rack decline teach faculty unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "cool flock city hollow wine swift crouch rose pitch bird exist east";
+var mnemonic = "unhappy subject pudding mad shallow act spot crumble humble author know poem";

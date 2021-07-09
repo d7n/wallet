@@ -1,1 +1,1 @@
-var mnemonic = "brisk remember foam couch figure physical margin ski kick jar achieve south";
+var mnemonic = "wall right dentist want hard assume track side announce thought bless swamp";

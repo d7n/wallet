@@ -1,1 +1,1 @@
-var mnemonic = "powder insane chaos action retreat gallery dentist menu hazard load movie vague";
+var mnemonic = "hockey assault frown armed pass boil face aisle outdoor obvious crash hawk";

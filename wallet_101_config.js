@@ -1,1 +1,1 @@
-var mnemonic = "trigger grit payment author clutch office era fatal also mass dentist pyramid";
+var mnemonic = "beef dash sniff mother crumble piece evidence viable garlic august scrap post";

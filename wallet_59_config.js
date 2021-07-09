@@ -1,1 +1,1 @@
-var mnemonic = "divorce practice pet flight network matrix source stick face perfect require mind";
+var mnemonic = "law fence domain garage runway ridge soap mouse maple crack clown genius";

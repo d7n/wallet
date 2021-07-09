@@ -1,1 +1,1 @@
-var mnemonic = "holiday learn venue region unfair foster life range sing dish swear cricket";
+var mnemonic = "butter artefact awkward label flash soul figure weird suggest small family claim";

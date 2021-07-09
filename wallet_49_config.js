@@ -1,1 +1,1 @@
-var mnemonic = "mind energy vehicle cause square unfair amazing friend inside private lend bulb";
+var mnemonic = "sorry curtain opinion start quick illegal adult blur quality seed extra depend";

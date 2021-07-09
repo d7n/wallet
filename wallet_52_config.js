@@ -1,1 +1,1 @@
-var mnemonic = "fringe risk wide oak visit shell casino great thank tortoise exercise hen";
+var mnemonic = "garbage like panic way radar survey rice million appear time rotate actor";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury beauty urban mass melt jar credit seed skull achieve drip behind";
+var mnemonic = "mercy afford pretty entire concert actress advice empty end reward purpose wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic tattoo nothing riot whale adult unusual ghost adapt dish crouch glance";
+var mnemonic = "valve motor aim remain mouse train burger cage almost crisp salt kidney";

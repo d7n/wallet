@@ -1,1 +1,1 @@
-var mnemonic = "system thunder return sauce during mimic census renew future retreat skill cannon";
+var mnemonic = "super dizzy same trouble music fix maid cruel claim indoor test knife";

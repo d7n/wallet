@@ -1,1 +1,1 @@
-var mnemonic = "congress play time denial nurse lunar alien bargain tonight still net card";
+var mnemonic = "wage gain scene equal warfare initial raven tray gadget sand timber squirrel";

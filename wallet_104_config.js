@@ -1,1 +1,1 @@
-var mnemonic = "mutual crash already crane beyond stairs open dinosaur glory pill tomato slogan";
+var mnemonic = "approve fragile casino hint bargain outside cool ice rough enroll naive fruit";

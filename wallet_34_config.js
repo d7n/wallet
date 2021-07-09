@@ -1,1 +1,1 @@
-var mnemonic = "awake hunt smooth neglect waste slow click mountain soul feed interest food";
+var mnemonic = "leg old sketch lesson rebel escape scissors gadget response meat goddess famous";

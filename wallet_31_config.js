@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog actress aspect envelope pyramid giggle antenna regret almost mutual barrel artist";
+var mnemonic = "surround picnic word juice lounge trophy badge wolf cry series spot hub";

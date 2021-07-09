@@ -1,1 +1,1 @@
-var mnemonic = "stage museum fog foam umbrella trial sponsor fan second remain scheme toddler";
+var mnemonic = "express used wealth embark chef mimic lonely cluster valley artefact moral museum";

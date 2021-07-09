@@ -1,1 +1,1 @@
-var mnemonic = "sun apart ancient forum wing throw margin okay negative east bean dish";
+var mnemonic = "anxiety spray reflect mistake erosion can sell execute solve glad ramp asthma";

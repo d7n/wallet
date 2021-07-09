@@ -1,1 +1,1 @@
-var mnemonic = "island hockey praise buddy hill utility slight spin subway arrest primary inflict";
+var mnemonic = "entry all earn brave connect loop opinion enough road hungry topic order";

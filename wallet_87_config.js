@@ -1,1 +1,1 @@
-var mnemonic = "pilot fine chapter type outside save vague asthma usual lottery dentist bright";
+var mnemonic = "trade pass domain harvest slice run double canoe just garage shield neutral";

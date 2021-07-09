@@ -1,1 +1,1 @@
-var mnemonic = "final violin venture citizen grape soon mercy wheat carbon price coast isolate";
+var mnemonic = "ensure tail recycle reduce extend vault mother wife shaft hello canal flash";

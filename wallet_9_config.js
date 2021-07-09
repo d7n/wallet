@@ -1,1 +1,1 @@
-var mnemonic = "famous review rent indoor appear scene huge boring slice acoustic quarter pencil";
+var mnemonic = "man antenna dish ketchup icon scene wall fox empty rice neither six";

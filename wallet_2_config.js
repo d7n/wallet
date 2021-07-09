@@ -1,1 +1,1 @@
-var mnemonic = "among carry village fuel once tomato disease crush attack flip casino raw";
+var mnemonic = "expect around trip clock essay spot peanut sun until job again list";

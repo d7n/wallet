@@ -1,1 +1,1 @@
-var mnemonic = "polar hole reflect few home judge gloom mind during tortoise tooth cactus";
+var mnemonic = "assault year web guilt choice scissors spoon ripple profit achieve ensure coffee";

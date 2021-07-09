@@ -1,1 +1,1 @@
-var mnemonic = "collect thing salad patrol clump bronze museum victory entry verb bulb travel";
+var mnemonic = "problem neutral welcome excuse lumber couple icon dilemma school tortoise month cancel";

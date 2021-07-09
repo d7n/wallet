@@ -1,1 +1,1 @@
-var mnemonic = "victory alien neck average various man remember shoe play bind tuition climb";
+var mnemonic = "trouble devote tip forget actress resist budget slim genius tree glass spend";

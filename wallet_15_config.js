@@ -1,1 +1,1 @@
-var mnemonic = "wrap pet reflect fashion noise movie math ecology actress put citizen solar";
+var mnemonic = "west cement buffalo morning elevator oval umbrella area left wheat word feel";

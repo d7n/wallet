@@ -1,1 +1,1 @@
-var mnemonic = "march neutral cake someone click gossip inform success isolate poem era diary";
+var mnemonic = "husband drop lock jar sorry attract brown abstract hammer bless gossip circle";

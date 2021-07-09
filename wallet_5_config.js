@@ -1,1 +1,1 @@
-var mnemonic = "agent embrace tongue tuna bracket dwarf ability earn return liquid notice belt";
+var mnemonic = "urban essence before direct special true today decide kidney hurt sight actress";

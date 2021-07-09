@@ -1,1 +1,1 @@
-var mnemonic = "typical boil industry donate buzz love cool have phrase install kitchen subject";
+var mnemonic = "embark pear goose toilet stick still hollow shield sister immune since carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "radar into ridge room chimney maximum inflict ketchup index update hold scene";
+var mnemonic = "ladder tilt victory fatigue session kidney worry length accident danger legend lyrics";

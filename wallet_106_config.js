@@ -1,1 +1,1 @@
-var mnemonic = "burst swarm weird laugh vivid bottom disagree manage inherit hollow teach secret";
+var mnemonic = "property sea season cloth case improve jealous bench admit cloth ankle trophy";

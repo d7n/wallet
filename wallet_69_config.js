@@ -1,1 +1,1 @@
-var mnemonic = "march level lunch post depart vanish muscle baby crane limb history across";
+var mnemonic = "satoshi meat boy pig tumble uncover stock rabbit common faith size tone";

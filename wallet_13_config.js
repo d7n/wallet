@@ -1,1 +1,1 @@
-var mnemonic = "toe jacket sugar income march cool fiscal author wrong unhappy very knife";
+var mnemonic = "treat vast valve trial fancy umbrella expose present truth brisk slight symptom";

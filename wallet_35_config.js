@@ -1,1 +1,1 @@
-var mnemonic = "column pretty endless able cause push law luxury predict silent lyrics fantasy";
+var mnemonic = "parade silk evil scheme index click trophy hill school about three couch";

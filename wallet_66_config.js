@@ -1,1 +1,1 @@
-var mnemonic = "truck only shadow much merry oblige glare leader skate verify audit cloth";
+var mnemonic = "run tuna emerge dynamic betray sunny corn solid total pretty smooth erase";

@@ -1,1 +1,1 @@
-var mnemonic = "light bridge eyebrow govern lizard rather grant choose cause explain toy large";
+var mnemonic = "sell fiber kit dolphin few allow target man bamboo goat elite name";

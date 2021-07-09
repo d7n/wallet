@@ -1,1 +1,1 @@
-var mnemonic = "coral napkin rough portion ride upgrade area omit gaze judge patch neither";
+var mnemonic = "rude want traffic mail junior priority purpose flock vibrant wash legend helmet";

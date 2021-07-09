@@ -1,1 +1,1 @@
-var mnemonic = "enjoy squeeze among tenant plunge melody either mean lottery scan front update";
+var mnemonic = "truly action sample stock gym egg taxi amateur ski urban stamp version";

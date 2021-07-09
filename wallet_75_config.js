@@ -1,1 +1,1 @@
-var mnemonic = "poet try minimum enrich click common desk acid chimney brief work physical";
+var mnemonic = "shine enrich onion member sauce grain glow enroll essence song release return";

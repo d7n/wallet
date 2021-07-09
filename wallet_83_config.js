@@ -1,1 +1,1 @@
-var mnemonic = "pair upon lava captain famous timber claw ceiling six belt mango bottom";
+var mnemonic = "know voice mutual brick runway citizen entry pilot inmate boring page thought";

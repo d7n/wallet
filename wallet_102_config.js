@@ -1,1 +1,1 @@
-var mnemonic = "pause curve spin label genius hire language caught weird bone useless awesome";
+var mnemonic = "pistol ozone grunt winner repeat couch hazard salmon high series vanish insane";

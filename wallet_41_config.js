@@ -1,1 +1,1 @@
-var mnemonic = "online latin punch dirt bless option wine admit kiwi neither library spoon";
+var mnemonic = "tennis absorb cereal timber ankle finger tonight major prize style arctic there";

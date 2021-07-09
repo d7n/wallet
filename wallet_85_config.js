@@ -1,1 +1,1 @@
-var mnemonic = "obey tail friend whisper country cash void metal acquire budget protect pilot";
+var mnemonic = "crane puppy attend settle fitness goat place capable three agent zebra alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum fashion honey simple melt help invite video coyote anxiety outside awkward";
+var mnemonic = "medal test entire turkey argue stairs guard pride clown sign gold flame";

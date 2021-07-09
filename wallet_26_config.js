@@ -1,1 +1,1 @@
-var mnemonic = "soldier keep dawn cheese load pretty grant risk mind spoon core media";
+var mnemonic = "vacuum talent nature clean green choose soap please bike corn inform eagle";

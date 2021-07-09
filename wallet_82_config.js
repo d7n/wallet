@@ -1,1 +1,1 @@
-var mnemonic = "laundry laugh peace daughter interest trouble civil coast then whisper this casual";
+var mnemonic = "width must airport coast elephant film immune kiss blind sure ill else";

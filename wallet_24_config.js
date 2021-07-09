@@ -1,1 +1,1 @@
-var mnemonic = "assist accident fade confirm enact ordinary crucial burst glue swarm hunt cushion";
+var mnemonic = "cherry shiver office thrive have online forum weird undo kiss catalog surround";

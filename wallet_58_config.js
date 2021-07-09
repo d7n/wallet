@@ -1,1 +1,1 @@
-var mnemonic = "swap input patch stomach bomb honey fiber guard rent minute draw crazy";
+var mnemonic = "flower spin example length soon earn repeat canoe subject barrel topple tiny";

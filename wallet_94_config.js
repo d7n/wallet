@@ -1,1 +1,1 @@
-var mnemonic = "cheese diet primary mouse exotic patch depend impact tragic group insect radio";
+var mnemonic = "goose pond just badge close hotel run surround burden remember sentence fade";

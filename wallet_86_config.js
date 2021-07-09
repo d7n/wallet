@@ -1,1 +1,1 @@
-var mnemonic = "deputy thing system loan use machine sunny receive kick real lunch ginger";
+var mnemonic = "fat air summer exact kingdom affair inform frequent infant yellow smart hammer";

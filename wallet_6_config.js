@@ -1,1 +1,1 @@
-var mnemonic = "effort swim sadness prosper depend capable occur later basket desk cement boy";
+var mnemonic = "betray book valve twenty wrap version ten debate chair furnace matter foster";

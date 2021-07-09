@@ -1,1 +1,1 @@
-var mnemonic = "tag invite spice erase uncle forest ice motion piano carry scale song";
+var mnemonic = "noble you thunder unable lava energy torch bomb repeat rate beach above";

@@ -1,1 +1,1 @@
-var mnemonic = "split try vacuum depart inquiry fitness game armed pride force solution rule";
+var mnemonic = "obey fix rare paper enlist pipe final various alter chicken unfair tray";

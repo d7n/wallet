@@ -1,1 +1,1 @@
-var mnemonic = "hub fine bracket surround spider gadget absurd earth trash this coral cook";
+var mnemonic = "into twist merge enhance improve dirt despair obtain enhance slight annual shock";

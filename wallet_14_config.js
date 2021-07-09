@@ -1,1 +1,1 @@
-var mnemonic = "high security wheel delay close breeze need pause under extra achieve wheat";
+var mnemonic = "feature plastic economy west spare champion coil slogan dust belt cloud jealous";

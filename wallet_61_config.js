@@ -1,1 +1,1 @@
-var mnemonic = "manage medal behind move honey fire shield success glory spike work morning";
+var mnemonic = "clap fox almost diary talent shine brand couple issue among sleep ship";

@@ -1,1 +1,1 @@
-var mnemonic = "hold distance truly town foam jump fly syrup relief object table transfer";
+var mnemonic = "mushroom soul outdoor churn orange leaf near letter innocent marine inject rookie";

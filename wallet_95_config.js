@@ -1,1 +1,1 @@
-var mnemonic = "recycle liquid travel husband report shy outer want voice critic farm mango";
+var mnemonic = "dutch quit match film outside behind tube bone mass clinic submit spike";

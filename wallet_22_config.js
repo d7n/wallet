@@ -1,1 +1,1 @@
-var mnemonic = "nasty life unknown name file pair mansion process health source device cousin";
+var mnemonic = "long inflict letter hawk letter club duty catalog sketch author grit toy";

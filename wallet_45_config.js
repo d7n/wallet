@@ -1,1 +1,1 @@
-var mnemonic = "park answer agent legal payment tongue differ latin flip session memory frozen";
+var mnemonic = "until dinosaur panther total sniff village pioneer various leopard expand brass crash";

@@ -1,1 +1,1 @@
-var mnemonic = "write drive boring opinion over issue number baby address pretty jaguar surface";
+var mnemonic = "cheese purse attack immense unique wire author kite trigger this beyond use";

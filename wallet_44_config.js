@@ -1,1 +1,1 @@
-var mnemonic = "inhale road what differ actual debate quit issue switch love trial airport";
+var mnemonic = "fatigue dirt own train urge traffic season trip aisle first peanut document";

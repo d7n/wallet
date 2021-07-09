@@ -1,1 +1,1 @@
-var mnemonic = "van group saddle exclude confirm ancient perfect deposit trim agree error topple";
+var mnemonic = "avocado sword will orchard surface guilt two unhappy various prize rabbit wrong";

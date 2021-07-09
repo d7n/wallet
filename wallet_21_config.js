@@ -1,1 +1,1 @@
-var mnemonic = "leg flee stomach fossil angry mountain armor obey empower mimic cluster observe";
+var mnemonic = "album city knife true iron board unlock note make subway transfer dwarf";

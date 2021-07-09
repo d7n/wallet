@@ -1,1 +1,1 @@
-var mnemonic = "laugh sight bargain art science pumpkin ritual captain general relief lottery business";
+var mnemonic = "point comfort pumpkin analyst cliff unusual genuine vacuum jeans host edge law";

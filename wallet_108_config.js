@@ -1,1 +1,1 @@
-var mnemonic = "cup soft physical target dentist angle secret strike weasel fancy fall tragic";
+var mnemonic = "gain limb remind chef chat rebuild enact warrior change carpet fat north";

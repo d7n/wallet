@@ -1,1 +1,1 @@
-var mnemonic = "naive little attack clinic yellow adjust access idle sense trade sting bench";
+var mnemonic = "dice slim layer horn bottom naive reunion deal tide lumber blush whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "position weapon perfect mask drama kangaroo artist home error pet mad buzz";
+var mnemonic = "whip bunker chicken reason begin seek rib attitude toward capable exit squirrel";

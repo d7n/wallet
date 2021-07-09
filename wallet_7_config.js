@@ -1,1 +1,1 @@
-var mnemonic = "tortoise outside step person topic belt session roast kit chase slogan scale";
+var mnemonic = "expand control traffic scheme captain face food damage elder resemble usual nerve";

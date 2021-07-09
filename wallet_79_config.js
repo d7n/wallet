@@ -1,1 +1,1 @@
-var mnemonic = "orphan retire speak noise couch monster element series relief parrot step dose";
+var mnemonic = "company assist wise cause evidence entire again decorate general van notice address";

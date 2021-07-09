@@ -1,1 +1,1 @@
-var mnemonic = "artwork general gaze ladder tone muffin blanket gun print remember rice tone";
+var mnemonic = "theory enrich industry future fortune speed quarter uncover cabin dolphin private absurd";

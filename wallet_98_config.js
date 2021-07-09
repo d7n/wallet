@@ -1,1 +1,1 @@
-var mnemonic = "wood force element brand episode toddler palace minor patient copper donor margin";
+var mnemonic = "ethics intact slush oblige neck cupboard taste flame love hero token sibling";

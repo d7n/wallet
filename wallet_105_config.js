@@ -1,1 +1,1 @@
-var mnemonic = "harsh always february talk object trouble smooth pole essay canyon swamp athlete";
+var mnemonic = "debate hint magnet render gift afford actress skull twice miss song wire";

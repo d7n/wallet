@@ -1,1 +1,1 @@
-var mnemonic = "globe license craft present margin stay seed provide walnut disorder riot unfold";
+var mnemonic = "upper oppose timber donkey lawsuit goose else silly rent laugh style address";
