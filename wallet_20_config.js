@@ -1,1 +1,1 @@
-var mnemonic = "cherry frown defy bamboo between number travel laptop either jungle obey man";
+var mnemonic = "sure nuclear category debris monitor pear panic nerve observe smoke fat cancel";

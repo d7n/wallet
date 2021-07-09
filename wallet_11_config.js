@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog engage tomorrow alcohol course evoke spell fossil practice soup weird human";
+var mnemonic = "slam sure hair opera return rug business ceiling ramp orbit cargo tattoo";

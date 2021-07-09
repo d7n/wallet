@@ -1,1 +1,1 @@
-var mnemonic = "have rack misery problem jeans wolf utility cliff age roof october figure";
+var mnemonic = "decorate vault share nest unlock coast combine betray later logic inhale warrior";

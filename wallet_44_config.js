@@ -1,1 +1,1 @@
-var mnemonic = "final protect client cram fall floor gown basket soft spare color bid";
+var mnemonic = "sand harvest food crew catalog finger judge observe snake priority armor volume";

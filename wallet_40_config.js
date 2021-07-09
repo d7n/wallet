@@ -1,1 +1,1 @@
-var mnemonic = "weekend math same donkey demand sponsor slush hat shiver coyote must head";
+var mnemonic = "proof imitate amused arch deposit mail lonely slam below comfort blanket remove";

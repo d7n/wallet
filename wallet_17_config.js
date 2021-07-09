@@ -1,1 +1,1 @@
-var mnemonic = "boring rug asset assume mule defense dove powder wet able process own";
+var mnemonic = "economy vocal protect this pride offer wash menu cancel dutch please endorse";

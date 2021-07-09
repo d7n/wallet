@@ -1,1 +1,1 @@
-var mnemonic = "void foam exercise huge school next popular veteran attract key arrange reveal";
+var mnemonic = "era snake cloud ritual code charge globe allow thing prize title general";

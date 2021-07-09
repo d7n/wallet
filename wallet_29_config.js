@@ -1,1 +1,1 @@
-var mnemonic = "betray rude slogan brain wonder farm peanut cash execute welcome bench feed";
+var mnemonic = "current provide true allow impulse truth trial humble lady profit nuclear vendor";

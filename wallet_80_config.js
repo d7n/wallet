@@ -1,1 +1,1 @@
-var mnemonic = "genre venture left trial appear ceiling welcome slice master prefer seek tiny";
+var mnemonic = "reduce toward toy forget oil old behave advice crowd peace health bulb";

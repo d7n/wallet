@@ -1,1 +1,1 @@
-var mnemonic = "depart fossil moon sand fruit citizen crisp essence lunar hood lottery hockey";
+var mnemonic = "display salmon goat ostrich improve blouse surprise matter call answer year deposit";

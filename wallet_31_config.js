@@ -1,1 +1,1 @@
-var mnemonic = "fringe morning add paddle embrace helmet fever receive heart tool easily winter";
+var mnemonic = "add pave track secret bird fantasy economy version initial height lyrics end";

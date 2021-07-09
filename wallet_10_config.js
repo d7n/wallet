@@ -1,1 +1,1 @@
-var mnemonic = "acoustic matrix live thrive cave burden camp basic afraid main off farm";
+var mnemonic = "giggle provide engine festival then tone velvet wing various impose author dolphin";

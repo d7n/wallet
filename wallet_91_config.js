@@ -1,1 +1,1 @@
-var mnemonic = "satisfy document swear close van solve between acoustic position two term deny";
+var mnemonic = "obey ramp ethics cruel lawsuit imitate type valley peanut visit garage glimpse";

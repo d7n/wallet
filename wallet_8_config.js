@@ -1,1 +1,1 @@
-var mnemonic = "display surround special satisfy curve emerge cook daring girl discover grow phone";
+var mnemonic = "hotel ice pizza innocent ecology crumble soup permit hard tell winner scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "parade wish volcano naive fresh deposit because human alter genius chef usual";
+var mnemonic = "exact element play wet act wealth stable quit seek rapid broom decorate";

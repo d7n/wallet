@@ -1,1 +1,1 @@
-var mnemonic = "cram follow symbol clinic pumpkin doctor discover sign dilemma treat breeze obtain";
+var mnemonic = "giggle gospel define garbage turtle churn outer swim tank type farm desk";

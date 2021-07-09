@@ -1,1 +1,1 @@
-var mnemonic = "velvet rice quick accident bus rebuild alien seed spoil collect rural version";
+var mnemonic = "cereal walk age mad desert crazy wink street youth resist siege survey";

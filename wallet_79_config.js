@@ -1,1 +1,1 @@
-var mnemonic = "order stay robust pistol feature nephew tilt industry wonder business sing air";
+var mnemonic = "receive snap tuition grief phrase finger gun jewel scare pear then surge";

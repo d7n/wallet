@@ -1,1 +1,1 @@
-var mnemonic = "two cradle renew cause banana page museum essay portion merge ozone spoil";
+var mnemonic = "flag vendor enact hotel jealous actress coffee metal lab wrong april book";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble comic hidden sun wagon public success horse fade beef glow pave";
+var mnemonic = "kiwi young raw resist sad runway smoke frog connect sure pigeon actual";

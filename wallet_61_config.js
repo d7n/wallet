@@ -1,1 +1,1 @@
-var mnemonic = "tip wear already soul execute view model opera unaware purity dignity upset";
+var mnemonic = "measure chicken diesel current rhythm nice habit mouse cover jar zone wash";

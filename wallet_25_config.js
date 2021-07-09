@@ -1,1 +1,1 @@
-var mnemonic = "plunge explain bread mammal setup million mail film ready butter fiction biology";
+var mnemonic = "silk hungry erosion alien opera size between capable narrow plastic december area";

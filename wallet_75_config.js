@@ -1,1 +1,1 @@
-var mnemonic = "fold dutch save flip bracket ecology gap horror flock obvious clay okay";
+var mnemonic = "frame shoulder tent swamp control feed beef wisdom hold upper green cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude method tourist fruit play balance diagram control level region regular doll";
+var mnemonic = "off pledge crane stock again devote boss denial gossip phrase total gun";

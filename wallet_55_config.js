@@ -1,1 +1,1 @@
-var mnemonic = "arrow shock valid social bicycle seven refuse shield abandon sing wonder ball";
+var mnemonic = "sudden wage black jacket capital forward learn panther dumb pass speed nature";

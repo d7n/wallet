@@ -1,1 +1,1 @@
-var mnemonic = "file slogan nurse demise push brand arena auto fashion very sentence wing";
+var mnemonic = "february run used wood bless lucky mushroom text window three rain aim";

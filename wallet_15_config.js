@@ -1,1 +1,1 @@
-var mnemonic = "scale object exist saddle danger dumb advice depth gorilla doll general gospel";
+var mnemonic = "naive problem poet people two waste shop angle when abuse ranch amateur";

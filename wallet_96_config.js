@@ -1,1 +1,1 @@
-var mnemonic = "emerge curve suggest exist immense forest face fortune inch movie desk shallow";
+var mnemonic = "exotic auto adjust south evidence arctic chalk utility odor fury earn rigid";

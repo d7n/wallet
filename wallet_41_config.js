@@ -1,1 +1,1 @@
-var mnemonic = "diesel puzzle ten stem famous require apology head match crew liquid vivid";
+var mnemonic = "two wrong wool violin fun retire stomach stomach man energy tide train";

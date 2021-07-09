@@ -1,1 +1,1 @@
-var mnemonic = "daughter screen bracket mirror step noodle profit eternal hill laugh okay opera";
+var mnemonic = "answer report trim any inmate buyer echo silk gap slab lesson lizard";

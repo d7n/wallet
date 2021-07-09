@@ -1,1 +1,1 @@
-var mnemonic = "awful gesture cinnamon anger border fat warm acquire brush royal return initial";
+var mnemonic = "draw unusual shove develop alpha what awkward priority have harsh wife health";

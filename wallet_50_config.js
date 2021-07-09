@@ -1,1 +1,1 @@
-var mnemonic = "guilt couple trap play pelican plug endless viable put tilt slab input";
+var mnemonic = "volume logic dumb raise pear pen flavor awesome stomach fresh project able";

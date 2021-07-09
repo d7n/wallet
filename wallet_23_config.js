@@ -1,1 +1,1 @@
-var mnemonic = "where grape hat lens armor dismiss crouch fox shift picnic meat nose";
+var mnemonic = "help inflict slight improve manual ripple edit member snow morning traffic crime";

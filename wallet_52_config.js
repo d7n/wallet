@@ -1,1 +1,1 @@
-var mnemonic = "charge rack bid plunge journey mother media side disorder thank vault unveil";
+var mnemonic = "uniform stereo wash reward budget field distance grow license wisdom finger search";

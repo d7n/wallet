@@ -1,1 +1,1 @@
-var mnemonic = "abandon version destroy bleak clutch disease crunch found zero tank hint mother";
+var mnemonic = "path title limb venue speed fame valid hurdle earth advice sleep bullet";

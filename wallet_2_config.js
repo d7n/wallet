@@ -1,1 +1,1 @@
-var mnemonic = "human thing quick gather abstract trim portion embrace just skill use usage";
+var mnemonic = "remind woman enemy any sadness glue fee fly master spring country man";

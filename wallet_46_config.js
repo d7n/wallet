@@ -1,1 +1,1 @@
-var mnemonic = "library poem major junk home gun normal train follow immense ribbon grab";
+var mnemonic = "iron nephew edit elder daughter metal scare logic stem coil interest correct";

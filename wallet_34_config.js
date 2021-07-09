@@ -1,1 +1,1 @@
-var mnemonic = "lake jump surround fossil uniform bomb embrace tennis hollow antique shed exercise";
+var mnemonic = "relief relax cute naive fury destroy false flower style slab critic mention";

@@ -1,1 +1,1 @@
-var mnemonic = "divert access frequent identify priority trial race demand exercise display silver cement";
+var mnemonic = "flight online hover mesh fog faint tragic square unique genuine trend purpose";

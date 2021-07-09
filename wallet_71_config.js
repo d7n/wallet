@@ -1,1 +1,1 @@
-var mnemonic = "million crop image cotton labor claim dilemma remember possible flag raise mandate";
+var mnemonic = "provide intact amused vintage exercise paper rifle found crouch parade play olympic";

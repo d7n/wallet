@@ -1,1 +1,1 @@
-var mnemonic = "style super crowd health silent image sell invite virus cycle clinic umbrella";
+var mnemonic = "bullet day priority witness diesel make volume actress rug spare unit melt";

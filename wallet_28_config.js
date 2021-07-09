@@ -1,1 +1,1 @@
-var mnemonic = "fly cook rally canvas wire nation cloud pact crater correct inquiry just";
+var mnemonic = "please poverty fiction sail make spoil floor obvious awful fall ethics virus";

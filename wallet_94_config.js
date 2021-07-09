@@ -1,1 +1,1 @@
-var mnemonic = "patrol youth dismiss walk bread grunt physical rent cable hub excess concert";
+var mnemonic = "void shop cricket joke crack seminar raven few pipe unveil bike trend";

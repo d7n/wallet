@@ -1,1 +1,1 @@
-var mnemonic = "lobster assault rose law sick utility spin today ribbon broken north shine";
+var mnemonic = "blind step ill rent junk fun order mask tennis carpet young castle";

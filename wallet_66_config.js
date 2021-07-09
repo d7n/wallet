@@ -1,1 +1,1 @@
-var mnemonic = "jump scheme empty fun hero during tumble tray amateur boil display regret";
+var mnemonic = "sunset shadow hotel juice park funny fruit curtain satoshi soft make motion";

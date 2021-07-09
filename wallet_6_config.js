@@ -1,1 +1,1 @@
-var mnemonic = "spoon ripple almost meat skate sunny symbol raise solar erase memory subway";
+var mnemonic = "uncle window foil wool myself capital laptop eye test outer repair possible";

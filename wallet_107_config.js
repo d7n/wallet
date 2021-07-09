@@ -1,1 +1,1 @@
-var mnemonic = "arrest orchard oyster science often quote wasp air more uncover drop alpha";
+var mnemonic = "spray long globe flat baby piece replace raccoon dial pepper whip curve";

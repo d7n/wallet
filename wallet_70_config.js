@@ -1,1 +1,1 @@
-var mnemonic = "pet ranch hard grief prepare kiss muffin cargo initial enter one close";
+var mnemonic = "dwarf gap sword radio treat logic limb gold oppose invest sad object";

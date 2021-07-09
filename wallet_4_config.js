@@ -1,1 +1,1 @@
-var mnemonic = "salute cram ocean just feed final danger priority indicate recall logic castle";
+var mnemonic = "first hunt ride between bacon already aerobic hamster adult shaft tortoise cement";

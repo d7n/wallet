@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hybrid praise elegant knock hard jelly thing task dust merit denial";
+var mnemonic = "abstract prison silent isolate tag change season peace brass patch romance orange";

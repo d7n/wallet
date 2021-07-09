@@ -1,1 +1,1 @@
-var mnemonic = "feature fossil crime small because buyer gravity chief jelly author food throw";
+var mnemonic = "funny imitate sell adjust paper price confirm reunion say deal license patch";

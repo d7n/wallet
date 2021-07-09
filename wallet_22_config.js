@@ -1,1 +1,1 @@
-var mnemonic = "tuition random iron secret indicate famous better million place valley inmate rapid";
+var mnemonic = "middle giggle copy boost dynamic eight wedding easily wine proud letter build";

@@ -1,1 +1,1 @@
-var mnemonic = "execute brother weapon weasel rich arrange negative demise sorry vehicle blood destroy";
+var mnemonic = "food chief arctic sister weasel illness metal guide hard until puppy sausage";

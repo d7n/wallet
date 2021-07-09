@@ -1,1 +1,1 @@
-var mnemonic = "search swift blur notable shift debris filter garage decrease little decrease perfect";
+var mnemonic = "true emerge spread there across car wage acoustic enhance next rubber teach";

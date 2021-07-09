@@ -1,1 +1,1 @@
-var mnemonic = "rib corn filter exotic round hurry salute sheriff struggle peanut sausage guess";
+var mnemonic = "feel divide claw exotic surge clutch giraffe type skirt crisp lecture achieve";

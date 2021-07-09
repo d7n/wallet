@@ -1,1 +1,1 @@
-var mnemonic = "slice remove correct fan throw huge nerve distance own void state floor";
+var mnemonic = "because lift awake hat soft tragic push address wage crumble engine ride";

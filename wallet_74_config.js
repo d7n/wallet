@@ -1,1 +1,1 @@
-var mnemonic = "uncle pretty clap unable banana comfort light mail destroy maze vital category";
+var mnemonic = "another talent behave bunker keen method panther fan ankle endorse sting earth";

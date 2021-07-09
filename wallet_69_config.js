@@ -1,1 +1,1 @@
-var mnemonic = "symptom rare book lava gadget shed border omit twenty science acid glory";
+var mnemonic = "sadness enforce hedgehog list puppy tumble toy taxi identify transfer print syrup";

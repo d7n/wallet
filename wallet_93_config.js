@@ -1,1 +1,1 @@
-var mnemonic = "eternal sight certain distance tray asthma develop wall safe come narrow ahead";
+var mnemonic = "example grass lizard certain rubber analyst skate indicate boat turtle defy prize";

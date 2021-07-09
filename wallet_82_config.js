@@ -1,1 +1,1 @@
-var mnemonic = "unfair erode float absent tower wreck vault right saddle waste session kid";
+var mnemonic = "defy defy style size chaos improve excess wisdom forget surround install night";

@@ -1,1 +1,1 @@
-var mnemonic = "short another toe fat fly street rookie cinnamon can tuna sting expire";
+var mnemonic = "chronic general sister stable bamboo device valley habit devote odor sauce hundred";

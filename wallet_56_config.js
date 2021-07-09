@@ -1,1 +1,1 @@
-var mnemonic = "leisure couch cushion quiz ability wall vessel vessel author response group tower";
+var mnemonic = "price cruel label cousin wing wide outside blast dumb trust play sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "collect hair pink little tomorrow settle brother arrest pottery cabbage play twist";
+var mnemonic = "cushion chimney soda peasant appear print dash mean jungle cash hidden honey";

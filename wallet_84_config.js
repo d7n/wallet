@@ -1,1 +1,1 @@
-var mnemonic = "hire swim tunnel crime present nuclear slot anchor again thing ivory second";
+var mnemonic = "farm reward pepper arch confirm language fence physical pumpkin toy secret hour";

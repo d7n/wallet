@@ -1,1 +1,1 @@
-var mnemonic = "brisk casino ivory plug minimum female appear disease nasty ethics labor okay";
+var mnemonic = "half script orange eternal differ atom pause dad dumb shell mansion absorb";

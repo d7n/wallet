@@ -1,1 +1,1 @@
-var mnemonic = "smile isolate excess truly rocket culture mule gadget black eyebrow garlic wool";
+var mnemonic = "chest light canvas inflict divert hold shrimp antique hollow rice grief romance";

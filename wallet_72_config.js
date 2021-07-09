@@ -1,1 +1,1 @@
-var mnemonic = "toward tackle menu fruit witness fox help hen idle myself wing office";
+var mnemonic = "whip process camp boost sand scheme cigar outdoor loan disagree lawsuit cannon";

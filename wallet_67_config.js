@@ -1,1 +1,1 @@
-var mnemonic = "gold meat name dignity equal helmet danger half hello hint artist hen";
+var mnemonic = "smart erosion life shallow toddler finish hair surface clap bind kitchen decide";

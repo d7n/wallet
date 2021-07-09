@@ -1,1 +1,1 @@
-var mnemonic = "before document alert spatial couple nasty ticket mushroom job abandon panic expect";
+var mnemonic = "left talk retreat ivory myth soccer void circle enroll amateur caution amused";

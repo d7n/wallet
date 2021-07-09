@@ -1,1 +1,1 @@
-var mnemonic = "disease credit coyote fame disease genre ready intact rate kick bird there";
+var mnemonic = "island game protect teach good dose column legend cash method flip member";

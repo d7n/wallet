@@ -1,1 +1,1 @@
-var mnemonic = "delay traffic symbol they column fee often addict help salmon culture company";
+var mnemonic = "invite knife club artist buffalo fat turn radar alter sure cereal twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "discover palm risk grief quick seven liquid stand guilt shell embrace bachelor";
+var mnemonic = "rifle deliver giraffe claw song wasp venture tomato mule pact help earn";

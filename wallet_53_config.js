@@ -1,1 +1,1 @@
-var mnemonic = "oblige such latin benefit bleak napkin reopen dirt know combine maple frown";
+var mnemonic = "before birth birth confirm believe appear female improve roast exact antenna vacuum";

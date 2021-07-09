@@ -1,1 +1,1 @@
-var mnemonic = "join copy amount brave depth brisk office strategy medal elder salon adapt";
+var mnemonic = "brother beyond exchange shaft sword caught scale asthma monster future brick ozone";

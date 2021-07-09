@@ -1,1 +1,1 @@
-var mnemonic = "spread metal stand armed menu unlock like turkey hello gate spoil uncover";
+var mnemonic = "dune inspire jacket crumble price vessel mammal obvious unaware zone furnace hollow";

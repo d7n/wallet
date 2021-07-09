@@ -1,1 +1,1 @@
-var mnemonic = "mule vault wait recipe hawk tobacco viable siege stable embrace reopen add";
+var mnemonic = "afford bid humor grass sunny manage orange glow orphan blame scan stove";

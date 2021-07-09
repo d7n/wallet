@@ -1,1 +1,1 @@
-var mnemonic = "taste scheme melody zoo bullet cricket feel busy prison hockey vicious envelope";
+var mnemonic = "venture couch bachelor chunk upper evil minute biology since sugar hamster pet";

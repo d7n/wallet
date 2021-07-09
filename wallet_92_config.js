@@ -1,1 +1,1 @@
-var mnemonic = "fine error skin borrow dragon hand physical gun disorder traffic thumb define";
+var mnemonic = "mutual lab sphere favorite jeans oval photo easily bracket dress wear flag";

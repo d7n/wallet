@@ -1,1 +1,1 @@
-var mnemonic = "wrestle develop make cabin strong shift subject fish oak age express rival";
+var mnemonic = "furnace ostrich under among suit accuse tragic cigar oyster toss mansion cave";

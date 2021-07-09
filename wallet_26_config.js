@@ -1,1 +1,1 @@
-var mnemonic = "correct seminar help bicycle glide mercy absent infant click abuse find valve";
+var mnemonic = "load foam pretty record amateur hazard adult spike leisure tree garment display";

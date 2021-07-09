@@ -1,1 +1,1 @@
-var mnemonic = "guess promote fly submit venture collect acoustic track maximum journey soap wear";
+var mnemonic = "crisp talk grow have night cross awkward another victory sketch load wing";

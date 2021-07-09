@@ -1,1 +1,1 @@
-var mnemonic = "river actor unveil cactus danger canoe lounge exist tree buzz custom crucial";
+var mnemonic = "aisle vapor silk survey dolphin echo add inform into dial body category";

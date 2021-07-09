@@ -1,1 +1,1 @@
-var mnemonic = "assault orbit immune unique safe bone extra body smart craft erosion fiscal";
+var mnemonic = "nation yellow sorry token betray brave fatigue ten now equip valve snap";

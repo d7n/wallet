@@ -1,1 +1,1 @@
-var mnemonic = "fiscal ship soap weasel suggest onion same search pony target noodle bike";
+var mnemonic = "million drift sauce object public plate shock click pave runway slice want";

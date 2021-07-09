@@ -1,1 +1,1 @@
-var mnemonic = "nurse spring bright trick sun dress carry cube voice sibling claw silk";
+var mnemonic = "huge gravity cruel crane gesture muffin capital stock excuse logic derive where";

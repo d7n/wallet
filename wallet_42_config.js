@@ -1,1 +1,1 @@
-var mnemonic = "image brain panther distance orphan unusual laugh pioneer net fresh few leaf";
+var mnemonic = "runway knee leg report switch question race fly edge ask panther hawk";

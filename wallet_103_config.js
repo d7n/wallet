@@ -1,1 +1,1 @@
-var mnemonic = "hammer engage sphere path stumble ritual pill very exotic wealth number place";
+var mnemonic = "menu hard concert sadness loud grow nephew stock bind slight arctic icon";
