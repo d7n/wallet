@@ -1,1 +1,1 @@
-var mnemonic = "gorilla erase glory object demise almost bring alarm diet trophy term cart";
+var mnemonic = "foam shrimp vital pony entry spawn embody surprise fork verify test rural";

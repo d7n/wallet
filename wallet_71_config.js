@@ -1,1 +1,1 @@
-var mnemonic = "impact horror view expire cancel fiscal spring elbow float umbrella outdoor benefit";
+var mnemonic = "shadow more festival eight bonus sample chair crowd danger absorb thumb eagle";

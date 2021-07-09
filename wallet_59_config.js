@@ -1,1 +1,1 @@
-var mnemonic = "draft already bulk method soda thought left alien cart casino wise feel";
+var mnemonic = "brother raw what audit broom humble beauty require practice mosquito fury pink";

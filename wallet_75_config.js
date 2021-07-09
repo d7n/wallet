@@ -1,1 +1,1 @@
-var mnemonic = "travel mean critic snap duty wolf ostrich found crumble radio image assault";
+var mnemonic = "degree between lab comic leisure great spice frost hungry evidence vague profit";

@@ -1,1 +1,1 @@
-var mnemonic = "race develop safe orient chair double lamp other alone rival primary damage";
+var mnemonic = "they donkey point then lunar dwarf hammer unhappy mention hen whisper cherry";

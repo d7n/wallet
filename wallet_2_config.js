@@ -1,1 +1,1 @@
-var mnemonic = "favorite million enforce enable morning muscle tail boring choice march fortune girl";
+var mnemonic = "detect strong plate valve napkin weekend prepare rhythm glue cook pave cool";

@@ -1,1 +1,1 @@
-var mnemonic = "series cherry finish soccer during doctor universe setup sunny upon autumn tilt";
+var mnemonic = "inhale civil identify cute unfold plunge sweet tiny aunt slush capable same";

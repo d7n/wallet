@@ -1,1 +1,1 @@
-var mnemonic = "grid copper aim vital voice popular noise antique plastic battle inch whisper";
+var mnemonic = "pave noise excess spawn history shallow dog rate dolphin ordinary never case";

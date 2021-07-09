@@ -1,1 +1,1 @@
-var mnemonic = "glad symbol autumn moment before reunion alone vanish absent final inform diet";
+var mnemonic = "inspire item submit balcony slide gesture month thank myth odor spare cluster";

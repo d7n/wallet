@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mail cave praise pact mobile equal nasty gold body keep stomach";
+var mnemonic = "error stock attack dinner author misery across elegant just phone way forward";

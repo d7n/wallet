@@ -1,1 +1,1 @@
-var mnemonic = "ethics banner chicken sunny student strong satisfy clip can special term system";
+var mnemonic = "year eight fee vibrant castle giggle match width dress salt shed rookie";

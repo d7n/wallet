@@ -1,1 +1,1 @@
-var mnemonic = "river render company clerk cancel awesome spike satoshi offer sauce coil rude";
+var mnemonic = "rather copper mango punch carpet able cost merry gaze song often cruise";

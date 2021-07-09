@@ -1,1 +1,1 @@
-var mnemonic = "used grab load maple type panel math giraffe image village image special";
+var mnemonic = "palace indoor valve furnace barely similar exile outdoor base benefit creek screen";

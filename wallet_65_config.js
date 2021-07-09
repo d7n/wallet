@@ -1,1 +1,1 @@
-var mnemonic = "valid refuse pretty edit below review stairs you robust soldier razor candy";
+var mnemonic = "paper runway dynamic brass favorite wing same already frame cash oyster clean";

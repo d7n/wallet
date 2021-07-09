@@ -1,1 +1,1 @@
-var mnemonic = "odor animal castle lecture bitter example canyon clerk just emerge reward session";
+var mnemonic = "earth find random sadness lady prefer couple kidney exchange ask expire fame";

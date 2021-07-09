@@ -1,1 +1,1 @@
-var mnemonic = "magnet inform tell fruit depend around view teach hammer measure occur buddy";
+var mnemonic = "bar olive leg access garden north screen recycle black worth aspect fire";

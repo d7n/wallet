@@ -1,1 +1,1 @@
-var mnemonic = "sweet club disease mention nice knee panther feed modify error lake favorite";
+var mnemonic = "border mercy snack another young decline cereal praise raccoon erode age blanket";

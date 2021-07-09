@@ -1,1 +1,1 @@
-var mnemonic = "flush input region people tone nurse resemble stem cost dragon riot bar";
+var mnemonic = "will web squeeze sport miss arrive traffic traffic upon annual lady album";

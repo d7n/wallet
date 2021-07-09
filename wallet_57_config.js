@@ -1,1 +1,1 @@
-var mnemonic = "monitor equal scrub cradle end exercise sell punch comfort depend source bargain";
+var mnemonic = "pond toss consider number crumble recipe provide deer mesh smart wide unlock";

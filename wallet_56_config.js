@@ -1,1 +1,1 @@
-var mnemonic = "hurt slam huge food angry obtain purchase industry rookie knife estate truck";
+var mnemonic = "rain pledge organ segment laptop salad health unlock wonder coast truth attend";

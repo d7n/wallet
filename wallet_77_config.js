@@ -1,1 +1,1 @@
-var mnemonic = "render deposit margin fame mountain want atom arrange jump tail slim charge";
+var mnemonic = "balance shadow engage correct kite junk enforce together recipe gospel that hire";

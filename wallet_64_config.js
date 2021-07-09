@@ -1,1 +1,1 @@
-var mnemonic = "dress surge glare over total current seminar click favorite surface exchange giant";
+var mnemonic = "control teach best another orchard south panic neck donate birth outdoor park";

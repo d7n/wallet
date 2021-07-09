@@ -1,1 +1,1 @@
-var mnemonic = "pelican doctor scene gain interest among enjoy cheap rice foot latin cash";
+var mnemonic = "attend reward defy coral fresh erosion mixture what fire actor solar smoke";

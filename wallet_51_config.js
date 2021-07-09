@@ -1,1 +1,1 @@
-var mnemonic = "planet hurry despair raven oppose industry hobby lend nothing barely stick bean";
+var mnemonic = "pilot tourist monster chronic buyer cross high mutual glad melody innocent cost";

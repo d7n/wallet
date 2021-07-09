@@ -1,1 +1,1 @@
-var mnemonic = "small clerk around village champion cushion method job veteran memory remind endless";
+var mnemonic = "turtle skull merry toddler globe dismiss clog doll edge venue lens popular";

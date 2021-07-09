@@ -1,1 +1,1 @@
-var mnemonic = "apology village hire father lion flavor hedgehog worth calm inform tank arena";
+var mnemonic = "innocent treat wagon economy patch goddess buyer pill town amount cheap eager";

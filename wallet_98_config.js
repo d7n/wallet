@@ -1,1 +1,1 @@
-var mnemonic = "estate dirt mansion live twin mask brown rich roast obtain meadow merge";
+var mnemonic = "stand make oval library bleak jeans average october cover pudding size axis";

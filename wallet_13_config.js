@@ -1,1 +1,1 @@
-var mnemonic = "clap day wolf sugar fan pride tomorrow setup oyster purpose six detect";
+var mnemonic = "ask journey broom layer help goddess boat rhythm sleep patient present erosion";

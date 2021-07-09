@@ -1,1 +1,1 @@
-var mnemonic = "detail behave master rebuild trouble cancel before first peace couch birth fashion";
+var mnemonic = "oxygen analyst order business pattern over allow pet merry fringe differ exhibit";

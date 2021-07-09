@@ -1,1 +1,1 @@
-var mnemonic = "saddle arrow hockey decline since garlic choose school latin pull monkey misery";
+var mnemonic = "combine peasant draft giraffe essence record fringe comfort code area mistake invest";

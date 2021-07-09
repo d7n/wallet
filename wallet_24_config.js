@@ -1,1 +1,1 @@
-var mnemonic = "tide crucial poverty boost april dilemma giant glide urge jar give powder";
+var mnemonic = "pave lazy margin skate stereo trash behave robot club garden wide acquire";

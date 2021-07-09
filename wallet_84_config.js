@@ -1,1 +1,1 @@
-var mnemonic = "couch chunk box essence garment kind route dress tortoise advice impulse evidence";
+var mnemonic = "supply member night shuffle secret sunset egg will leopard oven visa ill";

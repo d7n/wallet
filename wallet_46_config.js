@@ -1,1 +1,1 @@
-var mnemonic = "carbon apart document ability glory twelve lens observe morning wage recall churn";
+var mnemonic = "differ whip fox reason unusual scale merge card spawn curve fuel bike";

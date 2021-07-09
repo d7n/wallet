@@ -1,1 +1,1 @@
-var mnemonic = "sail family history invest sentence unaware limit december talk donor amazing provide";
+var mnemonic = "symbol mass record turkey timber believe betray arch chapter diamond kit subway";

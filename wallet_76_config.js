@@ -1,1 +1,1 @@
-var mnemonic = "behind chimney cherry clean hill page balcony kit nuclear quantum paper ancient";
+var mnemonic = "december apart alone fluid budget uncle code play level gorilla ankle emotion";

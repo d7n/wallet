@@ -1,1 +1,1 @@
-var mnemonic = "census illegal session burger enhance subject rural marine crystal gas dirt elephant";
+var mnemonic = "drip flash thing similar chronic mixed oblige ice area derive spring fiscal";

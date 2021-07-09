@@ -1,1 +1,1 @@
-var mnemonic = "old garment lucky jacket canvas grief idle seven okay syrup muscle adapt";
+var mnemonic = "engine seven three suffer ancient color train cigar jungle retreat danger jar";

@@ -1,1 +1,1 @@
-var mnemonic = "post axis hurt can conduct nominee spice castle stairs rocket craft lunch";
+var mnemonic = "polar utility bomb wisdom rhythm equal cherry weather denial rug walk trend";

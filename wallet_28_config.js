@@ -1,1 +1,1 @@
-var mnemonic = "episode inside offer loop umbrella oil curious garlic despair crop asthma custom";
+var mnemonic = "interest damage weekend taxi voyage tape umbrella attitude gun idle dolphin today";

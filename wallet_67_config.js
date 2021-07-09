@@ -1,1 +1,1 @@
-var mnemonic = "swamp act fossil steel math love recycle short demand vibrant vicious switch";
+var mnemonic = "liar father general identify certain wear rescue bronze october legal alarm grace";

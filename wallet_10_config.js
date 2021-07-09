@@ -1,1 +1,1 @@
-var mnemonic = "trap region ridge disease blood media network public subject domain cross apart";
+var mnemonic = "phrase jelly gauge suffer lemon ski absent squirrel rug once ocean divert";

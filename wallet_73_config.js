@@ -1,1 +1,1 @@
-var mnemonic = "expand patrol twelve image rubber spy open lonely draft connect find acquire";
+var mnemonic = "breeze vanish keen heart dash scissors renew oven chuckle purpose laptop carry";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit sell join credit vehicle fish drift kingdom roast engage grass fabric";
+var mnemonic = "purse valid mango prosper medal sort dress property soon wonder gain twice";

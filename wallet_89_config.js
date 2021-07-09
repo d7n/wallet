@@ -1,1 +1,1 @@
-var mnemonic = "seat hobby glue hope task athlete robust biology leader evoke pair excuse";
+var mnemonic = "cup tattoo spend senior easy speed treat prize media alone photo squeeze";

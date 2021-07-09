@@ -1,1 +1,1 @@
-var mnemonic = "suggest spot garage play motion sock nice fly light draw later yard";
+var mnemonic = "creek gloom circle royal accident scissors aim canal acquire naive thank glare";

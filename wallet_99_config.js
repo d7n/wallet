@@ -1,1 +1,1 @@
-var mnemonic = "shrimp arctic alarm corn truly monkey cargo solution view memory dose raise";
+var mnemonic = "clip toward owner canvas hospital canvas tool exact such piano resource pond";

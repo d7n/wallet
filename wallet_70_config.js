@@ -1,1 +1,1 @@
-var mnemonic = "nature patrol style mushroom kiss yard suspect almost next broom table army";
+var mnemonic = "food theory neither render speak gesture confirm thunder legal dog purse hello";

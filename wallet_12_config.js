@@ -1,1 +1,1 @@
-var mnemonic = "online dance switch mechanic soup adult flush army cover milk knife organ";
+var mnemonic = "view town pony chimney model media decline same wasp salt casino unveil";

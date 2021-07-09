@@ -1,1 +1,1 @@
-var mnemonic = "cactus simple outdoor slight phone trend point attitude right mule arrange save";
+var mnemonic = "salute increase insect awkward van acquire couch fancy practice judge ketchup torch";

@@ -1,1 +1,1 @@
-var mnemonic = "country arm thought vivid august online wage view action fold coyote rapid";
+var mnemonic = "pulp dismiss van melody someone position stamp betray false photo measure model";

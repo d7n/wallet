@@ -1,1 +1,1 @@
-var mnemonic = "art place type screen depth walk champion series steak mystery jelly find";
+var mnemonic = "host dawn deposit hero brush coil easy fitness become region maple chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon spring crane ostrich siren shell resource box project endorse among spike";
+var mnemonic = "cloth tiger attract below example list dirt battle invite current drama century";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss patient unable code biology have promote tool bread image jungle all";
+var mnemonic = "tourist add genius eye lion match name kangaroo error among pact miss";

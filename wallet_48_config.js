@@ -1,1 +1,1 @@
-var mnemonic = "pistol course wedding border special gas intact into heavy frown brother seat";
+var mnemonic = "scene base behind impulse hello milk sword beauty drastic mushroom color minor";

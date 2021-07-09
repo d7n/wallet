@@ -1,1 +1,1 @@
-var mnemonic = "return mouse trigger ticket quote heavy ignore orchard net carry brand tumble";
+var mnemonic = "output rival urge innocent give girl public middle horror repair power eager";

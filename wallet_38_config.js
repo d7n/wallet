@@ -1,1 +1,1 @@
-var mnemonic = "caution rebel enlist enforce eye fly barely wrap nurse soccer scout rack";
+var mnemonic = "awful dizzy pause else sunny hammer disease resist real master drink bird";

@@ -1,1 +1,1 @@
-var mnemonic = "use claw sound lamp have dynamic million wall area exact cost stool";
+var mnemonic = "total brave bachelor dentist side someone between flag slot cat glide trade";

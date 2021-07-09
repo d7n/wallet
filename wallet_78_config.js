@@ -1,1 +1,1 @@
-var mnemonic = "like quote intact year tape item oven valve judge hammer swift width";
+var mnemonic = "hollow lemon matter exhibit reflect shrug ball ozone demise term rocket fork";

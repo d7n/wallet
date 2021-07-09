@@ -1,1 +1,1 @@
-var mnemonic = "crane bone source differ cinnamon joke fee corn upon bread climb bless";
+var mnemonic = "cruel pigeon vault venue dynamic share empty miracle chronic marriage congress border";

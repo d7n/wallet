@@ -1,1 +1,1 @@
-var mnemonic = "crunch pass subject hand artefact belt about smooth mother hedgehog verb type";
+var mnemonic = "rain book turtle express harsh under grape excess youth lazy struggle because";

@@ -1,1 +1,1 @@
-var mnemonic = "same cigar sample door tiny health worry town toast pig group just";
+var mnemonic = "local portion payment meat fetch dove lunch right visa crater crush then";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce pool tent actor garlic state enjoy glass fox capable pen wheat";
+var mnemonic = "sponsor industry seat bid place cigar size kit category network absurd food";

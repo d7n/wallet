@@ -1,1 +1,1 @@
-var mnemonic = "purpose mammal sister guitar perfect street absurd wait cannon soda harsh cram";
+var mnemonic = "donate eagle spend valley recycle share life industry cruel more dance approve";

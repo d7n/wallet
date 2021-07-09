@@ -1,1 +1,1 @@
-var mnemonic = "mad fit satisfy extend boring act scare amount tribe deny across gather";
+var mnemonic = "confirm curve search speak stool pencil plug gospel fancy claim october edge";

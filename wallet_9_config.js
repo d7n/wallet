@@ -1,1 +1,1 @@
-var mnemonic = "concert muscle swarm air perfect anger honey outer fold reform celery client";
+var mnemonic = "scan insane ride tongue music picnic park swift around shuffle inform basic";

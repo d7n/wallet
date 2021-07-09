@@ -1,1 +1,1 @@
-var mnemonic = "spot depth genius supply prepare pave hover library margin excuse nest once";
+var mnemonic = "enjoy divert border carry team idle meat gossip choose invest mandate left";

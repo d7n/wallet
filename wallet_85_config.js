@@ -1,1 +1,1 @@
-var mnemonic = "forget reflect toward cliff number pill involve unfair loyal solution hundred waste";
+var mnemonic = "write vast slide heavy buffalo half kangaroo critic potato drive ability outside";

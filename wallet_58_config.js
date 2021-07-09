@@ -1,1 +1,1 @@
-var mnemonic = "swap mixture moment point double host major legend object slush demand fancy";
+var mnemonic = "prosper check cream amazing display boat hungry mixed second crane rare cover";

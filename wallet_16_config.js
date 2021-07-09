@@ -1,1 +1,1 @@
-var mnemonic = "want initial task tired favorite source shrug congress tackle turkey normal post";
+var mnemonic = "affair final benefit robot fade trouble holiday hazard roof will puzzle kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "document noble wheat shoot crime fatal behave vivid sorry rely private neither";
+var mnemonic = "mass afford farm crazy whale often junior student win palace obscure leopard";

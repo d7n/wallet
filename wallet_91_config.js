@@ -1,1 +1,1 @@
-var mnemonic = "choice desk true sudden butter build tool cheese glow artwork remain category";
+var mnemonic = "plastic hurt job flat fame donor suit please thunder orbit nurse strike";

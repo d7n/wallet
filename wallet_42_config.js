@@ -1,1 +1,1 @@
-var mnemonic = "arch adult copper top great reflect pull estate romance kingdom food finger";
+var mnemonic = "south canoe young rally brass lawn yard blast repeat chicken payment hard";

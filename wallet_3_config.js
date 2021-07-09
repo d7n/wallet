@@ -1,1 +1,1 @@
-var mnemonic = "alcohol glance limit depart element forward hazard future human suspect silver disagree";
+var mnemonic = "kitchen verify result resist differ surface black celery jungle bunker require elegant";

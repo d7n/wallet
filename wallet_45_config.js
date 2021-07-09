@@ -1,1 +1,1 @@
-var mnemonic = "man release alley disagree tenant galaxy leg average edit traffic dirt giant";
+var mnemonic = "match quiz junior grow danger betray latin boss cook acoustic alarm demise";

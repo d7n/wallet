@@ -1,1 +1,1 @@
-var mnemonic = "solution subway still snake joke hundred pyramid view effort senior squeeze much";
+var mnemonic = "point spice crowd method deal erupt capital quit travel ivory vivid buddy";

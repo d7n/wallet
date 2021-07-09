@@ -1,1 +1,1 @@
-var mnemonic = "pause behave drip stay sail witness teach learn addict beach regular toddler";
+var mnemonic = "mask stand nuclear aim brick flame lesson comic swarm play embody oven";

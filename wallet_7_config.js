@@ -1,1 +1,1 @@
-var mnemonic = "runway struggle eagle motor before tribe neck carbon patrol axis price way";
+var mnemonic = "chapter develop dust squirrel helmet economy liberty history crush lawn enable require";

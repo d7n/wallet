@@ -1,1 +1,1 @@
-var mnemonic = "special often language menu daring indoor festival silver heavy learn shoot few";
+var mnemonic = "inspire mosquito hire laugh wonder sand horror distance bean either cradle spray";

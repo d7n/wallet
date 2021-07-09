@@ -1,1 +1,1 @@
-var mnemonic = "hurdle input crunch blossom enemy hour verb much dose shoot lava bread";
+var mnemonic = "unusual domain memory post salon evil guide divide pause execute story member";

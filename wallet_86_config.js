@@ -1,1 +1,1 @@
-var mnemonic = "hero flat fiction walk nerve alley belt excess shed express lesson paddle";
+var mnemonic = "monkey mass license goddess smile buddy creek evolve velvet beach illness arrest";

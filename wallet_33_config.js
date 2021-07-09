@@ -1,1 +1,1 @@
-var mnemonic = "display pepper night broccoli list mean seven motor regret script bike crawl";
+var mnemonic = "sketch tenant trophy dolphin aisle sister tired off spend gasp section test";

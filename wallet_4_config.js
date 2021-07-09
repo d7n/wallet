@@ -1,1 +1,1 @@
-var mnemonic = "toddler setup gadget clinic spatial strategy close tuition hidden grain need pigeon";
+var mnemonic = "case echo what awake deer liar file exhaust real plug enjoy load";

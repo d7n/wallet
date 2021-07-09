@@ -1,1 +1,1 @@
-var mnemonic = "okay gate invite pink trim cash little tooth cry pact exist path";
+var mnemonic = "rain pepper release weapon rail term copy curve point math spread evoke";

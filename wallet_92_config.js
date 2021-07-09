@@ -1,1 +1,1 @@
-var mnemonic = "captain junk best net hollow gadget argue pencil bulb avoid hen insect";
+var mnemonic = "forest option maple rescue undo fox lens search join course photo aim";

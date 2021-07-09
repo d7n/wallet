@@ -1,1 +1,1 @@
-var mnemonic = "casual champion fabric dream resource cattle sand bike hover burden enter rich";
+var mnemonic = "couch annual enforce mail brief eyebrow neutral kidney maple mixed accident more";

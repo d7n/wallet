@@ -1,1 +1,1 @@
-var mnemonic = "author final fine march vessel vehicle please beauty replace kitchen endless reject";
+var mnemonic = "company resource axis consider depend address surface media secret joy slush spare";

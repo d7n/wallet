@@ -1,1 +1,1 @@
-var mnemonic = "eager prison lend you chat seven pair clown mushroom cruel horse floor";
+var mnemonic = "enough trouble jewel person road mirror expect pizza pipe clutch knife index";

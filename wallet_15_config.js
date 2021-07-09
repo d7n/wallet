@@ -1,1 +1,1 @@
-var mnemonic = "leaf infant skull focus behave nephew begin reform clutch merge photo match";
+var mnemonic = "midnight edit quote odor stumble drill call vessel entry crumble reward burden";

@@ -1,1 +1,1 @@
-var mnemonic = "three web eyebrow faculty earn pizza critic silly siren adapt shoot edge";
+var mnemonic = "super evidence hole seven weapon super inherit cricket knife pioneer rebel lounge";
