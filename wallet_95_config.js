@@ -1,1 +1,1 @@
-var mnemonic = "garage quarter ill unknown ensure monster drastic gown minimum laundry robust vacuum";
+var mnemonic = "engage shaft stove leaf festival remind bridge unaware thrive road mystery dignity";

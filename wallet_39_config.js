@@ -1,1 +1,1 @@
-var mnemonic = "fortune lion frame spin actual oak echo quote critic chief pipe grain";
+var mnemonic = "mean height fold tomato dirt detail mail ring squeeze someone expire ready";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo priority pencil science extra toy aisle please idea angry dizzy learn";
+var mnemonic = "badge believe cram keep fantasy moral loop ripple dice protect lunch scan";

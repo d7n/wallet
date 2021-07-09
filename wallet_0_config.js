@@ -1,1 +1,1 @@
-var mnemonic = "item ethics section merit place topple grocery clown short bracket rain solar";
+var mnemonic = "clutch coconut above acid crystal hire inside wheel charge mass rack miracle";

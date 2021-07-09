@@ -1,1 +1,1 @@
-var mnemonic = "segment south breeze clock toss diet harvest sweet catch private army exhibit";
+var mnemonic = "crawl rich eager penalty naive ceiling able cinnamon sea adjust describe major";

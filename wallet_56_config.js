@@ -1,1 +1,1 @@
-var mnemonic = "digital help regular bean oven course tribe laugh favorite radio sort impose";
+var mnemonic = "volume scan material profit dream crash siren narrow awake sure earn dose";

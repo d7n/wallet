@@ -1,1 +1,1 @@
-var mnemonic = "during mad spirit cotton identify repair lend gas frozen cruise impose urban";
+var mnemonic = "blush cave library cricket very siren black electric recipe hire able drum";

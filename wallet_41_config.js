@@ -1,1 +1,1 @@
-var mnemonic = "test book tube service culture punch use combine umbrella burst pioneer jealous";
+var mnemonic = "rifle horn race pull grab install fan spawn response hockey toe spoil";

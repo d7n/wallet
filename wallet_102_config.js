@@ -1,1 +1,1 @@
-var mnemonic = "describe creek matter genius indicate creek total version giant blue cousin seed";
+var mnemonic = "insane giraffe run witness rural govern inner hero age cook frown long";

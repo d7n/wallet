@@ -1,1 +1,1 @@
-var mnemonic = "veteran fence remain select embrace tip raw admit hour pole search bronze";
+var mnemonic = "toward suspect trial speed neutral dilemma notable can orbit senior royal bitter";

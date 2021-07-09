@@ -1,1 +1,1 @@
-var mnemonic = "effort rain divert usage stand exchange antique erosion case kitchen borrow track";
+var mnemonic = "goddess embrace stairs forum hedgehog defy monkey common radar afraid elegant brown";

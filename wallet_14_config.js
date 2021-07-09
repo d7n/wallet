@@ -1,1 +1,1 @@
-var mnemonic = "siren fresh ensure step sustain river maximum fish civil code youth parade";
+var mnemonic = "hero ball taste truly alone win enhance drill lobster phone celery mountain";

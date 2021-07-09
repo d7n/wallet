@@ -1,1 +1,1 @@
-var mnemonic = "thumb cargo neglect candy lizard random split claim manage elegant toddler scrub";
+var mnemonic = "little captain school horse gorilla dry energy pact pitch bless skirt panda";

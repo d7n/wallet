@@ -1,1 +1,1 @@
-var mnemonic = "honey shop picture shrug action omit spike original meadow rotate orange floor";
+var mnemonic = "buddy organ genius discover unable cube impose harsh same remain mesh mule";

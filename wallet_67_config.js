@@ -1,1 +1,1 @@
-var mnemonic = "peasant depend involve renew enroll anchor puzzle tower early main point turn";
+var mnemonic = "major north exist reason spin cost resemble taste catch smile deposit injury";

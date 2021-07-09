@@ -1,1 +1,1 @@
-var mnemonic = "pave oblige warrior fiber hawk trouble tackle brain ankle stone stumble nerve";
+var mnemonic = "liquid exotic often debate when force cook journey tissue congress scrub easy";

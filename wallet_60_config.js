@@ -1,1 +1,1 @@
-var mnemonic = "office early onion key flush casual use bundle switch feature security tuition";
+var mnemonic = "describe wife jelly become oxygen random axis stamp barrel frequent glance fringe";

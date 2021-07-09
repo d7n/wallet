@@ -1,1 +1,1 @@
-var mnemonic = "tumble fold bitter donor cart reward luxury pool rescue palace shadow ability";
+var mnemonic = "park govern grain town eager radar spider produce unhappy flame answer invite";

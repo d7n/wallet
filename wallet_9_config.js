@@ -1,1 +1,1 @@
-var mnemonic = "snap exotic black rely prison holiday maximum moral ankle payment siren victory";
+var mnemonic = "result roof thought deposit salmon lens rose stove pull crouch ride apart";

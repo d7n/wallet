@@ -1,1 +1,1 @@
-var mnemonic = "sweet trick just hire square estate like act certain nuclear family chest";
+var mnemonic = "window february mushroom own another snake just erode name phone stable you";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard divert mercy crumble coil borrow fiscal update bid scale flame address";
+var mnemonic = "frown rocket hover metal business chalk congress mosquito flip misery margin unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "slide bamboo clever valley dumb still tide stem evil one horse leader";
+var mnemonic = "feel height defy north leader gallery illness quantum vote true main table";

@@ -1,1 +1,1 @@
-var mnemonic = "tent woman fortune pumpkin bone book cousin spider gift clap response frog";
+var mnemonic = "math predict banner green embark alarm exist little give buddy milk barely";

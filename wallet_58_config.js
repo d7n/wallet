@@ -1,1 +1,1 @@
-var mnemonic = "coyote scatter venue strike invest guilt select royal hole home jewel rich";
+var mnemonic = "clerk wall grit stay bubble mention upon carbon amateur jar forest satoshi";

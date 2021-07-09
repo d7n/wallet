@@ -1,1 +1,1 @@
-var mnemonic = "farm actress toilet frost damp sleep velvet region survey copy undo top";
+var mnemonic = "lonely kiwi unable valid spider season upset coil senior tomorrow initial renew";

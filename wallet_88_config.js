@@ -1,1 +1,1 @@
-var mnemonic = "physical helmet bullet fortune skull now winner brown finish video thunder mixed";
+var mnemonic = "shed satoshi seminar embody vanish suspect escape rescue engine width crush eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "cake mosquito camera afraid affair enforce nature surge tell second element belt";
+var mnemonic = "must fruit rocket rack cash crack excuse march trash able marble plug";

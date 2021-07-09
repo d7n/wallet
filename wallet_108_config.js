@@ -1,1 +1,1 @@
-var mnemonic = "differ skate element ask click twenty tray produce remember treat twelve improve";
+var mnemonic = "solar taxi ignore more depth vehicle ball tonight worry bounce crane hat";

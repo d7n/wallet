@@ -1,1 +1,1 @@
-var mnemonic = "knee noodle two attitude comic sick return adjust uphold charge sun hub";
+var mnemonic = "apple wood shrimp kid time seek screen snake parrot lecture bright skirt";

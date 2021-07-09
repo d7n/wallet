@@ -1,1 +1,1 @@
-var mnemonic = "bag diagram quantum picture woman stereo wait lawsuit trouble relief galaxy trophy";
+var mnemonic = "obscure walk play result salmon vacuum motion leader turtle torch detail smart";

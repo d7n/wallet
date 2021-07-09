@@ -1,1 +1,1 @@
-var mnemonic = "strategy twist glance width glad budget job boy shrug bundle lock pledge";
+var mnemonic = "siren visa abuse sort barely nerve thing find piece basket exhaust connect";

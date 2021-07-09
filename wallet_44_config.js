@@ -1,1 +1,1 @@
-var mnemonic = "claw cruel witness bread rapid steel crowd gun sad gadget main siege";
+var mnemonic = "maid daring fiction bridge pond young hard bulk zone owner forest squeeze";

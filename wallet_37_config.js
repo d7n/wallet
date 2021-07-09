@@ -1,1 +1,1 @@
-var mnemonic = "muffin select typical ladder this oblige melody leaf resource length powder desert";
+var mnemonic = "check worry put pause buyer fee plate warrior name stem grocery balcony";

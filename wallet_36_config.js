@@ -1,1 +1,1 @@
-var mnemonic = "holiday mom egg distance slam advance rough dwarf slow pause right bind";
+var mnemonic = "master luggage village luxury random chimney snake language medal symptom word forum";

@@ -1,1 +1,1 @@
-var mnemonic = "release verify plug cross proof virtual chat misery bar tree direct stairs";
+var mnemonic = "decade region tongue basic crew night love ship until lens ancient alone";

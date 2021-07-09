@@ -1,1 +1,1 @@
-var mnemonic = "select fun mesh save water resist wheat violin toss social bunker uncover";
+var mnemonic = "orchard judge also beauty slogan want domain width story grid tattoo humble";

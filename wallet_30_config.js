@@ -1,1 +1,1 @@
-var mnemonic = "female power input size father version about relax kitten define spin message";
+var mnemonic = "day world crucial old view spot repair grace away video glow quick";

@@ -1,1 +1,1 @@
-var mnemonic = "crane amateur thunder barrel auto select surprise remember devote pass deposit truth";
+var mnemonic = "powder suspect bamboo unknown cross weapon river start thing decrease exit wait";

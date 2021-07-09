@@ -1,1 +1,1 @@
-var mnemonic = "meadow flush wolf scrap lobster stable twist occur board december zone clown";
+var mnemonic = "rifle begin follow clown distance police state coach swamp miracle nasty suit";

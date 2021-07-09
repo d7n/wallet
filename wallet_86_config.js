@@ -1,1 +1,1 @@
-var mnemonic = "lunch bomb input prepare physical coil theme agree hood smooth awake scene";
+var mnemonic = "grain father crouch language dad pilot head ostrich elder clock course fiction";

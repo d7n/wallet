@@ -1,1 +1,1 @@
-var mnemonic = "mandate unique twelve tennis trigger heavy crop pluck robust cage bright borrow";
+var mnemonic = "leg course used fan shadow tiger ship dune spoil crop cover violin";

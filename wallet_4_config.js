@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sphere remain ladder girl amount bone pluck core act very rough";
+var mnemonic = "mountain glow assault neck author motion girl light corn noise bind buffalo";

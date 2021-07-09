@@ -1,1 +1,1 @@
-var mnemonic = "pledge monkey man romance notable pen mansion pepper upper forward cave defense";
+var mnemonic = "digital peasant sunny suspect tooth large mask salad couch museum game weasel";

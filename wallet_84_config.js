@@ -1,1 +1,1 @@
-var mnemonic = "forum injury cram isolate neglect current pill lock judge cry hope length";
+var mnemonic = "stem forget unaware satisfy asset chunk page hole ahead express faith youth";

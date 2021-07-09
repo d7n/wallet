@@ -1,1 +1,1 @@
-var mnemonic = "unhappy struggle gas slogan before immense fox uncle trick ride blood uncle";
+var mnemonic = "never dutch zone enact deal tide elbow install swing sing strong spin";

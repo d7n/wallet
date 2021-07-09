@@ -1,1 +1,1 @@
-var mnemonic = "various drill tree skirt fury glove century imitate wrap pet exit blouse";
+var mnemonic = "melt rice plug switch endorse minimum bleak great apart jeans satoshi receive";

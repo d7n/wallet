@@ -1,1 +1,1 @@
-var mnemonic = "pretty hurdle feed question loan blanket session security speed stock orbit usage";
+var mnemonic = "firm debate proof rare sense cannon exclude visa room enemy hungry report";

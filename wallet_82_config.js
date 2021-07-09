@@ -1,1 +1,1 @@
-var mnemonic = "lucky abandon that buddy canvas program cloth wave armor twice awful pledge";
+var mnemonic = "parrot educate pull much horse hole payment card rigid crunch average hazard";

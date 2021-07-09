@@ -1,1 +1,1 @@
-var mnemonic = "palm nice weird lamp employ thunder cost knife embark orient wonder shed";
+var mnemonic = "arrow cool issue drop year enlist menu negative loan ritual net kingdom";

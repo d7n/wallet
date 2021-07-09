@@ -1,1 +1,1 @@
-var mnemonic = "embrace repeat interest anchor father volume approve bronze insane morning brisk swap";
+var mnemonic = "face patch round faculty believe maple trust image coach tonight embody explain";

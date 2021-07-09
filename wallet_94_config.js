@@ -1,1 +1,1 @@
-var mnemonic = "alley border wrap exist joke stage sting spirit vague wreck flee tennis";
+var mnemonic = "spice scare design acquire outside outer february cattle inject hero sunny order";

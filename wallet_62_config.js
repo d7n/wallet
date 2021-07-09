@@ -1,1 +1,1 @@
-var mnemonic = "boat win ugly name noise knife primary now slab wire captain wealth";
+var mnemonic = "alone more lobster attend stumble render together approve anger desert pretty stuff";

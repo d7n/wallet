@@ -1,1 +1,1 @@
-var mnemonic = "program skull behave defy river hello humor tent position idle powder regular";
+var mnemonic = "cheese hint sell fantasy crowd awkward pave idea velvet entire join pole";

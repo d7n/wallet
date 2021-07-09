@@ -1,1 +1,1 @@
-var mnemonic = "idle lend mosquito blind vacant tragic bar hire public birth profit begin";
+var mnemonic = "situate account display approve mercy ghost toast cactus tooth layer labor fuel";

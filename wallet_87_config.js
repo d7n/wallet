@@ -1,1 +1,1 @@
-var mnemonic = "kiwi amateur wait battle bind exotic stem stove digital mimic crouch lunar";
+var mnemonic = "sock fossil era spray glow slim winner average vocal bread repeat cost";

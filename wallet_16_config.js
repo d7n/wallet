@@ -1,1 +1,1 @@
-var mnemonic = "kick miss symbol rhythm profit sock fruit achieve essence supply journey area";
+var mnemonic = "helmet circle audit beef figure aunt present wait travel more odor flame";

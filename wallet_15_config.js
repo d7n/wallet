@@ -1,1 +1,1 @@
-var mnemonic = "olive lunch auto dumb inquiry find rice fiscal pony way hen cover";
+var mnemonic = "core drip since party merry future deal earn small predict lift tell";

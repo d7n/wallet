@@ -1,1 +1,1 @@
-var mnemonic = "often warrior treat stumble upset tell dilemma dry knee mechanic bronze never";
+var mnemonic = "desert reason accident swift suggest flag tenant swim such ginger assist lizard";

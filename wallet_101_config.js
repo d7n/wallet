@@ -1,1 +1,1 @@
-var mnemonic = "judge buddy comfort garden lawn verb grocery elite sail tired depart story";
+var mnemonic = "slim ridge catch apple shoulder dwarf history call space prison armed gentle";

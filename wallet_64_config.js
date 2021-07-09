@@ -1,1 +1,1 @@
-var mnemonic = "next retire butter dwarf place drop exhibit sure yard proof april below";
+var mnemonic = "swift century morning gauge monitor theory police clay deny increase brand chief";

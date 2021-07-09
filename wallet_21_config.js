@@ -1,1 +1,1 @@
-var mnemonic = "drive predict transfer actor crane vague amateur shell jacket okay burger bean";
+var mnemonic = "cinnamon situate mule resemble earth angle joy record employ beach since churn";

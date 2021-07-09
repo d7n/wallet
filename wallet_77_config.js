@@ -1,1 +1,1 @@
-var mnemonic = "reunion agree connect license program maximum goat sustain misery express sleep sudden";
+var mnemonic = "oppose cigar brush iron romance author elephant table album culture fabric upgrade";

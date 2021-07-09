@@ -1,1 +1,1 @@
-var mnemonic = "save large kit vibrant spawn illness kidney cheap bargain receive bullet hip";
+var mnemonic = "allow boat fire sign build police prevent abuse list warm tobacco olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "clay day orient holiday include betray giant voyage artwork sunset enemy bone";
+var mnemonic = "flush sponsor rough dizzy eight eagle chase reason candy know train use";

@@ -1,1 +1,1 @@
-var mnemonic = "verify artist safe cruel buffalo glove month frown record verb tooth broken";
+var mnemonic = "rich hub fish blame expire guess chat claim pair venue describe swallow";

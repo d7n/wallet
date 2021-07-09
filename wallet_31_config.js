@@ -1,1 +1,1 @@
-var mnemonic = "retreat damp fold wasp coyote kiwi shock bike shed engage topple arrive";
+var mnemonic = "cabin finish debate shoulder twin illness umbrella butter trash away combine brown";

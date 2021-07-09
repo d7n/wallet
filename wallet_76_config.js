@@ -1,1 +1,1 @@
-var mnemonic = "shiver cool begin uncover tuition fantasy enable ripple chief define amateur spoil";
+var mnemonic = "august mother night crane slice aerobic trial outdoor cricket base ski mango";

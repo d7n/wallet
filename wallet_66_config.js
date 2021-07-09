@@ -1,1 +1,1 @@
-var mnemonic = "found fall fancy eternal valve festival decorate clerk soccer music drink erupt";
+var mnemonic = "fame thought random brown enlist dash school buzz tilt yard garage seek";

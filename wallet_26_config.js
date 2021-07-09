@@ -1,1 +1,1 @@
-var mnemonic = "lake across horn kick ask sheriff knock dog witness obey illness host";
+var mnemonic = "eternal bridge flip fork enact retire season ten meat scrub sample cousin";

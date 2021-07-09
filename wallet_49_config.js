@@ -1,1 +1,1 @@
-var mnemonic = "welcome gap spoil mountain assist picnic decline voice ribbon naive resemble rude";
+var mnemonic = "retire pretty club update west speed inch crane trust thing obtain reflect";

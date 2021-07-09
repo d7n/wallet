@@ -1,1 +1,1 @@
-var mnemonic = "iron gold acoustic wine toddler all slim chest select output purpose cheese";
+var mnemonic = "spray insane provide fiber awful area fatigue furnace crunch critic rent spare";

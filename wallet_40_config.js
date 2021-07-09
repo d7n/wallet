@@ -1,1 +1,1 @@
-var mnemonic = "step dolphin onion chalk wagon egg asthma sniff candy december recall junk";
+var mnemonic = "panic impact pepper outdoor magnet winner impose lock fatal lady hurdle equip";

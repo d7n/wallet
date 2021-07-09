@@ -1,1 +1,1 @@
-var mnemonic = "hollow tomorrow ensure hole neck ivory option never lesson exact indicate subway";
+var mnemonic = "discover seed social roast tube route degree episode wide rib they okay";

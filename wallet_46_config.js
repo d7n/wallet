@@ -1,1 +1,1 @@
-var mnemonic = "page illness lamp muscle picture hope glad unfold exhaust obtain cloud region";
+var mnemonic = "joke total dry multiply crew stool gaze design similar truth beach fee";

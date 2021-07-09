@@ -1,1 +1,1 @@
-var mnemonic = "farm oppose blossom lyrics net there erode crash orange detail neck ship";
+var mnemonic = "wall coast prevent vendor jelly annual puzzle exchange reason worth agree turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "maze cake rescue garden dentist stove hybrid gesture promote reunion spring client";
+var mnemonic = "reopen movie fish explain leaf couple despair can leisure vague fade address";

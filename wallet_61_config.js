@@ -1,1 +1,1 @@
-var mnemonic = "erupt slam daring industry similar mail curtain man intact grace soccer hole";
+var mnemonic = "penalty crisp pass appear dragon boost material seed thumb rocket tuna gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hospital off switch evil auction shock mind inner language lake suffer";
+var mnemonic = "stomach ketchup head hand horn pistol panda cricket apart canal goat mirror";

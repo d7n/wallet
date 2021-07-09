@@ -1,1 +1,1 @@
-var mnemonic = "holiday roast assist put pizza question scatter hip drift clutch mix vacuum";
+var mnemonic = "coral cart shoulder aspect that slide avoid aspect feed limb jazz next";

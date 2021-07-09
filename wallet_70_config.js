@@ -1,1 +1,1 @@
-var mnemonic = "penalty desert toss hen total away explain view arrest radio topic beach";
+var mnemonic = "shy oval mail skill column already atom sad kiss enable process off";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty stuff vacant extra thumb auto chunk foot want tooth planet flat";
+var mnemonic = "number race wave town kind cat velvet color recall smooth portion wage";

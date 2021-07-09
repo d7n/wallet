@@ -1,1 +1,1 @@
-var mnemonic = "sad joy satisfy pluck exhaust excuse ride valve sweet garbage attack uncle";
+var mnemonic = "federal town despair drama soul history primary dose economy sphere shaft endless";

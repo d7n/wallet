@@ -1,1 +1,1 @@
-var mnemonic = "fruit shallow improve tail say man dismiss rookie victory frown twin excess";
+var mnemonic = "tackle forum trim genuine member cat mystery mother usual cart blur author";

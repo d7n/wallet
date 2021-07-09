@@ -1,1 +1,1 @@
-var mnemonic = "lava type stamp milk lemon glass army scheme napkin verify problem ceiling";
+var mnemonic = "tag banner fancy parade magic tooth speak exile slice zebra where differ";

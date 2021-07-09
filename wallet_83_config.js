@@ -1,1 +1,1 @@
-var mnemonic = "cupboard pluck person venue exchange address plunge prison abandon clarify live bronze";
+var mnemonic = "clerk train drill work notice uphold prefer worth modify supply inner divide";

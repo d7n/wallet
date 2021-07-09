@@ -1,1 +1,1 @@
-var mnemonic = "toss safe soccer danger plug before manual dry barrel group hello relax";
+var mnemonic = "student casino language during amateur silly bundle drive leave what picnic boost";

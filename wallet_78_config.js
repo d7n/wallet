@@ -1,1 +1,1 @@
-var mnemonic = "sustain eyebrow rural spy talent album clap cabin double ticket west cherry";
+var mnemonic = "siege south confirm weasel connect carry way cover couch prize fantasy pool";

@@ -1,1 +1,1 @@
-var mnemonic = "leader claim price orient sorry miss quiz title recycle great pulse pig";
+var mnemonic = "achieve reopen pave crowd virus crucial obvious pill close banner chronic catch";
