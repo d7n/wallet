@@ -1,1 +1,1 @@
-var mnemonic = "more organ pelican guide donkey swap poem raccoon bunker ride axis vintage";
+var mnemonic = "crystal away twelve athlete belt harbor reward resemble win knee winter green";

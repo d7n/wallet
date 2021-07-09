@@ -1,1 +1,1 @@
-var mnemonic = "brisk heart moral want assume box spare stove dutch click curve type";
+var mnemonic = "treat dilemma century catalog bitter insane disease tuna layer patch body useful";

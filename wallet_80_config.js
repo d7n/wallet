@@ -1,1 +1,1 @@
-var mnemonic = "tilt begin kick south link infant grief shaft reveal road ordinary wage";
+var mnemonic = "canvas cart craft nerve book bundle saddle decide pause rotate spoon october";

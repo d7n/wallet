@@ -1,1 +1,1 @@
-var mnemonic = "pyramid roof tag real song side dust episode scale modify license canoe";
+var mnemonic = "betray friend amazing will prize weather sword autumn extend need child puzzle";

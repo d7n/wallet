@@ -1,1 +1,1 @@
-var mnemonic = "bacon fury body sleep doll actor bonus advance chunk episode panel hawk";
+var mnemonic = "trade illness cloud cement kiss example acid summer review traffic tell spray";

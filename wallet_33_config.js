@@ -1,1 +1,1 @@
-var mnemonic = "tuna target foot below exhibit window step chunk glance twin resist screen";
+var mnemonic = "arrive shoulder glove unknown diagram tooth basket chuckle document design slam liberty";

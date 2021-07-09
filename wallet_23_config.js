@@ -1,1 +1,1 @@
-var mnemonic = "refuse employ rice drink core margin small wage satisfy find frozen stay";
+var mnemonic = "dry fancy region lunch life army damage slam deal degree cycle squirrel";

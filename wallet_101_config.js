@@ -1,1 +1,1 @@
-var mnemonic = "drift noise actress luxury interest force fix provide sting display spoon fog";
+var mnemonic = "strike erupt industry enforce wrist upset say seek dawn spy crisp mean";

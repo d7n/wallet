@@ -1,1 +1,1 @@
-var mnemonic = "correct infant cigar similar snap smoke heavy soap spawn crumble exhaust warm";
+var mnemonic = "during drip lunar parade door lion tunnel odor drama dirt risk tattoo";

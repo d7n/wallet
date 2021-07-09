@@ -1,1 +1,1 @@
-var mnemonic = "earth absurd gloom vague team shuffle grunt sword defy elevator act boil";
+var mnemonic = "clerk champion more corn disorder document team lunch tray grass enforce coral";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor morning symptom yard sign cotton protect physical coin solve narrow tool";
+var mnemonic = "color enhance orange between lake inner sorry bird smooth before track hollow";

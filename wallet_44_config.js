@@ -1,1 +1,1 @@
-var mnemonic = "now slice drama sentence alter present ladder poverty fiscal fatigue lend second";
+var mnemonic = "volume session squirrel crazy action write topic link notable field salt message";

@@ -1,1 +1,1 @@
-var mnemonic = "news error nothing lunar taste sight define cause fall hotel physical ethics";
+var mnemonic = "cost quarter sniff mirror auto arena affair push wave glimpse build village";

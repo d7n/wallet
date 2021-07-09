@@ -1,1 +1,1 @@
-var mnemonic = "horror refuse health major quiz wood same blade wage regular amateur panda";
+var mnemonic = "hundred scan remain fortune tiger photo ugly simple reward engage once plate";

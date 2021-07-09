@@ -1,1 +1,1 @@
-var mnemonic = "tongue music cloud pioneer aerobic reopen vast beach include velvet furnace display";
+var mnemonic = "snap neglect scan release judge travel size license boil cradle chunk pudding";

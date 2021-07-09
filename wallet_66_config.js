@@ -1,1 +1,1 @@
-var mnemonic = "cruel surround guard around galaxy income chalk youth reopen grocery tail object";
+var mnemonic = "alley carry eyebrow skirt fruit disagree copper myself morning nuclear party dust";

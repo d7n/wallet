@@ -1,1 +1,1 @@
-var mnemonic = "wheat learn tribe concert senior poem season fiction city monster steak copper";
+var mnemonic = "upgrade they rebel summer absorb real sense guilt vacuum abandon glory during";

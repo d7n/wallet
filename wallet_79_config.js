@@ -1,1 +1,1 @@
-var mnemonic = "vast fit spring zebra metal citizen toast crisp element couple feel rapid";
+var mnemonic = "cream just shine sail focus curious emerge monster describe panel educate security";

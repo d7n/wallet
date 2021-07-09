@@ -1,1 +1,1 @@
-var mnemonic = "civil fire shell deliver grab fashion dinosaur have swallow humble march enroll";
+var mnemonic = "wealth jeans disagree van juice trust release cliff dish humble seven share";

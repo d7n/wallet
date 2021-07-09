@@ -1,1 +1,1 @@
-var mnemonic = "lamp citizen stay mobile model mixture state chicken peasant twenty must decide";
+var mnemonic = "fiction aware gauge suggest escape soup dice action salute bench salmon meadow";

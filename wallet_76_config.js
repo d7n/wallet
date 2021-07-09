@@ -1,1 +1,1 @@
-var mnemonic = "vanish alley canvas trust eager visa conduct act rifle ribbon always west";
+var mnemonic = "boring obscure siege early tag cherry flat dog bulk domain talk spend";

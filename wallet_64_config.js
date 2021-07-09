@@ -1,1 +1,1 @@
-var mnemonic = "object ball vessel bird girl rescue erase rescue donkey simple essence awful";
+var mnemonic = "sauce sting make review also ensure decrease volume erode type virtual dolphin";

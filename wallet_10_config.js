@@ -1,1 +1,1 @@
-var mnemonic = "sail service inquiry fortune space exclude orchard owner crazy whale return credit";
+var mnemonic = "month inhale permit kiwi door case fruit swap rebel asthma joke urban";

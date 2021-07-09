@@ -1,1 +1,1 @@
-var mnemonic = "second fatal collect apology blur photo follow stand attract banner lawsuit thunder";
+var mnemonic = "muscle rose lift wood jelly primary jelly correct satisfy risk cycle paddle";

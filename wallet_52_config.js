@@ -1,1 +1,1 @@
-var mnemonic = "repeat endorse visa runway shell announce lunar entry balance similar praise town";
+var mnemonic = "amateur voice staff save excuse double width use camera minimum bone rapid";

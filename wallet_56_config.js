@@ -1,1 +1,1 @@
-var mnemonic = "cherry example jaguar month thunder device dream cushion impulse clip fame regret";
+var mnemonic = "wrestle exchange cart abstract moon trim quantum sentence degree confirm help lottery";

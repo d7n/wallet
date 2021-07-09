@@ -1,1 +1,1 @@
-var mnemonic = "about dismiss abandon laugh ribbon state economy unveil large kitten cruise divide";
+var mnemonic = "ozone stomach initial viable build cheese surprise father fancy lobster debris crouch";

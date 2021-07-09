@@ -1,1 +1,1 @@
-var mnemonic = "project stand loyal jelly initial goddess clap cram palm pole lawn word";
+var mnemonic = "below surge horse slight warm retreat chief spoil invest home panel person";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid lady unit sleep tail topic hand famous minor attract chapter flavor";
+var mnemonic = "rough funny muscle idle twenty ice situate fatal call skate crop clog";

@@ -1,1 +1,1 @@
-var mnemonic = "useful tip foil winter original clutch answer assault kitten essay just truck";
+var mnemonic = "various motion force love glare donkey word answer skull mail demand income";

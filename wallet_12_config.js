@@ -1,1 +1,1 @@
-var mnemonic = "orphan reduce quote divide lawn eye pencil label audit impact side usual";
+var mnemonic = "birth film soon close blame aerobic select amateur judge need country coconut";

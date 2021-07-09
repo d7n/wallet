@@ -1,1 +1,1 @@
-var mnemonic = "attract two dash purpose riot shrug ugly snake sell inform resource eight";
+var mnemonic = "drill staff kite mobile half display verify enemy steak praise wood useful";

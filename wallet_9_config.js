@@ -1,1 +1,1 @@
-var mnemonic = "ability differ solid style open duck mistake chair exercise choice slogan street";
+var mnemonic = "pole mammal burger drink dream unfair exit occur girl together retire talk";

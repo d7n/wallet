@@ -1,1 +1,1 @@
-var mnemonic = "grunt best tomato process wrist essence tell ask fault next rural enter";
+var mnemonic = "reduce dune plate demand glove hurdle flash naive fade neutral proud property";

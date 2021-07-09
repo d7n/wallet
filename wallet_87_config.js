@@ -1,1 +1,1 @@
-var mnemonic = "desert during endorse afford ivory project bulk razor island myself grocery conduct";
+var mnemonic = "blanket veteran chuckle tackle shop public because leg yellow fortune dry brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "calm lift across myself skate fame lawsuit kingdom rapid minute square brush";
+var mnemonic = "minor tool cool stick mammal sight decrease hip photo come horn beach";

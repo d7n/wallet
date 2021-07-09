@@ -1,1 +1,1 @@
-var mnemonic = "boat buddy entire fruit shiver key grape poem answer fault street approve";
+var mnemonic = "debris book banana barrel now cliff sister ahead math tortoise violin basket";

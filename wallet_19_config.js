@@ -1,1 +1,1 @@
-var mnemonic = "jacket market negative brick square undo habit tail buddy verb chunk fetch";
+var mnemonic = "drama letter axis snap east fame limb chalk cook shift fancy kiwi";

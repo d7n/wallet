@@ -1,1 +1,1 @@
-var mnemonic = "online exchange blue sugar gasp garlic pen empower year once breeze act";
+var mnemonic = "brave olympic fix enlist soap solution arm measure flush proud sort bone";

@@ -1,1 +1,1 @@
-var mnemonic = "toward response jar disagree biology rule allow analyst already vote monster thunder";
+var mnemonic = "cake satoshi secret slogan enough tiny spell funny timber document name tornado";

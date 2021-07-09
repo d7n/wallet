@@ -1,1 +1,1 @@
-var mnemonic = "ancient muscle increase secret clutch knife royal apart swallow submit peasant else";
+var mnemonic = "exit dove potato concert vessel fluid wine creek spice drill divide celery";

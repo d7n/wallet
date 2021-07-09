@@ -1,1 +1,1 @@
-var mnemonic = "oblige predict gravity pigeon laugh treat dry inflict zebra spawn hello trash";
+var mnemonic = "parade body phrase more chaos lock steel consider inspire razor wish shoulder";

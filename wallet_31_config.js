@@ -1,1 +1,1 @@
-var mnemonic = "bag panda finish link already around push ancient pulp around state switch";
+var mnemonic = "host bubble poverty use matter magic reason tribe gate scorpion accident coral";

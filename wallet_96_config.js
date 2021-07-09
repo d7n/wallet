@@ -1,1 +1,1 @@
-var mnemonic = "worth popular draw web cactus soccer easy album nest awake mandate accuse";
+var mnemonic = "venture slam usual swim unfair man machine valve brief exotic regular eternal";

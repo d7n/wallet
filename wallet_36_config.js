@@ -1,1 +1,1 @@
-var mnemonic = "bleak uncle draft update fatal quality agree inner axis engage fruit hour";
+var mnemonic = "retreat verb plug hub nation grow senior twice sadness behind devote detail";

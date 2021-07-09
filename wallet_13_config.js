@@ -1,1 +1,1 @@
-var mnemonic = "crazy nephew window surprise quality craft bunker brief afford miracle wife baby";
+var mnemonic = "arrest ship home change pumpkin curtain lyrics industry make width open scout";

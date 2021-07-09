@@ -1,1 +1,1 @@
-var mnemonic = "march journey major jeans click brisk inherit refuse govern night art panther";
+var mnemonic = "clarify globe want nurse ridge sport ski tube brush antique pool anxiety";

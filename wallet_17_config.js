@@ -1,1 +1,1 @@
-var mnemonic = "ticket olympic craft imitate ladder device kiss crane cash art asset duck";
+var mnemonic = "jewel animal anxiety spare venture tumble sort pretty ostrich sugar mango guess";

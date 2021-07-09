@@ -1,1 +1,1 @@
-var mnemonic = "peasant bleak twice child aunt galaxy clutch wrap pause travel rose minimum";
+var mnemonic = "jelly future minimum tool vapor play pen cable hint kit sauce over";

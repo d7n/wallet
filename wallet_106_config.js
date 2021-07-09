@@ -1,1 +1,1 @@
-var mnemonic = "grab sketch mixed brush exist dwarf prepare excuse actress same undo west";
+var mnemonic = "reopen range mystery flavor mammal total feel item dish mom bar man";

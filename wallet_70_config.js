@@ -1,1 +1,1 @@
-var mnemonic = "toast educate flee enhance merry donkey rather disagree decline magic hen delay";
+var mnemonic = "become ship camp wheel divide dove three chunk vehicle keep copy bulb";

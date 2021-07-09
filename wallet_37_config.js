@@ -1,1 +1,1 @@
-var mnemonic = "antique champion equip absorb offer fog donkey wear input reveal then net";
+var mnemonic = "material unhappy neither heavy hurry code motion uncle live tape able forum";

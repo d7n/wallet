@@ -1,1 +1,1 @@
-var mnemonic = "census merry range please random resource clock first damage kiwi game assault";
+var mnemonic = "thing gospel million relax night decline tooth all ice citizen party approve";

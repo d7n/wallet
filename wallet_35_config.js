@@ -1,1 +1,1 @@
-var mnemonic = "mesh diesel during illness smart gloom shield genre stadium note oil success";
+var mnemonic = "inhale guess hold quick choice birth anchor coffee strong stable list harsh";

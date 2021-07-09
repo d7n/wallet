@@ -1,1 +1,1 @@
-var mnemonic = "divert broccoli smile ripple film kangaroo pass remind gloom prison drama fetch";
+var mnemonic = "good agent dog castle key often curious galaxy soon dog mass future";

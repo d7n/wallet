@@ -1,1 +1,1 @@
-var mnemonic = "matrix panther address legend balcony grief knock suit pet aspect oval ranch";
+var mnemonic = "loop staff amount pelican drift depth damp cupboard injury fiscal present steak";

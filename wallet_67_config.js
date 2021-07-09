@@ -1,1 +1,1 @@
-var mnemonic = "scorpion table crime such interest ship already shield rebel major favorite marble";
+var mnemonic = "wash drama saddle chair breeze pear feature census caught boring liar disease";

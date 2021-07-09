@@ -1,1 +1,1 @@
-var mnemonic = "subway what point field rare miss essence armor oblige match sibling state";
+var mnemonic = "black embody hotel live cannon infant version day panda early soda soup";

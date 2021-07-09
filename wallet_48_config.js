@@ -1,1 +1,1 @@
-var mnemonic = "later transfer catalog person guitar repair venture dress myth enemy capable float";
+var mnemonic = "vault boss olive barrel crane detect copy belt shoot reject industry episode";

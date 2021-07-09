@@ -1,1 +1,1 @@
-var mnemonic = "much into echo farm robot lazy toilet double tray glove dove wool";
+var mnemonic = "charge market man sword bar soul planet scrap empower kind assist inherit";

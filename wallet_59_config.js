@@ -1,1 +1,1 @@
-var mnemonic = "today despair try aware clap vehicle three island swim rain fold upon";
+var mnemonic = "wing peace blouse genius nerve simple soda heart pass impact spread lady";

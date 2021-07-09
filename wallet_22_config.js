@@ -1,1 +1,1 @@
-var mnemonic = "fame employ unable opera under diagram artwork garbage rotate gravity quote satisfy";
+var mnemonic = "cement pony surprise bless lens upgrade bridge illness patrol pluck wave upset";

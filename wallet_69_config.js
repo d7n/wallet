@@ -1,1 +1,1 @@
-var mnemonic = "where secret crazy success salute mix black grief garden buzz satisfy economy";
+var mnemonic = "firm quiz problem debris cabin can motor flat distance clip reject render";

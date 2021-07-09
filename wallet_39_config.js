@@ -1,1 +1,1 @@
-var mnemonic = "scheme mail hybrid roast denial section trust swarm uniform across birth start";
+var mnemonic = "side earn tone keen pencil issue manage prevent tornado park poet guide";

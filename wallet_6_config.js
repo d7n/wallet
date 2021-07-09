@@ -1,1 +1,1 @@
-var mnemonic = "angry soldier diesel anxiety stay ostrich wide pluck grow tide dice unable";
+var mnemonic = "ranch great sense country engage rescue excite domain media swim goose gauge";

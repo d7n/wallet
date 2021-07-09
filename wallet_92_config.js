@@ -1,1 +1,1 @@
-var mnemonic = "west congress column road sight lesson lazy behave repair beauty verb grocery";
+var mnemonic = "oyster topic toddler cancel alcohol bamboo treat size salt merge slender embrace";

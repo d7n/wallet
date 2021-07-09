@@ -1,1 +1,1 @@
-var mnemonic = "join oyster wild fiction tool glow okay fire exit fever scan embody";
+var mnemonic = "chicken barely sweet core glove then surge blossom pink cup donkey canyon";

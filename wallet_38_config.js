@@ -1,1 +1,1 @@
-var mnemonic = "believe okay dirt next hello good cup wise goddess kitchen bleak desk";
+var mnemonic = "bicycle pizza bulb diamond dismiss thumb family badge test trophy cream arena";

@@ -1,1 +1,1 @@
-var mnemonic = "craft luxury adjust exact fly hospital thumb mansion shine fix derive describe";
+var mnemonic = "stand ride tree student good tip frog purpose evil weasel spirit special";

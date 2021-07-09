@@ -1,1 +1,1 @@
-var mnemonic = "loud input couple open bulk piano wise pole ring clean item warrior";
+var mnemonic = "spice gasp forest exhibit fine seed general puzzle burger fringe slight shift";

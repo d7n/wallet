@@ -1,1 +1,1 @@
-var mnemonic = "review essay wink glow finger receive awake act fine worry update manage";
+var mnemonic = "cattle divide enlist diagram next market ozone such congress shrug laptop useful";

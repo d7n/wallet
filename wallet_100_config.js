@@ -1,1 +1,1 @@
-var mnemonic = "main acid ivory direct royal define segment ladder rib universe chief grace";
+var mnemonic = "kitchen galaxy vintage pig drill original giggle inspire all rigid elder obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella rebuild post sample bright maid they outside bright project earn unusual";
+var mnemonic = "winter project mechanic swim spider strike also pass can erase tray earn";

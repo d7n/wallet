@@ -1,1 +1,1 @@
-var mnemonic = "shed symptom stem there assault lemon wrap crowd arena position strike deal";
+var mnemonic = "road crazy damp tumble blast exact seed neither cause alter room reduce";

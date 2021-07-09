@@ -1,1 +1,1 @@
-var mnemonic = "various slim pride current mention empty fringe wash genre gym hover drink";
+var mnemonic = "fresh twelve tornado pave eyebrow rain border father unable shoot cupboard canal";

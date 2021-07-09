@@ -1,1 +1,1 @@
-var mnemonic = "brother seat wise nerve ankle soccer radar aisle obscure right often curious";
+var mnemonic = "swim exclude stand supply keen embody cube goddess victory cake kingdom soccer";

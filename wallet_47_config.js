@@ -1,1 +1,1 @@
-var mnemonic = "soup stumble pair kiwi brush brick man rail action notice hurry success";
+var mnemonic = "guess merry bench dog hair color increase raw happy gas ship face";

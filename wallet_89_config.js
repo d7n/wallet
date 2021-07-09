@@ -1,1 +1,1 @@
-var mnemonic = "pink hollow space danger slogan purity total soldier warfare advance cement history";
+var mnemonic = "more urban muffin render mule rack skull engage brush drill satisfy wrestle";

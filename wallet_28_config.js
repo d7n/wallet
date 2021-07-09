@@ -1,1 +1,1 @@
-var mnemonic = "enable tomato stuff frequent pass thumb job eye satisfy journey pool poem";
+var mnemonic = "conduct pyramid public science spot uphold cook maple horse roof suspect grape";

@@ -1,1 +1,1 @@
-var mnemonic = "wild crouch tag leisure material plunge luggage note width shoot grace wrestle";
+var mnemonic = "artefact peace beach general arrow amazing thumb host artwork occur destroy all";

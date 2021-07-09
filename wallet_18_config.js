@@ -1,1 +1,1 @@
-var mnemonic = "ridge decrease sense noble text chaos yellow dynamic black enemy special prevent";
+var mnemonic = "goat scheme pistol knife leg party field edge little dinosaur rib bunker";

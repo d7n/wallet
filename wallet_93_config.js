@@ -1,1 +1,1 @@
-var mnemonic = "demand movie scheme swear trophy because yard sweet path daring process move";
+var mnemonic = "nut feature phrase camp grit boat zero word capital bomb buffalo rally";

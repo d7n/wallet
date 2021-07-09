@@ -1,1 +1,1 @@
-var mnemonic = "talk twin pepper aisle permit unit want above end saddle husband property";
+var mnemonic = "mom chronic appear boring battle draw milk guide venue cycle potato toward";

@@ -1,1 +1,1 @@
-var mnemonic = "mom aunt pelican engine wage hurdle trouble uncover lumber rent devote argue";
+var mnemonic = "oppose mansion style opinion shaft wool nurse black worry check vessel below";

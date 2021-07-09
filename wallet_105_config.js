@@ -1,1 +1,1 @@
-var mnemonic = "crunch squeeze cream crime demise potato fall resist wife image random napkin";
+var mnemonic = "casual sting produce room faint toddler bicycle glue thumb inmate file junk";

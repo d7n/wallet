@@ -1,1 +1,1 @@
-var mnemonic = "direct method winner broom upon village able young chief inherit violin warrior";
+var mnemonic = "idle tomato muffin wreck thumb kick then start valid cool beyond boring";

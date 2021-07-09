@@ -1,1 +1,1 @@
-var mnemonic = "furnace must champion zebra raccoon render faint battle wreck title stadium exist";
+var mnemonic = "sentence lucky demand move cloth mountain crack tortoise connect valid average ostrich";

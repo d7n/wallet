@@ -1,1 +1,1 @@
-var mnemonic = "skirt coyote crisp execute gentle caution region seat awake shoulder roof envelope";
+var mnemonic = "truly embrace icon input eye squeeze egg hedgehog page ridge great achieve";

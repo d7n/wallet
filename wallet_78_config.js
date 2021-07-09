@@ -1,1 +1,1 @@
-var mnemonic = "weasel copper fancy goddess abandon cool sausage doll million that owner bicycle";
+var mnemonic = "place jar depart pet can until fox trick shove mail figure tornado";

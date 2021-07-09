@@ -1,1 +1,1 @@
-var mnemonic = "humor virtual cluster manual aunt outdoor account skate enlist color perfect urge";
+var mnemonic = "main unit walnut calm accuse donkey trust reveal indicate tongue neglect ankle";

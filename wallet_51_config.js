@@ -1,1 +1,1 @@
-var mnemonic = "wisdom road void desert offer cradle gospel charge benefit embrace immune business";
+var mnemonic = "echo buddy coast close thunder arch doll average secret cricket lab time";
