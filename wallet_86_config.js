@@ -1,1 +1,1 @@
-var mnemonic = "dilemma chicken catalog negative oxygen bright boring have logic plunge theory crystal";
+var mnemonic = "soda gesture bridge galaxy extra furnace poem just pool skull quantum increase";

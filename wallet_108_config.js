@@ -1,1 +1,1 @@
-var mnemonic = "common reason prepare squeeze pigeon used parrot casual remind horse asthma public";
+var mnemonic = "thrive casino cheese benefit slim lava spray actor cabin water enter sadness";

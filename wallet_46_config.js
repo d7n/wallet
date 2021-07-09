@@ -1,1 +1,1 @@
-var mnemonic = "nothing agree armor panda method smoke version salon hello fabric oak flag";
+var mnemonic = "note aerobic marriage garlic case good vintage pepper local put crane find";

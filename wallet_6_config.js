@@ -1,1 +1,1 @@
-var mnemonic = "tenant deliver stuff fancy clarify citizen chuckle amount enact still shrimp paper";
+var mnemonic = "gesture soap novel property prosper apology cargo deal large suffer head image";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist title nest gym now muscle cube expand smile chronic double regret";
+var mnemonic = "apple stamp deposit elegant luxury bridge inherit boy camera blood permit clinic";

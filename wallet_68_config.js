@@ -1,1 +1,1 @@
-var mnemonic = "supreme affair paddle wrong slab wine stock until shoe easily screen left";
+var mnemonic = "offer spot romance crime market size innocent ladder casino rude merry similar";

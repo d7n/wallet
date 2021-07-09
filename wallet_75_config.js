@@ -1,1 +1,1 @@
-var mnemonic = "chronic view raven artwork crack purchase rain rubber marine lesson galaxy current";
+var mnemonic = "weasel term used rich escape bike always misery term ship tenant shop";

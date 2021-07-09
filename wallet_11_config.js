@@ -1,1 +1,1 @@
-var mnemonic = "rigid address charge kidney suggest round hover merit aspect you general actual";
+var mnemonic = "city oppose language project over home engine define modify mystery solution genre";

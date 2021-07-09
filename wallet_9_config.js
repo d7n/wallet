@@ -1,1 +1,1 @@
-var mnemonic = "seat height message actress agent dream february vehicle whale mimic grid this";
+var mnemonic = "hand exchange sport ring loan dismiss cement kid olive priority dirt tell";

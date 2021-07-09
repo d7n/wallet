@@ -1,1 +1,1 @@
-var mnemonic = "tip yellow tape action hunt cactus bike security negative radio coast elephant";
+var mnemonic = "smooth illness please basket surge plunge hawk trap icon extend together antique";

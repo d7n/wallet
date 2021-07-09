@@ -1,1 +1,1 @@
-var mnemonic = "label anxiety favorite rate exist sister antique captain coyote tobacco blouse movie";
+var mnemonic = "helmet room crew zebra guilt paddle medal shine target flip six radar";

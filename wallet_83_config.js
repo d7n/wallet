@@ -1,1 +1,1 @@
-var mnemonic = "master voyage vote word someone small bundle trick poet mammal pet velvet";
+var mnemonic = "include supreme rose breeze friend hurry nurse rely mandate interest safe mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty reason thought write length business rail welcome edge relief aunt tank";
+var mnemonic = "thumb oil carry strategy sunset hedgehog frog piece blush unknown victory organ";

@@ -1,1 +1,1 @@
-var mnemonic = "panda monster clock deposit talk always nature people pumpkin dutch alien excuse";
+var mnemonic = "carbon gym race join danger magnet invite similar ceiling arrange beef fantasy";

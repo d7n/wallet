@@ -1,1 +1,1 @@
-var mnemonic = "sausage rotate distance flag volume brush convince mushroom concert domain accuse exercise";
+var mnemonic = "general wolf rice spoon bean final jeans boss extend own price alter";

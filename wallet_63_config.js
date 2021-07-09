@@ -1,1 +1,1 @@
-var mnemonic = "foil spread employ quick foster eyebrow hope federal energy happy trial lucky";
+var mnemonic = "bike scout damage arrow scale flavor atom snack turkey laugh pact follow";

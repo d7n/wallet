@@ -1,1 +1,1 @@
-var mnemonic = "either spice want whip penalty genre eternal stem require tragic device cousin";
+var mnemonic = "eager inherit way scout stem average magic accident limb grit brain people";

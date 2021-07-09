@@ -1,1 +1,1 @@
-var mnemonic = "electric stool tenant indicate occur dinosaur call actress acid must patch mother";
+var mnemonic = "profit angle public tenant exact torch media soon error choice fuel maid";

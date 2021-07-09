@@ -1,1 +1,1 @@
-var mnemonic = "execute fire idle easily accident subway cool clock aware network little egg";
+var mnemonic = "road river leader usage pear broken base what dizzy typical then maze";

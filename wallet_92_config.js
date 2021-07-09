@@ -1,1 +1,1 @@
-var mnemonic = "clog claim electric blame pact shuffle lunch space rigid horse sadness smoke";
+var mnemonic = "oil jungle chicken sight plate clown whisper parrot glue where stereo adapt";

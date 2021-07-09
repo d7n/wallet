@@ -1,1 +1,1 @@
-var mnemonic = "lumber portion siren enforce jewel foster picnic dwarf split february convince lamp";
+var mnemonic = "know fetch choose soft tortoise banana badge tonight fiction salute special nice";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon bulk ribbon leader ozone dish alpha clap steel family weapon price";
+var mnemonic = "slam pigeon answer file increase beef used patient east hood lazy surge";

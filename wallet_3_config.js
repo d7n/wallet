@@ -1,1 +1,1 @@
-var mnemonic = "media forest visit tell dream open idle age banana congress female wait";
+var mnemonic = "youth spray jewel gate genius moon owner also crack agent boost title";

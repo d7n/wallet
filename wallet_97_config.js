@@ -1,1 +1,1 @@
-var mnemonic = "wise twin meat uphold decide acoustic rural matter index dinosaur palace speed";
+var mnemonic = "side write hole enforce mango patrol address diagram turn wealth awake junior";

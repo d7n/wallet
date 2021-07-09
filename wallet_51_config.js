@@ -1,1 +1,1 @@
-var mnemonic = "chimney season prize never trigger consider extra repeat artwork horn robot priority";
+var mnemonic = "happy gentle ancient cry trophy object door pole truly ring guess budget";

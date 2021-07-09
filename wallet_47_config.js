@@ -1,1 +1,1 @@
-var mnemonic = "any use plug crane luxury old bone symptom cram laptop win despair";
+var mnemonic = "liquid giraffe wonder embrace apple lab cool video this biology race hammer";

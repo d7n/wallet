@@ -1,1 +1,1 @@
-var mnemonic = "donkey intact arrest attack wet brave flat lazy deputy penalty brown cabbage";
+var mnemonic = "chaos pumpkin fox glory final chicken exclude maid host obey favorite equal";

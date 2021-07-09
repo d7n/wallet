@@ -1,1 +1,1 @@
-var mnemonic = "easily mimic faculty duty hope main suggest matter endorse pond betray horse";
+var mnemonic = "runway reopen ripple essay lady replace remain dad shop cup blame accident";

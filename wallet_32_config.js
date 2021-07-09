@@ -1,1 +1,1 @@
-var mnemonic = "approve offer corn fatigue stuff depth brand potato mechanic design tornado media";
+var mnemonic = "sun term install oyster give license ten physical soft blouse resist fun";

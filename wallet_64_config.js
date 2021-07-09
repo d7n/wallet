@@ -1,1 +1,1 @@
-var mnemonic = "anxiety soccer rule asthma bridge index meat cloth stove impulse material maze";
+var mnemonic = "control success dry aware now ride nurse pledge decade donor utility style";

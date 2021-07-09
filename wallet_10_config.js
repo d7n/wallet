@@ -1,1 +1,1 @@
-var mnemonic = "idle sauce midnight ritual oven alone accident impact finger caught first hope";
+var mnemonic = "jelly genuine cave tip keep stumble undo believe lock grace glue borrow";

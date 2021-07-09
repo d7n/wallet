@@ -1,1 +1,1 @@
-var mnemonic = "call pioneer obscure try music delay approve soup come okay wine fatal";
+var mnemonic = "height ugly open ill vehicle impulse hungry bracket increase mystery toddler wage";

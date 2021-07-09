@@ -1,1 +1,1 @@
-var mnemonic = "donor voyage monster chuckle lumber prefer witness trial excite cheese gauge person";
+var mnemonic = "violin never provide tortoise lawsuit focus february surface obvious valid choice order";

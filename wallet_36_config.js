@@ -1,1 +1,1 @@
-var mnemonic = "sound ready achieve ball moment trust suffer easy clown pulse shell what";
+var mnemonic = "noble maple exact wise error club vendor diagram april review lounge open";

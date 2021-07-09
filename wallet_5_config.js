@@ -1,1 +1,1 @@
-var mnemonic = "relax salon debate cactus obey impact eye apology helmet know behind identify";
+var mnemonic = "lion tumble pass blanket spin donkey random post cancel sudden cash until";

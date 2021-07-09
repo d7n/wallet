@@ -1,1 +1,1 @@
-var mnemonic = "corn width pelican clerk organ share lawsuit toe purpose hungry begin click";
+var mnemonic = "common wine panther cattle ugly ugly thumb umbrella pony best mixed hero";

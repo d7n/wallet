@@ -1,1 +1,1 @@
-var mnemonic = "tag bulk host wheel speak pencil plunge retreat volume remain educate helmet";
+var mnemonic = "average rubber limb twice wash coyote pull oxygen universe smoke cat fork";

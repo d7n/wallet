@@ -1,1 +1,1 @@
-var mnemonic = "mountain wasp universe arena process three girl glide gym pole decorate castle";
+var mnemonic = "key common front affair cube trick menu bomb liar hungry slab today";

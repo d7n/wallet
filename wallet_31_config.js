@@ -1,1 +1,1 @@
-var mnemonic = "involve enter force annual near fragile night bonus gesture valid vendor pass";
+var mnemonic = "beef lend clutch excess brick ability cake wheel exact great fringe spin";

@@ -1,1 +1,1 @@
-var mnemonic = "endless crater equip scatter cruel obtain street carbon tube episode valve ocean";
+var mnemonic = "today draw taste feel cable slush liar slice direct exit exhaust tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "flock mystery seat sheriff assume eagle pepper firm setup abstract hello aisle";
+var mnemonic = "expect negative survey group light dolphin snap tube scare enroll scissors electric";

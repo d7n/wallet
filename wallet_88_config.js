@@ -1,1 +1,1 @@
-var mnemonic = "rubber drive easily pigeon tackle sauce butter melody split better proud damage";
+var mnemonic = "castle metal supply stove box fog super enable swift cabin rough tilt";

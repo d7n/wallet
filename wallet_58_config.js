@@ -1,1 +1,1 @@
-var mnemonic = "infant control ritual desk exhaust explain pigeon club wage fever fall canal";
+var mnemonic = "spoon taste service faculty open garden visit drama grain toward dune erode";

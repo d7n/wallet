@@ -1,1 +1,1 @@
-var mnemonic = "matrix priority pill pumpkin option boy worth marriage genuine sort insane notable";
+var mnemonic = "vague recipe dragon install never sense census purpose direct cereal lock cube";

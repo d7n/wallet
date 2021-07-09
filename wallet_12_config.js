@@ -1,1 +1,1 @@
-var mnemonic = "expire student art sure unfair disagree pass front bean holiday dutch famous";
+var mnemonic = "awesome defense dutch detail mention gold million bullet minimum magnet wolf radio";

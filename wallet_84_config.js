@@ -1,1 +1,1 @@
-var mnemonic = "card vanish oblige evil garment mandate glad define brisk must talk pulp";
+var mnemonic = "squirrel crash secret lock trust puppy black violin model logic silk apology";

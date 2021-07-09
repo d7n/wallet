@@ -1,1 +1,1 @@
-var mnemonic = "drum square hurry audit uniform mango slow summer card winner aware negative";
+var mnemonic = "giant panda course sport talent false achieve image actress wine say topple";

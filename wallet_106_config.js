@@ -1,1 +1,1 @@
-var mnemonic = "bleak city power consider rather agree duck mutual rubber mistake away liquid";
+var mnemonic = "adjust nice must athlete pride hat combine stable answer neck apart able";

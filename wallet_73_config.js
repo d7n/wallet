@@ -1,1 +1,1 @@
-var mnemonic = "citizen lab notable siege butter album wild sunny lesson buzz trap drive";
+var mnemonic = "tenant skirt into rural rebuild jacket isolate panther sea deputy ready wage";

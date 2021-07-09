@@ -1,1 +1,1 @@
-var mnemonic = "save layer gather model sponsor dignity metal goddess husband tuna divide vivid";
+var mnemonic = "trigger credit marble swallow increase chicken quality pull wonder february silk face";

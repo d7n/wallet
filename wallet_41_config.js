@@ -1,1 +1,1 @@
-var mnemonic = "now lesson bring quantum uncle artwork blast ride excuse hurt melody buzz";
+var mnemonic = "swallow month canvas coconut cricket wear pulse enhance they simple choose hour";

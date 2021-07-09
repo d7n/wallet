@@ -1,1 +1,1 @@
-var mnemonic = "drink enlist stereo harvest sustain supply fit armor universe squirrel floor tiny";
+var mnemonic = "evil urge spring stuff frog addict pipe matter whip talk dawn river";

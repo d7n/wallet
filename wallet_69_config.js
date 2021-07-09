@@ -1,1 +1,1 @@
-var mnemonic = "fame embrace artefact latin number addict begin antenna swarm dash flip interest";
+var mnemonic = "artwork bunker dwarf example ketchup hover bronze still hobby goat erase imitate";

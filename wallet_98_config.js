@@ -1,1 +1,1 @@
-var mnemonic = "gravity culture orphan entire wonder super idle cluster drill celery fog orient";
+var mnemonic = "creek wrong track mistake assist humble asset deputy crop trick fashion quiz";

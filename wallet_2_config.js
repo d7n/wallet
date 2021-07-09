@@ -1,1 +1,1 @@
-var mnemonic = "heart siren winter will velvet dress auction plastic easily harsh where damage";
+var mnemonic = "civil time damage stereo remain athlete border flee left pelican subway error";

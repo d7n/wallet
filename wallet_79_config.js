@@ -1,1 +1,1 @@
-var mnemonic = "two axis next slight enable mean vacant fitness sting cream absent assume";
+var mnemonic = "verb pipe sight knock ship vibrant quote about soda word valley leader";

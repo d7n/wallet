@@ -1,1 +1,1 @@
-var mnemonic = "famous bomb cream fence puzzle execute fade domain verb minimum skill poet";
+var mnemonic = "silver betray frame neutral curious bronze extend tone abuse write donate blue";

@@ -1,1 +1,1 @@
-var mnemonic = "farm apology exhibit fossil ripple daring hurt feature fortune perfect bag lock";
+var mnemonic = "battle text sell cradle add orient alcohol immune scheme imitate cupboard trumpet";

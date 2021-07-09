@@ -1,1 +1,1 @@
-var mnemonic = "admit mean medal shine mesh spoon top general pyramid ginger follow spot";
+var mnemonic = "toddler scrub slam poem human purse gather space kangaroo chicken section cargo";

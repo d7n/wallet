@@ -1,1 +1,1 @@
-var mnemonic = "tilt gown gas net concert stage together coach concert easily august develop";
+var mnemonic = "assist taxi hobby quick car army crumble future mirror volcano code marble";

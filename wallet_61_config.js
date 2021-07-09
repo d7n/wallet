@@ -1,1 +1,1 @@
-var mnemonic = "notable vivid much purpose ancient top gold pipe drive truck sunset good";
+var mnemonic = "library pulp park quick together upgrade pluck suggest future fold elegant senior";

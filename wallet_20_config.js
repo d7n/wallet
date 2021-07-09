@@ -1,1 +1,1 @@
-var mnemonic = "shove couch sister economy festival plug open rifle subject pave trade village";
+var mnemonic = "life lake song unfair jealous gate recycle radar grape minimum link bid";

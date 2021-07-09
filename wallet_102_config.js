@@ -1,1 +1,1 @@
-var mnemonic = "table flower unit hungry wagon bundle ritual lend deny cube ritual off";
+var mnemonic = "detail image coffee state lemon basic symbol record jeans theory degree mask";

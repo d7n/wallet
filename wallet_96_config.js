@@ -1,1 +1,1 @@
-var mnemonic = "chest rail struggle clip exile improve provide gift seat antique check visa";
+var mnemonic = "pipe assume bronze fetch reject unhappy gloom gorilla provide tired rude spot";

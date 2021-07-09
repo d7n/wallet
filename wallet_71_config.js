@@ -1,1 +1,1 @@
-var mnemonic = "quote isolate club goddess couple silent remind imitate addict arctic series bounce";
+var mnemonic = "despair business concert horror answer upon praise cup kangaroo bicycle emotion script";

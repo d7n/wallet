@@ -1,1 +1,1 @@
-var mnemonic = "license salute dinner change border amused envelope dish install merry fence enjoy";
+var mnemonic = "alarm hospital tube blade other assault wrong jump never meat physical elbow";

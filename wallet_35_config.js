@@ -1,1 +1,1 @@
-var mnemonic = "between escape blame crucial fringe frame shadow light young damp ahead capital";
+var mnemonic = "shuffle build balcony park black black web weather labor hole exile stand";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster course distance orient violin south job taxi invest gaze soul year";
+var mnemonic = "wait table donor awful elbow amused tag ensure stool clay slight square";

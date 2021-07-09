@@ -1,1 +1,1 @@
-var mnemonic = "melody toe group hollow innocent under million alarm element stumble among spray";
+var mnemonic = "anger elephant thought smile need lottery pool clown census crush pepper save";

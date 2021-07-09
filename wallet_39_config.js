@@ -1,1 +1,1 @@
-var mnemonic = "wrong turn sweet guard capital like ceiling record radio profit distance online";
+var mnemonic = "world lake arrive bulb sting prison useless excess domain blame energy spatial";

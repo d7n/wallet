@@ -1,1 +1,1 @@
-var mnemonic = "equip tornado control champion elevator collect conduct box carbon brief guilt chalk";
+var mnemonic = "danger grape riot exotic flag reveal orient eager weather consider giggle dream";

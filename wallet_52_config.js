@@ -1,1 +1,1 @@
-var mnemonic = "agent barely lake monitor horn friend regret such step total discover wasp";
+var mnemonic = "fragile above duty pill tackle fancy inflict inside ethics poem grass club";

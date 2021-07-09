@@ -1,1 +1,1 @@
-var mnemonic = "unable also nation upset combine abandon thing trumpet shy resemble insane woman";
+var mnemonic = "fossil middle melody unknown nothing treat example bind album staff only elevator";

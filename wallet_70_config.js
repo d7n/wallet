@@ -1,1 +1,1 @@
-var mnemonic = "column spatial proof valve amazing ginger urban play mistake error silly corn";
+var mnemonic = "merry define sign shuffle excuse exotic fence exhibit update always nurse bullet";

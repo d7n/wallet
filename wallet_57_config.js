@@ -1,1 +1,1 @@
-var mnemonic = "orchard beyond erupt parade kite snow pepper hollow bring gasp holiday pitch";
+var mnemonic = "minor torch memory now neither copy stereo attend you wait learn tenant";

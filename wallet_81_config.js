@@ -1,1 +1,1 @@
-var mnemonic = "try mosquito salute wine razor blue network antique walk owner cable ivory";
+var mnemonic = "across hero common faith garbage sugar thank able inherit fringe divert bind";

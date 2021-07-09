@@ -1,1 +1,1 @@
-var mnemonic = "glance carpet fatigue august soldier squirrel damp perfect carbon spray trend window";
+var mnemonic = "door resemble start pig skirt under slam skirt quiz eagle fit model";

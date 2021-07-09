@@ -1,1 +1,1 @@
-var mnemonic = "famous genre rifle lab fetch member wolf aware width mouse wide soon";
+var mnemonic = "juice begin trap middle once consider calm window motor pink work since";

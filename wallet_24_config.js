@@ -1,1 +1,1 @@
-var mnemonic = "despair room poverty ride unfair guilt error stereo any crumble arm index";
+var mnemonic = "bachelor hole legend library clog cake black praise helmet cook debate control";

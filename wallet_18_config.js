@@ -1,1 +1,1 @@
-var mnemonic = "weapon excuse broccoli diesel spray adult hidden genuine often shrug play excite";
+var mnemonic = "cannon scissors final attack check fog suspect wrap sausage pull spare cool";

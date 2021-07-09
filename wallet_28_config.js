@@ -1,1 +1,1 @@
-var mnemonic = "sugar visual this drink busy load face indoor try diamond wrong seek";
+var mnemonic = "circle announce hollow oak spike tuition obtain diamond bottom amazing kit capital";

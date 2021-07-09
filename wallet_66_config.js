@@ -1,1 +1,1 @@
-var mnemonic = "bone you girl boring achieve dance yard oxygen taste coast clutch effort";
+var mnemonic = "still amazing rough kiss yellow atom denial charge road solve rug issue";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo park daughter tired fringe grit quote dwarf manage abuse legend slam";
+var mnemonic = "recycle steel mirror dutch tower remove pear spatial resource swim duty bright";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic engage near renew squeeze require oval addict point finger atom miss";
+var mnemonic = "antenna hour almost brick hire guilt observe domain area orphan vital attend";

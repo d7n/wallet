@@ -1,1 +1,1 @@
-var mnemonic = "best acoustic rail neglect tool mask case walk frost close fashion caution";
+var mnemonic = "scissors aerobic transfer goose elegant into dry hill melody sight fork return";

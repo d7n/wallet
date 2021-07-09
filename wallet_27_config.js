@@ -1,1 +1,1 @@
-var mnemonic = "soul donate amazing art mean canyon depart predict almost charge diesel truck";
+var mnemonic = "pioneer kangaroo friend auto grape cycle inspire ball awesome flee hood monkey";
