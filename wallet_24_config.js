@@ -1,1 +1,1 @@
-var mnemonic = "fresh arm attract family loop uncle solve adult clap rookie flock drama";
+var mnemonic = "account pact walnut normal critic crime dance key achieve thing moment patrol";

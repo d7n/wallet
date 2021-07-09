@@ -1,1 +1,1 @@
-var mnemonic = "source valve pull duck place exit ecology tank remember furnace legal damp";
+var mnemonic = "case law romance gift win immense allow path tooth wave normal gallery";

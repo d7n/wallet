@@ -1,1 +1,1 @@
-var mnemonic = "maid dice paper scrap proud quality insane little energy bridge nature scare";
+var mnemonic = "scheme fade invite broken family brand pattern razor census wife valve unfold";

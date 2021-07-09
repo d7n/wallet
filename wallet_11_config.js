@@ -1,1 +1,1 @@
-var mnemonic = "model wild mango cradle ill child rug bid panda river hawk junior";
+var mnemonic = "motion reflect exotic airport minute runway correct myself blind start able bounce";

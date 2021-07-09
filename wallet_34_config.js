@@ -1,1 +1,1 @@
-var mnemonic = "secret check educate garbage insane since defy case tattoo erase fringe brand";
+var mnemonic = "razor want leader candy foster air scrub velvet genuine eager skill hospital";

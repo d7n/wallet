@@ -1,1 +1,1 @@
-var mnemonic = "junior embark hazard average faculty plastic setup prefer miss sting pigeon ecology";
+var mnemonic = "equal local uniform snap bleak pet board autumn begin raccoon faculty quantum";

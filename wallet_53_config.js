@@ -1,1 +1,1 @@
-var mnemonic = "skull cluster jazz output tragic wide fade laugh wonder subway sure pyramid";
+var mnemonic = "segment creek device minimum couple festival image left convince fame wish shift";

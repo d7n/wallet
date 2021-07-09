@@ -1,1 +1,1 @@
-var mnemonic = "price skill flash shoe organ inspire brass three puppy basket spider trouble";
+var mnemonic = "phone master today equip ignore illness permit bomb achieve sniff render train";

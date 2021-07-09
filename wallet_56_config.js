@@ -1,1 +1,1 @@
-var mnemonic = "achieve apart desert chimney crater wish spoil slender top music flavor aisle";
+var mnemonic = "code lucky birth knock hen define primary rebel muscle suggest assault skirt";

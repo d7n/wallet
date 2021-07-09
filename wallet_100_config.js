@@ -1,1 +1,1 @@
-var mnemonic = "gravity grocery pioneer tenant table asset cruel erupt stay brick sustain easy";
+var mnemonic = "erase twist afraid blush evil during trash thank island dolphin this defy";

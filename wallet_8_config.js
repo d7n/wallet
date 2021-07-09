@@ -1,1 +1,1 @@
-var mnemonic = "diesel company puppy educate shrimp magnet simple diet hybrid region alert exile";
+var mnemonic = "base above code stay kiwi flush fetch such depart skill draft patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion scale eternal surround voyage episode soul cactus tongue decline filter awake";
+var mnemonic = "ivory certain height badge team fatigue rubber jazz empower donkey price morning";

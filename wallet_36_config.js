@@ -1,1 +1,1 @@
-var mnemonic = "creek reveal outer day hard cigar vault ankle vapor feed turkey drill";
+var mnemonic = "addict diamond chunk tower hope hold glass law letter flock install behave";

@@ -1,1 +1,1 @@
-var mnemonic = "senior arrange pulp arch soccer eyebrow dumb civil seed analyst hub flock";
+var mnemonic = "animal biology unfold picture chapter omit fence pause large ceiling fatal slab";

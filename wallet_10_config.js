@@ -1,1 +1,1 @@
-var mnemonic = "puzzle satoshi emerge jaguar illegal window honey seven smile vanish girl stick";
+var mnemonic = "pupil life box wear neglect resemble biology parrot about baby mouse tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "glare brush misery park brass minimum chaos food wonder armor impact picture";
+var mnemonic = "vote nurse affair ball family innocent scatter waste fiction cargo disorder receive";

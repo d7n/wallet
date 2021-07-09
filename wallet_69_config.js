@@ -1,1 +1,1 @@
-var mnemonic = "moral base pear accuse aisle under roast hold naive tonight rent spin";
+var mnemonic = "burst sudden notable among long skate where file fury confirm dial round";

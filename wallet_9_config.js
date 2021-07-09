@@ -1,1 +1,1 @@
-var mnemonic = "super absurd wisdom race aerobic into photo author shallow melody drastic boost";
+var mnemonic = "income strong hire nice soft accuse gap payment shield umbrella lyrics learn";

@@ -1,1 +1,1 @@
-var mnemonic = "large river venture tiger ridge joke subject party rural sheriff energy organ";
+var mnemonic = "duck consider sister vivid nephew liquid tide hazard path success hospital unfold";

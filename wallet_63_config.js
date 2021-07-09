@@ -1,1 +1,1 @@
-var mnemonic = "jazz demand ecology diary duty security giraffe screen play comfort version citizen";
+var mnemonic = "pass obtain fiscal exotic onion move actress summer worry pudding weird enable";

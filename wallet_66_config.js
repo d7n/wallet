@@ -1,1 +1,1 @@
-var mnemonic = "still stuff merit post muscle orphan logic second noise wave road coil";
+var mnemonic = "caught fix bulb direct scrub library magnet car glory result vessel common";

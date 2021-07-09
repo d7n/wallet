@@ -1,1 +1,1 @@
-var mnemonic = "author mimic school foil crumble address junior rude dance output little era";
+var mnemonic = "cruel power three leaf skate example venture jealous giant bring scene earth";

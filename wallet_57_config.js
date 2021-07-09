@@ -1,1 +1,1 @@
-var mnemonic = "draw brand invest summer popular various marine jaguar arena ridge paper any";
+var mnemonic = "version amused inject find trim run flag knee honey asset silly trip";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome version come example runway tattoo mail scrub toward doctor poverty venue";
+var mnemonic = "possible latin manage coconut poem brick profit lamp inquiry flame very quality";

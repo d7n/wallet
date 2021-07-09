@@ -1,1 +1,1 @@
-var mnemonic = "carry render find salmon people enough guide speak exhaust cat kidney potato";
+var mnemonic = "cloud museum auto lyrics student blind crash gospel candy rubber employ runway";

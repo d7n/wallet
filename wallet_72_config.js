@@ -1,1 +1,1 @@
-var mnemonic = "invest math dash scrap artist install never girl short animal mule cash";
+var mnemonic = "humble chest medal around increase radio nest file surround talent talent thank";

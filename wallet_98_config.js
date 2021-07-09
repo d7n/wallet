@@ -1,1 +1,1 @@
-var mnemonic = "fold daring chunk task bottom trick praise crowd raven can day trumpet";
+var mnemonic = "fury maple crowd gift stock home virtual crater balance disease claim river";

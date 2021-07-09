@@ -1,1 +1,1 @@
-var mnemonic = "during cat loyal moment pledge common permit pizza fatal novel approve play";
+var mnemonic = "opinion color left end river burden artwork thing twelve absurd present syrup";

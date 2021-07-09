@@ -1,1 +1,1 @@
-var mnemonic = "hub economy enhance task cart family next advice agree across beauty goose";
+var mnemonic = "safe tonight chef music danger smooth skirt dutch door wheel kit famous";

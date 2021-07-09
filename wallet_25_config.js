@@ -1,1 +1,1 @@
-var mnemonic = "blind vacant cradle mercy awful ethics never pipe account fuel warm comic";
+var mnemonic = "enrich egg soap guilt evil display destroy wise arrest episode eyebrow help";

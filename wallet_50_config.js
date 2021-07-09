@@ -1,1 +1,1 @@
-var mnemonic = "priority dance equip win undo glare project chuckle ketchup power pitch forest";
+var mnemonic = "style face erase scheme sea evil trend unfold display tired fine ask";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla creek climb fold slender elbow scare rent illness oil predict else";
+var mnemonic = "double lady shrimp gun bulb wrap divert flame horn salon develop next";

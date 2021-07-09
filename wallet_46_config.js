@@ -1,1 +1,1 @@
-var mnemonic = "basket cloud brass month love year tumble glance pair tomorrow output end";
+var mnemonic = "fit decade talk elevator forest fork coffee urban essence genuine eager credit";

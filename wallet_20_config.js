@@ -1,1 +1,1 @@
-var mnemonic = "ozone decorate sound fade cake arrest time purchase strong exchange chef license";
+var mnemonic = "divert forum employ resist item alpha shine near stock advice jaguar short";

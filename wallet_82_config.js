@@ -1,1 +1,1 @@
-var mnemonic = "town airport staff february chimney feature phrase arena burst quality morning rough";
+var mnemonic = "bounce zebra ladder permit chimney exotic forward shell rather abuse drive fuel";

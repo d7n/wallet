@@ -1,1 +1,1 @@
-var mnemonic = "absent artefact cool index army glance ship much swap force churn olive";
+var mnemonic = "ocean bread carpet promote cattle pigeon task chase convince foil inspire virus";

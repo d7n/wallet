@@ -1,1 +1,1 @@
-var mnemonic = "under view broccoli original century live announce warfare pact buddy chunk surge";
+var mnemonic = "finger square virus two final claw warfare cloud gap celery potato hat";

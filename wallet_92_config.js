@@ -1,1 +1,1 @@
-var mnemonic = "teach envelope address recycle van together wine require process enhance border tortoise";
+var mnemonic = "abuse nephew suit involve wrestle web sight apple abandon bulb edge quit";

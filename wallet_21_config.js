@@ -1,1 +1,1 @@
-var mnemonic = "forest rocket awake copper banner evolve winner bundle pause danger spare sell";
+var mnemonic = "kingdom length text wire caution chair picnic come disagree arrow nerve stool";

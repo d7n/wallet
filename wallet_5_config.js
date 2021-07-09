@@ -1,1 +1,1 @@
-var mnemonic = "guide crowd unit segment forward skin gossip vicious congress mercy kiwi surround";
+var mnemonic = "region love benefit fix movie speed uniform hockey broccoli retire make fabric";

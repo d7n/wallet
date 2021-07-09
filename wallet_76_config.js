@@ -1,1 +1,1 @@
-var mnemonic = "fix bus fee firm fever reunion happy acquire car tornado uphold raven";
+var mnemonic = "south snack motion share bright educate large open agree carry faint turtle";

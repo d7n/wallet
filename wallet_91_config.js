@@ -1,1 +1,1 @@
-var mnemonic = "polar under rubber pioneer garage limb reflect quit grab retreat ability repair";
+var mnemonic = "option spatial soft gun prosper coyote convince work flat alpha canvas load";

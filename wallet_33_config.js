@@ -1,1 +1,1 @@
-var mnemonic = "melt nurse pool armed symptom session math art tomorrow add attitude bamboo";
+var mnemonic = "case spare school neglect fever remove setup glass gasp thunder print pledge";

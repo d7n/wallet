@@ -1,1 +1,1 @@
-var mnemonic = "cost canal what yellow address alley flat food present symbol survey barrel";
+var mnemonic = "weapon trumpet keep grow left three mercy correct young lemon length seed";

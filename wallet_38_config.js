@@ -1,1 +1,1 @@
-var mnemonic = "ritual quiz display tiny essay pigeon ritual loyal elbow comic learn assume";
+var mnemonic = "kingdom equal spend hat draft sorry twice yard gasp foot orbit wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "aim online legend beyond world attend neither pattern treat tank okay people";
+var mnemonic = "floor talent sausage ethics swim material process engage scout abstract tortoise spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "outer flag mutual cattle indoor gold profit fog small level wave bounce";
+var mnemonic = "delay rebel gap hawk alter device word metal what october divert reason";

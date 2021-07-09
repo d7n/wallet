@@ -1,1 +1,1 @@
-var mnemonic = "certain usual text immense machine govern enter arrive parent angry liquid output";
+var mnemonic = "chalk kick actual home exact town call arena solid popular click burst";

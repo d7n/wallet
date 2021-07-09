@@ -1,1 +1,1 @@
-var mnemonic = "uniform radio salute crane borrow dwarf decide truck announce garden problem obey";
+var mnemonic = "pen chef glide cricket design talk deal equip police avoid page print";

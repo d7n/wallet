@@ -1,1 +1,1 @@
-var mnemonic = "initial want maple olympic much grab avoid funny better toward drama glass";
+var mnemonic = "sphere rhythm cricket easily earn regret scissors cat virtual sauce question injury";

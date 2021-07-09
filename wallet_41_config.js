@@ -1,1 +1,1 @@
-var mnemonic = "december divert audit finish skirt boring reject glove wife mansion hawk mouse";
+var mnemonic = "equip moment cousin there tank subject tonight vessel kind setup open photo";

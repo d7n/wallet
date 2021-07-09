@@ -1,1 +1,1 @@
-var mnemonic = "silly oven giant craft payment fantasy burger toss rapid print ordinary inflict";
+var mnemonic = "sketch submit mouse reduce ecology melody crane put uphold neglect tumble height";

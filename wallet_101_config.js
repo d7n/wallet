@@ -1,1 +1,1 @@
-var mnemonic = "nasty bridge inject fragile almost chuckle receive degree mule enlist adapt culture";
+var mnemonic = "divorce derive forget boat dash tone swamp pool argue owner sleep much";

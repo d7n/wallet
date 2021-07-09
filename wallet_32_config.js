@@ -1,1 +1,1 @@
-var mnemonic = "pudding method amateur pave output obscure timber column gossip material when polar";
+var mnemonic = "library shine flat clump earn dream crop write escape estate cotton cigar";

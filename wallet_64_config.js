@@ -1,1 +1,1 @@
-var mnemonic = "chief huge spoon ozone penalty animal prison alcohol rapid snap era critic";
+var mnemonic = "mask couch result dinosaur scatter walk seat matter bike flag huge cactus";

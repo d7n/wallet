@@ -1,1 +1,1 @@
-var mnemonic = "trim mushroom burger home provide easily nominee maid announce gas play drum";
+var mnemonic = "casino police across famous absurd slice royal supply income arctic usual length";

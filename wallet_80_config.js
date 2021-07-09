@@ -1,1 +1,1 @@
-var mnemonic = "school butter strategy today raven quote such fuel dignity slam myself track";
+var mnemonic = "sick shiver paddle finish then course digital mechanic salon nature artefact victory";

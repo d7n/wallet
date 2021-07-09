@@ -1,1 +1,1 @@
-var mnemonic = "system never foil alley sweet discover cash identify pluck define cheap defy";
+var mnemonic = "couple debate salt magnet flat limit detect often bike you hover stage";

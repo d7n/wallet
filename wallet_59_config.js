@@ -1,1 +1,1 @@
-var mnemonic = "seek street sign actress divide round female ten biology laugh jacket argue";
+var mnemonic = "erode picture wolf favorite shield garlic happy tennis goat shift famous airport";

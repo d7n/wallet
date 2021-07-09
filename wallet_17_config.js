@@ -1,1 +1,1 @@
-var mnemonic = "coast update orbit empty uniform scissors lion bike baby raw disagree broken";
+var mnemonic = "upper vicious connect useful become almost race weekend install mesh frame mechanic";

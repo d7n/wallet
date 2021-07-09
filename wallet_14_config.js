@@ -1,1 +1,1 @@
-var mnemonic = "admit return stone easily smoke divert sweet refuse lamp glow forward skirt";
+var mnemonic = "popular tail hip shine young choice jelly amazing vote afraid pumpkin cake";

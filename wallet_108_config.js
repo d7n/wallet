@@ -1,1 +1,1 @@
-var mnemonic = "frozen survey flash machine diamond exclude option trade garment muffin mutual blue";
+var mnemonic = "decide gloom column sister sibling tide next corn other bag bird hat";

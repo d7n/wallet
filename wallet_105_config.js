@@ -1,1 +1,1 @@
-var mnemonic = "awesome wave camp used saddle proof work vital clap emotion clerk bargain";
+var mnemonic = "easily slush merge muscle crowd layer ribbon other imitate outside daring leave";

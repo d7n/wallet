@@ -1,1 +1,1 @@
-var mnemonic = "local boost fat push tennis evoke harbor outer mouse series ethics maple";
+var mnemonic = "comfort alert artefact skull popular glory traffic soup swarm happy indicate head";

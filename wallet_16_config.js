@@ -1,1 +1,1 @@
-var mnemonic = "believe cushion limb napkin item border artist merry bus ankle siege receive";
+var mnemonic = "amateur fluid eager tissue piano smooth mixed stable screen fiction solid window";

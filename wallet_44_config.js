@@ -1,1 +1,1 @@
-var mnemonic = "refuse degree you surprise coffee elder piece glide swamp bundle obey basic";
+var mnemonic = "burden organ coast trouble hurt income banner then over turn eight manual";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors blanket afraid never start kitten patrol spot jar cancel hole artist";
+var mnemonic = "nerve rigid coach congress purity wise eager exotic adjust mean you time";

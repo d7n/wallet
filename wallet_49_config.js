@@ -1,1 +1,1 @@
-var mnemonic = "position harsh april meat helmet adult pioneer solution vibrant wash diet bench";
+var mnemonic = "radio attitude today inmate borrow clutch gravity hair dune cave timber able";

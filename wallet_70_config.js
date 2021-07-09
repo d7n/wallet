@@ -1,1 +1,1 @@
-var mnemonic = "during stairs ginger mad sudden spray team tissue salute syrup spoil magnet";
+var mnemonic = "nut eye sun horse emerge hover unable tornado tape material violin humor";

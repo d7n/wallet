@@ -1,1 +1,1 @@
-var mnemonic = "misery pole two timber prefer until hood eager then conduct sight dice";
+var mnemonic = "tongue orient fancy rigid tail dwarf quarter guard trial skate reject eye";

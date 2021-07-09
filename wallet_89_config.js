@@ -1,1 +1,1 @@
-var mnemonic = "index copper route round cloud autumn viable innocent flat bird gravity stadium";
+var mnemonic = "north blade increase field addict cause canvas include aim spawn ball bulb";

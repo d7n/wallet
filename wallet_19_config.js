@@ -1,1 +1,1 @@
-var mnemonic = "pet between region iron garment spare album price swap brand wreck stone";
+var mnemonic = "cream foot coast cheese category promote manual north genre avoid stick theme";

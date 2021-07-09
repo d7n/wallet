@@ -1,1 +1,1 @@
-var mnemonic = "oppose review level luggage myself major just avocado heavy smart flame wreck";
+var mnemonic = "pen gather radio sadness assist attract reopen artefact chest black achieve february";

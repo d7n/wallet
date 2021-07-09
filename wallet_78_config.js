@@ -1,1 +1,1 @@
-var mnemonic = "friend choice craft guess letter attend void deal curtain plate virtual juice";
+var mnemonic = "swallow leaf between moral rice jar thrive resource patch tongue unusual video";

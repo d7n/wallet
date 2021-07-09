@@ -1,1 +1,1 @@
-var mnemonic = "nephew curve surge essence license yellow guitar follow fancy ridge tragic prevent";
+var mnemonic = "sign sight pink almost one ribbon word elder cliff divide armor replace";

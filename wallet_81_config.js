@@ -1,1 +1,1 @@
-var mnemonic = "result city morning acid satoshi random second winner detect creek kitten dream";
+var mnemonic = "scene armed vibrant shadow ghost wire tape lyrics across display tortoise cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "powder depart later reform invest violin someone later bottom quarter hurdle venture";
+var mnemonic = "slender good gorilla bird ketchup awake romance logic fury embark alcohol shop";

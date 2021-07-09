@@ -1,1 +1,1 @@
-var mnemonic = "impulse code frog scare april print bracket axis benefit lemon stand report";
+var mnemonic = "deer police reveal useless body strike certain best curious version rural chronic";

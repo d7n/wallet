@@ -1,1 +1,1 @@
-var mnemonic = "inject vintage burger kid tongue error regular enable total basic already guilt";
+var mnemonic = "october entry permit hello depth extend another walnut glue letter lab size";

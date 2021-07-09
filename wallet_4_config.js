@@ -1,1 +1,1 @@
-var mnemonic = "safe season bright already scan brass glad utility rigid nothing merge radar";
+var mnemonic = "mercy broom illegal visual accident attack uncover bacon inside cabbage donor maple";

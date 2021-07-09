@@ -1,1 +1,1 @@
-var mnemonic = "drive helmet dice super define current never unique muscle lawn girl endless";
+var mnemonic = "slab adapt super lunar yellow green truck lunch basket bronze entry earn";

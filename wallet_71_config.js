@@ -1,1 +1,1 @@
-var mnemonic = "cricket empower valve invite magic penalty either episode enact slender garment clever";
+var mnemonic = "cement holiday desk mountain open banner fluid total famous addict pride excite";

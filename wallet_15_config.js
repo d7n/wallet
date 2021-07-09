@@ -1,1 +1,1 @@
-var mnemonic = "rib empty ugly salt depth example depart traffic company siren cute question";
+var mnemonic = "client smart spring weather health mail own powder capital update sing envelope";

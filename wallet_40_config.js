@@ -1,1 +1,1 @@
-var mnemonic = "coral define ability nation margin index volume ensure laptop brown convince scatter";
+var mnemonic = "income security bamboo dinosaur bitter lottery stand bamboo luxury piano unusual kid";

@@ -1,1 +1,1 @@
-var mnemonic = "hen sock beyond squirrel town business head cable floor announce trust wood";
+var mnemonic = "inform regular clog exile into truck risk visual day best type print";

@@ -1,1 +1,1 @@
-var mnemonic = "board warfare setup attract weather melody close pupil gentle dutch mind feature";
+var mnemonic = "index regular verb quit radar kiwi pistol cancel tray defy rescue track";

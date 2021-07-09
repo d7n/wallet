@@ -1,1 +1,1 @@
-var mnemonic = "enemy will burst addict puzzle bring place jelly kid moon oven vessel";
+var mnemonic = "master rent garbage chuckle industry balcony gun hedgehog fire help fitness illness";

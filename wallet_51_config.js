@@ -1,1 +1,1 @@
-var mnemonic = "help oval mind write affair nature medal forum nominee accident gesture cave";
+var mnemonic = "vapor gap bus kiss bounce edit farm access young approve predict tornado";
