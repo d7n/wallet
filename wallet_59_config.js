@@ -1,1 +1,1 @@
-var mnemonic = "donkey normal evolve pink report mom joy diagram fatal insane seat discover";
+var mnemonic = "paddle width kingdom sort gap area abuse purse near image junk stomach";

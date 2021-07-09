@@ -1,1 +1,1 @@
-var mnemonic = "electric route this stool dentist crawl impact raw tide dry siege guide";
+var mnemonic = "peanut congress column collect cereal give file civil panel chunk between survey";

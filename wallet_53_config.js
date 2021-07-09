@@ -1,1 +1,1 @@
-var mnemonic = "clog gaze jazz hover rifle today asset bone market aware delay smooth";
+var mnemonic = "shove glue siren rival favorite unlock stereo eagle runway case romance into";

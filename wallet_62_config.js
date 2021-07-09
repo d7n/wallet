@@ -1,1 +1,1 @@
-var mnemonic = "champion ivory foot make miss boring barely rabbit hard pipe cube health";
+var mnemonic = "album jacket word gate method equip nerve assault arrive narrow bunker initial";

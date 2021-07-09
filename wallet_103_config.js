@@ -1,1 +1,1 @@
-var mnemonic = "produce glove credit language solve audit ghost course museum wool ostrich race";
+var mnemonic = "mail sick run blood toast cram picnic tongue slow brave rhythm access";

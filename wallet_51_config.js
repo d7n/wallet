@@ -1,1 +1,1 @@
-var mnemonic = "brave execute judge fine blossom donate tray dry sport resist figure despair";
+var mnemonic = "sunny hello lobster useful fit minimum violin price finger ranch response scare";

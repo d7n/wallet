@@ -1,1 +1,1 @@
-var mnemonic = "dog guilt same day poem still burden toward gate cattle check sentence";
+var mnemonic = "canvas awkward idle ketchup ridge spoon game object crane all wall awake";

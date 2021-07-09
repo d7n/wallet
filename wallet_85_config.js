@@ -1,1 +1,1 @@
-var mnemonic = "tiny tiny turtle tennis arrow frown car diesel know drum depart vote";
+var mnemonic = "area cart between cactus artwork gasp coyote crunch funny grain love today";

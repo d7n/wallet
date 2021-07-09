@@ -1,1 +1,1 @@
-var mnemonic = "crowd stone miracle express wrestle cave volume slim vivid promote legend screen";
+var mnemonic = "review fabric learn romance isolate market clump giant flavor domain dismiss please";

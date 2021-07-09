@@ -1,1 +1,1 @@
-var mnemonic = "laugh cushion unit mule protect slam pride chalk scan photo leisure planet";
+var mnemonic = "neutral rotate list blast stock mansion enroll upon song depth climb topic";

@@ -1,1 +1,1 @@
-var mnemonic = "soda moral dove toward bullet grass camp buddy domain evidence bone owner";
+var mnemonic = "vacuum pilot soul stairs cost genius addict guard person sphere script fan";

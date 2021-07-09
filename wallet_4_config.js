@@ -1,1 +1,1 @@
-var mnemonic = "hole toy floor solve fragile toddler similar hidden paper turkey travel brand";
+var mnemonic = "twice case flight hundred judge found reunion flower act boat punch absent";

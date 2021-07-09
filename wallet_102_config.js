@@ -1,1 +1,1 @@
-var mnemonic = "what private palm marble abuse celery multiply fix company knee suit barely";
+var mnemonic = "kidney arena cruel level vivid where pottery barely fruit shock usual shrug";

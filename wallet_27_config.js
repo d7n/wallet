@@ -1,1 +1,1 @@
-var mnemonic = "lesson ginger tuna actress cabin zero zoo latin exist outside young fuel";
+var mnemonic = "innocent much thumb want undo banner release pioneer baby deer surround best";

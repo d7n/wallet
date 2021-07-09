@@ -1,1 +1,1 @@
-var mnemonic = "accuse carbon critic recycle furnace swap gloom huge obvious trouble job gown";
+var mnemonic = "wood dog own rich review blade tower trend manage antenna display behind";

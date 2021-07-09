@@ -1,1 +1,1 @@
-var mnemonic = "salad stick sting cart canoe arena scare phone robust cupboard praise impose";
+var mnemonic = "neglect wild mistake boat suit memory amount cake vapor file negative allow";

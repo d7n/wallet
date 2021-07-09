@@ -1,1 +1,1 @@
-var mnemonic = "uphold resist series side dragon first lottery foster kangaroo badge race drama";
+var mnemonic = "office current like brick aspect pattern hood silent month wish crisp choose";

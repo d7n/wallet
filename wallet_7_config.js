@@ -1,1 +1,1 @@
-var mnemonic = "survey clown void sibling when volume warm reduce dinner ghost behave fence";
+var mnemonic = "bronze visa fence spider repair enjoy universe soft someone early slot funny";

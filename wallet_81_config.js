@@ -1,1 +1,1 @@
-var mnemonic = "inmate erupt dutch firm body air time punch people believe ride code";
+var mnemonic = "field flush stomach ability twenty target search angle engage table expire fresh";

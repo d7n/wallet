@@ -1,1 +1,1 @@
-var mnemonic = "unable shoe carpet disorder drastic food alley breeze hurt blade brief sketch";
+var mnemonic = "afford famous beauty bike portion solution chair able merge since drill road";

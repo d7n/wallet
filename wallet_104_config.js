@@ -1,1 +1,1 @@
-var mnemonic = "viable under thumb doctor eager rescue true spray knife habit electric high";
+var mnemonic = "spend welcome dress wide culture subject lamp wheel once appear water mass";

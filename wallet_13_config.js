@@ -1,1 +1,1 @@
-var mnemonic = "elevator security crisp rare output divert citizen pool gate recall asset ring";
+var mnemonic = "result chimney never merit immune glad elevator response desert mystery embark bomb";

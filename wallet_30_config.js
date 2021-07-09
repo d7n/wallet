@@ -1,1 +1,1 @@
-var mnemonic = "atom tube sponsor clinic blood kingdom next cube stamp wear alley gravity";
+var mnemonic = "toward blouse medal roof short muffin jazz gather below wink beef main";

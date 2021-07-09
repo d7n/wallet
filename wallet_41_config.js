@@ -1,1 +1,1 @@
-var mnemonic = "champion struggle remember hair quantum square venue muffin oak grow sibling pioneer";
+var mnemonic = "autumn unfair sun idea misery reform primary ten oppose party now deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead worry ethics flash fossil local orient spice become glide lesson pause";
+var mnemonic = "inject frown record mobile hint behave now cram void renew reunion chat";

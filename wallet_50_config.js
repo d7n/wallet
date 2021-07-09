@@ -1,1 +1,1 @@
-var mnemonic = "essay rug away icon palm clump birth blur spy someone health spirit";
+var mnemonic = "swift later jelly rival toss cement fatigue coral else banana sugar warm";

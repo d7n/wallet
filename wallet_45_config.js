@@ -1,1 +1,1 @@
-var mnemonic = "unable stem dad mechanic direct gym antique bunker guitar ceiling direct grow";
+var mnemonic = "miss swamp plate link best front often fashion slush elegant brisk stereo";

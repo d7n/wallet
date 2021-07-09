@@ -1,1 +1,1 @@
-var mnemonic = "aspect crane giant void cliff wink marine bless plunge panda scrub foil";
+var mnemonic = "field forward broccoli easily flame scatter hybrid height grain tiny tonight lawn";

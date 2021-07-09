@@ -1,1 +1,1 @@
-var mnemonic = "aisle arrest diamond float swift index juice erode paper matrix scrap copy";
+var mnemonic = "nation month divorce trash mixture apology rib beyond scout clog spare march";

@@ -1,1 +1,1 @@
-var mnemonic = "tent syrup state spoil stereo response kind trend action village repair bus";
+var mnemonic = "lunar curtain smile nation sibling fossil curve badge good medal minor hood";

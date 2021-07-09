@@ -1,1 +1,1 @@
-var mnemonic = "mobile valid rice off coast return suffer cigar eye relief sphere oyster";
+var mnemonic = "argue fan genius virus shallow impose submit sound urge melt patient razor";

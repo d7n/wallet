@@ -1,1 +1,1 @@
-var mnemonic = "boy brief cool jaguar bone abuse govern shuffle concert rather property clever";
+var mnemonic = "boat time arch meat roast page drop pupil square settle parrot warfare";

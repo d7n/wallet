@@ -1,1 +1,1 @@
-var mnemonic = "desk entry arrest popular balcony swallow fun afraid mask seminar seat leisure";
+var mnemonic = "ankle tuition journey cat bitter clutch guide spoil bulb veteran slender lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "marble floor mind alter harsh news loan anchor quantum entry disagree voice";
+var mnemonic = "dynamic extend wash assume fashion rally arrive work please mountain gallery layer";

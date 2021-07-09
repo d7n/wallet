@@ -1,1 +1,1 @@
-var mnemonic = "rely rude laptop jump negative discover brush caution venture capable base poem";
+var mnemonic = "awesome tree owner evolve surround service switch talent true fence heavy design";

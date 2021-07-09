@@ -1,1 +1,1 @@
-var mnemonic = "bonus chicken reform clump traffic illness hollow rifle short train know rate";
+var mnemonic = "weird kind grain perfect attract elite spring steak regular mention badge hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "diet viable entry kiwi village dinosaur bronze wrap prepare strong laundry fatigue";
+var mnemonic = "blur text again stuff panther peace problem indoor agent dream excuse morning";

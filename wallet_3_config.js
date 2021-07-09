@@ -1,1 +1,1 @@
-var mnemonic = "bachelor device tone soccer police web warm connect ripple version nasty elbow";
+var mnemonic = "swear turtle weekend silly abuse primary indoor note action language pipe today";

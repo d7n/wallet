@@ -1,1 +1,1 @@
-var mnemonic = "vivid update mean hire secret only then spare maid shy bachelor pulse";
+var mnemonic = "style rubber news ten elbow grace culture bunker slush silk add then";

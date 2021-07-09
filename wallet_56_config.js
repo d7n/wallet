@@ -1,1 +1,1 @@
-var mnemonic = "accident smooth grit hat patient idea decide viable receive solar social iron";
+var mnemonic = "early bottom scout oval elephant usage moral fence truck drum turtle urban";

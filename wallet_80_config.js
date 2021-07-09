@@ -1,1 +1,1 @@
-var mnemonic = "cheese pledge strategy lift anchor false goose robust talk smoke work artist";
+var mnemonic = "scan omit soon dentist minute credit supply gentle market useless uphold tape";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato act faint story today tooth bottom nice pluck tuna fluid lecture";
+var mnemonic = "amazing fold catalog sunny wife can swarm wrap grocery pride produce uncover";

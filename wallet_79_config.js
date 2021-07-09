@@ -1,1 +1,1 @@
-var mnemonic = "choice horn enough cable message strategy fashion usage swim barrel cake cube";
+var mnemonic = "hello cliff fruit forward antique cover elephant cricket then acid lesson neglect";

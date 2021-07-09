@@ -1,1 +1,1 @@
-var mnemonic = "venture ghost scout soup mind buffalo social guess bone animal guitar monkey";
+var mnemonic = "twice slice annual hill tide total level antenna tooth plug divert minute";

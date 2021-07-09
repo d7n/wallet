@@ -1,1 +1,1 @@
-var mnemonic = "oval friend valid defy edit match donkey copper twin blanket flat oil";
+var mnemonic = "output poet father wasp matter hidden audit neither sweet hospital fog leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic vacant crane toward dentist else sort gorilla addict holiday frequent hunt";
+var mnemonic = "click turtle unit negative advice bar regular hello spray hotel absurd trim";

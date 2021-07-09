@@ -1,1 +1,1 @@
-var mnemonic = "survey magic crush mercy power over captain crazy tomato stool lemon moon";
+var mnemonic = "media island combine purchase resource long nut menu boring denial door language";

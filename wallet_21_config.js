@@ -1,1 +1,1 @@
-var mnemonic = "credit devote olive fresh behind balcony fly zoo bird pitch disease weekend";
+var mnemonic = "type echo employ worth normal fury blur motion female sugar beef cat";

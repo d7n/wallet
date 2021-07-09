@@ -1,1 +1,1 @@
-var mnemonic = "shoulder bridge little fix jacket marriage rifle remember rhythm inspire print belt";
+var mnemonic = "spike loop skirt paper timber tower just seat increase pill final bus";

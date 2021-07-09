@@ -1,1 +1,1 @@
-var mnemonic = "point surprise similar someone close unable ladder make cement hour have license";
+var mnemonic = "congress cousin enact head tank mind earn wrap champion siren spike undo";

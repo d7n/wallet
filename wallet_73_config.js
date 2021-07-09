@@ -1,1 +1,1 @@
-var mnemonic = "blind only youth dial rebuild arena enemy fit negative category chat thing";
+var mnemonic = "exact stable urban appear only silly effort ostrich brush nothing next cinnamon";

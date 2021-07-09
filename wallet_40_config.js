@@ -1,1 +1,1 @@
-var mnemonic = "fence stem swarm cotton mixture enact baby connect stadium panel dial pumpkin";
+var mnemonic = "salon miracle idle describe blossom home armor humble clump gaze early smoke";

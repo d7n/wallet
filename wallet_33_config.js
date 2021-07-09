@@ -1,1 +1,1 @@
-var mnemonic = "atom expand kick enemy wedding pledge thank volcano horse ecology insect crush";
+var mnemonic = "country alien amount expect vault stock soccer panda axis atom major hurt";

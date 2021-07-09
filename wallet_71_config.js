@@ -1,1 +1,1 @@
-var mnemonic = "step pink shrug remind index repeat depth subway fine minimum cart wet";
+var mnemonic = "mammal dinner race they admit mixed observe join jazz remain supply special";

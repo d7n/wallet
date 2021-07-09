@@ -1,1 +1,1 @@
-var mnemonic = "elder comic verify ritual also main divide style athlete beauty only gold";
+var mnemonic = "race scrap since pig cricket rib sport net room kit seek soap";

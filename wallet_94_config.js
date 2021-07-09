@@ -1,1 +1,1 @@
-var mnemonic = "notice winter language glove admit spirit double tobacco laundry allow situate dawn";
+var mnemonic = "gravity excite current trial robot riot rough canal own favorite order wear";

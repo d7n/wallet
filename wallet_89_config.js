@@ -1,1 +1,1 @@
-var mnemonic = "news disagree this promote swing limb rabbit ship casual snow filter enter";
+var mnemonic = "fresh bag manage beauty arrest item become rhythm frost knee ask price";

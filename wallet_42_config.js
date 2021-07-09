@@ -1,1 +1,1 @@
-var mnemonic = "gather mosquito buyer topple wisdom above illness document museum dune machine kite";
+var mnemonic = "beach remove remind icon pond verify similar web trigger horse anxiety glass";

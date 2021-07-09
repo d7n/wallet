@@ -1,1 +1,1 @@
-var mnemonic = "poverty satisfy drill merge fluid canvas wine sing ignore spirit drill couple";
+var mnemonic = "direct demand buzz whip lunch cabin inside bar enemy aunt soap kit";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion purchase drive actor change pretty boss circle give media salmon average";
+var mnemonic = "unlock flip baby rib tent right tiny negative flag midnight want delay";

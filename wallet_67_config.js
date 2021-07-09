@@ -1,1 +1,1 @@
-var mnemonic = "holiday north shrimp bunker ethics speed elite bring robot sweet glue tribe";
+var mnemonic = "picnic over toe victory better hybrid this assist swift orange shine worth";

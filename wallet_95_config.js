@@ -1,1 +1,1 @@
-var mnemonic = "tree idea resist segment twice secret smooth capital crouch hard daring coffee";
+var mnemonic = "amused obey put boil relax human produce trumpet expect clever unusual between";

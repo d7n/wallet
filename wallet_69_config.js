@@ -1,1 +1,1 @@
-var mnemonic = "tail leopard allow horror regret nephew adjust diamond crawl abstract begin diagram";
+var mnemonic = "swallow crew wheat shiver dust rural coil way derive icon fiction ancient";

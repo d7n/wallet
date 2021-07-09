@@ -1,1 +1,1 @@
-var mnemonic = "situate suggest upset green film sea cage soldier clerk twist obscure stage";
+var mnemonic = "learn foil journey write few own shy hawk whale air nation normal";

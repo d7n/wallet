@@ -1,1 +1,1 @@
-var mnemonic = "unfold truth fun text gorilla hello park degree economy flag blame maid";
+var mnemonic = "truth woman rebel hammer oxygen cliff upgrade client area patch mix swallow";

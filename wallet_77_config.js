@@ -1,1 +1,1 @@
-var mnemonic = "blush web stay movie chimney ask blind crawl setup pattern upset sail";
+var mnemonic = "sleep resemble kite evil wealth tail chapter coin chef naive hole light";

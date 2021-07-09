@@ -1,1 +1,1 @@
-var mnemonic = "mother virtual decade tribe language fox able truth canal erupt make clown";
+var mnemonic = "bulb subway lizard recycle roast awake adjust misery fruit hammer rapid isolate";

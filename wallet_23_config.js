@@ -1,1 +1,1 @@
-var mnemonic = "cake airport trust champion trap question mail skull ranch enough decade gate";
+var mnemonic = "remember neck thrive fire seven once certain frozen frequent vast dolphin trigger";

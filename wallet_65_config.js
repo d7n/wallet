@@ -1,1 +1,1 @@
-var mnemonic = "scout muscle smile consider smile bullet limb chicken hammer obvious broom vibrant";
+var mnemonic = "below dust odor method salad wish cup early real tackle thunder high";

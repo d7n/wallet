@@ -1,1 +1,1 @@
-var mnemonic = "explain conduct artwork lava motion toddler horse sad domain electric pull mystery";
+var mnemonic = "tobacco shed else trick music edge effort horse consider jar acquire lava";

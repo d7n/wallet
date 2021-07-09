@@ -1,1 +1,1 @@
-var mnemonic = "scissors rice jeans mean letter rice crawl tongue cost wheat rent sight";
+var mnemonic = "sleep worry priority fashion prevent worry sister elite buddy leopard hazard park";

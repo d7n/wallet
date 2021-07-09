@@ -1,1 +1,1 @@
-var mnemonic = "cruel feed service lamp today pulse ceiling milk stay treat session cram";
+var mnemonic = "project sunny apart recipe reward logic six cactus side submit narrow wrist";

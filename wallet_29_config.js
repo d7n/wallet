@@ -1,1 +1,1 @@
-var mnemonic = "walnut elder catch bamboo illness manage pink adult domain advice satoshi frog";
+var mnemonic = "put chunk obvious upset meat off slogan reveal wet fiber match man";

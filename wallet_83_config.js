@@ -1,1 +1,1 @@
-var mnemonic = "wild side multiply pool equip diamond wine sea brand limb guide place";
+var mnemonic = "length whip project bind side wear music ahead actual spare hard measure";

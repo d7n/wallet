@@ -1,1 +1,1 @@
-var mnemonic = "upper cave festival subject mistake enough cupboard weasel during gasp cool wisdom";
+var mnemonic = "network various twenty essay prefer glove flash breeze transfer suspect wolf insect";

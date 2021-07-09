@@ -1,1 +1,1 @@
-var mnemonic = "huge awesome three taste diagram faith trouble rule bullet record royal object";
+var mnemonic = "autumn orchard zero sea abuse palace glimpse real heart rifle smile horse";

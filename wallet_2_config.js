@@ -1,1 +1,1 @@
-var mnemonic = "novel matrix credit humble camp kiwi fun whale catalog worth wolf step";
+var mnemonic = "pulse morning oppose wild cloud acoustic swim remain nerve coach peanut reduce";

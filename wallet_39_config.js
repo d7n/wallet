@@ -1,1 +1,1 @@
-var mnemonic = "pass flame tennis soap trust pair danger carbon cherry rather calm tip";
+var mnemonic = "client wrestle venture essence oil asset novel bid canyon fossil wink escape";

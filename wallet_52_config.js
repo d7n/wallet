@@ -1,1 +1,1 @@
-var mnemonic = "ranch winner three night holiday drive skin simple spider same swift dad";
+var mnemonic = "sense august hand wet oxygen language net amateur before chapter artwork pudding";

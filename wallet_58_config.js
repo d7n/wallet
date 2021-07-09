@@ -1,1 +1,1 @@
-var mnemonic = "sheriff mask typical treat busy velvet arrange cycle alter history people negative";
+var mnemonic = "brown spring hire stage belt combine admit reason raise usual imitate range";

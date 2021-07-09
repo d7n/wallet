@@ -1,1 +1,1 @@
-var mnemonic = "web gasp eyebrow project math invest elbow people dirt such original speak";
+var mnemonic = "cream grace output diet lazy check smart draft march only disorder setup";

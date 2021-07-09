@@ -1,1 +1,1 @@
-var mnemonic = "chat illness panther praise airport describe elevator enjoy equip model into panic";
+var mnemonic = "employ bridge echo public release stone canoe tube wet alpha absorb high";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital coral game photo decline tissue neck arrest clutch provide tissue castle";
+var mnemonic = "gate tag bulb derive barrel rack satisfy twice fault soda clock insect";

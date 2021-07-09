@@ -1,1 +1,1 @@
-var mnemonic = "lobster icon pony street penalty top boss put dutch original impose brown";
+var mnemonic = "voice street lab lyrics elevator code same involve chicken lion gossip wet";

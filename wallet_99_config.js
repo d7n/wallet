@@ -1,1 +1,1 @@
-var mnemonic = "kick cherry brother kid upon later liberty puppy rural system gospel certain";
+var mnemonic = "repeat only gate boil joy family loan provide language salmon embody diet";

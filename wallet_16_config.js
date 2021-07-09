@@ -1,1 +1,1 @@
-var mnemonic = "inherit pride achieve ritual essay tooth hybrid gift corn search phone coconut";
+var mnemonic = "young treat series zero sudden convince enter purchase legend false safe cart";

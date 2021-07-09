@@ -1,1 +1,1 @@
-var mnemonic = "you erosion endorse mistake tray prefer truly beef robot proud agree sibling";
+var mnemonic = "swear street great water cheap awkward fluid bulk stable advance flame eight";

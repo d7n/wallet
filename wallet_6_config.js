@@ -1,1 +1,1 @@
-var mnemonic = "goat cry myself game farm jewel finger emerge actress salute slush aim";
+var mnemonic = "onion segment coach neutral barely green scorpion kangaroo chat type fancy rice";
