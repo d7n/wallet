@@ -1,1 +1,1 @@
-var mnemonic = "clean work fuel calm upset easy throw useful seminar method marriage exchange";
+var mnemonic = "tragic athlete old cloth genre cloud fit exotic drive pill acoustic expose";

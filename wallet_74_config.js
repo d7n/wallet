@@ -1,1 +1,1 @@
-var mnemonic = "lecture proof decrease rent leaf birth bullet rocket crowd into material olympic";
+var mnemonic = "smile bulb one visual demand panda during two jump glide false wait";

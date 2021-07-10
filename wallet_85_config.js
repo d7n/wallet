@@ -1,1 +1,1 @@
-var mnemonic = "favorite question field unique sheriff model curve mimic duty tide immense exile";
+var mnemonic = "inform frost decline net correct message luggage also rather nurse upon inner";

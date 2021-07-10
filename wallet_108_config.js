@@ -1,1 +1,1 @@
-var mnemonic = "balcony earn genius figure nephew salmon upgrade skirt pear canal eyebrow wrist";
+var mnemonic = "earn hard syrup venue pistol stamp card gospel situate fork among side";

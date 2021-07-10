@@ -1,1 +1,1 @@
-var mnemonic = "lake surface okay split fever depth danger beauty buyer isolate size increase";
+var mnemonic = "about slight pipe say success favorite confirm member episode just love object";

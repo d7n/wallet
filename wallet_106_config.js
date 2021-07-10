@@ -1,1 +1,1 @@
-var mnemonic = "smoke close better trim awful suffer rabbit process stamp exchange card top";
+var mnemonic = "forget census cliff hybrid resist vivid then escape embody cloud pencil once";

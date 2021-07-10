@@ -1,1 +1,1 @@
-var mnemonic = "enlist elder tackle seven drop wrestle palace anchor strike space absent rebel";
+var mnemonic = "elephant practice figure ahead pumpkin protect dash issue hospital tennis dumb pigeon";

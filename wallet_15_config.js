@@ -1,1 +1,1 @@
-var mnemonic = "vacant ramp bless marble dolphin fruit lobster distance mansion series group fine";
+var mnemonic = "rice acid beauty ignore stable album dance boil armed section industry way";

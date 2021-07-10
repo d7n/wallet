@@ -1,1 +1,1 @@
-var mnemonic = "treat argue please cook present organ carbon culture ball half cigar wing";
+var mnemonic = "afford upper dove virus grape silly glove any adjust biology assume obscure";

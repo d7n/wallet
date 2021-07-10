@@ -1,1 +1,1 @@
-var mnemonic = "nation sound sand inquiry kitten merit empower barely cycle gas convince zero";
+var mnemonic = "area carpet waste possible image wrong jungle struggle green dad citizen round";

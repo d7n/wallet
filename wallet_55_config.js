@@ -1,1 +1,1 @@
-var mnemonic = "wrap among rapid abstract bulb truck shrug bulb better dismiss avoid travel";
+var mnemonic = "quote margin lunar list ketchup tonight timber poverty execute fashion six actor";

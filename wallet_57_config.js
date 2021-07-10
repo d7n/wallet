@@ -1,1 +1,1 @@
-var mnemonic = "garment voice bonus anchor embark village monkey air erupt game blush treat";
+var mnemonic = "ski fringe oyster huge divert excite school yellow bring service priority mesh";

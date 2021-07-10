@@ -1,1 +1,1 @@
-var mnemonic = "blue step sort story parrot oppose endless jump wage garment inflict water";
+var mnemonic = "piece film little identify narrow rate tuna desert build divide orchard frown";

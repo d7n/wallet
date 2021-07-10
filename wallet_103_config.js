@@ -1,1 +1,1 @@
-var mnemonic = "vacant crew planet fruit home pluck bunker easy giraffe bubble crater dawn";
+var mnemonic = "gas report spoil filter same ozone grief shed lava robust illegal side";

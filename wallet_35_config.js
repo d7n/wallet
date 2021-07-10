@@ -1,1 +1,1 @@
-var mnemonic = "sick loan staff mention become analyst electric speed match motion exhaust elbow";
+var mnemonic = "live cross velvet pact toddler coach soap author credit breeze flock chapter";

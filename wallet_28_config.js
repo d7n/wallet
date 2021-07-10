@@ -1,1 +1,1 @@
-var mnemonic = "inner dove state cry cave loud spider right owner dash enforce pole";
+var mnemonic = "erosion caution vendor hobby someone gold grass raw gather daring vibrant wheat";

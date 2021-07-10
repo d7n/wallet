@@ -1,1 +1,1 @@
-var mnemonic = "uphold near during key install build spare scare happy assist clay avocado";
+var mnemonic = "pilot loan mass obvious hover amount describe cluster romance foam mad danger";

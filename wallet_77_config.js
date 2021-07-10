@@ -1,1 +1,1 @@
-var mnemonic = "license drop bulk autumn erosion together piano frog pole approve fringe ticket";
+var mnemonic = "have nephew tragic cereal truly under wild bless dwarf rocket victory pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "mention private engage option milk delay deputy orient horn below fatal sick";
+var mnemonic = "armed scorpion trip fortune wine venue memory matrix above winter gesture calm";

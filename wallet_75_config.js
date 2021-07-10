@@ -1,1 +1,1 @@
-var mnemonic = "sad maximum eight example damp sentence mean have aisle attack net dutch";
+var mnemonic = "trust ordinary dirt fiction wealth capable payment repeat delay stamp stuff example";

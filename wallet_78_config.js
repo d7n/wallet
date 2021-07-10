@@ -1,1 +1,1 @@
-var mnemonic = "resource mechanic pause lounge clever beyond neutral garbage fault wife core sense";
+var mnemonic = "oven seminar front home wall auction home barrel potato spoil universe nation";

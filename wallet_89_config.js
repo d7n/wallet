@@ -1,1 +1,1 @@
-var mnemonic = "east grain gauge hungry fiscal slush buffalo shock mandate lazy mystery give";
+var mnemonic = "around guitar clean fringe shine hurry broccoli retreat denial evil cupboard hidden";

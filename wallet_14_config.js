@@ -1,1 +1,1 @@
-var mnemonic = "clarify deny genre mandate give park future luggage response then among palm";
+var mnemonic = "brush fetch brief grocery layer bounce west cycle depth enlist fabric napkin";

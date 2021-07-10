@@ -1,1 +1,1 @@
-var mnemonic = "type priority snack buyer pole hand occur film matrix frozen float dynamic";
+var mnemonic = "detail april insane type museum rebel garbage control trouble wet airport floor";

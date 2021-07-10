@@ -1,1 +1,1 @@
-var mnemonic = "lock pulp tilt brother lecture cream symbol palm culture clump battle daring";
+var mnemonic = "can loan salmon job lock build train awake model valve foam rather";

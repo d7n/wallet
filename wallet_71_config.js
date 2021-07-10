@@ -1,1 +1,1 @@
-var mnemonic = "version pig weekend absent dolphin plate shield pride bicycle brand police company";
+var mnemonic = "doctor affair recall tray moon rough early limb rude stool satisfy clutch";

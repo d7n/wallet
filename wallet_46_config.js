@@ -1,1 +1,1 @@
-var mnemonic = "grab wife broken globe choose angle deputy border yellow october elite distance";
+var mnemonic = "shallow permit ethics toilet ensure bring funny plug upgrade bronze rotate erupt";

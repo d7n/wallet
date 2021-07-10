@@ -1,1 +1,1 @@
-var mnemonic = "gesture amazing blur sting such rigid hundred trap car wave lunar mosquito";
+var mnemonic = "stereo easy across monkey hazard three couple slush roast thank expire moment";

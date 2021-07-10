@@ -1,1 +1,1 @@
-var mnemonic = "oppose spatial moment cup host orient mixture question mad ketchup ritual cross";
+var mnemonic = "segment utility question soap plate seek lamp peasant begin person marriage switch";

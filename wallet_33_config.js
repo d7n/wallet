@@ -1,1 +1,1 @@
-var mnemonic = "glue canyon vault viable champion ticket seat lunar category problem absent stable";
+var mnemonic = "hood best wrestle fresh across weasel metal now defense math want seed";

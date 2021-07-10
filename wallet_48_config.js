@@ -1,1 +1,1 @@
-var mnemonic = "exchange version ostrich elegant april step banner potato dash such useless uniform";
+var mnemonic = "hen harbor traffic lab hip tribe reveal eye milk sadness wave parent";

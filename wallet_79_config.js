@@ -1,1 +1,1 @@
-var mnemonic = "blossom square arrow gas escape dog ghost fatal shiver author lawn camera";
+var mnemonic = "trick flag sponsor mass market isolate remain finish oblige laugh poem casual";

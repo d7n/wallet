@@ -1,1 +1,1 @@
-var mnemonic = "toilet mule episode devote tiger scene aspect acid pair employ spend sphere";
+var mnemonic = "health gaze wear argue try success cheese shield item zoo coffee pill";

@@ -1,1 +1,1 @@
-var mnemonic = "kite remove gorilla proud olive control zone develop roast devote refuse sketch";
+var mnemonic = "glory zone mesh nothing fence answer short price slim misery much fortune";

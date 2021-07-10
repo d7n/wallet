@@ -1,1 +1,1 @@
-var mnemonic = "door endorse ring away describe slush daring leader essence job call hammer";
+var mnemonic = "couch dinosaur often solid innocent skate winner tiger range asthma armed female";

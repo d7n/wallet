@@ -1,1 +1,1 @@
-var mnemonic = "tonight proud yellow body flip buyer stage noble topic nasty special guard";
+var mnemonic = "dog trap symbol width tree mention brief age injury burger tragic destroy";

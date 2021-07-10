@@ -1,1 +1,1 @@
-var mnemonic = "aspect six fit unlock tunnel test invite learn oval fence chicken fire";
+var mnemonic = "renew garment fragile middle vague winner hair second gain man tissue apple";

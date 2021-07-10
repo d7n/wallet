@@ -1,1 +1,1 @@
-var mnemonic = "feature hunt barrel exhaust vessel enemy cigar desert slogan orphan sample rally";
+var mnemonic = "method unknown build turn inflict vast party icon wine erosion swim film";

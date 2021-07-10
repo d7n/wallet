@@ -1,1 +1,1 @@
-var mnemonic = "age involve thank virus exit into pigeon host adapt rally march three";
+var mnemonic = "pioneer gym arrow control link sure carry panda online garment doctor minor";

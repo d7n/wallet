@@ -1,1 +1,1 @@
-var mnemonic = "gift system almost jewel barely person stadium oyster this purse have surround";
+var mnemonic = "matrix hurdle jelly face gasp style scorpion cruel issue dynamic manage usage";

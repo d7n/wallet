@@ -1,1 +1,1 @@
-var mnemonic = "sense kiss bargain want erupt explain lake web hover glue body scale";
+var mnemonic = "soda trial gloom latin kit horse because spend tank assault boost dove";

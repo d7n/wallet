@@ -1,1 +1,1 @@
-var mnemonic = "creek speak meat before upon tobacco divide paper figure spend shallow fish";
+var mnemonic = "finish play broken bench unaware lift motion segment focus pool era brown";

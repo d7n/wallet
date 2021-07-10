@@ -1,1 +1,1 @@
-var mnemonic = "timber wrap album prefer seminar timber large maple grain device kangaroo weasel";
+var mnemonic = "attract elegant glass beach phrase conduct keen just trip shop entire web";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent square soup child home gun panther flash network scatter grass viable";
+var mnemonic = "sight nature speed brand rack trip trouble poverty balance base minor secret";

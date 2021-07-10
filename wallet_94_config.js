@@ -1,1 +1,1 @@
-var mnemonic = "town helmet power remember shiver other dwarf elite hospital sea wish pave";
+var mnemonic = "keen stuff filter people screen pass struggle hamster unable traffic know message";

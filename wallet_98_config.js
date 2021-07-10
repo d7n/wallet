@@ -1,1 +1,1 @@
-var mnemonic = "mercy loud change team mix ahead gadget salmon same diesel mushroom seven";
+var mnemonic = "domain river spell focus trend castle omit monkey elder visual reopen soft";

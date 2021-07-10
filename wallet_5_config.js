@@ -1,1 +1,1 @@
-var mnemonic = "nominee session venture fun island piece salute feature body swim perfect amateur";
+var mnemonic = "shell hurt elevator frown hospital stool bean thunder clip fold upon below";

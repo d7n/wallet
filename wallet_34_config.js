@@ -1,1 +1,1 @@
-var mnemonic = "wealth defense supply craft dry round wave barrel disease gorilla fever skirt";
+var mnemonic = "blanket town hockey swing inform kite lazy vacant mention pelican pledge run";

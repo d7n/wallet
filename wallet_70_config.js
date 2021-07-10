@@ -1,1 +1,1 @@
-var mnemonic = "elder segment enforce rib price local about crouch pair scissors crush fat";
+var mnemonic = "job slight lift siege valid payment asthma vintage rent emotion bird enact";

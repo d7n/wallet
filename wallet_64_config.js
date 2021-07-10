@@ -1,1 +1,1 @@
-var mnemonic = "bleak physical raccoon protect assist neither spread asset soap manage liquid object";
+var mnemonic = "short film shine since veteran denial vacant thunder deputy update all denial";

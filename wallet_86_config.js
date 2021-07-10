@@ -1,1 +1,1 @@
-var mnemonic = "casino inspire under winner rather cradle wool put flat pink enlist bargain";
+var mnemonic = "tennis display hood pattern finish hotel blast lazy toward drop promote audit";

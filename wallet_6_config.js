@@ -1,1 +1,1 @@
-var mnemonic = "favorite loan flash jungle settle mercy code orient improve pistol creek people";
+var mnemonic = "episode scissors vapor crowd what during endorse garden inch fame office antique";

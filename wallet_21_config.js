@@ -1,1 +1,1 @@
-var mnemonic = "december omit used coil blame eager table embody dizzy muscle reward atom";
+var mnemonic = "victory yard tonight noodle rib cloth move estate rent panic swamp main";

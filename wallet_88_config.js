@@ -1,1 +1,1 @@
-var mnemonic = "invite cool dilemma hope oyster notable aware vital render wood crazy area";
+var mnemonic = "carry mushroom knock response benefit arctic brick tape parent gloom cause monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "gold kiss nest camera honey armed short fly oblige steak phone donor";
+var mnemonic = "shed average cherry fruit scan movie hurdle multiply congress evolve over party";

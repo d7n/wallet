@@ -1,1 +1,1 @@
-var mnemonic = "seek doctor expire lend family connect wink electric assume vote manage canvas";
+var mnemonic = "wire later gather join business liar zoo camera glory umbrella project front";

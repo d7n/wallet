@@ -1,1 +1,1 @@
-var mnemonic = "tennis account gaze invest else arrest strategy material sure song globe snap";
+var mnemonic = "spawn hidden loud legend core garment insect recipe people ladder better note";

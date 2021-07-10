@@ -1,1 +1,1 @@
-var mnemonic = "siege dragon flight eyebrow paper already harbor concert dirt silly check master";
+var mnemonic = "oven inject horn river fragile hip brand record ranch indoor build victory";

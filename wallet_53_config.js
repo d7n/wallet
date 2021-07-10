@@ -1,1 +1,1 @@
-var mnemonic = "expose wave van protect million rifle desert tennis actor emotion approve pride";
+var mnemonic = "frost swamp elder yard ability permit armor caught tip make concert raw";

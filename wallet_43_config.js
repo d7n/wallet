@@ -1,1 +1,1 @@
-var mnemonic = "divorce swing knee decide coil maple hero genius patrol catch people derive";
+var mnemonic = "razor plastic pool pelican mango scorpion join dignity cupboard bench song uncover";

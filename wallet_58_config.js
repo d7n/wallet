@@ -1,1 +1,1 @@
-var mnemonic = "myself waste evolve among bench love void child dose equal champion frog";
+var mnemonic = "keep dove walnut code quality sustain flag essay game current rubber news";

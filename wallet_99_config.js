@@ -1,1 +1,1 @@
-var mnemonic = "program level load crazy bless flame crunch patrol crunch deer private eye";
+var mnemonic = "eight replace peanut across congress later tobacco agree impose still parent garden";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer baby rural erase betray celery finger waste extend town tree foam";
+var mnemonic = "include tiny rubber vicious boring kiss pass misery window depart call boost";

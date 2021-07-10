@@ -1,1 +1,1 @@
-var mnemonic = "slot warrior lucky zone earth volcano window ill forward blade attitude say";
+var mnemonic = "duty aunt edit cash oil mule swing screen trick pudding winner entry";

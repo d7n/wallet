@@ -1,1 +1,1 @@
-var mnemonic = "tell rigid help fan motor tide timber normal sphere cactus word circle";
+var mnemonic = "coyote canal exhaust enroll social next they cycle blanket garbage tape frog";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage certain weather erosion napkin dutch hold boost climb option mansion print";
+var mnemonic = "bread stable snack also indicate fluid early wonder turtle deal arrange impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "few save crunch party mask repeat desert lunar execute latin sun vicious";
+var mnemonic = "vast left clean amount forest fiber polar shoe history twin raccoon cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt bar aware dolphin chapter spell modify pig sick crack bacon any";
+var mnemonic = "lamp shiver genre scrap end permit portion post twin alarm afraid february";

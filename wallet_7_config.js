@@ -1,1 +1,1 @@
-var mnemonic = "view mask kitchen shield audit absurd drill tackle sea around thank hedgehog";
+var mnemonic = "endless online guess sniff between snap fatal crunch action robot tragic team";

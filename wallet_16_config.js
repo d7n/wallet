@@ -1,1 +1,1 @@
-var mnemonic = "curtain asthma saddle swarm coach spider need neither security fluid square erosion";
+var mnemonic = "wrestle narrow orient coin claw message pride boy royal beyond print glance";

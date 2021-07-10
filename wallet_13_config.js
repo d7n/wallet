@@ -1,1 +1,1 @@
-var mnemonic = "borrow club cruel lizard luggage question audit dawn valley digital helmet pencil";
+var mnemonic = "denial toilet burst segment mutual across artist candy copper will dismiss water";

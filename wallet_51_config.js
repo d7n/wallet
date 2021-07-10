@@ -1,1 +1,1 @@
-var mnemonic = "unlock there axis program valid prison tilt quiz kitten payment gorilla divide";
+var mnemonic = "make fantasy drill pill unable system sort ready either bleak spirit remember";

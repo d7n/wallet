@@ -1,1 +1,1 @@
-var mnemonic = "vibrant regret reject delay live veteran trust dog permit brown wine acoustic";
+var mnemonic = "among sample tunnel sphere winter flag future silent trumpet bounce print blind";

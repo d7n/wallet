@@ -1,1 +1,1 @@
-var mnemonic = "fatal resist index anger neither regret toy gym hair quote tide fault";
+var mnemonic = "disagree arrest oven guard plate gap office ripple net color eye fold";

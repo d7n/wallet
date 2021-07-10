@@ -1,1 +1,1 @@
-var mnemonic = "husband sadness mobile decrease stumble rate forum coil afraid satoshi depart shove";
+var mnemonic = "office appear north love cliff dinner achieve order knock axis bundle hip";

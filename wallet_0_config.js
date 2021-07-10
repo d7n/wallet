@@ -1,1 +1,1 @@
-var mnemonic = "online observe museum wonder buddy alpha impose source sudden oak black fever";
+var mnemonic = "fruit dragon digital foot betray frozen curious flip real share luggage emotion";

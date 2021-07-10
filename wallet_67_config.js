@@ -1,1 +1,1 @@
-var mnemonic = "actor arch surround opinion clutch enlist razor account recall isolate fortune agent";
+var mnemonic = "device hood couch bottom uniform stem profit view gasp radio author vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty solar decade begin feature obscure knee squeeze rack blur laugh amount";
+var mnemonic = "monitor width emotion saddle tackle dish phone dragon blast myself tonight novel";

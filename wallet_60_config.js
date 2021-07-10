@@ -1,1 +1,1 @@
-var mnemonic = "bleak online armed duck list treat vacant alpha motion panther jeans measure";
+var mnemonic = "drill demand snack visit fat slice logic step canyon useless donate raccoon";

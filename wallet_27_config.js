@@ -1,1 +1,1 @@
-var mnemonic = "rice razor glove legend decline beef clay marble process banner fruit struggle";
+var mnemonic = "antenna color junior arrive antique beyond figure excess monster involve clown dignity";

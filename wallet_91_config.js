@@ -1,1 +1,1 @@
-var mnemonic = "chase they brave found note once smoke embody satisfy success kitten praise";
+var mnemonic = "chase leader situate phone earn ribbon denial piece sausage ignore destroy nasty";

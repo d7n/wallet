@@ -1,1 +1,1 @@
-var mnemonic = "impose board predict service educate before good cluster witness bleak table alone";
+var mnemonic = "relief wisdom road suffer clean gossip conduct critic kit man simple network";

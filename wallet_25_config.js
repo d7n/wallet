@@ -1,1 +1,1 @@
-var mnemonic = "festival portion burst like vast wheel they game animal vital chaos layer";
+var mnemonic = "glance card tired actual smooth pig raven tool teach animal kite limit";

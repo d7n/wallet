@@ -1,1 +1,1 @@
-var mnemonic = "harvest museum link belt machine citizen bargain also rigid police supply side";
+var mnemonic = "dragon payment sheriff approve armed three this waste galaxy rack what whip";

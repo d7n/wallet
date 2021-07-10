@@ -1,1 +1,1 @@
-var mnemonic = "oil album inflict breeze cause atom grant area negative crash tattoo twice";
+var mnemonic = "ready rice almost fan phrase hour void connect judge response spin neutral";

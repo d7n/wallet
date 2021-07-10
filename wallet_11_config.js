@@ -1,1 +1,1 @@
-var mnemonic = "submit hand wash defense toe boss spot pink above appear hybrid rely";
+var mnemonic = "anxiety undo water evil outside goddess vendor vacant shrug leopard vague weasel";

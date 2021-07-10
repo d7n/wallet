@@ -1,1 +1,1 @@
-var mnemonic = "catch girl target hammer cupboard caught margin someone retire stand scene put";
+var mnemonic = "sorry seminar crunch middle enroll tomato twelve setup cost physical reward collect";

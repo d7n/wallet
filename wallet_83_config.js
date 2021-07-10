@@ -1,1 +1,1 @@
-var mnemonic = "first rare jump strategy add crop promote thrive brave plastic maze spoon";
+var mnemonic = "ring hospital warm fix drama ethics stove typical describe now fortune rate";

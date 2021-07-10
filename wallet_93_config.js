@@ -1,1 +1,1 @@
-var mnemonic = "master cry scatter jewel mail account essence during youth picture scorpion member";
+var mnemonic = "crowd section heavy patient settle language chest violin tattoo manage enroll either";

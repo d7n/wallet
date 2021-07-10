@@ -1,1 +1,1 @@
-var mnemonic = "december half diamond napkin desk lawn brother foster exhaust trial can panda";
+var mnemonic = "song large outer source auto play explain say model describe badge daring";

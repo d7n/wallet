@@ -1,1 +1,1 @@
-var mnemonic = "lounge crawl cave outside document matrix emotion dance depend glass hood camera";
+var mnemonic = "record winter dynamic huge empty wave talent salmon egg reopen hunt legal";
