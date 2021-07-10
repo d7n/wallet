@@ -1,1 +1,1 @@
-var mnemonic = "spoon ghost coin wrong shop comfort crawl media laptop unlock proof orbit";
+var mnemonic = "autumn funny agent present bag walnut oppose kit suffer mass melody present";

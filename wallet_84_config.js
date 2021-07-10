@@ -1,1 +1,1 @@
-var mnemonic = "absurd safe damp fruit where syrup mind rather satoshi express envelope sphere";
+var mnemonic = "math cake check actress burst devote school lion bulb negative shoe own";

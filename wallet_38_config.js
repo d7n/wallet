@@ -1,1 +1,1 @@
-var mnemonic = "soap finger loyal mango volume nephew memory open canoe cause afraid camera";
+var mnemonic = "release ten lunch damp material enroll insane drive juice focus laptop achieve";

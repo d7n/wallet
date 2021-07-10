@@ -1,1 +1,1 @@
-var mnemonic = "cute casual oblige purse involve inspire bonus farm harsh weapon term satoshi";
+var mnemonic = "forget lens wreck month impose kangaroo tennis regret young trade address cotton";

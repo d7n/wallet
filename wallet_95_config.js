@@ -1,1 +1,1 @@
-var mnemonic = "age survey tragic eagle shrimp reduce describe recall arrest upper swap hedgehog";
+var mnemonic = "drift cross crane cereal element illness gasp catch gap wrap unlock merit";

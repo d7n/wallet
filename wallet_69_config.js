@@ -1,1 +1,1 @@
-var mnemonic = "picnic demise spray flight clever stand chaos corn harsh source mango example";
+var mnemonic = "renew hand armor second excuse just library tide quote either follow foil";

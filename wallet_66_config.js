@@ -1,1 +1,1 @@
-var mnemonic = "rocket now enrich sell document capable emerge spot peanut riot invite impose";
+var mnemonic = "number anger accident theory fall oblige spatial crime skin debris include smooth";

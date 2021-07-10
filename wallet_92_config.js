@@ -1,1 +1,1 @@
-var mnemonic = "juice lonely skate people arm renew tool start noodle egg place liquid";
+var mnemonic = "summer tail vault mad cart brisk stove version lunar coconut squeeze toast";

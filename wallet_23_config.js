@@ -1,1 +1,1 @@
-var mnemonic = "tongue flush dial catalog moral receive put cactus choose fluid prosper entry";
+var mnemonic = "eye army aim mushroom excite stove toy patrol gadget orient original caution";

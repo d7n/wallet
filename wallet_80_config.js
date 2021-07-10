@@ -1,1 +1,1 @@
-var mnemonic = "bleak job great document exile type confirm old debris crane myself dream";
+var mnemonic = "hub dumb divorce live struggle rail response atom world fiscal axis they";

@@ -1,1 +1,1 @@
-var mnemonic = "tower kingdom shaft bone kid near agent trouble better short only diagram";
+var mnemonic = "trap abuse barrel task zebra panic frame satisfy sample comfort weather ramp";

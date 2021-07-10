@@ -1,1 +1,1 @@
-var mnemonic = "acquire grass stem rubber pill someone pony ginger coral traffic immune puzzle";
+var mnemonic = "shield motion cram delay toddler expire desert affair image swim cinnamon brown";

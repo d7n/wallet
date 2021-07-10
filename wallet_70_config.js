@@ -1,1 +1,1 @@
-var mnemonic = "mesh space response nature number amazing possible benefit obey wide chronic bring";
+var mnemonic = "confirm explain obscure remove pen beyond couch adult rice gather range gas";

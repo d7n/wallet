@@ -1,1 +1,1 @@
-var mnemonic = "embark acquire uphold antique okay strike remove tray time tenant royal avoid";
+var mnemonic = "oppose sock include hire manage mechanic horror waste index alcohol rib rude";

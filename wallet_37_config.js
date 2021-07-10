@@ -1,1 +1,1 @@
-var mnemonic = "lava metal raccoon educate demand fuel practice marine settle vault rare impact";
+var mnemonic = "desert rival loud shed caught double surge worth hold canal volume marriage";

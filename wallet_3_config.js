@@ -1,1 +1,1 @@
-var mnemonic = "series chest correct minor symptom later reveal account help exercise couple nut";
+var mnemonic = "error wheel brush hammer limit puppy leader beef sunset credit pulp cart";

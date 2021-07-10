@@ -1,1 +1,1 @@
-var mnemonic = "put exist castle cat farm gospel lumber collect napkin host disorder wrap";
+var mnemonic = "snack canoe offer spin jewel bean federal marine addict denial alone display";

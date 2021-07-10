@@ -1,1 +1,1 @@
-var mnemonic = "candy north pretty ritual camera rely stable purchase bus leader avocado parade";
+var mnemonic = "reason violin craft join orphan moral tobacco wide walnut jazz soccer trip";

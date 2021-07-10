@@ -1,1 +1,1 @@
-var mnemonic = "diagram dune risk cruel blossom lyrics simple away barely flock genius melody";
+var mnemonic = "legend enable scissors daring renew fury sudden deliver broken cigar potato stamp";

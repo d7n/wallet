@@ -1,1 +1,1 @@
-var mnemonic = "wolf smooth warfare flavor degree caught thought flight shove repair tilt eager";
+var mnemonic = "rely uphold observe pair shock grab spare grace hazard emotion roof victory";

@@ -1,1 +1,1 @@
-var mnemonic = "trip fury jar volume forget domain body noodle charge siege rural latin";
+var mnemonic = "sock broccoli feel flame clump thunder father video swing clutch napkin layer";

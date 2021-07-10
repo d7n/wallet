@@ -1,1 +1,1 @@
-var mnemonic = "unique business exist fan enact toddler dizzy write divorce worry one smooth";
+var mnemonic = "meadow art arrange soft worth bone isolate battle sign sample annual earth";

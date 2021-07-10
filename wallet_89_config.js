@@ -1,1 +1,1 @@
-var mnemonic = "learn verify paper canoe flip wish sense plug high huge trust lawn";
+var mnemonic = "dry detect youth ecology hill output sister enact width segment able thunder";

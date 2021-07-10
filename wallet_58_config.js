@@ -1,1 +1,1 @@
-var mnemonic = "health plastic female paddle indoor crystal wolf food armed deposit olympic mechanic";
+var mnemonic = "finish course anchor project post expose cave subject diesel barrel zoo travel";

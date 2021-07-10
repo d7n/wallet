@@ -1,1 +1,1 @@
-var mnemonic = "machine shaft tuna squirrel snack risk jungle electric invest world round obtain";
+var mnemonic = "coconut truck inquiry tornado basic snack word beach clock field marriage force";

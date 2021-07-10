@@ -1,1 +1,1 @@
-var mnemonic = "hello flag amused science frame twice thumb urge lock wave scare awake";
+var mnemonic = "dune battle liar fetch scale theory cherry vehicle indoor moon warfare tone";

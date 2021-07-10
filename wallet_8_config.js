@@ -1,1 +1,1 @@
-var mnemonic = "elephant jump debate nerve false tattoo onion imitate deposit nominee lift enforce";
+var mnemonic = "topic trophy kit math camp inflict lazy siren discover second symbol sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "program wood rural next provide supply shoe found general pudding huge income";
+var mnemonic = "cement fault captain vague other coin there habit ice pipe height jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "spot hybrid enhance pelican video gallery enact reason cancel elite step essay";
+var mnemonic = "awesome staff moon suffer edge afford brown dumb matrix vivid unfold never";

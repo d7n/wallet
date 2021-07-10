@@ -1,1 +1,1 @@
-var mnemonic = "strong scare cotton firm gather collect kid bus trade will elegant million";
+var mnemonic = "wire tip ginger toe satisfy clean elevator fashion salon moon museum street";

@@ -1,1 +1,1 @@
-var mnemonic = "dish flag stone piece puppy only hamster chief post damage naive hybrid";
+var mnemonic = "machine kit alien calm million balance rigid own avoid enjoy session angry";

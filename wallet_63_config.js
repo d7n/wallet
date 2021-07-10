@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tragic promote amazing hamster useful cruise saddle clog spare over smart";
+var mnemonic = "frequent now offer aware police demand finish distance blade despair conduct city";

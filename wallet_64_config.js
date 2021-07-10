@@ -1,1 +1,1 @@
-var mnemonic = "place asset capable arrow prepare sustain old tomorrow gauge asset fade manual";
+var mnemonic = "family latin rebel cost address fee illness jazz rose okay strategy traffic";

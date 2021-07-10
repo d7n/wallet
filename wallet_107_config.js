@@ -1,1 +1,1 @@
-var mnemonic = "grief damage hidden such vacuum donkey barely camera wheat axis soccer absorb";
+var mnemonic = "come fall doctor real brave dress bag behind sleep sample advance they";

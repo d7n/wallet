@@ -1,1 +1,1 @@
-var mnemonic = "pill ten diet quiz column canal unusual poverty struggle episode clown original";
+var mnemonic = "pulse agree faith fiscal luxury spy best roof dress void clerk journey";

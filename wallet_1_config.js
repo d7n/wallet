@@ -1,1 +1,1 @@
-var mnemonic = "unique time sponsor local letter model shuffle expand need indoor whip tilt";
+var mnemonic = "margin mystery wrestle option hand rail exact sun fortune agree security gesture";

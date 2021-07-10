@@ -1,1 +1,1 @@
-var mnemonic = "lady basic tank foam hedgehog foil duty analyst shy case mass jar";
+var mnemonic = "crisp zero palace brave put citizen round absurd daring congress thrive give";

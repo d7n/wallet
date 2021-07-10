@@ -1,1 +1,1 @@
-var mnemonic = "junk lava farm exercise license radar general setup gold waste risk fabric";
+var mnemonic = "medal frozen brown lock hawk blossom daughter crouch hockey cram oppose reward";

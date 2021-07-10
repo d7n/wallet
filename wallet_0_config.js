@@ -1,1 +1,1 @@
-var mnemonic = "baby claw forest peasant below impulse dawn labor champion setup wild delay";
+var mnemonic = "pumpkin addict erase ticket shine strong lawn famous universe warm romance antenna";

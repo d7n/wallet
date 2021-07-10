@@ -1,1 +1,1 @@
-var mnemonic = "admit load forget north dwarf design depend walnut isolate logic proof monkey";
+var mnemonic = "adjust pave ritual jeans harvest moon abstract tomorrow noodle river lens cabin";

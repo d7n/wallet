@@ -1,1 +1,1 @@
-var mnemonic = "hover patient jump giant royal tenant analyst donkey nasty this remove jelly";
+var mnemonic = "address venture jump awesome siege accuse cloud ignore cash space firm brown";

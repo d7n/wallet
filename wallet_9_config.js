@@ -1,1 +1,1 @@
-var mnemonic = "ignore lizard erode gown frog escape neck achieve travel glance middle broken";
+var mnemonic = "effort bike novel caution misery length emerge pitch dry squeeze original question";

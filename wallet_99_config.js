@@ -1,1 +1,1 @@
-var mnemonic = "midnight bargain achieve dignity major despair kitten bundle liberty harvest little ring";
+var mnemonic = "bundle kick lab upper under sphere sad exhibit exact deposit asthma oxygen";

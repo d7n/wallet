@@ -1,1 +1,1 @@
-var mnemonic = "venue defy globe future vehicle boil punch dilemma whale strategy vibrant visit";
+var mnemonic = "public floor expect neutral ethics pepper coffee sauce govern oval attack truck";

@@ -1,1 +1,1 @@
-var mnemonic = "episode pioneer habit catalog entire drill tumble mom emotion either fence sunny";
+var mnemonic = "gaze flower emotion trade involve sniff vendor fix effort warrior dry december";

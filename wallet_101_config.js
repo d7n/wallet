@@ -1,1 +1,1 @@
-var mnemonic = "metal genius surprise snack toss poverty home ball mandate festival drama resist";
+var mnemonic = "try rain stereo keep lady abstract cousin shine lottery clip cradle night";

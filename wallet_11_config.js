@@ -1,1 +1,1 @@
-var mnemonic = "great deposit rose stable appear local unlock game boat city coach atom";
+var mnemonic = "angle jealous peanut casino burger unhappy hole long pulse project result hen";

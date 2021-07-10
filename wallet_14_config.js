@@ -1,1 +1,1 @@
-var mnemonic = "floor accident undo chuckle capable bring album among rose woman doctor solution";
+var mnemonic = "throw rack demise picture frozen screen bleak ocean pistol connect surge palm";

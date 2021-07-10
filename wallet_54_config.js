@@ -1,1 +1,1 @@
-var mnemonic = "unfair item gospel inquiry bus kiss glory toast abuse candy divide marble";
+var mnemonic = "vacuum mixture wide solution ancient purpose perfect steel brief sound endorse wire";

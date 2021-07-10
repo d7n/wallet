@@ -1,1 +1,1 @@
-var mnemonic = "mind stomach antique clump exercise unable first post cancel gossip exclude board";
+var mnemonic = "coil help mixture brand ginger double damage enough stuff three rely second";

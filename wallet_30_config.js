@@ -1,1 +1,1 @@
-var mnemonic = "liberty cup nerve wrist match olive top access describe erupt liberty cat";
+var mnemonic = "sustain bread autumn will decrease blossom giraffe embrace concert rule tail shrimp";

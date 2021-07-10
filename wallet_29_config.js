@@ -1,1 +1,1 @@
-var mnemonic = "rent rookie priority damp near safe believe celery spice toddler sniff captain";
+var mnemonic = "grain spin error olive grid fiction orchard lava keep target broom twist";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ready embrace aim desk during member divert wage police stand tower";
+var mnemonic = "under chronic sign aware tongue glass window disease bid fault entire over";

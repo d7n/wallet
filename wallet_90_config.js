@@ -1,1 +1,1 @@
-var mnemonic = "shuffle bitter brick pluck identify retreat replace attitude monster health aisle goat";
+var mnemonic = "rose sing find load zero dinosaur boat analyst aerobic plug range kick";

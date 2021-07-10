@@ -1,1 +1,1 @@
-var mnemonic = "evolve fever setup badge absent mango leave weird devote inherit safe roof";
+var mnemonic = "bleak cancel magic number glove siege enter hope party awake click blue";

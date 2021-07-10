@@ -1,1 +1,1 @@
-var mnemonic = "page attract limb canoe concert seven fog adapt visa uncle direct hood";
+var mnemonic = "nice repeat toilet spirit taxi open weather twin off clown where wheel";

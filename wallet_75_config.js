@@ -1,1 +1,1 @@
-var mnemonic = "roast car frequent ticket nature neglect tattoo army blue sand worry fence";
+var mnemonic = "tape like cinnamon lion exercise direct trash scrub cost cool term outer";

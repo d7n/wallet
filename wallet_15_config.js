@@ -1,1 +1,1 @@
-var mnemonic = "film suit proud inquiry ancient decide merit hen bid oblige frown boy";
+var mnemonic = "bench potato oak rhythm alone slot cash practice defy arrow slim corn";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit cotton paper flush arrest other cannon pulse render online jeans measure";
+var mnemonic = "screen among language sock exchange mushroom alert final dry mixture gauge must";

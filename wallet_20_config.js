@@ -1,1 +1,1 @@
-var mnemonic = "over damp laugh side sock acoustic flavor unfold silly require argue relax";
+var mnemonic = "market draft defense clip chuckle skate casino question exclude canvas flight make";

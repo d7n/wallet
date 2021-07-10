@@ -1,1 +1,1 @@
-var mnemonic = "uncle battle suspect velvet guard arrest blanket math series practice sure creek";
+var mnemonic = "daughter excite nuclear budget armor item cradle cruel sword vault follow embrace";

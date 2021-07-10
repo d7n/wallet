@@ -1,1 +1,1 @@
-var mnemonic = "grant antenna find place like duty olive latin object old volume castle";
+var mnemonic = "seminar topic shove silent beef fold summer enemy enable clap series shoulder";

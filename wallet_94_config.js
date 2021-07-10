@@ -1,1 +1,1 @@
-var mnemonic = "know output stick theme rigid install horror rack total cliff tomato wear";
+var mnemonic = "turkey lounge profit monitor verb genre garbage label alarm decorate potato fork";

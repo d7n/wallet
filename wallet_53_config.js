@@ -1,1 +1,1 @@
-var mnemonic = "address attend ginger solution interest protect tonight wet stairs soda jealous cool";
+var mnemonic = "practice medal nasty list manual merge nest dune mushroom merit asset peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "latin adjust hurt shuffle auction velvet spirit remain physical yard bless resist";
+var mnemonic = "avocado glimpse arrest naive mix abstract cash strike insane wave solution flavor";

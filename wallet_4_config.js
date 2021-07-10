@@ -1,1 +1,1 @@
-var mnemonic = "hello girl mixture ghost false atom tired power magnet any need rice";
+var mnemonic = "tiger penalty cluster tobacco receive neck patrol bounce effort gentle risk slide";

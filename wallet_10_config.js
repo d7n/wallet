@@ -1,1 +1,1 @@
-var mnemonic = "penalty alpha thing space purchase car royal remove want else grace violin";
+var mnemonic = "just dice ill wall damage property replace drill valid chase candy sniff";

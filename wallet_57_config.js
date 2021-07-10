@@ -1,1 +1,1 @@
-var mnemonic = "please tray bench nut lottery stairs organ swear thrive hockey minimum carpet";
+var mnemonic = "spirit angry bubble chef void tray lake merit ankle hunt call unfold";

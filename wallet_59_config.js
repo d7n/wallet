@@ -1,1 +1,1 @@
-var mnemonic = "physical banana round grit cost umbrella choose gesture lucky river music march";
+var mnemonic = "shoulder page over raise always report trap harbor ghost cereal happy offer";

@@ -1,1 +1,1 @@
-var mnemonic = "wave level life brown swing friend either purchase empower render pumpkin hedgehog";
+var mnemonic = "forward wish entry material patch lucky viable fold view great salmon remind";

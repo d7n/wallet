@@ -1,1 +1,1 @@
-var mnemonic = "client device scatter hunt goat update segment unlock license extra grunt across";
+var mnemonic = "palace drill tag cement equal pencil boat invite royal peace extend record";

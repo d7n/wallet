@@ -1,1 +1,1 @@
-var mnemonic = "volume various vivid they reopen spice buyer pair feel disorder bring remain";
+var mnemonic = "swarm volume ten ring soul fall supreme citizen chest program time feature";

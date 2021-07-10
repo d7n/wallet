@@ -1,1 +1,1 @@
-var mnemonic = "panther monster kick clerk knee fuel forum copper slogan topple ethics target";
+var mnemonic = "copy can setup hurdle use axis scout cart arrange tag minute pen";

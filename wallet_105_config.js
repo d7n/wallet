@@ -1,1 +1,1 @@
-var mnemonic = "tomato uncover pattern combine tumble harvest chalk lava pig clap noodle pool";
+var mnemonic = "kingdom tomato cousin video mushroom certain aim evidence later someone endorse dose";

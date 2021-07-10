@@ -1,1 +1,1 @@
-var mnemonic = "verb bird junior live maid shove hurt swift about zero tag solution";
+var mnemonic = "viable daughter police earth long wash scrap canyon fox air number help";

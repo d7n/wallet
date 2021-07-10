@@ -1,1 +1,1 @@
-var mnemonic = "wood laugh delay next ramp panther bicycle stamp infant brass keep basket";
+var mnemonic = "wreck museum wisdom ethics hurt feel lake over carbon food urban chair";

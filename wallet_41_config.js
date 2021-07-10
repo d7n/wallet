@@ -1,1 +1,1 @@
-var mnemonic = "abstract rough admit twelve smoke job source joke swim thunder fancy skin";
+var mnemonic = "tomorrow meat people ski share there baby scatter craft cycle today caution";

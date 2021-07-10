@@ -1,1 +1,1 @@
-var mnemonic = "crumble motor image nurse merit height trouble eyebrow ship benefit motor seed";
+var mnemonic = "glimpse then night reject budget virtual tide wide opinion labor gate rule";

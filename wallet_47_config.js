@@ -1,1 +1,1 @@
-var mnemonic = "setup fashion strong cram ginger dragon abstract bus hungry actual comic conduct";
+var mnemonic = "census burden leave current reject know deal awesome column swallow south fat";

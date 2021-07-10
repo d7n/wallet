@@ -1,1 +1,1 @@
-var mnemonic = "insect merry turtle swing spike wool audit limb calm glory vocal false";
+var mnemonic = "sign peasant bachelor print hen disagree room birth grape guard dentist upper";

@@ -1,1 +1,1 @@
-var mnemonic = "width museum work verb agent stairs remain eager toast shoot all awkward";
+var mnemonic = "small write dilemma enforce during jewel pioneer envelope guide network food ecology";

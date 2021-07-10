@@ -1,1 +1,1 @@
-var mnemonic = "turtle rate embody slight gas bullet beef oppose cause tourist enrich charge";
+var mnemonic = "gym base version post goose hammer host expire match trend banana creek";

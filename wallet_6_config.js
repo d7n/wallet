@@ -1,1 +1,1 @@
-var mnemonic = "course fence deer luxury talk black vendor sting ocean bracket famous oak";
+var mnemonic = "angle sleep force oblige hero believe reflect budget load metal six always";

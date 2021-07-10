@@ -1,1 +1,1 @@
-var mnemonic = "scatter crucial zero indoor volcano doctor mom unknown turn cream west illness";
+var mnemonic = "student addict brush unit guitar outside destroy hour penalty ketchup pyramid impose";

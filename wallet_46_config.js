@@ -1,1 +1,1 @@
-var mnemonic = "curtain rabbit piece dumb account blood egg punch dash calm hunt lend";
+var mnemonic = "monster mention drip laptop apple globe route grant caught trigger material square";

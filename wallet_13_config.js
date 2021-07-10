@@ -1,1 +1,1 @@
-var mnemonic = "cupboard myth update day spoon peace fun enemy world oblige donate quiz";
+var mnemonic = "emerge jeans remove crawl base balance antenna bread coast man seven muffin";
