@@ -1,1 +1,1 @@
-var mnemonic = "angry turn cloud sun move tackle marriage high aunt swarm eight quit";
+var mnemonic = "ice what nurse defense forest staff original scrap knife fatigue sound where";

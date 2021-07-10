@@ -1,1 +1,1 @@
-var mnemonic = "vintage toy assist blood impact edit spy filter shiver shoe bacon crisp";
+var mnemonic = "satoshi detect clerk amazing window awake below label wealth sentence man grace";

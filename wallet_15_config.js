@@ -1,1 +1,1 @@
-var mnemonic = "drama minute please remain marriage depth swim food pattern crop extend stage";
+var mnemonic = "clever trust try timber pole shine smoke luggage cost prison adjust ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "air key provide crystal stamp script bomb captain only obey antique notable";
+var mnemonic = "walk token text hazard path wife organ become amateur tissue day illness";

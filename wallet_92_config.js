@@ -1,1 +1,1 @@
-var mnemonic = "rifle friend mix thing empower laptop eyebrow border hill final spider end";
+var mnemonic = "fragile steel edit then paper close board cause inquiry celery surprise peace";

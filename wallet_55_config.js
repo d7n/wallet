@@ -1,1 +1,1 @@
-var mnemonic = "mask video oak flock decade connect reopen term interest economy glove reduce";
+var mnemonic = "sibling decide clip define stadium crisp alert usage soap shrimp market color";

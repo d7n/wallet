@@ -1,1 +1,1 @@
-var mnemonic = "rocket state emerge neck donkey energy hybrid angry popular vacant spoon country";
+var mnemonic = "welcome august stem sign shock major kitten venue wealth abandon initial sight";

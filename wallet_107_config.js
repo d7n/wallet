@@ -1,1 +1,1 @@
-var mnemonic = "hour company rice net column yard tribe wreck vital current upon aspect";
+var mnemonic = "next female normal involve gentle eagle purity buddy harvest embody menu stock";

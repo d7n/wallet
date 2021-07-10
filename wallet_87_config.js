@@ -1,1 +1,1 @@
-var mnemonic = "quality blur core awake fortune aim urban require code fringe select sheriff";
+var mnemonic = "height fashion embrace wine keep grace frost super twenty chuckle pretty bachelor";

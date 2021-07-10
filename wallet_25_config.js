@@ -1,1 +1,1 @@
-var mnemonic = "treat nature interest later farm foster sea where coin lend flat drive";
+var mnemonic = "radio romance cement brother test shell snap slam valve comic team host";

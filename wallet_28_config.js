@@ -1,1 +1,1 @@
-var mnemonic = "energy frame opinion oval fee property crane atom doll menu afraid accident";
+var mnemonic = "slow cupboard weekend grain act suit employ physical bag ask wrestle isolate";

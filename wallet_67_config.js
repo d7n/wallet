@@ -1,1 +1,1 @@
-var mnemonic = "manage open state sustain gospel essay grow social accuse history calm scrub";
+var mnemonic = "cabin weird life exhibit person forest vast license possible noodle canoe social";

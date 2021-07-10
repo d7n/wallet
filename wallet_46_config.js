@@ -1,1 +1,1 @@
-var mnemonic = "actor situate you spell ketchup matter fragile west unusual cause fun click";
+var mnemonic = "dress smoke deer live pet they diet lady ring erase teach quiz";

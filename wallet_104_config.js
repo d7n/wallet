@@ -1,1 +1,1 @@
-var mnemonic = "eager tooth foster alcohol arrest custom tiger river chief unit snap island";
+var mnemonic = "century endless eyebrow weapon open bench habit team noise door tired suggest";

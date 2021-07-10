@@ -1,1 +1,1 @@
-var mnemonic = "head blouse wool leaf six review biology kiss trigger spoon century defy";
+var mnemonic = "final trophy head price border banana dose apple cry feed harvest notable";

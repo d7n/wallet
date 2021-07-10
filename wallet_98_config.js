@@ -1,1 +1,1 @@
-var mnemonic = "surprise ahead one repair slim quit wheel notable crime enjoy rely nominee";
+var mnemonic = "display useful wagon toddler side replace price depend devote tell around three";

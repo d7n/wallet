@@ -1,1 +1,1 @@
-var mnemonic = "air color series dragon buzz power lecture cake reopen pelican equal brown";
+var mnemonic = "caution alien print review half sword observe angle game hidden worth scene";

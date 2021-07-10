@@ -1,1 +1,1 @@
-var mnemonic = "basic corn elite sport physical because menu embrace report palm style asthma";
+var mnemonic = "identify useful maze front fence valve trick unfold reward slow estate brick";

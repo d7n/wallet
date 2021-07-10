@@ -1,1 +1,1 @@
-var mnemonic = "lemon tiger flight intact clown retreat retire planet ski normal surface return";
+var mnemonic = "fit cactus oak suggest sunny scene finish equip double hybrid deal question";

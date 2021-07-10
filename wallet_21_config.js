@@ -1,1 +1,1 @@
-var mnemonic = "glory sad emerge sail orange inner cry basic toilet inside cruel spend";
+var mnemonic = "allow infant crazy refuse case ethics lake child inject switch order twelve";

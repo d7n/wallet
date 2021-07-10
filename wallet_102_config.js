@@ -1,1 +1,1 @@
-var mnemonic = "acquire warm series youth food wisdom govern bottom coconut nuclear custom street";
+var mnemonic = "wisdom below shield case wrist silver penalty govern begin category item police";

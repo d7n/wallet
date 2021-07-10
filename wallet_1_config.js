@@ -1,1 +1,1 @@
-var mnemonic = "history eyebrow equal express toe weird team trend goat spread clinic unusual";
+var mnemonic = "smart spot bachelor eagle coach sponsor diagram prevent soldier member into inch";

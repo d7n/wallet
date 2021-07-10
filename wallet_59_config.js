@@ -1,1 +1,1 @@
-var mnemonic = "actress differ scene wash home scare faint drop list rally width gloom";
+var mnemonic = "delay unfold toast venue test meadow fish devote embody stone actor vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "promote wagon scorpion type silly bind mention card diesel season orient arrow";
+var mnemonic = "breeze skill cage evidence more rely rhythm occur foam fortune stick lake";

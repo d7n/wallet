@@ -1,1 +1,1 @@
-var mnemonic = "cattle diesel juice unusual word slab guitar surface crumble enable this column";
+var mnemonic = "dilemma wing welcome wasp reduce amount bone escape prevent rebel ball consider";

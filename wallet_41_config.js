@@ -1,1 +1,1 @@
-var mnemonic = "trouble half mechanic riot reopen select random flag that blade thought foot";
+var mnemonic = "picture have double smooth athlete bleak wisdom sibling practice endorse trend injury";

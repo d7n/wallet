@@ -1,1 +1,1 @@
-var mnemonic = "planet wife key priority aim opera category humble item lounge snack square";
+var mnemonic = "slam spot valid neither album sail pear slide final exist wheel between";

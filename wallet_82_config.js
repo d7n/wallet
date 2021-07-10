@@ -1,1 +1,1 @@
-var mnemonic = "wedding away urban crew cross suggest decrease tube design path pretty injury";
+var mnemonic = "usual resist width floor cricket tribe monster amused trip couch section iron";

@@ -1,1 +1,1 @@
-var mnemonic = "joke ridge achieve zero panel cake rain slush cement million manual round";
+var mnemonic = "flip solution habit prize invite gift unaware obey attend bleak ride endorse";

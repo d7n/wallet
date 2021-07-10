@@ -1,1 +1,1 @@
-var mnemonic = "depth business key dirt finger exchange repair hold category move auto notice";
+var mnemonic = "oil swap three today entire minimum connect awesome exact federal effort heavy";

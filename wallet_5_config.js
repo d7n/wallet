@@ -1,1 +1,1 @@
-var mnemonic = "approve island palm shell mosquito stumble year magnet sheriff dynamic rescue coach";
+var mnemonic = "shuffle boring quote ordinary chimney scrap enlist announce wide grab stay release";

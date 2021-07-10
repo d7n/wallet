@@ -1,1 +1,1 @@
-var mnemonic = "involve battle siege swift deny decorate balcony banner pulse depend love primary";
+var mnemonic = "soccer detail fitness orchard anchor decide yellow floor side vendor kite stick";

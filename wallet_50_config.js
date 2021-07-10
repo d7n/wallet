@@ -1,1 +1,1 @@
-var mnemonic = "menu hint follow parade enhance artefact razor arrow whisper giggle evidence ski";
+var mnemonic = "arena muscle hour inch stuff switch ill just metal life virtual only";

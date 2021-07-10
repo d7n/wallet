@@ -1,1 +1,1 @@
-var mnemonic = "intact orphan thank jacket million useful exile cement number equal review cotton";
+var mnemonic = "turkey man image cave error turn blue anchor chalk marble school absorb";

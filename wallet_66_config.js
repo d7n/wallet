@@ -1,1 +1,1 @@
-var mnemonic = "girl black ritual print plate swamp dinner quarter subject pumpkin autumn ivory";
+var mnemonic = "assist crash clutch stem animal language engine embody vanish play program clerk";

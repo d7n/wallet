@@ -1,1 +1,1 @@
-var mnemonic = "wrestle diagram clip polar gain spare title battle produce best voice home";
+var mnemonic = "real either sell detail combine shock unable shell tortoise purchase trap elephant";

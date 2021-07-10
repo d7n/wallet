@@ -1,1 +1,1 @@
-var mnemonic = "comic tissue coin craft repair snake visual dinosaur asset lawn sea license";
+var mnemonic = "fuel shift deal husband hen reflect main kit space bring clip elegant";

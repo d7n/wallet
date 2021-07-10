@@ -1,1 +1,1 @@
-var mnemonic = "zebra disagree spot case stool train nothing debris differ wagon cabbage prepare";
+var mnemonic = "venue velvet fan summer leader glow impact pair wonder tortoise drastic indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "visit outdoor spoon satisfy typical idle champion thought rug loyal diesel zero";
+var mnemonic = "chunk leaf rely damage seed casual charge tree canvas tape raccoon small";

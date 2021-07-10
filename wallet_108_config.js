@@ -1,1 +1,1 @@
-var mnemonic = "lucky already critic broken wreck lens letter steel exclude worry mango shock";
+var mnemonic = "word shrug scale absorb fiber fox practice unit climb access target model";

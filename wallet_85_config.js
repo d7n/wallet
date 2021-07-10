@@ -1,1 +1,1 @@
-var mnemonic = "devote before attend install mobile oil comic person raw economy pudding quarter";
+var mnemonic = "area long noodle museum estate fit tent morning theory diamond nose process";

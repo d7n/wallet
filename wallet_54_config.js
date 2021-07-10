@@ -1,1 +1,1 @@
-var mnemonic = "nothing inspire sound fog absent oblige athlete bunker bag small rich payment";
+var mnemonic = "love donate team mouse arrow review client prefer region walk unable middle";

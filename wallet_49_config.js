@@ -1,1 +1,1 @@
-var mnemonic = "inherit ask uncover tell average bind flat bring twist first fruit relax";
+var mnemonic = "wool sweet govern bone menu minute diary legal vacuum staff shaft erode";

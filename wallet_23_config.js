@@ -1,1 +1,1 @@
-var mnemonic = "youth badge accident winner thank wrong infant good luggage sketch soon seat";
+var mnemonic = "rich expect rose fan fit rack regular congress coin urban lumber primary";

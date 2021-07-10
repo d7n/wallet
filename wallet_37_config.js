@@ -1,1 +1,1 @@
-var mnemonic = "street doll few series scare run lock energy involve skill divert copy";
+var mnemonic = "volume minute good enjoy series shaft involve meat review yard vessel sun";

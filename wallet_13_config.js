@@ -1,1 +1,1 @@
-var mnemonic = "because oyster swamp canvas awake such exit eager library candy picture vivid";
+var mnemonic = "hub swear swear romance drip question fever clump cradle pig ritual urge";

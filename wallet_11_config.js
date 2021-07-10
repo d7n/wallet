@@ -1,1 +1,1 @@
-var mnemonic = "stairs purse flush air pizza sunny model anger mansion detail dinosaur upper";
+var mnemonic = "glow book gown extend champion witness thank opinion industry puzzle define dentist";

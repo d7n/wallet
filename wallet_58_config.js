@@ -1,1 +1,1 @@
-var mnemonic = "material neck pond vacuum notable live muscle inquiry deputy attack smoke vanish";
+var mnemonic = "black hammer need orphan arm flush success bread govern verify ostrich riot";

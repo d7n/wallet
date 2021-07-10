@@ -1,1 +1,1 @@
-var mnemonic = "melt fragile cook empower vehicle damage gaze hub swamp under desert warrior";
+var mnemonic = "tongue price mystery prepare butter uniform play giant orient miracle lesson spread";

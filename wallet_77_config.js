@@ -1,1 +1,1 @@
-var mnemonic = "valve split lesson salad vital business ensure reopen become category rough circle";
+var mnemonic = "absurd flag nation ask garment best treat deliver mammal indoor music purse";

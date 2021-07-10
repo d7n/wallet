@@ -1,1 +1,1 @@
-var mnemonic = "best liquid message security license win easy age dilemma wire dose split";
+var mnemonic = "smoke strong tone green horn hazard chronic escape engage clog cruise believe";

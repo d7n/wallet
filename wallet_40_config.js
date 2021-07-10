@@ -1,1 +1,1 @@
-var mnemonic = "arrive poverty smooth month swap cupboard arrest three actor utility firm ribbon";
+var mnemonic = "surface buffalo already steel purchase frame fuel summer winter trim blouse day";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle news hour suit noble chimney essence green insane pen project attract";
+var mnemonic = "more rice occur tissue crowd despair grunt fitness motor velvet peasant will";

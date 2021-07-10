@@ -1,1 +1,1 @@
-var mnemonic = "speed maid rookie stay link rough silly cause arm task wrist top";
+var mnemonic = "used shiver rocket visit ability refuse oven expose blue bless buddy home";

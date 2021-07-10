@@ -1,1 +1,1 @@
-var mnemonic = "kingdom express balcony pepper empty grocery island early oval melt timber pigeon";
+var mnemonic = "acquire act shine across funny taxi marriage dirt action crush switch fade";

@@ -1,1 +1,1 @@
-var mnemonic = "swim burden crew danger genius ready piece bring siege lesson cool clever";
+var mnemonic = "glare laugh someone galaxy impose habit crumble curve daughter extend brown flag";

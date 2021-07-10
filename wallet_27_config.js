@@ -1,1 +1,1 @@
-var mnemonic = "later onion flower forum deputy scorpion cake tilt swap mechanic sauce solid";
+var mnemonic = "please grit essay divorce napkin one result filter behind orchard turn expect";

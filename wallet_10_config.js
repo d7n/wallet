@@ -1,1 +1,1 @@
-var mnemonic = "hover snake bulk casual silly agree practice mushroom margin artefact lunar twelve";
+var mnemonic = "theory cry drip truth unaware double renew isolate polar maple season inherit";

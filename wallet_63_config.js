@@ -1,1 +1,1 @@
-var mnemonic = "canyon ritual fly coffee junior bind melt energy slab exhibit clarify convince";
+var mnemonic = "deer sketch spawn sand talent chicken sense share label cram day spell";

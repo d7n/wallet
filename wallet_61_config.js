@@ -1,1 +1,1 @@
-var mnemonic = "endless else twice sign property dance letter suggest purpose clever very drip";
+var mnemonic = "vital defense jazz nothing appear elder latin crawl jeans hollow pizza grape";

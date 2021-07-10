@@ -1,1 +1,1 @@
-var mnemonic = "super theme shift amount melody advance smoke electric style wine know equip";
+var mnemonic = "antenna primary beef skill capable nose olive stairs hello sail invest crater";

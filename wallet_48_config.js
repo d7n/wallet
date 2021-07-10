@@ -1,1 +1,1 @@
-var mnemonic = "ranch issue foil anger able pitch act breeze attack rival click wrong";
+var mnemonic = "potato era drama junior rather venture donkey various lounge daughter hamster release";

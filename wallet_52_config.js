@@ -1,1 +1,1 @@
-var mnemonic = "jungle funny congress expose sustain recipe icon lift faith pause sand similar";
+var mnemonic = "buzz arrest gift sweet stick drift only almost whip outside narrow own";

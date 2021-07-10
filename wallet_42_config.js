@@ -1,1 +1,1 @@
-var mnemonic = "phone false canvas humble buffalo accuse brain parent intact height ice tomorrow";
+var mnemonic = "chat maximum ugly share topic mushroom pluck absent awesome swallow outside gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "outside range believe firm annual frost about approve blossom obvious piece truck";
+var mnemonic = "tumble rubber knock rail tree suggest shine black correct wreck mad open";

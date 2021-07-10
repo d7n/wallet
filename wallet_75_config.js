@@ -1,1 +1,1 @@
-var mnemonic = "bind icon junk you spider click perfect cute organ start club depart";
+var mnemonic = "message lizard virus gallery bread human sail settle iron prevent topic sad";

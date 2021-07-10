@@ -1,1 +1,1 @@
-var mnemonic = "unique access taste lecture left avoid rice spray three hill zone crunch";
+var mnemonic = "brand aerobic iron sock saddle expire wisdom scrub enroll sad chaos excuse";

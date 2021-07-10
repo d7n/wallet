@@ -1,1 +1,1 @@
-var mnemonic = "frequent mule phone valve turn leopard proof mechanic plastic cross aware ocean";
+var mnemonic = "own rebuild broken inch journey grace whip hungry indoor news cruel upgrade";

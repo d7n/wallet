@@ -1,1 +1,1 @@
-var mnemonic = "addict genuine suspect boost abandon powder oyster caution must utility task twice";
+var mnemonic = "expand trend setup october cave math flight sense local cruel imitate behind";

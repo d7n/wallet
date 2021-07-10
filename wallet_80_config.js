@@ -1,1 +1,1 @@
-var mnemonic = "catch grocery blouse hand evidence total pizza hunt olympic charge sound mountain";
+var mnemonic = "response attract point frost finish oval gown quote lock grass addict office";

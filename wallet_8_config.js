@@ -1,1 +1,1 @@
-var mnemonic = "pottery trip kidney media program click engine uncle neglect bulb badge latin";
+var mnemonic = "crouch soft install chief brief field rent proud noodle soft patrol evidence";

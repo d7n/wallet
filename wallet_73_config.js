@@ -1,1 +1,1 @@
-var mnemonic = "pave rigid kid marble country country estate rebel game marriage wrap true";
+var mnemonic = "august liquid ten gesture hospital lab taste old tent nest minute guard";

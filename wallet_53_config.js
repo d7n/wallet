@@ -1,1 +1,1 @@
-var mnemonic = "change century bean forum never claim oak heavy yard hungry shaft sweet";
+var mnemonic = "holiday surprise great hire airport normal force absurd decide major angry split";

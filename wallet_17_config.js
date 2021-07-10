@@ -1,1 +1,1 @@
-var mnemonic = "capable capital eye stone explain help cousin turtle stamp allow quote fire";
+var mnemonic = "trash sibling size boost power quick chuckle panda lake tide broom rotate";

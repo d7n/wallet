@@ -1,1 +1,1 @@
-var mnemonic = "rain holiday chat december evidence thing agent decline cattle add mistake near";
+var mnemonic = "drill lecture enter food frozen lyrics dance galaxy lawsuit thunder garden erode";

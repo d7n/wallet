@@ -1,1 +1,1 @@
-var mnemonic = "mansion satoshi bulk fault perfect style aspect burger canyon magnet market peace";
+var mnemonic = "credit kite chaos comic boy slight among wrong shoulder slot best horn";

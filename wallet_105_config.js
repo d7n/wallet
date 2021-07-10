@@ -1,1 +1,1 @@
-var mnemonic = "lyrics pipe audit purchase crumble member eternal average laundry elbow total gaze";
+var mnemonic = "baby all sweet spoon deliver abandon lamp then brief project explain gold";

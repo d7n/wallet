@@ -1,1 +1,1 @@
-var mnemonic = "roast kangaroo left matter manage version eyebrow prepare lonely cabin pipe witness";
+var mnemonic = "decade gas wolf still whale paddle yard increase family resource drastic possible";

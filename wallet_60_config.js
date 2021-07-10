@@ -1,1 +1,1 @@
-var mnemonic = "element aerobic parent immense copper cloud brave embark sight cram analyst merit";
+var mnemonic = "attend install supply rail best nice cupboard pumpkin false win cabin design";

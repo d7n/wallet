@@ -1,1 +1,1 @@
-var mnemonic = "pond quote maid birth affair open climb worth own disagree glare catalog";
+var mnemonic = "inner oyster skirt diary attack shield fluid alien discover glue mail quarter";

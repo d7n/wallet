@@ -1,1 +1,1 @@
-var mnemonic = "rebel chapter grape dust crane sword business enjoy travel genre fork update";
+var mnemonic = "toward lab alcohol render afraid soccer ship strategy repeat breeze bid mesh";

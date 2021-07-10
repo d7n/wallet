@@ -1,1 +1,1 @@
-var mnemonic = "jar foot switch harbor dress scale crew caution stand short biology custom";
+var mnemonic = "agent team draft test quantum work head correct tool seed harbor random";

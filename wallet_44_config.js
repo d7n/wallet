@@ -1,1 +1,1 @@
-var mnemonic = "trip together tail cupboard unable lawn evolve code morning dinner oil crisp";
+var mnemonic = "true ugly width effort reduce today mule frame twelve strong bind zero";

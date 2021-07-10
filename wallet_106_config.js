@@ -1,1 +1,1 @@
-var mnemonic = "best tray toddler over license truth fancy clever desert minimum apart front";
+var mnemonic = "genre juice test rigid people dinner member submit soccer lunar avoid lyrics";

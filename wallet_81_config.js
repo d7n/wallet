@@ -1,1 +1,1 @@
-var mnemonic = "embrace sunny donate discover differ kiwi midnight stadium verb east size album";
+var mnemonic = "adult later loop shift solve tortoise thought nice client label witness olympic";

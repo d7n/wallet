@@ -1,1 +1,1 @@
-var mnemonic = "differ crucial october execute extend tobacco local timber typical system issue trim";
+var mnemonic = "amount maple morning lady exhaust barrel silly cliff torch donkey wedding method";

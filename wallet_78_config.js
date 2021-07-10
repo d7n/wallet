@@ -1,1 +1,1 @@
-var mnemonic = "quantum kingdom banana robust venue outdoor zone hybrid change eight true blame";
+var mnemonic = "resist voice muscle govern domain whip make mushroom insane endorse jacket wood";

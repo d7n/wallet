@@ -1,1 +1,1 @@
-var mnemonic = "bid neck lock nose hobby feel toast dial chronic venture exist bread";
+var mnemonic = "analyst fitness cheap robot friend chair pipe review grace tooth vanish alert";

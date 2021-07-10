@@ -1,1 +1,1 @@
-var mnemonic = "danger olympic cheap other human advice job sick guitar rely kick rack";
+var mnemonic = "salon earth actual duck modify good calm satisfy suffer sure stand explain";

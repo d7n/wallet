@@ -1,1 +1,1 @@
-var mnemonic = "devote weasel guide theory oyster toilet alpha punch monster giraffe leg expose";
+var mnemonic = "soldier ancient color script oxygen basket spin woman pretty recipe alien tree";

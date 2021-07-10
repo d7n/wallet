@@ -1,1 +1,1 @@
-var mnemonic = "stove night option scissors energy believe use pepper save owner donate spin";
+var mnemonic = "bring fragile awake flavor deliver stable scan track sniff boost keep exit";
