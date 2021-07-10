@@ -1,1 +1,1 @@
-var mnemonic = "mutual decade leopard wash seven cream escape pluck cram lizard more post";
+var mnemonic = "rather private distance deer gesture cinnamon soon father practice success target category";

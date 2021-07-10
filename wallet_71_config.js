@@ -1,1 +1,1 @@
-var mnemonic = "floor symbol year custom unlock chest erode struggle bridge silly polar develop";
+var mnemonic = "legend olive erosion current poet physical time enforce erase arrive supply era";

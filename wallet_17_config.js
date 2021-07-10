@@ -1,1 +1,1 @@
-var mnemonic = "winter burger angry sea honey arrow hurt exact dinosaur typical tobacco moral";
+var mnemonic = "mad total struggle message silver team define interest force able sail caught";

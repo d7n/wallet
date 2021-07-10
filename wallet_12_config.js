@@ -1,1 +1,1 @@
-var mnemonic = "primary reform turtle rescue until harbor pelican purse unveil muscle strong swap";
+var mnemonic = "join increase trim gown hover humble repair link company taste album flight";

@@ -1,1 +1,1 @@
-var mnemonic = "city rubber blame coyote night recipe wing black produce mystery melody clown";
+var mnemonic = "drum mix make hurry salute check gold cancel cage salad enough salon";

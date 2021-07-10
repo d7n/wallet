@@ -1,1 +1,1 @@
-var mnemonic = "network comfort moral world yard comfort throw gadget quiz wide width hundred";
+var mnemonic = "horror describe ship dragon glue junk begin adapt film brief risk maze";

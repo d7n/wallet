@@ -1,1 +1,1 @@
-var mnemonic = "pet describe over improve design calm play grass farm slam lawn cycle";
+var mnemonic = "dance analyst train clap yard voyage spy hammer monkey caution short reject";

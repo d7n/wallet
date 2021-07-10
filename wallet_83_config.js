@@ -1,1 +1,1 @@
-var mnemonic = "casual replace raven embody link swarm captain permit aerobic unique traffic shrimp";
+var mnemonic = "among machine blind never feature come erode know bring flower tuition bulb";

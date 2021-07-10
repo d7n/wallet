@@ -1,1 +1,1 @@
-var mnemonic = "accident enable liquid expect fee egg wrap indoor feel deer yellow nut";
+var mnemonic = "brand dish force key broom rookie silver bottom chase peace wasp load";

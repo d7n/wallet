@@ -1,1 +1,1 @@
-var mnemonic = "change supreme rival beach knock main verb glance drink run dolphin angle";
+var mnemonic = "elephant also emerge oval danger pen whisper leader ranch game stomach hand";

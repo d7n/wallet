@@ -1,1 +1,1 @@
-var mnemonic = "shoe flight census share food empty frost brother zero trophy deliver skirt";
+var mnemonic = "illness violin candy total river depart charge rifle discover found tenant rocket";

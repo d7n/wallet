@@ -1,1 +1,1 @@
-var mnemonic = "present garden arena eyebrow column owner damp tell blame plate accident donate";
+var mnemonic = "gym loud anxiety pudding wonder blast okay water thunder ozone analyst deposit";

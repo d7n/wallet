@@ -1,1 +1,1 @@
-var mnemonic = "devote cheap palm tortoise unaware season juice kitchen spin attack manage total";
+var mnemonic = "exit custom shaft swift sign divert surround gym coil fiber satisfy sugar";

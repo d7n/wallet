@@ -1,1 +1,1 @@
-var mnemonic = "ring rotate grant label payment soap rabbit leopard now mail nerve valley";
+var mnemonic = "sheriff female soul decline goat reject lady isolate sustain casino gorilla maple";

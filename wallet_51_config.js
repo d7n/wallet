@@ -1,1 +1,1 @@
-var mnemonic = "ugly drum kidney misery clay jacket tree click purity wrist vivid plug";
+var mnemonic = "excite fall mansion mandate fuel biology any radio essence method bacon spring";

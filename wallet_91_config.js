@@ -1,1 +1,1 @@
-var mnemonic = "over excuse joke train refuse behind spin shrug spoil feature noise question";
+var mnemonic = "mean fringe tunnel today crumble unable joke rent miracle trick filter wise";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige range water delay throw roast buyer kitchen garden dinosaur genius truly";
+var mnemonic = "luxury satoshi sample mule off market call opera spell zebra edge labor";

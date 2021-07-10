@@ -1,1 +1,1 @@
-var mnemonic = "upgrade source virus bonus file result destroy math invite observe card squirrel";
+var mnemonic = "fee govern magic bachelor curve toe tube nurse deny tumble beach sing";

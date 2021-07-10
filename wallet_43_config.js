@@ -1,1 +1,1 @@
-var mnemonic = "forget enough fit era above lottery army home trap borrow balcony jar";
+var mnemonic = "stone express vocal tide exact cover settle leader bench truck trumpet document";

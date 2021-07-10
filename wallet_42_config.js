@@ -1,1 +1,1 @@
-var mnemonic = "history hint idle plug potato dust become north interest portion aerobic cat";
+var mnemonic = "shadow they demand term virtual find glue jaguar maximum raw ill before";

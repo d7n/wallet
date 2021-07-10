@@ -1,1 +1,1 @@
-var mnemonic = "fringe exhaust boy gym bone moment robust unique size decide board kitten";
+var mnemonic = "narrow swim ignore often hammer inflict scout cousin army angle barely egg";

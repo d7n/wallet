@@ -1,1 +1,1 @@
-var mnemonic = "film legend pupil club rapid usual reunion used melody that flight toe";
+var mnemonic = "picnic want slab master gravity hawk lift marble census custom tissue room";

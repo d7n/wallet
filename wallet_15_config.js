@@ -1,1 +1,1 @@
-var mnemonic = "gossip panther hire quote segment mouse recall history grit comic series swamp";
+var mnemonic = "online pond ostrich blur end front lamp author flag crime change into";

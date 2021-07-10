@@ -1,1 +1,1 @@
-var mnemonic = "limit mosquito shrug daring swing table genre fire tongue siege next ribbon";
+var mnemonic = "segment theme tide ugly road congress matrix hurry dad bottom lion audit";

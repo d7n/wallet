@@ -1,1 +1,1 @@
-var mnemonic = "admit reunion liberty energy coin final clown egg ankle artefact dignity brass";
+var mnemonic = "ensure version history creek canal artwork jaguar orbit someone vehicle flame cliff";

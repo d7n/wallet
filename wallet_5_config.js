@@ -1,1 +1,1 @@
-var mnemonic = "wave analyst marriage injury foil sting limit warfare crawl powder input rude";
+var mnemonic = "half antique general slogan annual brown popular menu buyer expire type glide";

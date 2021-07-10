@@ -1,1 +1,1 @@
-var mnemonic = "alarm slow tomorrow scheme march position arrive taxi income melody unlock alley";
+var mnemonic = "remember hour finger poem front visual armor trigger slogan live large hello";

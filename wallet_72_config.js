@@ -1,1 +1,1 @@
-var mnemonic = "text news typical pluck rebel belt north size enforce smile lamp clever";
+var mnemonic = "visit decide unhappy peace volcano will vendor blush cereal example debris smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi actor broom move brown business picture jealous ride clay believe zero";
+var mnemonic = "parent lobster popular three stay humor birth pig saddle cupboard obtain among";

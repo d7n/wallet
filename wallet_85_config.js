@@ -1,1 +1,1 @@
-var mnemonic = "place farm scare typical still crew onion odor shoe bike radar genuine";
+var mnemonic = "next myself junk mixture eyebrow kitchen phone priority spoon inform vacant notice";

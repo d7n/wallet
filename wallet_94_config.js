@@ -1,1 +1,1 @@
-var mnemonic = "sudden violin banner crisp symptom rhythm skill keep cat ghost bomb velvet";
+var mnemonic = "rescue utility tobacco squirrel settle change apple flag sock gauge pig skate";

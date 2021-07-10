@@ -1,1 +1,1 @@
-var mnemonic = "obey human couple mango strategy bag tooth double infant adjust awkward primary";
+var mnemonic = "struggle episode globe scene process hollow car govern middle fuel inner better";

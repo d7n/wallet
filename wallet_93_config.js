@@ -1,1 +1,1 @@
-var mnemonic = "great deposit wash rail private ticket renew neck fiscal garlic install thing";
+var mnemonic = "hope unfold merge congress common taxi giggle stairs promote fortune account type";

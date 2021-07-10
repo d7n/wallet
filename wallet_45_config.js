@@ -1,1 +1,1 @@
-var mnemonic = "letter kangaroo define harbor offer swift figure cactus angry version tornado east";
+var mnemonic = "next interest danger galaxy absorb employ eight tribe soup child exhaust icon";

@@ -1,1 +1,1 @@
-var mnemonic = "subject track twist only decade skirt rebel inner author awful rather fan";
+var mnemonic = "alarm scatter blind genuine replace upset gadget gym coconut cabbage pill crime";

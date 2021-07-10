@@ -1,1 +1,1 @@
-var mnemonic = "wash steel flush camera confirm denial tennis wrestle battle above misery practice";
+var mnemonic = "car witness security rival lamp danger fiber payment term during true fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon cook roof language sight pumpkin vibrant economy forget client setup cart";
+var mnemonic = "east lizard pledge actor during arrange pipe gravity october model elegant palace";

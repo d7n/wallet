@@ -1,1 +1,1 @@
-var mnemonic = "clock believe short echo high hurry vessel usage dish joke pony this";
+var mnemonic = "prize survey cancel clay shoe private craft scare law arrest half coral";

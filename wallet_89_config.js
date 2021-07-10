@@ -1,1 +1,1 @@
-var mnemonic = "pyramid excuse public cart want traffic diesel fault dynamic spider license industry";
+var mnemonic = "edge bullet mirror dignity tooth fiscal practice afford identify prevent cinnamon pepper";

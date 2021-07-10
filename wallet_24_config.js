@@ -1,1 +1,1 @@
-var mnemonic = "robust soft wine roof quantum boil artwork yellow oyster pull speed devote";
+var mnemonic = "code bamboo sugar fork beef patient vanish wrap budget decade catalog citizen";

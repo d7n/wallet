@@ -1,1 +1,1 @@
-var mnemonic = "arch virus tomato job check priority cram model tower body dirt impulse";
+var mnemonic = "apology bulb quality pilot moment faint middle teach movie purpose fly session";

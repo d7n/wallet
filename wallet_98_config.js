@@ -1,1 +1,1 @@
-var mnemonic = "farm tomorrow action where pencil fold sauce spoil like name anger price";
+var mnemonic = "throw vehicle half range monitor deal rally main drink fancy goose spice";

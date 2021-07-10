@@ -1,1 +1,1 @@
-var mnemonic = "breeze wash wet duck donate orient farm age hope garden awake laundry";
+var mnemonic = "forget disagree normal labor cave blast fiscal rhythm child bullet apology keen";

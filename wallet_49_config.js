@@ -1,1 +1,1 @@
-var mnemonic = "trust penalty actress copper toward champion sick rose canyon hour virtual purchase";
+var mnemonic = "abuse fire viable ankle alter rookie agree execute pipe twice tag dove";

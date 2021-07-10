@@ -1,1 +1,1 @@
-var mnemonic = "brass panel depth poem minor office sniff nature eager payment ethics price";
+var mnemonic = "defense window delay party casual latin sun road street race scatter drip";

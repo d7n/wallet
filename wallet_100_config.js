@@ -1,1 +1,1 @@
-var mnemonic = "wild lady ginger furnace journey letter glimpse urge fringe crawl truth eagle";
+var mnemonic = "hire reward pulp claim warfare coil vintage crater olive stairs service useless";

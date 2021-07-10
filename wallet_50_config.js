@@ -1,1 +1,1 @@
-var mnemonic = "split range blame december awesome kidney charge life alone garden office abandon";
+var mnemonic = "royal outside cactus tackle income live gather tube impact mask nerve lens";

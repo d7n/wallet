@@ -1,1 +1,1 @@
-var mnemonic = "submit follow soap cute oppose poet wise obey unique trigger giraffe tomato";
+var mnemonic = "blast vanish oak float cash cherry immune country rude talent code public";

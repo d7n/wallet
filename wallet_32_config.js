@@ -1,1 +1,1 @@
-var mnemonic = "small bronze forget enrich kangaroo utility glory city just diamond liar egg";
+var mnemonic = "battle negative income artist learn utility toilet helmet blossom wisdom south blouse";

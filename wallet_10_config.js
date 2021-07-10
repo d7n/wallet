@@ -1,1 +1,1 @@
-var mnemonic = "dilemma street quote garlic misery gym liquid comic rain ritual trap gown";
+var mnemonic = "advice glow wheel sound benefit program cargo hawk aware gasp wild meat";

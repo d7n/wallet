@@ -1,1 +1,1 @@
-var mnemonic = "mother gain march issue step zero theory describe lemon rare cube rotate";
+var mnemonic = "maid season candy ivory found list plug behave medal hint wrap sound";

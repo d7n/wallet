@@ -1,1 +1,1 @@
-var mnemonic = "tent book local young march rail left film punch fee axis stomach";
+var mnemonic = "heavy cigar goat legal buzz waste narrow shield mesh expand funny arena";

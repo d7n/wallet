@@ -1,1 +1,1 @@
-var mnemonic = "airport weather potato penalty change exhaust meadow cattle fold clean wheat leave";
+var mnemonic = "cycle innocent issue public weapon define armed spirit tuition used inherit subway";

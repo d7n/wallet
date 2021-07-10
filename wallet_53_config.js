@@ -1,1 +1,1 @@
-var mnemonic = "warfare fiction bitter mango ecology verb exotic involve crazy much sock off";
+var mnemonic = "spice april concert space cream until breeze vague clarify figure find alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "better spy lens throw wheel lend foil dilemma art reopen alpha polar";
+var mnemonic = "eternal music clerk glide number warfare mesh gravity surge describe cram fatal";

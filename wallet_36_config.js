@@ -1,1 +1,1 @@
-var mnemonic = "hair learn certain peace defense title march match obtain rotate where scout";
+var mnemonic = "mixture couch prize fine above enroll off stick seat prefer force shuffle";

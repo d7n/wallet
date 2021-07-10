@@ -1,1 +1,1 @@
-var mnemonic = "foster summer eye speak volume siege proud cup chicken hawk quality frown";
+var mnemonic = "above inch share nuclear rib panel early swift monster hip grape together";

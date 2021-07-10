@@ -1,1 +1,1 @@
-var mnemonic = "giggle morning keep rifle glimpse decide kitchen plunge hospital risk defense clump";
+var mnemonic = "chicken walk dutch element neither level friend sport pumpkin battle setup tissue";

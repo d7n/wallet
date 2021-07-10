@@ -1,1 +1,1 @@
-var mnemonic = "brave concert over pupil swift brother argue cattle stay kitchen attend menu";
+var mnemonic = "pizza lonely patient grape violin multiply walnut strong trash machine build put";

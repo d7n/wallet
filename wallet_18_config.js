@@ -1,1 +1,1 @@
-var mnemonic = "tackle expire concert effort volcano donkey direct sell push win toward copper";
+var mnemonic = "smart club romance inherit talk frequent quiz amateur boat island legend text";

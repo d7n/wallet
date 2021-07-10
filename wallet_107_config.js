@@ -1,1 +1,1 @@
-var mnemonic = "effort sail flash confirm spy faith fly home tonight chuckle flat garden";
+var mnemonic = "wreck cup able clip document simple tortoise cabin toddler trip define cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "spider border debris chunk spin speak spoon drop drift climb never letter";
+var mnemonic = "noble apology music control sick noble slight shy key demand scene firm";

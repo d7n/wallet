@@ -1,1 +1,1 @@
-var mnemonic = "holiday crazy village mammal small ship photo movie chapter trend owner crush";
+var mnemonic = "option airport tube advice paper share input arctic have genre tennis struggle";

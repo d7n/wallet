@@ -1,1 +1,1 @@
-var mnemonic = "item aware inner news stomach jewel person riot true arctic theme fatigue";
+var mnemonic = "into vehicle below junk garbage vague assume census urban exit scorpion naive";

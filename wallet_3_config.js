@@ -1,1 +1,1 @@
-var mnemonic = "olympic agree twice duty sunny shy victory title mosquito pear satisfy beauty";
+var mnemonic = "census rich shaft offer cause fade city settle deal area trick eager";

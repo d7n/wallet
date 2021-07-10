@@ -1,1 +1,1 @@
-var mnemonic = "plate purity frame scissors base indoor mosquito case gesture spin injury happy";
+var mnemonic = "regular post fun lava pull pride year glimpse feed face poverty rally";

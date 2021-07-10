@@ -1,1 +1,1 @@
-var mnemonic = "army cool maple snack hammer betray easy estate census omit catch core";
+var mnemonic = "width ocean soft fatal exhaust funny meadow sweet casino ask found kitchen";

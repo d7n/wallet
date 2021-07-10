@@ -1,1 +1,1 @@
-var mnemonic = "coach still tenant this allow believe palm diesel security argue pull coconut";
+var mnemonic = "spawn orchard danger detail confirm ski people vessel water brand grid finish";

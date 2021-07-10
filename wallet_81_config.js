@@ -1,1 +1,1 @@
-var mnemonic = "great spare increase drink loop divide fine knock swim invest fury alcohol";
+var mnemonic = "ostrich type sentence album toddler banana polar salad salmon cement bomb engine";

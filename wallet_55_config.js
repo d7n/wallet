@@ -1,1 +1,1 @@
-var mnemonic = "develop void weather online deal panic truth avoid uphold corn swarm index";
+var mnemonic = "enter tooth debris top half wait accident trumpet action resource misery strike";

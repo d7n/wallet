@@ -1,1 +1,1 @@
-var mnemonic = "pulp adult core fashion stock pledge wave town alpha photo pepper swarm";
+var mnemonic = "myself dentist evoke screen stone next inquiry subject crunch output face mango";

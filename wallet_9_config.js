@@ -1,1 +1,1 @@
-var mnemonic = "panic vicious raw ginger color car toilet thumb scare like loud target";
+var mnemonic = "bulb spell about motion letter erosion ramp hood jar average skill coast";

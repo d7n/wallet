@@ -1,1 +1,1 @@
-var mnemonic = "hungry truth install close best dune bind fault rebel horse truly index";
+var mnemonic = "man bike seat atom wheel waste welcome among among young need grace";

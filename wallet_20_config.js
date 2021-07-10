@@ -1,1 +1,1 @@
-var mnemonic = "ordinary screen lazy blade town need result tonight minute include jaguar ticket";
+var mnemonic = "boring develop fly salmon mechanic include frame coffee bacon exact sell bid";

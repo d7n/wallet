@@ -1,1 +1,1 @@
-var mnemonic = "update potato random around clap all shadow always clog rubber lyrics hope";
+var mnemonic = "alpha estate gravity alley pond brief glory warm elite bargain license fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "process arch flavor foil reject transfer spy weapon kitchen between theme where";
+var mnemonic = "fringe craft captain chaos relax invest marble embody point hen frog figure";

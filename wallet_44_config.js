@@ -1,1 +1,1 @@
-var mnemonic = "garbage monster security pond reason slush fault leaf woman reason axis flash";
+var mnemonic = "input fetch squirrel judge dose crucial wrong earth repeat magic enhance call";

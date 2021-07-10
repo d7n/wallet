@@ -1,1 +1,1 @@
-var mnemonic = "suit prison rude notice buffalo voyage brief exhibit man trend vote host";
+var mnemonic = "become trend slender tone enroll figure choice region feed abstract pelican tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "grow stumble render system brother same wrestle hub hero either spoon thank";
+var mnemonic = "drama into derive among pioneer video machine venue uniform post rare surface";

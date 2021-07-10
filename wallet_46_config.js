@@ -1,1 +1,1 @@
-var mnemonic = "utility sibling spoil artist good sick echo purity junior thank hunt bus";
+var mnemonic = "fresh permit garlic fall suit spray digital lady vault aspect trial rabbit";

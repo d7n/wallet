@@ -1,1 +1,1 @@
-var mnemonic = "act bubble because sun vivid lock float oxygen hire accident order joy";
+var mnemonic = "regular child special oblige tent patient pill deputy tank capable sister emotion";

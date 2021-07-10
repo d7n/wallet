@@ -1,1 +1,1 @@
-var mnemonic = "ketchup ridge toss recipe step album rabbit sponsor test hurry high language";
+var mnemonic = "cram flip increase ceiling magic endless issue frequent funny page smooth shop";

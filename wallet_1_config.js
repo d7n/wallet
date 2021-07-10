@@ -1,1 +1,1 @@
-var mnemonic = "syrup bundle online virus mirror muscle swamp pause smoke input embody plug";
+var mnemonic = "film tape display happy action ill seven moral cloth category make normal";

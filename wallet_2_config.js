@@ -1,1 +1,1 @@
-var mnemonic = "arena dove skin girl club vendor cliff six blur razor upper prepare";
+var mnemonic = "exclude spike smoke possible trim announce future clap afford elite hire lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "firm ketchup story what proud immense hill pupil dress lunch giggle atom";
+var mnemonic = "hurt kick private next goose diary asset call nothing excite slam diagram";

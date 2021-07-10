@@ -1,1 +1,1 @@
-var mnemonic = "guard employ off own exhaust gauge advance summer aware feature quantum chicken";
+var mnemonic = "flock palace dismiss pupil pistol blue crew dish debris detail manual spend";

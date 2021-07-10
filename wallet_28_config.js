@@ -1,1 +1,1 @@
-var mnemonic = "cheap east author lobster exhibit peace stomach calm near oxygen olympic early";
+var mnemonic = "relief camera wire brave stuff egg mass first tackle rocket series retreat";

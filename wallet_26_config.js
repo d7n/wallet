@@ -1,1 +1,1 @@
-var mnemonic = "blade wide toward umbrella strong concert roast excite pretty wealth current another";
+var mnemonic = "require copper palm then donate hungry asthma stereo bitter crew hand occur";

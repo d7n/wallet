@@ -1,1 +1,1 @@
-var mnemonic = "tag merry gift miss duck mushroom detail index silent inspire funny guess";
+var mnemonic = "baby equal insect puppy armed sunny paper burger cinnamon destroy category dash";

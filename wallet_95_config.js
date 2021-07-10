@@ -1,1 +1,1 @@
-var mnemonic = "exist wise remove survey fortune lawn unknown edit voyage manual utility satisfy";
+var mnemonic = "arrest situate shield squeeze reward donkey smoke execute spoil recycle beach hamster";

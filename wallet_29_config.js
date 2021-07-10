@@ -1,1 +1,1 @@
-var mnemonic = "mind inherit scale dream bright snake volcano crucial resemble material key panda";
+var mnemonic = "credit gossip damage finger burger soon hard neutral pause drip leg chunk";

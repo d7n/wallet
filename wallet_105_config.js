@@ -1,1 +1,1 @@
-var mnemonic = "dune view blouse foster judge distance object hurdle material eagle arrive latin";
+var mnemonic = "eyebrow abstract hurdle dwarf jewel neglect hint truly law pencil front dial";

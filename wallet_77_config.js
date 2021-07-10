@@ -1,1 +1,1 @@
-var mnemonic = "quality sadness catch village gap butter slot crew divert pledge retire juice";
+var mnemonic = "pudding verify entire remove skull what brown fuel axis humble maid nice";

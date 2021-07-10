@@ -1,1 +1,1 @@
-var mnemonic = "relax poem morning when habit whip fall rich top casino correct tennis";
+var mnemonic = "deny save reform idle knife claim fall ripple cross river already slab";

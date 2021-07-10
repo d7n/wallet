@@ -1,1 +1,1 @@
-var mnemonic = "present knee wave hen pact bitter bomb core leisure dragon volume little";
+var mnemonic = "discover silent satoshi casino mule weird wheat toward wage unable brass lobster";
