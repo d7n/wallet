@@ -1,1 +1,1 @@
-var mnemonic = "charge over ghost soup clean machine month grit legend abstract crush green";
+var mnemonic = "cargo youth phone pencil assume danger armed page avoid fox crisp click";

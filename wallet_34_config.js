@@ -1,1 +1,1 @@
-var mnemonic = "census december fat enemy staff save gallery glare skate during matrix until";
+var mnemonic = "beauty stereo state cupboard faculty stamp social hand coast grain armed great";

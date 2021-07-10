@@ -1,1 +1,1 @@
-var mnemonic = "jealous alley receive invest heart gentle treat brush design exchange mesh filter";
+var mnemonic = "raise cupboard crunch stool stay blame casual invest three retire farm avocado";

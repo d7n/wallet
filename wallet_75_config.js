@@ -1,1 +1,1 @@
-var mnemonic = "say ethics toy produce lab edit bright prize time tragic emotion raw";
+var mnemonic = "marriage age giraffe obey interest elbow certain delay kitten nephew taxi tip";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado weasel hour milk figure juice argue one pepper disagree income surround";
+var mnemonic = "jealous kite feature anxiety pigeon person secret regret mirror jelly endless abandon";

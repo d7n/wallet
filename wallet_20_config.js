@@ -1,1 +1,1 @@
-var mnemonic = "wing key three mask learn just relief afraid ranch good script assist";
+var mnemonic = "kick novel fat return pretty broken mention vapor off local champion toddler";

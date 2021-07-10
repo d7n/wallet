@@ -1,1 +1,1 @@
-var mnemonic = "sponsor myself saddle welcome fence focus fan rigid volume device citizen wall";
+var mnemonic = "people profit cash life increase sadness lady enhance clever sure midnight blanket";

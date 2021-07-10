@@ -1,1 +1,1 @@
-var mnemonic = "ball eight industry coin kiwi either mail moral dream appear cube truly";
+var mnemonic = "test clown zebra citizen similar zoo point recipe scan order thank asthma";

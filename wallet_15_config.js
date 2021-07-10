@@ -1,1 +1,1 @@
-var mnemonic = "crash deny green basket airport twin seminar thought lumber around silly drama";
+var mnemonic = "ketchup library install tissue hawk replace ball solid chronic sort crane piece";

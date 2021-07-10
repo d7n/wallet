@@ -1,1 +1,1 @@
-var mnemonic = "barely trust luxury vast ivory head knee trade evolve enough first snake";
+var mnemonic = "palace pledge figure unfair dial manual bracket laptop tunnel view super dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "flee ostrich cart picture error rural maple gesture pet refuse correct divert";
+var mnemonic = "school cherry fabric produce inform wait loan short weird strategy truck same";

@@ -1,1 +1,1 @@
-var mnemonic = "brown wedding churn buddy session unusual double disorder buyer ripple salute reunion";
+var mnemonic = "space alone hospital boat cricket drum dinosaur champion frog embark assist occur";

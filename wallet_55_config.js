@@ -1,1 +1,1 @@
-var mnemonic = "today appear chair seed air senior start ethics produce vintage service horse";
+var mnemonic = "utility output limit cushion blue agree enlist truly purse market enter equal";

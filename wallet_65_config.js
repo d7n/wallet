@@ -1,1 +1,1 @@
-var mnemonic = "fiction federal month rescue glory floor ordinary ticket lift young cause oblige";
+var mnemonic = "dizzy pledge traffic enter matter pottery town seed defense enforce hole sun";

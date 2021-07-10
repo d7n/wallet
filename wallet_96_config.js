@@ -1,1 +1,1 @@
-var mnemonic = "alley buddy name chapter almost twist such fossil left bundle shallow decide";
+var mnemonic = "become dignity claw produce gentle canyon special joy pledge rug copy erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "spring lady favorite antenna cinnamon swallow elder awake urge crouch stairs cruel";
+var mnemonic = "trade pond fatal amazing magnet surface supreme this model spike mouse breeze";

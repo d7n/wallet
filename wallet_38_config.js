@@ -1,1 +1,1 @@
-var mnemonic = "matter sniff surge crouch forget company swim pull sad misery wet trip";
+var mnemonic = "verb torch wheel rather add royal cage hunt hello fox knife rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis shift diary police dinner matrix pave demise venue sock brand repeat";
+var mnemonic = "fiscal warfare token kidney decrease despair silent today effort theory mask fiber";

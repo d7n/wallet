@@ -1,1 +1,1 @@
-var mnemonic = "lake river absorb play ginger common record desk device prosper web major";
+var mnemonic = "profit fancy million alter quick tunnel dynamic name seed side acoustic hospital";

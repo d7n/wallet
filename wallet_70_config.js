@@ -1,1 +1,1 @@
-var mnemonic = "identify collect hundred cart public thought system box luxury mango liar upset";
+var mnemonic = "make now glass cement butter galaxy meadow rebel frozen diesel control result";

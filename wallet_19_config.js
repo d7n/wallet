@@ -1,1 +1,1 @@
-var mnemonic = "rose local stable badge ghost blanket rabbit double immense fat own issue";
+var mnemonic = "false install label trash provide make castle catch jeans leave kiwi task";

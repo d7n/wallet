@@ -1,1 +1,1 @@
-var mnemonic = "clutch acid grace smile square north cup corn flavor roof excess humble";
+var mnemonic = "asset copy quantum trial actress link van street glove woman render dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge process mean enough art certain usual casino hundred mistake quantum choose";
+var mnemonic = "approve display worry glass strike vicious play resist glad early seek notable";

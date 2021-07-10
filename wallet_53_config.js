@@ -1,1 +1,1 @@
-var mnemonic = "exist capital fuel length shell junior minor fade attitude tomato gather tooth";
+var mnemonic = "place camp imitate pole cradle genius mushroom improve belt blush lock cabbage";

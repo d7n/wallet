@@ -1,1 +1,1 @@
-var mnemonic = "erosion track easily cotton zero orange shift curve twenty oxygen lawsuit position";
+var mnemonic = "deer daring hedgehog leaf pilot parent cat stick verb ask gauge tilt";

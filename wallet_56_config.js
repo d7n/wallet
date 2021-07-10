@@ -1,1 +1,1 @@
-var mnemonic = "sun solve goose ill armor develop absent kingdom oval race view gallery";
+var mnemonic = "weather pigeon vapor build school shop snake shop memory bargain elegant antique";

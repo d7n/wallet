@@ -1,1 +1,1 @@
-var mnemonic = "honey disease warfare toward flash milk car sting ignore apart polar elevator";
+var mnemonic = "card jeans vacant human broken engine daring image fork secret area ignore";

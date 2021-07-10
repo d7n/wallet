@@ -1,1 +1,1 @@
-var mnemonic = "invite flight interest dry usage include tissue choice pet camera record tray";
+var mnemonic = "slice summer fitness relief upset place toilet patch empower egg twist peasant";

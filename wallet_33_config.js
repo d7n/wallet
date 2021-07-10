@@ -1,1 +1,1 @@
-var mnemonic = "ordinary stem prize harbor small fluid have light candy argue skill knee";
+var mnemonic = "just ill prepare inflict grit potato trade travel onion turn flash sauce";

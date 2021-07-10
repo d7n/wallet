@@ -1,1 +1,1 @@
-var mnemonic = "pig road fold post twenty impact grain shield energy bitter suffer embody";
+var mnemonic = "device swarm shiver close coach belt fashion harbor pipe pole diet crater";

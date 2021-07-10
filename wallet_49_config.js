@@ -1,1 +1,1 @@
-var mnemonic = "caution someone route spoon unique spring bike lens wrestle device pride thought";
+var mnemonic = "farm zoo liberty awesome fever attend dial vehicle turtle man add upset";

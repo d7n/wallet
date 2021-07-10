@@ -1,1 +1,1 @@
-var mnemonic = "tiger ball outer birth bring cram also pupil novel wolf since mail";
+var mnemonic = "box vivid fence vendor evil hold huge actual crane jealous retreat obvious";

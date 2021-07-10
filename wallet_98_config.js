@@ -1,1 +1,1 @@
-var mnemonic = "tent boil loyal section video sudden wolf special shield oven blade shield";
+var mnemonic = "treat member isolate ship smooth major three credit level final escape call";

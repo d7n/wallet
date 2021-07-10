@@ -1,1 +1,1 @@
-var mnemonic = "attitude monster business strong beef smile music affair gadget envelope erosion strike";
+var mnemonic = "nature caught current speed urge mercy panther menu debris fly mind burden";

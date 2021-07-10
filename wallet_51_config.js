@@ -1,1 +1,1 @@
-var mnemonic = "orphan frame cereal visual final zoo invest tray sail return slot age";
+var mnemonic = "visa crew awake traffic hundred oval push shop degree push bread decide";

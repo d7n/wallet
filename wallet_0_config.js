@@ -1,1 +1,1 @@
-var mnemonic = "inmate abuse banana bike slice alone aisle honey another popular hurdle merge";
+var mnemonic = "fence task silk fix drink agree that seminar give cancel alley screen";

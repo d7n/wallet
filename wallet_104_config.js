@@ -1,1 +1,1 @@
-var mnemonic = "novel gospel cruel wrong program multiply eager ready zoo card film eight";
+var mnemonic = "crunch siege rigid valve differ rally bone abstract vibrant stumble fossil hour";

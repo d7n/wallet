@@ -1,1 +1,1 @@
-var mnemonic = "differ welcome bridge illness fence seek replace acoustic horror maid priority quick";
+var mnemonic = "acquire toward common utility child absent tired romance now antenna visit cruise";

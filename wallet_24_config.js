@@ -1,1 +1,1 @@
-var mnemonic = "absurd protect evil wedding endorse river poet result endorse arm ginger brand";
+var mnemonic = "trouble turkey charge negative access open brush board fault crucial swing pull";

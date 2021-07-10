@@ -1,1 +1,1 @@
-var mnemonic = "border creek clock junk artwork side wish orient maple whisper type swing";
+var mnemonic = "gorilla indicate twist ability opera length hockey market air custom betray dutch";

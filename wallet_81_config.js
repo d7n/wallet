@@ -1,1 +1,1 @@
-var mnemonic = "select brick risk sound miracle zero velvet rack jacket relax slogan sight";
+var mnemonic = "deputy pistol foster source prevent exotic salute tribe employ toilet pelican citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise remind castle miracle option engine awkward barrel frequent soccer crunch latin";
+var mnemonic = "fancy labor broken goat length load twice snow diet above evoke evolve";

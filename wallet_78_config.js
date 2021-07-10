@@ -1,1 +1,1 @@
-var mnemonic = "arch moment search maze skirt session apology quote sword miracle dizzy stem";
+var mnemonic = "fork receive total rocket tonight code pink ketchup dwarf fluid apart gaze";

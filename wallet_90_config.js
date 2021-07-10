@@ -1,1 +1,1 @@
-var mnemonic = "sketch screen anger vibrant hour domain enable pipe remove remain pet inform";
+var mnemonic = "satoshi steel satoshi security vicious clump unit wave maid twenty cat receive";

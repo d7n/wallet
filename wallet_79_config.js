@@ -1,1 +1,1 @@
-var mnemonic = "slab useless volcano burger reform once lonely leisure feature record swift sample";
+var mnemonic = "nasty mushroom short mind pact razor lab glide race fancy peace elegant";

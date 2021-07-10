@@ -1,1 +1,1 @@
-var mnemonic = "foam salute swap pulp cat century device surge apple lawsuit search bundle";
+var mnemonic = "snow avocado ordinary client remember buzz near laugh sun delay hat march";

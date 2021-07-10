@@ -1,1 +1,1 @@
-var mnemonic = "sorry turn proud enlist table tooth faint barely arena ivory park coconut";
+var mnemonic = "shiver balcony mechanic amount smile cargo chicken message patch apology human soccer";

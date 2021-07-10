@@ -1,1 +1,1 @@
-var mnemonic = "table unique vintage grit force loyal window dash naive giggle claim pelican";
+var mnemonic = "build ordinary cotton vehicle involve country double cover never sad brave filter";

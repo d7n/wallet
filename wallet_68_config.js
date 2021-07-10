@@ -1,1 +1,1 @@
-var mnemonic = "split tobacco skill guard volume coral loan knock mass neck ignore satisfy";
+var mnemonic = "donkey worry grocery fun want cream inspire satoshi matter ball donor coconut";

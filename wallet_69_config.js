@@ -1,1 +1,1 @@
-var mnemonic = "erupt rail humble various believe group garage situate trash sail carpet parade";
+var mnemonic = "game buffalo mimic program van power lyrics toss prize wait result hard";

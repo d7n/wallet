@@ -1,1 +1,1 @@
-var mnemonic = "onion deny position what power ceiling off kite mobile hint decline educate";
+var mnemonic = "above sport tortoise unlock plate entire dry tone choice slight local clean";

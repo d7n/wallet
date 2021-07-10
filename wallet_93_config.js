@@ -1,1 +1,1 @@
-var mnemonic = "laundry noble sleep lemon people job pizza case wagon someone best bench";
+var mnemonic = "faint world elite race shy race review satisfy very pipe struggle pottery";

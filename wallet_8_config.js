@@ -1,1 +1,1 @@
-var mnemonic = "snack actual merry series family carry property park lunch portion holiday pride";
+var mnemonic = "bullet nut hollow about violin hospital shadow dentist portion winner blood sun";

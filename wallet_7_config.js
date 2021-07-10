@@ -1,1 +1,1 @@
-var mnemonic = "betray brush defy bachelor matrix able please extend practice vicious artefact almost";
+var mnemonic = "later dune cinnamon exact vote goat tag strike vault nominee super grass";

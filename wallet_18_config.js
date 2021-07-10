@@ -1,1 +1,1 @@
-var mnemonic = "discover judge nose evoke hope talent segment animal clever seed sausage naive";
+var mnemonic = "clip game knee mouse ability industry good spider mesh smooth example prefer";

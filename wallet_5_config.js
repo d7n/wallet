@@ -1,1 +1,1 @@
-var mnemonic = "rebuild game fluid casino spin develop grief effort hire rural betray burger";
+var mnemonic = "novel lucky occur garbage inner barely loud truck quote pig grape harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "nice hammer ski marriage switch erase sketch favorite shed video boost tiger";
+var mnemonic = "pause gesture merry manual rich narrow detect company double split parent catalog";

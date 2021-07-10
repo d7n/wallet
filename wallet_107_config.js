@@ -1,1 +1,1 @@
-var mnemonic = "habit awful approve debate helmet voyage tomato scale popular walnut charge inflict";
+var mnemonic = "antenna code pen zone theme luxury fee aisle kingdom have dish random";

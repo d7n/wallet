@@ -1,1 +1,1 @@
-var mnemonic = "mad zone page under unfair lend custom course monitor wool scare service";
+var mnemonic = "quarter razor measure wise portion enforce educate oval wisdom legal arrest check";

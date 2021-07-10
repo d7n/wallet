@@ -1,1 +1,1 @@
-var mnemonic = "beef whisper today mesh box place reunion citizen giggle online eagle host";
+var mnemonic = "catalog noise diamond candy pair ready spoil unveil true across toddler net";

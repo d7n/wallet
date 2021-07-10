@@ -1,1 +1,1 @@
-var mnemonic = "ranch forward segment list sausage romance meat funny oval false genius gather";
+var mnemonic = "problem also mask spin skill glass bring language become strong axis lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum language basket legal exact glory unfair hundred acoustic change phone diagram";
+var mnemonic = "idle medal fabric planet fancy lucky yard hammer cruise friend turn shuffle";

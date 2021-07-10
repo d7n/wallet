@@ -1,1 +1,1 @@
-var mnemonic = "skill derive blood dinner hockey feature inherit control cereal field program post";
+var mnemonic = "ladder shine across mule owner sleep earth skin cliff payment gravity choose";

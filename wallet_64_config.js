@@ -1,1 +1,1 @@
-var mnemonic = "demise math night model predict solution muffin feature talent jealous bone hawk";
+var mnemonic = "raccoon label picnic casino mixed make palm fiber measure blouse torch labor";

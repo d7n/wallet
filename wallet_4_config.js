@@ -1,1 +1,1 @@
-var mnemonic = "unaware surround toast vault harsh wrist share install remain spray bicycle harbor";
+var mnemonic = "blush goat airport bright barrel butter secret bike witness swift index online";

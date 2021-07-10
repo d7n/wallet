@@ -1,1 +1,1 @@
-var mnemonic = "snake parent deposit repeat pill lizard belt fatigue oyster typical harsh flip";
+var mnemonic = "vibrant glue veteran flock smooth midnight accuse account kiss miss stone afraid";

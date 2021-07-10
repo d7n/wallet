@@ -1,1 +1,1 @@
-var mnemonic = "behind copper safe autumn wedding paddle color sniff route labor number mobile";
+var mnemonic = "chair quality shop surge garden beach human employ debris head donate pitch";

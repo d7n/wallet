@@ -1,1 +1,1 @@
-var mnemonic = "depth brisk dust upset fan hope throw midnight wool page upper name";
+var mnemonic = "together bullet limb cloud addict usual lucky wheat vault today enter dizzy";

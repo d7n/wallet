@@ -1,1 +1,1 @@
-var mnemonic = "puzzle steak genius grid elite feature fold veteran anger acoustic naive arctic";
+var mnemonic = "setup resource answer night blossom sound moral pluck identify chat nerve lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "night budget relief welcome calm repeat summer child solve bulb banner dizzy";
+var mnemonic = "soul unknown rail balance canyon squirrel near blouse fish opinion pulp middle";

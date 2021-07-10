@@ -1,1 +1,1 @@
-var mnemonic = "police muffin diamond carry toy egg they basket special gaze neither dutch";
+var mnemonic = "rude just pool tooth announce color culture cinnamon cycle match amount equal";

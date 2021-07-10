@@ -1,1 +1,1 @@
-var mnemonic = "trouble daughter inch focus slice embody humble boil believe what push motion";
+var mnemonic = "they fresh hint speed nephew industry when uncle gold hire clinic index";

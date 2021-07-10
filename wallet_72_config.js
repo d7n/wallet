@@ -1,1 +1,1 @@
-var mnemonic = "imitate unable music plate coyote claim taxi arrest force ripple quantum document";
+var mnemonic = "brave attack recall phone daring envelope antique toss label scale verify silver";

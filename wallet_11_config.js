@@ -1,1 +1,1 @@
-var mnemonic = "recycle butter desert adult float quote damp treat roof stamp above sniff";
+var mnemonic = "better dignity midnight hero world arena indoor limit prefer owner stuff attend";

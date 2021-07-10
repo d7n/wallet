@@ -1,1 +1,1 @@
-var mnemonic = "demise weather motor claw battle home point antique chaos hunt famous dry";
+var mnemonic = "pond total pilot exist devote cry stool accuse slide profit join drama";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual dance episode hobby salmon gesture equip start cover current rather sauce";
+var mnemonic = "mistake anger example parade auto sustain image warrior pretty piece gravity practice";

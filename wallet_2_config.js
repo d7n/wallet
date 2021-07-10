@@ -1,1 +1,1 @@
-var mnemonic = "vast december word obscure multiply giant nerve cotton tornado sell noble yard";
+var mnemonic = "spell jeans ordinary reopen right luggage turn walk add card smile strike";

@@ -1,1 +1,1 @@
-var mnemonic = "border elevator infant sponsor argue kangaroo cabbage submit dawn art moment trip";
+var mnemonic = "salon situate result retire cluster image recipe ceiling anchor total hotel slab";

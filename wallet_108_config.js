@@ -1,1 +1,1 @@
-var mnemonic = "update property cruise exclude amused ritual theme air pool sugar industry burden";
+var mnemonic = "buffalo virtual rival prepare reveal snack leg curve snake young spray harsh";

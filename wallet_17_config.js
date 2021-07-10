@@ -1,1 +1,1 @@
-var mnemonic = "shoot badge tomorrow suit student what nation boat address gossip cruise artwork";
+var mnemonic = "use swap unknown want change alley suit abandon height wheel bid subject";

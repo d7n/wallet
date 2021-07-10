@@ -1,1 +1,1 @@
-var mnemonic = "term useful know awkward notice hurt chuckle junior deal box firm journey";
+var mnemonic = "fortune fluid tenant salute abandon learn broom pond enjoy cluster supply proud";

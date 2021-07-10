@@ -1,1 +1,1 @@
-var mnemonic = "rent clay art screen only input short injury wine flight door they";
+var mnemonic = "friend mixed fold forget similar depth result then rigid love tail cram";

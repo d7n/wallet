@@ -1,1 +1,1 @@
-var mnemonic = "urban begin become flight afraid outside purity twist cake bless trick luggage";
+var mnemonic = "volume claw sound write collect relief blood attack cube million coast citizen";

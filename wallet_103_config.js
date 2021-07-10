@@ -1,1 +1,1 @@
-var mnemonic = "husband loop calm plastic sketch near valid mix frost kite chat scare";
+var mnemonic = "risk post ready stamp all render illness guilt file tiger use shield";

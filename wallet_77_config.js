@@ -1,1 +1,1 @@
-var mnemonic = "hazard soldier remove lizard loud clip help double blue cargo bubble adjust";
+var mnemonic = "cinnamon occur promote shrug pattern pipe swarm nature tide brown hire undo";

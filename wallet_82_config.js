@@ -1,1 +1,1 @@
-var mnemonic = "help short cost garbage valley load firm year link rose outdoor donate";
+var mnemonic = "ticket paper thought inquiry turtle strategy execute senior raise transfer acoustic laptop";

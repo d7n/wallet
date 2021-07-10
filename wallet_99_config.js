@@ -1,1 +1,1 @@
-var mnemonic = "advice wage thunder spot hint chuckle involve coyote resource wage pencil breeze";
+var mnemonic = "harsh fun salmon hollow donate crash spawn general case coconut buyer eyebrow";

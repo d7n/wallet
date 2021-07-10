@@ -1,1 +1,1 @@
-var mnemonic = "movie calm narrow leisure gauge fatal elbow torch fox dizzy staff memory";
+var mnemonic = "pistol tone skill immense angry enemy wrestle twelve control orphan vintage pony";

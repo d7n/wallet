@@ -1,1 +1,1 @@
-var mnemonic = "news cave thrive lottery card ginger thought voyage knock critic venue wheat";
+var mnemonic = "lazy black slice churn age dolphin icon pride crazy charge opera used";

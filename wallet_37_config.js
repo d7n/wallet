@@ -1,1 +1,1 @@
-var mnemonic = "motor large hamster friend inner plug night mirror appear crazy host push";
+var mnemonic = "accident have item spray police wine alarm essence issue garlic slice found";

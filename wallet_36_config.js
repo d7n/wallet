@@ -1,1 +1,1 @@
-var mnemonic = "much crisp stage flash artefact evidence nurse tilt year scale liar bench";
+var mnemonic = "swarm arrow home coyote total fuel uphold rough hurry dizzy plate yellow";

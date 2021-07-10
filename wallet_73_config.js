@@ -1,1 +1,1 @@
-var mnemonic = "forest second later blade latin skate over tenant glare movie rent live";
+var mnemonic = "fever poem hip addict outside ecology sting spoon fox pen fatal betray";

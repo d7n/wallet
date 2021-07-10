@@ -1,1 +1,1 @@
-var mnemonic = "security phrase always easy liberty point doctor convince wrong invite april learn";
+var mnemonic = "predict bird black sail vote convince audit snake smart network cheese cherry";
