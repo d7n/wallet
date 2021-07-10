@@ -1,1 +1,1 @@
-var mnemonic = "near confirm again simple dilemma charge anxiety accuse fiber trade route zebra";
+var mnemonic = "prison expect east candy receive bonus rice busy intact waste addict sketch";

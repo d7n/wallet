@@ -1,1 +1,1 @@
-var mnemonic = "click fresh palm brother output leave stool hobby abuse fold leg sense";
+var mnemonic = "drum spin envelope same public trigger cloth soft invite history other diamond";

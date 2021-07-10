@@ -1,1 +1,1 @@
-var mnemonic = "merit wagon hire broccoli jewel forward feed wealth nothing fetch cherry jar";
+var mnemonic = "bone winter roof lion inspire unable surface ride large inform mosquito episode";

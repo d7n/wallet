@@ -1,1 +1,1 @@
-var mnemonic = "punch weasel scatter obey reflect improve ocean resemble apart victory three flee";
+var mnemonic = "help fatigue blood kitchen what anger barrel echo produce acoustic style notice";

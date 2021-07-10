@@ -1,1 +1,1 @@
-var mnemonic = "glide guilt jump leaf timber ketchup mercy pear gas swing razor pride";
+var mnemonic = "open horn pigeon crucial plastic surge useful better manage indicate shaft pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran never lens scrap lend canvas still inject library sea protect include";
+var mnemonic = "mean also egg august setup mimic negative control card short mixture news";

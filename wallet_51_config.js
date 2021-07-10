@@ -1,1 +1,1 @@
-var mnemonic = "stool snake flight shuffle section timber never lobster tomato post brick tobacco";
+var mnemonic = "often rich ill physical energy post clown dish impulse dinosaur addict start";

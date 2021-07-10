@@ -1,1 +1,1 @@
-var mnemonic = "deer circle addict gate pride donkey output auction legend beauty range bring";
+var mnemonic = "embrace useless craft board feel two cook impact fit much slice secret";

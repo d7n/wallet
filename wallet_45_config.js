@@ -1,1 +1,1 @@
-var mnemonic = "clinic duck phrase couple web casual speed divorce fan indoor decline stomach";
+var mnemonic = "move tribe pyramid invite maze lava box demise mask planet extra inhale";

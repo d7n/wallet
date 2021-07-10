@@ -1,1 +1,1 @@
-var mnemonic = "fossil angle unveil unlock junior hair tank bronze toy outside harsh start";
+var mnemonic = "debate diet sister quit huge end dizzy old evoke guitar climb slot";

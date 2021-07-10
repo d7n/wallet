@@ -1,1 +1,1 @@
-var mnemonic = "feel dove bike cube valid project hat rack ridge entry retire net";
+var mnemonic = "close domain visual fitness pledge cigar verify prison empower zone spin valley";

@@ -1,1 +1,1 @@
-var mnemonic = "index crisp fossil sea promote soccer notable meadow scissors claim grunt uncle";
+var mnemonic = "today moment magnet lock thrive priority document track raise lend typical term";

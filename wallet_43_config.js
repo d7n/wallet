@@ -1,1 +1,1 @@
-var mnemonic = "boost exclude toward desk horror person crew gift like kitchen practice train";
+var mnemonic = "together over retire seat analyst depth onion lobster mystery lunch exist share";

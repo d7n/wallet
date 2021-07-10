@@ -1,1 +1,1 @@
-var mnemonic = "burst oak struggle cage avocado ensure buddy anger length soul humor guide";
+var mnemonic = "owner vault used polar phrase position foil anger unknown master leopard bar";

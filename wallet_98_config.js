@@ -1,1 +1,1 @@
-var mnemonic = "good rail choice govern paddle small inflict home piece tumble name flame";
+var mnemonic = "crew orphan coil hard useful maple alley brother degree devote uncle person";

@@ -1,1 +1,1 @@
-var mnemonic = "web mutual shuffle connect run tiny solid cost furnace live also black";
+var mnemonic = "slow twice major celery addict quantum retreat rule cloth cereal enroll solar";

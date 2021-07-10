@@ -1,1 +1,1 @@
-var mnemonic = "faith alpha envelope search fly soap reward twin trigger piece must industry";
+var mnemonic = "rebel explain six skill syrup world ginger water inquiry tip odor minimum";

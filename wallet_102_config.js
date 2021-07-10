@@ -1,1 +1,1 @@
-var mnemonic = "attitude lesson void early prefer social venture fury expire shift junior dash";
+var mnemonic = "boost enjoy palace strong claw donkey door strategy tube wave stock noodle";

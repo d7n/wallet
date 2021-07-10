@@ -1,1 +1,1 @@
-var mnemonic = "humble rack interest pole fringe catch accuse report defy assist social hair";
+var mnemonic = "survey flock inside globe frost any drum ride wear nurse asthma move";

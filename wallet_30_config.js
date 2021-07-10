@@ -1,1 +1,1 @@
-var mnemonic = "repeat fire proof segment luggage lift amazing taste boil foil pupil clump";
+var mnemonic = "keen soap pass carpet palace day measure damage climb beyond chimney sudden";

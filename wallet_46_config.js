@@ -1,1 +1,1 @@
-var mnemonic = "vicious disagree blouse fruit embark equal critic ordinary bless announce razor orchard";
+var mnemonic = "salt access shift vocal sadness behave ritual exile hat hedgehog forum shrug";

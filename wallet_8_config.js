@@ -1,1 +1,1 @@
-var mnemonic = "music voyage draw upon borrow auction icon hour loud text file camera";
+var mnemonic = "duck original ordinary cradle pulp hobby quality nation chicken zero pistol bench";

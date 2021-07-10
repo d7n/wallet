@@ -1,1 +1,1 @@
-var mnemonic = "clump excuse teach category deliver kitchen abstract fitness taste spray jazz mechanic";
+var mnemonic = "congress vault embark unfold clump crystal giant man green traffic lion bulb";

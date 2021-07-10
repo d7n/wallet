@@ -1,1 +1,1 @@
-var mnemonic = "image property patrol hub stool job train wrist stereo fat poem suspect";
+var mnemonic = "motor sword spread spy thunder glory various today invite funny blame dance";

@@ -1,1 +1,1 @@
-var mnemonic = "height can section tower concert solve edge shoulder mask scrub resist suffer";
+var mnemonic = "nothing voice explain soap warm area trip half size joy emerge useless";

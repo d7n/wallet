@@ -1,1 +1,1 @@
-var mnemonic = "replace result since slot deer window life cross sunny duty urge couch";
+var mnemonic = "long gun lady sport link joke thing term yard curious hunt seat";

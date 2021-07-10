@@ -1,1 +1,1 @@
-var mnemonic = "fury act spoon eyebrow squirrel zone mention prefer ketchup satoshi jewel party";
+var mnemonic = "deal alien typical drastic voice method basic tank chimney current pizza same";

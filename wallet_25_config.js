@@ -1,1 +1,1 @@
-var mnemonic = "spoil scout few brand upon when merry together dice level method cross";
+var mnemonic = "rival issue pelican toddler apart cat oak slam repair borrow intact color";

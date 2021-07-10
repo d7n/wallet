@@ -1,1 +1,1 @@
-var mnemonic = "insane such become brass hurt dolphin follow crawl angle guide quick speed";
+var mnemonic = "exclude prize know sorry lonely way position axis video glove thank kitten";

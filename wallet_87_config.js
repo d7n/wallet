@@ -1,1 +1,1 @@
-var mnemonic = "cry guard woman uncle quantum inmate call reward bar roof verify silent";
+var mnemonic = "chief leisure shuffle milk bulk embrace rhythm unaware business unlock enemy despair";

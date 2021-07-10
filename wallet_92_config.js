@@ -1,1 +1,1 @@
-var mnemonic = "admit mirror bundle spare cherry ability jacket simple country figure spatial soon";
+var mnemonic = "depth mistake inside muffin nut crumble alien divert notable prepare smoke animal";

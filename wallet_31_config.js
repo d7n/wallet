@@ -1,1 +1,1 @@
-var mnemonic = "promote board uncover lazy jelly amount orchard globe program together admit cotton";
+var mnemonic = "year sword aim salute era name symbol shuffle crouch capital seven screen";

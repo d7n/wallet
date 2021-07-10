@@ -1,1 +1,1 @@
-var mnemonic = "state receive tip flame scan float pet report victory action uphold kidney";
+var mnemonic = "wool canyon problem nasty cash near dwarf like shoot now giant make";

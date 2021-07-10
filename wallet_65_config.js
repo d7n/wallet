@@ -1,1 +1,1 @@
-var mnemonic = "candy eight book produce steak finger derive method edit reduce before stumble";
+var mnemonic = "space equip beef chaos autumn senior wide engine cement mammal document zone";

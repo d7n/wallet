@@ -1,1 +1,1 @@
-var mnemonic = "promote prosper logic split ordinary approve lock gossip suggest injury transfer zebra";
+var mnemonic = "remain leave witness either derive boy goddess note sport search buffalo seek";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics gloom aunt predict group expect genuine link total click learn time";
+var mnemonic = "wish walnut movie core bus phone mention prefer estate idea split umbrella";

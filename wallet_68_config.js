@@ -1,1 +1,1 @@
-var mnemonic = "stock brand gown interest strike park summer alter upgrade talk empower fine";
+var mnemonic = "reward memory alcohol bicycle abuse certain fiction achieve law gentle barrel help";

@@ -1,1 +1,1 @@
-var mnemonic = "steel one nerve three chapter obtain sunny maximum valley thrive man cable";
+var mnemonic = "deer forum alien salt below plastic admit mass insane drink mammal catch";

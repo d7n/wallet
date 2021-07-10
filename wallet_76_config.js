@@ -1,1 +1,1 @@
-var mnemonic = "obey easy bar have oxygen bacon mechanic goddess rude destroy guilt maple";
+var mnemonic = "trick shove hawk jeans liquid ketchup undo brick arrest half secret vintage";

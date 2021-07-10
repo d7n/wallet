@@ -1,1 +1,1 @@
-var mnemonic = "clown snack worth behind diary captain august error man dish diesel refuse";
+var mnemonic = "myself giant bottom bus trap bike various riot outside armor leg sock";

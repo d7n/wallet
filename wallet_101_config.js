@@ -1,1 +1,1 @@
-var mnemonic = "gauge spell figure slogan cave divide cash absent theme host tail actor";
+var mnemonic = "window demise bird region sail produce ketchup rug wish calm wire sister";

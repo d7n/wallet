@@ -1,1 +1,1 @@
-var mnemonic = "swap upgrade exotic toddler relax derive safe clog come want typical alarm";
+var mnemonic = "toilet pulp isolate runway engage clock fan similar orphan noble credit distance";

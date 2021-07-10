@@ -1,1 +1,1 @@
-var mnemonic = "tenant pigeon veteran vital require blouse grant suspect gym shaft cause extend";
+var mnemonic = "check cost rich gather accident tip split limb pill market frequent favorite";

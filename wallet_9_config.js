@@ -1,1 +1,1 @@
-var mnemonic = "burden detail wonder found ripple behave bone paddle universe camera cement quantum";
+var mnemonic = "hazard alone deposit goddess roof damp divide media resource night ankle spread";

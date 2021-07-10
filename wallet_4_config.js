@@ -1,1 +1,1 @@
-var mnemonic = "exhibit will frown either fabric hello hedgehog lonely wood innocent seek purity";
+var mnemonic = "retire climb typical culture family current large music loud fix tennis match";

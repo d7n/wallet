@@ -1,1 +1,1 @@
-var mnemonic = "just robust luggage lava direct cricket discover visit alcohol result hero slogan";
+var mnemonic = "fun ethics rug short borrow project wisdom sleep diamond laptop vicious club";

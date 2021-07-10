@@ -1,1 +1,1 @@
-var mnemonic = "announce couch polar prepare pipe among until stairs card cause close depart";
+var mnemonic = "nose minute object wait thank depth film awake observe forest private tattoo";

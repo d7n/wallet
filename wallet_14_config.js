@@ -1,1 +1,1 @@
-var mnemonic = "joke damp inform wear grape concert coast sunny rabbit attend bridge version";
+var mnemonic = "name employ hood upper liar hawk win evil tower bachelor rural mean";

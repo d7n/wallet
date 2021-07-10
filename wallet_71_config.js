@@ -1,1 +1,1 @@
-var mnemonic = "adult woman initial combine live dwarf large online february quality pink topple";
+var mnemonic = "soul draft unable unfold news glove sign frog leopard pepper kidney noise";

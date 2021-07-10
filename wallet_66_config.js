@@ -1,1 +1,1 @@
-var mnemonic = "issue either dad short horse announce almost kind shoe nominee reflect tiger";
+var mnemonic = "balance observe cherry dumb bleak occur alpha pupil trade hungry kiss motor";

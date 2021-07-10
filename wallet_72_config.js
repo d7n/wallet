@@ -1,1 +1,1 @@
-var mnemonic = "drill bottom core small elder knife floor stock exhibit pair grocery imitate";
+var mnemonic = "solution early luggage robot visit people valve giraffe pioneer again impose oppose";

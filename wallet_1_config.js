@@ -1,1 +1,1 @@
-var mnemonic = "snake blood excuse surge village cube asset robot follow busy switch museum";
+var mnemonic = "present plastic brown rescue road common absorb yard medal bicycle brief capital";

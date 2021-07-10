@@ -1,1 +1,1 @@
-var mnemonic = "flip height hamster pigeon ahead huge among upgrade fatal hungry such genre";
+var mnemonic = "basket gossip skill useless three copper soccer merge march brain copy above";

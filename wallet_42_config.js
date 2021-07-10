@@ -1,1 +1,1 @@
-var mnemonic = "decide position humor party mosquito decline panther help oxygen basket two frown";
+var mnemonic = "cushion final process action absurd satoshi bar light save add sample grain";

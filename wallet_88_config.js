@@ -1,1 +1,1 @@
-var mnemonic = "this decrease museum rally pilot taste sorry slush want angry define day";
+var mnemonic = "review atom million truth code disease play brand learn govern puppy hundred";

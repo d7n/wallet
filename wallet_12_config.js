@@ -1,1 +1,1 @@
-var mnemonic = "half execute magic solar want company globe hurdle morning parrot custom nurse";
+var mnemonic = "begin assist hamster print mention assault cat shy blanket uniform color dream";

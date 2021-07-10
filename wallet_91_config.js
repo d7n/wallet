@@ -1,1 +1,1 @@
-var mnemonic = "bomb trick illegal walk depend basket twin wisdom speed prize dismiss renew";
+var mnemonic = "eyebrow wise wisdom twist analyst east lock two transfer beyond mandate push";

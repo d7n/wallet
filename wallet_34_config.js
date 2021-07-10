@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog knee thank enter wash theory awful awake turn collect slow size";
+var mnemonic = "embody swap surprise imitate piece unique claw insect view drink parent slogan";

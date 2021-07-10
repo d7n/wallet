@@ -1,1 +1,1 @@
-var mnemonic = "cheap bulb stock pizza visit buyer agent total fuel happy utility federal";
+var mnemonic = "position target drill frost refuse flat ten destroy marriage ski mushroom outdoor";

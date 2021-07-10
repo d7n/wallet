@@ -1,1 +1,1 @@
-var mnemonic = "dose latin badge letter grunt balcony cabbage gadget minimum midnight weather defense";
+var mnemonic = "pill cable square domain salt scissors inner master monster tool drastic smoke";

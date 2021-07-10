@@ -1,1 +1,1 @@
-var mnemonic = "unveil laugh pretty field utility spoon grain sample stereo apart lazy mercy";
+var mnemonic = "two scare wet cousin tank clown wagon bicycle design jar seminar piano";

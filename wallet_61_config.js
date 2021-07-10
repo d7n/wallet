@@ -1,1 +1,1 @@
-var mnemonic = "kid glove smooth ribbon coil caught what raise scatter panda obscure jump";
+var mnemonic = "noise grape ecology penalty sheriff video onion lawn remove wrist topic knee";

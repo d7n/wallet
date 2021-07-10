@@ -1,1 +1,1 @@
-var mnemonic = "solid hazard author dirt film interest sail buyer gown someone salon galaxy";
+var mnemonic = "foot safe donor caught wise demand force awake garment gap broken citizen";

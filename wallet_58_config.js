@@ -1,1 +1,1 @@
-var mnemonic = "pave humble grocery will luxury unaware prosper walk bulk concert pulp cannon";
+var mnemonic = "raw yard fatigue oak genre ketchup forget fitness cost knife infant cabbage";

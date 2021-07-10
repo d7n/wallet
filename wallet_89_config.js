@@ -1,1 +1,1 @@
-var mnemonic = "tail turkey mutual capable atom cliff profit ribbon clip drink juice broken";
+var mnemonic = "core knee rigid race jungle quiz arch soul stumble list skin beach";

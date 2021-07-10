@@ -1,1 +1,1 @@
-var mnemonic = "source daughter reunion whale diary absent bounce arctic spin enable economy orange";
+var mnemonic = "core anxiety keep patch cheap tuna forget wear sick tell chicken warfare";

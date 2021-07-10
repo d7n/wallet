@@ -1,1 +1,1 @@
-var mnemonic = "proof fossil cluster focus boy wait cube adult burst normal day present";
+var mnemonic = "always autumn pause copper pioneer grow ahead teach lawn push baby shallow";

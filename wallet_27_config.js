@@ -1,1 +1,1 @@
-var mnemonic = "pulse tackle metal oyster disease galaxy surface curious journey step flip uphold";
+var mnemonic = "paper math hood hover series fine decide broken summer live enter valley";

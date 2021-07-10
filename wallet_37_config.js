@@ -1,1 +1,1 @@
-var mnemonic = "army subway acoustic glow truly chat mango box tattoo defense rib kangaroo";
+var mnemonic = "brief rug diary rent grow glory bean spin juice soup tip tomorrow";

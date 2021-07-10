@@ -1,1 +1,1 @@
-var mnemonic = "bacon arm pen level athlete tuition heavy guide forest post jazz grunt";
+var mnemonic = "trap love danger insect device mandate toss capital define what rescue width";

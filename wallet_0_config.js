@@ -1,1 +1,1 @@
-var mnemonic = "embrace virus narrow fever frozen remind citizen glory eyebrow cute marine essay";
+var mnemonic = "during dad hello day scene type garment tip bubble today cry vague";

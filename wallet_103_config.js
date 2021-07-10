@@ -1,1 +1,1 @@
-var mnemonic = "brick ostrich sunset there example fee program easy eagle recycle hub dilemma";
+var mnemonic = "strong blast science hill dentist leader message want govern skill real awake";

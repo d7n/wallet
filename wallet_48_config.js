@@ -1,1 +1,1 @@
-var mnemonic = "muscle powder ghost ready anger grab debris sister remain cattle peace canvas";
+var mnemonic = "dentist rifle dwarf rebel odor air chuckle silly agent hat rude save";

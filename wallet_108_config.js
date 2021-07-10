@@ -1,1 +1,1 @@
-var mnemonic = "wise skate fashion turkey exile shove worry purchase any kidney crane adjust";
+var mnemonic = "occur target demand excess mushroom admit truck view used spring salute correct";

@@ -1,1 +1,1 @@
-var mnemonic = "theme merge zone skill sheriff pear major quantum dizzy able lizard rich";
+var mnemonic = "receive barely caught town evolve festival any laugh gift vehicle joy canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond control best avoid luxury sure anchor flash tell cancel main always";
+var mnemonic = "under strategy cargo assault mule tunnel apple derive balcony clever crucial mutual";

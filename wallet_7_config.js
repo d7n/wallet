@@ -1,1 +1,1 @@
-var mnemonic = "security special involve shrug goose feel series detect ball smart toilet auto";
+var mnemonic = "swamp front cream clutch donor flame differ float science vague talent usual";

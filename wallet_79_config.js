@@ -1,1 +1,1 @@
-var mnemonic = "simple quarter october size bitter twin supreme define order lawsuit valid cancel";
+var mnemonic = "club point erase long auto secret vintage fruit original lunar fresh sort";

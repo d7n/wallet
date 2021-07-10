@@ -1,1 +1,1 @@
-var mnemonic = "squeeze that lamp borrow state birth where enable visual bid task shuffle";
+var mnemonic = "arrow faint slide old laundry world sausage powder poet squirrel fatal rack";

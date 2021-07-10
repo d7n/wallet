@@ -1,1 +1,1 @@
-var mnemonic = "age road wedding pelican close crucial doll lucky virtual merry road corn";
+var mnemonic = "cereal opinion deliver payment method insect valid pumpkin reveal retreat desk force";

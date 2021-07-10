@@ -1,1 +1,1 @@
-var mnemonic = "home image deny senior comfort stomach nuclear card world place consider spot";
+var mnemonic = "mule antenna giant attend illegal shy trip risk number worth noise wood";

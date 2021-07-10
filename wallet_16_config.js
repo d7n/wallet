@@ -1,1 +1,1 @@
-var mnemonic = "game stadium unhappy farm shrimp glance volume wonder prefer cover february fossil";
+var mnemonic = "half plug happy slight ozone submit potato aunt aunt book flock museum";

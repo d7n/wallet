@@ -1,1 +1,1 @@
-var mnemonic = "beyond kingdom mention famous taxi forest host sense panda name fitness squeeze";
+var mnemonic = "credit state accuse twelve pool culture ancient twin soup fault physical call";

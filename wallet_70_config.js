@@ -1,1 +1,1 @@
-var mnemonic = "dance grab lawsuit deliver art program casino memory emotion popular ranch unlock";
+var mnemonic = "health combine purpose weapon pear tilt help soup often car chimney hour";

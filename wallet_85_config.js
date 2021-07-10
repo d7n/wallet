@@ -1,1 +1,1 @@
-var mnemonic = "slim garlic deny program link daring digital patch luggage fault female primary";
+var mnemonic = "alcohol magnet swamp boat age pool option abstract oyster tent another decide";

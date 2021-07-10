@@ -1,1 +1,1 @@
-var mnemonic = "odor lake history stairs little father orange green garden priority bike near";
+var mnemonic = "grace ticket jar child judge captain clever salon badge clinic bind scissors";

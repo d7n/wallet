@@ -1,1 +1,1 @@
-var mnemonic = "guilt define soda drift exhibit concert change alter practice jaguar imitate family";
+var mnemonic = "model scare shop abstract boil traffic coffee palm original leisure raw impact";

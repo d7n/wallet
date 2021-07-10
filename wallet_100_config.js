@@ -1,1 +1,1 @@
-var mnemonic = "frown beauty you burst club blanket field gather guide margin weapon animal";
+var mnemonic = "bunker prize female fossil rebuild emerge resource fault gun radar can muffin";

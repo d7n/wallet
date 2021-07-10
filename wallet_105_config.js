@@ -1,1 +1,1 @@
-var mnemonic = "blind similar reflect usual caught zoo north burden crawl matter hour lake";
+var mnemonic = "million midnight twelve such note quality excess candy kiwi near switch siren";

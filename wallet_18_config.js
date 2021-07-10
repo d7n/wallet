@@ -1,1 +1,1 @@
-var mnemonic = "rent crater despair balcony tribe school over issue melody term beach approve";
+var mnemonic = "egg vast target latin cup deal moment park elegant exit initial solve";

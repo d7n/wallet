@@ -1,1 +1,1 @@
-var mnemonic = "theory hour evil fun lock throw chronic nothing month strike shock aerobic";
+var mnemonic = "crucial crime riot jeans century capital useless title alter kangaroo pull aim";

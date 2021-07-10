@@ -1,1 +1,1 @@
-var mnemonic = "potato food weather cream anchor install better fossil stool canvas witness never";
+var mnemonic = "athlete poem injury dish script symptom wool legend any practice blade together";
