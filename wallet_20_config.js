@@ -1,1 +1,1 @@
-var mnemonic = "arrange review orbit tell blush blast success ahead pistol switch present muscle";
+var mnemonic = "polar catalog conduct fan bleak legal save whisper planet brief flame praise";

@@ -1,1 +1,1 @@
-var mnemonic = "raven market people gospel frozen invest bounce jar trip mesh purity hill";
+var mnemonic = "rich metal half crazy ivory social planet measure solid utility insect split";

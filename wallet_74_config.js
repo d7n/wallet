@@ -1,1 +1,1 @@
-var mnemonic = "pen reform earn harbor dad absent twist wage blue whale aerobic true";
+var mnemonic = "harvest market marble tackle across struggle wire dilemma little drip intact denial";

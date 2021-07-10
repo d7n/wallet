@@ -1,1 +1,1 @@
-var mnemonic = "ritual round wise you there fix govern increase expire police wave tail";
+var mnemonic = "arch public engine keen love solid above picnic report beyond evoke include";

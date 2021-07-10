@@ -1,1 +1,1 @@
-var mnemonic = "track suit loop forest wisdom actress salad inner pact citizen kingdom exercise";
+var mnemonic = "spirit just love digital clean fancy kitten adapt conduct chat tiger hover";

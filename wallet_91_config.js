@@ -1,1 +1,1 @@
-var mnemonic = "shoot observe pear goddess egg radar sting spirit exercise receive life inherit";
+var mnemonic = "survey rack thrive bench off glare confirm attitude boil rent open message";

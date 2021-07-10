@@ -1,1 +1,1 @@
-var mnemonic = "act debate insane remember trend tobacco gadget slam copper acoustic wrong crystal";
+var mnemonic = "salmon volume shadow burst october demand canal will absent crucial snap option";

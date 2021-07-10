@@ -1,1 +1,1 @@
-var mnemonic = "arm couch pet start elegant solve clean heavy lab food tube sight";
+var mnemonic = "soon dove laundry rigid pigeon retire client smart kick pencil abstract cup";

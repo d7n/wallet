@@ -1,1 +1,1 @@
-var mnemonic = "box cook accuse absent what output boil door must ensure core cram";
+var mnemonic = "harsh slight foam river awake distance electric useful cruel forum orchard prefer";

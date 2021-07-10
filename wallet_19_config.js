@@ -1,1 +1,1 @@
-var mnemonic = "come royal found fun honey cause define improve seven meat defy knock";
+var mnemonic = "female flower half eternal process glove online actual squirrel disease tank task";

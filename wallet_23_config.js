@@ -1,1 +1,1 @@
-var mnemonic = "burst unaware undo ski layer tide into forest feature elephant pool borrow";
+var mnemonic = "cupboard wool vacant glimpse wall around arrive any wolf mandate fog obvious";

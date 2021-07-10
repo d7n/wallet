@@ -1,1 +1,1 @@
-var mnemonic = "wrong omit sausage impose surround spare rare curious among gentle afraid stay";
+var mnemonic = "silver resource wheat human elbow weird wrong ankle end live salon caught";

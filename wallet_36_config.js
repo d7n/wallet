@@ -1,1 +1,1 @@
-var mnemonic = "seven evoke squirrel virtual town skill leisure mixture creek tail mouse give";
+var mnemonic = "bonus seven exile middle point bleak inject minute fatal soon code object";

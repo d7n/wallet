@@ -1,1 +1,1 @@
-var mnemonic = "raccoon leopard cube oppose sketch manage honey pioneer disorder clown purity panel";
+var mnemonic = "usage maximum early bomb neither few apology process during script sorry sea";

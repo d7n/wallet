@@ -1,1 +1,1 @@
-var mnemonic = "dish husband cute steak brown man board entire chimney correct chapter satisfy";
+var mnemonic = "cotton fuel vocal aware tongue undo swamp relax retreat wedding pupil pudding";

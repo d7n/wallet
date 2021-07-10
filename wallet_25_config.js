@@ -1,1 +1,1 @@
-var mnemonic = "fence width render enlist coast mirror merit chaos long rural pyramid film";
+var mnemonic = "also damage dial journey solve method vanish fortune siren average marriage quick";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger half execute jeans hamster apology before gift tell blind speed prefer";
+var mnemonic = "game online route miss pet squeeze world intact web phone chair test";

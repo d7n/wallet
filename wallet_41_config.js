@@ -1,1 +1,1 @@
-var mnemonic = "trial glory strong praise exit disagree depth subject sauce wagon service strike";
+var mnemonic = "small panel below visit cash marriage maple dish better permit similar weapon";

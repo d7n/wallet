@@ -1,1 +1,1 @@
-var mnemonic = "memory rose unfold grant cattle brown quarter very order pottery author humor";
+var mnemonic = "young endless prison stock kingdom announce fat biology spray wheel note supply";

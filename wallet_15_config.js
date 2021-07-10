@@ -1,1 +1,1 @@
-var mnemonic = "between win top leopard until antenna cancel vacuum vintage settle require urban";
+var mnemonic = "second face wait alone require naive frame fortune stone chat tobacco visa";

@@ -1,1 +1,1 @@
-var mnemonic = "negative fine outside omit acoustic conduct memory remove someone prize trumpet party";
+var mnemonic = "share wage cigar left unit corn choice advice divide civil arch hybrid";

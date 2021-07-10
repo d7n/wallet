@@ -1,1 +1,1 @@
-var mnemonic = "still gather demand farm history holiday hip leopard movie thought above truth";
+var mnemonic = "monkey bachelor permit core enter school execute hint type pact only decrease";

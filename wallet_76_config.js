@@ -1,1 +1,1 @@
-var mnemonic = "capable access winter culture fiscal retire jazz element tuna opera slide wear";
+var mnemonic = "protect novel little travel relax reason oak cause gas light impact close";

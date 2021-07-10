@@ -1,1 +1,1 @@
-var mnemonic = "dove diet leader matrix wish silk ketchup novel token accuse artist leopard";
+var mnemonic = "warrior select travel wrong husband credit illegal deer reason sound hood hawk";

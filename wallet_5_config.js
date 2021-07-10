@@ -1,1 +1,1 @@
-var mnemonic = "prepare spice side genre culture century diet liberty eternal animal zoo bench";
+var mnemonic = "library ocean joy volcano asset barely clean barrel can power vacuum reduce";

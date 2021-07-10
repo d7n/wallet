@@ -1,1 +1,1 @@
-var mnemonic = "three recipe ketchup pioneer atom wasp across like despair world rubber such";
+var mnemonic = "corn relax clerk master void trip safe fluid maple usual cloud pilot";

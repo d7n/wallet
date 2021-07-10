@@ -1,1 +1,1 @@
-var mnemonic = "pulse immune airport main drift invest rookie unknown fix air album surface";
+var mnemonic = "pair child flower tomorrow transfer bottom fog crop saddle submit sheriff salute";

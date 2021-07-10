@@ -1,1 +1,1 @@
-var mnemonic = "thank protect salad scissors genre truth shock buddy city faith keen square";
+var mnemonic = "poet speed gorilla toast wait army sword dizzy elbow sibling spring reflect";

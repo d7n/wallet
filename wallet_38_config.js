@@ -1,1 +1,1 @@
-var mnemonic = "such exile police salon edit portion frozen banana oblige local era pupil";
+var mnemonic = "wife attitude winner ready involve finger wine oblige cruel enhance below turn";

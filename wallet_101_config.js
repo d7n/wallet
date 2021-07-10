@@ -1,1 +1,1 @@
-var mnemonic = "pond holiday brain purpose city debris tackle mind tip solution review toss";
+var mnemonic = "garment garbage drink cycle absurd emotion dynamic gorilla sail galaxy energy direct";

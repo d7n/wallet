@@ -1,1 +1,1 @@
-var mnemonic = "unable forest pattern hurt aware nation have daughter feel option aunt smooth";
+var mnemonic = "media quiz immune wave obey book lyrics beef multiply animal video purse";

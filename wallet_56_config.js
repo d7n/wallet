@@ -1,1 +1,1 @@
-var mnemonic = "capital execute drift forward short million noise embody great core imitate practice";
+var mnemonic = "wrap lend puppy want basic onion isolate joke void clerk harvest solve";

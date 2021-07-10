@@ -1,1 +1,1 @@
-var mnemonic = "outdoor quantum canoe stock chuckle enhance remind curtain marriage breeze swim fringe";
+var mnemonic = "cruel panic orient fame comic quiz blame purse hub humble shallow excess";

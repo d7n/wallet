@@ -1,1 +1,1 @@
-var mnemonic = "tired width salmon solar crunch parent paper loyal pulse rate future dice";
+var mnemonic = "space tail machine gaze manual velvet ancient flag social copper damp inform";

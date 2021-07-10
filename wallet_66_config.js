@@ -1,1 +1,1 @@
-var mnemonic = "release hidden plunge useful imitate purse nerve reform account lottery lazy race";
+var mnemonic = "various immense guard social cluster enact squeeze budget owner salad cannon guide";

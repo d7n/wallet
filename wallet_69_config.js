@@ -1,1 +1,1 @@
-var mnemonic = "travel random talk mule express chronic urban together skate addict economy real";
+var mnemonic = "engage offer dinner home device camp exhibit copper enroll ecology speak flip";

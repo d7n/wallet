@@ -1,1 +1,1 @@
-var mnemonic = "one notice regret story stairs beauty beef gown banana dirt code soldier";
+var mnemonic = "lumber awake effort feed noble idea patient firm miss road filter pond";

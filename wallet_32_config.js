@@ -1,1 +1,1 @@
-var mnemonic = "decline wisdom harbor release arm head lesson install there quarter spawn correct";
+var mnemonic = "ride battle select wall income earth trend poet apology salute flavor awake";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale dune peasant project garbage job seat shop expand master amazing ladder";
+var mnemonic = "spoil pigeon either assist cup reopen diesel worry zone misery scene mass";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep cloud elder scrub balcony atom account wife unknown verb famous hood";
+var mnemonic = "congress grain gloom rail situate program language gadget initial dutch weather flat";

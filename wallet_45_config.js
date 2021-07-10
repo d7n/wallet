@@ -1,1 +1,1 @@
-var mnemonic = "bid spike blanket shove prosper uncover lazy salad ghost spawn script acoustic";
+var mnemonic = "insane orange goose left impulse live unable front glass tenant visit hybrid";

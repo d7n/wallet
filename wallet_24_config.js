@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ghost broken three brick shell bind all saddle slam build menu";
+var mnemonic = "image youth later turtle upper abandon hamster unusual label satoshi trip aisle";

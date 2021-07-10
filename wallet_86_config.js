@@ -1,1 +1,1 @@
-var mnemonic = "lift card increase orphan crawl inquiry jelly write flame happy rotate tattoo";
+var mnemonic = "early dry merge garage fiscal admit author state dad economy illness punch";

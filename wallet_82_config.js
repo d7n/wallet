@@ -1,1 +1,1 @@
-var mnemonic = "alone dish aim mixture predict express mask prize vast jungle negative practice";
+var mnemonic = "lab tuition rack mutual program volume welcome inner fiction labor silk science";

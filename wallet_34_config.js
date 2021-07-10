@@ -1,1 +1,1 @@
-var mnemonic = "clip green chalk minimum carbon obvious thought core custom bench empower glare";
+var mnemonic = "fine grain illness submit tiger subway drill jar permit tackle cattle nephew";

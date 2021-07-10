@@ -1,1 +1,1 @@
-var mnemonic = "pulse scissors bread grow cinnamon evidence universe mouse weekend pet roast include";
+var mnemonic = "park cheap cruise toss dumb vote piano gather basket profit delay ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "vote mystery rude endless spoon okay craft sea space payment unaware major";
+var mnemonic = "fiscal drive input embark myself easily tank teach stove market hundred people";

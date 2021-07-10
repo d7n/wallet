@@ -1,1 +1,1 @@
-var mnemonic = "entry strategy spot hub grocery vague surge oblige hockey coach episode angle";
+var mnemonic = "just bomb virtual monitor below access ring hospital impose repeat ring win";

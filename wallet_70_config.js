@@ -1,1 +1,1 @@
-var mnemonic = "skate loan brush margin daughter host razor sport denial lottery badge script";
+var mnemonic = "session dash resemble faint chief card favorite shoot adapt tip orange latin";

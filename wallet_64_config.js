@@ -1,1 +1,1 @@
-var mnemonic = "iron talent cradle frozen garbage trim beauty century column that joy swing";
+var mnemonic = "seek husband ask mad together umbrella feed they fiscal imitate ecology clever";

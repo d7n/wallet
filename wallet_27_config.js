@@ -1,1 +1,1 @@
-var mnemonic = "light ball angle rotate fabric brown wide faith kick puzzle legend abandon";
+var mnemonic = "fog sphere argue news east mimic inspire cigar autumn dragon tail wide";

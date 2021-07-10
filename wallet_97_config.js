@@ -1,1 +1,1 @@
-var mnemonic = "such carbon review toddler scene list parent derive rule dream expose panda";
+var mnemonic = "fever chunk birth power wonder skin impulse pulp story dry color meat";

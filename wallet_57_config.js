@@ -1,1 +1,1 @@
-var mnemonic = "ability core earth loan trick merge oyster way travel tribe demand summer";
+var mnemonic = "pulse man actual coil spider click nose magnet kangaroo badge transfer forget";

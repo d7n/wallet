@@ -1,1 +1,1 @@
-var mnemonic = "profit answer alert federal bulb good romance portion rubber lab guilt put";
+var mnemonic = "bachelor sphere exotic vanish globe dolphin sweet open shuffle gadget verify sugar";

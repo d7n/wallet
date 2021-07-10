@@ -1,1 +1,1 @@
-var mnemonic = "jewel age sunset fabric pool connect monkey cabin pottery rescue come pretty";
+var mnemonic = "banana patch divert zone empty measure success velvet expand silly umbrella enable";

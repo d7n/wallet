@@ -1,1 +1,1 @@
-var mnemonic = "jealous genius okay rich tortoise run stuff stumble absent switch similar face";
+var mnemonic = "useful loyal movie bicycle check inherit shield uphold cash useless view echo";

@@ -1,1 +1,1 @@
-var mnemonic = "force piece annual grit spray visit code wheat cram toward general winner";
+var mnemonic = "genuine assume quiz slam birth lecture crime side sunset start script reveal";

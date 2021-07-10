@@ -1,1 +1,1 @@
-var mnemonic = "enjoy torch festival pelican illness hard retire inmate cinnamon curious else change";
+var mnemonic = "animal into annual basic museum stick across champion keep mixed average wedding";

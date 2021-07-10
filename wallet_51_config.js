@@ -1,1 +1,1 @@
-var mnemonic = "panda purpose there nose salon sign save brass know aerobic useful brother";
+var mnemonic = "twice summer robot target fiction play fresh agree name caution fence frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage punch cattle fee multiply evidence jewel blossom mammal tape empty rice";
+var mnemonic = "gauge hard stand dream divorce gossip future blossom exact decrease imitate soccer";

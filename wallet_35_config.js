@@ -1,1 +1,1 @@
-var mnemonic = "denial sleep piece control blast lawsuit tennis lunar rocket fire elephant ten";
+var mnemonic = "farm audit vehicle gesture option craft payment metal abandon unhappy gain seat";

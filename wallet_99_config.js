@@ -1,1 +1,1 @@
-var mnemonic = "auction legal load hurt marble outdoor supply lyrics climb cook solution distance";
+var mnemonic = "april curtain fresh call advice people isolate orient worry denial ask venture";

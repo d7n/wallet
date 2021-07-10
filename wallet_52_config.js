@@ -1,1 +1,1 @@
-var mnemonic = "comic swift able monitor rally inside endless clock unveil sister glance clever";
+var mnemonic = "knock reward zone blur stamp endorse resist duty gym donkey vital artist";

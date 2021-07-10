@@ -1,1 +1,1 @@
-var mnemonic = "cheap define demise tide remain extra thumb file loyal memory minimum fuel";
+var mnemonic = "profit angle hint cave snow short liberty fog brief obvious vintage rural";

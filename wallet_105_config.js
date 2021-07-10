@@ -1,1 +1,1 @@
-var mnemonic = "seat pull episode depart flat kiss hip spider roof boat damage question";
+var mnemonic = "return segment blossom anger chat problem moon ivory album cash expect yard";

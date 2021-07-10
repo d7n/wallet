@@ -1,1 +1,1 @@
-var mnemonic = "end riot near burger wall length calm gallery give check reduce dizzy";
+var mnemonic = "music sick file note virus remember mule glory domain farm loyal cup";

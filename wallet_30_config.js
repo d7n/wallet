@@ -1,1 +1,1 @@
-var mnemonic = "damp six noise unfair dose steak snake dynamic lazy empower act donate";
+var mnemonic = "seminar affair sheriff hire boy vicious distance recycle upgrade rain burden decrease";

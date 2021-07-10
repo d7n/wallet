@@ -1,1 +1,1 @@
-var mnemonic = "matrix history spawn brick business twice token lumber job marble void biology";
+var mnemonic = "unfold knock nation law soup orphan choose lunar purity bomb card favorite";

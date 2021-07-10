@@ -1,1 +1,1 @@
-var mnemonic = "swear mosquito material smoke gate hollow wise fashion injury there series universe";
+var mnemonic = "glass universe then baby sorry rural retreat scene flame letter believe upper";

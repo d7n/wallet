@@ -1,1 +1,1 @@
-var mnemonic = "evoke letter antique core smooth rebuild typical live explain artefact buffalo raccoon";
+var mnemonic = "inner gate matter winter shock clarify visa shoulder decline slim useful sketch";

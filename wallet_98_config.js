@@ -1,1 +1,1 @@
-var mnemonic = "flavor toe leave good crew group flavor coffee avocado gorilla region sadness";
+var mnemonic = "hunt breeze pen dignity peanut pool giggle kit frame gossip project cable";

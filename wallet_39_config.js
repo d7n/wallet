@@ -1,1 +1,1 @@
-var mnemonic = "memory when option mad wood payment shift organ found half tuna cost";
+var mnemonic = "document permit blame laptop indoor cloth snap derive fresh gift afraid marine";

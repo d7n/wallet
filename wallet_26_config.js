@@ -1,1 +1,1 @@
-var mnemonic = "burger mutual lift lamp daring february donate misery imitate sniff defy brave";
+var mnemonic = "build guess vacuum wedding name wet icon balance sound uncover eye bottom";

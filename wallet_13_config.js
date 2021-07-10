@@ -1,1 +1,1 @@
-var mnemonic = "educate critic distance dog broom capital acid rate alcohol fragile grocery cross";
+var mnemonic = "never radar toast tube immense group dawn engage around adult light gauge";

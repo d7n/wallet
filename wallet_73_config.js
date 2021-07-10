@@ -1,1 +1,1 @@
-var mnemonic = "town explain noodle sense process strike rival thought reason record glide quarter";
+var mnemonic = "kitten staff armed erosion cook apple bronze again speed rate atom joke";

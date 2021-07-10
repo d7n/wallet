@@ -1,1 +1,1 @@
-var mnemonic = "debate okay peace video flower private about palace laugh wink adult rack";
+var mnemonic = "coffee flock rare borrow dragon arrow machine rather danger marble oppose negative";

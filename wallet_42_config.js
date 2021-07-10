@@ -1,1 +1,1 @@
-var mnemonic = "radar best picnic grocery large tube tube eyebrow endless drill error awesome";
+var mnemonic = "bottom lawn journey accident argue target rule surface piece business custom shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "edit response more festival strong allow help leave minimum fold pitch penalty";
+var mnemonic = "vicious fee area betray alcohol ankle glide sight puzzle fossil kit thank";

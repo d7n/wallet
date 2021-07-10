@@ -1,1 +1,1 @@
-var mnemonic = "beyond tower oxygen hammer chunk honey lift universe mutual fatal domain image";
+var mnemonic = "sweet local price sausage human stand feature cage ginger test hockey correct";

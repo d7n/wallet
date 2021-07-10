@@ -1,1 +1,1 @@
-var mnemonic = "enough repeat grant blade shift feature one snow junior another mass liberty";
+var mnemonic = "canvas later season genius target style author ship weapon pupil quiz profit";

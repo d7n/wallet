@@ -1,1 +1,1 @@
-var mnemonic = "flush token buffalo draw wolf awful jazz price confirm universe gauge stay";
+var mnemonic = "canoe cycle edge girl code recipe where endless wall suggest dwarf evoke";

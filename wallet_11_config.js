@@ -1,1 +1,1 @@
-var mnemonic = "club toss mango surprise earth firm rare feed sausage cube pull page";
+var mnemonic = "economy quantum trophy tackle topple timber question potato earth pride mix aisle";

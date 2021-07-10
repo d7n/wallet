@@ -1,1 +1,1 @@
-var mnemonic = "gold media deposit crowd more attend joke wheat kit wave warfare hub";
+var mnemonic = "height click rookie detail satisfy put bulb army eternal sword feel much";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran pretty happy auto step exercise bike junior coconut asthma bag pond";
+var mnemonic = "accident enemy promote online horror critic cost mistake rain digital firm mask";

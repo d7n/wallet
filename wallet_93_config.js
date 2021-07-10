@@ -1,1 +1,1 @@
-var mnemonic = "such lion jungle price guard cigar chimney attack cup silly vintage blame";
+var mnemonic = "finger soul pumpkin desk blind glass web pitch special mobile jaguar cost";

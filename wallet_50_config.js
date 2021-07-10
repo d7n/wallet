@@ -1,1 +1,1 @@
-var mnemonic = "badge become crew tortoise task music chapter devote fame kitten cherry barely";
+var mnemonic = "city mystery basket hope favorite curtain service caught useful tent powder decade";

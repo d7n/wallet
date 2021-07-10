@@ -1,1 +1,1 @@
-var mnemonic = "thing spell cheese soon you same spatial wear witness cat party erode";
+var mnemonic = "like inform crunch snow silk observe promote battle lamp peanut hospital poverty";

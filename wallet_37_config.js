@@ -1,1 +1,1 @@
-var mnemonic = "cloth system camp tenant stool planet valley sample sail frog dice rude";
+var mnemonic = "utility once quick umbrella venue file desk benefit assault upon aisle settle";

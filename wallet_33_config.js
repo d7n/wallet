@@ -1,1 +1,1 @@
-var mnemonic = "index gadget basic away hamster finger govern pelican comfort limit comfort lemon";
+var mnemonic = "police sail awkward honey success electric beyond display seminar provide blame middle";

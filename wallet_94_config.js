@@ -1,1 +1,1 @@
-var mnemonic = "famous electric local tumble someone busy once benefit table release history tomorrow";
+var mnemonic = "acid term dawn pyramid curious pigeon hockey scorpion vessel buffalo truly alert";

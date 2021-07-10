@@ -1,1 +1,1 @@
-var mnemonic = "female hybrid toss mixture smile divert violin insect prevent sample roof snow";
+var mnemonic = "wasp gun people person glove repeat similar insane catalog smoke young satisfy";

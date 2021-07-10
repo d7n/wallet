@@ -1,1 +1,1 @@
-var mnemonic = "tent throw neutral humble parade cage enact try merry chimney poem spike";
+var mnemonic = "develop hero stick movie december art brother boat leave youth drastic pole";

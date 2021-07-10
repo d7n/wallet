@@ -1,1 +1,1 @@
-var mnemonic = "volcano equal final long task child frog shuffle catalog prefer power until";
+var mnemonic = "lyrics night debris solution clip often loyal welcome ramp visual jelly wall";
