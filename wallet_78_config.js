@@ -1,1 +1,1 @@
-var mnemonic = "layer give great submit device senior audit cereal furnace human embrace food";
+var mnemonic = "swift evidence access clutch approve memory pink door smoke nasty power victory";

@@ -1,1 +1,1 @@
-var mnemonic = "either truth symptom gasp route flame multiply screen bamboo symbol warfare curious";
+var mnemonic = "faith ramp little jelly fabric guide radar odor cloud real write apology";

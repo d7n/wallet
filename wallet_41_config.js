@@ -1,1 +1,1 @@
-var mnemonic = "hello butter minimum raise bless hazard sound village core inflict light identify";
+var mnemonic = "pipe because south protect pear shield misery warfare main dove text couch";

@@ -1,1 +1,1 @@
-var mnemonic = "grow nerve image bar weather clay drive toss exile strike urban job";
+var mnemonic = "choice aunt suffer edge armed sun unit delay broom differ agree tenant";

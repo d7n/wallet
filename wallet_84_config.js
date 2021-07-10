@@ -1,1 +1,1 @@
-var mnemonic = "worry weapon evidence photo decline normal fancy hip point phone bronze field";
+var mnemonic = "noble width opera proof acquire amount mouse laundry shrug brown matrix major";

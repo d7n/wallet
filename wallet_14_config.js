@@ -1,1 +1,1 @@
-var mnemonic = "alarm guard wish turn fragile hover smart sound office apple useless truth";
+var mnemonic = "swallow cradle knee special knock pudding boss bundle fit fan trade cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "praise leopard whisper wealth squirrel slight employ spray pistol foam chimney auto";
+var mnemonic = "spray inspire addict agent donkey mixed candy melt brisk element grit summer";

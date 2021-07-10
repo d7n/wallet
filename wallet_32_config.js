@@ -1,1 +1,1 @@
-var mnemonic = "repair stuff tuna girl abandon traffic craft piece ceiling atom brother buffalo";
+var mnemonic = "coast cinnamon allow sign boring rate puzzle insect melt intact load cook";

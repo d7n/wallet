@@ -1,1 +1,1 @@
-var mnemonic = "stage bulb flash afford skate spike exit wage catch survey talent target";
+var mnemonic = "visual fancy local oblige matter close consider mask strong ticket beach damp";

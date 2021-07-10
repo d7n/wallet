@@ -1,1 +1,1 @@
-var mnemonic = "post unhappy half ticket index regular duty lake liar charge hire weekend";
+var mnemonic = "reason dinner point else clown rally bridge sauce flag repair thunder grape";

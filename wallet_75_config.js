@@ -1,1 +1,1 @@
-var mnemonic = "hour canvas forum now rather install coast level again win ranch cram";
+var mnemonic = "delay seek select favorite visit december hill circle enrich spot oil during";

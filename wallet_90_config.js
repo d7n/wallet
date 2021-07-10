@@ -1,1 +1,1 @@
-var mnemonic = "damage glove thing bless output tunnel ripple multiply luxury shiver pupil delay";
+var mnemonic = "direct weather labor earn priority toy quantum amazing rich what clap drastic";

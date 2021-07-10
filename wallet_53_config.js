@@ -1,1 +1,1 @@
-var mnemonic = "city fluid odor column there pause kitten captain easily east oblige eye";
+var mnemonic = "execute exhaust census all need toddler copper proof area float common nurse";

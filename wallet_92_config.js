@@ -1,1 +1,1 @@
-var mnemonic = "shell dirt common tomorrow beyond memory team spike gift spatial smart soul";
+var mnemonic = "umbrella defy butter pilot bus fossil repeat owner rapid blanket idle flee";

@@ -1,1 +1,1 @@
-var mnemonic = "deny gown guilt believe conduct scorpion erode magnet evidence decade use wild";
+var mnemonic = "scene error around century bunker meat battle amazing range sniff company alcohol";

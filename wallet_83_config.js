@@ -1,1 +1,1 @@
-var mnemonic = "before fortune warm alert pattern human omit change warm asthma inspire recipe";
+var mnemonic = "trend struggle path fringe crawl slight confirm neglect appear dilemma wave jealous";

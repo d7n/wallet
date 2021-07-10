@@ -1,1 +1,1 @@
-var mnemonic = "equip athlete sphere thank rhythm detail west game high tissue column supply";
+var mnemonic = "salmon glad law cheese room neither lizard kid clown recall pledge scatter";

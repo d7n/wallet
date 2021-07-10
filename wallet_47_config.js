@@ -1,1 +1,1 @@
-var mnemonic = "pilot member bundle join viable scatter dream couch dry caught cheap impose";
+var mnemonic = "analyst road puzzle dragon pistol sense history critic never floor kind silly";

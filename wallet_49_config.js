@@ -1,1 +1,1 @@
-var mnemonic = "stay open hello orient neither rifle differ road nice letter rate bring";
+var mnemonic = "enrich puppy stuff tunnel salt alcohol acquire online cable sorry only middle";

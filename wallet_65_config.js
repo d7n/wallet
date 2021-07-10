@@ -1,1 +1,1 @@
-var mnemonic = "mystery music friend scorpion park girl phrase pretty bullet next wet wrap";
+var mnemonic = "soldier change subway party cave pet stove bubble basket stone street sausage";

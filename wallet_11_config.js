@@ -1,1 +1,1 @@
-var mnemonic = "unveil sound twist auction lonely bargain border balance draft erase special solve";
+var mnemonic = "ball unusual involve dry spirit gravity decade offer dragon diesel bunker claim";

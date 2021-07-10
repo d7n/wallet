@@ -1,1 +1,1 @@
-var mnemonic = "calm priority pen step acquire marriage conduct cigar inhale output document menu";
+var mnemonic = "arena bar quote donkey charge soft float undo early pattern item imitate";

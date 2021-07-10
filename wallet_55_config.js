@@ -1,1 +1,1 @@
-var mnemonic = "element entire credit clap begin solve bike weekend away snack flat barely";
+var mnemonic = "east can walnut blur federal estate fever elevator regret weasel lyrics property";

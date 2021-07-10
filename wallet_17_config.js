@@ -1,1 +1,1 @@
-var mnemonic = "ocean old develop weather indicate knife february void autumn spoon embody october";
+var mnemonic = "couch nation cheese catch practice woman wire sleep once gain kite shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "walk gasp relax then absorb shell route object match pepper talk tree";
+var mnemonic = "dwarf surface few boy practice tree future connect logic device else farm";

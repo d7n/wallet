@@ -1,1 +1,1 @@
-var mnemonic = "exact token motion habit cake paper fortune penalty current useful spy script";
+var mnemonic = "harsh town someone all that drastic extra work eternal youth mixture print";

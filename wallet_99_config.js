@@ -1,1 +1,1 @@
-var mnemonic = "honey choose subject release object prosper author book shoulder creek audit runway";
+var mnemonic = "tilt mango term route comic pitch naive renew swing bunker secret almost";

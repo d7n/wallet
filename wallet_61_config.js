@@ -1,1 +1,1 @@
-var mnemonic = "obey kid picnic conduct crouch analyst kitten law wool produce candy pact";
+var mnemonic = "defense orchard debris monster pony best sunset stove brand notable video squirrel";

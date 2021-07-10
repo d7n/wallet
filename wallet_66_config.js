@@ -1,1 +1,1 @@
-var mnemonic = "excess piano verb ketchup van snap behave prison artefact mobile enrich ankle";
+var mnemonic = "drink grid spider pupil frog town impose truth candy resource long size";

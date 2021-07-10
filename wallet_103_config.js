@@ -1,1 +1,1 @@
-var mnemonic = "case disorder pitch equal theme expose primary daughter panther amused carry army";
+var mnemonic = "athlete tonight intact guard science nose amount course doll excess ethics come";

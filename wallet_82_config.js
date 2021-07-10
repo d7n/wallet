@@ -1,1 +1,1 @@
-var mnemonic = "manual denial head shiver faculty advance fine bonus orange maple recall rubber";
+var mnemonic = "neither ladder man churn pig spawn disorder sock rebuild kind accident kick";

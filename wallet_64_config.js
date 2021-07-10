@@ -1,1 +1,1 @@
-var mnemonic = "alert rain stem victory gentle future forward spare thing speak course output";
+var mnemonic = "perfect spy depth imitate fashion goddess stairs scout deny maximum address monkey";

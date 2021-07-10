@@ -1,1 +1,1 @@
-var mnemonic = "slide tenant calm cannon push glare net panic analyst december response high";
+var mnemonic = "tone debris peasant north mystery cherry robot frost hurt helmet file disagree";

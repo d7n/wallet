@@ -1,1 +1,1 @@
-var mnemonic = "junk donor energy grain chronic switch prison arch board display uncle potato";
+var mnemonic = "human bunker electric velvet wait frost myth glare autumn fence decrease mail";

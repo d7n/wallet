@@ -1,1 +1,1 @@
-var mnemonic = "fiber cycle nest attitude private reward gauge loyal sun interest month inhale";
+var mnemonic = "adjust same story layer perfect opinion obtain narrow place gain loop announce";

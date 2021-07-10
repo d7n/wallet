@@ -1,1 +1,1 @@
-var mnemonic = "denial shine tail husband hurt shrug where trust question forget jazz deny";
+var mnemonic = "ketchup shoe wheat balcony gun square figure nephew finger build uncle box";

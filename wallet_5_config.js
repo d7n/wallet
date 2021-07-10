@@ -1,1 +1,1 @@
-var mnemonic = "they interest boring monster island route grid alcohol about web adapt uniform";
+var mnemonic = "pigeon lucky merge office master boil cook sign three force shrimp face";

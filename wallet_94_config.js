@@ -1,1 +1,1 @@
-var mnemonic = "maple hazard prepare poet gap morning under merit siren child legend legend";
+var mnemonic = "mind vault order six purity knee rule salt valid primary lesson luxury";

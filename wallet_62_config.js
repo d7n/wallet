@@ -1,1 +1,1 @@
-var mnemonic = "grow curve come crowd deliver syrup quote head appear wagon fade output";
+var mnemonic = "phone visit unusual strategy crystal icon census digital age embark bone discover";

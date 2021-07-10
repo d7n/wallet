@@ -1,1 +1,1 @@
-var mnemonic = "canyon race good lonely excess brand pond fossil tattoo gun lens path";
+var mnemonic = "ride author print expire enlist frame cancel fringe glide reopen conduct donor";

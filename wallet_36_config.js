@@ -1,1 +1,1 @@
-var mnemonic = "tongue develop title fan thumb symbol retire spice rigid clutch grain bulk";
+var mnemonic = "divorce stadium spread like uniform mansion rookie piano act drill summer gentle";

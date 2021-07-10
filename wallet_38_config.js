@@ -1,1 +1,1 @@
-var mnemonic = "fuel sustain pear deal idea where street abuse else hamster airport timber";
+var mnemonic = "ecology any cross this check segment gentle click polar tower scale grit";

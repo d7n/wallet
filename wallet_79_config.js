@@ -1,1 +1,1 @@
-var mnemonic = "involve upon know distance matrix peasant cruise empty cattle hand over differ";
+var mnemonic = "trash shoot debate science safe slot taxi orange attract myth useless misery";

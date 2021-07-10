@@ -1,1 +1,1 @@
-var mnemonic = "menu rally tiny ginger toast later inflict observe merge try tenant capital";
+var mnemonic = "error dwarf nurse polar bargain load peanut thing spin police wink noble";

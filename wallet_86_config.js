@@ -1,1 +1,1 @@
-var mnemonic = "pool scout update voice yellow nose word tunnel long first evoke island";
+var mnemonic = "ceiling galaxy hover marriage split dwarf again sing merry truly fashion bounce";

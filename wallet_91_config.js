@@ -1,1 +1,1 @@
-var mnemonic = "spirit earn survey area leg fatal follow plastic panther vast region zone";
+var mnemonic = "patrol save wish shed whisper camp assault tonight forum fish comfort stage";

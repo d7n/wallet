@@ -1,1 +1,1 @@
-var mnemonic = "inside clerk lounge quit spot before prize innocent upon decade happy eager";
+var mnemonic = "confirm fox major source saddle clip crazy attract narrow swear goose paper";

@@ -1,1 +1,1 @@
-var mnemonic = "verify turtle matrix bench over extend gospel economy sweet rival genre deliver";
+var mnemonic = "nurse finish junior gain grant bronze beef purchase shield dune drum smoke";

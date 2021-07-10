@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow mystery guilt boring exchange glare palm resource harbor crouch helmet work";
+var mnemonic = "corn slender napkin hungry ivory receive agree labor praise mule endless frequent";

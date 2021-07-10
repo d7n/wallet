@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bring crazy sauce else dawn hundred thought twist bullet creek vanish";
+var mnemonic = "fat word almost reward cargo click moon claim hundred globe vital assist";

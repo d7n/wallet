@@ -1,1 +1,1 @@
-var mnemonic = "pink grass afraid seat inquiry useless level rotate adapt slow apple artwork";
+var mnemonic = "method certain cannon segment crush certain grain normal fatal swamp trick snack";

@@ -1,1 +1,1 @@
-var mnemonic = "grid practice melody grain sphere cash buzz measure grocery motion bachelor shoe";
+var mnemonic = "regret record feed physical fitness super upgrade item museum reason cage fever";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb chuckle top meadow wheat solid bleak desert firm pledge faith fork";
+var mnemonic = "cupboard airport parade awful silly boil portion duck thrive prosper butter twist";

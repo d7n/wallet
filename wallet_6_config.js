@@ -1,1 +1,1 @@
-var mnemonic = "small husband want slab episode pepper acid inform silver stamp order include";
+var mnemonic = "inflict age annual cup syrup story regret butter solution slim olympic victory";

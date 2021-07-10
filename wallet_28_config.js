@@ -1,1 +1,1 @@
-var mnemonic = "bacon moment rural that wild snow else evolve sustain faith fog liar";
+var mnemonic = "pool cable razor bitter doctor frame table better quality must awkward until";

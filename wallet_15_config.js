@@ -1,1 +1,1 @@
-var mnemonic = "toast wagon bracket law bottom page check comic insect circle cotton identify";
+var mnemonic = "evoke this seminar author echo paddle side service carry stumble letter ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic express correct federal member rose flash sibling dignity wing border stamp";
+var mnemonic = "candy truly wood knife mixture ceiling woman exact protect slush gadget gold";

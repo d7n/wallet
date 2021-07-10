@@ -1,1 +1,1 @@
-var mnemonic = "very crouch clean slab because genius east fantasy much wise strategy skill";
+var mnemonic = "brisk parrot alter heavy change cable scan fan drill chef transfer example";

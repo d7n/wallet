@@ -1,1 +1,1 @@
-var mnemonic = "notable public visa upset organ patrol grant frame crater engine behind dragon";
+var mnemonic = "message rabbit occur festival joke regret awkward pave adapt close boy tattoo";

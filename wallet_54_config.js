@@ -1,1 +1,1 @@
-var mnemonic = "card diamond toddler enforce subject logic thumb chair flee wide glass hover";
+var mnemonic = "result chapter wheat globe story buddy bind sort quote aunt panel quit";

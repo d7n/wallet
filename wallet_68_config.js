@@ -1,1 +1,1 @@
-var mnemonic = "benefit famous prize evolve survey lava brother eager input weather resist cargo";
+var mnemonic = "pluck can coyote nephew betray absorb marble expand lobster rely vicious power";

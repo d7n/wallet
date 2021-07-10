@@ -1,1 +1,1 @@
-var mnemonic = "celery mixed puppy cotton pizza breeze vanish task blame noise coffee town";
+var mnemonic = "neutral buffalo slush blossom because liberty veteran eight trial toss always ladder";

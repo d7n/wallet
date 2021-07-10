@@ -1,1 +1,1 @@
-var mnemonic = "cargo tube legal penalty toward shell prevent office pulp tuition certain elite";
+var mnemonic = "crater jelly bridge lyrics side phone rug rack duck collect injury sunset";

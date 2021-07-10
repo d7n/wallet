@@ -1,1 +1,1 @@
-var mnemonic = "rate between mad mechanic pelican solid minor depend debate horror base sheriff";
+var mnemonic = "define bike gasp cinnamon jar bulk victory earn width material confirm file";

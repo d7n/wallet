@@ -1,1 +1,1 @@
-var mnemonic = "ivory invest piano galaxy switch daughter expand picture assault eager elite enroll";
+var mnemonic = "carpet express fun example vote thunder dress ugly divorce screen major survey";

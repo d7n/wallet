@@ -1,1 +1,1 @@
-var mnemonic = "sausage noodle inmate example warm unaware mention junior upper asthma tired flee";
+var mnemonic = "head mom visual unlock biology indoor plunge margin struggle proud heavy ivory";

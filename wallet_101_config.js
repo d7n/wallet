@@ -1,1 +1,1 @@
-var mnemonic = "hard squirrel fiber concert buyer short involve life will noise random risk";
+var mnemonic = "head play cricket fiction eight become mechanic miracle elevator utility about oval";

@@ -1,1 +1,1 @@
-var mnemonic = "face reopen drink add swamp friend stem useless deer recycle giant spawn";
+var mnemonic = "cube proof engine hedgehog swear pudding company tumble flush fox intact scissors";

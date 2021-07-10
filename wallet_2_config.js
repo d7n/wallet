@@ -1,1 +1,1 @@
-var mnemonic = "between recycle coyote volume silly know rifle arrive reunion extend evolve knee";
+var mnemonic = "chief birth mansion citizen country giant warm elite affair track wait someone";

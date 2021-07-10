@@ -1,1 +1,1 @@
-var mnemonic = "baby deer mixed real upon cable illegal pet tree area waste song";
+var mnemonic = "symptom wrong furnace clarify artwork almost dial square bundle spirit debate page";

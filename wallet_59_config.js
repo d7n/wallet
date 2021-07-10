@@ -1,1 +1,1 @@
-var mnemonic = "husband orchard play caught mimic hunt dutch inform ladder push caution chimney";
+var mnemonic = "tennis river obvious fork mistake follow girl possible drum leave doll unable";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead screen sun canoe steak fame century head gas slam three above";
+var mnemonic = "tourist recipe local genre area shoe tissue bone throw assault elbow lizard";

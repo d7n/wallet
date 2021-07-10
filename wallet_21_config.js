@@ -1,1 +1,1 @@
-var mnemonic = "rate elite narrow umbrella toast sudden injury circle empower cabin alert danger";
+var mnemonic = "casino kid piece shift seat prosper glare spice wrist guilt news green";

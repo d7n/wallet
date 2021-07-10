@@ -1,1 +1,1 @@
-var mnemonic = "bench exile south endorse milk need admit unable fossil property skill mix";
+var mnemonic = "nothing slam vanish pool deposit canvas pyramid labor cable common chest squeeze";

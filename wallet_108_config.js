@@ -1,1 +1,1 @@
-var mnemonic = "jacket own twin ask debris organ east addict wet hen found must";
+var mnemonic = "proud save garlic rabbit waste pass note copper hip shallow mechanic brush";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot violin taxi stairs advance solve eagle danger dismiss master have crush";
+var mnemonic = "you oxygen alone system leopard car simple reflect later pulse beef habit";

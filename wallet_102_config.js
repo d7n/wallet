@@ -1,1 +1,1 @@
-var mnemonic = "high circle dumb shoot fiction ladder disagree trap sun once galaxy maximum";
+var mnemonic = "crazy bundle close wall march brave decorate peace inmate gossip truly predict";

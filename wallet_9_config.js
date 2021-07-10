@@ -1,1 +1,1 @@
-var mnemonic = "noise acoustic bronze general best weekend title ride idea elite web hero";
+var mnemonic = "alter place black reason quiz grace sketch secret public rival ivory true";

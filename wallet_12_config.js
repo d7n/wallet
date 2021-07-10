@@ -1,1 +1,1 @@
-var mnemonic = "fashion view design vivid riot rapid dentist cook resource vital spin wish";
+var mnemonic = "lounge silent gain become mistake begin frost apple alpha elder another north";

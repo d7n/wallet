@@ -1,1 +1,1 @@
-var mnemonic = "slide school powder prevent torch little since expand cry blush famous elevator";
+var mnemonic = "miss clever mammal health immune search bicycle north cactus resource turtle aerobic";

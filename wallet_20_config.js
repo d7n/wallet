@@ -1,1 +1,1 @@
-var mnemonic = "issue buzz mask oppose seven dress wave culture middle path brush business";
+var mnemonic = "rain crazy ocean filter turtle offer whale bargain push category lake fat";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney cabin power final wide noise viable embody science wife trophy cradle";
+var mnemonic = "family execute modify please slice pair hospital stage bind truth film element";

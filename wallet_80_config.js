@@ -1,1 +1,1 @@
-var mnemonic = "once idea remember vanish device roast angle planet phrase enough salmon elevator";
+var mnemonic = "video fragile matter oval expire couple syrup maze remind figure mango inner";

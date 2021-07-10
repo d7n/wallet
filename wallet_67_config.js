@@ -1,1 +1,1 @@
-var mnemonic = "width catalog skirt large fall wall more erode glide fluid fantasy spatial";
+var mnemonic = "chunk sound apart dismiss carry response want balance midnight simple trip state";

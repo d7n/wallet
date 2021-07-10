@@ -1,1 +1,1 @@
-var mnemonic = "claim winner pole equal ritual recall entire humble side sign upon expand";
+var mnemonic = "evoke tell bargain immune process cake opinion celery broccoli cause sleep ripple";

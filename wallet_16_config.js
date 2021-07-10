@@ -1,1 +1,1 @@
-var mnemonic = "zero choice struggle perfect birth civil special charge find air burst grace";
+var mnemonic = "enact biology hazard clinic core cave bag enlist gap winter primary game";

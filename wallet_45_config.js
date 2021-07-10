@@ -1,1 +1,1 @@
-var mnemonic = "venue river give scrub ranch cousin limb venture tourist review column doctor";
+var mnemonic = "myth ranch noise stem cricket disagree idle oxygen enlist stadium snake involve";

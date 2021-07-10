@@ -1,1 +1,1 @@
-var mnemonic = "umbrella tunnel talent question burden avocado into soft mother october into various";
+var mnemonic = "fancy pulp side wheel brand barely current burden crew voyage because magic";
