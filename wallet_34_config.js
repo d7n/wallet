@@ -1,1 +1,1 @@
-var mnemonic = "river table flock move uncover device excuse conduct march bundle quick just";
+var mnemonic = "census grab another sport vanish super ostrich inside remove connect gold sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "half antique general slogan annual brown popular menu buyer expire type glide";
+var mnemonic = "robust sorry inspire super fruit mansion bone marine useless shrimp book route";

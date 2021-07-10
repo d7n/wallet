@@ -1,1 +1,1 @@
-var mnemonic = "pudding verify entire remove skull what brown fuel axis humble maid nice";
+var mnemonic = "correct subject trial there shaft check please slide strategy fiber sign cost";

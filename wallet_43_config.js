@@ -1,1 +1,1 @@
-var mnemonic = "stone express vocal tide exact cover settle leader bench truck trumpet document";
+var mnemonic = "trip cash upper leave snake always piece magic enter car image sweet";

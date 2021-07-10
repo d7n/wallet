@@ -1,1 +1,1 @@
-var mnemonic = "elephant also emerge oval danger pen whisper leader ranch game stomach hand";
+var mnemonic = "chase absent empty picnic test answer trim you injury sample elite scheme";

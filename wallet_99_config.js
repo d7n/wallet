@@ -1,1 +1,1 @@
-var mnemonic = "option airport tube advice paper share input arctic have genre tennis struggle";
+var mnemonic = "result knock render tomorrow tongue fetch receive cotton steel sick story fault";

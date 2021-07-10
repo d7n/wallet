@@ -1,1 +1,1 @@
-var mnemonic = "cycle innocent issue public weapon define armed spirit tuition used inherit subway";
+var mnemonic = "tonight camp pause high enemy example corn action rare brisk syrup coach";

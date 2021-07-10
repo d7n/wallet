@@ -1,1 +1,1 @@
-var mnemonic = "discover silent satoshi casino mule weird wheat toward wage unable brass lobster";
+var mnemonic = "menu age crowd climb rifle syrup grief boring stumble alone hire minor";

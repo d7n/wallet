@@ -1,1 +1,1 @@
-var mnemonic = "dance analyst train clap yard voyage spy hammer monkey caution short reject";
+var mnemonic = "bounce supply heavy firm celery oblige senior struggle release venue punch sponsor";

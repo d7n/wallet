@@ -1,1 +1,1 @@
-var mnemonic = "gym loud anxiety pudding wonder blast okay water thunder ozone analyst deposit";
+var mnemonic = "old deer habit daughter outer deposit claim parent pepper copy force limit";

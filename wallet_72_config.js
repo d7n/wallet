@@ -1,1 +1,1 @@
-var mnemonic = "visit decide unhappy peace volcano will vendor blush cereal example debris smoke";
+var mnemonic = "genius dwarf twin badge toast pilot festival jar snack october rival relax";

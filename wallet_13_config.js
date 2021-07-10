@@ -1,1 +1,1 @@
-var mnemonic = "remember hour finger poem front visual armor trigger slogan live large hello";
+var mnemonic = "ranch story major session symptom ill cradle devote neither nephew claw glue";

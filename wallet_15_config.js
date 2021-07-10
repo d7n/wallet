@@ -1,1 +1,1 @@
-var mnemonic = "online pond ostrich blur end front lamp author flag crime change into";
+var mnemonic = "blur alone judge rapid infant element ankle mesh surprise dizzy nose settle";

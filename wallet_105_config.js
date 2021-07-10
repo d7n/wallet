@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow abstract hurdle dwarf jewel neglect hint truly law pencil front dial";
+var mnemonic = "nerve blanket width large unusual glad repair spirit couple hope vacant eagle";

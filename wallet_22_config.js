@@ -1,1 +1,1 @@
-var mnemonic = "maid season candy ivory found list plug behave medal hint wrap sound";
+var mnemonic = "trick alert entry amateur say develop shrimp father silver certain emotion globe";

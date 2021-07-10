@@ -1,1 +1,1 @@
-var mnemonic = "narrow swim ignore often hammer inflict scout cousin army angle barely egg";
+var mnemonic = "found city giggle stick atom funny spatial maple kiwi bulb uncle problem";

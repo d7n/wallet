@@ -1,1 +1,1 @@
-var mnemonic = "chicken walk dutch element neither level friend sport pumpkin battle setup tissue";
+var mnemonic = "fence top collect code raccoon boss trade farm solution miss that eight";

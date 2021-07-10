@@ -1,1 +1,1 @@
-var mnemonic = "hope unfold merge congress common taxi giggle stairs promote fortune account type";
+var mnemonic = "harvest solid opera cool witness bind distance hunt vehicle tourist general include";

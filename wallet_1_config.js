@@ -1,1 +1,1 @@
-var mnemonic = "film tape display happy action ill seven moral cloth category make normal";
+var mnemonic = "muffin virtual hip input once alpha ostrich minimum junk mammal plunge weather";

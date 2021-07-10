@@ -1,1 +1,1 @@
-var mnemonic = "above inch share nuclear rib panel early swift monster hip grape together";
+var mnemonic = "ocean orange grace method captain wrap saddle chronic stumble donate field glance";

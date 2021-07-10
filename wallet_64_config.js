@@ -1,1 +1,1 @@
-var mnemonic = "exit custom shaft swift sign divert surround gym coil fiber satisfy sugar";
+var mnemonic = "toward infant visual genuine patient leopard dad purpose worry answer antique virus";

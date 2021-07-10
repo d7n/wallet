@@ -1,1 +1,1 @@
-var mnemonic = "next myself junk mixture eyebrow kitchen phone priority spoon inform vacant notice";
+var mnemonic = "refuse license twist energy tray mango place stone fancy same target arrange";

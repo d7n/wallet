@@ -1,1 +1,1 @@
-var mnemonic = "battle negative income artist learn utility toilet helmet blossom wisdom south blouse";
+var mnemonic = "turkey shrimp diamond sunny sign stay cradle science total mean balcony panther";

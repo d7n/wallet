@@ -1,1 +1,1 @@
-var mnemonic = "input fetch squirrel judge dose crucial wrong earth repeat magic enhance call";
+var mnemonic = "umbrella oak road fade art daughter ship subway good toss eyebrow armed";

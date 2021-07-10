@@ -1,1 +1,1 @@
-var mnemonic = "ostrich type sentence album toddler banana polar salad salmon cement bomb engine";
+var mnemonic = "helmet keep song cruise physical avoid keen vanish around silly park grief";

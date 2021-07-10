@@ -1,1 +1,1 @@
-var mnemonic = "smart club romance inherit talk frequent quiz amateur boat island legend text";
+var mnemonic = "offer cycle resource tape fault until stage drastic token age pudding road";

@@ -1,1 +1,1 @@
-var mnemonic = "into vehicle below junk garbage vague assume census urban exit scorpion naive";
+var mnemonic = "feed poverty timber seven hammer verb vicious soul emotion rhythm uphold giggle";

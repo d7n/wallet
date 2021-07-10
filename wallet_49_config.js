@@ -1,1 +1,1 @@
-var mnemonic = "abuse fire viable ankle alter rookie agree execute pipe twice tag dove";
+var mnemonic = "pony rescue buddy short case height measure section dwarf wire desk relief";

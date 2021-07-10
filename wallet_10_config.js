@@ -1,1 +1,1 @@
-var mnemonic = "advice glow wheel sound benefit program cargo hawk aware gasp wild meat";
+var mnemonic = "search rug object teach vendor leader run possible bright spike embrace salmon";

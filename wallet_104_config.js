@@ -1,1 +1,1 @@
-var mnemonic = "rather private distance deer gesture cinnamon soon father practice success target category";
+var mnemonic = "dish barely lecture input possible expose energy loop middle truth album kidney";

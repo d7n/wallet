@@ -1,1 +1,1 @@
-var mnemonic = "quote interest danger coach jar hazard blanket clerk medal odor return actress";
+var mnemonic = "session loop faint picnic hole they region width reject artist embody zebra";

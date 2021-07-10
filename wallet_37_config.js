@@ -1,1 +1,1 @@
-var mnemonic = "alpha estate gravity alley pond brief glory warm elite bargain license fatigue";
+var mnemonic = "kingdom tourist advance select vendor zero female table month trip found action";

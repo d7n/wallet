@@ -1,1 +1,1 @@
-var mnemonic = "sort federal spoil swear patch try squeeze mean since asset elite assist";
+var mnemonic = "notice lunch make picture figure cruise inflict all swallow energy scissors bring";

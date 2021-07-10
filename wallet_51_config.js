@@ -1,1 +1,1 @@
-var mnemonic = "excite fall mansion mandate fuel biology any radio essence method bacon spring";
+var mnemonic = "liquid avoid item impose excite drip valve shop gossip globe rail lazy";

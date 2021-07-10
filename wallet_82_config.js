@@ -1,1 +1,1 @@
-var mnemonic = "ensure version history creek canal artwork jaguar orbit someone vehicle flame cliff";
+var mnemonic = "pumpkin explain violin behave invest chest awkward flight season ridge impulse taxi";

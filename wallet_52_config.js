@@ -1,1 +1,1 @@
-var mnemonic = "radio drastic purse sick vapor jar win style dash horse armor fly";
+var mnemonic = "basket carry eagle token upset amount lumber panic mom fragile under shaft";

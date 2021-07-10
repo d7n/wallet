@@ -1,1 +1,1 @@
-var mnemonic = "regular child special oblige tent patient pill deputy tank capable sister emotion";
+var mnemonic = "ignore member victory extra venture skate hockey catch tenant rifle vital kitten";

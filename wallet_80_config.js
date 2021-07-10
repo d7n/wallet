@@ -1,1 +1,1 @@
-var mnemonic = "fringe craft captain chaos relax invest marble embody point hen frog figure";
+var mnemonic = "correct garbage file violin average garage sleep inch luggage insect luggage spin";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh permit garlic fall suit spray digital lady vault aspect trial rabbit";
+var mnemonic = "skill neck screen define enhance prosper buzz hill child rice pig rate";

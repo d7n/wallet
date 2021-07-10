@@ -1,1 +1,1 @@
-var mnemonic = "mean fringe tunnel today crumble unable joke rent miracle trick filter wise";
+var mnemonic = "spell sand eternal stick bronze talent april require holiday believe circle avocado";

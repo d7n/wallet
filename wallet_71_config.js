@@ -1,1 +1,1 @@
-var mnemonic = "legend olive erosion current poet physical time enforce erase arrive supply era";
+var mnemonic = "rail equip gun beef apart way student daring candy team donate liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle shove young saddle rubber symbol undo expect glass hand dutch feel";
+var mnemonic = "ghost antenna burger soap never bar talent leisure quit alarm script theory";

@@ -1,1 +1,1 @@
-var mnemonic = "horror describe ship dragon glue junk begin adapt film brief risk maze";
+var mnemonic = "vocal mirror ocean pumpkin thunder tomorrow earn usual horror lunar nation correct";

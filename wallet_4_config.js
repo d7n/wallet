@@ -1,1 +1,1 @@
-var mnemonic = "apology bulb quality pilot moment faint middle teach movie purpose fly session";
+var mnemonic = "phrase nuclear opinion column catch trap room paddle spin appear color wall";

@@ -1,1 +1,1 @@
-var mnemonic = "edge bullet mirror dignity tooth fiscal practice afford identify prevent cinnamon pepper";
+var mnemonic = "oval capital skirt spoon already inject script snow tool bean decline amount";

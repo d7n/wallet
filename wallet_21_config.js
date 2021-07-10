@@ -1,1 +1,1 @@
-var mnemonic = "hurt kick private next goose diary asset call nothing excite slam diagram";
+var mnemonic = "fence yellow blossom cheese retreat short cave nose knock viable plug waste";

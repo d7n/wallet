@@ -1,1 +1,1 @@
-var mnemonic = "rescue utility tobacco squirrel settle change apple flag sock gauge pig skate";
+var mnemonic = "soon match response divorce tortoise local people chicken brother muscle alpha gallery";

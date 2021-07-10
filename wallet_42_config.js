@@ -1,1 +1,1 @@
-var mnemonic = "shadow they demand term virtual find glue jaguar maximum raw ill before";
+var mnemonic = "opera chimney beach cable capital test stuff occur already grace penalty rely";

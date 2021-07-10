@@ -1,1 +1,1 @@
-var mnemonic = "become trend slender tone enroll figure choice region feed abstract pelican tiger";
+var mnemonic = "logic crucial during sketch uniform vintage sweet scrap luxury fame sunny simple";

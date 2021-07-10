@@ -1,1 +1,1 @@
-var mnemonic = "fee govern magic bachelor curve toe tube nurse deny tumble beach sing";
+var mnemonic = "relax desk water join throw divide raven grunt beach shoot history act";

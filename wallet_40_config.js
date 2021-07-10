@@ -1,1 +1,1 @@
-var mnemonic = "blast vanish oak float cash cherry immune country rude talent code public";
+var mnemonic = "rely nest daughter gloom hard reveal silent present enrich first short skirt";

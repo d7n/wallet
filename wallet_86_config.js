@@ -1,1 +1,1 @@
-var mnemonic = "sheriff female soul decline goat reject lady isolate sustain casino gorilla maple";
+var mnemonic = "foam top upgrade subway genre truly mask churn pulp certain vital term";

@@ -1,1 +1,1 @@
-var mnemonic = "credit gossip damage finger burger soon hard neutral pause drip leg chunk";
+var mnemonic = "index faint venue palace frown hurdle tone busy person guide august visit";

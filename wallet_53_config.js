@@ -1,1 +1,1 @@
-var mnemonic = "spice april concert space cream until breeze vague clarify figure find alpha";
+var mnemonic = "exile diagram memory van rather develop curtain fire blouse flat purse still";

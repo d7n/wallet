@@ -1,1 +1,1 @@
-var mnemonic = "code bamboo sugar fork beef patient vanish wrap budget decade catalog citizen";
+var mnemonic = "slow upon can master under bench either warm bread luggage fall road";

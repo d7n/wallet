@@ -1,1 +1,1 @@
-var mnemonic = "drum mix make hurry salute check gold cancel cage salad enough salon";
+var mnemonic = "under genius dress lawsuit uphold sentence wait clock either guard economy cook";

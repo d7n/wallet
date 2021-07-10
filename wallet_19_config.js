@@ -1,1 +1,1 @@
-var mnemonic = "heavy cigar goat legal buzz waste narrow shield mesh expand funny arena";
+var mnemonic = "photo security foot ocean evolve avocado brand garlic solution stage cinnamon sport";

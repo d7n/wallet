@@ -1,1 +1,1 @@
-var mnemonic = "car witness security rival lamp danger fiber payment term during true fiber";
+var mnemonic = "rent icon exit ability eight gloom jump spoon journey size vanish refuse";

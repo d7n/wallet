@@ -1,1 +1,1 @@
-var mnemonic = "wreck cup able clip document simple tortoise cabin toddler trip define cricket";
+var mnemonic = "across neither gold average panic december shiver tank leg shell robust unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal music clerk glide number warfare mesh gravity surge describe cram fatal";
+var mnemonic = "magic bar limit waste sick fuel engage primary pizza they cake episode";

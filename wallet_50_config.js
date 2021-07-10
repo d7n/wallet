@@ -1,1 +1,1 @@
-var mnemonic = "royal outside cactus tackle income live gather tube impact mask nerve lens";
+var mnemonic = "slam steak holiday stick manual day stove banner cover security elegant roast";

@@ -1,1 +1,1 @@
-var mnemonic = "noble apology music control sick noble slight shy key demand scene firm";
+var mnemonic = "wise love myth option mouse odor shallow garden slight found memory portion";

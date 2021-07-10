@@ -1,1 +1,1 @@
-var mnemonic = "virtual forum police illness view impose bulk oxygen palace moon acquire same";
+var mnemonic = "good appear grid chronic base picture crowd stuff meat enjoy name little";

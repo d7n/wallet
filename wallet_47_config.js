@@ -1,1 +1,1 @@
-var mnemonic = "brand dish force key broom rookie silver bottom chase peace wasp load";
+var mnemonic = "firm belt garlic between behind luxury beauty marriage desert grape lesson have";

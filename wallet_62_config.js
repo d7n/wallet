@@ -1,1 +1,1 @@
-var mnemonic = "cram flip increase ceiling magic endless issue frequent funny page smooth shop";
+var mnemonic = "teach paddle acoustic actual talent sense owner cement eyebrow goat quick bean";

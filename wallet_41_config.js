@@ -1,1 +1,1 @@
-var mnemonic = "segment ranch punch lizard space beach repeat kitchen wrong feature athlete fox";
+var mnemonic = "expand own hill balance moment analyst round chaos teach mom special patrol";

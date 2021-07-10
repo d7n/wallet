@@ -1,1 +1,1 @@
-var mnemonic = "enter tooth debris top half wait accident trumpet action resource misery strike";
+var mnemonic = "leg plunge giggle palace switch jar quarter bundle life soda credit ginger";

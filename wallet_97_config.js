@@ -1,1 +1,1 @@
-var mnemonic = "struggle episode globe scene process hollow car govern middle fuel inner better";
+var mnemonic = "shine mad resist weather double before fit squeeze swallow want patrol ready";

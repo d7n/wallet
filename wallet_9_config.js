@@ -1,1 +1,1 @@
-var mnemonic = "bulb spell about motion letter erosion ramp hood jar average skill coast";
+var mnemonic = "version aerobic word sentence shock stone merry fat range west wave mixed";

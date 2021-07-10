@@ -1,1 +1,1 @@
-var mnemonic = "maid hip garbage enable someone super quiz help sketch pretty blue draft";
+var mnemonic = "plate episode cable nothing worry dice bicycle donate ancient grant furnace steel";

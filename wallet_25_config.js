@@ -1,1 +1,1 @@
-var mnemonic = "defense window delay party casual latin sun road street race scatter drip";
+var mnemonic = "wheel swim course burger retire filter race miracle orbit riot wrestle amused";

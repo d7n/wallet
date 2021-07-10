@@ -1,1 +1,1 @@
-var mnemonic = "baby equal insect puppy armed sunny paper burger cinnamon destroy category dash";
+var mnemonic = "december cherry pyramid arctic gloom patrol quote palace auto canvas cook near";

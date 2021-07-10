@@ -1,1 +1,1 @@
-var mnemonic = "spawn orchard danger detail confirm ski people vessel water brand grid finish";
+var mnemonic = "betray lend idea tribe half case spot table mimic title melt tone";

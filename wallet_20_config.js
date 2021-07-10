@@ -1,1 +1,1 @@
-var mnemonic = "boring develop fly salmon mechanic include frame coffee bacon exact sell bid";
+var mnemonic = "belt venue spider express actual thunder excite frozen thumb rival scatter weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply congress soup output receive sand ice eternal powder morning pepper cradle";
+var mnemonic = "orient pass help rally pact involve frown pride coin market sniff round";

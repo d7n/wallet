@@ -1,1 +1,1 @@
-var mnemonic = "census rich shaft offer cause fade city settle deal area trick eager";
+var mnemonic = "left elegant boy urge dose muffin puzzle join unaware crash carpet radar";

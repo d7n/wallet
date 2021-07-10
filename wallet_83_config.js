@@ -1,1 +1,1 @@
-var mnemonic = "among machine blind never feature come erode know bring flower tuition bulb";
+var mnemonic = "summer enjoy talk bar raven clean slot spoil regular enrich boss direct";

@@ -1,1 +1,1 @@
-var mnemonic = "illness violin candy total river depart charge rifle discover found tenant rocket";
+var mnemonic = "punch aisle alarm nose motion squeeze marine movie mix grape report jungle";

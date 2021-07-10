@@ -1,1 +1,1 @@
-var mnemonic = "require copper palm then donate hungry asthma stereo bitter crew hand occur";
+var mnemonic = "quit measure bicycle turn caution lazy minute barrel click dizzy fuel silent";

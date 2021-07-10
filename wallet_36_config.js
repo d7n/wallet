@@ -1,1 +1,1 @@
-var mnemonic = "mixture couch prize fine above enroll off stick seat prefer force shuffle";
+var mnemonic = "naive song hazard poem angle cool train cram rebel tail wrap liberty";

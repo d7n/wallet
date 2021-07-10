@@ -1,1 +1,1 @@
-var mnemonic = "luxury satoshi sample mule off market call opera spell zebra edge labor";
+var mnemonic = "reward hour mixed output congress like ozone puzzle marriage skate own deliver";

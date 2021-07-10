@@ -1,1 +1,1 @@
-var mnemonic = "parent lobster popular three stay humor birth pig saddle cupboard obtain among";
+var mnemonic = "supply athlete bring wall boy loop wing normal act purity view lecture";

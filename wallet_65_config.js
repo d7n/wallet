@@ -1,1 +1,1 @@
-var mnemonic = "east lizard pledge actor during arrange pipe gravity october model elegant palace";
+var mnemonic = "museum exact rain credit ship what hedgehog since car common person brief";

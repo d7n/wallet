@@ -1,1 +1,1 @@
-var mnemonic = "regular post fun lava pull pride year glimpse feed face poverty rally";
+var mnemonic = "water stable believe remember sound toward category thrive duck dizzy frost order";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest situate shield squeeze reward donkey smoke execute spoil recycle beach hamster";
+var mnemonic = "catch spider plate humble stage such amateur maze task window delay again";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling load oak relax solar copper uniform fancy warm echo hockey torch";
+var mnemonic = "glance love life road supply margin night cereal dance robust useful absorb";

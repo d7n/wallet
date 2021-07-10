@@ -1,1 +1,1 @@
-var mnemonic = "segment theme tide ugly road congress matrix hurry dad bottom lion audit";
+var mnemonic = "artist plastic gravity hard frozen wire candy ignore silver excess hope soap";

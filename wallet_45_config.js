@@ -1,1 +1,1 @@
-var mnemonic = "next interest danger galaxy absorb employ eight tribe soup child exhaust icon";
+var mnemonic = "trust soldier unknown oil rebuild panel merit enter pet copy wage keen";

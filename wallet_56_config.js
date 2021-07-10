@@ -1,1 +1,1 @@
-var mnemonic = "alarm scatter blind genuine replace upset gadget gym coconut cabbage pill crime";
+var mnemonic = "bamboo embrace demand attack october banana arrest lawsuit enter pole field pig";

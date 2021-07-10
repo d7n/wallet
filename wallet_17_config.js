@@ -1,1 +1,1 @@
-var mnemonic = "mad total struggle message silver team define interest force able sail caught";
+var mnemonic = "obvious debris degree midnight any barely replace spirit arrange permit sponsor giggle";

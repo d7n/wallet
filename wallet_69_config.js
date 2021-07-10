@@ -1,1 +1,1 @@
-var mnemonic = "noise camera alone fly purse advice cash find fossil mother engage sugar";
+var mnemonic = "roof reduce reject resist child web invest slice above alter ordinary someone";
