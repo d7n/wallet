@@ -1,1 +1,1 @@
-var mnemonic = "wide unaware over screen pretty owner virtual tongue wall display transfer person";
+var mnemonic = "fashion view design vivid riot rapid dentist cook resource vital spin wish";

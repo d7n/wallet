@@ -1,1 +1,1 @@
-var mnemonic = "then hawk also coach adapt test hover intact wrong prepare ready profit";
+var mnemonic = "gym ridge snake trash fashion village axis mesh scout equal suffer axis";

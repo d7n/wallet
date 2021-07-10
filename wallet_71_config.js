@@ -1,1 +1,1 @@
-var mnemonic = "cash ill buddy inside melody nation select betray camera since obtain swamp";
+var mnemonic = "grow vital dragon crawl effort gaze next cage squeeze twenty regular consider";

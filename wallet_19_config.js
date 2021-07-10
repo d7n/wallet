@@ -1,1 +1,1 @@
-var mnemonic = "turn female genuine hope decline desert myself board dry buffalo satisfy cream";
+var mnemonic = "net outer deny garage upset fan process rigid island credit ripple ancient";

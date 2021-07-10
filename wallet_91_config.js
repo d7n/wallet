@@ -1,1 +1,1 @@
-var mnemonic = "unusual siren just wear marriage village frost away pumpkin nasty fury rain";
+var mnemonic = "spirit earn survey area leg fatal follow plastic panther vast region zone";

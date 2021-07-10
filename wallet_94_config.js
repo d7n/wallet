@@ -1,1 +1,1 @@
-var mnemonic = "gallery clean blast inside cat sock spirit close wait toast curious piano";
+var mnemonic = "maple hazard prepare poet gap morning under merit siren child legend legend";

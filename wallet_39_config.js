@@ -1,1 +1,1 @@
-var mnemonic = "address ketchup sing blanket cause discover knock hold radar square extra proud";
+var mnemonic = "exact token motion habit cake paper fortune penalty current useful spy script";

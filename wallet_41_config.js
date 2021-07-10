@@ -1,1 +1,1 @@
-var mnemonic = "sword scare addict find warrior ancient over october gain census document stereo";
+var mnemonic = "hello butter minimum raise bless hazard sound village core inflict light identify";

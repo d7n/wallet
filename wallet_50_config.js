@@ -1,1 +1,1 @@
-var mnemonic = "brown cage cloth category symptom hazard ivory pledge matrix blame rally satisfy";
+var mnemonic = "stage bulb flash afford skate spike exit wage catch survey talent target";

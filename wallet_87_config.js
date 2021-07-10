@@ -1,1 +1,1 @@
-var mnemonic = "wisdom silent push distance evil panther coil seek employ obtain this office";
+var mnemonic = "umbrella tunnel talent question burden avocado into soft mother october into various";

@@ -1,1 +1,1 @@
-var mnemonic = "flight cheese asthma wheat garage soldier sustain field story weather blood mom";
+var mnemonic = "worry weapon evidence photo decline normal fancy hip point phone bronze field";

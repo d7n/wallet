@@ -1,1 +1,1 @@
-var mnemonic = "neither sight clutch swift term collect debate mango pluck language rich guilt";
+var mnemonic = "parrot violin taxi stairs advance solve eagle danger dismiss master have crush";

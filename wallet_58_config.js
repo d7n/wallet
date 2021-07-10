@@ -1,1 +1,1 @@
-var mnemonic = "crisp juice lion economy can method until egg glove steel code envelope";
+var mnemonic = "junk donor energy grain chronic switch prison arch board display uncle potato";

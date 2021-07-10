@@ -1,1 +1,1 @@
-var mnemonic = "between faculty brisk virus cradle web load ethics wine ostrich below middle";
+var mnemonic = "bacon moment rural that wild snow else evolve sustain faith fog liar";

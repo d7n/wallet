@@ -1,1 +1,1 @@
-var mnemonic = "alone exile view practice peasant rally that dose cloth phrase neglect sustain";
+var mnemonic = "very crouch clean slab because genius east fantasy much wise strategy skill";

@@ -1,1 +1,1 @@
-var mnemonic = "language tunnel topic quote chunk tennis solve aim will cake hunt game";
+var mnemonic = "bamboo bring crazy sauce else dawn hundred thought twist bullet creek vanish";

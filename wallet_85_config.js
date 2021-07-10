@@ -1,1 +1,1 @@
-var mnemonic = "feed cart tribe tonight bonus retire matrix dance approve orient pitch fatal";
+var mnemonic = "cargo tube legal penalty toward shell prevent office pulp tuition certain elite";

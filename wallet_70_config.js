@@ -1,1 +1,1 @@
-var mnemonic = "shallow appear upper employ remove problem admit adult lamp material dutch volcano";
+var mnemonic = "accident baby envelope short okay major mutual hub reunion sunset quick carpet";

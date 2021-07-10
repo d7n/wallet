@@ -1,1 +1,1 @@
-var mnemonic = "stove sell donkey unknown hollow educate east drive coffee upon prison project";
+var mnemonic = "wise feel material avocado address absorb bind observe drip check outside super";

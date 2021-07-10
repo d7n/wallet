@@ -1,1 +1,1 @@
-var mnemonic = "rug fetch cabin what weasel need cute sell box road knife weird";
+var mnemonic = "small husband want slab episode pepper acid inform silver stamp order include";

@@ -1,1 +1,1 @@
-var mnemonic = "bar taste comic drama zero measure earth faculty true snow salad fall";
+var mnemonic = "grow nerve image bar weather clay drive toss exile strike urban job";

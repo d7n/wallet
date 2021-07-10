@@ -1,1 +1,1 @@
-var mnemonic = "gather size shove chimney alarm year joke trip normal fat wrestle ship";
+var mnemonic = "tomorrow mystery guilt boring exchange glare palm resource harbor crouch helmet work";

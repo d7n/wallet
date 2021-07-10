@@ -1,1 +1,1 @@
-var mnemonic = "roast raise avoid angry slow slice expect media junk wealth initial kitchen";
+var mnemonic = "snow drill erase neck bid vote wheat army sport mystery vacuum knock";

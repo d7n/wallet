@@ -1,1 +1,1 @@
-var mnemonic = "oblige promote ship ghost hazard direct shop fluid grant shoulder virus liberty";
+var mnemonic = "toast wagon bracket law bottom page check comic insect circle cotton identify";

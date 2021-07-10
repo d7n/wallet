@@ -1,1 +1,1 @@
-var mnemonic = "okay erosion equal arrange print list tragic leopard equal another merry december";
+var mnemonic = "width catalog skirt large fall wall more erode glide fluid fantasy spatial";

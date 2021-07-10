@@ -1,1 +1,1 @@
-var mnemonic = "asset hollow orange talent parade image expose again truck rural baby venture";
+var mnemonic = "denial shine tail husband hurt shrug where trust question forget jazz deny";

@@ -1,1 +1,1 @@
-var mnemonic = "excite table lottery duty demise hour any apple earn child work snap";
+var mnemonic = "alert rain stem victory gentle future forward spare thing speak course output";

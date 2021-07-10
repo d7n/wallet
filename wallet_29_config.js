@@ -1,1 +1,1 @@
-var mnemonic = "assault green flip moment pause asset media jeans flock whale knock usage";
+var mnemonic = "bench exile south endorse milk need admit unable fossil property skill mix";

@@ -1,1 +1,1 @@
-var mnemonic = "sound latin retire sing forget lonely evoke portion exclude rebuild crop century";
+var mnemonic = "baby deer mixed real upon cable illegal pet tree area waste song";

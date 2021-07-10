@@ -1,1 +1,1 @@
-var mnemonic = "nephew sniff leopard sorry steak disagree pig pond weather peasant model wish";
+var mnemonic = "argue cigar capable liberty pretty cruise potato sunny jaguar symptom cherry empower";

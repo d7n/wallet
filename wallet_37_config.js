@@ -1,1 +1,1 @@
-var mnemonic = "steel frozen record magic milk farm frequent lend champion silk sudden isolate";
+var mnemonic = "notable public visa upset organ patrol grant frame crater engine behind dragon";

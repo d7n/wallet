@@ -1,1 +1,1 @@
-var mnemonic = "gas claw rather earth pool dad acquire actor ask lesson artwork index";
+var mnemonic = "calm priority pen step acquire marriage conduct cigar inhale output document menu";

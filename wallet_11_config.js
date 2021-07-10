@@ -1,1 +1,1 @@
-var mnemonic = "dress buffalo cereal buzz system salmon stumble tragic endorse swap erupt pair";
+var mnemonic = "unveil sound twist auction lonely bargain border balance draft erase special solve";

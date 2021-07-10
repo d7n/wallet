@@ -1,1 +1,1 @@
-var mnemonic = "demand impose crush solution then other engine kidney shoot office multiply liquid";
+var mnemonic = "ahead screen sun canoe steak fame century head gas slam three above";

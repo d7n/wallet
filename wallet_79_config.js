@@ -1,1 +1,1 @@
-var mnemonic = "tiger moral scale say sword try phone roof lunch item subway system";
+var mnemonic = "involve upon know distance matrix peasant cruise empty cattle hand over differ";

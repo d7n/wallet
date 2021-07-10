@@ -1,1 +1,1 @@
-var mnemonic = "real sport noise alcohol skin orient own skin penalty very bicycle baby";
+var mnemonic = "case disorder pitch equal theme expose primary daughter panther amused carry army";

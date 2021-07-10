@@ -1,1 +1,1 @@
-var mnemonic = "click image north lumber can net saddle solution verb caution street owner";
+var mnemonic = "grid practice melody grain sphere cash buzz measure grocery motion bachelor shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake hurry water sight merit way spell enhance sand expose kingdom bottom";
+var mnemonic = "fiber cycle nest attitude private reward gauge loyal sun interest month inhale";

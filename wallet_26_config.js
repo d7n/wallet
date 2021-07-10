@@ -1,1 +1,1 @@
-var mnemonic = "globe vanish aspect home hub cupboard victory jewel vicious summer during require";
+var mnemonic = "rose basket february version project twin tissue shed border include parent observe";

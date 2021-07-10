@@ -1,1 +1,1 @@
-var mnemonic = "impose defy gun air approve word sick bench purchase horn gauge scissors";
+var mnemonic = "grow curve come crowd deliver syrup quote head appear wagon fade output";

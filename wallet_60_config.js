@@ -1,1 +1,1 @@
-var mnemonic = "world avoid pet romance deny thumb lava fatigue sweet rib inflict diesel";
+var mnemonic = "enhance rent shield cool cushion phone drama plastic add aerobic tuition alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual first loan dismiss bring feel system kick foam follow lounge invest";
+var mnemonic = "benefit sport balance course music crew labor elbow cruel chat lazy unfair";

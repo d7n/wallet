@@ -1,1 +1,1 @@
-var mnemonic = "west lawn frown method build volcano hour feed about verify moment wagon";
+var mnemonic = "card diamond toddler enforce subject logic thumb chair flee wide glass hover";

@@ -1,1 +1,1 @@
-var mnemonic = "recall busy bone festival exclude exchange mule palace ahead share liberty text";
+var mnemonic = "venue river give scrub ranch cousin limb venture tourist review column doctor";

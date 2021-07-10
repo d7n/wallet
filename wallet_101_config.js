@@ -1,1 +1,1 @@
-var mnemonic = "refuse maple pass employ tilt cost adapt craft space deputy method leave";
+var mnemonic = "hard squirrel fiber concert buyer short involve life will noise random risk";

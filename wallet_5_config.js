@@ -1,1 +1,1 @@
-var mnemonic = "sausage bottom elegant deer wonder long glimpse east grass park moral liquid";
+var mnemonic = "they interest boring monster island route grid alcohol about web adapt uniform";

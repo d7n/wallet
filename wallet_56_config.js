@@ -1,1 +1,1 @@
-var mnemonic = "foam scale improve nurse jazz cement fossil wish ignore panic minimum media";
+var mnemonic = "praise leopard whisper wealth squirrel slight employ spray pistol foam chimney auto";

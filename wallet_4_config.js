@@ -1,1 +1,1 @@
-var mnemonic = "broom lottery devote habit spawn domain culture again man also pattern tone";
+var mnemonic = "ivory invest piano galaxy switch daughter expand picture assault eager elite enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon camp range deputy century load image cup pass ripple lunar hello";
+var mnemonic = "task pear glue obtain corn gather toast useful stem cluster second model";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer fragile certain liar only long essence stable present shrug infant lucky";
+var mnemonic = "benefit famous prize evolve survey lava brother eager input weather resist cargo";

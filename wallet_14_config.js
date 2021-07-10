@@ -1,1 +1,1 @@
-var mnemonic = "small mother entire project eyebrow pottery soldier habit monitor crowd humble popular";
+var mnemonic = "alarm guard wish turn fragile hover smart sound office apple useless truth";

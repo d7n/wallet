@@ -1,1 +1,1 @@
-var mnemonic = "bicycle useful gym soldier birth noble thought now race must wear inquiry";
+var mnemonic = "notable zebra because cigar visual figure turn silk sustain deputy little yard";

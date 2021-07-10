@@ -1,1 +1,1 @@
-var mnemonic = "eternal render grief begin below reason antenna opinion twelve close ceiling ill";
+var mnemonic = "damage glove thing bless output tunnel ripple multiply luxury shiver pupil delay";

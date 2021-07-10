@@ -1,1 +1,1 @@
-var mnemonic = "when path frame clean code agree business narrow bus occur airport they";
+var mnemonic = "slide tenant calm cannon push glare net panic analyst december response high";

@@ -1,1 +1,1 @@
-var mnemonic = "asset trash october timber solid design hybrid buddy effort review define abstract";
+var mnemonic = "fuel sustain pear deal idea where street abuse else hamster airport timber";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow start bitter twelve tag speed grocery castle popular pizza lab pill";
+var mnemonic = "once idea remember vanish device roast angle planet phrase enough salmon elevator";

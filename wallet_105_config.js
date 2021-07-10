@@ -1,1 +1,1 @@
-var mnemonic = "census tag grid height wagon artefact clump brass hedgehog rude pelican antenna";
+var mnemonic = "post unhappy half ticket index regular duty lake liar charge hire weekend";

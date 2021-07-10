@@ -1,1 +1,1 @@
-var mnemonic = "ghost certain sun couch chimney trigger type twenty space siege mom pause";
+var mnemonic = "mystery music friend scorpion park girl phrase pretty bullet next wet wrap";

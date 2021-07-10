@@ -1,1 +1,1 @@
-var mnemonic = "claim daughter chicken result lens wise scorpion fix creek slow supply priority";
+var mnemonic = "author entry tag sign pave swift wage pair breeze mass bring abandon";

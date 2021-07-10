@@ -1,1 +1,1 @@
-var mnemonic = "frame flip maze wine frost crouch violin joke churn surround two season";
+var mnemonic = "canyon race good lonely excess brand pond fossil tattoo gun lens path";

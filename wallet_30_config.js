@@ -1,1 +1,1 @@
-var mnemonic = "news around tape bunker tower divorce gown mandate wine orange leg picnic";
+var mnemonic = "inside clerk lounge quit spot before prize innocent upon decade happy eager";

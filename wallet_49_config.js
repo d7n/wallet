@@ -1,1 +1,1 @@
-var mnemonic = "fiction rice hair maid gate resist honey wine relax mask misery sea";
+var mnemonic = "stay open hello orient neither rifle differ road nice letter rate bring";

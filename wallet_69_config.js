@@ -1,1 +1,1 @@
-var mnemonic = "either latin dune laugh deputy bag before transfer bonus receive involve risk";
+var mnemonic = "knee junk crumble balance people enjoy wink slice tank unhappy meat learn";

@@ -1,1 +1,1 @@
-var mnemonic = "brass assume taste open foster dragon cheese dismiss fruit achieve mind over";
+var mnemonic = "issue buzz mask oppose seven dress wave culture middle path brush business";

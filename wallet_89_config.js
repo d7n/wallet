@@ -1,1 +1,1 @@
-var mnemonic = "section act correct penalty conduct tape juice oven inmate glue half robust";
+var mnemonic = "pink grass afraid seat inquiry useless level rotate adapt slow apple artwork";

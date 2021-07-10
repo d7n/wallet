@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog chaos pluck glow animal then ghost fetch solid journey first front";
+var mnemonic = "hour canvas forum now rather install coast level again win ranch cram";

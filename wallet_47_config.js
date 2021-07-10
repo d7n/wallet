@@ -1,1 +1,1 @@
-var mnemonic = "rude rare become stone caught rug fine slender pistol employ picnic gospel";
+var mnemonic = "pilot member bundle join viable scatter dream couch dry caught cheap impose";

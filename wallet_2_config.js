@@ -1,1 +1,1 @@
-var mnemonic = "grant pony happy total impact april layer tumble liar invite disease room";
+var mnemonic = "between recycle coyote volume silly know rifle arrive reunion extend evolve knee";

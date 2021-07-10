@@ -1,1 +1,1 @@
-var mnemonic = "figure exclude finish erupt double library ramp abstract trust say unfair kick";
+var mnemonic = "deny gown guilt believe conduct scorpion erode magnet evidence decade use wild";

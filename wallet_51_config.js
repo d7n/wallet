@@ -1,1 +1,1 @@
-var mnemonic = "aim solar work layer invite duty acid critic boost ostrich door elder";
+var mnemonic = "slide school powder prevent torch little since expand cry blush famous elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat until news volcano robot apart breeze banana parent unhappy cigar genre";
+var mnemonic = "high circle dumb shoot fiction ladder disagree trap sun once galaxy maximum";

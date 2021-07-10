@@ -1,1 +1,1 @@
-var mnemonic = "blanket blue slow found earth allow flower ring arctic praise layer oval";
+var mnemonic = "city fluid odor column there pause kitten captain easily east oblige eye";

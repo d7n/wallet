@@ -1,1 +1,1 @@
-var mnemonic = "forget head bargain balance problem cinnamon egg security fury cargo repeat lake";
+var mnemonic = "repair stuff tuna girl abandon traffic craft piece ceiling atom brother buffalo";

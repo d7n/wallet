@@ -1,1 +1,1 @@
-var mnemonic = "problem denial utility helmet mansion there often cube video estate nurse easily";
+var mnemonic = "husband orchard play caught mimic hunt dutch inform ladder push caution chimney";

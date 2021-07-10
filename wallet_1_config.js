@@ -1,1 +1,1 @@
-var mnemonic = "sort acquire twenty soldier sort blouse drop evil double top ahead glare";
+var mnemonic = "walk gasp relax then absorb shell route object match pepper talk tree";

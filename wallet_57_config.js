@@ -1,1 +1,1 @@
-var mnemonic = "machine observe stand car fury letter crunch cycle later dice current ski";
+var mnemonic = "face reopen drink add swamp friend stem useless deer recycle giant spawn";

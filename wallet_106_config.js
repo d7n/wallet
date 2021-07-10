@@ -1,1 +1,1 @@
-var mnemonic = "sketch fly jazz kit oppose combine mass silent sample crunch gravity reward";
+var mnemonic = "kidney cabin power final wide noise viable embody science wife trophy cradle";

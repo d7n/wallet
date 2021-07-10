@@ -1,1 +1,1 @@
-var mnemonic = "edit abuse spray window upper shoe layer express spread treat calm trend";
+var mnemonic = "rate elite narrow umbrella toast sudden injury circle empower cabin alert danger";

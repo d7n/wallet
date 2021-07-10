@@ -1,1 +1,1 @@
-var mnemonic = "energy youth half galaxy foam couch police begin voice mixed hover brush";
+var mnemonic = "jacket own twin ask debris organ east addict wet hen found must";

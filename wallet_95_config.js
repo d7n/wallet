@@ -1,1 +1,1 @@
-var mnemonic = "truth prosper mango observe price drive surface source bullet property bundle spoon";
+var mnemonic = "celery mixed puppy cotton pizza breeze vanish task blame noise coffee town";

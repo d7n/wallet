@@ -1,1 +1,1 @@
-var mnemonic = "kick abandon crumble dolphin cruise bean august mule wood adjust waste buffalo";
+var mnemonic = "drastic express correct federal member rose flash sibling dignity wing border stamp";

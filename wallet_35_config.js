@@ -1,1 +1,1 @@
-var mnemonic = "coil bread prefer hungry fiber april flight bar sight plate crack enter";
+var mnemonic = "either truth symptom gasp route flame multiply screen bamboo symbol warfare curious";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle access wide whip giggle record museum hospital unusual inject volcano high";
+var mnemonic = "manual denial head shiver faculty advance fine bonus orange maple recall rubber";

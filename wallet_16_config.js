@@ -1,1 +1,1 @@
-var mnemonic = "fetch purchase oak security rubber ship shoe future car quality oak ride";
+var mnemonic = "zero choice struggle perfect birth civil special charge find air burst grace";

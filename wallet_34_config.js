@@ -1,1 +1,1 @@
-var mnemonic = "trumpet pulse rough inherit filter brand lift diet curve tumble neither devote";
+var mnemonic = "mean crazy regular shy release vague tip begin vague merge then ship";

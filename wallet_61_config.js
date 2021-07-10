@@ -1,1 +1,1 @@
-var mnemonic = "punch toe glow tragic car blossom jar bubble forest library siren daring";
+var mnemonic = "obey kid picnic conduct crouch analyst kitten law wool produce candy pact";

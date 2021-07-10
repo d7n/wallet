@@ -1,1 +1,1 @@
-var mnemonic = "saddle slight slush cover chief decide auto clarify lock snack grain aspect";
+var mnemonic = "tongue develop title fan thumb symbol retire spice rigid clutch grain bulk";

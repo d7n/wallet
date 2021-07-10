@@ -1,1 +1,1 @@
-var mnemonic = "prepare chaos rival welcome cluster final timber agent valid random health chef";
+var mnemonic = "claim winner pole equal ritual recall entire humble side sign upon expand";

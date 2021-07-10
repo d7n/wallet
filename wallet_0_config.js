@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo broccoli seven globe tuition hidden measure rebuild will maple transfer inspire";
+var mnemonic = "rate between mad mechanic pelican solid minor depend debate horror base sheriff";

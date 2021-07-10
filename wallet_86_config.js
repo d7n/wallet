@@ -1,1 +1,1 @@
-var mnemonic = "hip assault dish shallow little soap pretty interest quit suffer digital fix";
+var mnemonic = "pool scout update voice yellow nose word tunnel long first evoke island";
