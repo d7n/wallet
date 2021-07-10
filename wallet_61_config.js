@@ -1,1 +1,1 @@
-var mnemonic = "verify story bubble home artwork unfair best merry popular reject add penalty";
+var mnemonic = "among maple trust genre moral board rent child wool cause response since";

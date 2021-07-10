@@ -1,1 +1,1 @@
-var mnemonic = "toy clinic ill hollow wheel sort aim quantum laptop host wage cheap";
+var mnemonic = "canoe clarify visa frequent fringe safe blanket estate strong giraffe poet main";

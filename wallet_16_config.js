@@ -1,1 +1,1 @@
-var mnemonic = "rich metal half crazy ivory social planet measure solid utility insect split";
+var mnemonic = "frog antenna fat scene surge beach rain drum beyond sail sad execute";

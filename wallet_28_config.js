@@ -1,1 +1,1 @@
-var mnemonic = "canoe cycle edge girl code recipe where endless wall suggest dwarf evoke";
+var mnemonic = "garment coast point razor horn banana remove culture impulse under fringe wrestle";

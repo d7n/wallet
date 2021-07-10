@@ -1,1 +1,1 @@
-var mnemonic = "tiny clay foster educate element tag potato novel boss pumpkin amount market";
+var mnemonic = "winner chief battle obscure clip demand net toast amused grass mountain soft";

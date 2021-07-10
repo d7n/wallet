@@ -1,1 +1,1 @@
-var mnemonic = "fog sphere argue news east mimic inspire cigar autumn dragon tail wide";
+var mnemonic = "defense now nephew acquire jazz simple recall such video crazy vibrant mixed";

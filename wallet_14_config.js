@@ -1,1 +1,1 @@
-var mnemonic = "salmon volume shadow burst october demand canal will absent crucial snap option";
+var mnemonic = "split reform trouble vibrant initial alcohol grass unveil spring icon famous ankle";

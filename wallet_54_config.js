@@ -1,1 +1,1 @@
-var mnemonic = "glass universe then baby sorry rural retreat scene flame letter believe upper";
+var mnemonic = "receive husband round drastic innocent rule another sketch tool spoon program walnut";

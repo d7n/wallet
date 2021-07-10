@@ -1,1 +1,1 @@
-var mnemonic = "poet speed gorilla toast wait army sword dizzy elbow sibling spring reflect";
+var mnemonic = "cake edit paddle polar rib level struggle wage layer tower scrub blur";

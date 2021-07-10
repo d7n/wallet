@@ -1,1 +1,1 @@
-var mnemonic = "spirit just love digital clean fancy kitten adapt conduct chat tiger hover";
+var mnemonic = "arrive man sunset wool guard method garment mushroom furnace thing believe sheriff";

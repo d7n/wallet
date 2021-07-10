@@ -1,1 +1,1 @@
-var mnemonic = "acid term dawn pyramid curious pigeon hockey scorpion vessel buffalo truly alert";
+var mnemonic = "client dove unveil century stone grid solve goose lizard section violin voice";

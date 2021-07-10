@@ -1,1 +1,1 @@
-var mnemonic = "hover slice pluck voice boring train business marriage kangaroo dinosaur reward north";
+var mnemonic = "tone loyal inside cross risk funny trigger jar cable easy another remain";

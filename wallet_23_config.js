@@ -1,1 +1,1 @@
-var mnemonic = "cupboard wool vacant glimpse wall around arrive any wolf mandate fog obvious";
+var mnemonic = "perfect subject patient bright blood corn kitchen install silly iron fury ridge";

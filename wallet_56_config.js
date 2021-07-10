@@ -1,1 +1,1 @@
-var mnemonic = "wrap lend puppy want basic onion isolate joke void clerk harvest solve";
+var mnemonic = "learn tunnel label asset rural surprise smoke initial payment consider moral judge";

@@ -1,1 +1,1 @@
-var mnemonic = "roast train popular chicken now turtle buddy venue glove crush dirt loan";
+var mnemonic = "seed blade clump quick armed yellow forward hurt arrest much blush live";

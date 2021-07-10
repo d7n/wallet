@@ -1,1 +1,1 @@
-var mnemonic = "seek husband ask mad together umbrella feed they fiscal imitate ecology clever";
+var mnemonic = "wrist boat among unknown brief wine analyst enrich brief brave weapon sunny";

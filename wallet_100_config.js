@@ -1,1 +1,1 @@
-var mnemonic = "genuine assume quiz slam birth lecture crime side sunset start script reveal";
+var mnemonic = "involve struggle solve mountain lake radio drill soldier choose sun math twist";

@@ -1,1 +1,1 @@
-var mnemonic = "weather torch cool egg loan promote correct length error weather topple celery";
+var mnemonic = "cereal cereal donkey yellow whisper oblige antique breeze prepare child female close";

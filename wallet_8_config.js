@@ -1,1 +1,1 @@
-var mnemonic = "animal into annual basic museum stick across champion keep mixed average wedding";
+var mnemonic = "zero wolf surface pattern slice stay home base later secret prison prison";

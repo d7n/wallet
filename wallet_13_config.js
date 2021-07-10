@@ -1,1 +1,1 @@
-var mnemonic = "never radar toast tube immense group dawn engage around adult light gauge";
+var mnemonic = "submit foil horse ensure stick margin enforce tape ticket tomorrow gloom quote";

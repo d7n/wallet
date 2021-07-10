@@ -1,1 +1,1 @@
-var mnemonic = "library ocean joy volcano asset barely clean barrel can power vacuum reduce";
+var mnemonic = "comic cross banana trust sketch fuel lend cat lens report enjoy grain";

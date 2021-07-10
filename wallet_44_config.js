@@ -1,1 +1,1 @@
-var mnemonic = "piece wisdom brown swarm oak cabbage hint reunion alter define clip zoo";
+var mnemonic = "angry hospital misery panel split path escape blossom rival genuine trigger mutual";

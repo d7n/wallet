@@ -1,1 +1,1 @@
-var mnemonic = "vicious fee area betray alcohol ankle glide sight puzzle fossil kit thank";
+var mnemonic = "beyond transfer enrich fabric funny tilt dad swear retreat witness video attend";

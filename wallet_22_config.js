@@ -1,1 +1,1 @@
-var mnemonic = "park cheap cruise toss dumb vote piano gather basket profit delay ivory";
+var mnemonic = "second keep catalog world minor worth where frog one topic priority search";

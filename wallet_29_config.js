@@ -1,1 +1,1 @@
-var mnemonic = "congress grain gloom rail situate program language gadget initial dutch weather flat";
+var mnemonic = "inner jaguar grain garage small liar detect favorite rack model loop grow";

@@ -1,1 +1,1 @@
-var mnemonic = "pass crop empty jaguar letter scene express sentence joke evidence voyage dog";
+var mnemonic = "tomorrow team fold print renew cave choose please define one dolphin tenant";

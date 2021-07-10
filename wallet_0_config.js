@@ -1,1 +1,1 @@
-var mnemonic = "soon dove laundry rigid pigeon retire client smart kick pencil abstract cup";
+var mnemonic = "clay invest burden strategy strong rookie tuition pyramid suggest cook balance bar";

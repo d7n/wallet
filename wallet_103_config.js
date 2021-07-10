@@ -1,1 +1,1 @@
-var mnemonic = "wasp gun people person glove repeat similar insane catalog smoke young satisfy";
+var mnemonic = "range dirt art judge humor key vessel obscure this cat client oblige";

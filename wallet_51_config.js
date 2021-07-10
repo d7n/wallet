@@ -1,1 +1,1 @@
-var mnemonic = "twice summer robot target fiction play fresh agree name caution fence frequent";
+var mnemonic = "inch effort blame double stool cousin dutch detect retreat orbit tree empower";

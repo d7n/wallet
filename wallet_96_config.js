@@ -1,1 +1,1 @@
-var mnemonic = "cotton fuel vocal aware tongue undo swamp relax retreat wedding pupil pudding";
+var mnemonic = "reason wise portion regular bicycle hungry since canal speed blue wave lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "just bomb virtual monitor below access ring hospital impose repeat ring win";
+var mnemonic = "napkin nut way involve remind crash clever dilemma before reflect hazard winter";

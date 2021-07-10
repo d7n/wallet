@@ -1,1 +1,1 @@
-var mnemonic = "basket fever join random helmet raven today boost limit zero federal gesture";
+var mnemonic = "outer endless census prepare urge catalog lamp original achieve entry typical clerk";

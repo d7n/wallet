@@ -1,1 +1,1 @@
-var mnemonic = "illegal census visit athlete caught sail diesel portion morning street midnight legal";
+var mnemonic = "cart royal steak cereal route illness science toss volume advance lyrics chalk";

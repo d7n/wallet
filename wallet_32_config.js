@@ -1,1 +1,1 @@
-var mnemonic = "ride battle select wall income earth trend poet apology salute flavor awake";
+var mnemonic = "tiny aunt garlic trim loop youth exchange lazy whale process knock lady";

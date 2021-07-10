@@ -1,1 +1,1 @@
-var mnemonic = "second face wait alone require naive frame fortune stone chat tobacco visa";
+var mnemonic = "bar nuclear recycle live hello seed naive audit feel yellow tiny pact";

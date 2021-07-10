@@ -1,1 +1,1 @@
-var mnemonic = "banana patch divert zone empty measure success velvet expand silly umbrella enable";
+var mnemonic = "express concert surround list hamster learn cycle scale pond gain lucky sign";

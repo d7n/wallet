@@ -1,1 +1,1 @@
-var mnemonic = "early dry merge garage fiscal admit author state dad economy illness punch";
+var mnemonic = "human rule wink apple reunion purse jewel jewel torch quantum patch matter";

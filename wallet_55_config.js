@@ -1,1 +1,1 @@
-var mnemonic = "cruel panic orient fame comic quiz blame purse hub humble shallow excess";
+var mnemonic = "tragic glow source leisure series useful bacon slush group swing street spray";

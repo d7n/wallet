@@ -1,1 +1,1 @@
-var mnemonic = "unfold knock nation law soup orphan choose lunar purity bomb card favorite";
+var mnemonic = "receive repair chimney unknown phone point abuse swim gauge pumpkin give sausage";

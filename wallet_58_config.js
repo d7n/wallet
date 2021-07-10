@@ -1,1 +1,1 @@
-var mnemonic = "useful loyal movie bicycle check inherit shield uphold cash useless view echo";
+var mnemonic = "moment manual mandate december dial pistol life car anxiety boy carbon mandate";

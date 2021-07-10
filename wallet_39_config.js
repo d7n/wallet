@@ -1,1 +1,1 @@
-var mnemonic = "document permit blame laptop indoor cloth snap derive fresh gift afraid marine";
+var mnemonic = "couch sight glad audit half curtain lift merit license safe estate source";

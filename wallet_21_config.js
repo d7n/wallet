@@ -1,1 +1,1 @@
-var mnemonic = "corn relax clerk master void trip safe fluid maple usual cloud pilot";
+var mnemonic = "short fault old knife shallow empower foam destroy maze hub plunge goddess";

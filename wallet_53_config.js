@@ -1,1 +1,1 @@
-var mnemonic = "deer palace maid lobster badge state finger claim slow solid never hospital";
+var mnemonic = "raccoon sound ugly student crisp liar income segment else disease cram embrace";

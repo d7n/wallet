@@ -1,1 +1,1 @@
-var mnemonic = "coffee flock rare borrow dragon arrow machine rather danger marble oppose negative";
+var mnemonic = "other reason kitten north doctor spatial blame uncover unusual scatter pill mosquito";

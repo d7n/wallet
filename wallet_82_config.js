@@ -1,1 +1,1 @@
-var mnemonic = "lab tuition rack mutual program volume welcome inner fiction labor silk science";
+var mnemonic = "wife sword ethics theme use rely someone door expose bacon destroy eight";

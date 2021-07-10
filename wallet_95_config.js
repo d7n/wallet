@@ -1,1 +1,1 @@
-var mnemonic = "young endless prison stock kingdom announce fat biology spray wheel note supply";
+var mnemonic = "turtle mechanic leader oxygen budget pill valid sport wine ignore pole much";

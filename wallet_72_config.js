@@ -1,1 +1,1 @@
-var mnemonic = "canvas later season genius target style author ship weapon pupil quiz profit";
+var mnemonic = "morning install target olive slab burger provide sock practice electric visit pizza";

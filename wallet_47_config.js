@@ -1,1 +1,1 @@
-var mnemonic = "warrior select travel wrong husband credit illegal deer reason sound hood hawk";
+var mnemonic = "lion bus seven copper leisure impact lumber repeat uphold wagon dignity leader";

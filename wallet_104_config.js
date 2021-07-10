@@ -1,1 +1,1 @@
-var mnemonic = "develop hero stick movie december art brother boat leave youth drastic pole";
+var mnemonic = "steak olive option sad hub clinic gesture pilot focus castle spy month";

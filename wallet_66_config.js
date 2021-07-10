@@ -1,1 +1,1 @@
-var mnemonic = "various immense guard social cluster enact squeeze budget owner salad cannon guide";
+var mnemonic = "twice hospital awkward giraffe stand supply gas attend three vault replace climb";

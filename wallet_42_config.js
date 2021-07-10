@@ -1,1 +1,1 @@
-var mnemonic = "bottom lawn journey accident argue target rule surface piece business custom shuffle";
+var mnemonic = "shrug library knife pulp acoustic street cereal run flip spring liberty anchor";

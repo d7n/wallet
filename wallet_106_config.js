@@ -1,1 +1,1 @@
-var mnemonic = "monkey bachelor permit core enter school execute hint type pact only decrease";
+var mnemonic = "need perfect energy involve bullet tilt near sound spice share link rely";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar affair sheriff hire boy vicious distance recycle upgrade rain burden decrease";
+var mnemonic = "vacant swear media column quantum poverty solid timber topic business quiz pluck";

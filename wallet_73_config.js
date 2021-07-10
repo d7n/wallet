@@ -1,1 +1,1 @@
-var mnemonic = "kitten staff armed erosion cook apple bronze again speed rate atom joke";
+var mnemonic = "rabbit circle isolate shop add appear unveil nasty vague session shop casino";

@@ -1,1 +1,1 @@
-var mnemonic = "inner gate matter winter shock clarify visa shoulder decline slim useful sketch";
+var mnemonic = "explain midnight rude virus dream exclude cigar tenant key perfect endorse forget";

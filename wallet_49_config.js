@@ -1,1 +1,1 @@
-var mnemonic = "sweet local price sausage human stand feature cage ginger test hockey correct";
+var mnemonic = "light office expire uniform stable clap advice fresh school garlic check pigeon";

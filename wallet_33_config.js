@@ -1,1 +1,1 @@
-var mnemonic = "police sail awkward honey success electric beyond display seminar provide blame middle";
+var mnemonic = "hunt baby valve elegant refuse night history quantum enrich phone book snap";

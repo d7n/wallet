@@ -1,1 +1,1 @@
-var mnemonic = "share wage cigar left unit corn choice advice divide civil arch hybrid";
+var mnemonic = "spider evidence wire canyon tired shoot build olympic wreck impact blur click";

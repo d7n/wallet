@@ -1,1 +1,1 @@
-var mnemonic = "fiscal drive input embark myself easily tank teach stove market hundred people";
+var mnemonic = "hamster father embrace pipe mother abuse unknown chef proof strategy range six";

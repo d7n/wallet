@@ -1,1 +1,1 @@
-var mnemonic = "armed spice text penalty safe surge three dose reunion connect card stock";
+var mnemonic = "deputy asthma square inform wage come position amount word dish wheat hire";

@@ -1,1 +1,1 @@
-var mnemonic = "subject elbow clock auction tilt horse arch decade priority wash power pyramid";
+var mnemonic = "carbon vendor ready tag silver portion pet index live exercise fame between";

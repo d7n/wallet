@@ -1,1 +1,1 @@
-var mnemonic = "profit angle hint cave snow short liberty fog brief obvious vintage rural";
+var mnemonic = "jaguar news dinner blossom cactus grant pilot business render immune output crumble";

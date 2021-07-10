@@ -1,1 +1,1 @@
-var mnemonic = "knock reward zone blur stamp endorse resist duty gym donkey vital artist";
+var mnemonic = "output twelve razor hurry liar shallow ready excuse try tennis profit define";

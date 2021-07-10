@@ -1,1 +1,1 @@
-var mnemonic = "usage maximum early bomb neither few apology process during script sorry sea";
+var mnemonic = "town error alcohol boost lab chest under mad high pair major task";

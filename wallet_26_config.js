@@ -1,1 +1,1 @@
-var mnemonic = "build guess vacuum wedding name wet icon balance sound uncover eye bottom";
+var mnemonic = "luxury marble parent regret moment cigar eagle magic journey flash little never";

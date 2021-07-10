@@ -1,1 +1,1 @@
-var mnemonic = "next end rack chief expose tree demise size valid put gallery dash";
+var mnemonic = "lawn left wealth science excuse excess traffic topic ordinary narrow piece melt";

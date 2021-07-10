@@ -1,1 +1,1 @@
-var mnemonic = "city mystery basket hope favorite curtain service caught useful tent powder decade";
+var mnemonic = "essence year glove expand spare apology they diesel glimpse timber camera glow";

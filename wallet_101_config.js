@@ -1,1 +1,1 @@
-var mnemonic = "garment garbage drink cycle absurd emotion dynamic gorilla sail galaxy energy direct";
+var mnemonic = "toss spell sail shed result raven drum domain receive fresh program chair";

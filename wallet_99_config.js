@@ -1,1 +1,1 @@
-var mnemonic = "april curtain fresh call advice people isolate orient worry denial ask venture";
+var mnemonic = "people marble lemon summer bird one toilet lizard defy logic shift seed";

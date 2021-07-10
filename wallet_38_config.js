@@ -1,1 +1,1 @@
-var mnemonic = "wife attitude winner ready involve finger wine oblige cruel enhance below turn";
+var mnemonic = "cat yard barrel barrel cook main gloom solve orange kiwi struggle surprise";

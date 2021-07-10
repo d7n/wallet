@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sphere exotic vanish globe dolphin sweet open shuffle gadget verify sugar";
+var mnemonic = "tip robust junk sleep exercise glimpse sniff normal bone isolate lyrics creek";

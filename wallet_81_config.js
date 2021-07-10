@@ -1,1 +1,1 @@
-var mnemonic = "spoil pigeon either assist cup reopen diesel worry zone misery scene mass";
+var mnemonic = "lion cheap powder fresh ride giggle destroy gossip smart define various donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "utility once quick umbrella venue file desk benefit assault upon aisle settle";
+var mnemonic = "volcano orbit betray butter nephew elder brown assault job local beef tortoise";

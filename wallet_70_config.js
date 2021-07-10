@@ -1,1 +1,1 @@
-var mnemonic = "session dash resemble faint chief card favorite shoot adapt tip orange latin";
+var mnemonic = "hub orbit brother blame naive observe bronze position label useful remain staff";

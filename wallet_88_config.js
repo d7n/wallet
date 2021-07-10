@@ -1,1 +1,1 @@
-var mnemonic = "like inform crunch snow silk observe promote battle lamp peanut hospital poverty";
+var mnemonic = "point debate clever minimum cycle feature voice evil scatter sport famous still";

@@ -1,1 +1,1 @@
-var mnemonic = "survey rack thrive bench off glare confirm attitude boil rent open message";
+var mnemonic = "elegant unusual hover fix ankle cave inside tower minor zoo repair sting";

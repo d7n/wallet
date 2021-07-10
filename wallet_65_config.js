@@ -1,1 +1,1 @@
-var mnemonic = "music sick file note virus remember mule glory domain farm loyal cup";
+var mnemonic = "auto radar chef success youth organ two flush motor excess sample field";

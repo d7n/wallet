@@ -1,1 +1,1 @@
-var mnemonic = "bonus seven exile middle point bleak inject minute fatal soon code object";
+var mnemonic = "ill ability soft feel priority hockey shed marine thank need shed chat";

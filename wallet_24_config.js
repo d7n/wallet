@@ -1,1 +1,1 @@
-var mnemonic = "image youth later turtle upper abandon hamster unusual label satoshi trip aisle";
+var mnemonic = "attend loyal warfare manage gallery disagree access shoot horn recall drift tornado";

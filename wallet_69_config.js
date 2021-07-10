@@ -1,1 +1,1 @@
-var mnemonic = "engage offer dinner home device camp exhibit copper enroll ecology speak flip";
+var mnemonic = "icon aim life punch damage family bleak useful bulb will fan hold";

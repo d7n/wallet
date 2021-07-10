@@ -1,1 +1,1 @@
-var mnemonic = "fine grain illness submit tiger subway drill jar permit tackle cattle nephew";
+var mnemonic = "tell man spirit discover gadget cute estate sniff issue inquiry cute august";

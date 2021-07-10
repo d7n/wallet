@@ -1,1 +1,1 @@
-var mnemonic = "polar catalog conduct fan bleak legal save whisper planet brief flame praise";
+var mnemonic = "moon current attend crime hood soda zone hazard subject private gorilla document";

@@ -1,1 +1,1 @@
-var mnemonic = "small panel below visit cash marriage maple dish better permit similar weapon";
+var mnemonic = "giant cheap common census twelve real valid holiday hamster riot spoil enemy";

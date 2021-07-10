@@ -1,1 +1,1 @@
-var mnemonic = "space tail machine gaze manual velvet ancient flag social copper damp inform";
+var mnemonic = "term boss credit obscure argue festival attack employ crater before amount cave";

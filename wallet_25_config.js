@@ -1,1 +1,1 @@
-var mnemonic = "also damage dial journey solve method vanish fortune siren average marriage quick";
+var mnemonic = "elbow valve bottom laundry obey please thumb cruel they detail moon rice";

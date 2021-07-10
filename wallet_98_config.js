@@ -1,1 +1,1 @@
-var mnemonic = "hunt breeze pen dignity peanut pool giggle kit frame gossip project cable";
+var mnemonic = "congress pair vast orient behave adapt merge wife talk floor drill shoulder";

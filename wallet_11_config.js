@@ -1,1 +1,1 @@
-var mnemonic = "economy quantum trophy tackle topple timber question potato earth pride mix aisle";
+var mnemonic = "memory slice humble fatigue notable enroll crew frog saddle fitness dumb indicate";

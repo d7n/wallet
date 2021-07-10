@@ -1,1 +1,1 @@
-var mnemonic = "thank message stay wheat car shield few song toilet blur grunt beyond";
+var mnemonic = "length dutch maximum comic census depth already wave spice sentence swim reject";
