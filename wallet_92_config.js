@@ -1,1 +1,1 @@
-var mnemonic = "cheese begin glide cliff wide auction tag sport genre raven rocket happy";
+var mnemonic = "rifle friend mix thing empower laptop eyebrow border hill final spider end";

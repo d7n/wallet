@@ -1,1 +1,1 @@
-var mnemonic = "bundle hand cloud maximum hybrid piano infant pretty will cram doll away";
+var mnemonic = "outside range believe firm annual frost about approve blossom obvious piece truck";

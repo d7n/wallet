@@ -1,1 +1,1 @@
-var mnemonic = "urge rent dolphin popular tent inspire notable office grace sheriff mimic razor";
+var mnemonic = "mask video oak flock decade connect reopen term interest economy glove reduce";

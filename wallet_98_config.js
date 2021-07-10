@@ -1,1 +1,1 @@
-var mnemonic = "property skin used round afraid absent exile spread entry clap pudding famous";
+var mnemonic = "surprise ahead one repair slim quit wheel notable crime enjoy rely nominee";

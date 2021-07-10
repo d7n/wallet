@@ -1,1 +1,1 @@
-var mnemonic = "mimic sort spawn wild clock place suggest seven beauty dutch crowd couple";
+var mnemonic = "rocket state emerge neck donkey energy hybrid angry popular vacant spoon country";

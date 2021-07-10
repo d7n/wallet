@@ -1,1 +1,1 @@
-var mnemonic = "clinic note cherry useless vital yellow size outer tank antique earn damage";
+var mnemonic = "devote weasel guide theory oyster toilet alpha punch monster giraffe leg expose";

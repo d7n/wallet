@@ -1,1 +1,1 @@
-var mnemonic = "clerk digital extend quarter enemy message isolate avocado engage huge ostrich tent";
+var mnemonic = "ranch issue foil anger able pitch act breeze attack rival click wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "path grab foil flush cinnamon cactus enroll cause salon hidden agree manual";
+var mnemonic = "arrive poverty smooth month swap cupboard arrest three actor utility firm ribbon";

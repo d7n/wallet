@@ -1,1 +1,1 @@
-var mnemonic = "festival tube blouse one diagram boil grass modify banner banner material pen";
+var mnemonic = "roast kangaroo left matter manage version eyebrow prepare lonely cabin pipe witness";

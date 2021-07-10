@@ -1,1 +1,1 @@
-var mnemonic = "helmet cabbage husband help hobby wife wide kid must peace always leader";
+var mnemonic = "gadget proud belt okay either hundred expand goose mercy orient siren soldier";

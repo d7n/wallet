@@ -1,1 +1,1 @@
-var mnemonic = "chat sugar hockey fury element concert alien chuckle desk tray head charge";
+var mnemonic = "swim burden crew danger genius ready piece bring siege lesson cool clever";

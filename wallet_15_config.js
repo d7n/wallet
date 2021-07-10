@@ -1,1 +1,1 @@
-var mnemonic = "mandate dignity improve divide wisdom goose shock frown stock soft engage ocean";
+var mnemonic = "drama minute please remain marriage depth swim food pattern crop extend stage";

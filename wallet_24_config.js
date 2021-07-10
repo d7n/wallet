@@ -1,1 +1,1 @@
-var mnemonic = "column student knife page neglect until act lava miracle educate sustain hundred";
+var mnemonic = "danger olympic cheap other human advice job sick guitar rely kick rack";

@@ -1,1 +1,1 @@
-var mnemonic = "height series client bullet minimum ugly razor recipe begin engage door sugar";
+var mnemonic = "energy frame opinion oval fee property crane atom doll menu afraid accident";

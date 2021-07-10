@@ -1,1 +1,1 @@
-var mnemonic = "miss observe remain welcome come whale check ability click glow yellow spike";
+var mnemonic = "attend very change fiction visual check mirror oblige hill reject fury place";

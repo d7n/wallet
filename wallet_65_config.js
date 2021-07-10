@@ -1,1 +1,1 @@
-var mnemonic = "van margin arrive exile ketchup shuffle faint dream hill slot body journey";
+var mnemonic = "joke ridge achieve zero panel cake rain slush cement million manual round";

@@ -1,1 +1,1 @@
-var mnemonic = "forward cage nerve pink useless mimic fancy artist quit able action fortune";
+var mnemonic = "rain holiday chat december evidence thing agent decline cattle add mistake near";

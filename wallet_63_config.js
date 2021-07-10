@@ -1,1 +1,1 @@
-var mnemonic = "gesture subject income injury kick margin crowd crunch marble betray envelope mistake";
+var mnemonic = "canyon ritual fly coffee junior bind melt energy slab exhibit clarify convince";

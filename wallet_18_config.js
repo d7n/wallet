@@ -1,1 +1,1 @@
-var mnemonic = "blind sign omit panic soap sudden powder green stock source easily media";
+var mnemonic = "planet wife key priority aim opera category humble item lounge snack square";

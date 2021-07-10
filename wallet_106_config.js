@@ -1,1 +1,1 @@
-var mnemonic = "manual expose fatigue predict mouse trash lounge proud ticket tunnel phone tribe";
+var mnemonic = "best tray toddler over license truth fancy clever desert minimum apart front";

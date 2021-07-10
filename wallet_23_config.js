@@ -1,1 +1,1 @@
-var mnemonic = "seven vehicle behave day robot autumn humor muffin bonus give often aisle";
+var mnemonic = "youth badge accident winner thank wrong infant good luggage sketch soon seat";

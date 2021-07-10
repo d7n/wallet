@@ -1,1 +1,1 @@
-var mnemonic = "reform random almost lounge imitate night laugh wash night sample render true";
+var mnemonic = "quality blur core awake fortune aim urban require code fringe select sheriff";

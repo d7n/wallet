@@ -1,1 +1,1 @@
-var mnemonic = "cruel orange margin ugly comfort flower modify flavor plastic state fury detail";
+var mnemonic = "hover snake bulk casual silly agree practice mushroom margin artefact lunar twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow bamboo ride fossil bulk dance arena history father slim vessel diagram";
+var mnemonic = "extend enroll skate enforce travel apart fit idea ladder insane setup carbon";

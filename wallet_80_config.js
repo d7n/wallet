@@ -1,1 +1,1 @@
-var mnemonic = "power image kitchen dish custom judge aunt fiber soup cart laugh benefit";
+var mnemonic = "catch grocery blouse hand evidence total pizza hunt olympic charge sound mountain";

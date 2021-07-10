@@ -1,1 +1,1 @@
-var mnemonic = "autumn stage sponsor aware like behind walnut grocery glance found judge addict";
+var mnemonic = "trouble half mechanic riot reopen select random flag that blade thought foot";

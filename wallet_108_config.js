@@ -1,1 +1,1 @@
-var mnemonic = "gloom dash fine lumber mixture stereo salmon zoo second dust simple immense";
+var mnemonic = "lucky already critic broken wreck lens letter steel exclude worry mango shock";

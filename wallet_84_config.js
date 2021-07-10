@@ -1,1 +1,1 @@
-var mnemonic = "valve basket write enemy fortune grace pumpkin solve struggle possible rail reject";
+var mnemonic = "giggle news hour suit noble chimney essence green insane pen project attract";

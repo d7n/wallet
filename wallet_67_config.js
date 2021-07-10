@@ -1,1 +1,1 @@
-var mnemonic = "region tumble rotate banana speak define slim cable position poverty weekend laptop";
+var mnemonic = "manage open state sustain gospel essay grow social accuse history calm scrub";

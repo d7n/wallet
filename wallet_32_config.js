@@ -1,1 +1,1 @@
-var mnemonic = "smart plunge core provide control jealous ranch day body lab hat climb";
+var mnemonic = "involve battle siege swift deny decorate balcony banner pulse depend love primary";

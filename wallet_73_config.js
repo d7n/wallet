@@ -1,1 +1,1 @@
-var mnemonic = "mystery round scrap draw lucky cube sibling food decrease tag ocean chimney";
+var mnemonic = "pave rigid kid marble country country estate rebel game marriage wrap true";

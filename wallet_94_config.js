@@ -1,1 +1,1 @@
-var mnemonic = "shiver tenant small physical logic vibrant summer tape speak spatial wild social";
+var mnemonic = "mystery hammer original tag aim weather woman portion celery genuine occur during";

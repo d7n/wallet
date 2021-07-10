@@ -1,1 +1,1 @@
-var mnemonic = "helmet swing tonight recall blanket afraid assume swap echo arrive moment knife";
+var mnemonic = "lemon tiger flight intact clown retreat retire planet ski normal surface return";

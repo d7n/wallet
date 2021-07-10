@@ -1,1 +1,1 @@
-var mnemonic = "insect index law office fortune erupt rigid later scare cement phrase legend";
+var mnemonic = "embrace sunny donate discover differ kiwi midnight stadium verb east size album";

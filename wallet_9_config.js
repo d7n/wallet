@@ -1,1 +1,1 @@
-var mnemonic = "normal custom toddler seed sell fit then goat option glass now benefit";
+var mnemonic = "kingdom express balcony pepper empty grocery island early oval melt timber pigeon";

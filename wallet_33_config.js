@@ -1,1 +1,1 @@
-var mnemonic = "wasp friend fame gun sting rebuild concert kitten fit roast motor urban";
+var mnemonic = "wrestle diagram clip polar gain spare title battle produce best voice home";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic lizard mail chuckle mention route garden girl notice comic suit rude";
+var mnemonic = "box betray truck valid write eager shoulder vendor attract floor hand dune";

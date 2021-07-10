@@ -1,1 +1,1 @@
-var mnemonic = "mind match damp side fan resist tail already chef innocent guilt civil";
+var mnemonic = "lyrics pipe audit purchase crumble member eternal average laundry elbow total gaze";

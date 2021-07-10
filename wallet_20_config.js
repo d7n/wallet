@@ -1,1 +1,1 @@
-var mnemonic = "enter bottom hammer dune seek interest mirror suffer tourist miracle flight cargo";
+var mnemonic = "reason thought soap kiwi cream pioneer connect between come kite rapid lunch";

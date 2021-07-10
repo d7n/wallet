@@ -1,1 +1,1 @@
-var mnemonic = "people payment camp basic empower decrease carry poverty shoe awesome thank inflict";
+var mnemonic = "acquire warm series youth food wisdom govern bottom coconut nuclear custom street";

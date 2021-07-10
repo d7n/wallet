@@ -1,1 +1,1 @@
-var mnemonic = "resemble october glue shy final visual act winter reform knife early mirror";
+var mnemonic = "change century bean forum never claim oak heavy yard hungry shaft sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow blouse nerve pistol object donkey involve purpose cricket uniform soccer slow";
+var mnemonic = "cattle diesel juice unusual word slab guitar surface crumble enable this column";

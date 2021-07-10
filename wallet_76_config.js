@@ -1,1 +1,1 @@
-var mnemonic = "excess maze add recall dismiss dial burden answer picture domain wasp obey";
+var mnemonic = "kick song gadget cabbage lumber dolphin milk edge portion abuse screen rail";

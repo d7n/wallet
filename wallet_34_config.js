@@ -1,1 +1,1 @@
-var mnemonic = "predict blossom unaware property floor alert hybrid shoe sauce rude rare jealous";
+var mnemonic = "vintage toy assist blood impact edit spy filter shiver shoe bacon crisp";

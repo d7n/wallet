@@ -1,1 +1,1 @@
-var mnemonic = "grace honey silk lesson stem consider filter sport south explain salmon crane";
+var mnemonic = "south middle unfold during slow jar vanish piano estate claim strong orange";

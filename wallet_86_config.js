@@ -1,1 +1,1 @@
-var mnemonic = "laugh patient canyon town grid olympic timber weapon trial adapt force balcony";
+var mnemonic = "frequent mule phone valve turn leopard proof mechanic plastic cross aware ocean";

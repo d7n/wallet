@@ -1,1 +1,1 @@
-var mnemonic = "purpose bracket leaf latin install comfort razor team blouse clock require erupt";
+var mnemonic = "mansion satoshi bulk fault perfect style aspect burger canyon magnet market peace";

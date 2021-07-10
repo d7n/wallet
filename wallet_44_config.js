@@ -1,1 +1,1 @@
-var mnemonic = "skill column tobacco viable leave smile gap bargain route scrub inject elephant";
+var mnemonic = "trip together tail cupboard unable lawn evolve code morning dinner oil crisp";

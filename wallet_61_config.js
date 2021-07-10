@@ -1,1 +1,1 @@
-var mnemonic = "broken novel spare shine gate inflict churn loyal mirror brother word toss";
+var mnemonic = "endless else twice sign property dance letter suggest purpose clever very drip";

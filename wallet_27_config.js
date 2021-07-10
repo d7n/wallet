@@ -1,1 +1,1 @@
-var mnemonic = "evidence shift decide noble neck basic sponsor review kiss bird detect hill";
+var mnemonic = "later onion flower forum deputy scorpion cake tilt swap mechanic sauce solid";

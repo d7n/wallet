@@ -1,1 +1,1 @@
-var mnemonic = "burden tomato cheap scout funny relief warm subject museum lava frown dynamic";
+var mnemonic = "pass topple rain sound ladder jacket chief pig erupt avoid fault tackle";

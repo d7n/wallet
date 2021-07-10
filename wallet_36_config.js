@@ -1,1 +1,1 @@
-var mnemonic = "drill stuff impulse hour palace vibrant tiny peace train section soap mansion";
+var mnemonic = "human scorpion aunt error memory slender rack tape behave stumble chicken flock";

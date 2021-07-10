@@ -1,1 +1,1 @@
-var mnemonic = "catalog delay virtual bench input pink together coach person spoil essay crush";
+var mnemonic = "announce truth deposit apple box tired tell garbage caution canal merry deal";

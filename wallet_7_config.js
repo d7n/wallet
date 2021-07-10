@@ -1,1 +1,1 @@
-var mnemonic = "month parade boost island pride face reflect blind coach simple fortune web";
+var mnemonic = "air key provide crystal stamp script bomb captain only obey antique notable";

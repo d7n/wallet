@@ -1,1 +1,1 @@
-var mnemonic = "pig empty jealous proof thank advice kit promote struggle garden unfair club";
+var mnemonic = "rebel chapter grape dust crane sword business enjoy travel genre fork update";

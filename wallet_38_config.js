@@ -1,1 +1,1 @@
-var mnemonic = "casino install sustain surprise shy match visit outer wink adult title dwarf";
+var mnemonic = "angry turn cloud sun move tackle marriage high aunt swarm eight quit";

@@ -1,1 +1,1 @@
-var mnemonic = "fork fold pioneer doctor giant manual island race people couple ocean magnet";
+var mnemonic = "melt fragile cook empower vehicle damage gaze hub swamp under desert warrior";

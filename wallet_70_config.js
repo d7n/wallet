@@ -1,1 +1,1 @@
-var mnemonic = "sample pigeon setup series sun near raven inject wool upset letter knife";
+var mnemonic = "bid neck lock nose hobby feel toast dial chronic venture exist bread";

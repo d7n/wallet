@@ -1,1 +1,1 @@
-var mnemonic = "cart chase guide valve hazard ginger proof crater goose sing pull advice";
+var mnemonic = "depth business key dirt finger exchange repair hold category move auto notice";

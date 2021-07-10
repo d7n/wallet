@@ -1,1 +1,1 @@
-var mnemonic = "axis adjust eager output fluid rack arch cause ghost shell also tired";
+var mnemonic = "eager tooth foster alcohol arrest custom tiger river chief unit snap island";

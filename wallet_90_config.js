@@ -1,1 +1,1 @@
-var mnemonic = "slab calm update hood carry child arena exotic panic oil sweet switch";
+var mnemonic = "talent vote slot view need enroll rose say traffic teach subway ozone";

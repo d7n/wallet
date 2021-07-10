@@ -1,1 +1,1 @@
-var mnemonic = "victory nasty write truth zone turtle remember dilemma flavor hold rug choice";
+var mnemonic = "element aerobic parent immense copper cloud brave embark sight cram analyst merit";

@@ -1,1 +1,1 @@
-var mnemonic = "display success slow elevator turn high swap victory fluid current shaft noise";
+var mnemonic = "speed maid rookie stay link rough silly cause arm task wrist top";

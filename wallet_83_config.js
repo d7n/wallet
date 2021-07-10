@@ -1,1 +1,1 @@
-var mnemonic = "film exchange pact unknown merry spell cloud cage brother change shoot chief";
+var mnemonic = "unique access taste lecture left avoid rice spray three hill zone crunch";

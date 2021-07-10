@@ -1,1 +1,1 @@
-var mnemonic = "roast shrug dose boy twenty rug fox double border six victory owner";
+var mnemonic = "visit outdoor spoon satisfy typical idle champion thought rug loyal diesel zero";

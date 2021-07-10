@@ -1,1 +1,1 @@
-var mnemonic = "left scrap frog usual design because surge candy album immense copy tide";
+var mnemonic = "pond quote maid birth affair open climb worth own disagree glare catalog";

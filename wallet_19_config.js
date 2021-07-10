@@ -1,1 +1,1 @@
-var mnemonic = "test artist little awesome vessel bottom uniform penalty episode frequent sauce tissue";
+var mnemonic = "addict genuine suspect boost abandon powder oyster caution must utility task twice";

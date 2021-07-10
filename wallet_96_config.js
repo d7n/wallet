@@ -1,1 +1,1 @@
-var mnemonic = "foam chicken stable hundred husband ladder slide document soccer junk robot trim";
+var mnemonic = "promote wagon scorpion type silly bind mention card diesel season orient arrow";

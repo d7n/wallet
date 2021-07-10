@@ -1,1 +1,1 @@
-var mnemonic = "history shadow pink buzz delay oil despair hawk multiply plate upset great";
+var mnemonic = "village picture urban nut mom length already rocket expose pair couple walnut";

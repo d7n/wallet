@@ -1,1 +1,1 @@
-var mnemonic = "half category journey power luxury adapt access steel science slow scout school";
+var mnemonic = "treat nature interest later farm foster sea where coin lend flat drive";

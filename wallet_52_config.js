@@ -1,1 +1,1 @@
-var mnemonic = "armor ceiling neck choice adult make weapon health property ocean cross glue";
+var mnemonic = "jungle funny congress expose sustain recipe icon lift faith pause sand similar";

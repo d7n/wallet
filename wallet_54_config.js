@@ -1,1 +1,1 @@
-var mnemonic = "nurse zero disorder letter mesh snow caught squeeze alarm marble cube pool";
+var mnemonic = "nothing inspire sound fog absent oblige athlete bunker bag small rich payment";

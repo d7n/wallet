@@ -1,1 +1,1 @@
-var mnemonic = "bubble try frozen trigger theme end mountain oak ring rebuild corn easy";
+var mnemonic = "mystery dismiss long betray scan segment body pair culture visual inform fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp between erode wrist trim puzzle give oven shallow photo rug wash";
+var mnemonic = "wedding away urban crew cross suggest decrease tube design path pretty injury";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver rural misery exact purity project win cool fetch exile chaos repair";
+var mnemonic = "valve split lesson salad vital business ensure reopen become category rough circle";

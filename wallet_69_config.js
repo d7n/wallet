@@ -1,1 +1,1 @@
-var mnemonic = "indoor sausage include phrase response twenty keep inside asset answer acid million";
+var mnemonic = "jar foot switch harbor dress scale crew caution stand short biology custom";

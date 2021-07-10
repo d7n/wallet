@@ -1,1 +1,1 @@
-var mnemonic = "above asthma grit demise myself crunch wedding fiction claim spread behind swift";
+var mnemonic = "actress differ scene wash home scare faint drop list rally width gloom";

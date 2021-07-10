@@ -1,1 +1,1 @@
-var mnemonic = "fat age lottery able meat sustain margin custom honey they major ensure";
+var mnemonic = "air color series dragon buzz power lecture cake reopen pelican equal brown";

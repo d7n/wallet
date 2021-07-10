@@ -1,1 +1,1 @@
-var mnemonic = "wise virus peace alone stove thrive dune load banner cactus obvious series";
+var mnemonic = "approve island palm shell mosquito stumble year magnet sheriff dynamic rescue coach";

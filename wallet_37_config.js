@@ -1,1 +1,1 @@
-var mnemonic = "shop film audit amazing energy giraffe fold lab mom time sentence equip";
+var mnemonic = "street doll few series scare run lock energy involve skill divert copy";

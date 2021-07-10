@@ -1,1 +1,1 @@
-var mnemonic = "beauty inform buddy damage amount wagon minute uncover tide junk pool castle";
+var mnemonic = "zebra disagree spot case stool train nothing debris differ wagon cabbage prepare";

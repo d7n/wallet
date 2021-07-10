@@ -1,1 +1,1 @@
-var mnemonic = "suffer keen village raise cool tourist flush pair foam recycle hair creek";
+var mnemonic = "phone false canvas humble buffalo accuse brain parent intact height ice tomorrow";

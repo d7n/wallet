@@ -1,1 +1,1 @@
-var mnemonic = "ethics tiger clinic armor finger upper scorpion elevator horror knee damp trash";
+var mnemonic = "super theme shift amount melody advance smoke electric style wine know equip";

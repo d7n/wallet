@@ -1,1 +1,1 @@
-var mnemonic = "talk test pupil initial blind course carry stay exile donor saddle lawn";
+var mnemonic = "best liquid message security license win easy age dilemma wire dose split";

@@ -1,1 +1,1 @@
-var mnemonic = "million steel economy clinic neither mention accuse umbrella bleak roast sample ski";
+var mnemonic = "differ crucial october execute extend tobacco local timber typical system issue trim";

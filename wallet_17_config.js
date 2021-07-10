@@ -1,1 +1,1 @@
-var mnemonic = "relax reopen large cute direct amateur use shoot valid goddess gold clump";
+var mnemonic = "capable capital eye stone explain help cousin turtle stamp allow quote fire";

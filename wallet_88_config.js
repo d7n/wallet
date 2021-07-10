@@ -1,1 +1,1 @@
-var mnemonic = "stick slam giraffe afraid patrol raise pumpkin learn own fox lady final";
+var mnemonic = "slow puppy forward pluck chair blur census fragile join joy conduct lady";

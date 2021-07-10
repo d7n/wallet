@@ -1,1 +1,1 @@
-var mnemonic = "repair devote dwarf surge once shaft blush pulse sorry cage divide divert";
+var mnemonic = "air fade lazy hammer nuclear jeans oven pen wild patch warfare motion";

@@ -1,1 +1,1 @@
-var mnemonic = "angry city clown slender soup milk enlist globe way wise sport timber";
+var mnemonic = "because oyster swamp canvas awake such exit eager library candy picture vivid";

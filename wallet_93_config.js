@@ -1,1 +1,1 @@
-var mnemonic = "tower language purse time gas primary middle stick judge run feed lion";
+var mnemonic = "basic corn elite sport physical because menu embrace report palm style asthma";

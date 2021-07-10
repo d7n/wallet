@@ -1,1 +1,1 @@
-var mnemonic = "satoshi air crunch learn consider edge spring wood organ nature balcony element";
+var mnemonic = "glory sad emerge sail orange inner cry basic toilet inside cruel spend";

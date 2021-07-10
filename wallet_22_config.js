@@ -1,1 +1,1 @@
-var mnemonic = "avoid someone tragic blind tennis zero equip trim like crop audit away";
+var mnemonic = "poverty number dog seed fly aspect paper expire canoe scene blossom erupt";

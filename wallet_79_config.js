@@ -1,1 +1,1 @@
-var mnemonic = "jazz napkin team detect evolve bicycle narrow genius toss notice crime hotel";
+var mnemonic = "intact orphan thank jacket million useful exile cement number equal review cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "spot blossom file drama magnet stock gospel rather object error such tooth";
+var mnemonic = "material neck pond vacuum notable live muscle inquiry deputy attack smoke vanish";

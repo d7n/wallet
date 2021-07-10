@@ -1,1 +1,1 @@
-var mnemonic = "vocal clog merge ethics excess opera foot insane decade thrive evolve child";
+var mnemonic = "history eyebrow equal express toe weird team trend goat spread clinic unusual";

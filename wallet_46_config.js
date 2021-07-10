@@ -1,1 +1,1 @@
-var mnemonic = "plastic save plate manual barrel notice curve rose fortune play side visual";
+var mnemonic = "actor situate you spell ketchup matter fragile west unusual cause fun click";

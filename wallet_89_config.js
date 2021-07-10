@@ -1,1 +1,1 @@
-var mnemonic = "you code notable session soccer estate october fine town monkey use trade";
+var mnemonic = "head blouse wool leaf six review biology kiss trigger spoon century defy";

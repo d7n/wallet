@@ -1,1 +1,1 @@
-var mnemonic = "badge easily fog chicken sea enforce bonus much black person stereo bacon";
+var mnemonic = "hour company rice net column yard tribe wreck vital current upon aspect";
