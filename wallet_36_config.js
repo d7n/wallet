@@ -1,1 +1,1 @@
-var mnemonic = "alert fog track snap peasant escape medal whale blush hard fruit bid";
+var mnemonic = "rent life kitten depend hint ahead wash doll father zoo suspect chief";

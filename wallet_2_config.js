@@ -1,1 +1,1 @@
-var mnemonic = "pupil say dumb extra debris net vendor purse top equal relief gasp";
+var mnemonic = "banana lake grain scan judge pumpkin differ buzz chimney thunder explain attack";

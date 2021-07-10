@@ -1,1 +1,1 @@
-var mnemonic = "mind three narrow faculty one blade loyal lecture actual flush original fatal";
+var mnemonic = "size enforce inject erupt attend hotel zero faculty tool chicken cost muscle";

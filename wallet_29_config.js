@@ -1,1 +1,1 @@
-var mnemonic = "emotion lens sudden timber grief fiber dentist nature script beach speed risk";
+var mnemonic = "vital expose rent come grant festival sick wrestle process loud subway trial";

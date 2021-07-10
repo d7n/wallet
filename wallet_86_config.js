@@ -1,1 +1,1 @@
-var mnemonic = "always segment ordinary train shield spice tragic depend glory brown crazy chapter";
+var mnemonic = "banana penalty size exile cereal abstract toss borrow ankle law glory stove";

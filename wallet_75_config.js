@@ -1,1 +1,1 @@
-var mnemonic = "gun joy sustain squeeze guard announce theme increase liar trophy ladder blind";
+var mnemonic = "mind wide supreme question inch effort stadium jacket robust visit become repeat";

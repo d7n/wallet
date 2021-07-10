@@ -1,1 +1,1 @@
-var mnemonic = "slush chimney coast average fragile olympic amount yard monitor wife bracket deny";
+var mnemonic = "lens bunker hotel buddy addict apology voyage tackle glide supreme label region";

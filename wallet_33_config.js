@@ -1,1 +1,1 @@
-var mnemonic = "source punch humor essay ten custom squeeze try half penalty innocent inquiry";
+var mnemonic = "hobby witness match coffee hair visa seed century leave gesture credit exist";

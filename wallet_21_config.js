@@ -1,1 +1,1 @@
-var mnemonic = "february gift recycle afraid grocery hip forward wink practice cinnamon ceiling work";
+var mnemonic = "pond emerge zone taxi danger patient muffin shuffle fringe second casino speak";

@@ -1,1 +1,1 @@
-var mnemonic = "subway acquire federal fever cry inspire monkey immune zone tornado excuse vast";
+var mnemonic = "enough welcome purchase elder diamond exotic curve tower mercy ticket around invite";

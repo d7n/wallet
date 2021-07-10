@@ -1,1 +1,1 @@
-var mnemonic = "among embark fiction bubble property wing eagle beach trust grow festival relief";
+var mnemonic = "deliver area author harsh olive become traffic cabbage enhance myth weekend salad";

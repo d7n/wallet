@@ -1,1 +1,1 @@
-var mnemonic = "weekend tape proud truck alley renew keep film ramp speed door ride";
+var mnemonic = "absorb mistake point toss merry idle suspect dinosaur film outer shop chimney";

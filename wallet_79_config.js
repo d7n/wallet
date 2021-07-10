@@ -1,1 +1,1 @@
-var mnemonic = "foam favorite today verb airport black burger regular silver ready own plastic";
+var mnemonic = "push carry embark pill city gift cake when seat awkward palm thumb";

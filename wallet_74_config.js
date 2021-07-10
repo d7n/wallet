@@ -1,1 +1,1 @@
-var mnemonic = "defy fly snack reveal addict hill wood shrimp rely orchard predict digital";
+var mnemonic = "super sponsor people immune mobile chief exchange denial prepare scheme tomato toast";

@@ -1,1 +1,1 @@
-var mnemonic = "where forward bargain taste list salad pattern rug shuffle pattern race decade";
+var mnemonic = "forest crowd tilt price town novel series rapid dream curious clutch city";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol horn civil aware inmate chest require damage decade drill aunt banana";
+var mnemonic = "mule victory switch arrive abandon beyond horror dirt organ lawn skirt clutch";

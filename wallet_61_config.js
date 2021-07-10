@@ -1,1 +1,1 @@
-var mnemonic = "legend letter true fever wall photo size lab curious shock million illegal";
+var mnemonic = "sure scissors topic usual chapter patch produce nose airport close ankle apart";

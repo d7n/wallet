@@ -1,1 +1,1 @@
-var mnemonic = "pool inch seminar street lift desert meadow voice dragon globe almost ready";
+var mnemonic = "boil bus fine blur stick play radar harvest chase nose brisk twin";

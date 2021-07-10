@@ -1,1 +1,1 @@
-var mnemonic = "panel escape drift pattern vessel basic another retire census ready entire heart";
+var mnemonic = "mimic virtual energy reduce wall tail speak gain grace toddler antenna dilemma";

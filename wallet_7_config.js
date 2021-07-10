@@ -1,1 +1,1 @@
-var mnemonic = "thought robust bind defy farm original slab fuel sign erode miracle try";
+var mnemonic = "educate harvest month admit stage other sustain model plate blast busy priority";

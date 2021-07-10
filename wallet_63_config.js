@@ -1,1 +1,1 @@
-var mnemonic = "include six wall century voice inside refuse cage cloud sport lounge hair";
+var mnemonic = "forest oppose rail coach exile melt sense another luggage define mosquito stock";

@@ -1,1 +1,1 @@
-var mnemonic = "open business average mask expand pull rude priority endless balcony inner airport";
+var mnemonic = "memory ball decorate pupil neck focus rebuild maximum room tonight collect jeans";

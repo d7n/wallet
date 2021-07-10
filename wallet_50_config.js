@@ -1,1 +1,1 @@
-var mnemonic = "appear grit address sphere midnight apple wine nice ceiling work settle stage";
+var mnemonic = "hair amazing shiver biology pool business egg fish pause sadness enough item";

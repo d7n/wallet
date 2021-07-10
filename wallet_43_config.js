@@ -1,1 +1,1 @@
-var mnemonic = "panic treat bean eagle chest dutch error six frown defy loyal reveal";
+var mnemonic = "print few source outdoor repair bundle abandon number leopard give news word";

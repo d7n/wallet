@@ -1,1 +1,1 @@
-var mnemonic = "pioneer airport either casino tank charge print half where where lonely doll";
+var mnemonic = "correct spray joy garlic blood answer second winner decorate stereo scatter more";

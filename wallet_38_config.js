@@ -1,1 +1,1 @@
-var mnemonic = "faint sudden medal cost agent clay require lumber couple video armor wish";
+var mnemonic = "sport leader duck bleak stove tribe region glow essence maple enter prison";

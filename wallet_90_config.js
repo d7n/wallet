@@ -1,1 +1,1 @@
-var mnemonic = "message figure announce wonder banner clown portion coast december capable quick monitor";
+var mnemonic = "weapon yard chuckle entire opinion poem town illness chaos attack capital spin";

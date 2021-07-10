@@ -1,1 +1,1 @@
-var mnemonic = "normal expect describe sunny envelope usage net loud mail captain love model";
+var mnemonic = "such accuse sustain spatial drink era adjust cycle zero two rookie install";

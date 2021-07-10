@@ -1,1 +1,1 @@
-var mnemonic = "parent elegant move cram surround carpet donate salt course hospital actress submit";
+var mnemonic = "nose link toss pencil media quality injury frozen average invite pudding learn";

@@ -1,1 +1,1 @@
-var mnemonic = "riot valve liar menu fold fragile month humble diagram silent awkward sort";
+var mnemonic = "column hint acoustic disagree resemble wife emotion shy attack law glide toss";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo neither balance carpet bring ceiling control during detect zero sun destroy";
+var mnemonic = "sing crash use door dirt lunch retire symptom name mesh cruise foot";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling flush soccer come meadow series pact mad color icon judge angle";
+var mnemonic = "draw resource gauge when lesson rain trouble nation speed age transfer network";

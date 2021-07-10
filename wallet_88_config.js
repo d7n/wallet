@@ -1,1 +1,1 @@
-var mnemonic = "mix admit oblige group barrel indicate town parade share tip consider monster";
+var mnemonic = "search grit eternal aspect same donor expect school planet side ocean junk";

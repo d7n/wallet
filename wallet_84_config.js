@@ -1,1 +1,1 @@
-var mnemonic = "assault all topple improve roof inspire song album fiction office blade market";
+var mnemonic = "plug blue year patrol dove castle atom stone deny spin devote cement";

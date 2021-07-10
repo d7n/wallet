@@ -1,1 +1,1 @@
-var mnemonic = "bulk pencil whisper reflect science team chalk stairs deputy inflict wagon push";
+var mnemonic = "rose wreck hammer intact topic crisp social two night affair jump subway";

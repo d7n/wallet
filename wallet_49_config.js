@@ -1,1 +1,1 @@
-var mnemonic = "seminar romance pledge void alarm hello match planet warrior game gym pottery";
+var mnemonic = "local volume hurt sphere sugar dizzy close leave glimpse room seed caught";

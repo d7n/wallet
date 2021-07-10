@@ -1,1 +1,1 @@
-var mnemonic = "crucial weird average grass field shoot sing grant fresh onion melt art";
+var mnemonic = "inspire purse scorpion dash usual clap survey bacon extra chief bicycle blur";

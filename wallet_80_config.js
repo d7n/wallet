@@ -1,1 +1,1 @@
-var mnemonic = "bench never garment pride usual style sphere enact step catch find sunset";
+var mnemonic = "capital fine edge express van amused afraid prize invite thought option project";

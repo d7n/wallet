@@ -1,1 +1,1 @@
-var mnemonic = "hand seek special captain hen receive cactus thunder grunt fever tackle crisp";
+var mnemonic = "curtain undo lecture flight basket lecture library patient sick also spray menu";

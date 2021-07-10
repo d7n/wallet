@@ -1,1 +1,1 @@
-var mnemonic = "skull reunion canyon shock scrap spread burger lady shed bracket feel example";
+var mnemonic = "guide enforce open pact neutral original jungle program zebra asset use tobacco";

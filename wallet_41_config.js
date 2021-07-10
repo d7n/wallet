@@ -1,1 +1,1 @@
-var mnemonic = "venture color girl include trigger margin boss wise present absorb elder vapor";
+var mnemonic = "claim security bar fence oblige goddess gallery radio notable hotel tuna wet";

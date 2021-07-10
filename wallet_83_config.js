@@ -1,1 +1,1 @@
-var mnemonic = "rose vapor buyer prison ketchup fancy say tenant rule victory weekend critic";
+var mnemonic = "elite silly stereo unique duty predict enforce lesson satoshi kite tortoise mesh";

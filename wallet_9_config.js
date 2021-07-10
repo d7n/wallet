@@ -1,1 +1,1 @@
-var mnemonic = "delay velvet shield crucial boost state morning knee athlete belt release dumb";
+var mnemonic = "liquid fault scout service asthma wide around range fade violin snap switch";

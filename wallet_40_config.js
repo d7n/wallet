@@ -1,1 +1,1 @@
-var mnemonic = "fence romance lonely fortune story false refuse stock thumb group rubber minute";
+var mnemonic = "play subway explain easy carry desk rack knock uniform plastic august wish";

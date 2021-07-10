@@ -1,1 +1,1 @@
-var mnemonic = "movie loyal remain remember heavy convince absent burden federal maple course series";
+var mnemonic = "smoke liberty asset still bar bomb spray economy snake lounge ginger square";

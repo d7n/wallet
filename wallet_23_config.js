@@ -1,1 +1,1 @@
-var mnemonic = "auto depart burst leisure replace current north danger round differ wild clay";
+var mnemonic = "acquire guitar seek steak stumble glue fly juice habit mimic hybrid pupil";

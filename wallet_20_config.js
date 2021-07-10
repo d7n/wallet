@@ -1,1 +1,1 @@
-var mnemonic = "eagle lumber mass idle suit fix chair short matrix subway surprise sweet";
+var mnemonic = "bundle party hidden assault balance skin tonight detail plastic correct wage deer";

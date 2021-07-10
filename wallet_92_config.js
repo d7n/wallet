@@ -1,1 +1,1 @@
-var mnemonic = "assist useful ostrich ceiling enable swim kiss camp cattle fire sight vapor";
+var mnemonic = "roast simple tortoise century myth portion funny secret caught sword royal front";

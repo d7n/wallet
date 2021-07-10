@@ -1,1 +1,1 @@
-var mnemonic = "year kangaroo tomorrow run fit tiny chase they gesture hint margin pass";
+var mnemonic = "proof fringe unaware legal road change leg ritual swing hurt misery wash";

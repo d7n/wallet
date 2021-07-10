@@ -1,1 +1,1 @@
-var mnemonic = "opinion discover gallery gauge flush orbit square card bounce street traffic ivory";
+var mnemonic = "gesture final easy amazing clap help invite wedding marriage amazing viable lesson";

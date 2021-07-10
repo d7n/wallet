@@ -1,1 +1,1 @@
-var mnemonic = "demand birth blue mirror rare torch vacant warrior usual talk various entire";
+var mnemonic = "unfair acoustic able defy main aunt act curve congress cupboard renew undo";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard eager reason inherit dad give history expose february arena organ odor";
+var mnemonic = "grunt gather obtain drama average mother vehicle clay festival hat cactus heavy";

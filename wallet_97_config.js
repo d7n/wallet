@@ -1,1 +1,1 @@
-var mnemonic = "kid control glass chimney soul cart supply bag grab onion balcony apology";
+var mnemonic = "wage cook enough club amused oak sauce rotate seed heavy cram wing";

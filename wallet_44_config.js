@@ -1,1 +1,1 @@
-var mnemonic = "toe draw rent between frown tonight nothing section amount exhaust flame modify";
+var mnemonic = "base kit hub cereal fog task frozen nut concert park lava art";

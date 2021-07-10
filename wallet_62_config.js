@@ -1,1 +1,1 @@
-var mnemonic = "alcohol flock absurd indoor brief wedding digital tag apple master one roast";
+var mnemonic = "fix cheese orient speak glow extra shrug prefer dance three spirit spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "height loan rug frown wheat table fabric stadium atom street fish helmet";
+var mnemonic = "orange crane armed fold wall mesh satisfy visual dice same stick monster";

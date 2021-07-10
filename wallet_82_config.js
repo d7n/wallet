@@ -1,1 +1,1 @@
-var mnemonic = "cheese expand diamond hard month grunt shock weekend luggage tooth prison must";
+var mnemonic = "allow zero finish blur risk horror spray spice cotton fitness tunnel text";

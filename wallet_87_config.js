@@ -1,1 +1,1 @@
-var mnemonic = "exact wife van minute arctic flower power drill eternal spatial stock refuse";
+var mnemonic = "speak victory spring liberty manage weather raven able pink find daring bunker";

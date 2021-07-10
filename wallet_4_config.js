@@ -1,1 +1,1 @@
-var mnemonic = "hello swarm teach visa entire replace insect cabbage unlock bring two battle";
+var mnemonic = "gate noble transfer vault measure work leisure dynamic cram panther able hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "document erode noodle cube season check injury face reform secret refuse doctor";
+var mnemonic = "result message salad gospel milk liquid club perfect digital patient climb insect";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan onion pistol coin simple protect air access humble ugly cushion kingdom";
+var mnemonic = "wisdom noise laugh romance spot tired room uphold lock worth scrap immune";

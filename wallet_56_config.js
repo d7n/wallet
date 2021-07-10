@@ -1,1 +1,1 @@
-var mnemonic = "rhythm galaxy lecture spoil cave mountain mom swift fever join lucky enough";
+var mnemonic = "original fiscal online devote eagle custom force grief uniform youth outside attend";

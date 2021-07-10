@@ -1,1 +1,1 @@
-var mnemonic = "follow penalty drum bachelor embody ivory edge dizzy gravity joy camp occur";
+var mnemonic = "urban stove equip sock rabbit body north royal script fire antenna deal";

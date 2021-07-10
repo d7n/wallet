@@ -1,1 +1,1 @@
-var mnemonic = "peanut pottery acid bird fan gravity rabbit icon initial custom plunge chest";
+var mnemonic = "leaf insane toward rifle blanket celery problem audit casual bachelor distance mind";

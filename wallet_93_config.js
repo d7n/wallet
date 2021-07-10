@@ -1,1 +1,1 @@
-var mnemonic = "monkey donate income quit burger other river feel shift cigar limit devote";
+var mnemonic = "sad swap human faint enough warm bread reflect cattle oak sense dwarf";

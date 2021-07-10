@@ -1,1 +1,1 @@
-var mnemonic = "skill slide beauty sentence sell happy vendor tonight clarify abandon claim renew";
+var mnemonic = "liquid abuse snake keen decide hill renew seed price remove forest pulse";

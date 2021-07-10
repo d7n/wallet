@@ -1,1 +1,1 @@
-var mnemonic = "clinic advice chief weekend orchard sight order page achieve play table advance";
+var mnemonic = "salmon behind use achieve oval clown phone recipe train profit install blade";

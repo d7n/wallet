@@ -1,1 +1,1 @@
-var mnemonic = "tenant stick neutral nice art scrub sleep sure confirm chair sibling wash";
+var mnemonic = "expire ghost sand atom garage able wide affair chair exercise bright current";

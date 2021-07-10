@@ -1,1 +1,1 @@
-var mnemonic = "screen journey agent mango toe poem device glad rose inject atom surround";
+var mnemonic = "thank disorder space dinosaur need bacon bike rose grit grit vintage differ";

@@ -1,1 +1,1 @@
-var mnemonic = "three ball into camera permit permit syrup motor naive tourist lift forest";
+var mnemonic = "check champion cupboard exhaust eight slide boss soap trigger quantum test ceiling";

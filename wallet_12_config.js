@@ -1,1 +1,1 @@
-var mnemonic = "portion gesture parrot unfair electric draft hover soon nut venue crouch dove";
+var mnemonic = "civil tomorrow bubble company exile shallow bulk prefer virus napkin grass used";

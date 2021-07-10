@@ -1,1 +1,1 @@
-var mnemonic = "idea silver uncle sponsor width couch volcano alarm warrior congress rare screen";
+var mnemonic = "sketch sight picnic sponsor marble park logic text plug awkward avoid deposit";

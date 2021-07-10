@@ -1,1 +1,1 @@
-var mnemonic = "chief wish simple behave delay cash daughter grow coyote evidence volcano genuine";
+var mnemonic = "volume attend left frame response cry laugh machine cycle fan blouse solve";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve slogan leader refuse volcano undo guide true flight swear danger between";
+var mnemonic = "museum start heart sunset vicious cricket enter volume lyrics salon alley cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor argue office enroll mystery vague display practice habit ostrich pumpkin frequent";
+var mnemonic = "develop dial boy lizard hobby correct crop name festival kit tiny farm";

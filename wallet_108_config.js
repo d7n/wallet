@@ -1,1 +1,1 @@
-var mnemonic = "power harbor surface make door street close system census danger solar skull";
+var mnemonic = "hurdle surge state note minute snap nation scout pudding north lucky cute";

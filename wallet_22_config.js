@@ -1,1 +1,1 @@
-var mnemonic = "health satisfy close tennis note strong describe whip rival dust language rate";
+var mnemonic = "invest weapon farm dutch flee quote pigeon proud wasp unable replace lion";

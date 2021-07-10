@@ -1,1 +1,1 @@
-var mnemonic = "blood sponsor pluck hawk tail chalk job silent cabbage depend decline rude";
+var mnemonic = "cabin glide spare useless leopard decide absurd lucky elbow labor heart elephant";

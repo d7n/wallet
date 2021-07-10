@@ -1,1 +1,1 @@
-var mnemonic = "clump toddler sea craft lyrics acoustic child title marine virus join vague";
+var mnemonic = "live side honey domain hard theory someone blast segment gauge bullet joy";

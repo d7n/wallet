@@ -1,1 +1,1 @@
-var mnemonic = "you burst cook hat bicycle cliff much measure diesel asset gym zero";
+var mnemonic = "recycle object toe wish approve group tongue light dumb believe escape circle";

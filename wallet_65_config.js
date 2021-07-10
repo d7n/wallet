@@ -1,1 +1,1 @@
-var mnemonic = "edit small lawsuit fiscal enter palace cake update pink runway artist rhythm";
+var mnemonic = "flavor lemon mystery pig private vacant exhibit text glory wealth laugh afraid";

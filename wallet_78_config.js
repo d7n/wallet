@@ -1,1 +1,1 @@
-var mnemonic = "gesture infant attract upset maple crucial ivory upgrade acoustic rebuild job joy";
+var mnemonic = "evolve entry crater pistol borrow embody river apple enemy soda spell spell";

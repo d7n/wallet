@@ -1,1 +1,1 @@
-var mnemonic = "sister glow soap slush virtual art insane warm pistol case film bench";
+var mnemonic = "velvet gentle affair merry settle blush dizzy wolf relax replace raccoon undo";

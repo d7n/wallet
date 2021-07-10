@@ -1,1 +1,1 @@
-var mnemonic = "model that list comfort voice hold salute humble copper muffin deal fancy";
+var mnemonic = "public faith torch source weekend merry harsh response umbrella bronze crunch garage";

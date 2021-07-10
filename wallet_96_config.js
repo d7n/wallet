@@ -1,1 +1,1 @@
-var mnemonic = "trash myth surge slow shield multiply kitten bubble item year tumble tired";
+var mnemonic = "shadow twelve expand can fall runway art diet erode thumb symbol extra";

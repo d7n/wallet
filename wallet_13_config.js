@@ -1,1 +1,1 @@
-var mnemonic = "fitness purchase swim harsh penalty repeat trouble connect patrol fun stumble exclude";
+var mnemonic = "slush argue patient giant trim ecology clever adult rhythm lounge repeat lab";

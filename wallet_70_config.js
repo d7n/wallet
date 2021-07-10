@@ -1,1 +1,1 @@
-var mnemonic = "hunt analyst vendor target border mail airport link page increase smooth divide";
+var mnemonic = "simple question diamond blossom push before bridge snow laptop fork pitch goat";

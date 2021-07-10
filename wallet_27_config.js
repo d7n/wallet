@@ -1,1 +1,1 @@
-var mnemonic = "immense novel bring turn zebra remove goose eagle buffalo false there weasel";
+var mnemonic = "throw marine device hungry bring explain dune style dish beach panel school";

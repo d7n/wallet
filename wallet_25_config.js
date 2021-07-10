@@ -1,1 +1,1 @@
-var mnemonic = "fatigue wear tilt dry recycle adapt category core uncover detect horn unknown";
+var mnemonic = "arrange fuel clinic teach sheriff arrange other august agent bitter surface motion";

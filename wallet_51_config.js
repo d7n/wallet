@@ -1,1 +1,1 @@
-var mnemonic = "obvious frog attitude pull distance bamboo minimum feature bonus balcony company birth";
+var mnemonic = "patch curious gadget multiply west risk holiday reward weekend gown snack cat";

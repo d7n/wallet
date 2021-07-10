@@ -1,1 +1,1 @@
-var mnemonic = "trick toe right sponsor cargo law foil embark climb boost rain resource";
+var mnemonic = "cake rough clock burst world upon upgrade culture bid tomato fetch equip";

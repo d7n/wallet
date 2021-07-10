@@ -1,1 +1,1 @@
-var mnemonic = "chef alley direct large miss canyon major garden cupboard assume plate hand";
+var mnemonic = "odor pupil collect rent vapor umbrella fork enforce design tape divorce syrup";
