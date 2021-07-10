@@ -1,1 +1,1 @@
-var mnemonic = "endless slot cool leisure silk hero custom course scissors session all city";
+var mnemonic = "social fold anchor stove behind skate good cake reward found cricket tide";

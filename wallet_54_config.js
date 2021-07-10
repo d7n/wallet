@@ -1,1 +1,1 @@
-var mnemonic = "dentist manual drip dove razor oxygen pink hard outdoor phone begin ramp";
+var mnemonic = "loan boil scene friend work since notice maximum define essence sick horse";

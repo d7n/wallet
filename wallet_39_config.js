@@ -1,1 +1,1 @@
-var mnemonic = "harsh legal frozen horse shiver flat coach domain wire whisper decorate already";
+var mnemonic = "clean age assist decade liberty simple gasp atom apple you lamp champion";

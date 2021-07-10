@@ -1,1 +1,1 @@
-var mnemonic = "seed army decrease zone always vivid habit runway audit nuclear swallow solution";
+var mnemonic = "bench charge mechanic smooth shed drift large bacon hope consider license cram";

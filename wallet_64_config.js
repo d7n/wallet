@@ -1,1 +1,1 @@
-var mnemonic = "skill tackle defense climb seminar high weapon quit butter kitchen silk wonder";
+var mnemonic = "example lift sea genius chase iron feature donate chicken river base luxury";

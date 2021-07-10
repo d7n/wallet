@@ -1,1 +1,1 @@
-var mnemonic = "caught rival trophy oil cabbage beyond boat hunt zoo despair sign lucky";
+var mnemonic = "close beyond gold soap elite maze chase elephant amazing option argue duty";

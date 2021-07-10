@@ -1,1 +1,1 @@
-var mnemonic = "battle sun coast vendor heart scatter race reject glue carbon ski address";
+var mnemonic = "ahead load safe sense buddy security protect use priority eye spray describe";

@@ -1,1 +1,1 @@
-var mnemonic = "live main broken team diary place daring coyote poverty ship kitchen have";
+var mnemonic = "tower when stereo bulk draw manage since all convince faculty tube axis";

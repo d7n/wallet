@@ -1,1 +1,1 @@
-var mnemonic = "room direct fresh suffer link hill gun urge flame wine camp element";
+var mnemonic = "file bid sock push rib conduct hurdle sort limit chunk odor fish";

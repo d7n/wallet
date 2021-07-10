@@ -1,1 +1,1 @@
-var mnemonic = "enjoy scrap jeans renew guilt anxiety gaze mind swear refuse allow canoe";
+var mnemonic = "way staff acoustic invest visa change route carry rubber prevent shoulder pluck";

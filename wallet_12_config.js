@@ -1,1 +1,1 @@
-var mnemonic = "mansion scissors surface switch giraffe cargo busy fatigue speed bean kiss airport";
+var mnemonic = "orbit waste element switch tree trap monkey like slight tag diesel tongue";

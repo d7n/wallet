@@ -1,1 +1,1 @@
-var mnemonic = "beyond earn vessel rely august ball admit bread tag chicken thank horror";
+var mnemonic = "inch diary volcano lift appear fetch timber purse sweet arctic dragon shift";

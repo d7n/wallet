@@ -1,1 +1,1 @@
-var mnemonic = "glad blind lift wagon sausage student cream rate lock utility reduce forest";
+var mnemonic = "pupil panel buzz close pig blind grit breeze cruise health east awful";

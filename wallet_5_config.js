@@ -1,1 +1,1 @@
-var mnemonic = "move pledge absorb lens traffic elbow forest identify visa lab armed garlic";
+var mnemonic = "link describe ride tank summer fall rail throw endless drop vault random";

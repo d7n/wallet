@@ -1,1 +1,1 @@
-var mnemonic = "master rug inch pulse jungle speed scrap canoe advice start magnet cage";
+var mnemonic = "hill omit series infant craft awesome penalty hurry announce diamond ribbon project";

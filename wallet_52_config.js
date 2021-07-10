@@ -1,1 +1,1 @@
-var mnemonic = "dust merge argue kitten this icon shiver demand phrase grape badge neglect";
+var mnemonic = "sunny online olympic pave reunion shell soldier web payment taxi ten page";

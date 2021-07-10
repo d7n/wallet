@@ -1,1 +1,1 @@
-var mnemonic = "ladder economy accident manual swap vivid census unlock mansion left mad envelope";
+var mnemonic = "turn perfect sunset weird donor switch alcohol exhaust resist feature target web";

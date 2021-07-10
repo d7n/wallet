@@ -1,1 +1,1 @@
-var mnemonic = "galaxy seven embrace across soul early valley fan extra civil journey boil";
+var mnemonic = "layer garden identify alarm truth tiger captain blanket bean bright cheese prepare";

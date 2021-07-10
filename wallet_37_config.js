@@ -1,1 +1,1 @@
-var mnemonic = "erupt hungry crime deer inhale dish aunt task harbor drastic faith recall";
+var mnemonic = "cruel exotic uncover actress pitch crop ask scrub middle marriage sauce hungry";

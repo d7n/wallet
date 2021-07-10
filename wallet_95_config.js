@@ -1,1 +1,1 @@
-var mnemonic = "idea profit coin kiwi army insect perfect swim pole clever reward rule";
+var mnemonic = "brass permit increase metal fog stool crystal imitate hold account punch vehicle";

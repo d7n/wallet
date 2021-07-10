@@ -1,1 +1,1 @@
-var mnemonic = "update teach bless blast dirt canyon chase round jealous aware plate end";
+var mnemonic = "tooth borrow hip sick mind inquiry oak embody fringe coffee label decline";

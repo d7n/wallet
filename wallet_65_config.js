@@ -1,1 +1,1 @@
-var mnemonic = "wish color imitate leopard menu column twist gloom parent cigar knee image";
+var mnemonic = "forum drill olive expect sea slab place link exile cotton twist sure";

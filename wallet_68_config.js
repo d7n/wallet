@@ -1,1 +1,1 @@
-var mnemonic = "alone attitude dad leg skirt knife cargo panther abstract medal year city";
+var mnemonic = "between stone claw stool holiday sunny erupt utility element tenant candy torch";

@@ -1,1 +1,1 @@
-var mnemonic = "coach trend member sauce share news gather cage spy awkward pluck pumpkin";
+var mnemonic = "immune zebra zero hat cart control skull scheme cross grass require estate";

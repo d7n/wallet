@@ -1,1 +1,1 @@
-var mnemonic = "kitten setup crowd fiber ship explain goddess wrap odor matrix chapter heavy";
+var mnemonic = "industry youth torch rotate tired ugly prevent evoke poverty inside mystery iron";

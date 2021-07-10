@@ -1,1 +1,1 @@
-var mnemonic = "general guilt clerk increase vendor slim urge mountain symptom upgrade calm accuse";
+var mnemonic = "retire mixture speak magic drill theory patch cream sand catch pride glove";

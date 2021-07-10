@@ -1,1 +1,1 @@
-var mnemonic = "spoon list arch final mobile melt present hint wreck since rather submit";
+var mnemonic = "manual symbol board collect pass endorse raise rack fluid volcano kiwi budget";

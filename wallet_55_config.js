@@ -1,1 +1,1 @@
-var mnemonic = "rebuild volcano coconut kind seat pattern shine thought castle grit sheriff affair";
+var mnemonic = "pool subway today vendor episode neglect voyage brush tag fish curve celery";

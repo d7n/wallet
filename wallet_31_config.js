@@ -1,1 +1,1 @@
-var mnemonic = "matrix whisper shrimp cup company time birth coach recipe horse leg cupboard";
+var mnemonic = "day abuse beauty burst despair bring during void gospel one motion dragon";

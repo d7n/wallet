@@ -1,1 +1,1 @@
-var mnemonic = "bless mail air legal rain better budget wise hat bid feel fly";
+var mnemonic = "cluster already assist worry add tool human harbor tip infant citizen tone";

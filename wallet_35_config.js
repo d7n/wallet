@@ -1,1 +1,1 @@
-var mnemonic = "special teach once eye horror valve address claw ancient fruit drift mail";
+var mnemonic = "volcano brain save fatigue enjoy trash guilt scheme sword uphold attract sauce";

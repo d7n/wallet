@@ -1,1 +1,1 @@
-var mnemonic = "cabbage agent peanut focus genius know bag claim what gaze learn curve";
+var mnemonic = "primary creek piano example always pear cloth close taste okay match truck";

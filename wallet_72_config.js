@@ -1,1 +1,1 @@
-var mnemonic = "exit shock spin pill rebuild frequent ocean hope teach pill able fall";
+var mnemonic = "undo kit tray light draft tragic loud virtual pilot hybrid online equal";

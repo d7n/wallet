@@ -1,1 +1,1 @@
-var mnemonic = "duck donate damage rib whisper jeans genre wave smart menu attract valley";
+var mnemonic = "window country ugly camp enroll tumble dose duck husband jealous diet boss";

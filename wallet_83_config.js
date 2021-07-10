@@ -1,1 +1,1 @@
-var mnemonic = "elder bunker home ceiling brave tonight list brand captain spell diagram afford";
+var mnemonic = "cat phone more govern success enter cash alcohol swing old artwork chunk";

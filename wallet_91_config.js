@@ -1,1 +1,1 @@
-var mnemonic = "alien reunion extra ramp month unusual limit few property gossip enlist such";
+var mnemonic = "warrior inquiry region hawk harbor damage carbon measure humble resist sand oppose";

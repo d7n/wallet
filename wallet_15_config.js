@@ -1,1 +1,1 @@
-var mnemonic = "force critic notable utility junk crater cheese mercy credit rare input merge";
+var mnemonic = "pool juice version true pipe large dream month neither party glory tunnel";

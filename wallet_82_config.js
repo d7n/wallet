@@ -1,1 +1,1 @@
-var mnemonic = "vibrant volcano sudden dragon swear file reason harsh round sock box renew";
+var mnemonic = "cute jar balcony athlete capable snack scheme immense scrub upgrade race loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard appear tired explain glory bag vote kite setup increase notice sail";
+var mnemonic = "course duck bachelor manage recipe outer fragile ability total exclude volcano squirrel";

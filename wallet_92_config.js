@@ -1,1 +1,1 @@
-var mnemonic = "captain police neglect praise machine lift flower write despair marine whip topple";
+var mnemonic = "frequent crack early delay already anger assist victory stomach volume insect swear";

@@ -1,1 +1,1 @@
-var mnemonic = "produce cluster satoshi vintage doll artwork argue divide escape tuna youth faith";
+var mnemonic = "outer raw accident lounge sport proof mosquito gain ten develop act hat";

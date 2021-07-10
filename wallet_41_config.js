@@ -1,1 +1,1 @@
-var mnemonic = "addict farm lemon yard connect giggle foam convince calm notable hen sadness";
+var mnemonic = "spirit clip hunt marine call hamster pink impact say fog act label";

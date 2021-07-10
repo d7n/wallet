@@ -1,1 +1,1 @@
-var mnemonic = "genuine jelly warfare marble burger hurry marble rookie float whale situate buzz";
+var mnemonic = "blame angry fun below useless negative apart maze valid large stove review";

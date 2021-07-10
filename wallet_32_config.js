@@ -1,1 +1,1 @@
-var mnemonic = "teach embody woman dune beef six prosper century rude fabric bird machine";
+var mnemonic = "gun rebuild service aspect shift virtual cake sunset what coconut wisdom twist";

@@ -1,1 +1,1 @@
-var mnemonic = "upon rough roast traffic adjust lounge monkey lonely cattle another gospel stairs";
+var mnemonic = "squeeze excuse mutual census insane soda cactus onion blue pear cable bar";

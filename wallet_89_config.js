@@ -1,1 +1,1 @@
-var mnemonic = "tent that maple drill base nut amount abuse junk loan since borrow";
+var mnemonic = "believe spirit this master wrong clock spy stock rail trigger police column";

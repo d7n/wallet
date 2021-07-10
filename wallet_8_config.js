@@ -1,1 +1,1 @@
-var mnemonic = "live divert upper mushroom embark grape food slender giggle matter budget protect";
+var mnemonic = "timber empty fit elegant trumpet outdoor control evil sugar rally popular february";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard style swap junior artefact ribbon donate scale abuse wrong evoke permit";
+var mnemonic = "lesson icon rude clean duck town bright fortune baby success matter cheese";

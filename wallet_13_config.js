@@ -1,1 +1,1 @@
-var mnemonic = "achieve cupboard nurse trash raccoon chest beef result pink spy fiber orphan";
+var mnemonic = "prefer fly churn recall rifle enable forget reduce island universe call meadow";

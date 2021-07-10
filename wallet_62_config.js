@@ -1,1 +1,1 @@
-var mnemonic = "bulk idea finish teach ritual spray boost middle prefer tree series must";
+var mnemonic = "first cloud frame squeeze culture goat original audit prison slam clerk swear";

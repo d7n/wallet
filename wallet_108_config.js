@@ -1,1 +1,1 @@
-var mnemonic = "omit priority bird brother gravity curtain junk behind supply vessel raven arena";
+var mnemonic = "answer process until put above paper trophy limit squirrel where rural lake";

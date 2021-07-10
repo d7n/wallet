@@ -1,1 +1,1 @@
-var mnemonic = "ankle just horn inspire crush endless post employ cost hammer august pill";
+var mnemonic = "mirror best cute nephew clump recall traffic renew ancient almost profit unfold";

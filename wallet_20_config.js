@@ -1,1 +1,1 @@
-var mnemonic = "pupil luxury enable fresh million affair choice truly fossil exile marine draw";
+var mnemonic = "zone surround inherit pause enjoy dentist kitchen judge ostrich rubber table maple";

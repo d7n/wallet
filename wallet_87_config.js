@@ -1,1 +1,1 @@
-var mnemonic = "mesh virtual cause slow rally cabin vast elevator angle gorilla rib next";
+var mnemonic = "heart impose original apple inch result raven kingdom museum antique beyond hat";

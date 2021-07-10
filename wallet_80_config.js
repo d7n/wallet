@@ -1,1 +1,1 @@
-var mnemonic = "bullet slice garage leopard citizen filter clean hammer power kiwi small law";
+var mnemonic = "goddess wool detect misery steel sunny supply demand cigar valve helmet moment";

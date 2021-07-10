@@ -1,1 +1,1 @@
-var mnemonic = "better devote science major victory room moral uniform swift drastic frame upgrade";
+var mnemonic = "silk way divert stem noodle pigeon define until enact upset hero twelve";

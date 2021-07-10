@@ -1,1 +1,1 @@
-var mnemonic = "much female relief spoil obey veteran manage grain panic maximum middle canoe";
+var mnemonic = "body chef ankle forward category credit work void party sustain lesson clever";

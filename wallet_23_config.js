@@ -1,1 +1,1 @@
-var mnemonic = "vast federal until maximum author voyage million valve bunker aware prosper decorate";
+var mnemonic = "chase unlock romance language snake chunk prefer elbow suit turtle dove beef";

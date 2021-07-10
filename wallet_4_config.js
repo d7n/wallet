@@ -1,1 +1,1 @@
-var mnemonic = "mix scout about near entry mechanic comfort turn violin title tissue silly";
+var mnemonic = "horror arm lift autumn april risk flip cousin praise metal raise crucial";

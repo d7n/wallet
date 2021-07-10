@@ -1,1 +1,1 @@
-var mnemonic = "island lady mask view disorder push another salute prison satisfy inhale child";
+var mnemonic = "exile love sound home pretty crack memory assist stick poet build refuse";

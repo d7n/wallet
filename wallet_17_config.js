@@ -1,1 +1,1 @@
-var mnemonic = "wash winter silver dry comic news company unhappy guess upgrade wedding mountain";
+var mnemonic = "region super scorpion humble season assume desk agent city vague oyster gun";

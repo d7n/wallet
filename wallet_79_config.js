@@ -1,1 +1,1 @@
-var mnemonic = "sheriff wish blouse release category chronic caught sting include medal magnet item";
+var mnemonic = "hood disorder first love ship whale below decline depend catch endorse tray";

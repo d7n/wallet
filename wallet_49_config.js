@@ -1,1 +1,1 @@
-var mnemonic = "water salmon shrimp update pulp field over sick produce token pride favorite";
+var mnemonic = "visit route like circle upset tonight pilot rug modify upgrade frequent multiply";

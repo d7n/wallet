@@ -1,1 +1,1 @@
-var mnemonic = "donate build follow chair describe prison chaos wet arrow neck club forum";
+var mnemonic = "rotate draft federal silent story foster near adapt acoustic lunar deputy pet";

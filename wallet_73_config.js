@@ -1,1 +1,1 @@
-var mnemonic = "crouch dutch excuse wheel tape success news relief glass equal spoil hockey";
+var mnemonic = "cattle turtle cycle tired pill disorder room enter novel recall outside depth";

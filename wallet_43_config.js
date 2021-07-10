@@ -1,1 +1,1 @@
-var mnemonic = "powder impose bring dinosaur summer rookie card day call sound dial hamster";
+var mnemonic = "maze lens profit tiger ginger lunch bounce chair stool float pipe silly";

@@ -1,1 +1,1 @@
-var mnemonic = "middle basic simple wrestle celery cool practice display pact sell book latin";
+var mnemonic = "sponsor armor lumber crawl defense outer stay distance rough web delay inside";

@@ -1,1 +1,1 @@
-var mnemonic = "alley pet address mushroom diamond they ankle example fog edge twice virtual";
+var mnemonic = "similar gravity rigid control runway fee country silk head myth ill trick";

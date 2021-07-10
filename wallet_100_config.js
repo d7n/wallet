@@ -1,1 +1,1 @@
-var mnemonic = "jungle bid hero utility stable pattern blade best category hunt wagon valley";
+var mnemonic = "gap climb brisk evil amount leopard door such vibrant torch balance fruit";

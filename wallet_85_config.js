@@ -1,1 +1,1 @@
-var mnemonic = "flash drink enrich wrestle town swamp segment unlock cycle virtual radar lottery";
+var mnemonic = "fossil enemy warfare harsh latin marriage change elevator mushroom gauge dinner text";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz stable steak hidden carpet sunset tuition helmet provide rubber hurry rare";
+var mnemonic = "visa junk confirm onion room gasp brand bag all hazard pioneer lake";

@@ -1,1 +1,1 @@
-var mnemonic = "embody true salon away apology furnace siren fever speak teach dynamic mountain";
+var mnemonic = "decorate tilt distance balance switch bind couch fall lunch pact eagle choose";

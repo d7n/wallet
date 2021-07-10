@@ -1,1 +1,1 @@
-var mnemonic = "culture magic duck assume snake fury shine tuition labor coffee final suspect";
+var mnemonic = "stable people crowd universe page return below glide puppy junk aspect kitten";

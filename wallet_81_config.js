@@ -1,1 +1,1 @@
-var mnemonic = "parade fetch keep naive nest sunny secret tragic profit ask point client";
+var mnemonic = "dish other young bacon math pass merry elite weather frost desert throw";

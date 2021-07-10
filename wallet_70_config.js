@@ -1,1 +1,1 @@
-var mnemonic = "celery island marriage identify exist whip swear club move sorry december slush";
+var mnemonic = "hold exotic case attend ring angry craft wrap someone ship warfare burden";

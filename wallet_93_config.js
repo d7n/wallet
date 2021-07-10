@@ -1,1 +1,1 @@
-var mnemonic = "napkin cattle hat breeze zero champion ship paper hello clay tree cheap";
+var mnemonic = "behave elite theory about simple neck jazz stairs forward system attract pass";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish throw bike slender gauge sunny unfold wall answer spend poem auto";
+var mnemonic = "dice bless shadow radar duck scale hen before front goose answer culture";

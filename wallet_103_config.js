@@ -1,1 +1,1 @@
-var mnemonic = "smart marble elder try cat spy nurse radio nurse attack bronze snack";
+var mnemonic = "laugh bone govern black nerve please palm select program code valley demand";

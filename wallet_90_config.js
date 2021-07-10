@@ -1,1 +1,1 @@
-var mnemonic = "grief grape pact outside park crunch exhibit electric sleep satoshi box treat";
+var mnemonic = "promote blue solve friend table weekend stereo view pool deliver vote rain";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet stem ability connect tool crucial danger danger replace welcome scheme ice";
+var mnemonic = "script canal vague media rigid desk bulb lazy talent photo elegant assault";

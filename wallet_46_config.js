@@ -1,1 +1,1 @@
-var mnemonic = "primary split veteran chest hope orbit property burden buyer space march volcano";
+var mnemonic = "champion test rocket text destroy split old mail mammal almost range place";

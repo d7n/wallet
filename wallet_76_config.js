@@ -1,1 +1,1 @@
-var mnemonic = "post disagree spell sibling bean mirror lyrics joy exact boy provide develop";
+var mnemonic = "ugly stem bag key round dutch cancel fluid story toy joke tiny";

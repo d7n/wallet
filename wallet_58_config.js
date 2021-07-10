@@ -1,1 +1,1 @@
-var mnemonic = "frame good motor ostrich income riot tobacco property mouse inject phone rapid";
+var mnemonic = "search bitter robot palm option output cloth access avoid girl biology hazard";

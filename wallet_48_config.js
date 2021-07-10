@@ -1,1 +1,1 @@
-var mnemonic = "only electric enhance begin brick oppose brick shoe water naive vast fetch";
+var mnemonic = "poverty sniff credit month join glue volcano potato apart illegal blame stairs";

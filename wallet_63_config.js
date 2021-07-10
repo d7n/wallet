@@ -1,1 +1,1 @@
-var mnemonic = "misery pulse confirm paper reward enlist oven next spice sand fatal capable";
+var mnemonic = "aisle math release devote liberty plug riot despair reflect original safe soap";
