@@ -1,1 +1,1 @@
-var mnemonic = "follow acoustic march design roof library trim share spring royal crater fall";
+var mnemonic = "cargo banana water february fitness seed forest tiger room amazing bridge okay";

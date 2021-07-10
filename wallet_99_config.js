@@ -1,1 +1,1 @@
-var mnemonic = "drill expire social patch dose treat couch rose rate achieve ridge already";
+var mnemonic = "throw chair palace cereal category virus arm aspect blind marriage fashion throw";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble happy black divert ensure anchor wheel spike toilet charge jewel shoe";
+var mnemonic = "virtual menu bind build boost special frozen leopard voice window ugly grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "blue achieve guitar sister matter pigeon fun express tattoo mention disorder abandon";
+var mnemonic = "frame jungle toward luxury manage measure sight eye stove teach lounge model";

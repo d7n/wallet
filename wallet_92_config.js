@@ -1,1 +1,1 @@
-var mnemonic = "glove piano goose chapter trip push section above diet glory issue wheat";
+var mnemonic = "cannon garden endorse network hammer fiction oppose guitar wood educate enable limb";

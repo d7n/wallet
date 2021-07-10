@@ -1,1 +1,1 @@
-var mnemonic = "leaf fog donor unique sick glare spy hard march hire scatter stand";
+var mnemonic = "ignore slam butter year crawl cook lava mistake hockey battle jazz purpose";

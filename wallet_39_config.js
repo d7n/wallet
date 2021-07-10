@@ -1,1 +1,1 @@
-var mnemonic = "tilt mixture gloom false fee entire oak clay dilemma exhaust quality guitar";
+var mnemonic = "hundred certain describe allow brush enter easy spatial fit claw wear wrist";

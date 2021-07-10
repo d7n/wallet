@@ -1,1 +1,1 @@
-var mnemonic = "output modify cinnamon write eagle before zoo junk harbor raccoon tape exhibit";
+var mnemonic = "tool entire fatal display dance inflict maid damp setup about open cradle";

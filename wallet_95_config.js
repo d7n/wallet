@@ -1,1 +1,1 @@
-var mnemonic = "gravity example twice regular raw void caution cable gesture victory digital abandon";
+var mnemonic = "horror solid slice bag risk side wonder history couple dash distance twice";

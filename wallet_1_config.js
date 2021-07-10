@@ -1,1 +1,1 @@
-var mnemonic = "pitch issue smooth travel renew enact crew act energy record slide remain";
+var mnemonic = "breeze attend project giraffe dolphin leopard parrot month water pig sphere math";

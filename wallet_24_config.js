@@ -1,1 +1,1 @@
-var mnemonic = "sick south idea garment clip just almost lawsuit mutual judge stick unhappy";
+var mnemonic = "slogan cost winter flee slide neither boil scale custom subway immense boy";

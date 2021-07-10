@@ -1,1 +1,1 @@
-var mnemonic = "alarm tornado material hidden invite enlist equal seed pottery face that strong";
+var mnemonic = "drive practice crystal speak project athlete blur skirt age pipe asthma neutral";

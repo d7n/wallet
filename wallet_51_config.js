@@ -1,1 +1,1 @@
-var mnemonic = "chest muscle detect lizard grief excite load erode entry clap require truck";
+var mnemonic = "federal diet gain donor noodle lift chalk memory buzz glad left table";

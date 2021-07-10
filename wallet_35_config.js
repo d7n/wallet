@@ -1,1 +1,1 @@
-var mnemonic = "film hawk early excess bracket feature offer excite bounce mobile long galaxy";
+var mnemonic = "day badge lion moral inner that coil hospital first derive shine believe";

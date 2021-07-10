@@ -1,1 +1,1 @@
-var mnemonic = "mandate miracle pass fish brief vacuum embrace couple subway sock give enemy";
+var mnemonic = "gravity deal estate practice market garment offer great hat also mind process";

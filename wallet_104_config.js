@@ -1,1 +1,1 @@
-var mnemonic = "perfect type abandon common quote patient proof laptop volcano nephew spawn hint";
+var mnemonic = "wide thought pattern crawl slice memory chapter leopard regret kangaroo lonely race";

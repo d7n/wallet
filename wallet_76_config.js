@@ -1,1 +1,1 @@
-var mnemonic = "chicken outside drive dry open else banner clever organ text custom urban";
+var mnemonic = "flight bike fortune today wrestle oppose book fence trade disagree trash plug";

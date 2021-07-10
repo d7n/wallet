@@ -1,1 +1,1 @@
-var mnemonic = "memory rug velvet food guilt grant green canvas planet yellow stone road";
+var mnemonic = "absurd kingdom patch logic renew mercy sun ski dignity cage limit fatigue";

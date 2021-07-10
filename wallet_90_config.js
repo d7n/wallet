@@ -1,1 +1,1 @@
-var mnemonic = "series great helmet tuna rice immense marriage same hover ritual melody mean";
+var mnemonic = "carpet dial render cross night spoon vehicle ramp fever apart metal model";

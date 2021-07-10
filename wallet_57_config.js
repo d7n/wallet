@@ -1,1 +1,1 @@
-var mnemonic = "topic they kitten weapon call attitude stereo exchange review common enlist pair";
+var mnemonic = "hobby correct speak sustain round goddess nurse pool reopen bracket aunt oxygen";

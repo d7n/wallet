@@ -1,1 +1,1 @@
-var mnemonic = "unaware cattle quiz staff hover vapor wisdom cupboard market response strategy talk";
+var mnemonic = "stable confirm rescue velvet degree intact casual luxury thumb verify voyage behave";

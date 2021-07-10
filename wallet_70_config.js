@@ -1,1 +1,1 @@
-var mnemonic = "increase salon common devote involve spare engine busy outer keep saddle task";
+var mnemonic = "maximum image orient square cricket twenty cotton ceiling display soul slush divert";

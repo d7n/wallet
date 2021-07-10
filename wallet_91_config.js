@@ -1,1 +1,1 @@
-var mnemonic = "figure soul spread tennis empower lyrics genuine twin elevator aspect limb sound";
+var mnemonic = "river bacon sphere exist move mobile glue powder myth bleak pride sport";

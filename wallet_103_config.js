@@ -1,1 +1,1 @@
-var mnemonic = "frame angle antique ride client canal crime civil boy space sphere height";
+var mnemonic = "thrive oyster walk tip nasty document miracle oak legend nominee atom stomach";

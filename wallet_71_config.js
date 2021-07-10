@@ -1,1 +1,1 @@
-var mnemonic = "fresh night fat apple slab blouse hold anger argue grab ship equip";
+var mnemonic = "pride exchange cruise tackle toast wine involve move achieve fish aspect hawk";

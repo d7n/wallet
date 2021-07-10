@@ -1,1 +1,1 @@
-var mnemonic = "child spell palace need appear sausage sentence bright lazy canvas rule roof";
+var mnemonic = "october alter swap output ready brand sell ozone furnace stand match weekend";

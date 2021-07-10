@@ -1,1 +1,1 @@
-var mnemonic = "you fire tackle brass bomb alien glass loyal hamster must sadness photo";
+var mnemonic = "appear kick miracle rib because frown forget trophy input eternal valley bottom";

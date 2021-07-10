@@ -1,1 +1,1 @@
-var mnemonic = "expose balcony subject inquiry turtle lend test danger logic school raven road";
+var mnemonic = "allow little glad drill organ fly remind shine lava caution can own";

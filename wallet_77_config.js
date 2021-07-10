@@ -1,1 +1,1 @@
-var mnemonic = "beyond trend winter decline holiday melody stay calm robust priority knock dose";
+var mnemonic = "soap light tank impulse bridge volcano turn you narrow vanish civil spell";

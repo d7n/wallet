@@ -1,1 +1,1 @@
-var mnemonic = "replace glue shrug hidden gate survey milk prevent blush plug edit give";
+var mnemonic = "car document digital unhappy develop fuel antenna monster practice comfort make setup";

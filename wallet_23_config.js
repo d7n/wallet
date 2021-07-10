@@ -1,1 +1,1 @@
-var mnemonic = "dwarf gadget notable buzz since person entry parent hello half sister glance";
+var mnemonic = "smooth huge over prize urban letter idea fetch sun butter guess flight";

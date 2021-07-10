@@ -1,1 +1,1 @@
-var mnemonic = "novel omit almost click example hurry action man session cry entry absent";
+var mnemonic = "saddle unfold amused dinner cousin bicycle disorder voyage museum eternal skill notable";

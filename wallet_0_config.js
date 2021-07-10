@@ -1,1 +1,1 @@
-var mnemonic = "require scout stuff walnut visual powder envelope equip crouch erupt ski glide";
+var mnemonic = "lecture twin cement tomorrow hazard naive setup crystal decorate wage crystal save";

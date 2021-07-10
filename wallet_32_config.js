@@ -1,1 +1,1 @@
-var mnemonic = "effort swear rude very arctic patch ocean step ridge ocean liquid cute";
+var mnemonic = "sausage bench outside despair brain replace fork real salad wide ecology junk";

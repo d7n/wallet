@@ -1,1 +1,1 @@
-var mnemonic = "jewel cry razor work income way soon light maple urban aisle hole";
+var mnemonic = "around ordinary obtain turkey member dry hold upon chest consider beyond guess";

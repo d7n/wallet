@@ -1,1 +1,1 @@
-var mnemonic = "version media bargain vanish kangaroo stage afford account real omit thrive mail";
+var mnemonic = "vibrant cute soldier bridge black jelly pluck bicycle filter mouse pride rain";

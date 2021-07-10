@@ -1,1 +1,1 @@
-var mnemonic = "dog canal ramp dance report panther series faint crack twist type vivid";
+var mnemonic = "judge history garlic library cable escape seed apology chief merry tragic consider";

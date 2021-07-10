@@ -1,1 +1,1 @@
-var mnemonic = "soccer album chaos mansion skill deputy bread chimney tell tackle february ready";
+var mnemonic = "strike scissors top planet nuclear endless reunion exchange hobby cluster satisfy despair";

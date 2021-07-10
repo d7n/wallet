@@ -1,1 +1,1 @@
-var mnemonic = "federal effort open crime shoe glow wheel excess company deposit learn wide";
+var mnemonic = "range expose art awful luggage dynamic neck cash squeeze aunt stool skin";

@@ -1,1 +1,1 @@
-var mnemonic = "art damage auto rib receive glass deputy fortune note stereo spirit penalty";
+var mnemonic = "helmet food base piano marine concert echo enforce random inner trouble double";

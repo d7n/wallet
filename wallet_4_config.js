@@ -1,1 +1,1 @@
-var mnemonic = "minor plunge grocery wish pet copy remain bench course hockey pistol pride";
+var mnemonic = "lab mushroom proof hold siren truth annual derive shrug retreat frame anxiety";

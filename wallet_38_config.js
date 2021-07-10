@@ -1,1 +1,1 @@
-var mnemonic = "bag guide vintage shrimp fence gloom devote street shield pioneer dinner run";
+var mnemonic = "cause layer will melt nephew sign toward swing satisfy tide loud woman";

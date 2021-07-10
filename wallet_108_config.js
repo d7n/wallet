@@ -1,1 +1,1 @@
-var mnemonic = "lava emerge announce chunk scale fetch merit tragic artist field mercy vanish";
+var mnemonic = "popular pair album rice vote ecology garlic gentle like casino zero bubble";

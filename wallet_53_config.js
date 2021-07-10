@@ -1,1 +1,1 @@
-var mnemonic = "mask law scissors upgrade voyage escape easy vocal tunnel unlock risk rebel";
+var mnemonic = "busy top current suspect weekend vapor skate canal youth express ginger knee";

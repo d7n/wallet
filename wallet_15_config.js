@@ -1,1 +1,1 @@
-var mnemonic = "angry brown truck easily gate midnight dolphin agree mad call gym announce";
+var mnemonic = "keen ready mountain knee asset session east promote problem media rubber inflict";

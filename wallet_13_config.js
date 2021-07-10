@@ -1,1 +1,1 @@
-var mnemonic = "off forget tonight equip swim goose recall congress give soldier empower offer";
+var mnemonic = "cycle divert couch slight income next crowd nation guard plug chase moral";

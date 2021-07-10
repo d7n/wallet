@@ -1,1 +1,1 @@
-var mnemonic = "hundred almost recipe spare tragic much broccoli sure dolphin slam famous vocal";
+var mnemonic = "alone cancel enable kangaroo unveil clever twice curtain room ten win various";

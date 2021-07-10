@@ -1,1 +1,1 @@
-var mnemonic = "tilt hello refuse obtain miracle average pond recycle midnight menu manage near";
+var mnemonic = "actual misery happy catalog puzzle ball modify blush column theory upper unknown";

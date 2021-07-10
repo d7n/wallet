@@ -1,1 +1,1 @@
-var mnemonic = "worth jewel network monitor curve rally bottom guess aim essence super ask";
+var mnemonic = "world detect shy always label pencil woman firm title actor describe cake";

@@ -1,1 +1,1 @@
-var mnemonic = "setup ethics core shed feature burden local tongue letter borrow sight task";
+var mnemonic = "poet cannon book coyote luggage build vote fun surge biology improve floor";

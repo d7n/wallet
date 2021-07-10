@@ -1,1 +1,1 @@
-var mnemonic = "sock lizard want rough panel dust wild siege buddy match juice slogan";
+var mnemonic = "decade forest sort close hybrid saddle seek crystal ripple inner damp garbage";

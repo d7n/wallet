@@ -1,1 +1,1 @@
-var mnemonic = "floor limb polar artwork suspect among shrug convince sudden infant upon enhance";
+var mnemonic = "enforce like gadget auto cook cup flight giraffe town van exile topic";

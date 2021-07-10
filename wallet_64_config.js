@@ -1,1 +1,1 @@
-var mnemonic = "canoe renew property glimpse airport sort language trade enough change mixture gun";
+var mnemonic = "two level wheat polar symbol trial this you series slush trend hint";

@@ -1,1 +1,1 @@
-var mnemonic = "correct coast heavy legend inspire gain leg noble charge unveil awake dish";
+var mnemonic = "knee immune unhappy vague during unique roast garage labor much thumb alarm";

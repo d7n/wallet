@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit inmate accuse wage hub curtain because shield once alarm almost pave";
+var mnemonic = "access bonus pistol roast survey either exercise below where response hint wheat";

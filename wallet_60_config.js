@@ -1,1 +1,1 @@
-var mnemonic = "match amount foot scheme pledge rain flame raw actor stadium twelve razor";
+var mnemonic = "coil empower name asthma weekend fetch drip ethics parrot regular stand subway";

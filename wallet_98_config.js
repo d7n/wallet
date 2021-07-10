@@ -1,1 +1,1 @@
-var mnemonic = "eternal gesture knock bread path bomb gown hunt enhance normal obey garden";
+var mnemonic = "soon cave prevent brave milk action arrow quality arrest coconut silver attend";

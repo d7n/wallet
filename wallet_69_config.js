@@ -1,1 +1,1 @@
-var mnemonic = "uphold liberty cigar cute behind isolate dog snow climb other wave thumb";
+var mnemonic = "change seat egg evolve learn smile whip derive spy banana clown lawn";

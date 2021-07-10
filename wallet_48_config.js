@@ -1,1 +1,1 @@
-var mnemonic = "hockey paper surface wool impact cancel better join toss boost fire hour";
+var mnemonic = "employ price hybrid group electric pulse dizzy narrow tackle latin people creek";

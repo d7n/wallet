@@ -1,1 +1,1 @@
-var mnemonic = "cart strategy area lumber identify cream sweet control master pact friend slow";
+var mnemonic = "always industry avoid chalk stereo gesture suspect tip decrease scrub garment burden";

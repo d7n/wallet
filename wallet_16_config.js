@@ -1,1 +1,1 @@
-var mnemonic = "police skin account cover sphere chicken used canvas response wisdom royal soccer";
+var mnemonic = "bullet soul permit exercise guide oblige news claw party estate runway chuckle";

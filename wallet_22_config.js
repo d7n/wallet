@@ -1,1 +1,1 @@
-var mnemonic = "tonight flavor high various cheap insect final tuition bunker present crew feed";
+var mnemonic = "zero victory rather hint rival waste entry angry mountain possible quality army";

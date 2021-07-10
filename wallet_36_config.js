@@ -1,1 +1,1 @@
-var mnemonic = "youth narrow sibling blood tape spirit brick praise arctic van exchange system";
+var mnemonic = "ritual crawl grape planet ceiling embrace kitchen member deal afraid pact dry";

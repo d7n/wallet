@@ -1,1 +1,1 @@
-var mnemonic = "car idle lake opinion margin combine caught blast arrow garage essay jungle";
+var mnemonic = "unlock arrange stick sadness wife elephant flush repair pull reduce wrap piece";

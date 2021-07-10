@@ -1,1 +1,1 @@
-var mnemonic = "solid stadium spare outdoor fashion bird slow dizzy together fame window owner";
+var mnemonic = "dinner snack range grow traffic disagree pigeon wheat shoot jeans circle road";

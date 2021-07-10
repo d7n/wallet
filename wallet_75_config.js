@@ -1,1 +1,1 @@
-var mnemonic = "demise original enough rib degree quiz wife sunny occur ordinary spot increase";
+var mnemonic = "code strike fury hand van web rhythm female struggle junk tent ugly";

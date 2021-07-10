@@ -1,1 +1,1 @@
-var mnemonic = "civil fiscal sorry inform close treat pattern access virus north waste slender";
+var mnemonic = "drift position dice unable start key drip surround knock plate token include";

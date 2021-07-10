@@ -1,1 +1,1 @@
-var mnemonic = "fossil team car arctic dash sell wet spider cat draft pool repeat";
+var mnemonic = "jaguar quiz emerge vast opera broom search motion stay unfold comic normal";

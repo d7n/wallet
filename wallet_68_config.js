@@ -1,1 +1,1 @@
-var mnemonic = "south ten wave word primary answer own artist soup auto engage basic";
+var mnemonic = "short field empty plastic dragon spoil adjust zone scale capital wave duck";

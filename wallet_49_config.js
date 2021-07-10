@@ -1,1 +1,1 @@
-var mnemonic = "cabin toy twin cost image fee behave slot vanish marble want dose";
+var mnemonic = "any boat immune essence check metal museum climb ship bicycle purse dynamic";

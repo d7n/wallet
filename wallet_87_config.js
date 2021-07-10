@@ -1,1 +1,1 @@
-var mnemonic = "gorilla very thunder sketch mad vanish fancy bid stick average heart cable";
+var mnemonic = "wet busy pattern unfold topic foot curious fix inherit since mean tired";

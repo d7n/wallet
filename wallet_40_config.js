@@ -1,1 +1,1 @@
-var mnemonic = "rural hammer state ice coin harbor believe conduct school garage gas decrease";
+var mnemonic = "mind fuel sunny shock exhibit source eternal what utility dutch evidence width";

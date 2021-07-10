@@ -1,1 +1,1 @@
-var mnemonic = "sphere expose master sample gift venture traffic employ various strike just intact";
+var mnemonic = "immune walnut swear raven seat magic dial fox sight video jelly filter";

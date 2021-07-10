@@ -1,1 +1,1 @@
-var mnemonic = "flip welcome quote economy tone summer jaguar mimic orbit stadium there actress";
+var mnemonic = "wrestle doctor grain obtain expire absorb equal wheel result mask salmon illegal";

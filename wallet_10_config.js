@@ -1,1 +1,1 @@
-var mnemonic = "tourist obscure purpose health street tongue ocean decorate raccoon drill relax waste";
+var mnemonic = "fetch shoe toilet west critic bullet hand door spread impulse derive extend";

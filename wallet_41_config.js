@@ -1,1 +1,1 @@
-var mnemonic = "melt tail text frog border ghost parrot camp return dream magic winner";
+var mnemonic = "kitchen fatigue slender aerobic logic predict dash friend scare struggle list drastic";

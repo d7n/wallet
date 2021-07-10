@@ -1,1 +1,1 @@
-var mnemonic = "narrow tuition reflect during security enact bitter foster opinion lab suffer tired";
+var mnemonic = "stone enlist aerobic match ski athlete chimney castle prevent rate yellow faculty";

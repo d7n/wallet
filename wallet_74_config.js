@@ -1,1 +1,1 @@
-var mnemonic = "onion ecology cigar bachelor sorry beach winner floor reject audit sell around";
+var mnemonic = "detect popular craft mail define decide pilot coin hat help unlock soul";

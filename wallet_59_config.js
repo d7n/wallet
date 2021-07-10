@@ -1,1 +1,1 @@
-var mnemonic = "van document pistol load attack chest random title meat mention round super";
+var mnemonic = "address remember service spell belt cigar oxygen olympic soap often kiss such";

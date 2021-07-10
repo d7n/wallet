@@ -1,1 +1,1 @@
-var mnemonic = "december color chef husband raccoon artwork pyramid near between nasty order great";
+var mnemonic = "brisk foam song yard wire road fashion zero way trend original ivory";

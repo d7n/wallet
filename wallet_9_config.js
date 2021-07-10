@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hold leaf service lunch purchase pretty creek update bundle alert viable";
+var mnemonic = "win bar scene square ill appear liquid slow artwork snake palm brass";

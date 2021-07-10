@@ -1,1 +1,1 @@
-var mnemonic = "permit ship staff boil trick spread vacant rubber loud risk moon erase";
+var mnemonic = "master lake swap initial citizen input skill judge rally smart crawl brick";

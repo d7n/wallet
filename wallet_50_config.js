@@ -1,1 +1,1 @@
-var mnemonic = "verify baby voice buddy lobster deal armor empower gorilla daring scare talent";
+var mnemonic = "leisure inspire spell aspect adult dolphin repeat what rebuild stadium mad strike";

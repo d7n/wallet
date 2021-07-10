@@ -1,1 +1,1 @@
-var mnemonic = "analyst winter bean custom east perfect visit asset private mammal type exhibit";
+var mnemonic = "okay asset nerve celery shop this shallow topic skin design wagon curve";

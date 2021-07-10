@@ -1,1 +1,1 @@
-var mnemonic = "quit tube tissue obvious squirrel hover scrub fantasy palace square expect prize";
+var mnemonic = "someone trap remain album cinnamon canyon wear dutch property transfer enough vendor";

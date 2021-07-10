@@ -1,1 +1,1 @@
-var mnemonic = "later surround access dumb shrug visit leader possible point shaft buyer animal";
+var mnemonic = "convince buddy earth during snow achieve voyage elevator scare boil sight nature";

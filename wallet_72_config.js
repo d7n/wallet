@@ -1,1 +1,1 @@
-var mnemonic = "silk cat mixed rule uniform royal order physical tissue fantasy expect insect";
+var mnemonic = "fence first blush thrive join scrap throw april know quiz ritual ritual";

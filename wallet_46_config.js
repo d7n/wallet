@@ -1,1 +1,1 @@
-var mnemonic = "include ginger gadget flower reform soccer group evoke upon pull awesome reform";
+var mnemonic = "march actor power rescue select nut chapter alpha innocent bacon diagram disease";
