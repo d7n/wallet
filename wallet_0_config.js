@@ -1,1 +1,1 @@
-var mnemonic = "lecture twin cement tomorrow hazard naive setup crystal decorate wage crystal save";
+var mnemonic = "arm couch pet start elegant solve clean heavy lab food tube sight";

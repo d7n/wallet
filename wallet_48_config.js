@@ -1,1 +1,1 @@
-var mnemonic = "employ price hybrid group electric pulse dizzy narrow tackle latin people creek";
+var mnemonic = "volcano equal final long task child frog shuffle catalog prefer power until";

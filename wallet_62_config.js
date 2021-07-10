@@ -1,1 +1,1 @@
-var mnemonic = "poet cannon book coyote luggage build vote fun surge biology improve floor";
+var mnemonic = "call lizard negative mansion stadium measure height tell grid fragile away normal";

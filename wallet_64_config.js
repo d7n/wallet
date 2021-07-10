@@ -1,1 +1,1 @@
-var mnemonic = "two level wheat polar symbol trial this you series slush trend hint";
+var mnemonic = "iron talent cradle frozen garbage trim beauty century column that joy swing";

@@ -1,1 +1,1 @@
-var mnemonic = "first useless opinion tuna claw valid cup series planet pigeon prepare select";
+var mnemonic = "entry strategy spot hub grocery vague surge oblige hockey coach episode angle";

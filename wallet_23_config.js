@@ -1,1 +1,1 @@
-var mnemonic = "smooth huge over prize urban letter idea fetch sun butter guess flight";
+var mnemonic = "burst unaware undo ski layer tide into forest feature elephant pool borrow";

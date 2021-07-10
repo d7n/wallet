@@ -1,1 +1,1 @@
-var mnemonic = "hobby correct speak sustain round goddess nurse pool reopen bracket aunt oxygen";
+var mnemonic = "ability core earth loan trick merge oyster way travel tribe demand summer";

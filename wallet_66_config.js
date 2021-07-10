@@ -1,1 +1,1 @@
-var mnemonic = "frame jungle toward luxury manage measure sight eye stove teach lounge model";
+var mnemonic = "release hidden plunge useful imitate purse nerve reform account lottery lazy race";

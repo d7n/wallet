@@ -1,1 +1,1 @@
-var mnemonic = "top sheriff diesel subway lab orange champion tent cart extend window mass";
+var mnemonic = "raccoon leopard cube oppose sketch manage honey pioneer disorder clown purity panel";

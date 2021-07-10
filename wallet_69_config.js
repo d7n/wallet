@@ -1,1 +1,1 @@
-var mnemonic = "change seat egg evolve learn smile whip derive spy banana clown lawn";
+var mnemonic = "travel random talk mule express chronic urban together skate addict economy real";

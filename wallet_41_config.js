@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fatigue slender aerobic logic predict dash friend scare struggle list drastic";
+var mnemonic = "trial glory strong praise exit disagree depth subject sauce wagon service strike";

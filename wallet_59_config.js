@@ -1,1 +1,1 @@
-var mnemonic = "address remember service spell belt cigar oxygen olympic soap often kiss such";
+var mnemonic = "thank protect salad scissors genre truth shock buddy city faith keen square";

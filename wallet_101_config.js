@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cute soldier bridge black jelly pluck bicycle filter mouse pride rain";
+var mnemonic = "pond holiday brain purpose city debris tackle mind tip solution review toss";

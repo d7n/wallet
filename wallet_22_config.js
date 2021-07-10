@@ -1,1 +1,1 @@
-var mnemonic = "zero victory rather hint rival waste entry angry mountain possible quality army";
+var mnemonic = "pulse scissors bread grow cinnamon evidence universe mouse weekend pet roast include";

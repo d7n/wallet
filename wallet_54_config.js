@@ -1,1 +1,1 @@
-var mnemonic = "alone cancel enable kangaroo unveil clever twice curtain room ten win various";
+var mnemonic = "swear mosquito material smoke gate hollow wise fashion injury there series universe";

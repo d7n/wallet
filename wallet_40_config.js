@@ -1,1 +1,1 @@
-var mnemonic = "mind fuel sunny shock exhibit source eternal what utility dutch evidence width";
+var mnemonic = "tired width salmon solar crunch parent paper loyal pulse rate future dice";

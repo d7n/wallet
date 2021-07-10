@@ -1,1 +1,1 @@
-var mnemonic = "cycle divert couch slight income next crowd nation guard plug chase moral";
+var mnemonic = "educate critic distance dog broom capital acid rate alcohol fragile grocery cross";

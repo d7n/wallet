@@ -1,1 +1,1 @@
-var mnemonic = "popular pair album rice vote ecology garlic gentle like casino zero bubble";
+var mnemonic = "negative fine outside omit acoustic conduct memory remove someone prize trumpet party";

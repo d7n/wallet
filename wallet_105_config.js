@@ -1,1 +1,1 @@
-var mnemonic = "unlock arrange stick sadness wife elephant flush repair pull reduce wrap piece";
+var mnemonic = "seat pull episode depart flat kiss hip spider roof boat damage question";

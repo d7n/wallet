@@ -1,1 +1,1 @@
-var mnemonic = "march actor power rescue select nut chapter alpha innocent bacon diagram disease";
+var mnemonic = "unable forest pattern hurt aware nation have daughter feel option aunt smooth";

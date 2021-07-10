@@ -1,1 +1,1 @@
-var mnemonic = "horror solid slice bag risk side wonder history couple dash distance twice";
+var mnemonic = "memory rose unfold grant cattle brown quarter very order pottery author humor";

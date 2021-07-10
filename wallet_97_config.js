@@ -1,1 +1,1 @@
-var mnemonic = "range expose art awful luggage dynamic neck cash squeeze aunt stool skin";
+var mnemonic = "such carbon review toddler scene list parent derive rule dream expose panda";

@@ -1,1 +1,1 @@
-var mnemonic = "coil empower name asthma weekend fetch drip ethics parrot regular stand subway";
+var mnemonic = "debate okay peace video flower private about palace laugh wink adult rack";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet food base piano marine concert echo enforce random inner trouble double";
+var mnemonic = "clip green chalk minimum carbon obvious thought core custom bench empower glare";

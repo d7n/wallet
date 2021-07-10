@@ -1,1 +1,1 @@
-var mnemonic = "day badge lion moral inner that coil hospital first derive shine believe";
+var mnemonic = "denial sleep piece control blast lawsuit tennis lunar rocket fire elephant ten";

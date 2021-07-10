@@ -1,1 +1,1 @@
-var mnemonic = "fabric fee chronic sand trophy cluster mesh dumb float doctor thought craft";
+var mnemonic = "lift card increase orphan crawl inquiry jelly write flame happy rotate tattoo";

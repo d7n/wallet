@@ -1,1 +1,1 @@
-var mnemonic = "knee immune unhappy vague during unique roast garage labor much thumb alarm";
+var mnemonic = "index gadget basic away hamster finger govern pelican comfort limit comfort lemon";

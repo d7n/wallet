@@ -1,1 +1,1 @@
-var mnemonic = "trial curve source symbol palm alert turn try odor couch educate enlist";
+var mnemonic = "prepare spice side genre culture century diet liberty eternal animal zoo bench";

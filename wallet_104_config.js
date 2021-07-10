@@ -1,1 +1,1 @@
-var mnemonic = "wide thought pattern crawl slice memory chapter leopard regret kangaroo lonely race";
+var mnemonic = "tent throw neutral humble parade cage enact try merry chimney poem spike";

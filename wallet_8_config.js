@@ -1,1 +1,1 @@
-var mnemonic = "diesel now barrel dynamic custom hour acoustic make vicious advice input uncle";
+var mnemonic = "enjoy torch festival pelican illness hard retire inmate cinnamon curious else change";

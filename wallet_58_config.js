@@ -1,1 +1,1 @@
-var mnemonic = "actual misery happy catalog puzzle ball modify blush column theory upper unknown";
+var mnemonic = "jealous genius okay rich tortoise run stuff stumble absent switch similar face";

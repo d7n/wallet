@@ -1,1 +1,1 @@
-var mnemonic = "world detect shy always label pencil woman firm title actor describe cake";
+var mnemonic = "matrix history spawn brick business twice token lumber job marble void biology";

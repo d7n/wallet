@@ -1,1 +1,1 @@
-var mnemonic = "insect absent drama ignore consider credit ranch expire book excuse develop rocket";
+var mnemonic = "radar best picnic grocery large tube tube eyebrow endless drill error awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "album company toy enjoy still unfold wonder aunt visit habit panic fish";
+var mnemonic = "one notice regret story stairs beauty beef gown banana dirt code soldier";

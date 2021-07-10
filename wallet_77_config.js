@@ -1,1 +1,1 @@
-var mnemonic = "soap light tank impulse bridge volcano turn you narrow vanish civil spell";
+var mnemonic = "edit response more festival strong allow help leave minimum fold pitch penalty";

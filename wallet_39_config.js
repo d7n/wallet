@@ -1,1 +1,1 @@
-var mnemonic = "hundred certain describe allow brush enter easy spatial fit claw wear wrist";
+var mnemonic = "memory when option mad wood payment shift organ found half tuna cost";

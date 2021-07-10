@@ -1,1 +1,1 @@
-var mnemonic = "appear kick miracle rib because frown forget trophy input eternal valley bottom";
+var mnemonic = "alone dish aim mixture predict express mask prize vast jungle negative practice";

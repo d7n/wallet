@@ -1,1 +1,1 @@
-var mnemonic = "swing bunker traffic pepper gravity able skin memory property balance family price";
+var mnemonic = "sleep cloud elder scrub balcony atom account wife unknown verb famous hood";

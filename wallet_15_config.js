@@ -1,1 +1,1 @@
-var mnemonic = "keen ready mountain knee asset session east promote problem media rubber inflict";
+var mnemonic = "between win top leopard until antenna cancel vacuum vintage settle require urban";

@@ -1,1 +1,1 @@
-var mnemonic = "detect popular craft mail define decide pilot coin hat help unlock soul";
+var mnemonic = "pen reform earn harbor dad absent twist wage blue whale aerobic true";

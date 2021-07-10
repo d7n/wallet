@@ -1,1 +1,1 @@
-var mnemonic = "fence first blush thrive join scrap throw april know quiz ritual ritual";
+var mnemonic = "enough repeat grant blade shift feature one snow junior another mass liberty";

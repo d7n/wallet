@@ -1,1 +1,1 @@
-var mnemonic = "ancient oak acid nice cheese wealth giant soldier elbow violin expose ritual";
+var mnemonic = "veteran pretty happy auto step exercise bike junior coconut asthma bag pond";

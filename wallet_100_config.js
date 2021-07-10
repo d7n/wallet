@@ -1,1 +1,1 @@
-var mnemonic = "stone enlist aerobic match ski athlete chimney castle prevent rate yellow faculty";
+var mnemonic = "force piece annual grit spray visit code wheat cram toward general winner";

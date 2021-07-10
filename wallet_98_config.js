@@ -1,1 +1,1 @@
-var mnemonic = "soon cave prevent brave milk action arrow quality arrest coconut silver attend";
+var mnemonic = "flavor toe leave good crew group flavor coffee avocado gorilla region sadness";

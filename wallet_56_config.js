@@ -1,1 +1,1 @@
-var mnemonic = "gravity deal estate practice market garment offer great hat also mind process";
+var mnemonic = "capital execute drift forward short million noise embody great core imitate practice";

@@ -1,1 +1,1 @@
-var mnemonic = "february arctic mail duty cargo shoe learn mix suffer sun duty cherry";
+var mnemonic = "sad jar couple enhance wrist shrug excess rain evidence exhaust taste tumble";

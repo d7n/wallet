@@ -1,1 +1,1 @@
-var mnemonic = "dinner snack range grow traffic disagree pigeon wheat shoot jeans circle road";
+var mnemonic = "town explain noodle sense process strike rival thought reason record glide quarter";

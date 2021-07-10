@@ -1,1 +1,1 @@
-var mnemonic = "kiwi spend material true rug excite supply neither valve lock dove sketch";
+var mnemonic = "three recipe ketchup pioneer atom wasp across like despair world rubber such";

@@ -1,1 +1,1 @@
-var mnemonic = "win bar scene square ill appear liquid slow artwork snake palm brass";
+var mnemonic = "guitar range ceiling lazy tenant interest dawn velvet repeat album time similar";

@@ -1,1 +1,1 @@
-var mnemonic = "false lend hold zero sad sun nurse service surround ugly coil scorpion";
+var mnemonic = "famous electric local tumble someone busy once benefit table release history tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon garden endorse network hammer fiction oppose guitar wood educate enable limb";
+var mnemonic = "ritual round wise you there fix govern increase expire police wave tail";

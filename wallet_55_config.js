@@ -1,1 +1,1 @@
-var mnemonic = "immune walnut swear raven seat magic dial fox sight video jelly filter";
+var mnemonic = "outdoor quantum canoe stock chuckle enhance remind curtain marriage breeze swim fringe";

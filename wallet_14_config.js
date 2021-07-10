@@ -1,1 +1,1 @@
-var mnemonic = "stable confirm rescue velvet degree intact casual luxury thumb verify voyage behave";
+var mnemonic = "act debate insane remember trend tobacco gadget slam copper acoustic wrong crystal";

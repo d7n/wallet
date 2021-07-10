@@ -1,1 +1,1 @@
-var mnemonic = "shuffle result orphan main unhappy excite nerve process magnet reunion duck clever";
+var mnemonic = "comic swift able monitor rally inside endless clock unveil sister glance clever";

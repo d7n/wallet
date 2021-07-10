@@ -1,1 +1,1 @@
-var mnemonic = "absurd kingdom patch logic renew mercy sun ski dignity cage limit fatigue";
+var mnemonic = "dove diet leader matrix wish silk ketchup novel token accuse artist leopard";

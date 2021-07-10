@@ -1,1 +1,1 @@
-var mnemonic = "okay asset nerve celery shop this shallow topic skin design wagon curve";
+var mnemonic = "face dress rail pet exile zero together hammer syrup leader runway hurt";

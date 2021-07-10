@@ -1,1 +1,1 @@
-var mnemonic = "gloom expect letter address just tenant rule bar any divorce lift sort";
+var mnemonic = "garbage punch cattle fee multiply evidence jewel blossom mammal tape empty rice";

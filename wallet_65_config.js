@@ -1,1 +1,1 @@
-var mnemonic = "always industry avoid chalk stereo gesture suspect tip decrease scrub garment burden";
+var mnemonic = "end riot near burger wall length calm gallery give check reduce dizzy";

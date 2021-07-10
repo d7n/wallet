@@ -1,1 +1,1 @@
-var mnemonic = "around ordinary obtain turkey member dry hold upon chest consider beyond guess";
+var mnemonic = "venue fiber among oven illness topple trigger crisp dolphin draw ten guitar";

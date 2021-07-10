@@ -1,1 +1,1 @@
-var mnemonic = "cart next arrive hedgehog pigeon brisk hunt sugar lawn awkward ritual slush";
+var mnemonic = "cloth system camp tenant stool planet valley sample sail frog dice rude";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle doctor grain obtain expire absorb equal wheel result mask salmon illegal";
+var mnemonic = "vote mystery rude endless spoon okay craft sea space payment unaware major";

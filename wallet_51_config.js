@@ -1,1 +1,1 @@
-var mnemonic = "federal diet gain donor noodle lift chalk memory buzz glad left table";
+var mnemonic = "panda purpose there nose salon sign save brass know aerobic useful brother";

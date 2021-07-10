@@ -1,1 +1,1 @@
-var mnemonic = "river bacon sphere exist move mobile glue powder myth bleak pride sport";
+var mnemonic = "shoot observe pear goddess egg radar sting spirit exercise receive life inherit";

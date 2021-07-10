@@ -1,1 +1,1 @@
-var mnemonic = "fetch shoe toilet west critic bullet hand door spread impulse derive extend";
+var mnemonic = "furnace doctor vault decide twin rely parent accident alter brother thrive frozen";

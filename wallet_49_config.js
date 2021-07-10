@@ -1,1 +1,1 @@
-var mnemonic = "any boat immune essence check metal museum climb ship bicycle purse dynamic";
+var mnemonic = "beyond tower oxygen hammer chunk honey lift universe mutual fatal domain image";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan cost winter flee slide neither boil scale custom subway immense boy";
+var mnemonic = "cabbage ghost broken three brick shell bind all saddle slam build menu";

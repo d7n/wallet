@@ -1,1 +1,1 @@
-var mnemonic = "saddle unfold amused dinner cousin bicycle disorder voyage museum eternal skill notable";
+var mnemonic = "reduce vast coconut universe razor hint dove blood eyebrow heavy dash frog";

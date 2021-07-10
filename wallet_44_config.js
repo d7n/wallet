@@ -1,1 +1,1 @@
-var mnemonic = "allow little glad drill organ fly remind shine lava caution can own";
+var mnemonic = "balance wonder onion scene begin cloud tunnel monster session wreck horn chef";

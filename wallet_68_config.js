@@ -1,1 +1,1 @@
-var mnemonic = "short field empty plastic dragon spoil adjust zone scale capital wave duck";
+var mnemonic = "wrong omit sausage impose surround spare rare curious among gentle afraid stay";

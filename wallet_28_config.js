@@ -1,1 +1,1 @@
-var mnemonic = "drift position dice unable start key drip surround knock plate token include";
+var mnemonic = "flush token buffalo draw wolf awful jazz price confirm universe gauge stay";

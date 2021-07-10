@@ -1,1 +1,1 @@
-var mnemonic = "strike scissors top planet nuclear endless reunion exchange hobby cluster satisfy despair";
+var mnemonic = "thing spell cheese soon you same spatial wear witness cat party erode";

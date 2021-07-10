@@ -1,1 +1,1 @@
-var mnemonic = "bullet soul permit exercise guide oblige news claw party estate runway chuckle";
+var mnemonic = "raven market people gospel frozen invest bounce jar trip mesh purity hill";

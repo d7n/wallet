@@ -1,1 +1,1 @@
-var mnemonic = "maximum image orient square cricket twenty cotton ceiling display soul slush divert";
+var mnemonic = "skate loan brush margin daughter host razor sport denial lottery badge script";

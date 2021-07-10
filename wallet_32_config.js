@@ -1,1 +1,1 @@
-var mnemonic = "sausage bench outside despair brain replace fork real salad wide ecology junk";
+var mnemonic = "decline wisdom harbor release arm head lesson install there quarter spawn correct";

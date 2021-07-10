@@ -1,1 +1,1 @@
-var mnemonic = "leisure inspire spell aspect adult dolphin repeat what rebuild stadium mad strike";
+var mnemonic = "badge become crew tortoise task music chapter devote fame kitten cherry barely";

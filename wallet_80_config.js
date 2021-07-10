@@ -1,1 +1,1 @@
-var mnemonic = "jaguar quiz emerge vast opera broom search motion stay unfold comic normal";
+var mnemonic = "jewel age sunset fabric pool connect monkey cabin pottery rescue come pretty";

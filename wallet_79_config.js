@@ -1,1 +1,1 @@
-var mnemonic = "enforce like gadget auto cook cup flight giraffe town van exile topic";
+var mnemonic = "pistol unfair correct pride air cousin aware process shock maid bamboo verify";

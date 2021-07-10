@@ -1,1 +1,1 @@
-var mnemonic = "decade forest sort close hybrid saddle seek crystal ripple inner damp garbage";
+var mnemonic = "arrange review orbit tell blush blast success ahead pistol switch present muscle";

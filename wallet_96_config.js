@@ -1,1 +1,1 @@
-var mnemonic = "rapid crew street patch proof weasel close lawsuit lonely winner rookie express";
+var mnemonic = "dish husband cute steak brown man board entire chimney correct chapter satisfy";

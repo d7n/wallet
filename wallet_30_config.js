@@ -1,1 +1,1 @@
-var mnemonic = "tool entire fatal display dance inflict maid damp setup about open cradle";
+var mnemonic = "damp six noise unfair dose steak snake dynamic lazy empower act donate";

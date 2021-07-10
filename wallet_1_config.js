@@ -1,1 +1,1 @@
-var mnemonic = "breeze attend project giraffe dolphin leopard parrot month water pig sphere math";
+var mnemonic = "pulse immune airport main drift invest rookie unknown fix air album surface";

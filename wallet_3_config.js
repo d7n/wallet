@@ -1,1 +1,1 @@
-var mnemonic = "drive practice crystal speak project athlete blur skirt age pipe asthma neutral";
+var mnemonic = "gold media deposit crowd more attend joke wheat kit wave warfare hub";

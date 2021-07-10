@@ -1,1 +1,1 @@
-var mnemonic = "flight bike fortune today wrestle oppose book fence trade disagree trash plug";
+var mnemonic = "capable access winter culture fiscal retire jazz element tuna opera slide wear";

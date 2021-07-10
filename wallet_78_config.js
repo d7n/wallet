@@ -1,1 +1,1 @@
-var mnemonic = "access bonus pistol roast survey either exercise below where response hint wheat";
+var mnemonic = "unhappy polar mammal village nerve bubble adapt wrap magnet keen curtain phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual menu bind build boost special frozen leopard voice window ugly grunt";
+var mnemonic = "profit answer alert federal bulb good romance portion rubber lab guilt put";

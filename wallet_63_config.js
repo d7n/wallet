@@ -1,1 +1,1 @@
-var mnemonic = "tooth tip spare reflect baby tide pencil panther boring skull enhance uniform";
+var mnemonic = "kitten simple twin they ribbon seven ankle private reduce unlock border apart";

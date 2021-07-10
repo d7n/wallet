@@ -1,1 +1,1 @@
-var mnemonic = "cause layer will melt nephew sign toward swing satisfy tide loud woman";
+var mnemonic = "such exile police salon edit portion frozen banana oblige local era pupil";

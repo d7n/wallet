@@ -1,1 +1,1 @@
-var mnemonic = "busy top current suspect weekend vapor skate canal youth express ginger knee";
+var mnemonic = "pen staff latin rookie sample tool clutch holiday moment before shock virus";

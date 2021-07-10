@@ -1,1 +1,1 @@
-var mnemonic = "code strike fury hand van web rhythm female struggle junk tent ugly";
+var mnemonic = "cheap define demise tide remain extra thumb file loyal memory minimum fuel";

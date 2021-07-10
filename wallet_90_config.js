@@ -1,1 +1,1 @@
-var mnemonic = "carpet dial render cross night spoon vehicle ramp fever apart metal model";
+var mnemonic = "track suit loop forest wisdom actress salad inner pact citizen kingdom exercise";

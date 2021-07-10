@@ -1,1 +1,1 @@
-var mnemonic = "someone trap remain album cinnamon canyon wear dutch property transfer enough vendor";
+var mnemonic = "outside dish ability large remove excess palace cereal tragic absurd never page";

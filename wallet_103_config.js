@@ -1,1 +1,1 @@
-var mnemonic = "thrive oyster walk tip nasty document miracle oak legend nominee atom stomach";
+var mnemonic = "female hybrid toss mixture smile divert violin insect prevent sample roof snow";

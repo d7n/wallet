@@ -1,1 +1,1 @@
-var mnemonic = "lab mushroom proof hold siren truth annual derive shrug retreat frame anxiety";
+var mnemonic = "ginger half execute jeans hamster apology before gift tell blind speed prefer";

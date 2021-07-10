@@ -1,1 +1,1 @@
-var mnemonic = "convince buddy earth during snow achieve voyage elevator scare boil sight nature";
+var mnemonic = "come royal found fun honey cause define improve seven meat defy knock";

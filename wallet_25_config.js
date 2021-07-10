@@ -1,1 +1,1 @@
-var mnemonic = "such health aspect nominee decade limb vast multiply tennis climb spring gasp";
+var mnemonic = "fence width render enlist coast mirror merit chaos long rural pyramid film";
