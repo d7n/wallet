@@ -1,1 +1,1 @@
-var mnemonic = "damp ask mystery help pool sweet arm motor collect mean cannon cat";
+var mnemonic = "betray brush defy bachelor matrix able please extend practice vicious artefact almost";

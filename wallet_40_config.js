@@ -1,1 +1,1 @@
-var mnemonic = "merge hungry begin vapor hunt road pig royal gauge boss shallow excess";
+var mnemonic = "trouble daughter inch focus slice embody humble boil believe what push motion";

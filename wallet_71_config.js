@@ -1,1 +1,1 @@
-var mnemonic = "romance unaware digital afford wear infant solution fan inflict remove mandate open";
+var mnemonic = "snake parent deposit repeat pill lizard belt fatigue oyster typical harsh flip";

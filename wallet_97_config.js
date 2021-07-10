@@ -1,1 +1,1 @@
-var mnemonic = "field torch myself polar yellow problem lend upgrade zebra sick baby denial";
+var mnemonic = "attitude monster business strong beef smile music affair gadget envelope erosion strike";

@@ -1,1 +1,1 @@
-var mnemonic = "blood father board review knee once pencil hospital verb neutral used staff";
+var mnemonic = "motor large hamster friend inner plug night mirror appear crazy host push";

@@ -1,1 +1,1 @@
-var mnemonic = "easily limb provide agent flavor velvet canvas fold hollow acquire birth office";
+var mnemonic = "ritual dance episode hobby salmon gesture equip start cover current rather sauce";

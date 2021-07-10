@@ -1,1 +1,1 @@
-var mnemonic = "vacuum blouse weekend oven eye stem rifle flash infant vibrant love never";
+var mnemonic = "wing key three mask learn just relief afraid ranch good script assist";

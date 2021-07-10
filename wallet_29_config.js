@@ -1,1 +1,1 @@
-var mnemonic = "please subway flock chunk absent post alien bargain street neck slogan gospel";
+var mnemonic = "clutch acid grace smile square north cup corn flavor roof excess humble";

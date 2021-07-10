@@ -1,1 +1,1 @@
-var mnemonic = "actress space indoor away reopen pupil bubble canyon have motion three lock";
+var mnemonic = "novel gospel cruel wrong program multiply eager ready zoo card film eight";

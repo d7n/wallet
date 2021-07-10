@@ -1,1 +1,1 @@
-var mnemonic = "wheat gentle museum level region cup derive method police depend coil raw";
+var mnemonic = "together resource tide control hundred worth crawl receive position celery special upgrade";

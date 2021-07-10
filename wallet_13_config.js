@@ -1,1 +1,1 @@
-var mnemonic = "put embrace pyramid crash arena stock crop clay gentle approve excite unique";
+var mnemonic = "tortoise remind castle miracle option engine awkward barrel frequent soccer crunch latin";

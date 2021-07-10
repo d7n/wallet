@@ -1,1 +1,1 @@
-var mnemonic = "inherit ocean snake trend pink divide file response pretty balance begin melody";
+var mnemonic = "inmate abuse banana bike slice alone aisle honey another popular hurdle merge";

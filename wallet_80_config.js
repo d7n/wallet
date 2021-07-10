@@ -1,1 +1,1 @@
-var mnemonic = "town enough true nerve tomorrow reveal fetch mad cook kick job blue";
+var mnemonic = "erosion track easily cotton zero orange shift curve twenty oxygen lawsuit position";

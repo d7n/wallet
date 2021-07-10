@@ -1,1 +1,1 @@
-var mnemonic = "century swear cloud choice relief fiber immense joy bus grid income cram";
+var mnemonic = "escape celery edit face pill quantum surge depart wrong gate dream river";

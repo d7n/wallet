@@ -1,1 +1,1 @@
-var mnemonic = "prison drift unhappy slush relax husband give amused van neck click people";
+var mnemonic = "curtain expect project patch cheap hotel end hotel approve card cable limb";

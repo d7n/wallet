@@ -1,1 +1,1 @@
-var mnemonic = "weather enforce imitate cattle father silly engage congress elegant rack middle muffin";
+var mnemonic = "habit awful approve debate helmet voyage tomato scale popular walnut charge inflict";

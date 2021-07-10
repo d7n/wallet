@@ -1,1 +1,1 @@
-var mnemonic = "borrow fantasy keep endless hawk myth clever plate pact cabin galaxy stick";
+var mnemonic = "census december fat enemy staff save gallery glare skate during matrix until";

@@ -1,1 +1,1 @@
-var mnemonic = "month gym junior gather rail recycle evidence sound survey during payment scan";
+var mnemonic = "steak memory anger young prefer garden fault guide element crew pupil abstract";

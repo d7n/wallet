@@ -1,1 +1,1 @@
-var mnemonic = "message position swarm mother mutual december recall laptop judge swing later cinnamon";
+var mnemonic = "erupt rail humble various believe group garage situate trash sail carpet parade";

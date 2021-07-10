@@ -1,1 +1,1 @@
-var mnemonic = "crouch exclude leopard unlock team oval apart album history furnace fuel dream";
+var mnemonic = "slab useless volcano burger reform once lonely leisure feature record swift sample";

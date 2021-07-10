@@ -1,1 +1,1 @@
-var mnemonic = "action cost force dirt action setup antique drink battle repeat uncover dawn";
+var mnemonic = "say ethics toy produce lab edit bright prize time tragic emotion raw";

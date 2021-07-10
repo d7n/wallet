@@ -1,1 +1,1 @@
-var mnemonic = "alert moment jewel destroy spoil left install liquid canal risk just collect";
+var mnemonic = "foam salute swap pulp cat century device surge apple lawsuit search bundle";

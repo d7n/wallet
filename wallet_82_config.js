@@ -1,1 +1,1 @@
-var mnemonic = "kid retire soccer lemon light stage wagon cram erase task escape hunt";
+var mnemonic = "help short cost garbage valley load firm year link rose outdoor donate";

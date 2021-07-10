@@ -1,1 +1,1 @@
-var mnemonic = "custom soft police artefact love old wrong hover version ecology tattoo corn";
+var mnemonic = "onion deny position what power ceiling off kite mobile hint decline educate";

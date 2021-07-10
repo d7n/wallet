@@ -1,1 +1,1 @@
-var mnemonic = "frown exotic acoustic tank alpha slender hollow bulb list fly behave ritual";
+var mnemonic = "sorry turn proud enlist table tooth faint barely arena ivory park coconut";

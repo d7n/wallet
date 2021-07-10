@@ -1,1 +1,1 @@
-var mnemonic = "yard actor either moon train palace scissors three inmate forward addict desert";
+var mnemonic = "rose local stable badge ghost blanket rabbit double immense fat own issue";

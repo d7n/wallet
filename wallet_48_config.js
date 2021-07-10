@@ -1,1 +1,1 @@
-var mnemonic = "debate oyster faint front barely spread famous toy corn shell phone lyrics";
+var mnemonic = "sponsor myself saddle welcome fence focus fan rigid volume device citizen wall";

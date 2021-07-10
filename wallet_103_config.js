@@ -1,1 +1,1 @@
-var mnemonic = "umbrella glass jewel rescue ridge popular you evolve imitate disease thank current";
+var mnemonic = "husband loop calm plastic sketch near valid mix frost kite chat scare";

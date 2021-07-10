@@ -1,1 +1,1 @@
-var mnemonic = "language carpet switch warm test bar gauge cash hurry game steak average";
+var mnemonic = "unaware surround toast vault harsh wrist share install remain spray bicycle harbor";

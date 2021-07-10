@@ -1,1 +1,1 @@
-var mnemonic = "refuse average budget girl spin gate cruel crumble divorce idle tourist patrol";
+var mnemonic = "border elevator infant sponsor argue kangaroo cabbage submit dawn art moment trip";

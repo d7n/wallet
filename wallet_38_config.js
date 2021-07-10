@@ -1,1 +1,1 @@
-var mnemonic = "birth equal silver island pudding hood drive smart scare sister chat there";
+var mnemonic = "matter sniff surge crouch forget company swim pull sad misery wet trip";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel library glue confirm naive round bulk shadow lens combine neglect now";
+var mnemonic = "urban begin become flight afraid outside purity twist cake bless trick luggage";

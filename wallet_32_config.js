@@ -1,1 +1,1 @@
-var mnemonic = "charge weird equip crouch soccer come strategy swarm safe drink chat clip";
+var mnemonic = "ranch forward segment list sausage romance meat funny oval false genius gather";

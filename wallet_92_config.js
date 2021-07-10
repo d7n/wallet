@@ -1,1 +1,1 @@
-var mnemonic = "lunar mystery fame object clinic pudding certain reform tip fiction teach mountain";
+var mnemonic = "note rib wall game faith advance rocket carpet suspect trophy tongue hundred";

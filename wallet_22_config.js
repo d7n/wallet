@@ -1,1 +1,1 @@
-var mnemonic = "exact taste stamp night length mother any cool drastic foster dove useful";
+var mnemonic = "puzzle steak genius grid elite feature fold veteran anger acoustic naive arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "camp ritual soon orchard clip valid unknown essay much damage lawn bird";
+var mnemonic = "snack actual merry series family carry property park lunch portion holiday pride";

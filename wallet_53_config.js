@@ -1,1 +1,1 @@
-var mnemonic = "gather alone engage spray dismiss ship cancel absorb bonus cereal radar giggle";
+var mnemonic = "exist capital fuel length shell junior minor fade attitude tomato gather tooth";

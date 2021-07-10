@@ -1,1 +1,1 @@
-var mnemonic = "permit angle shine oven candy pretty monkey dwarf laptop review sing elite";
+var mnemonic = "today appear chair seed air senior start ethics produce vintage service horse";

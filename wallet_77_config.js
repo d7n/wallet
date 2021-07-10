@@ -1,1 +1,1 @@
-var mnemonic = "object reopen layer hood wheel relax open diet air where arrest text";
+var mnemonic = "hazard soldier remove lizard loud clip help double blue cargo bubble adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "april lady monster champion side fiber crash base canyon purse topple often";
+var mnemonic = "sketch screen anger vibrant hour domain enable pipe remove remain pet inform";

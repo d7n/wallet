@@ -1,1 +1,1 @@
-var mnemonic = "erase glue start recycle cement shock board master sister fly note salute";
+var mnemonic = "mad zone page under unfair lend custom course monitor wool scare service";

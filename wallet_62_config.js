@@ -1,1 +1,1 @@
-var mnemonic = "glare crawl wrap oak joke trick history vapor demand embark more scale";
+var mnemonic = "border creek clock junk artwork side wish orient maple whisper type swing";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse battle giant enlist address pyramid project before smoke chalk jeans tourist";
+var mnemonic = "arch moment search maze skirt session apology quote sword miracle dizzy stem";

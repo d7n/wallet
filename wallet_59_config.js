@@ -1,1 +1,1 @@
-var mnemonic = "cotton valve bid magic exotic rigid chuckle hunt vault push vessel awkward";
+var mnemonic = "demise weather motor claw battle home point antique chaos hunt famous dry";

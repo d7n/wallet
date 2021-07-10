@@ -1,1 +1,1 @@
-var mnemonic = "dish juice gaze fog cabin echo express assume drop flavor police deny";
+var mnemonic = "night budget relief welcome calm repeat summer child solve bulb banner dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "below double hour orbit exercise pudding exact verify faint pelican twist raise";
+var mnemonic = "invite flight interest dry usage include tissue choice pet camera record tray";

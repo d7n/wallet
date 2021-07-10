@@ -1,1 +1,1 @@
-var mnemonic = "zebra shaft prize knee boring undo bulk response cliff exhibit tourist text";
+var mnemonic = "demise math night model predict solution muffin feature talent jealous bone hawk";

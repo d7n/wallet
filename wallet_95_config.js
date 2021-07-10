@@ -1,1 +1,1 @@
-var mnemonic = "misery like suffer ranch neck middle divide denial cram upset tray describe";
+var mnemonic = "pig road fold post twenty impact grain shield energy bitter suffer embody";

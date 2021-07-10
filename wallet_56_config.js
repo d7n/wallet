@@ -1,1 +1,1 @@
-var mnemonic = "muscle child siege goose seek describe hobby awake lemon behind rib width";
+var mnemonic = "sun solve goose ill armor develop absent kingdom oval race view gallery";

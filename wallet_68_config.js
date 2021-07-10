@@ -1,1 +1,1 @@
-var mnemonic = "cushion satoshi tomato item shield gown actual state field team shoot web";
+var mnemonic = "split tobacco skill guard volume coral loan knock mass neck ignore satisfy";

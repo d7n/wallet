@@ -1,1 +1,1 @@
-var mnemonic = "person slush indoor enforce train cage dash aisle defense large ignore response";
+var mnemonic = "tiger ball outer birth bring cram also pupil novel wolf since mail";

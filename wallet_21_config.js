@@ -1,1 +1,1 @@
-var mnemonic = "cherry trouble cigar spawn smart involve document heavy level door earth coil";
+var mnemonic = "drift slim force this journey size cruise wear broccoli never impulse puppy";

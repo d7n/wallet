@@ -1,1 +1,1 @@
-var mnemonic = "kit tuna save just master long key monkey welcome under unknown column";
+var mnemonic = "spring lady favorite antenna cinnamon swallow elder awake urge crouch stairs cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "bless fatigue affair pause gesture settle puzzle party earn coyote solve rabbit";
+var mnemonic = "beef whisper today mesh box place reunion citizen giggle online eagle host";

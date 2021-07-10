@@ -1,1 +1,1 @@
-var mnemonic = "mandate reduce clerk heavy unique rural vivid float reflect journey wise roof";
+var mnemonic = "nice hammer ski marriage switch erase sketch favorite shed video boost tiger";

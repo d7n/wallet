@@ -1,1 +1,1 @@
-var mnemonic = "mammal enemy bean exist middle swap sheriff inmate want world man smooth";
+var mnemonic = "rent clay art screen only input short injury wine flight door they";

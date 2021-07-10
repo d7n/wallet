@@ -1,1 +1,1 @@
-var mnemonic = "clever roof quit symbol absurd uncle neglect wreck quantum pond regular friend";
+var mnemonic = "host shell lift success bracket more smile nurse ramp movie talk hero";

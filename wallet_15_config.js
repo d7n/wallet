@@ -1,1 +1,1 @@
-var mnemonic = "physical matter hedgehog buffalo leaf diary equal wild blouse sentence office tilt";
+var mnemonic = "crash deny green basket airport twin seminar thought lumber around silly drama";

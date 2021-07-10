@@ -1,1 +1,1 @@
-var mnemonic = "deny owner fork cart price rail table survey furnace neutral rate abandon";
+var mnemonic = "advice wage thunder spot hint chuckle involve coyote resource wage pencil breeze";

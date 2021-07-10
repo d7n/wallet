@@ -1,1 +1,1 @@
-var mnemonic = "must silk artefact face photo isolate combine right view train omit color";
+var mnemonic = "identify collect hundred cart public thought system box luxury mango liar upset";

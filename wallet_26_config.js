@@ -1,1 +1,1 @@
-var mnemonic = "old rude impose dinosaur empower reopen forest estate spread visit weasel input";
+var mnemonic = "pledge process mean enough art certain usual casino hundred mistake quantum choose";

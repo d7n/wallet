@@ -1,1 +1,1 @@
-var mnemonic = "aware armed open elder truck culture potato voyage pony famous cabin seminar";
+var mnemonic = "term useful know awkward notice hurt chuckle junior deal box firm journey";

@@ -1,1 +1,1 @@
-var mnemonic = "spice wild light bundle fix scale entire second chunk super demise access";
+var mnemonic = "caution someone route spoon unique spring bike lens wrestle device pride thought";

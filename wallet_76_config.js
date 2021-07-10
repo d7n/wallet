@@ -1,1 +1,1 @@
-var mnemonic = "sure bitter cycle crazy wealth uncover army bracket peanut ginger aisle crunch";
+var mnemonic = "skill derive blood dinner hockey feature inherit control cereal field program post";

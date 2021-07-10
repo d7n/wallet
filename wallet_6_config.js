@@ -1,1 +1,1 @@
-var mnemonic = "into buddy ginger office timber common whisper marriage venue sell business note";
+var mnemonic = "economy crunch angle shoulder chaos warfare dutch romance step empty stay cry";

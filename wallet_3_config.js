@@ -1,1 +1,1 @@
-var mnemonic = "wash error bike joke strategy danger liquid horn odor image arm rich";
+var mnemonic = "tennis shift diary police dinner matrix pave demise venue sock brand repeat";

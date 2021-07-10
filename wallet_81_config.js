@@ -1,1 +1,1 @@
-var mnemonic = "grid mutual valve evoke fury just fine ripple grunt equal appear awake";
+var mnemonic = "select brick risk sound miracle zero velvet rack jacket relax slogan sight";

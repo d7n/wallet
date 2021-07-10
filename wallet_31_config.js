@@ -1,1 +1,1 @@
-var mnemonic = "stage vast icon case response engine suffer spatial impose truck saddle mixed";
+var mnemonic = "news cave thrive lottery card ginger thought voyage knock critic venue wheat";

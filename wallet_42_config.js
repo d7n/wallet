@@ -1,1 +1,1 @@
-var mnemonic = "very unaware blind door popular find best green taxi stay devote gaze";
+var mnemonic = "depth brisk dust upset fan hope throw midnight wool page upper name";

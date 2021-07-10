@@ -1,1 +1,1 @@
-var mnemonic = "round fetch sorry daring peace ripple grocery baby drift food rail area";
+var mnemonic = "ball eight industry coin kiwi either mail moral dream appear cube truly";

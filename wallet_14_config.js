@@ -1,1 +1,1 @@
-var mnemonic = "foam prepare idle adapt cute image raw conduct atom sheriff slab hobby";
+var mnemonic = "cloth country chicken garment case tell law garage crush two silk drop";

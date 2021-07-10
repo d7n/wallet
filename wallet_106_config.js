@@ -1,1 +1,1 @@
-var mnemonic = "laugh scale merge raise genuine try upset section matrix sweet empty disease";
+var mnemonic = "differ welcome bridge illness fence seek replace acoustic horror maid priority quick";

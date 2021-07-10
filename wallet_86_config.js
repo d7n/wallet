@@ -1,1 +1,1 @@
-var mnemonic = "february helmet fruit primary hill sauce rate color system forward casual brief";
+var mnemonic = "flee ostrich cart picture error rural maple gesture pet refuse correct divert";

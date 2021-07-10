@@ -1,1 +1,1 @@
-var mnemonic = "exist reflect pepper edge quality force fun entry model promote sister token";
+var mnemonic = "connect blanket explain elevator sorry animal diet often false hybrid liar hello";

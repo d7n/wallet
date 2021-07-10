@@ -1,1 +1,1 @@
-var mnemonic = "magic balance omit vivid mushroom accident hotel infant miss elephant object oppose";
+var mnemonic = "police muffin diamond carry toy egg they basket special gaze neither dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "animal organ flash tattoo rule drink genre lock warfare direct soda exhaust";
+var mnemonic = "honey disease warfare toward flash milk car sting ignore apart polar elevator";

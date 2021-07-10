@@ -1,1 +1,1 @@
-var mnemonic = "truly order unveil above link post credit antenna record trim camera wedding";
+var mnemonic = "security phrase always easy liberty point doctor convince wrong invite april learn";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy tackle cloth place seat heart kitchen unaware little wrong jungle fish";
+var mnemonic = "table unique vintage grit force loyal window dash naive giggle claim pelican";

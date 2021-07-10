@@ -1,1 +1,1 @@
-var mnemonic = "ball elegant blame arrive identify mercy same rain perfect oppose angry table";
+var mnemonic = "vast december word obscure multiply giant nerve cotton tornado sell noble yard";

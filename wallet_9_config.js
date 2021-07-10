@@ -1,1 +1,1 @@
-var mnemonic = "pet good between few cube feel season enforce exotic year wrestle local";
+var mnemonic = "main chapter wine century common stay pistol coil black height hidden mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard nose voyage snow banana equal lawn car offer velvet office east";
+var mnemonic = "fiction federal month rescue glory floor ordinary ticket lift young cause oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard tell book wrestle summer address black tomorrow tuna industry topic crater";
+var mnemonic = "loud junk night silver assume sail among input pudding enlist fever bullet";

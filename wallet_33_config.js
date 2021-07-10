@@ -1,1 +1,1 @@
-var mnemonic = "prefer early critic mansion matter sad join jealous scatter guitar figure trap";
+var mnemonic = "ordinary stem prize harbor small fluid have light candy argue skill knee";

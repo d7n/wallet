@@ -1,1 +1,1 @@
-var mnemonic = "input bike civil sad destroy cupboard kit entry check trust false crouch";
+var mnemonic = "recycle butter desert adult float quote damp treat roof stamp above sniff";

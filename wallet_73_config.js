@@ -1,1 +1,1 @@
-var mnemonic = "cousin palm hub symbol tooth error analyst original cute hip thing despair";
+var mnemonic = "forest second later blade latin skate over tenant glare movie rent live";

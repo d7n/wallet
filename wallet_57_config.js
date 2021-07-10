@@ -1,1 +1,1 @@
-var mnemonic = "truly list galaxy cinnamon shield main cool bone public inherit swift jump";
+var mnemonic = "behind copper safe autumn wedding paddle color sniff route labor number mobile";

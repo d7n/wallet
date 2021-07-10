@@ -1,1 +1,1 @@
-var mnemonic = "jewel sort sadness legal neglect pink tattoo talent sell doctor grass judge";
+var mnemonic = "cry waste cancel palm oxygen token vendor resist kick woman owner glass";

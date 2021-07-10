@@ -1,1 +1,1 @@
-var mnemonic = "rug salon snap abuse evoke biology foster boat replace auction boy civil";
+var mnemonic = "jealous alley receive invest heart gentle treat brush design exchange mesh filter";
