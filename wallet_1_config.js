@@ -1,1 +1,1 @@
-var mnemonic = "inject dog hungry hawk royal next job cave rely initial box pattern";
+var mnemonic = "grief visa true inspire caught fat select vault above lyrics scale barrel";

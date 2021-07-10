@@ -1,1 +1,1 @@
-var mnemonic = "chronic limb east promote behave nose pudding major person earn apple feature";
+var mnemonic = "cross street maid piano venture aim position rescue range enroll hurry seed";

@@ -1,1 +1,1 @@
-var mnemonic = "cup phone merit warm execute can brave ginger grant divide couple know";
+var mnemonic = "view undo endless found despair vanish purchase soon maple almost congress crumble";

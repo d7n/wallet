@@ -1,1 +1,1 @@
-var mnemonic = "swallow rice front rally expand spin brain suggest bike fever supreme shift";
+var mnemonic = "month park world pen wheat glare high sail cliff blade sunset put";

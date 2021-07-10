@@ -1,1 +1,1 @@
-var mnemonic = "traffic elder burden vacuum ankle improve oblige flock scrub tent inform bunker";
+var mnemonic = "gift subway hover release office post frog they debate novel easily coil";

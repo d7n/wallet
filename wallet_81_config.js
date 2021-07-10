@@ -1,1 +1,1 @@
-var mnemonic = "repeat novel satisfy wrong rigid duty vendor govern useless retire code arrive";
+var mnemonic = "thing reduce victory tone gravity thumb thought olympic media fatigue devote public";

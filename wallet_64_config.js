@@ -1,1 +1,1 @@
-var mnemonic = "reopen nose cancel must approve gloom try bacon steak ugly pact announce";
+var mnemonic = "viable shoulder toss simple buffalo giraffe write lounge problem midnight vibrant tree";

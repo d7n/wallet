@@ -1,1 +1,1 @@
-var mnemonic = "amused find tired frame place virus left shrimp thrive pig pact minute";
+var mnemonic = "film basic wife inspire direct glimpse crucial dentist sound very hunt okay";

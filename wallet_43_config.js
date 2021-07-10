@@ -1,1 +1,1 @@
-var mnemonic = "immense cup device poet fury plunge shallow fortune outside cause year admit";
+var mnemonic = "knock nature call result jeans clarify buyer phone endless guilt this garden";

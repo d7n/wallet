@@ -1,1 +1,1 @@
-var mnemonic = "feed antique basic walk oxygen resource blind ring ceiling wide label coyote";
+var mnemonic = "lottery diesel deposit output amused chronic recall record olympic deny palm toss";

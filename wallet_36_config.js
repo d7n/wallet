@@ -1,1 +1,1 @@
-var mnemonic = "danger roof rabbit weekend gesture august reopen bonus often holiday artefact base";
+var mnemonic = "naive rebuild torch play blast coral normal ostrich hedgehog region brown eyebrow";

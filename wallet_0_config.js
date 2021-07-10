@@ -1,1 +1,1 @@
-var mnemonic = "army virtual valve erupt rural frost real rally hint twice rocket rain";
+var mnemonic = "route spike tube drill sting budget funny deposit melody prison riot subject";

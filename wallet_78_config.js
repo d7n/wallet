@@ -1,1 +1,1 @@
-var mnemonic = "duck inch battle tackle arrow salt time settle dizzy raise axis lucky";
+var mnemonic = "major nuclear sheriff fox try beauty recycle forward film inhale fiction reform";

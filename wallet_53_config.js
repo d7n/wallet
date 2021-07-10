@@ -1,1 +1,1 @@
-var mnemonic = "stomach congress payment skate vintage baby nerve leave solve connect abandon egg";
+var mnemonic = "chronic bargain mistake analyst scout juice reveal evoke dove rain jar social";

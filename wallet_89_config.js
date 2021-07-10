@@ -1,1 +1,1 @@
-var mnemonic = "odor spot together surround say reject only essence promote east copy transfer";
+var mnemonic = "crowd hole planet lawsuit dry shock route action bind emerge rabbit blade";

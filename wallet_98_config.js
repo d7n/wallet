@@ -1,1 +1,1 @@
-var mnemonic = "during lend brush ten arrange joy raw rebel language harbor keep response";
+var mnemonic = "minute dress tribe cargo derive twin guilt erosion soldier connect nose view";

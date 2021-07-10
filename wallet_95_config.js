@@ -1,1 +1,1 @@
-var mnemonic = "lounge cost guess wolf network exotic polar avoid retreat victory almost great";
+var mnemonic = "over nurse tuna venue local dawn model room predict perfect parrot warrior";

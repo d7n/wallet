@@ -1,1 +1,1 @@
-var mnemonic = "slight unit you win crunch edit crew record inspire chaos train army";
+var mnemonic = "kangaroo resource reduce wreck once town relief strong pill steak bird cluster";

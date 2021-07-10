@@ -1,1 +1,1 @@
-var mnemonic = "comfort sun rocket unknown popular goose warrior survey eagle number slender jaguar";
+var mnemonic = "one federal grocery sausage live skirt mystery crew wool flip giggle cousin";

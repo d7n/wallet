@@ -1,1 +1,1 @@
-var mnemonic = "faint chronic tell elbow choose code tackle solve frame silver cloth problem";
+var mnemonic = "proof minor crucial friend anger beef live gate oil cart mean tenant";

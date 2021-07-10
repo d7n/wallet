@@ -1,1 +1,1 @@
-var mnemonic = "liquid garage salute midnight kind lemon safe enlist liquid tennis morning draft";
+var mnemonic = "pottery arrow transfer hope bunker dentist pig worth civil nothing degree vibrant";

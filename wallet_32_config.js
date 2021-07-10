@@ -1,1 +1,1 @@
-var mnemonic = "allow swear accuse drift letter renew zone acid duck cart enjoy topic";
+var mnemonic = "summer loan twelve confirm detect faint spot lunch miracle hidden judge oak";

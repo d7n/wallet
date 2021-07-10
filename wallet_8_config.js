@@ -1,1 +1,1 @@
-var mnemonic = "grant slab vehicle misery output ritual puzzle inflict hockey library album van";
+var mnemonic = "swear when lock minor jazz invest mind cattle school frog monster display";

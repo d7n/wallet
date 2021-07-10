@@ -1,1 +1,1 @@
-var mnemonic = "round material sad shoot cargo veteran blossom father gun design summer hole";
+var mnemonic = "sketch symbol left cross virus lens curve pulse service cinnamon glide average";

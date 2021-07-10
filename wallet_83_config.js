@@ -1,1 +1,1 @@
-var mnemonic = "when mushroom empty violin capable sure used fly fit still arrange universe";
+var mnemonic = "clump amount mind meat clip gap truck ancient cry steel wasp ocean";

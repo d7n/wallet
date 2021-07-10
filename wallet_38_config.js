@@ -1,1 +1,1 @@
-var mnemonic = "rule camera banner angle move carpet toward mix brain boss mountain mesh";
+var mnemonic = "chronic moment excite stool royal throw lumber fitness goat crystal age heavy";

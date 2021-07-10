@@ -1,1 +1,1 @@
-var mnemonic = "estate machine toss cabbage squeeze shock amazing urban lunar heart spatial orphan";
+var mnemonic = "dance matter guitar total cargo paper spoon grab trim strong dolphin pistol";

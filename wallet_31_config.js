@@ -1,1 +1,1 @@
-var mnemonic = "merry swamp seminar reopen asset antique bulk evolve bulk ginger position mule";
+var mnemonic = "toy bulb people crumble loyal ship mule patient claw puppy ethics soup";

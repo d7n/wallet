@@ -1,1 +1,1 @@
-var mnemonic = "lobster fiscal artwork gasp true velvet knee time pumpkin trial course major";
+var mnemonic = "middle odor process bomb notable symbol hat spawn law spirit crowd title";

@@ -1,1 +1,1 @@
-var mnemonic = "airport heavy exotic design sketch you regular trade upset culture exist wonder";
+var mnemonic = "segment urban erosion mind source oak gold mosquito upgrade magic brass because";

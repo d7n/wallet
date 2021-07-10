@@ -1,1 +1,1 @@
-var mnemonic = "possible put news uniform cushion oval tired toilet feed armed treat place";
+var mnemonic = "lesson abuse rocket actual village keen ride vital panther host say welcome";

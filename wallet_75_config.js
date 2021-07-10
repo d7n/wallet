@@ -1,1 +1,1 @@
-var mnemonic = "hammer laundry tank bunker rookie rug chef increase cattle twin flush cross";
+var mnemonic = "chalk amateur wink rubber shrimp balance obvious raccoon punch sorry twenty blue";

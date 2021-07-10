@@ -1,1 +1,1 @@
-var mnemonic = "spoon bargain mention parade material over total much february vintage purse margin";
+var mnemonic = "half charge royal people size light unhappy else mobile flower calm frequent";

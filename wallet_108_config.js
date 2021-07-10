@@ -1,1 +1,1 @@
-var mnemonic = "inject inquiry agent jacket cake joke ketchup view vintage negative zone three";
+var mnemonic = "grain square wait horse air slender flash barrel good trash cute custom";

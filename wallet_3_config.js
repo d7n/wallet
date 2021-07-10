@@ -1,1 +1,1 @@
-var mnemonic = "silent oval trip assault asset potato lamp orchard pole broccoli dune rapid";
+var mnemonic = "grocery advance bunker frequent hollow tonight salmon custom cigar awful sword donkey";

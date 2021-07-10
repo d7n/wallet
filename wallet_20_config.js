@@ -1,1 +1,1 @@
-var mnemonic = "chaos nature add web bind retreat alert stereo proud family wasp bench";
+var mnemonic = "dress wire witness salute fabric profit appear fluid inform flip joy caught";

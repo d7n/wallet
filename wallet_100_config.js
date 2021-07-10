@@ -1,1 +1,1 @@
-var mnemonic = "pulp pottery bridge hope melt federal bag brick jealous glory hint expire";
+var mnemonic = "wonder fabric cram satisfy reunion advance rough file capable always achieve ribbon";

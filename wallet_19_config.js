@@ -1,1 +1,1 @@
-var mnemonic = "catalog liberty priority lucky tobacco success cute ankle ginger thrive describe fiber";
+var mnemonic = "valid rude blood helmet planet mouse person chat leopard abstract fury river";

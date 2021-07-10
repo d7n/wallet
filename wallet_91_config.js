@@ -1,1 +1,1 @@
-var mnemonic = "green conduct laptop other canal museum motor silk clump purpose review frame";
+var mnemonic = "legal claw around renew thought engine happy exotic sock virus lunar sword";

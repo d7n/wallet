@@ -1,1 +1,1 @@
-var mnemonic = "super mixture large ability powder fine spoil culture indoor cargo sketch erode";
+var mnemonic = "foam label cricket girl object choose atom dizzy charge game fix metal";

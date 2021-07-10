@@ -1,1 +1,1 @@
-var mnemonic = "hole shy own punch armed deliver imitate slam wreck response vivid season";
+var mnemonic = "direct black trend alien spread tell thunder cluster mercy hospital embark pig";

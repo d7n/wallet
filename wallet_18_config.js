@@ -1,1 +1,1 @@
-var mnemonic = "target family increase health wool income employ benefit quantum flame answer mobile";
+var mnemonic = "blush glare display mimic naive supreme hunt resource explain lottery position fire";

@@ -1,1 +1,1 @@
-var mnemonic = "priority panda place elephant faculty stock onion silk innocent bacon process achieve";
+var mnemonic = "legal business field robust tone nasty clever involve tennis over pizza impact";

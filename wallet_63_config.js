@@ -1,1 +1,1 @@
-var mnemonic = "switch already culture soft happy rabbit game zoo moment drive fabric mimic";
+var mnemonic = "prevent crystal recipe lucky snack erase define follow ostrich fade region this";

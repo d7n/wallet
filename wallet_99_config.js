@@ -1,1 +1,1 @@
-var mnemonic = "ribbon genre upgrade salt harbor method economy maid stone surge dawn banner";
+var mnemonic = "shine stamp diary merit smooth rabbit tragic rail rain unable rely crime";

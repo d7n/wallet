@@ -1,1 +1,1 @@
-var mnemonic = "average illness satisfy mandate debate treat rail chair victory flat doctor spirit";
+var mnemonic = "culture angry access fitness coast raise approve sea float song squirrel sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "october february scheme tunnel mansion arctic arrest wedding awful call bronze seven";
+var mnemonic = "together essence half enjoy oval phone rose theory art spend brick glue";

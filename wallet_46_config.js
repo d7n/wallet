@@ -1,1 +1,1 @@
-var mnemonic = "path panda stage resist ostrich suspect balance artist aisle august asset tennis";
+var mnemonic = "mask crater betray lion animal bullet neck bracket velvet orbit enough hill";

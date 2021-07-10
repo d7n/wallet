@@ -1,1 +1,1 @@
-var mnemonic = "bonus what sport begin board woman gesture fly ahead oval misery have";
+var mnemonic = "focus such detail report below foot daring risk bleak boil tool degree";

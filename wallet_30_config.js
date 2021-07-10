@@ -1,1 +1,1 @@
-var mnemonic = "zoo sort clog predict document bleak charge patrol decorate draw cash future";
+var mnemonic = "second vehicle fit daughter chase describe embark raw subway solid tattoo jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "view report card law warfare inherit timber change clay clump animal blood";
+var mnemonic = "noble echo only fluid wasp please assault poet sound labor stone vacuum";

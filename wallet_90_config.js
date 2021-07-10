@@ -1,1 +1,1 @@
-var mnemonic = "damage turn hill jar scheme decide universe method someone expire solution man";
+var mnemonic = "misery guilt explain panel advice dirt mind layer donkey fork scorpion picture";

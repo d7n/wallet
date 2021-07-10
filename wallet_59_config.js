@@ -1,1 +1,1 @@
-var mnemonic = "replace fence novel camera flavor memory table jealous blind empower finger setup";
+var mnemonic = "couple clever system outdoor flock jar negative task grain banner motor wreck";

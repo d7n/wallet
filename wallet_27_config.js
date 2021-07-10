@@ -1,1 +1,1 @@
-var mnemonic = "choose until fever divide radio any rough face tiny dawn such walk";
+var mnemonic = "action truth mesh alarm gain anger mandate balcony income snow distance mixed";

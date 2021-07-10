@@ -1,1 +1,1 @@
-var mnemonic = "draw noodle crime upset dad plunge silk loud neglect cart measure equal";
+var mnemonic = "ignore corn problem chronic wealth improve puzzle club muscle coconut sick earn";

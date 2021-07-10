@@ -1,1 +1,1 @@
-var mnemonic = "promote casual decline error differ rose protect egg bamboo flip permit settle";
+var mnemonic = "ill sniff goose upgrade orange desk runway chest pluck hover deliver feature";

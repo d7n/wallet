@@ -1,1 +1,1 @@
-var mnemonic = "custom special master payment minute must pond garment cinnamon shock excess nest";
+var mnemonic = "despair arrow rifle february mouse lake chaos region gloom badge mistake sting";

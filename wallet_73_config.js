@@ -1,1 +1,1 @@
-var mnemonic = "anchor frost real october scissors amused tuna success miracle rich bless tree";
+var mnemonic = "shallow accuse deputy live forum response cause decade input mean estate pair";

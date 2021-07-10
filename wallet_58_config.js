@@ -1,1 +1,1 @@
-var mnemonic = "mirror bless coyote used that pool mad fun erode enlist hat indoor";
+var mnemonic = "bitter team merit seek metal orange mirror target body method awesome tortoise";

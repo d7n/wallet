@@ -1,1 +1,1 @@
-var mnemonic = "enjoy hill live collect weasel anchor spoon truth elbow transfer various radar";
+var mnemonic = "post unhappy train uncle custom flower inmate minimum phone stamp edit ripple";

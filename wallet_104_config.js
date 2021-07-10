@@ -1,1 +1,1 @@
-var mnemonic = "skate cushion elite chaos fantasy allow night harvest actual tuna item gather";
+var mnemonic = "floor unable call museum canvas garden soup gentle pencil subway focus scene";

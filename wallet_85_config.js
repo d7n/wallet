@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur nominee melody asthma thumb anchor snake paper small armed kidney repeat";
+var mnemonic = "water sugar wrist rent another measure pact stamp snow grief ribbon winter";

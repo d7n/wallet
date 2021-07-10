@@ -1,1 +1,1 @@
-var mnemonic = "whale step together provide craft pet lobster desert inmate core price orbit";
+var mnemonic = "woman east street scorpion oyster exclude ask hire lion law tone slide";

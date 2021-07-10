@@ -1,1 +1,1 @@
-var mnemonic = "unknown wagon avocado weird body cream cancel canvas same harsh style toddler";
+var mnemonic = "shift embark estate noble sentence spoon acid pony target earn ready abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper subway agree document morning check rib art brave flight library ring";
+var mnemonic = "medal giant scan capital nurse wide table original knife dragon pony embark";

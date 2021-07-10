@@ -1,1 +1,1 @@
-var mnemonic = "wheel cigar strategy file dawn reward gain forest bright special hero must";
+var mnemonic = "plastic domain blouse essay rebel weapon confirm medal alley shuffle any wait";

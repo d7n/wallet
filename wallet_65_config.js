@@ -1,1 +1,1 @@
-var mnemonic = "curious assist sun tomorrow often three problem weekend depth amazing output small";
+var mnemonic = "peace unhappy inhale curve fabric master symptom manual symbol category smile filter";

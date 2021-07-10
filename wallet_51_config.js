@@ -1,1 +1,1 @@
-var mnemonic = "orient soap arrive normal warm beach lecture plastic toy emerge olympic describe";
+var mnemonic = "jaguar potato promote globe wash such display top shoulder tube churn current";

@@ -1,1 +1,1 @@
-var mnemonic = "debris lazy fantasy clap hard range near pause chase bright voice since";
+var mnemonic = "aim asthma glow name verb episode special nature debris wine road capital";

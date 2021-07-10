@@ -1,1 +1,1 @@
-var mnemonic = "law sting wage ignore whisper army wait barrel common key sort cloud";
+var mnemonic = "mother burden into tunnel squeeze news owner mountain bag celery tourist arena";

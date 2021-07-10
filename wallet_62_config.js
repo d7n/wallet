@@ -1,1 +1,1 @@
-var mnemonic = "name over visual gravity employ siren sand frost supply fade dutch coconut";
+var mnemonic = "sand win problem smooth frequent size run gym tribe shuffle famous neither";

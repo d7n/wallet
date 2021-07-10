@@ -1,1 +1,1 @@
-var mnemonic = "wisdom soccer poem quote kiss episode together draw around crush remind cool";
+var mnemonic = "fiscal stumble turtle assist need scene dash always assist below coast stove";

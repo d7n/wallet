@@ -1,1 +1,1 @@
-var mnemonic = "comic gym miss abandon crew habit license begin tool main exercise team";
+var mnemonic = "rally crowd mom elegant entire photo village salad six all tuition behind";

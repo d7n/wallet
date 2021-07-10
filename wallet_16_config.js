@@ -1,1 +1,1 @@
-var mnemonic = "bean risk dish document margin tackle general gospel space phone tooth leisure";
+var mnemonic = "family ride spawn burger exchange rail whip harvest movie fox talent reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "gun high tourist clump scissors salute coffee present because finish eight below";
+var mnemonic = "very domain tent account say real trial gas innocent body rival couch";

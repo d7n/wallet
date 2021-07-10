@@ -1,1 +1,1 @@
-var mnemonic = "win exotic illness sunset kitchen text snack mushroom crime drive already indoor";
+var mnemonic = "sister loyal moral print cruel enlist blue tribe isolate confirm permit physical";

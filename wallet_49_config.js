@@ -1,1 +1,1 @@
-var mnemonic = "repeat derive kitchen list vacuum town giant resist indicate spoil arm kangaroo";
+var mnemonic = "void relax lobster vehicle bird bacon extend ahead tenant brisk light inject";

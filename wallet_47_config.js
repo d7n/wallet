@@ -1,1 +1,1 @@
-var mnemonic = "cycle what slogan coach spice stairs defy okay catalog usual flight lawsuit";
+var mnemonic = "salad energy warfare neither often butter work sword pistol trend name police";

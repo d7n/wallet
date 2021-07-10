@@ -1,1 +1,1 @@
-var mnemonic = "fade leisure again escape cruise off boss drop danger dwarf human cover";
+var mnemonic = "chuckle raw bottom castle skin album soon razor series load wide art";

@@ -1,1 +1,1 @@
-var mnemonic = "treat law attitude that release quote spice menu have friend unfold language";
+var mnemonic = "fence buddy height sponsor end tilt abuse urban prefer imitate jeans diesel";

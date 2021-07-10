@@ -1,1 +1,1 @@
-var mnemonic = "slim simple salt upset curtain choice axis curtain cage keep volcano alter";
+var mnemonic = "fork tell youth pet expose long vibrant lounge business thank inquiry danger";

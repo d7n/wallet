@@ -1,1 +1,1 @@
-var mnemonic = "hero pioneer gate fine roof elder general diet person mass fruit supreme";
+var mnemonic = "review conduct pond render rather rhythm mind ivory survey buffalo laundry design";

@@ -1,1 +1,1 @@
-var mnemonic = "naive search ignore crime turkey shrimp suggest now wagon around surface robust";
+var mnemonic = "mother transfer much member zoo lady above easy arctic swing purse accident";

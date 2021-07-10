@@ -1,1 +1,1 @@
-var mnemonic = "narrow cluster chaos sister sibling switch scale ankle glimpse column toward action";
+var mnemonic = "endless usual project north error stomach orient never uniform street jelly health";

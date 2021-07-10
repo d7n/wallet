@@ -1,1 +1,1 @@
-var mnemonic = "lend chunk hockey lake inmate genre vast shuffle method august label hockey";
+var mnemonic = "pen property secret total correct rapid lab minute coin pride brave common";

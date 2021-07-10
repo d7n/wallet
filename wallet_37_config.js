@@ -1,1 +1,1 @@
-var mnemonic = "laundry also busy poverty stick cool enlist asthma gown quality pass solar";
+var mnemonic = "viable average close explain setup minor lumber subway elegant town brave advice";

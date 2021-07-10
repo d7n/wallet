@@ -1,1 +1,1 @@
-var mnemonic = "dentist hello consider define strategy release heavy primary squirrel firm awesome praise";
+var mnemonic = "season slice tumble example income explain wink matrix decide feature chest finish";

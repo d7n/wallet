@@ -1,1 +1,1 @@
-var mnemonic = "general proud canyon duck bracket assume crush clarify fog original toy body";
+var mnemonic = "snap negative leg craft blush frozen clock olympic position club uncle attend";
