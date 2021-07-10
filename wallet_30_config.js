@@ -1,1 +1,1 @@
-var mnemonic = "absent prosper long place century hold cook best wine hurdle sphere element";
+var mnemonic = "liberty cup nerve wrist match olive top access describe erupt liberty cat";

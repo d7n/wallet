@@ -1,1 +1,1 @@
-var mnemonic = "hold divert alert series hockey erode wear veteran ancient coach point leg";
+var mnemonic = "dish flag stone piece puppy only hamster chief post damage naive hybrid";

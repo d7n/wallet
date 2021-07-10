@@ -1,1 +1,1 @@
-var mnemonic = "omit party mechanic task spread bottom core critic earth twin escape flavor";
+var mnemonic = "pioneer tragic promote amazing hamster useful cruise saddle clog spare over smart";

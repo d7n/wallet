@@ -1,1 +1,1 @@
-var mnemonic = "vendor myself define must hurt tone motion arctic also left lunch sweet";
+var mnemonic = "opera become penalty conduct razor arrest elegant drop glue warm opera ethics";

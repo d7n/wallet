@@ -1,1 +1,1 @@
-var mnemonic = "bind jacket excuse hill faint interest car bargain laptop common stool monkey";
+var mnemonic = "picnic demise spray flight clever stand chaos corn harsh source mango example";

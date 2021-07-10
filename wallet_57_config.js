@@ -1,1 +1,1 @@
-var mnemonic = "wink liquid coconut super marble immense cry ring stable column skin delay";
+var mnemonic = "please tray bench nut lottery stairs organ swear thrive hockey minimum carpet";

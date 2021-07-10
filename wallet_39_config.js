@@ -1,1 +1,1 @@
-var mnemonic = "gap over double planet risk regret spend year robot also bean hair";
+var mnemonic = "put exist castle cat farm gospel lumber collect napkin host disorder wrap";

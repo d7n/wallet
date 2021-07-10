@@ -1,1 +1,1 @@
-var mnemonic = "need draw north ecology drip clip submit cousin swallow weekend vital deer";
+var mnemonic = "chief road transfer aim happy ladder noise cupboard fancy glad current brass";

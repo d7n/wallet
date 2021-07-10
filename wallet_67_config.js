@@ -1,1 +1,1 @@
-var mnemonic = "tired fancy artefact citizen firm joke prevent rhythm gown romance border useful";
+var mnemonic = "junk lava farm exercise license radar general setup gold waste risk fabric";

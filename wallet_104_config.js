@@ -1,1 +1,1 @@
-var mnemonic = "mistake crazy injury merge coconut because usual warfare wage clump margin bubble";
+var mnemonic = "tower kingdom shaft bone kid near agent trouble better short only diagram";

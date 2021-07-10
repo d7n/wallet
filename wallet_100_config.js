@@ -1,1 +1,1 @@
-var mnemonic = "cry cargo opinion begin oil vicious main trip scale crazy try click";
+var mnemonic = "leave panel teach unfair bundle dizzy inform pause exotic certain toss dish";

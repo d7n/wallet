@@ -1,1 +1,1 @@
-var mnemonic = "dad material defense expire when panel rate jaguar work acquire belt razor";
+var mnemonic = "setup fashion strong cram ginger dragon abstract bus hungry actual comic conduct";

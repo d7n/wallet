@@ -1,1 +1,1 @@
-var mnemonic = "thrive zebra ridge swim strong shoe inch wage concert jewel crouch attend";
+var mnemonic = "myth object front soup lonely quick uniform since arrest work rule profit";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer urge hospital wheat forward enough nut daughter escape trip siege hungry";
+var mnemonic = "midnight bargain achieve dignity major despair kitten bundle liberty harvest little ring";

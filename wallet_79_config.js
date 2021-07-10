@@ -1,1 +1,1 @@
-var mnemonic = "peace wheel pulp rare business gesture expire scorpion pet monitor replace fog";
+var mnemonic = "market heavy initial march gym seat cluster cloth rose silent emotion antique";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry dad insane balcony observe monkey modify record cover together snack another";
+var mnemonic = "verb bird junior live maid shove hurt swift about zero tag solution";

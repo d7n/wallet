@@ -1,1 +1,1 @@
-var mnemonic = "card parent panel sleep beach slender stadium twelve fat pistol remember dinosaur";
+var mnemonic = "auction empty daughter circle vacant gift child gate author wish impulse romance";

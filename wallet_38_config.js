@@ -1,1 +1,1 @@
-var mnemonic = "juice near raw auction alpha gym deputy giraffe opinion wasp tip oval";
+var mnemonic = "soap finger loyal mango volume nephew memory open canoe cause afraid camera";

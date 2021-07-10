@@ -1,1 +1,1 @@
-var mnemonic = "always cart royal cactus index universe phone agent useful clap clutch scissors";
+var mnemonic = "lady basic tank foam hedgehog foil duty analyst shy case mass jar";

@@ -1,1 +1,1 @@
-var mnemonic = "boss place forum cactus lake drive ski amateur party scatter large measure";
+var mnemonic = "cute casual oblige purse involve inspire bonus farm harsh weapon term satoshi";

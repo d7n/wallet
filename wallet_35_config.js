@@ -1,1 +1,1 @@
-var mnemonic = "food goddess marble flame casual daring man purity call ritual order frog";
+var mnemonic = "unique business exist fan enact toddler dizzy write divorce worry one smooth";

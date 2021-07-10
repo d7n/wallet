@@ -1,1 +1,1 @@
-var mnemonic = "flame attract inquiry present toy cigar rocket trap two cost large play";
+var mnemonic = "trip fury jar volume forget domain body noodle charge siege rural latin";

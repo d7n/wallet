@@ -1,1 +1,1 @@
-var mnemonic = "unknown child hint betray hamster pear soup odor treat sea sand exile";
+var mnemonic = "metal genius surprise snack toss poverty home ball mandate festival drama resist";

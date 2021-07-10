@@ -1,1 +1,1 @@
-var mnemonic = "tornado hand jacket side destroy brave garment pair eternal dog transfer velvet";
+var mnemonic = "turtle rate embody slight gas bullet beef oppose cause tourist enrich charge";

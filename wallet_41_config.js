@@ -1,1 +1,1 @@
-var mnemonic = "tooth little vibrant across issue area angle toast animal ancient drum bus";
+var mnemonic = "abstract rough admit twelve smoke job source joke swim thunder fancy skin";

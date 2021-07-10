@@ -1,1 +1,1 @@
-var mnemonic = "jeans family amount panic nut mom ugly zone ghost comic alter faculty";
+var mnemonic = "tomato uncover pattern combine tumble harvest chalk lava pig clap noodle pool";

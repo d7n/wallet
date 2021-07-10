@@ -1,1 +1,1 @@
-var mnemonic = "radar phone solution stadium dry grid attitude vital city shop flat fly";
+var mnemonic = "topic about fish brave angle member victory upgrade fashion repair boss chief";

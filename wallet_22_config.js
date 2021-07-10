@@ -1,1 +1,1 @@
-var mnemonic = "chase exchange grape change churn cricket among assist wrestle quality before bitter";
+var mnemonic = "diagram dune risk cruel blossom lyrics simple away barely flock genius melody";

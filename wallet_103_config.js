@@ -1,1 +1,1 @@
-var mnemonic = "spawn know decide blush sheriff oyster farm vintage concert sport earn sniff";
+var mnemonic = "exhibit ready embrace aim desk during member divert wage police stand tower";

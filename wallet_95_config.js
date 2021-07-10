@@ -1,1 +1,1 @@
-var mnemonic = "forest sniff balcony patrol immense blossom vendor anchor spare purse cliff critic";
+var mnemonic = "age survey tragic eagle shrimp reduce describe recall arrest upper swap hedgehog";

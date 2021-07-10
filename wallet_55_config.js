@@ -1,1 +1,1 @@
-var mnemonic = "middle present come year grunt dolphin mouse core blue beyond chalk label";
+var mnemonic = "away omit upset fruit level confirm gap mask disagree cement mystery diary";

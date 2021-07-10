@@ -1,1 +1,1 @@
-var mnemonic = "avocado wire quarter open weather flower fluid milk genuine hawk bicycle bamboo";
+var mnemonic = "absurd safe damp fruit where syrup mind rather satoshi express envelope sphere";

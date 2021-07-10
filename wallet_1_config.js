@@ -1,1 +1,1 @@
-var mnemonic = "annual snake kitchen bench drink slush observe wreck sand among tennis opinion";
+var mnemonic = "unique time sponsor local letter model shuffle expand need indoor whip tilt";

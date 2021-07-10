@@ -1,1 +1,1 @@
-var mnemonic = "mind review praise cattle library uncover jewel false broom web amazing engine";
+var mnemonic = "wave level life brown swing friend either purchase empower render pumpkin hedgehog";

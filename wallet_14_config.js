@@ -1,1 +1,1 @@
-var mnemonic = "cheap agree suit help solve sing liquid route night surround appear gentle";
+var mnemonic = "floor accident undo chuckle capable bring album among rose woman doctor solution";

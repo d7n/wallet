@@ -1,1 +1,1 @@
-var mnemonic = "news artwork visa panda badge fresh music sketch blossom toward loan error";
+var mnemonic = "wolf smooth warfare flavor degree caught thought flight shove repair tilt eager";

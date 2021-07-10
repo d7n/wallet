@@ -1,1 +1,1 @@
-var mnemonic = "fat before agree taxi nuclear fitness shallow thunder jeans bachelor sword shy";
+var mnemonic = "juice lonely skate people arm renew tool start noodle egg place liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace eye wire isolate pistol spread zero reveal corn cradle box there";
+var mnemonic = "grant antenna find place like duty olive latin object old volume castle";

@@ -1,1 +1,1 @@
-var mnemonic = "fix cupboard vintage snack faint term pull script large bench cost blossom";
+var mnemonic = "panther monster kick clerk knee fuel forum copper slogan topple ethics target";

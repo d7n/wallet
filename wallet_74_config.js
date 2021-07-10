@@ -1,1 +1,1 @@
-var mnemonic = "limit nice section able chat lawsuit click street number off brief alcohol";
+var mnemonic = "strong scare cotton firm gather collect kid bus trade will elegant million";

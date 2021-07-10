@@ -1,1 +1,1 @@
-var mnemonic = "define gold shove onion outdoor car lobster room party eager switch iron";
+var mnemonic = "learn verify paper canoe flip wish sense plug high huge trust lawn";

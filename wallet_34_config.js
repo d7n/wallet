@@ -1,1 +1,1 @@
-var mnemonic = "arrest pizza junk spoil soccer kangaroo twelve final mixture private talent success";
+var mnemonic = "admit load forget north dwarf design depend walnut isolate logic proof monkey";

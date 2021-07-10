@@ -1,1 +1,1 @@
-var mnemonic = "sad test page inner power mutual athlete hamster script cement duck cash";
+var mnemonic = "drama cause picture domain float same shock light pave eyebrow potato famous";

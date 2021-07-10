@@ -1,1 +1,1 @@
-var mnemonic = "violin spin jar torch gloom require bleak stairs faculty soldier arrow wear";
+var mnemonic = "tongue flush dial catalog moral receive put cactus choose fluid prosper entry";

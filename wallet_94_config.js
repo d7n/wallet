@@ -1,1 +1,1 @@
-var mnemonic = "alarm month gentle birth option faint enemy embark sibling rural ahead size";
+var mnemonic = "know output stick theme rigid install horror rack total cliff tomato wear";

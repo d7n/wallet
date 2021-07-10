@@ -1,1 +1,1 @@
-var mnemonic = "february uphold vote upon cool spatial accident faith project special black outside";
+var mnemonic = "evolve fever setup badge absent mango leave weird devote inherit safe roof";

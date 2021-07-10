@@ -1,1 +1,1 @@
-var mnemonic = "clerk grocery doll script clump trade decline sword skill object tragic gaze";
+var mnemonic = "address attend ginger solution interest protect tonight wet stairs soda jealous cool";

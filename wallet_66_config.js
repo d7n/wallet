@@ -1,1 +1,1 @@
-var mnemonic = "spin artist achieve brief cook visa indicate cement shove ensure beauty hole";
+var mnemonic = "rocket now enrich sell document capable emerge spot peanut riot invite impose";

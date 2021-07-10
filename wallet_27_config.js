@@ -1,1 +1,1 @@
-var mnemonic = "airport foot broken viable core spirit fitness cage purchase sentence price useful";
+var mnemonic = "spot hybrid enhance pelican video gallery enact reason cancel elite step essay";

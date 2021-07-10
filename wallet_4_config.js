@@ -1,1 +1,1 @@
-var mnemonic = "finger weekend card december spend brisk slide pass educate flash sea couch";
+var mnemonic = "hello girl mixture ghost false atom tired power magnet any need rice";

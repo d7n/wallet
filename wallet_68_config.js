@@ -1,1 +1,1 @@
-var mnemonic = "exile trip alien green cake science device over prefer cheap industry state";
+var mnemonic = "width museum work verb agent stairs remain eager toast shoot all awkward";

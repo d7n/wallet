@@ -1,1 +1,1 @@
-var mnemonic = "wool term aunt decade dynamic sniff aunt canyon inmate assist blue unlock";
+var mnemonic = "scatter crucial zero indoor volcano doctor mom unknown turn cream west illness";

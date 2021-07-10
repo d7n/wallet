@@ -1,1 +1,1 @@
-var mnemonic = "lock chief design okay cute sport laundry pill raw radio yellow boost";
+var mnemonic = "baby claw forest peasant below impulse dawn labor champion setup wild delay";

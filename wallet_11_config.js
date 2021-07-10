@@ -1,1 +1,1 @@
-var mnemonic = "pledge trap second chaos buddy cannon umbrella ready banana between impact turtle";
+var mnemonic = "great deposit rose stable appear local unlock game boat city coach atom";

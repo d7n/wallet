@@ -1,1 +1,1 @@
-var mnemonic = "power onion immense cheap brave thought robust wire erase match symbol upper";
+var mnemonic = "candy north pretty ritual camera rely stable purchase bus leader avocado parade";

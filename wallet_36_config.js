@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tilt vivid number song ghost when turtle clinic amount prison sport";
+var mnemonic = "page attract limb canoe concert seven fog adapt visa uncle direct hood";

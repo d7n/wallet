@@ -1,1 +1,1 @@
-var mnemonic = "normal sun picture vague hen soap age flee defense kiss move leg";
+var mnemonic = "program wood rural next provide supply shoe found general pudding huge income";

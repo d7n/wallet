@@ -1,1 +1,1 @@
-var mnemonic = "pottery gentle quality rely hurdle luxury bright old fiscal truth resemble bench";
+var mnemonic = "shuffle bitter brick pluck identify retreat replace attitude monster health aisle goat";

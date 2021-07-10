@@ -1,1 +1,1 @@
-var mnemonic = "mixed guitar parent inhale cover actual stereo blouse swallow eight sauce version";
+var mnemonic = "rent rookie priority damp near safe believe celery spice toddler sniff captain";

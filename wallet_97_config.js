@@ -1,1 +1,1 @@
-var mnemonic = "nasty loyal feature liquid puzzle heavy modify evidence face october keen merge";
+var mnemonic = "exclude void piece tiger timber super once sing sphere vanish explain client";

@@ -1,1 +1,1 @@
-var mnemonic = "again give emotion ill woman flee blood burst great wreck inquiry course";
+var mnemonic = "bleak job great document exile type confirm old debris crane myself dream";

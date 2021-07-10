@@ -1,1 +1,1 @@
-var mnemonic = "unaware issue guess section confirm rival guide camera window fame ten resist";
+var mnemonic = "over damp laugh side sock acoustic flavor unfold silly require argue relax";

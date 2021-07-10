@@ -1,1 +1,1 @@
-var mnemonic = "remain arctic era flush camera nominee day fun tenant elbow lucky stock";
+var mnemonic = "grief damage hidden such vacuum donkey barely camera wheat axis soccer absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery say coin weasel taste fever hero reunion climb dentist armed camp";
+var mnemonic = "latin adjust hurt shuffle auction velvet spirit remain physical yard bless resist";

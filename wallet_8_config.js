@@ -1,1 +1,1 @@
-var mnemonic = "cook pony annual act where marine liberty prize basket shift merry excess";
+var mnemonic = "elephant jump debate nerve false tattoo onion imitate deposit nominee lift enforce";

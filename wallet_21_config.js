@@ -1,1 +1,1 @@
-var mnemonic = "produce govern crime visual head host thing seminar faculty art crop vanish";
+var mnemonic = "tornado old delay clerk muffin pigeon parade chat feed fiber strategy napkin";

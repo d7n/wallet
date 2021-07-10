@@ -1,1 +1,1 @@
-var mnemonic = "shove diet category seven agent dash possible dial balcony crater slush essay";
+var mnemonic = "venue defy globe future vehicle boil punch dilemma whale strategy vibrant visit";

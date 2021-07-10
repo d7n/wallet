@@ -1,1 +1,1 @@
-var mnemonic = "salon cloud tomato robust join rigid luxury supply attract live fever success";
+var mnemonic = "believe beyond nurse bid cause sail menu spike pattern february require tiny";

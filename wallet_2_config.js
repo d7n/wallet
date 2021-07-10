@@ -1,1 +1,1 @@
-var mnemonic = "input prefer tortoise salute soul nation grunt hill gaze camp train floor";
+var mnemonic = "choice total have border bus sing truly canyon slim crazy maximum pluck";

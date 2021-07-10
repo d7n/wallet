@@ -1,1 +1,1 @@
-var mnemonic = "depart will once motion receive plastic today acoustic famous peasant flavor faint";
+var mnemonic = "giraffe donkey hen century injury dance holiday current harvest guide few stick";

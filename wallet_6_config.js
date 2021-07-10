@@ -1,1 +1,1 @@
-var mnemonic = "margin supply allow oxygen hockey point dice leave identify easily midnight reform";
+var mnemonic = "course fence deer luxury talk black vendor sting ocean bracket famous oak";

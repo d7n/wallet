@@ -1,1 +1,1 @@
-var mnemonic = "hello journey mosquito arm genuine country magic bar clarify must you lobster";
+var mnemonic = "place asset capable arrow prepare sustain old tomorrow gauge asset fade manual";

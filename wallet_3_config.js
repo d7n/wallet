@@ -1,1 +1,1 @@
-var mnemonic = "struggle upon math broken between never album essence case voice answer nephew";
+var mnemonic = "series chest correct minor symptom later reveal account help exercise couple nut";

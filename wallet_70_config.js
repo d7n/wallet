@@ -1,1 +1,1 @@
-var mnemonic = "veteran enter clever hotel pave mad tomato lion quality lamp city board";
+var mnemonic = "mesh space response nature number amazing possible benefit obey wide chronic bring";

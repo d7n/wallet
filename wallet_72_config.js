@@ -1,1 +1,1 @@
-var mnemonic = "boat boat price glare old demise actress vacant home recipe stand concert";
+var mnemonic = "volume various vivid they reopen spice buyer pair feel disorder bring remain";

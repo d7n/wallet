@@ -1,1 +1,1 @@
-var mnemonic = "hard song arrive ramp soon amused cage gas power either tonight shield";
+var mnemonic = "health plastic female paddle indoor crystal wolf food armed deposit olympic mechanic";

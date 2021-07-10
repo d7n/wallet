@@ -1,1 +1,1 @@
-var mnemonic = "cotton tag exact awful junk economy odor success physical nation vague pigeon";
+var mnemonic = "method frequent around example machine unfold across fee easily will reduce field";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling kangaroo tape already hover gentle neither enable remove hurt female better";
+var mnemonic = "physical banana round grit cost umbrella choose gesture lucky river music march";

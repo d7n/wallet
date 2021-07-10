@@ -1,1 +1,1 @@
-var mnemonic = "inform identify glow security connect cupboard sibling monitor chimney piano practice salute";
+var mnemonic = "roast car frequent ticket nature neglect tattoo army blue sand worry fence";

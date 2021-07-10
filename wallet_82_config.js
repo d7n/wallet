@@ -1,1 +1,1 @@
-var mnemonic = "soccer veteran barrel detect gown together clock wagon wave matrix nest pelican";
+var mnemonic = "midnight heart exclude remove purity noodle that pigeon junior slam giraffe describe";

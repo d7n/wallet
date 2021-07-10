@@ -1,1 +1,1 @@
-var mnemonic = "draft lift spend canvas toddler yard angle guess idle slogan palace kind";
+var mnemonic = "film suit proud inquiry ancient decide merit hen bid oblige frown boy";

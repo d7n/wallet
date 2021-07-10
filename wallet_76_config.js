@@ -1,1 +1,1 @@
-var mnemonic = "spread kid hood hawk tourist clever carpet unusual enact jeans green garage";
+var mnemonic = "admit chapter crisp raven daring exact aim glove page moon own jump";

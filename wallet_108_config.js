@@ -1,1 +1,1 @@
-var mnemonic = "divide fault orbit sheriff clean among snap puzzle shrug awesome lady sail";
+var mnemonic = "benefit cotton paper flush arrest other cannon pulse render online jeans measure";

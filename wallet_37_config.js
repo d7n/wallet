@@ -1,1 +1,1 @@
-var mnemonic = "oil moon feed lend omit donkey tip aerobic source judge genuine crouch";
+var mnemonic = "lava metal raccoon educate demand fuel practice marine settle vault rare impact";

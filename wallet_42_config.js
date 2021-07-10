@@ -1,1 +1,1 @@
-var mnemonic = "vicious tunnel clap thrive scene loan finger edit busy enhance emotion silent";
+var mnemonic = "embark acquire uphold antique okay strike remove tray time tenant royal avoid";

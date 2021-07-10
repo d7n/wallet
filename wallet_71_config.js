@@ -1,1 +1,1 @@
-var mnemonic = "delay number latin ankle clinic pilot turn simple ability deliver cause finish";
+var mnemonic = "crumble motor image nurse merit height trouble eyebrow ship benefit motor seed";

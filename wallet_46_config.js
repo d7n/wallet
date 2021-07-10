@@ -1,1 +1,1 @@
-var mnemonic = "category end perfect maple short list sphere hidden cross enforce left theme";
+var mnemonic = "curtain rabbit piece dumb account blood egg punch dash calm hunt lend";

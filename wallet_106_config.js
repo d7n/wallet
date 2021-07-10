@@ -1,1 +1,1 @@
-var mnemonic = "transfer glad burst eager verb large rice claim cupboard trim rally ozone";
+var mnemonic = "release tissue wild impose drama dish stamp snake service bounce unfair laundry";

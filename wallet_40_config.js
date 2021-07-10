@@ -1,1 +1,1 @@
-var mnemonic = "crucial lava junk sheriff squirrel love hire torch social nest category addict";
+var mnemonic = "mind stomach antique clump exercise unable first post cancel gossip exclude board";

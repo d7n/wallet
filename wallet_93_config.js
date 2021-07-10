@@ -1,1 +1,1 @@
-var mnemonic = "tonight planet flip response exercise train just sight arrow snap stumble across";
+var mnemonic = "job popular soup afraid solve kidney move rhythm range birth uniform crowd";

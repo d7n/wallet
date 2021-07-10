@@ -1,1 +1,1 @@
-var mnemonic = "pizza history female release salmon only amazing cancel input post foot light";
+var mnemonic = "uncle battle suspect velvet guard arrest blanket math series practice sure creek";

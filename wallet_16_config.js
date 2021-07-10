@@ -1,1 +1,1 @@
-var mnemonic = "zero million disease swamp robot skill winter quote replace price since flame";
+var mnemonic = "wood laugh delay next ramp panther bicycle stamp infant brass keep basket";
