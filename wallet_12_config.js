@@ -1,1 +1,1 @@
-var mnemonic = "hurt cave detect opera ripple evidence ceiling chimney across lesson three digital";
+var mnemonic = "envelope chair food seven when judge shove crazy apple foot reopen submit";

@@ -1,1 +1,1 @@
-var mnemonic = "notice midnight scheme raise success field guess garment shiver dry tumble appear";
+var mnemonic = "silly music engage post eternal wise legal transfer you involve inhale fault";

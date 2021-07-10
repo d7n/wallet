@@ -1,1 +1,1 @@
-var mnemonic = "female such vacant patrol whale squirrel depart enlist pull shoe noodle kick";
+var mnemonic = "sand abandon warfare milk blind below obvious churn clock album tray foot";

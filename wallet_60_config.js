@@ -1,1 +1,1 @@
-var mnemonic = "final wreck pen ethics proud arrow chuckle industry juice student danger walnut";
+var mnemonic = "common clap pony spend blush tiger crane else copy infant isolate april";

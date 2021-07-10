@@ -1,1 +1,1 @@
-var mnemonic = "travel animal say account custom illness turkey boss fat fame card define";
+var mnemonic = "vehicle pudding record scene mystery clock economy dream peanut grief clean addict";

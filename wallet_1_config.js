@@ -1,1 +1,1 @@
-var mnemonic = "art combine neither admit quiz possible catalog indoor local veteran balance depend";
+var mnemonic = "stay cart road tent vacuum source treat marriage tail kidney trust pottery";

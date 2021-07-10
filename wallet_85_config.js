@@ -1,1 +1,1 @@
-var mnemonic = "deer across rose melt lazy crisp desert depart glide brief shine access";
+var mnemonic = "still length urban banner public dose any usual stereo shaft bulb ten";

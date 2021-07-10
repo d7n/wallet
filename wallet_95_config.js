@@ -1,1 +1,1 @@
-var mnemonic = "dolphin village parent human turn border sugar head face depth pottery second";
+var mnemonic = "awesome uncle dash dust enhance duty offer chronic among snake test urge";

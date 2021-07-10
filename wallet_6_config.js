@@ -1,1 +1,1 @@
-var mnemonic = "dog wreck smile hurdle youth discover moon insect consider soon innocent situate";
+var mnemonic = "kid loan uncle urban rabbit open century holiday claw zoo trouble fun";

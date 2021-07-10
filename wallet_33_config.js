@@ -1,1 +1,1 @@
-var mnemonic = "check develop smooth bachelor paddle bar reveal panda cupboard region border benefit";
+var mnemonic = "offer beach concert inform bargain excess receive anger lava innocent pill load";

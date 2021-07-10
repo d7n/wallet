@@ -1,1 +1,1 @@
-var mnemonic = "erode fluid mix cluster peanut bunker credit kiwi shield real rapid three";
+var mnemonic = "bunker surface pluck abandon script super embrace priority reopen door paddle primary";

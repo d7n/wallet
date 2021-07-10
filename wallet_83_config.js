@@ -1,1 +1,1 @@
-var mnemonic = "repeat ticket drink father visit sudden merge spice clever butter erase defense";
+var mnemonic = "glove exchange busy proof music rocket attract home tell cart alter cancel";

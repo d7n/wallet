@@ -1,1 +1,1 @@
-var mnemonic = "nice ice quick place cross excess girl same enroll gloom weapon shuffle";
+var mnemonic = "because captain bundle broccoli term will tree midnight comic cherry foot happy";

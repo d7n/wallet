@@ -1,1 +1,1 @@
-var mnemonic = "myself rally ketchup mix defense cradle lend demand burger draft opinion cereal";
+var mnemonic = "only basic bottom above lecture axis raven real soccer enforce three hammer";

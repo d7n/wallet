@@ -1,1 +1,1 @@
-var mnemonic = "axis enlist eight frost small insane awake shoe depend rabbit play fantasy";
+var mnemonic = "wreck kangaroo pole bread funny toy film lizard obvious flip height someone";

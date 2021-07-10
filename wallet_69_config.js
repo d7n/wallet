@@ -1,1 +1,1 @@
-var mnemonic = "attitude try crater top similar loud mesh trick now company snow inmate";
+var mnemonic = "cloud impulse drop plunge island inhale fragile depth announce rib motor blast";

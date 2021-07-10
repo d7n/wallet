@@ -1,1 +1,1 @@
-var mnemonic = "unknown jewel brain bundle artwork omit best heart team remember used cook";
+var mnemonic = "idea cake pond myth lizard claim hold plastic trumpet bracket eager dignity";

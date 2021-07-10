@@ -1,1 +1,1 @@
-var mnemonic = "prison friend hair save position legal invest near radio deer sign garlic";
+var mnemonic = "start walnut eager ice narrow north mammal canyon elegant plastic confirm zoo";

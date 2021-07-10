@@ -1,1 +1,1 @@
-var mnemonic = "audit depth physical cushion vacuum frog funny arm fish state destroy dial";
+var mnemonic = "finish universe december crazy liar assault october input crew protect couch attack";

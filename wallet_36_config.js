@@ -1,1 +1,1 @@
-var mnemonic = "must swift power flag dynamic feature vote guitar common gather income hurt";
+var mnemonic = "board pair hill relax subway either great light always stage appear boring";

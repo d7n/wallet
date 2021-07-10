@@ -1,1 +1,1 @@
-var mnemonic = "sand pride hill must better simple denial frown shallow knife orbit tortoise";
+var mnemonic = "merge fetch seed orchard distance valve another athlete upgrade stick typical tone";

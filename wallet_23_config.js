@@ -1,1 +1,1 @@
-var mnemonic = "give humor seven seminar flash life hope village album better seven foster";
+var mnemonic = "rare visual dinner raise estate like limb cover save grass sing banana";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage upset case pill bench stamp olive empty reunion wave cushion ten";
+var mnemonic = "today code analyst guard clinic unable bundle broken viable tip limb hello";

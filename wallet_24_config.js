@@ -1,1 +1,1 @@
-var mnemonic = "size truly lonely romance carpet dutch pause second gloom cargo sister crush";
+var mnemonic = "dinner music top minute cactus seminar school subway grant season eye dolphin";

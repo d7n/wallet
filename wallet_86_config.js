@@ -1,1 +1,1 @@
-var mnemonic = "six hungry unit daughter deny arrow shove win caution finger reunion issue";
+var mnemonic = "dash hammer opinion primary taxi torch price panic laundry just ice fluid";

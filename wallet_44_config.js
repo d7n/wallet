@@ -1,1 +1,1 @@
-var mnemonic = "purse dismiss crawl warrior pond matrix seed orphan cable rent image grant";
+var mnemonic = "current combine patch tornado kangaroo innocent sure achieve uniform blush quarter mushroom";

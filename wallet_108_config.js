@@ -1,1 +1,1 @@
-var mnemonic = "valley fragile fee reunion once rebel despair claw reason night slot autumn";
+var mnemonic = "keep hurry ankle choice vital pulp flee notable plug happy birth laugh";

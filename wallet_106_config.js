@@ -1,1 +1,1 @@
-var mnemonic = "stamp service blast video drop gentle battle accuse code pride save destroy";
+var mnemonic = "upgrade ridge resemble spice goat oil sample industry lock device road odor";

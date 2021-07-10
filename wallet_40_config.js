@@ -1,1 +1,1 @@
-var mnemonic = "foil can aware move salmon brain raccoon cube dirt hunt tribe category";
+var mnemonic = "degree grid seminar over dress own auction happy year banana execute return";

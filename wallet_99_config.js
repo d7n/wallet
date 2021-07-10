@@ -1,1 +1,1 @@
-var mnemonic = "drop desert finish space fence clown prosper enrich tide know panda manage";
+var mnemonic = "number uphold subway canyon before work rigid neutral risk skull promote gate";

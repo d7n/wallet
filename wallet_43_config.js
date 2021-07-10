@@ -1,1 +1,1 @@
-var mnemonic = "clutch escape garden voyage picnic law few surround alpha onion remember brother";
+var mnemonic = "other rebel recycle gauge segment scissors ivory life awake wear lobster gym";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness clip artwork neglect brave cabbage away summer this gravity park potato";
+var mnemonic = "whip salmon this tonight obvious common famous lounge finish dwarf what action";

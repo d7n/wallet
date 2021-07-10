@@ -1,1 +1,1 @@
-var mnemonic = "hood reveal code fringe fun banana mango unaware chief various auction school";
+var mnemonic = "ladder ticket like sausage fee spin lumber title palm update excite stone";

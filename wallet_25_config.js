@@ -1,1 +1,1 @@
-var mnemonic = "basic client square mass quarter thought swap walk country attract above toss";
+var mnemonic = "thing minimum mushroom usage ensure learn dish toe genius rebuild urge upset";

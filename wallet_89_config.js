@@ -1,1 +1,1 @@
-var mnemonic = "depth surface bind helmet lazy cannon live frown crouch front train silk";
+var mnemonic = "hope sadness also goat dolphin embrace hood key gospel example portion casino";

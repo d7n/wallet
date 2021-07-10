@@ -1,1 +1,1 @@
-var mnemonic = "glass always oven into catch federal measure ritual shrimp paper endless ancient";
+var mnemonic = "quit perfect vital release diary nerve dial tonight apple opinion bachelor injury";

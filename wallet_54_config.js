@@ -1,1 +1,1 @@
-var mnemonic = "crunch desert farm bleak deer grass ill utility enact bus length talk";
+var mnemonic = "client perfect yellow glance simple mixture noble search ostrich rookie gallery make";

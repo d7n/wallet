@@ -1,1 +1,1 @@
-var mnemonic = "true duck twenty pig firm zoo law arm narrow fix rely desk";
+var mnemonic = "join select extra diamond clerk insect remain chase cube main coyote arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic basket under two electric lady tenant wish hawk debris enact evil";
+var mnemonic = "good speak dumb fatal envelope ensure force volcano lens message office bird";

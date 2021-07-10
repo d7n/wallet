@@ -1,1 +1,1 @@
-var mnemonic = "neglect swamp wisdom juice illegal toast leave depend rocket castle draft fancy";
+var mnemonic = "fade penalty strike keep enjoy bid gold win oak release choose host";

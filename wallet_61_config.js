@@ -1,1 +1,1 @@
-var mnemonic = "talent move quiz inhale infant poverty side amazing disease cup grow crazy";
+var mnemonic = "transfer brown essence deliver nuclear jaguar cross topic what vanish dove nut";

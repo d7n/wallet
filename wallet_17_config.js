@@ -1,1 +1,1 @@
-var mnemonic = "speak actor slam scrub mesh valve split caught want smart emotion artist";
+var mnemonic = "raise cereal shock hammer laptop job word start gravity render torch auction";

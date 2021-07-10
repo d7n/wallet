@@ -1,1 +1,1 @@
-var mnemonic = "rule must second tragic glow recipe sense fetch afford clip choice matter";
+var mnemonic = "wage couch meat guess exchange inform sleep inspire barely peasant away symbol";

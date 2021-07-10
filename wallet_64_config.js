@@ -1,1 +1,1 @@
-var mnemonic = "sustain distance orphan skate awful banana fault answer solid eight bullet post";
+var mnemonic = "escape inch person hawk meadow process melody lazy magnet argue error keen";

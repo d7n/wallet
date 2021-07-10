@@ -1,1 +1,1 @@
-var mnemonic = "festival link wide later orange robot walk confirm juice hotel palace busy";
+var mnemonic = "farm layer danger sunny damp cost excuse accident bullet toddler knock kit";

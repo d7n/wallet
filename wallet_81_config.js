@@ -1,1 +1,1 @@
-var mnemonic = "tuition blush such nice bracket destroy bounce radar ripple junk puzzle reform";
+var mnemonic = "happy swarm cabin frost similar thumb member taxi submit blast captain mad";

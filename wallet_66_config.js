@@ -1,1 +1,1 @@
-var mnemonic = "trigger sample collect mountain sniff object cancel deal dutch develop near local";
+var mnemonic = "crucial wish error festival industry pizza rail silver soap occur panel pulp";

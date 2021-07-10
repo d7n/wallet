@@ -1,1 +1,1 @@
-var mnemonic = "guide genuine pulse virus rule mechanic staff cushion shed fiber yard carry";
+var mnemonic = "voyage key key stand govern raise border fashion mom cream tide rail";

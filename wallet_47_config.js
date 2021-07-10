@@ -1,1 +1,1 @@
-var mnemonic = "profit pluck dry sun public repair fire gossip rapid much turn remember";
+var mnemonic = "debris world option emerge school design aspect lawn rabbit morning crew empty";

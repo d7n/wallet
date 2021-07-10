@@ -1,1 +1,1 @@
-var mnemonic = "easily panic same napkin crucial still island chimney sibling surge steel rotate";
+var mnemonic = "total document perfect high equal truck autumn clutch fox top top board";

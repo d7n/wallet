@@ -1,1 +1,1 @@
-var mnemonic = "kitchen exhibit nurse local offer tail brother odor wash census tennis code";
+var mnemonic = "used carry saddle live void water skirt relief fall frog prosper angle";

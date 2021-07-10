@@ -1,1 +1,1 @@
-var mnemonic = "scale student cloth trust release oven inside fun knife tissue curve edit";
+var mnemonic = "vintage estate frog aisle able rebuild enrich issue share switch off work";

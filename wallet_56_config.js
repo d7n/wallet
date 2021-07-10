@@ -1,1 +1,1 @@
-var mnemonic = "hover portion sibling aim keen reject diet aim dirt only replace ticket";
+var mnemonic = "never gossip anger key suffer speed battle ability century reveal yellow motion";

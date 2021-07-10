@@ -1,1 +1,1 @@
-var mnemonic = "add bless normal lift vessel cook grace deal ethics grief divorce topple";
+var mnemonic = "replace toddler casual method weapon deer suggest unfold polar table vendor guard";

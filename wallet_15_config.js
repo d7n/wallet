@@ -1,1 +1,1 @@
-var mnemonic = "gather client spirit green evidence gospel hard beach since best rookie pretty";
+var mnemonic = "faculty journey media trash invite parent wheat group robust steak mutual north";

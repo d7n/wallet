@@ -1,1 +1,1 @@
-var mnemonic = "sun milk begin horn uniform warrior trend peanut tragic dilemma notice hungry";
+var mnemonic = "twist power mammal around novel write erosion umbrella dawn noise vendor stone";

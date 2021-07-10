@@ -1,1 +1,1 @@
-var mnemonic = "under adjust unknown curtain swift bamboo easily miracle cruise chest pigeon drip";
+var mnemonic = "exotic zone casual limit plate brass hand unit valid frown once genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "meat evolve expand battle when protect humble obvious spell logic review target";
+var mnemonic = "guard they mechanic romance resist surface result tunnel equip soup stuff earn";

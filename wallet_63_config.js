@@ -1,1 +1,1 @@
-var mnemonic = "margin oil bomb daring disagree rice define opinion solution vintage chalk spawn";
+var mnemonic = "deer crunch message review comfort mirror embrace tragic zoo afraid salad century";

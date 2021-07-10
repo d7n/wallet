@@ -1,1 +1,1 @@
-var mnemonic = "prosper deer describe certain toss cloud topic frown exclude leisure sock vivid";
+var mnemonic = "little wreck enemy travel decade repeat course best cupboard trip grass author";

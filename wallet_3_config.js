@@ -1,1 +1,1 @@
-var mnemonic = "ketchup canvas cabbage mom brisk mutual stomach vast catalog feature fit suffer";
+var mnemonic = "home job harsh shallow used hole click stage beauty depend language seat";

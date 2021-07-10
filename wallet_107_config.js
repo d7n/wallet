@@ -1,1 +1,1 @@
-var mnemonic = "mutual solve seed bird forget brief bunker wear grow exhaust endorse future";
+var mnemonic = "canyon apart step open inspire decline say motor leisure disagree quote position";

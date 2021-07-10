@@ -1,1 +1,1 @@
-var mnemonic = "olympic radio scissors burger ship attitude wild crime bomb dream gate health";
+var mnemonic = "cruel prepare media zebra measure carry craft dutch wear position garlic zoo";

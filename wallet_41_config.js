@@ -1,1 +1,1 @@
-var mnemonic = "real grab clay toast manage snack social drum corn wreck way token";
+var mnemonic = "assault switch mansion goose essay brass crucial oblige throw replace often frost";

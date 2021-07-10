@@ -1,1 +1,1 @@
-var mnemonic = "lecture bone stick flag cruise stay erase engage prize cat limit blame";
+var mnemonic = "live bacon army aim lady motor damage more clump much ankle curve";

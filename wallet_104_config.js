@@ -1,1 +1,1 @@
-var mnemonic = "flat boring stove say leopard list world dawn air wish spice focus";
+var mnemonic = "upgrade train weird decade victory much verify grief acoustic want fortune best";

@@ -1,1 +1,1 @@
-var mnemonic = "marine rent dawn august rice culture enough marble release glance decrease vapor";
+var mnemonic = "purse defy reveal six orbit grunt crunch thunder violin cinnamon axis boring";

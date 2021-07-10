@@ -1,1 +1,1 @@
-var mnemonic = "option dumb enough joy say impose matrix crisp season glue silly tonight";
+var mnemonic = "sweet trip fit pepper practice twice border sign police slow organ blue";

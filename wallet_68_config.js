@@ -1,1 +1,1 @@
-var mnemonic = "island tumble cook glue illness first refuse insane attract always asthma feed";
+var mnemonic = "essence only silver rate inflict soon artwork prison nut affair tape stool";

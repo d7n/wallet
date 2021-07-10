@@ -1,1 +1,1 @@
-var mnemonic = "ribbon name citizen urban usual scout blind topic drama settle crash popular";
+var mnemonic = "fiscal pizza invest toast sorry sleep coffee horror abstract blanket item copy";

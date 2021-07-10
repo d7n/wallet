@@ -1,1 +1,1 @@
-var mnemonic = "cradle jelly sorry work battle shadow forest vintage exhibit carpet little thought";
+var mnemonic = "proof draw street all desk segment fragile admit cost radio razor discover";

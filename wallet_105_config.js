@@ -1,1 +1,1 @@
-var mnemonic = "bridge crash electric route series mercy such quiz gasp lucky plunge rocket";
+var mnemonic = "risk clown day region fragile annual remove lunar divide tribe sustain robust";

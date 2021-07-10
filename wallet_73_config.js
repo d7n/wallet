@@ -1,1 +1,1 @@
-var mnemonic = "memory task essence casual rough escape cart damage alert cupboard naive shock";
+var mnemonic = "fiscal tissue ancient claw celery start major stuff combine lunch bulb rude";

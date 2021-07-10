@@ -1,1 +1,1 @@
-var mnemonic = "moon bullet ribbon unfold chef recipe shop basket test quantum vibrant brief";
+var mnemonic = "flock pledge young hat elegant word skill valid music camp harbor possible";

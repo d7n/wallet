@@ -1,1 +1,1 @@
-var mnemonic = "clever rug wagon eight resource other apology axis elevator useful ritual shy";
+var mnemonic = "garment teach infant very dignity access sibling cheese gas current canvas lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey notice split rose coast inmate negative equip ostrich defense view lake";
+var mnemonic = "case echo elder project like sick minimum twist gun theory phrase prefer";

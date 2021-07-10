@@ -1,1 +1,1 @@
-var mnemonic = "wait scene auction negative steak rookie crawl vintage electric barely candy shuffle";
+var mnemonic = "senior trade seminar avocado short tribe same address census park monitor auction";

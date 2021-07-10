@@ -1,1 +1,1 @@
-var mnemonic = "cart proud nation oval welcome awake credit crime obey unknown mule protect";
+var mnemonic = "address minor pear action jeans other upper cradle must source person foil";

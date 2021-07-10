@@ -1,1 +1,1 @@
-var mnemonic = "genuine excess three donkey shaft walk remember velvet rough kangaroo tell hybrid";
+var mnemonic = "frozen whip deposit jungle wire arch recipe ill satoshi weapon invite trophy";

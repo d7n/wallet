@@ -1,1 +1,1 @@
-var mnemonic = "market please clog shed village relax clay clever legend agree oven monster";
+var mnemonic = "magic gas host trumpet stable soccer enact sea few fiber kit cave";

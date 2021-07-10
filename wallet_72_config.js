@@ -1,1 +1,1 @@
-var mnemonic = "old crew issue cross access salon hurry word sausage valid bright arm";
+var mnemonic = "private member glory main wait puzzle smart current turn yard decline reopen";

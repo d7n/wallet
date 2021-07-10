@@ -1,1 +1,1 @@
-var mnemonic = "fuel know thunder bone task trim yard scare old collect call crew";
+var mnemonic = "swing inquiry appear life office open funny math pistol cook plug prison";

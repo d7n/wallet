@@ -1,1 +1,1 @@
-var mnemonic = "frown retire rug budget crime alone advice box coast adult time blade";
+var mnemonic = "innocent drastic fiber labor exhibit broom vital hockey again give follow swamp";

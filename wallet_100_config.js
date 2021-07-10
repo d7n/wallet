@@ -1,1 +1,1 @@
-var mnemonic = "slice vital coil lend music pole hope travel pulp aspect innocent interest";
+var mnemonic = "drive draft monster joy forum garden because divert devote attract engine reduce";

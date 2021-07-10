@@ -1,1 +1,1 @@
-var mnemonic = "pulp race circle fatal rocket remind rebel visa save inhale ethics level";
+var mnemonic = "innocent later private sea casino neither rent window love island joke report";

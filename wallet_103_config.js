@@ -1,1 +1,1 @@
-var mnemonic = "essay fame major perfect relief brass trophy dice input resist season federal";
+var mnemonic = "rabbit system slogan strategy improve love roast rural patient help click duty";

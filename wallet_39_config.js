@@ -1,1 +1,1 @@
-var mnemonic = "panel crawl banner mass item alien twelve private circle walnut maximum doll";
+var mnemonic = "define where cradle layer major motion round skin dash what grass tomorrow";

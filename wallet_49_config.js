@@ -1,1 +1,1 @@
-var mnemonic = "butter syrup hint mimic depth now hard work grid suit vanish canvas";
+var mnemonic = "inform brain reopen destroy that bargain switch seek echo erase boy under";

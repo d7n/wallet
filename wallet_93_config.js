@@ -1,1 +1,1 @@
-var mnemonic = "when help wing arrive tribe coin supreme grid glimpse ethics melody crucial";
+var mnemonic = "merge fatal uphold clay crumble sing diesel dumb problem pluck onion steel";

@@ -1,1 +1,1 @@
-var mnemonic = "salt liar mind feed diagram wine shoot tool afford cute toward bundle";
+var mnemonic = "track live secret close journey good immense clock depth lounge movie notable";

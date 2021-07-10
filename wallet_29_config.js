@@ -1,1 +1,1 @@
-var mnemonic = "alcohol cool fly two series distance desert great spy fade element stay";
+var mnemonic = "high acid pilot solve toy damp install negative remind amateur number print";

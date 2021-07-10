@@ -1,1 +1,1 @@
-var mnemonic = "search panel victory festival bird matrix quiz tribe scissors blind trumpet breeze";
+var mnemonic = "wait supreme final prepare kangaroo eternal little blouse lend amazing million able";
