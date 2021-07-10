@@ -1,1 +1,1 @@
-var mnemonic = "repair canvas ranch ceiling nephew sight dirt tourist roast bridge cake skin";
+var mnemonic = "furnace eye wire isolate pistol spread zero reveal corn cradle box there";

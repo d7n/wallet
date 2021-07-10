@@ -1,1 +1,1 @@
-var mnemonic = "wage evoke insect oak wash auto coffee agree kit tragic talent broom";
+var mnemonic = "cheap agree suit help solve sing liquid route night surround appear gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum that resemble grunt joke omit glove tone taste aerobic lunar flame";
+var mnemonic = "nasty loyal feature liquid puzzle heavy modify evidence face october keen merge";

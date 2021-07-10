@@ -1,1 +1,1 @@
-var mnemonic = "sure priority beach runway certain addict heart remove tattoo reject aunt divorce";
+var mnemonic = "margin supply allow oxygen hockey point dice leave identify easily midnight reform";

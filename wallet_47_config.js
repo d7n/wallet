@@ -1,1 +1,1 @@
-var mnemonic = "double fashion pigeon safe install jacket broom fashion wide provide antique caught";
+var mnemonic = "dad material defense expire when panel rate jaguar work acquire belt razor";

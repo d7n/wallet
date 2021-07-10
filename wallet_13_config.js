@@ -1,1 +1,1 @@
-var mnemonic = "embody evil slot frozen fruit idle engage shield erupt fine cattle faith";
+var mnemonic = "poverty defy rail subway planet human grief mom valve twelve nice popular";

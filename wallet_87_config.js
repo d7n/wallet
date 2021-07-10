@@ -1,1 +1,1 @@
-var mnemonic = "pear actress spoil pigeon give gown unfair idea radio december survey mystery";
+var mnemonic = "always cart royal cactus index universe phone agent useful clap clutch scissors";

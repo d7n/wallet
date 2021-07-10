@@ -1,1 +1,1 @@
-var mnemonic = "bargain boost kid wreck sad priority wink absurd stereo pact young board";
+var mnemonic = "today primary tattoo screen mechanic spell dream private trend sport elbow absurd";

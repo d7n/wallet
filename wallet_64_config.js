@@ -1,1 +1,1 @@
-var mnemonic = "crime segment memory cake increase shop crack often nerve today lock keep";
+var mnemonic = "hello journey mosquito arm genuine country magic bar clarify must you lobster";

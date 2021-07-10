@@ -1,1 +1,1 @@
-var mnemonic = "cage other family possible catch dizzy manual sentence discover interest master learn";
+var mnemonic = "hold divert alert series hockey erode wear veteran ancient coach point leg";

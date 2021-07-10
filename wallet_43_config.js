@@ -1,1 +1,1 @@
-var mnemonic = "swamp slush silver index benefit finger birth sight click physical excess glare";
+var mnemonic = "cotton tag exact awful junk economy odor success physical nation vague pigeon";

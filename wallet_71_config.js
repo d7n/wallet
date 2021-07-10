@@ -1,1 +1,1 @@
-var mnemonic = "carbon hotel toddler hundred six battle adjust fatal notable select blossom time";
+var mnemonic = "delay number latin ankle clinic pilot turn simple ability deliver cause finish";

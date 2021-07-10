@@ -1,1 +1,1 @@
-var mnemonic = "noodle slab flag sheriff ghost city behave panel atom label menu trend";
+var mnemonic = "arrest pizza junk spoil soccer kangaroo twelve final mixture private talent success";

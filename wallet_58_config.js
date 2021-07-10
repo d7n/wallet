@@ -1,1 +1,1 @@
-var mnemonic = "hospital color drill video taste laundry wait pioneer route chaos among grape";
+var mnemonic = "hard song arrive ramp soon amused cage gas power either tonight shield";

@@ -1,1 +1,1 @@
-var mnemonic = "lion frequent wisdom hunt best wage pear embody frozen seed lab until";
+var mnemonic = "finger weekend card december spend brisk slide pass educate flash sea couch";

@@ -1,1 +1,1 @@
-var mnemonic = "round sleep urge upon people nature sunny sun whisper siege lift decade";
+var mnemonic = "fix cupboard vintage snack faint term pull script large bench cost blossom";

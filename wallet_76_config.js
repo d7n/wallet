@@ -1,1 +1,1 @@
-var mnemonic = "prize mutual owner inmate hazard horse level hint response cable future army";
+var mnemonic = "spread kid hood hawk tourist clever carpet unusual enact jeans green garage";

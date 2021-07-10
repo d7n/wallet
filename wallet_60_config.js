@@ -1,1 +1,1 @@
-var mnemonic = "energy private myself knife aunt quiz soap stereo silly kitchen harbor immense";
+var mnemonic = "quit mask long super light track actor galaxy come lady aerobic kit";

@@ -1,1 +1,1 @@
-var mnemonic = "episode tide glow produce various mushroom mystery poverty refuse curtain foot proud";
+var mnemonic = "jeans family amount panic nut mom ugly zone ghost comic alter faculty";

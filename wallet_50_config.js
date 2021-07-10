@@ -1,1 +1,1 @@
-var mnemonic = "biology envelope unhappy glimpse math industry inside midnight sunset noise try rare";
+var mnemonic = "couch ritual cup daring wheat patient upset soul fit example plunge pencil";

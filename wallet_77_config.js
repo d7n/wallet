@@ -1,1 +1,1 @@
-var mnemonic = "garden someone uncover breeze kit school little school rabbit pave enjoy coast";
+var mnemonic = "mystery say coin weasel taste fever hero reunion climb dentist armed camp";

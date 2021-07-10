@@ -1,1 +1,1 @@
-var mnemonic = "tray report ahead hollow fish pretty pizza lamp dust section panic meat";
+var mnemonic = "limit nice section able chat lawsuit click street number off brief alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "wish also hurry tennis typical state dial gym broken derive hood weapon";
+var mnemonic = "car success jar rival rocket train spray tobacco hurry cause vendor coast";

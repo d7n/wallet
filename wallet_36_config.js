@@ -1,1 +1,1 @@
-var mnemonic = "degree aunt multiply despair segment muffin bid gallery monkey reason crunch enact";
+var mnemonic = "lyrics tilt vivid number song ghost when turtle clinic amount prison sport";

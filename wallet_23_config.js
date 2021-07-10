@@ -1,1 +1,1 @@
-var mnemonic = "iron autumn cabin cupboard soul remember avoid brief walnut harvest seed fish";
+var mnemonic = "violin spin jar torch gloom require bleak stairs faculty soldier arrow wear";

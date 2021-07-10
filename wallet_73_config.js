@@ -1,1 +1,1 @@
-var mnemonic = "priority relief script health tiny era code athlete canyon flame witness skull";
+var mnemonic = "motion ship legal slim snow other across wheel stage stock claw midnight";

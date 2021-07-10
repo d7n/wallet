@@ -1,1 +1,1 @@
-var mnemonic = "letter point install zero false scale rail guide milk harsh broccoli cactus";
+var mnemonic = "soccer veteran barrel detect gown together clock wagon wave matrix nest pelican";

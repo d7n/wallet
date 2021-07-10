@@ -1,1 +1,1 @@
-var mnemonic = "annual arrow limb decline major satoshi stereo grow cry scheme discover delay";
+var mnemonic = "input prefer tortoise salute soul nation grunt hill gaze camp train floor";

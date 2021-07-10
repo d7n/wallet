@@ -1,1 +1,1 @@
-var mnemonic = "yellow main crack differ slab spin inject heavy habit case prefer toddler";
+var mnemonic = "wave ecology answer rich dinosaur dutch parent cluster donate critic portion build";

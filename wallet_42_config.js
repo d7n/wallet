@@ -1,1 +1,1 @@
-var mnemonic = "spend sausage slender repeat access remember ensure speed find bracket toward client";
+var mnemonic = "vicious tunnel clap thrive scene loan finger edit busy enhance emotion silent";

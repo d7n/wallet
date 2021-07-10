@@ -1,1 +1,1 @@
-var mnemonic = "setup word hero mule popular youth scatter fold eight innocent slender oppose";
+var mnemonic = "produce govern crime visual head host thing seminar faculty art crop vanish";

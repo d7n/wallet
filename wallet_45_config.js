@@ -1,1 +1,1 @@
-var mnemonic = "demise egg help connect dizzy globe bundle shoe tongue grant estate lunch";
+var mnemonic = "radar phone solution stadium dry grid attitude vital city shop flat fly";

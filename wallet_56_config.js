@@ -1,1 +1,1 @@
-var mnemonic = "citizen clinic problem barrel almost cousin beauty setup transfer lava fade cash";
+var mnemonic = "focus beauty loyal cloud decade tissue race problem olympic cost quantum author";

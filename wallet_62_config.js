@@ -1,1 +1,1 @@
-var mnemonic = "divert trial escape bird boost frown pipe anxiety sugar trick certain night";
+var mnemonic = "shove diet category seven agent dash possible dial balcony crater slush essay";

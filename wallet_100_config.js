@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bless same sick wrestle sustain reveal farm vendor mistake insect such";
+var mnemonic = "cry cargo opinion begin oil vicious main trip scale crazy try click";

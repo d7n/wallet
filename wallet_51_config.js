@@ -1,1 +1,1 @@
-var mnemonic = "slogan order maid clinic tree file drive camp end tragic push fiscal";
+var mnemonic = "need draw north ecology drip clip submit cousin swallow weekend vital deer";

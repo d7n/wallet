@@ -1,1 +1,1 @@
-var mnemonic = "just jelly afraid baby trouble invite visit public weekend grass script post";
+var mnemonic = "unaware issue guess section confirm rival guide camera window fame ten resist";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge muscle knock barely slow virtual buyer relief express head lab front";
+var mnemonic = "normal sun picture vague hen soap age flee defense kiss move leg";

@@ -1,1 +1,1 @@
-var mnemonic = "chief change market bleak jaguar confirm cage sick raw amused embody rescue";
+var mnemonic = "again give emotion ill woman flee blood burst great wreck inquiry course";

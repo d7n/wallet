@@ -1,1 +1,1 @@
-var mnemonic = "toilet forward noodle lawn differ grief desk symptom expire situate quote jewel";
+var mnemonic = "hero three evoke sunset dizzy leg wheel unlock region moral earn milk";

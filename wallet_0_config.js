@@ -1,1 +1,1 @@
-var mnemonic = "mix snack judge culture utility elevator basic depend decorate valid gospel lion";
+var mnemonic = "lock chief design okay cute sport laundry pill raw radio yellow boost";

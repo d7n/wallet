@@ -1,1 +1,1 @@
-var mnemonic = "trick immense buzz universe taxi shoot upgrade silk target zoo sound pitch";
+var mnemonic = "sad test page inner power mutual athlete hamster script cement duck cash";

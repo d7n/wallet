@@ -1,1 +1,1 @@
-var mnemonic = "inch dove risk green issue cake vehicle squeeze audit design kiss trade";
+var mnemonic = "rural split tree category invite lunar oval thing potato expire tenant cheese";

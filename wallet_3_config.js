@@ -1,1 +1,1 @@
-var mnemonic = "scan spell cash benefit stove announce female virus ribbon timber stadium goose";
+var mnemonic = "struggle upon math broken between never album essence case voice answer nephew";

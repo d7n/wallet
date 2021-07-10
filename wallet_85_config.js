@@ -1,1 +1,1 @@
-var mnemonic = "praise until chase hand armor afford story matrix habit leisure refuse wrong";
+var mnemonic = "thrive zebra ridge swim strong shoe inch wage concert jewel crouch attend";

@@ -1,1 +1,1 @@
-var mnemonic = "cram wedding click husband depend toddler close latin quantum sausage quote speak";
+var mnemonic = "tornado hand jacket side destroy brave garment pair eternal dog transfer velvet";

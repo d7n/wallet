@@ -1,1 +1,1 @@
-var mnemonic = "pause day entire gesture gown loan raven jungle cover coyote buffalo again";
+var mnemonic = "concert purse prepare meat piece alley judge media great add twice recycle";

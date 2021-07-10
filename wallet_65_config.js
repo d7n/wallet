@@ -1,1 +1,1 @@
-var mnemonic = "mercy share you century advance fault coconut snake raccoon ramp much soap";
+var mnemonic = "pizza history female release salmon only amazing cancel input post foot light";

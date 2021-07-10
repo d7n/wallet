@@ -1,1 +1,1 @@
-var mnemonic = "erode supply view enforce agent sad loyal bulb exercise gauge oak comic";
+var mnemonic = "category end perfect maple short list sphere hidden cross enforce left theme";

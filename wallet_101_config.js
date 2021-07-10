@@ -1,1 +1,1 @@
-var mnemonic = "ecology autumn over unique mandate entire island ginger three banana virtual knock";
+var mnemonic = "unknown child hint betray hamster pear soup odor treat sea sand exile";

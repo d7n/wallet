@@ -1,1 +1,1 @@
-var mnemonic = "proof aim object swim fantasy local inhale attend review differ senior door";
+var mnemonic = "forest sniff balcony patrol immense blossom vendor anchor spare purse cliff critic";

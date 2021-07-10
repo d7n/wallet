@@ -1,1 +1,1 @@
-var mnemonic = "electric opera addict friend peanut fault peasant unveil monkey street fatigue practice";
+var mnemonic = "zoo fine razor view business clinic village shove tilt snake trouble neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "already congress harbor suspect result ranch neither heart helmet tray salt wide";
+var mnemonic = "veteran enter clever hotel pave mad tomato lion quality lamp city board";

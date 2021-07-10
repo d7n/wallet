@@ -1,1 +1,1 @@
-var mnemonic = "hole stool deputy margin invest upper squirrel tree payment unlock stage suit";
+var mnemonic = "february uphold vote upon cool spatial accident faith project special black outside";

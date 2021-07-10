@@ -1,1 +1,1 @@
-var mnemonic = "pear pass powder grass action sample shy carpet move midnight always dizzy";
+var mnemonic = "all program entry alien you icon outer puppy fall swing arrange year";

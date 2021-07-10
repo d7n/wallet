@@ -1,1 +1,1 @@
-var mnemonic = "depth sunset answer suggest lamp step like depart ranch series label praise";
+var mnemonic = "depart will once motion receive plastic today acoustic famous peasant flavor faint";

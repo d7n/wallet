@@ -1,1 +1,1 @@
-var mnemonic = "token bird strategy festival song first combine denial hero slide address under";
+var mnemonic = "vendor myself define must hurt tone motion arctic also left lunch sweet";

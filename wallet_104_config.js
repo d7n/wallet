@@ -1,1 +1,1 @@
-var mnemonic = "family agree fade drive size sad balcony rent maze liquid sword vessel";
+var mnemonic = "mistake crazy injury merge coconut because usual warfare wage clump margin bubble";

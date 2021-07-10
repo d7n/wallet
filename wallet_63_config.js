@@ -1,1 +1,1 @@
-var mnemonic = "element scrap rely charge void afford flock myth author evidence relax airport";
+var mnemonic = "omit party mechanic task spread bottom core critic earth twin escape flavor";

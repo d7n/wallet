@@ -1,1 +1,1 @@
-var mnemonic = "balance reflect picnic divorce naive smooth life rival bus coffee knock present";
+var mnemonic = "pledge trap second chaos buddy cannon umbrella ready banana between impact turtle";

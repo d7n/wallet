@@ -1,1 +1,1 @@
-var mnemonic = "tree brass odor sick wage crucial mask world story beach vital bulk";
+var mnemonic = "juice near raw auction alpha gym deputy giraffe opinion wasp tip oval";

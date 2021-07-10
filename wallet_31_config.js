@@ -1,1 +1,1 @@
-var mnemonic = "airport calm surround train knee pigeon seat gospel plunge comic suit outer";
+var mnemonic = "inquiry dad insane balcony observe monkey modify record cover together snack another";

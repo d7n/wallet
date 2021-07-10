@@ -1,1 +1,1 @@
-var mnemonic = "also grief recall dinosaur cover rebuild agent system script meat aware pitch";
+var mnemonic = "tired fancy artefact citizen firm joke prevent rhythm gown romance border useful";

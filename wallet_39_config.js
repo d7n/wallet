@@ -1,1 +1,1 @@
-var mnemonic = "oblige cruise myself super clarify fashion happy cricket zero pet favorite cost";
+var mnemonic = "gap over double planet risk regret spend year robot also bean hair";

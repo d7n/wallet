@@ -1,1 +1,1 @@
-var mnemonic = "limb prepare infant connect reopen recycle term reason degree write head slow";
+var mnemonic = "clerk grocery doll script clump trade decline sword skill object tragic gaze";

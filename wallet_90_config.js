@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lend student blood tongue start false ocean toddler main fade blossom";
+var mnemonic = "pottery gentle quality rely hurdle luxury bright old fiscal truth resemble bench";

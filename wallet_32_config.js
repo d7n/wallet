@@ -1,1 +1,1 @@
-var mnemonic = "artefact phone oak exercise day powder medal green mouse diesel worth gas";
+var mnemonic = "power onion immense cheap brave thought robust wire erase match symbol upper";

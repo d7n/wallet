@@ -1,1 +1,1 @@
-var mnemonic = "first common warm chalk clown flush boss jazz talk pole observe keep";
+var mnemonic = "inform identify glow security connect cupboard sibling monitor chimney piano practice salute";

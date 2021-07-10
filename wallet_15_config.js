@@ -1,1 +1,1 @@
-var mnemonic = "quit execute robot toss sock juice ugly dizzy cause term insect grace";
+var mnemonic = "draft lift spend canvas toddler yard angle guess idle slogan palace kind";

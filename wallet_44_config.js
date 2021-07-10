@@ -1,1 +1,1 @@
-var mnemonic = "fly describe casino strike video pledge kiwi segment supply purchase wave sea";
+var mnemonic = "boss place forum cactus lake drive ski amateur party scatter large measure";

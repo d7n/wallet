@@ -1,1 +1,1 @@
-var mnemonic = "token theme original fence erupt caution portion ramp ladder fever flip end";
+var mnemonic = "define gold shove onion outdoor car lobster room party eager switch iron";

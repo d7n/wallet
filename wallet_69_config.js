@@ -1,1 +1,1 @@
-var mnemonic = "excess make state cover infant switch hope degree cricket sugar aware observe";
+var mnemonic = "bind jacket excuse hill faint interest car bargain laptop common stool monkey";

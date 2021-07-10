@@ -1,1 +1,1 @@
-var mnemonic = "multiply deer egg parade cycle lunch cart found strike question ocean message";
+var mnemonic = "spawn know decide blush sheriff oyster farm vintage concert sport earn sniff";

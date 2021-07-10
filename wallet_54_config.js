@@ -1,1 +1,1 @@
-var mnemonic = "nature fit film boil couch diesel before stem vast try earth city";
+var mnemonic = "beyond property picnic world outdoor loan hip father ostrich gun robust avoid";

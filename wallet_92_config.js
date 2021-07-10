@@ -1,1 +1,1 @@
-var mnemonic = "label exile essence champion impact concert sick once view vote need neither";
+var mnemonic = "fat before agree taxi nuclear fitness shallow thunder jeans bachelor sword shy";

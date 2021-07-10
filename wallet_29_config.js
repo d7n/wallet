@@ -1,1 +1,1 @@
-var mnemonic = "orange invest economy trial basket over pen virtual warrior phrase obvious inflict";
+var mnemonic = "mixed guitar parent inhale cover actual stereo blouse swallow eight sauce version";

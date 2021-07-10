@@ -1,1 +1,1 @@
-var mnemonic = "book enlist remove buzz index agent wet book damage push tiny pony";
+var mnemonic = "middle present come year grunt dolphin mouse core blue beyond chalk label";

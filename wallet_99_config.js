@@ -1,1 +1,1 @@
-var mnemonic = "narrow sand start luxury position approve solution arena same view wolf impact";
+var mnemonic = "hammer urge hospital wheat forward enough nut daughter escape trip siege hungry";

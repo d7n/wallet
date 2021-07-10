@@ -1,1 +1,1 @@
-var mnemonic = "funny tissue casino age ribbon march marine slam ill review huge decade";
+var mnemonic = "remain arctic era flush camera nominee day fun tenant elbow lucky stock";

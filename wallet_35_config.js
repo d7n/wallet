@@ -1,1 +1,1 @@
-var mnemonic = "solid man all close punch become depart gain bike ribbon essay keep";
+var mnemonic = "food goddess marble flame casual daring man purity call ritual order frog";

@@ -1,1 +1,1 @@
-var mnemonic = "stool window fragile soldier young funny empower diagram record right gauge digital";
+var mnemonic = "flame attract inquiry present toy cigar rocket trap two cost large play";

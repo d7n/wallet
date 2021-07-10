@@ -1,1 +1,1 @@
-var mnemonic = "relax network way post topple breeze manage used thought surface approve patch";
+var mnemonic = "tooth little vibrant across issue area angle toast animal ancient drum bus";

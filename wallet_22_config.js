@@ -1,1 +1,1 @@
-var mnemonic = "snow execute valley model jaguar vital flat crash before fly giraffe elephant";
+var mnemonic = "chase exchange grape change churn cricket among assist wrestle quality before bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant diamond blush monitor pistol left capital possible divert cabbage path citizen";
+var mnemonic = "peace wheel pulp rare business gesture expire scorpion pet monitor replace fog";

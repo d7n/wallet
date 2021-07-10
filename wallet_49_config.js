@@ -1,1 +1,1 @@
-var mnemonic = "walnut verb battle today roof champion twelve purpose utility question random piano";
+var mnemonic = "card parent panel sleep beach slender stadium twelve fat pistol remember dinosaur";

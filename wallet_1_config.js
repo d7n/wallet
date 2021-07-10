@@ -1,1 +1,1 @@
-var mnemonic = "case spare silent render develop relief reject adjust dry glass hammer direct";
+var mnemonic = "annual snake kitchen bench drink slush observe wreck sand among tennis opinion";
