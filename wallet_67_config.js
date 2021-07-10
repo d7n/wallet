@@ -1,1 +1,1 @@
-var mnemonic = "inherit enable warfare convince frequent nature alter topic blouse sail dignity snap";
+var mnemonic = "gift provide fluid figure blast shine kid above tiny ignore diesel waste";

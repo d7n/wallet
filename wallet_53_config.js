@@ -1,1 +1,1 @@
-var mnemonic = "movie stuff matter club stone beef slogan leader rescue fiber fever better";
+var mnemonic = "stomach congress payment skate vintage baby nerve leave solve connect abandon egg";

@@ -1,1 +1,1 @@
-var mnemonic = "drink shuffle potato kiwi crawl know lunar laundry pear bus crash someone";
+var mnemonic = "choose until fever divide radio any rough face tiny dawn such walk";

@@ -1,1 +1,1 @@
-var mnemonic = "dish appear point know trade caught frequent rule road version wrist over";
+var mnemonic = "anchor frost real october scissors amused tuna success miracle rich bless tree";

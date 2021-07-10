@@ -1,1 +1,1 @@
-var mnemonic = "fancy slim stone volcano detect library shift couch town science settle welcome";
+var mnemonic = "dinosaur nominee melody asthma thumb anchor snake paper small armed kidney repeat";

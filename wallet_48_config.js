@@ -1,1 +1,1 @@
-var mnemonic = "normal fossil network very party tuition scout civil stage crew wife hint";
+var mnemonic = "session myth gun reveal good ball silver brand lazy sadness grunt lyrics";

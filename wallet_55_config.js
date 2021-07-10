@@ -1,1 +1,1 @@
-var mnemonic = "couple primary mix copy lazy similar lumber nice ball thought spider dash";
+var mnemonic = "win exotic illness sunset kitchen text snack mushroom crime drive already indoor";

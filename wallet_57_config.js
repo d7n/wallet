@@ -1,1 +1,1 @@
-var mnemonic = "talk return spoon mirror actor auto member market maple neutral tenant essence";
+var mnemonic = "enjoy hill live collect weasel anchor spoon truth elbow transfer various radar";

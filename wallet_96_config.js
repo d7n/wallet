@@ -1,1 +1,1 @@
-var mnemonic = "human cross cotton hockey destroy tackle ball helmet apple menu join goat";
+var mnemonic = "faint chronic tell elbow choose code tackle solve frame silver cloth problem";

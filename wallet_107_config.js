@@ -1,1 +1,1 @@
-var mnemonic = "grow image unusual swing ocean captain ignore middle seminar kite cannon leg";
+var mnemonic = "feed antique basic walk oxygen resource blind ring ceiling wide label coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "joy biology impact short across life ranch plate federal quarter chimney mutual";
+var mnemonic = "laundry also busy poverty stick cool enlist asthma gown quality pass solar";

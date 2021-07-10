@@ -1,1 +1,1 @@
-var mnemonic = "awful next planet fork ghost below parent submit cash spoon pill stool";
+var mnemonic = "estate machine toss cabbage squeeze shock amazing urban lunar heart spatial orphan";

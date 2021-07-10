@@ -1,1 +1,1 @@
-var mnemonic = "regret vivid cherry style glory indoor remain rebel output lazy reward okay";
+var mnemonic = "traffic elder burden vacuum ankle improve oblige flock scrub tent inform bunker";

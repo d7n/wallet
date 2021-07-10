@@ -1,1 +1,1 @@
-var mnemonic = "plastic physical stadium human venture quit before bounce hamster few habit unique";
+var mnemonic = "draw noodle crime upset dad plunge silk loud neglect cart measure equal";

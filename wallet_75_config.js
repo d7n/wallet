@@ -1,1 +1,1 @@
-var mnemonic = "turtle echo will trade legend candy grant term seek tree flight twelve";
+var mnemonic = "hammer laundry tank bunker rookie rug chef increase cattle twin flush cross";

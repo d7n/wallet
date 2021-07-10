@@ -1,1 +1,1 @@
-var mnemonic = "bring invite food vacant wrist vendor grit choice banner beyond rare erode";
+var mnemonic = "comic gym miss abandon crew habit license begin tool main exercise team";

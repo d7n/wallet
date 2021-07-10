@@ -1,1 +1,1 @@
-var mnemonic = "prosper hedgehog plate help matter slam doctor inform fatal client absorb churn";
+var mnemonic = "army virtual valve erupt rural frost real rally hint twice rocket rain";

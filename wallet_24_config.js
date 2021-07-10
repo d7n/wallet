@@ -1,1 +1,1 @@
-var mnemonic = "diesel elite title ahead crazy universe mercy useful wall orange child essence";
+var mnemonic = "private lounge eight unknown diagram float clarify nasty feed enemy effort device";

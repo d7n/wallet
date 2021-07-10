@@ -1,1 +1,1 @@
-var mnemonic = "shoulder nurse faint salute baby bid swarm winter keep six town skull";
+var mnemonic = "merry swamp seminar reopen asset antique bulk evolve bulk ginger position mule";

@@ -1,1 +1,1 @@
-var mnemonic = "organ service seek love exile phone midnight grid hollow apology quiz true";
+var mnemonic = "skate cushion elite chaos fantasy allow night harvest actual tuna item gather";

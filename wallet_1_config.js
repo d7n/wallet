@@ -1,1 +1,1 @@
-var mnemonic = "august route solution hobby text alarm laptop truck notable method broccoli hollow";
+var mnemonic = "inject dog hungry hawk royal next job cave rely initial box pattern";

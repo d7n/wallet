@@ -1,1 +1,1 @@
-var mnemonic = "guard decade disorder mimic laptop liberty kingdom source fit consider isolate lawsuit";
+var mnemonic = "grant slab vehicle misery output ritual puzzle inflict hockey library album van";

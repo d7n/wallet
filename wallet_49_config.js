@@ -1,1 +1,1 @@
-var mnemonic = "ladder spray mountain inmate buyer define buffalo flip airport laundry salt cement";
+var mnemonic = "repeat derive kitchen list vacuum town giant resist indicate spoil arm kangaroo";

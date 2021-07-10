@@ -1,1 +1,1 @@
-var mnemonic = "item dutch february orient camp voyage clarify ankle summer fluid crucial fall";
+var mnemonic = "danger roof rabbit weekend gesture august reopen bonus often holiday artefact base";

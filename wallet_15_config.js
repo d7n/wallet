@@ -1,1 +1,1 @@
-var mnemonic = "soon slender success phrase deposit nothing normal marine mosquito nothing reunion distance";
+var mnemonic = "trouble merit sun spare honey image erode electric uncle robot maple segment";

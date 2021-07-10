@@ -1,1 +1,1 @@
-var mnemonic = "item salt flush since cherry renew such hen issue maximum visual siege";
+var mnemonic = "comfort sun rocket unknown popular goose warrior survey eagle number slender jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "odor length drift almost happy dutch brand miracle burger expire price weather";
+var mnemonic = "oblige stool clog talent item minute weird jazz scene hub biology arrest";

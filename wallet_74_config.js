@@ -1,1 +1,1 @@
-var mnemonic = "worry jewel address uniform avoid acoustic nice van foster sea bind calm";
+var mnemonic = "program park near relief novel submit reduce easy tell drastic audit color";

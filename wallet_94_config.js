@@ -1,1 +1,1 @@
-var mnemonic = "around lumber clump chronic monster plug nominee donkey resource snack scare suspect";
+var mnemonic = "october february scheme tunnel mansion arctic arrest wedding awful call bronze seven";

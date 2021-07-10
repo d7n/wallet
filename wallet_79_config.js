@@ -1,1 +1,1 @@
-var mnemonic = "able purity chuckle sausage slab design federal pyramid lesson ship today valid";
+var mnemonic = "super mixture large ability powder fine spoil culture indoor cargo sketch erode";

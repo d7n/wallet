@@ -1,1 +1,1 @@
-var mnemonic = "panic wash ranch aunt party crush verb gift poet cheese state memory";
+var mnemonic = "odor spot together surround say reject only essence promote east copy transfer";

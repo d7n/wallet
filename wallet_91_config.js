@@ -1,1 +1,1 @@
-var mnemonic = "mixture member afraid dismiss sing scrub warm grace buddy liquid music oxygen";
+var mnemonic = "green conduct laptop other canal museum motor silk clump purpose review frame";

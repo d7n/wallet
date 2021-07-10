@@ -1,1 +1,1 @@
-var mnemonic = "orphan cotton enlist nose swallow liberty original various notable present ankle kick";
+var mnemonic = "chaos nature add web bind retreat alert stereo proud family wasp bench";

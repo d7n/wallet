@@ -1,1 +1,1 @@
-var mnemonic = "click trash elder artist chimney unfold energy summer squirrel okay outer fever";
+var mnemonic = "treat law attitude that release quote spice menu have friend unfold language";

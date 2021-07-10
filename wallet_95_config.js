@@ -1,1 +1,1 @@
-var mnemonic = "onion believe float illegal ball cram enroll burden limb wasp weapon edge";
+var mnemonic = "lounge cost guess wolf network exotic polar avoid retreat victory almost great";

@@ -1,1 +1,1 @@
-var mnemonic = "essence drink liquid rather insane sponsor walnut honey floor want birth limit";
+var mnemonic = "general proud canyon duck bracket assume crush clarify fog original toy body";

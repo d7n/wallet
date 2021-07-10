@@ -1,1 +1,1 @@
-var mnemonic = "flight hurry skirt believe admit farm math define process milk civil orphan";
+var mnemonic = "spoon bargain mention parade material over total much february vintage purse margin";

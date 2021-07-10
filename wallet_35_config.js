@@ -1,1 +1,1 @@
-var mnemonic = "increase beef canal speak road because broom real hamster fuel owner piano";
+var mnemonic = "cup phone merit warm execute can brave ginger grant divide couple know";

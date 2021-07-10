@@ -1,1 +1,1 @@
-var mnemonic = "panic camera essay name anger boat demand element all mango topic august";
+var mnemonic = "swallow rice front rally expand spin brain suggest bike fever supreme shift";

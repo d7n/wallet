@@ -1,1 +1,1 @@
-var mnemonic = "couple anger canvas elevator core join bind all hockey fat spike three";
+var mnemonic = "round material sad shoot cargo veteran blossom father gun design summer hole";

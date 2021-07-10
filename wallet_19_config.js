@@ -1,1 +1,1 @@
-var mnemonic = "autumn mouse morning simple ceiling tuition inherit eager onion ring team stick";
+var mnemonic = "catalog liberty priority lucky tobacco success cute ankle ginger thrive describe fiber";

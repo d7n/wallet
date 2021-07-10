@@ -1,1 +1,1 @@
-var mnemonic = "focus civil tiny bean supply brown length genre vacant girl practice tackle";
+var mnemonic = "switch already culture soft happy rabbit game zoo moment drive fabric mimic";

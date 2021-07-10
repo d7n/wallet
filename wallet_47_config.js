@@ -1,1 +1,1 @@
-var mnemonic = "shadow dinner bag grace settle space divert oblige vintage filter term fiscal";
+var mnemonic = "cycle what slogan coach spice stairs defy okay catalog usual flight lawsuit";

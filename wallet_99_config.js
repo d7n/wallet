@@ -1,1 +1,1 @@
-var mnemonic = "kick room bird snow pepper motion tornado foil pluck hockey rib surprise";
+var mnemonic = "ribbon genre upgrade salt harbor method economy maid stone surge dawn banner";

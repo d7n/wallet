@@ -1,1 +1,1 @@
-var mnemonic = "pitch bunker drop tunnel unknown advance photo forest clip banner silver basket";
+var mnemonic = "salon thing side alien tackle fame core cry decline between useful physical";

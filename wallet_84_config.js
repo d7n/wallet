@@ -1,1 +1,1 @@
-var mnemonic = "verb lawsuit omit inherit endorse merge find senior hamster boy then oyster";
+var mnemonic = "dentist hello consider define strategy release heavy primary squirrel firm awesome praise";

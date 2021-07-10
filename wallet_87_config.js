@@ -1,1 +1,1 @@
-var mnemonic = "dune puzzle park practice circle error radio spell dog area jaguar bounce";
+var mnemonic = "custom special master payment minute must pond garment cinnamon shock excess nest";

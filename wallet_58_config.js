@@ -1,1 +1,1 @@
-var mnemonic = "oblige cube turkey model render faith craft virus never list puppy settle";
+var mnemonic = "mirror bless coyote used that pool mad fun erode enlist hat indoor";

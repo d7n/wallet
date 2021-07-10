@@ -1,1 +1,1 @@
-var mnemonic = "frequent between orient basic crew buffalo copper nothing fury ankle jaguar rack";
+var mnemonic = "rule camera banner angle move carpet toward mix brain boss mountain mesh";

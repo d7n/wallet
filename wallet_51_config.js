@@ -1,1 +1,1 @@
-var mnemonic = "stable then dinosaur cart rebel owner napkin fruit jump merit melt arm";
+var mnemonic = "orient soap arrive normal warm beach lecture plastic toy emerge olympic describe";

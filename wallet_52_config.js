@@ -1,1 +1,1 @@
-var mnemonic = "divide salt clump soup middle nation eyebrow abandon area rocket math phone";
+var mnemonic = "promote casual decline error differ rose protect egg bamboo flip permit settle";

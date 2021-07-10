@@ -1,1 +1,1 @@
-var mnemonic = "chimney noise breeze wage budget saddle entire price silver avoid desert thumb";
+var mnemonic = "vibrant spare turn huge original turkey put replace ecology guitar custom punch";

@@ -1,1 +1,1 @@
-var mnemonic = "wish glove length pink remove purity wolf people alone proud cream frequent";
+var mnemonic = "pulp pottery bridge hope melt federal bag brick jealous glory hint expire";

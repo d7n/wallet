@@ -1,1 +1,1 @@
-var mnemonic = "chair online benefit civil already peace turn recipe approve speak fabric purity";
+var mnemonic = "slim simple salt upset curtain choice axis curtain cage keep volcano alter";

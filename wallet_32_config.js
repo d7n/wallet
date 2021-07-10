@@ -1,1 +1,1 @@
-var mnemonic = "found differ shine result atom host neglect rude when letter west rack";
+var mnemonic = "allow swear accuse drift letter renew zone acid duck cart enjoy topic";

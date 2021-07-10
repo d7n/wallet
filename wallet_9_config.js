@@ -1,1 +1,1 @@
-var mnemonic = "slot squeeze wait column miss bone asset often rug clerk broken frequent";
+var mnemonic = "lend chunk hockey lake inmate genre vast shuffle method august label hockey";

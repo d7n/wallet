@@ -1,1 +1,1 @@
-var mnemonic = "congress oval weapon hen filter record analyst critic outside enhance youth equal";
+var mnemonic = "spray differ silent husband toward romance absorb little style differ hobby smile";

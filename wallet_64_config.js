@@ -1,1 +1,1 @@
-var mnemonic = "ride fly write crucial enrich link february way mercy route settle proof";
+var mnemonic = "reopen nose cancel must approve gloom try bacon steak ugly pact announce";

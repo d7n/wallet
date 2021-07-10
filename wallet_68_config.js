@@ -1,1 +1,1 @@
-var mnemonic = "work scrap movie faculty hour pelican divide discover common useful stick pool";
+var mnemonic = "utility solar push require hand pond salt dose tooth noble foster relief";

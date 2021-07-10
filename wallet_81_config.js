@@ -1,1 +1,1 @@
-var mnemonic = "lake initial oven enlist print alcohol better young benefit solar person rather";
+var mnemonic = "repeat novel satisfy wrong rigid duty vendor govern useless retire code arrive";

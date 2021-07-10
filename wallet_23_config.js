@@ -1,1 +1,1 @@
-var mnemonic = "violin vast crew jar across soap health frog fee happy tell increase";
+var mnemonic = "liquid garage salute midnight kind lemon safe enlist liquid tennis morning draft";

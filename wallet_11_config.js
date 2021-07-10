@@ -1,1 +1,1 @@
-var mnemonic = "cable member february penalty input pulse process carbon fever neutral satisfy clarify";
+var mnemonic = "silent elder capable report copper young blame lemon other mind slow catch";

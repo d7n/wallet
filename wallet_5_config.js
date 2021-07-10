@@ -1,1 +1,1 @@
-var mnemonic = "release health lecture myself area economy outdoor detail pumpkin very situate fault";
+var mnemonic = "whale step together provide craft pet lobster desert inmate core price orbit";

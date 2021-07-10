@@ -1,1 +1,1 @@
-var mnemonic = "proof endless puppy rabbit feed trick tourist heavy three top dutch hidden";
+var mnemonic = "lion situate replace stove middle bread race until athlete argue journey side";

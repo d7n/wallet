@@ -1,1 +1,1 @@
-var mnemonic = "evoke poem festival pill scene disease ocean stage weather behind forward soldier";
+var mnemonic = "fade leisure again escape cruise off boss drop danger dwarf human cover";

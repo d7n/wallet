@@ -1,1 +1,1 @@
-var mnemonic = "trash omit review frequent rather foster mutual salt ramp unlock purpose silent";
+var mnemonic = "priority panda place elephant faculty stock onion silk innocent bacon process achieve";

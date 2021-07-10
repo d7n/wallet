@@ -1,1 +1,1 @@
-var mnemonic = "sniff omit brother woman soda daring hello long ginger gold room left";
+var mnemonic = "silent oval trip assault asset potato lamp orchard pole broccoli dune rapid";

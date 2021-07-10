@@ -1,1 +1,1 @@
-var mnemonic = "patch lemon bind zebra skate speak valid myth hood bread divide hood";
+var mnemonic = "bean risk dish document margin tackle general gospel space phone tooth leisure";

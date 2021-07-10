@@ -1,1 +1,1 @@
-var mnemonic = "athlete weird spike eye elder please water diagram barrel trap hazard process";
+var mnemonic = "gun high tourist clump scissors salute coffee present because finish eight below";

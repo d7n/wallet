@@ -1,1 +1,1 @@
-var mnemonic = "artefact route solve alcohol refuse cry flavor stove double resist identify fruit";
+var mnemonic = "ankle weekend tone tumble regular hill enough perfect text treat half physical";

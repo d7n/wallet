@@ -1,1 +1,1 @@
-var mnemonic = "heart move embrace alarm visual airport drip slot globe cancel panda soap";
+var mnemonic = "wisdom soccer poem quote kiss episode together draw around crush remind cool";

@@ -1,1 +1,1 @@
-var mnemonic = "remove fix gloom social fine seed news measure memory border swap able";
+var mnemonic = "when mushroom empty violin capable sure used fly fit still arrange universe";

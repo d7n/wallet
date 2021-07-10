@@ -1,1 +1,1 @@
-var mnemonic = "people right fence chief dizzy client coach potato mutual check table prefer";
+var mnemonic = "pen fence garage reward amused seed shield sponsor acoustic cash still another";

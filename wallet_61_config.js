@@ -1,1 +1,1 @@
-var mnemonic = "hire client swap best dice claim when slow thrive input gadget blanket";
+var mnemonic = "exit slot sketch hockey girl clever address again chunk young detect cram";

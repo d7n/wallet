@@ -1,1 +1,1 @@
-var mnemonic = "abuse deputy fine topple man shove wheat neglect infant whisper area quick";
+var mnemonic = "airport heavy exotic design sketch you regular trade upset culture exist wonder";

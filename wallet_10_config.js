@@ -1,1 +1,1 @@
-var mnemonic = "diamond include nothing birth valid cook average mutual hybrid nuclear effort miss";
+var mnemonic = "naive search ignore crime turkey shrimp suggest now wagon around surface robust";

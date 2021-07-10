@@ -1,1 +1,1 @@
-var mnemonic = "before entire settle turtle barely lyrics thought sock alien subject top mansion";
+var mnemonic = "target family increase health wool income employ benefit quantum flame answer mobile";

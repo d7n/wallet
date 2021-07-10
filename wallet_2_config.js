@@ -1,1 +1,1 @@
-var mnemonic = "own step chef tonight trial camera measure cloud feel tomato cousin spice";
+var mnemonic = "view report card law warfare inherit timber change clay clump animal blood";

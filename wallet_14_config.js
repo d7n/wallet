@@ -1,1 +1,1 @@
-var mnemonic = "milk ill when logic eternal draw bicycle arrange outer salon lamp account";
+var mnemonic = "possible put news uniform cushion oval tired toilet feed armed treat place";

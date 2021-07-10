@@ -1,1 +1,1 @@
-var mnemonic = "expire business lucky comic gossip echo merge clarify maximum key parrot judge";
+var mnemonic = "plug wrestle time actual palm unique final pepper family obey enough silk";

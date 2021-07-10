@@ -1,1 +1,1 @@
-var mnemonic = "chaos mask wing crumble fall such bid lounge dice danger buzz pole";
+var mnemonic = "during lend brush ten arrange joy raw rebel language harbor keep response";

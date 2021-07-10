@@ -1,1 +1,1 @@
-var mnemonic = "olive moon spice gadget doctor depth table aerobic sadness nephew reject endorse";
+var mnemonic = "inject inquiry agent jacket cake joke ketchup view vintage negative zone three";

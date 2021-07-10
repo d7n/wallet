@@ -1,1 +1,1 @@
-var mnemonic = "stuff ten solid utility all royal cost tired loud foot moment source";
+var mnemonic = "curious assist sun tomorrow often three problem weekend depth amazing output small";

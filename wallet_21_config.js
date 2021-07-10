@@ -1,1 +1,1 @@
-var mnemonic = "coach lemon common drive arctic egg mean increase mention final melody noodle";
+var mnemonic = "prosper subway agree document morning check rib art brave flight library ring";

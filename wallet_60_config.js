@@ -1,1 +1,1 @@
-var mnemonic = "soup morning bubble float coin duck chapter donkey proud purity blind gadget";
+var mnemonic = "chronic limb east promote behave nose pudding major person earn apple feature";

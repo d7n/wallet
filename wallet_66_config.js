@@ -1,1 +1,1 @@
-var mnemonic = "around pitch siege guitar gesture vanish gorilla gaze dove glue thing hole";
+var mnemonic = "narrow cluster chaos sister sibling switch scale ankle glimpse column toward action";

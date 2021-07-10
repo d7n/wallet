@@ -1,1 +1,1 @@
-var mnemonic = "brown multiply symptom series include catch nuclear animal menu car fabric inner";
+var mnemonic = "law sting wage ignore whisper army wait barrel common key sort cloud";

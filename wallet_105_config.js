@@ -1,1 +1,1 @@
-var mnemonic = "hello never cushion jeans achieve arrest razor lobster found oppose ship voice";
+var mnemonic = "wreck transfer baby space drill write pair execute fatigue drive must again";

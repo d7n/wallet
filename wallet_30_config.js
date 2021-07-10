@@ -1,1 +1,1 @@
-var mnemonic = "car flag happy cradle sail divorce bitter citizen shed cruel minor bachelor";
+var mnemonic = "zoo sort clog predict document bleak charge patrol decorate draw cash future";

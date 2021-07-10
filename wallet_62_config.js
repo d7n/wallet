@@ -1,1 +1,1 @@
-var mnemonic = "gain arena meat success predict shoot protect describe charge west that wedding";
+var mnemonic = "name over visual gravity employ siren sand frost supply fade dutch coconut";

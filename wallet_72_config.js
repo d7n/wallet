@@ -1,1 +1,1 @@
-var mnemonic = "multiply celery mechanic maple all gesture essay surface blade gloom return rail";
+var mnemonic = "amused find tired frame place virus left shrimp thrive pig pact minute";

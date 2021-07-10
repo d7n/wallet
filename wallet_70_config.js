@@ -1,1 +1,1 @@
-var mnemonic = "neck sniff wrong erode elbow victory size struggle torch resist return profit";
+var mnemonic = "damage waste foot team couch obvious call door fire all crouch wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "text word guide able kit mule direct avoid drip wise kidney oyster";
+var mnemonic = "wheel cigar strategy file dawn reward gain forest bright special hero must";
