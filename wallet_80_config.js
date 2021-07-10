@@ -1,1 +1,1 @@
-var mnemonic = "sand abandon warfare milk blind below obvious churn clock album tray foot";
+var mnemonic = "flight hurry skirt believe admit farm math define process milk civil orphan";

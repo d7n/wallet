@@ -1,1 +1,1 @@
-var mnemonic = "want bullet primary denial actress salon kick sunny deliver supply random float";
+var mnemonic = "prosper hedgehog plate help matter slam doctor inform fatal client absorb churn";

@@ -1,1 +1,1 @@
-var mnemonic = "dream ritual maple sleep word smile room blue inflict click chest reason";
+var mnemonic = "release health lecture myself area economy outdoor detail pumpkin very situate fault";

@@ -1,1 +1,1 @@
-var mnemonic = "fade penalty strike keep enjoy bid gold win oak release choose host";
+var mnemonic = "bring invite food vacant wrist vendor grit choice banner beyond rare erode";

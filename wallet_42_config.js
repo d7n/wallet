@@ -1,1 +1,1 @@
-var mnemonic = "garment teach infant very dignity access sibling cheese gas current canvas lesson";
+var mnemonic = "evoke poem festival pill scene disease ocean stage weather behind forward soldier";

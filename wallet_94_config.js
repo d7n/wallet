@@ -1,1 +1,1 @@
-var mnemonic = "today code analyst guard clinic unable bundle broken viable tip limb hello";
+var mnemonic = "around lumber clump chronic monster plug nominee donkey resource snack scare suspect";

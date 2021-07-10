@@ -1,1 +1,1 @@
-var mnemonic = "mansion cry copy mistake success offer cherry worth vocal oak arrest example";
+var mnemonic = "shoulder nurse faint salute baby bid swarm winter keep six town skull";

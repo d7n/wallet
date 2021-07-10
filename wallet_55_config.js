@@ -1,1 +1,1 @@
-var mnemonic = "voyage key key stand govern raise border fashion mom cream tide rail";
+var mnemonic = "couple primary mix copy lazy similar lumber nice ball thought spider dash";

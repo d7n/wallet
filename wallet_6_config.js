@@ -1,1 +1,1 @@
-var mnemonic = "kid loan uncle urban rabbit open century holiday claw zoo trouble fun";
+var mnemonic = "chair online benefit civil already peace turn recipe approve speak fabric purity";

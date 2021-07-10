@@ -1,1 +1,1 @@
-var mnemonic = "envelope chair food seven when judge shove crazy apple foot reopen submit";
+var mnemonic = "panic camera essay name anger boat demand element all mango topic august";

@@ -1,1 +1,1 @@
-var mnemonic = "dash hammer opinion primary taxi torch price panic laundry just ice fluid";
+var mnemonic = "dream sweet dial canvas trigger dirt vintage ensure nut select crack able";

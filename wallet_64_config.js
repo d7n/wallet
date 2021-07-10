@@ -1,1 +1,1 @@
-var mnemonic = "escape inch person hawk meadow process melody lazy magnet argue error keen";
+var mnemonic = "ride fly write crucial enrich link february way mercy route settle proof";

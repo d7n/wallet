@@ -1,1 +1,1 @@
-var mnemonic = "ladder ticket like sausage fee spin lumber title palm update excite stone";
+var mnemonic = "diamond include nothing birth valid cook average mutual hybrid nuclear effort miss";

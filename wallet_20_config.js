@@ -1,1 +1,1 @@
-var mnemonic = "basic mercy chimney delay creek welcome impact unhappy tennis brush bring receive";
+var mnemonic = "orphan cotton enlist nose swallow liberty original various notable present ankle kick";

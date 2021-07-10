@@ -1,1 +1,1 @@
-var mnemonic = "because captain bundle broccoli term will tree midnight comic cherry foot happy";
+var mnemonic = "artefact route solve alcohol refuse cry flavor stove double resist identify fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel prepare media zebra measure carry craft dutch wear position garlic zoo";
+var mnemonic = "movie stuff matter club stone beef slogan leader rescue fiber fever better";

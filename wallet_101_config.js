@@ -1,1 +1,1 @@
-var mnemonic = "figure apology vivid allow robust company swift toward arrive era tiny crucial";
+var mnemonic = "bronze anger broken pelican this real diagram lizard off school clever smooth";

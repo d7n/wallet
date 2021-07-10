@@ -1,1 +1,1 @@
-var mnemonic = "awesome uncle dash dust enhance duty offer chronic among snake test urge";
+var mnemonic = "onion believe float illegal ball cram enroll burden limb wasp weapon edge";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade ridge resemble spice goat oil sample industry lock device road odor";
+var mnemonic = "hard rocket wet plunge circle blind agree defy kick frost harbor music";

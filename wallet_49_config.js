@@ -1,1 +1,1 @@
-var mnemonic = "inform brain reopen destroy that bargain switch seek echo erase boy under";
+var mnemonic = "ladder spray mountain inmate buyer define buffalo flip airport laundry salt cement";

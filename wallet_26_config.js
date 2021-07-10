@@ -1,1 +1,1 @@
-var mnemonic = "address minor pear action jeans other upper cradle must source person foil";
+var mnemonic = "pitch bunker drop tunnel unknown advance photo forest clip banner silver basket";

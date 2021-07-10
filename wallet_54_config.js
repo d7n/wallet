@@ -1,1 +1,1 @@
-var mnemonic = "client perfect yellow glance simple mixture noble search ostrich rookie gallery make";
+var mnemonic = "trash omit review frequent rather foster mutual salt ramp unlock purpose silent";

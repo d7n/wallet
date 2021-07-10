@@ -1,1 +1,1 @@
-var mnemonic = "raise cereal shock hammer laptop job word start gravity render torch auction";
+var mnemonic = "proof endless puppy rabbit feed trick tourist heavy three top dutch hidden";

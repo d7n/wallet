@@ -1,1 +1,1 @@
-var mnemonic = "risk clown day region fragile annual remove lunar divide tribe sustain robust";
+var mnemonic = "hello never cushion jeans achieve arrest razor lobster found oppose ship voice";

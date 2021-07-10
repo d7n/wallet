@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pudding record scene mystery clock economy dream peanut grief clean addict";
+var mnemonic = "squeeze lonely social crouch mimic disagree since oven escape usage time distance";

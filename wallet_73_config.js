@@ -1,1 +1,1 @@
-var mnemonic = "fiscal tissue ancient claw celery start major stuff combine lunch bulb rude";
+var mnemonic = "dish appear point know trade caught frequent rule road version wrist over";

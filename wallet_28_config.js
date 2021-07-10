@@ -1,1 +1,1 @@
-var mnemonic = "vintage estate frog aisle able rebuild enrich issue share switch off work";
+var mnemonic = "click trash elder artist chimney unfold energy summer squirrel okay outer fever";

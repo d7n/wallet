@@ -1,1 +1,1 @@
-var mnemonic = "stomach riot amazing this team baby select menu fashion rhythm media tackle";
+var mnemonic = "text word guide able kit mule direct avoid drip wise kidney oyster";

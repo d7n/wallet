@@ -1,1 +1,1 @@
-var mnemonic = "number uphold subway canyon before work rigid neutral risk skull promote gate";
+var mnemonic = "kick room bird snow pepper motion tornado foil pluck hockey rib surprise";

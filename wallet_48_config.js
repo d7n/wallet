@@ -1,1 +1,1 @@
-var mnemonic = "suspect lamp close paddle mail thought crash fold element actor blossom cherry";
+var mnemonic = "normal fossil network very party tuition scout civil stage crew wife hint";

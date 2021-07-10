@@ -1,1 +1,1 @@
-var mnemonic = "high acid pilot solve toy damp install negative remind amateur number print";
+var mnemonic = "agree goat shove dizzy glove peanut where naive rapid usual icon battle";

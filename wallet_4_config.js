@@ -1,1 +1,1 @@
-var mnemonic = "silly music engage post eternal wise legal transfer you involve inhale fault";
+var mnemonic = "odor length drift almost happy dutch brand miracle burger expire price weather";

@@ -1,1 +1,1 @@
-var mnemonic = "stay cart road tent vacuum source treat marriage tail kidney trust pottery";
+var mnemonic = "august route solution hobby text alarm laptop truck notable method broccoli hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "thing minimum mushroom usage ensure learn dish toe genius rebuild urge upset";
+var mnemonic = "abuse deputy fine topple man shove wheat neglect infant whisper area quick";

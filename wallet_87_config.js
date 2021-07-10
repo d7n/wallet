@@ -1,1 +1,1 @@
-var mnemonic = "purse defy reveal six orbit grunt crunch thunder violin cinnamon axis boring";
+var mnemonic = "dune puzzle park practice circle error radio spell dog area jaguar bounce";

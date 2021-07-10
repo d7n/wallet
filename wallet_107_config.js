@@ -1,1 +1,1 @@
-var mnemonic = "canyon apart step open inspire decline say motor leisure disagree quote position";
+var mnemonic = "grow image unusual swing ocean captain ignore middle seminar kite cannon leg";

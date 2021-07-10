@@ -1,1 +1,1 @@
-var mnemonic = "sweet trip fit pepper practice twice border sign police slow organ blue";
+var mnemonic = "milk ill when logic eternal draw bicycle arrange outer salon lamp account";

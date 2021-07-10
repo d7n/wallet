@@ -1,1 +1,1 @@
-var mnemonic = "track live secret close journey good immense clock depth lounge movie notable";
+var mnemonic = "neck sniff wrong erode elbow victory size struggle torch resist return profit";

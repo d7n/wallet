@@ -1,1 +1,1 @@
-var mnemonic = "never gossip anger key suffer speed battle ability century reveal yellow motion";
+var mnemonic = "plunge cactus solve rib better then chuckle clog hint copy review clutch";

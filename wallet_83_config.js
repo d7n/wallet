@@ -1,1 +1,1 @@
-var mnemonic = "glove exchange busy proof music rocket attract home tell cart alter cancel";
+var mnemonic = "remove fix gloom social fine seed news measure memory border swap able";

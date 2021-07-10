@@ -1,1 +1,1 @@
-var mnemonic = "replace toddler casual method weapon deer suggest unfold polar table vendor guard";
+var mnemonic = "brown multiply symptom series include catch nuclear animal menu car fabric inner";

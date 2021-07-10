@@ -1,1 +1,1 @@
-var mnemonic = "live bacon army aim lady motor damage more clump much ankle curve";
+var mnemonic = "slot squeeze wait column miss bone asset often rug clerk broken frequent";

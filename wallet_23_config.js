@@ -1,1 +1,1 @@
-var mnemonic = "rare visual dinner raise estate like limb cover save grass sing banana";
+var mnemonic = "violin vast crew jar across soap health frog fee happy tell increase";

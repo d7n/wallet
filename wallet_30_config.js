@@ -1,1 +1,1 @@
-var mnemonic = "total document perfect high equal truck autumn clutch fox top top board";
+var mnemonic = "car flag happy cradle sail divorce bitter citizen shed cruel minor bachelor";

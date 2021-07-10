@@ -1,1 +1,1 @@
-var mnemonic = "swing inquiry appear life office open funny math pistol cook plug prison";
+var mnemonic = "verb lawsuit omit inherit endorse merge find senior hamster boy then oyster";

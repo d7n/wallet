@@ -1,1 +1,1 @@
-var mnemonic = "twist power mammal around novel write erosion umbrella dawn noise vendor stone";
+var mnemonic = "chaos mask wing crumble fall such bid lounge dice danger buzz pole";

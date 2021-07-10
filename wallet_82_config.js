@@ -1,1 +1,1 @@
-var mnemonic = "tape farm high exit sell custom attract jewel foil kiwi segment unusual";
+var mnemonic = "plastic physical stadium human venture quit before bounce hamster few habit unique";

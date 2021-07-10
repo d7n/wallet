@@ -1,1 +1,1 @@
-var mnemonic = "eight innocent pact common ethics jacket endless physical history wear tonight ozone";
+var mnemonic = "guard decade disorder mimic laptop liberty kingdom source fit consider isolate lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "anger put donate sunset cat lecture chicken afford toast defense tube poet";
+var mnemonic = "increase beef canal speak road because broom real hamster fuel owner piano";

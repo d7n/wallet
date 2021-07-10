@@ -1,1 +1,1 @@
-var mnemonic = "flock pledge young hat elegant word skill valid music camp harbor possible";
+var mnemonic = "autumn mouse morning simple ceiling tuition inherit eager onion ring team stick";

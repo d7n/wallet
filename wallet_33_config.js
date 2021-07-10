@@ -1,1 +1,1 @@
-var mnemonic = "offer beach concert inform bargain excess receive anger lava innocent pill load";
+var mnemonic = "stage manual unfold isolate path only easy month scene tape run arctic";

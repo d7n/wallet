@@ -1,1 +1,1 @@
-var mnemonic = "innocent drastic fiber labor exhibit broom vital hockey again give follow swamp";
+var mnemonic = "mixture member afraid dismiss sing scrub warm grace buddy liquid music oxygen";

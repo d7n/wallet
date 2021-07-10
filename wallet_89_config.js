@@ -1,1 +1,1 @@
-var mnemonic = "hope sadness also goat dolphin embrace hood key gospel example portion casino";
+var mnemonic = "panic wash ranch aunt party crush verb gift poet cheese state memory";

@@ -1,1 +1,1 @@
-var mnemonic = "used carry saddle live void water skirt relief fall frog prosper angle";
+var mnemonic = "human cross cotton hockey destroy tackle ball helmet apple menu join goat";

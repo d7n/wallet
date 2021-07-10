@@ -1,1 +1,1 @@
-var mnemonic = "rabbit system slogan strategy improve love roast rural patient help click duty";
+var mnemonic = "couple anger canvas elevator core join bind all hockey fat spike three";

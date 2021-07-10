@@ -1,1 +1,1 @@
-var mnemonic = "case echo elder project like sick minimum twist gun theory phrase prefer";
+var mnemonic = "gain arena meat success predict shoot protect describe charge west that wedding";

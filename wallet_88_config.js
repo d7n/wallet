@@ -1,1 +1,1 @@
-var mnemonic = "boss federal gown danger column siege whale brick cancel arrive cash orange";
+var mnemonic = "chimney noise breeze wage budget saddle entire price silver avoid desert thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent later private sea casino neither rent window love island joke report";
+var mnemonic = "found differ shine result atom host neglect rude when letter west rack";

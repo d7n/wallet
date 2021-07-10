@@ -1,1 +1,1 @@
-var mnemonic = "exotic zone casual limit plate brass hand unit valid frown once genuine";
+var mnemonic = "own step chef tonight trial camera measure cloud feel tomato cousin spice";

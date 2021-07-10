@@ -1,1 +1,1 @@
-var mnemonic = "assault switch mansion goose essay brass crucial oblige throw replace often frost";
+var mnemonic = "item salt flush since cherry renew such hen issue maximum visual siege";

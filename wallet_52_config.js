@@ -1,1 +1,1 @@
-var mnemonic = "quit perfect vital release diary nerve dial tonight apple opinion bachelor injury";
+var mnemonic = "divide salt clump soup middle nation eyebrow abandon area rocket math phone";

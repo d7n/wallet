@@ -1,1 +1,1 @@
-var mnemonic = "join select extra diamond clerk insect remain chase cube main coyote arrange";
+var mnemonic = "patch lemon bind zebra skate speak valid myth hood bread divide hood";

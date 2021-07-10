@@ -1,1 +1,1 @@
-var mnemonic = "little wreck enemy travel decade repeat course best cupboard trip grass author";
+var mnemonic = "travel exchange frog taxi valley era tunnel easy such luggage abandon march";

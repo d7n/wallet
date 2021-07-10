@@ -1,1 +1,1 @@
-var mnemonic = "idea cake pond myth lizard claim hold plastic trumpet bracket eager dignity";
+var mnemonic = "stuff ten solid utility all royal cost tired loud foot moment source";

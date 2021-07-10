@@ -1,1 +1,1 @@
-var mnemonic = "define where cradle layer major motion round skin dash what grass tomorrow";
+var mnemonic = "people right fence chief dizzy client coach potato mutual check table prefer";

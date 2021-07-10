@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pizza invest toast sorry sleep coffee horror abstract blanket item copy";
+var mnemonic = "can budget sniff ripple weekend member admit credit nut receive fresh burden";

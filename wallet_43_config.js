@@ -1,1 +1,1 @@
-var mnemonic = "other rebel recycle gauge segment scissors ivory life awake wear lobster gym";
+var mnemonic = "hospital coach mango solid depart youth motor wheel follow tag bargain oppose";

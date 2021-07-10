@@ -1,1 +1,1 @@
-var mnemonic = "finish universe december crazy liar assault october input crew protect couch attack";
+var mnemonic = "inherit enable warfare convince frequent nature alter topic blouse sail dignity snap";

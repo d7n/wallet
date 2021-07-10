@@ -1,1 +1,1 @@
-var mnemonic = "merge fatal uphold clay crumble sing diesel dumb problem pluck onion steel";
+var mnemonic = "athlete weird spike eye elder please water diagram barrel trap hazard process";

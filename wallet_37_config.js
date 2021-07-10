@@ -1,1 +1,1 @@
-var mnemonic = "wreck kangaroo pole bread funny toy film lizard obvious flip height someone";
+var mnemonic = "joy biology impact short across life ranch plate federal quarter chimney mutual";

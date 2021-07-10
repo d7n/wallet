@@ -1,1 +1,1 @@
-var mnemonic = "wage couch meat guess exchange inform sleep inspire barely peasant away symbol";
+var mnemonic = "turtle echo will trade legend candy grant term seek tree flight twelve";

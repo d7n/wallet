@@ -1,1 +1,1 @@
-var mnemonic = "name network cherry badge found detect royal harbor soap slot future wet";
+var mnemonic = "concert old gorilla scorpion busy wire merit panther obscure provide trade wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud impulse drop plunge island inhale fragile depth announce rib motor blast";
+var mnemonic = "develop moon island degree ritual slam oven slam gadget nuclear heart attend";

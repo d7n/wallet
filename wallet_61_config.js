@@ -1,1 +1,1 @@
-var mnemonic = "transfer brown essence deliver nuclear jaguar cross topic what vanish dove nut";
+var mnemonic = "hire client swap best dice claim when slow thrive input gadget blanket";

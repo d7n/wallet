@@ -1,1 +1,1 @@
-var mnemonic = "board pair hill relax subway either great light always stage appear boring";
+var mnemonic = "item dutch february orient camp voyage clarify ankle summer fluid crucial fall";

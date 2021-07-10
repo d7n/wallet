@@ -1,1 +1,1 @@
-var mnemonic = "crucial wish error festival industry pizza rail silver soap occur panel pulp";
+var mnemonic = "around pitch siege guitar gesture vanish gorilla gaze dove glue thing hole";

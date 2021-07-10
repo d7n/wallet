@@ -1,1 +1,1 @@
-var mnemonic = "chase slender alarm slide pause north parent gravity board marble lunar wood";
+var mnemonic = "expire business lucky comic gossip echo merge clarify maximum key parrot judge";

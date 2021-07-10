@@ -1,1 +1,1 @@
-var mnemonic = "farm layer danger sunny damp cost excuse accident bullet toddler knock kit";
+var mnemonic = "couch behind scissors coral lottery kitten hour antenna express sentence cinnamon sea";

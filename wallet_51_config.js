@@ -1,1 +1,1 @@
-var mnemonic = "bunker surface pluck abandon script super embrace priority reopen door paddle primary";
+var mnemonic = "stable then dinosaur cart rebel owner napkin fruit jump merit melt arm";

@@ -1,1 +1,1 @@
-var mnemonic = "debris world option emerge school design aspect lawn rabbit morning crew empty";
+var mnemonic = "shadow dinner bag grace settle space divert oblige vintage filter term fiscal";

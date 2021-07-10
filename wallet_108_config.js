@@ -1,1 +1,1 @@
-var mnemonic = "keep hurry ankle choice vital pulp flee notable plug happy birth laugh";
+var mnemonic = "olive moon spice gadget doctor depth table aerobic sadness nephew reject endorse";

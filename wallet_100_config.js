@@ -1,1 +1,1 @@
-var mnemonic = "drive draft monster joy forum garden because divert devote attract engine reduce";
+var mnemonic = "wish glove length pink remove purity wolf people alone proud cream frequent";

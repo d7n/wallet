@@ -1,1 +1,1 @@
-var mnemonic = "guard they mechanic romance resist surface result tunnel equip soup stuff earn";
+var mnemonic = "drink shuffle potato kiwi crawl know lunar laundry pear bus crash someone";

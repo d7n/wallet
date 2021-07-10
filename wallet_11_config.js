@@ -1,1 +1,1 @@
-var mnemonic = "good speak dumb fatal envelope ensure force volcano lens message office bird";
+var mnemonic = "cable member february penalty input pulse process carbon fever neutral satisfy clarify";

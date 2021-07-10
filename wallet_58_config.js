@@ -1,1 +1,1 @@
-var mnemonic = "frozen whip deposit jungle wire arch recipe ill satoshi weapon invite trophy";
+var mnemonic = "oblige cube turkey model render faith craft virus never list puppy settle";

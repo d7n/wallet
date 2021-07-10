@@ -1,1 +1,1 @@
-var mnemonic = "deer crunch message review comfort mirror embrace tragic zoo afraid salad century";
+var mnemonic = "focus civil tiny bean supply brown length genre vacant girl practice tackle";

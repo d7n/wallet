@@ -1,1 +1,1 @@
-var mnemonic = "current combine patch tornado kangaroo innocent sure achieve uniform blush quarter mushroom";
+var mnemonic = "congress oval weapon hen filter record analyst critic outside enhance youth equal";

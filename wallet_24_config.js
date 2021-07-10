@@ -1,1 +1,1 @@
-var mnemonic = "dinner music top minute cactus seminar school subway grant season eye dolphin";
+var mnemonic = "diesel elite title ahead crazy universe mercy useful wall orange child essence";

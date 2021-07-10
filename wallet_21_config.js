@@ -1,1 +1,1 @@
-var mnemonic = "walnut gym gesture bright roof admit tattoo push worry coyote enjoy push";
+var mnemonic = "coach lemon common drive arctic egg mean increase mention final melody noodle";

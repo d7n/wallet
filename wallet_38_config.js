@@ -1,1 +1,1 @@
-var mnemonic = "strike prison squeeze palm various fetch electric picnic hold fabric velvet fork";
+var mnemonic = "frequent between orient basic crew buffalo copper nothing fury ankle jaguar rack";

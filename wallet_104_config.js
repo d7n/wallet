@@ -1,1 +1,1 @@
-var mnemonic = "upgrade train weird decade victory much verify grief acoustic want fortune best";
+var mnemonic = "organ service seek love exile phone midnight grid hollow apology quiz true";

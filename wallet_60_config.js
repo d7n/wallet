@@ -1,1 +1,1 @@
-var mnemonic = "common clap pony spend blush tiger crane else copy infant isolate april";
+var mnemonic = "soup morning bubble float coin duck chapter donkey proud purity blind gadget";
