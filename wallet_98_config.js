@@ -1,1 +1,1 @@
-var mnemonic = "ice dose crucial embark patient shoot script slab crack father history degree";
+var mnemonic = "mother enroll misery stay bitter topple ball gaze want inside frost family";

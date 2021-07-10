@@ -1,1 +1,1 @@
-var mnemonic = "true satisfy habit scene other desk view emotion cattle rather salt okay";
+var mnemonic = "fragile usual travel disagree small surprise balcony traffic bike metal universe fashion";

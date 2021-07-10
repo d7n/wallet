@@ -1,1 +1,1 @@
-var mnemonic = "worth alter employ near similar employ voice this again weird secret awake";
+var mnemonic = "planet fish rose level fish change benefit grass alcohol lumber rally roof";

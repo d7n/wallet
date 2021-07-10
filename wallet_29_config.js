@@ -1,1 +1,1 @@
-var mnemonic = "warm ill win nuclear carpet suit ball right valve kitten diagram man";
+var mnemonic = "nothing exhibit cat balance super bird youth rabbit private major sad present";

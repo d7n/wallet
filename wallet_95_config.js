@@ -1,1 +1,1 @@
-var mnemonic = "gospel flush shove swing pond trumpet student home peanut harsh smooth divert";
+var mnemonic = "struggle cattle basic return original ginger wait picnic sorry hover dwarf kiwi";

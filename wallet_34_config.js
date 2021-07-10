@@ -1,1 +1,1 @@
-var mnemonic = "royal region gossip input siren observe affair guilt hundred sport catalog rebel";
+var mnemonic = "uniform swim casual clutch remember kiwi since canal alert try dynamic begin";

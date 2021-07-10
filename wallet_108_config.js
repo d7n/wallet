@@ -1,1 +1,1 @@
-var mnemonic = "fiction gesture case roof seven erosion home retreat final bone step easy";
+var mnemonic = "wife behave photo universe push tone junk erode blanket elder drive safe";

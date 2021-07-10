@@ -1,1 +1,1 @@
-var mnemonic = "ski antenna decline choose medal wrestle also please bomb junior sheriff over";
+var mnemonic = "rookie panda will pencil double garbage orient turn dynamic prepare honey apple";

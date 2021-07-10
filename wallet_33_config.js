@@ -1,1 +1,1 @@
-var mnemonic = "benefit year update juice deposit napkin hope guard piano edge stage version";
+var mnemonic = "marriage door near face clap birth quarter ethics gap code trend seat";

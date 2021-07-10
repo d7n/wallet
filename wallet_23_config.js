@@ -1,1 +1,1 @@
-var mnemonic = "enjoy street patrol fit diamond mosquito table reflect dutch grow that believe";
+var mnemonic = "sick person crime angle silver enact saddle gas indicate three funny faith";

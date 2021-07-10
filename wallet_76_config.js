@@ -1,1 +1,1 @@
-var mnemonic = "obey myth industry job write infant dream alley below human regret combine";
+var mnemonic = "upper flush clock prepare agree obvious window amazing maid visit mail exercise";

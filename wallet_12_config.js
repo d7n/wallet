@@ -1,1 +1,1 @@
-var mnemonic = "call rotate dinner unique author legal nation silver force swallow glass achieve";
+var mnemonic = "lemon figure transfer deal arrest magic shrimp upon recipe law vivid fragile";

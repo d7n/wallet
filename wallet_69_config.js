@@ -1,1 +1,1 @@
-var mnemonic = "tiny proof energy evolve frost random venture able faint impose fashion lecture";
+var mnemonic = "better owner average vehicle code wool bicycle mandate modify enemy audit differ";

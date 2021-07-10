@@ -1,1 +1,1 @@
-var mnemonic = "distance tortoise loyal doctor coconut slender fan grief hour away shaft buddy";
+var mnemonic = "machine need draft steel potato reward side spoil laptop wire wage swift";

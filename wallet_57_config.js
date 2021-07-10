@@ -1,1 +1,1 @@
-var mnemonic = "price tide lemon globe theme traffic various type belt all dragon bench";
+var mnemonic = "infant indoor absurd gaze close antenna pumpkin bottom track rude bright couch";

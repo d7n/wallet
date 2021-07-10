@@ -1,1 +1,1 @@
-var mnemonic = "project prison tortoise salad pair twice state example half sport garlic island";
+var mnemonic = "expose initial pig census south sustain twist sphere chunk scheme aisle close";

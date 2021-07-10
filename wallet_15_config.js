@@ -1,1 +1,1 @@
-var mnemonic = "offer twelve ignore armed author mango motion pig foot isolate meadow mushroom";
+var mnemonic = "planet lazy legal address vault dove dance orient scrap blade merry spare";

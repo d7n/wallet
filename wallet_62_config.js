@@ -1,1 +1,1 @@
-var mnemonic = "fluid kite sun element poem ostrich arrange size season dinosaur wheat across";
+var mnemonic = "limit leader boat train margin thank car twelve giant dilemma quit frog";

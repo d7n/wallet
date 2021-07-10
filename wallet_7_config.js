@@ -1,1 +1,1 @@
-var mnemonic = "mask trip bachelor barrel defense artwork ecology better involve scan birth found";
+var mnemonic = "exist guard choose song reflect float stairs connect half share uniform rug";

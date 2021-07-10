@@ -1,1 +1,1 @@
-var mnemonic = "dust wrap tilt waste artwork there flag assume maple tent neglect trouble";
+var mnemonic = "system life situate hazard sheriff behind teach security reopen isolate antique laundry";

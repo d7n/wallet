@@ -1,1 +1,1 @@
-var mnemonic = "cake shoe attract lock luggage gaze lawsuit raw rain spin vacant major";
+var mnemonic = "moon toast hotel refuse cost jewel card goddess devote play alien coffee";

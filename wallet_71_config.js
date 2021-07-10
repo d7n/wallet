@@ -1,1 +1,1 @@
-var mnemonic = "timber kingdom actual true world canal economy vintage whisper diesel artefact chicken";
+var mnemonic = "grow prize decorate topic limb embark journey fatigue vessel foil offer into";

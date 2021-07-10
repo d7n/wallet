@@ -1,1 +1,1 @@
-var mnemonic = "tooth snake ridge govern major submit update giant rice afford grain million";
+var mnemonic = "between pause icon category ticket prepare detect lazy salon film garlic spoil";

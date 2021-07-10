@@ -1,1 +1,1 @@
-var mnemonic = "wisdom unusual consider planet giant develop piano clerk wage purity moon cousin";
+var mnemonic = "put funny myself afraid divert lens exhaust know reveal swap bread parrot";

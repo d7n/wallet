@@ -1,1 +1,1 @@
-var mnemonic = "frog keep napkin rain ivory accident thing valve fetch buzz dismiss trumpet";
+var mnemonic = "cook mango either elevator payment modify turtle dash aunt must popular ring";

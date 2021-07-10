@@ -1,1 +1,1 @@
-var mnemonic = "fun unable spice aisle shoot toddler demise fragile math desert enable deliver";
+var mnemonic = "huge spin female various glide steel copy canal desert average fatigue absent";

@@ -1,1 +1,1 @@
-var mnemonic = "crack over castle quantum puzzle beauty amazing until believe lens office message";
+var mnemonic = "retreat plug crucial pyramid time demand they universe cargo acquire decide charge";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom cigar address alley puzzle rescue entry tunnel wash adjust grain debate";
+var mnemonic = "exercise lab coil street similar duck dose mad laundry evolve typical beef";

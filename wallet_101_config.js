@@ -1,1 +1,1 @@
-var mnemonic = "leader advice sun sad flush man patch mercy inform nice town mistake";
+var mnemonic = "lyrics inside check diesel vicious thank talent club since usual pledge bone";

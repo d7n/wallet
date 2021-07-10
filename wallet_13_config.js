@@ -1,1 +1,1 @@
-var mnemonic = "urge hunt adapt library correct normal apple green alcohol play slight people";
+var mnemonic = "oven sound lumber execute candy file squeeze tourist sweet taste fiber damage";

@@ -1,1 +1,1 @@
-var mnemonic = "rough indicate chimney onion notice unknown sustain maze dwarf pepper insect chase";
+var mnemonic = "either then rabbit kite harvest artwork fury weapon crystal cinnamon opinion october";

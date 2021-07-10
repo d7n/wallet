@@ -1,1 +1,1 @@
-var mnemonic = "close enable taste sausage guilt artist tackle gate vacuum text novel ability";
+var mnemonic = "front again yard panda speed heart open height ketchup pink echo slab";

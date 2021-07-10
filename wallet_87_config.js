@@ -1,1 +1,1 @@
-var mnemonic = "eager naive face grab actor beach sauce tunnel grant region summer host";
+var mnemonic = "fortune shield alpha tourist drift liberty coil concert rib vehicle legend popular";

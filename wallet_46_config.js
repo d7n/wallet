@@ -1,1 +1,1 @@
-var mnemonic = "ceiling civil kidney bench nut exhaust crunch cereal history horror sniff trash";
+var mnemonic = "stereo cousin sun banana link obtain silver timber error dilemma caught utility";

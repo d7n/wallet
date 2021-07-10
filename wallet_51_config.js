@@ -1,1 +1,1 @@
-var mnemonic = "blur episode board cheese dismiss describe pizza scene voice thunder fox narrow";
+var mnemonic = "ability forum damp response forest lake buddy argue panel opera glance tape";

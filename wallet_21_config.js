@@ -1,1 +1,1 @@
-var mnemonic = "grow call squirrel amused capable train spice now surround lounge orient about";
+var mnemonic = "border mushroom essay regular venture smile leisure tumble now coffee kangaroo hidden";

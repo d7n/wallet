@@ -1,1 +1,1 @@
-var mnemonic = "salt enough raven mad venue endorse chat frown depend oppose divide sea";
+var mnemonic = "little buzz pause bundle enforce gas scrub nuclear plunge pull snow tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle draft put yellow quarter price manage awkward matrix south enter found";
+var mnemonic = "useful cheap convince prosper hat laundry action retire head peanut gym ladder";

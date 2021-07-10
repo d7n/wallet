@@ -1,1 +1,1 @@
-var mnemonic = "jaguar object dance hip enemy tiny fresh news ridge unveil clay cool";
+var mnemonic = "memory source online milk dawn card embody increase hand pitch reward ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra guess obey argue indicate pretty liquid balance tide pair gesture cattle";
+var mnemonic = "basket aware garbage excuse siren club body town purpose horror fault juice";

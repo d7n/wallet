@@ -1,1 +1,1 @@
-var mnemonic = "clarify vote inside purpose tuna warfare shield left decline lyrics myself genius";
+var mnemonic = "recall rose balcony version finger layer artwork remove novel weather beyond gate";

@@ -1,1 +1,1 @@
-var mnemonic = "super stay gather goddess soul robust bird odor recipe include cargo sadness";
+var mnemonic = "tuition horror harsh install minute car best child diary border lion fragile";

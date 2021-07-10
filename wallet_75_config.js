@@ -1,1 +1,1 @@
-var mnemonic = "dad drive welcome sport success famous daring kind never crunch occur interest";
+var mnemonic = "syrup meat actress awful rain purity dignity later estate walnut cattle rail";

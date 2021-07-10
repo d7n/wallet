@@ -1,1 +1,1 @@
-var mnemonic = "universe engine random runway soda powder negative defense art undo throw supply";
+var mnemonic = "tattoo video taste spray spring banana unknown aware move trial industry popular";

@@ -1,1 +1,1 @@
-var mnemonic = "coin car squirrel cause holiday series creek leisure pool gasp rare slice";
+var mnemonic = "dish easily swarm rival cake soon manage thumb fringe lock sauce seed";

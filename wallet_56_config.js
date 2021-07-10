@@ -1,1 +1,1 @@
-var mnemonic = "super arch elite alone brush spin west mass differ purity erosion tired";
+var mnemonic = "elevator frost salt diary danger switch latin afford orbit praise record frog";

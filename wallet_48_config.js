@@ -1,1 +1,1 @@
-var mnemonic = "copy drift coffee chapter hand tourist aunt market siege jewel chef main";
+var mnemonic = "angle stuff machine aunt tissue resemble neutral doll tragic vacant nephew silk";

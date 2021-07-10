@@ -1,1 +1,1 @@
-var mnemonic = "team vibrant glory act patient assault model people disease boat erode document";
+var mnemonic = "bless kind noise scene nephew word sing grant game tortoise insane orange";

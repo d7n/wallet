@@ -1,1 +1,1 @@
-var mnemonic = "mutual guard skate carpet wild place garlic border tiger ensure viable buzz";
+var mnemonic = "tent enforce ankle scale force awkward move glide oppose umbrella one build";

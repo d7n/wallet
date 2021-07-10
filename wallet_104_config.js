@@ -1,1 +1,1 @@
-var mnemonic = "gym vapor warm refuse scatter correct predict rug post cattle trophy load";
+var mnemonic = "insane chicken agree shed legend junk cake result unhappy hood absent enter";

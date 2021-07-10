@@ -1,1 +1,1 @@
-var mnemonic = "sock rubber civil crawl slush purchase crack bread praise clutch soccer farm";
+var mnemonic = "must ring worry soccer outer govern palm cousin reason angle unfair tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "bone inhale solve airport crucial harvest journey rude onion siege label order";
+var mnemonic = "cactus unaware poem famous struggle curtain spider type concert cabbage budget suspect";

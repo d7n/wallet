@@ -1,1 +1,1 @@
-var mnemonic = "resemble van laugh elephant avocado pony kingdom occur remove tortoise middle mimic";
+var mnemonic = "better robot congress first hair tiger tower frozen sting deal practice betray";

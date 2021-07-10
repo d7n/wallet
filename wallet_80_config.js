@@ -1,1 +1,1 @@
-var mnemonic = "sleep cluster leisure decorate vendor insane soccer erosion yard draw scheme cycle";
+var mnemonic = "leisure fly dress degree offer noise split enter mutual update penalty raw";

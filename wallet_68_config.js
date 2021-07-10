@@ -1,1 +1,1 @@
-var mnemonic = "junk alien dolphin other garlic black appear fresh such better lobster elevator";
+var mnemonic = "laptop clown public giant include fatigue cause fade dwarf hidden eight humor";

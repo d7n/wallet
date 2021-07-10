@@ -1,1 +1,1 @@
-var mnemonic = "lumber provide dove because one cool bottom asset armor tell letter stove";
+var mnemonic = "can document portion pottery poem fruit fashion weapon giant apart blood emerge";

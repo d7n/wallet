@@ -1,1 +1,1 @@
-var mnemonic = "kite load employ supply bargain amount donate false mask remain steak resemble";
+var mnemonic = "grant assault scare carpet acquire path puppy bubble loyal slim teach grunt";

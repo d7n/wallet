@@ -1,1 +1,1 @@
-var mnemonic = "wife rug crater nature concert dirt base report upon dignity trash bright";
+var mnemonic = "clever gadget mutual submit recall soccer artist gloom suspect myth move manual";

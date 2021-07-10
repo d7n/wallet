@@ -1,1 +1,1 @@
-var mnemonic = "vehicle entry artwork garbage dynamic mushroom hair already quality door car employ";
+var mnemonic = "space bounce fat void gate chat fee story mule flag winter buddy";

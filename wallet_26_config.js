@@ -1,1 +1,1 @@
-var mnemonic = "local film simple action mean tower bonus change because loan occur blanket";
+var mnemonic = "program ill song water promote nephew survey recall deal bargain soccer because";

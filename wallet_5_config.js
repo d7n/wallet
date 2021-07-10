@@ -1,1 +1,1 @@
-var mnemonic = "tennis february depend embrace symbol prepare excess kingdom bachelor speak soul assume";
+var mnemonic = "cactus loop people olive aspect cake similar universe quarter unit fortune night";

@@ -1,1 +1,1 @@
-var mnemonic = "armed razor resist actual melody bullet unfair daring holiday hard humble deal";
+var mnemonic = "tiny bone gesture dust guilt cake pioneer soul crunch praise family beach";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk apart yard until dial immune service steak myself session sketch swift";
+var mnemonic = "arrest desk need bike scout tip tonight patient wonder olympic bulk snap";

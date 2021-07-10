@@ -1,1 +1,1 @@
-var mnemonic = "summer broom exclude source sweet cruise obtain elevator escape dove announce onion";
+var mnemonic = "spare myself odor random success know throw twice control quality hover awful";

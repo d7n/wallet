@@ -1,1 +1,1 @@
-var mnemonic = "regular special friend coast finish saddle credit stock clown rose impact other";
+var mnemonic = "air update rug school bring immune income steel snack tackle topple pause";

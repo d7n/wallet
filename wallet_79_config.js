@@ -1,1 +1,1 @@
-var mnemonic = "decrease water only foam ramp age abuse grit swarm exit patrol luxury";
+var mnemonic = "top chicken patrol help extend drill gadget inner cheap outdoor old maple";

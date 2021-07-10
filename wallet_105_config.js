@@ -1,1 +1,1 @@
-var mnemonic = "crowd pretty isolate supply under disease oblige rigid property emotion emotion cupboard";
+var mnemonic = "chair whale bid vicious narrow join approve photo fantasy cruise magnet small";

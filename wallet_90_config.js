@@ -1,1 +1,1 @@
-var mnemonic = "around program girl raven bomb aunt goddess split few polar right antique";
+var mnemonic = "range sphere guard near sugar vehicle globe wheel tiger acid taxi network";

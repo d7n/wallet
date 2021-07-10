@@ -1,1 +1,1 @@
-var mnemonic = "reflect segment absurd view brief strike globe goddess regular method sort clean";
+var mnemonic = "bird lottery excite regret close great naive popular filter save lounge atom";

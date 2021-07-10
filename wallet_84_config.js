@@ -1,1 +1,1 @@
-var mnemonic = "speed myself miracle glide butter miracle slight zero basket month abuse cash";
+var mnemonic = "essence light stool seminar brother dose immense undo banana another zebra affair";

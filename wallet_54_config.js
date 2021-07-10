@@ -1,1 +1,1 @@
-var mnemonic = "daring favorite disorder later agent upper victory tell acquire quantum lunch blouse";
+var mnemonic = "stage left now enforce rebuild antique mistake zoo build sudden engage fitness";

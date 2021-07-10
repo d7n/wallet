@@ -1,1 +1,1 @@
-var mnemonic = "sea decade room volume replace future road share weekend night cause common";
+var mnemonic = "fortune fan walnut image balance seek popular giant tiger say man still";

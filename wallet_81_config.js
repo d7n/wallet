@@ -1,1 +1,1 @@
-var mnemonic = "palace leg gift flush people resemble evidence athlete blame shrimp depart garment";
+var mnemonic = "doll toast sing please allow direct rely weekend network pretty science transfer";

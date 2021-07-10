@@ -1,1 +1,1 @@
-var mnemonic = "flat head primary egg prevent light enough season video giraffe forget flip";
+var mnemonic = "thought magnet employ tumble always human soul grow rubber throw summer circle";

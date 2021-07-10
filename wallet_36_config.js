@@ -1,1 +1,1 @@
-var mnemonic = "car sibling enact myth measure obvious dust tortoise exit love spider hard";
+var mnemonic = "grocery goat mind section ocean real crowd review ask impact mirror teach";

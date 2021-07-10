@@ -1,1 +1,1 @@
-var mnemonic = "build chef scout caution notable board input unknown salad focus fiscal equip";
+var mnemonic = "chronic session legend appear sound express coral exotic there lunch shop pilot";

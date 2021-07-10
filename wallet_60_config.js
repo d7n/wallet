@@ -1,1 +1,1 @@
-var mnemonic = "lab finish box swing latin anxiety volume enter draft design aspect sausage";
+var mnemonic = "champion movie bamboo elite void rifle horse ridge struggle alpha rule correct";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral pull patient ginger universe index large brisk success reform horn grab";
+var mnemonic = "era permit wrong drift visual spoil robust aunt number brush anxiety write";

@@ -1,1 +1,1 @@
-var mnemonic = "claim ski early easy analyst remind leaf ahead jealous victory share glance";
+var mnemonic = "left click spike person credit throw oyster stable knock increase aunt cross";

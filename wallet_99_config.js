@@ -1,1 +1,1 @@
-var mnemonic = "maze jeans harsh license salon enhance above demise grow scrub rice buzz";
+var mnemonic = "six cover globe inch canvas split alarm cross foam torch fringe before";

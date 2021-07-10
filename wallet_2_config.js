@@ -1,1 +1,1 @@
-var mnemonic = "silly jeans resource morning battle fruit empower human coil path defy strategy";
+var mnemonic = "onion rebel taxi edit armor access job cancel bamboo fancy dose flag";

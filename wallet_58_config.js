@@ -1,1 +1,1 @@
-var mnemonic = "fever boat bridge trial clock resist yard spirit olympic rare scene radio";
+var mnemonic = "mountain now dove breeze frozen color hint knee false spring pencil powder";

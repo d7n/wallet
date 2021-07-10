@@ -1,1 +1,1 @@
-var mnemonic = "response moon frost loyal cruise inmate valley fun march kit fault hen";
+var mnemonic = "dish nature symbol endless victory sugar term upgrade nephew chat crime weekend";

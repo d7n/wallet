@@ -1,1 +1,1 @@
-var mnemonic = "tide either crater price calm boost bike satoshi option strike brand plastic";
+var mnemonic = "sand fit exile goddess hub test cluster carbon tilt between clean crowd";

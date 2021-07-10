@@ -1,1 +1,1 @@
-var mnemonic = "basic rough vehicle robust caught actor despair duck minor knock choice trigger";
+var mnemonic = "pony box calm climb chat public cloth weapon almost tilt dial foster";

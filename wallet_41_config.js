@@ -1,1 +1,1 @@
-var mnemonic = "intact wolf soup clarify cycle tonight curtain diesel coffee pill bulk settle";
+var mnemonic = "attract alien share above wool bread rice funny outdoor already song fluid";

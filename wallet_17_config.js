@@ -1,1 +1,1 @@
-var mnemonic = "riot claw strategy today pistol garage work rail correct drama weather avocado";
+var mnemonic = "this believe elevator erase pigeon garbage next park roast position rubber source";
