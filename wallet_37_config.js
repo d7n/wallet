@@ -1,1 +1,1 @@
-var mnemonic = "such accuse sustain spatial drink era adjust cycle zero two rookie install";
+var mnemonic = "middle aisle busy laptop nurse across execute come okay light stairs gospel";

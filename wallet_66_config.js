@@ -1,1 +1,1 @@
-var mnemonic = "enough welcome purchase elder diamond exotic curve tower mercy ticket around invite";
+var mnemonic = "vast crisp furnace bullet notable tenant also tomorrow build acid dwarf bundle";

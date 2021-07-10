@@ -1,1 +1,1 @@
-var mnemonic = "rent life kitten depend hint ahead wash doll father zoo suspect chief";
+var mnemonic = "degree aunt multiply despair segment muffin bid gallery monkey reason crunch enact";

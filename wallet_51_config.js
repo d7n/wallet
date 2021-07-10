@@ -1,1 +1,1 @@
-var mnemonic = "patch curious gadget multiply west risk holiday reward weekend gown snack cat";
+var mnemonic = "slogan order maid clinic tree file drive camp end tragic push fiscal";

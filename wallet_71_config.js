@@ -1,1 +1,1 @@
-var mnemonic = "gesture final easy amazing clap help invite wedding marriage amazing viable lesson";
+var mnemonic = "carbon hotel toddler hundred six battle adjust fatal notable select blossom time";

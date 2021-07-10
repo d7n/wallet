@@ -1,1 +1,1 @@
-var mnemonic = "curtain undo lecture flight basket lecture library patient sick also spray menu";
+var mnemonic = "erode supply view enforce agent sad loyal bulb exercise gauge oak comic";

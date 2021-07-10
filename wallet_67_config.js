@@ -1,1 +1,1 @@
-var mnemonic = "check champion cupboard exhaust eight slide boss soap trigger quantum test ceiling";
+var mnemonic = "also grief recall dinosaur cover rebuild agent system script meat aware pitch";

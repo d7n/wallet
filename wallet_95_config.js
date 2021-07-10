@@ -1,1 +1,1 @@
-var mnemonic = "photo science chuckle dust net habit diet arrow fiction cloth grace motion";
+var mnemonic = "proof aim object swim fantasy local inhale attend review differ senior door";

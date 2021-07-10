@@ -1,1 +1,1 @@
-var mnemonic = "odor pupil collect rent vapor umbrella fork enforce design tape divorce syrup";
+var mnemonic = "demise egg help connect dizzy globe bundle shoe tongue grant estate lunch";

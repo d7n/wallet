@@ -1,1 +1,1 @@
-var mnemonic = "museum start heart sunset vicious cricket enter volume lyrics salon alley cushion";
+var mnemonic = "book enlist remove buzz index agent wet book damage push tiny pony";

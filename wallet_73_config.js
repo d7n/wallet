@@ -1,1 +1,1 @@
-var mnemonic = "thank disorder space dinosaur need bacon bike rose grit grit vintage differ";
+var mnemonic = "priority relief script health tiny era code athlete canyon flame witness skull";

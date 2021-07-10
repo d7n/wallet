@@ -1,1 +1,1 @@
-var mnemonic = "brief rubber buyer ski under gap owner hint office soldier zebra angry";
+var mnemonic = "token theme original fence erupt caution portion ramp ladder fever flip end";

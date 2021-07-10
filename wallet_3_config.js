@@ -1,1 +1,1 @@
-var mnemonic = "size enforce inject erupt attend hotel zero faculty tool chicken cost muscle";
+var mnemonic = "scan spell cash benefit stove announce female virus ribbon timber stadium goose";

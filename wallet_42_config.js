@@ -1,1 +1,1 @@
-var mnemonic = "goddess wrist special fat roof top true easily frozen morning dad exclude";
+var mnemonic = "spend sausage slender repeat access remember ensure speed find bracket toward client";

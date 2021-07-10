@@ -1,1 +1,1 @@
-var mnemonic = "mimic virtual energy reduce wall tail speak gain grace toddler antenna dilemma";
+var mnemonic = "ecology autumn over unique mandate entire island ginger three banana virtual knock";

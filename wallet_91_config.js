@@ -1,1 +1,1 @@
-var mnemonic = "live side honey domain hard theory someone blast segment gauge bullet joy";
+var mnemonic = "depth sunset answer suggest lamp step like depart ranch series label praise";

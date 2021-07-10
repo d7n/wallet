@@ -1,1 +1,1 @@
-var mnemonic = "weapon yard chuckle entire opinion poem town illness chaos attack capital spin";
+var mnemonic = "inquiry lend student blood tongue start false ocean toddler main fade blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "invest weapon farm dutch flee quote pigeon proud wasp unable replace lion";
+var mnemonic = "snow execute valley model jaguar vital flat crash before fly giraffe elephant";

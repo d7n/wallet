@@ -1,1 +1,1 @@
-var mnemonic = "unfair acoustic able defy main aunt act curve congress cupboard renew undo";
+var mnemonic = "wage evoke insect oak wash auto coffee agree kit tragic talent broom";

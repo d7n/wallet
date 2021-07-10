@@ -1,1 +1,1 @@
-var mnemonic = "boil bus fine blur stick play radar harvest chase nose brisk twin";
+var mnemonic = "quit execute robot toss sock juice ugly dizzy cause term insect grace";

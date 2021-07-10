@@ -1,1 +1,1 @@
-var mnemonic = "forest oppose rail coach exile melt sense another luggage define mosquito stock";
+var mnemonic = "element scrap rely charge void afford flock myth author evidence relax airport";

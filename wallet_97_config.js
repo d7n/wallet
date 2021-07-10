@@ -1,1 +1,1 @@
-var mnemonic = "wage cook enough club amused oak sauce rotate seed heavy cram wing";
+var mnemonic = "maximum that resemble grunt joke omit glove tone taste aerobic lunar flame";

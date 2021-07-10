@@ -1,1 +1,1 @@
-var mnemonic = "leopard cabbage solid normal whale bar surprise grunt focus essence leader immense";
+var mnemonic = "wish also hurry tennis typical state dial gym broken derive hood weapon";

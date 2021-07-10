@@ -1,1 +1,1 @@
-var mnemonic = "mind wide supreme question inch effort stadium jacket robust visit become repeat";
+var mnemonic = "first common warm chalk clown flush boss jazz talk pole observe keep";

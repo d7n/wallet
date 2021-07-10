@@ -1,1 +1,1 @@
-var mnemonic = "develop dial boy lizard hobby correct crop name festival kit tiny farm";
+var mnemonic = "make museum thumb moon staff lawn envelope column canoe clerk nothing life";

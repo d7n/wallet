@@ -1,1 +1,1 @@
-var mnemonic = "evolve entry crater pistol borrow embody river apple enemy soda spell spell";
+var mnemonic = "arrange menu crumble brain tongue amount frog ramp bean blue govern toddler";

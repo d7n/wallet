@@ -1,1 +1,1 @@
-var mnemonic = "capital fine edge express van amused afraid prize invite thought option project";
+var mnemonic = "chief change market bleak jaguar confirm cage sick raw amused embody rescue";

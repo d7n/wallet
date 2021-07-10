@@ -1,1 +1,1 @@
-var mnemonic = "mule victory switch arrive abandon beyond horror dirt organ lawn skirt clutch";
+var mnemonic = "double fashion pigeon safe install jacket broom fashion wide provide antique caught";

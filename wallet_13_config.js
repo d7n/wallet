@@ -1,1 +1,1 @@
-var mnemonic = "slush argue patient giant trim ecology clever adult rhythm lounge repeat lab";
+var mnemonic = "embody evil slot frozen fruit idle engage shield erupt fine cattle faith";

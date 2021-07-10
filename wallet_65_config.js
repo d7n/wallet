@@ -1,1 +1,1 @@
-var mnemonic = "flavor lemon mystery pig private vacant exhibit text glory wealth laugh afraid";
+var mnemonic = "mercy share you century advance fault coconut snake raccoon ramp much soap";

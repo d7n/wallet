@@ -1,1 +1,1 @@
-var mnemonic = "fiber forest build purchase cart decrease what else tray lucky accident mind";
+var mnemonic = "crime segment memory cake increase shop crack often nerve today lock keep";

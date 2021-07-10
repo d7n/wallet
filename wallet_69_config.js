@@ -1,1 +1,1 @@
-var mnemonic = "inspire purse scorpion dash usual clap survey bacon extra chief bicycle blur";
+var mnemonic = "excess make state cover infant switch hope degree cricket sugar aware observe";

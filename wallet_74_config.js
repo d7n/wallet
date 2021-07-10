@@ -1,1 +1,1 @@
-var mnemonic = "super sponsor people immune mobile chief exchange denial prepare scheme tomato toast";
+var mnemonic = "tray report ahead hollow fish pretty pizza lamp dust section panic meat";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow twelve expand can fall runway art diet erode thumb symbol extra";
+var mnemonic = "repair canvas ranch ceiling nephew sight dirt tourist roast bridge cake skin";

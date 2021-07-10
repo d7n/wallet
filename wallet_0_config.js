@@ -1,1 +1,1 @@
-var mnemonic = "prison unfold mom glare extra bag region identify tell health age solar";
+var mnemonic = "mix snack judge culture utility elevator basic depend decorate valid gospel lion";

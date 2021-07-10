@@ -1,1 +1,1 @@
-var mnemonic = "speak victory spring liberty manage weather raven able pink find daring bunker";
+var mnemonic = "pear actress spoil pigeon give gown unfair idea radio december survey mystery";

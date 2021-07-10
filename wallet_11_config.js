@@ -1,1 +1,1 @@
-var mnemonic = "urban stove equip sock rabbit body north royal script fire antenna deal";
+var mnemonic = "balance reflect picnic divorce naive smooth life rival bus coffee knock present";

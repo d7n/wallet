@@ -1,1 +1,1 @@
-var mnemonic = "liquid abuse snake keen decide hill renew seed price remove forest pulse";
+var mnemonic = "cage other family possible catch dizzy manual sentence discover interest master learn";

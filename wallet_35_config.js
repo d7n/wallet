@@ -1,1 +1,1 @@
-var mnemonic = "sing crash use door dirt lunch retire symptom name mesh cruise foot";
+var mnemonic = "solid man all close punch become depart gain bike ribbon essay keep";

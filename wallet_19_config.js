@@ -1,1 +1,1 @@
-var mnemonic = "family roof post brass badge liberty kind fury pig edge bike drum";
+var mnemonic = "trick immense buzz universe taxi shoot upgrade silk target zoo sound pitch";

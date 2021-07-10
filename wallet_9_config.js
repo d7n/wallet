@@ -1,1 +1,1 @@
-var mnemonic = "liquid fault scout service asthma wide around range fade violin snap switch";
+var mnemonic = "pear pass powder grass action sample shy carpet move midnight always dizzy";

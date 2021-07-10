@@ -1,1 +1,1 @@
-var mnemonic = "expire ghost sand atom garage able wide affair chair exercise bright current";
+var mnemonic = "limb prepare infant connect reopen recycle term reason degree write head slow";

@@ -1,1 +1,1 @@
-var mnemonic = "proof fringe unaware legal road change leg ritual swing hurt misery wash";
+var mnemonic = "prize mutual owner inmate hazard horse level hint response cable future army";

@@ -1,1 +1,1 @@
-var mnemonic = "original fiscal online devote eagle custom force grief uniform youth outside attend";
+var mnemonic = "citizen clinic problem barrel almost cousin beauty setup transfer lava fade cash";

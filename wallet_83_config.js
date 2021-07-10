@@ -1,1 +1,1 @@
-var mnemonic = "elite silly stereo unique duty predict enforce lesson satoshi kite tortoise mesh";
+var mnemonic = "bargain boost kid wreck sad priority wink absurd stereo pact young board";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf insane toward rifle blanket celery problem audit casual bachelor distance mind";
+var mnemonic = "artefact phone oak exercise day powder medal green mouse diesel worth gas";

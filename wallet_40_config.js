@@ -1,1 +1,1 @@
-var mnemonic = "play subway explain easy carry desk rack knock uniform plastic august wish";
+var mnemonic = "palm shallow chronic change enemy engage damp slam bachelor paper fish proof";

@@ -1,1 +1,1 @@
-var mnemonic = "gate noble transfer vault measure work leisure dynamic cram panther able hybrid";
+var mnemonic = "lion frequent wisdom hunt best wage pear embody frozen seed lab until";

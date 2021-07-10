@@ -1,1 +1,1 @@
-var mnemonic = "pond emerge zone taxi danger patient muffin shuffle fringe second casino speak";
+var mnemonic = "setup word hero mule popular youth scatter fold eight innocent slender oppose";

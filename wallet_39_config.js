@@ -1,1 +1,1 @@
-var mnemonic = "grunt gather obtain drama average mother vehicle clay festival hat cactus heavy";
+var mnemonic = "oblige cruise myself super clarify fashion happy cricket zero pet favorite cost";

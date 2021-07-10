@@ -1,1 +1,1 @@
-var mnemonic = "push carry embark pill city gift cake when seat awkward palm thumb";
+var mnemonic = "tenant diamond blush monitor pistol left capital possible divert cabbage path citizen";

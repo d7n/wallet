@@ -1,1 +1,1 @@
-var mnemonic = "sport leader duck bleak stove tribe region glow essence maple enter prison";
+var mnemonic = "tree brass odor sick wage crucial mask world story beach vital bulk";

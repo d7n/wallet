@@ -1,1 +1,1 @@
-var mnemonic = "smoke liberty asset still bar bomb spray economy snake lounge ginger square";
+var mnemonic = "funny tissue casino age ribbon march marine slam ill review huge decade";

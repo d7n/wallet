@@ -1,1 +1,1 @@
-var mnemonic = "draw resource gauge when lesson rain trouble nation speed age transfer network";
+var mnemonic = "airport calm surround train knee pigeon seat gospel plunge comic suit outer";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin glide spare useless leopard decide absurd lucky elbow labor heart elephant";
+var mnemonic = "sure priority beach runway certain addict heart remove tattoo reject aunt divorce";

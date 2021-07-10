@@ -1,1 +1,1 @@
-var mnemonic = "rose wreck hammer intact topic crisp social two night affair jump subway";
+var mnemonic = "ridge muscle knock barely slow virtual buyer relief express head lab front";

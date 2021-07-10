@@ -1,1 +1,1 @@
-var mnemonic = "fit tool embrace they glare erode sustain shine wire piece two about";
+var mnemonic = "praise until chase hand armor afford story matrix habit leisure refuse wrong";

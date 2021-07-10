@@ -1,1 +1,1 @@
-var mnemonic = "tornado smart badge picnic mutual oil fitness steak organ total catalog boost";
+var mnemonic = "enlist outside suggest twelve win retire mule age custom glide amateur afraid";

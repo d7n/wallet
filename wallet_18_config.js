@@ -1,1 +1,1 @@
-var mnemonic = "forest crowd tilt price town novel series rapid dream curious clutch city";
+var mnemonic = "winter bright toast novel infant hover fame company neck quiz expect zone";

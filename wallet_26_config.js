@@ -1,1 +1,1 @@
-var mnemonic = "screen define unveil blind ostrich multiply symptom apple vintage wild picnic fat";
+var mnemonic = "jazz enhance robust nephew night maple expose situate they crater crowd subject";

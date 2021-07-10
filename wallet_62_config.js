@@ -1,1 +1,1 @@
-var mnemonic = "fix cheese orient speak glow extra shrug prefer dance three spirit spirit";
+var mnemonic = "divert trial escape bird boost frown pipe anxiety sugar trick certain night";

@@ -1,1 +1,1 @@
-var mnemonic = "absent sausage sibling step ankle unit wash afford defense jungle dial shaft";
+var mnemonic = "nature fit film boil couch diesel before stem vast try earth city";

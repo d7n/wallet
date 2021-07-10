@@ -1,1 +1,1 @@
-var mnemonic = "cake rough clock burst world upon upgrade culture bid tomato fetch equip";
+var mnemonic = "bicycle bless same sick wrestle sustain reveal farm vendor mistake insect such";

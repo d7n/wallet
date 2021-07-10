@@ -1,1 +1,1 @@
-var mnemonic = "local volume hurt sphere sugar dizzy close leave glimpse room seed caught";
+var mnemonic = "walnut verb battle today roof champion twelve purpose utility question random piano";

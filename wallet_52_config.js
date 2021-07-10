@@ -1,1 +1,1 @@
-var mnemonic = "viable elegant daring earn tiny cherry jump still crash soul denial busy";
+var mnemonic = "yellow main crack differ slab spin inject heavy habit case prefer toddler";

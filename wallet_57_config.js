@@ -1,1 +1,1 @@
-var mnemonic = "wisdom noise laugh romance spot tired room uphold lock worth scrap immune";
+var mnemonic = "car rule maple hello fit genius label hen inch polar leisure drip";

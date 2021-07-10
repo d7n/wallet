@@ -1,1 +1,1 @@
-var mnemonic = "vital expose rent come grant festival sick wrestle process loud subway trial";
+var mnemonic = "orange invest economy trial basket over pen virtual warrior phrase obvious inflict";

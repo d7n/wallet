@@ -1,1 +1,1 @@
-var mnemonic = "correct spray joy garlic blood answer second winner decorate stereo scatter more";
+var mnemonic = "multiply deer egg parade cycle lunch cart found strike question ocean message";

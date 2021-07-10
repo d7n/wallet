@@ -1,1 +1,1 @@
-var mnemonic = "banana lake grain scan judge pumpkin differ buzz chimney thunder explain attack";
+var mnemonic = "annual arrow limb decline major satoshi stereo grow cry scheme discover delay";

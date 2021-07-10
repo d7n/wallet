@@ -1,1 +1,1 @@
-var mnemonic = "memory ball decorate pupil neck focus rebuild maximum room tonight collect jeans";
+var mnemonic = "narrow sand start luxury position approve solution arena same view wolf impact";

@@ -1,1 +1,1 @@
-var mnemonic = "educate harvest month admit stage other sustain model plate blast busy priority";
+var mnemonic = "stool window fragile soldier young funny empower diagram record right gauge digital";

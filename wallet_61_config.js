@@ -1,1 +1,1 @@
-var mnemonic = "sure scissors topic usual chapter patch produce nose airport close ankle apart";
+var mnemonic = "toilet forward noodle lawn differ grief desk symptom expire situate quote jewel";

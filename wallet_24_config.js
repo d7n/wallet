@@ -1,1 +1,1 @@
-var mnemonic = "guide glue garlic quarter ordinary trophy display novel adjust script runway situate";
+var mnemonic = "token bird strategy festival song first combine denial hero slide address under";

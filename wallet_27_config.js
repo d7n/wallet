@@ -1,1 +1,1 @@
-var mnemonic = "throw marine device hungry bring explain dune style dish beach panel school";
+var mnemonic = "antenna medal guitar among repair gesture attend smile night depend survey copper";

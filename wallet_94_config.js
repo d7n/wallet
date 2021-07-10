@@ -1,1 +1,1 @@
-var mnemonic = "nose link toss pencil media quality injury frozen average invite pudding learn";
+var mnemonic = "prevent bamboo wreck run worry kangaroo label frame device pave crunch civil";

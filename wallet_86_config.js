@@ -1,1 +1,1 @@
-var mnemonic = "banana penalty size exile cereal abstract toss borrow ankle law glory stove";
+var mnemonic = "torch rural write token bronze pear develop label tumble identify divorce estate";

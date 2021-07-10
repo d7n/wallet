@@ -1,1 +1,1 @@
-var mnemonic = "base kit hub cereal fog task frozen nut concert park lava art";
+var mnemonic = "fly describe casino strike video pledge kiwi segment supply purchase wave sea";

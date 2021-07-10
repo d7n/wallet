@@ -1,1 +1,1 @@
-var mnemonic = "public faith torch source weekend merry harsh response umbrella bronze crunch garage";
+var mnemonic = "energy private myself knife aunt quiz soap stereo silly kitchen harbor immense";

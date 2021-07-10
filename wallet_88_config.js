@@ -1,1 +1,1 @@
-var mnemonic = "search grit eternal aspect same donor expect school planet side ocean junk";
+var mnemonic = "round sleep urge upon people nature sunny sun whisper siege lift decade";

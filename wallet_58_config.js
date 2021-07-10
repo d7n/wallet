@@ -1,1 +1,1 @@
-var mnemonic = "lens bunker hotel buddy addict apology voyage tackle glide supreme label region";
+var mnemonic = "hospital color drill video taste laundry wait pioneer route chaos among grape";

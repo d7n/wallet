@@ -1,1 +1,1 @@
-var mnemonic = "arrange fuel clinic teach sheriff arrange other august agent bitter surface motion";
+var mnemonic = "inch dove risk green issue cake vehicle squeeze audit design kiss trade";

@@ -1,1 +1,1 @@
-var mnemonic = "claim security bar fence oblige goddess gallery radio notable hotel tuna wet";
+var mnemonic = "relax network way post topple breeze manage used thought surface approve patch";

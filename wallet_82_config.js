@@ -1,1 +1,1 @@
-var mnemonic = "allow zero finish blur risk horror spray spice cotton fitness tunnel text";
+var mnemonic = "letter point install zero false scale rail guide milk harsh broccoli cactus";

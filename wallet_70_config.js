@@ -1,1 +1,1 @@
-var mnemonic = "simple question diamond blossom push before bridge snow laptop fork pitch goat";
+var mnemonic = "already congress harbor suspect result ranch neither heart helmet tray salt wide";

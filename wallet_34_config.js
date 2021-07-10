@@ -1,1 +1,1 @@
-var mnemonic = "deliver area author harsh olive become traffic cabbage enhance myth weekend salad";
+var mnemonic = "noodle slab flag sheriff ghost city behave panel atom label menu trend";

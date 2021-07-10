@@ -1,1 +1,1 @@
-var mnemonic = "hair amazing shiver biology pool business egg fish pause sadness enough item";
+var mnemonic = "biology envelope unhappy glimpse math industry inside midnight sunset noise try rare";

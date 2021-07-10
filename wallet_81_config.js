@@ -1,1 +1,1 @@
-var mnemonic = "velvet gentle affair merry settle blush dizzy wolf relax replace raccoon undo";
+var mnemonic = "hole stool deputy margin invest upper squirrel tree payment unlock stage suit";

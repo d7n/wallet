@@ -1,1 +1,1 @@
-var mnemonic = "crack rocket wave funny puzzle junior decline purchase glad strike monster crunch";
+var mnemonic = "garden someone uncover breeze kit school little school rabbit pave enjoy coast";

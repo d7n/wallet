@@ -1,1 +1,1 @@
-var mnemonic = "guide enforce open pact neutral original jungle program zebra asset use tobacco";
+var mnemonic = "double decrease envelope almost tiny bicycle armed view baby total fever address";

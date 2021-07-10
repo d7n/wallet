@@ -1,1 +1,1 @@
-var mnemonic = "hobby witness match coffee hair visa seed century leave gesture credit exist";
+var mnemonic = "electric opera addict friend peanut fault peasant unveil monkey street fatigue practice";

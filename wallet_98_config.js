@@ -1,1 +1,1 @@
-var mnemonic = "volume attend left frame response cry laugh machine cycle fan blouse solve";
+var mnemonic = "light lava unique stuff job soul hero monkey car neck inside gift";

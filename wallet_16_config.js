@@ -1,1 +1,1 @@
-var mnemonic = "task current hint gloom model secret distance couch inject arrow orbit foster";
+var mnemonic = "annual donor ethics juice zebra orbit album siege forget power shock east";

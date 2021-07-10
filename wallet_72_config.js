@@ -1,1 +1,1 @@
-var mnemonic = "orange crane armed fold wall mesh satisfy visual dice same stick monster";
+var mnemonic = "school result rail suffer street napkin depart mistake drum issue toilet mother";
