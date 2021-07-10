@@ -1,1 +1,1 @@
-var mnemonic = "border mushroom essay regular venture smile leisure tumble now coffee kangaroo hidden";
+var mnemonic = "input common disease grab sell worry diary kidney myth inform weekend task";

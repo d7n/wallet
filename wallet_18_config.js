@@ -1,1 +1,1 @@
-var mnemonic = "tuition horror harsh install minute car best child diary border lion fragile";
+var mnemonic = "kid vessel mixed canvas senior act borrow bamboo lounge grid universe robot";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp hurdle kick tissue view ignore actual employ high turtle aim thumb";
+var mnemonic = "gym camp pony they riot glare enjoy sand hotel stuff wear maple";

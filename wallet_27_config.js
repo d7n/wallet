@@ -1,1 +1,1 @@
-var mnemonic = "dish nature symbol endless victory sugar term upgrade nephew chat crime weekend";
+var mnemonic = "tuna pumpkin pyramid industry evil account airport sand worry pony alert seat";

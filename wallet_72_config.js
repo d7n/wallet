@@ -1,1 +1,1 @@
-var mnemonic = "left effort pelican love accident party six head second pulp talent myself";
+var mnemonic = "route pig enjoy bird want ugly victory kid expand total edit coach";

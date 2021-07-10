@@ -1,1 +1,1 @@
-var mnemonic = "unfold bread meadow below moral vendor expect notice type glow black list";
+var mnemonic = "object leisure split double thing myth goose room ugly bind rent crawl";

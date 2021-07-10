@@ -1,1 +1,1 @@
-var mnemonic = "chronic session legend appear sound express coral exotic there lunch shop pilot";
+var mnemonic = "reveal youth pond gap buyer bacon wild scout wing theme later cute";

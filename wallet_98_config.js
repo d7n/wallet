@@ -1,1 +1,1 @@
-var mnemonic = "mother enroll misery stay bitter topple ball gaze want inside frost family";
+var mnemonic = "rigid inhale cereal lumber impact garment plug artwork member music keen version";

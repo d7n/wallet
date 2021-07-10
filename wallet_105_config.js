@@ -1,1 +1,1 @@
-var mnemonic = "chair whale bid vicious narrow join approve photo fantasy cruise magnet small";
+var mnemonic = "garden brave slim gas ride polar identify young size sure already okay";

@@ -1,1 +1,1 @@
-var mnemonic = "range sphere guard near sugar vehicle globe wheel tiger acid taxi network";
+var mnemonic = "page grape you excess waste prosper snow arrange worry aunt hood emerge";

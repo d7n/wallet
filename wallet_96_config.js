@@ -1,1 +1,1 @@
-var mnemonic = "sword coyote cement solid hard mistake liar shrug decide obscure fashion dry";
+var mnemonic = "slow alarm protect debris wagon slender vacant brand vast vast crystal gate";

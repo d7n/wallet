@@ -1,1 +1,1 @@
-var mnemonic = "memory source online milk dawn card embody increase hand pitch reward ensure";
+var mnemonic = "song balcony horse tortoise garage crater armed balcony secret eagle salad gun";

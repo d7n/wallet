@@ -1,1 +1,1 @@
-var mnemonic = "tent enforce ankle scale force awkward move glide oppose umbrella one build";
+var mnemonic = "tooth actual text orchard vehicle law amazing hip rent city dance general";

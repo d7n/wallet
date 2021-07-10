@@ -1,1 +1,1 @@
-var mnemonic = "oven sound lumber execute candy file squeeze tourist sweet taste fiber damage";
+var mnemonic = "smooth cart bar affair undo solid blame later little balcony tuna income";

@@ -1,1 +1,1 @@
-var mnemonic = "thank episode broccoli shallow direct please copper excuse tomorrow sunny sign parrot";
+var mnemonic = "want rule library coconut elder concert walk trip search mobile shaft tunnel";

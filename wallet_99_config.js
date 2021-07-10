@@ -1,1 +1,1 @@
-var mnemonic = "six cover globe inch canvas split alarm cross foam torch fringe before";
+var mnemonic = "middle round certain innocent hollow purity payment entry cotton memory sheriff rebuild";

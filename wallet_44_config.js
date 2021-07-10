@@ -1,1 +1,1 @@
-var mnemonic = "recall rose balcony version finger layer artwork remove novel weather beyond gate";
+var mnemonic = "clog sense fabric beach middle thank shiver zoo type casino kidney then";

@@ -1,1 +1,1 @@
-var mnemonic = "system life situate hazard sheriff behind teach security reopen isolate antique laundry";
+var mnemonic = "roast cancel bridge water swim brain music cement depend beyond cream cover";

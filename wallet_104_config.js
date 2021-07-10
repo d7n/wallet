@@ -1,1 +1,1 @@
-var mnemonic = "insane chicken agree shed legend junk cake result unhappy hood absent enter";
+var mnemonic = "clay bag core hobby champion better despair lonely used dignity latin uphold";

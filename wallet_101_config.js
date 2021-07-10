@@ -1,1 +1,1 @@
-var mnemonic = "lyrics inside check diesel vicious thank talent club since usual pledge bone";
+var mnemonic = "naive between service vivid woman goddess unlock leisure olympic spoon produce road";

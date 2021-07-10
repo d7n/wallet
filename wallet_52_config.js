@@ -1,1 +1,1 @@
-var mnemonic = "retreat plug crucial pyramid time demand they universe cargo acquire decide charge";
+var mnemonic = "captain recycle click debris zoo decrease hero second awake rebuild broccoli urge";

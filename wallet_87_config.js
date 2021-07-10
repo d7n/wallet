@@ -1,1 +1,1 @@
-var mnemonic = "fortune shield alpha tourist drift liberty coil concert rib vehicle legend popular";
+var mnemonic = "hybrid tiny pumpkin double tragic minute echo tragic dentist draw boy spell";

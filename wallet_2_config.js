@@ -1,1 +1,1 @@
-var mnemonic = "onion rebel taxi edit armor access job cancel bamboo fancy dose flag";
+var mnemonic = "cannon employ between unable slice trigger dress rebel lumber round nuclear also";

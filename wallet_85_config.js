@@ -1,1 +1,1 @@
-var mnemonic = "cook mango either elevator payment modify turtle dash aunt must popular ring";
+var mnemonic = "open canoe fade decline post toe witness pond birth fork tonight juice";

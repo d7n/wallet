@@ -1,1 +1,1 @@
-var mnemonic = "huge spin female various glide steel copy canal desert average fatigue absent";
+var mnemonic = "census empty buyer ensure trend trouble tennis dress antique express meadow virtual";

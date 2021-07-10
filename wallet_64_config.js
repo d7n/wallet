@@ -1,1 +1,1 @@
-var mnemonic = "cereal group mirror dentist paddle all spawn yellow wheat census trade suffer";
+var mnemonic = "drill reveal include soul radio topic series climb concert ladder common knock";

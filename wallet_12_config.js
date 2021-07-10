@@ -1,1 +1,1 @@
-var mnemonic = "lemon figure transfer deal arrest magic shrimp upon recipe law vivid fragile";
+var mnemonic = "parrot tomorrow deny doll ridge mom antenna social noble answer side before";

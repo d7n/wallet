@@ -1,1 +1,1 @@
-var mnemonic = "sand fit exile goddess hub test cluster carbon tilt between clean crowd";
+var mnemonic = "post rail prize size seek into mango arch vivid diamond broccoli mandate";

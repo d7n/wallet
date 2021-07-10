@@ -1,1 +1,1 @@
-var mnemonic = "stereo cousin sun banana link obtain silver timber error dilemma caught utility";
+var mnemonic = "leave used lawn planet flag peasant drive lesson gadget treat stool share";

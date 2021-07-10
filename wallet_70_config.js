@@ -1,1 +1,1 @@
-var mnemonic = "artefact that square post priority obscure employ three sunny drum mesh now";
+var mnemonic = "trigger dress session belt cream coin armed border flock tooth dog disease";

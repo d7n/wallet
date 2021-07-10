@@ -1,1 +1,1 @@
-var mnemonic = "tattoo video taste spray spring banana unknown aware move trial industry popular";
+var mnemonic = "trigger siren knife payment charge jewel sail social siren chicken force service";

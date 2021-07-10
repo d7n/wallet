@@ -1,1 +1,1 @@
-var mnemonic = "rookie panda will pencil double garbage orient turn dynamic prepare honey apple";
+var mnemonic = "retreat utility pilot shuffle pudding milk east arrow stay lemon second hospital";

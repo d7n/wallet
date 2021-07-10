@@ -1,1 +1,1 @@
-var mnemonic = "essence light stool seminar brother dose immense undo banana another zebra affair";
+var mnemonic = "employ flat certain neck weapon tone casual become hospital draw chronic volcano";

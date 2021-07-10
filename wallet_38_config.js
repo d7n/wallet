@@ -1,1 +1,1 @@
-var mnemonic = "left click spike person credit throw oyster stable knock increase aunt cross";
+var mnemonic = "acid cave review mixture dinosaur approve hat potato polar card afraid broken";

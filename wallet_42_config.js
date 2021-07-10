@@ -1,1 +1,1 @@
-var mnemonic = "arrest desk need bike scout tip tonight patient wonder olympic bulk snap";
+var mnemonic = "cram clump word breeze over aunt senior title husband mistake segment erase";

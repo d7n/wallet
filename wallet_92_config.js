@@ -1,1 +1,1 @@
-var mnemonic = "era permit wrong drift visual spoil robust aunt number brush anxiety write";
+var mnemonic = "lecture increase blanket swim end casual typical century become elder nice nest";

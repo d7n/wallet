@@ -1,1 +1,1 @@
-var mnemonic = "regular impose boil evoke relax differ vacant fiction lawn close address sort";
+var mnemonic = "youth water pass pool veteran notable comfort uncle glue track era smoke";

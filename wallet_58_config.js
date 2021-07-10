@@ -1,1 +1,1 @@
-var mnemonic = "mountain now dove breeze frozen color hint knee false spring pencil powder";
+var mnemonic = "sunny dash load outer middle hood injury monkey hover amused just curve";

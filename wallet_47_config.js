@@ -1,1 +1,1 @@
-var mnemonic = "little buzz pause bundle enforce gas scrub nuclear plunge pull snow tunnel";
+var mnemonic = "sniff spin cable update nephew library bulb elbow dwarf project judge gown";

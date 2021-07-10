@@ -1,1 +1,1 @@
-var mnemonic = "riot industry strong reveal common ski camera canoe such purpose risk essence";
+var mnemonic = "practice hold tiger forest stone frog update reason learn pigeon fun gather";

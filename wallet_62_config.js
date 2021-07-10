@@ -1,1 +1,1 @@
-var mnemonic = "limit leader boat train margin thank car twelve giant dilemma quit frog";
+var mnemonic = "unique glory fish abstract valid nephew skill real pioneer local salmon purse";

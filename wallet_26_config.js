@@ -1,1 +1,1 @@
-var mnemonic = "program ill song water promote nephew survey recall deal bargain soccer because";
+var mnemonic = "vendor hospital deliver return desert excess blast tomorrow laundry check nature better";

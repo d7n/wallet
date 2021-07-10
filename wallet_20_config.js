@@ -1,1 +1,1 @@
-var mnemonic = "exercise lab coil street similar duck dose mad laundry evolve typical beef";
+var mnemonic = "nurse citizen chat frown sentence forest top smooth village enemy coin indicate";

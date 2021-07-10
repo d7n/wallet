@@ -1,1 +1,1 @@
-var mnemonic = "planet lazy legal address vault dove dance orient scrap blade merry spare";
+var mnemonic = "faith dune enforce inject emotion route praise rail collect pyramid false ordinary";

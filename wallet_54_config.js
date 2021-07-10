@@ -1,1 +1,1 @@
-var mnemonic = "stage left now enforce rebuild antique mistake zoo build sudden engage fitness";
+var mnemonic = "uncle emotion orient ticket ten swear welcome quiz umbrella slam peanut share";

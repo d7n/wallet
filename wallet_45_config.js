@@ -1,1 +1,1 @@
-var mnemonic = "put funny myself afraid divert lens exhaust know reveal swap bread parrot";
+var mnemonic = "result unveil awful garbage draft pupil choose sunset way plug hero piece";

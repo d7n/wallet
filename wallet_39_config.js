@@ -1,1 +1,1 @@
-var mnemonic = "alley deposit empty decline volume rain guess fun audit strategy call visit";
+var mnemonic = "science intact humble trend bundle december cover glove gorilla visual adapt intact";

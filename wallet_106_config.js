@@ -1,1 +1,1 @@
-var mnemonic = "derive illegal number rabbit hospital myth load violin evoke census figure galaxy";
+var mnemonic = "service predict pattern middle text age human wide episode protect lift mask";

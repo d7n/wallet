@@ -1,1 +1,1 @@
-var mnemonic = "doll toast sing please allow direct rely weekend network pretty science transfer";
+var mnemonic = "vague misery over together reform flock opera protect monster snake bleak dice";

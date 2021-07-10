@@ -1,1 +1,1 @@
-var mnemonic = "fortune fan walnut image balance seek popular giant tiger say man still";
+var mnemonic = "tobacco lava clinic vehicle animal all rice trim jungle collect way verb";

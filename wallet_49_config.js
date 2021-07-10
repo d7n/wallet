@@ -1,1 +1,1 @@
-var mnemonic = "grant assault scare carpet acquire path puppy bubble loyal slim teach grunt";
+var mnemonic = "jeans moment lounge reopen roof organ fun arrest poem caught various silly";

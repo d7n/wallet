@@ -1,1 +1,1 @@
-var mnemonic = "ability forum damp response forest lake buddy argue panel opera glance tape";
+var mnemonic = "notable habit deal prosper balcony coffee risk swear season warm vendor panda";

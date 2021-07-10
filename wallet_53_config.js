@@ -1,1 +1,1 @@
-var mnemonic = "bird lottery excite regret close great naive popular filter save lounge atom";
+var mnemonic = "engage clutch fork loop medal flush foam hospital turkey pear bottom potato";

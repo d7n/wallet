@@ -1,1 +1,1 @@
-var mnemonic = "uniform swim casual clutch remember kiwi since canal alert try dynamic begin";
+var mnemonic = "develop cable crystal quantum galaxy link dutch slight frown conduct illegal baby";

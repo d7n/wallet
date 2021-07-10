@@ -1,1 +1,1 @@
-var mnemonic = "space bounce fat void gate chat fee story mule flag winter buddy";
+var mnemonic = "glove tell outdoor exchange depart design perfect cushion syrup model ridge earth";

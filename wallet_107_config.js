@@ -1,1 +1,1 @@
-var mnemonic = "expose initial pig census south sustain twist sphere chunk scheme aisle close";
+var mnemonic = "sure sadness path tape pencil poem shrimp decrease income wisdom weird casual";

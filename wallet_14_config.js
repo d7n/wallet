@@ -1,1 +1,1 @@
-var mnemonic = "pony box calm climb chat public cloth weapon almost tilt dial foster";
+var mnemonic = "save random cube moral love latin clay soda flag brain clip whip";

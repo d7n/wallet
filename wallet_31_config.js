@@ -1,1 +1,1 @@
-var mnemonic = "echo air only crime exhibit session bid gym tag spend floor pelican";
+var mnemonic = "shaft chapter member lake position thought seminar popular pulp blush photo frog";

@@ -1,1 +1,1 @@
-var mnemonic = "attract alien share above wool bread rice funny outdoor already song fluid";
+var mnemonic = "inflict game drop sphere monitor quick pledge beauty treat shoulder kingdom moon";

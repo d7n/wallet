@@ -1,1 +1,1 @@
-var mnemonic = "infant indoor absurd gaze close antenna pumpkin bottom track rude bright couch";
+var mnemonic = "wash nothing top asset afford brush until piano absurd flip make panda";

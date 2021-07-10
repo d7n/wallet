@@ -1,1 +1,1 @@
-var mnemonic = "dish easily swarm rival cake soon manage thumb fringe lock sauce seed";
+var mnemonic = "broccoli road chat soda december result brush slide soap upon skull prosper";

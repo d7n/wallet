@@ -1,1 +1,1 @@
-var mnemonic = "bless kind noise scene nephew word sing grant game tortoise insane orange";
+var mnemonic = "robot economy fat eyebrow else dress soul nasty click test now blood";

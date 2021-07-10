@@ -1,1 +1,1 @@
-var mnemonic = "can document portion pottery poem fruit fashion weapon giant apart blood emerge";
+var mnemonic = "envelope peasant oppose aware chuckle property detail figure crew home fancy light";

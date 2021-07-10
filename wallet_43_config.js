@@ -1,1 +1,1 @@
-var mnemonic = "air update rug school bring immune income steel snack tackle topple pause";
+var mnemonic = "trophy recycle village razor offer peace embrace garment near demand horn humor";

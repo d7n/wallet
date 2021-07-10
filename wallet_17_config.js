@@ -1,1 +1,1 @@
-var mnemonic = "this believe elevator erase pigeon garbage next park roast position rubber source";
+var mnemonic = "august beauty blouse neck crack holiday token sun allow busy appear load";

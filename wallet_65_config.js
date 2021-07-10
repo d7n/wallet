@@ -1,1 +1,1 @@
-var mnemonic = "either then rabbit kite harvest artwork fury weapon crystal cinnamon opinion october";
+var mnemonic = "civil various wife blast primary option replace virus vessel panic blossom echo";

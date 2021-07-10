@@ -1,1 +1,1 @@
-var mnemonic = "girl transfer appear ski raw slide summer loyal dress swamp wash diet";
+var mnemonic = "rail twelve alley layer smile code trip quiz recycle push abstract friend";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup meat actress awful rain purity dignity later estate walnut cattle rail";
+var mnemonic = "awful mouse blood dove cram vocal pencil jelly early argue dragon fee";

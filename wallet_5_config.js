@@ -1,1 +1,1 @@
-var mnemonic = "cactus loop people olive aspect cake similar universe quarter unit fortune night";
+var mnemonic = "require hundred fiction tail enable board glare curtain lemon later into bid";

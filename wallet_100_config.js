@@ -1,1 +1,1 @@
-var mnemonic = "cactus unaware poem famous struggle curtain spider type concert cabbage budget suspect";
+var mnemonic = "home verify tilt grain trumpet gift also security alert point frost valley";

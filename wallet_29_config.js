@@ -1,1 +1,1 @@
-var mnemonic = "nothing exhibit cat balance super bird youth rabbit private major sad present";
+var mnemonic = "valid praise pyramid refuse company alpha nest burden grunt lab silk owner";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator frost salt diary danger switch latin afford orbit praise record frog";
+var mnemonic = "jewel panda prize autumn tag abuse fortune cross describe midnight adult author";

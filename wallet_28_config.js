@@ -1,1 +1,1 @@
-var mnemonic = "planet fish rose level fish change benefit grass alcohol lumber rally roof";
+var mnemonic = "noise question refuse welcome demise coach river base very skill second require";

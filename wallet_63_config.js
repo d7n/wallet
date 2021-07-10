@@ -1,1 +1,1 @@
-var mnemonic = "rhythm dynamic vacant reduce defense income ginger loan column trim wreck swarm";
+var mnemonic = "crumble initial indoor upset peace festival primary mushroom liberty little front lonely";

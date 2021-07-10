@@ -1,1 +1,1 @@
-var mnemonic = "spare myself odor random success know throw twice control quality hover awful";
+var mnemonic = "beach bar head hat brother check curtain brain tissue problem link pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "large similar hurt slow try system hedgehog mixed december forward people giraffe";
+var mnemonic = "act genre boat injury trouble orient pyramid impulse convince catch know host";

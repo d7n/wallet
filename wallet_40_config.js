@@ -1,1 +1,1 @@
-var mnemonic = "clever gadget mutual submit recall soccer artist gloom suspect myth move manual";
+var mnemonic = "seek degree sense expand calm mule measure leader bring axis question wage";

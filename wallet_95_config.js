@@ -1,1 +1,1 @@
-var mnemonic = "struggle cattle basic return original ginger wait picnic sorry hover dwarf kiwi";
+var mnemonic = "pledge salmon raven spoil exercise aunt win fiscal uniform habit tunnel diesel";

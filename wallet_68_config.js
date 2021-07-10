@@ -1,1 +1,1 @@
-var mnemonic = "laptop clown public giant include fatigue cause fade dwarf hidden eight humor";
+var mnemonic = "lizard drink female barely casino bronze alpha payment cool filter armor dog";

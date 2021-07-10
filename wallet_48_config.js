@@ -1,1 +1,1 @@
-var mnemonic = "angle stuff machine aunt tissue resemble neutral doll tragic vacant nephew silk";
+var mnemonic = "anchor wall dad trumpet rent matrix coffee grow cancel fringe wear horn";

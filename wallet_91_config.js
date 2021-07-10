@@ -1,1 +1,1 @@
-var mnemonic = "shed various noble stay upon chuckle lion raw owner vibrant crop pair";
+var mnemonic = "family donate transfer eternal regular have garbage party fluid pepper canvas venue";

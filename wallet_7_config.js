@@ -1,1 +1,1 @@
-var mnemonic = "exist guard choose song reflect float stairs connect half share uniform rug";
+var mnemonic = "inmate deal improve category today obvious orphan tumble confirm advice devote wrong";

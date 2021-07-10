@@ -1,1 +1,1 @@
-var mnemonic = "voyage beef waste broccoli exact insane culture slot govern slender update pioneer";
+var mnemonic = "one dove unhappy exchange cargo candy cabin hint ten vote image radar";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage door near face clap birth quarter ethics gap code trend seat";
+var mnemonic = "example fiber banner any ranch stem scale harbor pioneer radio scrub ticket";

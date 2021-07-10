@@ -1,1 +1,1 @@
-var mnemonic = "machine need draft steel potato reward side spoil laptop wire wage swift";
+var mnemonic = "bench glad morning veteran duty avoid invite soon use appear visual endorse";

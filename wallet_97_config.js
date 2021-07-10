@@ -1,1 +1,1 @@
-var mnemonic = "better robot congress first hair tiger tower frozen sting deal practice betray";
+var mnemonic = "notable one approve brisk across genius broom crash state brass link swallow";

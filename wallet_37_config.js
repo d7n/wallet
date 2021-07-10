@@ -1,1 +1,1 @@
-var mnemonic = "thought magnet employ tumble always human soul grow rubber throw summer circle";
+var mnemonic = "friend trend evolve key hill know hurt model little friend pelican language";

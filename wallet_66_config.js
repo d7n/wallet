@@ -1,1 +1,1 @@
-var mnemonic = "basket aware garbage excuse siren club body town purpose horror fault juice";
+var mnemonic = "festival harvest depth medal orchard quality keen horn peanut breeze siege visit";

@@ -1,1 +1,1 @@
-var mnemonic = "voice certain route case settle common horn option echo gown neglect toy";
+var mnemonic = "skin dynamic nerve call carry major drive language super motor refuse venture";

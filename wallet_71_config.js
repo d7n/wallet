@@ -1,1 +1,1 @@
-var mnemonic = "grow prize decorate topic limb embark journey fatigue vessel foil offer into";
+var mnemonic = "arena feel hour name rule report fury harsh breeze boil pumpkin taxi";

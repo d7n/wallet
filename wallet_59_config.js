@@ -1,1 +1,1 @@
-var mnemonic = "moon toast hotel refuse cost jewel card goddess devote play alien coffee";
+var mnemonic = "hurt anger attitude truth file tag agent catch outside gain key very";

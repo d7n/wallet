@@ -1,1 +1,1 @@
-var mnemonic = "couple sudden clean super slim able card cube spring later casual tide";
+var mnemonic = "wrap cement senior crew pretty correct view chest lyrics drill social average";
