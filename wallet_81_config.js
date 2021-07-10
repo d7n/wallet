@@ -1,1 +1,1 @@
-var mnemonic = "tuna betray metal health kitchen level aim exit luggage road earn way";
+var mnemonic = "fun acquire purpose custom taxi box bless found north devote until fury";

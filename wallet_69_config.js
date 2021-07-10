@@ -1,1 +1,1 @@
-var mnemonic = "finger avoid cool bring powder pear ozone hole shop nose defense crack";
+var mnemonic = "firm fatigue practice cigar tone buyer mistake snap bone envelope punch lion";

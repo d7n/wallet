@@ -1,1 +1,1 @@
-var mnemonic = "glow asthma jazz put goose elegant sad fork country hand exclude chair";
+var mnemonic = "mimic turkey number twin brush chuckle canal battle razor suggest noodle neglect";

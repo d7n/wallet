@@ -1,1 +1,1 @@
-var mnemonic = "treat shift style rail shed obtain hover decrease exile garbage argue chronic";
+var mnemonic = "law trigger trade absurd critic stay stick slim image faculty slab together";

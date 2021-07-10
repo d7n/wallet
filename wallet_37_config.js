@@ -1,1 +1,1 @@
-var mnemonic = "number guess deputy decide issue quick text frost abuse fetch stand rotate";
+var mnemonic = "upon palm rule crash north stem hotel off fiction close art brain";

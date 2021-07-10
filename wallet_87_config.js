@@ -1,1 +1,1 @@
-var mnemonic = "rib rib monitor differ eye expand position visa subject route rival bulb";
+var mnemonic = "arm bronze quarter way road victory mistake sweet source uniform say flush";

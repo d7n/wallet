@@ -1,1 +1,1 @@
-var mnemonic = "armor nest pretty unlock screen you hockey annual angry pig top dizzy";
+var mnemonic = "wrong scrap observe display tag alarm because provide erosion giant swallow voice";

@@ -1,1 +1,1 @@
-var mnemonic = "train artefact runway swim cloud spare glide winner century sock wedding west";
+var mnemonic = "task choose enroll analyst wife hungry seek forget culture wool destroy sort";

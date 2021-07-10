@@ -1,1 +1,1 @@
-var mnemonic = "job profit ozone famous rural buyer useless era toss casino cattle silly";
+var mnemonic = "scout salon already write place naive survey almost verify patient trap stool";

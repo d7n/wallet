@@ -1,1 +1,1 @@
-var mnemonic = "move risk patch beyond excite obtain sweet drift ensure under transfer grunt";
+var mnemonic = "liar fossil electric reason cart dinner ring similar door field physical elephant";

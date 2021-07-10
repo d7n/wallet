@@ -1,1 +1,1 @@
-var mnemonic = "stove galaxy decrease loud diamond grass faith unable bounce genuine sheriff benefit";
+var mnemonic = "modify document response mechanic blouse mistake flash learn response desert actor spare";

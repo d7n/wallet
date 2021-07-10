@@ -1,1 +1,1 @@
-var mnemonic = "bird image adjust scissors display before spirit throw fatal episode hill cheap";
+var mnemonic = "erupt voyage order vanish property toy pitch prevent average shop stable tattoo";

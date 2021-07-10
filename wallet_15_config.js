@@ -1,1 +1,1 @@
-var mnemonic = "begin hidden slab another reason lady protect guitar cupboard damp rural casual";
+var mnemonic = "struggle section risk minute athlete punch badge liar noodle fuel nominee aim";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology happy high useful few rely nature step remind easily file front";
+var mnemonic = "crime funny okay release limb table dwarf sting bargain daring finger host";

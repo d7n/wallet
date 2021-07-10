@@ -1,1 +1,1 @@
-var mnemonic = "draft palm begin donkey point honey option dance coast iron letter eyebrow";
+var mnemonic = "wool vast educate wash man steel success grow coffee tank gown shove";

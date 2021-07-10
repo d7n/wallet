@@ -1,1 +1,1 @@
-var mnemonic = "plastic antenna wrap shrimp gun wire discover olive display eight come recipe";
+var mnemonic = "brass state near famous wrong donate impulse general verify paper analyst energy";

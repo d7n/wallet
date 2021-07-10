@@ -1,1 +1,1 @@
-var mnemonic = "wide muscle lion surface museum tumble practice walk one clown injury distance";
+var mnemonic = "load divorce sound duck sure clump boy stumble pool use quarter cute";

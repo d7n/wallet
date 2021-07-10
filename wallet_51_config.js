@@ -1,1 +1,1 @@
-var mnemonic = "learn current cash pony original cannon price current south label adjust sick";
+var mnemonic = "crunch force coconut coral bottom fat remember unique lamp name feature click";

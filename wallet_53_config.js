@@ -1,1 +1,1 @@
-var mnemonic = "fix venture recycle much decorate add gaze marriage remove soon reject symptom";
+var mnemonic = "orbit hurry wrist garment swear winner blood modify sustain oppose wage regret";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon drastic scissors garden drip antenna thunder amount enrich shuffle reduce property";
+var mnemonic = "cash captain dawn cake rival sample stick cycle badge young drive media";

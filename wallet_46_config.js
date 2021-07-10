@@ -1,1 +1,1 @@
-var mnemonic = "wet sing odor mass tortoise lake maple appear chapter violin punch predict";
+var mnemonic = "save execute scare child sheriff indoor input fury inhale nature sting similar";

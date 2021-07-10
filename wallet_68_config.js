@@ -1,1 +1,1 @@
-var mnemonic = "chair swamp quantum light glue people damage surprise grid remind curtain flavor";
+var mnemonic = "miracle debate frequent tank trumpet clerk stumble valve master enrich hire tide";

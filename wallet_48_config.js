@@ -1,1 +1,1 @@
-var mnemonic = "shoe upgrade artwork ethics brush fatigue future two lock door reason paddle";
+var mnemonic = "hood opinion people mad spread venue exclude cable nominee bounce man brief";

@@ -1,1 +1,1 @@
-var mnemonic = "legal theory join one song hole call vocal door this express trust";
+var mnemonic = "bounce fluid ordinary wagon farm supreme boat twenty mother pumpkin script image";

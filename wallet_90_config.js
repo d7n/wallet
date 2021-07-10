@@ -1,1 +1,1 @@
-var mnemonic = "vapor amazing ripple grace opinion salt tree horse sketch vapor misery under";
+var mnemonic = "cook surge gap dignity fold over core obscure correct hazard duck trigger";

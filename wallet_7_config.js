@@ -1,1 +1,1 @@
-var mnemonic = "inmate donor cheap art flip exercise hockey label cabin anxiety nasty claim";
+var mnemonic = "assist noble defy chase aspect dice three surround fever water rabbit hurdle";

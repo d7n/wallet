@@ -1,1 +1,1 @@
-var mnemonic = "master hold auto notable style victory fork angle demise body near upset";
+var mnemonic = "virus piano actress flower drastic envelope observe liquid acid parrot vocal into";

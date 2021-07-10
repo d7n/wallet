@@ -1,1 +1,1 @@
-var mnemonic = "patrol couple fox amazing rescue dial actor repair entire envelope card between";
+var mnemonic = "quiz pencil demise chase discover purpose whisper parent bulk unfold dirt swim";

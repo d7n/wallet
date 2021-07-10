@@ -1,1 +1,1 @@
-var mnemonic = "slender insane test mule globe flame harbor rookie cousin olive craft melt";
+var mnemonic = "device slender use lobster barrel load right panic danger flat method upper";

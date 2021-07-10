@@ -1,1 +1,1 @@
-var mnemonic = "busy expose quantum later busy amazing pencil argue arrest toe auto harvest";
+var mnemonic = "shiver inside trial absurd whale nose bicycle mutual transfer debate business ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "search sight birth keen sun ticket focus jungle bacon boss frost alone";
+var mnemonic = "gravity dinner whale clog force aware dismiss gesture october search sauce extra";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage turkey height dust pudding funny camp eye hen tiny gadget unfair";
+var mnemonic = "dove guitar moral stadium cover rug velvet jazz roof wool kite baby";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum level shadow silent youth sunset twelve knock collect federal jazz satoshi";
+var mnemonic = "joke catch napkin travel hen head frost inside join name credit pyramid";

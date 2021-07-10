@@ -1,1 +1,1 @@
-var mnemonic = "clinic siren filter absent attitude observe inspire fossil key alien sister museum";
+var mnemonic = "approve wide sheriff tenant elevator dragon degree buddy patient picnic ethics tiny";

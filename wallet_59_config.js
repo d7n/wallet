@@ -1,1 +1,1 @@
-var mnemonic = "truck such resemble check lemon oval drift orphan dice grit balance brave";
+var mnemonic = "knee crawl citizen cricket latin combine tent giraffe false party search submit";

@@ -1,1 +1,1 @@
-var mnemonic = "business weapon cherry marble assault govern pattern either flash ride youth steak";
+var mnemonic = "trip magic grief submit glass tomato rare naive behave loud adjust bring";

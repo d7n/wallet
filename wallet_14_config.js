@@ -1,1 +1,1 @@
-var mnemonic = "banner reform history tag output wrestle airport broccoli muscle unique fabric split";
+var mnemonic = "fee tool lyrics churn start bachelor side stock flee comic pistol jeans";

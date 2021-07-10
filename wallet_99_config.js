@@ -1,1 +1,1 @@
-var mnemonic = "bid march liar still upgrade fringe deposit meadow liar ski put either";
+var mnemonic = "blush debris acid guitar neglect food true much order hollow behind pledge";

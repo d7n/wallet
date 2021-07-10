@@ -1,1 +1,1 @@
-var mnemonic = "canvas invite match bronze remember garage setup absurd photo find marriage interest";
+var mnemonic = "minute attend boss appear about reward want assume blade agent outdoor seven";

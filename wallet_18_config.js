@@ -1,1 +1,1 @@
-var mnemonic = "mention ketchup require wealth ecology diamond news group naive doll antenna fit";
+var mnemonic = "stairs scrap eight question intact metal spy corn already atom run bind";

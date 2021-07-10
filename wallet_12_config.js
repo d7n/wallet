@@ -1,1 +1,1 @@
-var mnemonic = "eye grass buddy risk shine acid plate fix muscle size picnic ignore";
+var mnemonic = "denial collect sentence humor ski scale sleep purse bomb cluster infant nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "oven enjoy arm midnight debate slide tape mystery price hill prepare priority";
+var mnemonic = "dash this alert okay cloth clog bag charge knee cricket fix scatter";

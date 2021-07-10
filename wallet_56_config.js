@@ -1,1 +1,1 @@
-var mnemonic = "jar stick check hold will liar tiny saddle ball code plate scissors";
+var mnemonic = "popular excite blame acoustic digital rate cave rely inform boring taste giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "random language extra amateur end broccoli patch police leopard ethics skull forget";
+var mnemonic = "brown source cash core upgrade mixture custom cram carry stem easy kid";

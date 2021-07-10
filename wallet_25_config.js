@@ -1,1 +1,1 @@
-var mnemonic = "helmet sun grain lounge million pudding earn crime impose swim ask rotate";
+var mnemonic = "injury mistake duty mail cave spot loud canal hair ring pledge afraid";

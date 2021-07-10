@@ -1,1 +1,1 @@
-var mnemonic = "swarm visit unlock library float van beef erode stadium author later usage";
+var mnemonic = "spend ankle romance tower original surprise memory excite swallow salon marble light";

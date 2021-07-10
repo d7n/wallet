@@ -1,1 +1,1 @@
-var mnemonic = "wait forum pretty beauty pottery mountain mom jar ketchup protect vapor blossom";
+var mnemonic = "record reward public search cactus power trend beauty cousin absent tuition drama";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet toilet robot music night chest logic unlock tag master refuse slogan";
+var mnemonic = "novel faith net loyal sausage seven smoke prevent rigid detail royal seven";

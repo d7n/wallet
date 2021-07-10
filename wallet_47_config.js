@@ -1,1 +1,1 @@
-var mnemonic = "luggage copper bulb chest hair joy estate chunk goddess sunny order wrong";
+var mnemonic = "humor lock viable congress there small twelve perfect kick chuckle young series";

@@ -1,1 +1,1 @@
-var mnemonic = "scout train foam tuition fitness purse fossil pepper beyond million estate guide";
+var mnemonic = "dust mixed hurt cricket risk timber lend possible drive perfect machine ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "universe spring repair pitch blush shop pretty siren depend best tragic cause";
+var mnemonic = "discover celery option forget latin panther betray ahead insane arrange wall option";

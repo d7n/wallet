@@ -1,1 +1,1 @@
-var mnemonic = "sample vanish choose auction problem feel chief daughter spy arm someone magnet";
+var mnemonic = "squirrel rigid labor park tumble wasp letter evil eight open woman frame";

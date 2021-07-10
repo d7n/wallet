@@ -1,1 +1,1 @@
-var mnemonic = "when affair broken lift best energy document collect beach kit orange song";
+var mnemonic = "valve tomorrow boost father provide tuna cabin wrap entire soda please cereal";

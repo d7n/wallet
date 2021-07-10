@@ -1,1 +1,1 @@
-var mnemonic = "vendor skate over wear opinion entire betray deliver search song drum choose";
+var mnemonic = "ancient pair prize idle bottom abstract unique oak burst ride mansion pluck";

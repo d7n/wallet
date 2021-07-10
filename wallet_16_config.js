@@ -1,1 +1,1 @@
-var mnemonic = "clap habit height crucial hello multiply traffic again next polar join daughter";
+var mnemonic = "proud whip desk sadness inhale impact direct side friend occur easy lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "glare head mother bird genuine dentist extend cheese sail type supreme tent";
+var mnemonic = "clerk begin lyrics tomato annual silver couple february napkin bonus broccoli report";

@@ -1,1 +1,1 @@
-var mnemonic = "job pelican chief day case mind auction define inhale century again interest";
+var mnemonic = "today option chuckle divert program tattoo rude sphere excuse puppy cube meat";

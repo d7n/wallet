@@ -1,1 +1,1 @@
-var mnemonic = "two six culture sorry select student swear puppy ostrich upset beef apple";
+var mnemonic = "absent area ostrich lobster earth budget orbit tomato senior cement conduct prepare";

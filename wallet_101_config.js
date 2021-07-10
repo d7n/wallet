@@ -1,1 +1,1 @@
-var mnemonic = "leaf bright text shed camera combine cool december castle bonus priority inside";
+var mnemonic = "arch raccoon addict collect limit zone rent gaze speed advance wash trend";

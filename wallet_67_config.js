@@ -1,1 +1,1 @@
-var mnemonic = "wool abuse lens armor motion utility business pig sleep stem release prevent";
+var mnemonic = "grab forget pencil bright real define shiver educate target cool decrease clerk";

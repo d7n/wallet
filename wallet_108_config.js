@@ -1,1 +1,1 @@
-var mnemonic = "sudden admit hen multiply whip sphere finish faculty grab only rug twenty";
+var mnemonic = "blade sand item way canoe lunch hedgehog kingdom school stereo ecology student";

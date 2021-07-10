@@ -1,1 +1,1 @@
-var mnemonic = "sheriff survey another title parent tobacco opera auction audit behave erode fluid";
+var mnemonic = "ranch exhibit cattle athlete learn later soft title ocean regular choose ugly";

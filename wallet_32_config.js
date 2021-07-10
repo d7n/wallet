@@ -1,1 +1,1 @@
-var mnemonic = "tobacco twenty breeze notable cement boost goddess gallery mix romance test dash";
+var mnemonic = "just prevent wrist relief clip adult thank pass embark onion edit matter";

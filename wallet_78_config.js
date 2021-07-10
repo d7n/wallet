@@ -1,1 +1,1 @@
-var mnemonic = "erode link recipe either eternal caution jungle trust cigar main fix city";
+var mnemonic = "aisle video gesture tape have soon check sweet decrease resist oak hope";

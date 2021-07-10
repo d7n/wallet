@@ -1,1 +1,1 @@
-var mnemonic = "split build know exit begin nasty avoid voyage work twin hood gloom";
+var mnemonic = "spy satoshi network certain unable blame turtle custom try feed kick giant";

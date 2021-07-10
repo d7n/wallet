@@ -1,1 +1,1 @@
-var mnemonic = "cram cram dress drama benefit addict wish run like table phrase motor";
+var mnemonic = "eager hat project token option code photo book dust west fortune high";

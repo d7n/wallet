@@ -1,1 +1,1 @@
-var mnemonic = "video gossip poem humor giant chase diary funny ozone salute belt sure";
+var mnemonic = "lamp sister oyster cart find joke spell novel agent motor daring time";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty ketchup eye drop much mechanic force away argue eager chaos debris";
+var mnemonic = "miracle service family medal october glide wrong lemon trend olympic robot napkin";

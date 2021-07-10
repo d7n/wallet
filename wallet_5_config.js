@@ -1,1 +1,1 @@
-var mnemonic = "avoid parade city snow title pumpkin hub crawl ticket hockey video sniff";
+var mnemonic = "squirrel wrestle awkward ugly old region fortune token senior habit panther zoo";

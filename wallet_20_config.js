@@ -1,1 +1,1 @@
-var mnemonic = "team oyster basket diesel joy draft bubble tank rate diet retire citizen";
+var mnemonic = "shed mad glory clip leaf balance catalog release rival tent dolphin fix";

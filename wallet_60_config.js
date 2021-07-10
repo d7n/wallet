@@ -1,1 +1,1 @@
-var mnemonic = "giant radio leisure robot dove doctor stick decline stay south toddler afraid";
+var mnemonic = "leaf club victory pumpkin gather nose fantasy skill fix word rely enough";

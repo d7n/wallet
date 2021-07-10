@@ -1,1 +1,1 @@
-var mnemonic = "vintage arena fly stove captain local hen order jungle able turkey shrug";
+var mnemonic = "humble canal rack sudden ankle tobacco plate sing say soccer message situate";

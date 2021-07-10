@@ -1,1 +1,1 @@
-var mnemonic = "spirit load detail lion gift salute unaware promote weird valley auto member";
+var mnemonic = "business wise pepper bone city network payment know prevent brain employ protect";

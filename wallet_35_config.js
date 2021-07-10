@@ -1,1 +1,1 @@
-var mnemonic = "wide dose scan gallery crunch snap tomorrow project license master hip two";
+var mnemonic = "what six few nature jewel derive live wink festival pledge swap business";

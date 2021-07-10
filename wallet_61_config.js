@@ -1,1 +1,1 @@
-var mnemonic = "elder elegant zebra spread van paper zoo sadness make coach myth cave";
+var mnemonic = "either sing shoulder improve vital imitate promote evil easy negative heart scale";

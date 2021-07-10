@@ -1,1 +1,1 @@
-var mnemonic = "anchor evolve snake already bunker globe betray energy dynamic jacket sphere engine";
+var mnemonic = "squirrel problem ozone lion erode evoke immense dwarf eagle recipe puzzle bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "table carry ranch essay stable sudden illness plastic kingdom latin wrong question";
+var mnemonic = "face crash laptop sleep icon good off harvest human evoke snap library";

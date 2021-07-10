@@ -1,1 +1,1 @@
-var mnemonic = "punch goose round donkey call bamboo update skirt smooth power engine avocado";
+var mnemonic = "solution morning escape spin various mystery adult ketchup settle exhibit blouse eager";

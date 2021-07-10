@@ -1,1 +1,1 @@
-var mnemonic = "real icon index odor uphold track cross theory staff hello capital axis";
+var mnemonic = "know first wage box banner promote degree any turkey december planet mirror";

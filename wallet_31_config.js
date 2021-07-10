@@ -1,1 +1,1 @@
-var mnemonic = "shallow prepare reveal mushroom argue exhibit render avocado cruel sort blanket cupboard";
+var mnemonic = "magnet public ceiling color smoke tool collect actual injury warfare size gas";

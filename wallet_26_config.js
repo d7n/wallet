@@ -1,1 +1,1 @@
-var mnemonic = "thunder aisle radar dirt language cash water rib tilt raven upon put";
+var mnemonic = "client work alley hello cup error aware column soup glory round total";

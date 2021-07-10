@@ -1,1 +1,1 @@
-var mnemonic = "goat kit ice attitude disease table journey magnet black page whip inner";
+var mnemonic = "quit poet host family pool bless unaware enroll prepare gallery combine shield";

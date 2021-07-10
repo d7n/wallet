@@ -1,1 +1,1 @@
-var mnemonic = "fix practice push limit vague art truly unaware another tongue resist vapor";
+var mnemonic = "way library ecology enter fossil mention chef spider device artist hope foster";

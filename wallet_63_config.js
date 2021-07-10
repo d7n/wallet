@@ -1,1 +1,1 @@
-var mnemonic = "sting price coin assist copper bird town frog believe sound position machine";
+var mnemonic = "screen day menu crazy hat clean woman pilot avoid creek hint quit";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch stick brisk apart armor real sudden mystery smoke hawk tragic security";
+var mnemonic = "caught dragon magnet describe token pudding spoil video wage congress scrap exclude";

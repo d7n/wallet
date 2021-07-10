@@ -1,1 +1,1 @@
-var mnemonic = "distance mango this enroll flight lion winner north snap game people pole";
+var mnemonic = "syrup execute subway matter table dilemma adult display rent camera rigid onion";

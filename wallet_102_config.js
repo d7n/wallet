@@ -1,1 +1,1 @@
-var mnemonic = "dune cruel clog income glare clump impulse kitchen wire buffalo bag denial";
+var mnemonic = "final stable initial spread shine bulb traffic eagle spend topic gaze eternal";

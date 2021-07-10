@@ -1,1 +1,1 @@
-var mnemonic = "gun pitch together reward tongue suit carry rifle rack electric drum deposit";
+var mnemonic = "size major welcome swift tennis advance execute bottom dove find spoil describe";

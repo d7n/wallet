@@ -1,1 +1,1 @@
-var mnemonic = "clean twin hazard piece trim lift rude vibrant appear debris smart wrong";
+var mnemonic = "again mobile gospel bracket boost arrange believe tell copy egg gasp scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "seek distance decade pull that armor wash viable monster heavy bind obey";
+var mnemonic = "immense annual unveil vanish auto shoot merry duck setup slot gasp vessel";

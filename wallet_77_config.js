@@ -1,1 +1,1 @@
-var mnemonic = "inch climb reveal steel stone rack wing top pizza pulp nasty zero";
+var mnemonic = "inch proud doll document clerk point robot unhappy heavy grace floor sock";

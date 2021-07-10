@@ -1,1 +1,1 @@
-var mnemonic = "own lazy other essay radar execute web fat ignore ship coil charge";
+var mnemonic = "local urge lottery risk tell unknown captain search promote clip economy pledge";
