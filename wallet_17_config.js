@@ -1,1 +1,1 @@
-var mnemonic = "august beauty blouse neck crack holiday token sun allow busy appear load";
+var mnemonic = "provide equal sunset gallery duck sort miss source swarm feature stem check";

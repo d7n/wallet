@@ -1,1 +1,1 @@
-var mnemonic = "awful mouse blood dove cram vocal pencil jelly early argue dragon fee";
+var mnemonic = "fan sketch digital under connect people symbol trash settle parade beauty scissors";

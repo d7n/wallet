@@ -1,1 +1,1 @@
-var mnemonic = "page grape you excess waste prosper snow arrange worry aunt hood emerge";
+var mnemonic = "detail coil combine album soap license crucial swamp biology bag anxiety garage";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny dash load outer middle hood injury monkey hover amused just curve";
+var mnemonic = "multiply march smoke check right rhythm betray banana siren surround top gown";

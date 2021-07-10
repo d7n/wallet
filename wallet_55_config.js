@@ -1,1 +1,1 @@
-var mnemonic = "robot economy fat eyebrow else dress soul nasty click test now blood";
+var mnemonic = "grief ask water impulse dash pitch struggle absent citizen seminar fetch gold";

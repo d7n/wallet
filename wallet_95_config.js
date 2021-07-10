@@ -1,1 +1,1 @@
-var mnemonic = "pledge salmon raven spoil exercise aunt win fiscal uniform habit tunnel diesel";
+var mnemonic = "key pet crack evoke oven pond theory meadow trend lava vendor dash";

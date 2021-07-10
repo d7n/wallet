@@ -1,1 +1,1 @@
-var mnemonic = "example fiber banner any ranch stem scale harbor pioneer radio scrub ticket";
+var mnemonic = "agent network cloth cabbage artist lobster finger tone scorpion peace mesh stamp";

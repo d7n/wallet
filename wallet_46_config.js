@@ -1,1 +1,1 @@
-var mnemonic = "leave used lawn planet flag peasant drive lesson gadget treat stool share";
+var mnemonic = "priority hen island wear intact corn amazing feed rib resist pilot range";

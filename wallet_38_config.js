@@ -1,1 +1,1 @@
-var mnemonic = "acid cave review mixture dinosaur approve hat potato polar card afraid broken";
+var mnemonic = "public hole liar miss salt balance forum cactus behave depend donkey bulb";

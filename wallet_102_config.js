@@ -1,1 +1,1 @@
-var mnemonic = "tide nature spatial actress toss rifle turtle vintage nuclear category neutral supply";
+var mnemonic = "crush symptom era sound ridge smart like casino tail coach future demise";

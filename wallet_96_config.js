@@ -1,1 +1,1 @@
-var mnemonic = "slow alarm protect debris wagon slender vacant brand vast vast crystal gate";
+var mnemonic = "will zoo eight cushion zero winner income pioneer cancel together silly hat";

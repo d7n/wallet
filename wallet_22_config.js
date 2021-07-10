@@ -1,1 +1,1 @@
-var mnemonic = "song balcony horse tortoise garage crater armed balcony secret eagle salad gun";
+var mnemonic = "seat fiction peace crater sugar aware crouch jazz divorce hawk limb flush";

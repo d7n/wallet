@@ -1,1 +1,1 @@
-var mnemonic = "youth water pass pool veteran notable comfort uncle glue track era smoke";
+var mnemonic = "fiber decade sister enrich turkey evidence magic yard display initial onion minimum";

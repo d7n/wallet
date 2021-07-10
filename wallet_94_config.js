@@ -1,1 +1,1 @@
-var mnemonic = "retreat utility pilot shuffle pudding milk east arrow stay lemon second hospital";
+var mnemonic = "diamond put clutch blade mention bounce upgrade crawl antenna faculty phrase orchard";

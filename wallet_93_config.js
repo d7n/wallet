@@ -1,1 +1,1 @@
-var mnemonic = "broccoli road chat soda december result brush slide soap upon skull prosper";
+var mnemonic = "explain quick mail pen century erode muscle indicate ice today tape enter";

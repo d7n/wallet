@@ -1,1 +1,1 @@
-var mnemonic = "inflict game drop sphere monitor quick pledge beauty treat shoulder kingdom moon";
+var mnemonic = "flight man penalty kit special police gossip debate grape mixed blast require";

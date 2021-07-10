@@ -1,1 +1,1 @@
-var mnemonic = "clean logic virtual join scrub frost album enforce never corn lecture space";
+var mnemonic = "abuse person useless decline album pair gauge mosquito fox pepper nasty visit";

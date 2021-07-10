@@ -1,1 +1,1 @@
-var mnemonic = "vendor hospital deliver return desert excess blast tomorrow laundry check nature better";
+var mnemonic = "pen hope february monitor thought wrap start school only lecture swim illness";

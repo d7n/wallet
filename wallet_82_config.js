@@ -1,1 +1,1 @@
-var mnemonic = "reveal youth pond gap buyer bacon wild scout wing theme later cute";
+var mnemonic = "gravity arrow accident news enjoy view rack setup era peasant exchange aisle";

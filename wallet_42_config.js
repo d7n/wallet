@@ -1,1 +1,1 @@
-var mnemonic = "cram clump word breeze over aunt senior title husband mistake segment erase";
+var mnemonic = "devote kidney gaze bread sustain embody eight assist obey priority win find";

@@ -1,1 +1,1 @@
-var mnemonic = "engage clutch fork loop medal flush foam hospital turkey pear bottom potato";
+var mnemonic = "nature crush morning limit ethics soda cover elder grid hero scorpion olive";

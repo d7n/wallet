@@ -1,1 +1,1 @@
-var mnemonic = "open canoe fade decline post toe witness pond birth fork tonight juice";
+var mnemonic = "unfold subway immense fashion today place creek face end tackle canoe cute";

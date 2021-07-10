@@ -1,1 +1,1 @@
-var mnemonic = "family donate transfer eternal regular have garbage party fluid pepper canvas venue";
+var mnemonic = "rule fire game elder correct broccoli warm permit brass ship absent mention";

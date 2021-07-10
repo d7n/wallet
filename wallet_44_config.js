@@ -1,1 +1,1 @@
-var mnemonic = "clog sense fabric beach middle thank shiver zoo type casino kidney then";
+var mnemonic = "model absorb foil water enemy pretty chef march horse sausage night robot";

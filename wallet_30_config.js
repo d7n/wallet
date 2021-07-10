@@ -1,1 +1,1 @@
-var mnemonic = "act genre boat injury trouble orient pyramid impulse convince catch know host";
+var mnemonic = "erupt lunch hundred memory drop settle general diagram host push unknown annual";

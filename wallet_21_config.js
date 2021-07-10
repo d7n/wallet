@@ -1,1 +1,1 @@
-var mnemonic = "input common disease grab sell worry diary kidney myth inform weekend task";
+var mnemonic = "define correct protect donor bonus text vessel idea lumber scissors farm dismiss";

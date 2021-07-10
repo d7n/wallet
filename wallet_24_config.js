@@ -1,1 +1,1 @@
-var mnemonic = "gym camp pony they riot glare enjoy sand hotel stuff wear maple";
+var mnemonic = "cricket settle come exhaust olympic spell ceiling shaft tortoise combine barely jungle";

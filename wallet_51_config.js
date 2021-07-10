@@ -1,1 +1,1 @@
-var mnemonic = "notable habit deal prosper balcony coffee risk swear season warm vendor panda";
+var mnemonic = "elephant reveal secret strong dice robot glass skin use spread diagram absorb";

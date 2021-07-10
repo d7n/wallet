@@ -1,1 +1,1 @@
-var mnemonic = "parrot tomorrow deny doll ridge mom antenna social noble answer side before";
+var mnemonic = "crowd sunset bounce wife problem abstract reform flee govern eager dignity usage";

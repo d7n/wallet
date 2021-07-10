@@ -1,1 +1,1 @@
-var mnemonic = "diet host risk price jazz label butter holiday episode doctor model song";
+var mnemonic = "country nephew crystal one position melody moment style neck mention stool debris";

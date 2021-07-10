@@ -1,1 +1,1 @@
-var mnemonic = "shaft chapter member lake position thought seminar popular pulp blush photo frog";
+var mnemonic = "basket seminar change anchor embrace afford borrow elbow narrow feel pudding talent";

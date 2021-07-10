@@ -1,1 +1,1 @@
-var mnemonic = "trophy recycle village razor offer peace embrace garment near demand horn humor";
+var mnemonic = "orphan file profit else miracle memory lunar infant ivory resist figure detail";

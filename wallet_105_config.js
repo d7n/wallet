@@ -1,1 +1,1 @@
-var mnemonic = "garden brave slim gas ride polar identify young size sure already okay";
+var mnemonic = "people steak attract blush orient wink kitchen ride animal yellow method limb";

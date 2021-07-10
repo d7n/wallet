@@ -1,1 +1,1 @@
-var mnemonic = "skin dynamic nerve call carry major drive language super motor refuse venture";
+var mnemonic = "bind boring young donor assault jeans inherit betray cannon coin uncle fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth cart bar affair undo solid blame later little balcony tuna income";
+var mnemonic = "question drum guard neck mass catch shift burden chuckle tribe crash grief";

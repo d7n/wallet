@@ -1,1 +1,1 @@
-var mnemonic = "sniff spin cable update nephew library bulb elbow dwarf project judge gown";
+var mnemonic = "fatigue opera rubber profit perfect someone key mix grape grid taxi labor";

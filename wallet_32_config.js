@@ -1,1 +1,1 @@
-var mnemonic = "census empty buyer ensure trend trouble tennis dress antique express meadow virtual";
+var mnemonic = "elegant must dentist decrease meadow service box pause patient achieve lucky fancy";

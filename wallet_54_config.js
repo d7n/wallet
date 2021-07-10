@@ -1,1 +1,1 @@
-var mnemonic = "uncle emotion orient ticket ten swear welcome quiz umbrella slam peanut share";
+var mnemonic = "foster tide swift jazz begin cross onion allow knee hour diet picture";

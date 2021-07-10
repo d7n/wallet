@@ -1,1 +1,1 @@
-var mnemonic = "service predict pattern middle text age human wide episode protect lift mask";
+var mnemonic = "dice accident acid hard like dial anchor about despair tape vibrant upgrade";

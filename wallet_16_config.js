@@ -1,1 +1,1 @@
-var mnemonic = "tooth actual text orchard vehicle law amazing hip rent city dance general";
+var mnemonic = "word trim patrol quantum muffin flee toilet exit latin vanish wage educate";

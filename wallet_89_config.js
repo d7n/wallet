@@ -1,1 +1,1 @@
-var mnemonic = "minor soul gravity excuse profit output disease turn trade logic post summer";
+var mnemonic = "crash pioneer benefit seat hedgehog page olympic industry punch solar resemble pizza";

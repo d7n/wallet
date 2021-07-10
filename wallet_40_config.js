@@ -1,1 +1,1 @@
-var mnemonic = "seek degree sense expand calm mule measure leader bring axis question wage";
+var mnemonic = "marble palm indicate angle cram sentence loan spin mad chair sugar museum";

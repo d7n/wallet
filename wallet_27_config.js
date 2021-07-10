@@ -1,1 +1,1 @@
-var mnemonic = "tuna pumpkin pyramid industry evil account airport sand worry pony alert seat";
+var mnemonic = "then badge option effort captain clean awesome error access bargain rude hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "silver spread brand width memory long fatigue present mean wear beyond essence";
+var mnemonic = "dance pepper negative option random student magnet awesome provide stuff aware beach";

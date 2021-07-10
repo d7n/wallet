@@ -1,1 +1,1 @@
-var mnemonic = "inmate deal improve category today obvious orphan tumble confirm advice devote wrong";
+var mnemonic = "crack mimic walnut tone crack tennis price rude obscure awesome glory upon";

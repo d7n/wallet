@@ -1,1 +1,1 @@
-var mnemonic = "faith dune enforce inject emotion route praise rail collect pyramid false ordinary";
+var mnemonic = "raccoon trumpet shoe frozen mandate style baby edge timber ability tape enroll";

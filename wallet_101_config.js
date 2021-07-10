@@ -1,1 +1,1 @@
-var mnemonic = "naive between service vivid woman goddess unlock leisure olympic spoon produce road";
+var mnemonic = "milk habit crowd deer brisk steak runway guitar glow normal approve educate";

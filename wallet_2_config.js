@@ -1,1 +1,1 @@
-var mnemonic = "cannon employ between unable slice trigger dress rebel lumber round nuclear also";
+var mnemonic = "miracle fiction divert maid syrup attack winner hamster actor course tackle settle";

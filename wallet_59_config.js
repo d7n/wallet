@@ -1,1 +1,1 @@
-var mnemonic = "hurt anger attitude truth file tag agent catch outside gain key very";
+var mnemonic = "raw staff sand one swarm cannon catch paper leaf quote attract dilemma";

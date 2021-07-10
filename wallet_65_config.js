@@ -1,1 +1,1 @@
-var mnemonic = "civil various wife blast primary option replace virus vessel panic blossom echo";
+var mnemonic = "ask genuine film math another copper valve sock artwork plastic dad winter";

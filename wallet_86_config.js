@@ -1,1 +1,1 @@
-var mnemonic = "object leisure split double thing myth goose room ugly bind rent crawl";
+var mnemonic = "between lottery grow dismiss must fetch reward wedding prosper reward jaguar ceiling";

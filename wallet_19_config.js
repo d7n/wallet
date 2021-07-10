@@ -1,1 +1,1 @@
-var mnemonic = "visual vacuum window badge typical carry drift park fatal tornado sadness high";
+var mnemonic = "cotton bench misery viable chief wood stool maple flip odor adapt rotate";

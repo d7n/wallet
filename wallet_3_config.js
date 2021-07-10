@@ -1,1 +1,1 @@
-var mnemonic = "tobacco lava clinic vehicle animal all rice trim jungle collect way verb";
+var mnemonic = "stamp hundred venture carbon drip still armed ten pyramid lift castle table";

@@ -1,1 +1,1 @@
-var mnemonic = "trash print pave flower mimic limit ready autumn identify clap despair jazz";
+var mnemonic = "agent peasant can sort stay neck clerk security slide coffee void biology";

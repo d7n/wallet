@@ -1,1 +1,1 @@
-var mnemonic = "trigger siren knife payment charge jewel sail social siren chicken force service";
+var mnemonic = "concert grain inch vicious nest heavy explain danger imitate march stick slush";

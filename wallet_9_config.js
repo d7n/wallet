@@ -1,1 +1,1 @@
-var mnemonic = "craft hard amazing regret giggle faith little verb opera shy lawsuit bitter";
+var mnemonic = "element guard duck error column boring wreck they render melody belt bicycle";

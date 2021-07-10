@@ -1,1 +1,1 @@
-var mnemonic = "beach bar head hat brother check curtain brain tissue problem link pluck";
+var mnemonic = "shell team olympic wheat sentence reveal aisle popular zone enable sunset fame";

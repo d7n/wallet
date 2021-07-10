@@ -1,1 +1,1 @@
-var mnemonic = "vague misery over together reform flock opera protect monster snake bleak dice";
+var mnemonic = "damp shadow ill often stamp palace caught effort hole curious course odor";

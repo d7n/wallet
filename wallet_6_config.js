@@ -1,1 +1,1 @@
-var mnemonic = "wrap cement senior crew pretty correct view chest lyrics drill social average";
+var mnemonic = "column poet entry expand disease place pioneer double scheme suspect parrot sister";

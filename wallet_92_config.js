@@ -1,1 +1,1 @@
-var mnemonic = "lecture increase blanket swim end casual typical century become elder nice nest";
+var mnemonic = "world grab ahead faculty pass balance kiss asthma seat sting mom sense";

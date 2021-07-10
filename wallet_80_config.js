@@ -1,1 +1,1 @@
-var mnemonic = "toss organ soft wrong tennis train relief card lonely demand eyebrow script";
+var mnemonic = "degree topple tent capital fluid flat fame save panel mention ranch rebel";

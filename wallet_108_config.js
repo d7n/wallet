@@ -1,1 +1,1 @@
-var mnemonic = "robot spot clay tomorrow shop jealous metal swim able tobacco fee paper";
+var mnemonic = "steel name area ride unlock retire puppy muscle foil elder bone day";

@@ -1,1 +1,1 @@
-var mnemonic = "require hundred fiction tail enable board glare curtain lemon later into bid";
+var mnemonic = "obtain present pizza hurt fan stumble illness trend invest same floor ahead";

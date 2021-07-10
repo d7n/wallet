@@ -1,1 +1,1 @@
-var mnemonic = "festival harvest depth medal orchard quality keen horn peanut breeze siege visit";
+var mnemonic = "escape honey movie mom impulse shove wheel hamster razor tongue worth humble";

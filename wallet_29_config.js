@@ -1,1 +1,1 @@
-var mnemonic = "valid praise pyramid refuse company alpha nest burden grunt lab silk owner";
+var mnemonic = "surround talent charge sugar lesson typical caught chair usual high please olympic";

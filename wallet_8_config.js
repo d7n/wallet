@@ -1,1 +1,1 @@
-var mnemonic = "roast cancel bridge water swim brain music cement depend beyond cream cover";
+var mnemonic = "twist toss tenant regret other royal ring return bonus digital tenant knee";

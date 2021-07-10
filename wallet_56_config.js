@@ -1,1 +1,1 @@
-var mnemonic = "jewel panda prize autumn tag abuse fortune cross describe midnight adult author";
+var mnemonic = "select physical fish make tank amazing hill because scale raise idle achieve";

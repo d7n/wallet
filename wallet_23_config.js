@@ -1,1 +1,1 @@
-var mnemonic = "chase frown beach saddle industry drive pretty allow purpose draw property gossip";
+var mnemonic = "arena inside obey property you wine parent addict dwarf jump list junior";

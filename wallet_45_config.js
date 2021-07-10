@@ -1,1 +1,1 @@
-var mnemonic = "result unveil awful garbage draft pupil choose sunset way plug hero piece";
+var mnemonic = "behave sketch fever always road mystery base embrace shiver armor car utility";

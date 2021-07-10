@@ -1,1 +1,1 @@
-var mnemonic = "employ flat certain neck weapon tone casual become hospital draw chronic volcano";
+var mnemonic = "strategy used once trip quote target ancient girl key swear ignore brown";

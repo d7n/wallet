@@ -1,1 +1,1 @@
-var mnemonic = "one dove unhappy exchange cargo candy cabin hint ten vote image radar";
+var mnemonic = "miss elbow silent oyster sound morning roast obey elegant castle give tonight";

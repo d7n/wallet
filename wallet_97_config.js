@@ -1,1 +1,1 @@
-var mnemonic = "notable one approve brisk across genius broom crash state brass link swallow";
+var mnemonic = "city energy check turn mad banana region dice license reduce federal cube";

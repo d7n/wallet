@@ -1,1 +1,1 @@
-var mnemonic = "sure sadness path tape pencil poem shrimp decrease income wisdom weird casual";
+var mnemonic = "escape miss balance room that situate guilt mind cushion injury runway final";

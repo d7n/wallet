@@ -1,1 +1,1 @@
-var mnemonic = "rail twelve alley layer smile code trip quiz recycle push abstract friend";
+var mnemonic = "quiz warfare patch game vintage boss ozone shy bottom faculty emotion expire";

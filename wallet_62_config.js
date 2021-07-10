@@ -1,1 +1,1 @@
-var mnemonic = "unique glory fish abstract valid nephew skill real pioneer local salmon purse";
+var mnemonic = "spike dutch enter brand lunch move you try escape neck foster merge";

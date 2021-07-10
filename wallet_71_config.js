@@ -1,1 +1,1 @@
-var mnemonic = "arena feel hour name rule report fury harsh breeze boil pumpkin taxi";
+var mnemonic = "require again detail echo leader laptop polar discover heavy busy use shallow";

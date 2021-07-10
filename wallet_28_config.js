@@ -1,1 +1,1 @@
-var mnemonic = "noise question refuse welcome demise coach river base very skill second require";
+var mnemonic = "idea private sing accident honey reveal scare tenant hero merry fan auto";

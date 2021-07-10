@@ -1,1 +1,1 @@
-var mnemonic = "science intact humble trend bundle december cover glove gorilla visual adapt intact";
+var mnemonic = "pencil asthma cube connect merry august trend name double dinner oblige absurd";

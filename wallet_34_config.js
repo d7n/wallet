@@ -1,1 +1,1 @@
-var mnemonic = "develop cable crystal quantum galaxy link dutch slight frown conduct illegal baby";
+var mnemonic = "chair swear simple dolphin half moon kidney broccoli blade assault cruel absent";

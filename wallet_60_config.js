@@ -1,1 +1,1 @@
-var mnemonic = "route tiger unfair emerge chat desert float junk trouble hover exact hour";
+var mnemonic = "fan want script stand demand ozone wage nominee advance dinosaur slab maid";

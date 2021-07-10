@@ -1,1 +1,1 @@
-var mnemonic = "rather teach beauty crime forum cycle light congress gesture entry impulse valve";
+var mnemonic = "ticket drastic sense exclude marble fix wild discover stadium tourist climb beach";

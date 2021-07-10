@@ -1,1 +1,1 @@
-var mnemonic = "friend trend evolve key hill know hurt model little friend pelican language";
+var mnemonic = "keep nuclear coast suggest what panic charge term labor skirt stock casual";

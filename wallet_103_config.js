@@ -1,1 +1,1 @@
-var mnemonic = "glove tell outdoor exchange depart design perfect cushion syrup model ridge earth";
+var mnemonic = "destroy venue level lunar engage waste green setup birth toast only invest";

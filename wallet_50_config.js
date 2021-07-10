@@ -1,1 +1,1 @@
-var mnemonic = "post rail prize size seek into mango arch vivid diamond broccoli mandate";
+var mnemonic = "captain grow picture cruise trumpet concert float uniform hand upper say sort";

@@ -1,1 +1,1 @@
-var mnemonic = "save random cube moral love latin clay soda flag brain clip whip";
+var mnemonic = "guess bulk gather giant crystal sunset mushroom tape butter clinic field uncover";
