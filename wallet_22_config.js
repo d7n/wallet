@@ -1,1 +1,1 @@
-var mnemonic = "forest cinnamon salmon glove latin skate thing hair tail elephant produce document";
+var mnemonic = "comfort stumble actor jacket window shrimp ivory base stuff luggage sweet extra";

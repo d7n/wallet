@@ -1,1 +1,1 @@
-var mnemonic = "dutch march affair task tattoo enter category observe fire piece practice share";
+var mnemonic = "pen truck middle atom oval tree burden result project mixed quit mistake";

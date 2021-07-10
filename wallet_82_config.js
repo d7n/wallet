@@ -1,1 +1,1 @@
-var mnemonic = "arrange essence dinosaur pull wish lake tackle wage best firm rigid dawn";
+var mnemonic = "fade budget coffee cement cannon erupt actor weather rebel duck demand drink";

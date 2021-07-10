@@ -1,1 +1,1 @@
-var mnemonic = "derive build case crew region abuse pipe rail possible scout short egg";
+var mnemonic = "day sphere prevent domain observe glove sick daring conduct quote volume world";

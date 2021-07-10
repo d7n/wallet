@@ -1,1 +1,1 @@
-var mnemonic = "barely blossom purpose target festival cigar own core feel escape stand pride";
+var mnemonic = "soldier chicken balcony burst demand episode antenna carbon spray radio cause puzzle";

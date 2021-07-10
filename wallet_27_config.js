@@ -1,1 +1,1 @@
-var mnemonic = "reopen neutral knee satoshi box window cruise dove olive evil alcohol inmate";
+var mnemonic = "express cannon direct deputy text vanish one bargain hill sudden senior plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "maid banner melt bind cause truck case cabin differ liquid tissue matrix";
+var mnemonic = "ancient spot shove quality trap govern jump acid hidden company physical patrol";

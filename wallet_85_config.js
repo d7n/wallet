@@ -1,1 +1,1 @@
-var mnemonic = "buffalo language find citizen harsh nest rain maid clutch home camera run";
+var mnemonic = "improve trade sing proud ribbon delay upset subway bomb best quarter sell";

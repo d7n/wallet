@@ -1,1 +1,1 @@
-var mnemonic = "stuff swallow ridge essence engage robust shy prize filter betray warfare piece";
+var mnemonic = "suspect lucky help bitter hybrid gaze spoon amateur direct police machine duty";

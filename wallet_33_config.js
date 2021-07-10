@@ -1,1 +1,1 @@
-var mnemonic = "vacant napkin chimney service kick manual escape hood cradle allow deliver timber";
+var mnemonic = "grunt female sheriff smooth distance wheat place dwarf glad indoor prosper cement";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff oxygen orbit chef receive neutral skirt misery crop spy enemy toss";
+var mnemonic = "liar decorate monster oven fatigue bundle human betray jelly sell alter expand";

@@ -1,1 +1,1 @@
-var mnemonic = "swap sword wave notice desk arrow bundle shallow reunion gadget explain labor";
+var mnemonic = "witness diamond assist purity scan what vote security industry morning amazing you";

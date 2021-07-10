@@ -1,1 +1,1 @@
-var mnemonic = "erase element theme catalog bless shadow one dry company shove govern visual";
+var mnemonic = "vessel comfort sauce scrub cigar sadness yard harvest slam cliff neglect offer";

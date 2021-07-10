@@ -1,1 +1,1 @@
-var mnemonic = "suggest modify one pig happy tunnel wreck cost require fly oppose cup";
+var mnemonic = "praise dream dumb produce side flock clever snap visual reflect load brown";

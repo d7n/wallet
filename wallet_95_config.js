@@ -1,1 +1,1 @@
-var mnemonic = "renew explain harbor uncle inch pact uphold rare fade wise topic course";
+var mnemonic = "any resist donor bus educate diamond fox service dose brand language pink";

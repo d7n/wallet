@@ -1,1 +1,1 @@
-var mnemonic = "crack rapid found poverty alley dune eager scatter erode window worth hundred";
+var mnemonic = "rapid apple game confirm result fish opera cheap frown palace furnace hybrid";

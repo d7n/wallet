@@ -1,1 +1,1 @@
-var mnemonic = "clap detect retire vessel comic boil expect size nothing next motion kick";
+var mnemonic = "actual apology negative cool pledge way verify oil food crack wonder drink";

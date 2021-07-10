@@ -1,1 +1,1 @@
-var mnemonic = "lamp attitude limit minor ocean depend crop appear act essay dynamic pizza";
+var mnemonic = "tooth fade anxiety amateur region tool right slam then spring wolf lumber";

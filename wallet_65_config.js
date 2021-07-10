@@ -1,1 +1,1 @@
-var mnemonic = "behave useless great trust benefit slogan project juice welcome sunset oil answer";
+var mnemonic = "hunt endorse invest rival vicious spike piece bullet tongue real parade hip";

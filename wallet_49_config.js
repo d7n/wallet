@@ -1,1 +1,1 @@
-var mnemonic = "goat broccoli pupil potato warm clutch dwarf shoulder play antique cup upper";
+var mnemonic = "enjoy speed apology sad hole spread garage hint paddle father critic vacant";

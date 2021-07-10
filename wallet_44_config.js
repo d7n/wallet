@@ -1,1 +1,1 @@
-var mnemonic = "make cover rapid february outside noodle clay final train weekend twist raw";
+var mnemonic = "lucky leader strike shed half pond clean require pond capital evidence improve";

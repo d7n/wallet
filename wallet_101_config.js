@@ -1,1 +1,1 @@
-var mnemonic = "cave divorce curtain unlock task general bunker north simple comic crumble label";
+var mnemonic = "like humble sock whisper social clock sponsor ordinary waste gas tongue weapon";

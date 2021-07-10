@@ -1,1 +1,1 @@
-var mnemonic = "fat renew above mad topic local salon lunch warfare evil acid also";
+var mnemonic = "when aunt truly tool slight crane ride rival stuff inner under giraffe";

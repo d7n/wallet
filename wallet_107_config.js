@@ -1,1 +1,1 @@
-var mnemonic = "long modify yard awesome balcony shrug burger cheese fly sweet seven judge";
+var mnemonic = "test edit pair keep melody brand item person jacket produce divorce brisk";

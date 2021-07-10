@@ -1,1 +1,1 @@
-var mnemonic = "guitar puzzle assume pave aware tiny vast educate spoon parade soul pig";
+var mnemonic = "version giraffe innocent galaxy quarter fluid neck image amateur payment stool gravity";

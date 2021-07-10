@@ -1,1 +1,1 @@
-var mnemonic = "net alien hedgehog lock dutch jump rate involve remove false next dove";
+var mnemonic = "bulb truth very own question island arrest mimic rebel bleak margin future";

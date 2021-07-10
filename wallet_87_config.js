@@ -1,1 +1,1 @@
-var mnemonic = "illegal reform jeans creek cancel voice advance vanish fury power cinnamon empty";
+var mnemonic = "warm chase garden reward ten rely hidden empower fresh fork obvious load";

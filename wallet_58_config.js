@@ -1,1 +1,1 @@
-var mnemonic = "industry nature high chase enact valid elegant sea save goat icon anger";
+var mnemonic = "someone grace raise prison level kitten upgrade rough squeeze decorate fabric survey";

@@ -1,1 +1,1 @@
-var mnemonic = "web jazz mountain net crush radar parent perfect loop toy resemble coast";
+var mnemonic = "yard grit drama panic hunt choice large assist crucial duty tent inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "fee mask social absorb local sadness notable swallow sunset venue pelican pact";
+var mnemonic = "patch great envelope shield ride warm sick betray razor siren square smart";

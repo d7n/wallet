@@ -1,1 +1,1 @@
-var mnemonic = "document very pole wealth leave letter license special onion retreat foil sketch";
+var mnemonic = "pottery endless vanish citizen toddler scatter antique bachelor heart dumb nasty shoulder";

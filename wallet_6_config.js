@@ -1,1 +1,1 @@
-var mnemonic = "first diesel foil churn harbor decide strong demand drive manual canoe merge";
+var mnemonic = "spring apple bus twice please want grain frog film siege robust hotel";

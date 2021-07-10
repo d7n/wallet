@@ -1,1 +1,1 @@
-var mnemonic = "reunion novel rude kiss mind earth adjust erupt gather wedding grief beyond";
+var mnemonic = "hurry foil differ betray easily only deal frog custom response carpet rough";

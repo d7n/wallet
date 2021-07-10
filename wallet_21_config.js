@@ -1,1 +1,1 @@
-var mnemonic = "find reason gaze law hurt gun salt silk helmet visual orchard call";
+var mnemonic = "merit clock noodle erupt nature life harvest volume nice desk brass grant";

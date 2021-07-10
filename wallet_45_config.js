@@ -1,1 +1,1 @@
-var mnemonic = "anxiety color scheme vacuum submit off endorse group finish health foil essay";
+var mnemonic = "play orchard project need rail coconut include fix verify retreat endless filter";

@@ -1,1 +1,1 @@
-var mnemonic = "pond brave home embark during north ordinary army maze mystery wrap powder";
+var mnemonic = "object sentence helmet cherry nasty gallery master current salmon clap sphere stock";

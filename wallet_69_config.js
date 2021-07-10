@@ -1,1 +1,1 @@
-var mnemonic = "disease boat pyramid before dinner window cube unit now project fix twin";
+var mnemonic = "winter actual tourist dizzy assault any frog sand orphan surprise want will";

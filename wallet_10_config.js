@@ -1,1 +1,1 @@
-var mnemonic = "slush disorder walnut client message praise wedding boat wonder rural bind photo";
+var mnemonic = "arm guide slam pulse gate gospel assist laptop pull bulk series cargo";

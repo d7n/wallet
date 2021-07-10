@@ -1,1 +1,1 @@
-var mnemonic = "settle grab exercise journey trade moon tiger alter stove repair race witness";
+var mnemonic = "special stumble nuclear engage attract obscure habit ahead dumb weasel dismiss will";

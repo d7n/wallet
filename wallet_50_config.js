@@ -1,1 +1,1 @@
-var mnemonic = "journey surround desk primary rose glide exhibit trip better cool surround lava";
+var mnemonic = "very title return chief drip apology excess gravity loop era cave observe";

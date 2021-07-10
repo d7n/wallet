@@ -1,1 +1,1 @@
-var mnemonic = "nest rough error mammal light love amateur venture minor live offer horror";
+var mnemonic = "rapid amazing fragile width capital mail still auction cycle sample shoot loop";

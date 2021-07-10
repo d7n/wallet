@@ -1,1 +1,1 @@
-var mnemonic = "enact decade half myself detect plunge remember laugh repeat educate mail since";
+var mnemonic = "kidney oak object valid favorite layer smart grant split wrap boil field";

@@ -1,1 +1,1 @@
-var mnemonic = "rich toilet much curious vapor tourist various menu happy near flush valley";
+var mnemonic = "industry olympic feel trend stairs cook color outside expose security little joy";

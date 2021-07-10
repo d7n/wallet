@@ -1,1 +1,1 @@
-var mnemonic = "extra sport nuclear cancel laugh cement paper athlete wood pluck pride display";
+var mnemonic = "copper wreck tongue type upgrade vote century shrimp skate tuition develop snap";

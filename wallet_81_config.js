@@ -1,1 +1,1 @@
-var mnemonic = "test defense holiday amazing acquire toast best puppy below cage skirt awesome";
+var mnemonic = "degree spread imitate cigar render quarter gun allow rain system tobacco tackle";

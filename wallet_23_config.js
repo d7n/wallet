@@ -1,1 +1,1 @@
-var mnemonic = "exchange arm pulp foil spray another visit report thunder kitchen because three";
+var mnemonic = "impulse mother tennis dragon news game green gift earn rug time screen";

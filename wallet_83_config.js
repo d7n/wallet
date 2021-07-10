@@ -1,1 +1,1 @@
-var mnemonic = "host pretty pupil magnet okay aisle total narrow web game goat magnet";
+var mnemonic = "region warfare hint sail nasty gold base one resemble release clutch damp";

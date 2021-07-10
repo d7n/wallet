@@ -1,1 +1,1 @@
-var mnemonic = "paddle tuna approve flame change service easily chalk clean mouse depart paper";
+var mnemonic = "this silk helmet note chest gap inner medal imitate candy fat valid";

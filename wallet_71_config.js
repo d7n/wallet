@@ -1,1 +1,1 @@
-var mnemonic = "breeze hurdle wealth advance captain cover amazing state eager bike pact flame";
+var mnemonic = "front route ecology private trigger police relief language cat hair lawsuit unveil";

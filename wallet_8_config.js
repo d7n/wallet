@@ -1,1 +1,1 @@
-var mnemonic = "sauce crack wreck trend horn off leg immense sauce ritual naive tag";
+var mnemonic = "muffin expose crime obtain clerk obtain moment vehicle sell enable affair foam";

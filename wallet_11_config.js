@@ -1,1 +1,1 @@
-var mnemonic = "custom crouch clap distance maze popular weekend trick primary scrap solid swim";
+var mnemonic = "need shiver loop oil proud program fashion mobile near above luggage humor";

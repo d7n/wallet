@@ -1,1 +1,1 @@
-var mnemonic = "soda actual bicycle city bacon pony pizza hub whisper glimpse other apple";
+var mnemonic = "tape broccoli love define split mushroom piece pet laptop laugh satisfy lemon";

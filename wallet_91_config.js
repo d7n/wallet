@@ -1,1 +1,1 @@
-var mnemonic = "picnic mutual faith useless track entire decrease village vital fragile foam split";
+var mnemonic = "cancel local produce cake sweet ripple song whale cabbage lyrics bracket fitness";

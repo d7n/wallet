@@ -1,1 +1,1 @@
-var mnemonic = "produce popular chase hip flat shaft hip annual wall ordinary feel fluid";
+var mnemonic = "side decade car seminar fabric reduce divide syrup grit midnight flag intact";

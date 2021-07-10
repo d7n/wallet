@@ -1,1 +1,1 @@
-var mnemonic = "kingdom midnight satisfy nominee rare seed write skull style wrist across edge";
+var mnemonic = "movie hat album know target huge version happy negative nation impulse spice";

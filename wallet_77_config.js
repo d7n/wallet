@@ -1,1 +1,1 @@
-var mnemonic = "parent urge list web panic salad sock foot hour swear genuine oxygen";
+var mnemonic = "drop stuff lock rapid few okay kidney rigid essence zone sing model";

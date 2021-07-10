@@ -1,1 +1,1 @@
-var mnemonic = "paper reward height sock route life base cluster shy bonus execute hamster";
+var mnemonic = "basic bird guide onion symbol pen girl yellow scheme spider arctic ceiling";

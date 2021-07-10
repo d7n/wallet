@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon monitor raise trend health stay drill write wrong frequent impact castle";
+var mnemonic = "walk sunset day disorder little charge list blade letter slush claw nest";

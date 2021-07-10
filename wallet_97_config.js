@@ -1,1 +1,1 @@
-var mnemonic = "blue limit wood ramp come pupil truck scare insane gorilla doctor fever";
+var mnemonic = "pull brass job category brush draft solution arena creek puppy trick obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit recycle elegant height catch gym legend transfer color biology like galaxy";
+var mnemonic = "oxygen bird rescue stage hat excite faculty episode scatter ridge tiny wreck";

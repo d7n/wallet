@@ -1,1 +1,1 @@
-var mnemonic = "lift anxiety lonely width basket cash diet cruise hood range word aware";
+var mnemonic = "broom broken second bamboo cage robust insect tube foil ready put scene";

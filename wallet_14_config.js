@@ -1,1 +1,1 @@
-var mnemonic = "gasp brother normal strategy beef special dizzy reject cargo amazing cover mobile";
+var mnemonic = "remind canvas paddle turtle sauce rare skull satisfy census reward cloth velvet";

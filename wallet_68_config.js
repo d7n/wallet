@@ -1,1 +1,1 @@
-var mnemonic = "crouch clip version either draft ill game raise unhappy result file hill";
+var mnemonic = "exile term believe capable drastic derive hurt vacant claim sausage orange step";

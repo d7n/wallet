@@ -1,1 +1,1 @@
-var mnemonic = "range gym alert focus random aerobic toy glove cherry tooth claw smile";
+var mnemonic = "rubber absorb all love harbor glass salad kid crime sponsor guide brand";

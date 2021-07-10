@@ -1,1 +1,1 @@
-var mnemonic = "slim hope attract scheme test inhale erode soda next adjust model advice";
+var mnemonic = "hammer truth dress gate topic nature fence exhibit tip view student pig";

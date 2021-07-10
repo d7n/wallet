@@ -1,1 +1,1 @@
-var mnemonic = "kite nose rival siege bundle elevator hint web jaguar grace kitten switch";
+var mnemonic = "glory rule empower caught fatigue beef kiss retreat coral piece dynamic identify";

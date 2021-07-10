@@ -1,1 +1,1 @@
-var mnemonic = "flight orient radio exotic soft champion science oblige awful harbor someone submit";
+var mnemonic = "camp soon course access post bonus dad spatial poverty dismiss elbow little";

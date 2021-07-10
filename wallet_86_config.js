@@ -1,1 +1,1 @@
-var mnemonic = "that adapt orphan report man eye present bulk unit prison public guide";
+var mnemonic = "smart arena disagree limit guilt machine monkey valve ecology outer claw ability";

@@ -1,1 +1,1 @@
-var mnemonic = "build ecology post syrup ancient virus absent vital praise uniform issue impose";
+var mnemonic = "gorilla lemon hollow ill fancy goat wet large misery together artefact pigeon";

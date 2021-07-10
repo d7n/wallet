@@ -1,1 +1,1 @@
-var mnemonic = "mechanic arrest citizen jacket close trial erupt ginger kangaroo topic mountain device";
+var mnemonic = "stage insane charge more reveal drink panel kitchen ahead quick innocent illegal";

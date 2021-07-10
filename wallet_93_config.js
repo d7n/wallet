@@ -1,1 +1,1 @@
-var mnemonic = "express era volcano antenna dumb first trap crime when copper child science";
+var mnemonic = "correct prize clerk piano front sibling exhibit question push panther title mushroom";

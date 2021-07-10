@@ -1,1 +1,1 @@
-var mnemonic = "blur retire monkey bid toward crash egg include salmon limit vast slogan";
+var mnemonic = "another runway orphan game stuff raven vivid pencil leader into enough plastic";

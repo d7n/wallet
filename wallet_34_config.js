@@ -1,1 +1,1 @@
-var mnemonic = "caught crouch service lion belt moon leaf cruel exotic exotic usage injury";
+var mnemonic = "gospel cheap exhibit chalk monitor bunker enable series blame muscle heart march";

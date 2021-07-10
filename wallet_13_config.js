@@ -1,1 +1,1 @@
-var mnemonic = "gap clap pencil expose matter easily tribe discover spoil pattern disease since";
+var mnemonic = "exit clay feature siege deal taste vapor goose cluster they rack sun";

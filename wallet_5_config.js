@@ -1,1 +1,1 @@
-var mnemonic = "cliff measure hospital damage tiger tattoo bronze push gate sphere cancel they";
+var mnemonic = "ten museum judge squeeze pool street sunny happy time region position record";

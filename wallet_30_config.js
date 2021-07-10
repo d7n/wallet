@@ -1,1 +1,1 @@
-var mnemonic = "mushroom cook physical glide scan crazy also bean baby mimic dress science";
+var mnemonic = "anxiety devote matrix large brain next odor happy already soda exile grace";

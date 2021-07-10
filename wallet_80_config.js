@@ -1,1 +1,1 @@
-var mnemonic = "example number cover happy glue beach lens jeans zebra jacket hire annual";
+var mnemonic = "barely zebra country uphold elder siege rally swim liar comfort clap gesture";

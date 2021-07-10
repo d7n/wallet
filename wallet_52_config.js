@@ -1,1 +1,1 @@
-var mnemonic = "amateur rough license among arrow remain taxi parent party garlic ceiling field";
+var mnemonic = "rack concert list once gas upset horror permit need churn liberty earn";

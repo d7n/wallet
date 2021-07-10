@@ -1,1 +1,1 @@
-var mnemonic = "foil tonight drama mansion hundred ivory cause ribbon arch vintage spy clog";
+var mnemonic = "act brick bind impact figure episode treat decline pull auto annual this";

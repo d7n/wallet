@@ -1,1 +1,1 @@
-var mnemonic = "snake together neglect car feature acid oven friend conduct ordinary treat drink";
+var mnemonic = "sure unfair glance link wisdom picture eagle auto stem undo season gold";

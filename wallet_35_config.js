@@ -1,1 +1,1 @@
-var mnemonic = "build hybrid luxury brave trend luggage snake enrich chief again invest attend";
+var mnemonic = "gain junk predict recipe wasp mandate intact initial correct hour smooth approve";

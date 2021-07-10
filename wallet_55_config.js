@@ -1,1 +1,1 @@
-var mnemonic = "elbow reflect leopard object split screen glad capital feel crumble trim wave";
+var mnemonic = "vessel dinosaur claim swim rate twice camera tunnel useful jar elder aerobic";

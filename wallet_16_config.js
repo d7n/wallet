@@ -1,1 +1,1 @@
-var mnemonic = "write lake saddle alley scheme elder hundred wolf stuff fatigue sphere engage";
+var mnemonic = "master pair culture chuckle win elite that basket patrol member scatter syrup";

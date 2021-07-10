@@ -1,1 +1,1 @@
-var mnemonic = "rocket swap shrug swear idle chaos citizen blossom salad divorce salt peasant";
+var mnemonic = "chronic because accident kind flush mountain exile climb joke special void betray";

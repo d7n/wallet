@@ -1,1 +1,1 @@
-var mnemonic = "near life remind question year palm pattern flip unique raw furnace busy";
+var mnemonic = "vessel inquiry beyond ten crowd horse galaxy cool alley park exchange couch";

@@ -1,1 +1,1 @@
-var mnemonic = "bench liar crystal bachelor spell cup misery inherit among inhale carbon victory";
+var mnemonic = "diary liquid glare fashion unfold clerk all galaxy venue mom forward blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant wheat column develop age letter cattle wink leaf claim lake vintage";
+var mnemonic = "cute mesh nice output oil mean scrap thought hat harvest element column";
