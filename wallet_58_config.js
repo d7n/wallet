@@ -1,1 +1,1 @@
-var mnemonic = "keep dove walnut code quality sustain flag essay game current rubber news";
+var mnemonic = "paper absurd artefact pause agent smile crack check bless cactus inject half";

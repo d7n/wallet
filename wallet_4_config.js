@@ -1,1 +1,1 @@
-var mnemonic = "method unknown build turn inflict vast party icon wine erosion swim film";
+var mnemonic = "shrug differ poverty unable alert wrist detail cream human innocent abuse black";

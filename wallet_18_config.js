@@ -1,1 +1,1 @@
-var mnemonic = "web energy burger grow struggle average online length skin apology inquiry hint";
+var mnemonic = "enforce oppose trip cable ostrich sword urge tackle volume hard asthma office";

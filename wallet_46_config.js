@@ -1,1 +1,1 @@
-var mnemonic = "shallow permit ethics toilet ensure bring funny plug upgrade bronze rotate erupt";
+var mnemonic = "clump monitor open concert tiger syrup much firm mercy army medal silk";

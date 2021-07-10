@@ -1,1 +1,1 @@
-var mnemonic = "mixture evolve learn enemy junk december soul produce praise whisper raw cement";
+var mnemonic = "donate scissors nothing walnut agree nature virtual impose once model visit vessel";

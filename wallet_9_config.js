@@ -1,1 +1,1 @@
-var mnemonic = "couch dinosaur often solid innocent skate winner tiger range asthma armed female";
+var mnemonic = "tree elbow ethics gorilla crew drill phone long brown entire claw decorate";

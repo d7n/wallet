@@ -1,1 +1,1 @@
-var mnemonic = "among sample tunnel sphere winter flag future silent trumpet bounce print blind";
+var mnemonic = "filter around bicycle stomach original interest radar online pond orient scan oven";

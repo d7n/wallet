@@ -1,1 +1,1 @@
-var mnemonic = "victory yard tonight noodle rib cloth move estate rent panic swamp main";
+var mnemonic = "gesture soft tiger island tent practice nasty say raw artwork artefact better";

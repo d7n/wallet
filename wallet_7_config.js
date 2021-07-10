@@ -1,1 +1,1 @@
-var mnemonic = "endless online guess sniff between snap fatal crunch action robot tragic team";
+var mnemonic = "equal gaze tomato gorilla loan position foil will first able rhythm loud";

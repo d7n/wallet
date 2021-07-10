@@ -1,1 +1,1 @@
-var mnemonic = "include tiny rubber vicious boring kiss pass misery window depart call boost";
+var mnemonic = "write stage robot siege sauce ice tree plug wage half evolve bid";

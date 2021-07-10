@@ -1,1 +1,1 @@
-var mnemonic = "gown crucial autumn when ramp trophy water ranch pyramid brass drop coil";
+var mnemonic = "glimpse hazard sustain cousin long system toast beef purpose flip impact rough";

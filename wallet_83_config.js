@@ -1,1 +1,1 @@
-var mnemonic = "ring hospital warm fix drama ethics stove typical describe now fortune rate";
+var mnemonic = "much wonder wheel label idle distance check lounge hen brown lyrics salad";

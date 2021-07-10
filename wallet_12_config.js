@@ -1,1 +1,1 @@
-var mnemonic = "ghost season become unable kitten cabbage ask trick magic wood color pond";
+var mnemonic = "lemon select response bone drop spin army open tunnel six future genuine";

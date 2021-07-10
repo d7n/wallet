@@ -1,1 +1,1 @@
-var mnemonic = "coyote canal exhaust enroll social next they cycle blanket garbage tape frog";
+var mnemonic = "dolphin cousin blanket jazz jazz truly diamond pause better umbrella comfort mirror";

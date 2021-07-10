@@ -1,1 +1,1 @@
-var mnemonic = "bread stable snack also indicate fluid early wonder turtle deal arrange impulse";
+var mnemonic = "pass curious science glue canoe obey real life summer traffic load easy";

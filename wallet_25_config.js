@@ -1,1 +1,1 @@
-var mnemonic = "glance card tired actual smooth pig raven tool teach animal kite limit";
+var mnemonic = "satisfy color often short ivory mechanic output stomach pear canoe erosion display";

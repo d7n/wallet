@@ -1,1 +1,1 @@
-var mnemonic = "disagree arrest oven guard plate gap office ripple net color eye fold";
+var mnemonic = "roast black select kangaroo better among jealous family similar pole old search";

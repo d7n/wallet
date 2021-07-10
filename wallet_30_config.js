@@ -1,1 +1,1 @@
-var mnemonic = "can loan salmon job lock build train awake model valve foam rather";
+var mnemonic = "raw already car lend soul fancy south toy update kitchen final rice";

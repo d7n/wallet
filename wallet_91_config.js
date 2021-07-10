@@ -1,1 +1,1 @@
-var mnemonic = "chase leader situate phone earn ribbon denial piece sausage ignore destroy nasty";
+var mnemonic = "clown mixed celery morning chuckle nerve sunny key corn pumpkin genre park";

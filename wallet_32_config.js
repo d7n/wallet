@@ -1,1 +1,1 @@
-var mnemonic = "captain regular edit victory bag weekend indoor cave sweet wall cry exotic";
+var mnemonic = "crisp design castle old bright blue check chalk tattoo recipe uncover water";

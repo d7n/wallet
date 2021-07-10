@@ -1,1 +1,1 @@
-var mnemonic = "oven seminar front home wall auction home barrel potato spoil universe nation";
+var mnemonic = "cliff shoot horse clump neck nest bacon exotic believe timber year jump";

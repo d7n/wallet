@@ -1,1 +1,1 @@
-var mnemonic = "pioneer gym arrow control link sure carry panda online garment doctor minor";
+var mnemonic = "draw reveal essence disorder despair audit basket card install switch desk vote";

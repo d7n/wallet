@@ -1,1 +1,1 @@
-var mnemonic = "blanket town hockey swing inform kite lazy vacant mention pelican pledge run";
+var mnemonic = "rug define craft denial render mosquito humble offer matrix cattle bunker spy";

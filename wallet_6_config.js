@@ -1,1 +1,1 @@
-var mnemonic = "episode scissors vapor crowd what during endorse garden inch fame office antique";
+var mnemonic = "exchange enter mechanic they tone quarter climb panic lava service space relax";

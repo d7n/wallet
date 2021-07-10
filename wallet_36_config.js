@@ -1,1 +1,1 @@
-var mnemonic = "dog trap symbol width tree mention brief age injury burger tragic destroy";
+var mnemonic = "fire collect alert equal list candy trend burst sell leaf party mail";

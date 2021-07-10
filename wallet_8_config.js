@@ -1,1 +1,1 @@
-var mnemonic = "area carpet waste possible image wrong jungle struggle green dad citizen round";
+var mnemonic = "clock any two cabbage rifle unfair purity gift inhale ten forward have";

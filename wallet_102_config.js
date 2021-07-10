@@ -1,1 +1,1 @@
-var mnemonic = "sorry seminar crunch middle enroll tomato twelve setup cost physical reward collect";
+var mnemonic = "fork auction risk badge sketch duty wise venue rice sand ivory cross";

@@ -1,1 +1,1 @@
-var mnemonic = "relief wisdom road suffer clean gossip conduct critic kit man simple network";
+var mnemonic = "ring check federal horror champion salute lawn impose major end chapter filter";

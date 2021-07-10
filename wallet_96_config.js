@@ -1,1 +1,1 @@
-var mnemonic = "air oblige garlic useful order know fire blind elbow lottery feed wear";
+var mnemonic = "same unique swarm supply point crumble error pretty chicken october core bitter";

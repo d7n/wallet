@@ -1,1 +1,1 @@
-var mnemonic = "wrestle narrow orient coin claw message pride boy royal beyond print glance";
+var mnemonic = "jealous method december poet air exhaust blind gentle avocado mystery element dance";

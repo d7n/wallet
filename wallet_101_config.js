@@ -1,1 +1,1 @@
-var mnemonic = "dragon payment sheriff approve armed three this waste galaxy rack what whip";
+var mnemonic = "blade spy olympic box upgrade air volcano matter favorite patrol victory expose";

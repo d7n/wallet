@@ -1,1 +1,1 @@
-var mnemonic = "sight nature speed brand rack trip trouble poverty balance base minor secret";
+var mnemonic = "zebra sound endless soldier range trip artefact squirrel wall noodle muffin seat";

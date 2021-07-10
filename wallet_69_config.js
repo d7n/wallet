@@ -1,1 +1,1 @@
-var mnemonic = "utility share adapt soccer balance snake solve ranch scene citizen hawk neither";
+var mnemonic = "chronic glow school park merge march spray own staff october tourist cruise";

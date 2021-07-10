@@ -1,1 +1,1 @@
-var mnemonic = "glory vapor area liar oxygen charge provide used olive violin inject height";
+var mnemonic = "scale festival paper list purity palm youth occur energy opinion type nerve";

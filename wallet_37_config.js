@@ -1,1 +1,1 @@
-var mnemonic = "skull kitten void scatter actor minute holiday learn better retire salt nose";
+var mnemonic = "review pink april novel excess degree brush ship brave dawn mention all";

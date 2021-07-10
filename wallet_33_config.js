@@ -1,1 +1,1 @@
-var mnemonic = "hood best wrestle fresh across weasel metal now defense math want seed";
+var mnemonic = "mushroom virus cabbage image object embody uncover razor robust pool music consider";

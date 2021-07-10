@@ -1,1 +1,1 @@
-var mnemonic = "vast left clean amount forest fiber polar shoe history twin raccoon cheese";
+var mnemonic = "property bonus define average reunion traffic blush grab stairs giraffe family scrap";

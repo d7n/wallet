@@ -1,1 +1,1 @@
-var mnemonic = "tragic athlete old cloth genre cloud fit exotic drive pill acoustic expose";
+var mnemonic = "lady nation column stairs acoustic diagram laundry lecture inherit east arch ethics";

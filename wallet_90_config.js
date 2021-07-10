@@ -1,1 +1,1 @@
-var mnemonic = "cry envelope olive apple car spirit vicious faculty transfer shy seek spider";
+var mnemonic = "rare inject drill spawn melt kidney skate acoustic inhale panel actress glow";

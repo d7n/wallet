@@ -1,1 +1,1 @@
-var mnemonic = "piece film little identify narrow rate tuna desert build divide orchard frown";
+var mnemonic = "fluid december artist skull number that cube render item radar doctor crater";

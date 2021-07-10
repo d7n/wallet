@@ -1,1 +1,1 @@
-var mnemonic = "crowd section heavy patient settle language chest violin tattoo manage enroll either";
+var mnemonic = "valve galaxy maid winter amazing summer deny rally brain sponsor cousin post";

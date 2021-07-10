@@ -1,1 +1,1 @@
-var mnemonic = "decide broom toward globe slender consider sleep marriage problem heart emerge sunset";
+var mnemonic = "remain weird meadow shoot tourist child control mesh snow avocado globe rug";

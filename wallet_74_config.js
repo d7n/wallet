@@ -1,1 +1,1 @@
-var mnemonic = "smile bulb one visual demand panda during two jump glide false wait";
+var mnemonic = "hill obscure idea dignity width ocean pottery album possible bottom short shove";

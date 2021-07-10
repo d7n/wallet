@@ -1,1 +1,1 @@
-var mnemonic = "soda trial gloom latin kit horse because spend tank assault boost dove";
+var mnemonic = "custom bid regular noble item find flag deny door limit soda elbow";

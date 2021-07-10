@@ -1,1 +1,1 @@
-var mnemonic = "office appear north love cliff dinner achieve order knock axis bundle hip";
+var mnemonic = "track lemon tree journey magic farm junior glide siege other either amused";

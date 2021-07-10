@@ -1,1 +1,1 @@
-var mnemonic = "hen harbor traffic lab hip tribe reveal eye milk sadness wave parent";
+var mnemonic = "retreat trim hungry faith phone roast interest awesome wife frog flush sign";

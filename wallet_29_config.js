@@ -1,1 +1,1 @@
-var mnemonic = "before hello parade obtain galaxy grass erosion pudding little flame escape boss";
+var mnemonic = "text tennis they current shuffle wasp match long sing love mechanic blossom";

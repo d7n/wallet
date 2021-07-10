@@ -1,1 +1,1 @@
-var mnemonic = "gas report spoil filter same ozone grief shed lava robust illegal side";
+var mnemonic = "unaware nasty two ten seek clean until blast excuse index view truck";

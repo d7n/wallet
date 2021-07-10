@@ -1,1 +1,1 @@
-var mnemonic = "matrix hurdle jelly face gasp style scorpion cruel issue dynamic manage usage";
+var mnemonic = "window unveil slender napkin load cinnamon market walnut trigger boost captain salad";

@@ -1,1 +1,1 @@
-var mnemonic = "afford upper dove virus grape silly glove any adjust biology assume obscure";
+var mnemonic = "hint sketch cable across liquid foot discover motor fuel achieve learn maze";

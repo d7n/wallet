@@ -1,1 +1,1 @@
-var mnemonic = "finish play broken bench unaware lift motion segment focus pool era brown";
+var mnemonic = "nut fence faint bulk fee bread oil arrange cattle salmon name help";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion caution vendor hobby someone gold grass raw gather daring vibrant wheat";
+var mnemonic = "organ cannon neutral erase more foil will journey series spy coach travel";

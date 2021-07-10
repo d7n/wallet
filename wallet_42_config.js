@@ -1,1 +1,1 @@
-var mnemonic = "ready rice almost fan phrase hour void connect judge response spin neutral";
+var mnemonic = "stumble truth diet unfair scrap target meadow weapon athlete race future sword";

@@ -1,1 +1,1 @@
-var mnemonic = "inform frost decline net correct message luggage also rather nurse upon inner";
+var mnemonic = "result ripple glue reflect chicken lend city burden skin legend case sense";

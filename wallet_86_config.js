@@ -1,1 +1,1 @@
-var mnemonic = "tennis display hood pattern finish hotel blast lazy toward drop promote audit";
+var mnemonic = "logic quiz vault deer spring raven can nation piece metal milk lounge";

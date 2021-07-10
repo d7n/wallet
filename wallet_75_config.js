@@ -1,1 +1,1 @@
-var mnemonic = "trust ordinary dirt fiction wealth capable payment repeat delay stamp stuff example";
+var mnemonic = "jar match garbage thank gauge tumble desk cereal poem dog toy owner";

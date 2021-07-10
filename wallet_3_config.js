@@ -1,1 +1,1 @@
-var mnemonic = "spawn hidden loud legend core garment insect recipe people ladder better note";
+var mnemonic = "rocket toy labor broom swift wing aisle dirt hello mesh crew tongue";

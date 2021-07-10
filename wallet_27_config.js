@@ -1,1 +1,1 @@
-var mnemonic = "antenna color junior arrive antique beyond figure excess monster involve clown dignity";
+var mnemonic = "bargain address float domain order because pave install pudding sister tornado cradle";

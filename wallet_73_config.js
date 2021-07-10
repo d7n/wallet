@@ -1,1 +1,1 @@
-var mnemonic = "about slight pipe say success favorite confirm member episode just love object";
+var mnemonic = "rebel marine cream armor scrub level melt wet salute shine tree raccoon";

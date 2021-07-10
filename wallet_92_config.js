@@ -1,1 +1,1 @@
-var mnemonic = "reason omit caught must genius anchor output awful ensure buddy review satisfy";
+var mnemonic = "scene face wage ensure employ detect dentist mean release crane cause chat";

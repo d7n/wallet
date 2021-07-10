@@ -1,1 +1,1 @@
-var mnemonic = "make fantasy drill pill unable system sort ready either bleak spirit remember";
+var mnemonic = "upon fame genius conduct short include simple border thing cash else eyebrow";

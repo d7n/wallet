@@ -1,1 +1,1 @@
-var mnemonic = "frost swamp elder yard ability permit armor caught tip make concert raw";
+var mnemonic = "morning twelve case sing avoid work biology cancel betray faint install unfold";

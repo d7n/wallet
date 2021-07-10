@@ -1,1 +1,1 @@
-var mnemonic = "quote margin lunar list ketchup tonight timber poverty execute fashion six actor";
+var mnemonic = "husband debate bubble dove sausage twist barely gossip people hawk donor neutral";

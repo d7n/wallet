@@ -1,1 +1,1 @@
-var mnemonic = "detail april insane type museum rebel garbage control trouble wet airport floor";
+var mnemonic = "learn when bridge grit style wealth know bounce dice donor flight wink";

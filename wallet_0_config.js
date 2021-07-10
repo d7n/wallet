@@ -1,1 +1,1 @@
-var mnemonic = "fruit dragon digital foot betray frozen curious flip real share luggage emotion";
+var mnemonic = "media tool purity decorate web leaf dash license when surge festival february";

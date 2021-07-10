@@ -1,1 +1,1 @@
-var mnemonic = "carry mushroom knock response benefit arctic brick tape parent gloom cause monitor";
+var mnemonic = "sight economy mosquito twenty account never margin unveil reform biology mistake dinner";

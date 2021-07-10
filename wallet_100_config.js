@@ -1,1 +1,1 @@
-var mnemonic = "shed average cherry fruit scan movie hurdle multiply congress evolve over party";
+var mnemonic = "heavy clerk rice mirror pear surface camera toe bronze congress slim unlock";

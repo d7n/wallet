@@ -1,1 +1,1 @@
-var mnemonic = "hour night barrel seminar spare album equal draft betray push bunker road";
+var mnemonic = "again world alley august occur hazard ball flat music word bean olive";

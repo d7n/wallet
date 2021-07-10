@@ -1,1 +1,1 @@
-var mnemonic = "song large outer source auto play explain say model describe badge daring";
+var mnemonic = "jelly canyon play inform drink rotate basket ancient grant vintage multiply vendor";

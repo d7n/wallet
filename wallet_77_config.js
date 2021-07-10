@@ -1,1 +1,1 @@
-var mnemonic = "have nephew tragic cereal truly under wild bless dwarf rocket victory pencil";
+var mnemonic = "balcony rival mind brick shell promote nation usual moral clump tell deputy";

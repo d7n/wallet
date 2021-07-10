@@ -1,1 +1,1 @@
-var mnemonic = "eight replace peanut across congress later tobacco agree impose still parent garden";
+var mnemonic = "cabbage include trend light zero mutual dilemma ecology vessel combine inner fence";

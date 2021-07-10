@@ -1,1 +1,1 @@
-var mnemonic = "health gaze wear argue try success cheese shield item zoo coffee pill";
+var mnemonic = "office bone decline certain sentence rubber thrive alert lazy comfort often type";

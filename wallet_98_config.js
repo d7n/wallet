@@ -1,1 +1,1 @@
-var mnemonic = "domain river spell focus trend castle omit monkey elder visual reopen soft";
+var mnemonic = "average flame palace hybrid rich often hat autumn weekend usual alpha name";

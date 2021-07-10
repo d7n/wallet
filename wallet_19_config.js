@@ -1,1 +1,1 @@
-var mnemonic = "oven inject horn river fragile hip brand record ranch indoor build victory";
+var mnemonic = "like stereo clog betray pledge hurdle attend myself liberty face already since";

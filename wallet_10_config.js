@@ -1,1 +1,1 @@
-var mnemonic = "attract elegant glass beach phrase conduct keen just trip shop entire web";
+var mnemonic = "kite blood sad vote blood impose adult allow run style harvest file";

@@ -1,1 +1,1 @@
-var mnemonic = "shell hurt elevator frown hospital stool bean thunder clip fold upon below";
+var mnemonic = "quit pave tragic seven blood february pact minimum danger result tomorrow banana";

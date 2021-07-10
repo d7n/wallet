@@ -1,1 +1,1 @@
-var mnemonic = "wire later gather join business liar zoo camera glory umbrella project front";
+var mnemonic = "drift bullet dinosaur butter treat coin concert cupboard child draw traffic pet";

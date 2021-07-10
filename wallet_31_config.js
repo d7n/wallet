@@ -1,1 +1,1 @@
-var mnemonic = "segment utility question soap plate seek lamp peasant begin person marriage switch";
+var mnemonic = "donor awake still gift latin habit urban urge grace prosper focus electric";

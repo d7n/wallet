@@ -1,1 +1,1 @@
-var mnemonic = "anxiety undo water evil outside goddess vendor vacant shrug leopard vague weasel";
+var mnemonic = "physical party omit one mention lamp sheriff letter flag nature calm cloud";

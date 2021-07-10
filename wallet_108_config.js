@@ -1,1 +1,1 @@
-var mnemonic = "earn hard syrup venue pistol stamp card gospel situate fork among side";
+var mnemonic = "caught lady badge series initial awesome enter humble pull grain bring hen";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant practice figure ahead pumpkin protect dash issue hospital tennis dumb pigeon";
+var mnemonic = "uncover dose average vapor gesture badge shuffle funny scheme kiss fatal elegant";

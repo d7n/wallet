@@ -1,1 +1,1 @@
-var mnemonic = "glory zone mesh nothing fence answer short price slim misery much fortune";
+var mnemonic = "truth weasel junior tornado bar onion start since rhythm harbor alarm learn";

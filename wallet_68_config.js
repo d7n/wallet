@@ -1,1 +1,1 @@
-var mnemonic = "lizard much hollow desert frog decline credit sail lend attend magnet slim";
+var mnemonic = "bicycle hint fitness fiscal tower tape warrior true climb erupt cup page";

@@ -1,1 +1,1 @@
-var mnemonic = "short film shine since veteran denial vacant thunder deputy update all denial";
+var mnemonic = "host mad spike security height list silver cat dynamic super space slow";

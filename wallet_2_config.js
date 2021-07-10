@@ -1,1 +1,1 @@
-var mnemonic = "record winter dynamic huge empty wave talent salmon egg reopen hunt legal";
+var mnemonic = "primary reveal velvet guilt armor gossip member human consider elder moon noise";

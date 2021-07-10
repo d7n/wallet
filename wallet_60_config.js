@@ -1,1 +1,1 @@
-var mnemonic = "drill demand snack visit fat slice logic step canyon useless donate raccoon";
+var mnemonic = "around link absorb replace this ski draft march aisle onion warfare hint";

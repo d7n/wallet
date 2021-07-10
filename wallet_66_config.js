@@ -1,1 +1,1 @@
-var mnemonic = "lamp shiver genre scrap end permit portion post twin alarm afraid february";
+var mnemonic = "card average ripple auction sweet cover gorilla debate bachelor kidney crouch spirit";

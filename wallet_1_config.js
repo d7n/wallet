@@ -1,1 +1,1 @@
-var mnemonic = "surface ghost brief dune equip wedding fresh enlist funny service render walk";
+var mnemonic = "rabbit fatigue limb view parrot trim era kite accuse giggle belt matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff hurdle immense path work segment tobacco scare brush income cloud traffic";
+var mnemonic = "eye venue fruit gallery broken cycle spring rabbit soccer pear erosion permit";
