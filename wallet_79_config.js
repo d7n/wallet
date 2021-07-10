@@ -1,1 +1,1 @@
-var mnemonic = "hold hello jar beach home argue gun ridge time height have anxiety";
+var mnemonic = "prison friend hair save position legal invest near radio deer sign garlic";

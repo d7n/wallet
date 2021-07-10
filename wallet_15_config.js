@@ -1,1 +1,1 @@
-var mnemonic = "coyote lemon escape parrot advance swallow twelve hope grunt blast egg seek";
+var mnemonic = "gather client spirit green evidence gospel hard beach since best rookie pretty";

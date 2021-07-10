@@ -1,1 +1,1 @@
-var mnemonic = "foam bus life chunk yard process rather earn cattle whisper balcony monkey";
+var mnemonic = "other true sound swing innocent hub horn fresh town empty model siren";

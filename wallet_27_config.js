@@ -1,1 +1,1 @@
-var mnemonic = "resist company ten waste exact hint foster dizzy sadness flee trophy ritual";
+var mnemonic = "meat evolve expand battle when protect humble obvious spell logic review target";

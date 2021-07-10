@@ -1,1 +1,1 @@
-var mnemonic = "hockey direct guess canvas occur pulp city afford ancient lab enhance divide";
+var mnemonic = "attitude try crater top similar loud mesh trick now company snow inmate";

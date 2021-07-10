@@ -1,1 +1,1 @@
-var mnemonic = "wood leisure nuclear cliff area shoe connect neglect exit pool taste army";
+var mnemonic = "deer across rose melt lazy crisp desert depart glide brief shine access";

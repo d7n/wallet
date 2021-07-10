@@ -1,1 +1,1 @@
-var mnemonic = "sight chimney equip tribe wasp keen develop talent arm surge blur congress";
+var mnemonic = "cradle jelly sorry work battle shadow forest vintage exhibit carpet little thought";

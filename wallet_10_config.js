@@ -1,1 +1,1 @@
-var mnemonic = "snack theory bonus range cage year sign token update kiss capable subway";
+var mnemonic = "hood reveal code fringe fun banana mango unaware chief various auction school";

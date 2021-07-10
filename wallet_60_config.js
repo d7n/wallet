@@ -1,1 +1,1 @@
-var mnemonic = "balcony pudding zone soup poem turn vast animal bright hunt doll soon";
+var mnemonic = "final wreck pen ethics proud arrow chuckle industry juice student danger walnut";

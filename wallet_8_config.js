@@ -1,1 +1,1 @@
-var mnemonic = "hundred vast hood coffee pause series board silent venue goose shadow fitness";
+var mnemonic = "else step misery yard roast unique weekend renew group crash addict hurt";

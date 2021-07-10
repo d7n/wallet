@@ -1,1 +1,1 @@
-var mnemonic = "neither grass defy orphan dial unveil icon giant emerge palace reduce mango";
+var mnemonic = "hover portion sibling aim keen reject diet aim dirt only replace ticket";

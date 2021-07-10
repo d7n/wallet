@@ -1,1 +1,1 @@
-var mnemonic = "legend flat guide helmet trap text certain worry rebuild work slab spirit";
+var mnemonic = "fuel know thunder bone task trim yard scare old collect call crew";

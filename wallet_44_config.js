@@ -1,1 +1,1 @@
-var mnemonic = "speak identify hover focus purse exclude bench crew board eyebrow text where";
+var mnemonic = "purse dismiss crawl warrior pond matrix seed orphan cable rent image grant";

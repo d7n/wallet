@@ -1,1 +1,1 @@
-var mnemonic = "universe old awkward mammal casual glow pattern story slim holiday dynamic knee";
+var mnemonic = "prosper deer describe certain toss cloud topic frown exclude leisure sock vivid";

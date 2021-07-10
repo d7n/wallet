@@ -1,1 +1,1 @@
-var mnemonic = "badge drama acid stay eager oval danger tube lady boss transfer sport";
+var mnemonic = "erode fluid mix cluster peanut bunker credit kiwi shield real rapid three";

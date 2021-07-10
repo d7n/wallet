@@ -1,1 +1,1 @@
-var mnemonic = "crucial cycle age beyond involve bird refuse mosquito scare solid shrug town";
+var mnemonic = "option dumb enough joy say impose matrix crisp season glue silly tonight";

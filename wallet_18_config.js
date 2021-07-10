@@ -1,1 +1,1 @@
-var mnemonic = "museum cram float penalty mask garment left during album win marble neutral";
+var mnemonic = "search panel victory festival bird matrix quiz tribe scissors blind trumpet breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel betray rely wish student vapor first era snow frequent burger aisle";
+var mnemonic = "nice ice quick place cross excess girl same enroll gloom weapon shuffle";

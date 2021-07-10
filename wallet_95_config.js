@@ -1,1 +1,1 @@
-var mnemonic = "vital volume canvas suffer bubble steak divorce road divide wild piano vehicle";
+var mnemonic = "dolphin village parent human turn border sugar head face depth pottery second";

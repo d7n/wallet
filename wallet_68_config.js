@@ -1,1 +1,1 @@
-var mnemonic = "say diary drum tip lucky option bracket snake tomato electric appear fee";
+var mnemonic = "island tumble cook glue illness first refuse insane attract always asthma feed";

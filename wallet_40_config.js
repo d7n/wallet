@@ -1,1 +1,1 @@
-var mnemonic = "north purse amazing still sheriff city uniform bounce student theory various spice";
+var mnemonic = "foil can aware move salmon brain raccoon cube dirt hunt tribe category";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome sight ceiling master afraid number motion give often potato smile hidden";
+var mnemonic = "notice midnight scheme raise success field guess garment shiver dry tumble appear";

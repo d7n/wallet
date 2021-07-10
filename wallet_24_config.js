@@ -1,1 +1,1 @@
-var mnemonic = "crime enough stem wrap drive kick raise gas trophy spare leopard family";
+var mnemonic = "size truly lonely romance carpet dutch pause second gloom cargo sister crush";

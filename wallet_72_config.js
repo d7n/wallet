@@ -1,1 +1,1 @@
-var mnemonic = "parrot flush target today fatigue renew regret damp problem sniff avoid spell";
+var mnemonic = "old crew issue cross access salon hurry word sausage valid bright arm";

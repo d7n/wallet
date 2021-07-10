@@ -1,1 +1,1 @@
-var mnemonic = "razor river again cycle major suit believe paper chaos view trouble vehicle";
+var mnemonic = "alcohol cool fly two series distance desert great spy fade element stay";

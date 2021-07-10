@@ -1,1 +1,1 @@
-var mnemonic = "craft trust step nuclear father tribe diamond artwork excite absent guess flush";
+var mnemonic = "improve fan theory explain dinosaur travel just impulse empower army verb egg";

@@ -1,1 +1,1 @@
-var mnemonic = "secret together slam fence short rescue dolphin elephant blanket stereo valid fire";
+var mnemonic = "valley fragile fee reunion once rebel despair claw reason night slot autumn";

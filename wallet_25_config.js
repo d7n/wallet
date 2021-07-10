@@ -1,1 +1,1 @@
-var mnemonic = "gospel reunion harvest logic canvas coyote loan movie raise surge alien kid";
+var mnemonic = "basic client square mass quarter thought swap walk country attract above toss";

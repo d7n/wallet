@@ -1,1 +1,1 @@
-var mnemonic = "fence access distance also winner pause silver measure embark nest pizza blue";
+var mnemonic = "true duck twenty pig firm zoo law arm narrow fix rely desk";

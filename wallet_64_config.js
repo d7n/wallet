@@ -1,1 +1,1 @@
-var mnemonic = "idle cost disorder female away approve journey genuine unveil assault blade spider";
+var mnemonic = "sustain distance orphan skate awful banana fault answer solid eight bullet post";

@@ -1,1 +1,1 @@
-var mnemonic = "check rose pipe clinic void father bundle damage slide hen stove settle";
+var mnemonic = "mutual solve seed bird forget brief bunker wear grow exhaust endorse future";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe vapor primary bottom orchard thumb snow version truck summer dismiss city";
+var mnemonic = "when help wing arrive tribe coin supreme grid glimpse ethics melody crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol jelly morning mimic elder tenant divorce renew mass shift attract meadow";
+var mnemonic = "myself rally ketchup mix defense cradle lend demand burger draft opinion cereal";

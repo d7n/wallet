@@ -1,1 +1,1 @@
-var mnemonic = "unfair bridge brave weather clap stage check input unfair faculty enter pudding";
+var mnemonic = "must swift power flag dynamic feature vote guitar common gather income hurt";

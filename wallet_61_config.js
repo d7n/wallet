@@ -1,1 +1,1 @@
-var mnemonic = "walk mask dolphin barely forest trade symbol buyer gauge situate clown card";
+var mnemonic = "talent move quiz inhale infant poverty side amazing disease cup grow crazy";

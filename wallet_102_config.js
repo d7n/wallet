@@ -1,1 +1,1 @@
-var mnemonic = "pen diamond ranch feature business float city warm medal file rule brush";
+var mnemonic = "market please clog shed village relax clay clever legend agree oven monster";

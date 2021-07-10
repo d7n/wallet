@@ -1,1 +1,1 @@
-var mnemonic = "head timber canvas chimney oxygen claim faculty lawn come student dose amazing";
+var mnemonic = "under adjust unknown curtain swift bamboo easily miracle cruise chest pigeon drip";

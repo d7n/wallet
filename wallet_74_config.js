@@ -1,1 +1,1 @@
-var mnemonic = "light bottom sadness mad cabbage easy time fire sustain either knock verb";
+var mnemonic = "praise book cheap present catch hard grief away blind feel pulp shaft";

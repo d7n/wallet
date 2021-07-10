@@ -1,1 +1,1 @@
-var mnemonic = "fix december rescue coast actual better demise sister people arch reopen resemble";
+var mnemonic = "enjoy peasant helmet symptom salad loan ankle help term isolate voyage practice";

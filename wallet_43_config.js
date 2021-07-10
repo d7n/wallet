@@ -1,1 +1,1 @@
-var mnemonic = "bracket buddy train shallow hotel day ridge involve access snake throw busy";
+var mnemonic = "clutch escape garden voyage picnic law few surround alpha onion remember brother";

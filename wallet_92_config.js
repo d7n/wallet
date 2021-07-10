@@ -1,1 +1,1 @@
-var mnemonic = "afraid mean bachelor slam tackle laptop denial foil puppy park era void";
+var mnemonic = "fitness clip artwork neglect brave cabbage away summer this gravity park potato";

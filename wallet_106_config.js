@@ -1,1 +1,1 @@
-var mnemonic = "exercise casino disagree rose smooth deputy satoshi powder sting cruise seek explain";
+var mnemonic = "stamp service blast video drop gentle battle accuse code pride save destroy";

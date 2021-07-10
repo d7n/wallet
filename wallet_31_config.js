@@ -1,1 +1,1 @@
-var mnemonic = "kite enough save fall manage shove order elite stone angry lucky income";
+var mnemonic = "gold alert soup velvet sibling record length genre surface torch little situate";

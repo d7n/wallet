@@ -1,1 +1,1 @@
-var mnemonic = "bargain refuse power hurt engine someone fashion gospel bronze problem estate know";
+var mnemonic = "essay fame major perfect relief brass trophy dice input resist season federal";

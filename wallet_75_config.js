@@ -1,1 +1,1 @@
-var mnemonic = "choice major excess bronze vicious ski discover urban hotel evil napkin onion";
+var mnemonic = "rule must second tragic glow recipe sense fetch afford clip choice matter";

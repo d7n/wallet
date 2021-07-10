@@ -1,1 +1,1 @@
-var mnemonic = "bomb south divert when sibling pave under funny pole trim cross scrap";
+var mnemonic = "pulp race circle fatal rocket remind rebel visa save inhale ethics level";

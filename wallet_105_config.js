@@ -1,1 +1,1 @@
-var mnemonic = "skin another nut grace name lake decline diagram patient helmet reunion man";
+var mnemonic = "bridge crash electric route series mercy such quiz gasp lucky plunge rocket";

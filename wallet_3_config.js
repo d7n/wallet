@@ -1,1 +1,1 @@
-var mnemonic = "crystal offer emerge plate paper immune virtual energy mom deposit off helmet";
+var mnemonic = "ketchup canvas cabbage mom brisk mutual stomach vast catalog feature fit suffer";

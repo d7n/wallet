@@ -1,1 +1,1 @@
-var mnemonic = "travel rapid gather first film pupil exile wedding twin cool safe lemon";
+var mnemonic = "wait scene auction negative steak rookie crawl vintage electric barely candy shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel object fatal nurse story atom account emotion dish skin fragile trust";
+var mnemonic = "lecture bone stick flag cruise stay erase engage prize cat limit blame";

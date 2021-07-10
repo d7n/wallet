@@ -1,1 +1,1 @@
-var mnemonic = "crush vault shiver never belt olive portion inch news kidney sample arctic";
+var mnemonic = "tuition blush such nice bracket destroy bounce radar ripple junk puzzle reform";

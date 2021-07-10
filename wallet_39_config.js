@@ -1,1 +1,1 @@
-var mnemonic = "entry stomach reveal stool nasty tourist dragon sample much estate whale bottom";
+var mnemonic = "panel crawl banner mass item alien twelve private circle walnut maximum doll";

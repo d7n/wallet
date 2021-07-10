@@ -1,1 +1,1 @@
-var mnemonic = "symbol tortoise narrow weasel junior mother market royal reveal pioneer health east";
+var mnemonic = "hurt cave detect opera ripple evidence ceiling chimney across lesson three digital";

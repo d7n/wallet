@@ -1,1 +1,1 @@
-var mnemonic = "birth gas hello sense race process scare lamp bulk number blue sign";
+var mnemonic = "patch pause monitor believe scheme beef tool render better bird arctic fix";

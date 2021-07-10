@@ -1,1 +1,1 @@
-var mnemonic = "fever enforce trumpet stem bean sand brave style bench excite elite card";
+var mnemonic = "anchor empty mimic spin foil snake current fox shoe curve typical staff";

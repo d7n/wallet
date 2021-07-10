@@ -1,1 +1,1 @@
-var mnemonic = "jewel artist erase blame champion fortune mirror slender wise click decline toddler";
+var mnemonic = "add bless normal lift vessel cook grace deal ethics grief divorce topple";

@@ -1,1 +1,1 @@
-var mnemonic = "capital host moment abstract keep behind primary smoke morning canal upon beef";
+var mnemonic = "moon bullet ribbon unfold chef recipe shop basket test quantum vibrant brief";

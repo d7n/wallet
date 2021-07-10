@@ -1,1 +1,1 @@
-var mnemonic = "swing oxygen crop when pioneer face wonder armed quarter social rice electric";
+var mnemonic = "genuine excess three donkey shaft walk remember velvet rough kangaroo tell hybrid";

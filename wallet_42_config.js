@@ -1,1 +1,1 @@
-var mnemonic = "know grass snap bird capable also expose return pony couch slot follow";
+var mnemonic = "clever rug wagon eight resource other apology axis elevator useful ritual shy";

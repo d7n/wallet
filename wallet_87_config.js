@@ -1,1 +1,1 @@
-var mnemonic = "biology sun cross bulb insect glass above praise minor deputy crowd skin";
+var mnemonic = "marine rent dawn august rice culture enough marble release glance decrease vapor";

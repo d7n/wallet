@@ -1,1 +1,1 @@
-var mnemonic = "must expect ozone case jungle nation delay parent credit spy age indicate";
+var mnemonic = "endless satisfy gorilla song vintage market alter flock first husband pause skate";

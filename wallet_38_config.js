@@ -1,1 +1,1 @@
-var mnemonic = "govern north jar initial tree fancy effort again garlic cinnamon embrace occur";
+var mnemonic = "flip start input bulk medal word sudden sight unlock victory glare boss";

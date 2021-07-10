@@ -1,1 +1,1 @@
-var mnemonic = "worry girl crystal case outdoor diamond capital plug regret guess donkey tunnel";
+var mnemonic = "scale student cloth trust release oven inside fun knife tissue curve edit";

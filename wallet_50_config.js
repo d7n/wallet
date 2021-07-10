@@ -1,1 +1,1 @@
-var mnemonic = "yellow snake jump achieve genre draw final neither frozen flat armed alley";
+var mnemonic = "travel animal say account custom illness turkey boss fat fame card define";

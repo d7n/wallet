@@ -1,1 +1,1 @@
-var mnemonic = "state fluid spice blanket elephant educate become coconut drop favorite enlist dream";
+var mnemonic = "monkey notice split rose coast inmate negative equip ostrich defense view lake";

@@ -1,1 +1,1 @@
-var mnemonic = "surface believe exhaust magic never inner erosion innocent noodle marine inform wrap";
+var mnemonic = "cart proud nation oval welcome awake credit crime obey unknown mule protect";

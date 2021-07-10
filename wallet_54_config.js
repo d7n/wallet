@@ -1,1 +1,1 @@
-var mnemonic = "assist dentist team omit glove medal mention interest govern trouble fault rude";
+var mnemonic = "crunch desert farm bleak deer grass ill utility enact bus length talk";

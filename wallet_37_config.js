@@ -1,1 +1,1 @@
-var mnemonic = "fuel horror fly maid bag gas pool metal connect wait tumble fog";
+var mnemonic = "axis enlist eight frost small insane awake shoe depend rabbit play fantasy";

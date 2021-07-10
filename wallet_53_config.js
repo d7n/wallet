@@ -1,1 +1,1 @@
-var mnemonic = "valve violin object opera shine river tobacco penalty opera view coyote light";
+var mnemonic = "olympic radio scissors burger ship attitude wild crime bomb dream gate health";

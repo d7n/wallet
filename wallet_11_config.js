@@ -1,1 +1,1 @@
-var mnemonic = "brisk tonight stool ladder hedgehog rapid solid aspect chimney head right october";
+var mnemonic = "tragic basket under two electric lady tenant wish hawk debris enact evil";

@@ -1,1 +1,1 @@
-var mnemonic = "proud chalk timber october once peace school lens brick address dynamic remove";
+var mnemonic = "depth surface bind helmet lazy cannon live frown crouch front train silk";

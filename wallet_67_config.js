@@ -1,1 +1,1 @@
-var mnemonic = "worth pen fluid hat length essence culture right beef radio reveal peanut";
+var mnemonic = "audit depth physical cushion vacuum frog funny arm fish state destroy dial";

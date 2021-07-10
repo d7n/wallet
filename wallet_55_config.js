@@ -1,1 +1,1 @@
-var mnemonic = "auto monkey edit rely host antique bring lamp pear desert clinic gospel";
+var mnemonic = "guide genuine pulse virus rule mechanic staff cushion shed fiber yard carry";

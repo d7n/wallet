@@ -1,1 +1,1 @@
-var mnemonic = "tube run average relax stadium purpose soccer snake adapt hamster orbit mansion";
+var mnemonic = "photo earn news slide good differ inform scrub saddle tortoise fuel destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "camp now local among noodle economy energy other key fluid slot gas";
+var mnemonic = "give humor seven seminar flash life hope village album better seven foster";

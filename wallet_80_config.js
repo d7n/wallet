@@ -1,1 +1,1 @@
-var mnemonic = "proud fancy snack isolate island vessel arrive vital view follow radio black";
+var mnemonic = "female such vacant patrol whale squirrel depart enlist pull shoe noodle kick";

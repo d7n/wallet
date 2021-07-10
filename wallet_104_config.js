@@ -1,1 +1,1 @@
-var mnemonic = "amused world throw toss place echo grace truth kiwi advance gun course";
+var mnemonic = "flat boring stove say leopard list world dawn air wish spice focus";

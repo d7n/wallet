@@ -1,1 +1,1 @@
-var mnemonic = "announce current ceiling brave more round weapon slow rich shadow broken mammal";
+var mnemonic = "six hungry unit daughter deny arrow shove win caution finger reunion issue";

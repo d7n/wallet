@@ -1,1 +1,1 @@
-var mnemonic = "blast eyebrow item forward candy sweet riot vast category hand chalk era";
+var mnemonic = "dog wreck smile hurdle youth discover moon insect consider soon innocent situate";

@@ -1,1 +1,1 @@
-var mnemonic = "method hollow alley february month cancel mammal mountain setup usage market velvet";
+var mnemonic = "margin oil bomb daring disagree rice define opinion solution vintage chalk spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "fee track snap silly elegant tennis kiss art alpha arctic seminar curve";
+var mnemonic = "sun milk begin horn uniform warrior trend peanut tragic dilemma notice hungry";

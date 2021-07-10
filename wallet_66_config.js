@@ -1,1 +1,1 @@
-var mnemonic = "monitor photo clerk any news fish divorce seek caution foil stumble organ";
+var mnemonic = "trigger sample collect mountain sniff object cancel deal dutch develop near local";

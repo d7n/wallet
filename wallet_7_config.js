@@ -1,1 +1,1 @@
-var mnemonic = "portion guitar media isolate jungle cricket cargo unfair acquire weapon pudding tired";
+var mnemonic = "festival link wide later orange robot walk confirm juice hotel palace busy";

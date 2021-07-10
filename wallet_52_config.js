@@ -1,1 +1,1 @@
-var mnemonic = "misery noodle conduct truly balcony addict brain gate apart ritual evolve hub";
+var mnemonic = "glass always oven into catch federal measure ritual shrimp paper endless ancient";

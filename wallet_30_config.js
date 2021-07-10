@@ -1,1 +1,1 @@
-var mnemonic = "dial enjoy ask potato mix wet label advice water spin seat flip";
+var mnemonic = "easily panic same napkin crucial still island chimney sibling surge steel rotate";

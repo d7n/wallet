@@ -1,1 +1,1 @@
-var mnemonic = "success apology strike insane talent demand salt snow maid faculty hobby ticket";
+var mnemonic = "ribbon name citizen urban usual scout blind topic drama settle crash popular";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit slam empower begin stool stem spike cancel harvest hero clock entry";
+var mnemonic = "butter syrup hint mimic depth now hard work grid suit vanish canvas";

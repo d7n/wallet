@@ -1,1 +1,1 @@
-var mnemonic = "broom front slim win visit come drama glue trade culture federal toddler";
+var mnemonic = "repeat ticket drink father visit sudden merge spice clever butter erase defense";

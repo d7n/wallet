@@ -1,1 +1,1 @@
-var mnemonic = "later general shield prosper glove around language chunk unique three reward attend";
+var mnemonic = "sand pride hill must better simple denial frown shallow knife orbit tortoise";

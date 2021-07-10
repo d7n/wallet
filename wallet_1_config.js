@@ -1,1 +1,1 @@
-var mnemonic = "tomato actor orange wild lottery provide agent miss danger rich soda unveil";
+var mnemonic = "art combine neither admit quiz possible catalog indoor local veteran balance depend";

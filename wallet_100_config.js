@@ -1,1 +1,1 @@
-var mnemonic = "entry office swear armed owner expand actress left hungry luggage cake path";
+var mnemonic = "slice vital coil lend music pole hope travel pulp aspect innocent interest";

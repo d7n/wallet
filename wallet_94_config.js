@@ -1,1 +1,1 @@
-var mnemonic = "tide flash multiply congress popular spare win knife bracket volume state erosion";
+var mnemonic = "cabbage upset case pill bench stamp olive empty reunion wave cushion ten";
