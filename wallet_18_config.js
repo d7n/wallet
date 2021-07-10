@@ -1,1 +1,1 @@
-var mnemonic = "clip game knee mouse ability industry good spider mesh smooth example prefer";
+var mnemonic = "extra sport nuclear cancel laugh cement paper athlete wood pluck pride display";

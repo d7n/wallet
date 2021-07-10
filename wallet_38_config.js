@@ -1,1 +1,1 @@
-var mnemonic = "verb torch wheel rather add royal cage hunt hello fox knife rescue";
+var mnemonic = "basket tiny city village measure sail lizard shrimp fashion shock have negative";

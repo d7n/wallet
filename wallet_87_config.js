@@ -1,1 +1,1 @@
-var mnemonic = "group right matter economy liar hurdle satoshi topic laugh spread fossil attitude";
+var mnemonic = "illegal reform jeans creek cancel voice advance vanish fury power cinnamon empty";

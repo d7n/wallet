@@ -1,1 +1,1 @@
-var mnemonic = "donate trip image tone family lawsuit limit concert vintage top anger blossom";
+var mnemonic = "find reason gaze law hurt gun salt silk helmet visual orchard call";

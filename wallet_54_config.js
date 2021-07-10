@@ -1,1 +1,1 @@
-var mnemonic = "helmet arrest room real ship disorder firm glare exit slim surface stereo";
+var mnemonic = "foil tonight drama mansion hundred ivory cause ribbon arch vintage spy clog";

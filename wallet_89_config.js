@@ -1,1 +1,1 @@
-var mnemonic = "profit fancy million alter quick tunnel dynamic name seed side acoustic hospital";
+var mnemonic = "lamp attitude limit minor ocean depend crop appear act essay dynamic pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "problem also mask spin skill glass bring language become strong axis lyrics";
+var mnemonic = "snake together neglect car feature acid oven friend conduct ordinary treat drink";

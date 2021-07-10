@@ -1,1 +1,1 @@
-var mnemonic = "ketchup library install tissue hawk replace ball solid chronic sort crane piece";
+var mnemonic = "slim hope attract scheme test inhale erode soda next adjust model advice";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel loan more gain affair witness sell rapid equal dash during ship";
+var mnemonic = "nest rough error mammal light love amateur venture minor live offer horror";

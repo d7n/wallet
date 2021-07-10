@@ -1,1 +1,1 @@
-var mnemonic = "use swap unknown want change alley suit abandon height wheel bid subject";
+var mnemonic = "blur retire monkey bid toward crash egg include salmon limit vast slogan";

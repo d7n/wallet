@@ -1,1 +1,1 @@
-var mnemonic = "fork receive total rocket tonight code pink ketchup dwarf fluid apart gaze";
+var mnemonic = "clap detect retire vessel comic boil expect size nothing next motion kick";

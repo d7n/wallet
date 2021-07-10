@@ -1,1 +1,1 @@
-var mnemonic = "harsh fun salmon hollow donate crash spawn general case coconut buyer eyebrow";
+var mnemonic = "fruit recycle elegant height catch gym legend transfer color biology like galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "dish purse champion before hole purity coconut arrive chest valve neck bleak";
+var mnemonic = "matrix unveil because voice bracket ball fence orient silent stamp yellow fly";

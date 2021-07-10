@@ -1,1 +1,1 @@
-var mnemonic = "victory patient visit camera pulp cradle fork inside minute garbage post pattern";
+var mnemonic = "first diesel foil churn harbor decide strong demand drive manual canoe merge";

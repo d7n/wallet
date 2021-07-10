@@ -1,1 +1,1 @@
-var mnemonic = "make now glass cement butter galaxy meadow rebel frozen diesel control result";
+var mnemonic = "entire lend goose artist invest bracket long injury reason comfort gossip nose";

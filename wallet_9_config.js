@@ -1,1 +1,1 @@
-var mnemonic = "reward inch vanish fancy inner toast junk sing inherit always loud grape";
+var mnemonic = "document very pole wealth leave letter license special onion retreat foil sketch";

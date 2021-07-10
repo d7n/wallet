@@ -1,1 +1,1 @@
-var mnemonic = "above sport tortoise unlock plate entire dry tone choice slight local clean";
+var mnemonic = "host pretty pupil magnet okay aisle total narrow web game goat magnet";

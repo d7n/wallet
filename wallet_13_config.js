@@ -1,1 +1,1 @@
-var mnemonic = "fancy labor broken goat length load twice snow diet above evoke evolve";
+var mnemonic = "gap clap pencil expose matter easily tribe discover spoil pattern disease since";

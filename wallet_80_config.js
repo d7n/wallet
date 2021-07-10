@@ -1,1 +1,1 @@
-var mnemonic = "deer daring hedgehog leaf pilot parent cat stick verb ask gauge tilt";
+var mnemonic = "example number cover happy glue beach lens jeans zebra jacket hire annual";

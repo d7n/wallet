@@ -1,1 +1,1 @@
-var mnemonic = "utility output limit cushion blue agree enlist truly purse market enter equal";
+var mnemonic = "elbow reflect leopard object split screen glad capital feel crumble trim wave";

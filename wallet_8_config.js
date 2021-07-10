@@ -1,1 +1,1 @@
-var mnemonic = "bullet nut hollow about violin hospital shadow dentist portion winner blood sun";
+var mnemonic = "sauce crack wreck trend horn off leg immense sauce ritual naive tag";

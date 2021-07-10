@@ -1,1 +1,1 @@
-var mnemonic = "pause gesture merry manual rich narrow detect company double split parent catalog";
+var mnemonic = "reopen neutral knee satoshi box window cruise dove olive evil alcohol inmate";

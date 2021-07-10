@@ -1,1 +1,1 @@
-var mnemonic = "visa crew awake traffic hundred oval push shop degree push bread decide";
+var mnemonic = "change either dynamic unhappy extend grunt winter hello jealous chief dutch hen";

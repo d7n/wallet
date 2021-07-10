@@ -1,1 +1,1 @@
-var mnemonic = "idle medal fabric planet fancy lucky yard hammer cruise friend turn shuffle";
+var mnemonic = "exchange arm pulp foil spray another visit report thunder kitchen because three";

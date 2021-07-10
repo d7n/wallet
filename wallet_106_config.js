@@ -1,1 +1,1 @@
-var mnemonic = "acquire toward common utility child absent tired romance now antenna visit cruise";
+var mnemonic = "erase element theme catalog bless shadow one dry company shove govern visual";

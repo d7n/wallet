@@ -1,1 +1,1 @@
-var mnemonic = "swarm arrow home coyote total fuel uphold rough hurry dizzy plate yellow";
+var mnemonic = "web jazz mountain net crush radar parent perfect loop toy resemble coast";

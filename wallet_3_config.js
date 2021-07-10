@@ -1,1 +1,1 @@
-var mnemonic = "fiscal warfare token kidney decrease despair silent today effort theory mask fiber";
+var mnemonic = "turn galaxy hurry expire caution slide fat rug drum response dance sauce";

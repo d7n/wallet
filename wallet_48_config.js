@@ -1,1 +1,1 @@
-var mnemonic = "people profit cash life increase sadness lady enhance clever sure midnight blanket";
+var mnemonic = "fat renew above mad topic local salon lunch warfare evil acid also";

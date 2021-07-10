@@ -1,1 +1,1 @@
-var mnemonic = "cargo youth phone pencil assume danger armed page avoid fox crisp click";
+var mnemonic = "guitar blouse laptop tumble repair angry cigar wood apart mention ethics soda";

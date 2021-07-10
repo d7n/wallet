@@ -1,1 +1,1 @@
-var mnemonic = "kick novel fat return pretty broken mention vapor off local champion toddler";
+var mnemonic = "barely blossom purpose target festival cigar own core feel escape stand pride";

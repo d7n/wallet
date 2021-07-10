@@ -1,1 +1,1 @@
-var mnemonic = "fortune fluid tenant salute abandon learn broom pond enjoy cluster supply proud";
+var mnemonic = "write lake saddle alley scheme elder hundred wolf stuff fatigue sphere engage";

@@ -1,1 +1,1 @@
-var mnemonic = "novel lucky occur garbage inner barely loud truck quote pig grape harbor";
+var mnemonic = "cliff measure hospital damage tiger tattoo bronze push gate sphere cancel they";

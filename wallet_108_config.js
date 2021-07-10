@@ -1,1 +1,1 @@
-var mnemonic = "buffalo virtual rival prepare reveal snack leg curve snake young spray harsh";
+var mnemonic = "maid banner melt bind cause truck case cabin differ liquid tissue matrix";

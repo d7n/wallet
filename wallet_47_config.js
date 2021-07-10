@@ -1,1 +1,1 @@
-var mnemonic = "pair donkey panel energy small artist begin skill shock duck sword ethics";
+var mnemonic = "stuff oxygen orbit chef receive neutral skirt misery crop spy enemy toss";

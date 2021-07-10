@@ -1,1 +1,1 @@
-var mnemonic = "fence task silk fix drink agree that seminar give cancel alley screen";
+var mnemonic = "bench liar crystal bachelor spell cup misery inherit among inhale carbon victory";

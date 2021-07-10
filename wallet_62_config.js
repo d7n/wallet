@@ -1,1 +1,1 @@
-var mnemonic = "gorilla indicate twist ability opera length hockey market air custom betray dutch";
+var mnemonic = "paper reward height sock route life base cluster shy bonus execute hamster";

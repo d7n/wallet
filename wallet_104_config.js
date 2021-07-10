@@ -1,1 +1,1 @@
-var mnemonic = "crunch siege rigid valve differ rally bone abstract vibrant stumble fossil hour";
+var mnemonic = "fee mask social absorb local sadness notable swallow sunset venue pelican pact";

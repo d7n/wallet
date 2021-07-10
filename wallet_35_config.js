@@ -1,1 +1,1 @@
-var mnemonic = "weird creek edge noble permit mirror notable account tiger three cinnamon image";
+var mnemonic = "build hybrid luxury brave trend luggage snake enrich chief again invest attend";

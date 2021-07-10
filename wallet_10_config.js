@@ -1,1 +1,1 @@
-var mnemonic = "volume claw sound write collect relief blood attack cube million coast citizen";
+var mnemonic = "slush disorder walnut client message praise wedding boat wonder rural bind photo";

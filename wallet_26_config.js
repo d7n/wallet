@@ -1,1 +1,1 @@
-var mnemonic = "approve display worry glass strike vicious play resist glad early seek notable";
+var mnemonic = "lift anxiety lonely width basket cash diet cruise hood range word aware";

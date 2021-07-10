@@ -1,1 +1,1 @@
-var mnemonic = "salon situate result retire cluster image recipe ceiling anchor total hotel slab";
+var mnemonic = "build ecology post syrup ancient virus absent vital praise uniform issue impose";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon occur promote shrug pattern pipe swarm nature tide brown hire undo";
+var mnemonic = "parent urge list web panic salad sock foot hour swear genuine oxygen";

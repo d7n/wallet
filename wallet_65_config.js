@@ -1,1 +1,1 @@
-var mnemonic = "dizzy pledge traffic enter matter pottery town seed defense enforce hole sun";
+var mnemonic = "behave useless great trust benefit slogan project juice welcome sunset oil answer";

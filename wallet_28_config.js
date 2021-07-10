@@ -1,1 +1,1 @@
-var mnemonic = "trade pond fatal amazing magnet surface supreme this model spike mouse breeze";
+var mnemonic = "shallow payment install guide magnet case animal coin dial panic junk pottery";

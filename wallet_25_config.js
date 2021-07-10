@@ -1,1 +1,1 @@
-var mnemonic = "space alone hospital boat cricket drum dinosaur champion frog embark assist occur";
+var mnemonic = "cage vast vacant wild life arrange vast cotton piece meat false lock";

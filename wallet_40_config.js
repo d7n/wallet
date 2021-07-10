@@ -1,1 +1,1 @@
-var mnemonic = "they fresh hint speed nephew industry when uncle gold hire clinic index";
+var mnemonic = "stamp caught diary snap silver lawn unfold toy unaware gadget subject ten";

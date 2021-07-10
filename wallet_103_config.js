@@ -1,1 +1,1 @@
-var mnemonic = "risk post ready stamp all render illness guilt file tiger use shield";
+var mnemonic = "near life remind question year palm pattern flip unique raw furnace busy";

@@ -1,1 +1,1 @@
-var mnemonic = "fever poem hip addict outside ecology sting spoon fox pen fatal betray";
+var mnemonic = "mass toy behind lens clerk laugh first ripple kite jungle promote pill";

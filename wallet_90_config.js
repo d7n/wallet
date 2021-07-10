@@ -1,1 +1,1 @@
-var mnemonic = "satoshi steel satoshi security vicious clump unit wave maid twenty cat receive";
+var mnemonic = "crack rapid found poverty alley dune eager scatter erode window worth hundred";

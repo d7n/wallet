@@ -1,1 +1,1 @@
-var mnemonic = "game buffalo mimic program van power lyrics toss prize wait result hard";
+var mnemonic = "disease boat pyramid before dinner window cube unit now project fix twin";

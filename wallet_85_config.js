@@ -1,1 +1,1 @@
-var mnemonic = "snow avocado ordinary client remember buzz near laugh sun delay hat march";
+var mnemonic = "buffalo language find citizen harsh nest rain maid clutch home camera run";

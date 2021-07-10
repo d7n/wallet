@@ -1,1 +1,1 @@
-var mnemonic = "marriage age giraffe obey interest elbow certain delay kitten nephew taxi tip";
+var mnemonic = "range gym alert focus random aerobic toy glove cherry tooth claw smile";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver balcony mechanic amount smile cargo chicken message patch apology human soccer";
+var mnemonic = "cinnamon monitor raise trend health stay drill write wrong frequent impact castle";

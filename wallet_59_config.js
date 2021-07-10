@@ -1,1 +1,1 @@
-var mnemonic = "pond total pilot exist devote cry stool accuse slide profit join drama";
+var mnemonic = "blush idea income crouch celery broom desert tip month head network final";

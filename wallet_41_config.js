@@ -1,1 +1,1 @@
-var mnemonic = "palace pledge figure unfair dial manual bracket laptop tunnel view super dentist";
+var mnemonic = "derive build case crew region abuse pipe rail possible scout short egg";

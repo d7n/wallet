@@ -1,1 +1,1 @@
-var mnemonic = "farm zoo liberty awesome fever attend dial vehicle turtle man add upset";
+var mnemonic = "goat broccoli pupil potato warm clutch dwarf shoulder play antique cup upper";

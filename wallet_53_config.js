@@ -1,1 +1,1 @@
-var mnemonic = "place camp imitate pole cradle genius mushroom improve belt blush lock cabbage";
+var mnemonic = "elegant wheat column develop age letter cattle wink leaf claim lake vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty mushroom short mind pact razor lab glide race fancy peace elegant";
+var mnemonic = "kite nose rival siege bundle elevator hint web jaguar grace kitten switch";

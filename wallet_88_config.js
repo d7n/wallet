@@ -1,1 +1,1 @@
-var mnemonic = "quarter razor measure wise portion enforce educate oval wisdom legal arrest check";
+var mnemonic = "pond brave home embark during north ordinary army maze mystery wrap powder";

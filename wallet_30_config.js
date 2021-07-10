@@ -1,1 +1,1 @@
-var mnemonic = "box vivid fence vendor evil hold huge actual crane jealous retreat obvious";
+var mnemonic = "mushroom cook physical glide scan crazy also bean baby mimic dress science";

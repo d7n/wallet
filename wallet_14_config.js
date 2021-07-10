@@ -1,1 +1,1 @@
-var mnemonic = "knife hawk pretty absurd discover wait brief anchor cloth daring rapid border";
+var mnemonic = "gasp brother normal strategy beef special dizzy reject cargo amazing cover mobile";

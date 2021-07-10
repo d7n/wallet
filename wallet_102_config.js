@@ -1,1 +1,1 @@
-var mnemonic = "raise cupboard crunch stool stay blame casual invest three retire farm avocado";
+var mnemonic = "angry ribbon vote hand fence rival chunk seminar egg jaguar school culture";

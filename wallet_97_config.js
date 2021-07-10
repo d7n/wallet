@@ -1,1 +1,1 @@
-var mnemonic = "nature caught current speed urge mercy panther menu debris fly mind burden";
+var mnemonic = "blue limit wood ramp come pupil truck scare insane gorilla doctor fever";

@@ -1,1 +1,1 @@
-var mnemonic = "better dignity midnight hero world arena indoor limit prefer owner stuff attend";
+var mnemonic = "custom crouch clap distance maze popular weekend trick primary scrap solid swim";

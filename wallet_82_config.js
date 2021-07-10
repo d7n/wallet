@@ -1,1 +1,1 @@
-var mnemonic = "ticket paper thought inquiry turtle strategy execute senior raise transfer acoustic laptop";
+var mnemonic = "arrange essence dinosaur pull wish lake tackle wage best firm rigid dawn";

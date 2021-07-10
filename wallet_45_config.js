@@ -1,1 +1,1 @@
-var mnemonic = "rude just pool tooth announce color culture cinnamon cycle match amount equal";
+var mnemonic = "anxiety color scheme vacuum submit off endorse group finish health foil essay";

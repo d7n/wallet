@@ -1,1 +1,1 @@
-var mnemonic = "antenna code pen zone theme luxury fee aisle kingdom have dish random";
+var mnemonic = "long modify yard awesome balcony shrug burger cheese fly sweet seven judge";

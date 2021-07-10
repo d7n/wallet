@@ -1,1 +1,1 @@
-var mnemonic = "slice summer fitness relief upset place toilet patch empower egg twist peasant";
+var mnemonic = "guitar puzzle assume pave aware tiny vast educate spoon parade soul pig";

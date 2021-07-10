@@ -1,1 +1,1 @@
-var mnemonic = "blush goat airport bright barrel butter secret bike witness swift index online";
+var mnemonic = "suggest modify one pig happy tunnel wreck cost require fly oppose cup";

@@ -1,1 +1,1 @@
-var mnemonic = "card jeans vacant human broken engine daring image fork secret area ignore";
+var mnemonic = "amateur rough license among arrow remain taxi parent party garlic ceiling field";

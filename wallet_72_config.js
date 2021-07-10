@@ -1,1 +1,1 @@
-var mnemonic = "brave attack recall phone daring envelope antique toss label scale verify silver";
+var mnemonic = "flight orient radio exotic soft champion science oblige awful harbor someone submit";

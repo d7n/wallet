@@ -1,1 +1,1 @@
-var mnemonic = "raccoon label picnic casino mixed make palm fiber measure blouse torch labor";
+var mnemonic = "into lion child round answer struggle dismiss maze gorilla casino wagon aunt";

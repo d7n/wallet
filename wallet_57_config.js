@@ -1,1 +1,1 @@
-var mnemonic = "chair quality shop surge garden beach human employ debris head donate pitch";
+var mnemonic = "net alien hedgehog lock dutch jump rate involve remove false next dove";

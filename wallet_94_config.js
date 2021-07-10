@@ -1,1 +1,1 @@
-var mnemonic = "dentist hammer jaguar destroy tissue card weapon exhibit accident right net river";
+var mnemonic = "rocket swap shrug swear idle chaos citizen blossom salad divorce salt peasant";

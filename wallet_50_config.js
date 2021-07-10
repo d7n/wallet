@@ -1,1 +1,1 @@
-var mnemonic = "jealous kite feature anxiety pigeon person secret regret mirror jelly endless abandon";
+var mnemonic = "journey surround desk primary rose glide exhibit trip better cool surround lava";

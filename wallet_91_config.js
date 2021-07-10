@@ -1,1 +1,1 @@
-var mnemonic = "goat pride noise culture near globe maze pistol confirm average sorry truth";
+var mnemonic = "picnic mutual faith useless track entire decrease village vital fragile foam split";

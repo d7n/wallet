@@ -1,1 +1,1 @@
-var mnemonic = "double push myself taste lend pepper observe bone luggage brief duck mansion";
+var mnemonic = "trust barrel damp pluck drip document roast weather three half pipe cushion";

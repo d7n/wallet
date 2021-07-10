@@ -1,1 +1,1 @@
-var mnemonic = "false install label trash provide make castle catch jeans leave kiwi task";
+var mnemonic = "reason dignity cherry want suspect clap snap junk secret day gallery artist";

@@ -1,1 +1,1 @@
-var mnemonic = "just ill prepare inflict grit potato trade travel onion turn flash sauce";
+var mnemonic = "vacant napkin chimney service kick manual escape hood cradle allow deliver timber";

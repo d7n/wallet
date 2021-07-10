@@ -1,1 +1,1 @@
-var mnemonic = "treat member isolate ship smooth major three credit level final escape call";
+var mnemonic = "genre almost save menu question tennis moral happy ostrich advance hub quarter";

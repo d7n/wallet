@@ -1,1 +1,1 @@
-var mnemonic = "accident have item spray police wine alarm essence issue garlic slice found";
+var mnemonic = "settle grab exercise journey trade moon tiger alter stove repair race witness";

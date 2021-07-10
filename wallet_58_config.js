@@ -1,1 +1,1 @@
-var mnemonic = "build ordinary cotton vehicle involve country double cover never sad brave filter";
+var mnemonic = "industry nature high chase enact valid elegant sea save goat icon anger";

@@ -1,1 +1,1 @@
-var mnemonic = "predict bird black sail vote convince audit snake smart network cheese cherry";
+var mnemonic = "venue page giggle segment knee idea manage seed write discover dog layer";

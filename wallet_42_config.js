@@ -1,1 +1,1 @@
-var mnemonic = "together bullet limb cloud addict usual lucky wheat vault today enter dizzy";
+var mnemonic = "vault train calm property repeat drama aerobic what there energy situate morning";

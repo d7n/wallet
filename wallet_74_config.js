@@ -1,1 +1,1 @@
-var mnemonic = "nation derive alert maximum maze giraffe spike buddy stage problem chest area";
+var mnemonic = "dutch march affair task tattoo enter category observe fire piece practice share";

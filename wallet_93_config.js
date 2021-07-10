@@ -1,1 +1,1 @@
-var mnemonic = "faint world elite race shy race review satisfy very pipe struggle pottery";
+var mnemonic = "express era volcano antenna dumb first trap crime when copper child science";

@@ -1,1 +1,1 @@
-var mnemonic = "weather pigeon vapor build school shop snake shop memory bargain elegant antique";
+var mnemonic = "copper crater inside next erode conduct topic diary okay limit neither section";

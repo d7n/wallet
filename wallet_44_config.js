@@ -1,1 +1,1 @@
-var mnemonic = "catalog noise diamond candy pair ready spoil unveil true across toddler net";
+var mnemonic = "make cover rapid february outside noodle clay final train weekend twist raw";
