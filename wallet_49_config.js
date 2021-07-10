@@ -1,1 +1,1 @@
-var mnemonic = "evidence entire wasp age dad direct dance fiscal bone goat learn hint";
+var mnemonic = "fiction rice hair maid gate resist honey wine relax mask misery sea";

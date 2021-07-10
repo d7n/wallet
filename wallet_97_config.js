@@ -1,1 +1,1 @@
-var mnemonic = "almost chair august drink adult barely music income purity gown range rule";
+var mnemonic = "then hawk also coach adapt test hover intact wrong prepare ready profit";

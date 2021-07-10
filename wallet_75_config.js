@@ -1,1 +1,1 @@
-var mnemonic = "copy mention acquire bonus fancy arctic hope possible finish party dove polar";
+var mnemonic = "hedgehog chaos pluck glow animal then ghost fetch solid journey first front";

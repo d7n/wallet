@@ -1,1 +1,1 @@
-var mnemonic = "old crazy token below confirm habit law dice habit fine weather deposit";
+var mnemonic = "punch toe glow tragic car blossom jar bubble forest library siren daring";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma ramp march mad cave nurse dance popular power ceiling feed symbol";
+var mnemonic = "steel frozen record magic milk farm frequent lend champion silk sudden isolate";

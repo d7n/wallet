@@ -1,1 +1,1 @@
-var mnemonic = "sell short solar chase lottery welcome chat brain traffic attend right life";
+var mnemonic = "claim daughter chicken result lens wise scorpion fix creek slow supply priority";

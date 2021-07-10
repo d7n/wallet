@@ -1,1 +1,1 @@
-var mnemonic = "benefit join muffin choice brother bread rough mean inch derive genius horse";
+var mnemonic = "brown cage cloth category symptom hazard ivory pledge matrix blame rally satisfy";

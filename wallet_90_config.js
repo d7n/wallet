@@ -1,1 +1,1 @@
-var mnemonic = "token cruise recycle amount goose wreck memory clog legal wrist lucky warrior";
+var mnemonic = "eternal render grief begin below reason antenna opinion twelve close ceiling ill";

@@ -1,1 +1,1 @@
-var mnemonic = "net recall magnet stuff ordinary barrel glide talk load coin nest unveil";
+var mnemonic = "shuffle access wide whip giggle record museum hospital unusual inject volcano high";

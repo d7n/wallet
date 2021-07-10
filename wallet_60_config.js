@@ -1,1 +1,1 @@
-var mnemonic = "glide help unaware luggage tag charge chair scheme excite number same cute";
+var mnemonic = "world avoid pet romance deny thumb lava fatigue sweet rib inflict diesel";

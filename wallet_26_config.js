@@ -1,1 +1,1 @@
-var mnemonic = "battle injury answer home claw such image vote father table universe flight";
+var mnemonic = "globe vanish aspect home hub cupboard victory jewel vicious summer during require";

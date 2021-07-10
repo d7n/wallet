@@ -1,1 +1,1 @@
-var mnemonic = "school student busy exact second sweet bachelor already cave off weather odor";
+var mnemonic = "buyer fragile certain liar only long essence stable present shrug infant lucky";

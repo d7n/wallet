@@ -1,1 +1,1 @@
-var mnemonic = "foam session syrup famous used hope keep when mesh electric claw boat";
+var mnemonic = "energy youth half galaxy foam couch police begin voice mixed hover brush";

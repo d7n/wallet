@@ -1,1 +1,1 @@
-var mnemonic = "cloud injury rescue recycle limb category identify manual govern mandate accuse boss";
+var mnemonic = "stove sell donkey unknown hollow educate east drive coffee upon prison project";

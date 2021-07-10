@@ -1,1 +1,1 @@
-var mnemonic = "side sense cargo dance round chicken glass country decrease quit remain suffer";
+var mnemonic = "grant pony happy total impact april layer tumble liar invite disease room";

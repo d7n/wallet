@@ -1,1 +1,1 @@
-var mnemonic = "menu assault home capable color mother bulb add unusual fruit position tag";
+var mnemonic = "oblige promote ship ghost hazard direct shop fluid grant shoulder virus liberty";

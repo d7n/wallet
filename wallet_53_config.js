@@ -1,1 +1,1 @@
-var mnemonic = "case acoustic mean limit twelve tired moral dirt mixed code large series";
+var mnemonic = "blanket blue slow found earth allow flower ring arctic praise layer oval";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil stereo ask broken stable wreck panel craft robot label word carpet";
+var mnemonic = "employ purpose basic cram orchard member pig gaze energy limb pen travel";

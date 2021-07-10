@@ -1,1 +1,1 @@
-var mnemonic = "lab paddle arch unique risk write ticket stool fatal cat much fall";
+var mnemonic = "kangaroo broccoli seven globe tuition hidden measure rebuild will maple transfer inspire";

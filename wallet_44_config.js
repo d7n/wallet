@@ -1,1 +1,1 @@
-var mnemonic = "noodle fish sure veteran actor inmate cause case page disorder pair bag";
+var mnemonic = "silk trophy glue elevator poet stage quote action lift fabric cream put";

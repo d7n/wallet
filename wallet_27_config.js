@@ -1,1 +1,1 @@
-var mnemonic = "burst indoor link poet ensure cash scene nice else whale theory ready";
+var mnemonic = "language tunnel topic quote chunk tennis solve aim will cake hunt game";

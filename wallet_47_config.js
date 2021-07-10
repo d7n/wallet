@@ -1,1 +1,1 @@
-var mnemonic = "shock lyrics water language hen invite employ cake bacon border clump antique";
+var mnemonic = "rude rare become stone caught rug fine slender pistol employ picnic gospel";

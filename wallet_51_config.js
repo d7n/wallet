@@ -1,1 +1,1 @@
-var mnemonic = "police vast response sphere license source clump gasp luxury panther rain mosquito";
+var mnemonic = "aim solar work layer invite duty acid critic boost ostrich door elder";

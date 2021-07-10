@@ -1,1 +1,1 @@
-var mnemonic = "bike source owner village analyst happy harsh indicate company year half mimic";
+var mnemonic = "dream talk offer rescue jacket stage soda inject spread muffin gas aim";

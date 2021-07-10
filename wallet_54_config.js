@@ -1,1 +1,1 @@
-var mnemonic = "gauge turkey camera boss exile anxiety trumpet notable avoid spy rapid combine";
+var mnemonic = "west lawn frown method build volcano hour feed about verify moment wagon";

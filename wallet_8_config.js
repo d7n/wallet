@@ -1,1 +1,1 @@
-var mnemonic = "tribe rapid nuclear glove accuse borrow when dry move mixture tuna body";
+var mnemonic = "ribbon camp range deputy century load image cup pass ripple lunar hello";

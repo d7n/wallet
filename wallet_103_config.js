@@ -1,1 +1,1 @@
-var mnemonic = "slam sheriff repair spring chicken settle alert quick leopard dream soon autumn";
+var mnemonic = "real sport noise alcohol skin orient own skin penalty very bicycle baby";

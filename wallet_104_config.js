@@ -1,1 +1,1 @@
-var mnemonic = "solve undo century habit proof dry excite alert immune menu seek salt";
+var mnemonic = "update inherit oblige match menu gather caught harbor park bird mystery shell";

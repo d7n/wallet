@@ -1,1 +1,1 @@
-var mnemonic = "future smart flavor put expand talent busy knife squirrel ketchup year indicate";
+var mnemonic = "cash ill buddy inside melody nation select betray camera since obtain swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "embody private cycle panel accident manual fossil stuff easy divert cart now";
+var mnemonic = "gas claw rather earth pool dad acquire actor ask lesson artwork index";

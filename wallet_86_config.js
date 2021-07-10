@@ -1,1 +1,1 @@
-var mnemonic = "review close move unfold mix tree mutual avoid duck such hole raise";
+var mnemonic = "hip assault dish shallow little soap pretty interest quit suffer digital fix";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog nasty catalog weather fresh inner follow artist hair ill vast any";
+var mnemonic = "change front amount crime shuffle element basic hair weird grant snow ketchup";

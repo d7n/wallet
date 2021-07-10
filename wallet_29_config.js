@@ -1,1 +1,1 @@
-var mnemonic = "owner capital grunt valid false satisfy stool immense charge pluck butter slot";
+var mnemonic = "assault green flip moment pause asset media jeans flock whale knock usage";

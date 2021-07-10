@@ -1,1 +1,1 @@
-var mnemonic = "worry leader demand ribbon enter achieve into balance found pupil sick arrow";
+var mnemonic = "sketch fly jazz kit oppose combine mass silent sample crunch gravity reward";

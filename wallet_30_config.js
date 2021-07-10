@@ -1,1 +1,1 @@
-var mnemonic = "music purse merit fatigue bonus wage wet ensure weather absorb order unveil";
+var mnemonic = "news around tape bunker tower divorce gown mandate wine orange leg picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny clump chest enough pen under welcome connect poem purpose away before";
+var mnemonic = "wet you silk satisfy deny spoon auto jungle huge meat cliff dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion casino pear autumn better bubble vendor release nothing stage knock image";
+var mnemonic = "alone exile view practice peasant rally that dose cloth phrase neglect sustain";

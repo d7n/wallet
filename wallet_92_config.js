@@ -1,1 +1,1 @@
-var mnemonic = "horror diary order armed valid crack budget you network pyramid frequent cross";
+var mnemonic = "famous dolphin notice child primary spice require glad foam like glide honey";

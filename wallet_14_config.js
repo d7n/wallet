@@ -1,1 +1,1 @@
-var mnemonic = "peace harbor myth borrow portion spray roast furnace vague quality delay sunny";
+var mnemonic = "small mother entire project eyebrow pottery soldier habit monitor crowd humble popular";

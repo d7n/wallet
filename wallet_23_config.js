@@ -1,1 +1,1 @@
-var mnemonic = "render cancel kitchen girl bridge method sugar nice merge siege impact solid";
+var mnemonic = "gather size shove chimney alarm year joke trip normal fat wrestle ship";

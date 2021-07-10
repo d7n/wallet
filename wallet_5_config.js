@@ -1,1 +1,1 @@
-var mnemonic = "toy leaf jungle polar enact rose laundry west next party corn health";
+var mnemonic = "sausage bottom elegant deer wonder long glimpse east grass park moral liquid";

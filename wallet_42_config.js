@@ -1,1 +1,1 @@
-var mnemonic = "announce entry hub puppy network slab mix pipe ship volume item cushion";
+var mnemonic = "auction rhythm correct trend casual pretty live before curtain artefact episode spoon";

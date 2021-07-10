@@ -1,1 +1,1 @@
-var mnemonic = "special ketchup brick hood wheel giggle hire marine cupboard dream taste symbol";
+var mnemonic = "mistake hurry water sight merit way spell enhance sand expose kingdom bottom";

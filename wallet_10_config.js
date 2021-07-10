@@ -1,1 +1,1 @@
-var mnemonic = "kite once gather ticket legend they high roast piece reveal expose damage";
+var mnemonic = "demand impose crush solution then other engine kidney shoot office multiply liquid";

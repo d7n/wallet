@@ -1,1 +1,1 @@
-var mnemonic = "stem disagree retire end nerve burst divorce sniff trouble toss lunar soon";
+var mnemonic = "bicycle useful gym soldier birth noble thought now race must wear inquiry";

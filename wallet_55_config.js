@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin length bind vivid alert piano tower abstract address electric cigar shoulder";
+var mnemonic = "color glow endless jealous awake tumble ghost spend place special wink doll";

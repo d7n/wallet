@@ -1,1 +1,1 @@
-var mnemonic = "expire pear hub heavy swing size cabin invest security other ridge palm";
+var mnemonic = "figure exclude finish erupt double library ramp abstract trust say unfair kick";

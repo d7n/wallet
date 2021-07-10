@@ -1,1 +1,1 @@
-var mnemonic = "country gate used real gadget rural silver win enhance spoon ticket hold";
+var mnemonic = "frame flip maze wine frost crouch violin joke churn surround two season";

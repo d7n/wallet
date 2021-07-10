@@ -1,1 +1,1 @@
-var mnemonic = "fade another shiver gesture welcome okay juice above bread parrot coin armed";
+var mnemonic = "welcome album tackle typical gentle abstract timber box useless gentle flag cover";

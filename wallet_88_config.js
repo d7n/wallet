@@ -1,1 +1,1 @@
-var mnemonic = "keen height fetch ketchup divert begin toss visa fuel rhythm document potato";
+var mnemonic = "roast raise avoid angry slow slice expect media junk wealth initial kitchen";

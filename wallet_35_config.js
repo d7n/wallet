@@ -1,1 +1,1 @@
-var mnemonic = "cactus breeze correct merge frozen romance enroll client worth modify law coach";
+var mnemonic = "coil bread prefer hungry fiber april flight bar sight plate crack enter";

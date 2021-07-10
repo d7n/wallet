@@ -1,1 +1,1 @@
-var mnemonic = "mistake decade city resource diary danger elite potato flavor legal kangaroo enrich";
+var mnemonic = "fetch purchase oak security rubber ship shoe future car quality oak ride";

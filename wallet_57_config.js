@@ -1,1 +1,1 @@
-var mnemonic = "believe mix pelican harvest caught thing great vault napkin rival speak current";
+var mnemonic = "machine observe stand car fury letter crunch cycle later dice current ski";

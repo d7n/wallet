@@ -1,1 +1,1 @@
-var mnemonic = "pluck step satisfy harsh lonely pencil elite invest clay tired settle tone";
+var mnemonic = "rabbit job typical burst cover unique fortune index apart save flavor stool";

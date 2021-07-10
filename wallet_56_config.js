@@ -1,1 +1,1 @@
-var mnemonic = "someone dawn rhythm shrimp puzzle flame elbow fix pumpkin render poverty clutch";
+var mnemonic = "foam scale improve nurse jazz cement fossil wish ignore panic minimum media";

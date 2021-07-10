@@ -1,1 +1,1 @@
-var mnemonic = "prison then decrease topple chronic mercy zero coconut stick card during popular";
+var mnemonic = "nephew sniff leopard sorry steak disagree pig pond weather peasant model wish";

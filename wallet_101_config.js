@@ -1,1 +1,1 @@
-var mnemonic = "switch subway throw ozone stick snow antique bring hire rigid carbon panic";
+var mnemonic = "refuse maple pass employ tilt cost adapt craft space deputy method leave";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze budget reopen dignity pigeon mercy that permit flower news case word";
+var mnemonic = "gallery clean blast inside cat sock spirit close wait toast curious piano";

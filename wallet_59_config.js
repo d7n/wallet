@@ -1,1 +1,1 @@
-var mnemonic = "turtle color nature twin disorder exist dune room family essay hurt token";
+var mnemonic = "problem denial utility helmet mansion there often cube video estate nurse easily";

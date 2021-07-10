@@ -1,1 +1,1 @@
-var mnemonic = "forget hood detect catch paper announce clog friend correct panther crumble ocean";
+var mnemonic = "click image north lumber can net saddle solution verb caution street owner";

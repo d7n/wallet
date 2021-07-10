@@ -1,1 +1,1 @@
-var mnemonic = "frozen immense mansion allow claw good slab royal boss call sign obvious";
+var mnemonic = "wisdom silent push distance evil panther coil seek employ obtain this office";

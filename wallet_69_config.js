@@ -1,1 +1,1 @@
-var mnemonic = "rescue iron roast fiction cook whale beyond powder napkin north hat rather";
+var mnemonic = "either latin dune laugh deputy bag before transfer bonus receive involve risk";

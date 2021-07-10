@@ -1,1 +1,1 @@
-var mnemonic = "spider original spawn column scare squeeze provide print mad off broom smile";
+var mnemonic = "dress buffalo cereal buzz system salmon stumble tragic endorse swap erupt pair";

@@ -1,1 +1,1 @@
-var mnemonic = "airport cupboard push unable doctor enforce priority agree eight entire erase about";
+var mnemonic = "virtual first loan dismiss bring feel system kick foam follow lounge invest";

@@ -1,1 +1,1 @@
-var mnemonic = "life grain vessel stone modify reject afraid satoshi fence mutual husband horse";
+var mnemonic = "width hunt fame involve govern comfort group lounge room flame elite agree";

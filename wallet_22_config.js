@@ -1,1 +1,1 @@
-var mnemonic = "away country reunion honey fortune smart erode disease height broken suggest near";
+var mnemonic = "path snap future smoke uphold ride question success clap earth process original";

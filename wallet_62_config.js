@@ -1,1 +1,1 @@
-var mnemonic = "column duty summer alley wire impact shy buddy shallow pigeon help music";
+var mnemonic = "impose defy gun air approve word sick bench purchase horn gauge scissors";

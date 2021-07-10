@@ -1,1 +1,1 @@
-var mnemonic = "village punch balcony curve model rib turtle alley speak diagram sand bring";
+var mnemonic = "asset trash october timber solid design hybrid buddy effort review define abstract";

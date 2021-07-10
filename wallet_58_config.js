@@ -1,1 +1,1 @@
-var mnemonic = "upon excite amount wisdom cluster humble notice number hockey novel wild monitor";
+var mnemonic = "crisp juice lion economy can method until egg glove steel code envelope";

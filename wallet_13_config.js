@@ -1,1 +1,1 @@
-var mnemonic = "wet picnic finish loop remove filter cradle sunset pill neck marble elevator";
+var mnemonic = "gather oil crawl exotic still multiply power quit layer inform cube food";

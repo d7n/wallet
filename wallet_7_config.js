@@ -1,1 +1,1 @@
-var mnemonic = "friend cry keep isolate evidence mad daring envelope learn mammal armor spell";
+var mnemonic = "bar taste comic drama zero measure earth faculty true snow salad fall";

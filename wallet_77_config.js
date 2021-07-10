@@ -1,1 +1,1 @@
-var mnemonic = "excess uncle power menu case vehicle guard group cake aunt saddle find";
+var mnemonic = "kick abandon crumble dolphin cruise bean august mule wood adjust waste buffalo";

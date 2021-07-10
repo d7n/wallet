@@ -1,1 +1,1 @@
-var mnemonic = "document color quick another black harsh absorb anger echo supreme rely faculty";
+var mnemonic = "census tag grid height wagon artefact clump brass hedgehog rude pelican antenna";

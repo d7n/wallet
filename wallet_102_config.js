@@ -1,1 +1,1 @@
-var mnemonic = "vault inform leisure palace decrease hedgehog apology drastic flat return pet social";
+var mnemonic = "wheat until news volcano robot apart breeze banana parent unhappy cigar genre";

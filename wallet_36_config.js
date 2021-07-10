@@ -1,1 +1,1 @@
-var mnemonic = "rent science guess process account library furnace bright announce lemon total involve";
+var mnemonic = "saddle slight slush cover chief decide auto clarify lock snack grain aspect";

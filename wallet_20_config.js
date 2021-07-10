@@ -1,1 +1,1 @@
-var mnemonic = "royal outside oyster clarify fetch moon curve success pact wall pelican arctic";
+var mnemonic = "brass assume taste open foster dragon cheese dismiss fruit achieve mind over";

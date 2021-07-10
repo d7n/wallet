@@ -1,1 +1,1 @@
-var mnemonic = "high describe talent wrap food race rain clap energy palace rack list";
+var mnemonic = "truth prosper mango observe price drive surface source bullet property bundle spoon";

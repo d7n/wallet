@@ -1,1 +1,1 @@
-var mnemonic = "crush same buyer guide october quantum cargo business any carbon donate insect";
+var mnemonic = "arrow start bitter twelve tag speed grocery castle popular pizza lab pill";

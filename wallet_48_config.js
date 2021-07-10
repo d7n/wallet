@@ -1,1 +1,1 @@
-var mnemonic = "sport cousin such agree pluck sunset bottom grief egg smooth phone motor";
+var mnemonic = "west frozen fiber interest coast cool staff scale popular fall middle gun";

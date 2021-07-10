@@ -1,1 +1,1 @@
-var mnemonic = "system link hawk pulse game leader base garden drill chat rain citizen";
+var mnemonic = "tiger moral scale say sword try phone roof lunch item subway system";

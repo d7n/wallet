@@ -1,1 +1,1 @@
-var mnemonic = "decrease company smoke cupboard boat walk child talent truck denial shoot popular";
+var mnemonic = "section act correct penalty conduct tape juice oven inmate glue half robust";

@@ -1,1 +1,1 @@
-var mnemonic = "online spirit silent echo myself stem picture deputy midnight oak stadium image";
+var mnemonic = "struggle protect uniform bundle senior grab fold comfort now dry artefact engine";

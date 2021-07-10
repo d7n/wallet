@@ -1,1 +1,1 @@
-var mnemonic = "glove tent tree refuse cigar current address venture since small anxiety reduce";
+var mnemonic = "between faculty brisk virus cradle web load ethics wine ostrich below middle";

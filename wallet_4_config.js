@@ -1,1 +1,1 @@
-var mnemonic = "drill eyebrow profit wait vendor grass device decrease young cluster vital nurse";
+var mnemonic = "broom lottery devote habit spawn domain culture again man also pattern tone";

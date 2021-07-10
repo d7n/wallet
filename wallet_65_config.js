@@ -1,1 +1,1 @@
-var mnemonic = "street trap climb fantasy stumble tragic stove evidence this carbon remove comfort";
+var mnemonic = "ghost certain sun couch chimney trigger type twenty space siege mom pause";

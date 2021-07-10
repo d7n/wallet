@@ -1,1 +1,1 @@
-var mnemonic = "spawn amazing van demand level tray meadow retreat gown eye lion ring";
+var mnemonic = "feed cart tribe tonight bonus retire matrix dance approve orient pitch fatal";

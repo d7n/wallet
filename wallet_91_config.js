@@ -1,1 +1,1 @@
-var mnemonic = "among toddler mule tunnel multiply rebel chaos message mouse okay jeans claw";
+var mnemonic = "unusual siren just wear marriage village frost away pumpkin nasty fury rain";

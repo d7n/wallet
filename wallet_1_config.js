@@ -1,1 +1,1 @@
-var mnemonic = "meadow page hero ride normal movie history divert truck blue couch bullet";
+var mnemonic = "sort acquire twenty soldier sort blouse drop evil double top ahead glare";

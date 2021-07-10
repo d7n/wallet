@@ -1,1 +1,1 @@
-var mnemonic = "entry thank gold skull follow mail friend attend dirt ball enrich drink";
+var mnemonic = "sword scare addict find warrior ancient over october gain census document stereo";

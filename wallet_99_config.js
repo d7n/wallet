@@ -1,1 +1,1 @@
-var mnemonic = "connect fringe impact snap garlic inspire cloud spider amused permit program noble";
+var mnemonic = "prison nice aim view text dignity cabin inherit volume tiny online wire";
