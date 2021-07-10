@@ -1,1 +1,1 @@
-var mnemonic = "remind clown empower update acoustic vibrant fruit firm worth negative buyer body";
+var mnemonic = "rescue iron roast fiction cook whale beyond powder napkin north hat rather";

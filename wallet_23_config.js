@@ -1,1 +1,1 @@
-var mnemonic = "chase unlock romance language snake chunk prefer elbow suit turtle dove beef";
+var mnemonic = "render cancel kitchen girl bridge method sugar nice merge siege impact solid";

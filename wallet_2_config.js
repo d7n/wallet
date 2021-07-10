@@ -1,1 +1,1 @@
-var mnemonic = "focus wear tumble treat drum explain ride valley flee type hover buyer";
+var mnemonic = "side sense cargo dance round chicken glass country decrease quit remain suffer";

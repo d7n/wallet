@@ -1,1 +1,1 @@
-var mnemonic = "day abuse beauty burst despair bring during void gospel one motion dragon";
+var mnemonic = "food alpha disorder indoor corn whip tiny chat oblige tone razor core";

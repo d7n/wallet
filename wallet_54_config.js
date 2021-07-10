@@ -1,1 +1,1 @@
-var mnemonic = "loan boil scene friend work since notice maximum define essence sick horse";
+var mnemonic = "gauge turkey camera boss exile anxiety trumpet notable avoid spy rapid combine";

@@ -1,1 +1,1 @@
-var mnemonic = "earth soft mountain identify globe shove rebel obscure feed giraffe used runway";
+var mnemonic = "rent science guess process account library furnace bright announce lemon total involve";

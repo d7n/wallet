@@ -1,1 +1,1 @@
-var mnemonic = "laugh bone govern black nerve please palm select program code valley demand";
+var mnemonic = "slam sheriff repair spring chicken settle alert quick leopard dream soon autumn";

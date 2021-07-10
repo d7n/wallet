@@ -1,1 +1,1 @@
-var mnemonic = "gun rebuild service aspect shift virtual cake sunset what coconut wisdom twist";
+var mnemonic = "antenna process rifle resist citizen nest best auction tree resource refuse moral";

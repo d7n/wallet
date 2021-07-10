@@ -1,1 +1,1 @@
-var mnemonic = "ugly stem bag key round dutch cancel fluid story toy joke tiny";
+var mnemonic = "insane volume connect cake visit squeeze skill load mistake head economy aunt";

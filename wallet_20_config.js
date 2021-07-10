@@ -1,1 +1,1 @@
-var mnemonic = "zone surround inherit pause enjoy dentist kitchen judge ostrich rubber table maple";
+var mnemonic = "royal outside oyster clarify fetch moon curve success pact wall pelican arctic";

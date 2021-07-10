@@ -1,1 +1,1 @@
-var mnemonic = "pool subway today vendor episode neglect voyage brush tag fish curve celery";
+var mnemonic = "pumpkin length bind vivid alert piano tower abstract address electric cigar shoulder";

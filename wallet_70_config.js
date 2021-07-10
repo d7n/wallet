@@ -1,1 +1,1 @@
-var mnemonic = "hold exotic case attend ring angry craft wrap someone ship warfare burden";
+var mnemonic = "genuine hold south surprise squirrel force mutual bottom naive expand trust century";

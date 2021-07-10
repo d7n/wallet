@@ -1,1 +1,1 @@
-var mnemonic = "tower when stereo bulk draw manage since all convince faculty tube axis";
+var mnemonic = "owner capital grunt valid false satisfy stool immense charge pluck butter slot";

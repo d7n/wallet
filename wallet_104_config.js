@@ -1,1 +1,1 @@
-var mnemonic = "retire mixture speak magic drill theory patch cream sand catch pride glove";
+var mnemonic = "solve undo century habit proof dry excite alert immune menu seek salt";

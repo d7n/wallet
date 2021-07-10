@@ -1,1 +1,1 @@
-var mnemonic = "soft left neck mammal sorry minimum sell avoid nation viable carpet donkey";
+var mnemonic = "peace harbor myth borrow portion spray roast furnace vague quality delay sunny";

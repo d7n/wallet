@@ -1,1 +1,1 @@
-var mnemonic = "body chef ankle forward category credit work void party sustain lesson clever";
+var mnemonic = "announce entry hub puppy network slab mix pipe ship volume item cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "maze lens profit tiger ginger lunch bounce chair stool float pipe silly";
+var mnemonic = "install then ghost coffee hobby under evolve asthma gauge bottom arrange whale";

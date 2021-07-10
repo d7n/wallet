@@ -1,1 +1,1 @@
-var mnemonic = "lonely cute engage fever obscure hello brisk local point half village congress";
+var mnemonic = "myself sentence drink void advance blast episode curtain exile spice cause robot";

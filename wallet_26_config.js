@@ -1,1 +1,1 @@
-var mnemonic = "file bid sock push rib conduct hurdle sort limit chunk odor fish";
+var mnemonic = "battle injury answer home claw such image vote father table universe flight";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent crack early delay already anger assist victory stomach volume insect swear";
+var mnemonic = "horror diary order armed valid crack budget you network pyramid frequent cross";

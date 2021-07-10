@@ -1,1 +1,1 @@
-var mnemonic = "example lift sea genius chase iron feature donate chicken river base luxury";
+var mnemonic = "hurt outer wise erode budget direct bracket old thing betray junk cheap";

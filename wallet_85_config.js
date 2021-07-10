@@ -1,1 +1,1 @@
-var mnemonic = "fossil enemy warfare harsh latin marriage change elevator mushroom gauge dinner text";
+var mnemonic = "spawn amazing van demand level tray meadow retreat gown eye lion ring";

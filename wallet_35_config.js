@@ -1,1 +1,1 @@
-var mnemonic = "volcano brain save fatigue enjoy trash guilt scheme sword uphold attract sauce";
+var mnemonic = "cactus breeze correct merge frozen romance enroll client worth modify law coach";

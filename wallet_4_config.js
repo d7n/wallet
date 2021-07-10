@@ -1,1 +1,1 @@
-var mnemonic = "horror arm lift autumn april risk flip cousin praise metal raise crucial";
+var mnemonic = "drill eyebrow profit wait vendor grass device decrease young cluster vital nurse";

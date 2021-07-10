@@ -1,1 +1,1 @@
-var mnemonic = "theory bronze process lock warfare athlete artefact base humor tip demand before";
+var mnemonic = "lab paddle arch unique risk write ticket stool fatal cat much fall";

@@ -1,1 +1,1 @@
-var mnemonic = "turn perfect sunset weird donor switch alcohol exhaust resist feature target web";
+var mnemonic = "special ketchup brick hood wheel giggle hire marine cupboard dream taste symbol";

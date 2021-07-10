@@ -1,1 +1,1 @@
-var mnemonic = "betray ski claw document devote beauty rescue brain victory figure else wool";
+var mnemonic = "old crazy token below confirm habit law dice habit fine weather deposit";

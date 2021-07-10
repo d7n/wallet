@@ -1,1 +1,1 @@
-var mnemonic = "hill omit series infant craft awesome penalty hurry announce diamond ribbon project";
+var mnemonic = "column verify monkey client conduct boy force theme nerve tank follow author";

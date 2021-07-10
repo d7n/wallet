@@ -1,1 +1,1 @@
-var mnemonic = "primary creek piano example always pear cloth close taste okay match truck";
+var mnemonic = "glove tent tree refuse cigar current address venture since small anxiety reduce";

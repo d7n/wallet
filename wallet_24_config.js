@@ -1,1 +1,1 @@
-var mnemonic = "belt magic across journey brave client small exotic brick boil barely arch";
+var mnemonic = "erosion casino pear autumn better bubble vendor release nothing stage knock image";

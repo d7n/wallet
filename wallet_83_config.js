@@ -1,1 +1,1 @@
-var mnemonic = "cat phone more govern success enter cash alcohol swing old artwork chunk";
+var mnemonic = "online spirit silent echo myself stem picture deputy midnight oak stadium image";

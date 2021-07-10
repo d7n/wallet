@@ -1,1 +1,1 @@
-var mnemonic = "region super scorpion humble season assume desk agent city vague oyster gun";
+var mnemonic = "bike source owner village analyst happy harsh indicate company year half mimic";

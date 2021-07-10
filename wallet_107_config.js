@@ -1,1 +1,1 @@
-var mnemonic = "squeeze excuse mutual census insane soda cactus onion blue pear cable bar";
+var mnemonic = "country gate used real gadget rural silver win enhance spoon ticket hold";

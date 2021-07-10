@@ -1,1 +1,1 @@
-var mnemonic = "gap climb brisk evil amount leopard door such vibrant torch balance fruit";
+var mnemonic = "spoil stereo ask broken stable wreck panel craft robot label word carpet";

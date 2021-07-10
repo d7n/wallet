@@ -1,1 +1,1 @@
-var mnemonic = "poverty sniff credit month join glue volcano potato apart illegal blame stairs";
+var mnemonic = "sport cousin such agree pluck sunset bottom grief egg smooth phone motor";

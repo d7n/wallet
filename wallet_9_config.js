@@ -1,1 +1,1 @@
-var mnemonic = "bracket praise awesome joke produce merge paper explain lion display isolate pattern";
+var mnemonic = "artwork ask find leader recipe conduct certain seed group decide elite silver";

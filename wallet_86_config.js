@@ -1,1 +1,1 @@
-var mnemonic = "pupil panel buzz close pig blind grit breeze cruise health east awful";
+var mnemonic = "review close move unfold mix tree mutual avoid duck such hole raise";

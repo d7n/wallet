@@ -1,1 +1,1 @@
-var mnemonic = "rotate draft federal silent story foster near adapt acoustic lunar deputy pet";
+var mnemonic = "mistake decade city resource diary danger elite potato flavor legal kangaroo enrich";

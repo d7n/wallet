@@ -1,1 +1,1 @@
-var mnemonic = "exit pair case diet view paper disorder later clip future kingdom double";
+var mnemonic = "music purse merit fatigue bonus wage wet ensure weather absorb order unveil";

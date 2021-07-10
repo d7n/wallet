@@ -1,1 +1,1 @@
-var mnemonic = "sunny online olympic pave reunion shell soldier web payment taxi ten page";
+var mnemonic = "cloud injury rescue recycle limb category identify manual govern mandate accuse boss";

@@ -1,1 +1,1 @@
-var mnemonic = "crew modify civil win clinic coral body horror better load magic upgrade";
+var mnemonic = "switch subway throw ozone stick snow antique bring hire rigid carbon panic";

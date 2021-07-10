@@ -1,1 +1,1 @@
-var mnemonic = "social fold anchor stove behind skate good cake reward found cricket tide";
+var mnemonic = "police vast response sphere license source clump gasp luxury panther rain mosquito";

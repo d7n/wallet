@@ -1,1 +1,1 @@
-var mnemonic = "between stone claw stool holiday sunny erupt utility element tenant candy torch";
+var mnemonic = "school student busy exact second sweet bachelor already cave off weather odor";

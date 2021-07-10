@@ -1,1 +1,1 @@
-var mnemonic = "differ animal you bundle cage paper mass tourist unfair write thing tuition";
+var mnemonic = "expire pear hub heavy swing size cabin invest security other ridge palm";

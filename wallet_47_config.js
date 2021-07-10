@@ -1,1 +1,1 @@
-var mnemonic = "outer raw accident lounge sport proof mosquito gain ten develop act hat";
+var mnemonic = "shock lyrics water language hen invite employ cake bacon border clump antique";

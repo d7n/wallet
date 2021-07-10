@@ -1,1 +1,1 @@
-var mnemonic = "stable people crowd universe page return below glide puppy junk aspect kitten";
+var mnemonic = "friend cry keep isolate evidence mad daring envelope learn mammal armor spell";

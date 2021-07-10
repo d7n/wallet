@@ -1,1 +1,1 @@
-var mnemonic = "hood disorder first love ship whale below decline depend catch endorse tray";
+var mnemonic = "system link hawk pulse game leader base garden drill chat rain citizen";

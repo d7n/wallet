@@ -1,1 +1,1 @@
-var mnemonic = "search bitter robot palm option output cloth access avoid girl biology hazard";
+var mnemonic = "upon excite amount wisdom cluster humble notice number hockey novel wild monitor";

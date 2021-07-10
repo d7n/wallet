@@ -1,1 +1,1 @@
-var mnemonic = "timber empty fit elegant trumpet outdoor control evil sugar rally popular february";
+var mnemonic = "tribe rapid nuclear glove accuse borrow when dry move mixture tuna body";

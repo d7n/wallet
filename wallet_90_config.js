@@ -1,1 +1,1 @@
-var mnemonic = "promote blue solve friend table weekend stereo view pool deliver vote rain";
+var mnemonic = "token cruise recycle amount goose wreck memory clog legal wrist lucky warrior";

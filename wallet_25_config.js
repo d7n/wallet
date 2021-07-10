@@ -1,1 +1,1 @@
-var mnemonic = "silk way divert stem noodle pigeon define until enact upset hero twelve";
+var mnemonic = "sunny clump chest enough pen under welcome connect poem purpose away before";

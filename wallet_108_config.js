@@ -1,1 +1,1 @@
-var mnemonic = "answer process until put above paper trophy limit squirrel where rural lake";
+var mnemonic = "foam session syrup famous used hope keep when mesh electric claw boat";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor armor lumber crawl defense outer stay distance rough web delay inside";
+var mnemonic = "limb hawk fiber awkward cradle slow liquid keep search fringe blame shuffle";

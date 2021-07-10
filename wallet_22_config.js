@@ -1,1 +1,1 @@
-var mnemonic = "exile love sound home pretty crack memory assist stick poet build refuse";
+var mnemonic = "away country reunion honey fortune smart erode disease height broken suggest near";

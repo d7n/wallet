@@ -1,1 +1,1 @@
-var mnemonic = "cattle turtle cycle tired pill disorder room enter novel recall outside depth";
+var mnemonic = "polar multiply slice soccer quit truly odor useful nasty pitch fashion alley";

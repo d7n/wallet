@@ -1,1 +1,1 @@
-var mnemonic = "layer garden identify alarm truth tiger captain blanket bean bright cheese prepare";
+var mnemonic = "believe mix pelican harvest caught thing great vault napkin rival speak current";

@@ -1,1 +1,1 @@
-var mnemonic = "visit route like circle upset tonight pilot rug modify upgrade frequent multiply";
+var mnemonic = "evidence entire wasp age dad direct dance fiscal bone goat learn hint";

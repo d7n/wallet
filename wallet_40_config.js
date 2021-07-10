@@ -1,1 +1,1 @@
-var mnemonic = "inch diary volcano lift appear fetch timber purse sweet arctic dragon shift";
+var mnemonic = "hedgehog nasty catalog weather fresh inner follow artist hair ill vast any";

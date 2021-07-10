@@ -1,1 +1,1 @@
-var mnemonic = "attend potato perfect october ketchup blouse click purpose pact mesh spend alarm";
+var mnemonic = "vault inform leisure palace decrease hedgehog apology drastic flat return pet social";

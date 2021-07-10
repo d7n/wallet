@@ -1,1 +1,1 @@
-var mnemonic = "close beyond gold soap elite maze chase elephant amazing option argue duty";
+var mnemonic = "fade another shiver gesture welcome okay juice above bread parrot coin armed";

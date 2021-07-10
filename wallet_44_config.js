@@ -1,1 +1,1 @@
-var mnemonic = "thumb discover betray captain bike decide field above speak cluster eager script";
+var mnemonic = "noodle fish sure veteran actor inmate cause case page disorder pair bag";

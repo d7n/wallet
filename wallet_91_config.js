@@ -1,1 +1,1 @@
-var mnemonic = "warrior inquiry region hawk harbor damage carbon measure humble resist sand oppose";
+var mnemonic = "among toddler mule tunnel multiply rebel chaos message mouse okay jeans claw";

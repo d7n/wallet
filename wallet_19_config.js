@@ -1,1 +1,1 @@
-var mnemonic = "rain estate fence garlic insane ill million example inner rubber saddle tube";
+var mnemonic = "video merge science brick blind unaware appear palm normal elbow dust peanut";

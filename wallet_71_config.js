@@ -1,1 +1,1 @@
-var mnemonic = "point tilt gasp coin electric parade grain three cruise pony affair material";
+var mnemonic = "future smart flavor put expand talent busy knife squirrel ketchup year indicate";

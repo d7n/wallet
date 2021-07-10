@@ -1,1 +1,1 @@
-var mnemonic = "believe spirit this master wrong clock spy stock rail trigger police column";
+var mnemonic = "decrease company smoke cupboard boat walk child talent truck denial shoot popular";

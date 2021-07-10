@@ -1,1 +1,1 @@
-var mnemonic = "primary wide knife pill wool fabric argue truck humor final aunt knee";
+var mnemonic = "case acoustic mean limit twelve tired moral dirt mixed code large series";

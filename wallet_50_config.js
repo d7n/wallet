@@ -1,1 +1,1 @@
-var mnemonic = "window country ugly camp enroll tumble dose duck husband jealous diet boss";
+var mnemonic = "benefit join muffin choice brother bread rough mean inch derive genius horse";

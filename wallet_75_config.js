@@ -1,1 +1,1 @@
-var mnemonic = "concert luxury bounce false iron section gun physical emotion predict candy truly";
+var mnemonic = "copy mention acquire bonus fancy arctic hope possible finish party dove polar";

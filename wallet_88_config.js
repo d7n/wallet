@@ -1,1 +1,1 @@
-var mnemonic = "tooth borrow hip sick mind inquiry oak embody fringe coffee label decline";
+var mnemonic = "keen height fetch ketchup divert begin toss visa fuel rhythm document potato";

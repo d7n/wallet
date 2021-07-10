@@ -1,1 +1,1 @@
-var mnemonic = "prefer fly churn recall rifle enable forget reduce island universe call meadow";
+var mnemonic = "wet picnic finish loop remove filter cradle sunset pill neck marble elevator";

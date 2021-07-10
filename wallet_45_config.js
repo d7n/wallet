@@ -1,1 +1,1 @@
-var mnemonic = "similar gravity rigid control runway fee country silk head myth ill trick";
+var mnemonic = "diagram horse fossil draw desert manual tunnel put stay rival shine second";

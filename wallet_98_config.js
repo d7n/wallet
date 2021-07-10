@@ -1,1 +1,1 @@
-var mnemonic = "industry youth torch rotate tired ugly prevent evoke poverty inside mystery iron";
+var mnemonic = "forget hood detect catch paper announce clog friend correct panther crumble ocean";

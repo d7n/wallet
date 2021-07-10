@@ -1,1 +1,1 @@
-var mnemonic = "lesson icon rude clean duck town bright fortune baby success matter cheese";
+var mnemonic = "life grain vessel stone modify reject afraid satoshi fence mutual husband horse";

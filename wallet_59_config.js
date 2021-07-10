@@ -1,1 +1,1 @@
-var mnemonic = "ahead load safe sense buddy security protect use priority eye spray describe";
+var mnemonic = "turtle color nature twin disorder exist dune room family essay hurt token";

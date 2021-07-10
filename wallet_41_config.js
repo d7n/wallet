@@ -1,1 +1,1 @@
-var mnemonic = "spirit clip hunt marine call hamster pink impact say fog act label";
+var mnemonic = "entry thank gold skull follow mail friend attend dirt ball enrich drink";

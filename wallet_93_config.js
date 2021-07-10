@@ -1,1 +1,1 @@
-var mnemonic = "behave elite theory about simple neck jazz stairs forward system attract pass";
+var mnemonic = "airport cupboard push unable doctor enforce priority agree eight entire erase about";

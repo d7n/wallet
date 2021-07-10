@@ -1,1 +1,1 @@
-var mnemonic = "immune zebra zero hat cart control skull scheme cross grass require estate";
+var mnemonic = "kite once gather ticket legend they high roast piece reveal expose damage";

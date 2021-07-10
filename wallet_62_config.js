@@ -1,1 +1,1 @@
-var mnemonic = "first cloud frame squeeze culture goat original audit prison slam clerk swear";
+var mnemonic = "column duty summer alley wire impact shy buddy shallow pigeon help music";

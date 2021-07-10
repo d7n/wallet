@@ -1,1 +1,1 @@
-var mnemonic = "link describe ride tank summer fall rail throw endless drop vault random";
+var mnemonic = "toy leaf jungle polar enact rose laundry west next party corn health";

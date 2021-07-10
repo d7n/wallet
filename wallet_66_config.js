@@ -1,1 +1,1 @@
-var mnemonic = "way staff acoustic invest visa change route carry rubber prevent shoulder pluck";
+var mnemonic = "pluck step satisfy harsh lonely pencil elite invest clay tired settle tone";

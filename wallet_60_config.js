@@ -1,1 +1,1 @@
-var mnemonic = "express once pulp insane helmet essay truly note boat wheat dose cake";
+var mnemonic = "glide help unaware luggage tag charge chair scheme excite number same cute";

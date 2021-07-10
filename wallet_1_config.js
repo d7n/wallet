@@ -1,1 +1,1 @@
-var mnemonic = "script canal vague media rigid desk bulb lazy talent photo elegant assault";
+var mnemonic = "meadow page hero ride normal movie history divert truck blue couch bullet";

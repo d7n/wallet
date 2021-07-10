@@ -1,1 +1,1 @@
-var mnemonic = "decorate tilt distance balance switch bind couch fall lunch pact eagle choose";
+var mnemonic = "spider original spawn column scare squeeze provide print mad off broom smile";

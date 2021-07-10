@@ -1,1 +1,1 @@
-var mnemonic = "barely suffer quality asthma furnace delay off glow talent carry vivid demand";
+var mnemonic = "first visit duty visit art mirror method charge ritual abuse patient wish";

@@ -1,1 +1,1 @@
-var mnemonic = "long suggest observe antenna puzzle timber atom cushion satoshi erosion naive topple";
+var mnemonic = "toilet observe stable say fence boat help year rib idea boil patient";

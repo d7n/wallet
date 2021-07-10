@@ -1,1 +1,1 @@
-var mnemonic = "bench charge mechanic smooth shed drift large bacon hope consider license cram";
+var mnemonic = "burst indoor link poet ensure cash scene nice else whale theory ready";

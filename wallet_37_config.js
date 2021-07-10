@@ -1,1 +1,1 @@
-var mnemonic = "cruel exotic uncover actress pitch crop ask scrub middle marriage sauce hungry";
+var mnemonic = "dilemma ramp march mad cave nurse dance popular power ceiling feed symbol";

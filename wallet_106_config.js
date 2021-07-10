@@ -1,1 +1,1 @@
-var mnemonic = "visa junk confirm onion room gasp brand bag all hazard pioneer lake";
+var mnemonic = "worry leader demand ribbon enter achieve into balance found pupil sick arrow";

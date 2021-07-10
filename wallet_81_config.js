@@ -1,1 +1,1 @@
-var mnemonic = "dish other young bacon math pass merry elite weather frost desert throw";
+var mnemonic = "nation indoor accuse come crater nurse monkey update creek wild marriage stock";

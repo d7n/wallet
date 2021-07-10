@@ -1,1 +1,1 @@
-var mnemonic = "pool juice version true pipe large dream month neither party glory tunnel";
+var mnemonic = "menu assault home capable color mother bulb add unusual fruit position tag";

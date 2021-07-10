@@ -1,1 +1,1 @@
-var mnemonic = "clean age assist decade liberty simple gasp atom apple you lamp champion";
+var mnemonic = "evidence next coach buyer kidney bleak nation dove seven grow fatal armor";

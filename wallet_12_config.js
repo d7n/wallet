@@ -1,1 +1,1 @@
-var mnemonic = "orbit waste element switch tree trap monkey like slight tag diesel tongue";
+var mnemonic = "energy day rapid powder fever sudden month distance trial exclude kitten amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ready snake great grape false illegal impulse law excite act start";
+var mnemonic = "almost chair august drink adult barely music income purity gown range rule";

@@ -1,1 +1,1 @@
-var mnemonic = "brass permit increase metal fog stool crystal imitate hold account punch vehicle";
+var mnemonic = "high describe talent wrap food race rain clap energy palace rack list";
