@@ -1,1 +1,1 @@
-var mnemonic = "final stable initial spread shine bulb traffic eagle spend topic gaze eternal";
+var mnemonic = "flip welcome quote economy tone summer jaguar mimic orbit stadium there actress";

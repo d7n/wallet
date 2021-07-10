@@ -1,1 +1,1 @@
-var mnemonic = "cash expire inspire dream water prize vague minute monster venture ritual crucial";
+var mnemonic = "trouble happy black divert ensure anchor wheel spike toilet charge jewel shoe";

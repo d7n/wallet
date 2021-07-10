@@ -1,1 +1,1 @@
-var mnemonic = "ranch exhibit cattle athlete learn later soft title ocean regular choose ugly";
+var mnemonic = "chicken outside drive dry open else banner clever organ text custom urban";

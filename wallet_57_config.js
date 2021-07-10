@@ -1,1 +1,1 @@
-var mnemonic = "clerk begin lyrics tomato annual silver couple february napkin bonus broccoli report";
+var mnemonic = "topic they kitten weapon call attitude stereo exchange review common enlist pair";

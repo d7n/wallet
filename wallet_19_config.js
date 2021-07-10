@@ -1,1 +1,1 @@
-var mnemonic = "today option chuckle divert program tattoo rude sphere excuse puppy cube meat";
+var mnemonic = "later surround access dumb shrug visit leader possible point shaft buyer animal";

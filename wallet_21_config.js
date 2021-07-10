@@ -1,1 +1,1 @@
-var mnemonic = "absent area ostrich lobster earth budget orbit tomato senior cement conduct prepare";
+var mnemonic = "spray clip silk casino onion village pig left poem behave ride pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic turkey number twin brush chuckle canal battle razor suggest noodle neglect";
+var mnemonic = "window coyote orchard dawn item hole rebuild lock plunge lady sure amount";

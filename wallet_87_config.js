@@ -1,1 +1,1 @@
-var mnemonic = "arm bronze quarter way road victory mistake sweet source uniform say flush";
+var mnemonic = "gorilla very thunder sketch mad vanish fancy bid stick average heart cable";

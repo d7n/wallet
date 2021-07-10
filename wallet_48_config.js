@@ -1,1 +1,1 @@
-var mnemonic = "hood opinion people mad spread venue exclude cable nominee bounce man brief";
+var mnemonic = "hockey paper surface wool impact cancel better join toss boost fire hour";

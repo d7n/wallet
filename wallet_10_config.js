@@ -1,1 +1,1 @@
-var mnemonic = "wrong scrap observe display tag alarm because provide erosion giant swallow voice";
+var mnemonic = "tourist obscure purpose health street tongue ocean decorate raccoon drill relax waste";

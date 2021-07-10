@@ -1,1 +1,1 @@
-var mnemonic = "dash this alert okay cloth clog bag charge knee cricket fix scatter";
+var mnemonic = "dwarf gadget notable buzz since person entry parent hello half sister glance";

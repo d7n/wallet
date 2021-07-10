@@ -1,1 +1,1 @@
-var mnemonic = "shiver inside trial absurd whale nose bicycle mutual transfer debate business ripple";
+var mnemonic = "onion ecology cigar bachelor sorry beach winner floor reject audit sell around";

@@ -1,1 +1,1 @@
-var mnemonic = "immense annual unveil vanish auto shoot merry duck setup slot gasp vessel";
+var mnemonic = "eternal gesture knock bread path bomb gown hunt enhance normal obey garden";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce fluid ordinary wagon farm supreme boat twenty mother pumpkin script image";
+var mnemonic = "tonight flavor high various cheap insect final tuition bunker present crew feed";

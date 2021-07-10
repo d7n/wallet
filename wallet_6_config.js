@@ -1,1 +1,1 @@
-var mnemonic = "modify document response mechanic blouse mistake flash learn response desert actor spare";
+var mnemonic = "jewel cry razor work income way soon light maple urban aisle hole";

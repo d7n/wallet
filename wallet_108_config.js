@@ -1,1 +1,1 @@
-var mnemonic = "blade sand item way canoe lunch hedgehog kingdom school stereo ecology student";
+var mnemonic = "lava emerge announce chunk scale fetch merit tragic artist field mercy vanish";

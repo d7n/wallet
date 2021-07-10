@@ -1,1 +1,1 @@
-var mnemonic = "fee tool lyrics churn start bachelor side stock flee comic pistol jeans";
+var mnemonic = "unaware cattle quiz staff hover vapor wisdom cupboard market response strategy talk";

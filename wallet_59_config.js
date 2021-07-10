@@ -1,1 +1,1 @@
-var mnemonic = "knee crawl citizen cricket latin combine tent giraffe false party search submit";
+var mnemonic = "van document pistol load attack chest random title meat mention round super";

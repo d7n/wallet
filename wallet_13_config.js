@@ -1,1 +1,1 @@
-var mnemonic = "squirrel problem ozone lion erode evoke immense dwarf eagle recipe puzzle bleak";
+var mnemonic = "off forget tonight equip swim goose recall congress give soldier empower offer";

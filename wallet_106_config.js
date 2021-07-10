@@ -1,1 +1,1 @@
-var mnemonic = "business wise pepper bone city network payment know prevent brain employ protect";
+var mnemonic = "december color chef husband raccoon artwork pyramid near between nasty order great";

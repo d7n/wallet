@@ -1,1 +1,1 @@
-var mnemonic = "proud whip desk sadness inhale impact direct side friend occur easy lonely";
+var mnemonic = "police skin account cover sphere chicken used canvas response wisdom royal soccer";

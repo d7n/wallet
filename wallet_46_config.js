@@ -1,1 +1,1 @@
-var mnemonic = "save execute scare child sheriff indoor input fury inhale nature sting similar";
+var mnemonic = "include ginger gadget flower reform soccer group evoke upon pull awesome reform";

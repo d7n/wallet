@@ -1,1 +1,1 @@
-var mnemonic = "face crash laptop sleep icon good off harvest human evoke snap library";
+var mnemonic = "youth narrow sibling blood tape spirit brick praise arctic van exchange system";

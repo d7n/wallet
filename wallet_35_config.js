@@ -1,1 +1,1 @@
-var mnemonic = "what six few nature jewel derive live wink festival pledge swap business";
+var mnemonic = "film hawk early excess bracket feature offer excite bounce mobile long galaxy";

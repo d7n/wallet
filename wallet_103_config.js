@@ -1,1 +1,1 @@
-var mnemonic = "trip magic grief submit glass tomato rare naive behave loud adjust bring";
+var mnemonic = "frame angle antique ride client canal crime civil boy space sphere height";

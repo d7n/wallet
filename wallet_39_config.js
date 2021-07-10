@@ -1,1 +1,1 @@
-var mnemonic = "approve wide sheriff tenant elevator dragon degree buddy patient picnic ethics tiny";
+var mnemonic = "tilt mixture gloom false fee entire oak clay dilemma exhaust quality guitar";

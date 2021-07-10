@@ -1,1 +1,1 @@
-var mnemonic = "just prevent wrist relief clip adult thank pass embark onion edit matter";
+var mnemonic = "effort swear rude very arctic patch ocean step ridge ocean liquid cute";

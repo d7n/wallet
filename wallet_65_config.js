@@ -1,1 +1,1 @@
-var mnemonic = "record reward public search cactus power trend beauty cousin absent tuition drama";
+var mnemonic = "cart strategy area lumber identify cream sweet control master pact friend slow";

@@ -1,1 +1,1 @@
-var mnemonic = "way library ecology enter fossil mention chef spider device artist hope foster";
+var mnemonic = "tortoise hold leaf service lunch purchase pretty creek update bundle alert viable";

@@ -1,1 +1,1 @@
-var mnemonic = "either sing shoulder improve vital imitate promote evil easy negative heart scale";
+var mnemonic = "quit tube tissue obvious squirrel hover scrub fantasy palace square expect prize";

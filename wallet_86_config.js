@@ -1,1 +1,1 @@
-var mnemonic = "legend fat barely curious science crumble unveil collect project property myself disorder";
+var mnemonic = "urban release parade neither two nest special distance width print shallow rich";

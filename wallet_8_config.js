@@ -1,1 +1,1 @@
-var mnemonic = "crime funny okay release limb table dwarf sting bargain daring finger host";
+var mnemonic = "twice combine equip sorry letter drill shop vacant because false wasp slush";

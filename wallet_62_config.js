@@ -1,1 +1,1 @@
-var mnemonic = "kite come rapid luggage awkward steak survey heavy design drill nothing must";
+var mnemonic = "setup ethics core shed feature burden local tongue letter borrow sight task";

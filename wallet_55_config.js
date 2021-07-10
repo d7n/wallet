@@ -1,1 +1,1 @@
-var mnemonic = "size major welcome swift tennis advance execute bottom dove find spoil describe";
+var mnemonic = "sphere expose master sample gift venture traffic employ various strike just intact";

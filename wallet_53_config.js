@@ -1,1 +1,1 @@
-var mnemonic = "orbit hurry wrist garment swear winner blood modify sustain oppose wage regret";
+var mnemonic = "mask law scissors upgrade voyage escape easy vocal tunnel unlock risk rebel";

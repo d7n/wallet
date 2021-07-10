@@ -1,1 +1,1 @@
-var mnemonic = "fun acquire purpose custom taxi box bless found north devote until fury";
+var mnemonic = "dog canal ramp dance report panther series faint crack twist type vivid";

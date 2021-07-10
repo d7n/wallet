@@ -1,1 +1,1 @@
-var mnemonic = "humor lock viable congress there small twelve perfect kick chuckle young series";
+var mnemonic = "memory rug velvet food guilt grant green canvas planet yellow stone road";

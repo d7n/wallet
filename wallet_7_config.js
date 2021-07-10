@@ -1,1 +1,1 @@
-var mnemonic = "assist noble defy chase aspect dice three surround fever water rabbit hurdle";
+var mnemonic = "novel omit almost click example hurry action man session cry entry absent";

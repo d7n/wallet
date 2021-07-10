@@ -1,1 +1,1 @@
-var mnemonic = "jelly over lamp help slot convince open become click hybrid artist say";
+var mnemonic = "canoe renew property glimpse airport sort language trade enough change mixture gun";

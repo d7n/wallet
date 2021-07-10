@@ -1,1 +1,1 @@
-var mnemonic = "device slender use lobster barrel load right panic danger flat method upper";
+var mnemonic = "honey yellow reveal naive worth dolphin exchange skate dance tiger swallow plastic";

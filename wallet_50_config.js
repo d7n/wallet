@@ -1,1 +1,1 @@
-var mnemonic = "wool vast educate wash man steel success grow coffee tank gown shove";
+var mnemonic = "verify baby voice buddy lobster deal armor empower gorilla daring scare talent";

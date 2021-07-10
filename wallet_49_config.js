@@ -1,1 +1,1 @@
-var mnemonic = "gravity dinner whale clog force aware dismiss gesture october search sauce extra";
+var mnemonic = "cabin toy twin cost image fee behave slot vanish marble want dose";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs scrap eight question intact metal spy corn already atom run bind";
+var mnemonic = "weapon wine since multiply history relief drastic keen business memory orbit genius";

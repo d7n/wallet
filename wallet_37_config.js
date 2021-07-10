@@ -1,1 +1,1 @@
-var mnemonic = "upon palm rule crash north stem hotel off fiction close art brain";
+var mnemonic = "okay regular timber desert address offer clown wrap dawn crew face mass";

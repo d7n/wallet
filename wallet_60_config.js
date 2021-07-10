@@ -1,1 +1,1 @@
-var mnemonic = "leaf club victory pumpkin gather nose fantasy skill fix word rely enough";
+var mnemonic = "match amount foot scheme pledge rain flame raw actor stadium twelve razor";

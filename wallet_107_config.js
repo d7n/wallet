@@ -1,1 +1,1 @@
-var mnemonic = "spy satoshi network certain unable blame turtle custom try feed kick giant";
+var mnemonic = "control toddler grow welcome inside column object blanket smart iron next symbol";

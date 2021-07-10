@@ -1,1 +1,1 @@
-var mnemonic = "again mobile gospel bracket boost arrange believe tell copy egg gasp scissors";
+var mnemonic = "wheel demise cool dentist slide purity interest issue peasant dish enjoy curtain";

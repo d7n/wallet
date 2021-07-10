@@ -1,1 +1,1 @@
-var mnemonic = "inch proud doll document clerk point robot unhappy heavy grace floor sock";
+var mnemonic = "beyond trend winter decline holiday melody stay calm robust priority knock dose";

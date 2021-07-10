@@ -1,1 +1,1 @@
-var mnemonic = "injury mistake duty mail cave spot loud canal hair ring pledge afraid";
+var mnemonic = "settle toast illegal divorce cancel cupboard enable clump spike west wealth robust";

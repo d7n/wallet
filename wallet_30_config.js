@@ -1,1 +1,1 @@
-var mnemonic = "news sun indicate setup deny fluid undo lens domain person monitor oppose";
+var mnemonic = "output modify cinnamon write eagle before zoo junk harbor raccoon tape exhibit";

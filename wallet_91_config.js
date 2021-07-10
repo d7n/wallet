@@ -1,1 +1,1 @@
-var mnemonic = "snap blade shine exist crowd above pair city dice usual cream sibling";
+var mnemonic = "figure soul spread tennis empower lyrics genuine twin elevator aspect limb sound";

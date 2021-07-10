@@ -1,1 +1,1 @@
-var mnemonic = "enhance make profit trade witness neutral accident combine balance finger husband drift";
+var mnemonic = "leaf fog donor unique sick glare spy hard march hire scatter stand";

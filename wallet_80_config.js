@@ -1,1 +1,1 @@
-var mnemonic = "lamp sister oyster cart find joke spell novel agent motor daring time";
+var mnemonic = "fossil team car arctic dash sell wet spider cat draft pool repeat";

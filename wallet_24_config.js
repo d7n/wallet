@@ -1,1 +1,1 @@
-var mnemonic = "afraid nation apple firm holiday display wheat whip figure divert quality upgrade";
+var mnemonic = "sick south idea garment clip just almost lawsuit mutual judge stick unhappy";

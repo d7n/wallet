@@ -1,1 +1,1 @@
-var mnemonic = "denial collect sentence humor ski scale sleep purse bomb cluster infant nerve";
+var mnemonic = "become chalk midnight cage jump base spring borrow camp two tone recall";

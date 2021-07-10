@@ -1,1 +1,1 @@
-var mnemonic = "eager hat project token option code photo book dust west fortune high";
+var mnemonic = "solid stadium spare outdoor fashion bird slow dizzy together fame window owner";

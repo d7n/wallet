@@ -1,1 +1,1 @@
-var mnemonic = "arch raccoon addict collect limit zone rent gaze speed advance wash trend";
+var mnemonic = "version media bargain vanish kangaroo stage afford account real omit thrive mail";

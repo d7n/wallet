@@ -1,1 +1,1 @@
-var mnemonic = "squirrel rigid labor park tumble wasp letter evil eight open woman frame";
+var mnemonic = "pitch issue smooth travel renew enact crew act energy record slide remain";

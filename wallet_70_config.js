@@ -1,1 +1,1 @@
-var mnemonic = "solution morning escape spin various mystery adult ketchup settle exhibit blouse eager";
+var mnemonic = "increase salon common devote involve spare engine busy outer keep saddle task";

@@ -1,1 +1,1 @@
-var mnemonic = "popular excite blame acoustic digital rate cave rely inform boring taste giggle";
+var mnemonic = "mandate miracle pass fish brief vacuum embrace couple subway sock give enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "blush debris acid guitar neglect food true much order hollow behind pledge";
+var mnemonic = "drill expire social patch dose treat couch rose rate achieve ridge already";

@@ -1,1 +1,1 @@
-var mnemonic = "joke catch napkin travel hen head frost inside join name credit pyramid";
+var mnemonic = "permit ship staff boil trick spread vacant rubber loud risk moon erase";

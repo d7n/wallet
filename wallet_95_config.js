@@ -1,1 +1,1 @@
-var mnemonic = "myth pitch celery chaos away noble produce conduct honey frost twin lazy";
+var mnemonic = "gravity example twice regular raw void caution cable gesture victory digital abandon";

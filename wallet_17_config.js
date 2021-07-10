@@ -1,1 +1,1 @@
-var mnemonic = "minute attend boss appear about reward want assume blade agent outdoor seven";
+var mnemonic = "child spell palace need appear sausage sentence bright lazy canvas rule roof";

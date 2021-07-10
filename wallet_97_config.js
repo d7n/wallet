@@ -1,1 +1,1 @@
-var mnemonic = "benefit stool vocal render inch moon between feed pioneer exercise runway worry";
+var mnemonic = "federal effort open crime shoe glow wheel excess company deposit learn wide";

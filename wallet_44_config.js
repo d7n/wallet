@@ -1,1 +1,1 @@
-var mnemonic = "syrup execute subway matter table dilemma adult display rent camera rigid onion";
+var mnemonic = "expose balcony subject inquiry turtle lend test danger logic school raven road";

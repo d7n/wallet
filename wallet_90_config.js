@@ -1,1 +1,1 @@
-var mnemonic = "cook surge gap dignity fold over core obscure correct hazard duck trigger";
+var mnemonic = "series great helmet tuna rice immense marriage same hover ritual melody mean";

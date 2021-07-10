@@ -1,1 +1,1 @@
-var mnemonic = "present tonight ethics gossip define board fuel hill pitch cradle occur tongue";
+var mnemonic = "require scout stuff walnut visual powder envelope equip crouch erupt ski glide";

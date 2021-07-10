@@ -1,1 +1,1 @@
-var mnemonic = "crunch force coconut coral bottom fat remember unique lamp name feature click";
+var mnemonic = "chest muscle detect lizard grief excite load erode entry clap require truck";

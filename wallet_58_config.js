@@ -1,1 +1,1 @@
-var mnemonic = "novel faith net loyal sausage seven smoke prevent rigid detail royal seven";
+var mnemonic = "tilt hello refuse obtain miracle average pond recycle midnight menu manage near";

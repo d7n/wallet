@@ -1,1 +1,1 @@
-var mnemonic = "humble canal rack sudden ankle tobacco plate sing say soccer message situate";
+var mnemonic = "melt tail text frog border ghost parrot camp return dream magic winner";

@@ -1,1 +1,1 @@
-var mnemonic = "dove guitar moral stadium cover rug velvet jazz roof wool kite baby";
+var mnemonic = "obscure hero depart south opera sign search major sun random mix tomato";

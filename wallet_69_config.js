@@ -1,1 +1,1 @@
-var mnemonic = "firm fatigue practice cigar tone buyer mistake snap bone envelope punch lion";
+var mnemonic = "uphold liberty cigar cute behind isolate dog snow climb other wave thumb";

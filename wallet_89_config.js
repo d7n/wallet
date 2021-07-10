@@ -1,1 +1,1 @@
-var mnemonic = "know first wage box banner promote degree any turkey december planet mirror";
+var mnemonic = "either blush spy border grace pigeon student hollow purity treat minute pulse";

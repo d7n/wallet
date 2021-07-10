@@ -1,1 +1,1 @@
-var mnemonic = "task choose enroll analyst wife hungry seek forget culture wool destroy sort";
+var mnemonic = "bag guide vintage shrimp fence gloom devote street shield pioneer dinner run";

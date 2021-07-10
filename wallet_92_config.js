@@ -1,1 +1,1 @@
-var mnemonic = "load divorce sound duck sure clump boy stumble pool use quarter cute";
+var mnemonic = "glove piano goose chapter trip push section above diet glory issue wheat";

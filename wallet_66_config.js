@@ -1,1 +1,1 @@
-var mnemonic = "ancient pair prize idle bottom abstract unique oak burst ride mansion pluck";
+var mnemonic = "blue achieve guitar sister matter pigeon fun express tattoo mention disorder abandon";

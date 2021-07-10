@@ -1,1 +1,1 @@
-var mnemonic = "aisle video gesture tape have soon check sweet decrease resist oak hope";
+var mnemonic = "lawsuit inmate accuse wage hub curtain because shield once alarm almost pave";

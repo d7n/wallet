@@ -1,1 +1,1 @@
-var mnemonic = "client work alley hello cup error aware column soup glory round total";
+var mnemonic = "follow acoustic march design roof library trim share spring royal crater fall";

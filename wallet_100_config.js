@@ -1,1 +1,1 @@
-var mnemonic = "miracle service family medal october glide wrong lemon trend olympic robot napkin";
+var mnemonic = "narrow tuition reflect during security enact bitter foster opinion lab suffer tired";

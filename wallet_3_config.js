@@ -1,1 +1,1 @@
-var mnemonic = "moment enforce stock bomb bid uniform machine install wrap truly forward obtain";
+var mnemonic = "alarm tornado material hidden invite enlist equal seed pottery face that strong";

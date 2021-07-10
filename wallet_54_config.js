@@ -1,1 +1,1 @@
-var mnemonic = "melt blast domain advance oppose aspect anxiety slim pilot imitate picture nuclear";
+var mnemonic = "hundred almost recipe spare tragic much broccoli sure dolphin slam famous vocal";

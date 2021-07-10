@@ -1,1 +1,1 @@
-var mnemonic = "squirrel wrestle awkward ugly old region fortune token senior habit panther zoo";
+var mnemonic = "angry carry task bridge pet verify hold flag until victory wolf cook";

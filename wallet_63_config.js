@@ -1,1 +1,1 @@
-var mnemonic = "screen day menu crazy hat clean woman pilot avoid creek hint quit";
+var mnemonic = "faculty rookie argue august deputy april destroy dish jealous donor execute latin";

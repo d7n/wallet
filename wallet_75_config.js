@@ -1,1 +1,1 @@
-var mnemonic = "local urge lottery risk tell unknown captain search promote clip economy pledge";
+var mnemonic = "demise original enough rib degree quiz wife sunny occur ordinary spot increase";

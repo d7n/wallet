@@ -1,1 +1,1 @@
-var mnemonic = "discover celery option forget latin panther betray ahead insane arrange wall option";
+var mnemonic = "swap repeat acid tattoo vague noodle color weekend spring climb member forest";
