@@ -1,1 +1,1 @@
-var mnemonic = "belt venue spider express actual thunder excite frozen thumb rival scatter weapon";
+var mnemonic = "kite remove gorilla proud olive control zone develop roast devote refuse sketch";

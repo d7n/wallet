@@ -1,1 +1,1 @@
-var mnemonic = "better episode hunt chimney noise nominee velvet kitten cable spray quit emotion";
+var mnemonic = "vacant crew planet fruit home pluck bunker easy giraffe bubble crater dawn";

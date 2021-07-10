@@ -1,1 +1,1 @@
-var mnemonic = "arrow indicate road bone spare banner sound pen move expect rookie damage";
+var mnemonic = "mercy loud change team mix ahead gadget salmon same diesel mushroom seven";

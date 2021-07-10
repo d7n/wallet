@@ -1,1 +1,1 @@
-var mnemonic = "coral evidence chronic tree type innocent army quarter profit ability rapid arctic";
+var mnemonic = "gold kiss nest camera honey armed short fly oblige steak phone donor";

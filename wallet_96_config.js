@@ -1,1 +1,1 @@
-var mnemonic = "tonight camp pause high enemy example corn action rare brisk syrup coach";
+var mnemonic = "today wire flavor journey solid version blue quiz mad tunnel armor game";

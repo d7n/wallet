@@ -1,1 +1,1 @@
-var mnemonic = "dish barely lecture input possible expose energy loop middle truth album kidney";
+var mnemonic = "age involve thank virus exit into pigeon host adapt rally march three";

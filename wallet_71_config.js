@@ -1,1 +1,1 @@
-var mnemonic = "rail equip gun beef apart way student daring candy team donate liberty";
+var mnemonic = "version pig weekend absent dolphin plate shield pride bicycle brand police company";

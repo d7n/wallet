@@ -1,1 +1,1 @@
-var mnemonic = "found city giggle stick atom funny spatial maple kiwi bulb uncle problem";
+var mnemonic = "slight column drift forest cave increase sniff ahead gym talent object hub";

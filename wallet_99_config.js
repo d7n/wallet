@@ -1,1 +1,1 @@
-var mnemonic = "result knock render tomorrow tongue fetch receive cotton steel sick story fault";
+var mnemonic = "program level load crazy bless flame crunch patrol crunch deer private eye";

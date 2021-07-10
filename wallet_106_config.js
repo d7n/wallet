@@ -1,1 +1,1 @@
-var mnemonic = "feel spare body used upgrade muffin timber region midnight more goat stairs";
+var mnemonic = "smoke close better trim awful suffer rabbit process stamp exchange card top";

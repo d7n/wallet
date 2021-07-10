@@ -1,1 +1,1 @@
-var mnemonic = "summer enjoy talk bar raven clean slot spoil regular enrich boss direct";
+var mnemonic = "first rare jump strategy add crop promote thrive brave plastic maze spoon";

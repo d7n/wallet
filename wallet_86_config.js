@@ -1,1 +1,1 @@
-var mnemonic = "foam top upgrade subway genre truly mask churn pulp certain vital term";
+var mnemonic = "casino inspire under winner rather cradle wool put flat pink enlist bargain";

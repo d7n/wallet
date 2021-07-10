@@ -1,1 +1,1 @@
-var mnemonic = "index faint venue palace frown hurdle tone busy person guide august visit";
+var mnemonic = "you asthma loop element hole pitch wrist clerk elephant wink bone paper";

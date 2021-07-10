@@ -1,1 +1,1 @@
-var mnemonic = "water stable believe remember sound toward category thrive duck dizzy frost order";
+var mnemonic = "lake surface okay split fever depth danger beauty buyer isolate size increase";

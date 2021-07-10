@@ -1,1 +1,1 @@
-var mnemonic = "expand own hill balance moment analyst round chaos teach mom special patrol";
+var mnemonic = "garbage certain weather erosion napkin dutch hold boost climb option mansion print";

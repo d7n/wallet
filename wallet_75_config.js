@@ -1,1 +1,1 @@
-var mnemonic = "artist plastic gravity hard frozen wire candy ignore silver excess hope soap";
+var mnemonic = "sad maximum eight example damp sentence mean have aisle attack net dutch";

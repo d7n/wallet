@@ -1,1 +1,1 @@
-var mnemonic = "exile diagram memory van rather develop curtain fire blouse flat purse still";
+var mnemonic = "expose wave van protect million rifle desert tennis actor emotion approve pride";

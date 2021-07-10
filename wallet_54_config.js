@@ -1,1 +1,1 @@
-var mnemonic = "daughter almost stumble hint wool boost garment catalog second cause weapon chef";
+var mnemonic = "seek doctor expire lend family connect wink electric assume vote manage canvas";

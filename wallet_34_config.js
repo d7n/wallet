@@ -1,1 +1,1 @@
-var mnemonic = "census grab another sport vanish super ostrich inside remove connect gold sustain";
+var mnemonic = "wealth defense supply craft dry round wave barrel disease gorilla fever skirt";

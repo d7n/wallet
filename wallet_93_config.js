@@ -1,1 +1,1 @@
-var mnemonic = "harvest solid opera cool witness bind distance hunt vehicle tourist general include";
+var mnemonic = "master cry scatter jewel mail account essence during youth picture scorpion member";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid avoid item impose excite drip valve shop gossip globe rail lazy";
+var mnemonic = "unlock there axis program valid prison tilt quiz kitten payment gorilla divide";

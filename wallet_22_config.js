@@ -1,1 +1,1 @@
-var mnemonic = "trick alert entry amateur say develop shrimp father silver certain emotion globe";
+var mnemonic = "few save crunch party mask repeat desert lunar execute latin sun vicious";

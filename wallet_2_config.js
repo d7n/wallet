@@ -1,1 +1,1 @@
-var mnemonic = "gossip ring answer result athlete coil relief merge pledge auction best father";
+var mnemonic = "lounge crawl cave outside document matrix emotion dance depend glass hood camera";

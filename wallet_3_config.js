@@ -1,1 +1,1 @@
-var mnemonic = "left elegant boy urge dose muffin puzzle join unaware crash carpet radar";
+var mnemonic = "tennis account gaze invest else arrest strategy material sure song globe snap";

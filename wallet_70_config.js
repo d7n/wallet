@@ -1,1 +1,1 @@
-var mnemonic = "relax desk water join throw divide raven grunt beach shoot history act";
+var mnemonic = "elder segment enforce rib price local about crouch pair scissors crush fat";

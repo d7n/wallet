@@ -1,1 +1,1 @@
-var mnemonic = "spell sand eternal stick bronze talent april require holiday believe circle avocado";
+var mnemonic = "chase they brave found note once smoke embody satisfy success kitten praise";

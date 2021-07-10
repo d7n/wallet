@@ -1,1 +1,1 @@
-var mnemonic = "vocal mirror ocean pumpkin thunder tomorrow earn usual horror lunar nation correct";
+var mnemonic = "glue canyon vault viable champion ticket seat lunar category problem absent stable";

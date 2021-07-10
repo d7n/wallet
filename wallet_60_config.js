@@ -1,1 +1,1 @@
-var mnemonic = "hybrid scrub weapon pattern practice physical flag exhibit poem gift music problem";
+var mnemonic = "bleak online armed duck list treat vacant alpha motion panther jeans measure";

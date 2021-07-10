@@ -1,1 +1,1 @@
-var mnemonic = "museum exact rain credit ship what hedgehog since car common person brief";
+var mnemonic = "mention private engage option milk delay deputy orient horn below fatal sick";

@@ -1,1 +1,1 @@
-var mnemonic = "spice carry outdoor keep organ peace system oblige village forest project critic";
+var mnemonic = "impose board predict service educate before good cluster witness bleak table alone";

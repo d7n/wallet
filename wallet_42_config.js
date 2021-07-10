@@ -1,1 +1,1 @@
-var mnemonic = "opera chimney beach cable capital test stuff occur already grace penalty rely";
+var mnemonic = "oil album inflict breeze cause atom grant area negative crash tattoo twice";

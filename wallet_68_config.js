@@ -1,1 +1,1 @@
-var mnemonic = "ignore member victory extra venture skate hockey catch tenant rifle vital kitten";
+var mnemonic = "brush future forward cabin cloud jealous lonely cup draw notice hockey judge";

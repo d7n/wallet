@@ -1,1 +1,1 @@
-var mnemonic = "soon match response divorce tortoise local people chicken brother muscle alpha gallery";
+var mnemonic = "town helmet power remember shiver other dwarf elite hospital sea wish pave";

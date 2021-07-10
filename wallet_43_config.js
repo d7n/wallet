@@ -1,1 +1,1 @@
-var mnemonic = "trip cash upper leave snake always piece magic enter car image sweet";
+var mnemonic = "divorce swing knee decide coil maple hero genius patrol catch people derive";

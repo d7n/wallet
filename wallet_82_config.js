@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin explain violin behave invest chest awkward flight season ridge impulse taxi";
+var mnemonic = "tell rigid help fan motor tide timber normal sphere cactus word circle";

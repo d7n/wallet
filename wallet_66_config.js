@@ -1,1 +1,1 @@
-var mnemonic = "session loop faint picnic hole they region width reject artist embody zebra";
+var mnemonic = "guilt bar aware dolphin chapter spell modify pig sick crack bacon any";

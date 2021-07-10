@@ -1,1 +1,1 @@
-var mnemonic = "basket carry eagle token upset amount lumber panic mom fragile under shaft";
+var mnemonic = "vibrant regret reject delay live veteran trust dog permit brown wine acoustic";

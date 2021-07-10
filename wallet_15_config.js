@@ -1,1 +1,1 @@
-var mnemonic = "blur alone judge rapid infant element ankle mesh surprise dizzy nose settle";
+var mnemonic = "vacant ramp bless marble dolphin fruit lobster distance mansion series group fine";

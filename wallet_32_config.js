@@ -1,1 +1,1 @@
-var mnemonic = "turkey shrimp diamond sunny sign stay cradle science total mean balcony panther";
+var mnemonic = "delay affair trumpet kiss undo sand weather dragon cycle foot seed donkey";

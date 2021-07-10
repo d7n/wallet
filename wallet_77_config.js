@@ -1,1 +1,1 @@
-var mnemonic = "correct subject trial there shaft check please slide strategy fiber sign cost";
+var mnemonic = "license drop bulk autumn erosion together piano frog pole approve fringe ticket";

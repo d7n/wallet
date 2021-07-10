@@ -1,1 +1,1 @@
-var mnemonic = "fiber trick head mercy globe develop mail furnace trumpet blind swallow gossip";
+var mnemonic = "rice razor glove legend decline beef clay marble process banner fruit struggle";

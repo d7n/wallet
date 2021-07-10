@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tourist advance select vendor zero female table month trip found action";
+var mnemonic = "warfare occur call local similar trim rally vault much elder soul record";

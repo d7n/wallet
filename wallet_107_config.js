@@ -1,1 +1,1 @@
-var mnemonic = "across neither gold average panic december shiver tank leg shell robust unknown";
+var mnemonic = "sense kiss bargain want erupt explain lake web hover glue body scale";

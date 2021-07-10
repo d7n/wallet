@@ -1,1 +1,1 @@
-var mnemonic = "phrase nuclear opinion column catch trap room paddle spin appear color wall";
+var mnemonic = "feature hunt barrel exhaust vessel enemy cigar desert slogan orphan sample rally";

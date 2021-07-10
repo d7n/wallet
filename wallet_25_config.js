@@ -1,1 +1,1 @@
-var mnemonic = "wheel swim course burger retire filter race miracle orbit riot wrestle amused";
+var mnemonic = "festival portion burst like vast wheel they game animal vital chaos layer";

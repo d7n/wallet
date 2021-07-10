@@ -1,1 +1,1 @@
-var mnemonic = "obvious debris degree midnight any barely replace spirit arrange permit sponsor giggle";
+var mnemonic = "gift system almost jewel barely person stadium oyster this purse have surround";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve blanket width large unusual glad repair spirit couple hope vacant eagle";
+var mnemonic = "husband sadness mobile decrease stumble rate forum coil afraid satoshi depart shove";

@@ -1,1 +1,1 @@
-var mnemonic = "firm belt garlic between behind luxury beauty marriage desert grape lesson have";
+var mnemonic = "clean work fuel calm upset easy throw useful seminar method marriage exchange";

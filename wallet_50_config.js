@@ -1,1 +1,1 @@
-var mnemonic = "slam steak holiday stick manual day stove banner cover security elegant roast";
+var mnemonic = "uphold near during key install build spare scare happy assist clay avocado";

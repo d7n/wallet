@@ -1,1 +1,1 @@
-var mnemonic = "bamboo embrace demand attack october banana arrest lawsuit enter pole field pig";
+var mnemonic = "danger dilemma submit oven gravity museum sing pill purchase lyrics pipe essence";

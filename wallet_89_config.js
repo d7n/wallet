@@ -1,1 +1,1 @@
-var mnemonic = "oval capital skirt spoon already inject script snow tool bean decline amount";
+var mnemonic = "east grain gauge hungry fiscal slush buffalo shock mandate lazy mystery give";

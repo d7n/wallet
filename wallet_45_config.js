@@ -1,1 +1,1 @@
-var mnemonic = "trust soldier unknown oil rebuild panel merit enter pet copy wage keen";
+var mnemonic = "blue step sort story parrot oppose endless jump wage garment inflict water";

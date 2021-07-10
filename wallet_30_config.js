@@ -1,1 +1,1 @@
-var mnemonic = "wise love myth option mouse odor shallow garden slight found memory portion";
+var mnemonic = "lock pulp tilt brother lecture cream symbol palm culture clump battle daring";

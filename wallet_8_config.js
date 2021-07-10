@@ -1,1 +1,1 @@
-var mnemonic = "ghost antenna burger soap never bar talent leisure quit alarm script theory";
+var mnemonic = "nation sound sand inquiry kitten merit empower barely cycle gas convince zero";

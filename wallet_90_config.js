@@ -1,1 +1,1 @@
-var mnemonic = "orient pass help rally pact involve frown pride coin market sniff round";
+var mnemonic = "squeeze umbrella try search surface ice seminar test narrow purchase artist fix";

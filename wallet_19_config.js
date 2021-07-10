@@ -1,1 +1,1 @@
-var mnemonic = "photo security foot ocean evolve avocado brand garlic solution stage cinnamon sport";
+var mnemonic = "siege dragon flight eyebrow paper already harbor concert dirt silly check master";

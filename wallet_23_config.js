@@ -1,1 +1,1 @@
-var mnemonic = "fence top collect code raccoon boss trade farm solution miss that eight";
+var mnemonic = "gesture amazing blur sting such rigid hundred trap car wave lunar mosquito";

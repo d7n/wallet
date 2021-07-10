@@ -1,1 +1,1 @@
-var mnemonic = "menu age crowd climb rifle syrup grief boring stumble alone hire minor";
+var mnemonic = "enlist elder tackle seven drop wrestle palace anchor strike space absent rebel";

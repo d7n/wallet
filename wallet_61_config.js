@@ -1,1 +1,1 @@
-var mnemonic = "feed poverty timber seven hammer verb vicious soul emotion rhythm uphold giggle";
+var mnemonic = "pretty solar decade begin feature obscure knee squeeze rack blur laugh amount";

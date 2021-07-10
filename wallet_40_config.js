@@ -1,1 +1,1 @@
-var mnemonic = "rely nest daughter gloom hard reveal silent present enrich first short skirt";
+var mnemonic = "creek speak meat before upon tobacco divide paper figure spend shallow fish";

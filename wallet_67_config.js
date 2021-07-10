@@ -1,1 +1,1 @@
-var mnemonic = "glance love life road supply margin night cereal dance robust useful absorb";
+var mnemonic = "actor arch surround opinion clutch enlist razor account recall isolate fortune agent";

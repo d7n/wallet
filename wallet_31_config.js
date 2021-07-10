@@ -1,1 +1,1 @@
-var mnemonic = "old deer habit daughter outer deposit claim parent pepper copy force limit";
+var mnemonic = "oppose spatial moment cup host orient mixture question mad ketchup ritual cross";

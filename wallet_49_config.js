@@ -1,1 +1,1 @@
-var mnemonic = "pony rescue buddy short case height measure section dwarf wire desk relief";
+var mnemonic = "aspect six fit unlock tunnel test invite learn oval fence chicken fire";

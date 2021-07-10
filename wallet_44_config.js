@@ -1,1 +1,1 @@
-var mnemonic = "umbrella oak road fade art daughter ship subway good toss eyebrow armed";
+var mnemonic = "clip success web twin govern purchase seek invite elephant grape toss derive";

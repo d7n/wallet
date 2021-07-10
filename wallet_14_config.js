@@ -1,1 +1,1 @@
-var mnemonic = "betray lend idea tribe half case spot table mimic title melt tone";
+var mnemonic = "clarify deny genre mandate give park future luggage response then among palm";

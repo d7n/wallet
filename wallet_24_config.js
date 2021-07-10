@@ -1,1 +1,1 @@
-var mnemonic = "slow upon can master under bench either warm bread luggage fall road";
+var mnemonic = "forest crisp legal warrior envelope matter range prevent then speak village crazy";

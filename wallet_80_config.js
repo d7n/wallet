@@ -1,1 +1,1 @@
-var mnemonic = "correct garbage file violin average garage sleep inch luggage insect luggage spin";
+var mnemonic = "fatal resist index anger neither regret toy gym hair quote tide fault";

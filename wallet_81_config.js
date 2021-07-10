@@ -1,1 +1,1 @@
-var mnemonic = "helmet keep song cruise physical avoid keen vanish around silly park grief";
+var mnemonic = "stock drift ill attract enough pigeon tube west once economy degree engage";

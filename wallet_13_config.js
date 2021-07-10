@@ -1,1 +1,1 @@
-var mnemonic = "ranch story major session symptom ill cradle devote neither nephew claw glue";
+var mnemonic = "borrow club cruel lizard luggage question audit dawn valley digital helmet pencil";

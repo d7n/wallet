@@ -1,1 +1,1 @@
-var mnemonic = "teach paddle acoustic actual talent sense owner cement eyebrow goat quick bean";
+var mnemonic = "innocent square soup child home gun panther flash network scatter grass viable";

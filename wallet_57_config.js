@@ -1,1 +1,1 @@
-var mnemonic = "chase absent empty picnic test answer trim you injury sample elite scheme";
+var mnemonic = "garment voice bonus anchor embark village monkey air erupt game blush treat";

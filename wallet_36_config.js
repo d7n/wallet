@@ -1,1 +1,1 @@
-var mnemonic = "naive song hazard poem angle cool train cram rebel tail wrap liberty";
+var mnemonic = "tonight proud yellow body flip buyer stage noble topic nasty special guard";

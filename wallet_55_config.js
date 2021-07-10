@@ -1,1 +1,1 @@
-var mnemonic = "leg plunge giggle palace switch jar quarter bundle life soda credit ginger";
+var mnemonic = "wrap among rapid abstract bulb truck shrug bulb better dismiss avoid travel";

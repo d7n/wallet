@@ -1,1 +1,1 @@
-var mnemonic = "magic bar limit waste sick fuel engage primary pizza they cake episode";
+var mnemonic = "lecture proof decrease rent leaf birth bullet rocket crowd into material olympic";

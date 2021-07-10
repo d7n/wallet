@@ -1,1 +1,1 @@
-var mnemonic = "supply athlete bring wall boy loop wing normal act purity view lecture";
+var mnemonic = "sick loan staff mention become analyst electric speed match motion exhaust elbow";

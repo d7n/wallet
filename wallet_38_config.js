@@ -1,1 +1,1 @@
-var mnemonic = "december cherry pyramid arctic gloom patrol quote palace auto canvas cook near";
+var mnemonic = "toilet mule episode devote tiger scene aspect acid pair employ spend sphere";

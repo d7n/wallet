@@ -1,1 +1,1 @@
-var mnemonic = "pelican monkey nothing always juice treat buffalo tone piano dust marble hollow";
+var mnemonic = "weasel cart merry document juice output job elephant lawn ring melt draw";

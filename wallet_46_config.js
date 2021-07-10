@@ -1,1 +1,1 @@
-var mnemonic = "skill neck screen define enhance prosper buzz hill child rice pig rate";
+var mnemonic = "grab wife broken globe choose angle deputy border yellow october elite distance";

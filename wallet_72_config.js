@@ -1,1 +1,1 @@
-var mnemonic = "genius dwarf twin badge toast pilot festival jar snack october rival relax";
+var mnemonic = "slot warrior lucky zone earth volcano window ill forward blade attitude say";

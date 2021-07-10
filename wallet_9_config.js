@@ -1,1 +1,1 @@
-var mnemonic = "version aerobic word sentence shock stone merry fat range west wave mixed";
+var mnemonic = "door endorse ring away describe slush daring leader essence job call hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "toward infant visual genuine patient leopard dad purpose worry answer antique virus";
+var mnemonic = "bleak physical raccoon protect assist neither spread asset soap manage liquid object";

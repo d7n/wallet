@@ -1,1 +1,1 @@
-var mnemonic = "offer cycle resource tape fault until stage drastic token age pudding road";
+var mnemonic = "easy dial friend review wash vocal dwarf false imitate worth process sort";

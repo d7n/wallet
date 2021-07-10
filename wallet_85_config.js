@@ -1,1 +1,1 @@
-var mnemonic = "refuse license twist energy tray mango place stone fancy same target arrange";
+var mnemonic = "favorite question field unique sheriff model curve mimic duty tide immense exile";

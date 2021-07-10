@@ -1,1 +1,1 @@
-var mnemonic = "reward hour mixed output congress like ozone puzzle marriage skate own deliver";
+var mnemonic = "view mask kitchen shield audit absurd drill tackle sea around thank hedgehog";

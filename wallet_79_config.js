@@ -1,1 +1,1 @@
-var mnemonic = "ocean orange grace method captain wrap saddle chronic stumble donate field glance";
+var mnemonic = "blossom square arrow gas escape dog ghost fatal shiver author lawn camera";
