@@ -1,1 +1,1 @@
-var mnemonic = "pen turkey garage hill gym hello depth tape forward silver extend provide";
+var mnemonic = "april lady monster champion side fiber crash base canyon purse topple often";

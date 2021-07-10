@@ -1,1 +1,1 @@
-var mnemonic = "miracle guilt language arch swallow access grab flee various light pig replace";
+var mnemonic = "language carpet switch warm test bar gauge cash hurry game steak average";

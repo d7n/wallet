@@ -1,1 +1,1 @@
-var mnemonic = "humble endless diet episode day aspect charge lemon surge cereal equal bone";
+var mnemonic = "cushion satoshi tomato item shield gown actual state field team shoot web";

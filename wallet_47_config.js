@@ -1,1 +1,1 @@
-var mnemonic = "town hedgehog asset finish mule tattoo fresh vast system phone angry escape";
+var mnemonic = "riot pass creek build law budget mountain riot february pride control glimpse";

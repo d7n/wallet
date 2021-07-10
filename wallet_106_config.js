@@ -1,1 +1,1 @@
-var mnemonic = "extra yellow nice sheriff dish super legend puppy rural sting conduct lawsuit";
+var mnemonic = "laugh scale merge raise genuine try upset section matrix sweet empty disease";

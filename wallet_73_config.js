@@ -1,1 +1,1 @@
-var mnemonic = "scheme thrive coral limit attract pause torch whisper fuel often peace raccoon";
+var mnemonic = "cousin palm hub symbol tooth error analyst original cute hip thing despair";

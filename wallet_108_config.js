@@ -1,1 +1,1 @@
-var mnemonic = "vessel grab effort taxi elevator forum west rabbit distance fiscal world quote";
+var mnemonic = "valid lazy grocery cluster knife into pulp alley differ abstract poverty pizza";

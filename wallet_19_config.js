@@ -1,1 +1,1 @@
-var mnemonic = "volcano speak wisdom sadness gospel reform unfair toward attend village series warm";
+var mnemonic = "yard actor either moon train palace scissors three inmate forward addict desert";

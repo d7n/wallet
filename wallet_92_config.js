@@ -1,1 +1,1 @@
-var mnemonic = "round cereal joy work animal assist tortoise daring vehicle cost witness search";
+var mnemonic = "lunar mystery fame object clinic pudding certain reform tip fiction teach mountain";

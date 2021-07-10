@@ -1,1 +1,1 @@
-var mnemonic = "nut blue virus hen nasty second pair velvet strategy forget hamster category";
+var mnemonic = "erase glue start recycle cement shock board master sister fly note salute";

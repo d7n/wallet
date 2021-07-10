@@ -1,1 +1,1 @@
-var mnemonic = "napkin allow same dad sustain online season wonder wire guide exact job";
+var mnemonic = "please subway flock chunk absent post alien bargain street neck slogan gospel";

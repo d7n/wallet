@@ -1,1 +1,1 @@
-var mnemonic = "liquid parent twin traffic machine rug rhythm fetch vicious divide net have";
+var mnemonic = "drift wire trial dish calm shoulder emotion truly liberty eternal evoke spot";

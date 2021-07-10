@@ -1,1 +1,1 @@
-var mnemonic = "gap three thought cage pigeon nice token puzzle alter report video hungry";
+var mnemonic = "blood father board review knee once pencil hospital verb neutral used staff";

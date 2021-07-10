@@ -1,1 +1,1 @@
-var mnemonic = "globe drum pepper talent kick creek coyote forest tiger satisfy viable shoulder";
+var mnemonic = "bone advice slow dinosaur click must garage found master alien draw credit";

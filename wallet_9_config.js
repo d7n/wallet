@@ -1,1 +1,1 @@
-var mnemonic = "elder notable link adjust engine cigar expose raven fiscal artwork future join";
+var mnemonic = "pet good between few cube feel season enforce exotic year wrestle local";

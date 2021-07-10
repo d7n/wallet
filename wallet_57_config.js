@@ -1,1 +1,1 @@
-var mnemonic = "romance auction useful truck anchor employ young federal mechanic erase airport shoe";
+var mnemonic = "truly list galaxy cinnamon shield main cool bone public inherit swift jump";

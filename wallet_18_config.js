@@ -1,1 +1,1 @@
-var mnemonic = "mean catch slice alcohol settle thought penalty tumble stage rival aisle sun";
+var mnemonic = "garage because middle true enough wisdom target gorilla struggle story enhance vanish";

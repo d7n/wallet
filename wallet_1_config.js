@@ -1,1 +1,1 @@
-var mnemonic = "chat bridge movie private curious tip market beyond wine faint write able";
+var mnemonic = "dish juice gaze fog cabin echo express assume drop flavor police deny";

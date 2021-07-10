@@ -1,1 +1,1 @@
-var mnemonic = "welcome roast offer slogan setup tomorrow legal adjust main twist silver biology";
+var mnemonic = "refuse average budget girl spin gate cruel crumble divorce idle tourist patrol";

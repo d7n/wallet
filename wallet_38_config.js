@@ -1,1 +1,1 @@
-var mnemonic = "bundle put machine purse snack still peace chicken decade island jelly idea";
+var mnemonic = "birth equal silver island pudding hood drive smart scare sister chat there";

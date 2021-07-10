@@ -1,1 +1,1 @@
-var mnemonic = "finish once unique defy raw spoil clap depend canvas omit bargain code";
+var mnemonic = "aware armed open elder truck culture potato voyage pony famous cabin seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "valid else wonder legend keen fall paper raven foam permit property original";
+var mnemonic = "february helmet fruit primary hill sauce rate color system forward casual brief";

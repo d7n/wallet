@@ -1,1 +1,1 @@
-var mnemonic = "usual catch thing stick pony spy angle invest depth cattle debate slice";
+var mnemonic = "round fetch sorry daring peace ripple grocery baby drift food rail area";

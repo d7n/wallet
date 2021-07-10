@@ -1,1 +1,1 @@
-var mnemonic = "view velvet direct train gospel magnet tribe track myth cram laugh mammal";
+var mnemonic = "prefer early critic mansion matter sad join jealous scatter guitar figure trap";

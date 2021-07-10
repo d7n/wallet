@@ -1,1 +1,1 @@
-var mnemonic = "noble rack feel ticket about cream economy mean false million voice crew";
+var mnemonic = "easily limb provide agent flavor velvet canvas fold hollow acquire birth office";

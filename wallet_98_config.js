@@ -1,1 +1,1 @@
-var mnemonic = "edge fix hurt rely air silent trash penalty eager laptop green horse";
+var mnemonic = "cannon hand spoil reform earn oak release gravity mango peace banana debate";

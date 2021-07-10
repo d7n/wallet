@@ -1,1 +1,1 @@
-var mnemonic = "unique tortoise gorilla hood club bomb cancel envelope craft kick filter alarm";
+var mnemonic = "help success analyst unique bid summer until retreat diesel oil dress salute";

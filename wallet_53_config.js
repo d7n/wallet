@@ -1,1 +1,1 @@
-var mnemonic = "world prepare jelly among exercise lift awkward tackle sun buffalo enact naive";
+var mnemonic = "gather alone engage spray dismiss ship cancel absorb bonus cereal radar giggle";

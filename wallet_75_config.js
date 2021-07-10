@@ -1,1 +1,1 @@
-var mnemonic = "increase favorite shock undo foster shine forget turkey approve display ten nephew";
+var mnemonic = "action cost force dirt action setup antique drink battle repeat uncover dawn";

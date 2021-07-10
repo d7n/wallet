@@ -1,1 +1,1 @@
-var mnemonic = "describe industry lock pizza odor roof mind shell boss broken effort escape";
+var mnemonic = "deny owner fork cart price rail table survey furnace neutral rate abandon";

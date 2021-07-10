@@ -1,1 +1,1 @@
-var mnemonic = "loan uniform harbor illegal present athlete tape virus dawn student sauce dune";
+var mnemonic = "zebra shaft prize knee boring undo bulk response cliff exhibit tourist text";

@@ -1,1 +1,1 @@
-var mnemonic = "trim surprise message witness hawk oxygen winter verify final east shift rally";
+var mnemonic = "keep torch cherry between proud history cruel demand isolate nominee ginger upper";

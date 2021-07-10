@@ -1,1 +1,1 @@
-var mnemonic = "doctor industry mammal immune amused govern quantum pave bullet steel result alcohol";
+var mnemonic = "autumn boat assume crunch tourist axis churn tool frost mixed prefer again";

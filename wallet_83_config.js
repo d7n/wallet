@@ -1,1 +1,1 @@
-var mnemonic = "business post assist frame that angle side champion crater target girl energy";
+var mnemonic = "custom soft police artefact love old wrong hover version ecology tattoo corn";

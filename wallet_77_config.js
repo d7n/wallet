@@ -1,1 +1,1 @@
-var mnemonic = "obscure act napkin tent faculty donkey upon pizza end stock census wisdom";
+var mnemonic = "object reopen layer hood wheel relax open diet air where arrest text";

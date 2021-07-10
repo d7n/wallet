@@ -1,1 +1,1 @@
-var mnemonic = "slogan pioneer caution race state couple strike crucial visual subway violin giraffe";
+var mnemonic = "wash error bike joke strategy danger liquid horn odor image arm rich";

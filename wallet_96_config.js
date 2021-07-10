@@ -1,1 +1,1 @@
-var mnemonic = "index unveil frog science inspire person soda garage magnet theory fringe picnic";
+var mnemonic = "dress six oak mansion shuffle brown destroy doctor owner episode riot toy";

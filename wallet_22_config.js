@@ -1,1 +1,1 @@
-var mnemonic = "message loan entire exist casual pupil suggest egg expect vivid depend print";
+var mnemonic = "exact taste stamp night length mother any cool drastic foster dove useful";

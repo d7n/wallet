@@ -1,1 +1,1 @@
-var mnemonic = "clap next cheap almost toward leg chief napkin differ shed future limit";
+var mnemonic = "century swear cloud choice relief fiber immense joy bus grid income cram";

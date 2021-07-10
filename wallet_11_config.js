@@ -1,1 +1,1 @@
-var mnemonic = "piano observe harvest surround hour jewel crowd surface retreat crisp truth lamp";
+var mnemonic = "input bike civil sad destroy cupboard kit entry check trust false crouch";

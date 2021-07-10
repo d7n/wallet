@@ -1,1 +1,1 @@
-var mnemonic = "armor monster poet horror sudden dragon atom boy journey three behind move";
+var mnemonic = "wheat gentle museum level region cup derive method police depend coil raw";

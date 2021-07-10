@@ -1,1 +1,1 @@
-var mnemonic = "water tank mother weapon fruit discover swallow weapon chaos giraffe over badge";
+var mnemonic = "face debate buzz spawn like remain wall month carpet stick actor airport";

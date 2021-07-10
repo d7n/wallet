@@ -1,1 +1,1 @@
-var mnemonic = "deal artefact pony garment unhappy perfect tenant emotion frog tool obscure electric";
+var mnemonic = "weapon cost fashion lesson cook evil liberty flock mom aware fold cruise";

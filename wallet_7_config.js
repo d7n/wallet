@@ -1,1 +1,1 @@
-var mnemonic = "razor tool cloud illness gravity disagree lion rather clutch tired bid shove";
+var mnemonic = "damp ask mystery help pool sweet arm motor collect mean cannon cat";

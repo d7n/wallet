@@ -1,1 +1,1 @@
-var mnemonic = "harvest audit speak rebuild verify museum glare dismiss birth become limb gospel";
+var mnemonic = "month gym junior gather rail recycle evidence sound survey during payment scan";

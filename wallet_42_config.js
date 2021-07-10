@@ -1,1 +1,1 @@
-var mnemonic = "coral hedgehog skin modify forward cereal that carbon noise gossip move juice";
+var mnemonic = "very unaware blind door popular find best green taxi stay devote gaze";

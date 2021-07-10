@@ -1,1 +1,1 @@
-var mnemonic = "fashion loan vital usage flower blame forum course together fold rival security";
+var mnemonic = "mandate reduce clerk heavy unique rural vivid float reflect journey wise roof";

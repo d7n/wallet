@@ -1,1 +1,1 @@
-var mnemonic = "waste park lonely enemy pelican siege panel scare undo bullet sound arrive";
+var mnemonic = "rug salon snap abuse evoke biology foster boat replace auction boy civil";

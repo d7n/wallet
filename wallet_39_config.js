@@ -1,1 +1,1 @@
-var mnemonic = "recall bundle weekend pottery mutual electric wrong walnut order payment monster surround";
+var mnemonic = "frown exotic acoustic tank alpha slender hollow bulb list fly behave ritual";

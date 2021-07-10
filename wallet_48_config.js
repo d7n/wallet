@@ -1,1 +1,1 @@
-var mnemonic = "faint mass equip thing trash wire control sing frog narrow cycle toddler";
+var mnemonic = "debate oyster faint front barely spread famous toy corn shell phone lyrics";

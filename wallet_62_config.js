@@ -1,1 +1,1 @@
-var mnemonic = "tired burst debate inflict beauty globe culture fee category token sudden misery";
+var mnemonic = "glare crawl wrap oak joke trick history vapor demand embark more scale";

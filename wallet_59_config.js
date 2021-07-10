@@ -1,1 +1,1 @@
-var mnemonic = "ranch host dust any suspect under swear effort when elite march east";
+var mnemonic = "cotton valve bid magic exotic rigid chuckle hunt vault push vessel awkward";

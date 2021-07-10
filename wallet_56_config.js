@@ -1,1 +1,1 @@
-var mnemonic = "story battle dish stem logic blood together find always holiday impulse pulp";
+var mnemonic = "muscle child siege goose seek describe hobby awake lemon behind rib width";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm keen noble device phrase cannon pioneer knee client cause forget voyage";
+var mnemonic = "magic balance omit vivid mushroom accident hotel infant miss elephant object oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "box mad area subway disease anger sudden safe door turkey album off";
+var mnemonic = "field torch myself polar yellow problem lend upgrade zebra sick baby denial";

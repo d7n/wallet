@@ -1,1 +1,1 @@
-var mnemonic = "design time snake topic deny magnet wealth six wasp scrap decrease mule";
+var mnemonic = "kid retire soccer lemon light stage wagon cram erase task escape hunt";

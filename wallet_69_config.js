@@ -1,1 +1,1 @@
-var mnemonic = "excuse corn require clump ankle buffalo kind easy borrow noble that blast";
+var mnemonic = "message position swarm mother mutual december recall laptop judge swing later cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse maximum jungle cause essay round galaxy spirit acid acquire lyrics wrong";
+var mnemonic = "camp ritual soon orchard clip valid unknown essay much damage lawn bird";

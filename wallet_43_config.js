@@ -1,1 +1,1 @@
-var mnemonic = "order cost kite ugly example sign lock mirror moral unique rich orphan";
+var mnemonic = "truly order unveil above link post credit antenna record trim camera wedding";

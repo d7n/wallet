@@ -1,1 +1,1 @@
-var mnemonic = "trend enact crop pave visit text kiss economy page soda device boy";
+var mnemonic = "animal organ flash tattoo rule drink genre lock warfare direct soda exhaust";

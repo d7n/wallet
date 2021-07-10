@@ -1,1 +1,1 @@
-var mnemonic = "blade village grant later cream have equal fix this jelly super gas";
+var mnemonic = "misery like suffer ranch neck middle divide denial cram upset tray describe";

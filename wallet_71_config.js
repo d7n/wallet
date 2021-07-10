@@ -1,1 +1,1 @@
-var mnemonic = "scissors bracket fiction ride chunk point scene style spoon castle develop worry";
+var mnemonic = "romance unaware digital afford wear infant solution fan inflict remove mandate open";

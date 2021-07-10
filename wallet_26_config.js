@@ -1,1 +1,1 @@
-var mnemonic = "expect right exit extend parrot stand rotate spray void exotic street say";
+var mnemonic = "old rude impose dinosaur empower reopen forest estate spread visit weasel input";

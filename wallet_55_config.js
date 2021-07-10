@@ -1,1 +1,1 @@
-var mnemonic = "dismiss now tribe shock thought disorder evidence place bring magnet wolf peace";
+var mnemonic = "permit angle shine oven candy pretty monkey dwarf laptop review sing elite";

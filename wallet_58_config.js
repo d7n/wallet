@@ -1,1 +1,1 @@
-var mnemonic = "hurry prison neglect bike play multiply tooth zoo creek pet print ticket";
+var mnemonic = "deputy tackle cloth place seat heart kitchen unaware little wrong jungle fish";

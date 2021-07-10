@@ -1,1 +1,1 @@
-var mnemonic = "dwarf welcome slight wagon fix smart jar outer gallery nominee short lens";
+var mnemonic = "sponsor fortune frame shock rack blue unfair danger royal about struggle glide";

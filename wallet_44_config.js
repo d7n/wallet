@@ -1,1 +1,1 @@
-var mnemonic = "hammer mixed patient eyebrow stick dance stamp simple gesture effort secret evolve";
+var mnemonic = "bless fatigue affair pause gesture settle puzzle party earn coyote solve rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "logic fat slender vast mail record rally busy welcome empower between hint";
+var mnemonic = "umbrella glass jewel rescue ridge popular you evolve imitate disease thank current";

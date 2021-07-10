@@ -1,1 +1,1 @@
-var mnemonic = "remember cash risk isolate rebuild else salute clog bamboo note angle funny";
+var mnemonic = "leopard tell book wrestle summer address black tomorrow tuna industry topic crater";

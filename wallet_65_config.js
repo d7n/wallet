@@ -1,1 +1,1 @@
-var mnemonic = "core sustain antique can enough daring twist remain myth cotton bounce dentist";
+var mnemonic = "hazard nose voyage snow banana equal lawn car offer velvet office east";

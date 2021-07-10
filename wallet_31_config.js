@@ -1,1 +1,1 @@
-var mnemonic = "swamp spoil paper tribe lobster pond salon health circle injury possible shrug";
+var mnemonic = "stage vast icon case response engine suffer spatial impose truck saddle mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "wear laptop fluid aspect nasty knee essay carry trip paper piano unusual";
+var mnemonic = "ball elegant blame arrive identify mercy same rain perfect oppose angry table";

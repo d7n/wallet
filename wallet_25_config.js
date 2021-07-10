@@ -1,1 +1,1 @@
-var mnemonic = "view maid attend stand banana since pipe excess upgrade sniff pave photo";
+var mnemonic = "offer awful left stadium oyster ocean fox work announce record belt vapor";

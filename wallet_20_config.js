@@ -1,1 +1,1 @@
-var mnemonic = "major piece reason sudden stem leaf rail mushroom only seven banana april";
+var mnemonic = "vacuum blouse weekend oven eye stem rifle flash infant vibrant love never";

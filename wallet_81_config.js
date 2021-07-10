@@ -1,1 +1,1 @@
-var mnemonic = "leaf media mom summer siege deal atom hour father unfair recycle great";
+var mnemonic = "grid mutual valve evoke fury just fine ripple grunt equal appear awake";

@@ -1,1 +1,1 @@
-var mnemonic = "apology purse bamboo build gossip drive recipe album burst voice gentle trap";
+var mnemonic = "jewel sort sadness legal neglect pink tattoo talent sell doctor grass judge";

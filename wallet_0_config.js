@@ -1,1 +1,1 @@
-var mnemonic = "twin acoustic disease room century pear journey toss woman quote blame lift";
+var mnemonic = "inherit ocean snake trend pink divide file response pretty balance begin melody";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion eyebrow recall give journey pear tonight trouble butter crane useless such";
+var mnemonic = "person slush indoor enforce train cage dash aisle defense large ignore response";

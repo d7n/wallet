@@ -1,1 +1,1 @@
-var mnemonic = "wage sing very session hybrid load hour width flush coffee torch fork";
+var mnemonic = "excuse battle giant enlist address pyramid project before smoke chalk jeans tourist";

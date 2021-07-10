@@ -1,1 +1,1 @@
-var mnemonic = "system hill gentle labor blame soon nose orphan retire burst ugly lounge";
+var mnemonic = "copy quantum primary future know license remove season also category unlock oxygen";

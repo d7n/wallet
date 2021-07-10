@@ -1,1 +1,1 @@
-var mnemonic = "candy brown pink fence gate brown knock uniform pudding maximum hawk purpose";
+var mnemonic = "crouch exclude leopard unlock team oval apart album history furnace fuel dream";

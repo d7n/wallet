@@ -1,1 +1,1 @@
-var mnemonic = "cart raccoon rate zone rack arrive name toast casino cruise dolphin duty";
+var mnemonic = "prison drift unhappy slush relax husband give amused van neck click people";

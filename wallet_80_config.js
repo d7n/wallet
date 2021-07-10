@@ -1,1 +1,1 @@
-var mnemonic = "online discover fruit include flip milk hole switch early copy era squeeze";
+var mnemonic = "town enough true nerve tomorrow reveal fetch mad cook kick job blue";

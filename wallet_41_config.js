@@ -1,1 +1,1 @@
-var mnemonic = "pig little moon dawn good chicken purity huge old bacon device boost";
+var mnemonic = "laptop cushion acquire try oak afraid crack erase age motor cliff bench";

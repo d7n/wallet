@@ -1,1 +1,1 @@
-var mnemonic = "orchard fantasy afford mix embody sign siren grant easily latin valve olympic";
+var mnemonic = "veteran garbage diagram silent series leave estate knock stone exist muffin reflect";

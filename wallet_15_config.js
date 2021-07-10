@@ -1,1 +1,1 @@
-var mnemonic = "spatial actual nose table mail cake renew pipe famous adult case range";
+var mnemonic = "physical matter hedgehog buffalo leaf diary equal wild blouse sentence office tilt";

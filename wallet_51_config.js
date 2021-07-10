@@ -1,1 +1,1 @@
-var mnemonic = "shop hotel twelve adult mutual biology tonight into unusual void razor visit";
+var mnemonic = "random toilet scissors tribe fold blossom wisdom aisle dry network crane verb";

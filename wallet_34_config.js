@@ -1,1 +1,1 @@
-var mnemonic = "first fall boil benefit unlock list rug foot major cloth crucial point";
+var mnemonic = "borrow fantasy keep endless hawk myth clever plate pact cabin galaxy stick";
