@@ -1,1 +1,1 @@
-var mnemonic = "mirror wait now muscle element degree crack boat more scale never produce";
+var mnemonic = "emotion lens sudden timber grief fiber dentist nature script beach speed risk";

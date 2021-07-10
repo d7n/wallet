@@ -1,1 +1,1 @@
-var mnemonic = "move tribe pyramid invite maze lava box demise mask planet extra inhale";
+var mnemonic = "chef alley direct large miss canyon major garden cupboard assume plate hand";

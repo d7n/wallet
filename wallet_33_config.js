@@ -1,1 +1,1 @@
-var mnemonic = "foot safe donor caught wise demand force awake garment gap broken citizen";
+var mnemonic = "source punch humor essay ten custom squeeze try half penalty innocent inquiry";

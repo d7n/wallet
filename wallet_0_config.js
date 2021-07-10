@@ -1,1 +1,1 @@
-var mnemonic = "during dad hello day scene type garment tip bubble today cry vague";
+var mnemonic = "bring raccoon vicious frequent later health inside arrow bike detail car hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "under diesel author couple bonus jump normal moment nature display doll parent";
+var mnemonic = "orphan pony arrest diet capable real cost buffalo alien stuff ice reflect";

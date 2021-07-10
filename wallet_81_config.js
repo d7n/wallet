@@ -1,1 +1,1 @@
-var mnemonic = "under strategy cargo assault mule tunnel apple derive balcony clever crucial mutual";
+var mnemonic = "sister glow soap slush virtual art insane warm pistol case film bench";

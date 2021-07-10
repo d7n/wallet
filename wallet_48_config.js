@@ -1,1 +1,1 @@
-var mnemonic = "dentist rifle dwarf rebel odor air chuckle silly agent hat rude save";
+var mnemonic = "skill slide beauty sentence sell happy vendor tonight clarify abandon claim renew";

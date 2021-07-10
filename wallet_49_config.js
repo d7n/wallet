@@ -1,1 +1,1 @@
-var mnemonic = "fun ethics rug short borrow project wisdom sleep diamond laptop vicious club";
+var mnemonic = "seminar romance pledge void alarm hello match planet warrior game gym pottery";

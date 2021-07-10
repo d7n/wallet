@@ -1,1 +1,1 @@
-var mnemonic = "boss steak exact essay garlic fragile invite crawl cattle hint enroll scout";
+var mnemonic = "message figure announce wonder banner clown portion coast december capable quick monitor";

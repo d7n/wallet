@@ -1,1 +1,1 @@
-var mnemonic = "begin assist hamster print mention assault cat shy blanket uniform color dream";
+var mnemonic = "portion gesture parrot unfair electric draft hover soon nut venue crouch dove";

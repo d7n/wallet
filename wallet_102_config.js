@@ -1,1 +1,1 @@
-var mnemonic = "boost enjoy palace strong claw donkey door strategy tube wave stock noodle";
+var mnemonic = "document erode noodle cube season check injury face reform secret refuse doctor";

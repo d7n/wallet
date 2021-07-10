@@ -1,1 +1,1 @@
-var mnemonic = "simple have student urge aisle man lab obscure earn argue narrow wave";
+var mnemonic = "bench never garment pride usual style sphere enact step catch find sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "bar shoulder convince beach punch life arm acid moon job empower patch";
+var mnemonic = "rose vapor buyer prison ketchup fancy say tenant rule victory weekend critic";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop sure husband drama alien clown immune review prefer indoor brand mirror";
+var mnemonic = "slogan onion pistol coin simple protect air access humble ugly cushion kingdom";

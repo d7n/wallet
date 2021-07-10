@@ -1,1 +1,1 @@
-var mnemonic = "two scare wet cousin tank clown wagon bicycle design jar seminar piano";
+var mnemonic = "kid control glass chimney soul cart supply bag grab onion balcony apology";

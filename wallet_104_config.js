@@ -1,1 +1,1 @@
-var mnemonic = "rebel explain six skill syrup world ginger water inquiry tip odor minimum";
+var mnemonic = "weekend tape proud truck alley renew keep film ramp speed door ride";

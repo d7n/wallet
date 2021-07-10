@@ -1,1 +1,1 @@
-var mnemonic = "model scare shop abstract boil traffic coffee palm original leisure raw impact";
+var mnemonic = "siege bike invest response broken album drastic infant sport mother spawn oblige";

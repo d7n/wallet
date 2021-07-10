@@ -1,1 +1,1 @@
-var mnemonic = "short manual mean goat right sheriff bronze finish disagree edge vote catalog";
+var mnemonic = "february gift recycle afraid grocery hip forward wink practice cinnamon ceiling work";

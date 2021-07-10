@@ -1,1 +1,1 @@
-var mnemonic = "mule antenna giant attend illegal shy trip risk number worth noise wood";
+var mnemonic = "follow penalty drum bachelor embody ivory edge dizzy gravity joy camp occur";

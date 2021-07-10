@@ -1,1 +1,1 @@
-var mnemonic = "year sword aim salute era name symbol shuffle crouch capital seven screen";
+var mnemonic = "sibling flush soccer come meadow series pact mad color icon judge angle";

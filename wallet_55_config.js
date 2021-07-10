@@ -1,1 +1,1 @@
-var mnemonic = "acquire subway phone arrive change senior finish stumble version switch subway depend";
+var mnemonic = "evolve slogan leader refuse volcano undo guide true flight swear danger between";

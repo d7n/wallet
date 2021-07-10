@@ -1,1 +1,1 @@
-var mnemonic = "embody swap surprise imitate piece unique claw insect view drink parent slogan";
+var mnemonic = "among embark fiction bubble property wing eagle beach trust grow festival relief";

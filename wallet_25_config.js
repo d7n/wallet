@@ -1,1 +1,1 @@
-var mnemonic = "rival issue pelican toddler apart cat oak slam repair borrow intact color";
+var mnemonic = "fatigue wear tilt dry recycle adapt category core uncover detect horn unknown";

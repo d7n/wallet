@@ -1,1 +1,1 @@
-var mnemonic = "arrow faint slide old laundry world sausage powder poet squirrel fatal rack";
+var mnemonic = "skull reunion canyon shock scrap spread burger lady shed bracket feel example";

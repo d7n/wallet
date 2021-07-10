@@ -1,1 +1,1 @@
-var mnemonic = "cushion final process action absurd satoshi bar light save add sample grain";
+var mnemonic = "dream elbow awful trial uniform pet catalog memory party solid capital snack";

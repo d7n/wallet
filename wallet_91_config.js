@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow wise wisdom twist analyst east lock two transfer beyond mandate push";
+var mnemonic = "clump toddler sea craft lyrics acoustic child title marine virus join vague";

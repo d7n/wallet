@@ -1,1 +1,1 @@
-var mnemonic = "alcohol magnet swamp boat age pool option abstract oyster tent another decide";
+var mnemonic = "cement grace frost grocery pull evil night balance thrive rhythm enlist coil";

@@ -1,1 +1,1 @@
-var mnemonic = "prison expect east candy receive bonus rice busy intact waste addict sketch";
+var mnemonic = "three ball into camera permit permit syrup motor naive tourist lift forest";

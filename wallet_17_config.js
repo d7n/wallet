@@ -1,1 +1,1 @@
-var mnemonic = "owner vault used polar phrase position foil anger unknown master leopard bar";
+var mnemonic = "bulk pencil whisper reflect science team chalk stairs deputy inflict wagon push";

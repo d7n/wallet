@@ -1,1 +1,1 @@
-var mnemonic = "hazard alone deposit goddess roof damp divide media resource night ankle spread";
+var mnemonic = "delay velvet shield crucial boost state morning knee athlete belt release dumb";

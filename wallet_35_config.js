@@ -1,1 +1,1 @@
-var mnemonic = "nose minute object wait thank depth film awake observe forest private tattoo";
+var mnemonic = "zoo neither balance carpet bring ceiling control during detect zero sun destroy";

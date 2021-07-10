@@ -1,1 +1,1 @@
-var mnemonic = "crucial crime riot jeans century capital useless title alter kangaroo pull aim";
+var mnemonic = "venture amused eye immune renew cattle number squirrel expect size loyal until";

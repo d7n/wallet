@@ -1,1 +1,1 @@
-var mnemonic = "pill cable square domain salt scissors inner master monster tool drastic smoke";
+var mnemonic = "rhythm galaxy lecture spoil cave mountain mom swift fever join lucky enough";

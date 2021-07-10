@@ -1,1 +1,1 @@
-var mnemonic = "bone winter roof lion inspire unable surface ride large inform mosquito episode";
+var mnemonic = "pool inch seminar street lift desert meadow voice dragon globe almost ready";

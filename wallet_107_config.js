@@ -1,1 +1,1 @@
-var mnemonic = "mean also egg august setup mimic negative control card short mixture news";
+var mnemonic = "movie loyal remain remember heavy convince absent burden federal maple course series";

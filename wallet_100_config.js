@@ -1,1 +1,1 @@
-var mnemonic = "bunker prize female fossil rebuild emerge resource fault gun radar can muffin";
+var mnemonic = "trick toe right sponsor cargo law foil embark climb boost rain resource";

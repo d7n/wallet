@@ -1,1 +1,1 @@
-var mnemonic = "trap love danger insect device mandate toss capital define what rescue width";
+var mnemonic = "mind three narrow faculty one blade loyal lecture actual flush original fatal";

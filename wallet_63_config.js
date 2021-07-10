@@ -1,1 +1,1 @@
-var mnemonic = "always autumn pause copper pioneer grow ahead teach lawn push baby shallow";
+var mnemonic = "include six wall century voice inside refuse cage cloud sport lounge hair";

@@ -1,1 +1,1 @@
-var mnemonic = "basket gossip skill useless three copper soccer merge march brain copy above";
+var mnemonic = "assault all topple improve roof inspire song album fiction office blade market";

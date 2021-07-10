@@ -1,1 +1,1 @@
-var mnemonic = "crew orphan coil hard useful maple alley brother degree devote uncle person";
+var mnemonic = "chief wish simple behave delay cash daughter grow coyote evidence volcano genuine";

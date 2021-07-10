@@ -1,1 +1,1 @@
-var mnemonic = "chief leisure shuffle milk bulk embrace rhythm unaware business unlock enemy despair";
+var mnemonic = "exact wife van minute arctic flower power drill eternal spatial stock refuse";

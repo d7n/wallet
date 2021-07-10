@@ -1,1 +1,1 @@
-var mnemonic = "window demise bird region sail produce ketchup rug wish calm wire sister";
+var mnemonic = "panel escape drift pattern vessel basic another retire census ready entire heart";

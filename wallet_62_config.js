@@ -1,1 +1,1 @@
-var mnemonic = "motor sword spread spy thunder glory various today invite funny blame dance";
+var mnemonic = "alcohol flock absurd indoor brief wedding digital tag apple master one roast";

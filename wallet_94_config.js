@@ -1,1 +1,1 @@
-var mnemonic = "exclude prize know sorry lonely way position axis video glove thank kitten";
+var mnemonic = "parent elegant move cram surround carpet donate salt course hospital actress submit";

@@ -1,1 +1,1 @@
-var mnemonic = "myself giant bottom bus trap bike various riot outside armor leg sock";
+var mnemonic = "resemble unaware upset marble advice seven found junk tiger then simple gather";

@@ -1,1 +1,1 @@
-var mnemonic = "duck original ordinary cradle pulp hobby quality nation chicken zero pistol bench";
+var mnemonic = "you burst cook hat bicycle cliff much measure diesel asset gym zero";

@@ -1,1 +1,1 @@
-var mnemonic = "together over retire seat analyst depth onion lobster mystery lunch exist share";
+var mnemonic = "panic treat bean eagle chest dutch error six frown defy loyal reveal";

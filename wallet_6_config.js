@@ -1,1 +1,1 @@
-var mnemonic = "deer forum alien salt below plastic admit mass insane drink mammal catch";
+var mnemonic = "blood sponsor pluck hawk tail chalk job silent cabbage depend decline rude";

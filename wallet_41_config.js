@@ -1,1 +1,1 @@
-var mnemonic = "open horn pigeon crucial plastic surge useful better manage indicate shaft pigeon";
+var mnemonic = "venture color girl include trigger margin boss wise present absorb elder vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "health combine purpose weapon pear tilt help soup often car chimney hour";
+var mnemonic = "hunt analyst vendor target border mail airport link page increase smooth divide";

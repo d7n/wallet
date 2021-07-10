@@ -1,1 +1,1 @@
-var mnemonic = "noise grape ecology penalty sheriff video onion lawn remove wrist topic knee";
+var mnemonic = "legend letter true fever wall photo size lab curious shock million illegal";

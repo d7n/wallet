@@ -1,1 +1,1 @@
-var mnemonic = "crew burst budget link dynamic dawn oyster current south armor guilt assist";
+var mnemonic = "leopard eager reason inherit dad give history expose february arena organ odor";

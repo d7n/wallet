@@ -1,1 +1,1 @@
-var mnemonic = "core knee rigid race jungle quiz arch soul stumble list skin beach";
+var mnemonic = "turn tragic result wear slogan affair creek final across health rent garden";

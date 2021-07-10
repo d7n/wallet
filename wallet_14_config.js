@@ -1,1 +1,1 @@
-var mnemonic = "name employ hood upper liar hawk win evil tower bachelor rural mean";
+var mnemonic = "demand birth blue mirror rare torch vacant warrior usual talk various entire";

@@ -1,1 +1,1 @@
-var mnemonic = "receive barely caught town evolve festival any laugh gift vehicle joy canvas";
+var mnemonic = "alert fog track snap peasant escape medal whale blush hard fruit bid";

@@ -1,1 +1,1 @@
-var mnemonic = "position target drill frost refuse flat ten destroy marriage ski mushroom outdoor";
+var mnemonic = "juice million quiz guitar pact program step fan require away trophy orange";

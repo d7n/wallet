@@ -1,1 +1,1 @@
-var mnemonic = "nothing voice explain soap warm area trip half size joy emerge useless";
+var mnemonic = "screen journey agent mango toe poem device glad rose inject atom surround";

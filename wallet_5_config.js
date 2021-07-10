@@ -1,1 +1,1 @@
-var mnemonic = "today moment magnet lock thrive priority document track raise lend typical term";
+var mnemonic = "clinic advice chief weekend orchard sight order page achieve play table advance";

@@ -1,1 +1,1 @@
-var mnemonic = "present plastic brown rescue road common absorb yard medal bicycle brief capital";
+var mnemonic = "idea silver uncle sponsor width couch volcano alarm warrior congress rare screen";

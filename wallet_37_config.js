@@ -1,1 +1,1 @@
-var mnemonic = "brief rug diary rent grow glory bean spin juice soup tip tomorrow";
+var mnemonic = "normal expect describe sunny envelope usage net loud mail captain love model";

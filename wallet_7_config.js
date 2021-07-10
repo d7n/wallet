@@ -1,1 +1,1 @@
-var mnemonic = "swamp front cream clutch donor flame differ float science vague talent usual";
+var mnemonic = "thought robust bind defy farm original slab fuel sign erode miracle try";

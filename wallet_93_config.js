@@ -1,1 +1,1 @@
-var mnemonic = "deal alien typical drastic voice method basic tank chimney current pizza same";
+var mnemonic = "monkey donate income quit burger other river feel shift cigar limit devote";

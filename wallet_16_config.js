@@ -1,1 +1,1 @@
-var mnemonic = "half plug happy slight ozone submit potato aunt aunt book flock museum";
+var mnemonic = "medal humor cabin narrow miracle minor that helmet find excuse tobacco word";

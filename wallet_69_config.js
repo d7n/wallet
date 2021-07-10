@@ -1,1 +1,1 @@
-var mnemonic = "toilet pulp isolate runway engage clock fan similar orphan noble credit distance";
+var mnemonic = "crucial weird average grass field shoot sing grant fresh onion melt art";

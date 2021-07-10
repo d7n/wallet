@@ -1,1 +1,1 @@
-var mnemonic = "drum spin envelope same public trigger cloth soft invite history other diamond";
+var mnemonic = "health satisfy close tennis note strong describe whip rival dust language rate";

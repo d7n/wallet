@@ -1,1 +1,1 @@
-var mnemonic = "solution early luggage robot visit people valve giraffe pioneer again impose oppose";
+var mnemonic = "height loan rug frown wheat table fabric stadium atom street fish helmet";

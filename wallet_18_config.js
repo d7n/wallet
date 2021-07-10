@@ -1,1 +1,1 @@
-var mnemonic = "egg vast target latin cup deal moment park elegant exit initial solve";
+var mnemonic = "where forward bargain taste list salad pattern rug shuffle pattern race decade";

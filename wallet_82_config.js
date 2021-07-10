@@ -1,1 +1,1 @@
-var mnemonic = "typical young multiply general minimum cage congress february among royal milk champion";
+var mnemonic = "cheese expand diamond hard month grunt shock weekend luggage tooth prison must";

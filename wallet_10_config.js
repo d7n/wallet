@@ -1,1 +1,1 @@
-var mnemonic = "embrace useless craft board feel two cook impact fit much slice secret";
+var mnemonic = "riot valve liar menu fold fragile month humble diagram silent awkward sort";

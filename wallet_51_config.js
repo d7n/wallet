@@ -1,1 +1,1 @@
-var mnemonic = "often rich ill physical energy post clown dish impulse dinosaur addict start";
+var mnemonic = "obvious frog attitude pull distance bamboo minimum feature bonus balcony company birth";

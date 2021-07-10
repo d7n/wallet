@@ -1,1 +1,1 @@
-var mnemonic = "club point erase long auto secret vintage fruit original lunar fresh sort";
+var mnemonic = "foam favorite today verb airport black burger regular silver ready own plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "close domain visual fitness pledge cigar verify prison empower zone spin valley";
+var mnemonic = "choose provide hire caught edit verb chef camera gaze firm pluck kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "please enact peasant bicycle cushion metal knee pig claim wide canal crime";
+var mnemonic = "gesture infant attract upset maple crucial ivory upgrade acoustic rebuild job joy";

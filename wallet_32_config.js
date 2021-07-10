@@ -1,1 +1,1 @@
-var mnemonic = "grace ticket jar child judge captain clever salon badge clinic bind scissors";
+var mnemonic = "peanut pottery acid bird fan gravity rabbit icon initial custom plunge chest";

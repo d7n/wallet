@@ -1,1 +1,1 @@
-var mnemonic = "survey flock inside globe frost any drum ride wear nurse asthma move";
+var mnemonic = "symbol horn civil aware inmate chest require damage decade drill aunt banana";

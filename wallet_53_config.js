@@ -1,1 +1,1 @@
-var mnemonic = "trick pig scan found genre glance view mail fetch morning labor sting";
+var mnemonic = "tenant stick neutral nice art scrub sleep sure confirm chair sibling wash";

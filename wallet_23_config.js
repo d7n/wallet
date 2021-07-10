@@ -1,1 +1,1 @@
-var mnemonic = "help fatigue blood kitchen what anger barrel echo produce acoustic style notice";
+var mnemonic = "auto depart burst leisure replace current north danger round differ wild clay";

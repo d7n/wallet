@@ -1,1 +1,1 @@
-var mnemonic = "slow twice major celery addict quantum retreat rule cloth cereal enroll solar";
+var mnemonic = "eagle lumber mass idle suit fix chair short matrix subway surprise sweet";

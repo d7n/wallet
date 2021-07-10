@@ -1,1 +1,1 @@
-var mnemonic = "hope illness clown dance motor resist neck staff aisle earn response long";
+var mnemonic = "model that list comfort voice hold salute humble copper muffin deal fancy";

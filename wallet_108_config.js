@@ -1,1 +1,1 @@
-var mnemonic = "occur target demand excess mushroom admit truck view used spring salute correct";
+var mnemonic = "power harbor surface make door street close system census danger solar skull";

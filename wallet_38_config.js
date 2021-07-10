@@ -1,1 +1,1 @@
-var mnemonic = "athlete poem injury dish script symptom wool legend any practice blade together";
+var mnemonic = "faint sudden medal cost agent clay require lumber couple video armor wish";

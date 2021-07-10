@@ -1,1 +1,1 @@
-var mnemonic = "situate skirt decrease river order invite grass true cloth please width receive";
+var mnemonic = "pupil say dumb extra debris net vendor purse top equal relief gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "salt access shift vocal sadness behave ritual exile hat hedgehog forum shrug";
+var mnemonic = "hand seek special captain hen receive cactus thunder grunt fever tackle crisp";

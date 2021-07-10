@@ -1,1 +1,1 @@
-var mnemonic = "space equip beef chaos autumn senior wide engine cement mammal document zone";
+var mnemonic = "edit small lawsuit fiscal enter palace cake update pink runway artist rhythm";

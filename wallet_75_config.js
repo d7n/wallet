@@ -1,1 +1,1 @@
-var mnemonic = "cook solution sense glove three sand decade dolphin peasant miss diet small";
+var mnemonic = "gun joy sustain squeeze guard announce theme increase liar trophy ladder blind";

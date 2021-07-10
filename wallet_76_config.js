@@ -1,1 +1,1 @@
-var mnemonic = "trick shove hawk jeans liquid ketchup undo brick arrest half secret vintage";
+var mnemonic = "year kangaroo tomorrow run fit tiny chase they gesture hint margin pass";

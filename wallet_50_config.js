@@ -1,1 +1,1 @@
-var mnemonic = "pudding swamp meadow angry click buddy setup grape warfare nose bench memory";
+var mnemonic = "appear grit address sphere midnight apple wine nice ceiling work settle stage";

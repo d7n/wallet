@@ -1,1 +1,1 @@
-var mnemonic = "review atom million truth code disease play brand learn govern puppy hundred";
+var mnemonic = "mix admit oblige group barrel indicate town parade share tip consider monster";
