@@ -1,1 +1,1 @@
-var mnemonic = "glimpse hazard sustain cousin long system toast beef purpose flip impact rough";
+var mnemonic = "rib rib monitor differ eye expand position visa subject route rival bulb";

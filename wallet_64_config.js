@@ -1,1 +1,1 @@
-var mnemonic = "host mad spike security height list silver cat dynamic super space slow";
+var mnemonic = "lake where promote congress guess foster stick pond initial exotic goat goddess";

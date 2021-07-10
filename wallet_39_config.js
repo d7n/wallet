@@ -1,1 +1,1 @@
-var mnemonic = "ring check federal horror champion salute lawn impose major end chapter filter";
+var mnemonic = "clinic siren filter absent attitude observe inspire fossil key alien sister museum";

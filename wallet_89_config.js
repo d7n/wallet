@@ -1,1 +1,1 @@
-var mnemonic = "gold wine coyote crack warrior spatial cargo cabbage wet weather behave range";
+var mnemonic = "real icon index odor uphold track cross theory staff hello capital axis";

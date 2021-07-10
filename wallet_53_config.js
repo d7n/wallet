@@ -1,1 +1,1 @@
-var mnemonic = "morning twelve case sing avoid work biology cancel betray faint install unfold";
+var mnemonic = "fix venture recycle much decorate add gaze marriage remove soon reject symptom";

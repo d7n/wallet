@@ -1,1 +1,1 @@
-var mnemonic = "unaware nasty two ten seek clean until blast excuse index view truck";
+var mnemonic = "business weapon cherry marble assault govern pattern either flash ride youth steak";

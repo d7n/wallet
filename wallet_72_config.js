@@ -1,1 +1,1 @@
-var mnemonic = "tide autumn sentence story alter clutch scheme multiply social loan kit shield";
+var mnemonic = "ranch stick brisk apart armor real sudden mystery smoke hawk tragic security";

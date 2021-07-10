@@ -1,1 +1,1 @@
-var mnemonic = "raw already car lend soul fancy south toy update kitchen final rice";
+var mnemonic = "shrimp hurdle network romance absurd require cruel borrow ankle speak pass dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "lab invite width fragile nominee outside cart quit useless senior warm hill";
+var mnemonic = "wool abuse lens armor motion utility business pig sleep stem release prevent";

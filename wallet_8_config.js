@@ -1,1 +1,1 @@
-var mnemonic = "clock any two cabbage rifle unfair purity gift inhale ten forward have";
+var mnemonic = "ecology happy high useful few rely nature step remind easily file front";

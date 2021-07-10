@@ -1,1 +1,1 @@
-var mnemonic = "eye venue fruit gallery broken cycle spring rabbit soccer pear erosion permit";
+var mnemonic = "sheriff survey another title parent tobacco opera auction audit behave erode fluid";

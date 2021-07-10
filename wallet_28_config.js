@@ -1,1 +1,1 @@
-var mnemonic = "organ cannon neutral erase more foil will journey series spy coach travel";
+var mnemonic = "patrol couple fox amazing rescue dial actor repair entire envelope card between";

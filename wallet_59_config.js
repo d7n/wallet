@@ -1,1 +1,1 @@
-var mnemonic = "scale festival paper list purity palm youth occur energy opinion type nerve";
+var mnemonic = "truck such resemble check lemon oval drift orphan dice grit balance brave";

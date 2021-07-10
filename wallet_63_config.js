@@ -1,1 +1,1 @@
-var mnemonic = "uncover dose average vapor gesture badge shuffle funny scheme kiss fatal elegant";
+var mnemonic = "sting price coin assist copper bird town frog believe sound position machine";

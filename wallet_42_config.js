@@ -1,1 +1,1 @@
-var mnemonic = "stumble truth diet unfair scrap target meadow weapon athlete race future sword";
+var mnemonic = "marriage turkey height dust pudding funny camp eye hen tiny gadget unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "draw reveal essence disorder despair audit basket card install switch desk vote";
+var mnemonic = "plastic antenna wrap shrimp gun wire discover olive display eight come recipe";

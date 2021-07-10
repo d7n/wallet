@@ -1,1 +1,1 @@
-var mnemonic = "rug define craft denial render mosquito humble offer matrix cattle bunker spy";
+var mnemonic = "goat kit ice attitude disease table journey magnet black page whip inner";

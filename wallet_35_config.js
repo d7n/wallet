@@ -1,1 +1,1 @@
-var mnemonic = "rose toast general present blanket basket amazing surprise lava glue tribe quick";
+var mnemonic = "wide dose scan gallery crunch snap tomorrow project license master hip two";

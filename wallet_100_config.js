@@ -1,1 +1,1 @@
-var mnemonic = "heavy clerk rice mirror pear surface camera toe bronze congress slim unlock";
+var mnemonic = "twenty ketchup eye drop much mechanic force away argue eager chaos debris";

@@ -1,1 +1,1 @@
-var mnemonic = "card average ripple auction sweet cover gorilla debate bachelor kidney crouch spirit";
+var mnemonic = "vendor skate over wear opinion entire betray deliver search song drum choose";

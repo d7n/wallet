@@ -1,1 +1,1 @@
-var mnemonic = "zebra sound endless soldier range trip artefact squirrel wall noodle muffin seat";
+var mnemonic = "broom rural liberty fish enact enable addict unlock february rocket jazz front";

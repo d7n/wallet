@@ -1,1 +1,1 @@
-var mnemonic = "remain weird meadow shoot tourist child control mesh snow avocado globe rug";
+var mnemonic = "distance mango this enroll flight lion winner north snap game people pole";

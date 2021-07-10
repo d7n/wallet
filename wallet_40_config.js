@@ -1,1 +1,1 @@
-var mnemonic = "nut fence faint bulk fee bread oil arrange cattle salmon name help";
+var mnemonic = "bird image adjust scissors display before spirit throw fatal episode hill cheap";

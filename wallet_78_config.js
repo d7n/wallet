@@ -1,1 +1,1 @@
-var mnemonic = "cliff shoot horse clump neck nest bacon exotic believe timber year jump";
+var mnemonic = "erode link recipe either eternal caution jungle trust cigar main fix city";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic glow school park merge march spray own staff october tourist cruise";
+var mnemonic = "finger avoid cool bring powder pear ozone hole shop nose defense crack";

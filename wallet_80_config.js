@@ -1,1 +1,1 @@
-var mnemonic = "roast black select kangaroo better among jealous family similar pole old search";
+var mnemonic = "video gossip poem humor giant chase diary funny ozone salute belt sure";

@@ -1,1 +1,1 @@
-var mnemonic = "girl gravity traffic consider drive holiday uniform kiwi arrest lemon nut debris";
+var mnemonic = "elder elegant zebra spread van paper zoo sadness make coach myth cave";

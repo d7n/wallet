@@ -1,1 +1,1 @@
-var mnemonic = "balcony rival mind brick shell promote nation usual moral clump tell deputy";
+var mnemonic = "inch climb reveal steel stone rack wing top pizza pulp nasty zero";

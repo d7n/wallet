@@ -1,1 +1,1 @@
-var mnemonic = "upon fame genius conduct short include simple border thing cash else eyebrow";
+var mnemonic = "learn current cash pony original cannon price current south label adjust sick";

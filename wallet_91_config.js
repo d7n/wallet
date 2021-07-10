@@ -1,1 +1,1 @@
-var mnemonic = "clown mixed celery morning chuckle nerve sunny key corn pumpkin genre park";
+var mnemonic = "obtain exhibit heavy view fence poem input couch liar pear unique slogan";

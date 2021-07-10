@@ -1,1 +1,1 @@
-var mnemonic = "track lemon tree journey magic farm junior glide siege other either amused";
+var mnemonic = "move risk patch beyond excite obtain sweet drift ensure under transfer grunt";

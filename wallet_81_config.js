@@ -1,1 +1,1 @@
-var mnemonic = "again world alley august occur hazard ball flat music word bean olive";
+var mnemonic = "tuna betray metal health kitchen level aim exit luggage road earn way";

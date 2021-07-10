@@ -1,1 +1,1 @@
-var mnemonic = "fork auction risk badge sketch duty wise venue rice sand ivory cross";
+var mnemonic = "dune cruel clog income glare clump impulse kitchen wire buffalo bag denial";

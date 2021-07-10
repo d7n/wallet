@@ -1,1 +1,1 @@
-var mnemonic = "jelly canyon play inform drink rotate basket ancient grant vintage multiply vendor";
+var mnemonic = "glow asthma jazz put goose elegant sad fork country hand exclude chair";

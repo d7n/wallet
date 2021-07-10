@@ -1,1 +1,1 @@
-var mnemonic = "lady nation column stairs acoustic diagram laundry lecture inherit east arch ethics";
+var mnemonic = "luggage copper bulb chest hair joy estate chunk goddess sunny order wrong";

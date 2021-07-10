@@ -1,1 +1,1 @@
-var mnemonic = "fire collect alert equal list candy trend burst sell leaf party mail";
+var mnemonic = "table carry ranch essay stable sudden illness plastic kingdom latin wrong question";

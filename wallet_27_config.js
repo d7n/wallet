@@ -1,1 +1,1 @@
-var mnemonic = "bargain address float domain order because pave install pudding sister tornado cradle";
+var mnemonic = "sail great antenna work daughter ketchup steak vessel float addict width insect";

@@ -1,1 +1,1 @@
-var mnemonic = "scene face wage ensure employ detect dentist mean release crane cause chat";
+var mnemonic = "wide muscle lion surface museum tumble practice walk one clown injury distance";

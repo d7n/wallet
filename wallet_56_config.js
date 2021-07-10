@@ -1,1 +1,1 @@
-var mnemonic = "donate scissors nothing walnut agree nature virtual impose once model visit vessel";
+var mnemonic = "jar stick check hold will liar tiny saddle ball code plate scissors";

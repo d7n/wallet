@@ -1,1 +1,1 @@
-var mnemonic = "valve galaxy maid winter amazing summer deny rally brain sponsor cousin post";
+var mnemonic = "minimum level shadow silent youth sunset twelve knock collect federal jazz satoshi";

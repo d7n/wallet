@@ -1,1 +1,1 @@
-var mnemonic = "tree elbow ethics gorilla crew drill phone long brown entire claw decorate";
+var mnemonic = "fix practice push limit vague art truly unaware another tongue resist vapor";

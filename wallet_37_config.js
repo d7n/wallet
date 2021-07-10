@@ -1,1 +1,1 @@
-var mnemonic = "review pink april novel excess degree brush ship brave dawn mention all";
+var mnemonic = "number guess deputy decide issue quick text frost abuse fetch stand rotate";

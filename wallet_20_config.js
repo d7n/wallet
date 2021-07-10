@@ -1,1 +1,1 @@
-var mnemonic = "truth weasel junior tornado bar onion start since rhythm harbor alarm learn";
+var mnemonic = "team oyster basket diesel joy draft bubble tank rate diet retire citizen";

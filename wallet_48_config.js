@@ -1,1 +1,1 @@
-var mnemonic = "retreat trim hungry faith phone roast interest awesome wife frog flush sign";
+var mnemonic = "shoe upgrade artwork ethics brush fatigue future two lock door reason paddle";

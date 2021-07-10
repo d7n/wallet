@@ -1,1 +1,1 @@
-var mnemonic = "property bonus define average reunion traffic blush grab stairs giraffe family scrap";
+var mnemonic = "legal theory join one song hole call vocal door this express trust";

@@ -1,1 +1,1 @@
-var mnemonic = "hill obscure idea dignity width ocean pottery album possible bottom short shove";
+var mnemonic = "busy expose quantum later busy amazing pencil argue arrest toe auto harvest";

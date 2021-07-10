@@ -1,1 +1,1 @@
-var mnemonic = "license miss shallow sunny opera transfer robust quiz stem lab lab win";
+var mnemonic = "search sight birth keen sun ticket focus jungle bacon boss frost alone";

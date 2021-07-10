@@ -1,1 +1,1 @@
-var mnemonic = "enforce oppose trip cable ostrich sword urge tackle volume hard asthma office";
+var mnemonic = "mention ketchup require wealth ecology diamond news group naive doll antenna fit";

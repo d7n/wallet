@@ -1,1 +1,1 @@
-var mnemonic = "result ripple glue reflect chicken lend city burden skin legend case sense";
+var mnemonic = "scout train foam tuition fitness purse fossil pepper beyond million estate guide";

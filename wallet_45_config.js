@@ -1,1 +1,1 @@
-var mnemonic = "fluid december artist skull number that cube render item radar doctor crater";
+var mnemonic = "job profit ozone famous rural buyer useless era toss casino cattle silly";

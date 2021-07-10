@@ -1,1 +1,1 @@
-var mnemonic = "gorilla amazing aware identify neutral warrior vital patch frequent evidence memory capable";
+var mnemonic = "glare head mother bird genuine dentist extend cheese sail type supreme tent";

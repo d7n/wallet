@@ -1,1 +1,1 @@
-var mnemonic = "firm pottery brick chunk expose mansion verify involve victory grace casino clerk";
+var mnemonic = "column tortoise tray breeze release shield claw angle planet lyrics trim hurry";

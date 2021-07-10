@@ -1,1 +1,1 @@
-var mnemonic = "cabbage include trend light zero mutual dilemma ecology vessel combine inner fence";
+var mnemonic = "bid march liar still upgrade fringe deposit meadow liar ski put either";

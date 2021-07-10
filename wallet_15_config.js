@@ -1,1 +1,1 @@
-var mnemonic = "refuse loop vacuum tower frequent sell cash truth grace wire section game";
+var mnemonic = "begin hidden slab another reason lady protect guitar cupboard damp rural casual";

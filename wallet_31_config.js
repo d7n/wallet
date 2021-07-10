@@ -1,1 +1,1 @@
-var mnemonic = "donor awake still gift latin habit urban urge grace prosper focus electric";
+var mnemonic = "shallow prepare reveal mushroom argue exhibit render avocado cruel sort blanket cupboard";

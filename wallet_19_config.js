@@ -1,1 +1,1 @@
-var mnemonic = "like stereo clog betray pledge hurdle attend myself liberty face already since";
+var mnemonic = "job pelican chief day case mind auction define inhale century again interest";

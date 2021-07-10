@@ -1,1 +1,1 @@
-var mnemonic = "avocado design hole primary rapid matter cruise rely put few tonight trial";
+var mnemonic = "oven enjoy arm midnight debate slide tape mystery price hill prepare priority";

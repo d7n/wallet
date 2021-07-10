@@ -1,1 +1,1 @@
-var mnemonic = "satisfy color often short ivory mechanic output stomach pear canoe erosion display";
+var mnemonic = "helmet sun grain lounge million pudding earn crime impose swim ask rotate";

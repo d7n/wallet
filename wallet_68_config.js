@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hint fitness fiscal tower tape warrior true climb erupt cup page";
+var mnemonic = "chair swamp quantum light glue people damage surprise grid remind curtain flavor";

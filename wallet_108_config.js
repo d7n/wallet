@@ -1,1 +1,1 @@
-var mnemonic = "caught lady badge series initial awesome enter humble pull grain bring hen";
+var mnemonic = "sudden admit hen multiply whip sphere finish faculty grab only rug twenty";

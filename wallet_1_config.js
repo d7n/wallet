@@ -1,1 +1,1 @@
-var mnemonic = "rabbit fatigue limb view parrot trim era kite accuse giggle belt matrix";
+var mnemonic = "sample vanish choose auction problem feel chief daughter spy arm someone magnet";

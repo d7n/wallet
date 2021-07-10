@@ -1,1 +1,1 @@
-var mnemonic = "jar match garbage thank gauge tumble desk cereal poem dog toy owner";
+var mnemonic = "own lazy other essay radar execute web fat ignore ship coil charge";

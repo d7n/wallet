@@ -1,1 +1,1 @@
-var mnemonic = "window unveil slender napkin load cinnamon market walnut trigger boost captain salad";
+var mnemonic = "canvas invite match bronze remember garage setup absurd photo find marriage interest";

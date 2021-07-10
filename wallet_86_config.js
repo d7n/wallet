@@ -1,1 +1,1 @@
-var mnemonic = "logic quiz vault deer spring raven can nation piece metal milk lounge";
+var mnemonic = "focus dumb champion exchange arrange sort labor solve blue rabbit list cross";

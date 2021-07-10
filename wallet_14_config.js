@@ -1,1 +1,1 @@
-var mnemonic = "brush unhappy install whale segment kitchen level ignore ethics clever crush knock";
+var mnemonic = "banner reform history tag output wrestle airport broccoli muscle unique fabric split";

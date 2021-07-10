@@ -1,1 +1,1 @@
-var mnemonic = "learn when bridge grit style wealth know bounce dice donor flight wink";
+var mnemonic = "thunder aisle radar dirt language cash water rib tilt raven upon put";

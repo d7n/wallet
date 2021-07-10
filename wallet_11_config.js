@@ -1,1 +1,1 @@
-var mnemonic = "physical party omit one mention lamp sheriff letter flag nature calm cloud";
+var mnemonic = "when affair broken lift best energy document collect beach kit orange song";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom virus cabbage image object embody uncover razor robust pool music consider";
+var mnemonic = "infant carpet gather social grab kiwi dress success stomach earth steak mean";

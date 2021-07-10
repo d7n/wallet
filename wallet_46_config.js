@@ -1,1 +1,1 @@
-var mnemonic = "clump monitor open concert tiger syrup much firm mercy army medal silk";
+var mnemonic = "wet sing odor mass tortoise lake maple appear chapter violin punch predict";

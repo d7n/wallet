@@ -1,1 +1,1 @@
-var mnemonic = "gesture soft tiger island tent practice nasty say raw artwork artefact better";
+var mnemonic = "two six culture sorry select student swear puppy ostrich upset beef apple";

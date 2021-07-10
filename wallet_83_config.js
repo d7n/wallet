@@ -1,1 +1,1 @@
-var mnemonic = "much wonder wheel label idle distance check lounge hen brown lyrics salad";
+var mnemonic = "teach example traffic faint cheap devote laundry mirror knife exchange neck special";

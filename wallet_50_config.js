@@ -1,1 +1,1 @@
-var mnemonic = "emotion collect garage wild volume rifle about open twice ticket dream feature";
+var mnemonic = "draft palm begin donkey point honey option dance coast iron letter eyebrow";

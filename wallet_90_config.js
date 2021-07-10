@@ -1,1 +1,1 @@
-var mnemonic = "rare inject drill spawn melt kidney skate acoustic inhale panel actress glow";
+var mnemonic = "vapor amazing ripple grace opinion salt tree horse sketch vapor misery under";

@@ -1,1 +1,1 @@
-var mnemonic = "around link absorb replace this ski draft march aisle onion warfare hint";
+var mnemonic = "giant radio leisure robot dove doctor stick decline stay south toddler afraid";

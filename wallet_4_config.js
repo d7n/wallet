@@ -1,1 +1,1 @@
-var mnemonic = "shrug differ poverty unable alert wrist detail cream human innocent abuse black";
+var mnemonic = "ribbon drastic scissors garden drip antenna thunder amount enrich shuffle reduce property";

@@ -1,1 +1,1 @@
-var mnemonic = "sight economy mosquito twenty account never margin unveil reform biology mistake dinner";
+var mnemonic = "random language extra amateur end broccoli patch police leopard ethics skull forget";

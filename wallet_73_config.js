@@ -1,1 +1,1 @@
-var mnemonic = "rebel marine cream armor scrub level melt wet salute shine tree raccoon";
+var mnemonic = "cram cram dress drama benefit addict wish run like table phrase motor";

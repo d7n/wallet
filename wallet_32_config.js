@@ -1,1 +1,1 @@
-var mnemonic = "crisp design castle old bright blue check chalk tattoo recipe uncover water";
+var mnemonic = "tobacco twenty breeze notable cement boost goddess gallery mix romance test dash";

@@ -1,1 +1,1 @@
-var mnemonic = "boss clinic gospel profit club reopen dutch enemy machine employ search degree";
+var mnemonic = "punch goose round donkey call bamboo update skirt smooth power engine avocado";

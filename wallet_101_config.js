@@ -1,1 +1,1 @@
-var mnemonic = "blade spy olympic box upgrade air volcano matter favorite patrol victory expose";
+var mnemonic = "leaf bright text shed camera combine cool december castle bonus priority inside";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous method december poet air exhaust blind gentle avocado mystery element dance";
+var mnemonic = "clap habit height crucial hello multiply traffic again next polar join daughter";

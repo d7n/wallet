@@ -1,1 +1,1 @@
-var mnemonic = "primary reveal velvet guilt armor gossip member human consider elder moon noise";
+var mnemonic = "start list holiday warrior matter involve term book caught wonder plug state";

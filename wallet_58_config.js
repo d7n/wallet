@@ -1,1 +1,1 @@
-var mnemonic = "paper absurd artefact pause agent smile crack check bless cactus inject half";
+var mnemonic = "magnet toilet robot music night chest logic unlock tag master refuse slogan";

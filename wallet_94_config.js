@@ -1,1 +1,1 @@
-var mnemonic = "shed cactus buffalo decide food elevator shrug range spike iron hand embody";
+var mnemonic = "swarm visit unlock library float van beef erode stadium author later usage";

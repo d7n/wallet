@@ -1,1 +1,1 @@
-var mnemonic = "hint sketch cable across liquid foot discover motor fuel achieve learn maze";
+var mnemonic = "amazing piece shiver pride opera crime fragile abuse cave stage learn certain";

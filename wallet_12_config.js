@@ -1,1 +1,1 @@
-var mnemonic = "lemon select response bone drop spin army open tunnel six future genuine";
+var mnemonic = "eye grass buddy risk shine acid plate fix muscle size picnic ignore";

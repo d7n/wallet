@@ -1,1 +1,1 @@
-var mnemonic = "trip worth online lady twelve only spare tomato vintage game shell quality";
+var mnemonic = "flee sleep debris diamond raise document fold remember spice romance warm eyebrow";

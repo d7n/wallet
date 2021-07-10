@@ -1,1 +1,1 @@
-var mnemonic = "rocket toy labor broom swift wing aisle dirt hello mesh crew tongue";
+var mnemonic = "turkey battle leopard furnace deny praise sail bright invest art earn minute";

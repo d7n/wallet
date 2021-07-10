@@ -1,1 +1,1 @@
-var mnemonic = "pass curious science glue canoe obey real life summer traffic load easy";
+var mnemonic = "vintage arena fly stove captain local hen order jungle able turkey shrug";

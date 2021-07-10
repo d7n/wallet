@@ -1,1 +1,1 @@
-var mnemonic = "drift bullet dinosaur butter treat coin concert cupboard child draw traffic pet";
+var mnemonic = "error few tumble alter clever protect tourist design post wonder panic diamond";

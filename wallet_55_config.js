@@ -1,1 +1,1 @@
-var mnemonic = "husband debate bubble dove sausage twist barely gossip people hawk donor neutral";
+var mnemonic = "gun pitch together reward tongue suit carry rifle rack electric drum deposit";

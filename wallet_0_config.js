@@ -1,1 +1,1 @@
-var mnemonic = "media tool purity decorate web leaf dash license when surge festival february";
+var mnemonic = "fine slow antique symptom child front cage forward spot winter hover infant";

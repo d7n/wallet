@@ -1,1 +1,1 @@
-var mnemonic = "kite blood sad vote blood impose adult allow run style harvest file";
+var mnemonic = "armor nest pretty unlock screen you hockey annual angry pig top dizzy";

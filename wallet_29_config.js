@@ -1,1 +1,1 @@
-var mnemonic = "text tennis they current shuffle wasp match long sing love mechanic blossom";
+var mnemonic = "universe spring repair pitch blush shop pretty siren depend best tragic cause";

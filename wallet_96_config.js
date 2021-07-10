@@ -1,1 +1,1 @@
-var mnemonic = "same unique swarm supply point crumble error pretty chicken october core bitter";
+var mnemonic = "clean twin hazard piece trim lift rude vibrant appear debris smart wrong";
