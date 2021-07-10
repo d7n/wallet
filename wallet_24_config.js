@@ -1,1 +1,1 @@
-var mnemonic = "valve unlock vivid mother first citizen kidney security must seven dance enroll";
+var mnemonic = "crime enough stem wrap drive kick raise gas trophy spare leopard family";

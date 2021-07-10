@@ -1,1 +1,1 @@
-var mnemonic = "arrow online amateur assist prefer magic match carpet never rare junior certain";
+var mnemonic = "fence access distance also winner pause silver measure embark nest pizza blue";

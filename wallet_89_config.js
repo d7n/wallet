@@ -1,1 +1,1 @@
-var mnemonic = "crush young warrior health inform arch salute change alert balance crime flash";
+var mnemonic = "proud chalk timber october once peace school lens brick address dynamic remove";

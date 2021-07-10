@@ -1,1 +1,1 @@
-var mnemonic = "border industry champion frost faint wasp search crawl mixed aware transfer quote";
+var mnemonic = "walk mask dolphin barely forest trade symbol buyer gauge situate clown card";

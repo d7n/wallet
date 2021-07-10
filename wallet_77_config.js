@@ -1,1 +1,1 @@
-var mnemonic = "jazz more grass pulp artwork chaos diary tuition enroll casino cruise hero";
+var mnemonic = "toy voyage rice faith clerk lunar crew drill million plunge between people";

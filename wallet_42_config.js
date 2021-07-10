@@ -1,1 +1,1 @@
-var mnemonic = "deliver wolf next nasty human spend sing banner marine fine wild famous";
+var mnemonic = "know grass snap bird capable also expose return pony couch slot follow";

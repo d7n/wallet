@@ -1,1 +1,1 @@
-var mnemonic = "call keen depend ozone true divert artist alcohol reject cube real humor";
+var mnemonic = "tube run average relax stadium purpose soccer snake adapt hamster orbit mansion";

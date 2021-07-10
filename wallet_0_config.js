@@ -1,1 +1,1 @@
-var mnemonic = "buzz hen fever uncle casual sweet yellow leisure basket idle bean round";
+var mnemonic = "foam bus life chunk yard process rather earn cattle whisper balcony monkey";

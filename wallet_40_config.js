@@ -1,1 +1,1 @@
-var mnemonic = "movie enforce slab drop crumble gentle cloth buyer spot bright like almost";
+var mnemonic = "north purse amazing still sheriff city uniform bounce student theory various spice";

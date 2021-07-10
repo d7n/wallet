@@ -1,1 +1,1 @@
-var mnemonic = "canvas coin harbor response coral arena use hotel parade walnut shift journey";
+var mnemonic = "light bottom sadness mad cabbage easy time fire sustain either knock verb";

@@ -1,1 +1,1 @@
-var mnemonic = "loop mean install cluster assume collect wreck age apple hybrid badge permit";
+var mnemonic = "announce current ceiling brave more round weapon slow rich shadow broken mammal";

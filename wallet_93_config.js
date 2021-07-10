@@ -1,1 +1,1 @@
-var mnemonic = "empower wear school enjoy boy swamp this gesture equal boost spot seek";
+var mnemonic = "recipe vapor primary bottom orchard thumb snow version truck summer dismiss city";

@@ -1,1 +1,1 @@
-var mnemonic = "wear path page twenty scare van index eight cricket dune own believe";
+var mnemonic = "birth gas hello sense race process scare lamp bulk number blue sign";

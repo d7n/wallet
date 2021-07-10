@@ -1,1 +1,1 @@
-var mnemonic = "employ hard cousin train drama valve soul marble elephant great during setup";
+var mnemonic = "lion noble move pottery photo confirm congress paddle hub frog display loud";

@@ -1,1 +1,1 @@
-var mnemonic = "tired merry trip other ignore lesson suspect grow ride exact cannon load";
+var mnemonic = "success apology strike insane talent demand salt snow maid faculty hobby ticket";

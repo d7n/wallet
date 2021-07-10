@@ -1,1 +1,1 @@
-var mnemonic = "exotic young major catalog play worth ready whale fringe grab access push";
+var mnemonic = "fuel horror fly maid bag gas pool metal connect wait tumble fog";

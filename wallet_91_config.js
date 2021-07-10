@@ -1,1 +1,1 @@
-var mnemonic = "stool pelican bright shallow grit latin exile museum jacket sheriff crime fold";
+var mnemonic = "little plastic broccoli street unusual modify audit put yard wage because measure";

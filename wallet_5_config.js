@@ -1,1 +1,1 @@
-var mnemonic = "identify island ice entire rebuild tongue pill error village banana party unfold";
+var mnemonic = "gospel jungle lunar toss enter crucial advice cat stamp suspect exclude utility";

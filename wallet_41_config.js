@@ -1,1 +1,1 @@
-var mnemonic = "foster page artwork angle stick enforce giraffe leave hello rookie split topic";
+var mnemonic = "crash pluck brand denial major tip kid ski flavor agent coyote switch";

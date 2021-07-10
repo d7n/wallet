@@ -1,1 +1,1 @@
-var mnemonic = "only pull tooth share uncover erupt tumble tunnel glory pole anger file";
+var mnemonic = "wood leisure nuclear cliff area shoe connect neglect exit pool taste army";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital throw resist isolate window eager diesel extend pause lamp upgrade ready";
+var mnemonic = "worth pen fluid hat length essence culture right beef radio reveal peanut";

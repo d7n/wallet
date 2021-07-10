@@ -1,1 +1,1 @@
-var mnemonic = "laptop level veteran arena mixed economy gather dust lawn bunker erosion bundle";
+var mnemonic = "later general shield prosper glove around language chunk unique three reward attend";

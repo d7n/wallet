@@ -1,1 +1,1 @@
-var mnemonic = "employ theme concert need brass tourist guitar road shield come appear tomorrow";
+var mnemonic = "amused world throw toss place echo grace truth kiwi advance gun course";

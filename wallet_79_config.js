@@ -1,1 +1,1 @@
-var mnemonic = "quality risk planet wave suggest control stadium similar range convince benefit agree";
+var mnemonic = "hold hello jar beach home argue gun ridge time height have anxiety";

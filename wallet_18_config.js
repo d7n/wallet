@@ -1,1 +1,1 @@
-var mnemonic = "chunk choice actress monkey dizzy code practice kiss plate bar village add";
+var mnemonic = "museum cram float penalty mask garment left during album win marble neutral";

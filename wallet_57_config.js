@@ -1,1 +1,1 @@
-var mnemonic = "palm swamp clinic tunnel reflect veteran balcony body various shoot frame tired";
+var mnemonic = "craft trust step nuclear father tribe diamond artwork excite absent guess flush";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual crowd claim ahead grocery stand hazard destroy grape rule giggle alarm";
+var mnemonic = "orbit slam empower begin stool stem spike cancel harvest hero clock entry";

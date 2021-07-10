@@ -1,1 +1,1 @@
-var mnemonic = "mother genuine law wool return view avocado father original fog shoulder scrub";
+var mnemonic = "yellow snake jump achieve genre draw final neither frozen flat armed alley";

@@ -1,1 +1,1 @@
-var mnemonic = "say nice source bitter choose column belt cream oil between two index";
+var mnemonic = "universe old awkward mammal casual glow pattern story slim holiday dynamic knee";

@@ -1,1 +1,1 @@
-var mnemonic = "melody pool chief math scout bullet never tired diagram royal lift salon";
+var mnemonic = "entry office swear armed owner expand actress left hungry luggage cake path";

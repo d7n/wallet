@@ -1,1 +1,1 @@
-var mnemonic = "uniform normal exchange mail poem spoil sport speed build relief region north";
+var mnemonic = "portion guitar media isolate jungle cricket cargo unfair acquire weapon pudding tired";

@@ -1,1 +1,1 @@
-var mnemonic = "gas parade copper strategy marriage indicate pause moment wedding spread harsh virtual";
+var mnemonic = "aspect neck grant humble hour search object sniff impact diagram pause bamboo";

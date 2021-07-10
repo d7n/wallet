@@ -1,1 +1,1 @@
-var mnemonic = "empower sword winter body cute rule artist winner myth wisdom yellow usage";
+var mnemonic = "vital volume canvas suffer bubble steak divorce road divide wild piano vehicle";

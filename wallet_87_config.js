@@ -1,1 +1,1 @@
-var mnemonic = "kingdom snake session law thumb endless course floor leopard hero minimum cream";
+var mnemonic = "biology sun cross bulb insect glass above praise minor deputy crowd skin";

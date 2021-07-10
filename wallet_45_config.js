@@ -1,1 +1,1 @@
-var mnemonic = "topic morning autumn notable fox buddy burst fish cat connect wheel side";
+var mnemonic = "jewel artist erase blame champion fortune mirror slender wise click decline toddler";

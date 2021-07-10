@@ -1,1 +1,1 @@
-var mnemonic = "cannon arctic sugar another check arrive struggle pepper focus unique mystery dismiss";
+var mnemonic = "legend flat guide helmet trap text certain worry rebuild work slab spirit";

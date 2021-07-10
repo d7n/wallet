@@ -1,1 +1,1 @@
-var mnemonic = "food someone ramp bridge kitchen absent enjoy ethics fresh clip scout kitchen";
+var mnemonic = "must expect ozone case jungle nation delay parent credit spy age indicate";

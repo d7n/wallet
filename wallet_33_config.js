@@ -1,1 +1,1 @@
-var mnemonic = "mule effort nerve gentle bench pencil whisper damp clap slice tree dwarf";
+var mnemonic = "west pool media motion evidence diet client mystery pair crystal chunk push";

@@ -1,1 +1,1 @@
-var mnemonic = "forget solve roof code seminar loud burst hurt west crack fly finish";
+var mnemonic = "coyote lemon escape parrot advance swallow twelve hope grunt blast egg seek";

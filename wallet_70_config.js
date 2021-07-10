@@ -1,1 +1,1 @@
-var mnemonic = "mandate aerobic hole gun plastic way learn lift print poverty grit clip";
+var mnemonic = "country raccoon summer spider entire punch swarm buyer come talent art strong";

@@ -1,1 +1,1 @@
-var mnemonic = "protect beauty hello dirt opinion sock hero afford grid raw chase snake";
+var mnemonic = "snack theory bonus range cage year sign token update kiss capable subway";

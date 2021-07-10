@@ -1,1 +1,1 @@
-var mnemonic = "sketch decrease camp farm turtle yard venue soon fabric method hub calm";
+var mnemonic = "valve violin object opera shine river tobacco penalty opera view coyote light";

@@ -1,1 +1,1 @@
-var mnemonic = "original vendor before nose absorb goose first gravity survey stumble sport vicious";
+var mnemonic = "misery noodle conduct truly balcony addict brain gate apart ritual evolve hub";

@@ -1,1 +1,1 @@
-var mnemonic = "brass boat surface tiger trick jacket lab general adjust border text tiger";
+var mnemonic = "check rose pipe clinic void father bundle damage slide hen stove settle";

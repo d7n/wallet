@@ -1,1 +1,1 @@
-var mnemonic = "grace limit buddy find way know sketch patch canyon record curious sock";
+var mnemonic = "hockey direct guess canvas occur pulp city afford ancient lab enhance divide";

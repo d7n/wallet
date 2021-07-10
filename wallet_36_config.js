@@ -1,1 +1,1 @@
-var mnemonic = "agree reflect indicate double lawsuit brisk agree bottom friend desert jump primary";
+var mnemonic = "unfair bridge brave weather clap stage check input unfair faculty enter pudding";

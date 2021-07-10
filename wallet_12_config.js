@@ -1,1 +1,1 @@
-var mnemonic = "swamp off rubber ivory remain laundry banana fringe spider plug mass finish";
+var mnemonic = "symbol tortoise narrow weasel junior mother market royal reveal pioneer health east";

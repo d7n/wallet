@@ -1,1 +1,1 @@
-var mnemonic = "skirt decline merry tourist pause fence tomorrow video master august market during";
+var mnemonic = "gospel reunion harvest logic canvas coyote loan movie raise surge alien kid";

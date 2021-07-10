@@ -1,1 +1,1 @@
-var mnemonic = "measure strong rain legal stem swallow sort lab index rice marble finish";
+var mnemonic = "tomato actor orange wild lottery provide agent miss danger rich soda unveil";

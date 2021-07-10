@@ -1,1 +1,1 @@
-var mnemonic = "major surround type spatial abuse olympic solution decade develop prefer deal quote";
+var mnemonic = "pen diamond ranch feature business float city warm medal file rule brush";

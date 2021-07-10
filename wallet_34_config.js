@@ -1,1 +1,1 @@
-var mnemonic = "battle neither patrol screen ozone gun destroy gun analyst world jar install";
+var mnemonic = "travel rapid gather first film pupil exile wedding twin cool safe lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket night air guide vacuum choose clutch gallery defense helmet evil sudden";
+var mnemonic = "fee track snap silly elegant tennis kiss art alpha arctic seminar curve";

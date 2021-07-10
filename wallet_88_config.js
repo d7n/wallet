@@ -1,1 +1,1 @@
-var mnemonic = "remember disorder also toe kind letter stomach marriage jewel brown mad spring";
+var mnemonic = "minor happy warm provide train what cruise planet idle decline canal believe";

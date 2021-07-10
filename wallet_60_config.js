@@ -1,1 +1,1 @@
-var mnemonic = "what police profit race pyramid capable kid law cherry butter squeeze angle";
+var mnemonic = "balcony pudding zone soup poem turn vast animal bright hunt doll soon";

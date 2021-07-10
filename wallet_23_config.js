@@ -1,1 +1,1 @@
-var mnemonic = "twin fluid master monitor drip moon much example pigeon suit observe glimpse";
+var mnemonic = "camp now local among noodle economy energy other key fluid slot gas";

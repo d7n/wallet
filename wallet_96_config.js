@@ -1,1 +1,1 @@
-var mnemonic = "legend legal neutral vehicle measure excess total reduce abstract topic cross chief";
+var mnemonic = "lunch rural thumb silk harvest exist horror original lazy rapid biology beach";

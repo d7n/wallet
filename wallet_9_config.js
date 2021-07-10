@@ -1,1 +1,1 @@
-var mnemonic = "immense love shadow seven travel media social asset solution scissors glad cluster";
+var mnemonic = "barrel object fatal nurse story atom account emotion dish skin fragile trust";

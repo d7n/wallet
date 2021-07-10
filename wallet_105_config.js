@@ -1,1 +1,1 @@
-var mnemonic = "brass major oblige cargo angle invite armed pioneer aspect blame pencil order";
+var mnemonic = "skin another nut grace name lake decline diagram patient helmet reunion man";

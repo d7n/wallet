@@ -1,1 +1,1 @@
-var mnemonic = "adult option cheap fat clinic embrace blush alert vacuum early burst doll";
+var mnemonic = "speak identify hover focus purse exclude bench crew board eyebrow text where";

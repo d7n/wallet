@@ -1,1 +1,1 @@
-var mnemonic = "entry radar aspect deny liberty bunker fade card life chunk pair chalk";
+var mnemonic = "blast eyebrow item forward candy sweet riot vast category hand chalk era";

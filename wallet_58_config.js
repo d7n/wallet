@@ -1,1 +1,1 @@
-var mnemonic = "hidden demand addict live ritual invite impose explain baby solar rabbit immune";
+var mnemonic = "swing oxygen crop when pioneer face wonder armed quarter social rice electric";

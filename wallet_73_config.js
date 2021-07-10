@@ -1,1 +1,1 @@
-var mnemonic = "second pioneer need good afraid guide cousin woman thumb frog ritual body";
+var mnemonic = "hard inject scheme rescue sign risk blade asthma bread wisdom meat suffer";

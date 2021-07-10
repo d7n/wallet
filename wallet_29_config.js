@@ -1,1 +1,1 @@
-var mnemonic = "castle little that joke cup science razor catch civil issue rent fix";
+var mnemonic = "razor river again cycle major suit believe paper chaos view trouble vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "exile delay breeze chair rifle produce predict light sorry palace puppy negative";
+var mnemonic = "parrot flush target today fatigue renew regret damp problem sniff avoid spell";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff unknown frown whisper minor custom stable whisper coyote leopard wild marriage";
+var mnemonic = "exercise casino disagree rose smooth deputy satoshi powder sting cruise seek explain";

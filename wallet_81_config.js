@@ -1,1 +1,1 @@
-var mnemonic = "coin acoustic first junk fuel pull sort local soft hour slot web";
+var mnemonic = "crush vault shiver never belt olive portion inch news kidney sample arctic";

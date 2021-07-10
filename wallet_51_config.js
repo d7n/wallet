@@ -1,1 +1,1 @@
-var mnemonic = "barrel ride human fluid address page slush region barely virtual enlist shrimp";
+var mnemonic = "badge drama acid stay eager oval danger tube lady boss transfer sport";

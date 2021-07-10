@@ -1,1 +1,1 @@
-var mnemonic = "sword common wise walnut vast toddler link smoke special rice dice gauge";
+var mnemonic = "bracket buddy train shallow hotel day ridge involve access snake throw busy";

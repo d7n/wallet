@@ -1,1 +1,1 @@
-var mnemonic = "fish lottery general renew brick month culture start monkey gadget fan kit";
+var mnemonic = "crystal offer emerge plate paper immune virtual energy mom deposit off helmet";

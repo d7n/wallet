@@ -1,1 +1,1 @@
-var mnemonic = "distance correct scorpion butter spy sing warm credit save bar puppy kind";
+var mnemonic = "crucial cycle age beyond involve bird refuse mosquito scare solid shrug town";

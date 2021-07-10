@@ -1,1 +1,1 @@
-var mnemonic = "when strong ticket little list basket power attend slim seek tilt daughter";
+var mnemonic = "bargain refuse power hurt engine someone fashion gospel bronze problem estate know";

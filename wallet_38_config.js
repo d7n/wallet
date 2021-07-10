@@ -1,1 +1,1 @@
-var mnemonic = "fiction degree allow female coil praise render timber account super call deer";
+var mnemonic = "govern north jar initial tree fancy effort again garlic cinnamon embrace occur";

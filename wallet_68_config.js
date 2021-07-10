@@ -1,1 +1,1 @@
-var mnemonic = "income autumn sting before kiwi pave subway witness floor local face elephant";
+var mnemonic = "say diary drum tip lucky option bracket snake tomato electric appear fee";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer media science copper hunt fit weird become pepper special inquiry canoe";
+var mnemonic = "sight chimney equip tribe wasp keen develop talent arm surge blur congress";

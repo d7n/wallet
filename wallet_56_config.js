@@ -1,1 +1,1 @@
-var mnemonic = "desert column quick cotton bomb pony hen goddess basket cycle beef vague";
+var mnemonic = "neither grass defy orphan dial unveil icon giant emerge palace reduce mango";

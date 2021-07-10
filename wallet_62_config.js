@@ -1,1 +1,1 @@
-var mnemonic = "keep win turtle predict host vibrant jelly warfare travel merge urban busy";
+var mnemonic = "state fluid spice blanket elephant educate become coconut drop favorite enlist dream";

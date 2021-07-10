@@ -1,1 +1,1 @@
-var mnemonic = "water provide prefer negative team divorce cereal test frame wealth casual float";
+var mnemonic = "resist company ten waste exact hint foster dizzy sadness flee trophy ritual";

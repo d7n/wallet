@@ -1,1 +1,1 @@
-var mnemonic = "expect skate dynamic enemy brand require grief lucky proof whale purpose replace";
+var mnemonic = "tide flash multiply congress popular spare win knife bracket volume state erosion";

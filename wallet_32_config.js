@@ -1,1 +1,1 @@
-var mnemonic = "travel mushroom foam affair spin stumble group shoulder gate parent faith salad";
+var mnemonic = "bomb south divert when sibling pave under funny pole trim cross scrap";

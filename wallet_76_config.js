@@ -1,1 +1,1 @@
-var mnemonic = "timber neutral dog gossip slight limit deal brisk element pottery person lion";
+var mnemonic = "pause stock trumpet canyon parrot genuine whisper large daring minor siege auto";

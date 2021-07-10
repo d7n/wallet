@@ -1,1 +1,1 @@
-var mnemonic = "diet desert audit fat idle option mountain air notable blade clown veteran";
+var mnemonic = "auto monkey edit rely host antique bring lamp pear desert clinic gospel";

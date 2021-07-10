@@ -1,1 +1,1 @@
-var mnemonic = "only crop urge bargain smooth warm balcony control betray happy nuclear potato";
+var mnemonic = "turtle mule game thing tired pelican dice vocal tobacco addict proof shuffle";

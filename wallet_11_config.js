@@ -1,1 +1,1 @@
-var mnemonic = "destroy digital nephew panther lava total job spot fish soda version eight";
+var mnemonic = "brisk tonight stool ladder hedgehog rapid solid aspect chimney head right october";

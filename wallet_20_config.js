@@ -1,1 +1,1 @@
-var mnemonic = "quick cage popular radar seed pet tackle draft rabbit august cake clarify";
+var mnemonic = "fever enforce trumpet stem bean sand brave style bench excite elite card";

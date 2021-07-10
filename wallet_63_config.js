@@ -1,1 +1,1 @@
-var mnemonic = "fork monster way beef leave figure please drum already uphold buddy trial";
+var mnemonic = "method hollow alley february month cancel mammal mountain setup usage market velvet";

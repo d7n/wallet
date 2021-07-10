@@ -1,1 +1,1 @@
-var mnemonic = "copper enhance ball pony habit alarm avocado leave pretty tent grain electric";
+var mnemonic = "laugh crystal dog cliff grow twin valve climb flavor scatter mean awful";

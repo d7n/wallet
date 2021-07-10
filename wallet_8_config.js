@@ -1,1 +1,1 @@
-var mnemonic = "clarify auction omit match mimic finish draft brief episode wrap must fun";
+var mnemonic = "hundred vast hood coffee pause series board silent venue goose shadow fitness";

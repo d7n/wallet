@@ -1,1 +1,1 @@
-var mnemonic = "firm give source bag rate thought ball asthma bulb apple region absurd";
+var mnemonic = "fix december rescue coast actual better demise sister people arch reopen resemble";

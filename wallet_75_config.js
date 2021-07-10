@@ -1,1 +1,1 @@
-var mnemonic = "finish just fruit educate timber dry aunt grow rural taste space edge";
+var mnemonic = "choice major excess bronze vicious ski discover urban hotel evil napkin onion";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt cup cinnamon solve cream sight street bitter frost pledge arrange thank";
+var mnemonic = "toast vivid gesture beach february fortune end jeans fence ginger scrub trick";

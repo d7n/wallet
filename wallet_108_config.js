@@ -1,1 +1,1 @@
-var mnemonic = "grace pulse what wall post rather ecology brisk visa into glimpse write";
+var mnemonic = "secret together slam fence short rescue dolphin elephant blanket stereo valid fire";

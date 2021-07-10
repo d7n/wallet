@@ -1,1 +1,1 @@
-var mnemonic = "drastic chair season rough moment foster hunt crash home flush under learn";
+var mnemonic = "emerge saddle urge ivory awful human airport border cushion best favorite dumb";

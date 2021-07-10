@@ -1,1 +1,1 @@
-var mnemonic = "meat worry taste kit already vintage bounce sustain add crack sign survey";
+var mnemonic = "dial enjoy ask potato mix wet label advice water spin seat flip";

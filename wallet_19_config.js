@@ -1,1 +1,1 @@
-var mnemonic = "luggage display agent goat erode climb box open honey scatter yellow dance";
+var mnemonic = "capital host moment abstract keep behind primary smoke morning canal upon beef";

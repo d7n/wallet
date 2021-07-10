@@ -1,1 +1,1 @@
-var mnemonic = "park muscle glory anger fix uncover blood digital juice expose exile skull";
+var mnemonic = "worry girl crystal case outdoor diamond capital plug regret guess donkey tunnel";

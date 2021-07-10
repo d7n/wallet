@@ -1,1 +1,1 @@
-var mnemonic = "drip belt layer hurdle ask resource worry clarify flag relief shaft mutual";
+var mnemonic = "monitor photo clerk any news fish divorce seek caution foil stumble organ";

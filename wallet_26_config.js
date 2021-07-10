@@ -1,1 +1,1 @@
-var mnemonic = "system nuclear dutch resemble kangaroo onion issue deny awesome assume six envelope";
+var mnemonic = "surface believe exhaust magic never inner erosion innocent noodle marine inform wrap";

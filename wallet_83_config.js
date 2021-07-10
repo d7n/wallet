@@ -1,1 +1,1 @@
-var mnemonic = "trumpet elbow ivory hunt ensure economy undo nice praise hunt nominee tone";
+var mnemonic = "broom front slim win visit come drama glue trade culture federal toddler";

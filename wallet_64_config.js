@@ -1,1 +1,1 @@
-var mnemonic = "example life want turn canoe turkey morning curve dance embody obtain enemy";
+var mnemonic = "idle cost disorder female away approve journey genuine unveil assault blade spider";

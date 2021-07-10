@@ -1,1 +1,1 @@
-var mnemonic = "crack author ethics note story girl canvas wood govern hobby pelican mesh";
+var mnemonic = "entry stomach reveal stool nasty tourist dragon sample much estate whale bottom";
