@@ -1,1 +1,1 @@
-var mnemonic = "devote kidney gaze bread sustain embody eight assist obey priority win find";
+var mnemonic = "suffer keen village raise cool tourist flush pair foam recycle hair creek";

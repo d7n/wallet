@@ -1,1 +1,1 @@
-var mnemonic = "cotton bench misery viable chief wood stool maple flip odor adapt rotate";
+var mnemonic = "test artist little awesome vessel bottom uniform penalty episode frequent sauce tissue";

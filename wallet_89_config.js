@@ -1,1 +1,1 @@
-var mnemonic = "crash pioneer benefit seat hedgehog page olympic industry punch solar resemble pizza";
+var mnemonic = "you code notable session soccer estate october fine town monkey use trade";

@@ -1,1 +1,1 @@
-var mnemonic = "city energy check turn mad banana region dice license reduce federal cube";
+var mnemonic = "purpose bracket leaf latin install comfort razor team blouse clock require erupt";

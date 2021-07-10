@@ -1,1 +1,1 @@
-var mnemonic = "bind panic genuine enroll left place rural stick teach muscle leopard exercise";
+var mnemonic = "clerk digital extend quarter enemy message isolate avocado engage huge ostrich tent";

@@ -1,1 +1,1 @@
-var mnemonic = "item olympic solar strike fabric ensure plunge road curtain human else giant";
+var mnemonic = "left scrap frog usual design because surge candy album immense copy tide";

@@ -1,1 +1,1 @@
-var mnemonic = "surround talent charge sugar lesson typical caught chair usual high please olympic";
+var mnemonic = "ethics tiger clinic armor finger upper scorpion elevator horror knee damp trash";

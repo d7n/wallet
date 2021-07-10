@@ -1,1 +1,1 @@
-var mnemonic = "abuse person useless decline album pair gauge mosquito fox pepper nasty visit";
+var mnemonic = "cruel orange margin ugly comfort flower modify flavor plastic state fury detail";

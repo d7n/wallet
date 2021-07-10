@@ -1,1 +1,1 @@
-var mnemonic = "provide equal sunset gallery duck sort miss source swarm feature stem check";
+var mnemonic = "relax reopen large cute direct amateur use shoot valid goddess gold clump";

@@ -1,1 +1,1 @@
-var mnemonic = "shell team olympic wheat sentence reveal aisle popular zone enable sunset fame";
+var mnemonic = "half category journey power luxury adapt access steel science slow scout school";

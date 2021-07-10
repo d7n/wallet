@@ -1,1 +1,1 @@
-var mnemonic = "marble palm indicate angle cram sentence loan spin mad chair sugar museum";
+var mnemonic = "path grab foil flush cinnamon cactus enroll cause salon hidden agree manual";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket drastic sense exclude marble fix wild discover stadium tourist climb beach";
+var mnemonic = "film exchange pact unknown merry spell cloud cage brother change shoot chief";

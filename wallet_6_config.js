@@ -1,1 +1,1 @@
-var mnemonic = "column poet entry expand disease place pioneer double scheme suspect parrot sister";
+var mnemonic = "helmet swing tonight recall blanket afraid assume swap echo arrive moment knife";

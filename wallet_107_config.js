@@ -1,1 +1,1 @@
-var mnemonic = "escape miss balance room that situate guilt mind cushion injury runway final";
+var mnemonic = "badge easily fog chicken sea enforce bonus much black person stereo bacon";

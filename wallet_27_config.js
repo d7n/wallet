@@ -1,1 +1,1 @@
-var mnemonic = "then badge option effort captain clean awesome error access bargain rude hazard";
+var mnemonic = "evidence shift decide noble neck basic sponsor review kiss bird detect hill";

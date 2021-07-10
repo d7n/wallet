@@ -1,1 +1,1 @@
-var mnemonic = "gravity arrow accident news enjoy view rack setup era peasant exchange aisle";
+var mnemonic = "wasp between erode wrist trim puzzle give oven shallow photo rug wash";

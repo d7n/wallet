@@ -1,1 +1,1 @@
-var mnemonic = "diamond put clutch blade mention bounce upgrade crawl antenna faculty phrase orchard";
+var mnemonic = "shiver tenant small physical logic vibrant summer tape speak spatial wild social";

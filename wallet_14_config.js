@@ -1,1 +1,1 @@
-var mnemonic = "guess bulk gather giant crystal sunset mushroom tape butter clinic field uncover";
+var mnemonic = "fork fold pioneer doctor giant manual island race people couple ocean magnet";

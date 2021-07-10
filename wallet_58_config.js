@@ -1,1 +1,1 @@
-var mnemonic = "multiply march smoke check right rhythm betray banana siren surround top gown";
+var mnemonic = "spot blossom file drama magnet stock gospel rather object error such tooth";

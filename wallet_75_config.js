@@ -1,1 +1,1 @@
-var mnemonic = "fan sketch digital under connect people symbol trash settle parade beauty scissors";
+var mnemonic = "glide dragon very question number differ expose noise snack occur swamp rebel";

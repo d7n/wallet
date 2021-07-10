@@ -1,1 +1,1 @@
-var mnemonic = "snap all celery soda divorce future soccer predict soup fury fruit pond";
+var mnemonic = "gesture subject income injury kick margin crowd crunch marble betray envelope mistake";

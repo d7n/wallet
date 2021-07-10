@@ -1,1 +1,1 @@
-var mnemonic = "captain grow picture cruise trumpet concert float uniform hand upper say sort";
+var mnemonic = "ethics nose vivid hint auto nominee public hip rebel pipe coral fiction";

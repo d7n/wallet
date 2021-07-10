@@ -1,1 +1,1 @@
-var mnemonic = "crush symptom era sound ridge smart like casino tail coach future demise";
+var mnemonic = "people payment camp basic empower decrease carry poverty shoe awesome thank inflict";

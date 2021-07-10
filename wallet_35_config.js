@@ -1,1 +1,1 @@
-var mnemonic = "concert grain inch vicious nest heavy explain danger imitate march stick slush";
+var mnemonic = "clinic lizard mail chuckle mention route garden girl notice comic suit rude";

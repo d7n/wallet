@@ -1,1 +1,1 @@
-var mnemonic = "grief ask water impulse dash pitch struggle absent citizen seminar fetch gold";
+var mnemonic = "urge rent dolphin popular tent inspire notable office grace sheriff mimic razor";

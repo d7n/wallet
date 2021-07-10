@@ -1,1 +1,1 @@
-var mnemonic = "require again detail echo leader laptop polar discover heavy busy use shallow";
+var mnemonic = "catalog delay virtual bench input pink together coach person spoil essay crush";

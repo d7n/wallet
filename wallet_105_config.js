@@ -1,1 +1,1 @@
-var mnemonic = "people steak attract blush orient wink kitchen ride animal yellow method limb";
+var mnemonic = "mind match damp side fan resist tail already chef innocent guilt civil";

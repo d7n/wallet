@@ -1,1 +1,1 @@
-var mnemonic = "behave sketch fever always road mystery base embrace shiver armor car utility";
+var mnemonic = "talk test pupil initial blind course carry stay exile donor saddle lawn";

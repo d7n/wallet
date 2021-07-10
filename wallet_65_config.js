@@ -1,1 +1,1 @@
-var mnemonic = "ask genuine film math another copper valve sock artwork plastic dad winter";
+var mnemonic = "van margin arrive exile ketchup shuffle faint dream hill slot body journey";

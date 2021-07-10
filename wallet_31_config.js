@@ -1,1 +1,1 @@
-var mnemonic = "basket seminar change anchor embrace afford borrow elbow narrow feel pudding talent";
+var mnemonic = "million steel economy clinic neither mention accuse umbrella bleak roast sample ski";

@@ -1,1 +1,1 @@
-var mnemonic = "element guard duck error column boring wreck they render melody belt bicycle";
+var mnemonic = "normal custom toddler seed sell fit then goat option glass now benefit";

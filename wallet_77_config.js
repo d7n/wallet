@@ -1,1 +1,1 @@
-var mnemonic = "dance pepper negative option random student magnet awesome provide stuff aware beach";
+var mnemonic = "deliver rural misery exact purity project win cool fetch exile chaos repair";

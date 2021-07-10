@@ -1,1 +1,1 @@
-var mnemonic = "claw coral track betray depend fiber hospital write march dog aspect library";
+var mnemonic = "reform random almost lounge imitate night laugh wash night sample render true";

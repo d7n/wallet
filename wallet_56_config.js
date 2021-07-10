@@ -1,1 +1,1 @@
-var mnemonic = "select physical fish make tank amazing hill because scale raise idle achieve";
+var mnemonic = "tree excite brass normal hidden luxury notice lonely arrange alcohol ride enlist";

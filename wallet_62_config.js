@@ -1,1 +1,1 @@
-var mnemonic = "spike dutch enter brand lunch move you try escape neck foster merge";
+var mnemonic = "swallow blouse nerve pistol object donkey involve purpose cricket uniform soccer slow";

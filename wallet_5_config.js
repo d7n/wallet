@@ -1,1 +1,1 @@
-var mnemonic = "obtain present pizza hurt fan stumble illness trend invest same floor ahead";
+var mnemonic = "wise virus peace alone stove thrive dune load banner cactus obvious series";

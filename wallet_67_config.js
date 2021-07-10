@@ -1,1 +1,1 @@
-var mnemonic = "few enforce blame addict quick disorder follow satoshi they document danger pencil";
+var mnemonic = "region tumble rotate banana speak define slim cable position poverty weekend laptop";

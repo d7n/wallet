@@ -1,1 +1,1 @@
-var mnemonic = "steel name area ride unlock retire puppy muscle foil elder bone day";
+var mnemonic = "gloom dash fine lumber mixture stereo salmon zoo second dust simple immense";

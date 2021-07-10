@@ -1,1 +1,1 @@
-var mnemonic = "crowd sunset bounce wife problem abstract reform flee govern eager dignity usage";
+var mnemonic = "shadow bamboo ride fossil bulk dance arena history father slim vessel diagram";

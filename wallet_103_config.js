@@ -1,1 +1,1 @@
-var mnemonic = "destroy venue level lunar engage waste green setup birth toast only invest";
+var mnemonic = "history shadow pink buzz delay oil despair hawk multiply plate upset great";

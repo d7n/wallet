@@ -1,1 +1,1 @@
-var mnemonic = "scrap purpose half survey alien february spoon alpha stamp neck volcano result";
+var mnemonic = "bubble try frozen trigger theme end mountain oak ring rebuild corn easy";

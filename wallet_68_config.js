@@ -1,1 +1,1 @@
-var mnemonic = "rubber purchase club search service ignore decorate ready second exist gospel surround";
+var mnemonic = "helmet cabbage husband help hobby wife wide kid must peace always leader";

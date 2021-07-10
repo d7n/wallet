@@ -1,1 +1,1 @@
-var mnemonic = "juice during stage announce pilot amateur bar panda obtain equal edge mouse";
+var mnemonic = "jazz napkin team detect evolve bicycle narrow genius toss notice crime hotel";

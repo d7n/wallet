@@ -1,1 +1,1 @@
-var mnemonic = "twist toss tenant regret other royal ring return bonus digital tenant knee";
+var mnemonic = "copper sponsor dilemma common crew apple aim patrol satoshi attitude omit change";

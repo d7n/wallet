@@ -1,1 +1,1 @@
-var mnemonic = "elephant reveal secret strong dice robot glass skin use spread diagram absorb";
+var mnemonic = "cart chase guide valve hazard ginger proof crater goose sing pull advice";

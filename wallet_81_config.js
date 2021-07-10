@@ -1,1 +1,1 @@
-var mnemonic = "damp shadow ill often stamp palace caught effort hole curious course odor";
+var mnemonic = "insect index law office fortune erupt rigid later scare cement phrase legend";

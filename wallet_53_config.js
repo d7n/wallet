@@ -1,1 +1,1 @@
-var mnemonic = "nature crush morning limit ethics soda cover elder grid hero scorpion olive";
+var mnemonic = "resemble october glue shy final visual act winter reform knife early mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "define correct protect donor bonus text vessel idea lumber scissors farm dismiss";
+var mnemonic = "satoshi air crunch learn consider edge spring wood organ nature balcony element";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture general print couch exhaust erosion local embark inhale now example unhappy";
+var mnemonic = "master tower behave valley force blush whisper clay approve begin place usual";

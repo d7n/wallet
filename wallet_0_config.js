@@ -1,1 +1,1 @@
-var mnemonic = "miss elbow silent oyster sound morning roast obey elegant castle give tonight";
+var mnemonic = "festival tube blouse one diagram boil grass modify banner banner material pen";

@@ -1,1 +1,1 @@
-var mnemonic = "will zoo eight cushion zero winner income pioneer cancel together silly hat";
+var mnemonic = "foam chicken stable hundred husband ladder slide document soccer junk robot trim";

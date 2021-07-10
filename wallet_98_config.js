@@ -1,1 +1,1 @@
-var mnemonic = "forget remain doctor arrive appear tumble enemy tail rebuild rotate coffee spirit";
+var mnemonic = "property skin used round afraid absent exile spread entry clap pudding famous";

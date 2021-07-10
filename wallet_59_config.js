@@ -1,1 +1,1 @@
-var mnemonic = "raw staff sand one swarm cannon catch paper leaf quote attract dilemma";
+var mnemonic = "above asthma grit demise myself crunch wedding fiction claim spread behind swift";

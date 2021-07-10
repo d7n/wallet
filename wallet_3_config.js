@@ -1,1 +1,1 @@
-var mnemonic = "stamp hundred venture carbon drip still armed ten pyramid lift castle table";
+var mnemonic = "mimic sort spawn wild clock place suggest seven beauty dutch crowd couple";

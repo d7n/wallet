@@ -1,1 +1,1 @@
-var mnemonic = "raccoon trumpet shoe frozen mandate style baby edge timber ability tape enroll";
+var mnemonic = "mandate dignity improve divide wisdom goose shock frown stock soft engage ocean";

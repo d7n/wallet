@@ -1,1 +1,1 @@
-var mnemonic = "degree topple tent capital fluid flat fame save panel mention ranch rebel";
+var mnemonic = "power image kitchen dish custom judge aunt fiber soup cart laugh benefit";

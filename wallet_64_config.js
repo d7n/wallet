@@ -1,1 +1,1 @@
-var mnemonic = "settle luxury mother hidden claim recycle pumpkin bus intact wolf merry stove";
+var mnemonic = "pig empty jealous proof thank advice kit promote struggle garden unfair club";

@@ -1,1 +1,1 @@
-var mnemonic = "pen hope february monitor thought wrap start school only lecture swim illness";
+var mnemonic = "bundle hand cloud maximum hybrid piano infant pretty will cram doll away";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz warfare patch game vintage boss ozone shy bottom faculty emotion expire";
+var mnemonic = "stick slam giraffe afraid patrol raise pumpkin learn own fox lady final";

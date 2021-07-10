@@ -1,1 +1,1 @@
-var mnemonic = "keep nuclear coast suggest what panic charge term labor skirt stock casual";
+var mnemonic = "shop film audit amazing energy giraffe fold lab mom time sentence equip";

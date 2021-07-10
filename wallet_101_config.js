@@ -1,1 +1,1 @@
-var mnemonic = "milk habit crowd deer brisk steak runway guitar glow normal approve educate";
+var mnemonic = "roast shrug dose boy twenty rug fox double border six victory owner";

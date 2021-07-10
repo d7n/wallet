@@ -1,1 +1,1 @@
-var mnemonic = "arena inside obey property you wine parent addict dwarf jump list junior";
+var mnemonic = "seven vehicle behave day robot autumn humor muffin bonus give often aisle";

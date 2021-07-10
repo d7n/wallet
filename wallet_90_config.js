@@ -1,1 +1,1 @@
-var mnemonic = "detail coil combine album soap license crucial swamp biology bag anxiety garage";
+var mnemonic = "slab calm update hood carry child arena exotic panic oil sweet switch";

@@ -1,1 +1,1 @@
-var mnemonic = "public hole liar miss salt balance forum cactus behave depend donkey bulb";
+var mnemonic = "casino install sustain surprise shy match visit outer wink adult title dwarf";

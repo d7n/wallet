@@ -1,1 +1,1 @@
-var mnemonic = "address canvas infant convince butter mad strategy mind rose drill wish fine";
+var mnemonic = "blind sign omit panic soap sudden powder green stock source easily media";

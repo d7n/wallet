@@ -1,1 +1,1 @@
-var mnemonic = "miracle fiction divert maid syrup attack winner hamster actor course tackle settle";
+var mnemonic = "forward cage nerve pink useless mimic fancy artist quit able action fortune";

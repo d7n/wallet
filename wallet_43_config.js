@@ -1,1 +1,1 @@
-var mnemonic = "orphan file profit else miracle memory lunar infant ivory resist figure detail";
+var mnemonic = "display success slow elevator turn high swap victory fluid current shaft noise";

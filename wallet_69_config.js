@@ -1,1 +1,1 @@
-var mnemonic = "country nephew crystal one position melody moment style neck mention stool debris";
+var mnemonic = "indoor sausage include phrase response twenty keep inside asset answer acid million";

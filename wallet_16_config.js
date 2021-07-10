@@ -1,1 +1,1 @@
-var mnemonic = "word trim patrol quantum muffin flee toilet exit latin vanish wage educate";
+var mnemonic = "comfort street coyote blossom end behave hand draw shiver task bullet license";

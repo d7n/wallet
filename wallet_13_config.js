@@ -1,1 +1,1 @@
-var mnemonic = "question drum guard neck mass catch shift burden chuckle tribe crash grief";
+var mnemonic = "angry city clown slender soup milk enlist globe way wise sport timber";

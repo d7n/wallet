@@ -1,1 +1,1 @@
-var mnemonic = "utility gym put blade country crunch drum soda project beauty retire over";
+var mnemonic = "vocal clog merge ethics excess opera foot insane decade thrive evolve child";

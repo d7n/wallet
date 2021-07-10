@@ -1,1 +1,1 @@
-var mnemonic = "between lottery grow dismiss must fetch reward wedding prosper reward jaguar ceiling";
+var mnemonic = "laugh patient canyon town grid olympic timber weapon trial adapt force balcony";

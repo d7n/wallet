@@ -1,1 +1,1 @@
-var mnemonic = "hello give charge apart gas owner spot tornado benefit traffic weekend north";
+var mnemonic = "sample pigeon setup series sun near raven inject wool upset letter knife";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy fringe hair camera rally oak hero hurt corn cream stone very";
+var mnemonic = "armor ceiling neck choice adult make weapon health property ocean cross glue";

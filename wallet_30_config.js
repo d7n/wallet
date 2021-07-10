@@ -1,1 +1,1 @@
-var mnemonic = "erupt lunch hundred memory drop settle general diagram host push unknown annual";
+var mnemonic = "fat age lottery able meat sustain margin custom honey they major ensure";

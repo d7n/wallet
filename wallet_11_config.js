@@ -1,1 +1,1 @@
-var mnemonic = "fiber decade sister enrich turkey evidence magic yard display initial onion minimum";
+var mnemonic = "wise wonder pen reveal tennis liar stage plug insane soccer foil ivory";

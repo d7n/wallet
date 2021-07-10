@@ -1,1 +1,1 @@
-var mnemonic = "fan want script stand demand ozone wage nominee advance dinosaur slab maid";
+var mnemonic = "victory nasty write truth zone turtle remember dilemma flavor hold rug choice";

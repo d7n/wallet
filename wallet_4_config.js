@@ -1,1 +1,1 @@
-var mnemonic = "bind boring young donor assault jeans inherit betray cannon coin uncle fresh";
+var mnemonic = "beauty inform buddy damage amount wagon minute uncover tide junk pool castle";

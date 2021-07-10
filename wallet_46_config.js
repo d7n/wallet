@@ -1,1 +1,1 @@
-var mnemonic = "priority hen island wear intact corn amazing feed rib resist pilot range";
+var mnemonic = "plastic save plate manual barrel notice curve rose fortune play side visual";

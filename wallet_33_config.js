@@ -1,1 +1,1 @@
-var mnemonic = "agent network cloth cabbage artist lobster finger tone scorpion peace mesh stamp";
+var mnemonic = "wasp friend fame gun sting rebuild concert kitten fit roast motor urban";

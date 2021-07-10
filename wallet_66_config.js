@@ -1,1 +1,1 @@
-var mnemonic = "escape honey movie mom impulse shove wheel hamster razor tongue worth humble";
+var mnemonic = "super match logic maze local festival bird chaos bike renew range pair";

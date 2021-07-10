@@ -1,1 +1,1 @@
-var mnemonic = "strategy used once trip quote target ancient girl key swear ignore brown";
+var mnemonic = "valve basket write enemy fortune grace pumpkin solve struggle possible rail reject";

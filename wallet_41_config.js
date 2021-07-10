@@ -1,1 +1,1 @@
-var mnemonic = "flight man penalty kit special police gossip debate grape mixed blast require";
+var mnemonic = "autumn stage sponsor aware like behind walnut grocery glance found judge addict";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue opera rubber profit perfect someone key mix grape grid taxi labor";
+var mnemonic = "clinic note cherry useless vital yellow size outer tank antique earn damage";

@@ -1,1 +1,1 @@
-var mnemonic = "crack mimic walnut tone crack tennis price rude obscure awesome glory upon";
+var mnemonic = "month parade boost island pride face reflect blind coach simple fortune web";

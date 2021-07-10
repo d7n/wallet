@@ -1,1 +1,1 @@
-var mnemonic = "cricket settle come exhaust olympic spell ceiling shaft tortoise combine barely jungle";
+var mnemonic = "column student knife page neglect until act lava miracle educate sustain hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter cement predict install soldier harbor produce dry improve check dry drink";
+var mnemonic = "drill stuff impulse hour palace vibrant tiny peace train section soap mansion";

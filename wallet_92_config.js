@@ -1,1 +1,1 @@
-var mnemonic = "world grab ahead faculty pass balance kiss asthma seat sting mom sense";
+var mnemonic = "cheese begin glide cliff wide auction tag sport genre raven rocket happy";

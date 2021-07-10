@@ -1,1 +1,1 @@
-var mnemonic = "key pet crack evoke oven pond theory meadow trend lava vendor dash";
+var mnemonic = "burden tomato cheap scout funny relief warm subject museum lava frown dynamic";

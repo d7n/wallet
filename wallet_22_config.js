@@ -1,1 +1,1 @@
-var mnemonic = "seat fiction peace crater sugar aware crouch jazz divorce hawk limb flush";
+var mnemonic = "avoid someone tragic blind tennis zero equip trim like crop audit away";

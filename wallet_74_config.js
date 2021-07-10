@@ -1,1 +1,1 @@
-var mnemonic = "agent peasant can sort stay neck clerk security slide coffee void biology";
+var mnemonic = "repair devote dwarf surge once shaft blush pulse sorry cage divide divert";

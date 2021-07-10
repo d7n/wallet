@@ -1,1 +1,1 @@
-var mnemonic = "chair swear simple dolphin half moon kidney broccoli blade assault cruel absent";
+var mnemonic = "predict blossom unaware property floor alert hybrid shoe sauce rude rare jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle train hawk chicken excite drink fatigue join reason pause negative cause";
+var mnemonic = "chat sugar hockey fury element concert alien chuckle desk tray head charge";

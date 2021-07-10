@@ -1,1 +1,1 @@
-var mnemonic = "that found fossil desk behave mercy clown render matrix frame place casual";
+var mnemonic = "excess maze add recall dismiss dial burden answer picture domain wasp obey";

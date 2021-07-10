@@ -1,1 +1,1 @@
-var mnemonic = "explain quick mail pen century erode muscle indicate ice today tape enter";
+var mnemonic = "tower language purse time gas primary middle stick judge run feed lion";

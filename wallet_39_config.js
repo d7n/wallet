@@ -1,1 +1,1 @@
-var mnemonic = "pencil asthma cube connect merry august trend name double dinner oblige absurd";
+var mnemonic = "tomorrow guide state barely ethics program more book rice zoo puppy glove";
