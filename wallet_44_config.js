@@ -1,1 +1,1 @@
-var mnemonic = "save fit rule sort lonely public oak cup unusual exit actor need";
+var mnemonic = "hammer mixed patient eyebrow stick dance stamp simple gesture effort secret evolve";

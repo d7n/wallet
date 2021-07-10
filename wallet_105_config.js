@@ -1,1 +1,1 @@
-var mnemonic = "super grace clay prosper menu unaware uncle remember orange manage fine soccer";
+var mnemonic = "remember cash risk isolate rebuild else salute clog bamboo note angle funny";

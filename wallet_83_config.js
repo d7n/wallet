@@ -1,1 +1,1 @@
-var mnemonic = "always detect mind pride palace reward point opera alarm empty warfare universe";
+var mnemonic = "business post assist frame that angle side champion crater target girl energy";

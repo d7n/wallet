@@ -1,1 +1,1 @@
-var mnemonic = "emotion galaxy often sibling armed umbrella speak velvet nest hidden enroll kick";
+var mnemonic = "twin acoustic disease room century pear journey toss woman quote blame lift";

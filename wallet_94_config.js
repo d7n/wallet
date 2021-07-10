@@ -1,1 +1,1 @@
-var mnemonic = "wrestle kiwi charge warfare sleep suffer problem traffic minor parrot twin broken";
+var mnemonic = "armor monster poet horror sudden dragon atom boy journey three behind move";

@@ -1,1 +1,1 @@
-var mnemonic = "team glance duck acquire alone rabbit obey draw invest tiger globe portion";
+var mnemonic = "parade border december salad crisp drama rice travel online common total asset";

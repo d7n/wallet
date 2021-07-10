@@ -1,1 +1,1 @@
-var mnemonic = "patrol allow eye barely forum village boss lecture clever cup finish fiber";
+var mnemonic = "scissors bracket fiction ride chunk point scene style spoon castle develop worry";

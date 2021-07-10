@@ -1,1 +1,1 @@
-var mnemonic = "border machine life float solve rebuild bean version stem asset pill swarm";
+var mnemonic = "major piece reason sudden stem leaf rail mushroom only seven banana april";

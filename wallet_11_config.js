@@ -1,1 +1,1 @@
-var mnemonic = "typical clap media bag behave nest armor prosper flavor load fresh chunk";
+var mnemonic = "piano observe harvest surround hour jewel crowd surface retreat crisp truth lamp";

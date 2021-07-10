@@ -1,1 +1,1 @@
-var mnemonic = "base gather suggest cry nose enjoy quarter ticket resemble answer grief page";
+var mnemonic = "liquid parent twin traffic machine rug rhythm fetch vicious divide net have";

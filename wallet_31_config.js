@@ -1,1 +1,1 @@
-var mnemonic = "eager boy hope fine muscle web neutral recall flag tape leg test";
+var mnemonic = "swamp spoil paper tribe lobster pond salon health circle injury possible shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "gym combine answer woman category hand inside dragon aspect column fluid push";
+var mnemonic = "expect right exit extend parrot stand rotate spray void exotic street say";

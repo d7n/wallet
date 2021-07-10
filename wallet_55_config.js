@@ -1,1 +1,1 @@
-var mnemonic = "super awful seat same zoo dizzy still click party deer collect afraid";
+var mnemonic = "dismiss now tribe shock thought disorder evidence place bring magnet wolf peace";

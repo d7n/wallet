@@ -1,1 +1,1 @@
-var mnemonic = "twice judge build energy wait speed trade various omit duck behave outer";
+var mnemonic = "boil evoke evolve outside exercise feel chapter gloom wheel twice chimney across";

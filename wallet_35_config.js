@@ -1,1 +1,1 @@
-var mnemonic = "kick vivid hobby witness evoke olive fluid ladder voyage couple fall smooth";
+var mnemonic = "enlist rice shiver wrestle bid mistake bench pluck stem wolf exchange lunch";

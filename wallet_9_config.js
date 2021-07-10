@@ -1,1 +1,1 @@
-var mnemonic = "series carbon will early essence marine thing climb home bubble ramp casual";
+var mnemonic = "elder notable link adjust engine cigar expose raven fiscal artwork future join";

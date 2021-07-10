@@ -1,1 +1,1 @@
-var mnemonic = "require spy toast wisdom episode kidney phrase priority prize leave ginger immense";
+var mnemonic = "leaf media mom summer siege deal atom hour father unfair recycle great";

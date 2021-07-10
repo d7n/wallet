@@ -1,1 +1,1 @@
-var mnemonic = "end stable orbit know device radio refuse shadow you alone animal distance";
+var mnemonic = "tired burst debate inflict beauty globe culture fee category token sudden misery";

@@ -1,1 +1,1 @@
-var mnemonic = "design order sustain faint venue chair gas lobster velvet renew elegant robot";
+var mnemonic = "apology purse bamboo build gossip drive recipe album burst voice gentle trap";

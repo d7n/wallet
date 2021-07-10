@@ -1,1 +1,1 @@
-var mnemonic = "humor decade lend cable include lottery save initial endorse flip squeeze defense";
+var mnemonic = "enable law rotate tiger bring inflict couple crew manual minor bench text";

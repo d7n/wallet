@@ -1,1 +1,1 @@
-var mnemonic = "project moment garage first bottom action able race enact fashion provide agree";
+var mnemonic = "candy brown pink fence gate brown knock uniform pudding maximum hawk purpose";

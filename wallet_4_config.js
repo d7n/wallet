@@ -1,1 +1,1 @@
-var mnemonic = "garbage lava nation jar priority fence marine velvet unusual decrease above muscle";
+var mnemonic = "miracle guilt language arch swallow access grab flee various light pig replace";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent sell supreme indicate awful inmate combine stamp sorry penalty jazz blame";
+var mnemonic = "increase favorite shock undo foster shine forget turkey approve display ten nephew";

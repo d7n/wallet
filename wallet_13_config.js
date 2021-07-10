@@ -1,1 +1,1 @@
-var mnemonic = "arrest biology hand seven defy eye robust release panic rail puppy garlic";
+var mnemonic = "parent seek ice boat comfort spider resource evil surge argue tumble cherry";

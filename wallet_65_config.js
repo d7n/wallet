@@ -1,1 +1,1 @@
-var mnemonic = "grain pistol prison apology bitter ghost engine black lend leader exchange drama";
+var mnemonic = "core sustain antique can enough daring twist remain myth cotton bounce dentist";

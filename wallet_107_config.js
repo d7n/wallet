@@ -1,1 +1,1 @@
-var mnemonic = "seat clutch fluid puzzle wink rabbit anger peace kidney myself sphere load";
+var mnemonic = "noble buffalo owner danger loan dry midnight mixed early car wet cabbage";

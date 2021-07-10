@@ -1,1 +1,1 @@
-var mnemonic = "glare tail cause solution quantum found adapt tiger yellow inside hill memory";
+var mnemonic = "vessel grab effort taxi elevator forum west rabbit distance fiscal world quote";

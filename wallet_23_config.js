@@ -1,1 +1,1 @@
-var mnemonic = "program quantum foster wrist pave account addict shine autumn minimum capital check";
+var mnemonic = "water tank mother weapon fruit discover swallow weapon chaos giraffe over badge";

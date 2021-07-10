@@ -1,1 +1,1 @@
-var mnemonic = "express desert peace erode breeze cloth crawl utility ice web priority rug";
+var mnemonic = "edge fix hurt rely air silent trash penalty eager laptop green horse";

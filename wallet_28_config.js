@@ -1,1 +1,1 @@
-var mnemonic = "trap noise top cat between alarm inside mansion thrive task inmate example";
+var mnemonic = "cry retire canvas fiscal mother okay tail promote debate combine six shrimp";

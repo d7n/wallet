@@ -1,1 +1,1 @@
-var mnemonic = "void social echo opinion minor panda join infant lumber victory struggle awake";
+var mnemonic = "swarm keen noble device phrase cannon pioneer knee client cause forget voyage";

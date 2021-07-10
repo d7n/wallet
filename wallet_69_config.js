@@ -1,1 +1,1 @@
-var mnemonic = "auction region anchor route ask film solar enter amateur voice trust obscure";
+var mnemonic = "excuse corn require clump ankle buffalo kind easy borrow noble that blast";

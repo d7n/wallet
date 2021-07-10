@@ -1,1 +1,1 @@
-var mnemonic = "brick slam ride lemon renew knife cruise mansion task they cinnamon wine";
+var mnemonic = "story battle dish stem logic blood together find always holiday impulse pulp";

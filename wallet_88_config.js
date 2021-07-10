@@ -1,1 +1,1 @@
-var mnemonic = "exact reopen favorite addict clock add trophy garbage book order fuel improve";
+var mnemonic = "nut blue virus hen nasty second pair velvet strategy forget hamster category";

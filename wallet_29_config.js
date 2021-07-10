@@ -1,1 +1,1 @@
-var mnemonic = "youth still system total sustain coach entry pave detect cactus girl violin";
+var mnemonic = "napkin allow same dad sustain online season wonder wire guide exact job";

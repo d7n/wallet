@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit half this weather addict student shift turkey control hand copper start";
+var mnemonic = "box mad area subway disease anger sudden safe door turkey album off";

@@ -1,1 +1,1 @@
-var mnemonic = "youth woman dance census school circle funny equip chronic increase bar subject";
+var mnemonic = "abstract pipe fall fringe kid silver dawn insane volcano guitar train affair";

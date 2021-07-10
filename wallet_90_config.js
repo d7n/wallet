@@ -1,1 +1,1 @@
-var mnemonic = "mountain pole number title poet cart cake betray umbrella armed behind shrug";
+var mnemonic = "pen turkey garage hill gym hello depth tape forward silver extend provide";

@@ -1,1 +1,1 @@
-var mnemonic = "betray rain van inspire liar february uncover love cycle hero dolphin demand";
+var mnemonic = "frame syrup upset usual rural trumpet jungle uphold remember breeze giraffe ancient";

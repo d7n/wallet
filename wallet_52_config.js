@@ -1,1 +1,1 @@
-var mnemonic = "trim sunny decline cat august afford energy two exile rigid special bargain";
+var mnemonic = "trend enact crop pave visit text kiss economy page soda device boy";

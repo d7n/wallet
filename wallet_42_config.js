@@ -1,1 +1,1 @@
-var mnemonic = "boy tell hold cattle soup ivory matrix gym retire mimic rescue silly";
+var mnemonic = "coral hedgehog skin modify forward cereal that carbon noise gossip move juice";

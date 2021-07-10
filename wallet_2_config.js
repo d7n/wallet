@@ -1,1 +1,1 @@
-var mnemonic = "cause say minimum again verify copy dune depart parent month depth tone";
+var mnemonic = "wear laptop fluid aspect nasty knee essay carry trip paper piano unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual acquire visual glide token conduct vivid dish valid catalog rival gasp";
+var mnemonic = "view maid attend stand banana since pipe excess upgrade sniff pave photo";

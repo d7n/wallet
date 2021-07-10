@@ -1,1 +1,1 @@
-var mnemonic = "lucky hazard fuel memory like else fault few avoid decorate whale meat";
+var mnemonic = "online discover fruit include flip milk hole switch early copy era squeeze";

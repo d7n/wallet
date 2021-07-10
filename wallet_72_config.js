@@ -1,1 +1,1 @@
-var mnemonic = "orchard win better silk joy ski sibling crucial old deposit resource decline";
+var mnemonic = "deal artefact pony garment unhappy perfect tenant emotion frog tool obscure electric";

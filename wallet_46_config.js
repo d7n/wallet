@@ -1,1 +1,1 @@
-var mnemonic = "snap surface monkey pilot wheat salute curtain chase disorder kiwi animal unique";
+var mnemonic = "noble rack feel ticket about cream economy mean false million voice crew";

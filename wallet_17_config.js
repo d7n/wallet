@@ -1,1 +1,1 @@
-var mnemonic = "scene ticket night index render pupil end sail hazard assault history machine";
+var mnemonic = "trim surprise message witness hawk oxygen winter verify final east shift rally";

@@ -1,1 +1,1 @@
-var mnemonic = "birth clown marriage creek trial urge elegant window aware expand snap cram";
+var mnemonic = "view velvet direct train gospel magnet tribe track myth cram laugh mammal";

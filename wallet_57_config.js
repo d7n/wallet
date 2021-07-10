@@ -1,1 +1,1 @@
-var mnemonic = "distance angle bachelor panda climb salt life faith hint antique praise hello";
+var mnemonic = "romance auction useful truck anchor employ young federal mechanic erase airport shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt glory age put admit knee guitar mention wage art object various";
+var mnemonic = "chat bridge movie private curious tip market beyond wine faint write able";

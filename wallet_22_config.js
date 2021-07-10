@@ -1,1 +1,1 @@
-var mnemonic = "salad cream tribe crop upset worry solution inquiry horse master enter bulk";
+var mnemonic = "message loan entire exist casual pupil suggest egg expect vivid depend print";

@@ -1,1 +1,1 @@
-var mnemonic = "panel shadow dirt truck december frost dinner popular rain beef praise license";
+var mnemonic = "loan uniform harbor illegal present athlete tape virus dawn student sauce dune";

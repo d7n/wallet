@@ -1,1 +1,1 @@
-var mnemonic = "gospel lock faith boil mechanic struggle buzz media arrest victory reunion giraffe";
+var mnemonic = "clap next cheap almost toward leg chief napkin differ shed future limit";

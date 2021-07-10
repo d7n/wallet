@@ -1,1 +1,1 @@
-var mnemonic = "inside main toddler garbage mercy quantum orbit tape pig main next birth";
+var mnemonic = "limit remember rich maze neck capable execute casino steak library snack resemble";

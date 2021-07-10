@@ -1,1 +1,1 @@
-var mnemonic = "intact accuse kiss green glare expose real release crane raise base crack";
+var mnemonic = "waste park lonely enemy pelican siege panel scare undo bullet sound arrive";

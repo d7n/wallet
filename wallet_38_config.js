@@ -1,1 +1,1 @@
-var mnemonic = "voice phone culture rain gloom marriage clinic goddess depend donkey age night";
+var mnemonic = "bundle put machine purse snack still peace chicken decade island jelly idea";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly fashion hill gentle result collect car coral hint cause saddle install";
+var mnemonic = "harvest audit speak rebuild verify museum glare dismiss birth become limb gospel";

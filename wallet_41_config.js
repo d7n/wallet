@@ -1,1 +1,1 @@
-var mnemonic = "pink brother gain video initial city where search vault upper exchange secret";
+var mnemonic = "pig little moon dawn good chicken purity huge old bacon device boost";

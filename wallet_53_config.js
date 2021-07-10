@@ -1,1 +1,1 @@
-var mnemonic = "illegal grape marine bundle human season crane pride produce evidence wheel punch";
+var mnemonic = "world prepare jelly among exercise lift awkward tackle sun buffalo enact naive";

@@ -1,1 +1,1 @@
-var mnemonic = "differ already volume cave meadow cave worry pupil easily wedding six lizard";
+var mnemonic = "connect spoil size tube shaft cruel youth search that tone spot exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure recycle upgrade roof winter defy cotton isolate answer fringe sunset sheriff";
+var mnemonic = "first fall boil benefit unlock list rug foot major cloth crucial point";

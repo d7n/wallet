@@ -1,1 +1,1 @@
-var mnemonic = "crazy limit mad disease future million gasp burger draft bubble album foot";
+var mnemonic = "penalty lamp regular abandon rocket aisle action fire garden blast symptom elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "kite hero okay common credit apple obtain cradle will banana idle stamp";
+var mnemonic = "slogan pioneer caution race state couple strike crucial visual subway violin giraffe";

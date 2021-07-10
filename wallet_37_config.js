@@ -1,1 +1,1 @@
-var mnemonic = "rail gas pizza tilt drill scissors work insane amused embark anger never";
+var mnemonic = "gap three thought cage pigeon nice token puzzle alter report video hungry";

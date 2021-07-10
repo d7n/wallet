@@ -1,1 +1,1 @@
-var mnemonic = "anxiety kangaroo lamp prosper version lunar deputy icon uphold cube amateur balcony";
+var mnemonic = "dawn crash easily trend benefit uphold next enough path very airport doll";

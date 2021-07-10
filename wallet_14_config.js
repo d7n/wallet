@@ -1,1 +1,1 @@
-var mnemonic = "spread genre dust wonder tiger cram defy check repeat upset shield bar";
+var mnemonic = "owner goddess polar day between elephant myth write captain whale universe mail";

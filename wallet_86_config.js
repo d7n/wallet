@@ -1,1 +1,1 @@
-var mnemonic = "bring arena marine suffer chuckle critic toilet pyramid sock amazing grace depth";
+var mnemonic = "valid else wonder legend keen fall paper raven foam permit property original";

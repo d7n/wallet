@@ -1,1 +1,1 @@
-var mnemonic = "pool hard dwarf essay oak enemy zoo lecture tumble other biology way";
+var mnemonic = "fashion eyebrow recall give journey pear tonight trouble butter crane useless such";

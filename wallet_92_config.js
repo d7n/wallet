@@ -1,1 +1,1 @@
-var mnemonic = "garbage such suit curious jacket hammer broken spend power logic toy balance";
+var mnemonic = "round cereal joy work animal assist tortoise daring vehicle cost witness search";

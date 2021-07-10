@@ -1,1 +1,1 @@
-var mnemonic = "garage ready home jump level fog merit fit length leader wash section";
+var mnemonic = "recall bundle weekend pottery mutual electric wrong walnut order payment monster surround";

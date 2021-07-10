@@ -1,1 +1,1 @@
-var mnemonic = "blood radar three squirrel camera glance scene auto meadow coast person rigid";
+var mnemonic = "dwarf welcome slight wagon fix smart jar outer gallery nominee short lens";

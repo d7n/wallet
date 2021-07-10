@@ -1,1 +1,1 @@
-var mnemonic = "cradle ring person collect file route answer ugly cigar because toilet river";
+var mnemonic = "system hill gentle labor blame soon nose orphan retire burst ugly lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "skill glory wave trip prize live sound vacuum bacon tool issue wish";
+var mnemonic = "volcano speak wisdom sadness gospel reform unfair toward attend village series warm";

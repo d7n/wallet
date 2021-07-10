@@ -1,1 +1,1 @@
-var mnemonic = "annual ecology same school opinion chef laundry tornado bounce grace polar faint";
+var mnemonic = "blade village grant later cream have equal fix this jelly super gas";

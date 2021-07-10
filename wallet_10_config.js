@@ -1,1 +1,1 @@
-var mnemonic = "dune maximum ahead base announce matrix enroll unhappy exhaust quick soda rigid";
+var mnemonic = "hire soup repair fuel skull advance excite only enough badge slice finish";

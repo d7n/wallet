@@ -1,1 +1,1 @@
-var mnemonic = "concert knife fashion motor betray field wheat wealth present dizzy choice between";
+var mnemonic = "ladder category save measure stool shine hamster view bright view title purse";

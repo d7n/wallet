@@ -1,1 +1,1 @@
-var mnemonic = "ask play kitten flight monitor feed rapid danger stand glance antenna cradle";
+var mnemonic = "spatial actual nose table mail cake renew pipe famous adult case range";

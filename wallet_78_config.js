@@ -1,1 +1,1 @@
-var mnemonic = "announce hammer exist space clutch improve diary nest shrug vivid wool kitchen";
+var mnemonic = "wage sing very session hybrid load hour width flush coffee torch fork";

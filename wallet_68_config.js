@@ -1,1 +1,1 @@
-var mnemonic = "bunker pulse famous middle summer offer similar earth alcohol width neck envelope";
+var mnemonic = "humble endless diet episode day aspect charge lemon surge cereal equal bone";

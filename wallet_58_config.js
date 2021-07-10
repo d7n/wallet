@@ -1,1 +1,1 @@
-var mnemonic = "mouse usual network mad mouse tomorrow million absent blanket author mouse fit";
+var mnemonic = "hurry prison neglect bike play multiply tooth zoo creek pet print ticket";

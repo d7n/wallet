@@ -1,1 +1,1 @@
-var mnemonic = "file useless cradle wire choose oil escape deputy put faith vote cheap";
+var mnemonic = "globe drum pepper talent kick creek coyote forest tiger satisfy viable shoulder";

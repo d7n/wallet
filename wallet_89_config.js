@@ -1,1 +1,1 @@
-var mnemonic = "office symbol govern describe hand nut salad bicycle clump picture ridge foam";
+var mnemonic = "doctor industry mammal immune amused govern quantum pave bullet steel result alcohol";

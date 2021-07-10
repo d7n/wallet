@@ -1,1 +1,1 @@
-var mnemonic = "present distance survey guess manual dry excite unique fetch romance robot green";
+var mnemonic = "accuse maximum jungle cause essay round galaxy spirit acid acquire lyrics wrong";

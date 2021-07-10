@@ -1,1 +1,1 @@
-var mnemonic = "shrimp segment ankle bus sea trend lift crime card spray tissue legend";
+var mnemonic = "obscure act napkin tent faculty donkey upon pizza end stock census wisdom";

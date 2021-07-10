@@ -1,1 +1,1 @@
-var mnemonic = "gallery night satisfy office game sudden assume sadness blouse dizzy allow soon";
+var mnemonic = "unique tortoise gorilla hood club bomb cancel envelope craft kick filter alarm";

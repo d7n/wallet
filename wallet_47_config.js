@@ -1,1 +1,1 @@
-var mnemonic = "depth lawn gain manage visa spring dial aware absurd blanket option uncle";
+var mnemonic = "town hedgehog asset finish mule tattoo fresh vast system phone angry escape";

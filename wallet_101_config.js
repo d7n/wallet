@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ginger modify ritual engage net female million laundry rib guitar congress";
+var mnemonic = "cart raccoon rate zone rack arrive name toast casino cruise dolphin duty";
