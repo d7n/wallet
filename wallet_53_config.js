@@ -1,1 +1,1 @@
-var mnemonic = "buffalo enact vehicle close giraffe profit creek pupil end seat track injury";
+var mnemonic = "ask where hotel board trial labor vintage eight chicken stumble nature pioneer";

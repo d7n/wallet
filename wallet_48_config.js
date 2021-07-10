@@ -1,1 +1,1 @@
-var mnemonic = "obscure oven noble silly traffic sunset enlist index april wheel genre latin";
+var mnemonic = "only electric enhance begin brick oppose brick shoe water naive vast fetch";

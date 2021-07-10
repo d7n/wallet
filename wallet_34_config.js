@@ -1,1 +1,1 @@
-var mnemonic = "rely purpose scatter crash announce bridge fiscal audit lift rich wide lab";
+var mnemonic = "fever fruit they jeans aerobic snap crouch antenna edit valley moral move";

@@ -1,1 +1,1 @@
-var mnemonic = "section flush hawk portion impact clarify thunder blade lazy digital prevent beef";
+var mnemonic = "middle basic simple wrestle celery cool practice display pact sell book latin";

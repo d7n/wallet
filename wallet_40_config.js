@@ -1,1 +1,1 @@
-var mnemonic = "stool shuffle bicycle loop tomorrow summer frost ring tongue nothing senior cherry";
+var mnemonic = "beyond earn vessel rely august ball admit bread tag chicken thank horror";

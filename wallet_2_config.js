@@ -1,1 +1,1 @@
-var mnemonic = "devote pole bonus cream glue bring humble friend bulk spend best salute";
+var mnemonic = "tunnel diagram control return adult rally siren afraid cycle label clever panic";

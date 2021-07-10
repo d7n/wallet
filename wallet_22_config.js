@@ -1,1 +1,1 @@
-var mnemonic = "battle bone picture fiction peace sketch rabbit taxi extra base spoon depart";
+var mnemonic = "island lady mask view disorder push another salute prison satisfy inhale child";

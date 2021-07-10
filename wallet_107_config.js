@@ -1,1 +1,1 @@
-var mnemonic = "raise guide game insect scale world parade liar group pig tired damp";
+var mnemonic = "upon rough roast traffic adjust lounge monkey lonely cattle another gospel stairs";

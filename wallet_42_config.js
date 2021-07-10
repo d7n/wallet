@@ -1,1 +1,1 @@
-var mnemonic = "cross width rice congress rebel fog parent wrong hungry access disorder leopard";
+var mnemonic = "much female relief spoil obey veteran manage grain panic maximum middle canoe";

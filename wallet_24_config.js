@@ -1,1 +1,1 @@
-var mnemonic = "token quantum add poem tag few marble hello easy hazard crater seat";
+var mnemonic = "tiny outside awesome crater window enter area battle ankle lend town absent";

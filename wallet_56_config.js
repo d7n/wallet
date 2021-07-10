@@ -1,1 +1,1 @@
-var mnemonic = "cherry improve lemon trend jealous hill below tired crowd denial fortune sing";
+var mnemonic = "ankle just horn inspire crush endless post employ cost hammer august pill";

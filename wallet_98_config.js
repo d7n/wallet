@@ -1,1 +1,1 @@
-var mnemonic = "knee emerge solution ability soda delay retire inquiry stamp genre spot click";
+var mnemonic = "kitten setup crowd fiber ship explain goddess wrap odor matrix chapter heavy";

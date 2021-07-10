@@ -1,1 +1,1 @@
-var mnemonic = "oak flock dish derive ginger torch recipe flame inspire sand ivory maple";
+var mnemonic = "cabbage agent peanut focus genius know bag claim what gaze learn curve";

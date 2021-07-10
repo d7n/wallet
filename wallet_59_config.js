@@ -1,1 +1,1 @@
-var mnemonic = "copper aware glare glance myself elephant lock gather umbrella wire feature pipe";
+var mnemonic = "battle sun coast vendor heart scatter race reject glue carbon ski address";

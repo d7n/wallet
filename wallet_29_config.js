@@ -1,1 +1,1 @@
-var mnemonic = "lucky kiwi any eagle review decrease ancient fan express concert uphold hamster";
+var mnemonic = "live main broken team diary place daring coyote poverty ship kitchen have";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder swamp camera dismiss civil mind wing mountain travel control pipe mind";
+var mnemonic = "smart marble elder try cat spy nurse radio nurse attack bronze snack";

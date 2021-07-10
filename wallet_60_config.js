@@ -1,1 +1,1 @@
-var mnemonic = "candy puppy chuckle message disagree veteran slice infant wall denial churn venture";
+var mnemonic = "total hair narrow hotel camp cage wrong can spatial cancel remind swamp";

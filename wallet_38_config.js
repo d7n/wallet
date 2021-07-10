@@ -1,1 +1,1 @@
-var mnemonic = "ticket shine canvas that salad inflict distance cradle march people reduce grass";
+var mnemonic = "spoon list arch final mobile melt present hint wreck since rather submit";

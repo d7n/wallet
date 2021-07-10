@@ -1,1 +1,1 @@
-var mnemonic = "term dune early carry weasel biology mechanic perfect design drastic gorilla benefit";
+var mnemonic = "mansion scissors surface switch giraffe cargo busy fatigue speed bean kiss airport";

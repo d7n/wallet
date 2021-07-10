@@ -1,1 +1,1 @@
-var mnemonic = "deny lemon begin chaos speak poet acquire voice banana ancient scene valid";
+var mnemonic = "fire stadium into broccoli trick front long rubber visual window remind muffin";

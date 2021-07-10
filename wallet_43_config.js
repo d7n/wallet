@@ -1,1 +1,1 @@
-var mnemonic = "mirror reason pond drink snap monster prefer verb defy audit switch coin";
+var mnemonic = "powder impose bring dinosaur summer rookie card day call sound dial hamster";

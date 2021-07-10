@@ -1,1 +1,1 @@
-var mnemonic = "furnace paddle alert know letter target refuse tornado slender mesh laundry rice";
+var mnemonic = "misery pulse confirm paper reward enlist oven next spice sand fatal capable";

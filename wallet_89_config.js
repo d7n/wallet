@@ -1,1 +1,1 @@
-var mnemonic = "spot arrest rhythm pill tuition entire able spin deer tube wasp pistol";
+var mnemonic = "tent that maple drill base nut amount abuse junk loan since borrow";

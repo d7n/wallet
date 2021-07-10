@@ -1,1 +1,1 @@
-var mnemonic = "risk tobacco silent risk light emotion deputy belt gain taxi this when";
+var mnemonic = "vanish throw bike slender gauge sunny unfold wall answer spend poem auto";

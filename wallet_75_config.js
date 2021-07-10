@@ -1,1 +1,1 @@
-var mnemonic = "bullet enact cable order caught young seven hammer they prosper hazard together";
+var mnemonic = "cycle ice unusual review radio tiny keep sustain chase body suspect galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "subway rough consider six economy crew mail jewel element bar nature display";
+var mnemonic = "galaxy seven embrace across soul early valley fan extra civil journey boil";

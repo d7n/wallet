@@ -1,1 +1,1 @@
-var mnemonic = "minute window tell anxiety ankle violin slogan student worry illness present team";
+var mnemonic = "frame good motor ostrich income riot tobacco property mouse inject phone rapid";

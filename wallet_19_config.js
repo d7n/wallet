@@ -1,1 +1,1 @@
-var mnemonic = "soft hen emotion axis turtle churn then supreme utility reflect dog occur";
+var mnemonic = "year best oblige joy clump jazz speed medal mystery prison awkward wheat";

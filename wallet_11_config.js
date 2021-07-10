@@ -1,1 +1,1 @@
-var mnemonic = "degree buddy speed claw few body trigger sand damage moral crazy adapt";
+var mnemonic = "embody true salon away apology furnace siren fever speak teach dynamic mountain";

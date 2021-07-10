@@ -1,1 +1,1 @@
-var mnemonic = "trophy cancel among endless fan tenant trip tobacco else goose uncle object";
+var mnemonic = "dwarf seed viable control stock repair say gorilla circle surge fiber exit";

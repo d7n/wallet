@@ -1,1 +1,1 @@
-var mnemonic = "label into guitar leave image essay inner aspect lunch world shine buddy";
+var mnemonic = "donate build follow chair describe prison chaos wet arrow neck club forum";

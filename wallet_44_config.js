@@ -1,1 +1,1 @@
-var mnemonic = "across empty fiction seven jacket thumb avoid portion slogan rice venture doll";
+var mnemonic = "genre narrow quality section rocket super silk traffic trust toilet husband surprise";

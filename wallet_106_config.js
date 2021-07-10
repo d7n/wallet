@@ -1,1 +1,1 @@
-var mnemonic = "feed exile protect resource moment source ability upon current cube grit buyer";
+var mnemonic = "jazz stable steak hidden carpet sunset tuition helmet provide rubber hurry rare";

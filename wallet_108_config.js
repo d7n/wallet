@@ -1,1 +1,1 @@
-var mnemonic = "pull example virus bird month taxi embrace cancel idle advice spring notable";
+var mnemonic = "omit priority bird brother gravity curtain junk behind supply vessel raven arena";

@@ -1,1 +1,1 @@
-var mnemonic = "treat observe kiwi awesome cause joy attack immense early club surface jewel";
+var mnemonic = "napkin cattle hat breeze zero champion ship paper hello clay tree cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden jump issue obtain bunker valve rubber exchange yard pill home corn";
+var mnemonic = "alien reunion extra ramp month unusual limit few property gossip enlist such";

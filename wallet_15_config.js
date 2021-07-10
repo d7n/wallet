@@ -1,1 +1,1 @@
-var mnemonic = "midnight country behind blast embark pull shoulder exhaust enforce brand body luggage";
+var mnemonic = "force critic notable utility junk crater cheese mercy credit rare input merge";

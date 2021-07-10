@@ -1,1 +1,1 @@
-var mnemonic = "pig demand quality demise area pull axis fall behave minor toast reward";
+var mnemonic = "bleak olive blade town bracket social wash coil dance siege tennis stamp";

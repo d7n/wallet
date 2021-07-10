@@ -1,1 +1,1 @@
-var mnemonic = "approve liar dream account elder method walk brave liquid midnight blast whip";
+var mnemonic = "endless slot cool leisure silk hero custom course scissors session all city";

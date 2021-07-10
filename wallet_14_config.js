@@ -1,1 +1,1 @@
-var mnemonic = "kid slam push supply oxygen common print wheel display work sense oak";
+var mnemonic = "bid become finish wear rain power obey doll amused perfect tuition mixture";

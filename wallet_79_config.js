@@ -1,1 +1,1 @@
-var mnemonic = "push capable recipe news robust frog boy inform then leaf toast clutch";
+var mnemonic = "sheriff wish blouse release category chronic caught sting include medal magnet item";

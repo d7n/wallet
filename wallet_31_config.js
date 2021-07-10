@@ -1,1 +1,1 @@
-var mnemonic = "lady matrix miracle minute faith liar room merit slice social tornado shove";
+var mnemonic = "matrix whisper shrimp cup company time birth coach recipe horse leg cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "giant grief reunion hospital shield rough laptop crack tobacco damp avocado portion";
+var mnemonic = "erupt hungry crime deer inhale dish aunt task harbor drastic faith recall";

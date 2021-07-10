@@ -1,1 +1,1 @@
-var mnemonic = "sibling vast visual shield reform soldier gossip deposit ethics poverty kite observe";
+var mnemonic = "glad blind lift wagon sausage student cream rate lock utility reduce forest";

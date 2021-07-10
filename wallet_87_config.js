@@ -1,1 +1,1 @@
-var mnemonic = "until whale speak earn clinic annual picnic truly tonight fragile surprise bike";
+var mnemonic = "mesh virtual cause slow rally cabin vast elevator angle gorilla rib next";

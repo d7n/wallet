@@ -1,1 +1,1 @@
-var mnemonic = "grow suit search select fan hurry nest stereo manage ribbon pave exercise";
+var mnemonic = "water salmon shrimp update pulp field over sick produce token pride favorite";

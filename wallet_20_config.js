@@ -1,1 +1,1 @@
-var mnemonic = "poem shiver north envelope roof inmate hip soldier juice thing hip boy";
+var mnemonic = "pupil luxury enable fresh million affair choice truly fossil exile marine draw";

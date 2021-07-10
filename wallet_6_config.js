@@ -1,1 +1,1 @@
-var mnemonic = "abuse shove section script notice embody heart history uncle more element dog";
+var mnemonic = "master rug inch pulse jungle speed scrap canoe advice start magnet cage";

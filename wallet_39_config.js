@@ -1,1 +1,1 @@
-var mnemonic = "lonely educate advance typical hen orchard canoe mutual kiss deny debris outer";
+var mnemonic = "harsh legal frozen horse shiver flat coach domain wire whisper decorate already";

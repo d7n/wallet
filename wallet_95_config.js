@@ -1,1 +1,1 @@
-var mnemonic = "today write cabin wrong blood steel poverty clever already wide often typical";
+var mnemonic = "idea profit coin kiwi army insect perfect swim pole clever reward rule";

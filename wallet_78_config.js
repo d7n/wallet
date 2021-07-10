@@ -1,1 +1,1 @@
-var mnemonic = "leopard crawl glimpse strike twist you first believe orient exclude awkward emerge";
+var mnemonic = "caught rival trophy oil cabbage beyond boat hunt zoo despair sign lucky";

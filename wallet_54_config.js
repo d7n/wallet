@@ -1,1 +1,1 @@
-var mnemonic = "flag consider text fortune ceiling coil stone tattoo coast away battle squirrel";
+var mnemonic = "dentist manual drip dove razor oxygen pink hard outdoor phone begin ramp";

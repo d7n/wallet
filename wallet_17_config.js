@@ -1,1 +1,1 @@
-var mnemonic = "silent health van candy witness march execute cinnamon stomach shallow fiscal capital";
+var mnemonic = "wash winter silver dry comic news company unhappy guess upgrade wedding mountain";

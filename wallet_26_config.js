@@ -1,1 +1,1 @@
-var mnemonic = "private unfair old length dice tuna afford doctor hospital shift pistol require";
+var mnemonic = "room direct fresh suffer link hill gun urge flame wine camp element";

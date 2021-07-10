@@ -1,1 +1,1 @@
-var mnemonic = "shaft sibling forest mixed wreck orbit element ivory payment vault size measure";
+var mnemonic = "flash drink enrich wrestle town swamp segment unlock cycle virtual radar lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat sport aisle talk when around torch pulse limb ten open hazard";
+var mnemonic = "genuine jelly warfare marble burger hurry marble rookie float whale situate buzz";

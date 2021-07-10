@@ -1,1 +1,1 @@
-var mnemonic = "swim minimum circle case material deny virtual reform cheap anchor kiss will";
+var mnemonic = "jungle bid hero utility stable pattern blade best category hunt wagon valley";

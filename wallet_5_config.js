@@ -1,1 +1,1 @@
-var mnemonic = "security day gap quiz chicken history rice radar cube bronze garlic lava";
+var mnemonic = "move pledge absorb lens traffic elbow forest identify visa lab armed garlic";

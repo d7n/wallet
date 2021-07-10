@@ -1,1 +1,1 @@
-var mnemonic = "warm name off mandate palm round engage arrive version drink close bronze";
+var mnemonic = "primary split veteran chest hope orbit property burden buyer space march volcano";

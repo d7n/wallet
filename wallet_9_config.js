@@ -1,1 +1,1 @@
-var mnemonic = "rich piano habit hand awkward book box fashion scheme brisk teach vintage";
+var mnemonic = "raise put promote foster dizzy firm future beyond pave crime balcony bottom";

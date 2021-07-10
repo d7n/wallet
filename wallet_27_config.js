@@ -1,1 +1,1 @@
-var mnemonic = "barely spawn away master mixed cost cloud basic cream fiscal swap more";
+var mnemonic = "seed army decrease zone always vivid habit runway audit nuclear swallow solution";

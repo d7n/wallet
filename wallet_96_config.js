@@ -1,1 +1,1 @@
-var mnemonic = "when blanket indoor debris gym alley satisfy ready reduce jacket antenna arrest";
+var mnemonic = "orchard style swap junior artefact ribbon donate scale abuse wrong evoke permit";

@@ -1,1 +1,1 @@
-var mnemonic = "term gain push leisure bird inquiry globe sunset frame volume deer jealous";
+var mnemonic = "crouch dutch excuse wheel tape success news relief glass equal spoil hockey";

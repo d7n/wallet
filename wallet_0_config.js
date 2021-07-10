@@ -1,1 +1,1 @@
-var mnemonic = "door trust square abstract maple dirt tree arctic south analyst topple prepare";
+var mnemonic = "hundred hospital fox frame clock juice hole buffalo tiger cover fiction pause";

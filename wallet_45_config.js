@@ -1,1 +1,1 @@
-var mnemonic = "impulse enemy kitchen juice session cart mixture quality call walk insect broccoli";
+var mnemonic = "alley pet address mushroom diamond they ankle example fog edge twice virtual";

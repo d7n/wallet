@@ -1,1 +1,1 @@
-var mnemonic = "connect force blame twelve predict citizen immense waste drill defy movie leopard";
+var mnemonic = "vibrant volcano sudden dragon swear file reason harsh round sock box renew";

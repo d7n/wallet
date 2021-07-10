@@ -1,1 +1,1 @@
-var mnemonic = "adult memory review myth predict sphere concert blind will entire hotel obvious";
+var mnemonic = "duck donate damage rib whisper jeans genre wave smart menu attract valley";

@@ -1,1 +1,1 @@
-var mnemonic = "prize claw more auto awake stock innocent fun toe reunion duck debate";
+var mnemonic = "laugh answer physical word high nuclear mom lock much noodle weather stove";

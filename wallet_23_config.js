@@ -1,1 +1,1 @@
-var mnemonic = "polar melt head detail want fossil august sand cluster meadow monkey embrace";
+var mnemonic = "vast federal until maximum author voyage million valve bunker aware prosper decorate";

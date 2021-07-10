@@ -1,1 +1,1 @@
-var mnemonic = "core barrel donor thank entire chicken mosquito steel crisp rack saddle tower";
+var mnemonic = "hazard appear tired explain glory bag vote kite setup increase notice sail";

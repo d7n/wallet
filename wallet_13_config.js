@@ -1,1 +1,1 @@
-var mnemonic = "feed hand economy road voice burden glory umbrella elite escape hamster maximum";
+var mnemonic = "achieve cupboard nurse trash raccoon chest beef result pink spy fiber orphan";

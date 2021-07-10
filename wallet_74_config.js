@@ -1,1 +1,1 @@
-var mnemonic = "same travel empty this joke forget photo track ability job ring diary";
+var mnemonic = "bless mail air legal rain better budget wise hat bid feel fly";

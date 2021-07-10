@@ -1,1 +1,1 @@
-var mnemonic = "resist zero hand gather table phone time seven injury daughter other churn";
+var mnemonic = "bullet slice garage leopard citizen filter clean hammer power kiwi small law";

@@ -1,1 +1,1 @@
-var mnemonic = "various weapon try alley sunny three unfair sock blue blanket valley arrange";
+var mnemonic = "celery island marriage identify exist whip swear club move sorry december slush";

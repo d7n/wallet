@@ -1,1 +1,1 @@
-var mnemonic = "below immense limit such current place script spawn miracle edit never avocado";
+var mnemonic = "addict farm lemon yard connect giggle foam convince calm notable hen sadness";

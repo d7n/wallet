@@ -1,1 +1,1 @@
-var mnemonic = "crowd coach walk client border learn chicken frequent spot edge shy base";
+var mnemonic = "general guilt clerk increase vendor slim urge mountain symptom upgrade calm accuse";

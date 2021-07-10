@@ -1,1 +1,1 @@
-var mnemonic = "lens smooth uniform unfold pluck drip isolate accuse laundry icon divorce hotel";
+var mnemonic = "liar prosper receive exotic warrior nest stool phone control ankle sunset promote";

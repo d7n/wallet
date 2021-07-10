@@ -1,1 +1,1 @@
-var mnemonic = "box convince lawn drum illegal hope join kidney rate anchor inspire glare";
+var mnemonic = "skill tackle defense climb seminar high weapon quit butter kitchen silk wonder";

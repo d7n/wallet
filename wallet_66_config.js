@@ -1,1 +1,1 @@
-var mnemonic = "style friend divorce dance ostrich surround able leader uncle dice range weasel";
+var mnemonic = "enjoy scrap jeans renew guilt anxiety gaze mind swear refuse allow canoe";

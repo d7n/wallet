@@ -1,1 +1,1 @@
-var mnemonic = "island owner case antenna shoe rabbit home fold damage style spend average";
+var mnemonic = "alone attitude dad leg skirt knife cargo panther abstract medal year city";

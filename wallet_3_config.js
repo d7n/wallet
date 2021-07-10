@@ -1,1 +1,1 @@
-var mnemonic = "unaware vote amateur original law wing dash empty club column element rare";
+var mnemonic = "network awesome output save into cross spin rose basket dog sting feed";

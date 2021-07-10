@@ -1,1 +1,1 @@
-var mnemonic = "bottom feel nuclear develop circle tourist peace satoshi inflict anchor obvious suit";
+var mnemonic = "elder bunker home ceiling brave tonight list brand captain spell diagram afford";

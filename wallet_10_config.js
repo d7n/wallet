@@ -1,1 +1,1 @@
-var mnemonic = "tree appear funny palm van sun skin question image health escape fine";
+var mnemonic = "coach trend member sauce share news gather cage spy awkward pluck pumpkin";

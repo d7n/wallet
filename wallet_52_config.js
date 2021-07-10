@@ -1,1 +1,1 @@
-var mnemonic = "nest interest fitness moment vague glove eager guitar soup cup step speak";
+var mnemonic = "dust merge argue kitten this icon shiver demand phrase grape badge neglect";

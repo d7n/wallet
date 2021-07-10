@@ -1,1 +1,1 @@
-var mnemonic = "recycle misery card holiday token picture scout swift omit mimic side clarify";
+var mnemonic = "exit shock spin pill rebuild frequent ocean hope teach pill able fall";

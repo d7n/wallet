@@ -1,1 +1,1 @@
-var mnemonic = "spring link solution arm antenna load long drift evil crumble jeans visit";
+var mnemonic = "inform modify anger friend army tiny diagram quiz junior fork silk saddle";

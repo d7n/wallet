@@ -1,1 +1,1 @@
-var mnemonic = "laptop glove opinion ahead flag valid exhaust twin smile remove chimney immense";
+var mnemonic = "update teach bless blast dirt canyon chase round jealous aware plate end";

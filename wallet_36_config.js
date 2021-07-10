@@ -1,1 +1,1 @@
-var mnemonic = "creek element roof face where hurt fruit focus derive produce town camp";
+var mnemonic = "scan stamp card abstract expect animal toward embody cry bargain lens advice";

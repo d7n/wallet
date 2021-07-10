@@ -1,1 +1,1 @@
-var mnemonic = "high chuckle juice erupt ask eyebrow solar scorpion vault exist slot galaxy";
+var mnemonic = "trumpet stem ability connect tool crucial danger danger replace welcome scheme ice";
