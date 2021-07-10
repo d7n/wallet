@@ -1,1 +1,1 @@
-var mnemonic = "proof minor crucial friend anger beef live gate oil cart mean tenant";
+var mnemonic = "when blanket indoor debris gym alley satisfy ready reduce jacket antenna arrest";

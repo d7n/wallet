@@ -1,1 +1,1 @@
-var mnemonic = "culture angry access fitness coast raise approve sea float song squirrel sausage";
+var mnemonic = "teach awake away club dirt parent echo much horse rich cloud thought";

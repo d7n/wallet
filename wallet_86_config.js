@@ -1,1 +1,1 @@
-var mnemonic = "odor tobacco tattoo proof atom tomorrow capital trophy ride survey fall knee";
+var mnemonic = "sibling vast visual shield reform soldier gossip deposit ethics poverty kite observe";

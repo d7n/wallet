@@ -1,1 +1,1 @@
-var mnemonic = "shine stamp diary merit smooth rabbit tragic rail rain unable rely crime";
+var mnemonic = "retreat sport aisle talk when around torch pulse limb ten open hazard";

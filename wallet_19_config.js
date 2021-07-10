@@ -1,1 +1,1 @@
-var mnemonic = "valid rude blood helmet planet mouse person chat leopard abstract fury river";
+var mnemonic = "soft hen emotion axis turtle churn then supreme utility reflect dog occur";

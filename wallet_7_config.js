@@ -1,1 +1,1 @@
-var mnemonic = "aim asthma glow name verb episode special nature debris wine road capital";
+var mnemonic = "cement kingdom game aisle sword dove shoe evoke typical vivid glue leave";

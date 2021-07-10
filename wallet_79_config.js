@@ -1,1 +1,1 @@
-var mnemonic = "foam label cricket girl object choose atom dizzy charge game fix metal";
+var mnemonic = "push capable recipe news robust frog boy inform then leaf toast clutch";

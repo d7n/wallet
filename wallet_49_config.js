@@ -1,1 +1,1 @@
-var mnemonic = "void relax lobster vehicle bird bacon extend ahead tenant brisk light inject";
+var mnemonic = "grow suit search select fan hurry nest stereo manage ribbon pave exercise";

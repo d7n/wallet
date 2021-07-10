@@ -1,1 +1,1 @@
-var mnemonic = "action truth mesh alarm gain anger mandate balcony income snow distance mixed";
+var mnemonic = "barely spawn away master mixed cost cloud basic cream fiscal swap more";

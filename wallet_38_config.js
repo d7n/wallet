@@ -1,1 +1,1 @@
-var mnemonic = "chronic moment excite stool royal throw lumber fitness goat crystal age heavy";
+var mnemonic = "ticket shine canvas that salad inflict distance cradle march people reduce grass";

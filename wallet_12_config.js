@@ -1,1 +1,1 @@
-var mnemonic = "month park world pen wheat glare high sail cliff blade sunset put";
+var mnemonic = "term dune early carry weasel biology mechanic perfect design drastic gorilla benefit";

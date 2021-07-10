@@ -1,1 +1,1 @@
-var mnemonic = "endless usual project north error stomach orient never uniform street jelly health";
+var mnemonic = "style friend divorce dance ostrich surround able leader uncle dice range weasel";

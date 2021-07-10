@@ -1,1 +1,1 @@
-var mnemonic = "fork tell youth pet expose long vibrant lounge business thank inquiry danger";
+var mnemonic = "abuse shove section script notice embody heart history uncle more element dog";

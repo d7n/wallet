@@ -1,1 +1,1 @@
-var mnemonic = "grocery advance bunker frequent hollow tonight salmon custom cigar awful sword donkey";
+var mnemonic = "unaware vote amateur original law wing dash empty club column element rare";

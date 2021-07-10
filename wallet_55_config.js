@@ -1,1 +1,1 @@
-var mnemonic = "sister loyal moral print cruel enlist blue tribe isolate confirm permit physical";
+var mnemonic = "uniform witness talk kiss buffalo once team trade stairs emotion web leave";

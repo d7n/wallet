@@ -1,1 +1,1 @@
-var mnemonic = "abandon idea cup leisure radio scrap worth scissors salute pudding upgrade three";
+var mnemonic = "obscure oven noble silly traffic sunset enlist index april wheel genre latin";

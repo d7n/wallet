@@ -1,1 +1,1 @@
-var mnemonic = "dress wire witness salute fabric profit appear fluid inform flip joy caught";
+var mnemonic = "poem shiver north envelope roof inmate hip soldier juice thing hip boy";

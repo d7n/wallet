@@ -1,1 +1,1 @@
-var mnemonic = "between region balcony black crane find shove solid still trend theory reduce";
+var mnemonic = "bus palm oxygen crucial begin drum cross sing casual hen capital change";

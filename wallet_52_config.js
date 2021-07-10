@@ -1,1 +1,1 @@
-var mnemonic = "ill sniff goose upgrade orange desk runway chest pluck hover deliver feature";
+var mnemonic = "nest interest fitness moment vague glove eager guitar soup cup step speak";

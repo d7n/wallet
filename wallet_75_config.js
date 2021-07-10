@@ -1,1 +1,1 @@
-var mnemonic = "chalk amateur wink rubber shrimp balance obvious raccoon punch sorry twenty blue";
+var mnemonic = "bullet enact cable order caught young seven hammer they prosper hazard together";

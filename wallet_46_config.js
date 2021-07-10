@@ -1,1 +1,1 @@
-var mnemonic = "mask crater betray lion animal bullet neck bracket velvet orbit enough hill";
+var mnemonic = "warm name off mandate palm round engage arrive version drink close bronze";

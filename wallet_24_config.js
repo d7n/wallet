@@ -1,1 +1,1 @@
-var mnemonic = "together fragile trigger vote wink visa rebuild enlist gesture fish lawsuit drive";
+var mnemonic = "token quantum add poem tag few marble hello easy hazard crater seat";

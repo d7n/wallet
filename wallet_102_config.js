@@ -1,1 +1,1 @@
-var mnemonic = "dance matter guitar total cargo paper spoon grab trim strong dolphin pistol";
+var mnemonic = "trophy cancel among endless fan tenant trip tobacco else goose uncle object";

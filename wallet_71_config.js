@@ -1,1 +1,1 @@
-var mnemonic = "rally crowd mom elegant entire photo village salad six all tuition behind";
+var mnemonic = "dinner raven sick urban kangaroo first neglect raven measure atom habit canal";

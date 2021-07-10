@@ -1,1 +1,1 @@
-var mnemonic = "alert blind sight deposit sea drop veteran excuse deputy magic witness spoil";
+var mnemonic = "catalog vital olympic armor actor among venue gym mother blur bind cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "major nuclear sheriff fox try beauty recycle forward film inhale fiction reform";
+var mnemonic = "leopard crawl glimpse strike twist you first believe orient exclude awkward emerge";

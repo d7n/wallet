@@ -1,1 +1,1 @@
-var mnemonic = "lottery diesel deposit output amused chronic recall record olympic deny palm toss";
+var mnemonic = "raise guide game insect scale world parade liar group pig tired damp";

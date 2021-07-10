@@ -1,1 +1,1 @@
-var mnemonic = "mother transfer much member zoo lady above easy arctic swing purse accident";
+var mnemonic = "tree appear funny palm van sun skin question image health escape fine";

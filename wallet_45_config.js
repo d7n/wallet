@@ -1,1 +1,1 @@
-var mnemonic = "mother burden into tunnel squeeze news owner mountain bag celery tourist arena";
+var mnemonic = "impulse enemy kitchen juice session cart mixture quality call walk insect broccoli";

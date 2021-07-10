@@ -1,1 +1,1 @@
-var mnemonic = "season slice tumble example income explain wink matrix decide feature chest finish";
+var mnemonic = "lens smooth uniform unfold pluck drip isolate accuse laundry icon divorce hotel";

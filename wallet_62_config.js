@@ -1,1 +1,1 @@
-var mnemonic = "sand win problem smooth frequent size run gym tribe shuffle famous neither";
+var mnemonic = "prepare anger dizzy concert august empty replace reveal business vote paddle odor";

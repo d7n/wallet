@@ -1,1 +1,1 @@
-var mnemonic = "fence buddy height sponsor end tilt abuse urban prefer imitate jeans diesel";
+var mnemonic = "oak flock dish derive ginger torch recipe flame inspire sand ivory maple";

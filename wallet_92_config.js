@@ -1,1 +1,1 @@
-var mnemonic = "direct black trend alien spread tell thunder cluster mercy hospital embark pig";
+var mnemonic = "task ice tonight correct slush banner safe forget want warfare film title";

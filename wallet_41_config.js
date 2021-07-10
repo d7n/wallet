@@ -1,1 +1,1 @@
-var mnemonic = "one federal grocery sausage live skirt mystery crew wool flip giggle cousin";
+var mnemonic = "below immense limit such current place script spawn miracle edit never avocado";

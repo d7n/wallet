@@ -1,1 +1,1 @@
-var mnemonic = "plastic domain blouse essay rebel weapon confirm medal alley shuffle any wait";
+var mnemonic = "feed hand economy road voice burden glory umbrella elite escape hamster maximum";

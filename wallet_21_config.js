@@ -1,1 +1,1 @@
-var mnemonic = "medal giant scan capital nurse wide table original knife dragon pony embark";
+var mnemonic = "spring link solution arm antenna load long drift evil crumble jeans visit";

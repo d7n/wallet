@@ -1,1 +1,1 @@
-var mnemonic = "woman east street scorpion oyster exclude ask hire lion law tone slide";
+var mnemonic = "security day gap quiz chicken history rice radar cube bronze garlic lava";

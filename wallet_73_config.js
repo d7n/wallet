@@ -1,1 +1,1 @@
-var mnemonic = "shallow accuse deputy live forum response cause decade input mean estate pair";
+var mnemonic = "term gain push leisure bird inquiry globe sunset frame volume deer jealous";

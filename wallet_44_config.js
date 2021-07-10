@@ -1,1 +1,1 @@
-var mnemonic = "nothing crack cram spin nominee fit portion phrase upon burger neutral bag";
+var mnemonic = "across empty fiction seven jacket thumb avoid portion slogan rice venture doll";

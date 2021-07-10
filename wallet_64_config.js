@@ -1,1 +1,1 @@
-var mnemonic = "viable shoulder toss simple buffalo giraffe write lounge problem midnight vibrant tree";
+var mnemonic = "box convince lawn drum illegal hope join kidney rate anchor inspire glare";

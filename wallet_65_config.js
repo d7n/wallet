@@ -1,1 +1,1 @@
-var mnemonic = "peace unhappy inhale curve fabric master symptom manual symbol category smile filter";
+var mnemonic = "butter unfold village town assume chunk digital enroll swear coin detail review";

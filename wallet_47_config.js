@@ -1,1 +1,1 @@
-var mnemonic = "salad energy warfare neither often butter work sword pistol trend name police";
+var mnemonic = "bench quiz tattoo cereal muffin ship sing plate shine horn shine obscure";

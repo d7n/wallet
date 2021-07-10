@@ -1,1 +1,1 @@
-var mnemonic = "legal claw around renew thought engine happy exotic sock virus lunar sword";
+var mnemonic = "sudden jump issue obtain bunker valve rubber exchange yard pill home corn";

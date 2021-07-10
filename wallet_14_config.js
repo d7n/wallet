@@ -1,1 +1,1 @@
-var mnemonic = "lesson abuse rocket actual village keen ride vital panther host say welcome";
+var mnemonic = "kid slam push supply oxygen common print wheel display work sense oak";

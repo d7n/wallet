@@ -1,1 +1,1 @@
-var mnemonic = "segment urban erosion mind source oak gold mosquito upgrade magic brass because";
+var mnemonic = "tank subject firm thrive luxury elevator aunt segment ankle cruise dinner super";

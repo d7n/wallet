@@ -1,1 +1,1 @@
-var mnemonic = "noble echo only fluid wasp please assault poet sound labor stone vacuum";
+var mnemonic = "devote pole bonus cream glue bring humble friend bulk spend best salute";

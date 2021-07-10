@@ -1,1 +1,1 @@
-var mnemonic = "couple clever system outdoor flock jar negative task grain banner motor wreck";
+var mnemonic = "copper aware glare glance myself elephant lock gather umbrella wire feature pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery arrow transfer hope bunker dentist pig worth civil nothing degree vibrant";
+var mnemonic = "polar melt head detail want fossil august sand cluster meadow monkey embrace";

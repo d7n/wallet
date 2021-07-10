@@ -1,1 +1,1 @@
-var mnemonic = "second vehicle fit daughter chase describe embark raw subway solid tattoo jewel";
+var mnemonic = "pig demand quality demise area pull axis fall behave minor toast reward";

@@ -1,1 +1,1 @@
-var mnemonic = "legal business field robust tone nasty clever involve tennis over pizza impact";
+var mnemonic = "flag consider text fortune ceiling coil stone tattoo coast away battle squirrel";

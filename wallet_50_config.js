@@ -1,1 +1,1 @@
-var mnemonic = "shift embark estate noble sentence spoon acid pony target earn ready abuse";
+var mnemonic = "adult memory review myth predict sphere concert blind will entire hotel obvious";

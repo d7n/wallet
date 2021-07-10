@@ -1,1 +1,1 @@
-var mnemonic = "cross street maid piano venture aim position rescue range enroll hurry seed";
+var mnemonic = "candy puppy chuckle message disagree veteran slice infant wall denial churn venture";

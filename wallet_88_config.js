@@ -1,1 +1,1 @@
-var mnemonic = "brave eternal ostrich pole again sing ticket service vanish rug idle fly";
+var mnemonic = "laptop glove opinion ahead flag valid exhaust twin smile remove chimney immense";

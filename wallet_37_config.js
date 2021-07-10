@@ -1,1 +1,1 @@
-var mnemonic = "viable average close explain setup minor lumber subway elegant town brave advice";
+var mnemonic = "giant grief reunion hospital shield rough laptop crack tobacco damp avocado portion";

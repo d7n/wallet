@@ -1,1 +1,1 @@
-var mnemonic = "middle odor process bomb notable symbol hat spawn law spirit crowd title";
+var mnemonic = "deny lemon begin chaos speak poet acquire voice banana ancient scene valid";

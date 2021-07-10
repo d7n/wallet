@@ -1,1 +1,1 @@
-var mnemonic = "naive rebuild torch play blast coral normal ostrich hedgehog region brown eyebrow";
+var mnemonic = "creek element roof face where hurt fruit focus derive produce town camp";

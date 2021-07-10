@@ -1,1 +1,1 @@
-var mnemonic = "knock nature call result jeans clarify buyer phone endless guilt this garden";
+var mnemonic = "mirror reason pond drink snap monster prefer verb defy audit switch coin";

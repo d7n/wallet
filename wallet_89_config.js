@@ -1,1 +1,1 @@
-var mnemonic = "crowd hole planet lawsuit dry shock route action bind emerge rabbit blade";
+var mnemonic = "spot arrest rhythm pill tuition entire able spin deer tube wasp pistol";

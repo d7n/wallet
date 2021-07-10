@@ -1,1 +1,1 @@
-var mnemonic = "fiscal stumble turtle assist need scene dash always assist below coast stove";
+var mnemonic = "rely purpose scatter crash announce bridge fiscal audit lift rich wide lab";

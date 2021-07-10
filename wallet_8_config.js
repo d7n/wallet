@@ -1,1 +1,1 @@
-var mnemonic = "swear when lock minor jazz invest mind cattle school frog monster display";
+var mnemonic = "snap matrix large dish vivid economy despair sister banner bike question idle";

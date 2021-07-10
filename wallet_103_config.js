@@ -1,1 +1,1 @@
-var mnemonic = "sketch symbol left cross virus lens curve pulse service cinnamon glide average";
+var mnemonic = "ladder swamp camera dismiss civil mind wing mountain travel control pipe mind";

@@ -1,1 +1,1 @@
-var mnemonic = "blush glare display mimic naive supreme hunt resource explain lottery position fire";
+var mnemonic = "sheriff equal vivid pulp wear muffin gloom tone damage submit feel bundle";

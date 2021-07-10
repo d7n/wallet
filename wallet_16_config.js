@@ -1,1 +1,1 @@
-var mnemonic = "family ride spawn burger exchange rail whip harvest movie fox talent reunion";
+var mnemonic = "label into guitar leave image essay inner aspect lunch world shine buddy";

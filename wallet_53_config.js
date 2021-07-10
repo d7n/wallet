@@ -1,1 +1,1 @@
-var mnemonic = "chronic bargain mistake analyst scout juice reveal evoke dove rain jar social";
+var mnemonic = "buffalo enact vehicle close giraffe profit creek pupil end seat track injury";

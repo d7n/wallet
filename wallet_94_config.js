@@ -1,1 +1,1 @@
-var mnemonic = "together essence half enjoy oval phone rose theory art spend brick glue";
+var mnemonic = "allow either inquiry glue world mango task caution fantasy rent auto ten";

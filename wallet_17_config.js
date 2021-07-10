@@ -1,1 +1,1 @@
-var mnemonic = "flock ill huge during attack tiger weasel master stand rent trigger nasty";
+var mnemonic = "silent health van candy witness march execute cinnamon stomach shallow fiscal capital";

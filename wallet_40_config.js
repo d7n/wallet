@@ -1,1 +1,1 @@
-var mnemonic = "snap negative leg craft blush frozen clock olympic position club uncle attend";
+var mnemonic = "stool shuffle bicycle loop tomorrow summer frost ring tongue nothing senior cherry";

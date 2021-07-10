@@ -1,1 +1,1 @@
-var mnemonic = "water sugar wrist rent another measure pact stamp snow grief ribbon winter";
+var mnemonic = "shaft sibling forest mixed wreck orbit element ivory payment vault size measure";

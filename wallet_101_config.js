@@ -1,1 +1,1 @@
-var mnemonic = "brain legend bind flat vivid energy better recycle element emerge cost toilet";
+var mnemonic = "cactus reveal popular hill strong clap onion heart jewel twice grab loan";

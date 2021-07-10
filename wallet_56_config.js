@@ -1,1 +1,1 @@
-var mnemonic = "focus such detail report below foot daring risk bleak boil tool degree";
+var mnemonic = "cherry improve lemon trend jealous hill below tired crowd denial fortune sing";

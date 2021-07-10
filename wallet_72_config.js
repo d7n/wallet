@@ -1,1 +1,1 @@
-var mnemonic = "film basic wife inspire direct glimpse crucial dentist sound very hunt okay";
+var mnemonic = "recycle misery card holiday token picture scout swift omit mimic side clarify";

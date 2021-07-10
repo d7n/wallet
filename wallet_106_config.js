@@ -1,1 +1,1 @@
-var mnemonic = "review conduct pond render rather rhythm mind ivory survey buffalo laundry design";
+var mnemonic = "feed exile protect resource moment source ability upon current cube grit buyer";

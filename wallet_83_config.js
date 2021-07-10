@@ -1,1 +1,1 @@
-var mnemonic = "clump amount mind meat clip gap truck ancient cry steel wasp ocean";
+var mnemonic = "bottom feel nuclear develop circle tourist peace satoshi inflict anchor obvious suit";

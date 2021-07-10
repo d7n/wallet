@@ -1,1 +1,1 @@
-var mnemonic = "goose safe weird scissors add cost gather electric frame field sentence pigeon";
+var mnemonic = "midnight country behind blast embark pull shoulder exhaust enforce brand body luggage";

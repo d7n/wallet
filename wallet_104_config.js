@@ -1,1 +1,1 @@
-var mnemonic = "floor unable call museum canvas garden soup gentle pencil subway focus scene";
+var mnemonic = "crowd coach walk client border learn chicken frequent spot edge shy base";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle raw bottom castle skin album soon razor series load wide art";
+var mnemonic = "cross width rice congress rebel fog parent wrong hungry access disorder leopard";

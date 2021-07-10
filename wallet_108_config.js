@@ -1,1 +1,1 @@
-var mnemonic = "grain square wait horse air slender flash barrel good trash cute custom";
+var mnemonic = "pull example virus bird month taxi embrace cancel idle advice spring notable";

@@ -1,1 +1,1 @@
-var mnemonic = "half charge royal people size light unhappy else mobile flower calm frequent";
+var mnemonic = "resist zero hand gather table phone time seven injury daughter other churn";

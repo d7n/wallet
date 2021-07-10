@@ -1,1 +1,1 @@
-var mnemonic = "wonder fabric cram satisfy reunion advance rough file capable always achieve ribbon";
+var mnemonic = "swim minimum circle case material deny virtual reform cheap anchor kiss will";

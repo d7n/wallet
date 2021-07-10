@@ -1,1 +1,1 @@
-var mnemonic = "toy bulb people crumble loyal ship mule patient claw puppy ethics soup";
+var mnemonic = "lady matrix miracle minute faith liar room merit slice social tornado shove";

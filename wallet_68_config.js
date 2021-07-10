@@ -1,1 +1,1 @@
-var mnemonic = "auction label lawn area sure much rice village safe harsh two pyramid";
+var mnemonic = "island owner case antenna shoe rabbit home fold damage style spend average";

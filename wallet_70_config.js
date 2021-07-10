@@ -1,1 +1,1 @@
-var mnemonic = "hawk wash arm decide ship forward find error benefit road decide filter";
+var mnemonic = "various weapon try alley sunny three unfair sock blue blanket valley arrange";

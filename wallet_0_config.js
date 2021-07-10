@@ -1,1 +1,1 @@
-var mnemonic = "route spike tube drill sting budget funny deposit melody prison riot subject";
+var mnemonic = "door trust square abstract maple dirt tree arctic south analyst topple prepare";

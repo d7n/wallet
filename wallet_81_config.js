@@ -1,1 +1,1 @@
-var mnemonic = "thing reduce victory tone gravity thumb thought olympic media fatigue devote public";
+var mnemonic = "attend certain give eager you web huge monitor case hen symptom alter";

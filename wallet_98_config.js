@@ -1,1 +1,1 @@
-var mnemonic = "minute dress tribe cargo derive twin guilt erosion soldier connect nose view";
+var mnemonic = "knee emerge solution ability soda delay retire inquiry stamp genre spot click";

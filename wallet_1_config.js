@@ -1,1 +1,1 @@
-var mnemonic = "grief visa true inspire caught fat select vault above lyrics scale barrel";
+var mnemonic = "high chuckle juice erupt ask eyebrow solar scorpion vault exist slot galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "sail divert jar ladder peasant right cross heart garbage toss century main";
+var mnemonic = "prize claw more auto awake stock innocent fun toe reunion duck debate";

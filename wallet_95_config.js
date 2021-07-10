@@ -1,1 +1,1 @@
-var mnemonic = "over nurse tuna venue local dawn model room predict perfect parrot warrior";
+var mnemonic = "today write cabin wrong blood steel poverty clever already wide often typical";

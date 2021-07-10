@@ -1,1 +1,1 @@
-var mnemonic = "crop stock diesel proof fashion dune topic hen frost recall romance curve";
+var mnemonic = "lonely educate advance typical hen orchard canoe mutual kiss deny debris outer";
