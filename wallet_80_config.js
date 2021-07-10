@@ -1,1 +1,1 @@
-var mnemonic = "video fragile matter oval expire couple syrup maze remind figure mango inner";
+var mnemonic = "lucky hazard fuel memory like else fault few avoid decorate whale meat";

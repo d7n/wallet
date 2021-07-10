@@ -1,1 +1,1 @@
-var mnemonic = "volume throw quarter stairs decide treat disorder buzz noodle traffic any damp";
+var mnemonic = "patrol allow eye barely forum village boss lecture clever cup finish fiber";

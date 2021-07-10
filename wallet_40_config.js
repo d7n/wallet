@@ -1,1 +1,1 @@
-var mnemonic = "cupboard airport parade awful silly boil portion duck thrive prosper butter twist";
+var mnemonic = "decrease fragile gossip miss grow fluid extra ask aspect crowd trial leader";

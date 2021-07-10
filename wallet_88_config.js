@@ -1,1 +1,1 @@
-var mnemonic = "marriage hub melody thrive rib spell margin push slab novel leisure palace";
+var mnemonic = "exact reopen favorite addict clock add trophy garbage book order fuel improve";

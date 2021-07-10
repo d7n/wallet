@@ -1,1 +1,1 @@
-var mnemonic = "horror paper glow ancient oven offer call wash humble pupil fence runway";
+var mnemonic = "unaware rival dentist riot truck congress vanish hold soap index medal giant";

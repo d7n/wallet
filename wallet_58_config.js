@@ -1,1 +1,1 @@
-var mnemonic = "human bunker electric velvet wait frost myth glare autumn fence decrease mail";
+var mnemonic = "mouse usual network mad mouse tomorrow million absent blanket author mouse fit";

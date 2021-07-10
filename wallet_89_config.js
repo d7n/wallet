@@ -1,1 +1,1 @@
-var mnemonic = "method certain cannon segment crush certain grain normal fatal swamp trick snack";
+var mnemonic = "office symbol govern describe hand nut salad bicycle clump picture ridge foam";

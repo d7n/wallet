@@ -1,1 +1,1 @@
-var mnemonic = "divorce stadium spread like uniform mansion rookie piano act drill summer gentle";
+var mnemonic = "property split hedgehog gadget demand stick force order aware rate pave embark";

@@ -1,1 +1,1 @@
-var mnemonic = "trash shoot debate science safe slot taxi orange attract myth useless misery";
+var mnemonic = "project moment garage first bottom action able race enact fashion provide agree";

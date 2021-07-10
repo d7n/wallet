@@ -1,1 +1,1 @@
-var mnemonic = "boss hour route practice exchange beef foot render sibling collect kit mix";
+var mnemonic = "salad cream tribe crop upset worry solution inquiry horse master enter bulk";

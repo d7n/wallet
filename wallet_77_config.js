@@ -1,1 +1,1 @@
-var mnemonic = "candy truly wood knife mixture ceiling woman exact protect slush gadget gold";
+var mnemonic = "shrimp segment ankle bus sea trend lift crime card spray tissue legend";

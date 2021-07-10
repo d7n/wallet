@@ -1,1 +1,1 @@
-var mnemonic = "myth ranch noise stem cricket disagree idle oxygen enlist stadium snake involve";
+var mnemonic = "void social echo opinion minor panda join infant lumber victory struggle awake";

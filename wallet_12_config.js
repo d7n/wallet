@@ -1,1 +1,1 @@
-var mnemonic = "lounge silent gain become mistake begin frost apple alpha elder another north";
+var mnemonic = "flush seek century page guide clump raw reflect spin leave action muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "corn slender napkin hungry ivory receive agree labor praise mule endless frequent";
+var mnemonic = "program quantum foster wrist pave account addict shine autumn minimum capital check";

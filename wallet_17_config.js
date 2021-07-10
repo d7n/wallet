@@ -1,1 +1,1 @@
-var mnemonic = "couch nation cheese catch practice woman wire sleep once gain kite shadow";
+var mnemonic = "scene ticket night index render pupil end sail hazard assault history machine";

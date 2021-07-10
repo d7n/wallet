@@ -1,1 +1,1 @@
-var mnemonic = "about baby clock pelican figure rapid afraid lottery record frown clarify ocean";
+var mnemonic = "anxiety kangaroo lamp prosper version lunar deputy icon uphold cube amateur balcony";

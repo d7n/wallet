@@ -1,1 +1,1 @@
-var mnemonic = "perfect spy depth imitate fashion goddess stairs scout deny maximum address monkey";
+var mnemonic = "panel shadow dirt truck december frost dinner popular rain beef praise license";

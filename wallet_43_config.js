@@ -1,1 +1,1 @@
-var mnemonic = "symptom wrong furnace clarify artwork almost dial square bundle spirit debate page";
+var mnemonic = "race wild tooth wait shop vote idea sniff shrug room spawn ball";

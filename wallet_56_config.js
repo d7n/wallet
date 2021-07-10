@@ -1,1 +1,1 @@
-var mnemonic = "spray inspire addict agent donkey mixed candy melt brisk element grit summer";
+var mnemonic = "brick slam ride lemon renew knife cruise mansion task they cinnamon wine";

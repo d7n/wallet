@@ -1,1 +1,1 @@
-var mnemonic = "confirm fox major source saddle clip crazy attract narrow swear goose paper";
+var mnemonic = "pool hard dwarf essay oak enemy zoo lecture tumble other biology way";

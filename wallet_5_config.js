@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lucky merge office master boil cook sign three force shrimp face";
+var mnemonic = "file useless cradle wire choose oil escape deputy put faith vote cheap";

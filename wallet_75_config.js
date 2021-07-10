@@ -1,1 +1,1 @@
-var mnemonic = "delay seek select favorite visit december hill circle enrich spot oil during";
+var mnemonic = "innocent sell supreme indicate awful inmate combine stamp sorry penalty jazz blame";

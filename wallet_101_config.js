@@ -1,1 +1,1 @@
-var mnemonic = "head play cricket fiction eight become mechanic miracle elevator utility about oval";
+var mnemonic = "cabbage ginger modify ritual engage net female million laundry rib guitar congress";

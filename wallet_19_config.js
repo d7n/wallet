@@ -1,1 +1,1 @@
-var mnemonic = "fortune balcony powder found deliver enter win sibling moon screen sick future";
+var mnemonic = "skill glory wave trip prize live sound vacuum bacon tool issue wish";

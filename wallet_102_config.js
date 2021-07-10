@@ -1,1 +1,1 @@
-var mnemonic = "crazy bundle close wall march brave decorate peace inmate gossip truly predict";
+var mnemonic = "intact accuse kiss green glare expose real release crane raise base crack";

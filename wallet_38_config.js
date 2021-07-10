@@ -1,1 +1,1 @@
-var mnemonic = "ecology any cross this check segment gentle click polar tower scale grit";
+var mnemonic = "voice phone culture rain gloom marriage clinic goddess depend donkey age night";

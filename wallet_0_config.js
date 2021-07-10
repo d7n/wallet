@@ -1,1 +1,1 @@
-var mnemonic = "define bike gasp cinnamon jar bulk victory earn width material confirm file";
+var mnemonic = "emotion galaxy often sibling armed umbrella speak velvet nest hidden enroll kick";

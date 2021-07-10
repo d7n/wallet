@@ -1,1 +1,1 @@
-var mnemonic = "expire torch prepare modify panther raw phone peasant divert poem wish humble";
+var mnemonic = "arrest biology hand seven defy eye robust release panic rail puppy garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis river obvious fork mistake follow girl possible drum leave doll unable";
+var mnemonic = "virtual gold hole powder exotic recall junk print globe immune claim trumpet";

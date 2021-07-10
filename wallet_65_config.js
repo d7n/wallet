@@ -1,1 +1,1 @@
-var mnemonic = "soldier change subway party cave pet stove bubble basket stone street sausage";
+var mnemonic = "grain pistol prison apology bitter ghost engine black lend leader exchange drama";

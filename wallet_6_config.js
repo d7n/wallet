@@ -1,1 +1,1 @@
-var mnemonic = "inflict age annual cup syrup story regret butter solution slim olympic victory";
+var mnemonic = "inside main toddler garbage mercy quantum orbit tape pig main next birth";

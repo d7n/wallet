@@ -1,1 +1,1 @@
-var mnemonic = "harsh town someone all that drastic extra work eternal youth mixture print";
+var mnemonic = "garage ready home jump level fog merit fit length leader wash section";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer auto arm behave jar pool fly embrace elegant radio biology fatal";
+var mnemonic = "auction region anchor route ask film solar enter amateur voice trust obscure";

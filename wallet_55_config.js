@@ -1,1 +1,1 @@
-var mnemonic = "east can walnut blur federal estate fever elevator regret weasel lyrics property";
+var mnemonic = "super awful seat same zoo dizzy still click party deer collect afraid";

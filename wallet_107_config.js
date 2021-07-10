@@ -1,1 +1,1 @@
-var mnemonic = "ride author print expire enlist frame cancel fringe glide reopen conduct donor";
+var mnemonic = "seat clutch fluid puzzle wink rabbit anger peace kidney myself sphere load";

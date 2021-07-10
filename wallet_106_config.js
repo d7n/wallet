@@ -1,1 +1,1 @@
-var mnemonic = "family execute modify please slice pair hospital stage bind truth film element";
+var mnemonic = "final match whisper market vehicle sugar bargain thing engage artwork sausage escape";

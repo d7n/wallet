@@ -1,1 +1,1 @@
-var mnemonic = "nurse finish junior gain grant bronze beef purchase shield dune drum smoke";
+var mnemonic = "early badge village report uncover shoe bone version arrow talk morning easily";

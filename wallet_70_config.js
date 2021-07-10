@@ -1,1 +1,1 @@
-var mnemonic = "tree mobile vehicle jeans tourist car orbit angle wire erase carbon wealth";
+var mnemonic = "plate cabbage program damp order laundry run result journey dirt leave similar";

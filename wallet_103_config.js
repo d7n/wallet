@@ -1,1 +1,1 @@
-var mnemonic = "athlete tonight intact guard science nose amount course doll excess ethics come";
+var mnemonic = "denial author cattle awful radar athlete bone struggle scare relax chase trap";

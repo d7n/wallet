@@ -1,1 +1,1 @@
-var mnemonic = "proud save garlic rabbit waste pass note copper hip shallow mechanic brush";
+var mnemonic = "glare tail cause solution quantum found adapt tiger yellow inside hill memory";

@@ -1,1 +1,1 @@
-var mnemonic = "crater jelly bridge lyrics side phone rug rack duck collect injury sunset";
+var mnemonic = "differ already volume cave meadow cave worry pupil easily wedding six lizard";

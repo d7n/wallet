@@ -1,1 +1,1 @@
-var mnemonic = "result chapter wheat globe story buddy bind sort quote aunt panel quit";
+var mnemonic = "gospel lock faith boil mechanic struggle buzz media arrest victory reunion giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "you oxygen alone system leopard car simple reflect later pulse beef habit";
+var mnemonic = "eager boy hope fine muscle web neutral recall flag tape leg test";

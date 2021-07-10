@@ -1,1 +1,1 @@
-var mnemonic = "tourist recipe local genre area shoe tissue bone throw assault elbow lizard";
+var mnemonic = "dune maximum ahead base announce matrix enroll unhappy exhaust quick soda rigid";

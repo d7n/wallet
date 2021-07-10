@@ -1,1 +1,1 @@
-var mnemonic = "cube proof engine hedgehog swear pudding company tumble flush fox intact scissors";
+var mnemonic = "distance angle bachelor panda climb salt life faith hint antique praise hello";

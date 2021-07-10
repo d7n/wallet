@@ -1,1 +1,1 @@
-var mnemonic = "direct weather labor earn priority toy quantum amazing rich what clap drastic";
+var mnemonic = "mountain pole number title poet cart cake betray umbrella armed behind shrug";

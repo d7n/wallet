@@ -1,1 +1,1 @@
-var mnemonic = "chief birth mansion citizen country giant warm elite affair track wait someone";
+var mnemonic = "cause say minimum again verify copy dune depart parent month depth tone";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke tell bargain immune process cake opinion celery broccoli cause sleep ripple";
+var mnemonic = "orchard win better silk joy ski sibling crucial old deposit resource decline";

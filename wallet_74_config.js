@@ -1,1 +1,1 @@
-var mnemonic = "champion large antenna entire cabbage cheap kiwi box sand cash obscure curtain";
+var mnemonic = "betray rain van inspire liar february uncover love cycle hero dolphin demand";

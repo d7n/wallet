@@ -1,1 +1,1 @@
-var mnemonic = "dwarf surface few boy practice tree future connect logic device else farm";
+var mnemonic = "hurt glory age put admit knee guitar mention wage art object various";

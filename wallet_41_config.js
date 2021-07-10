@@ -1,1 +1,1 @@
-var mnemonic = "pipe because south protect pear shield misery warfare main dove text couch";
+var mnemonic = "pink brother gain video initial city where search vault upper exchange secret";

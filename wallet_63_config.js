@@ -1,1 +1,1 @@
-var mnemonic = "arena bar quote donkey charge soft float undo early pattern item imitate";
+var mnemonic = "humor decade lend cable include lottery save initial endorse flip squeeze defense";

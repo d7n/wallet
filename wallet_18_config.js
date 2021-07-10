@@ -1,1 +1,1 @@
-var mnemonic = "adjust same story layer perfect opinion obtain narrow place gain loop announce";
+var mnemonic = "disease shrimp blood elder human bird combine spare two walk tissue arctic";

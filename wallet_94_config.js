@@ -1,1 +1,1 @@
-var mnemonic = "mind vault order six purity knee rule salt valid primary lesson luxury";
+var mnemonic = "wrestle kiwi charge warfare sleep suffer problem traffic minor parrot twin broken";

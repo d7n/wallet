@@ -1,1 +1,1 @@
-var mnemonic = "casino kid piece shift seat prosper glare spice wrist guilt news green";
+var mnemonic = "twice judge build energy wait speed trade various omit duck behave outer";

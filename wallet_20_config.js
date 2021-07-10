@@ -1,1 +1,1 @@
-var mnemonic = "rain crazy ocean filter turtle offer whale bargain push category lake fat";
+var mnemonic = "border machine life float solve rebuild bean version stem asset pill swarm";

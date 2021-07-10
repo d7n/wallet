@@ -1,1 +1,1 @@
-var mnemonic = "neither ladder man churn pig spawn disorder sock rebuild kind accident kick";
+var mnemonic = "hope relax spread hill bronze cheap student uncle off sunny rib cradle";

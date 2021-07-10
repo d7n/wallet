@@ -1,1 +1,1 @@
-var mnemonic = "neutral buffalo slush blossom because liberty veteran eight trial toss always ladder";
+var mnemonic = "annual ecology same school opinion chef laundry tornado bounce grace polar faint";

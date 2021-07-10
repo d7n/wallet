@@ -1,1 +1,1 @@
-var mnemonic = "trend struggle path fringe crawl slight confirm neglect appear dilemma wave jealous";
+var mnemonic = "always detect mind pride palace reward point opera alarm empty warfare universe";

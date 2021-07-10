@@ -1,1 +1,1 @@
-var mnemonic = "faith ramp little jelly fabric guide radar odor cloud real write apology";
+var mnemonic = "kick vivid hobby witness evoke olive fluid ladder voyage couple fall smooth";

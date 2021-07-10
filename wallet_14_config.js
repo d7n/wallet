@@ -1,1 +1,1 @@
-var mnemonic = "swallow cradle knee special knock pudding boss bundle fit fan trade cherry";
+var mnemonic = "spread genre dust wonder tiger cram defy check repeat upset shield bar";

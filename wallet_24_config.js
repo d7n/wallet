@@ -1,1 +1,1 @@
-var mnemonic = "brisk parrot alter heavy change cable scan fan drill chef transfer example";
+var mnemonic = "cradle ring person collect file route answer ugly cigar because toilet river";

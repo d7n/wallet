@@ -1,1 +1,1 @@
-var mnemonic = "chunk sound apart dismiss carry response want balance midnight simple trip state";
+var mnemonic = "jelly fashion hill gentle result collect car coral hint cause saddle install";

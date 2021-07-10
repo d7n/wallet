@@ -1,1 +1,1 @@
-var mnemonic = "vote remain hurry rigid thunder dirt gap wall detail sting crouch pear";
+var mnemonic = "present distance survey guess manual dry excite unique fetch romance robot green";

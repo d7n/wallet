@@ -1,1 +1,1 @@
-var mnemonic = "genius private stone sick dose bag solve wear bounce increase purity payment";
+var mnemonic = "gym combine answer woman category hand inside dragon aspect column fluid push";

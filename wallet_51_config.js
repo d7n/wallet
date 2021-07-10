@@ -1,1 +1,1 @@
-var mnemonic = "miss clever mammal health immune search bicycle north cactus resource turtle aerobic";
+var mnemonic = "peasant spice pulp police size number renew master blossom rain fall palace";

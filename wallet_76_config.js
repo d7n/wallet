@@ -1,1 +1,1 @@
-var mnemonic = "ketchup shoe wheat balcony gun square figure nephew finger build uncle box";
+var mnemonic = "cover speak pulp job real brush actress glove blur poet certain what";

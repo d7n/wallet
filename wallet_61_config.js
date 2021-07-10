@@ -1,1 +1,1 @@
-var mnemonic = "defense orchard debris monster pony best sunset stove brand notable video squirrel";
+var mnemonic = "crazy limit mad disease future million gasp burger draft bubble album foot";

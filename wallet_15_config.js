@@ -1,1 +1,1 @@
-var mnemonic = "evoke this seminar author echo paddle side service carry stumble letter ladder";
+var mnemonic = "ask play kitten flight monitor feed rapid danger stand glance antenna cradle";

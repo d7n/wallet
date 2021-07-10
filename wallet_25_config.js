@@ -1,1 +1,1 @@
-var mnemonic = "error dwarf nurse polar bargain load peanut thing spin police wink noble";
+var mnemonic = "mutual acquire visual glide token conduct vivid dish valid catalog rival gasp";

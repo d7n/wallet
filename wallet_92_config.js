@@ -1,1 +1,1 @@
-var mnemonic = "umbrella defy butter pilot bus fossil repeat owner rapid blanket idle flee";
+var mnemonic = "garbage such suit curious jacket hammer broken spend power logic toy balance";

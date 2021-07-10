@@ -1,1 +1,1 @@
-var mnemonic = "execute exhaust census all need toddler copper proof area float common nurse";
+var mnemonic = "illegal grape marine bundle human season crane pride produce evidence wheel punch";

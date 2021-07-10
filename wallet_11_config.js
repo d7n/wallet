@@ -1,1 +1,1 @@
-var mnemonic = "ball unusual involve dry spirit gravity decade offer dragon diesel bunker claim";
+var mnemonic = "typical clap media bag behave nest armor prosper flavor load fresh chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon glad law cheese room neither lizard kid clown recall pledge scatter";
+var mnemonic = "save fit rule sort lonely public oak cup unusual exit actor need";

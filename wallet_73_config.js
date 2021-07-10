@@ -1,1 +1,1 @@
-var mnemonic = "tone debris peasant north mystery cherry robot frost hurt helmet file disagree";
+var mnemonic = "hamster attract push rapid crucial relax flame net transfer jeans merit dismiss";

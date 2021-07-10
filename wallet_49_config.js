@@ -1,1 +1,1 @@
-var mnemonic = "enrich puppy stuff tunnel salt alcohol acquire online cable sorry only middle";
+var mnemonic = "concert knife fashion motor betray field wheat wealth present dizzy choice between";

@@ -1,1 +1,1 @@
-var mnemonic = "chief upgrade dice narrow expand rescue local tooth student depend deal dutch";
+var mnemonic = "ten illness youth funny camp dentist pattern abstract yellow trouble group picnic";

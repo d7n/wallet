@@ -1,1 +1,1 @@
-var mnemonic = "scene error around century bunker meat battle amazing range sniff company alcohol";
+var mnemonic = "kite hero okay common credit apple obtain cradle will banana idle stamp";

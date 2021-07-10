@@ -1,1 +1,1 @@
-var mnemonic = "analyst road puzzle dragon pistol sense history critic never floor kind silly";
+var mnemonic = "depth lawn gain manage visa spring dial aware absurd blanket option uncle";

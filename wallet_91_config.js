@@ -1,1 +1,1 @@
-var mnemonic = "patrol save wish shed whisper camp assault tonight forum fish comfort stage";
+var mnemonic = "blood radar three squirrel camera glance scene auto meadow coast person rigid";

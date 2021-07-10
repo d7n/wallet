@@ -1,1 +1,1 @@
-var mnemonic = "fat word almost reward cargo click moon claim hundred globe vital assist";
+var mnemonic = "actor hazard puzzle sword destroy edit frame series spider small combine chunk";

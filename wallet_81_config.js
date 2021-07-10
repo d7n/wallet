@@ -1,1 +1,1 @@
-var mnemonic = "clock bridge mean hurdle myself fan veteran carry smooth dynamic enroll clean";
+var mnemonic = "require spy toast wisdom episode kidney phrase priority prize leave ginger immense";

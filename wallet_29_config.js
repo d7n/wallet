@@ -1,1 +1,1 @@
-var mnemonic = "nothing slam vanish pool deposit canvas pyramid labor cable common chest squeeze";
+var mnemonic = "youth still system total sustain coach entry pave detect cactus girl violin";

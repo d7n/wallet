@@ -1,1 +1,1 @@
-var mnemonic = "laptop head resist pizza advance size dolphin together cycle more wolf peanut";
+var mnemonic = "boy tell hold cattle soup ivory matrix gym retire mimic rescue silly";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle promote carry end erupt south person obey pottery grocery churn virus";
+var mnemonic = "trim sunny decline cat august afford energy two exile rigid special bargain";

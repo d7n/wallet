@@ -1,1 +1,1 @@
-var mnemonic = "phone visit unusual strategy crystal icon census digital age embark bone discover";
+var mnemonic = "end stable orbit know device radio refuse shadow you alone animal distance";

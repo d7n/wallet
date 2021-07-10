@@ -1,1 +1,1 @@
-var mnemonic = "coast cinnamon allow sign boring rate puzzle insect melt intact load cook";
+var mnemonic = "orphan witness assist wing nut spot coconut work proof possible sense grid";

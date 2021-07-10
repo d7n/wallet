@@ -1,1 +1,1 @@
-var mnemonic = "pluck can coyote nephew betray absorb marble expand lobster rely vicious power";
+var mnemonic = "bunker pulse famous middle summer offer similar earth alcohol width neck envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo learn atom destroy object isolate lemon sting stage slide feature ramp";
+var mnemonic = "team glance duck acquire alone rabbit obey draw invest tiger globe portion";

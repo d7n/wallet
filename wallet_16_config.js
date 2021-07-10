@@ -1,1 +1,1 @@
-var mnemonic = "enact biology hazard clinic core cave bag enlist gap winter primary game";
+var mnemonic = "hen city high wonder horn zone above cram then photo unknown juice";

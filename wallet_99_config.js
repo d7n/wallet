@@ -1,1 +1,1 @@
-var mnemonic = "tilt mango term route comic pitch naive renew swing bunker secret almost";
+var mnemonic = "gospel scatter foam process sock north excess tornado rice sun excite eye";

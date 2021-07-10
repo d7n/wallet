@@ -1,1 +1,1 @@
-var mnemonic = "basket coach outdoor solution grief about wonder skin quality wing fatal van";
+var mnemonic = "birth clown marriage creek trial urge elegant window aware expand snap cram";

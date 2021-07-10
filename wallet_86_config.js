@@ -1,1 +1,1 @@
-var mnemonic = "ceiling galaxy hover marriage split dwarf again sing merry truly fashion bounce";
+var mnemonic = "bring arena marine suffer chuckle critic toilet pyramid sock amazing grace depth";

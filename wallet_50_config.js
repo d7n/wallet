@@ -1,1 +1,1 @@
-var mnemonic = "visual fancy local oblige matter close consider mask strong ticket beach damp";
+var mnemonic = "gallery night satisfy office game sudden assume sadness blouse dizzy allow soon";

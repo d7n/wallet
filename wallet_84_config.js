@@ -1,1 +1,1 @@
-var mnemonic = "noble width opera proof acquire amount mouse laundry shrug brown matrix major";
+var mnemonic = "youth woman dance census school circle funny equip chronic increase bar subject";
