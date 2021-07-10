@@ -1,1 +1,1 @@
-var mnemonic = "sibling decide clip define stadium crisp alert usage soap shrimp market color";
+var mnemonic = "diet desert audit fat idle option mountain air notable blade clown veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk leaf rely damage seed casual charge tree canvas tape raccoon small";
+var mnemonic = "wear path page twenty scare van index eight cricket dune own believe";

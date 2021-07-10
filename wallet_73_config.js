@@ -1,1 +1,1 @@
-var mnemonic = "august liquid ten gesture hospital lab taste old tent nest minute guard";
+var mnemonic = "second pioneer need good afraid guide cousin woman thumb frog ritual body";

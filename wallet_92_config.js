@@ -1,1 +1,1 @@
-var mnemonic = "fragile steel edit then paper close board cause inquiry celery surprise peace";
+var mnemonic = "visit vocal dash prevent student garbage public erupt tumble level able garden";

@@ -1,1 +1,1 @@
-var mnemonic = "credit kite chaos comic boy slight among wrong shoulder slot best horn";
+var mnemonic = "arrow pilot vehicle drum iron enroll acoustic extra regret invest inherit legend";

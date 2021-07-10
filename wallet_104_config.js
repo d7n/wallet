@@ -1,1 +1,1 @@
-var mnemonic = "century endless eyebrow weapon open bench habit team noise door tired suggest";
+var mnemonic = "employ theme concert need brass tourist guitar road shield come appear tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "glare laugh someone galaxy impose habit crumble curve daughter extend brown flag";
+var mnemonic = "palm swamp clinic tunnel reflect veteran balcony body various shoot frame tired";

@@ -1,1 +1,1 @@
-var mnemonic = "more rice occur tissue crowd despair grunt fitness motor velvet peasant will";
+var mnemonic = "cannon arctic sugar another check arrive struggle pepper focus unique mystery dismiss";

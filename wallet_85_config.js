@@ -1,1 +1,1 @@
-var mnemonic = "area long noodle museum estate fit tent morning theory diamond nose process";
+var mnemonic = "only pull tooth share uncover erupt tumble tunnel glory pole anger file";

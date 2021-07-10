@@ -1,1 +1,1 @@
-var mnemonic = "vital defense jazz nothing appear elder latin crawl jeans hollow pizza grape";
+var mnemonic = "border industry champion frost faint wasp search crawl mixed aware transfer quote";

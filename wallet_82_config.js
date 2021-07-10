@@ -1,1 +1,1 @@
-var mnemonic = "usual resist width floor cricket tribe monster amused trip couch section iron";
+var mnemonic = "copper enhance ball pony habit alarm avocado leave pretty tent grain electric";

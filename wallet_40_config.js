@@ -1,1 +1,1 @@
-var mnemonic = "surface buffalo already steel purchase frame fuel summer winter trim blouse day";
+var mnemonic = "movie enforce slab drop crumble gentle cloth buyer spot bright like almost";

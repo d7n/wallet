@@ -1,1 +1,1 @@
-var mnemonic = "baby all sweet spoon deliver abandon lamp then brief project explain gold";
+var mnemonic = "brass major oblige cargo angle invite armed pioneer aspect blame pencil order";

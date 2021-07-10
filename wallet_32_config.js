@@ -1,1 +1,1 @@
-var mnemonic = "soccer detail fitness orchard anchor decide yellow floor side vendor kite stick";
+var mnemonic = "travel mushroom foam affair spin stumble group shoulder gate parent faith salad";

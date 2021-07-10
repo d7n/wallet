@@ -1,1 +1,1 @@
-var mnemonic = "trash sibling size boost power quick chuckle panda lake tide broom rotate";
+var mnemonic = "gas parade copper strategy marriage indicate pause moment wedding spread harsh virtual";

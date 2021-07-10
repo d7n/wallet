@@ -1,1 +1,1 @@
-var mnemonic = "message lizard virus gallery bread human sail settle iron prevent topic sad";
+var mnemonic = "finish just fruit educate timber dry aunt grow rural taste space edge";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire act shine across funny taxi marriage dirt action crush switch fade";
+var mnemonic = "immense love shadow seven travel media social asset solution scissors glad cluster";

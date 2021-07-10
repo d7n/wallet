@@ -1,1 +1,1 @@
-var mnemonic = "soldier ancient color script oxygen basket spin woman pretty recipe alien tree";
+var mnemonic = "grunt cup cinnamon solve cream sight street bitter frost pledge arrange thank";

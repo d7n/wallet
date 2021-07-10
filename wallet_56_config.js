@@ -1,1 +1,1 @@
-var mnemonic = "gravity dish exchange buddy desert tank stuff update raw buddy drastic battle";
+var mnemonic = "desert column quick cotton bomb pony hen goddess basket cycle beef vague";

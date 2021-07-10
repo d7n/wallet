@@ -1,1 +1,1 @@
-var mnemonic = "border ivory age pretty regret holiday noise ocean cactus fade artefact girl";
+var mnemonic = "melody pool chief math scout bullet never tired diagram royal lift salon";

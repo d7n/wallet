@@ -1,1 +1,1 @@
-var mnemonic = "fit cactus oak suggest sunny scene finish equip double hybrid deal question";
+var mnemonic = "entry radar aspect deny liberty bunker fade card life chunk pair chalk";

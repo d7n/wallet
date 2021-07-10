@@ -1,1 +1,1 @@
-var mnemonic = "true ugly width effort reduce today mule frame twelve strong bind zero";
+var mnemonic = "adult option cheap fat clinic embrace blush alert vacuum early burst doll";

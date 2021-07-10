@@ -1,1 +1,1 @@
-var mnemonic = "toward lab alcohol render afraid soccer ship strategy repeat breeze bid mesh";
+var mnemonic = "example life want turn canoe turkey morning curve dance embody obtain enemy";

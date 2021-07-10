@@ -1,1 +1,1 @@
-var mnemonic = "display useful wagon toddler side replace price depend devote tell around three";
+var mnemonic = "ticket night air guide vacuum choose clutch gallery defense helmet evil sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "amount maple morning lady exhaust barrel silly cliff torch donkey wedding method";
+var mnemonic = "mix actress upgrade crater attract fashion patrol rug cross evolve lawsuit crime";

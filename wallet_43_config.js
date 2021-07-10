@@ -1,1 +1,1 @@
-var mnemonic = "used shiver rocket visit ability refuse oven expose blue bless buddy home";
+var mnemonic = "sword common wise walnut vast toddler link smoke special rice dice gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma wing welcome wasp reduce amount bone escape prevent rebel ball consider";
+var mnemonic = "keep win turtle predict host vibrant jelly warfare travel merge urban busy";

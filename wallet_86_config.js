@@ -1,1 +1,1 @@
-var mnemonic = "own rebuild broken inch journey grace whip hungry indoor news cruel upgrade";
+var mnemonic = "loop mean install cluster assume collect wreck age apple hybrid badge permit";

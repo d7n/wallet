@@ -1,1 +1,1 @@
-var mnemonic = "segment dwarf bless dream monitor noise walk replace clock imitate dutch kite";
+var mnemonic = "stool pelican bright shallow grit latin exile museum jacket sheriff crime fold";

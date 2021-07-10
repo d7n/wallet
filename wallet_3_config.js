@@ -1,1 +1,1 @@
-var mnemonic = "welcome august stem sign shock major kitten venue wealth abandon initial sight";
+var mnemonic = "fish lottery general renew brick month culture start monkey gadget fan kit";

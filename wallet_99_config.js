@@ -1,1 +1,1 @@
-var mnemonic = "inner oyster skirt diary attack shield fluid alien discover glue mail quarter";
+var mnemonic = "pitch future power skirt filter best onion loan surprise muffin spray indicate";

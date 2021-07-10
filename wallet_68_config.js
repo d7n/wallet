@@ -1,1 +1,1 @@
-var mnemonic = "machine coast finger morning eyebrow town nephew churn famous lumber young baby";
+var mnemonic = "income autumn sting before kiwi pave subway witness floor local face elephant";

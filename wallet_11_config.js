@@ -1,1 +1,1 @@
-var mnemonic = "glow book gown extend champion witness thank opinion industry puzzle define dentist";
+var mnemonic = "destroy digital nephew panther lava total job spot fish soda version eight";

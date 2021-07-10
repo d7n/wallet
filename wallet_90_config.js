@@ -1,1 +1,1 @@
-var mnemonic = "laugh dignity bring acquire inherit test ugly luxury thing acid addict bounce";
+var mnemonic = "say nice source bitter choose column belt cream oil between two index";

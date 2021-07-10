@@ -1,1 +1,1 @@
-var mnemonic = "oil swap three today entire minimum connect awesome exact federal effort heavy";
+var mnemonic = "barrel ride human fluid address page slush region barely virtual enlist shrimp";

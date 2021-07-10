@@ -1,1 +1,1 @@
-var mnemonic = "brand aerobic iron sock saddle expire wisdom scrub enroll sad chaos excuse";
+var mnemonic = "trumpet elbow ivory hunt ensure economy undo nice praise hunt nominee tone";

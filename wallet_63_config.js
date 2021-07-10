@@ -1,1 +1,1 @@
-var mnemonic = "deer sketch spawn sand talent chicken sense share label cram day spell";
+var mnemonic = "fork monster way beef leave figure please drum already uphold buddy trial";

@@ -1,1 +1,1 @@
-var mnemonic = "you dad head merit cloth thumb hurdle uncover example disagree remember clock";
+var mnemonic = "canvas coin harbor response coral arena use hotel parade walnut shift journey";

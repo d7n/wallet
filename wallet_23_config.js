@@ -1,1 +1,1 @@
-var mnemonic = "rich expect rose fan fit rack regular congress coin urban lumber primary";
+var mnemonic = "twin fluid master monitor drip moon much example pigeon suit observe glimpse";

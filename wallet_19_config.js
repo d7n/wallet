@@ -1,1 +1,1 @@
-var mnemonic = "expand trend setup october cave math flight sense local cruel imitate behind";
+var mnemonic = "luggage display agent goat erode climb box open honey scatter yellow dance";

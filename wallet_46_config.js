@@ -1,1 +1,1 @@
-var mnemonic = "dress smoke deer live pet they diet lady ring erase teach quiz";
+var mnemonic = "pink industry world seven exclude silver giggle female voice loud ask fringe";

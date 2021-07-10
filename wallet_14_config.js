@@ -1,1 +1,1 @@
-var mnemonic = "tongue price mystery prepare butter uniform play giant orient miracle lesson spread";
+var mnemonic = "distance correct scorpion butter spy sing warm credit save bar puppy kind";

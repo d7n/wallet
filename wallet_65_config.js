@@ -1,1 +1,1 @@
-var mnemonic = "flip solution habit prize invite gift unaware obey attend bleak ride endorse";
+var mnemonic = "drastic chair season rough moment foster hunt crash home flush under learn";

@@ -1,1 +1,1 @@
-var mnemonic = "please grit essay divorce napkin one result filter behind orchard turn expect";
+var mnemonic = "water provide prefer negative team divorce cereal test frame wealth casual float";

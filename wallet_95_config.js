@@ -1,1 +1,1 @@
-var mnemonic = "airport garbage gadget more web oxygen drastic spare early zero busy maximum";
+var mnemonic = "empower sword winter body cute rule artist winner myth wisdom yellow usage";

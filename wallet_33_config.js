@@ -1,1 +1,1 @@
-var mnemonic = "real either sell detail combine shock unable shell tortoise purchase trap elephant";
+var mnemonic = "mule effort nerve gentle bench pencil whisper damp clap slice tree dwarf";

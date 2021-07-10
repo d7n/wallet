@@ -1,1 +1,1 @@
-var mnemonic = "walk token text hazard path wife organ become amateur tissue day illness";
+var mnemonic = "uniform normal exchange mail poem spoil sport speed build relief region north";

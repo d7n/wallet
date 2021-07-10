@@ -1,1 +1,1 @@
-var mnemonic = "monkey fiction faint pottery shed act note cup kingdom collect north olive";
+var mnemonic = "expect skate dynamic enemy brand require grief lucky proof whale purpose replace";

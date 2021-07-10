@@ -1,1 +1,1 @@
-var mnemonic = "antenna primary beef skill capable nose olive stairs hello sail invest crater";
+var mnemonic = "castle little that joke cup science razor catch civil issue rent fix";

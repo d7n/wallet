@@ -1,1 +1,1 @@
-var mnemonic = "wisdom below shield case wrist silver penalty govern begin category item police";
+var mnemonic = "major surround type spatial abuse olympic solution decade develop prefer deal quote";

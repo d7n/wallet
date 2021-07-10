@@ -1,1 +1,1 @@
-var mnemonic = "identify useful maze front fence valve trick unfold reward slow estate brick";
+var mnemonic = "empower wear school enjoy boy swamp this gesture equal boost spot seek";

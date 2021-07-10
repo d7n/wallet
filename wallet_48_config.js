@@ -1,1 +1,1 @@
-var mnemonic = "potato era drama junior rather venture donkey various lounge daughter hamster release";
+var mnemonic = "food someone ramp bridge kitchen absent enjoy ethics fresh clip scout kitchen";

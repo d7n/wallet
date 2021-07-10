@@ -1,1 +1,1 @@
-var mnemonic = "salon earth actual duck modify good calm satisfy suffer sure stand explain";
+var mnemonic = "valve unlock vivid mother first citizen kidney security must seven dance enroll";

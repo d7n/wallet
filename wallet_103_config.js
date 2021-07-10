@@ -1,1 +1,1 @@
-var mnemonic = "invest move belt above damage south teach text shop snow oak forest";
+var mnemonic = "when strong ticket little list basket power attend slim seek tilt daughter";

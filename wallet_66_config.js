@@ -1,1 +1,1 @@
-var mnemonic = "assist crash clutch stem animal language engine embody vanish play program clerk";
+var mnemonic = "drip belt layer hurdle ask resource worry clarify flag relief shaft mutual";

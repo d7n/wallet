@@ -1,1 +1,1 @@
-var mnemonic = "seminar still tomato bulb casino bulk pluck extend toy issue kitten section";
+var mnemonic = "remember disorder also toe kind letter stomach marriage jewel brown mad spring";

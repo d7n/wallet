@@ -1,1 +1,1 @@
-var mnemonic = "slam spot valid neither album sail pear slide final exist wheel between";
+var mnemonic = "chunk choice actress monkey dizzy code practice kiss plate bar village add";

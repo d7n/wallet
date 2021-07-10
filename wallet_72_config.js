@@ -1,1 +1,1 @@
-var mnemonic = "result scene genuine mercy upper hard same waste noble kitchen dinosaur vendor";
+var mnemonic = "exile delay breeze chair rifle produce predict light sorry palace puppy negative";

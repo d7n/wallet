@@ -1,1 +1,1 @@
-var mnemonic = "holiday surprise great hire airport normal force absurd decide major angry split";
+var mnemonic = "sketch decrease camp farm turtle yard venue soon fabric method hub calm";

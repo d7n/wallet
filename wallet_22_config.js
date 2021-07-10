@@ -1,1 +1,1 @@
-var mnemonic = "blade key you art matter stadium yellow into orient divert reflect ridge";
+var mnemonic = "laptop level veteran arena mixed economy gather dust lawn bunker erosion bundle";

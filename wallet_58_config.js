@@ -1,1 +1,1 @@
-var mnemonic = "black hammer need orphan arm flush success bread govern verify ostrich riot";
+var mnemonic = "hidden demand addict live ritual invite impose explain baby solar rabbit immune";

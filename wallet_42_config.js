@@ -1,1 +1,1 @@
-var mnemonic = "chat maximum ugly share topic mushroom pluck absent awesome swallow outside gentle";
+var mnemonic = "deliver wolf next nasty human spend sing banner marine fine wild famous";

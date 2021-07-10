@@ -1,1 +1,1 @@
-var mnemonic = "allow infant crazy refuse case ethics lake child inject switch order twelve";
+var mnemonic = "firm give source bag rate thought ball asthma bulb apple region absurd";

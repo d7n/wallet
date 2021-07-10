@@ -1,1 +1,1 @@
-var mnemonic = "hub swear swear romance drip question fever clump cradle pig ritual urge";
+var mnemonic = "call keen depend ozone true divert artist alcohol reject cube real humor";

@@ -1,1 +1,1 @@
-var mnemonic = "agent team draft test quantum work head correct tool seed harbor random";
+var mnemonic = "grace limit buddy find way know sketch patch canyon record curious sock";

@@ -1,1 +1,1 @@
-var mnemonic = "genre juice test rigid people dinner member submit soccer lunar avoid lyrics";
+var mnemonic = "sheriff unknown frown whisper minor custom stable whisper coyote leopard wild marriage";

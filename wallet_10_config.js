@@ -1,1 +1,1 @@
-var mnemonic = "theory cry drip truth unaware double renew isolate polar maple season inherit";
+var mnemonic = "protect beauty hello dirt opinion sock hero afford grid raw chase snake";

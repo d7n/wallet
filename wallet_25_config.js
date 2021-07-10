@@ -1,1 +1,1 @@
-var mnemonic = "radio romance cement brother test shell snap slam valve comic team host";
+var mnemonic = "skirt decline merry tourist pause fence tomorrow video master august market during";

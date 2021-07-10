@@ -1,1 +1,1 @@
-var mnemonic = "erupt engine sister around lonely canyon vivid pledge potato upgrade aim grid";
+var mnemonic = "swamp off rubber ivory remain laundry banana fringe spider plug mass finish";

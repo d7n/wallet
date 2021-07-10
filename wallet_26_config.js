@@ -1,1 +1,1 @@
-var mnemonic = "tumble rubber knock rail tree suggest shine black correct wreck mad open";
+var mnemonic = "system nuclear dutch resemble kangaroo onion issue deny awesome assume six envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "decade gas wolf still whale paddle yard increase family resource drastic possible";
+var mnemonic = "buzz hen fever uncle casual sweet yellow leisure basket idle bean round";

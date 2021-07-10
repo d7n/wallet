@@ -1,1 +1,1 @@
-var mnemonic = "attend install supply rail best nice cupboard pumpkin false win cabin design";
+var mnemonic = "what police profit race pyramid capable kid law cherry butter squeeze angle";

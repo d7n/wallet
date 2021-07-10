@@ -1,1 +1,1 @@
-var mnemonic = "large differ asthma hub trip dolphin stage sphere diet fatigue female sign";
+var mnemonic = "employ hard cousin train drama valve soul marble elephant great during setup";

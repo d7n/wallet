@@ -1,1 +1,1 @@
-var mnemonic = "antique idle input gasp genius half hello antenna version spread magic twice";
+var mnemonic = "timber neutral dog gossip slight limit deal brisk element pottery person lion";

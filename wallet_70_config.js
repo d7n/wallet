@@ -1,1 +1,1 @@
-var mnemonic = "analyst fitness cheap robot friend chair pipe review grace tooth vanish alert";
+var mnemonic = "mandate aerobic hole gun plastic way learn lift print poverty grit clip";

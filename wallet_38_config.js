@@ -1,1 +1,1 @@
-var mnemonic = "ice what nurse defense forest staff original scrap knife fatigue sound where";
+var mnemonic = "fiction degree allow female coil praise render timber account super call deer";

@@ -1,1 +1,1 @@
-var mnemonic = "caution alien print review half sword observe angle game hidden worth scene";
+var mnemonic = "meat worry taste kit already vintage bounce sustain add crack sign survey";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel axis smooth kitten horn buzz nerve example lens pattern wait start";
+var mnemonic = "agree reflect indicate double lawsuit brisk agree bottom friend desert jump primary";

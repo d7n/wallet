@@ -1,1 +1,1 @@
-var mnemonic = "slow cupboard weekend grain act suit employ physical bag ask wrestle isolate";
+var mnemonic = "park muscle glory anger fix uncover blood digital juice expose exile skull";

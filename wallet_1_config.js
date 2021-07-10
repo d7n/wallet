@@ -1,1 +1,1 @@
-var mnemonic = "smart spot bachelor eagle coach sponsor diagram prevent soldier member into inch";
+var mnemonic = "measure strong rain legal stem swallow sort lab index rice marble finish";

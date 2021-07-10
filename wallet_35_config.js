@@ -1,1 +1,1 @@
-var mnemonic = "vicious arctic fiction breeze length drastic apple caught tonight jeans put canvas";
+var mnemonic = "only crop urge bargain smooth warm balcony control betray happy nuclear potato";

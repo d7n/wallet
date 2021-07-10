@@ -1,1 +1,1 @@
-var mnemonic = "picture have double smooth athlete bleak wisdom sibling practice endorse trend injury";
+var mnemonic = "foster page artwork angle stick enforce giraffe leave hello rookie split topic";

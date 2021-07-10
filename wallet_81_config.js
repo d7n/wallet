@@ -1,1 +1,1 @@
-var mnemonic = "adult later loop shift solve tortoise thought nice client label witness olympic";
+var mnemonic = "coin acoustic first junk fuel pull sort local soft hour slot web";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel shift deal husband hen reflect main kit space bring clip elegant";
+var mnemonic = "arrow online amateur assist prefer magic match carpet never rare junior certain";

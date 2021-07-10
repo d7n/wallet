@@ -1,1 +1,1 @@
-var mnemonic = "turkey man image cave error turn blue anchor chalk marble school absorb";
+var mnemonic = "quality risk planet wave suggest control stadium similar range convince benefit agree";

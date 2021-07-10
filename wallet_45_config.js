@@ -1,1 +1,1 @@
-var mnemonic = "smoke strong tone green horn hazard chronic escape engage clog cruise believe";
+var mnemonic = "topic morning autumn notable fox buddy burst fish cat connect wheel side";

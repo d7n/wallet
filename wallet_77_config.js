@@ -1,1 +1,1 @@
-var mnemonic = "absurd flag nation ask garment best treat deliver mammal indoor music purse";
+var mnemonic = "jazz more grass pulp artwork chaos diary tuition enroll casino cruise hero";

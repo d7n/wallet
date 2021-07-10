@@ -1,1 +1,1 @@
-var mnemonic = "arena muscle hour inch stuff switch ill just metal life virtual only";
+var mnemonic = "mother genuine law wool return view avocado father original fog shoulder scrub";

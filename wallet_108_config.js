@@ -1,1 +1,1 @@
-var mnemonic = "word shrug scale absorb fiber fox practice unit climb access target model";
+var mnemonic = "grace pulse what wall post rather ecology brisk visa into glimpse write";

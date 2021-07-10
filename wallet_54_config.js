@@ -1,1 +1,1 @@
-var mnemonic = "love donate team mouse arrow review client prefer region walk unable middle";
+var mnemonic = "dynamic census future glory balcony scan climb team shoulder senior other alarm";

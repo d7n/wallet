@@ -1,1 +1,1 @@
-var mnemonic = "crouch soft install chief brief field rent proud noodle soft patrol evidence";
+var mnemonic = "clarify auction omit match mimic finish draft brief episode wrap must fun";

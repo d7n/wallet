@@ -1,1 +1,1 @@
-var mnemonic = "harsh idle goddess duck lizard vicious profit display course reunion more misery";
+var mnemonic = "quick cage popular radar seed pet tackle draft rabbit august cake clarify";

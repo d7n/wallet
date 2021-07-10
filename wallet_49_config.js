@@ -1,1 +1,1 @@
-var mnemonic = "wool sweet govern bone menu minute diary legal vacuum staff shaft erode";
+var mnemonic = "unusual crowd claim ahead grocery stand hazard destroy grape rule giggle alarm";
