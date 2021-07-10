@@ -1,1 +1,1 @@
-var mnemonic = "when aunt truly tool slight crane ride rival stuff inner under giraffe";
+var mnemonic = "pet describe over improve design calm play grass farm slam lawn cycle";

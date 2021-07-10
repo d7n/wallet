@@ -1,1 +1,1 @@
-var mnemonic = "retire cool smoke shrimp chalk garbage pull novel convince upon shield trouble";
+var mnemonic = "upgrade source virus bonus file result destroy math invite observe card squirrel";

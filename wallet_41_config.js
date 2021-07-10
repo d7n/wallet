@@ -1,1 +1,1 @@
-var mnemonic = "day sphere prevent domain observe glove sick daring conduct quote volume world";
+var mnemonic = "pizza off shine sudden famous jungle surround fashion salad supply never bacon";

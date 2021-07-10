@@ -1,1 +1,1 @@
-var mnemonic = "morning segment tourist large sunny spawn retreat hollow visa child hero reduce";
+var mnemonic = "subject track twist only decade skirt rebel inner author awful rather fan";

@@ -1,1 +1,1 @@
-var mnemonic = "pen truck middle atom oval tree burden result project mixed quit mistake";
+var mnemonic = "better spy lens throw wheel lend foil dilemma art reopen alpha polar";

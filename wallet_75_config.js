@@ -1,1 +1,1 @@
-var mnemonic = "rubber absorb all love harbor glass salad kid crime sponsor guide brand";
+var mnemonic = "limit mosquito shrug daring swing table genre fire tongue siege next ribbon";

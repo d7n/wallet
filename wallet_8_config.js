@@ -1,1 +1,1 @@
-var mnemonic = "muffin expose crime obtain clerk obtain moment vehicle sell enable affair foam";
+var mnemonic = "exact first violin horn nature globe october also welcome electric ahead blush";

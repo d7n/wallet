@@ -1,1 +1,1 @@
-var mnemonic = "this silk helmet note chest gap inner medal imitate candy fat valid";
+var mnemonic = "visit system mouse couple cash deal boil oxygen era hood sure edge";

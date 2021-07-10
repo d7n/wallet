@@ -1,1 +1,1 @@
-var mnemonic = "surprise behave motion camp craft air crack hedgehog bunker alpha accuse craft";
+var mnemonic = "clock believe short echo high hurry vessel usage dish joke pony this";

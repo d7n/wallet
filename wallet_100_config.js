@@ -1,1 +1,1 @@
-var mnemonic = "hurry foil differ betray easily only deal frog custom response carpet rough";
+var mnemonic = "wild lady ginger furnace journey letter glimpse urge fringe crawl truth eagle";

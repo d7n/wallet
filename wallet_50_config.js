@@ -1,1 +1,1 @@
-var mnemonic = "very title return chief drip apology excess gravity loop era cave observe";
+var mnemonic = "split range blame december awesome kidney charge life alone garden office abandon";

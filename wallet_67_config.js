@@ -1,1 +1,1 @@
-var mnemonic = "boy vote depart catalog utility among audit hungry beef owner wrestle display";
+var mnemonic = "first behind rocket since prison token trade box pyramid butter lava tooth";

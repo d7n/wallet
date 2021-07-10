@@ -1,1 +1,1 @@
-var mnemonic = "ring blanket filter butter fine already blossom organ when sun upgrade salon";
+var mnemonic = "mind inherit scale dream bright snake volcano crucial resemble material key panda";

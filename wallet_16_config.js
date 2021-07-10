@@ -1,1 +1,1 @@
-var mnemonic = "master pair culture chuckle win elite that basket patrol member scatter syrup";
+var mnemonic = "guard employ off own exhaust gauge advance summer aware feature quantum chicken";

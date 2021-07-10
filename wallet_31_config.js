@@ -1,1 +1,1 @@
-var mnemonic = "suspect lucky help bitter hybrid gaze spoon amateur direct police machine duty";
+var mnemonic = "present garden arena eyebrow column owner damp tell blame plate accident donate";

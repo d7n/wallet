@@ -1,1 +1,1 @@
-var mnemonic = "rack concert list once gas upset horror permit need churn liberty earn";
+var mnemonic = "soul kingdom power expand people junk elegant punch open eternal adjust horror";

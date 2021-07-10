@@ -1,1 +1,1 @@
-var mnemonic = "flavor clever recipe first honey slam intact ceiling office awful photo forget";
+var mnemonic = "submit follow soap cute oppose poet wise obey unique trigger giraffe tomato";

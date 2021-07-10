@@ -1,1 +1,1 @@
-var mnemonic = "camp soon course access post bonus dad spatial poverty dismiss elbow little";
+var mnemonic = "text news typical pluck rebel belt north size enforce smile lamp clever";

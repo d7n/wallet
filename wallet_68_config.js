@@ -1,1 +1,1 @@
-var mnemonic = "exile term believe capable drastic derive hurt vacant claim sausage orange step";
+var mnemonic = "act bubble because sun vivid lock float oxygen hire accident order joy";

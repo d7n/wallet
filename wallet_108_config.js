@@ -1,1 +1,1 @@
-var mnemonic = "ancient spot shove quality trap govern jump acid hidden company physical patrol";
+var mnemonic = "wash steel flush camera confirm denial tennis wrestle battle above misery practice";

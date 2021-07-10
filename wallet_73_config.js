@@ -1,1 +1,1 @@
-var mnemonic = "spell sorry tortoise trend kangaroo evolve purchase random athlete between film recipe";
+var mnemonic = "plate purity frame scissors base indoor mosquito case gesture spin injury happy";

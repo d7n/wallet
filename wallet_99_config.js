@@ -1,1 +1,1 @@
-var mnemonic = "oxygen bird rescue stage hat excite faculty episode scatter ridge tiny wreck";
+var mnemonic = "holiday crazy village mammal small ship photo movie chapter trend owner crush";

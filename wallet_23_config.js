@@ -1,1 +1,1 @@
-var mnemonic = "impulse mother tennis dragon news game green gift earn rug time screen";
+var mnemonic = "giggle morning keep rifle glimpse decide kitchen plunge hospital risk defense clump";

@@ -1,1 +1,1 @@
-var mnemonic = "side decade car seminar fabric reduce divide syrup grit midnight flag intact";
+var mnemonic = "arena dove skin girl club vendor cliff six blur razor upper prepare";

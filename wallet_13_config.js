@@ -1,1 +1,1 @@
-var mnemonic = "exit clay feature siege deal taste vapor goose cluster they rack sun";
+var mnemonic = "alarm slow tomorrow scheme march position arrive taxi income melody unlock alley";

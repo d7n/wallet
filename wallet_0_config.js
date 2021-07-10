@@ -1,1 +1,1 @@
-var mnemonic = "diary liquid glare fashion unfold clerk all galaxy venue mom forward blouse";
+var mnemonic = "city rubber blame coyote night recipe wing black produce mystery melody clown";

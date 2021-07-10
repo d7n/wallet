@@ -1,1 +1,1 @@
-var mnemonic = "another runway orphan game stuff raven vivid pencil leader into enough plastic";
+var mnemonic = "winter burger angry sea honey arrow hurt exact dinosaur typical tobacco moral";

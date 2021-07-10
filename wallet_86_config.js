@@ -1,1 +1,1 @@
-var mnemonic = "smart arena disagree limit guilt machine monkey valve ecology outer claw ability";
+var mnemonic = "ring rotate grant label payment soap rabbit leopard now mail nerve valley";

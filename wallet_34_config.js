@@ -1,1 +1,1 @@
-var mnemonic = "gospel cheap exhibit chalk monitor bunker enable series blame muscle heart march";
+var mnemonic = "crisp fat genuine capital cup subject window curve trap autumn inch target";

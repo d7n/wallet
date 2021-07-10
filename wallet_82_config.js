@@ -1,1 +1,1 @@
-var mnemonic = "fade budget coffee cement cannon erupt actor weather rebel duck demand drink";
+var mnemonic = "admit reunion liberty energy coin final clown egg ankle artefact dignity brass";

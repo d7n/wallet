@@ -1,1 +1,1 @@
-var mnemonic = "like humble sock whisper social clock sponsor ordinary waste gas tongue weapon";
+var mnemonic = "shoe flight census share food empty frost brother zero trophy deliver skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest balcony fish fragile praise deposit maid echo street champion waste okay";
+var mnemonic = "history hint idle plug potato dust become north interest portion aerobic cat";

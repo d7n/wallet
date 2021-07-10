@@ -1,1 +1,1 @@
-var mnemonic = "act brick bind impact figure episode treat decline pull auto annual this";
+var mnemonic = "grow stumble render system brother same wrestle hub hero either spoon thank";

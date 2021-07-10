@@ -1,1 +1,1 @@
-var mnemonic = "special stumble nuclear engage attract obscure habit ahead dumb weasel dismiss will";
+var mnemonic = "update potato random around clap all shadow always clog rubber lyrics hope";

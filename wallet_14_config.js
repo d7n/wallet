@@ -1,1 +1,1 @@
-var mnemonic = "remind canvas paddle turtle sauce rare skull satisfy census reward cloth velvet";
+var mnemonic = "coach still tenant this allow believe palm diesel security argue pull coconut";

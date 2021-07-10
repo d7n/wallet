@@ -1,1 +1,1 @@
-var mnemonic = "rapid apple game confirm result fish opera cheap frown palace furnace hybrid";
+var mnemonic = "sunny sister open favorite old unfair gun aisle figure inside health huge";

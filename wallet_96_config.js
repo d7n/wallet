@@ -1,1 +1,1 @@
-var mnemonic = "tape broccoli love define split mushroom piece pet laptop laugh satisfy lemon";
+var mnemonic = "airport weather potato penalty change exhaust meadow cattle fold clean wheat leave";

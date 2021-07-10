@@ -1,1 +1,1 @@
-var mnemonic = "liar decorate monster oven fatigue bundle human betray jelly sell alter expand";
+var mnemonic = "accident enable liquid expect fee egg wrap indoor feel deer yellow nut";

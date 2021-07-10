@@ -1,1 +1,1 @@
-var mnemonic = "witness diamond assist purity scan what vote security industry morning amazing you";
+var mnemonic = "item aware inner news stomach jewel person riot true arctic theme fatigue";

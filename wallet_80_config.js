@@ -1,1 +1,1 @@
-var mnemonic = "barely zebra country uphold elder siege rally swim liar comfort clap gesture";
+var mnemonic = "process arch flavor foil reject transfer spy weapon kitchen between theme where";

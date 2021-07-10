@@ -1,1 +1,1 @@
-var mnemonic = "patch great envelope shield ride warm sick betray razor siren square smart";
+var mnemonic = "mutual decade leopard wash seven cream escape pluck cram lizard more post";

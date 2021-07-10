@@ -1,1 +1,1 @@
-var mnemonic = "arm guide slam pulse gate gospel assist laptop pull bulk series cargo";
+var mnemonic = "dilemma street quote garlic misery gym liquid comic rain ritual trap gown";

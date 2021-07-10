@@ -1,1 +1,1 @@
-var mnemonic = "front route ecology private trigger police relief language cat hair lawsuit unveil";
+var mnemonic = "floor symbol year custom unlock chest erode struggle bridge silly polar develop";

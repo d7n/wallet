@@ -1,1 +1,1 @@
-var mnemonic = "object sentence helmet cherry nasty gallery master current salmon clap sphere stock";
+var mnemonic = "suit prison rude notice buffalo voyage brief exhibit man trend vote host";

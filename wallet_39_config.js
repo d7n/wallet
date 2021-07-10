@@ -1,1 +1,1 @@
-var mnemonic = "walk sunset day disorder little charge list blade letter slush claw nest";
+var mnemonic = "click alone erosion catch can parent fragile episode muscle twist survey time";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel local produce cake sweet ripple song whale cabbage lyrics bracket fitness";
+var mnemonic = "over excuse joke train refuse behind spin shrug spoil feature noise question";

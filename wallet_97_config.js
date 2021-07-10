@@ -1,1 +1,1 @@
-var mnemonic = "pull brass job category brush draft solution arena creek puppy trick obvious";
+var mnemonic = "obey human couple mango strategy bag tooth double infant adjust awkward primary";

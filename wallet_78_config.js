@@ -1,1 +1,1 @@
-var mnemonic = "actual apology negative cool pledge way verify oil food crack wonder drink";
+var mnemonic = "hint you genre thumb amateur embrace napkin vacuum spoil scrub very raccoon";

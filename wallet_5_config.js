@@ -1,1 +1,1 @@
-var mnemonic = "ten museum judge squeeze pool street sunny happy time region position record";
+var mnemonic = "wave analyst marriage injury foil sting limit warfare crawl powder input rude";

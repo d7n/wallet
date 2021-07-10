@@ -1,1 +1,1 @@
-var mnemonic = "need shiver loop oil proud program fashion mobile near above luggage humor";
+var mnemonic = "country icon spell truck nominee orient ghost chuckle engine note note pelican";

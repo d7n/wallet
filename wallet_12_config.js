@@ -1,1 +1,1 @@
-var mnemonic = "industry olympic feel trend stairs cook color outside expose security little joy";
+var mnemonic = "primary reform turtle rescue until harbor pelican purse unveil muscle strong swap";

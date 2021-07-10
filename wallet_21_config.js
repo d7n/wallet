@@ -1,1 +1,1 @@
-var mnemonic = "merit clock noodle erupt nature life harvest volume nice desk brass grant";
+var mnemonic = "firm ketchup story what proud immense hill pupil dress lunch giggle atom";

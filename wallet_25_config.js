@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit hobby library army grab miss merit soup film cool ankle kitten";
+var mnemonic = "brass panel depth poem minor office sniff nature eager payment ethics price";

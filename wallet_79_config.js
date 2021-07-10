@@ -1,1 +1,1 @@
-var mnemonic = "glory rule empower caught fatigue beef kiss retreat coral piece dynamic identify";
+var mnemonic = "foster summer eye speak volume siege proud cup chicken hawk quality frown";

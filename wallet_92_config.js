@@ -1,1 +1,1 @@
-var mnemonic = "rapid amazing fragile width capital mail still auction cycle sample shoot loop";
+var mnemonic = "fringe exhaust boy gym bone moment robust unique size decide board kitten";

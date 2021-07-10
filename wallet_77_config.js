@@ -1,1 +1,1 @@
-var mnemonic = "drop stuff lock rapid few okay kidney rigid essence zone sing model";
+var mnemonic = "quality sadness catch village gap butter slot crew divert pledge retire juice";

@@ -1,1 +1,1 @@
-var mnemonic = "winter actual tourist dizzy assault any frog sand orphan surprise want will";
+var mnemonic = "acid laugh liar near measure range match virtual move assault danger lesson";

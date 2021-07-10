@@ -1,1 +1,1 @@
-var mnemonic = "test edit pair keep melody brand item person jacket produce divorce brisk";
+var mnemonic = "effort sail flash confirm spy faith fly home tonight chuckle flat garden";

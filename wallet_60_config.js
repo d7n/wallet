@@ -1,1 +1,1 @@
-var mnemonic = "version giraffe innocent galaxy quarter fluid neck image amateur payment stool gravity";
+var mnemonic = "breeze wash wet duck donate orient farm age hope garden awake laundry";

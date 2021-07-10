@@ -1,1 +1,1 @@
-var mnemonic = "cute mesh nice output oil mean scrap thought hat harvest element column";
+var mnemonic = "warfare fiction bitter mango ecology verb exotic involve crazy much sock off";

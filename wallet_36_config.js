@@ -1,1 +1,1 @@
-var mnemonic = "yard grit drama panic hunt choice large assist crucial duty tent inquiry";
+var mnemonic = "hair learn certain peace defense title march match obtain rotate where scout";

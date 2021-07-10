@@ -1,1 +1,1 @@
-var mnemonic = "degree spread imitate cigar render quarter gun allow rain system tobacco tackle";
+var mnemonic = "great spare increase drink loop divide fine knock swim invest fury alcohol";

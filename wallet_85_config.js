@@ -1,1 +1,1 @@
-var mnemonic = "improve trade sing proud ribbon delay upset subway bomb best quarter sell";
+var mnemonic = "place farm scare typical still crew onion odor shoe bike radar genuine";

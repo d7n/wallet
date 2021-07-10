@@ -1,1 +1,1 @@
-var mnemonic = "found eight cart actress embody collect glide orphan hamster work raise traffic";
+var mnemonic = "cheap east author lobster exhibit peace stomach calm near oxygen olympic early";

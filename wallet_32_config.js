@@ -1,1 +1,1 @@
-var mnemonic = "sure unfair glance link wisdom picture eagle auto stem undo season gold";
+var mnemonic = "small bronze forget enrich kangaroo utility glory city just diamond liar egg";

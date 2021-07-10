@@ -1,1 +1,1 @@
-var mnemonic = "bulb truth very own question island arrest mimic rebel bleak margin future";
+var mnemonic = "change supreme rival beach knock main verb glance drink run dolphin angle";

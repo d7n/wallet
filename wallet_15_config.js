@@ -1,1 +1,1 @@
-var mnemonic = "hammer truth dress gate topic nature fence exhibit tip view student pig";
+var mnemonic = "gossip panther hire quote segment mouse recall history grit comic series swamp";

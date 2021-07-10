@@ -1,1 +1,1 @@
-var mnemonic = "anxiety devote matrix large brain next odor happy already soda exile grace";
+var mnemonic = "spider border debris chunk spin speak spoon drop drift climb never letter";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy speed apology sad hole spread garage hint paddle father critic vacant";
+var mnemonic = "trust penalty actress copper toward champion sick rose canyon hour virtual purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth fade anxiety amateur region tool right slam then spring wolf lumber";
+var mnemonic = "pyramid excuse public cart want traffic diesel fault dynamic spider license industry";

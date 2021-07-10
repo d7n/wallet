@@ -1,1 +1,1 @@
-var mnemonic = "hunt endorse invest rival vicious spike piece bullet tongue real parade hip";
+var mnemonic = "canyon cook roof language sight pumpkin vibrant economy forget client setup cart";

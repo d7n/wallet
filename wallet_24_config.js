@@ -1,1 +1,1 @@
-var mnemonic = "stage insane charge more reveal drink panel kitchen ahead quick innocent illegal";
+var mnemonic = "robust soft wine roof quantum boil artwork yellow oyster pull speed devote";

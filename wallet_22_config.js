@@ -1,1 +1,1 @@
-var mnemonic = "comfort stumble actor jacket window shrimp ivory base stuff luggage sweet extra";
+var mnemonic = "mother gain march issue step zero theory describe lemon rare cube rotate";

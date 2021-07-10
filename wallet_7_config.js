@@ -1,1 +1,1 @@
-var mnemonic = "myself ask cheese limb visual private fitness material involve clerk like saddle";
+var mnemonic = "oblige range water delay throw roast buyer kitchen garden dinosaur genius truly";

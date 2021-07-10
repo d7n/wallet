@@ -1,1 +1,1 @@
-var mnemonic = "chief table pen army catalog earn renew cloud night immense sort equal";
+var mnemonic = "brave concert over pupil swift brother argue cattle stay kitchen attend menu";

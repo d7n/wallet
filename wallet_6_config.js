@@ -1,1 +1,1 @@
-var mnemonic = "spring apple bus twice please want grain frog film siege robust hotel";
+var mnemonic = "film legend pupil club rapid usual reunion used melody that flight toe";

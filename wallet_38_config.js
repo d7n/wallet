@@ -1,1 +1,1 @@
-var mnemonic = "vast kid army metal trip duck shift acquire february pepper butter october";
+var mnemonic = "tag merry gift miss duck mushroom detail index silent inspire funny guess";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt female sheriff smooth distance wheat place dwarf glad indoor prosper cement";
+var mnemonic = "network comfort moral world yard comfort throw gadget quiz wide width hundred";

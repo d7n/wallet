@@ -1,1 +1,1 @@
-var mnemonic = "praise dream dumb produce side flock clever snap visual reflect load brown";
+var mnemonic = "arch virus tomato job check priority cram model tower body dirt impulse";

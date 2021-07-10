@@ -1,1 +1,1 @@
-var mnemonic = "order dial motion parent craft chest glue level loan rotate cube witness";
+var mnemonic = "forget enough fit era above lottery army home trap borrow balcony jar";

@@ -1,1 +1,1 @@
-var mnemonic = "correct prize clerk piano front sibling exhibit question push panther title mushroom";
+var mnemonic = "great deposit wash rail private ticket renew neck fiscal garlic install thing";

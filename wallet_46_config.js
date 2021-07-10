@@ -1,1 +1,1 @@
-var mnemonic = "movie hat album know target huge version happy negative nation impulse spice";
+var mnemonic = "utility sibling spoil artist good sick echo purity junior thank hunt bus";

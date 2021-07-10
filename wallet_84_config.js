@@ -1,1 +1,1 @@
-var mnemonic = "kidney oak object valid favorite layer smart grant split wrap boil field";
+var mnemonic = "moon thrive enlist liquid response online alien include document range mistake noodle";

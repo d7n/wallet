@@ -1,1 +1,1 @@
-var mnemonic = "despair electric coin round river glove misery island file slab maze proud";
+var mnemonic = "ugly drum kidney misery clay jacket tree click purity wrist vivid plug";

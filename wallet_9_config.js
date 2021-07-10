@@ -1,1 +1,1 @@
-var mnemonic = "pottery endless vanish citizen toddler scatter antique bachelor heart dumb nasty shoulder";
+var mnemonic = "panic vicious raw ginger color car toilet thumb scare like loud target";

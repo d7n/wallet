@@ -1,1 +1,1 @@
-var mnemonic = "basic bird guide onion symbol pen girl yellow scheme spider arctic ceiling";
+var mnemonic = "ketchup ridge toss recipe step album rabbit sponsor test hurry high language";

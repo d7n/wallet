@@ -1,1 +1,1 @@
-var mnemonic = "broom broken second bamboo cage robust insect tube foil ready put scene";
+var mnemonic = "blade wide toward umbrella strong concert roast excite pretty wealth current another";
