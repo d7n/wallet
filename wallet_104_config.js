@@ -1,1 +1,1 @@
-var mnemonic = "trap abuse barrel task zebra panic frame satisfy sample comfort weather ramp";
+var mnemonic = "gym vapor warm refuse scatter correct predict rug post cattle trophy load";

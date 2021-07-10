@@ -1,1 +1,1 @@
-var mnemonic = "under chronic sign aware tongue glass window disease bid fault entire over";
+var mnemonic = "vehicle entry artwork garbage dynamic mushroom hair already quality door car employ";

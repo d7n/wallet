@@ -1,1 +1,1 @@
-var mnemonic = "awesome staff moon suffer edge afford brown dumb matrix vivid unfold never";
+var mnemonic = "response moon frost loyal cruise inmate valley fun march kit fault hen";

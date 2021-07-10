@@ -1,1 +1,1 @@
-var mnemonic = "spirit angry bubble chef void tray lake merit ankle hunt call unfold";
+var mnemonic = "price tide lemon globe theme traffic various type belt all dragon bench";

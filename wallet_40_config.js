@@ -1,1 +1,1 @@
-var mnemonic = "coil help mixture brand ginger double damage enough stuff three rely second";
+var mnemonic = "wife rug crater nature concert dirt base report upon dignity trash bright";

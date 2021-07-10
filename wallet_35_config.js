@@ -1,1 +1,1 @@
-var mnemonic = "meadow art arrange soft worth bone isolate battle sign sample annual earth";
+var mnemonic = "universe engine random runway soda powder negative defense art undo throw supply";

@@ -1,1 +1,1 @@
-var mnemonic = "cement fault captain vague other coin there habit ice pipe height jacket";
+var mnemonic = "riot claw strategy today pistol garage work rail correct drama weather avocado";

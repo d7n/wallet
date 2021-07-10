@@ -1,1 +1,1 @@
-var mnemonic = "family latin rebel cost address fee illness jazz rose okay strategy traffic";
+var mnemonic = "crater nest sentence boost bring between mansion pumpkin inch calm valley exist";

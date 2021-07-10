@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow meat people ski share there baby scatter craft cycle today caution";
+var mnemonic = "intact wolf soup clarify cycle tonight curtain diesel coffee pill bulk settle";

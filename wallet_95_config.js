@@ -1,1 +1,1 @@
-var mnemonic = "drift cross crane cereal element illness gasp catch gap wrap unlock merit";
+var mnemonic = "gospel flush shove swing pond trumpet student home peanut harsh smooth divert";

@@ -1,1 +1,1 @@
-var mnemonic = "screen among language sock exchange mushroom alert final dry mixture gauge must";
+var mnemonic = "fiction gesture case roof seven erosion home retreat final bone step easy";

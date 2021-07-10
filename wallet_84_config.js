@@ -1,1 +1,1 @@
-var mnemonic = "math cake check actress burst devote school lion bulb negative shoe own";
+var mnemonic = "speed myself miracle glide butter miracle slight zero basket month abuse cash";

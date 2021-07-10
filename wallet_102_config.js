@@ -1,1 +1,1 @@
-var mnemonic = "student addict brush unit guitar outside destroy hour penalty ketchup pyramid impose";
+var mnemonic = "armed razor resist actual melody bullet unfair daring holiday hard humble deal";

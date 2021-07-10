@@ -1,1 +1,1 @@
-var mnemonic = "adjust pave ritual jeans harvest moon abstract tomorrow noodle river lens cabin";
+var mnemonic = "royal region gossip input siren observe affair guilt hundred sport catalog rebel";

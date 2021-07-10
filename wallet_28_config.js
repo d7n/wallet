@@ -1,1 +1,1 @@
-var mnemonic = "coconut truck inquiry tornado basic snack word beach clock field marriage force";
+var mnemonic = "worth alter employ near similar employ voice this again weird secret awake";

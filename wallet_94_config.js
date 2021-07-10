@@ -1,1 +1,1 @@
-var mnemonic = "turkey lounge profit monitor verb genre garbage label alarm decorate potato fork";
+var mnemonic = "ski antenna decline choose medal wrestle also please bomb junior sheriff over";

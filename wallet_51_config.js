@@ -1,1 +1,1 @@
-var mnemonic = "unique trust arch gift clock check demise electric security glue setup assist";
+var mnemonic = "blur episode board cheese dismiss describe pizza scene voice thunder fox narrow";

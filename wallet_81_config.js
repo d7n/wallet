@@ -1,1 +1,1 @@
-var mnemonic = "bleak cancel magic number glove siege enter hope party awake click blue";
+var mnemonic = "palace leg gift flush people resemble evidence athlete blame shrimp depart garment";

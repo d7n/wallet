@@ -1,1 +1,1 @@
-var mnemonic = "wire tip ginger toe satisfy clean elevator fashion salon moon museum street";
+var mnemonic = "true satisfy habit scene other desk view emotion cattle rather salt okay";

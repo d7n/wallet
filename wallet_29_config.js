@@ -1,1 +1,1 @@
-var mnemonic = "grain spin error olive grid fiction orchard lava keep target broom twist";
+var mnemonic = "warm ill win nuclear carpet suit ball right valve kitten diagram man";

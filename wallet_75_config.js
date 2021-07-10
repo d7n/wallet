@@ -1,1 +1,1 @@
-var mnemonic = "tape like cinnamon lion exercise direct trash scrub cost cool term outer";
+var mnemonic = "dad drive welcome sport success famous daring kind never crunch occur interest";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger penalty cluster tobacco receive neck patrol bounce effort gentle risk slide";
+var mnemonic = "decline tomorrow cloth diamond shed hand palm neutral theory loan battle few";

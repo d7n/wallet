@@ -1,1 +1,1 @@
-var mnemonic = "wreck museum wisdom ethics hurt feel lake over carbon food urban chair";
+var mnemonic = "mutual guard skate carpet wild place garlic border tiger ensure viable buzz";

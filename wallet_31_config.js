@@ -1,1 +1,1 @@
-var mnemonic = "viable daughter police earth long wash scrap canyon fox air number help";
+var mnemonic = "invest lunar chunk film stomach dutch wear scrap weird buzz insane unveil";

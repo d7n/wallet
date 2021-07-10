@@ -1,1 +1,1 @@
-var mnemonic = "hub dumb divorce live struggle rail response atom world fiscal axis they";
+var mnemonic = "sleep cluster leisure decorate vendor insane soccer erosion yard draw scheme cycle";

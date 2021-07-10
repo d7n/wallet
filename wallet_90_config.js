@@ -1,1 +1,1 @@
-var mnemonic = "rose sing find load zero dinosaur boat analyst aerobic plug range kick";
+var mnemonic = "around program girl raven bomb aunt goddess split few polar right antique";

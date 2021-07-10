@@ -1,1 +1,1 @@
-var mnemonic = "snake symptom distance safe audit glue canyon perfect joke jealous belt need";
+var mnemonic = "wisdom unusual consider planet giant develop piano clerk wage purity moon cousin";

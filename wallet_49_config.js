@@ -1,1 +1,1 @@
-var mnemonic = "squeeze ceiling excess turkey barrel spirit broccoli donate cigar sphere gallery obvious";
+var mnemonic = "kite load employ supply bargain amount donate false mask remain steak resemble";

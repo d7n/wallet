@@ -1,1 +1,1 @@
-var mnemonic = "throw rack demise picture frozen screen bleak ocean pistol connect surge palm";
+var mnemonic = "basic rough vehicle robust caught actor despair duck minor knock choice trigger";

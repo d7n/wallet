@@ -1,1 +1,1 @@
-var mnemonic = "legend enable scissors daring renew fury sudden deliver broken cigar potato stamp";
+var mnemonic = "jaguar object dance hip enemy tiny fresh news ridge unveil clay cool";

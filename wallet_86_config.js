@@ -1,1 +1,1 @@
-var mnemonic = "ticket appear body present smoke into economy siren blast walnut true want";
+var mnemonic = "disagree private vault cheap employ capable coach supreme canoe jaguar peanut scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "summer tail vault mad cart brisk stove version lunar coconut squeeze toast";
+var mnemonic = "neutral pull patient ginger universe index large brisk success reform horn grab";

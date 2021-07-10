@@ -1,1 +1,1 @@
-var mnemonic = "medal frozen brown lock hawk blossom daughter crouch hockey cram oppose reward";
+var mnemonic = "ice adult decide rate stumble tide collect blush identify tag flash vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mixture wide solution ancient purpose perfect steel brief sound endorse wire";
+var mnemonic = "daring favorite disorder later agent upper victory tell acquire quantum lunch blouse";

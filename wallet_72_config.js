@@ -1,1 +1,1 @@
-var mnemonic = "swarm volume ten ring soul fall supreme citizen chest program time feature";
+var mnemonic = "depart oyster bind safe fame park about tomorrow rebel tell since smooth";

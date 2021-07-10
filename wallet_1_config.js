@@ -1,1 +1,1 @@
-var mnemonic = "margin mystery wrestle option hand rail exact sun fortune agree security gesture";
+var mnemonic = "distance tortoise loyal doctor coconut slender fan grief hour away shaft buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "address venture jump awesome siege accuse cloud ignore cash space firm brown";
+var mnemonic = "crack over castle quantum puzzle beauty amazing until believe lens office message";

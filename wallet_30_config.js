@@ -1,1 +1,1 @@
-var mnemonic = "sustain bread autumn will decrease blossom giraffe embrace concert rule tail shrimp";
+var mnemonic = "gesture federal fancy face wage prison disease tobacco offer enable coach time";

@@ -1,1 +1,1 @@
-var mnemonic = "example retire toward cactus develop bacon coach original april element negative viable";
+var mnemonic = "bone inhale solve airport crucial harvest journey rude onion siege label order";

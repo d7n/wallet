@@ -1,1 +1,1 @@
-var mnemonic = "oppose sock include hire manage mechanic horror waste index alcohol rib rude";
+var mnemonic = "bulk apart yard until dial immune service steak myself session sketch swift";

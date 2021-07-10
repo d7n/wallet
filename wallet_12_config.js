@@ -1,1 +1,1 @@
-var mnemonic = "autumn funny agent present bag walnut oppose kit suffer mass melody present";
+var mnemonic = "call rotate dinner unique author legal nation silver force swallow glass achieve";

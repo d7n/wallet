@@ -1,1 +1,1 @@
-var mnemonic = "model stool spread velvet online radio maid voice proof zero record render";
+var mnemonic = "build chef scout caution notable board input unknown salad focus fiscal equip";

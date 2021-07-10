@@ -1,1 +1,1 @@
-var mnemonic = "dune battle liar fetch scale theory cherry vehicle indoor moon warfare tone";
+var mnemonic = "lab finish box swing latin anxiety volume enter draft design aspect sausage";

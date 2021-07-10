@@ -1,1 +1,1 @@
-var mnemonic = "sock broccoli feel flame clump thunder father video swing clutch napkin layer";
+var mnemonic = "mask trip bachelor barrel defense artwork ecology better involve scan birth found";

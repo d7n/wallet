@@ -1,1 +1,1 @@
-var mnemonic = "emerge jeans remove crawl base balance antenna bread coast man seven muffin";
+var mnemonic = "urge hunt adapt library correct normal apple green alcohol play slight people";

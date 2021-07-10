@@ -1,1 +1,1 @@
-var mnemonic = "market draft defense clip chuckle skate casino question exclude canvas flight make";
+var mnemonic = "symptom cigar address alley puzzle rescue entry tunnel wash adjust grain debate";

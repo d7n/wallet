@@ -1,1 +1,1 @@
-var mnemonic = "lottery gym paddle marriage token street ability artwork produce width pudding oblige";
+var mnemonic = "obey myth industry job write infant dream alley below human regret combine";

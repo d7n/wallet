@@ -1,1 +1,1 @@
-var mnemonic = "dry detect youth ecology hill output sister enact width segment able thunder";
+var mnemonic = "vehicle draft put yellow quarter price manage awkward matrix south enter found";

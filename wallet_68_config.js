@@ -1,1 +1,1 @@
-var mnemonic = "small write dilemma enforce during jewel pioneer envelope guide network food ecology";
+var mnemonic = "junk alien dolphin other garlic black appear fresh such better lobster elevator";

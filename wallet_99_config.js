@@ -1,1 +1,1 @@
-var mnemonic = "bundle kick lab upper under sphere sad exhibit exact deposit asthma oxygen";
+var mnemonic = "maze jeans harsh license salon enhance above demise grow scrub rice buzz";

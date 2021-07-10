@@ -1,1 +1,1 @@
-var mnemonic = "nice repeat toilet spirit taxi open weather twin off clown where wheel";
+var mnemonic = "car sibling enact myth measure obvious dust tortoise exit love spider hard";

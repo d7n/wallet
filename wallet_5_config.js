@@ -1,1 +1,1 @@
-var mnemonic = "gym base version post goose hammer host expire match trend banana creek";
+var mnemonic = "tennis february depend embrace symbol prepare excess kingdom bachelor speak soul assume";

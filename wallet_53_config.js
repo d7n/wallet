@@ -1,1 +1,1 @@
-var mnemonic = "practice medal nasty list manual merge nest dune mushroom merit asset peanut";
+var mnemonic = "reflect segment absurd view brief strike globe goddess regular method sort clean";

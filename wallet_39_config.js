@@ -1,1 +1,1 @@
-var mnemonic = "snack canoe offer spin jewel bean federal marine addict denial alone display";
+var mnemonic = "execute result match cute man bind lens gasp answer ocean noise cactus";

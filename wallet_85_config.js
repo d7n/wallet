@@ -1,1 +1,1 @@
-var mnemonic = "ugly manual erupt gauge prosper slot hedgehog banner tongue defy deal boost";
+var mnemonic = "frog keep napkin rain ivory accident thing valve fetch buzz dismiss trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "empower ethics airport skate globe arch style survey club tree foot talent";
+var mnemonic = "decrease water only foam ramp age abuse grit swarm exit patrol luxury";

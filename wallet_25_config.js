@@ -1,1 +1,1 @@
-var mnemonic = "suggest grief interest senior region mimic another soccer dance canvas mistake boil";
+var mnemonic = "summer broom exclude source sweet cruise obtain elevator escape dove announce onion";

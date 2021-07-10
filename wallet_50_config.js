@@ -1,1 +1,1 @@
-var mnemonic = "recall theme release what glue frost kick regular term slow section hair";
+var mnemonic = "tide either crater price calm boost bike satoshi option strike brand plastic";

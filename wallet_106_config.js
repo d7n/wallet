@@ -1,1 +1,1 @@
-var mnemonic = "excuse sudden remain lion ordinary document hood slam elephant desert captain peasant";
+var mnemonic = "clay gentle topple child dose jar color spare powder jungle fantasy fog";

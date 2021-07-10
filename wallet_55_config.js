@@ -1,1 +1,1 @@
-var mnemonic = "sauce that food adult stock turn absorb silly stable argue conduct caution";
+var mnemonic = "team vibrant glory act patient assault model people disease boat erode document";

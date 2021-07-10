@@ -1,1 +1,1 @@
-var mnemonic = "moral random this logic mule practice town cruise jeans boost tissue mask";
+var mnemonic = "coin car squirrel cause holiday series creek leisure pool gasp rare slice";

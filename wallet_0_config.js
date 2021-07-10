@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin addict erase ticket shine strong lawn famous universe warm romance antenna";
+var mnemonic = "foot coffee pudding candy one father remain today antenna check frown what";

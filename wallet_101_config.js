@@ -1,1 +1,1 @@
-var mnemonic = "try rain stereo keep lady abstract cousin shine lottery clip cradle night";
+var mnemonic = "leader advice sun sad flush man patch mercy inform nice town mistake";

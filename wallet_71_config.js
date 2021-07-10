@@ -1,1 +1,1 @@
-var mnemonic = "glimpse then night reject budget virtual tide wide opinion labor gate rule";
+var mnemonic = "timber kingdom actual true world canal economy vintage whisper diesel artefact chicken";

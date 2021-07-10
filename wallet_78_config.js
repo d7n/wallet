@@ -1,1 +1,1 @@
-var mnemonic = "palace drill tag cement equal pencil boat invite royal peace extend record";
+var mnemonic = "egg pipe raccoon maximum silly ginger foot chunk flat hand modify liar";

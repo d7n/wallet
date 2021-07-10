@@ -1,1 +1,1 @@
-var mnemonic = "pulse agree faith fiscal luxury spy best roof dress void clerk journey";
+var mnemonic = "benefit year update juice deposit napkin hope guard piano edge stage version";

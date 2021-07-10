@@ -1,1 +1,1 @@
-var mnemonic = "eye army aim mushroom excite stove toy patrol gadget orient original caution";
+var mnemonic = "enjoy street patrol fit diamond mosquito table reflect dutch grow that believe";

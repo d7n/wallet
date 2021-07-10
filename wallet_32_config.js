@@ -1,1 +1,1 @@
-var mnemonic = "reason violin craft join orphan moral tobacco wide walnut jazz soccer trip";
+var mnemonic = "fun unable spice aisle shoot toddler demise fragile math desert enable deliver";

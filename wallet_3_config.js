@@ -1,1 +1,1 @@
-var mnemonic = "error wheel brush hammer limit puppy leader beef sunset credit pulp cart";
+var mnemonic = "sea decade room volume replace future road share weekend night cause common";

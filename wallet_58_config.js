@@ -1,1 +1,1 @@
-var mnemonic = "finish course anchor project post expose cave subject diesel barrel zoo travel";
+var mnemonic = "fever boat bridge trial clock resist yard spirit olympic rare scene radio";

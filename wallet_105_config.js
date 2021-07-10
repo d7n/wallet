@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tomato cousin video mushroom certain aim evidence later someone endorse dose";
+var mnemonic = "crowd pretty isolate supply under disease oblige rigid property emotion emotion cupboard";

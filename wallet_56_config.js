@@ -1,1 +1,1 @@
-var mnemonic = "gaze flower emotion trade involve sniff vendor fix effort warrior dry december";
+var mnemonic = "super arch elite alone brush spin west mass differ purity erosion tired";

@@ -1,1 +1,1 @@
-var mnemonic = "sign peasant bachelor print hen disagree room birth grape guard dentist upper";
+var mnemonic = "cook dolphin hint saddle claw rather height give force limb drop boat";

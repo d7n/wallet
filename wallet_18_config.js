@@ -1,1 +1,1 @@
-var mnemonic = "shield motion cram delay toddler expire desert affair image swim cinnamon brown";
+var mnemonic = "super stay gather goddess soul robust bird odor recipe include cargo sadness";

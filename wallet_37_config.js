@@ -1,1 +1,1 @@
-var mnemonic = "desert rival loud shed caught double surge worth hold canal volume marriage";
+var mnemonic = "flat head primary egg prevent light enough season video giraffe forget flip";

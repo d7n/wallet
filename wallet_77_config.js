@@ -1,1 +1,1 @@
-var mnemonic = "avocado glimpse arrest naive mix abstract cash strike insane wave solution flavor";
+var mnemonic = "close enable taste sausage guilt artist tackle gate vacuum text novel ability";

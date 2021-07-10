@@ -1,1 +1,1 @@
-var mnemonic = "release ten lunch damp material enroll insane drive juice focus laptop achieve";
+var mnemonic = "claim ski early easy analyst remind leaf ahead jealous victory share glance";

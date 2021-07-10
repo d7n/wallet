@@ -1,1 +1,1 @@
-var mnemonic = "copy can setup hurdle use axis scout cart arrange tag minute pen";
+var mnemonic = "elegant area arrive lawn keep double goose fluid acquire polar boring flat";

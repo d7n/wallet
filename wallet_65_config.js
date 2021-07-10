@@ -1,1 +1,1 @@
-var mnemonic = "daughter excite nuclear budget armor item cradle cruel sword vault follow embrace";
+var mnemonic = "rough indicate chimney onion notice unknown sustain maze dwarf pepper insect chase";

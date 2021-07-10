@@ -1,1 +1,1 @@
-var mnemonic = "effort bike novel caution misery length emerge pitch dry squeeze original question";
+var mnemonic = "measure link convince saddle crush clip error roof waste pill drip sister";

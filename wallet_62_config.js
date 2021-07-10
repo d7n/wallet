@@ -1,1 +1,1 @@
-var mnemonic = "public floor expect neutral ethics pepper coffee sauce govern oval attack truck";
+var mnemonic = "fluid kite sun element poem ostrich arrange size season dinosaur wheat across";

@@ -1,1 +1,1 @@
-var mnemonic = "torch eight foot rubber fresh dish sad cabin judge truck worth hat";
+var mnemonic = "regular special friend coast finish saddle credit stock clown rose impact other";

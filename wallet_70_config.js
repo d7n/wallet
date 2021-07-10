@@ -1,1 +1,1 @@
-var mnemonic = "confirm explain obscure remove pen beyond couch adult rice gather range gas";
+var mnemonic = "manual odor layer run notable outdoor subway thunder script vivid hockey enable";

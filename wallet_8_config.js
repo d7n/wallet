@@ -1,1 +1,1 @@
-var mnemonic = "topic trophy kit math camp inflict lazy siren discover second symbol sustain";
+var mnemonic = "dust wrap tilt waste artwork there flag assume maple tent neglect trouble";
