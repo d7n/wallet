@@ -1,1 +1,1 @@
-var mnemonic = "absorb acoustic crumble ahead bubble grant strike same tank huge boil ridge";
+var mnemonic = "skill yard wealth hard wish wait crawl opinion drop raise during pony";

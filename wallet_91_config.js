@@ -1,1 +1,1 @@
-var mnemonic = "depart bus sadness enroll across faculty meat chronic age fame scheme stool";
+var mnemonic = "federal whale target dumb aunt civil piano now select object poem piano";

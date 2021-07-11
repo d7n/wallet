@@ -1,1 +1,1 @@
-var mnemonic = "crop help knife rocket forget observe over two evolve away black foster";
+var mnemonic = "list fortune battle boring crucial eager blame analyst leg army machine employ";

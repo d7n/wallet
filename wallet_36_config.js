@@ -1,1 +1,1 @@
-var mnemonic = "unveil scrub trust occur tape scrub faint sketch play express roast spend";
+var mnemonic = "avoid kick relax inspire title useful novel nephew online palm suffer torch";

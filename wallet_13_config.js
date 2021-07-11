@@ -1,1 +1,1 @@
-var mnemonic = "clean fence link beauty island diamond say avoid van black canyon apple";
+var mnemonic = "ring butter aspect hybrid duty duck glimpse cherry three banana imitate scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom solve protect congress stay advance glow awesome angry mix journey aware";
+var mnemonic = "vibrant zero hand wrong all faculty snake chimney whip awkward inhale path";

@@ -1,1 +1,1 @@
-var mnemonic = "heart wing attack submit split fold try soft scare legal echo slab";
+var mnemonic = "exact wrong census kidney hungry mystery large cram before planet offer romance";

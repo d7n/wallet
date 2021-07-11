@@ -1,1 +1,1 @@
-var mnemonic = "huge lesson unfair spice mountain shrug put glance legend chimney edge devote";
+var mnemonic = "nothing spoon ritual insane process sport vintage cake quiz village bullet dutch";

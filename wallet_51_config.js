@@ -1,1 +1,1 @@
-var mnemonic = "exhibit wolf junior snack east high tank practice float pet maid grief";
+var mnemonic = "kangaroo author eager virus illness minimum parade doctor pull degree electric leisure";

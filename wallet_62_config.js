@@ -1,1 +1,1 @@
-var mnemonic = "page broom income result trip cotton ivory puppy life enrich steel skirt";
+var mnemonic = "voyage dragon mechanic athlete west tragic section picnic rebel clerk glance exit";

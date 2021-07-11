@@ -1,1 +1,1 @@
-var mnemonic = "obvious test task inquiry ignore material company census must stamp shoe actor";
+var mnemonic = "another manual awkward buyer test welcome peace indoor frozen you spirit ill";

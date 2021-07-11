@@ -1,1 +1,1 @@
-var mnemonic = "vast secret brain box endorse useless dignity palace ride ice thunder blanket";
+var mnemonic = "soon manual sing giant aisle fence equip above media orphan cool together";

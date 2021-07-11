@@ -1,1 +1,1 @@
-var mnemonic = "jacket finish once notable foil hospital deal kid nature quote point february";
+var mnemonic = "ribbon rich rather behind clever sense mushroom submit success race power brave";

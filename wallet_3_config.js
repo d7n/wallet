@@ -1,1 +1,1 @@
-var mnemonic = "basket limb mixed give over cricket sadness laptop crouch long pair load";
+var mnemonic = "coach panther cliff bullet decorate lumber liar rabbit obey symptom tackle victory";

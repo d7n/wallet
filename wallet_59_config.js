@@ -1,1 +1,1 @@
-var mnemonic = "upset round exotic beyond vague crumble tone dignity scrap myself body already";
+var mnemonic = "main gold bread giant wonder admit weather waste flock peasant answer dinosaur";

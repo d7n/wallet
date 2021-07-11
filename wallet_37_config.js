@@ -1,1 +1,1 @@
-var mnemonic = "muffin prison spin dog dragon soul tennis genre language erode question manual";
+var mnemonic = "bullet face output load clinic moral forest tiny female lobster one bargain";

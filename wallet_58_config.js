@@ -1,1 +1,1 @@
-var mnemonic = "feature kiss power leaf relief leopard hill enemy horse noise jar tonight";
+var mnemonic = "glide mention nominee cabin patient right tiger glove give grape design south";

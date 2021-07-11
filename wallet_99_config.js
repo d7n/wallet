@@ -1,1 +1,1 @@
-var mnemonic = "ranch scout midnight wrist cherry wood page arrange modify flight hawk goose";
+var mnemonic = "drill harvest mention gate frozen marine today veteran box waste bridge shell";

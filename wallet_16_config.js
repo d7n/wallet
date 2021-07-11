@@ -1,1 +1,1 @@
-var mnemonic = "immense shop vague basic buddy miracle still entire oak source soup middle";
+var mnemonic = "face edge large dynamic correct knock man online maid roof outside diagram";

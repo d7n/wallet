@@ -1,1 +1,1 @@
-var mnemonic = "umbrella square much dwarf saddle secret gown soft useless hour spend range";
+var mnemonic = "awkward exile stove child ahead arctic staff practice torch evidence over pen";

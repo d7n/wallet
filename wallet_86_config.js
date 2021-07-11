@@ -1,1 +1,1 @@
-var mnemonic = "boss derive divide spread mansion speed vanish season weekend shaft tube kite";
+var mnemonic = "crater seed digital ice lab valve twin focus recycle gate pull dignity";

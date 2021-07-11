@@ -1,1 +1,1 @@
-var mnemonic = "away marriage knee hat cereal embrace forest pretty shine sun floor clump";
+var mnemonic = "marine pet word twelve slim cross rose nuclear fat raven mouse day";

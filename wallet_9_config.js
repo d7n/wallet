@@ -1,1 +1,1 @@
-var mnemonic = "pottery hurt critic music pluck hero ghost balcony subway audit adapt work";
+var mnemonic = "weasel brain flip ignore buddy exile logic powder tiger almost salon choice";

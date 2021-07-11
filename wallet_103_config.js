@@ -1,1 +1,1 @@
-var mnemonic = "modify robust inspire canal minor memory poverty gadget equal census crowd bottom";
+var mnemonic = "cricket clown flight hat vacuum foot drastic pistol image win page obscure";

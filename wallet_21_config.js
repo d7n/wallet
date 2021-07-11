@@ -1,1 +1,1 @@
-var mnemonic = "habit advice opinion image dish rocket first lucky ice proof spare swap";
+var mnemonic = "cereal anxiety blame spring wrestle fee churn help rally gate chat auto";

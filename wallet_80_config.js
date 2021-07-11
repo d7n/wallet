@@ -1,1 +1,1 @@
-var mnemonic = "quick light dilemma bonus gather awful theory consider draw hammer space warrior";
+var mnemonic = "bridge nuclear tonight boy goose hope leaf cable fury motor donkey change";

@@ -1,1 +1,1 @@
-var mnemonic = "extend soda awful armor safe pioneer firm tattoo attend grass chief woman";
+var mnemonic = "session release high clever chase layer clap need other settle main catch";

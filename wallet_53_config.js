@@ -1,1 +1,1 @@
-var mnemonic = "portion voice fringe control example barrel stairs index jungle nephew husband like";
+var mnemonic = "uniform matter memory fury museum neither tongue disagree plunge youth cargo meat";

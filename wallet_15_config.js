@@ -1,1 +1,1 @@
-var mnemonic = "inform guess budget cool hollow virus scrub drink diary size survey midnight";
+var mnemonic = "expand upon welcome better link wide valve pulse win shop wrist zoo";

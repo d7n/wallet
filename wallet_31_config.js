@@ -1,1 +1,1 @@
-var mnemonic = "angle page year champion trap fresh success minimum either rigid rent term";
+var mnemonic = "actual fan mule beyond gain giant garage liar okay double pond belt";

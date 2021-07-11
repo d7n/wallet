@@ -1,1 +1,1 @@
-var mnemonic = "forest interest purity private box depend goddess three seek lonely emotion grace";
+var mnemonic = "fade assault name dilemma spice magic loan wear wood frown pipe enjoy";

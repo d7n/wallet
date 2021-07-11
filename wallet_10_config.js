@@ -1,1 +1,1 @@
-var mnemonic = "number amateur dwarf cycle clap danger tornado slide alien light output stool";
+var mnemonic = "hip funny acid prevent chat motor allow please solar uncover surge blind";

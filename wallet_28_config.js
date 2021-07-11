@@ -1,1 +1,1 @@
-var mnemonic = "soon sell divorce any cable drop forget snap tiger kingdom duty duty";
+var mnemonic = "poem cross lounge destroy tornado banner girl easy copy enjoy farm fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "draft blind clump run forest motion acid crucial impulse tribe game material";
+var mnemonic = "dutch same fuel decline dice trip series thrive wrap ancient coin ginger";

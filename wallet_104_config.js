@@ -1,1 +1,1 @@
-var mnemonic = "tiger adult vault swing fresh already twenty medal consider recycle trend slow";
+var mnemonic = "ecology abandon giant mansion hamster coast tiger gold later steel marble duty";

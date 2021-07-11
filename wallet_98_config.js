@@ -1,1 +1,1 @@
-var mnemonic = "pole mirror awake cherry nation timber glad blue view correct avocado afraid";
+var mnemonic = "behind cabbage wasp finger garbage gravity recycle uncle source nest sadness breeze";

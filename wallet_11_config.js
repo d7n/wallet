@@ -1,1 +1,1 @@
-var mnemonic = "ancient replace multiply gas kiss brown ancient avocado purchase talk because humble";
+var mnemonic = "palm month glass chunk poem portion connect strategy jazz thumb talent drill";

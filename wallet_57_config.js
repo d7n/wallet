@@ -1,1 +1,1 @@
-var mnemonic = "humor wish raise lemon father aerobic mad north love improve dish cook";
+var mnemonic = "moon pill energy disease rhythm crouch inquiry domain decorate boring reopen lumber";

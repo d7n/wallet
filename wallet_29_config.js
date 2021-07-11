@@ -1,1 +1,1 @@
-var mnemonic = "interest episode exit inflict slow fault finish clerk siren state dilemma quiz";
+var mnemonic = "stool worth furnace upon track traffic ancient explain deposit art awake saddle";

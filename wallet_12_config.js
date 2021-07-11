@@ -1,1 +1,1 @@
-var mnemonic = "piece myth film assume blame claim morning banana swim base math stamp";
+var mnemonic = "whale enhance cousin potato again narrow garden shove heavy avocado token pigeon";

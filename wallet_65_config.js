@@ -1,1 +1,1 @@
-var mnemonic = "harbor save blue palm side green mercy mutual tent balcony define install";
+var mnemonic = "glad basic gun wink describe farm hospital glimpse convince moment patch snake";

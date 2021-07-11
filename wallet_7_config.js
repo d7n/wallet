@@ -1,1 +1,1 @@
-var mnemonic = "notice salt pass horse cereal gym sphere banner bargain output destroy chaos";
+var mnemonic = "squeeze what promote basket diesel catch armor dinner reject sphere always trim";

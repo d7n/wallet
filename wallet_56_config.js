@@ -1,1 +1,1 @@
-var mnemonic = "settle paper inform improve ancient slogan fork cattle anchor forward rally quantum";
+var mnemonic = "ordinary hold layer curtain stable expand enrich flip check fine element confirm";

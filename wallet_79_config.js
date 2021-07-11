@@ -1,1 +1,1 @@
-var mnemonic = "brief witness woman divide whip spirit any force type trade educate sentence";
+var mnemonic = "thank deposit cruel ring huge wood cable trash common siren planet crane";

@@ -1,1 +1,1 @@
-var mnemonic = "civil flat amazing intact drill dial exhaust favorite aunt voice shift lesson";
+var mnemonic = "future bulb citizen island robot measure fever author advice deputy knife core";

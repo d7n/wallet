@@ -1,1 +1,1 @@
-var mnemonic = "inquiry more maximum add three oak bomb result ship horror leg tonight";
+var mnemonic = "art cage cable used battle grab inform round wrap crystal draft search";

@@ -1,1 +1,1 @@
-var mnemonic = "nature swim area borrow other cheese caught gown field alter electric captain";
+var mnemonic = "space raw trash prevent around pledge three glare credit pave latin nest";

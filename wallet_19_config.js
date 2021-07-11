@@ -1,1 +1,1 @@
-var mnemonic = "helmet melody olympic winter aunt crew tower deputy duck merit erase fantasy";
+var mnemonic = "doctor wait random travel dad suit flush aware hybrid easily creek name";

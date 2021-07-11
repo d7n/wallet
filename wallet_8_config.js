@@ -1,1 +1,1 @@
-var mnemonic = "skin armed picnic brave gossip arrow bacon mass swing father camera bid";
+var mnemonic = "betray tree plunge tumble pipe person enact item sugar replace melt pen";

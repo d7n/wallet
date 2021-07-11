@@ -1,1 +1,1 @@
-var mnemonic = "entire job junk unveil mesh clinic transfer hurt scheme spring vocal blame";
+var mnemonic = "push busy example camp tackle member bag evidence side element silver surprise";

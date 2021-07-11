@@ -1,1 +1,1 @@
-var mnemonic = "venture treat bone any network razor carpet add erupt giant glimpse tonight";
+var mnemonic = "crystal layer mango best exact electric stay derive genius rally elevator tube";

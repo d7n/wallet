@@ -1,1 +1,1 @@
-var mnemonic = "okay yard fiber loan cross choice witness spider payment obey ancient ball";
+var mnemonic = "dutch require alpha supply ranch spike fee twist subway chase bottom solar";

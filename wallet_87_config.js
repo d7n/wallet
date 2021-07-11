@@ -1,1 +1,1 @@
-var mnemonic = "tiny balcony unhappy review job loan zoo phrase oval section soft convince";
+var mnemonic = "crew welcome twice enact afford insane this display skin switch observe target";

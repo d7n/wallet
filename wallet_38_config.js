@@ -1,1 +1,1 @@
-var mnemonic = "exercise guilt deal rack fall agent nose renew gravity legend practice snap";
+var mnemonic = "ocean tenant civil illness filter away tunnel veteran polar turkey blanket swear";

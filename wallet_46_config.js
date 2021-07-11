@@ -1,1 +1,1 @@
-var mnemonic = "access trim pool pair unique frozen steel divorce shift insect method ancient";
+var mnemonic = "armed pill pulse brother edge save ketchup guard drama huge absorb ethics";

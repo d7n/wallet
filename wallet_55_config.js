@@ -1,1 +1,1 @@
-var mnemonic = "neglect strike notice muffin million involve flight become inform room valley pioneer";
+var mnemonic = "slight loud subway income absent laptop pattern lens fault scale arrange embrace";

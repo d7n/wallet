@@ -1,1 +1,1 @@
-var mnemonic = "equal assist frost reflect empower laugh horn laundry soul crash skull dry";
+var mnemonic = "monkey cushion cause cage flush title snack midnight later welcome train happy";

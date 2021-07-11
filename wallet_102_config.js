@@ -1,1 +1,1 @@
-var mnemonic = "picture symptom soda major repair coyote nation repeat general arctic federal crowd";
+var mnemonic = "wreck moral crisp shoe credit victory piece domain april stumble someone busy";

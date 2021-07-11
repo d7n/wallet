@@ -1,1 +1,1 @@
-var mnemonic = "truth sense march candy mixed proof tackle truly whale wrong camp board";
+var mnemonic = "monitor fury certain measure pulp fold scrap pumpkin renew feed hood fan";

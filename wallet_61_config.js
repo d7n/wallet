@@ -1,1 +1,1 @@
-var mnemonic = "note mass item royal high final runway advance day swap other drill";
+var mnemonic = "depend demise fee dream learn giant permit dune promote mom marble poet";

@@ -1,1 +1,1 @@
-var mnemonic = "potato enact kiwi clump tilt square speak leave pact blossom banana erupt";
+var mnemonic = "describe rescue useless arch frog bar silver lecture immune mutual legal brain";

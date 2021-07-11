@@ -1,1 +1,1 @@
-var mnemonic = "keen outdoor report stage betray sheriff earn witness angle lunch hedgehog raccoon";
+var mnemonic = "leader path close proof elegant mutual seminar bright urge hand scene milk";

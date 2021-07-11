@@ -1,1 +1,1 @@
-var mnemonic = "space useful agent provide common slogan once eternal torch island original baby";
+var mnemonic = "example rude dinosaur drama dose nothing evil obscure simple remind infant half";

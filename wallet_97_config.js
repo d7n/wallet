@@ -1,1 +1,1 @@
-var mnemonic = "ethics siege magnet insane attitude tumble gold absorb bar soccer identify tag";
+var mnemonic = "rely float jelly milk apology lesson feed ankle doll state peanut cattle";

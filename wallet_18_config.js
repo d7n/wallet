@@ -1,1 +1,1 @@
-var mnemonic = "crack tool cruel unveil wrist kidney repair office either hazard wreck august";
+var mnemonic = "milk waste misery ripple wait genuine essay swamp learn rail shadow drive";

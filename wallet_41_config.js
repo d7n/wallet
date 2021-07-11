@@ -1,1 +1,1 @@
-var mnemonic = "march girl merit survey assault educate ribbon country error advice option opera";
+var mnemonic = "able tag vapor sense yellow slender trap uniform artist symbol jealous twist";

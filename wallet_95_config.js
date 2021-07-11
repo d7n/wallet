@@ -1,1 +1,1 @@
-var mnemonic = "render clutch session eagle intact weekend lyrics noise artist farm sting enter";
+var mnemonic = "able bid extra process depth blade disorder term language rack health salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "cream review door cry april robot leg reduce indoor much orange dilemma";
+var mnemonic = "bulk curious hold castle feel organ pledge oxygen amateur onion race army";

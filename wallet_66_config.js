@@ -1,1 +1,1 @@
-var mnemonic = "language flavor boat pave potato rail aspect lab toy tired scrub bubble";
+var mnemonic = "length battle twist peasant metal flavor purchase fold surface march century phrase";

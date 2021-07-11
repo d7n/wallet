@@ -1,1 +1,1 @@
-var mnemonic = "wisdom shiver sunny rice sentence enrich hip faint agent carry small goat";
+var mnemonic = "knee share mask plastic cousin detect blouse mobile visa steel trim depth";

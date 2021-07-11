@@ -1,1 +1,1 @@
-var mnemonic = "usage iron expand glide agree action soup dirt critic mask simple country";
+var mnemonic = "tornado decline group trigger hazard cinnamon mystery music garment shy until damage";

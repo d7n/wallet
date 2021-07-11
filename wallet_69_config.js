@@ -1,1 +1,1 @@
-var mnemonic = "just satoshi example source advice birth wink steak bag maximum inmate same";
+var mnemonic = "fantasy you reason ranch title enforce quantum medal visa pioneer sausage hedgehog";

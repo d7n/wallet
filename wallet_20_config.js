@@ -1,1 +1,1 @@
-var mnemonic = "sweet labor resemble cry wall fence over list shove first soap collect";
+var mnemonic = "demise diet flight famous expect outdoor corn since cancel useful color movie";

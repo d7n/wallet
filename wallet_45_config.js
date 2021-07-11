@@ -1,1 +1,1 @@
-var mnemonic = "pole easy remove analyst social speed liar fever identify keen first grace";
+var mnemonic = "remind save very plunge kiwi capable roast near rubber acoustic photo link";

@@ -1,1 +1,1 @@
-var mnemonic = "discover grace rose wood rebuild chronic polar relief list panther sell husband";
+var mnemonic = "elevator paddle melody success era pave usual topple wood cross hazard hope";

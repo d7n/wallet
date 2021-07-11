@@ -1,1 +1,1 @@
-var mnemonic = "annual social gravity tube cross amused lift merry minor length sudden enable";
+var mnemonic = "street image hover twelve select betray start drill delay invite force smart";

@@ -1,1 +1,1 @@
-var mnemonic = "market sand airport neglect suffer travel scrap original ask throw unit draw";
+var mnemonic = "credit shoe embrace thrive solution undo bread gospel mistake three crunch climb";

@@ -1,1 +1,1 @@
-var mnemonic = "banner valley they whisper slow parade vague man demise exit relax guitar";
+var mnemonic = "pen remember submit discover promote disease lake broccoli lounge glory orphan lion";

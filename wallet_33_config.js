@@ -1,1 +1,1 @@
-var mnemonic = "ski permit wedding race prepare small fabric check dentist crunch purity omit";
+var mnemonic = "nothing oval soul valve play glare adult media hard chronic shoulder thing";

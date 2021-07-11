@@ -1,1 +1,1 @@
-var mnemonic = "trophy stuff pepper fashion vibrant farm embody time off range oxygen siege";
+var mnemonic = "tourist option copy prosper mansion penalty broccoli sustain penalty earth trim swing";

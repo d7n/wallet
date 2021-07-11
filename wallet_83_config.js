@@ -1,1 +1,1 @@
-var mnemonic = "immune mass sport crane stove ask cabin paper critic two solid squirrel";
+var mnemonic = "wisdom obtain fatigue stomach inside power tank entire material panther earn outside";

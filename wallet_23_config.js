@@ -1,1 +1,1 @@
-var mnemonic = "twelve absorb increase almost prize rare solid bless weasel autumn width case";
+var mnemonic = "they retire test fox danger alter demise carbon camera cage bar enroll";

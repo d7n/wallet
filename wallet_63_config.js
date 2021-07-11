@@ -1,1 +1,1 @@
-var mnemonic = "alley clutch now close fit chicken local vanish divorce siege leisure good";
+var mnemonic = "anger soccer foam mammal average exotic orient improve crystal curtain swap exotic";

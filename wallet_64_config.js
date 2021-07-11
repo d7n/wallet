@@ -1,1 +1,1 @@
-var mnemonic = "liquid sell unable grant simple buzz switch web gym tackle hour repeat";
+var mnemonic = "exclude gather huge rocket champion hotel bless climb emerge mystery toss path";

@@ -1,1 +1,1 @@
-var mnemonic = "exist fashion leave okay arena naive brand hawk fish return weasel plunge";
+var mnemonic = "royal bitter art torch pilot appear bundle settle gun bird awkward soldier";

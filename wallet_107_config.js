@@ -1,1 +1,1 @@
-var mnemonic = "click fever release dismiss pulse pet wrong age original eyebrow obey cancel";
+var mnemonic = "margin history ten vanish cost coyote miracle flip cannon uphold prosper radar";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead obvious shed tourist human original harsh squirrel quantum obey inhale swift";
+var mnemonic = "best repair leader capital gap beyond clay sponsor sweet wait expand patrol";

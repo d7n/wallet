@@ -1,1 +1,1 @@
-var mnemonic = "animal divide primary glad witness love second twice caught opera fringe social";
+var mnemonic = "club kiss pen assist sport peasant spike mass runway image insane chunk";

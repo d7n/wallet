@@ -1,1 +1,1 @@
-var mnemonic = "cement hollow profit grocery next keen cram hint certain claw fabric unaware";
+var mnemonic = "blood awesome friend mind spread luggage hello hammer edge tortoise blood jungle";

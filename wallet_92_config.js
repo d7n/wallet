@@ -1,1 +1,1 @@
-var mnemonic = "awesome excess repeat help develop invite swift tail club enter more squeeze";
+var mnemonic = "tobacco lounge coach joke glance evolve basic give skirt crime rescue easily";
