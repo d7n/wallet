@@ -1,1 +1,1 @@
-var mnemonic = "crumble kit round asthma pink elevator bottom pulse cousin tennis orchard humble";
+var mnemonic = "symbol cannon work situate side fever purpose hard twin patient sheriff black";

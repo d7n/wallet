@@ -1,1 +1,1 @@
-var mnemonic = "admit coin false puzzle punch client whale section school any reduce twelve";
+var mnemonic = "bulk clinic actor frost useful tenant letter around kick nephew diesel head";

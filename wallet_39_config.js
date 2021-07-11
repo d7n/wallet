@@ -1,1 +1,1 @@
-var mnemonic = "cannon front wedding soft skirt junior border install festival science struggle among";
+var mnemonic = "drop property finish attend magic unique gas damage segment sock approve multiply";

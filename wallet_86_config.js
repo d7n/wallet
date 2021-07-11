@@ -1,1 +1,1 @@
-var mnemonic = "soup exercise enough rather nominee dish pave stamp clip credit hurry raw";
+var mnemonic = "aim congress average cash balcony media poem asthma shoe very have mercy";

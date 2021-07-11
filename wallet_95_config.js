@@ -1,1 +1,1 @@
-var mnemonic = "oval slight vehicle measure odor monitor voyage athlete final danger enhance purpose";
+var mnemonic = "kangaroo devote evolve exile enlist convince render drip used soup zoo chalk";

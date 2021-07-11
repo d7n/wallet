@@ -1,1 +1,1 @@
-var mnemonic = "mean they coyote border demise fold kite fox laundry develop winner rice";
+var mnemonic = "embark fat settle face ripple vapor employ chair write wild wall accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "say inch strong apart hat dirt write ritual learn crystal waste rescue";
+var mnemonic = "aerobic host lab tank aisle grocery mix iron future legend grunt split";

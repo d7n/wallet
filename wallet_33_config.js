@@ -1,1 +1,1 @@
-var mnemonic = "space remain quit range awful run exhaust purchase tackle salon shoot junk";
+var mnemonic = "bright purchase disease safe rotate episode blue frown copy powder potato kiss";

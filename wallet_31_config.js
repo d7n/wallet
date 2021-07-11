@@ -1,1 +1,1 @@
-var mnemonic = "sad tell private cloud layer put sample chat service minimum energy side";
+var mnemonic = "faint size two misery route knee gun order deputy mercy apple promote";

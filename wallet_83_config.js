@@ -1,1 +1,1 @@
-var mnemonic = "oblige exchange scout core royal tattoo fresh expire crew bacon use sister";
+var mnemonic = "innocent toss toss keep intact fence dash soft allow ketchup brown agree";

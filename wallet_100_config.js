@@ -1,1 +1,1 @@
-var mnemonic = "sudden hero faculty pride help label jaguar measure inform vanish solve message";
+var mnemonic = "note renew range rich grocery later trumpet link raw style shed orange";

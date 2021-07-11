@@ -1,1 +1,1 @@
-var mnemonic = "cook winner cannon report puppy maze noise identify memory public future peasant";
+var mnemonic = "audit arrive empty canyon knock save tornado claw welcome again mind elbow";

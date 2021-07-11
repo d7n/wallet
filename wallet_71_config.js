@@ -1,1 +1,1 @@
-var mnemonic = "spoil lesson color neither deny welcome hill runway cycle caution soda prevent";
+var mnemonic = "olympic dad tunnel obtain almost sense toss fringe report else dragon echo";

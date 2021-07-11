@@ -1,1 +1,1 @@
-var mnemonic = "angle bleak weather script excite else flash apart sword open electric please";
+var mnemonic = "lobster race cinnamon more pill garment coach there hungry card swear glide";

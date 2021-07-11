@@ -1,1 +1,1 @@
-var mnemonic = "mirror attack penalty iron wage put jaguar interest visual tragic know fix";
+var mnemonic = "cruel casual source earn bitter board old question valid maple distance dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin avoid health rebuild great border obey alcohol solar pitch vacuum test";
+var mnemonic = "siege swallow detail canyon toilet crystal shed chair next limit fly better";

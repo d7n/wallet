@@ -1,1 +1,1 @@
-var mnemonic = "share chase strategy shoulder steel organ cool ten journey offer convince wood";
+var mnemonic = "make eager october zero process want raccoon meadow blade gospel humble phrase";

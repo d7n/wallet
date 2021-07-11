@@ -1,1 +1,1 @@
-var mnemonic = "quiz random evolve fiction local catch fork purity powder strategy weapon asset";
+var mnemonic = "direct long rifle sing trophy eye turtle chimney another notable soda club";

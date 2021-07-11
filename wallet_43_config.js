@@ -1,1 +1,1 @@
-var mnemonic = "toss disagree puppy legal frequent aisle patient patient number pony upper piece";
+var mnemonic = "friend virtual brother bean mad useful recycle refuse fossil fly cruel divorce";

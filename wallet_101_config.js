@@ -1,1 +1,1 @@
-var mnemonic = "celery barely duty update potato fashion noise almost frequent fantasy medal caught";
+var mnemonic = "update boy card flip virtual addict second bronze first wedding excuse service";

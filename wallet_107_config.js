@@ -1,1 +1,1 @@
-var mnemonic = "salon kitten name drama about drama slender resemble humble exile uniform general";
+var mnemonic = "legal betray survey upon fix vault manual debris guitar search grow cage";

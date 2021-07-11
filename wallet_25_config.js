@@ -1,1 +1,1 @@
-var mnemonic = "owner frequent swarm horse surge argue input under intact real tray cupboard";
+var mnemonic = "mask private leisure hospital ski action angle false purpose ramp improve echo";

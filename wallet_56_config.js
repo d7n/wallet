@@ -1,1 +1,1 @@
-var mnemonic = "sing glad bulk silent output guard alter rival receive flavor garden sketch";
+var mnemonic = "private claim spend magnet profit resemble zero yard fun priority smile boy";

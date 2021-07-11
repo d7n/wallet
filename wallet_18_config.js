@@ -1,1 +1,1 @@
-var mnemonic = "diagram steak barrel cake media tray stuff setup among female home mechanic";
+var mnemonic = "uncover human like believe police marine over eagle raccoon agree tool blast";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon town situate render alien flash harbor vapor agent document onion cricket";
+var mnemonic = "grab teach grass load biology federal extend syrup muscle merit brain young";

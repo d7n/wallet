@@ -1,1 +1,1 @@
-var mnemonic = "attract fossil hello guilt need love unable sad spice work about truly";
+var mnemonic = "swallow grunt inspire fall urban letter crack olive coyote detail remove wrist";

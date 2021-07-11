@@ -1,1 +1,1 @@
-var mnemonic = "abuse route naive reduce melt crash trash nose document pipe carbon output";
+var mnemonic = "meadow barrel end faculty second cargo auction next van excite pause alarm";

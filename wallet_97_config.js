@@ -1,1 +1,1 @@
-var mnemonic = "soon crystal cost buyer short pipe position rural horse nothing first edge";
+var mnemonic = "then bullet vapor soap scout weather brown grocery farm lake aisle virtual";

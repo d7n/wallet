@@ -1,1 +1,1 @@
-var mnemonic = "drink federal person expire credit misery giggle account explain dinosaur item base";
+var mnemonic = "rural fabric supply brother apart victory rib lucky boy rabbit cloth castle";

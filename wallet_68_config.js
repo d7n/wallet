@@ -1,1 +1,1 @@
-var mnemonic = "chicken clog symptom sad display holiday yellow steel adjust bottom struggle over";
+var mnemonic = "output side text attract damage trim sphere ocean pioneer merry story catch";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond toward envelope wife bind unique decrease gossip this weather token give";
+var mnemonic = "spy balance diamond member mosquito fancy wagon brand once blur skin budget";

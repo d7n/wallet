@@ -1,1 +1,1 @@
-var mnemonic = "memory enjoy truck viable struggle elite across file leopard pet attitude tuition";
+var mnemonic = "excite cotton innocent ahead script library bamboo shoulder alone uncover yellow staff";

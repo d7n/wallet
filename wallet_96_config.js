@@ -1,1 +1,1 @@
-var mnemonic = "pill refuse double matter ramp shuffle abuse bottom mountain morning twin grief";
+var mnemonic = "scissors medal dentist limb entry chef rebel erupt drastic soldier goddess enforce";

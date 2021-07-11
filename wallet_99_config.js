@@ -1,1 +1,1 @@
-var mnemonic = "movie improve sadness evolve wrestle parrot drip excuse door arctic intact wagon";
+var mnemonic = "exclude own legend farm oven travel awkward patch finish symbol space source";

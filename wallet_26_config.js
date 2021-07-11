@@ -1,1 +1,1 @@
-var mnemonic = "friend affair flavor snow cool arena camp enemy faint arm motor access";
+var mnemonic = "safe fix harsh tortoise use current side satisfy delay radio inform exclude";

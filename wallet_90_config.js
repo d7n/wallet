@@ -1,1 +1,1 @@
-var mnemonic = "ability connect inside run gossip burger mystery cabbage tell ticket tree garage";
+var mnemonic = "palace random crouch ill course lend board you wealth pluck pole glove";

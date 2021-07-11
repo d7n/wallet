@@ -1,1 +1,1 @@
-var mnemonic = "tooth disease south often sell mandate december aware fox arrest girl huge";
+var mnemonic = "know side festival shell bounce regret upon cancel kingdom actress receive barrel";

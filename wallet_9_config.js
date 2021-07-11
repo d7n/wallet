@@ -1,1 +1,1 @@
-var mnemonic = "volcano wage cry rent toward napkin real museum proud moment inch romance";
+var mnemonic = "ladder govern mixed custom spatial depth pioneer carbon crater early sound conduct";

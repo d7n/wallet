@@ -1,1 +1,1 @@
-var mnemonic = "ivory regret advance defense trouble velvet marriage volume ecology liquid treat cattle";
+var mnemonic = "target thunder fox twin canvas horror empty notice grain light engine inspire";

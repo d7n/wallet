@@ -1,1 +1,1 @@
-var mnemonic = "top riot undo lawsuit spoon claim pen bullet violin balance omit marble";
+var mnemonic = "chuckle best solar armed surround girl identify solve provide kitten soft debate";

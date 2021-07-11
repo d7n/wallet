@@ -1,1 +1,1 @@
-var mnemonic = "super smoke couple exit dirt must melody number episode fantasy addict blur";
+var mnemonic = "movie sorry outer task toss hint aisle recipe forest rescue silly project";

@@ -1,1 +1,1 @@
-var mnemonic = "hill north load husband noise stone exercise urge pioneer security since month";
+var mnemonic = "size social truck shiver focus sample beauty dismiss truly hire athlete depend";

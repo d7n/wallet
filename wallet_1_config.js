@@ -1,1 +1,1 @@
-var mnemonic = "film actress green estate wheel beach decorate letter obey isolate fog scan";
+var mnemonic = "wire arctic honey video fortune innocent teach nuclear journey scissors praise transfer";

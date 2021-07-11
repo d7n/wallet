@@ -1,1 +1,1 @@
-var mnemonic = "loop sorry attitude nerve once coconut stuff much kidney wear cricket weasel";
+var mnemonic = "then large phrase among fever check jelly giraffe family library sunset warfare";

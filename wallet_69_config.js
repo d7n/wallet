@@ -1,1 +1,1 @@
-var mnemonic = "bronze ramp crack zebra speed maze fatigue razor cup tenant wood gas";
+var mnemonic = "trend annual cargo auto churn eyebrow dog family guitar head today quit";

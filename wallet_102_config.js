@@ -1,1 +1,1 @@
-var mnemonic = "choose south include inner order double smart come original sphere task code";
+var mnemonic = "cereal copper mango achieve ripple nice doctor concert power average seven reject";

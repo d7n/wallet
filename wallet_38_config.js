@@ -1,1 +1,1 @@
-var mnemonic = "ill elegant young safe shove insect image beef improve supply music seven";
+var mnemonic = "asset cigar clinic vague cargo vague cruel wide spirit meadow model merry";

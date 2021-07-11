@@ -1,1 +1,1 @@
-var mnemonic = "regular orbit noodle crater conduct convince hurt kangaroo sort school floor mechanic";
+var mnemonic = "syrup stem club offer response double youth poem banana much side chat";

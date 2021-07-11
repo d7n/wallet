@@ -1,1 +1,1 @@
-var mnemonic = "retire produce real crush ball team minute learn rhythm duck consider seed";
+var mnemonic = "play amateur wall print jazz hockey scare agree jump foot mean inquiry";

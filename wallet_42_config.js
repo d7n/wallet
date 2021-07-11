@@ -1,1 +1,1 @@
-var mnemonic = "frost dove fox lunch address embark like ball rubber film rude cliff";
+var mnemonic = "wood siren bone model jaguar hundred opera stove basket nerve face champion";

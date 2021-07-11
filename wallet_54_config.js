@@ -1,1 +1,1 @@
-var mnemonic = "property involve yellow salon seven gadget lonely december point weapon hurry rabbit";
+var mnemonic = "mother hand task mouse apple unfair nerve common frog hair enable assume";

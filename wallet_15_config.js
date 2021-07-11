@@ -1,1 +1,1 @@
-var mnemonic = "strong vacuum absorb cinnamon protect chuckle rail vote style fruit arm mango";
+var mnemonic = "salute veteran riot agree dose bacon sister stock link oxygen maze oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "math arch diet exhaust gain awkward virtual sort young voyage zoo art";
+var mnemonic = "usage animal chair cloud provide crucial noodle main dismiss electric derive steak";

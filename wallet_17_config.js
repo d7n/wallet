@@ -1,1 +1,1 @@
-var mnemonic = "pulp absorb fossil still penalty run soap early capable setup remain couple";
+var mnemonic = "bleak split finger shaft spawn tuna cube abstract budget course dress defy";

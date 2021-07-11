@@ -1,1 +1,1 @@
-var mnemonic = "trust venue path witness clown easy morning rural swift price guess connect";
+var mnemonic = "skin round grain chimney illegal wash replace settle ethics maid scatter essence";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal little until hip aerobic fade nothing wisdom unusual better labor fog";
+var mnemonic = "glove jar method curve rent produce reduce finish eye grant ball polar";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget ocean juice drum night digital era correct prosper morning excuse father";
+var mnemonic = "jump recycle analyst draw oven harbor limb minimum kit cousin leg match";

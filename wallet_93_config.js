@@ -1,1 +1,1 @@
-var mnemonic = "card oak ahead regret cable injury short confirm game nut immense lend";
+var mnemonic = "acquire project moral solid rain wolf grocery trust pyramid eight mansion inform";

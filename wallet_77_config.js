@@ -1,1 +1,1 @@
-var mnemonic = "toward behind curtain actor thought course depth cactus mom design talent timber";
+var mnemonic = "delay valley derive seed you shallow until bronze rack open exit birth";

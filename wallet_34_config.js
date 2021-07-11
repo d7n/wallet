@@ -1,1 +1,1 @@
-var mnemonic = "door stem system gift found dinner pretty toilet initial judge rent strong";
+var mnemonic = "case arrive join riot mean acquire conduct famous grain planet welcome auto";

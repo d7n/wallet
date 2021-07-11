@@ -1,1 +1,1 @@
-var mnemonic = "uphold alter dose side three concert card pretty better sheriff tongue photo";
+var mnemonic = "sign defy already much suggest walk heavy actual gospel aunt audit art";

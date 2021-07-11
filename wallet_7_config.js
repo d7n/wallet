@@ -1,1 +1,1 @@
-var mnemonic = "large physical move cup sand north other library cactus vicious control worry";
+var mnemonic = "alert ball dilemma three desk victory wrong ribbon between tip song state";

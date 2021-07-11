@@ -1,1 +1,1 @@
-var mnemonic = "before execute churn frozen cousin spoon fashion divert priority gown tackle still";
+var mnemonic = "chimney gather wish uncover essence cement amused true payment amused lab scrub";

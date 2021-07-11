@@ -1,1 +1,1 @@
-var mnemonic = "loop season vocal puppy usual huge taxi fault obtain know curtain wife";
+var mnemonic = "penalty nuclear grace shoot great that wine kitchen best skill renew glare";

@@ -1,1 +1,1 @@
-var mnemonic = "bread lucky napkin patrol manage blade bright impose patrol record symbol kid";
+var mnemonic = "there stool harbor mimic once convince strategy struggle guess earn lounge divert";

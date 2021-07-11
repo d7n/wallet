@@ -1,1 +1,1 @@
-var mnemonic = "enlist during turtle force blind cart million shrug explain milk dinner trial";
+var mnemonic = "burger eternal strategy return appear gas spoon vocal industry draft security letter";

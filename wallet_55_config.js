@@ -1,1 +1,1 @@
-var mnemonic = "diary brick ship wonder sail silent fruit nuclear state forward unlock squeeze";
+var mnemonic = "stock flat sell item age hole wing doctor wrist fluid any chase";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic original tower blue inform glare bus tail ramp weather unveil also";
+var mnemonic = "daughter bomb true surround depth else disagree jacket victory flavor hurdle eye";

@@ -1,1 +1,1 @@
-var mnemonic = "course finish make sadness chunk crop region expire trumpet steel burden lonely";
+var mnemonic = "siege voyage crawl wine crouch flight sign analyst juice devote rib crack";

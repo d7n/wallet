@@ -1,1 +1,1 @@
-var mnemonic = "spice middle thought lava meadow analyst suspect palm spice sell snake float";
+var mnemonic = "urban member spatial hotel ask silent abandon enable melody siren until cross";

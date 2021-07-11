@@ -1,1 +1,1 @@
-var mnemonic = "twenty stable unusual purity interest flat note dove reunion autumn dynamic casual";
+var mnemonic = "media violin refuse nurse beef prosper merry explain monkey split garlic hope";

@@ -1,1 +1,1 @@
-var mnemonic = "call scare clutch identify slice stay cream enhance like offer fury decrease";
+var mnemonic = "leader gravity syrup glare drastic december boring alarm screen example virtual police";

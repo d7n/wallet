@@ -1,1 +1,1 @@
-var mnemonic = "mass local lobster farm cable detect card cloud two dawn museum ten";
+var mnemonic = "clap lake express traffic traffic unfold stem enact drip symbol place glory";

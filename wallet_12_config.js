@@ -1,1 +1,1 @@
-var mnemonic = "cradle glue brain era bird elder stage parade drink equip notable actress";
+var mnemonic = "coyote gauge exhibit segment exist mule wash equip involve tide credit reward";

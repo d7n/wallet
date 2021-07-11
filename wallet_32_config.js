@@ -1,1 +1,1 @@
-var mnemonic = "they sketch uncle snake energy result ghost zebra monitor horror fabric sniff";
+var mnemonic = "become describe uncover acquire basic ticket around desk awful salad bachelor struggle";

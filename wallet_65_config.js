@@ -1,1 +1,1 @@
-var mnemonic = "gap basket art bird monster tornado fragile anxiety drift effort orient federal";
+var mnemonic = "dove vivid combine immense broccoli settle rotate sleep shadow provide neck forum";

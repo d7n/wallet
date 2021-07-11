@@ -1,1 +1,1 @@
-var mnemonic = "clutch busy middle stable stumble village hazard chair frost label kind hero";
+var mnemonic = "project swing broccoli someone color december dice envelope unhappy ahead suit agree";

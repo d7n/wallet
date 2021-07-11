@@ -1,1 +1,1 @@
-var mnemonic = "wrist armor lesson clever inject shove remind project radio evil inhale trust";
+var mnemonic = "proof review pepper together tank extend tobacco gap evoke absent delay devote";

@@ -1,1 +1,1 @@
-var mnemonic = "normal wreck arrange panda tuition paddle unusual mesh trade nest inspire onion";
+var mnemonic = "grab slice siren twin clock good foam extra library obey stool outer";

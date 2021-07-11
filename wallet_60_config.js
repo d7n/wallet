@@ -1,1 +1,1 @@
-var mnemonic = "upon rug govern rescue dial empty term marine volume chest cereal february";
+var mnemonic = "swarm easy sight negative collect water credit neck element absurd cigar metal";

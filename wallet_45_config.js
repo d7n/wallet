@@ -1,1 +1,1 @@
-var mnemonic = "afford know joy visit click remain danger sweet next jacket inflict grant";
+var mnemonic = "stuff clip whip cute series job input sight credit bulb benefit logic";

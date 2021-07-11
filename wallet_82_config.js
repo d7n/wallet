@@ -1,1 +1,1 @@
-var mnemonic = "wonder mystery ozone screen tell ahead chair fury stuff pen quarter media";
+var mnemonic = "choose weekend thrive about pizza account coach industry swift jacket earth live";

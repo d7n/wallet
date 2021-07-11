@@ -1,1 +1,1 @@
-var mnemonic = "open tourist wool battle prefer cost lion fence reject turkey bunker symptom";
+var mnemonic = "output pink unlock spoon awkward math ceiling wheat decorate regret car opinion";

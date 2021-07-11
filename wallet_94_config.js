@@ -1,1 +1,1 @@
-var mnemonic = "panel cup liquid wise manual link weasel sniff cave inspire insect exit";
+var mnemonic = "purse rescue argue three mad toilet before angry balcony picture mushroom fruit";

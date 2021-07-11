@@ -1,1 +1,1 @@
-var mnemonic = "apple sand toilet melody fire umbrella come patrol actor describe cup intact";
+var mnemonic = "cheese beyond summer swim debate monkey repair patient woman educate judge casual";

@@ -1,1 +1,1 @@
-var mnemonic = "place fluid model oppose blur noodle gap live usage supreme tank initial";
+var mnemonic = "uphold tiny alpha edit price gun cool fossil dad mushroom castle fiction";

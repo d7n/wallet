@@ -1,1 +1,1 @@
-var mnemonic = "point green opera gym mom grief crime salad garden bar diary fringe";
+var mnemonic = "update small error remove creek morning rabbit chase mandate gospel album camp";

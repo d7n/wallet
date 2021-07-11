@@ -1,1 +1,1 @@
-var mnemonic = "cancel repeat payment avoid auction engine aerobic charge avoid churn payment resemble";
+var mnemonic = "slight nose joke daughter chicken wage mosquito valid laundry father couch design";
