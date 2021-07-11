@@ -1,1 +1,1 @@
-var mnemonic = "canvas bone grid reform vanish cube panic waste evil space smooth trial";
+var mnemonic = "panel cheap mystery expand grab senior empower wild helmet sure flag forget";

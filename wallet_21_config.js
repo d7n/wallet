@@ -1,1 +1,1 @@
-var mnemonic = "style laptop small relax liberty increase cradle element enhance tribe dwarf odor";
+var mnemonic = "grid inmate figure brand there minor stereo direct journey amused liquid bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "vote plate fragile wool cake wonder furnace burst major pool valid pumpkin";
+var mnemonic = "promote execute joy blouse just jelly coach lizard bachelor suit disease number";

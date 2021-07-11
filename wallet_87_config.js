@@ -1,1 +1,1 @@
-var mnemonic = "obscure museum differ banner absorb impact shift holiday surprise confirm struggle fiber";
+var mnemonic = "six deposit august charge tag laugh couch suit boost slush climb senior";

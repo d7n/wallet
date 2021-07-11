@@ -1,1 +1,1 @@
-var mnemonic = "cement street label damage vague cave shoulder crop sting metal lazy twice";
+var mnemonic = "spend okay income noise armor author jump dose fog soccer endless shallow";

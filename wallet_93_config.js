@@ -1,1 +1,1 @@
-var mnemonic = "crane fog leopard health summer liberty dwarf ski skill uniform powder antique";
+var mnemonic = "sister expire virtual cash churn air brass dinner stick drip eight father";

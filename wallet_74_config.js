@@ -1,1 +1,1 @@
-var mnemonic = "twice island clarify hard keep list job beach ride bless question client";
+var mnemonic = "lift amazing sunny swift about hundred noise demise clerk timber sugar poverty";

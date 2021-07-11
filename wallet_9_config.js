@@ -1,1 +1,1 @@
-var mnemonic = "already subway will skill first motion lawsuit can domain hurdle step vote";
+var mnemonic = "photo identify suspect kitchen frog route turn middle spy puppy length doll";

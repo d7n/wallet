@@ -1,1 +1,1 @@
-var mnemonic = "hub supreme boring feature come measure case garage person approve senior supply";
+var mnemonic = "copper apple way island lonely ostrich bottom juice dignity manual pizza smile";

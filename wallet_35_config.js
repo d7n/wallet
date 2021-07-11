@@ -1,1 +1,1 @@
-var mnemonic = "perfect cool bring robot embody method gauge science device lazy fame drill";
+var mnemonic = "pattern afraid holiday author grunt spin lens glad rigid glue elite month";

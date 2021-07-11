@@ -1,1 +1,1 @@
-var mnemonic = "fever make ranch frost before enhance total stock birth sea future first";
+var mnemonic = "vessel copy dragon fold shock bicycle bleak slam utility immune lyrics symptom";

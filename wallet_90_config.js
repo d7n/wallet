@@ -1,1 +1,1 @@
-var mnemonic = "feel enrich void mention able screen milk ecology sport then escape marriage";
+var mnemonic = "occur bright afraid spring ignore child kite solid nose vague change round";

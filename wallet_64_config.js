@@ -1,1 +1,1 @@
-var mnemonic = "silver witness turtle beyond bronze fresh gorilla combine plastic slot primary protect";
+var mnemonic = "clock road transfer twice salute beauty when friend exotic alert actor lizard";

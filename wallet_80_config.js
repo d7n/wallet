@@ -1,1 +1,1 @@
-var mnemonic = "heart primary wisdom uncle electric find song defy fancy organ addict unique";
+var mnemonic = "planet social post another fetch brass diet illegal venture slot ice popular";

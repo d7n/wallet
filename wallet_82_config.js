@@ -1,1 +1,1 @@
-var mnemonic = "inch harsh lawn juice task bullet man tongue damage degree flight tumble";
+var mnemonic = "long minor concert again random law nation twice first way yard bone";

@@ -1,1 +1,1 @@
-var mnemonic = "grape organ reflect dismiss scale swift fine velvet strong sunny turn fashion";
+var mnemonic = "tortoise miracle device news orient million riot step live fork inmate addict";

@@ -1,1 +1,1 @@
-var mnemonic = "solve keen crew legal arrow radar wealth joke banana siege coral purity";
+var mnemonic = "trip assist unveil tattoo topic cherry twist vocal surround actress upgrade cinnamon";

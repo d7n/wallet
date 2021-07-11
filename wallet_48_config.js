@@ -1,1 +1,1 @@
-var mnemonic = "enhance tennis nerve pelican ocean join offer abuse vault rent capital announce";
+var mnemonic = "favorite shiver proud frog term friend knock decide tiger bright school panic";

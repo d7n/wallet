@@ -1,1 +1,1 @@
-var mnemonic = "eager word father chimney bounce fork aerobic sudden clump connect quote turn";
+var mnemonic = "honey wrap juice model assume globe boat sponsor mechanic improve cushion wear";

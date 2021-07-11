@@ -1,1 +1,1 @@
-var mnemonic = "crew run squirrel home trust jealous warm vague chronic deposit grief whisper";
+var mnemonic = "frost theory renew flip diamond allow setup property grace climb truly yard";

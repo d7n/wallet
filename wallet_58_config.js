@@ -1,1 +1,1 @@
-var mnemonic = "sound jacket maze fossil side surround rabbit wise hint private service shrimp";
+var mnemonic = "junk during glad dentist inch notable cement resemble clog private boil vessel";

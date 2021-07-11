@@ -1,1 +1,1 @@
-var mnemonic = "rebuild vital lift shed shoot tuna until twenty scene sheriff predict alpha";
+var mnemonic = "hundred nice legal thank winner ski thought later debris chest grant derive";

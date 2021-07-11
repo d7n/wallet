@@ -1,1 +1,1 @@
-var mnemonic = "stool supply because sister shop chef dose process ride nest sugar garbage";
+var mnemonic = "forum decade crucial expand stage fashion long tooth aerobic dial stomach foil";

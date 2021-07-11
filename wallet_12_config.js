@@ -1,1 +1,1 @@
-var mnemonic = "kidney message scare behave flock clog kit alter skill december code fox";
+var mnemonic = "sort wrist tag alpha book hollow tone flag urge dance expect surface";

@@ -1,1 +1,1 @@
-var mnemonic = "shove long repair whisper wait try impact become rabbit alcohol change assume";
+var mnemonic = "decade aisle outer tennis shield sausage record glad sibling pigeon vote ocean";

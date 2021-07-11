@@ -1,1 +1,1 @@
-var mnemonic = "plastic aim behave apple check track alpha patrol cattle cup dilemma wild";
+var mnemonic = "answer dynamic west oven elephant unit wink excess under decade lion biology";

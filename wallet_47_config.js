@@ -1,1 +1,1 @@
-var mnemonic = "armed observe initial holiday cup slush father depend zoo glory message goat";
+var mnemonic = "category fortune baby chronic comfort twenty height begin level east nurse lecture";

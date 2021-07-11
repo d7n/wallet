@@ -1,1 +1,1 @@
-var mnemonic = "buddy science carbon chuckle input special chronic unlock broccoli correct jazz turkey";
+var mnemonic = "siege effort silver smart valley observe situate odor state leisure gather eager";

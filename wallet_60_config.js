@@ -1,1 +1,1 @@
-var mnemonic = "divide asset lens gossip melt loop sugar rapid stove cloud hour casual";
+var mnemonic = "beauty obtain birth unfold bag delay copper version wrestle barrel today envelope";

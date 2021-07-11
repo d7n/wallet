@@ -1,1 +1,1 @@
-var mnemonic = "draw manual morning dish leisure erosion mountain spring giraffe gift disorder time";
+var mnemonic = "breeze sword patch final emerge aware vague today employ search insect arrest";

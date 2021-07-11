@@ -1,1 +1,1 @@
-var mnemonic = "trick junior toy potato sketch cliff another minute forward hobby involve assault";
+var mnemonic = "prevent advance train accident try dawn medal human lamp retire side grab";

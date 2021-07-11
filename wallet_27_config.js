@@ -1,1 +1,1 @@
-var mnemonic = "inch example clip catch matrix buddy crawl situate possible inquiry poem cricket";
+var mnemonic = "cover select scissors attend host receive legal injury already smooth mosquito include";

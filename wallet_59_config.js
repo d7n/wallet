@@ -1,1 +1,1 @@
-var mnemonic = "amateur unusual april early casual lesson type gentle gravity this phrase ill";
+var mnemonic = "bounce tobacco lady else manage adjust famous melody panic onion trial insect";

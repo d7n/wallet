@@ -1,1 +1,1 @@
-var mnemonic = "renew furnace clock action horn lonely sample diamond turtle emotion round destroy";
+var mnemonic = "analyst hotel tornado crop repair multiply govern soap little tuition club fine";

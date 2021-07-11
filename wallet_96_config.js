@@ -1,1 +1,1 @@
-var mnemonic = "sword private renew camp group escape ahead material give lawsuit away drive";
+var mnemonic = "enter honey rifle easy load type arrange dust umbrella hazard calm leave";

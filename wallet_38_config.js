@@ -1,1 +1,1 @@
-var mnemonic = "piece special omit blossom uncle lion scrap call never wet narrow core";
+var mnemonic = "venture strike taste chief cement fatigue main claim small improve view find";

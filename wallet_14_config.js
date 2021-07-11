@@ -1,1 +1,1 @@
-var mnemonic = "cube pig clog solid split balance inject episode hungry exclude ritual flush";
+var mnemonic = "hockey uniform table honey castle subway squirrel leave gesture yellow keep senior";

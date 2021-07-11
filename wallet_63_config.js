@@ -1,1 +1,1 @@
-var mnemonic = "canoe obscure nuclear brand author bind enjoy biology inherit between load process";
+var mnemonic = "use pact audit escape exit dignity acoustic view online emotion doll kit";

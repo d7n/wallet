@@ -1,1 +1,1 @@
-var mnemonic = "common umbrella child grant bounce flee saddle oyster roof marriage insect resist";
+var mnemonic = "cloud tragic miss wash foil system cotton patrol old item try illness";

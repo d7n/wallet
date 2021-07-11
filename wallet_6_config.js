@@ -1,1 +1,1 @@
-var mnemonic = "phone galaxy issue mean unit vapor lemon taxi fossil category change security";
+var mnemonic = "disease seat input pond inflict about wire inner subway draw annual elbow";

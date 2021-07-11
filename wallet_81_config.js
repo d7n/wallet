@@ -1,1 +1,1 @@
-var mnemonic = "absurd prefer coffee daring royal acoustic human add spare happy regret hat";
+var mnemonic = "ready air bench salon draw resemble achieve impulse inner inquiry target ranch";

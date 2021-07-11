@@ -1,1 +1,1 @@
-var mnemonic = "change meat size session make owner assume mean rubber abstract corn helmet";
+var mnemonic = "profit flag slice old arrest veteran stadium planet mobile baby behind tip";

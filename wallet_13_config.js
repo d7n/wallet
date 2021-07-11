@@ -1,1 +1,1 @@
-var mnemonic = "charge unveil catalog diary crouch slice category capital victory fade paddle select";
+var mnemonic = "nephew salon canyon daring boost screen load swarm two range next novel";

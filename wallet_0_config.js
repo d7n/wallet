@@ -1,1 +1,1 @@
-var mnemonic = "orchard finish surge aspect oven sister occur bean frown purpose cream universe";
+var mnemonic = "chunk cream casino attitude pyramid exotic peanut describe fatal move company olive";

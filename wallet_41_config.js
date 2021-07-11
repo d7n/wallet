@@ -1,1 +1,1 @@
-var mnemonic = "piano width wolf drastic loyal stay dinner supreme program click rival panel";
+var mnemonic = "urge prevent art convince congress bone mail want what frozen donkey bulb";

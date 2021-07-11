@@ -1,1 +1,1 @@
-var mnemonic = "quick negative mesh core knee obvious switch birth shoulder call unit color";
+var mnemonic = "benefit physical project order exchange south hello nephew prison hip flag actor";

@@ -1,1 +1,1 @@
-var mnemonic = "situate cat protect result black rebel lend fiber before useless indoor help";
+var mnemonic = "milk damp provide lawsuit win concert benefit phrase enforce margin detect display";

@@ -1,1 +1,1 @@
-var mnemonic = "blood dismiss property giant useful symptom fragile rain uniform upset arrest hurdle";
+var mnemonic = "friend flip tongue dress poverty basic indicate december today wrap float harvest";

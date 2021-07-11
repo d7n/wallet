@@ -1,1 +1,1 @@
-var mnemonic = "fatigue glide film index response volcano tiger bridge maze involve off attend";
+var mnemonic = "indicate pioneer cannon color woman couch hidden autumn chapter raven critic crouch";

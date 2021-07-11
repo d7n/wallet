@@ -1,1 +1,1 @@
-var mnemonic = "patrol search primary add photo glimpse wrist produce trap address electric ridge";
+var mnemonic = "spike eager shift exchange razor pole final author address sketch sustain apart";

@@ -1,1 +1,1 @@
-var mnemonic = "salt page riot carpet fit cliff only glide cherry shallow tourist gain";
+var mnemonic = "truly tiger rubber glass lounge more soldier night clown song session clerk";

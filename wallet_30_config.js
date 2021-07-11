@@ -1,1 +1,1 @@
-var mnemonic = "clip eternal slam endorse trick sword cram resemble floor proud unaware install";
+var mnemonic = "quiz chimney juice weather village melt travel across arrange weekend armed glad";

@@ -1,1 +1,1 @@
-var mnemonic = "police razor awkward battle layer tray pumpkin leisure you smart fiscal bone";
+var mnemonic = "cruise west tenant feature grow surface balance wolf maid pony danger charge";

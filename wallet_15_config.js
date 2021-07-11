@@ -1,1 +1,1 @@
-var mnemonic = "exit vault fame erosion chicken enact tool tube balcony hip dolphin scare";
+var mnemonic = "energy question vault cigar gospel globe echo trust spray peasant fury view";

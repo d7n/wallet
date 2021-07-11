@@ -1,1 +1,1 @@
-var mnemonic = "caught town view limit company more camp yellow renew other blind shove";
+var mnemonic = "hockey sleep squirrel oven pupil hope lab grab magnet identify reduce slide";

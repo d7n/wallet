@@ -1,1 +1,1 @@
-var mnemonic = "boss across hobby manage enable trim trigger imitate grape fortune lizard skill";
+var mnemonic = "inside obey borrow ethics clump make tackle can key better mandate dinosaur";

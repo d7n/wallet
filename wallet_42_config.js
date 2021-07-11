@@ -1,1 +1,1 @@
-var mnemonic = "antenna chef student test dove net cable elite pole jealous abuse can";
+var mnemonic = "fancy type transfer report swear critic climb stuff want cluster alert betray";

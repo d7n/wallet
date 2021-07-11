@@ -1,1 +1,1 @@
-var mnemonic = "veteran hunt road lend census flag whisper broccoli fee bread can spice";
+var mnemonic = "salad argue timber blood prison drift toast attitude cloth speak cry fancy";

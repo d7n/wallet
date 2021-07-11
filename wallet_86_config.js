@@ -1,1 +1,1 @@
-var mnemonic = "spray wolf cash area design note silk machine fever neck trouble travel";
+var mnemonic = "youth drip domain before eight rural now desk waste dose hat iron";

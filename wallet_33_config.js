@@ -1,1 +1,1 @@
-var mnemonic = "order come expire vanish female favorite toddler glove riot follow distance anchor";
+var mnemonic = "holiday bid donate visit sense predict tongue fence tunnel plate series tennis";

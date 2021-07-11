@@ -1,1 +1,1 @@
-var mnemonic = "milk napkin gasp duty filter subject void blast smart text winner denial";
+var mnemonic = "blouse sphere divorce thing voice jaguar fruit enforce adjust pact mutual crisp";

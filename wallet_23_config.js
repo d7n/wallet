@@ -1,1 +1,1 @@
-var mnemonic = "wife urban page assault canyon visa correct battle jar beach bracket crew";
+var mnemonic = "behave solid mixture bone seed garden meat town meadow artwork keen fade";

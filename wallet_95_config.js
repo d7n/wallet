@@ -1,1 +1,1 @@
-var mnemonic = "sustain awkward travel vault analyst question call silver excess image tomorrow bulk";
+var mnemonic = "define leader stem alone alert core start deposit dash deer device atom";

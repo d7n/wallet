@@ -1,1 +1,1 @@
-var mnemonic = "enact room coconut onion supply thank snake foster tongue insane shuffle expose";
+var mnemonic = "arm pride capable brisk alien defy submit grow napkin garbage speak pear";

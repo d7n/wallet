@@ -1,1 +1,1 @@
-var mnemonic = "then spare accident unable gun over return ring explain wing duty gather";
+var mnemonic = "box zone ghost glare intact slight rough sure slogan ghost raise want";

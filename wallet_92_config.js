@@ -1,1 +1,1 @@
-var mnemonic = "kind already surge easy brand left genuine nuclear baby since swallow admit";
+var mnemonic = "design gym girl rare meat catalog correct rebuild culture captain child announce";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct debate above laugh equal pond card axis wine try matrix illegal";
+var mnemonic = "siren else hello raise patch exit sort wagon upset harbor rifle lawn";

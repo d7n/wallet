@@ -1,1 +1,1 @@
-var mnemonic = "topple swap impulse lobster decline easy flower crash glimpse gather destroy panic";
+var mnemonic = "anxiety pen ice entire detail guide grain human rival day source answer";

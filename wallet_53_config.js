@@ -1,1 +1,1 @@
-var mnemonic = "swallow canoe legal income nice only chase suggest affair lava spread pill";
+var mnemonic = "barrel object ceiling follow poem unusual among cereal upon nephew convince hotel";

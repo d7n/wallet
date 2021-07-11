@@ -1,1 +1,1 @@
-var mnemonic = "foam thumb strategy school giant tourist monkey cream expand latin vibrant mom";
+var mnemonic = "badge endless spray lobster gym include buffalo disorder all depart announce stamp";

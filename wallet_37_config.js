@@ -1,1 +1,1 @@
-var mnemonic = "already victory that latin coyote total original record section poverty fiscal siege";
+var mnemonic = "raw pepper pond whip maximum bamboo emerge accident act similar laugh oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster clutch trend erode boost ghost list poet satisfy will sketch model";
+var mnemonic = "evolve nice voice double brain chest claim inner eyebrow layer pitch retreat";

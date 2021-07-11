@@ -1,1 +1,1 @@
-var mnemonic = "anchor joy typical plug rain wasp story resist only knife flag typical";
+var mnemonic = "ordinary time exist unaware bleak strong pelican talent flash grit tragic aunt";

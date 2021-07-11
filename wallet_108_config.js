@@ -1,1 +1,1 @@
-var mnemonic = "razor install current evil rack nature swim skirt sad bitter cost surface";
+var mnemonic = "glide woman excite uphold assist gain child peanut delay arrow ancient illness";

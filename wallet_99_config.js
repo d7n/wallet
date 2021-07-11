@@ -1,1 +1,1 @@
-var mnemonic = "fun valley guard globe enforce camp phrase mutual erupt track suffer trumpet";
+var mnemonic = "right pelican advance width ride defy join split purpose sail narrow glove";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy fossil swear shallow oil save develop arrive release custom charge display";
+var mnemonic = "moral tattoo hungry target dream bonus loyal dwarf scheme witness crumble name";

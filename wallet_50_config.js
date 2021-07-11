@@ -1,1 +1,1 @@
-var mnemonic = "final result journey modify beef section image coconut owner patient duck turtle";
+var mnemonic = "garment airport seminar above warrior exile used reason mechanic lava crowd junk";

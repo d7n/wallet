@@ -1,1 +1,1 @@
-var mnemonic = "page timber mimic slot profit artist lava impulse bunker sword trial meadow";
+var mnemonic = "salute normal glide glass puzzle pulp squirrel shadow better moral submit wink";

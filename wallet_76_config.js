@@ -1,1 +1,1 @@
-var mnemonic = "mouse dry cheap moon celery cupboard monkey again eager pulp fantasy mad";
+var mnemonic = "purity awful distance crush cancel option blanket isolate treat toss salon opinion";

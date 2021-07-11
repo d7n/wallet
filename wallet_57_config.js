@@ -1,1 +1,1 @@
-var mnemonic = "kingdom april loan exact actual brand drill naive thumb chuckle mother ordinary";
+var mnemonic = "jazz donkey coast cushion rhythm quick town dutch solar buffalo wild life";

@@ -1,1 +1,1 @@
-var mnemonic = "regret few more vehicle soap garlic glimpse carbon brother cave educate explain";
+var mnemonic = "owner lumber tourist drop start letter address media athlete crystal census movie";

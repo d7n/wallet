@@ -1,1 +1,1 @@
-var mnemonic = "popular review glue control south attend economy into random obey debris chief";
+var mnemonic = "basket parade oblige say child involve fresh panther young comic dinosaur pride";

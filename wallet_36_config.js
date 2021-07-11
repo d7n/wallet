@@ -1,1 +1,1 @@
-var mnemonic = "youth govern camp leave polar sail foil spend payment rebel session receive";
+var mnemonic = "pause scatter toast metal length inherit flight grant swift hood post legal";

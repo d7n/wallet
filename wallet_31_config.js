@@ -1,1 +1,1 @@
-var mnemonic = "toddler bulb ocean capital ready stick trial giant cable fan only antenna";
+var mnemonic = "child engine slight belt rich pottery outdoor demand purse attend deer skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll cost reflect network say fine bracket repair attract toilet dream supreme";
+var mnemonic = "vote ensure vicious sort casino puzzle dismiss sustain coconut atom start jaguar";

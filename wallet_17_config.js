@@ -1,1 +1,1 @@
-var mnemonic = "orchard concert resist famous manage absurd february student imitate toast task good";
+var mnemonic = "rally health improve sorry beauty reward fatigue rose example certain job dolphin";

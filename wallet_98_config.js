@@ -1,1 +1,1 @@
-var mnemonic = "wheel sudden orphan napkin ocean pause distance quote spare pepper response visit";
+var mnemonic = "deny retreat prison federal sleep clinic proof tone marriage fabric erode consider";

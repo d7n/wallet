@@ -1,1 +1,1 @@
-var mnemonic = "giggle air child lazy team laundry protect scrub aisle canal ride tiger";
+var mnemonic = "select proud arena fatigue moon wink sketch prison road eager adult dignity";

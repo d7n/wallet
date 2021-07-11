@@ -1,1 +1,1 @@
-var mnemonic = "more machine hello grit cup misery silent fee bamboo endless pretty album";
+var mnemonic = "prevent distance charge spider advance comic piece tuition candy snow party popular";

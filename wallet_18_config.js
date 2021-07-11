@@ -1,1 +1,1 @@
-var mnemonic = "genuine witness often fringe portion swallow pencil nurse phone toe dumb play";
+var mnemonic = "daring trim acid universe jazz place gold save scrap reason panic gate";

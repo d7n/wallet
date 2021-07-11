@@ -1,1 +1,1 @@
-var mnemonic = "whip unlock love garlic exact must text tip follow light joy frozen";
+var mnemonic = "drink talk begin pill else brush stand oblige venture plunge library fork";

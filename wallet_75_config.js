@@ -1,1 +1,1 @@
-var mnemonic = "belt admit fragile floor cousin table hero original vacant enact toddler gaze";
+var mnemonic = "sting ship sight guilt verb disease long pilot hurry slab resemble light";
