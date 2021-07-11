@@ -1,1 +1,1 @@
-var mnemonic = "jazz virus leg second popular buyer candy stove total sell brave describe";
+var mnemonic = "attract fossil hello guilt need love unable sad spice work about truly";

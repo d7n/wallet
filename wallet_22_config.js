@@ -1,1 +1,1 @@
-var mnemonic = "fat swamp system invest vintage chimney stage coffee video excess share steel";
+var mnemonic = "twenty stable unusual purity interest flat note dove reunion autumn dynamic casual";

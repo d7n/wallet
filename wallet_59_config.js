@@ -1,1 +1,1 @@
-var mnemonic = "quick depart plunge ugly middle write radar story valley all caution scrub";
+var mnemonic = "spice middle thought lava meadow analyst suspect palm spice sell snake float";

@@ -1,1 +1,1 @@
-var mnemonic = "account ripple slam cause hundred cry escape ask frozen test fortune bike";
+var mnemonic = "ill elegant young safe shove insect image beef improve supply music seven";

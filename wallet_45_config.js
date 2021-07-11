@@ -1,1 +1,1 @@
-var mnemonic = "whip airport industry prosper ocean know blur bone high source original autumn";
+var mnemonic = "afford know joy visit click remain danger sweet next jacket inflict grant";

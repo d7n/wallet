@@ -1,1 +1,1 @@
-var mnemonic = "scale usual carpet debate city hurdle fox transfer celery call call velvet";
+var mnemonic = "angle bleak weather script excite else flash apart sword open electric please";

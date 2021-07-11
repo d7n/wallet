@@ -1,1 +1,1 @@
-var mnemonic = "sphere worry voice sudden master always win exercise correct amateur blush illness";
+var mnemonic = "movie improve sadness evolve wrestle parrot drip excuse door arctic intact wagon";

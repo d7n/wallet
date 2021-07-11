@@ -1,1 +1,1 @@
-var mnemonic = "royal impulse regular way reward fringe pilot gap lava pool outside lock";
+var mnemonic = "mean they coyote border demise fold kite fox laundry develop winner rice";

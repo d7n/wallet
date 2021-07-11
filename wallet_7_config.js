@@ -1,1 +1,1 @@
-var mnemonic = "clip level divide negative lounge spend service upper tray rude plastic idle";
+var mnemonic = "large physical move cup sand north other library cactus vicious control worry";

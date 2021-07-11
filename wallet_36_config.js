@@ -1,1 +1,1 @@
-var mnemonic = "guess interest jaguar stereo rural either future noodle drop annual soldier place";
+var mnemonic = "beyond toward envelope wife bind unique decrease gossip this weather token give";

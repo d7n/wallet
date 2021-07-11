@@ -1,1 +1,1 @@
-var mnemonic = "ride cycle begin thumb stone cherry warrior total knife dish major slam";
+var mnemonic = "mass local lobster farm cable detect card cloud two dawn museum ten";

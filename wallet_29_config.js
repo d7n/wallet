@@ -1,1 +1,1 @@
-var mnemonic = "space case weather outside bring avoid top leisure offer giant jaguar walk";
+var mnemonic = "draw announce pelican cricket silent toddler among boat winner shoot buffalo mail";

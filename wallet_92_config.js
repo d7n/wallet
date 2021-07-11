@@ -1,1 +1,1 @@
-var mnemonic = "report grow slight exercise response effort siege near quote public basic dance";
+var mnemonic = "point green opera gym mom grief crime salad garden bar diary fringe";

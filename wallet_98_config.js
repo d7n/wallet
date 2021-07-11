@@ -1,1 +1,1 @@
-var mnemonic = "slogan fortune apology agree write canoe despair country poet gas push stem";
+var mnemonic = "call scare clutch identify slice stay cream enhance like offer fury decrease";

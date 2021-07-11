@@ -1,1 +1,1 @@
-var mnemonic = "vibrant basic range chunk music juice approve warfare potato praise network marble";
+var mnemonic = "space remain quit range awful run exhaust purchase tackle salon shoot junk";

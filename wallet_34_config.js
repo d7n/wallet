@@ -1,1 +1,1 @@
-var mnemonic = "maximum human tip office prepare axis south prosper antenna dwarf raven wrestle";
+var mnemonic = "door stem system gift found dinner pretty toilet initial judge rent strong";

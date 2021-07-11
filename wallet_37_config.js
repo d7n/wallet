@@ -1,1 +1,1 @@
-var mnemonic = "ranch retreat second another output tape bachelor plastic dinosaur wet similar wealth";
+var mnemonic = "muffin avoid health rebuild great border obey alcohol solar pitch vacuum test";

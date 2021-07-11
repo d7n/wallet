@@ -1,1 +1,1 @@
-var mnemonic = "retreat ridge nurse solution egg chronic garbage day occur essence danger giggle";
+var mnemonic = "baby creek enemy marriage genre proof game coffee message garage monster pattern";

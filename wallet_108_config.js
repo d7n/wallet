@@ -1,1 +1,1 @@
-var mnemonic = "hurry gate innocent nut fire mean dose ten body subject leader discover";
+var mnemonic = "pigeon town situate render alien flash harbor vapor agent document onion cricket";

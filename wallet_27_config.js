@@ -1,1 +1,1 @@
-var mnemonic = "submit fragile shuffle hip thunder sing milk into corn unusual chef creek";
+var mnemonic = "share chase strategy shoulder steel organ cool ten journey offer convince wood";

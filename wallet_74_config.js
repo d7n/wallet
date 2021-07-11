@@ -1,1 +1,1 @@
-var mnemonic = "country trim promote elevator pepper thought basket aware fence lawsuit habit learn";
+var mnemonic = "uphold alter dose side three concert card pretty better sheriff tongue photo";

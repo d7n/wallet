@@ -1,1 +1,1 @@
-var mnemonic = "stand ceiling thought drastic gap can nerve dance fault nation depth true";
+var mnemonic = "bread lucky napkin patrol manage blade bright impose patrol record symbol kid";

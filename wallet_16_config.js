@@ -1,1 +1,1 @@
-var mnemonic = "step delay supreme brush notable tiny monkey polar dice address exact odor";
+var mnemonic = "math arch diet exhaust gain awkward virtual sort young voyage zoo art";

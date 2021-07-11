@@ -1,1 +1,1 @@
-var mnemonic = "notable wool property clever fit hobby already peace ring fun dust choice";
+var mnemonic = "admit coin false puzzle punch client whale section school any reduce twelve";

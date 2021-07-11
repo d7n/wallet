@@ -1,1 +1,1 @@
-var mnemonic = "impact swim symbol jeans recycle decline long wrap ritual nuclear action mutual";
+var mnemonic = "crumble kit round asthma pink elevator bottom pulse cousin tennis orchard humble";

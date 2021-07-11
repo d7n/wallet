@@ -1,1 +1,1 @@
-var mnemonic = "pluck drill uncover duck hazard inside bus silk throw surface health today";
+var mnemonic = "place fluid model oppose blur noodle gap live usage supreme tank initial";

@@ -1,1 +1,1 @@
-var mnemonic = "author slush install census eager size soup spice code awesome zebra same";
+var mnemonic = "cook winner cannon report puppy maze noise identify memory public future peasant";

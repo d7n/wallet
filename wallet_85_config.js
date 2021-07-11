@@ -1,1 +1,1 @@
-var mnemonic = "shadow act hockey diesel roast whale dentist brave soldier awkward token bronze";
+var mnemonic = "clutch busy middle stable stumble village hazard chair frost label kind hero";

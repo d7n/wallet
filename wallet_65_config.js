@@ -1,1 +1,1 @@
-var mnemonic = "elephant runway obscure rapid dial intact banana twelve innocent cross tornado suit";
+var mnemonic = "gap basket art bird monster tornado fragile anxiety drift effort orient federal";

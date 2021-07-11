@@ -1,1 +1,1 @@
-var mnemonic = "teach parent elbow face endless future hard document sniff honey badge birth";
+var mnemonic = "sudden hero faculty pride help label jaguar measure inform vanish solve message";

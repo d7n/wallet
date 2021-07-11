@@ -1,1 +1,1 @@
-var mnemonic = "drip gravity average mixture start apology doll basket evidence scene resist welcome";
+var mnemonic = "regular orbit noodle crater conduct convince hurt kangaroo sort school floor mechanic";

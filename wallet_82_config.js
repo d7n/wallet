@@ -1,1 +1,1 @@
-var mnemonic = "remind glass asset range boost morning proof record find dinner hat violin";
+var mnemonic = "wonder mystery ozone screen tell ahead chair fury stuff pen quarter media";

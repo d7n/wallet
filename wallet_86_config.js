@@ -1,1 +1,1 @@
-var mnemonic = "basket average dose elbow cabbage custom total doll luggage sound zero catalog";
+var mnemonic = "soup exercise enough rather nominee dish pave stamp clip credit hurry raw";

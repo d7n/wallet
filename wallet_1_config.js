@@ -1,1 +1,1 @@
-var mnemonic = "movie shell debris earth submit benefit dizzy waste daring stove trend train";
+var mnemonic = "film actress green estate wheel beach decorate letter obey isolate fog scan";

@@ -1,1 +1,1 @@
-var mnemonic = "current eight unfair timber disease kangaroo cost enlist mixed surge rice profit";
+var mnemonic = "friend affair flavor snow cool arena camp enemy faint arm motor access";

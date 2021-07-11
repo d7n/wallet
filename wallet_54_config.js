@@ -1,1 +1,1 @@
-var mnemonic = "often hub since crop cigar asthma truth pull electric potato merry category";
+var mnemonic = "property involve yellow salon seven gadget lonely december point weapon hurry rabbit";

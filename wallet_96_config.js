@@ -1,1 +1,1 @@
-var mnemonic = "host love duty still mother cloth prepare depth bracket morning basic pony";
+var mnemonic = "pill refuse double matter ramp shuffle abuse bottom mountain morning twin grief";

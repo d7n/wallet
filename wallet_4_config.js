@@ -1,1 +1,1 @@
-var mnemonic = "token title rib motion farm enjoy equal denial crowd battle noodle annual";
+var mnemonic = "enlist during turtle force blind cart million shrug explain milk dinner trial";

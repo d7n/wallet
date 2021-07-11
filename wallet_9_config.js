@@ -1,1 +1,1 @@
-var mnemonic = "toy order minimum horn pact inject rally payment airport fashion student buzz";
+var mnemonic = "volcano wage cry rent toward napkin real museum proud moment inch romance";

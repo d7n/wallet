@@ -1,1 +1,1 @@
-var mnemonic = "occur salad slender usage quantum rebel buyer silk walk urge glide ahead";
+var mnemonic = "oblige exchange scout core royal tattoo fresh expire crew bacon use sister";

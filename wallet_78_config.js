@@ -1,1 +1,1 @@
-var mnemonic = "kind shuffle sniff hybrid invest width lend old stage donor breeze almost";
+var mnemonic = "cancel repeat payment avoid auction engine aerobic charge avoid churn payment resemble";

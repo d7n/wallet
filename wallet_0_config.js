@@ -1,1 +1,1 @@
-var mnemonic = "lava country total despair disease repeat gather mammal you change hurdle turn";
+var mnemonic = "caught surprise sure century twenty bacon scissors jeans nose judge change impact";

@@ -1,1 +1,1 @@
-var mnemonic = "memory fatal powder attitude figure lake doctor sail home eye magnet sponsor";
+var mnemonic = "open tourist wool battle prefer cost lion fence reject turkey bunker symptom";

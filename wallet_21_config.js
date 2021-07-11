@@ -1,1 +1,1 @@
-var mnemonic = "bonus chunk relief cereal portion weekend better wait silk adjust tomato danger";
+var mnemonic = "before execute churn frozen cousin spoon fashion divert priority gown tackle still";

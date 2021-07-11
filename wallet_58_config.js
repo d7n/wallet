@@ -1,1 +1,1 @@
-var mnemonic = "basket jungle potato swamp such erode peasant face airport cattle awful monkey";
+var mnemonic = "normal wreck arrange panda tuition paddle unusual mesh trade nest inspire onion";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog insect youth cereal bike like topic peasant program city honey evoke";
+var mnemonic = "chicken clog symptom sad display holiday yellow steel adjust bottom struggle over";

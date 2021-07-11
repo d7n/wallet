@@ -1,1 +1,1 @@
-var mnemonic = "drift infant joy pulp lion wrong dolphin pizza unique essence labor butter";
+var mnemonic = "they sketch uncle snake energy result ghost zebra monitor horror fabric sniff";

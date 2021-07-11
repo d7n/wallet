@@ -1,1 +1,1 @@
-var mnemonic = "grunt that coconut defense egg staff fury dash defense never bread edge";
+var mnemonic = "lamp retire apple misery chunk lyrics exchange orphan cotton garment dutch city";

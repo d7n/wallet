@@ -1,1 +1,1 @@
-var mnemonic = "attack eager large afford skin spoon habit choose laundry track quit fog";
+var mnemonic = "drum negative wheat stock today angry mimic grace zoo annual family donor";

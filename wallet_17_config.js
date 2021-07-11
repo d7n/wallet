@@ -1,1 +1,1 @@
-var mnemonic = "error govern concert female joke entire unusual dial blanket spoon coast dove";
+var mnemonic = "pulp absorb fossil still penalty run soap early capable setup remain couple";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch sell vivid habit argue link believe hospital few case donor tiny";
+var mnemonic = "quiz random evolve fiction local catch fork purity powder strategy weapon asset";

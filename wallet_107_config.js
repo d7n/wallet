@@ -1,1 +1,1 @@
-var mnemonic = "equip ill oven devote metal almost system canal rival cattle furnace day";
+var mnemonic = "salon kitten name drama about drama slender resemble humble exile uniform general";

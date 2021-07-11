@@ -1,1 +1,1 @@
-var mnemonic = "tunnel noise fly soap thought image humor vast myth lion impact trophy";
+var mnemonic = "cat company worry bleak escape summer green frozen attract warm stadium firm";

@@ -1,1 +1,1 @@
-var mnemonic = "slice health aisle safe seminar coconut certain identify fiscal wisdom under hurt";
+var mnemonic = "super smoke couple exit dirt must melody number episode fantasy addict blur";

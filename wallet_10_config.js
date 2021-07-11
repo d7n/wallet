@@ -1,1 +1,1 @@
-var mnemonic = "maple lyrics wedding list wire brush humble over blast betray entire dignity";
+var mnemonic = "stadium exact sorry police call spot bamboo unable foster valve urge bind";

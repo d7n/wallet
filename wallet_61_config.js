@@ -1,1 +1,1 @@
-var mnemonic = "reform jewel neglect ancient snow actual small amused daring measure decade oppose";
+var mnemonic = "gadget ocean juice drum night digital era correct prosper morning excuse father";

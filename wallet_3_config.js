@@ -1,1 +1,1 @@
-var mnemonic = "scorpion hybrid party below census much use swim balance cry front kiwi";
+var mnemonic = "ranch easy canoe surge elephant talent damage diary push velvet father goat";

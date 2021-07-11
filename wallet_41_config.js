@@ -1,1 +1,1 @@
-var mnemonic = "zoo circle animal review pond leopard crop right inform tape slab hover";
+var mnemonic = "solid ready measure ski fossil afraid patrol stuff call total harbor hedgehog";

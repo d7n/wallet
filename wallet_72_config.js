@@ -1,1 +1,1 @@
-var mnemonic = "tennis route crouch kidney hill execute fox vessel rigid belt pet loud";
+var mnemonic = "drink federal person expire credit misery giggle account explain dinosaur item base";

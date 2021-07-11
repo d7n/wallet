@@ -1,1 +1,1 @@
-var mnemonic = "sorry decide story hand repeat cluster robust void social rally salmon same";
+var mnemonic = "wrist armor lesson clever inject shove remind project radio evil inhale trust";

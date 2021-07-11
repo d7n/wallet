@@ -1,1 +1,1 @@
-var mnemonic = "bag input curious swift gap million infant lucky garlic cycle old world";
+var mnemonic = "upon rug govern rescue dial empty term marine volume chest cereal february";

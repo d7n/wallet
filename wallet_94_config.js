@@ -1,1 +1,1 @@
-var mnemonic = "equip barely author cinnamon unaware become demand cruise cost multiply crash unaware";
+var mnemonic = "panel cup liquid wise manual link weasel sniff cave inspire insect exit";

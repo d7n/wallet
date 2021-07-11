@@ -1,1 +1,1 @@
-var mnemonic = "flower differ tragic illness tragic satisfy light switch work ecology story garbage";
+var mnemonic = "cannon front wedding soft skirt junior border install festival science struggle among";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet afford advance payment require car tower episode turtle dizzy twin awkward";
+var mnemonic = "apple sand toilet melody fire umbrella come patrol actor describe cup intact";

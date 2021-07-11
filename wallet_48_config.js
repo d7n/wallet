@@ -1,1 +1,1 @@
-var mnemonic = "expose rain month detect mango atom cute gadget soup ask million inject";
+var mnemonic = "tooth disease south often sell mandate december aware fox arrest girl huge";

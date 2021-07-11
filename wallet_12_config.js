@@ -1,1 +1,1 @@
-var mnemonic = "mushroom place hospital require bachelor main puzzle pioneer innocent connect legend siren";
+var mnemonic = "cradle glue brain era bird elder stage parade drink equip notable actress";

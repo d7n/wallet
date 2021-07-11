@@ -1,1 +1,1 @@
-var mnemonic = "pupil exclude pill hurt gap mushroom trophy volume boy expand history muffin";
+var mnemonic = "oval slight vehicle measure odor monitor voyage athlete final danger enhance purpose";

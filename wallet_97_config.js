@@ -1,1 +1,1 @@
-var mnemonic = "wear wait delay cash today dry hobby world cube mean drive warfare";
+var mnemonic = "soon crystal cost buyer short pipe position rural horse nothing first edge";

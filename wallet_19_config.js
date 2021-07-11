@@ -1,1 +1,1 @@
-var mnemonic = "reason cube pink connect high abuse bacon render olive jealous clutch match";
+var mnemonic = "message open connect aerobic marine beef pipe midnight merit code law frozen";

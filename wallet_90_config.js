@@ -1,1 +1,1 @@
-var mnemonic = "deal trash harbor prison usual tone urban pelican just half proud chaos";
+var mnemonic = "ability connect inside run gossip burger mystery cabbage tell ticket tree garage";

@@ -1,1 +1,1 @@
-var mnemonic = "reward supply gossip anchor member marine absorb original hollow stomach conduct dog";
+var mnemonic = "choose south include inner order double smart come original sphere task code";

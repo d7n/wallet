@@ -1,1 +1,1 @@
-var mnemonic = "purse roast clog century scrap term execute enemy rotate genre weather beef";
+var mnemonic = "decrease valid muffin slam broom amazing tiger dice flock pass grocery nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "panic green model pause pact mail quiz claim wing rigid manage nut";
+var mnemonic = "frost dove fox lunch address embark like ball rubber film rude cliff";

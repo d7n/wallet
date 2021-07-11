@@ -1,1 +1,1 @@
-var mnemonic = "electric silly penalty crazy enable black author artwork journey pluck knock eyebrow";
+var mnemonic = "tell accident stock street pen chapter poet era write position program trophy";

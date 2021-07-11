@@ -1,1 +1,1 @@
-var mnemonic = "obtain zone trick steak mammal energy bottom crystal duty history weather coconut";
+var mnemonic = "top riot undo lawsuit spoon claim pen bullet violin balance omit marble";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cliff depart stadium hamster example twelve license remove yard term picnic";
+var mnemonic = "memory enjoy truck viable struggle elite across file leopard pet attitude tuition";

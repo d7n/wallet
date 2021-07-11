@@ -1,1 +1,1 @@
-var mnemonic = "gap gorilla party insane lucky cluster wall misery van casual budget valley";
+var mnemonic = "loop sorry attitude nerve once coconut stuff much kidney wear cricket weasel";

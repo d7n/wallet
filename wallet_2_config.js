@@ -1,1 +1,1 @@
-var mnemonic = "lazy battle popular fish attitude access sport weapon upper fox fit ahead";
+var mnemonic = "quick shoot rescue cruise wild move cart mushroom slush unable roof pitch";

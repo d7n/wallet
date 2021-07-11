@@ -1,1 +1,1 @@
-var mnemonic = "swim poverty toddler shop lady carpet innocent document april grow engage uphold";
+var mnemonic = "clean girl decorate side dry sphere audit ginger hip idle canal stock";

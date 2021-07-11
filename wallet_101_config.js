@@ -1,1 +1,1 @@
-var mnemonic = "click custom grow local success hedgehog trash auto wreck cube meadow edge";
+var mnemonic = "celery barely duty update potato fashion noise almost frequent fantasy medal caught";

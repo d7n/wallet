@@ -1,1 +1,1 @@
-var mnemonic = "dinner child company castle sudden blush scale idle cushion age pencil sample";
+var mnemonic = "toward behind curtain actor thought course depth cactus mom design talent timber";

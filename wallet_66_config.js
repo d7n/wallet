@@ -1,1 +1,1 @@
-var mnemonic = "finish sea sport badge attend hero zoo noodle faint witness salon object";
+var mnemonic = "ordinary able derive dry cherry reduce royal become law still pencil cloud";

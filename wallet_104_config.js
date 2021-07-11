@@ -1,1 +1,1 @@
-var mnemonic = "intact enjoy amount saddle tower scrap focus hole effort suspect setup hedgehog";
+var mnemonic = "say inch strong apart hat dirt write ritual learn crystal waste rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "forget ride detect burden process gas space setup ankle purpose lounge garage";
+var mnemonic = "abuse route naive reduce melt crash trash nose document pipe carbon output";

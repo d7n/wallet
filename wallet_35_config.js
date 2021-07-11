@@ -1,1 +1,1 @@
-var mnemonic = "exact oak frown horror student print insane fit custom enough bean learn";
+var mnemonic = "thing loop arctic news antique good uphold between sweet fence deny excite";

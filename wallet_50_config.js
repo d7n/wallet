@@ -1,1 +1,1 @@
-var mnemonic = "fury club duck town more mechanic wing print pride now consider gorilla";
+var mnemonic = "cereal little until hip aerobic fade nothing wisdom unusual better labor fog";

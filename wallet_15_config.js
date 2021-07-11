@@ -1,1 +1,1 @@
-var mnemonic = "acid patch defense spell old hockey cotton raise enhance salad runway dizzy";
+var mnemonic = "strong vacuum absorb cinnamon protect chuckle rail vote style fruit arm mango";

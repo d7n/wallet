@@ -1,1 +1,1 @@
-var mnemonic = "peasant shoe wasp response leopard please devote deputy brand index jacket inform";
+var mnemonic = "spoil lesson color neither deny welcome hill runway cycle caution soda prevent";

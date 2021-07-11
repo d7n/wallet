@@ -1,1 +1,1 @@
-var mnemonic = "stay derive glare garden coast barrel hub adapt hello flower february mercy";
+var mnemonic = "trust venue path witness clown easy morning rural swift price guess connect";
