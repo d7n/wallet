@@ -1,1 +1,1 @@
-var mnemonic = "service border scan rotate wish enact local fix case caught maze inject";
+var mnemonic = "skin cabbage clay cupboard carry trust huge sign require power rent menu";

@@ -1,1 +1,1 @@
-var mnemonic = "beach globe umbrella eagle such priority live since squeeze flat use wait";
+var mnemonic = "error sniff exotic stomach sunny term summer pride exact vicious syrup vivid";

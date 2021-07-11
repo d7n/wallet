@@ -1,1 +1,1 @@
-var mnemonic = "normal vessel square drift gasp try bacon clap theory rebel video west";
+var mnemonic = "zebra guess wealth rate exact sphere property fire model interest man catalog";

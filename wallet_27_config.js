@@ -1,1 +1,1 @@
-var mnemonic = "amused deposit panel race weasel village pulse catalog capable civil elephant miss";
+var mnemonic = "network provide chair lady abstract dog supply opinion magic arctic aspect rain";

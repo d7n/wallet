@@ -1,1 +1,1 @@
-var mnemonic = "fish appear clarify expand chicken rail radio hover bicycle decline prison excess";
+var mnemonic = "juice height animal rabbit mango height armed public recipe note yard horse";

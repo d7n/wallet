@@ -1,1 +1,1 @@
-var mnemonic = "evolve eager snow mirror anger middle crystal manual buffalo announce render broken";
+var mnemonic = "host error grit attract travel become peace panther rapid famous little disorder";

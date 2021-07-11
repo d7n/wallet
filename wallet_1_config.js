@@ -1,1 +1,1 @@
-var mnemonic = "visa fire candy review unfair predict wear that certain machine scan hat";
+var mnemonic = "extra fine kitten loan web saddle congress try morning giggle glance faint";

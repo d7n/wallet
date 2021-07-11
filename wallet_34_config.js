@@ -1,1 +1,1 @@
-var mnemonic = "engage grow patient bulk admit depth immense casino unable pear cattle catalog";
+var mnemonic = "credit advance hospital need sweet build auto acoustic modify thank volume material";

@@ -1,1 +1,1 @@
-var mnemonic = "purse exchange undo try injury unveil drama movie engage degree gallery during";
+var mnemonic = "napkin embody churn pilot cruise point bounce rude heart prevent ghost connect";

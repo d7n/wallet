@@ -1,1 +1,1 @@
-var mnemonic = "slight glass access unaware romance winner bulk theory solve globe year matrix";
+var mnemonic = "mystery cake like midnight hybrid midnight genius purpose glory valley health apple";

@@ -1,1 +1,1 @@
-var mnemonic = "auto hood gold truck army undo fog gift title shrug satisfy sphere";
+var mnemonic = "rough time smooth engage toward soup near slot infant cancel title silver";

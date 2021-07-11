@@ -1,1 +1,1 @@
-var mnemonic = "amount future between require gravity address engage stumble bring material able immense";
+var mnemonic = "truly pony balance stumble hold skirt pumpkin solve anger noise knock endless";

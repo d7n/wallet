@@ -1,1 +1,1 @@
-var mnemonic = "depart online true craft capable hurdle curtain lend list insect water foam";
+var mnemonic = "climb apology flip pitch small bomb nephew history bracket bacon spoil bunker";

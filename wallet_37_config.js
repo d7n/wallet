@@ -1,1 +1,1 @@
-var mnemonic = "inquiry chicken typical father tongue clip brief obvious eager similar rookie anger";
+var mnemonic = "trial hundred hollow common flag argue pond limb quarter feed fiber acoustic";

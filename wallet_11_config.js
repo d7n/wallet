@@ -1,1 +1,1 @@
-var mnemonic = "airport approve fit dolphin cement fork dance paddle oxygen saddle eagle dragon";
+var mnemonic = "blanket stay open alcohol guess burger edge rebel huge major echo remember";

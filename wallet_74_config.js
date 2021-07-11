@@ -1,1 +1,1 @@
-var mnemonic = "project napkin plunge old february ask allow blind melt viable pole ramp";
+var mnemonic = "junior tip problem pizza demand blue prepare taxi regular there hire radio";

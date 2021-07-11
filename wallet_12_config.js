@@ -1,1 +1,1 @@
-var mnemonic = "attend deputy arena rapid lens space useless flavor write income jacket damp";
+var mnemonic = "young negative cruel riot corn rate salmon satisfy polar crucial tribe beyond";

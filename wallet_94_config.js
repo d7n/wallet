@@ -1,1 +1,1 @@
-var mnemonic = "prepare bean aunt tool acquire mad toddler forum wreck arch void shiver";
+var mnemonic = "become swallow frog dentist satoshi sand also minor sense thought aim donor";

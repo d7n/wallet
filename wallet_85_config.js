@@ -1,1 +1,1 @@
-var mnemonic = "auction hard blame spread clever garlic zone rookie transfer lizard swap eight";
+var mnemonic = "goat spike travel field release cycle twist exhibit air vendor lizard lumber";

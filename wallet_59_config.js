@@ -1,1 +1,1 @@
-var mnemonic = "woman manual series outer brisk oak index supply else economy kiwi afraid";
+var mnemonic = "degree old buyer achieve blast lyrics major twin discover remind couple vacuum";

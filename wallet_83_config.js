@@ -1,1 +1,1 @@
-var mnemonic = "teach gift voice critic bag time blossom harvest trash crash asthma side";
+var mnemonic = "arrow unhappy fire nasty advice affair earth raise joke scatter movie cash";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance cream satisfy add romance warfare execute movie scan fatigue solar rail";
+var mnemonic = "mesh emerge found hollow pride vital eight celery valid drip surround buffalo";

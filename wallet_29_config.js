@@ -1,1 +1,1 @@
-var mnemonic = "tree picture lunar camp exchange brisk toe magnet jeans crunch crawl essay";
+var mnemonic = "grass cabin accuse crush public panel access topple siege sport fall dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich card west great detail screen motion embark bamboo child steak judge";
+var mnemonic = "man lesson train matter wash holiday stumble artefact tobacco action sort clog";

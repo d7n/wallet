@@ -1,1 +1,1 @@
-var mnemonic = "lock panic quiz sick margin aspect story peasant remain saddle rain lion";
+var mnemonic = "blade club fee equip census since vendor fit drum talk broom sunset";

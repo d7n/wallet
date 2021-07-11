@@ -1,1 +1,1 @@
-var mnemonic = "bread coil much setup novel annual kingdom bullet jeans resource boil tumble";
+var mnemonic = "behave immense then core foster naive consider staff opera electric hand device";

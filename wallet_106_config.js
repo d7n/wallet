@@ -1,1 +1,1 @@
-var mnemonic = "actor meadow where write load ticket tenant hill tourist force rack angle";
+var mnemonic = "coffee quit urban emerge spike field december advice expect access trial modify";

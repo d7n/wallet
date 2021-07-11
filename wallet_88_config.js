@@ -1,1 +1,1 @@
-var mnemonic = "friend humor table race frozen sign alarm ensure ensure install liquid prison";
+var mnemonic = "stereo pave wall engage common bus elite hobby expect tonight hidden buyer";

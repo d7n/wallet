@@ -1,1 +1,1 @@
-var mnemonic = "table slide detail universe swarm quit clown bamboo usual seven cargo barely";
+var mnemonic = "faith news lobster guess sample general maximum matrix swim camp forest page";

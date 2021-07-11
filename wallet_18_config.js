@@ -1,1 +1,1 @@
-var mnemonic = "cheese one trim price squeeze juice leaf pear very movie over still";
+var mnemonic = "pole rapid dance say various mammal addict hello admit pull final draw";

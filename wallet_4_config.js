@@ -1,1 +1,1 @@
-var mnemonic = "vibrant goat rule pistol lobster kiwi dinner cotton laugh very swift devote";
+var mnemonic = "tag brisk rival camera sugar extend inside identify dance fire surge cheese";

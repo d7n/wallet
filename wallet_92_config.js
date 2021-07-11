@@ -1,1 +1,1 @@
-var mnemonic = "novel depth people play priority adapt suspect stick fossil doll page syrup";
+var mnemonic = "vessel artist into urban arch stove yard gauge fury media cloud cool";

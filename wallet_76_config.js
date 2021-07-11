@@ -1,1 +1,1 @@
-var mnemonic = "canyon embark emerge gaze hero corn nose torch true coin umbrella gaze";
+var mnemonic = "denial bone connect inquiry between shadow detect mail fault roast settle settle";

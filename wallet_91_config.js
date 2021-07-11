@@ -1,1 +1,1 @@
-var mnemonic = "sport enforce detail debate planet pull loop trust six valid photo panic";
+var mnemonic = "right wife taste because say pizza rescue conduct tip ceiling twenty code";

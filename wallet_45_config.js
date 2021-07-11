@@ -1,1 +1,1 @@
-var mnemonic = "borrow evidence congress guess icon thunder mandate shoe era grass enjoy treat";
+var mnemonic = "mutual cupboard orchard among trick frown nerve wagon marriage cricket total program";

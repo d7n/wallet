@@ -1,1 +1,1 @@
-var mnemonic = "fence provide april reform aspect snake trophy token ball input swing palm";
+var mnemonic = "foil dentist announce trap hand danger squirrel doctor knife badge bind escape";

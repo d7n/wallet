@@ -1,1 +1,1 @@
-var mnemonic = "wreck maximum once example excuse absurd face useless swarm unknown bone slam";
+var mnemonic = "lab person daughter endless supply tide cricket robot grocery banana mother into";

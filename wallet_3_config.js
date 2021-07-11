@@ -1,1 +1,1 @@
-var mnemonic = "normal shine scare impose mango shrimp price jewel survey volume drastic game";
+var mnemonic = "east drive topple proud honey gorilla flight wide space ball clean peanut";

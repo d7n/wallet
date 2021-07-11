@@ -1,1 +1,1 @@
-var mnemonic = "wish happy tooth region link common fame uncover half hockey canyon smart";
+var mnemonic = "guilt file inside subway cannon month outer more name rack sign casino";

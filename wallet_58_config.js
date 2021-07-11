@@ -1,1 +1,1 @@
-var mnemonic = "lion health bone drift issue below pyramid tattoo scheme apart nominee domain";
+var mnemonic = "decorate asset damage blossom input help define bleak loyal hen three weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "rate quote above observe tank adult hurt lyrics layer mushroom math twist";
+var mnemonic = "drama video enemy casual eight oyster above ticket mobile erode pink item";

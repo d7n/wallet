@@ -1,1 +1,1 @@
-var mnemonic = "cycle find eye thrive cinnamon any marble sketch swear crush sight column";
+var mnemonic = "flock escape acid aisle subway faint exact clinic tip sport same book";

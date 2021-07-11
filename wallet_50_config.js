@@ -1,1 +1,1 @@
-var mnemonic = "feel connect space melt miss dawn admit essence oppose claw frequent garbage";
+var mnemonic = "scrap bacon negative valve champion soup force slogan strike grunt sustain carry";

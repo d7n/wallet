@@ -1,1 +1,1 @@
-var mnemonic = "soap mom salt twin jacket cigar onion pet twin play give hotel";
+var mnemonic = "know shaft pride inch glance celery invite slot youth idea dinner vague";

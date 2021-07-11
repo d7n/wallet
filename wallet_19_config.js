@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow river skull market depart differ twist idle crane keen buzz velvet";
+var mnemonic = "cram genre praise stairs tackle stuff fine ginger fiscal eternal will doctor";

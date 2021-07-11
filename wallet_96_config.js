@@ -1,1 +1,1 @@
-var mnemonic = "impact submit lucky elbow finish fringe toy number rug more three engage";
+var mnemonic = "cradle census distance day jaguar quick gym bicycle float remove nothing flash";

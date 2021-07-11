@@ -1,1 +1,1 @@
-var mnemonic = "sustain feed soap target universe lunar random guide near tenant night huge";
+var mnemonic = "arm rude pumpkin subject fantasy again shock fault dutch gloom buyer butter";

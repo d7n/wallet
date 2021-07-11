@@ -1,1 +1,1 @@
-var mnemonic = "casual wrong shock fitness leave talent make erupt panel fish diagram art";
+var mnemonic = "inside proof recipe frozen found wage scale social teach leopard camera lawsuit";

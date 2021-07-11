@@ -1,1 +1,1 @@
-var mnemonic = "couple nose real hold pledge jewel cattle acoustic since empower clarify arctic";
+var mnemonic = "zoo era antique elephant mammal wine fox reunion wink chase bunker provide";

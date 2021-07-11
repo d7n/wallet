@@ -1,1 +1,1 @@
-var mnemonic = "flame portion sudden between pilot cover follow exotic weekend welcome nurse erosion";
+var mnemonic = "romance acquire impact enlist actor junk purchase sausage flavor expose laundry tent";

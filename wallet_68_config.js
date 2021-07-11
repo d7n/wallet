@@ -1,1 +1,1 @@
-var mnemonic = "bike excite found sad flash shift letter setup mad tone flat neck";
+var mnemonic = "catch rough february margin coffee damage subject poverty steel oblige market fog";

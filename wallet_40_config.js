@@ -1,1 +1,1 @@
-var mnemonic = "gorilla yard boost steel provide crystal say laptop casino exotic clump keep";
+var mnemonic = "skate again hand rocket zoo album myth nature soon craft deer skirt";

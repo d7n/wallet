@@ -1,1 +1,1 @@
-var mnemonic = "humble inhale source mountain gloom across source rabbit renew shove recipe timber";
+var mnemonic = "empty lemon text era end sibling song slush defense join always sight";

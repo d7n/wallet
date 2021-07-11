@@ -1,1 +1,1 @@
-var mnemonic = "quantum duty issue zebra vacuum drink enjoy cheese ivory wreck ignore panda";
+var mnemonic = "slab copy today home young logic exhibit jungle drive misery december strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "palace security devote hedgehog flip scale man leg elephant volume idle diagram";
+var mnemonic = "winner innocent fragile prize unable aunt pencil flag unaware misery video hour";

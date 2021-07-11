@@ -1,1 +1,1 @@
-var mnemonic = "climb paddle giraffe animal kit ill imitate card helmet economy today library";
+var mnemonic = "list waste vendor gauge narrow pilot inherit shoulder office license limb autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory pride minor favorite giraffe rather orbit brush check youth develop cloud";
+var mnemonic = "trash hen spread dynamic marble mammal fabric face assault exercise huge nephew";

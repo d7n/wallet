@@ -1,1 +1,1 @@
-var mnemonic = "spice input favorite pet fresh pelican social slight razor resource crouch slim";
+var mnemonic = "donkey improve alarm town afraid invest slim curious result domain marble lab";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction enable hundred uphold regular excite over element side quiz rug emerge";
+var mnemonic = "flock describe soon twice choice size master spin absorb illegal rude crumble";

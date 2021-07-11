@@ -1,1 +1,1 @@
-var mnemonic = "daughter awesome diet quiz mass shed curtain yellow file ceiling eye pave";
+var mnemonic = "swallow book ensure magnet tenant legend setup syrup purpose joke ill split";

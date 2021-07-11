@@ -1,1 +1,1 @@
-var mnemonic = "hobby trick use pool local print outside finger enemy maid random lucky";
+var mnemonic = "burden ozone quarter pottery dish client wife budget ridge burden beyond join";

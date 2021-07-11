@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tumble ahead arrow various front hip enter avocado pipe ketchup fashion";
+var mnemonic = "cupboard develop copper there about beauty improve cave drill drift mule rubber";

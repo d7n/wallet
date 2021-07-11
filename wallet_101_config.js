@@ -1,1 +1,1 @@
-var mnemonic = "rent shaft snake wall example claim garage twenty cradle hip another just";
+var mnemonic = "wisdom clever saddle write later marble wagon smooth thrive actress unusual guard";

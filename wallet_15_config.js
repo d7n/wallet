@@ -1,1 +1,1 @@
-var mnemonic = "kit sleep garage pizza payment leopard route draw mad dial weasel prefer";
+var mnemonic = "where bike unit spatial raise kit pistol talk meat anxiety shy chief";

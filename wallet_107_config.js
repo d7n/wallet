@@ -1,1 +1,1 @@
-var mnemonic = "liquid season runway find humble fetch mansion ridge agent need creek tourist";
+var mnemonic = "snow tooth panther bargain toddler start give protect during runway garlic dice";

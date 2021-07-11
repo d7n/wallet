@@ -1,1 +1,1 @@
-var mnemonic = "true planet genius wear hammer company walk cabbage guard wet finish unfold";
+var mnemonic = "face abstract slogan ask swallow pact logic cycle more shuffle school feel";

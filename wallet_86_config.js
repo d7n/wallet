@@ -1,1 +1,1 @@
-var mnemonic = "hood bamboo stuff gallery avocado case spin remind dawn upgrade focus seminar";
+var mnemonic = "fluid property eagle person nut spatial reform mesh trick journey orchard verify";

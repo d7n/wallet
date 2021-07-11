@@ -1,1 +1,1 @@
-var mnemonic = "tornado card lunch gap sad wheat crawl canyon tiger parrot lumber supreme";
+var mnemonic = "lawsuit child that tenant mistake farm recipe prosper toe vehicle final glimpse";

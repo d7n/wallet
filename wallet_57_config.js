@@ -1,1 +1,1 @@
-var mnemonic = "lucky harsh annual into flee actor bean anchor immense mandate liar reflect";
+var mnemonic = "mad divert age deputy party voice turkey wage make physical anxiety gasp";

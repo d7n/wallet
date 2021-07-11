@@ -1,1 +1,1 @@
-var mnemonic = "drastic daring slice ceiling there suggest black minimum fitness retreat evolve bargain";
+var mnemonic = "tag festival occur foam broom reform trophy way rigid dutch pottery case";

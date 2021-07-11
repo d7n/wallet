@@ -1,1 +1,1 @@
-var mnemonic = "pretty supreme wrist frown yellow stereo chuckle finger camera human agent try";
+var mnemonic = "whisper inspire twice echo story cousin dream menu salad clean fit estate";

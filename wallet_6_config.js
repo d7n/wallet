@@ -1,1 +1,1 @@
-var mnemonic = "grief jewel alcohol decide idle vague decline install peace vital wear depend";
+var mnemonic = "curtain inspire clean stove save fold coach wide trash genre destroy curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "arch lizard bright produce guard crumble tackle derive swing monster collect vessel";
+var mnemonic = "sock sausage smoke boat wise air truck horn stock olive pitch slice";

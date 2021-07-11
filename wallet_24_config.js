@@ -1,1 +1,1 @@
-var mnemonic = "mixed scatter coral jelly regular swing drum useful other shoot scorpion stand";
+var mnemonic = "similar pumpkin vault oval inner version monster power cloth install supply exchange";

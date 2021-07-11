@@ -1,1 +1,1 @@
-var mnemonic = "ribbon lend slim end horn tobacco own glass gasp okay clock danger";
+var mnemonic = "enhance symbol tornado satoshi side mixture relief auto civil family brisk survey";

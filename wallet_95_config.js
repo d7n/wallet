@@ -1,1 +1,1 @@
-var mnemonic = "kitten all oil device hedgehog pulp hair coconut flavor island feel great";
+var mnemonic = "length magnet protect observe wire apple okay orient blush major clutch layer";

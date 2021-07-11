@@ -1,1 +1,1 @@
-var mnemonic = "tumble enforce sample auction know gym pluck arrow play sustain aspect online";
+var mnemonic = "bar glide saddle abstract angry lab blind shadow thought cake nature kiss";

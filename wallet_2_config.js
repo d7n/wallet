@@ -1,1 +1,1 @@
-var mnemonic = "front tool myth goose worth cup drink grant people spider cinnamon three";
+var mnemonic = "actress donor hamster author medal sustain lawn hard update rice myself spawn";

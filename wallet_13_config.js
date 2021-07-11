@@ -1,1 +1,1 @@
-var mnemonic = "symptom inch swamp caught consider champion theory anxiety day winner barrel provide";
+var mnemonic = "sand deal veteran defy vault slam danger like fancy fatigue junk moral";

@@ -1,1 +1,1 @@
-var mnemonic = "tank chef million off memory advance device wine sustain start tip cloud";
+var mnemonic = "frozen female fall once brave quit naive garage number quarter broccoli excess";

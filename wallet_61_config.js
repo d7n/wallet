@@ -1,1 +1,1 @@
-var mnemonic = "cement wool jelly congress noise tuna this borrow cycle viable knife scene";
+var mnemonic = "match old nut attract reflect armed drive twelve ranch come surge destroy";

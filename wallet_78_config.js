@@ -1,1 +1,1 @@
-var mnemonic = "cradle finger cause orphan drive sentence bronze scrub viable shed valley sock";
+var mnemonic = "praise remain shallow dismiss bag dismiss strong ahead nurse portion heavy goddess";

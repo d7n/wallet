@@ -1,1 +1,1 @@
-var mnemonic = "settle accuse powder funny pony that pink make unveil strong camera ugly";
+var mnemonic = "refuse cost lounge forest pilot absent faint mobile quantum fine sell spider";

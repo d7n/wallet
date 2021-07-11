@@ -1,1 +1,1 @@
-var mnemonic = "jar zero memory saddle drip animal hour bleak outer dinosaur youth skill";
+var mnemonic = "wide move interest rough enroll original entire duty heart minute wool antique";

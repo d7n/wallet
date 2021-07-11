@@ -1,1 +1,1 @@
-var mnemonic = "stock human rebuild love nation thunder long buzz critic wolf fresh pole";
+var mnemonic = "ceiling erode bitter version midnight clinic render setup media crucial before better";

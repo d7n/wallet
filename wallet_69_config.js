@@ -1,1 +1,1 @@
-var mnemonic = "trick keen milk simple patrol bean render upon document wrist used mimic";
+var mnemonic = "road pass exhaust forest stadium grunt weapon attend clog monster mystery choice";

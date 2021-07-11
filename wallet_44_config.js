@@ -1,1 +1,1 @@
-var mnemonic = "school trash shine robot until bunker trade snow copper screen ridge transfer";
+var mnemonic = "when runway swap rude mix fiction siege practice atom egg trouble easily";

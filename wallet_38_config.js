@@ -1,1 +1,1 @@
-var mnemonic = "double front exit talk emotion winter eternal worth use over mystery focus";
+var mnemonic = "measure shaft hollow animal stool connect solar pencil cook owner theme icon";

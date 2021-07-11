@@ -1,1 +1,1 @@
-var mnemonic = "blast spin melody fresh fox pilot glance bullet lottery comfort fog security";
+var mnemonic = "rabbit rabbit sound sausage trick talk sell sort cat total barrel van";

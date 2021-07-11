@@ -1,1 +1,1 @@
-var mnemonic = "sweet force daughter youth jewel mercy hammer prosper mean rely token tired";
+var mnemonic = "equip shrimp amazing mean start spring market radio grit royal depend spatial";

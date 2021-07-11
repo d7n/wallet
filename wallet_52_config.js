@@ -1,1 +1,1 @@
-var mnemonic = "custom cash project fresh miss obey kiss memory battle laptop butter clinic";
+var mnemonic = "suggest hurdle series one sad cost dust kite artwork dust pony badge";

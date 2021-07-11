@@ -1,1 +1,1 @@
-var mnemonic = "scorpion toy antenna discover oval basic wrestle size tone clarify fold night";
+var mnemonic = "frost water web account cotton crisp vessel myself island exotic copper once";
