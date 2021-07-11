@@ -1,1 +1,1 @@
-var mnemonic = "jaguar news dinner blossom cactus grant pilot business render immune output crumble";
+var mnemonic = "giant ivory post blast vacant panic glance obscure tell century hobby attract";

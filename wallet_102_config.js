@@ -1,1 +1,1 @@
-var mnemonic = "hamster father embrace pipe mother abuse unknown chef proof strategy range six";
+var mnemonic = "ball bullet hello today man sea jaguar cook alone acoustic novel myth";

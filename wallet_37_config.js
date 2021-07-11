@@ -1,1 +1,1 @@
-var mnemonic = "volcano orbit betray butter nephew elder brown assault job local beef tortoise";
+var mnemonic = "rubber census road brick stairs medal home mammal behave odor ahead special";

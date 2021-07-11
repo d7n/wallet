@@ -1,1 +1,1 @@
-var mnemonic = "method one genuine act hawk pulse burger region dog cushion noise other";
+var mnemonic = "vibrant license tortoise town sweet crazy accident creek curve trial upper syrup";

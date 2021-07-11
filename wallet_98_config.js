@@ -1,1 +1,1 @@
-var mnemonic = "congress pair vast orient behave adapt merge wife talk floor drill shoulder";
+var mnemonic = "brother resist armor dentist sail attract fatal dress candy convince spare ketchup";

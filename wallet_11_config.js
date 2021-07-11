@@ -1,1 +1,1 @@
-var mnemonic = "memory slice humble fatigue notable enroll crew frog saddle fitness dumb indicate";
+var mnemonic = "vehicle shoulder pull tide trap shoe adapt message survey spare dawn stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe clarify visa frequent fringe safe blanket estate strong giraffe poet main";
+var mnemonic = "tree olive blue amount jump pear cinnamon ice city visual festival assume";

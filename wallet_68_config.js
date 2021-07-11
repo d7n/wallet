@@ -1,1 +1,1 @@
-var mnemonic = "purpose slight happy velvet become leader purity float page punch green season";
+var mnemonic = "endorse genius rotate buffalo indicate maze length mango sting grace suggest enough";

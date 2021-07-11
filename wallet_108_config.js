@@ -1,1 +1,1 @@
-var mnemonic = "spider evidence wire canyon tired shoot build olympic wreck impact blur click";
+var mnemonic = "crime quality sea bulk syrup picnic water guitar series consider artefact adult";

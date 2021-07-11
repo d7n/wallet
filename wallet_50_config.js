@@ -1,1 +1,1 @@
-var mnemonic = "essence year glove expand spare apology they diesel glimpse timber camera glow";
+var mnemonic = "repair rifle hip galaxy kangaroo gap unhappy cash put grass castle result";

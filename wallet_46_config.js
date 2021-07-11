@@ -1,1 +1,1 @@
-var mnemonic = "wine bread educate boring extend manual tail west buddy problem pride foot";
+var mnemonic = "place boy income wedding evil cattle service embody crystal trumpet myself mistake";

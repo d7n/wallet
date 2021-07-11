@@ -1,1 +1,1 @@
-var mnemonic = "lion cheap powder fresh ride giggle destroy gossip smart define various donkey";
+var mnemonic = "supreme army hard ticket useless wage proud buzz surface rule prepare stable";

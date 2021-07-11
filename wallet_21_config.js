@@ -1,1 +1,1 @@
-var mnemonic = "short fault old knife shallow empower foam destroy maze hub plunge goddess";
+var mnemonic = "total stock beef december hockey differ proud raise opinion cable faith bless";

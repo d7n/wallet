@@ -1,1 +1,1 @@
-var mnemonic = "toss spell sail shed result raven drum domain receive fresh program chair";
+var mnemonic = "pact reveal affair kidney decline combine kind brass intact toilet client fat";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow team fold print renew cave choose please define one dolphin tenant";
+var mnemonic = "taxi pulp lend organ discover repeat tortoise plunge inflict solid gas creek";

@@ -1,1 +1,1 @@
-var mnemonic = "tell man spirit discover gadget cute estate sniff issue inquiry cute august";
+var mnemonic = "unveil flee gain taste harbor access elite chat recall marriage rally other";

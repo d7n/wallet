@@ -1,1 +1,1 @@
-var mnemonic = "dawn stamp car busy high menu elbow peasant wonder desk episode tank";
+var mnemonic = "sphere silent bone canvas clean lady spray genuine venue view guilt there";

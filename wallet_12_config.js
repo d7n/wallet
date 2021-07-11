@@ -1,1 +1,1 @@
-var mnemonic = "town error alcohol boost lab chest under mad high pair major task";
+var mnemonic = "dash team force include siege unaware zoo rack punch pupil hawk acquire";

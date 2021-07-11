@@ -1,1 +1,1 @@
-var mnemonic = "wife sword ethics theme use rely someone door expose bacon destroy eight";
+var mnemonic = "tower doctor void turn urge future dutch camera maple account pottery shoot";

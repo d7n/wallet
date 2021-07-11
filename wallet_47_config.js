@@ -1,1 +1,1 @@
-var mnemonic = "lion bus seven copper leisure impact lumber repeat uphold wagon dignity leader";
+var mnemonic = "pear victory traffic wrap gadget success bleak aisle swap bench announce junior";

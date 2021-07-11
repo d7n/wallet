@@ -1,1 +1,1 @@
-var mnemonic = "among maple trust genre moral board rent child wool cause response since";
+var mnemonic = "jelly garbage next woman fork grab puppy kiwi humble evil comfort project";

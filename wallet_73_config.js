@@ -1,1 +1,1 @@
-var mnemonic = "rabbit circle isolate shop add appear unveil nasty vague session shop casino";
+var mnemonic = "spy assist powder season economy school bind erosion wild property coyote above";

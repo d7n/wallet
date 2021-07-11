@@ -1,1 +1,1 @@
-var mnemonic = "object bless seed garbage amateur bridge fit access taxi modify faculty orphan";
+var mnemonic = "faculty smooth treat post assume water pole busy begin raise toward country";

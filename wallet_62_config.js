@@ -1,1 +1,1 @@
-var mnemonic = "kid sausage ramp actor atom dash play ill sound when afford glad";
+var mnemonic = "hold stairs vote maple board column silk enact that beef pause minor";

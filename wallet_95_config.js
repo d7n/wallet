@@ -1,1 +1,1 @@
-var mnemonic = "turtle mechanic leader oxygen budget pill valid sport wine ignore pole much";
+var mnemonic = "rib rare push theory cruel cannon wish group circle ice illegal picture";

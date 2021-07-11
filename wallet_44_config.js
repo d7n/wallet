@@ -1,1 +1,1 @@
-var mnemonic = "angry hospital misery panel split path escape blossom rival genuine trigger mutual";
+var mnemonic = "worth cherry cream drastic retire mix daring indicate action excuse scrub turtle";

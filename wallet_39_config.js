@@ -1,1 +1,1 @@
-var mnemonic = "couch sight glad audit half curtain lift merit license safe estate source";
+var mnemonic = "black divert install confirm width spatial wood cheese stock easy curious topic";

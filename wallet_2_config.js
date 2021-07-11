@@ -1,1 +1,1 @@
-var mnemonic = "napkin nut way involve remind crash clever dilemma before reflect hazard winter";
+var mnemonic = "arrange strike suspect scissors gadget display behave cluster space crack sentence barrel";

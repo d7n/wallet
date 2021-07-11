@@ -1,1 +1,1 @@
-var mnemonic = "submit foil horse ensure stick margin enforce tape ticket tomorrow gloom quote";
+var mnemonic = "kitchen weekend detect weasel hospital giraffe topple negative month heart monitor select";

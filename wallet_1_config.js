@@ -1,1 +1,1 @@
-var mnemonic = "dismiss flame aware away update labor salt sustain toe wish bag loyal";
+var mnemonic = "thing genre inhale connect morning dove maid monster hand middle consider bacon";

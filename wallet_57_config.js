@@ -1,1 +1,1 @@
-var mnemonic = "sketch diagram female version buddy dirt install salad bamboo rough pulse panel";
+var mnemonic = "other marble obtain amazing sick goat parent opera luggage control spike frozen";

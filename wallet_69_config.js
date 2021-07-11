@@ -1,1 +1,1 @@
-var mnemonic = "icon aim life punch damage family bleak useful bulb will fan hold";
+var mnemonic = "crazy major knife air identify wide gain unlock joy minimum honey dynamic";

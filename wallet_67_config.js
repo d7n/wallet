@@ -1,1 +1,1 @@
-var mnemonic = "receive repair chimney unknown phone point abuse swim gauge pumpkin give sausage";
+var mnemonic = "update mango please forward anger hire casual cabbage observe repeat bid scatter";

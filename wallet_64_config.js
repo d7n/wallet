@@ -1,1 +1,1 @@
-var mnemonic = "wrist boat among unknown brief wine analyst enrich brief brave weapon sunny";
+var mnemonic = "swamp old observe need wink output follow define voyage ugly search scorpion";

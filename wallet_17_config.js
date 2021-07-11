@@ -1,1 +1,1 @@
-var mnemonic = "tone loyal inside cross risk funny trigger jar cable easy another remain";
+var mnemonic = "pool arrow typical music forum various holiday poverty hawk frequent zero memory";

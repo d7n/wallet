@@ -1,1 +1,1 @@
-var mnemonic = "express concert surround list hamster learn cycle scale pond gain lucky sign";
+var mnemonic = "athlete picnic liquid gas warrior fly example access carbon pride crime fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "range dirt art judge humor key vessel obscure this cat client oblige";
+var mnemonic = "physical sphere surprise onion already glove aware topple blur lake disagree october";

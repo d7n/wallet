@@ -1,1 +1,1 @@
-var mnemonic = "receive husband round drastic innocent rule another sketch tool spoon program walnut";
+var mnemonic = "captain sibling engine soldier popular task column view food arena essay various";

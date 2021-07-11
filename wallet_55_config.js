@@ -1,1 +1,1 @@
-var mnemonic = "tragic glow source leisure series useful bacon slush group swing street spray";
+var mnemonic = "modify soap battle radio path find swim lonely trip current copper clever";

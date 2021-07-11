@@ -1,1 +1,1 @@
-var mnemonic = "perfect subject patient bright blood corn kitchen install silly iron fury ridge";
+var mnemonic = "pistol swim fan deliver daughter arrow tide bonus medal pledge fit secret";

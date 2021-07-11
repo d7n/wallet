@@ -1,1 +1,1 @@
-var mnemonic = "morning install target olive slab burger provide sock practice electric visit pizza";
+var mnemonic = "woman cactus abstract fold time media cricket clever switch thought summer spend";

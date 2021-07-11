@@ -1,1 +1,1 @@
-var mnemonic = "left ahead goddess inhale card fluid funny celery speak doll artwork attack";
+var mnemonic = "verb denial come water dream rebel coin circle link remind wagon guess";

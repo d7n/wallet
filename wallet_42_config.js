@@ -1,1 +1,1 @@
-var mnemonic = "shrug library knife pulp acoustic street cereal run flip spring liberty anchor";
+var mnemonic = "furnace rich gasp crystal shallow wife move picture gaze pool off garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "seed blade clump quick armed yellow forward hurt arrest much blush live";
+var mnemonic = "mountain injury tribe cat gift brick attract dust tenant dance picture senior";

@@ -1,1 +1,1 @@
-var mnemonic = "point debate clever minimum cycle feature voice evil scatter sport famous still";
+var mnemonic = "advice future paddle enemy crop pizza piece stumble giant embark rule tumble";

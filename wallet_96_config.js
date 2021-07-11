@@ -1,1 +1,1 @@
-var mnemonic = "reason wise portion regular bicycle hungry since canal speed blue wave lucky";
+var mnemonic = "image execute sleep film amateur cousin cliff throw fame funny riot trouble";

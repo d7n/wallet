@@ -1,1 +1,1 @@
-var mnemonic = "involve struggle solve mountain lake radio drill soldier choose sun math twist";
+var mnemonic = "cradle torch spray general antenna angry witness hard width glide dress vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "cat yard barrel barrel cook main gloom solve orange kiwi struggle surprise";
+var mnemonic = "yard useless exotic kitchen happy old fault lamp wild sister grunt video";

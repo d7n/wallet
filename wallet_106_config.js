@@ -1,1 +1,1 @@
-var mnemonic = "need perfect energy involve bullet tilt near sound spice share link rely";
+var mnemonic = "tip lottery lizard village crowd desk flush engage mixture pottery parade case";

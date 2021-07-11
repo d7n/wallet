@@ -1,1 +1,1 @@
-var mnemonic = "length dutch maximum comic census depth already wave spice sentence swim reject";
+var mnemonic = "review anchor valley unable advice install syrup alone zoo melody party bridge";

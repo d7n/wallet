@@ -1,1 +1,1 @@
-var mnemonic = "burger ostrich good welcome foil brother festival asthma grid tobacco derive village";
+var mnemonic = "firm orphan panic build price already myth crystal subway wild knife license";

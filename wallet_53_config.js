@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sound ugly student crisp liar income segment else disease cram embrace";
+var mnemonic = "minute hello million grow garden pigeon sibling draft little around cream test";

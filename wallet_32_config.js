@@ -1,1 +1,1 @@
-var mnemonic = "tiny aunt garlic trim loop youth exchange lazy whale process knock lady";
+var mnemonic = "couple glare busy segment add island elephant dash disagree now present always";

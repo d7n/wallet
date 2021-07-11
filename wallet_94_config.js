@@ -1,1 +1,1 @@
-var mnemonic = "client dove unveil century stone grid solve goose lizard section violin voice";
+var mnemonic = "bullet adult loop cancel bus dance sense assault adapt soldier use rookie";

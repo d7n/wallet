@@ -1,1 +1,1 @@
-var mnemonic = "output twelve razor hurry liar shallow ready excuse try tennis profit define";
+var mnemonic = "double cube elevator cliff sunny metal pepper mouse soda code impose stem";

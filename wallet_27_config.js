@@ -1,1 +1,1 @@
-var mnemonic = "defense now nephew acquire jazz simple recall such video crazy vibrant mixed";
+var mnemonic = "audit fatigue box help already balcony camera clog online evil name plug";

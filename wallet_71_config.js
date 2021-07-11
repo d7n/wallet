@@ -1,1 +1,1 @@
-var mnemonic = "lawn left wealth science excuse excess traffic topic ordinary narrow piece melt";
+var mnemonic = "grain unfair speed course raw mean ill this join orbit plastic cheap";

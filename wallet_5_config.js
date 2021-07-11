@@ -1,1 +1,1 @@
-var mnemonic = "comic cross banana trust sketch fuel lend cat lens report enjoy grain";
+var mnemonic = "meadow card wife certain traffic happy news fringe wedding derive gossip door";

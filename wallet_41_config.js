@@ -1,1 +1,1 @@
-var mnemonic = "giant cheap common census twelve real valid holiday hamster riot spoil enemy";
+var mnemonic = "aware elephant rhythm harbor cube situate sister pond senior average venue ramp";

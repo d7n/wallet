@@ -1,1 +1,1 @@
-var mnemonic = "frog antenna fat scene surge beach rain drum beyond sail sad execute";
+var mnemonic = "subway legal dash have exact present hood twist autumn march miss inside";

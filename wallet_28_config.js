@@ -1,1 +1,1 @@
-var mnemonic = "garment coast point razor horn banana remove culture impulse under fringe wrestle";
+var mnemonic = "about slot candy relax prevent liquid lucky enforce fish machine borrow pull";

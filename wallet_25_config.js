@@ -1,1 +1,1 @@
-var mnemonic = "elbow valve bottom laundry obey please thumb cruel they detail moon rice";
+var mnemonic = "tuition movie improve decrease kingdom very captain orbit vanish antenna cereal initial";

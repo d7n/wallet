@@ -1,1 +1,1 @@
-var mnemonic = "arrive man sunset wool guard method garment mushroom furnace thing believe sheriff";
+var mnemonic = "champion heavy elite welcome virtual nasty expand knee derive antique main valley";

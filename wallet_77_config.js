@@ -1,1 +1,1 @@
-var mnemonic = "beyond transfer enrich fabric funny tilt dad swear retreat witness video attend";
+var mnemonic = "raccoon satoshi tiger try wine include explain innocent kite puzzle olympic tired";

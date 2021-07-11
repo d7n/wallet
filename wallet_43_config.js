@@ -1,1 +1,1 @@
-var mnemonic = "tip robust junk sleep exercise glimpse sniff normal bone isolate lyrics creek";
+var mnemonic = "limit annual combine gloom stairs black south ensure noodle battle bunker area";

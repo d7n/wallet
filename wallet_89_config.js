@@ -1,1 +1,1 @@
-var mnemonic = "bone dragon double visit pool corn ceiling color asthma ready vocal wedding";
+var mnemonic = "vintage pet tip coffee route amount powder frost iron weird inhale sphere";

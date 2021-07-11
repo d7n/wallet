@@ -1,1 +1,1 @@
-var mnemonic = "hub orbit brother blame naive observe bronze position label useful remain staff";
+var mnemonic = "oil dragon suspect enjoy best acoustic drip fire fix elephant certain art";

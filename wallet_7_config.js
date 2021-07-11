@@ -1,1 +1,1 @@
-var mnemonic = "cart royal steak cereal route illness science toss volume advance lyrics chalk";
+var mnemonic = "piece praise artist book evolve swap oyster note now thank tone gap";

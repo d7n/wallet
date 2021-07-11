@@ -1,1 +1,1 @@
-var mnemonic = "twice hospital awkward giraffe stand supply gas attend three vault replace climb";
+var mnemonic = "charge flag double atom dutch cotton harvest extra spare hobby detail random";

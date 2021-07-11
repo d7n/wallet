@@ -1,1 +1,1 @@
-var mnemonic = "second keep catalog world minor worth where frog one topic priority search";
+var mnemonic = "wild screen word moral cause vapor sword enforce mosquito dial pipe legal";

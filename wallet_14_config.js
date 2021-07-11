@@ -1,1 +1,1 @@
-var mnemonic = "split reform trouble vibrant initial alcohol grass unveil spring icon famous ankle";
+var mnemonic = "town lesson emerge silk arctic script benefit claw symptom goose glass devote";

@@ -1,1 +1,1 @@
-var mnemonic = "people marble lemon summer bird one toilet lizard defy logic shift seed";
+var mnemonic = "flee equip urge thunder diary clever bacon crucial card skull coach render";

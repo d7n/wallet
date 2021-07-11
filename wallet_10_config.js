@@ -1,1 +1,1 @@
-var mnemonic = "cereal cereal donkey yellow whisper oblige antique breeze prepare child female close";
+var mnemonic = "process skate inspire lift talk giant industry manage ladder attitude fluid deputy";

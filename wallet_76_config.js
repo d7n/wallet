@@ -1,1 +1,1 @@
-var mnemonic = "observe finger gloom school gap reason update twist want grow fat extra";
+var mnemonic = "pink raccoon collect throw abstract brown ridge cheese ahead wealth coach vicious";

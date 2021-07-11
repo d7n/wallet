@@ -1,1 +1,1 @@
-var mnemonic = "cake edit paddle polar rib level struggle wage layer tower scrub blur";
+var mnemonic = "expand into squeeze bracket carry daughter ecology resist toy plate picnic sand";

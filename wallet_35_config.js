@@ -1,1 +1,1 @@
-var mnemonic = "lemon enlist tourist occur destroy stove access level giant melody minimum depart";
+var mnemonic = "impose basic gap ask name detail coin admit double seven pet slice";

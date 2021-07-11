@@ -1,1 +1,1 @@
-var mnemonic = "explain midnight rude virus dream exclude cigar tenant key perfect endorse forget";
+var mnemonic = "satisfy tuna valid stumble crater trade initial pistol protect motion slender betray";

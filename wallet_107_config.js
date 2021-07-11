@@ -1,1 +1,1 @@
-var mnemonic = "coral observe dad venue swarm hello ethics brisk find return voice lemon";
+var mnemonic = "learn card loop benefit give morning boring chief clock excite explain chuckle";

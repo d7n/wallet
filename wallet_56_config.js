@@ -1,1 +1,1 @@
-var mnemonic = "learn tunnel label asset rural surprise smoke initial payment consider moral judge";
+var mnemonic = "include layer they device alien diary deer eight victory box slender thought";

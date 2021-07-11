@@ -1,1 +1,1 @@
-var mnemonic = "term boss credit obscure argue festival attack employ crater before amount cave";
+var mnemonic = "rude lazy spirit sound million owner wood diagram manage distance also tag";

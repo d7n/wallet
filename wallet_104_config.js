@@ -1,1 +1,1 @@
-var mnemonic = "steak olive option sad hub clinic gesture pilot focus castle spy month";
+var mnemonic = "hedgehog license antenna bar bar curtain couch sister limit inform forest budget";
