@@ -1,1 +1,1 @@
-var mnemonic = "decade rescue debris smile method offer citizen enough rocket banner nest giraffe";
+var mnemonic = "success wave chunk umbrella soup human amount oppose all item stadium crawl";

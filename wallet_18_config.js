@@ -1,1 +1,1 @@
-var mnemonic = "weird draft mule inflict essence vendor illegal physical connect hole machine cry";
+var mnemonic = "say cheese parrot grass siren guide tube camp horn spot lottery company";

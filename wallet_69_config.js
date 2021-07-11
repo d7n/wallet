@@ -1,1 +1,1 @@
-var mnemonic = "sad cluster hidden aspect saddle eternal shallow desk country apart rebel timber";
+var mnemonic = "either student salmon loan clutch habit forum garden ostrich street clarify sad";

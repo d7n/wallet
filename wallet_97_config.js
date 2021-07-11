@@ -1,1 +1,1 @@
-var mnemonic = "easy person mind surface silly pioneer glide purchase clown pet achieve jeans";
+var mnemonic = "rifle quantum wife strong marble acoustic wall decorate wide split hold gown";

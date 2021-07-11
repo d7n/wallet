@@ -1,1 +1,1 @@
-var mnemonic = "more industry increase welcome imitate loop humble copper brain either evoke together";
+var mnemonic = "debate abstract year ramp double loop reveal dial strike wise insect service";

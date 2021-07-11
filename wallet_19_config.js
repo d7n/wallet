@@ -1,1 +1,1 @@
-var mnemonic = "air leisure execute brave waste perfect border gown august whisper combine library";
+var mnemonic = "kid labor stand run offer caught paper inject banana notable dolphin shaft";

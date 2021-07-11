@@ -1,1 +1,1 @@
-var mnemonic = "bubble garden vacuum want minor thank finger quarter father boost page photo";
+var mnemonic = "improve burden dinner clay youth curve rule sense make retreat mule napkin";

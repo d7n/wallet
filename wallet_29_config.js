@@ -1,1 +1,1 @@
-var mnemonic = "invest sadness maze arctic twist voyage bulb stool wonder panel heavy memory";
+var mnemonic = "exact inspire machine coil trap strike offer trade mix purchase digital onion";

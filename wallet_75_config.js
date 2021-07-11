@@ -1,1 +1,1 @@
-var mnemonic = "uniform supreme shoot satoshi holiday hurry describe card notable brain bunker sniff";
+var mnemonic = "rapid romance neglect rifle logic stove access toy puzzle area taste age";

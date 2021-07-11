@@ -1,1 +1,1 @@
-var mnemonic = "frog blade unique culture rabbit pave track seminar bonus reunion nurse magnet";
+var mnemonic = "vacant cliff kind cement romance involve advice drill example myself together great";

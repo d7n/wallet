@@ -1,1 +1,1 @@
-var mnemonic = "market tissue divert then stock host kitchen budget smile peanut gather profit";
+var mnemonic = "ask green chunk frog camera enforce soup creek initial clerk unable doll";

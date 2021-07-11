@@ -1,1 +1,1 @@
-var mnemonic = "clutch parade age child bulb coral gold helmet remember isolate memory menu";
+var mnemonic = "remain real duck jump return forget small abstract earth reward can neither";

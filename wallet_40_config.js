@@ -1,1 +1,1 @@
-var mnemonic = "sphere disagree version service blame first sword spike steak license column tackle";
+var mnemonic = "copper razor flush current dolphin supreme space dad festival census observe vacuum";

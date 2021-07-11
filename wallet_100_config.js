@@ -1,1 +1,1 @@
-var mnemonic = "shallow worth desk brick flavor arm sorry fever slow own cricket lesson";
+var mnemonic = "ankle burger figure glass gaze youth avoid imitate supreme ball already potato";

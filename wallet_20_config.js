@@ -1,1 +1,1 @@
-var mnemonic = "clock bomb program world winter tone ship tissue indoor fiction wave anger";
+var mnemonic = "please poverty thought screen man crime drama zero plug suspect badge feature";

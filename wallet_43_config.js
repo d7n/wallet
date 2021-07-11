@@ -1,1 +1,1 @@
-var mnemonic = "cousin drill beyond series asthma cream salmon clerk wheat excite fade lecture";
+var mnemonic = "lake brass matter suffer this puzzle topic hybrid begin sudden fiction invite";

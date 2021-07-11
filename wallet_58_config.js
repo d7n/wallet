@@ -1,1 +1,1 @@
-var mnemonic = "flash coyote black monitor spend entry piece patch execute toast shaft priority";
+var mnemonic = "rose ignore mobile begin cargo anxiety ready wrap huge lawsuit area firm";

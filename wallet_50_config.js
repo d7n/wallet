@@ -1,1 +1,1 @@
-var mnemonic = "flash wave clog deal sheriff correct oval curious begin say target budget";
+var mnemonic = "medal visual cup buddy net smile normal false economy theme tray sad";

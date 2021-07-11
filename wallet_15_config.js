@@ -1,1 +1,1 @@
-var mnemonic = "fiction visa shed aisle jealous strategy cover ahead gasp program asthma pencil";
+var mnemonic = "any lawsuit marine help beyond balance act vessel glide route loyal position";

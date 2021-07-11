@@ -1,1 +1,1 @@
-var mnemonic = "tomato roof awesome this million cricket extend fossil fire edge crystal never";
+var mnemonic = "board bottom sugar screen insane library suspect clock trip submit wealth harbor";

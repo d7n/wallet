@@ -1,1 +1,1 @@
-var mnemonic = "farm health shoulder sail royal swift recycle truck hammer clock dinner humor";
+var mnemonic = "diet used athlete penalty alien faint song size guard private parent super";

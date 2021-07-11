@@ -1,1 +1,1 @@
-var mnemonic = "nature table scrap senior crouch nominee skull fantasy path accident trap web";
+var mnemonic = "shallow journey extra fresh blood put curtain equip pretty wealth inquiry jaguar";

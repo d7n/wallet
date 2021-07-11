@@ -1,1 +1,1 @@
-var mnemonic = "unaware burst nominee furnace copy marriage machine reveal hint admit grow pioneer";
+var mnemonic = "second master act pet eagle genre brush marine weather cherry trophy left";

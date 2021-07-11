@@ -1,1 +1,1 @@
-var mnemonic = "system drift ethics heart vehicle dry help flame then february little blue";
+var mnemonic = "stick vault vault liar prefer comic tattoo run supply increase explain width";

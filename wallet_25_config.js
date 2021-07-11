@@ -1,1 +1,1 @@
-var mnemonic = "tape tank trade scale cinnamon desert economy catalog toilet zoo rather anger";
+var mnemonic = "lawsuit prefer high equip embark clerk umbrella series shield strong parade two";

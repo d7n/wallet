@@ -1,1 +1,1 @@
-var mnemonic = "option mask movie mandate object nation pig mix match balcony candy alarm";
+var mnemonic = "clap before space split slice now slush old amateur desk taste gravity";

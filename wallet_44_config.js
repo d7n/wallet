@@ -1,1 +1,1 @@
-var mnemonic = "exhibit couch fork vacant west swallow brain mistake combine grit envelope fence";
+var mnemonic = "quality measure learn raw run limb display burst silk garage crane fork";

@@ -1,1 +1,1 @@
-var mnemonic = "use hover once urban produce ankle interest sound grant sweet random fall";
+var mnemonic = "above remember pilot game clerk such rough cake humble cool dash family";

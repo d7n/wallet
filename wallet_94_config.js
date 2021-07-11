@@ -1,1 +1,1 @@
-var mnemonic = "input buzz diary blur laptop hobby oblige desert inside bird deputy general";
+var mnemonic = "confirm memory taste shoe mouse match unknown reward beyond face afraid gadget";

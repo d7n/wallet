@@ -1,1 +1,1 @@
-var mnemonic = "carpet steel trend close vicious culture outside decorate uncle settle physical ribbon";
+var mnemonic = "chuckle board pave pelican rebel expire space million cute card core cradle";

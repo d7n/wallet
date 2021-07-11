@@ -1,1 +1,1 @@
-var mnemonic = "churn arm dance emerge method trap high inch switch swing sound once";
+var mnemonic = "crowd extend panther uncle atom drum smooth little poem puzzle lunar dash";

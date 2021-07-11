@@ -1,1 +1,1 @@
-var mnemonic = "oven job lava offer public alcohol invite oppose carry aware develop become";
+var mnemonic = "retreat sad claim rookie tomato fancy elegant scan visit tenant believe alert";

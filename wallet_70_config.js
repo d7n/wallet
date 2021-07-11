@@ -1,1 +1,1 @@
-var mnemonic = "general ready tourist summer sausage must ancient judge bike like certain decide";
+var mnemonic = "lazy spice oval flash jeans insane engine history tube stereo zero multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal control bring kid isolate caught crystal team charge lawsuit sustain gold";
+var mnemonic = "gym solve blur theme green crystal true arrange balcony demise present ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "vote loop soda drift nation hospital car lobster lemon sausage copy hammer";
+var mnemonic = "spin cliff slice venue void staff cash process exotic plunge reform inject";

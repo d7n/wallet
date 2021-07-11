@@ -1,1 +1,1 @@
-var mnemonic = "donor afford exact nest prevent wave august long cruise three remind badge";
+var mnemonic = "inject pet course acid useful blur stairs evoke inflict dizzy heart tilt";

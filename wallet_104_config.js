@@ -1,1 +1,1 @@
-var mnemonic = "month test borrow service neck satoshi clown outer drink huge cool toy";
+var mnemonic = "cradle buffalo weather humble gauge bread train awesome harsh book office left";

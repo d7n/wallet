@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur exhaust slice glue very tunnel cotton dismiss pencil off security tribe";
+var mnemonic = "asthma believe effort cement amused around ecology acquire until company electric orphan";

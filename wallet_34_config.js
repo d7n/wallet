@@ -1,1 +1,1 @@
-var mnemonic = "indoor bacon enemy session riot casino rib spray wine shiver trap royal";
+var mnemonic = "tail wait slogan into error weekend vault work raise rocket hurt flag";

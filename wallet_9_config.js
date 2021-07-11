@@ -1,1 +1,1 @@
-var mnemonic = "fashion agree claw tree unknown emotion motor hill noodle ceiling alone explain";
+var mnemonic = "empty wool coyote genuine proud pledge grant bag physical leader refuse shop";

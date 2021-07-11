@@ -1,1 +1,1 @@
-var mnemonic = "tape regular course act exact shoulder height sheriff time media cycle later";
+var mnemonic = "maple orange inner silent zoo nurse program evidence rich abandon uniform document";

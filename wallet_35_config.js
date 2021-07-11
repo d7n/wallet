@@ -1,1 +1,1 @@
-var mnemonic = "rude rail adapt lawn ocean baby perfect install virus robust seven upgrade";
+var mnemonic = "focus wheat dragon fat lesson slam neither click ecology waste valve matrix";

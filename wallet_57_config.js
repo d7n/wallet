@@ -1,1 +1,1 @@
-var mnemonic = "claw endless purity puzzle wave oyster boy dutch timber level fetch canyon";
+var mnemonic = "lyrics long say high doctor mask degree ability unable address obtain next";

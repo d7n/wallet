@@ -1,1 +1,1 @@
-var mnemonic = "priority settle romance movie habit measure suit only ring climb insane wrestle";
+var mnemonic = "asset lake omit various essence snack afraid express repeat genius purpose horn";

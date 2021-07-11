@@ -1,1 +1,1 @@
-var mnemonic = "code father web dawn nature garlic faculty story match coil slight hawk";
+var mnemonic = "spirit else blind tonight struggle license oak antique tunnel profit resource arctic";

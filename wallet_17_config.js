@@ -1,1 +1,1 @@
-var mnemonic = "afford team ketchup enable permit gospel energy echo moral domain slab misery";
+var mnemonic = "aerobic flight fire syrup coconut fatigue figure shell gorilla march plunge security";

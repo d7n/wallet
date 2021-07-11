@@ -1,1 +1,1 @@
-var mnemonic = "arrange fly expose magnet monitor safe arrive oblige vacuum acoustic midnight despair";
+var mnemonic = "test ring put language more exact kingdom quiz runway glimpse laugh heart";

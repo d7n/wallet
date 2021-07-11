@@ -1,1 +1,1 @@
-var mnemonic = "pet ethics alarm buffalo sorry sad robust reopen hungry unhappy orient outside";
+var mnemonic = "frozen coast deputy face quarter physical horror woman happy hat civil desert";

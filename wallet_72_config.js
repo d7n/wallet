@@ -1,1 +1,1 @@
-var mnemonic = "unaware wrestle viable journey two mango stable fit jar know attitude piece";
+var mnemonic = "nephew radar cattle spy trip disorder fiber hungry tongue keen today grape";

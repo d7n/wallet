@@ -1,1 +1,1 @@
-var mnemonic = "believe stairs antenna sick law picture warrior pink grape alpha critic supply";
+var mnemonic = "prepare brisk chuckle offer sound matrix corn expose shop offer worry bid";

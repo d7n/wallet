@@ -1,1 +1,1 @@
-var mnemonic = "goat regret crew expect attract mercy hammer firm direct sad artwork awesome";
+var mnemonic = "harvest tortoise magnet plate curious repeat powder melt popular success estate weather";

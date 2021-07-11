@@ -1,1 +1,1 @@
-var mnemonic = "luggage umbrella affair vital supreme truth thumb wear price grocery security ugly";
+var mnemonic = "property dismiss shaft december theory bargain ring manual solar swap color drink";

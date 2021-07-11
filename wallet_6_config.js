@@ -1,1 +1,1 @@
-var mnemonic = "cheese beach maze tool face error label clown close history ceiling east";
+var mnemonic = "average parade episode bus jeans cave mind friend nose follow glow indicate";

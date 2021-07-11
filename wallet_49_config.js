@@ -1,1 +1,1 @@
-var mnemonic = "romance logic discover plastic garden wasp custom slim jazz avoid defense thought";
+var mnemonic = "despair settle notice hub citizen elephant oxygen casual play satisfy enrich mimic";

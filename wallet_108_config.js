@@ -1,1 +1,1 @@
-var mnemonic = "explain must open tiger report kangaroo term forum indicate hospital minor gallery";
+var mnemonic = "sad street rack relax behind blush already mango tent unusual rent soup";

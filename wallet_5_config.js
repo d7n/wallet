@@ -1,1 +1,1 @@
-var mnemonic = "service helmet quantum luggage injury spawn cattle mother lucky absurd element melody";
+var mnemonic = "cabbage velvet kiss shuffle vendor emerge oblige olympic approve pause inch dream";

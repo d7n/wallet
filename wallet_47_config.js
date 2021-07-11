@@ -1,1 +1,1 @@
-var mnemonic = "notable clap dial innocent embark tattoo way lend gorilla ride prefer believe";
+var mnemonic = "canvas satisfy during olympic life panel bird manual green boring engage depend";

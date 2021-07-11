@@ -1,1 +1,1 @@
-var mnemonic = "project room fly wheel secret disease brown genre crumble north orchard inspire";
+var mnemonic = "hospital practice aim swarm pen negative then film talk life mushroom quantum";

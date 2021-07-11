@@ -1,1 +1,1 @@
-var mnemonic = "confirm verify kit icon entire attend diagram left photo race spirit resist";
+var mnemonic = "grit two error aunt flame hurt absurd deny record tuna safe please";

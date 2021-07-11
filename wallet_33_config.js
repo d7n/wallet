@@ -1,1 +1,1 @@
-var mnemonic = "evolve female hope episode resemble fly hybrid impulse crazy suffer census cable";
+var mnemonic = "okay this hen detect pass excess candy rookie pear lion gorilla voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "cross clinic trick hamster element tank object train blouse clutch diesel receive";
+var mnemonic = "family sick diet turtle grocery organ point habit acid exhibit purpose clump";

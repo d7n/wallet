@@ -1,1 +1,1 @@
-var mnemonic = "draft opinion process harsh motion equal join this finish sugar purchase convince";
+var mnemonic = "spy box winter raccoon stereo nurse fantasy potato change view page hospital";

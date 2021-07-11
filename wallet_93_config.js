@@ -1,1 +1,1 @@
-var mnemonic = "fresh misery dial time hold force food bleak lazy castle material broken";
+var mnemonic = "picnic axis spoil ranch during proud hill amazing element sauce hair album";

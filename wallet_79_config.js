@@ -1,1 +1,1 @@
-var mnemonic = "bundle weather bomb practice trash waste tiny spirit repeat master nuclear blanket";
+var mnemonic = "tiger fit unveil mother snack stove slim source ketchup distance vacuum ridge";

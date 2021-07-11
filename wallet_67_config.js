@@ -1,1 +1,1 @@
-var mnemonic = "infant where thumb pair milk eyebrow climb economy cute truth where bulk";
+var mnemonic = "focus require rare asset unhappy roast advice top way pipe anxiety toast";

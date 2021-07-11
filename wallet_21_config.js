@@ -1,1 +1,1 @@
-var mnemonic = "shrimp opera crazy attract exotic height boat trumpet cream warm frost position";
+var mnemonic = "mansion accuse auto power rhythm vanish still version lend outside version spring";

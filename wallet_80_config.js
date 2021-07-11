@@ -1,1 +1,1 @@
-var mnemonic = "mobile asset result ancient gospel tired fence claw else congress bundle clerk";
+var mnemonic = "nephew pulse tone quiz cake bitter knee happy federal entire raven board";

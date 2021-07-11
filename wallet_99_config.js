@@ -1,1 +1,1 @@
-var mnemonic = "open ordinary woman crater crumble sure insect voyage only nothing behave sail";
+var mnemonic = "olive train fatigue dune letter click object blossom resist federal leaf cash";

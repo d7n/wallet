@@ -1,1 +1,1 @@
-var mnemonic = "practice dumb guide loud piano width jealous tonight area account royal shy";
+var mnemonic = "debate race nuclear imitate school impulse school also sun tag cradle choice";

@@ -1,1 +1,1 @@
-var mnemonic = "endless cook patrol garbage soldier dentist crane normal walk source correct power";
+var mnemonic = "chapter travel rather scheme orchard clown hospital obvious snack drum ankle message";

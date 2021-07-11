@@ -1,1 +1,1 @@
-var mnemonic = "sadness improve mouse fresh hamster brick must invite scorpion length harsh thank";
+var mnemonic = "anger sleep army gas piece crash decorate fashion subject enhance remain final";

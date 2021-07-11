@@ -1,1 +1,1 @@
-var mnemonic = "alarm today venture cactus retire sponsor floor enlist sibling exercise tell people";
+var mnemonic = "present sphere page define arrange tube wave fence garage crater oyster fire";

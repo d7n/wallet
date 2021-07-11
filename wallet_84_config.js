@@ -1,1 +1,1 @@
-var mnemonic = "license early shove essay update village fluid reveal hurdle traffic predict captain";
+var mnemonic = "modify duty shoulder fame credit acid diary tube pulp later leaf black";

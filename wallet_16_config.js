@@ -1,1 +1,1 @@
-var mnemonic = "grid trip mutual include ketchup march bird priority hurdle hockey fiber purpose";
+var mnemonic = "post split toddler hill ride ugly soccer under until spoon exotic tape";

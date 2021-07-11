@@ -1,1 +1,1 @@
-var mnemonic = "gate father pottery napkin chunk coin tongue puppy staff extend script ordinary";
+var mnemonic = "era blame glad luxury evidence symbol match reject view matrix glove coral";

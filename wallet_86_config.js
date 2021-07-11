@@ -1,1 +1,1 @@
-var mnemonic = "blind attack shoulder addict onion winner there survey bonus absurd struggle inside";
+var mnemonic = "canoe clinic blanket tortoise crazy lucky talk merry life vintage capital hybrid";

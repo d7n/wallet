@@ -1,1 +1,1 @@
-var mnemonic = "motor filter tube young solve festival silent genius scan estate alert toy";
+var mnemonic = "axis flock stay worry garment immense mention course insect video rabbit else";

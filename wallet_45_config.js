@@ -1,1 +1,1 @@
-var mnemonic = "across canal evidence normal describe produce enemy west annual grocery model argue";
+var mnemonic = "boat peasant egg satoshi into bid scorpion outdoor east blame friend foster";

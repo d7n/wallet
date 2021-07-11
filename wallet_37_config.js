@@ -1,1 +1,1 @@
-var mnemonic = "habit alone peasant rotate cement case answer differ answer repeat design push";
+var mnemonic = "toilet crack region current differ else agent knife pride medal dinosaur dance";

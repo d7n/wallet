@@ -1,1 +1,1 @@
-var mnemonic = "section baby expand crack fresh duty only garage fire census machine embody";
+var mnemonic = "pride roof shy embark sense figure park cable tornado spy quick bid";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic win nerve guard demand verify artwork cushion wild hobby attitude among";
+var mnemonic = "special napkin junk desert gate auto nest barrel volume favorite wrist bone";

@@ -1,1 +1,1 @@
-var mnemonic = "people sibling planet double aisle monkey empower cart ladder risk stable this";
+var mnemonic = "hobby culture act globe beach vicious lazy kiwi sausage lock dismiss random";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos viable math economy dinner raven scrap ancient fury endless auto monitor";
+var mnemonic = "cycle gun pony elephant suffer strike deny again bundle cannon work throw";

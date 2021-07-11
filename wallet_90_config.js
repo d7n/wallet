@@ -1,1 +1,1 @@
-var mnemonic = "fitness yellow increase live crush addict foam prosper below art round need";
+var mnemonic = "purse check oak asset praise plug attack limb coconut topple cruise leave";

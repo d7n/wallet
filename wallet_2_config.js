@@ -1,1 +1,1 @@
-var mnemonic = "sentence recall describe pact right jar ring slight jungle marine license nephew";
+var mnemonic = "fork choice way frog wrestle genuine solve fatal private entry intact finger";

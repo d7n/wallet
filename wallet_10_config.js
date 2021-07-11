@@ -1,1 +1,1 @@
-var mnemonic = "mother hospital cargo inform welcome huge try measure project aware wear blouse";
+var mnemonic = "similar property near warm fun arrow rifle model glove copper smile roof";

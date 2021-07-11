@@ -1,1 +1,1 @@
-var mnemonic = "party media one way equal connect jealous trumpet marble oil rival record";
+var mnemonic = "lumber pole record slim since actual rifle submit wreck spider rude million";

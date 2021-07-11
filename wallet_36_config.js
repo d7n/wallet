@@ -1,1 +1,1 @@
-var mnemonic = "wild palace wage link bean notable benefit brave margin festival mixed section";
+var mnemonic = "wet boring moment stand gentle crew fantasy park code season night trap";

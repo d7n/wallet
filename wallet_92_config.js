@@ -1,1 +1,1 @@
-var mnemonic = "menu act pave that ecology exhibit express hold shove crash walk shadow";
+var mnemonic = "wild direct elder detail recycle spoil thought hobby rent prosper universe marriage";

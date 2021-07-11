@@ -1,1 +1,1 @@
-var mnemonic = "elephant guess jacket gown scrub situate decide assume brisk attack evil lake";
+var mnemonic = "author bunker quit accuse swing artwork armor win pond ball emotion cram";

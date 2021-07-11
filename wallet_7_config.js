@@ -1,1 +1,1 @@
-var mnemonic = "bitter door draw caught blanket unfair drop coyote column chat march venture";
+var mnemonic = "neglect rather timber assist visual inner library shrimp wing yellow auto tennis";
