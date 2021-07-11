@@ -1,1 +1,1 @@
-var mnemonic = "strong broken paper lock wealth rug bounce transfer kiss picture news size";
+var mnemonic = "quarter delay beach kingdom already author across acoustic crew traffic shrug tooth";

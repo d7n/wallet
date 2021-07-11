@@ -1,1 +1,1 @@
-var mnemonic = "rubber example tree medal sudden prefer body loop setup become grape weekend";
+var mnemonic = "please amount noise upset best industry tired chicken blouse double mention hair";

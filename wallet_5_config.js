@@ -1,1 +1,1 @@
-var mnemonic = "half toe solution vault eagle tunnel like work flock destroy leg wave";
+var mnemonic = "verify witness favorite garage solution coast memory heavy shrimp trial knife fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform core okay coral position during laugh century board country maid cinnamon";
+var mnemonic = "segment ten portion loop quote mass sort skate clip chapter guess evil";

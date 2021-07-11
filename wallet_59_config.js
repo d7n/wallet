@@ -1,1 +1,1 @@
-var mnemonic = "success right pupil sudden sing allow cigar cave dream art shop gentle";
+var mnemonic = "true awful item fringe belt rescue antenna area kangaroo teach pony trophy";

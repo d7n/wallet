@@ -1,1 +1,1 @@
-var mnemonic = "castle athlete smile master depart spot parrot grocery feed spatial hammer build";
+var mnemonic = "bus primary mimic cool midnight rescue food actor tragic unusual lamp cable";

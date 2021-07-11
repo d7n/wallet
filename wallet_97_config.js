@@ -1,1 +1,1 @@
-var mnemonic = "machine renew immense reunion always sugar visit input crime copy profit tortoise";
+var mnemonic = "entire sample feature embark submit swing tenant minimum raise pigeon link choose";

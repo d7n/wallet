@@ -1,1 +1,1 @@
-var mnemonic = "shell pledge marble snap screen diesel differ fetch shift enter wrist east";
+var mnemonic = "gauge that conduct crew gadget change coast depth census noble cotton record";

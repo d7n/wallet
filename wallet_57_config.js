@@ -1,1 +1,1 @@
-var mnemonic = "rhythm ice maid sad pull select found scissors notice garment expire private";
+var mnemonic = "meadow glove harsh decide accuse bar must beauty view perfect record transfer";

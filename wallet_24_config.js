@@ -1,1 +1,1 @@
-var mnemonic = "unaware six kit input sphere carry party note enrich liquid stool mechanic";
+var mnemonic = "begin bread decade smoke scorpion sister hire educate garage example wisdom crazy";

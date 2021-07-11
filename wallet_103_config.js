@@ -1,1 +1,1 @@
-var mnemonic = "friend donate spray draft staff ahead syrup outside romance oppose wait buddy";
+var mnemonic = "shove horse dice annual card typical end guitar indicate grass truck disorder";

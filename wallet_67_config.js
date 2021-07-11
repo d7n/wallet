@@ -1,1 +1,1 @@
-var mnemonic = "fitness topple riot process bomb lock toddler train clown dinosaur whip magic";
+var mnemonic = "dice runway board envelope stand invest column analyst victory fluid misery hover";

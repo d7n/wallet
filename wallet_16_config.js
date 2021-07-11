@@ -1,1 +1,1 @@
-var mnemonic = "bulk phrase involve hood lamp raw marriage shoe tiny caught erosion enhance";
+var mnemonic = "wink orient achieve nest curtain gold source armor young patrol unknown stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar between crime cradle purity abstract demise throw alcohol avoid voice scout";
+var mnemonic = "fun robot chaos away matter actor chef sun bind toe flavor what";

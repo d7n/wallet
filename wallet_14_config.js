@@ -1,1 +1,1 @@
-var mnemonic = "legend quote double lizard other wild ramp urban salad exact board desert";
+var mnemonic = "able rally sunset chaos tuna any tonight mention paddle fault forget found";

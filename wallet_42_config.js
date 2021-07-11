@@ -1,1 +1,1 @@
-var mnemonic = "excuse acquire odor bamboo sure guitar slot abuse topple amused warm reform";
+var mnemonic = "nice funny kite van economy slim occur belt horn theory bottom random";

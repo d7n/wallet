@@ -1,1 +1,1 @@
-var mnemonic = "next own olive code chief despair burden satoshi shoot offer lumber zero";
+var mnemonic = "error utility gift fragile member desk gate leisure knock crush snow pause";

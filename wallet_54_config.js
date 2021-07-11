@@ -1,1 +1,1 @@
-var mnemonic = "brief ill drip state egg lottery color market much powder first slow";
+var mnemonic = "film shrimp extra profit legend easy motor midnight discover scale carpet discover";

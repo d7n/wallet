@@ -1,1 +1,1 @@
-var mnemonic = "immune midnight goat height rug force snake snake asset grape promote health";
+var mnemonic = "flip act unfold fiscal sock small smoke sketch require domain rely entire";

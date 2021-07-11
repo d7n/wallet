@@ -1,1 +1,1 @@
-var mnemonic = "timber worth expose voice bar trim art stomach add rule biology repeat";
+var mnemonic = "flag live famous pumpkin cause fold era govern already prepare suit oven";

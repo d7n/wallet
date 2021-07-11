@@ -1,1 +1,1 @@
-var mnemonic = "drama impulse cry give demand empower common violin dismiss still stamp wonder";
+var mnemonic = "employ floor dune room friend turtle peanut food fossil select grunt mix";

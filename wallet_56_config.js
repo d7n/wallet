@@ -1,1 +1,1 @@
-var mnemonic = "kiwi food salad ill sad custom rhythm squirrel capable sweet food sign";
+var mnemonic = "two earn dirt final toy magnet awake deal oak where arrive sustain";

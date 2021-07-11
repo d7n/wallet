@@ -1,1 +1,1 @@
-var mnemonic = "hazard spy define pepper liquid settle file great clutch maximum planet advance";
+var mnemonic = "tail put shy board much vessel grocery pupil glimpse metal image renew";

@@ -1,1 +1,1 @@
-var mnemonic = "problem work tube august race animal used obtain fabric good fortune wine";
+var mnemonic = "toe surprise promote battle reject subway ship include joke best deputy rebuild";

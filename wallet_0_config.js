@@ -1,1 +1,1 @@
-var mnemonic = "family pattern avocado glad volcano mandate cute change please melt leave spatial";
+var mnemonic = "foot wagon gain burst ring casual peasant empower above film junk desk";

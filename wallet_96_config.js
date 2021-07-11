@@ -1,1 +1,1 @@
-var mnemonic = "toy latin salad cage door wedding life end spray laundry word survey";
+var mnemonic = "fabric brown capable seat boy expose please replace monkey mad sustain deal";

@@ -1,1 +1,1 @@
-var mnemonic = "salute member olympic live ladder rain oval ensure busy tip pioneer bus";
+var mnemonic = "feel tiger giant season gauge team check later cancel law such amount";

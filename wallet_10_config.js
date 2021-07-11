@@ -1,1 +1,1 @@
-var mnemonic = "clay history merge accuse gift open wait genuine kite future salute liberty";
+var mnemonic = "monkey budget refuse expose tail clever tilt firm remind balcony scare reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "diet cage fossil lazy meadow change empty card exit winter goat fuel";
+var mnemonic = "profit audit other upgrade game hard avocado pattern game fiscal monster thumb";

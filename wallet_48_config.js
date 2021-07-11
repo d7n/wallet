@@ -1,1 +1,1 @@
-var mnemonic = "income toe news drum swear key bird panic barrel kidney consider glove";
+var mnemonic = "start daughter tortoise involve naive clerk ocean spell example youth image clock";

@@ -1,1 +1,1 @@
-var mnemonic = "want avoid awkward innocent embody unit parent enjoy turn brief photo gadget";
+var mnemonic = "leisure work odor betray sentence peanut grape tiger snake victory method walnut";

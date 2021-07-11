@@ -1,1 +1,1 @@
-var mnemonic = "shy illegal step punch jar duty piano cloud exact dwarf salon wire";
+var mnemonic = "game grief treat liberty image velvet hair found nominee sauce want window";

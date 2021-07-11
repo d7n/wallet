@@ -1,1 +1,1 @@
-var mnemonic = "foam rib connect bargain proud visit record find drum license tube close";
+var mnemonic = "match table gallery option eye neither spoon bamboo torch wealth defense culture";

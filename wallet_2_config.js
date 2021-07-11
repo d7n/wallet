@@ -1,1 +1,1 @@
-var mnemonic = "city hamster recall tomorrow luggage hawk vault palm trend report off category";
+var mnemonic = "glue snake since lucky bicycle remind slab wedding hurt dash rotate hen";

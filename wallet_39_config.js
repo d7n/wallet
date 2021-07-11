@@ -1,1 +1,1 @@
-var mnemonic = "problem company hold door hammer idle grocery organ recycle victory little accuse";
+var mnemonic = "margin lazy divide improve ocean fancy edit fan page gospel rail stock";

@@ -1,1 +1,1 @@
-var mnemonic = "rely game picnic argue carpet problem father butter annual accuse tip student";
+var mnemonic = "imitate crew glimpse call drastic trial sister zoo remove ritual bicycle custom";

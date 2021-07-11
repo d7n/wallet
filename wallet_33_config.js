@@ -1,1 +1,1 @@
-var mnemonic = "oven fish festival wish tone champion prison extend front noble feature patient";
+var mnemonic = "tennis develop awake alpha lonely glare size diesel cost valve pitch wealth";

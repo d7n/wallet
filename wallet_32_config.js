@@ -1,1 +1,1 @@
-var mnemonic = "across fatigue short banana luxury unveil mosquito unaware stay praise lift space";
+var mnemonic = "label nominee sentence logic repeat exact fine duck city antenna penalty net";

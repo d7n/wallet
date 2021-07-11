@@ -1,1 +1,1 @@
-var mnemonic = "banana caught foot sample garbage cart patch liberty december design desert able";
+var mnemonic = "circle gun soup output thrive social measure void focus gloom cigar leaf";

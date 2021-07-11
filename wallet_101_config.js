@@ -1,1 +1,1 @@
-var mnemonic = "sign trophy visit mule basket immune top sick question phone silly trust";
+var mnemonic = "romance page kitchen intact knock garlic effort silly essence wide ozone company";

@@ -1,1 +1,1 @@
-var mnemonic = "coast fiscal alley brush sick thrive brand leader chaos yard timber nice";
+var mnemonic = "approve window very ice slim palace chair cargo scrub scene unusual gloom";

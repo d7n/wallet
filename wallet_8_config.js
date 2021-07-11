@@ -1,1 +1,1 @@
-var mnemonic = "shed shed idle size bronze write proud then language confirm catalog wise";
+var mnemonic = "upon stomach normal eight extend film movie debris topic next husband have";

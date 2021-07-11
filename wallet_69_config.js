@@ -1,1 +1,1 @@
-var mnemonic = "news dirt insane receive disorder setup avocado devote vivid original fashion draw";
+var mnemonic = "update thunder news assault cannon group topic uncover item boil over talent";

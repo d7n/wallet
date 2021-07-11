@@ -1,1 +1,1 @@
-var mnemonic = "sleep lesson ski quick expose coffee best then network comic dish corn";
+var mnemonic = "exhibit scorpion rapid stove solid solution mechanic post always sign cream shiver";

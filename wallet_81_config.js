@@ -1,1 +1,1 @@
-var mnemonic = "write couple drip sibling glory once must enhance renew fresh seat yellow";
+var mnemonic = "shoulder wage good present skull initial shoulder amazing erode fetch mad outside";

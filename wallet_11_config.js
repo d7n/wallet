@@ -1,1 +1,1 @@
-var mnemonic = "boil cereal swing crisp title keep gown brain attitude inform peanut blouse";
+var mnemonic = "debate over luxury ecology ranch length subway picture lottery owner exhaust garden";

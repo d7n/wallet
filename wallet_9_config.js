@@ -1,1 +1,1 @@
-var mnemonic = "ghost divide such almost obvious credit amateur park estate gasp enjoy pattern";
+var mnemonic = "pizza talk turkey fantasy casino include dynamic guitar wave purse route bind";

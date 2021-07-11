@@ -1,1 +1,1 @@
-var mnemonic = "rather spell table run woman jelly dilemma help run cable action rocket";
+var mnemonic = "outer rule select survey craft solution inform north mouse frozen crazy false";

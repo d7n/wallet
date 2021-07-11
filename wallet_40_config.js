@@ -1,1 +1,1 @@
-var mnemonic = "long cube advance apple about average cage abstract moment material century rhythm";
+var mnemonic = "monitor kit issue wood chronic core token lottery shuffle deliver speed please";

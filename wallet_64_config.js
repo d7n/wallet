@@ -1,1 +1,1 @@
-var mnemonic = "return below protect dutch excite guide sleep runway define anchor below amused";
+var mnemonic = "husband hour blouse ghost hole rug table obscure balance proof impact yard";

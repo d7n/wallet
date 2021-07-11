@@ -1,1 +1,1 @@
-var mnemonic = "life universe game odor live flight horse pigeon educate tenant south snow";
+var mnemonic = "garbage little congress ladder drastic hotel obvious lens often wood install seek";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan budget humor problem kit logic whip usage machine shiver zone divide";
+var mnemonic = "help license always acoustic news pumpkin crumble elegant visual ball curious still";

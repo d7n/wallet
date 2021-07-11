@@ -1,1 +1,1 @@
-var mnemonic = "brisk play drastic tragic category piano print extra shallow idea trouble pig";
+var mnemonic = "security genius struggle odor upset egg cabin egg region put misery current";

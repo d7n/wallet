@@ -1,1 +1,1 @@
-var mnemonic = "title great aspect debate orchard nose mesh such reform capital three come";
+var mnemonic = "ecology add sunny slow dumb deliver problem cheese blood fork stable gym";

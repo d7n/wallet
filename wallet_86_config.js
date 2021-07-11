@@ -1,1 +1,1 @@
-var mnemonic = "later job twenty chair spend measure affair gorilla ice weekend improve garlic";
+var mnemonic = "wash mammal pepper garlic radar vacuum shift spare tool license cute february";

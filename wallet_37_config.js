@@ -1,1 +1,1 @@
-var mnemonic = "nature bus radar option enable hen oil fortune media smooth novel parade";
+var mnemonic = "retreat control vague number strong egg gorilla sing mesh unaware stand submit";

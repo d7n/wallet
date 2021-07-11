@@ -1,1 +1,1 @@
-var mnemonic = "boy fork earn cave alpha link surround system catalog auction run harbor";
+var mnemonic = "you choice aspect runway total similar copper scatter pizza crazy patient level";

@@ -1,1 +1,1 @@
-var mnemonic = "text rack oyster beauty warm turkey else cost front liberty shiver flush";
+var mnemonic = "barely cotton such soon joy panda kingdom hurt stay shuffle theory twin";

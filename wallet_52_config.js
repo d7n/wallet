@@ -1,1 +1,1 @@
-var mnemonic = "review tiny wealth husband cigar away sphere shove erosion satisfy scatter nut";
+var mnemonic = "wonder cage afraid bargain notable diamond crew hidden swear lazy draw silver";

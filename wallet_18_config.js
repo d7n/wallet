@@ -1,1 +1,1 @@
-var mnemonic = "snap differ all bar nuclear latin artwork arrive liberty polar funny suspect";
+var mnemonic = "stove thumb logic advance move grief creek cube game auction ensure matter";

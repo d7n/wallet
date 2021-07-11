@@ -1,1 +1,1 @@
-var mnemonic = "atom cram muffin hawk mother learn glimpse install gate near exclude champion";
+var mnemonic = "cause level tooth alpha engage eye smooth idle child economy grant fiction";

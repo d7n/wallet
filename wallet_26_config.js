@@ -1,1 +1,1 @@
-var mnemonic = "wife media craft symptom blade divert retreat wild world employ soup alley";
+var mnemonic = "merry art nurse biology exact team thank choose measure grid total lens";

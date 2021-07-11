@@ -1,1 +1,1 @@
-var mnemonic = "uniform oppose pupil sad idea test misery borrow crater wage silk stove";
+var mnemonic = "traffic detect verify very current cousin vocal innocent typical supply style concert";

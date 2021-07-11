@@ -1,1 +1,1 @@
-var mnemonic = "tower step equal tackle shrug possible mix attack manual able jewel situate";
+var mnemonic = "main short accuse valid awkward caution country crunch proof believe crack grace";

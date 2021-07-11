@@ -1,1 +1,1 @@
-var mnemonic = "hole disease excess cool soccer message flag search crack depart famous tiny";
+var mnemonic = "onion system jaguar frequent obvious click used copper true program insane flee";

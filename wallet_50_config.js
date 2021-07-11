@@ -1,1 +1,1 @@
-var mnemonic = "soap dust lawn canvas rug judge correct refuse strong double immense bargain";
+var mnemonic = "wife grape clog bulb leader leg forget gentle tortoise random vicious flower";

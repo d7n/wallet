@@ -1,1 +1,1 @@
-var mnemonic = "wool demise whisper initial twenty clean dish merge window marriage theory potato";
+var mnemonic = "boat egg seat seed add awkward castle train actor battle athlete unveil";

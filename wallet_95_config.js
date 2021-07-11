@@ -1,1 +1,1 @@
-var mnemonic = "dance sun human home orbit melody identify math donkey tilt student heavy";
+var mnemonic = "breeze hip gift nasty attend guard permit enforce scan unique vibrant east";

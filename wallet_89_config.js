@@ -1,1 +1,1 @@
-var mnemonic = "buddy okay embrace frost ring excite time upper photo divert since noodle";
+var mnemonic = "blanket large stove umbrella fan carbon pool exhaust tail wall memory bunker";

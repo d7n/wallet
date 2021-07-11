@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow negative reopen almost license acoustic wild rabbit comfort pause daughter exchange";
+var mnemonic = "peanut crazy swarm midnight inform figure organ pattern become march father brother";

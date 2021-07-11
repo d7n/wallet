@@ -1,1 +1,1 @@
-var mnemonic = "series number acquire rail lazy album hood hazard receive attitude cheese hello";
+var mnemonic = "sword act absent supply become cause envelope museum zebra wild idle way";

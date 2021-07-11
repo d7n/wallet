@@ -1,1 +1,1 @@
-var mnemonic = "canyon hour bunker civil absurd own message ecology help near keen walk";
+var mnemonic = "leaf fantasy burger energy tent middle myth life labor prepare board stem";

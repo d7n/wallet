@@ -1,1 +1,1 @@
-var mnemonic = "horn reunion dog castle fragile industry mobile pool unaware burden blouse neglect";
+var mnemonic = "friend scheme always hungry gas guard afford survey script jelly buddy scorpion";

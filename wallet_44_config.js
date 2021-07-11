@@ -1,1 +1,1 @@
-var mnemonic = "mercy what post grass fury view bottom minute wink document witness orient";
+var mnemonic = "sunny shed treat inside craft muscle blur tourist ring valid pass subway";

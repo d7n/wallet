@@ -1,1 +1,1 @@
-var mnemonic = "worth elbow degree put sea plug lunch top dutch tooth together fossil";
+var mnemonic = "indoor thought soldier north matrix path market secret patch blue ecology alcohol";

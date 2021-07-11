@@ -1,1 +1,1 @@
-var mnemonic = "invest congress bitter ticket fly napkin joy boat salad initial honey ring";
+var mnemonic = "charge want fan buyer sand average scan forget source wide sleep basket";

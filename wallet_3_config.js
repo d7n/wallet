@@ -1,1 +1,1 @@
-var mnemonic = "jar member mobile large rug siren rug desert carry rabbit evolve young";
+var mnemonic = "cram concert live vast ancient exile buyer inquiry casino voyage nephew lady";

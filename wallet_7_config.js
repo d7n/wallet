@@ -1,1 +1,1 @@
-var mnemonic = "few ignore word leisure cat defense potato onion coach smile river banner";
+var mnemonic = "maximum skirt decade slim raccoon tonight family rare fruit luggage jacket forward";

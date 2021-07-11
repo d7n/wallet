@@ -1,1 +1,1 @@
-var mnemonic = "sea elder old stairs actor tenant coconut nest bus someone piece that";
+var mnemonic = "daughter kingdom long exhaust witness certain verb gain mouse vibrant slush elevator";

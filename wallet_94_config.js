@@ -1,1 +1,1 @@
-var mnemonic = "employ van water drip dice still debate marriage culture fetch public busy";
+var mnemonic = "inflict two about place elite poet pride rule lion april build sure";

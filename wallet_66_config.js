@@ -1,1 +1,1 @@
-var mnemonic = "tent win dentist elder milk casual soul million honey south crouch there";
+var mnemonic = "punch credit sun curious alone sudden acoustic similar toast isolate giant upper";

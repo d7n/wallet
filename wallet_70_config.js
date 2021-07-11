@@ -1,1 +1,1 @@
-var mnemonic = "coyote photo cable climb stamp gravity special notable state family render surface";
+var mnemonic = "grape release smoke thought similar sausage mention cat rug pact fringe team";

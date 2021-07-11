@@ -1,1 +1,1 @@
-var mnemonic = "pool true push high patch lawn student check fresh final neither erupt";
+var mnemonic = "print sample gate evidence heavy pyramid film cat village glance brand parrot";

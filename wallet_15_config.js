@@ -1,1 +1,1 @@
-var mnemonic = "draft sunny limit buyer word visa eagle tiger slide drop anger impact";
+var mnemonic = "ability tongue always very diagram blue boring other stick angry humble car";

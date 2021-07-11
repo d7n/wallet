@@ -1,1 +1,1 @@
-var mnemonic = "door basket oval small predict quality waste item solid ladder plastic indoor";
+var mnemonic = "dentist inside cherry cupboard blade swamp orbit onion target song basic rate";

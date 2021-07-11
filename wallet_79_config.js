@@ -1,1 +1,1 @@
-var mnemonic = "whip insect exile thumb orchard enjoy chase wonder snake fee divorce stay";
+var mnemonic = "giant talk chronic pepper dose blouse puppy miracle orphan provide arena reason";

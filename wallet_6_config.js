@@ -1,1 +1,1 @@
-var mnemonic = "know receive nerve amused twin culture clerk bench disagree lemon target object";
+var mnemonic = "peasant surface frog denial media jealous arena twenty surface sell cram deny";

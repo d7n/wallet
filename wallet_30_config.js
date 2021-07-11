@@ -1,1 +1,1 @@
-var mnemonic = "borrow fire subway color afford crystal mandate flat sadness place cycle income";
+var mnemonic = "express void fish record trip treat river foam peanut level fantasy riot";

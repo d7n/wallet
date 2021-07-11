@@ -1,1 +1,1 @@
-var mnemonic = "enroll paddle raccoon sugar cigar dream trigger scatter domain excite surge fitness";
+var mnemonic = "kingdom account rack decide mean mixture kid glimpse victory rough bless reflect";

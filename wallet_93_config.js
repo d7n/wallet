@@ -1,1 +1,1 @@
-var mnemonic = "faint thing diagram capital song wine fiction float term venture axis jar";
+var mnemonic = "afraid vapor guide disorder vacuum color tourist attract tooth ticket fatal identify";

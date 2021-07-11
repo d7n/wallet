@@ -1,1 +1,1 @@
-var mnemonic = "emerge party arena ride stem cube power armor meat sugar alien resource";
+var mnemonic = "vicious general leisure update denial drip lemon love gold promote letter obey";

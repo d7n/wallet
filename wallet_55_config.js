@@ -1,1 +1,1 @@
-var mnemonic = "arrest merry confirm clarify nerve sell update seek path clean faint nose";
+var mnemonic = "expand river elegant average gorilla witness dish salon effort awful blur brown";

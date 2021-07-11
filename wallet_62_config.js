@@ -1,1 +1,1 @@
-var mnemonic = "car violin danger moral someone shock loop current sight bomb broccoli about";
+var mnemonic = "timber car volcano deal share cat damp repeat promote game rebuild crunch";

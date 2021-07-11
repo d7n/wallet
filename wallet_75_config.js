@@ -1,1 +1,1 @@
-var mnemonic = "color pull short derive monitor process private once happy crawl hunt cloth";
+var mnemonic = "grid raw inquiry force height gym tape inflict private rotate note onion";
