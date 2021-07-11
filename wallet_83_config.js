@@ -1,1 +1,1 @@
-var mnemonic = "arrow unhappy fire nasty advice affair earth raise joke scatter movie cash";
+var mnemonic = "wing unique struggle elegant clean room beyond tonight dress tree clutch solid";

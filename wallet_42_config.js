@@ -1,1 +1,1 @@
-var mnemonic = "guilt file inside subway cannon month outer more name rack sign casino";
+var mnemonic = "crystal mesh run stamp swift oven donor boost rather wealth below trend";

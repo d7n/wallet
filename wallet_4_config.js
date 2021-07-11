@@ -1,1 +1,1 @@
-var mnemonic = "tag brisk rival camera sugar extend inside identify dance fire surge cheese";
+var mnemonic = "spin diary bomb plug gaze lawn usual pottery fury suffer bag announce";

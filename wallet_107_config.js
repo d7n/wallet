@@ -1,1 +1,1 @@
-var mnemonic = "snow tooth panther bargain toddler start give protect during runway garlic dice";
+var mnemonic = "prepare decide material mobile bicycle umbrella subway canyon machine window spray knock";

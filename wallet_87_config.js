@@ -1,1 +1,1 @@
-var mnemonic = "frozen female fall once brave quit naive garage number quarter broccoli excess";
+var mnemonic = "seek glow become erode zoo champion luggage wine follow zone orphan leisure";

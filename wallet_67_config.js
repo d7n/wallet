@@ -1,1 +1,1 @@
-var mnemonic = "slab copy today home young logic exhibit jungle drive misery december strategy";
+var mnemonic = "obey spin seminar noble crime fame salmon flower announce ridge charge suggest";

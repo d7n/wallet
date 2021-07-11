@@ -1,1 +1,1 @@
-var mnemonic = "become swallow frog dentist satoshi sand also minor sense thought aim donor";
+var mnemonic = "focus banana manual orchard spell absent more manage pupil buzz hedgehog hello";

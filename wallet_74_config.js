@@ -1,1 +1,1 @@
-var mnemonic = "junior tip problem pizza demand blue prepare taxi regular there hire radio";
+var mnemonic = "weasel inflict tragic early maze arrow twist festival race cheese library alter";

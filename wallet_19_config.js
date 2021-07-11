@@ -1,1 +1,1 @@
-var mnemonic = "cram genre praise stairs tackle stuff fine ginger fiscal eternal will doctor";
+var mnemonic = "leisure truth speed insect bomb blade tongue plunge equal glide wolf such";

@@ -1,1 +1,1 @@
-var mnemonic = "mad divert age deputy party voice turkey wage make physical anxiety gasp";
+var mnemonic = "old dance release release paper glimpse actress capable exit space floor crater";

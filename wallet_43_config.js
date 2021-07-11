@@ -1,1 +1,1 @@
-var mnemonic = "inside proof recipe frozen found wage scale social teach leopard camera lawsuit";
+var mnemonic = "wall diamond region any happy negative usual flee leaf cattle ship arena";

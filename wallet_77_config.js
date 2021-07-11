@@ -1,1 +1,1 @@
-var mnemonic = "drama video enemy casual eight oyster above ticket mobile erode pink item";
+var mnemonic = "budget object column spell shuffle require surprise brand pass ocean wreck blame";

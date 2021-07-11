@@ -1,1 +1,1 @@
-var mnemonic = "face abstract slogan ask swallow pact logic cycle more shuffle school feel";
+var mnemonic = "maximum kiwi gesture fish patient clean train lesson husband crash inhale dream";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual cupboard orchard among trick frown nerve wagon marriage cricket total program";
+var mnemonic = "review dust mushroom people donkey cargo cruel negative thought nasty license alcohol";

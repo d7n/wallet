@@ -1,1 +1,1 @@
-var mnemonic = "where bike unit spatial raise kit pistol talk meat anxiety shy chief";
+var mnemonic = "whisper gallery cactus stamp various stay tennis shop true side imitate transfer";

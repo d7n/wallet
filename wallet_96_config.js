@@ -1,1 +1,1 @@
-var mnemonic = "cradle census distance day jaguar quick gym bicycle float remove nothing flash";
+var mnemonic = "cute van pencil fan group claw rail december flash two also tomato";

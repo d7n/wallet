@@ -1,1 +1,1 @@
-var mnemonic = "network provide chair lady abstract dog supply opinion magic arctic aspect rain";
+var mnemonic = "upon giraffe hungry enrich inner birth school lion stone unlock equal system";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin embody churn pilot cruise point bounce rude heart prevent ghost connect";
+var mnemonic = "movie kit raise father neutral planet three jungle render mass remind glide";

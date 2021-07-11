@@ -1,1 +1,1 @@
-var mnemonic = "flock escape acid aisle subway faint exact clinic tip sport same book";
+var mnemonic = "bitter stomach garden celery devote play flat grief critic inflict fox priority";

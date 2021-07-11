@@ -1,1 +1,1 @@
-var mnemonic = "shallow shine food ensure what song butter ridge hockey lonely obscure waste";
+var mnemonic = "lucky embody bicycle belt inject gun unaware protect approve dentist salmon win";

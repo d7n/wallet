@@ -1,1 +1,1 @@
-var mnemonic = "stereo pave wall engage common bus elite hobby expect tonight hidden buyer";
+var mnemonic = "isolate theory joke runway sudden pelican truth promote culture online program market";

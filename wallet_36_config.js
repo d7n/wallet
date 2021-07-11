@@ -1,1 +1,1 @@
-var mnemonic = "equip shrimp amazing mean start spring market radio grit royal depend spatial";
+var mnemonic = "grief bird neutral uncover lounge final hole enter elite own chimney essay";

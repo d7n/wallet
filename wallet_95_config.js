@@ -1,1 +1,1 @@
-var mnemonic = "length magnet protect observe wire apple okay orient blush major clutch layer";
+var mnemonic = "virus obvious fringe bargain error speed nation chief funny skull crucial ranch";

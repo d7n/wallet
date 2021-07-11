@@ -1,1 +1,1 @@
-var mnemonic = "wisdom clever saddle write later marble wagon smooth thrive actress unusual guard";
+var mnemonic = "sniff body scare jaguar extra unhappy color pencil bachelor lounge turtle elephant";

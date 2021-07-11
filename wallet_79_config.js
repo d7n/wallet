@@ -1,1 +1,1 @@
-var mnemonic = "rabbit rabbit sound sausage trick talk sell sort cat total barrel van";
+var mnemonic = "alone lazy raise reason damage police candy banner symptom drift lizard detect";

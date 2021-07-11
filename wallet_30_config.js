@@ -1,1 +1,1 @@
-var mnemonic = "wasp final uncover page plug retire garden visa bracket blast illness evolve";
+var mnemonic = "frame sun lazy hospital please code magic giant hollow tomato pudding rose";

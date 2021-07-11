@@ -1,1 +1,1 @@
-var mnemonic = "denial bone connect inquiry between shadow detect mail fault roast settle settle";
+var mnemonic = "broken pelican quick analyst toward maze print muscle auto exile exchange light";

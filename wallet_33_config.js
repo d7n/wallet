@@ -1,1 +1,1 @@
-var mnemonic = "swallow book ensure magnet tenant legend setup syrup purpose joke ill split";
+var mnemonic = "auto wheat design connect flee again yellow rude basic social purchase width";

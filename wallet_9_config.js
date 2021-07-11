@@ -1,1 +1,1 @@
-var mnemonic = "tag festival occur foam broom reform trophy way rigid dutch pottery case";
+var mnemonic = "alcohol soup desk gadget ill obscure bronze conduct machine describe pair tennis";

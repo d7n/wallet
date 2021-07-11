@@ -1,1 +1,1 @@
-var mnemonic = "zebra guess wealth rate exact sphere property fire model interest man catalog";
+var mnemonic = "crime cause upper fatigue unique purse coach donkey tonight give about alone";

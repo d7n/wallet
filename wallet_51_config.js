@@ -1,1 +1,1 @@
-var mnemonic = "refuse cost lounge forest pilot absent faint mobile quantum fine sell spider";
+var mnemonic = "boy attract course disagree diagram absorb youth morning hockey base dragon coin";

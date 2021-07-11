@@ -1,1 +1,1 @@
-var mnemonic = "rough time smooth engage toward soup near slot infant cancel title silver";
+var mnemonic = "mask violin digital hobby pilot stamp web debate donor strike people fat";

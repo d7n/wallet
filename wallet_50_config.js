@@ -1,1 +1,1 @@
-var mnemonic = "scrap bacon negative valve champion soup force slogan strike grunt sustain carry";
+var mnemonic = "usage law forget outside dress order question rescue gossip close frozen become";

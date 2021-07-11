@@ -1,1 +1,1 @@
-var mnemonic = "whip cloth ring stem color inside illness average identify dawn milk cushion";
+var mnemonic = "over umbrella lens cradle erase stairs fire jacket hundred suit silk roof";

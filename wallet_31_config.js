@@ -1,1 +1,1 @@
-var mnemonic = "mesh emerge found hollow pride vital eight celery valid drip surround buffalo";
+var mnemonic = "surround recall satoshi this feature crowd reopen engage shed candy food powder";

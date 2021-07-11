@@ -1,1 +1,1 @@
-var mnemonic = "burden ozone quarter pottery dish client wife budget ridge burden beyond join";
+var mnemonic = "unique type address tortoise horse kitten gun kingdom hold degree illegal inform";

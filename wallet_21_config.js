@@ -1,1 +1,1 @@
-var mnemonic = "enhance symbol tornado satoshi side mixture relief auto civil family brisk survey";
+var mnemonic = "quick mandate pond demise chef brick citizen siege leisure change tobacco frame";

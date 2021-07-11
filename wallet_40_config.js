@@ -1,1 +1,1 @@
-var mnemonic = "skate again hand rocket zoo album myth nature soon craft deer skirt";
+var mnemonic = "fire beach someone vivid furnace amateur reduce tooth enter dwarf together essence";

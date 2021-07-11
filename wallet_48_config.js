@@ -1,1 +1,1 @@
-var mnemonic = "juice height animal rabbit mango height armed public recipe note yard horse";
+var mnemonic = "mystery mass other warfare mention tiger yellow valid clerk spirit giant room";

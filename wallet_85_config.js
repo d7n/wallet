@@ -1,1 +1,1 @@
-var mnemonic = "goat spike travel field release cycle twist exhibit air vendor lizard lumber";
+var mnemonic = "cruise reason silver leg mail clinic present decrease core crane bamboo poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "winner innocent fragile prize unable aunt pencil flag unaware misery video hour";
+var mnemonic = "industry tobacco way bacon special ghost fruit owner virus weekend soul item";

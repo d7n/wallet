@@ -1,1 +1,1 @@
-var mnemonic = "credit advance hospital need sweet build auto acoustic modify thank volume material";
+var mnemonic = "receive shadow verb proof hero trap observe evolve spin weasel mercy various";

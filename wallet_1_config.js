@@ -1,1 +1,1 @@
-var mnemonic = "extra fine kitten loan web saddle congress try morning giggle glance faint";
+var mnemonic = "auction during balance roast ostrich matter december uphold next fiscal behave certain";

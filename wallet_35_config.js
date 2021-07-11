@@ -1,1 +1,1 @@
-var mnemonic = "gloom gauge february crisp tumble uncover explain antenna blue top settle enjoy";
+var mnemonic = "charge close flame claim visual treat lucky surge hurry expect clog bone";

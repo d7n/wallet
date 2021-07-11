@@ -1,1 +1,1 @@
-var mnemonic = "bargain ball catalog veteran mask local gauge zone abandon they clutch clutch";
+var mnemonic = "castle recycle save pumpkin dune cement version surge potato desk rebuild clap";

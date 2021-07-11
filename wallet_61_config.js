@@ -1,1 +1,1 @@
-var mnemonic = "match old nut attract reflect armed drive twelve ranch come surge destroy";
+var mnemonic = "add unveil pool gauge decline spice taxi distance daring cactus evoke boss";

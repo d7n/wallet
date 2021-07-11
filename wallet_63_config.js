@@ -1,1 +1,1 @@
-var mnemonic = "zoo era antique elephant mammal wine fox reunion wink chase bunker provide";
+var mnemonic = "enforce punch parent warfare action among churn foam scale east nerve train";

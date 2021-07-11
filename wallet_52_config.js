@@ -1,1 +1,1 @@
-var mnemonic = "suggest hurdle series one sad cost dust kite artwork dust pony badge";
+var mnemonic = "glide crime control plunge gloom afraid track couple idea outside raccoon grain";

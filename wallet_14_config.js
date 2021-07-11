@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit child that tenant mistake farm recipe prosper toe vehicle final glimpse";
+var mnemonic = "leisure invite curtain chaos join cage wise rival seed horse fantasy rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "frost foster census oval short income trust pipe because install muffin person";
+var mnemonic = "body shadow supply olive change thought vivid various multiply later suggest evil";

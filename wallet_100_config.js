@@ -1,1 +1,1 @@
-var mnemonic = "frost water web account cotton crisp vessel myself island exotic copper once";
+var mnemonic = "fire all reunion breeze rally jump sure wall federal boring text link";

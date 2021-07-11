@@ -1,1 +1,1 @@
-var mnemonic = "faith news lobster guess sample general maximum matrix swim camp forest page";
+var mnemonic = "fancy exercise call before phone fire keep lava physical uniform meat social";

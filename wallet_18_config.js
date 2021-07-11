@@ -1,1 +1,1 @@
-var mnemonic = "pole rapid dance say various mammal addict hello admit pull final draw";
+var mnemonic = "main fish citizen budget shield page easily radar replace today run social";

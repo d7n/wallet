@@ -1,1 +1,1 @@
-var mnemonic = "wide move interest rough enroll original entire duty heart minute wool antique";
+var mnemonic = "capital legend desk tower valid illness gadget present sand office shock then";

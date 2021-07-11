@@ -1,1 +1,1 @@
-var mnemonic = "trial hundred hollow common flag argue pond limb quarter feed fiber acoustic";
+var mnemonic = "giggle problem junk sock tortoise icon enjoy crop crane rain reason ball";

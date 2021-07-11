@@ -1,1 +1,1 @@
-var mnemonic = "empty lemon text era end sibling song slush defense join always sight";
+var mnemonic = "behind much various can guess bag crisp thing punch teach smoke dice";

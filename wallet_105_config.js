@@ -1,1 +1,1 @@
-var mnemonic = "flock describe soon twice choice size master spin absorb illegal rude crumble";
+var mnemonic = "country burger smart dwarf scene labor grant mimic donate scene north involve";

@@ -1,1 +1,1 @@
-var mnemonic = "praise remain shallow dismiss bag dismiss strong ahead nurse portion heavy goddess";
+var mnemonic = "hunt empower charge dragon friend poem electric noise life pause meat domain";

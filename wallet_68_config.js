@@ -1,1 +1,1 @@
-var mnemonic = "catch rough february margin coffee damage subject poverty steel oblige market fog";
+var mnemonic = "suit subject case bar agree tennis gesture honey concert document perfect chuckle";

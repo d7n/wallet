@@ -1,1 +1,1 @@
-var mnemonic = "foil author gym pause affair net lyrics legend scan silent edit inject";
+var mnemonic = "neck walnut dad helmet round desert collect hour stuff fish very dad";

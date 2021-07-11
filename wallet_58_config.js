@@ -1,1 +1,1 @@
-var mnemonic = "decorate asset damage blossom input help define bleak loyal hen three weapon";
+var mnemonic = "order absorb jazz hat forum income use cube round dolphin animal oyster";

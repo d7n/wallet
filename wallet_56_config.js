@@ -1,1 +1,1 @@
-var mnemonic = "option legal slow swing organ door dwarf off fury like rather ginger";
+var mnemonic = "evil tilt apple decide vicious extra usual cry squirrel catch flag tooth";

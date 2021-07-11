@@ -1,1 +1,1 @@
-var mnemonic = "town illegal wise broom hover farm wire grass omit candy eternal female";
+var mnemonic = "border depth slim predict angry climb audit one ceiling ticket dismiss unit";

@@ -1,1 +1,1 @@
-var mnemonic = "man lesson train matter wash holiday stumble artefact tobacco action sort clog";
+var mnemonic = "bus junior juice oyster rebel where mystery ignore local method noise above";

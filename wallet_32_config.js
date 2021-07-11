@@ -1,1 +1,1 @@
-var mnemonic = "climb apology flip pitch small bomb nephew history bracket bacon spoil bunker";
+var mnemonic = "erosion enough antique choice reform notice spread various journey original picnic poem";

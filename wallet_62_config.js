@@ -1,1 +1,1 @@
-var mnemonic = "alien mother ugly copper nasty edit genuine document liquid lounge boost ride";
+var mnemonic = "around rib rotate manual month claw half artefact noble bitter social goose";

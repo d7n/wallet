@@ -1,1 +1,1 @@
-var mnemonic = "list waste vendor gauge narrow pilot inherit shoulder office license limb autumn";
+var mnemonic = "cotton wrong adjust depart solution two into office helmet wheat impulse check";

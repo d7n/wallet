@@ -1,1 +1,1 @@
-var mnemonic = "sock sausage smoke boat wise air truck horn stock olive pitch slice";
+var mnemonic = "safe asthma what render bacon issue surface detect ridge tunnel isolate illness";

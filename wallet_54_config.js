@@ -1,1 +1,1 @@
-var mnemonic = "lab person daughter endless supply tide cricket robot grocery banana mother into";
+var mnemonic = "strategy squirrel bring assist captain rocket subject oval else relax scissors panel";

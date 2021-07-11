@@ -1,1 +1,1 @@
-var mnemonic = "degree old buyer achieve blast lyrics major twin discover remind couple vacuum";
+var mnemonic = "split critic bunker bicycle pair voice draft kind guilt super cave stone";

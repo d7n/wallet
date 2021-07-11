@@ -1,1 +1,1 @@
-var mnemonic = "hybrid weird soccer someone divorce ride culture goat horror trim seat talent";
+var mnemonic = "stool shed stone fine pen trial hero agent critic erase infant pass";

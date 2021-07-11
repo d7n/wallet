@@ -1,1 +1,1 @@
-var mnemonic = "behave immense then core foster naive consider staff opera electric hand device";
+var mnemonic = "swing zoo auction canal drastic upset blush spin vivid pink memory lens";

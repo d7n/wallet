@@ -1,1 +1,1 @@
-var mnemonic = "know shaft pride inch glance celery invite slot youth idea dinner vague";
+var mnemonic = "scheme project ripple sauce volume common shoulder want people fat steak pattern";

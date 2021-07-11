@@ -1,1 +1,1 @@
-var mnemonic = "trash hen spread dynamic marble mammal fabric face assault exercise huge nephew";
+var mnemonic = "banner comfort fun quantum skirt glory metal settle sign steel cushion squirrel";

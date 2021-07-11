@@ -1,1 +1,1 @@
-var mnemonic = "chair glimpse truly equip cloud thank method anchor myself solve risk machine";
+var mnemonic = "mule awkward train vacuum rug snake early melt again garbage chat hybrid";

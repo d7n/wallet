@@ -1,1 +1,1 @@
-var mnemonic = "curtain inspire clean stove save fold coach wide trash genre destroy curtain";
+var mnemonic = "capable insect violin fitness palace empower vintage exile glue rent material adjust";

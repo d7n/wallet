@@ -1,1 +1,1 @@
-var mnemonic = "lemon peanut enough wing between task frown great net evolve school bachelor";
+var mnemonic = "traffic chuckle close crazy front submit slow awful assist walk gauge fine";

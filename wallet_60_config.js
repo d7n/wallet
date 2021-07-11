@@ -1,1 +1,1 @@
-var mnemonic = "foil dentist announce trap hand danger squirrel doctor knife badge bind escape";
+var mnemonic = "tree device fit stable pulp sure great gain paper visual circle empower";

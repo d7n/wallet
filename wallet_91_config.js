@@ -1,1 +1,1 @@
-var mnemonic = "right wife taste because say pizza rescue conduct tip ceiling twenty code";
+var mnemonic = "pluck lock violin certain ribbon adult record champion steel test when glory";

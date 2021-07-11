@@ -1,1 +1,1 @@
-var mnemonic = "blade club fee equip census since vendor fit drum talk broom sunset";
+var mnemonic = "vapor apart rebuild tenant vocal charge era drip fine wool hedgehog pioneer";

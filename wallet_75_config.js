@@ -1,1 +1,1 @@
-var mnemonic = "host error grit attract travel become peace panther rapid famous little disorder";
+var mnemonic = "anchor faint tornado wheel little earth citizen ring artist tenant filter hamster";

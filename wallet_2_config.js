@@ -1,1 +1,1 @@
-var mnemonic = "actress donor hamster author medal sustain lawn hard update rice myself spawn";
+var mnemonic = "pilot furnace cycle noise glare glad force seek naive impulse deer west";

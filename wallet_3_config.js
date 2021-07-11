@@ -1,1 +1,1 @@
-var mnemonic = "east drive topple proud honey gorilla flight wide space ball clean peanut";
+var mnemonic = "setup rebuild artwork chronic fee fetch vintage access vital fold calm coyote";

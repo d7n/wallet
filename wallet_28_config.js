@@ -1,1 +1,1 @@
-var mnemonic = "join elegant citizen wage produce rose silver symbol frown glad deal mistake";
+var mnemonic = "patrol clap quick obtain strategy maid knock state sister assume nuclear artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper inspire twice echo story cousin dream menu salad clean fit estate";
+var mnemonic = "black salute wolf sauce quote uniform horn panther unveil offer bargain save";

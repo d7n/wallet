@@ -1,1 +1,1 @@
-var mnemonic = "mystery cake like midnight hybrid midnight genius purpose glory valley health apple";
+var mnemonic = "pitch junior idea craft utility light first write square resource maple kitten";

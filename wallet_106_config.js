@@ -1,1 +1,1 @@
-var mnemonic = "coffee quit urban emerge spike field december advice expect access trial modify";
+var mnemonic = "van walnut gain sunny world board burden exact shine collect orange october";

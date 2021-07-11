@@ -1,1 +1,1 @@
-var mnemonic = "blanket stay open alcohol guess burger edge rebel huge major echo remember";
+var mnemonic = "gym wrestle airport copper consider tenant asset pull oil find mass method";

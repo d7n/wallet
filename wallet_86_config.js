@@ -1,1 +1,1 @@
-var mnemonic = "fluid property eagle person nut spatial reform mesh trick journey orchard verify";
+var mnemonic = "drip warfare still uphold fire border symbol toddler alpha love motion balcony";

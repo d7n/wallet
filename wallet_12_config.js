@@ -1,1 +1,1 @@
-var mnemonic = "young negative cruel riot corn rate salmon satisfy polar crucial tribe beyond";
+var mnemonic = "enhance rain position market digital steel swarm park dentist afraid surge state";

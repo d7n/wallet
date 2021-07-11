@@ -1,1 +1,1 @@
-var mnemonic = "measure shaft hollow animal stool connect solar pencil cook owner theme icon";
+var mnemonic = "clog flee gadget random vintage similar ill swap dish case metal night";

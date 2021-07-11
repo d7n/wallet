@@ -1,1 +1,1 @@
-var mnemonic = "romance acquire impact enlist actor junk purchase sausage flavor expose laundry tent";
+var mnemonic = "chief rival shadow position measure valley sunset sniff mystery effort erode side";

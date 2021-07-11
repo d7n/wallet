@@ -1,1 +1,1 @@
-var mnemonic = "damage giraffe music dash together scene box swap guard decrease pitch few";
+var mnemonic = "village talent gadget before invite ship sure dust attend first immense comic";

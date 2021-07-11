@@ -1,1 +1,1 @@
-var mnemonic = "arm rude pumpkin subject fantasy again shock fault dutch gloom buyer butter";
+var mnemonic = "verb glass forget size either pencil wonder debate until model roof table";
