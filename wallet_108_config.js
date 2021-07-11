@@ -1,1 +1,1 @@
-var mnemonic = "path bag time orphan know remember pact swap frown property deputy later";
+var mnemonic = "decorate similar wheat cave harvest spoil dune menu bubble amateur injury wasp";

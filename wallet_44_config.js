@@ -1,1 +1,1 @@
-var mnemonic = "draft erupt welcome judge next material else seed cannon dignity wing century";
+var mnemonic = "insect exact depth stereo remind final open romance heart lady lunch lunch";

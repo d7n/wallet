@@ -1,1 +1,1 @@
-var mnemonic = "scout call cruel purchase razor gym angle perfect dumb gospel learn gather";
+var mnemonic = "acoustic thought gift fox miss chronic prefer modify web taste icon edit";

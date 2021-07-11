@@ -1,1 +1,1 @@
-var mnemonic = "dumb dust lucky bunker reveal vapor leaf prefer siege agent artefact pact";
+var mnemonic = "bird rebel require liquid husband duty baby when visual mutual lucky car";

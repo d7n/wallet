@@ -1,1 +1,1 @@
-var mnemonic = "aunt assault south monster deputy rotate write rough verify kitchen clinic cage";
+var mnemonic = "thing suit eye casino rule hedgehog left either wash effort worth olive";

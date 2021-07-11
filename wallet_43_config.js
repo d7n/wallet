@@ -1,1 +1,1 @@
-var mnemonic = "throw oppose cube melody scheme sing swarm unable holiday grape elephant disease";
+var mnemonic = "note disagree decline trouble spy people ring wasp west north innocent place";

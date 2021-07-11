@@ -1,1 +1,1 @@
-var mnemonic = "oil sell garlic slight chair verify core remind element bracket gun health";
+var mnemonic = "medal zero vanish truck grant keep until green crew oval ugly guitar";

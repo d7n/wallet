@@ -1,1 +1,1 @@
-var mnemonic = "green address tide gas student entire worth behind cry cinnamon image million";
+var mnemonic = "bind domain cool chalk addict thank casual toy robust dish boost crazy";

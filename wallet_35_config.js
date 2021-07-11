@@ -1,1 +1,1 @@
-var mnemonic = "injury nominee engine scene cost develop either hobby dirt topic inch wire";
+var mnemonic = "oblige arena area crumble another cook exit enroll april safe truly start";

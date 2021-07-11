@@ -1,1 +1,1 @@
-var mnemonic = "depart credit before route fever survey produce cute march recycle airport song";
+var mnemonic = "faint bread survey matrix else voice drift stove client away custom story";

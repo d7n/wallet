@@ -1,1 +1,1 @@
-var mnemonic = "shy blind glass sorry certain pioneer cable mean room shoe inject middle";
+var mnemonic = "popular almost cushion airport drink panel error inquiry ten scare fury fruit";

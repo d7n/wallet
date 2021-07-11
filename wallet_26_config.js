@@ -1,1 +1,1 @@
-var mnemonic = "hello they proof sun sauce weasel slim capable ability inspire luggage drama";
+var mnemonic = "desert fold black equip clown track drink twist scheme fiber chaos two";

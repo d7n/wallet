@@ -1,1 +1,1 @@
-var mnemonic = "unfold three light entire wheel charge congress resource loan truck volume isolate";
+var mnemonic = "bleak recipe robust seminar reform mammal mule six pepper visual tape sauce";

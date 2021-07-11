@@ -1,1 +1,1 @@
-var mnemonic = "find brass surface opera celery fun page crime patch blame champion minor";
+var mnemonic = "flag type robust eye lady wet turkey illegal lesson stable scene have";

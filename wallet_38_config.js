@@ -1,1 +1,1 @@
-var mnemonic = "electric aisle heart mad knee reflect life opera reunion affair primary express";
+var mnemonic = "allow hollow wash fence food because van kit acid friend present alone";

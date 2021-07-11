@@ -1,1 +1,1 @@
-var mnemonic = "sustain start turkey glimpse auto valid this talk spring copper convince imitate";
+var mnemonic = "loyal remain brand mango cereal river exit call game stone letter emotion";

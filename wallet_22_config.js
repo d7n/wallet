@@ -1,1 +1,1 @@
-var mnemonic = "arrow offer onion local syrup grain good subject buyer garment guilt invite";
+var mnemonic = "focus grass film dress mind cancel blanket menu essence document alley ecology";

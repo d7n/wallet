@@ -1,1 +1,1 @@
-var mnemonic = "vehicle fluid view ivory odor skate sadness exile pretty suggest world broom";
+var mnemonic = "trend scene tool menu half act verb attend misery scan logic gorilla";

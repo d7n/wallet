@@ -1,1 +1,1 @@
-var mnemonic = "silver whale enjoy scissors future task small fat remind talent usual kid";
+var mnemonic = "height bubble boy fork ability wish enhance ring zone abandon coconut quote";

@@ -1,1 +1,1 @@
-var mnemonic = "secret broccoli rotate focus forget theory liberty option casual odor video tide";
+var mnemonic = "extend fitness wife acquire expose climb script arctic subway supply teach correct";

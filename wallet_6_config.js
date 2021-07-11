@@ -1,1 +1,1 @@
-var mnemonic = "surge evolve aerobic code inch clay empty letter color uncover swamp measure";
+var mnemonic = "number capital soldier anger metal young friend menu caught depend decide meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion swim express faith enter soul raise vague resource gorilla ticket brown";
+var mnemonic = "image flip zoo green control print govern issue multiply sad laundry doctor";

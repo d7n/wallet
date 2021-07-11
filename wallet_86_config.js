@@ -1,1 +1,1 @@
-var mnemonic = "satoshi exclude cherry reveal little choice aware sell much vibrant globe arch";
+var mnemonic = "comic inch disorder grit unknown patient pizza merit chaos tiger trick panda";

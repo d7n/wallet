@@ -1,1 +1,1 @@
-var mnemonic = "arena before major fabric gesture monitor rocket consider rookie fitness subject alpha";
+var mnemonic = "brick hat toward early sound round weather baby tomato fetch sniff sing";

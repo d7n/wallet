@@ -1,1 +1,1 @@
-var mnemonic = "man real torch cricket slice soldier upgrade march waste punch crash average";
+var mnemonic = "hidden token scale bubble lemon skill guide floor bachelor spray atom inject";

@@ -1,1 +1,1 @@
-var mnemonic = "certain egg tunnel police chaos drama sword once category jewel tower industry";
+var mnemonic = "kit hurry match onion word mask loan warm mammal always false increase";

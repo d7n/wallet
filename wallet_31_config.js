@@ -1,1 +1,1 @@
-var mnemonic = "maze rally observe oak essence oxygen corn average inflict fox never gauge";
+var mnemonic = "shield tail drum candy focus essay try pole chase camp fashion math";

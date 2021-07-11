@@ -1,1 +1,1 @@
-var mnemonic = "interest erupt violin club urge stomach success cactus hurdle copy work resemble";
+var mnemonic = "engine video exercise obey crystal sample expire ready unhappy lock labor collect";

@@ -1,1 +1,1 @@
-var mnemonic = "eight cup van apart lyrics client task this decrease garlic wet arm";
+var mnemonic = "laugh planet that defy citizen weekend put olive trick hope radar sight";

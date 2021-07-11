@@ -1,1 +1,1 @@
-var mnemonic = "horn nasty find candy season trade junk clinic fiction only situate spot";
+var mnemonic = "sight tube iron arrest forest there stomach ancient hen conduct pulp enemy";

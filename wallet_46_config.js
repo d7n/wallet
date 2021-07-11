@@ -1,1 +1,1 @@
-var mnemonic = "interest behave liquid matter eight visa possible leisure radio cousin tower giggle";
+var mnemonic = "gym thunder coconut coral eye unfair jump benefit ignore sure citizen swing";

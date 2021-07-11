@@ -1,1 +1,1 @@
-var mnemonic = "crisp adapt sponsor frog razor cupboard spider recipe dirt happy more social";
+var mnemonic = "banner expand virus velvet churn coconut thrive scan finish aware science midnight";

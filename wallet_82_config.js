@@ -1,1 +1,1 @@
-var mnemonic = "dune card olympic either boss record siege name short chronic feature ride";
+var mnemonic = "mistake dish tape guide plastic nurse rough first robust captain prison surround";

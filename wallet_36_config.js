@@ -1,1 +1,1 @@
-var mnemonic = "jeans erase luxury diary dawn pluck host say sun olympic cable floor";
+var mnemonic = "spatial gesture mention cook web only away enable shrimp boring omit gentle";

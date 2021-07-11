@@ -1,1 +1,1 @@
-var mnemonic = "believe nothing grunt grass sketch opinion pudding harvest horn sausage buzz visual";
+var mnemonic = "duty absorb state electric dizzy truth chase slush doctor dumb organ symptom";

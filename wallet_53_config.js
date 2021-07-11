@@ -1,1 +1,1 @@
-var mnemonic = "define armor route december custom network silent lady chase analyst pizza soccer";
+var mnemonic = "best scene quality swim harvest grief solid steak permit nice stove erupt";

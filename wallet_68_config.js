@@ -1,1 +1,1 @@
-var mnemonic = "valley wreck rebel absorb letter word world oppose chunk dutch life tiny";
+var mnemonic = "vanish kiwi height give mother coil provide draw click tired talk draw";

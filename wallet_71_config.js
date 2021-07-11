@@ -1,1 +1,1 @@
-var mnemonic = "monitor any cry innocent bullet clog demise kite village meat sign mosquito";
+var mnemonic = "wagon verify scout super tennis public ball festival large country valley sleep";

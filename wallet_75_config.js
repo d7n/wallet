@@ -1,1 +1,1 @@
-var mnemonic = "parade wire give tackle liberty tide decline orbit hard appear mistake excuse";
+var mnemonic = "gun answer okay safe tortoise neutral shift neck fancy amazing remain kit";

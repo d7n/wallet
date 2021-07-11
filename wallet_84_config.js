@@ -1,1 +1,1 @@
-var mnemonic = "icon boring kitchen pause harsh amused poet waste hawk below upgrade castle";
+var mnemonic = "girl certain orchard person dial party alpha lift resemble perfect festival enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy ordinary oil buffalo donor mansion tent genius off biology half crouch";
+var mnemonic = "discover lock picture crouch fee sister defense scheme lemon pepper able achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "mule weapon short else celery violin pill surge action save kid climb";
+var mnemonic = "oven soft garment walk planet fitness mix warrior chicken detail mind melody";

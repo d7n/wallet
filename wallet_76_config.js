@@ -1,1 +1,1 @@
-var mnemonic = "scorpion soft force place dawn stove unlock access maid fatal lottery stereo";
+var mnemonic = "soda cash affair approve rookie spatial want cattle nose ethics gloom industry";

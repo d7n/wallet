@@ -1,1 +1,1 @@
-var mnemonic = "jewel horror license property purse margin provide gauge tuna coffee try flash";
+var mnemonic = "mammal rural teach follow village adjust law gas frame laundry rack quit";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal select define gauge this soap charge drive couch empower luxury old";
+var mnemonic = "subject cash survey jazz toast journey combine layer during mimic fresh hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "replace liquid exotic robot flag family panda gym erase reveal pull shuffle";
+var mnemonic = "fashion travel early barrel drift grant junior toe burger erode heavy hybrid";

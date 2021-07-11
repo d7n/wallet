@@ -1,1 +1,1 @@
-var mnemonic = "museum portion noodle spray wash color pioneer eye source slam dumb expose";
+var mnemonic = "salon alien alley entry express wise smile fresh sand hub fatigue hard";

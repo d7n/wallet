@@ -1,1 +1,1 @@
-var mnemonic = "wool awake surface nasty source response metal double gallery strategy garlic wish";
+var mnemonic = "leopard issue fine sword agree arena shiver execute crisp struggle surface start";

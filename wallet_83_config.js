@@ -1,1 +1,1 @@
-var mnemonic = "coral walk draw apology problem moon supreme letter blur stairs once sadness";
+var mnemonic = "diagram thunder panel symptom riot verify enrich math parent cigar filter poverty";

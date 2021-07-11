@@ -1,1 +1,1 @@
-var mnemonic = "moment hole tourist blush project army shallow prepare possible wrestle gown river";
+var mnemonic = "battle swift amazing jealous glow palm ball blade silly craft thing viable";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence version ship never gift yellow kitchen dawn legal cloth milk fetch";
+var mnemonic = "very soon fever way drum high jeans kitchen token warfare stomach thank";

@@ -1,1 +1,1 @@
-var mnemonic = "match sauce toddler aware ivory put acoustic shift suggest enough arrest promote";
+var mnemonic = "supreme bean museum olive escape muscle split gas spawn cram normal bachelor";

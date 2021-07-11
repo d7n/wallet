@@ -1,1 +1,1 @@
-var mnemonic = "camera gown there same seed ecology run rate easily obvious harsh under";
+var mnemonic = "reject vicious outdoor lion adapt bid stuff matter october tip legal federal";

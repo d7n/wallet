@@ -1,1 +1,1 @@
-var mnemonic = "curious repair carpet cry symbol tomorrow holiday enjoy flame execute mouse inmate";
+var mnemonic = "pilot feel ceiling diesel vanish fruit between dumb robot ring float extend";

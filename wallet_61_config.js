@@ -1,1 +1,1 @@
-var mnemonic = "depend candy forum text blossom wonder strike grace someone lunar ring uncle";
+var mnemonic = "orchard theory believe cheap shoot comfort salon face bring seminar quote goose";

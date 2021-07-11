@@ -1,1 +1,1 @@
-var mnemonic = "ecology veteran layer vote exit wise run tree admit fish forum expand";
+var mnemonic = "share butter treat produce wheel wide banner grab outside express monitor burst";

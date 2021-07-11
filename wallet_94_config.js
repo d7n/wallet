@@ -1,1 +1,1 @@
-var mnemonic = "wage ginger receive favorite atom sad museum salad double caution say harsh";
+var mnemonic = "gown veteran nation enlist snake faith rubber rubber jazz must tobacco intact";

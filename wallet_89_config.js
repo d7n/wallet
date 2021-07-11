@@ -1,1 +1,1 @@
-var mnemonic = "faculty method gauge balcony celery album castle object blood list hair pass";
+var mnemonic = "comic output leader present aunt snow cage nuclear humor mystery consider grunt";

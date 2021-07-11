@@ -1,1 +1,1 @@
-var mnemonic = "gentle penalty debate portion maximum anger crunch lyrics crumble kid job rabbit";
+var mnemonic = "glow uphold depth announce strong news menu slam chicken filter salmon rigid";

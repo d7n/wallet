@@ -1,1 +1,1 @@
-var mnemonic = "fruit solid front false chicken shift firm taste moral aisle thumb about";
+var mnemonic = "senior song palace mushroom surge sell ritual shield under sea cattle butter";

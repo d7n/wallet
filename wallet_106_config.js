@@ -1,1 +1,1 @@
-var mnemonic = "rely leader duck slot dance warfare skull happy tackle focus police pipe";
+var mnemonic = "practice finish spike fish point cigar impact attack crazy ready capital purchase";

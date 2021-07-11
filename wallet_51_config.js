@@ -1,1 +1,1 @@
-var mnemonic = "scheme armor report slice daring cable update banana tag body pony output";
+var mnemonic = "flower sustain sweet because dinosaur jacket kitten spare paper update peace you";

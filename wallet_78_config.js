@@ -1,1 +1,1 @@
-var mnemonic = "pigeon scrub neck inspire play elegant ketchup phone sick quote shop learn";
+var mnemonic = "gain item cat ostrich tackle either weather swear rhythm nuclear six admit";

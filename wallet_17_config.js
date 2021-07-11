@@ -1,1 +1,1 @@
-var mnemonic = "stand fruit panda because aim hello shallow charge cancel rifle border bone";
+var mnemonic = "mention sail rather milk gift party leisure shove enter vendor robust fox";

@@ -1,1 +1,1 @@
-var mnemonic = "bid monkey absorb nose dress present razor today early knife magnet nurse";
+var mnemonic = "prefer divorce thumb just word general soap tuna fuel illegal month brown";

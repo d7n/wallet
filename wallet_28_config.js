@@ -1,1 +1,1 @@
-var mnemonic = "job video sibling short tower true anger yard abandon insect magic gap";
+var mnemonic = "roof random inside panic tired skate among album potato deal move measure";

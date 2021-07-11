@@ -1,1 +1,1 @@
-var mnemonic = "smart dilemma tuition check yellow imitate reopen tourist cricket crowd february lonely";
+var mnemonic = "phrase actual talent total arrive pony bird term stove tired phrase coconut";

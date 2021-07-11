@@ -1,1 +1,1 @@
-var mnemonic = "lamp scorpion flavor bean spatial across evoke smooth air grass false fever";
+var mnemonic = "thunder satoshi valid corn mistake similar sure slam margin stereo soldier pipe";

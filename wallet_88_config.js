@@ -1,1 +1,1 @@
-var mnemonic = "pride alarm excuse submit riot quality unable story depend frozen robust jewel";
+var mnemonic = "spare popular rug sibling airport pizza crazy bring price romance morning planet";

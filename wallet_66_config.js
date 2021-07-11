@@ -1,1 +1,1 @@
-var mnemonic = "ship slide verify sadness opinion crash oppose isolate season tuna program cotton";
+var mnemonic = "humor van easily link notable drill grab critic rescue reform radio dynamic";

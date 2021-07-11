@@ -1,1 +1,1 @@
-var mnemonic = "tube bounce tumble illness rule harvest holiday divert green lizard rude during";
+var mnemonic = "cement smooth flash verb tone short level inquiry tree grace cloth cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "foot stuff maximum combine earn icon sell math leopard valley talk print";
+var mnemonic = "ring famous isolate sort panic canal hybrid pottery fashion hotel alpha matter";

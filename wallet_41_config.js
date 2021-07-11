@@ -1,1 +1,1 @@
-var mnemonic = "sail mesh dove inflict festival arrange someone social hockey mystery enough you";
+var mnemonic = "slim marble zoo kiss faculty dose truth room pause turkey timber okay";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch thank exhibit cheese aware quote debris clap solid holiday brief love";
+var mnemonic = "hill treat neglect owner year garment either ill tooth nuclear engine cage";

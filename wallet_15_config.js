@@ -1,1 +1,1 @@
-var mnemonic = "coin canyon carry best vapor measure juice panther fresh sea leopard vocal";
+var mnemonic = "fox tube canal candy retreat base warm sponsor actor ready strong cover";

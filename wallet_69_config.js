@@ -1,1 +1,1 @@
-var mnemonic = "junk example payment portion focus sell ecology steel anchor fashion green tonight";
+var mnemonic = "shift polar myself jungle east vote job obtain ensure soldier height width";

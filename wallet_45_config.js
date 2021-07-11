@@ -1,1 +1,1 @@
-var mnemonic = "such concert away initial nut wing visual boat panther tiny excite shallow";
+var mnemonic = "pony vibrant lizard brave alley upgrade love real sweet save live situate";

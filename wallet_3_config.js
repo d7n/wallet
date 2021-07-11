@@ -1,1 +1,1 @@
-var mnemonic = "truly fat assume sorry cross sure choice swim source know tortoise slight";
+var mnemonic = "guess either also recipe bachelor inspire dirt audit merry roof rebel wagon";

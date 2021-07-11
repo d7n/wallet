@@ -1,1 +1,1 @@
-var mnemonic = "ready reward device choose artwork jeans lottery bundle absurd fame lawsuit child";
+var mnemonic = "clap flavor smoke image again order eye reunion better shoulder task orbit";

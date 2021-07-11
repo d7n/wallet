@@ -1,1 +1,1 @@
-var mnemonic = "cricket alcohol please bomb prefer able zebra member sell decline input stock";
+var mnemonic = "seed bike coil quarter issue busy pattern priority body faith state congress";

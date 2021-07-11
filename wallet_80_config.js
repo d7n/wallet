@@ -1,1 +1,1 @@
-var mnemonic = "random universe profit sample fatal cushion style toward this client civil steel";
+var mnemonic = "hover orphan decrease surprise undo school when appear decade gauge glory execute";

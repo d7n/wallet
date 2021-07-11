@@ -1,1 +1,1 @@
-var mnemonic = "much tomorrow buyer finger common cool bid paper usage spare short hundred";
+var mnemonic = "perfect attend mesh account tape scale ramp betray child occur bronze supply";

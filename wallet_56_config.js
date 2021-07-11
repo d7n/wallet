@@ -1,1 +1,1 @@
-var mnemonic = "soccer humor gauge minimum six praise cushion exchange expand pledge hunt base";
+var mnemonic = "token mad work yard ocean category elegant shop guitar always sunset lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "toe start fiber clinic pitch oven club hill lawsuit someone rigid engine";
+var mnemonic = "share slush puzzle peasant camp inside kind doctor library genuine switch bitter";

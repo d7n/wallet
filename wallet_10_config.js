@@ -1,1 +1,1 @@
-var mnemonic = "luggage about goose enemy fee infant usage picture erupt repair average diamond";
+var mnemonic = "toy pretty floor sand demise object belt rotate curtain wing will cliff";
