@@ -1,1 +1,1 @@
-var mnemonic = "alpha custom always source total spoon ketchup produce diet obvious patch peasant";
+var mnemonic = "funny submit beauty stove worth sweet initial zebra round conduct matrix alone";

@@ -1,1 +1,1 @@
-var mnemonic = "time wife guide slam shop hospital fence grow eager outer puzzle august";
+var mnemonic = "hero true asthma play price invite wrap sock melody sphere defy human";

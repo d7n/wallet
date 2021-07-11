@@ -1,1 +1,1 @@
-var mnemonic = "hand uncle mule pig lava order analyst help copy salt apology echo";
+var mnemonic = "that parent list govern spawn lottery pair start thought unaware age ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent wrong train nephew rare suit film foster betray square laugh buddy";
+var mnemonic = "jewel scatter unaware unusual glare tube tooth cruise milk ring lion ordinary";

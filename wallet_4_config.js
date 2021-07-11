@@ -1,1 +1,1 @@
-var mnemonic = "sense multiply motion uncover slender finger melt alpha route merit stone apology";
+var mnemonic = "source bracket bright ugly perfect vocal axis nephew episode fruit have mention";

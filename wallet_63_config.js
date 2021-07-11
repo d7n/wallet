@@ -1,1 +1,1 @@
-var mnemonic = "gold butter lounge assume conduct anchor sick ugly private rigid sell possible";
+var mnemonic = "deposit wet pass inmate ahead runway pair clown blue wink strike umbrella";

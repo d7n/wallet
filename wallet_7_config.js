@@ -1,1 +1,1 @@
-var mnemonic = "physical cost giraffe pet cart endorse neutral wage nominee taxi smile repair";
+var mnemonic = "pull flower crazy large large update kitchen unaware disorder warfare chuckle glad";

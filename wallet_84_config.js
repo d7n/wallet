@@ -1,1 +1,1 @@
-var mnemonic = "property flavor bubble shadow legend more surface glimpse maze fabric skull original";
+var mnemonic = "lens cabin negative bring short reopen recycle pause buffalo such axis eye";

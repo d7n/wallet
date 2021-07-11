@@ -1,1 +1,1 @@
-var mnemonic = "license wave dry practice scan double demand cushion oven tobacco plate reveal";
+var mnemonic = "silk soccer vibrant cat clerk legal initial expand oak crush relax flight";

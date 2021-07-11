@@ -1,1 +1,1 @@
-var mnemonic = "noble region outdoor exercise record sadness wisdom cheap column blast inflict harvest";
+var mnemonic = "banana tunnel mask meat love guide snap fog mule grant employ solve";

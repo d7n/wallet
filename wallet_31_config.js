@@ -1,1 +1,1 @@
-var mnemonic = "vintage guide squeeze romance news embark range fragile shuffle furnace tribe write";
+var mnemonic = "antenna smooth outside combine proof fame anger answer swarm prefer rack orbit";

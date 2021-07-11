@@ -1,1 +1,1 @@
-var mnemonic = "edge cinnamon swim veteran banner glare occur later crush evoke roast cherry";
+var mnemonic = "rabbit curious speed ahead ready animal friend kitten broken market enlist journey";

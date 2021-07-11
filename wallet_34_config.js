@@ -1,1 +1,1 @@
-var mnemonic = "police tenant drip husband hen deposit move diagram aunt siren cruel foster";
+var mnemonic = "eagle juice put clip silk critic sport parade desk lift lawn nice";

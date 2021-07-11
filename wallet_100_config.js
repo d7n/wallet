@@ -1,1 +1,1 @@
-var mnemonic = "lend bomb word actress act fine tool random nasty shaft black winter";
+var mnemonic = "galaxy profit glimpse region autumn praise tank rigid wreck exclude unknown bounce";

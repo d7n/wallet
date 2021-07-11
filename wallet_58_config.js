@@ -1,1 +1,1 @@
-var mnemonic = "proof street cancel wrong cloth deer unlock tonight jacket glue bind enter";
+var mnemonic = "produce pupil rhythm demise dog behind describe plunge task cool regret equip";

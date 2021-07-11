@@ -1,1 +1,1 @@
-var mnemonic = "very bus recall tent exercise omit repeat tunnel nature high aspect mystery";
+var mnemonic = "tower raccoon slide foam spoil grace sugar denial rapid slam vague core";

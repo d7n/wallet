@@ -1,1 +1,1 @@
-var mnemonic = "submit panda start expose hamster purse digital physical lunar carry cake hollow";
+var mnemonic = "knee total entire soap truth trigger oxygen culture return outer blame simple";

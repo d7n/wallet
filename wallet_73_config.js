@@ -1,1 +1,1 @@
-var mnemonic = "tobacco disease dash doctor review question cruel bachelor solution puzzle blind ecology";
+var mnemonic = "such lab deposit north saddle rack original inflict capable spare barrel assist";

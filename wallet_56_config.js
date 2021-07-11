@@ -1,1 +1,1 @@
-var mnemonic = "faculty measure clerk grunt upset boat wish enforce trim layer truth drama";
+var mnemonic = "taxi retreat marriage feel forget belt pave hill boring fluid exotic panic";

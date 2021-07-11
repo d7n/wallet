@@ -1,1 +1,1 @@
-var mnemonic = "fog alone unfold must soccer trade thing problem bulk confirm injury addict";
+var mnemonic = "unaware prosper beach zero matrix undo journey cover nerve drum total path";

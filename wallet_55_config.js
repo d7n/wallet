@@ -1,1 +1,1 @@
-var mnemonic = "sock trend dune hamster target exit solution stool planet trash judge family";
+var mnemonic = "capable situate machine bench want visa wait swallow giant fetch update produce";

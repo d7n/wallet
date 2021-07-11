@@ -1,1 +1,1 @@
-var mnemonic = "injury unit century bag ocean jelly frozen metal giant strong black belt";
+var mnemonic = "quality surprise chapter attack lunar hotel enforce snow select junk mango february";

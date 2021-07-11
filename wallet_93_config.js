@@ -1,1 +1,1 @@
-var mnemonic = "gadget verb scan grab brand wait height obtain between crunch protect monitor";
+var mnemonic = "coil spirit aunt venture sail gather baby virtual pride screen stadium poet";

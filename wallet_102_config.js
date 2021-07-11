@@ -1,1 +1,1 @@
-var mnemonic = "come plate wreck tag fit list coconut vehicle song hobby bring wood";
+var mnemonic = "under confirm phone title maze hole type patrol slender magic frog staff";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp sing seek document grid above bitter debate random razor apple edit";
+var mnemonic = "pact honey fan say car welcome again merit turtle sad vacant razor";

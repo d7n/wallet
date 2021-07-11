@@ -1,1 +1,1 @@
-var mnemonic = "lock ladder know pelican gate exact vacuum lobster hen you chest filter";
+var mnemonic = "indoor author normal weather depart shock donate lecture valley cream advice glance";

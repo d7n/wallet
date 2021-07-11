@@ -1,1 +1,1 @@
-var mnemonic = "flower explain dream bleak minor sea play morning punch beyond moral enter";
+var mnemonic = "useful absent relief topple decrease quality seat tuition inflict mimic flash act";

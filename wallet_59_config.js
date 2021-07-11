@@ -1,1 +1,1 @@
-var mnemonic = "belt metal inherit wave road owner mandate drastic strategy affair guide limit";
+var mnemonic = "two liberty web jacket among private square oblige cloth bag mesh sheriff";

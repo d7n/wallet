@@ -1,1 +1,1 @@
-var mnemonic = "fashion angle crumble depth merry crawl park magnet crane crime hole legal";
+var mnemonic = "gorilla piece civil craft bulb thought tonight return target tube awesome pear";

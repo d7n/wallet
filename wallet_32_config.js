@@ -1,1 +1,1 @@
-var mnemonic = "cook deposit chunk lift fashion convince whip artefact cannon reward install pull";
+var mnemonic = "ethics cactus jazz error nice copy error audit bench hint finger repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire baby fox category half vapor session milk manual raven earth cook";
+var mnemonic = "spot travel cycle cup flat chapter rely sponsor lab loop music during";

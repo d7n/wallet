@@ -1,1 +1,1 @@
-var mnemonic = "invest gold forest piece such flip burger weapon regret edit congress faculty";
+var mnemonic = "rebel warm degree bamboo horn illegal grow pitch crater faith day exotic";

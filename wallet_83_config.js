@@ -1,1 +1,1 @@
-var mnemonic = "tissue hen matrix student imitate moment sand minor civil master solid mass";
+var mnemonic = "cousin churn hybrid hammer guard erupt fiber cigar daughter decline evoke black";

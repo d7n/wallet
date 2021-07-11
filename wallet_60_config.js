@@ -1,1 +1,1 @@
-var mnemonic = "almost pigeon brisk wire cart west ramp inherit high marriage breeze bleak";
+var mnemonic = "betray place panel purse ask shaft pave enlist item seek conduct cattle";

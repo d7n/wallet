@@ -1,1 +1,1 @@
-var mnemonic = "flower where able copper blur remain build major benefit foil differ frost";
+var mnemonic = "when device guard reunion win weather trip effort leaf dinner enable side";

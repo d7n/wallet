@@ -1,1 +1,1 @@
-var mnemonic = "snow stone neck traffic swim survey prize crowd oppose heavy sad index";
+var mnemonic = "remember thumb local gallery door oil loan upset answer glare hazard bomb";

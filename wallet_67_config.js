@@ -1,1 +1,1 @@
-var mnemonic = "season tent glue merge amazing shrug purpose jewel good capable tray void";
+var mnemonic = "nominee push pretty iron twice sibling unusual vehicle kite ill blind limit";

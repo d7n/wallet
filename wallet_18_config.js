@@ -1,1 +1,1 @@
-var mnemonic = "race anxiety innocent regret close chat dove solve hazard cinnamon rabbit truck";
+var mnemonic = "surge rose artwork gate bike abandon speed uniform silk bus length obtain";

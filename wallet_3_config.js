@@ -1,1 +1,1 @@
-var mnemonic = "nasty also quick wool inmate draw pumpkin despair crash siren relax unhappy";
+var mnemonic = "one certain pave word easy toilet square debris drive clap someone animal";

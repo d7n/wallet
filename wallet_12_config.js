@@ -1,1 +1,1 @@
-var mnemonic = "viable creek razor invite next confirm kangaroo photo faint concert develop kite";
+var mnemonic = "myself junk neither mosquito frame wear shock boy monster worth rich actual";

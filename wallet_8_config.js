@@ -1,1 +1,1 @@
-var mnemonic = "web relax miss affair potato control people say hand deposit swap exist";
+var mnemonic = "wrist rib fame glide fit outdoor stage north mobile battle future twin";

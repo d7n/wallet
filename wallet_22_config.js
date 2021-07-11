@@ -1,1 +1,1 @@
-var mnemonic = "police celery replace surprise primary cloth clip sword borrow pair mind veteran";
+var mnemonic = "wrestle awkward model valve body joy crumble save notable rural north erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "aware atom follow double globe position exact west farm opinion bitter beauty";
+var mnemonic = "tackle evolve build genius pill exact regular ancient grain spoil cup reopen";

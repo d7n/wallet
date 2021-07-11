@@ -1,1 +1,1 @@
-var mnemonic = "able world jeans notice stomach cash tortoise lemon hire road index forum";
+var mnemonic = "wise aware suspect design month home inflict shrug kitten off door chunk";

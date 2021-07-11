@@ -1,1 +1,1 @@
-var mnemonic = "until output sugar sock view swap face village object nut dizzy midnight";
+var mnemonic = "stool shove blame sail neglect door crush witness february leader club between";

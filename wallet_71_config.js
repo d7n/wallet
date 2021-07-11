@@ -1,1 +1,1 @@
-var mnemonic = "notice proof exist index option ecology cheese become cram share clay floor";
+var mnemonic = "expect east fly mutual pull worry accuse obscure subject turtle draft fame";

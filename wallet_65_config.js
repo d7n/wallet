@@ -1,1 +1,1 @@
-var mnemonic = "hire senior suggest phone parade throw dune amused knife grit glory april";
+var mnemonic = "avoid topic bachelor frog innocent control embark fiber heavy ask silent chair";

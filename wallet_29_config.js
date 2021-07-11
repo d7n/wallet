@@ -1,1 +1,1 @@
-var mnemonic = "action lens virus entry wish amateur civil inject grab endorse fit type";
+var mnemonic = "push model tenant reason screen auto accident put prefer believe charge supreme";

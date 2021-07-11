@@ -1,1 +1,1 @@
-var mnemonic = "shaft cup unusual enable tray cabin sense swing blood inch gadget level";
+var mnemonic = "jaguar crawl age suffer main sadness emotion left repeat visa photo step";

@@ -1,1 +1,1 @@
-var mnemonic = "forest wish ball then between allow truck depart ill help where there";
+var mnemonic = "tag car nuclear creek display film record deer lizard detail vast town";

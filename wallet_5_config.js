@@ -1,1 +1,1 @@
-var mnemonic = "embody student access cloud trick canal moon enhance obvious survey blur ostrich";
+var mnemonic = "coyote hill congress patient salon neutral hospital census bird kiss royal public";

@@ -1,1 +1,1 @@
-var mnemonic = "toss cousin canyon indoor dwarf jelly retire sketch chimney stove damp fury";
+var mnemonic = "scissors subway inquiry slot carpet zoo round negative engage fury title lyrics";

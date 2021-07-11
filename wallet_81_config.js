@@ -1,1 +1,1 @@
-var mnemonic = "next ethics boy travel first tired empower few obscure rug hedgehog absent";
+var mnemonic = "clinic decide organ gasp clay develop undo toss sadness vintage lunch alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "random reform club lyrics win mutual gather nerve bonus shed code position";
+var mnemonic = "govern tourist vicious quality slow human omit sugar embody hat reopen sphere";

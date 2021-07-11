@@ -1,1 +1,1 @@
-var mnemonic = "cabbage seven laundry false museum write combine duck treat february hawk table";
+var mnemonic = "eyebrow reduce issue sketch call trigger remove ritual seven bounce nation try";

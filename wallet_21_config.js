@@ -1,1 +1,1 @@
-var mnemonic = "ivory tool electric year mean expand luxury pottery jewel eagle often race";
+var mnemonic = "demand sing ice coconut host permit attract cherry sunny fault tuition addict";

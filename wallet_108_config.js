@@ -1,1 +1,1 @@
-var mnemonic = "head slight chimney mouse accuse toward decorate install sadness minor panther nut";
+var mnemonic = "sheriff find now quit add someone cereal page same drip fee minimum";

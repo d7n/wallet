@@ -1,1 +1,1 @@
-var mnemonic = "scan exist letter essay devote flag fiscal grow credit volume erosion fossil";
+var mnemonic = "annual west jazz beef sniff shaft pause never liberty half quit boat";

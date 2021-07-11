@@ -1,1 +1,1 @@
-var mnemonic = "way insane tilt invest barrel voice penalty kick burst team chicken siren";
+var mnemonic = "blue renew visual table sample mountain close peanut dinosaur steel inform issue";

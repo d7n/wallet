@@ -1,1 +1,1 @@
-var mnemonic = "debris eight twin year birth ribbon snap omit letter merry system artist";
+var mnemonic = "peasant noble ladder bean guitar toast galaxy scare possible allow current boss";

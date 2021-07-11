@@ -1,1 +1,1 @@
-var mnemonic = "father weapon bullet enjoy second improve pulse ability finger version gadget insane";
+var mnemonic = "now extra among question unveil sing lab manage rapid atom sentence advice";

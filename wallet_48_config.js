@@ -1,1 +1,1 @@
-var mnemonic = "behave between tenant bread ritual nut hover dry fiber delay quote across";
+var mnemonic = "chicken drum run gift burden inside move simple equal boil action flight";

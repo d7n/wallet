@@ -1,1 +1,1 @@
-var mnemonic = "submit today theme medal search rapid live cupboard vague snack obtain good";
+var mnemonic = "dismiss one drift dice goose cruel tornado dinner enable soldier cook sample";

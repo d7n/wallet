@@ -1,1 +1,1 @@
-var mnemonic = "nurse treat snake mercy submit girl scare town budget exclude method lion";
+var mnemonic = "solar success school poet receive brass dilemma kidney dream injury glimpse announce";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover off snake cry swift evidence brisk race amused release figure icon";
+var mnemonic = "finish lady earth dry success model include hobby move doctor year art";

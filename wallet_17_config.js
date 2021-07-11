@@ -1,1 +1,1 @@
-var mnemonic = "forest long depth entry sail vacuum disease cupboard speed magnet shine saddle";
+var mnemonic = "false high quality away despair elegant knife brave naive claim divorce key";

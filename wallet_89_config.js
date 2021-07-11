@@ -1,1 +1,1 @@
-var mnemonic = "pig abstract scan rigid loan ranch way lift cart type december sing";
+var mnemonic = "knife sick funny market divide acid own uncover donor price mercy live";

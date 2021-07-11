@@ -1,1 +1,1 @@
-var mnemonic = "actor squirrel tomorrow install index fence old deposit jewel base drive mass";
+var mnemonic = "battle hood horse vapor museum miracle air engine lyrics gun brick silly";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate arrest trigger february acquire inhale shift sleep alert tribe pledge bronze";
+var mnemonic = "raw label shell crystal sell gasp amused avoid sleep cook trash cost";

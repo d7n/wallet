@@ -1,1 +1,1 @@
-var mnemonic = "measure sudden valid green school husband connect orient fetch pull snow acquire";
+var mnemonic = "sea gain few roof unusual magnet bottom emotion cry kiss reform gallery";

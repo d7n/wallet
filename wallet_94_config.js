@@ -1,1 +1,1 @@
-var mnemonic = "public panther climb day border convince axis minimum future vanish diet soda";
+var mnemonic = "people march december wise gaze social baby ice crouch pattern recycle rail";

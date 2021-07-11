@@ -1,1 +1,1 @@
-var mnemonic = "sibling theme long cricket brave regret season clip have damage reject average";
+var mnemonic = "bleak trim month equip lonely quality shallow praise work alter siren decrease";

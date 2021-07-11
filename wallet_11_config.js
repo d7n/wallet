@@ -1,1 +1,1 @@
-var mnemonic = "chimney brass wave small also fall matrix grocery garlic jar vintage green";
+var mnemonic = "spell logic nominee current exhibit angle image between sausage fat forest struggle";

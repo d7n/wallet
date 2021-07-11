@@ -1,1 +1,1 @@
-var mnemonic = "sort minimum worry where life panel reopen amazing math item scorpion bitter";
+var mnemonic = "summer whale index talk mammal detect message work sword unhappy stuff pulse";

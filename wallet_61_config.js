@@ -1,1 +1,1 @@
-var mnemonic = "muffin toward lyrics ritual puzzle warm version ghost youth curve prefer cute";
+var mnemonic = "you table glance stairs digital world picnic bounce tilt chef surface slot";

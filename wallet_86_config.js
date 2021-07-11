@@ -1,1 +1,1 @@
-var mnemonic = "genre siege key awake oval oak logic mail inherit detect frame bid";
+var mnemonic = "infant step stay movie pair section consider pave much unfold judge hood";

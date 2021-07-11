@@ -1,1 +1,1 @@
-var mnemonic = "year soap kite pull antique border sunny priority laundry float butter curve";
+var mnemonic = "brave bird tribe teach belt remove link robust theme math model basket";

@@ -1,1 +1,1 @@
-var mnemonic = "finish alien concert legal east siren accuse maple wet easy year butter";
+var mnemonic = "vacuum zone room mention stick hover sound dentist olive arch process adjust";

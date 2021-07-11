@@ -1,1 +1,1 @@
-var mnemonic = "neither point trouble minimum canal ancient then hire round range envelope glue";
+var mnemonic = "bar dice lawn fancy increase salute hospital doctor cruel aware grit drink";

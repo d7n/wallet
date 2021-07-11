@@ -1,1 +1,1 @@
-var mnemonic = "skate ride setup follow then office clump knee repair comfort lend hockey";
+var mnemonic = "disagree brass joke pause sausage stomach salmon excess control wheat method alpha";

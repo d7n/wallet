@@ -1,1 +1,1 @@
-var mnemonic = "useful nice tide cake egg cherry when notable leave jewel nothing giant";
+var mnemonic = "jungle confirm gather setup crater blue define wrist enough wave toddler gauge";

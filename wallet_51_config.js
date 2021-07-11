@@ -1,1 +1,1 @@
-var mnemonic = "lyrics traffic across spirit announce kite cherry cool chest night orchard onion";
+var mnemonic = "again together evidence media push silent clutch sauce hen found humor simple";

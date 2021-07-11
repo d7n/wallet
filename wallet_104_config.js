@@ -1,1 +1,1 @@
-var mnemonic = "position visit narrow skill genius differ code frequent sample mimic usage panic";
+var mnemonic = "sting cool garden ecology jewel rail orient elder fine perfect almost reopen";

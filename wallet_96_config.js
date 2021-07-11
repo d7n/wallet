@@ -1,1 +1,1 @@
-var mnemonic = "suit invest road ship child dream enjoy total visit hill combine fine";
+var mnemonic = "pill treat lizard wagon napkin kick hollow dry wreck million umbrella useless";

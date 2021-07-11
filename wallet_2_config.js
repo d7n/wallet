@@ -1,1 +1,1 @@
-var mnemonic = "cloud language voyage shallow pluck tuition damage adjust bomb plate potato charge";
+var mnemonic = "verb tortoise tragic abstract play language path slot kind gas cattle worry";

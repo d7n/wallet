@@ -1,1 +1,1 @@
-var mnemonic = "clown grunt tank bone biology slice ask render right box dwarf afraid";
+var mnemonic = "bitter finger prefer raise snack brown pride use leisure cliff shuffle tissue";

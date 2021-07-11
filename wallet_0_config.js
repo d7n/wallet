@@ -1,1 +1,1 @@
-var mnemonic = "another photo floor impulse gauge mother peace cotton alley perfect obvious turtle";
+var mnemonic = "quality tent divide impose gossip marble attend rare repeat what unveil fuel";

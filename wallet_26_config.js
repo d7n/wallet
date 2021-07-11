@@ -1,1 +1,1 @@
-var mnemonic = "culture trap clock split tilt blush olympic elder float scene project page";
+var mnemonic = "dog knife radar resource point catalog cage legend quit forest future polar";

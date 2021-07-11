@@ -1,1 +1,1 @@
-var mnemonic = "run index coyote modify upon lounge tribe world crunch indicate jungle clap";
+var mnemonic = "ride tape combine noble found castle flee because emerge equal cute harvest";

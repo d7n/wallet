@@ -1,1 +1,1 @@
-var mnemonic = "buyer mosquito machine wife poverty smart cook pigeon warfare blame endorse defense";
+var mnemonic = "upon ritual ride drift cradle diesel write fish feed ivory almost nature";
