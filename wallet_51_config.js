@@ -1,1 +1,1 @@
-var mnemonic = "hand cloud person route shiver spider dance wrist label ignore lawn fetch";
+var mnemonic = "machine tomorrow cruise assault fringe fancy hidden woman tower journey run first";

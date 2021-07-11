@@ -1,1 +1,1 @@
-var mnemonic = "air cluster language across script puppy jump office verify shove maple axis";
+var mnemonic = "mammal capable disagree east judge cake topple pupil invest cherry draft loop";

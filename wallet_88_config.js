@@ -1,1 +1,1 @@
-var mnemonic = "myself gloom kid tortoise endorse upset fringe bread lava survey athlete rough";
+var mnemonic = "bleak element forward height soon mutual drive adult miracle behind crazy drum";

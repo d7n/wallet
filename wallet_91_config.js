@@ -1,1 +1,1 @@
-var mnemonic = "glove slab venue other pen vintage violin provide energy file inside youth";
+var mnemonic = "noble supply spell foster conduct sea soul year eye glimpse exhibit mix";

@@ -1,1 +1,1 @@
-var mnemonic = "physical toe horse squeeze illness library ramp that august ill sense decline";
+var mnemonic = "away fever gold veteran addict please fabric feed boring month pony joke";

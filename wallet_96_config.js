@@ -1,1 +1,1 @@
-var mnemonic = "mutual monster cream into bone disorder casual repeat lounge tourist range summer";
+var mnemonic = "praise talent orange relief glass demise iron pig draft flock river marine";

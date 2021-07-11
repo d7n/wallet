@@ -1,1 +1,1 @@
-var mnemonic = "witness edit blame dolphin flash cart diesel radar cable switch target vote";
+var mnemonic = "increase spin farm wine artwork inflict range brief indicate vapor belt stairs";

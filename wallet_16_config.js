@@ -1,1 +1,1 @@
-var mnemonic = "execute simple wedding such juice bronze doctor evolve mammal pistol hair plate";
+var mnemonic = "wagon exist private seat again able always shaft paddle cactus symptom story";

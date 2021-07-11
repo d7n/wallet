@@ -1,1 +1,1 @@
-var mnemonic = "profit more cargo club essay silver cake news panther thought saddle relax";
+var mnemonic = "zoo smart snake consider item board ketchup hawk roof armed dance nose";

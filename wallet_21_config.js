@@ -1,1 +1,1 @@
-var mnemonic = "fluid broom vague marriage spell avocado elegant wrist same festival shop control";
+var mnemonic = "high hurdle injury trap orient snap link inflict side peanut liquid chat";

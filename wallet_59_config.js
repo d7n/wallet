@@ -1,1 +1,1 @@
-var mnemonic = "short robust satisfy mango message range provide spider devote warfare music outdoor";
+var mnemonic = "rather sing day ship help music salt version antenna ethics beyond leader";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff silent ramp pact excuse celery human degree sudden quit attitude diet";
+var mnemonic = "admit sphere reunion cactus sauce pyramid grief quit same alter universe educate";

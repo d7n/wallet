@@ -1,1 +1,1 @@
-var mnemonic = "type radio interest matrix thumb dose season faculty clutch dose method hidden";
+var mnemonic = "antique hazard stone spot skate admit garden inflict upgrade flame educate outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital honey fine route tell furnace fragile discover timber easy bulk gadget";
+var mnemonic = "knock cross marine multiply horror into opera good soldier net judge echo";

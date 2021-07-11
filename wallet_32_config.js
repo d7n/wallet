@@ -1,1 +1,1 @@
-var mnemonic = "crouch lion divert surge occur gospel icon process start agent perfect amount";
+var mnemonic = "dignity usual wood volcano tube broccoli rebuild one other ahead course student";

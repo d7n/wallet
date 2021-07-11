@@ -1,1 +1,1 @@
-var mnemonic = "accuse alley predict champion mandate one journey toe planet true skirt harvest";
+var mnemonic = "slender bridge wreck sell mouse opinion rack hover utility dinner baby bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect else shuffle mask symbol wheel vibrant rather chalk hint club write";
+var mnemonic = "jealous polar square amused wedding final gorilla cheese lift give cash evoke";

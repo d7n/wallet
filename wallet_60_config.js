@@ -1,1 +1,1 @@
-var mnemonic = "panther infant black rabbit chef hope secret hollow obscure spot runway tortoise";
+var mnemonic = "impact humor cake enough defy inhale lift grow onion neglect hint habit";

@@ -1,1 +1,1 @@
-var mnemonic = "surround peace valid reduce dynamic castle baby short cousin ticket little grain";
+var mnemonic = "pioneer juice super spot fun castle squeeze minute curve wave focus early";

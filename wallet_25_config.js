@@ -1,1 +1,1 @@
-var mnemonic = "middle absurd voice indoor legend agent couch loyal category oil similar skin";
+var mnemonic = "quote vote frog pet grain weird before leopard faith double erase nose";

@@ -1,1 +1,1 @@
-var mnemonic = "effort frame soft rubber enjoy tragic high path story easily file bird";
+var mnemonic = "off finger more tired govern arm crush spray horse nice depth wide";

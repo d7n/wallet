@@ -1,1 +1,1 @@
-var mnemonic = "belt letter crop ridge chronic rate absurd matrix lion hello borrow hunt";
+var mnemonic = "apart innocent clown fine curious border absent shrug person minimum chief usage";

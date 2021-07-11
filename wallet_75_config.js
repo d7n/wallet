@@ -1,1 +1,1 @@
-var mnemonic = "faith wagon sketch injury apple urban legend inspire rough produce clap note";
+var mnemonic = "aim taxi mosquito album pear adult ketchup casino divide must theory river";

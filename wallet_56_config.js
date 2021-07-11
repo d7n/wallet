@@ -1,1 +1,1 @@
-var mnemonic = "adjust accident menu bar vapor shock phone casual monitor answer task picture";
+var mnemonic = "else rally empower almost now chronic rural tongue pattern equip wood expect";

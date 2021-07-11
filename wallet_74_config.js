@@ -1,1 +1,1 @@
-var mnemonic = "drip spike powder crush kiss split mirror asthma live swamp smart sausage";
+var mnemonic = "outer execute pottery slice must slab noble opera garden frown few trust";

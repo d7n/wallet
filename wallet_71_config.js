@@ -1,1 +1,1 @@
-var mnemonic = "adapt talk wreck lizard caught slab crush cool age reopen sick cluster";
+var mnemonic = "jump clump clog monkey february syrup autumn mail item deer blush flash";

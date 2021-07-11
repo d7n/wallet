@@ -1,1 +1,1 @@
-var mnemonic = "bring piano accident glow primary lava gaze domain chalk auto pull absurd";
+var mnemonic = "rocket panther kite rigid giggle planet again hawk photo victory blood legal";

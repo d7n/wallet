@@ -1,1 +1,1 @@
-var mnemonic = "acid test unveil maze layer anchor save angry obvious among glimpse logic";
+var mnemonic = "nerve rose lake first brown lens coil empty raw machine lemon hope";

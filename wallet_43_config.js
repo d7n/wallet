@@ -1,1 +1,1 @@
-var mnemonic = "basket tonight average dream sand ask wire office couch peasant dust dignity";
+var mnemonic = "tissue cigar same follow confirm mimic unlock ethics view aspect prevent crumble";

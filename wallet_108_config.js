@@ -1,1 +1,1 @@
-var mnemonic = "vacant humor review genuine reason donate best iron borrow very raccoon science";
+var mnemonic = "cave flip black guilt where voice pigeon person fluid harbor select bronze";

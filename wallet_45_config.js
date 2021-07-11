@@ -1,1 +1,1 @@
-var mnemonic = "typical devote town fantasy pledge crowd ready attract siege brief caught regret";
+var mnemonic = "retire ice retreat asthma ski brisk awkward begin message slab sample exchange";

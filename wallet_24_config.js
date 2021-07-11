@@ -1,1 +1,1 @@
-var mnemonic = "oxygen top busy educate option snap round magic slow crumble gate daring";
+var mnemonic = "favorite gesture club evoke put lawn edit merge hill profit erode trade";

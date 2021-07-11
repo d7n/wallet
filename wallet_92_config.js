@@ -1,1 +1,1 @@
-var mnemonic = "orange six effort topple vivid patrol frequent near old bottom pact teach";
+var mnemonic = "road seed matter virtual become slice rain resource essence rebel negative light";

@@ -1,1 +1,1 @@
-var mnemonic = "burden electric monster winter cycle intact coconut step minor art more strategy";
+var mnemonic = "pluck loyal famous panel axis stadium appear title mystery scale supreme gospel";

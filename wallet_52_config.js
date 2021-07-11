@@ -1,1 +1,1 @@
-var mnemonic = "fringe worry object dolphin early enroll filter scale input slot soda empower";
+var mnemonic = "use endorse whisper minor gospel dose gloom convince when advance prefer magic";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure layer will pause worry behave worry ramp spread derive focus follow";
+var mnemonic = "cruel main music language gallery mix face region crumble city argue museum";

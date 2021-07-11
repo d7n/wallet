@@ -1,1 +1,1 @@
-var mnemonic = "toast walnut raven shoe dismiss gasp minor kite maze sorry off increase";
+var mnemonic = "base urge scan uphold script thunder issue raise also excite casino leave";

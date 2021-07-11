@@ -1,1 +1,1 @@
-var mnemonic = "wink when cruise fortune regret copper knee equip vote toe provide orient";
+var mnemonic = "expect unable gown dose disease prosper witness toast popular come frame worth";

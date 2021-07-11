@@ -1,1 +1,1 @@
-var mnemonic = "lady mesh oil wire ecology transfer music nerve family novel dawn trumpet";
+var mnemonic = "double belt patrol right kit debris divert price dawn behind friend sphere";

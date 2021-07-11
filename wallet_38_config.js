@@ -1,1 +1,1 @@
-var mnemonic = "spot leopard damp actor replace timber bounce victory alcohol anxiety plug claim";
+var mnemonic = "sibling spell man crisp outdoor famous cinnamon minor jungle genre duty cactus";

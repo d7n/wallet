@@ -1,1 +1,1 @@
-var mnemonic = "again mother armor gather end judge mean promote dance jazz goddess scale";
+var mnemonic = "guilt diary glide birth foster winter pen cousin travel kitchen gauge arrive";

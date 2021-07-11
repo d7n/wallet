@@ -1,1 +1,1 @@
-var mnemonic = "kiss saddle win coyote steak cushion ripple mechanic patient donkey bounce price";
+var mnemonic = "mercy gorilla amazing trick lady sphere loud they seven unable chunk surround";

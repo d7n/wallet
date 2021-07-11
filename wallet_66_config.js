@@ -1,1 +1,1 @@
-var mnemonic = "ritual loan similar visa camp shed dry end first obtain diagram desk";
+var mnemonic = "differ remove skirt world lesson off donate exhibit stool travel belt truck";

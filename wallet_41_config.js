@@ -1,1 +1,1 @@
-var mnemonic = "like task ensure excuse metal canoe face song cupboard scheme public balance";
+var mnemonic = "siren ankle thumb patient park oppose anger great smoke primary original fee";

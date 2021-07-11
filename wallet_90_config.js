@@ -1,1 +1,1 @@
-var mnemonic = "rug rather trap ostrich fix track roof slush rent profit curve canvas";
+var mnemonic = "belt canyon spike crack approve uncle urban sort neck cigar box surround";

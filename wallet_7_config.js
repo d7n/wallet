@@ -1,1 +1,1 @@
-var mnemonic = "creek trophy right sorry mobile crowd upset ancient slice pony way unit";
+var mnemonic = "urban emerge normal elite cave flight company sing walnut silver replace south";

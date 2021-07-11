@@ -1,1 +1,1 @@
-var mnemonic = "gold expose chicken cart safe lemon ugly track toss play cattle jewel";
+var mnemonic = "maximum skull chimney finish aspect prevent method dutch prize system pottery own";

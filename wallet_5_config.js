@@ -1,1 +1,1 @@
-var mnemonic = "domain sell purse lyrics toe young reunion gym air toe negative credit";
+var mnemonic = "corn select ozone jacket bubble crater monitor wonder expose shrug glance thing";

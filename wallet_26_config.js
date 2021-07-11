@@ -1,1 +1,1 @@
-var mnemonic = "swap large address physical math claim radar fetch animal close renew survey";
+var mnemonic = "unfold step horror bicycle much alarm clap frog diagram path wife cute";

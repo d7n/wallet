@@ -1,1 +1,1 @@
-var mnemonic = "laptop good tattoo buffalo wait still cat strike protect cloud age gauge";
+var mnemonic = "famous sorry shoot orbit response birth cherry join divide bring detect draw";

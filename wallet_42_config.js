@@ -1,1 +1,1 @@
-var mnemonic = "order ignore frost stand affair gossip regret main brain scale soap accident";
+var mnemonic = "lizard blue stem install fringe confirm outer initial surround volume burger announce";

@@ -1,1 +1,1 @@
-var mnemonic = "noble adapt beach reflect sheriff race curious make yard mule blame gravity";
+var mnemonic = "again skin bid ship symptom average frog crane ancient science lava garden";

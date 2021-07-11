@@ -1,1 +1,1 @@
-var mnemonic = "brief brief client once develop broom motion family space pole term truly";
+var mnemonic = "anchor practice before slot rescue key unknown action bachelor mind train cart";

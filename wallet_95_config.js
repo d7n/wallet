@@ -1,1 +1,1 @@
-var mnemonic = "finger vivid toddler debris timber short mask learn frown mosquito dumb explain";
+var mnemonic = "cute tenant lonely neither initial remove direct alert dial prefer jealous envelope";

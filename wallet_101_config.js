@@ -1,1 +1,1 @@
-var mnemonic = "wool all truth need medal bless horn riot peace chaos alter know";
+var mnemonic = "thought economy glance embody solution fruit normal fall give negative census cool";

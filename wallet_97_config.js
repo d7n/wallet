@@ -1,1 +1,1 @@
-var mnemonic = "need salmon island tragic beach hamster mammal real woman borrow memory end";
+var mnemonic = "attract shine soul illness speed glimpse fish item fence style firm normal";

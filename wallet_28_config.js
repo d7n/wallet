@@ -1,1 +1,1 @@
-var mnemonic = "chair clown member famous love salad mom desert miss spot flight once";
+var mnemonic = "attract captain describe seek juice pond forum enrich edit combine minor hub";

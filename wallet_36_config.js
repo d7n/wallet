@@ -1,1 +1,1 @@
-var mnemonic = "casual shoulder tool identify magic brain scale sibling nice since lunch frozen";
+var mnemonic = "summer push design arrive all switch friend anger leisure what chronic morning";

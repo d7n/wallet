@@ -1,1 +1,1 @@
-var mnemonic = "double link marriage nation used bargain vague slow ladder what indoor stadium";
+var mnemonic = "flip husband wear excite april fish absent lonely laundry famous skirt exit";

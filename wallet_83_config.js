@@ -1,1 +1,1 @@
-var mnemonic = "artefact member cup ball north fancy tomato network ladder course transfer spin";
+var mnemonic = "indoor crop receive mixture beyond ecology material frost inflict keen walnut item";

@@ -1,1 +1,1 @@
-var mnemonic = "brain cool admit lake senior coast doll nurse concert sing awkward tell";
+var mnemonic = "rude start skate drip witness morning cliff image embrace hurdle shoulder cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "swim route man erosion anxiety thunder elite throw wasp method choose story";
+var mnemonic = "fury goose winter speak better museum trophy learn near attend forum twelve";

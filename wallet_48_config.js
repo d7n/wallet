@@ -1,1 +1,1 @@
-var mnemonic = "what diet will approve arch neglect giggle buffalo episode control mutual tuna";
+var mnemonic = "milk sea puzzle debate arctic visit struggle jelly original obtain link assault";

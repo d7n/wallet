@@ -1,1 +1,1 @@
-var mnemonic = "example oppose gas evoke adjust capital viable uncle dwarf churn spot pilot";
+var mnemonic = "napkin pen parent swift opinion carry brisk ride select cluster east course";

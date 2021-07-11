@@ -1,1 +1,1 @@
-var mnemonic = "maze transfer slam lonely fancy stove enforce this cupboard assist pink divert";
+var mnemonic = "sausage cheap whisper fault there chest bean surface seed fatal spring knee";

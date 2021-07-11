@@ -1,1 +1,1 @@
-var mnemonic = "alter sheriff loop bid enhance mansion brick pave bacon clay moral crisp";
+var mnemonic = "cluster caution code claw inject gorilla penalty merry evidence cable december leader";

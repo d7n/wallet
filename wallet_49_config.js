@@ -1,1 +1,1 @@
-var mnemonic = "circle cattle attitude liar hamster crop bean amateur rain output ready unusual";
+var mnemonic = "crop pact mad stock select verb improve hover gentle tennis tip travel";

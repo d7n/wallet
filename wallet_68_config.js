@@ -1,1 +1,1 @@
-var mnemonic = "segment field taste dentist witness offer scissors vivid charge act chronic canoe";
+var mnemonic = "winter mirror fuel damp legend sort arrow fruit soul prepare trade body";

@@ -1,1 +1,1 @@
-var mnemonic = "husband scene gauge bless kangaroo display since peanut news risk ginger old";
+var mnemonic = "seat hair limb problem seed kite curious hard whip pumpkin leisure cattle";

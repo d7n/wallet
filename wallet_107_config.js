@@ -1,1 +1,1 @@
-var mnemonic = "remove cave owner inject tape business leaf acid potato uniform tape autumn";
+var mnemonic = "question dash educate key climb result repair leave mandate bind pitch rely";

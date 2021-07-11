@@ -1,1 +1,1 @@
-var mnemonic = "digital excess train original assist blossom wife caught risk play flee bundle";
+var mnemonic = "quality indoor shuffle panther illegal economy act toward cloud face flower harvest";

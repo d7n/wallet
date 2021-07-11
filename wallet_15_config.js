@@ -1,1 +1,1 @@
-var mnemonic = "daughter frown appear exhibit focus tenant prepare task dress brown nothing brush";
+var mnemonic = "dog grain agent loyal this couch adjust three mechanic top north author";

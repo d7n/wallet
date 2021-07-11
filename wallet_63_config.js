@@ -1,1 +1,1 @@
-var mnemonic = "lounge seed notice silent top gadget slogan ancient skull move pioneer nut";
+var mnemonic = "hurt angry humor tumble inflict page divorce crisp achieve image mad bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "fork trash napkin ecology image flame scheme cement kingdom cost birth lawn";
+var mnemonic = "soccer donor ecology error spy ozone possible produce west man false diagram";

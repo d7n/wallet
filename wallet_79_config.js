@@ -1,1 +1,1 @@
-var mnemonic = "double matrix subway field limit ship pottery document party brick zone garment";
+var mnemonic = "boy occur carpet common sorry spin barely saddle correct sea donate senior";

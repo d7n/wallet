@@ -1,1 +1,1 @@
-var mnemonic = "cigar valley more upgrade high silk burger wear cruise raccoon knee elite";
+var mnemonic = "gown place orient brass sample trial fatal mesh version problem helmet whip";

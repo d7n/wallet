@@ -1,1 +1,1 @@
-var mnemonic = "announce spend point mistake crane early invite live couple fat oval express";
+var mnemonic = "mother shed position erase fashion clap monitor version allow crater allow bubble";

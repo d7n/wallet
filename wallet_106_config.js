@@ -1,1 +1,1 @@
-var mnemonic = "version ten insect wing plastic license loop august pole evolve welcome security";
+var mnemonic = "muffin tide negative return sponsor undo bar sick scrub lock venture timber";

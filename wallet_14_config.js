@@ -1,1 +1,1 @@
-var mnemonic = "lonely pink boy second material matter tiny scout cigar dinner century wine";
+var mnemonic = "make depth uniform glance long damp pattern solution elite video about grape";

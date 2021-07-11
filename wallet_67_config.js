@@ -1,1 +1,1 @@
-var mnemonic = "peanut access carry copper repair lyrics silent payment cat chimney shield power";
+var mnemonic = "black lucky foot swim during slight panic disagree uncle misery gauge cancel";

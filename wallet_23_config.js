@@ -1,1 +1,1 @@
-var mnemonic = "budget quit health image pattern enrich weekend guilt hand hawk magnet stone";
+var mnemonic = "inside benefit arena example link sudden base silent car math detail regret";

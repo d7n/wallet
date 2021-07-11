@@ -1,1 +1,1 @@
-var mnemonic = "flush gallery image praise brief nature over wife tool crime key sand";
+var mnemonic = "silent neck sibling account say metal clutch imitate yard there notice expire";

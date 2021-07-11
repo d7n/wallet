@@ -1,1 +1,1 @@
-var mnemonic = "wine example plug dog off food clerk cereal comfort heart visa bright";
+var mnemonic = "judge ritual bone genius hero hawk stand envelope chalk toilet cause kitchen";

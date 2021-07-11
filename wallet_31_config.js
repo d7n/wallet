@@ -1,1 +1,1 @@
-var mnemonic = "vivid gravity bridge box make crystal waste tuna shrug glory sponsor grant";
+var mnemonic = "guide genre print rally wood upon fix unhappy access purpose ginger plug";

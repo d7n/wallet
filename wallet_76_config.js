@@ -1,1 +1,1 @@
-var mnemonic = "eager siren spirit sudden screen random modify fish struggle attack hard found";
+var mnemonic = "basket orchard ozone dash tomorrow defy juice debris special scene divorce voyage";

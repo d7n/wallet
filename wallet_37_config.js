@@ -1,1 +1,1 @@
-var mnemonic = "remind buddy chief payment mechanic delay license annual jelly void give elephant";
+var mnemonic = "click bulb behave project author tuition field sort guess tortoise devote submit";

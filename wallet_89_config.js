@@ -1,1 +1,1 @@
-var mnemonic = "normal blade universe cement atom gas income melt earth live cloud raw";
+var mnemonic = "embark adjust fluid start orchard merge draw rabbit myth inform level mesh";

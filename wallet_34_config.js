@@ -1,1 +1,1 @@
-var mnemonic = "curious desert person mention glide glance recipe slide cage spread copy elder";
+var mnemonic = "maximum grain bleak traffic team cabbage diary twelve behind nose expect easily";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp corn people chest stone wheat powder stock laundry birth pilot buzz";
+var mnemonic = "reopen nice aunt marine exotic tube eye expire myth survey diesel state";

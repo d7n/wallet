@@ -1,1 +1,1 @@
-var mnemonic = "rib neck smart upon toward tape loud ghost junk cream forget twenty";
+var mnemonic = "pony donate garlic kitten race hundred twin journey fiction edit vague eight";

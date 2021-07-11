@@ -1,1 +1,1 @@
-var mnemonic = "lion horse critic mother town tomato open figure fade portion decade catch";
+var mnemonic = "physical security cram trouble stove hip early project very truck enlist price";

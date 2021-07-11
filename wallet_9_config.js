@@ -1,1 +1,1 @@
-var mnemonic = "poem blast shove shock door dinner vendor inherit saddle clarify yellow tiny";
+var mnemonic = "fragile gain lounge endless impact autumn rebel miss lady raise peanut gesture";

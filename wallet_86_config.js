@@ -1,1 +1,1 @@
-var mnemonic = "liar adjust bubble permit tunnel motion intact catch garbage pipe barrel order";
+var mnemonic = "salt stable next vacuum kit vocal sister rain image exit burst source";

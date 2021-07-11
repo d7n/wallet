@@ -1,1 +1,1 @@
-var mnemonic = "green ice original negative author liberty mechanic regret angle system siege movie";
+var mnemonic = "inject divide drama razor grief brick risk south museum turkey crane keep";

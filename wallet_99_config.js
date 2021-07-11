@@ -1,1 +1,1 @@
-var mnemonic = "subway giggle rabbit hint autumn faint enhance stable pyramid sample whisper endless";
+var mnemonic = "sudden giant lab dolphin gate receive enlist wife like genius junk mercy";

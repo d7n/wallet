@@ -1,1 +1,1 @@
-var mnemonic = "transfer science setup deposit ahead agree crop action way siren provide cube";
+var mnemonic = "oblige mass together sell bulb exit clown song text invite tank today";
