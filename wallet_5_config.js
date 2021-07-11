@@ -1,1 +1,1 @@
-var mnemonic = "castle recycle save pumpkin dune cement version surge potato desk rebuild clap";
+var mnemonic = "merry motion blouse sphere hint bitter property awesome cute size infant equip";

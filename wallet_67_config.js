@@ -1,1 +1,1 @@
-var mnemonic = "obey spin seminar noble crime fame salmon flower announce ridge charge suggest";
+var mnemonic = "nose kidney image hybrid whale popular candy morning wing setup short mutual";

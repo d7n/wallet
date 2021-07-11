@@ -1,1 +1,1 @@
-var mnemonic = "bitter stomach garden celery devote play flat grief critic inflict fox priority";
+var mnemonic = "lottery crack battle swap nuclear spider nose agent before clap panic syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "fire all reunion breeze rally jump sure wall federal boring text link";
+var mnemonic = "journey exist dignity ensure foot joke admit light exit worry absorb write";

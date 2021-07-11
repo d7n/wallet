@@ -1,1 +1,1 @@
-var mnemonic = "village talent gadget before invite ship sure dust attend first immense comic";
+var mnemonic = "tank garden autumn kiss where jar behave music umbrella crystal toward thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "gym wrestle airport copper consider tenant asset pull oil find mass method";
+var mnemonic = "upset enact old trip common illness cart stamp nephew buffalo illegal ask";

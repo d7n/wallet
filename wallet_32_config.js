@@ -1,1 +1,1 @@
-var mnemonic = "erosion enough antique choice reform notice spread various journey original picnic poem";
+var mnemonic = "believe velvet scissors fall defy genuine pluck subject slice royal isolate gap";

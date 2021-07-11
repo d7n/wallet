@@ -1,1 +1,1 @@
-var mnemonic = "old dance release release paper glimpse actress capable exit space floor crater";
+var mnemonic = "use slim black good practice dawn attend spike glare cable adjust peasant";

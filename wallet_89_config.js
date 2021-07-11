@@ -1,1 +1,1 @@
-var mnemonic = "maximum kiwi gesture fish patient clean train lesson husband crash inhale dream";
+var mnemonic = "eye matter sick first grass cricket rich attract apple omit siren desert";

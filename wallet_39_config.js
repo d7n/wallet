@@ -1,1 +1,1 @@
-var mnemonic = "stool shed stone fine pen trial hero agent critic erase infant pass";
+var mnemonic = "impose salon silver hold permit confirm trumpet throw mixed soon rice ginger";

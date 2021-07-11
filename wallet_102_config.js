@@ -1,1 +1,1 @@
-var mnemonic = "verb glass forget size either pencil wonder debate until model roof table";
+var mnemonic = "knee silver evolve since top report network aunt open measure expand weasel";

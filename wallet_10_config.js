@@ -1,1 +1,1 @@
-var mnemonic = "lucky embody bicycle belt inject gun unaware protect approve dentist salmon win";
+var mnemonic = "fluid shy purse able sentence now replace menu among finger armed federal";

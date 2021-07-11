@@ -1,1 +1,1 @@
-var mnemonic = "chief rival shadow position measure valley sunset sniff mystery effort erode side";
+var mnemonic = "observe ski decorate key magnet luxury tunnel main company inquiry glove biology";

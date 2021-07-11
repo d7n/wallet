@@ -1,1 +1,1 @@
-var mnemonic = "main fish citizen budget shield page easily radar replace today run social";
+var mnemonic = "someone onion repair gorilla tent dad retire horse position quit price helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "setup rebuild artwork chronic fee fetch vintage access vital fold calm coyote";
+var mnemonic = "crumble fluid drink never sunset width flat cushion winter orchard drink cat";

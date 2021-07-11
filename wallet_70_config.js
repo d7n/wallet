@@ -1,1 +1,1 @@
-var mnemonic = "pitch junior idea craft utility light first write square resource maple kitten";
+var mnemonic = "panel wage ugly report layer run fork someone stool bitter mask arena";

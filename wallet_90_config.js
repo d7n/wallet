@@ -1,1 +1,1 @@
-var mnemonic = "reveal anchor salon behave rose cloth jump guide nut retreat prevent romance";
+var mnemonic = "grape diesel leg order hand reduce stand deputy solid online lesson nurse";

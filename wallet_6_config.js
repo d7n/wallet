@@ -1,1 +1,1 @@
-var mnemonic = "capable insect violin fitness palace empower vintage exile glue rent material adjust";
+var mnemonic = "curve stick country museum clutch collect peasant aim umbrella plate inherit faith";

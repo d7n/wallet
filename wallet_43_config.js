@@ -1,1 +1,1 @@
-var mnemonic = "wall diamond region any happy negative usual flee leaf cattle ship arena";
+var mnemonic = "biology clean buyer genius eight pride gun train shop donate pony debate";

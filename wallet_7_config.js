@@ -1,1 +1,1 @@
-var mnemonic = "over umbrella lens cradle erase stairs fire jacket hundred suit silk roof";
+var mnemonic = "cause riot surprise shoe nut surround regular theory ensure blind correct like";

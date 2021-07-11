@@ -1,1 +1,1 @@
-var mnemonic = "bus junior juice oyster rebel where mystery ignore local method noise above";
+var mnemonic = "recycle scorpion bronze dust demand champion chase exercise wave gold turn horse";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol clap quick obtain strategy maid knock state sister assume nuclear artwork";
+var mnemonic = "industry slush bounce front swift box kangaroo mosquito axis lecture produce canyon";

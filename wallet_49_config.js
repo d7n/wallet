@@ -1,1 +1,1 @@
-var mnemonic = "sight mistake injury december melt genre census crisp bubble frame bid worth";
+var mnemonic = "roast situate hospital ill section service skull knock token tomorrow three goat";

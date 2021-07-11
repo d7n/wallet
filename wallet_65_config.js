@@ -1,1 +1,1 @@
-var mnemonic = "industry tobacco way bacon special ghost fruit owner virus weekend soul item";
+var mnemonic = "capital unique token zone tray path argue sausage isolate wealth lottery kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage knife return coin cash next large someone sea avocado impose circle";
+var mnemonic = "wine hungry escape modify sure loyal woman capable kind summer lady dirt";

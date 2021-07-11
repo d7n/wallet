@@ -1,1 +1,1 @@
-var mnemonic = "focus banana manual orchard spell absent more manage pupil buzz hedgehog hello";
+var mnemonic = "public peanut social mouse wheel rich return radar walnut scene solution matrix";

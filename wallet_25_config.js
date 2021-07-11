@@ -1,1 +1,1 @@
-var mnemonic = "educate dog raccoon net sadness require blade proud glow endorse just entry";
+var mnemonic = "second elegant embody raise split discover hidden sock morning ridge bacon menu";

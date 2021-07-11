@@ -1,1 +1,1 @@
-var mnemonic = "fire beach someone vivid furnace amateur reduce tooth enter dwarf together essence";
+var mnemonic = "asthma tent venture submit crisp chair canoe bulb hedgehog decorate pepper damage";

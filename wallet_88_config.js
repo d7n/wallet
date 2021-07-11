@@ -1,1 +1,1 @@
-var mnemonic = "isolate theory joke runway sudden pelican truth promote culture online program market";
+var mnemonic = "trip burst asset pass prevent horror resource burger version way jelly apple";

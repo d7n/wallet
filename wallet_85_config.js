@@ -1,1 +1,1 @@
-var mnemonic = "cruise reason silver leg mail clinic present decrease core crane bamboo poverty";
+var mnemonic = "relief just process general axis arm tank sort culture faith afraid inject";

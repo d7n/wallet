@@ -1,1 +1,1 @@
-var mnemonic = "leisure truth speed insect bomb blade tongue plunge equal glide wolf such";
+var mnemonic = "execute chuckle task smooth art rib adult kidney ethics mansion cliff couple";

@@ -1,1 +1,1 @@
-var mnemonic = "tree device fit stable pulp sure great gain paper visual circle empower";
+var mnemonic = "eight express addict cabbage grant enact helmet amateur trouble can prepare razor";

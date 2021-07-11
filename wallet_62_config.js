@@ -1,1 +1,1 @@
-var mnemonic = "around rib rotate manual month claw half artefact noble bitter social goose";
+var mnemonic = "chalk height shoe permit much rural fog admit lion improve health parade";

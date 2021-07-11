@@ -1,1 +1,1 @@
-var mnemonic = "hunt empower charge dragon friend poem electric noise life pause meat domain";
+var mnemonic = "flush talk large mention since ramp flash truth where fever start where";

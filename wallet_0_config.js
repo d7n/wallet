@@ -1,1 +1,1 @@
-var mnemonic = "impose ethics cloud zebra glove blind width father eight team double cheap";
+var mnemonic = "weapon eight food rare brick exact surround carbon saddle thank ugly idle";

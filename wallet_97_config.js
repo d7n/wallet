@@ -1,1 +1,1 @@
-var mnemonic = "vapor apart rebuild tenant vocal charge era drip fine wool hedgehog pioneer";
+var mnemonic = "pilot blast swarm cash leg tortoise vapor wool soul patrol bonus invest";

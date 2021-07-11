@@ -1,1 +1,1 @@
-var mnemonic = "glide crime control plunge gloom afraid track couple idea outside raccoon grain";
+var mnemonic = "expose lawsuit tower furnace snake glue oyster ancient fit laptop useful swim";

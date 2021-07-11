@@ -1,1 +1,1 @@
-var mnemonic = "achieve firm old awkward want general peace unfair sand toy ring tribe";
+var mnemonic = "dream real spell sight foster before whip brave radio parrot buyer wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce punch parent warfare action among churn foam scale east nerve train";
+var mnemonic = "furnace million pudding family focus police barely ball offer core believe acoustic";

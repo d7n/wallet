@@ -1,1 +1,1 @@
-var mnemonic = "safe asthma what render bacon issue surface detect ridge tunnel isolate illness";
+var mnemonic = "grain duty resemble pattern sort hill property surge recycle puppy pet sauce";

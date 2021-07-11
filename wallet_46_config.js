@@ -1,1 +1,1 @@
-var mnemonic = "mask violin digital hobby pilot stamp web debate donor strike people fat";
+var mnemonic = "pumpkin bacon cabbage urge degree jar water differ beach primary above wing";

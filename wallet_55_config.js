@@ -1,1 +1,1 @@
-var mnemonic = "capital legend desk tower valid illness gadget present sand office shock then";
+var mnemonic = "drift merry rude case provide tag where embrace exact spare excuse talent";

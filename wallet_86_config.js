@@ -1,1 +1,1 @@
-var mnemonic = "drip warfare still uphold fire border symbol toddler alpha love motion balcony";
+var mnemonic = "brush security business uniform burden extra oyster heavy cricket latin join talent";

@@ -1,1 +1,1 @@
-var mnemonic = "auto wheat design connect flee again yellow rude basic social purchase width";
+var mnemonic = "transfer borrow luggage butter ankle siege hold wine ready churn castle patrol";

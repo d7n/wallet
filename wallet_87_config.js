@@ -1,1 +1,1 @@
-var mnemonic = "seek glow become erode zoo champion luggage wine follow zone orphan leisure";
+var mnemonic = "old manual exact bus august strong roast agent labor across uphold bulb";

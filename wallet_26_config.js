@@ -1,1 +1,1 @@
-var mnemonic = "traffic chuckle close crazy front submit slow awful assist walk gauge fine";
+var mnemonic = "field drink kingdom caution make wise prepare double robust rent ticket funny";

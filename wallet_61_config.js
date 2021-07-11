@@ -1,1 +1,1 @@
-var mnemonic = "add unveil pool gauge decline spice taxi distance daring cactus evoke boss";
+var mnemonic = "injury rude private knock spoil design good giggle twin gospel shoe corn";

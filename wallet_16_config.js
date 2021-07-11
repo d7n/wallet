@@ -1,1 +1,1 @@
-var mnemonic = "soda slot offer engine pony lyrics acid common spatial divert morning knock";
+var mnemonic = "evoke require borrow post profit fire flame garden mandate yellow poverty coconut";

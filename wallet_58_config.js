@@ -1,1 +1,1 @@
-var mnemonic = "order absorb jazz hat forum income use cube round dolphin animal oyster";
+var mnemonic = "buzz soda core december parrot salon sustain awake episode patient veteran also";

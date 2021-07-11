@@ -1,1 +1,1 @@
-var mnemonic = "whisper gallery cactus stamp various stay tennis shop true side imitate transfer";
+var mnemonic = "almost vivid leopard flat gain leopard vault coral wage obscure bus inch";

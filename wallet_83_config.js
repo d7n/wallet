@@ -1,1 +1,1 @@
-var mnemonic = "wing unique struggle elegant clean room beyond tonight dress tree clutch solid";
+var mnemonic = "caught fox cat ensure census isolate coffee object genius prefer link size";

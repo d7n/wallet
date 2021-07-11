@@ -1,1 +1,1 @@
-var mnemonic = "fancy exercise call before phone fire keep lava physical uniform meat social";
+var mnemonic = "maid decline acquire crowd walnut lobster devote remember rule narrow protect offer";

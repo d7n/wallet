@@ -1,1 +1,1 @@
-var mnemonic = "van walnut gain sunny world board burden exact shine collect orange october";
+var mnemonic = "total fringe cost slam wool palm glow promote bracket note minute copy";

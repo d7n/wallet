@@ -1,1 +1,1 @@
-var mnemonic = "body shadow supply olive change thought vivid various multiply later suggest evil";
+var mnemonic = "text pitch control quality stairs cabin zoo usual spoil punch rural help";

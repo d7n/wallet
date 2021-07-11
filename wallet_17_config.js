@@ -1,1 +1,1 @@
-var mnemonic = "unique type address tortoise horse kitten gun kingdom hold degree illegal inform";
+var mnemonic = "pledge reform supply tomorrow library taste increase number quote relief critic matrix";

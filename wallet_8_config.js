@@ -1,1 +1,1 @@
-var mnemonic = "crime cause upper fatigue unique purse coach donkey tonight give about alone";
+var mnemonic = "country renew garden brush connect place figure ice dinner below again legend";

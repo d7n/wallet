@@ -1,1 +1,1 @@
-var mnemonic = "boy attract course disagree diagram absorb youth morning hockey base dragon coin";
+var mnemonic = "quote army never impact move stereo fish more fortune rebuild park apology";

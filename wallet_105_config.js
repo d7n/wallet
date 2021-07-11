@@ -1,1 +1,1 @@
-var mnemonic = "country burger smart dwarf scene labor grant mimic donate scene north involve";
+var mnemonic = "discover gallery place foot tunnel rent never win merry nothing build quote";

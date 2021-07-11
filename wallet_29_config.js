@@ -1,1 +1,1 @@
-var mnemonic = "system glory east canoe pigeon satisfy stay universe remove figure pink violin";
+var mnemonic = "occur concert fancy such paper minor cart tourist state wave hill cactus";

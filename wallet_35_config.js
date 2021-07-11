@@ -1,1 +1,1 @@
-var mnemonic = "charge close flame claim visual treat lucky surge hurry expect clog bone";
+var mnemonic = "pretty rigid cycle wall comic allow cabin cupboard judge regular radio clump";

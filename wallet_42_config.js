@@ -1,1 +1,1 @@
-var mnemonic = "crystal mesh run stamp swift oven donor boost rather wealth below trend";
+var mnemonic = "response swallow insect special believe enact bullet fence busy lazy company nothing";

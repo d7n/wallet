@@ -1,1 +1,1 @@
-var mnemonic = "weasel inflict tragic early maze arrow twist festival race cheese library alter";
+var mnemonic = "hazard dice april derive raccoon marine marriage trend enjoy lizard possible around";

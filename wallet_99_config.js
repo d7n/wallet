@@ -1,1 +1,1 @@
-var mnemonic = "scheme project ripple sauce volume common shoulder want people fat steak pattern";
+var mnemonic = "trial borrow rack strong install hospital lumber decade oxygen gown clinic crumble";

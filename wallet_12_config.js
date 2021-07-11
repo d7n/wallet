@@ -1,1 +1,1 @@
-var mnemonic = "enhance rain position market digital steel swarm park dentist afraid surge state";
+var mnemonic = "wreck nephew artefact nominee more slender shove right giraffe usage supreme shuffle";

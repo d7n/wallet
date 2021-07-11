@@ -1,1 +1,1 @@
-var mnemonic = "police anxiety usual suit raven east fan dance old cabin mango thank";
+var mnemonic = "hint combine odor obvious damage donate when hen angry bid proof arena";

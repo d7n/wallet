@@ -1,1 +1,1 @@
-var mnemonic = "alcohol soup desk gadget ill obscure bronze conduct machine describe pair tennis";
+var mnemonic = "tortoise iron moment banner web kid cement project water grass among execute";

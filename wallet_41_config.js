@@ -1,1 +1,1 @@
-var mnemonic = "swing zoo auction canal drastic upset blush spin vivid pink memory lens";
+var mnemonic = "whale purse bonus spatial combine sweet barely viable want prepare churn scale";

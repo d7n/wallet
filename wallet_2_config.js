@@ -1,1 +1,1 @@
-var mnemonic = "pilot furnace cycle noise glare glad force seek naive impulse deer west";
+var mnemonic = "glove distance horror pelican shift ten man girl group hood sketch dream";

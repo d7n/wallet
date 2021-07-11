@@ -1,1 +1,1 @@
-var mnemonic = "frame sun lazy hospital please code magic giant hollow tomato pudding rose";
+var mnemonic = "agree region twelve cheap remove dwarf away ring way civil object lava";

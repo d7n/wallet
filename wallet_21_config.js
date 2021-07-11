@@ -1,1 +1,1 @@
-var mnemonic = "quick mandate pond demise chef brick citizen siege leisure change tobacco frame";
+var mnemonic = "arm bacon maximum aspect cash impose empower about pen giraffe walnut ladder";

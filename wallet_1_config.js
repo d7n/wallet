@@ -1,1 +1,1 @@
-var mnemonic = "auction during balance roast ostrich matter december uphold next fiscal behave certain";
+var mnemonic = "ginger skate video drama sense leave stairs tape summer title clump green";

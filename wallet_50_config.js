@@ -1,1 +1,1 @@
-var mnemonic = "usage law forget outside dress order question rescue gossip close frozen become";
+var mnemonic = "tomorrow reject anger mechanic coral pet prosper column calm lend advance arm";

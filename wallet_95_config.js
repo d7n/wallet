@@ -1,1 +1,1 @@
-var mnemonic = "virus obvious fringe bargain error speed nation chief funny skull crucial ranch";
+var mnemonic = "mad sun vault much warfare someone bench grant coach walk spike west";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure invite curtain chaos join cage wise rival seed horse fantasy rebel";
+var mnemonic = "remember girl plug goddess alien physical veteran reject rib cover across steak";

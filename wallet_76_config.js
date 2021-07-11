@@ -1,1 +1,1 @@
-var mnemonic = "broken pelican quick analyst toward maze print muscle auto exile exchange light";
+var mnemonic = "anchor patch print armor unable naive leave flip proud edit soft solution";

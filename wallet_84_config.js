@@ -1,1 +1,1 @@
-var mnemonic = "neck walnut dad helmet round desert collect hour stuff fish very dad";
+var mnemonic = "friend gentle leave tiger guard state tonight dignity tiny produce cabin quick";

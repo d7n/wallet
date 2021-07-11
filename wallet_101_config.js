@@ -1,1 +1,1 @@
-var mnemonic = "sniff body scare jaguar extra unhappy color pencil bachelor lounge turtle elephant";
+var mnemonic = "repeat frequent muffin wing artist float insect dance junk rescue update random";

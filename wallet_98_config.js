@@ -1,1 +1,1 @@
-var mnemonic = "banner comfort fun quantum skirt glory metal settle sign steel cushion squirrel";
+var mnemonic = "awful hope skin million host end wisdom ticket flight light topple replace";

@@ -1,1 +1,1 @@
-var mnemonic = "evil tilt apple decide vicious extra usual cry squirrel catch flag tooth";
+var mnemonic = "shell lesson tourist army parent ship garlic absorb ghost whip catch element";

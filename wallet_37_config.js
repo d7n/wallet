@@ -1,1 +1,1 @@
-var mnemonic = "giggle problem junk sock tortoise icon enjoy crop crane rain reason ball";
+var mnemonic = "excite daughter lawn disease matrix eye topic fame insane soft brave grass";

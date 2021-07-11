@@ -1,1 +1,1 @@
-var mnemonic = "clog flee gadget random vintage similar ill swap dish case metal night";
+var mnemonic = "hospital tissue since common bread horn track palace clock man tube side";

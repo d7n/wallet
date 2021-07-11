@@ -1,1 +1,1 @@
-var mnemonic = "anchor faint tornado wheel little earth citizen ring artist tenant filter hamster";
+var mnemonic = "verb window pill sense edge seven almost crazy soda sweet indoor deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "review dust mushroom people donkey cargo cruel negative thought nasty license alcohol";
+var mnemonic = "fuel blind salmon siren blossom rally effort addict film labor float spot";

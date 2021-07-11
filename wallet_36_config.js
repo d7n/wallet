@@ -1,1 +1,1 @@
-var mnemonic = "grief bird neutral uncover lounge final hole enter elite own chimney essay";
+var mnemonic = "avoid maple movie coconut nephew pudding creek bone illness book clump grunt";

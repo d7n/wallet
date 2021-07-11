@@ -1,1 +1,1 @@
-var mnemonic = "alone lazy raise reason damage police candy banner symptom drift lizard detect";
+var mnemonic = "diagram uncle salt fence federal grape sheriff ghost leopard fruit pink give";

@@ -1,1 +1,1 @@
-var mnemonic = "actual noise viable rookie delay average hip barely mail lawn cradle joke";
+var mnemonic = "mule ginger clump hawk vocal minor primary choose flower celery private wedding";

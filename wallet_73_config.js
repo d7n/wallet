@@ -1,1 +1,1 @@
-var mnemonic = "whale worry harbor country multiply donate child access citizen injury win ensure";
+var mnemonic = "sausage absurd canoe erode canvas dove pact filter cargo inch sword engage";

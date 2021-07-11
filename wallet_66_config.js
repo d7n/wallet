@@ -1,1 +1,1 @@
-var mnemonic = "mule awkward train vacuum rug snake early melt again garbage chat hybrid";
+var mnemonic = "submit ripple evoke swarm silk twelve mask era pass margin menu hollow";

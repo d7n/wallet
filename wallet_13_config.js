@@ -1,1 +1,1 @@
-var mnemonic = "brave door museum oil afford garbage help plunge novel then box catch";
+var mnemonic = "flavor frog evidence neither physical menu tumble off effort tragic exile bamboo";
