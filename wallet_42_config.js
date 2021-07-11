@@ -1,1 +1,1 @@
-var mnemonic = "cannon wish enable prize pelican wall dinosaur visa remind report bus school";
+var mnemonic = "antenna chef student test dove net cable elite pole jealous abuse can";

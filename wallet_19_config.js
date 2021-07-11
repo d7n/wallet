@@ -1,1 +1,1 @@
-var mnemonic = "want blood first found zebra such build carbon gauge ocean toast catch";
+var mnemonic = "hub supreme boring feature come measure case garage person approve senior supply";

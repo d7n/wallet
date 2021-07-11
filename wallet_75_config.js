@@ -1,1 +1,1 @@
-var mnemonic = "scrub habit display lottery angry menu tomato wood system rhythm damage essence";
+var mnemonic = "belt admit fragile floor cousin table hero original vacant enact toddler gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "family cool stumble choose volcano fragile update buyer steel end animal minute";
+var mnemonic = "draw manual morning dish leisure erosion mountain spring giraffe gift disorder time";

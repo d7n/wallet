@@ -1,1 +1,1 @@
-var mnemonic = "ketchup elevator goat local symptom crazy cereal review song pioneer mail despair";
+var mnemonic = "crack axis ready private knee stomach defy entire chest spot rabbit found";

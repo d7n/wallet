@@ -1,1 +1,1 @@
-var mnemonic = "bless edge math coast endorse coral again blur pool sad farm genius";
+var mnemonic = "salt page riot carpet fit cliff only glide cherry shallow tourist gain";

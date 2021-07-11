@@ -1,1 +1,1 @@
-var mnemonic = "egg clump sorry tuition student exhibit render claw cloud evidence member pull";
+var mnemonic = "amateur unusual april early casual lesson type gentle gravity this phrase ill";

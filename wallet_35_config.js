@@ -1,1 +1,1 @@
-var mnemonic = "drum garden vacuum cable other physical system dutch crunch hello sunset century";
+var mnemonic = "perfect cool bring robot embody method gauge science device lazy fame drill";

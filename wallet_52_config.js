@@ -1,1 +1,1 @@
-var mnemonic = "floor bench enter exhibit power govern drip stand clever prevent carry melody";
+var mnemonic = "almost spend combine sail width sea country deal off drive debate regret";

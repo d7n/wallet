@@ -1,1 +1,1 @@
-var mnemonic = "motor remember moral argue antenna vault better method auto space fantasy common";
+var mnemonic = "caught town view limit company more camp yellow renew other blind shove";

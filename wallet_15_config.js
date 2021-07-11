@@ -1,1 +1,1 @@
-var mnemonic = "also arrange crush border repair property try gather ready jeans approve vehicle";
+var mnemonic = "exit vault fame erosion chicken enact tool tube balcony hip dolphin scare";

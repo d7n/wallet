@@ -1,1 +1,1 @@
-var mnemonic = "dad poem demand service usual blame spend island oppose yard right screen";
+var mnemonic = "boss across hobby manage enable trim trigger imitate grape fortune lizard skill";

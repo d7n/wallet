@@ -1,1 +1,1 @@
-var mnemonic = "usual crime gravity defense way awake glove knife unique course million devote";
+var mnemonic = "patrol search primary add photo glimpse wrist produce trap address electric ridge";

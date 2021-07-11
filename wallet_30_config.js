@@ -1,1 +1,1 @@
-var mnemonic = "wreck escape trend game hedgehog art marine industry vote photo suspect okay";
+var mnemonic = "clip eternal slam endorse trick sword cram resemble floor proud unaware install";

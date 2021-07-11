@@ -1,1 +1,1 @@
-var mnemonic = "that jeans enemy knife business spare cushion fever oval area say brand";
+var mnemonic = "genuine witness often fringe portion swallow pencil nurse phone toe dumb play";

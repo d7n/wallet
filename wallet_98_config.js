@@ -1,1 +1,1 @@
-var mnemonic = "slice hunt menu motor business surge divide angle test oak wool shop";
+var mnemonic = "wheel sudden orphan napkin ocean pause distance quote spare pepper response visit";

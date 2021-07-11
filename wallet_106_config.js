@@ -1,1 +1,1 @@
-var mnemonic = "orphan bread feed silver noble bean alter junk fish diagram patch trim";
+var mnemonic = "regret few more vehicle soap garlic glimpse carbon brother cave educate explain";

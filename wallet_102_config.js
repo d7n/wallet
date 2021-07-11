@@ -1,1 +1,1 @@
-var mnemonic = "physical online twin tumble thrive identify burden later machine canal update scorpion";
+var mnemonic = "stool supply because sister shop chef dose process ride nest sugar garbage";

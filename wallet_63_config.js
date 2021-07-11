@@ -1,1 +1,1 @@
-var mnemonic = "gun twenty sea repair universe dress high grant useful danger moment genius";
+var mnemonic = "canoe obscure nuclear brand author bind enjoy biology inherit between load process";

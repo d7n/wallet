@@ -1,1 +1,1 @@
-var mnemonic = "family divorce announce still come repair scan inhale own comfort bleak wear";
+var mnemonic = "vote plate fragile wool cake wonder furnace burst major pool valid pumpkin";

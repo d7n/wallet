@@ -1,1 +1,1 @@
-var mnemonic = "release radio game lab upon owner jealous sausage imitate left able draw";
+var mnemonic = "skate phone rough rude car awkward legend blame margin divorce tackle want";

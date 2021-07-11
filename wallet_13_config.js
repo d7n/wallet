@@ -1,1 +1,1 @@
-var mnemonic = "outer goddess budget reward move oxygen advice village metal egg spike peace";
+var mnemonic = "charge unveil catalog diary crouch slice category capital victory fade paddle select";

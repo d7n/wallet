@@ -1,1 +1,1 @@
-var mnemonic = "survey plug sugar cloud tray duck crew hat permit solution end dose";
+var mnemonic = "eager word father chimney bounce fork aerobic sudden clump connect quote turn";

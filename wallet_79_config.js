@@ -1,1 +1,1 @@
-var mnemonic = "bird tackle home flag matrix clock nice remove orchard coffee excuse medal";
+var mnemonic = "neglect dish put cattle okay sausage pupil update ancient fish sorry jeans";

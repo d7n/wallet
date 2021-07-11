@@ -1,1 +1,1 @@
-var mnemonic = "major degree brass fine runway outer possible athlete change save shrimp behave";
+var mnemonic = "tool claw expand tiny excite couch average argue robust elegant bamboo soda";

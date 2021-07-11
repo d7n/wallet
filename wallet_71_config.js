@@ -1,1 +1,1 @@
-var mnemonic = "rule army rare tower syrup dance rookie become broccoli relief thank weapon";
+var mnemonic = "whip unlock love garlic exact must text tip follow light joy frozen";

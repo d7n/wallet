@@ -1,1 +1,1 @@
-var mnemonic = "famous toy similar legend fatigue worry drastic eager exhibit process produce first";
+var mnemonic = "razor install current evil rack nature swim skirt sad bitter cost surface";

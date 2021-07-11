@@ -1,1 +1,1 @@
-var mnemonic = "syrup drive angle execute scan finish capable forward quote impose voyage horse";
+var mnemonic = "fatigue glide film index response volcano tiger bridge maze involve off attend";

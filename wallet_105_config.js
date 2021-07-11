@@ -1,1 +1,1 @@
-var mnemonic = "whale dance extend better luxury manual crane soul arena curious dice jump";
+var mnemonic = "deputy fossil swear shallow oil save develop arrive release custom charge display";

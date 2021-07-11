@@ -1,1 +1,1 @@
-var mnemonic = "biology over loop target reunion drive city frequent frown toilet dune retreat";
+var mnemonic = "rebuild vital lift shed shoot tuna until twenty scene sheriff predict alpha";

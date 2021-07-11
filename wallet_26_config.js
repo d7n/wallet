@@ -1,1 +1,1 @@
-var mnemonic = "hammer wheat spot oven face kite stereo finish identify grain crawl despair";
+var mnemonic = "situate cat protect result black rebel lend fiber before useless indoor help";

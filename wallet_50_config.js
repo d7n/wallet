@@ -1,1 +1,1 @@
-var mnemonic = "warrior trouble bundle twelve curious identify during room hen stereo erupt flag";
+var mnemonic = "final result journey modify beef section image coconut owner patient duck turtle";

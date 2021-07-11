@@ -1,1 +1,1 @@
-var mnemonic = "menu praise message drill turn suit shift trophy float frog combine oak";
+var mnemonic = "cement street label damage vague cave shoulder crop sting metal lazy twice";

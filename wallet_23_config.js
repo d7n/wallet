@@ -1,1 +1,1 @@
-var mnemonic = "develop earn inside trial zone often little tornado video shoe slice tank";
+var mnemonic = "wife urban page assault canyon visa correct battle jar beach bracket crew";

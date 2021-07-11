@@ -1,1 +1,1 @@
-var mnemonic = "bullet work neutral body bus leaf local example liar blossom click scan";
+var mnemonic = "enroll cost reflect network say fine bracket repair attract toilet dream supreme";

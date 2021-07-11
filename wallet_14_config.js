@@ -1,1 +1,1 @@
-var mnemonic = "quit dream pioneer talent shrimp life judge camera rhythm once push little";
+var mnemonic = "cube pig clog solid split balance inject episode hungry exclude ritual flush";

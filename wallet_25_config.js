@@ -1,1 +1,1 @@
-var mnemonic = "guitar kite main poverty field tilt wrist civil rely rapid fringe master";
+var mnemonic = "lobster clutch trend erode boost ghost list poet satisfy will sketch model";

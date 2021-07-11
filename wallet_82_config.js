@@ -1,1 +1,1 @@
-var mnemonic = "pride swallow jungle hat original winter cook such alien claim actual razor";
+var mnemonic = "inch harsh lawn juice task bullet man tongue damage degree flight tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "regret tired peace primary squirrel cover milk tumble coach fly mammal waste";
+var mnemonic = "canvas bone grid reform vanish cube panic waste evil space smooth trial";

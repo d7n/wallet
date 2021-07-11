@@ -1,1 +1,1 @@
-var mnemonic = "meadow lend reveal nut much sleep spike proof annual option vapor anxiety";
+var mnemonic = "spray wolf cash area design note silk machine fever neck trouble travel";

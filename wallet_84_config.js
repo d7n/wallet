@@ -1,1 +1,1 @@
-var mnemonic = "enroll sweet cupboard roast hybrid butter spend embark sketch pill grape artwork";
+var mnemonic = "enact room coconut onion supply thank snake foster tongue insane shuffle expose";

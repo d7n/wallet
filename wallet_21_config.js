@@ -1,1 +1,1 @@
-var mnemonic = "labor exact wolf junior reunion vehicle aware hurry kick hybrid sorry good";
+var mnemonic = "style laptop small relax liberty increase cradle element enhance tribe dwarf odor";

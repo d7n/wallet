@@ -1,1 +1,1 @@
-var mnemonic = "broom casino barely rotate mushroom grunt female runway embody fame apology caught";
+var mnemonic = "hip cigar collect make catch rotate symbol govern gift top genuine food";

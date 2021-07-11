@@ -1,1 +1,1 @@
-var mnemonic = "cool sheriff pen shield snack desk cross garlic panther emotion ski since";
+var mnemonic = "conduct debate above laugh equal pond card axis wine try matrix illegal";

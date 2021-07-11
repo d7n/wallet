@@ -1,1 +1,1 @@
-var mnemonic = "occur couch vapor property topple music crazy invest tell actual oppose equal";
+var mnemonic = "armed observe initial holiday cup slush father depend zoo glory message goat";

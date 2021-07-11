@@ -1,1 +1,1 @@
-var mnemonic = "rival under must know piano limit toss final sponsor jar smile clay";
+var mnemonic = "trick junior toy potato sketch cliff another minute forward hobby involve assault";

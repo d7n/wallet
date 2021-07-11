@@ -1,1 +1,1 @@
-var mnemonic = "plate still secret adapt mountain segment early orange involve resource poet spawn";
+var mnemonic = "check clerk roast job offer exit load tide erupt erase certain drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "myself run fragile flock casual captain matrix pig tortoise betray hello dune";
+var mnemonic = "orchard finish surge aspect oven sister occur bean frown purpose cream universe";

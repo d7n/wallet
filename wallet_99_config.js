@@ -1,1 +1,1 @@
-var mnemonic = "elevator erupt clay color apart park pizza weapon crumble swallow become chest";
+var mnemonic = "fun valley guard globe enforce camp phrase mutual erupt track suffer trumpet";

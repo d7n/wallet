@@ -1,1 +1,1 @@
-var mnemonic = "spend reopen series report limit feature calm enrich damp shoulder crash infant";
+var mnemonic = "absurd prefer coffee daring royal acoustic human add spare happy regret hat";

@@ -1,1 +1,1 @@
-var mnemonic = "estate kite loud cradle benefit century embrace drastic exact alter van win";
+var mnemonic = "toddler bulb ocean capital ready stick trial giant cable fan only antenna";

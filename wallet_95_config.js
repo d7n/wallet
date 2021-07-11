@@ -1,1 +1,1 @@
-var mnemonic = "input sock tragic laugh roast attend strategy actress chase same waste purchase";
+var mnemonic = "sustain awkward travel vault analyst question call silver excess image tomorrow bulk";

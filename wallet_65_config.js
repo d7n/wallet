@@ -1,1 +1,1 @@
-var mnemonic = "apart permit same issue satisfy gun smile divorce easily light time age";
+var mnemonic = "spoil peanut surge notice crop tonight flip put indoor edge weather miss";

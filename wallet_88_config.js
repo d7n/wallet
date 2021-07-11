@@ -1,1 +1,1 @@
-var mnemonic = "degree ancient bring patient diet exhaust cricket gossip type indicate benefit trick";
+var mnemonic = "grape organ reflect dismiss scale swift fine velvet strong sunny turn fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "fame they similar fortune corn boring grab wait wrist forward cotton photo";
+var mnemonic = "buddy science carbon chuckle input special chronic unlock broccoli correct jazz turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "decide digital since worth over lend hundred speak creek deer hurry energy";
+var mnemonic = "kingdom april loan exact actual brand drill naive thumb chuckle mother ordinary";

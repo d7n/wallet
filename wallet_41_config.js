@@ -1,1 +1,1 @@
-var mnemonic = "worry doctor dial frequent canvas dirt boring news senior country lucky reward";
+var mnemonic = "piano width wolf drastic loyal stay dinner supreme program click rival panel";

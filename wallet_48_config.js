@@ -1,1 +1,1 @@
-var mnemonic = "leave fashion number learn leave photo flock receive audit resource negative cage";
+var mnemonic = "enhance tennis nerve pelican ocean join offer abuse vault rent capital announce";

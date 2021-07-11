@@ -1,1 +1,1 @@
-var mnemonic = "mercy column clever little fine traffic cry animal panel normal mad awesome";
+var mnemonic = "veteran hunt road lend census flag whisper broccoli fee bread can spice";

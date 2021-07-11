@@ -1,1 +1,1 @@
-var mnemonic = "silent right today squirrel food sniff vehicle venue power amount salad meat";
+var mnemonic = "silver witness turtle beyond bronze fresh gorilla combine plastic slot primary protect";

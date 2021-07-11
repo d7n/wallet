@@ -1,1 +1,1 @@
-var mnemonic = "print chapter scrub dune zoo inflict bridge title slow finger oxygen doctor";
+var mnemonic = "swallow canoe legal income nice only chase suggest affair lava spread pill";

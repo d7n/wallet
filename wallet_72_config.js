@@ -1,1 +1,1 @@
-var mnemonic = "old lion off find bulb silent primary birth real slot main force";
+var mnemonic = "leg warm carry main endorse wrong hover orange state august laptop shallow";

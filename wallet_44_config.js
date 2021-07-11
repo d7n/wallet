@@ -1,1 +1,1 @@
-var mnemonic = "cereal coin say rug lucky hip smooth more people rich seminar mesh";
+var mnemonic = "shove long repair whisper wait try impact become rabbit alcohol change assume";

@@ -1,1 +1,1 @@
-var mnemonic = "load replace diet chat bus uncle height foster various body easy design";
+var mnemonic = "subway urge session layer critic spider purse strike civil metal skin flavor";

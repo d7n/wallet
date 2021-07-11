@@ -1,1 +1,1 @@
-var mnemonic = "dirt napkin spot monitor luxury action goat away worry attitude final boring";
+var mnemonic = "milk napkin gasp duty filter subject void blast smart text winner denial";

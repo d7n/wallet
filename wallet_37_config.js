@@ -1,1 +1,1 @@
-var mnemonic = "slot employ erode squeeze turn circle melody consider modify chase usual mango";
+var mnemonic = "already victory that latin coyote total original record section poverty fiscal siege";

@@ -1,1 +1,1 @@
-var mnemonic = "olive share stone assault solid permit early tomato gap riot flight giant";
+var mnemonic = "fever make ranch frost before enhance total stock birth sea future first";

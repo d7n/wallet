@@ -1,1 +1,1 @@
-var mnemonic = "rather globe invest betray coin enjoy axis announce recipe fine liberty offer";
+var mnemonic = "blood dismiss property giant useful symptom fragile rain uniform upset arrest hurdle";

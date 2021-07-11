@@ -1,1 +1,1 @@
-var mnemonic = "fog equal license acquire bracket cause tag hill school cotton certain walk";
+var mnemonic = "crew run squirrel home trust jealous warm vague chronic deposit grief whisper";

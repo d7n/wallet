@@ -1,1 +1,1 @@
-var mnemonic = "viable decline divorce can evoke economy guard balance beauty over spray lawsuit";
+var mnemonic = "heart primary wisdom uncle electric find song defy fancy organ addict unique";

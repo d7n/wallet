@@ -1,1 +1,1 @@
-var mnemonic = "media accident food arrow add fancy second toy ankle jelly daughter solve";
+var mnemonic = "piece special omit blossom uncle lion scrap call never wet narrow core";

@@ -1,1 +1,1 @@
-var mnemonic = "green discover rescue syrup admit useful raven matrix airport great then absorb";
+var mnemonic = "foam thumb strategy school giant tourist monkey cream expand latin vibrant mom";

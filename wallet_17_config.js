@@ -1,1 +1,1 @@
-var mnemonic = "crisp canoe private exotic card cigar jaguar unusual math eye almost border";
+var mnemonic = "orchard concert resist famous manage absurd february student imitate toast task good";

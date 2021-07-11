@@ -1,1 +1,1 @@
-var mnemonic = "sea area elder inspire pact nature chef silent item wine govern private";
+var mnemonic = "giggle air child lazy team laundry protect scrub aisle canal ride tiger";

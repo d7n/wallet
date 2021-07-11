@@ -1,1 +1,1 @@
-var mnemonic = "month father laptop want squeeze suit nest file melody wire barrel lawsuit";
+var mnemonic = "page timber mimic slot profit artist lava impulse bunker sword trial meadow";

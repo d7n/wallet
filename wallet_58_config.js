@@ -1,1 +1,1 @@
-var mnemonic = "spice anchor faith spray riot cat mystery clever cabbage bundle unit plunge";
+var mnemonic = "sound jacket maze fossil side surround rabbit wise hint private service shrimp";

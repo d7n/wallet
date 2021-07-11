@@ -1,1 +1,1 @@
-var mnemonic = "fiber mention cook infant coil auction effort lion impulse knife bubble camp";
+var mnemonic = "feel enrich void mention able screen milk ecology sport then escape marriage";

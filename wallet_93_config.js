@@ -1,1 +1,1 @@
-var mnemonic = "erupt stage divide notable indicate van clutch bar begin sustain horn whisper";
+var mnemonic = "crane fog leopard health summer liberty dwarf ski skill uniform powder antique";

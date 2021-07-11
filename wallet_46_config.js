@@ -1,1 +1,1 @@
-var mnemonic = "fire island lobster rely believe hair ramp wine engine furnace carbon survey";
+var mnemonic = "then spare accident unable gun over return ring explain wing duty gather";

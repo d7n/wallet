@@ -1,1 +1,1 @@
-var mnemonic = "clinic liar fury door ability false shrug mix essence employ novel actor";
+var mnemonic = "popular review glue control south attend economy into random obey debris chief";

@@ -1,1 +1,1 @@
-var mnemonic = "chase human update autumn breeze ladder fat crash ghost allow logic sell";
+var mnemonic = "obscure museum differ banner absorb impact shift holiday surprise confirm struggle fiber";

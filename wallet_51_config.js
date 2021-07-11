@@ -1,1 +1,1 @@
-var mnemonic = "choose bullet wave mango energy nothing final announce popular canoe mask insane";
+var mnemonic = "plastic aim behave apple check track alpha patrol cattle cup dilemma wild";

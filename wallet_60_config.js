@@ -1,1 +1,1 @@
-var mnemonic = "you stamp romance virus cinnamon outside casual abuse oyster brief spin prosper";
+var mnemonic = "divide asset lens gossip melt loop sugar rapid stove cloud hour casual";

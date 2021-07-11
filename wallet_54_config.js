@@ -1,1 +1,1 @@
-var mnemonic = "weather ugly route need grass domain focus aware taste torch sail toe";
+var mnemonic = "renew furnace clock action horn lonely sample diamond turtle emotion round destroy";

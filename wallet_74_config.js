@@ -1,1 +1,1 @@
-var mnemonic = "spread tomato twist venue bridge barrel praise cry canal vintage copy room";
+var mnemonic = "twice island clarify hard keep list job beach ride bless question client";

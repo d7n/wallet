@@ -1,1 +1,1 @@
-var mnemonic = "amount state burst foil payment sustain awake raven gym weird dance snow";
+var mnemonic = "order come expire vanish female favorite toddler glove riot follow distance anchor";

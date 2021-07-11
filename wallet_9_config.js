@@ -1,1 +1,1 @@
-var mnemonic = "skull income tip laundry sound hen business fish input turn kitten start";
+var mnemonic = "already subway will skill first motion lawsuit can domain hurdle step vote";

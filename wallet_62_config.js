@@ -1,1 +1,1 @@
-var mnemonic = "tuition shield minute solve holiday meat slender before flush federal gorilla turkey";
+var mnemonic = "solve keen crew legal arrow radar wealth joke banana siege coral purity";

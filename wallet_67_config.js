@@ -1,1 +1,1 @@
-var mnemonic = "ensure candy over census coral sentence digital grass level evidence correct other";
+var mnemonic = "quick negative mesh core knee obvious switch birth shoulder call unit color";

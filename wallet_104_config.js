@@ -1,1 +1,1 @@
-var mnemonic = "economy myth gospel merry diet cotton mean tissue rebuild share better dentist";
+var mnemonic = "police razor awkward battle layer tray pumpkin leisure you smart fiscal bone";

@@ -1,1 +1,1 @@
-var mnemonic = "try stumble dentist ignore elite initial genuine jazz coast upon escape cream";
+var mnemonic = "more machine hello grit cup misery silent fee bamboo endless pretty album";

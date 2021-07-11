@@ -1,1 +1,1 @@
-var mnemonic = "divide clock vault fog term side cactus reveal kitchen evolve hammer salad";
+var mnemonic = "kind already surge easy brand left genuine nuclear baby since swallow admit";
