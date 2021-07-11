@@ -1,1 +1,1 @@
-var mnemonic = "crucial scene mango grief diagram rely rally provide draw broom tray famous";
+var mnemonic = "tonight lake special sleep canyon appear father project rally pave buffalo april";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange strike suspect scissors gadget display behave cluster space crack sentence barrel";
+var mnemonic = "engine taste multiply marble negative pizza drum nephew logic grant device cinnamon";

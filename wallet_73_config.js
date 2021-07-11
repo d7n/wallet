@@ -1,1 +1,1 @@
-var mnemonic = "spy assist powder season economy school bind erosion wild property coyote above";
+var mnemonic = "fork power certain solid rack bus sound valley exhaust nature useful force";

@@ -1,1 +1,1 @@
-var mnemonic = "include layer they device alien diary deer eight victory box slender thought";
+var mnemonic = "debate sell gold maze combine core acid camera bag trend discover angry";

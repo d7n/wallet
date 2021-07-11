@@ -1,1 +1,1 @@
-var mnemonic = "grain unfair speed course raw mean ill this join orbit plastic cheap";
+var mnemonic = "enable then ritual aisle course keep wedding domain vast soldier silent elevator";

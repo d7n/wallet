@@ -1,1 +1,1 @@
-var mnemonic = "flee equip urge thunder diary clever bacon crucial card skull coach render";
+var mnemonic = "wealth seek eager slide scout car try evil return squirrel kick urban";

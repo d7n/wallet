@@ -1,1 +1,1 @@
-var mnemonic = "vibrant license tortoise town sweet crazy accident creek curve trial upper syrup";
+var mnemonic = "leader emerge start ocean helmet raccoon hidden six tell wagon cycle input";

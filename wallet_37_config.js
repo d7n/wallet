@@ -1,1 +1,1 @@
-var mnemonic = "rubber census road brick stairs medal home mammal behave odor ahead special";
+var mnemonic = "crew verb elephant method seed dose machine clump hobby height pair either";

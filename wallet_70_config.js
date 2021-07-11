@@ -1,1 +1,1 @@
-var mnemonic = "oil dragon suspect enjoy best acoustic drip fire fix elephant certain art";
+var mnemonic = "neck kite radio alien east north polar era visa cake tuna green";

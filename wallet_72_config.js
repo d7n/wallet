@@ -1,1 +1,1 @@
-var mnemonic = "woman cactus abstract fold time media cricket clever switch thought summer spend";
+var mnemonic = "gun member palace spoil female panther champion fatal verify hollow have window";

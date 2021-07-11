@@ -1,1 +1,1 @@
-var mnemonic = "endorse genius rotate buffalo indicate maze length mango sting grace suggest enough";
+var mnemonic = "hazard gold various venue barrel suffer carbon then tag below glue raven";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble more certain horse struggle prison slab slim novel border parrot cute";
+var mnemonic = "office kangaroo device reopen salt rigid desert erosion flip rain unlock decide";

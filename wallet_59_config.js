@@ -1,1 +1,1 @@
-var mnemonic = "expand into squeeze bracket carry daughter ecology resist toy plate picnic sand";
+var mnemonic = "tuna twist enter office rough speak royal crush junior relax divorce soft";

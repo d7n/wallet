@@ -1,1 +1,1 @@
-var mnemonic = "cancel anchor brief action rule cruise tomato walk exhaust copper certain pulp";
+var mnemonic = "library false tilt pause device limit swap tribe extend meat tiny olive";

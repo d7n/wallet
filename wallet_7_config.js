@@ -1,1 +1,1 @@
-var mnemonic = "piece praise artist book evolve swap oyster note now thank tone gap";
+var mnemonic = "lunch lucky tray ice seminar misery march web notice envelope radar memory";

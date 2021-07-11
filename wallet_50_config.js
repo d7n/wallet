@@ -1,1 +1,1 @@
-var mnemonic = "repair rifle hip galaxy kangaroo gap unhappy cash put grass castle result";
+var mnemonic = "brave leopard wait dune city symbol chat food gather potato grace million";

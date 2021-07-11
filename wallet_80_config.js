@@ -1,1 +1,1 @@
-var mnemonic = "athlete picnic liquid gas warrior fly example access carbon pride crime fiction";
+var mnemonic = "tone disorder flee slim urge shrug lobster budget warm fee orphan cabbage";

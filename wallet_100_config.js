@@ -1,1 +1,1 @@
-var mnemonic = "cradle torch spray general antenna angry witness hard width glide dress vicious";
+var mnemonic = "help genius image lens zebra remain venue lounge edit nation language rich";

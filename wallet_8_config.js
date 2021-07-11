@@ -1,1 +1,1 @@
-var mnemonic = "step great final fabric agree friend hip glance permit tuna level oppose";
+var mnemonic = "rate acid effort garden best earth issue jewel sea shadow width craft";

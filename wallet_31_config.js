@@ -1,1 +1,1 @@
-var mnemonic = "rail bonus merge stamp boil desk swamp noble offer video off assault";
+var mnemonic = "peanut cube latin divorce insect imitate brown jungle trend panic clinic grocery";

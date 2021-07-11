@@ -1,1 +1,1 @@
-var mnemonic = "office job exclude iron oblige trip nerve oil vicious desert grant travel";
+var mnemonic = "lawn gather zebra stay setup duty total mammal model economy stadium name";

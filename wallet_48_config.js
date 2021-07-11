@@ -1,1 +1,1 @@
-var mnemonic = "faculty smooth treat post assume water pole busy begin raise toward country";
+var mnemonic = "agree veteran wagon swift series change scare unveil keen patrol cannon still";

@@ -1,1 +1,1 @@
-var mnemonic = "thing genre inhale connect morning dove maid monster hand middle consider bacon";
+var mnemonic = "grain master example gravity blast category sustain city stomach engine seminar dress";

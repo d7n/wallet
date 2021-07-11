@@ -1,1 +1,1 @@
-var mnemonic = "tower doctor void turn urge future dutch camera maple account pottery shoot";
+var mnemonic = "damp luxury topic visual antique symptom unit rare run vendor toddler roast";

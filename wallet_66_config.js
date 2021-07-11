@@ -1,1 +1,1 @@
-var mnemonic = "charge flag double atom dutch cotton harvest extra spare hobby detail random";
+var mnemonic = "property youth inside donkey capable topple spell beyond topic body fiber easy";

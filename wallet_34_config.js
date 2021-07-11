@@ -1,1 +1,1 @@
-var mnemonic = "unveil flee gain taste harbor access elite chat recall marriage rally other";
+var mnemonic = "service erupt clip million valley surface quote coffee august lawsuit struggle sample";

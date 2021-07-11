@@ -1,1 +1,1 @@
-var mnemonic = "double cube elevator cliff sunny metal pepper mouse soda code impose stem";
+var mnemonic = "marine powder lecture enhance coil expand royal cushion such ice trade correct";

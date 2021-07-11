@@ -1,1 +1,1 @@
-var mnemonic = "review anchor valley unable advice install syrup alone zoo melody party bridge";
+var mnemonic = "empty ability engage issue rough panic reduce fortune cousin basic taxi gun";

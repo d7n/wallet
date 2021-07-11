@@ -1,1 +1,1 @@
-var mnemonic = "pink raccoon collect throw abstract brown ridge cheese ahead wealth coach vicious";
+var mnemonic = "term casual reward hawk orient pull morning crazy waste napkin essay elder";

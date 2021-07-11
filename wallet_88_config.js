@@ -1,1 +1,1 @@
-var mnemonic = "advice future paddle enemy crop pizza piece stumble giant embark rule tumble";
+var mnemonic = "sure better file drill maze chair soft jar misery joy cactus comic";

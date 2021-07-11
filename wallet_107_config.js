@@ -1,1 +1,1 @@
-var mnemonic = "learn card loop benefit give morning boring chief clock excite explain chuckle";
+var mnemonic = "citizen where myself apology erosion once vintage struggle gather labor drip impose";

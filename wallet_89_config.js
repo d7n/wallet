@@ -1,1 +1,1 @@
-var mnemonic = "vintage pet tip coffee route amount powder frost iron weird inhale sphere";
+var mnemonic = "fence wrap diesel stone disagree asthma nasty front noble tortoise toe omit";

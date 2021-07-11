@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow mimic boy claim right timber palace cheap cart cereal fine holiday";
+var mnemonic = "wrong various rent first usual camp knife what mansion wise all other";

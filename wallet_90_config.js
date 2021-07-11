@@ -1,1 +1,1 @@
-var mnemonic = "champion heavy elite welcome virtual nasty expand knee derive antique main valley";
+var mnemonic = "stem bachelor blanket scheme episode better summer giraffe myth twist slogan sibling";

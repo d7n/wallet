@@ -1,1 +1,1 @@
-var mnemonic = "label tobacco siren master master immune eyebrow mandate embody key comic magic";
+var mnemonic = "wash legend father valley device mom access thing evil neglect quantum tube";

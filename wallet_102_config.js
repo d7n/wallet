@@ -1,1 +1,1 @@
-var mnemonic = "ball bullet hello today man sea jaguar cook alone acoustic novel myth";
+var mnemonic = "hope color dumb floor address rival august cinnamon weapon congress still worry";

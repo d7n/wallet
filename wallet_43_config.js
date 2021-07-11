@@ -1,1 +1,1 @@
-var mnemonic = "limit annual combine gloom stairs black south ensure noodle battle bunker area";
+var mnemonic = "verb cherry tool uniform raw defense silk exercise race ramp always rose";

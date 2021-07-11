@@ -1,1 +1,1 @@
-var mnemonic = "brother resist armor dentist sail attract fatal dress candy convince spare ketchup";
+var mnemonic = "transfer change edge embrace zoo when unfold magnet ivory hole hollow viable";

@@ -1,1 +1,1 @@
-var mnemonic = "version sniff logic knife bunker cricket scatter hero round mandate swing monkey";
+var mnemonic = "jaguar health just emotion act label garden black cry express history welcome";

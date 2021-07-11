@@ -1,1 +1,1 @@
-var mnemonic = "yard useless exotic kitchen happy old fault lamp wild sister grunt video";
+var mnemonic = "fatal logic theory manual exercise pool produce now green movie page kind";

@@ -1,1 +1,1 @@
-var mnemonic = "physical sphere surprise onion already glove aware topple blur lake disagree october";
+var mnemonic = "calm bean lizard scale donkey cement drive transfer forum canal cake season";

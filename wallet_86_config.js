@@ -1,1 +1,1 @@
-var mnemonic = "palm excite decorate apple piano man valley stove absent absent work jar";
+var mnemonic = "ticket subject gorilla until fault flag hand wise play also cause dust";

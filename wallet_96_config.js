@@ -1,1 +1,1 @@
-var mnemonic = "image execute sleep film amateur cousin cliff throw fame funny riot trouble";
+var mnemonic = "speak soap caught chair require small power save gas inner remember track";

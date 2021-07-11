@@ -1,1 +1,1 @@
-var mnemonic = "minute hello million grow garden pigeon sibling draft little around cream test";
+var mnemonic = "lazy wedding ancient tray recipe flat give cash machine trigger pluck else";

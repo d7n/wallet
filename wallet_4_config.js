@@ -1,1 +1,1 @@
-var mnemonic = "firm orphan panic build price already myth crystal subway wild knife license";
+var mnemonic = "window pave gate snow iron mixture include bunker report panic sign trial";

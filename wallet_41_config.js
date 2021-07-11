@@ -1,1 +1,1 @@
-var mnemonic = "aware elephant rhythm harbor cube situate sister pond senior average venue ramp";
+var mnemonic = "harbor trigger pen reward warfare state wheat drink photo much comic stock";

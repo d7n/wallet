@@ -1,1 +1,1 @@
-var mnemonic = "subway legal dash have exact present hood twist autumn march miss inside";
+var mnemonic = "inquiry gesture rocket scheme believe lumber type sponsor film usage caught favorite";

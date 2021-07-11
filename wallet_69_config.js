@@ -1,1 +1,1 @@
-var mnemonic = "crazy major knife air identify wide gain unlock joy minimum honey dynamic";
+var mnemonic = "casino under scorpion myth spend wish wet task erase buyer zoo rely";

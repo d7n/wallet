@@ -1,1 +1,1 @@
-var mnemonic = "strong afford cotton review economy cool spawn siren animal drastic tourist plastic";
+var mnemonic = "limit never brain cliff vocal right dial squeeze shield lizard donor rabbit";

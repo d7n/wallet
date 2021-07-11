@@ -1,1 +1,1 @@
-var mnemonic = "century chair accident caught man rookie style aim put engage cherry horn";
+var mnemonic = "tank syrup face estate call scatter interest deliver position album step slow";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme army hard ticket useless wage proud buzz surface rule prepare stable";
+var mnemonic = "among orient output tattoo turkey gold grant derive caution save damage you";

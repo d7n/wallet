@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog license antenna bar bar curtain couch sister limit inform forest budget";
+var mnemonic = "meadow letter color during caught ask render session express curve clarify behind";

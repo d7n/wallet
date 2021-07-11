@@ -1,1 +1,1 @@
-var mnemonic = "place boy income wedding evil cattle service embody crystal trumpet myself mistake";
+var mnemonic = "sentence choice near stay upset soccer market fluid draft gaze match weird";

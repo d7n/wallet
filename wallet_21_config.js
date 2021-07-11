@@ -1,1 +1,1 @@
-var mnemonic = "total stock beef december hockey differ proud raise opinion cable faith bless";
+var mnemonic = "reunion usage motion mix defy distance ill harvest feature reform sphere under";

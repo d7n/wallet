@@ -1,1 +1,1 @@
-var mnemonic = "audit fatigue box help already balcony camera clog online evil name plug";
+var mnemonic = "demise rib chalk shop produce pattern reopen response stone title atom amount";

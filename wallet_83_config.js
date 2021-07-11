@@ -1,1 +1,1 @@
-var mnemonic = "tree olive blue amount jump pear cinnamon ice city visual festival assume";
+var mnemonic = "luggage robust cycle depend bomb adjust wire sorry reveal wreck water student";

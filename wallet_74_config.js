@@ -1,1 +1,1 @@
-var mnemonic = "lesson run stadium online garage tomato special very pumpkin retreat gun limb";
+var mnemonic = "meat nurse pill zero include obvious kitchen suspect clown denial army word";

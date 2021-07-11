@@ -1,1 +1,1 @@
-var mnemonic = "meadow card wife certain traffic happy news fringe wedding derive gossip door";
+var mnemonic = "luggage gym umbrella medal enrich solve roof whisper salmon ticket inner blanket";

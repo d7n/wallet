@@ -1,1 +1,1 @@
-var mnemonic = "giant ivory post blast vacant panic glance obscure tell century hobby attract";
+var mnemonic = "sock birth toast cotton rookie cannon toilet isolate update dove whisper couple";

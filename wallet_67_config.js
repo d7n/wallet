@@ -1,1 +1,1 @@
-var mnemonic = "update mango please forward anger hire casual cabbage observe repeat bid scatter";
+var mnemonic = "tilt mystery raccoon hundred crime jeans vocal melody soup can aspect either";

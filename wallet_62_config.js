@@ -1,1 +1,1 @@
-var mnemonic = "hold stairs vote maple board column silk enact that beef pause minor";
+var mnemonic = "asset ethics evil result salmon universe system fine bunker hundred express spot";

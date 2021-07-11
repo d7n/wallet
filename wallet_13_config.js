@@ -1,1 +1,1 @@
-var mnemonic = "kitchen weekend detect weasel hospital giraffe topple negative month heart monitor select";
+var mnemonic = "connect bone cheese upgrade size scatter seek city clarify twin east cool";

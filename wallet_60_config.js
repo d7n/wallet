@@ -1,1 +1,1 @@
-var mnemonic = "innocent notable gaze reject usage daring always more ostrich trap credit mind";
+var mnemonic = "camp slogan angry cradle turtle problem clever girl element ethics analyst end";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol swim fan deliver daughter arrow tide bonus medal pledge fit secret";
+var mnemonic = "million taxi obscure dentist assault garbage bachelor easily position general behind truth";

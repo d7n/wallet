@@ -1,1 +1,1 @@
-var mnemonic = "captain sibling engine soldier popular task column view food arena essay various";
+var mnemonic = "save melody genuine dilemma before print pupil slice liberty hold olive estate";

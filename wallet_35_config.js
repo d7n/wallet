@@ -1,1 +1,1 @@
-var mnemonic = "impose basic gap ask name detail coin admit double seven pet slice";
+var mnemonic = "tomorrow elite resource dance magic remind humor stock olympic soldier tumble jelly";

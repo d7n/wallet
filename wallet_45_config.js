@@ -1,1 +1,1 @@
-var mnemonic = "gold nerve couple permit phrase matter fury muffin grace where tumble dinner";
+var mnemonic = "ask mimic subway copper sponsor walnut obey column visual coil sauce analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "process skate inspire lift talk giant industry manage ladder attitude fluid deputy";
+var mnemonic = "drama current pear social write candy flip planet beef clarify draw doll";

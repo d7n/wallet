@@ -1,1 +1,1 @@
-var mnemonic = "engine develop pledge pet staff family want cigar exhaust garlic truly soda";
+var mnemonic = "radio gym culture small sure speak invite ritual equal tide keep unaware";

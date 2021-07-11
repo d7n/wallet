@@ -1,1 +1,1 @@
-var mnemonic = "modify soap battle radio path find swim lonely trip current copper clever";
+var mnemonic = "helmet gallery diet culture wrestle image always just turtle chicken victory appear";

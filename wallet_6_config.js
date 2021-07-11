@@ -1,1 +1,1 @@
-var mnemonic = "inquiry kitten urge shoe exotic autumn patch gloom suffer camp ostrich balance";
+var mnemonic = "rail trip ramp brave neutral lawsuit inner obey winner tank come erosion";

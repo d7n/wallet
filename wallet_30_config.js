@@ -1,1 +1,1 @@
-var mnemonic = "critic ancient glow trust question taxi prison coast health yellow wedding pair";
+var mnemonic = "celery inside decade please monkey mistake next just section message mom rhythm";

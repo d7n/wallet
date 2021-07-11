@@ -1,1 +1,1 @@
-var mnemonic = "animal picnic tube dynamic because paper alpha innocent roast sheriff chronic music";
+var mnemonic = "repeat review lemon nut over claim grace delay jazz regret pool immense";

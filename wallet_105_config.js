@@ -1,1 +1,1 @@
-var mnemonic = "loud couple snap thumb method mansion interest rug common trigger switch suggest";
+var mnemonic = "oil lake trim fatigue exile ignore prevent pulse able quality brave error";

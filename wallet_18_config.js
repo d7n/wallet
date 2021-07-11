@@ -1,1 +1,1 @@
-var mnemonic = "verb denial come water dream rebel coin circle link remind wagon guess";
+var mnemonic = "kind upgrade mobile oil globe sweet celery dismiss beach desert scale bid";

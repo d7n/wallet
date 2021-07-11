@@ -1,1 +1,1 @@
-var mnemonic = "satisfy tuna valid stumble crater trade initial pistol protect motion slender betray";
+var mnemonic = "burst undo prison credit ready shell thumb clever swap economy exhibit wrong";

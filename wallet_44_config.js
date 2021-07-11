@@ -1,1 +1,1 @@
-var mnemonic = "worth cherry cream drastic retire mix daring indicate action excuse scrub turtle";
+var mnemonic = "measure element want easy frozen floor picnic giggle box soul smoke genuine";

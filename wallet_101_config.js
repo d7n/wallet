@@ -1,1 +1,1 @@
-var mnemonic = "pact reveal affair kidney decline combine kind brass intact toilet client fat";
+var mnemonic = "next weapon annual slide sun never school portion lend range blush female";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp old observe need wink output follow define voyage ugly search scorpion";
+var mnemonic = "jealous resist rival wall reduce design portion mule metal account ridge unfair";

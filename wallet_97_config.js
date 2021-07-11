@@ -1,1 +1,1 @@
-var mnemonic = "sphere silent bone canvas clean lady spray genuine venue view guilt there";
+var mnemonic = "burden afraid drink garden basket latin dwarf shy staff maximum beef cage";

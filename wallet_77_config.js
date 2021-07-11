@@ -1,1 +1,1 @@
-var mnemonic = "raccoon satoshi tiger try wine include explain innocent kite puzzle olympic tired";
+var mnemonic = "disease frown exit tone best language upgrade oxygen cage bind claim energy";

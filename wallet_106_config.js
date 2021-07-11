@@ -1,1 +1,1 @@
-var mnemonic = "tip lottery lizard village crowd desk flush engage mixture pottery parade case";
+var mnemonic = "uncle broccoli dune pledge bronze august film drift snow opera become script";

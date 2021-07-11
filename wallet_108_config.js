@@ -1,1 +1,1 @@
-var mnemonic = "crime quality sea bulk syrup picnic water guitar series consider artefact adult";
+var mnemonic = "satisfy similar connect horse street poverty child pride sudden devote total purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "other marble obtain amazing sick goat parent opera luggage control spike frozen";
+var mnemonic = "fatal order advance swarm walnut aerobic coin tip undo flock enrich protect";
