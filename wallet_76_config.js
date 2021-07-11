@@ -1,1 +1,1 @@
-var mnemonic = "suit obtain coach canal forest obscure ill parade dress crush cargo orbit";
+var mnemonic = "two honey asset increase orbit solution rich arm casino work control public";

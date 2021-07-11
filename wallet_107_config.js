@@ -1,1 +1,1 @@
-var mnemonic = "wing real solve kitten trash enact swallow aim dynamic industry month size";
+var mnemonic = "prevent click glide abuse mind door grow sleep scheme gas lift train";

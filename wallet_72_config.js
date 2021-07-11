@@ -1,1 +1,1 @@
-var mnemonic = "moon census tattoo harbor pause tone spoil rate captain limit boring any";
+var mnemonic = "pepper slow milk supply fuel virtual salmon deposit used pumpkin dial win";

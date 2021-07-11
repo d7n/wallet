@@ -1,1 +1,1 @@
-var mnemonic = "warfare cupboard begin enact enable athlete fold crucial scrub situate detail panic";
+var mnemonic = "siren fame usage during night crop outdoor vibrant lady favorite rib trust";

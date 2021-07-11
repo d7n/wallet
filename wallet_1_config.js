@@ -1,1 +1,1 @@
-var mnemonic = "addict service good multiply junk security bulk crack invite brush science divorce";
+var mnemonic = "order over black summer minimum dove miss tiger slow brisk initial just";

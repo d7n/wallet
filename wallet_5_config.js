@@ -1,1 +1,1 @@
-var mnemonic = "inhale home twice exit live distance repeat mail story season mad gain";
+var mnemonic = "anger soldier major attract insect chef receive tongue slender fiction pyramid stamp";

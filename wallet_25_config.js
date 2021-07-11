@@ -1,1 +1,1 @@
-var mnemonic = "fee repeat nasty broccoli rigid defense erase camera legal antenna grass market";
+var mnemonic = "powder damp turtle about twenty shallow dream body satoshi brick wing enact";

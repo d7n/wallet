@@ -1,1 +1,1 @@
-var mnemonic = "tumble wreck such price inquiry once paper share ask ripple estate island";
+var mnemonic = "tunnel must melt deposit anxiety genius cloth couch caution forest oblige hazard";

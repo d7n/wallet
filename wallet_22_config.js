@@ -1,1 +1,1 @@
-var mnemonic = "guide shoe wagon blame shop flat note client meat girl pet girl";
+var mnemonic = "index drop layer engage subway execute author piece decorate prison explain attack";

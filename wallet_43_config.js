@@ -1,1 +1,1 @@
-var mnemonic = "sunset spatial figure notable tube skull wear logic grace afford clock raw";
+var mnemonic = "banner upon broom casino remove garbage lend pride old write vintage twelve";

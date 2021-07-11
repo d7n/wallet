@@ -1,1 +1,1 @@
-var mnemonic = "reopen neither regular hope tortoise valid reunion tonight debate spread hockey type";
+var mnemonic = "vast busy machine move onion dress catch depend deny already unable olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "capable author power frequent neck pupil erase exact phrase hamster ride lift";
+var mnemonic = "cash wrap blue sad monkey crush damage miracle visa upset divide prepare";

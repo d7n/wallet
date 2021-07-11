@@ -1,1 +1,1 @@
-var mnemonic = "diagram manage street this wait smart sheriff minute park group cook antique";
+var mnemonic = "opera desk craft tip heart token light spoil sunset number borrow wall";

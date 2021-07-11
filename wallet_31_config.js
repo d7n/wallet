@@ -1,1 +1,1 @@
-var mnemonic = "guess hedgehog mouse chest media urge thrive swarm demise liquid empower toss";
+var mnemonic = "slight fame chair grace street problem angry viable lava thunder symptom modify";

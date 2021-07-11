@@ -1,1 +1,1 @@
-var mnemonic = "path affair when salt program crush reflect few student ramp film buddy";
+var mnemonic = "tone razor scorpion shrug thing draft soap scan joy puzzle remind mercy";

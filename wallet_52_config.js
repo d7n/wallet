@@ -1,1 +1,1 @@
-var mnemonic = "twin joy despair later adjust venture kiwi twelve thing rough one spread";
+var mnemonic = "hurry loan atom steak arch myself young elephant chef vicious method throw";

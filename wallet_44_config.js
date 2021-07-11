@@ -1,1 +1,1 @@
-var mnemonic = "moon pizza wink abstract ribbon whisper main gas giant then quantum perfect";
+var mnemonic = "supreme nothing rely garbage scorpion stock mix kick satisfy another album pottery";

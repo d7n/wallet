@@ -1,1 +1,1 @@
-var mnemonic = "magnet street suit mango tree upon cabin decrease cube carpet spoil blast";
+var mnemonic = "neutral core phrase team pioneer runway clump region general effort impose media";

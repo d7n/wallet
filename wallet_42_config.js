@@ -1,1 +1,1 @@
-var mnemonic = "faculty dad winter estate plunge enforce island rapid liar around aunt clean";
+var mnemonic = "viable zebra gym toast champion solid level sunset damage hub pluck wrist";

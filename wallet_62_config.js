@@ -1,1 +1,1 @@
-var mnemonic = "rent chapter pave section pull choose cabin inmate buddy also orange identify";
+var mnemonic = "produce hub melody silver patient blouse orphan inner stock peace alpha effort";

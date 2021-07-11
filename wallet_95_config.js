@@ -1,1 +1,1 @@
-var mnemonic = "pencil bargain vast govern impact topic bench book grocery often unlock world";
+var mnemonic = "nice renew index certain drift negative beauty dress observe amazing legal limit";

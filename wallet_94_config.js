@@ -1,1 +1,1 @@
-var mnemonic = "december rubber laptop clever evidence museum aspect innocent surprise bundle gadget holiday";
+var mnemonic = "blur polar sudden weasel proof snow nasty paddle rule dumb flip decline";

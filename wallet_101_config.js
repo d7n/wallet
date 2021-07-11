@@ -1,1 +1,1 @@
-var mnemonic = "visa destroy define hen chaos police there mirror limb nerve volcano tower";
+var mnemonic = "radio primary river budget zero budget stamp uniform exercise voyage position obscure";

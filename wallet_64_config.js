@@ -1,1 +1,1 @@
-var mnemonic = "prize country silly episode boss crash tongue awful teach will battle huge";
+var mnemonic = "kitten impulse focus put cradle raven siren flock boil very rabbit emotion";

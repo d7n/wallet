@@ -1,1 +1,1 @@
-var mnemonic = "strategy mistake craft knife hurry nasty evidence guard habit little tonight climb";
+var mnemonic = "stomach raccoon stone solution napkin brick divide kitten soul room vacuum inherit";

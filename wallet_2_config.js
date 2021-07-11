@@ -1,1 +1,1 @@
-var mnemonic = "basket youth artwork original grape sweet lazy kitten odor view unaware worth";
+var mnemonic = "script path dune inform girl predict water stage unique throw dizzy morning";

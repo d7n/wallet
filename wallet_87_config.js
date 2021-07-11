@@ -1,1 +1,1 @@
-var mnemonic = "dawn lab must friend obey hundred hotel lava action side guard account";
+var mnemonic = "raven noodle snow fish cherry jealous neither love put grunt powder oval";

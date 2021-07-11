@@ -1,1 +1,1 @@
-var mnemonic = "praise permit element will firm shoot cigar twelve dinosaur open bonus yard";
+var mnemonic = "allow excuse wheat this adjust rigid camp lecture brass meat layer remove";

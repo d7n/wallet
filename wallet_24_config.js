@@ -1,1 +1,1 @@
-var mnemonic = "foot loan trick envelope program labor together wealth valve point crew menu";
+var mnemonic = "kiwi asthma steel diamond disorder age repeat craft palace husband loyal shuffle";

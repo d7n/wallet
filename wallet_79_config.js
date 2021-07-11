@@ -1,1 +1,1 @@
-var mnemonic = "among pulse smart reunion goose axis antenna harbor live youth weapon scrap";
+var mnemonic = "rabbit spell short public gym consider crouch invite attend injury grace nasty";

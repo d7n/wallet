@@ -1,1 +1,1 @@
-var mnemonic = "jar female obscure repair toilet swear slim pole gold salad air sentence";
+var mnemonic = "month prefer wait mistake squeeze treat holiday frequent pet base lunch tumble";

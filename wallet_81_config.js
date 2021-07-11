@@ -1,1 +1,1 @@
-var mnemonic = "ahead tornado tattoo pioneer moral ivory lava exist brain crop two forum";
+var mnemonic = "stool okay employ such glow social orphan cross notice sense fall chase";

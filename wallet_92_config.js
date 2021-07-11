@@ -1,1 +1,1 @@
-var mnemonic = "short peanut cream mountain people gesture taxi glove design hurt ill industry";
+var mnemonic = "wool praise void hold leisure purpose case again machine speed fall survey";

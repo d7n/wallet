@@ -1,1 +1,1 @@
-var mnemonic = "boring morning entry base mail debate trap universe achieve flush zero code";
+var mnemonic = "kit powder dad math virtual primary orient stable else share dry sphere";

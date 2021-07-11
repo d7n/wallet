@@ -1,1 +1,1 @@
-var mnemonic = "emotion solution print depend lunch divert own embody club emerge high toe";
+var mnemonic = "club stay recall echo island host square pioneer write lounge elbow pull";

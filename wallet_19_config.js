@@ -1,1 +1,1 @@
-var mnemonic = "music reunion dignity repair broken under catalog unveil pole normal domain wave";
+var mnemonic = "ridge mutual boost grain road brick stick where fly around repeat route";

@@ -1,1 +1,1 @@
-var mnemonic = "response crazy cabbage vague exile exhibit gun canyon polar zone busy barely";
+var mnemonic = "screen open salmon toddler atom entry best ostrich enlist problem tower staff";

@@ -1,1 +1,1 @@
-var mnemonic = "radio deal clap cliff milk secret student connect hobby lava deer tiger";
+var mnemonic = "couple awesome asset tornado tiger north dawn when conduct drum wrap river";

@@ -1,1 +1,1 @@
-var mnemonic = "next cloud load raise swamp follow notice grunt happy borrow they issue";
+var mnemonic = "coach rare mouse castle inside balance useful laundry six bulk admit motor";

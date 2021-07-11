@@ -1,1 +1,1 @@
-var mnemonic = "border cactus level gun child hub lucky health catch assume very dinner";
+var mnemonic = "bench tube motion ketchup drive head case police stumble ripple harvest deliver";

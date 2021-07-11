@@ -1,1 +1,1 @@
-var mnemonic = "infant siege trophy multiply sort base exit cargo rude farm sponsor decade";
+var mnemonic = "rather aerobic sample badge hover shoot crumble music front nice list desk";

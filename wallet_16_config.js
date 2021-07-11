@@ -1,1 +1,1 @@
-var mnemonic = "valley age tunnel unaware scene flavor ritual ketchup bamboo broken again plastic";
+var mnemonic = "sponsor giggle gloom snack jaguar wish science control crouch useful same sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "polar dizzy wear uncle again table recycle kid rain chicken tag metal";
+var mnemonic = "valve size order recycle oil sadness visit mimic ostrich gospel fox amount";

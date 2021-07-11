@@ -1,1 +1,1 @@
-var mnemonic = "spin heart myth plug walnut option injury grow stage job ginger copy";
+var mnemonic = "vessel profit few client cattle lab guide once spatial orient vehicle breeze";

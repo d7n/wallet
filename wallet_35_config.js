@@ -1,1 +1,1 @@
-var mnemonic = "figure pond six chalk glide tag dog second victory scout pulp glance";
+var mnemonic = "ice confirm quiz scale electric sheriff fury robust horror carbon crime column";

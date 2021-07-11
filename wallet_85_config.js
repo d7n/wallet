@@ -1,1 +1,1 @@
-var mnemonic = "index grid wolf reason ripple critic sugar all banner good fuel rude";
+var mnemonic = "grass trick crowd connect gallery laugh volcano diary echo there member motor";

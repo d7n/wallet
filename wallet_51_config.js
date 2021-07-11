@@ -1,1 +1,1 @@
-var mnemonic = "plastic invest safe cloud imitate ill ranch wise flower visual stool potato";
+var mnemonic = "review tissue extend fantasy route economy bus horror rib oyster work isolate";

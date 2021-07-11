@@ -1,1 +1,1 @@
-var mnemonic = "stereo walk weapon brain text taxi wisdom local gentle limb skate retreat";
+var mnemonic = "thumb basket decide laugh demise fashion ceiling net above spider please wet";

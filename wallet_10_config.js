@@ -1,1 +1,1 @@
-var mnemonic = "battle okay artwork pen amateur office dragon embrace neck theory garlic few";
+var mnemonic = "middle armed love truly sunset decade budget gasp balance awkward future leader";

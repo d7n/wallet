@@ -1,1 +1,1 @@
-var mnemonic = "genius butter side concert need gift balcony spend mistake gesture flame easily";
+var mnemonic = "ready scatter trouble spend slow present swallow doll lobster clever blade talk";

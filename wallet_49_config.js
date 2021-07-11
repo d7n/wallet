@@ -1,1 +1,1 @@
-var mnemonic = "addict title produce hybrid random elephant egg slush crash police gesture thought";
+var mnemonic = "stereo dismiss angry undo region paper great tell surprise hover modify tuition";

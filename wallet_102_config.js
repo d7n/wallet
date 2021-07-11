@@ -1,1 +1,1 @@
-var mnemonic = "term seven swim hungry busy window spatial reveal captain impulse diet rotate";
+var mnemonic = "hammer alcohol spare inherit spend spread mule own recipe little else exotic";

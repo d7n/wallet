@@ -1,1 +1,1 @@
-var mnemonic = "assist expect among slot tornado electric deal cotton device speak enrich cross";
+var mnemonic = "ladder chronic visit abstract ski shoot insect fly sun always device sword";

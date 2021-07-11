@@ -1,1 +1,1 @@
-var mnemonic = "category naive vibrant select solve offer maple cruel disorder cereal sample wolf";
+var mnemonic = "acid giant winner edit broom weekend brick dry gain target screen danger";

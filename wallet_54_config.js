@@ -1,1 +1,1 @@
-var mnemonic = "damage abandon replace protect stuff improve brass congress task answer initial receive";
+var mnemonic = "run piece panda basket eyebrow spot sorry ensure bless audit rain tube";

@@ -1,1 +1,1 @@
-var mnemonic = "box wire type tilt side blind various pride broken city differ ripple";
+var mnemonic = "fine grief final window math candy seven garage mobile achieve whisper walk";

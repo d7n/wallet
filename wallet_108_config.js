@@ -1,1 +1,1 @@
-var mnemonic = "cushion sense okay shove plug merry fury misery adjust anger assault bread";
+var mnemonic = "one okay earn fetch lawsuit refuse fringe save gown stay envelope reunion";

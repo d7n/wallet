@@ -1,1 +1,1 @@
-var mnemonic = "author wreck scale fatal belt loop govern limit cake general whip layer";
+var mnemonic = "garlic index diagram donor work arctic resource solve novel avocado hurdle amount";

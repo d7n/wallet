@@ -1,1 +1,1 @@
-var mnemonic = "build game account lumber core essay evil bamboo giraffe fever science result";
+var mnemonic = "palm manage glue transfer fragile swap half fiscal circle priority marriage zero";

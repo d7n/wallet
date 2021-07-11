@@ -1,1 +1,1 @@
-var mnemonic = "fashion lecture when stick comic portion solid adult clever brief capital verb";
+var mnemonic = "bundle market proud hockey account save cinnamon scorpion miss purse master wisdom";

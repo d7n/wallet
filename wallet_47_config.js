@@ -1,1 +1,1 @@
-var mnemonic = "ring among cradle razor jump trumpet bind vendor often fade ignore media";
+var mnemonic = "differ winter olympic child coconut clip blood tower skate gun source web";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle basic pledge decide chef suspect cute tortoise pyramid shop soon attack";
+var mnemonic = "worry wood radar swing speak cram build avocado large endless jar axis";

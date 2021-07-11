@@ -1,1 +1,1 @@
-var mnemonic = "gym edge clerk deposit loan shadow business swap planet glue arena cabin";
+var mnemonic = "victory pluck egg noodle below frequent man pitch drip dune phone clarify";

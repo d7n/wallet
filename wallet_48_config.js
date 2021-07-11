@@ -1,1 +1,1 @@
-var mnemonic = "tank maple suit liberty mouse prison suit multiply fog thing okay room";
+var mnemonic = "define clinic horror panda save tell scheme hen sea gauge awful arrive";

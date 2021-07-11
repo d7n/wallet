@@ -1,1 +1,1 @@
-var mnemonic = "corn spin hint decline lunch seminar off flight curtain save proud satoshi";
+var mnemonic = "conduct wool spell ask purity bubble until valid spider derive kick ship";

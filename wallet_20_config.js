@@ -1,1 +1,1 @@
-var mnemonic = "prevent among hundred north misery correct monster grain cart deer current rubber";
+var mnemonic = "feature follow melt peanut fever myself midnight captain spy latin diamond divert";

@@ -1,1 +1,1 @@
-var mnemonic = "wire drastic problem ball pistol offer check pill bullet echo snow book";
+var mnemonic = "december tag anchor text ignore broccoli action either connect valve warm sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "agent gallery wisdom involve scale rifle tragic loud point affair copper know";
+var mnemonic = "unfair venue olive gauge glove oblige setup fatal half laugh school lemon";

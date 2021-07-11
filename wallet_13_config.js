@@ -1,1 +1,1 @@
-var mnemonic = "tower panic tiger throw patch solid shy fan blossom creek review true";
+var mnemonic = "orbit focus fault extend picnic paper bread segment diary plug guess myth";

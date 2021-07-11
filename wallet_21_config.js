@@ -1,1 +1,1 @@
-var mnemonic = "whip myself fade then urban buyer reduce vivid match trigger smile sample";
+var mnemonic = "emerge outside heavy holiday wear immense include final crawl salmon chase evil";

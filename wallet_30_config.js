@@ -1,1 +1,1 @@
-var mnemonic = "unlock grace minute ice lesson envelope rotate bitter urge shed rabbit thumb";
+var mnemonic = "review picnic submit orbit fat quick cross glare middle crew feed outside";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel neutral ski install blood happy liberty surround hope return abstract suffer";
+var mnemonic = "example include box cheap shaft violin stomach viable shed remember omit grace";

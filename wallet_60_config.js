@@ -1,1 +1,1 @@
-var mnemonic = "craft intact shuffle teach drop crater submit cheese tissue sick tag cricket";
+var mnemonic = "spatial tiger soccer valid mandate talk kiss buddy van believe digital tank";

@@ -1,1 +1,1 @@
-var mnemonic = "surface carpet tool damage position limit draft wife disorder youth denial cross";
+var mnemonic = "torch tooth race moon manage equal goat mixture emerge trim remain riot";

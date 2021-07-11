@@ -1,1 +1,1 @@
-var mnemonic = "clutch tuition repair miss tide feel frog affair cactus coffee abstract roast";
+var mnemonic = "coach undo aim outdoor embrace stadium cave stereo ready gym obscure leopard";

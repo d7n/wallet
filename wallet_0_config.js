@@ -1,1 +1,1 @@
-var mnemonic = "defense ring crash feel envelope flat vague mammal palm use scrap summer";
+var mnemonic = "problem feature detail puzzle key click pioneer shuffle mirror rail crater canal";

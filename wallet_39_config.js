@@ -1,1 +1,1 @@
-var mnemonic = "hole slot best artefact web morning topple parent way lazy zoo blast";
+var mnemonic = "prefer patrol slab half report involve impact fringe trust spice hair melody";

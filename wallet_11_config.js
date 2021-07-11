@@ -1,1 +1,1 @@
-var mnemonic = "border anchor dismiss what crater sleep stomach sea pudding core bridge nerve";
+var mnemonic = "super monkey lizard flight require harbor duck segment earn upgrade protect teach";

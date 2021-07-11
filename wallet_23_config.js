@@ -1,1 +1,1 @@
-var mnemonic = "wasp valve able planet fresh sadness glove total make attract mammal wet";
+var mnemonic = "stick elephant double open coral answer flower battle legend avoid panic video";

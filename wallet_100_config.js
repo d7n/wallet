@@ -1,1 +1,1 @@
-var mnemonic = "tower melt umbrella hurt stamp pottery damp ladder habit annual can vintage";
+var mnemonic = "ceiling ribbon aerobic catalog quarter pistol elevator real market myself hold depend";

@@ -1,1 +1,1 @@
-var mnemonic = "forest dance chuckle banner cinnamon donate code course purity pilot clever rhythm";
+var mnemonic = "erode fat lawn snow much cluster rhythm stereo music predict fold vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "border goose glare tuition only leopard seek amused current welcome throw tumble";
+var mnemonic = "animal gift focus claim success slide issue push enable add into alarm";

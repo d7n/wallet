@@ -1,1 +1,1 @@
-var mnemonic = "fit practice guitar expose paper music soda dust cost skull service priority";
+var mnemonic = "enough scorpion flee quantum please legend nephew split chuckle someone juice satoshi";

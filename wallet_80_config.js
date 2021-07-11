@@ -1,1 +1,1 @@
-var mnemonic = "hold runway calm film solve limb damp coconut innocent mixed pony farm";
+var mnemonic = "author smile recycle spray pipe enforce follow baby sketch over vacant episode";

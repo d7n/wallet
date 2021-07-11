@@ -1,1 +1,1 @@
-var mnemonic = "catalog find demise crowd six embody kind clip together chicken hungry weapon";
+var mnemonic = "impulse ozone lottery siege expire unveil donkey media mystery holiday muscle inherit";

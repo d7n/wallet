@@ -1,1 +1,1 @@
-var mnemonic = "typical tribe goat emerge mammal glue add whale cherry man stuff flavor";
+var mnemonic = "slush size disease control access flush soap brick clump family apart buyer";

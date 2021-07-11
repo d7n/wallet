@@ -1,1 +1,1 @@
-var mnemonic = "dune clerk finger lemon army material change eager parent profit judge fold";
+var mnemonic = "large margin appear find viable cupboard shove palm side abuse improve town";

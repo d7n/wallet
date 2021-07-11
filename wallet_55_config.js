@@ -1,1 +1,1 @@
-var mnemonic = "shy firm banner slight engage stadium rather profit drum vibrant mimic curtain";
+var mnemonic = "simple reveal chuckle river all coyote access still desert barely achieve loyal";

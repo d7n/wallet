@@ -1,1 +1,1 @@
-var mnemonic = "dune soda album swear stay fat success knee fly vibrant sudden silver";
+var mnemonic = "scout habit attract pledge right trade volume duck awake tower tuition dad";

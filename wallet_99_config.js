@@ -1,1 +1,1 @@
-var mnemonic = "away fatal slim piano tag exhibit deny reduce wolf fog illegal swift";
+var mnemonic = "accident lens city shrimp fluid muffin orbit allow almost scatter sketch receive";

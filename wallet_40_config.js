@@ -1,1 +1,1 @@
-var mnemonic = "ripple benefit found melt glue sauce salad aim heavy vital short drum";
+var mnemonic = "response sand atom fox arch december wonder library two deal juice coffee";

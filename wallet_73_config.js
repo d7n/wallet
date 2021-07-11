@@ -1,1 +1,1 @@
-var mnemonic = "blast like gadget science scatter shoe idea maximum sample gaze duty pepper";
+var mnemonic = "game expose resource public sand fortune dinosaur point diesel change behind sort";

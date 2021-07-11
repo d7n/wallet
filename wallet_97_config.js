@@ -1,1 +1,1 @@
-var mnemonic = "wolf twenty slab wear boss sugar trumpet bunker paper entire make horror";
+var mnemonic = "mimic palace also egg inform describe ball amused next liar agree they";

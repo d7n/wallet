@@ -1,1 +1,1 @@
-var mnemonic = "video bench expand globe manage cluster sure force obtain trick refuse local";
+var mnemonic = "punch depart biology exercise cool song distance town shine ceiling region ice";

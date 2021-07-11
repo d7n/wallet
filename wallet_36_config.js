@@ -1,1 +1,1 @@
-var mnemonic = "movie orbit actor gorilla frost level soon setup fetch circle clog swim";
+var mnemonic = "asthma defense victory excess laptop zebra calm inner stomach position build wing";

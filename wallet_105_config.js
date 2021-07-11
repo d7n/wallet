@@ -1,1 +1,1 @@
-var mnemonic = "bacon omit verify donor excess six public wolf often breeze popular group";
+var mnemonic = "gospel pioneer sunset clog design match away pitch garbage genius industry stable";
