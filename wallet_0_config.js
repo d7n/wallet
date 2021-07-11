@@ -1,1 +1,1 @@
-var mnemonic = "off finger more tired govern arm crush spray horse nice depth wide";
+var mnemonic = "cradle rescue actress kick response mention glad love nature squeeze close cloth";

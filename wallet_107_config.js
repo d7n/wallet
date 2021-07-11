@@ -1,1 +1,1 @@
-var mnemonic = "question dash educate key climb result repair leave mandate bind pitch rely";
+var mnemonic = "destroy hard smile oak foot unfold enemy ahead soul fox attract rocket";

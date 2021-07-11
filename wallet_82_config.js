@@ -1,1 +1,1 @@
-var mnemonic = "base urge scan uphold script thunder issue raise also excite casino leave";
+var mnemonic = "jeans kiwi awful actor okay radio vacant grab slab arch emerge primary";

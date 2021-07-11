@@ -1,1 +1,1 @@
-var mnemonic = "use endorse whisper minor gospel dose gloom convince when advance prefer magic";
+var mnemonic = "climb drive alter endorse sniff enroll immune region float sight junior body";

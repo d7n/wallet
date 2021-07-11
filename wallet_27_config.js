@@ -1,1 +1,1 @@
-var mnemonic = "stone exhaust clock summer brass build forget van earn draw task chest";
+var mnemonic = "spell mixed thing acquire album loud switch early squeeze chef sibling thought";

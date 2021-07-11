@@ -1,1 +1,1 @@
-var mnemonic = "pioneer juice super spot fun castle squeeze minute curve wave focus early";
+var mnemonic = "tank index neutral crystal joy blue slice trial message solid broom opera";

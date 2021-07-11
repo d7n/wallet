@@ -1,1 +1,1 @@
-var mnemonic = "guide inch cup permit energy column position faint claw happy animal moral";
+var mnemonic = "armed solution guess attend rib age version frost long law real butter";

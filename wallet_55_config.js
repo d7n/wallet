@@ -1,1 +1,1 @@
-var mnemonic = "anchor practice before slot rescue key unknown action bachelor mind train cart";
+var mnemonic = "hurt pyramid nephew rose cancel kind wreck fade peasant exact behave cheap";

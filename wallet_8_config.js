@@ -1,1 +1,1 @@
-var mnemonic = "apart innocent clown fine curious border absent shrug person minimum chief usage";
+var mnemonic = "tiny pride people dragon chair wool world blame person ensure loud swap";

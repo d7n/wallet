@@ -1,1 +1,1 @@
-var mnemonic = "flip husband wear excite april fish absent lonely laundry famous skirt exit";
+var mnemonic = "sniff model cigar advice inmate liar globe cup capable express inhale smooth";

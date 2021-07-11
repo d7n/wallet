@@ -1,1 +1,1 @@
-var mnemonic = "knock cross marine multiply horror into opera good soldier net judge echo";
+var mnemonic = "ask hover shed spot magnet giggle job fit alley eagle push fetch";

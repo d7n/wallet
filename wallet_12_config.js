@@ -1,1 +1,1 @@
-var mnemonic = "oblige mass together sell bulb exit clown song text invite tank today";
+var mnemonic = "there barely doctor together essence until erase initial unfair horror fork gold";

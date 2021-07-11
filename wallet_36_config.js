@@ -1,1 +1,1 @@
-var mnemonic = "summer push design arrive all switch friend anger leisure what chronic morning";
+var mnemonic = "hollow dune tiny bubble decide keen loud amazing text buyer fall miracle";

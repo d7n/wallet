@@ -1,1 +1,1 @@
-var mnemonic = "mercy gorilla amazing trick lady sphere loud they seven unable chunk surround";
+var mnemonic = "drive correct excess glove wise way kangaroo genuine north damage wave chief";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck loyal famous panel axis stadium appear title mystery scale supreme gospel";
+var mnemonic = "repeat undo napkin cattle lady diagram other frost gorilla when okay forget";

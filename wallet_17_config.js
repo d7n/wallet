@@ -1,1 +1,1 @@
-var mnemonic = "judge ritual bone genius hero hawk stand envelope chalk toilet cause kitchen";
+var mnemonic = "fragile throw sponsor bread salt foster indoor face guess staff gospel general";

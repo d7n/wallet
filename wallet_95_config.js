@@ -1,1 +1,1 @@
-var mnemonic = "cute tenant lonely neither initial remove direct alert dial prefer jealous envelope";
+var mnemonic = "copy join dentist luggage smoke unfair segment wrist garage silk neck deal";

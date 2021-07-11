@@ -1,1 +1,1 @@
-var mnemonic = "click bulb behave project author tuition field sort guess tortoise devote submit";
+var mnemonic = "letter place donor citizen silent broken check fun early cabin tongue guitar";

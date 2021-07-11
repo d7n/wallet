@@ -1,1 +1,1 @@
-var mnemonic = "glow cloth elegant climb disease crouch drastic fashion cereal garbage idle rice";
+var mnemonic = "nerve oval avocado intact suit curtain income skin velvet horror vague bonus";

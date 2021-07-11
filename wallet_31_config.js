@@ -1,1 +1,1 @@
-var mnemonic = "guide genre print rally wood upon fix unhappy access purpose ginger plug";
+var mnemonic = "ghost peanut border forget emerge pioneer shaft soda hill annual trend oak";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous polar square amused wedding final gorilla cheese lift give cash evoke";
+var mnemonic = "trust uphold scare basket derive mask escape galaxy leaf power bamboo crumble";

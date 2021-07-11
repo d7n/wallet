@@ -1,1 +1,1 @@
-var mnemonic = "pony donate garlic kitten race hundred twin journey fiction edit vague eight";
+var mnemonic = "crucial expose vessel host hat trash aware horse core indoor sun dignity";

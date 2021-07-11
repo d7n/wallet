@@ -1,1 +1,1 @@
-var mnemonic = "vacuum large genre room noise impose drama cart wreck turn engine pumpkin";
+var mnemonic = "reform monkey indicate atom know service gap forest salad high soldier exist";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen nice aunt marine exotic tube eye expire myth survey diesel state";
+var mnemonic = "accuse again much mule series diamond play upper sea plate pause cable";

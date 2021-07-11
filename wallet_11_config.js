@@ -1,1 +1,1 @@
-var mnemonic = "again skin bid ship symptom average frog crane ancient science lava garden";
+var mnemonic = "clay pear middle seed stamp image fortune finish trouble chunk inner curtain";

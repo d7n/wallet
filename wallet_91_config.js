@@ -1,1 +1,1 @@
-var mnemonic = "noble supply spell foster conduct sea soul year eye glimpse exhibit mix";
+var mnemonic = "service material actress tonight salt myself tail major label ostrich beauty leg";

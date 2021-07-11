@@ -1,1 +1,1 @@
-var mnemonic = "away fever gold veteran addict please fabric feed boring month pony joke";
+var mnemonic = "over aware later energy gold slot ridge female blade shadow innocent wild";

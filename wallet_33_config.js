@@ -1,1 +1,1 @@
-var mnemonic = "antique hazard stone spot skate admit garden inflict upgrade flame educate outdoor";
+var mnemonic = "cabin version grocery roast garden illegal employ angry lawsuit embrace rent youth";

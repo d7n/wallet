@@ -1,1 +1,1 @@
-var mnemonic = "bleak element forward height soon mutual drive adult miracle behind crazy drum";
+var mnemonic = "depend road planet man breeze tumble real body defense awesome brass party";

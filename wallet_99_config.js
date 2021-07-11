@@ -1,1 +1,1 @@
-var mnemonic = "sudden giant lab dolphin gate receive enlist wife like genius junk mercy";
+var mnemonic = "love friend crumble push isolate across impulse tiny obey slender nest upgrade";

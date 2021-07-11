@@ -1,1 +1,1 @@
-var mnemonic = "high hurdle injury trap orient snap link inflict side peanut liquid chat";
+var mnemonic = "festival reform rapid mechanic surge fly symptom mushroom stumble wage result despair";

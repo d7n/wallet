@@ -1,1 +1,1 @@
-var mnemonic = "basket orchard ozone dash tomorrow defy juice debris special scene divorce voyage";
+var mnemonic = "multiply beauty speed tornado nephew brown bamboo duty auto axis pride skull";

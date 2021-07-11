@@ -1,1 +1,1 @@
-var mnemonic = "quality indoor shuffle panther illegal economy act toward cloud face flower harvest";
+var mnemonic = "tag inhale energy sing shock pilot escape pyramid stone traffic cause bamboo";

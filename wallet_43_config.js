@@ -1,1 +1,1 @@
-var mnemonic = "tissue cigar same follow confirm mimic unlock ethics view aspect prevent crumble";
+var mnemonic = "slam patient replace air faint black find fatigue stadium bamboo give general";

@@ -1,1 +1,1 @@
-var mnemonic = "machine tomorrow cruise assault fringe fancy hidden woman tower journey run first";
+var mnemonic = "hello bachelor copper involve bid artwork common suffer choice extend shadow scrap";

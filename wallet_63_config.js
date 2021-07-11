@@ -1,1 +1,1 @@
-var mnemonic = "hurt angry humor tumble inflict page divorce crisp achieve image mad bacon";
+var mnemonic = "ladder slush shoot give angry cherry order deliver syrup analyst butter feed";

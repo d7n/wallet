@@ -1,1 +1,1 @@
-var mnemonic = "soccer donor ecology error spy ozone possible produce west man false diagram";
+var mnemonic = "hockey debate betray direct bless virus dutch garden velvet lizard detect this";

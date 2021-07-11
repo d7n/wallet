@@ -1,1 +1,1 @@
-var mnemonic = "retire ice retreat asthma ski brisk awkward begin message slab sample exchange";
+var mnemonic = "flock bean cricket peanut market display toss mango miss shell fatigue initial";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin tide negative return sponsor undo bar sick scrub lock venture timber";
+var mnemonic = "before outer shadow swarm decline slow lesson alpha brass swamp half column";

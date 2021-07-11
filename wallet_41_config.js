@@ -1,1 +1,1 @@
-var mnemonic = "siren ankle thumb patient park oppose anger great smoke primary original fee";
+var mnemonic = "alone note crazy snake power tail hub link decline brain apology beauty";

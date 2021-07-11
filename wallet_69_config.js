@@ -1,1 +1,1 @@
-var mnemonic = "napkin pen parent swift opinion carry brisk ride select cluster east course";
+var mnemonic = "insane catch captain scene laptop group upset wool mosquito gesture calm cost";

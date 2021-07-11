@@ -1,1 +1,1 @@
-var mnemonic = "inside benefit arena example link sudden base silent car math detail regret";
+var mnemonic = "say essence empty final that direct flush vacant scrap taxi oxygen surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum grain bleak traffic team cabbage diary twelve behind nose expect easily";
+var mnemonic = "tail edit before trade stem call merry patient language mechanic sword mountain";

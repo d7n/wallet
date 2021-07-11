@@ -1,1 +1,1 @@
-var mnemonic = "make depth uniform glance long damp pattern solution elite video about grape";
+var mnemonic = "mushroom trumpet final acid opera coral gain loyal struggle nut zero episode";

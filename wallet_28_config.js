@@ -1,1 +1,1 @@
-var mnemonic = "attract captain describe seek juice pond forum enrich edit combine minor hub";
+var mnemonic = "seed retreat neutral now grab canvas demise road eight ridge liar animal";

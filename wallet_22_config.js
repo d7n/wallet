@@ -1,1 +1,1 @@
-var mnemonic = "cruel main music language gallery mix face region crumble city argue museum";
+var mnemonic = "flush own near rack purpose kangaroo wheel long trade helmet burst true";

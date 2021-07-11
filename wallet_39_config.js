@@ -1,1 +1,1 @@
-var mnemonic = "sausage cheap whisper fault there chest bean surface seed fatal spring knee";
+var mnemonic = "anger mimic anchor bounce hope practice stuff release six desert used cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "slender bridge wreck sell mouse opinion rack hover utility dinner baby bracket";
+var mnemonic = "private parrot trial castle service marriage question replace indicate diary jacket stove";

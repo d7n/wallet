@@ -1,1 +1,1 @@
-var mnemonic = "outer execute pottery slice must slab noble opera garden frown few trust";
+var mnemonic = "fashion mixed start bulk fade insect level engage document capital ridge print";

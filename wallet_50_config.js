@@ -1,1 +1,1 @@
-var mnemonic = "cluster caution code claw inject gorilla penalty merry evidence cable december leader";
+var mnemonic = "luggage enhance time where drink object mountain load question cherry never among";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling spell man crisp outdoor famous cinnamon minor jungle genre duty cactus";
+var mnemonic = "tortoise verify solution crystal modify again allow latin omit feel primary home";

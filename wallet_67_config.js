@@ -1,1 +1,1 @@
-var mnemonic = "black lucky foot swim during slight panic disagree uncle misery gauge cancel";
+var mnemonic = "bubble certain tomato broom liar general swear like claw that reduce toward";

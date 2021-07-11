@@ -1,1 +1,1 @@
-var mnemonic = "crop pact mad stock select verb improve hover gentle tennis tip travel";
+var mnemonic = "butter choice opinion draw typical wild fatal fringe spawn code river occur";

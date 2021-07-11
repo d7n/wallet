@@ -1,1 +1,1 @@
-var mnemonic = "favorite gesture club evoke put lawn edit merge hill profit erode trade";
+var mnemonic = "find panda buddy pumpkin accident imitate bring under motion flat term vehicle";

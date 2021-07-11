@@ -1,1 +1,1 @@
-var mnemonic = "zoo smart snake consider item board ketchup hawk roof armed dance nose";
+var mnemonic = "crawl essence dentist filter depth mention gadget save light rebel peanut hard";

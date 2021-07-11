@@ -1,1 +1,1 @@
-var mnemonic = "gown place orient brass sample trial fatal mesh version problem helmet whip";
+var mnemonic = "repair rug olympic symptom tail acid fury destroy mushroom pulse update puppy";

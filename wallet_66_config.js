@@ -1,1 +1,1 @@
-var mnemonic = "differ remove skirt world lesson off donate exhibit stool travel belt truck";
+var mnemonic = "lend voyage shuffle end task spy art online early frost chair uniform";

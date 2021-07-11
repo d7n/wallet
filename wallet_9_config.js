@@ -1,1 +1,1 @@
-var mnemonic = "fragile gain lounge endless impact autumn rebel miss lady raise peanut gesture";
+var mnemonic = "truly lobster priority list coin same connect flight business poem idle stock";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve rose lake first brown lens coil empty raw machine lemon hope";
+var mnemonic = "toe carbon plastic cannon version asthma dizzy blast want ice nominee pulp";

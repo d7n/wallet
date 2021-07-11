@@ -1,1 +1,1 @@
-var mnemonic = "dignity usual wood volcano tube broccoli rebuild one other ahead course student";
+var mnemonic = "burden jazz ghost double decorate scrap inject ahead curtain imitate garage vehicle";

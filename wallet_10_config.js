@@ -1,1 +1,1 @@
-var mnemonic = "rocket panther kite rigid giggle planet again hawk photo victory blood legal";
+var mnemonic = "abuse animal burst miss lady skirt appear predict inmate resource arch among";

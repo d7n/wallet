@@ -1,1 +1,1 @@
-var mnemonic = "void kiwi museum price buddy that jelly lizard fee economy attend grunt";
+var mnemonic = "link quick photo abandon chuckle exact orient captain affair width limit shrimp";

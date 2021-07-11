@@ -1,1 +1,1 @@
-var mnemonic = "corn select ozone jacket bubble crater monitor wonder expose shrug glance thing";
+var mnemonic = "great cry mammal chronic oppose dream satisfy economy diagram empower avoid bulb";

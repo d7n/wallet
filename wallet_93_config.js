@@ -1,1 +1,1 @@
-var mnemonic = "help fog dismiss light animal choice stairs lake obvious void silly stamp";
+var mnemonic = "dad amazing soul general erode sponsor describe jar inside brave buyer inmate";

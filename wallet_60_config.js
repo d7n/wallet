@@ -1,1 +1,1 @@
-var mnemonic = "impact humor cake enough defy inhale lift grow onion neglect hint habit";
+var mnemonic = "language piano small garden hood swarm sea betray girl cushion gallery aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "admit sphere reunion cactus sauce pyramid grief quit same alter universe educate";
+var mnemonic = "brave bleak escape reason table combine true practice loop decade coin husband";

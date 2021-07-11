@@ -1,1 +1,1 @@
-var mnemonic = "belt canyon spike crack approve uncle urban sort neck cigar box surround";
+var mnemonic = "chef inform proof review quality frost mandate rival usage awful case spend";

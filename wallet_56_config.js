@@ -1,1 +1,1 @@
-var mnemonic = "else rally empower almost now chronic rural tongue pattern equip wood expect";
+var mnemonic = "chef fever surface duty cause aerobic cattle want blame harvest oval logic";

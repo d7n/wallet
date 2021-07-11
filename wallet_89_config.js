@@ -1,1 +1,1 @@
-var mnemonic = "embark adjust fluid start orchard merge draw rabbit myth inform level mesh";
+var mnemonic = "hunt scare mask section radio unit twist claw draft vibrant foam gate";

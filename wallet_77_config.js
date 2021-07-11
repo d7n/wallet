@@ -1,1 +1,1 @@
-var mnemonic = "expect unable gown dose disease prosper witness toast popular come frame worth";
+var mnemonic = "pilot pepper cable dish radar mammal cactus moment lecture accuse choice focus";

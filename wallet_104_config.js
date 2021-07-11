@@ -1,1 +1,1 @@
-var mnemonic = "physical security cram trouble stove hip early project very truck enlist price";
+var mnemonic = "boost forest horn rely alpha expose announce champion journey recycle climb daughter";

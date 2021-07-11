@@ -1,1 +1,1 @@
-var mnemonic = "cave flip black guilt where voice pigeon person fluid harbor select bronze";
+var mnemonic = "hat lizard click actor bind book sick coyote pistol box theme fade";

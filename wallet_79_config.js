@@ -1,1 +1,1 @@
-var mnemonic = "boy occur carpet common sorry spin barely saddle correct sea donate senior";
+var mnemonic = "burst educate easily mule wrong stadium error fatal gadget abandon absurd retire";

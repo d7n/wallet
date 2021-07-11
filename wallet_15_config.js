@@ -1,1 +1,1 @@
-var mnemonic = "dog grain agent loyal this couch adjust three mechanic top north author";
+var mnemonic = "hazard dice corn walk detect castle stool circle cook dog steel mango";

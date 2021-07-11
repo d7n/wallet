@@ -1,1 +1,1 @@
-var mnemonic = "thought economy glance embody solution fruit normal fall give negative census cool";
+var mnemonic = "oval town fossil scale spare winner into patient rookie unusual easily poem";

@@ -1,1 +1,1 @@
-var mnemonic = "milk sea puzzle debate arctic visit struggle jelly original obtain link assault";
+var mnemonic = "alpha volcano gasp inner twice shove bless roast crumble blood dose season";

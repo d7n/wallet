@@ -1,1 +1,1 @@
-var mnemonic = "wagon exist private seat again able always shaft paddle cactus symptom story";
+var mnemonic = "song diagram monitor laugh magic march holiday like baby bird liberty post";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor crop receive mixture beyond ecology material frost inflict keen walnut item";
+var mnemonic = "cage toilet pill laptop viable utility note diamond purse minute legal gun";

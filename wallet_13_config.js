@@ -1,1 +1,1 @@
-var mnemonic = "increase spin farm wine artwork inflict range brief indicate vapor belt stairs";
+var mnemonic = "primary west survey luxury congress earn huge barely follow bike ankle cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "silent neck sibling account say metal clutch imitate yard there notice expire";
+var mnemonic = "bundle seed step upon caught say equip library water typical swamp random";

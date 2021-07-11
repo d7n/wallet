@@ -1,1 +1,1 @@
-var mnemonic = "inject divide drama razor grief brick risk south museum turkey crane keep";
+var mnemonic = "east absorb recipe today stereo suit usual ginger left involve soldier fashion";

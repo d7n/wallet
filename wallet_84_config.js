@@ -1,1 +1,1 @@
-var mnemonic = "water gravity skirt occur wide voyage collect author uniform salad ensure science";
+var mnemonic = "hidden pepper subway sweet blood bag announce miss dwarf promote nerve ride";

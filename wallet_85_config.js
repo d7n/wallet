@@ -1,1 +1,1 @@
-var mnemonic = "tragic bread pioneer ensure trust mix network interest essay day element outside";
+var mnemonic = "bench excite wait cruel promote federal scene kitchen super point foot love";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt diary glide birth foster winter pen cousin travel kitchen gauge arrive";
+var mnemonic = "negative surge insane ice fire three soup discover race language ordinary govern";

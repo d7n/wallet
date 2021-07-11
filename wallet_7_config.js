@@ -1,1 +1,1 @@
-var mnemonic = "urban emerge normal elite cave flight company sing walnut silver replace south";
+var mnemonic = "speed estate draw fade father comic enact come fold train spy finger";

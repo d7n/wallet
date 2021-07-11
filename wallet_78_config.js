@@ -1,1 +1,1 @@
-var mnemonic = "mammal capable disagree east judge cake topple pupil invest cherry draft loop";
+var mnemonic = "local evolve wing section rocket moon vote shrug require season online element";

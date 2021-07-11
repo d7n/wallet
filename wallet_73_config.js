@@ -1,1 +1,1 @@
-var mnemonic = "fury goose winter speak better museum trophy learn near attend forum twelve";
+var mnemonic = "quick indoor crouch bid toe rather solve law smoke powder draft guard";

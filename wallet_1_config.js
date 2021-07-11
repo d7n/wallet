@@ -1,1 +1,1 @@
-var mnemonic = "seat hair limb problem seed kite curious hard whip pumpkin leisure cattle";
+var mnemonic = "village van into quote game curtain chimney crumble lonely timber labor robot";

@@ -1,1 +1,1 @@
-var mnemonic = "attract shine soul illness speed glimpse fish item fence style firm normal";
+var mnemonic = "grunt average stem flame point resource sure hub poem trial hope punch";

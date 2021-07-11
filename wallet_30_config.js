@@ -1,1 +1,1 @@
-var mnemonic = "double belt patrol right kit debris divert price dawn behind friend sphere";
+var mnemonic = "family knock history define cushion whale review inside teach someone voyage ripple";

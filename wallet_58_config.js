@@ -1,1 +1,1 @@
-var mnemonic = "unveil alien film icon fringe toast potato estate gown mind feed curious";
+var mnemonic = "sea actress ranch trouble average clown trouble peace century rich moon bitter";

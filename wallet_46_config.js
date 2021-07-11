@@ -1,1 +1,1 @@
-var mnemonic = "mother shed position erase fashion clap monitor version allow crater allow bubble";
+var mnemonic = "access pull garlic museum tornado fetch term confirm gallery faith canvas used";

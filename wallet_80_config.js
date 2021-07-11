@@ -1,1 +1,1 @@
-var mnemonic = "famous sorry shoot orbit response birth cherry join divide bring detect draw";
+var mnemonic = "foil asset rookie enhance puzzle intact enable recall moment west style wash";
