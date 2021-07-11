@@ -1,1 +1,1 @@
-var mnemonic = "wash coast custom hammer angle pact useless salmon sniff hurry report anxiety";
+var mnemonic = "glance obtain minute nice leg famous image genius garage cheap witness busy";

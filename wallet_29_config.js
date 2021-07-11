@@ -1,1 +1,1 @@
-var mnemonic = "bird symbol across rocket spin change pen north mechanic vanish because metal";
+var mnemonic = "avocado marine drastic kick hurry hip will subject buffalo report giant follow";

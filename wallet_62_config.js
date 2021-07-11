@@ -1,1 +1,1 @@
-var mnemonic = "other ecology soft venue then theory arena fiber digital kangaroo joy film";
+var mnemonic = "minimum lecture trash hazard cherry rare grief forget window salute toe safe";

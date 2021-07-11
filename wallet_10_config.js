@@ -1,1 +1,1 @@
-var mnemonic = "fossil save odor snack custom jungle also steel surface final oblige print";
+var mnemonic = "decrease canvas diesel firm moral advance sail churn hunt boat require crucial";

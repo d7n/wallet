@@ -1,1 +1,1 @@
-var mnemonic = "job police funny world security code recycle powder narrow current scare supreme";
+var mnemonic = "crush rebel sea around lonely virus cotton trophy cruise floor spot pig";

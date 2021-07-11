@@ -1,1 +1,1 @@
-var mnemonic = "danger glow employ champion distance caught soccer garage cherry sample afford around";
+var mnemonic = "paddle main piece empty damp fetch puzzle today lazy flat penalty shoot";

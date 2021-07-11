@@ -1,1 +1,1 @@
-var mnemonic = "blast correct large river whip pistol salon benefit learn october question own";
+var mnemonic = "improve shadow flush prison shop local artefact earth glare devote gap flock";

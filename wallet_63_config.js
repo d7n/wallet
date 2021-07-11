@@ -1,1 +1,1 @@
-var mnemonic = "chuckle worry kitchen hair ready despair tent forum under actress term crush";
+var mnemonic = "car wool mesh write correct daughter case captain unhappy carbon spring olympic";

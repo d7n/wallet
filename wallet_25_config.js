@@ -1,1 +1,1 @@
-var mnemonic = "puppy drama expect uncover hazard calm lab video tobacco loud alone tiger";
+var mnemonic = "allow gorilla popular shop cover retire price absurd lonely orphan camera domain";

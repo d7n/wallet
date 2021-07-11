@@ -1,1 +1,1 @@
-var mnemonic = "card battle index fox hover poem build lyrics length ensure dizzy gossip";
+var mnemonic = "thunder neck elevator author hood glide capital cheese valid soda live never";

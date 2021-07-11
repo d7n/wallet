@@ -1,1 +1,1 @@
-var mnemonic = "figure afraid earth mesh picture offer bind gauge early monster trap give";
+var mnemonic = "absent pattern code vault adjust marble nominee target casino grab upper index";

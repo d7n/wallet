@@ -1,1 +1,1 @@
-var mnemonic = "equip forest month offer home bracket net empty coil amount picnic welcome";
+var mnemonic = "now proud north artefact nominee coconut genuine hip tag will glow embody";

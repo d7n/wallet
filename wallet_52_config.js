@@ -1,1 +1,1 @@
-var mnemonic = "provide trade scheme cram wedding hunt system public dirt time stairs glow";
+var mnemonic = "grid mandate neither lucky race slim nature mushroom vault round shoulder display";

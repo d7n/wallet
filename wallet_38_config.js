@@ -1,1 +1,1 @@
-var mnemonic = "glory april charge forget satisfy crucial broccoli forget proof age urban prepare";
+var mnemonic = "sugar fancy trash coffee cash song exact citizen silly price ginger hint";

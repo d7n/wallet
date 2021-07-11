@@ -1,1 +1,1 @@
-var mnemonic = "remind quarter pair observe program entire accuse road citizen any innocent raw";
+var mnemonic = "choice pear bird toilet solve drift jazz stick chalk ready badge license";

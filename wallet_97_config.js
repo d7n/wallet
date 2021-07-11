@@ -1,1 +1,1 @@
-var mnemonic = "toward illness language million able weird lens trick glory elevator kitchen table";
+var mnemonic = "slab trap faculty grace border what cook stereo country caught illegal museum";

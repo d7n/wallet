@@ -1,1 +1,1 @@
-var mnemonic = "disagree return much december wedding upgrade debate resource dress toe tuition actor";
+var mnemonic = "hire edge sign mushroom dice warm confirm nothing poet announce remember universe";

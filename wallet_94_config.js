@@ -1,1 +1,1 @@
-var mnemonic = "whale found sustain rhythm forget decide pause truck royal illegal bamboo legal";
+var mnemonic = "panther ask matrix predict forward cage ready gun permit more another indoor";

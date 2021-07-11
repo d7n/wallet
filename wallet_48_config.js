@@ -1,1 +1,1 @@
-var mnemonic = "picture route alarm unlock stove solve sustain isolate blue change index spare";
+var mnemonic = "dad bitter tiger axis length donkey paddle report pluck warrior skin assume";

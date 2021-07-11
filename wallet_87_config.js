@@ -1,1 +1,1 @@
-var mnemonic = "foster miracle soup inject can prison grief rival bacon curious issue yellow";
+var mnemonic = "duck outer glove help bright scorpion extend frame giggle sugar flash salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "case federal six anger energy ancient illness drill true hammer tuition pluck";
+var mnemonic = "spread code empower public woman roast security giraffe slam proud stool aisle";

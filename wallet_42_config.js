@@ -1,1 +1,1 @@
-var mnemonic = "sense side walk away token angry great royal ritual horror breeze purity";
+var mnemonic = "peasant zebra unhappy that orchard general oak symptom soup either creek math";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic hammer bag hub beyond safe arch decline unfair alien tobacco kid";
+var mnemonic = "useful subway garden excite arch cactus boy home negative ancient foot render";

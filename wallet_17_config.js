@@ -1,1 +1,1 @@
-var mnemonic = "slogan patch table angry biology unfair include churn denial arrow excess neutral";
+var mnemonic = "weapon source onion deny tone family together sick match charge young apology";

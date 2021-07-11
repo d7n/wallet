@@ -1,1 +1,1 @@
-var mnemonic = "online giant bundle magnet tennis cabin switch demand choice buzz lunch sort";
+var mnemonic = "census agent party wisdom stay sick zero female smile gate list other";

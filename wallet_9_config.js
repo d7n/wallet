@@ -1,1 +1,1 @@
-var mnemonic = "thank cross gold omit filter unhappy trim protect scheme bring april guitar";
+var mnemonic = "genius you hundred extra enter snack poet click rebel foster region unaware";

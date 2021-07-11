@@ -1,1 +1,1 @@
-var mnemonic = "sibling ticket morning library asset type income tunnel double old book short";
+var mnemonic = "ghost young couple omit useless neither woman buzz first wrap unfold agent";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil grace equal island razor gasp arrow assault rebuild nose return similar";
+var mnemonic = "post banner husband emotion notice biology update stamp vivid timber tennis weapon";

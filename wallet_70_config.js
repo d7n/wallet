@@ -1,1 +1,1 @@
-var mnemonic = "supreme obey slight happy spirit fancy decide shoot shrimp ensure mention exile";
+var mnemonic = "dog just witness attitude naive tray remember token check fashion meat person";

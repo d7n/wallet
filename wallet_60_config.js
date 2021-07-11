@@ -1,1 +1,1 @@
-var mnemonic = "scout slight sheriff mosquito stage bubble resist update pulse begin daring silent";
+var mnemonic = "battle obey minor frost awkward second knife main eye quit apology hand";

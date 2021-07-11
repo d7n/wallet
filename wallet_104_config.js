@@ -1,1 +1,1 @@
-var mnemonic = "can snake debate sell hospital escape cargo since galaxy head coral stereo";
+var mnemonic = "employ provide confirm stuff chalk reopen old spot stem response venue ginger";

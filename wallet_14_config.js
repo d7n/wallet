@@ -1,1 +1,1 @@
-var mnemonic = "style inquiry girl vocal gift entire never allow wine inspire nominee family";
+var mnemonic = "turtle assault trend shoulder step raven cage disorder strategy camp romance veteran";

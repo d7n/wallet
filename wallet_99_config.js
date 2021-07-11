@@ -1,1 +1,1 @@
-var mnemonic = "taxi express robot forum poet liberty congress claim choose arch unhappy neglect";
+var mnemonic = "trash insect test bind dinosaur unlock tomorrow abuse essence fossil animal belt";

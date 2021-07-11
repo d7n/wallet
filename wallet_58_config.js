@@ -1,1 +1,1 @@
-var mnemonic = "timber open elephant average second receive reward buddy captain sad earn air";
+var mnemonic = "tag fog brain history stage flat write broccoli arch clarify knock insect";

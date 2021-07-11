@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow ranch hurt discover play romance cheese traffic music hip shrug fish";
+var mnemonic = "version elbow space unknown deposit indicate ribbon misery alter midnight choose knock";

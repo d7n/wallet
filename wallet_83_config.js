@@ -1,1 +1,1 @@
-var mnemonic = "sport leaf claw trick gym stereo urban avoid message kingdom afford opera";
+var mnemonic = "virtual obscure current ensure trial innocent leader elder crystal infant plastic bind";

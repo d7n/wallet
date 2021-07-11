@@ -1,1 +1,1 @@
-var mnemonic = "ugly cube bike define stock clarify hamster become civil puzzle prize virtual";
+var mnemonic = "vendor casino ability disagree air knife wolf clap brick crane dose busy";

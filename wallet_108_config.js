@@ -1,1 +1,1 @@
-var mnemonic = "love label gun brush unaware fluid awesome neck shield only venture gain";
+var mnemonic = "wrestle term job chef great magnet fetch rough chat cluster shine choice";

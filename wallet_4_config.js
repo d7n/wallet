@@ -1,1 +1,1 @@
-var mnemonic = "hidden feature buyer carbon script uncle hobby wrist dash train search unique";
+var mnemonic = "wear letter shoot sense soldier hen uncover change clap fire door limb";

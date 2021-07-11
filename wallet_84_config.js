@@ -1,1 +1,1 @@
-var mnemonic = "glory scrap trap flash slab surprise crane raise average outer ribbon mango";
+var mnemonic = "essence curious involve popular fresh coral receive kit tragic drift edge regular";

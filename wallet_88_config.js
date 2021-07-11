@@ -1,1 +1,1 @@
-var mnemonic = "genius idea fish retire search tenant discover saddle thought hair limb general";
+var mnemonic = "ocean fever apple march cricket attitude glimpse embody cluster trumpet habit join";

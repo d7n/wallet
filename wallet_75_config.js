@@ -1,1 +1,1 @@
-var mnemonic = "genuine grass verify oval win advice cross crew orange clinic history egg";
+var mnemonic = "toss blush blossom universe spring salmon around space shop receive problem luxury";

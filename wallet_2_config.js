@@ -1,1 +1,1 @@
-var mnemonic = "cargo boss bullet match attract provide inquiry clay impulse select burden either";
+var mnemonic = "twenty scene limit renew broken exact still drip fashion position sing runway";

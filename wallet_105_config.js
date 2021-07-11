@@ -1,1 +1,1 @@
-var mnemonic = "umbrella brief army case matrix nut venture cactus service mad fence method";
+var mnemonic = "orphan fashion parrot melody tiny crush timber movie tool lounge acoustic curious";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal need soft dentist taste current spend sunny juice love lobster hundred";
+var mnemonic = "frequent foot profit empty faculty orphan cupboard tube twist state jump layer";

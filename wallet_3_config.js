@@ -1,1 +1,1 @@
-var mnemonic = "knock trumpet banana brain metal pig happy table inmate choice accuse avocado";
+var mnemonic = "reunion wisdom abstract wear consider pluck behave tide silly spider desert idea";

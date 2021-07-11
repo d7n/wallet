@@ -1,1 +1,1 @@
-var mnemonic = "art sick connect sauce about worth ensure farm slush position play almost";
+var mnemonic = "kitten armor remember beach insane unique uncle stand wasp fit tag scrap";

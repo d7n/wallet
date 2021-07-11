@@ -1,1 +1,1 @@
-var mnemonic = "foot soda lobster ocean unfair material organ tortoise this view logic mind";
+var mnemonic = "critic alert choice tortoise milk wealth transfer you occur burst actual sugar";

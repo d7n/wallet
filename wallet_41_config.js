@@ -1,1 +1,1 @@
-var mnemonic = "narrow gun inflict celery have steel board student venue any guide disorder";
+var mnemonic = "error must argue tag need recipe group absorb tilt razor solid bicycle";

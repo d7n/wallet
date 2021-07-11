@@ -1,1 +1,1 @@
-var mnemonic = "brother cabin inch point unlock fatigue illness tackle kiss worry security across";
+var mnemonic = "robust kitten school matrix mesh column loud bamboo noodle scout pool long";

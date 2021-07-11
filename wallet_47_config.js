@@ -1,1 +1,1 @@
-var mnemonic = "ocean biology humble clerk two about desk throw offer soap bullet lucky";
+var mnemonic = "fall fortune sniff blur hero cloud coil alert excess blur sample offer";

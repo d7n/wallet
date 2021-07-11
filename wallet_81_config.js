@@ -1,1 +1,1 @@
-var mnemonic = "victory vendor enrich swamp relax combine fall mixed defense goose essence resource";
+var mnemonic = "busy ginger scare addict opera degree caution total suggest town okay mirror";

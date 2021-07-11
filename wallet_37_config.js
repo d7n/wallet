@@ -1,1 +1,1 @@
-var mnemonic = "country maid radio trim narrow lake benefit enemy cash orchard donkey pig";
+var mnemonic = "weird column early eagle kiwi purpose resource bunker monster release patient escape";

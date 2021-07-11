@@ -1,1 +1,1 @@
-var mnemonic = "bamboo please envelope best country tooth jungle pattern point helmet vessel neglect";
+var mnemonic = "miracle foil gun salmon someone tube monkey thank access comic journey sheriff";

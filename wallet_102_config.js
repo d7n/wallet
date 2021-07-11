@@ -1,1 +1,1 @@
-var mnemonic = "setup palm immense witness property knife salute input delay novel chicken alarm";
+var mnemonic = "salon ladder vacuum awake purse connect accuse note smart panda student comic";

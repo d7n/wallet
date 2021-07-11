@@ -1,1 +1,1 @@
-var mnemonic = "cook nephew duck art artwork squirrel bitter suffer advice happy raccoon comic";
+var mnemonic = "best fluid promote define regular target fork minor evoke grain mass bridge";

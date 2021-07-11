@@ -1,1 +1,1 @@
-var mnemonic = "camp skin sudden wolf scatter future among purchase enemy middle dignity sting";
+var mnemonic = "survey moon torch recipe staff above noodle adult sell mystery silver funny";

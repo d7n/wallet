@@ -1,1 +1,1 @@
-var mnemonic = "ten session used meadow dog island actor mystery canal antenna able nest";
+var mnemonic = "orchard bullet cram era gospel lobster flee mistake night between now renew";

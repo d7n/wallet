@@ -1,1 +1,1 @@
-var mnemonic = "just crime skill chase awkward maple broccoli way way limit blind grace";
+var mnemonic = "sure chunk bitter twice melody museum math chief fury jungle such blue";

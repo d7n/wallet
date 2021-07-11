@@ -1,1 +1,1 @@
-var mnemonic = "easy outer raw draft theory actual scale route tongue enough angle nice";
+var mnemonic = "trouble aim evil corn ready ski portion awake ridge farm wait love";

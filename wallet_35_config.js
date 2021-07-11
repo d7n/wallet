@@ -1,1 +1,1 @@
-var mnemonic = "ahead raw account custom radio guard twist shell between mention ring flip";
+var mnemonic = "inherit wreck basket patrol spy aisle dove object profit whip margin clap";

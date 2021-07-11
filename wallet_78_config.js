@@ -1,1 +1,1 @@
-var mnemonic = "live that pizza staff ready act coil struggle warm call script carpet";
+var mnemonic = "deer manage ketchup icon parade evidence snack inner write filter submit quote";

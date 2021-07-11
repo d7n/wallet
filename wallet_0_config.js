@@ -1,1 +1,1 @@
-var mnemonic = "mom defy era surface air garage dust skull devote trust omit artwork";
+var mnemonic = "mouse city logic fade bargain liberty culture twin broom island catch forget";

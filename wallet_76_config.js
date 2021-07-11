@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gold legal alter coconut angle radio garage struggle yard spare year";
+var mnemonic = "vital maple teach turkey hobby scissors know scrub click property various holiday";

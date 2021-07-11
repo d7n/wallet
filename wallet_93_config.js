@@ -1,1 +1,1 @@
-var mnemonic = "right concert jacket art chalk surround fantasy that gorilla crack length envelope";
+var mnemonic = "sell bullet orchard false stove wet volume old rose sad shoulder normal";

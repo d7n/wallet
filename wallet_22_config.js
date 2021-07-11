@@ -1,1 +1,1 @@
-var mnemonic = "jeans left across better cargo found address witness senior track congress hamster";
+var mnemonic = "crush crystal sun crew kiss gift enforce output stem mosquito layer image";

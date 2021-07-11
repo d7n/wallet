@@ -1,1 +1,1 @@
-var mnemonic = "start hunt ill solid mosquito jewel ticket imitate wing echo clip shrimp";
+var mnemonic = "knife build pipe august rhythm head select model heart inspire arrest vicious";

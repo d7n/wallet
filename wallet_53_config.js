@@ -1,1 +1,1 @@
-var mnemonic = "draw point noble weekend develop layer beyond current wife drama blue weekend";
+var mnemonic = "hub fatigue cluster admit execute climb uncle daring depart snake runway rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "future company doctor holiday staff simple helmet abuse problem dream virus patch";
+var mnemonic = "gorilla enroll used replace cereal base pepper this element category dinner observe";

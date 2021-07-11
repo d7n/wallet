@@ -1,1 +1,1 @@
-var mnemonic = "long course better permit width silent bar hub reflect flip lemon half";
+var mnemonic = "scrap process park wealth wedding tuna company dentist liar join good space";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent debris worry define hurry roast belt scrub two meadow fault again";
+var mnemonic = "resource grocery mushroom ignore flag trust fatal spin clown syrup congress airport";

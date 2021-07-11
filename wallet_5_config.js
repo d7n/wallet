@@ -1,1 +1,1 @@
-var mnemonic = "prosper defense success lazy derive pave enable subway keen original artwork glow";
+var mnemonic = "album mechanic bar drip solid dial gadget gossip apology glow list state";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet either upper term crunch valley suit repeat gap device nation truly";
+var mnemonic = "exchange pistol rival art earth neck metal pact vault depend service setup";

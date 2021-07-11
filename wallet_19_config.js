@@ -1,1 +1,1 @@
-var mnemonic = "foil rate leg hunt praise drum battle gate scorpion combine credit load";
+var mnemonic = "super avoid industry jeans chief exercise leopard hidden ice level ocean flower";

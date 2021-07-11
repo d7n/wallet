@@ -1,1 +1,1 @@
-var mnemonic = "weapon ride hand future oppose trap divert six scorpion lift bicycle birth";
+var mnemonic = "approve rabbit expand diagram churn flight skate trust stadium extend method rival";

@@ -1,1 +1,1 @@
-var mnemonic = "host ostrich photo ranch smart vault lift grant daring nature notable rose";
+var mnemonic = "dice romance vehicle trophy gun noble benefit onion story picture galaxy wolf";

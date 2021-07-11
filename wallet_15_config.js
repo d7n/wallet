@@ -1,1 +1,1 @@
-var mnemonic = "blossom floor slot mixture mushroom knee smoke claim cake museum tuna night";
+var mnemonic = "upgrade club shed expand again desk tomorrow fantasy potato brave course naive";

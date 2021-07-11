@@ -1,1 +1,1 @@
-var mnemonic = "scorpion civil glad zebra boil feel capable habit describe medal rate sure";
+var mnemonic = "print ticket thought leader city embrace demand drink crunch gossip violin citizen";

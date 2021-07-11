@@ -1,1 +1,1 @@
-var mnemonic = "grit monitor major duty orient case exhibit annual toddler say honey few";
+var mnemonic = "mass cradle kangaroo add save gorilla light garbage ripple enrich fork anger";

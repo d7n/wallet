@@ -1,1 +1,1 @@
-var mnemonic = "salt myth cluster fold damp shoulder group double hidden resist know nut";
+var mnemonic = "coil museum birth amount cancel balcony goddess crawl layer adjust arrow afford";

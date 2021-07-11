@@ -1,1 +1,1 @@
-var mnemonic = "foot output catch popular moment lizard play trouble juice hire small flavor";
+var mnemonic = "object arrow useful leopard armed large decorate assume seek remain naive top";

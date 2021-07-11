@@ -1,1 +1,1 @@
-var mnemonic = "march ignore predict task legal raise solar pear tip elite note finger";
+var mnemonic = "inside surface gorilla foam pledge confirm salad truck muffin number swim notable";

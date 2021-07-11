@@ -1,1 +1,1 @@
-var mnemonic = "claim resemble copy lock adult bicycle joy please crime also absent chaos";
+var mnemonic = "unfair tiny episode fitness cram post title stand nephew cabbage genuine club";

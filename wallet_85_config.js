@@ -1,1 +1,1 @@
-var mnemonic = "stuff siege oyster rebel focus monster senior fit mobile dream dose large";
+var mnemonic = "disease eye glass dwarf twenty holiday smile derive basic excess protect future";

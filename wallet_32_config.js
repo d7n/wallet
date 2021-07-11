@@ -1,1 +1,1 @@
-var mnemonic = "scorpion direct reveal gorilla boat bus gravity maid lake tourist clump must";
+var mnemonic = "label please gold direct range vapor mimic yellow elevator dragon parrot rabbit";

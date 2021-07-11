@@ -1,1 +1,1 @@
-var mnemonic = "raven model match supply bird flag notice grass cute sudden cover liar";
+var mnemonic = "fossil donkey coffee sauce soap vicious general divorce always pupil fabric prevent";

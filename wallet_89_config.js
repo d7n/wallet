@@ -1,1 +1,1 @@
-var mnemonic = "pledge sugar nose foil govern feature elder faculty slender route accuse peasant";
+var mnemonic = "muffin practice humble cheese mimic grain junk series mixed sentence loan spawn";

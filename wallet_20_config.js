@@ -1,1 +1,1 @@
-var mnemonic = "multiply shell bone awkward behave prevent million whale glove squirrel sport police";
+var mnemonic = "ensure submit supply mention tree science skate critic pioneer donkey expire motor";

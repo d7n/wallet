@@ -1,1 +1,1 @@
-var mnemonic = "pencil stomach defy provide quarter document milk admit royal search vintage network";
+var mnemonic = "that album intact essence sense walk test derive page jazz elevator pet";

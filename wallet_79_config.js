@@ -1,1 +1,1 @@
-var mnemonic = "fury play struggle setup border blouse once float grape shove toast typical";
+var mnemonic = "stadium lizard punch energy fish cabin check decline hand roof radar fabric";

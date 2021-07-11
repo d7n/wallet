@@ -1,1 +1,1 @@
-var mnemonic = "tail airport cable sample unable bicycle bulb broom start piece aware burden";
+var mnemonic = "account fun boat excess ostrich neither increase during vanish safe hybrid frown";
