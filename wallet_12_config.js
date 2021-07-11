@@ -1,1 +1,1 @@
-var mnemonic = "paper unknown parent chuckle ring era drastic denial electric nature artwork trust";
+var mnemonic = "disagree return much december wedding upgrade debate resource dress toe tuition actor";

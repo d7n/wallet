@@ -1,1 +1,1 @@
-var mnemonic = "artwork tower lunch help absurd hat behind fame describe useful accident scene";
+var mnemonic = "ring hollow disorder engine live expect enroll gasp resource impact cute lyrics";

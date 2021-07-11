@@ -1,1 +1,1 @@
-var mnemonic = "tissue air fade quality shuffle rose deposit news front agree genius play";
+var mnemonic = "other ecology soft venue then theory arena fiber digital kangaroo joy film";

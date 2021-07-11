@@ -1,1 +1,1 @@
-var mnemonic = "acoustic double citizen fade resemble used pull fault stand unique timber athlete";
+var mnemonic = "can snake debate sell hospital escape cargo since galaxy head coral stereo";

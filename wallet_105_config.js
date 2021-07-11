@@ -1,1 +1,1 @@
-var mnemonic = "armor lawsuit voyage shoot reason quarter spell super offer wrap veteran barely";
+var mnemonic = "umbrella brief army case matrix nut venture cactus service mad fence method";

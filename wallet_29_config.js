@@ -1,1 +1,1 @@
-var mnemonic = "property raven snack lobster job require room hawk betray river connect drama";
+var mnemonic = "bird symbol across rocket spin change pen north mechanic vanish because metal";

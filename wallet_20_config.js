@@ -1,1 +1,1 @@
-var mnemonic = "can never fever arctic cloth inner betray race buzz boss poverty exchange";
+var mnemonic = "multiply shell bone awkward behave prevent million whale glove squirrel sport police";

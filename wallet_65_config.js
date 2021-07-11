@@ -1,1 +1,1 @@
-var mnemonic = "scout arena color rack elder strike property secret burden hidden october exclude";
+var mnemonic = "people bless regular mind hat grit talk invest ocean august approve tiny";

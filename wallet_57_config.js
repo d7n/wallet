@@ -1,1 +1,1 @@
-var mnemonic = "acid disorder also rely flee festival embody join axis tuna prosper caution";
+var mnemonic = "ten session used meadow dog island actor mystery canal antenna able nest";

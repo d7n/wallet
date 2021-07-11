@@ -1,1 +1,1 @@
-var mnemonic = "vehicle salute crazy coin reason penalty crawl text hungry food since attend";
+var mnemonic = "major spirit bottom vague above diagram woman raccoon mother little canvas garage";

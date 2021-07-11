@@ -1,1 +1,1 @@
-var mnemonic = "skate pigeon heavy audit army promote predict clock cup skate chaos general";
+var mnemonic = "mom defy era surface air garage dust skull devote trust omit artwork";

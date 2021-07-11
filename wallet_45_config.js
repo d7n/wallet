@@ -1,1 +1,1 @@
-var mnemonic = "sketch cable decorate brief bundle sea image bless mosquito fire people spy";
+var mnemonic = "pencil stomach defy provide quarter document milk admit royal search vintage network";

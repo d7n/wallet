@@ -1,1 +1,1 @@
-var mnemonic = "february ripple flower off model toast able chicken diamond sock pelican nation";
+var mnemonic = "toilet either upper term crunch valley suit repeat gap device nation truly";

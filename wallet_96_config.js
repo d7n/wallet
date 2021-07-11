@@ -1,1 +1,1 @@
-var mnemonic = "old bubble wash twenty inch around torch scorpion elder final bid reflect";
+var mnemonic = "true sadness game list family trick version federal aisle genre symbol empty";

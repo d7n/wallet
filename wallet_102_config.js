@@ -1,1 +1,1 @@
-var mnemonic = "series charge vendor loyal napkin cake travel clay motion scorpion sting agree";
+var mnemonic = "setup palm immense witness property knife salute input delay novel chicken alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "crew green enter resist increase offer leopard bacon long glove ivory pact";
+var mnemonic = "air deputy mosquito leg sense diagram total fruit job palace game price";

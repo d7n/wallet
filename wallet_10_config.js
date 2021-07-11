@@ -1,1 +1,1 @@
-var mnemonic = "tattoo deposit boy ancient bike there clock uncover crumble nurse cotton relax";
+var mnemonic = "fossil save odor snack custom jungle also steel surface final oblige print";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet hour hen tobacco olive arrow coral foil remember slender mystery elbow";
+var mnemonic = "try utility shrug neutral final talk seminar throw domain tattoo assist sail";

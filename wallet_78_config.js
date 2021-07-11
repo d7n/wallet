@@ -1,1 +1,1 @@
-var mnemonic = "viable trip cry bargain citizen during dash tackle rail festival glide disagree";
+var mnemonic = "live that pizza staff ready act coil struggle warm call script carpet";

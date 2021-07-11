@@ -1,1 +1,1 @@
-var mnemonic = "rate cross slow stamp pizza bundle resist harbor midnight drum catalog trash";
+var mnemonic = "ahead raw account custom radio guard twist shell between mention ring flip";

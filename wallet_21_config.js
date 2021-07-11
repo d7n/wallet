@@ -1,1 +1,1 @@
-var mnemonic = "lucky gym enhance window accuse position language catalog clap exhibit design moon";
+var mnemonic = "danger glow employ champion distance caught soccer garage cherry sample afford around";

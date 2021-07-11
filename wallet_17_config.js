@@ -1,1 +1,1 @@
-var mnemonic = "human cloth police mushroom crazy bubble spin foil asthma wide body village";
+var mnemonic = "slogan patch table angry biology unfair include churn denial arrow excess neutral";

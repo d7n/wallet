@@ -1,1 +1,1 @@
-var mnemonic = "hello resemble future innocent return hidden light farm area eyebrow toward fever";
+var mnemonic = "wash coast custom hammer angle pact useless salmon sniff hurry report anxiety";

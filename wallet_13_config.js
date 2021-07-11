@@ -1,1 +1,1 @@
-var mnemonic = "blind endorse equal corn sense fetch expand leaf syrup hedgehog crunch tag";
+var mnemonic = "large bulb denial scan modify entry kitten canoe into sword allow monster";

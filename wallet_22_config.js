@@ -1,1 +1,1 @@
-var mnemonic = "vocal banner peanut liberty street easily lady arrest text trumpet boat spy";
+var mnemonic = "jeans left across better cargo found address witness senior track congress hamster";

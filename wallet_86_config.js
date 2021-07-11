@@ -1,1 +1,1 @@
-var mnemonic = "reflect crucial load engage addict wheat wedding arm love labor type rough";
+var mnemonic = "ugly cube bike define stock clarify hamster become civil puzzle prize virtual";

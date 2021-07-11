@@ -1,1 +1,1 @@
-var mnemonic = "hat master replace second stairs client ahead fiscal permit fringe world pluck";
+var mnemonic = "host ostrich photo ranch smart vault lift grant daring nature notable rose";

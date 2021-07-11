@@ -1,1 +1,1 @@
-var mnemonic = "have honey aerobic figure lunar force veteran common swarm unlock yellow suspect";
+var mnemonic = "pledge sugar nose foil govern feature elder faculty slender route accuse peasant";

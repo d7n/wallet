@@ -1,1 +1,1 @@
-var mnemonic = "congress cherry unfold pride nothing elevator earn vast panther hockey problem crucial";
+var mnemonic = "grit monitor major duty orient case exhibit annual toddler say honey few";

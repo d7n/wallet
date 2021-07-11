@@ -1,1 +1,1 @@
-var mnemonic = "normal assist sibling resist venture year wet ahead chaos ensure health attend";
+var mnemonic = "card battle index fox hover poem build lyrics length ensure dizzy gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "flush protect pulp grocery sun verb culture someone inside win pizza speed";
+var mnemonic = "camp skin sudden wolf scatter future among purchase enemy middle dignity sting";

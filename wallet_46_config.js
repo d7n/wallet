@@ -1,1 +1,1 @@
-var mnemonic = "ozone neglect split relax cruel type real around base more diamond science";
+var mnemonic = "future company doctor holiday staff simple helmet abuse problem dream virus patch";

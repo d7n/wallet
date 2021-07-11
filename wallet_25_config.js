@@ -1,1 +1,1 @@
-var mnemonic = "tennis fossil doctor exit planet business slender dress swear one play hockey";
+var mnemonic = "puppy drama expect uncover hazard calm lab video tobacco loud alone tiger";

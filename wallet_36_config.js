@@ -1,1 +1,1 @@
-var mnemonic = "gym supply breeze moon comic between egg disease feed risk kiwi guard";
+var mnemonic = "equip forest month offer home bracket net empty coil amount picnic welcome";

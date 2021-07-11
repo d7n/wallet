@@ -1,1 +1,1 @@
-var mnemonic = "riot very there into rich benefit tube remain onion fire resist toilet";
+var mnemonic = "brother cabin inch point unlock fatigue illness tackle kiss worry security across";

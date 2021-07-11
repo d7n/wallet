@@ -1,1 +1,1 @@
-var mnemonic = "heart nerve couple cabin island person foster can copy daring slot fuel";
+var mnemonic = "long course better permit width silent bar hub reflect flip lemon half";

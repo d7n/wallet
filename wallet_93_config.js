@@ -1,1 +1,1 @@
-var mnemonic = "angle glow shop cute story oblige grid fox box earth shrug tourist";
+var mnemonic = "right concert jacket art chalk surround fantasy that gorilla crack length envelope";

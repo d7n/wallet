@@ -1,1 +1,1 @@
-var mnemonic = "extra audit screen govern lunch come bicycle employ fatal arm account muffin";
+var mnemonic = "foil rate leg hunt praise drum battle gate scorpion combine credit load";

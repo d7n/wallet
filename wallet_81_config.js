@@ -1,1 +1,1 @@
-var mnemonic = "clump exotic collect view dilemma chimney slogan material point shine advice call";
+var mnemonic = "victory vendor enrich swamp relax combine fall mixed defense goose essence resource";

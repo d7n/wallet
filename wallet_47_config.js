@@ -1,1 +1,1 @@
-var mnemonic = "used pen glare limb sick illegal boil vicious owner setup goose beach";
+var mnemonic = "ocean biology humble clerk two about desk throw offer soap bullet lucky";

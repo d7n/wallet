@@ -1,1 +1,1 @@
-var mnemonic = "social grape dream peasant symptom series dose limb stamp cliff race kangaroo";
+var mnemonic = "march ignore predict task legal raise solar pear tip elite note finger";

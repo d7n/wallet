@@ -1,1 +1,1 @@
-var mnemonic = "furnace minimum fabric energy again prefer just recycle view goddess donkey dress";
+var mnemonic = "figure afraid earth mesh picture offer bind gauge early monster trap give";

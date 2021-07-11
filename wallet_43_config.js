@@ -1,1 +1,1 @@
-var mnemonic = "fashion artefact junior network forward squeeze scout pet barrel layer giggle spice";
+var mnemonic = "girl song interest expire lizard surge device novel nasty hat wing acid";

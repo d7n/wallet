@@ -1,1 +1,1 @@
-var mnemonic = "embark nut close transfer prosper mosquito acoustic dune truth viable fame rack";
+var mnemonic = "style inquiry girl vocal gift entire never allow wine inspire nominee family";

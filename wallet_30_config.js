@@ -1,1 +1,1 @@
-var mnemonic = "outdoor movie bean genuine cream chapter own alarm access wise dove popular";
+var mnemonic = "scorpion civil glad zebra boil feel capable habit describe medal rate sure";

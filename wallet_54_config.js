@@ -1,1 +1,1 @@
-var mnemonic = "try fiction adjust cinnamon you people emerge wreck weird fluid debate sail";
+var mnemonic = "frequent debris worry define hurry roast belt scrub two meadow fault again";

@@ -1,1 +1,1 @@
-var mnemonic = "divert buzz push range shoulder thing pet oval run legend brand title";
+var mnemonic = "stuff siege oyster rebel focus monster senior fit mobile dream dose large";

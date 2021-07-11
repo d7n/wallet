@@ -1,1 +1,1 @@
-var mnemonic = "discover issue soup will still same focus vacuum cactus curious tree engine";
+var mnemonic = "hidden feature buyer carbon script uncle hobby wrist dash train search unique";

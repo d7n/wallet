@@ -1,1 +1,1 @@
-var mnemonic = "boat imitate cover boil target issue become warm reopen oxygen finish poet";
+var mnemonic = "rookie sentence cry danger else spike pilot dragon toward future desk blanket";

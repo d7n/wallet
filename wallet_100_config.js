@@ -1,1 +1,1 @@
-var mnemonic = "opinion industry refuse frown sorry brief garment boost arena phone month clever";
+var mnemonic = "art sick connect sauce about worth ensure farm slush position play almost";

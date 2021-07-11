@@ -1,1 +1,1 @@
-var mnemonic = "rate ship quit column crime liar situate scrap lock police run blood";
+var mnemonic = "thank cross gold omit filter unhappy trim protect scheme bring april guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "secret pair ready elite guide chapter liquid travel oppose tennis reform scout";
+var mnemonic = "toward illness language million able weird lens trick glory elevator kitchen table";

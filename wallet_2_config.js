@@ -1,1 +1,1 @@
-var mnemonic = "nurse fault save start floor travel prefer length stumble cheap border awkward";
+var mnemonic = "cargo boss bullet match attract provide inquiry clay impulse select burden either";

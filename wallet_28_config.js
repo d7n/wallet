@@ -1,1 +1,1 @@
-var mnemonic = "citizen collect circle topple heart trim cause split cradle spike soccer car";
+var mnemonic = "sibling ticket morning library asset type income tunnel double old book short";

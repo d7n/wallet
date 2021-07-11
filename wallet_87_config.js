@@ -1,1 +1,1 @@
-var mnemonic = "common deliver hidden clog alert soap hunt turkey all cruise good crew";
+var mnemonic = "foster miracle soup inject can prison grief rival bacon curious issue yellow";

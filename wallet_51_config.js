@@ -1,1 +1,1 @@
-var mnemonic = "twenty thrive student marriage raccoon pen lazy match buffalo urban pill math";
+var mnemonic = "quality distance interest bubble circle dolphin despair sponsor stem grocery display child";

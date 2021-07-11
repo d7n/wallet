@@ -1,1 +1,1 @@
-var mnemonic = "bargain soccer tuition subject minor that print alone stem glow fruit motor";
+var mnemonic = "country maid radio trim narrow lake benefit enemy cash orchard donkey pig";

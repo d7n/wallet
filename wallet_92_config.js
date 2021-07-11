@@ -1,1 +1,1 @@
-var mnemonic = "shop regret humble ranch witness magnet girl response skill sweet injury flat";
+var mnemonic = "easy outer raw draft theory actual scale route tongue enough angle nice";

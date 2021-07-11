@@ -1,1 +1,1 @@
-var mnemonic = "gas giggle spider blossom exile pause artefact demise prison input wine nasty";
+var mnemonic = "illegal need soft dentist taste current spend sunny juice love lobster hundred";

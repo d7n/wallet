@@ -1,1 +1,1 @@
-var mnemonic = "dog neutral street engage deposit real cause recipe brick notice tomato brush";
+var mnemonic = "taxi express robot forum poet liberty congress claim choose arch unhappy neglect";

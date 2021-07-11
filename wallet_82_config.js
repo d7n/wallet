@@ -1,1 +1,1 @@
-var mnemonic = "neglect yard amateur change case push call sniff erupt naive crime possible";
+var mnemonic = "just crime skill chase awkward maple broccoli way way limit blind grace";

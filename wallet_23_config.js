@@ -1,1 +1,1 @@
-var mnemonic = "marriage survey denial impact april topic recall hawk win goose aunt echo";
+var mnemonic = "weapon ride hand future oppose trap divert six scorpion lift bicycle birth";

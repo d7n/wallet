@@ -1,1 +1,1 @@
-var mnemonic = "warfare forest lounge iron twelve swim sing state lounge fix divert return";
+var mnemonic = "start hunt ill solid mosquito jewel ticket imitate wing echo clip shrimp";

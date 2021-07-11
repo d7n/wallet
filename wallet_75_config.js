@@ -1,1 +1,1 @@
-var mnemonic = "art fetch confirm ten drift bullet between length faint riot pause okay";
+var mnemonic = "genuine grass verify oval win advice cross crew orange clinic history egg";

@@ -1,1 +1,1 @@
-var mnemonic = "junior derive east busy empower immune cupboard hood practice velvet document require";
+var mnemonic = "online giant bundle magnet tennis cabin switch demand choice buzz lunch sort";

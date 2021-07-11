@@ -1,1 +1,1 @@
-var mnemonic = "broken universe decade group mixture outdoor swim achieve solid since bright style";
+var mnemonic = "tomorrow ranch hurt discover play romance cheese traffic music hip shrug fish";

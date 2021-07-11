@@ -1,1 +1,1 @@
-var mnemonic = "brisk perfect black vintage pave color armed moral ship muffin wood basic";
+var mnemonic = "narrow gun inflict celery have steel board student venue any guide disorder";

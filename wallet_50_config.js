@@ -1,1 +1,1 @@
-var mnemonic = "beach thrive magnet fence crazy miss abuse august city enable dilemma guilt";
+var mnemonic = "foot soda lobster ocean unfair material organ tortoise this view logic mind";

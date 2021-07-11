@@ -1,1 +1,1 @@
-var mnemonic = "solve hammer coast slot shuffle leave either cabbage champion inspire safe shoulder";
+var mnemonic = "raven model match supply bird flag notice grass cute sudden cover liar";

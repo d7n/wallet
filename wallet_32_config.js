@@ -1,1 +1,1 @@
-var mnemonic = "pause result retire same normal curious party shallow diary history mansion ignore";
+var mnemonic = "scorpion direct reveal gorilla boat bus gravity maid lake tourist clump must";

@@ -1,1 +1,1 @@
-var mnemonic = "street want panda gas divorce glue surround sugar seminar cheap physical voice";
+var mnemonic = "tail airport cable sample unable bicycle bulb broom start piece aware burden";

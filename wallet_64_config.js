@@ -1,1 +1,1 @@
-var mnemonic = "absorb entry patient domain daring ribbon access rally super then shove fragile";
+var mnemonic = "case federal six anger energy ancient illness drill true hammer tuition pluck";

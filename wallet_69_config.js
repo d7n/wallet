@@ -1,1 +1,1 @@
-var mnemonic = "leader mystery year obey install velvet huge denial visa sketch muffin soldier";
+var mnemonic = "cook nephew duck art artwork squirrel bitter suffer advice happy raccoon comic";

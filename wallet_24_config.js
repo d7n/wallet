@@ -1,1 +1,1 @@
-var mnemonic = "reopen traffic bird delay toast lock success list spider soda grab champion";
+var mnemonic = "claim resemble copy lock adult bicycle joy please crime also absent chaos";

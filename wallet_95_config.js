@@ -1,1 +1,1 @@
-var mnemonic = "approve fall palace hold luggage van hurdle sleep add doll involve peace";
+var mnemonic = "remind quarter pair observe program entire accuse road citizen any innocent raw";

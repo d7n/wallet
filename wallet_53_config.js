@@ -1,1 +1,1 @@
-var mnemonic = "zone great chronic liar eternal blanket observe token permit eight expect core";
+var mnemonic = "draw point noble weekend develop layer beyond current wife drama blue weekend";

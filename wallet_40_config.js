@@ -1,1 +1,1 @@
-var mnemonic = "ribbon talk crop dumb have gospel pistol code armed sign athlete surge";
+var mnemonic = "half embark burger evidence cactus welcome story project brisk bomb garment snap";

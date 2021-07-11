@@ -1,1 +1,1 @@
-var mnemonic = "exhibit track echo piece wreck device unhappy book lunar baby mercy final";
+var mnemonic = "mean regret man legal worth journey poem fly milk afraid remember short";

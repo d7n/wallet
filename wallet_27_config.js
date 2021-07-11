@@ -1,1 +1,1 @@
-var mnemonic = "suit cluster pool organ stomach divert primary tonight cinnamon noodle share margin";
+var mnemonic = "slot planet horror chest ripple direct balance spare chief post behind leg";

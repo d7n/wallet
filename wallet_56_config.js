@@ -1,1 +1,1 @@
-var mnemonic = "swim vicious when never enable thank monitor possible unique icon pair session";
+var mnemonic = "snake brave myself reveal wait nest jelly van lab symptom state unaware";

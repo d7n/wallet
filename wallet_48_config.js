@@ -1,1 +1,1 @@
-var mnemonic = "deliver forget purchase maze slim salt sweet pear medal play unit nuclear";
+var mnemonic = "picture route alarm unlock stove solve sustain isolate blue change index spare";

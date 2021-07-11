@@ -1,1 +1,1 @@
-var mnemonic = "night sword loop sketch risk advance manual prepare industry card cool hint";
+var mnemonic = "supreme obey slight happy spirit fancy decide shoot shrimp ensure mention exile";

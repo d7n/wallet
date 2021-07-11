@@ -1,1 +1,1 @@
-var mnemonic = "glimpse strong work judge polar annual know oil pitch unable worth kiss";
+var mnemonic = "scout slight sheriff mosquito stage bubble resist update pulse begin daring silent";

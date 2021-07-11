@@ -1,1 +1,1 @@
-var mnemonic = "sun custom awkward security can van erosion wear express now gown salute";
+var mnemonic = "blossom floor slot mixture mushroom knee smoke claim cake museum tuna night";

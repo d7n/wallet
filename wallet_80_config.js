@@ -1,1 +1,1 @@
-var mnemonic = "thumb torch mean laptop online sword near usage skull creek blouse task";
+var mnemonic = "aerobic hammer bag hub beyond safe arch decline unfair alien tobacco kid";

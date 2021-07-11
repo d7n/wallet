@@ -1,1 +1,1 @@
-var mnemonic = "final scrub vast useful divide build call sort grape north prize soap";
+var mnemonic = "sense side walk away token angry great royal ritual horror breeze purity";

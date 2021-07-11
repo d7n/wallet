@@ -1,1 +1,1 @@
-var mnemonic = "obscure couch risk home nurse month fortune fence inherit boss treat lucky";
+var mnemonic = "prosper defense success lazy derive pave enable subway keen original artwork glow";

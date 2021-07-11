@@ -1,1 +1,1 @@
-var mnemonic = "afford length cook stone casual gravity online runway cactus deputy measure rough";
+var mnemonic = "dune waste pass predict silk save only square garlic mammal car fit";

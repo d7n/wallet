@@ -1,1 +1,1 @@
-var mnemonic = "uniform strike hurry typical maid height carbon offer spell spice trial success";
+var mnemonic = "love label gun brush unaware fluid awesome neck shield only venture gain";

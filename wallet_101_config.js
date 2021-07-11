@@ -1,1 +1,1 @@
-var mnemonic = "iron lesson flush put tool awesome void theory rice replace letter side";
+var mnemonic = "chest adult rib price jazz steel hospital pause hammer coin security reform";

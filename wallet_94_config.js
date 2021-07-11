@@ -1,1 +1,1 @@
-var mnemonic = "spot scorpion dumb gallery cherry execute sleep glimpse misery nasty thunder crime";
+var mnemonic = "whale found sustain rhythm forget decide pause truck royal illegal bamboo legal";

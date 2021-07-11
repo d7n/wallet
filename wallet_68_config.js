@@ -1,1 +1,1 @@
-var mnemonic = "hybrid burden bright tree sting home model cycle zoo stamp narrow clay";
+var mnemonic = "foot output catch popular moment lizard play trouble juice hire small flavor";

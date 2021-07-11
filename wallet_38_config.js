@@ -1,1 +1,1 @@
-var mnemonic = "coil index inspire sausage trophy kiss tumble desert meadow phone sound figure";
+var mnemonic = "glory april charge forget satisfy crucial broccoli forget proof age urban prepare";
