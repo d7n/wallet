@@ -1,1 +1,1 @@
-var mnemonic = "robust kitten school matrix mesh column loud bamboo noodle scout pool long";
+var mnemonic = "begin regular extra practice village cruise useless donkey elite pledge enact nose";

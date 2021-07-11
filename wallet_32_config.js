@@ -1,1 +1,1 @@
-var mnemonic = "label please gold direct range vapor mimic yellow elevator dragon parrot rabbit";
+var mnemonic = "pride oblige worth jealous drive fatigue card subject end melt program measure";

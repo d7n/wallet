@@ -1,1 +1,1 @@
-var mnemonic = "note napkin spike pilot acid grant provide spike mandate nose attitude bag";
+var mnemonic = "write few spoon require dash marble catalog liquid tourist thing ribbon luggage";

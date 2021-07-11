@@ -1,1 +1,1 @@
-var mnemonic = "trade reason owner wage tomorrow palace because multiply cactus song frog morning";
+var mnemonic = "palm winner usual often thank robot survey potato time motion earn blur";

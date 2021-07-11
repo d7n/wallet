@@ -1,1 +1,1 @@
-var mnemonic = "bulb lunch burger talk surge finger trick crowd pilot achieve pulp atom";
+var mnemonic = "prosper wine valid must occur video cherry frame similar also parent paddle";

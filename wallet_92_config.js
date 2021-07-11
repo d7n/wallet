@@ -1,1 +1,1 @@
-var mnemonic = "trouble aim evil corn ready ski portion awake ridge farm wait love";
+var mnemonic = "cheese gravity polar pistol catalog rebuild clean upgrade culture vocal business hub";

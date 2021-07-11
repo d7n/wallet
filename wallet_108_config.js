@@ -1,1 +1,1 @@
-var mnemonic = "wrestle term job chef great magnet fetch rough chat cluster shine choice";
+var mnemonic = "math update announce express amount olive satoshi rebuild grocery diesel divert leg";

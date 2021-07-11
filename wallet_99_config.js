@@ -1,1 +1,1 @@
-var mnemonic = "trash insect test bind dinosaur unlock tomorrow abuse essence fossil animal belt";
+var mnemonic = "play oil icon penalty puzzle seed inch steak alter anchor radio sting";

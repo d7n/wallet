@@ -1,1 +1,1 @@
-var mnemonic = "orphan fashion parrot melody tiny crush timber movie tool lounge acoustic curious";
+var mnemonic = "bind pipe surge awake hollow range firm arrive initial hunt digital auto";

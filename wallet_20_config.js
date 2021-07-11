@@ -1,1 +1,1 @@
-var mnemonic = "ensure submit supply mention tree science skate critic pioneer donkey expire motor";
+var mnemonic = "delay point have liquid knee robot load agree afford outdoor embrace camp";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn draft afford opinion milk comic large want carry slender odor daughter";
+var mnemonic = "leave alarm vivid insect zone beyond pet orbit office imitate strike napkin";

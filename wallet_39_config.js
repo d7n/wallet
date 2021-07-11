@@ -1,1 +1,1 @@
-var mnemonic = "census agent party wisdom stay sick zero female smile gate list other";
+var mnemonic = "visual doll blur web sock nice load task kitchen divert enter horror";

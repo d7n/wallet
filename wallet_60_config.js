@@ -1,1 +1,1 @@
-var mnemonic = "battle obey minor frost awkward second knife main eye quit apology hand";
+var mnemonic = "silent before large vicious mechanic ivory stock sample cram ecology curtain hawk";

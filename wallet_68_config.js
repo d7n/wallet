@@ -1,1 +1,1 @@
-var mnemonic = "object arrow useful leopard armed large decorate assume seek remain naive top";
+var mnemonic = "awesome venture east marble entire electric blanket chef escape surge arch miracle";

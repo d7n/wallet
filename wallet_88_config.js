@@ -1,1 +1,1 @@
-var mnemonic = "ocean fever apple march cricket attitude glimpse embody cluster trumpet habit join";
+var mnemonic = "main dose tiny ankle surround syrup staff combine silly excess damage bronze";

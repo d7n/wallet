@@ -1,1 +1,1 @@
-var mnemonic = "account fun boat excess ostrich neither increase during vanish safe hybrid frown";
+var mnemonic = "grass cradle like excuse theme hair unknown sell attitude occur confirm stool";

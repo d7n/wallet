@@ -1,1 +1,1 @@
-var mnemonic = "duck outer glove help bright scorpion extend frame giggle sugar flash salmon";
+var mnemonic = "art firm sense hero alley door miss wait kiwi lesson history claw";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow rude razor orange used perfect blush decade hamster gadget patient peasant";
+var mnemonic = "matter any auto jungle rather blanket language powder junk awake toss rail";

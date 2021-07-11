@@ -1,1 +1,1 @@
-var mnemonic = "peasant zebra unhappy that orchard general oak symptom soup either creek math";
+var mnemonic = "worth drip sadness kind control road work fresh minimum good hand barrel";

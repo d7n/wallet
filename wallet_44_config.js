@@ -1,1 +1,1 @@
-var mnemonic = "dice romance vehicle trophy gun noble benefit onion story picture galaxy wolf";
+var mnemonic = "hurdle lady leg know pig adjust cycle nerve churn bubble olympic guess";

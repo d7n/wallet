@@ -1,1 +1,1 @@
-var mnemonic = "dog just witness attitude naive tray remember token check fashion meat person";
+var mnemonic = "favorite dog remain crouch weather rhythm suggest pilot goose also bunker park";

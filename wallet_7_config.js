@@ -1,1 +1,1 @@
-var mnemonic = "miracle foil gun salmon someone tube monkey thank access comic journey sheriff";
+var mnemonic = "catch result chaos cabin inhale elephant swear grab step reveal inside fan";

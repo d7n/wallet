@@ -1,1 +1,1 @@
-var mnemonic = "hire edge sign mushroom dice warm confirm nothing poet announce remember universe";
+var mnemonic = "glass fancy bulb enjoy blouse help fiber enemy impact twenty reject gap";

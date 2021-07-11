@@ -1,1 +1,1 @@
-var mnemonic = "crush crystal sun crew kiss gift enforce output stem mosquito layer image";
+var mnemonic = "wood science mention fancy lucky provide recycle boat snow safe card wasp";

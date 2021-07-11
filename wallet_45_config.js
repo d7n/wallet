@@ -1,1 +1,1 @@
-var mnemonic = "that album intact essence sense walk test derive page jazz elevator pet";
+var mnemonic = "clog involve spray below elder march excess shine tag pull erase column";

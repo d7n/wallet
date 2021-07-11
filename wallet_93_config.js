@@ -1,1 +1,1 @@
-var mnemonic = "sell bullet orchard false stove wet volume old rose sad shoulder normal";
+var mnemonic = "giraffe salt aunt blanket dignity bulb virus rubber soup razor beyond cost";

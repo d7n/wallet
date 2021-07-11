@@ -1,1 +1,1 @@
-var mnemonic = "toss blush blossom universe spring salmon around space shop receive problem luxury";
+var mnemonic = "quantum current visa party siren hollow slogan drive avocado broom arch earn";

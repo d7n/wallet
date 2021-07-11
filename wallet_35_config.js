@@ -1,1 +1,1 @@
-var mnemonic = "inherit wreck basket patrol spy aisle dove object profit whip margin clap";
+var mnemonic = "curtain unfair tiger speak luxury special circle young typical friend scout beauty";

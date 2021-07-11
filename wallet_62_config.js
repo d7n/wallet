@@ -1,1 +1,1 @@
-var mnemonic = "minimum lecture trash hazard cherry rare grief forget window salute toe safe";
+var mnemonic = "juice banana symbol six duck road flock step fat page hand oblige";

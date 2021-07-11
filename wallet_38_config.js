@@ -1,1 +1,1 @@
-var mnemonic = "sugar fancy trash coffee cash song exact citizen silly price ginger hint";
+var mnemonic = "always course tobacco between hurry cliff push seed door leave candy burden";

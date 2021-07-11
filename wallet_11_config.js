@@ -1,1 +1,1 @@
-var mnemonic = "survey moon torch recipe staff above noodle adult sell mystery silver funny";
+var mnemonic = "elephant romance elbow tunnel aisle winter exhibit slam modify enemy decorate wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor casino ability disagree air knife wolf clap brick crane dose busy";
+var mnemonic = "sight bamboo bless laptop guitar arrive around simple worry knife guide crouch";

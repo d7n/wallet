@@ -1,1 +1,1 @@
-var mnemonic = "fringe relief gold odor song obvious bottom spawn fine salt include left";
+var mnemonic = "ivory weird dog frog perfect corn wool bullet hair picnic pluck soon";

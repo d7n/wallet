@@ -1,1 +1,1 @@
-var mnemonic = "allow gorilla popular shop cover retire price absurd lonely orphan camera domain";
+var mnemonic = "another among liar method anchor educate tuna derive keen rain fan cash";

@@ -1,1 +1,1 @@
-var mnemonic = "busy ginger scare addict opera degree caution total suggest town okay mirror";
+var mnemonic = "job festival reason close spoon thumb mention ridge ghost twenty renew pave";

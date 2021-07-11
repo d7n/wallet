@@ -1,1 +1,1 @@
-var mnemonic = "super avoid industry jeans chief exercise leopard hidden ice level ocean flower";
+var mnemonic = "quit case lamp bachelor risk wheat elevator fork history replace drama mirror";

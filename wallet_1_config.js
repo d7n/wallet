@@ -1,1 +1,1 @@
-var mnemonic = "absent pattern code vault adjust marble nominee target casino grab upper index";
+var mnemonic = "room motor destroy unable lens fire shaft model tilt filter provide frog";

@@ -1,1 +1,1 @@
-var mnemonic = "vital maple teach turkey hobby scissors know scrub click property various holiday";
+var mnemonic = "winner dynamic home axis arrest ice aspect carry deal oyster mystery dash";

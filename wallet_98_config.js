@@ -1,1 +1,1 @@
-var mnemonic = "exchange pistol rival art earth neck metal pact vault depend service setup";
+var mnemonic = "foster hand live empower property forum wage end jewel tree decide film";

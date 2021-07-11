@@ -1,1 +1,1 @@
-var mnemonic = "knife build pipe august rhythm head select model heart inspire arrest vicious";
+var mnemonic = "ocean pull dolphin mean south soon rib trim abstract discover decline riot";

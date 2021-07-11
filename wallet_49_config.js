@@ -1,1 +1,1 @@
-var mnemonic = "organ excuse beef congress silent salmon hurt hub bring cloth around message";
+var mnemonic = "napkin right leg upset wealth nest dove cricket slush album case army";

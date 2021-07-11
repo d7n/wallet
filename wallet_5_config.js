@@ -1,1 +1,1 @@
-var mnemonic = "album mechanic bar drip solid dial gadget gossip apology glow list state";
+var mnemonic = "foam excite dirt expand member acoustic release game arch ice betray man";

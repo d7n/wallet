@@ -1,1 +1,1 @@
-var mnemonic = "crush rebel sea around lonely virus cotton trophy cruise floor spot pig";
+var mnemonic = "tomato skill bracket actual arm clever abuse rural era moon lamp aerobic";

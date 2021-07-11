@@ -1,1 +1,1 @@
-var mnemonic = "version elbow space unknown deposit indicate ribbon misery alter midnight choose knock";
+var mnemonic = "collect mind obtain mesh load primary tail neutral wrap inflict rival main";

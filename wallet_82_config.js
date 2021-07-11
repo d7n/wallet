@@ -1,1 +1,1 @@
-var mnemonic = "sure chunk bitter twice melody museum math chief fury jungle such blue";
+var mnemonic = "achieve bar harsh frog normal speed actual exhibit fancy theory dove dress";

@@ -1,1 +1,1 @@
-var mnemonic = "weird column early eagle kiwi purpose resource bunker monster release patient escape";
+var mnemonic = "foot old auction supply aunt dizzy enrich outdoor echo allow festival charge";

@@ -1,1 +1,1 @@
-var mnemonic = "repair bronze baby demise point what unaware cable boring resist still over";
+var mnemonic = "adult coffee write logic three recipe pattern rookie chase input transfer squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "essence curious involve popular fresh coral receive kit tragic drift edge regular";
+var mnemonic = "identify similar jeans rib logic few belt habit quick balcony punch stick";

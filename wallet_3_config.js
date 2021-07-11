@@ -1,1 +1,1 @@
-var mnemonic = "reunion wisdom abstract wear consider pluck behave tide silly spider desert idea";
+var mnemonic = "sell settle action congress wink obscure pink damage sponsor guess fancy raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "term winner approve fatal manual vendor ranch pill lawn cross time asset";
+var mnemonic = "doll recall surface layer leg brisk aerobic pond coconut cricket hero mix";

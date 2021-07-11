@@ -1,1 +1,1 @@
-var mnemonic = "apology giraffe talk source eye pupil swing match guide turtle ancient then";
+var mnemonic = "pet flame ghost month erode answer hip attend now balcony concert endorse";

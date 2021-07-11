@@ -1,1 +1,1 @@
-var mnemonic = "evidence scrap junk grocery forest require gather run fade gym amazing opera";
+var mnemonic = "grab struggle pet loud tobacco cousin legend duck monster blast away trip";

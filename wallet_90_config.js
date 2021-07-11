@@ -1,1 +1,1 @@
-var mnemonic = "post banner husband emotion notice biology update stamp vivid timber tennis weapon";
+var mnemonic = "orphan glide airport spend section lake wrap ski rigid during nurse cactus";

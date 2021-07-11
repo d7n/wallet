@@ -1,1 +1,1 @@
-var mnemonic = "improve shadow flush prison shop local artefact earth glare devote gap flock";
+var mnemonic = "alpha install theory holiday token license basket gasp desert cradle energy habit";

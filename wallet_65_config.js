@@ -1,1 +1,1 @@
-var mnemonic = "various sibling hungry kitchen morning rough engage trim sing punch primary green";
+var mnemonic = "want human wagon march bar cloud dust palace inhale proud police start";

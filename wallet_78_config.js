@@ -1,1 +1,1 @@
-var mnemonic = "deer manage ketchup icon parade evidence snack inner write filter submit quote";
+var mnemonic = "fly copy camera love pair egg stereo fatal wheel horn harvest provide";

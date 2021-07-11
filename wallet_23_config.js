@@ -1,1 +1,1 @@
-var mnemonic = "approve rabbit expand diagram churn flight skate trust stadium extend method rival";
+var mnemonic = "foam ridge hello asthma cat logic win trick wood innocent city edge";

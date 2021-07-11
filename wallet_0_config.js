@@ -1,1 +1,1 @@
-var mnemonic = "mouse city logic fade bargain liberty culture twin broom island catch forget";
+var mnemonic = "sock smart shallow win supply harbor system electric tuition celery require inspire";

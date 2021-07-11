@@ -1,1 +1,1 @@
-var mnemonic = "scrap process park wealth wedding tuna company dentist liar join good space";
+var mnemonic = "father bar inner wife olive hip holiday smile shadow toast point lunch";

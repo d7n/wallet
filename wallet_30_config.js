@@ -1,1 +1,1 @@
-var mnemonic = "print ticket thought leader city embrace demand drink crunch gossip violin citizen";
+var mnemonic = "garage pattern income dose salt wall twin frozen canoe project move tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "hub fatigue cluster admit execute climb uncle daring depart snake runway rebuild";
+var mnemonic = "eight raw fence cement plate decline oil skin boss chronic coral august";

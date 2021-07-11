@@ -1,1 +1,1 @@
-var mnemonic = "glance obtain minute nice leg famous image genius garage cheap witness busy";
+var mnemonic = "magnet frozen cannon mercy crew tray only fiction bunker screen spatial sick";

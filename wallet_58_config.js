@@ -1,1 +1,1 @@
-var mnemonic = "tag fog brain history stage flat write broccoli arch clarify knock insect";
+var mnemonic = "silly wrong trade travel kitchen north print accuse venture country segment example";

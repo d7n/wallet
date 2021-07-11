@@ -1,1 +1,1 @@
-var mnemonic = "error must argue tag need recipe group absorb tilt razor solid bicycle";
+var mnemonic = "kind female spoil decorate maid ranch icon cabin symptom chalk corn capital";

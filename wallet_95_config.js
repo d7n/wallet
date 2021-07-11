@@ -1,1 +1,1 @@
-var mnemonic = "choice pear bird toilet solve drift jazz stick chalk ready badge license";
+var mnemonic = "trick gym dry enough bubble cement point random public happy donkey case";

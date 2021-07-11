@@ -1,1 +1,1 @@
-var mnemonic = "grid mandate neither lucky race slim nature mushroom vault round shoulder display";
+var mnemonic = "eye olympic danger reopen day style live topic fatal hunt various inform";

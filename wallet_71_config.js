@@ -1,1 +1,1 @@
-var mnemonic = "album battle trouble blue embody diagram opera lobster jelly elbow permit puppy";
+var mnemonic = "voice imitate regret junk false analyst amount van woman room give stumble";

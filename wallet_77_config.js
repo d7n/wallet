@@ -1,1 +1,1 @@
-var mnemonic = "shell prefer worth comfort mammal movie galaxy puppy fee orange push roast";
+var mnemonic = "scout rule wrap maid lab blade travel edge burst scrub concert demise";

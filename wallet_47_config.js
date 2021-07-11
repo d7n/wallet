@@ -1,1 +1,1 @@
-var mnemonic = "fall fortune sniff blur hero cloud coil alert excess blur sample offer";
+var mnemonic = "insect shadow tell unfold moral fade truly range polar garment organ mistake";

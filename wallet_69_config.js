@@ -1,1 +1,1 @@
-var mnemonic = "best fluid promote define regular target fork minor evoke grain mass bridge";
+var mnemonic = "can error news gorilla erosion census pelican injury outside ball stable peasant";

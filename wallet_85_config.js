@@ -1,1 +1,1 @@
-var mnemonic = "disease eye glass dwarf twenty holiday smile derive basic excess protect future";
+var mnemonic = "mind biology mercy seven staff prosper develop stand room fresh often census";

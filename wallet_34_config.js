@@ -1,1 +1,1 @@
-var mnemonic = "fossil donkey coffee sauce soap vicious general divorce always pupil fabric prevent";
+var mnemonic = "inject industry deliver swing soon noise assume alarm pole brand rail shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty scene limit renew broken exact still drip fashion position sing runway";
+var mnemonic = "tattoo cool vote best weird paddle true enroll stay vote domain awake";

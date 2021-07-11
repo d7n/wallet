@@ -1,1 +1,1 @@
-var mnemonic = "genius you hundred extra enter snack poet click rebel foster region unaware";
+var mnemonic = "large patient shrimp luggage steel mix pilot slim salon smart able fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado marine drastic kick hurry hip will subject buffalo report giant follow";
+var mnemonic = "cash liar opera absent symbol extend giggle hair anger pact candy begin";

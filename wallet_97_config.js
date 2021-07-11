@@ -1,1 +1,1 @@
-var mnemonic = "slab trap faculty grace border what cook stereo country caught illegal museum";
+var mnemonic = "switch meadow doctor reunion cook abandon record safe arch record skirt canvas";

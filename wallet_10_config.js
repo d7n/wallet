@@ -1,1 +1,1 @@
-var mnemonic = "decrease canvas diesel firm moral advance sail churn hunt boat require crucial";
+var mnemonic = "clean put nuclear rich merit welcome swarm law maple million flavor lemon";

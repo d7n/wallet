@@ -1,1 +1,1 @@
-var mnemonic = "dad bitter tiger axis length donkey paddle report pluck warrior skin assume";
+var mnemonic = "sausage rotate donor comic soup sponsor bind soup else sugar memory toss";

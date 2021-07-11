@@ -1,1 +1,1 @@
-var mnemonic = "upgrade club shed expand again desk tomorrow fantasy potato brave course naive";
+var mnemonic = "vibrant creek alone media enable marriage parent noble vague antique key alien";

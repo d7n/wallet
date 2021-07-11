@@ -1,1 +1,1 @@
-var mnemonic = "dance slice jaguar such candy spike time confirm over flight turkey verify";
+var mnemonic = "just audit legal castle major climb state prepare motion slam sock rescue";

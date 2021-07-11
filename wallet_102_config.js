@@ -1,1 +1,1 @@
-var mnemonic = "salon ladder vacuum awake purse connect accuse note smart panda student comic";
+var mnemonic = "uncle gaze addict donor fall legend short gospel retire mystery swallow wood";

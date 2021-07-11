@@ -1,1 +1,1 @@
-var mnemonic = "muffin practice humble cheese mimic grain junk series mixed sentence loan spawn";
+var mnemonic = "clump bone alpha dose member riot just tennis carbon avoid squirrel turkey";

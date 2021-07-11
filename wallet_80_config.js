@@ -1,1 +1,1 @@
-var mnemonic = "useful subway garden excite arch cactus boy home negative ancient foot render";
+var mnemonic = "medal coin fold food add wasp recall kiss sound loyal notice river";

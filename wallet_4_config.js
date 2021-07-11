@@ -1,1 +1,1 @@
-var mnemonic = "wear letter shoot sense soldier hen uncover change clap fire door limb";
+var mnemonic = "monster shoot pet produce section caught hint vacuum relax master raccoon motion";

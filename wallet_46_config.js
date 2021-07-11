@@ -1,1 +1,1 @@
-var mnemonic = "gorilla enroll used replace cereal base pepper this element category dinner observe";
+var mnemonic = "sphere glimpse argue shed avoid ivory skate mom siren carbon address scorpion";

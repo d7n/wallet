@@ -1,1 +1,1 @@
-var mnemonic = "employ provide confirm stuff chalk reopen old spot stem response venue ginger";
+var mnemonic = "point outdoor brass universe airport globe decorate fragile toe expect cheap hood";

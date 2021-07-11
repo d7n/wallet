@@ -1,1 +1,1 @@
-var mnemonic = "virtual obscure current ensure trial innocent leader elder crystal infant plastic bind";
+var mnemonic = "liquid always indoor client tunnel moment target swap dragon budget million dinosaur";

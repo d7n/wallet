@@ -1,1 +1,1 @@
-var mnemonic = "critic alert choice tortoise milk wealth transfer you occur burst actual sugar";
+var mnemonic = "fish faculty celery magic rely apology rare valid industry silk win travel";

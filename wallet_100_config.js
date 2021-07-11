@@ -1,1 +1,1 @@
-var mnemonic = "kitten armor remember beach insane unique uncle stand wasp fit tag scrap";
+var mnemonic = "man cook fantasy inherit flat master cactus shine shuffle water home stool";

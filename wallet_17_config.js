@@ -1,1 +1,1 @@
-var mnemonic = "weapon source onion deny tone family together sick match charge young apology";
+var mnemonic = "depend once flat ring humor glove fluid badge labor abstract hero real";

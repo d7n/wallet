@@ -1,1 +1,1 @@
-var mnemonic = "paddle main piece empty damp fetch puzzle today lazy flat penalty shoot";
+var mnemonic = "fabric bamboo bulk hip cement want shadow please rapid senior error pilot";

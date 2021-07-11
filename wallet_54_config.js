@@ -1,1 +1,1 @@
-var mnemonic = "resource grocery mushroom ignore flag trust fatal spin clown syrup congress airport";
+var mnemonic = "tilt render captain attract bulk quote reject mind cattle once walk master";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent foot profit empty faculty orphan cupboard tube twist state jump layer";
+var mnemonic = "expand tennis only range below any about burden attend six general long";

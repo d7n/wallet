@@ -1,1 +1,1 @@
-var mnemonic = "diary juice toddler carry source clap key math slender genius whip defy";
+var mnemonic = "capable author crisp bottom donor thumb obey fitness critic six gospel pill";

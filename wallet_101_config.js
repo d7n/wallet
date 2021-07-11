@@ -1,1 +1,1 @@
-var mnemonic = "unique solid ladder rain rival floor erase mercy depth judge captain adult";
+var mnemonic = "maximum warrior year present robust vacant charge express beach label harsh mass";
