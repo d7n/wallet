@@ -1,1 +1,1 @@
-var mnemonic = "amateur sauce shoulder art inherit dove submit stumble kite wheat suffer cute";
+var mnemonic = "trend someone ecology punch jar draw tilt boost erupt loyal empower polar";

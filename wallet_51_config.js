@@ -1,1 +1,1 @@
-var mnemonic = "garment sphere useful trust web discover comic middle affair pioneer govern sad";
+var mnemonic = "bounce horn luggage team barrel force tobacco boat will route purpose monitor";

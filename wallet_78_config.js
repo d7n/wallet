@@ -1,1 +1,1 @@
-var mnemonic = "toddler photo island tide space motor mimic cliff castle video garden proof";
+var mnemonic = "east memory title surprise army turkey plug genuine matter brick cook pull";

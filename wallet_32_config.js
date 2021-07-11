@@ -1,1 +1,1 @@
-var mnemonic = "stick vault vault liar prefer comic tattoo run supply increase explain width";
+var mnemonic = "maid slam trap ancient ridge cradle announce live fog base hello deputy";

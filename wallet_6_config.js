@@ -1,1 +1,1 @@
-var mnemonic = "average parade episode bus jeans cave mind friend nose follow glow indicate";
+var mnemonic = "apology obvious size grief pyramid paper easily salt rack struggle chunk develop";

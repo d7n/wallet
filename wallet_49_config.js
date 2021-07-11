@@ -1,1 +1,1 @@
-var mnemonic = "despair settle notice hub citizen elephant oxygen casual play satisfy enrich mimic";
+var mnemonic = "stool usual mail arrange bacon first accident emerge old that invite true";

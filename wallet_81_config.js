@@ -1,1 +1,1 @@
-var mnemonic = "hobby culture act globe beach vicious lazy kiwi sausage lock dismiss random";
+var mnemonic = "soldier empty hat noise humor grain year shrug cigar banana minimum achieve";

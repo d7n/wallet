@@ -1,1 +1,1 @@
-var mnemonic = "aerobic flight fire syrup coconut fatigue figure shell gorilla march plunge security";
+var mnemonic = "eternal control ancient medal idea police raven year retire ketchup stem top";

@@ -1,1 +1,1 @@
-var mnemonic = "pride roof shy embark sense figure park cable tornado spy quick bid";
+var mnemonic = "choose manage bubble swing health fault trash february fold antenna wreck around";

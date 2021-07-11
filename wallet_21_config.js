@@ -1,1 +1,1 @@
-var mnemonic = "mansion accuse auto power rhythm vanish still version lend outside version spring";
+var mnemonic = "kiwi merry ability saddle where firm sad crew program crash hello pink";

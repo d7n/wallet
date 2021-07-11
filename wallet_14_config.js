@@ -1,1 +1,1 @@
-var mnemonic = "debate abstract year ramp double loop reveal dial strike wise insect service";
+var mnemonic = "vessel surprise zoo virtual surprise cross clerk essay album invest carbon hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy spice oval flash jeans insane engine history tube stereo zero multiply";
+var mnemonic = "manual section talk silk strong ankle hurt rotate fat bench stem permit";

@@ -1,1 +1,1 @@
-var mnemonic = "boat peasant egg satoshi into bid scorpion outdoor east blame friend foster";
+var mnemonic = "real time bean menu cluster quick inspire weather ocean onion glove quiz";

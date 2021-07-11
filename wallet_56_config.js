@@ -1,1 +1,1 @@
-var mnemonic = "digital version ready visit stadium erosion knife steel timber coyote hat pave";
+var mnemonic = "hybrid august museum ride phrase village fortune pottery now omit woman gravity";

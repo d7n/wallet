@@ -1,1 +1,1 @@
-var mnemonic = "modify duty shoulder fame credit acid diary tube pulp later leaf black";
+var mnemonic = "second balance jungle boost adjust catch rather memory cradle old play pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger fit unveil mother snack stove slim source ketchup distance vacuum ridge";
+var mnemonic = "total monkey kidney easy echo lady gold trial armed credit certain love";

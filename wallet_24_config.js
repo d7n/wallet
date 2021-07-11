@@ -1,1 +1,1 @@
-var mnemonic = "diet used athlete penalty alien faint song size guard private parent super";
+var mnemonic = "pig coral soon jump original pass bread urban curve guard tower blanket";

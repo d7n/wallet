@@ -1,1 +1,1 @@
-var mnemonic = "spin cliff slice venue void staff cash process exotic plunge reform inject";
+var mnemonic = "daughter over alert stamp runway away sunset dinner vacant pulp fetch walk";

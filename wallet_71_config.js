@@ -1,1 +1,1 @@
-var mnemonic = "vacuum behind fiscal shift equip access evidence begin ice jealous welcome debris";
+var mnemonic = "fold raccoon stumble betray nerve race exchange fault ketchup paper siren borrow";

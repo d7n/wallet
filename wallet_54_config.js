@@ -1,1 +1,1 @@
-var mnemonic = "orient muffin card canoe dash switch curve pupil permit tube simple mother";
+var mnemonic = "leopard hello hamster crew brother quarter wet month shuffle labor airport ostrich";

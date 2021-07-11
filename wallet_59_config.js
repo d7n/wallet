@@ -1,1 +1,1 @@
-var mnemonic = "grit two error aunt flame hurt absurd deny record tuna safe please";
+var mnemonic = "horse pulp bench axis inside vital universe auto shell state next traffic";

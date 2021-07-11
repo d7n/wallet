@@ -1,1 +1,1 @@
-var mnemonic = "ankle burger figure glass gaze youth avoid imitate supreme ball already potato";
+var mnemonic = "omit mouse phrase pass food identify bridge multiply pudding skull pool parrot";

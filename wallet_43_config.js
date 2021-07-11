@@ -1,1 +1,1 @@
-var mnemonic = "lake brass matter suffer this puzzle topic hybrid begin sudden fiction invite";
+var mnemonic = "sound finish annual wrong sister ecology carry differ lock upon retreat penalty";

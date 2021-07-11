@@ -1,1 +1,1 @@
-var mnemonic = "rifle quantum wife strong marble acoustic wall decorate wide split hold gown";
+var mnemonic = "wish display mistake wrap pledge glance scissors what boy keep ghost toilet";

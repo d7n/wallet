@@ -1,1 +1,1 @@
-var mnemonic = "focus require rare asset unhappy roast advice top way pipe anxiety toast";
+var mnemonic = "cabin hat reveal absorb snow wood frown subway maximum abuse sample lyrics";

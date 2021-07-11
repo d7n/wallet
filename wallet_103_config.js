@@ -1,1 +1,1 @@
-var mnemonic = "above remember pilot game clerk such rough cake humble cool dash family";
+var mnemonic = "call wrist trap skate visual negative element crowd cup ramp myth engage";

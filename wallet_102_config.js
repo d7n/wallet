@@ -1,1 +1,1 @@
-var mnemonic = "maple orange inner silent zoo nurse program evidence rich abandon uniform document";
+var mnemonic = "arena bracket twin proof oak property illegal stick response manage ahead mass";

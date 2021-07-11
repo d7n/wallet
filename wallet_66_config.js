@@ -1,1 +1,1 @@
-var mnemonic = "gym solve blur theme green crystal true arrange balcony demise present ankle";
+var mnemonic = "hero now wheel reunion arrive cement they border calm furnace renew envelope";

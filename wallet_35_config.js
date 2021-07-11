@@ -1,1 +1,1 @@
-var mnemonic = "focus wheat dragon fat lesson slam neither click ecology waste valve matrix";
+var mnemonic = "excuse almost crane follow start brass series cup wagon video scissors favorite";

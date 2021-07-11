@@ -1,1 +1,1 @@
-var mnemonic = "wet boring moment stand gentle crew fantasy park code season night trap";
+var mnemonic = "stumble swing unaware flash tag bench tell brain describe caught square curve";

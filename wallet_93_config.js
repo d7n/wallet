@@ -1,1 +1,1 @@
-var mnemonic = "picnic axis spoil ranch during proud hill amazing element sauce hair album";
+var mnemonic = "collect frequent good lumber ability rescue debate cereal resist meadow imitate only";

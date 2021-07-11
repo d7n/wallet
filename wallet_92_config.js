@@ -1,1 +1,1 @@
-var mnemonic = "wild direct elder detail recycle spoil thought hobby rent prosper universe marriage";
+var mnemonic = "tourist scrub laptop warm camera column decorate race tourist spider situate ridge";

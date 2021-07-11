@@ -1,1 +1,1 @@
-var mnemonic = "property dismiss shaft december theory bargain ring manual solar swap color drink";
+var mnemonic = "potato crater stage skin battle sick hello favorite sweet fee skin burger";

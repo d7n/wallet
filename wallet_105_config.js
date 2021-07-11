@@ -1,1 +1,1 @@
-var mnemonic = "auction parent arm eternal math sword limb eagle repeat cinnamon humor sea";
+var mnemonic = "police make essay echo merit traffic hundred someone ancient tennis orange school";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm memory taste shoe mouse match unknown reward beyond face afraid gadget";
+var mnemonic = "enact february brave bomb plastic knee sustain weird charge arena supply cupboard";

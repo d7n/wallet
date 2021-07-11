@@ -1,1 +1,1 @@
-var mnemonic = "chapter travel rather scheme orchard clown hospital obvious snack drum ankle message";
+var mnemonic = "goddess spice enact spider festival over usual almost hard shift acoustic position";

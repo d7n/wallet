@@ -1,1 +1,1 @@
-var mnemonic = "cradle buffalo weather humble gauge bread train awesome harsh book office left";
+var mnemonic = "bid snack promote solve bid axis earn choose world asthma gift joy";

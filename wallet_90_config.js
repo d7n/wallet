@@ -1,1 +1,1 @@
-var mnemonic = "purse check oak asset praise plug attack limb coconut topple cruise leave";
+var mnemonic = "claw pizza soon point point squirrel weapon cost neutral goat company poet";

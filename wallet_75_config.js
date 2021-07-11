@@ -1,1 +1,1 @@
-var mnemonic = "rapid romance neglect rifle logic stove access toy puzzle area taste age";
+var mnemonic = "disorder blade program notable flash van magnet slight borrow rail crisp asthma";

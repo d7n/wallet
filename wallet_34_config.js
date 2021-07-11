@@ -1,1 +1,1 @@
-var mnemonic = "tail wait slogan into error weekend vault work raise rocket hurt flag";
+var mnemonic = "pull idle rack long airport unable maze sponsor elder taxi magnet youth";

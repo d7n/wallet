@@ -1,1 +1,1 @@
-var mnemonic = "powder science april sing check item creek then civil man citizen bleak";
+var mnemonic = "fiber assume three plug turkey rain below raven melody witness coin fatigue";

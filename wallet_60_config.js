@@ -1,1 +1,1 @@
-var mnemonic = "test ring put language more exact kingdom quiz runway glimpse laugh heart";
+var mnemonic = "priority pact grow tribe renew easily thing hazard taxi crime between apology";

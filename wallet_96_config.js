@@ -1,1 +1,1 @@
-var mnemonic = "special napkin junk desert gate auto nest barrel volume favorite wrist bone";
+var mnemonic = "split guitar result cradle wear holiday win story fantasy rotate outdoor stamp";

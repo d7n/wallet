@@ -1,1 +1,1 @@
-var mnemonic = "rose ignore mobile begin cargo anxiety ready wrap huge lawsuit area firm";
+var mnemonic = "dynamic error course always dash thought shallow pony cream female zoo infant";

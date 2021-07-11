@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit prefer high equip embark clerk umbrella series shield strong parade two";
+var mnemonic = "produce cabbage whale destroy achieve original science alter juice bone mass trim";

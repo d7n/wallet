@@ -1,1 +1,1 @@
-var mnemonic = "second master act pet eagle genre brush marine weather cherry trophy left";
+var mnemonic = "promote ritual erupt gadget artwork pudding recipe document soccer flight change machine";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow journey extra fresh blood put curtain equip pretty wealth inquiry jaguar";
+var mnemonic = "stumble bicycle twelve boil trap bag reject express capable tunnel unknown problem";

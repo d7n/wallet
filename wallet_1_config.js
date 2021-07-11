@@ -1,1 +1,1 @@
-var mnemonic = "author bunker quit accuse swing artwork armor win pond ball emotion cram";
+var mnemonic = "coconut vibrant option solve speed place tragic distance doctor noise gym eternal";

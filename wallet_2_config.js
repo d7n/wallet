@@ -1,1 +1,1 @@
-var mnemonic = "fork choice way frog wrestle genuine solve fatal private entry intact finger";
+var mnemonic = "process beyond shuffle drum safe sense trap bring merit add invite butter";

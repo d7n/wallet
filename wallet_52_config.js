@@ -1,1 +1,1 @@
-var mnemonic = "saddle book analyst dish abuse proud vendor blush family view brick blush";
+var mnemonic = "dismiss orange base pitch flag canyon visa argue flat supply found avoid";

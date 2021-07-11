@@ -1,1 +1,1 @@
-var mnemonic = "either student salmon loan clutch habit forum garden ostrich street clarify sad";
+var mnemonic = "label liar recycle eternal nerve front six collect vapor fluid twelve hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd extend panther uncle atom drum smooth little poem puzzle lunar dash";
+var mnemonic = "chest exact proof glare chest cabin burger sudden old want cigar thumb";

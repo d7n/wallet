@@ -1,1 +1,1 @@
-var mnemonic = "oval clerk recall put water exist coach fantasy boss betray index client";
+var mnemonic = "entire oil rose crowd actual life bid tongue adult urge purity visual";

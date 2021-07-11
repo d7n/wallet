@@ -1,1 +1,1 @@
-var mnemonic = "prepare brisk chuckle offer sound matrix corn expose shop offer worry bid";
+var mnemonic = "illegal frozen inspire melt volcano deposit help drama bid polar fee either";

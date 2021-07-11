@@ -1,1 +1,1 @@
-var mnemonic = "trophy electric master happy seat orphan brisk matter later clap mercy orchard";
+var mnemonic = "wire describe blush rabbit noodle guide sphere cement favorite manage fall tobacco";

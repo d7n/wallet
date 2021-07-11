@@ -1,1 +1,1 @@
-var mnemonic = "asset lake omit various essence snack afraid express repeat genius purpose horn";
+var mnemonic = "wash fortune never word spring buddy near relief clown point fox labor";

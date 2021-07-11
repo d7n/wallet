@@ -1,1 +1,1 @@
-var mnemonic = "kid labor stand run offer caught paper inject banana notable dolphin shaft";
+var mnemonic = "enjoy hour blush soap dizzy already near swap drama blush cereal host";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital practice aim swarm pen negative then film talk life mushroom quantum";
+var mnemonic = "embrace duck close rubber celery short violin floor coach essay state doll";

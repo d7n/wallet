@@ -1,1 +1,1 @@
-var mnemonic = "nephew radar cattle spy trip disorder fiber hungry tongue keen today grape";
+var mnemonic = "liquid scare arrest famous humor banner material nephew lawn citizen mind prevent";

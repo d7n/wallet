@@ -1,1 +1,1 @@
-var mnemonic = "ask green chunk frog camera enforce soup creek initial clerk unable doll";
+var mnemonic = "palace orchard odor kick buffalo usual reform slight burger resist field garment";

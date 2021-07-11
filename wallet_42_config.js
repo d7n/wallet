@@ -1,1 +1,1 @@
-var mnemonic = "melt all finish feed link pluck tape wish favorite broccoli shiver thing";
+var mnemonic = "aspect bamboo cart indicate silk census damp busy concert hunt expire appear";

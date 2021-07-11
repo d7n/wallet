@@ -1,1 +1,1 @@
-var mnemonic = "change chair legend achieve hero album spirit phrase goat boy unable hotel";
+var mnemonic = "clump rally broom shiver hedgehog emotion deposit seat arm enlist grant increase";

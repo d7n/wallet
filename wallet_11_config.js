@@ -1,1 +1,1 @@
-var mnemonic = "anger sleep army gas piece crash decorate fashion subject enhance remain final";
+var mnemonic = "tragic guess message install blame scene struggle inside reopen come pipe noise";

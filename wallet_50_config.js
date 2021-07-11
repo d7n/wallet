@@ -1,1 +1,1 @@
-var mnemonic = "medal visual cup buddy net smile normal false economy theme tray sad";
+var mnemonic = "pottery buffalo thank teach range rare off slow install soap vivid goat";

@@ -1,1 +1,1 @@
-var mnemonic = "please poverty thought screen man crime drama zero plug suspect badge feature";
+var mnemonic = "mimic bring chicken wrist loyal double hood crumble flash priority giggle theme";

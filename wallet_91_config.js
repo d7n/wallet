@@ -1,1 +1,1 @@
-var mnemonic = "improve burden dinner clay youth curve rule sense make retreat mule napkin";
+var mnemonic = "fiscal brave feed client knee input hip quit faith december blouse damage";

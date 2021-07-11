@@ -1,1 +1,1 @@
-var mnemonic = "okay this hen detect pass excess candy rookie pear lion gorilla voyage";
+var mnemonic = "relief learn clever adjust suggest glad math exist gift relief regular pact";

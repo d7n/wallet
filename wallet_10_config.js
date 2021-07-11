@@ -1,1 +1,1 @@
-var mnemonic = "similar property near warm fun arrow rifle model glove copper smile roof";
+var mnemonic = "swear indoor title play idle attend dignity elite sausage version frown curious";

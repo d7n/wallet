@@ -1,1 +1,1 @@
-var mnemonic = "cycle gun pony elephant suffer strike deny again bundle cannon work throw";
+var mnemonic = "toddler stable front similar action recycle print cash tooth screen history decline";

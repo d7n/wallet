@@ -1,1 +1,1 @@
-var mnemonic = "spy box winter raccoon stereo nurse fantasy potato change view page hospital";
+var mnemonic = "develop naive dentist action uncle banner boss nasty armor fetch left blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "sad street rack relax behind blush already mango tent unusual rent soup";
+var mnemonic = "rare afford dial sauce web cabbage buzz sorry civil real turn spirit";

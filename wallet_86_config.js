@@ -1,1 +1,1 @@
-var mnemonic = "canoe clinic blanket tortoise crazy lucky talk merry life vintage capital hybrid";
+var mnemonic = "gossip same oyster expire mansion enable bird sad bronze zebra street escape";

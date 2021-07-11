@@ -1,1 +1,1 @@
-var mnemonic = "frozen coast deputy face quarter physical horror woman happy hat civil desert";
+var mnemonic = "review target draft only hair agree genuine exercise clown meat sport monster";

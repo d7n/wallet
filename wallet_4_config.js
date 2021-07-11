@@ -1,1 +1,1 @@
-var mnemonic = "retreat sad claim rookie tomato fancy elegant scan visit tenant believe alert";
+var mnemonic = "good soul render fury total trap private method inspire eight grit elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas satisfy during olympic life panel bird manual green boring engage depend";
+var mnemonic = "gather trouble pioneer capable know acoustic matter invest strike until inmate settle";

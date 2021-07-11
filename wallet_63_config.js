@@ -1,1 +1,1 @@
-var mnemonic = "success wave chunk umbrella soup human amount oppose all item stadium crawl";
+var mnemonic = "south bamboo pupil deliver poet elbow lava weasel able flat lecture damage";

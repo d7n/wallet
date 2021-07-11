@@ -1,1 +1,1 @@
-var mnemonic = "exact inspire machine coil trap strike offer trade mix purchase digital onion";
+var mnemonic = "order curious mango tobacco sorry few mesh truck bacon limit home enough";

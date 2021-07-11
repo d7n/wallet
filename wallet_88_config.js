@@ -1,1 +1,1 @@
-var mnemonic = "board bottom sugar screen insane library suspect clock trip submit wealth harbor";
+var mnemonic = "diet picnic service plate mercy connect supreme float squeeze nominee wide guitar";

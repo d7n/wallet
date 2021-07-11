@@ -1,1 +1,1 @@
-var mnemonic = "say cheese parrot grass siren guide tube camp horn spot lottery company";
+var mnemonic = "leg evil police inspire ketchup human skate hold love special metal coil";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit else blind tonight struggle license oak antique tunnel profit resource arctic";
+var mnemonic = "upset mail toddler blame column brief into spin cheap gloom because wash";

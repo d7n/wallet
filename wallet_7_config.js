@@ -1,1 +1,1 @@
-var mnemonic = "neglect rather timber assist visual inner library shrimp wing yellow auto tennis";
+var mnemonic = "purchase physical evidence bitter seminar junk expose cash scare armed reward sail";

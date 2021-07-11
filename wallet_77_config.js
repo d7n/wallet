@@ -1,1 +1,1 @@
-var mnemonic = "clap before space split slice now slush old amateur desk taste gravity";
+var mnemonic = "basic supreme inside island pattern jewel point spatial rebuild kidney income force";

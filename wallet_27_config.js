@@ -1,1 +1,1 @@
-var mnemonic = "vacant cliff kind cement romance involve advice drill example myself together great";
+var mnemonic = "thrive grunt reflect system soft tortoise hill biology stay worry timber reveal";

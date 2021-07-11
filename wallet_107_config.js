@@ -1,1 +1,1 @@
-var mnemonic = "era blame glad luxury evidence symbol match reject view matrix glove coral";
+var mnemonic = "hamster embark cool avocado egg minute item measure thought ozone doctor rural";

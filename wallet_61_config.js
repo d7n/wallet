@@ -1,1 +1,1 @@
-var mnemonic = "axis flock stay worry garment immense mention course insect video rabbit else";
+var mnemonic = "potato fetch rabbit job obey push fly process actress cousin apology half";

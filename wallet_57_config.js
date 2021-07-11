@@ -1,1 +1,1 @@
-var mnemonic = "lyrics long say high doctor mask degree ability unable address obtain next";
+var mnemonic = "option split festival endorse nest bracket curve cry green pill photo crystal";

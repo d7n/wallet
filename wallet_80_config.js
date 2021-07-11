@@ -1,1 +1,1 @@
-var mnemonic = "nephew pulse tone quiz cake bitter knee happy federal entire raven board";
+var mnemonic = "dose solve jeans equal raise option actor shoulder host journey charge front";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet crack region current differ else agent knife pride medal dinosaur dance";
+var mnemonic = "chase helmet bike media swing badge spin chicken whip current boss torch";

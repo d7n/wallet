@@ -1,1 +1,1 @@
-var mnemonic = "cabbage velvet kiss shuffle vendor emerge oblige olympic approve pause inch dream";
+var mnemonic = "visit twist speed crash arm impose ugly rally naive amateur sing hen";

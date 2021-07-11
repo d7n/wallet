@@ -1,1 +1,1 @@
-var mnemonic = "unlock assist involve toe setup rail convince mobile choice rebel load couple";
+var mnemonic = "result share two illness power radio fine organ advice seminar device clinic";

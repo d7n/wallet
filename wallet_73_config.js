@@ -1,1 +1,1 @@
-var mnemonic = "town connect mom measure omit spin envelope like juice waste depart donate";
+var mnemonic = "cart boring course neglect welcome problem arctic stage kingdom still ridge blush";

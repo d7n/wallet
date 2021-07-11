@@ -1,1 +1,1 @@
-var mnemonic = "lumber pole record slim since actual rifle submit wreck spider rude million";
+var mnemonic = "battle coil trigger ride author puppy radio buzz divide tooth hospital cost";
