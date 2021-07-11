@@ -1,1 +1,1 @@
-var mnemonic = "couple awesome asset tornado tiger north dawn when conduct drum wrap river";
+var mnemonic = "cross dose language blanket chimney scene scale veteran ceiling jungle unable spell";

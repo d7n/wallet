@@ -1,1 +1,1 @@
-var mnemonic = "order over black summer minimum dove miss tiger slow brisk initial just";
+var mnemonic = "cable primary person motor enlist artwork diesel casino chaos sugar expect recall";

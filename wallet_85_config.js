@@ -1,1 +1,1 @@
-var mnemonic = "grass trick crowd connect gallery laugh volcano diary echo there member motor";
+var mnemonic = "arrive plug dry gaze minute gift chief page treat surface gorilla skull";

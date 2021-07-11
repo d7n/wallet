@@ -1,1 +1,1 @@
-var mnemonic = "come lawsuit faint elbow disagree point pride stage ball buffalo width health";
+var mnemonic = "immense bicycle grief gain barrel exclude gauge return ramp clay force math";

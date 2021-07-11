@@ -1,1 +1,1 @@
-var mnemonic = "viable zebra gym toast champion solid level sunset damage hub pluck wrist";
+var mnemonic = "door want hero notice april rate panda heart useful castle wrap humor";

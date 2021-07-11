@@ -1,1 +1,1 @@
-var mnemonic = "stomach raccoon stone solution napkin brick divide kitten soul room vacuum inherit";
+var mnemonic = "vacant shoot wealth few someone beach blanket you hospital cube claim large";

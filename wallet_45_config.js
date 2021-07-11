@@ -1,1 +1,1 @@
-var mnemonic = "bench tube motion ketchup drive head case police stumble ripple harvest deliver";
+var mnemonic = "infant copper eyebrow surge cousin elevator lunar acoustic page mistake lunch zebra";

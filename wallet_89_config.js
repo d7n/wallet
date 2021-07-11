@@ -1,1 +1,1 @@
-var mnemonic = "tunnel must melt deposit anxiety genius cloth couch caution forest oblige hazard";
+var mnemonic = "hint always rescue pony dumb razor merge another fiction scissors sadness seat";

@@ -1,1 +1,1 @@
-var mnemonic = "loan away second riot fan custom cash lady horse student weekend various";
+var mnemonic = "steak destroy cash vibrant grace potato away thunder glide fold leader balcony";

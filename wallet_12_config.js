@@ -1,1 +1,1 @@
-var mnemonic = "large margin appear find viable cupboard shove palm side abuse improve town";
+var mnemonic = "submit rural spy pyramid seven evoke outside dove multiply mixture brave black";

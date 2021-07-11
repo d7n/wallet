@@ -1,1 +1,1 @@
-var mnemonic = "coach undo aim outdoor embrace stadium cave stereo ready gym obscure leopard";
+var mnemonic = "rich frozen draw blue mule girl skin eager action frozen pottery ancient";

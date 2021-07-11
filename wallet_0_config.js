@@ -1,1 +1,1 @@
-var mnemonic = "problem feature detail puzzle key click pioneer shuffle mirror rail crater canal";
+var mnemonic = "hamster portion sound expect smoke pass enemy aisle cherry unique punch transfer";

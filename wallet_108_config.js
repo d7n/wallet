@@ -1,1 +1,1 @@
-var mnemonic = "one okay earn fetch lawsuit refuse fringe save gown stay envelope reunion";
+var mnemonic = "state alley rabbit diesel lottery confirm crime token number later pledge habit";

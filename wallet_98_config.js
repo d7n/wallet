@@ -1,1 +1,1 @@
-var mnemonic = "thumb basket decide laugh demise fashion ceiling net above spider please wet";
+var mnemonic = "panic wait piece nurse pool civil pill exact creek tree river great";

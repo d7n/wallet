@@ -1,1 +1,1 @@
-var mnemonic = "feature follow melt peanut fever myself midnight captain spy latin diamond divert";
+var mnemonic = "oak venue betray sun hint finish indicate eagle code loud ocean boy";

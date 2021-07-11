@@ -1,1 +1,1 @@
-var mnemonic = "tone razor scorpion shrug thing draft soap scan joy puzzle remind mercy";
+var mnemonic = "appear bachelor pet awkward tuition rally around stamp puzzle furnace rough cushion";

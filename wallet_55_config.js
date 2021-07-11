@@ -1,1 +1,1 @@
-var mnemonic = "simple reveal chuckle river all coyote access still desert barely achieve loyal";
+var mnemonic = "dirt together toy satoshi usage margin wonder cricket category uncover soccer gain";

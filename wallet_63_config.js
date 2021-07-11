@@ -1,1 +1,1 @@
-var mnemonic = "vessel profit few client cattle lab guide once spatial orient vehicle breeze";
+var mnemonic = "canal company sadness urban fantasy neck fly eternal drama fat deliver fruit";

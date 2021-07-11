@@ -1,1 +1,1 @@
-var mnemonic = "palm manage glue transfer fragile swap half fiscal circle priority marriage zero";
+var mnemonic = "stomach top view truly glow melt social era real banner any notice";

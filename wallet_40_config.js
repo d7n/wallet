@@ -1,1 +1,1 @@
-var mnemonic = "response sand atom fox arch december wonder library two deal juice coffee";
+var mnemonic = "antenna test cry idle emerge mystery carbon analyst invite capable awful click";

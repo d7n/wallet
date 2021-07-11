@@ -1,1 +1,1 @@
-var mnemonic = "slush size disease control access flush soap brick clump family apart buyer";
+var mnemonic = "tunnel ritual song finish fence cause cheese error miss view anchor aware";

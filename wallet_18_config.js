@@ -1,1 +1,1 @@
-var mnemonic = "garlic index diagram donor work arctic resource solve novel avocado hurdle amount";
+var mnemonic = "flee noodle project bless nominee upgrade before glad fabric road double possible";

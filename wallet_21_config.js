@@ -1,1 +1,1 @@
-var mnemonic = "emerge outside heavy holiday wear immense include final crawl salmon chase evil";
+var mnemonic = "bind zero twice wine surround spoil seat miss gallery crouch submit chase";

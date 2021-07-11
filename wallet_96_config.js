@@ -1,1 +1,1 @@
-var mnemonic = "allow excuse wheat this adjust rigid camp lecture brass meat layer remove";
+var mnemonic = "pear juice injury cry muffin mushroom maid sibling supreme frog nurse decrease";

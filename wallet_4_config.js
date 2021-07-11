@@ -1,1 +1,1 @@
-var mnemonic = "foil hockey helmet reveal hero bamboo method again lab rug copper bar";
+var mnemonic = "moon chronic bubble farm bean tree tonight hour mutual about carbon small";

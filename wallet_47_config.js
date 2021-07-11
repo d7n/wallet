@@ -1,1 +1,1 @@
-var mnemonic = "differ winter olympic child coconut clip blood tower skate gun source web";
+var mnemonic = "safe lady toast merge pink unlock memory aisle call blur taxi motion";

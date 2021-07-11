@@ -1,1 +1,1 @@
-var mnemonic = "erode fat lawn snow much cluster rhythm stereo music predict fold vendor";
+var mnemonic = "outer list image hospital cinnamon smooth remove useful boy cattle unfold broom";

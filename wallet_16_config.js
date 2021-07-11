@@ -1,1 +1,1 @@
-var mnemonic = "sponsor giggle gloom snack jaguar wish science control crouch useful same sibling";
+var mnemonic = "alpha tribe tribe hospital vacant wink across myth oyster extend endorse spell";

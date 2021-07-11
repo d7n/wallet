@@ -1,1 +1,1 @@
-var mnemonic = "stool okay employ such glow social orphan cross notice sense fall chase";
+var mnemonic = "someone rice museum gravity awake uncover tomorrow cabbage make just absorb tunnel";

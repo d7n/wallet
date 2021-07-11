@@ -1,1 +1,1 @@
-var mnemonic = "vast busy machine move onion dress catch depend deny already unable olympic";
+var mnemonic = "physical dilemma demand palm toward purse also proud evidence announce toast outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct wool spell ask purity bubble until valid spider derive kick ship";
+var mnemonic = "ranch sheriff hill night pipe dog shoot repeat any town clown knife";

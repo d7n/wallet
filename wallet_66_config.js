@@ -1,1 +1,1 @@
-var mnemonic = "enough scorpion flee quantum please legend nephew split chuckle someone juice satoshi";
+var mnemonic = "office round sustain random profit roof clog immune myself rose eternal lunar";

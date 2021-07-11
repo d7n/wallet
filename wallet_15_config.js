@@ -1,1 +1,1 @@
-var mnemonic = "worry wood radar swing speak cram build avocado large endless jar axis";
+var mnemonic = "palace outside violin reflect thunder trash sun hill hammer pudding script gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "ice confirm quiz scale electric sheriff fury robust horror carbon crime column";
+var mnemonic = "snake penalty glare accident gym boy near estate address fossil expand gaze";

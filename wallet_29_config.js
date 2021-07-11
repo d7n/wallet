@@ -1,1 +1,1 @@
-var mnemonic = "cash wrap blue sad monkey crush damage miracle visa upset divide prepare";
+var mnemonic = "danger loop tobacco object blade tell eagle kiwi tuition slender rural friend";

@@ -1,1 +1,1 @@
-var mnemonic = "rather aerobic sample badge hover shoot crumble music front nice list desk";
+var mnemonic = "ordinary earn radar forward energy type reform income snow fault lottery plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "kit powder dad math virtual primary orient stable else share dry sphere";
+var mnemonic = "song hurt sustain rose head isolate garage empower poverty believe pyramid label";

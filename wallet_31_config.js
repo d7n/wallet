@@ -1,1 +1,1 @@
-var mnemonic = "slight fame chair grace street problem angry viable lava thunder symptom modify";
+var mnemonic = "wrap switch amount emerge shadow beef curve food visit reject evolve simple";

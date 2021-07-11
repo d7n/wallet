@@ -1,1 +1,1 @@
-var mnemonic = "middle armed love truly sunset decade budget gasp balance awkward future leader";
+var mnemonic = "demise load echo stock scan upon armor win fall brush rural glance";

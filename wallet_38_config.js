@@ -1,1 +1,1 @@
-var mnemonic = "brother youth level trophy happy honey banana print clog marriage betray design";
+var mnemonic = "recall universe error mandate spray adult sorry media book similar illegal large";

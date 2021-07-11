@@ -1,1 +1,1 @@
-var mnemonic = "victory pluck egg noodle below frequent man pitch drip dune phone clarify";
+var mnemonic = "grass soon fan fashion popular evil figure consider knock what afraid today";

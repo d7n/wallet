@@ -1,1 +1,1 @@
-var mnemonic = "neutral core phrase team pioneer runway clump region general effort impose media";
+var mnemonic = "gauge arch grief fix gloom never infant inmate drip curve honey inch";

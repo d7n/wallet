@@ -1,1 +1,1 @@
-var mnemonic = "animal gift focus claim success slide issue push enable add into alarm";
+var mnemonic = "grape pond cloth scorpion uniform scrap bullet mandate art swallow drama praise";

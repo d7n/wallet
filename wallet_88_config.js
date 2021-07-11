@@ -1,1 +1,1 @@
-var mnemonic = "file miss angle august sword increase rescue canoe merry arrest donkey spice";
+var mnemonic = "street essence benefit cry edit absurd prevent hockey tilt zebra express melt";

@@ -1,1 +1,1 @@
-var mnemonic = "review tissue extend fantasy route economy bus horror rib oyster work isolate";
+var mnemonic = "theory staff rude problem labor delay bubble swarm episode sponsor help rose";

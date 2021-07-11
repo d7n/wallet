@@ -1,1 +1,1 @@
-var mnemonic = "blur polar sudden weasel proof snow nasty paddle rule dumb flip decline";
+var mnemonic = "group diamond minimum sudden section ridge measure love betray excite moon gasp";

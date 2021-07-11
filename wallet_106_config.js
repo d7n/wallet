@@ -1,1 +1,1 @@
-var mnemonic = "ladder chronic visit abstract ski shoot insect fly sun always device sword";
+var mnemonic = "bus jar pill volume dutch farm process later change peanut employ differ";

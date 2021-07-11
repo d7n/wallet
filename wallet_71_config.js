@@ -1,1 +1,1 @@
-var mnemonic = "valve size order recycle oil sadness visit mimic ostrich gospel fox amount";
+var mnemonic = "pitch once purchase exhibit clip mom night pigeon rebuild tunnel abandon forest";

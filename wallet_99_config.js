@@ -1,1 +1,1 @@
-var mnemonic = "accident lens city shrimp fluid muffin orbit allow almost scatter sketch receive";
+var mnemonic = "decrease life want music notable side pistol kidney bulk hawk tell assume";

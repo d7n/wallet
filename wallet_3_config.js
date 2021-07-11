@@ -1,1 +1,1 @@
-var mnemonic = "scout habit attract pledge right trade volume duck awake tower tuition dad";
+var mnemonic = "twice endorse correct gasp spoil off other ahead smart resist rifle neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "stick elephant double open coral answer flower battle legend avoid panic video";
+var mnemonic = "ethics arrow canoe clarify device daughter motor brand narrow hedgehog grow swim";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen zoo shuffle planet install all play climb script pass model peasant";
+var mnemonic = "oil miracle mosquito jaguar nasty exhaust amateur ankle cannon prison goat good";

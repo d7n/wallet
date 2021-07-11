@@ -1,1 +1,1 @@
-var mnemonic = "raven noodle snow fish cherry jealous neither love put grunt powder oval";
+var mnemonic = "another plastic later twice ginger arena six wild rescue uncover ranch sugar";

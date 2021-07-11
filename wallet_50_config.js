@@ -1,1 +1,1 @@
-var mnemonic = "fine grief final window math candy seven garage mobile achieve whisper walk";
+var mnemonic = "pretty muffin cost clap banner laugh snake license boat pear celery buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "torch tooth race moon manage equal goat mixture emerge trim remain riot";
+var mnemonic = "anxiety oxygen clump grass music heart couple float group quit topic horse";

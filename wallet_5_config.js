@@ -1,1 +1,1 @@
-var mnemonic = "anger soldier major attract insect chef receive tongue slender fiction pyramid stamp";
+var mnemonic = "able gentle cereal century hello device friend exchange blood carbon kite chalk";

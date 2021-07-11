@@ -1,1 +1,1 @@
-var mnemonic = "punch depart biology exercise cool song distance town shine ceiling region ice";
+var mnemonic = "crystal budget jelly promote sun bench custom cherry tomorrow section canal remember";

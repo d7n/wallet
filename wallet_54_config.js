@@ -1,1 +1,1 @@
-var mnemonic = "run piece panda basket eyebrow spot sorry ensure bless audit rain tube";
+var mnemonic = "neither oval metal angry piece member evidence lecture once group pencil small";

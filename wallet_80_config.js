@@ -1,1 +1,1 @@
-var mnemonic = "author smile recycle spray pipe enforce follow baby sketch over vacant episode";
+var mnemonic = "fan knife barrel future light bottom fog shield grid canyon slush lounge";

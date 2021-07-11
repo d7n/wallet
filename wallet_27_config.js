@@ -1,1 +1,1 @@
-var mnemonic = "opera desk craft tip heart token light spoil sunset number borrow wall";
+var mnemonic = "slam stick horse love acquire off vapor ritual concert weekend corn neither";

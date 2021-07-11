@@ -1,1 +1,1 @@
-var mnemonic = "produce hub melody silver patient blouse orphan inner stock peace alpha effort";
+var mnemonic = "aspect castle sample have cinnamon tooth tilt suspect royal vibrant royal vintage";

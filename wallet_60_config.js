@@ -1,1 +1,1 @@
-var mnemonic = "spatial tiger soccer valid mandate talk kiss buddy van believe digital tank";
+var mnemonic = "drip faculty bench unfair parade vendor heart off ask sausage cool brush";

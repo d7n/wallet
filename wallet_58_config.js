@@ -1,1 +1,1 @@
-var mnemonic = "screen open salmon toddler atom entry best ostrich enlist problem tower staff";
+var mnemonic = "amateur thank behave ship only circle version will vague slush suggest evil";

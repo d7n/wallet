@@ -1,1 +1,1 @@
-var mnemonic = "kiwi asthma steel diamond disorder age repeat craft palace husband loyal shuffle";
+var mnemonic = "digital pioneer april sauce scan sing skin maximum between embark dirt mention";

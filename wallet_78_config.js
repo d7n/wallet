@@ -1,1 +1,1 @@
-var mnemonic = "month prefer wait mistake squeeze treat holiday frequent pet base lunch tumble";
+var mnemonic = "ask jewel toy vivid author display diagram whip keep unaware diagram hammer";

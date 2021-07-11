@@ -1,1 +1,1 @@
-var mnemonic = "bundle market proud hockey account save cinnamon scorpion miss purse master wisdom";
+var mnemonic = "demise april addict snack ticket wreck fiscal trade nominee abstract mango buzz";

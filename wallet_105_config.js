@@ -1,1 +1,1 @@
-var mnemonic = "gospel pioneer sunset clog design match away pitch garbage genius industry stable";
+var mnemonic = "fitness smoke talent act squeeze cargo derive vanish awake produce crystal furnace";

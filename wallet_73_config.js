@@ -1,1 +1,1 @@
-var mnemonic = "game expose resource public sand fortune dinosaur point diesel change behind sort";
+var mnemonic = "device again visual fuel useless yellow above flip velvet patch achieve phrase";

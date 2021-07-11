@@ -1,1 +1,1 @@
-var mnemonic = "december tag anchor text ignore broccoli action either connect valve warm sphere";
+var mnemonic = "resemble lady over prize dish trust earth nature blouse setup dismiss soon";

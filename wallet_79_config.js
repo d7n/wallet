@@ -1,1 +1,1 @@
-var mnemonic = "rabbit spell short public gym consider crouch invite attend injury grace nasty";
+var mnemonic = "rebel dust fall foil welcome valve own flip relax inspire mimic fog";

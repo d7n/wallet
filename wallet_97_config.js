@@ -1,1 +1,1 @@
-var mnemonic = "mimic palace also egg inform describe ball amused next liar agree they";
+var mnemonic = "concert diagram quarter sea suggest dinosaur air supreme spread damp cost vivid";

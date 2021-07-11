@@ -1,1 +1,1 @@
-var mnemonic = "pepper slow milk supply fuel virtual salmon deposit used pumpkin dial win";
+var mnemonic = "dune mansion soldier wheel mouse lunch minute punch sell invest cradle trash";

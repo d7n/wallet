@@ -1,1 +1,1 @@
-var mnemonic = "two honey asset increase orbit solution rich arm casino work control public";
+var mnemonic = "subway siren identify plunge secret gain exit humble legend hope survey soup";

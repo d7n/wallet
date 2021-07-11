@@ -1,1 +1,1 @@
-var mnemonic = "stereo dismiss angry undo region paper great tell surprise hover modify tuition";
+var mnemonic = "segment canoe grass floor behind fossil acoustic gown expand below point only";

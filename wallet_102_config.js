@@ -1,1 +1,1 @@
-var mnemonic = "hammer alcohol spare inherit spend spread mule own recipe little else exotic";
+var mnemonic = "spot bubble outdoor also area mass illness wink ostrich slab indicate pet";

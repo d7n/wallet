@@ -1,1 +1,1 @@
-var mnemonic = "asthma defense victory excess laptop zebra calm inner stomach position build wing";
+var mnemonic = "trip leisure throw often more curtain chair talent primary jewel model undo";

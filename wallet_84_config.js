@@ -1,1 +1,1 @@
-var mnemonic = "forest ahead actual divide smooth cinnamon drive off deliver insect auto bachelor";
+var mnemonic = "symptom piece room fine connect raccoon depend obscure kangaroo shove oppose topic";

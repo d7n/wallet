@@ -1,1 +1,1 @@
-var mnemonic = "maze jar subway axis giant quote own task oak apart minimum much";
+var mnemonic = "hello first green myself interest boil gown confirm orange initial gain almost";

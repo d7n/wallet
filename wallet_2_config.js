@@ -1,1 +1,1 @@
-var mnemonic = "script path dune inform girl predict water stage unique throw dizzy morning";
+var mnemonic = "canoe valid gift gorilla person expose copy fan prison scale square embody";

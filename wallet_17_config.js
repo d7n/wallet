@@ -1,1 +1,1 @@
-var mnemonic = "ready scatter trouble spend slow present swallow doll lobster clever blade talk";
+var mnemonic = "monitor elegant icon arch orphan note neck winter seed route depart runway";

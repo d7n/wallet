@@ -1,1 +1,1 @@
-var mnemonic = "hurry loan atom steak arch myself young elephant chef vicious method throw";
+var mnemonic = "arrive goddess charge example oblige drama pulp adult another country service require";

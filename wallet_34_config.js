@@ -1,1 +1,1 @@
-var mnemonic = "coach rare mouse castle inside balance useful laundry six bulk admit motor";
+var mnemonic = "wheel crash valid melt move repeat combine setup brother pretty section satisfy";

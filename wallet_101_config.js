@@ -1,1 +1,1 @@
-var mnemonic = "radio primary river budget zero budget stamp uniform exercise voyage position obscure";
+var mnemonic = "movie absent seat sample lizard crane inch patrol security voyage doctor cloud";

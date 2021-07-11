@@ -1,1 +1,1 @@
-var mnemonic = "easily clarify repeat village local wet inherit immune mammal limb unique left";
+var mnemonic = "kiwi garage urge wait culture swallow reunion announce merry figure urban echo";

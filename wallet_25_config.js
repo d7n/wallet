@@ -1,1 +1,1 @@
-var mnemonic = "powder damp turtle about twenty shallow dream body satoshi brick wing enact";
+var mnemonic = "surprise sword bone laundry amount tell copy body debate life figure fan";

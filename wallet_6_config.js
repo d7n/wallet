@@ -1,1 +1,1 @@
-var mnemonic = "luggage jazz moment approve iron fork snap inspire jungle vessel grab column";
+var mnemonic = "floor private boat chase vital place sort embrace kit present prepare viable";

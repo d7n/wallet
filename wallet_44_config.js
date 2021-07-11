@@ -1,1 +1,1 @@
-var mnemonic = "supreme nothing rely garbage scorpion stock mix kick satisfy another album pottery";
+var mnemonic = "acquire suggest robot patrol much word walnut zebra express weird alter awake";

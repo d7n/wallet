@@ -1,1 +1,1 @@
-var mnemonic = "wool praise void hold leisure purpose case again machine speed fall survey";
+var mnemonic = "only alcohol myself danger trip brick volume dinosaur scissors edit rebel gasp";

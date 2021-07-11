@@ -1,1 +1,1 @@
-var mnemonic = "super monkey lizard flight require harbor duck segment earn upgrade protect teach";
+var mnemonic = "question boat mean jacket census fog route lobster tragic circle egg ordinary";

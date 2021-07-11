@@ -1,1 +1,1 @@
-var mnemonic = "index drop layer engage subway execute author piece decorate prison explain attack";
+var mnemonic = "weapon action taste wide rare grab payment layer solve feature allow coil";

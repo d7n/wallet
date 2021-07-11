@@ -1,1 +1,1 @@
-var mnemonic = "define clinic horror panda save tell scheme hen sea gauge awful arrive";
+var mnemonic = "middle dance exercise gain rug inform carry depart real model village pole";

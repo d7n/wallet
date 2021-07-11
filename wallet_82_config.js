@@ -1,1 +1,1 @@
-var mnemonic = "expand calm deposit glory consider glory season decline worry among express primary";
+var mnemonic = "trial month penalty hurdle expire device debris impose hip wealth target field";

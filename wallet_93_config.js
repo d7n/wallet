@@ -1,1 +1,1 @@
-var mnemonic = "exhaust public kangaroo this tuition achieve confirm shy mouse this marble tonight";
+var mnemonic = "vehicle obvious mouse because fever grass flight exhaust humble learn diamond warrior";

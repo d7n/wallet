@@ -1,1 +1,1 @@
-var mnemonic = "banner upon broom casino remove garbage lend pride old write vintage twelve";
+var mnemonic = "gravity foot column grow believe cave name client abstract inflict proof zone";

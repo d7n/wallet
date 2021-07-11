@@ -1,1 +1,1 @@
-var mnemonic = "prevent click glide abuse mind door grow sleep scheme gas lift train";
+var mnemonic = "hurdle silent food rain mouse grape distance eyebrow violin vanish mimic angle";
