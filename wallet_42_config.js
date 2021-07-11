@@ -1,1 +1,1 @@
-var mnemonic = "grocery cupboard walnut twist multiply buffalo grass glad member tackle main heart";
+var mnemonic = "program host novel crawl cruel favorite omit problem devote tilt deliver swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "steak era trap kitchen boil chapter dynamic key leopard trigger dizzy august";
+var mnemonic = "gallery dove vast magic enlist execute fashion mask west valve near grass";

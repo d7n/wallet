@@ -1,1 +1,1 @@
-var mnemonic = "salt rebuild junior tell village sniff brave also rigid toddler aware shift";
+var mnemonic = "ride drama autumn candy usage danger rich exchange ready include gasp work";

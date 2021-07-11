@@ -1,1 +1,1 @@
-var mnemonic = "cliff music mimic pond merit valid thrive imitate square subway alter party";
+var mnemonic = "often traffic obvious slice scissors enter spend tattoo book deer harsh father";

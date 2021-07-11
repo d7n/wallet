@@ -1,1 +1,1 @@
-var mnemonic = "note eye typical invite imitate dial game render solar flame paddle sentence";
+var mnemonic = "forest patrol dial glory loan raccoon into absent catalog text auction juice";

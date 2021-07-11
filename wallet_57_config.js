@@ -1,1 +1,1 @@
-var mnemonic = "sample canoe glare solve dizzy slim able scout sponsor umbrella chief tube";
+var mnemonic = "eagle vital fabric bonus utility dinner mixed endless cover local cover chair";

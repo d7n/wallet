@@ -1,1 +1,1 @@
-var mnemonic = "neither eagle fortune embark tomorrow merit scan into never step build neck";
+var mnemonic = "bench remember interest gas library produce front agree talent element edge what";

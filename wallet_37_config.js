@@ -1,1 +1,1 @@
-var mnemonic = "trash mutual casino draw village script shaft arrow achieve vital gravity project";
+var mnemonic = "animal congress hundred embrace ranch leader recycle abandon zebra river year remove";

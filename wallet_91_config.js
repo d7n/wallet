@@ -1,1 +1,1 @@
-var mnemonic = "hold mutual remember tape alert dress color useful ritual allow town federal";
+var mnemonic = "snow notice bachelor bachelor immense captain tiny eight boss regular artefact leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "great innocent raven hard obey feel evil book veteran session say bench";
+var mnemonic = "float blur street elephant chunk climb poem call tenant defense finger stone";

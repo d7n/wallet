@@ -1,1 +1,1 @@
-var mnemonic = "network bird man nominee travel february faith tennis sugar seven mystery subject";
+var mnemonic = "ticket board trumpet knee market off amateur smooth chimney tourist pigeon hawk";

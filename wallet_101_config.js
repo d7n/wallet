@@ -1,1 +1,1 @@
-var mnemonic = "nurse unfair stereo artist taxi receive broom guess clerk hat merge castle";
+var mnemonic = "settle give bind image there genre ancient coach tissue pull true repair";

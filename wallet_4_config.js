@@ -1,1 +1,1 @@
-var mnemonic = "clap endorse loop man purchase satoshi perfect trouble maze ripple gravity point";
+var mnemonic = "maximum slab mosquito pioneer salon treat leader stable bleak joke learn drink";

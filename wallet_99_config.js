@@ -1,1 +1,1 @@
-var mnemonic = "glue please coast crumble myself rotate offer quick enhance gasp harbor spot";
+var mnemonic = "butter gather excess frost tourist shallow open current stove shrug near parrot";

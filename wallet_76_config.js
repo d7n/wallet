@@ -1,1 +1,1 @@
-var mnemonic = "sweet group spot deposit become wrestle plate obvious tongue husband asthma six";
+var mnemonic = "morning success victory alter crane crawl catch ugly army need syrup husband";

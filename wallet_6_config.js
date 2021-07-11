@@ -1,1 +1,1 @@
-var mnemonic = "three air hungry expire wise abstract kid child embody fame patch play";
+var mnemonic = "glimpse satoshi engage surround traffic float exit ignore year wire ugly minor";

@@ -1,1 +1,1 @@
-var mnemonic = "will welcome light step broom buyer story risk trophy useful donkey flower";
+var mnemonic = "reopen bomb please swift choose knock write gun barely exact slow can";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust item casual tone scare liar garage park window object jungle congress";
+var mnemonic = "swarm alien cricket write fabric light solar shrimp govern hub output close";

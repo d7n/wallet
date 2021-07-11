@@ -1,1 +1,1 @@
-var mnemonic = "rack saddle general can glass consider spare click exhibit retreat enter imitate";
+var mnemonic = "throw charge scout dice genuine fine patient just they will alarm box";

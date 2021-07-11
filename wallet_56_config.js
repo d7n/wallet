@@ -1,1 +1,1 @@
-var mnemonic = "bright tilt sun humble episode emotion deputy glad toward office spoon betray";
+var mnemonic = "metal odor wide mango yellow kidney vapor odor wife buyer task please";

@@ -1,1 +1,1 @@
-var mnemonic = "able dinner chicken link concert enforce wheel horse kingdom course name salmon";
+var mnemonic = "scrub deputy glimpse dismiss ahead wash name infant minor project economy where";

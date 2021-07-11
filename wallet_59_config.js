@@ -1,1 +1,1 @@
-var mnemonic = "satoshi welcome curious receive rent friend earth crowd modify pumpkin gloom rival";
+var mnemonic = "impact key empty drill imitate stable company seat project awesome hurdle morning";

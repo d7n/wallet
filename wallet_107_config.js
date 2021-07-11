@@ -1,1 +1,1 @@
-var mnemonic = "fog photo fade slight weekend special ginger ghost guard rich mushroom blame";
+var mnemonic = "door inherit pioneer fossil recall travel clump lock crack vivid excite venue";

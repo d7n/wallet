@@ -1,1 +1,1 @@
-var mnemonic = "garden moon bomb bunker viable car fly limit omit large best code";
+var mnemonic = "chapter surface palace pistol error peace prison fancy riot ten enlist guide";

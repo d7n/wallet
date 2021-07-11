@@ -1,1 +1,1 @@
-var mnemonic = "half kitten tail satoshi task scatter gentle evolve tool month logic media";
+var mnemonic = "sadness render roof captain body decline clip husband person melt stereo hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "barely alien panda husband october mixture eager ceiling lemon shaft relax city";
+var mnemonic = "route vivid anxiety angle quote interest present actress labor midnight iron wood";

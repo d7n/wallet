@@ -1,1 +1,1 @@
-var mnemonic = "struggle grit glory assume right cool panther section bachelor slice source invest";
+var mnemonic = "gospel purchase emotion option smart coast rare tuition fatigue tiny display voyage";

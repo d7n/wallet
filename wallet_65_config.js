@@ -1,1 +1,1 @@
-var mnemonic = "oval drip million melody puppy doll spawn work coconut matter year armed";
+var mnemonic = "food decrease ladder crew shy pig banana achieve fatal tumble horse noodle";

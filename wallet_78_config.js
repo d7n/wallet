@@ -1,1 +1,1 @@
-var mnemonic = "reward payment hawk about any employ process adapt glance salt north drop";
+var mnemonic = "inform visual sunny tone slow talent present siege filter cover answer paddle";

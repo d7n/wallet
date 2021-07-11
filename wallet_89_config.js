@@ -1,1 +1,1 @@
-var mnemonic = "human bullet taste kingdom master floor ahead stuff category lava tattoo gallery";
+var mnemonic = "often such whip news rhythm naive carbon bulk hurt secret sister remind";

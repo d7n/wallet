@@ -1,1 +1,1 @@
-var mnemonic = "bubble two spring decline pupil magic medal naive tape churn agent wide";
+var mnemonic = "harsh power upset foil muscle onion viable trip neglect pottery sleep honey";

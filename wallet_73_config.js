@@ -1,1 +1,1 @@
-var mnemonic = "prefer consider ahead deny radar honey law notable pull milk mistake cotton";
+var mnemonic = "elbow magnet battle sample village borrow taxi sunset secret build magnet satisfy";

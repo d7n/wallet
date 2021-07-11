@@ -1,1 +1,1 @@
-var mnemonic = "wife year provide enact primary jaguar myself cake flip card alone toss";
+var mnemonic = "wife pink rack gravity alcohol man busy question abuse abandon patrol strike";

@@ -1,1 +1,1 @@
-var mnemonic = "hello amateur doll rookie predict elder describe entry region kid normal punch";
+var mnemonic = "home poem large sheriff license stool bomb window discover symbol lizard motor";

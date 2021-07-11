@@ -1,1 +1,1 @@
-var mnemonic = "scan above differ special evolve resource hamster joke flame cactus dream gym";
+var mnemonic = "swim wish assault melody fun mesh best answer sphere coyote adult neither";

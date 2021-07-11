@@ -1,1 +1,1 @@
-var mnemonic = "purpose gym knock gun patch green cook distance alpha opera evolve frost";
+var mnemonic = "measure awkward behind turn manual fatal order bonus outdoor clog solid require";

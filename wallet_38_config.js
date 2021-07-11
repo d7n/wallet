@@ -1,1 +1,1 @@
-var mnemonic = "change theory retreat spring fantasy silver universe drift alert fabric desert dizzy";
+var mnemonic = "stove laptop relief skin fitness seat chimney accident immune visual journey behind";

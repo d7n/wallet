@@ -1,1 +1,1 @@
-var mnemonic = "enrich struggle pigeon chalk shine random velvet engine gown garden thought when";
+var mnemonic = "phone mix figure hair goddess output salute scout arch noble include resource";

@@ -1,1 +1,1 @@
-var mnemonic = "round oppose wood add coral sort flash moment hover alert panda deal";
+var mnemonic = "rival gravity meadow funny junior odor blur timber buddy manual order about";

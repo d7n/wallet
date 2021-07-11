@@ -1,1 +1,1 @@
-var mnemonic = "skull music laugh curtain naive quality battle orchard meat employ bitter tell";
+var mnemonic = "marble lemon noodle verb bunker inject sauce worry fury champion repair other";

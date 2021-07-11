@@ -1,1 +1,1 @@
-var mnemonic = "common glow foil tenant engage useful burden cattle athlete degree profit improve";
+var mnemonic = "panel seven token barely broccoli mad planet magnet there type afford panther";

@@ -1,1 +1,1 @@
-var mnemonic = "term egg belt ripple require exile camp fish decide violin success quote";
+var mnemonic = "accident vacant wrong strong strategy hole sibling market draft trophy vendor stay";

@@ -1,1 +1,1 @@
-var mnemonic = "damage tower subway renew trap light magic south obtain saddle liberty empty";
+var mnemonic = "winter sketch shoot leave coconut antique frame amazing flat anxiety hobby load";

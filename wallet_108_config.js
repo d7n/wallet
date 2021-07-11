@@ -1,1 +1,1 @@
-var mnemonic = "detect alcohol finger drop ethics educate wedding candy absurd gaze siege hammer";
+var mnemonic = "switch foam reject urban syrup deliver tank job nut tail search chief";

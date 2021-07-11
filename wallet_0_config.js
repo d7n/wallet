@@ -1,1 +1,1 @@
-var mnemonic = "length birth excite balance awake robot inherit spice must before blast thumb";
+var mnemonic = "kind turn toe believe opera never spy cactus mistake alert list wet";

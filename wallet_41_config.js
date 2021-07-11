@@ -1,1 +1,1 @@
-var mnemonic = "artwork before trophy clog barely robust sauce chief exchange trophy mountain toe";
+var mnemonic = "scare video exercise note obtain assume car disagree math middle sick carry";

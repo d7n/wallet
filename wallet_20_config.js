@@ -1,1 +1,1 @@
-var mnemonic = "pupil rigid dad nose outer dash join property valid agree stove rate";
+var mnemonic = "edit utility net creek collect choose below card spy meadow pony apple";

@@ -1,1 +1,1 @@
-var mnemonic = "action original cinnamon portion art calm method soldier rate hungry upgrade multiply";
+var mnemonic = "draw fabric scrap outside script erase warrior wash tumble sponsor digital sugar";

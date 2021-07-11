@@ -1,1 +1,1 @@
-var mnemonic = "before rice evidence book know adult magnet social duck pattern talk cruel";
+var mnemonic = "daring pond tank divide only foam lesson tent solar monkey lamp rocket";

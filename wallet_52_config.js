@@ -1,1 +1,1 @@
-var mnemonic = "rebel note doll number move orient silver odor bomb spawn wash play";
+var mnemonic = "other place nurse asthma clock increase crumble foil century crush lunar pupil";

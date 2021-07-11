@@ -1,1 +1,1 @@
-var mnemonic = "clinic diary gadget world dismiss insect surround input purity tilt post glance";
+var mnemonic = "laugh success bottom small chaos pudding phone kit attitude flame burger together";

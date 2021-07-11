@@ -1,1 +1,1 @@
-var mnemonic = "seek milk play return desert evidence cannon cute easily merge shaft maid";
+var mnemonic = "blame patch just clock poet goat this own faculty ridge frame kite";

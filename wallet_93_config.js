@@ -1,1 +1,1 @@
-var mnemonic = "destroy embark system antenna forest reform antique property approve choose mechanic agree";
+var mnemonic = "couple denial cry bright silly say hurt critic walnut mule focus rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "quote burger chalk napkin goose first stage off canyon fan tonight always";
+var mnemonic = "popular online effort shoulder ignore year vacant logic drastic sail innocent media";

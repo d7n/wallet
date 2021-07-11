@@ -1,1 +1,1 @@
-var mnemonic = "boss talk matter will wrestle below celery kangaroo slice error double setup";
+var mnemonic = "iron muscle core hundred quick visual disagree produce leader rare chicken denial";

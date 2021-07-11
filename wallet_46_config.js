@@ -1,1 +1,1 @@
-var mnemonic = "fortune whale pumpkin invest then just retreat kitchen express invite fence bitter";
+var mnemonic = "beauty timber menu draw powder security donate foam two since blossom derive";

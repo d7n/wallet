@@ -1,1 +1,1 @@
-var mnemonic = "any orphan memory cake siren spell craft market power soldier goddess art";
+var mnemonic = "opinion into thumb gadget wash then student loud father where enforce kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "oak warfare butter stay year disease solid sheriff diamond attend burger horn";
+var mnemonic = "verify payment curtain kitten hurdle project either caught grain taste pigeon wrong";

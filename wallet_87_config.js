@@ -1,1 +1,1 @@
-var mnemonic = "isolate whisper stadium unhappy law curious rug rabbit exist pen project regret";
+var mnemonic = "chest frog mansion elite crouch predict screen bargain region doctor genre find";

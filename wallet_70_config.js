@@ -1,1 +1,1 @@
-var mnemonic = "dilemma genre mean tonight skin genre purse develop ranch gather head evolve";
+var mnemonic = "oxygen cat timber feel extra payment envelope salt bulb concert special witness";

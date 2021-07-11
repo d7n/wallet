@@ -1,1 +1,1 @@
-var mnemonic = "ecology turtle truly acid coach brave cherry indicate earth cage trip convince";
+var mnemonic = "top come mountain party point noble absorb view ginger pupil stadium cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "river crumble tragic wonder thunder parade moral syrup then defense curtain public";
+var mnemonic = "orange story ghost renew never search aerobic spider shoe wish boy text";

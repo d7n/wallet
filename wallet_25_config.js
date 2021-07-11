@@ -1,1 +1,1 @@
-var mnemonic = "remind north arrive diesel fiscal remain athlete dizzy quick rotate belt amateur";
+var mnemonic = "weekend bag found lamp merry struggle slab curve drift symptom size latin";

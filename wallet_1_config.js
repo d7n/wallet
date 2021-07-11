@@ -1,1 +1,1 @@
-var mnemonic = "life drive topple fiction express floor uncle pet adult old empty illness";
+var mnemonic = "between resist silver viable sight female eight rival rotate way rocket stay";

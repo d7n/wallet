@@ -1,1 +1,1 @@
-var mnemonic = "dream general obvious wise arrest click venture tackle win guard provide slight";
+var mnemonic = "flavor cheese visual acid anger setup twist eager rebuild venture payment sad";

@@ -1,1 +1,1 @@
-var mnemonic = "okay chief typical hockey label draw clip chimney narrow disease drastic flee";
+var mnemonic = "begin tool fresh solar spin narrow quality leopard garment lift shove extend";

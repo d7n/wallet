@@ -1,1 +1,1 @@
-var mnemonic = "assault distance milk cliff range labor name thunder trend slab pig magnet";
+var mnemonic = "attack display fall sorry volcano lock paddle improve frozen common expose olympic";

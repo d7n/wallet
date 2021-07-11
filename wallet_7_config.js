@@ -1,1 +1,1 @@
-var mnemonic = "salute choice crowd humble decline require negative door live will position elegant";
+var mnemonic = "pizza thing artwork hungry snake prison cover produce involve civil soldier gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake attend wink lift holiday person ask trade cost creek video sponsor";
+var mnemonic = "poverty scorpion ladder faint render orbit maple spell panel broken hero smoke";

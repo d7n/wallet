@@ -1,1 +1,1 @@
-var mnemonic = "ice grief patch now desk come fury hurdle emotion entire cherry boss";
+var mnemonic = "memory vault lens ladder toe plunge gate suspect proof during picture fault";

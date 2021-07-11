@@ -1,1 +1,1 @@
-var mnemonic = "tube casual champion romance wire south imitate sick track cradle release debris";
+var mnemonic = "suspect suggest domain gap cabbage law fox toss access chat couple retreat";

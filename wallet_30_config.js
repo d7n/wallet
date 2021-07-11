@@ -1,1 +1,1 @@
-var mnemonic = "same vast frozen alley movie random legend subway public suggest bubble cat";
+var mnemonic = "portion output spell seed best observe sausage city retire diary object mammal";

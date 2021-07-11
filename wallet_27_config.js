@@ -1,1 +1,1 @@
-var mnemonic = "imitate nice bargain cupboard talk rocket perfect okay much soup illegal shine";
+var mnemonic = "wasp flush artwork panda foil welcome true future auto reflect shock arrange";

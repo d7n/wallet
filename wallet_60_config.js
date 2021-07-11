@@ -1,1 +1,1 @@
-var mnemonic = "orchard medal abandon bronze globe dilemma small steak future faith album lecture";
+var mnemonic = "wine float eye frame trust fork grunt medal panic impact cross lottery";

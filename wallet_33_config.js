@@ -1,1 +1,1 @@
-var mnemonic = "prize goose crew episode medal silly cactus buyer slab vapor student level";
+var mnemonic = "crater health scrub tell asthma demise garage lawn voyage teach defense draft";

@@ -1,1 +1,1 @@
-var mnemonic = "mule gap innocent claw arrange sample few neglect tourist pattern grid flat";
+var mnemonic = "body animal embark potato high gold labor pill holiday wink breeze tomato";

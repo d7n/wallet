@@ -1,1 +1,1 @@
-var mnemonic = "south veteran peanut tank average soul story degree license sand wide news";
+var mnemonic = "exit sand sight buzz brisk match pencil crop exile year stage boss";

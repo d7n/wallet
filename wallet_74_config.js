@@ -1,1 +1,1 @@
-var mnemonic = "insect skull uniform predict glue powder renew country army monitor elevator region";
+var mnemonic = "cool saddle hire faint gown permit lecture nature leave lamp grab spice";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder island song fat march dragon produce basket night behind harbor duty";
+var mnemonic = "actual decide shoot exchange route weather circle subway squirrel rely park click";

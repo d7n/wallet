@@ -1,1 +1,1 @@
-var mnemonic = "fox vicious swallow snack rebuild unfair collect addict river trash company cycle";
+var mnemonic = "better gap brain amazing coyote annual copper shift drive cake arena release";

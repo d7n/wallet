@@ -1,1 +1,1 @@
-var mnemonic = "just eye reveal fit heavy gentle adult gate few visa giraffe betray";
+var mnemonic = "winter demise above fresh dash pave reopen miracle shove moment era crater";

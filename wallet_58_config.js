@@ -1,1 +1,1 @@
-var mnemonic = "oblige fuel flavor busy oak level cover suit coffee supreme toddler leave";
+var mnemonic = "parrot hockey include spell quality grit level field jump success cushion knee";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy demand crazy proof old banana suffer village acid follow mixed used";
+var mnemonic = "crash profit good practice fade inject team vault virtual coral cram forward";

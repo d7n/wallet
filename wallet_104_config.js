@@ -1,1 +1,1 @@
-var mnemonic = "initial nest thrive cupboard choose today post hammer fetch recycle deal pause";
+var mnemonic = "lawsuit quarter mad maple asset crouch drink custom board square evidence naive";

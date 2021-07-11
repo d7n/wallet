@@ -1,1 +1,1 @@
-var mnemonic = "flavor wing vicious easy suffer enrich nuclear pluck omit cattle dice dilemma";
+var mnemonic = "congress note swamp badge author crazy toe shift bag initial middle used";

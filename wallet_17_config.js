@@ -1,1 +1,1 @@
-var mnemonic = "general result render suspect fitness label local again zone visit cycle base";
+var mnemonic = "pumpkin state between book favorite extra usage describe talent sound cheap obey";

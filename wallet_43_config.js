@@ -1,1 +1,1 @@
-var mnemonic = "guard can eyebrow woman battle december gauge return record artist pulp rate";
+var mnemonic = "inner empty bonus garlic game taxi lounge praise tide family advance bicycle";

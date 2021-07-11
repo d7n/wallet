@@ -1,1 +1,1 @@
-var mnemonic = "anger pizza arrest float connect asthma scorpion manage amazing strong rotate bean";
+var mnemonic = "relief evil relax often budget april flash assume raccoon roast issue soft";

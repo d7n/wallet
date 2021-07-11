@@ -1,1 +1,1 @@
-var mnemonic = "pitch puzzle rude silly club afraid display sister hawk will brother bunker";
+var mnemonic = "nephew segment auction buyer element detect frame snow page gospel ranch fade";
