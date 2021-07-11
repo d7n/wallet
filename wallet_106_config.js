@@ -1,1 +1,1 @@
-var mnemonic = "famous victory submit because imitate virtual subway bracket obvious vivid athlete feel";
+var mnemonic = "orphan bread feed silver noble bean alter junk fish diagram patch trim";

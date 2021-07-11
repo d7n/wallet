@@ -1,1 +1,1 @@
-var mnemonic = "repeat lava secret vast gasp sell object wire rescue tooth route primary";
+var mnemonic = "amount state burst foil payment sustain awake raven gym weird dance snow";

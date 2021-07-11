@@ -1,1 +1,1 @@
-var mnemonic = "thought legend meat rifle final museum iron boost tree pig bean champion";
+var mnemonic = "spice anchor faith spray riot cat mystery clever cabbage bundle unit plunge";

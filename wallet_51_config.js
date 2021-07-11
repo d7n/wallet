@@ -1,1 +1,1 @@
-var mnemonic = "inch problem copper apart escape actor benefit recall bus question pill unveil";
+var mnemonic = "choose bullet wave mango energy nothing final announce popular canoe mask insane";

@@ -1,1 +1,1 @@
-var mnemonic = "rough cupboard tone soccer wash carry gossip galaxy flight polar hello creek";
+var mnemonic = "mercy column clever little fine traffic cry animal panel normal mad awesome";

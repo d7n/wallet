@@ -1,1 +1,1 @@
-var mnemonic = "citizen struggle change front minute evil actor engine hello mind upon chef";
+var mnemonic = "enroll sweet cupboard roast hybrid butter spend embark sketch pill grape artwork";

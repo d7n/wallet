@@ -1,1 +1,1 @@
-var mnemonic = "sort virtual penalty private crowd exhaust skin few paddle shoe pill snake";
+var mnemonic = "month father laptop want squeeze suit nest file melody wire barrel lawsuit";

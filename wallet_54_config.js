@@ -1,1 +1,1 @@
-var mnemonic = "trade venture blossom gas naive embrace toy hidden element exit next pride";
+var mnemonic = "weather ugly route need grass domain focus aware taste torch sail toe";

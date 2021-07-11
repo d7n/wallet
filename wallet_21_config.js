@@ -1,1 +1,1 @@
-var mnemonic = "problem ritual range glue seed region orphan two gesture sail struggle relief";
+var mnemonic = "labor exact wolf junior reunion vehicle aware hurry kick hybrid sorry good";

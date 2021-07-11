@@ -1,1 +1,1 @@
-var mnemonic = "wolf marriage december enemy volcano hurt bridge unit antenna doctor near oven";
+var mnemonic = "leave fashion number learn leave photo flock receive audit resource negative cage";

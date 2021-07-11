@@ -1,1 +1,1 @@
-var mnemonic = "nothing hero teach aspect aim original giraffe produce scout total cause immune";
+var mnemonic = "ensure candy over census coral sentence digital grass level evidence correct other";

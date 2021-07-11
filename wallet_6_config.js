@@ -1,1 +1,1 @@
-var mnemonic = "school merry month oven glory dial strategy convince zoo grape chief favorite";
+var mnemonic = "west crumble enjoy human mother deer access boy mammal minimum prosper opinion";

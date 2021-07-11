@@ -1,1 +1,1 @@
-var mnemonic = "steel spare doll change clown choose electric excite vessel excess keep dose";
+var mnemonic = "memory acoustic giraffe drip venture consider buzz need inherit nation pumpkin hope";

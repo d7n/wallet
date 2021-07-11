@@ -1,1 +1,1 @@
-var mnemonic = "page book expand grass jewel annual spatial solid harsh logic tone noble";
+var mnemonic = "whale dance extend better luxury manual crane soul arena curious dice jump";

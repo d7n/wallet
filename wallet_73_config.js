@@ -1,1 +1,1 @@
-var mnemonic = "body allow steak clever legend next short spatial kidney sorry round butter";
+var mnemonic = "clinic liar fury door ability false shrug mix essence employ novel actor";

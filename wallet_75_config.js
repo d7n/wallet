@@ -1,1 +1,1 @@
-var mnemonic = "spread put tail poverty nation ship phone pill olive flavor sort assault";
+var mnemonic = "scrub habit display lottery angry menu tomato wood system rhythm damage essence";

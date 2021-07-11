@@ -1,1 +1,1 @@
-var mnemonic = "verify spawn afraid spider love laptop chat fruit uniform degree reopen fancy";
+var mnemonic = "that jeans enemy knife business spare cushion fever oval area say brand";

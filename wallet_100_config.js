@@ -1,1 +1,1 @@
-var mnemonic = "forest fortune various there foster bargain candy army common exist flame sentence";
+var mnemonic = "rather globe invest betray coin enjoy axis announce recipe fine liberty offer";

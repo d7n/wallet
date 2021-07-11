@@ -1,1 +1,1 @@
-var mnemonic = "shallow ugly cotton west aisle poem team update stand tiny increase typical";
+var mnemonic = "divide clock vault fog term side cactus reveal kitchen evolve hammer salad";

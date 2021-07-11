@@ -1,1 +1,1 @@
-var mnemonic = "fly merge member load century student near famous viable member acquire opinion";
+var mnemonic = "spend reopen series report limit feature calm enrich damp shoulder crash infant";

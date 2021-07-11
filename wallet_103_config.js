@@ -1,1 +1,1 @@
-var mnemonic = "volcano lamp path cushion horse affair tool hub return execute perfect federal";
+var mnemonic = "rival under must know piano limit toss final sponsor jar smile clay";

@@ -1,1 +1,1 @@
-var mnemonic = "general beef brief intact beauty link capital catch clean move fossil auction";
+var mnemonic = "cereal coin say rug lucky hip smooth more people rich seminar mesh";

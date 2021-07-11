@@ -1,1 +1,1 @@
-var mnemonic = "crystal economy matter enlist fault novel monkey sword tattoo pond phrase mimic";
+var mnemonic = "outer goddess budget reward move oxygen advice village metal egg spike peace";

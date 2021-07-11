@@ -1,1 +1,1 @@
-var mnemonic = "village juice slab thunder retire rapid inflict harbor visit brass field swallow";
+var mnemonic = "usual crime gravity defense way awake glove knife unique course million devote";

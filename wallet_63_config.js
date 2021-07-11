@@ -1,1 +1,1 @@
-var mnemonic = "tornado mountain wood beef jelly tower rent door tell transfer trumpet derive";
+var mnemonic = "gun twenty sea repair universe dress high grant useful danger moment genius";

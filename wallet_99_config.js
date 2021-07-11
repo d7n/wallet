@@ -1,1 +1,1 @@
-var mnemonic = "material include motor wait fame bubble gallery nothing book bronze wink remain";
+var mnemonic = "elevator erupt clay color apart park pizza weapon crumble swallow become chest";

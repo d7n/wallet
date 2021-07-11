@@ -1,1 +1,1 @@
-var mnemonic = "team life trumpet scheme settle endless marine chronic surprise similar bench opera";
+var mnemonic = "economy myth gospel merry diet cotton mean tissue rebuild share better dentist";

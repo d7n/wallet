@@ -1,1 +1,1 @@
-var mnemonic = "bread deer clock hurdle pen jungle office field urge clerk high one";
+var mnemonic = "pride swallow jungle hat original winter cook such alien claim actual razor";

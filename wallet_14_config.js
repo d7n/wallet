@@ -1,1 +1,1 @@
-var mnemonic = "knock fossil okay air minute entire enroll giraffe remind frown magic slab";
+var mnemonic = "quit dream pioneer talent shrimp life judge camera rhythm once push little";

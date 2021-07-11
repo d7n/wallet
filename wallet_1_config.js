@@ -1,1 +1,1 @@
-var mnemonic = "veteran head flame uphold soul cloud rain nice peanut typical skill case";
+var mnemonic = "load replace diet chat bus uncle height foster various body easy design";

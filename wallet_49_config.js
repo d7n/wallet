@@ -1,1 +1,1 @@
-var mnemonic = "uniform ramp erase nuclear embark luxury net situate disease tag gas phone";
+var mnemonic = "manage chef remove obey cruel quarter cream digital panic clever hire fluid";

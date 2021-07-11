@@ -1,1 +1,1 @@
-var mnemonic = "doctor creek crumble assault badge split logic hill small pen harsh also";
+var mnemonic = "ketchup elevator goat local symptom crazy cereal review song pioneer mail despair";

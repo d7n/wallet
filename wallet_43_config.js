@@ -1,1 +1,1 @@
-var mnemonic = "cash spare network sketch drink claw noise few nerve mosquito jewel knee";
+var mnemonic = "major degree brass fine runway outer possible athlete change save shrimp behave";

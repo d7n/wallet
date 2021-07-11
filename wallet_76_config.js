@@ -1,1 +1,1 @@
-var mnemonic = "square hen brick bright final afford toilet goat task best because test";
+var mnemonic = "oxygen sock obscure student team wrist private labor purchase safe knife voyage";

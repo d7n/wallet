@@ -1,1 +1,1 @@
-var mnemonic = "waste place garden recipe under scan tonight miracle estate great ankle model";
+var mnemonic = "famous toy similar legend fatigue worry drastic eager exhibit process produce first";

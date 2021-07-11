@@ -1,1 +1,1 @@
-var mnemonic = "broom title release aspect royal oxygen oyster disorder urge struggle time wear";
+var mnemonic = "cannon wish enable prize pelican wall dinosaur visa remind report bus school";

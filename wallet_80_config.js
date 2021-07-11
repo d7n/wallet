@@ -1,1 +1,1 @@
-var mnemonic = "inspire answer range problem olympic route now fringe call tuition enroll mad";
+var mnemonic = "viable decline divorce can evoke economy guard balance beauty over spray lawsuit";

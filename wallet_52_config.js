@@ -1,1 +1,1 @@
-var mnemonic = "shock nut document flame early scatter royal tilt lift pluck velvet auction";
+var mnemonic = "floor bench enter exhibit power govern drip stand clever prevent carry melody";

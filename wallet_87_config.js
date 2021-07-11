@@ -1,1 +1,1 @@
-var mnemonic = "turkey nothing cupboard tilt yard man august impact sister maid leopard door";
+var mnemonic = "chase human update autumn breeze ladder fat crash ghost allow logic sell";

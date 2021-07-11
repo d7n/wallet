@@ -1,1 +1,1 @@
-var mnemonic = "bracket similar sight response cool bone unveil inhale portion cherry please toy";
+var mnemonic = "tuition shield minute solve holiday meat slender before flush federal gorilla turkey";

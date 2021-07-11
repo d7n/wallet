@@ -1,1 +1,1 @@
-var mnemonic = "tooth bargain purity quote century fork february sword ahead vacuum assist tobacco";
+var mnemonic = "estate kite loud cradle benefit century embrace drastic exact alter van win";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness begin try bullet jaguar bleak member satisfy busy swallow range giggle";
+var mnemonic = "crisp canoe private exotic card cigar jaguar unusual math eye almost border";

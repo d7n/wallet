@@ -1,1 +1,1 @@
-var mnemonic = "jacket youth october situate draft permit glory theme guide evolve member bunker";
+var mnemonic = "dad poem demand service usual blame spend island oppose yard right screen";

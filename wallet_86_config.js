@@ -1,1 +1,1 @@
-var mnemonic = "barely boat inquiry eager boring spring kid heart super section gaze cup";
+var mnemonic = "meadow lend reveal nut much sleep spike proof annual option vapor anxiety";

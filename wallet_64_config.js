@@ -1,1 +1,1 @@
-var mnemonic = "ocean impulse occur corn style recipe garden seek welcome someone rapid join";
+var mnemonic = "silent right today squirrel food sniff vehicle venue power amount salad meat";

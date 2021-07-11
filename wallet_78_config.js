@@ -1,1 +1,1 @@
-var mnemonic = "crisp marble sadness empty pitch baby enlist evolve crater spike seed damage";
+var mnemonic = "property cool tube claw loan script maze wine coach random salon bullet";

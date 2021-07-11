@@ -1,1 +1,1 @@
-var mnemonic = "artefact close nasty boring cement cover odor weekend turn wall scan harvest";
+var mnemonic = "myself run fragile flock casual captain matrix pig tortoise betray hello dune";

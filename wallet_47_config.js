@@ -1,1 +1,1 @@
-var mnemonic = "purity great edit torch umbrella fancy machine urban album hill size catch";
+var mnemonic = "occur couch vapor property topple music crazy invest tell actual oppose equal";

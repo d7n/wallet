@@ -1,1 +1,1 @@
-var mnemonic = "sorry mean blast game phrase ladder omit exclude among faculty crisp jar";
+var mnemonic = "family divorce announce still come repair scan inhale own comfort bleak wear";

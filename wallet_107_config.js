@@ -1,1 +1,1 @@
-var mnemonic = "venture jacket proud spy tell record spider stable prison display street magnet";
+var mnemonic = "release radio game lab upon owner jealous sausage imitate left able draw";

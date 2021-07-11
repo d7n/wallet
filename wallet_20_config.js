@@ -1,1 +1,1 @@
-var mnemonic = "wasp turtle later rubber sell alley conduct extend cage keen few forget";
+var mnemonic = "olive share stone assault solid permit early tomato gap riot flight giant";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh garage heavy middle motion ancient sound laundry dignity leg swallow brick";
+var mnemonic = "label fox payment maze open heavy risk virtual rescue bomb ancient snow";

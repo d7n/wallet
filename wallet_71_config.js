@@ -1,1 +1,1 @@
-var mnemonic = "economy juice salad lumber work sustain leopard pause dilemma aisle retreat across";
+var mnemonic = "rule army rare tower syrup dance rookie become broccoli relief thank weapon";

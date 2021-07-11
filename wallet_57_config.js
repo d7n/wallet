@@ -1,1 +1,1 @@
-var mnemonic = "wink industry play major require that loop episode valley welcome limb soldier";
+var mnemonic = "decide digital since worth over lend hundred speak creek deer hurry energy";

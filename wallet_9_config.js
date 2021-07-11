@@ -1,1 +1,1 @@
-var mnemonic = "buffalo client that tree bunker cube total language angle unfold about observe";
+var mnemonic = "skull income tip laundry sound hen business fish input turn kitten start";

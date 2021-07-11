@@ -1,1 +1,1 @@
-var mnemonic = "trigger pepper mean pause media affair table enact erosion fluid anxiety pulse";
+var mnemonic = "spread tomato twist venue bridge barrel praise cry canal vintage copy room";

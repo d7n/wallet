@@ -1,1 +1,1 @@
-var mnemonic = "entire wise sausage train swing diamond edge oppose stem combine expose ivory";
+var mnemonic = "sketch stay sing twice poverty raccoon local race position version job exclude";

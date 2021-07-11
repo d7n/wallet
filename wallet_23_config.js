@@ -1,1 +1,1 @@
-var mnemonic = "raven various engine bridge hazard require stadium chalk bind settle above spot";
+var mnemonic = "develop earn inside trial zone often little tornado video shoe slice tank";

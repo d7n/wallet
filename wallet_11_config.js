@@ -1,1 +1,1 @@
-var mnemonic = "rain invest sunset gadget come damage cherry hand lounge bean shoot unhappy";
+var mnemonic = "menu praise message drill turn suit shift trophy float frog combine oak";

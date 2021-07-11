@@ -1,1 +1,1 @@
-var mnemonic = "motor kitchen answer bamboo knee crystal measure walk alcohol soon inmate journey";
+var mnemonic = "media accident food arrow add fancy second toy ankle jelly daughter solve";

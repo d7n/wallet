@@ -1,1 +1,1 @@
-var mnemonic = "salon cloud gallery theme evidence asset seven small clarify salute slush ugly";
+var mnemonic = "family cool stumble choose volcano fragile update buyer steel end animal minute";

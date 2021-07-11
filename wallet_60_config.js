@@ -1,1 +1,1 @@
-var mnemonic = "mixture eye daring course rural thought wing wait employ wealth certain attend";
+var mnemonic = "you stamp romance virus cinnamon outside casual abuse oyster brief spin prosper";

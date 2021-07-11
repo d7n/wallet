@@ -1,1 +1,1 @@
-var mnemonic = "follow skill head bitter course spend gospel scatter crawl bullet pet talk";
+var mnemonic = "apart permit same issue satisfy gun smile divorce easily light time age";

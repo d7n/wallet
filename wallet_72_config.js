@@ -1,1 +1,1 @@
-var mnemonic = "moment extend planet brother motor confirm setup kitten thrive state treat eight";
+var mnemonic = "old lion off find bulb silent primary birth real slot main force";

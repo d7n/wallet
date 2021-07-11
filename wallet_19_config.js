@@ -1,1 +1,1 @@
-var mnemonic = "erase bring fantasy bring jungle salon quality buyer van mango retreat torch";
+var mnemonic = "want blood first found zebra such build carbon gauge ocean toast catch";

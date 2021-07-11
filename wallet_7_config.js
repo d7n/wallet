@@ -1,1 +1,1 @@
-var mnemonic = "sad analyst mansion pact vintage capital movie say click smoke boat cattle";
+var mnemonic = "fame they similar fortune corn boring grab wait wrist forward cotton photo";

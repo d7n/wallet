@@ -1,1 +1,1 @@
-var mnemonic = "deliver test once sick october basket caught patch olive cotton dinosaur strong";
+var mnemonic = "sudden output subject silent wheat crucial verb trap coyote sister notable weekend";

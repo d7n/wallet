@@ -1,1 +1,1 @@
-var mnemonic = "you fiction unfold unaware erupt pond profit luggage dentist fresh require human";
+var mnemonic = "flush wage protect tape exclude lawn person execute expand slot swing save";

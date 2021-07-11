@@ -1,1 +1,1 @@
-var mnemonic = "various roof lift position divide earth note since roast sick virtual music";
+var mnemonic = "also arrange crush border repair property try gather ready jeans approve vehicle";

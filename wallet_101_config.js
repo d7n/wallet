@@ -1,1 +1,1 @@
-var mnemonic = "recycle absent summer model surge solar fresh reopen tenant canyon thing lawsuit";
+var mnemonic = "bless edge math coast endorse coral again blur pool sad farm genius";

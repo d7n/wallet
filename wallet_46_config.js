@@ -1,1 +1,1 @@
-var mnemonic = "rice fault shuffle worth glad can heart aisle scatter equal gun assume";
+var mnemonic = "fire island lobster rely believe hair ramp wine engine furnace carbon survey";

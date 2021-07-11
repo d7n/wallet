@@ -1,1 +1,1 @@
-var mnemonic = "uncle tape thumb cargo glory web usage kiwi door tortoise mention glove";
+var mnemonic = "guitar kite main poverty field tilt wrist civil rely rapid fringe master";

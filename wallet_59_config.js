@@ -1,1 +1,1 @@
-var mnemonic = "tent sight world space remind bacon force process million leaf senior rose";
+var mnemonic = "egg clump sorry tuition student exhibit render claw cloud evidence member pull";

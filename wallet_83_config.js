@@ -1,1 +1,1 @@
-var mnemonic = "boost ten jeans arrest nurse unveil gown swear stove then nephew friend";
+var mnemonic = "biology over loop target reunion drive city frequent frown toilet dune retreat";

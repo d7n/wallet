@@ -1,1 +1,1 @@
-var mnemonic = "evolve twin alone decade seed save color false medal donor ramp board";
+var mnemonic = "worry doctor dial frequent canvas dirt boring news senior country lucky reward";

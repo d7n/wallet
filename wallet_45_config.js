@@ -1,1 +1,1 @@
-var mnemonic = "guard rifle photo can capable cram energy joke increase paddle brave current";
+var mnemonic = "plate still secret adapt mountain segment early orange involve resource poet spawn";

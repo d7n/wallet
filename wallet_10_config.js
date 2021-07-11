@@ -1,1 +1,1 @@
-var mnemonic = "nut amount gown bid cactus student scene balance aunt wing number turtle";
+var mnemonic = "sudden over enjoy garage welcome amazing monster drip scrap yard innocent give";

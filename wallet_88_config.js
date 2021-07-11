@@ -1,1 +1,1 @@
-var mnemonic = "harsh club aim tide broken pepper prevent ceiling industry glow stamp winter";
+var mnemonic = "degree ancient bring patient diet exhaust cricket gossip type indicate benefit trick";

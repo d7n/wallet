@@ -1,1 +1,1 @@
-var mnemonic = "finger winner length gossip infant lend fuel reopen reunion draft ribbon benefit";
+var mnemonic = "hammer wheat spot oven face kite stereo finish identify grain crawl despair";

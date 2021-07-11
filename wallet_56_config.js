@@ -1,1 +1,1 @@
-var mnemonic = "security obvious myth fetch input melody slush laundry anchor top gasp inside";
+var mnemonic = "motor remember moral argue antenna vault better method auto space fantasy common";

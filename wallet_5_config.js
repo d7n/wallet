@@ -1,1 +1,1 @@
-var mnemonic = "gloom feature crane joy dinosaur merge bread ancient path picnic garment wrong";
+var mnemonic = "adapt photo warm dragon chunk color scene ribbon around rain village slight";

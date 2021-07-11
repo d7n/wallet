@@ -1,1 +1,1 @@
-var mnemonic = "immense clerk saddle lamp tiny noble viable universe pass merge torch camera";
+var mnemonic = "fiber mention cook infant coil auction effort lion impulse knife bubble camp";
