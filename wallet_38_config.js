@@ -1,1 +1,1 @@
-var mnemonic = "charge want fan buyer sand average scan forget source wide sleep basket";
+var mnemonic = "coil index inspire sausage trophy kiss tumble desert meadow phone sound figure";

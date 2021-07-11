@@ -1,1 +1,1 @@
-var mnemonic = "grid raw inquiry force height gym tape inflict private rotate note onion";
+var mnemonic = "art fetch confirm ten drift bullet between length faint riot pause okay";

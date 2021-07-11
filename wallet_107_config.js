@@ -1,1 +1,1 @@
-var mnemonic = "bus primary mimic cool midnight rescue food actor tragic unusual lamp cable";
+var mnemonic = "exhibit track echo piece wreck device unhappy book lunar baby mercy final";

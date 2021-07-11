@@ -1,1 +1,1 @@
-var mnemonic = "ecology add sunny slow dumb deliver problem cheese blood fork stable gym";
+var mnemonic = "glimpse strong work judge polar annual know oil pitch unable worth kiss";

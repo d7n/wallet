@@ -1,1 +1,1 @@
-var mnemonic = "leaf fantasy burger energy tent middle myth life labor prepare board stem";
+var mnemonic = "street want panda gas divorce glue surround sugar seminar cheap physical voice";

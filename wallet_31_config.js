@@ -1,1 +1,1 @@
-var mnemonic = "game grief treat liberty image velvet hair found nominee sauce want window";
+var mnemonic = "gas giggle spider blossom exile pause artefact demise prison input wine nasty";

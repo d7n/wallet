@@ -1,1 +1,1 @@
-var mnemonic = "indoor thought soldier north matrix path market secret patch blue ecology alcohol";
+var mnemonic = "heart nerve couple cabin island person foster can copy daring slot fuel";

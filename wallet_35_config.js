@@ -1,1 +1,1 @@
-var mnemonic = "onion system jaguar frequent obvious click used copper true program insane flee";
+var mnemonic = "rate cross slow stamp pizza bundle resist harbor midnight drum catalog trash";

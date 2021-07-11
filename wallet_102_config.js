@@ -1,1 +1,1 @@
-var mnemonic = "found skill obscure teach chimney smile raw vehicle rent gauge charge essence";
+var mnemonic = "series charge vendor loyal napkin cake travel clay motion scorpion sting agree";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict two about place elite poet pride rule lion april build sure";
+var mnemonic = "spot scorpion dumb gallery cherry execute sleep glimpse misery nasty thunder crime";

@@ -1,1 +1,1 @@
-var mnemonic = "fun robot chaos away matter actor chef sun bind toe flavor what";
+var mnemonic = "extra audit screen govern lunch come bicycle employ fatal arm account muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "wife grape clog bulb leader leg forget gentle tortoise random vicious flower";
+var mnemonic = "beach thrive magnet fence crazy miss abuse august city enable dilemma guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "debate over luxury ecology ranch length subway picture lottery owner exhaust garden";
+var mnemonic = "flush protect pulp grocery sun verb culture someone inside win pizza speed";

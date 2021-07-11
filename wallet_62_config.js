@@ -1,1 +1,1 @@
-var mnemonic = "timber car volcano deal share cat damp repeat promote game rebuild crunch";
+var mnemonic = "tissue air fade quality shuffle rose deposit news front agree genius play";

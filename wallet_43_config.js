@@ -1,1 +1,1 @@
-var mnemonic = "traffic detect verify very current cousin vocal innocent typical supply style concert";
+var mnemonic = "fashion artefact junior network forward squeeze scout pet barrel layer giggle spice";

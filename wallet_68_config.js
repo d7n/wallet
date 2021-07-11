@@ -1,1 +1,1 @@
-var mnemonic = "leisure work odor betray sentence peanut grape tiger snake victory method walnut";
+var mnemonic = "hybrid burden bright tree sting home model cycle zoo stamp narrow clay";

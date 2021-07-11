@@ -1,1 +1,1 @@
-var mnemonic = "soup thought slender cruel curtain amateur borrow example two praise champion panel";
+var mnemonic = "task soon remind whale oil cost rabbit ticket chuckle lucky stand ribbon";

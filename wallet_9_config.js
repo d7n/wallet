@@ -1,1 +1,1 @@
-var mnemonic = "pizza talk turkey fantasy casino include dynamic guitar wave purse route bind";
+var mnemonic = "rate ship quit column crime liar situate scrap lock police run blood";

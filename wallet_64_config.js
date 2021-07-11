@@ -1,1 +1,1 @@
-var mnemonic = "husband hour blouse ghost hole rug table obscure balance proof impact yard";
+var mnemonic = "absorb entry patient domain daring ribbon access rally super then shove fragile";

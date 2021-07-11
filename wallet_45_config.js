@@ -1,1 +1,1 @@
-var mnemonic = "barely cotton such soon joy panda kingdom hurt stay shuffle theory twin";
+var mnemonic = "sketch cable decorate brief bundle sea image bless mosquito fire people spy";

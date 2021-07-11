@@ -1,1 +1,1 @@
-var mnemonic = "quarter delay beach kingdom already author across acoustic crew traffic shrug tooth";
+var mnemonic = "uniform strike hurry typical maid height carbon offer spell spice trial success";

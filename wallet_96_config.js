@@ -1,1 +1,1 @@
-var mnemonic = "fabric brown capable seat boy expose please replace monkey mad sustain deal";
+var mnemonic = "old bubble wash twenty inch around torch scorpion elder final bid reflect";

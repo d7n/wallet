@@ -1,1 +1,1 @@
-var mnemonic = "stove thumb logic advance move grief creek cube game auction ensure matter";
+var mnemonic = "normal assist sibling resist venture year wet ahead chaos ensure health attend";

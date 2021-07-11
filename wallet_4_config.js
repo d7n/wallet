@@ -1,1 +1,1 @@
-var mnemonic = "dolphin address skin tourist ticket notice comfort dove clip pretty shove trigger";
+var mnemonic = "discover issue soup will still same focus vacuum cactus curious tree engine";

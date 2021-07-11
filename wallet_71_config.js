@@ -1,1 +1,1 @@
-var mnemonic = "profit audit other upgrade game hard avocado pattern game fiscal monster thumb";
+var mnemonic = "save affair eagle bid goat owner ethics shoot shiver kitchen inquiry front";

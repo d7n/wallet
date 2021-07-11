@@ -1,1 +1,1 @@
-var mnemonic = "meadow glove harsh decide accuse bar must beauty view perfect record transfer";
+var mnemonic = "acid disorder also rely flee festival embody join axis tuna prosper caution";

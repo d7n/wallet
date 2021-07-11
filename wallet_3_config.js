@@ -1,1 +1,1 @@
-var mnemonic = "cram concert live vast ancient exile buyer inquiry casino voyage nephew lady";
+var mnemonic = "onion situate eight cup fragile choose faculty summer later edit opera vocal";

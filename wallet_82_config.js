@@ -1,1 +1,1 @@
-var mnemonic = "orange sad episode power mobile wise stable real pave draft broccoli crazy";
+var mnemonic = "neglect yard amateur change case push call sniff erupt naive crime possible";

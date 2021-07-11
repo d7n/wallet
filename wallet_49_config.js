@@ -1,1 +1,1 @@
-var mnemonic = "tail put shy board much vessel grocery pupil glimpse metal image renew";
+var mnemonic = "vehicle salute crazy coin reason penalty crawl text hungry food since attend";

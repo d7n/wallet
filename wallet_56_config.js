@@ -1,1 +1,1 @@
-var mnemonic = "two earn dirt final toy magnet awake deal oak where arrive sustain";
+var mnemonic = "swim vicious when never enable thank monitor possible unique icon pair session";

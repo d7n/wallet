@@ -1,1 +1,1 @@
-var mnemonic = "main short accuse valid awkward caution country crunch proof believe crack grace";
+var mnemonic = "hello resemble future innocent return hidden light farm area eyebrow toward fever";

@@ -1,1 +1,1 @@
-var mnemonic = "garment display spend tiger already nasty ancient forget wealth fun problem certain";
+var mnemonic = "used pen glare limb sick illegal boil vicious owner setup goose beach";

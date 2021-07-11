@@ -1,1 +1,1 @@
-var mnemonic = "maximum skirt decade slim raccoon tonight family rare fruit luggage jacket forward";
+var mnemonic = "oak iron surprise lazy despair hedgehog awful car salmon glove replace price";

@@ -1,1 +1,1 @@
-var mnemonic = "dice runway board envelope stand invest column analyst victory fluid misery hover";
+var mnemonic = "artwork tower lunch help absurd hat behind fame describe useful accident scene";

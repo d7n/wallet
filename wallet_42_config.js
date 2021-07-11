@@ -1,1 +1,1 @@
-var mnemonic = "nice funny kite van economy slim occur belt horn theory bottom random";
+var mnemonic = "final scrub vast useful divide build call sort grape north prize soap";

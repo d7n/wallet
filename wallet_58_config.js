@@ -1,1 +1,1 @@
-var mnemonic = "you choice aspect runway total similar copper scatter pizza crazy patient level";
+var mnemonic = "gun solution magic economy spatial beef solution cup unfold smart vote card";

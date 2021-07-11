@@ -1,1 +1,1 @@
-var mnemonic = "expand river elegant average gorilla witness dish salon effort awful blur brown";
+var mnemonic = "change body pluck dolphin tuna mix code inside legal aspect bless loud";

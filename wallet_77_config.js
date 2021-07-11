@@ -1,1 +1,1 @@
-var mnemonic = "step season crucial solve husband speed renew beef stomach joy clog void";
+var mnemonic = "boat imitate cover boil target issue become warm reopen oxygen finish poet";

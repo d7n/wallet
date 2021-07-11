@@ -1,1 +1,1 @@
-var mnemonic = "sword act absent supply become cause envelope museum zebra wild idle way";
+var mnemonic = "paper unknown parent chuckle ring era drastic denial electric nature artwork trust";

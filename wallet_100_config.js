@@ -1,1 +1,1 @@
-var mnemonic = "security genius struggle odor upset egg cabin egg region put misery current";
+var mnemonic = "opinion industry refuse frown sorry brief garment boost arena phone month clever";

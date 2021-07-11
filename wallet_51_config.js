@@ -1,1 +1,1 @@
-var mnemonic = "match table gallery option eye neither spoon bamboo torch wealth defense culture";
+var mnemonic = "twenty thrive student marriage raccoon pen lazy match buffalo urban pill math";

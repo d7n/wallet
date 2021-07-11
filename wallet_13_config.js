@@ -1,1 +1,1 @@
-var mnemonic = "help license always acoustic news pumpkin crumble elegant visual ball curious still";
+var mnemonic = "blind endorse equal corn sense fetch expand leaf syrup hedgehog crunch tag";

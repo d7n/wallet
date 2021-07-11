@@ -1,1 +1,1 @@
-var mnemonic = "peanut crazy swarm midnight inform figure organ pattern become march father brother";
+var mnemonic = "zone great chronic liar eternal blanket observe token permit eight expect core";

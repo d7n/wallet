@@ -1,1 +1,1 @@
-var mnemonic = "still holiday fury draft elephant frozen cheese slush noble barely tank knee";
+var mnemonic = "order boss diamond car dolphin print canvas frame theme motor mule dust";

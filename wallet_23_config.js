@@ -1,1 +1,1 @@
-var mnemonic = "cause level tooth alpha engage eye smooth idle child economy grant fiction";
+var mnemonic = "marriage survey denial impact april topic recall hawk win goose aunt echo";

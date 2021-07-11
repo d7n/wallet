@@ -1,1 +1,1 @@
-var mnemonic = "film shrimp extra profit legend easy motor midnight discover scale carpet discover";
+var mnemonic = "try fiction adjust cinnamon you people emerge wreck weird fluid debate sail";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket large stove umbrella fan carbon pool exhaust tail wall memory bunker";
+var mnemonic = "have honey aerobic figure lunar force veteran common swarm unlock yellow suspect";

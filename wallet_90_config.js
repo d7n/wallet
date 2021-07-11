@@ -1,1 +1,1 @@
-var mnemonic = "flag live famous pumpkin cause fold era govern already prepare suit oven";
+var mnemonic = "wait gift correct cheap ranch broken absent reflect essay nurse limit appear";

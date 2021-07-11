@@ -1,1 +1,1 @@
-var mnemonic = "afraid vapor guide disorder vacuum color tourist attract tooth ticket fatal identify";
+var mnemonic = "angle glow shop cute story oblige grid fox box earth shrug tourist";

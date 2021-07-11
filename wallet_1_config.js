@@ -1,1 +1,1 @@
-var mnemonic = "circle gun soup output thrive social measure void focus gloom cigar leaf";
+var mnemonic = "furnace minimum fabric energy again prefer just recycle view goddess donkey dress";

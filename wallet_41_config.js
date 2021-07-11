@@ -1,1 +1,1 @@
-var mnemonic = "approve window very ice slim palace chair cargo scrub scene unusual gloom";
+var mnemonic = "brisk perfect black vintage pave color armed moral ship muffin wood basic";

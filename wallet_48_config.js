@@ -1,1 +1,1 @@
-var mnemonic = "start daughter tortoise involve naive clerk ocean spell example youth image clock";
+var mnemonic = "deliver forget purchase maze slim salt sweet pear medal play unit nuclear";

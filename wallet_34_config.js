@@ -1,1 +1,1 @@
-var mnemonic = "tennis accident fame leopard broken castle giraffe arm task load globe because";
+var mnemonic = "solve hammer coast slot shuffle leave either cabbage champion inspire safe shoulder";

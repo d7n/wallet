@@ -1,1 +1,1 @@
-var mnemonic = "toe surprise promote battle reject subway ship include joke best deputy rebuild";
+var mnemonic = "gym supply breeze moon comic between egg disease feed risk kiwi guard";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant surface frog denial media jealous arena twenty surface sell cram deny";
+var mnemonic = "canal skull robot orphan west fabric sun convince energy priority still include";

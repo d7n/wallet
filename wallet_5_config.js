@@ -1,1 +1,1 @@
-var mnemonic = "verify witness favorite garage solution coast memory heavy shrimp trial knife fiber";
+var mnemonic = "obscure couch risk home nurse month fortune fence inherit boss treat lucky";

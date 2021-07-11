@@ -1,1 +1,1 @@
-var mnemonic = "wink orient achieve nest curtain gold source armor young patrol unknown stairs";
+var mnemonic = "mix observe expire theory lawn athlete harvest pledge explain wing bread bar";

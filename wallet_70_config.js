@@ -1,1 +1,1 @@
-var mnemonic = "grape release smoke thought similar sausage mention cat rug pact fringe team";
+var mnemonic = "night sword loop sketch risk advance manual prepare industry card cool hint";

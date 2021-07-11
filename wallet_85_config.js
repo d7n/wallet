@@ -1,1 +1,1 @@
-var mnemonic = "print sample gate evidence heavy pyramid film cat village glance brand parrot";
+var mnemonic = "divert buzz push range shoulder thing pet oval run legend brand title";

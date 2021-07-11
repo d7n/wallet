@@ -1,1 +1,1 @@
-var mnemonic = "begin bread decade smoke scorpion sister hire educate garage example wisdom crazy";
+var mnemonic = "reopen traffic bird delay toast lock success list spider soda grab champion";

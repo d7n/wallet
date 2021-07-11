@@ -1,1 +1,1 @@
-var mnemonic = "margin lazy divide improve ocean fancy edit fan page gospel rail stock";
+var mnemonic = "junior derive east busy empower immune cupboard hood practice velvet document require";

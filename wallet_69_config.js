@@ -1,1 +1,1 @@
-var mnemonic = "update thunder news assault cannon group topic uncover item boil over talent";
+var mnemonic = "leader mystery year obey install velvet huge denial visa sketch muffin soldier";

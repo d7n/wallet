@@ -1,1 +1,1 @@
-var mnemonic = "decrease gap glance drive album bronze position anger meadow soon salon anxiety";
+var mnemonic = "crew green enter resist increase offer leopard bacon long glove ivory pact";

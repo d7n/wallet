@@ -1,1 +1,1 @@
-var mnemonic = "please amount noise upset best industry tired chicken blouse double mention hair";
+var mnemonic = "can never fever arctic cloth inner betray race buzz boss poverty exchange";

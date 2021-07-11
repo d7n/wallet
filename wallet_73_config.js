@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit nut weather cannon afford oval knock correct suggest meadow wine unfair";
+var mnemonic = "riot very there into rich benefit tube remain onion fire resist toilet";

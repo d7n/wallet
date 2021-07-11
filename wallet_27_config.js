@@ -1,1 +1,1 @@
-var mnemonic = "gauge that conduct crew gadget change coast depth census noble cotton record";
+var mnemonic = "suit cluster pool organ stomach divert primary tonight cinnamon noodle share margin";

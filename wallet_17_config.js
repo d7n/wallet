@@ -1,1 +1,1 @@
-var mnemonic = "daughter kingdom long exhaust witness certain verb gain mouse vibrant slush elevator";
+var mnemonic = "human cloth police mushroom crazy bubble spin foil asthma wide body village";

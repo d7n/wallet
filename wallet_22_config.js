@@ -1,1 +1,1 @@
-var mnemonic = "naive check clip diagram anchor tomato rely call jeans give wheel enlist";
+var mnemonic = "vocal banner peanut liberty street easily lady arrest text trumpet boat spy";

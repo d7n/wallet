@@ -1,1 +1,1 @@
-var mnemonic = "unfair absent soft oyster snake anger ring tooth category such acoustic cattle";
+var mnemonic = "tennis fossil doctor exit planet business slender dress swear one play hockey";

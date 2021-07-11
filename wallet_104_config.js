@@ -1,1 +1,1 @@
-var mnemonic = "error utility gift fragile member desk gate leisure knock crush snow pause";
+var mnemonic = "acoustic double citizen fade resemble used pull fault stand unique timber athlete";

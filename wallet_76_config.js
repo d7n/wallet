@@ -1,1 +1,1 @@
-var mnemonic = "boat egg seat seed add awkward castle train actor battle athlete unveil";
+var mnemonic = "bird doctor ensure describe secret over chat switch sustain gap scorpion forest";

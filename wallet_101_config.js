@@ -1,1 +1,1 @@
-var mnemonic = "romance page kitchen intact knock garlic effort silly essence wide ozone company";
+var mnemonic = "iron lesson flush put tool awesome void theory rice replace letter side";

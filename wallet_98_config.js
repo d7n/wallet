@@ -1,1 +1,1 @@
-var mnemonic = "spoon crystal home arrow say royal virus chaos grab region must bargain";
+var mnemonic = "february ripple flower off model toast able chicken diamond sock pelican nation";

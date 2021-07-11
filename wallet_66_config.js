@@ -1,1 +1,1 @@
-var mnemonic = "punch credit sun curious alone sudden acoustic similar toast isolate giant upper";
+var mnemonic = "warfare forest lounge iron twelve swim sing state lounge fix divert return";

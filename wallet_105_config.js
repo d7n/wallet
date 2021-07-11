@@ -1,1 +1,1 @@
-var mnemonic = "imitate crew glimpse call drastic trial sister zoo remove ritual bicycle custom";
+var mnemonic = "armor lawsuit voyage shoot reason quarter spell super offer wrap veteran barely";

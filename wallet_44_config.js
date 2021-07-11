@@ -1,1 +1,1 @@
-var mnemonic = "sunny shed treat inside craft muscle blur tourist ring valid pass subway";
+var mnemonic = "hat master replace second stairs client ahead fiscal permit fringe world pluck";

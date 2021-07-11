@@ -1,1 +1,1 @@
-var mnemonic = "garbage little congress ladder drastic hotel obvious lens often wood install seek";
+var mnemonic = "citizen collect circle topple heart trim cause split cradle spike soccer car";

@@ -1,1 +1,1 @@
-var mnemonic = "wash mammal pepper garlic radar vacuum shift spare tool license cute february";
+var mnemonic = "reflect crucial load engage addict wheat wedding arm love labor type rough";

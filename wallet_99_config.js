@@ -1,1 +1,1 @@
-var mnemonic = "segment ten portion loop quote mass sort skate clip chapter guess evil";
+var mnemonic = "dog neutral street engage deposit real cause recipe brick notice tomato brush";

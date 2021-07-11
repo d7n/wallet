@@ -1,1 +1,1 @@
-var mnemonic = "ability tongue always very diagram blue boring other stick angry humble car";
+var mnemonic = "sun custom awkward security can van erosion wear express now gown salute";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit scorpion rapid stove solid solution mechanic post always sign cream shiver";
+var mnemonic = "lucky gym enhance window accuse position language catalog clap exhibit design moon";

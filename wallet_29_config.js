@@ -1,1 +1,1 @@
-var mnemonic = "kingdom account rack decide mean mixture kid glimpse victory rough bless reflect";
+var mnemonic = "property raven snack lobster job require room hawk betray river connect drama";

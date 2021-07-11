@@ -1,1 +1,1 @@
-var mnemonic = "feel tiger giant season gauge team check later cancel law such amount";
+var mnemonic = "album unfair mouse hope mirror various enact gain fall public wild stage";

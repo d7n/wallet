@@ -1,1 +1,1 @@
-var mnemonic = "upon stomach normal eight extend film movie debris topic next husband have";
+var mnemonic = "congress cherry unfold pride nothing elevator earn vast panther hockey problem crucial";

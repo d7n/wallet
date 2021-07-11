@@ -1,1 +1,1 @@
-var mnemonic = "flip act unfold fiscal sock small smoke sketch require domain rely entire";
+var mnemonic = "scout arena color rack elder strike property secret burden hidden october exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist inside cherry cupboard blade swamp orbit onion target song basic rate";
+var mnemonic = "flat fiction patient cloth story canal dose warrior wealth maid river clean";

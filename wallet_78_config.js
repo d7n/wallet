@@ -1,1 +1,1 @@
-var mnemonic = "silly humble pattern legend margin wave visa width rice machine negative target";
+var mnemonic = "viable trip cry bargain citizen during dash tackle rail festival glide disagree";

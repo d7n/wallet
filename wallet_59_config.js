@@ -1,1 +1,1 @@
-var mnemonic = "true awful item fringe belt rescue antenna area kangaroo teach pony trophy";
+var mnemonic = "afford length cook stone casual gravity online runway cactus deputy measure rough";

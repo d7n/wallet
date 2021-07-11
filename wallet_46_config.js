@@ -1,1 +1,1 @@
-var mnemonic = "vicious general leisure update denial drip lemon love gold promote letter obey";
+var mnemonic = "ozone neglect split relax cruel type real around base more diamond science";

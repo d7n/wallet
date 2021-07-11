@@ -1,1 +1,1 @@
-var mnemonic = "foot wagon gain burst ring casual peasant empower above film junk desk";
+var mnemonic = "skate pigeon heavy audit army promote predict clock cup skate chaos general";

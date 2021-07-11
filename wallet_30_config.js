@@ -1,1 +1,1 @@
-var mnemonic = "express void fish record trip treat river foam peanut level fantasy riot";
+var mnemonic = "outdoor movie bean genuine cream chapter own alarm access wise dove popular";

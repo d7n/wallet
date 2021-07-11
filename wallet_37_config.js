@@ -1,1 +1,1 @@
-var mnemonic = "retreat control vague number strong egg gorilla sing mesh unaware stand submit";
+var mnemonic = "bargain soccer tuition subject minor that print alone stem glow fruit motor";

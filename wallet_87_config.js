@@ -1,1 +1,1 @@
-var mnemonic = "employ floor dune room friend turtle peanut food fossil select grunt mix";
+var mnemonic = "common deliver hidden clog alert soap hunt turkey all cruise good crew";

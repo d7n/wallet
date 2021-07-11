@@ -1,1 +1,1 @@
-var mnemonic = "tennis develop awake alpha lonely glare size diesel cost valve pitch wealth";
+var mnemonic = "broken universe decade group mixture outdoor swim achieve solid since bright style";

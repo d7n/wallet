@@ -1,1 +1,1 @@
-var mnemonic = "label nominee sentence logic repeat exact fine duck city antenna penalty net";
+var mnemonic = "pause result retire same normal curious party shallow diary history mansion ignore";
