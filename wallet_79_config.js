@@ -1,1 +1,1 @@
-var mnemonic = "primary prosper round coin cactus six frame clean sense leisure later used";
+var mnemonic = "brief witness woman divide whip spirit any force type trade educate sentence";

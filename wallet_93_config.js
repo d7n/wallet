@@ -1,1 +1,1 @@
-var mnemonic = "guilt clarify denial solution science nasty hire reject fury muffin spin demand";
+var mnemonic = "park riot always unlock trophy limb tribe soon chase recipe device essence";

@@ -1,1 +1,1 @@
-var mnemonic = "woman category volume gossip female advance crisp insane divorce daughter adult mouse";
+var mnemonic = "awesome excess repeat help develop invite swift tail club enter more squeeze";

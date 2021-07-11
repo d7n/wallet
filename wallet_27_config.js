@@ -1,1 +1,1 @@
-var mnemonic = "step save tilt piece ask barrel pledge twelve leg response pledge icon";
+var mnemonic = "alarm someone trend neutral isolate immense excite idle satisfy beauty dust husband";

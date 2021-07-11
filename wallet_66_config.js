@@ -1,1 +1,1 @@
-var mnemonic = "relax grid cube early actual assist random lounge annual oyster ready alien";
+var mnemonic = "language flavor boat pave potato rail aspect lab toy tired scrub bubble";

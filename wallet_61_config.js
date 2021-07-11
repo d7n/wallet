@@ -1,1 +1,1 @@
-var mnemonic = "erosion legal dial wrestle thrive betray bounce distance burger crystal gaze math";
+var mnemonic = "note mass item royal high final runway advance day swap other drill";

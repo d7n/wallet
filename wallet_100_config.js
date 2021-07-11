@@ -1,1 +1,1 @@
-var mnemonic = "shrimp weapon deliver juice paper team wheel tray unique champion toward update";
+var mnemonic = "inquiry more maximum add three oak bomb result ship horror leg tonight";

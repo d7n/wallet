@@ -1,1 +1,1 @@
-var mnemonic = "useful involve south fault copper kidney wash october broom valid injury agree";
+var mnemonic = "equal assist frost reflect empower laugh horn laundry soul crash skull dry";

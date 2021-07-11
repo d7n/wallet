@@ -1,1 +1,1 @@
-var mnemonic = "occur witness foil ostrich deal cave dilemma skate apology shrimp celery own";
+var mnemonic = "tiny balcony unhappy review job loan zoo phrase oval section soft convince";

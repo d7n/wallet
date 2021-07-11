@@ -1,1 +1,1 @@
-var mnemonic = "style ten minute trend hungry ghost silly alert devote sense document certain";
+var mnemonic = "umbrella square much dwarf saddle secret gown soft useless hour spend range";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly patch skin lawn picnic blade copy isolate ahead rent frozen crush";
+var mnemonic = "civil flat amazing intact drill dial exhaust favorite aunt voice shift lesson";

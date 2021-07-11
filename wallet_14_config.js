@@ -1,1 +1,1 @@
-var mnemonic = "amazing please garage canoe jacket figure damage spike purse vocal verify ketchup";
+var mnemonic = "jacket finish once notable foil hospital deal kid nature quote point february";

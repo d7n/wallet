@@ -1,1 +1,1 @@
-var mnemonic = "nice course tired demand chuckle social exhibit broken screen better open pupil";
+var mnemonic = "angle page year champion trap fresh success minimum either rigid rent term";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp parent hub own cargo achieve cup purchase base shock piece ritual";
+var mnemonic = "scorpion pupil someone merry dice annual shock protect seat venture tennis notice";

@@ -1,1 +1,1 @@
-var mnemonic = "limit velvet board trophy absorb member mean sunny shrug arch sudden discover";
+var mnemonic = "access trim pool pair unique frozen steel divorce shift insect method ancient";

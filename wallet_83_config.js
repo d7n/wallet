@@ -1,1 +1,1 @@
-var mnemonic = "drum gown young shadow account teach comfort story dilemma play post woman";
+var mnemonic = "immune mass sport crane stove ask cabin paper critic two solid squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "decide solve blast audit poem strategy stable dress crucial asset valve make";
+var mnemonic = "harbor save blue palm side green mercy mutual tent balcony define install";

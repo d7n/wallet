@@ -1,1 +1,1 @@
-var mnemonic = "glimpse slice destroy then heavy face nose ordinary mail wrong property yellow";
+var mnemonic = "switch veteran alley lady exclude attack edit relief wrist month marriage net";

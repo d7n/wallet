@@ -1,1 +1,1 @@
-var mnemonic = "involve demise canoe knife future grow reduce cook army inject picnic rival";
+var mnemonic = "animal divide primary glad witness love second twice caught opera fringe social";

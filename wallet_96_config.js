@@ -1,1 +1,1 @@
-var mnemonic = "secret kangaroo mountain galaxy fatigue junk chaos around resemble plastic govern eternal";
+var mnemonic = "unhappy grit baby allow coral devote tackle receive junior toilet decorate twist";

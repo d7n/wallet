@@ -1,1 +1,1 @@
-var mnemonic = "idea wink furnace kite that attract comic skin tool brush flower super";
+var mnemonic = "extend soda awful armor safe pioneer firm tattoo attend grass chief woman";

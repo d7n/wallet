@@ -1,1 +1,1 @@
-var mnemonic = "duty expect trial shell baby crush mask net six tennis casino dove";
+var mnemonic = "forest interest purity private box depend goddess three seek lonely emotion grace";

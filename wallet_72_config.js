@@ -1,1 +1,1 @@
-var mnemonic = "trouble force cactus idea safe balance trick solar dust casino good cute";
+var mnemonic = "market sand airport neglect suffer travel scrap original ask throw unit draw";

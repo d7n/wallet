@@ -1,1 +1,1 @@
-var mnemonic = "ahead promote system trust field dose gap lazy edge dismiss list onion";
+var mnemonic = "piece myth film assume blame claim morning banana swim base math stamp";

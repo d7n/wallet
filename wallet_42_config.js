@@ -1,1 +1,1 @@
-var mnemonic = "country almost ocean robot lounge wife volcano tortoise bridge poem taxi ladder";
+var mnemonic = "crop help knife rocket forget observe over two evolve away black foster";

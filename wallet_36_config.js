@@ -1,1 +1,1 @@
-var mnemonic = "shove cry strong blue program hedgehog treat guitar pistol burden sauce twice";
+var mnemonic = "unveil scrub trust occur tape scrub faint sketch play express roast spend";

@@ -1,1 +1,1 @@
-var mnemonic = "need list sausage fold ahead mountain quote enhance obvious cousin health coin";
+var mnemonic = "notice salt pass horse cereal gym sphere banner bargain output destroy chaos";

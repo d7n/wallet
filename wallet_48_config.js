@@ -1,1 +1,1 @@
-var mnemonic = "spray rack cute trick weird hockey obtain music trim empty wealth later";
+var mnemonic = "venture treat bone any network razor carpet add erupt giant glimpse tonight";

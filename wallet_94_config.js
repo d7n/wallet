@@ -1,1 +1,1 @@
-var mnemonic = "myth cheese garment void immune lift like rate sea pistol question try";
+var mnemonic = "bottom solve protect congress stay advance glow awesome angry mix journey aware";

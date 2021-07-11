@@ -1,1 +1,1 @@
-var mnemonic = "choose steak sun pink shaft truck praise hover casino grow deer payment";
+var mnemonic = "large until win jaguar rib crucial engine stone stamp bone long sport";

@@ -1,1 +1,1 @@
-var mnemonic = "gold bacon favorite click fox puzzle ready arch tool wood life mandate";
+var mnemonic = "ethics siege magnet insane attitude tumble gold absorb bar soccer identify tag";

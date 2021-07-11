@@ -1,1 +1,1 @@
-var mnemonic = "amused stairs casual treat fish angle skull comic render board balcony lesson";
+var mnemonic = "away marriage knee hat cereal embrace forest pretty shine sun floor clump";

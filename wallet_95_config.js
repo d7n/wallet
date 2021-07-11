@@ -1,1 +1,1 @@
-var mnemonic = "salute sweet what focus child unhappy decide cradle dial fragile alcohol crime";
+var mnemonic = "render clutch session eagle intact weekend lyrics noise artist farm sting enter";

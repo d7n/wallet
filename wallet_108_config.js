@@ -1,1 +1,1 @@
-var mnemonic = "govern skirt apology asthma comfort result enhance helmet custom book deny festival";
+var mnemonic = "huge lesson unfair spice mountain shrug put glance legend chimney edge devote";

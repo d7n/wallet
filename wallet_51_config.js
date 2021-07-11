@@ -1,1 +1,1 @@
-var mnemonic = "connect anchor over surge govern turn excess finish core omit peanut stomach";
+var mnemonic = "exhibit wolf junior snack east high tank practice float pet maid grief";

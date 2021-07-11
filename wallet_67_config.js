@@ -1,1 +1,1 @@
-var mnemonic = "wing frame moon notable style purity bag north dumb damage season siege";
+var mnemonic = "cement hollow profit grocery next keen cram hint certain claw fabric unaware";

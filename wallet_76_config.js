@@ -1,1 +1,1 @@
-var mnemonic = "innocent modify buyer all ignore tiny host limb sunny grab record salute";
+var mnemonic = "scale capital kingdom evoke ridge total talent merry push gun chalk one";

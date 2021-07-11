@@ -1,1 +1,1 @@
-var mnemonic = "approve battle fancy ability dwarf tomorrow violin faint awesome school lunar already";
+var mnemonic = "boss derive divide spread mansion speed vanish season weekend shaft tube kite";

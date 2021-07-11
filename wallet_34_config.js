@@ -1,1 +1,1 @@
-var mnemonic = "water zebra eager check frown pride tackle ill high omit learn test";
+var mnemonic = "napkin convince begin project upgrade pyramid lend evolve parade injury swarm little";

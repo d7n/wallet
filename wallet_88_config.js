@@ -1,1 +1,1 @@
-var mnemonic = "method lake source cage shock action divert fiction slogan shove alarm ankle";
+var mnemonic = "rib path fragile misery picnic release speed entire curtain obscure dune worth";

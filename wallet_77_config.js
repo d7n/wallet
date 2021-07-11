@@ -1,1 +1,1 @@
-var mnemonic = "envelope cook weekend utility today dignity ethics always shaft oxygen sheriff found";
+var mnemonic = "banner valley they whisper slow parade vague man demise exit relax guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "hour into venue lion oak require wealth verb change swim rally wheat";
+var mnemonic = "cinnamon consider own animal flag floor almost figure hollow happy sweet small";

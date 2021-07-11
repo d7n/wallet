@@ -1,1 +1,1 @@
-var mnemonic = "uncle okay tank twin extra guess critic ribbon mosquito joke rich enforce";
+var mnemonic = "interest episode exit inflict slow fault finish clerk siren state dilemma quiz";

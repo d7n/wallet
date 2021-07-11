@@ -1,1 +1,1 @@
-var mnemonic = "guard crawl shell praise thumb bless gentle next draft alcohol glide swarm";
+var mnemonic = "pole easy remove analyst social speed liar fever identify keen first grace";

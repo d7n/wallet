@@ -1,1 +1,1 @@
-var mnemonic = "order youth kitten welcome actor decade reunion rude aspect blue clean sheriff";
+var mnemonic = "twelve absorb increase almost prize rare solid bless weasel autumn width case";

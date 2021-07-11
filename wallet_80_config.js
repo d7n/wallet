@@ -1,1 +1,1 @@
-var mnemonic = "mobile minute portion shed miss bounce couple hover sleep hire cloud audit";
+var mnemonic = "quick light dilemma bonus gather awful theory consider draw hammer space warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "copper market discover clown amused ritual execute strategy reason myself depth trash";
+var mnemonic = "potato enact kiwi clump tilt square speak leave pact blossom banana erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "way zoo pulse tooth tiger envelope crowd coil skin sight black pyramid";
+var mnemonic = "habit advice opinion image dish rocket first lucky ice proof spare swap";

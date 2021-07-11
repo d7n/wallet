@@ -1,1 +1,1 @@
-var mnemonic = "effort party admit cat dolphin system enter reduce open blouse open bachelor";
+var mnemonic = "immense shop vague basic buddy miracle still entire oak source soup middle";

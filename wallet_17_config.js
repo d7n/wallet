@@ -1,1 +1,1 @@
-var mnemonic = "mimic plunge beef custom awesome amused emotion front race series anchor receive";
+var mnemonic = "usage iron expand glide agree action soup dirt critic mask simple country";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle have afford music nominee tower comfort crop unveil park image panther";
+var mnemonic = "result announce extra six squirrel together hip coach expand reflect transfer select";

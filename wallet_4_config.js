@@ -1,1 +1,1 @@
-var mnemonic = "swap nation soup scorpion orchard camp hurry bag reward kingdom radio goddess";
+var mnemonic = "account valid soft enough affair hat mutual outer poet athlete team lawsuit";

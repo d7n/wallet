@@ -1,1 +1,1 @@
-var mnemonic = "cigar grant future recycle cover brisk crew select spoon fantasy enlist useful";
+var mnemonic = "pottery hurt critic music pluck hero ghost balcony subway audit adapt work";

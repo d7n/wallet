@@ -1,1 +1,1 @@
-var mnemonic = "parrot sport since cupboard hold dove loyal list now hat acid party";
+var mnemonic = "tiger adult vault swing fresh already twenty medal consider recycle trend slow";

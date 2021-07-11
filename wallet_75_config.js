@@ -1,1 +1,1 @@
-var mnemonic = "valid still patrol hard emerge learn sorry negative puzzle hazard arrange guilt";
+var mnemonic = "better open patrol stuff alarm aunt salon motion regular stock canyon pull";

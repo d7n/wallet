@@ -1,1 +1,1 @@
-var mnemonic = "absent crowd mushroom swarm version exist enlist silver honey census control sing";
+var mnemonic = "exist fashion leave okay arena naive brand hawk fish return weasel plunge";

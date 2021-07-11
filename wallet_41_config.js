@@ -1,1 +1,1 @@
-var mnemonic = "frown wire scout affair actress scrap ordinary describe today behave honey relax";
+var mnemonic = "march girl merit survey assault educate ribbon country error advice option opera";

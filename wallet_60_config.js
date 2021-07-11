@@ -1,1 +1,1 @@
-var mnemonic = "will dilemma swallow penalty horn cute cause shield tomato find talk hole";
+var mnemonic = "obvious test task inquiry ignore material company census must stamp shoe actor";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo head gap unit maple oval audit obtain runway fruit tenant until";
+var mnemonic = "swarm ankle second cruise confirm dial neglect north mail fantasy bar settle";

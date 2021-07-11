@@ -1,1 +1,1 @@
-var mnemonic = "effort park talk attend dinosaur hockey glance scale race weapon use flip";
+var mnemonic = "ahead obvious shed tourist human original harsh squirrel quantum obey inhale swift";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel piano canal begin dragon ticket goddess december tent increase panther armor";
+var mnemonic = "entire job junk unveil mesh clinic transfer hurt scheme spring vocal blame";

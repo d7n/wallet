@@ -1,1 +1,1 @@
-var mnemonic = "shock party little penalty smoke middle phone blue eagle charge width learn";
+var mnemonic = "portion voice fringe control example barrel stairs index jungle nephew husband like";

@@ -1,1 +1,1 @@
-var mnemonic = "noble rebuild undo evidence stuff pelican rocket meat flight style fortune roof";
+var mnemonic = "annual social gravity tube cross amused lift merry minor length sudden enable";

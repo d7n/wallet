@@ -1,1 +1,1 @@
-var mnemonic = "eager annual alpha virus ceiling deer hotel busy prosper track receive lawsuit";
+var mnemonic = "number amateur dwarf cycle clap danger tornado slide alien light output stool";

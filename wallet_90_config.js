@@ -1,1 +1,1 @@
-var mnemonic = "element sketch spike garbage all blade wear weather derive annual merry system";
+var mnemonic = "space useful agent provide common slogan once eternal torch island original baby";

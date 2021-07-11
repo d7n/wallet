@@ -1,1 +1,1 @@
-var mnemonic = "inherit weasel broccoli matter jacket pill hedgehog basket yard tray scene motor";
+var mnemonic = "sweet labor resemble cry wall fence over list shove first soap collect";

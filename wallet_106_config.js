@@ -1,1 +1,1 @@
-var mnemonic = "satisfy chest before stamp tortoise blanket coral broken useless room lazy lazy";
+var mnemonic = "vast secret brain box endorse useless dignity palace ride ice thunder blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "industry piece alter mosquito quote coffee budget reunion whisper october spatial quick";
+var mnemonic = "ancient replace multiply gas kiss brown ancient avocado purchase talk because humble";

@@ -1,1 +1,1 @@
-var mnemonic = "please mimic pencil below skull slow nerve gadget harvest animal artist shine";
+var mnemonic = "truth sense march candy mixed proof tackle truly whale wrong camp board";

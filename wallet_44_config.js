@@ -1,1 +1,1 @@
-var mnemonic = "ozone main vapor drum cruel rain key lyrics hobby prize anxiety oak";
+var mnemonic = "economy exist barely bracket sibling tornado call swear idle include life vendor";

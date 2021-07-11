@@ -1,1 +1,1 @@
-var mnemonic = "diet ask alcohol mother awake safe neither open nose suit survey mail";
+var mnemonic = "powder core boat armor bag taste apart fetch kite super swim vague";

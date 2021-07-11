@@ -1,1 +1,1 @@
-var mnemonic = "used yard couple urge rely burger address novel cram pulse runway city";
+var mnemonic = "liquid sell unable grant simple buzz switch web gym tackle hour repeat";

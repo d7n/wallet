@@ -1,1 +1,1 @@
-var mnemonic = "magnet brief loyal company fish short bottom must client doll stem bridge";
+var mnemonic = "basket limb mixed give over cricket sadness laptop crouch long pair load";

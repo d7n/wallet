@@ -1,1 +1,1 @@
-var mnemonic = "quiz veteran biology avoid ceiling segment achieve harbor dignity bread voice zero";
+var mnemonic = "cream review door cry april robot leg reduce indoor much orange dilemma";

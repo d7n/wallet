@@ -1,1 +1,1 @@
-var mnemonic = "mesh artwork bus settle fade old concert arena code canvas need gym";
+var mnemonic = "feature kiss power leaf relief leopard hill enemy horse noise jar tonight";

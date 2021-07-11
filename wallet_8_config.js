@@ -1,1 +1,1 @@
-var mnemonic = "silk era slot become village boost promote air knee grain jacket physical";
+var mnemonic = "skin armed picnic brave gossip arrow bacon mass swing father camera bid";

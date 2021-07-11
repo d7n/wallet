@@ -1,1 +1,1 @@
-var mnemonic = "excuse mix drift depart coin output destroy math wait wasp comic zone";
+var mnemonic = "inform guess budget cool hollow virus scrub drink diary size survey midnight";

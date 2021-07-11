@@ -1,1 +1,1 @@
-var mnemonic = "render option thought term jungle mystery ticket together soccer student maximum protect";
+var mnemonic = "ranch scout midnight wrist cherry wood page arrange modify flight hawk goose";

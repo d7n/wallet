@@ -1,1 +1,1 @@
-var mnemonic = "saddle sting diet diet gym smart punch evil rose text enter saddle";
+var mnemonic = "clean fence link beauty island diamond say avoid van black canyon apple";

@@ -1,1 +1,1 @@
-var mnemonic = "slot exchange sell shed dance sand sell mom hamster famous blush deliver";
+var mnemonic = "click fever release dismiss pulse pet wrong age original eyebrow obey cancel";

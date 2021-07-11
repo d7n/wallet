@@ -1,1 +1,1 @@
-var mnemonic = "equal bullet people rely shoulder profit plunge current arrive replace two zoo";
+var mnemonic = "alter office gate buffalo nation act enforce twice wing tree intact wage";

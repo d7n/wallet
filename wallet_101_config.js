@@ -1,1 +1,1 @@
-var mnemonic = "bargain pyramid item note bargain weird dizzy snake myself lady number nasty";
+var mnemonic = "absorb acoustic crumble ahead bubble grant strike same tank huge boil ridge";

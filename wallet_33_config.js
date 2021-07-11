@@ -1,1 +1,1 @@
-var mnemonic = "success catch rib upset level keen tuition river room file faith debris";
+var mnemonic = "ski permit wedding race prepare small fabric check dentist crunch purity omit";

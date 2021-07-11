@@ -1,1 +1,1 @@
-var mnemonic = "silver guitar park plastic sail silver elite arrest wolf gas cable conduct";
+var mnemonic = "neglect strike notice muffin million involve flight become inform room valley pioneer";

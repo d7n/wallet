@@ -1,1 +1,1 @@
-var mnemonic = "dune child pluck divert antique shallow volume exist peasant cable wing daughter";
+var mnemonic = "upset round exotic beyond vague crumble tone dignity scrap myself body already";

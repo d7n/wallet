@@ -1,1 +1,1 @@
-var mnemonic = "industry express earth whip dance animal capital siren unknown catch noise verify";
+var mnemonic = "trophy stuff pepper fashion vibrant farm embody time off range oxygen siege";

@@ -1,1 +1,1 @@
-var mnemonic = "scale corn pencil image negative above brush valve wonder phone sister retire";
+var mnemonic = "settle paper inform improve ancient slogan fork cattle anchor forward rally quantum";

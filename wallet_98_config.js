@@ -1,1 +1,1 @@
-var mnemonic = "open ranch noodle math pull spend blue say waste margin quit announce";
+var mnemonic = "pole mirror awake cherry nation timber glad blue view correct avocado afraid";

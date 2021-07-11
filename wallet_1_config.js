@@ -1,1 +1,1 @@
-var mnemonic = "spike coin crew zoo repeat damage treat space increase level soccer always";
+var mnemonic = "nature swim area borrow other cheese caught gown field alter electric captain";
