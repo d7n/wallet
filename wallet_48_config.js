@@ -1,1 +1,1 @@
-var mnemonic = "ride drama autumn candy usage danger rich exchange ready include gasp work";
+var mnemonic = "income toe news drum swear key bird panic barrel kidney consider glove";

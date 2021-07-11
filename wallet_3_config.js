@@ -1,1 +1,1 @@
-var mnemonic = "gospel purchase emotion option smart coast rare tuition fatigue tiny display voyage";
+var mnemonic = "jar member mobile large rug siren rug desert carry rabbit evolve young";

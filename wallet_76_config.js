@@ -1,1 +1,1 @@
-var mnemonic = "morning success victory alter crane crawl catch ugly army need syrup husband";
+var mnemonic = "wool demise whisper initial twenty clean dish merge window marriage theory potato";

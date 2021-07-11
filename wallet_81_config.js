@@ -1,1 +1,1 @@
-var mnemonic = "accident vacant wrong strong strategy hole sibling market draft trophy vendor stay";
+var mnemonic = "write couple drip sibling glory once must enhance renew fresh seat yellow";

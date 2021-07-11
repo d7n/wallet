@@ -1,1 +1,1 @@
-var mnemonic = "draw fabric scrap outside script erase warrior wash tumble sponsor digital sugar";
+var mnemonic = "tent win dentist elder milk casual soul million honey south crouch there";

@@ -1,1 +1,1 @@
-var mnemonic = "begin tool fresh solar spin narrow quality leopard garment lift shove extend";
+var mnemonic = "gap filter essay deliver sudden problem carry car short injury other misery";

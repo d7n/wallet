@@ -1,1 +1,1 @@
-var mnemonic = "often such whip news rhythm naive carbon bulk hurt secret sister remind";
+var mnemonic = "buddy okay embrace frost ring excite time upper photo divert since noodle";

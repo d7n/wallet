@@ -1,1 +1,1 @@
-var mnemonic = "switch foam reject urban syrup deliver tank job nut tail search chief";
+var mnemonic = "strong broken paper lock wealth rug bounce transfer kiss picture news size";

@@ -1,1 +1,1 @@
-var mnemonic = "animal congress hundred embrace ranch leader recycle abandon zebra river year remove";
+var mnemonic = "nature bus radar option enable hen oil fortune media smooth novel parade";

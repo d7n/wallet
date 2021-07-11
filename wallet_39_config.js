@@ -1,1 +1,1 @@
-var mnemonic = "winter demise above fresh dash pave reopen miracle shove moment era crater";
+var mnemonic = "problem company hold door hammer idle grocery organ recycle victory little accuse";

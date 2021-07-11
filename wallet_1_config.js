@@ -1,1 +1,1 @@
-var mnemonic = "between resist silver viable sight female eight rival rotate way rocket stay";
+var mnemonic = "banana caught foot sample garbage cart patch liberty december design desert able";

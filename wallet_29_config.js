@@ -1,1 +1,1 @@
-var mnemonic = "marble lemon noodle verb bunker inject sauce worry fury champion repair other";
+var mnemonic = "enroll paddle raccoon sugar cigar dream trigger scatter domain excite surge fitness";

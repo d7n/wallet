@@ -1,1 +1,1 @@
-var mnemonic = "smoke frog volcano olive online danger quit draft gift absent math yard";
+var mnemonic = "combine burst way surround aisle shell firm umbrella nut moral scan chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew segment auction buyer element detect frame snow page gospel ranch fade";
+var mnemonic = "awkward oak brief girl local happy collect demise dwarf lawn skirt prize";

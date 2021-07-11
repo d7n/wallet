@@ -1,1 +1,1 @@
-var mnemonic = "better gap brain amazing coyote annual copper shift drive cake arena release";
+var mnemonic = "legend quote double lizard other wild ramp urban salad exact board desert";

@@ -1,1 +1,1 @@
-var mnemonic = "often traffic obvious slice scissors enter spend tattoo book deer harsh father";
+var mnemonic = "pottery fever list mad glide opinion boost cushion fiscal dolphin lunch suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket board trumpet knee market off amateur smooth chimney tourist pigeon hawk";
+var mnemonic = "wife media craft symptom blade divert retreat wild world employ soup alley";

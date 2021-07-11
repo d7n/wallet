@@ -1,1 +1,1 @@
-var mnemonic = "swim wish assault melody fun mesh best answer sphere coyote adult neither";
+var mnemonic = "maid supreme crazy avoid civil exclude fix raccoon grid crime kick electric";

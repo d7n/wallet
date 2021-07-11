@@ -1,1 +1,1 @@
-var mnemonic = "wife pink rack gravity alcohol man busy question abuse abandon patrol strike";
+var mnemonic = "dance sun human home orbit melody identify math donkey tilt student heavy";

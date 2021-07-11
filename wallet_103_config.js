@@ -1,1 +1,1 @@
-var mnemonic = "body animal embark potato high gold labor pill holiday wink breeze tomato";
+var mnemonic = "friend donate spray draft staff ahead syrup outside romance oppose wait buddy";

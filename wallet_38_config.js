@@ -1,1 +1,1 @@
-var mnemonic = "stove laptop relief skin fitness seat chimney accident immune visual journey behind";
+var mnemonic = "invest congress bitter ticket fly napkin joy boat salad initial honey ring";

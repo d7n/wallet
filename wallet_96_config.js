@@ -1,1 +1,1 @@
-var mnemonic = "deputy adjust buddy rug junior east bus state battle buzz correct toe";
+var mnemonic = "toy latin salad cage door wedding life end spray laundry word survey";

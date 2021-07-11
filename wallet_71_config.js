@@ -1,1 +1,1 @@
-var mnemonic = "iron muscle core hundred quick visual disagree produce leader rare chicken denial";
+var mnemonic = "diet cage fossil lazy meadow change empty card exit winter goat fuel";

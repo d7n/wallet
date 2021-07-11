@@ -1,1 +1,1 @@
-var mnemonic = "program host novel crawl cruel favorite omit problem devote tilt deliver swarm";
+var mnemonic = "excuse acquire odor bamboo sure guitar slot abuse topple amused warm reform";

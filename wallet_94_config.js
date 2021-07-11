@@ -1,1 +1,1 @@
-var mnemonic = "million pill rifle travel rebuild cage shy game medal cousin brave pioneer";
+var mnemonic = "employ van water drip dice still debate marriage culture fetch public busy";

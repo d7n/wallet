@@ -1,1 +1,1 @@
-var mnemonic = "impact key empty drill imitate stable company seat project awesome hurdle morning";
+var mnemonic = "success right pupil sudden sing allow cigar cave dream art shop gentle";

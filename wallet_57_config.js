@@ -1,1 +1,1 @@
-var mnemonic = "eagle vital fabric bonus utility dinner mixed endless cover local cover chair";
+var mnemonic = "rhythm ice maid sad pull select found scissors notice garment expire private";

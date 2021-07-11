@@ -1,1 +1,1 @@
-var mnemonic = "portion output spell seed best observe sausage city retire diary object mammal";
+var mnemonic = "borrow fire subway color afford crystal mandate flat sadness place cycle income";

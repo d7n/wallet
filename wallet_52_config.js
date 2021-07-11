@@ -1,1 +1,1 @@
-var mnemonic = "other place nurse asthma clock increase crumble foil century crush lunar pupil";
+var mnemonic = "review tiny wealth husband cigar away sphere shove erosion satisfy scatter nut";

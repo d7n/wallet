@@ -1,1 +1,1 @@
-var mnemonic = "elbow magnet battle sample village borrow taxi sunset secret build magnet satisfy";
+var mnemonic = "assist renew snap coin minute hazard this acoustic civil relief umbrella clerk";

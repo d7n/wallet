@@ -1,1 +1,1 @@
-var mnemonic = "float blur street elephant chunk climb poem call tenant defense finger stone";
+var mnemonic = "mercy what post grass fury view bottom minute wink document witness orient";

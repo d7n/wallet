@@ -1,1 +1,1 @@
-var mnemonic = "recall sunny night forum fish night loyal entire excuse sustain clever great";
+var mnemonic = "boil cereal swing crisp title keep gown brain attitude inform peanut blouse";

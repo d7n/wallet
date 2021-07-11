@@ -1,1 +1,1 @@
-var mnemonic = "snow notice bachelor bachelor immense captain tiny eight boss regular artefact leisure";
+var mnemonic = "report sugar taste gesture cause energy december idea deer come expect primary";

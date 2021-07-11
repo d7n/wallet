@@ -1,1 +1,1 @@
-var mnemonic = "popular online effort shoulder ignore year vacant logic drastic sail innocent media";
+var mnemonic = "foam rib connect bargain proud visit record find drum license tube close";

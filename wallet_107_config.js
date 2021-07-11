@@ -1,1 +1,1 @@
-var mnemonic = "door inherit pioneer fossil recall travel clump lock crack vivid excite venue";
+var mnemonic = "castle athlete smile master depart spot parrot grocery feed spatial hammer build";

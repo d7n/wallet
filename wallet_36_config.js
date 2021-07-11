@@ -1,1 +1,1 @@
-var mnemonic = "bench remember interest gas library produce front agree talent element edge what";
+var mnemonic = "problem work tube august race animal used obtain fabric good fortune wine";

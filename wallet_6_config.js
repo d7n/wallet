@@ -1,1 +1,1 @@
-var mnemonic = "glimpse satoshi engage surround traffic float exit ignore year wire ugly minor";
+var mnemonic = "know receive nerve amused twin culture clerk bench disagree lemon target object";

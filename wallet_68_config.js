@@ -1,1 +1,1 @@
-var mnemonic = "route vivid anxiety angle quote interest present actress labor midnight iron wood";
+var mnemonic = "want avoid awkward innocent embody unit parent enjoy turn brief photo gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty scorpion ladder faint render orbit maple spell panel broken hero smoke";
+var mnemonic = "life universe game odor live flight horse pigeon educate tenant south snow";

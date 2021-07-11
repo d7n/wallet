@@ -1,1 +1,1 @@
-var mnemonic = "spawn stove reopen weapon exercise lounge wave scrub guard return gas update";
+var mnemonic = "brief ill drip state egg lottery color market much powder first slow";

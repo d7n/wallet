@@ -1,1 +1,1 @@
-var mnemonic = "forest patrol dial glory loan raccoon into absent catalog text auction juice";
+var mnemonic = "news dirt insane receive disorder setup avocado devote vivid original fashion draw";

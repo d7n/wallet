@@ -1,1 +1,1 @@
-var mnemonic = "inform visual sunny tone slow talent present siege filter cover answer paddle";
+var mnemonic = "civil across cactus wheel whisper bind where gold south alarm inspire erosion";

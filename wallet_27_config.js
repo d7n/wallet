@@ -1,1 +1,1 @@
-var mnemonic = "wasp flush artwork panda foil welcome true future auto reflect shock arrange";
+var mnemonic = "shell pledge marble snap screen diesel differ fetch shift enter wrist east";

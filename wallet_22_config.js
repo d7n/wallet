@@ -1,1 +1,1 @@
-var mnemonic = "verify payment curtain kitten hurdle project either caught grain taste pigeon wrong";
+var mnemonic = "chief blue master alien task empower wise rebuild tiger mercy hire allow";

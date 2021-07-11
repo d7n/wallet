@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin state between book favorite extra usage describe talent sound cheap obey";
+var mnemonic = "sea elder old stairs actor tenant coconut nest bus someone piece that";

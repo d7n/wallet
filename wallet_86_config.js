@@ -1,1 +1,1 @@
-var mnemonic = "winter sketch shoot leave coconut antique frame amazing flat anxiety hobby load";
+var mnemonic = "later job twenty chair spend measure affair gorilla ice weekend improve garlic";

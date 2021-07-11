@@ -1,1 +1,1 @@
-var mnemonic = "top come mountain party point noble absorb view ginger pupil stadium cheese";
+var mnemonic = "bulk phrase involve hood lamp raw marriage shoe tiny caught erosion enhance";

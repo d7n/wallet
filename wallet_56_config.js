@@ -1,1 +1,1 @@
-var mnemonic = "metal odor wide mango yellow kidney vapor odor wife buyer task please";
+var mnemonic = "kiwi food salad ill sad custom rhythm squirrel capable sweet food sign";

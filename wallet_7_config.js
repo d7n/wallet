@@ -1,1 +1,1 @@
-var mnemonic = "pizza thing artwork hungry snake prison cover produce involve civil soldier gorilla";
+var mnemonic = "few ignore word leisure cat defense potato onion coach smile river banner";

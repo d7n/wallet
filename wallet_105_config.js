@@ -1,1 +1,1 @@
-var mnemonic = "flavor cheese visual acid anger setup twist eager rebuild venture payment sad";
+var mnemonic = "rely game picnic argue carpet problem father butter annual accuse tip student";

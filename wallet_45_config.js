@@ -1,1 +1,1 @@
-var mnemonic = "swarm alien cricket write fabric light solar shrimp govern hub output close";
+var mnemonic = "text rack oyster beauty warm turkey else cost front liberty shiver flush";

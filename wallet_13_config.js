@@ -1,1 +1,1 @@
-var mnemonic = "short snap zebra picture enact mutual broccoli bless clog negative music peanut";
+var mnemonic = "slogan budget humor problem kit logic whip usage machine shiver zone divide";

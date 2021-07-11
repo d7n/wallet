@@ -1,1 +1,1 @@
-var mnemonic = "someone unit awake ignore grass inside plunge old spray social tone surprise";
+var mnemonic = "color pull short derive monitor process private once happy crawl hunt cloth";

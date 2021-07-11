@@ -1,1 +1,1 @@
-var mnemonic = "kind turn toe believe opera never spy cactus mistake alert list wet";
+var mnemonic = "family pattern avocado glad volcano mandate cute change please melt leave spatial";

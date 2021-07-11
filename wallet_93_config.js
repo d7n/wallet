@@ -1,1 +1,1 @@
-var mnemonic = "couple denial cry bright silly say hurt critic walnut mule focus rapid";
+var mnemonic = "faint thing diagram capital song wine fiction float term venture axis jar";

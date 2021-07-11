@@ -1,1 +1,1 @@
-var mnemonic = "blame patch just clock poet goat this own faculty ridge frame kite";
+var mnemonic = "fitness topple riot process bomb lock toddler train clown dinosaur whip magic";

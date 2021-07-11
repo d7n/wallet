@@ -1,1 +1,1 @@
-var mnemonic = "exit sand sight buzz brisk match pencil crop exile year stage boss";
+var mnemonic = "worth elbow degree put sea plug lunch top dutch tooth together fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "congress note swamp badge author crazy toe shift bag initial middle used";
+var mnemonic = "win board goat swap dream card breeze swift mountain one grit skin";

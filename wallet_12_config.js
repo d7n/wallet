@@ -1,1 +1,1 @@
-var mnemonic = "twelve dizzy fiscal ask humble this thing marine cage quality again armed";
+var mnemonic = "series number acquire rail lazy album hood hazard receive attitude cheese hello";

@@ -1,1 +1,1 @@
-var mnemonic = "orange story ghost renew never search aerobic spider shoe wish boy text";
+var mnemonic = "timber worth expose voice bar trim art stomach add rule biology repeat";

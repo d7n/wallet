@@ -1,1 +1,1 @@
-var mnemonic = "chest frog mansion elite crouch predict screen bargain region doctor genre find";
+var mnemonic = "drama impulse cry give demand empower common violin dismiss still stamp wonder";

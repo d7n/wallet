@@ -1,1 +1,1 @@
-var mnemonic = "scrub deputy glimpse dismiss ahead wash name infant minor project economy where";
+var mnemonic = "atom cram muffin hawk mother learn glimpse install gate near exclude champion";

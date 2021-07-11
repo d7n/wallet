@@ -1,1 +1,1 @@
-var mnemonic = "obscure speak music session expose bring asset salute require page spread defy";
+var mnemonic = "door basket oval small predict quality waste item solid ladder plastic indoor";

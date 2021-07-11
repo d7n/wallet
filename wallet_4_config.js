@@ -1,1 +1,1 @@
-var mnemonic = "maximum slab mosquito pioneer salon treat leader stable bleak joke learn drink";
+var mnemonic = "spoon inner fossil point index ozone bird deal awkward habit scene open";

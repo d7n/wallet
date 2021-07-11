@@ -1,1 +1,1 @@
-var mnemonic = "relief evil relax often budget april flash assume raccoon roast issue soft";
+var mnemonic = "clay history merge accuse gift open wait genuine kite future salute liberty";

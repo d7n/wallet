@@ -1,1 +1,1 @@
-var mnemonic = "reopen bomb please swift choose knock write gun barely exact slow can";
+var mnemonic = "machine renew immense reunion always sugar visit input crime copy profit tortoise";

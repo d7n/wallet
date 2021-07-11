@@ -1,1 +1,1 @@
-var mnemonic = "attack display fall sorry volcano lock paddle improve frozen common expose olympic";
+var mnemonic = "unaware six kit input sphere carry party note enrich liquid stool mechanic";

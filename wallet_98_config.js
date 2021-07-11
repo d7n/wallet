@@ -1,1 +1,1 @@
-var mnemonic = "opinion into thumb gadget wash then student loud father where enforce kidney";
+var mnemonic = "coral cabbage gloom wear update pond elevator skirt wrap drip nasty peanut";

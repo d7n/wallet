@@ -1,1 +1,1 @@
-var mnemonic = "stand calm rubber lobster metal easily either weapon chapter yellow awkward cruel";
+var mnemonic = "whip insect exile thumb orchard enjoy chase wonder snake fee divorce stay";

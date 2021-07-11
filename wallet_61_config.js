@@ -1,1 +1,1 @@
-var mnemonic = "throw charge scout dice genuine fine patient just they will alarm box";
+var mnemonic = "tower step equal tackle shrug possible mix attack manual able jewel situate";

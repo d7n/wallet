@@ -1,1 +1,1 @@
-var mnemonic = "food decrease ladder crew shy pig banana achieve fatal tumble horse noodle";
+var mnemonic = "immune midnight goat height rug force snake snake asset grape promote health";

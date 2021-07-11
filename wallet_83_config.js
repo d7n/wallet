@@ -1,1 +1,1 @@
-var mnemonic = "daring pond tank divide only foam lesson tent solar monkey lamp rocket";
+var mnemonic = "alarm weird disorder retreat scale live vanish arch saddle rural hotel coral";

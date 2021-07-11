@@ -1,1 +1,1 @@
-var mnemonic = "crater health scrub tell asthma demise garage lawn voyage teach defense draft";
+var mnemonic = "oven fish festival wish tone champion prison extend front noble feature patient";

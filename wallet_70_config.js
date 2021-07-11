@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cat timber feel extra payment envelope salt bulb concert special witness";
+var mnemonic = "coyote photo cable climb stamp gravity special notable state family render surface";

@@ -1,1 +1,1 @@
-var mnemonic = "vital balcony cousin fish seminar spring civil race way comfort ahead syrup";
+var mnemonic = "arrest merry confirm clarify nerve sell update seek path clean faint nose";

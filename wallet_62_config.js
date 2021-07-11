@@ -1,1 +1,1 @@
-var mnemonic = "crash profit good practice fade inject team vault virtual coral cram forward";
+var mnemonic = "car violin danger moral someone shock loop current sight bomb broccoli about";

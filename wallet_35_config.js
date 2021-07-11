@@ -1,1 +1,1 @@
-var mnemonic = "vehicle elegant plunge airport search castle saddle forward melt salt dragon dial";
+var mnemonic = "hole disease excess cool soccer message flag search crack depart famous tiny";

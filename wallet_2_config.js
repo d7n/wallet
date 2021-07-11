@@ -1,1 +1,1 @@
-var mnemonic = "measure awkward behind turn manual fatal order bonus outdoor clog solid require";
+var mnemonic = "city hamster recall tomorrow luggage hawk vault palm trend report off category";

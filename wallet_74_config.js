@@ -1,1 +1,1 @@
-var mnemonic = "cool saddle hire faint gown permit lecture nature leave lamp grab spice";
+var mnemonic = "horn reunion dog castle fragile industry mobile pool unaware burden blouse neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness render roof captain body decline clip husband person melt stereo hamster";
+var mnemonic = "shed shed idle size bronze write proud then language confirm catalog wise";

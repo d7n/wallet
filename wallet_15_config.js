@@ -1,1 +1,1 @@
-var mnemonic = "marble uniform drift diesel rescue arrest little panel ecology bacon interest path";
+var mnemonic = "draft sunny limit buyer word visa eagle tiger slide drop anger impact";

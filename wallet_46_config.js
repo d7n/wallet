@@ -1,1 +1,1 @@
-var mnemonic = "beauty timber menu draw powder security donate foam two since blossom derive";
+var mnemonic = "emerge party arena ride stem cube power armor meat sugar alien resource";

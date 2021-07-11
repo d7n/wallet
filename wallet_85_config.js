@@ -1,1 +1,1 @@
-var mnemonic = "actual decide shoot exchange route weather circle subway squirrel rely park click";
+var mnemonic = "pool true push high patch lawn student check fresh final neither erupt";

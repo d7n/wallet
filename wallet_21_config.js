@@ -1,1 +1,1 @@
-var mnemonic = "panel seven token barely broccoli mad planet magnet there type afford panther";
+var mnemonic = "sleep lesson ski quick expose coffee best then network comic dish corn";

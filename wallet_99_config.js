@@ -1,1 +1,1 @@
-var mnemonic = "butter gather excess frost tourist shallow open current stove shrug near parrot";
+var mnemonic = "uniform core okay coral position during laugh century board country maid cinnamon";

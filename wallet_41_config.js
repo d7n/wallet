@@ -1,1 +1,1 @@
-var mnemonic = "scare video exercise note obtain assume car disagree math middle sick carry";
+var mnemonic = "coast fiscal alley brush sick thrive brand leader chaos yard timber nice";

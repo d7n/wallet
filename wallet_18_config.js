@@ -1,1 +1,1 @@
-var mnemonic = "have floor airport rice grape include toy cinnamon upset cargo child butter";
+var mnemonic = "snap differ all bar nuclear latin artwork arrive liberty polar funny suspect";

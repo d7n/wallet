@@ -1,1 +1,1 @@
-var mnemonic = "accident kite wagon number decade broccoli joke two hunt toddler curve super";
+var mnemonic = "ghost divide such almost obvious credit amateur park estate gasp enjoy pattern";
