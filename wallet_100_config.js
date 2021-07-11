@@ -1,1 +1,1 @@
-var mnemonic = "note renew range rich grocery later trumpet link raw style shed orange";
+var mnemonic = "coil oxygen space invite liquid motor work chapter script one toss open";

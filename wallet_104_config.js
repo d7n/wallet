@@ -1,1 +1,1 @@
-var mnemonic = "aerobic host lab tank aisle grocery mix iron future legend grunt split";
+var mnemonic = "leaf panther wheel oak display brisk forum useful filter nation act range";

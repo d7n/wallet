@@ -1,1 +1,1 @@
-var mnemonic = "bulk clinic actor frost useful tenant letter around kick nephew diesel head";
+var mnemonic = "permit caught awkward secret visit lion right then reveal cook aunt peasant";

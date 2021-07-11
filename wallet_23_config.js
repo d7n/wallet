@@ -1,1 +1,1 @@
-var mnemonic = "lobster race cinnamon more pill garment coach there hungry card swear glide";
+var mnemonic = "uphold pupil winter robot struggle scrap check spoon pen away depart loan";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff clip whip cute series job input sight credit bulb benefit logic";
+var mnemonic = "person index syrup program spider flame water leaf seat amount apple wheel";

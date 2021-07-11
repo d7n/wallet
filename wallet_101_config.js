@@ -1,1 +1,1 @@
-var mnemonic = "update boy card flip virtual addict second bronze first wedding excuse service";
+var mnemonic = "cram child dilemma feed help member fuel rely pelican crush invite stem";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak split finger shaft spawn tuna cube abstract budget course dress defy";
+var mnemonic = "river sick gospel option prosper duty name adult pet debris bronze wrap";

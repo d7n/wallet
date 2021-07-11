@@ -1,1 +1,1 @@
-var mnemonic = "delay valley derive seed you shallow until bronze rack open exit birth";
+var mnemonic = "surprise grief mixture camp lady senior siege grab craft december hundred staff";

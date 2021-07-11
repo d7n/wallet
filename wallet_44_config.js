@@ -1,1 +1,1 @@
-var mnemonic = "target thunder fox twin canvas horror empty notice grain light engine inspire";
+var mnemonic = "among pepper quiz that shaft culture when guilt dance reject rich journey";

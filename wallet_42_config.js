@@ -1,1 +1,1 @@
-var mnemonic = "wood siren bone model jaguar hundred opera stove basket nerve face champion";
+var mnemonic = "leisure armed tattoo stock kidney relief october fiction rib height long region";

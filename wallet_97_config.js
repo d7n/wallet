@@ -1,1 +1,1 @@
-var mnemonic = "then bullet vapor soap scout weather brown grocery farm lake aisle virtual";
+var mnemonic = "daughter juice remain speak color bicycle sadness moral million volume motion horn";

@@ -1,1 +1,1 @@
-var mnemonic = "skin round grain chimney illegal wash replace settle ethics maid scatter essence";
+var mnemonic = "typical mushroom globe giggle enemy cotton rice recipe course cheap mesh start";

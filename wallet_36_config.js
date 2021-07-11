@@ -1,1 +1,1 @@
-var mnemonic = "spy balance diamond member mosquito fancy wagon brand once blur skin budget";
+var mnemonic = "auction slab pause pill modify satoshi beyond garbage flee explain harsh fatigue";

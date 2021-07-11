@@ -1,1 +1,1 @@
-var mnemonic = "leader gravity syrup glare drastic december boring alarm screen example virtual police";
+var mnemonic = "lyrics search wear green river taxi impose middle wire guilt describe quick";

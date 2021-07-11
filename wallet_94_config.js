@@ -1,1 +1,1 @@
-var mnemonic = "purse rescue argue three mad toilet before angry balcony picture mushroom fruit";
+var mnemonic = "initial rhythm blanket hybrid barely disease worry enjoy door trust rain piano";

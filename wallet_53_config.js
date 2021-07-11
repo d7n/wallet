@@ -1,1 +1,1 @@
-var mnemonic = "uphold tiny alpha edit price gun cool fossil dad mushroom castle fiction";
+var mnemonic = "output denial roof truck rookie shed between blush effort curve child lion";

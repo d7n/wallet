@@ -1,1 +1,1 @@
-var mnemonic = "police coast swim wrestle exile deal carpet lion oval afraid sport rib";
+var mnemonic = "meat speed medal crowd eyebrow away street expand kangaroo fine recycle exact";

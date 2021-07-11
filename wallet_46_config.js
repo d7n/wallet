@@ -1,1 +1,1 @@
-var mnemonic = "meadow barrel end faculty second cargo auction next van excite pause alarm";
+var mnemonic = "result friend student pitch walk host fence error young demise seek exit";

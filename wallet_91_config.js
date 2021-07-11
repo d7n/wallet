@@ -1,1 +1,1 @@
-var mnemonic = "chuckle best solar armed surround girl identify solve provide kitten soft debate";
+var mnemonic = "dragon ostrich tube train goat stairs subway unaware turn rescue budget wear";

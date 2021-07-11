@@ -1,1 +1,1 @@
-var mnemonic = "jump recycle analyst draw oven harbor limb minimum kit cousin leg match";
+var mnemonic = "agent torch chef violin clump spin gym unhappy unable when know arctic";

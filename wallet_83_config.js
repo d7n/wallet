@@ -1,1 +1,1 @@
-var mnemonic = "innocent toss toss keep intact fence dash soft allow ketchup brown agree";
+var mnemonic = "field audit rely scatter skirt ankle embody subway universe orchard logic silly";

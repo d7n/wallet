@@ -1,1 +1,1 @@
-var mnemonic = "aim congress average cash balcony media poem asthma shoe very have mercy";
+var mnemonic = "diary wink tackle report purchase exile fame puzzle renew scrap under wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "sign defy already much suggest walk heavy actual gospel aunt audit art";
+var mnemonic = "comfort wait wedding physical fatigue danger acquire media aunt bamboo wheel unfold";

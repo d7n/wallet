@@ -1,1 +1,1 @@
-var mnemonic = "wire arctic honey video fortune innocent teach nuclear journey scissors praise transfer";
+var mnemonic = "dinosaur choose favorite bar vague deal edge cool vivid negative grit champion";

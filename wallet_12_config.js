@@ -1,1 +1,1 @@
-var mnemonic = "coyote gauge exhibit segment exist mule wash equip involve tide credit reward";
+var mnemonic = "double latin moral radar board exit palm away decrease flip tumble valve";

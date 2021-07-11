@@ -1,1 +1,1 @@
-var mnemonic = "burger eternal strategy return appear gas spoon vocal industry draft security letter";
+var mnemonic = "dinosaur eternal female clap legend solid depend choose benefit vote devote amused";

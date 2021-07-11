@@ -1,1 +1,1 @@
-var mnemonic = "orphan pact fault wage skull panther piece retire argue segment forum frown";
+var mnemonic = "smoke feel amused only disorder illegal must blade faint rubber uncle payment";

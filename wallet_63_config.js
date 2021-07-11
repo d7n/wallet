@@ -1,1 +1,1 @@
-var mnemonic = "mass invite piece aisle promote domain head survey man exist follow project";
+var mnemonic = "success cliff because corn lock identify absent blossom mixed invest stick lock";

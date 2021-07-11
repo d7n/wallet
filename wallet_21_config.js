@@ -1,1 +1,1 @@
-var mnemonic = "chimney gather wish uncover essence cement amused true payment amused lab scrub";
+var mnemonic = "case cloth rate energy dial follow tray tuna label electric argue other";

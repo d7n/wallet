@@ -1,1 +1,1 @@
-var mnemonic = "case arrive join riot mean acquire conduct famous grain planet welcome auto";
+var mnemonic = "kidney can orchard turkey soup seed stem human trap canvas nuclear slot";

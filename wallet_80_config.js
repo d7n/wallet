@@ -1,1 +1,1 @@
-var mnemonic = "cheese beyond summer swim debate monkey repair patient woman educate judge casual";
+var mnemonic = "tube coconut rather cook base object fun raw maximum fox retire shell";

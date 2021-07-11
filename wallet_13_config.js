@@ -1,1 +1,1 @@
-var mnemonic = "seek panic oil taxi check mistake original focus trap destroy relax cup";
+var mnemonic = "advice cigar sausage dress opinion tonight wild ugly convince scheme clever save";

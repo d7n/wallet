@@ -1,1 +1,1 @@
-var mnemonic = "palace random crouch ill course lend board you wealth pluck pole glove";
+var mnemonic = "ankle post session prevent fix noodle put rain goose speak supreme dash";

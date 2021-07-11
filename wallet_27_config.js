@@ -1,1 +1,1 @@
-var mnemonic = "make eager october zero process want raccoon meadow blade gospel humble phrase";
+var mnemonic = "shove distance lumber unlock reform lion ten direct clutch warrior thrive awesome";

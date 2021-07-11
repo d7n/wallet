@@ -1,1 +1,1 @@
-var mnemonic = "exclude own legend farm oven travel awkward patch finish symbol space source";
+var mnemonic = "attend silent absent method merry speed vehicle vacuum humor path taxi swear";

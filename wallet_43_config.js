@@ -1,1 +1,1 @@
-var mnemonic = "friend virtual brother bean mad useful recycle refuse fossil fly cruel divorce";
+var mnemonic = "casino hurdle erupt case nose oyster prevent affair august advance such tackle";

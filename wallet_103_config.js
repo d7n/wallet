@@ -1,1 +1,1 @@
-var mnemonic = "embark fat settle face ripple vapor employ chair write wild wall accuse";
+var mnemonic = "cancel loyal tiny hand outer carpet cabbage rival humor load sign sustain";

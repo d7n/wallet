@@ -1,1 +1,1 @@
-var mnemonic = "become describe uncover acquire basic ticket around desk awful salad bachelor struggle";
+var mnemonic = "inform zoo outer enhance eight hawk series labor control sudden icon during";

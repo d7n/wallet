@@ -1,1 +1,1 @@
-var mnemonic = "legend bicycle route health kiwi depart plug rebuild flee valid drastic online";
+var mnemonic = "love saddle more dress like behind portion narrow hair scale calm bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "rural fabric supply brother apart victory rib lucky boy rabbit cloth castle";
+var mnemonic = "until boss season screen marine design virus blanket animal equal right deposit";

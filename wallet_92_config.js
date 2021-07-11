@@ -1,1 +1,1 @@
-var mnemonic = "update small error remove creek morning rabbit chase mandate gospel album camp";
+var mnemonic = "demise task uphold medal anchor actress apple pottery gallery present swear frown";

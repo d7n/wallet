@@ -1,1 +1,1 @@
-var mnemonic = "project swing broccoli someone color december dice envelope unhappy ahead suit agree";
+var mnemonic = "believe coast sand vintage boat scatter fan one arena slam protect diamond";

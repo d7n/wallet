@@ -1,1 +1,1 @@
-var mnemonic = "trend annual cargo auto churn eyebrow dog family guitar head today quit";
+var mnemonic = "pupil blossom turtle urge subject speak neither lemon knock current grocery first";

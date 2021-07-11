@@ -1,1 +1,1 @@
-var mnemonic = "drop property finish attend magic unique gas damage segment sock approve multiply";
+var mnemonic = "wreck print torch copper nice enrich leader topic amount deny inner rather";

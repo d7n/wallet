@@ -1,1 +1,1 @@
-var mnemonic = "safe fix harsh tortoise use current side satisfy delay radio inform exclude";
+var mnemonic = "broom heavy call venture help latin wedding afford erosion youth artist verb";

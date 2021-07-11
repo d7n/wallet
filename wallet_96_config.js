@@ -1,1 +1,1 @@
-var mnemonic = "scissors medal dentist limb entry chef rebel erupt drastic soldier goddess enforce";
+var mnemonic = "flavor donkey blush swift trap female asthma pull hill notable powder fit";

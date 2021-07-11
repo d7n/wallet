@@ -1,1 +1,1 @@
-var mnemonic = "daughter bomb true surround depth else disagree jacket victory flavor hurdle eye";
+var mnemonic = "ivory foot mad minor kind hold print action cave mom observe route";

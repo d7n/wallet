@@ -1,1 +1,1 @@
-var mnemonic = "then large phrase among fever check jelly giraffe family library sunset warfare";
+var mnemonic = "diary curious zebra check hurdle vendor august report this wash route proof";

@@ -1,1 +1,1 @@
-var mnemonic = "stock flat sell item age hole wing doctor wrist fluid any chase";
+var mnemonic = "inquiry broken disorder reject invite index credit once humor foam rookie amused";

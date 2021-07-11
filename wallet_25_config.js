@@ -1,1 +1,1 @@
-var mnemonic = "mask private leisure hospital ski action angle false purpose ramp improve echo";
+var mnemonic = "void fox resource unveil young angle such sound occur exclude reveal crazy";

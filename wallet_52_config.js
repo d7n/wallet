@@ -1,1 +1,1 @@
-var mnemonic = "direct long rifle sing trophy eye turtle chimney another notable soda club";
+var mnemonic = "north high mad object finger east army decorate pistol this surface twenty";

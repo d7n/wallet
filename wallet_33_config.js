@@ -1,1 +1,1 @@
-var mnemonic = "bright purchase disease safe rotate episode blue frown copy powder potato kiss";
+var mnemonic = "feed mosquito winter believe fancy wink coin round inner stuff siege great";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme season lounge primary vehicle offer awesome left cry cereal egg fever";
+var mnemonic = "peace tiger insane smile artist record regular lawsuit volcano bitter identify usual";

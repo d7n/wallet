@@ -1,1 +1,1 @@
-var mnemonic = "impact scrap ask develop ice fossil must mammal venture dynamic tackle debate";
+var mnemonic = "mobile expose daring end exhaust thumb thought chief merry useful segment claw";

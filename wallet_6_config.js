@@ -1,1 +1,1 @@
-var mnemonic = "output pink unlock spoon awkward math ceiling wheat decorate regret car opinion";
+var mnemonic = "because rural school curtain science window sponsor breeze between deputy chuckle huge";

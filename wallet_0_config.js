@@ -1,1 +1,1 @@
-var mnemonic = "banner camp pulp blush evoke cover elite deny swing humor party bubble";
+var mnemonic = "rice beef point destroy link art coffee nominee pelican pet witness napkin";

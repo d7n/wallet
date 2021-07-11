@@ -1,1 +1,1 @@
-var mnemonic = "swallow grunt inspire fall urban letter crack olive coyote detail remove wrist";
+var mnemonic = "light best label lady owner length apology odor pottery coast resemble aware";

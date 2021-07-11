@@ -1,1 +1,1 @@
-var mnemonic = "there stool harbor mimic once convince strategy struggle guess earn lounge divert";
+var mnemonic = "gesture notable dismiss globe tonight cloth seek agent multiply ability limit december";

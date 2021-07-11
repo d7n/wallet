@@ -1,1 +1,1 @@
-var mnemonic = "proof review pepper together tank extend tobacco gap evoke absent delay devote";
+var mnemonic = "rule fatal pass nephew column loud boost blood always train endorse toward";

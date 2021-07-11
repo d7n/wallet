@@ -1,1 +1,1 @@
-var mnemonic = "siege swallow detail canyon toilet crystal shed chair next limit fly better";
+var mnemonic = "laugh hurt core tunnel ceiling enlist casual dream broccoli satisfy mother real";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty nuclear grace shoot great that wine kitchen best skill renew glare";
+var mnemonic = "hope nothing beef play consider almost paddle hurry print head ramp truth";

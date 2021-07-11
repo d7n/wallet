@@ -1,1 +1,1 @@
-var mnemonic = "media violin refuse nurse beef prosper merry explain monkey split garlic hope";
+var mnemonic = "amount eternal travel mother fury owner silly hard box service grace reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "asset cigar clinic vague cargo vague cruel wide spirit meadow model merry";
+var mnemonic = "risk orphan reopen movie pull you poet mutual gorilla endorse diet raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "alert ball dilemma three desk victory wrong ribbon between tip song state";
+var mnemonic = "lobster panic derive width unveil gold dust alone vacuum video cricket common";

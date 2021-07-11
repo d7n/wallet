@@ -1,1 +1,1 @@
-var mnemonic = "fashion clump wrong humble floor armor army security alone spoon leader item";
+var mnemonic = "dune race food enroll pelican palace chase coyote happy simple feel erase";

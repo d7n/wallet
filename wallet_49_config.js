@@ -1,1 +1,1 @@
-var mnemonic = "wing crew behind first title kit lunch resemble jar door spatial scan";
+var mnemonic = "track brown crystal identify diary exit tell ensure virtual duck frown ketchup";

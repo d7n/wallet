@@ -1,1 +1,1 @@
-var mnemonic = "private claim spend magnet profit resemble zero yard fun priority smile boy";
+var mnemonic = "tree hair retire hybrid list foam warfare area ridge copy output aunt";

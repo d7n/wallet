@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo devote evolve exile enlist convince render drip used soup zoo chalk";
+var mnemonic = "boat moral humble lend proud autumn inquiry soon federal disagree rally tail";

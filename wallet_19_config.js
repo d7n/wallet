@@ -1,1 +1,1 @@
-var mnemonic = "renew parrot hip emerge scale slogan sausage hobby inmate glow echo slim";
+var mnemonic = "ugly squirrel thrive moon violin recycle retreat pet best two auction strategy";

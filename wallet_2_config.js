@@ -1,1 +1,1 @@
-var mnemonic = "abandon plastic chalk famous actress draft warrior zoo vibrant carry reopen indicate";
+var mnemonic = "there tide broken another body shrimp good boss glow rose secret lawsuit";

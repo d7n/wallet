@@ -1,1 +1,1 @@
-var mnemonic = "ladder govern mixed custom spatial depth pioneer carbon crater early sound conduct";
+var mnemonic = "lyrics unfold upset spice good drastic remember liar sick gold village flavor";

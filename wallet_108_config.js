@@ -1,1 +1,1 @@
-var mnemonic = "grab teach grass load biology federal extend syrup muscle merit brain young";
+var mnemonic = "expire sponsor chaos riot wage catalog ready file sleep crime since forward";

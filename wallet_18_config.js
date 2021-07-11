@@ -1,1 +1,1 @@
-var mnemonic = "uncover human like believe police marine over eagle raccoon agree tool blast";
+var mnemonic = "more ivory general nothing sea initial resist master shock dish warfare inherit";

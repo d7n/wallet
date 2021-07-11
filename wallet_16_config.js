@@ -1,1 +1,1 @@
-var mnemonic = "usage animal chair cloud provide crucial noodle main dismiss electric derive steak";
+var mnemonic = "razor raw metal author invite marble rail segment apart post critic among";

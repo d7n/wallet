@@ -1,1 +1,1 @@
-var mnemonic = "mother hand task mouse apple unfair nerve common frog hair enable assume";
+var mnemonic = "guide mirror rural myself edge cause quantum dumb lazy learn enable dignity";

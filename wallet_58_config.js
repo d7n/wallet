@@ -1,1 +1,1 @@
-var mnemonic = "grab slice siren twin clock good foam extra library obey stool outer";
+var mnemonic = "school profit message topple energy inflict panel bounce lady canal boring chuckle";

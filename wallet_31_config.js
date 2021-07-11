@@ -1,1 +1,1 @@
-var mnemonic = "faint size two misery route knee gun order deputy mercy apple promote";
+var mnemonic = "mixture spoil surge spot behind head rocket frown dignity edge castle bamboo";

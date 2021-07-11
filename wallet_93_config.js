@@ -1,1 +1,1 @@
-var mnemonic = "acquire project moral solid rain wolf grocery trust pyramid eight mansion inform";
+var mnemonic = "hour volcano fly current town differ museum scrub taxi favorite morning wine";

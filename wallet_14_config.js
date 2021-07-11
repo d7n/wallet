@@ -1,1 +1,1 @@
-var mnemonic = "symbol cannon work situate side fever purpose hard twin patient sheriff black";
+var mnemonic = "warrior dwarf tiger adapt reopen nose current bacon tobacco found orange exercise";

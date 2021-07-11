@@ -1,1 +1,1 @@
-var mnemonic = "clap lake express traffic traffic unfold stem enact drip symbol place glory";
+var mnemonic = "blush mention hidden father boy mandate fine sting correct party display awake";

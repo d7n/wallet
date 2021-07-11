@@ -1,1 +1,1 @@
-var mnemonic = "salute veteran riot agree dose bacon sister stock link oxygen maze oyster";
+var mnemonic = "acoustic pattern embody rail wealth cream spoil noodle axis danger radar process";

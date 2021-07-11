@@ -1,1 +1,1 @@
-var mnemonic = "lucky kitten action stage today devote love cactus left abstract cereal symptom";
+var mnemonic = "guide leader polar romance reform immense luxury horn museum news repair spread";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish loop obvious carpet inmate intact crush version inform room then large";
+var mnemonic = "divert client rabbit mosquito stem dust merit trip swamp spread smile tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "siege voyage crawl wine crouch flight sign analyst juice devote rib crack";
+var mnemonic = "youth vintage extra body grid fix ginger afford photo fame fold weekend";

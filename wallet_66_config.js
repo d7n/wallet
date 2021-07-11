@@ -1,1 +1,1 @@
-var mnemonic = "border remove clinic change yellow banana radar crush defy load thumb gallery";
+var mnemonic = "art setup empty news twist sort tuna stuff employ race replace fossil";

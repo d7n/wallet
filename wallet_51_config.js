@@ -1,1 +1,1 @@
-var mnemonic = "excite cotton innocent ahead script library bamboo shoulder alone uncover yellow staff";
+var mnemonic = "dragon forest toward remember nothing army bus hover minor language aerobic guess";
