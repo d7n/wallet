@@ -1,1 +1,1 @@
-var mnemonic = "wheel toe viable habit toward laundry wish file ceiling boil slide split";
+var mnemonic = "fish appear clarify expand chicken rail radio hover bicycle decline prison excess";

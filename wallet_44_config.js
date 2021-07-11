@@ -1,1 +1,1 @@
-var mnemonic = "hole occur prefer vocal prefer diet behind license barrel oxygen wool tissue";
+var mnemonic = "school trash shine robot until bunker trade snow copper screen ridge transfer";

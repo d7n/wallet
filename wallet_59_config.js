@@ -1,1 +1,1 @@
-var mnemonic = "produce swap shiver solution crater inquiry bunker alley october april between jacket";
+var mnemonic = "woman manual series outer brisk oak index supply else economy kiwi afraid";

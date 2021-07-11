@@ -1,1 +1,1 @@
-var mnemonic = "token deliver bus corn ocean merge fortune flower coast pink sweet method";
+var mnemonic = "actor meadow where write load ticket tenant hill tourist force rack angle";

@@ -1,1 +1,1 @@
-var mnemonic = "hat wash pattern robot rather mouse crime power number lunch episode midnight";
+var mnemonic = "cement wool jelly congress noise tuna this borrow cycle viable knife scene";

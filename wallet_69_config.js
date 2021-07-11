@@ -1,1 +1,1 @@
-var mnemonic = "miss deposit tongue attack poverty raven island nominee name govern index giggle";
+var mnemonic = "trick keen milk simple patrol bean render upon document wrist used mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "climb arch print kiwi hazard core cable weapon visit unhappy canal copper";
+var mnemonic = "arch lizard bright produce guard crumble tackle derive swing monster collect vessel";

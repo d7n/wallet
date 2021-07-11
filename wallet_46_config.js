@@ -1,1 +1,1 @@
-var mnemonic = "pole riot dry mansion inch frown raw behave click reason behave still";
+var mnemonic = "auto hood gold truck army undo fog gift title shrug satisfy sphere";

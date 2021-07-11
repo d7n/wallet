@@ -1,1 +1,1 @@
-var mnemonic = "swallow number parrot myth gym cloth appear welcome robust surprise physical north";
+var mnemonic = "rate quote above observe tank adult hurt lyrics layer mushroom math twist";

@@ -1,1 +1,1 @@
-var mnemonic = "rural mandate bargain sand mixture spring blood hamster trust toast icon subway";
+var mnemonic = "inquiry chicken typical father tongue clip brief obvious eager similar rookie anger";

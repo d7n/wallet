@@ -1,1 +1,1 @@
-var mnemonic = "own alter boat rigid pass obey upgrade gather lucky alert warrior rent";
+var mnemonic = "bike excite found sad flash shift letter setup mad tone flat neck";

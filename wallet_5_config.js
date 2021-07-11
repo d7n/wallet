@@ -1,1 +1,1 @@
-var mnemonic = "protect gossip arm open record reward priority team absurd reopen open arrive";
+var mnemonic = "like clump keen mammal spirit busy acquire benefit milk hat skin tonight";

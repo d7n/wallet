@@ -1,1 +1,1 @@
-var mnemonic = "glove mouse bunker digital obtain wool pipe surprise frog general deputy torch";
+var mnemonic = "visa fire candy review unfair predict wear that certain machine scan hat";

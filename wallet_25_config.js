@@ -1,1 +1,1 @@
-var mnemonic = "spider price capable noble flight cannon mammal crash marble sample buzz divide";
+var mnemonic = "spice input favorite pet fresh pelican social slight razor resource crouch slim";

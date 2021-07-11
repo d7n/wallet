@@ -1,1 +1,1 @@
-var mnemonic = "often response universe edit apart outside vault business impact empower control razor";
+var mnemonic = "inspire achieve blame chunk question desk party file angry online face wheel";

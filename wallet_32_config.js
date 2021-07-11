@@ -1,1 +1,1 @@
-var mnemonic = "odor ahead boat verb school visa federal flush spy nice shine sugar";
+var mnemonic = "depart online true craft capable hurdle curtain lend list insect water foam";

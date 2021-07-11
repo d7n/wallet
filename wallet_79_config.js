@@ -1,1 +1,1 @@
-var mnemonic = "prefer stomach crawl exclude all drive year boat earn pave wrap fiscal";
+var mnemonic = "blast spin melody fresh fox pilot glance bullet lottery comfort fog security";

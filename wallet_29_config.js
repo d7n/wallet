@@ -1,1 +1,1 @@
-var mnemonic = "pause below indoor win neglect scan race crystal pair caught hover nature";
+var mnemonic = "tree picture lunar camp exchange brisk toe magnet jeans crunch crawl essay";

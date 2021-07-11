@@ -1,1 +1,1 @@
-var mnemonic = "tribe famous rail will search festival settle item flat route panda tenant";
+var mnemonic = "wing ritual core mad helmet way monkey river guide just mask dish";

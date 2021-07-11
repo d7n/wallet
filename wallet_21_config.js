@@ -1,1 +1,1 @@
-var mnemonic = "dose attract fatigue sting glass clarify history alert enroll van bridge monitor";
+var mnemonic = "ribbon lend slim end horn tobacco own glass gasp okay clock danger";

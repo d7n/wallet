@@ -1,1 +1,1 @@
-var mnemonic = "universe ignore slam humor olympic pioneer gown pink tree dress vocal cannon";
+var mnemonic = "kit sleep garage pizza payment leopard route draw mad dial weasel prefer";

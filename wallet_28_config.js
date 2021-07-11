@@ -1,1 +1,1 @@
-var mnemonic = "drop power just route there misery soft suspect cloth cargo beach rescue";
+var mnemonic = "logic sample hurdle matter market labor enhance giraffe chimney afford satoshi name";

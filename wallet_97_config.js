@@ -1,1 +1,1 @@
-var mnemonic = "pair pool electric inherit sea keen minute donkey afraid divide pattern real";
+var mnemonic = "lock panic quiz sick margin aspect story peasant remain saddle rain lion";

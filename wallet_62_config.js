@@ -1,1 +1,1 @@
-var mnemonic = "post city click wife pretty drum kick spawn piece brand recall often";
+var mnemonic = "setup noodle field clog crumble upon virus debris swap despair steel glide";

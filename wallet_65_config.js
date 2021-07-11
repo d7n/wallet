@@ -1,1 +1,1 @@
-var mnemonic = "attract series begin reveal spread bulb crouch hole soft bracket skill cause";
+var mnemonic = "palace security devote hedgehog flip scale man leg elephant volume idle diagram";

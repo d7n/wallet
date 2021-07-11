@@ -1,1 +1,1 @@
-var mnemonic = "coast vintage upper rare movie violin vague reform silly culture shed chicken";
+var mnemonic = "drastic daring slice ceiling there suggest black minimum fitness retreat evolve bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "rally six dress sunny dance urge solid fan judge asset walk unit";
+var mnemonic = "amount future between require gravity address engage stumble bring material able immense";

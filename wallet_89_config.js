@@ -1,1 +1,1 @@
-var mnemonic = "labor sunset brave sorry legal shrug rubber round rural cherry evoke manual";
+var mnemonic = "true planet genius wear hammer company walk cabbage guard wet finish unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy unusual shoot subway urge vendor egg pencil panel bridge extra pattern";
+var mnemonic = "normal shine scare impose mango shrimp price jewel survey volume drastic game";

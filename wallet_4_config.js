@@ -1,1 +1,1 @@
-var mnemonic = "erosion they language volcano cruise sand visit ghost photo cattle enroll left";
+var mnemonic = "vibrant goat rule pistol lobster kiwi dinner cotton laugh very swift devote";

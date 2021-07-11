@@ -1,1 +1,1 @@
-var mnemonic = "knock garlic elite mask pool pool side dilemma monitor pen crouch course";
+var mnemonic = "beach globe umbrella eagle such priority live since squeeze flat use wait";

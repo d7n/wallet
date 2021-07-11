@@ -1,1 +1,1 @@
-var mnemonic = "kid tragic curve afford arrest job orange absurd bread code hard tomorrow";
+var mnemonic = "pretty supreme wrist frown yellow stereo chuckle finger camera human agent try";

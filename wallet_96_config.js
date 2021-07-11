@@ -1,1 +1,1 @@
-var mnemonic = "stairs above jelly hockey hidden enact shadow safe canal sad harbor plug";
+var mnemonic = "impact submit lucky elbow finish fringe toy number rug more three engage";

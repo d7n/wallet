@@ -1,1 +1,1 @@
-var mnemonic = "blur erode follow depth brass enforce craft squeeze receive grain arrest permit";
+var mnemonic = "rent shaft snake wall example claim garage twenty cradle hip another just";

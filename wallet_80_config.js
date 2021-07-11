@@ -1,1 +1,1 @@
-var mnemonic = "swear energy cube tide walnut recall flame luxury lizard make scout tilt";
+var mnemonic = "door crane wreck glide twelve tragic volume juice analyst define ivory rival";

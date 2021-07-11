@@ -1,1 +1,1 @@
-var mnemonic = "observe patch sense stool fence buddy swallow ordinary valve type broccoli planet";
+var mnemonic = "scorpion toy antenna discover oval basic wrestle size tone clarify fold night";

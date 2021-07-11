@@ -1,1 +1,1 @@
-var mnemonic = "sketch later obey champion lake chest bomb lock party special horse eye";
+var mnemonic = "combine tumble before narrow derive lucky shock silver force kid now vehicle";

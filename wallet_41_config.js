@@ -1,1 +1,1 @@
-var mnemonic = "cost twice phrase village victory poem runway gravity lounge absurd pig army";
+var mnemonic = "bread coil much setup novel annual kingdom bullet jeans resource boil tumble";

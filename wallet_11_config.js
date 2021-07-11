@@ -1,1 +1,1 @@
-var mnemonic = "bubble frog rent parent stereo resist sleep mechanic flee bacon tide medal";
+var mnemonic = "airport approve fit dolphin cement fork dance paddle oxygen saddle eagle dragon";

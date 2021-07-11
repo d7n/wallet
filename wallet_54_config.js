@@ -1,1 +1,1 @@
-var mnemonic = "know boss melt rally affair quantum open episode invite federal trick novel";
+var mnemonic = "wreck maximum once example excuse absurd face useless swarm unknown bone slam";

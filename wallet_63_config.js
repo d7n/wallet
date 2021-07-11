@@ -1,1 +1,1 @@
-var mnemonic = "ability leg tube essence evidence angry unique fitness luggage swarm slogan slow";
+var mnemonic = "couple nose real hold pledge jewel cattle acoustic since empower clarify arctic";

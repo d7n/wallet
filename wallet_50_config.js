@@ -1,1 +1,1 @@
-var mnemonic = "they glory shock leader mutual win joy cycle ask text ancient dash";
+var mnemonic = "feel connect space melt miss dawn admit essence oppose claw frequent garbage";

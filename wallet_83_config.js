@@ -1,1 +1,1 @@
-var mnemonic = "hill deal connect lock dance rebuild razor figure income acquire runway across";
+var mnemonic = "teach gift voice critic bag time blossom harvest trash crash asthma side";

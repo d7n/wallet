@@ -1,1 +1,1 @@
-var mnemonic = "coral leader rabbit october muffin blue armor course dumb often expire cycle";
+var mnemonic = "lion health bone drift issue below pyramid tattoo scheme apart nominee domain";

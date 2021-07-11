@@ -1,1 +1,1 @@
-var mnemonic = "grant legend wrong rebuild float knife birth pledge tide volume chalk arm";
+var mnemonic = "table slide detail universe swarm quit clown bamboo usual seven cargo barely";

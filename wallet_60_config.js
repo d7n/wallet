@@ -1,1 +1,1 @@
-var mnemonic = "enrich usual whale avoid rate harbor vital faint comic voice draft huge";
+var mnemonic = "fence provide april reform aspect snake trophy token ball input swing palm";

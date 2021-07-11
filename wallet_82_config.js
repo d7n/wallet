@@ -1,1 +1,1 @@
-var mnemonic = "beauty camp prison mandate protect inject dash poverty exercise army half aware";
+var mnemonic = "humble inhale source mountain gloom across source rabbit renew shove recipe timber";

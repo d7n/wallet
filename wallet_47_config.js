@@ -1,1 +1,1 @@
-var mnemonic = "stairs lens worth future cart salute ready agent scare recall absent ivory";
+var mnemonic = "purse exchange undo try injury unveil drama movie engage degree gallery during";

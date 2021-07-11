@@ -1,1 +1,1 @@
-var mnemonic = "rescue mango side hard brisk like wood tobacco victory distance frequent truth";
+var mnemonic = "normal vessel square drift gasp try bacon clap theory rebel video west";

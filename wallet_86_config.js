@@ -1,1 +1,1 @@
-var mnemonic = "usual unit spirit present nominee neither shift tourist farm mushroom phrase enlist";
+var mnemonic = "hood bamboo stuff gallery avocado case spin remind dawn upgrade focus seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "start belt robust depart fatigue juice fury fog sugar clerk pumpkin magic";
+var mnemonic = "tumble enforce sample auction know gym pluck arrow play sustain aspect online";

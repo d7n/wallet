@@ -1,1 +1,1 @@
-var mnemonic = "kitten stand explain shoe immense spread gadget alien same work clip oil";
+var mnemonic = "cycle find eye thrive cinnamon any marble sketch swear crush sight column";

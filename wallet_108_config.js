@@ -1,1 +1,1 @@
-var mnemonic = "dose purity curve bleak siren elevator cart merge interest injury lawn zone";
+var mnemonic = "flame portion sudden between pilot cover follow exotic weekend welcome nurse erosion";

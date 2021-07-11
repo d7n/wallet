@@ -1,1 +1,1 @@
-var mnemonic = "property donate secret settle foot tray wet lesson embark remind soda palace";
+var mnemonic = "daughter awesome diet quiz mass shed curtain yellow file ceiling eye pave";

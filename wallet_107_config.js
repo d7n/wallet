@@ -1,1 +1,1 @@
-var mnemonic = "cotton collect cost work army ready defy denial ill seat long crew";
+var mnemonic = "liquid season runway find humble fetch mansion ridge agent need creek tourist";

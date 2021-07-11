@@ -1,1 +1,1 @@
-var mnemonic = "jelly wood desk patient remain sniff pyramid broken toward play spread conduct";
+var mnemonic = "hybrid tumble ahead arrow various front hip enter avocado pipe ketchup fashion";

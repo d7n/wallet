@@ -1,1 +1,1 @@
-var mnemonic = "camera fly kiwi bonus parrot join gaze grab wink glare divert pulse";
+var mnemonic = "attend deputy arena rapid lens space useless flavor write income jacket damp";

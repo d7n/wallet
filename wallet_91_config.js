@@ -1,1 +1,1 @@
-var mnemonic = "distance kidney priority invite federal dial practice inform scout spoil warfare alley";
+var mnemonic = "sport enforce detail debate planet pull loop trust six valid photo panic";

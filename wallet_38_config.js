@@ -1,1 +1,1 @@
-var mnemonic = "oven fashion hungry coral idle grant asthma nation onion embody vague weekend";
+var mnemonic = "double front exit talk emotion winter eternal worth use over mystery focus";

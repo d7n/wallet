@@ -1,1 +1,1 @@
-var mnemonic = "embody side kitten suit web diesel buffalo brain mushroom capable vendor praise";
+var mnemonic = "soap mom salt twin jacket cigar onion pet twin play give hotel";

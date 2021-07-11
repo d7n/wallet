@@ -1,1 +1,1 @@
-var mnemonic = "quantum appear adapt shop hero utility key pill caught course volume glance";
+var mnemonic = "sweet force daughter youth jewel mercy hammer prosper mean rely token tired";

@@ -1,1 +1,1 @@
-var mnemonic = "cross please spider person check coast eagle bring rescue want load need";
+var mnemonic = "borrow evidence congress guess icon thunder mandate shoe era grass enjoy treat";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber wine junior sight tuition measure occur stay swarm female snack medal";
+var mnemonic = "tornado card lunch gap sad wheat crawl canyon tiger parrot lumber supreme";

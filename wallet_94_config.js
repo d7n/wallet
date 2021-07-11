@@ -1,1 +1,1 @@
-var mnemonic = "liquid pistol mimic river sphere priority defense labor juice minute tank defense";
+var mnemonic = "prepare bean aunt tool acquire mad toddler forum wreck arch void shiver";

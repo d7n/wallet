@@ -1,1 +1,1 @@
-var mnemonic = "enable connect manage clutch fee waste ginger intact initial armor odor slow";
+var mnemonic = "slight glass access unaware romance winner bulk theory solve globe year matrix";

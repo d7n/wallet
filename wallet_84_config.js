@@ -1,1 +1,1 @@
-var mnemonic = "worry define van cloth art minor legal wish version explain angle push";
+var mnemonic = "coast resource way misery canoe bargain lunch pilot boring famous post glow";

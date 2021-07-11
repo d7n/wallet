@@ -1,1 +1,1 @@
-var mnemonic = "belt clutch visit raccoon flip valid wisdom valve menu horror spoon notice";
+var mnemonic = "kitten all oil device hedgehog pulp hair coconut flavor island feel great";

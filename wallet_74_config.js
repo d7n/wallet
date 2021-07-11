@@ -1,1 +1,1 @@
-var mnemonic = "path under tool trust violin style stay silent name another path sudden";
+var mnemonic = "project napkin plunge old february ask allow blind melt viable pole ramp";

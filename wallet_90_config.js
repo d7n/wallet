@@ -1,1 +1,1 @@
-var mnemonic = "floor dice bridge use feature gloom member allow logic brush tortoise absurd";
+var mnemonic = "stock human rebuild love nation thunder long buzz critic wolf fresh pole";

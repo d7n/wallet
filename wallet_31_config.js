@@ -1,1 +1,1 @@
-var mnemonic = "expand various alpha multiply summer rally parrot mechanic cable effort dad brother";
+var mnemonic = "enhance cream satisfy add romance warfare execute movie scan fatigue solar rail";

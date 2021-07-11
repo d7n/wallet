@@ -1,1 +1,1 @@
-var mnemonic = "certain chief stem sell drama west soccer veteran access stage coyote park";
+var mnemonic = "fiction enable hundred uphold regular excite over element side quiz rug emerge";

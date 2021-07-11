@@ -1,1 +1,1 @@
-var mnemonic = "domain harvest design thing marriage fetch advice honey glass dutch deer misery";
+var mnemonic = "cradle finger cause orphan drive sentence bronze scrub viable shed valley sock";

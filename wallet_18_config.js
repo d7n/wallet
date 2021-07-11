@@ -1,1 +1,1 @@
-var mnemonic = "final winter smart dwarf civil crumble outer shrug soon elbow roast large";
+var mnemonic = "cheese one trim price squeeze juice leaf pear very movie over still";

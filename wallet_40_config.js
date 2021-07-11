@@ -1,1 +1,1 @@
-var mnemonic = "kind crew approve song river zone method walk vicious bubble interest fruit";
+var mnemonic = "gorilla yard boost steel provide crystal say laptop casino exotic clump keep";

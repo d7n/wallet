@@ -1,1 +1,1 @@
-var mnemonic = "march slice seat crush drama diary sponsor rice teach jewel clown kitchen";
+var mnemonic = "lucky harsh annual into flee actor bean anchor immense mandate liar reflect";

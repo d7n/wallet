@@ -1,1 +1,1 @@
-var mnemonic = "club critic describe solve index tissue banner rug person sibling artist drastic";
+var mnemonic = "custom cash project fresh miss obey kiss memory battle laptop butter clinic";

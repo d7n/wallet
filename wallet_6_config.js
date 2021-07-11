@@ -1,1 +1,1 @@
-var mnemonic = "catalog bubble essay firm benefit describe vessel shadow chunk pass siege wage";
+var mnemonic = "grief jewel alcohol decide idle vague decline install peace vital wear depend";

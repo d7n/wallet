@@ -1,1 +1,1 @@
-var mnemonic = "brief subway party toy nuclear super plate decline loan hill claim avocado";
+var mnemonic = "sustain feed soap target universe lunar random guide near tenant night huge";

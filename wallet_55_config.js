@@ -1,1 +1,1 @@
-var mnemonic = "bridge purity follow strategy festival when hawk mass season eight finger pretty";
+var mnemonic = "jar zero memory saddle drip animal hour bleak outer dinosaur youth skill";

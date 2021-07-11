@@ -1,1 +1,1 @@
-var mnemonic = "useful bulk unit stereo business ripple love indoor street purse rubber despair";
+var mnemonic = "auction hard blame spread clever garlic zone rookie transfer lizard swap eight";

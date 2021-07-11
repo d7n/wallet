@@ -1,1 +1,1 @@
-var mnemonic = "sail ahead scheme casino tent useless copy finish six acquire slow eye";
+var mnemonic = "flash swallow frozen park erupt reflect train slow hammer beef service since";

@@ -1,1 +1,1 @@
-var mnemonic = "green foam input matter news october screen dutch name victory depart frame";
+var mnemonic = "banner false stage cause walnut shy supply argue affair appear flat trumpet";

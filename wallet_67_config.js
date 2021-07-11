@@ -1,1 +1,1 @@
-var mnemonic = "mean diesel foam dish bounce little panda rare day fiber stamp melody";
+var mnemonic = "quantum duty issue zebra vacuum drink enjoy cheese ivory wreck ignore panda";

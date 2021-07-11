@@ -1,1 +1,1 @@
-var mnemonic = "swallow diagram gasp solid hybrid movie retire lecture such add decrease field";
+var mnemonic = "friend humor table race frozen sign alarm ensure ensure install liquid prison";

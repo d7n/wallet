@@ -1,1 +1,1 @@
-var mnemonic = "again walk tent daring reward kid enjoy morning reunion circle vapor burst";
+var mnemonic = "front tool myth goose worth cup drink grant people spider cinnamon three";

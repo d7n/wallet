@@ -1,1 +1,1 @@
-var mnemonic = "address derive depend result library extra behind tide bargain galaxy venture memory";
+var mnemonic = "mixed scatter coral jelly regular swing drum useful other shoot scorpion stand";
