@@ -1,1 +1,1 @@
-var mnemonic = "thing vicious gorilla jacket kiwi park trumpet glide always inflict pigeon squirrel";
+var mnemonic = "chuckle property insect width crowd between hawk idea always west tip movie";

@@ -1,1 +1,1 @@
-var mnemonic = "horse sorry jeans lunar giggle arrange leader session surface clump farm rough";
+var mnemonic = "hunt audit enough denial gun flower elder october hill elder theme beef";

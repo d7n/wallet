@@ -1,1 +1,1 @@
-var mnemonic = "frequent business solve distance favorite dose blue tent cost galaxy bleak twelve";
+var mnemonic = "nut tribe hire travel actual company expose dish gift spread mass eyebrow";

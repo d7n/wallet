@@ -1,1 +1,1 @@
-var mnemonic = "subway okay advice service pride bundle youth art torch wish skin credit";
+var mnemonic = "twelve together universe mother brush inform noise fortune champion marble disease print";

@@ -1,1 +1,1 @@
-var mnemonic = "drift gasp ticket move leaf cart thumb debris flame suspect wild help";
+var mnemonic = "odor tuition voyage just fog width execute donor until patient mobile marble";

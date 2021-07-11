@@ -1,1 +1,1 @@
-var mnemonic = "laundry hidden mandate kingdom inhale crisp copy acoustic figure mutual noise feed";
+var mnemonic = "attitude east rate snake cigar congress amazing toast prefer type lend second";

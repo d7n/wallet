@@ -1,1 +1,1 @@
-var mnemonic = "onion forest lion wrestle radar wood orient luxury damage erosion mass dune";
+var mnemonic = "flame aspect all alert tackle sunset proof annual enhance release lawn success";

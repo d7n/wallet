@@ -1,1 +1,1 @@
-var mnemonic = "grunt fury basket shallow fever liquid antenna mammal pelican permit winner puppy";
+var mnemonic = "provide scheme fashion lecture link witness damage else change guide plate grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme hair film rifle humble pill intact reveal concert effort picture advice";
+var mnemonic = "hamster bottom exhaust patch wrap team include industry shallow smart paddle donkey";

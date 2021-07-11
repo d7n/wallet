@@ -1,1 +1,1 @@
-var mnemonic = "scan stomach ring gravity doctor grocery camp congress link whisper survey asthma";
+var mnemonic = "salon legal science ginger world crystal brain empty orbit cricket recipe there";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate toe cement hotel immune battle crisp thought alert rookie hole trial";
+var mnemonic = "laundry dog recycle city bench time such age frown reform universe gravity";

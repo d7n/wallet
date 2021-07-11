@@ -1,1 +1,1 @@
-var mnemonic = "leg barely boss spawn loud stem ice budget artefact cousin enact into";
+var mnemonic = "future mean shove card indoor royal angle prize during review suit raw";

@@ -1,1 +1,1 @@
-var mnemonic = "tube similar paddle exhaust basic buyer hire wall army tiger squeeze dutch";
+var mnemonic = "stove control chest bring afford boy ripple milk possible include syrup plate";

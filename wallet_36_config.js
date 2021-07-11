@@ -1,1 +1,1 @@
-var mnemonic = "animal travel exotic citizen long obscure genuine domain toward whip virus foam";
+var mnemonic = "fluid leg index minor fury basket village convince replace only extend maple";

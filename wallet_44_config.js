@@ -1,1 +1,1 @@
-var mnemonic = "display check august roof climb vault sadness kiwi pulse dad luggage sugar";
+var mnemonic = "scheme bike armor hammer budget concert crazy crystal nest film song choice";

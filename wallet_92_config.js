@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit degree merry under town mistake limit vivid fossil term city embody";
+var mnemonic = "bachelor occur bag paddle math quote mercy pride local artefact tube soldier";

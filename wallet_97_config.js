@@ -1,1 +1,1 @@
-var mnemonic = "frown appear review bid sadness walk runway quality bring distance copy submit";
+var mnemonic = "tail toward bread supply gasp same tribe away nut public whisper divert";

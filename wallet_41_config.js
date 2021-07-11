@@ -1,1 +1,1 @@
-var mnemonic = "soap trumpet ramp divide high scatter silly market siege cave myth fury";
+var mnemonic = "wild owner crew virtual girl setup fringe present load open anchor spider";

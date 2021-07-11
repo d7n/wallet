@@ -1,1 +1,1 @@
-var mnemonic = "stone half blur fetch bronze glide torch gaze service vessel diagram rude";
+var mnemonic = "surface ten filter click puppy truth chimney copy ancient view surface spin";

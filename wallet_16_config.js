@@ -1,1 +1,1 @@
-var mnemonic = "glass rigid test donate demise tortoise manage embark similar rotate doll enrich";
+var mnemonic = "whisper crew pony advice cereal wish envelope scissors upgrade crouch word across";

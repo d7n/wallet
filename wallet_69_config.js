@@ -1,1 +1,1 @@
-var mnemonic = "viable empty bind ankle happy obscure situate coil slice evoke abuse page";
+var mnemonic = "riot loud glimpse glad prepare ancient hello order cement flip valid future";

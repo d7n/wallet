@@ -1,1 +1,1 @@
-var mnemonic = "echo race chaos flavor risk across view quiz steak boy denial access";
+var mnemonic = "surprise fiber menu happy way client beauty party time fold toddler mouse";

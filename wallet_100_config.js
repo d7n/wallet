@@ -1,1 +1,1 @@
-var mnemonic = "luxury become open rival light shaft suit assault total fall social timber";
+var mnemonic = "series era prepare junior stadium biology brain brave wool estate course like";

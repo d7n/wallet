@@ -1,1 +1,1 @@
-var mnemonic = "random ring absurd despair finger attend citizen whale noble novel clutch pattern";
+var mnemonic = "edge neglect team online actor cargo neck rich creek loud glare disagree";

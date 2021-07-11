@@ -1,1 +1,1 @@
-var mnemonic = "chef name shrug pulse inmate final draw abuse foster whisper skill parade";
+var mnemonic = "rifle name valve tell solar live coral element armed speed choice swing";

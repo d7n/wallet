@@ -1,1 +1,1 @@
-var mnemonic = "cash sudden sure toward put glory brush estate antique evidence stairs mirror";
+var mnemonic = "social mushroom rabbit carbon empower myth turtle shift useful unhappy silk rose";

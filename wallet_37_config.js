@@ -1,1 +1,1 @@
-var mnemonic = "cactus wagon hurry merge betray coin spring excess endorse early exclude radar";
+var mnemonic = "rapid into number renew east delay lunch address prison uphold cabbage alarm";

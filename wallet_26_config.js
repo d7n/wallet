@@ -1,1 +1,1 @@
-var mnemonic = "away bunker snake theory nest code welcome nut heavy dish pony milk";
+var mnemonic = "other maximum tennis ring utility trash scissors vital region trick jazz salt";

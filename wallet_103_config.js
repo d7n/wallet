@@ -1,1 +1,1 @@
-var mnemonic = "huge cabin spray fiscal hat essence process frozen try web canyon steel";
+var mnemonic = "butter birth chicken obey top load equal asset grief solar hip today";

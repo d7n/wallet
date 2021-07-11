@@ -1,1 +1,1 @@
-var mnemonic = "fiction bottom video face hospital nice cute void enrich bargain coast supreme";
+var mnemonic = "cloud wonder omit family man fly theme monitor own kangaroo eternal minute";

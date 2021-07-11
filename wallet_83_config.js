@@ -1,1 +1,1 @@
-var mnemonic = "hard rack honey black image tissue uncle useful tower subject chuckle enhance";
+var mnemonic = "witness labor pulp cargo era enact spirit hard become someone market carry";

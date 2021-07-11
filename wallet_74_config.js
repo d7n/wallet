@@ -1,1 +1,1 @@
-var mnemonic = "round sing plastic rude myth shop forget income adult word false rubber";
+var mnemonic = "order hurdle screen april arctic feel thought list cushion nominee sick broken";

@@ -1,1 +1,1 @@
-var mnemonic = "art near claw depend school dance exist horror forget staff peace father";
+var mnemonic = "flock book syrup ramp pass repair poverty tired coffee unit frame music";

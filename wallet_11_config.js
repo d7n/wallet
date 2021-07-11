@@ -1,1 +1,1 @@
-var mnemonic = "brown taxi case display burger charge initial betray lottery vivid swap high";
+var mnemonic = "flight merry attitude art heart blur dawn verify cliff another enrich awesome";

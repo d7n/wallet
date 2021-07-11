@@ -1,1 +1,1 @@
-var mnemonic = "empty worry cradle hammer era shop cat carpet air cloth speed knock";
+var mnemonic = "slide loop slam gain course crisp corn remind safe describe network debate";

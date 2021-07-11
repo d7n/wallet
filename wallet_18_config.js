@@ -1,1 +1,1 @@
-var mnemonic = "denial health loyal retreat fly prevent lounge device large dance engine inch";
+var mnemonic = "fitness blouse attitude tooth require frame twice crop head tone aunt trend";

@@ -1,1 +1,1 @@
-var mnemonic = "category trip save address reunion what interest noodle smile subway quiz razor";
+var mnemonic = "load addict general cabin grief army damage quick divide south neither title";

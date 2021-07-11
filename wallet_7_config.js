@@ -1,1 +1,1 @@
-var mnemonic = "awkward essay woman vocal shield ball cigar language retire property coral urge";
+var mnemonic = "donkey wrap hello wear deer bounce acquire post settle senior purchase furnace";

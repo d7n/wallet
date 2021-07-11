@@ -1,1 +1,1 @@
-var mnemonic = "myself prepare blood social urge theory lizard health satoshi carpet planet exclude";
+var mnemonic = "fence token cattle spot man bread noodle broccoli observe olympic right radar";

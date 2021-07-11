@@ -1,1 +1,1 @@
-var mnemonic = "sure ritual debris solution journey pave also undo recipe pledge era scale";
+var mnemonic = "canoe burger web nurse century romance during real soup rich hammer midnight";

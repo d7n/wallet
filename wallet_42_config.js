@@ -1,1 +1,1 @@
-var mnemonic = "wage receive abandon column adapt become donor riot romance wreck install mammal";
+var mnemonic = "tenant bring diet nominee sock candy artist window tackle govern cargo tumble";

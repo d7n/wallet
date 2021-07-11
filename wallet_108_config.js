@@ -1,1 +1,1 @@
-var mnemonic = "link gossip delay bean moral person connect gloom ramp eagle exist brave";
+var mnemonic = "despair surround gossip balance casino purse mobile bird struggle disease hotel material";

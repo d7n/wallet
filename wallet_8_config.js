@@ -1,1 +1,1 @@
-var mnemonic = "alpha echo congress giraffe praise mechanic school blood speed dynamic venture link";
+var mnemonic = "response lonely define tourist genius avocado cart purse health arch olympic black";

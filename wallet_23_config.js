@@ -1,1 +1,1 @@
-var mnemonic = "false excuse grocery online auction segment dose vacuum advice vivid toy tip";
+var mnemonic = "coin zoo level news bicycle bullet answer pumpkin exile beauty table moon";

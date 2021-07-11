@@ -1,1 +1,1 @@
-var mnemonic = "visa ribbon hole enter kingdom smoke fox resemble obvious govern idle dawn";
+var mnemonic = "fall ghost anxiety equip smile hen trash muscle rhythm retreat flee then";

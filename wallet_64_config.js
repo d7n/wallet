@@ -1,1 +1,1 @@
-var mnemonic = "apart amount clarify damp screen tragic magnet early bargain unveil judge country";
+var mnemonic = "finger moral dolphin chicken dove estate issue furnace denial wheel fit orchard";

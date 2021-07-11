@@ -1,1 +1,1 @@
-var mnemonic = "color midnight occur neglect angle skin song venture peanut minute kid body";
+var mnemonic = "address tennis time trick mistake video sunset purse sponsor correct cave ivory";

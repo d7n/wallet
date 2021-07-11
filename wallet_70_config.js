@@ -1,1 +1,1 @@
-var mnemonic = "consider chronic mass holiday lottery goose monkey emerge bullet normal region coach";
+var mnemonic = "scrap service attend purpose story similar hair rude sentence like party rose";

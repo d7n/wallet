@@ -1,1 +1,1 @@
-var mnemonic = "wet canyon draft fashion wild collect toddler ability muscle find bonus mimic";
+var mnemonic = "fall table whip please night useless alone crazy critic culture wise merry";

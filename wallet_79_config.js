@@ -1,1 +1,1 @@
-var mnemonic = "useful fold master legend regular arena stand kiwi expand seed gain quote";
+var mnemonic = "large door awake wreck chronic negative pelican afraid tube endorse okay prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "hill ginger weird bullet comfort nest twist screen world antique gate please";
+var mnemonic = "fix machine rebuild live dice fiction shine tail report unhappy above style";

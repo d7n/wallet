@@ -1,1 +1,1 @@
-var mnemonic = "below knee duck owner cloud verb midnight measure catalog chunk venue hover";
+var mnemonic = "grow cake mass boy canvas invest holiday bullet index journey churn wage";

@@ -1,1 +1,1 @@
-var mnemonic = "latin remove traffic arctic frown audit protect wrong imitate mechanic gadget hedgehog";
+var mnemonic = "firm permit bunker domain spring fee tent buddy chat color syrup office";

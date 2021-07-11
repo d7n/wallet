@@ -1,1 +1,1 @@
-var mnemonic = "subway reopen hockey alter close ecology brown garment casual clerk tattoo before";
+var mnemonic = "trick guard panda hello elder floor vivid beef dial next cruise element";

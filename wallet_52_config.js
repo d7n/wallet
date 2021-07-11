@@ -1,1 +1,1 @@
-var mnemonic = "sand sunny inch lucky topple silk key evil midnight iron radio advice";
+var mnemonic = "defy turtle lucky later crowd avoid major volume jar casual culture distance";

@@ -1,1 +1,1 @@
-var mnemonic = "live blanket world empty phrase oppose immune neck taste liberty square rather";
+var mnemonic = "mix vault frog host energy youth betray lava goddess wasp volume letter";

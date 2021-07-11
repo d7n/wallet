@@ -1,1 +1,1 @@
-var mnemonic = "intact bachelor maple detail impose permit transfer essence avocado bonus best news";
+var mnemonic = "dance melt corn come clap great outdoor taxi balance also fork beach";

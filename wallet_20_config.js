@@ -1,1 +1,1 @@
-var mnemonic = "book split canoe cry song mobile answer blade glove clerk viable grain";
+var mnemonic = "hire brand august remember local odor slam scrap poet gauge kiss way";

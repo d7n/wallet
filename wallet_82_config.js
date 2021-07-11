@@ -1,1 +1,1 @@
-var mnemonic = "mercy dinosaur fringe scare predict beach fatigue help man shed now physical";
+var mnemonic = "unveil hurdle diesel abandon virus liar where december avocado corn burst diamond";

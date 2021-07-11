@@ -1,1 +1,1 @@
-var mnemonic = "bright render category neither grain boil pride acid ridge clown erupt tail";
+var mnemonic = "eyebrow hen range assist undo always profit kitchen relax abstract fiscal slam";

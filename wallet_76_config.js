@@ -1,1 +1,1 @@
-var mnemonic = "own acid praise voyage order amount bleak food slam dinner mosquito busy";
+var mnemonic = "mixed doctor merit tent cabin follow asthma above similar hurt kind mother";

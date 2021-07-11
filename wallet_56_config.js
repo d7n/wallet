@@ -1,1 +1,1 @@
-var mnemonic = "future old source problem shadow predict salt sunset double cactus joy jungle";
+var mnemonic = "farm whisper rabbit client post mask stuff onion abstract ski broom bachelor";

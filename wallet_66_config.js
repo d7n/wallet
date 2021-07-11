@@ -1,1 +1,1 @@
-var mnemonic = "face raw legend embody version tortoise below hub decrease cup fresh coil";
+var mnemonic = "review tone muffin century evoke rent twin inch matrix picture elephant area";

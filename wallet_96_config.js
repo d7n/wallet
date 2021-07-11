@@ -1,1 +1,1 @@
-var mnemonic = "beauty tray reform gun plastic prize move stamp weekend view fade fossil";
+var mnemonic = "humor boss denial maze midnight gain spirit damp water silver protect robot";

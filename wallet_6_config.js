@@ -1,1 +1,1 @@
-var mnemonic = "basket spread enlist tissue fiction antenna derive topic rare weapon husband gentle";
+var mnemonic = "comfort unfair kiwi quiz ugly more athlete wool woman party able entire";

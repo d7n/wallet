@@ -1,1 +1,1 @@
-var mnemonic = "notice wonder dizzy mechanic company rate vote fiber swap beef trash novel";
+var mnemonic = "grape humor aerobic dress salon nation cluster width gorilla yard mule angle";

@@ -1,1 +1,1 @@
-var mnemonic = "spring hub zoo embark lobster security brush price unable patch honey include";
+var mnemonic = "royal safe pride clog knife stone napkin maid proud gospel foster fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "major flip session estate call brown legal physical cereal agree bind phone";
+var mnemonic = "inherit stem carry mutual carbon fog taste snake news alter unveil bounce";

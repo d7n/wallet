@@ -1,1 +1,1 @@
-var mnemonic = "veteran popular soldier ginger social knife rail noble wine rib orbit submit";
+var mnemonic = "inject team draft fever teach visual sign bonus puzzle snack dust saddle";

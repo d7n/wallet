@@ -1,1 +1,1 @@
-var mnemonic = "process media festival silent limb miss devote extend salad reason addict mammal";
+var mnemonic = "aunt recall early range engage laundry imitate chuckle fatigue account appear fix";

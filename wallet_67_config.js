@@ -1,1 +1,1 @@
-var mnemonic = "divide involve predict oven feel drill rug unfair attend clutch oval bottom";
+var mnemonic = "floor pill appear daughter cotton pistol dutch rib survey gown almost okay";

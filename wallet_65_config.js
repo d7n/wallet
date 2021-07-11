@@ -1,1 +1,1 @@
-var mnemonic = "oven film amount empty sorry reason bike head emotion tobacco tray pluck";
+var mnemonic = "search pistol small crane surge sort lift sweet olive tenant vacuum hidden";

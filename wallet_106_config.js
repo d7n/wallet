@@ -1,1 +1,1 @@
-var mnemonic = "equip loan churn degree dice enact age enlist net piece style novel";
+var mnemonic = "magnet web tenant race used sniff code hundred total under shove update";

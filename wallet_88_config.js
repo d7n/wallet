@@ -1,1 +1,1 @@
-var mnemonic = "news motion pudding neither leopard menu ridge column south order rule matter";
+var mnemonic = "hood nurse relief lab rice deputy mule monkey avocado embrace pledge room";

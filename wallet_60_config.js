@@ -1,1 +1,1 @@
-var mnemonic = "turn pioneer source various camera left state expose color image broken mosquito";
+var mnemonic = "female elite arrange slogan taxi work sauce because office champion stem cube";

@@ -1,1 +1,1 @@
-var mnemonic = "fog novel hair inquiry promote cover vault truck over mango gun unveil";
+var mnemonic = "tilt denial recall fire boy glue drink interest flip girl salon wreck";

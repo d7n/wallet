@@ -1,1 +1,1 @@
-var mnemonic = "peasant fossil produce certain resemble zoo silver badge capable embrace long speak";
+var mnemonic = "dutch print grape hollow diamond brick verify grief goddess alter field rescue";

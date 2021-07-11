@@ -1,1 +1,1 @@
-var mnemonic = "car rely boring clap basic fence alcohol park theme forget tenant message";
+var mnemonic = "use glove dial asset police track copper infant submit track under evolve";

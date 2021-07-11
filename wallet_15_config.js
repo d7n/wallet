@@ -1,1 +1,1 @@
-var mnemonic = "kiss tennis matter buddy baby december ahead avoid school normal whale labor";
+var mnemonic = "trap isolate mention best suit coin vague vibrant action risk message spoon";

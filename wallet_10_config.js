@@ -1,1 +1,1 @@
-var mnemonic = "illegal duck unlock dash artefact setup noise borrow image abandon inquiry hospital";
+var mnemonic = "doctor that hedgehog slice cook object hospital crop depend pottery wet bicycle";

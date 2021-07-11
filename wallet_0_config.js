@@ -1,1 +1,1 @@
-var mnemonic = "junk end surround episode syrup vicious index match churn skull cross away";
+var mnemonic = "bicycle lizard urge surface infant trap lend legal gown patient jewel world";

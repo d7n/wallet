@@ -1,1 +1,1 @@
-var mnemonic = "cattle autumn diagram label genius squeeze check scheme ethics minute mouse caution";
+var mnemonic = "behave bonus void mechanic near benefit story grocery stage sail soft wagon";

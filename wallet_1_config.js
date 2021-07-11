@@ -1,1 +1,1 @@
-var mnemonic = "orient train stool industry license govern onion believe win pipe donate avocado";
+var mnemonic = "interest earth razor shoe because mystery reopen accident magic regular scrap fog";

@@ -1,1 +1,1 @@
-var mnemonic = "toe abstract piano powder mobile trip enable pole task pyramid around act";
+var mnemonic = "reunion reduce enemy settle keep intact setup arrest walk monster method saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace harbor harbor february undo father eager fetch price depart rabbit exile";
+var mnemonic = "toe alarm bless volume focus tiny music public document lottery express crisp";

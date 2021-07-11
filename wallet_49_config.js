@@ -1,1 +1,1 @@
-var mnemonic = "awesome chicken coach liquid master blush bullet involve envelope talent art elephant";
+var mnemonic = "pelican erosion powder input bargain venue hole entire coach swift faculty humble";

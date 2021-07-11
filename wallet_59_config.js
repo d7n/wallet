@@ -1,1 +1,1 @@
-var mnemonic = "slogan inject matter rebel beef cool sketch finish good panic punch tray";
+var mnemonic = "lady over notable mind catalog crowd despair street swear obey chest spin";
