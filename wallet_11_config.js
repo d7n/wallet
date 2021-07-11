@@ -1,1 +1,1 @@
-var mnemonic = "typical mushroom globe giggle enemy cotton rice recipe course cheap mesh start";
+var mnemonic = "border anchor dismiss what crater sleep stomach sea pudding core bridge nerve";

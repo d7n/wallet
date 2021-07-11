@@ -1,1 +1,1 @@
-var mnemonic = "olive album evolve pizza accuse strategy lecture half inmate lumber clip imitate";
+var mnemonic = "gym edge clerk deposit loan shadow business swap planet glue arena cabin";

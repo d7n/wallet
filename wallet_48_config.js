@@ -1,1 +1,1 @@
-var mnemonic = "fun spin nice border model keen come relief syrup above churn comic";
+var mnemonic = "tank maple suit liberty mouse prison suit multiply fog thing okay room";

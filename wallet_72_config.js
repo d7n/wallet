@@ -1,1 +1,1 @@
-var mnemonic = "until boss season screen marine design virus blanket animal equal right deposit";
+var mnemonic = "moon census tattoo harbor pause tone spoil rate captain limit boring any";

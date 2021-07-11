@@ -1,1 +1,1 @@
-var mnemonic = "advice cigar sausage dress opinion tonight wild ugly convince scheme clever save";
+var mnemonic = "tower panic tiger throw patch solid shy fan blossom creek review true";

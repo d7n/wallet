@@ -1,1 +1,1 @@
-var mnemonic = "tube coconut rather cook base object fun raw maximum fox retire shell";
+var mnemonic = "hold runway calm film solve limb damp coconut innocent mixed pony farm";

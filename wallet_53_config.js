@@ -1,1 +1,1 @@
-var mnemonic = "output denial roof truck rookie shed between blush effort curve child lion";
+var mnemonic = "category naive vibrant select solve offer maple cruel disorder cereal sample wolf";

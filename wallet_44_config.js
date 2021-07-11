@@ -1,1 +1,1 @@
-var mnemonic = "among pepper quiz that shaft culture when guilt dance reject rich journey";
+var mnemonic = "moon pizza wink abstract ribbon whisper main gas giant then quantum perfect";

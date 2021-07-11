@@ -1,1 +1,1 @@
-var mnemonic = "school profit message topple energy inflict panel bounce lady canal boring chuckle";
+var mnemonic = "response crazy cabbage vague exile exhibit gun canyon polar zone busy barely";

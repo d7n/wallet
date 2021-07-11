@@ -1,1 +1,1 @@
-var mnemonic = "broom heavy call venture help latin wedding afford erosion youth artist verb";
+var mnemonic = "video bench expand globe manage cluster sure force obtain trick refuse local";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous comfort identify resource canoe drift gasp glory avocado cube ridge alcohol";
+var mnemonic = "endless crater leisure speed what tide giant payment tourist gossip margin goat";

@@ -1,1 +1,1 @@
-var mnemonic = "hen seed into modify act kiss decrease pupil add goose across crush";
+var mnemonic = "box wire type tilt side blind various pride broken city differ ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "north high mad object finger east army decorate pistol this surface twenty";
+var mnemonic = "twin joy despair later adjust venture kiwi twelve thing rough one spread";

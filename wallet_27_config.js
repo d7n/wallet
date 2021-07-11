@@ -1,1 +1,1 @@
-var mnemonic = "shove distance lumber unlock reform lion ten direct clutch warrior thrive awesome";
+var mnemonic = "diagram manage street this wait smart sheriff minute park group cook antique";

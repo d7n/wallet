@@ -1,1 +1,1 @@
-var mnemonic = "ugly squirrel thrive moon violin recycle retreat pet best two auction strategy";
+var mnemonic = "music reunion dignity repair broken under catalog unveil pole normal domain wave";

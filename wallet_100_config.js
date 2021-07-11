@@ -1,1 +1,1 @@
-var mnemonic = "coil oxygen space invite liquid motor work chapter script one toss open";
+var mnemonic = "tower melt umbrella hurt stamp pottery damp ladder habit annual can vintage";

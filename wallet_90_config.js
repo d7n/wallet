@@ -1,1 +1,1 @@
-var mnemonic = "ankle post session prevent fix noodle put rain goose speak supreme dash";
+var mnemonic = "emotion solution print depend lunch divert own embody club emerge high toe";

@@ -1,1 +1,1 @@
-var mnemonic = "divert client rabbit mosquito stem dust merit trip swamp spread smile tomato";
+var mnemonic = "forest dance chuckle banner cinnamon donate code course purity pilot clever rhythm";

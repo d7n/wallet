@@ -1,1 +1,1 @@
-var mnemonic = "surprise grief mixture camp lady senior siege grab craft december hundred staff";
+var mnemonic = "grit decide install output ketchup hair isolate grace price volcano ripple extra";

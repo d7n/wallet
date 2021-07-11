@@ -1,1 +1,1 @@
-var mnemonic = "laugh hurt core tunnel ceiling enlist casual dream broccoli satisfy mother real";
+var mnemonic = "reopen neither regular hope tortoise valid reunion tonight debate spread hockey type";

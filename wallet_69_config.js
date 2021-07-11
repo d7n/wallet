@@ -1,1 +1,1 @@
-var mnemonic = "pupil blossom turtle urge subject speak neither lemon knock current grocery first";
+var mnemonic = "fashion lecture when stick comic portion solid adult clever brief capital verb";

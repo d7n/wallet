@@ -1,1 +1,1 @@
-var mnemonic = "road ignore gas reopen act napkin ordinary fatal chest general avocado error";
+var mnemonic = "unlock grace minute ice lesson envelope rotate bitter urge shed rabbit thumb";

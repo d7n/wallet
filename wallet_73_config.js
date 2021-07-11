@@ -1,1 +1,1 @@
-var mnemonic = "light best label lady owner length apology odor pottery coast resemble aware";
+var mnemonic = "blast like gadget science scatter shoe idea maximum sample gaze duty pepper";

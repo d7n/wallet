@@ -1,1 +1,1 @@
-var mnemonic = "achieve engine bring one sick edge general purity retreat total tongue repair";
+var mnemonic = "jar female obscure repair toilet swear slim pole gold salad air sentence";

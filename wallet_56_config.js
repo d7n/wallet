@@ -1,1 +1,1 @@
-var mnemonic = "tree hair retire hybrid list foam warfare area ridge copy output aunt";
+var mnemonic = "catalog find demise crowd six embody kind clip together chicken hungry weapon";

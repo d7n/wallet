@@ -1,1 +1,1 @@
-var mnemonic = "there tide broken another body shrimp good boss glow rose secret lawsuit";
+var mnemonic = "basket youth artwork original grape sweet lazy kitten odor view unaware worth";

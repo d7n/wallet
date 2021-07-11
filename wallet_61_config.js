@@ -1,1 +1,1 @@
-var mnemonic = "agent torch chef violin clump spin gym unhappy unable when know arctic";
+var mnemonic = "border goose glare tuition only leopard seek amused current welcome throw tumble";

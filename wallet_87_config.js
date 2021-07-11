@@ -1,1 +1,1 @@
-var mnemonic = "gesture notable dismiss globe tonight cloth seek agent multiply ability limit december";
+var mnemonic = "dawn lab must friend obey hundred hotel lava action side guard account";

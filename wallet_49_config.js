@@ -1,1 +1,1 @@
-var mnemonic = "track brown crystal identify diary exit tell ensure virtual duck frown ketchup";
+var mnemonic = "addict title produce hybrid random elephant egg slush crash police gesture thought";

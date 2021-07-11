@@ -1,1 +1,1 @@
-var mnemonic = "more ivory general nothing sea initial resist master shock dish warfare inherit";
+var mnemonic = "author wreck scale fatal belt loop govern limit cake general whip layer";

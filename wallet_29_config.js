@@ -1,1 +1,1 @@
-var mnemonic = "rocket assault dinner siege tray first kid knife labor auto hill cement";
+var mnemonic = "capable author power frequent neck pupil erase exact phrase hamster ride lift";

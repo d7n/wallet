@@ -1,1 +1,1 @@
-var mnemonic = "daughter juice remain speak color bicycle sadness moral million volume motion horn";
+var mnemonic = "wolf twenty slab wear boss sugar trumpet bunker paper entire make horror";

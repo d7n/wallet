@@ -1,1 +1,1 @@
-var mnemonic = "blush mention hidden father boy mandate fine sting correct party display awake";
+var mnemonic = "suit obtain coach canal forest obscure ill parade dress crush cargo orbit";

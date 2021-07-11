@@ -1,1 +1,1 @@
-var mnemonic = "cement balcony measure silly better can fine mango nest swift verb unhappy";
+var mnemonic = "polar dizzy wear uncle again table recycle kid rain chicken tag metal";

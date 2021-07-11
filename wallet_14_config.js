@@ -1,1 +1,1 @@
-var mnemonic = "warrior dwarf tiger adapt reopen nose current bacon tobacco found orange exercise";
+var mnemonic = "radio deal clap cliff milk secret student connect hobby lava deer tiger";

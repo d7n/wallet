@@ -1,1 +1,1 @@
-var mnemonic = "cancel loyal tiny hand outer carpet cabbage rival humor load sign sustain";
+var mnemonic = "boring morning entry base mail debate trap universe achieve flush zero code";

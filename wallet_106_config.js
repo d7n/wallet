@@ -1,1 +1,1 @@
-var mnemonic = "wheat gesture regret abstract lion say nominee industry immense isolate ivory address";
+var mnemonic = "assist expect among slot tornado electric deal cotton device speak enrich cross";

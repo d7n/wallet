@@ -1,1 +1,1 @@
-var mnemonic = "cricket either region slot wire basket path harvest usual friend silk sun";
+var mnemonic = "craft intact shuffle teach drop crater submit cheese tissue sick tag cricket";

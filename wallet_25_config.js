@@ -1,1 +1,1 @@
-var mnemonic = "void fox resource unveil young angle such sound occur exclude reveal crazy";
+var mnemonic = "fee repeat nasty broccoli rigid defense erase camera legal antenna grass market";

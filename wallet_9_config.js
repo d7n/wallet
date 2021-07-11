@@ -1,1 +1,1 @@
-var mnemonic = "lyrics unfold upset spice good drastic remember liar sick gold village flavor";
+var mnemonic = "hotel neutral ski install blood happy liberty surround hope return abstract suffer";

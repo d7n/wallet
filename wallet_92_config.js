@@ -1,1 +1,1 @@
-var mnemonic = "demise task uphold medal anchor actress apple pottery gallery present swear frown";
+var mnemonic = "short peanut cream mountain people gesture taxi glove design hurt ill industry";

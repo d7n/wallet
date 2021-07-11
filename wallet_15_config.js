@@ -1,1 +1,1 @@
-var mnemonic = "acoustic pattern embody rail wealth cream spoil noodle axis danger radar process";
+var mnemonic = "shuffle basic pledge decide chef suspect cute tortoise pyramid shop soon attack";

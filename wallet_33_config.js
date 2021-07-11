@@ -1,1 +1,1 @@
-var mnemonic = "feed mosquito winter believe fancy wink coin round inner stuff siege great";
+var mnemonic = "donkey later hammer repair bulk excuse hollow endless wrap deliver marine pudding";

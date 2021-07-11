@@ -1,1 +1,1 @@
-var mnemonic = "mobile expose daring end exhaust thumb thought chief merry useful segment claw";
+var mnemonic = "strategy mistake craft knife hurry nasty evidence guard habit little tonight climb";

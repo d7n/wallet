@@ -1,1 +1,1 @@
-var mnemonic = "believe coast sand vintage boat scatter fan one arena slam protect diamond";
+var mnemonic = "index grid wolf reason ripple critic sugar all banner good fuel rude";

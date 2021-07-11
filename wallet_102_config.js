@@ -1,1 +1,1 @@
-var mnemonic = "noble twelve track welcome crush burden force surprise identify immune universe shock";
+var mnemonic = "term seven swim hungry busy window spatial reveal captain impulse diet rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "risk orphan reopen movie pull you poet mutual gorilla endorse diet raccoon";
+var mnemonic = "parent oppose regular photo sleep possible genius infant trap wrap surface bundle";

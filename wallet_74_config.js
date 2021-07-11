@@ -1,1 +1,1 @@
-var mnemonic = "comfort wait wedding physical fatigue danger acquire media aunt bamboo wheel unfold";
+var mnemonic = "field actor federal general icon pencil castle peanut match mind tide giant";

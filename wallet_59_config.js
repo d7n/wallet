@@ -1,1 +1,1 @@
-var mnemonic = "result offer draw erupt broken tomato crawl proud pair upgrade alpha lock";
+var mnemonic = "current uphold stove crumble cup valve wonder soccer assume illegal upgrade shock";

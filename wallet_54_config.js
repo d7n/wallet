@@ -1,1 +1,1 @@
-var mnemonic = "guide mirror rural myself edge cause quantum dumb lazy learn enable dignity";
+var mnemonic = "damage abandon replace protect stuff improve brass congress task answer initial receive";

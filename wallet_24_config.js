@@ -1,1 +1,1 @@
-var mnemonic = "dune race food enroll pelican palace chase coyote happy simple feel erase";
+var mnemonic = "foot loan trick envelope program labor together wealth valve point crew menu";

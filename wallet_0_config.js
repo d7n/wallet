@@ -1,1 +1,1 @@
-var mnemonic = "rice beef point destroy link art coffee nominee pelican pet witness napkin";
+var mnemonic = "defense ring crash feel envelope flat vague mammal palm use scrap summer";

@@ -1,1 +1,1 @@
-var mnemonic = "guide leader polar romance reform immense luxury horn museum news repair spread";
+var mnemonic = "rent chapter pave section pull choose cabin inmate buddy also orange identify";

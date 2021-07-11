@@ -1,1 +1,1 @@
-var mnemonic = "dragon forest toward remember nothing army bus hover minor language aerobic guess";
+var mnemonic = "plastic invest safe cloud imitate ill ranch wise flower visual stool potato";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke feel amused only disorder illegal must blade faint rubber uncle payment";
+var mnemonic = "among pulse smart reunion goose axis antenna harbor live youth weapon scrap";

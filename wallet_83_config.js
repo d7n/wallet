@@ -1,1 +1,1 @@
-var mnemonic = "field audit rely scatter skirt ankle embody subway universe orchard logic silly";
+var mnemonic = "typical tribe goat emerge mammal glue add whale cherry man stuff flavor";

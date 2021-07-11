@@ -1,1 +1,1 @@
-var mnemonic = "kitchen nominee public nasty oyster emerge sentence ozone gaze ready universe price";
+var mnemonic = "figure pond six chalk glide tag dog second victory scout pulp glance";

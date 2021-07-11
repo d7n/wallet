@@ -1,1 +1,1 @@
-var mnemonic = "expire sponsor chaos riot wage catalog ready file sleep crime since forward";
+var mnemonic = "cushion sense okay shove plug merry fury misery adjust anger assault bread";

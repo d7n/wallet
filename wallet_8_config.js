@@ -1,1 +1,1 @@
-var mnemonic = "ivory foot mad minor kind hold print action cave mom observe route";
+var mnemonic = "sunny rug pink pen truth various venue equip blade message turtle banner";

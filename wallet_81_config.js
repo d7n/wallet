@@ -1,1 +1,1 @@
-var mnemonic = "stable false either topic damage duty civil dismiss heavy miss february pipe";
+var mnemonic = "ahead tornado tattoo pioneer moral ivory lava exist brain crop two forum";

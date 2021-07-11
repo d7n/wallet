@@ -1,1 +1,1 @@
-var mnemonic = "inform zoo outer enhance eight hawk series labor control sudden icon during";
+var mnemonic = "surface carpet tool damage position limit draft wife disorder youth denial cross";

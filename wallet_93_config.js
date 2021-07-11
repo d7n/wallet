@@ -1,1 +1,1 @@
-var mnemonic = "hour volcano fly current town differ museum scrub taxi favorite morning wine";
+var mnemonic = "decrease gospel young possible boss simple noodle hammer clown fitness song noble";

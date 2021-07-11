@@ -1,1 +1,1 @@
-var mnemonic = "peace tiger insane smile artist record regular lawsuit volcano bitter identify usual";
+var mnemonic = "battle okay artwork pen amateur office dragon embrace neck theory garlic few";

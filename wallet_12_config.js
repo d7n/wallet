@@ -1,1 +1,1 @@
-var mnemonic = "double latin moral radar board exit palm away decrease flip tumble valve";
+var mnemonic = "dune clerk finger lemon army material change eager parent profit judge fold";

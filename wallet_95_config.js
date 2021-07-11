@@ -1,1 +1,1 @@
-var mnemonic = "boat moral humble lend proud autumn inquiry soon federal disagree rally tail";
+var mnemonic = "pencil bargain vast govern impact topic bench book grocery often unlock world";

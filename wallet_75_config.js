@@ -1,1 +1,1 @@
-var mnemonic = "diary curious zebra check hurdle vendor august report this wash route proof";
+var mnemonic = "wire drastic problem ball pistol offer check pill bullet echo snow book";

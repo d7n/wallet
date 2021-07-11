@@ -1,1 +1,1 @@
-var mnemonic = "permit caught awkward secret visit lion right then reveal cook aunt peasant";
+var mnemonic = "bacon omit verify donor excess six public wolf often breeze popular group";

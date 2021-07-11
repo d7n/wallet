@@ -1,1 +1,1 @@
-var mnemonic = "diary wink tackle report purchase exile fame puzzle renew scrap under wreck";
+var mnemonic = "corn spin hint decline lunch seminar off flight curtain save proud satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "primary autumn stairs come refuse destroy harbor proof wrestle deer rival music";
+var mnemonic = "ring among cradle razor jump trumpet bind vendor often fade ignore media";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur choose favorite bar vague deal edge cool vivid negative grit champion";
+var mnemonic = "addict service good multiply junk security bulk crack invite brush science divorce";

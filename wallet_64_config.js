@@ -1,1 +1,1 @@
-var mnemonic = "love saddle more dress like behind portion narrow hair scale calm bacon";
+var mnemonic = "prize country silly episode boss crash tongue awful teach will battle huge";

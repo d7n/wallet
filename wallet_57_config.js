@@ -1,1 +1,1 @@
-var mnemonic = "hope nothing beef play consider almost paddle hurry print head ramp truth";
+var mnemonic = "agent gallery wisdom involve scale rifle tragic loud point affair copper know";

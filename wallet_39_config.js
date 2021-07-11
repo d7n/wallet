@@ -1,1 +1,1 @@
-var mnemonic = "wreck print torch copper nice enrich leader topic amount deny inner rather";
+var mnemonic = "hole slot best artefact web morning topple parent way lazy zoo blast";

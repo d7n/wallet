@@ -1,1 +1,1 @@
-var mnemonic = "kidney can orchard turkey soup seed stem human trap canvas nuclear slot";
+var mnemonic = "next cloud load raise swamp follow notice grunt happy borrow they issue";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur eternal female clap legend solid depend choose benefit vote devote amused";
+var mnemonic = "input first upon alert wash again leader come accident avocado super enemy";

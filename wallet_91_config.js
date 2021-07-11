@@ -1,1 +1,1 @@
-var mnemonic = "dragon ostrich tube train goat stairs subway unaware turn rescue budget wear";
+var mnemonic = "warfare cupboard begin enact enable athlete fold crucial scrub situate detail panic";

@@ -1,1 +1,1 @@
-var mnemonic = "vote trick junior dumb phrase session distance sphere sustain piece biology undo";
+var mnemonic = "dune soda album swear stay fat success knee fly vibrant sudden silver";

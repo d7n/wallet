@@ -1,1 +1,1 @@
-var mnemonic = "inquiry broken disorder reject invite index credit once humor foam rookie amused";
+var mnemonic = "shy firm banner slight engage stadium rather profit drum vibrant mimic curtain";

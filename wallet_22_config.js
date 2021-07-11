@@ -1,1 +1,1 @@
-var mnemonic = "amount eternal travel mother fury owner silly hard box service grace reunion";
+var mnemonic = "guide shoe wagon blame shop flat note client meat girl pet girl";

@@ -1,1 +1,1 @@
-var mnemonic = "youth vintage extra body grid fix ginger afford photo fame fold weekend";
+var mnemonic = "prevent among hundred north misery correct monster grain cart deer current rubber";
