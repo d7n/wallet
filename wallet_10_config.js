@@ -1,1 +1,1 @@
-var mnemonic = "cloud tragic miss wash foil system cotton patrol old item try illness";
+var mnemonic = "maple lyrics wedding list wire brush humble over blast betray entire dignity";

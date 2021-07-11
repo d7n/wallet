@@ -1,1 +1,1 @@
-var mnemonic = "occur bright afraid spring ignore child kite solid nose vague change round";
+var mnemonic = "deal trash harbor prison usual tone urban pelican just half proud chaos";

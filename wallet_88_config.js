@@ -1,1 +1,1 @@
-var mnemonic = "tortoise miracle device news orient million riot step live fork inmate addict";
+var mnemonic = "entry congress asthma fancy disagree street basket clerk outside treat burger firm";

@@ -1,1 +1,1 @@
-var mnemonic = "panel cheap mystery expand grab senior empower wild helmet sure flag forget";
+var mnemonic = "wear wait delay cash today dry hobby world cube mean drive warfare";

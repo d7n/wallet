@@ -1,1 +1,1 @@
-var mnemonic = "enter honey rifle easy load type arrange dust umbrella hazard calm leave";
+var mnemonic = "host love duty still mother cloth prepare depth bracket morning basic pony";

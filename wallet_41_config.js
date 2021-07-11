@@ -1,1 +1,1 @@
-var mnemonic = "urge prevent art convince congress bone mail want what frozen donkey bulb";
+var mnemonic = "zoo circle animal review pond leopard crop right inform tape slab hover";

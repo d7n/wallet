@@ -1,1 +1,1 @@
-var mnemonic = "rural payment tongue tree pipe upper pair quiz fee scatter fiscal treat";
+var mnemonic = "tennis route crouch kidney hill execute fox vessel rigid belt pet loud";

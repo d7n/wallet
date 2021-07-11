@@ -1,1 +1,1 @@
-var mnemonic = "badge endless spray lobster gym include buffalo disorder all depart announce stamp";
+var mnemonic = "finish sea sport badge attend hero zoo noodle faint witness salon object";

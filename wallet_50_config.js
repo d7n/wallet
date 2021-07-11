@@ -1,1 +1,1 @@
-var mnemonic = "garment airport seminar above warrior exile used reason mechanic lava crowd junk";
+var mnemonic = "fury club duck town more mechanic wing print pride now consider gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "category fortune baby chronic comfort twenty height begin level east nurse lecture";
+var mnemonic = "rose vital medal spin shrimp genre high gallery attitude people item manage";

@@ -1,1 +1,1 @@
-var mnemonic = "spike eager shift exchange razor pole final author address sketch sustain apart";
+var mnemonic = "loop rain public ski owner quarter target suggest exhaust draft siege drink";

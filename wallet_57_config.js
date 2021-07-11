@@ -1,1 +1,1 @@
-var mnemonic = "jazz donkey coast cushion rhythm quick town dutch solar buffalo wild life";
+var mnemonic = "table brass wood congress despair approve meadow south lyrics dog hammer whale";

@@ -1,1 +1,1 @@
-var mnemonic = "friend flip tongue dress poverty basic indicate december today wrap float harvest";
+var mnemonic = "teach parent elbow face endless future hard document sniff honey badge birth";

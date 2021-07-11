@@ -1,1 +1,1 @@
-var mnemonic = "holiday bid donate visit sense predict tongue fence tunnel plate series tennis";
+var mnemonic = "vibrant basic range chunk music juice approve warfare potato praise network marble";

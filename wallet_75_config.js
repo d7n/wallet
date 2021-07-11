@@ -1,1 +1,1 @@
-var mnemonic = "sting ship sight guilt verb disease long pilot hurry slab resemble light";
+var mnemonic = "gap gorilla party insane lucky cluster wall misery van casual budget valley";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch behind foster sword assault layer forget review earth view wood harbor";
+var mnemonic = "movie shell debris earth submit benefit dizzy waste daring stove trend train";

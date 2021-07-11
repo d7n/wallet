@@ -1,1 +1,1 @@
-var mnemonic = "lift amazing sunny swift about hundred noise demise clerk timber sugar poverty";
+var mnemonic = "country trim promote elevator pepper thought basket aware fence lawsuit habit learn";

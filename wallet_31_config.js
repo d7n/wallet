@@ -1,1 +1,1 @@
-var mnemonic = "child engine slight belt rich pottery outdoor demand purse attend deer skirt";
+var mnemonic = "crumble become mom catch domain people mixture olive heavy fault ladder chimney";

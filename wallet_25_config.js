@@ -1,1 +1,1 @@
-var mnemonic = "evolve nice voice double brain chest claim inner eyebrow layer pitch retreat";
+var mnemonic = "okay collect settle shallow chest brick bamboo office sense kiss where toward";

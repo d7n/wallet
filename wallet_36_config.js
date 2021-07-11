@@ -1,1 +1,1 @@
-var mnemonic = "pause scatter toast metal length inherit flight grant swift hood post legal";
+var mnemonic = "guess interest jaguar stereo rural either future noodle drop annual soldier place";

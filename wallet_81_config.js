@@ -1,1 +1,1 @@
-var mnemonic = "ready air bench salon draw resemble achieve impulse inner inquiry target ranch";
+var mnemonic = "history shoot vendor floor possible fence kidney chimney current enforce light frame";

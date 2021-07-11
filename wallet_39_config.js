@@ -1,1 +1,1 @@
-var mnemonic = "option dragon amused snack loop zebra spirit artist company quiz excess logic";
+var mnemonic = "flower differ tragic illness tragic satisfy light switch work ecology story garbage";

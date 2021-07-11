@@ -1,1 +1,1 @@
-var mnemonic = "daring trim acid universe jazz place gold save scrap reason panic gate";
+var mnemonic = "lion region detect proof museum erase chuckle aisle settle off embody retire";

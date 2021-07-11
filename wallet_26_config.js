@@ -1,1 +1,1 @@
-var mnemonic = "milk damp provide lawsuit win concert benefit phrase enforce margin detect display";
+var mnemonic = "current eight unfair timber disease kangaroo cost enlist mixed surge rice profit";

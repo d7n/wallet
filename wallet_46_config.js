@@ -1,1 +1,1 @@
-var mnemonic = "box zone ghost glare intact slight rough sure slogan ghost raise want";
+var mnemonic = "forget ride detect burden process gas space setup ankle purpose lounge garage";

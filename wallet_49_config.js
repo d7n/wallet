@@ -1,1 +1,1 @@
-var mnemonic = "verify decorate click three invest work betray educate oyster web december primary";
+var mnemonic = "swim poverty toddler shop lady carpet innocent document april grow engage uphold";

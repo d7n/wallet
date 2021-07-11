@@ -1,1 +1,1 @@
-var mnemonic = "trip assist unveil tattoo topic cherry twist vocal surround actress upgrade cinnamon";
+var mnemonic = "attack eager large afford skin spoon habit choose laundry track quit fog";

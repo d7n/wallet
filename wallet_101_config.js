@@ -1,1 +1,1 @@
-var mnemonic = "truly tiger rubber glass lounge more soldier night clown song session clerk";
+var mnemonic = "click custom grow local success hedgehog trash auto wreck cube meadow edge";

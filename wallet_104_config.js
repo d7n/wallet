@@ -1,1 +1,1 @@
-var mnemonic = "cruise west tenant feature grow surface balance wolf maid pony danger charge";
+var mnemonic = "intact enjoy amount saddle tower scrap focus hole effort suspect setup hedgehog";

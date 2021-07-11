@@ -1,1 +1,1 @@
-var mnemonic = "spend okay income noise armor author jump dose fog soccer endless shallow";
+var mnemonic = "stay derive glare garden coast barrel hub adapt hello flower february mercy";

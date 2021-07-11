@@ -1,1 +1,1 @@
-var mnemonic = "sister expire virtual cash churn air brass dinner stick drip eight father";
+var mnemonic = "toward coffee safe artefact attack action panel once speak giggle rookie also";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit physical project order exchange south hello nephew prison hip flag actor";
+var mnemonic = "slice health aisle safe seminar coconut certain identify fiscal wisdom under hurt";

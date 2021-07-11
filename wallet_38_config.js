@@ -1,1 +1,1 @@
-var mnemonic = "venture strike taste chief cement fatigue main claim small improve view find";
+var mnemonic = "account ripple slam cause hundred cry escape ask frozen test fortune bike";

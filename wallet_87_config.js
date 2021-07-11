@@ -1,1 +1,1 @@
-var mnemonic = "six deposit august charge tag laugh couch suit boost slush climb senior";
+var mnemonic = "stand ceiling thought drastic gap can nerve dance fault nation depth true";

@@ -1,1 +1,1 @@
-var mnemonic = "profit flag slice old arrest veteran stadium planet mobile baby behind tip";
+var mnemonic = "obtain zone trick steak mammal energy bottom crystal duty history weather coconut";

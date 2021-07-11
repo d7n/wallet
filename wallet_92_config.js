@@ -1,1 +1,1 @@
-var mnemonic = "design gym girl rare meat catalog correct rebuild culture captain child announce";
+var mnemonic = "report grow slight exercise response effort siege near quote public basic dance";

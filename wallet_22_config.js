@@ -1,1 +1,1 @@
-var mnemonic = "promote execute joy blouse just jelly coach lizard bachelor suit disease number";
+var mnemonic = "fat swamp system invest vintage chimney stage coffee video excess share steel";

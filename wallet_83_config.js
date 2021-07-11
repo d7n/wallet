@@ -1,1 +1,1 @@
-var mnemonic = "hundred nice legal thank winner ski thought later debris chest grant derive";
+var mnemonic = "occur salad slender usage quantum rebel buyer silk walk urge glide ahead";

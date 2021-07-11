@@ -1,1 +1,1 @@
-var mnemonic = "pattern afraid holiday author grunt spin lens glad rigid glue elite month";
+var mnemonic = "exact oak frown horror student print insane fit custom enough bean learn";

@@ -1,1 +1,1 @@
-var mnemonic = "clean sad exist carpet run merry neutral aspect scare crane process connect";
+var mnemonic = "dinner child company castle sudden blush scale idle cushion age pencil sample";

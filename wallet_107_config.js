@@ -1,1 +1,1 @@
-var mnemonic = "expect shell enrich wife service mind luxury march point breeze add debate";
+var mnemonic = "equip ill oven devote metal almost system canal rival cattle furnace day";

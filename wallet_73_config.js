@@ -1,1 +1,1 @@
-var mnemonic = "basket parade oblige say child involve fresh panther young comic dinosaur pride";
+var mnemonic = "jazz virus leg second popular buyer candy stove total sell brave describe";

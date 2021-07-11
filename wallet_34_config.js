@@ -1,1 +1,1 @@
-var mnemonic = "indicate pioneer cannon color woman couch hidden autumn chapter raven critic crouch";
+var mnemonic = "maximum human tip office prepare axis south prosper antenna dwarf raven wrestle";

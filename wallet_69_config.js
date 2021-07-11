@@ -1,1 +1,1 @@
-var mnemonic = "vote ensure vicious sort casino puzzle dismiss sustain coconut atom start jaguar";
+var mnemonic = "alpha grit snake addict claim feel live dizzy axis cradle gold hybrid";

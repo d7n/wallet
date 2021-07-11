@@ -1,1 +1,1 @@
-var mnemonic = "junk during glad dentist inch notable cement resemble clog private boil vessel";
+var mnemonic = "basket jungle potato swamp such erode peasant face airport cattle awful monkey";

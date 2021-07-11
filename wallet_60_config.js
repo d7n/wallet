@@ -1,1 +1,1 @@
-var mnemonic = "beauty obtain birth unfold bag delay copper version wrestle barrel today envelope";
+var mnemonic = "bag input curious swift gap million infant lucky garlic cycle old world";

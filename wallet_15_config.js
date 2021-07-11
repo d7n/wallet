@@ -1,1 +1,1 @@
-var mnemonic = "energy question vault cigar gospel globe echo trust spray peasant fury view";
+var mnemonic = "acid patch defense spell old hockey cotton raise enhance salad runway dizzy";

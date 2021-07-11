@@ -1,1 +1,1 @@
-var mnemonic = "grid inmate figure brand there minor stereo direct journey amused liquid bleak";
+var mnemonic = "bonus chunk relief cereal portion weekend better wait silk adjust tomato danger";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond raccoon enact major polar news castle sorry skull soup claim awkward";
+var mnemonic = "equip barely author cinnamon unaware become demand cruise cost multiply crash unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "legal whisper novel drive mouse dilemma before stadium joke kite october zoo";
+var mnemonic = "drift infant joy pulp lion wrong dolphin pizza unique essence labor butter";

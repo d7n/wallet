@@ -1,1 +1,1 @@
-var mnemonic = "anxiety pen ice entire detail guide grain human rival day source answer";
+var mnemonic = "author slush install census eager size soup spice code awesome zebra same";

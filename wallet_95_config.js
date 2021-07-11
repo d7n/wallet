@@ -1,1 +1,1 @@
-var mnemonic = "define leader stem alone alert core start deposit dash deer device atom";
+var mnemonic = "pupil exclude pill hurt gap mushroom trophy volume boy expand history muffin";

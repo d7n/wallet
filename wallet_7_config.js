@@ -1,1 +1,1 @@
-var mnemonic = "siege effort silver smart valley observe situate odor state leisure gather eager";
+var mnemonic = "clip level divide negative lounge spend service upper tray rude plastic idle";

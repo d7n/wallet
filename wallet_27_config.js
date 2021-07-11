@@ -1,1 +1,1 @@
-var mnemonic = "cover select scissors attend host receive legal injury already smooth mosquito include";
+var mnemonic = "submit fragile shuffle hip thunder sing milk into corn unusual chef creek";

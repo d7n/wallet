@@ -1,1 +1,1 @@
-var mnemonic = "breeze sword patch final emerge aware vague today employ search insect arrest";
+var mnemonic = "doll model clever kiwi legal symptom bulb solution genre host odor sugar";

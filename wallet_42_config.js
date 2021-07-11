@@ -1,1 +1,1 @@
-var mnemonic = "fancy type transfer report swear critic climb stuff want cluster alert betray";
+var mnemonic = "panic green model pause pact mail quiz claim wing rigid manage nut";

@@ -1,1 +1,1 @@
-var mnemonic = "strong wrap girl acquire tattoo narrow obvious oblige trip disorder brave must";
+var mnemonic = "acoustic boil carry one travel eye hobby account connect asset empty walk";

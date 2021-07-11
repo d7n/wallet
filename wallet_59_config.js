@@ -1,1 +1,1 @@
-var mnemonic = "bounce tobacco lady else manage adjust famous melody panic onion trial insect";
+var mnemonic = "quick depart plunge ugly middle write radar story valley all caution scrub";

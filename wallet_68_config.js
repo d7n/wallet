@@ -1,1 +1,1 @@
-var mnemonic = "select proud arena fatigue moon wink sketch prison road eager adult dignity";
+var mnemonic = "hedgehog insect youth cereal bike like topic peasant program city honey evoke";

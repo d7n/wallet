@@ -1,1 +1,1 @@
-var mnemonic = "disease seat input pond inflict about wire inner subway draw annual elbow";
+var mnemonic = "memory fatal powder attitude figure lake doctor sail home eye magnet sponsor";

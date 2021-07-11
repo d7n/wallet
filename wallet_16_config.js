@@ -1,1 +1,1 @@
-var mnemonic = "urge noodle police earth grab romance error olympic erase vanish voyage regret";
+var mnemonic = "step delay supreme brush notable tiny monkey polar dice address exact odor";

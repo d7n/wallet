@@ -1,1 +1,1 @@
-var mnemonic = "right pelican advance width ride defy join split purpose sail narrow glove";
+var mnemonic = "sphere worry voice sudden master always win exercise correct amateur blush illness";

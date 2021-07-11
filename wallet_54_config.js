@@ -1,1 +1,1 @@
-var mnemonic = "analyst hotel tornado crop repair multiply govern soap little tuition club fine";
+var mnemonic = "often hub since crop cigar asthma truth pull electric potato merry category";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew salon canyon daring boost screen load swarm two range next novel";
+var mnemonic = "purse roast clog century scrap term execute enemy rotate genre weather beef";

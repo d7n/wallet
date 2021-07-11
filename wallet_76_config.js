@@ -1,1 +1,1 @@
-var mnemonic = "purity awful distance crush cancel option blanket isolate treat toss salon opinion";
+var mnemonic = "ride cycle begin thumb stone cherry warrior total knife dish major slam";

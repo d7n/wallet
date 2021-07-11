@@ -1,1 +1,1 @@
-var mnemonic = "prevent distance charge spider advance comic piece tuition candy snow party popular";
+var mnemonic = "token title rib motion farm enjoy equal denial crowd battle noodle annual";

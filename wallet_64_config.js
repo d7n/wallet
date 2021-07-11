@@ -1,1 +1,1 @@
-var mnemonic = "clock road transfer twice salute beauty when friend exotic alert actor lizard";
+var mnemonic = "tunnel noise fly soap thought image humor vast myth lion impact trophy";

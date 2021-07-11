@@ -1,1 +1,1 @@
-var mnemonic = "decade aisle outer tennis shield sausage record glad sibling pigeon vote ocean";
+var mnemonic = "scare parent century length rebuild awful blast trouble sport tent cabin laundry";

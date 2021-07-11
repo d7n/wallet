@@ -1,1 +1,1 @@
-var mnemonic = "copper apple way island lonely ostrich bottom juice dignity manual pizza smile";
+var mnemonic = "reason cube pink connect high abuse bacon render olive jealous clutch match";

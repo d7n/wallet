@@ -1,1 +1,1 @@
-var mnemonic = "arm pride capable brisk alien defy submit grow napkin garbage speak pear";
+var mnemonic = "sorry decide story hand repeat cluster robust void social rally salmon same";

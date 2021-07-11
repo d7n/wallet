@@ -1,1 +1,1 @@
-var mnemonic = "glide woman excite uphold assist gain child peanut delay arrow ancient illness";
+var mnemonic = "hurry gate innocent nut fire mean dose ten body subject leader discover";

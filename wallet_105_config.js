@@ -1,1 +1,1 @@
-var mnemonic = "moral tattoo hungry target dream bonus loyal dwarf scheme witness crumble name";
+var mnemonic = "notable wool property clever fit hobby already peace ring fun dust choice";

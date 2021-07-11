@@ -1,1 +1,1 @@
-var mnemonic = "frost theory renew flip diamond allow setup property grace climb truly yard";
+var mnemonic = "shadow act hockey diesel roast whale dentist brave soldier awkward token bronze";

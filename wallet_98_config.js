@@ -1,1 +1,1 @@
-var mnemonic = "deny retreat prison federal sleep clinic proof tone marriage fabric erode consider";
+var mnemonic = "slogan fortune apology agree write canoe despair country poet gas push stem";

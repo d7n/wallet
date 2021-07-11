@@ -1,1 +1,1 @@
-var mnemonic = "inside obey borrow ethics clump make tackle can key better mandate dinosaur";
+var mnemonic = "regret unable abstract family credit salad place horror three antenna lesson can";

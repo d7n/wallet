@@ -1,1 +1,1 @@
-var mnemonic = "planet social post another fetch brass diet illegal venture slot ice popular";
+var mnemonic = "toilet afford advance payment require car tower episode turtle dizzy twin awkward";

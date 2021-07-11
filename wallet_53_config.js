@@ -1,1 +1,1 @@
-var mnemonic = "barrel object ceiling follow poem unusual among cereal upon nephew convince hotel";
+var mnemonic = "pluck drill uncover duck hazard inside bus silk throw surface health today";

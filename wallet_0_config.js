@@ -1,1 +1,1 @@
-var mnemonic = "chunk cream casino attitude pyramid exotic peanut describe fatal move company olive";
+var mnemonic = "lava country total despair disease repeat gather mammal you change hurdle turn";

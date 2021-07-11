@@ -1,1 +1,1 @@
-var mnemonic = "hockey uniform table honey castle subway squirrel leave gesture yellow keep senior";
+var mnemonic = "impact swim symbol jeans recycle decline long wrap ritual nuclear action mutual";

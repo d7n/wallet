@@ -1,1 +1,1 @@
-var mnemonic = "front off link shove mule always type where engine slender favorite cart";
+var mnemonic = "whip airport industry prosper ocean know blur bone high source original autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite shiver proud frog term friend knock decide tiger bright school panic";
+var mnemonic = "expose rain month detect mango atom cute gadget soup ask million inject";

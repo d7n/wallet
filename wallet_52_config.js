@@ -1,1 +1,1 @@
-var mnemonic = "assume satoshi matrix interest bundle ranch rescue salt invite elephant main devote";
+var mnemonic = "crunch sell vivid habit argue link believe hospital few case donor tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual invite foam venture flash street scorpion equip snake leaf cliff sure";
+var mnemonic = "kind shuffle sniff hybrid invest width lend old stage donor breeze almost";

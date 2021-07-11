@@ -1,1 +1,1 @@
-var mnemonic = "long minor concert again random law nation twice first way yard bone";
+var mnemonic = "remind glass asset range boost morning proof record find dinner hat violin";

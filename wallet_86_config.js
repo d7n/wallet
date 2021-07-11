@@ -1,1 +1,1 @@
-var mnemonic = "youth drip domain before eight rural now desk waste dose hat iron";
+var mnemonic = "basket average dose elbow cabbage custom total doll luggage sound zero catalog";

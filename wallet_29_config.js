@@ -1,1 +1,1 @@
-var mnemonic = "salute normal glide glass puzzle pulp squirrel shadow better moral submit wink";
+var mnemonic = "space case weather outside bring avoid top leisure offer giant jaguar walk";

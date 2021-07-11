@@ -1,1 +1,1 @@
-var mnemonic = "forum decade crucial expand stage fashion long tooth aerobic dial stomach foil";
+var mnemonic = "reward supply gossip anchor member marine absorb original hollow stomach conduct dog";

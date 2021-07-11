@@ -1,1 +1,1 @@
-var mnemonic = "salad argue timber blood prison drift toast attitude cloth speak cry fancy";
+var mnemonic = "lazy battle popular fish attitude access sport weapon upper fox fit ahead";

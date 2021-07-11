@@ -1,1 +1,1 @@
-var mnemonic = "pen faculty train energy master couch expand require chase monster buddy happy";
+var mnemonic = "elephant runway obscure rapid dial intact banana twelve innocent cross tornado suit";

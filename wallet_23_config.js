@@ -1,1 +1,1 @@
-var mnemonic = "behave solid mixture bone seed garden meat town meadow artwork keen fade";
+var mnemonic = "scale usual carpet debate city hurdle fox transfer celery call call velvet";
