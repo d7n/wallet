@@ -1,1 +1,1 @@
-var mnemonic = "steak destroy cash vibrant grace potato away thunder glide fold leader balcony";
+var mnemonic = "another blind sight flight dentist shift guard fancy castle wife border assume";

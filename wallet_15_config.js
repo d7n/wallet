@@ -1,1 +1,1 @@
-var mnemonic = "palace outside violin reflect thunder trash sun hill hammer pudding script gallery";
+var mnemonic = "kiss tennis matter buddy baby december ahead avoid school normal whale labor";

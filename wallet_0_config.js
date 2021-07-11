@@ -1,1 +1,1 @@
-var mnemonic = "hamster portion sound expect smoke pass enemy aisle cherry unique punch transfer";
+var mnemonic = "junk end surround episode syrup vicious index match churn skull cross away";

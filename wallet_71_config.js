@@ -1,1 +1,1 @@
-var mnemonic = "pitch once purchase exhibit clip mom night pigeon rebuild tunnel abandon forest";
+var mnemonic = "isolate toe cement hotel immune battle crisp thought alert rookie hole trial";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel ritual song finish fence cause cheese error miss view anchor aware";
+var mnemonic = "hard rack honey black image tissue uncle useful tower subject chuckle enhance";

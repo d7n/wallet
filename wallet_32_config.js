@@ -1,1 +1,1 @@
-var mnemonic = "anxiety oxygen clump grass music heart couple float group quit topic horse";
+var mnemonic = "capable fence river board ghost measure rely powder grass float solution wet";

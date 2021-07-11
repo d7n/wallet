@@ -1,1 +1,1 @@
-var mnemonic = "submit rural spy pyramid seven evoke outside dove multiply mixture brave black";
+var mnemonic = "chef name shrug pulse inmate final draw abuse foster whisper skill parade";

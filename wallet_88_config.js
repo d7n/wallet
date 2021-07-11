@@ -1,1 +1,1 @@
-var mnemonic = "street essence benefit cry edit absurd prevent hockey tilt zebra express melt";
+var mnemonic = "news motion pudding neither leopard menu ridge column south order rule matter";

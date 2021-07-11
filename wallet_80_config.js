@@ -1,1 +1,1 @@
-var mnemonic = "fan knife barrel future light bottom fog shield grid canyon slush lounge";
+var mnemonic = "major flip session estate call brown legal physical cereal agree bind phone";

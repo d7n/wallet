@@ -1,1 +1,1 @@
-var mnemonic = "middle dance exercise gain rug inform carry depart real model village pole";
+var mnemonic = "hill ginger weird bullet comfort nest twist screen world antique gate please";

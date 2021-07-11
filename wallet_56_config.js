@@ -1,1 +1,1 @@
-var mnemonic = "artefact powder balance theory faculty about lucky differ pattern dose wife render";
+var mnemonic = "future old source problem shadow predict salt sunset double cactus joy jungle";

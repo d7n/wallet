@@ -1,1 +1,1 @@
-var mnemonic = "neither oval metal angry piece member evidence lecture once group pencil small";
+var mnemonic = "viable silent evolve jelly genius today push acid ocean chest salute lava";

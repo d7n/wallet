@@ -1,1 +1,1 @@
-var mnemonic = "canal company sadness urban fantasy neck fly eternal drama fat deliver fruit";
+var mnemonic = "noise know winter pyramid faint casino suffer seed seat cricket immense flee";

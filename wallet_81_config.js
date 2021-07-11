@@ -1,1 +1,1 @@
-var mnemonic = "someone rice museum gravity awake uncover tomorrow cabbage make just absorb tunnel";
+var mnemonic = "fiction bottom video face hospital nice cute void enrich bargain coast supreme";

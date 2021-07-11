@@ -1,1 +1,1 @@
-var mnemonic = "wheel crash valid melt move repeat combine setup brother pretty section satisfy";
+var mnemonic = "notice wonder dizzy mechanic company rate vote fiber swap beef trash novel";

@@ -1,1 +1,1 @@
-var mnemonic = "wire siege intact bronze cheese express rate suspect language escape blind damp";
+var mnemonic = "process media festival silent limb miss devote extend salad reason addict mammal";

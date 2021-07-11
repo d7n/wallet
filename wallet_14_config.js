@@ -1,1 +1,1 @@
-var mnemonic = "cross dose language blanket chimney scene scale veteran ceiling jungle unable spell";
+var mnemonic = "cattle autumn diagram label genius squeeze check scheme ethics minute mouse caution";

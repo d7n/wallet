@@ -1,1 +1,1 @@
-var mnemonic = "flee noodle project bless nominee upgrade before glad fabric road double possible";
+var mnemonic = "denial health loyal retreat fly prevent lounge device large dance engine inch";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary earn radar forward energy type reform income snow fault lottery plunge";
+var mnemonic = "sure ritual debris solution journey pave also undo recipe pledge era scale";

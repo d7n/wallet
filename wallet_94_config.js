@@ -1,1 +1,1 @@
-var mnemonic = "group diamond minimum sudden section ridge measure love betray excite moon gasp";
+var mnemonic = "leg barely boss spawn loud stem ice budget artefact cousin enact into";

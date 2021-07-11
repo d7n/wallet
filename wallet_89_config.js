@@ -1,1 +1,1 @@
-var mnemonic = "hint always rescue pony dumb razor merge another fiction scissors sadness seat";
+var mnemonic = "art near claw depend school dance exist horror forget staff peace father";

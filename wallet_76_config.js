@@ -1,1 +1,1 @@
-var mnemonic = "subway siren identify plunge secret gain exit humble legend hope survey soup";
+var mnemonic = "own acid praise voyage order amount bleak food slam dinner mosquito busy";

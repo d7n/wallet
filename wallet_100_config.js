@@ -1,1 +1,1 @@
-var mnemonic = "casual list lawsuit chef brief banana swarm explain verb adult else crowd";
+var mnemonic = "luxury become open rival light shaft suit assault total fall social timber";

@@ -1,1 +1,1 @@
-var mnemonic = "theory staff rude problem labor delay bubble swarm episode sponsor help rose";
+var mnemonic = "frequent business solve distance favorite dose blue tent cost galaxy bleak twelve";

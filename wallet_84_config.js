@@ -1,1 +1,1 @@
-var mnemonic = "symptom piece room fine connect raccoon depend obscure kangaroo shove oppose topic";
+var mnemonic = "gauge boy typical situate girl dog owner drama maple grape jungle text";

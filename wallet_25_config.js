@@ -1,1 +1,1 @@
-var mnemonic = "surprise sword bone laundry amount tell copy body debate life figure fan";
+var mnemonic = "define cross clay nominee peanut narrow crumble garbage chef blush earn flag";

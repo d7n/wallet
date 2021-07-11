@@ -1,1 +1,1 @@
-var mnemonic = "grass soon fan fashion popular evil figure consider knock what afraid today";
+var mnemonic = "divide involve predict oven feel drill rug unfair attend clutch oval bottom";

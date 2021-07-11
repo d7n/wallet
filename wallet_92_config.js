@@ -1,1 +1,1 @@
-var mnemonic = "only alcohol myself danger trip brick volume dinosaur scissors edit rebel gasp";
+var mnemonic = "lawsuit degree merry under town mistake limit vivid fossil term city embody";

@@ -1,1 +1,1 @@
-var mnemonic = "concert diagram quarter sea suggest dinosaur air supreme spread damp cost vivid";
+var mnemonic = "frown appear review bid sadness walk runway quality bring distance copy submit";

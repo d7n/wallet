@@ -1,1 +1,1 @@
-var mnemonic = "trip leisure throw often more curtain chair talent primary jewel model undo";
+var mnemonic = "animal travel exotic citizen long obscure genuine domain toward whip virus foam";

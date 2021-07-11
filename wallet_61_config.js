@@ -1,1 +1,1 @@
-var mnemonic = "grape pond cloth scorpion uniform scrap bullet mandate art swallow drama praise";
+var mnemonic = "color midnight occur neglect angle skin song venture peanut minute kid body";

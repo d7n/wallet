@@ -1,1 +1,1 @@
-var mnemonic = "gauge arch grief fix gloom never infant inmate drip curve honey inch";
+var mnemonic = "bright render category neither grain boil pride acid ridge clown erupt tail";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive goddess charge example oblige drama pulp adult another country service require";
+var mnemonic = "sand sunny inch lucky topple silk key evil midnight iron radio advice";

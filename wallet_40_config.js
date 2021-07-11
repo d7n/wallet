@@ -1,1 +1,1 @@
-var mnemonic = "antenna test cry idle emerge mystery carbon analyst invite capable awful click";
+var mnemonic = "spring hub zoo embark lobster security brush price unable patch honey include";

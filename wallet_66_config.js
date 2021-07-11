@@ -1,1 +1,1 @@
-var mnemonic = "office round sustain random profit roof clog immune myself rose eternal lunar";
+var mnemonic = "face raw legend embody version tortoise below hub decrease cup fresh coil";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect castle sample have cinnamon tooth tilt suspect royal vibrant royal vintage";
+var mnemonic = "subway reopen hockey alter close ecology brown garment casual clerk tattoo before";

@@ -1,1 +1,1 @@
-var mnemonic = "bus basket follow company hawk laptop pyramid sort joy cabbage service curve";
+var mnemonic = "prosper chicken trash kick interest front quick congress hole mean vanish hello";

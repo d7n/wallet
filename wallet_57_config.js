@@ -1,1 +1,1 @@
-var mnemonic = "west cook supply major asthma tattoo hole once jump answer atom health";
+var mnemonic = "cheese muffin liquid boost glove wheel rent sudden cousin kitchen crime pull";

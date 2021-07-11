@@ -1,1 +1,1 @@
-var mnemonic = "vehicle obvious mouse because fever grass flight exhaust humble learn diamond warrior";
+var mnemonic = "come ordinary crouch hover increase leopard tube banana enroll want transfer trade";

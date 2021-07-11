@@ -1,1 +1,1 @@
-var mnemonic = "slam stick horse love acquire off vapor ritual concert weekend corn neither";
+var mnemonic = "wet canyon draft fashion wild collect toddler ability muscle find bonus mimic";

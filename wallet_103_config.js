@@ -1,1 +1,1 @@
-var mnemonic = "song hurt sustain rose head isolate garage empower poverty believe pyramid label";
+var mnemonic = "huge cabin spray fiscal hat essence process frozen try web canyon steel";

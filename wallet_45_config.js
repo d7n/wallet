@@ -1,1 +1,1 @@
-var mnemonic = "infant copper eyebrow surge cousin elevator lunar acoustic page mistake lunch zebra";
+var mnemonic = "veteran popular soldier ginger social knife rail noble wine rib orbit submit";

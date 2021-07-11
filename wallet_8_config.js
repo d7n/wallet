@@ -1,1 +1,1 @@
-var mnemonic = "effort crisp october owner install burden park price accident excuse valley lecture";
+var mnemonic = "alpha echo congress giraffe praise mechanic school blood speed dynamic venture link";

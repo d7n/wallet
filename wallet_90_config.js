@@ -1,1 +1,1 @@
-var mnemonic = "weapon bulb fantasy blame blossom leaf hurry say topic phone dinner palm";
+var mnemonic = "cash sudden sure toward put glory brush estate antique evidence stairs mirror";

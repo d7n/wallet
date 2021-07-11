@@ -1,1 +1,1 @@
-var mnemonic = "bus jar pill volume dutch farm process later change peanut employ differ";
+var mnemonic = "equip loan churn degree dice enact age enlist net piece style novel";

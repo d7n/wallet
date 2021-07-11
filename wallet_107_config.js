@@ -1,1 +1,1 @@
-var mnemonic = "hurdle silent food rain mouse grape distance eyebrow violin vanish mimic angle";
+var mnemonic = "thing vicious gorilla jacket kiwi park trumpet glide always inflict pigeon squirrel";

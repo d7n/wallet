@@ -1,1 +1,1 @@
-var mnemonic = "couch obscure maid vivid scare then usual then globe recall use album";
+var mnemonic = "tube similar paddle exhaust basic buyer hire wall army tiger squeeze dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "oil miracle mosquito jaguar nasty exhaust amateur ankle cannon prison goat good";
+var mnemonic = "prepare icon diesel dirt time fun rabbit stone involve friend rally void";

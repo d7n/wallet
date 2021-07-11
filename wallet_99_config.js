@@ -1,1 +1,1 @@
-var mnemonic = "decrease life want music notable side pistol kidney bulk hawk tell assume";
+var mnemonic = "frequent waste admit raven grace faint cool snap lab cloud foster cube";

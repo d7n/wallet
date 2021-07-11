@@ -1,1 +1,1 @@
-var mnemonic = "alpha tribe tribe hospital vacant wink across myth oyster extend endorse spell";
+var mnemonic = "glass rigid test donate demise tortoise manage embark similar rotate doll enrich";

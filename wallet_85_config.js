@@ -1,1 +1,1 @@
-var mnemonic = "arrive plug dry gaze minute gift chief page treat surface gorilla skull";
+var mnemonic = "car rely boring clap basic fence alcohol park theme forget tenant message";

@@ -1,1 +1,1 @@
-var mnemonic = "another plastic later twice ginger arena six wild rescue uncover ranch sugar";
+var mnemonic = "laundry hidden mandate kingdom inhale crisp copy acoustic figure mutual noise feed";

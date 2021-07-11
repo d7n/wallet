@@ -1,1 +1,1 @@
-var mnemonic = "vacant shoot wealth few someone beach blanket you hospital cube claim large";
+var mnemonic = "consider chronic mass holiday lottery goose monkey emerge bullet normal region coach";

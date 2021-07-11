@@ -1,1 +1,1 @@
-var mnemonic = "amateur thank behave ship only circle version will vague slush suggest evil";
+var mnemonic = "fog novel hair inquiry promote cover vault truck over mango gun unveil";

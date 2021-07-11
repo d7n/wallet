@@ -1,1 +1,1 @@
-var mnemonic = "rebel dust fall foil welcome valve own flip relax inspire mimic fog";
+var mnemonic = "useful fold master legend regular arena stand kiwi expand seed gain quote";

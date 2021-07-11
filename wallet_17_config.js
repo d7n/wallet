@@ -1,1 +1,1 @@
-var mnemonic = "monitor elegant icon arch orphan note neck winter seed route depart runway";
+var mnemonic = "category trip save address reunion what interest noodle smile subway quiz razor";

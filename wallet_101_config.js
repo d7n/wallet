@@ -1,1 +1,1 @@
-var mnemonic = "movie absent seat sample lizard crane inch patrol security voyage doctor cloud";
+var mnemonic = "subway okay advice service pride bundle youth art torch wish skin credit";

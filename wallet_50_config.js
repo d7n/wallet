@@ -1,1 +1,1 @@
-var mnemonic = "pretty muffin cost clap banner laugh snake license boat pear celery buddy";
+var mnemonic = "random ring absurd despair finger attend citizen whale noble novel clutch pattern";

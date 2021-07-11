@@ -1,1 +1,1 @@
-var mnemonic = "segment canoe grass floor behind fossil acoustic gown expand below point only";
+var mnemonic = "awesome chicken coach liquid master blush bullet involve envelope talent art elephant";

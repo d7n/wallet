@@ -1,1 +1,1 @@
-var mnemonic = "rich frozen draw blue mule girl skin eager action frozen pottery ancient";
+var mnemonic = "peasant fossil produce certain resemble zoo silver badge capable embrace long speak";

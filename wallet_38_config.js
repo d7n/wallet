@@ -1,1 +1,1 @@
-var mnemonic = "recall universe error mandate spray adult sorry media book similar illegal large";
+var mnemonic = "below knee duck owner cloud verb midnight measure catalog chunk venue hover";

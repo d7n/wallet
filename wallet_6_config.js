@@ -1,1 +1,1 @@
-var mnemonic = "floor private boat chase vital place sort embrace kit present prepare viable";
+var mnemonic = "basket spread enlist tissue fiction antenna derive topic rare weapon husband gentle";

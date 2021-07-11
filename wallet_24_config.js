@@ -1,1 +1,1 @@
-var mnemonic = "digital pioneer april sauce scan sing skin maximum between embark dirt mention";
+var mnemonic = "rack few melt captain science shop arrow border tenant normal moment debate";

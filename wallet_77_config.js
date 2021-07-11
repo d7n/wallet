@@ -1,1 +1,1 @@
-var mnemonic = "immense bicycle grief gain barrel exclude gauge return ramp clay force math";
+var mnemonic = "echo race chaos flavor risk across view quiz steak boy denial access";

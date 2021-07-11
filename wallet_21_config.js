@@ -1,1 +1,1 @@
-var mnemonic = "bind zero twice wine surround spoil seat miss gallery crouch submit chase";
+var mnemonic = "silver settle peace comfort dinner knock domain jazz trouble affair animal mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi garage urge wait culture swallow reunion announce merry figure urban echo";
+var mnemonic = "slogan inject matter rebel beef cool sketch finish good panic punch tray";

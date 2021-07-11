@@ -1,1 +1,1 @@
-var mnemonic = "able gentle cereal century hello device friend exchange blood carbon kite chalk";
+var mnemonic = "price fox forest modify gaze winter hill bottom saddle tooth tent polar";

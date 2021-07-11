@@ -1,1 +1,1 @@
-var mnemonic = "tackle erode stock layer match menu echo oak snow present shadow advance";
+var mnemonic = "intact bachelor maple detail impose permit transfer essence avocado bonus best news";

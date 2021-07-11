@@ -1,1 +1,1 @@
-var mnemonic = "appear bachelor pet awkward tuition rally around stamp puzzle furnace rough cushion";
+var mnemonic = "oven film amount empty sorry reason bike head emotion tobacco tray pluck";

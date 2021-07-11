@@ -1,1 +1,1 @@
-var mnemonic = "ranch sheriff hill night pipe dog shoot repeat any town clown knife";
+var mnemonic = "grunt fury basket shallow fever liquid antenna mammal pelican permit winner puppy";

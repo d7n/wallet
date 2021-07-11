@@ -1,1 +1,1 @@
-var mnemonic = "crystal budget jelly promote sun bench custom cherry tomorrow section canal remember";
+var mnemonic = "away bunker snake theory nest code welcome nut heavy dish pony milk";

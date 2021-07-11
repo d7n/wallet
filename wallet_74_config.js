@@ -1,1 +1,1 @@
-var mnemonic = "hello first green myself interest boil gown confirm orange initial gain almost";
+var mnemonic = "round sing plastic rude myth shop forget income adult word false rubber";

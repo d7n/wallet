@@ -1,1 +1,1 @@
-var mnemonic = "stomach top view truly glow melt social era real banner any notice";
+var mnemonic = "awkward essay woman vocal shield ball cigar language retire property coral urge";

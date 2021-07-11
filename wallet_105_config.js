@@ -1,1 +1,1 @@
-var mnemonic = "fitness smoke talent act squeeze cargo derive vanish awake produce crystal furnace";
+var mnemonic = "onion forest lion wrestle radar wood orient luxury damage erosion mass dune";

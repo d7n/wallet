@@ -1,1 +1,1 @@
-var mnemonic = "pear juice injury cry muffin mushroom maid sibling supreme frog nurse decrease";
+var mnemonic = "beauty tray reform gun plastic prize move stamp weekend view fade fossil";

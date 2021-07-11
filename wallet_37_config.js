@@ -1,1 +1,1 @@
-var mnemonic = "physical dilemma demand palm toward purse also proud evidence announce toast outdoor";
+var mnemonic = "cactus wagon hurry merge betray coin spring excess endorse early exclude radar";

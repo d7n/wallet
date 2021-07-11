@@ -1,1 +1,1 @@
-var mnemonic = "spatial group crazy phrase truly deliver horse quarter guilt mansion bubble extra";
+var mnemonic = "apart amount clarify damp screen tragic magnet early bargain unveil judge country";

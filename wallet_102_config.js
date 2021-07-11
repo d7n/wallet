@@ -1,1 +1,1 @@
-var mnemonic = "spot bubble outdoor also area mass illness wink ostrich slab indicate pet";
+var mnemonic = "myself prepare blood social urge theory lizard health satoshi carpet planet exclude";

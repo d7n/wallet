@@ -1,1 +1,1 @@
-var mnemonic = "acquire suggest robot patrol much word walnut zebra express weird alter awake";
+var mnemonic = "display check august roof climb vault sadness kiwi pulse dad luggage sugar";

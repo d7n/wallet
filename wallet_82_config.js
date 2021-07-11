@@ -1,1 +1,1 @@
-var mnemonic = "trial month penalty hurdle expire device debris impose hip wealth target field";
+var mnemonic = "mercy dinosaur fringe scare predict beach fatigue help man shed now physical";

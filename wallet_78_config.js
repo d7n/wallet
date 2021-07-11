@@ -1,1 +1,1 @@
-var mnemonic = "ask jewel toy vivid author display diagram whip keep unaware diagram hammer";
+var mnemonic = "sad cancel long fee damage urge awesome attack drill fire top body";

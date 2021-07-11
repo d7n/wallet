@@ -1,1 +1,1 @@
-var mnemonic = "soldier steel supreme jump entire debris island expire wisdom idle unlock fitness";
+var mnemonic = "live blanket world empty phrase oppose immune neck taste liberty square rather";

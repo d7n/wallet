@@ -1,1 +1,1 @@
-var mnemonic = "device again visual fuel useless yellow above flip velvet patch achieve phrase";
+var mnemonic = "flight rule pulp modify image eagle noodle state steak climb grid chief";

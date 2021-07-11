@@ -1,1 +1,1 @@
-var mnemonic = "snake penalty glare accident gym boy near estate address fossil expand gaze";
+var mnemonic = "drift gasp ticket move leaf cart thumb debris flame suspect wild help";

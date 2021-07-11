@@ -1,1 +1,1 @@
-var mnemonic = "silent warfare moment kid picture cupboard follow prosper hockey build speak genius";
+var mnemonic = "empty worry cradle hammer era shop cat carpet air cloth speed knock";
