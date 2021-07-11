@@ -1,1 +1,1 @@
-var mnemonic = "work rocket fun rifle hen head keep front figure purchase onion wall";
+var mnemonic = "property donate secret settle foot tray wet lesson embark remind soda palace";

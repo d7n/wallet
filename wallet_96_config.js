@@ -1,1 +1,1 @@
-var mnemonic = "wash cost potato accuse aisle purity average minor divert atom honey wet";
+var mnemonic = "stairs above jelly hockey hidden enact shadow safe canal sad harbor plug";

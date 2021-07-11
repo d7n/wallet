@@ -1,1 +1,1 @@
-var mnemonic = "cupboard vanish time gas kind icon relax favorite receive square middle push";
+var mnemonic = "ghost ivory damp page quantum forest soda enact answer february issue glimpse";

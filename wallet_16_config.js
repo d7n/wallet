@@ -1,1 +1,1 @@
-var mnemonic = "vehicle promote green unique curious decide program invest cloth grain sustain whisper";
+var mnemonic = "jelly wood desk patient remain sniff pyramid broken toward play spread conduct";

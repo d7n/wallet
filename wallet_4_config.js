@@ -1,1 +1,1 @@
-var mnemonic = "version hidden arena curtain actress chronic narrow glass upper middle cereal coil";
+var mnemonic = "erosion they language volcano cruise sand visit ghost photo cattle enroll left";

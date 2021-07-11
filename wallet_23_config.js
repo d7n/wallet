@@ -1,1 +1,1 @@
-var mnemonic = "guitar rent hollow lyrics nasty quote pull satoshi festival assume humor craft";
+var mnemonic = "often response universe edit apart outside vault business impact empower control razor";

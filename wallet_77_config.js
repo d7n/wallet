@@ -1,1 +1,1 @@
-var mnemonic = "citizen spatial weird noise sweet anger friend sorry globe border capable release";
+var mnemonic = "swallow number parrot myth gym cloth appear welcome robust surprise physical north";

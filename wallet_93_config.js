@@ -1,1 +1,1 @@
-var mnemonic = "escape cause exhibit saddle matrix metal latin pet crowd glove hedgehog age";
+var mnemonic = "owner shift torch reflect dumb claim purity now wrong peanut regret vintage";

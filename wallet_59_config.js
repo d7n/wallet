@@ -1,1 +1,1 @@
-var mnemonic = "mix maid cart episode flash stand potato visit erode device replace scare";
+var mnemonic = "produce swap shiver solution crater inquiry bunker alley october april between jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "also poverty tomorrow adult yellow shadow rhythm analyst fix desk stem fabric";
+var mnemonic = "rural mandate bargain sand mixture spring blood hamster trust toast icon subway";

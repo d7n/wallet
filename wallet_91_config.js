@@ -1,1 +1,1 @@
-var mnemonic = "bubble media siege avoid lab tape era title vicious ice senior motion";
+var mnemonic = "distance kidney priority invite federal dial practice inform scout spoil warfare alley";

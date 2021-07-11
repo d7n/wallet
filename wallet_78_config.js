@@ -1,1 +1,1 @@
-var mnemonic = "fatigue chaos man frog intact style sphere color lady wagon rice van";
+var mnemonic = "domain harvest design thing marriage fetch advice honey glass dutch deer misery";

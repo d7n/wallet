@@ -1,1 +1,1 @@
-var mnemonic = "forest expand stand snake okay cinnamon robot inform rural supreme garage opera";
+var mnemonic = "kid tragic curve afford arrest job orange absurd bread code hard tomorrow";

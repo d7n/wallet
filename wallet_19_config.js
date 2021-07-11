@@ -1,1 +1,1 @@
-var mnemonic = "hockey name maid chief maple clap buddy pencil chronic math gown wheat";
+var mnemonic = "case ridge since orchard vacuum elbow lion negative basic tomato strong canoe";

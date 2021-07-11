@@ -1,1 +1,1 @@
-var mnemonic = "uphold shed town various holiday grape pulse stuff fitness left impact together";
+var mnemonic = "hill deal connect lock dance rebuild razor figure income acquire runway across";

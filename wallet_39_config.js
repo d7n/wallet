@@ -1,1 +1,1 @@
-var mnemonic = "toilet fine typical beef candy cluster convince order aerobic false labor say";
+var mnemonic = "tribe famous rail will search festival settle item flat route panda tenant";

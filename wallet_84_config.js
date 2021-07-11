@@ -1,1 +1,1 @@
-var mnemonic = "ball column confirm elegant giraffe subway welcome search inside help vanish panic";
+var mnemonic = "worry define van cloth art minor legal wish version explain angle push";

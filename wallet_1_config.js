@@ -1,1 +1,1 @@
-var mnemonic = "gauge grant common assault nuclear into embody eternal gun circle series crumble";
+var mnemonic = "glove mouse bunker digital obtain wool pipe surprise frog general deputy torch";

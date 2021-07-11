@@ -1,1 +1,1 @@
-var mnemonic = "room very image occur kid hat gauge distance address hire emerge entire";
+var mnemonic = "protect gossip arm open record reward priority team absurd reopen open arrive";

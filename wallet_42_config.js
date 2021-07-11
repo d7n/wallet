@@ -1,1 +1,1 @@
-var mnemonic = "road approve federal shed history glad repair damp casino harsh trophy you";
+var mnemonic = "share movie seek convince plunge deer vault caught actual vote north sense";

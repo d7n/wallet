@@ -1,1 +1,1 @@
-var mnemonic = "mistake copy inch almost ride rough immense source resemble celery win head";
+var mnemonic = "bridge purity follow strategy festival when hawk mass season eight finger pretty";

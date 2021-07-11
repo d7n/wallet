@@ -1,1 +1,1 @@
-var mnemonic = "actress assist devote century sunny blush track nuclear idea unit cash trend";
+var mnemonic = "cotton collect cost work army ready defy denial ill seat long crew";

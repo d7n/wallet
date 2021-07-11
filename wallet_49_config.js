@@ -1,1 +1,1 @@
-var mnemonic = "mind divert replace reunion network clean whisper wash field erosion load host";
+var mnemonic = "rally six dress sunny dance urge solid fan judge asset walk unit";

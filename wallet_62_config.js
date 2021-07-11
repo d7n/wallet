@@ -1,1 +1,1 @@
-var mnemonic = "ghost thunder pilot prevent thought maid evoke easily jungle whisper host question";
+var mnemonic = "post city click wife pretty drum kick spawn piece brand recall often";

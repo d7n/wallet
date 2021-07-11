@@ -1,1 +1,1 @@
-var mnemonic = "excite car whip odor later air salon script stand kind risk space";
+var mnemonic = "path under tool trust violin style stay silent name another path sudden";

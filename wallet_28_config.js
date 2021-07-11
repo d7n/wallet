@@ -1,1 +1,1 @@
-var mnemonic = "grief skirt seminar pigeon super skate direct party lend empty buffalo symbol";
+var mnemonic = "drop power just route there misery soft suspect cloth cargo beach rescue";

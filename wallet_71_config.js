@@ -1,1 +1,1 @@
-var mnemonic = "glue cushion pitch strong couple addict noble story act stuff crowd walk";
+var mnemonic = "kitten stand explain shoe immense spread gadget alien same work clip oil";

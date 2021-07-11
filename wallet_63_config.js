@@ -1,1 +1,1 @@
-var mnemonic = "negative gravity night army pizza hockey wide first enjoy tool more version";
+var mnemonic = "ability leg tube essence evidence angry unique fitness luggage swarm slogan slow";

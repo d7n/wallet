@@ -1,1 +1,1 @@
-var mnemonic = "comic drift tide woman thrive toddler apology wing penalty render medal armed";
+var mnemonic = "before bargain cigar rely reform uphold steel faint brass panel stable duty";

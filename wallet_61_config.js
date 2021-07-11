@@ -1,1 +1,1 @@
-var mnemonic = "gun exhaust electric unfold crunch shove trophy health guess oak trigger census";
+var mnemonic = "hat wash pattern robot rather mouse crime power number lunch episode midnight";

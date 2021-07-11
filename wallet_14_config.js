@@ -1,1 +1,1 @@
-var mnemonic = "balance aunt can fresh slender hazard mixture stand trap measure sting fury";
+var mnemonic = "rubber wine junior sight tuition measure occur stay swarm female snack medal";

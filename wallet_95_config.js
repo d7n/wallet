@@ -1,1 +1,1 @@
-var mnemonic = "tube razor extend include track together faith repeat flock stadium poet measure";
+var mnemonic = "belt clutch visit raccoon flip valid wisdom valve menu horror spoon notice";

@@ -1,1 +1,1 @@
-var mnemonic = "episode churn pledge atom trigger apart joy bench barely foil mechanic open";
+var mnemonic = "embody side kitten suit web diesel buffalo brain mushroom capable vendor praise";

@@ -1,1 +1,1 @@
-var mnemonic = "book anchor example poem punch spawn moon atom fringe amount turn enlist";
+var mnemonic = "dose purity curve bleak siren elevator cart merge interest injury lawn zone";

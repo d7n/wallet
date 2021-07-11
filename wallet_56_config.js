@@ -1,1 +1,1 @@
-var mnemonic = "juice apology swallow execute shift abandon essence legal obey nuclear kitten scorpion";
+var mnemonic = "mango night fiction okay bonus biology divorce grain town pink black hold";

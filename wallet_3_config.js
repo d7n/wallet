@@ -1,1 +1,1 @@
-var mnemonic = "rice vivid idea jump govern swift tube target suffer warrior prevent noble";
+var mnemonic = "galaxy unusual shoot subway urge vendor egg pencil panel bridge extra pattern";

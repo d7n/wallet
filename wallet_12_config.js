@@ -1,1 +1,1 @@
-var mnemonic = "able second sphere march high believe post reopen cricket dance wire elegant";
+var mnemonic = "camera fly kiwi bonus parrot join gaze grab wink glare divert pulse";

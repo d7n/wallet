@@ -1,1 +1,1 @@
-var mnemonic = "arrow fault enable neutral asthma cram symptom problem indoor distance safe refuse";
+var mnemonic = "pause below indoor win neglect scan race crystal pair caught hover nature";

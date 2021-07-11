@@ -1,1 +1,1 @@
-var mnemonic = "gate friend model enemy document kick exhibit satisfy tomorrow almost rack visual";
+var mnemonic = "swallow diagram gasp solid hybrid movie retire lecture such add decrease field";

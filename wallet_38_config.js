@@ -1,1 +1,1 @@
-var mnemonic = "mean unlock depend replace divide use style nurse logic minute legal piece";
+var mnemonic = "oven fashion hungry coral idle grant asthma nation onion embody vague weekend";

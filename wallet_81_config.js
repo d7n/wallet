@@ -1,1 +1,1 @@
-var mnemonic = "glance excite cloth few someone lonely stay bullet creek switch parade satisfy";
+var mnemonic = "green foam input matter news october screen dutch name victory depart frame";

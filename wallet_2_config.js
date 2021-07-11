@@ -1,1 +1,1 @@
-var mnemonic = "warm expect social tiny beauty tourist what garden crash learn height employ";
+var mnemonic = "again walk tent daring reward kid enjoy morning reunion circle vapor burst";

@@ -1,1 +1,1 @@
-var mnemonic = "point flock siren judge cricket round jump fly myth noise produce swarm";
+var mnemonic = "cross please spider person check coast eagle bring rescue want load need";

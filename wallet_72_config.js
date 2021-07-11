@@ -1,1 +1,1 @@
-var mnemonic = "bulk health letter vehicle useful entry tragic pudding flame tongue mass immense";
+var mnemonic = "easily unhappy essay bright include thumb arrange toddler expand repeat accuse make";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy toe tobacco syrup crumble weather write family galaxy depth useful evil";
+var mnemonic = "mean diesel foam dish bounce little panda rare day fiber stamp melody";

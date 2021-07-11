@@ -1,1 +1,1 @@
-var mnemonic = "solid infant hint excite oval sphere winner world lyrics price glory volcano";
+var mnemonic = "own alter boat rigid pass obey upgrade gather lucky alert warrior rent";

@@ -1,1 +1,1 @@
-var mnemonic = "spice spring client consider then dizzy smooth picnic benefit warfare gown lesson";
+var mnemonic = "water luxury any bird glass combine lunch sweet inquiry innocent capital boss";

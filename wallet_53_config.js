@@ -1,1 +1,1 @@
-var mnemonic = "basket rice address assault fade wrap eight fitness live pudding gaze junior";
+var mnemonic = "scatter decade violin belt verify alcohol goddess theory electric board firm biology";

@@ -1,1 +1,1 @@
-var mnemonic = "club shuffle cruise what surge crash pioneer sign cigar defense upper leaf";
+var mnemonic = "ivory link diamond vapor step steak clever pony number author auction few";

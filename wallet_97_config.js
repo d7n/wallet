@@ -1,1 +1,1 @@
-var mnemonic = "garage release achieve rural rabbit flip wall letter afford gospel grant rebel";
+var mnemonic = "pair pool electric inherit sea keen minute donkey afraid divide pattern real";

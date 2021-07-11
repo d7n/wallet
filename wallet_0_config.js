@@ -1,1 +1,1 @@
-var mnemonic = "lamp behave useful orphan limit helmet pencil track lazy inspire vehicle tourist";
+var mnemonic = "start belt robust depart fatigue juice fury fog sugar clerk pumpkin magic";

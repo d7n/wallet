@@ -1,1 +1,1 @@
-var mnemonic = "avoid butter inmate disorder exercise stay already input crazy verb destroy final";
+var mnemonic = "wheel toe viable habit toward laundry wish file ceiling boil slide split";

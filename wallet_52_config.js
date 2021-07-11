@@ -1,1 +1,1 @@
-var mnemonic = "catch lava normal drum cost result thing power human edit better visa";
+var mnemonic = "club critic describe solve index tissue banner rug person sibling artist drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "various initial outdoor ride pluck mule original plug output corn gentle wife";
+var mnemonic = "quantum appear adapt shop hero utility key pill caught course volume glance";

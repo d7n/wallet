@@ -1,1 +1,1 @@
-var mnemonic = "short left blossom below excess series clock strong scrub truly effort anger";
+var mnemonic = "kind crew approve song river zone method walk vicious bubble interest fruit";

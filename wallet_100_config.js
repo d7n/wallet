@@ -1,1 +1,1 @@
-var mnemonic = "approve repair robot urge enrich decrease soul carry drink boost mom cliff";
+var mnemonic = "observe patch sense stool fence buddy swallow ordinary valve type broccoli planet";

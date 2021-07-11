@@ -1,1 +1,1 @@
-var mnemonic = "blade nice autumn sudden bag goose end captain club horn kidney bar";
+var mnemonic = "stairs lens worth future cart salute ready agent scare recall absent ivory";

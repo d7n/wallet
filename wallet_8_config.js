@@ -1,1 +1,1 @@
-var mnemonic = "dove excess crucial exchange color gun castle wasp minute kit pact permit";
+var mnemonic = "rescue mango side hard brisk like wood tobacco victory distance frequent truth";

@@ -1,1 +1,1 @@
-var mnemonic = "urban novel insane among oyster stick congress wagon custom piano cable suffer";
+var mnemonic = "coral leader rabbit october muffin blue armor course dumb often expire cycle";

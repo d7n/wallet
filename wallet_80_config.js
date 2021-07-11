@@ -1,1 +1,1 @@
-var mnemonic = "squirrel skill file fringe small rent already during wear theory divide bamboo";
+var mnemonic = "swear energy cube tide walnut recall flame luxury lizard make scout tilt";

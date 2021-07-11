@@ -1,1 +1,1 @@
-var mnemonic = "super axis excite essence final wonder glimpse flavor trumpet bamboo unfold base";
+var mnemonic = "spider price capable noble flight cannon mammal crash marble sample buzz divide";

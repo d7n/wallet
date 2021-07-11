@@ -1,1 +1,1 @@
-var mnemonic = "gesture salt put assume thumb memory mistake trim exhibit fence raccoon lonely";
+var mnemonic = "bubble frog rent parent stereo resist sleep mechanic flee bacon tide medal";

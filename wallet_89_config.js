@@ -1,1 +1,1 @@
-var mnemonic = "uncover marriage render safe spring enact wait marriage oyster clerk tattoo melody";
+var mnemonic = "labor sunset brave sorry legal shrug rubber round rural cherry evoke manual";

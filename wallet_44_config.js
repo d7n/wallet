@@ -1,1 +1,1 @@
-var mnemonic = "knee observe jacket wink funny used buyer movie police ivory glue pair";
+var mnemonic = "hole occur prefer vocal prefer diet behind license barrel oxygen wool tissue";

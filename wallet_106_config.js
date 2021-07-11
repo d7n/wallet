@@ -1,1 +1,1 @@
-var mnemonic = "potato gossip this riot filter deny game economy noise special cake noble";
+var mnemonic = "token deliver bus corn ocean merge fortune flower coast pink sweet method";

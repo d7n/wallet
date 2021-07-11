@@ -1,1 +1,1 @@
-var mnemonic = "purchase ozone mirror size budget crime blind rally bachelor shoot unveil focus";
+var mnemonic = "merry abuse artist admit depart enjoy grit rack anger primary lyrics credit";

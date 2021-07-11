@@ -1,1 +1,1 @@
-var mnemonic = "also usual tired orbit action brush assist you rocket story staff cat";
+var mnemonic = "usual unit spirit present nominee neither shift tourist farm mushroom phrase enlist";

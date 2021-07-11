@@ -1,1 +1,1 @@
-var mnemonic = "drip unfold shadow reveal morning vibrant detail farm amount usage access unable";
+var mnemonic = "attract series begin reveal spread bulb crouch hole soft bracket skill cause";

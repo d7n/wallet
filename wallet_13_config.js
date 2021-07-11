@@ -1,1 +1,1 @@
-var mnemonic = "avocado grit atom silly render cover parrot visit fatigue similar rug pattern";
+var mnemonic = "chapter pet carbon fiscal cave intact federal million wisdom apple dirt omit";

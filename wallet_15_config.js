@@ -1,1 +1,1 @@
-var mnemonic = "axis next portion order manual canvas parent post fortune bamboo fresh cause";
+var mnemonic = "universe ignore slam humor olympic pioneer gown pink tree dress vocal cannon";

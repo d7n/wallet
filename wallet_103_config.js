@@ -1,1 +1,1 @@
-var mnemonic = "pistol resource ocean nose length harbor rack boss library rare usual quarter";
+var mnemonic = "climb arch print kiwi hazard core cable weapon visit unhappy canal copper";

@@ -1,1 +1,1 @@
-var mnemonic = "glove pitch lesson lumber chair buffalo monster climb glare lumber initial glimpse";
+var mnemonic = "coast vintage upper rare movie violin vague reform silly culture shed chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor delay inner august distance divorce lesson ketchup giggle mask olive bind";
+var mnemonic = "useful bulk unit stereo business ripple love indoor street purse rubber despair";

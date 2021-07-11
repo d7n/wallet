@@ -1,1 +1,1 @@
-var mnemonic = "green devote cat retire rack perfect resource half axis weapon buyer learn";
+var mnemonic = "annual shell shed wheel result short fix clap basket voice music bulb";

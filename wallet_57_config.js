@@ -1,1 +1,1 @@
-var mnemonic = "build embrace sea approve coral early genuine mobile garment moral love wolf";
+var mnemonic = "march slice seat crush drama diary sponsor rice teach jewel clown kitchen";

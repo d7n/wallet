@@ -1,1 +1,1 @@
-var mnemonic = "pistol goddess visual enlist into person skull start afford circle soup fit";
+var mnemonic = "fault tree current enough ignore news spray race pulse sponsor mother order";

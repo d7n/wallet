@@ -1,1 +1,1 @@
-var mnemonic = "recipe donkey labor club level veteran engine banana pact glove rack dynamic";
+var mnemonic = "catalog bubble essay firm benefit describe vessel shadow chunk pass siege wage";

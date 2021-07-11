@@ -1,1 +1,1 @@
-var mnemonic = "boss denial winner topic race crack leave garage camp stove milk panic";
+var mnemonic = "scrub crane uncover lazy junior ugly season scan tumble climb owner pudding";

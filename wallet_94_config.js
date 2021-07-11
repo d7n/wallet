@@ -1,1 +1,1 @@
-var mnemonic = "orient elbow chief wink final card real buffalo banana clip relief noble";
+var mnemonic = "liquid pistol mimic river sphere priority defense labor juice minute tank defense";

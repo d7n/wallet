@@ -1,1 +1,1 @@
-var mnemonic = "apart glare useless split burden garbage knee dwarf hotel plunge link rookie";
+var mnemonic = "blur erode follow depth brass enforce craft squeeze receive grain arrest permit";

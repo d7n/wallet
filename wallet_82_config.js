@@ -1,1 +1,1 @@
-var mnemonic = "sunny fabric ceiling lab doll dignity daughter innocent palm large silk tilt";
+var mnemonic = "beauty camp prison mandate protect inject dash poverty exercise army half aware";

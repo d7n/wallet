@@ -1,1 +1,1 @@
-var mnemonic = "sorry silent route slide town blast gift pitch unique craft identify hurt";
+var mnemonic = "cost twice phrase village victory poem runway gravity lounge absurd pig army";

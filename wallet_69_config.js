@@ -1,1 +1,1 @@
-var mnemonic = "board solution fog any gift fog trumpet govern slight common core client";
+var mnemonic = "miss deposit tongue attack poverty raven island nominee name govern index giggle";

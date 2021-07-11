@@ -1,1 +1,1 @@
-var mnemonic = "climb solve wet laptop enter buzz change lecture absent need lecture enroll";
+var mnemonic = "enrich usual whale avoid rate harbor vital faint comic voice draft huge";

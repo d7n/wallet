@@ -1,1 +1,1 @@
-var mnemonic = "coconut excite piano patch fiber van grid transfer basic jaguar taste spray";
+var mnemonic = "wash disease gown foot night garden innocent find jealous moral panic seed";

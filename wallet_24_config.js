@@ -1,1 +1,1 @@
-var mnemonic = "erase basic net adapt local attract forward eye join torch name throw";
+var mnemonic = "address derive depend result library extra behind tide bargain galaxy venture memory";

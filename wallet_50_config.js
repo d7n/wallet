@@ -1,1 +1,1 @@
-var mnemonic = "feature upper screen inquiry entire figure rural nut fitness welcome found barrel";
+var mnemonic = "they glory shock leader mutual win joy cycle ask text ancient dash";

@@ -1,1 +1,1 @@
-var mnemonic = "humor wonder echo another derive cricket poverty warm tag vast gallery space";
+var mnemonic = "desert unveil hurry bag hole damage wool chicken visual thought assume salmon";
