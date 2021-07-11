@@ -1,1 +1,1 @@
-var mnemonic = "come ceiling bargain security breeze match tray rescue lift goat water derive";
+var mnemonic = "project broken actual floor ginger series between problem nominee virus major sick";

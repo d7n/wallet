@@ -1,1 +1,1 @@
-var mnemonic = "axis want drastic hero adjust jelly pyramid tenant stuff resist pass siren";
+var mnemonic = "culture trap clock split tilt blush olympic elder float scene project page";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt swarm sketch maximum sibling skate slight deny holiday flash oil mix";
+var mnemonic = "almost pigeon brisk wire cart west ramp inherit high marriage breeze bleak";

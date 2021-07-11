@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wedding extra around mercy easily park border cycle walnut focus please";
+var mnemonic = "behave between tenant bread ritual nut hover dry fiber delay quote across";

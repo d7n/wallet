@@ -1,1 +1,1 @@
-var mnemonic = "explain normal inner wreck frog moral spice also submit jelly juice range";
+var mnemonic = "run index coyote modify upon lounge tribe world crunch indicate jungle clap";

@@ -1,1 +1,1 @@
-var mnemonic = "try moon weasel lonely detect kiwi steel problem sausage upgrade stadium pencil";
+var mnemonic = "crisp sing seek document grid above bitter debate random razor apple edit";

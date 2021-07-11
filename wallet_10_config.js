@@ -1,1 +1,1 @@
-var mnemonic = "raven letter invest pull obtain ranch inner vast magnet budget rally little";
+var mnemonic = "method multiply taste field air ramp guilt dress enact collect hidden fault";

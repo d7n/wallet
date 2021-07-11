@@ -1,1 +1,1 @@
-var mnemonic = "release ten language annual series frame pet honey window swarm novel mention";
+var mnemonic = "rotate arrest trigger february acquire inhale shift sleep alert tribe pledge bronze";

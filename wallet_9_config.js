@@ -1,1 +1,1 @@
-var mnemonic = "remain next rival enemy solve hollow business animal force average luxury pioneer";
+var mnemonic = "very bus recall tent exercise omit repeat tunnel nature high aspect mystery";

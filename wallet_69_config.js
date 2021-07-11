@@ -1,1 +1,1 @@
-var mnemonic = "planet gallery junior best bundle gentle sunset patrol when end oak alcohol";
+var mnemonic = "fashion angle crumble depth merry crawl park magnet crane crime hole legal";

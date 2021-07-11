@@ -1,1 +1,1 @@
-var mnemonic = "truck prosper upper brisk enrich rabbit camera grocery tree inner verify opera";
+var mnemonic = "buyer mosquito machine wife poverty smart cook pigeon warfare blame endorse defense";

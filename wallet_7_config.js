@@ -1,1 +1,1 @@
-var mnemonic = "spot cricket pumpkin mandate ship exercise pretty pitch love great ahead evil";
+var mnemonic = "physical cost giraffe pet cart endorse neutral wage nominee taxi smile repair";

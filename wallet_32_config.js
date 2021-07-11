@@ -1,1 +1,1 @@
-var mnemonic = "rose shuffle coconut allow cute beyond since material evil say rally side";
+var mnemonic = "cook deposit chunk lift fashion convince whip artefact cannon reward install pull";

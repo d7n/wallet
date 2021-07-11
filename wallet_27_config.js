@@ -1,1 +1,1 @@
-var mnemonic = "peanut staff glimpse trap immune ring gossip mirror donor liberty unlock embody";
+var mnemonic = "fog alone unfold must soccer trade thing problem bulk confirm injury addict";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset easy dose denial craft solution mention scrub pause feature annual nuclear";
+var mnemonic = "come plate wreck tag fit list coconut vehicle song hobby bring wood";

@@ -1,1 +1,1 @@
-var mnemonic = "license fold unusual garment teach exist gorilla flag hedgehog quit expose stock";
+var mnemonic = "gadget verb scan grab brand wait height obtain between crunch protect monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn cabbage wish crumble voyage alcohol divert lobster twist knee aware grit";
+var mnemonic = "position visit narrow skill genius differ code frequent sample mimic usage panic";

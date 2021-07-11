@@ -1,1 +1,1 @@
-var mnemonic = "giraffe tired uncle boss lend bridge transfer ride ice climb step fade";
+var mnemonic = "until output sugar sock view swap face village object nut dizzy midnight";

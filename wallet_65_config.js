@@ -1,1 +1,1 @@
-var mnemonic = "issue motion stove funny salute hidden glove online gallery flush balcony marriage";
+var mnemonic = "hire senior suggest phone parade throw dune amused knife grit glory april";

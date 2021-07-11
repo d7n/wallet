@@ -1,1 +1,1 @@
-var mnemonic = "ball chicken reduce sort small giraffe coyote hope exact vital assume crumble";
+var mnemonic = "finish alien concert legal east siren accuse maple wet easy year butter";

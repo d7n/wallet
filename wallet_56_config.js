@@ -1,1 +1,1 @@
-var mnemonic = "noble feed feature adapt ice still seek parent simple unfair wing elbow";
+var mnemonic = "faculty measure clerk grunt upset boat wish enforce trim layer truth drama";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage sustain license window suit always dutch guard property manual once arrest";
+var mnemonic = "viable creek razor invite next confirm kangaroo photo faint concert develop kite";

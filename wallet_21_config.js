@@ -1,1 +1,1 @@
-var mnemonic = "bulb toss ketchup steel hub hockey client click view blouse token october";
+var mnemonic = "ivory tool electric year mean expand luxury pottery jewel eagle often race";

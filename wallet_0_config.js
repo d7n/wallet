@@ -1,1 +1,1 @@
-var mnemonic = "adjust reopen elite select tuition elbow you imitate bounce elbow cram insane";
+var mnemonic = "another photo floor impulse gauge mother peace cotton alley perfect obvious turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "use lift resemble owner capital engage fox reunion digital orphan wrong mouse";
+var mnemonic = "skate ride setup follow then office clump knee repair comfort lend hockey";

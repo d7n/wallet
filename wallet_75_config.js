@@ -1,1 +1,1 @@
-var mnemonic = "this rent aspect dish pet slow fresh speed veteran trumpet gauge crime";
+var mnemonic = "alpha custom always source total spoon ketchup produce diet obvious patch peasant";

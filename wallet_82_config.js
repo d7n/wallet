@@ -1,1 +1,1 @@
-var mnemonic = "casino obey shield cash teach asthma recycle arrest diesel cupboard scissors hen";
+var mnemonic = "noble region outdoor exercise record sadness wisdom cheap column blast inflict harvest";

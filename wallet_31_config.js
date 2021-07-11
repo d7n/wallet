@@ -1,1 +1,1 @@
-var mnemonic = "embark limb type debate coil slot write safe amateur essay winter rely";
+var mnemonic = "vintage guide squeeze romance news embark range fragile shuffle furnace tribe write";

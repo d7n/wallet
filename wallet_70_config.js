@@ -1,1 +1,1 @@
-var mnemonic = "slow calm culture popular rug purpose foster bless farm horn heart draw";
+var mnemonic = "shaft cup unusual enable tray cabin sense swing blood inch gadget level";

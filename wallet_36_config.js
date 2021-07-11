@@ -1,1 +1,1 @@
-var mnemonic = "canvas install fiber tennis dash evidence spin skate ordinary future acid lottery";
+var mnemonic = "sort minimum worry where life panel reopen amazing math item scorpion bitter";

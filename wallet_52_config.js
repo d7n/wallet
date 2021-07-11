@@ -1,1 +1,1 @@
-var mnemonic = "amused unfair double shiver use true million clever garden magic sand deliver";
+var mnemonic = "random reform club lyrics win mutual gather nerve bonus shed code position";

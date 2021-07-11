@@ -1,1 +1,1 @@
-var mnemonic = "canyon angle strategy jacket close detail under yellow satisfy call cereal expire";
+var mnemonic = "scan exist letter essay devote flag fiscal grow credit volume erosion fossil";

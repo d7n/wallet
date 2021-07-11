@@ -1,1 +1,1 @@
-var mnemonic = "grace kit culture tribe note prison betray garlic life jewel siege essence";
+var mnemonic = "chimney brass wave small also fall matrix grocery garlic jar vintage green";

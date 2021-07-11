@@ -1,1 +1,1 @@
-var mnemonic = "harvest aware dad tray august ribbon gun police there reduce only conduct";
+var mnemonic = "able world jeans notice stomach cash tortoise lemon hire road index forum";

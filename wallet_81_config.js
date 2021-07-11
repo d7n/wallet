@@ -1,1 +1,1 @@
-var mnemonic = "beyond public protect august put simple define universe marble matrix vocal unable";
+var mnemonic = "next ethics boy travel first tired empower few obscure rug hedgehog absent";

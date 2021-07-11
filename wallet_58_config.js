@@ -1,1 +1,1 @@
-var mnemonic = "face pass detail maximum fatigue math fiction theme cake fruit library left";
+var mnemonic = "proof street cancel wrong cloth deer unlock tonight jacket glue bind enter";

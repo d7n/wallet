@@ -1,1 +1,1 @@
-var mnemonic = "sad mobile real pottery tag worth post opera achieve pigeon rifle slender";
+var mnemonic = "invest gold forest piece such flip burger weapon regret edit congress faculty";

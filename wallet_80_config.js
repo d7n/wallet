@@ -1,1 +1,1 @@
-var mnemonic = "scare dignity prison axis explain faculty rather trumpet swift gossip glue indicate";
+var mnemonic = "snow stone neck traffic swim survey prize crowd oppose heavy sad index";

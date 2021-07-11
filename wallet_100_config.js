@@ -1,1 +1,1 @@
-var mnemonic = "bachelor garment recipe chef junk attend gorilla mystery rail bean wheel poem";
+var mnemonic = "lend bomb word actress act fine tool random nasty shaft black winter";

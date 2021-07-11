@@ -1,1 +1,1 @@
-var mnemonic = "direct trust margin setup topic margin toilet rabbit goddess voyage try staff";
+var mnemonic = "monster march rack unhappy warfare sail supply tourist cupboard town penalty mosquito";

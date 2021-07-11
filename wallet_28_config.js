@@ -1,1 +1,1 @@
-var mnemonic = "select skin throw dismiss cactus siren capable cream cousin spider tackle element";
+var mnemonic = "toss cousin canyon indoor dwarf jelly retire sketch chimney stove damp fury";

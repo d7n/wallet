@@ -1,1 +1,1 @@
-var mnemonic = "despair label tower crane rival shoulder million saddle uncover shiver legend gas";
+var mnemonic = "surround purpose spatial stay enjoy inch cram hidden twist van actor tuition";

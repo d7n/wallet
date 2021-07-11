@@ -1,1 +1,1 @@
-var mnemonic = "verify latin equip toe warm into make language hazard giant priority direct";
+var mnemonic = "license wave dry practice scan double demand cushion oven tobacco plate reveal";

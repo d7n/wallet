@@ -1,1 +1,1 @@
-var mnemonic = "twelve traffic casino guess inner pole six grocery alter liquid nuclear tenant";
+var mnemonic = "aware atom follow double globe position exact west farm opinion bitter beauty";

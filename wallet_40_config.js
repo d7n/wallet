@@ -1,1 +1,1 @@
-var mnemonic = "sniff vanish sad october attitude solution number educate course hobby asset bar";
+var mnemonic = "staff hover citizen lecture alley hat forest van pave swamp scout sport";

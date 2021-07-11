@@ -1,1 +1,1 @@
-var mnemonic = "mention moon pulp fish large make resist lock sheriff short emotion scheme";
+var mnemonic = "belt metal inherit wave road owner mandate drastic strategy affair guide limit";

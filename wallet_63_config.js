@@ -1,1 +1,1 @@
-var mnemonic = "buffalo diet crucial then silent prison magic income blur hub tortoise hip";
+var mnemonic = "gold butter lounge assume conduct anchor sick ugly private rigid sell possible";

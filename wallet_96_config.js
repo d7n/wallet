@@ -1,1 +1,1 @@
-var mnemonic = "chaos alarm wife cactus siren market faculty unknown health cream cousin crash";
+var mnemonic = "suit invest road ship child dream enjoy total visit hill combine fine";

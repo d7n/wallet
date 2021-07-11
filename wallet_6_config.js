@@ -1,1 +1,1 @@
-var mnemonic = "then identify life insane silent mixture hawk become divide load ladder present";
+var mnemonic = "uncover off snake cry swift evidence brisk race amused release figure icon";

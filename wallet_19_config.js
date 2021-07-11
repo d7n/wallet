@@ -1,1 +1,1 @@
-var mnemonic = "casual regular fall obtain friend stamp weekend shrimp joke empower affair patch";
+var mnemonic = "kangaroo stuff brain interest side total push slam off medal host eager";

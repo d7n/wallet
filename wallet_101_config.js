@@ -1,1 +1,1 @@
-var mnemonic = "foam treat better digital shiver mesh rain clarify element scorpion ask isolate";
+var mnemonic = "edge cinnamon swim veteran banner glare occur later crush evoke roast cherry";

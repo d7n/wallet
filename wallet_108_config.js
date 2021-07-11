@@ -1,1 +1,1 @@
-var mnemonic = "harsh motion across legend toe beef social loop swear rapid stick pilot";
+var mnemonic = "head slight chimney mouse accuse toward decorate install sadness minor panther nut";

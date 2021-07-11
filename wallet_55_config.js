@@ -1,1 +1,1 @@
-var mnemonic = "lounge chalk inner organ sustain asset mountain witness ride swing tape enter";
+var mnemonic = "sock trend dune hamster target exit solution stool planet trash judge family";

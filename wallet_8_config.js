@@ -1,1 +1,1 @@
-var mnemonic = "cricket genius cloud lava abstract table digital zebra shuffle dwarf funny thing";
+var mnemonic = "web relax miss affair potato control people say hand deposit swap exist";

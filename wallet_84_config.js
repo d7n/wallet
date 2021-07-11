@@ -1,1 +1,1 @@
-var mnemonic = "lunch connect churn embark random patch stereo kangaroo permit mountain enemy plug";
+var mnemonic = "property flavor bubble shadow legend more surface glimpse maze fabric skull original";

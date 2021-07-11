@@ -1,1 +1,1 @@
-var mnemonic = "armor enhance feel leopard three property accident science gun forward innocent flock";
+var mnemonic = "season tent glue merge amazing shrug purpose jewel good capable tray void";

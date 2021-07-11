@@ -1,1 +1,1 @@
-var mnemonic = "leopard regular tank habit journey possible wisdom hold please surge fence broccoli";
+var mnemonic = "assist kiwi spirit lift cinnamon snake couple party protect sister swamp often";

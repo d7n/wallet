@@ -1,1 +1,1 @@
-var mnemonic = "adult canoe apart volume transfer catch clump river upgrade surprise divorce bring";
+var mnemonic = "cloud language voyage shallow pluck tuition damage adjust bomb plate potato charge";

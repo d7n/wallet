@@ -1,1 +1,1 @@
-var mnemonic = "bread monster broccoli card decrease trust lunar city village cliff turtle that";
+var mnemonic = "spoil coast opinion valve bright field relief window slam assist tone novel";

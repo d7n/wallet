@@ -1,1 +1,1 @@
-var mnemonic = "glow deliver labor height sting laundry avocado trash found drip shift neglect";
+var mnemonic = "public panther climb day border convince axis minimum future vanish diet soda";

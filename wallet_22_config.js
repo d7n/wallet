@@ -1,1 +1,1 @@
-var mnemonic = "sausage battle swing split juice blanket mammal plastic ice network merit bind";
+var mnemonic = "police celery replace surprise primary cloth clip sword borrow pair mind veteran";

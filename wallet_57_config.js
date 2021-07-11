@@ -1,1 +1,1 @@
-var mnemonic = "film cute control useless match work spider garment manage recall weapon tuna";
+var mnemonic = "injury unit century bag ocean jelly frozen metal giant strong black belt";

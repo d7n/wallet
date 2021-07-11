@@ -1,1 +1,1 @@
-var mnemonic = "there pass adult frog check family night teach appear trumpet human minor";
+var mnemonic = "dose dismiss exotic act region fun artwork essay now weekend neck gravity";

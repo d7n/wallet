@@ -1,1 +1,1 @@
-var mnemonic = "husband decade discover health cabbage subway liberty rough neglect december deer dynamic";
+var mnemonic = "race cherry gorilla sunny job paper real label foot chuckle empower oval";

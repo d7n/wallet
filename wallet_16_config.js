@@ -1,1 +1,1 @@
-var mnemonic = "plate since success divert start pumpkin silent hope space damp detect high";
+var mnemonic = "mass grid drink fire entry client omit charge logic decline pet borrow";

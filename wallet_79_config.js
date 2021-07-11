@@ -1,1 +1,1 @@
-var mnemonic = "aerobic excess trial predict main say crucial column east dirt reform soap";
+var mnemonic = "sibling theme long cricket brave regret season clip have damage reject average";

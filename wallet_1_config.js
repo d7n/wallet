@@ -1,1 +1,1 @@
-var mnemonic = "toast muffin appear planet zero unable prosper crack armor flower marine avoid";
+var mnemonic = "acquire baby fox category half vapor session milk manual raven earth cook";

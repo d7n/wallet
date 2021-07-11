@@ -1,1 +1,1 @@
-var mnemonic = "elite depth ethics reflect frost inner lake type legend jeans stuff toe";
+var mnemonic = "cabbage seven laundry false museum write combine duck treat february hawk table";

@@ -1,1 +1,1 @@
-var mnemonic = "decline army amateur right grain hip stem wide post patrol type shield";
+var mnemonic = "genre siege key awake oval oak logic mail inherit detect frame bid";

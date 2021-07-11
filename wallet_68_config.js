@@ -1,1 +1,1 @@
-var mnemonic = "promote track grass range cargo glad picnic water slide pony lab south";
+var mnemonic = "hand uncle mule pig lava order analyst help copy salt apology echo";

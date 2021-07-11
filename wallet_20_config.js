@@ -1,1 +1,1 @@
-var mnemonic = "fan crime ordinary hello author ramp river couple chronic speed raw reason";
+var mnemonic = "flower explain dream bleak minor sea play morning punch beyond moral enter";

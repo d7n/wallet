@@ -1,1 +1,1 @@
-var mnemonic = "inspire element already between tell reward actual guilt crowd negative derive assist";
+var mnemonic = "lock ladder know pelican gate exact vacuum lobster hen you chest filter";

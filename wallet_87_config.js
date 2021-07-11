@@ -1,1 +1,1 @@
-var mnemonic = "vital language legend trouble okay merry brain blush crime gloom grain sustain";
+var mnemonic = "useful nice tide cake egg cherry when notable leave jewel nothing giant";

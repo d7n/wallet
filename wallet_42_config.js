@@ -1,1 +1,1 @@
-var mnemonic = "pretty bike gain hockey pave tone goddess bottom fresh silent tragic maid";
+var mnemonic = "prevent wrong train nephew rare suit film foster betray square laugh buddy";

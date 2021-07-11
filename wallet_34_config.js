@@ -1,1 +1,1 @@
-var mnemonic = "true leave this novel myth laugh reject argue run cart catalog dial";
+var mnemonic = "police tenant drip husband hen deposit move diagram aunt siren cruel foster";

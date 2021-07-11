@@ -1,1 +1,1 @@
-var mnemonic = "fringe onion side permit weapon cousin salt soup aisle parrot course castle";
+var mnemonic = "submit panda start expose hamster purse digital physical lunar carry cake hollow";

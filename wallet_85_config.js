@@ -1,1 +1,1 @@
-var mnemonic = "layer host biology praise derive equip gossip toward oval mango thank grief";
+var mnemonic = "forest wish ball then between allow truck depart ill help where there";

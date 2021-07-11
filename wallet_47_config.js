@@ -1,1 +1,1 @@
-var mnemonic = "help shrimp verb dawn orbit hidden dinosaur farm wing input sell globe";
+var mnemonic = "derive toy virus siren vessel produce limit board day person produce absurd";

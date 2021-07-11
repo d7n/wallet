@@ -1,1 +1,1 @@
-var mnemonic = "thrive simple jaguar drama humble adjust bird salute company front asset protect";
+var mnemonic = "unit quality napkin damp wish trouble order tumble achieve joy minute rose";

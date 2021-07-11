@@ -1,1 +1,1 @@
-var mnemonic = "corn fitness release endless west square price teach artwork prepare strong goose";
+var mnemonic = "clown grunt tank bone biology slice ask render right box dwarf afraid";

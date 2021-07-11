@@ -1,1 +1,1 @@
-var mnemonic = "milk mother keen dry laugh catalog urge history drive razor neglect era";
+var mnemonic = "hire fiber angle unable awful knife jacket domain cook spare payment social";

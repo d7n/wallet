@@ -1,1 +1,1 @@
-var mnemonic = "artefact draw spend whisper salute fancy pull beach spell nasty grape credit";
+var mnemonic = "pig abstract scan rigid loan ranch way lift cart type december sing";

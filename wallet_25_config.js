@@ -1,1 +1,1 @@
-var mnemonic = "birth until teach gesture chuckle portion spider oak repeat attitude attitude dirt";
+var mnemonic = "transfer embrace angry grace region black actual now cancel maid imitate indicate";

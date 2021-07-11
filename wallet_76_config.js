@@ -1,1 +1,1 @@
-var mnemonic = "gasp payment weather color labor funny zebra floor animal equal will bacon";
+var mnemonic = "flower where able copper blur remain build major benefit foil differ frost";

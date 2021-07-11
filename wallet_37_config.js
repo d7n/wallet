@@ -1,1 +1,1 @@
-var mnemonic = "antenna skill result monkey minor trick father toilet they tornado purse normal";
+var mnemonic = "measure sudden valid green school husband connect orient fetch pull snow acquire";

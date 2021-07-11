@@ -1,1 +1,1 @@
-var mnemonic = "promote myth echo loyal okay toast basket offer endless humor future guide";
+var mnemonic = "way insane tilt invest barrel voice penalty kick burst team chicken siren";

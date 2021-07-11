@@ -1,1 +1,1 @@
-var mnemonic = "year shrug mom autumn human follow follow someone virtual afraid job trial";
+var mnemonic = "submit today theme medal search rapid live cupboard vague snack obtain good";

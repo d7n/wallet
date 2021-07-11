@@ -1,1 +1,1 @@
-var mnemonic = "obey real subway horn penalty kingdom one road state puppy habit crowd";
+var mnemonic = "tobacco disease dash doctor review question cruel bachelor solution puzzle blind ecology";

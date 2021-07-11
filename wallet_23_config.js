@@ -1,1 +1,1 @@
-var mnemonic = "north code run tissue ghost job copy august gun eager book cook";
+var mnemonic = "time wife guide slam shop hospital fence grow eager outer puzzle august";

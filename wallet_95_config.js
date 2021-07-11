@@ -1,1 +1,1 @@
-var mnemonic = "test lawsuit arrest umbrella ghost property quick someone print color include local";
+var mnemonic = "actor squirrel tomorrow install index fence old deposit jewel base drive mass";

@@ -1,1 +1,1 @@
-var mnemonic = "depend mammal battle renew fruit casino audit twist category exhaust seven alone";
+var mnemonic = "muffin toward lyrics ritual puzzle warm version ghost youth curve prefer cute";

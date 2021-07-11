@@ -1,1 +1,1 @@
-var mnemonic = "liberty garlic return diet harbor process renew milk toddler upper wink exclude";
+var mnemonic = "sense multiply motion uncover slender finger melt alpha route merit stone apology";

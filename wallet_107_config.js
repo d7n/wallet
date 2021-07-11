@@ -1,1 +1,1 @@
-var mnemonic = "loyal property duty bread base sure idea fabric coral couple aisle enough";
+var mnemonic = "then inhale hub sibling gorilla child prevent what melt wear chimney scatter";
