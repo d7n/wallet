@@ -1,1 +1,1 @@
-var mnemonic = "tragic guess message install blame scene struggle inside reopen come pipe noise";
+var mnemonic = "fruit solid front false chicken shift firm taste moral aisle thumb about";

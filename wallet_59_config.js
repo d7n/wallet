@@ -1,1 +1,1 @@
-var mnemonic = "horse pulp bench axis inside vital universe auto shell state next traffic";
+var mnemonic = "poem tackle grant exist pride obscure pear transfer wolf depth mass acoustic";

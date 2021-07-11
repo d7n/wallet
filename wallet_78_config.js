@@ -1,1 +1,1 @@
-var mnemonic = "east memory title surprise army turkey plug genuine matter brick cook pull";
+var mnemonic = "pigeon scrub neck inspire play elegant ketchup phone sick quote shop learn";

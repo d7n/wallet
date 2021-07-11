@@ -1,1 +1,1 @@
-var mnemonic = "access struggle labor silent vendor trust runway erode chicken turtle energy execute";
+var mnemonic = "job video sibling short tower true anger yard abandon insect magic gap";

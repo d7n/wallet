@@ -1,1 +1,1 @@
-var mnemonic = "mimic bring chicken wrist loyal double hood crumble flash priority giggle theme";
+var mnemonic = "luggage pyramid bag drop humble pull better season rail limb earn warfare";

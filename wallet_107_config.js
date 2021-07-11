@@ -1,1 +1,1 @@
-var mnemonic = "hamster embark cool avocado egg minute item measure thought ozone doctor rural";
+var mnemonic = "evidence version ship never gift yellow kitchen dawn legal cloth milk fetch";

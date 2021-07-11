@@ -1,1 +1,1 @@
-var mnemonic = "soldier empty hat noise humor grain year shrug cigar banana minimum achieve";
+var mnemonic = "radar fantasy grocery wish rice fatigue account deliver acquire razor adapt wet";

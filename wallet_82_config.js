@@ -1,1 +1,1 @@
-var mnemonic = "what grain harsh pair service jump menu profit harvest census soft depart";
+var mnemonic = "dune card olympic either boss record siege name short chronic feature ride";

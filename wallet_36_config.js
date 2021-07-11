@@ -1,1 +1,1 @@
-var mnemonic = "stumble swing unaware flash tag bench tell brain describe caught square curve";
+var mnemonic = "jeans erase luxury diary dawn pluck host say sun olympic cable floor";

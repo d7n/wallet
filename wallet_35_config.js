@@ -1,1 +1,1 @@
-var mnemonic = "excuse almost crane follow start brass series cup wagon video scissors favorite";
+var mnemonic = "injury nominee engine scene cost develop either hobby dirt topic inch wire";

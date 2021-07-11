@@ -1,1 +1,1 @@
-var mnemonic = "battle coil trigger ride author puppy radio buzz divide tooth hospital cost";
+var mnemonic = "scorpion soft force place dawn stove unlock access maid fatal lottery stereo";

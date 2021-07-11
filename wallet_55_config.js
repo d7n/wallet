@@ -1,1 +1,1 @@
-var mnemonic = "enroll lift company sort flag raise census slice upset alcohol tackle assist";
+var mnemonic = "certain egg tunnel police chaos drama sword once category jewel tower industry";

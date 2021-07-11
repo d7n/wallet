@@ -1,1 +1,1 @@
-var mnemonic = "eternal control ancient medal idea police raven year retire ketchup stem top";
+var mnemonic = "stand fruit panda because aim hello shallow charge cancel rifle border bone";

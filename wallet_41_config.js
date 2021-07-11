@@ -1,1 +1,1 @@
-var mnemonic = "clump rally broom shiver hedgehog emotion deposit seat arm enlist grant increase";
+var mnemonic = "sail mesh dove inflict festival arrange someone social hockey mystery enough you";

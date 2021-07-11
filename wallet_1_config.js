@@ -1,1 +1,1 @@
-var mnemonic = "coconut vibrant option solve speed place tragic distance doctor noise gym eternal";
+var mnemonic = "crisp adapt sponsor frog razor cupboard spider recipe dirt happy more social";

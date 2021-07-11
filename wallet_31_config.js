@@ -1,1 +1,1 @@
-var mnemonic = "entire oil rose crowd actual life bid tongue adult urge purity visual";
+var mnemonic = "maze rally observe oak essence oxygen corn average inflict fox never gauge";

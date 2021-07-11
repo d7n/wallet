@@ -1,1 +1,1 @@
-var mnemonic = "palace orchard odor kick buffalo usual reform slight burger resist field garment";
+var mnemonic = "faculty method gauge balcony celery album castle object blood list hair pass";

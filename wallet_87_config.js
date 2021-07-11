@@ -1,1 +1,1 @@
-var mnemonic = "chest exact proof glare chest cabin burger sudden old want cigar thumb";
+var mnemonic = "moment hole tourist blush project army shallow prepare possible wrestle gown river";

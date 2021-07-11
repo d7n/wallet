@@ -1,1 +1,1 @@
-var mnemonic = "cabin hat reveal absorb snow wood frown subway maximum abuse sample lyrics";
+var mnemonic = "okay pool potato still unique phrase security pig dragon code tag energy";

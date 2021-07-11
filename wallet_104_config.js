@@ -1,1 +1,1 @@
-var mnemonic = "bid snack promote solve bid axis earn choose world asthma gift joy";
+var mnemonic = "potato pipe book popular junior oyster duty artist ginger gate harbor gown";

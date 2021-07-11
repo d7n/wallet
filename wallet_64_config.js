@@ -1,1 +1,1 @@
-var mnemonic = "trend someone ecology punch jar draw tilt boost erupt loyal empower polar";
+var mnemonic = "curious repair carpet cry symbol tomorrow holiday enjoy flame execute mouse inmate";

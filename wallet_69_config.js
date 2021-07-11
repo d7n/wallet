@@ -1,1 +1,1 @@
-var mnemonic = "label liar recycle eternal nerve front six collect vapor fluid twelve hobby";
+var mnemonic = "junk example payment portion focus sell ecology steel anchor fashion green tonight";

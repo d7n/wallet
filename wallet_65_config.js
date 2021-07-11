@@ -1,1 +1,1 @@
-var mnemonic = "wire describe blush rabbit noodle guide sphere cement favorite manage fall tobacco";
+var mnemonic = "oil sell garlic slight chair verify core remind element bracket gun health";

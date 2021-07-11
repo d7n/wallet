@@ -1,1 +1,1 @@
-var mnemonic = "toddler stable front similar action recycle print cash tooth screen history decline";
+var mnemonic = "shy blind glass sorry certain pioneer cable mean room shoe inject middle";

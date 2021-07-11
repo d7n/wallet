@@ -1,1 +1,1 @@
-var mnemonic = "gather trouble pioneer capable know acoustic matter invest strike until inmate settle";
+var mnemonic = "man real torch cricket slice soldier upgrade march waste punch crash average";

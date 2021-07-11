@@ -1,1 +1,1 @@
-var mnemonic = "grief gate tomorrow royal dream puppy artist usual pink home base slide";
+var mnemonic = "foot stuff maximum combine earn icon sell math leopard valley talk print";

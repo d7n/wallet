@@ -1,1 +1,1 @@
-var mnemonic = "dose solve jeans equal raise option actor shoulder host journey charge front";
+var mnemonic = "random universe profit sample fatal cushion style toward this client civil steel";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist scrub laptop warm camera column decorate race tourist spider situate ridge";
+var mnemonic = "green address tide gas student entire worth behind cry cinnamon image million";

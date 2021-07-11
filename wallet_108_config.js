@@ -1,1 +1,1 @@
-var mnemonic = "rare afford dial sauce web cabbage buzz sorry civil real turn spirit";
+var mnemonic = "path bag time orphan know remember pact swap frown property deputy later";

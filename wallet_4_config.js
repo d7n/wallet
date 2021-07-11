@@ -1,1 +1,1 @@
-var mnemonic = "good soul render fury total trap private method inspire eight grit elevator";
+var mnemonic = "believe nothing grunt grass sketch opinion pudding harvest horn sausage buzz visual";

@@ -1,1 +1,1 @@
-var mnemonic = "order curious mango tobacco sorry few mesh truck bacon limit home enough";
+var mnemonic = "secret broccoli rotate focus forget theory liberty option casual odor video tide";

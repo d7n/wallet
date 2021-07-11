@@ -1,1 +1,1 @@
-var mnemonic = "auction siren next menu output accident general decorate excuse mechanic ordinary goat";
+var mnemonic = "coin canyon carry best vapor measure juice panther fresh sea leopard vocal";

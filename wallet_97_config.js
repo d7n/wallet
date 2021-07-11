@@ -1,1 +1,1 @@
-var mnemonic = "wish display mistake wrap pledge glance scissors what boy keep ghost toilet";
+var mnemonic = "vehicle fluid view ivory odor skate sadness exile pretty suggest world broom";

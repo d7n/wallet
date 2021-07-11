@@ -1,1 +1,1 @@
-var mnemonic = "enjoy hour blush soap dizzy already near swap drama blush cereal host";
+var mnemonic = "usage card connect dial become fabric source enroll high fog proud nation";

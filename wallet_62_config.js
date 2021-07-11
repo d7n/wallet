@@ -1,1 +1,1 @@
-var mnemonic = "develop naive dentist action uncle banner boss nasty armor fetch left blossom";
+var mnemonic = "unfold three light entire wheel charge congress resource loan truck volume isolate";

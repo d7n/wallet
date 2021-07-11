@@ -1,1 +1,1 @@
-var mnemonic = "snake alone butter toilet quit giggle shed tenant average educate sentence quote";
+var mnemonic = "aunt assault south monster deputy rotate write rough verify kitchen clinic cage";

@@ -1,1 +1,1 @@
-var mnemonic = "police make essay echo merit traffic hundred someone ancient tennis orange school";
+var mnemonic = "chalk ill flight system curve grape leisure assault purchase tornado weekend dinosaur";

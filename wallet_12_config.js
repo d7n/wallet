@@ -1,1 +1,1 @@
-var mnemonic = "steak devote waste autumn small shrug phone cash usual stay notice seven";
+var mnemonic = "museum portion noodle spray wash color pioneer eye source slam dumb expose";

@@ -1,1 +1,1 @@
-var mnemonic = "when earth proof rain poet mistake advance audit firm shaft put fetch";
+var mnemonic = "crystal select define gauge this soap charge drive couch empower luxury old";

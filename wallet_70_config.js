@@ -1,1 +1,1 @@
-var mnemonic = "manual section talk silk strong ankle hurt rotate fat bench stem permit";
+var mnemonic = "jewel horror license property purse margin provide gauge tuna coffee try flash";

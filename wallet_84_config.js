@@ -1,1 +1,1 @@
-var mnemonic = "second balance jungle boost adjust catch rather memory cradle old play pigeon";
+var mnemonic = "icon boring kitchen pause harsh amused poet waste hawk below upgrade castle";

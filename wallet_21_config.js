@@ -1,1 +1,1 @@
-var mnemonic = "kiwi merry ability saddle where firm sad crew program crash hello pink";
+var mnemonic = "moral addict globe update frost scare actor silver icon club inflict enact";

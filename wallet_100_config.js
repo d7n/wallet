@@ -1,1 +1,1 @@
-var mnemonic = "omit mouse phrase pass food identify bridge multiply pudding skull pool parrot";
+var mnemonic = "mule weapon short else celery violin pill surge action save kid climb";

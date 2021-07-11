@@ -1,1 +1,1 @@
-var mnemonic = "potato crater stage skin battle sick hello favorite sweet fee skin burger";
+var mnemonic = "tube bounce tumble illness rule harvest holiday divert green lizard rude during";

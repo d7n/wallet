@@ -1,1 +1,1 @@
-var mnemonic = "thrive grunt reflect system soft tortoise hill biology stay worry timber reveal";
+var mnemonic = "humble fall evolve goat abstract view another draft harsh faith around already";

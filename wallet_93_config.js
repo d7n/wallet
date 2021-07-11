@@ -1,1 +1,1 @@
-var mnemonic = "collect frequent good lumber ability rescue debate cereal resist meadow imitate only";
+var mnemonic = "ready reward device choose artwork jeans lottery bundle absurd fame lawsuit child";

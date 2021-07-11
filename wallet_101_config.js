@@ -1,1 +1,1 @@
-var mnemonic = "employ shoulder coyote since juice solution era shield scorpion genre acquire grit";
+var mnemonic = "interest erupt violin club urge stomach success cactus hurdle copy work resemble";

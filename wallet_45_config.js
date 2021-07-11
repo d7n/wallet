@@ -1,1 +1,1 @@
-var mnemonic = "real time bean menu cluster quick inspire weather ocean onion glove quiz";
+var mnemonic = "such concert away initial nut wing visual boat panther tiny excite shallow";

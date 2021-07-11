@@ -1,1 +1,1 @@
-var mnemonic = "purchase physical evidence bitter seminar junk expose cash scare armed reward sail";
+var mnemonic = "reject desert silly update loud indoor cable can pigeon swarm stand interest";

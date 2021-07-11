@@ -1,1 +1,1 @@
-var mnemonic = "liquid scare arrest famous humor banner material nephew lawn citizen mind prevent";
+var mnemonic = "sustain start turkey glimpse auto valid this talk spring copper convince imitate";

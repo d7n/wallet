@@ -1,1 +1,1 @@
-var mnemonic = "fiscal brave feed client knee input hip quit faith december blouse damage";
+var mnemonic = "match sauce toddler aware ivory put acoustic shift suggest enough arrest promote";

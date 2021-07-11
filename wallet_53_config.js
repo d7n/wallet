@@ -1,1 +1,1 @@
-var mnemonic = "daughter over alert stamp runway away sunset dinner vacant pulp fetch walk";
+var mnemonic = "define armor route december custom network silent lady chase analyst pizza soccer";

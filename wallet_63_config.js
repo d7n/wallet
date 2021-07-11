@@ -1,1 +1,1 @@
-var mnemonic = "south bamboo pupil deliver poet elbow lava weasel able flat lecture damage";
+var mnemonic = "eight cup van apart lyrics client task this decrease garlic wet arm";

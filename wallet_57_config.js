@@ -1,1 +1,1 @@
-var mnemonic = "option split festival endorse nest bracket curve cry green pill photo crystal";
+var mnemonic = "park tourist sausage flame abuse repeat document point lumber dad old speed";

@@ -1,1 +1,1 @@
-var mnemonic = "swear indoor title play idle attend dignity elite sausage version frown curious";
+var mnemonic = "luggage about goose enemy fee infant usage picture erupt repair average diamond";

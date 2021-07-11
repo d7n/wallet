@@ -1,1 +1,1 @@
-var mnemonic = "basic supreme inside island pattern jewel point spatial rebuild kidney income force";
+var mnemonic = "recall patient again barrel this stage sentence win bargain project planet video";

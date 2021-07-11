@@ -1,1 +1,1 @@
-var mnemonic = "chase helmet bike media swing badge spin chicken whip current boss torch";
+var mnemonic = "ecology veteran layer vote exit wise run tree admit fish forum expand";

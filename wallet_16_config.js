@@ -1,1 +1,1 @@
-var mnemonic = "strong orange stadium erosion tiger board obey island elephant control core wolf";
+var mnemonic = "smart dilemma tuition check yellow imitate reopen tourist cricket crowd february lonely";

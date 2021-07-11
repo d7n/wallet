@@ -1,1 +1,1 @@
-var mnemonic = "pottery buffalo thank teach range rare off slow install soap vivid goat";
+var mnemonic = "organ people hole mad lawn duck media tortoise consider ice other absurd";

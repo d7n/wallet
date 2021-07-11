@@ -1,1 +1,1 @@
-var mnemonic = "leopard hello hamster crew brother quarter wet month shuffle labor airport ostrich";
+var mnemonic = "toe start fiber clinic pitch oven club hill lawsuit someone rigid engine";

@@ -1,1 +1,1 @@
-var mnemonic = "cart boring course neglect welcome problem arctic stage kingdom still ridge blush";
+var mnemonic = "grocery flame crouch mom kidney document earn inhale throw birth length midnight";

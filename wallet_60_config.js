@@ -1,1 +1,1 @@
-var mnemonic = "priority pact grow tribe renew easily thing hazard taxi crime between apology";
+var mnemonic = "lamp scorpion flavor bean spatial across evoke smooth air grass false fever";

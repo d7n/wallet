@@ -1,1 +1,1 @@
-var mnemonic = "dynamic error course always dash thought shallow pony cream female zoo infant";
+var mnemonic = "replace liquid exotic robot flag family panda gym erase reveal pull shuffle";

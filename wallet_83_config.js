@@ -1,1 +1,1 @@
-var mnemonic = "broom day south stay satisfy swarm supply wink cream outdoor hint sunset";
+var mnemonic = "coral walk draw apology problem moon supreme letter blur stairs once sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder blade program notable flash van magnet slight borrow rail crisp asthma";
+var mnemonic = "parade wire give tackle liberty tide decline orbit hard appear mistake excuse";

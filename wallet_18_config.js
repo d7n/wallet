@@ -1,1 +1,1 @@
-var mnemonic = "leg evil police inspire ketchup human skate hold love special metal coil";
+var mnemonic = "lazy ordinary oil buffalo donor mansion tent genius off biology half crouch";

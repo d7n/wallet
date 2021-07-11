@@ -1,1 +1,1 @@
-var mnemonic = "split guitar result cradle wear holiday win story fantasy rotate outdoor stamp";
+var mnemonic = "dilemma drop brick plate citizen thunder notice warm snack island depart drastic";

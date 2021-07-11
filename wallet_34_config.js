@@ -1,1 +1,1 @@
-var mnemonic = "pull idle rack long airport unable maze sponsor elder taxi magnet youth";
+var mnemonic = "silver whale enjoy scissors future task small fat remind talent usual kid";

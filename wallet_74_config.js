@@ -1,1 +1,1 @@
-var mnemonic = "embrace duck close rubber celery short violin floor coach essay state doll";
+var mnemonic = "frame flag omit purpose october same return knock erode coach style above";

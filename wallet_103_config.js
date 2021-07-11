@@ -1,1 +1,1 @@
-var mnemonic = "call wrist trap skate visual negative element crowd cup ramp myth engage";
+var mnemonic = "horn nasty find candy season trade junk clinic fiction only situate spot";

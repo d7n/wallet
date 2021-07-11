@@ -1,1 +1,1 @@
-var mnemonic = "maid slam trap ancient ridge cradle announce live fog base hello deputy";
+var mnemonic = "devote mandate field hunt food sense quarter machine thank oblige fence away";

@@ -1,1 +1,1 @@
-var mnemonic = "potato fetch rabbit job obey push fly process actress cousin apology half";
+var mnemonic = "depend candy forum text blossom wonder strike grace someone lunar ring uncle";

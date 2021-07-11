@@ -1,1 +1,1 @@
-var mnemonic = "pilot uncle embrace gravity piece umbrella order will detail prefer phone cancel";
+var mnemonic = "trade into expose when finger laptop crane appear panel poem jungle believe";

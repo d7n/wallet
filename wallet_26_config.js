@@ -1,1 +1,1 @@
-var mnemonic = "result share two illness power radio fine organ advice seminar device clinic";
+var mnemonic = "hello they proof sun sauce weasel slim capable ability inspire luggage drama";

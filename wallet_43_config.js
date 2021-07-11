@@ -1,1 +1,1 @@
-var mnemonic = "sound finish annual wrong sister ecology carry differ lock upon retreat penalty";
+var mnemonic = "throw oppose cube melody scheme sing swarm unable holiday grape elephant disease";

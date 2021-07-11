@@ -1,1 +1,1 @@
-var mnemonic = "hero now wheel reunion arrive cement they border calm furnace renew envelope";
+var mnemonic = "ship slide verify sadness opinion crash oppose isolate season tuna program cotton";

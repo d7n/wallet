@@ -1,1 +1,1 @@
-var mnemonic = "review target draft only hair agree genuine exercise clown meat sport monster";
+var mnemonic = "electric aisle heart mad knee reflect life opera reunion affair primary express";

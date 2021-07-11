@@ -1,1 +1,1 @@
-var mnemonic = "choose manage bubble swing health fault trash february fold antenna wreck around";
+var mnemonic = "reduce vehicle poem brief remove search cattle dial version forum thumb say";

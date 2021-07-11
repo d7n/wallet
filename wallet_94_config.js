@@ -1,1 +1,1 @@
-var mnemonic = "enact february brave bomb plastic knee sustain weird charge arena supply cupboard";
+var mnemonic = "wage ginger receive favorite atom sad museum salad double caution say harsh";

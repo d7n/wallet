@@ -1,1 +1,1 @@
-var mnemonic = "apology obvious size grief pyramid paper easily salt rack struggle chunk develop";
+var mnemonic = "surge evolve aerobic code inch clay empty letter color uncover swamp measure";

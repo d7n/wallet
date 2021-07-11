@@ -1,1 +1,1 @@
-var mnemonic = "illegal frozen inspire melt volcano deposit help drama bid polar fee either";
+var mnemonic = "arrow offer onion local syrup grain good subject buyer garment guilt invite";

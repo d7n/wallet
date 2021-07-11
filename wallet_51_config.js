@@ -1,1 +1,1 @@
-var mnemonic = "bounce horn luggage team barrel force tobacco boat will route purpose monitor";
+var mnemonic = "scheme armor report slice daring cable update banana tag body pony output";

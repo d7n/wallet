@@ -1,1 +1,1 @@
-var mnemonic = "fiber assume three plug turkey rain below raven melody witness coin fatigue";
+var mnemonic = "scout call cruel purchase razor gym angle perfect dumb gospel learn gather";

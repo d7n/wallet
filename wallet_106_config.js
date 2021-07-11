@@ -1,1 +1,1 @@
-var mnemonic = "promote ritual erupt gadget artwork pudding recipe document soccer flight change machine";
+var mnemonic = "rely leader duck slot dance warfare skull happy tackle focus police pipe";

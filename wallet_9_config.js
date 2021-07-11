@@ -1,1 +1,1 @@
-var mnemonic = "caught zebra document call tide possible enjoy noodle cabin sugar sand clog";
+var mnemonic = "bid monkey absorb nose dress present razor today early knife magnet nurse";

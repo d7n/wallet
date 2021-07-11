@@ -1,1 +1,1 @@
-var mnemonic = "diet picnic service plate mercy connect supreme float squeeze nominee wide guitar";
+var mnemonic = "pride alarm excuse submit riot quality unable story depend frozen robust jewel";

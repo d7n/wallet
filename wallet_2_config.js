@@ -1,1 +1,1 @@
-var mnemonic = "process beyond shuffle drum safe sense trap bring merit add invite butter";
+var mnemonic = "arena before major fabric gesture monitor rocket consider rookie fitness subject alpha";

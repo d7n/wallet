@@ -1,1 +1,1 @@
-var mnemonic = "stool usual mail arrange bacon first accident emerge old that invite true";
+var mnemonic = "gorilla chronic true urge claw final weather find ordinary advance repair resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "output private math rate tone sea click enlist evil melt nuclear cook";
+var mnemonic = "draft erupt welcome judge next material else seed cannon dignity wing century";

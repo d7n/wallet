@@ -1,1 +1,1 @@
-var mnemonic = "fold raccoon stumble betray nerve race exchange fault ketchup paper siren borrow";
+var mnemonic = "monitor any cry innocent bullet clog demise kite village meat sign mosquito";
