@@ -1,1 +1,1 @@
-var mnemonic = "winner review like pumpkin frog exit oyster seven ship under noise banner";
+var mnemonic = "tattoo head gap unit maple oval audit obtain runway fruit tenant until";

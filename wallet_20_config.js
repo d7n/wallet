@@ -1,1 +1,1 @@
-var mnemonic = "tourist guard fossil lawsuit effort walnut satisfy sentence chat industry dune hamster";
+var mnemonic = "inherit weasel broccoli matter jacket pill hedgehog basket yard tray scene motor";

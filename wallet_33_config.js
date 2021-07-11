@@ -1,1 +1,1 @@
-var mnemonic = "before vanish engine salt clip knock believe reflect civil pause core drink";
+var mnemonic = "success catch rib upset level keen tuition river room file faith debris";

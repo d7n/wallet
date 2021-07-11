@@ -1,1 +1,1 @@
-var mnemonic = "autumn repeat valley vast match canoe admit kite shadow manage easily style";
+var mnemonic = "myth cheese garment void immune lift like rate sea pistol question try";

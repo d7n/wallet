@@ -1,1 +1,1 @@
-var mnemonic = "wire dry movie clerk surround cattle evil random glow wheel exercise life";
+var mnemonic = "idea wink furnace kite that attract comic skin tool brush flower super";

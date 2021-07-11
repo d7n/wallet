@@ -1,1 +1,1 @@
-var mnemonic = "jeans able try manage impulse banner labor cube shoulder sure screen potato";
+var mnemonic = "style ten minute trend hungry ghost silly alert devote sense document certain";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla onion device flush enact mask whale victory train spice train riot";
+var mnemonic = "truth solve march present wine citizen half later kick mountain suit whale";

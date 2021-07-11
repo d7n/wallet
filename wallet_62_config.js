@@ -1,1 +1,1 @@
-var mnemonic = "town cabbage series ritual slush endorse spell split rose sort super bike";
+var mnemonic = "pattern taste swarm concert vast glory include help april volume bunker cry";

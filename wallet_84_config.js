@@ -1,1 +1,1 @@
-var mnemonic = "shock rapid guard figure gesture february demand mutual lemon behind album child";
+var mnemonic = "act now stool audit hello siren mammal across update popular resource hub";

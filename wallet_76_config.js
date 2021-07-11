@@ -1,1 +1,1 @@
-var mnemonic = "eight harsh absurd involve cannon lesson emerge leader spawn farm guilt immune";
+var mnemonic = "innocent modify buyer all ignore tiny host limb sunny grab record salute";

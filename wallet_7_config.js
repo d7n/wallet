@@ -1,1 +1,1 @@
-var mnemonic = "gym sister spike control oven cluster happy marriage lake cherry puzzle butter";
+var mnemonic = "need list sausage fold ahead mountain quote enhance obvious cousin health coin";

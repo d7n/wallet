@@ -1,1 +1,1 @@
-var mnemonic = "produce vanish human inmate phrase present label crowd local figure coconut sight";
+var mnemonic = "way zoo pulse tooth tiger envelope crowd coil skin sight black pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "despair double simple reject wedding enroll seven audit bright someone about swap";
+var mnemonic = "wing frame moon notable style purity bag north dumb damage season siege";

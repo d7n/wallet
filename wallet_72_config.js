@@ -1,1 +1,1 @@
-var mnemonic = "tonight feed timber drama add famous hub olive lonely observe humble live";
+var mnemonic = "trouble force cactus idea safe balance trick solar dust casino good cute";

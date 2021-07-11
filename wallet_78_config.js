@@ -1,1 +1,1 @@
-var mnemonic = "snow turtle dismiss later digital damage rapid hedgehog cousin example project lumber";
+var mnemonic = "barrel piano canal begin dragon ticket goddess december tent increase panther armor";

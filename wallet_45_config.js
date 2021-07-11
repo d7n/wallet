@@ -1,1 +1,1 @@
-var mnemonic = "portion beyond pumpkin paddle early canvas spell assault earn skull walk solar";
+var mnemonic = "guard crawl shell praise thumb bless gentle next draft alcohol glide swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "gap taste again sad type treat table twenty inside grape shift rotate";
+var mnemonic = "duty expect trial shell baby crush mask net six tennis casino dove";

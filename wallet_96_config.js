@@ -1,1 +1,1 @@
-var mnemonic = "frame foot track inform spring document autumn sudden camera busy total rocket";
+var mnemonic = "secret kangaroo mountain galaxy fatigue junk chaos around resemble plastic govern eternal";

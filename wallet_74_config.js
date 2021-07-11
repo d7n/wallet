@@ -1,1 +1,1 @@
-var mnemonic = "pen mixed fancy sister undo buddy lunch goddess area lemon happy weather";
+var mnemonic = "quiz veteran biology avoid ceiling segment achieve harbor dignity bread voice zero";

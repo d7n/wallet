@@ -1,1 +1,1 @@
-var mnemonic = "plug apple mountain february crane coast urge during stand winter chaos claim";
+var mnemonic = "involve demise canoe knife future grow reduce cook army inject picnic rival";

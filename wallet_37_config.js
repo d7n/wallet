@@ -1,1 +1,1 @@
-var mnemonic = "odor crisp category wonder learn lottery oil cluster obey come squirrel dutch";
+var mnemonic = "guard track misery tonight gallery hole swarm broom spot album hope solid";

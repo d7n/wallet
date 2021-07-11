@@ -1,1 +1,1 @@
-var mnemonic = "inner escape board auto vague ensure evil pelican fish glow moment cupboard";
+var mnemonic = "step save tilt piece ask barrel pledge twelve leg response pledge icon";

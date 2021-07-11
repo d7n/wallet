@@ -1,1 +1,1 @@
-var mnemonic = "forget strategy baby frog truck orbit tail bonus canal soccer attack nose";
+var mnemonic = "shrimp weapon deliver juice paper team wheel tray unique champion toward update";

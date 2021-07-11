@@ -1,1 +1,1 @@
-var mnemonic = "science eagle pill crisp fly box cliff wrap later village vague spot";
+var mnemonic = "effort party admit cat dolphin system enter reduce open blouse open bachelor";

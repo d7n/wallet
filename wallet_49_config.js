@@ -1,1 +1,1 @@
-var mnemonic = "mule job stage fit genius certain music visa obscure cash train wasp";
+var mnemonic = "finish office entry horn work month gate repair habit fault circle cave";

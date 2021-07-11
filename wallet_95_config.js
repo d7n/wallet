@@ -1,1 +1,1 @@
-var mnemonic = "crumble maze festival tourist chat future whip puppy siren work push coast";
+var mnemonic = "salute sweet what focus child unhappy decide cradle dial fragile alcohol crime";

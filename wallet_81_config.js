@@ -1,1 +1,1 @@
-var mnemonic = "income country output legend trouble slush soda pulp glance deal various valley";
+var mnemonic = "price inspire loop grief answer sting own scrap coach pulse zero barrel";

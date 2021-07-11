@@ -1,1 +1,1 @@
-var mnemonic = "mean blanket sugar stay symptom girl stable defense fun marriage busy rack";
+var mnemonic = "spike coin crew zoo repeat damage treat space increase level soccer always";

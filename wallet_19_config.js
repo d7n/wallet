@@ -1,1 +1,1 @@
-var mnemonic = "century hover melt final spy desk black become mask doctor illegal latin";
+var mnemonic = "reunion satisfy fabric gaze clever lunch annual unusual scene wagon speak relax";

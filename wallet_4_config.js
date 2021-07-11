@@ -1,1 +1,1 @@
-var mnemonic = "crush segment play enact hover regular kick payment scan about arrest attack";
+var mnemonic = "swap nation soup scorpion orchard camp hurry bag reward kingdom radio goddess";

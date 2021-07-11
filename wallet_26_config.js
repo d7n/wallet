@@ -1,1 +1,1 @@
-var mnemonic = "embody inside virus arctic primary gym bounce enable awake list afraid fork";
+var mnemonic = "hour into venue lion oak require wealth verb change swim rally wheat";

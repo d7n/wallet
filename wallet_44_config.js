@@ -1,1 +1,1 @@
-var mnemonic = "begin fit oval tail crane chat frame boil quote two degree reflect";
+var mnemonic = "ozone main vapor drum cruel rain key lyrics hobby prize anxiety oak";

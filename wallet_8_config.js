@@ -1,1 +1,1 @@
-var mnemonic = "aware voice system blush shrimp ketchup entire uncover ghost oil deputy humor";
+var mnemonic = "silk era slot become village boost promote air knee grain jacket physical";

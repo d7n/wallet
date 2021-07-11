@@ -1,1 +1,1 @@
-var mnemonic = "random dry decide answer fence goat bitter safe struggle adult crisp danger";
+var mnemonic = "please mimic pencil below skull slow nerve gadget harvest animal artist shine";

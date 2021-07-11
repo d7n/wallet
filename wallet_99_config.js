@@ -1,1 +1,1 @@
-var mnemonic = "hole rebel apart nest animal inherit duty soon salmon service essence taxi";
+var mnemonic = "render option thought term jungle mystery ticket together soccer student maximum protect";

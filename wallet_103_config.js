@@ -1,1 +1,1 @@
-var mnemonic = "senior sadness height assume ripple knife skirt wage cost title top resemble";
+var mnemonic = "cheap zoo hard size midnight exclude myself refuse wheel witness anger thrive";

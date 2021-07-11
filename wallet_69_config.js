@@ -1,1 +1,1 @@
-var mnemonic = "about wolf tribe broken attract certain screen blouse symptom forward motor cage";
+var mnemonic = "program dignity throw slow miss bicycle safe print blouse blade narrow certain";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile ripple snow stay boy luxury script camp square expire review buddy";
+var mnemonic = "industry piece alter mosquito quote coffee budget reunion whisper october spatial quick";

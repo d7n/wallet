@@ -1,1 +1,1 @@
-var mnemonic = "bundle sweet machine turtle fury expand dust soft square monkey wife judge";
+var mnemonic = "useful involve south fault copper kidney wash october broom valid injury agree";

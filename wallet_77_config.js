@@ -1,1 +1,1 @@
-var mnemonic = "coil double wedding wrong cannon ginger together original pull often screen budget";
+var mnemonic = "envelope cook weekend utility today dignity ethics always shaft oxygen sheriff found";

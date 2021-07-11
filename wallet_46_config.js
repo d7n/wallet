@@ -1,1 +1,1 @@
-var mnemonic = "isolate neck space future laugh quiz always another route van dizzy fiber";
+var mnemonic = "limit velvet board trophy absorb member mean sunny shrug arch sudden discover";

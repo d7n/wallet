@@ -1,1 +1,1 @@
-var mnemonic = "frost discover aerobic endless resist bacon pupil dolphin kitten length primary cabbage";
+var mnemonic = "connect anchor over surge govern turn excess finish core omit peanut stomach";

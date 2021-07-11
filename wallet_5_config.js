@@ -1,1 +1,1 @@
-var mnemonic = "path member private loan put heavy around inject invest spider night upper";
+var mnemonic = "choose steak sun pink shaft truck praise hover casino grow deer payment";

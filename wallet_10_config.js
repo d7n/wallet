@@ -1,1 +1,1 @@
-var mnemonic = "glance group play glare explain banner original dutch slow supreme ignore elder";
+var mnemonic = "eager annual alpha virus ceiling deer hotel busy prosper track receive lawsuit";

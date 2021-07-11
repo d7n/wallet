@@ -1,1 +1,1 @@
-var mnemonic = "genre then hawk carbon camp sadness camp pretty own have pottery lion";
+var mnemonic = "shock party little penalty smoke middle phone blue eagle charge width learn";

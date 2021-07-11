@@ -1,1 +1,1 @@
-var mnemonic = "boost write key shallow fringe frown embody dutch magnet machine double myth";
+var mnemonic = "nice course tired demand chuckle social exhibit broken screen better open pupil";

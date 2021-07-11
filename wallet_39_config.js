@@ -1,1 +1,1 @@
-var mnemonic = "today gallery retire furnace arm panic emotion math cloth valley joy subway";
+var mnemonic = "deliver paper fatal fat wool average divorce song raven work robust add";

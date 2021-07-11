@@ -1,1 +1,1 @@
-var mnemonic = "someone couch pencil swallow pitch heart soon dry enter price stable begin";
+var mnemonic = "ramp parent hub own cargo achieve cup purchase base shock piece ritual";

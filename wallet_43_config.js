@@ -1,1 +1,1 @@
-var mnemonic = "knee loud medal pretty duty dice over health relief anxiety fever raven";
+var mnemonic = "noble rebuild undo evidence stuff pelican rocket meat flight style fortune roof";

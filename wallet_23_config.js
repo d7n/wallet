@@ -1,1 +1,1 @@
-var mnemonic = "naive vanish stage album ivory honey beyond fly energy suggest toward worry";
+var mnemonic = "order youth kitten welcome actor decade reunion rude aspect blue clean sheriff";

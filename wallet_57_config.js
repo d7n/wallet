@@ -1,1 +1,1 @@
-var mnemonic = "rug draft autumn document marble nothing pistol gloom velvet crumble top adjust";
+var mnemonic = "future family lion another celery secret record fly stereo change silver axis";

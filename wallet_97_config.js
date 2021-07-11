@@ -1,1 +1,1 @@
-var mnemonic = "border shallow diet crunch segment love enjoy potato nest fire budget fiscal";
+var mnemonic = "gold bacon favorite click fox puzzle ready arch tool wood life mandate";

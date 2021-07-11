@@ -1,1 +1,1 @@
-var mnemonic = "acid cousin there limb pen brick pulp select jungle melt palm heavy";
+var mnemonic = "woman category volume gossip female advance crisp insane divorce daughter adult mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs guitar fee impact photo pride scale response right ladder glass hint";
+var mnemonic = "decide solve blast audit poem strategy stable dress crucial asset valve make";

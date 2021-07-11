@@ -1,1 +1,1 @@
-var mnemonic = "local budget gossip cinnamon sense pear other style tenant rifle rain toddler";
+var mnemonic = "diet ask alcohol mother awake safe neither open nose suit survey mail";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin stumble define foil alcohol script captain fossil guitar draw cancel dog";
+var mnemonic = "copper market discover clown amused ritual execute strategy reason myself depth trash";

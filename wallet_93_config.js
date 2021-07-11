@@ -1,1 +1,1 @@
-var mnemonic = "midnight shrug song inflict again mix slender term cupboard talk observe salon";
+var mnemonic = "guilt clarify denial solution science nasty hire reject fury muffin spin demand";

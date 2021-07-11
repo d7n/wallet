@@ -1,1 +1,1 @@
-var mnemonic = "segment consider afford fiber ugly winter axis next baby inner ginger carbon";
+var mnemonic = "govern skirt apology asthma comfort result enhance helmet custom book deny festival";

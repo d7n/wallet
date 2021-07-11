@@ -1,1 +1,1 @@
-var mnemonic = "palm elegant network model abandon hope people unfold dirt bike extra tragic";
+var mnemonic = "industry express earth whip dance animal capital siren unknown catch noise verify";

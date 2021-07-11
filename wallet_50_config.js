@@ -1,1 +1,1 @@
-var mnemonic = "spring tennis test movie cable income staff book degree believe emotion surround";
+var mnemonic = "jelly patch skin lawn picnic blade copy isolate ahead rent frozen crush";

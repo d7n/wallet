@@ -1,1 +1,1 @@
-var mnemonic = "inhale stamp athlete settle depend horse remind pottery school monkey mask curtain";
+var mnemonic = "ahead promote system trust field dose gap lazy edge dismiss list onion";

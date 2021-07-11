@@ -1,1 +1,1 @@
-var mnemonic = "slender stairs begin believe again neutral rotate snake vivid situate mention attend";
+var mnemonic = "silver guitar park plastic sail silver elite arrest wolf gas cable conduct";

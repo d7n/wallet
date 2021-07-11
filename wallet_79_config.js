@@ -1,1 +1,1 @@
-var mnemonic = "gown hint episode spoil session squeeze thumb winter subway next rice liquid";
+var mnemonic = "primary prosper round coin cactus six frame clean sense leisure later used";

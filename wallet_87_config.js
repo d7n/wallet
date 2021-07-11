@@ -1,1 +1,1 @@
-var mnemonic = "endless people kit clip panther item habit million enforce build boil viable";
+var mnemonic = "occur witness foil ostrich deal cave dilemma skate apology shrimp celery own";

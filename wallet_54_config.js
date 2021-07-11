@@ -1,1 +1,1 @@
-var mnemonic = "space wet target digital cram runway spread surround one owner regular joke";
+var mnemonic = "amused stairs casual treat fish angle skull comic render board balcony lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors grace bird cattle champion cradle friend cloth extend solve reject cruel";
+var mnemonic = "mesh artwork bus settle fade old concert arena code canvas need gym";

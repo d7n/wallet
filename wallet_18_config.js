@@ -1,1 +1,1 @@
-var mnemonic = "bus move cat artwork car unhappy siren visit upset wait woman play";
+var mnemonic = "entire utility sudden defense busy february village asthma matrix frog olive flag";

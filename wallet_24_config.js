@@ -1,1 +1,1 @@
-var mnemonic = "shiver wave struggle cradle wrestle reunion rich awake wrong moon cabbage minute";
+var mnemonic = "mixed mad become poet funny gaze firm such develop labor pulp save";

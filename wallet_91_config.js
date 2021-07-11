@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin lamp recall unveil canyon coffee tail ceiling skin chronic forest eternal";
+var mnemonic = "fat festival roast face ceiling indoor trigger come aspect bracket board hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel huge ceiling connect bracket dune calm tone round carbon year mirror";
+var mnemonic = "method lake source cage shock action divert fiction slogan shove alarm ankle";

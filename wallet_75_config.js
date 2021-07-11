@@ -1,1 +1,1 @@
-var mnemonic = "other that jelly balcony paddle proof snow before effort pyramid crack upgrade";
+var mnemonic = "valid still patrol hard emerge learn sorry negative puzzle hazard arrange guilt";

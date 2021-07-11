@@ -1,1 +1,1 @@
-var mnemonic = "glide caution mixture true message absurd permit limit harvest angle under federal";
+var mnemonic = "equal bullet people rely shoulder profit plunge current arrive replace two zoo";

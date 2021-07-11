@@ -1,1 +1,1 @@
-var mnemonic = "group mobile decorate annual black review crisp hip rug elite jewel tonight";
+var mnemonic = "erosion legal dial wrestle thrive betray bounce distance burger crystal gaze math";

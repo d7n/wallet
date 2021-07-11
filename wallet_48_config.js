@@ -1,1 +1,1 @@
-var mnemonic = "job exit payment popular cave program claim orchard into valid media focus";
+var mnemonic = "spray rack cute trick weird hockey obtain music trim empty wealth later";

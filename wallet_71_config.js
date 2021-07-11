@@ -1,1 +1,1 @@
-var mnemonic = "pull cause stem habit flash arrange floor lottery cliff ridge glide exercise";
+var mnemonic = "effort park talk attend dinosaur hockey glance scale race weapon use flip";

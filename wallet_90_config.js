@@ -1,1 +1,1 @@
-var mnemonic = "manage elbow flash pumpkin theory loud digital police turn earn turkey margin";
+var mnemonic = "element sketch spike garbage all blade wear weather derive annual merry system";

@@ -1,1 +1,1 @@
-var mnemonic = "inform faith grab trick country energy spoil myself chief office talk twelve";
+var mnemonic = "water zebra eager check frown pride tackle ill high omit learn test";

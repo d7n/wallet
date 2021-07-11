@@ -1,1 +1,1 @@
-var mnemonic = "medal mind kangaroo idle clever foot wine mammal home social oil return";
+var mnemonic = "uncle have afford music nominee tower comfort crop unveil park image panther";

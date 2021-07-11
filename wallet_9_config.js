@@ -1,1 +1,1 @@
-var mnemonic = "erode spin dumb grocery skirt brush seven cave core brief link scrub";
+var mnemonic = "cigar grant future recycle cover brisk crew select spoon fantasy enlist useful";

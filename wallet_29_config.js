@@ -1,1 +1,1 @@
-var mnemonic = "twelve share below hazard appear cash copper gesture despair foot useful tiny";
+var mnemonic = "uncle okay tank twin extra guess critic ribbon mosquito joke rich enforce";

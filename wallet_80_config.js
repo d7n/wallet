@@ -1,1 +1,1 @@
-var mnemonic = "honey heavy derive other reopen divert half clap rotate today accuse casual";
+var mnemonic = "mobile minute portion shed miss bounce couple hover sleep hire cloud audit";

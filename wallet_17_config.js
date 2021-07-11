@@ -1,1 +1,1 @@
-var mnemonic = "found hunt invite diet empower true base web dynamic blouse knock theory";
+var mnemonic = "mimic plunge beef custom awesome amused emotion front race series anchor receive";

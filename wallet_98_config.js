@@ -1,1 +1,1 @@
-var mnemonic = "civil grid youth side proud sleep amused laugh frequent expand warfare dynamic";
+var mnemonic = "open ranch noodle math pull spend blue say waste margin quit announce";

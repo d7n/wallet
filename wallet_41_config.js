@@ -1,1 +1,1 @@
-var mnemonic = "sibling symptom proud engine project govern eternal entry immense twelve practice fox";
+var mnemonic = "frown wire scout affair actress scrap ordinary describe today behave honey relax";

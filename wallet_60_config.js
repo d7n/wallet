@@ -1,1 +1,1 @@
-var mnemonic = "approve during symptom cover belt cave extra fossil measure upper search decide";
+var mnemonic = "will dilemma swallow penalty horn cute cause shield tomato find talk hole";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow panel dilemma hold bus bachelor finger raw motor birth fine palace";
+var mnemonic = "drum gown young shadow account teach comfort story dilemma play post woman";

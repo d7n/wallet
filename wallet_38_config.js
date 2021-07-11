@@ -1,1 +1,1 @@
-var mnemonic = "armed yard bubble theme police canal kitchen unaware april box box pyramid";
+var mnemonic = "unlock cash oxygen bachelor banana goat repeat athlete volcano stumble detect slot";

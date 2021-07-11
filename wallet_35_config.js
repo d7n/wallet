@@ -1,1 +1,1 @@
-var mnemonic = "stem insane gap later clock noble elbow vibrant kitten piano social chuckle";
+var mnemonic = "glimpse slice destroy then heavy face nose ordinary mail wrong property yellow";

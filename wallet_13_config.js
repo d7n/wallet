@@ -1,1 +1,1 @@
-var mnemonic = "arctic apart kit legend social rival train drift amused what radar lake";
+var mnemonic = "saddle sting diet diet gym smart punch evil rose text enter saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "object throw pledge brain dry all supply monitor field ride mesh awkward";
+var mnemonic = "satisfy chest before stamp tortoise blanket coral broken useless room lazy lazy";

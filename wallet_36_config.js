@@ -1,1 +1,1 @@
-var mnemonic = "feed flash true control machine bachelor sunny bless garment knife video seminar";
+var mnemonic = "shove cry strong blue program hedgehog treat guitar pistol burden sauce twice";

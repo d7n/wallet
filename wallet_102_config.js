@@ -1,1 +1,1 @@
-var mnemonic = "buyer arena person puppy glad custom concert tool mask level mistake plunge";
+var mnemonic = "dilemma limb soon result false task area brick foil only defense front";
