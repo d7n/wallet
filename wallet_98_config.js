@@ -1,1 +1,1 @@
-var mnemonic = "allow zoo dry dismiss garbage razor unhappy donkey unaware dry flock inspire";
+var mnemonic = "bread monster broccoli card decrease trust lunar city village cliff turtle that";

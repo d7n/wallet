@@ -1,1 +1,1 @@
-var mnemonic = "quality pepper sock orbit churn right shine reward nation kidney aim connect";
+var mnemonic = "armor enhance feel leopard three property accident science gun forward innocent flock";

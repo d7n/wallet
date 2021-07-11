@@ -1,1 +1,1 @@
-var mnemonic = "shrug cycle picnic power injury regret pencil hero kidney soft yard earth";
+var mnemonic = "aerobic excess trial predict main say crucial column east dirt reform soap";

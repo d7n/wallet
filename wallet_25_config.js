@@ -1,1 +1,1 @@
-var mnemonic = "nothing diet exit couple ribbon action rabbit guide month faint army kingdom";
+var mnemonic = "birth until teach gesture chuckle portion spider oak repeat attitude attitude dirt";

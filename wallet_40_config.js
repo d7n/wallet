@@ -1,1 +1,1 @@
-var mnemonic = "genius audit project neck another fossil ignore flight ridge typical fringe chalk";
+var mnemonic = "sniff vanish sad october attitude solution number educate course hobby asset bar";

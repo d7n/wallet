@@ -1,1 +1,1 @@
-var mnemonic = "enemy flock allow author kite mask fox flower trim cattle vehicle swarm";
+var mnemonic = "twelve traffic casino guess inner pole six grocery alter liquid nuclear tenant";

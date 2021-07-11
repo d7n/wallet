@@ -1,1 +1,1 @@
-var mnemonic = "despair item aerobic ship power approve weapon skill safe rally property cause";
+var mnemonic = "north code run tissue ghost job copy august gun eager book cook";

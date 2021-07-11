@@ -1,1 +1,1 @@
-var mnemonic = "snap gas child purchase office useful despair exotic trick need patch mask";
+var mnemonic = "weather unlock winner habit shop weird ski spin stairs cushion render pen";

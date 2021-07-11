@@ -1,1 +1,1 @@
-var mnemonic = "kitchen kite organ merge cat game hundred blind will sniff sight tornado";
+var mnemonic = "inspire element already between tell reward actual guilt crowd negative derive assist";

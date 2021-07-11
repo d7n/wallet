@@ -1,1 +1,1 @@
-var mnemonic = "gap legend arch grocery trim siren loop check goddess boil scare whip";
+var mnemonic = "direct trust margin setup topic margin toilet rabbit goddess voyage try staff";

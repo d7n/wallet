@@ -1,1 +1,1 @@
-var mnemonic = "close begin orchard frame school pizza merge blame frost scorpion donor health";
+var mnemonic = "beyond public protect august put simple define universe marble matrix vocal unable";

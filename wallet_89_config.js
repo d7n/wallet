@@ -1,1 +1,1 @@
-var mnemonic = "save coil mutual plug define kingdom lizard cream sponsor survey club pitch";
+var mnemonic = "artefact draw spend whisper salute fancy pull beach spell nasty grape credit";

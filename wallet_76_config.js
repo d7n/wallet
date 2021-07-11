@@ -1,1 +1,1 @@
-var mnemonic = "suit route level basket dance mask home candy hospital early hurt mention";
+var mnemonic = "gasp payment weather color labor funny zebra floor animal equal will bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean tornado list mimic roof dress essay orchard thunder skate length crane";
+var mnemonic = "promote track grass range cargo glad picnic water slide pony lab south";

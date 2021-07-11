@@ -1,1 +1,1 @@
-var mnemonic = "liar hamster craft fog urban dawn light evidence barely fashion music uphold";
+var mnemonic = "cricket genius cloud lava abstract table digital zebra shuffle dwarf funny thing";

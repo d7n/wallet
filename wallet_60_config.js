@@ -1,1 +1,1 @@
-var mnemonic = "unveil inquiry frozen twist involve team blouse pretty maze harvest prize hat";
+var mnemonic = "guilt swarm sketch maximum sibling skate slight deny holiday flash oil mix";

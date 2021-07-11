@@ -1,1 +1,1 @@
-var mnemonic = "diamond broken tortoise title believe habit surface gloom logic high desk easy";
+var mnemonic = "truck prosper upper brisk enrich rabbit camera grocery tree inner verify opera";

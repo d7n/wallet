@@ -1,1 +1,1 @@
-var mnemonic = "text hat pelican member estate worth suspect boat rack usage border nut";
+var mnemonic = "foam treat better digital shiver mesh rain clarify element scorpion ask isolate";

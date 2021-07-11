@@ -1,1 +1,1 @@
-var mnemonic = "kitten night jacket tragic much idea people smile assume struggle poet rail";
+var mnemonic = "film cute control useless match work spider garment manage recall weapon tuna";

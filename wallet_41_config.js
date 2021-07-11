@@ -1,1 +1,1 @@
-var mnemonic = "alien skirt update search smile joy tube music orient woman loyal taxi";
+var mnemonic = "year shrug mom autumn human follow follow someone virtual afraid job trial";

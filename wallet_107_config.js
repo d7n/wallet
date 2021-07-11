@@ -1,1 +1,1 @@
-var mnemonic = "cricket moment exercise hockey add source seminar junior onion treat green edit";
+var mnemonic = "loyal property duty bread base sure idea fabric coral couple aisle enough";

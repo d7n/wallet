@@ -1,1 +1,1 @@
-var mnemonic = "embrace digital quit century thank thumb shove hospital original spell relief distance";
+var mnemonic = "planet gallery junior best bundle gentle sunset patrol when end oak alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "bean practice boost hood arena toilet winner ladder various junior first owner";
+var mnemonic = "despair label tower crane rival shoulder million saddle uncover shiver legend gas";

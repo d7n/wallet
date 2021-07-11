@@ -1,1 +1,1 @@
-var mnemonic = "enough train pass trouble language nest cannon screen tape away list control";
+var mnemonic = "help shrimp verb dawn orbit hidden dinosaur farm wing input sell globe";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge pet tragic lava basic food tray little bright helmet asthma voice";
+var mnemonic = "release ten language annual series frame pet honey window swarm novel mention";

@@ -1,1 +1,1 @@
-var mnemonic = "obey smart leave hill film isolate orbit garbage certain consider govern enter";
+var mnemonic = "sausage battle swing split juice blanket mammal plastic ice network merit bind";

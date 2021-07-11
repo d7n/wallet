@@ -1,1 +1,1 @@
-var mnemonic = "foil raccoon winner goddess tackle main grow drill say shrug unlock age";
+var mnemonic = "embark limb type debate coil slot write safe amateur essay winter rely";

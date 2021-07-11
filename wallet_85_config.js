@@ -1,1 +1,1 @@
-var mnemonic = "coast denial mango hurt visa patient property lab pet wear afraid tomato";
+var mnemonic = "layer host biology praise derive equip gossip toward oval mango thank grief";

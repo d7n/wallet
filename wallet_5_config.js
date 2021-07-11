@@ -1,1 +1,1 @@
-var mnemonic = "speak winter slender beauty tourist aspect convince now concert wonder panther solid";
+var mnemonic = "typical thank smart flip lawsuit increase speak evidence regular swing match stove";

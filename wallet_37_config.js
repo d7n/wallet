@@ -1,1 +1,1 @@
-var mnemonic = "cactus rose hurdle laptop civil recall match senior box nest prosper glass";
+var mnemonic = "antenna skill result monkey minor trick father toilet they tornado purse normal";

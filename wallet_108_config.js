@@ -1,1 +1,1 @@
-var mnemonic = "cable burst door spawn poet bulk mobile funny acquire erode bitter force";
+var mnemonic = "harsh motion across legend toe beef social loop swear rapid stick pilot";

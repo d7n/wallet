@@ -1,1 +1,1 @@
-var mnemonic = "busy exhaust canal inhale mushroom nerve hamster empty voyage sure unique summer";
+var mnemonic = "bachelor garment recipe chef junk attend gorilla mystery rail bean wheel poem";

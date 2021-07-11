@@ -1,1 +1,1 @@
-var mnemonic = "health tunnel business quality comfort siren improve learn razor review front then";
+var mnemonic = "noble feed feature adapt ice still seek parent simple unfair wing elbow";

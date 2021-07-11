@@ -1,1 +1,1 @@
-var mnemonic = "spread opinion ten globe shoot hand mandate remain impose oyster theme direct";
+var mnemonic = "decline army amateur right grain hip stem wide post patrol type shield";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium copper object lawsuit glow castle discover found era frost guess priority";
+var mnemonic = "rose shuffle coconut allow cute beyond since material evil say rally side";

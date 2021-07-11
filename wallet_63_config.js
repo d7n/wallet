@@ -1,1 +1,1 @@
-var mnemonic = "wife champion drive punch kid mammal leopard innocent echo enhance clog above";
+var mnemonic = "buffalo diet crucial then silent prison magic income blur hub tortoise hip";

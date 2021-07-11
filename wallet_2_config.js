@@ -1,1 +1,1 @@
-var mnemonic = "lunch few cereal suffer spread explain box enhance sure invest common grocery";
+var mnemonic = "adult canoe apart volume transfer catch clump river upgrade surprise divorce bring";

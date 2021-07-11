@@ -1,1 +1,1 @@
-var mnemonic = "pluck vapor ordinary tray drop extra toss wet adult print hazard inherit";
+var mnemonic = "lounge chalk inner organ sustain asset mountain witness ride swing tape enter";

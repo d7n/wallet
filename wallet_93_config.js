@@ -1,1 +1,1 @@
-var mnemonic = "choice urge deposit man able bright already veteran stone cube simple inner";
+var mnemonic = "license fold unusual garment teach exist gorilla flag hedgehog quit expose stock";

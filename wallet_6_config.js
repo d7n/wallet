@@ -1,1 +1,1 @@
-var mnemonic = "total wolf sheriff final visual chest reflect drum public exist cook during";
+var mnemonic = "then identify life insane silent mixture hawk become divide load ladder present";

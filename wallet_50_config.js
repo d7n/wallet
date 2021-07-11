@@ -1,1 +1,1 @@
-var mnemonic = "erase chuckle entry drop crater course prevent giant mask negative crystal oak";
+var mnemonic = "try moon weasel lonely detect kiwi steel problem sausage upgrade stadium pencil";

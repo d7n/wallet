@@ -1,1 +1,1 @@
-var mnemonic = "odor spy south hope robust ripple oppose kit knock orchard fossil involve";
+var mnemonic = "explain normal inner wreck frog moral spice also submit jelly juice range";

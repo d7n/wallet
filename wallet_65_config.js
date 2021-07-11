@@ -1,1 +1,1 @@
-var mnemonic = "chapter grief enemy coral heavy into toe shell forget woman naive thrive";
+var mnemonic = "issue motion stove funny salute hidden glove online gallery flush balcony marriage";

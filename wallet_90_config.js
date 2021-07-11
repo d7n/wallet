@@ -1,1 +1,1 @@
-var mnemonic = "chunk endless topple salon garbage know deny piece hover surround shuffle cloud";
+var mnemonic = "allow leisure call dance note badge unfair theory paper chief invite pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse tortoise demise because refuse silly pilot exact ivory mention quit drop";
+var mnemonic = "peanut staff glimpse trap immune ring gossip mirror donor liberty unlock embody";

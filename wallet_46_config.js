@@ -1,1 +1,1 @@
-var mnemonic = "theme morning movie target attack comic figure recall buyer clay sunny flush";
+var mnemonic = "nation average mix frown razor faint slot educate jacket ancient solve buzz";

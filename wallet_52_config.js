@@ -1,1 +1,1 @@
-var mnemonic = "crumble palm finish invest hamster below bless cook weather smile truth pottery";
+var mnemonic = "amused unfair double shiver use true million clever garden magic sand deliver";

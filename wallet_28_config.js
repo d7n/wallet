@@ -1,1 +1,1 @@
-var mnemonic = "fetch similar cruel duty scorpion text trick remain mixed vacuum despair brush";
+var mnemonic = "select skin throw dismiss cactus siren capable cream cousin spider tackle element";

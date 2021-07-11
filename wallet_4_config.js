@@ -1,1 +1,1 @@
-var mnemonic = "rice brisk lumber mistake urban erode tunnel tomorrow enroll crop build box";
+var mnemonic = "liberty garlic return diet harbor process renew milk toddler upper wink exclude";

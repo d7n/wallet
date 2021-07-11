@@ -1,1 +1,1 @@
-var mnemonic = "pistol thank try acoustic crew zero citizen panic surface river iron live";
+var mnemonic = "kiwi wedding extra around mercy easily park border cycle walnut focus please";

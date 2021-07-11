@@ -1,1 +1,1 @@
-var mnemonic = "drama odor spin cry grit uncover olive gift domain wreck inner purse";
+var mnemonic = "until slush alter diagram answer scan elegant guide happy offer frame volume";

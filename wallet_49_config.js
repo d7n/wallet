@@ -1,1 +1,1 @@
-var mnemonic = "stem high nominee kind zone olympic quick minute slide swear original risk";
+var mnemonic = "sad mobile real pottery tag worth post opera achieve pigeon rifle slender";

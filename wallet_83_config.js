@@ -1,1 +1,1 @@
-var mnemonic = "ripple lawn cruel fuel stool episode side flip tide rigid fence afford";
+var mnemonic = "time engage lonely ticket whip cook lucky earth replace spike marine faculty";

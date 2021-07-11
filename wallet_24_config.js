@@ -1,1 +1,1 @@
-var mnemonic = "clerk mom divert luggage debris enter install scene machine mad brown episode";
+var mnemonic = "egg mask slide element bid egg bean abandon rib echo apple write";

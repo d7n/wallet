@@ -1,1 +1,1 @@
-var mnemonic = "also shiver observe tattoo jar castle way badge dizzy sphere agree tool";
+var mnemonic = "marriage sustain license window suit always dutch guard property manual once arrest";

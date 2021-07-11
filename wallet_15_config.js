@@ -1,1 +1,1 @@
-var mnemonic = "skin shaft dawn tuition bridge artist cousin retire copper any oyster shoulder";
+var mnemonic = "canyon angle strategy jacket close detail under yellow satisfy call cereal expire";

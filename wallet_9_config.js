@@ -1,1 +1,1 @@
-var mnemonic = "alcohol word nothing six dream together leg antenna build admit furnace magic";
+var mnemonic = "remain next rival enemy solve hollow business animal force average luxury pioneer";

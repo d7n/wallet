@@ -1,1 +1,1 @@
-var mnemonic = "daring coyote issue nature naive scorpion hotel arch street govern artefact execute";
+var mnemonic = "ball chicken reduce sort small giraffe coyote hope exact vital assume crumble";

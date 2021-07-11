@@ -1,1 +1,1 @@
-var mnemonic = "arrange merge gasp income paddle photo picture swarm wheat cancel share together";
+var mnemonic = "thrive simple jaguar drama humble adjust bird salute company front asset protect";

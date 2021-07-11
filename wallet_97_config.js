@@ -1,1 +1,1 @@
-var mnemonic = "kite very magic upper bunker depend improve cram galaxy garbage roof broken";
+var mnemonic = "giraffe tired uncle boss lend bridge transfer ride ice climb step fade";

@@ -1,1 +1,1 @@
-var mnemonic = "help disagree language spawn alert account caught deny option apple shift camp";
+var mnemonic = "autumn cabbage wish crumble voyage alcohol divert lobster twist knee aware grit";

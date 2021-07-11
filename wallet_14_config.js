@@ -1,1 +1,1 @@
-var mnemonic = "enhance rib carry remove wood around snow snack profit nurse jar embody";
+var mnemonic = "father actress suggest empty shoulder only interest barrel annual verify mountain reward";

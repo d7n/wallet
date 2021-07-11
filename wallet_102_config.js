@@ -1,1 +1,1 @@
-var mnemonic = "news banner decorate resource inhale upon market swallow phone noodle author payment";
+var mnemonic = "sunset easy dose denial craft solution mention scrub pause feature annual nuclear";

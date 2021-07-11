@@ -1,1 +1,1 @@
-var mnemonic = "draw since attitude oyster flock cage puzzle disagree market forward rival burger";
+var mnemonic = "ceiling bacon access lock brand runway ordinary valley grief guide print various";

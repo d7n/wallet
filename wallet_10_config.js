@@ -1,1 +1,1 @@
-var mnemonic = "gift top phone drama nasty wild auto rescue quarter hollow begin fossil";
+var mnemonic = "raven letter invest pull obtain ranch inner vast magnet budget rally little";

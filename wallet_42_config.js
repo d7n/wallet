@@ -1,1 +1,1 @@
-var mnemonic = "certain topple engine van puzzle click piece bid search enable garden help";
+var mnemonic = "pretty bike gain hockey pave tone goddess bottom fresh silent tragic maid";

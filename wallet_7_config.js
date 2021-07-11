@@ -1,1 +1,1 @@
-var mnemonic = "awkward dwarf that used uphold rigid ordinary enlist raccoon coral real client";
+var mnemonic = "spot cricket pumpkin mandate ship exercise pretty pitch love great ahead evil";

@@ -1,1 +1,1 @@
-var mnemonic = "seek neglect bind panel right toilet garment current mushroom regret pair climb";
+var mnemonic = "modify pelican ritual mushroom traffic announce sample amazing cherry dolphin utility gain";

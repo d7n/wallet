@@ -1,1 +1,1 @@
-var mnemonic = "wasp adjust rotate circle topic bonus fortune else harvest dream motion desk";
+var mnemonic = "leopard regular tank habit journey possible wisdom hold please surge fence broccoli";

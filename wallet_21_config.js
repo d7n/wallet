@@ -1,1 +1,1 @@
-var mnemonic = "dress goat quit account attend annual company diagram royal patch blur busy";
+var mnemonic = "bulb toss ketchup steel hub hockey client click view blouse token october";

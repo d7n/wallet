@@ -1,1 +1,1 @@
-var mnemonic = "salad flavor afford leaf business emotion scheme embrace toe quantum regular cigar";
+var mnemonic = "use lift resemble owner capital engage fox reunion digital orphan wrong mouse";

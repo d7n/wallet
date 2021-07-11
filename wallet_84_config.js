@@ -1,1 +1,1 @@
-var mnemonic = "impulse jealous fortune moon hammer kind morning cheese trust gown actor rug";
+var mnemonic = "lunch connect churn embark random patch stereo kangaroo permit mountain enemy plug";

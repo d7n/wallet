@@ -1,1 +1,1 @@
-var mnemonic = "defy mystery bid rain foil fetch bundle behind elephant illegal topple artist";
+var mnemonic = "milk mother keen dry laugh catalog urge history drive razor neglect era";

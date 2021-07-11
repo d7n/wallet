@@ -1,1 +1,1 @@
-var mnemonic = "amateur response rotate later uniform love impose machine flower smoke group toss";
+var mnemonic = "mention moon pulp fish large make resist lock sheriff short emotion scheme";

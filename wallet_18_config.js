@@ -1,1 +1,1 @@
-var mnemonic = "board upset mass receive grant palace bunker mistake rule version valve ask";
+var mnemonic = "task verb access cannon giggle else child bargain error poverty rent pool";

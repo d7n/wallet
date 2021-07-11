@@ -1,1 +1,1 @@
-var mnemonic = "letter final diagram lesson change hire bonus inside marine arrive huge shed";
+var mnemonic = "fan crime ordinary hello author ramp river couple chronic speed raw reason";

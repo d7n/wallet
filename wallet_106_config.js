@@ -1,1 +1,1 @@
-var mnemonic = "wool track width vanish square dash dove clarify powder prepare hotel fade";
+var mnemonic = "elite depth ethics reflect frost inner lake type legend jeans stuff toe";

@@ -1,1 +1,1 @@
-var mnemonic = "infant lonely holiday shrimp mix tomato equip paddle deny film evidence stay";
+var mnemonic = "toast muffin appear planet zero unable prosper crack armor flower marine avoid";

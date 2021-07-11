@@ -1,1 +1,1 @@
-var mnemonic = "cargo day ladder arrive private six thing fine once fan hazard essay";
+var mnemonic = "fringe onion side permit weapon cousin salt soup aisle parrot course castle";

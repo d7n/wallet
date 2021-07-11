@@ -1,1 +1,1 @@
-var mnemonic = "room blind frequent fabric escape risk income before story drum bundle outdoor";
+var mnemonic = "verify latin equip toe warm into make language hazard giant priority direct";

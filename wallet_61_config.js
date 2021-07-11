@@ -1,1 +1,1 @@
-var mnemonic = "close reopen wide elder civil happy horror vapor ticket material dream donate";
+var mnemonic = "depend mammal battle renew fruit casino audit twist category exhaust seven alone";

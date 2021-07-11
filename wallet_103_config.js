@@ -1,1 +1,1 @@
-var mnemonic = "column fatigue engine choice frown sauce draw grit tank curve moon unknown";
+var mnemonic = "corn fitness release endless west square price teach artwork prepare strong goose";

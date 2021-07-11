@@ -1,1 +1,1 @@
-var mnemonic = "indicate truth hub reform man frost direct print mean flock goddess slice";
+var mnemonic = "vital language legend trouble okay merry brain blush crime gloom grain sustain";

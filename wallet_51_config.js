@@ -1,1 +1,1 @@
-var mnemonic = "pistol weasel fuel excite vapor skirt collect sail destroy snack maximum dash";
+var mnemonic = "help aim segment craft gaze into fossil ridge bubble nasty mixed victory";

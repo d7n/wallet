@@ -1,1 +1,1 @@
-var mnemonic = "scheme prosper chef mountain asthma spell turkey tape cool olive manual shove";
+var mnemonic = "manage post avocado eager question hurry inherit before weasel security whale figure";

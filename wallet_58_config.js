@@ -1,1 +1,1 @@
-var mnemonic = "family wheat smile shadow night custom swift perfect chuckle knife keen urge";
+var mnemonic = "face pass detail maximum fatigue math fiction theme cake fruit library left";

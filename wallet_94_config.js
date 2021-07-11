@@ -1,1 +1,1 @@
-var mnemonic = "dad punch protect high sense dose dash mouse clarify engine team cake";
+var mnemonic = "glow deliver labor height sting laundry avocado trash found drip shift neglect";

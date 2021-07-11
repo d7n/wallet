@@ -1,1 +1,1 @@
-var mnemonic = "manual alien guilt carbon empower bone leaf possible surface pool wait ankle";
+var mnemonic = "endless stick cool veteran wonder foot attract lake open enrich diesel ceiling";

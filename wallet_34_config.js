@@ -1,1 +1,1 @@
-var mnemonic = "govern injury fiscal issue wreck junk wisdom silent favorite truck crucial glory";
+var mnemonic = "true leave this novel myth laugh reject argue run cart catalog dial";
