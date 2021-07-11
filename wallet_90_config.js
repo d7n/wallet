@@ -1,1 +1,1 @@
-var mnemonic = "wrestle width industry club ankle sand unfair clever alley alarm liquid fish";
+var mnemonic = "chunk endless topple salon garbage know deny piece hover surround shuffle cloud";

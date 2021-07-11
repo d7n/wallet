@@ -1,1 +1,1 @@
-var mnemonic = "people one balance you gauge dream parade call shallow glad amazing bamboo";
+var mnemonic = "indicate truth hub reform man frost direct print mean flock goddess slice";

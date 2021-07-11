@@ -1,1 +1,1 @@
-var mnemonic = "unveil verb monster bind earth design forum prize airport genre position buyer";
+var mnemonic = "help disagree language spawn alert account caught deny option apple shift camp";

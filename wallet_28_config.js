@@ -1,1 +1,1 @@
-var mnemonic = "rose office purity extend limb become giggle danger final person egg turn";
+var mnemonic = "fetch similar cruel duty scorpion text trick remain mixed vacuum despair brush";

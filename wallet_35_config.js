@@ -1,1 +1,1 @@
-var mnemonic = "suspect yellow orphan total tobacco claw time ten switch cycle toy barrel";
+var mnemonic = "cargo day ladder arrive private six thing fine once fan hazard essay";

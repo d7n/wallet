@@ -1,1 +1,1 @@
-var mnemonic = "vivid act accuse friend symptom zoo soap media short cement piece recycle";
+var mnemonic = "wife champion drive punch kid mammal leopard innocent echo enhance clog above";

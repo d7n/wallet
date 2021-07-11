@@ -1,1 +1,1 @@
-var mnemonic = "need few tomato swim cactus skirt expose inquiry casino sustain grief hill";
+var mnemonic = "nothing diet exit couple ribbon action rabbit guide month faint army kingdom";

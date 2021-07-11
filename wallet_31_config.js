@@ -1,1 +1,1 @@
-var mnemonic = "crumble hurry transfer prize tell slogan torch flash car daring glare catalog";
+var mnemonic = "foil raccoon winner goddess tackle main grow drill say shrug unlock age";

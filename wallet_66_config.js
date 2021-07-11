@@ -1,1 +1,1 @@
-var mnemonic = "kiwi intact achieve burger convince confirm grape screen upon youth same diary";
+var mnemonic = "enemy flock allow author kite mask fox flower trim cattle vehicle swarm";

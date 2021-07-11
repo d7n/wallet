@@ -1,1 +1,1 @@
-var mnemonic = "swamp frozen fence track distance art brown special boil various helmet split";
+var mnemonic = "black since rapid horror undo clump shadow peace swallow noodle pass plug";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage column pole bamboo adapt lonely hazard seven plunge outside cactus topple";
+var mnemonic = "gap legend arch grocery trim siren loop check goddess boil scare whip";

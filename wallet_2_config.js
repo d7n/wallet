@@ -1,1 +1,1 @@
-var mnemonic = "frost pave harvest office sport topple cabin faith electric police addict breeze";
+var mnemonic = "lunch few cereal suffer spread explain box enhance sure invest common grocery";

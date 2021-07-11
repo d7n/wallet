@@ -1,1 +1,1 @@
-var mnemonic = "program unknown exercise nose hint response supply core retire away double merge";
+var mnemonic = "rice brisk lumber mistake urban erode tunnel tomorrow enroll crop build box";

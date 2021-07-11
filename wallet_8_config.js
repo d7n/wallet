@@ -1,1 +1,1 @@
-var mnemonic = "category rely ladder jelly basket wrestle question welcome rich process moment mosquito";
+var mnemonic = "liar hamster craft fog urban dawn light evidence barely fashion music uphold";

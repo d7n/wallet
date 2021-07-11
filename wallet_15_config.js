@@ -1,1 +1,1 @@
-var mnemonic = "bulk drop equip office save wool enter profit cruel inform bleak banner";
+var mnemonic = "skin shaft dawn tuition bridge artist cousin retire copper any oyster shoulder";

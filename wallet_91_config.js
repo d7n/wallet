@@ -1,1 +1,1 @@
-var mnemonic = "spike banana what laptop normal news climb rival wasp gaze shine feature";
+var mnemonic = "room blind frequent fabric escape risk income before story drum bundle outdoor";

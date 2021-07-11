@@ -1,1 +1,1 @@
-var mnemonic = "lock stamp tobacco simple acid sniff uncover choose alpha choose spawn category";
+var mnemonic = "ocean tornado list mimic roof dress essay orchard thunder skate length crane";

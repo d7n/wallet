@@ -1,1 +1,1 @@
-var mnemonic = "warfare language aim during other coral cube angry pig arctic roast account";
+var mnemonic = "kitchen kite organ merge cat game hundred blind will sniff sight tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "protect cage sure neutral rain accuse achieve virtual like orphan faculty ecology";
+var mnemonic = "refuse tortoise demise because refuse silly pilot exact ivory mention quit drop";

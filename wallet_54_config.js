@@ -1,1 +1,1 @@
-var mnemonic = "blush minimum field general economy find lab when message tonight collect unfold";
+var mnemonic = "race hawk equip copper split royal super regular decade pole priority anchor";

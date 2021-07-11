@@ -1,1 +1,1 @@
-var mnemonic = "panda inner choice napkin dream domain shrimp puppy robot erupt control destroy";
+var mnemonic = "zone stay like outer couple there nuclear moment glass loyal coast violin";

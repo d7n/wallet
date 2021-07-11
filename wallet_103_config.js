@@ -1,1 +1,1 @@
-var mnemonic = "hint photo mutual crowd model harsh gold potato shuffle unusual fragile august";
+var mnemonic = "column fatigue engine choice frown sauce draw grit tank curve moon unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "goat subject random wheat dentist despair fame lobster chest furnace repeat service";
+var mnemonic = "dune frog inherit mother similar thumb salute spoon mean response tooth pulse";

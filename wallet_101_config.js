@@ -1,1 +1,1 @@
-var mnemonic = "wise risk height silver thumb hotel shield mystery shiver degree brain cup";
+var mnemonic = "text hat pelican member estate worth suspect boat rack usage border nut";

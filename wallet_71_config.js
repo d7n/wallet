@@ -1,1 +1,1 @@
-var mnemonic = "trick net magnet flock famous sad speed eager right flower unknown chapter";
+var mnemonic = "manual alien guilt carbon empower bone leaf possible surface pool wait ankle";

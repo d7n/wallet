@@ -1,1 +1,1 @@
-var mnemonic = "human destroy over syrup copper used will sponsor judge harbor give depend";
+var mnemonic = "wool track width vanish square dash dove clarify powder prepare hotel fade";

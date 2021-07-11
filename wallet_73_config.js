@@ -1,1 +1,1 @@
-var mnemonic = "alien furnace boss maximum reason vintage visit cool enlist run ghost around";
+var mnemonic = "outdoor voice mechanic kick crouch vocal buffalo rib kit promote between garlic";

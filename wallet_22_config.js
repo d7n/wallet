@@ -1,1 +1,1 @@
-var mnemonic = "submit memory senior nasty cereal stem cotton teach okay tape mix guitar";
+var mnemonic = "obey smart leave hill film isolate orbit garbage certain consider govern enter";

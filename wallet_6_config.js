@@ -1,1 +1,1 @@
-var mnemonic = "tell worth wage chat roast unusual skirt glide make barrel critic awesome";
+var mnemonic = "total wolf sheriff final visual chest reflect drum public exist cook during";

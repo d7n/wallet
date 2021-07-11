@@ -1,1 +1,1 @@
-var mnemonic = "walk bottom company drip absorb wage box roof food super retreat loop";
+var mnemonic = "divide word hour dice message tube gun myth asthma end someone cricket";

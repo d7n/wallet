@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow tunnel diesel jaguar steel spring price violin juice old found devote";
+var mnemonic = "ripple lawn cruel fuel stool episode side flip tide rigid fence afford";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal hazard machine peanut ivory palm into few month cheese asset pelican";
+var mnemonic = "defy mystery bid rain foil fetch bundle behind elephant illegal topple artist";

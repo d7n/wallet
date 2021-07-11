@@ -1,1 +1,1 @@
-var mnemonic = "course genuine awful dust cliff unveil enhance scan calm hockey fork embark";
+var mnemonic = "certain topple engine van puzzle click piece bid search enable garden help";

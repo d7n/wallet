@@ -1,1 +1,1 @@
-var mnemonic = "dilemma rare spring modify cross empty season enrich leaf round ozone season";
+var mnemonic = "account harbor industry member solar spread upper recipe vault piano session grass";

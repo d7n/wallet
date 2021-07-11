@@ -1,1 +1,1 @@
-var mnemonic = "ability era pyramid entry shock utility slab equal thought erupt pen essence";
+var mnemonic = "arrange merge gasp income paddle photo picture swarm wheat cancel share together";

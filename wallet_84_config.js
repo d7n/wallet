@@ -1,1 +1,1 @@
-var mnemonic = "matter attract tube assist kangaroo crouch reject flock rhythm ring double canoe";
+var mnemonic = "impulse jealous fortune moon hammer kind morning cheese trust gown actor rug";

@@ -1,1 +1,1 @@
-var mnemonic = "spike urban august debate champion that federal tobacco repair panther raise increase";
+var mnemonic = "kitten night jacket tragic much idea people smile assume struggle poet rail";

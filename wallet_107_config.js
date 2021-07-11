@@ -1,1 +1,1 @@
-var mnemonic = "crack stuff run kangaroo family vanish adapt lava flame crack denial ugly";
+var mnemonic = "cricket moment exercise hockey add source seminar junior onion treat green edit";

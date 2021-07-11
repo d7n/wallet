@@ -1,1 +1,1 @@
-var mnemonic = "economy fiber now priority soup mistake pupil near obscure make science sister";
+var mnemonic = "erase chuckle entry drop crater course prevent giant mask negative crystal oak";

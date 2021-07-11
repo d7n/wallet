@@ -1,1 +1,1 @@
-var mnemonic = "review total park ride craft option icon neglect refuse inmate height tobacco";
+var mnemonic = "theme morning movie target attack comic figure recall buyer clay sunny flush";

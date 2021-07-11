@@ -1,1 +1,1 @@
-var mnemonic = "rabbit forum earth start among squirrel hurdle garbage cage caution must amused";
+var mnemonic = "suit route level basket dance mask home candy hospital early hurt mention";

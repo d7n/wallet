@@ -1,1 +1,1 @@
-var mnemonic = "capable swift remain edit sketch tomorrow medal cactus sentence umbrella cram mango";
+var mnemonic = "spread opinion ten globe shoot hand mandate remain impose oyster theme direct";

@@ -1,1 +1,1 @@
-var mnemonic = "space play disorder soldier lab wait coil talent history sword burden fox";
+var mnemonic = "cactus rose hurdle laptop civil recall match senior box nest prosper glass";

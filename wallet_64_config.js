@@ -1,1 +1,1 @@
-var mnemonic = "stone must faith castle deliver female absent lemon flavor race kangaroo staff";
+var mnemonic = "seek neglect bind panel right toilet garment current mushroom regret pair climb";

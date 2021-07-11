@@ -1,1 +1,1 @@
-var mnemonic = "ivory duty order frequent slab spice guard goat horn inner inform apart";
+var mnemonic = "drama odor spin cry grit uncover olive gift domain wreck inner purse";

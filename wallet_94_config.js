@@ -1,1 +1,1 @@
-var mnemonic = "fragile company lottery snack scissors stock neck energy satoshi upon monitor want";
+var mnemonic = "dad punch protect high sense dose dash mouse clarify engine team cake";

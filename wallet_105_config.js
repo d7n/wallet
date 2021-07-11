@@ -1,1 +1,1 @@
-var mnemonic = "walnut now keen vague place jar stem below screen curious dawn kick";
+var mnemonic = "slow federal nuclear hour mammal fiscal visual hold mechanic account mirror soft";

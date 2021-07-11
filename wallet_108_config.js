@@ -1,1 +1,1 @@
-var mnemonic = "hammer planet error zebra elbow eager annual reform forum situate doctor pear";
+var mnemonic = "cable burst door spawn poet bulk mobile funny acquire erode bitter force";

@@ -1,1 +1,1 @@
-var mnemonic = "loud notice congress family bubble favorite romance beef ability sibling castle wagon";
+var mnemonic = "letter final diagram lesson change hire bonus inside marine arrive huge shed";

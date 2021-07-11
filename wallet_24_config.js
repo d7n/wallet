@@ -1,1 +1,1 @@
-var mnemonic = "style type mesh idle myself century plate square piano pelican unfair labor";
+var mnemonic = "clerk mom divert luggage debris enter install scene machine mad brown episode";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster curve alone museum misery erupt crunch skull upper muscle win hundred";
+var mnemonic = "coast denial mango hurt visa patient property lab pet wear afraid tomato";

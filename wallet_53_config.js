@@ -1,1 +1,1 @@
-var mnemonic = "soft resemble area detect blossom child hole junk crack february helmet connect";
+var mnemonic = "speak tide sign various drop giggle source home tornado mutual thumb soap";

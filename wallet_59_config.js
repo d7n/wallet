@@ -1,1 +1,1 @@
-var mnemonic = "humor door swing dry trouble patch finger blast hazard order cabbage hammer";
+var mnemonic = "amateur response rotate later uniform love impose machine flower smoke group toss";

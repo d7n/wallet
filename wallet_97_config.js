@@ -1,1 +1,1 @@
-var mnemonic = "verify opinion negative attend connect govern month near lucky dirt loan artist";
+var mnemonic = "kite very magic upper bunker depend improve cram galaxy garbage roof broken";

@@ -1,1 +1,1 @@
-var mnemonic = "image ahead bunker play poverty width tumble torch scare canal risk fancy";
+var mnemonic = "chapter grief enemy coral heavy into toe shell forget woman naive thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "scout police truck property jazz clump despair lazy purpose flag clarify rocket";
+var mnemonic = "enjoy remind slab cabbage avoid unfair elephant penalty remember blade slam silent";

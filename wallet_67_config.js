@@ -1,1 +1,1 @@
-var mnemonic = "awake rally juice bachelor only group input banana awkward hold catalog middle";
+var mnemonic = "quality pepper sock orbit churn right shine reward nation kidney aim connect";

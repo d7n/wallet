@@ -1,1 +1,1 @@
-var mnemonic = "parade paper neck convince panther mansion library wet deliver round soul fringe";
+var mnemonic = "infant lonely holiday shrimp mix tomato equip paddle deny film evidence stay";

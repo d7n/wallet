@@ -1,1 +1,1 @@
-var mnemonic = "sugar swallow live giraffe false egg divorce busy more install easily resource";
+var mnemonic = "despair item aerobic ship power approve weapon skill safe rally property cause";

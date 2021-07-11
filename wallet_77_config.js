@@ -1,1 +1,1 @@
-var mnemonic = "rescue catch health mammal filter romance bullet real raise animal festival hand";
+var mnemonic = "diamond broken tortoise title believe habit surface gloom logic high desk easy";

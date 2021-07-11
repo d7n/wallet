@@ -1,1 +1,1 @@
-var mnemonic = "prison plunge dust better achieve learn fat swing law one buffalo slam";
+var mnemonic = "snap gas child purchase office useful despair exotic trick need patch mask";

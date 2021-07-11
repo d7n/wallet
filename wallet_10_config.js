@@ -1,1 +1,1 @@
-var mnemonic = "spoil coffee settle often rain access gift wash fever logic case attract";
+var mnemonic = "gift top phone drama nasty wild auto rescue quarter hollow begin fossil";

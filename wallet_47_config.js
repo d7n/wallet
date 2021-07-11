@@ -1,1 +1,1 @@
-var mnemonic = "retire effort pistol ladder crop perfect rain song prefer horn resemble account";
+var mnemonic = "enough train pass trouble language nest cannon screen tape away list control";

@@ -1,1 +1,1 @@
-var mnemonic = "odor bomb gasp valve quit plunge scout insane close sign trend double";
+var mnemonic = "leopard diet early gold riot disagree twenty elder style pond pig blood";

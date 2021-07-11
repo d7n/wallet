@@ -1,1 +1,1 @@
-var mnemonic = "typical snack impose wrestle suggest sibling system crouch amazing shadow bubble essence";
+var mnemonic = "treat tissue razor magic add simple naive shove flee relax useful suit";

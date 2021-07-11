@@ -1,1 +1,1 @@
-var mnemonic = "catalog process shoulder sting quote stumble save famous entire note office birth";
+var mnemonic = "close begin orchard frame school pizza merge blame frost scorpion donor health";

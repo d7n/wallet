@@ -1,1 +1,1 @@
-var mnemonic = "term retire person staff cotton citizen replace tissue surface fuel village fee";
+var mnemonic = "busy exhaust canal inhale mushroom nerve hamster empty voyage sure unique summer";

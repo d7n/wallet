@@ -1,1 +1,1 @@
-var mnemonic = "bamboo border curious hole velvet excite rare city peasant clerk ill tilt";
+var mnemonic = "stem high nominee kind zone olympic quick minute slide swear original risk";

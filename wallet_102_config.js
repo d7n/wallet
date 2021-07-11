@@ -1,1 +1,1 @@
-var mnemonic = "comic laundry rent better busy guide follow poet filter pelican income stone";
+var mnemonic = "news banner decorate resource inhale upon market swallow phone noodle author payment";

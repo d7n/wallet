@@ -1,1 +1,1 @@
-var mnemonic = "silk kitchen pear catch silly vital runway piece divert humor science submit";
+var mnemonic = "govern injury fiscal issue wreck junk wisdom silent favorite truck crucial glory";

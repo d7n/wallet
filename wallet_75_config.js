@@ -1,1 +1,1 @@
-var mnemonic = "age crowd fall receive negative outdoor tuition damage report tiny toast decrease";
+var mnemonic = "biology dance cook lab orient chat lunch card bleak quit blur group";

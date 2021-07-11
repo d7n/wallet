@@ -1,1 +1,1 @@
-var mnemonic = "embark beyond bright smart flat faith sense pull grocery narrow bright category";
+var mnemonic = "message science moral hazard mistake bubble parent poverty october crash cruise brand";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage skate jeans cancel absent empower calm carry tomato winner guitar betray";
+var mnemonic = "speak winter slender beauty tourist aspect convince now concert wonder panther solid";

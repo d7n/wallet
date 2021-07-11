@@ -1,1 +1,1 @@
-var mnemonic = "marble robust chaos retreat sail client monkey ugly equip water drill fiscal";
+var mnemonic = "shrug cycle picnic power injury regret pencil hero kidney soft yard earth";

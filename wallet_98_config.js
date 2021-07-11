@@ -1,1 +1,1 @@
-var mnemonic = "sausage record tide fun spawn design track dignity sea census enter game";
+var mnemonic = "allow zoo dry dismiss garbage razor unhappy donkey unaware dry flock inspire";

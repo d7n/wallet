@@ -1,1 +1,1 @@
-var mnemonic = "uniform survey jewel lava benefit sword scare repair attitude knock artist long";
+var mnemonic = "also shiver observe tattoo jar castle way badge dizzy sphere agree tool";

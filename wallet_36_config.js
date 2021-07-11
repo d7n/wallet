@@ -1,1 +1,1 @@
-var mnemonic = "cart energy digital will around border picture suit snack update bean track";
+var mnemonic = "stand girl card firm volcano physical proud cool dove radio grunt horror";

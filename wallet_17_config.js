@@ -1,1 +1,1 @@
-var mnemonic = "jungle dilemma sleep web produce sheriff blanket rely vessel dice catalog novel";
+var mnemonic = "draw since attitude oyster flock cage puzzle disagree market forward rival burger";

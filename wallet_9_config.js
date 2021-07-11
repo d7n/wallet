@@ -1,1 +1,1 @@
-var mnemonic = "web orphan inquiry tree model crater skirt daughter amazing card stuff true";
+var mnemonic = "alcohol word nothing six dream together leg antenna build admit furnace magic";

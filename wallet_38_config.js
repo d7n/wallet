@@ -1,1 +1,1 @@
-var mnemonic = "damage puzzle vacuum depth extend custom shoot best height planet talk labor";
+var mnemonic = "mechanic empower cream horror path winner moment youth ivory next tumble prepare";

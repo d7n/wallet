@@ -1,1 +1,1 @@
-var mnemonic = "cost until patch shiver junk velvet wood surface garlic message blossom concert";
+var mnemonic = "close reopen wide elder civil happy horror vapor ticket material dream donate";

@@ -1,1 +1,1 @@
-var mnemonic = "box ankle trust wool nothing hammer leisure access indicate vibrant mammal night";
+var mnemonic = "pistol weasel fuel excite vapor skirt collect sail destroy snack maximum dash";

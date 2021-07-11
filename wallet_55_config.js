@@ -1,1 +1,1 @@
-var mnemonic = "book click gain hole model trade choose artefact wide convince oyster tag";
+var mnemonic = "pluck vapor ordinary tray drop extra toss wet adult print hazard inherit";

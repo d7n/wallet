@@ -1,1 +1,1 @@
-var mnemonic = "nothing angry attack hub account water pistol cry throw tissue ladder bullet";
+var mnemonic = "daring coyote issue nature naive scorpion hotel arch street govern artefact execute";

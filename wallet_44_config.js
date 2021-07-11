@@ -1,1 +1,1 @@
-var mnemonic = "afraid exclude regret keep connect spike lesson grape manual bike mutual impulse";
+var mnemonic = "scheme prosper chef mountain asthma spell turkey tape cool olive manual shove";

@@ -1,1 +1,1 @@
-var mnemonic = "skin target holiday about possible pattern jewel annual paper acquire else junk";
+var mnemonic = "health tunnel business quality comfort siren improve learn razor review front then";

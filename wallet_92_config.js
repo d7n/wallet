@@ -1,1 +1,1 @@
-var mnemonic = "they omit stamp cradle believe crystal side old crush cheese half glare";
+var mnemonic = "bean practice boost hood arena toilet winner ladder various junior first owner";

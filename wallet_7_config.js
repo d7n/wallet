@@ -1,1 +1,1 @@
-var mnemonic = "skate waste purpose river divert clock sure endorse enable unfair all attend";
+var mnemonic = "awkward dwarf that used uphold rigid ordinary enlist raccoon coral real client";
