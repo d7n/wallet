@@ -1,1 +1,1 @@
-var mnemonic = "they retire test fox danger alter demise carbon camera cage bar enroll";
+var mnemonic = "guitar rent hollow lyrics nasty quote pull satoshi festival assume humor craft";

@@ -1,1 +1,1 @@
-var mnemonic = "length battle twist peasant metal flavor purchase fold surface march century phrase";
+var mnemonic = "spice spring client consider then dizzy smooth picnic benefit warfare gown lesson";

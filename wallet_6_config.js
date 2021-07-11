@@ -1,1 +1,1 @@
-var mnemonic = "fade assault name dilemma spice magic loan wear wood frown pipe enjoy";
+var mnemonic = "recipe donkey labor club level veteran engine banana pact glove rack dynamic";

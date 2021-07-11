@@ -1,1 +1,1 @@
-var mnemonic = "armed pill pulse brother edge save ketchup guard drama huge absorb ethics";
+var mnemonic = "pupil float ice elevator across sport cool note okay typical erode reject";

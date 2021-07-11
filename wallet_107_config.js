@@ -1,1 +1,1 @@
-var mnemonic = "margin history ten vanish cost coyote miracle flip cannon uphold prosper radar";
+var mnemonic = "actress assist devote century sunny blush track nuclear idea unit cash trend";

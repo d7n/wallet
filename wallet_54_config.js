@@ -1,1 +1,1 @@
-var mnemonic = "marine pet word twelve slim cross rose nuclear fat raven mouse day";
+var mnemonic = "mesh cabbage figure evolve fold follow egg mother interest shuffle exotic twist";

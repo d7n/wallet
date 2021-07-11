@@ -1,1 +1,1 @@
-var mnemonic = "wisdom obtain fatigue stomach inside power tank entire material panther earn outside";
+var mnemonic = "uphold shed town various holiday grape pulse stuff fitness left impact together";

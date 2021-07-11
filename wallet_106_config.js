@@ -1,1 +1,1 @@
-var mnemonic = "soon manual sing giant aisle fence equip above media orphan cool together";
+var mnemonic = "potato gossip this riot filter deny game economy noise special cake noble";

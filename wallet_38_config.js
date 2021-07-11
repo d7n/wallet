@@ -1,1 +1,1 @@
-var mnemonic = "ocean tenant civil illness filter away tunnel veteran polar turkey blanket swear";
+var mnemonic = "mean unlock depend replace divide use style nurse logic minute legal piece";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy you reason ranch title enforce quantum medal visa pioneer sausage hedgehog";
+var mnemonic = "board solution fog any gift fog trumpet govern slight common core client";

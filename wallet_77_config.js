@@ -1,1 +1,1 @@
-var mnemonic = "pen remember submit discover promote disease lake broccoli lounge glory orphan lion";
+var mnemonic = "citizen spatial weird noise sweet anger friend sorry globe border capable release";

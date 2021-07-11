@@ -1,1 +1,1 @@
-var mnemonic = "dutch require alpha supply ranch spike fee twist subway chase bottom solar";
+var mnemonic = "ball column confirm elegant giraffe subway welcome search inside help vanish panic";

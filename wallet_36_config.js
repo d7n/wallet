@@ -1,1 +1,1 @@
-var mnemonic = "avoid kick relax inspire title useful novel nephew online palm suffer torch";
+var mnemonic = "various initial outdoor ride pluck mule original plug output corn gentle wife";

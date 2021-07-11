@@ -1,1 +1,1 @@
-var mnemonic = "jar option reveal devote outdoor museum habit syrup runway gorilla system neglect";
+var mnemonic = "room very image occur kid hat gauge distance address hire emerge entire";

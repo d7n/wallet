@@ -1,1 +1,1 @@
-var mnemonic = "bridge nuclear tonight boy goose hope leaf cable fury motor donkey change";
+var mnemonic = "squirrel skill file fringe small rent already during wear theory divide bamboo";

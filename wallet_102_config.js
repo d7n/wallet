@@ -1,1 +1,1 @@
-var mnemonic = "wreck moral crisp shoe credit victory piece domain april stumble someone busy";
+var mnemonic = "scout dirt thank oil level coil organ deputy mom verb trouble cannon";

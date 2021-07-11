@@ -1,1 +1,1 @@
-var mnemonic = "coach panther cliff bullet decorate lumber liar rabbit obey symptom tackle victory";
+var mnemonic = "rice vivid idea jump govern swift tube target suffer warrior prevent noble";

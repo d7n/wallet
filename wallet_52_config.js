@@ -1,1 +1,1 @@
-var mnemonic = "club kiss pen assist sport peasant spike mass runway image insane chunk";
+var mnemonic = "catch lava normal drum cost result thing power human edit better visa";

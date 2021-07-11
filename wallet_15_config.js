@@ -1,1 +1,1 @@
-var mnemonic = "expand upon welcome better link wide valve pulse win shop wrist zoo";
+var mnemonic = "axis next portion order manual canvas parent post fortune bamboo fresh cause";

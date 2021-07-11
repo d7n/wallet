@@ -1,1 +1,1 @@
-var mnemonic = "stool worth furnace upon track traffic ancient explain deposit art awake saddle";
+var mnemonic = "arrow fault enable neutral asthma cram symptom problem indoor distance safe refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey cushion cause cage flush title snack midnight later welcome train happy";
+var mnemonic = "lamp behave useful orphan limit helmet pencil track lazy inspire vehicle tourist";

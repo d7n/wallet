@@ -1,1 +1,1 @@
-var mnemonic = "moon pill energy disease rhythm crouch inquiry domain decorate boring reopen lumber";
+var mnemonic = "build embrace sea approve coral early genuine mobile garment moral love wolf";

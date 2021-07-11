@@ -1,1 +1,1 @@
-var mnemonic = "depend demise fee dream learn giant permit dune promote mom marble poet";
+var mnemonic = "gun exhaust electric unfold crunch shove trophy health guess oak trigger census";

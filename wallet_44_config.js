@@ -1,1 +1,1 @@
-var mnemonic = "dragon detail law master announce mother loyal much goose fan rose fancy";
+var mnemonic = "knee observe jacket wink funny used buyer movie police ivory glue pair";

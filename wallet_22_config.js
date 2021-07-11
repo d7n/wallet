@@ -1,1 +1,1 @@
-var mnemonic = "protect neither anxiety mutual nation pink never climb spray attend oil warm";
+var mnemonic = "anger funny average special chicken valve exit virus purchase crunch object spike";

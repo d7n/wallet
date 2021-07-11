@@ -1,1 +1,1 @@
-var mnemonic = "potato destroy young cloth there section old current surround phrase emerge float";
+var mnemonic = "gate friend model enemy document kick exhibit satisfy tomorrow almost rack visual";

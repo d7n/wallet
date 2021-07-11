@@ -1,1 +1,1 @@
-var mnemonic = "milk waste misery ripple wait genuine essay swamp learn rail shadow drive";
+var mnemonic = "congress asthma panic deputy butter hour world dirt fringe mom humble member";

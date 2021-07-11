@@ -1,1 +1,1 @@
-var mnemonic = "weasel brain flip ignore buddy exile logic powder tiger almost salon choice";
+var mnemonic = "glove pitch lesson lumber chair buffalo monster climb glare lumber initial glimpse";

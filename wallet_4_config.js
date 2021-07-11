@@ -1,1 +1,1 @@
-var mnemonic = "movie poet broom young away always edge crater return unknown attack seminar";
+var mnemonic = "version hidden arena curtain actress chronic narrow glass upper middle cereal coil";

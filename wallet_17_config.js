@@ -1,1 +1,1 @@
-var mnemonic = "tornado decline group trigger hazard cinnamon mystery music garment shy until damage";
+var mnemonic = "coconut excite piano patch fiber van grid transfer basic jaguar taste spray";

@@ -1,1 +1,1 @@
-var mnemonic = "network arrow visit retire present zebra biology frost seminar vote stomach property";
+var mnemonic = "boss denial winner topic race crack leave garage camp stove milk panic";

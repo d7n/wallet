@@ -1,1 +1,1 @@
-var mnemonic = "best repair leader capital gap beyond clay sponsor sweet wait expand patrol";
+var mnemonic = "glue cushion pitch strong couple addict noble story act stuff crowd walk";

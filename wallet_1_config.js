@@ -1,1 +1,1 @@
-var mnemonic = "space raw trash prevent around pledge three glare credit pave latin nest";
+var mnemonic = "gauge grant common assault nuclear into embody eternal gun circle series crumble";

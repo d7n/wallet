@@ -1,1 +1,1 @@
-var mnemonic = "ecology abandon giant mansion hamster coast tiger gold later steel marble duty";
+var mnemonic = "forest expand stand snake okay cinnamon robot inform rural supreme garage opera";

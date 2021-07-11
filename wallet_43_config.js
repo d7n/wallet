@@ -1,1 +1,1 @@
-var mnemonic = "street image hover twelve select betray start drill delay invite force smart";
+var mnemonic = "comic drift tide woman thrive toddler apology wing penalty render medal armed";

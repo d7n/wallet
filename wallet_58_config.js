@@ -1,1 +1,1 @@
-var mnemonic = "glide mention nominee cabin patient right tiger glove give grape design south";
+var mnemonic = "urban novel insane among oyster stick congress wagon custom piano cable suffer";

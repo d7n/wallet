@@ -1,1 +1,1 @@
-var mnemonic = "poem cross lounge destroy tornado banner girl easy copy enjoy farm fragile";
+var mnemonic = "grief skirt seminar pigeon super skate direct party lend empty buffalo symbol";

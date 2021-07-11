@@ -1,1 +1,1 @@
-var mnemonic = "exclude gather huge rocket champion hotel bless climb emerge mystery toss path";
+var mnemonic = "green devote cat retire rack perfect resource half axis weapon buyer learn";

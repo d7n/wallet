@@ -1,1 +1,1 @@
-var mnemonic = "rule account slide wall improve category bind present rose upgrade slim ritual";
+var mnemonic = "short left blossom below excess series clock strong scrub truly effort anger";

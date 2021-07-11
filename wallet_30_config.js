@@ -1,1 +1,1 @@
-var mnemonic = "ozone measure stone same lobster okay repair gown connect regret assist ivory";
+var mnemonic = "club shuffle cruise what surge crash pioneer sign cigar defense upper leaf";

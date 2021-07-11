@@ -1,1 +1,1 @@
-var mnemonic = "vibrant zero hand wrong all faculty snake chimney whip awkward inhale path";
+var mnemonic = "orient elbow chief wink final card real buffalo banana clip relief noble";

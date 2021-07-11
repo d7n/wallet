@@ -1,1 +1,1 @@
-var mnemonic = "behind cabbage wasp finger garbage gravity recycle uncle source nest sadness breeze";
+var mnemonic = "improve laundry reason rigid general liberty region leisure apart solution snake valve";

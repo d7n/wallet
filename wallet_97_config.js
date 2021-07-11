@@ -1,1 +1,1 @@
-var mnemonic = "rely float jelly milk apology lesson feed ankle doll state peanut cattle";
+var mnemonic = "garage release achieve rural rabbit flip wall letter afford gospel grant rebel";

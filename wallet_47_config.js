@@ -1,1 +1,1 @@
-var mnemonic = "royal bitter art torch pilot appear bundle settle gun bird awkward soldier";
+var mnemonic = "blade nice autumn sudden bag goose end captain club horn kidney bar";

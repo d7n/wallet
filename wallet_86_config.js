@@ -1,1 +1,1 @@
-var mnemonic = "crater seed digital ice lab valve twin focus recycle gate pull dignity";
+var mnemonic = "also usual tired orbit action brush assist you rocket story staff cat";

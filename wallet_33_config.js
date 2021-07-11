@@ -1,1 +1,1 @@
-var mnemonic = "nothing oval soul valve play glare adult media hard chronic shoulder thing";
+var mnemonic = "work rocket fun rifle hen head keep front figure purchase onion wall";

@@ -1,1 +1,1 @@
-var mnemonic = "future bulb citizen island robot measure fever author advice deputy knife core";
+var mnemonic = "feature upper screen inquiry entire figure rural nut fitness welcome found barrel";

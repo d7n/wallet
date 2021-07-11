@@ -1,1 +1,1 @@
-var mnemonic = "enlist sponsor chaos metal draft speed coach forest always vault enact wear";
+var mnemonic = "uncover marriage render safe spring enact wait marriage oyster clerk tattoo melody";

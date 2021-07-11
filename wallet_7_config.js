@@ -1,1 +1,1 @@
-var mnemonic = "squeeze what promote basket diesel catch armor dinner reject sphere always trim";
+var mnemonic = "purchase ozone mirror size budget crime blind rally bachelor shoot unveil focus";

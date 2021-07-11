@@ -1,1 +1,1 @@
-var mnemonic = "monitor fury certain measure pulp fold scrap pumpkin renew feed hood fan";
+var mnemonic = "leg aunt clay immune senior satoshi exhaust solar art orchard magnet wisdom";

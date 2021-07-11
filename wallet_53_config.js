@@ -1,1 +1,1 @@
-var mnemonic = "uniform matter memory fury museum neither tongue disagree plunge youth cargo meat";
+var mnemonic = "basket rice address assault fade wrap eight fitness live pudding gaze junior";

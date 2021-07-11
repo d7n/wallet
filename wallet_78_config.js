@@ -1,1 +1,1 @@
-var mnemonic = "push busy example camp tackle member bag evidence side element silver surprise";
+var mnemonic = "fatigue chaos man frog intact style sphere color lady wagon rice van";

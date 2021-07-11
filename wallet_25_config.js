@@ -1,1 +1,1 @@
-var mnemonic = "battle heavy utility animal fire ladder maximum vital divide glove celery opinion";
+var mnemonic = "super axis excite essence final wonder glimpse flavor trumpet bamboo unfold base";

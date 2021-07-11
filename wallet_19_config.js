@@ -1,1 +1,1 @@
-var mnemonic = "doctor wait random travel dad suit flush aware hybrid easily creek name";
+var mnemonic = "hockey name maid chief maple clap buddy pencil chronic math gown wheat";

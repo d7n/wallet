@@ -1,1 +1,1 @@
-var mnemonic = "slight loud subway income absent laptop pattern lens fault scale arrange embrace";
+var mnemonic = "mistake copy inch almost ride rough immense source resemble celery win head";

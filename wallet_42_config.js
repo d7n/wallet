@@ -1,1 +1,1 @@
-var mnemonic = "list fortune battle boring crucial eager blame analyst leg army machine employ";
+var mnemonic = "road approve federal shed history glad repair damp casino harsh trophy you";

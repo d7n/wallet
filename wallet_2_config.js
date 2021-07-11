@@ -1,1 +1,1 @@
-var mnemonic = "session release high clever chase layer clap need other settle main catch";
+var mnemonic = "warm expect social tiny beauty tourist what garden crash learn height employ";

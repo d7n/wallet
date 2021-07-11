@@ -1,1 +1,1 @@
-var mnemonic = "leader path close proof elegant mutual seminar bright urge hand scene milk";
+var mnemonic = "mind divert replace reunion network clean whisper wash field erosion load host";

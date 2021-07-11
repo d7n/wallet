@@ -1,1 +1,1 @@
-var mnemonic = "thank deposit cruel ring huge wood cable trash common siren planet crane";
+var mnemonic = "turkey relax split promote fetch concert ketchup dolphin test table cube leave";

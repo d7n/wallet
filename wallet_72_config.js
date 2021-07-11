@@ -1,1 +1,1 @@
-var mnemonic = "credit shoe embrace thrive solution undo bread gospel mistake three crunch climb";
+var mnemonic = "bulk health letter vehicle useful entry tragic pudding flame tongue mass immense";

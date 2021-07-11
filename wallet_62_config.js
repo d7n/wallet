@@ -1,1 +1,1 @@
-var mnemonic = "voyage dragon mechanic athlete west tragic section picnic rebel clerk glance exit";
+var mnemonic = "ghost thunder pilot prevent thought maid evoke easily jungle whisper host question";

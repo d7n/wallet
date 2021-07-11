@@ -1,1 +1,1 @@
-var mnemonic = "palm month glass chunk poem portion connect strategy jazz thumb talent drill";
+var mnemonic = "gesture salt put assume thumb memory mistake trim exhibit fence raccoon lonely";

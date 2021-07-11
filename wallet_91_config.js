@@ -1,1 +1,1 @@
-var mnemonic = "federal whale target dumb aunt civil piano now select object poem piano";
+var mnemonic = "bubble media siege avoid lab tape era title vicious ice senior motion";

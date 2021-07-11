@@ -1,1 +1,1 @@
-var mnemonic = "awkward exile stove child ahead arctic staff practice torch evidence over pen";
+var mnemonic = "vapor delay inner august distance divorce lesson ketchup giggle mask olive bind";

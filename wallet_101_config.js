@@ -1,1 +1,1 @@
-var mnemonic = "skill yard wealth hard wish wait crawl opinion drop raise during pony";
+var mnemonic = "apart glare useless split burden garbage knee dwarf hotel plunge link rookie";

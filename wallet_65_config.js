@@ -1,1 +1,1 @@
-var mnemonic = "glad basic gun wink describe farm hospital glimpse convince moment patch snake";
+var mnemonic = "drip unfold shadow reveal morning vibrant detail farm amount usage access unable";

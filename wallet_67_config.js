@@ -1,1 +1,1 @@
-var mnemonic = "blood awesome friend mind spread luggage hello hammer edge tortoise blood jungle";
+var mnemonic = "trophy toe tobacco syrup crumble weather write family galaxy depth useful evil";

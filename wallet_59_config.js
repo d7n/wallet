@@ -1,1 +1,1 @@
-var mnemonic = "main gold bread giant wonder admit weather waste flock peasant answer dinosaur";
+var mnemonic = "mix maid cart episode flash stand potato visit erode device replace scare";

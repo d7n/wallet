@@ -1,1 +1,1 @@
-var mnemonic = "whale enhance cousin potato again narrow garden shove heavy avocado token pigeon";
+var mnemonic = "able second sphere march high believe post reopen cricket dance wire elegant";

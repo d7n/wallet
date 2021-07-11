@@ -1,1 +1,1 @@
-var mnemonic = "another manual awkward buyer test welcome peace indoor frozen you spirit ill";
+var mnemonic = "climb solve wet laptop enter buzz change lecture absent need lecture enroll";

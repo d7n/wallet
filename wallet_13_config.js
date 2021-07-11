@@ -1,1 +1,1 @@
-var mnemonic = "ring butter aspect hybrid duty duck glimpse cherry three banana imitate scrub";
+var mnemonic = "avocado grit atom silly render cover parrot visit fatigue similar rug pattern";

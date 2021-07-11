@@ -1,1 +1,1 @@
-var mnemonic = "example rude dinosaur drama dose nothing evil obscure simple remind infant half";
+var mnemonic = "woman eternal wreck despair repair frozen divide agree scene garment flock crime";

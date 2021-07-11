@@ -1,1 +1,1 @@
-var mnemonic = "actual fan mule beyond gain giant garage liar okay double pond belt";
+var mnemonic = "uniform outside sudden any fit flash yard captain own depart sight power";

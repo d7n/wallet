@@ -1,1 +1,1 @@
-var mnemonic = "anger soccer foam mammal average exotic orient improve crystal curtain swap exotic";
+var mnemonic = "negative gravity night army pizza hockey wide first enjoy tool more version";

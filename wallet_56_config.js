@@ -1,1 +1,1 @@
-var mnemonic = "ordinary hold layer curtain stable expand enrich flip check fine element confirm";
+var mnemonic = "juice apology swallow execute shift abandon essence legal obey nuclear kitten scorpion";

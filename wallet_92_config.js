@@ -1,1 +1,1 @@
-var mnemonic = "tobacco lounge coach joke glance evolve basic give skirt crime rescue easily";
+var mnemonic = "cupboard vanish time gas kind icon relax favorite receive square middle push";

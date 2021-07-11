@@ -1,1 +1,1 @@
-var mnemonic = "betray tree plunge tumble pipe person enact item sugar replace melt pen";
+var mnemonic = "dove excess crucial exchange color gun castle wasp minute kit pact permit";

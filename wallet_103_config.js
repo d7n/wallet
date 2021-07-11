@@ -1,1 +1,1 @@
-var mnemonic = "cricket clown flight hat vacuum foot drastic pistol image win page obscure";
+var mnemonic = "pistol resource ocean nose length harbor rack boss library rare usual quarter";

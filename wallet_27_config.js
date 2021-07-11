@@ -1,1 +1,1 @@
-var mnemonic = "flower sunny faculty oblige poem gadget device usage palace base match donor";
+var mnemonic = "gather foot unfair chest light program fashion exotic tissue fatigue mechanic capital";

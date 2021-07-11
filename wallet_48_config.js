@@ -1,1 +1,1 @@
-var mnemonic = "crystal layer mango best exact electric stay derive genius rally elevator tube";
+var mnemonic = "avoid butter inmate disorder exercise stay already input crazy verb destroy final";

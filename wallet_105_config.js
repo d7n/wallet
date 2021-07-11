@@ -1,1 +1,1 @@
-var mnemonic = "knee share mask plastic cousin detect blouse mobile visa steel trim depth";
+var mnemonic = "reunion hello raccoon pass mirror discover outdoor dilemma gallery still coral stable";

@@ -1,1 +1,1 @@
-var mnemonic = "demise diet flight famous expect outdoor corn since cancel useful color movie";
+var mnemonic = "weekend tree gallery mistake dolphin deer join remind ostrich sunset proof slab";

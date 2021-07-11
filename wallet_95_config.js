@@ -1,1 +1,1 @@
-var mnemonic = "able bid extra process depth blade disorder term language rack health salmon";
+var mnemonic = "tube razor extend include track together faith repeat flock stadium poet measure";

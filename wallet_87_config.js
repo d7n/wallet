@@ -1,1 +1,1 @@
-var mnemonic = "crew welcome twice enact afford insane this display skin switch observe target";
+var mnemonic = "parent whale evidence blame wet despair razor sound car bargain typical hazard";

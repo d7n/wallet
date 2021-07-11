@@ -1,1 +1,1 @@
-var mnemonic = "bullet face output load clinic moral forest tiny female lobster one bargain";
+var mnemonic = "also poverty tomorrow adult yellow shadow rhythm analyst fix desk stem fabric";

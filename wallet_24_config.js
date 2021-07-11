@@ -1,1 +1,1 @@
-var mnemonic = "dutch same fuel decline dice trip series thrive wrap ancient coin ginger";
+var mnemonic = "erase basic net adapt local attract forward eye join torch name throw";

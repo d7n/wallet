@@ -1,1 +1,1 @@
-var mnemonic = "nothing spoon ritual insane process sport vintage cake quiz village bullet dutch";
+var mnemonic = "book anchor example poem punch spawn moon atom fringe amount turn enlist";

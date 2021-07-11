@@ -1,1 +1,1 @@
-var mnemonic = "depend must tomato when truck arrest quote can vendor swap stadium dose";
+var mnemonic = "escape cause exhibit saddle matrix metal latin pet crowd glove hedgehog age";

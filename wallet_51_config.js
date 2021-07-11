@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo author eager virus illness minimum parade doctor pull degree electric leisure";
+var mnemonic = "insect observe broken wood demise pave enable voyage banner best security then";
