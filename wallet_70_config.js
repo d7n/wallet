@@ -1,1 +1,1 @@
-var mnemonic = "mammal rural teach follow village adjust law gas frame laundry rack quit";
+var mnemonic = "awesome palace much walk antique recall lady note fun infant bulb stock";

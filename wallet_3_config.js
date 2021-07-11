@@ -1,1 +1,1 @@
-var mnemonic = "guess either also recipe bachelor inspire dirt audit merry roof rebel wagon";
+var mnemonic = "symbol federal choice doll video accident early priority foot essence soccer squeeze";

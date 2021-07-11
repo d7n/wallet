@@ -1,1 +1,1 @@
-var mnemonic = "fashion travel early barrel drift grant junior toe burger erode heavy hybrid";
+var mnemonic = "shoot metal verify few blade public rival gold bind enhance tray asset";

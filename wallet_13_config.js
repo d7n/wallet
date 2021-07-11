@@ -1,1 +1,1 @@
-var mnemonic = "fatigue appear park patient differ ripple thought squirrel reject midnight cliff erosion";
+var mnemonic = "equal cradle panther mechanic oyster blind urban will trip before lava marriage";

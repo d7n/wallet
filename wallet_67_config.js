@@ -1,1 +1,1 @@
-var mnemonic = "nose party tape foam rent task slow master merry bus must market";
+var mnemonic = "help help twist surface glory satoshi identify luggage cancel warfare legal assist";

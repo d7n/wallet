@@ -1,1 +1,1 @@
-var mnemonic = "slim marble zoo kiss faculty dose truth room pause turkey timber okay";
+var mnemonic = "expire tortoise acquire indoor border satoshi favorite visa local toddler biology animal";

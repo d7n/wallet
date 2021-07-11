@@ -1,1 +1,1 @@
-var mnemonic = "spare popular rug sibling airport pizza crazy bring price romance morning planet";
+var mnemonic = "prevent cactus rich maple game vast ocean any design lunar easily syrup";

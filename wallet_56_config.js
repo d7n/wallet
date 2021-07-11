@@ -1,1 +1,1 @@
-var mnemonic = "token mad work yard ocean category elegant shop guitar always sunset lunch";
+var mnemonic = "merry shine have lock enlist song warm august repeat drama attitude run";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard issue fine sword agree arena shiver execute crisp struggle surface start";
+var mnemonic = "mimic neck genre festival ritual admit assume undo near wrap merit happy";

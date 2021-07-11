@@ -1,1 +1,1 @@
-var mnemonic = "glow uphold depth announce strong news menu slam chicken filter salmon rigid";
+var mnemonic = "ride elevator aunt twist hair guard spider smoke force pear measure antique";

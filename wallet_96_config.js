@@ -1,1 +1,1 @@
-var mnemonic = "stand slab expect know title steel now music frozen mountain modify easy";
+var mnemonic = "rule episode wine price gorilla congress carpet yellow ten possible guitar spread";

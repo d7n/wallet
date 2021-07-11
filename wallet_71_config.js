@@ -1,1 +1,1 @@
-var mnemonic = "wagon verify scout super tennis public ball festival large country valley sleep";
+var mnemonic = "head never special wisdom hybrid ask gap prefer feature client save tattoo";

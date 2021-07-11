@@ -1,1 +1,1 @@
-var mnemonic = "record goddess suggest innocent bus note between glue pave only wisdom settle";
+var mnemonic = "couple meadow bachelor present myself under void special plug boat flower era";

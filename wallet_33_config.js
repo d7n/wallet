@@ -1,1 +1,1 @@
-var mnemonic = "faint bread survey matrix else voice drift stove client away custom story";
+var mnemonic = "chief index giant swear uncover minor cave color pull sense turtle bicycle";

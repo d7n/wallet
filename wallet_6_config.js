@@ -1,1 +1,1 @@
-var mnemonic = "number capital soldier anger metal young friend menu caught depend decide meadow";
+var mnemonic = "egg tool snack estate coast prefer omit tent intact note animal dwarf";

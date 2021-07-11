@@ -1,1 +1,1 @@
-var mnemonic = "focus grass film dress mind cancel blanket menu essence document alley ecology";
+var mnemonic = "fabric critic cross endless game execute polar orange always novel major practice";

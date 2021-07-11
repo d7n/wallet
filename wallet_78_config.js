@@ -1,1 +1,1 @@
-var mnemonic = "gain item cat ostrich tackle either weather swear rhythm nuclear six admit";
+var mnemonic = "enhance pistol material warm balcony deer bid minute grunt source mask wife";

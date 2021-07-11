@@ -1,1 +1,1 @@
-var mnemonic = "ring famous isolate sort panic canal hybrid pottery fashion hotel alpha matter";
+var mnemonic = "ranch orchard mention solution pistol evidence crew limb next tobacco uniform develop";

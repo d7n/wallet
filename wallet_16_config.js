@@ -1,1 +1,1 @@
-var mnemonic = "phrase actual talent total arrive pony bird term stove tired phrase coconut";
+var mnemonic = "blade night worry couple distance trust mimic tag sound rural kid bamboo";

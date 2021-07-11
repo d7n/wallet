@@ -1,1 +1,1 @@
-var mnemonic = "kit hurry match onion word mask loan warm mammal always false increase";
+var mnemonic = "tip anchor plug pipe visa all rescue brass brand disagree original control";

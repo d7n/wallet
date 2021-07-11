@@ -1,1 +1,1 @@
-var mnemonic = "lion announce make crime nuclear tragic easily business flee room future swim";
+var mnemonic = "defy swing engine moment iron stick border photo exclude round adapt charge";

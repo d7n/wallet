@@ -1,1 +1,1 @@
-var mnemonic = "image flip zoo green control print govern issue multiply sad laundry doctor";
+var mnemonic = "pigeon faculty lunar abuse remind rich thunder frame scrap oblige urge update";

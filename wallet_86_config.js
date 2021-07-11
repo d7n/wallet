@@ -1,1 +1,1 @@
-var mnemonic = "comic inch disorder grit unknown patient pizza merit chaos tiger trick panda";
+var mnemonic = "vast error glory perfect task melt axis fury grow capable stomach balcony";

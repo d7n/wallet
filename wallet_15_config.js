@@ -1,1 +1,1 @@
-var mnemonic = "fox tube canal candy retreat base warm sponsor actor ready strong cover";
+var mnemonic = "shove rather report decrease dry task glide problem cruel mind dune sick";

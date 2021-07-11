@@ -1,1 +1,1 @@
-var mnemonic = "bind domain cool chalk addict thank casual toy robust dish boost crazy";
+var mnemonic = "involve drink diary call because fall jewel salt tower morning old coast";

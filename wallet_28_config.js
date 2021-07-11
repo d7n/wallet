@@ -1,1 +1,1 @@
-var mnemonic = "roof random inside panic tired skate among album potato deal move measure";
+var mnemonic = "staff heavy embody pet project news client idle idle run fork illness";

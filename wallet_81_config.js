@@ -1,1 +1,1 @@
-var mnemonic = "dress delay bid shield response soft into antenna rural dignity oblige hero";
+var mnemonic = "sight fly young return blade spatial scorpion wolf miss chalk cancel trend";

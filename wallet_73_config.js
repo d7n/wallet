@@ -1,1 +1,1 @@
-var mnemonic = "heavy notice cry trick resource over rhythm patrol protect option giant fabric";
+var mnemonic = "shoulder brand share view fire fat coin couch ladder east depth tail";

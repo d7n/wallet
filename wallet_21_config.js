@@ -1,1 +1,1 @@
-var mnemonic = "view social flower replace solve distance alcohol hole warfare pen wish pyramid";
+var mnemonic = "title pudding bird day slim machine under camp exact plunge south accuse";

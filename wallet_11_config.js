@@ -1,1 +1,1 @@
-var mnemonic = "senior song palace mushroom surge sell ritual shield under sea cattle butter";
+var mnemonic = "royal stage air large gift found proof family carbon net oven smooth";

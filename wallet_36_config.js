@@ -1,1 +1,1 @@
-var mnemonic = "spatial gesture mention cook web only away enable shrimp boring omit gentle";
+var mnemonic = "kangaroo wool nest echo decide time veteran pass lamp slim crack obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "desert fold black equip clown track drink twist scheme fiber chaos two";
+var mnemonic = "tunnel business illness obtain return over toward response woman snap disease auction";

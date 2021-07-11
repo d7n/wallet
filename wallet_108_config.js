@@ -1,1 +1,1 @@
-var mnemonic = "decorate similar wheat cave harvest spoil dune menu bubble amateur injury wasp";
+var mnemonic = "enhance brother sight goddess slam saddle remind lonely ice safe lawsuit crisp";

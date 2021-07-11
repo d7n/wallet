@@ -1,1 +1,1 @@
-var mnemonic = "lawn document seminar verb select accident lemon rail peace harbor chuckle faculty";
+var mnemonic = "foil dog transfer begin gun dry such focus stay excite again world";

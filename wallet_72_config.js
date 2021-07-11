@@ -1,1 +1,1 @@
-var mnemonic = "loyal remain brand mango cereal river exit call game stone letter emotion";
+var mnemonic = "short machine human guide idle bunker say cupboard wish dose slogan evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb agent letter ethics what harsh chaos squeeze blast fun clinic jealous";
+var mnemonic = "general jar corn silly bronze hope guide winter educate december inmate comic";

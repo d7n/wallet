@@ -1,1 +1,1 @@
-var mnemonic = "best scene quality swim harvest grief solid steak permit nice stove erupt";
+var mnemonic = "effort legal equip almost estate shell victory mask flock lecture wagon shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "mention sail rather milk gift party leisure shove enter vendor robust fox";
+var mnemonic = "patient damage elite maximum barrel couch hunt fish joy accident creek priority";

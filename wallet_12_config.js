@@ -1,1 +1,1 @@
-var mnemonic = "salon alien alley entry express wise smile fresh sand hub fatigue hard";
+var mnemonic = "awake suggest master fan blast elephant feed hybrid toss fire when march";

@@ -1,1 +1,1 @@
-var mnemonic = "skin have saddle peace bright erode oak atom upgrade energy other aunt";
+var mnemonic = "gravity machine dolphin venue usage problem kind addict occur blast disease type";

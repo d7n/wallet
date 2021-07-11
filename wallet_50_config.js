@@ -1,1 +1,1 @@
-var mnemonic = "bike fabric text vast story secret sort admit reopen wall food tenant";
+var mnemonic = "smooth purse shoot october sport recycle aunt drastic frozen thought fitness author";

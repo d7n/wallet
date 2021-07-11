@@ -1,1 +1,1 @@
-var mnemonic = "supreme bean museum olive escape muscle split gas spawn cram normal bachelor";
+var mnemonic = "beach close manual drip gas sight normal echo clarify always someone girl";

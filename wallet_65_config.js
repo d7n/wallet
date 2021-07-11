@@ -1,1 +1,1 @@
-var mnemonic = "medal zero vanish truck grant keep until green crew oval ugly guitar";
+var mnemonic = "enable disorder chimney gather stem sport wheat hat lumber chat tiger lens";

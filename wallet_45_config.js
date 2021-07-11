@@ -1,1 +1,1 @@
-var mnemonic = "pony vibrant lizard brave alley upgrade love real sweet save live situate";
+var mnemonic = "crunch humor float creek leader gossip long endless client country pudding menu";

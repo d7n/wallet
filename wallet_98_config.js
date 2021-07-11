@@ -1,1 +1,1 @@
-var mnemonic = "popular almost cushion airport drink panel error inquiry ten scare fury fruit";
+var mnemonic = "maid jeans design volcano bracket cause good cricket buyer make race border";

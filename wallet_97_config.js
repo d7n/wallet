@@ -1,1 +1,1 @@
-var mnemonic = "trend scene tool menu half act verb attend misery scan logic gorilla";
+var mnemonic = "theory involve quick limit oak across wire expire affair silk sell trouble";

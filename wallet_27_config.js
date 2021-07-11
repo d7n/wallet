@@ -1,1 +1,1 @@
-var mnemonic = "camp blood motor enact post transfer venue scout shoot armed hidden destroy";
+var mnemonic = "slab cook need pen speak sauce season isolate guitar beauty nerve describe";

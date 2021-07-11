@@ -1,1 +1,1 @@
-var mnemonic = "diagram thunder panel symptom riot verify enrich math parent cigar filter poverty";
+var mnemonic = "city weekend connect penalty sound warm miracle miss special latin false lawsuit";

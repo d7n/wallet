@@ -1,1 +1,1 @@
-var mnemonic = "practice finish spike fish point cigar impact attack crazy ready capital purchase";
+var mnemonic = "above thought hidden crack analyst attract naive lens concert motion victory enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "duty absorb state electric dizzy truth chase slush doctor dumb organ symptom";
+var mnemonic = "mouse follow inject lift stereo youth devote tenant page unlock figure attract";

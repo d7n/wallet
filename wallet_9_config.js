@@ -1,1 +1,1 @@
-var mnemonic = "prefer divorce thumb just word general soap tuna fuel illegal month brown";
+var mnemonic = "cause monkey ten come curtain water rather side scheme cube remember unknown";

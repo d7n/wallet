@@ -1,1 +1,1 @@
-var mnemonic = "humor van easily link notable drill grab critic rescue reform radio dynamic";
+var mnemonic = "struggle hobby cricket print slender wrist border table enroll enlist flee powder";

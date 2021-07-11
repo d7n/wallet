@@ -1,1 +1,1 @@
-var mnemonic = "vanish kiwi height give mother coil provide draw click tired talk draw";
+var mnemonic = "peace seat spoon spend hire clog young kidney undo loud bike actual";

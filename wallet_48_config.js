@@ -1,1 +1,1 @@
-var mnemonic = "cement smooth flash verb tone short level inquiry tree grace cloth cradle";
+var mnemonic = "august join rocket shove jealous make stove remain isolate deliver level brain";

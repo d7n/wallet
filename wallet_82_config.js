@@ -1,1 +1,1 @@
-var mnemonic = "mistake dish tape guide plastic nurse rough first robust captain prison surround";
+var mnemonic = "nut blur cage taxi cigar joy marine rate faint lawsuit banner way";

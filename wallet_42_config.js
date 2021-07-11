@@ -1,1 +1,1 @@
-var mnemonic = "model flight surprise real leader usual traffic math junk pottery weasel stem";
+var mnemonic = "income moon ten brass enhance intact city jaguar main scout feature onion";

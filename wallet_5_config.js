@@ -1,1 +1,1 @@
-var mnemonic = "seed bike coil quarter issue busy pattern priority body faith state congress";
+var mnemonic = "occur across dilemma wage drift abandon reduce tag charge veteran dance drip";

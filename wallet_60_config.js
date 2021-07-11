@@ -1,1 +1,1 @@
-var mnemonic = "thunder satoshi valid corn mistake similar sure slam margin stereo soldier pipe";
+var mnemonic = "pluck motor vanish purse agent place where update decide dilemma you peace";

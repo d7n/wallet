@@ -1,1 +1,1 @@
-var mnemonic = "gun answer okay safe tortoise neutral shift neck fancy amazing remain kit";
+var mnemonic = "airport course sauce wolf fossil victory add border spin rain midnight unveil";

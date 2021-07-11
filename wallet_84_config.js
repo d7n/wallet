@@ -1,1 +1,1 @@
-var mnemonic = "girl certain orchard person dial party alpha lift resemble perfect festival enhance";
+var mnemonic = "feed upper elevator middle sample love blur strategy seminar attract laptop cricket";

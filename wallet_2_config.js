@@ -1,1 +1,1 @@
-var mnemonic = "brick hat toward early sound round weather baby tomato fetch sniff sing";
+var mnemonic = "tattoo huge farm denial tonight wire smart term riot dust increase august";

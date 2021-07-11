@@ -1,1 +1,1 @@
-var mnemonic = "height bubble boy fork ability wish enhance ring zone abandon coconut quote";
+var mnemonic = "ride romance dinner barrel awake boy knife latin name day sort velvet";

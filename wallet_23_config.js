@@ -1,1 +1,1 @@
-var mnemonic = "acoustic thought gift fox miss chronic prefer modify web taste icon edit";
+var mnemonic = "term health divide indoor observe snack extra want jelly side small dove";

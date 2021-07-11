@@ -1,1 +1,1 @@
-var mnemonic = "share slush puzzle peasant camp inside kind doctor library genuine switch bitter";
+var mnemonic = "silly add liberty today payment ozone install legal motor mind motor crumble";

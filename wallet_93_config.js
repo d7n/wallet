@@ -1,1 +1,1 @@
-var mnemonic = "clap flavor smoke image again order eye reunion better shoulder task orbit";
+var mnemonic = "expect pumpkin valve whip tattoo yard erupt effort benefit uncover frown regular";

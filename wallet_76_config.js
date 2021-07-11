@@ -1,1 +1,1 @@
-var mnemonic = "soda cash affair approve rookie spatial want cattle nose ethics gloom industry";
+var mnemonic = "baby seat basket memory gadget drum perfect meadow section soda used dove";

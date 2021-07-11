@@ -1,1 +1,1 @@
-var mnemonic = "extend fitness wife acquire expose climb script arctic subway supply teach correct";
+var mnemonic = "myself donor wood credit black cause tell kind green tissue machine nasty";

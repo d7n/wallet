@@ -1,1 +1,1 @@
-var mnemonic = "banner expand virus velvet churn coconut thrive scan finish aware science midnight";
+var mnemonic = "what output alpha hair tissue spell pave same choose rate marble stable";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit hard art mistake grain furnace hamster talent program body orange donate";
+var mnemonic = "moon slim caution era effort neck double embody more crystal rival enough";

@@ -1,1 +1,1 @@
-var mnemonic = "bird rebel require liquid husband duty baby when visual mutual lucky car";
+var mnemonic = "space depart foam dynamic swim argue awesome coin merry sorry prefer attract";

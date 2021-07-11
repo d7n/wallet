@@ -1,1 +1,1 @@
-var mnemonic = "oven soft garment walk planet fitness mix warrior chicken detail mind melody";
+var mnemonic = "garment comfort regular library foot consider deliver bargain file talk pear shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "gown veteran nation enlist snake faith rubber rubber jazz must tobacco intact";
+var mnemonic = "bunker pill sniff never knife junk doll catalog stereo toss slice turkey";

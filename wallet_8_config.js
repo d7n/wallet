@@ -1,1 +1,1 @@
-var mnemonic = "hammer update match shield juice steel bone observe spend siege dad vacant";
+var mnemonic = "injury verify doctor pet fabric drift teach buyer punch focus chalk usage";

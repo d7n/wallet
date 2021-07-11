@@ -1,1 +1,1 @@
-var mnemonic = "discover lock picture crouch fee sister defense scheme lemon pepper able achieve";
+var mnemonic = "practice enrich license noise olive kitten razor gate museum bronze aim mail";

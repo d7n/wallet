@@ -1,1 +1,1 @@
-var mnemonic = "crazy reform motor omit ask dinner report say myth galaxy poem expose";
+var mnemonic = "person alarm unaware honey letter bonus burger obtain bottom fringe flip rescue";

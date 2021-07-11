@@ -1,1 +1,1 @@
-var mnemonic = "reject vicious outdoor lion adapt bid stuff matter october tip legal federal";
+var mnemonic = "soda talent chicken buyer caution toddler spring chronic flash attend budget bacon";

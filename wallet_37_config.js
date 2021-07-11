@@ -1,1 +1,1 @@
-var mnemonic = "share butter treat produce wheel wide banner grab outside express monitor burst";
+var mnemonic = "baby truly filter update buzz panda shove thumb traffic love belt winner";

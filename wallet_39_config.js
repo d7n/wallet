@@ -1,1 +1,1 @@
-var mnemonic = "hill treat neglect owner year garment either ill tooth nuclear engine cage";
+var mnemonic = "olive maximum captain capital purpose profit rhythm image spatial bus travel story";

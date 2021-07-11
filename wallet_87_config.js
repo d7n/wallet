@@ -1,1 +1,1 @@
-var mnemonic = "battle swift amazing jealous glow palm ball blade silly craft thing viable";
+var mnemonic = "evolve goat lab cradle sphere month jelly catalog crush leisure pony tree";

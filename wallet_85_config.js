@@ -1,1 +1,1 @@
-var mnemonic = "kitten chat leaf burger team upper welcome kingdom wheel license decade wool";
+var mnemonic = "over hood grit fix talent autumn pyramid then token rose earn thank";

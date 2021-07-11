@@ -1,1 +1,1 @@
-var mnemonic = "collect profit chimney arrange air orange cook alcohol sand appear idea area";
+var mnemonic = "frog loop family harbor theory know wrist phrase kidney marine loan hub";

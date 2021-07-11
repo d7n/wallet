@@ -1,1 +1,1 @@
-var mnemonic = "shift polar myself jungle east vote job obtain ensure soldier height width";
+var mnemonic = "sample feel surface eager injury floor lens fine window bless spring junk";

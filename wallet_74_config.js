@@ -1,1 +1,1 @@
-var mnemonic = "birth arrest view bench dial walnut right minor stereo magic basket reopen";
+var mnemonic = "cage check chuckle piano mandate twenty wolf skirt bind slush barely capable";

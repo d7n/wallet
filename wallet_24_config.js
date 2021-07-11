@@ -1,1 +1,1 @@
-var mnemonic = "perfect attend mesh account tape scale ramp betray child occur bronze supply";
+var mnemonic = "staff glance knife expect twist copper canoe session lecture evil must render";

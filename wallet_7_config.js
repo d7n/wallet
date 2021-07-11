@@ -1,1 +1,1 @@
-var mnemonic = "uphold poem cake focus race cruise spring pulp romance reform eyebrow hat";
+var mnemonic = "cake devote promote sense letter float lake rocket rate fossil record similar";

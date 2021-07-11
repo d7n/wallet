@@ -1,1 +1,1 @@
-var mnemonic = "very soon fever way drum high jeans kitchen token warfare stomach thank";
+var mnemonic = "arena snow spirit cause diagram crime thunder tired turkey pigeon notable mother";

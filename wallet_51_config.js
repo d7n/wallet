@@ -1,1 +1,1 @@
-var mnemonic = "flower sustain sweet because dinosaur jacket kitten spare paper update peace you";
+var mnemonic = "exotic cereal limb order soccer wrong present ridge best antique ordinary dream";

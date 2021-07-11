@@ -1,1 +1,1 @@
-var mnemonic = "comic output leader present aunt snow cage nuclear humor mystery consider grunt";
+var mnemonic = "monster tobacco elephant soon rich lunch balance social horn wash laugh eight";

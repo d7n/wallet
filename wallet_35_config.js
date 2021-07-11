@@ -1,1 +1,1 @@
-var mnemonic = "oblige arena area crumble another cook exit enroll april safe truly start";
+var mnemonic = "random toe shed enough elephant brand poet route similar broccoli soap narrow";

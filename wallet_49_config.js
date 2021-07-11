@@ -1,1 +1,1 @@
-var mnemonic = "habit oblige bar raw guide orchard canoe speak enrich viable doctor junior";
+var mnemonic = "horror admit space minimum crazy market seven decline coach stool swap river";
