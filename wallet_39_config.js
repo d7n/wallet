@@ -1,1 +1,1 @@
-var mnemonic = "misery prison hand mom minor grass child clap message portion demise install";
+var mnemonic = "maze transfer slam lonely fancy stove enforce this cupboard assist pink divert";

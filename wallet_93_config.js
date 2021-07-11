@@ -1,1 +1,1 @@
-var mnemonic = "faculty year gas gadget minute tree diesel between satisfy purse spice clump";
+var mnemonic = "execute private spawn core seek praise vapor season soft mom raw zoo";

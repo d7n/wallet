@@ -1,1 +1,1 @@
-var mnemonic = "lottery pledge salute globe empower turkey expand access people quiz lawn arch";
+var mnemonic = "wine example plug dog off food clerk cereal comfort heart visa bright";

@@ -1,1 +1,1 @@
-var mnemonic = "blur quantum easily pumpkin good devote gold among more maximum yard bracket";
+var mnemonic = "need salmon island tragic beach hamster mammal real woman borrow memory end";

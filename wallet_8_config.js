@@ -1,1 +1,1 @@
-var mnemonic = "tiger there tourist swim require velvet wheat like taste airport buyer coffee";
+var mnemonic = "belt letter crop ridge chronic rate absurd matrix lion hello borrow hunt";

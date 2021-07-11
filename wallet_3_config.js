@@ -1,1 +1,1 @@
-var mnemonic = "they ugly coral power wonder punch achieve seven addict assist similar state";
+var mnemonic = "habit unit spare patrol suggest current relief already fetch grit there embody";

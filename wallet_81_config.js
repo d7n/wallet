@@ -1,1 +1,1 @@
-var mnemonic = "ribbon upset turn person viable stick episode time rabbit evidence hundred syrup";
+var mnemonic = "aspect else shuffle mask symbol wheel vibrant rather chalk hint club write";

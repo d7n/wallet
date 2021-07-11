@@ -1,1 +1,1 @@
-var mnemonic = "push slight surprise piece mixture satisfy neglect fine bird impact version kidney";
+var mnemonic = "square crash ring this fabric response zero old around behave forest paper";

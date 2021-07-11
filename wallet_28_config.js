@@ -1,1 +1,1 @@
-var mnemonic = "exit imitate shell original legal document devote ankle chest firm group amused";
+var mnemonic = "chair clown member famous love salad mom desert miss spot flight once";

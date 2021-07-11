@@ -1,1 +1,1 @@
-var mnemonic = "okay pull enough unit bridge electric over caution labor man mask doll";
+var mnemonic = "laptop good tattoo buffalo wait still cat strike protect cloud age gauge";

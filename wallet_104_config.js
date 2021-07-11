@@ -1,1 +1,1 @@
-var mnemonic = "strong casual position essence portion wide release radar danger school portion mesh";
+var mnemonic = "lion horse critic mother town tomato open figure fade portion decade catch";

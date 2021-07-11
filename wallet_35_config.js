@@ -1,1 +1,1 @@
-var mnemonic = "damage like oblige camera dose switch stool step pet wreck either solid";
+var mnemonic = "stuff silent ramp pact excuse celery human degree sudden quit attitude diet";

@@ -1,1 +1,1 @@
-var mnemonic = "public furnace primary drip reduce knee camp age wink switch child foot";
+var mnemonic = "flush gallery image praise brief nature over wife tool crime key sand";

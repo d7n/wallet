@@ -1,1 +1,1 @@
-var mnemonic = "know speed dilemma screen kite decorate size bean dad slush still fly";
+var mnemonic = "what diet will approve arch neglect giggle buffalo episode control mutual tuna";

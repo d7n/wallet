@@ -1,1 +1,1 @@
-var mnemonic = "retire motor crumble devote icon loop actress traffic like bar ship law";
+var mnemonic = "liar adjust bubble permit tunnel motion intact catch garbage pipe barrel order";

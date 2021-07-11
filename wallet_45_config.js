@@ -1,1 +1,1 @@
-var mnemonic = "body symbol throw power final boring knife vague maple only there marble";
+var mnemonic = "typical devote town fantasy pledge crowd ready attract siege brief caught regret";

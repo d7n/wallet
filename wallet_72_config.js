@@ -1,1 +1,1 @@
-var mnemonic = "brief crime uphold focus connect inside sweet medal security favorite nose cannon";
+var mnemonic = "isolate drip reflect blade acid dirt what smoke happy digital toast until";

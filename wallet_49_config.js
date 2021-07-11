@@ -1,1 +1,1 @@
-var mnemonic = "report demise during chicken juice talk response cost guard width choose steel";
+var mnemonic = "circle cattle attitude liar hamster crop bean amateur rain output ready unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow reject absurd replace ecology hat leave logic sand lounge shop often";
+var mnemonic = "youth immune warfare only drift episode used museum humble mass mirror one";

@@ -1,1 +1,1 @@
-var mnemonic = "drive actual excess nominee course skirt dog cement blur stay muscle pill";
+var mnemonic = "again mother armor gather end judge mean promote dance jazz goddess scale";

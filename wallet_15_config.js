@@ -1,1 +1,1 @@
-var mnemonic = "drip plunge garage thunder dumb chunk piece lizard trend exist exclude wing";
+var mnemonic = "daughter frown appear exhibit focus tenant prepare task dress brown nothing brush";

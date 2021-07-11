@@ -1,1 +1,1 @@
-var mnemonic = "miracle ordinary twice abstract enable machine hat shield fatal include stage resemble";
+var mnemonic = "accuse alley predict champion mandate one journey toe planet true skirt harvest";

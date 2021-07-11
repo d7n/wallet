@@ -1,1 +1,1 @@
-var mnemonic = "exist next mechanic half mountain symbol rug coconut castle useful intact predict";
+var mnemonic = "normal blade universe cement atom gas income melt earth live cloud raw";

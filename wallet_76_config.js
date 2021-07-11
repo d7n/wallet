@@ -1,1 +1,1 @@
-var mnemonic = "annual dinosaur echo spatial since age pepper best remain today horror pole";
+var mnemonic = "eager siren spirit sudden screen random modify fish struggle attack hard found";

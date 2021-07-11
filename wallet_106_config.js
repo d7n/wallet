@@ -1,1 +1,1 @@
-var mnemonic = "assist scrap achieve frog try universe dolphin grape believe allow never journey";
+var mnemonic = "version ten insect wing plastic license loop august pole evolve welcome security";

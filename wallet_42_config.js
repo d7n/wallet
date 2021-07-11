@@ -1,1 +1,1 @@
-var mnemonic = "spell blind basket mansion ring bring tobacco consider soon broken provide news";
+var mnemonic = "order ignore frost stand affair gossip regret main brain scale soap accident";

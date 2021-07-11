@@ -1,1 +1,1 @@
-var mnemonic = "switch auction tiger garage script element clay that when galaxy magnet limit";
+var mnemonic = "middle absurd voice indoor legend agent couch loyal category oil similar skin";

@@ -1,1 +1,1 @@
-var mnemonic = "bind figure more nut polar have mirror air world adapt jacket cup";
+var mnemonic = "crouch lion divert surge occur gospel icon process start agent perfect amount";

@@ -1,1 +1,1 @@
-var mnemonic = "require essay hollow protect river aim claim advice sketch supply cliff much";
+var mnemonic = "peanut access carry copper repair lyrics silent payment cat chimney shield power";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor hair segment decline capital thought meadow hold service walnut custom proud";
+var mnemonic = "air cluster language across script puppy jump office verify shove maple axis";

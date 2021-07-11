@@ -1,1 +1,1 @@
-var mnemonic = "surprise learn teach village knee quote behave uphold stay please ship chef";
+var mnemonic = "panther infant black rabbit chef hope secret hollow obscure spot runway tortoise";

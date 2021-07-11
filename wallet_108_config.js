@@ -1,1 +1,1 @@
-var mnemonic = "gorilla glance buddy mixed remain popular vehicle media liar load spatial monster";
+var mnemonic = "vacant humor review genuine reason donate best iron borrow very raccoon science";

@@ -1,1 +1,1 @@
-var mnemonic = "clean sight maze level catch switch south have degree typical clarify fashion";
+var mnemonic = "husband scene gauge bless kangaroo display since peanut news risk ginger old";

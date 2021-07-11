@@ -1,1 +1,1 @@
-var mnemonic = "design cycle discover whisper imitate tourist weasel around dinosaur drip picnic almost";
+var mnemonic = "lounge seed notice silent top gadget slogan ancient skull move pioneer nut";

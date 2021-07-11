@@ -1,1 +1,1 @@
-var mnemonic = "replace kitten monitor select yellow tool cigar insect coffee cousin forest main";
+var mnemonic = "domain sell purse lyrics toe young reunion gym air toe negative credit";

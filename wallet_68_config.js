@@ -1,1 +1,1 @@
-var mnemonic = "protect silver pill tragic transfer nephew turtle horror file mutual kangaroo soldier";
+var mnemonic = "segment field taste dentist witness offer scissors vivid charge act chronic canoe";

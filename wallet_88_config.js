@@ -1,1 +1,1 @@
-var mnemonic = "wolf famous please remind fall sun alpha use delay edit nothing track";
+var mnemonic = "myself gloom kid tortoise endorse upset fringe bread lava survey athlete rough";

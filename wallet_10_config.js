@@ -1,1 +1,1 @@
-var mnemonic = "cricket box stem cake title rich youth craft next gap liquid paper";
+var mnemonic = "bring piano accident glow primary lava gaze domain chalk auto pull absurd";

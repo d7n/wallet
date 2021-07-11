@@ -1,1 +1,1 @@
-var mnemonic = "mirror upgrade engage typical food frame shed rib love whisper dentist stage";
+var mnemonic = "swim route man erosion anxiety thunder elite throw wasp method choose story";

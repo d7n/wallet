@@ -1,1 +1,1 @@
-var mnemonic = "make brief dress slush barrel deal hand salmon stairs vendor adjust twice";
+var mnemonic = "adjust accident menu bar vapor shock phone casual monitor answer task picture";

@@ -1,1 +1,1 @@
-var mnemonic = "couch festival purchase weird door baby brick film maid van length identify";
+var mnemonic = "gold expose chicken cart safe lemon ugly track toss play cattle jewel";

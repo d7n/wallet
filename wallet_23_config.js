@@ -1,1 +1,1 @@
-var mnemonic = "first prefer food level course impose bulb shuffle swing lab armor father";
+var mnemonic = "budget quit health image pattern enrich weekend guilt hand hawk magnet stone";

@@ -1,1 +1,1 @@
-var mnemonic = "square clip correct border rate dash fringe connect region chapter artefact right";
+var mnemonic = "remove cave owner inject tape business leaf acid potato uniform tape autumn";

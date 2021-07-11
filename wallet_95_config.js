@@ -1,1 +1,1 @@
-var mnemonic = "horn retire bitter scissors silver risk equip trim try impact place dinosaur";
+var mnemonic = "finger vivid toddler debris timber short mask learn frown mosquito dumb explain";

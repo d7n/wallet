@@ -1,1 +1,1 @@
-var mnemonic = "oppose burst give tornado pledge proud range blur vacuum frequent vacuum monitor";
+var mnemonic = "fringe worry object dolphin early enroll filter scale input slot soda empower";

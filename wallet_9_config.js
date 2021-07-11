@@ -1,1 +1,1 @@
-var mnemonic = "icon cancel defense bounce angry unaware provide grunt cool globe salad debris";
+var mnemonic = "poem blast shove shock door dinner vendor inherit saddle clarify yellow tiny";

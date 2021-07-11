@@ -1,1 +1,1 @@
-var mnemonic = "chef about ugly just shadow risk rail first lemon welcome bitter print";
+var mnemonic = "stamp corn people chest stone wheat powder stock laundry birth pilot buzz";

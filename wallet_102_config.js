@@ -1,1 +1,1 @@
-var mnemonic = "judge envelope busy daughter horror kiwi stomach surge dune orphan rhythm wink";
+var mnemonic = "surround peace valid reduce dynamic castle baby short cousin ticket little grain";

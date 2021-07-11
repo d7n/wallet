@@ -1,1 +1,1 @@
-var mnemonic = "print day donor zoo special top abandon drop session autumn critic rely";
+var mnemonic = "meadow patient potato random cash float book find sleep butter avocado ensure";

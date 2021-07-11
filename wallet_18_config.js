@@ -1,1 +1,1 @@
-var mnemonic = "seminar scrub maid check trumpet cloud area coast february myself parrot disagree";
+var mnemonic = "attract ankle chief innocent coconut brief shoulder chair edit brave subject bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter athlete duck candy fault swing family diagram slender fine tag rescue";
+var mnemonic = "physical toe horse squeeze illness library ramp that august ill sense decline";

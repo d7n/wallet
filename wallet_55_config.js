@@ -1,1 +1,1 @@
-var mnemonic = "age canvas almost rare object awake trim friend payment pelican neutral mail";
+var mnemonic = "brief brief client once develop broom motion family space pole term truly";

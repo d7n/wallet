@@ -1,1 +1,1 @@
-var mnemonic = "mother slow width romance market question wage great vote hope feature gallery";
+var mnemonic = "direct broom frame shine pair measure chaos believe stable cherry undo concert";

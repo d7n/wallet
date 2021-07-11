@@ -1,1 +1,1 @@
-var mnemonic = "nephew easily amount uncle state embark body sport sick magnet drip label";
+var mnemonic = "strike puzzle local image domain flight kiwi essay silly you upper surround";

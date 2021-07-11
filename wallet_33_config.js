@@ -1,1 +1,1 @@
-var mnemonic = "emerge essay parade into venture require inch useful solution gun must cabbage";
+var mnemonic = "type radio interest matrix thumb dose season faculty clutch dose method hidden";

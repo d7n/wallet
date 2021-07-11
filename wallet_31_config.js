@@ -1,1 +1,1 @@
-var mnemonic = "produce question sick use artist match brand stairs split annual furnace virus";
+var mnemonic = "vivid gravity bridge box make crystal waste tuna shrug glory sponsor grant";

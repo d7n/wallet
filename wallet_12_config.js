@@ -1,1 +1,1 @@
-var mnemonic = "used breeze hammer awake head maze scorpion olive blade enjoy first below";
+var mnemonic = "transfer science setup deposit ahead agree crop action way siren provide cube";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato able slab jewel deposit interest slide ghost long shed liberty doll";
+var mnemonic = "remind buddy chief payment mechanic delay license annual jelly void give elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "endless improve execute can climb essence meadow voice amount opinion negative earn";
+var mnemonic = "execute simple wedding such juice bronze doctor evolve mammal pistol hair plate";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol grow water deer extra victory tiny parent lecture burden asthma gentle";
+var mnemonic = "fluid broom vague marriage spell avocado elegant wrist same festival shop control";

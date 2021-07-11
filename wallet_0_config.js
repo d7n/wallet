@@ -1,1 +1,1 @@
-var mnemonic = "awesome hard remember february act silk twin initial grid knee coyote bacon";
+var mnemonic = "effort frame soft rubber enjoy tragic high path story easily file bird";

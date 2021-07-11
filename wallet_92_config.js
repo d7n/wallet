@@ -1,1 +1,1 @@
-var mnemonic = "pluck short guilt limb wedding lunar lizard sweet unfold actual dial laptop";
+var mnemonic = "orange six effort topple vivid patrol frequent near old bottom pact teach";

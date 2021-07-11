@@ -1,1 +1,1 @@
-var mnemonic = "soap wagon enhance room day raven traffic record mimic bus salmon like";
+var mnemonic = "profit more cargo club essay silver cake news panther thought saddle relax";

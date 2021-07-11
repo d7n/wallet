@@ -1,1 +1,1 @@
-var mnemonic = "claw print win craft vicious dragon tribe until discover invest prison assault";
+var mnemonic = "short robust satisfy mango message range provide spider devote warfare music outdoor";

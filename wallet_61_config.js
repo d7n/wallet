@@ -1,1 +1,1 @@
-var mnemonic = "twenty pelican strategy slide all moon quit myself invest novel pig tree";
+var mnemonic = "scrub brain toe swap wheat body cat inspire loop secret museum side";

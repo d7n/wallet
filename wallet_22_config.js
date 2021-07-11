@@ -1,1 +1,1 @@
-var mnemonic = "trial armor pipe decrease body rely misery code one amazing push split";
+var mnemonic = "obscure layer will pause worry behave worry ramp spread derive focus follow";

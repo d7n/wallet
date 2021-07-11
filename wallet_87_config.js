@@ -1,1 +1,1 @@
-var mnemonic = "strategy pluck area cool fruit icon hire youth pool ordinary mercy theory";
+var mnemonic = "digital excess train original assist blossom wife caught risk play flee bundle";

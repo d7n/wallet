@@ -1,1 +1,1 @@
-var mnemonic = "couple flame kid patch lava erase rival harsh pulse deposit venue nice";
+var mnemonic = "rug rather trap ostrich fix track roof slush rent profit curve canvas";

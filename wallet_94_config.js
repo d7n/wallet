@@ -1,1 +1,1 @@
-var mnemonic = "pet game pitch that rude swamp shop absorb negative food acoustic fantasy";
+var mnemonic = "double link marriage nation used bargain vague slow ladder what indoor stadium";

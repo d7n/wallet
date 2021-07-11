@@ -1,1 +1,1 @@
-var mnemonic = "upper ocean float age delay trend fun giant deposit ranch release object";
+var mnemonic = "glove slab venue other pen vintage violin provide energy file inside youth";

@@ -1,1 +1,1 @@
-var mnemonic = "else buffalo adjust pudding spatial oval clump mimic myth someone coconut swim";
+var mnemonic = "hospital honey fine route tell furnace fragile discover timber easy bulk gadget";

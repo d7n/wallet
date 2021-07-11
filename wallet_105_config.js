@@ -1,1 +1,1 @@
-var mnemonic = "swap health area frozen blouse install rent avocado unveil naive venue collect";
+var mnemonic = "green ice original negative author liberty mechanic regret angle system siege movie";

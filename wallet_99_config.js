@@ -1,1 +1,1 @@
-var mnemonic = "wire utility trial humble slam session gym clerk crash romance basket chapter";
+var mnemonic = "subway giggle rabbit hint autumn faint enhance stable pyramid sample whisper endless";

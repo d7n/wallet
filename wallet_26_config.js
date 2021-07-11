@@ -1,1 +1,1 @@
-var mnemonic = "ski rubber bachelor bonus forum smooth another grape dust race citizen page";
+var mnemonic = "swap large address physical math claim radar fetch animal close renew survey";

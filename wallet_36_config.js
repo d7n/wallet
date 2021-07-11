@@ -1,1 +1,1 @@
-var mnemonic = "glory tobacco flame move curious proud earth chunk range grunt answer chapter";
+var mnemonic = "casual shoulder tool identify magic brain scale sibling nice since lunch frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "category mansion ethics large entire alert bless analyst aerobic exercise random tuna";
+var mnemonic = "noble adapt beach reflect sheriff race curious make yard mule blame gravity";

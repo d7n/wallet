@@ -1,1 +1,1 @@
-var mnemonic = "rifle culture recall churn hold choose cake object radio symptom okay juice";
+var mnemonic = "hand cloud person route shiver spider dance wrist label ignore lawn fetch";

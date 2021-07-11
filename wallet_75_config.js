@@ -1,1 +1,1 @@
-var mnemonic = "easy donate essence history wire blush spirit rural key cup common also";
+var mnemonic = "faith wagon sketch injury apple urban legend inspire rough produce clap note";

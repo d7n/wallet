@@ -1,1 +1,1 @@
-var mnemonic = "hood wasp since fish hybrid goddess current sugar hurry evolve access energy";
+var mnemonic = "brain cool admit lake senior coast doll nurse concert sing awkward tell";

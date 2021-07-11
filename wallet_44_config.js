@@ -1,1 +1,1 @@
-var mnemonic = "spread tape drama deposit ticket glide confirm fiction gentle sister fringe eyebrow";
+var mnemonic = "kiss saddle win coyote steak cushion ripple mechanic patient donkey bounce price";

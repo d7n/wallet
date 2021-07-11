@@ -1,1 +1,1 @@
-var mnemonic = "village fee crack erupt judge patrol about guilt window crisp fee hill";
+var mnemonic = "adapt talk wreck lizard caught slab crush cool age reopen sick cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "absent welcome armed symbol jeans brave update decorate defense romance energy stone";
+var mnemonic = "artefact member cup ball north fancy tomato network ladder course transfer spin";

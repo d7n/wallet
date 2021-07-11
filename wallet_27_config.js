@@ -1,1 +1,1 @@
-var mnemonic = "dance afraid north mushroom burst truck scrub trigger ordinary quarter gaze satoshi";
+var mnemonic = "dose blue collect crew bachelor fuel oxygen furnace river achieve across pumpkin";

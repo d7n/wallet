@@ -1,1 +1,1 @@
-var mnemonic = "cheese enemy ghost leader basic enlist bus desert infant wrap glare lazy";
+var mnemonic = "alter sheriff loop bid enhance mansion brick pave bacon clay moral crisp";

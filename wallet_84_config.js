@@ -1,1 +1,1 @@
-var mnemonic = "snake divert envelope skate lawn usual head stay spike always tumble honey";
+var mnemonic = "price someone round devote olympic bulb twist erode snow error smoke grab";

@@ -1,1 +1,1 @@
-var mnemonic = "cup hero enough popular grab deny strong cook digital rebuild cereal drum";
+var mnemonic = "double matrix subway field limit ship pottery document party brick zone garment";

@@ -1,1 +1,1 @@
-var mnemonic = "situate sad bike bone cause trigger any blanket spice flame assault puzzle";
+var mnemonic = "example oppose gas evoke adjust capital viable uncle dwarf churn spot pilot";

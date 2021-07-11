@@ -1,1 +1,1 @@
-var mnemonic = "soon cycle inflict law genuine hero broken liar work way wall deputy";
+var mnemonic = "wink when cruise fortune regret copper knee equip vote toe provide orient";

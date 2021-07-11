@@ -1,1 +1,1 @@
-var mnemonic = "intact version phone check person media alone question attitude detect sure unveil";
+var mnemonic = "announce spend point mistake crane early invite live couple fat oval express";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper crumble meat excess dawn moon salt video canoe attend print habit";
+var mnemonic = "creek trophy right sorry mobile crowd upset ancient slice pony way unit";

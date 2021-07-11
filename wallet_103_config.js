@@ -1,1 +1,1 @@
-var mnemonic = "hint knife man neither return visa fold quarter unique emerge north venture";
+var mnemonic = "fork trash napkin ecology image flame scheme cement kingdom cost birth lawn";

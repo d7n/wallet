@@ -1,1 +1,1 @@
-var mnemonic = "club dice lunar blind scatter atom brisk aerobic fit radar smart split";
+var mnemonic = "drip spike powder crush kiss split mirror asthma live swamp smart sausage";
