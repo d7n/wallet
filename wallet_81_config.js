@@ -1,1 +1,1 @@
-var mnemonic = "job festival reason close spoon thumb mention ridge ghost twenty renew pave";
+var mnemonic = "fly merge member load century student near famous viable member acquire opinion";

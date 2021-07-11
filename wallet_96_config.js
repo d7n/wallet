@@ -1,1 +1,1 @@
-var mnemonic = "capable author crisp bottom donor thumb obey fitness critic six gospel pill";
+var mnemonic = "deliver test once sick october basket caught patch olive cotton dinosaur strong";

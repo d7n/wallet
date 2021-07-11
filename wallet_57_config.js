@@ -1,1 +1,1 @@
-var mnemonic = "crater lizard buddy nation senior okay crawl usual prefer crouch exile rare";
+var mnemonic = "wink industry play major require that loop episode valley welcome limb soldier";

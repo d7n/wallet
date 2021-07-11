@@ -1,1 +1,1 @@
-var mnemonic = "quit case lamp bachelor risk wheat elevator fork history replace drama mirror";
+var mnemonic = "erase bring fantasy bring jungle salon quality buyer van mango retreat torch";

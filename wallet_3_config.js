@@ -1,1 +1,1 @@
-var mnemonic = "sell settle action congress wink obscure pink damage sponsor guess fancy raccoon";
+var mnemonic = "client claw sick mother easily phone mom clean credit someone wish basket";

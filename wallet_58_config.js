@@ -1,1 +1,1 @@
-var mnemonic = "silly wrong trade travel kitchen north print accuse venture country segment example";
+var mnemonic = "thought legend meat rifle final museum iron boost tree pig bean champion";

@@ -1,1 +1,1 @@
-var mnemonic = "awake gym language mom quit primary solid rib economy cluster spot boil";
+var mnemonic = "tornado mountain wood beef jelly tower rent door tell transfer trumpet derive";

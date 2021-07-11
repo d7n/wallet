@@ -1,1 +1,1 @@
-var mnemonic = "worth drip sadness kind control road work fresh minimum good hand barrel";
+var mnemonic = "broom title release aspect royal oxygen oyster disorder urge struggle time wear";

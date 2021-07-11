@@ -1,1 +1,1 @@
-var mnemonic = "medal coin fold food add wasp recall kiss sound loyal notice river";
+var mnemonic = "inspire answer range problem olympic route now fringe call tuition enroll mad";

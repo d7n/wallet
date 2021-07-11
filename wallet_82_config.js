@@ -1,1 +1,1 @@
-var mnemonic = "achieve bar harsh frog normal speed actual exhibit fancy theory dove dress";
+var mnemonic = "bread deer clock hurdle pen jungle office field urge clerk high one";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum current visa party siren hollow slogan drive avocado broom arch earn";
+var mnemonic = "spread put tail poverty nation ship phone pill olive flavor sort assault";

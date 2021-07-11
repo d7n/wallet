@@ -1,1 +1,1 @@
-var mnemonic = "matter any auto jungle rather blanket language powder junk awake toss rail";
+var mnemonic = "venture jacket proud spy tell record spider stable prison display street magnet";

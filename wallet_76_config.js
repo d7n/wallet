@@ -1,1 +1,1 @@
-var mnemonic = "winner dynamic home axis arrest ice aspect carry deal oyster mystery dash";
+var mnemonic = "square hen brick bright final afford toilet goat task best because test";

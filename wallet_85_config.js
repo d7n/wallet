@@ -1,1 +1,1 @@
-var mnemonic = "mind biology mercy seven staff prosper develop stand room fresh often census";
+var mnemonic = "salad uphold erode minor magic connect parade axis reason diagram match intact";

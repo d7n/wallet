@@ -1,1 +1,1 @@
-var mnemonic = "sight bamboo bless laptop guitar arrive around simple worry knife guide crouch";
+var mnemonic = "barely boat inquiry eager boring spring kid heart super section gaze cup";

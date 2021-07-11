@@ -1,1 +1,1 @@
-var mnemonic = "tomato skill bracket actual arm clever abuse rural era moon lamp aerobic";
+var mnemonic = "minute pink exit island organ rabbit borrow oil point train fun upgrade";

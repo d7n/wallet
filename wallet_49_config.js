@@ -1,1 +1,1 @@
-var mnemonic = "napkin right leg upset wealth nest dove cricket slush album case army";
+var mnemonic = "uniform ramp erase nuclear embark luxury net situate disease tag gas phone";

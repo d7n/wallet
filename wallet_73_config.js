@@ -1,1 +1,1 @@
-var mnemonic = "begin regular extra practice village cruise useless donkey elite pledge enact nose";
+var mnemonic = "body allow steak clever legend next short spatial kidney sorry round butter";

@@ -1,1 +1,1 @@
-var mnemonic = "farm black mutual siege pencil discover three mention cart hidden hedgehog pulp";
+var mnemonic = "doctor creek crumble assault badge split logic hill small pen harsh also";

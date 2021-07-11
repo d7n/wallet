@@ -1,1 +1,1 @@
-var mnemonic = "identify similar jeans rib logic few belt habit quick balcony punch stick";
+var mnemonic = "citizen struggle change front minute evil actor engine hello mind upon chef";

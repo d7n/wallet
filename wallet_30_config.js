@@ -1,1 +1,1 @@
-var mnemonic = "garage pattern income dose salt wall twin frozen canoe project move tunnel";
+var mnemonic = "cruel slide special between mix good liar tunnel title rose deny shell";

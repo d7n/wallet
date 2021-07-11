@@ -1,1 +1,1 @@
-var mnemonic = "write few spoon require dash marble catalog liquid tourist thing ribbon luggage";
+var mnemonic = "inch problem copper apart escape actor benefit recall bus question pill unveil";

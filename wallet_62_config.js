@@ -1,1 +1,1 @@
-var mnemonic = "juice banana symbol six duck road flock step fat page hand oblige";
+var mnemonic = "bracket similar sight response cool bone unveil inhale portion cherry please toy";

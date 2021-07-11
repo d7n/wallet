@@ -1,1 +1,1 @@
-var mnemonic = "purity genius hurt sketch answer drip pet view gospel make body leg";
+var mnemonic = "salon cloud gallery theme evidence asset seven small clarify salute slush ugly";

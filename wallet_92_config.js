@@ -1,1 +1,1 @@
-var mnemonic = "cheese gravity polar pistol catalog rebuild clean upgrade culture vocal business hub";
+var mnemonic = "shallow ugly cotton west aisle poem team update stand tiny increase typical";

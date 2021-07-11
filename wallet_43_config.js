@@ -1,1 +1,1 @@
-var mnemonic = "grab struggle pet loud tobacco cousin legend duck monster blast away trip";
+var mnemonic = "cash spare network sketch drink claw noise few nerve mosquito jewel knee";

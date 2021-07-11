@@ -1,1 +1,1 @@
-var mnemonic = "always course tobacco between hurry cliff push seed door leave candy burden";
+var mnemonic = "motor kitchen answer bamboo knee crystal measure walk alcohol soon inmate journey";

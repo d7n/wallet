@@ -1,1 +1,1 @@
-var mnemonic = "sphere glimpse argue shed avoid ivory skate mom siren carbon address scorpion";
+var mnemonic = "rice fault shuffle worth glad can heart aisle scatter equal gun assume";

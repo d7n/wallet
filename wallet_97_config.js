@@ -1,1 +1,1 @@
-var mnemonic = "switch meadow doctor reunion cook abandon record safe arch record skirt canvas";
+var mnemonic = "slow school rib chat garage wool flush diet voice month husband ride";

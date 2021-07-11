@@ -1,1 +1,1 @@
-var mnemonic = "clump bone alpha dose member riot just tennis carbon avoid squirrel turkey";
+var mnemonic = "harsh garage heavy middle motion ancient sound laundry dignity leg swallow brick";

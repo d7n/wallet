@@ -1,1 +1,1 @@
-var mnemonic = "clog involve spray below elder march excess shine tag pull erase column";
+var mnemonic = "guard rifle photo can capable cram energy joke increase paddle brave current";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet frozen cannon mercy crew tray only fiction bunker screen spatial sick";
+var mnemonic = "sick cargo soldier thank injury curtain trumpet denial excuse hold aerobic thought";

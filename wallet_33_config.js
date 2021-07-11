@@ -1,1 +1,1 @@
-var mnemonic = "collect mind obtain mesh load primary tail neutral wrap inflict rival main";
+var mnemonic = "repeat lava secret vast gasp sell object wire rescue tooth route primary";

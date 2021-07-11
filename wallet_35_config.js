@@ -1,1 +1,1 @@
-var mnemonic = "curtain unfair tiger speak luxury special circle young typical friend scout beauty";
+var mnemonic = "style water ghost core buyer critic rough earth service boost special tonight";

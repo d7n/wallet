@@ -1,1 +1,1 @@
-var mnemonic = "favorite dog remain crouch weather rhythm suggest pilot goose also bunker park";
+var mnemonic = "jacket youth october situate draft permit glory theme guide evolve member bunker";

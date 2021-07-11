@@ -1,1 +1,1 @@
-var mnemonic = "fish faculty celery magic rely apology rare valid industry silk win travel";
+var mnemonic = "diet miss breeze wet dress boil impose paddle lake warfare between unable";

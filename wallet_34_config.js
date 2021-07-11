@@ -1,1 +1,1 @@
-var mnemonic = "inject industry deliver swing soon noise assume alarm pole brand rail shrimp";
+var mnemonic = "ripple since cable broom dynamic keen harbor borrow help excite evil snap";

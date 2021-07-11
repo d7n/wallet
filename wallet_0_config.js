@@ -1,1 +1,1 @@
-var mnemonic = "sock smart shallow win supply harbor system electric tuition celery require inspire";
+var mnemonic = "artefact close nasty boring cement cover odor weekend turn wall scan harvest";

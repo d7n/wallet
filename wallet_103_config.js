@@ -1,1 +1,1 @@
-var mnemonic = "oyster leopard puppy arrest mixture exist gadget maid toss toy team arrive";
+var mnemonic = "volcano lamp path cushion horse affair tool hub return execute perfect federal";

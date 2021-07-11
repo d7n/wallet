@@ -1,1 +1,1 @@
-var mnemonic = "foam ridge hello asthma cat logic win trick wood innocent city edge";
+var mnemonic = "raven various engine bridge hazard require stadium chalk bind settle above spot";

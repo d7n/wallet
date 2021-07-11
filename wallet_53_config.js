@@ -1,1 +1,1 @@
-var mnemonic = "eight raw fence cement plate decline oil skin boss chronic coral august";
+var mnemonic = "settle pole receive blush cluster catalog festival raw elevator bullet silly stone";

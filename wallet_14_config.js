@@ -1,1 +1,1 @@
-var mnemonic = "asset chat prosper insane cloth awesome target student mercy asset remain exhibit";
+var mnemonic = "knock fossil okay air minute entire enroll giraffe remind frown magic slab";

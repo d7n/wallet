@@ -1,1 +1,1 @@
-var mnemonic = "orphan glide airport spend section lake wrap ski rigid during nurse cactus";
+var mnemonic = "immense clerk saddle lamp tiny noble viable universe pass merge torch camera";

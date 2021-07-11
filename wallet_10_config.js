@@ -1,1 +1,1 @@
-var mnemonic = "clean put nuclear rich merit welcome swarm law maple million flavor lemon";
+var mnemonic = "nut amount gown bid cactus student scene balance aunt wing number turtle";

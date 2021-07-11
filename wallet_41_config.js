@@ -1,1 +1,1 @@
-var mnemonic = "kind female spoil decorate maid ranch icon cabin symptom chalk corn capital";
+var mnemonic = "evolve twin alone decade seed save color false medal donor ramp board";

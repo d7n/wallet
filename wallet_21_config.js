@@ -1,1 +1,1 @@
-var mnemonic = "fabric bamboo bulk hip cement want shadow please rapid senior error pilot";
+var mnemonic = "problem ritual range glue seed region orphan two gesture sail struggle relief";

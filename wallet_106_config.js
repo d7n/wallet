@@ -1,1 +1,1 @@
-var mnemonic = "father bar inner wife olive hip holiday smile shadow toast point lunch";
+var mnemonic = "famous victory submit because imitate virtual subway bracket obvious vivid athlete feel";

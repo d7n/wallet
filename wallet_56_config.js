@@ -1,1 +1,1 @@
-var mnemonic = "prosper wine valid must occur video cherry frame similar also parent paddle";
+var mnemonic = "security obvious myth fetch input melody slush laundry anchor top gasp inside";

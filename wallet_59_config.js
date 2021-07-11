@@ -1,1 +1,1 @@
-var mnemonic = "ivory weird dog frog perfect corn wool bullet hair picnic pluck soon";
+var mnemonic = "tent sight world space remind bacon force process million leaf senior rose";

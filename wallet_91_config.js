@@ -1,1 +1,1 @@
-var mnemonic = "just audit legal castle major climb state prepare motion slam sock rescue";
+var mnemonic = "brisk leaf reopen frozen jeans satisfy chaos weapon tackle truly vessel bitter";

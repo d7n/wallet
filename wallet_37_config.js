@@ -1,1 +1,1 @@
-var mnemonic = "foot old auction supply aunt dizzy enrich outdoor echo allow festival charge";
+var mnemonic = "drastic valley artefact crash spider dizzy fix huge mesh void rain endorse";

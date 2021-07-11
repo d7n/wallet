@@ -1,1 +1,1 @@
-var mnemonic = "wood science mention fancy lucky provide recycle boat snow safe card wasp";
+var mnemonic = "sorry mean blast game phrase ladder omit exclude among faculty crisp jar";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage rotate donor comic soup sponsor bind soup else sugar memory toss";
+var mnemonic = "wolf marriage december enemy volcano hurt bridge unit antenna doctor near oven";

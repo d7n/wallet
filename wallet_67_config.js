@@ -1,1 +1,1 @@
-var mnemonic = "doll recall surface layer leg brisk aerobic pond coconut cricket hero mix";
+var mnemonic = "nothing hero teach aspect aim original giraffe produce scout total cause immune";

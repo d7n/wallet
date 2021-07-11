@@ -1,1 +1,1 @@
-var mnemonic = "alpha install theory holiday token license basket gasp desert cradle energy habit";
+var mnemonic = "afraid east liar board shaft ill regular box riot trim joy antenna";

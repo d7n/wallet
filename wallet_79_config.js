@@ -1,1 +1,1 @@
-var mnemonic = "source prosper acoustic elbow penalty enemy very inquiry royal candy modify cinnamon";
+var mnemonic = "alter girl bomb vital ceiling blue initial then reform cactus bounce pulp";

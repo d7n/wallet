@@ -1,1 +1,1 @@
-var mnemonic = "away salon because drum salad gap song vacuum secret cost skate expand";
+var mnemonic = "finger winner length gossip infant lend fuel reopen reunion draft ribbon benefit";

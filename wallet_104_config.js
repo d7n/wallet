@@ -1,1 +1,1 @@
-var mnemonic = "point outdoor brass universe airport globe decorate fragile toe expect cheap hood";
+var mnemonic = "team life trumpet scheme settle endless marine chronic surprise similar bench opera";

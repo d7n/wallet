@@ -1,1 +1,1 @@
-var mnemonic = "liquid always indoor client tunnel moment target swap dragon budget million dinosaur";
+var mnemonic = "boost ten jeans arrest nurse unveil gown swear stove then nephew friend";

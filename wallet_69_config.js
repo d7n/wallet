@@ -1,1 +1,1 @@
-var mnemonic = "can error news gorilla erosion census pelican injury outside ball stable peasant";
+var mnemonic = "alcohol collect where dune file unlock young glory hard impact require cruel";

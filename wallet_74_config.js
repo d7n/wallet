@@ -1,1 +1,1 @@
-var mnemonic = "palm winner usual often thank robot survey potato time motion earn blur";
+var mnemonic = "trigger pepper mean pause media affair table enact erosion fluid anxiety pulse";

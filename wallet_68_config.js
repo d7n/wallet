@@ -1,1 +1,1 @@
-var mnemonic = "awesome venture east marble entire electric blanket chef escape surge arch miracle";
+var mnemonic = "security someone wheat other shoulder domain wrist chat tray miracle runway harsh";

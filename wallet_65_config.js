@@ -1,1 +1,1 @@
-var mnemonic = "want human wagon march bar cloud dust palace inhale proud police start";
+var mnemonic = "follow skill head bitter course spend gospel scatter crawl bullet pet talk";

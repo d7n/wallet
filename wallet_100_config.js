@@ -1,1 +1,1 @@
-var mnemonic = "man cook fantasy inherit flat master cactus shine shuffle water home stool";
+var mnemonic = "forest fortune various there foster bargain candy army common exist flame sentence";

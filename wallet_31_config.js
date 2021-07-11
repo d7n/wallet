@@ -1,1 +1,1 @@
-var mnemonic = "expand tennis only range below any about burden attend six general long";
+var mnemonic = "tooth bargain purity quote century fork february sword ahead vacuum assist tobacco";

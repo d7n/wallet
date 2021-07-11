@@ -1,1 +1,1 @@
-var mnemonic = "foam excite dirt expand member acoustic release game arch ice betray man";
+var mnemonic = "gloom feature crane joy dinosaur merge bread ancient path picnic garment wrong";

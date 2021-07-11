@@ -1,1 +1,1 @@
-var mnemonic = "scout rule wrap maid lab blade travel edge burst scrub concert demise";
+var mnemonic = "razor march derive robust brief nominee dismiss grid maximum coconut judge elite";

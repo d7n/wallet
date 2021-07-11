@@ -1,1 +1,1 @@
-var mnemonic = "catch result chaos cabin inhale elephant swear grab step reveal inside fan";
+var mnemonic = "sad analyst mansion pact vintage capital movie say click smoke boat cattle";

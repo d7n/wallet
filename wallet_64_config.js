@@ -1,1 +1,1 @@
-var mnemonic = "work payment scrub gap fiber must sense run boil manage delay raven";
+var mnemonic = "ocean impulse occur corn style recipe garden seek welcome someone rapid join";

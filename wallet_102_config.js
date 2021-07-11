@@ -1,1 +1,1 @@
-var mnemonic = "uncle gaze addict donor fall legend short gospel retire mystery swallow wood";
+var mnemonic = "army magnet badge barrel ancient gospel help club sadness lunch keen become";

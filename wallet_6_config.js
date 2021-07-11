@@ -1,1 +1,1 @@
-var mnemonic = "style nut demise cherry industry cricket priority pottery alert music lizard choice";
+var mnemonic = "school merry month oven glory dial strategy convince zoo grape chief favorite";

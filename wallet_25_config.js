@@ -1,1 +1,1 @@
-var mnemonic = "another among liar method anchor educate tuna derive keen rain fan cash";
+var mnemonic = "uncle tape thumb cargo glory web usage kiwi door tortoise mention glove";

@@ -1,1 +1,1 @@
-var mnemonic = "grass cradle like excuse theme hair unknown sell attitude occur confirm stool";
+var mnemonic = "moment extend planet brother motor confirm setup kitten thrive state treat eight";

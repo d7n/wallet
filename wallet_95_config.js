@@ -1,1 +1,1 @@
-var mnemonic = "trick gym dry enough bubble cement point random public happy donkey case";
+var mnemonic = "globe course wild sun tone title tiger educate wheel merry athlete flee";

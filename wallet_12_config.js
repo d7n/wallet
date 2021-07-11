@@ -1,1 +1,1 @@
-var mnemonic = "glass fancy bulb enjoy blouse help fiber enemy impact twenty reject gap";
+var mnemonic = "steel spare doll change clown choose electric excite vessel excess keep dose";

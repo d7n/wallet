@@ -1,1 +1,1 @@
-var mnemonic = "depend once flat ring humor glove fluid badge labor abstract hero real";
+var mnemonic = "fitness begin try bullet jaguar bleak member satisfy busy swallow range giggle";

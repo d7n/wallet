@@ -1,1 +1,1 @@
-var mnemonic = "ocean pull dolphin mean south soon rib trim abstract discover decline riot";
+var mnemonic = "tattoo inflict exile gospel glance acoustic hungry enable current cactus same chat";

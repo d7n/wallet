@@ -1,1 +1,1 @@
-var mnemonic = "large patient shrimp luggage steel mix pilot slim salon smart able fashion";
+var mnemonic = "buffalo client that tree bunker cube total language angle unfold about observe";

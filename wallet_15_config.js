@@ -1,1 +1,1 @@
-var mnemonic = "vibrant creek alone media enable marriage parent noble vague antique key alien";
+var mnemonic = "various roof lift position divide earth note since roast sick virtual music";

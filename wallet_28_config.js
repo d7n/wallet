@@ -1,1 +1,1 @@
-var mnemonic = "art orient depend dune angry ensure minor jewel alone brass grain scene";
+var mnemonic = "village juice slab thunder retire rapid inflict harbor visit brass field swallow";

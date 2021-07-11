@@ -1,1 +1,1 @@
-var mnemonic = "elephant romance elbow tunnel aisle winter exhibit slam modify enemy decorate wrong";
+var mnemonic = "rain invest sunset gadget come damage cherry hand lounge bean shoot unhappy";

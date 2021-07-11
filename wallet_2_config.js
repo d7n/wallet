@@ -1,1 +1,1 @@
-var mnemonic = "tattoo cool vote best weird paddle true enroll stay vote domain awake";
+var mnemonic = "rough cupboard tone soccer wash carry gossip galaxy flight polar hello creek";

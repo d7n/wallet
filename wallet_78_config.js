@@ -1,1 +1,1 @@
-var mnemonic = "fly copy camera love pair egg stereo fatal wheel horn harvest provide";
+var mnemonic = "crisp marble sadness empty pitch baby enlist evolve crater spike seed damage";

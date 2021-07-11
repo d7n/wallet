@@ -1,1 +1,1 @@
-var mnemonic = "pride oblige worth jealous drive fatigue card subject end melt program measure";
+var mnemonic = "service tell sample garden only desk burger drip armed make female skin";

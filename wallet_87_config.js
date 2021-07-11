@@ -1,1 +1,1 @@
-var mnemonic = "art firm sense hero alley door miss wait kiwi lesson history claw";
+var mnemonic = "turkey nothing cupboard tilt yard man august impact sister maid leopard door";

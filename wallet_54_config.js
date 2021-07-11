@@ -1,1 +1,1 @@
-var mnemonic = "tilt render captain attract bulk quote reject mind cattle once walk master";
+var mnemonic = "trade venture blossom gas naive embrace toy hidden element exit next pride";
