@@ -1,1 +1,1 @@
-var mnemonic = "tower raccoon slide foam spoil grace sugar denial rapid slam vague core";
+var mnemonic = "erode spin dumb grocery skirt brush seven cave core brief link scrub";

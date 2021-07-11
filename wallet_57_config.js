@@ -1,1 +1,1 @@
-var mnemonic = "quality surprise chapter attack lunar hotel enforce snow select junk mango february";
+var mnemonic = "rug draft autumn document marble nothing pistol gloom velvet crumble top adjust";

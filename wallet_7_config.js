@@ -1,1 +1,1 @@
-var mnemonic = "pull flower crazy large large update kitchen unaware disorder warfare chuckle glad";
+var mnemonic = "gym sister spike control oven cluster happy marriage lake cherry puzzle butter";

@@ -1,1 +1,1 @@
-var mnemonic = "bar dice lawn fancy increase salute hospital doctor cruel aware grit drink";
+var mnemonic = "drama canyon legend road hair habit endorse coast decade wink wrestle top";

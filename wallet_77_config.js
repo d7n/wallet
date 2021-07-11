@@ -1,1 +1,1 @@
-var mnemonic = "upon ritual ride drift cradle diesel write fish feed ivory almost nature";
+var mnemonic = "coil double wedding wrong cannon ginger together original pull often screen budget";

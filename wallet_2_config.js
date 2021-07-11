@@ -1,1 +1,1 @@
-var mnemonic = "verb tortoise tragic abstract play language path slot kind gas cattle worry";
+var mnemonic = "wire dry movie clerk surround cattle evil random glow wheel exercise life";

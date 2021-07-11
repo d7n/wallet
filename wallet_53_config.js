@@ -1,1 +1,1 @@
-var mnemonic = "solar success school poet receive brass dilemma kidney dream injury glimpse announce";
+var mnemonic = "genre then hawk carbon camp sadness camp pretty own have pottery lion";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit curious speed ahead ready animal friend kitten broken market enlist journey";
+var mnemonic = "pistol estate enact recall position kick beyond ensure height runway degree globe";

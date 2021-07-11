@@ -1,1 +1,1 @@
-var mnemonic = "that parent list govern spawn lottery pair start thought unaware age ahead";
+var mnemonic = "argue near tonight naive aspect sketch insane salmon actual shield rain dentist";

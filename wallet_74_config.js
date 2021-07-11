@@ -1,1 +1,1 @@
-var mnemonic = "indoor author normal weather depart shock donate lecture valley cream advice glance";
+var mnemonic = "pen mixed fancy sister undo buddy lunch goddess area lemon happy weather";

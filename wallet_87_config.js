@@ -1,1 +1,1 @@
-var mnemonic = "jungle confirm gather setup crater blue define wrist enough wave toddler gauge";
+var mnemonic = "endless people kit clip panther item habit million enforce build boil viable";

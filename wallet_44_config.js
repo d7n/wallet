@@ -1,1 +1,1 @@
-var mnemonic = "brave bird tribe teach belt remove link robust theme math model basket";
+var mnemonic = "begin fit oval tail crane chat frame boil quote two degree reflect";

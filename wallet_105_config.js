@@ -1,1 +1,1 @@
-var mnemonic = "wise aware suspect design month home inflict shrug kitten off door chunk";
+var mnemonic = "gorilla onion device flush enact mask whale victory train spice train riot";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid topic bachelor frog innocent control embark fiber heavy ask silent chair";
+var mnemonic = "stairs guitar fee impact photo pride scale response right ladder glass hint";

@@ -1,1 +1,1 @@
-var mnemonic = "sea gain few roof unusual magnet bottom emotion cry kiss reform gallery";
+var mnemonic = "odor crisp category wonder learn lottery oil cluster obey come squirrel dutch";

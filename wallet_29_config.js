@@ -1,1 +1,1 @@
-var mnemonic = "push model tenant reason screen auto accident put prefer believe charge supreme";
+var mnemonic = "twelve share below hazard appear cash copper gesture despair foot useful tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "knife sick funny market divide acid own uncover donor price mercy live";
+var mnemonic = "glide caution mixture true message absurd permit limit harvest angle under federal";

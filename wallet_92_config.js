@@ -1,1 +1,1 @@
-var mnemonic = "wreck sample close able tattoo chimney transfer hello monster enact blast foil";
+var mnemonic = "acid cousin there limb pen brick pulp select jungle melt palm heavy";

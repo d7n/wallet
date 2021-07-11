@@ -1,1 +1,1 @@
-var mnemonic = "float stadium ocean fortune devote near very fit outside monster guilt liberty";
+var mnemonic = "civil grid youth side proud sleep amused laugh frequent expand warfare dynamic";

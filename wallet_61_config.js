@@ -1,1 +1,1 @@
-var mnemonic = "you table glance stairs digital world picnic bounce tilt chef surface slot";
+var mnemonic = "group mobile decorate annual black review crisp hip rug elite jewel tonight";

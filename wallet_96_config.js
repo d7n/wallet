@@ -1,1 +1,1 @@
-var mnemonic = "pill treat lizard wagon napkin kick hollow dry wreck million umbrella useless";
+var mnemonic = "frame foot track inform spring document autumn sudden camera busy total rocket";

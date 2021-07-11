@@ -1,1 +1,1 @@
-var mnemonic = "shallow claim estate deliver matrix review change garment shrimp injury hood sniff";
+var mnemonic = "glance group play glare explain banner original dutch slow supreme ignore elder";

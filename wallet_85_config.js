@@ -1,1 +1,1 @@
-var mnemonic = "tag car nuclear creek display film record deer lizard detail vast town";
+var mnemonic = "jeans able try manage impulse banner labor cube shoulder sure screen potato";

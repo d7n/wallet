@@ -1,1 +1,1 @@
-var mnemonic = "such lab deposit north saddle rack original inflict capable spare barrel assist";
+var mnemonic = "random dry decide answer fence goat bitter safe struggle adult crisp danger";

@@ -1,1 +1,1 @@
-var mnemonic = "silk soccer vibrant cat clerk legal initial expand oak crush relax flight";
+var mnemonic = "pumpkin lamp recall unveil canyon coffee tail ceiling skin chronic forest eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "betray place panel purse ask shaft pave enlist item seek conduct cattle";
+var mnemonic = "approve during symptom cover belt cave extra fossil measure upper search decide";

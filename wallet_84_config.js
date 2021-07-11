@@ -1,1 +1,1 @@
-var mnemonic = "lens cabin negative bring short reopen recycle pause buffalo such axis eye";
+var mnemonic = "shock rapid guard figure gesture february demand mutual lemon behind album child";

@@ -1,1 +1,1 @@
-var mnemonic = "supply ladder alarm chest alien cherry barely oppose damp glove organ occur";
+var mnemonic = "winner review like pumpkin frog exit oyster seven ship under noise banner";

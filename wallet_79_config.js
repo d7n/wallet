@@ -1,1 +1,1 @@
-var mnemonic = "bleak trim month equip lonely quality shallow praise work alter siren decrease";
+var mnemonic = "gown hint episode spoil session squeeze thumb winter subway next rice liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "raw label shell crystal sell gasp amused avoid sleep cook trash cost";
+var mnemonic = "today gallery retire furnace arm panic emotion math cloth valley joy subway";

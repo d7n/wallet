@@ -1,1 +1,1 @@
-var mnemonic = "people march december wise gaze social baby ice crouch pattern recycle rail";
+var mnemonic = "autumn repeat valley vast match canoe admit kite shadow manage easily style";

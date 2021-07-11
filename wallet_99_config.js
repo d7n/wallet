@@ -1,1 +1,1 @@
-var mnemonic = "disagree brass joke pause sausage stomach salmon excess control wheat method alpha";
+var mnemonic = "hole rebel apart nest animal inherit duty soon salmon service essence taxi";

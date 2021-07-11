@@ -1,1 +1,1 @@
-var mnemonic = "banana tunnel mask meat love guide snap fog mule grant employ solve";
+var mnemonic = "palm elegant network model abandon hope people unfold dirt bike extra tragic";

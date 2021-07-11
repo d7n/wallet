@@ -1,1 +1,1 @@
-var mnemonic = "again together evidence media push silent clutch sauce hen found humor simple";
+var mnemonic = "frost discover aerobic endless resist bacon pupil dolphin kitten length primary cabbage";

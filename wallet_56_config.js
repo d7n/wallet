@@ -1,1 +1,1 @@
-var mnemonic = "taxi retreat marriage feel forget belt pave hill boring fluid exotic panic";
+var mnemonic = "wild kid consider remove ten aspect fitness weapon sustain ability fury color";

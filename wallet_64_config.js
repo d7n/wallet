@@ -1,1 +1,1 @@
-var mnemonic = "peasant noble ladder bean guitar toast galaxy scare possible allow current boss";
+var mnemonic = "tiny monster random weird stick unaware steak attitude album car grain slow";

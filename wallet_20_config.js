@@ -1,1 +1,1 @@
-var mnemonic = "useful absent relief topple decrease quality seat tuition inflict mimic flash act";
+var mnemonic = "tourist guard fossil lawsuit effort walnut satisfy sentence chat industry dune hamster";

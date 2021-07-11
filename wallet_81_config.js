@@ -1,1 +1,1 @@
-var mnemonic = "clinic decide organ gasp clay develop undo toss sadness vintage lunch alarm";
+var mnemonic = "income country output legend trouble slush soda pulp glance deal various valley";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy profit glimpse region autumn praise tank rigid wreck exclude unknown bounce";
+var mnemonic = "forget strategy baby frog truck orbit tail bonus canal soccer attack nose";

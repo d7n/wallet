@@ -1,1 +1,1 @@
-var mnemonic = "govern tourist vicious quality slow human omit sugar embody hat reopen sphere";
+var mnemonic = "plug apple mountain february crane coast urge during stand winter chaos claim";

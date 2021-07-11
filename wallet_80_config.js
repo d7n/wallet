@@ -1,1 +1,1 @@
-var mnemonic = "remember thumb local gallery door oil loan upset answer glare hazard bomb";
+var mnemonic = "honey heavy derive other reopen divert half clap rotate today accuse casual";

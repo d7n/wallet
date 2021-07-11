@@ -1,1 +1,1 @@
-var mnemonic = "wall join resist place attract jaguar poverty siren arctic quiz certain sponsor";
+var mnemonic = "snow turtle dismiss later digital damage rapid hedgehog cousin example project lumber";

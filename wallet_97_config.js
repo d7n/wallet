@@ -1,1 +1,1 @@
-var mnemonic = "stool shove blame sail neglect door crush witness february leader club between";
+var mnemonic = "border shallow diet crunch segment love enjoy potato nest fire budget fiscal";

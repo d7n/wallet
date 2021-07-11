@@ -1,1 +1,1 @@
-var mnemonic = "when device guard reunion win weather trip effort leaf dinner enable side";
+var mnemonic = "eight harsh absurd involve cannon lesson emerge leader spawn farm guilt immune";

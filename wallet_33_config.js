@@ -1,1 +1,1 @@
-var mnemonic = "blue renew visual table sample mountain close peanut dinosaur steel inform issue";
+var mnemonic = "before vanish engine salt clip knock believe reflect civil pause core drink";

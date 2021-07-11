@@ -1,1 +1,1 @@
-var mnemonic = "myself junk neither mosquito frame wear shock boy monster worth rich actual";
+var mnemonic = "inhale stamp athlete settle depend horse remind pottery school monkey mask curtain";

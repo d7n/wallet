@@ -1,1 +1,1 @@
-var mnemonic = "now extra among question unveil sing lab manage rapid atom sentence advice";
+var mnemonic = "isolate neck space future laugh quiz always another route van dizzy fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna smooth outside combine proof fame anger answer swarm prefer rack orbit";
+var mnemonic = "boost write key shallow fringe frown embody dutch magnet machine double myth";

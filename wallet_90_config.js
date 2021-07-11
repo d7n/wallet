@@ -1,1 +1,1 @@
-var mnemonic = "sauce tide miracle horror sustain throw obtain people cause bunker enable hawk";
+var mnemonic = "manage elbow flash pumpkin theory loud digital police turn earn turkey margin";

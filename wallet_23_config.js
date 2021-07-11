@@ -1,1 +1,1 @@
-var mnemonic = "hero true asthma play price invite wrap sock melody sphere defy human";
+var mnemonic = "naive vanish stage album ivory honey beyond fly energy suggest toward worry";

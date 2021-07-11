@@ -1,1 +1,1 @@
-var mnemonic = "battle hood horse vapor museum miracle air engine lyrics gun brick silly";
+var mnemonic = "crumble maze festival tourist chat future whip puppy siren work push coast";

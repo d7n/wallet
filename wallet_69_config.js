@@ -1,1 +1,1 @@
-var mnemonic = "gorilla piece civil craft bulb thought tonight return target tube awesome pear";
+var mnemonic = "about wolf tribe broken attract certain screen blouse symptom forward motor cage";

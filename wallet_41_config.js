@@ -1,1 +1,1 @@
-var mnemonic = "dismiss one drift dice goose cruel tornado dinner enable soldier cook sample";
+var mnemonic = "sibling symptom proud engine project govern eternal entry immense twelve practice fox";

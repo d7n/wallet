@@ -1,1 +1,1 @@
-var mnemonic = "demand sing ice coconut host permit attract cherry sunny fault tuition addict";
+var mnemonic = "produce vanish human inmate phrase present label crowd local figure coconut sight";

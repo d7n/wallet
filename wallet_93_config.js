@@ -1,1 +1,1 @@
-var mnemonic = "coil spirit aunt venture sail gather baby virtual pride screen stadium poet";
+var mnemonic = "midnight shrug song inflict again mix slender term cupboard talk observe salon";

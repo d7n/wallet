@@ -1,1 +1,1 @@
-var mnemonic = "right good silk riot drift menu apology achieve chicken grunt gather goddess";
+var mnemonic = "local budget gossip cinnamon sense pear other style tenant rifle rain toddler";

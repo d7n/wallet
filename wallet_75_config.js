@@ -1,1 +1,1 @@
-var mnemonic = "funny submit beauty stove worth sweet initial zebra round conduct matrix alone";
+var mnemonic = "other that jelly balcony paddle proof snow before effort pyramid crack upgrade";

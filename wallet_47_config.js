@@ -1,1 +1,1 @@
-var mnemonic = "inside notable twin property drum artwork seed burst gravity unfold wedding solid";
+var mnemonic = "plug extra explain clerk online kick mobile tree awful help comfort scissors";

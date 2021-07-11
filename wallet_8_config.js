@@ -1,1 +1,1 @@
-var mnemonic = "wrist rib fame glide fit outdoor stage north mobile battle future twin";
+var mnemonic = "aware voice system blush shrimp ketchup entire uncover ghost oil deputy humor";

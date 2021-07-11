@@ -1,1 +1,1 @@
-var mnemonic = "sheriff find now quit add someone cereal page same drip fee minimum";
+var mnemonic = "segment consider afford fiber ugly winter axis next baby inner ginger carbon";

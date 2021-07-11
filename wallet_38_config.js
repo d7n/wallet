@@ -1,1 +1,1 @@
-var mnemonic = "disease expand guilt unfold torch sea nephew chunk bonus knee inherit rate";
+var mnemonic = "armed yard bubble theme police canal kitchen unaware april box box pyramid";

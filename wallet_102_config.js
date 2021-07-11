@@ -1,1 +1,1 @@
-var mnemonic = "under confirm phone title maze hole type patrol slender magic frog staff";
+var mnemonic = "buyer arena person puppy glad custom concert tool mask level mistake plunge";

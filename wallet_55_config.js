@@ -1,1 +1,1 @@
-var mnemonic = "capable situate machine bench want visa wait swallow giant fetch update produce";
+var mnemonic = "slender stairs begin believe again neutral rotate snake vivid situate mention attend";

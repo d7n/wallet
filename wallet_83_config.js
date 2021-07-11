@@ -1,1 +1,1 @@
-var mnemonic = "cousin churn hybrid hammer guard erupt fiber cigar daughter decline evoke black";
+var mnemonic = "arrow panel dilemma hold bus bachelor finger raw motor birth fine palace";

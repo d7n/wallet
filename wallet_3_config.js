@@ -1,1 +1,1 @@
-var mnemonic = "one certain pave word easy toilet square debris drive clap someone animal";
+var mnemonic = "fashion pool cute energy since moment clean machine act beef face master";

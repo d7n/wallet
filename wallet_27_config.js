@@ -1,1 +1,1 @@
-var mnemonic = "unaware prosper beach zero matrix undo journey cover nerve drum total path";
+var mnemonic = "inner escape board auto vague ensure evil pelican fish glow moment cupboard";

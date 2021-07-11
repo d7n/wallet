@@ -1,1 +1,1 @@
-var mnemonic = "spot travel cycle cup flat chapter rely sponsor lab loop music during";
+var mnemonic = "mean blanket sugar stay symptom girl stable defense fun marriage busy rack";

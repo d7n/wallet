@@ -1,1 +1,1 @@
-var mnemonic = "rebel warm degree bamboo horn illegal grow pitch crater faith day exotic";
+var mnemonic = "mule job stage fit genius certain music visa obscure cash train wasp";

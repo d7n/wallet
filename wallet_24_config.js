@@ -1,1 +1,1 @@
-var mnemonic = "ship assault erase mercy seed prefer firm draft height artist brother wrist";
+var mnemonic = "shiver wave struggle cradle wrestle reunion rich awake wrong moon cabbage minute";

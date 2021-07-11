@@ -1,1 +1,1 @@
-var mnemonic = "coyote hill congress patient salon neutral hospital census bird kiss royal public";
+var mnemonic = "path member private loan put heavy around inject invest spider night upper";

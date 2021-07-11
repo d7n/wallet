@@ -1,1 +1,1 @@
-var mnemonic = "base inhale patient such emerge utility olympic skull decrease lumber obscure spray";
+var mnemonic = "science eagle pill crisp fly box cliff wrap later village vague spot";

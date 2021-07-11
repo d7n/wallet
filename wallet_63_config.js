@@ -1,1 +1,1 @@
-var mnemonic = "deposit wet pass inmate ahead runway pair clown blue wink strike umbrella";
+var mnemonic = "perfect novel artist hope poet jar surface sphere deliver oblige beyond lift";

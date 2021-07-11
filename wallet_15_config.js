@@ -1,1 +1,1 @@
-var mnemonic = "annual west jazz beef sniff shaft pause never liberty half quit boat";
+var mnemonic = "virtual option robust engage sentence jazz observe media sand economy plunge decide";

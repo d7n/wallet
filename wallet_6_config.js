@@ -1,1 +1,1 @@
-var mnemonic = "finish lady earth dry success model include hobby move doctor year art";
+var mnemonic = "gap taste again sad type treat table twenty inside grape shift rotate";

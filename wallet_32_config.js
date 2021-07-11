@@ -1,1 +1,1 @@
-var mnemonic = "ethics cactus jazz error nice copy error audit bench hint finger repeat";
+var mnemonic = "someone couch pencil swallow pitch heart soon dry enter price stable begin";

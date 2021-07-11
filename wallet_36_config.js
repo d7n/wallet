@@ -1,1 +1,1 @@
-var mnemonic = "summer whale index talk mammal detect message work sword unhappy stuff pulse";
+var mnemonic = "feed flash true control machine bachelor sunny bless garment knife video seminar";

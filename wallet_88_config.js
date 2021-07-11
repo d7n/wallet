@@ -1,1 +1,1 @@
-var mnemonic = "ride tape combine noble found castle flee because emerge equal cute harvest";
+var mnemonic = "jewel huge ceiling connect bracket dune calm tone round carbon year mirror";

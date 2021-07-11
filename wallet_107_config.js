@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo prison fossil major gentle stamp test heavy coin method torch frost";
+var mnemonic = "repeat sense panic slogan arena pen card bulk south sell upgrade chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "antique knee poem lucky beyond beach category example steel ice genuine pact";
+var mnemonic = "century hover melt final spy desk black become mask doctor illegal latin";

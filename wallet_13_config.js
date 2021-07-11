@@ -1,1 +1,1 @@
-var mnemonic = "coil setup allow domain boring gauge arrange game unlock argue mutual sunset";
+var mnemonic = "arctic apart kit legend social rival train drift amused what radar lake";

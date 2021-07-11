@@ -1,1 +1,1 @@
-var mnemonic = "chicken drum run gift burden inside move simple equal boil action flight";
+var mnemonic = "job exit payment popular cave program claim orchard into valid media focus";

@@ -1,1 +1,1 @@
-var mnemonic = "accident reveal develop middle subway forest clog victory govern drift series gloom";
+var mnemonic = "space wet target digital cram runway spread surround one owner regular joke";

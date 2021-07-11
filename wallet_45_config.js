@@ -1,1 +1,1 @@
-var mnemonic = "produce summer fame alter orbit vanish vacant turtle cattle thought evolve tumble";
+var mnemonic = "portion beyond pumpkin paddle early canvas spell assault earn skull walk solar";

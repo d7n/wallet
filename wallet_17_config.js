@@ -1,1 +1,1 @@
-var mnemonic = "false high quality away despair elegant knife brave naive claim divorce key";
+var mnemonic = "found hunt invite diet empower true base web dynamic blouse knock theory";

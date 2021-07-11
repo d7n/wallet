@@ -1,1 +1,1 @@
-var mnemonic = "quality tent divide impose gossip marble attend rare repeat what unveil fuel";
+var mnemonic = "bundle sweet machine turtle fury expand dust soft square monkey wife judge";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors subway inquiry slot carpet zoo round negative engage fury title lyrics";
+var mnemonic = "price enrich entire illness defense plunge hello north egg juice pizza announce";

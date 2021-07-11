@@ -1,1 +1,1 @@
-var mnemonic = "nominee push pretty iron twice sibling unusual vehicle kite ill blind limit";
+var mnemonic = "despair double simple reject wedding enroll seven audit bright someone about swap";

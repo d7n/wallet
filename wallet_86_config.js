@@ -1,1 +1,1 @@
-var mnemonic = "infant step stay movie pair section consider pave much unfold judge hood";
+var mnemonic = "usage injury van grocery obtain census fog vacuum game scrap poem urban";

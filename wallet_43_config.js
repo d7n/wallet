@@ -1,1 +1,1 @@
-var mnemonic = "laptop dance robust flower message guard master labor buddy letter swear copy";
+var mnemonic = "knee loud medal pretty duty dice over health relief anxiety fever raven";

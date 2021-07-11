@@ -1,1 +1,1 @@
-var mnemonic = "gate peasant kit velvet purchase bring clutch deliver pyramid cool palm rail";
+var mnemonic = "town cabbage series ritual slush endorse spell split rose sort super bike";

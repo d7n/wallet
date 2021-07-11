@@ -1,1 +1,1 @@
-var mnemonic = "tackle evolve build genius pill exact regular ancient grain spoil cup reopen";
+var mnemonic = "news online later phone moment novel next crop firm acquire weapon menu";

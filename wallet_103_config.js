@@ -1,1 +1,1 @@
-var mnemonic = "bitter finger prefer raise snack brown pride use leisure cliff shuffle tissue";
+var mnemonic = "senior sadness height assume ripple knife skirt wage cost title top resemble";

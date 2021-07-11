@@ -1,1 +1,1 @@
-var mnemonic = "sting cool garden ecology jewel rail orient elder fine perfect almost reopen";
+var mnemonic = "wrap toss coil inner smooth build owner friend face note scheme drill";

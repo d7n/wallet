@@ -1,1 +1,1 @@
-var mnemonic = "vacuum zone room mention stick hover sound dentist olive arch process adjust";
+var mnemonic = "tonight feed timber drama add famous hub olive lonely observe humble live";
