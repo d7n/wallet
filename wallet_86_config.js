@@ -1,1 +1,1 @@
-var mnemonic = "ticket subject gorilla until fault flag hand wise play also cause dust";
+var mnemonic = "blind attack shoulder addict onion winner there survey bonus absurd struggle inside";

@@ -1,1 +1,1 @@
-var mnemonic = "fence wrap diesel stone disagree asthma nasty front noble tortoise toe omit";
+var mnemonic = "market tissue divert then stock host kitchen budget smile peanut gather profit";

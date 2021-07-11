@@ -1,1 +1,1 @@
-var mnemonic = "sure better file drill maze chair soft jar misery joy cactus comic";
+var mnemonic = "tomato roof awesome this million cricket extend fossil fire edge crystal never";

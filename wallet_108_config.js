@@ -1,1 +1,1 @@
-var mnemonic = "satisfy similar connect horse street poverty child pride sudden devote total purchase";
+var mnemonic = "explain must open tiger report kangaroo term forum indicate hospital minor gallery";

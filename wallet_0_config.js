@@ -1,1 +1,1 @@
-var mnemonic = "era stove paper force pride initial cloud west quarter sugar loud crater";
+var mnemonic = "nature table scrap senior crouch nominee skull fantasy path accident trap web";

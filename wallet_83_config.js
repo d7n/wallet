@@ -1,1 +1,1 @@
-var mnemonic = "luggage robust cycle depend bomb adjust wire sorry reveal wreck water student";
+var mnemonic = "cloth shrimp ten blossom seven noise tell improve robot more rail twin";

@@ -1,1 +1,1 @@
-var mnemonic = "onion peasant moral blouse six torch clever print april rack hundred squeeze";
+var mnemonic = "practice dumb guide loud piano width jealous tonight area account royal shy";

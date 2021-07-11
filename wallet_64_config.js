@@ -1,1 +1,1 @@
-var mnemonic = "jealous resist rival wall reduce design portion mule metal account ridge unfair";
+var mnemonic = "mention menu ski success leg shed stay spice pact jealous vanish tobacco";

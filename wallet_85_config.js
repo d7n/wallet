@@ -1,1 +1,1 @@
-var mnemonic = "hair they skill bus rabbit exact catch surface toward crucial humor reason";
+var mnemonic = "section baby expand crack fresh duty only garage fire census machine embody";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow letter color during caught ask render session express curve clarify behind";
+var mnemonic = "month test borrow service neck satoshi clown outer drink huge cool toy";

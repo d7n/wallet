@@ -1,1 +1,1 @@
-var mnemonic = "transfer change edge embrace zoo when unfold magnet ivory hole hollow viable";
+var mnemonic = "chaos viable math economy dinner raven scrap ancient fury endless auto monitor";

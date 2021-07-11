@@ -1,1 +1,1 @@
-var mnemonic = "oil lake trim fatigue exile ignore prevent pulse able quality brave error";
+var mnemonic = "eager fade drum power talent attitude bounce until viable bird wonder timber";

@@ -1,1 +1,1 @@
-var mnemonic = "over industry minute clock antique physical fantasy major bitter side either helmet";
+var mnemonic = "motor filter tube young solve festival silent genius scan estate alert toy";

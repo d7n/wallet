@@ -1,1 +1,1 @@
-var mnemonic = "casino under scorpion myth spend wish wet task erase buyer zoo rely";
+var mnemonic = "sad cluster hidden aspect saddle eternal shallow desk country apart rebel timber";

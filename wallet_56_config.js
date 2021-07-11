@@ -1,1 +1,1 @@
-var mnemonic = "debate sell gold maze combine core acid camera bag trend discover angry";
+var mnemonic = "dune clay virtual record word great repeat seven include kingdom into dash";

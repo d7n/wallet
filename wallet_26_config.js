@@ -1,1 +1,1 @@
-var mnemonic = "limit never brain cliff vocal right dial squeeze shield lizard donor rabbit";
+var mnemonic = "suffer tattoo pencil ugly spray pact ability wine floor wool pelican alert";

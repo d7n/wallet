@@ -1,1 +1,1 @@
-var mnemonic = "metal pupil reveal book flavor comfort usual giraffe save deposit country scatter";
+var mnemonic = "tape tank trade scale cinnamon desert economy catalog toilet zoo rather anger";

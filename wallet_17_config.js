@@ -1,1 +1,1 @@
-var mnemonic = "galaxy actress record amateur favorite sustain match island put bike lake surround";
+var mnemonic = "afford team ketchup enable permit gospel energy echo moral domain slab misery";

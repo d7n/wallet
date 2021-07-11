@@ -1,1 +1,1 @@
-var mnemonic = "leader emerge start ocean helmet raccoon hidden six tell wagon cycle input";
+var mnemonic = "code father web dawn nature garlic faculty story match coil slight hawk";

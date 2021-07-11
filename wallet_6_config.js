@@ -1,1 +1,1 @@
-var mnemonic = "rail trip ramp brave neutral lawsuit inner obey winner tank come erosion";
+var mnemonic = "cheese beach maze tool face error label clown close history ceiling east";

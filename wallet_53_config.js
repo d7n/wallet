@@ -1,1 +1,1 @@
-var mnemonic = "lazy wedding ancient tray recipe flat give cash machine trigger pluck else";
+var mnemonic = "vote loop soda drift nation hospital car lobster lemon sausage copy hammer";

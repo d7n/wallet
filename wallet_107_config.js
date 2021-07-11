@@ -1,1 +1,1 @@
-var mnemonic = "citizen where myself apology erosion once vintage struggle gather labor drip impose";
+var mnemonic = "gate father pottery napkin chunk coin tongue puppy staff extend script ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong various rent first usual camp knife what mansion wise all other";
+var mnemonic = "evolve female hope episode resemble fly hybrid impulse crazy suffer census cable";

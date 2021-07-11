@@ -1,1 +1,1 @@
-var mnemonic = "tilt mystery raccoon hundred crime jeans vocal melody soup can aspect either";
+var mnemonic = "infant where thumb pair milk eyebrow climb economy cute truth where bulk";

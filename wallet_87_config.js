@@ -1,1 +1,1 @@
-var mnemonic = "burst undo prison credit ready shell thumb clever swap economy exhibit wrong";
+var mnemonic = "churn arm dance emerge method trap high inch switch swing sound once";

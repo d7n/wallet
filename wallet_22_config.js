@@ -1,1 +1,1 @@
-var mnemonic = "race shock hello fruit live leopard now stairs equip verb opera warm";
+var mnemonic = "believe stairs antenna sick law picture warrior pink grape alpha critic supply";

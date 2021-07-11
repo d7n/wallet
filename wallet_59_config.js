@@ -1,1 +1,1 @@
-var mnemonic = "tuna twist enter office rough speak royal crush junior relax divorce soft";
+var mnemonic = "confirm verify kit icon entire attend diagram left photo race spirit resist";

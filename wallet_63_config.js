@@ -1,1 +1,1 @@
-var mnemonic = "tonight lake special sleep canyon appear father project rally pave buffalo april";
+var mnemonic = "decade rescue debris smile method offer citizen enough rocket banner nest giraffe";

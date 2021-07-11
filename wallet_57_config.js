@@ -1,1 +1,1 @@
-var mnemonic = "fatal order advance swarm walnut aerobic coin tip undo flock enrich protect";
+var mnemonic = "claw endless purity puzzle wave oyster boy dutch timber level fetch canyon";

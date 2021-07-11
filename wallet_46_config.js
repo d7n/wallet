@@ -1,1 +1,1 @@
-var mnemonic = "sentence choice near stay upset soccer market fluid draft gaze match weird";
+var mnemonic = "endless cook patrol garbage soldier dentist crane normal walk source correct power";

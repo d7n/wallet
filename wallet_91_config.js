@@ -1,1 +1,1 @@
-var mnemonic = "repeat review lemon nut over claim grace delay jazz regret pool immense";
+var mnemonic = "bubble garden vacuum want minor thank finger quarter father boost page photo";

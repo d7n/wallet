@@ -1,1 +1,1 @@
-var mnemonic = "repair trick outer deer exact brisk replace paper stable actress behind vapor";
+var mnemonic = "fiction visa shed aisle jealous strategy cover ahead gasp program asthma pencil";

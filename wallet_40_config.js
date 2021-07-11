@@ -1,1 +1,1 @@
-var mnemonic = "news treat ugly armor rice fuel antenna pen combine mean drama injury";
+var mnemonic = "sphere disagree version service blame first sword spike steak license column tackle";

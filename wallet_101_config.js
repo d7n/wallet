@@ -1,1 +1,1 @@
-var mnemonic = "next weapon annual slide sun never school portion lend range blush female";
+var mnemonic = "mountain man dance cheap ramp ice vessel fan cushion lab cat rice";

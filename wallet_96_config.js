@@ -1,1 +1,1 @@
-var mnemonic = "speak soap caught chair require small power save gas inner remember track";
+var mnemonic = "acoustic win nerve guard demand verify artwork cushion wild hobby attitude among";

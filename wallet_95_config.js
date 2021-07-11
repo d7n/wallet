@@ -1,1 +1,1 @@
-var mnemonic = "catalog hospital victory alter amateur sick depend about achieve say belt remind";
+var mnemonic = "alarm today venture cactus retire sponsor floor enlist sibling exercise tell people";

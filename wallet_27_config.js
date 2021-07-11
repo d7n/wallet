@@ -1,1 +1,1 @@
-var mnemonic = "demise rib chalk shop produce pattern reopen response stone title atom amount";
+var mnemonic = "frog blade unique culture rabbit pave track seminar bonus reunion nurse magnet";

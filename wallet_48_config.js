@@ -1,1 +1,1 @@
-var mnemonic = "agree veteran wagon swift series change scare unveil keen patrol cannon still";
+var mnemonic = "luggage umbrella affair vital supreme truth thumb wear price grocery security ugly";

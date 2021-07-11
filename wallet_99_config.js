@@ -1,1 +1,1 @@
-var mnemonic = "wealth seek eager slide scout car try evil return squirrel kick urban";
+var mnemonic = "open ordinary woman crater crumble sure insect voyage only nothing behave sail";

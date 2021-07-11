@@ -1,1 +1,1 @@
-var mnemonic = "hazard gold various venue barrel suffer carbon then tag below glue raven";
+var mnemonic = "donor afford exact nest prevent wave august long cruise three remind badge";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn gather zebra stay setup duty total mammal model economy stadium name";
+var mnemonic = "fresh misery dial time hold force food bleak lazy castle material broken";

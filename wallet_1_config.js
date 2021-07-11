@@ -1,1 +1,1 @@
-var mnemonic = "grain master example gravity blast category sustain city stomach engine seminar dress";
+var mnemonic = "elephant guess jacket gown scrub situate decide assume brisk attack evil lake";

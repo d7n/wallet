@@ -1,1 +1,1 @@
-var mnemonic = "reunion usage motion mix defy distance ill harvest feature reform sphere under";
+var mnemonic = "shrimp opera crazy attract exotic height boat trumpet cream warm frost position";

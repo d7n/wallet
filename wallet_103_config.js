@@ -1,1 +1,1 @@
-var mnemonic = "calm bean lizard scale donkey cement drive transfer forum canal cake season";
+var mnemonic = "use hover once urban produce ankle interest sound grant sweet random fall";

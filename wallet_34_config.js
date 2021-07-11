@@ -1,1 +1,1 @@
-var mnemonic = "service erupt clip million valley surface quote coffee august lawsuit struggle sample";
+var mnemonic = "indoor bacon enemy session riot casino rib spray wine shiver trap royal";

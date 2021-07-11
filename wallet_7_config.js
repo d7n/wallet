@@ -1,1 +1,1 @@
-var mnemonic = "lunch lucky tray ice seminar misery march web notice envelope radar memory";
+var mnemonic = "bitter door draw caught blanket unfair drop coyote column chat march venture";

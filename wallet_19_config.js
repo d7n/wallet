@@ -1,1 +1,1 @@
-var mnemonic = "magnet lemon torch audit frost jelly push avocado gospel toss cave relief";
+var mnemonic = "air leisure execute brave waste perfect border gown august whisper combine library";

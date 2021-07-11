@@ -1,1 +1,1 @@
-var mnemonic = "play tongue east when spy ahead lock material thrive spare route reunion";
+var mnemonic = "dizzy duck pattern phone obscure pear history leader swamp hope mandate battle";

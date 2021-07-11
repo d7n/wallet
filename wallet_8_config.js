@@ -1,1 +1,1 @@
-var mnemonic = "rate acid effort garden best earth issue jewel sea shadow width craft";
+var mnemonic = "goat regret crew expect attract mercy hammer firm direct sad artwork awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "library false tilt pause device limit swap tribe extend meat tiny olive";
+var mnemonic = "menu act pave that ecology exhibit express hold shove crash walk shadow";

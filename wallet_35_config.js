@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow elite resource dance magic remind humor stock olympic soldier tumble jelly";
+var mnemonic = "rude rail adapt lawn ocean baby perfect install virus robust seven upgrade";

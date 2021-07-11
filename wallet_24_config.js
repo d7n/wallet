@@ -1,1 +1,1 @@
-var mnemonic = "width hard vendor seminar invest crane better switch panel bone sick excuse";
+var mnemonic = "farm health shoulder sail royal swift recycle truck hammer clock dinner humor";

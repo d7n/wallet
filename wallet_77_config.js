@@ -1,1 +1,1 @@
-var mnemonic = "disease frown exit tone best language upgrade oxygen cage bind claim energy";
+var mnemonic = "option mask movie mandate object nation pig mix match balcony candy alarm";

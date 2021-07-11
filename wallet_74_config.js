@@ -1,1 +1,1 @@
-var mnemonic = "meat nurse pill zero include obvious kitchen suspect clown denial army word";
+var mnemonic = "project room fly wheel secret disease brown genre crumble north orchard inspire";

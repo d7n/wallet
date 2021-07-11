@@ -1,1 +1,1 @@
-var mnemonic = "camp slogan angry cradle turtle problem clever girl element ethics analyst end";
+var mnemonic = "arrange fly expose magnet monitor safe arrive oblige vacuum acoustic midnight despair";

@@ -1,1 +1,1 @@
-var mnemonic = "shock month churn account group blanket other umbrella brother betray wall travel";
+var mnemonic = "wild palace wage link bean notable benefit brave margin festival mixed section";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar health just emotion act label garden black cry express history welcome";
+var mnemonic = "fashion agree claw tree unknown emotion motor hill noodle ceiling alone explain";

@@ -1,1 +1,1 @@
-var mnemonic = "term casual reward hawk orient pull morning crazy waste napkin essay elder";
+var mnemonic = "party media one way equal connect jealous trumpet marble oil rival record";

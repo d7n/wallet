@@ -1,1 +1,1 @@
-var mnemonic = "damp luxury topic visual antique symptom unit rare run vendor toddler roast";
+var mnemonic = "cross clinic trick hamster element tank object train blouse clutch diesel receive";

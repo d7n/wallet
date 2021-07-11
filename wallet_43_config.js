@@ -1,1 +1,1 @@
-var mnemonic = "verb cherry tool uniform raw defense silk exercise race ramp always rose";
+var mnemonic = "cousin drill beyond series asthma cream salmon clerk wheat excite fade lecture";

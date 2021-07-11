@@ -1,1 +1,1 @@
-var mnemonic = "marine powder lecture enhance coil expand royal cushion such ice trade correct";
+var mnemonic = "dragon figure loud jelly traffic steel crater exotic minor cook season gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "radio gym culture small sure speak invite ritual equal tide keep unaware";
+var mnemonic = "invest sadness maze arctic twist voyage bulb stool wonder panel heavy memory";

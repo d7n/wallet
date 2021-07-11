@@ -1,1 +1,1 @@
-var mnemonic = "federal blade entire law material opera wisdom thrive fault twin labor eager";
+var mnemonic = "bundle weather bomb practice trash waste tiny spirit repeat master nuclear blanket";

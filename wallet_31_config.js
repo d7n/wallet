@@ -1,1 +1,1 @@
-var mnemonic = "peanut cube latin divorce insect imitate brown jungle trend panic clinic grocery";
+var mnemonic = "board evoke cat protect swim acid upgrade filter mesh squirrel trial raw";

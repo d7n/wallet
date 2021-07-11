@@ -1,1 +1,1 @@
-var mnemonic = "celery inside decade please monkey mistake next just section message mom rhythm";
+var mnemonic = "picnic action surface slush inherit guard pink prepare liquid enrich rule muffin";

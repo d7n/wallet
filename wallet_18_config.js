@@ -1,1 +1,1 @@
-var mnemonic = "kind upgrade mobile oil globe sweet celery dismiss beach desert scale bid";
+var mnemonic = "weird draft mule inflict essence vendor illegal physical connect hole machine cry";

@@ -1,1 +1,1 @@
-var mnemonic = "connect bone cheese upgrade size scatter seek city clarify twin east cool";
+var mnemonic = "clutch parade age child bulb coral gold helmet remember isolate memory menu";

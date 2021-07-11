@@ -1,1 +1,1 @@
-var mnemonic = "ask mimic subway copper sponsor walnut obey column visual coil sauce analyst";
+var mnemonic = "across canal evidence normal describe produce enemy west annual grocery model argue";

@@ -1,1 +1,1 @@
-var mnemonic = "enable then ritual aisle course keep wedding domain vast soldier silent elevator";
+var mnemonic = "donor account loud suggest thrive blanket material whisper audit solar menu wasp";

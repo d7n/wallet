@@ -1,1 +1,1 @@
-var mnemonic = "awesome casual derive answer silent battle decade remove gate end flat summer";
+var mnemonic = "nephew double craft ride raccoon caution panel country gravity father race scissors";

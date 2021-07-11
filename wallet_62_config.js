@@ -1,1 +1,1 @@
-var mnemonic = "asset ethics evil result salmon universe system fine bunker hundred express spot";
+var mnemonic = "draft opinion process harsh motion equal join this finish sugar purchase convince";

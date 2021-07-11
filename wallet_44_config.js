@@ -1,1 +1,1 @@
-var mnemonic = "measure element want easy frozen floor picnic giggle box soul smoke genuine";
+var mnemonic = "exhibit couch fork vacant west swallow brain mistake combine grit envelope fence";

@@ -1,1 +1,1 @@
-var mnemonic = "circle salt master monster correct leaf trend course gallery ripple word nation";
+var mnemonic = "input buzz diary blur laptop hobby oblige desert inside bird deputy general";

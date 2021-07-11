@@ -1,1 +1,1 @@
-var mnemonic = "wash legend father valley device mom access thing evil neglect quantum tube";
+var mnemonic = "flash coyote black monitor spend entry piece patch execute toast shaft priority";

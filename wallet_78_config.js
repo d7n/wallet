@@ -1,1 +1,1 @@
-var mnemonic = "empty ability engage issue rough panic reduce fortune cousin basic taxi gun";
+var mnemonic = "infant timber left square firm urban rich cabbage yellow exact mesh wrist";

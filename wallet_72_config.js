@@ -1,1 +1,1 @@
-var mnemonic = "gun member palace spoil female panther champion fatal verify hollow have window";
+var mnemonic = "unaware wrestle viable journey two mango stable fit jar know attitude piece";

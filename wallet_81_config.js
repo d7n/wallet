@@ -1,1 +1,1 @@
-var mnemonic = "among orient output tattoo turkey gold grant derive caution save damage you";
+var mnemonic = "people sibling planet double aisle monkey empower cart ladder risk stable this";

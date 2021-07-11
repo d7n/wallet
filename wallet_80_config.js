@@ -1,1 +1,1 @@
-var mnemonic = "tone disorder flee slim urge shrug lobster budget warm fee orphan cabbage";
+var mnemonic = "mobile asset result ancient gospel tired fence claw else congress bundle clerk";

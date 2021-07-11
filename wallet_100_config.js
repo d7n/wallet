@@ -1,1 +1,1 @@
-var mnemonic = "help genius image lens zebra remain venue lounge edit nation language rich";
+var mnemonic = "shallow worth desk brick flavor arm sorry fever slow own cricket lesson";

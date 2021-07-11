@@ -1,1 +1,1 @@
-var mnemonic = "fatal logic theory manual exercise pool produce now green movie page kind";
+var mnemonic = "pet ethics alarm buffalo sorry sad robust reopen hungry unhappy orient outside";

@@ -1,1 +1,1 @@
-var mnemonic = "already farm tree search cave vivid cave hockey work hockey basket carbon";
+var mnemonic = "system drift ethics heart vehicle dry help flame then february little blue";

@@ -1,1 +1,1 @@
-var mnemonic = "save melody genuine dilemma before print pupil slice liberty hold olive estate";
+var mnemonic = "wall idle floor cake cancel master warrior truth wear emotion steak cheese";

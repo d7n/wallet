@@ -1,1 +1,1 @@
-var mnemonic = "brave leopard wait dune city symbol chat food gather potato grace million";
+var mnemonic = "flash wave clog deal sheriff correct oval curious begin say target budget";

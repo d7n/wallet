@@ -1,1 +1,1 @@
-var mnemonic = "neck kite radio alien east north polar era visa cake tuna green";
+var mnemonic = "general ready tourist summer sausage must ancient judge bike like certain decide";

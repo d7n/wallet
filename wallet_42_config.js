@@ -1,1 +1,1 @@
-var mnemonic = "decorate toe appear ethics odor squirrel monster betray still vital problem sentence";
+var mnemonic = "crystal casual achieve slab napkin else choose copy burst stuff sphere hockey";

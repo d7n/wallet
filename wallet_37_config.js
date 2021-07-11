@@ -1,1 +1,1 @@
-var mnemonic = "crew verb elephant method seed dose machine clump hobby height pair either";
+var mnemonic = "habit alone peasant rotate cement case answer differ answer repeat design push";

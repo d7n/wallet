@@ -1,1 +1,1 @@
-var mnemonic = "luggage gym umbrella medal enrich solve roof whisper salmon ticket inner blanket";
+var mnemonic = "service helmet quantum luggage injury spawn cattle mother lucky absurd element melody";

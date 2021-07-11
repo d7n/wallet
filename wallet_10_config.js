@@ -1,1 +1,1 @@
-var mnemonic = "drama current pear social write candy flip planet beef clarify draw doll";
+var mnemonic = "mother hospital cargo inform welcome huge try measure project aware wear blouse";

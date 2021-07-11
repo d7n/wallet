@@ -1,1 +1,1 @@
-var mnemonic = "burden afraid drink garden basket latin dwarf shy staff maximum beef cage";
+var mnemonic = "easy person mind surface silly pioneer glide purchase clown pet achieve jeans";

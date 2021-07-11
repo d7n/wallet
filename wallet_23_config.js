@@ -1,1 +1,1 @@
-var mnemonic = "million taxi obscure dentist assault garbage bachelor easily position general behind truth";
+var mnemonic = "case awesome mail ribbon spike earth guitar flight latin hollow copper pizza";

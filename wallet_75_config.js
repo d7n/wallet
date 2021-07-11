@@ -1,1 +1,1 @@
-var mnemonic = "sock birth toast cotton rookie cannon toilet isolate update dove whisper couple";
+var mnemonic = "uniform supreme shoot satoshi holiday hurry describe card notable brain bunker sniff";
