@@ -1,1 +1,1 @@
-var mnemonic = "ride elevator aunt twist hair guard spider smoke force pear measure antique";
+var mnemonic = "remind north arrive diesel fiscal remain athlete dizzy quick rotate belt amateur";

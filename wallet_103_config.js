@@ -1,1 +1,1 @@
-var mnemonic = "omit pink patrol holiday walk wagon smart alien citizen solar simple green";
+var mnemonic = "mule gap innocent claw arrange sample few neglect tourist pattern grid flat";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition sight broccoli reflect giraffe alone ecology space shoulder purpose once cup";
+var mnemonic = "glue please coast crumble myself rotate offer quick enhance gasp harbor spot";

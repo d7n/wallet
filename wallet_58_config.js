@@ -1,1 +1,1 @@
-var mnemonic = "shoot metal verify few blade public rival gold bind enhance tray asset";
+var mnemonic = "oblige fuel flavor busy oak level cover suit coffee supreme toddler leave";

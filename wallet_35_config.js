@@ -1,1 +1,1 @@
-var mnemonic = "random toe shed enough elephant brand poet route similar broccoli soap narrow";
+var mnemonic = "deputy job horn crime believe idea gallery trip mirror squeeze obvious knife";

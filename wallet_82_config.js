@@ -1,1 +1,1 @@
-var mnemonic = "nut blur cage taxi cigar joy marine rate faint lawsuit banner way";
+var mnemonic = "flavor wing vicious easy suffer enrich nuclear pluck omit cattle dice dilemma";

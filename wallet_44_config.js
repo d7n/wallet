@@ -1,1 +1,1 @@
-var mnemonic = "crack chaos enhance ozone injury agree scene solid truth ribbon must enhance";
+var mnemonic = "great innocent raven hard obey feel evil book veteran session say bench";

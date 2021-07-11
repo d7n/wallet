@@ -1,1 +1,1 @@
-var mnemonic = "term health divide indoor observe snack extra want jelly side small dove";
+var mnemonic = "able dinner chicken link concert enforce wheel horse kingdom course name salmon";

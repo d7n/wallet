@@ -1,1 +1,1 @@
-var mnemonic = "clever increase life tilt bulk cycle glove earn castle luggage tray rail";
+var mnemonic = "pitch puzzle rude silly club afraid display sister hawk will brother bunker";

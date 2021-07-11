@@ -1,1 +1,1 @@
-var mnemonic = "slab cook need pen speak sauce season isolate guitar beauty nerve describe";
+var mnemonic = "imitate nice bargain cupboard talk rocket perfect okay much soup illegal shine";

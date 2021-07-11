@@ -1,1 +1,1 @@
-var mnemonic = "depth push trend prevent poem cherry emotion kit trumpet sun truth country";
+var mnemonic = "guard can eyebrow woman battle december gauge return record artist pulp rate";

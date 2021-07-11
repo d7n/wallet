@@ -1,1 +1,1 @@
-var mnemonic = "cloud pencil trumpet veteran bring follow copper yellow mimic protect nasty promote";
+var mnemonic = "fortune whale pumpkin invest then just retreat kitchen express invite fence bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "horror admit space minimum crazy market seven decline coach stool swap river";
+var mnemonic = "garden moon bomb bunker viable car fly limit omit large best code";

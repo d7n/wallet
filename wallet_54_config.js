@@ -1,1 +1,1 @@
-var mnemonic = "silly add liberty today payment ozone install legal motor mind motor crumble";
+var mnemonic = "mouse punch coral decide pass march impose eye torch stem chair market";

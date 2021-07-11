@@ -1,1 +1,1 @@
-var mnemonic = "involve drink diary call because fall jewel salt tower morning old coast";
+var mnemonic = "okay chief typical hockey label draw clip chimney narrow disease drastic flee";

@@ -1,1 +1,1 @@
-var mnemonic = "olive maximum captain capital purpose profit rhythm image spatial bus travel story";
+var mnemonic = "just eye reveal fit heavy gentle adult gate few visa giraffe betray";

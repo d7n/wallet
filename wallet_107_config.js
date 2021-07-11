@@ -1,1 +1,1 @@
-var mnemonic = "arena snow spirit cause diagram crime thunder tired turkey pigeon notable mother";
+var mnemonic = "fog photo fade slight weekend special ginger ghost guard rich mushroom blame";

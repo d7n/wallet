@@ -1,1 +1,1 @@
-var mnemonic = "soda talent chicken buyer caution toddler spring chronic flash attend budget bacon";
+var mnemonic = "fox vicious swallow snack rebuild unfair collect addict river trash company cycle";

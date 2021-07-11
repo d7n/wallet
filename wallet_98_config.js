@@ -1,1 +1,1 @@
-var mnemonic = "maid jeans design volcano bracket cause good cricket buyer make race border";
+var mnemonic = "any orphan memory cake siren spell craft market power soldier goddess art";

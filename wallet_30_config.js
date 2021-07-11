@@ -1,1 +1,1 @@
-var mnemonic = "ranch orchard mention solution pistol evidence crew limb next tobacco uniform develop";
+var mnemonic = "same vast frozen alley movie random legend subway public suggest bubble cat";

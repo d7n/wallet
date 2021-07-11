@@ -1,1 +1,1 @@
-var mnemonic = "cart warm onion topic bulk oil layer genre giraffe accuse voice tray";
+var mnemonic = "cheap scatter similar actress install garlic route junior clown syrup appear phone";

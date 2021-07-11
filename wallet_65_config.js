@@ -1,1 +1,1 @@
-var mnemonic = "enable disorder chimney gather stem sport wheat hat lumber chat tiger lens";
+var mnemonic = "oval drip million melody puppy doll spawn work coconut matter year armed";

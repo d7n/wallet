@@ -1,1 +1,1 @@
-var mnemonic = "person alarm unaware honey letter bonus burger obtain bottom fringe flip rescue";
+var mnemonic = "initial nest thrive cupboard choose today post hammer fetch recycle deal pause";

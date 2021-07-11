@@ -1,1 +1,1 @@
-var mnemonic = "general jar corn silly bronze hope guide winter educate december inmate comic";
+var mnemonic = "trend twist enable pink tuition scale dinosaur copper afraid palace pond desert";

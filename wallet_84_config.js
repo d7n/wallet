@@ -1,1 +1,1 @@
-var mnemonic = "feed upper elevator middle sample love blur strategy seminar attract laptop cricket";
+var mnemonic = "steak era trap kitchen boil chapter dynamic key leopard trigger dizzy august";

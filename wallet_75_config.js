@@ -1,1 +1,1 @@
-var mnemonic = "airport course sauce wolf fossil victory add border spin rain midnight unveil";
+var mnemonic = "arrow chaos mimic coffee meadow eye describe stumble feel primary valid practice";

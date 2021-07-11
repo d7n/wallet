@@ -1,1 +1,1 @@
-var mnemonic = "garment comfort regular library foot consider deliver bargain file talk pear shoot";
+var mnemonic = "ice grief patch now desk come fury hurdle emotion entire cherry boss";

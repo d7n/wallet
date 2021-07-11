@@ -1,1 +1,1 @@
-var mnemonic = "tattoo huge farm denial tonight wire smart term riot dust increase august";
+var mnemonic = "purpose gym knock gun patch green cook distance alpha opera evolve frost";

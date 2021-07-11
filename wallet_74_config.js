@@ -1,1 +1,1 @@
-var mnemonic = "cage check chuckle piano mandate twenty wolf skirt bind slush barely capable";
+var mnemonic = "insect skull uniform predict glue powder renew country army monitor elevator region";

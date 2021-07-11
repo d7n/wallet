@@ -1,1 +1,1 @@
-var mnemonic = "royal stage air large gift found proof family carbon net oven smooth";
+var mnemonic = "tumble smooth smile program rubber palace rebel prison tank demand ordinary quick";

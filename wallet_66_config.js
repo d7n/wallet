@@ -1,1 +1,1 @@
-var mnemonic = "struggle hobby cricket print slender wrist border table enroll enlist flee powder";
+var mnemonic = "action original cinnamon portion art calm method soldier rate hungry upgrade multiply";

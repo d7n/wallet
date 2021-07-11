@@ -1,1 +1,1 @@
-var mnemonic = "vast error glory perfect task melt axis fury grow capable stomach balcony";
+var mnemonic = "damage tower subway renew trap light magic south obtain saddle liberty empty";

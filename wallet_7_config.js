@@ -1,1 +1,1 @@
-var mnemonic = "cake devote promote sense letter float lake rocket rate fossil record similar";
+var mnemonic = "salute choice crowd humble decline require negative door live will position elegant";

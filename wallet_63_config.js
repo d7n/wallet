@@ -1,1 +1,1 @@
-var mnemonic = "media pumpkin true eyebrow angle husband popular cradle mistake absorb mobile lion";
+var mnemonic = "disagree place chuckle tent size oppose quantum gaze settle embody speak spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "baby seat basket memory gadget drum perfect meadow section soda used dove";
+var mnemonic = "sweet group spot deposit become wrestle plate obvious tongue husband asthma six";

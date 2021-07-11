@@ -1,1 +1,1 @@
-var mnemonic = "space depart foam dynamic swim argue awesome coin merry sorry prefer attract";
+var mnemonic = "cliff music mimic pond merit valid thrive imitate square subway alter party";

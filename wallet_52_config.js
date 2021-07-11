@@ -1,1 +1,1 @@
-var mnemonic = "defy swing engine moment iron stick border photo exclude round adapt charge";
+var mnemonic = "rebel note doll number move orient silver odor bomb spawn wash play";

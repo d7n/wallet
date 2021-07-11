@@ -1,1 +1,1 @@
-var mnemonic = "fabric critic cross endless game execute polar orange always novel major practice";
+var mnemonic = "oak warfare butter stay year disease solid sheriff diamond attend burger horn";

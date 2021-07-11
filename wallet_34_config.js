@@ -1,1 +1,1 @@
-var mnemonic = "ride romance dinner barrel awake boy knife latin name day sort velvet";
+var mnemonic = "resist someone club cotton atom junk celery dentist jeans shock wild milk";

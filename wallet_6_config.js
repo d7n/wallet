@@ -1,1 +1,1 @@
-var mnemonic = "egg tool snack estate coast prefer omit tent intact note animal dwarf";
+var mnemonic = "three air hungry expire wise abstract kid child embody fame patch play";

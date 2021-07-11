@@ -1,1 +1,1 @@
-var mnemonic = "mimic neck genre festival ritual admit assume undo near wrap merit happy";
+var mnemonic = "wife year provide enact primary jaguar myself cake flip card alone toss";

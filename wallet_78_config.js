@@ -1,1 +1,1 @@
-var mnemonic = "enhance pistol material warm balcony deer bid minute grunt source mask wife";
+var mnemonic = "reward payment hawk about any employ process adapt glance salt north drop";

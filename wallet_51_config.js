@@ -1,1 +1,1 @@
-var mnemonic = "exotic cereal limb order soccer wrong present ridge best antique ordinary dream";
+var mnemonic = "quote burger chalk napkin goose first stage off canyon fan tonight always";

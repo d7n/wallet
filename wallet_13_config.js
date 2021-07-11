@@ -1,1 +1,1 @@
-var mnemonic = "equal cradle panther mechanic oyster blind urban will trip before lava marriage";
+var mnemonic = "arrow hollow cereal flock sugar cake dolphin swear bind position foam coyote";

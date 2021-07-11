@@ -1,1 +1,1 @@
-var mnemonic = "gravity machine dolphin venue usage problem kind addict occur blast disease type";
+var mnemonic = "river crumble tragic wonder thunder parade moral syrup then defense curtain public";

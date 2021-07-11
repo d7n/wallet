@@ -1,1 +1,1 @@
-var mnemonic = "myself donor wood credit black cause tell kind green tissue machine nasty";
+var mnemonic = "skull music laugh curtain naive quality battle orchard meat employ bitter tell";

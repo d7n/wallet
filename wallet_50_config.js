@@ -1,1 +1,1 @@
-var mnemonic = "smooth purse shoot october sport recycle aunt drastic frozen thought fitness author";
+var mnemonic = "tube casual champion romance wire south imitate sick track cradle release debris";

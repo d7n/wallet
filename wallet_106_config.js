@@ -1,1 +1,1 @@
-var mnemonic = "above thought hidden crack analyst attract naive lens concert motion victory enrich";
+var mnemonic = "south veteran peanut tank average soul story degree license sand wide news";

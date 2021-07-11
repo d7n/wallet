@@ -1,1 +1,1 @@
-var mnemonic = "primary piece unit glide hood enlist volume kick nut wreck bridge banner";
+var mnemonic = "emotion poem special cycle bomb open spike rocket prison fix abstract home";

@@ -1,1 +1,1 @@
-var mnemonic = "couple meadow bachelor present myself under void special plug boat flower era";
+var mnemonic = "clinic diary gadget world dismiss insect surround input purity tilt post glance";

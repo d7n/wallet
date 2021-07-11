@@ -1,1 +1,1 @@
-var mnemonic = "crunch humor float creek leader gossip long endless client country pudding menu";
+var mnemonic = "adjust item casual tone scare liar garage park window object jungle congress";

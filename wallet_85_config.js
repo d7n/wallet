@@ -1,1 +1,1 @@
-var mnemonic = "over hood grit fix talent autumn pyramid then token rose earn thank";
+var mnemonic = "shoulder island song fat march dragon produce basket night behind harbor duty";

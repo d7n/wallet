@@ -1,1 +1,1 @@
-var mnemonic = "short machine human guide idle bunker say cupboard wish dose slogan evoke";
+var mnemonic = "water cry reason again mixture laundry scorpion distance oblige few zoo health";

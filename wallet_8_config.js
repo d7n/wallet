@@ -1,1 +1,1 @@
-var mnemonic = "injury verify doctor pet fabric drift teach buyer punch focus chalk usage";
+var mnemonic = "half kitten tail satoshi task scatter gentle evolve tool month logic media";

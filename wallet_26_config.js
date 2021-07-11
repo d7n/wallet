@@ -1,1 +1,1 @@
-var mnemonic = "tunnel business illness obtain return over toward response woman snap disease auction";
+var mnemonic = "network bird man nominee travel february faith tennis sugar seven mystery subject";

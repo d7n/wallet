@@ -1,1 +1,1 @@
-var mnemonic = "mouse follow inject lift stereo youth devote tenant page unlock figure attract";
+var mnemonic = "clap endorse loop man purchase satoshi perfect trouble maze ripple gravity point";

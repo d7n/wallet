@@ -1,1 +1,1 @@
-var mnemonic = "theory involve quick limit oak across wire expire affair silk sell trouble";
+var mnemonic = "will welcome light step broom buyer story risk trophy useful donkey flower";

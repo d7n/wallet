@@ -1,1 +1,1 @@
-var mnemonic = "staff glance knife expect twist copper canoe session lecture evil must render";
+var mnemonic = "assault distance milk cliff range labor name thunder trend slab pig magnet";

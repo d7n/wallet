@@ -1,1 +1,1 @@
-var mnemonic = "little update popular clean frost extra promote amount tired because various february";
+var mnemonic = "round oppose wood add coral sort flash moment hover alert panda deal";

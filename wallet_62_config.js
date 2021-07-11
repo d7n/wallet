@@ -1,1 +1,1 @@
-var mnemonic = "arena present cattle sock plastic topple artefact bottom analyst omit road evidence";
+var mnemonic = "satisfy demand crazy proof old banana suffer village acid follow mixed used";

@@ -1,1 +1,1 @@
-var mnemonic = "awake suggest master fan blast elephant feed hybrid toss fire when march";
+var mnemonic = "print beyond debate paddle group museum normal beef stove garage ability fresh";

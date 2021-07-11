@@ -1,1 +1,1 @@
-var mnemonic = "enforce thought potato print judge slogan abuse census isolate evolve ketchup era";
+var mnemonic = "pupil rigid dad nose outer dash join property valid agree stove rate";

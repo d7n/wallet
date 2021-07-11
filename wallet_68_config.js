@@ -1,1 +1,1 @@
-var mnemonic = "peace seat spoon spend hire clog young kidney undo loud bike actual";
+var mnemonic = "barely alien panda husband october mixture eager ceiling lemon shaft relax city";

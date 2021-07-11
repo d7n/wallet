@@ -1,1 +1,1 @@
-var mnemonic = "awesome palace much walk antique recall lady note fun infant bulb stock";
+var mnemonic = "dilemma genre mean tonight skin genre purse develop ranch gather head evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "calm negative glow secret retreat audit agent tumble muscle dolphin judge subway";
+var mnemonic = "scan above differ special evolve resource hamster joke flame cactus dream gym";

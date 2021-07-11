@@ -1,1 +1,1 @@
-var mnemonic = "sample feel surface eager injury floor lens fine window bless spring junk";
+var mnemonic = "note eye typical invite imitate dial game render solar flame paddle sentence";

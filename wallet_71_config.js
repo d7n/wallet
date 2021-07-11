@@ -1,1 +1,1 @@
-var mnemonic = "head never special wisdom hybrid ask gap prefer feature client save tattoo";
+var mnemonic = "boss talk matter will wrestle below celery kangaroo slice error double setup";

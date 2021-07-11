@@ -1,1 +1,1 @@
-var mnemonic = "income moon ten brass enhance intact city jaguar main scout feature onion";
+var mnemonic = "grocery cupboard walnut twist multiply buffalo grass glad member tackle main heart";

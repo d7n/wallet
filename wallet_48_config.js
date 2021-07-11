@@ -1,1 +1,1 @@
-var mnemonic = "august join rocket shove jealous make stove remain isolate deliver level brain";
+var mnemonic = "salt rebuild junior tell village sniff brave also rigid toddler aware shift";

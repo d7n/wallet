@@ -1,1 +1,1 @@
-var mnemonic = "patient damage elite maximum barrel couch hunt fish joy accident creek priority";
+var mnemonic = "general result render suspect fitness label local again zone visit cycle base";

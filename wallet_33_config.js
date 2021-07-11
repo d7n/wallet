@@ -1,1 +1,1 @@
-var mnemonic = "chief index giant swear uncover minor cave color pull sense turtle bicycle";
+var mnemonic = "prize goose crew episode medal silly cactus buyer slab vapor student level";

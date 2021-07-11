@@ -1,1 +1,1 @@
-var mnemonic = "park bacon dumb loop disorder waste news draw exotic sure hint mirror";
+var mnemonic = "anger pizza arrest float connect asthma scorpion manage amazing strong rotate bean";

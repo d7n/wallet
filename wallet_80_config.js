@@ -1,1 +1,1 @@
-var mnemonic = "until craft buddy seat little situate fiction develop choose author tooth tomorrow";
+var mnemonic = "hello amateur doll rookie predict elder describe entry region kid normal punch";

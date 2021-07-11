@@ -1,1 +1,1 @@
-var mnemonic = "evolve goat lab cradle sphere month jelly catalog crush leisure pony tree";
+var mnemonic = "isolate whisper stadium unhappy law curious rug rabbit exist pen project regret";

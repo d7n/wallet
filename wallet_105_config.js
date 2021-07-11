@@ -1,1 +1,1 @@
-var mnemonic = "foil dog transfer begin gun dry such focus stay excite again world";
+var mnemonic = "dream general obvious wise arrest click venture tackle win guard provide slight";

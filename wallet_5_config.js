@@ -1,1 +1,1 @@
-var mnemonic = "occur across dilemma wage drift abandon reduce tag charge veteran dance drip";
+var mnemonic = "file keen giant battle inmate gadget acoustic crunch limit water inspire milk";

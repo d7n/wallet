@@ -1,1 +1,1 @@
-var mnemonic = "symbol federal choice doll video accident early priority foot essence soccer squeeze";
+var mnemonic = "struggle grit glory assume right cool panther section bachelor slice source invest";

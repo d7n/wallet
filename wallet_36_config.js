@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo wool nest echo decide time veteran pass lamp slim crack obvious";
+var mnemonic = "neither eagle fortune embark tomorrow merit scan into never step build neck";

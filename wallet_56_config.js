@@ -1,1 +1,1 @@
-var mnemonic = "merry shine have lock enlist song warm august repeat drama attitude run";
+var mnemonic = "bright tilt sun humble episode emotion deputy glad toward office spoon betray";

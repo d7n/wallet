@@ -1,1 +1,1 @@
-var mnemonic = "effort legal equip almost estate shell victory mask flock lecture wagon shadow";
+var mnemonic = "bubble two spring decline pupil magic medal naive tape churn agent wide";

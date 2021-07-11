@@ -1,1 +1,1 @@
-var mnemonic = "staff heavy embody pet project news client idle idle run fork illness";
+var mnemonic = "mistake attend wink lift holiday person ask trade cost creek video sponsor";

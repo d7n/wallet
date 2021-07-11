@@ -1,1 +1,1 @@
-var mnemonic = "help help twist surface glory satoshi identify luggage cancel warfare legal assist";
+var mnemonic = "seek milk play return desert evidence cannon cute easily merge shaft maid";

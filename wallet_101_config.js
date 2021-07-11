@@ -1,1 +1,1 @@
-var mnemonic = "furnace donor gym ancient fresh output survey venture fall vague cloth fire";
+var mnemonic = "nurse unfair stereo artist taxi receive broom guess clerk hat merge castle";

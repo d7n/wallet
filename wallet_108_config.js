@@ -1,1 +1,1 @@
-var mnemonic = "enhance brother sight goddess slam saddle remind lonely ice safe lawsuit crisp";
+var mnemonic = "detect alcohol finger drop ethics educate wedding candy absurd gaze siege hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "moon slim caution era effort neck double embody more crystal rival enough";
+var mnemonic = "satoshi welcome curious receive rent friend earth crowd modify pumpkin gloom rival";

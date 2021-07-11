@@ -1,1 +1,1 @@
-var mnemonic = "shoulder brand share view fire fat coin couch ladder east depth tail";
+var mnemonic = "prefer consider ahead deny radar honey law notable pull milk mistake cotton";
