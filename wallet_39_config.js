@@ -1,1 +1,1 @@
-var mnemonic = "stove control chest bring afford boy ripple milk possible include syrup plate";
+var mnemonic = "misery prison hand mom minor grass child clap message portion demise install";

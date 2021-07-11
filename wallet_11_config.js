@@ -1,1 +1,1 @@
-var mnemonic = "flight merry attitude art heart blur dawn verify cliff another enrich awesome";
+var mnemonic = "category mansion ethics large entire alert bless analyst aerobic exercise random tuna";

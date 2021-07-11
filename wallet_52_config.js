@@ -1,1 +1,1 @@
-var mnemonic = "defy turtle lucky later crowd avoid major volume jar casual culture distance";
+var mnemonic = "oppose burst give tornado pledge proud range blur vacuum frequent vacuum monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "despair surround gossip balance casino purse mobile bird struggle disease hotel material";
+var mnemonic = "gorilla glance buddy mixed remain popular vehicle media liar load spatial monster";

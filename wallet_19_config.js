@@ -1,1 +1,1 @@
-var mnemonic = "salon legal science ginger world crystal brain empty orbit cricket recipe there";
+var mnemonic = "soap wagon enhance room day raven traffic record mimic bus salmon like";

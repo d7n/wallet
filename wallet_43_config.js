@@ -1,1 +1,1 @@
-var mnemonic = "truck town ribbon inject nerve among side use humor walk seminar motor";
+var mnemonic = "program keep rookie anxiety icon palace try potato muffin issue egg glance";

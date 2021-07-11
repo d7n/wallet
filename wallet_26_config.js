@@ -1,1 +1,1 @@
-var mnemonic = "other maximum tennis ring utility trash scissors vital region trick jazz salt";
+var mnemonic = "ski rubber bachelor bonus forum smooth another grape dust race citizen page";

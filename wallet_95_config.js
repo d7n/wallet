@@ -1,1 +1,1 @@
-var mnemonic = "dance melt corn come clap great outdoor taxi balance also fork beach";
+var mnemonic = "horn retire bitter scissors silver risk equip trim try impact place dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster bottom exhaust patch wrap team include industry shallow smart paddle donkey";
+var mnemonic = "easy donate essence history wire blush spirit rural key cup common also";

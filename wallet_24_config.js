@@ -1,1 +1,1 @@
-var mnemonic = "battle amazing gasp card upper stumble battle employ diet hat copper video";
+var mnemonic = "brave orphan column chunk demand occur walk habit found quote network raven";

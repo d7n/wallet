@@ -1,1 +1,1 @@
-var mnemonic = "shift become spirit balance weird leisure jealous split acoustic gaze walk cricket";
+var mnemonic = "emerge essay parade into venture require inch useful solution gun must cabbage";

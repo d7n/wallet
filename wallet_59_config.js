@@ -1,1 +1,1 @@
-var mnemonic = "lady over notable mind catalog crowd despair street swear obey chest spin";
+var mnemonic = "claw print win craft vicious dragon tribe until discover invest prison assault";

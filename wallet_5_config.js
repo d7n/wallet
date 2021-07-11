@@ -1,1 +1,1 @@
-var mnemonic = "remain jazz energy man pause host example catalog goddess toy canyon humble";
+var mnemonic = "replace kitten monitor select yellow tool cigar insect coffee cousin forest main";

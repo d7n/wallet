@@ -1,1 +1,1 @@
-var mnemonic = "tail toward bread supply gasp same tribe away nut public whisper divert";
+var mnemonic = "blur quantum easily pumpkin good devote gold among more maximum yard bracket";

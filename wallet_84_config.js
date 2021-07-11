@@ -1,1 +1,1 @@
-var mnemonic = "shallow inject shell vintage afraid habit fork critic squirrel december learn similar";
+var mnemonic = "snake divert envelope skate lawn usual head stay spike always tumble honey";

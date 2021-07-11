@@ -1,1 +1,1 @@
-var mnemonic = "order hurdle screen april arctic feel thought list cushion nominee sick broken";
+var mnemonic = "club dice lunar blind scatter atom brisk aerobic fit radar smart split";

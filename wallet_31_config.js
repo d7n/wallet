@@ -1,1 +1,1 @@
-var mnemonic = "maze slush cluster clever level race maximum desert garage similar mother reason";
+var mnemonic = "produce question sick use artist match brand stairs split annual furnace virus";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster act broom behave stable beef distance expire soccer sunny doctor weather";
+var mnemonic = "switch auction tiger garage script element clay that when galaxy magnet limit";

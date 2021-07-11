@@ -1,1 +1,1 @@
-var mnemonic = "surprise fiber menu happy way client beauty party time fold toddler mouse";
+var mnemonic = "soon cycle inflict law genuine hero broken liar work way wall deputy";

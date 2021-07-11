@@ -1,1 +1,1 @@
-var mnemonic = "rapid into number renew east delay lunch address prison uphold cabbage alarm";
+var mnemonic = "tomato able slab jewel deposit interest slide ghost long shed liberty doll";

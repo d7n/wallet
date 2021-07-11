@@ -1,1 +1,1 @@
-var mnemonic = "coin zoo level news bicycle bullet answer pumpkin exile beauty table moon";
+var mnemonic = "first prefer food level course impose bulb shuffle swing lab armor father";

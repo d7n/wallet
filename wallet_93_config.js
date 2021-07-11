@@ -1,1 +1,1 @@
-var mnemonic = "use grace gaze replace fuel inmate subway mushroom purchase cute lemon assist";
+var mnemonic = "faculty year gas gadget minute tree diesel between satisfy purse spice clump";

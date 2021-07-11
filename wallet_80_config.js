@@ -1,1 +1,1 @@
-var mnemonic = "inherit stem carry mutual carbon fog taste snake news alter unveil bounce";
+var mnemonic = "okay pull enough unit bridge electric over caution labor man mask doll";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch print grape hollow diamond brick verify grief goddess alter field rescue";
+var mnemonic = "intact version phone check person media alone question attitude detect sure unveil";

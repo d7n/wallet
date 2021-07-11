@@ -1,1 +1,1 @@
-var mnemonic = "search pistol small crane surge sort lift sweet olive tenant vacuum hidden";
+var mnemonic = "weather safe city code bachelor night toss profit six lesson rent rigid";

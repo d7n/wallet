@@ -1,1 +1,1 @@
-var mnemonic = "aunt recall early range engage laundry imitate chuckle fatigue account appear fix";
+var mnemonic = "icon cancel defense bounce angry unaware provide grunt cool globe salad debris";

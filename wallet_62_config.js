@@ -1,1 +1,1 @@
-var mnemonic = "trick guard panda hello elder floor vivid beef dial next cruise element";
+var mnemonic = "flat urge dignity mouse desk local outer forget enemy fade april rose";

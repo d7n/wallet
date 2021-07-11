@@ -1,1 +1,1 @@
-var mnemonic = "wine casino census common hat picture vapor best ability sun south want";
+var mnemonic = "print day donor zoo special top abandon drop session autumn critic rely";

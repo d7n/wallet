@@ -1,1 +1,1 @@
-var mnemonic = "doctor that hedgehog slice cook object hospital crop depend pottery wet bicycle";
+var mnemonic = "cricket box stem cake title rich youth craft next gap liquid paper";

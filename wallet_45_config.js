@@ -1,1 +1,1 @@
-var mnemonic = "inject team draft fever teach visual sign bonus puzzle snack dust saddle";
+var mnemonic = "body symbol throw power final boring knife vague maple only there marble";

@@ -1,1 +1,1 @@
-var mnemonic = "edge neglect team online actor cargo neck rich creek loud glare disagree";
+var mnemonic = "cheese enemy ghost leader basic enlist bus desert infant wrap glare lazy";

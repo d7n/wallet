@@ -1,1 +1,1 @@
-var mnemonic = "scrap service attend purpose story similar hair rude sentence like party rose";
+var mnemonic = "else buffalo adjust pudding spatial oval clump mimic myth someone coconut swim";

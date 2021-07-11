@@ -1,1 +1,1 @@
-var mnemonic = "scheme bike armor hammer budget concert crazy crystal nest film song choice";
+var mnemonic = "spread tape drama deposit ticket glide confirm fiction gentle sister fringe eyebrow";

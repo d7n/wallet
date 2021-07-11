@@ -1,1 +1,1 @@
-var mnemonic = "behave bonus void mechanic near benefit story grocery stage sail soft wagon";
+var mnemonic = "noise wait custom subway caught bacon destroy wet dwarf letter switch north";

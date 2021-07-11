@@ -1,1 +1,1 @@
-var mnemonic = "review tone muffin century evoke rent twin inch matrix picture elephant area";
+var mnemonic = "survey talk ginger subject cancel unknown found fatal control detail satoshi unhappy";

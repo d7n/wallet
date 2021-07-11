@@ -1,1 +1,1 @@
-var mnemonic = "surface ten filter click puppy truth chimney copy ancient view surface spin";
+var mnemonic = "push slight surprise piece mixture satisfy neglect fine bird impact version kidney";

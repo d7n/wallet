@@ -1,1 +1,1 @@
-var mnemonic = "bachelor occur bag paddle math quote mercy pride local artefact tube soldier";
+var mnemonic = "pluck short guilt limb wedding lunar lizard sweet unfold actual dial laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "finger moral dolphin chicken dove estate issue furnace denial wheel fit orchard";
+var mnemonic = "miracle ordinary twice abstract enable machine hat shield fatal include stage resemble";

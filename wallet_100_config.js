@@ -1,1 +1,1 @@
-var mnemonic = "series era prepare junior stadium biology brain brave wool estate course like";
+var mnemonic = "hood wasp since fish hybrid goddess current sugar hurry evolve access energy";

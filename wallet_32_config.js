@@ -1,1 +1,1 @@
-var mnemonic = "link couple fiber maximum faith unit error twin wink able topic outside";
+var mnemonic = "bind figure more nut polar have mirror air world adapt jacket cup";

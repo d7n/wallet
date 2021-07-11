@@ -1,1 +1,1 @@
-var mnemonic = "mix vault frog host energy youth betray lava goddess wasp volume letter";
+var mnemonic = "plug shed immense web disagree mouse ability unaware junk shop fever fringe";

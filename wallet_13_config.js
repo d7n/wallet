@@ -1,1 +1,1 @@
-var mnemonic = "slide loop slam gain course crisp corn remind safe describe network debate";
+var mnemonic = "discover mother accuse ancient hen enemy attract system open weekend soul scale";

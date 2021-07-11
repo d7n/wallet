@@ -1,1 +1,1 @@
-var mnemonic = "canoe burger web nurse century romance during real soup rich hammer midnight";
+var mnemonic = "protect silver pill tragic transfer nephew turtle horror file mutual kangaroo soldier";

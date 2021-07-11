@@ -1,1 +1,1 @@
-var mnemonic = "witness labor pulp cargo era enact spirit hard become someone market carry";
+var mnemonic = "absent welcome armed symbol jeans brave update decorate defense romance energy stone";

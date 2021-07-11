@@ -1,1 +1,1 @@
-var mnemonic = "flame aspect all alert tackle sunset proof annual enhance release lawn success";
+var mnemonic = "swap health area frozen blouse install rent avocado unveil naive venue collect";

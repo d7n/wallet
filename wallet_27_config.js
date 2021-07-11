@@ -1,1 +1,1 @@
-var mnemonic = "fall table whip please night useless alone crazy critic culture wise merry";
+var mnemonic = "dance afraid north mushroom burst truck scrub trigger ordinary quarter gaze satoshi";

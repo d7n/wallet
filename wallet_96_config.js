@@ -1,1 +1,1 @@
-var mnemonic = "humor boss denial maze midnight gain spirit damp water silver protect robot";
+var mnemonic = "spider butter blind soap purpose enough trip venture breeze problem shy blush";

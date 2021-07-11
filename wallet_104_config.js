@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow hen range assist undo always profit kitchen relax abstract fiscal slam";
+var mnemonic = "strong casual position essence portion wide release radar danger school portion mesh";

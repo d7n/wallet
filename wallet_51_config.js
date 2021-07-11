@@ -1,1 +1,1 @@
-var mnemonic = "nut tribe hire travel actual company expose dish gift spread mass eyebrow";
+var mnemonic = "rifle culture recall churn hold choose cake object radio symptom okay juice";

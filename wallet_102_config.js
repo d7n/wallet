@@ -1,1 +1,1 @@
-var mnemonic = "fence token cattle spot man bread noodle broccoli observe olympic right radar";
+var mnemonic = "judge envelope busy daughter horror kiwi stomach surge dune orphan rhythm wink";

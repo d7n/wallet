@@ -1,1 +1,1 @@
-var mnemonic = "fitness blouse attitude tooth require frame twice crop head tone aunt trend";
+var mnemonic = "seminar scrub maid check trumpet cloud area coast february myself parrot disagree";

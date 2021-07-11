@@ -1,1 +1,1 @@
-var mnemonic = "load addict general cabin grief army damage quick divide south neither title";
+var mnemonic = "lottery pledge salute globe empower turkey expand access people quiz lawn arch";

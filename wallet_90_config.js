@@ -1,1 +1,1 @@
-var mnemonic = "social mushroom rabbit carbon empower myth turtle shift useful unhappy silk rose";
+var mnemonic = "couple flame kid patch lava erase rival harsh pulse deposit venue nice";

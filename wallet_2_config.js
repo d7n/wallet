@@ -1,1 +1,1 @@
-var mnemonic = "approve report holiday dynamic perfect income sauce hand unaware swarm student blossom";
+var mnemonic = "quarter athlete duck candy fault swing family diagram slender fine tag rescue";

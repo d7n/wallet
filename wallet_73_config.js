@@ -1,1 +1,1 @@
-var mnemonic = "element have cause end polar sock time chef dirt increase jaguar hip";
+var mnemonic = "mirror upgrade engage typical food frame shed rib love whisper dentist stage";

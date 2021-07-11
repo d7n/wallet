@@ -1,1 +1,1 @@
-var mnemonic = "wild owner crew virtual girl setup fringe present load open anchor spider";
+var mnemonic = "unusual junk crash auction turkey engage pattern book impose omit bamboo bachelor";

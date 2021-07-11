@@ -1,1 +1,1 @@
-var mnemonic = "fluid leg index minor fury basket village convince replace only extend maple";
+var mnemonic = "glory tobacco flame move curious proud earth chunk range grunt answer chapter";

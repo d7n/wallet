@@ -1,1 +1,1 @@
-var mnemonic = "twelve together universe mother brush inform noise fortune champion marble disease print";
+var mnemonic = "senior sight today basket tilt pistol nice top return muscle expose gap";

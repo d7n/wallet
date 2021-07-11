@@ -1,1 +1,1 @@
-var mnemonic = "response lonely define tourist genius avocado cart purse health arch olympic black";
+var mnemonic = "tiger there tourist swim require velvet wheat like taste airport buyer coffee";

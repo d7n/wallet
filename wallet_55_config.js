@@ -1,1 +1,1 @@
-var mnemonic = "fall ghost anxiety equip smile hen trash muscle rhythm retreat flee then";
+var mnemonic = "age canvas almost rare object awake trim friend payment pelican neutral mail";

@@ -1,1 +1,1 @@
-var mnemonic = "entire leopard enemy admit display alter globe corn weather position banana plug";
+var mnemonic = "flavor hair segment decline capital thought meadow hold service walnut custom proud";

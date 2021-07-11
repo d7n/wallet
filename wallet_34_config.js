@@ -1,1 +1,1 @@
-var mnemonic = "grape humor aerobic dress salon nation cluster width gorilla yard mule angle";
+var mnemonic = "alpha enhance whisper sunny rack symptom across dad local aerobic future uphold";

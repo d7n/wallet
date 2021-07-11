@@ -1,1 +1,1 @@
-var mnemonic = "whisper crew pony advice cereal wish envelope scissors upgrade crouch word across";
+var mnemonic = "endless improve execute can climb essence meadow voice amount opinion negative earn";

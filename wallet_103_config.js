@@ -1,1 +1,1 @@
-var mnemonic = "butter birth chicken obey top load equal asset grief solar hip today";
+var mnemonic = "hint knife man neither return visa fold quarter unique emerge north venture";

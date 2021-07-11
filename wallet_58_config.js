@@ -1,1 +1,1 @@
-var mnemonic = "tilt denial recall fire boy glue drink interest flip girl salon wreck";
+var mnemonic = "yellow reject absurd replace ecology hat leave logic sand lounge shop often";

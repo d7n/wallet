@@ -1,1 +1,1 @@
-var mnemonic = "oven inherit table earn wasp estate series buyer track elder target hood";
+var mnemonic = "drive actual excess nominee course skirt dog cement blur stay muscle pill";

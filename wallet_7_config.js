@@ -1,1 +1,1 @@
-var mnemonic = "donkey wrap hello wear deer bounce acquire post settle senior purchase furnace";
+var mnemonic = "pepper crumble meat excess dawn moon salt video canoe attend print habit";

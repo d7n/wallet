@@ -1,1 +1,1 @@
-var mnemonic = "royal safe pride clog knife stone napkin maid proud gospel foster fetch";
+var mnemonic = "alpha exhibit wolf flip civil job indoor yellow present lounge jeans brush";

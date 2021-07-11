@@ -1,1 +1,1 @@
-var mnemonic = "trap isolate mention best suit coin vague vibrant action risk message spoon";
+var mnemonic = "drip plunge garage thunder dumb chunk piece lizard trend exist exclude wing";

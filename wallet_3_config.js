@@ -1,1 +1,1 @@
-var mnemonic = "hunt audit enough denial gun flower elder october hill elder theme beef";
+var mnemonic = "they ugly coral power wonder punch achieve seven addict assist similar state";

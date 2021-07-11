@@ -1,1 +1,1 @@
-var mnemonic = "odor tuition voyage just fog width execute donor until patient mobile marble";
+var mnemonic = "damage like oblige camera dose switch stool step pet wreck either solid";

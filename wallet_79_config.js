@@ -1,1 +1,1 @@
-var mnemonic = "large door awake wreck chronic negative pelican afraid tube endorse okay prepare";
+var mnemonic = "cup hero enough popular grab deny strong cook digital rebuild cereal drum";

@@ -1,1 +1,1 @@
-var mnemonic = "interest earth razor shoe because mystery reopen accident magic regular scrap fog";
+var mnemonic = "clean sight maze level catch switch south have degree typical clarify fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude east rate snake cigar congress amazing toast prefer type lend second";
+var mnemonic = "strategy pluck area cool fruit icon hire youth pool ordinary mercy theory";

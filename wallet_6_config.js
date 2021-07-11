@@ -1,1 +1,1 @@
-var mnemonic = "comfort unfair kiwi quiz ugly more athlete wool woman party able entire";
+var mnemonic = "nephew easily amount uncle state embark body sport sick magnet drip label";

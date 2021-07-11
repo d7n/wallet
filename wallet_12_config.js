@@ -1,1 +1,1 @@
-var mnemonic = "rifle name valve tell solar live coral element armed speed choice swing";
+var mnemonic = "used breeze hammer awake head maze scorpion olive blade enjoy first below";

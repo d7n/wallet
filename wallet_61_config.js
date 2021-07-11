@@ -1,1 +1,1 @@
-var mnemonic = "address tennis time trick mistake video sunset purse sponsor correct cave ivory";
+var mnemonic = "twenty pelican strategy slide all moon quit myself invest novel pig tree";

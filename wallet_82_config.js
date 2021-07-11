@@ -1,1 +1,1 @@
-var mnemonic = "unveil hurdle diesel abandon virus liar where december avocado corn burst diamond";
+var mnemonic = "gravity matrix scrub bulk become upgrade luxury crush board resource oppose tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "flock book syrup ramp pass repair poverty tired coffee unit frame music";
+var mnemonic = "exist next mechanic half mountain symbol rug coconut castle useful intact predict";

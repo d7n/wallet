@@ -1,1 +1,1 @@
-var mnemonic = "plate river across equip false quiz mountain copy luxury real swap moon";
+var mnemonic = "exit imitate shell original legal document devote ankle chest firm group amused";

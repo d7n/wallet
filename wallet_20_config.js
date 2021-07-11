@@ -1,1 +1,1 @@
-var mnemonic = "hire brand august remember local odor slam scrap poet gauge kiss way";
+var mnemonic = "couch festival purchase weird door baby brick film maid van length identify";

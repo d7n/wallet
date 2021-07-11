@@ -1,1 +1,1 @@
-var mnemonic = "element fantasy claw shell into snap smile miss jar shoot vendor tattoo";
+var mnemonic = "wire utility trial humble slam session gym clerk crash romance basket chapter";

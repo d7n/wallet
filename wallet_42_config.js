@@ -1,1 +1,1 @@
-var mnemonic = "tenant bring diet nominee sock candy artist window tackle govern cargo tumble";
+var mnemonic = "spell blind basket mansion ring bring tobacco consider soon broken provide news";

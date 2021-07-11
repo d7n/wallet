@@ -1,1 +1,1 @@
-var mnemonic = "provide scheme fashion lecture link witness damage else change guide plate grunt";
+var mnemonic = "retire motor crumble devote icon loop actress traffic like bar ship law";

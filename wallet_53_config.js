@@ -1,1 +1,1 @@
-var mnemonic = "boil cinnamon taxi impact arm split hotel abuse visual notable prefer visa";
+var mnemonic = "thank pottery unaware fortune brisk chronic loyal atom now label execute wedding";

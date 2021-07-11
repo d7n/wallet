@@ -1,1 +1,1 @@
-var mnemonic = "farm whisper rabbit client post mask stuff onion abstract ski broom bachelor";
+var mnemonic = "make brief dress slush barrel deal hand salmon stairs vendor adjust twice";
