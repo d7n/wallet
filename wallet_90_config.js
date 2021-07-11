@@ -1,1 +1,1 @@
-var mnemonic = "chef inform proof review quality frost mandate rival usage awful case spend";
+var mnemonic = "wrestle width industry club ankle sand unfair clever alley alarm liquid fish";

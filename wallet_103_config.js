@@ -1,1 +1,1 @@
-var mnemonic = "hockey debate betray direct bless virus dutch garden velvet lizard detect this";
+var mnemonic = "hint photo mutual crowd model harsh gold potato shuffle unusual fragile august";

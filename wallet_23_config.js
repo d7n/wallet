@@ -1,1 +1,1 @@
-var mnemonic = "say essence empty final that direct flush vacant scrap taxi oxygen surprise";
+var mnemonic = "sugar swallow live giraffe false egg divorce busy more install easily resource";

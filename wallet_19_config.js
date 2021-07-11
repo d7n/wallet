@@ -1,1 +1,1 @@
-var mnemonic = "crawl essence dentist filter depth mention gadget save light rebel peanut hard";
+var mnemonic = "odor bomb gasp valve quit plunge scout insane close sign trend double";

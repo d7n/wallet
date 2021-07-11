@@ -1,1 +1,1 @@
-var mnemonic = "village van into quote game curtain chimney crumble lonely timber labor robot";
+var mnemonic = "parade paper neck convince panther mansion library wet deliver round soul fringe";

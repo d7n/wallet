@@ -1,1 +1,1 @@
-var mnemonic = "festival reform rapid mechanic surge fly symptom mushroom stumble wage result despair";
+var mnemonic = "broom youth can three recycle soon supreme donate stock salmon rabbit void";

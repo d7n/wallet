@@ -1,1 +1,1 @@
-var mnemonic = "truly lobster priority list coin same connect flight business poem idle stock";
+var mnemonic = "web orphan inquiry tree model crater skirt daughter amazing card stuff true";

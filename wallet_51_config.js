@@ -1,1 +1,1 @@
-var mnemonic = "hello bachelor copper involve bid artwork common suffer choice extend shadow scrap";
+var mnemonic = "box ankle trust wool nothing hammer leisure access indicate vibrant mammal night";

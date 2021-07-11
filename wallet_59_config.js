@@ -1,1 +1,1 @@
-var mnemonic = "purpose balcony monster stock antique script engage hint air fragile doll jazz";
+var mnemonic = "humor door swing dry trouble patch finger blast hazard order cabbage hammer";

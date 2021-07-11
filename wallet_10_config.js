@@ -1,1 +1,1 @@
-var mnemonic = "abuse animal burst miss lady skirt appear predict inmate resource arch among";
+var mnemonic = "spoil coffee settle often rain access gift wash fever logic case attract";

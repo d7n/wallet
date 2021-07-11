@@ -1,1 +1,1 @@
-var mnemonic = "ostrich orient vapor deposit provide much cheap monkey inquiry choice market swear";
+var mnemonic = "program unknown exercise nose hint response supply core retire away double merge";

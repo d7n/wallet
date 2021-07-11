@@ -1,1 +1,1 @@
-var mnemonic = "speed estate draw fade father comic enact come fold train spy finger";
+var mnemonic = "skate waste purpose river divert clock sure endorse enable unfair all attend";

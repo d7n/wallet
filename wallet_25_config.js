@@ -1,1 +1,1 @@
-var mnemonic = "bachelor foam curious exit obvious warfare message square slush fix clown actor";
+var mnemonic = "need few tomato swim cactus skirt expose inquiry casino sustain grief hill";

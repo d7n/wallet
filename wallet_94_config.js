@@ -1,1 +1,1 @@
-var mnemonic = "sniff model cigar advice inmate liar globe cup capable express inhale smooth";
+var mnemonic = "fragile company lottery snack scissors stock neck energy satoshi upon monitor want";

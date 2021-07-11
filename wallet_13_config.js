@@ -1,1 +1,1 @@
-var mnemonic = "primary west survey luxury congress earn huge barely follow bike ankle cabin";
+var mnemonic = "voyage column pole bamboo adapt lonely hazard seven plunge outside cactus topple";

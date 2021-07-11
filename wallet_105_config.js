@@ -1,1 +1,1 @@
-var mnemonic = "east absorb recipe today stereo suit usual ginger left involve soldier fashion";
+var mnemonic = "walnut now keen vague place jar stem below screen curious dawn kick";

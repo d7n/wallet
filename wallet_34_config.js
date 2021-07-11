@@ -1,1 +1,1 @@
-var mnemonic = "tail edit before trade stem call merry patient language mechanic sword mountain";
+var mnemonic = "silk kitchen pear catch silly vital runway piece divert humor science submit";

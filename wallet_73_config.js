@@ -1,1 +1,1 @@
-var mnemonic = "quick indoor crouch bid toe rather solve law smoke powder draft guard";
+var mnemonic = "alien furnace boss maximum reason vintage visit cool enlist run ghost around";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden pepper subway sweet blood bag announce miss dwarf promote nerve ride";
+var mnemonic = "matter attract tube assist kangaroo crouch reject flock rhythm ring double canoe";

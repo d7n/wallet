@@ -1,1 +1,1 @@
-var mnemonic = "toe carbon plastic cannon version asthma dizzy blast want ice nominee pulp";
+var mnemonic = "soft resemble area detect blossom child hole junk crack february helmet connect";

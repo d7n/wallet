@@ -1,1 +1,1 @@
-var mnemonic = "burst educate easily mule wrong stadium error fatal gadget abandon absurd retire";
+var mnemonic = "marble robust chaos retreat sail client monkey ugly equip water drill fiscal";

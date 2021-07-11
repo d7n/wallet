@@ -1,1 +1,1 @@
-var mnemonic = "mushroom trumpet final acid opera coral gain loyal struggle nut zero episode";
+var mnemonic = "relax surprise cluster suffer noble result obey snack flock regret leg because";

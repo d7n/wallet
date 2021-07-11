@@ -1,1 +1,1 @@
-var mnemonic = "there barely doctor together essence until erase initial unfair horror fork gold";
+var mnemonic = "uniform survey jewel lava benefit sword scare repair attitude knock artist long";

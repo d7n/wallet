@@ -1,1 +1,1 @@
-var mnemonic = "service material actress tonight salt myself tail major label ostrich beauty leg";
+var mnemonic = "spike banana what laptop normal news climb rival wasp gaze shine feature";

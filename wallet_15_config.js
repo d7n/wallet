@@ -1,1 +1,1 @@
-var mnemonic = "hazard dice corn walk detect castle stool circle cook dog steel mango";
+var mnemonic = "bulk drop equip office save wool enter profit cruel inform bleak banner";

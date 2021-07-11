@@ -1,1 +1,1 @@
-var mnemonic = "suit start acoustic end school potato shrug bus valve oppose leave dilemma";
+var mnemonic = "loud notice congress family bubble favorite romance beef ability sibling castle wagon";

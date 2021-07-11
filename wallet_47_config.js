@@ -1,1 +1,1 @@
-var mnemonic = "bundle seed step upon caught say equip library water typical swamp random";
+var mnemonic = "retire effort pistol ladder crop perfect rain song prefer horn resemble account";

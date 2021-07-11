@@ -1,1 +1,1 @@
-var mnemonic = "link quick photo abandon chuckle exact orient captain affair width limit shrimp";
+var mnemonic = "impulse frost solar awesome element swap fence mutual visit erode amused tiger";

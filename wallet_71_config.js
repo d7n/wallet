@@ -1,1 +1,1 @@
-var mnemonic = "mango cry inside alien roast page swamp meat lecture spin canyon mixture";
+var mnemonic = "trick net magnet flock famous sad speed eager right flower unknown chapter";

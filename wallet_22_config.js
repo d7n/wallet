@@ -1,1 +1,1 @@
-var mnemonic = "flush own near rack purpose kangaroo wheel long trade helmet burst true";
+var mnemonic = "submit memory senior nasty cereal stem cotton teach okay tape mix guitar";

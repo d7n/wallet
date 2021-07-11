@@ -1,1 +1,1 @@
-var mnemonic = "family knock history define cushion whale review inside teach someone voyage ripple";
+var mnemonic = "eternal hazard machine peanut ivory palm into few month cheese asset pelican";

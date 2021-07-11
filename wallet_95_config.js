@@ -1,1 +1,1 @@
-var mnemonic = "copy join dentist luggage smoke unfair segment wrist garage silk neck deal";
+var mnemonic = "embark beyond bright smart flat faith sense pull grocery narrow bright category";

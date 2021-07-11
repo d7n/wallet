@@ -1,1 +1,1 @@
-var mnemonic = "accuse again much mule series diamond play upper sea plate pause cable";
+var mnemonic = "sausage record tide fun spawn design track dignity sea census enter game";

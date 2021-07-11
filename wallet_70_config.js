@@ -1,1 +1,1 @@
-var mnemonic = "ask hover shed spot magnet giggle job fit alley eagle push fetch";
+var mnemonic = "boost shiver split vessel acoustic pigeon sibling wreck ordinary ill barrel person";

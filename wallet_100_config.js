@@ -1,1 +1,1 @@
-var mnemonic = "during dry volcano floor ethics ask clever credit soon oxygen hurdle ask";
+var mnemonic = "term retire person staff cotton citizen replace tissue surface fuel village fee";

@@ -1,1 +1,1 @@
-var mnemonic = "debris assault drama menu load discover local frog radio armed window simple";
+var mnemonic = "typical snack impose wrestle suggest sibling system crouch amazing shadow bubble essence";

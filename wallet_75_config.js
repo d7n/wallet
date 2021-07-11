@@ -1,1 +1,1 @@
-var mnemonic = "insect spin damp apart confirm receive vapor service buyer ordinary cousin someone";
+var mnemonic = "age crowd fall receive negative outdoor tuition damage report tiny toast decrease";

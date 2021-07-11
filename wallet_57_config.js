@@ -1,1 +1,1 @@
-var mnemonic = "armed solution guess attend rib age version frost long law real butter";
+var mnemonic = "spike urban august debate champion that federal tobacco repair panther raise increase";

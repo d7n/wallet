@@ -1,1 +1,1 @@
-var mnemonic = "dress bunker idle option glad brave grief walnut snake case apart earn";
+var mnemonic = "course genuine awful dust cliff unveil enhance scan calm hockey fork embark";

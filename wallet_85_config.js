@@ -1,1 +1,1 @@
-var mnemonic = "bench excite wait cruel promote federal scene kitchen super point foot love";
+var mnemonic = "hamster curve alone museum misery erupt crunch skull upper muscle win hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "dad amazing soul general erode sponsor describe jar inside brave buyer inmate";
+var mnemonic = "pill desert aspect cabbage toe decide modify push grocery tonight sell clock";

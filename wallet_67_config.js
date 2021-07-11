@@ -1,1 +1,1 @@
-var mnemonic = "bubble certain tomato broom liar general swear like claw that reduce toward";
+var mnemonic = "awake rally juice bachelor only group input banana awkward hold catalog middle";

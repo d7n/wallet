@@ -1,1 +1,1 @@
-var mnemonic = "tortoise verify solution crystal modify again allow latin omit feel primary home";
+var mnemonic = "damage puzzle vacuum depth extend custom shoot best height planet talk labor";

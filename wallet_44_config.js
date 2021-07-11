@@ -1,1 +1,1 @@
-var mnemonic = "drive correct excess glove wise way kangaroo genuine north damage wave chief";
+var mnemonic = "afraid exclude regret keep connect spike lesson grape manual bike mutual impulse";

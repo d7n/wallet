@@ -1,1 +1,1 @@
-var mnemonic = "brave bleak escape reason table combine true practice loop decade coin husband";
+var mnemonic = "suspect yellow orphan total tobacco claw time ten switch cycle toy barrel";

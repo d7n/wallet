@@ -1,1 +1,1 @@
-var mnemonic = "hurt pyramid nephew rose cancel kind wreck fade peasant exact behave cheap";
+var mnemonic = "book click gain hole model trade choose artefact wide convince oyster tag";

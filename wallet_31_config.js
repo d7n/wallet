@@ -1,1 +1,1 @@
-var mnemonic = "ghost peanut border forget emerge pioneer shaft soda hill annual trend oak";
+var mnemonic = "crumble hurry transfer prize tell slogan torch flash car daring glare catalog";

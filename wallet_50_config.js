@@ -1,1 +1,1 @@
-var mnemonic = "luggage enhance time where drink object mountain load question cherry never among";
+var mnemonic = "economy fiber now priority soup mistake pupil near obscure make science sister";

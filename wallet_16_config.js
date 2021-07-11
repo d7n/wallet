@@ -1,1 +1,1 @@
-var mnemonic = "song diagram monitor laugh magic march holiday like baby bird liberty post";
+var mnemonic = "rotate child little collect trade patrol shallow used pumpkin recycle congress unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "repair rug olympic symptom tail acid fury destroy mushroom pulse update puppy";
+var mnemonic = "scout police truck property jazz clump despair lazy purpose flag clarify rocket";

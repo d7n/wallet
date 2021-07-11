@@ -1,1 +1,1 @@
-var mnemonic = "boost forest horn rely alpha expose announce champion journey recycle climb daughter";
+var mnemonic = "unveil verb monster bind earth design forum prize airport genre position buyer";

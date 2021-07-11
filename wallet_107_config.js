@@ -1,1 +1,1 @@
-var mnemonic = "destroy hard smile oak foot unfold enemy ahead soul fox attract rocket";
+var mnemonic = "crack stuff run kangaroo family vanish adapt lava flame crack denial ugly";

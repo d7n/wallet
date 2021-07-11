@@ -1,1 +1,1 @@
-var mnemonic = "address toe once spread sea rude easily obvious main museum fatal now";
+var mnemonic = "tell worth wage chat roast unusual skirt glide make barrel critic awesome";

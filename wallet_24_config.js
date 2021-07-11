@@ -1,1 +1,1 @@
-var mnemonic = "find panda buddy pumpkin accident imitate bring under motion flat term vehicle";
+var mnemonic = "style type mesh idle myself century plate square piano pelican unfair labor";

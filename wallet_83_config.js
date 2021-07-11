@@ -1,1 +1,1 @@
-var mnemonic = "cage toilet pill laptop viable utility note diamond purse minute legal gun";
+var mnemonic = "eyebrow tunnel diesel jaguar steel spring price violin juice old found devote";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle rescue actress kick response mention glad love nature squeeze close cloth";
+var mnemonic = "glance scare radar deputy topple depend police place slender able regular season";

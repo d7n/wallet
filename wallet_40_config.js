@@ -1,1 +1,1 @@
-var mnemonic = "nerve oval avocado intact suit curtain income skin velvet horror vague bonus";
+var mnemonic = "pony lift private unusual farm record change bar farm neither vacant gain";

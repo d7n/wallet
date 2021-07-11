@@ -1,1 +1,1 @@
-var mnemonic = "alone note crazy snake power tail hub link decline brain apology beauty";
+var mnemonic = "green depth power brave conduct bargain analyst slab target upgrade sing volume";

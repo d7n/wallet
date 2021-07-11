@@ -1,1 +1,1 @@
-var mnemonic = "depend road planet man breeze tumble real body defense awesome brass party";
+var mnemonic = "arrive radio churn thought stereo blade exercise conduct vapor sell atom curve";

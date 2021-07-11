@@ -1,1 +1,1 @@
-var mnemonic = "private parrot trial castle service marriage question replace indicate diary jacket stove";
+var mnemonic = "stone must faith castle deliver female absent lemon flavor race kangaroo staff";

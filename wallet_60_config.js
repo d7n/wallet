@@ -1,1 +1,1 @@
-var mnemonic = "language piano small garden hood swarm sea betray girl cushion gallery aspect";
+var mnemonic = "leaf save almost plate prepare disorder beef horse song magnet hello can";

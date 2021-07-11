@@ -1,1 +1,1 @@
-var mnemonic = "near test shine task couch dismiss popular section deliver lecture arena ill";
+var mnemonic = "they omit stamp cradle believe crystal side old crush cheese half glare";

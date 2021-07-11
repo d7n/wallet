@@ -1,1 +1,1 @@
-var mnemonic = "tag inhale energy sing shock pilot escape pyramid stone traffic cause bamboo";
+var mnemonic = "people one balance you gauge dream parade call shallow glad amazing bamboo";

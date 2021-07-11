@@ -1,1 +1,1 @@
-var mnemonic = "local evolve wing section rocket moon vote shrug require season online element";
+var mnemonic = "ability era pyramid entry shock utility slab equal thought erupt pen essence";

@@ -1,1 +1,1 @@
-var mnemonic = "spell mixed thing acquire album loud switch early squeeze chef sibling thought";
+var mnemonic = "protect cage sure neutral rain accuse achieve virtual like orphan faculty ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "before outer shadow swarm decline slow lesson alpha brass swamp half column";
+var mnemonic = "human destroy over syrup copper used will sponsor judge harbor give depend";

@@ -1,1 +1,1 @@
-var mnemonic = "butter choice opinion draw typical wild fatal fringe spawn code river occur";
+var mnemonic = "bamboo border curious hole velvet excite rare city peasant clerk ill tilt";

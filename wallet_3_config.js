@@ -1,1 +1,1 @@
-var mnemonic = "prefer shallow hover mix mule across online anger shrimp where install rookie";
+var mnemonic = "prison plunge dust better achieve learn fat swing law one buffalo slam";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial expose vessel host hat trash aware horse core indoor sun dignity";
+var mnemonic = "image ahead bunker play poverty width tumble torch scare canal risk fancy";

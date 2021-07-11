@@ -1,1 +1,1 @@
-var mnemonic = "jeans kiwi awful actor okay radio vacant grab slab arch emerge primary";
+var mnemonic = "dilemma rare spring modify cross empty season enrich leaf round ozone season";

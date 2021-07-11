@@ -1,1 +1,1 @@
-var mnemonic = "slam patient replace air faint black find fatigue stadium bamboo give general";
+var mnemonic = "panda inner choice napkin dream domain shrimp puppy robot erupt control destroy";

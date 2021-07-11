@@ -1,1 +1,1 @@
-var mnemonic = "chef fever surface duty cause aerobic cattle want blame harvest oval logic";
+var mnemonic = "skin target holiday about possible pattern jewel annual paper acquire else junk";

@@ -1,1 +1,1 @@
-var mnemonic = "oval town fossil scale spare winner into patient rookie unusual easily poem";
+var mnemonic = "wise risk height silver thumb hotel shield mystery shiver degree brain cup";

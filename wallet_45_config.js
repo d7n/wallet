@@ -1,1 +1,1 @@
-var mnemonic = "flock bean cricket peanut market display toss mango miss shell fatigue initial";
+var mnemonic = "ivory duty order frequent slab spice guard goat horn inner inform apart";

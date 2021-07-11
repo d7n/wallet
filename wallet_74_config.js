@@ -1,1 +1,1 @@
-var mnemonic = "fashion mixed start bulk fade insect level engage document capital ridge print";
+var mnemonic = "warfare language aim during other coral cube angry pig arctic roast account";

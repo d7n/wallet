@@ -1,1 +1,1 @@
-var mnemonic = "great cry mammal chronic oppose dream satisfy economy diagram empower avoid bulb";
+var mnemonic = "cabbage skate jeans cancel absent empower calm carry tomato winner guitar betray";

@@ -1,1 +1,1 @@
-var mnemonic = "burden jazz ghost double decorate scrap inject ahead curtain imitate garage vehicle";
+var mnemonic = "fall joy cluster bundle battle blood isolate dune unit switch price corn";

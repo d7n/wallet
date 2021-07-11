@@ -1,1 +1,1 @@
-var mnemonic = "love friend crumble push isolate across impulse tiny obey slender nest upgrade";
+var mnemonic = "stick since divert solar flavor giant possible opera evolve venture shock champion";

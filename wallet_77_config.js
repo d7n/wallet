@@ -1,1 +1,1 @@
-var mnemonic = "pilot pepper cable dish radar mammal cactus moment lecture accuse choice focus";
+var mnemonic = "rescue catch health mammal filter romance bullet real raise animal festival hand";

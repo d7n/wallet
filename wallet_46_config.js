@@ -1,1 +1,1 @@
-var mnemonic = "access pull garlic museum tornado fetch term confirm gallery faith canvas used";
+var mnemonic = "review total park ride craft option icon neglect refuse inmate height tobacco";

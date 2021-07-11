@@ -1,1 +1,1 @@
-var mnemonic = "multiply beauty speed tornado nephew brown bamboo duty auto axis pride skull";
+var mnemonic = "rabbit forum earth start among squirrel hurdle garbage cage caution must amused";

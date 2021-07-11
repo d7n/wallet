@@ -1,1 +1,1 @@
-var mnemonic = "grunt average stem flame point resource sure hub poem trial hope punch";
+var mnemonic = "verify opinion negative attend connect govern month near lucky dirt loan artist";

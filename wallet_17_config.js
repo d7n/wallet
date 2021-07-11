@@ -1,1 +1,1 @@
-var mnemonic = "fragile throw sponsor bread salt foster indoor face guess staff gospel general";
+var mnemonic = "jungle dilemma sleep web produce sheriff blanket rely vessel dice catalog novel";

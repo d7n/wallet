@@ -1,1 +1,1 @@
-var mnemonic = "hat lizard click actor bind book sick coyote pistol box theme fade";
+var mnemonic = "hammer planet error zebra elbow eager annual reform forum situate doctor pear";

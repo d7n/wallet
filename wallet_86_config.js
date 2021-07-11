@@ -1,1 +1,1 @@
-var mnemonic = "regret race festival divorce slogan sport melt shuffle assume obey omit cause";
+var mnemonic = "capable swift remain edit sketch tomorrow medal cactus sentence umbrella cram mango";

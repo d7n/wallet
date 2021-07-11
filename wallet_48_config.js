@@ -1,1 +1,1 @@
-var mnemonic = "alpha volcano gasp inner twice shove bless roast crumble blood dose season";
+var mnemonic = "indoor wing cat twice learn truck cool omit icon butter shine team";

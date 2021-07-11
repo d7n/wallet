@@ -1,1 +1,1 @@
-var mnemonic = "sea actress ranch trouble average clown trouble peace century rich moon bitter";
+var mnemonic = "present nothing grace possible ready swing slice carpet feature fox smile execute";

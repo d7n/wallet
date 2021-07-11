@@ -1,1 +1,1 @@
-var mnemonic = "lend voyage shuffle end task spy art online early frost chair uniform";
+var mnemonic = "kiwi intact achieve burger convince confirm grape screen upon youth same diary";

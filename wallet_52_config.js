@@ -1,1 +1,1 @@
-var mnemonic = "climb drive alter endorse sniff enroll immune region float sight junior body";
+var mnemonic = "found gas venue animal panther transfer rare camp order tired labor refuse";

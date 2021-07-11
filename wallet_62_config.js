@@ -1,1 +1,1 @@
-var mnemonic = "repeat undo napkin cattle lady diagram other frost gorilla when okay forget";
+var mnemonic = "picture honey aunt hint leg wall jump bird upset liquid predict thought";

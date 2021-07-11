@@ -1,1 +1,1 @@
-var mnemonic = "insane catch captain scene laptop group upset wool mosquito gesture calm cost";
+var mnemonic = "wrap trip year ghost clap vague celery mystery current cry panda puppy";

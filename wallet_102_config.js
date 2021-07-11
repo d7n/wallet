@@ -1,1 +1,1 @@
-var mnemonic = "tank index neutral crystal joy blue slice trial message solid broom opera";
+var mnemonic = "comic laundry rent better busy guide follow poet filter pelican income stone";
