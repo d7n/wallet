@@ -1,1 +1,1 @@
-var mnemonic = "inmate measure panel forward case fossil world snack sunset stable lend trim";
+var mnemonic = "express nice start monster talent brave strong coin gun rice fish happy";

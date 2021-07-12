@@ -1,1 +1,1 @@
-var mnemonic = "ball butter alpha cat canvas gun rocket beach fiscal envelope skirt stock";
+var mnemonic = "turtle puppy tide vague come razor token asset pottery depart insect ladder";

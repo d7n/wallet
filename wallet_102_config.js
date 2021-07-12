@@ -1,1 +1,1 @@
-var mnemonic = "bag sort throw busy echo promote true south crunch sport nephew wreck";
+var mnemonic = "sentence target champion speed tunnel favorite legal such gauge jar talent cancel";

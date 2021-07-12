@@ -1,1 +1,1 @@
-var mnemonic = "uncover like entire trend segment develop into disease casual gorilla anger exact";
+var mnemonic = "unfair erupt hen solution scrap task solid better vivid equal sunset farm";

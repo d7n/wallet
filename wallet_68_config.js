@@ -1,1 +1,1 @@
-var mnemonic = "assault cream debate lucky trumpet drink video budget tribe claim century exit";
+var mnemonic = "picnic atom ignore essay comfort dismiss narrow board cash meadow cricket nuclear";

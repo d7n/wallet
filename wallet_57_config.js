@@ -1,1 +1,1 @@
-var mnemonic = "chalk antenna diesel dumb nasty source captain neglect situate wrap truly obvious";
+var mnemonic = "quality mad bring useless sphere gown choice address shop thing bounce reunion";

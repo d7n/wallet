@@ -1,1 +1,1 @@
-var mnemonic = "famous popular exit bitter item near envelope heavy describe conduct fury eager";
+var mnemonic = "regret spirit armed you fiction fold dune glove adult slice section panic";

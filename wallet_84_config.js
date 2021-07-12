@@ -1,1 +1,1 @@
-var mnemonic = "circle once check knife proof chuckle runway piece tornado good junior physical";
+var mnemonic = "innocent between ensure brisk gaze valley truck weapon remain impose liar evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "weird kangaroo flash text outdoor trigger jar betray churn nurse winter merry";
+var mnemonic = "symptom circle spend card hotel hover faith castle sea render symptom orbit";

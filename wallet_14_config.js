@@ -1,1 +1,1 @@
-var mnemonic = "sword argue sense cannon fork carpet orbit share scrub pioneer latin gorilla";
+var mnemonic = "word solid fee custom puzzle joy novel system animal brain firm tenant";

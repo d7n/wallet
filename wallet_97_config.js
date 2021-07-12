@@ -1,1 +1,1 @@
-var mnemonic = "start supreme base bring hole shell moment skirt camp cycle burden garment";
+var mnemonic = "forum there evolve brand parade brass shy deputy opinion valley angle unaware";

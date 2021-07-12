@@ -1,1 +1,1 @@
-var mnemonic = "cushion evil fog couple blanket west civil horse cave call broccoli pride";
+var mnemonic = "hurry vendor stumble type december harbor attract fiber priority glove add amount";

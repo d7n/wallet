@@ -1,1 +1,1 @@
-var mnemonic = "submit gate moon virtual draft volume wash prepare lab street good blanket";
+var mnemonic = "witness nurse pelican renew also humble strategy hair innocent crazy theory bring";

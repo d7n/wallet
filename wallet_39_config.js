@@ -1,1 +1,1 @@
-var mnemonic = "motor income upgrade imitate flower gorilla agree front year prevent divide glimpse";
+var mnemonic = "embrace leisure palm smile disorder trash grocery person emerge easily front harvest";

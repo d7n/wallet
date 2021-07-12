@@ -1,1 +1,1 @@
-var mnemonic = "stage defense demise couple crouch oak under wasp end useful opinion female";
+var mnemonic = "cancel print acquire wreck fruit moment inhale notable degree radar multiply party";

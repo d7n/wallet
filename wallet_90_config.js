@@ -1,1 +1,1 @@
-var mnemonic = "chase actress embrace guard ahead type idle grit fix wonder artwork capital";
+var mnemonic = "tissue vintage tomorrow hat choose raw suggest latin banana puppy train bread";

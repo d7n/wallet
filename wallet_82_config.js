@@ -1,1 +1,1 @@
-var mnemonic = "couple clay brick giraffe adult pool air bird stay cave breeze notable";
+var mnemonic = "month car wrist life type cinnamon clip miss hurry lock method combine";

@@ -1,1 +1,1 @@
-var mnemonic = "vault visit mixture bleak grain fury skirt grunt rain blossom fever flame";
+var mnemonic = "culture fun ugly head judge disagree weekend own park hurt slow census";

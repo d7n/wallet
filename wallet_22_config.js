@@ -1,1 +1,1 @@
-var mnemonic = "admit cigar lonely wife fog kite arch exclude fun squeeze gadget nephew";
+var mnemonic = "critic remind diesel quick discover moral kingdom tissue feel second churn track";

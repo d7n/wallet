@@ -1,1 +1,1 @@
-var mnemonic = "already hollow hint entire twin catch loud canal palm october post kangaroo";
+var mnemonic = "volcano shock bullet genius story alpha wool aspect harsh fresh notice depend";

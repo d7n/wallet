@@ -1,1 +1,1 @@
-var mnemonic = "repair inherit sniff method aisle guess frequent gospel weasel quality behave brush";
+var mnemonic = "measure banner tape produce foster gentle huge coach unveil bind unlock happy";

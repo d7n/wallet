@@ -1,1 +1,1 @@
-var mnemonic = "glue fine device tree group purpose shallow float diary intact exchange tag";
+var mnemonic = "spell minimum attitude syrup actress garment never sauce powder push fragile offer";

@@ -1,1 +1,1 @@
-var mnemonic = "zone elevator skill cargo antique opera analyst jewel deny hand club dinner";
+var mnemonic = "fade vehicle prepare speak renew cheap army cave giant dad enact meat";

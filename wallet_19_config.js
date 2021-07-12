@@ -1,1 +1,1 @@
-var mnemonic = "fuel math raw frequent ignore depend fold nephew school extra awkward kingdom";
+var mnemonic = "fold crack shell pen debris frog wood claim hammer novel pilot medal";

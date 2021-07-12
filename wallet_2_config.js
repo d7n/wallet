@@ -1,1 +1,1 @@
-var mnemonic = "devote ignore artefact drama fence project famous fancy image orient captain result";
+var mnemonic = "junk garbage chunk cousin step select inmate pond term change poet news";

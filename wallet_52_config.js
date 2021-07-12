@@ -1,1 +1,1 @@
-var mnemonic = "copper mouse exhaust initial calm believe ill boat click shield brave void";
+var mnemonic = "term check tower tuna wisdom modify exercise foam kiss live lottery stick";

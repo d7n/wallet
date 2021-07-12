@@ -1,1 +1,1 @@
-var mnemonic = "romance giraffe practice devote jewel moment unaware outer suggest beauty cupboard oyster";
+var mnemonic = "box thing menu tape laptop weather soccer chicken model charge dignity divert";

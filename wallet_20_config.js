@@ -1,1 +1,1 @@
-var mnemonic = "nominee place luggage device speak age candy glue online narrow piano connect";
+var mnemonic = "whisper fantasy live jar match cross write expand muscle tribe upset pause";

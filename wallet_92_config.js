@@ -1,1 +1,1 @@
-var mnemonic = "dolphin merry twelve decorate term course tuna lock music sorry shuffle perfect";
+var mnemonic = "fruit possible piece praise century decade broom panther pizza skull settle toe";

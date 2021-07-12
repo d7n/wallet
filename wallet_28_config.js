@@ -1,1 +1,1 @@
-var mnemonic = "traffic twist patch over merry ocean soap rather fox fiction employ skate";
+var mnemonic = "remain teach peace fame marriage barely name chapter allow run job people";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy eye diamond earn wave earn flip mango notice gate pupil average";
+var mnemonic = "course blind town length miss ripple famous gasp exhaust pear nurse kiss";

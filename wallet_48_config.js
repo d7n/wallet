@@ -1,1 +1,1 @@
-var mnemonic = "raise onion doctor thrive chef that cool social crime roof normal lunar";
+var mnemonic = "whip shove where destroy remove health assault whip abuse plunge remember deputy";

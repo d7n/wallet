@@ -1,1 +1,1 @@
-var mnemonic = "quality order position can nasty stairs mule accident funny dry destroy guide";
+var mnemonic = "alpha wrist work require betray during marriage planet scheme degree make cotton";

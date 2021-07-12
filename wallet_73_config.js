@@ -1,1 +1,1 @@
-var mnemonic = "require welcome indicate amazing orphan boy gesture tilt right evoke flock exercise";
+var mnemonic = "bargain diagram good media ceiling gesture three occur wing love vote able";

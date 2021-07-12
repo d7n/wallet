@@ -1,1 +1,1 @@
-var mnemonic = "tiger mean market toe degree resemble nuclear battle push bridge puppy regret";
+var mnemonic = "they forest sea van wall shrimp subway remove reopen ghost twice price";

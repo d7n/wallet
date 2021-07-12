@@ -1,1 +1,1 @@
-var mnemonic = "dawn false dilemma bonus student sentence sweet frequent exotic disorder glance vessel";
+var mnemonic = "spy sketch parrot either drastic twist leaf ivory insane law brush drill";

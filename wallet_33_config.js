@@ -1,1 +1,1 @@
-var mnemonic = "safe mosquito obvious exist group jewel craft able salad frown narrow hamster";
+var mnemonic = "news discover fold organ square receive climb sunny clever memory proud false";

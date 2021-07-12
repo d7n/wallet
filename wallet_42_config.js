@@ -1,1 +1,1 @@
-var mnemonic = "wolf track medal artwork brave consider sister coral razor radio arrive brand";
+var mnemonic = "find punch idea social rigid sniff travel female train stool cause belt";

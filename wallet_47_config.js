@@ -1,1 +1,1 @@
-var mnemonic = "normal degree solve remind dignity wild point select among fresh mouse rice";
+var mnemonic = "trash hobby seminar desert problem essay deliver cram bacon math pond perfect";

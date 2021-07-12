@@ -1,1 +1,1 @@
-var mnemonic = "retire mention asthma weapon energy moral lens sauce bus another library acoustic";
+var mnemonic = "trim junk flight wagon home garage suffer range noodle novel planet initial";

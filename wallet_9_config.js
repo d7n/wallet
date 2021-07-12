@@ -1,1 +1,1 @@
-var mnemonic = "immense track vintage ball author because era force pave when dirt organ";
+var mnemonic = "shop cousin best siren park profit protect record predict conduct diagram wolf";

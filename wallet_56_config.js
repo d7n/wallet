@@ -1,1 +1,1 @@
-var mnemonic = "curve square siren close welcome broken month awesome metal alcohol cover pact";
+var mnemonic = "easy food laundry simple come layer behind cat wet actual gadget maximum";

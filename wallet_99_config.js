@@ -1,1 +1,1 @@
-var mnemonic = "note mandate express egg glue swear final lab ill conduct crunch siren";
+var mnemonic = "coffee dust outer win pet arena earn random gun setup busy spoil";

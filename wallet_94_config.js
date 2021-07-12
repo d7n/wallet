@@ -1,1 +1,1 @@
-var mnemonic = "slogan small act keep noodle biology access tail minimum frog decide parrot";
+var mnemonic = "wisdom purchase wheel kiss start amused shed congress grow distance surround tenant";

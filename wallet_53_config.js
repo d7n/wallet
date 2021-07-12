@@ -1,1 +1,1 @@
-var mnemonic = "worry bunker large suffer soft forum caution poverty awkward churn try proof";
+var mnemonic = "milk exile disease regret deposit until joke shallow miss explain congress logic";

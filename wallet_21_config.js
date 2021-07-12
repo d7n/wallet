@@ -1,1 +1,1 @@
-var mnemonic = "volume nothing ripple one bamboo shop trouble science impact fish dutch race";
+var mnemonic = "fancy creek sponsor armed bounce curious around relax joke interest milk frown";

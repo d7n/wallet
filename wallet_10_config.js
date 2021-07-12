@@ -1,1 +1,1 @@
-var mnemonic = "taxi capital casino ladder primary exclude buyer pupil caution egg never matrix";
+var mnemonic = "tiny forest over hybrid climb syrup kangaroo elite cloth any museum candy";

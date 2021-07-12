@@ -1,1 +1,1 @@
-var mnemonic = "potato bag judge illegal rescue swear mimic advice wait final winter travel";
+var mnemonic = "curtain laptop lumber surprise evil cannon skin deal oyster that wise judge";

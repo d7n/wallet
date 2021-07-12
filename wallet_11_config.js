@@ -1,1 +1,1 @@
-var mnemonic = "sausage depart beef witness base uniform vast mansion city machine brief offer";
+var mnemonic = "predict earn six panda upset device pull weasel cherry hospital toss misery";

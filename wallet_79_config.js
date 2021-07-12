@@ -1,1 +1,1 @@
-var mnemonic = "frown sleep unknown drink spoil loop like flavor donor laugh book wrist";
+var mnemonic = "ability tell oppose fossil warm must escape carpet people victory dose absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "grape hour girl more trap nut ring foil long organ noodle key";
+var mnemonic = "hospital concert pizza endless upset basket rural winter retire obey ahead spider";

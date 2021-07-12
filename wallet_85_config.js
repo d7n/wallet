@@ -1,1 +1,1 @@
-var mnemonic = "device leopard viable diagram gun stick vintage ridge frog ethics want join";
+var mnemonic = "machine surge illegal badge kitchen update rubber ball love text bone tongue";

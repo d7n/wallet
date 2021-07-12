@@ -1,1 +1,1 @@
-var mnemonic = "lesson side juice shadow load term oppose merry make depth clump awesome";
+var mnemonic = "submit frame patrol corn humor increase volume shoulder lonely novel stereo kind";

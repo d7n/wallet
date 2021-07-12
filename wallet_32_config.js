@@ -1,1 +1,1 @@
-var mnemonic = "purpose foam cousin auto bind custom spare execute blood anxiety blast fringe";
+var mnemonic = "next ill seven churn exist bargain carpet brick plunge space vocal pair";

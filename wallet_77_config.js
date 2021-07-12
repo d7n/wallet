@@ -1,1 +1,1 @@
-var mnemonic = "claw skate runway runway barrel umbrella guitar patch plate daring scale ugly";
+var mnemonic = "fat merry weird physical eye bus trap organ typical obey immune hurt";

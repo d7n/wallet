@@ -1,1 +1,1 @@
-var mnemonic = "cigar dirt boil flock raccoon three undo blame cook bleak enact initial";
+var mnemonic = "denial cruise cover jeans coil aisle reflect body muffin toward goat prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "stay junk saddle aspect human match apart join gas crouch park mad";
+var mnemonic = "entry faith casual budget fame brave enroll wink library violin start reopen";

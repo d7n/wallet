@@ -1,1 +1,1 @@
-var mnemonic = "brown mercy soccer carbon kiss robust gravity arrange weapon void wear rotate";
+var mnemonic = "spoil lunch below lunch domain decide castle become defy unusual body prefer";

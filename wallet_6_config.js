@@ -1,1 +1,1 @@
-var mnemonic = "blouse page deliver indoor evolve uniform medal regular envelope vast file dog";
+var mnemonic = "tooth notable say spoon rural marble sword assume legend present syrup auction";

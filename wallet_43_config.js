@@ -1,1 +1,1 @@
-var mnemonic = "spring solar oxygen head acoustic fever reform rely bird mistake squeeze choice";
+var mnemonic = "peasant army pair practice quarter account grow crucial label purchase equal arrest";

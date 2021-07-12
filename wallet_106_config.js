@@ -1,1 +1,1 @@
-var mnemonic = "abuse inform trip sing loyal evolve ice power senior farm toast general";
+var mnemonic = "gadget gold occur south rug lift slab habit decade spider craft divert";

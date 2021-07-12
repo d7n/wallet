@@ -1,1 +1,1 @@
-var mnemonic = "pioneer bench together chat receive void school orient velvet response alter pulse";
+var mnemonic = "sword burst debate circle wire regular stand palace unaware erupt can artwork";

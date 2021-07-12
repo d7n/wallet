@@ -1,1 +1,1 @@
-var mnemonic = "spring dignity switch reopen indicate deputy myth order forward pitch appear pulp";
+var mnemonic = "deliver hand idea ripple job pill someone element glove horn true into";

@@ -1,1 +1,1 @@
-var mnemonic = "describe capital inner inform reward truck flash viable disease skill life first";
+var mnemonic = "tiger inside clown rare glad auto hawk rule under latin gossip install";

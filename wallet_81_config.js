@@ -1,1 +1,1 @@
-var mnemonic = "soft pause battle brick body mule wagon put heavy reduce apart little";
+var mnemonic = "expire knife wire before shove defy borrow inflict embark agent evolve first";

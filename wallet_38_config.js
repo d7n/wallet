@@ -1,1 +1,1 @@
-var mnemonic = "drift crop siege manual possible easily invest blade knee waste box enable";
+var mnemonic = "alien load stadium produce connect travel toy whale choose hurdle abandon goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "rib sentence cloud prevent sunset flame save apart again notice brave select";
+var mnemonic = "ability toy stomach industry home safe cable borrow skate enforce today steel";

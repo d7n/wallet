@@ -1,1 +1,1 @@
-var mnemonic = "license scatter amazing business chef mail monkey leave disorder place lucky benefit";
+var mnemonic = "gym broken crisp fragile large spice beef wasp device two exchange traffic";

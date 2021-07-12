@@ -1,1 +1,1 @@
-var mnemonic = "cause unveil dream oval embody rotate claw only moral cushion often supply";
+var mnemonic = "artwork tell action remove cloth ripple harvest abandon same panel check cycle";

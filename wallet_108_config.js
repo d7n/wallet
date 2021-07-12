@@ -1,1 +1,1 @@
-var mnemonic = "tornado husband remind used pony virtual undo kiwi aerobic range nut truly";
+var mnemonic = "torch spoon buffalo usual loyal melt fee dawn involve short coast actor";

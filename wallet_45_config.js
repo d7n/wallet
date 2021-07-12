@@ -1,1 +1,1 @@
-var mnemonic = "defense between loud poem fortune chronic novel globe maze enact amount scrap";
+var mnemonic = "escape verb manual opinion pipe hill phone slide venture flock gossip organ";

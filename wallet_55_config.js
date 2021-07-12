@@ -1,1 +1,1 @@
-var mnemonic = "come erode tired sister angry journey choice retreat moral only gather vendor";
+var mnemonic = "lift earn capable wagon negative olive reveal innocent course share crucial violin";

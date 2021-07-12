@@ -1,1 +1,1 @@
-var mnemonic = "wink kid shy web blanket try supreme shrimp rule situate boat champion";
+var mnemonic = "stamp sleep family pupil hurdle modify hard oval razor reduce weapon spray";

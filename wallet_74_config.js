@@ -1,1 +1,1 @@
-var mnemonic = "reduce crouch imitate gift cliff mesh royal much else still chaos reason";
+var mnemonic = "path course suit that close debate meadow visit trick olympic token grant";

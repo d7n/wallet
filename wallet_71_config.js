@@ -1,1 +1,1 @@
-var mnemonic = "donate glove edge online wife ice silk catch chest accuse pistol angry";
+var mnemonic = "choose jump sight allow crucial captain exclude manual rely magnet resource actor";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge labor nest puzzle devote loop grocery soda swear pact clerk trial";
+var mnemonic = "exile solar shove supreme museum item move void husband rapid become silk";

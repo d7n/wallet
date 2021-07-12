@@ -1,1 +1,1 @@
-var mnemonic = "artefact trend stick original jewel action tennis divert chaos since clay belt";
+var mnemonic = "they unable usage error bacon science kite trade home gate swarm universe";

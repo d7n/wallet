@@ -1,1 +1,1 @@
-var mnemonic = "black silly economy confirm differ hair girl arrow market theory weekend silly";
+var mnemonic = "jaguar quality tray leaf knife bulb picnic enjoy ripple mango domain empower";

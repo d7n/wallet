@@ -1,1 +1,1 @@
-var mnemonic = "have mind quality cream slim deliver faith snap hidden cliff harsh either";
+var mnemonic = "finger zero brick zone tunnel believe bacon orphan drum provide pigeon bag";

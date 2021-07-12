@@ -1,1 +1,1 @@
-var mnemonic = "ancient river scissors olympic casual little else marriage goddess round estate blossom";
+var mnemonic = "capital punch hazard heart meadow unfold vibrant area august ball cream rotate";

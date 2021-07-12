@@ -1,1 +1,1 @@
-var mnemonic = "key price stage giant wine chief ancient priority raise fix ticket peasant";
+var mnemonic = "pride skin squirrel pride alley crater blur title save ugly pluck fox";

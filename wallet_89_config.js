@@ -1,1 +1,1 @@
-var mnemonic = "elegant identify enter actor whip kidney mushroom faint blossom swift market oven";
+var mnemonic = "demand enter supreme pact machine gravity pool warrior outside rose attend sphere";

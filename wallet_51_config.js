@@ -1,1 +1,1 @@
-var mnemonic = "guilt catalog master fortune teach apart furnace rail rebel loyal elder seminar";
+var mnemonic = "journey soda twelve cabbage appear tent unfair female cup radar obvious obtain";

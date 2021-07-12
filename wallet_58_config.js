@@ -1,1 +1,1 @@
-var mnemonic = "manual morning sudden exotic today skin square peanut object volcano glide lamp";
+var mnemonic = "helmet symptom core doctor seat swim frog combine brush buffalo south abstract";

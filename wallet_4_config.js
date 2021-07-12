@@ -1,1 +1,1 @@
-var mnemonic = "soup sheriff chuckle shed photo machine element copy travel fog estate sound";
+var mnemonic = "obvious medal bunker wave baby garlic gaze siren permit harbor rich menu";

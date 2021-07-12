@@ -1,1 +1,1 @@
-var mnemonic = "sword replace sun cradle length bleak top rally paper mean quote ecology";
+var mnemonic = "little indoor puzzle valve tuition initial answer alpha silly proud diary reduce";

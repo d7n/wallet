@@ -1,1 +1,1 @@
-var mnemonic = "phone there worth tragic cheap patrol smooth twin basket system share steak";
+var mnemonic = "witness sustain tip dawn dust property prosper already season slim category diary";

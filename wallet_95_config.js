@@ -1,1 +1,1 @@
-var mnemonic = "future aisle coconut card slide crumble soon melt pool stay noise ticket";
+var mnemonic = "liar device chest electric spin permit invest engage debate barrel harsh gas";

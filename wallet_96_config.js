@@ -1,1 +1,1 @@
-var mnemonic = "impulse flag fee stereo client equip badge success toss expand detect humor";
+var mnemonic = "busy omit raven left consider segment collect oven cool tilt weekend census";

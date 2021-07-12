@@ -1,1 +1,1 @@
-var mnemonic = "radio flock provide menu skin catch artwork defy gun omit bless plastic";
+var mnemonic = "loud tackle index slab drop nuclear consider cigar palm album turn buffalo";

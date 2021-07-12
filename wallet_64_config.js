@@ -1,1 +1,1 @@
-var mnemonic = "sponsor math attack critic major cinnamon strong gate fetch side anxiety typical";
+var mnemonic = "flock wheat noble seat hunt pond frost valve head leader unknown exit";

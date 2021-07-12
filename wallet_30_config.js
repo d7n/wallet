@@ -1,1 +1,1 @@
-var mnemonic = "audit surprise atom afford fork again swift trophy parade stool just reform";
+var mnemonic = "submit season olympic achieve use age cross embark sell drum match boy";

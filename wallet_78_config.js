@@ -1,1 +1,1 @@
-var mnemonic = "word prosper start refuse kick ignore fly uncle salad fault notice impulse";
+var mnemonic = "ladder tonight girl peanut loop hero permit mercy glad tattoo sign develop";

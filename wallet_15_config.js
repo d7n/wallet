@@ -1,1 +1,1 @@
-var mnemonic = "refuse bone hole split stone gadget wrist replace team spike immune egg";
+var mnemonic = "harvest genuine helmet blouse lounge life bargain cry unfair loyal grid alter";

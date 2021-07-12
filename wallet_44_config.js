@@ -1,1 +1,1 @@
-var mnemonic = "alter napkin ramp photo front tuition fault scissors mistake warfare jewel search";
+var mnemonic = "junk defy oil left dragon husband property body similar detect barely night";

@@ -1,1 +1,1 @@
-var mnemonic = "culture length cactus convince song oil elevator inflict excess once explain glue";
+var mnemonic = "forest luggage base senior wrestle oven coral quick despair leaf isolate stairs";

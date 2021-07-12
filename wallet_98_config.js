@@ -1,1 +1,1 @@
-var mnemonic = "receive hair inject senior gorilla truth custom bundle surround hybrid canyon error";
+var mnemonic = "twenty lobster trade arctic speed tool unlock upset balcony guard cost skate";

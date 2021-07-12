@@ -1,1 +1,1 @@
-var mnemonic = "glove way media parrot glad link blanket gain found run space usual";
+var mnemonic = "team buyer inquiry silk month loud intact wish virus fix bunker found";

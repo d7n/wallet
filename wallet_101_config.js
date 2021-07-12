@@ -1,1 +1,1 @@
-var mnemonic = "final prize excuse tilt hold odor innocent kiwi mule reduce good room";
+var mnemonic = "pet copy flag include lock load grunt taste garlic copy alone erupt";

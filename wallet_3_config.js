@@ -1,1 +1,1 @@
-var mnemonic = "desk build civil gospel credit empty repair train panel talk repeat chair";
+var mnemonic = "jeans grape box dawn market olympic lava head witness airport fan glass";
