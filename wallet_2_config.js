@@ -1,1 +1,1 @@
-var mnemonic = "embrace update rough fan unlock trade time coil dice tiny behind segment";
+var mnemonic = "voice output cool desert roast extra resist receive matrix dune peasant timber";

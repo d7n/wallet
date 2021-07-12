@@ -1,1 +1,1 @@
-var mnemonic = "type elegant forget february club album park student voyage bracket express hat";
+var mnemonic = "film donor mule process cup elder alert monitor neglect recycle manual zero";

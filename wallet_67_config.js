@@ -1,1 +1,1 @@
-var mnemonic = "trip episode camp science palm dinosaur power movie ugly congress coconut alone";
+var mnemonic = "random base puppy exhaust improve monkey trend cash thing guess mail taste";

@@ -1,1 +1,1 @@
-var mnemonic = "resource next dumb wet blanket use adjust review long intact twelve wear";
+var mnemonic = "select peasant enjoy prosper clutch caught walk glimpse lottery hope flavor point";

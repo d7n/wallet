@@ -1,1 +1,1 @@
-var mnemonic = "damp staff lonely home measure rule clap beef trip brother dinosaur ordinary";
+var mnemonic = "hint slight angle prepare enact elegant maid cart life arm wrestle dog";

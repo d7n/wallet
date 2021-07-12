@@ -1,1 +1,1 @@
-var mnemonic = "marriage mansion purse virtual myth ribbon fluid about nose sorry dignity unable";
+var mnemonic = "raccoon blast prefer noise battle cart client whale erase victory main soldier";

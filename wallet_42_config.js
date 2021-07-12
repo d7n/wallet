@@ -1,1 +1,1 @@
-var mnemonic = "light board put weapon dream plunge finish tooth into emotion coil cruel";
+var mnemonic = "discover derive flock love chef jazz make company plug guitar baby noodle";

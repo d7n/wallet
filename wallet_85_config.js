@@ -1,1 +1,1 @@
-var mnemonic = "clock citizen unlock fall labor approve oyster glass clip owner toast gesture";
+var mnemonic = "collect brand offer market early little jungle inside naive place cube ketchup";

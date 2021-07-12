@@ -1,1 +1,1 @@
-var mnemonic = "blossom spray hello youth bounce frozen deer mind hope bar language ignore";
+var mnemonic = "corn social cable become length food slender rent power fringe advice attract";

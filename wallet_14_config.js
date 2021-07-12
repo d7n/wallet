@@ -1,1 +1,1 @@
-var mnemonic = "view involve fly barrel sea cheap dog pelican priority rubber salt parade";
+var mnemonic = "motion smart love custom smoke enrich lens cake later mirror final notice";

@@ -1,1 +1,1 @@
-var mnemonic = "globe stereo alien draw fruit palace museum piano lift museum truly library";
+var mnemonic = "yellow game drop palace coconut heavy tiny trap quick next flush material";

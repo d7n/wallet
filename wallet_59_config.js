@@ -1,1 +1,1 @@
-var mnemonic = "carry solve blind asthma rescue hurdle tape valid afford garden current visual";
+var mnemonic = "rural hole fortune sausage rigid explain turtle canvas foot achieve hotel ecology";

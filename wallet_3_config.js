@@ -1,1 +1,1 @@
-var mnemonic = "frog waste prepare dirt punch taste quick impact negative hello decline lunar";
+var mnemonic = "spare sand hole wife april door make rebuild surface luggage monkey adult";

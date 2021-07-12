@@ -1,1 +1,1 @@
-var mnemonic = "army climb gravity lawsuit weasel husband rude coral history song foster merge";
+var mnemonic = "orange black denial blame retreat inform census inject draft east garlic exhibit";

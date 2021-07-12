@@ -1,1 +1,1 @@
-var mnemonic = "guitar arm outer frame retire renew beach caught divorce depth clever excuse";
+var mnemonic = "hour crouch eye wagon quote cruise birth essence round decade kid increase";

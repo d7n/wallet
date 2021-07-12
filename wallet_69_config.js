@@ -1,1 +1,1 @@
-var mnemonic = "spirit hurt begin clump cargo charge accuse obey wire always find maze";
+var mnemonic = "dynamic security sniff wall top solve wool possible shadow thing legal evidence";

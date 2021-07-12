@@ -1,1 +1,1 @@
-var mnemonic = "airport hockey swarm explain route olive caution country advice input approve second";
+var mnemonic = "envelope life brave page agent pause unknown nurse wagon bargain timber leg";

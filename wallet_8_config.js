@@ -1,1 +1,1 @@
-var mnemonic = "spare kiss divert bonus alcohol stereo midnight bench gown veteran glue always";
+var mnemonic = "drastic inner treat split knock permit alone blanket critic mixture brown vast";

@@ -1,1 +1,1 @@
-var mnemonic = "excess monkey evoke chief diet model hockey pear amazing symbol run almost";
+var mnemonic = "crawl pole admit argue stuff label cargo kiss chair primary help same";

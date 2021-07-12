@@ -1,1 +1,1 @@
-var mnemonic = "black foot immense spy update inquiry fame turn limit medal suspect only";
+var mnemonic = "staff garlic student upset vendor together expose multiply long task tube rough";

@@ -1,1 +1,1 @@
-var mnemonic = "trend kiss echo saddle elbow cabbage cry annual suggest scout dignity summer";
+var mnemonic = "donkey oxygen lab mouse ill salmon advance cannon person property rebel honey";

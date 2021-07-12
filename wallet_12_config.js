@@ -1,1 +1,1 @@
-var mnemonic = "help sugar noise code task pluck head certain rib bleak century dune";
+var mnemonic = "industry square grocery swift ticket panic ugly grain vicious electric meat silly";

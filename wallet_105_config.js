@@ -1,1 +1,1 @@
-var mnemonic = "coil ability dove slogan harsh bring company erupt grow crew island great";
+var mnemonic = "theme globe myth film regret minute little strike hazard runway custom now";

@@ -1,1 +1,1 @@
-var mnemonic = "toe body also magic curtain lecture identify violin crisp liquid awkward fold";
+var mnemonic = "junior draw domain board enhance income primary visa series zone web limit";

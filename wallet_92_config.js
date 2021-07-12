@@ -1,1 +1,1 @@
-var mnemonic = "treat scorpion bacon charge vacant zoo wrong live comic example wreck scrub";
+var mnemonic = "dad assist ignore hawk stumble blur pistol leg file echo they siren";

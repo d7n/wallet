@@ -1,1 +1,1 @@
-var mnemonic = "pioneer welcome room ankle method use project charge net tiger warfare drive";
+var mnemonic = "legal upper maximum sunny glide weapon fault reform artwork odor absurd slam";

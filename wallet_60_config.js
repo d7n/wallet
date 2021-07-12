@@ -1,1 +1,1 @@
-var mnemonic = "voice share defy employ exotic license air easy output tuition cluster pelican";
+var mnemonic = "hotel rigid lock hard diary live media state crush wasp math latin";

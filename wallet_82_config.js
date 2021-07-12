@@ -1,1 +1,1 @@
-var mnemonic = "miracle success ozone pipe pattern thought raccoon high captain divide guess pig";
+var mnemonic = "slush napkin away miss subway borrow news junk history blood bone leopard";

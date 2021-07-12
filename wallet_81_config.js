@@ -1,1 +1,1 @@
-var mnemonic = "hurt use omit talk sport educate garlic city news quality gate rookie";
+var mnemonic = "guard galaxy planet income tiny only explain bounce citizen panel exit symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "rib concert neglect viable cotton rhythm awesome infant interest wash birth dizzy";
+var mnemonic = "wide brisk doctor all ghost cry salon more swamp wet purse improve";

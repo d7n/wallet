@@ -1,1 +1,1 @@
-var mnemonic = "sample disease awake engine deny wheel leopard annual frog hen globe knock";
+var mnemonic = "shove final essence fragile chief lab party scout between audit repeat quiz";

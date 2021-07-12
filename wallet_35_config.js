@@ -1,1 +1,1 @@
-var mnemonic = "swamp often athlete child arrive eagle pair charge shiver blossom fiber smile";
+var mnemonic = "topple raccoon bubble grain main mom ranch gold stairs sniff hockey skull";

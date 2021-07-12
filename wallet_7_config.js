@@ -1,1 +1,1 @@
-var mnemonic = "snack panel lizard discover accuse weird plastic vibrant style cigar insane shy";
+var mnemonic = "indoor fancy insane journey glide jump salon hint measure during accident track";

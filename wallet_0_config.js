@@ -1,1 +1,1 @@
-var mnemonic = "video video mango fish pond reform aerobic taste sauce describe bone enlist";
+var mnemonic = "hurry quote lunch you congress quiz bounce pilot motion kind lion tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial summer earn source oblige price wage round fire burger baby cup";
+var mnemonic = "dignity income buffalo dove effort cheese steak tube mouse pencil original wheat";

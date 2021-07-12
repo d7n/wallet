@@ -1,1 +1,1 @@
-var mnemonic = "suit candy buyer movie gas blast elevator frequent about snake sibling club";
+var mnemonic = "list sample keen capital naive force wedding example enemy seven ladder drill";

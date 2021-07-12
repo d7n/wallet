@@ -1,1 +1,1 @@
-var mnemonic = "wrap pipe public alert sunset pool glory phrase drip insect rescue wage";
+var mnemonic = "bar nation know build twist river trick sure token dolphin alpha addict";

@@ -1,1 +1,1 @@
-var mnemonic = "simple beauty where certain rebuild beyond extend walnut magnet say drink warfare";
+var mnemonic = "other garment pole lonely monitor asset glue city satisfy blue humor gap";

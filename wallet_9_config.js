@@ -1,1 +1,1 @@
-var mnemonic = "illegal left skull remember wish panic victory issue return struggle spare furnace";
+var mnemonic = "oil between system mystery bring march urban seminar alter grass praise zone";

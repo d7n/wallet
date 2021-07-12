@@ -1,1 +1,1 @@
-var mnemonic = "become rifle silk error ketchup coffee wink child avoid misery force slush";
+var mnemonic = "scout crunch tent chaos reopen flame tired boat quit mask tool source";

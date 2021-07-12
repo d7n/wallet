@@ -1,1 +1,1 @@
-var mnemonic = "pattern arrange vintage second amount rally relief praise buyer beyond leave mass";
+var mnemonic = "priority point inch tag topic identify boy van picnic eager swallow jar";

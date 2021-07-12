@@ -1,1 +1,1 @@
-var mnemonic = "wealth ghost wealth visit castle reveal employ move witness rail normal blade";
+var mnemonic = "fresh soap uniform hungry sunset latin tennis curve rifle moral will frog";

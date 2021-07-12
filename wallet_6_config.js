@@ -1,1 +1,1 @@
-var mnemonic = "galaxy scorpion exact odor local enhance magic exit love solution casual dirt";
+var mnemonic = "lift cart bar same soon camera hello child sister behave eye cloud";

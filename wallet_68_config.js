@@ -1,1 +1,1 @@
-var mnemonic = "scorpion coach chimney true engine lucky machine rate seven taste other oblige";
+var mnemonic = "news angry tag orbit hen element shine until rack page leopard ski";

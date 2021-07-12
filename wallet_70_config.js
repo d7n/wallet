@@ -1,1 +1,1 @@
-var mnemonic = "above barrel road install tooth six book dust patch exotic cattle settle";
+var mnemonic = "zero veteran vast level sponsor elbow delay crew salute brain general indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil rely wine coast flower boss first surprise initial quick clutch upgrade";
+var mnemonic = "also kick arctic fresh clump harbor book neglect vault shield industry strong";

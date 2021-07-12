@@ -1,1 +1,1 @@
-var mnemonic = "aware illegal furnace require kite diesel oblige satoshi concert laundry any jacket";
+var mnemonic = "anchor wire chair iron combine multiply system delay club million task medal";

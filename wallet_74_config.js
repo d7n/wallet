@@ -1,1 +1,1 @@
-var mnemonic = "alpha resemble era fan pumpkin asthma catch such bomb wagon city antenna";
+var mnemonic = "lunar start poet trash fiscal increase used faculty globe exotic hat knife";

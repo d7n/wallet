@@ -1,1 +1,1 @@
-var mnemonic = "open clay mom chief great cash wall impact north film accuse below";
+var mnemonic = "dice culture fault taxi brand noodle volume hat outer inject tiny spawn";

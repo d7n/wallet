@@ -1,1 +1,1 @@
-var mnemonic = "gas afraid put shock exist axis canyon electric south basket quote give";
+var mnemonic = "shy pave miracle rare top lemon spread radio stuff hundred snake banana";

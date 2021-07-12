@@ -1,1 +1,1 @@
-var mnemonic = "jelly input tuition walk swamp heart east horn myth pole vault dream";
+var mnemonic = "trade million uniform asthma produce more attend drive slender wet gravity clinic";

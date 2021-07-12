@@ -1,1 +1,1 @@
-var mnemonic = "law squirrel clown erosion vault entire rocket fortune skull canvas city advance";
+var mnemonic = "gasp weasel charge alone bind hour script century shell spirit rice farm";

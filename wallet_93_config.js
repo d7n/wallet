@@ -1,1 +1,1 @@
-var mnemonic = "flush shield brass noise rocket hat loud what quit trigger harsh coffee";
+var mnemonic = "dust nerve switch resist lady parade cat table boring grass door sting";

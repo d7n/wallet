@@ -1,1 +1,1 @@
-var mnemonic = "material endorse despair six cute employ material wall proof behave energy ankle";
+var mnemonic = "friend impact motion vote prison seek develop giraffe major brisk little maximum";

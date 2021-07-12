@@ -1,1 +1,1 @@
-var mnemonic = "drive among dance fortune wish grant damage crash already script board song";
+var mnemonic = "essay weekend scheme thrive gaze release aisle silver angle silk recipe regret";

@@ -1,1 +1,1 @@
-var mnemonic = "margin cloud axis agree excess shrug raw radar foil cupboard carry guard";
+var mnemonic = "display unveil mushroom survey venture toss food task direct figure crouch announce";

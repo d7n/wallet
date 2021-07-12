@@ -1,1 +1,1 @@
-var mnemonic = "isolate ability blame bulk rhythm build onion wagon all whip debris eye";
+var mnemonic = "rose blade milk child define jacket media tomorrow pink squeeze mammal fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "feature toss invite wrestle maximum feel behind until move sail rotate off";
+var mnemonic = "gown diamond hospital valve border gossip lottery life speak session question call";

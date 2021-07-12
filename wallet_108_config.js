@@ -1,1 +1,1 @@
-var mnemonic = "genuine model consider paper ask lottery resource motor swap avoid crazy fine";
+var mnemonic = "basket across grape true burger also since blade gold crack matrix diesel";

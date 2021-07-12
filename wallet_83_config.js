@@ -1,1 +1,1 @@
-var mnemonic = "prosper pen moment wolf tortoise patch tongue wrestle outside whale follow budget";
+var mnemonic = "access case walk jealous chapter shield plate action clip clay pact design";

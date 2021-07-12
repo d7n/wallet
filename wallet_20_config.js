@@ -1,1 +1,1 @@
-var mnemonic = "idea any obtain clinic symptom number area pudding stairs toilet team distance";
+var mnemonic = "desert party slight leader element mobile kiss alter liberty coyote trade crystal";

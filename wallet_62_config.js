@@ -1,1 +1,1 @@
-var mnemonic = "sing abstract flight burst teach window champion enact quick jungle target solid";
+var mnemonic = "siege medal estate cousin loyal expose attack salt general ceiling apology width";

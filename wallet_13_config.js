@@ -1,1 +1,1 @@
-var mnemonic = "emotion mutual tube furnace car toilet vocal parade shrug divorce actress ball";
+var mnemonic = "spot brain century ancient run lumber oven memory mask zone brisk moon";

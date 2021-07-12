@@ -1,1 +1,1 @@
-var mnemonic = "auto nice pair favorite film ugly mercy main rabbit bundle hurt erode";
+var mnemonic = "smoke setup rare hurry upper desert dad journey short buddy random width";

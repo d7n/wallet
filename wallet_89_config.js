@@ -1,1 +1,1 @@
-var mnemonic = "income deny else essence vendor snap cupboard attitude fly buffalo image daughter";
+var mnemonic = "scissors shine credit flip rug other option until chase switch father arrange";

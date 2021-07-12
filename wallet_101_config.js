@@ -1,1 +1,1 @@
-var mnemonic = "return leg ride flight settle inherit special sketch shoulder trim mean hollow";
+var mnemonic = "few stable solve sorry pretty suggest robot trash bar episode used intact";

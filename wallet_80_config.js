@@ -1,1 +1,1 @@
-var mnemonic = "property host hold hair word valley step village lend glimpse fork jealous";
+var mnemonic = "vital armor wonder where orchard door raven divide lift route sudden solid";

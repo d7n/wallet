@@ -1,1 +1,1 @@
-var mnemonic = "swallow hotel bike force pass slogan spawn grass tank alone sound parent";
+var mnemonic = "evidence obtain hole sample into piano spray announce creek old pen same";

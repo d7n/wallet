@@ -1,1 +1,1 @@
-var mnemonic = "wasp dirt armed alcohol business muffin answer direct spoil asset jealous escape";
+var mnemonic = "wheel lady genuine palace grow become kiss dwarf quiz urban fitness safe";

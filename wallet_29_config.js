@@ -1,1 +1,1 @@
-var mnemonic = "age harvest slender resemble sweet wheat argue renew neutral rhythm road menu";
+var mnemonic = "wrist ethics cream price foster parrot napkin upgrade shaft sweet sample deny";

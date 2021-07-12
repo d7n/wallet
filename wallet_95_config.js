@@ -1,1 +1,1 @@
-var mnemonic = "common any liberty random anger item absurd chuckle face spawn melody hurdle";
+var mnemonic = "gaze boring fetch bamboo neglect timber crunch dismiss again deputy near glass";

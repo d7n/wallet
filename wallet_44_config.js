@@ -1,1 +1,1 @@
-var mnemonic = "express health tornado chief neutral climb primary poem seat shaft holiday park";
+var mnemonic = "dizzy zoo cable alter smoke kingdom unknown very turtle travel exclude appear";

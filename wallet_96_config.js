@@ -1,1 +1,1 @@
-var mnemonic = "photo strike deputy swarm excite gather detail brown crucial fish speed adjust";
+var mnemonic = "sketch guess virtual kid robust forum benefit brisk lonely olympic jeans oval";

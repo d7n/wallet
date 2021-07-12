@@ -1,1 +1,1 @@
-var mnemonic = "cool prison chapter melt notice candy drop jump talent novel winter artwork";
+var mnemonic = "rug column rubber hedgehog adjust impulse damp screen traffic celery window scrub";

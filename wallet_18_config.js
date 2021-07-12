@@ -1,1 +1,1 @@
-var mnemonic = "liberty rate click tower squirrel cabin boost sorry vocal ready nature shell";
+var mnemonic = "dismiss car skate little soul finger muscle welcome cactus web file master";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose bread immense morning vocal over kiss milk way price dove snack";
+var mnemonic = "canvas reunion pact style pitch tuna warrior work dynamic steel eagle drive";

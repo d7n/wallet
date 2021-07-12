@@ -1,1 +1,1 @@
-var mnemonic = "pitch cool vote actor powder short physical forget same rain vague collect";
+var mnemonic = "increase witness click exile favorite domain focus option total pill trigger cart";

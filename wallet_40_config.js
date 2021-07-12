@@ -1,1 +1,1 @@
-var mnemonic = "wreck cupboard lava flame horse job quit move beauty father evidence situate";
+var mnemonic = "oblige leaf exhaust service price palm delay scale chimney alcohol vibrant property";

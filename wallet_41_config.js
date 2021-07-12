@@ -1,1 +1,1 @@
-var mnemonic = "fossil maple number exclude duty energy story bus vague diesel advance only";
+var mnemonic = "tag turtle punch high total risk bag outside major spike mistake flavor";

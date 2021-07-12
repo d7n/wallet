@@ -1,1 +1,1 @@
-var mnemonic = "milk boring evoke useful section immense ivory lake zero never little tell";
+var mnemonic = "unfold miracle garbage soldier leave flush knife depth more admit grid hard";

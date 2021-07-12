@@ -1,1 +1,1 @@
-var mnemonic = "leopard birth tornado shallow shock soon hamster slow mixed volume cash spend";
+var mnemonic = "canvas coffee acoustic lava invite tortoise stock mango scissors gift oblige peasant";

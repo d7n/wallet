@@ -1,1 +1,1 @@
-var mnemonic = "print teach victory opera matrix eight mountain bag master shoulder hobby six";
+var mnemonic = "tank state farm pupil forest exclude coffee pear initial athlete number pride";

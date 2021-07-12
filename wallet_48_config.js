@@ -1,1 +1,1 @@
-var mnemonic = "security much misery total cruise poem fuel nuclear among sing impact skirt";
+var mnemonic = "banner venue proof cabbage cannon enhance grit adapt tube fit crawl sustain";

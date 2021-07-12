@@ -1,1 +1,1 @@
-var mnemonic = "large tongue employ liquid shock more lazy glue harvest lens gravity boss";
+var mnemonic = "twin athlete social powder affair hurry mass record smoke hotel decide abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "explain coil sheriff rose buyer salt canyon pact member rapid nothing resemble";
+var mnemonic = "two balcony whisper marine unique enact hub normal ribbon staff prefer fashion";

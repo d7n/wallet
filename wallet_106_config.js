@@ -1,1 +1,1 @@
-var mnemonic = "fresh path dinner rabbit jealous cushion sadness service disagree genius hammer spatial";
+var mnemonic = "dinner response move tiny desk donkey drift retreat shop powder primary behind";
