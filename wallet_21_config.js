@@ -1,1 +1,1 @@
-var mnemonic = "work fox animal donor elegant genius letter envelope grief video damp pottery";
+var mnemonic = "cannon slow elder direct earth puppy elite shrimp unusual job junior spy";

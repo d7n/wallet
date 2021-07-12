@@ -1,1 +1,1 @@
-var mnemonic = "post fitness base myself before punch tree under endless depend belt erosion";
+var mnemonic = "spawn inmate collect double cluster road aisle brick cabin label price lunch";

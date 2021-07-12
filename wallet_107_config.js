@@ -1,1 +1,1 @@
-var mnemonic = "margin vast coconut toy tumble flee jelly try relax soul radio fragile";
+var mnemonic = "chase confirm security enforce movie furnace motion clever know taxi venue only";

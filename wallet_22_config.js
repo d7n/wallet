@@ -1,1 +1,1 @@
-var mnemonic = "call fabric staff estate menu spike left dentist elephant also thank drift";
+var mnemonic = "honey gauge flock special antique stable top vote know trim average hurt";

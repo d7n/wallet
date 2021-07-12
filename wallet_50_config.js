@@ -1,1 +1,1 @@
-var mnemonic = "run panic border wool heavy eight spoon evidence produce someone fit setup";
+var mnemonic = "eagle follow stuff monitor gallery cargo shiver topple film kidney cement refuse";

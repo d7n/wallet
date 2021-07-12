@@ -1,1 +1,1 @@
-var mnemonic = "fence square firm modify link drip arrow village allow fox patch recipe";
+var mnemonic = "expire erode camera great rabbit imitate critic fruit kite loud travel brick";

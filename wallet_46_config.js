@@ -1,1 +1,1 @@
-var mnemonic = "helmet radio figure shallow scrap length divert glad doll female mistake atom";
+var mnemonic = "miracle father surge usage dumb affair solution alone radar height city immense";

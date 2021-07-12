@@ -1,1 +1,1 @@
-var mnemonic = "paper lazy width feel beef multiply retire fabric cruel off photo dentist";
+var mnemonic = "acid room miss steak mandate swap nature artist faith front jar gas";

@@ -1,1 +1,1 @@
-var mnemonic = "joke bottom style project escape reopen any chat belt during beach coyote";
+var mnemonic = "method bench helmet topic treat strike daring focus fine nature excess mean";

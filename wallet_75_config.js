@@ -1,1 +1,1 @@
-var mnemonic = "latin traffic embark clock assist copy rely bunker post update aunt violin";
+var mnemonic = "cause history inform pond diesel anchor cement course rural farm menu minimum";

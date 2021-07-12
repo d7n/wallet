@@ -1,1 +1,1 @@
-var mnemonic = "quit distance anxiety common siren opera symbol write body brother record antique";
+var mnemonic = "useless wash history hotel erosion choice duty tribe caught process receive eager";

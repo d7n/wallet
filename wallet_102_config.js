@@ -1,1 +1,1 @@
-var mnemonic = "elegant payment balcony omit little hazard drill farm caution duck inherit always";
+var mnemonic = "skull denial extra grid seven category budget wet parade situate identify ethics";

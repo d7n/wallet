@@ -1,1 +1,1 @@
-var mnemonic = "taxi fog final carpet inmate edit between resemble void viable female derive";
+var mnemonic = "apart cake vibrant online cabin blush senior tenant old accident silly sketch";

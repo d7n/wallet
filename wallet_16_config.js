@@ -1,1 +1,1 @@
-var mnemonic = "order album uniform sketch churn only nice into useful combine seminar dinner";
+var mnemonic = "any angle private cover oyster medal wheat mechanic obscure dismiss else party";

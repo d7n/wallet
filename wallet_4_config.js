@@ -1,1 +1,1 @@
-var mnemonic = "twist slim into tilt elder busy gorilla grid common key notice obtain";
+var mnemonic = "sentence fatal learn rocket neither that awesome shift swear excite off lobster";

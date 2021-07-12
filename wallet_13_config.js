@@ -1,1 +1,1 @@
-var mnemonic = "misery try defy stove word woman bargain adjust detail behind viable rain";
+var mnemonic = "invite innocent vital six jeans oil script camp diary upon rug evoke";

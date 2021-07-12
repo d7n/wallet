@@ -1,1 +1,1 @@
-var mnemonic = "lesson wolf game purchase path fuel traffic shrimp paddle close garage kitten";
+var mnemonic = "dynamic bleak lobster frog cook cable bargain addict analyst color limb slam";

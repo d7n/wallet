@@ -1,1 +1,1 @@
-var mnemonic = "urban scene absorb desert oppose private dial north stadium live vintage vital";
+var mnemonic = "tongue output vault repeat sea alert shrimp endorse smart permit rotate dinosaur";

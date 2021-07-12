@@ -1,1 +1,1 @@
-var mnemonic = "acoustic slab hero shift october sister female escape whale coach slender seek";
+var mnemonic = "deputy icon sustain avocado useful useful rally enforce goat ship expire apple";

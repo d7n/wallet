@@ -1,1 +1,1 @@
-var mnemonic = "park surface brisk beach intact kitten answer patrol force hammer garbage rate";
+var mnemonic = "nation offer sad season festival cash shed bright cluster fold brand suffer";

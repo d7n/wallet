@@ -1,1 +1,1 @@
-var mnemonic = "road rhythm cause prepare disagree boy frog clinic genre disorder feed eight";
+var mnemonic = "glad enforce attract curtain broom kick similar offer copper coach rotate truck";

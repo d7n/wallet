@@ -1,1 +1,1 @@
-var mnemonic = "amazing gasp kind swing year blue oil enable eternal luggage buffalo trap";
+var mnemonic = "system report vapor taste mushroom isolate ocean range hour fantasy erase fashion";

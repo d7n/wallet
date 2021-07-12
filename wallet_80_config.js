@@ -1,1 +1,1 @@
-var mnemonic = "leader entry myself awake memory absurd enhance three erupt tunnel mail renew";
+var mnemonic = "deal dry gesture hazard busy sing pair cable enroll apology castle scrub";

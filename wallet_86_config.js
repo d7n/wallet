@@ -1,1 +1,1 @@
-var mnemonic = "blur fox stand capital oval moral solar farm fuel reduce unusual term";
+var mnemonic = "elite matrix thunder reflect divorce eyebrow business market piano rug congress common";

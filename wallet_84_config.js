@@ -1,1 +1,1 @@
-var mnemonic = "february merry guitar meat vapor piano average where cram damp wet patch";
+var mnemonic = "razor observe ladder wear stable lounge crunch bus industry tag evoke list";

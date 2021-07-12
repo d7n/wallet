@@ -1,1 +1,1 @@
-var mnemonic = "judge truck tennis recipe tube roof risk buffalo nose train urge illness";
+var mnemonic = "health enable atom donkey okay wolf unaware ask light where similar caution";

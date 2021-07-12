@@ -1,1 +1,1 @@
-var mnemonic = "venture thank suspect slot daring wide pact man peanut budget discover innocent";
+var mnemonic = "police element uniform material grape fence must silly extra spatial trim fold";

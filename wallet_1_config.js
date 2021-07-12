@@ -1,1 +1,1 @@
-var mnemonic = "jazz nephew order practice project ski shoulder oak answer erosion punch gospel";
+var mnemonic = "gold breeze knock cage lonely pen universe jump castle fee come twelve";

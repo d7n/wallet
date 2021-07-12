@@ -1,1 +1,1 @@
-var mnemonic = "deposit vault van relax auto auto save boost young student fold catalog";
+var mnemonic = "fancy glare awake casino half snake lyrics pact benefit chest special illegal";

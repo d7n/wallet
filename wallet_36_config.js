@@ -1,1 +1,1 @@
-var mnemonic = "march swamp loud trash length lobster search toy kid cereal moon trial";
+var mnemonic = "cry hero unique moral cat shiver shoot garden donor acoustic network crisp";

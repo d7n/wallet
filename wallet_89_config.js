@@ -1,1 +1,1 @@
-var mnemonic = "love gadget stumble draft scrub cause banner lawsuit clever success pudding guilt";
+var mnemonic = "sock shop anchor second dust wrestle zone antique blouse accident virus awkward";

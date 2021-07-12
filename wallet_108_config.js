@@ -1,1 +1,1 @@
-var mnemonic = "atom custom recipe denial confirm camera news mesh glad ginger nuclear opera";
+var mnemonic = "dynamic deputy twice sunset dust stove damage search blur sibling uniform citizen";

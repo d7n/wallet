@@ -1,1 +1,1 @@
-var mnemonic = "sure decrease still egg captain fitness paper property midnight spy inner wolf";
+var mnemonic = "trigger oak depart loyal retreat garlic expect bean feel cart puzzle junk";

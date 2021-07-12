@@ -1,1 +1,1 @@
-var mnemonic = "tired toilet poverty horn spring liar chat desk year used pyramid curtain";
+var mnemonic = "lava cost edit secret assume swallow fire swap insect mother patient harvest";

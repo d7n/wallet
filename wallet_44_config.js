@@ -1,1 +1,1 @@
-var mnemonic = "buffalo task impulse affair crush country around sick viable correct stairs custom";
+var mnemonic = "axis surge excess wise energy vacant steel tag hope until ugly stumble";

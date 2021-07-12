@@ -1,1 +1,1 @@
-var mnemonic = "six regular hint sell flush actor lawn laptop odor pole rule key";
+var mnemonic = "hurry ozone reflect desk burst ginger athlete sudden submit unlock start boy";

@@ -1,1 +1,1 @@
-var mnemonic = "loop aerobic hover point elevator goddess army sunny address umbrella horror piano";
+var mnemonic = "other whip aim hat sand patch awful coast dignity input save inject";

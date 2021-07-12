@@ -1,1 +1,1 @@
-var mnemonic = "minimum advance lake soup hazard damage side profit whisper paper toss album";
+var mnemonic = "million arrange skill century slush connect student wonder devote upper invite solar";

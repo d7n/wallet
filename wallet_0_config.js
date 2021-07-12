@@ -1,1 +1,1 @@
-var mnemonic = "among vacant bargain globe faint sugar enforce glare boss receive move baby";
+var mnemonic = "tomorrow couch swallow claw patient coast unique insane attitude topple august another";

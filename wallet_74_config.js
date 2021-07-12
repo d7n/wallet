@@ -1,1 +1,1 @@
-var mnemonic = "usual copy female ridge resource garlic lounge spoil execute february print oblige";
+var mnemonic = "coach claim upgrade unknown parent gloom stomach dad behave disease work this";

@@ -1,1 +1,1 @@
-var mnemonic = "segment bubble practice panic capital pull adapt album rural sleep foot economy";
+var mnemonic = "appear grocery twin open output clinic person casual admit shaft night federal";

@@ -1,1 +1,1 @@
-var mnemonic = "problem jealous connect question noise symbol smooth cotton sponsor eyebrow coyote blush";
+var mnemonic = "escape purity filter come divert inmate eyebrow diamond lion math piano post";

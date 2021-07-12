@@ -1,1 +1,1 @@
-var mnemonic = "trip diet endless endorse eager credit hour call mansion spirit make step";
+var mnemonic = "avoid enhance youth glow rifle blade argue ankle buddy pigeon ginger raise";

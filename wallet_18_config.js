@@ -1,1 +1,1 @@
-var mnemonic = "tunnel silly neutral card slush youth again hidden citizen attend split enhance";
+var mnemonic = "fit lawn veteran drink credit company cement mirror reward soft notice design";

@@ -1,1 +1,1 @@
-var mnemonic = "deer design pony swallow vivid extend victory goose mom satoshi blush pet";
+var mnemonic = "news example couch edit skull supply square clerk usage office indoor poverty";

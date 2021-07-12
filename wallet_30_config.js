@@ -1,1 +1,1 @@
-var mnemonic = "damage vintage depend diet honey sound behave laugh balance above regular together";
+var mnemonic = "indoor path wine board rude woman boil destroy umbrella room traffic rescue";

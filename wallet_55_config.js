@@ -1,1 +1,1 @@
-var mnemonic = "engine cactus dice spare surface civil mixed initial oil fancy change trophy";
+var mnemonic = "twist glass prefer merit rural cup jazz essence dynamic visa jazz pencil";

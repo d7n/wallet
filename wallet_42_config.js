@@ -1,1 +1,1 @@
-var mnemonic = "scare coach donate toe when mutual arrange million suggest strong industry height";
+var mnemonic = "bachelor render fever border tell any post giraffe lyrics habit frog wolf";

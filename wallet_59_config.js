@@ -1,1 +1,1 @@
-var mnemonic = "enforce cable place between about found labor moon curve coast taste arctic";
+var mnemonic = "witness cradle try border illness because whale sell recipe day talk camp";

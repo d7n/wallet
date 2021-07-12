@@ -1,1 +1,1 @@
-var mnemonic = "tobacco foil champion taste defy grain advance rally select juice fortune rigid";
+var mnemonic = "erupt south squeeze during share grass camp area tornado gas diet peanut";

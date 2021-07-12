@@ -1,1 +1,1 @@
-var mnemonic = "exercise hidden destroy toilet hub region boy wink citizen census burden february";
+var mnemonic = "price pipe extra glide label lend egg flat harsh evoke bulk fish";

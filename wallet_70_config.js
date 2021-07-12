@@ -1,1 +1,1 @@
-var mnemonic = "february rug blast jaguar project pact crowd raven expect glove forest mechanic";
+var mnemonic = "ignore correct grab hole strike near decade design witness gaze want soup";

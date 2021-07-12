@@ -1,1 +1,1 @@
-var mnemonic = "false lava pool clarify exercise bacon inhale miracle fury artwork lab cheap";
+var mnemonic = "kangaroo vocal furnace smile assault crush guard omit hard light develop consider";

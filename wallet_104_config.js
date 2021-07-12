@@ -1,1 +1,1 @@
-var mnemonic = "coffee profit sick find artefact bubble live donate auction initial board shock";
+var mnemonic = "enable defy machine erosion puppy predict unveil catch moment echo toe once";

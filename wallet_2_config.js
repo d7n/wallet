@@ -1,1 +1,1 @@
-var mnemonic = "chaos phrase damp blush also punch couch loop service recycle team illegal";
+var mnemonic = "box rich cave merry thing thing flash balance envelope inch absurd point";

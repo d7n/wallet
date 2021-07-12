@@ -1,1 +1,1 @@
-var mnemonic = "other crowd village nerve team fiction hub inherit ride chuckle reason split";
+var mnemonic = "tide shine february envelope crane sponsor decade able exchange top syrup peace";

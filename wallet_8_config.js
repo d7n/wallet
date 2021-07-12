@@ -1,1 +1,1 @@
-var mnemonic = "flash spring tail measure biology mutual wet nut multiply neutral element distance";
+var mnemonic = "rib group tiny tape valid youth leg diagram baby extra boy figure";

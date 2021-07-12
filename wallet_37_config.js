@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sail holiday album guess icon pole whale alarm cheese twice ball";
+var mnemonic = "winter boss blouse donor legend clerk window turkey dice scrub try jaguar";

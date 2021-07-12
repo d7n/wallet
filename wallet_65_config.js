@@ -1,1 +1,1 @@
-var mnemonic = "rare prosper doll typical august release curve certain common assist blade web";
+var mnemonic = "inherit hawk avoid require deposit drop mask tube differ theme auction hope";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing fish poet adapt reduce inspire control loop loan eager gas begin";
+var mnemonic = "want sorry good elegant phone diesel slide wall any floor kidney december";

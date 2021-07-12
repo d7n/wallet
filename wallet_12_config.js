@@ -1,1 +1,1 @@
-var mnemonic = "mammal menu wide defy remain sister badge secret charge hurt gown river";
+var mnemonic = "repeat private ecology good zone treat view pole chimney insane volcano behind";

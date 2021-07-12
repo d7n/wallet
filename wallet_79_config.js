@@ -1,1 +1,1 @@
-var mnemonic = "blood one anger sugar unfold coffee come inherit apple provide point obey";
+var mnemonic = "glimpse chat lobster board winter unit behave track shadow rich pull adjust";

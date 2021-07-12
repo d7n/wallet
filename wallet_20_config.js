@@ -1,1 +1,1 @@
-var mnemonic = "inspire crystal diet million gesture you nephew edit scout fuel inquiry cloud";
+var mnemonic = "bonus vapor feed menu neck cruise lock undo assume seat bamboo remember";

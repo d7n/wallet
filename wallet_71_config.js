@@ -1,1 +1,1 @@
-var mnemonic = "meat over innocent token debate essence evolve oblige awful develop enjoy rude";
+var mnemonic = "tail dignity sword physical smile mansion maze aspect night silk embrace alarm";

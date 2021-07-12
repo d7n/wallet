@@ -1,1 +1,1 @@
-var mnemonic = "answer toss fish auction dance cave join warfare okay raise execute antique";
+var mnemonic = "shock leave three sponsor fox iron priority view become hold attitude victory";

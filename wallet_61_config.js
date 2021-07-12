@@ -1,1 +1,1 @@
-var mnemonic = "trouble coast charge surround body clean whip cereal almost tiger truly embody";
+var mnemonic = "million april arrange vivid hurry mix apology cement donkey receive pulse height";

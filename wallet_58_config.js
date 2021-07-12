@@ -1,1 +1,1 @@
-var mnemonic = "dove exist clock raccoon resource wink symbol together scout retreat sphere cushion";
+var mnemonic = "toilet shaft office harsh arrange flash moon faint best inherit level owner";

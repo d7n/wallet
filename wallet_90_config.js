@@ -1,1 +1,1 @@
-var mnemonic = "clinic lazy ring base virtual pitch wall pulse extend giggle boost script";
+var mnemonic = "loop during retreat balcony crash exit number blade because brass practice pipe";

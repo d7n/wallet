@@ -1,1 +1,1 @@
-var mnemonic = "reveal south delay upgrade despair better release trigger remain protect dove laptop";
+var mnemonic = "nothing mistake series harbor view behind naive intact source tomato menu delay";

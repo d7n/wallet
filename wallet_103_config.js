@@ -1,1 +1,1 @@
-var mnemonic = "worry talent journey resource shoulder glad muffin weekend capable piece fall rib";
+var mnemonic = "traffic rare test spawn actor holiday eager gasp vacant trade prison pizza";

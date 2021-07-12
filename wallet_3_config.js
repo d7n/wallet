@@ -1,1 +1,1 @@
-var mnemonic = "acquire bone jaguar idle bullet document design wealth water onion flight fan";
+var mnemonic = "tape food borrow bounce noble scrub try index tenant loop cabbage chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot crater body forward chat pave giggle priority nominee ankle weird clay";
+var mnemonic = "million document alien dentist repair deliver then genre armed valley lucky leopard";

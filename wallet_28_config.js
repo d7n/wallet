@@ -1,1 +1,1 @@
-var mnemonic = "slogan risk certain input wood axis private badge side exhibit welcome caution";
+var mnemonic = "hire false lake column fetch horror human stumble floor odor size man";

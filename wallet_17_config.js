@@ -1,1 +1,1 @@
-var mnemonic = "right awesome evoke question start bracket pudding coin volume pottery chase symbol";
+var mnemonic = "step spawn park bachelor history impulse ring tilt mushroom hunt alcohol ghost";

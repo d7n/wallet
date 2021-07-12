@@ -1,1 +1,1 @@
-var mnemonic = "siren glance cruise antique conduct slim void label hour ski debate february";
+var mnemonic = "route clutch hurdle mammal joke walk donate crush element eager find kind";

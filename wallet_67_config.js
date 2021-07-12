@@ -1,1 +1,1 @@
-var mnemonic = "neither fault siege end zebra holiday cake film another then canvas valve";
+var mnemonic = "bracket door put swallow crew march account furnace heart salon hospital cabbage";

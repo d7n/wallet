@@ -1,1 +1,1 @@
-var mnemonic = "cable three nurse stuff stone thing decline habit foot tank toward recipe";
+var mnemonic = "clutch fantasy hybrid slab series elder october arrive dinner ozone shine tennis";

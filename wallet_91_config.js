@@ -1,1 +1,1 @@
-var mnemonic = "clown visa reject mirror pepper major smooth grass blind wealth demand quiz";
+var mnemonic = "host service plastic assist annual reopen quarter amateur unfold maze chaos cherry";

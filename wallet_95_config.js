@@ -1,1 +1,1 @@
-var mnemonic = "final floor first mixture turtle eyebrow list idle section estate ahead trial";
+var mnemonic = "slight basic dash walk october night small long feature talk drop uniform";

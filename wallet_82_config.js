@@ -1,1 +1,1 @@
-var mnemonic = "reduce initial rural fetch sound extend area century verb film ghost minor";
+var mnemonic = "bachelor buddy cotton swift warfare mistake piano nuclear token allow leave endorse";

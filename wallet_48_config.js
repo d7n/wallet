@@ -1,1 +1,1 @@
-var mnemonic = "dirt beauty topic chef picnic legal mom rubber flee tail panel excess";
+var mnemonic = "monkey absent juice effort motor library poverty solve curious top attitude quit";

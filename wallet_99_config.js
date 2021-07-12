@@ -1,1 +1,1 @@
-var mnemonic = "biology bottom danger scissors situate surround bamboo rude hour bitter lunar coast";
+var mnemonic = "depend wait owner steak uniform course main price surface decrease reduce rocket";

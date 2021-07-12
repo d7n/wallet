@@ -1,1 +1,1 @@
-var mnemonic = "wage patrol shell region fee country warrior picture describe crane honey skate";
+var mnemonic = "engine sustain travel wing special junior company shy secret boat dawn dose";

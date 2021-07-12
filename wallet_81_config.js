@@ -1,1 +1,1 @@
-var mnemonic = "gap rude shrimp skate gravity forum into reward peace regret trumpet update";
+var mnemonic = "rib current cactus wave music viable alley poem farm key waste result";

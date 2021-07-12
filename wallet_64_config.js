@@ -1,1 +1,1 @@
-var mnemonic = "camera eight flag spring monster arena become naive veteran morning oval blade";
+var mnemonic = "delay sleep eagle enact common bench ladder crouch donkey recipe soup undo";

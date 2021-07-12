@@ -1,1 +1,1 @@
-var mnemonic = "iron pave indicate exchange catch bronze myth involve monkey invest pepper border";
+var mnemonic = "number shallow age visual bread scorpion later avoid fit chicken insane amused";

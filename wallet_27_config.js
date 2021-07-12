@@ -1,1 +1,1 @@
-var mnemonic = "divorce young mosquito behave party ozone spring ritual leisure car photo sibling";
+var mnemonic = "best grain elegant across cry balcony pink stairs spend train involve hamster";

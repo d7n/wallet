@@ -1,1 +1,1 @@
-var mnemonic = "gain receive year display tonight deposit swarm disagree mouse prize trim best";
+var mnemonic = "afraid skin happy grocery club blouse flame news mix army baby artefact";

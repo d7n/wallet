@@ -1,1 +1,1 @@
-var mnemonic = "goddess sell olive sad thunder angry minor make peasant shell case steak";
+var mnemonic = "pledge kidney session rabbit parade chief happy edge siege butter clutch more";

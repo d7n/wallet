@@ -1,1 +1,1 @@
-var mnemonic = "elephant ice young absorb unveil broccoli unusual transfer trick rabbit breeze ability";
+var mnemonic = "police car tobacco cage group connect inform journey cement adult marine castle";

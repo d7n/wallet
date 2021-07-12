@@ -1,1 +1,1 @@
-var mnemonic = "tail action enrich deposit bacon speak drill make charge thrive outdoor travel";
+var mnemonic = "deny cherry hammer gun guitar plunge this risk escape slim park useless";

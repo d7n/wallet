@@ -1,1 +1,1 @@
-var mnemonic = "dance aerobic december excite annual ribbon junior curtain north diamond inch snake";
+var mnemonic = "stove face crazy reveal salt tired elevator attitude price word wreck math";

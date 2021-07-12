@@ -1,1 +1,1 @@
-var mnemonic = "build chief achieve poet egg afraid use melody major long olympic follow";
+var mnemonic = "predict upon crystal razor fold diesel concert urge evil stumble cupboard violin";

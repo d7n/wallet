@@ -1,1 +1,1 @@
-var mnemonic = "turn yard useful electric elephant melt still flee goat garment wise funny";
+var mnemonic = "liar book credit reduce modify typical online chief grow auto miracle solution";

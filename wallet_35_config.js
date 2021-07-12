@@ -1,1 +1,1 @@
-var mnemonic = "absurd shrimp world evil dune eye situate glove vendor south crew violin";
+var mnemonic = "idle way hobby across dilemma pumpkin robot icon high parent hole barely";

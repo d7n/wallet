@@ -1,1 +1,1 @@
-var mnemonic = "size sausage tool real mention afraid crush december umbrella eagle hip clown";
+var mnemonic = "prepare math prison scan session congress enough search survey sphere bean only";
