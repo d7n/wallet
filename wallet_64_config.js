@@ -1,1 +1,1 @@
-var mnemonic = "fame save trap inner cricket tourist lunch follow belt gadget that annual";
+var mnemonic = "scheme notice soda turkey mass fiscal latin journey tornado country toast someone";

@@ -1,1 +1,1 @@
-var mnemonic = "flash anchor cover panic quality roast gallery harbor spot gesture ability rapid";
+var mnemonic = "inform sport cool robot welcome clutch cake wire reunion alley dash blur";

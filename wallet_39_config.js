@@ -1,1 +1,1 @@
-var mnemonic = "health entry rookie agree boil light prison walnut legal sadness napkin favorite";
+var mnemonic = "express cherry orphan switch mango repeat science ride junior render drive affair";

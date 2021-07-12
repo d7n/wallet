@@ -1,1 +1,1 @@
-var mnemonic = "rabbit excuse assault type fault divert olive put pear other elite close";
+var mnemonic = "layer friend offer spend stage thumb breeze target appear scatter deny second";

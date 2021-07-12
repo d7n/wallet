@@ -1,1 +1,1 @@
-var mnemonic = "chat teach surge large tank detect tenant donate cycle stem twist property";
+var mnemonic = "renew access divert member foot truth foil rigid health recycle keep rain";

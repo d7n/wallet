@@ -1,1 +1,1 @@
-var mnemonic = "hope donate sheriff diamond subject swap wool vessel capital shadow dizzy someone";
+var mnemonic = "project boil govern stage foil route ozone express name era other waste";

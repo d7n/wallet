@@ -1,1 +1,1 @@
-var mnemonic = "forget lunar object uncle tray tone square bid welcome pause diesel bunker";
+var mnemonic = "extend pass clutch sing range speak pledge saddle chunk wagon mass myth";

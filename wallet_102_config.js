@@ -1,1 +1,1 @@
-var mnemonic = "state lucky head ivory moon worth fish work proof taxi fragile auction";
+var mnemonic = "endless worth race toe obey search million sentence section improve puzzle damp";

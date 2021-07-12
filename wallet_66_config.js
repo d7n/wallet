@@ -1,1 +1,1 @@
-var mnemonic = "sorry issue pony snow jump custom popular crush ridge usage music increase";
+var mnemonic = "resemble surface wrist express swamp style steel cash mosquito cube boring bridge";

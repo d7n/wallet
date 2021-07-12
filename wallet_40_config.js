@@ -1,1 +1,1 @@
-var mnemonic = "teach speed output jump hammer meadow tornado creek comfort tape chuckle heavy";
+var mnemonic = "ahead grace legend garden true always lift gap bicycle body olive silent";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle weird inch great tower expect culture simple window pattern ethics suggest";
+var mnemonic = "wrong clarify brush pupil often market bean skate impose human pill hope";

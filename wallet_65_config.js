@@ -1,1 +1,1 @@
-var mnemonic = "believe camera sail cloth glass height spoil total victory shiver shiver confirm";
+var mnemonic = "ramp rely punch apart treat mass latin chest current force syrup era";

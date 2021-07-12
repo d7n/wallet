@@ -1,1 +1,1 @@
-var mnemonic = "sound lend enlist swift powder leaf umbrella sister cry sword novel search";
+var mnemonic = "dust visual rug finish never solution fox midnight radar glove turkey exclude";

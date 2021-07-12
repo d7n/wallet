@@ -1,1 +1,1 @@
-var mnemonic = "gun brave high skate junk mosquito cost frequent hen liberty ripple remind";
+var mnemonic = "wave sword long feel high black endless weekend coral accident crime innocent";

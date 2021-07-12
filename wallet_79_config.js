@@ -1,1 +1,1 @@
-var mnemonic = "unveil sniff lion season hamster year regret kid cube curious sight glide";
+var mnemonic = "chimney student crater weapon daughter edge exclude define topic eyebrow gift buffalo";

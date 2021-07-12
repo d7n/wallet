@@ -1,1 +1,1 @@
-var mnemonic = "kitten bridge run obvious crew sport grab turtle program sorry club rival";
+var mnemonic = "dune episode bunker special egg strike slot price cake hen matrix spend";

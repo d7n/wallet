@@ -1,1 +1,1 @@
-var mnemonic = "spider hammer ritual sound post net shuffle fee lab material erupt cinnamon";
+var mnemonic = "connect crash bread ginger sick remain width weather unhappy enemy title tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "rough chalk bright divert filter include okay team knife business talent evidence";
+var mnemonic = "climb review robot raw sell produce suit history catalog cry know interest";

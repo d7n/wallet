@@ -1,1 +1,1 @@
-var mnemonic = "original praise monster atom spice weapon palace kick tank master mad seek";
+var mnemonic = "cotton word stereo disagree ridge average blur over flavor volcano awesome flight";

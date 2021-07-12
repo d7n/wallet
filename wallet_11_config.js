@@ -1,1 +1,1 @@
-var mnemonic = "news shoulder praise world problem sport seven cactus fish crunch mango anxiety";
+var mnemonic = "double rival grape wet devote stumble gadget volcano chuckle trim gold problem";

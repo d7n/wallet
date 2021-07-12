@@ -1,1 +1,1 @@
-var mnemonic = "vintage device carbon cabin identify gospel good prepare escape achieve off melt";
+var mnemonic = "busy wave miracle merge talent belt dune brick thank type manage affair";

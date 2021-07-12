@@ -1,1 +1,1 @@
-var mnemonic = "strike erupt bunker have fix smooth gasp infant vocal dentist trade ordinary";
+var mnemonic = "private nephew syrup okay charge input until cube because love scene switch";

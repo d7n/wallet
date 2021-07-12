@@ -1,1 +1,1 @@
-var mnemonic = "forget rocket evoke impulse make blouse screen help marriage logic because reopen";
+var mnemonic = "escape tiny alley absent dismiss copper direct screen must cruise piece inside";

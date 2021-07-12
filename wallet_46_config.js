@@ -1,1 +1,1 @@
-var mnemonic = "emerge rough pizza text reason curtain simple buyer hidden mechanic father utility";
+var mnemonic = "shadow weapon loyal purpose advance faith level aunt involve snow bid identify";

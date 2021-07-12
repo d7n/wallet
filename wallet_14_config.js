@@ -1,1 +1,1 @@
-var mnemonic = "palace train common online saddle design sound analyst screen chicken indoor federal";
+var mnemonic = "flip subway duty access learn bachelor comic ranch reflect layer equip crew";

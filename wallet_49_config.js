@@ -1,1 +1,1 @@
-var mnemonic = "turn half awful donkey tribe prefer hawk whisper dry exotic excite thrive";
+var mnemonic = "common lawn tomato material nephew tuna pluck annual inspire three board legend";

@@ -1,1 +1,1 @@
-var mnemonic = "hour east manual uniform cost rib tell captain mixed cheese harvest fish";
+var mnemonic = "same olive voice rotate flame result ancient much slogan sail advice fire";

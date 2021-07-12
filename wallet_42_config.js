@@ -1,1 +1,1 @@
-var mnemonic = "symptom nominee jaguar trial actor crush weird tuna soul spy blouse capable";
+var mnemonic = "wife crystal collect physical inform inside neck seven body size wear sword";

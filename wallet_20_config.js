@@ -1,1 +1,1 @@
-var mnemonic = "little morning retreat apology climb captain history cabbage tragic soul picture abstract";
+var mnemonic = "forward cave achieve hollow vibrant liquid baby cruise talent uncle fiscal cost";

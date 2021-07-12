@@ -1,1 +1,1 @@
-var mnemonic = "demise matrix decade clay inform liar trend enough crater craft object common";
+var mnemonic = "uphold broccoli mushroom solid regret champion accuse emotion typical lobster erode reunion";

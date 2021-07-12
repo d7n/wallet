@@ -1,1 +1,1 @@
-var mnemonic = "merge similar solution luxury dress crouch blanket strong behind artefact evil corn";
+var mnemonic = "noodle tone rigid jar collect legal please motor hospital glide original wolf";

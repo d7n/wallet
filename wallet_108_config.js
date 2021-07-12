@@ -1,1 +1,1 @@
-var mnemonic = "scatter cancel dream chase exact drastic rifle eyebrow heart double alert thank";
+var mnemonic = "custom copy clump pear seek lizard film slam dove toward guide degree";

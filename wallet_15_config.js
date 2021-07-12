@@ -1,1 +1,1 @@
-var mnemonic = "own round expect sheriff mutual youth thought distance snap hazard pear decline";
+var mnemonic = "gravity clarify cricket goose myself bounce absent spin burden occur front slab";

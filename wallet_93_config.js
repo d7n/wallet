@@ -1,1 +1,1 @@
-var mnemonic = "dawn capable critic pumpkin truly code crouch sausage inmate opera theory feed";
+var mnemonic = "claim trip secret valve juice young base replace issue increase evidence blush";

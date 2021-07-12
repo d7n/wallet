@@ -1,1 +1,1 @@
-var mnemonic = "honey cupboard element matrix cram detect twice chef option palm luxury crane";
+var mnemonic = "elder plunge arrest alley corn special outside almost desk mixture cargo clown";

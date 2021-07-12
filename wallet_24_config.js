@@ -1,1 +1,1 @@
-var mnemonic = "daughter symptom delay learn decide citizen crystal roof dwarf heavy treat abuse";
+var mnemonic = "problem mixture clock amazing spatial thunder fashion youth kick planet brave earth";

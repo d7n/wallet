@@ -1,1 +1,1 @@
-var mnemonic = "trophy mutual shy antique frozen poverty kangaroo cram vote proud mixture science";
+var mnemonic = "until sister lottery wheel bacon service rice loop way shy snow approve";

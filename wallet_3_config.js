@@ -1,1 +1,1 @@
-var mnemonic = "angry biology year delay train submit grass behave notable lady picture nest";
+var mnemonic = "forget cherry pear path smile expire proof radar useless oppose page unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding body bottom disease nurse carry column tent walk purse avoid maid";
+var mnemonic = "memory permit blue ten winner rabbit law bamboo poet update melt pretty";

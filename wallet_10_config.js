@@ -1,1 +1,1 @@
-var mnemonic = "card leader infant unaware sand eternal armor lift impulse swarm protect unknown";
+var mnemonic = "help end depend village that naive poverty permit gap brief pet use";

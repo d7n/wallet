@@ -1,1 +1,1 @@
-var mnemonic = "hungry attack utility night finish faculty rent assist mule attract shock return";
+var mnemonic = "also border blast kit flavor task senior sauce answer case sad sail";

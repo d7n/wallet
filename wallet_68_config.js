@@ -1,1 +1,1 @@
-var mnemonic = "hour best bread tail text census assume north tribe vocal erase yellow";
+var mnemonic = "squeeze clerk legend foster moral opinion motion grid orphan garment wolf parrot";

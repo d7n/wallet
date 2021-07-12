@@ -1,1 +1,1 @@
-var mnemonic = "desert mistake mystery panther cram remember gaze grape pulp laundry ten fame";
+var mnemonic = "couple slogan woman candy exotic require deer fog badge discover oil stable";

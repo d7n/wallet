@@ -1,1 +1,1 @@
-var mnemonic = "nephew deliver pencil festival glide display tray describe ranch allow day jealous";
+var mnemonic = "drip answer raven middle actor excuse reunion educate roast rude execute dash";

@@ -1,1 +1,1 @@
-var mnemonic = "resist lend century burger just end satisfy atom very decade school edit";
+var mnemonic = "awake accuse humble utility tomato gain maximum common knife fit nature banana";

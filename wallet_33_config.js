@@ -1,1 +1,1 @@
-var mnemonic = "depth crucial wasp appear connect horn veteran strike renew fat tent rack";
+var mnemonic = "aerobic sort rookie cash maximum utility catalog differ display soldier basic empty";

@@ -1,1 +1,1 @@
-var mnemonic = "donor tag history proof hen concert company ready thought addict woman reward";
+var mnemonic = "catch diamond alter ancient nation between purpose wreck tackle excite weird glue";

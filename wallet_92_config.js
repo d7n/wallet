@@ -1,1 +1,1 @@
-var mnemonic = "pluck gravity myself soccer lava observe figure horror match hockey fee blossom";
+var mnemonic = "crumble crime response skill term girl butter reason turtle purity hen castle";

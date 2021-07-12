@@ -1,1 +1,1 @@
-var mnemonic = "either zone they input avocado winter alert sick fold acquire rude danger";
+var mnemonic = "organ claim region kingdom goose like differ giant cheese apology menu recycle";

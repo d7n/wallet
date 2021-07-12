@@ -1,1 +1,1 @@
-var mnemonic = "pond category there pride fuel upon favorite april shell toward erase educate";
+var mnemonic = "private wrestle sense piece that render bind winter century defense lion beef";

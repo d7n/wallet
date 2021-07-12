@@ -1,1 +1,1 @@
-var mnemonic = "coin garage fix peace pelican blossom oxygen deer pelican test negative ecology";
+var mnemonic = "powder unknown hen panic swim slot adapt drop sugar clever punch ceiling";

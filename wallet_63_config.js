@@ -1,1 +1,1 @@
-var mnemonic = "record diagram help upper maple cousin mom seminar enjoy relief rose capable";
+var mnemonic = "flush eagle kiwi brick fit case special nasty dismiss helmet process love";

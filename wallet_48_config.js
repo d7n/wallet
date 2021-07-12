@@ -1,1 +1,1 @@
-var mnemonic = "unable poet card sweet metal auto venue afraid inch pink inside rack";
+var mnemonic = "foam smart future alpha maze side ignore asset gold enrich crime leave";

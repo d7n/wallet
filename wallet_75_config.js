@@ -1,1 +1,1 @@
-var mnemonic = "degree siege float obscure wash side detail taxi theory material box admit";
+var mnemonic = "grit chief donkey notice term despair ivory flat brand slide parent arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom aspect summer main silver can icon betray carpet behind dilemma toward";
+var mnemonic = "island priority soul analyst fan hire funny route style debris repeat cool";

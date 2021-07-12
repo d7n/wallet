@@ -1,1 +1,1 @@
-var mnemonic = "option eager cart mixed ordinary column cost frame similar film average total";
+var mnemonic = "chronic spider clock stadium pitch usage expire civil potato punch analyst burger";

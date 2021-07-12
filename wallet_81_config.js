@@ -1,1 +1,1 @@
-var mnemonic = "lecture myself narrow attract mimic rigid luxury range network laptop shoe wrestle";
+var mnemonic = "busy spider salute defense cart jelly ceiling sorry delay cycle enforce slide";

@@ -1,1 +1,1 @@
-var mnemonic = "love gauge demand dolphin memory sight spring orchard mimic claw play skate";
+var mnemonic = "morning balance man fan fire wood raise educate rookie stage polar invite";

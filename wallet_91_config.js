@@ -1,1 +1,1 @@
-var mnemonic = "truly payment shove bridge night shuffle october hazard cup act coyote girl";
+var mnemonic = "sample lab language senior hurdle punch pioneer found fox kiss render tornado";

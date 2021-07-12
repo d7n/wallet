@@ -1,1 +1,1 @@
-var mnemonic = "net pencil rigid powder express grid property receive asset submit leaf unveil";
+var mnemonic = "awful govern orient adult such skull echo cube bus peasant zero expand";

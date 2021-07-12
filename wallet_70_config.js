@@ -1,1 +1,1 @@
-var mnemonic = "stomach reduce test transfer rent example anger city trend mother resemble kangaroo";
+var mnemonic = "cream fever glass royal copy afraid elevator label captain blast act zoo";

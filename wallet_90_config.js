@@ -1,1 +1,1 @@
-var mnemonic = "denial gown episode crazy bachelor sign increase alert ritual animal live risk";
+var mnemonic = "erosion own curious ski air ethics aspect glare wink body wire scissors";

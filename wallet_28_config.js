@@ -1,1 +1,1 @@
-var mnemonic = "include soldier tortoise dish trick fine expose popular drip rotate include bench";
+var mnemonic = "faint jealous hello address erase puzzle must napkin topic order topple neglect";

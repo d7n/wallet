@@ -1,1 +1,1 @@
-var mnemonic = "energy liquid flush travel cram hundred relief learn main clutch zoo damp";
+var mnemonic = "tower trial inquiry panic immense device sauce hurry local machine raven elephant";

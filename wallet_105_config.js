@@ -1,1 +1,1 @@
-var mnemonic = "fox marble glue right lawn mobile just tomorrow insect rail trust bonus";
+var mnemonic = "leave rally little toward industry patient deer sail emotion raccoon retreat army";

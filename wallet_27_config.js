@@ -1,1 +1,1 @@
-var mnemonic = "shoulder bargain space silly rocket genius elder tuition connect weird fog aisle";
+var mnemonic = "top liberty surface depth enrich rival melt connect wait proof tide sorry";

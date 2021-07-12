@@ -1,1 +1,1 @@
-var mnemonic = "pilot furnace enhance panda fat sing cycle corn trial nominee half escape";
+var mnemonic = "stadium settle music duty major north light polar excess radar lucky neutral";

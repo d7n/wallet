@@ -1,1 +1,1 @@
-var mnemonic = "faculty eyebrow soccer tourist coconut trade swift fever still noodle blood talent";
+var mnemonic = "dog cruel leisure river fatal flavor cross cushion upset ostrich panda shine";

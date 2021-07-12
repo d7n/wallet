@@ -1,1 +1,1 @@
-var mnemonic = "crash person happy trouble copy river must fantasy occur bench near stadium";
+var mnemonic = "place ghost bench jewel rich lamp rally film kind execute edit fence";

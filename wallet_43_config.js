@@ -1,1 +1,1 @@
-var mnemonic = "lazy slide link bar expect injury treat urban pear midnight pear question";
+var mnemonic = "promote couch valid monitor frozen old canal surprise neglect ride dawn weather";

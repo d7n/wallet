@@ -1,1 +1,1 @@
-var mnemonic = "drink stairs album morning rack throw problem velvet bounce region sample axis";
+var mnemonic = "piano enjoy novel normal furnace enter obvious gallery void protect inside thought";

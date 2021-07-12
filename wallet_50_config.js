@@ -1,1 +1,1 @@
-var mnemonic = "need couch seed utility tuna purity flower cave heavy cart wave trick";
+var mnemonic = "history announce cake blur pistol quick roast equip decrease garment enemy monster";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis arrive robust lion addict casino insane size artwork scout celery easy";
+var mnemonic = "wrist life extend super mushroom approve net panic forward swim addict fortune";

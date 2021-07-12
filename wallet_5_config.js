@@ -1,1 +1,1 @@
-var mnemonic = "insect vacuum race vicious congress stone fire ranch rival brand impact flee";
+var mnemonic = "trap ripple camp include welcome print weird ability leopard tobacco jump endless";

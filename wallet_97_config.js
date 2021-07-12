@@ -1,1 +1,1 @@
-var mnemonic = "flavor reunion power feel later dutch coral permit bike foster life ordinary";
+var mnemonic = "barely carry shoot miracle traffic shoulder crowd night nation saddle stairs little";

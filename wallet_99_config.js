@@ -1,1 +1,1 @@
-var mnemonic = "destroy slogan knife repair town theory elegant upgrade special news duck portion";
+var mnemonic = "yard luxury guitar neutral idle inject arctic smoke child knife novel friend";

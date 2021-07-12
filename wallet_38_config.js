@@ -1,1 +1,1 @@
-var mnemonic = "raven funny rather unfold slab broccoli boring symptom creek safe cereal effort";
+var mnemonic = "melt trick proof pilot swallow tube engage usual fiber merry squirrel matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "grid bunker still member neglect undo middle habit awesome come another twice";
+var mnemonic = "strike famous cycle biology scorpion impact expect drum submit hundred engage help";

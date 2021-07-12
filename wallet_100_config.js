@@ -1,1 +1,1 @@
-var mnemonic = "lady pumpkin setup bone believe display food board garbage aim slogan salt";
+var mnemonic = "describe problem crawl rival cluster text wild salad solution hurdle divorce creek";

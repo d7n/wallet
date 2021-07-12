@@ -1,1 +1,1 @@
-var mnemonic = "organ uniform pepper purpose ozone wealth input under elevator cotton flat broken";
+var mnemonic = "burst convince finger skate side ramp giggle open scatter harsh exile village";

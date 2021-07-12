@@ -1,1 +1,1 @@
-var mnemonic = "plate deny virus wet grit choice seminar across east twist physical vicious";
+var mnemonic = "country install alien lucky crouch paper hover toy citizen address action core";

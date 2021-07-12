@@ -1,1 +1,1 @@
-var mnemonic = "alien anchor decide jar arrange garment shift neck private need dish legend";
+var mnemonic = "general exotic tenant canyon dog plunge say sweet blush category slam cattle";

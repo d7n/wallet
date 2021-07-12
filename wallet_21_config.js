@@ -1,1 +1,1 @@
-var mnemonic = "glimpse gain patient mention borrow talk excuse income program abandon lucky gossip";
+var mnemonic = "useless fashion engage rural enable wife soft dance repair page rifle close";

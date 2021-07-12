@@ -1,1 +1,1 @@
-var mnemonic = "walk win vivid setup pencil prize cost over scatter head crunch anxiety";
+var mnemonic = "boost close economy evoke pupil flame merge ozone cheap lake veteran cabin";

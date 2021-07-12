@@ -1,1 +1,1 @@
-var mnemonic = "misery stamp caution decline blossom crisp matter business state poverty resource anxiety";
+var mnemonic = "lift must crawl faculty giant need uniform kidney blossom wine burger annual";

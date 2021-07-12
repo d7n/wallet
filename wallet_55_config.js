@@ -1,1 +1,1 @@
-var mnemonic = "pilot game shuffle drop item title draft such alien initial indoor patrol";
+var mnemonic = "moral govern adjust cart ancient prosper night remind solid angry love muffin";

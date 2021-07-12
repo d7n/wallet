@@ -1,1 +1,1 @@
-var mnemonic = "gym parrot emotion match language rich copper snap team boost gaze increase";
+var mnemonic = "skull admit tone dynamic march violin peanut chicken praise exit main holiday";

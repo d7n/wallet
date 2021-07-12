@@ -1,1 +1,1 @@
-var mnemonic = "pupil ancient target buddy harbor mention blanket apology garage fringe athlete order";
+var mnemonic = "include language vivid sudden diamond sea vault fog spoon angle robot extra";

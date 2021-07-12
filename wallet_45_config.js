@@ -1,1 +1,1 @@
-var mnemonic = "draft carry answer salmon dance inflict palace labor cup clutch media jaguar";
+var mnemonic = "spirit music attitude marble draw then neutral weekend voyage drama possible bring";

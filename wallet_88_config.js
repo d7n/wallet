@@ -1,1 +1,1 @@
-var mnemonic = "finish sock raccoon few strike shift quarter doctor april napkin direct woman";
+var mnemonic = "autumn alcohol casual valley spoon unknown tomato mobile supply orient exile scale";
