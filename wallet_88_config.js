@@ -1,1 +1,1 @@
-var mnemonic = "canoe humor drama lake narrow page space add light usage extend royal";
+var mnemonic = "again antenna clean topic emerge scrap normal million fish world vapor egg";

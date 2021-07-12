@@ -1,1 +1,1 @@
-var mnemonic = "chapter food swift mistake window vicious style transfer diary agree lens help";
+var mnemonic = "stumble donkey acquire chief chair keep grass bread vault acquire domain decorate";

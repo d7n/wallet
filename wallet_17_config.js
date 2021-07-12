@@ -1,1 +1,1 @@
-var mnemonic = "match have foster wear donkey fall pass zebra forget mutual park frog";
+var mnemonic = "shoe dove need long bar code apology dice spirit dune fuel service";

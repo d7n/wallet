@@ -1,1 +1,1 @@
-var mnemonic = "wide valley pledge theory wreck already trap syrup improve reject culture first";
+var mnemonic = "stairs soldier shuffle master trick mixture agent movie cruel shine garment ribbon";

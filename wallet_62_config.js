@@ -1,1 +1,1 @@
-var mnemonic = "verify aerobic rich artefact image gate exercise risk clap slogan tiger pill";
+var mnemonic = "stereo buffalo barrel habit sick monster settle any debate october tuition actual";

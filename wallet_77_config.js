@@ -1,1 +1,1 @@
-var mnemonic = "avoid curve trend enemy avoid alone cat local arctic party sphere basket";
+var mnemonic = "hazard unknown celery viable elder flavor claim simple ramp truck vast impact";

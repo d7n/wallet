@@ -1,1 +1,1 @@
-var mnemonic = "under giggle motor army champion midnight buffalo tilt fold onion tumble rain";
+var mnemonic = "oil pass process annual desk into apple smoke satoshi prevent drill expose";

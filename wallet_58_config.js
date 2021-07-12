@@ -1,1 +1,1 @@
-var mnemonic = "robust asthma warm pool woman gasp humble avoid nominee stamp pipe ill";
+var mnemonic = "input furnace worry trade better basic zero twenty unable chronic crouch skirt";

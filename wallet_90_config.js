@@ -1,1 +1,1 @@
-var mnemonic = "prosper patrol there mass museum room smoke until jewel salute parent garage";
+var mnemonic = "begin access range say law boy more exile dog disorder aim relief";

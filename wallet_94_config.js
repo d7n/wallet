@@ -1,1 +1,1 @@
-var mnemonic = "merit protect sure better bulk require sun second permit actor nation key";
+var mnemonic = "march husband warm admit three hint order kitchen toast play film credit";

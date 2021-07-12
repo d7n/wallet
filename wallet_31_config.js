@@ -1,1 +1,1 @@
-var mnemonic = "hint thunder clean name crumble ready smoke plate loop derive dose coin";
+var mnemonic = "usage stool chest hire actual step west chef bunker sentence morning cash";

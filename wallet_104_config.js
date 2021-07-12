@@ -1,1 +1,1 @@
-var mnemonic = "weekend tennis south traffic rapid kingdom only holiday project join start grid";
+var mnemonic = "alter avocado unfair sing proof unfair load wave wage note arrest wisdom";

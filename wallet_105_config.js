@@ -1,1 +1,1 @@
-var mnemonic = "drip else amused cannon surround laugh output valid confirm ripple gather second";
+var mnemonic = "harbor leg loud mule black flat repair bus peace sleep elder defense";

@@ -1,1 +1,1 @@
-var mnemonic = "maple strike popular derive wide stay stable hunt eight champion coffee top";
+var mnemonic = "genre foot spirit turtle spare stomach harsh key frame morning long wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "capital category choose chapter over push federal assume issue rescue cargo fragile";
+var mnemonic = "piano capital rib note idea divert web consider various scrub twin sorry";

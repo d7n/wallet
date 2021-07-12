@@ -1,1 +1,1 @@
-var mnemonic = "sunny opinion flavor you layer credit harsh quote bird awkward kiss prepare";
+var mnemonic = "rabbit sand skull filter famous bounce pig erosion broom essence usage cube";

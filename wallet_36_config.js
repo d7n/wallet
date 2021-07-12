@@ -1,1 +1,1 @@
-var mnemonic = "party accident boring donor clap sword subject rug today panther stage notable";
+var mnemonic = "rail that decide cupboard buffalo room cabbage photo scatter filter ankle police";

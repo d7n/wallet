@@ -1,1 +1,1 @@
-var mnemonic = "lamp oven orange install priority layer engage menu basic language begin phone";
+var mnemonic = "flame olympic kid depart tornado twice horror mixed pitch february happy lady";

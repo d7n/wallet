@@ -1,1 +1,1 @@
-var mnemonic = "net speak fall core absorb dumb potato exclude squirrel hotel across segment";
+var mnemonic = "enroll case above success season shove decade fluid loyal brand jelly always";

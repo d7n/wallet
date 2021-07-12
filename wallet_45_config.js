@@ -1,1 +1,1 @@
-var mnemonic = "pluck render teach loyal dragon rotate crash once turn leader radar void";
+var mnemonic = "manage west witness puppy search soup gravity grain muscle apart obscure build";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge energy lunch heart found gas filter craft absorb piano say trip";
+var mnemonic = "valid coyote sample system venture gauge drama box hurt organ wasp earth";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate much valve unknown few soda spare globe doctor aware fork coral";
+var mnemonic = "piano athlete merit vital impose evidence weasel canal ordinary filter hunt three";

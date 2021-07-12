@@ -1,1 +1,1 @@
-var mnemonic = "guard glow disorder rack knock erase sauce victory receive lobster relax dizzy";
+var mnemonic = "hood card between audit kidney fossil basket essay wire member cable excite";

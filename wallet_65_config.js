@@ -1,1 +1,1 @@
-var mnemonic = "easily couch drive parrot few ticket path snack present middle brush expect";
+var mnemonic = "age buffalo minor gospel term enjoy key pool wonder behave whip decline";

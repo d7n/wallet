@@ -1,1 +1,1 @@
-var mnemonic = "blind city fury tip battle unit belt monkey junk finger unaware employ";
+var mnemonic = "manual film dumb script divide elevator another project camera return chase toy";

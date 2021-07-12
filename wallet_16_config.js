@@ -1,1 +1,1 @@
-var mnemonic = "gallery float today broken walk coil best suggest prepare nation gift bag";
+var mnemonic = "tennis roof above affair join stone life dress rally media carry gap";

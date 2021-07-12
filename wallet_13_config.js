@@ -1,1 +1,1 @@
-var mnemonic = "among bunker surface taxi harvest situate supreme shiver tragic accident margin stereo";
+var mnemonic = "that great exercise control improve mandate zone vapor crime list across planet";

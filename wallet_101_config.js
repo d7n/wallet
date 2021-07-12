@@ -1,1 +1,1 @@
-var mnemonic = "decide safe chaos puppy venue parade lyrics verify ankle fitness provide fetch";
+var mnemonic = "turn neutral faculty segment funny picture edit gallery vast recall pistol cheese";

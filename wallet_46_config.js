@@ -1,1 +1,1 @@
-var mnemonic = "often quiz goose eternal shove pact hand atom gun van marble picture";
+var mnemonic = "prefer waste iron design anchor weekend paddle bag topic diamond together gain";

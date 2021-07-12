@@ -1,1 +1,1 @@
-var mnemonic = "another danger tide erode topic update buffalo stable appear defy say ice";
+var mnemonic = "expire hurt stadium busy curious equip found ozone describe snow essay page";

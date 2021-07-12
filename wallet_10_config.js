@@ -1,1 +1,1 @@
-var mnemonic = "effort asset action sleep area drive gesture labor foam demise milk truck";
+var mnemonic = "force critic father frown muscle mean replace vast safe reduce media quit";

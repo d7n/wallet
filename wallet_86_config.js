@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog broom story client must onion vicious bargain boat rally garlic awkward";
+var mnemonic = "radar palace exclude sentence mercy satisfy toddler give wasp twelve increase toast";

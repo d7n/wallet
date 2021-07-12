@@ -1,1 +1,1 @@
-var mnemonic = "two arena wall ahead cactus atom wrap tree rely ankle blood tube";
+var mnemonic = "filter hazard erase talk foot dismiss garden funny edge flash news blouse";

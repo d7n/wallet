@@ -1,1 +1,1 @@
-var mnemonic = "mixed release cause bird city shock curtain potato melt dose spend narrow";
+var mnemonic = "eternal enjoy any confirm wolf hair repair ocean filter thought math brave";

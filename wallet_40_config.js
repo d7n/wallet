@@ -1,1 +1,1 @@
-var mnemonic = "plate galaxy champion drip tissue piece valve rebuild ethics maze cigar debris";
+var mnemonic = "know denial weather faint pencil either mad old angry depend giggle alley";

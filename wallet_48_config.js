@@ -1,1 +1,1 @@
-var mnemonic = "coast multiply only digital replace stadium scatter release cloud actress voice top";
+var mnemonic = "sell gasp live thought column they cheese steak worth alien aim medal";

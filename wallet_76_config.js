@@ -1,1 +1,1 @@
-var mnemonic = "hold earth stuff mystery snap field weapon trigger galaxy crew hobby valve";
+var mnemonic = "garlic this joy scout fly level solution magnet glimpse mouse govern almost";

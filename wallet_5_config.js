@@ -1,1 +1,1 @@
-var mnemonic = "fringe album unhappy expose disagree industry local rabbit narrow fury wrap parade";
+var mnemonic = "confirm dragon unit cruel melody sibling assist palace you bread timber away";

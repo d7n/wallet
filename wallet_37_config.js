@@ -1,1 +1,1 @@
-var mnemonic = "drift merge gauge emotion blast defense note favorite confirm gentle acid plastic";
+var mnemonic = "piece follow sand actual wrist foot fashion notice arctic alarm pulp amount";

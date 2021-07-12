@@ -1,1 +1,1 @@
-var mnemonic = "gold card able soft grunt novel grief tuition try pretty inner giggle";
+var mnemonic = "frost spirit attract cook aware wait domain project undo torch harbor quit";

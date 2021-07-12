@@ -1,1 +1,1 @@
-var mnemonic = "town undo field moon drop earth bus blood author orient unusual around";
+var mnemonic = "salute fiber rice memory farm supply keep inquiry love stove silk margin";

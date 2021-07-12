@@ -1,1 +1,1 @@
-var mnemonic = "cream conduct double will stove sport supreme essence basic monitor dragon media";
+var mnemonic = "hard final inject cost thrive speak charge movie human edge inner cry";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue staff special liberty connect deer comic inside hazard reward walk unknown";
+var mnemonic = "front ceiling range soon film material repair cliff dizzy never illness clog";

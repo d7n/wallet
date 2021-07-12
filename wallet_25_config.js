@@ -1,1 +1,1 @@
-var mnemonic = "neck slide market void they alley elegant erode initial black lunch high";
+var mnemonic = "office filter fluid trim design satisfy civil moment merit raise marble holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "job secret toy differ iron still leave entry immense tourist sand length";
+var mnemonic = "legal scout choice syrup chuckle ride leave wedding license render solution silk";

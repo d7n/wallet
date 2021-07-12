@@ -1,1 +1,1 @@
-var mnemonic = "coyote error potato short travel color artist reopen monitor help excuse chief";
+var mnemonic = "purchase usage oak lunar drink artefact happy cream number dog insect thank";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie column either solid describe talent large cluster cradle orbit trip table";
+var mnemonic = "yellow firm onion gadget armed sunset brief wheat crush goddess club gossip";

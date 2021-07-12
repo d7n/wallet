@@ -1,1 +1,1 @@
-var mnemonic = "peanut vehicle pigeon job fade notice phone disagree zoo mushroom whale dizzy";
+var mnemonic = "robust scare between hard dinner boat quit boat airport flash eager number";

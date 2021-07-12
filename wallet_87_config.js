@@ -1,1 +1,1 @@
-var mnemonic = "spin before left argue brown dutch cargo popular salad cruel twin gym";
+var mnemonic = "absent vehicle drive track mixture turkey obtain cluster oyster maple debris able";

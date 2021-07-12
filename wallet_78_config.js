@@ -1,1 +1,1 @@
-var mnemonic = "stomach trust try spirit fresh twice shield ahead two latin butter icon";
+var mnemonic = "area print quick hill account name uncle switch rubber phrase army middle";

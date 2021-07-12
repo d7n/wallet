@@ -1,1 +1,1 @@
-var mnemonic = "chronic blossom relief blade comfort unknown divorce clinic belt endorse library laptop";
+var mnemonic = "lonely nuclear barely asset soap luggage winner black split labor tent ghost";

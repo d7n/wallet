@@ -1,1 +1,1 @@
-var mnemonic = "spatial car grit battle better neglect illness seminar extra boat hollow impose";
+var mnemonic = "side property sketch rug similar duck spirit tiny tired science senior rabbit";

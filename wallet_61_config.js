@@ -1,1 +1,1 @@
-var mnemonic = "ball chapter spoon stamp promote volume visa camp crystal market wide retire";
+var mnemonic = "snap course satoshi valve social jeans pistol rug blur hedgehog armor wise";

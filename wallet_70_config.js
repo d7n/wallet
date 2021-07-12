@@ -1,1 +1,1 @@
-var mnemonic = "card veteran work valve yard detect direct second deny version please miracle";
+var mnemonic = "federal next use novel sphere peace weekend bind upper typical auto pioneer";

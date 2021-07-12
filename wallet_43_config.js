@@ -1,1 +1,1 @@
-var mnemonic = "gym skate pen isolate high jewel oxygen meadow face drop similar verify";
+var mnemonic = "strong enemy shiver nature sphere mountain shaft produce silly game spend wool";

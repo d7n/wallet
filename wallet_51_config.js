@@ -1,1 +1,1 @@
-var mnemonic = "twist alone laptop hat soccer pulp language open limit boss element dragon";
+var mnemonic = "frame click destroy left behave inspire toy lonely check agree mobile logic";

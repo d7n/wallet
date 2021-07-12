@@ -1,1 +1,1 @@
-var mnemonic = "sound panic slice mother print message amazing bundle limb fan vendor relief";
+var mnemonic = "advice abstract clinic family endless vital coast peanut security dumb cheap list";

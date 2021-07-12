@@ -1,1 +1,1 @@
-var mnemonic = "trouble vast hawk math bright despair sentence theory stand above extend like";
+var mnemonic = "lucky measure video fabric debris fantasy kit expect add orange garlic side";

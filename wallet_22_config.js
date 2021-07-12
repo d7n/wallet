@@ -1,1 +1,1 @@
-var mnemonic = "gloom lucky final next grocery since tired friend expose toilet exotic embody";
+var mnemonic = "wrap empower feed tomato exit clean fee pilot window rhythm gadget guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "punch defense trouble alpha subway surprise fold arrange sort artwork puppy ivory";
+var mnemonic = "approve hair lunar transfer reopen lyrics attract track moment sure praise shadow";

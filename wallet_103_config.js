@@ -1,1 +1,1 @@
-var mnemonic = "rubber impact addict spin only annual grow lab pumpkin exclude someone dance";
+var mnemonic = "nature welcome second usual cradle scene rescue result sound strong van penalty";

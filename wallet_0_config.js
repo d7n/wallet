@@ -1,1 +1,1 @@
-var mnemonic = "oblige chronic middle used speak valid beauty jar gorilla harsh poem vanish";
+var mnemonic = "scout keen exercise when install mobile divide pink exist estate riot switch";

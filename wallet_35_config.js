@@ -1,1 +1,1 @@
-var mnemonic = "decorate dawn vague sword gown version true gesture march dirt aunt artwork";
+var mnemonic = "pepper tank cement scale drastic vacuum bridge amused bring scheme mail brass";

@@ -1,1 +1,1 @@
-var mnemonic = "misery episode use pumpkin credit lock stone ability input gossip neglect wreck";
+var mnemonic = "lesson frown tiny winner jeans gym similar analyst army marriage spray manage";

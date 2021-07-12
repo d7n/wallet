@@ -1,1 +1,1 @@
-var mnemonic = "arrow pole proof muscle innocent brush banana attract budget pair together spare";
+var mnemonic = "peanut explain true predict normal machine unknown original swarm never fury rule";

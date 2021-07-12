@@ -1,1 +1,1 @@
-var mnemonic = "roof above image object pioneer extra pigeon charge pear confirm mammal harbor";
+var mnemonic = "raise sister weather patch grab whip rack episode catalog define market spy";

@@ -1,1 +1,1 @@
-var mnemonic = "edit oblige economy better glare prize style youth student road review tail";
+var mnemonic = "amount girl lens consider total aware bomb pottery earn fossil kiss title";

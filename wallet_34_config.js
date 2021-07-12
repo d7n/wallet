@@ -1,1 +1,1 @@
-var mnemonic = "sound erode brush shy cargo rebuild roof peasant urban practice asset public";
+var mnemonic = "essence basket west snow armor submit assault venue cement print theme penalty";

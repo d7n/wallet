@@ -1,1 +1,1 @@
-var mnemonic = "heart mystery grief ancient unveil wear dirt merry owner exotic where follow";
+var mnemonic = "local tag long deposit scare slow shove clean trumpet bridge derive universe";

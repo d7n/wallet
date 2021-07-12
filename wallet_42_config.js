@@ -1,1 +1,1 @@
-var mnemonic = "asset stool guilt public glass warfare calm poverty stool shrug balance more";
+var mnemonic = "flame search defy promote stereo control friend zoo sunny fix want immense";

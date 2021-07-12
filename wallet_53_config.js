@@ -1,1 +1,1 @@
-var mnemonic = "polar orient soon foam focus gorilla quit upon soon rack ability elite";
+var mnemonic = "permit gallery trick ignore phone bacon shop drink duck blood resist grit";

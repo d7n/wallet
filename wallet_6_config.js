@@ -1,1 +1,1 @@
-var mnemonic = "dose ripple diary tobacco cook across sadness patch cave nation meat blouse";
+var mnemonic = "piano bind scrap shrug office brother capable oil sentence sorry cluster trip";

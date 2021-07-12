@@ -1,1 +1,1 @@
-var mnemonic = "script betray pipe check icon sight jewel client cloth kick dawn offer";
+var mnemonic = "guide wink zero amateur fatal avocado eye annual virtual zone lottery school";

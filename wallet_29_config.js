@@ -1,1 +1,1 @@
-var mnemonic = "analyst unknown junk ankle blossom response input aware stereo april heart panic";
+var mnemonic = "rhythm double argue cliff another work critic left love someone sustain trigger";

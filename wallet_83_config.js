@@ -1,1 +1,1 @@
-var mnemonic = "face pitch blood acoustic current social body cigar spin recipe always drop";
+var mnemonic = "suggest safe either asset shadow wasp cotton heart leg chalk tooth garment";

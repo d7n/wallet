@@ -1,1 +1,1 @@
-var mnemonic = "mail crumble famous field wine club behave book bone magic agent gentle";
+var mnemonic = "hole night bridge step palm spell trash say mammal flock swim saddle";

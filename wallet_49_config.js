@@ -1,1 +1,1 @@
-var mnemonic = "curious hidden say embrace swallow power isolate tent anger draw recipe month";
+var mnemonic = "device turtle that settle slow nature awake judge slot render journey access";

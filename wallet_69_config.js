@@ -1,1 +1,1 @@
-var mnemonic = "just gym smart fork actor since fluid process confirm desert ketchup disorder";
+var mnemonic = "game hill ill weapon whip trash lock fiber lab economy ready orange";

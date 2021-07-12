@@ -1,1 +1,1 @@
-var mnemonic = "initial plastic paddle acid pyramid earth bind chicken truck exit world similar";
+var mnemonic = "term camp tornado use session blue park glove close genre bonus salute";

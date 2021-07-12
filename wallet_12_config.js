@@ -1,1 +1,1 @@
-var mnemonic = "kiss afraid office item kiss opera jewel return essence cupboard rally company";
+var mnemonic = "divorce wedding exit wing series pigeon alcohol thank rotate metal limit rally";

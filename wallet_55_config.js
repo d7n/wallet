@@ -1,1 +1,1 @@
-var mnemonic = "pool snack cattle lobster kid crisp mountain farm alert merry begin coil";
+var mnemonic = "impulse tiger impose brain peasant manual riot night milk drip angry plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "step supply immune fire weapon supply add screen wave before board camp";
+var mnemonic = "maze quick level inmate now message live dice rough devote rebel caught";

@@ -1,1 +1,1 @@
-var mnemonic = "visual write middle stand fatal pact crunch ladder trick random curtain sad";
+var mnemonic = "stomach profit envelope video wait seven talent acid dash carbon zoo scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "movie gasp educate join surge useful hood civil siren gospel again priority";
+var mnemonic = "edit sun forest armor phone matrix friend thank brief term again come";

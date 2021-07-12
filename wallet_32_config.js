@@ -1,1 +1,1 @@
-var mnemonic = "desert setup piano hedgehog mango advice spot fix garden such pupil normal";
+var mnemonic = "raven sing later toy void season cabin junk since ignore place limb";

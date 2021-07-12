@@ -1,1 +1,1 @@
-var mnemonic = "stairs proud snake tragic trick begin manage pioneer march fork drop garage";
+var mnemonic = "fault gossip pipe casino cool banner forest cycle increase join speed scan";

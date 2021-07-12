@@ -1,1 +1,1 @@
-var mnemonic = "chronic shoe cigar thing cricket pupil lyrics brain jump eagle response gasp";
+var mnemonic = "another much afford skirt heavy left account width embark daughter reason pear";

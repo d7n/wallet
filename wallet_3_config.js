@@ -1,1 +1,1 @@
-var mnemonic = "coil pelican kiwi horn buffalo purpose fee guide fall gasp trash this";
+var mnemonic = "predict voice metal egg spatial offer outer silent goat exclude drip unfair";

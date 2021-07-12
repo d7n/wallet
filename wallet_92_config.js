@@ -1,1 +1,1 @@
-var mnemonic = "veteran funny south cruise bottom across elder camp kangaroo royal panel leg";
+var mnemonic = "supply home fatal ticket strategy donate dinner pull track crucial game shield";

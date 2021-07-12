@@ -1,1 +1,1 @@
-var mnemonic = "perfect ball raven near make melody find fly square endorse farm tragic";
+var mnemonic = "rocket dice wait smoke swim awful drop buddy wink edge rebuild glass";

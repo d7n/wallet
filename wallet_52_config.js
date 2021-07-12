@@ -1,1 +1,1 @@
-var mnemonic = "video tackle decade maze liberty donate snow fit area install fame security";
+var mnemonic = "kind regular top siren voyage notice note bullet future airport vanish teach";

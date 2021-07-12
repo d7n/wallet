@@ -1,1 +1,1 @@
-var mnemonic = "latin lava bus napkin lift tuna piece copy woman economy balance angle";
+var mnemonic = "scout sun come grow clog dice zone glass improve you void aisle";

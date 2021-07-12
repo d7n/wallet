@@ -1,1 +1,1 @@
-var mnemonic = "pepper reduce hazard stadium clog badge habit example fuel amateur era blast";
+var mnemonic = "creek weekend crew father labor before around favorite jealous delay organ panda";

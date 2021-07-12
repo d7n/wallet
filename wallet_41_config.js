@@ -1,1 +1,1 @@
-var mnemonic = "until patient glimpse priority identify rug then follow auction explain pitch medal";
+var mnemonic = "treat shove happy stereo spin tell garment rug rug wonder shop reject";
