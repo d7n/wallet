@@ -1,1 +1,1 @@
-var mnemonic = "marble stuff raise ozone silk evoke powder defense black grace pass vital";
+var mnemonic = "sound erode brush shy cargo rebuild roof peasant urban practice asset public";

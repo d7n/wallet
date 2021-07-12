@@ -1,1 +1,1 @@
-var mnemonic = "bunker into eternal salt also quality flock hurry caught crisp advice museum";
+var mnemonic = "heart mystery grief ancient unveil wear dirt merry owner exotic where follow";

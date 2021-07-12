@@ -1,1 +1,1 @@
-var mnemonic = "basic stable pledge one yard poem fossil despair vessel budget equip sign";
+var mnemonic = "hint thunder clean name crumble ready smoke plate loop derive dose coin";

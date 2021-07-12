@@ -1,1 +1,1 @@
-var mnemonic = "old ribbon negative hire gaze stable word minor jazz fruit ancient mandate";
+var mnemonic = "plunge energy lunch heart found gas filter craft absorb piano say trip";

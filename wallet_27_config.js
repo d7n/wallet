@@ -1,1 +1,1 @@
-var mnemonic = "midnight render midnight monster bird vapor meat spawn bright keen honey item";
+var mnemonic = "toss scan eight left elegant coast shove culture cycle enforce hazard around";

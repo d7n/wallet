@@ -1,1 +1,1 @@
-var mnemonic = "renew small planet remove deny rich define better exotic ahead vivid observe";
+var mnemonic = "perfect ball raven near make melody find fly square endorse farm tragic";

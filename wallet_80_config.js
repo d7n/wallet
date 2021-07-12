@@ -1,1 +1,1 @@
-var mnemonic = "siren cable snack ancient quantum mosquito collect cook rather gun crowd void";
+var mnemonic = "coyote error potato short travel color artist reopen monitor help excuse chief";

@@ -1,1 +1,1 @@
-var mnemonic = "day wing mass saddle amazing review apart museum okay quantum behave sell";
+var mnemonic = "kiss afraid office item kiss opera jewel return essence cupboard rally company";

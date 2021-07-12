@@ -1,1 +1,1 @@
-var mnemonic = "fringe maid crater dilemma toast stereo sheriff blood glass palace swim excess";
+var mnemonic = "maple strike popular derive wide stay stable hunt eight champion coffee top";

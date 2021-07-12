@@ -1,1 +1,1 @@
-var mnemonic = "review blush plate leg image nuclear tilt steak cliff umbrella penalty reject";
+var mnemonic = "pool snack cattle lobster kid crisp mountain farm alert merry begin coil";

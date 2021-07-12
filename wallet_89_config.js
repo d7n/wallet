@@ -1,1 +1,1 @@
-var mnemonic = "inform february pyramid juice flame guess heavy process alcohol focus brain soup";
+var mnemonic = "trouble vast hawk math bright despair sentence theory stand above extend like";

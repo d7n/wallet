@@ -1,1 +1,1 @@
-var mnemonic = "hawk civil fantasy push tumble elbow claim cattle galaxy erupt calm soccer";
+var mnemonic = "often quiz goose eternal shove pact hand atom gun van marble picture";

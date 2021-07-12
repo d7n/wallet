@@ -1,1 +1,1 @@
-var mnemonic = "inside hat crash enrich happy present segment twice offer please upon wet";
+var mnemonic = "estate whip hollow floor apology shallow ramp reflect person orphan recipe sound";

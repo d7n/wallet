@@ -1,1 +1,1 @@
-var mnemonic = "flavor scare card please trick reveal chimney thrive access plug dial flash";
+var mnemonic = "pepper reduce hazard stadium clog badge habit example fuel amateur era blast";

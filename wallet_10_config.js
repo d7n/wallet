@@ -1,1 +1,1 @@
-var mnemonic = "hat quote shock confirm aim addict loan detect reunion struggle coyote ring";
+var mnemonic = "effort asset action sleep area drive gesture labor foam demise milk truck";

@@ -1,1 +1,1 @@
-var mnemonic = "banner float fog profit donkey lizard fame cattle drive outdoor slice hundred";
+var mnemonic = "sunny opinion flavor you layer credit harsh quote bird awkward kiss prepare";

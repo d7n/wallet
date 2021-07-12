@@ -1,1 +1,1 @@
-var mnemonic = "front recycle fashion proof spice million proud elegant awake cup bean alien";
+var mnemonic = "pluck render teach loyal dragon rotate crash once turn leader radar void";

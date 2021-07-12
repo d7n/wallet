@@ -1,1 +1,1 @@
-var mnemonic = "crisp curtain volcano scorpion antique fix this ignore about region culture awesome";
+var mnemonic = "easily couch drive parrot few ticket path snack present middle brush expect";

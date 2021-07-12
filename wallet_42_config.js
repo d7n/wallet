@@ -1,1 +1,1 @@
-var mnemonic = "hurry hurdle mandate culture attend crowd prison quarter orphan identify amateur cycle";
+var mnemonic = "asset stool guilt public glass warfare calm poverty stool shrug balance more";

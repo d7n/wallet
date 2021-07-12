@@ -1,1 +1,1 @@
-var mnemonic = "very rude cattle inquiry quit allow reward fresh oven begin shaft agree";
+var mnemonic = "ball chapter spoon stamp promote volume visa camp crystal market wide retire";

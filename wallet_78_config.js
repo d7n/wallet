@@ -1,1 +1,1 @@
-var mnemonic = "leopard barrel stick narrow raw steel shine fan festival eternal female disorder";
+var mnemonic = "stomach trust try spirit fresh twice shield ahead two latin butter icon";

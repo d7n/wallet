@@ -1,1 +1,1 @@
-var mnemonic = "tide wheat reason soccer nation husband response drive buddy install caution buyer";
+var mnemonic = "coast multiply only digital replace stadium scatter release cloud actress voice top";

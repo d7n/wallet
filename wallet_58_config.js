@@ -1,1 +1,1 @@
-var mnemonic = "crawl pause crystal property ripple film space process auto tortoise situate pilot";
+var mnemonic = "robust asthma warm pool woman gasp humble avoid nominee stamp pipe ill";

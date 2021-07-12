@@ -1,1 +1,1 @@
-var mnemonic = "youth song indicate loyal box oak toy element dilemma journey topple joy";
+var mnemonic = "job secret toy differ iron still leave entry immense tourist sand length";

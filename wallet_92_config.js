@@ -1,1 +1,1 @@
-var mnemonic = "chunk cigar obey execute later situate bargain jaguar alarm father wasp universe";
+var mnemonic = "veteran funny south cruise bottom across elder camp kangaroo royal panel leg";

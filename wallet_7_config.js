@@ -1,1 +1,1 @@
-var mnemonic = "glass snap travel betray taxi display desk coach pizza learn decorate steak";
+var mnemonic = "rescue staff special liberty connect deer comic inside hazard reward walk unknown";

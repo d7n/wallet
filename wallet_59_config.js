@@ -1,1 +1,1 @@
-var mnemonic = "mistake winter blind region bench gospel foster conduct impulse below palm absent";
+var mnemonic = "manage smoke jazz lonely buddy fine drama cash gravity beauty emotion panda";

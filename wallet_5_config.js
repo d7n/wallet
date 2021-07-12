@@ -1,1 +1,1 @@
-var mnemonic = "rural wreck meat enough miss satoshi confirm action smart such short engage";
+var mnemonic = "fringe album unhappy expose disagree industry local rabbit narrow fury wrap parade";

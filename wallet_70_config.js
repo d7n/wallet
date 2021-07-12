@@ -1,1 +1,1 @@
-var mnemonic = "main moment stage genius discover flash tube list prosper plate destroy borrow";
+var mnemonic = "card veteran work valve yard detect direct second deny version please miracle";

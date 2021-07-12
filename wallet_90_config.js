@@ -1,1 +1,1 @@
-var mnemonic = "usual song chair language wealth again choose mercy sausage skull drop toast";
+var mnemonic = "prosper patrol there mass museum room smoke until jewel salute parent garage";

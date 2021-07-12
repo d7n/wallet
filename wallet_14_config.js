@@ -1,1 +1,1 @@
-var mnemonic = "frown coral burger keen certain prize mammal toe adjust obscure hybrid critic";
+var mnemonic = "script betray pipe check icon sight jewel client cloth kick dawn offer";

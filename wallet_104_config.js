@@ -1,1 +1,1 @@
-var mnemonic = "bulk wrist payment purity domain design custom salt knife metal effort dog";
+var mnemonic = "weekend tennis south traffic rapid kingdom only holiday project join start grid";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist plug border nature gadget truth volcano inflict close ten heart crack";
+var mnemonic = "sorry pitch job table close family engage raw can paper sample liar";

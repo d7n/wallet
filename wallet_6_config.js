@@ -1,1 +1,1 @@
-var mnemonic = "tomato first frozen warfare goose brass appear lunch desk immune thunder brave";
+var mnemonic = "dose ripple diary tobacco cook across sadness patch cave nation meat blouse";

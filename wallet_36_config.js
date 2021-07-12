@@ -1,1 +1,1 @@
-var mnemonic = "mandate second certain legal capital fit awesome cousin family assault palm shoot";
+var mnemonic = "party accident boring donor clap sword subject rug today panther stage notable";

@@ -1,1 +1,1 @@
-var mnemonic = "fever pigeon park number position window shop proud vicious deal brain immense";
+var mnemonic = "merit protect sure better bulk require sun second permit actor nation key";

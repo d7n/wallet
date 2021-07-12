@@ -1,1 +1,1 @@
-var mnemonic = "copper rescue grain hazard spider immense wish craft captain pyramid scout describe";
+var mnemonic = "town undo field moon drop earth bus blood author orient unusual around";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel absorb zone describe nominee another loop luxury raccoon help curious fix";
+var mnemonic = "rookie column either solid describe talent large cluster cradle orbit trip table";

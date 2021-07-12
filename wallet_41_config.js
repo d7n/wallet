@@ -1,1 +1,1 @@
-var mnemonic = "exchange initial topic pepper save plastic usage dash remain muscle ghost process";
+var mnemonic = "until patient glimpse priority identify rug then follow auction explain pitch medal";

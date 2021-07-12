@@ -1,1 +1,1 @@
-var mnemonic = "mosquito sail end energy lucky iron area slam space charge gold peanut";
+var mnemonic = "gloom lucky final next grocery since tired friend expose toilet exotic embody";

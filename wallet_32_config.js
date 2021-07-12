@@ -1,1 +1,1 @@
-var mnemonic = "blanket member broken math nothing crack wait rival dress grant clever talk";
+var mnemonic = "desert setup piano hedgehog mango advice spot fix garden such pupil normal";

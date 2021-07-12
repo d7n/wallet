@@ -1,1 +1,1 @@
-var mnemonic = "wrist toy neglect share essence uphold echo music below video team adjust";
+var mnemonic = "chapter food swift mistake window vicious style transfer diary agree lens help";

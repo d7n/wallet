@@ -1,1 +1,1 @@
-var mnemonic = "tent until syrup float rhythm carbon refuse drum speak fade combine denial";
+var mnemonic = "canoe humor drama lake narrow page space add light usage extend royal";

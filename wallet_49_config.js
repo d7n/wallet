@@ -1,1 +1,1 @@
-var mnemonic = "height moment review doctor trend matrix relax bamboo welcome roof trash milk";
+var mnemonic = "curious hidden say embrace swallow power isolate tent anger draw recipe month";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle fly powder vicious wheat eternal position exhibit syrup snap relief fetch";
+var mnemonic = "mixed release cause bird city shock curtain potato melt dose spend narrow";

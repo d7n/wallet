@@ -1,1 +1,1 @@
-var mnemonic = "slab duck thunder stage put sun shadow oil discover project stereo tennis";
+var mnemonic = "spatial car grit battle better neglect illness seminar extra boat hollow impose";

@@ -1,1 +1,1 @@
-var mnemonic = "field local fall cost mistake doll tackle ancient oppose hair thumb board";
+var mnemonic = "among bunker surface taxi harvest situate supreme shiver tragic accident margin stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "attend october member joy gravity raise angle kid category inmate inherit bracket";
+var mnemonic = "latin lava bus napkin lift tuna piece copy woman economy balance angle";

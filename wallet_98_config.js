@@ -1,1 +1,1 @@
-var mnemonic = "timber drip rookie someone letter used basic boat mean sign topic warrior";
+var mnemonic = "step supply immune fire weapon supply add screen wave before board camp";

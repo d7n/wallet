@@ -1,1 +1,1 @@
-var mnemonic = "jaguar relief seminar master ecology weird deputy alcohol drift olympic east bag";
+var mnemonic = "another danger tide erode topic update buffalo stable appear defy say ice";

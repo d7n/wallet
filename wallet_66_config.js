@@ -1,1 +1,1 @@
-var mnemonic = "region story school plastic moon lumber real version satoshi gasp judge whisper";
+var mnemonic = "punch defense trouble alpha subway surprise fold arrange sort artwork puppy ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "fog elite thought call talent expose razor prepare absorb sniff must proud";
+var mnemonic = "gold card able soft grunt novel grief tuition try pretty inner giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid swallow nose lazy possible mandate ball garage attitude regret defense cigar";
+var mnemonic = "swarm start miss travel cabbage uniform ramp shallow steel language enough invite";

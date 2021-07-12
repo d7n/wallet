@@ -1,1 +1,1 @@
-var mnemonic = "exotic forward sausage more strike hurdle visit burger sound trash acquire first";
+var mnemonic = "gym skate pen isolate high jewel oxygen meadow face drop similar verify";

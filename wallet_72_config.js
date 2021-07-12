@@ -1,1 +1,1 @@
-var mnemonic = "embody ignore address insane diet mystery machine twist manage replace inhale horror";
+var mnemonic = "edit oblige economy better glare prize style youth student road review tail";

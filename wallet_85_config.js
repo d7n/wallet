@@ -1,1 +1,1 @@
-var mnemonic = "clown camp hundred coach tooth fortune riot retreat uphold fantasy country gain";
+var mnemonic = "roof above image object pioneer extra pigeon charge pear confirm mammal harbor";

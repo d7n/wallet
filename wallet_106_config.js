@@ -1,1 +1,1 @@
-var mnemonic = "manage napkin bargain pair half bamboo foam apology matter end awesome cry";
+var mnemonic = "thrive hawk gown cook divert focus bomb aim nephew nasty wolf lock";

@@ -1,1 +1,1 @@
-var mnemonic = "cause include trigger ramp double crazy leisure cage upon maze century age";
+var mnemonic = "face pitch blood acoustic current social body cigar spin recipe always drop";

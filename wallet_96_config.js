@@ -1,1 +1,1 @@
-var mnemonic = "breeze trim assault culture imitate giant leg extra supply fan slogan aunt";
+var mnemonic = "initial plastic paddle acid pyramid earth bind chicken truck exit world similar";

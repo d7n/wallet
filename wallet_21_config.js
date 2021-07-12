@@ -1,1 +1,1 @@
-var mnemonic = "good stone galaxy tiger measure divide egg true yard run sudden diary";
+var mnemonic = "reduce dust jacket verb summer belt nature false drive wash deposit online";

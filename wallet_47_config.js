@@ -1,1 +1,1 @@
-var mnemonic = "march toast end crane family rely dice desert switch scissors cat van";
+var mnemonic = "peanut vehicle pigeon job fade notice phone disagree zoo mushroom whale dizzy";

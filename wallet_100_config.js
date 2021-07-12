@@ -1,1 +1,1 @@
-var mnemonic = "brother rather number various warfare culture safe cabbage stove visa identify fit";
+var mnemonic = "visual write middle stand fatal pact crunch ladder trick random curtain sad";

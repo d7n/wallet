@@ -1,1 +1,1 @@
-var mnemonic = "sort garlic hollow coyote electric leaf north water heart butter pigeon add";
+var mnemonic = "video tackle decade maze liberty donate snow fit area install fame security";

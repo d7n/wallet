@@ -1,1 +1,1 @@
-var mnemonic = "endorse fiber bubble size main supply three eternal coast ability merge venture";
+var mnemonic = "capital category choose chapter over push federal assume issue rescue cargo fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol cross recall scene orchard raven fork exercise unhappy lake panel trash";
+var mnemonic = "avoid curve trend enemy avoid alone cat local arctic party sphere basket";

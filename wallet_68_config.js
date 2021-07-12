@@ -1,1 +1,1 @@
-var mnemonic = "husband planet guide people recall rescue coin cluster ability wet game advice";
+var mnemonic = "mail crumble famous field wine club behave book bone magic agent gentle";

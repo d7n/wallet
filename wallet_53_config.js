@@ -1,1 +1,1 @@
-var mnemonic = "myself journey home faint magic glad rough tool sauce illness motion major";
+var mnemonic = "polar orient soon foam focus gorilla quit upon soon rack ability elite";

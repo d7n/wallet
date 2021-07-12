@@ -1,1 +1,1 @@
-var mnemonic = "guide goose occur domain aspect lonely buddy describe text whip ensure disorder";
+var mnemonic = "neck slide market void they alley elegant erode initial black lunch high";

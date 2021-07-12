@@ -1,1 +1,1 @@
-var mnemonic = "mirror gossip cruel fiber rapid autumn december disagree job way daughter eyebrow";
+var mnemonic = "oblige chronic middle used speak valid beauty jar gorilla harsh poem vanish";

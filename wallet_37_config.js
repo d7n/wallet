@@ -1,1 +1,1 @@
-var mnemonic = "build donate scrap moment matter fit team grief rally loud budget elbow";
+var mnemonic = "drift merge gauge emotion blast defense note favorite confirm gentle acid plastic";

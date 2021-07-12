@@ -1,1 +1,1 @@
-var mnemonic = "cherry meat summer walnut shop venture veteran topic onion slim talent deputy";
+var mnemonic = "cream conduct double will stove sport supreme essence basic monitor dragon media";

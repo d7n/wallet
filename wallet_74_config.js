@@ -1,1 +1,1 @@
-var mnemonic = "deny disagree civil pair myth diet issue lock announce cute festival outer";
+var mnemonic = "movie gasp educate join surge useful hood civil siren gospel again priority";

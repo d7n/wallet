@@ -1,1 +1,1 @@
-var mnemonic = "jeans abuse supply fix cycle track rare salute crime else happy despair";
+var mnemonic = "misery episode use pumpkin credit lock stone ability input gossip neglect wreck";

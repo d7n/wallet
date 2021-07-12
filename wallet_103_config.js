@@ -1,1 +1,1 @@
-var mnemonic = "tape inside ski echo wage render wood foot level render unlock leisure";
+var mnemonic = "rubber impact addict spin only annual grow lab pumpkin exclude someone dance";

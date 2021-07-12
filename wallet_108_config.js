@@ -1,1 +1,1 @@
-var mnemonic = "rescue example print lunch demand shuffle motor original casino sample ginger pepper";
+var mnemonic = "lamp oven orange install priority layer engage menu basic language begin phone";

@@ -1,1 +1,1 @@
-var mnemonic = "master prison obscure crucial battle margin mango among aisle hire renew potato";
+var mnemonic = "just gym smart fork actor since fluid process confirm desert ketchup disorder";

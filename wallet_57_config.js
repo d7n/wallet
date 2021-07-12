@@ -1,1 +1,1 @@
-var mnemonic = "learn frown special extra achieve modify much answer cave column upgrade clip";
+var mnemonic = "chronic shoe cigar thing cricket pupil lyrics brain jump eagle response gasp";

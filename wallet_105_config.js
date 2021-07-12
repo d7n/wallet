@@ -1,1 +1,1 @@
-var mnemonic = "mean thing jump ready silk between zero exile galaxy inmate east seat";
+var mnemonic = "drip else amused cannon surround laugh output valid confirm ripple gather second";

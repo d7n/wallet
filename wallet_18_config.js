@@ -1,1 +1,1 @@
-var mnemonic = "want key banner achieve clown buffalo slender flag rescue oval friend one";
+var mnemonic = "wide valley pledge theory wreck already trap syrup improve reject culture first";

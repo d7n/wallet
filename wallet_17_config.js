@@ -1,1 +1,1 @@
-var mnemonic = "involve snap certain boss try trip trip north present reform dirt bring";
+var mnemonic = "match have foster wear donkey fall pass zebra forget mutual park frog";

@@ -1,1 +1,1 @@
-var mnemonic = "pig humble harvest rug together sugar master satisfy cheap better ocean glad";
+var mnemonic = "stairs proud snake tragic trick begin manage pioneer march fork drop garage";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain cereal ice thank elegant anxiety satisfy city boss genius eight can";
+var mnemonic = "arrow pole proof muscle innocent brush banana attract budget pair together spare";

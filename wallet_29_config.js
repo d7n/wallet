@@ -1,1 +1,1 @@
-var mnemonic = "brass husband illegal reflect virus banana loyal virus that able fitness escape";
+var mnemonic = "analyst unknown junk ankle blossom response input aware stereo april heart panic";

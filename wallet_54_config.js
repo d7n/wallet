@@ -1,1 +1,1 @@
-var mnemonic = "lazy lazy bubble buyer bunker mercy harbor pull metal deliver surge share";
+var mnemonic = "under giggle motor army champion midnight buffalo tilt fold onion tumble rain";

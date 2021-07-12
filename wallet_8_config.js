@@ -1,1 +1,1 @@
-var mnemonic = "notice syrup net gold life isolate shed remain adult swallow awkward black";
+var mnemonic = "net speak fall core absorb dumb potato exclude squirrel hotel across segment";

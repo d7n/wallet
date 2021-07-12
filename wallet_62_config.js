@@ -1,1 +1,1 @@
-var mnemonic = "round brand brain anchor jewel market pig attitude moon hunt visual rival";
+var mnemonic = "verify aerobic rich artefact image gate exercise risk clap slogan tiger pill";

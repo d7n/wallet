@@ -1,1 +1,1 @@
-var mnemonic = "lecture sunny salt love process market style target decline trumpet also duty";
+var mnemonic = "guard glow disorder rack knock erase sauce victory receive lobster relax dizzy";
