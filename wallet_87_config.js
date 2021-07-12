@@ -1,1 +1,1 @@
-var mnemonic = "pride skin squirrel pride alley crater blur title save ugly pluck fox";
+var mnemonic = "wedding best enjoy cycle genuine absorb federal divert surround marble obscure visit";

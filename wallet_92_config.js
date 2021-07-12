@@ -1,1 +1,1 @@
-var mnemonic = "fruit possible piece praise century decade broom panther pizza skull settle toe";
+var mnemonic = "neither demand little meadow inner adjust midnight dynamic coyote fragile shaft unknown";

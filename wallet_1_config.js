@@ -1,1 +1,1 @@
-var mnemonic = "regret spirit armed you fiction fold dune glove adult slice section panic";
+var mnemonic = "climb author royal person again reveal ketchup obtain royal cash abandon present";

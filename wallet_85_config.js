@@ -1,1 +1,1 @@
-var mnemonic = "machine surge illegal badge kitchen update rubber ball love text bone tongue";
+var mnemonic = "muscle fault action valve crunch gift critic can tip spoil float task";

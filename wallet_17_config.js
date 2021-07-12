@@ -1,1 +1,1 @@
-var mnemonic = "express nice start monster talent brave strong coin gun rice fish happy";
+var mnemonic = "cactus nice dune aunt habit actress age powder only bounce ribbon eagle";

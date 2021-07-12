@@ -1,1 +1,1 @@
-var mnemonic = "entry faith casual budget fame brave enroll wink library violin start reopen";
+var mnemonic = "before orphan trade slim hero ritual laptop chapter truly detect top end";

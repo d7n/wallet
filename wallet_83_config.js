@@ -1,1 +1,1 @@
-var mnemonic = "blame congress fork relax forget basket swift nephew copper shove parent net";
+var mnemonic = "marine census tip coast raw nasty distance wool east mango above above";

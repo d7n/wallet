@@ -1,1 +1,1 @@
-var mnemonic = "news discover fold organ square receive climb sunny clever memory proud false";
+var mnemonic = "congress punch traffic settle nature crew slam ostrich hold vote enough slab";

@@ -1,1 +1,1 @@
-var mnemonic = "milk exile disease regret deposit until joke shallow miss explain congress logic";
+var mnemonic = "stereo color witness organ you entire hammer royal pony citizen renew fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger inside clown rare glad auto hawk rule under latin gossip install";
+var mnemonic = "spoil thank taste infant phone state section mystery okay capable poem size";

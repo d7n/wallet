@@ -1,1 +1,1 @@
-var mnemonic = "stamp sleep family pupil hurdle modify hard oval razor reduce weapon spray";
+var mnemonic = "peasant coil hybrid device harvest thank strike satisfy horn know bargain elite";

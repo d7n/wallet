@@ -1,1 +1,1 @@
-var mnemonic = "gadget gold occur south rug lift slab habit decade spider craft divert";
+var mnemonic = "outside click grace degree reject chuckle extend soap month february bunker cable";

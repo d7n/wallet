@@ -1,1 +1,1 @@
-var mnemonic = "hurry vendor stumble type december harbor attract fiber priority glove add amount";
+var mnemonic = "riot tank attitude filter asset embark cupboard hybrid visit deal good announce";

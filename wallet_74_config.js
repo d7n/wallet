@@ -1,1 +1,1 @@
-var mnemonic = "path course suit that close debate meadow visit trick olympic token grant";
+var mnemonic = "awesome drastic radio chef survey cash hill unable globe portion manual opinion";

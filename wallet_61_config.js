@@ -1,1 +1,1 @@
-var mnemonic = "dash swing bitter effort liberty corn illness melt address cradle ride unveil";
+var mnemonic = "quality kiss family cross call master version domain balance isolate couple record";

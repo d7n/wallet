@@ -1,1 +1,1 @@
-var mnemonic = "trim junk flight wagon home garage suffer range noodle novel planet initial";
+var mnemonic = "wisdom unusual health amused dirt found great plastic mushroom train derive valley";

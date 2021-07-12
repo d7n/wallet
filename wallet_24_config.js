@@ -1,1 +1,1 @@
-var mnemonic = "team buyer inquiry silk month loud intact wish virus fix bunker found";
+var mnemonic = "review ocean swift orbit destroy slim swift seat fantasy print floor pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "shop cousin best siren park profit protect record predict conduct diagram wolf";
+var mnemonic = "myth license dad width load jazz strike rely company long make seminar";

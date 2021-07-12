@@ -1,1 +1,1 @@
-var mnemonic = "submit frame patrol corn humor increase volume shoulder lonely novel stereo kind";
+var mnemonic = "like betray cry gain cherry note climb mutual quit enjoy brother proof";

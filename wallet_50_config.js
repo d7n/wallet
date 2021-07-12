@@ -1,1 +1,1 @@
-var mnemonic = "jaguar quality tray leaf knife bulb picnic enjoy ripple mango domain empower";
+var mnemonic = "garbage delay hour high afford draw shock venture mass praise wheel faith";

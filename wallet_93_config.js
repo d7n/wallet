@@ -1,1 +1,1 @@
-var mnemonic = "spoil lunch below lunch domain decide castle become defy unusual body prefer";
+var mnemonic = "ask excess inch thumb frog deputy test scheme poet hire leave public";

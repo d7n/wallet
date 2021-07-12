@@ -1,1 +1,1 @@
-var mnemonic = "flock wheat noble seat hunt pond frost valve head leader unknown exit";
+var mnemonic = "brass bright village what kidney tilt picnic prevent security oil narrow thrive";

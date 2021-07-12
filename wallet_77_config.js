@@ -1,1 +1,1 @@
-var mnemonic = "fat merry weird physical eye bus trap organ typical obey immune hurt";
+var mnemonic = "speed scheme raise tooth figure regular result high alert seed bundle siege";

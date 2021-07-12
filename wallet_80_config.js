@@ -1,1 +1,1 @@
-var mnemonic = "volcano shock bullet genius story alpha wool aspect harsh fresh notice depend";
+var mnemonic = "visual inject person crawl order blade bottom castle gold film drip panel";

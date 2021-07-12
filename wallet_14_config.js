@@ -1,1 +1,1 @@
-var mnemonic = "word solid fee custom puzzle joy novel system animal brain firm tenant";
+var mnemonic = "behind choice wing salute shield pride dress east electric safe life swallow";

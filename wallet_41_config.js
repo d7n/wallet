@@ -1,1 +1,1 @@
-var mnemonic = "spy sketch parrot either drastic twist leaf ivory insane law brush drill";
+var mnemonic = "mystery because often source movie crawl math plate cargo portion produce sure";

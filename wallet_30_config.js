@@ -1,1 +1,1 @@
-var mnemonic = "submit season olympic achieve use age cross embark sell drum match boy";
+var mnemonic = "despair rely betray fancy oval frequent frown digital odor motion roast verb";

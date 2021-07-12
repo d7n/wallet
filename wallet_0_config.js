@@ -1,1 +1,1 @@
-var mnemonic = "forest luggage base senior wrestle oven coral quick despair leaf isolate stairs";
+var mnemonic = "weasel cruise album bubble page coyote satoshi medal river swear buffalo dumb";

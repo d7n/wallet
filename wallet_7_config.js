@@ -1,1 +1,1 @@
-var mnemonic = "idle soul depart course source goat cousin swear estate soda remember dirt";
+var mnemonic = "kitchen note broken jealous risk gun hammer dish reduce slow ritual brief";

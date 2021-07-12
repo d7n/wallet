@@ -1,1 +1,1 @@
-var mnemonic = "symptom circle spend card hotel hover faith castle sea render symptom orbit";
+var mnemonic = "urban check emotion expand debate cause veteran such human myth sausage home";

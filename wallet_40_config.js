@@ -1,1 +1,1 @@
-var mnemonic = "remain organ wise wide assume narrow gentle undo diamond amazing square width";
+var mnemonic = "stick spring copy seven pill dizzy earn calm vocal sibling embody race";

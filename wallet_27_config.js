@@ -1,1 +1,1 @@
-var mnemonic = "gym broken crisp fragile large spice beef wasp device two exchange traffic";
+var mnemonic = "ghost balance bubble notice risk monitor smoke awful gossip adult angry speed";

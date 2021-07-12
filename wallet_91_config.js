@@ -1,1 +1,1 @@
-var mnemonic = "gas hire purse walnut diesel library sauce game salad victory peace smart";
+var mnemonic = "abandon front term census list card settle area expect taste increase expand";

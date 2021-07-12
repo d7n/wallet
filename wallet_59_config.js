@@ -1,1 +1,1 @@
-var mnemonic = "capital punch hazard heart meadow unfold vibrant area august ball cream rotate";
+var mnemonic = "surprise empty voyage shaft movie warfare arctic eager puppy foil spider torch";

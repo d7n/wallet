@@ -1,1 +1,1 @@
-var mnemonic = "liar device chest electric spin permit invest engage debate barrel harsh gas";
+var mnemonic = "cable bullet blue lady mesh cover hard spin income staff rifle quit";

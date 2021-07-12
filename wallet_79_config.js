@@ -1,1 +1,1 @@
-var mnemonic = "ability tell oppose fossil warm must escape carpet people victory dose absurd";
+var mnemonic = "famous ice elbow defense upgrade protect pulp damp century rose castle fruit";

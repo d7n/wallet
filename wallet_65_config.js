@@ -1,1 +1,1 @@
-var mnemonic = "loud tackle index slab drop nuclear consider cigar palm album turn buffalo";
+var mnemonic = "unfold property door thought grit crucial rack apple large duty flavor banner";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee dust outer win pet arena earn random gun setup busy spoil";
+var mnemonic = "exit alarm orchard inject reduce eight bleak gold grass anxiety barely budget";

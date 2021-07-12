@@ -1,1 +1,1 @@
-var mnemonic = "deliver hand idea ripple job pill someone element glove horn true into";
+var mnemonic = "share tongue wrong jungle suffer climb deer salt agent armed neck youth";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny forest over hybrid climb syrup kangaroo elite cloth any museum candy";
+var mnemonic = "orient foil cover path pet rent dumb attract pilot promote brave exile";

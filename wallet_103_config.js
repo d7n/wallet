@@ -1,1 +1,1 @@
-var mnemonic = "sword burst debate circle wire regular stand palace unaware erupt can artwork";
+var mnemonic = "arrange lens awkward fish pig portion receive tide crash two manage sign";

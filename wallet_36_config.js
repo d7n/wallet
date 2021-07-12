@@ -1,1 +1,1 @@
-var mnemonic = "purchase shiver cupboard square spirit runway round boost rib save cargo acoustic";
+var mnemonic = "half senior brush embody someone puzzle result weekend any struggle other coral";

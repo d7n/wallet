@@ -1,1 +1,1 @@
-var mnemonic = "critic remind diesel quick discover moral kingdom tissue feel second churn track";
+var mnemonic = "future arrow water victory width letter sea play mesh myth float chronic";

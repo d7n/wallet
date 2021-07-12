@@ -1,1 +1,1 @@
-var mnemonic = "next ill seven churn exist bargain carpet brick plunge space vocal pair";
+var mnemonic = "shoot swift nice entire company vague measure anger energy color phrase hotel";

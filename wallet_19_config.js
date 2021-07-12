@@ -1,1 +1,1 @@
-var mnemonic = "fold crack shell pen debris frog wood claim hammer novel pilot medal";
+var mnemonic = "aspect orient digital dumb agent dinosaur agree bus strong cat remember popular";

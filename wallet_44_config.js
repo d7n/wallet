@@ -1,1 +1,1 @@
-var mnemonic = "junk defy oil left dragon husband property body similar detect barely night";
+var mnemonic = "tape close final blossom must announce degree bring bronze pact timber want";

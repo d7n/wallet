@@ -1,1 +1,1 @@
-var mnemonic = "unfair erupt hen solution scrap task solid better vivid equal sunset farm";
+var mnemonic = "right cargo reason relief toy future basic timber heavy type talent apology";

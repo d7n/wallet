@@ -1,1 +1,1 @@
-var mnemonic = "forum there evolve brand parade brass shy deputy opinion valley angle unaware";
+var mnemonic = "era mule pulse summer faint anchor nest drastic area leave eight cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "torch spoon buffalo usual loyal melt fee dawn involve short coast actor";
+var mnemonic = "frozen someone paper punch afraid object balcony trouble wrist alarm tattoo picture";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue vintage tomorrow hat choose raw suggest latin banana puppy train bread";
+var mnemonic = "perfect skate naive fancy chef club absent rifle yard trouble antenna paddle";

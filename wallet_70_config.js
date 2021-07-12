@@ -1,1 +1,1 @@
-var mnemonic = "denial cruise cover jeans coil aisle reflect body muffin toward goat prosper";
+var mnemonic = "tip bunker dog chuckle book tiger olympic you vibrant affair license mom";

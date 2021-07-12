@@ -1,1 +1,1 @@
-var mnemonic = "sentence target champion speed tunnel favorite legal such gauge jar talent cancel";
+var mnemonic = "roast monkey milk velvet grocery crouch innocent weird invest crater black riot";

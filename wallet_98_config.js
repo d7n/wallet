@@ -1,1 +1,1 @@
-var mnemonic = "twenty lobster trade arctic speed tool unlock upset balcony guard cost skate";
+var mnemonic = "belt fat yellow night wool myself pave require toast hedgehog dance void";

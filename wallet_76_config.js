@@ -1,1 +1,1 @@
-var mnemonic = "ability toy stomach industry home safe cable borrow skate enforce today steel";
+var mnemonic = "fantasy danger angle happy spice panel diamond bid develop young grain hold";

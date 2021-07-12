@@ -1,1 +1,1 @@
-var mnemonic = "box thing menu tape laptop weather soccer chicken model charge dignity divert";
+var mnemonic = "car twice tail hire buddy canyon fever eagle dirt circle march horse";

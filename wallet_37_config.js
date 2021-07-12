@@ -1,1 +1,1 @@
-var mnemonic = "witness nurse pelican renew also humble strategy hair innocent crazy theory bring";
+var mnemonic = "crack fancy odor stomach pitch execute wild method metal power history nut";

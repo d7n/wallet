@@ -1,1 +1,1 @@
-var mnemonic = "ladder tonight girl peanut loop hero permit mercy glad tattoo sign develop";
+var mnemonic = "educate enable daring away adult great kangaroo blue bundle list various warm";

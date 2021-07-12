@@ -1,1 +1,1 @@
-var mnemonic = "culture fun ugly head judge disagree weekend own park hurt slow census";
+var mnemonic = "aunt theme camp song arena couple chuckle biology egg behave puzzle soup";

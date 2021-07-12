@@ -1,1 +1,1 @@
-var mnemonic = "tooth notable say spoon rural marble sword assume legend present syrup auction";
+var mnemonic = "witness tilt tower swim eight rather brain iron blame word near tackle";

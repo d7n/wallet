@@ -1,1 +1,1 @@
-var mnemonic = "helmet symptom core doctor seat swim frog combine brush buffalo south abstract";
+var mnemonic = "test bacon same sting silver wage apple bus simple figure exercise you";

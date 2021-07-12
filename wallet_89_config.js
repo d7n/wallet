@@ -1,1 +1,1 @@
-var mnemonic = "demand enter supreme pact machine gravity pool warrior outside rose attend sphere";
+var mnemonic = "number mask juice planet ripple people account menu debris element afraid mad";

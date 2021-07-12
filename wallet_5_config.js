@@ -1,1 +1,1 @@
-var mnemonic = "notable aim steak real vapor scissors amount eternal flag undo later already";
+var mnemonic = "age gesture feel index raccoon scheme clap raw helmet heavy dentist piece";

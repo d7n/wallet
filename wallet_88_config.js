@@ -1,1 +1,1 @@
-var mnemonic = "alpha wrist work require betray during marriage planet scheme degree make cotton";
+var mnemonic = "globe grocery wreck mystery bleak way purchase true group online blast caught";

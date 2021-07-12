@@ -1,1 +1,1 @@
-var mnemonic = "harvest genuine helmet blouse lounge life bargain cry unfair loyal grid alter";
+var mnemonic = "sick federal steel age lizard sibling enter arrest library sniff skin rough";

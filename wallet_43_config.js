@@ -1,1 +1,1 @@
-var mnemonic = "peasant army pair practice quarter account grow crucial label purchase equal arrest";
+var mnemonic = "quantum theory wrap novel depend blade fiction sustain wave possible broken scare";

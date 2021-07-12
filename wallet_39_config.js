@@ -1,1 +1,1 @@
-var mnemonic = "embrace leisure palm smile disorder trash grocery person emerge easily front harvest";
+var mnemonic = "expose hunt fog echo antique harsh tide shrug spy jungle sphere argue";

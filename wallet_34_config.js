@@ -1,1 +1,1 @@
-var mnemonic = "fade vehicle prepare speak renew cheap army cave giant dad enact meat";
+var mnemonic = "foam blade gas day much calm stable axis tomorrow melt sadness bitter";

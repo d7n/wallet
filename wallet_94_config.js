@@ -1,1 +1,1 @@
-var mnemonic = "wisdom purchase wheel kiss start amused shed congress grow distance surround tenant";
+var mnemonic = "laptop equip apology busy rescue fabric liquid arrive antenna spend omit home";

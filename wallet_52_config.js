@@ -1,1 +1,1 @@
-var mnemonic = "term check tower tuna wisdom modify exercise foam kiss live lottery stick";
+var mnemonic = "pluck coast picture vocal intact desert ask you property notable swim tuna";

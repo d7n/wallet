@@ -1,1 +1,1 @@
-var mnemonic = "innocent between ensure brisk gaze valley truck weapon remain impose liar evolve";
+var mnemonic = "collect logic caution wise spirit drill flee conduct cake learn spot bamboo";

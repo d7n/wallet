@@ -1,1 +1,1 @@
-var mnemonic = "picnic atom ignore essay comfort dismiss narrow board cash meadow cricket nuclear";
+var mnemonic = "shaft ostrich horn witness before heavy jazz voyage expire announce embody organ";

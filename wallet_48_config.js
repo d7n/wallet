@@ -1,1 +1,1 @@
-var mnemonic = "whip shove where destroy remove health assault whip abuse plunge remember deputy";
+var mnemonic = "captain genuine forget vibrant tortoise slot violin small produce item genius elbow";

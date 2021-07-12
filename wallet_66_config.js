@@ -1,1 +1,1 @@
-var mnemonic = "sword speed night door tornado pill climb produce foot husband riot flee";
+var mnemonic = "agree ladder sorry hybrid bus asset soon orient lady alter fiber fresh";

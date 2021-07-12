@@ -1,1 +1,1 @@
-var mnemonic = "they forest sea van wall shrimp subway remove reopen ghost twice price";
+var mnemonic = "obvious enact unveil hill immune gauge slot habit hint trick hurt include";

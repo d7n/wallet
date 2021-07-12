@@ -1,1 +1,1 @@
-var mnemonic = "little indoor puzzle valve tuition initial answer alpha silly proud diary reduce";
+var mnemonic = "cousin sauce shift rack public program survey weasel mask model prefer travel";

@@ -1,1 +1,1 @@
-var mnemonic = "easy food laundry simple come layer behind cat wet actual gadget maximum";
+var mnemonic = "manage squirrel chief blame unknown erode giggle arctic maximum risk photo hope";

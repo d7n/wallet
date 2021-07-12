@@ -1,1 +1,1 @@
-var mnemonic = "trash hobby seminar desert problem essay deliver cram bacon math pond perfect";
+var mnemonic = "trim club opinion hire ostrich eye furnace oven glory minimum shoulder source";

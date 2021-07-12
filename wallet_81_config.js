@@ -1,1 +1,1 @@
-var mnemonic = "expire knife wire before shove defy borrow inflict embark agent evolve first";
+var mnemonic = "scorpion collect diesel small agent hollow enlist puzzle route old awful anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "lift earn capable wagon negative olive reveal innocent course share crucial violin";
+var mnemonic = "isolate frown dog educate festival mandate ginger parent film rare oblige ticket";

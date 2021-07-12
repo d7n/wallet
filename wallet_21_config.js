@@ -1,1 +1,1 @@
-var mnemonic = "fancy creek sponsor armed bounce curious around relax joke interest milk frown";
+var mnemonic = "measure future plug bind spirit cotton various member off force sea kitchen";

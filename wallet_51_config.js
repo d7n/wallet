@@ -1,1 +1,1 @@
-var mnemonic = "journey soda twelve cabbage appear tent unfair female cup radar obvious obtain";
+var mnemonic = "reveal luggage act put find shrimp clay feed refuse myth need submit";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain laptop lumber surprise evil cannon skin deal oyster that wise judge";
+var mnemonic = "mistake end cram axis now fever term celery super kick frame develop";

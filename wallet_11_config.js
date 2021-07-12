@@ -1,1 +1,1 @@
-var mnemonic = "predict earn six panda upset device pull weasel cherry hospital toss misery";
+var mnemonic = "scheme useless inject evil envelope ritual curve consider crisp hollow refuse cat";

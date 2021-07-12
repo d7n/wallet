@@ -1,1 +1,1 @@
-var mnemonic = "artwork tell action remove cloth ripple harvest abandon same panel check cycle";
+var mnemonic = "magnet illegal quantum father apology energy hidden belt afraid topple ceiling boil";

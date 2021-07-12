@@ -1,1 +1,1 @@
-var mnemonic = "choose jump sight allow crucial captain exclude manual rely magnet resource actor";
+var mnemonic = "stand piece skull second behave ordinary spy leader clean wool trial bamboo";

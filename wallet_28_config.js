@@ -1,1 +1,1 @@
-var mnemonic = "remain teach peace fame marriage barely name chapter allow run job people";
+var mnemonic = "reduce artefact penalty dream tell chunk shoot boring stable concert lift bar";

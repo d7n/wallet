@@ -1,1 +1,1 @@
-var mnemonic = "pet copy flag include lock load grunt taste garlic copy alone erupt";
+var mnemonic = "spawn toward game obvious wide coconut heart velvet embark bonus sausage bind";

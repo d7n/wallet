@@ -1,1 +1,1 @@
-var mnemonic = "bargain diagram good media ceiling gesture three occur wing love vote able";
+var mnemonic = "leaf minor involve actress maid inherit laptop capital federal under escape above";

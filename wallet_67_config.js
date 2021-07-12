@@ -1,1 +1,1 @@
-var mnemonic = "cancel print acquire wreck fruit moment inhale notable degree radar multiply party";
+var mnemonic = "innocent lock salmon liberty morning kangaroo rice twist language private cause desk";

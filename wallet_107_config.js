@@ -1,1 +1,1 @@
-var mnemonic = "hospital concert pizza endless upset basket rural winter retire obey ahead spider";
+var mnemonic = "blood jazz tiny grief forget soap divide swing decade typical prepare meat";

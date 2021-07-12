@@ -1,1 +1,1 @@
-var mnemonic = "find punch idea social rigid sniff travel female train stool cause belt";
+var mnemonic = "cat dash secret word glimpse spice gravity omit elder monster into throw";

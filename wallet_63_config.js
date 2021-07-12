@@ -1,1 +1,1 @@
-var mnemonic = "measure banner tape produce foster gentle huge coach unveil bind unlock happy";
+var mnemonic = "sense fan wall topple fine silent two faculty cigar ozone divide much";

@@ -1,1 +1,1 @@
-var mnemonic = "alien load stadium produce connect travel toy whale choose hurdle abandon goddess";
+var mnemonic = "elder label job bubble crime brother boy mixture exist sun federal just";
