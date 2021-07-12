@@ -1,1 +1,1 @@
-var mnemonic = "salon enroll scare flee case know admit grain wrong inhale evil phone";
+var mnemonic = "shoe surprise shed fashion whip woman like satisfy erode scene teach bar";

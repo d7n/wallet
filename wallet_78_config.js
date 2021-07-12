@@ -1,1 +1,1 @@
-var mnemonic = "farm relief rug warm minor margin service february topic citizen style hat";
+var mnemonic = "stuff crowd artwork finish confirm door law tube inflict awesome rich turtle";

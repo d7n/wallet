@@ -1,1 +1,1 @@
-var mnemonic = "biology snake release want advance noble spike whale spirit jacket margin tool";
+var mnemonic = "pumpkin opera group injury jacket raise cry rude duty just camp once";

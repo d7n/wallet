@@ -1,1 +1,1 @@
-var mnemonic = "welcome crew parent travel evolve muffin curve segment wrong call script okay";
+var mnemonic = "hint plate cruel avoid veteran boost van later baby fossil twist husband";

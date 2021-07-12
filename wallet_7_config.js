@@ -1,1 +1,1 @@
-var mnemonic = "once old tissue torch phone crouch brief list abstract page hand modify";
+var mnemonic = "brief custom hour remember fix keep solution naive buzz sort tornado busy";

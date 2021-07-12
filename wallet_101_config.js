@@ -1,1 +1,1 @@
-var mnemonic = "level chuckle sample embody achieve supply cool visual weapon tide define flush";
+var mnemonic = "hair season weasel nuclear balcony confirm income update absent tackle wrestle minor";

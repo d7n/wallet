@@ -1,1 +1,1 @@
-var mnemonic = "float truth flash figure outer armed alpha census fossil dice phrase route";
+var mnemonic = "layer dolphin limit patient come retire cruise acoustic cannon census carpet merge";

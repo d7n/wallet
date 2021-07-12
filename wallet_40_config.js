@@ -1,1 +1,1 @@
-var mnemonic = "amateur success acquire evolve flight exile such please trend direct eyebrow onion";
+var mnemonic = "gaze rabbit slight fly install program skin flag wolf lesson draw possible";

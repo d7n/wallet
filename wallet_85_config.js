@@ -1,1 +1,1 @@
-var mnemonic = "easily clock mountain decline voice pottery polar evolve someone cloud advice adult";
+var mnemonic = "fire sail resist concert adapt toast error unlock height horse sea furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "pair hidden gauge satoshi nephew label cricket blossom speak brush drum dumb";
+var mnemonic = "wrong allow artefact attack claw select armor uncover airport prison ship uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "rather field expect extend envelope twin left check girl rain panther height";
+var mnemonic = "cabbage cherry orchard learn giraffe vivid measure coach staff click weekend depend";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent inherit escape mammal genre quiz answer width announce memory bird useful";
+var mnemonic = "region business trigger core street belt twist cheap crater rule humor talk";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich rice donkey steel huge when solid wolf dose assist morning ticket";
+var mnemonic = "midnight quality hat pistol wheel odor erase supreme place exhaust wrong olive";

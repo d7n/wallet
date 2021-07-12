@@ -1,1 +1,1 @@
-var mnemonic = "loop thank drift click ten quarter explain ethics over memory bag display";
+var mnemonic = "time mandate stand snake summer box crisp alcohol town bomb during edge";

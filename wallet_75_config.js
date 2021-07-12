@@ -1,1 +1,1 @@
-var mnemonic = "carry deal more steel viable outer sad enroll hotel mosquito cook eager";
+var mnemonic = "ignore situate crazy fury enrich kit eager worth future panel happy sniff";

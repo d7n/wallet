@@ -1,1 +1,1 @@
-var mnemonic = "tower float radio crisp cake estate notice parrot warrior kitchen morning become";
+var mnemonic = "snap car hub hero purchase economy citizen disorder chest build various catalog";

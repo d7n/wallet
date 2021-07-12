@@ -1,1 +1,1 @@
-var mnemonic = "patient patch machine put play valley history junior green this style among";
+var mnemonic = "follow glue trust donate pride hub suit clay shield husband brass mind";

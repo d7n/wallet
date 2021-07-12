@@ -1,1 +1,1 @@
-var mnemonic = "candy worth element solid skate alley grief insect together episode still desert";
+var mnemonic = "enforce doctor document admit ball clerk voyage extend toss always torch urban";

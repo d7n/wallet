@@ -1,1 +1,1 @@
-var mnemonic = "lumber portion raise gold warrior topple daring taxi poet regular civil way";
+var mnemonic = "gentle permit drop harbor column couch point rather account paddle portion zebra";

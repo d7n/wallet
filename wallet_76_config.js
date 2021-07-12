@@ -1,1 +1,1 @@
-var mnemonic = "chief real mango kick brief debate exhaust woman strike unknown chapter guess";
+var mnemonic = "else tell cannon crane conduct project scorpion square lazy congress acquire expand";

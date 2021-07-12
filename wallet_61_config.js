@@ -1,1 +1,1 @@
-var mnemonic = "hungry reform blast illness habit across breeze accuse vacuum girl news expire";
+var mnemonic = "trick humble oak busy neglect scorpion rice wheat audit cheese nerve unfold";

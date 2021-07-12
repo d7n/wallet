@@ -1,1 +1,1 @@
-var mnemonic = "syrup regret company season chimney advice warrior mirror slow library screen size";
+var mnemonic = "nest dust nest donate trouble sleep replace slogan bus pass erosion shrug";

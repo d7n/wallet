@@ -1,1 +1,1 @@
-var mnemonic = "enough piece omit umbrella attend zero potato soap weapon relief ability slogan";
+var mnemonic = "salmon tomorrow dose bind million know addict piano hurdle agent legal neglect";

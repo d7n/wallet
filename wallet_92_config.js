@@ -1,1 +1,1 @@
-var mnemonic = "candy pulse recycle truck toy shaft wave mistake version diary only live";
+var mnemonic = "circle evolve hour inch thrive exile nice trash flee nose circle ask";

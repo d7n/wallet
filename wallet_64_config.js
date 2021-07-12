@@ -1,1 +1,1 @@
-var mnemonic = "ridge token lyrics scorpion actual feed eyebrow verify dismiss stamp veteran virus";
+var mnemonic = "axis margin media situate mail merge pair begin flat depend skirt frequent";

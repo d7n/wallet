@@ -1,1 +1,1 @@
-var mnemonic = "canoe mammal modify eager hero collect fault mercy hammer sense prison artefact";
+var mnemonic = "pill dose youth assist autumn charge muffin kiwi cushion april excess shop";

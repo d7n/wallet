@@ -1,1 +1,1 @@
-var mnemonic = "vivid reform embody host ripple flame cart script gown steak true casino";
+var mnemonic = "gorilla trick idea matrix salon abuse gas agent census feed bracket effort";

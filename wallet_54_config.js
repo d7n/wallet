@@ -1,1 +1,1 @@
-var mnemonic = "category express permit small advance bacon coil rate wrap hello story health";
+var mnemonic = "mistake breeze club medal beach vague spawn squeeze cruise story rubber drip";

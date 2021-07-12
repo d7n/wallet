@@ -1,1 +1,1 @@
-var mnemonic = "diagram bachelor adjust believe oblige ugly party velvet bind duty bright giant";
+var mnemonic = "bronze fiscal figure globe forest poet wool half reopen lumber blade edit";

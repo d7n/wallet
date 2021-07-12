@@ -1,1 +1,1 @@
-var mnemonic = "gadget illness nephew burst help goose remove lawn popular gap anger lamp";
+var mnemonic = "seek barely shift harvest task immense year express certain poet beef manage";

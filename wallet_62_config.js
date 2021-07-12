@@ -1,1 +1,1 @@
-var mnemonic = "want saddle trophy laugh mix extra obtain cycle rich rural science build";
+var mnemonic = "result torch dismiss giggle sun ethics august local jealous poverty spoon equal";

@@ -1,1 +1,1 @@
-var mnemonic = "reject hub guilt together update weird together attack wait fruit enforce cool";
+var mnemonic = "float evil current snake stadium rebuild object fork power unique surge globe";

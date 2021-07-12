@@ -1,1 +1,1 @@
-var mnemonic = "wisdom whisper ahead deer remain video flat invest ketchup switch evidence jungle";
+var mnemonic = "room large utility walk hold furnace arm hold hotel garment idle display";

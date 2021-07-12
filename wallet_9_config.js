@@ -1,1 +1,1 @@
-var mnemonic = "foam vibrant retire weekend series nuclear wheel pilot similar soon era predict";
+var mnemonic = "tape system piano exhaust news range weapon prefer wink pill sure replace";

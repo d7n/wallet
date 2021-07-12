@@ -1,1 +1,1 @@
-var mnemonic = "world omit fatigue ginger remember critic opera jeans expect impose copy lizard";
+var mnemonic = "elephant please move setup badge catch ahead boss identify volume swing select";

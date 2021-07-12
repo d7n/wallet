@@ -1,1 +1,1 @@
-var mnemonic = "fatal volcano outdoor rather degree swim depart problem fame oyster similar plunge";
+var mnemonic = "about tomato federal raven gate evil club inflict attract december pluck property";

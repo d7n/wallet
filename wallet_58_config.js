@@ -1,1 +1,1 @@
-var mnemonic = "merge staff glow cradle result desert leader breeze busy monitor remember ostrich";
+var mnemonic = "auto bean carpet gloom want scheme balance warm flight diagram famous silver";

@@ -1,1 +1,1 @@
-var mnemonic = "age pill shift apart pretty hobby spike curtain brave boy famous bulb";
+var mnemonic = "edit honey aerobic cattle slight armed traffic reason erupt tourist duty outer";

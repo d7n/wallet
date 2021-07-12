@@ -1,1 +1,1 @@
-var mnemonic = "torch original series doll corn rice into high adult hair snake snap";
+var mnemonic = "goddess situate diamond anxiety dentist bag give speak math rocket junior horror";

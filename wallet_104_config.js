@@ -1,1 +1,1 @@
-var mnemonic = "benefit water tiger urge taste immune patrol ocean divorce surge guard observe";
+var mnemonic = "tongue replace notice boat autumn nominee chair tube twin artwork session rookie";

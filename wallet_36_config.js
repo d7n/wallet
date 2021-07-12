@@ -1,1 +1,1 @@
-var mnemonic = "inmate furnace snap alley thumb obvious shrug charge supply slab total humble";
+var mnemonic = "document legal swift day supreme ostrich day best segment mask cupboard success";

@@ -1,1 +1,1 @@
-var mnemonic = "seed horror service attract build large thunder middle silent you enough recall";
+var mnemonic = "spy glove around load old thumb endless shield blast trim drastic domain";

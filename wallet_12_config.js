@@ -1,1 +1,1 @@
-var mnemonic = "any fabric soccer dragon illness cereal silk sight render brick glass mango";
+var mnemonic = "seek end lava rival yard tourist shock cattle crazy boost train bubble";

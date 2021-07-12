@@ -1,1 +1,1 @@
-var mnemonic = "task shadow try roof nasty general select surround rug medal claw party";
+var mnemonic = "little voice plunge episode frequent they immense legal find laugh stomach squirrel";

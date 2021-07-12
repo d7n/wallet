@@ -1,1 +1,1 @@
-var mnemonic = "hero universe smile priority wheel result dumb hand grace kitten excuse wing";
+var mnemonic = "north box charge wheat doctor destroy pig club urge main garlic olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel jacket hurry curtain tuition daring crack crater order daring cake feel";
+var mnemonic = "cycle famous public island oblige usage social panda drink all trust kick";

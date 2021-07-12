@@ -1,1 +1,1 @@
-var mnemonic = "spike teach connect simple sudden describe hope maximum mouse sugar pass lonely";
+var mnemonic = "sun fiber short chronic shoulder smile bid update lazy stairs negative unveil";

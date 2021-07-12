@@ -1,1 +1,1 @@
-var mnemonic = "virus heart sign common year lumber laugh west link stamp soccer wine";
+var mnemonic = "solution slim evil ecology wrong umbrella muffin view bright blue left brush";

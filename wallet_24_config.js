@@ -1,1 +1,1 @@
-var mnemonic = "acquire circle chase hard desert notable cram effort speed exercise elbow achieve";
+var mnemonic = "miracle manual over multiply door okay sign twin trigger maximum fine popular";

@@ -1,1 +1,1 @@
-var mnemonic = "truth call friend rail leisure liar table bulb delay road disagree blind";
+var mnemonic = "angry aunt dilemma delay arrange way lobster quit suspect fee secret hobby";

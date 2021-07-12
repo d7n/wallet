@@ -1,1 +1,1 @@
-var mnemonic = "outer pull number kit hospital atom soft girl menu weapon rose honey";
+var mnemonic = "interest win swear width nerve sudden hockey dance industry since puzzle egg";

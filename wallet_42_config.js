@@ -1,1 +1,1 @@
-var mnemonic = "jump garden better rocket bundle body double either fantasy crater unlock desk";
+var mnemonic = "mosquito outer judge model ice spread engage awake book soldier depart recipe";

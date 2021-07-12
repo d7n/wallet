@@ -1,1 +1,1 @@
-var mnemonic = "hour truth venue plug magic forest monkey license exit pole combine eye";
+var mnemonic = "chunk squeeze until appear ozone afford cave elegant coach quantum attract midnight";

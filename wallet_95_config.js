@@ -1,1 +1,1 @@
-var mnemonic = "segment credit pupil faith raise chalk steel include puppy spring limb empty";
+var mnemonic = "lend hair claw powder mask observe oyster fan boring charge begin require";

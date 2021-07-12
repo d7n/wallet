@@ -1,1 +1,1 @@
-var mnemonic = "father leisure model broom rhythm bike helmet elephant crowd else merry kitchen";
+var mnemonic = "account decade betray pave aspect autumn immense post never impact weird dragon";

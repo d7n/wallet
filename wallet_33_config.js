@@ -1,1 +1,1 @@
-var mnemonic = "sock coil interest safe bronze heavy north way motor athlete scare coyote";
+var mnemonic = "bamboo unveil useful pelican marine divide pink noise reform floor cactus cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "cable install oppose either foot leopard gaze toss recycle hurry air success";
+var mnemonic = "learn input spy cliff army liberty duty number amazing skull river broom";

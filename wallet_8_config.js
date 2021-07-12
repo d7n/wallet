@@ -1,1 +1,1 @@
-var mnemonic = "siren place claim shoulder know powder school hobby retreat rally always coil";
+var mnemonic = "disorder pen area endorse blue mammal roast enter glare winner reunion script";

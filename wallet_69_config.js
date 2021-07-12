@@ -1,1 +1,1 @@
-var mnemonic = "purchase rose donate refuse frozen step measure mechanic enough float ready tortoise";
+var mnemonic = "debris result trick glue manage believe roof swift opera remove crystal wrap";

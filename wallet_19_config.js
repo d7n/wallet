@@ -1,1 +1,1 @@
-var mnemonic = "violin inject cloud portion sample quality celery leisure annual trash frost rescue";
+var mnemonic = "express patient magnet bag diamond girl trophy adjust brush universe clever topic";

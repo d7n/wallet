@@ -1,1 +1,1 @@
-var mnemonic = "nephew nest aerobic device banner river figure awkward grain any bread admit";
+var mnemonic = "race clinic defy traffic spray embark velvet tank panda mirror census thought";

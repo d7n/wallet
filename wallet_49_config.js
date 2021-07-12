@@ -1,1 +1,1 @@
-var mnemonic = "asthma monitor asset rural taste usual prevent sister theme tongue ten leisure";
+var mnemonic = "friend priority worth make shell october case stool mother foil hold more";

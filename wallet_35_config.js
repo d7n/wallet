@@ -1,1 +1,1 @@
-var mnemonic = "faint truth armed recycle ghost virtual pulp drip puzzle milk nation expect";
+var mnemonic = "moral brisk poverty employ monster total exchange garbage joy large report light";

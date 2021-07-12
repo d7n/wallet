@@ -1,1 +1,1 @@
-var mnemonic = "circle hundred multiply extend cat decline feed lawsuit crane armor try lottery";
+var mnemonic = "put stairs abandon pig toward style fresh prepare honey laundry right stable";

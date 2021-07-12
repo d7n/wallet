@@ -1,1 +1,1 @@
-var mnemonic = "portion extra spawn tourist consider art unique figure extra unknown motion also";
+var mnemonic = "frost rule path right ice birth eye salon security science pool machine";

@@ -1,1 +1,1 @@
-var mnemonic = "universe kit zone web equal habit defy fade salute verb silent believe";
+var mnemonic = "train remove blind display solution sail enrich link open mixture kiwi media";

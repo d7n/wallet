@@ -1,1 +1,1 @@
-var mnemonic = "energy velvet idea income wolf expect seed away pumpkin illegal pitch become";
+var mnemonic = "until blame area dawn visual exhaust pride expire jewel tired acquire galaxy";

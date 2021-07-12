@@ -1,1 +1,1 @@
-var mnemonic = "ghost bitter all coral caught swap panel urban mass trap jewel price";
+var mnemonic = "feel exact oblige midnight arrow craft oxygen spy scale income pave life";

@@ -1,1 +1,1 @@
-var mnemonic = "race entire whip vanish peace banner grit holiday universe often toward virus";
+var mnemonic = "prevent thank guitar eye humor excess fantasy seed flee confirm useless future";

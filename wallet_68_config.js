@@ -1,1 +1,1 @@
-var mnemonic = "spatial forest crazy miss advance screen provide prepare silver airport culture radar";
+var mnemonic = "fall twenty aisle all predict debris keep hero kangaroo kitchen toss sister";

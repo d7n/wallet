@@ -1,1 +1,1 @@
-var mnemonic = "arrest butter culture announce noise fossil tiger glance write kick fiscal save";
+var mnemonic = "bless ozone edit piece language obey brass paddle blind foam finish ceiling";

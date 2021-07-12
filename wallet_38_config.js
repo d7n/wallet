@@ -1,1 +1,1 @@
-var mnemonic = "mixed siren boil correct shift disagree axis capable harsh source gorilla music";
+var mnemonic = "violin okay arrive radar weapon middle impose census wood cherry elegant news";

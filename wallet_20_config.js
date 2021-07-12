@@ -1,1 +1,1 @@
-var mnemonic = "wear cream mad holiday above there toilet peace citizen circle stumble soon";
+var mnemonic = "solar baby issue spirit roof relief behind now dilemma multiply sport resemble";

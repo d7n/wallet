@@ -1,1 +1,1 @@
-var mnemonic = "maze aunt forget angry assault half upgrade alter tissue manual aerobic erupt";
+var mnemonic = "dizzy ancient hobby hockey inhale arrest impose antique stomach slender thing position";

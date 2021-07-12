@@ -1,1 +1,1 @@
-var mnemonic = "fog below step term aunt grass jungle slogan suspect true wrestle upper";
+var mnemonic = "digital secret teach topic build multiply shed quiz wait spike radar track";

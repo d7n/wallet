@@ -1,1 +1,1 @@
-var mnemonic = "disease young return century wall round glow butter soccer crater powder popular";
+var mnemonic = "chronic truly denial arrow card satisfy flush awkward prepare ill absorb obtain";

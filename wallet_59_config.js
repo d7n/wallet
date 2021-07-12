@@ -1,1 +1,1 @@
-var mnemonic = "multiply boy flavor cover stay suffer find lucky tag memory torch furnace";
+var mnemonic = "length youth satoshi hope fantasy horse festival rescue jazz misery chief zero";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo you stone mother erase tomato rubber issue romance trick drift snap";
+var mnemonic = "cube system bacon onion dream coffee equal degree fold prosper resemble afraid";

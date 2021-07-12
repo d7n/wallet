@@ -1,1 +1,1 @@
-var mnemonic = "fatigue melt funny pave senior tell ankle sudden spin fantasy beef turkey";
+var mnemonic = "point achieve kiwi prize dumb turn hat proud deputy scale large hidden";

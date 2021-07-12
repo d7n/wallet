@@ -1,1 +1,1 @@
-var mnemonic = "pink broccoli bring frame divide maple paddle bulb barely spot else auto";
+var mnemonic = "bundle peanut hub during voyage dismiss despair various renew pet art spot";

@@ -1,1 +1,1 @@
-var mnemonic = "celery kite agent pilot route width weasel recipe poverty west roof need";
+var mnemonic = "super vendor faculty inside rule mask wagon sea educate increase minute zero";

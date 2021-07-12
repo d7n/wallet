@@ -1,1 +1,1 @@
-var mnemonic = "dune repair gold model pigeon beauty auction guilt series limb album express";
+var mnemonic = "when grace inherit awesome grid eternal sausage language tide beach drum twice";

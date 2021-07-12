@@ -1,1 +1,1 @@
-var mnemonic = "creek bonus almost silly perfect spread armor grid gym today surprise sport";
+var mnemonic = "card corn neck census lounge deer nothing life sausage defy fun enjoy";

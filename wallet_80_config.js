@@ -1,1 +1,1 @@
-var mnemonic = "jealous thunder engine blame trash eyebrow amused never hole bulb help shock";
+var mnemonic = "april vanish auction clutch orchard museum suggest public famous keep solid gate";

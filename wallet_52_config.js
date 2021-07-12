@@ -1,1 +1,1 @@
-var mnemonic = "enter dice diary planet twin canyon gallery neck doll visit artefact neck";
+var mnemonic = "skill fox night mimic assist slide buyer reward mixed hero focus rack";

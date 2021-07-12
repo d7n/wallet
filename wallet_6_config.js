@@ -1,1 +1,1 @@
-var mnemonic = "shiver innocent that oxygen matter energy crouch appear place cry toilet lazy";
+var mnemonic = "start trim hundred wool occur muscle rival stable cloud bulb tenant forest";

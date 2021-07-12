@@ -1,1 +1,1 @@
-var mnemonic = "leisure rebel dawn jewel forum okay tide ceiling horse virtual grace employ";
+var mnemonic = "bottom spray steel human limb trim ski rapid ozone april among decide";

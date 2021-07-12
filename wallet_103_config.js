@@ -1,1 +1,1 @@
-var mnemonic = "village close all merry copper resource lumber then share hundred focus example";
+var mnemonic = "liar measure dizzy sell great island melt rose water tonight fringe coconut";

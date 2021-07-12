@@ -1,1 +1,1 @@
-var mnemonic = "cabin flat adult stage casual off cushion turn fluid sand human borrow";
+var mnemonic = "humor toss enable admit ripple tiger omit law nurse pull height usual";

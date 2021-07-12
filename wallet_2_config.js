@@ -1,1 +1,1 @@
-var mnemonic = "priority gaze flush change round federal sauce thumb pave own original music";
+var mnemonic = "anxiety evidence eternal double culture card quiz warrior beauty all fiber sugar";

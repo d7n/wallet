@@ -1,1 +1,1 @@
-var mnemonic = "blue vapor plate fiction change knock step merry group input setup regret";
+var mnemonic = "own dress shrug muscle document apology smoke feel grocery doll address buffalo";

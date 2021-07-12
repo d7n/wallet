@@ -1,1 +1,1 @@
-var mnemonic = "kidney stove talent festival train maple amount eight brother find heavy shrug";
+var mnemonic = "horror seven differ volume silly say execute puppy network olive same marriage";
