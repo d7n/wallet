@@ -1,1 +1,1 @@
-var mnemonic = "pole judge subject hurdle symptom donate seven punch six tip park language";
+var mnemonic = "analyst employ morning skull dune hollow trumpet whisper jewel wise speak grid";

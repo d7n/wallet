@@ -1,1 +1,1 @@
-var mnemonic = "secret play make typical umbrella heart spray adult dog fruit gossip tell";
+var mnemonic = "expand drip beyond whale talent wall material beauty now turkey enjoy offer";

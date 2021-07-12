@@ -1,1 +1,1 @@
-var mnemonic = "reveal finger frog area decide promote lonely nice nature shiver clown demise";
+var mnemonic = "bounce ask glance have patrol woman random leaf banana mom episode category";

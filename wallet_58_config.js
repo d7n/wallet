@@ -1,1 +1,1 @@
-var mnemonic = "wait forum hub suggest erase turtle pride idea kitten fury giggle sick";
+var mnemonic = "shine great wish width kick inside ring swallow symbol cook celery beyond";

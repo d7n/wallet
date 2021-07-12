@@ -1,1 +1,1 @@
-var mnemonic = "dilemma pepper execute churn update opinion cave movie behave latin horse position";
+var mnemonic = "bus drop cause engage pledge finish flash more forum rude exotic tomato";

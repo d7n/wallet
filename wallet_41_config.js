@@ -1,1 +1,1 @@
-var mnemonic = "rocket add wrong earth average help kingdom husband hand scale soldier pass";
+var mnemonic = "song leave bridge sudden message rubber buddy bargain attitude fiscal design sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard employ boss sauce cheap champion soldier evoke afford master way feel";
+var mnemonic = "spice success dune auction spawn final habit three battle coin whale shift";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain state response margin carpet scrub flag tree clump memory cruise reject";
+var mnemonic = "brave hurdle noble potato prefer logic erupt silent solid stadium prevent minimum";

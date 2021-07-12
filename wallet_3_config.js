@@ -1,1 +1,1 @@
-var mnemonic = "denial quick mail banner family embrace wink marine climb secret hunt mansion";
+var mnemonic = "blind worth physical author chimney lawn main crane bundle rapid follow spring";

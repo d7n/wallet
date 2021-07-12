@@ -1,1 +1,1 @@
-var mnemonic = "scale park small beyond praise custom connect apology detect open item make";
+var mnemonic = "tray group morning card enable soldier regret victory inner ridge suspect add";

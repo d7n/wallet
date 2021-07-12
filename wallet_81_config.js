@@ -1,1 +1,1 @@
-var mnemonic = "material lottery grain muscle country family hurdle faint slice volcano emotion sand";
+var mnemonic = "viable pulse fatigue boy wide page sphere uncle slice puppy confirm weapon";

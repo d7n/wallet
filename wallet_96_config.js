@@ -1,1 +1,1 @@
-var mnemonic = "calm neither mule fabric typical trade february motion dilemma office hair receive";
+var mnemonic = "crop eternal jeans sort dice wife hammer family cheap cinnamon dress leaf";

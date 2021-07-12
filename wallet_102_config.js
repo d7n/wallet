@@ -1,1 +1,1 @@
-var mnemonic = "brass meadow update lend cement fancy bright direct champion yellow sound measure";
+var mnemonic = "any approve burden spoil normal frown manual maze crisp twist excess chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "issue benefit shy fall gown cool twist dentist lab coyote helmet general";
+var mnemonic = "weird beauty sketch limb phrase tomorrow cannon execute crash elite control problem";

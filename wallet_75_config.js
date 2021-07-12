@@ -1,1 +1,1 @@
-var mnemonic = "what dad vocal slot exotic tray reflect increase theory spot daring bubble";
+var mnemonic = "trumpet banana chronic globe holiday wave silver estate purchase approve unit word";

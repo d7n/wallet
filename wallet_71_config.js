@@ -1,1 +1,1 @@
-var mnemonic = "salmon clever east kite recall only neck paddle carbon crush east charge";
+var mnemonic = "zero kick never universe drop exclude time wife always maximum network craft";

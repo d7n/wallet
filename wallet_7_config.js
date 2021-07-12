@@ -1,1 +1,1 @@
-var mnemonic = "auction broccoli gravity zoo drum spawn guess tonight capable pigeon process arrive";
+var mnemonic = "person sting child submit come wisdom dad embark blind shield reject ripple";

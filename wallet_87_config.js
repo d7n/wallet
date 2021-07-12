@@ -1,1 +1,1 @@
-var mnemonic = "wink arrow knock album squirrel link stairs cry yard about material robot";
+var mnemonic = "amazing risk clever decrease toddler someone evolve frame team alarm screen spirit";

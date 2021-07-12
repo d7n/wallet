@@ -1,1 +1,1 @@
-var mnemonic = "lottery tuna leg board body ordinary clump luxury element disease also erosion";
+var mnemonic = "sweet device winner offer purity enforce symptom will kid engage spell entry";

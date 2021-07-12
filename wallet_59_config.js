@@ -1,1 +1,1 @@
-var mnemonic = "lonely seat drop expand asthma glove fork bless river raccoon erode come";
+var mnemonic = "hobby uniform crisp universe practice spawn rare lend way level seat bid";

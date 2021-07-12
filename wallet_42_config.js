@@ -1,1 +1,1 @@
-var mnemonic = "card estate find organ rebuild ripple sword turkey inherit depend face gesture";
+var mnemonic = "kitchen route setup soldier kitten mango wolf picture trade ribbon embrace arrest";

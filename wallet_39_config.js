@@ -1,1 +1,1 @@
-var mnemonic = "agent toss broom enable across hollow acquire season journey fish result betray";
+var mnemonic = "saddle coin priority fetch absent frost large employ random menu element south";

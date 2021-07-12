@@ -1,1 +1,1 @@
-var mnemonic = "evil program return assume brand rely fluid city slide cycle machine circle";
+var mnemonic = "bunker spread work liar night flight child village direct debris intact water";

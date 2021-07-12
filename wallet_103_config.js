@@ -1,1 +1,1 @@
-var mnemonic = "mammal course barely feel consider choose tube brain random cancel wink rabbit";
+var mnemonic = "inherit fluid slight obtain slogan health holiday job judge ceiling oppose snack";

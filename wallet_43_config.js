@@ -1,1 +1,1 @@
-var mnemonic = "panic army focus pig grab fever cargo siren amused embody oxygen love";
+var mnemonic = "urban price blossom sketch gospel enemy project phone emotion oxygen silk final";

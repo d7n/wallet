@@ -1,1 +1,1 @@
-var mnemonic = "oak wear public gap ordinary today dismiss rotate trim amazing achieve assume";
+var mnemonic = "agent float purity basket relief manual web rescue world silly laugh almost";

@@ -1,1 +1,1 @@
-var mnemonic = "deer awkward swamp treat paddle entry banana cabbage poem point dizzy blanket";
+var mnemonic = "liar spoon rifle table labor aspect scissors hole salad occur rigid trash";

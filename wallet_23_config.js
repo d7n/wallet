@@ -1,1 +1,1 @@
-var mnemonic = "knife humor obey mule hold chest opinion decrease arrive receive divorce arm";
+var mnemonic = "bitter soccer addict drip lazy rural divide trust laugh village boring tone";

@@ -1,1 +1,1 @@
-var mnemonic = "sing derive comic glue surround clutch balance thumb fox episode extend tape";
+var mnemonic = "shaft intact seek equip market simple earth lion icon camp rare space";

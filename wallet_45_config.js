@@ -1,1 +1,1 @@
-var mnemonic = "flat find ahead what wrap correct coast angry smart panther grace color";
+var mnemonic = "goddess tenant faith marble glove rent wheat simple core palm leg shed";

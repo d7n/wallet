@@ -1,1 +1,1 @@
-var mnemonic = "clip dizzy vital cinnamon orange large illegal immense light sibling tuition zone";
+var mnemonic = "solid off below hurdle nose city valve sketch inhale fragile century mule";

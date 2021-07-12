@@ -1,1 +1,1 @@
-var mnemonic = "example outside jewel coconut husband ten color steel leisure exhaust begin entire";
+var mnemonic = "usage off canyon oblige flat snap portion key pilot case rally cigar";

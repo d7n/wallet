@@ -1,1 +1,1 @@
-var mnemonic = "joy insect option timber festival garbage tongue shaft pony oven piece garlic";
+var mnemonic = "visit wealth length clump arena protect girl trap skill faith bind bar";

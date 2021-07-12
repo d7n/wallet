@@ -1,1 +1,1 @@
-var mnemonic = "retire hover drink fault furnace spare blossom copper planet ivory exhaust buzz";
+var mnemonic = "ball mimic capable clarify diagram assume tackle fever cruise exit echo tongue";

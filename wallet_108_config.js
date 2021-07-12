@@ -1,1 +1,1 @@
-var mnemonic = "good brain zone ranch mobile regret exotic artefact absorb concert text silk";
+var mnemonic = "false raccoon typical cube language left glare album march chair staff above";

@@ -1,1 +1,1 @@
-var mnemonic = "brick bulk trim lawsuit flip code talk hope govern beef scatter still";
+var mnemonic = "elegant tone hire episode process novel correct shine rabbit resemble forest chief";

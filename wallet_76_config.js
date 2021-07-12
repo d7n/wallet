@@ -1,1 +1,1 @@
-var mnemonic = "quote gossip arctic fiction deposit wink chapter security faith rocket math enlist";
+var mnemonic = "answer shield priority final you ordinary nuclear can ginger rug valid piece";

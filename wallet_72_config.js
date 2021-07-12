@@ -1,1 +1,1 @@
-var mnemonic = "say insane draft forget twin devote curious rate lady empty entire visa";
+var mnemonic = "badge design urge true enforce return glance wrong affair intact mimic achieve";

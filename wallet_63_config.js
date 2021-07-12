@@ -1,1 +1,1 @@
-var mnemonic = "direct raccoon party unknown above step crane minimum zebra nominee shuffle wrong";
+var mnemonic = "omit simple eye grocery extra mountain property pistol arch spot radio prize";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve caution empty orange spider broken meadow flavor enact canoe fine picture";
+var mnemonic = "plunge memory evil west bonus dish perfect embrace exhibit door vintage parent";

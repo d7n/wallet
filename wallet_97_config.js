@@ -1,1 +1,1 @@
-var mnemonic = "frost various evoke famous atom message metal demand much crawl phone gift";
+var mnemonic = "merit latin ship oppose soldier athlete real flash ghost tenant anxiety sustain";

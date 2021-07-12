@@ -1,1 +1,1 @@
-var mnemonic = "raise web slot analyst try output ocean scrub rotate keen noodle puppy";
+var mnemonic = "poverty lock spawn fiscal when rack hint blast height sadness fiscal bind";

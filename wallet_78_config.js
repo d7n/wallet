@@ -1,1 +1,1 @@
-var mnemonic = "strike witness turkey quit decorate problem trophy phone vacuum peanut verb captain";
+var mnemonic = "involve inject grant direct retreat final carpet vault region loyal print fork";

@@ -1,1 +1,1 @@
-var mnemonic = "garage weekend offer invest turn decrease prize glance bubble tide aware siege";
+var mnemonic = "kidney seed bring sock strong snap ginger wife glad layer reform farm";

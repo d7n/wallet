@@ -1,1 +1,1 @@
-var mnemonic = "chair bottom glimpse tongue thought vicious apology fashion rubber hockey matrix motion";
+var mnemonic = "gospel stamp runway laugh together hazard elder walk pigeon furnace velvet proud";

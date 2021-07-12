@@ -1,1 +1,1 @@
-var mnemonic = "boat permit blame siren cage book jacket gap oxygen stock giraffe creek";
+var mnemonic = "attitude flip thought amateur below female eight outer pact various limb pear";

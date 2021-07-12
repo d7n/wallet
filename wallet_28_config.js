@@ -1,1 +1,1 @@
-var mnemonic = "gather magnet afraid oak debris crime siren ozone glide cigar shock day";
+var mnemonic = "across sentence deny position interest pelican lens cruel abuse fiscal desert junior";

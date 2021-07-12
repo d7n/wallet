@@ -1,1 +1,1 @@
-var mnemonic = "crawl lunch mammal toe finger south address power weird syrup napkin double";
+var mnemonic = "among bind question creek dance impulse meadow heart kidney mother hold aim";

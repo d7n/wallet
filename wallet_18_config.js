@@ -1,1 +1,1 @@
-var mnemonic = "tilt erosion hockey alpha year double grant undo vicious broccoli name mirror";
+var mnemonic = "law doll devote digital flash muffin dance praise olive come tonight cargo";

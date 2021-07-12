@@ -1,1 +1,1 @@
-var mnemonic = "game journey rebuild fiction spell quality mechanic solid ignore level upset couch";
+var mnemonic = "please elevator mouse output matrix grass rate own regret flag cruise fiber";

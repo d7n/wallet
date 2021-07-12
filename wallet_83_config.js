@@ -1,1 +1,1 @@
-var mnemonic = "hip flash will album dad company paddle blur name coin quiz sniff";
+var mnemonic = "display piano gorilla capable file toward festival surge diesel change clock gate";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy easily lucky remove flame believe champion matrix start fantasy shift wealth";
+var mnemonic = "record remind obscure rocket spray act icon tuna symptom urban stock merge";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur birth wage pretty task target capable hybrid decline answer naive vendor";
+var mnemonic = "recall absurd infant vague play second liar ball lobster field post beef";

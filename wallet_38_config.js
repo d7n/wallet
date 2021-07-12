@@ -1,1 +1,1 @@
-var mnemonic = "goddess toward faith remove moon neither gun shoot private spirit bunker whip";
+var mnemonic = "nephew dignity gather buzz aisle afraid venture shadow wonder phrase maple eagle";

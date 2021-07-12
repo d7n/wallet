@@ -1,1 +1,1 @@
-var mnemonic = "type inmate gift slam very artwork noodle sister rice digital trash session";
+var mnemonic = "fortune tenant pig future special reduce stuff lyrics pond action stadium bottom";

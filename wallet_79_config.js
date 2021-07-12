@@ -1,1 +1,1 @@
-var mnemonic = "story age chair depart column disease damage inject bulk album price tent";
+var mnemonic = "maple promote thought radio hair lesson mercy open urge reward banana plug";

@@ -1,1 +1,1 @@
-var mnemonic = "shine rose sibling find season heart chimney pear verify ivory duck tumble";
+var mnemonic = "slender become ball iron chair rain rose harvest pudding spring action burden";

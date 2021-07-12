@@ -1,1 +1,1 @@
-var mnemonic = "medal army file license deliver body bulb broccoli garment never rescue mention";
+var mnemonic = "maid high urge charge few empty install art salmon toward balcony inflict";

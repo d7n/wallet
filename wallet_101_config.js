@@ -1,1 +1,1 @@
-var mnemonic = "ski quick real decade embark raccoon steak fuel coach auto sell weird";
+var mnemonic = "invest point knee arrive craft hint birth lend call until image rate";

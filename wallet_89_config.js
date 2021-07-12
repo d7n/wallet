@@ -1,1 +1,1 @@
-var mnemonic = "pretty road punch inquiry bottom celery shell bike purpose agree goat knife";
+var mnemonic = "aspect grant borrow program park merge donkey reveal cat oil obvious abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur essay toast card guide cram try rent squirrel offer episode raw";
+var mnemonic = "prefer hamster diary page claw outer special kid decline emotion paper dwarf";

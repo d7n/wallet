@@ -1,1 +1,1 @@
-var mnemonic = "exotic trial sunny artist only hire nothing begin flame item tuition antique";
+var mnemonic = "group normal possible bitter define tower wish pitch now dish approve dizzy";

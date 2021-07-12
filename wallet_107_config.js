@@ -1,1 +1,1 @@
-var mnemonic = "announce ankle post wrist join normal liquid moral car tobacco welcome drill";
+var mnemonic = "canvas ankle stairs sword leopard toss swear firm forest strike adjust hedgehog";

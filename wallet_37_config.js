@@ -1,1 +1,1 @@
-var mnemonic = "capable invite oblige toast include valve judge dial artwork vivid estate require";
+var mnemonic = "main cool census chicken again drink change inquiry combine cube scan spread";

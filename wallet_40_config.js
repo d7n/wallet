@@ -1,1 +1,1 @@
-var mnemonic = "busy unique canvas vessel struggle ritual profit flame airport travel short woman";
+var mnemonic = "course curious tenant because board soap arena engage case stable find window";

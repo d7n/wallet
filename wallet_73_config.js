@@ -1,1 +1,1 @@
-var mnemonic = "stem orient flag casino inner buzz sponsor page people reopen leg exile";
+var mnemonic = "right oven observe tail need toilet extra drama blade stadium symbol wood";

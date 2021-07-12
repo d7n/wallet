@@ -1,1 +1,1 @@
-var mnemonic = "cash awake absurd ski edit nasty mom leisure prefer cover among history";
+var mnemonic = "about kit immune hill rare weird sauce team celery knife six steak";

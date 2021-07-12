@@ -1,1 +1,1 @@
-var mnemonic = "sibling kingdom sight before learn fringe fat grape screen library music field";
+var mnemonic = "become cook time cattle labor universe opera leaf fix prosper skate high";

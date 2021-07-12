@@ -1,1 +1,1 @@
-var mnemonic = "mouse exile business mother toss orphan enough delay patient decline divert spot";
+var mnemonic = "coin slow tuition price color exercise scare alcohol useful fetch obscure primary";

@@ -1,1 +1,1 @@
-var mnemonic = "danger since setup mother slam market pistol tuition shaft media arrange glance";
+var mnemonic = "steak neck guide pizza forum hard suggest reward rocket eyebrow believe run";

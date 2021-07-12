@@ -1,1 +1,1 @@
-var mnemonic = "gauge disagree fitness output borrow turn color proof crowd advice renew opinion";
+var mnemonic = "struggle kingdom whisper evolve result dog dizzy spirit spoon atom forest mouse";

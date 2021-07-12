@@ -1,1 +1,1 @@
-var mnemonic = "quantum thunder oxygen fan medal reduce dust artist together walnut rib account";
+var mnemonic = "hover grain reward rocket horse achieve sting grit frog glimpse veteran believe";

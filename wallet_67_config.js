@@ -1,1 +1,1 @@
-var mnemonic = "able another drip cry horse flag retire same film switch guard coral";
+var mnemonic = "zero zone pink talk cliff position forum better answer measure step soft";

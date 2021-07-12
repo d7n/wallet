@@ -1,1 +1,1 @@
-var mnemonic = "renew object morning aunt wedding casual swift senior knife alarm sniff give";
+var mnemonic = "electric film sting answer armor rapid unveil report risk because welcome promote";

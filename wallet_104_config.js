@@ -1,1 +1,1 @@
-var mnemonic = "kit bomb mystery pepper model helmet sword moment appear leopard pelican say";
+var mnemonic = "account deny fantasy start settle sound minute flush bachelor rice moon winner";

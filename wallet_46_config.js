@@ -1,1 +1,1 @@
-var mnemonic = "list crack umbrella educate now mansion coach small mutual stomach great hospital";
+var mnemonic = "champion slice ocean tribe ginger huge wagon desert cable shine way elevator";

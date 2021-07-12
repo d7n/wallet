@@ -1,1 +1,1 @@
-var mnemonic = "tell cycle eternal permit depart turkey left water praise dolphin steel film";
+var mnemonic = "march ten bamboo grunt assist stage tooth control guilt monster olive must";

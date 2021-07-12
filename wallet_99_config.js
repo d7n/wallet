@@ -1,1 +1,1 @@
-var mnemonic = "century disease today mail grab maple beef empower mention rent zoo betray";
+var mnemonic = "fire salmon couch topple magnet tunnel dog sausage buzz gesture flock wrap";

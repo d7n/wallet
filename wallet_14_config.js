@@ -1,1 +1,1 @@
-var mnemonic = "cost fluid double near menu dial front boring version reject envelope skirt";
+var mnemonic = "upset muffin sight race jazz inhale stuff inmate what federal torch siren";

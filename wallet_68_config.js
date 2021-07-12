@@ -1,1 +1,1 @@
-var mnemonic = "cash narrow snack shallow gesture settle oblige cluster sell vessel cool swing";
+var mnemonic = "sponsor elegant already manage sound planet page stone mirror universe then roof";

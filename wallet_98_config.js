@@ -1,1 +1,1 @@
-var mnemonic = "any nose crack muffin million rack secret awesome idle onion sunny night";
+var mnemonic = "parade coil success pulse grow cover there sport strategy route blanket you";

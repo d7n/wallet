@@ -1,1 +1,1 @@
-var mnemonic = "sea project siege ice can person strategy country tragic eyebrow wrong junk";
+var mnemonic = "spirit butter destroy process day lucky usage food topic flat veteran company";

@@ -1,1 +1,1 @@
-var mnemonic = "become pipe heavy edge enough situate snack choose artwork card remember enlist";
+var mnemonic = "switch skill fatal mammal sick foot budget chaos define bacon buddy excite";

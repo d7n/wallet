@@ -1,1 +1,1 @@
-var mnemonic = "example brown moment often nice fiber convince dilemma burst actress elite harbor";
+var mnemonic = "ticket sadness roof deputy panther artefact cloud list occur cause surface pass";

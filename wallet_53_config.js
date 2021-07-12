@@ -1,1 +1,1 @@
-var mnemonic = "frequent wet race mechanic napkin solution fresh stool grocery still tide traffic";
+var mnemonic = "reject charge truck surge opinion pool bright domain weasel category must shrug";

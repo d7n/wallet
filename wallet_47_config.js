@@ -1,1 +1,1 @@
-var mnemonic = "try multiply hamster mandate orient theory random install pen disorder swim clinic";
+var mnemonic = "trial decrease sure announce blur sadness laptop dash round fruit timber height";

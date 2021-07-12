@@ -1,1 +1,1 @@
-var mnemonic = "wedding kind bring silent access staff stadium panther jar organ country mercy";
+var mnemonic = "twelve snap shoot lobster raise unfair lift educate run tuition adult afraid";
