@@ -1,1 +1,1 @@
-var mnemonic = "enemy illegal digital combine believe enemy color stumble cancel intact member blanket";
+var mnemonic = "order album uniform sketch churn only nice into useful combine seminar dinner";

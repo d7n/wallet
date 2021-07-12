@@ -1,1 +1,1 @@
-var mnemonic = "found slim similar potato pledge change civil attend trial random pioneer glare";
+var mnemonic = "park surface brisk beach intact kitten answer patrol force hammer garbage rate";

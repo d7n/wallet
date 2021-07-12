@@ -1,1 +1,1 @@
-var mnemonic = "clerk please banner embark helmet embody coyote clap park level slide frown";
+var mnemonic = "helmet radio figure shallow scrap length divert glad doll female mistake atom";

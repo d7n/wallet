@@ -1,1 +1,1 @@
-var mnemonic = "sugar comic once unable noise blanket three course silver scatter vehicle already";
+var mnemonic = "reveal south delay upgrade despair better release trigger remain protect dove laptop";

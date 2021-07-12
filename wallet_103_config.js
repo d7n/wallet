@@ -1,1 +1,1 @@
-var mnemonic = "dumb share mushroom march measure pair cargo cry fuel still gesture remove";
+var mnemonic = "worry talent journey resource shoulder glad muffin weekend capable piece fall rib";

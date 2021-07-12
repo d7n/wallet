@@ -1,1 +1,1 @@
-var mnemonic = "harvest holiday river regret nasty mention series away supreme ring off tilt";
+var mnemonic = "yard taste raise media minor derive often round odor width eyebrow bright";

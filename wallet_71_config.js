@@ -1,1 +1,1 @@
-var mnemonic = "token because canyon father zoo shock gallery juice sight miracle chuckle pipe";
+var mnemonic = "meat over innocent token debate essence evolve oblige awful develop enjoy rude";

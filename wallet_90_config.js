@@ -1,1 +1,1 @@
-var mnemonic = "main snow ship stable photo depend shrimp diet spray bleak adjust sudden";
+var mnemonic = "clinic lazy ring base virtual pitch wall pulse extend giggle boost script";

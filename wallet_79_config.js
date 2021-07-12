@@ -1,1 +1,1 @@
-var mnemonic = "moment outside injury drum shiver share alien skate income cancel catch pass";
+var mnemonic = "blood one anger sugar unfold coffee come inherit apple provide point obey";

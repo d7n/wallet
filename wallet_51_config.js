@@ -1,1 +1,1 @@
-var mnemonic = "whip risk hotel brand poet mushroom vicious enlist stay elevator off bamboo";
+var mnemonic = "spoil unfold enrich census rich true flock school infant near endless escape";

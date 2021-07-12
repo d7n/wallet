@@ -1,1 +1,1 @@
-var mnemonic = "youth lecture luxury square doll fabric hello guide victory clarify still gauge";
+var mnemonic = "amazing gasp kind swing year blue oil enable eternal luggage buffalo trap";

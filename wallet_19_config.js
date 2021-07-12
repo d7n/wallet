@@ -1,1 +1,1 @@
-var mnemonic = "trial waste rebuild dignity offer coach garden demise such mountain head defy";
+var mnemonic = "phone wrestle way piano spoon fitness announce sibling ridge announce gate inch";

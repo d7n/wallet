@@ -1,1 +1,1 @@
-var mnemonic = "garden damage axis play enroll volume trash achieve because guitar wisdom reason";
+var mnemonic = "loop aerobic hover point elevator goddess army sunny address umbrella horror piano";

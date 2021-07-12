@@ -1,1 +1,1 @@
-var mnemonic = "myth wise holiday gas where divide casino quality tomorrow boost zoo mixture";
+var mnemonic = "judge truck tennis recipe tube roof risk buffalo nose train urge illness";

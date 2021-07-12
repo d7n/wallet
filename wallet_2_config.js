@@ -1,1 +1,1 @@
-var mnemonic = "asthma police hard improve approve shiver antenna grape disease erase axis spray";
+var mnemonic = "chaos phrase damp blush also punch couch loop service recycle team illegal";

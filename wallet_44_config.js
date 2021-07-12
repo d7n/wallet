@@ -1,1 +1,1 @@
-var mnemonic = "traffic liberty giggle confirm enemy suffer position office judge alarm walk raw";
+var mnemonic = "buffalo task impulse affair crush country around sick viable correct stairs custom";

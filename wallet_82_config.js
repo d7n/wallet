@@ -1,1 +1,1 @@
-var mnemonic = "later amazing then lava possible symbol blame mushroom crucial museum govern bubble";
+var mnemonic = "reduce initial rural fetch sound extend area century verb film ghost minor";

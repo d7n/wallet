@@ -1,1 +1,1 @@
-var mnemonic = "filter detail amazing brief grain vapor diamond jar immense expire echo unhappy";
+var mnemonic = "truly input kangaroo rare fee kick sense together nice olive profit winter";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mosquito blind elder junk vessel drill garlic luxury kingdom worry purpose";
+var mnemonic = "minimum advance lake soup hazard damage side profit whisper paper toss album";

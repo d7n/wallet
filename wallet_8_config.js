@@ -1,1 +1,1 @@
-var mnemonic = "captain check bag habit champion health tobacco panel pencil diagram mosquito grace";
+var mnemonic = "flash spring tail measure biology mutual wet nut multiply neutral element distance";

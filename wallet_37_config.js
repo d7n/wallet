@@ -1,1 +1,1 @@
-var mnemonic = "winner any upon smooth biology aim pink clog example simple wild stay";
+var mnemonic = "kitchen sail holiday album guess icon pole whale alarm cheese twice ball";

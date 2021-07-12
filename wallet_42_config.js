@@ -1,1 +1,1 @@
-var mnemonic = "make only depart like lunar alter worry travel brown wave combine dinosaur";
+var mnemonic = "scare coach donate toe when mutual arrange million suggest strong industry height";

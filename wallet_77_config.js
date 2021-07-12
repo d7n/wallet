@@ -1,1 +1,1 @@
-var mnemonic = "olympic ticket few end tornado squirrel circle vast robot jacket thrive harsh";
+var mnemonic = "iron pave indicate exchange catch bronze myth involve monkey invest pepper border";

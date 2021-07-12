@@ -1,1 +1,1 @@
-var mnemonic = "purchase credit spy cigar culture throw ocean ancient insane oyster prison inhale";
+var mnemonic = "call fabric staff estate menu spike left dentist elephant also thank drift";

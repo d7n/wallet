@@ -1,1 +1,1 @@
-var mnemonic = "absorb bonus fix top advice trip truly funny blur maple rocket film";
+var mnemonic = "usual copy female ridge resource garlic lounge spoil execute february print oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke aunt album decide knife arrange win napkin oak ancient artist pair";
+var mnemonic = "work fox animal donor elegant genius letter envelope grief video damp pottery";

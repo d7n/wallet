@@ -1,1 +1,1 @@
-var mnemonic = "talk duty mad cloud churn fat room whip kiss palace happy spoon";
+var mnemonic = "bundle impulse space captain rifle alone couple fiction text oxygen cash blue";

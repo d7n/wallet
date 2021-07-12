@@ -1,1 +1,1 @@
-var mnemonic = "jewel disagree human amazing slow harvest pepper flower text anchor busy stereo";
+var mnemonic = "size sausage tool real mention afraid crush december umbrella eagle hip clown";

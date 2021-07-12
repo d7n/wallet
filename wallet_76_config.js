@@ -1,1 +1,1 @@
-var mnemonic = "keen switch true brain notice anger town regret afraid hour blood emotion";
+var mnemonic = "gain receive year display tonight deposit swarm disagree mouse prize trim best";

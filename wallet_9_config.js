@@ -1,1 +1,1 @@
-var mnemonic = "radio language accident rib fish bachelor busy buddy van talk rural media";
+var mnemonic = "build chief achieve poet egg afraid use melody major long olympic follow";

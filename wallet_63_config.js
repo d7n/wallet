@@ -1,1 +1,1 @@
-var mnemonic = "force tumble peace climb unknown moment local modify mass reflect vessel enter";
+var mnemonic = "wage patrol shell region fee country warrior picture describe crane honey skate";

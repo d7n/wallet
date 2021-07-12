@@ -1,1 +1,1 @@
-var mnemonic = "library actor latin entry expand unlock foam surge burst library fabric surge";
+var mnemonic = "run panic border wool heavy eight spoon evidence produce someone fit setup";

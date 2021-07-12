@@ -1,1 +1,1 @@
-var mnemonic = "pave puppy wait copper hat pride ostrich seek corn tomorrow hope lock";
+var mnemonic = "trip diet endless endorse eager credit hour call mansion spirit make step";

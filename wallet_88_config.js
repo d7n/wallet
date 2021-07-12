@@ -1,1 +1,1 @@
-var mnemonic = "sand tilt flush promote toilet fog stool view runway erase note purity";
+var mnemonic = "exercise hidden destroy toilet hub region boy wink citizen census burden february";

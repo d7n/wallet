@@ -1,1 +1,1 @@
-var mnemonic = "often hungry buddy caution core rug soda wide puzzle cushion pencil scan";
+var mnemonic = "divorce young mosquito behave party ozone spring ritual leisure car photo sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "height method tray time upset bamboo control amazing carbon rib tenant brain";
+var mnemonic = "twist slim into tilt elder busy gorilla grid common key notice obtain";

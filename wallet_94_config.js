@@ -1,1 +1,1 @@
-var mnemonic = "skirt budget short among scorpion trophy survey season tumble meadow luxury live";
+var mnemonic = "quit distance anxiety common siren opera symbol write body brother record antique";

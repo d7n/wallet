@@ -1,1 +1,1 @@
-var mnemonic = "during setup floor decade relax elite act fatigue myself below lobster blush";
+var mnemonic = "february rug blast jaguar project pact crowd raven expect glove forest mechanic";

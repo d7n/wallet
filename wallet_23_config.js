@@ -1,1 +1,1 @@
-var mnemonic = "ride other clever present sail give they royal shuffle curve allow imitate";
+var mnemonic = "urban scene absorb desert oppose private dial north stadium live vintage vital";

@@ -1,1 +1,1 @@
-var mnemonic = "actor trim text taxi exact pipe carbon monitor rotate universe destroy into";
+var mnemonic = "inspire crystal diet million gesture you nephew edit scout fuel inquiry cloud";

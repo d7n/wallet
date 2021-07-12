@@ -1,1 +1,1 @@
-var mnemonic = "youth exercise risk rubber square order scrub clarify tide achieve nature opinion";
+var mnemonic = "right awesome evoke question start bracket pudding coin volume pottery chase symbol";

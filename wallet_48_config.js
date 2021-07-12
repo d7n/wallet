@@ -1,1 +1,1 @@
-var mnemonic = "motor field convince pill ship fragile course mother memory glow renew want";
+var mnemonic = "dirt beauty topic chef picnic legal mom rubber flee tail panel excess";

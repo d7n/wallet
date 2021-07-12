@@ -1,1 +1,1 @@
-var mnemonic = "jungle stay apology bitter assault stay penalty gentle merry goddess pipe pupil";
+var mnemonic = "biology bottom danger scissors situate surround bamboo rude hour bitter lunar coast";

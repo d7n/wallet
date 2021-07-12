@@ -1,1 +1,1 @@
-var mnemonic = "blue rigid type mimic arctic shop swamp vintage small zero network clarify";
+var mnemonic = "engine cactus dice spare surface civil mixed initial oil fancy change trophy";

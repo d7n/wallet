@@ -1,1 +1,1 @@
-var mnemonic = "toss more year fog dial east limb beach glide cart flock various";
+var mnemonic = "dove exist clock raccoon resource wink symbol together scout retreat sphere cushion";

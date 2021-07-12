@@ -1,1 +1,1 @@
-var mnemonic = "other sketch fancy volcano develop laugh harsh journey strong stage since inquiry";
+var mnemonic = "glimpse airport physical beef science quality spread crowd sustain speed cube happy";

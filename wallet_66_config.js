@@ -1,1 +1,1 @@
-var mnemonic = "blast lottery keen cycle hire network adapt shallow play walnut float fury";
+var mnemonic = "neck scene approve current dash spare tower pilot embrace emerge abstract spin";

@@ -1,1 +1,1 @@
-var mnemonic = "enact gravity champion very video orient fade cattle buffalo wet head barely";
+var mnemonic = "latin traffic embark clock assist copy rely bunker post update aunt violin";

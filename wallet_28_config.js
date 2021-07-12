@@ -1,1 +1,1 @@
-var mnemonic = "pulp daring hire soap tenant abstract describe pattern salt nest tongue oyster";
+var mnemonic = "slogan risk certain input wood axis private badge side exhibit welcome caution";

@@ -1,1 +1,1 @@
-var mnemonic = "latin warrior magnet hope monkey later sustain primary bid prevent mother sure";
+var mnemonic = "turn yard useful electric elephant melt still flee goat garment wise funny";

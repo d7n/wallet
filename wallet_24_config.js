@@ -1,1 +1,1 @@
-var mnemonic = "cable excuse must crunch deputy boost close apart this item expire will";
+var mnemonic = "nothing fish poet adapt reduce inspire control loop loan eager gas begin";

@@ -1,1 +1,1 @@
-var mnemonic = "catch mandate now inmate pass journey cake muffin just fuel answer garbage";
+var mnemonic = "assault slush salad average okay pistol balance basic kick expire debate remind";

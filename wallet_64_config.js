@@ -1,1 +1,1 @@
-var mnemonic = "truck whale endless slot twice father inspire tray balcony invest soldier guess";
+var mnemonic = "camera eight flag spring monster arena become naive veteran morning oval blade";

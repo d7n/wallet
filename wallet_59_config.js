@@ -1,1 +1,1 @@
-var mnemonic = "flee indicate knee accuse business fame away recycle today ghost retire champion";
+var mnemonic = "enforce cable place between about found labor moon curve coast taste arctic";

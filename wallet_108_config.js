@@ -1,1 +1,1 @@
-var mnemonic = "lobster quality employ adjust under art false chuckle sign cheap fish wife";
+var mnemonic = "atom custom recipe denial confirm camera news mesh glad ginger nuclear opera";

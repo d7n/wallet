@@ -1,1 +1,1 @@
-var mnemonic = "spatial rescue strong ice brown trust cost vacuum icon atom find crazy";
+var mnemonic = "sport mixed obvious useless smoke rotate target behave cabin move enact flee";

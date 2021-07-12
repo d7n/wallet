@@ -1,1 +1,1 @@
-var mnemonic = "annual onion diamond remember unfair industry beach plastic entire shift dinner theme";
+var mnemonic = "joke bottom style project escape reopen any chat belt during beach coyote";

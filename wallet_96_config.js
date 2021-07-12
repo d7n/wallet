@@ -1,1 +1,1 @@
-var mnemonic = "owner wonder actress other general wonder forward actor swap frog auction grit";
+var mnemonic = "wreck love doll hybrid twin estate west arrow exhaust rate margin chimney";

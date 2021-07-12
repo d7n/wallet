@@ -1,1 +1,1 @@
-var mnemonic = "carry vanish dad segment secret hockey opinion orphan festival bacon pizza vital";
+var mnemonic = "damage vintage depend diet honey sound behave laugh balance above regular together";

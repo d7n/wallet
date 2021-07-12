@@ -1,1 +1,1 @@
-var mnemonic = "disorder captain dove wool review client expose system gadget put art two";
+var mnemonic = "gap rude shrimp skate gravity forum into reward peace regret trumpet update";

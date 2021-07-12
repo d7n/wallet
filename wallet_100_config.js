@@ -1,1 +1,1 @@
-var mnemonic = "sport argue hollow vicious act donate rate domain coral stable puppy produce";
+var mnemonic = "above witness aisle all virtual fitness wise toilet rabbit category private unique";

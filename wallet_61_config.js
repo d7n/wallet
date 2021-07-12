@@ -1,1 +1,1 @@
-var mnemonic = "treat siege what fetch green energy will virtual expect idle omit title";
+var mnemonic = "trouble coast charge surround body clean whip cereal almost tiger truly embody";

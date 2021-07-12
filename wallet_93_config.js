@@ -1,1 +1,1 @@
-var mnemonic = "bachelor space crisp void eye morning burden issue snake refuse vital violin";
+var mnemonic = "tobacco foil champion taste defy grain advance rally select juice fortune rigid";

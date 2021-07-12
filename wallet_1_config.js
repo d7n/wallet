@@ -1,1 +1,1 @@
-var mnemonic = "ladder process cliff liquid drama sibling palm scare often maze nurse produce";
+var mnemonic = "jazz nephew order practice project ski shoulder oak answer erosion punch gospel";

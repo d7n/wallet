@@ -1,1 +1,1 @@
-var mnemonic = "perfect angle smart tattoo tourist runway ignore warm hospital eternal admit include";
+var mnemonic = "road rhythm cause prepare disagree boy frog clinic genre disorder feed eight";

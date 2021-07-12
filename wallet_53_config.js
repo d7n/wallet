@@ -1,1 +1,1 @@
-var mnemonic = "planet offer safe predict jelly tool switch obtain cup economy ten raise";
+var mnemonic = "goddess sell olive sad thunder angry minor make peasant shell case steak";

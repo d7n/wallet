@@ -1,1 +1,1 @@
-var mnemonic = "shy soup install observe upper duty weird shy aspect coach actual when";
+var mnemonic = "coffee profit sick find artefact bubble live donate auction initial board shock";

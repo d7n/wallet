@@ -1,1 +1,1 @@
-var mnemonic = "average bicycle opera young behave cushion two trust liquid nest require permit";
+var mnemonic = "neither fault siege end zebra holiday cake film another then canvas valve";

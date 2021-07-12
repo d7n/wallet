@@ -1,1 +1,1 @@
-var mnemonic = "science rapid slam cheap inner because predict liquid smart diesel physical giant";
+var mnemonic = "paper lazy width feel beef multiply retire fabric cruel off photo dentist";

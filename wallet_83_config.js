@@ -1,1 +1,1 @@
-var mnemonic = "busy industry dad mixture armed biology lady popular rocket glimpse crunch lamp";
+var mnemonic = "tired toilet poverty horn spring liar chat desk year used pyramid curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot arrow rug kitchen edge mobile proof auto beef umbrella arena call";
+var mnemonic = "fence square firm modify link drip arrow village allow fox patch recipe";

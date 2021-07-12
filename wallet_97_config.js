@@ -1,1 +1,1 @@
-var mnemonic = "slender pumpkin resemble shrimp battle join impact dragon game mansion permit result";
+var mnemonic = "deposit vault van relax auto auto save boost young student fold catalog";

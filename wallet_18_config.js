@@ -1,1 +1,1 @@
-var mnemonic = "more already title winter swear clever water federal mountain exhibit inflict parade";
+var mnemonic = "tunnel silly neutral card slush youth again hidden citizen attend split enhance";

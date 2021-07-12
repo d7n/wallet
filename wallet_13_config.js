@@ -1,1 +1,1 @@
-var mnemonic = "squirrel special obey sugar case melody vessel brass upon behind market evolve";
+var mnemonic = "misery try defy stove word woman bargain adjust detail behind viable rain";

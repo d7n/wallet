@@ -1,1 +1,1 @@
-var mnemonic = "monster wonder rate clever mom child borrow van steak wrong shove fossil";
+var mnemonic = "shoot crater body forward chat pave giggle priority nominee ankle weird clay";

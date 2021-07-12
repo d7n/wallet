@@ -1,1 +1,1 @@
-var mnemonic = "another reject upper tortoise virtual tomato grass kite sock enough steel leave";
+var mnemonic = "cable three nurse stuff stone thing decline habit foot tank toward recipe";

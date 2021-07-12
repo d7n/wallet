@@ -1,1 +1,1 @@
-var mnemonic = "hunt sponsor monster permit practice hedgehog during solid proud inner what genuine";
+var mnemonic = "mammal menu wide defy remain sister badge secret charge hurt gown river";

@@ -1,1 +1,1 @@
-var mnemonic = "defy moral reopen oil oven tail render speed copy muffin actual gesture";
+var mnemonic = "leader entry myself awake memory absurd enhance three erupt tunnel mail renew";

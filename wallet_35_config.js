@@ -1,1 +1,1 @@
-var mnemonic = "muffin fever rate jaguar virus fringe skin peanut together census nut name";
+var mnemonic = "absurd shrimp world evil dune eye situate glove vendor south crew violin";

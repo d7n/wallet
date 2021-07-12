@@ -1,1 +1,1 @@
-var mnemonic = "badge alley issue limb live wash vast bind grape garden expect meadow";
+var mnemonic = "false lava pool clarify exercise bacon inhale miracle fury artwork lab cheap";

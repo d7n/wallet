@@ -1,1 +1,1 @@
-var mnemonic = "glide margin latin unlock toddler physical visit link crime buzz forum inquiry";
+var mnemonic = "love gadget stumble draft scrub cause banner lawsuit clever success pudding guilt";

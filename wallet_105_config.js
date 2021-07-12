@@ -1,1 +1,1 @@
-var mnemonic = "shift empower summer seven attract melt inflict fly violin into early upon";
+var mnemonic = "post fitness base myself before punch tree under endless depend belt erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch orchard rate egg talk limb mother clock buyer myself phone violin";
+var mnemonic = "march swamp loud trash length lobster search toy kid cereal moon trial";

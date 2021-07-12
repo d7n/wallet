@@ -1,1 +1,1 @@
-var mnemonic = "what work result day unaware window fetch settle sorry sample dune tide";
+var mnemonic = "elephant ice young absorb unveil broccoli unusual transfer trick rabbit breeze ability";

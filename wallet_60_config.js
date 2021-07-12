@@ -1,1 +1,1 @@
-var mnemonic = "rally noble lesson promote click habit either alone shoulder bundle explain cloud";
+var mnemonic = "venture thank suspect slot daring wide pact man peanut budget discover innocent";

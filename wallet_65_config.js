@@ -1,1 +1,1 @@
-var mnemonic = "jump raven unique mistake negative race abstract mail entire autumn embrace cattle";
+var mnemonic = "rare prosper doll typical august release curve certain common assist blade web";

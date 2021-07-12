@@ -1,1 +1,1 @@
-var mnemonic = "uncover great cinnamon glove wear diagram drill expose shine master trim vast";
+var mnemonic = "elegant payment balcony omit little hazard drill farm caution duck inherit always";
