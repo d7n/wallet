@@ -1,1 +1,1 @@
-var mnemonic = "raccoon daring trust twelve certain summer warrior random latin famous disease cigar";
+var mnemonic = "peanut alien bottom duck bleak render exit gossip decorate angry identify clown";

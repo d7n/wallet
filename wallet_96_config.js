@@ -1,1 +1,1 @@
-var mnemonic = "snake thumb option top mix home prize abstract claw urban work surprise";
+var mnemonic = "become earn rookie solution robust nurse educate damage use purity unaware vacuum";

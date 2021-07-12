@@ -1,1 +1,1 @@
-var mnemonic = "conduct copper essence valid pull sniff rack surge horror dust correct canal";
+var mnemonic = "emotion squeeze admit forget monitor aspect like useless collect develop learn shrug";

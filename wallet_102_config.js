@@ -1,1 +1,1 @@
-var mnemonic = "evoke enforce fly execute trade that pulp bread food dove bone valid";
+var mnemonic = "science coin chat model strategy erase mouse frost mesh grit pyramid cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "forget rain obey current fashion flower lake room ketchup child fabric width";
+var mnemonic = "also heart crop keep situate aware maze cable margin month tuition ability";

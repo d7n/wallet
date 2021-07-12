@@ -1,1 +1,1 @@
-var mnemonic = "clip suggest float evoke garment plug cabin foster lumber vibrant behave order";
+var mnemonic = "common awkward right situate rail february engage amount volume cousin cart sustain";

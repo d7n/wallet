@@ -1,1 +1,1 @@
-var mnemonic = "spatial episode someone tag nest cruel bracket borrow hedgehog motor merge beyond";
+var mnemonic = "mobile snap animal heavy that cereal history crater sauce frost picture charge";

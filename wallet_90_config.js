@@ -1,1 +1,1 @@
-var mnemonic = "insane chaos reunion fatigue lock path quote fish amount novel soda suffer";
+var mnemonic = "milk fee safe refuse shallow pass shoe post way great put amused";

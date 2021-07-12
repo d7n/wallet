@@ -1,1 +1,1 @@
-var mnemonic = "rich chief hood glory impulse fly stomach shoe silk margin upgrade other";
+var mnemonic = "open frozen dismiss zoo clown call march jacket entry opera quit between";

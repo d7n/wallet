@@ -1,1 +1,1 @@
-var mnemonic = "flush loud cactus bind filter push kick dog beauty wagon sadness myself";
+var mnemonic = "portion able install portion bracket monster tide boat brother paper grace vessel";

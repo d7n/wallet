@@ -1,1 +1,1 @@
-var mnemonic = "genuine butter tattoo upset vast initial report goddess maximum proud offer royal";
+var mnemonic = "hover rent mesh pencil water dirt share invest effort define sell tank";

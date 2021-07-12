@@ -1,1 +1,1 @@
-var mnemonic = "trophy concert ketchup job narrow elegant hidden once hire nerve oven actual";
+var mnemonic = "reject scene collect crash island force breeze mask please tank maximum salute";

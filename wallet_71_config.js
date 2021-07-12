@@ -1,1 +1,1 @@
-var mnemonic = "wait blossom develop fetch pull genuine jeans now win immune settle input";
+var mnemonic = "ginger armed suspect enforce old hamster basket chuckle add critic genius pudding";

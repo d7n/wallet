@@ -1,1 +1,1 @@
-var mnemonic = "forest walnut tide ahead fault cable grant aunt syrup moon glide wine";
+var mnemonic = "item bundle wedding iron abandon any please trust castle swarm wet hungry";

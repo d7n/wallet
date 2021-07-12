@@ -1,1 +1,1 @@
-var mnemonic = "jewel furnace excess dirt inhale knee educate labor virtual nut memory kid";
+var mnemonic = "elite retreat milk jealous half tennis wonder garbage great profit sell fire";

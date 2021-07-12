@@ -1,1 +1,1 @@
-var mnemonic = "fever energy pupil midnight average corn brown chief patch glove artist abuse";
+var mnemonic = "cart prefer cloud secret pyramid video clog test later material cereal wrist";

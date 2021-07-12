@@ -1,1 +1,1 @@
-var mnemonic = "galaxy artefact juice abstract chicken brass source crater depth hint evil elephant";
+var mnemonic = "learn goose agent dress prepare into room bring table chuckle sadness syrup";

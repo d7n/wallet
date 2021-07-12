@@ -1,1 +1,1 @@
-var mnemonic = "power palace bullet estate trade market clean apart judge case garbage swim";
+var mnemonic = "blast dust seek hello salon mystery venture hood hazard defense aerobic police";

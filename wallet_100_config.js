@@ -1,1 +1,1 @@
-var mnemonic = "cream advance witness keen wine replace asthma claw hundred retreat physical feel";
+var mnemonic = "perfect island stable once legend review hand toddler bacon bus neither hobby";

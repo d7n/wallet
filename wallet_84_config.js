@@ -1,1 +1,1 @@
-var mnemonic = "hat tone tip front calm crime method access cost legend lumber whisper";
+var mnemonic = "please drift loyal carry sea term control defy sadness scatter salmon tomorrow";

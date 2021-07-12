@@ -1,1 +1,1 @@
-var mnemonic = "clown actress cave bleak type celery void blade glad false knee random";
+var mnemonic = "warfare mountain cheap verify burger client solve type resource random divert boy";

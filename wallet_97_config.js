@@ -1,1 +1,1 @@
-var mnemonic = "section win loop globe glance gospel borrow desert couple garden scrap attend";
+var mnemonic = "before eternal merit fall nose fix tomato gold only insane square attract";

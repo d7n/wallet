@@ -1,1 +1,1 @@
-var mnemonic = "only already gate law veteran absorb tackle dice resemble shell more grant";
+var mnemonic = "blouse expire fossil novel foam where exotic company recall park accuse ramp";

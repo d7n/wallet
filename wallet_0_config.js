@@ -1,1 +1,1 @@
-var mnemonic = "snow fashion confirm dog derive screen engine shove deal chest scout stable";
+var mnemonic = "topic sunny caught problem globe example split live actor glue mirror confirm";

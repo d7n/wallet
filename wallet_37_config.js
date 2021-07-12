@@ -1,1 +1,1 @@
-var mnemonic = "play crucial early month run slow sample myself receive blossom adapt soda";
+var mnemonic = "injury abstract smile skirt urge february exact make belt donate turtle length";

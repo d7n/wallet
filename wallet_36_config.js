@@ -1,1 +1,1 @@
-var mnemonic = "glory faith gravity panel able smile trip nest area casino hour smoke";
+var mnemonic = "arrest auction book suggest universe industry nuclear camera dynamic link dish crouch";

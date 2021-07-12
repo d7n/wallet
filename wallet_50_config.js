@@ -1,1 +1,1 @@
-var mnemonic = "crucial sauce winner drama credit child budget pulse begin spare february maximum";
+var mnemonic = "rough act castle turtle bag improve satoshi surprise result item cereal stick";

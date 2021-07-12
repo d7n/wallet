@@ -1,1 +1,1 @@
-var mnemonic = "brother slender march cave put buzz risk figure dilemma undo off want";
+var mnemonic = "magic office second twelve explain chimney impose craft bar melt pilot vacuum";

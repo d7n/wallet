@@ -1,1 +1,1 @@
-var mnemonic = "message ecology vehicle upon kitchen engine toddler health present math drift term";
+var mnemonic = "author around hero rib wheat pipe clever enough razor symbol stock other";

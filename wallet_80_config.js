@@ -1,1 +1,1 @@
-var mnemonic = "auto replace physical rally plastic melody camp dignity crumble eight lottery position";
+var mnemonic = "appear utility nephew panic slender file flavor group adult nothing paddle egg";

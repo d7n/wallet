@@ -1,1 +1,1 @@
-var mnemonic = "include creek car jeans music abandon essence illegal view couch primary solid";
+var mnemonic = "insane catch oblige live galaxy bronze behave hotel ecology force cash burger";

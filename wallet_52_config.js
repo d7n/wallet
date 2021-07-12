@@ -1,1 +1,1 @@
-var mnemonic = "broken dance burst reunion mutual wrestle detect dust unveil bracket bring kiwi";
+var mnemonic = "giggle short roast rice task allow sock winner squeeze excess auto future";

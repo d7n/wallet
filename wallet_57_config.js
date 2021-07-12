@@ -1,1 +1,1 @@
-var mnemonic = "genius blue black remember silk joy carpet velvet reveal meat answer arrest";
+var mnemonic = "farm law hedgehog few more advice cry net rack ship magic slow";

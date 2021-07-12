@@ -1,1 +1,1 @@
-var mnemonic = "burden moment soul expire essay plastic trip chronic chimney toss tooth ramp";
+var mnemonic = "glare gap monster shoe cradle hobby float sure nation penalty sight catch";

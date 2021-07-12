@@ -1,1 +1,1 @@
-var mnemonic = "whip general tourist grocery cereal arctic love solution breeze tornado harvest casino";
+var mnemonic = "lyrics aerobic keen swift mosquito punch rocket electric lab often nurse bargain";

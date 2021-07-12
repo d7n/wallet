@@ -1,1 +1,1 @@
-var mnemonic = "stadium solution blood van artist half slide feature piano scale raven ship";
+var mnemonic = "all deer come hollow post myth say snap focus oval popular side";

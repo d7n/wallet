@@ -1,1 +1,1 @@
-var mnemonic = "donate clarify black genuine crime eyebrow turtle ivory pioneer recipe often raven";
+var mnemonic = "maple jar expect place tell hood talent stick tell long regular merit";

@@ -1,1 +1,1 @@
-var mnemonic = "render inherit pause valley buffalo skin reunion machine retire erode omit primary";
+var mnemonic = "want bench raise dash camp atom treat pelican era post diary middle";

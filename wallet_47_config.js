@@ -1,1 +1,1 @@
-var mnemonic = "topple become muscle joy dish forest lawn repeat moral category float worry";
+var mnemonic = "correct three begin picture ramp sight expire subject total then thumb casual";

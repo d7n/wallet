@@ -1,1 +1,1 @@
-var mnemonic = "toe mechanic post small apple fall panic charge issue youth pelican object";
+var mnemonic = "dignity genre anger warfare identify confirm opera consider october skirt sweet can";

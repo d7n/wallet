@@ -1,1 +1,1 @@
-var mnemonic = "neutral fashion excite jealous woman creek rigid aunt road escape sunset medal";
+var mnemonic = "book gas guard option okay birth poverty demand avoid scheme script plastic";

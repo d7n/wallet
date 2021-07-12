@@ -1,1 +1,1 @@
-var mnemonic = "cook master sketch ankle capable open elbow solid drift perfect always story";
+var mnemonic = "security lunch hedgehog wish veteran shallow exact govern combine legal dilemma only";

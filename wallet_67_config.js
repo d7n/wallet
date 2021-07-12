@@ -1,1 +1,1 @@
-var mnemonic = "fade narrow royal license neglect romance more clean gossip inside lizard still";
+var mnemonic = "addict hazard leader cabbage divide pill boat faint express dragon evil cover";

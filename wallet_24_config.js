@@ -1,1 +1,1 @@
-var mnemonic = "trouble rug mystery behind police harsh flash spider fly gauge flock dragon";
+var mnemonic = "army peace repeat author congress poem sail label vintage enjoy grape sadness";

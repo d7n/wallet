@@ -1,1 +1,1 @@
-var mnemonic = "believe long million weapon impact stamp color honey worry witness spice this";
+var mnemonic = "gather strike attract quiz toy beauty minor tuition wreck click brother remove";

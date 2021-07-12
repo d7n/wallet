@@ -1,1 +1,1 @@
-var mnemonic = "ramp near trouble sting knock uncle grass anchor teach chef pattern daughter";
+var mnemonic = "old tone rather south armor symbol camp shuffle snap merge brother scatter";

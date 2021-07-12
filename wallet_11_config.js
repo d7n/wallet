@@ -1,1 +1,1 @@
-var mnemonic = "wage truth add depend cupboard economy season sense rifle fold buffalo moral";
+var mnemonic = "salute tail stone wash busy inquiry connect uncover about fantasy anxiety color";

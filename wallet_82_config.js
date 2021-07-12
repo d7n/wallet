@@ -1,1 +1,1 @@
-var mnemonic = "exclude relief segment notable enter airport true bag taste hotel miss relief";
+var mnemonic = "girl oak visit gather response rule type obtain render bar glide sell";

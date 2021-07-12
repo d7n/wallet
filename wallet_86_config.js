@@ -1,1 +1,1 @@
-var mnemonic = "pond dumb acquire deer tiny glad engage inquiry artefact country monkey globe";
+var mnemonic = "volume private cube until cable squeeze valve trust vehicle kiwi alpha review";

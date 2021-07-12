@@ -1,1 +1,1 @@
-var mnemonic = "only mass goose boring include gentle shoe chief skill asthma super swarm";
+var mnemonic = "car token weird upset once color cream talent ski kidney pattern subject";

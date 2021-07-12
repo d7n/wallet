@@ -1,1 +1,1 @@
-var mnemonic = "steel upper target limit derive resemble bright harvest ceiling garden similar blur";
+var mnemonic = "cash border miracle mention mix cave student evoke believe glory unfair gospel";

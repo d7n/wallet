@@ -1,1 +1,1 @@
-var mnemonic = "vintage pull tourist cotton blossom victory filter tent rail large regret nerve";
+var mnemonic = "primary skirt hospital view drama type present vendor bring tell surprise heavy";

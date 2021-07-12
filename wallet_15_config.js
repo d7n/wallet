@@ -1,1 +1,1 @@
-var mnemonic = "hamster figure release tackle nurse future resource lottery dose shy mystery empower";
+var mnemonic = "frequent chief curtain prepare hobby result major pupil suffer science bunker inspire";

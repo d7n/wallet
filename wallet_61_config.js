@@ -1,1 +1,1 @@
-var mnemonic = "innocent artefact comic ahead square bind brief basic company system derive evil";
+var mnemonic = "wet usage stereo either pen hungry rely unfold stairs push original private";

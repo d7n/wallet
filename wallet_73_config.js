@@ -1,1 +1,1 @@
-var mnemonic = "mango next bitter kick theory better leisure injury cart health brass cabbage";
+var mnemonic = "insane symbol genius bacon cream chalk pretty escape delay nasty army begin";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon exile van chaos battle render below napkin crack century gather powder";
+var mnemonic = "raise cherry program novel intact pony banner april shallow clutch express body";

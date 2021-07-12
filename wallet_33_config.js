@@ -1,1 +1,1 @@
-var mnemonic = "mixture angle eight loop pole hospital burger flight alley live mass illegal";
+var mnemonic = "recycle flight breeze pony person traffic salad fiber worry total symbol whale";

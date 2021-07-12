@@ -1,1 +1,1 @@
-var mnemonic = "scan update dragon oblige oblige increase basket network clever anger tube unfair";
+var mnemonic = "coach midnight pencil enter alley exclude festival retire summer seek cousin famous";

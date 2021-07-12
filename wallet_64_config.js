@@ -1,1 +1,1 @@
-var mnemonic = "property bubble cabin grass twin permit wine load owner duty minimum job";
+var mnemonic = "finger slow filter you cage cup dignity usage fit left capable used";

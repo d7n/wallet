@@ -1,1 +1,1 @@
-var mnemonic = "stone opinion earn disorder fiscal climb brisk library always burden version they";
+var mnemonic = "river change analyst despair blast point solution science bread draft material victory";

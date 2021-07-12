@@ -1,1 +1,1 @@
-var mnemonic = "palm taxi lobster embark clarify polar lemon observe weather foam walnut kick";
+var mnemonic = "frequent employ snap author hawk program kitchen easy blast elegant enlist major";

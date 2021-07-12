@@ -1,1 +1,1 @@
-var mnemonic = "tank curve excess under comfort work invest rain spy tiny energy swing";
+var mnemonic = "clown clock nut blame error outside north parade shine cotton volume roof";

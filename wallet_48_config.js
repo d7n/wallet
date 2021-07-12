@@ -1,1 +1,1 @@
-var mnemonic = "whip cat swallow knife despair sausage royal antenna mushroom treat goddess april";
+var mnemonic = "depart hidden bamboo stool envelope victory license river sight hire hub bridge";

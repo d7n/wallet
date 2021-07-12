@@ -1,1 +1,1 @@
-var mnemonic = "lemon size certain amount farm goose common puppy expect monster time person";
+var mnemonic = "flavor push history manual ozone girl actress old exotic fix reason riot";

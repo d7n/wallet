@@ -1,1 +1,1 @@
-var mnemonic = "document auction push all miss fame riot address inquiry confirm entire disorder";
+var mnemonic = "disorder regular where deal manual satoshi pen nut affair digital brass road";

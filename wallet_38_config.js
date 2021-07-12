@@ -1,1 +1,1 @@
-var mnemonic = "front hospital peace move salad join champion option cluster huge scrap arch";
+var mnemonic = "angle erode then toilet clap movie current joy usual resist crystal before";

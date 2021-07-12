@@ -1,1 +1,1 @@
-var mnemonic = "sudden deal client ozone practice admit middle dune ensure believe wire client";
+var mnemonic = "usage aim episode obey possible attitude recipe total frame permit hurdle level";

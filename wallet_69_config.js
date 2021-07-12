@@ -1,1 +1,1 @@
-var mnemonic = "shift similar salon orphan eagle nerve index want relief stem foil wonder";
+var mnemonic = "off inch involve field cinnamon invest wave brisk device enough stumble carbon";

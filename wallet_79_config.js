@@ -1,1 +1,1 @@
-var mnemonic = "evolve pitch shuffle stuff chapter mix jungle account impose eight black vehicle";
+var mnemonic = "local machine devote release zone useless blush endorse float radio address vital";

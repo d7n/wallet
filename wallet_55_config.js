@@ -1,1 +1,1 @@
-var mnemonic = "museum venture junk embrace merry frame switch surface burger always near patch";
+var mnemonic = "pet canoe tired alarm soft wing mention rotate pen renew decide enroll";

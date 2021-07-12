@@ -1,1 +1,1 @@
-var mnemonic = "display library benefit dice side trim suffer inmate machine rare solution method";
+var mnemonic = "plastic summer royal fluid chimney ramp blast remember surround hint main worry";

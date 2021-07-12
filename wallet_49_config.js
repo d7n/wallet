@@ -1,1 +1,1 @@
-var mnemonic = "math already media little agree quick ahead green hen destroy clutch loud";
+var mnemonic = "dirt awake goose mutual govern balcony gossip illegal input abstract broken sunny";

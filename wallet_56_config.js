@@ -1,1 +1,1 @@
-var mnemonic = "scan planet obey present section picture mushroom mixed vehicle motor marine fix";
+var mnemonic = "liar lucky brother analyst online ensure sphere away benefit toast about forward";

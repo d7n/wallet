@@ -1,1 +1,1 @@
-var mnemonic = "pause moon saddle genius else modify comic sadness wish observe panther gravity";
+var mnemonic = "discover garbage sadness range valley print burger fun hint table guitar horse";

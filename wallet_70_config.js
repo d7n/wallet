@@ -1,1 +1,1 @@
-var mnemonic = "rich alpha cereal brick vast wise step machine portion purchase foil narrow";
+var mnemonic = "clinic critic present awkward goose inner silent wasp easily upset unveil taste";

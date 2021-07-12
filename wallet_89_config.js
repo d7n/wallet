@@ -1,1 +1,1 @@
-var mnemonic = "elite base hungry grid frost lock favorite damage over design scissors just";
+var mnemonic = "exercise forward castle cat hover like random bus bright merge faculty wisdom";

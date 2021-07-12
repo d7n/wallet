@@ -1,1 +1,1 @@
-var mnemonic = "mule magnet unlock panic cook eye cry toe prevent rose diesel audit";
+var mnemonic = "aunt boat approve stamp clerk zoo slim solve order helmet rocket caught";

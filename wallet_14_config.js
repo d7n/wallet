@@ -1,1 +1,1 @@
-var mnemonic = "lunar obtain world awkward limb choose path tissue sugar square attend dwarf";
+var mnemonic = "embrace over bacon volcano drop swap girl about chimney slot coyote suit";

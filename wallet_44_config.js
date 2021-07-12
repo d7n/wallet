@@ -1,1 +1,1 @@
-var mnemonic = "then crater mechanic slide nation stomach analyst ten chronic need invest toe";
+var mnemonic = "secret giant dry eternal cabbage soccer book finger inherit gloom nuclear easy";

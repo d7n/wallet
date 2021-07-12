@@ -1,1 +1,1 @@
-var mnemonic = "absorb labor sight recycle heart develop pudding fringe wish damage fall air";
+var mnemonic = "purse clever rhythm ethics curious bridge dinosaur ostrich hole glad filter people";

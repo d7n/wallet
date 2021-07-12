@@ -1,1 +1,1 @@
-var mnemonic = "two pride mesh charge there crane grit galaxy maze type farm correct";
+var mnemonic = "diagram benefit volume stamp illegal human either another reason wrong process year";

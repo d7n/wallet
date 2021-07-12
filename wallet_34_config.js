@@ -1,1 +1,1 @@
-var mnemonic = "decide romance giant pause copy space voyage comfort clown priority carbon large";
+var mnemonic = "recipe only thought soap must puppy differ chat virus swamp check thumb";

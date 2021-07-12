@@ -1,1 +1,1 @@
-var mnemonic = "tennis hole joy antique daughter organ vintage giraffe prefer invest law fancy";
+var mnemonic = "layer more margin tenant animal frog girl use avoid lesson aerobic grit";

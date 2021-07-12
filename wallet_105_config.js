@@ -1,1 +1,1 @@
-var mnemonic = "shift case worry dentist fragile illegal tired warm pyramid disorder gesture sister";
+var mnemonic = "gym tooth pen strong plate purse affair burger hover useless apple grape";

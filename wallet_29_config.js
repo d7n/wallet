@@ -1,1 +1,1 @@
-var mnemonic = "allow wood silent page spawn loyal olympic fringe guilt confirm winner clap";
+var mnemonic = "promote street inflict awesome patient vast census unfair pair lounge tool library";

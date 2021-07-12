@@ -1,1 +1,1 @@
-var mnemonic = "comfort sting predict enter honey comfort connect trophy apart worry relax text";
+var mnemonic = "weapon there balance pudding buzz tennis umbrella thing pen twin confirm noise";

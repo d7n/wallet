@@ -1,1 +1,1 @@
-var mnemonic = "scissors waste spike absent cash office opinion behave wolf owner bargain shrimp";
+var mnemonic = "few diet must economy capital praise used clock home lemon vague slam";

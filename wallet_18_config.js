@@ -1,1 +1,1 @@
-var mnemonic = "core twist slush when vintage announce shuffle question crush meat luggage milk";
+var mnemonic = "pony fury hammer february bean phone arctic expand churn amused road rough";

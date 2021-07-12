@@ -1,1 +1,1 @@
-var mnemonic = "divorce eye maid gather crash ocean wall fan indicate thrive wait couple";
+var mnemonic = "manual exclude menu loud punch sad grass decorate suspect tomorrow magnet home";
