@@ -1,1 +1,1 @@
-var mnemonic = "wrong allow artefact attack claw select armor uncover airport prison ship uncover";
+var mnemonic = "type bag reason balance elevator visa sock shine student travel agent number";

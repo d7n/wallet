@@ -1,1 +1,1 @@
-var mnemonic = "goddess situate diamond anxiety dentist bag give speak math rocket junior horror";
+var mnemonic = "ceiling coin dinosaur unusual syrup width frost phrase pride scale snap slender";

@@ -1,1 +1,1 @@
-var mnemonic = "digital secret teach topic build multiply shed quiz wait spike radar track";
+var mnemonic = "broccoli enable car owner gloom initial spend gasp drastic increase together brother";

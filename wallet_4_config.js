@@ -1,1 +1,1 @@
-var mnemonic = "spy glove around load old thumb endless shield blast trim drastic domain";
+var mnemonic = "cannon among busy early gasp force arrange motion define wheat element soda";

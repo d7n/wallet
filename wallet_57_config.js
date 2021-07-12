@@ -1,1 +1,1 @@
-var mnemonic = "main win pledge emerge wagon welcome potato ancient spawn destroy gym very";
+var mnemonic = "they street east alarm enact battle repair mail multiply alcohol entry attack";

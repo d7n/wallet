@@ -1,1 +1,1 @@
-var mnemonic = "april vanish auction clutch orchard museum suggest public famous keep solid gate";
+var mnemonic = "capable toast illegal coast rotate lesson toss infant purity gallery predict mixed";

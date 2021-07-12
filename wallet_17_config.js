@@ -1,1 +1,1 @@
-var mnemonic = "nest dust nest donate trouble sleep replace slogan bus pass erosion shrug";
+var mnemonic = "candy expose planet open wrong paddle crowd approve journey tuna festival into";

@@ -1,1 +1,1 @@
-var mnemonic = "they explain analyst balcony venture wool trumpet anchor sock twin hobby armor";
+var mnemonic = "middle donate resource measure stool net code same gym indicate develop fee";

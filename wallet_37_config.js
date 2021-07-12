@@ -1,1 +1,1 @@
-var mnemonic = "piece broken wide throw moon organ hair long cousin dawn dwarf release";
+var mnemonic = "often belt recall exhibit intact web work divert control dream journey pair";

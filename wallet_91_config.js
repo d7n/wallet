@@ -1,1 +1,1 @@
-var mnemonic = "time mandate stand snake summer box crisp alcohol town bomb during edge";
+var mnemonic = "drift rare glass era orchard eternal disorder output dismiss swallow suit shop";

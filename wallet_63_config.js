@@ -1,1 +1,1 @@
-var mnemonic = "bundle peanut hub during voyage dismiss despair various renew pet art spot";
+var mnemonic = "occur foam sponsor dial culture timber salon actual among team clerk floor";

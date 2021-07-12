@@ -1,1 +1,1 @@
-var mnemonic = "pencil height spawn melody spin harvest census kangaroo answer dove drill scrub";
+var mnemonic = "train iron top equip notable large protect language awful caution increase future";

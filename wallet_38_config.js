@@ -1,1 +1,1 @@
-var mnemonic = "violin okay arrive radar weapon middle impose census wood cherry elegant news";
+var mnemonic = "save hamster first peanut garlic stage nephew book place answer pole tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "circle evolve hour inch thrive exile nice trash flee nose circle ask";
+var mnemonic = "alert today art shiver neither gold treat payment unhappy ranch close lounge";

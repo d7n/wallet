@@ -1,1 +1,1 @@
-var mnemonic = "card corn neck census lounge deer nothing life sausage defy fun enjoy";
+var mnemonic = "paddle patch belt scrub credit cash page earn dice pizza write grid";

@@ -1,1 +1,1 @@
-var mnemonic = "market settle intact miss fan direct deny clay amateur trigger gun vast";
+var mnemonic = "census zebra december remember cousin garage step injury pudding that bubble junk";

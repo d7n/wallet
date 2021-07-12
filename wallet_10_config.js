@@ -1,1 +1,1 @@
-var mnemonic = "fence tooth outdoor bar split tragic legal beauty correct apology sure nature";
+var mnemonic = "kite funny ski clump pretty echo able enemy approve mean crucial spoil";

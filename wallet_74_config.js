@@ -1,1 +1,1 @@
-var mnemonic = "layer dolphin limit patient come retire cruise acoustic cannon census carpet merge";
+var mnemonic = "congress mimic avocado group party this team spatial reveal used planet thrive";

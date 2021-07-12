@@ -1,1 +1,1 @@
-var mnemonic = "liar measure dizzy sell great island melt rose water tonight fringe coconut";
+var mnemonic = "pony garlic slush domain vote small basic panther book protect always together";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle manual over multiply door okay sign twin trigger maximum fine popular";
+var mnemonic = "crash voyage omit bone response equip wool trial age hollow legal april";

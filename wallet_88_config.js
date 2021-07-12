@@ -1,1 +1,1 @@
-var mnemonic = "edit honey aerobic cattle slight armed traffic reason erupt tourist duty outer";
+var mnemonic = "ridge pyramid detect inch mouse ticket jaguar rescue aware close hole blush";

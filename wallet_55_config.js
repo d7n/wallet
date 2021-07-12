@@ -1,1 +1,1 @@
-var mnemonic = "point achieve kiwi prize dumb turn hat proud deputy scale large hidden";
+var mnemonic = "notice hundred lizard waste play rent square resist slice basket video also";

@@ -1,1 +1,1 @@
-var mnemonic = "little voice plunge episode frequent they immense legal find laugh stomach squirrel";
+var mnemonic = "shoulder middle inform choose easily economy plunge erupt plug gym price rural";

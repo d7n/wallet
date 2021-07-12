@@ -1,1 +1,1 @@
-var mnemonic = "float evil current snake stadium rebuild object fork power unique surge globe";
+var mnemonic = "stomach shop funny faculty grab spatial famous jewel inhale umbrella buzz rail";

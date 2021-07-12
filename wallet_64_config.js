@@ -1,1 +1,1 @@
-var mnemonic = "axis margin media situate mail merge pair begin flat depend skirt frequent";
+var mnemonic = "ostrich flee shallow sort rude six tired gossip inspire okay stumble soccer";

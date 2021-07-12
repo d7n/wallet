@@ -1,1 +1,1 @@
-var mnemonic = "elephant please move setup badge catch ahead boss identify volume swing select";
+var mnemonic = "tray target ramp strong develop tower rigid party erosion memory return law";

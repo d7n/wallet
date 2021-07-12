@@ -1,1 +1,1 @@
-var mnemonic = "mistake breeze club medal beach vague spawn squeeze cruise story rubber drip";
+var mnemonic = "toy celery silent lake sister churn insect near onion cool decorate hurt";

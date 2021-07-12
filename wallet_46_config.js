@@ -1,1 +1,1 @@
-var mnemonic = "prevent thank guitar eye humor excess fantasy seed flee confirm useless future";
+var mnemonic = "era goat ivory certain shop dragon sample original various pen unknown slot";

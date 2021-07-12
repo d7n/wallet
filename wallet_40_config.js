@@ -1,1 +1,1 @@
-var mnemonic = "gaze rabbit slight fly install program skin flag wolf lesson draw possible";
+var mnemonic = "cannon raccoon myth flush eye pink laugh neck ecology tomorrow theme pulse";

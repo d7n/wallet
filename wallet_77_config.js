@@ -1,1 +1,1 @@
-var mnemonic = "cycle famous public island oblige usage social panda drink all trust kick";
+var mnemonic = "report human talent glove stand crush solve rose catalog tell logic leader";

@@ -1,1 +1,1 @@
-var mnemonic = "snap car hub hero purchase economy citizen disorder chest build various catalog";
+var mnemonic = "pretty garlic forum race salmon divert shift crumble season pistol produce hope";

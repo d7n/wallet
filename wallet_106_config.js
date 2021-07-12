@@ -1,1 +1,1 @@
-var mnemonic = "learn input spy cliff army liberty duty number amazing skull river broom";
+var mnemonic = "mean cup raw grunt fun chat priority season awesome vapor escape concert";

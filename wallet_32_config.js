@@ -1,1 +1,1 @@
-var mnemonic = "gentle permit drop harbor column couch point rather account paddle portion zebra";
+var mnemonic = "seminar tube shift travel toast deer federal junk dry butter scrub divert";

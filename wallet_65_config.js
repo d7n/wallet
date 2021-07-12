@@ -1,1 +1,1 @@
-var mnemonic = "noise baby barely edge street series zero vibrant female rough leaf shine";
+var mnemonic = "nose pet any useless february predict very night essay elite crumble visit";

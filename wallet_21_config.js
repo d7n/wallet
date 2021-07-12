@@ -1,1 +1,1 @@
-var mnemonic = "midnight quality hat pistol wheel odor erase supreme place exhaust wrong olive";
+var mnemonic = "inmate hub focus arrest marriage view figure kick pudding shiver curious casual";

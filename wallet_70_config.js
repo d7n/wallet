@@ -1,1 +1,1 @@
-var mnemonic = "north box charge wheat doctor destroy pig club urge main garlic olympic";
+var mnemonic = "absent ketchup wheel version awake regret motion bike eagle erase giant coral";

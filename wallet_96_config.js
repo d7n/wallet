@@ -1,1 +1,1 @@
-var mnemonic = "train remove blind display solution sail enrich link open mixture kiwi media";
+var mnemonic = "level original clinic gas poverty planet tide doctor swarm clarify cave present";

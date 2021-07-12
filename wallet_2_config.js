@@ -1,1 +1,1 @@
-var mnemonic = "anxiety evidence eternal double culture card quiz warrior beauty all fiber sugar";
+var mnemonic = "mammal aim cost ask around finish observe ghost vacuum index finish couple";

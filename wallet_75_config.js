@@ -1,1 +1,1 @@
-var mnemonic = "ignore situate crazy fury enrich kit eager worth future panel happy sniff";
+var mnemonic = "guess drive bronze suit flee oppose misery original gaze expand man safe";

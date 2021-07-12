@@ -1,1 +1,1 @@
-var mnemonic = "bronze fiscal figure globe forest poet wool half reopen lumber blade edit";
+var mnemonic = "high viable nothing arctic gift bind banana blood real frame impact run";

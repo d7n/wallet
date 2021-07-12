@@ -1,1 +1,1 @@
-var mnemonic = "mosquito outer judge model ice spread engage awake book soldier depart recipe";
+var mnemonic = "toast turkey shrimp myself lobster smart ring virtual snake dinosaur tube play";

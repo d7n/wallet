@@ -1,1 +1,1 @@
-var mnemonic = "enforce doctor document admit ball clerk voyage extend toss always torch urban";
+var mnemonic = "unveil over become trouble cancel island arm beyond split token boss silk";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney spoil expect twenty erase young kite bounce review marble opinion sort";
+var mnemonic = "iron deal end update country snow lunar proud afford dirt uniform advance";

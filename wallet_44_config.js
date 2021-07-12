@@ -1,1 +1,1 @@
-var mnemonic = "frost rule path right ice birth eye salon security science pool machine";
+var mnemonic = "prevent hundred thumb measure picnic aisle spell mirror crisp degree guide pottery";

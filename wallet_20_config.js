@@ -1,1 +1,1 @@
-var mnemonic = "solar baby issue spirit roof relief behind now dilemma multiply sport resemble";
+var mnemonic = "trick betray behave truck divorce embrace above chair little zebra unusual zero";

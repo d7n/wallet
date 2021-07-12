@@ -1,1 +1,1 @@
-var mnemonic = "own dress shrug muscle document apology smoke feel grocery doll address buffalo";
+var mnemonic = "approve benefit doll attract describe ring crouch stamp bag woman spike neutral";

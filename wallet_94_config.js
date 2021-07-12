@@ -1,1 +1,1 @@
-var mnemonic = "cube system bacon onion dream coffee equal degree fold prosper resemble afraid";
+var mnemonic = "catch equal hero street virus kind click trip inside math art proof";

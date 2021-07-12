@@ -1,1 +1,1 @@
-var mnemonic = "race clinic defy traffic spray embark velvet tank panda mirror census thought";
+var mnemonic = "develop business chaos pepper young century amazing drastic youth trap eyebrow main";

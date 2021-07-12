@@ -1,1 +1,1 @@
-var mnemonic = "bamboo unveil useful pelican marine divide pink noise reform floor cactus cargo";
+var mnemonic = "aware pioneer random write target visa truly essence belt sheriff faculty anchor";

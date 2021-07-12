@@ -1,1 +1,1 @@
-var mnemonic = "about tomato federal raven gate evil club inflict attract december pluck property";
+var mnemonic = "shoot bundle month boil year obey capital brass thunder shoe virtual behind";

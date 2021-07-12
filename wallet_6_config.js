@@ -1,1 +1,1 @@
-var mnemonic = "start trim hundred wool occur muscle rival stable cloud bulb tenant forest";
+var mnemonic = "wine sample sample dash merry body else sock panther angry fresh choice";

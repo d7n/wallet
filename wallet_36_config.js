@@ -1,1 +1,1 @@
-var mnemonic = "document legal swift day supreme ostrich day best segment mask cupboard success";
+var mnemonic = "photo modify bunker come track trend chest try pledge song elder skate";

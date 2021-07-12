@@ -1,1 +1,1 @@
-var mnemonic = "when grace inherit awesome grid eternal sausage language tide beach drum twice";
+var mnemonic = "fat electric grief embark dignity mean ranch quiz tide bid various vault";

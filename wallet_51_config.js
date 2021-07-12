@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin opera group injury jacket raise cry rude duty just camp once";
+var mnemonic = "pulp enrich achieve smooth city fine enroll siege wash endless still govern";

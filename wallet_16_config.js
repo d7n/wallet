@@ -1,1 +1,1 @@
-var mnemonic = "seek barely shift harvest task immense year express certain poet beef manage";
+var mnemonic = "require throw royal guard couple fatigue release evoke pig expire eagle jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "fall twenty aisle all predict debris keep hero kangaroo kitchen toss sister";
+var mnemonic = "bread stuff slush spice menu gadget update merry stay twin olympic welcome";

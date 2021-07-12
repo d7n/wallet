@@ -1,1 +1,1 @@
-var mnemonic = "angry aunt dilemma delay arrange way lobster quit suspect fee secret hobby";
+var mnemonic = "split surge gadget speak oxygen kiss doll industry rabbit assist sentence grape";

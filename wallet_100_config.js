@@ -1,1 +1,1 @@
-var mnemonic = "horror seven differ volume silly say execute puppy network olive same marriage";
+var mnemonic = "mixed awake problem pilot stock chronic virtual shy engine cabbage riot struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "account decade betray pave aspect autumn immense post never impact weird dragon";
+var mnemonic = "rude trophy measure risk aware soon task awesome effort train city merge";

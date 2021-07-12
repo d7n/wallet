@@ -1,1 +1,1 @@
-var mnemonic = "put stairs abandon pig toward style fresh prepare honey laundry right stable";
+var mnemonic = "tired inch unique verb museum knife exhibit beauty sniff plastic hope nest";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt describe crazy way jacket swarm position voice pony zero tool disagree";
+var mnemonic = "agent robot alarm two hour planet trophy shrug brand fury voice gate";

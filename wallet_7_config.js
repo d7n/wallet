@@ -1,1 +1,1 @@
-var mnemonic = "brief custom hour remember fix keep solution naive buzz sort tornado busy";
+var mnemonic = "apart segment derive sick dwarf bargain nation often thrive price enlist poet";

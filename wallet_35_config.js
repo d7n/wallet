@@ -1,1 +1,1 @@
-var mnemonic = "moral brisk poverty employ monster total exchange garbage joy large report light";
+var mnemonic = "weather thank almost critic lend load cry paper melody theme inspire slender";

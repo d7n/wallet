@@ -1,1 +1,1 @@
-var mnemonic = "disorder pen area endorse blue mammal roast enter glare winner reunion script";
+var mnemonic = "seat broom find awake cry exchange pumpkin era guilt ill electric crouch";

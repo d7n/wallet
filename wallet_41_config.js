@@ -1,1 +1,1 @@
-var mnemonic = "room large utility walk hold furnace arm hold hotel garment idle display";
+var mnemonic = "hockey warfare belt actress address globe seat over bind whip abandon occur";

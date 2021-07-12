@@ -1,1 +1,1 @@
-var mnemonic = "debris result trick glue manage believe roof swift opera remove crystal wrap";
+var mnemonic = "speed dove panda bottom field ship shy tourist dinner host camp pistol";

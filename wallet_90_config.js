@@ -1,1 +1,1 @@
-var mnemonic = "chronic truly denial arrow card satisfy flush awkward prepare ill absorb obtain";
+var mnemonic = "across mom between powder income over course ready combine maid make input";

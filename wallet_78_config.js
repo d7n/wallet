@@ -1,1 +1,1 @@
-var mnemonic = "stuff crowd artwork finish confirm door law tube inflict awesome rich turtle";
+var mnemonic = "beef fringe rural side glance labor turtle degree obscure agree silk tape";

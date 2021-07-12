@@ -1,1 +1,1 @@
-var mnemonic = "despair mystery force catch buyer sea coin leaf comic chest half dilemma";
+var mnemonic = "dirt grab prefer logic school marriage aim pear vocal nerve problem child";

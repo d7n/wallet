@@ -1,1 +1,1 @@
-var mnemonic = "friend priority worth make shell october case stool mother foil hold more";
+var mnemonic = "try evil stuff swap pudding paddle burst beach skull early reveal next";

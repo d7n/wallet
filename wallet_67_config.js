@@ -1,1 +1,1 @@
-var mnemonic = "bless ozone edit piece language obey brass paddle blind foam finish ceiling";
+var mnemonic = "hawk valid hover sketch update general inner exile whale foot vendor mandate";

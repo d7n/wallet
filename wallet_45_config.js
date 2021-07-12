@@ -1,1 +1,1 @@
-var mnemonic = "gorilla trick idea matrix salon abuse gas agent census feed bracket effort";
+var mnemonic = "author comic ginger crawl clock pool stable autumn cotton promote picnic soon";

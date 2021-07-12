@@ -1,1 +1,1 @@
-var mnemonic = "seek end lava rival yard tourist shock cattle crazy boost train bubble";
+var mnemonic = "scene beach gesture century hockey duty dress asthma brain inch celery display";

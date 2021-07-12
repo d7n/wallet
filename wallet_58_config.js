@@ -1,1 +1,1 @@
-var mnemonic = "auto bean carpet gloom want scheme balance warm flight diagram famous silver";
+var mnemonic = "always client fossil festival ability catch decorate ivory develop antenna advice inspire";

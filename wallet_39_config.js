@@ -1,1 +1,1 @@
-var mnemonic = "interest win swear width nerve sudden hockey dance industry since puzzle egg";
+var mnemonic = "fresh okay another hawk often office addict toss crystal warrior bridge zebra";

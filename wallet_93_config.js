@@ -1,1 +1,1 @@
-var mnemonic = "until blame area dawn visual exhaust pride expire jewel tired acquire galaxy";
+var mnemonic = "ill flavor similar hazard wolf furnace swear coral spoil soldier smoke concert";

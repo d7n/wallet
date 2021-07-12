@@ -1,1 +1,1 @@
-var mnemonic = "sing noise dice law immune aunt vital rude kite junior flat possible";
+var mnemonic = "fossil ball walnut order primary jeans absent theory obey peasant butter opinion";

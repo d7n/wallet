@@ -1,1 +1,1 @@
-var mnemonic = "salmon tomorrow dose bind million know addict piano hurdle agent legal neglect";
+var mnemonic = "service enlist team federal cute code matter code since danger uniform quantum";

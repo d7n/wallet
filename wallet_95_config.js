@@ -1,1 +1,1 @@
-var mnemonic = "lend hair claw powder mask observe oyster fan boring charge begin require";
+var mnemonic = "coral satisfy defense couple perfect allow yellow entire suit vivid meat say";

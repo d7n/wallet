@@ -1,1 +1,1 @@
-var mnemonic = "fire sail resist concert adapt toast error unlock height horse sea furnace";
+var mnemonic = "armed during dry banana brother supply garage outdoor frame frost abandon bench";

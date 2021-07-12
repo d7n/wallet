@@ -1,1 +1,1 @@
-var mnemonic = "super vendor faculty inside rule mask wagon sea educate increase minute zero";
+var mnemonic = "poet neglect plate since more fat column birth suit false evidence knock";

@@ -1,1 +1,1 @@
-var mnemonic = "trick humble oak busy neglect scorpion rice wheat audit cheese nerve unfold";
+var mnemonic = "mosquito diesel pet tower about busy cart mixture gate truly turtle point";

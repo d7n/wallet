@@ -1,1 +1,1 @@
-var mnemonic = "bottom spray steel human limb trim ski rapid ozone april among decide";
+var mnemonic = "love elder issue main dizzy fiscal odor search wood okay entry mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil dinner announce lamp rapid busy mixture orient merit elegant during cargo";
+var mnemonic = "energy brass artist sphere entry wash strong style judge profit broom still";

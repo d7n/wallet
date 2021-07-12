@@ -1,1 +1,1 @@
-var mnemonic = "pill dose youth assist autumn charge muffin kiwi cushion april excess shop";
+var mnemonic = "eye city strike umbrella renew accident garden dune argue hello fox return";

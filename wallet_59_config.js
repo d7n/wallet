@@ -1,1 +1,1 @@
-var mnemonic = "length youth satoshi hope fantasy horse festival rescue jazz misery chief zero";
+var mnemonic = "guide donkey wolf kite surprise parade grow pepper token churn smart offer";

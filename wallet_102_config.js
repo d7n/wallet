@@ -1,1 +1,1 @@
-var mnemonic = "humor toss enable admit ripple tiger omit law nurse pull height usual";
+var mnemonic = "tattoo virus couple fury hope enforce stomach weasel little icon fit oxygen";

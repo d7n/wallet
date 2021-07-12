@@ -1,1 +1,1 @@
-var mnemonic = "furnace crouch wisdom flavor inmate trumpet gentle episode novel critic liar whip";
+var mnemonic = "humble sense call zoo jeans plastic step mixture hamster spell snake output";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy ancient hobby hockey inhale arrest impose antique stomach slender thing position";
+var mnemonic = "long fatal casino release faint mean waste click sleep space garbage rival";

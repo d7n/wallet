@@ -1,1 +1,1 @@
-var mnemonic = "hint plate cruel avoid veteran boost van later baby fossil twist husband";
+var mnemonic = "sign disagree account math popular oak section select poet claim surface owner";

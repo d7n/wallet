@@ -1,1 +1,1 @@
-var mnemonic = "aware fire transfer fashion smile portion advance industry helmet estate inmate add";
+var mnemonic = "alone alcohol audit collect timber record surge fat join hammer elite chronic";
