@@ -1,1 +1,1 @@
-var mnemonic = "other whip aim hat sand patch awful coast dignity input save inject";
+var mnemonic = "lunar obtain world awkward limb choose path tissue sugar square attend dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn inmate collect double cluster road aisle brick cabin label price lunch";
+var mnemonic = "shift case worry dentist fragile illegal tired warm pyramid disorder gesture sister";

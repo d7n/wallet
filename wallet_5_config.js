@@ -1,1 +1,1 @@
-var mnemonic = "blush sadness script bag indicate oyster hover spoon garbage other audit shoe";
+var mnemonic = "clown actress cave bleak type celery void blade glad false knee random";

@@ -1,1 +1,1 @@
-var mnemonic = "system report vapor taste mushroom isolate ocean range hour fantasy erase fashion";
+var mnemonic = "scan planet obey present section picture mushroom mixed vehicle motor marine fix";

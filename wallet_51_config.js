@@ -1,1 +1,1 @@
-var mnemonic = "juice leader furnace approve total slow bread bind main large double mixture";
+var mnemonic = "brother slender march cave put buzz risk figure dilemma undo off want";

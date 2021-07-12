@@ -1,1 +1,1 @@
-var mnemonic = "nation offer sad season festival cash shed bright cluster fold brand suffer";
+var mnemonic = "spatial episode someone tag nest cruel bracket borrow hedgehog motor merge beyond";

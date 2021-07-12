@@ -1,1 +1,1 @@
-var mnemonic = "liar book credit reduce modify typical online chief grow auto miracle solution";
+var mnemonic = "toe mechanic post small apple fall panic charge issue youth pelican object";

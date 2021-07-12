@@ -1,1 +1,1 @@
-var mnemonic = "glimpse chat lobster board winter unit behave track shadow rich pull adjust";
+var mnemonic = "evolve pitch shuffle stuff chapter mix jungle account impose eight black vehicle";

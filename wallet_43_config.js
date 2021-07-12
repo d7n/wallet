@@ -1,1 +1,1 @@
-var mnemonic = "trigger oak depart loyal retreat garlic expect bean feel cart puzzle junk";
+var mnemonic = "thrive appear broom joke atom around churn camera axis tuna rigid machine";

@@ -1,1 +1,1 @@
-var mnemonic = "shock leave three sponsor fox iron priority view become hold attitude victory";
+var mnemonic = "hamster figure release tackle nurse future resource lottery dose shy mystery empower";

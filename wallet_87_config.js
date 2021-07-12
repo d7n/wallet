@@ -1,1 +1,1 @@
-var mnemonic = "news example couch edit skull supply square clerk usage office indoor poverty";
+var mnemonic = "burden moment soul expire essay plastic trip chronic chimney toss tooth ramp";

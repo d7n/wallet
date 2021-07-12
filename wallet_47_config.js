@@ -1,1 +1,1 @@
-var mnemonic = "apart cake vibrant online cabin blush senior tenant old accident silly sketch";
+var mnemonic = "topple become muscle joy dish forest lawn repeat moral category float worry";

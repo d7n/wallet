@@ -1,1 +1,1 @@
-var mnemonic = "stove face crazy reveal salt tired elevator attitude price word wreck math";
+var mnemonic = "wage truth add depend cupboard economy season sense rifle fold buffalo moral";

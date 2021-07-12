@@ -1,1 +1,1 @@
-var mnemonic = "glad enforce attract curtain broom kick similar offer copper coach rotate truck";
+var mnemonic = "display library benefit dice side trim suffer inmate machine rare solution method";

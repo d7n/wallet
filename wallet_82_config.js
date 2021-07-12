@@ -1,1 +1,1 @@
-var mnemonic = "bachelor buddy cotton swift warfare mistake piano nuclear token allow leave endorse";
+var mnemonic = "exclude relief segment notable enter airport true bag taste hotel miss relief";

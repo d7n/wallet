@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow couch swallow claw patient coast unique insane attitude topple august another";
+var mnemonic = "snow fashion confirm dog derive screen engine shove deal chest scout stable";

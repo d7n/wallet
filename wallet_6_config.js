@@ -1,1 +1,1 @@
-var mnemonic = "deputy icon sustain avocado useful useful rally enforce goat ship expire apple";
+var mnemonic = "flush loud cactus bind filter push kick dog beauty wagon sadness myself";

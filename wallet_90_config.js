@@ -1,1 +1,1 @@
-var mnemonic = "loop during retreat balcony crash exit number blade because brass practice pipe";
+var mnemonic = "insane chaos reunion fatigue lock path quote fish amount novel soda suffer";

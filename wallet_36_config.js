@@ -1,1 +1,1 @@
-var mnemonic = "cry hero unique moral cat shiver shoot garden donor acoustic network crisp";
+var mnemonic = "glory faith gravity panel able smile trip nest area casino hour smoke";

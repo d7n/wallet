@@ -1,1 +1,1 @@
-var mnemonic = "million april arrange vivid hurry mix apology cement donkey receive pulse height";
+var mnemonic = "innocent artefact comic ahead square bind brief basic company system derive evil";

@@ -1,1 +1,1 @@
-var mnemonic = "link where supply dose daughter fine bike saddle issue whisper blue vague";
+var mnemonic = "page gossip maximum sound glass antique october acid source primary blouse pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "step spawn park bachelor history impulse ring tilt mushroom hunt alcohol ghost";
+var mnemonic = "lizard melody country pulp need volcano luggage scheme display access glance release";

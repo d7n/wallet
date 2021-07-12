@@ -1,1 +1,1 @@
-var mnemonic = "slight basic dash walk october night small long feature talk drop uniform";
+var mnemonic = "two pride mesh charge there crane grit galaxy maze type farm correct";

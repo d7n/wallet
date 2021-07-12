@@ -1,1 +1,1 @@
-var mnemonic = "tape food borrow bounce noble scrub try index tenant loop cabbage chaos";
+var mnemonic = "trophy concert ketchup job narrow elegant hidden once hire nerve oven actual";

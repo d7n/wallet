@@ -1,1 +1,1 @@
-var mnemonic = "ignore correct grab hole strike near decade design witness gaze want soup";
+var mnemonic = "rich alpha cereal brick vast wise step machine portion purchase foil narrow";

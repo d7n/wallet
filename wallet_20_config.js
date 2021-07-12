@@ -1,1 +1,1 @@
-var mnemonic = "bonus vapor feed menu neck cruise lock undo assume seat bamboo remember";
+var mnemonic = "wheat stuff main pet message avocado try nominee suspect offer address fee";

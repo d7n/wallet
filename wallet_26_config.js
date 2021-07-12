@@ -1,1 +1,1 @@
-var mnemonic = "nothing mistake series harbor view behind naive intact source tomato menu delay";
+var mnemonic = "palm taxi lobster embark clarify polar lemon observe weather foam walnut kick";

@@ -1,1 +1,1 @@
-var mnemonic = "want sorry good elegant phone diesel slide wall any floor kidney december";
+var mnemonic = "trouble rug mystery behind police harsh flash spider fly gauge flock dragon";

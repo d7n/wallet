@@ -1,1 +1,1 @@
-var mnemonic = "divorce stem coach service dentist rib gasp license dog risk pause throw";
+var mnemonic = "fever energy pupil midnight average corn brown chief patch glove artist abuse";

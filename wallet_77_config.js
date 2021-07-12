@@ -1,1 +1,1 @@
-var mnemonic = "number shallow age visual bread scorpion later avoid fit chicken insane amused";
+var mnemonic = "sudden deal client ozone practice admit middle dune ensure believe wire client";

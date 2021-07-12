@@ -1,1 +1,1 @@
-var mnemonic = "bracket door put swallow crew march account furnace heart salon hospital cabbage";
+var mnemonic = "fade narrow royal license neglect romance more clean gossip inside lizard still";

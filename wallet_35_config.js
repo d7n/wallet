@@ -1,1 +1,1 @@
-var mnemonic = "idle way hobby across dilemma pumpkin robot icon high parent hole barely";
+var mnemonic = "message ecology vehicle upon kitchen engine toddler health present math drift term";

@@ -1,1 +1,1 @@
-var mnemonic = "box rich cave merry thing thing flash balance envelope inch absurd point";
+var mnemonic = "clip suggest float evoke garment plug cabin foster lumber vibrant behave order";

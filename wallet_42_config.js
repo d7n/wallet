@@ -1,1 +1,1 @@
-var mnemonic = "bachelor render fever border tell any post giraffe lyrics habit frog wolf";
+var mnemonic = "supreme lottery portion fine three fame achieve warfare become book blanket tiger";

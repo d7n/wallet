@@ -1,1 +1,1 @@
-var mnemonic = "cause history inform pond diesel anchor cement course rural farm menu minimum";
+var mnemonic = "celery guilt moon crucial exact appear saddle curve retreat silent book legal";

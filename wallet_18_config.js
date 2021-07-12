@@ -1,1 +1,1 @@
-var mnemonic = "fit lawn veteran drink credit company cement mirror reward soft notice design";
+var mnemonic = "core twist slush when vintage announce shuffle question crush meat luggage milk";

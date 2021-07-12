@@ -1,1 +1,1 @@
-var mnemonic = "toilet shaft office harsh arrange flash moon faint best inherit level owner";
+var mnemonic = "genuine butter tattoo upset vast initial report goddess maximum proud offer royal";

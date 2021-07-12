@@ -1,1 +1,1 @@
-var mnemonic = "best grain elegant across cry balcony pink stairs spend train involve hamster";
+var mnemonic = "inside extend gun fantasy fade congress size benefit turn auto audit connect";

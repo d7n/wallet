@@ -1,1 +1,1 @@
-var mnemonic = "expire erode camera great rabbit imitate critic fruit kite loud travel brick";
+var mnemonic = "shift similar salon orphan eagle nerve index want relief stem foil wonder";

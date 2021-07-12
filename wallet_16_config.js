@@ -1,1 +1,1 @@
-var mnemonic = "any angle private cover oyster medal wheat mechanic obscure dismiss else party";
+var mnemonic = "conduct copper essence valid pull sniff rack surge horror dust correct canal";

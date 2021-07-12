@@ -1,1 +1,1 @@
-var mnemonic = "pledge kidney session rabbit parade chief happy edge siege butter clutch more";
+var mnemonic = "forest walnut tide ahead fault cable grant aunt syrup moon glide wine";

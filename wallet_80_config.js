@@ -1,1 +1,1 @@
-var mnemonic = "deal dry gesture hazard busy sing pair cable enroll apology castle scrub";
+var mnemonic = "auto replace physical rally plastic melody camp dignity crumble eight lottery position";

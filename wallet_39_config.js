@@ -1,1 +1,1 @@
-var mnemonic = "avoid enhance youth glow rifle blade argue ankle buddy pigeon ginger raise";
+var mnemonic = "uphold inherit agree offer hollow fetch arrive surround play canyon risk extra";

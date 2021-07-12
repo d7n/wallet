@@ -1,1 +1,1 @@
-var mnemonic = "connect square around arctic coral example civil relief provide machine biology end";
+var mnemonic = "steel upper target limit derive resemble bright harvest ceiling garden similar blur";

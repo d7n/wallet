@@ -1,1 +1,1 @@
-var mnemonic = "axis surge excess wise energy vacant steel tag hope until ugly stumble";
+var mnemonic = "then crater mechanic slide nation stomach analyst ten chronic need invest toe";

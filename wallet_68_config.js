@@ -1,1 +1,1 @@
-var mnemonic = "dynamic bleak lobster frog cook cable bargain addict analyst color limb slam";
+var mnemonic = "bird arrive clerk truly mouse hockey shoulder first manual identify scan crack";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey absent juice effort motor library poverty solve curious top attitude quit";
+var mnemonic = "whip cat swallow knife despair sausage royal antenna mushroom treat goddess april";

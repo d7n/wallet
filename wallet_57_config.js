@@ -1,1 +1,1 @@
-var mnemonic = "comfort educate fee pole dwarf fever wheel hunt ice exotic example easy";
+var mnemonic = "genius blue black remember silk joy carpet velvet reveal meat answer arrest";

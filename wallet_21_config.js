@@ -1,1 +1,1 @@
-var mnemonic = "cannon slow elder direct earth puppy elite shrimp unusual job junior spy";
+var mnemonic = "donate clarify black genuine crime eyebrow turtle ivory pioneer recipe often raven";

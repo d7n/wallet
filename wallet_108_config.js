@@ -1,1 +1,1 @@
-var mnemonic = "dynamic deputy twice sunset dust stove damage search blur sibling uniform citizen";
+var mnemonic = "order chalk coffee choose tunnel wisdom derive pink media clock smart cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "source pencil weekend announce time amateur frequent sand student biology picture congress";
+var mnemonic = "fault west vacuum exclude enter copper matter clock candy few frozen regret";

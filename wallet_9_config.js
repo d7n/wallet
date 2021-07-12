@@ -1,1 +1,1 @@
-var mnemonic = "predict upon crystal razor fold diesel concert urge evil stumble cupboard violin";
+var mnemonic = "divorce eye maid gather crash ocean wall fan indicate thrive wait couple";

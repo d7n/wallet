@@ -1,1 +1,1 @@
-var mnemonic = "police element uniform material grape fence must silly extra spatial trim fold";
+var mnemonic = "ramp near trouble sting knock uncle grass anchor teach chef pattern daughter";

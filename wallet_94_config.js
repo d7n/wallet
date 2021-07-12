@@ -1,1 +1,1 @@
-var mnemonic = "useless wash history hotel erosion choice duty tribe caught process receive eager";
+var mnemonic = "believe long million weapon impact stamp color honey worry witness spice this";

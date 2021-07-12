@@ -1,1 +1,1 @@
-var mnemonic = "depend wait owner steak uniform course main price surface decrease reduce rocket";
+var mnemonic = "whip general tourist grocery cereal arctic love solution breeze tornado harvest casino";

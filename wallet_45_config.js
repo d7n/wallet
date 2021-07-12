@@ -1,1 +1,1 @@
-var mnemonic = "deny cherry hammer gun guitar plunge this risk escape slim park useless";
+var mnemonic = "galaxy artefact juice abstract chicken brass source crater depth hint evil elephant";

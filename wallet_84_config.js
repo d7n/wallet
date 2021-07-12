@@ -1,1 +1,1 @@
-var mnemonic = "razor observe ladder wear stable lounge crunch bus industry tag evoke list";
+var mnemonic = "hat tone tip front calm crime method access cost legend lumber whisper";

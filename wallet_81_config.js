@@ -1,1 +1,1 @@
-var mnemonic = "rib current cactus wave music viable alley poem farm key waste result";
+var mnemonic = "stone opinion earn disorder fiscal climb brisk library always burden version they";

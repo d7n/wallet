@@ -1,1 +1,1 @@
-var mnemonic = "share shoe crew ladder garbage sketch click depart despair cinnamon smooth immune";
+var mnemonic = "only already gate law veteran absorb tackle dice resemble shell more grant";

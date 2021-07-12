@@ -1,1 +1,1 @@
-var mnemonic = "hurry ozone reflect desk burst ginger athlete sudden submit unlock start boy";
+var mnemonic = "forget rain obey current fashion flower lake room ketchup child fabric width";

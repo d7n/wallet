@@ -1,1 +1,1 @@
-var mnemonic = "acid room miss steak mandate swap nature artist faith front jar gas";
+var mnemonic = "mixture angle eight loop pole hospital burger flight alley live mass illegal";

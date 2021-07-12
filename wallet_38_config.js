@@ -1,1 +1,1 @@
-var mnemonic = "prepare math prison scan session congress enough search survey sphere bean only";
+var mnemonic = "front hospital peace move salad join champion option cluster huge scrap arch";

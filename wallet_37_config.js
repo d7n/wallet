@@ -1,1 +1,1 @@
-var mnemonic = "winter boss blouse donor legend clerk window turkey dice scrub try jaguar";
+var mnemonic = "play crucial early month run slow sample myself receive blossom adapt soda";

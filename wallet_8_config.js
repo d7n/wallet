@@ -1,1 +1,1 @@
-var mnemonic = "rib group tiny tape valid youth leg diagram baby extra boy figure";
+var mnemonic = "comfort sting predict enter honey comfort connect trophy apart worry relax text";

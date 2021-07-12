@@ -1,1 +1,1 @@
-var mnemonic = "route clutch hurdle mammal joke walk donate crush element eager find kind";
+var mnemonic = "math already media little agree quick ahead green hen destroy clutch loud";

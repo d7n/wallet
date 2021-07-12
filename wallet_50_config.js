@@ -1,1 +1,1 @@
-var mnemonic = "eagle follow stuff monitor gallery cargo shiver topple film kidney cement refuse";
+var mnemonic = "crucial sauce winner drama credit child budget pulse begin spare february maximum";

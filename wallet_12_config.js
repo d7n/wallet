@@ -1,1 +1,1 @@
-var mnemonic = "repeat private ecology good zone treat view pole chimney insane volcano behind";
+var mnemonic = "mule magnet unlock panic cook eye cry toe prevent rose diesel audit";

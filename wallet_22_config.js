@@ -1,1 +1,1 @@
-var mnemonic = "honey gauge flock special antique stable top vote know trim average hurt";
+var mnemonic = "lemon size certain amount farm goose common puppy expect monster time person";

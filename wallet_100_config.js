@@ -1,1 +1,1 @@
-var mnemonic = "inherit seek remove junk void else cruise session response brand rural quantum";
+var mnemonic = "cream advance witness keen wine replace asthma claw hundred retreat physical feel";

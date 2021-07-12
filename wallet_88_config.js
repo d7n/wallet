@@ -1,1 +1,1 @@
-var mnemonic = "price pipe extra glide label lend egg flat harsh evoke bulk fish";
+var mnemonic = "cook master sketch ankle capable open elbow solid drift perfect always story";

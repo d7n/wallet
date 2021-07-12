@@ -1,1 +1,1 @@
-var mnemonic = "police car tobacco cage group connect inform journey cement adult marine castle";
+var mnemonic = "broken dance burst reunion mutual wrestle detect dust unveil bracket bring kiwi";

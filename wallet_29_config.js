@@ -1,1 +1,1 @@
-var mnemonic = "tide shine february envelope crane sponsor decade able exchange top syrup peace";
+var mnemonic = "allow wood silent page spawn loyal olympic fringe guilt confirm winner clap";

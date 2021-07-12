@@ -1,1 +1,1 @@
-var mnemonic = "invite innocent vital six jeans oil script camp diary upon rug evoke";
+var mnemonic = "vintage pull tourist cotton blossom victory filter tent rail large regret nerve";

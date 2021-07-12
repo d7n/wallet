@@ -1,1 +1,1 @@
-var mnemonic = "engine sustain travel wing special junior company shy secret boat dawn dose";
+var mnemonic = "render inherit pause valley buffalo skin reunion machine retire erode omit primary";

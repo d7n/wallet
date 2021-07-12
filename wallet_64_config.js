@@ -1,1 +1,1 @@
-var mnemonic = "delay sleep eagle enact common bench ladder crouch donkey recipe soup undo";
+var mnemonic = "property bubble cabin grass twin permit wine load owner duty minimum job";

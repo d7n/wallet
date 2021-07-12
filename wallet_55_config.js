@@ -1,1 +1,1 @@
-var mnemonic = "twist glass prefer merit rural cup jazz essence dynamic visa jazz pencil";
+var mnemonic = "museum venture junk embrace merry frame switch surface burger always near patch";

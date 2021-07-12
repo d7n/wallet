@@ -1,1 +1,1 @@
-var mnemonic = "sock shop anchor second dust wrestle zone antique blouse accident virus awkward";
+var mnemonic = "elite base hungry grid frost lock favorite damage over design scissors just";

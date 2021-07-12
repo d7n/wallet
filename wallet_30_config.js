@@ -1,1 +1,1 @@
-var mnemonic = "indoor path wine board rude woman boil destroy umbrella room traffic rescue";
+var mnemonic = "power palace bullet estate trade market clean apart judge case garbage swim";

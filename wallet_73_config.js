@@ -1,1 +1,1 @@
-var mnemonic = "clutch fantasy hybrid slab series elder october arrive dinner ozone shine tennis";
+var mnemonic = "mango next bitter kick theory better leisure injury cart health brass cabbage";

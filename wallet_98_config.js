@@ -1,1 +1,1 @@
-var mnemonic = "health enable atom donkey okay wolf unaware ask light where similar caution";
+var mnemonic = "scissors waste spike absent cash office opinion behave wolf owner bargain shrimp";

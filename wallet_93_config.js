@@ -1,1 +1,1 @@
-var mnemonic = "erupt south squeeze during share grass camp area tornado gas diet peanut";
+var mnemonic = "moral raw hedgehog opera arch awkward hard scrap dream famous nuclear deer";

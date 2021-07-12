@@ -1,1 +1,1 @@
-var mnemonic = "host service plastic assist annual reopen quarter amateur unfold maze chaos cherry";
+var mnemonic = "stadium solution blood van artist half slide feature piano scale raven ship";

@@ -1,1 +1,1 @@
-var mnemonic = "fold theme maximum orient abandon snow cycle poem surge pupil cart grab";
+var mnemonic = "tennis hole joy antique daughter organ vintage giraffe prefer invest law fancy";

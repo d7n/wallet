@@ -1,1 +1,1 @@
-var mnemonic = "chase confirm security enforce movie furnace motion clever know taxi venue only";
+var mnemonic = "include creek car jeans music abandon essence illegal view couch primary solid";

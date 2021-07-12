@@ -1,1 +1,1 @@
-var mnemonic = "million document alien dentist repair deliver then genre armed valley lucky leopard";
+var mnemonic = "scan update dragon oblige oblige increase basket network clever anger tube unfair";

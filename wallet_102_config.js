@@ -1,1 +1,1 @@
-var mnemonic = "skull denial extra grid seven category budget wet parade situate identify ethics";
+var mnemonic = "evoke enforce fly execute trade that pulp bread food dove bone valid";

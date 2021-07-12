@@ -1,1 +1,1 @@
-var mnemonic = "stove repeat roast ready cage camera jeans lawn glance useful baby subject";
+var mnemonic = "jewel furnace excess dirt inhale knee educate labor virtual nut memory kid";

@@ -1,1 +1,1 @@
-var mnemonic = "grid unfold refuse seven dumb actual sting jazz thank congress hurdle castle";
+var mnemonic = "snake thumb option top mix home prize abstract claw urban work surprise";

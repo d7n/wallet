@@ -1,1 +1,1 @@
-var mnemonic = "appear grocery twin open output clinic person casual admit shaft night federal";
+var mnemonic = "ability three library wash turn say awful essay leave unfold team gentle";

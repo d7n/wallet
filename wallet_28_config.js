@@ -1,1 +1,1 @@
-var mnemonic = "hire false lake column fetch horror human stumble floor odor size man";
+var mnemonic = "neutral fashion excite jealous woman creek rigid aunt road escape sunset medal";

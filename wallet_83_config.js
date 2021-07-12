@@ -1,1 +1,1 @@
-var mnemonic = "lava cost edit secret assume swallow fire swap insect mother patient harvest";
+var mnemonic = "lemon exile van chaos battle render below napkin crack century gather powder";

@@ -1,1 +1,1 @@
-var mnemonic = "million arrange skill century slush connect student wonder devote upper invite solar";
+var mnemonic = "decide romance giant pause copy space voyage comfort clown priority carbon large";

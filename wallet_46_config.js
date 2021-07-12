@@ -1,1 +1,1 @@
-var mnemonic = "miracle father surge usage dumb affair solution alone radar height city immense";
+var mnemonic = "space title captain opera together drama sign copper inmate process oak evil";
