@@ -1,1 +1,1 @@
-var mnemonic = "twenty useful patch profit void ugly range make glory such sorry dial";
+var mnemonic = "lab popular sun nature joy chalk clog theme boy view canoe garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve wet size gallery join shell best pave super much lesson child";
+var mnemonic = "always candy despair fiscal rhythm orchard output exclude vicious certain luggage author";

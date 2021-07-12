@@ -1,1 +1,1 @@
-var mnemonic = "glass whip toss vocal coach exact seven size naive snake silly sustain";
+var mnemonic = "rapid uniform kiwi reason erupt arrest swing relief oxygen view treat wise";

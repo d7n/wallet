@@ -1,1 +1,1 @@
-var mnemonic = "either green another enable improve injury mystery come wear boss glance exist";
+var mnemonic = "identify later cotton cigar vendor night december pause vote tongue inside entire";

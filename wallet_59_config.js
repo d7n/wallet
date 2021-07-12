@@ -1,1 +1,1 @@
-var mnemonic = "dragon simple clog market problem door measure endless rhythm crane alley tell";
+var mnemonic = "weasel canoe involve talent swift dumb since hotel camera image magic dawn";

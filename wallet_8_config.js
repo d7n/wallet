@@ -1,1 +1,1 @@
-var mnemonic = "kidney barrel future parade best mix dove spray unique drop ivory caught";
+var mnemonic = "attitude address radio panic explain figure taste nice visual lake all absurd";

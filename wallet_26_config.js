@@ -1,1 +1,1 @@
-var mnemonic = "nature cruise wall arrive barrel index dog debris invite siren ancient fringe";
+var mnemonic = "eagle until cereal weird sand symbol seat solar oak exact hood tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "room bacon season wedding slice boil large tennis ocean raccoon warm virus";
+var mnemonic = "bitter churn audit celery recall mother crane anxiety grit subway grape bar";

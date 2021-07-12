@@ -1,1 +1,1 @@
-var mnemonic = "whisper genre also baby primary check remember join run damp utility office";
+var mnemonic = "depart usage laundry property elevator moment fiscal play horse october employ improve";

@@ -1,1 +1,1 @@
-var mnemonic = "pony camera photo warfare usage voyage document ranch anchor drastic liar pride";
+var mnemonic = "elite giant similar welcome tortoise toast cabbage pig work rail ready morning";

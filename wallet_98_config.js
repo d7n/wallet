@@ -1,1 +1,1 @@
-var mnemonic = "orbit forward buyer repair cook wedding open scan silly narrow tornado galaxy";
+var mnemonic = "napkin card swim tray chaos chapter spirit derive obey solid funny stumble";

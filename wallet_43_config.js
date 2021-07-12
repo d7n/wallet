@@ -1,1 +1,1 @@
-var mnemonic = "solution fantasy snap disagree pen scene frame smooth tool salute repeat hundred";
+var mnemonic = "mimic betray hurry book again loan speak symbol lock burden father rain";

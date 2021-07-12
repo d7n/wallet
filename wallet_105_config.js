@@ -1,1 +1,1 @@
-var mnemonic = "rural length omit addict coconut tribe stem gorilla usual shop weather point";
+var mnemonic = "mixture shaft choose brother together sorry category legal voice already device magnet";

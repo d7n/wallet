@@ -1,1 +1,1 @@
-var mnemonic = "test sound shoe enemy hidden system curtain machine neck drill skirt type";
+var mnemonic = "weird december course unhappy love ticket rude gap genius moral pave list";

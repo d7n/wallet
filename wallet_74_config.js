@@ -1,1 +1,1 @@
-var mnemonic = "era earth mule bone put pill stick public border blush fantasy express";
+var mnemonic = "clever turtle west quit awesome harsh now fitness shoe noise brush food";

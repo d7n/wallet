@@ -1,1 +1,1 @@
-var mnemonic = "another upset divert blast six foot bleak hold hidden control horror stem";
+var mnemonic = "gas come pair tortoise reopen brass square slight nominee cute cinnamon plastic";

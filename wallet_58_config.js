@@ -1,1 +1,1 @@
-var mnemonic = "erase token sight claim sound together basket swallow flip donkey draw baby";
+var mnemonic = "clever member energy december dizzy fitness limb hood same enhance drill submit";

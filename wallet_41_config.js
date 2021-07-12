@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin toward spoil arena practice age maze bridge audit poet aisle combine";
+var mnemonic = "harbor reduce ritual notice wasp come once auto secret business fluid soap";

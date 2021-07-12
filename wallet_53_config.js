@@ -1,1 +1,1 @@
-var mnemonic = "just capital pulp address weapon fatigue visa beef rose coil hollow dose";
+var mnemonic = "abstract news vapor curious piano palm degree maple surprise action fringe zone";

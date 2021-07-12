@@ -1,1 +1,1 @@
-var mnemonic = "scout fury solution kiss slim lift kind castle cliff purity tag saddle";
+var mnemonic = "cheese fatal order short noise other write crush window modify forest grocery";

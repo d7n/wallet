@@ -1,1 +1,1 @@
-var mnemonic = "what stuff dentist sure timber web struggle power special buyer certain squirrel";
+var mnemonic = "smile hard saddle hen make faith yellow solar whisper noodle canoe battle";

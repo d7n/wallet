@@ -1,1 +1,1 @@
-var mnemonic = "wagon oval palace father trumpet reform junk mother grape sustain caution one";
+var mnemonic = "buzz silly cake scheme beef art mansion brief ugly reunion argue mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "cross sauce strike mask entry rubber woman hope bounce kitchen top outer";
+var mnemonic = "predict cover debate car patient define hockey juice vendor rifle elbow easy";

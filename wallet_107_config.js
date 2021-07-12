@@ -1,1 +1,1 @@
-var mnemonic = "turtle surprise chunk veteran south check limit stable hidden fence promote frequent";
+var mnemonic = "bike wealth mansion hamster smart receive giggle cup resist pledge wire lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "effort flavor century sheriff blanket front kiwi box scrap crystal square hockey";
+var mnemonic = "increase paddle unveil use bless frost forest gold hold timber snow nuclear";

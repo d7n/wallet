@@ -1,1 +1,1 @@
-var mnemonic = "junk never zoo jealous bonus forest search small agree alert mercy wheat";
+var mnemonic = "desk morning plate frequent drastic large solar sword enroll ring veteran throw";

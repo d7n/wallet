@@ -1,1 +1,1 @@
-var mnemonic = "genius rate cliff strike morning another album horse romance twelve tell kitchen";
+var mnemonic = "debate icon diagram fall pretty consider athlete mystery pig december dynamic concert";

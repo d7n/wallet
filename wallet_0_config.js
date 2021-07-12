@@ -1,1 +1,1 @@
-var mnemonic = "feel unfold absurd rain cereal father twice elegant finish swift pride idle";
+var mnemonic = "illegal tissue priority isolate chest wrong useful maple vocal oxygen labor trophy";

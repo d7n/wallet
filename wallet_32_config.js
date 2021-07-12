@@ -1,1 +1,1 @@
-var mnemonic = "predict harsh uncover salt unknown quarter egg mule cry avoid aware dad";
+var mnemonic = "potato mix cave era success history subway happy control rare gentle correct";

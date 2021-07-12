@@ -1,1 +1,1 @@
-var mnemonic = "actress feel urge debris order cook own young amateur host meat core";
+var mnemonic = "punch suspect job pool label mind essay cry hammer select involve zoo";

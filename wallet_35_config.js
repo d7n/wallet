@@ -1,1 +1,1 @@
-var mnemonic = "joke river assume stomach palace chase owner ship parent video almost doll";
+var mnemonic = "clean ranch dirt begin pulse crucial decorate cloth wash roof draft must";

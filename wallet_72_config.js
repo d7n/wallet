@@ -1,1 +1,1 @@
-var mnemonic = "title offer verb icon replace reform public merry update woman provide receive";
+var mnemonic = "carry clean debate test exotic document gather lounge grocery crane motion you";

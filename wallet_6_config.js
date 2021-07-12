@@ -1,1 +1,1 @@
-var mnemonic = "flee chief equip awful bamboo own want begin stand sick supreme candy";
+var mnemonic = "genre orchard potato spread practice grain lend system carpet addict interest you";

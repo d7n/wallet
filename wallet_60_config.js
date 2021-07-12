@@ -1,1 +1,1 @@
-var mnemonic = "swarm layer fantasy shy awkward flat blame sock move capable dinosaur lawsuit";
+var mnemonic = "forum cheap moral frame bounce raccoon cotton arena top fat below flash";

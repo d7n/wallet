@@ -1,1 +1,1 @@
-var mnemonic = "exchange plunge guilt skin more piano produce tree remain express fitness absurd";
+var mnemonic = "danger inhale rabbit monster laugh erosion shove flag notice escape snake defense";

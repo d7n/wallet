@@ -1,1 +1,1 @@
-var mnemonic = "accuse joke regret whisper neither shuffle execute remember mandate globe oval icon";
+var mnemonic = "minute chunk bean sight attract spirit fortune welcome novel round tourist bean";

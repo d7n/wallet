@@ -1,1 +1,1 @@
-var mnemonic = "advice shed believe early later resist early license energy scene fault success";
+var mnemonic = "ball later heavy foil fabric lens desk inject awful road nurse slide";

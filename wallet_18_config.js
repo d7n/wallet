@@ -1,1 +1,1 @@
-var mnemonic = "hungry exotic rubber spatial knife deputy display cost inspire essence suggest sniff";
+var mnemonic = "room toast region range canvas method harbor vast opera muscle awkward horse";

@@ -1,1 +1,1 @@
-var mnemonic = "elder honey sail antique unique trigger brush future stomach must collect defense";
+var mnemonic = "disease impulse other story dash trash click birth ring usage century thumb";

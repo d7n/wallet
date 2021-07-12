@@ -1,1 +1,1 @@
-var mnemonic = "hunt install image effort champion deliver enroll cake just shock cake avocado";
+var mnemonic = "ancient album season puppy wink price cargo pilot tilt grief fatal elephant";

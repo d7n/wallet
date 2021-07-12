@@ -1,1 +1,1 @@
-var mnemonic = "elder tip magic flame spawn truth pond exercise clever harsh moment question";
+var mnemonic = "tell access soul diesel usual spray taxi inside gather crater motion dress";

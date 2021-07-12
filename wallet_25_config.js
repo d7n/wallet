@@ -1,1 +1,1 @@
-var mnemonic = "riot universe spend leader payment primary circle music embody various they busy";
+var mnemonic = "unlock pride void mushroom capable grab lounge clump surface myth any cart";

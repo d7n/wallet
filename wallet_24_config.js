@@ -1,1 +1,1 @@
-var mnemonic = "intact despair neck swallow resemble parent warfare until lottery subway heavy rhythm";
+var mnemonic = "bunker barely oval tobacco ramp stem ordinary damage desk organ luxury inherit";

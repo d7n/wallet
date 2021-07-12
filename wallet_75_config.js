@@ -1,1 +1,1 @@
-var mnemonic = "night luggage evoke coyote surge exist camp pig pulse fat brass quit";
+var mnemonic = "travel cross camp laptop inherit speak breeze evoke artist armor laugh canyon";

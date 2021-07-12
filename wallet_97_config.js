@@ -1,1 +1,1 @@
-var mnemonic = "match later impose scout junior gather arch depend heavy monkey merit couple";
+var mnemonic = "tonight obtain bright giraffe typical inner assist choose guard control month bamboo";

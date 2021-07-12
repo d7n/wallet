@@ -1,1 +1,1 @@
-var mnemonic = "chase sense zero laptop rug figure proof parade before control venue office";
+var mnemonic = "object wash spell lizard vital ranch border movie arrive regret cloud coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "position address photo analyst stock educate various excuse carbon noise coil strong";
+var mnemonic = "picnic electric danger huge prepare ticket sign crop bracket clock cannon poem";

@@ -1,1 +1,1 @@
-var mnemonic = "torch oil guard vital toss prison gather taste segment average crumble very";
+var mnemonic = "lunch life fix weapon couch crumble unfold van adjust super blast relief";

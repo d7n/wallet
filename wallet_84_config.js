@@ -1,1 +1,1 @@
-var mnemonic = "kidney vintage order hair sleep display manual movie relief calm mimic focus";
+var mnemonic = "cabin balcony enough bid deposit crowd sadness jar torch rescue over there";

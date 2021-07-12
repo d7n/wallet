@@ -1,1 +1,1 @@
-var mnemonic = "sleep method feel hamster target debris town two phone birth snap boil";
+var mnemonic = "vacant merit agree valve current achieve simple female bring safe similar minor";

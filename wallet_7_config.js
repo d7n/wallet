@@ -1,1 +1,1 @@
-var mnemonic = "work same puzzle piece congress monster palm choice gate cry trap electric";
+var mnemonic = "clever unique region afford hazard lobster gravity toe flavor smile actress salute";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny ship forest unusual grab put poem staff census patch clump snack";
+var mnemonic = "aspect blood walnut detect main calm jacket reason during what toddler detail";

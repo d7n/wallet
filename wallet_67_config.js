@@ -1,1 +1,1 @@
-var mnemonic = "mother daughter unhappy false ritual bag noble come artwork space volcano estate";
+var mnemonic = "orange owner immune neutral olive choose craft enact brass rather side prepare";

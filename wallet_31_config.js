@@ -1,1 +1,1 @@
-var mnemonic = "solid inside harvest swap pelican caution wolf iron milk actor library tool";
+var mnemonic = "effort father mixture caution disagree climb hero history blouse return smoke buzz";

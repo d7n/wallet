@@ -1,1 +1,1 @@
-var mnemonic = "short judge document evidence fire market champion high wash ability inform parade";
+var mnemonic = "define hood potato unit cannon garbage wonder welcome volume antenna ribbon range";

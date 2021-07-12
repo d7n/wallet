@@ -1,1 +1,1 @@
-var mnemonic = "happy clever zone museum turkey clean cricket canvas fire route mandate moral";
+var mnemonic = "kitchen core develop dynamic clean guard oven naive anxiety service cushion joke";

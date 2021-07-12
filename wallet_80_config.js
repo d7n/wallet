@@ -1,1 +1,1 @@
-var mnemonic = "praise silly small wire cave stove slam select sponsor decrease solar silk";
+var mnemonic = "liar version regular grief banana coil embark energy behave tackle prepare device";

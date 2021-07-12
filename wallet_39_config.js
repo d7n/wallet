@@ -1,1 +1,1 @@
-var mnemonic = "radar add dove fire adapt kingdom become wish carpet fancy hub talk";
+var mnemonic = "theory have enjoy grace ranch exclude prefer early message junk pencil actress";

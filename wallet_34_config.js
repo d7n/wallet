@@ -1,1 +1,1 @@
-var mnemonic = "bench mosquito amount enjoy wolf crush hammer hundred garment child song ensure";
+var mnemonic = "portion spike notable march hen ritual cluster supply hawk buffalo claw cruise";

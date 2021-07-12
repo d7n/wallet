@@ -1,1 +1,1 @@
-var mnemonic = "dry salute fault business sketch run abandon label fresh then fish bacon";
+var mnemonic = "flee sign scare problem month certain jewel meat wife twin protect among";

@@ -1,1 +1,1 @@
-var mnemonic = "ten august boat fame brass escape unlock space valley spray surge urban";
+var mnemonic = "hazard fruit hidden defense maple purse remove cupboard today glue humor crew";

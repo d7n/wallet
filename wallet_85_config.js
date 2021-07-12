@@ -1,1 +1,1 @@
-var mnemonic = "vivid razor three army uncle autumn army gift industry green bless loan";
+var mnemonic = "slam remain impact deal biology analyst they control image toy please boy";

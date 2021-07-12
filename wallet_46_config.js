@@ -1,1 +1,1 @@
-var mnemonic = "point melt chaos borrow smart cable now initial lift visit wild donor";
+var mnemonic = "second catalog gloom exercise actual repair leave length ask discover sudden chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "initial ritual hawk cover differ injury budget rice fancy pink one planet";
+var mnemonic = "pupil drastic neck cabin cargo vague bird improve slice raise hover arrest";

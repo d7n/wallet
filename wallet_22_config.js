@@ -1,1 +1,1 @@
-var mnemonic = "image wise soccer donate view thank hole clean uniform decrease secret protect";
+var mnemonic = "rich napkin rib board pear clutch dignity immense museum refuse divide churn";

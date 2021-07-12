@@ -1,1 +1,1 @@
-var mnemonic = "earth action gentle track bounce fly cheap million dinner finger talent result";
+var mnemonic = "wire broccoli zone vital result much giggle erupt calm can weasel cover";

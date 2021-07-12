@@ -1,1 +1,1 @@
-var mnemonic = "guess diesel fever category risk feature tree actor sustain range mansion honey";
+var mnemonic = "nut chronic endorse laundry soul viable spy defense ghost tape tower glory";

@@ -1,1 +1,1 @@
-var mnemonic = "soap keep tool wrestle rude fitness toe cabin rally squeeze tissue act";
+var mnemonic = "mountain picnic torch coast village weapon hotel talent radio humble forum match";

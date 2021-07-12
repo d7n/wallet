@@ -1,1 +1,1 @@
-var mnemonic = "vibrant panic myth bleak grief harsh toward win crumble evil eager chef";
+var mnemonic = "credit travel north trial denial book pool foot magnet purse buddy certain";

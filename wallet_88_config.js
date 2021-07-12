@@ -1,1 +1,1 @@
-var mnemonic = "raise planet elbow chase dice mail much garden depart sell holiday earth";
+var mnemonic = "finger motion more fiber warfare cream law isolate protect three hen enforce";

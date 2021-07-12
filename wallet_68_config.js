@@ -1,1 +1,1 @@
-var mnemonic = "scene animal patient loop fuel leaf bamboo ecology major regular lab pigeon";
+var mnemonic = "expire always ethics leisure mad ship outer stomach dial invite carbon sadness";

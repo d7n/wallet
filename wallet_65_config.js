@@ -1,1 +1,1 @@
-var mnemonic = "good smart stock fortune lion zero job country hollow welcome later little";
+var mnemonic = "soda choice army horse doll spend asthma sudden paddle will recall laptop";

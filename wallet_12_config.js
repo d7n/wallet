@@ -1,1 +1,1 @@
-var mnemonic = "shift topple gas napkin hybrid outdoor model yellow twelve offer toast frame";
+var mnemonic = "fault exercise capital aware shrug north risk control unique calm smart human";

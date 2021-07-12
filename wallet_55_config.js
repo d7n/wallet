@@ -1,1 +1,1 @@
-var mnemonic = "drive grant inject vacant north fever wild control pole wise avoid trend";
+var mnemonic = "under very begin crumble program pigeon win turkey hospital huge ensure gospel";

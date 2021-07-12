@@ -1,1 +1,1 @@
-var mnemonic = "evoke fee cover narrow crazy clerk improve clip cart trend local staff";
+var mnemonic = "various demise screen diet discover live always movie tobacco idle minute vehicle";

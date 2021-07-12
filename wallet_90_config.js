@@ -1,1 +1,1 @@
-var mnemonic = "similar version bulk keen since hawk forward pupil try job draft shock";
+var mnemonic = "nose rude chat claim brave flag animal brief brass once stable evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap since husband visa open crane topic oxygen arctic aspect three athlete";
+var mnemonic = "clay world mirror around sport wool cover goose toss relief glide success";

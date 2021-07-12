@@ -1,1 +1,1 @@
-var mnemonic = "bunker fly alpha rigid ordinary crew nominee gloom pink section arctic velvet";
+var mnemonic = "velvet file humor olive spray culture ocean mercy refuse gun fence grain";

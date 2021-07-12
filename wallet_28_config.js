@@ -1,1 +1,1 @@
-var mnemonic = "flock limb credit organ vast collect garage fiction huge phrase describe fun";
+var mnemonic = "develop agent rug famous detect please stable mention purchase utility arch age";

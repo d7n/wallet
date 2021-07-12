@@ -1,1 +1,1 @@
-var mnemonic = "giraffe furnace civil draw tank insect save banner napkin gain accident slide";
+var mnemonic = "target category verify trap such age imitate bonus avoid weather panda giant";

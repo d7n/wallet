@@ -1,1 +1,1 @@
-var mnemonic = "coral swim phrase weasel crucial erosion check stool gym type curious boss";
+var mnemonic = "liberty access salute monkey song dumb marine pretty bag palace ecology view";

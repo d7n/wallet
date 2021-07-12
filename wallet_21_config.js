@@ -1,1 +1,1 @@
-var mnemonic = "supply voyage hockey merge frog wrestle gather result kitten erupt spare garage";
+var mnemonic = "adjust number denial robot accuse knee bonus around burger movie topple salmon";

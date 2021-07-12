@@ -1,1 +1,1 @@
-var mnemonic = "bicycle syrup service gorilla please fee next filter extend unfold gold borrow";
+var mnemonic = "insane find isolate skate awake tortoise blood crash antenna goat reopen gaze";

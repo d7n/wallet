@@ -1,1 +1,1 @@
-var mnemonic = "bicycle cabbage become eagle prefer noise like quiz stomach control coyote lunar";
+var mnemonic = "parrot lumber essay fatigue diesel gas eight thunder catch sausage neglect dumb";

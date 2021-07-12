@@ -1,1 +1,1 @@
-var mnemonic = "man morning thrive volcano actress sweet satoshi airport insane rare acquire bless";
+var mnemonic = "future among bread tongue audit hospital guard torch icon neither affair spell";

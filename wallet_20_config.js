@@ -1,1 +1,1 @@
-var mnemonic = "wool tornado album slide crystal sea lion soon ankle lucky original brush";
+var mnemonic = "illness ice rifle fluid roof stadium spatial buffalo today kid morning approve";

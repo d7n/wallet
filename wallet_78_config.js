@@ -1,1 +1,1 @@
-var mnemonic = "then humble flush view friend trumpet swim zero horn volcano sibling river";
+var mnemonic = "pear primary elbow term shove clown try limb wool symbol skate hint";

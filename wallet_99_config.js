@@ -1,1 +1,1 @@
-var mnemonic = "small usual zoo north lift shift upgrade cage loyal stool lazy torch";
+var mnemonic = "hidden upon soul now option ghost report decline weapon usage dream program";

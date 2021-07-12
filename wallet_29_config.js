@@ -1,1 +1,1 @@
-var mnemonic = "today green enough combine combine friend sword filter oxygen cigar advance husband";
+var mnemonic = "train wheat fresh setup doctor canal when jungle sibling ramp rival govern";

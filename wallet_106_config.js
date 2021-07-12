@@ -1,1 +1,1 @@
-var mnemonic = "life swallow round chief predict basic coconut era swing reunion matrix aunt";
+var mnemonic = "mountain bounce entry reduce culture pond nation glory favorite that year wife";

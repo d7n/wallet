@@ -1,1 +1,1 @@
-var mnemonic = "behind dinner wrist that candy document game word often success point electric";
+var mnemonic = "edit boil affair answer tree dice refuse clip scare inmate aunt boss";

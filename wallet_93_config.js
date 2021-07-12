@@ -1,1 +1,1 @@
-var mnemonic = "gold gorilla kit tape envelope green festival proof cute section best auction";
+var mnemonic = "senior casino kiss sight hedgehog couch useful hour you trap fetch card";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle shed village glass knee rigid inmate hen present moon life practice";
+var mnemonic = "injury accident destroy lizard athlete kiss install amazing dynamic sword convince able";

@@ -1,1 +1,1 @@
-var mnemonic = "catch coconut topple cereal galaxy adapt account dynamic science say lawn across";
+var mnemonic = "pigeon cotton west merit exhibit tortoise clog sand share derive attack impact";

@@ -1,1 +1,1 @@
-var mnemonic = "usual page fossil home student current alley peace used maple cannon defy";
+var mnemonic = "outdoor kite across flag travel wolf wagon acquire basket car evolve bid";

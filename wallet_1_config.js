@@ -1,1 +1,1 @@
-var mnemonic = "govern tooth kangaroo prison exact void lemon weird chest include hollow erode";
+var mnemonic = "topic off thank forward sword noble luxury outdoor fitness vocal suggest reunion";

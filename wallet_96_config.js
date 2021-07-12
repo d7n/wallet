@@ -1,1 +1,1 @@
-var mnemonic = "surround disorder common bring rose hood detail slogan brave issue camp sadness";
+var mnemonic = "evil initial tonight believe trial space tooth brass monitor sibling split entire";

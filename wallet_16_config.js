@@ -1,1 +1,1 @@
-var mnemonic = "scissors speak tent life about amused music book spoon denial dash stairs";
+var mnemonic = "ticket control leaf summer virtual cattle reform elder color shiver lonely scissors";

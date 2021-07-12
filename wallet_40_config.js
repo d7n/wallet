@@ -1,1 +1,1 @@
-var mnemonic = "skull leopard satisfy trash nerve cotton salon pear kiwi victory tide remember";
+var mnemonic = "unfold cry earn gate sausage firm left ride kitten shock breeze original";
