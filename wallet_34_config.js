@@ -1,1 +1,1 @@
-var mnemonic = "museum master hazard embody until truck cool swamp alien merge game gown";
+var mnemonic = "mobile region amateur foam copy adapt empower horse pluck above obscure rifle";

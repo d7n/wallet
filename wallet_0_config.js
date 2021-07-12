@@ -1,1 +1,1 @@
-var mnemonic = "honey design where wash faith about advance bonus spend say interest ritual";
+var mnemonic = "safe warrior around deliver debate scale key setup farm grunt sugar phone";

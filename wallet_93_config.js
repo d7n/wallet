@@ -1,1 +1,1 @@
-var mnemonic = "that rug profit entire symbol asset kingdom heavy hidden canal note fossil";
+var mnemonic = "forward board cause cotton sunny junk scorpion damp spirit usage pledge submit";

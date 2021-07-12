@@ -1,1 +1,1 @@
-var mnemonic = "kidney emotion behind return escape snap search eye nice light unfair door";
+var mnemonic = "dismiss edit moral digital race charge hood dutch punch patrol abandon occur";

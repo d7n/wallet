@@ -1,1 +1,1 @@
-var mnemonic = "equal bird jump month peace chalk degree large decide pool soup school";
+var mnemonic = "horse thrive pause also erode age funny employ vault chief chimney above";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd outdoor quiz polar fringe torch mushroom reunion love goat basic wheat";
+var mnemonic = "portion mixture spend brass arch trouble diet mystery sense setup three debate";

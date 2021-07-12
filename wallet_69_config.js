@@ -1,1 +1,1 @@
-var mnemonic = "explain park west guess differ excuse zone glue move educate february join";
+var mnemonic = "spatial boring sibling syrup first chapter heavy rifle picture divorce weird dress";

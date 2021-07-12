@@ -1,1 +1,1 @@
-var mnemonic = "frown project burden test miracle aware tattoo search myself tornado deer noise";
+var mnemonic = "price there fatal govern fortune come elder sing saddle depth angry all";

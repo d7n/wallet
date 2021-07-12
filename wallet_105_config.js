@@ -1,1 +1,1 @@
-var mnemonic = "cabbage squirrel orient action arrive share lobster minute marriage wrestle fence basic";
+var mnemonic = "inquiry dust boring unable reject suspect year distance theme quit fiction recall";

@@ -1,1 +1,1 @@
-var mnemonic = "myself height recipe network rabbit catalog clown patient utility stamp moment project";
+var mnemonic = "subway museum child grant gauge asthma congress bind broom whip repeat juice";

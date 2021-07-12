@@ -1,1 +1,1 @@
-var mnemonic = "forum banana assault industry brief galaxy subject rapid cart drop ahead sugar";
+var mnemonic = "pole soccer okay pulp final two cancel student soap convince surround inject";

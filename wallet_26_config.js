@@ -1,1 +1,1 @@
-var mnemonic = "outside viable december brain reunion final fantasy raw mesh license dry nurse";
+var mnemonic = "spice twelve behave junk decorate agree decide erode hospital steak tower dentist";

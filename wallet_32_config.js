@@ -1,1 +1,1 @@
-var mnemonic = "range upon they leg hover churn success hungry brother marble pole flip";
+var mnemonic = "scorpion curtain kind market success strong cloth blue burst robot market catalog";

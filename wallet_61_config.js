@@ -1,1 +1,1 @@
-var mnemonic = "camp earn truck device similar idea jaguar canoe hunt bounce sustain spring";
+var mnemonic = "brass metal mammal stay pledge iron airport hybrid addict chaos ladder check";

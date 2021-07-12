@@ -1,1 +1,1 @@
-var mnemonic = "tray message risk gorilla record reason recall language flip claw casino sweet";
+var mnemonic = "ankle worry wear dumb sugar stage lamp real stereo furnace awake shrimp";

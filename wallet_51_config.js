@@ -1,1 +1,1 @@
-var mnemonic = "genre erode announce leader city finish social often travel clerk clown hello";
+var mnemonic = "hope lyrics resource curve elite any explain catalog rather invite dune face";

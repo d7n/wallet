@@ -1,1 +1,1 @@
-var mnemonic = "diet kiwi utility width useful sight exist drip admit favorite what program";
+var mnemonic = "layer city notable priority sock wrap unique discover juice trade census bird";

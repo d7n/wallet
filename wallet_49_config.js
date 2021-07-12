@@ -1,1 +1,1 @@
-var mnemonic = "mushroom curious divide correct double stairs heart high check little remain debate";
+var mnemonic = "actress trophy ritual satoshi announce melt sea enroll claim stick soda remember";

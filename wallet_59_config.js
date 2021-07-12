@@ -1,1 +1,1 @@
-var mnemonic = "amused poet deer unfold stand cousin lock glance toe script helmet also";
+var mnemonic = "citizen gospel churn pledge hedgehog tree tennis skin corn axis wave elder";

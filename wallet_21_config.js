@@ -1,1 +1,1 @@
-var mnemonic = "wonder clarify mask breeze urban finger copy mechanic forum jewel leader gas";
+var mnemonic = "resist pulp seat industry wheat husband hold keep title mushroom couch travel";

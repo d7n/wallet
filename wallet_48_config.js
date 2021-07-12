@@ -1,1 +1,1 @@
-var mnemonic = "post coffee relief broom vessel flower scatter apple sauce planet gaze midnight";
+var mnemonic = "person genre diagram camp shiver monster beach hobby carbon weekend purity meadow";

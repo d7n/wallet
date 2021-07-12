@@ -1,1 +1,1 @@
-var mnemonic = "scrub attend moment canoe merge kidney engine ostrich stamp sand wealth base";
+var mnemonic = "segment catch dose magnet taste weasel fall system tide fragile tuition tooth";

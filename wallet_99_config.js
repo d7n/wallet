@@ -1,1 +1,1 @@
-var mnemonic = "gap bean business silver mesh cloud drive struggle street arrive thrive bargain";
+var mnemonic = "sad pluck fortune soon double buzz gossip vicious range clap clutch finish";

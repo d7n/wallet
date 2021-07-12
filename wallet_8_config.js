@@ -1,1 +1,1 @@
-var mnemonic = "middle little monkey transfer ride upset panda wealth spend slot canyon tomorrow";
+var mnemonic = "theory rubber family hair meadow put basic finger absurd market concert law";

@@ -1,1 +1,1 @@
-var mnemonic = "skull false capital song chaos basic artist cattle timber find ankle adapt";
+var mnemonic = "pig budget faculty question polar strategy any tackle library beach write bubble";

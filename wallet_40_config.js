@@ -1,1 +1,1 @@
-var mnemonic = "plate round pudding glimpse truck transfer crowd perfect blush useful pig hand";
+var mnemonic = "vocal deputy wear night crash vessel mouse laugh involve stock cheap material";

@@ -1,1 +1,1 @@
-var mnemonic = "media salmon animal fall coffee there fresh barrel limit come spoil uniform";
+var mnemonic = "arm nuclear health obey link upon mystery deny alter runway matrix win";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar good find fog drastic middle man pet power skull siege ridge";
+var mnemonic = "giraffe remove chat garden episode indoor payment ahead ancient seven toward float";

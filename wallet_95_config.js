@@ -1,1 +1,1 @@
-var mnemonic = "code visit surface catch original just caution buzz gather sunset erosion wet";
+var mnemonic = "silk trial clip spike physical example fog saddle thank depend unfair ecology";

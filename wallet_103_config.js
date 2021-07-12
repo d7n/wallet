@@ -1,1 +1,1 @@
-var mnemonic = "want garlic mimic layer wagon evoke curve install welcome draw lemon great";
+var mnemonic = "nasty endorse attack arrange bullet couch please sad prefer lizard bench pill";

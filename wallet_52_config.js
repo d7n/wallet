@@ -1,1 +1,1 @@
-var mnemonic = "kiss unusual embark expose food burger finger glare asthma repair recipe patrol";
+var mnemonic = "knife hope width stereo action cross client chase half clay gorilla false";

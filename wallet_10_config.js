@@ -1,1 +1,1 @@
-var mnemonic = "comic faint vicious olive slot lazy goat hard soap whale home point";
+var mnemonic = "voice toe allow ostrich aim casual sniff health coffee main mobile say";

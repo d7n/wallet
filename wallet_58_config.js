@@ -1,1 +1,1 @@
-var mnemonic = "fog pig neutral super neglect accuse divorce tower region border spirit track";
+var mnemonic = "castle snow layer broccoli clever fault jazz spider best smooth frozen gravity";

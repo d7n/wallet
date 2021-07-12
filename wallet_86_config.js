@@ -1,1 +1,1 @@
-var mnemonic = "maid cool advance clip iron convince bind nurse vague cloth market opera";
+var mnemonic = "sunset crowd lab remove pledge valley little business discover fly clerk extend";

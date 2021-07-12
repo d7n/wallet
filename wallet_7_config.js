@@ -1,1 +1,1 @@
-var mnemonic = "worry chapter name exclude race crash vendor few become toy original glue";
+var mnemonic = "diesel dwarf cargo moral soap jungle art domain duty ask suit poet";

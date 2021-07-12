@@ -1,1 +1,1 @@
-var mnemonic = "shell bench slim model news joy icon quit sea video give pond";
+var mnemonic = "gun clinic sense phone aim desk visual alpha spawn target path okay";

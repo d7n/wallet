@@ -1,1 +1,1 @@
-var mnemonic = "seat pride asthma entire glue glue crush addict empower cricket employ nurse";
+var mnemonic = "glance hobby lawsuit echo noble such bitter promote umbrella favorite run because";

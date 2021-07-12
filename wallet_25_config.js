@@ -1,1 +1,1 @@
-var mnemonic = "effort duty mountain apart eager crouch stuff cruel screen wish blouse ugly";
+var mnemonic = "sustain ride avoid cat else ankle uniform wreck gas coral fall stumble";

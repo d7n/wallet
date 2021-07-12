@@ -1,1 +1,1 @@
-var mnemonic = "connect clutch museum rescue rain base oyster goddess final point banner frost";
+var mnemonic = "exhaust box physical afraid enable film web small cargo nice blouse shift";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor air tell doctor mushroom valid argue zebra fault youth embark cool";
+var mnemonic = "deputy exact boat blind hidden horror wife clip cancel drive occur inspire";

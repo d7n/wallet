@@ -1,1 +1,1 @@
-var mnemonic = "radio birth vintage fury print raccoon reopen evolve hole exclude puppy predict";
+var mnemonic = "noodle limb woman only include benefit depth narrow over deer urban join";

@@ -1,1 +1,1 @@
-var mnemonic = "general monster possible image menu echo joy imitate bracket praise fatigue garlic";
+var mnemonic = "pudding piano banner cream assume wire morning life neck wisdom size mix";

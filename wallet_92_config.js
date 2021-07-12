@@ -1,1 +1,1 @@
-var mnemonic = "today finger large social badge chimney glory razor burger wait mobile enemy";
+var mnemonic = "clerk castle prize bamboo above limb flock fatigue mention income immune habit";

@@ -1,1 +1,1 @@
-var mnemonic = "addict wise quit other fat floor taste unveil endless slush nose piano";
+var mnemonic = "crop happy dose breeze exclude eagle science crush night vacuum patrol flower";

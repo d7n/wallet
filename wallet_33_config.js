@@ -1,1 +1,1 @@
-var mnemonic = "bring trap indicate because rally badge height sight october organ rate estate";
+var mnemonic = "magic poem labor pull clog surprise subway bonus typical crater rotate spawn";

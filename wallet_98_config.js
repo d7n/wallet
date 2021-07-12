@@ -1,1 +1,1 @@
-var mnemonic = "theme radio inner mom surround team deliver spot once vendor early airport";
+var mnemonic = "push swing cruise large exile target royal garage surprise crater gap dress";

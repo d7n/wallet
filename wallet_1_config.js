@@ -1,1 +1,1 @@
-var mnemonic = "urge skull sustain law unfold upgrade very topple bright empty drop mention";
+var mnemonic = "own crowd pond river nerve crime honey enrich anxiety ridge canyon differ";

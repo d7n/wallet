@@ -1,1 +1,1 @@
-var mnemonic = "solar grief purse poem measure naive traffic imitate dawn tennis voice friend";
+var mnemonic = "produce coil mandate multiply sugar unfold filter amateur warm learn volume adjust";

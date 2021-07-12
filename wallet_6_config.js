@@ -1,1 +1,1 @@
-var mnemonic = "enrich enhance congress expose shrimp raccoon face magnet crack old just identify";
+var mnemonic = "cage blame idle knock near since inmate like random exhibit sample heavy";

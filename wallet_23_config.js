@@ -1,1 +1,1 @@
-var mnemonic = "fatal cousin bulb dawn walk lion point reason nerve simple curious dust";
+var mnemonic = "match man avocado answer give abuse goat horse dizzy august cupboard olive";

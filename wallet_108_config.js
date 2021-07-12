@@ -1,1 +1,1 @@
-var mnemonic = "wrap ostrich around poet range list state control deliver champion cotton patient";
+var mnemonic = "stool virtual scrap palm early night dish suit later school sun combine";

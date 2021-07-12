@@ -1,1 +1,1 @@
-var mnemonic = "define coach damage exclude office card patrol step aspect world organ guide";
+var mnemonic = "destroy word record element join sight vehicle valve key ten dinner mushroom";

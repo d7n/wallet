@@ -1,1 +1,1 @@
-var mnemonic = "cart spread canoe render shallow else stumble alley club dentist clown fatal";
+var mnemonic = "absorb pact trap fun talk infant solar bread violin magic milk bike";

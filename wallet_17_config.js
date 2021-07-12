@@ -1,1 +1,1 @@
-var mnemonic = "alpha illegal absorb situate ride strong focus jelly shift cluster text radar";
+var mnemonic = "dignity session vendor bachelor ask toy toilet story engage outside collect mutual";

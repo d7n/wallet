@@ -1,1 +1,1 @@
-var mnemonic = "bright orchard garage insane brief ball narrow relax foam royal slogan rule";
+var mnemonic = "enact supreme mixture coil setup talent poverty behave pumpkin tray now earth";

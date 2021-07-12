@@ -1,1 +1,1 @@
-var mnemonic = "fault pony exist ask buffalo excite input sense lonely illegal sphere tiger";
+var mnemonic = "remove result car analyst upgrade reason royal tooth admit emotion mystery sting";

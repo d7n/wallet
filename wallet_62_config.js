@@ -1,1 +1,1 @@
-var mnemonic = "cement nature wave anxiety imitate remain ecology pigeon never drop artefact scatter";
+var mnemonic = "dilemma company either upgrade resist initial humble faculty trade grape pond share";

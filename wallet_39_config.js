@@ -1,1 +1,1 @@
-var mnemonic = "ladder leave web model chase own kit visit gentle festival shadow rule";
+var mnemonic = "buyer wise drastic math long quit hat industry few jeans era hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "air thing fabric margin brain lift surface congress pluck wolf draw cabbage";
+var mnemonic = "army wife item few snack size blast noble fringe isolate dust beef";

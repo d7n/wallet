@@ -1,1 +1,1 @@
-var mnemonic = "december sustain lesson usage core body grief silly gossip real print arrive";
+var mnemonic = "supply plug safe urge choose learn march punch train soda sad magic";

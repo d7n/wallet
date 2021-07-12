@@ -1,1 +1,1 @@
-var mnemonic = "garden circle pelican valley cook thrive fame eager victory antique fee slim";
+var mnemonic = "evidence noise tomorrow hen home social enemy medal monitor goat page ask";

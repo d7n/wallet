@@ -1,1 +1,1 @@
-var mnemonic = "raven truly vital belt journey grace shed garage knife catch noble accident";
+var mnemonic = "start shy unfold dizzy mountain furnace country grit matter quarter surface obtain";

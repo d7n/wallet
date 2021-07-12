@@ -1,1 +1,1 @@
-var mnemonic = "inform worry wheat faint program income cricket scene kangaroo deer convince fit";
+var mnemonic = "wheat mom between infant neck catch critic sand key open fan borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil wreck motion blame follow hurdle bid rifle gate hope shallow arrive";
+var mnemonic = "runway broom symptom basic hazard crystal social category agent humble exile bread";

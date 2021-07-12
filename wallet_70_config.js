@@ -1,1 +1,1 @@
-var mnemonic = "seed desert oppose pigeon affair unique three unique rival tennis gaze purchase";
+var mnemonic = "engine acquire evoke head parade slight update hill child vibrant rally occur";

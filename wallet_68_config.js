@@ -1,1 +1,1 @@
-var mnemonic = "about barrel sentence monkey elite mixture alpha evil nest egg coconut use";
+var mnemonic = "suit wolf blouse sport sword guide secret cement plate tone napkin glass";

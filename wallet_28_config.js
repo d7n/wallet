@@ -1,1 +1,1 @@
-var mnemonic = "define joy prize eagle trash crunch absent excess dry glide economy exile";
+var mnemonic = "gather basic horror purchase uncover humor festival churn despair follow ice meat";

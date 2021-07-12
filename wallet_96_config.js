@@ -1,1 +1,1 @@
-var mnemonic = "point emerge crop orphan clog various drum ask tumble purse evoke sell";
+var mnemonic = "table deposit father claw page entry pipe round family skate labor motion";

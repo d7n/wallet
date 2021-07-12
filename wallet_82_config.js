@@ -1,1 +1,1 @@
-var mnemonic = "girl wild license identify library piece gun label solve display sample process";
+var mnemonic = "mango asset term eyebrow else voice bacon ridge rocket celery notice feed";

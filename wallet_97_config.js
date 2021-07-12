@@ -1,1 +1,1 @@
-var mnemonic = "distance blur perfect skin view inch praise riot quit early bunker stool";
+var mnemonic = "embark select myth notice ready main dress note century voyage enough bracket";

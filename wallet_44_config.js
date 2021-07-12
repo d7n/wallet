@@ -1,1 +1,1 @@
-var mnemonic = "ensure ring lawsuit latin plastic barrel enough lumber stay worth harbor stairs";
+var mnemonic = "divert whale pattern harbor cute about burger symbol basic stereo diary select";

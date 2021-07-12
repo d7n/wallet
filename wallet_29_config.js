@@ -1,1 +1,1 @@
-var mnemonic = "prevent skill moral fantasy unable spare auction waste term burger peanut chronic";
+var mnemonic = "opera rack dinosaur vendor base spice mystery crawl brief blanket subject asthma";

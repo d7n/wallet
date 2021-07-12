@@ -1,1 +1,1 @@
-var mnemonic = "range mammal pill style interest awful clay exist adult business wait vital";
+var mnemonic = "tribe shrug all receive crash photo sell tuna demand story wealth hidden";

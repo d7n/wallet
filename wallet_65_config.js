@@ -1,1 +1,1 @@
-var mnemonic = "walk brown hair you occur garbage hero knee key buyer winner zebra";
+var mnemonic = "risk mule slim window road wonder program blossom thunder siege dust save";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit total vote labor coffee whale shiver wrist clay duck draw core";
+var mnemonic = "humble three bus pony planet bar payment nephew lecture fragile never crawl";

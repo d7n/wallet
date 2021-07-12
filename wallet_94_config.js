@@ -1,1 +1,1 @@
-var mnemonic = "quality leg want city foil purse power soon man strong drop sense";
+var mnemonic = "evoke meadow industry manage amateur pair tone child fatal item stock fabric";

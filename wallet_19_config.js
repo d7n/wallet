@@ -1,1 +1,1 @@
-var mnemonic = "taste aerobic promote found detect design dizzy reward modify elephant cotton there";
+var mnemonic = "double glory oxygen junk horse air muffin warfare dynamic brain hill head";

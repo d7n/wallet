@@ -1,1 +1,1 @@
-var mnemonic = "urge grid jar dragon sunset fossil artefact test know original meat noodle";
+var mnemonic = "bachelor unveil autumn heart trust tone found original power oyster uphold prefer";

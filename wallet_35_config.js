@@ -1,1 +1,1 @@
-var mnemonic = "parade embark claim dynamic allow silk tape render slim cover wood skin";
+var mnemonic = "zoo tomato author river robot cup flavor bread clinic practice hint claim";

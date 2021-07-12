@@ -1,1 +1,1 @@
-var mnemonic = "fee train man early wrist kitchen inhale real wet amateur clog evoke";
+var mnemonic = "eyebrow lion treat improve eternal inform idea chef nurse twenty evidence foam";

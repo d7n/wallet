@@ -1,1 +1,1 @@
-var mnemonic = "base young roof grain inform breeze clutch guess ramp fade move olympic";
+var mnemonic = "security lazy spell ice panic twin wait drive virtual thought scrap sand";

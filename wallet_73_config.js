@@ -1,1 +1,1 @@
-var mnemonic = "swallow repair dove food theme general long describe load hamster hundred robot";
+var mnemonic = "essay enlist imitate void history scale net entry web myself layer cruise";

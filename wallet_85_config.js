@@ -1,1 +1,1 @@
-var mnemonic = "salute harsh retreat forum night oxygen ready soap excuse believe vague museum";
+var mnemonic = "dragon scrub lock train minute know tumble main throw joy raw view";

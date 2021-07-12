@@ -1,1 +1,1 @@
-var mnemonic = "obvious nut magic loop uphold melt security mind alley profit stairs theory";
+var mnemonic = "garage height eye index punch curtain near fee brush debris gossip alone";

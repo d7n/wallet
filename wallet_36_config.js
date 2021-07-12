@@ -1,1 +1,1 @@
-var mnemonic = "core empty worry beyond private lend kit turkey daughter arrow smooth secret";
+var mnemonic = "couple robot almost wait actor thing above idea toss paddle tide point";

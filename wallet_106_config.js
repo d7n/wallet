@@ -1,1 +1,1 @@
-var mnemonic = "behave usage degree group twelve clever hole donate gloom pitch kiwi despair";
+var mnemonic = "inside pistol also cancel notice put abuse transfer visa popular pretty stereo";

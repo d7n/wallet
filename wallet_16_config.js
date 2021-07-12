@@ -1,1 +1,1 @@
-var mnemonic = "floor feel repeat trick tag file group recall fog jewel spirit trade";
+var mnemonic = "already innocent salmon nice garage bird range junk walnut normal record lawsuit";

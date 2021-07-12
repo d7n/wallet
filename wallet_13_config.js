@@ -1,1 +1,1 @@
-var mnemonic = "famous reject rare ugly issue warfare question clog typical brisk gospel submit";
+var mnemonic = "flame tourist question become piano dawn earth practice picture beauty category agree";
