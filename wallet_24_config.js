@@ -1,1 +1,1 @@
-var mnemonic = "flame loyal catch stamp choose artefact inquiry dentist fly age excess exhaust";
+var mnemonic = "panda high notable naive immune boy siren picture ocean emotion hood steak";

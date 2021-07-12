@@ -1,1 +1,1 @@
-var mnemonic = "envelope goose bind indicate student brother athlete will congress target vault glove";
+var mnemonic = "year usage correct author grit gun buzz civil soldier mosquito account two";

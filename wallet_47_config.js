@@ -1,1 +1,1 @@
-var mnemonic = "sketch auction gate kite black devote science warm tenant style library shaft";
+var mnemonic = "soup expect very oval start rail symbol purity usage zebra tomorrow rubber";

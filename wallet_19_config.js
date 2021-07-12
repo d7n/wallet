@@ -1,1 +1,1 @@
-var mnemonic = "mad earth critic interest retire color bus tone hamster ethics cable another";
+var mnemonic = "alley salute goddess burger expand language repeat point believe gospel possible want";

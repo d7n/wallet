@@ -1,1 +1,1 @@
-var mnemonic = "pink first input assist slab farm arena uniform extend motion donkey present";
+var mnemonic = "robot wait maid elbow basket blouse vocal episode oblige olympic story outside";

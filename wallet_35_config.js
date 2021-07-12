@@ -1,1 +1,1 @@
-var mnemonic = "sure replace claw maple strategy tool present brush cupboard blanket deer attend";
+var mnemonic = "private beef garden artwork hammer link tumble basic fresh aisle debate can";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst hospital actual language army wrist sting clock victory scorpion asthma umbrella";
+var mnemonic = "pyramid mystery cloud truly bronze bus velvet man flock globe wasp learn";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer vital success sick celery stick ticket tobacco census tuition verb patch";
+var mnemonic = "foil fish share wear suspect consider enter never bone gaze act shrimp";

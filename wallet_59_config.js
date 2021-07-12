@@ -1,1 +1,1 @@
-var mnemonic = "benefit scout rice hundred excite above jaguar three source home denial today";
+var mnemonic = "reduce vital spoon upset client essay laundry curve rose rail lion uphold";

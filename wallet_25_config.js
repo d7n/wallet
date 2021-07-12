@@ -1,1 +1,1 @@
-var mnemonic = "useful gallery hand era cream tuna fine regret there industry gesture alert";
+var mnemonic = "ridge enough yard glass seven oyster smoke isolate hire neutral border essay";

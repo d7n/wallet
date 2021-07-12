@@ -1,1 +1,1 @@
-var mnemonic = "habit soon wealth office myth thrive kingdom allow neck bulb intact ranch";
+var mnemonic = "profit mule artist poem idle anxiety casual electric night when banner device";

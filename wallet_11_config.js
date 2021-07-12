@@ -1,1 +1,1 @@
-var mnemonic = "trigger can wheel hire toy business direct safe lake engage plastic vital";
+var mnemonic = "express thrive idea snack female scare silly tower about clutch better fly";

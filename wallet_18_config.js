@@ -1,1 +1,1 @@
-var mnemonic = "ladder ordinary adjust manual security hat submit proud step please inmate timber";
+var mnemonic = "rebel fancy distance actor agree sustain month birth decade deputy spy skate";

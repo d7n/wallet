@@ -1,1 +1,1 @@
-var mnemonic = "hundred canvas absorb assault oppose stone educate kangaroo rural seat appear extra";
+var mnemonic = "session stuff alcohol where office elder lyrics fringe bamboo dice satoshi general";

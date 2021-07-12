@@ -1,1 +1,1 @@
-var mnemonic = "hamster when prize dentist buyer faint measure arrest priority undo yard captain";
+var mnemonic = "pen rubber plastic angry write rhythm predict swim general limb zone bulb";

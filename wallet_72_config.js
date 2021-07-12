@@ -1,1 +1,1 @@
-var mnemonic = "acquire year cherry radio diagram image aunt throw raccoon miracle insect art";
+var mnemonic = "library code shop bone impulse save habit canoe hammer leisure void sell";

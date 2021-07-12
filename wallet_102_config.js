@@ -1,1 +1,1 @@
-var mnemonic = "mirror invite rigid rookie figure ghost day autumn clever rude same service";
+var mnemonic = "dawn desert sound leader panel maximum grid much guitar ramp coil aspect";

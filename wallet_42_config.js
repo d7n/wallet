@@ -1,1 +1,1 @@
-var mnemonic = "infant sheriff daughter paddle popular when light arrange reform come main tree";
+var mnemonic = "weather people pave twin glance ladder adapt cheap comic rich garage mean";

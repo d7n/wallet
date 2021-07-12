@@ -1,1 +1,1 @@
-var mnemonic = "police caught ivory witness bean amazing skirt trick chapter case glue oxygen";
+var mnemonic = "life hire organ three faint faith type exact foot tomorrow latin waste";

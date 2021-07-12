@@ -1,1 +1,1 @@
-var mnemonic = "february season metal recycle tuna ride scrub devote pelican issue fatigue champion";
+var mnemonic = "record acoustic actress plunge carpet across more stone change session skin lunar";

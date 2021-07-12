@@ -1,1 +1,1 @@
-var mnemonic = "web harvest erosion group banner sunset glimpse side apart south spray scrub";
+var mnemonic = "control erode tribe cool turtle combine eye team thumb stand logic garage";

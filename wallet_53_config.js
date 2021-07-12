@@ -1,1 +1,1 @@
-var mnemonic = "fold frown same advice nerve owner feed room soup good prefer fog";
+var mnemonic = "trip grab purchase apple equip oil resist expect eager faculty topple huge";

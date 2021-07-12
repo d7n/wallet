@@ -1,1 +1,1 @@
-var mnemonic = "message spot endless park wise enlist soap inflict gesture step knee spend";
+var mnemonic = "teach million mask brand spoon spell runway catch achieve toy tackle someone";

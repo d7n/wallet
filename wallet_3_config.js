@@ -1,1 +1,1 @@
-var mnemonic = "dry cabbage ostrich invite grocery symptom insect unique maid few mimic promote";
+var mnemonic = "tower census check kick bleak quote keen language menu vast turn educate";

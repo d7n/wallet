@@ -1,1 +1,1 @@
-var mnemonic = "shoulder inside stock pluck system hat slush neutral truth kitten blade toy";
+var mnemonic = "mushroom rocket erupt put planet shoulder twenty poem select aim loyal scrap";

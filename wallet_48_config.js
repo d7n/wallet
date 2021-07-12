@@ -1,1 +1,1 @@
-var mnemonic = "blanket dice lesson skull arch minor toy stamp number manage normal view";
+var mnemonic = "raven mind income thing cheese section help elite floor quick denial romance";

@@ -1,1 +1,1 @@
-var mnemonic = "spray advice illegal alien afford captain faculty trouble stage trade gain conduct";
+var mnemonic = "palm lock food reject sort improve case ghost lecture warrior drama yard";

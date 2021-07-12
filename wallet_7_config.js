@@ -1,1 +1,1 @@
-var mnemonic = "valve fold flavor tree bracket air later impose near thank luggage method";
+var mnemonic = "tower upset zone spoon bounce antenna fitness kangaroo slot tobacco sun ivory";

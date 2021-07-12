@@ -1,1 +1,1 @@
-var mnemonic = "street creek exhaust tooth crumble fog vote about ticket interest battle decide";
+var mnemonic = "unusual ready siren tunnel school lazy practice age essence run cruel cram";

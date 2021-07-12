@@ -1,1 +1,1 @@
-var mnemonic = "sand advice cash punch glad diet poet forward drink dumb during minimum";
+var mnemonic = "throw twelve produce abuse myth garlic slide cradle involve knife omit bless";

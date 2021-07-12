@@ -1,1 +1,1 @@
-var mnemonic = "always account own key type ugly size upgrade car mother ceiling puzzle";
+var mnemonic = "develop divorce escape achieve inhale kingdom account furnace useful squirrel pave science";

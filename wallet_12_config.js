@@ -1,1 +1,1 @@
-var mnemonic = "source fever focus obey boring banner tribe setup pig pulse giraffe wrist";
+var mnemonic = "matrix elite repair kingdom wood faith helmet fiction option sustain dilemma power";

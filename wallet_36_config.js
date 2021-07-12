@@ -1,1 +1,1 @@
-var mnemonic = "faint wedding damp vital reveal surprise all inflict idle govern gospel labor";
+var mnemonic = "address body long pluck slow drop essence assault version veteran defense crime";

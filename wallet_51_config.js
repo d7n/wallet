@@ -1,1 +1,1 @@
-var mnemonic = "off profit rotate again slight obscure worth antenna milk dolphin clog destroy";
+var mnemonic = "banner goose remind liquid modify faith run crystal hurry lake rich catch";

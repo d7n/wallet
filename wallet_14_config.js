@@ -1,1 +1,1 @@
-var mnemonic = "favorite fetch buddy snack nice icon hover rice dress million assume gentle";
+var mnemonic = "frown false wife decrease reason ginger smart jacket word fringe divorce right";

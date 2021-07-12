@@ -1,1 +1,1 @@
-var mnemonic = "auction volume vanish frozen wasp chalk glory neglect earth hobby era talent";
+var mnemonic = "seminar range cup lend shrug sheriff game foam pave sorry spot velvet";

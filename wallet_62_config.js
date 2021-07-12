@@ -1,1 +1,1 @@
-var mnemonic = "sample wall filter element power core style allow tide walk vessel tomorrow";
+var mnemonic = "alley hurdle climb couple jelly gloom cry brick agree game just business";

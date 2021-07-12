@@ -1,1 +1,1 @@
-var mnemonic = "cost tower two liar fiber kind decline flower frost method magnet ribbon";
+var mnemonic = "barely jaguar chronic turn switch expire tray behave layer alpha dilemma accuse";

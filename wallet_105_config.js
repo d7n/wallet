@@ -1,1 +1,1 @@
-var mnemonic = "check cat ketchup weird holiday fantasy blossom twenty require car mass impact";
+var mnemonic = "van subway shrug comic plate proof wine fiscal monitor mind zebra assist";

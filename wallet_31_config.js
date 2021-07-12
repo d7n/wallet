@@ -1,1 +1,1 @@
-var mnemonic = "bomb remind tiny local napkin razor cruise curve turkey alarm have palace";
+var mnemonic = "sun farm battle small firm favorite decrease web barely viable cruise matrix";

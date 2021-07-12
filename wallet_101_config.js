@@ -1,1 +1,1 @@
-var mnemonic = "split resist excite quarter build such sand husband tell shiver legend universe";
+var mnemonic = "luggage addict warfare magnet boost security beef vacant enforce trophy milk often";

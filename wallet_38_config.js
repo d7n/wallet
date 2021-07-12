@@ -1,1 +1,1 @@
-var mnemonic = "apology under owner camp stool shadow grant skill fruit easily useful blade";
+var mnemonic = "slam pottery capital few hockey regular box review outer target vintage bus";

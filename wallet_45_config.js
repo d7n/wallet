@@ -1,1 +1,1 @@
-var mnemonic = "despair senior glove blue brush stereo impact purchase abuse hammer lazy execute";
+var mnemonic = "moment domain refuse verb canyon gravity luggage vague stay basic bean vacant";

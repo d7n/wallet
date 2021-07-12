@@ -1,1 +1,1 @@
-var mnemonic = "race attract describe begin erosion ahead enter broom symptom staff apple donkey";
+var mnemonic = "obey increase clever person wine bonus grace demand tuition card secret cruise";

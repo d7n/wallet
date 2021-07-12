@@ -1,1 +1,1 @@
-var mnemonic = "peanut embark exchange bean buffalo toe item settle broccoli pear taste vivid";
+var mnemonic = "vacuum depth eyebrow right beauty hotel bottom brass cigar find trumpet cactus";

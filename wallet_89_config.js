@@ -1,1 +1,1 @@
-var mnemonic = "use rebel make people wrestle brain age cake wagon spell start side";
+var mnemonic = "cousin amount height deal near enemy pond pigeon note dolphin chaos near";

@@ -1,1 +1,1 @@
-var mnemonic = "powder note chapter stock reunion dance hire quality peanut waste inflict seven";
+var mnemonic = "shine prison hurdle delay play fat nothing opinion all wonder clean turn";

@@ -1,1 +1,1 @@
-var mnemonic = "follow doctor warfare organ bottom grape great congress faculty betray elephant right";
+var mnemonic = "pen stuff minute bike pitch normal seek output add shallow lucky victory";

@@ -1,1 +1,1 @@
-var mnemonic = "afford width frog cabin rough wave three plunge laundry upper child west";
+var mnemonic = "hungry habit blouse culture train captain orbit dumb innocent card cake wise";

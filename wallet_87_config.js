@@ -1,1 +1,1 @@
-var mnemonic = "light elephant winner carbon account attend smile suit desk canal nothing mimic";
+var mnemonic = "draw lake strategy pulp book depth nation portion journey cannon summer used";

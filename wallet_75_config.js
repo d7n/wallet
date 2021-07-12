@@ -1,1 +1,1 @@
-var mnemonic = "valid brief job wisdom adapt trial increase seek unit steak visa ski";
+var mnemonic = "tenant cancel demise worth danger agent tree chapter flip dawn rate talk";

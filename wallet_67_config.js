@@ -1,1 +1,1 @@
-var mnemonic = "friend grief upon gasp fine spawn provide actress evil net circle oil";
+var mnemonic = "april end grocery inherit glass skill battle sustain judge deputy wheel source";

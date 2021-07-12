@@ -1,1 +1,1 @@
-var mnemonic = "vital cost venture report measure bonus document palm usual multiply history relax";
+var mnemonic = "embrace emotion sketch pass core ability embark rally slice sea milk panic";

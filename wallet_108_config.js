@@ -1,1 +1,1 @@
-var mnemonic = "honey note birth supply private voyage now expand right laptop swear control";
+var mnemonic = "jungle about hand between hundred tired economy follow mixed relief field dilemma";

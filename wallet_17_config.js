@@ -1,1 +1,1 @@
-var mnemonic = "peasant build age joy celery canyon limb visual crane book feed execute";
+var mnemonic = "cruise artwork rare sponsor broken file earn pitch wood ozone bonus concert";

@@ -1,1 +1,1 @@
-var mnemonic = "family across razor insane orchard remember rally please dad three group domain";
+var mnemonic = "night select text clutch abstract food solid jacket someone ethics year apple";

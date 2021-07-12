@@ -1,1 +1,1 @@
-var mnemonic = "purse broken whale bridge faith wedding seminar abstract best round cable clean";
+var mnemonic = "proof canvas struggle excess window captain car fever noodle gadget animal insane";

@@ -1,1 +1,1 @@
-var mnemonic = "away target shoot deer client seat gospel lizard power credit absent benefit";
+var mnemonic = "engine fruit result wheat mandate agent talent close health lobster adjust night";

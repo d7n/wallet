@@ -1,1 +1,1 @@
-var mnemonic = "sustain poet medal comfort knife physical fence leisure friend sail walk amused";
+var mnemonic = "robust minute dice cherry feel morning crazy walnut soda orchard assume inmate";

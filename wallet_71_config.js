@@ -1,1 +1,1 @@
-var mnemonic = "usage great combine equal injury vicious warm custom have harvest furnace helmet";
+var mnemonic = "elite yard wool brain grace subway tourist topple turtle want culture belt";

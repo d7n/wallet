@@ -1,1 +1,1 @@
-var mnemonic = "pear earth ride grass story target senior million secret private rotate noodle";
+var mnemonic = "symptom tissue unlock hand enable auto soldier job exact since improve sight";

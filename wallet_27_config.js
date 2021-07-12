@@ -1,1 +1,1 @@
-var mnemonic = "library echo egg glimpse panther lonely novel wing move sick narrow author";
+var mnemonic = "lift repair paddle tenant demise inside twin scatter hammer exchange begin tilt";

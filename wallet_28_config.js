@@ -1,1 +1,1 @@
-var mnemonic = "cigar guilt hollow evil three oblige giraffe ice curious health valid amazing";
+var mnemonic = "edit hub dirt kid issue crime festival predict bronze strike dress virtual";

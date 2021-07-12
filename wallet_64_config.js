@@ -1,1 +1,1 @@
-var mnemonic = "vacuum caught sibling tone address miss bar hover ramp crumble wise fragile";
+var mnemonic = "pool clerk comic gown visit inflict pride page much maximum mother pipe";

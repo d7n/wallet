@@ -1,1 +1,1 @@
-var mnemonic = "seminar jar term crucial taste liberty tip warm whisper device dawn sword";
+var mnemonic = "country allow error bring reunion clean actual benefit burden hazard hood tide";

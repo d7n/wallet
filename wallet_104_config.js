@@ -1,1 +1,1 @@
-var mnemonic = "border worry fortune pottery sadness dry usage possible scout bachelor maple arrow";
+var mnemonic = "prepare mammal enact enforce dawn ball laptop else turtle nothing apple spider";

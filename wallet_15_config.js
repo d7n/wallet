@@ -1,1 +1,1 @@
-var mnemonic = "onion sound fancy ill squirrel invite duck focus bone sort social choose";
+var mnemonic = "soft park surface will obvious scorpion list vibrant excuse weapon crush play";

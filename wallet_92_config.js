@@ -1,1 +1,1 @@
-var mnemonic = "quit ring knock require crater drastic odor snake banana grid claim cave";
+var mnemonic = "lock ghost industry glance sort view ripple model argue wheat equal river";

@@ -1,1 +1,1 @@
-var mnemonic = "close raise congress dismiss oppose slow current mansion wash offer island tree";
+var mnemonic = "casino dilemma ahead depth helmet drum sting wheat inch tired banner science";

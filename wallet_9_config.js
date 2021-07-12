@@ -1,1 +1,1 @@
-var mnemonic = "wine traffic certain genius over screen claim stem fee alone pull sail";
+var mnemonic = "stone dash expand liberty choose sheriff fame uphold mistake garden seek fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt sound fit length gym clap carbon hope gospel tissue present today";
+var mnemonic = "chef relief hollow vague matrix yellow horse universe library ivory now hour";

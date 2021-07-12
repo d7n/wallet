@@ -1,1 +1,1 @@
-var mnemonic = "select upgrade knock regular reform electric crazy shaft oyster moral old harbor";
+var mnemonic = "holiday purity avocado narrow sand attend able boost title short rude spy";

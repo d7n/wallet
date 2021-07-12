@@ -1,1 +1,1 @@
-var mnemonic = "stumble trumpet kitten strong identify session silk hello found credit floor sibling";
+var mnemonic = "river garbage auction senior afford owner any loyal health wolf erode margin";

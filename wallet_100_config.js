@@ -1,1 +1,1 @@
-var mnemonic = "shuffle awkward around relax thank gallery giraffe mechanic real exile unknown angry";
+var mnemonic = "cereal drama tip settle letter exotic advance panther large fluid group census";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant moon breeze finger giant girl enact sport clock trust broccoli bean";
+var mnemonic = "broccoli luggage host resemble country dinner address wedding valley release live armor";

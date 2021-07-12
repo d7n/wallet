@@ -1,1 +1,1 @@
-var mnemonic = "stock acquire marriage grunt zero ridge clog average ranch riot punch cable";
+var mnemonic = "nuclear unfold gold olympic chimney idle stay zone decrease plunge smile duck";

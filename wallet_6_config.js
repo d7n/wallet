@@ -1,1 +1,1 @@
-var mnemonic = "deputy blood define art must engine lawn aerobic village rough liquid mom";
+var mnemonic = "toddler excess egg congress view double ten melt detect forward survey fork";

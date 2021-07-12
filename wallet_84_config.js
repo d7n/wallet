@@ -1,1 +1,1 @@
-var mnemonic = "search fresh daughter obey lumber cattle stuff begin matter direct major final";
+var mnemonic = "chair exit dinner trophy people file pond pledge dove scale apart produce";

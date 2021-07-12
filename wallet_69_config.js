@@ -1,1 +1,1 @@
-var mnemonic = "pool thing pepper smile float dose clown ozone sphere catch shallow render";
+var mnemonic = "outdoor produce robot someone child asthma wear funny turtle dish install law";

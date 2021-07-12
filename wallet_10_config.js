@@ -1,1 +1,1 @@
-var mnemonic = "month glimpse divert avocado cherry other tribe drastic film patient moral cross";
+var mnemonic = "silent confirm home trade scrap disease mirror city type door atom nominee";

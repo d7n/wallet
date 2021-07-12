@@ -1,1 +1,1 @@
-var mnemonic = "figure finish tobacco rough into accident manage toss jealous vanish forget ridge";
+var mnemonic = "seminar rule demand degree cloud rich gloom jar dish narrow final arrow";

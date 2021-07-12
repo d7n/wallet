@@ -1,1 +1,1 @@
-var mnemonic = "oyster absent tell board grape ask tip narrow move bench frequent own";
+var mnemonic = "clock blast fresh drink boat cliff all chat hunt absent extra eagle";

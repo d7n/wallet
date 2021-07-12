@@ -1,1 +1,1 @@
-var mnemonic = "random arm awesome goat village grief check define earth best ring purity";
+var mnemonic = "whisper general thunder finish stairs very menu welcome horror smart airport become";

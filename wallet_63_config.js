@@ -1,1 +1,1 @@
-var mnemonic = "mandate tank used noise dragon way reveal crystal leaf random piano beach";
+var mnemonic = "urban fit state senior license wire flock lady south rival pony differ";

@@ -1,1 +1,1 @@
-var mnemonic = "off state social gift open doctor cause remove benefit wage garage infant";
+var mnemonic = "recycle crime happy athlete aware enemy profit suggest typical diamond pulse deliver";

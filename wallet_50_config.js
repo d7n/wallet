@@ -1,1 +1,1 @@
-var mnemonic = "train sadness above frown victory thank more climb digital hood local worry";
+var mnemonic = "puppy width cream reopen amount already audit orbit certain pave flock teach";

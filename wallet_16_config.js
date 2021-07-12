@@ -1,1 +1,1 @@
-var mnemonic = "pigeon garden field genius picture notable exile anchor degree poet make oblige";
+var mnemonic = "note output yard capable donkey asset admit slice scan helmet response laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "protect into oppose violin mass organ sunset reveal danger shed trumpet cram";
+var mnemonic = "priority possible certain peanut divorce south mobile tackle hood such spin fault";

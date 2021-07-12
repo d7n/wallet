@@ -1,1 +1,1 @@
-var mnemonic = "excite angle noodle muscle noodle crunch garbage erosion memory feed harbor crash";
+var mnemonic = "lake gather drill mention bus chaos benefit assist screen pilot true wood";

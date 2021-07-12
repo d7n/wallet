@@ -1,1 +1,1 @@
-var mnemonic = "marble reopen gun join reduce puppy indoor urge second figure uncle belt";
+var mnemonic = "song life pulp inflict museum cross topic prevent floor since wool observe";

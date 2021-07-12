@@ -1,1 +1,1 @@
-var mnemonic = "zone song town legend over arrange siren aspect devote spider creek flush";
+var mnemonic = "fruit school legal despair educate true orbit cause road maid trumpet absorb";

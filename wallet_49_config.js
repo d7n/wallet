@@ -1,1 +1,1 @@
-var mnemonic = "scan explain identify frost group rough pole lizard sand drastic outdoor cause";
+var mnemonic = "wrestle allow hand intact grab plastic task flock unusual nose panel small";

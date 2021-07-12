@@ -1,1 +1,1 @@
-var mnemonic = "tail subject this tool pen super raven local erupt service enter forget";
+var mnemonic = "cruise choose neglect cargo impact ski input basket laptop already shuffle august";

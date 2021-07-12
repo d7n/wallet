@@ -1,1 +1,1 @@
-var mnemonic = "scorpion home act wheat wish denial beef comic arrange birth hello mosquito";
+var mnemonic = "tattoo gaze arrest dumb setup either pause vintage round caution flat ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal rubber debris rifle census cliff hockey tone surface float surround label";
+var mnemonic = "render thing powder drama pulse mandate chapter direct stereo define typical ramp";

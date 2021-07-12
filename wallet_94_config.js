@@ -1,1 +1,1 @@
-var mnemonic = "apology monitor fiscal half door lottery amazing insane write virtual obey enable";
+var mnemonic = "story roof absorb steak blush sniff avocado sick few seed deputy ensure";

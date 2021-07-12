@@ -1,1 +1,1 @@
-var mnemonic = "job flock swear unfair vanish carry sibling memory draw solar hat impact";
+var mnemonic = "diagram volume seek front tiny portion false lake stamp immense cherry rebel";

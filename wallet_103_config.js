@@ -1,1 +1,1 @@
-var mnemonic = "race lawsuit jaguar exclude need marine barely fiscal cause average suit ice";
+var mnemonic = "nasty company flag portion ranch magic excuse chair razor work wasp pledge";

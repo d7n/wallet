@@ -1,1 +1,1 @@
-var mnemonic = "nest spike dragon little adapt hello fence basic sad spell tag baby";
+var mnemonic = "usual ginger talent furnace praise north tank drink theory box cactus hospital";
