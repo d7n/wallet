@@ -1,1 +1,1 @@
-var mnemonic = "key razor normal limb load elevator table tiny flight outer grit grief";
+var mnemonic = "result auto crystal alert cheese act index coin blast rail honey arch";

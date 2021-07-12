@@ -1,1 +1,1 @@
-var mnemonic = "confirm genre sausage wolf album cancel harvest rural claw hobby shine giant";
+var mnemonic = "mirror ski bless sport noise bulk slice wrap figure joy sausage juice";

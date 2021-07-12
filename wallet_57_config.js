@@ -1,1 +1,1 @@
-var mnemonic = "lobster cargo divorce divide flock harvest blood vital twice kite latin myself";
+var mnemonic = "innocent shift hawk jaguar wedding furnace benefit rice baby luxury dance buffalo";

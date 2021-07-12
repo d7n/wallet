@@ -1,1 +1,1 @@
-var mnemonic = "maple silent garage cruise misery artist report once teach mother wait burst";
+var mnemonic = "session annual say van online menu course ghost awkward afraid stove upper";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle clay shield try cry teach rain cover pill arch bring bag";
+var mnemonic = "husband swallow elbow aim divorce comic unique love crane bike high expose";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble inflict parade true upgrade glance divide speak exclude you wage title";
+var mnemonic = "siren seat drastic water section flip shuffle brass edit earn reason woman";

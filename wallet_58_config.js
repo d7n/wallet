@@ -1,1 +1,1 @@
-var mnemonic = "label shed spatial super slice month champion common margin urban machine craft";
+var mnemonic = "slice enlist stuff plastic manage boil smoke will luggage method ribbon lecture";

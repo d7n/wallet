@@ -1,1 +1,1 @@
-var mnemonic = "border attract essay silent panda blossom bar basic owner infant home sweet";
+var mnemonic = "leave mobile rotate print wall skill good rescue nation play educate liberty";

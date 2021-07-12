@@ -1,1 +1,1 @@
-var mnemonic = "coral universe cave canoe easily wave space cart capable brand then search";
+var mnemonic = "negative park state inside stable only rival daring clutch essay action female";

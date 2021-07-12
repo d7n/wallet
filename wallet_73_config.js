@@ -1,1 +1,1 @@
-var mnemonic = "satisfy awful ostrich letter pilot suspect person maple require stereo twelve harbor";
+var mnemonic = "scheme lobster case embrace picnic subject little clinic blossom field toy route";

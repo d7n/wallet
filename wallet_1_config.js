@@ -1,1 +1,1 @@
-var mnemonic = "right spring alley tuition chronic echo cactus truly cinnamon chest help notable";
+var mnemonic = "still bamboo session tonight tide neck shock tank search inflict human border";

@@ -1,1 +1,1 @@
-var mnemonic = "slender inside glimpse rebel dragon allow foil review liar embark mercy regret";
+var mnemonic = "box grocery pass behind battle enforce park poem increase label story hockey";

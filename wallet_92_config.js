@@ -1,1 +1,1 @@
-var mnemonic = "february leave supply coral salt main autumn quantum offer you gentle owner";
+var mnemonic = "want pledge recycle session awful famous debris permit advice idle evil ready";

@@ -1,1 +1,1 @@
-var mnemonic = "purity bracket must receive wheel round right home drill speed breeze wing";
+var mnemonic = "soft truly call soda syrup tonight tornado spice slide flip gold will";

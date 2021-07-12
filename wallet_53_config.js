@@ -1,1 +1,1 @@
-var mnemonic = "employ fold hard spike that force movie proof voyage evolve oak head";
+var mnemonic = "because entry gold govern material tip infant domain pupil comfort blur boy";

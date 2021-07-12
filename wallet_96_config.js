@@ -1,1 +1,1 @@
-var mnemonic = "room mercy absent amused unhappy upper ozone draft abstract pair chicken uphold";
+var mnemonic = "web eagle topic salt want slide flush merit resist announce license elephant";

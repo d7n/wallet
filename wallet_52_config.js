@@ -1,1 +1,1 @@
-var mnemonic = "angle scale recall canoe slow dust notice asset direct fragile edge myth";
+var mnemonic = "south shaft pill hole rabbit poet laptop zone track life lift trim";

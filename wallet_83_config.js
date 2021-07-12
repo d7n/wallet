@@ -1,1 +1,1 @@
-var mnemonic = "hire load frame sad length resist pioneer tomato dawn oppose door portion";
+var mnemonic = "apology blast arm bronze guilt dial screen above reduce ozone base venue";

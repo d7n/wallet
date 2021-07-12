@@ -1,1 +1,1 @@
-var mnemonic = "like proof love observe apart gorilla vehicle math vehicle usage net domain";
+var mnemonic = "deposit wave mosquito wide category hello symptom leader pluck divorce cigar window";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom target balcony glory six cargo police winter strategy lamp light world";
+var mnemonic = "humor legend fatigue transfer pony remove relax sponsor echo vocal rug fly";

@@ -1,1 +1,1 @@
-var mnemonic = "hour design puzzle nominee glue cost portion shine cream indicate alter mother";
+var mnemonic = "glare pretty apple width enable arrange noise sell tell swallow since album";

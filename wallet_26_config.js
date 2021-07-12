@@ -1,1 +1,1 @@
-var mnemonic = "deliver assume asset cricket reason employ peace narrow this need term leisure";
+var mnemonic = "guilt grief install rotate machine carpet blast water bid resist brass seek";

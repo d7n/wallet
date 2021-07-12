@@ -1,1 +1,1 @@
-var mnemonic = "copper aunt process shadow error hint fragile puppy remove wrong clap great";
+var mnemonic = "excess claim pipe damp park correct grit client athlete step three harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "adult tired maple before purchase mirror young cousin inherit century senior obtain";
+var mnemonic = "cash bike weather hold rough write ribbon lizard canal promote exile bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "head grid prefer street flip double water kit bachelor donkey major belt";
+var mnemonic = "estate pole flee power angry blame flight legal damage sweet travel rare";

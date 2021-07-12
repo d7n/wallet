@@ -1,1 +1,1 @@
-var mnemonic = "verify rotate satisfy hazard siren humble fossil time fly sketch because mixed";
+var mnemonic = "deposit there issue seven bachelor lend oyster cart drastic liberty thrive divide";

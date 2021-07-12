@@ -1,1 +1,1 @@
-var mnemonic = "keep lumber syrup frost pet genius reason gadget nerve neither alarm will";
+var mnemonic = "wolf pilot coach height barely example tumble sun hotel pistol syrup differ";

@@ -1,1 +1,1 @@
-var mnemonic = "never jar sausage acoustic okay exercise engine middle pistol lucky monkey urge";
+var mnemonic = "rigid age globe student drill slight attack pudding cake volume belt alter";

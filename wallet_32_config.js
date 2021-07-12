@@ -1,1 +1,1 @@
-var mnemonic = "excuse pizza acoustic vital inspire hedgehog impact cheese april type cream nominee";
+var mnemonic = "brand security infant inner humor pulse update service demand goat capable tribe";

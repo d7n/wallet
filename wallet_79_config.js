@@ -1,1 +1,1 @@
-var mnemonic = "perfect bench wrap throw obey doctor isolate laugh rose evolve someone point";
+var mnemonic = "piece reduce surface clerk song move midnight price forward glide rain penalty";

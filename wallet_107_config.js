@@ -1,1 +1,1 @@
-var mnemonic = "tube bachelor pretty bean zebra bench twist coil joy engage civil minor";
+var mnemonic = "tank fiber vacant relax evolve rent rapid student enemy motor table clown";

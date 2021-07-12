@@ -1,1 +1,1 @@
-var mnemonic = "smoke stadium menu galaxy hill hat carpet another tumble creek hat puzzle";
+var mnemonic = "flat layer caught real enough behind type color work wood slow blouse";

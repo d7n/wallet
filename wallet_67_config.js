@@ -1,1 +1,1 @@
-var mnemonic = "carry junk fatal chef sign prefer noodle crew ahead country buffalo asthma";
+var mnemonic = "hunt raw ice smooth meat share divert drift switch author very robot";

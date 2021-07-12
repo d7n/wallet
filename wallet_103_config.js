@@ -1,1 +1,1 @@
-var mnemonic = "arrow point hotel universe pull cost sudden recall symbol figure kiwi brave";
+var mnemonic = "struggle ride holiday rare depend maple giggle budget spawn dismiss soap harbor";

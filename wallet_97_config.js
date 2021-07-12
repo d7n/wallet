@@ -1,1 +1,1 @@
-var mnemonic = "antenna extend seat roof earth tower goat shrug menu number repair dream";
+var mnemonic = "demand bachelor saddle chalk trouble short outer soccer because woman amount fun";

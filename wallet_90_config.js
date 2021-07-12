@@ -1,1 +1,1 @@
-var mnemonic = "tiger hub fine cream neither regular replace cricket cover wage rate human";
+var mnemonic = "fog snow detect enemy ladder amount real enact bike peanut remove crew";

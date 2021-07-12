@@ -1,1 +1,1 @@
-var mnemonic = "genuine glare waste light east muscle device strategy setup good little dove";
+var mnemonic = "lecture wrist hedgehog found exhaust oven rescue museum armor arm foot wheel";

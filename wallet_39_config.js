@@ -1,1 +1,1 @@
-var mnemonic = "document entry antique curious neglect upper clip food penalty year shallow reason";
+var mnemonic = "best lock gossip benefit journey shift bleak super demand amount expect barely";

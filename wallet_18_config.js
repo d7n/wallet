@@ -1,1 +1,1 @@
-var mnemonic = "rapid genre thank laundry affair cabbage release hurdle clay man fringe immune";
+var mnemonic = "soccer canal brand crew beef impose swallow unable fatal like column ghost";

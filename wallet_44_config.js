@@ -1,1 +1,1 @@
-var mnemonic = "curve burst avoid ahead mixture fruit return worth order upon civil liquid";
+var mnemonic = "real that body renew outside mind raccoon federal recipe quarter version body";

@@ -1,1 +1,1 @@
-var mnemonic = "dress identify sad stock thrive ordinary video legal increase idea viable lock";
+var mnemonic = "indoor theory battle steak dance bag surprise wonder mask symbol october planet";

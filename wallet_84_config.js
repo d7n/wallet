@@ -1,1 +1,1 @@
-var mnemonic = "room side asthma example license wing sentence lamp gym hobby youth plastic";
+var mnemonic = "target tag media chuckle air lazy police across post enforce critic stool";

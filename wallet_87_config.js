@@ -1,1 +1,1 @@
-var mnemonic = "tenant rebuild setup fuel rate pipe butter omit identify reflect device path";
+var mnemonic = "dignity broom giggle ice melody leopard deal until flash area head style";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy culture settle bonus black control return circle border rather bundle edit";
+var mnemonic = "crew mercy robot blanket impact wage police divorce mushroom useful leisure tray";

@@ -1,1 +1,1 @@
-var mnemonic = "old sketch rent dizzy crater wealth task final giggle title globe gun";
+var mnemonic = "steel kid curve walk diary stage wheat grief refuse cloud dove pupil";

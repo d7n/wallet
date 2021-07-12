@@ -1,1 +1,1 @@
-var mnemonic = "movie always fee cycle blue hundred forum sunny junior calm steel toward";
+var mnemonic = "beef melt olympic tilt six decade senior arrive public tornado genuine pull";

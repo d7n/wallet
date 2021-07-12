@@ -1,1 +1,1 @@
-var mnemonic = "present machine pool easy object detect body news soap emerge eagle unfair";
+var mnemonic = "raise theme fame left enrich habit aware defy young knife hamster uncle";

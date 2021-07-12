@@ -1,1 +1,1 @@
-var mnemonic = "heavy smart step bullet achieve decline topple glance push own around tube";
+var mnemonic = "settle donate smart wealth food wish shoot cloth curve click mule ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "enact defense ring scare rent razor indoor delay perfect tomorrow have catalog";
+var mnemonic = "gun sadness wonder diamond silent reason rib vicious century elephant width drop";

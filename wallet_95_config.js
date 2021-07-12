@@ -1,1 +1,1 @@
-var mnemonic = "title impose action cousin brisk solution glow name cycle stamp ancient wheel";
+var mnemonic = "mercy thought coffee tumble alter fortune chimney beyond toy lake next elder";

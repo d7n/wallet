@@ -1,1 +1,1 @@
-var mnemonic = "tackle type inflict water crazy update album awful cave solution woman dish";
+var mnemonic = "air antique eight over flame inhale garbage appear crawl either jeans exhaust";

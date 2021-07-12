@@ -1,1 +1,1 @@
-var mnemonic = "explain melody like scissors buffalo decade inmate ask effort gate they swim";
+var mnemonic = "dignity design day series lens box later library chef path craft unveil";

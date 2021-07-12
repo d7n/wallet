@@ -1,1 +1,1 @@
-var mnemonic = "fold private diet ship illegal aware lens advance funny catalog arch ignore";
+var mnemonic = "cluster dragon shoot okay skirt cube ramp pass feed bitter digital proof";

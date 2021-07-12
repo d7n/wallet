@@ -1,1 +1,1 @@
-var mnemonic = "distance will jaguar bless view chronic depend drink dose owner pact you";
+var mnemonic = "weasel raise caution paper orphan involve crucial symbol drill dial innocent below";

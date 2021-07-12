@@ -1,1 +1,1 @@
-var mnemonic = "rich hood boat useless remember spread mad actor season junk pass rabbit";
+var mnemonic = "polar trim cycle crucial female attitude source fitness today hotel say solid";

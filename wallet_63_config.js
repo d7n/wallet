@@ -1,1 +1,1 @@
-var mnemonic = "kiss brass engage husband title oppose connect update scissors doctor will provide";
+var mnemonic = "mixture blanket eyebrow already odor machine craft detail venue proud maze into";

@@ -1,1 +1,1 @@
-var mnemonic = "immune dynamic life obtain rotate nephew slogan scrub grid real breeze panic";
+var mnemonic = "undo walnut control flavor apart category require axis ring erupt ensure omit";

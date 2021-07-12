@@ -1,1 +1,1 @@
-var mnemonic = "later crowd castle stock mansion license fetch powder tennis pilot relax slender";
+var mnemonic = "devote parade fly select dry online lake method black shove clean trigger";

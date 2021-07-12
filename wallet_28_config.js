@@ -1,1 +1,1 @@
-var mnemonic = "result era replace worth awake expire tornado man galaxy ability table scatter";
+var mnemonic = "bus tube twin wonder judge poem diary utility sport soft add situate";

@@ -1,1 +1,1 @@
-var mnemonic = "million whale sniff absorb clock enlist develop glory forest vast round special";
+var mnemonic = "reveal such brisk rifle shock peanut output cereal remind fury girl grant";

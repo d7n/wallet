@@ -1,1 +1,1 @@
-var mnemonic = "huge reunion scrub senior potato spoon fault obscure steak box wash senior";
+var mnemonic = "market sweet layer clutch sister diet loud tooth industry you protect enroll";

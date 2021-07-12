@@ -1,1 +1,1 @@
-var mnemonic = "pizza know innocent badge snake artist work sentence keen range orient razor";
+var mnemonic = "bike option abandon blind topic atom faith coil emotion any update guess";

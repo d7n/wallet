@@ -1,1 +1,1 @@
-var mnemonic = "solid hour stumble scare knock tackle soul wash occur veteran produce sadness";
+var mnemonic = "seek side strike middle trophy mind mix area zebra invest struggle solar";

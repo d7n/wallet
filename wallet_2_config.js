@@ -1,1 +1,1 @@
-var mnemonic = "wool kitten early express noodle hill bomb lawn crystal shuffle switch knee";
+var mnemonic = "water state cover call gain client much survey fashion step local rival";

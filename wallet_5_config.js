@@ -1,1 +1,1 @@
-var mnemonic = "remind amused elegant letter agree grab exchange filter book test exhibit amount";
+var mnemonic = "caught hobby creek finish supreme truly mirror boy charge glory silver target";

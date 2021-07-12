@@ -1,1 +1,1 @@
-var mnemonic = "mass acquire asset horse toast side require dream bleak kick tongue sadness";
+var mnemonic = "refuse slender away they north zoo raw knife version smoke laundry humble";

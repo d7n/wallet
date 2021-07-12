@@ -1,1 +1,1 @@
-var mnemonic = "street public more clump wrestle appear foster stuff fun muscle tell sand";
+var mnemonic = "spread praise casual twist evolve leisure february cannon kit lift ceiling era";

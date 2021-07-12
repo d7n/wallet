@@ -1,1 +1,1 @@
-var mnemonic = "false cluster sentence top kiwi speak during lumber state pear certain chest";
+var mnemonic = "alone subway nice liquid chimney practice fat link pottery smart pigeon flag";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi bargain paper draft retreat ticket dentist wrestle topple series hour duty";
+var mnemonic = "ceiling alone piece wash artefact media dilemma enlist crawl strike best winter";

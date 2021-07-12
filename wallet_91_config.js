@@ -1,1 +1,1 @@
-var mnemonic = "side obey join diagram fruit arch globe blush finish amount animal you";
+var mnemonic = "hurt retreat swing blame inflict burst ball vital ostrich champion better burden";

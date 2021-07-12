@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur grunt scheme canvas obtain explain frost trade gym bird planet ready";
+var mnemonic = "unit glance renew net woman census hover blast exercise praise sea base";

@@ -1,1 +1,1 @@
-var mnemonic = "jar roast column repair join slim wool nice upon rug farm power";
+var mnemonic = "eye aerobic wasp crew mushroom any pizza chunk basket eternal front brief";

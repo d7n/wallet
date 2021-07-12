@@ -1,1 +1,1 @@
-var mnemonic = "service summer imitate inhale eight ancient aunt bounce snap grass zone endorse";
+var mnemonic = "category tomato floor occur corn critic naive orchard oppose sword fever merit";

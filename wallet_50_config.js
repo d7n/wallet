@@ -1,1 +1,1 @@
-var mnemonic = "provide sport liar place sell snack useless lens visa ask work cradle";
+var mnemonic = "page come juice exist waste volcano dolphin crush coast crop large maple";

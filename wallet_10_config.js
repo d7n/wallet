@@ -1,1 +1,1 @@
-var mnemonic = "noble marine coral slush fossil master rose stove return meat peasant meat";
+var mnemonic = "robust divert demise course age paddle mad menu divert cluster industry age";

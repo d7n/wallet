@@ -1,1 +1,1 @@
-var mnemonic = "sick tape disease square become trumpet humor motion silver veteran fire slab";
+var mnemonic = "staff evoke exhaust salmon radio pioneer weekend elegant around aerobic ocean west";

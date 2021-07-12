@@ -1,1 +1,1 @@
-var mnemonic = "palace beef unable meat miracle fox stadium snap vicious solution enact end";
+var mnemonic = "neck sentence oxygen pelican wall town drive among conduct bind deliver rely";

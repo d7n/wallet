@@ -1,1 +1,1 @@
-var mnemonic = "dose attitude width hotel crush guard citizen next vocal type certain ready";
+var mnemonic = "modify adjust spin pizza reform text tired learn grace void tenant stock";

@@ -1,1 +1,1 @@
-var mnemonic = "atom boss liberty grunt little notice marine common powder begin snow reform";
+var mnemonic = "chalk vintage sleep mix tobacco around shine strategy jeans laptop dose mom";

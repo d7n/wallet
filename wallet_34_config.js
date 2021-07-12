@@ -1,1 +1,1 @@
-var mnemonic = "brass estate walnut hazard cabbage tragic design habit deer enlist ghost early";
+var mnemonic = "jazz edit lawsuit raise entire remain coffee unhappy enter erupt monkey soccer";

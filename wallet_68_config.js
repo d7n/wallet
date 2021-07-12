@@ -1,1 +1,1 @@
-var mnemonic = "trophy suggest pave shoot term copper sausage disease write aerobic page average";
+var mnemonic = "derive vendor spy calm knife craft vault digital half bread spike deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "skull jar chuckle strong steel trophy rubber pole tortoise word auction about";
+var mnemonic = "offer youth host jungle pave script dose music town gain primary happy";

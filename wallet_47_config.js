@@ -1,1 +1,1 @@
-var mnemonic = "brick mobile fancy mammal beef spray bacon urge pull goat van famous";
+var mnemonic = "next season erupt trophy salmon relax game peasant crime entry attract lunch";

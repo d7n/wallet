@@ -1,1 +1,1 @@
-var mnemonic = "detect enlist velvet theory embrace weird report churn ten mountain mosquito spider";
+var mnemonic = "edit drop situate lawsuit rough grid toy spawn goose wheel affair lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid gown used inside flight idea rate improve hand sound harvest ugly";
+var mnemonic = "olympic wall clutch quiz differ despair seminar divorce treat language hurdle bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease apple gym audit cricket coffee spoon design spawn short breeze man";
+var mnemonic = "stamp swamp undo depart stuff carpet field april shoulder govern manual wing";

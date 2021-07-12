@@ -1,1 +1,1 @@
-var mnemonic = "inflict grief inspire neither appear whisper vanish scene arrange unusual merit notable";
+var mnemonic = "memory attract industry win monkey nature street alley cruel conduct office help";

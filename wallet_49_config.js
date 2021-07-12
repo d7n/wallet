@@ -1,1 +1,1 @@
-var mnemonic = "ecology crawl flower grid embark genuine nominee frost link chef impose toy";
+var mnemonic = "chapter maximum napkin enlist fiction butter mirror list swap height frequent pretty";

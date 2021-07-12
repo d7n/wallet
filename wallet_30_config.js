@@ -1,1 +1,1 @@
-var mnemonic = "calm burst mass girl wrestle story wish pulse amount join quantum move";
+var mnemonic = "fat toilet weather zoo just clever symptom abandon sample rural giant stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal hazard essay volcano federal occur garlic movie father ranch grow empty";
+var mnemonic = "elephant faculty skate renew alien victory decorate trial sort diary point visa";

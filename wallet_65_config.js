@@ -1,1 +1,1 @@
-var mnemonic = "absurd vivid panic again sun daughter security acquire burden include cotton awful";
+var mnemonic = "civil trophy base lumber kite mimic more hockey slow tragic rocket wear";

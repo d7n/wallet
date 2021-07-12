@@ -1,1 +1,1 @@
-var mnemonic = "sand ostrich pear predict bid exit catch door salt ranch physical connect";
+var mnemonic = "round speed wish aspect crystal thumb physical replace fatigue divide essay mix";

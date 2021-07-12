@@ -1,1 +1,1 @@
-var mnemonic = "almost sense cargo dose urban wait sing brick obey clip drip crouch";
+var mnemonic = "erosion news genius shoe undo trend essay pitch defense lunch palm seed";
