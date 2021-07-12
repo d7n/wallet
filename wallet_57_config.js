@@ -1,1 +1,1 @@
-var mnemonic = "pigeon cotton west merit exhibit tortoise clog sand share derive attack impact";
+var mnemonic = "blouse effort crucial again public apology snap fruit midnight attend clog enlist";

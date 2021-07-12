@@ -1,1 +1,1 @@
-var mnemonic = "abstract news vapor curious piano palm degree maple surprise action fringe zone";
+var mnemonic = "wood exotic leave tail dust range ghost embody input nut retire drum";

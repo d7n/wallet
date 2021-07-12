@@ -1,1 +1,1 @@
-var mnemonic = "bike wealth mansion hamster smart receive giggle cup resist pledge wire lawn";
+var mnemonic = "cream finger reunion rent extend level nothing raise obvious speed theory design";

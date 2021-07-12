@@ -1,1 +1,1 @@
-var mnemonic = "outdoor kite across flag travel wolf wagon acquire basket car evolve bid";
+var mnemonic = "market exotic over lottery width enter ring charge public rebel city sand";

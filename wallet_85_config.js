@@ -1,1 +1,1 @@
-var mnemonic = "slam remain impact deal biology analyst they control image toy please boy";
+var mnemonic = "snow cube crash barrel ivory shield safe coconut clerk worry zebra perfect";

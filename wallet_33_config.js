@@ -1,1 +1,1 @@
-var mnemonic = "desk morning plate frequent drastic large solar sword enroll ring veteran throw";
+var mnemonic = "poet throw girl marriage oven critic school wage cash powder sting cable";

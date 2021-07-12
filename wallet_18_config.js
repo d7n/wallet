@@ -1,1 +1,1 @@
-var mnemonic = "room toast region range canvas method harbor vast opera muscle awkward horse";
+var mnemonic = "rate pumpkin soft online spoon bunker smoke climb wear fish churn panther";

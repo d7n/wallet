@@ -1,1 +1,1 @@
-var mnemonic = "napkin card swim tray chaos chapter spirit derive obey solid funny stumble";
+var mnemonic = "help recipe soda trash slot stadium balcony rival regret shift reflect group";

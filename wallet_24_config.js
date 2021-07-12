@@ -1,1 +1,1 @@
-var mnemonic = "bunker barely oval tobacco ramp stem ordinary damage desk organ luxury inherit";
+var mnemonic = "gap stay express hunt give mixed oppose unit leopard abstract scrap jump";

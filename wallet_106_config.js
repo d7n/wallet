@@ -1,1 +1,1 @@
-var mnemonic = "mountain bounce entry reduce culture pond nation glory favorite that year wife";
+var mnemonic = "since poverty craft tunnel family toilet soccer almost profit road simple range";

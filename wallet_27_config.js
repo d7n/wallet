@@ -1,1 +1,1 @@
-var mnemonic = "object wash spell lizard vital ranch border movie arrive regret cloud coyote";
+var mnemonic = "wear great future word salmon frozen pole express offer knife tray soon";

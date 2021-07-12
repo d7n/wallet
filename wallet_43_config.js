@@ -1,1 +1,1 @@
-var mnemonic = "mimic betray hurry book again loan speak symbol lock burden father rain";
+var mnemonic = "mountain gloom eagle only box stuff range arctic hold hip apology depend";

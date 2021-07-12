@@ -1,1 +1,1 @@
-var mnemonic = "define hood potato unit cannon garbage wonder welcome volume antenna ribbon range";
+var mnemonic = "dragon youth hedgehog permit speed dial sheriff tank palm network ensure useless";

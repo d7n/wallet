@@ -1,1 +1,1 @@
-var mnemonic = "weasel canoe involve talent swift dumb since hotel camera image magic dawn";
+var mnemonic = "aspect spoil affair athlete trade insect shift food chest easy cinnamon right";

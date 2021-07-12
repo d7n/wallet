@@ -1,1 +1,1 @@
-var mnemonic = "control pyramid music enjoy wrist glare toe drill cabbage scatter age wrestle";
+var mnemonic = "chief stove major right lounge garbage scrub shock arrive thumb tragic fence";

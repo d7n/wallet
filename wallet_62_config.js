@@ -1,1 +1,1 @@
-var mnemonic = "nut chronic endorse laundry soul viable spy defense ghost tape tower glory";
+var mnemonic = "copy enjoy wheel brand marriage script guard practice quote chuckle cube hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "clever turtle west quit awesome harsh now fitness shoe noise brush food";
+var mnemonic = "melody math mind amused right minor salad meadow firm vacant age often";

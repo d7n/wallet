@@ -1,1 +1,1 @@
-var mnemonic = "weird december course unhappy love ticket rude gap genius moral pave list";
+var mnemonic = "oyster guitar boat recycle cupboard satisfy picnic infant margin salute because night";

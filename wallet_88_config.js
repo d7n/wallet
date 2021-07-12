@@ -1,1 +1,1 @@
-var mnemonic = "finger motion more fiber warfare cream law isolate protect three hen enforce";
+var mnemonic = "crunch combine upset year flock combine decade leisure rookie undo crash transfer";

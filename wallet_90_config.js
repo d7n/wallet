@@ -1,1 +1,1 @@
-var mnemonic = "nose rude chat claim brave flag animal brief brass once stable evolve";
+var mnemonic = "solar blind rhythm immune garden fun quality useless add tissue exhibit lawn";

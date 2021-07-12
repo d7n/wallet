@@ -1,1 +1,1 @@
-var mnemonic = "clay world mirror around sport wool cover goose toss relief glide success";
+var mnemonic = "coin develop ankle novel between twin glad gravity viable snap panda blast";

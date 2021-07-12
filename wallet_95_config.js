@@ -1,1 +1,1 @@
-var mnemonic = "flee sign scare problem month certain jewel meat wife twin protect among";
+var mnemonic = "portion captain name mixture climb south keen help divorce device trouble keen";

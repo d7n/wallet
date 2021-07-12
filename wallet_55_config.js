@@ -1,1 +1,1 @@
-var mnemonic = "under very begin crumble program pigeon win turkey hospital huge ensure gospel";
+var mnemonic = "mutual bounce extra game pottery lottery hard found crew arrive toddler relief";

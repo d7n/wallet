@@ -1,1 +1,1 @@
-var mnemonic = "hazard fruit hidden defense maple purse remove cupboard today glue humor crew";
+var mnemonic = "mixed make reopen swarm siren sheriff machine street tell onion file evoke";

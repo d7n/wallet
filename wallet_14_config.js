@@ -1,1 +1,1 @@
-var mnemonic = "concert play marriage poverty ski tank swear fan sound vanish shallow carbon";
+var mnemonic = "differ carry state elephant write snap brass mystery goat betray inject tired";

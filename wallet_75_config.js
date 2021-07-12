@@ -1,1 +1,1 @@
-var mnemonic = "travel cross camp laptop inherit speak breeze evoke artist armor laugh canyon";
+var mnemonic = "tail mandate country ring stairs protect sock burden talent inhale distance reform";

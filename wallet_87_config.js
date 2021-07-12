@@ -1,1 +1,1 @@
-var mnemonic = "gas come pair tortoise reopen brass square slight nominee cute cinnamon plastic";
+var mnemonic = "cabbage hungry ginger legal gain ten cushion cake resource monitor isolate tuna";

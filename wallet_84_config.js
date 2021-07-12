@@ -1,1 +1,1 @@
-var mnemonic = "cabin balcony enough bid deposit crowd sadness jar torch rescue over there";
+var mnemonic = "style combine erupt gift oblige phone jacket glad access budget cherry bubble";

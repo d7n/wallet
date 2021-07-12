@@ -1,1 +1,1 @@
-var mnemonic = "aspect blood walnut detect main calm jacket reason during what toddler detail";
+var mnemonic = "balance jump account humble inquiry entry modify reform change access urban surge";

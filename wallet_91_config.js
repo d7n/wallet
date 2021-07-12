@@ -1,1 +1,1 @@
-var mnemonic = "debate icon diagram fall pretty consider athlete mystery pig december dynamic concert";
+var mnemonic = "negative cherry camera street enemy indicate mail install supply evolve simple chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch life fix weapon couch crumble unfold van adjust super blast relief";
+var mnemonic = "cost language increase female gorilla man enable open rough retreat boil spice";

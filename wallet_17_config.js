@@ -1,1 +1,1 @@
-var mnemonic = "ancient album season puppy wink price cargo pilot tilt grief fatal elephant";
+var mnemonic = "ask describe light riot volume miracle describe juice tackle unlock song surface";

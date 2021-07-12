@@ -1,1 +1,1 @@
-var mnemonic = "mountain picnic torch coast village weapon hotel talent radio humble forum match";
+var mnemonic = "park hat elegant board citizen about enjoy tragic easily method fatigue limb";

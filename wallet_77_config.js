@@ -1,1 +1,1 @@
-var mnemonic = "increase paddle unveil use bless frost forest gold hold timber snow nuclear";
+var mnemonic = "grace wolf connect tuition demand banner stumble purity lend sentence hood milk";

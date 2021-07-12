@@ -1,1 +1,1 @@
-var mnemonic = "kitchen core develop dynamic clean guard oven naive anxiety service cushion joke";
+var mnemonic = "that million sing tide vehicle blade pen outer pretty blur case oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "target category verify trap such age imitate bonus avoid weather panda giant";
+var mnemonic = "earn book canvas repeat leg spot law dune ski size clean memory";

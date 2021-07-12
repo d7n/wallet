@@ -1,1 +1,1 @@
-var mnemonic = "harbor reduce ritual notice wasp come once auto secret business fluid soap";
+var mnemonic = "monitor argue youth risk orange square fetch belt umbrella foot trip apart";

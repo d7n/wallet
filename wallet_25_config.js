@@ -1,1 +1,1 @@
-var mnemonic = "unlock pride void mushroom capable grab lounge clump surface myth any cart";
+var mnemonic = "omit bomb polar pink twist monitor nest choose spell boat saddle current";

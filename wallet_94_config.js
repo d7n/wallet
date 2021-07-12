@@ -1,1 +1,1 @@
-var mnemonic = "vacant merit agree valve current achieve simple female bring safe similar minor";
+var mnemonic = "lab myth jewel retire grab item burger avocado abuse involve fabric arrive";

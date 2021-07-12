@@ -1,1 +1,1 @@
-var mnemonic = "fault exercise capital aware shrug north risk control unique calm smart human";
+var mnemonic = "science license empower urban odor already bleak unknown team sponsor rescue level";

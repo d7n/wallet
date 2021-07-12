@@ -1,1 +1,1 @@
-var mnemonic = "parrot lumber essay fatigue diesel gas eight thunder catch sausage neglect dumb";
+var mnemonic = "slice text yard mixture time nation occur girl mammal smile pond erode";

@@ -1,1 +1,1 @@
-var mnemonic = "wire broccoli zone vital result much giggle erupt calm can weasel cover";
+var mnemonic = "ring twelve city market liquid guard chapter inquiry match world whisper hub";

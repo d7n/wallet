@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fire vapor endorse seek decorate paper ginger trigger below episode machine";
+var mnemonic = "reason garage retire genre carpet action waste case give icon student donate";

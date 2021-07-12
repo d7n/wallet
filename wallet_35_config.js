@@ -1,1 +1,1 @@
-var mnemonic = "clean ranch dirt begin pulse crucial decorate cloth wash roof draft must";
+var mnemonic = "panda mule method wrap cruel hood bright across spring leader broom uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "tree wool grow scene stomach run comic pistol wide wife soup general";
+var mnemonic = "earth guard apart wise large ready multiply hope only iron turn chimney";

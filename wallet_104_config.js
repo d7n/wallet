@@ -1,1 +1,1 @@
-var mnemonic = "identify later cotton cigar vendor night december pause vote tongue inside entire";
+var mnemonic = "tennis pelican moon sport parade crew enough youth little census sniff dizzy";

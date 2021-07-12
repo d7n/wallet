@@ -1,1 +1,1 @@
-var mnemonic = "expire always ethics leisure mad ship outer stomach dial invite carbon sadness";
+var mnemonic = "usual soda script conduct load census soup size again clap cave caught";

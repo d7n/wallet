@@ -1,1 +1,1 @@
-var mnemonic = "illegal tissue priority isolate chest wrong useful maple vocal oxygen labor trophy";
+var mnemonic = "drastic bright enough write basic excite nephew zoo detect sustain tuition echo";

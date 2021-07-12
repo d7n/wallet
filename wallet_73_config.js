@@ -1,1 +1,1 @@
-var mnemonic = "insane find isolate skate awake tortoise blood crash antenna goat reopen gaze";
+var mnemonic = "receive conduct assume vessel depend friend photo gas crash cause exhaust panther";

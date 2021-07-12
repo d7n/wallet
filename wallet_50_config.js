@@ -1,1 +1,1 @@
-var mnemonic = "cheese fatal order short noise other write crush window modify forest grocery";
+var mnemonic = "divide misery patch member young slender siren desk limit whip rigid gallery";

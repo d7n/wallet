@@ -1,1 +1,1 @@
-var mnemonic = "tomato suggest copper aunt total obvious crazy page come object artist solve";
+var mnemonic = "need intact depart cabbage define champion annual large donkey keen side civil";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty access salute monkey song dumb marine pretty bag palace ecology view";
+var mnemonic = "element tent stem furnace check amused guard electric garbage bright speak reflect";

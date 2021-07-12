@@ -1,1 +1,1 @@
-var mnemonic = "purchase void cupboard young spread tilt deliver leisure soup arm rookie salmon";
+var mnemonic = "country volume dumb manage month era maid dress brave dance miss mistake";

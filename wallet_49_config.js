@@ -1,1 +1,1 @@
-var mnemonic = "lab popular sun nature joy chalk clog theme boy view canoe garbage";
+var mnemonic = "sustain stock penalty tank sauce alley door solid cat cry chest light";

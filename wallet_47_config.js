@@ -1,1 +1,1 @@
-var mnemonic = "predict cover debate car patient define hockey juice vendor rifle elbow easy";
+var mnemonic = "super flavor vehicle switch mad pole finger cactus dwarf nurse cousin either";

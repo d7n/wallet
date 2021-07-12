@@ -1,1 +1,1 @@
-var mnemonic = "illness ice rifle fluid roof stadium spatial buffalo today kid morning approve";
+var mnemonic = "fix brisk room vicious fatigue smart faculty margin life noise riot curious";

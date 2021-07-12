@@ -1,1 +1,1 @@
-var mnemonic = "buzz silly cake scheme beef art mansion brief ugly reunion argue mesh";
+var mnemonic = "gate curve medal virus comfort seven damage rare yard kidney regret when";

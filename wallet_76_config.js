@@ -1,1 +1,1 @@
-var mnemonic = "always candy despair fiscal rhythm orchard output exclude vicious certain luggage author";
+var mnemonic = "quick harvest seed injury flame mansion paddle wife slam thing tomorrow tone";

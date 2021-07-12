@@ -1,1 +1,1 @@
-var mnemonic = "genre orchard potato spread practice grain lend system carpet addict interest you";
+var mnemonic = "hub endorse list must hazard update ladder current reflect tortoise great vessel";

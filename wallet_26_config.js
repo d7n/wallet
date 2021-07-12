@@ -1,1 +1,1 @@
-var mnemonic = "eagle until cereal weird sand symbol seat solar oak exact hood tooth";
+var mnemonic = "invest tiny shine shock random wine caught pepper tuition home memory toilet";

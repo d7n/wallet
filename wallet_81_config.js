@@ -1,1 +1,1 @@
-var mnemonic = "galaxy wash toilet auto fortune safe fiscal proof popular moment inch borrow";
+var mnemonic = "source trip off rifle drum island huge solid jazz enrich truly winter";

@@ -1,1 +1,1 @@
-var mnemonic = "rich napkin rib board pear clutch dignity immense museum refuse divide churn";
+var mnemonic = "true inhale head waste faint mesh menu wild chase issue amused consider";

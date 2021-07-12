@@ -1,1 +1,1 @@
-var mnemonic = "attitude address radio panic explain figure taste nice visual lake all absurd";
+var mnemonic = "envelope hammer laugh group choose borrow employ federal bamboo minimum point alone";

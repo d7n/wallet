@@ -1,1 +1,1 @@
-var mnemonic = "edit boil affair answer tree dice refuse clip scare inmate aunt boss";
+var mnemonic = "demand public pencil love away second about purpose govern build goddess lawsuit";

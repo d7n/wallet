@@ -1,1 +1,1 @@
-var mnemonic = "bitter churn audit celery recall mother crane anxiety grit subway grape bar";
+var mnemonic = "wave vibrant tornado pear rent current inspire fruit letter clay empty blush";

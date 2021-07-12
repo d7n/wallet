@@ -1,1 +1,1 @@
-var mnemonic = "forum cheap moral frame bounce raccoon cotton arena top fat below flash";
+var mnemonic = "critic client venture clean rug tattoo daughter reward hobby scheme ahead ability";

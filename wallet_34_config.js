@@ -1,1 +1,1 @@
-var mnemonic = "portion spike notable march hen ritual cluster supply hawk buffalo claw cruise";
+var mnemonic = "response faith hobby exclude bike fly feature youth large birth act pave";

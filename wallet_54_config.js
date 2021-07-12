@@ -1,1 +1,1 @@
-var mnemonic = "minute chunk bean sight attract spirit fortune welcome novel round tourist bean";
+var mnemonic = "battle inside shrug accident bone tonight transfer asthma throw will fossil public";

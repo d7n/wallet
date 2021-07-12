@@ -1,1 +1,1 @@
-var mnemonic = "effort father mixture caution disagree climb hero history blouse return smoke buzz";
+var mnemonic = "flight breeze cram rich mask antenna fiscal economy climb clock boss tone";

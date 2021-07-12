@@ -1,1 +1,1 @@
-var mnemonic = "tonight obtain bright giraffe typical inner assist choose guard control month bamboo";
+var mnemonic = "hungry arrow police vehicle demise same minor conduct elbow gas foil purse";

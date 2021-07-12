@@ -1,1 +1,1 @@
-var mnemonic = "theory have enjoy grace ranch exclude prefer early message junk pencil actress";
+var mnemonic = "mix stomach hurdle penalty candy hello access practice detail panel chapter gas";

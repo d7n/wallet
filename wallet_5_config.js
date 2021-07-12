@@ -1,1 +1,1 @@
-var mnemonic = "credit travel north trial denial book pool foot magnet purse buddy certain";
+var mnemonic = "suggest elder drive uphold video vague model section sustain tray immune young";

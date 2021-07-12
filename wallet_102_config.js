@@ -1,1 +1,1 @@
-var mnemonic = "injury accident destroy lizard athlete kiss install amazing dynamic sword convince able";
+var mnemonic = "decade slogan danger domain mass yard settle gain rural gym clock chat";

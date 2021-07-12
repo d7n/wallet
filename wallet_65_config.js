@@ -1,1 +1,1 @@
-var mnemonic = "soda choice army horse doll spend asthma sudden paddle will recall laptop";
+var mnemonic = "school repair web color town position loud weasel shoulder despair adapt captain";

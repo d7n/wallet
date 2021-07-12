@@ -1,1 +1,1 @@
-var mnemonic = "sunny sense stand sunny mesh edge fish anxiety run second hen rent";
+var mnemonic = "movie staff speak since train cruel mammal library drip blood alpha menu";

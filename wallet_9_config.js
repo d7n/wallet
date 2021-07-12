@@ -1,1 +1,1 @@
-var mnemonic = "smile hard saddle hen make faith yellow solar whisper noodle canoe battle";
+var mnemonic = "pen save clean beach orchard mixture own tank erode mad save always";

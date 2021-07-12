@@ -1,1 +1,1 @@
-var mnemonic = "adjust number denial robot accuse knee bonus around burger movie topple salmon";
+var mnemonic = "plate sign shift pig baby ceiling come decide use index flight source";

@@ -1,1 +1,1 @@
-var mnemonic = "disease impulse other story dash trash click birth ring usage century thumb";
+var mnemonic = "vibrant net feel bubble enlist shadow law six dream light unit advance";

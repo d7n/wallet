@@ -1,1 +1,1 @@
-var mnemonic = "pear primary elbow term shove clown try limb wool symbol skate hint";
+var mnemonic = "benefit pistol solid dawn hurdle keep steak owner rug risk rose stable";

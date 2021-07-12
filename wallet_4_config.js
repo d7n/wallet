@@ -1,1 +1,1 @@
-var mnemonic = "punch suspect job pool label mind essay cry hammer select involve zoo";
+var mnemonic = "monkey edit clinic boil echo huge gate detail faint expire aerobic addict";

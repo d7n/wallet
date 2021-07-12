@@ -1,1 +1,1 @@
-var mnemonic = "pupil drastic neck cabin cargo vague bird improve slice raise hover arrest";
+var mnemonic = "chuckle midnight ritual exclude chronic print nice ecology live soldier pattern talent";

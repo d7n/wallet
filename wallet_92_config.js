@@ -1,1 +1,1 @@
-var mnemonic = "tell access soul diesel usual spray taxi inside gather crater motion dress";
+var mnemonic = "ordinary often control opera announce enrich toss tenant give layer bachelor media";

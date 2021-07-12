@@ -1,1 +1,1 @@
-var mnemonic = "clever unique region afford hazard lobster gravity toe flavor smile actress salute";
+var mnemonic = "fantasy hawk muscle tail school race machine antique expand stadium move oven";

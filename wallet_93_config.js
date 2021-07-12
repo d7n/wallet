@@ -1,1 +1,1 @@
-var mnemonic = "senior casino kiss sight hedgehog couch useful hour you trap fetch card";
+var mnemonic = "blossom crawl chaos upset long quarter kidney word coconut inflict slight hope";

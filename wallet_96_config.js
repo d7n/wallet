@@ -1,1 +1,1 @@
-var mnemonic = "evil initial tonight believe trial space tooth brass monitor sibling split entire";
+var mnemonic = "mouse chair anger tool slim liar enough tower biology identify wheat parent";

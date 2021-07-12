@@ -1,1 +1,1 @@
-var mnemonic = "clever member energy december dizzy fitness limb hood same enhance drill submit";
+var mnemonic = "tool artist baby mail salt inflict cage result stadium entire caution carbon";

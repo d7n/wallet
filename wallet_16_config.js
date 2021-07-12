@@ -1,1 +1,1 @@
-var mnemonic = "ticket control leaf summer virtual cattle reform elder color shiver lonely scissors";
+var mnemonic = "dismiss language dry wasp soccer desk appear soap captain jungle solution afford";

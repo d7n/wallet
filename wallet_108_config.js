@@ -1,1 +1,1 @@
-var mnemonic = "various demise screen diet discover live always movie tobacco idle minute vehicle";
+var mnemonic = "magnet pact glare rival route vague clay rotate high jazz upper tool";

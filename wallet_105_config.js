@@ -1,1 +1,1 @@
-var mnemonic = "mixture shaft choose brother together sorry category legal voice already device magnet";
+var mnemonic = "afraid lawn prefer casino inspire protect harsh found combine ladder napkin ocean";

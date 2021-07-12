@@ -1,1 +1,1 @@
-var mnemonic = "unfold cry earn gate sausage firm left ride kitten shock breeze original";
+var mnemonic = "love october destroy embrace beauty shadow exhaust then potato shrimp animal fury";

@@ -1,1 +1,1 @@
-var mnemonic = "topic off thank forward sword noble luxury outdoor fitness vocal suggest reunion";
+var mnemonic = "always man replace useful plunge enter mother fetch found recipe olympic flush";
