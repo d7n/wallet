@@ -1,1 +1,1 @@
-var mnemonic = "twice fit code swamp noodle nothing abuse normal purchase know design ivory";
+var mnemonic = "dress illegal same sweet assume another cluster hospital worry obvious cook diary";

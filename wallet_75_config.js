@@ -1,1 +1,1 @@
-var mnemonic = "slender short agent tissue minute ski vital erosion park cute recall ketchup";
+var mnemonic = "success actual april harvest flame library rain bonus remind lamp beauty tray";

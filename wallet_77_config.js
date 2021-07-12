@@ -1,1 +1,1 @@
-var mnemonic = "plunge citizen actress net settle spy food amateur sign custom modify sniff";
+var mnemonic = "earn polar daughter stem glory rival attack plate odor nothing mouse pony";

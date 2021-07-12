@@ -1,1 +1,1 @@
-var mnemonic = "donkey omit mad omit ozone giant leisure uncover custom blouse invite room";
+var mnemonic = "lens senior dizzy then pyramid catch update valve arrive exercise pool cabin";

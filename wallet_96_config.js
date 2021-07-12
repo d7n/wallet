@@ -1,1 +1,1 @@
-var mnemonic = "friend space trouble distance marble grid lizard fun topic cradle piano pelican";
+var mnemonic = "swamp reunion melt desert faculty hamster chat grow acquire gather uphold review";

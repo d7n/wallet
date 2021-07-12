@@ -1,1 +1,1 @@
-var mnemonic = "napkin firm fog hybrid delay season car abstract before alcohol pottery frozen";
+var mnemonic = "beyond student bring disagree cherry hammer allow burden rather spoil better bamboo";

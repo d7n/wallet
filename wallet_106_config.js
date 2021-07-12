@@ -1,1 +1,1 @@
-var mnemonic = "undo loan rotate critic mention strike oyster amazing timber hill romance height";
+var mnemonic = "ice scrub project eternal daughter amateur replace plate elephant fabric fresh sand";

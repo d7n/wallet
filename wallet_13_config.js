@@ -1,1 +1,1 @@
-var mnemonic = "act review dolphin term below wish open refuse phone entire all blast";
+var mnemonic = "image total critic loan zone hamster insect ensure such boss found execute";

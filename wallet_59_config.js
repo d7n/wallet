@@ -1,1 +1,1 @@
-var mnemonic = "luggage lesson orange wave rigid negative country reflect alarm museum account auto";
+var mnemonic = "cruise museum old skate fish error snack symptom sausage mercy design gun";

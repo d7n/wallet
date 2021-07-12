@@ -1,1 +1,1 @@
-var mnemonic = "furnace inside vendor sign about fever midnight south veteran general skill embrace";
+var mnemonic = "gather song another sad ranch later harvest master calm source develop charge";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney cushion escape love effort dutch mango chuckle fly tank service acid";
+var mnemonic = "twenty help strategy move armed click broom evil business truly picnic pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "swing furnace into hospital cigar result vote strategy album shock extend crouch";
+var mnemonic = "chuckle energy share spray tip afraid tomato unhappy armor fame sustain fancy";

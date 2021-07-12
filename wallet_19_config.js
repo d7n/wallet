@@ -1,1 +1,1 @@
-var mnemonic = "pulse slim cliff wrong fluid coral tuna hedgehog august suffer vibrant text";
+var mnemonic = "put album erosion make place lady topple fall fat abuse team toddler";

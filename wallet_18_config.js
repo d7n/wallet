@@ -1,1 +1,1 @@
-var mnemonic = "keen margin jeans crater cable metal dune eager pepper mammal canoe morning";
+var mnemonic = "rare expect discover unfold exhibit rescue push valid grace basket smart tide";

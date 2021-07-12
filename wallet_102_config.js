@@ -1,1 +1,1 @@
-var mnemonic = "chapter giraffe usage price toast diagram worry truly mass layer deny tomato";
+var mnemonic = "boring jewel melody dose cash repair shield spoil afraid laptop student tomato";

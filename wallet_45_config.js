@@ -1,1 +1,1 @@
-var mnemonic = "ready budget develop tube kingdom dial picnic myself danger friend huge van";
+var mnemonic = "anchor marble music bacon unable tilt mixed east spider green absorb royal";

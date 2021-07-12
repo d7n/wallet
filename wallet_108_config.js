@@ -1,1 +1,1 @@
-var mnemonic = "trial hedgehog egg labor garage wife october absurd neutral food deny crush";
+var mnemonic = "shield garment rocket physical unit coral average divorce old tumble seed disease";

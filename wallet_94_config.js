@@ -1,1 +1,1 @@
-var mnemonic = "lab crush stem latin palace dwarf album surround fever ribbon despair prefer";
+var mnemonic = "oil river jewel list final canvas beauty bench piano pair minor receive";

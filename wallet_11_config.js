@@ -1,1 +1,1 @@
-var mnemonic = "dentist debris aware gather taxi bullet orange sentence stumble blouse all hint";
+var mnemonic = "tide volcano arm rely vocal oppose grace pole produce skin steak material";

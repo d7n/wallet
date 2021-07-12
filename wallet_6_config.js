@@ -1,1 +1,1 @@
-var mnemonic = "stamp normal recycle tomato false beach eternal photo stool admit soap wrist";
+var mnemonic = "absorb vault song suspect public sponsor busy spirit offer super service crazy";

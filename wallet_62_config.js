@@ -1,1 +1,1 @@
-var mnemonic = "tornado brown debris surge aerobic gas story athlete bleak shed party palace";
+var mnemonic = "point roast inspire file ghost wedding visual motion spider slush obey stable";

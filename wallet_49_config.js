@@ -1,1 +1,1 @@
-var mnemonic = "bench strong uniform legal clown equip obtain spike critic december double front";
+var mnemonic = "limb charge bunker royal twin artist cabin point impulse ability person unfold";

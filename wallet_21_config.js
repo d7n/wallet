@@ -1,1 +1,1 @@
-var mnemonic = "choice rifle ring enlist foil off bronze decade mammal mandate bottom moon";
+var mnemonic = "athlete mystery inject awkward hobby entry oak cool wait assist cloth float";

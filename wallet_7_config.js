@@ -1,1 +1,1 @@
-var mnemonic = "spice join onion village reopen festival brain angry region always damage mass";
+var mnemonic = "worry endorse fog sniff emerge glue sponsor when letter great wolf festival";

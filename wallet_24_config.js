@@ -1,1 +1,1 @@
-var mnemonic = "dose shadow shrimp vibrant job decline twice field shift sure call trust";
+var mnemonic = "example forget seven clip fiction wolf lamp good radio seminar hill grab";

@@ -1,1 +1,1 @@
-var mnemonic = "silk acoustic crumble cinnamon describe tornado camp wasp burger like above omit";
+var mnemonic = "evidence spell adult treat fresh fatigue pattern sign please main cube bid";

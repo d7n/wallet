@@ -1,1 +1,1 @@
-var mnemonic = "drip broccoli inherit labor judge match wealth index protect nest unhappy hint";
+var mnemonic = "floor luggage cheap glue fly power soft screen meadow worth travel vast";

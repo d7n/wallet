@@ -1,1 +1,1 @@
-var mnemonic = "already gospel base harvest trumpet concert recycle oak blood fitness cruel glow";
+var mnemonic = "little jeans pass bounce sorry orphan heavy desert online control hundred sock";

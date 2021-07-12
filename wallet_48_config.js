@@ -1,1 +1,1 @@
-var mnemonic = "buffalo resemble detect issue festival course usage cube junior eyebrow world best";
+var mnemonic = "country genius hold forget offer faculty possible door drill fatal fine pause";

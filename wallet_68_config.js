@@ -1,1 +1,1 @@
-var mnemonic = "retreat language turtle coach milk hour poverty memory tomorrow wreck resemble six";
+var mnemonic = "illness drama salad shoe faint mammal shallow state buffalo mail chair wild";

@@ -1,1 +1,1 @@
-var mnemonic = "piece level eternal system famous artefact suit shaft garage tennis earth great";
+var mnemonic = "phone globe zebra reveal maid cover eyebrow consider cinnamon finish marble film";

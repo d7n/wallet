@@ -1,1 +1,1 @@
-var mnemonic = "sight letter become smooth treat dizzy fragile cook wood glue gasp orbit";
+var mnemonic = "inhale mobile canvas razor liar arch shiver tone benefit dolphin chief must";

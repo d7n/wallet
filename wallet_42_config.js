@@ -1,1 +1,1 @@
-var mnemonic = "replace daring ball life loan target observe suit sibling jaguar position merry";
+var mnemonic = "pyramid rabbit grow now umbrella choice fortune survey deputy frown giant always";

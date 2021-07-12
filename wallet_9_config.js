@@ -1,1 +1,1 @@
-var mnemonic = "cage father spread essay belt special ahead number key veteran engine bacon";
+var mnemonic = "sausage shop boss task amateur east develop small link mountain general flip";

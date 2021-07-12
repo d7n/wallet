@@ -1,1 +1,1 @@
-var mnemonic = "coach vehicle ritual mountain town buddy become bike fetch trumpet grass rather";
+var mnemonic = "menu sheriff knife craft ancient track brother wide match enough opera extend";

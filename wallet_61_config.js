@@ -1,1 +1,1 @@
-var mnemonic = "logic obey wild noise artefact elder balcony chunk best brown home proud";
+var mnemonic = "garbage health ritual body gather top cinnamon again route devote announce buzz";

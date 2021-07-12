@@ -1,1 +1,1 @@
-var mnemonic = "favorite voice tip cabbage feel inch pilot bird armor alley neutral neglect";
+var mnemonic = "win gentle giggle jaguar exact dumb gun settle fire critic endless close";

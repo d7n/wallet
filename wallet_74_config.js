@@ -1,1 +1,1 @@
-var mnemonic = "anchor mango miracle matrix artefact hospital snake soccer flee oppose penalty addict";
+var mnemonic = "steel spot noble family clump main brush bargain subject loop park dash";

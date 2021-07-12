@@ -1,1 +1,1 @@
-var mnemonic = "accuse minimum record punch name want water keep car town disorder bounce";
+var mnemonic = "brand patient primary exhaust since exit festival vibrant correct rhythm army old";

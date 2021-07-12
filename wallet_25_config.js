@@ -1,1 +1,1 @@
-var mnemonic = "earn invest crawl oyster rather wet quality target fix empower tail wealth";
+var mnemonic = "monkey pilot panther castle equal vibrant right only advance mirror area dolphin";

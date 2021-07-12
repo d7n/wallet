@@ -1,1 +1,1 @@
-var mnemonic = "penalty act carbon myth scrap video lunar hurdle basic guitar twenty february";
+var mnemonic = "output chief beach mandate pool brother suit cave lens jealous cargo dignity";

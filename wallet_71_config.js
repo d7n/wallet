@@ -1,1 +1,1 @@
-var mnemonic = "item elephant cancel extend pioneer uphold dress lion lonely visit announce consider";
+var mnemonic = "joke tobacco elevator work tobacco slam cluster invite salt rifle curve fuel";

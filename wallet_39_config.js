@@ -1,1 +1,1 @@
-var mnemonic = "address glass rack dance three arrange forget mixed royal brief maze noodle";
+var mnemonic = "salt girl sad fetch update rack fault only protect reopen riot face";

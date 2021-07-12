@@ -1,1 +1,1 @@
-var mnemonic = "occur output push broom cigar engage midnight burger vital ship shuffle century";
+var mnemonic = "casual luggage mule crater city decade nature gun jaguar south reduce lyrics";

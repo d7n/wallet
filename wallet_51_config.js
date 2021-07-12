@@ -1,1 +1,1 @@
-var mnemonic = "beyond lens sorry upset quote impact subway arrow bean very bike vessel";
+var mnemonic = "wasp purchase arch walnut purchase milk remove valve oxygen lyrics amount include";

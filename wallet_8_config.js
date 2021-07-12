@@ -1,1 +1,1 @@
-var mnemonic = "rabbit truck employ width mutual genius gather benefit toddler minimum rough task";
+var mnemonic = "draft long opinion curious tip true eight runway master winner blood room";

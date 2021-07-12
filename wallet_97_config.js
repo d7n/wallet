@@ -1,1 +1,1 @@
-var mnemonic = "jump misery diamond tone chaos afford night state relief recipe version reveal";
+var mnemonic = "snow midnight bulk buzz lake game shoe hole whisper very smooth enhance";

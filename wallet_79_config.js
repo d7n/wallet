@@ -1,1 +1,1 @@
-var mnemonic = "allow mystery force fuel goat favorite debris ridge valve tank choice fork";
+var mnemonic = "vendor collect advice obtain enforce appear level diesel art curve wire drill";

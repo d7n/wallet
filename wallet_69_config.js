@@ -1,1 +1,1 @@
-var mnemonic = "embody tent tone stone accident correct across best case noble reason emerge";
+var mnemonic = "vendor witness write reason fade ten ten horror check kidney ancient chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "news cover volcano honey beach suspect off shoulder garage lucky beyond arrow";
+var mnemonic = "know liar camp soon fish bless layer mango shoe lonely fan square";

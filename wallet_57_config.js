@@ -1,1 +1,1 @@
-var mnemonic = "utility stand toe crash battle prepare smart mercy supply admit ring soccer";
+var mnemonic = "coast inquiry lady enhance beach real half sister crop little lyrics fatal";

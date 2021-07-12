@@ -1,1 +1,1 @@
-var mnemonic = "bag couch error mass garbage luxury remove deal sauce expand slice virtual";
+var mnemonic = "consider hotel bind swarm ski client section purpose else glue half scheme";

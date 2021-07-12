@@ -1,1 +1,1 @@
-var mnemonic = "umbrella mammal taste bread ceiling trim hair bargain tree pear six common";
+var mnemonic = "piano robot glad injury diamond antique believe horn kitchen donor aerobic decade";

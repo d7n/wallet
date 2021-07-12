@@ -1,1 +1,1 @@
-var mnemonic = "person surge cube drop enact pony donor swap crush erosion major element";
+var mnemonic = "address usual foil middle sleep economy switch hard oyster banana arrest initial";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce boil radio summer boy expose ship stool question violin focus such";
+var mnemonic = "spatial stairs diagram text choice orchard impact rocket grant spirit candy price";

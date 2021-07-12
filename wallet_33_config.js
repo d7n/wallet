@@ -1,1 +1,1 @@
-var mnemonic = "change car shoulder glove empty file bamboo prevent oval dawn grace vacant";
+var mnemonic = "dog top athlete buyer ability cloth hunt account prison dawn whisper around";

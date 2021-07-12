@@ -1,1 +1,1 @@
-var mnemonic = "ice apple primary come pioneer lens pact enact jungle early couple round";
+var mnemonic = "nothing ecology drill viable ripple vote asset clog sell cook stuff neglect";

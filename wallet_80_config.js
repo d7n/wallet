@@ -1,1 +1,1 @@
-var mnemonic = "fun miss buffalo like music panic wink brain frequent sketch supreme series";
+var mnemonic = "pen slim there route attend tilt attitude glimpse name rough output immense";

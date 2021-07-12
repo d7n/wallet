@@ -1,1 +1,1 @@
-var mnemonic = "outer kingdom manual clip indicate mechanic pride sibling again shield guess plastic";
+var mnemonic = "cabbage feed mixture sentence bridge quick salad marine fold grunt core speed";

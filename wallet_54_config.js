@@ -1,1 +1,1 @@
-var mnemonic = "guitar nose age hollow hour heart please reveal north cool cash gaze";
+var mnemonic = "swear suspect sponsor girl noise live duty garden heart element today act";

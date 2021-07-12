@@ -1,1 +1,1 @@
-var mnemonic = "camp vicious property exile decrease front inmate across trash abuse congress ball";
+var mnemonic = "solution about measure domain area scale bid blur alpha benefit before phone";

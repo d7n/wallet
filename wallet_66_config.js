@@ -1,1 +1,1 @@
-var mnemonic = "anxiety glance indoor coast price what body moral shed pool ignore into";
+var mnemonic = "pond topic place side fence type rather topple whisper lock casual click";

@@ -1,1 +1,1 @@
-var mnemonic = "voice orphan fabric gather bring false pencil cement detect fault crumble allow";
+var mnemonic = "defense shield field bike merit stomach input rubber expire level lunch bulk";

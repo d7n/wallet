@@ -1,1 +1,1 @@
-var mnemonic = "cactus position vacuum legal surprise transfer ecology ethics envelope stay simple feel";
+var mnemonic = "unfold staff genre mansion tortoise excess grunt omit say tongue link ridge";

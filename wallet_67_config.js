@@ -1,1 +1,1 @@
-var mnemonic = "sister over pool roof museum gate fruit latin there gesture kite proud";
+var mnemonic = "pear squeeze age never bomb brand artefact clay hold surge giant expand";

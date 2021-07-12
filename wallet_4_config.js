@@ -1,1 +1,1 @@
-var mnemonic = "tumble control ribbon laptop strike high cruise try badge hawk round hill";
+var mnemonic = "juice clump off over among mimic witness scatter west trigger mask region";

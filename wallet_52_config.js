@@ -1,1 +1,1 @@
-var mnemonic = "prize half play novel doctor anger dust bullet aspect proud popular frozen";
+var mnemonic = "rough leader melt album blush wage setup hunt sustain control topple grocery";

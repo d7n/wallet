@@ -1,1 +1,1 @@
-var mnemonic = "exist high team rose head range always analyst august fog nation exile";
+var mnemonic = "pioneer youth decrease south silent ability during myself grow plastic wasp require";

@@ -1,1 +1,1 @@
-var mnemonic = "open light mandate panther riot helmet network amount sample voice swift beach";
+var mnemonic = "curious text divorce alert dinosaur robust drastic winter spray corn rigid slow";

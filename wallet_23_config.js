@@ -1,1 +1,1 @@
-var mnemonic = "able desk dance pelican rule symbol review citizen mobile daring derive trip";
+var mnemonic = "place cry giggle cream install cook wrong device erosion shoot jealous month";

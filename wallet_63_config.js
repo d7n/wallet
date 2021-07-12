@@ -1,1 +1,1 @@
-var mnemonic = "ensure fringe decline click brother dynamic arm velvet onion area myself small";
+var mnemonic = "merit decide run slice gentle tornado badge option floor super edit clog";

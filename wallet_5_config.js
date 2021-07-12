@@ -1,1 +1,1 @@
-var mnemonic = "crush february across peasant away divide abuse august own food waste material";
+var mnemonic = "february dress what intact rib ahead awkward reason across cinnamon vehicle acid";

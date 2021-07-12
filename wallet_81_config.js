@@ -1,1 +1,1 @@
-var mnemonic = "always rabbit glance blood elite artist vault number consider hard divide floor";
+var mnemonic = "beach atom chief sting tackle coffee fossil country clay acid isolate metal";

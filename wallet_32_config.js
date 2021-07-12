@@ -1,1 +1,1 @@
-var mnemonic = "potato service attend junior recycle mention draw parrot load craft couple rare";
+var mnemonic = "night example service spider edit denial carbon casino hawk excuse inject inner";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt agent behind best veteran crumble film erode bone hotel erupt hood";
+var mnemonic = "tone pave ugly nice pottery index large process crouch pet angle buddy";

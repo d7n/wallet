@@ -1,1 +1,1 @@
-var mnemonic = "until magic grunt basket develop leaf shadow fury arrive scheme taste answer";
+var mnemonic = "charge shoot uncle genius casino target suit limit film harbor sunset foam";

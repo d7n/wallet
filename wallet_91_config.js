@@ -1,1 +1,1 @@
-var mnemonic = "pool crane thought awkward explain regular silver object comfort joke picnic elegant";
+var mnemonic = "accuse sentence outdoor idle tent unit hotel dune found leg coin detail";

@@ -1,1 +1,1 @@
-var mnemonic = "worry bleak track mask extend front amount vote badge police burst rude";
+var mnemonic = "replace plate hen flee result easy family paper subject lens that puppy";

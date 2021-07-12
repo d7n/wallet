@@ -1,1 +1,1 @@
-var mnemonic = "ladder lamp veteran vault reform shell raven kind clock ask tortoise tip";
+var mnemonic = "urge ball island identify sponsor exercise light melt remove fall radar prosper";

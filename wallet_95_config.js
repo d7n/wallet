@@ -1,1 +1,1 @@
-var mnemonic = "laugh amount squirrel leg onion achieve canal invite anger rifle call west";
+var mnemonic = "weird what fancy follow round lift direct zone kite sentence zebra champion";

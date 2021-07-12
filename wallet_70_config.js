@@ -1,1 +1,1 @@
-var mnemonic = "detail corn lesson fun dolphin segment sample habit obvious require saddle doctor";
+var mnemonic = "neglect hobby math ripple season punch pyramid uphold want project thumb entire";

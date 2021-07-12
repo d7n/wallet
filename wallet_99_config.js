@@ -1,1 +1,1 @@
-var mnemonic = "cover habit cricket mad indicate replace annual team explain alert today parent";
+var mnemonic = "auction good beef rib garlic plug loop clay arrest venue inject assist";

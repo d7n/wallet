@@ -1,1 +1,1 @@
-var mnemonic = "health zone engine wise grab warrior organ source frame female pepper shoe";
+var mnemonic = "hedgehog judge steel example panda agent early mosquito across perfect manual theme";

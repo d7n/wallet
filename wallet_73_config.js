@@ -1,1 +1,1 @@
-var mnemonic = "bring avoid violin laugh festival anxiety change museum ginger divert gossip response";
+var mnemonic = "gaze tired vapor glory mobile learn pact lift excess report isolate fury";

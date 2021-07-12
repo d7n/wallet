@@ -1,1 +1,1 @@
-var mnemonic = "super toward offer shoulder oyster anger type edge repeat glance drum stove";
+var mnemonic = "action whip ice suggest category defy mask win depth way thank carbon";

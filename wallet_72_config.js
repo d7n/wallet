@@ -1,1 +1,1 @@
-var mnemonic = "roof drink obtain mixed cloud warfare benefit delay discover report soup bulb";
+var mnemonic = "little illness vanish track rose base pony lawsuit seat rookie armor first";

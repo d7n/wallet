@@ -1,1 +1,1 @@
-var mnemonic = "matter problem solar truth forest summer rebuild winter country reveal frame laundry";
+var mnemonic = "require unable annual broken clog animal pole allow fly hawk rookie soccer";

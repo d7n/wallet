@@ -1,1 +1,1 @@
-var mnemonic = "nerve cabin dumb shrimp wrong galaxy math ticket palace music vote enroll";
+var mnemonic = "flee sibling enable come river broom note lizard south rail bread cinnamon";

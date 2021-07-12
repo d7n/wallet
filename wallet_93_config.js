@@ -1,1 +1,1 @@
-var mnemonic = "damage wrestle close bright market have silent unusual oven armed beauty abandon";
+var mnemonic = "name mixture marble love hawk era step borrow dove own admit eager";

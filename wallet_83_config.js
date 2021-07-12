@@ -1,1 +1,1 @@
-var mnemonic = "grit muscle tongue web festival scheme double eager crawl sorry used surface";
+var mnemonic = "bracket decade season shoulder quote alarm also list flat truly shrimp network";

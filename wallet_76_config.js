@@ -1,1 +1,1 @@
-var mnemonic = "deer east place answer nest winter grain labor mixed clap fortune envelope";
+var mnemonic = "foil issue erode hungry pepper stove trap upon bleak price garment hope";
