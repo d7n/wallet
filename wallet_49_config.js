@@ -1,1 +1,1 @@
-var mnemonic = "already endless sphere busy window flee few domain iron crisp coil learn";
+var mnemonic = "scan explain identify frost group rough pole lizard sand drastic outdoor cause";

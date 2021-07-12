@@ -1,1 +1,1 @@
-var mnemonic = "mesh rely action easily cave coin friend olympic whip square junior name";
+var mnemonic = "off state social gift open doctor cause remove benefit wage garage infant";

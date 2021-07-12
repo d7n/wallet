@@ -1,1 +1,1 @@
-var mnemonic = "identify pass mule risk gain high turn transfer beach dinner law wine";
+var mnemonic = "sure replace claw maple strategy tool present brush cupboard blanket deer attend";

@@ -1,1 +1,1 @@
-var mnemonic = "praise fiscal symptom excite report field acquire main kit banner actual lawn";
+var mnemonic = "peasant build age joy celery canyon limb visual crane book feed execute";

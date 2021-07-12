@@ -1,1 +1,1 @@
-var mnemonic = "security bubble federal tonight globe spider half digital eagle couch hungry carbon";
+var mnemonic = "benefit scout rice hundred excite above jaguar three source home denial today";

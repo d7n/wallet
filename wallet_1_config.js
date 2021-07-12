@@ -1,1 +1,1 @@
-var mnemonic = "oak coach thank update tiny steel tent cake wreck midnight shift coin";
+var mnemonic = "hamster when prize dentist buyer faint measure arrest priority undo yard captain";

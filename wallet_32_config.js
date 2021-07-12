@@ -1,1 +1,1 @@
-var mnemonic = "hunt matrix liquid season fence gate ill spell day soul emotion canvas";
+var mnemonic = "bottom grid truth want undo chaos figure stage glance course paper blouse";

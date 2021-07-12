@@ -1,1 +1,1 @@
-var mnemonic = "shock trial isolate ribbon icon decrease year boost stereo empower custom monkey";
+var mnemonic = "pigeon garden field genius picture notable exile anchor degree poet make oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "easily roast mad life trip bicycle visa traffic sure other unique major";
+var mnemonic = "inject paddle leader fit biology torch wine chief uphold jewel champion mistake";

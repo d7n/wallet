@@ -1,1 +1,1 @@
-var mnemonic = "avoid raccoon define inside usage use develop evil impact undo input humor";
+var mnemonic = "select upgrade knock regular reform electric crazy shaft oyster moral old harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "artist unique pass host jealous oblige away aunt genius beef media depend";
+var mnemonic = "opinion vanish dumb seminar injury way brass female early ready obey orbit";

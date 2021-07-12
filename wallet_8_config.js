@@ -1,1 +1,1 @@
-var mnemonic = "cluster access use client trap build witness trick mom radar episode provide";
+var mnemonic = "tail subject this tool pen super raven local erupt service enter forget";

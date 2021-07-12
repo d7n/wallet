@@ -1,1 +1,1 @@
-var mnemonic = "clinic demand add notice sight manage dignity pill fuel orient paddle manual";
+var mnemonic = "honey note birth supply private voyage now expand right laptop swear control";

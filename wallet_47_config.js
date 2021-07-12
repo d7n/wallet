@@ -1,1 +1,1 @@
-var mnemonic = "near medal lobster wire party convince sponsor educate sword ripple display narrow";
+var mnemonic = "sketch auction gate kite black devote science warm tenant style library shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet gift guess census stadium typical depth shop dismiss salad salmon unknown";
+var mnemonic = "search fresh daughter obey lumber cattle stuff begin matter direct major final";

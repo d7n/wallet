@@ -1,1 +1,1 @@
-var mnemonic = "symbol meat insane energy purse alter acquire pepper nasty meat major repeat";
+var mnemonic = "onion sound fancy ill squirrel invite duck focus bone sort social choose";

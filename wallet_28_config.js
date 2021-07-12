@@ -1,1 +1,1 @@
-var mnemonic = "vital universe advance artwork scheme habit surface dust report bring kidney goose";
+var mnemonic = "cigar guilt hollow evil three oblige giraffe ice curious health valid amazing";

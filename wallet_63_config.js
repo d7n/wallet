@@ -1,1 +1,1 @@
-var mnemonic = "sadness desert ritual auto quantum make black young own plastic filter slice";
+var mnemonic = "mandate tank used noise dragon way reveal crystal leaf random piano beach";

@@ -1,1 +1,1 @@
-var mnemonic = "diary cruise ghost melody obvious health food chef lumber congress essay pause";
+var mnemonic = "race attract describe begin erosion ahead enter broom symptom staff apple donkey";

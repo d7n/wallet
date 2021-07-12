@@ -1,1 +1,1 @@
-var mnemonic = "secret hand shoe excuse fun tongue cargo beyond twenty transfer sand fringe";
+var mnemonic = "sustain poet medal comfort knife physical fence leisure friend sail walk amused";

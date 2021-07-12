@@ -1,1 +1,1 @@
-var mnemonic = "genuine snake cover rookie always glow resist faint clever when engage multiply";
+var mnemonic = "pool thing pepper smile float dose clown ozone sphere catch shallow render";

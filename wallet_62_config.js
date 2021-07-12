@@ -1,1 +1,1 @@
-var mnemonic = "hospital venture exhibit vital inch lottery syrup addict lock shuffle bicycle bullet";
+var mnemonic = "sample wall filter element power core style allow tide walk vessel tomorrow";

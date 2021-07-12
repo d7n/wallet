@@ -1,1 +1,1 @@
-var mnemonic = "design cheap sudden joke clown manual cream major roast tornado like runway";
+var mnemonic = "train sadness above frown victory thank more climb digital hood local worry";

@@ -1,1 +1,1 @@
-var mnemonic = "visual trap strong cry owner table ritual glue tail salad element jump";
+var mnemonic = "prefer vital success sick celery stick ticket tobacco census tuition verb patch";

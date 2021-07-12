@@ -1,1 +1,1 @@
-var mnemonic = "exile cluster guilt ring drift search spoil season large hurdle void few";
+var mnemonic = "february season metal recycle tuna ride scrub devote pelican issue fatigue champion";

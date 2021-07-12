@@ -1,1 +1,1 @@
-var mnemonic = "scan crunch claw gesture local piano october ice ozone cannon document surround";
+var mnemonic = "honey company slam apology bleak staff hello trade rookie public eight pelican";

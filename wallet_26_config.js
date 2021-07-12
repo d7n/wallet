@@ -1,1 +1,1 @@
-var mnemonic = "always jar conduct net wall athlete proud slot allow alley short clap";
+var mnemonic = "analyst hospital actual language army wrist sting clock victory scorpion asthma umbrella";

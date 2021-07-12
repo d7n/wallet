@@ -1,1 +1,1 @@
-var mnemonic = "invest among abstract space erosion wagon select cinnamon egg toward sweet assist";
+var mnemonic = "acquire year cherry radio diagram image aunt throw raccoon miracle insect art";

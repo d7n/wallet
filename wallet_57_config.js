@@ -1,1 +1,1 @@
-var mnemonic = "unknown tired lift shallow what maze virus marriage cruise idea present tribe";
+var mnemonic = "spray advice illegal alien afford captain faculty trouble stage trade gain conduct";

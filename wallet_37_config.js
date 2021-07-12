@@ -1,1 +1,1 @@
-var mnemonic = "spy blind sketch alarm total grunt inject finger luggage merry wild habit";
+var mnemonic = "message spot endless park wise enlist soap inflict gesture step knee spend";

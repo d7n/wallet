@@ -1,1 +1,1 @@
-var mnemonic = "element cat flee snow same clip mad exist puzzle across behave spoon";
+var mnemonic = "win angle pistol kingdom parade rapid above soda drum snack confirm fury";

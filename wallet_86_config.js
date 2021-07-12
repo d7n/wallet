@@ -1,1 +1,1 @@
-var mnemonic = "poverty slogan stone brisk stairs fantasy hedgehog control dice nasty puppy possible";
+var mnemonic = "vibrant moon breeze finger giant girl enact sport clock trust broccoli bean";

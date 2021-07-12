@@ -1,1 +1,1 @@
-var mnemonic = "jewel host grab comfort undo turn slice voyage right safe dry quote";
+var mnemonic = "valid brief job wisdom adapt trial increase seek unit steak visa ski";

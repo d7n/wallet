@@ -1,1 +1,1 @@
-var mnemonic = "behind release topic service perfect number network table canvas marine sport valve";
+var mnemonic = "adapt sound fit length gym clap carbon hope gospel tissue present today";

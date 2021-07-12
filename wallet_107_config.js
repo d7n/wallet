@@ -1,1 +1,1 @@
-var mnemonic = "sugar prison charge need burger amateur illegal nothing cram limb frog meadow";
+var mnemonic = "peanut embark exchange bean buffalo toe item settle broccoli pear taste vivid";

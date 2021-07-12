@@ -1,1 +1,1 @@
-var mnemonic = "erode apple dignity artefact welcome choose refuse beef chapter daring nominee project";
+var mnemonic = "bargain spot true episode winner visa large together fire brain camera swarm";

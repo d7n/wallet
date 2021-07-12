@@ -1,1 +1,1 @@
-var mnemonic = "basic tortoise grid erupt hurdle purity measure lend obvious planet decade desert";
+var mnemonic = "flame loyal catch stamp choose artefact inquiry dentist fly age excess exhaust";

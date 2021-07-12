@@ -1,1 +1,1 @@
-var mnemonic = "payment genuine pledge crucial annual claw vessel hybrid prefer sausage salt dune";
+var mnemonic = "oyster absent tell board grape ask tip narrow move bench frequent own";

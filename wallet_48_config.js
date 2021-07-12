@@ -1,1 +1,1 @@
-var mnemonic = "forum arena swamp copper grape resource dog major toward weapon add since";
+var mnemonic = "blanket dice lesson skull arch minor toy stamp number manage normal view";

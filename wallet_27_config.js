@@ -1,1 +1,1 @@
-var mnemonic = "quantum year dove useless hard salon canal report chalk upper bicycle brain";
+var mnemonic = "library echo egg glimpse panther lonely novel wing move sick narrow author";

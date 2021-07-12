@@ -1,1 +1,1 @@
-var mnemonic = "barely seek nominee nest yard level clap produce nasty margin behind drastic";
+var mnemonic = "faint wedding damp vital reveal surprise all inflict idle govern gospel labor";

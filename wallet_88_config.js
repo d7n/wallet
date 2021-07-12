@@ -1,1 +1,1 @@
-var mnemonic = "feel giant forget target couple language oblige tenant amount reason like crack";
+var mnemonic = "pear earth ride grass story target senior million secret private rotate noodle";

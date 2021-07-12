@@ -1,1 +1,1 @@
-var mnemonic = "dragon day acoustic music hidden flower bulk expose opera humble delay vessel";
+var mnemonic = "afford width frog cabin rough wave three plunge laundry upper child west";

@@ -1,1 +1,1 @@
-var mnemonic = "depend radar lesson chalk acoustic attitude hurt season cloth drop about smart";
+var mnemonic = "street creek exhaust tooth crumble fog vote about ticket interest battle decide";

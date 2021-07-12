@@ -1,1 +1,1 @@
-var mnemonic = "provide engage stool gallery say mechanic salad detail ocean acoustic dog nominee";
+var mnemonic = "check cat ketchup weird holiday fantasy blossom twenty require car mass impact";

@@ -1,1 +1,1 @@
-var mnemonic = "kite income slim advance jump siege update goddess license worry consider half";
+var mnemonic = "purse broken whale bridge faith wedding seminar abstract best round cable clean";

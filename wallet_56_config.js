@@ -1,1 +1,1 @@
-var mnemonic = "evidence indoor dust bachelor also unhappy bench mutual assist shuffle avoid donor";
+var mnemonic = "pink first input assist slab farm arena uniform extend motion donkey present";

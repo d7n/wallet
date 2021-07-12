@@ -1,1 +1,1 @@
-var mnemonic = "gaze equal margin emerge diamond buyer valve casual rely margin warm piece";
+var mnemonic = "trigger can wheel hire toy business direct safe lake engage plastic vital";

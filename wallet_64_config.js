@@ -1,1 +1,1 @@
-var mnemonic = "silver page fantasy genuine goose best crisp letter virtual warrior improve hat";
+var mnemonic = "vacuum caught sibling tone address miss bar hover ramp crumble wise fragile";

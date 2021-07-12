@@ -1,1 +1,1 @@
-var mnemonic = "legend tool basket absorb advice coral endorse arrest october hunt artefact hello";
+var mnemonic = "follow doctor warfare organ bottom grape great congress faculty betray elephant right";

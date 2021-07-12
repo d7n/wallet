@@ -1,1 +1,1 @@
-var mnemonic = "utility limit material cover derive truly detect foster indoor permit recall assist";
+var mnemonic = "shoulder inside stock pluck system hat slush neutral truth kitten blade toy";

@@ -1,1 +1,1 @@
-var mnemonic = "worth equip danger paddle cat sniff deer castle gesture rifle sketch coach";
+var mnemonic = "apology under owner camp stool shadow grant skill fruit easily useful blade";

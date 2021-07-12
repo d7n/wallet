@@ -1,1 +1,1 @@
-var mnemonic = "hurry gadget mother whale transfer mother cat require radar rural pepper bright";
+var mnemonic = "away target shoot deer client seat gospel lizard power credit absent benefit";

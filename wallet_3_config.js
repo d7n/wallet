@@ -1,1 +1,1 @@
-var mnemonic = "polar cancel reward rotate medal next village snow sadness special media stage";
+var mnemonic = "dry cabbage ostrich invite grocery symptom insect unique maid few mimic promote";

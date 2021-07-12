@@ -1,1 +1,1 @@
-var mnemonic = "load cruise keep become seat cactus embody valve common mother secret fee";
+var mnemonic = "valve fold flavor tree bracket air later impose near thank luggage method";

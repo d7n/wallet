@@ -1,1 +1,1 @@
-var mnemonic = "update pulp arch rain tourist final thank tip section absurd spy polar";
+var mnemonic = "family across razor insane orchard remember rally please dad three group domain";

@@ -1,1 +1,1 @@
-var mnemonic = "debate goat intact divorce grow reward flat skill answer bomb spend ready";
+var mnemonic = "month glimpse divert avocado cherry other tribe drastic film patient moral cross";

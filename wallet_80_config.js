@@ -1,1 +1,1 @@
-var mnemonic = "play crime float senior crunch flower vehicle sentence ramp under myth angle";
+var mnemonic = "glue mountain dawn soon happy retreat salmon unknown match aisle coconut indicate";

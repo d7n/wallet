@@ -1,1 +1,1 @@
-var mnemonic = "brief prefer upon tortoise album tray thank skill wall ostrich join museum";
+var mnemonic = "stumble trumpet kitten strong identify session silk hello found credit floor sibling";

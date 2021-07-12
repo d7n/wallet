@@ -1,1 +1,1 @@
-var mnemonic = "sand today emotion veteran curve silk ring armed polar bright eye small";
+var mnemonic = "split resist excite quarter build such sand husband tell shiver legend universe";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic tribe sunny slot genius flight fun crush actress grab summer pencil";
+var mnemonic = "useful gallery hand era cream tuna fine regret there industry gesture alert";

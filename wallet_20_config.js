@@ -1,1 +1,1 @@
-var mnemonic = "slush lazy setup grape print cactus find hundred prison buffalo insect knock";
+var mnemonic = "sand advice cash punch glad diet poet forward drink dumb during minimum";

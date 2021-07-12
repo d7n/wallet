@@ -1,1 +1,1 @@
-var mnemonic = "trade trigger flash dune poet jungle solar quick receive allow where shallow";
+var mnemonic = "source fever focus obey boring banner tribe setup pig pulse giraffe wrist";

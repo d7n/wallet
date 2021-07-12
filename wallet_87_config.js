@@ -1,1 +1,1 @@
-var mnemonic = "stove couch version swear master arctic lawn spider alone room sort skill";
+var mnemonic = "light elephant winner carbon account attend smile suit desk canal nothing mimic";

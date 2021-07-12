@@ -1,1 +1,1 @@
-var mnemonic = "shed prize index frame erosion settle average seven example there park salmon";
+var mnemonic = "mad earth critic interest retire color bus tone hamster ethics cable another";

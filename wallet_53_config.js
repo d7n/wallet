@@ -1,1 +1,1 @@
-var mnemonic = "can six inside tooth comic symptom sunny address together syrup ice shrimp";
+var mnemonic = "fold frown same advice nerve owner feed room soup good prefer fog";

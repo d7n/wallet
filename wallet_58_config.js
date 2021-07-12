@@ -1,1 +1,1 @@
-var mnemonic = "pause moral melt claw all morning sudden slender mobile matrix few delay";
+var mnemonic = "nest spike dragon little adapt hello fence basic sad spell tag baby";

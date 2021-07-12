@@ -1,1 +1,1 @@
-var mnemonic = "tunnel boss media figure dragon saddle nurse solar tool museum canal narrow";
+var mnemonic = "web harvest erosion group banner sunset glimpse side apart south spray scrub";

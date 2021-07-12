@@ -1,1 +1,1 @@
-var mnemonic = "theme sure scan abandon satisfy wrong exact oak quality snow print delay";
+var mnemonic = "auction volume vanish frozen wasp chalk glory neglect earth hobby era talent";

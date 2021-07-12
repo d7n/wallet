@@ -1,1 +1,1 @@
-var mnemonic = "sample obtain fee they wage flavor arrive scissors unfair attend cattle nothing";
+var mnemonic = "police caught ivory witness bean amazing skirt trick chapter case glue oxygen";

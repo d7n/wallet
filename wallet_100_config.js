@@ -1,1 +1,1 @@
-var mnemonic = "mother glad false immune slim become old lake analyst goose inch east";
+var mnemonic = "shuffle awkward around relax thank gallery giraffe mechanic real exile unknown angry";

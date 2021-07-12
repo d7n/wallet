@@ -1,1 +1,1 @@
-var mnemonic = "orphan clinic hair arch mom bird thumb logic holiday during much trap";
+var mnemonic = "powder note chapter stock reunion dance hire quality peanut waste inflict seven";

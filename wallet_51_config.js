@@ -1,1 +1,1 @@
-var mnemonic = "army foil laundry lunar scheme vehicle canoe welcome tool vanish owner zoo";
+var mnemonic = "off profit rotate again slight obscure worth antenna milk dolphin clog destroy";

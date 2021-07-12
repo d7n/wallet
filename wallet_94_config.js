@@ -1,1 +1,1 @@
-var mnemonic = "oak easily essay balcony robot snow wait diamond jazz awake certain kidney";
+var mnemonic = "apology monitor fiscal half door lottery amazing insane write virtual obey enable";

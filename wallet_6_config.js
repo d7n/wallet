@@ -1,1 +1,1 @@
-var mnemonic = "deposit angle skate trap arrange onion hurdle butter kitchen impact expect law";
+var mnemonic = "deputy blood define art must engine lawn aerobic village rough liquid mom";

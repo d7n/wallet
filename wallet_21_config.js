@@ -1,1 +1,1 @@
-var mnemonic = "metal defy permit jump oppose spare hold foster era minute grape veteran";
+var mnemonic = "scorpion home act wheat wish denial beef comic arrange birth hello mosquito";

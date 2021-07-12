@@ -1,1 +1,1 @@
-var mnemonic = "obscure token truly wild choose person angry hat february vicious purse glimpse";
+var mnemonic = "favorite fetch buddy snack nice icon hover rice dress million assume gentle";

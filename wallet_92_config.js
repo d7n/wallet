@@ -1,1 +1,1 @@
-var mnemonic = "wedding pave cute dignity together spin second ostrich car desert firm salon";
+var mnemonic = "quit ring knock require crater drastic odor snake banana grid claim cave";

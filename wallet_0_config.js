@@ -1,1 +1,1 @@
-var mnemonic = "region appear bulk erupt cannon vital social delay manage sentence zebra summer";
+var mnemonic = "hundred canvas absorb assault oppose stone educate kangaroo rural seat appear extra";

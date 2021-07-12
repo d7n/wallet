@@ -1,1 +1,1 @@
-var mnemonic = "world wood tube prison tortoise enrich consider simple client ghost planet topic";
+var mnemonic = "brand danger cabbage insect lava actress second shop sibling twin govern powder";

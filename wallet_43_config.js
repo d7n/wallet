@@ -1,1 +1,1 @@
-var mnemonic = "trial veteran kiss trumpet off expand patch chimney put cigar despair hollow";
+var mnemonic = "habit soon wealth office myth thrive kingdom allow neck bulb intact ranch";

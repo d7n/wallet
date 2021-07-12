@@ -1,1 +1,1 @@
-var mnemonic = "obvious dismiss avoid summer maid off drop blanket chuckle lucky peace case";
+var mnemonic = "figure finish tobacco rough into accident manage toss jealous vanish forget ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite inflict moment robot urge faculty edit gadget dice dumb lecture often";
+var mnemonic = "stock acquire marriage grunt zero ridge clog average ranch riot punch cable";

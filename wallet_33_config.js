@@ -1,1 +1,1 @@
-var mnemonic = "whip when lyrics drastic cram snap luggage mystery educate quiz exile couch";
+var mnemonic = "protect into oppose violin mass organ sunset reveal danger shed trumpet cram";

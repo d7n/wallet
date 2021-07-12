@@ -1,1 +1,1 @@
-var mnemonic = "like net offer coral iron skate west hockey silver source brick vehicle";
+var mnemonic = "close raise congress dismiss oppose slow current mansion wash offer island tree";

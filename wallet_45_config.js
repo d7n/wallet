@@ -1,1 +1,1 @@
-var mnemonic = "banner rabbit senior again industry sock reduce pupil tunnel taste output lab";
+var mnemonic = "despair senior glove blue brush stereo impact purchase abuse hammer lazy execute";

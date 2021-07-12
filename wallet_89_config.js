@@ -1,1 +1,1 @@
-var mnemonic = "tree lucky solution prison you hawk grocery taxi route tiny uphold wait";
+var mnemonic = "use rebel make people wrestle brain age cake wagon spell start side";

@@ -1,1 +1,1 @@
-var mnemonic = "afford inner merit van apology pulp either surge exclude pelican girl sound";
+var mnemonic = "friend grief upon gasp fine spawn provide actress evil net circle oil";
