@@ -1,1 +1,1 @@
-var mnemonic = "primary skirt hospital view drama type present vendor bring tell surprise heavy";
+var mnemonic = "legal version tank zoo exercise brick merry tongue narrow extend loop return";

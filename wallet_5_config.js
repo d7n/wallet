@@ -1,1 +1,1 @@
-var mnemonic = "warfare mountain cheap verify burger client solve type resource random divert boy";
+var mnemonic = "student artefact fetch box pluck token unaware seven machine worry globe neck";

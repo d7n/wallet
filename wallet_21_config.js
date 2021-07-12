@@ -1,1 +1,1 @@
-var mnemonic = "maple jar expect place tell hood talent stick tell long regular merit";
+var mnemonic = "dwarf marine violin focus review cry crazy birth announce video royal ball";

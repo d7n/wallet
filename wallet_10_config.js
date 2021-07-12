@@ -1,1 +1,1 @@
-var mnemonic = "blouse expire fossil novel foam where exotic company recall park accuse ramp";
+var mnemonic = "funny core visit bundle mention relax service rug seat abuse artefact reject";

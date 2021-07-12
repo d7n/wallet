@@ -1,1 +1,1 @@
-var mnemonic = "few diet must economy capital praise used clock home lemon vague slam";
+var mnemonic = "power sunset discover balcony icon van foot consider know slice law future";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic summer royal fluid chimney ramp blast remember surround hint main worry";
+var mnemonic = "hammer enough hover caught reduce garden festival lift stand wrap primary surprise";

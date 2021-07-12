@@ -1,1 +1,1 @@
-var mnemonic = "book gas guard option okay birth poverty demand avoid scheme script plastic";
+var mnemonic = "alpha under penalty enough mule quiz repair dynamic satoshi hurry manual broccoli";

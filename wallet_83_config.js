@@ -1,1 +1,1 @@
-var mnemonic = "raise cherry program novel intact pony banner april shallow clutch express body";
+var mnemonic = "bridge sunny carbon task film invite tennis decorate orchard portion warfare lion";

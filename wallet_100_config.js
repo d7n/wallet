@@ -1,1 +1,1 @@
-var mnemonic = "perfect island stable once legend review hand toddler bacon bus neither hobby";
+var mnemonic = "walnut vapor abuse pilot nominee trim salute drip shine veteran vocal hunt";

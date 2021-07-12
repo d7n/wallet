@@ -1,1 +1,1 @@
-var mnemonic = "limb fatal text weapon flash wet film order poverty elite craft impact";
+var mnemonic = "essay guilt law sunny bullet exotic report enough faith biology guilt door";

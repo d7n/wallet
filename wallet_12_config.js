@@ -1,1 +1,1 @@
-var mnemonic = "aunt boat approve stamp clerk zoo slim solve order helmet rocket caught";
+var mnemonic = "rocket ozone pact matter limit cheese artist teach shift foster spatial strategy";

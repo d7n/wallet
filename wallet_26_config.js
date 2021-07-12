@@ -1,1 +1,1 @@
-var mnemonic = "frequent employ snap author hawk program kitchen easy blast elegant enlist major";
+var mnemonic = "stadium shield dad horse miss protect wave mammal turkey normal lottery sound";

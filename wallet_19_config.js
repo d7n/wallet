@@ -1,1 +1,1 @@
-var mnemonic = "cash border miracle mention mix cave student evoke believe glory unfair gospel";
+var mnemonic = "benefit raccoon leopard bring decrease rotate adult pattern soccer lucky despair deal";

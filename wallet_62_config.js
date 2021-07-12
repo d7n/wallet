@@ -1,1 +1,1 @@
-var mnemonic = "also heart crop keep situate aware maze cable margin month tuition ability";
+var mnemonic = "leaf atom fashion alarm very success glow ivory isolate puzzle priority faith";

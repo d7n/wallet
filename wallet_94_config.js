@@ -1,1 +1,1 @@
-var mnemonic = "gather strike attract quiz toy beauty minor tuition wreck click brother remove";
+var mnemonic = "sound matrix admit limb draw fall enrich ramp fever table traffic dress";

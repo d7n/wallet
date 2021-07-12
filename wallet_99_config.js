@@ -1,1 +1,1 @@
-var mnemonic = "lyrics aerobic keen swift mosquito punch rocket electric lab often nurse bargain";
+var mnemonic = "such put ugly clock gun wait walnut clean code illegal belt frequent";

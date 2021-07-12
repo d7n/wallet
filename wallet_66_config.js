@@ -1,1 +1,1 @@
-var mnemonic = "layer more margin tenant animal frog girl use avoid lesson aerobic grit";
+var mnemonic = "pelican ozone upgrade popular tattoo more crunch tuition learn more apart cave";

@@ -1,1 +1,1 @@
-var mnemonic = "reject scene collect crash island force breeze mask please tank maximum salute";
+var mnemonic = "goat enable digital thumb invite motor hint flight soon green practice special";

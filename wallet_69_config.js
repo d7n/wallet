@@ -1,1 +1,1 @@
-var mnemonic = "off inch involve field cinnamon invest wave brisk device enough stumble carbon";
+var mnemonic = "sketch zoo elegant rate praise sugar circle expire calm pink analyst consider";

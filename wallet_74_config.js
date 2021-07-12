@@ -1,1 +1,1 @@
-var mnemonic = "disorder regular where deal manual satoshi pen nut affair digital brass road";
+var mnemonic = "arctic crash sail tone member abandon liquid can mention brown clinic anchor";

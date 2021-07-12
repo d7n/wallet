@@ -1,1 +1,1 @@
-var mnemonic = "army peace repeat author congress poem sail label vintage enjoy grape sadness";
+var mnemonic = "reunion fame lottery uniform educate wine ticket pudding edge tobacco stuff alarm";

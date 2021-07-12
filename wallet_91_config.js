@@ -1,1 +1,1 @@
-var mnemonic = "all deer come hollow post myth say snap focus oval popular side";
+var mnemonic = "mean limb regret catalog quiz dad chair fossil near trip tattoo pledge";

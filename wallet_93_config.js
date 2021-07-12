@@ -1,1 +1,1 @@
-var mnemonic = "pond mushroom arctic theme robust you high net inherit deliver puzzle script";
+var mnemonic = "crumble century fancy sand embrace artefact iron session shed fresh output type";

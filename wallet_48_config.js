@@ -1,1 +1,1 @@
-var mnemonic = "depart hidden bamboo stool envelope victory license river sight hire hub bridge";
+var mnemonic = "knife parent loud side gun sea crack thing honey cook lecture current";

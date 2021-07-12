@@ -1,1 +1,1 @@
-var mnemonic = "hover knock twice cereal pulp glass nephew artwork cup purse between illegal";
+var mnemonic = "kick ivory depart tunnel behind use awkward oblige web misery truth guitar";

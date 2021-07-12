@@ -1,1 +1,1 @@
-var mnemonic = "purse clever rhythm ethics curious bridge dinosaur ostrich hole glad filter people";
+var mnemonic = "moral oppose chimney exit empower reopen donate clock insect erupt hundred neglect";

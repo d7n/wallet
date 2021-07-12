@@ -1,1 +1,1 @@
-var mnemonic = "glare gap monster shoe cradle hobby float sure nation penalty sight catch";
+var mnemonic = "hip mobile cheese secret torch rate swallow try evoke top divide code";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor push history manual ozone girl actress old exotic fix reason riot";
+var mnemonic = "owner veteran spoil chapter maple stage brain pony learn end invite pole";

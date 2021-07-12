@@ -1,1 +1,1 @@
-var mnemonic = "old tone rather south armor symbol camp shuffle snap merge brother scatter";
+var mnemonic = "peanut science virtual perfect boil shop october height unveil photo budget track";

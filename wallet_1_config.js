@@ -1,1 +1,1 @@
-var mnemonic = "car token weird upset once color cream talent ski kidney pattern subject";
+var mnemonic = "wash embark hole panic skull crash shiver arch blush window machine orange";

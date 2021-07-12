@@ -1,1 +1,1 @@
-var mnemonic = "police cube unveil pattern sweet empty program multiply top ostrich wealth photo";
+var mnemonic = "eight speed cactus finger axis music interest logic walnut fringe casino caught";

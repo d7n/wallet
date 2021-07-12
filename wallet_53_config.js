@@ -1,1 +1,1 @@
-var mnemonic = "item bundle wedding iron abandon any please trust castle swarm wet hungry";
+var mnemonic = "solve one identify candy frozen soda fiber month rabbit purpose vacuum spray";

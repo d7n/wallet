@@ -1,1 +1,1 @@
-var mnemonic = "please drift loyal carry sea term control defy sadness scatter salmon tomorrow";
+var mnemonic = "dog spider tail rail pink trip buyer horn arrest fog catalog blossom";

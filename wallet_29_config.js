@@ -1,1 +1,1 @@
-var mnemonic = "promote street inflict awesome patient vast census unfair pair lounge tool library";
+var mnemonic = "skill smoke strike pelican order lunch february source antique glue clog brother";

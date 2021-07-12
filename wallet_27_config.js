@@ -1,1 +1,1 @@
-var mnemonic = "curious crazy festival judge wife desk floor allow swallow elder govern rule";
+var mnemonic = "figure rely mail smooth army ill divide claw train awkward finger wool";

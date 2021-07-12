@@ -1,1 +1,1 @@
-var mnemonic = "girl oak visit gather response rule type obtain render bar glide sell";
+var mnemonic = "boring danger position truth dutch horse pond field inform poet wisdom inside";

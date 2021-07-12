@@ -1,1 +1,1 @@
-var mnemonic = "recipe only thought soap must puppy differ chat virus swamp check thumb";
+var mnemonic = "chief acid lounge squirrel maid blind liar birth toward piano shed finger";

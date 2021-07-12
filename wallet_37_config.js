@@ -1,1 +1,1 @@
-var mnemonic = "injury abstract smile skirt urge february exact make belt donate turtle length";
+var mnemonic = "original miracle discover hockey meat obtain fiber shoe stock intact virus swarm";

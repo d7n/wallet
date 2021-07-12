@@ -1,1 +1,1 @@
-var mnemonic = "river change analyst despair blast point solution science bread draft material victory";
+var mnemonic = "butter this assault muffin juice source library march dolphin raw candy jaguar";

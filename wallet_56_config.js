@@ -1,1 +1,1 @@
-var mnemonic = "liar lucky brother analyst online ensure sphere away benefit toast about forward";
+var mnemonic = "tell census spray labor gravity skill naive kit valley scene pyramid adapt";

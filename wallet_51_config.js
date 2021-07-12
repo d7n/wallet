@@ -1,1 +1,1 @@
-var mnemonic = "magic office second twelve explain chimney impose craft bar melt pilot vacuum";
+var mnemonic = "stumble cool pear cat tongue liar fog color radio issue coyote provide";

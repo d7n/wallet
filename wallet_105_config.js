@@ -1,1 +1,1 @@
-var mnemonic = "gym tooth pen strong plate purse affair burger hover useless apple grape";
+var mnemonic = "husband evoke pass advice glow crazy mask woman miracle shiver prefer zebra";

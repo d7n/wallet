@@ -1,1 +1,1 @@
-var mnemonic = "addict hazard leader cabbage divide pill boat faint express dragon evil cover";
+var mnemonic = "curve jewel burden replace salmon yellow yellow split tank tortoise venture injury";

@@ -1,1 +1,1 @@
-var mnemonic = "farm law hedgehog few more advice cry net rack ship magic slow";
+var mnemonic = "tissue nephew shrimp tiger same stem coconut again sing fog ticket turn";

@@ -1,1 +1,1 @@
-var mnemonic = "level drip measure skate soldier bomb zero loyal smile deny pass alter";
+var mnemonic = "work brother like genuine enter day pumpkin umbrella father long man used";

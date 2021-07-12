@@ -1,1 +1,1 @@
-var mnemonic = "question genius toward cost good detect century party mass nominee mom decade";
+var mnemonic = "easy satisfy moment insect setup news deposit slogan evil release abstract quiz";

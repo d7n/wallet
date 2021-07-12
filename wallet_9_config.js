@@ -1,1 +1,1 @@
-var mnemonic = "manual exclude menu loud punch sad grass decorate suspect tomorrow magnet home";
+var mnemonic = "elder easy safe stove behind cloud fluid arctic word advance february brown";

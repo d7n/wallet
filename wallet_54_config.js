@@ -1,1 +1,1 @@
-var mnemonic = "expire tone image road travel floor story trial arrest behind galaxy asset";
+var mnemonic = "hollow wagon oyster smile struggle rate fee shrimp once endless taxi moon";

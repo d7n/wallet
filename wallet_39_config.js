@@ -1,1 +1,1 @@
-var mnemonic = "coral topic enroll trick father more worry urge pass dance drama ill";
+var mnemonic = "grace impact brother old curve layer flash correct true essence hurt sock";

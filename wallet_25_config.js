@@ -1,1 +1,1 @@
-var mnemonic = "clown clock nut blame error outside north parade shine cotton volume roof";
+var mnemonic = "mirror then laundry device rather glow depth budget quantum bacon under season";

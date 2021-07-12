@@ -1,1 +1,1 @@
-var mnemonic = "science coin chat model strategy erase mouse frost mesh grit pyramid cruel";
+var mnemonic = "iron opera situate define rare toward fury wedding escape job erase finger";

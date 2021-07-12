@@ -1,1 +1,1 @@
-var mnemonic = "emotion squeeze admit forget monitor aspect like useless collect develop learn shrug";
+var mnemonic = "panda october remember ethics chair hip february skirt begin nut village income";

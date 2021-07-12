@@ -1,1 +1,1 @@
-var mnemonic = "exhibit purse churn trick position soft reopen hero message hamster shrimp satisfy";
+var mnemonic = "pioneer another thunder detect soon aunt any law green boil siren suggest";

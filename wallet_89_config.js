@@ -1,1 +1,1 @@
-var mnemonic = "exercise forward castle cat hover like random bus bright merge faculty wisdom";
+var mnemonic = "worth chapter win general step talk column best elite fossil chimney wreck";

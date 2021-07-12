@@ -1,1 +1,1 @@
-var mnemonic = "ginger armed suspect enforce old hamster basket chuckle add critic genius pudding";
+var mnemonic = "width loyal truly expose mixed love erosion border little ghost major bargain";

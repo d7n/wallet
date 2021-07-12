@@ -1,1 +1,1 @@
-var mnemonic = "portion able install portion bracket monster tide boat brother paper grace vessel";
+var mnemonic = "tape same tongue pottery jeans capital result shove stamp thrive pave movie";

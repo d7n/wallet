@@ -1,1 +1,1 @@
-var mnemonic = "survey absurd spice mad liar awake wash opera victory hero obtain pair";
+var mnemonic = "original federal paddle follow sausage winter bird stay link couch discover goat";

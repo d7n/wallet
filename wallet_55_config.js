@@ -1,1 +1,1 @@
-var mnemonic = "pet canoe tired alarm soft wing mention rotate pen renew decide enroll";
+var mnemonic = "clown cattle knock faculty ladder critic aerobic foil cost shiver swim regular";

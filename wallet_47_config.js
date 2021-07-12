@@ -1,1 +1,1 @@
-var mnemonic = "correct three begin picture ramp sight expire subject total then thumb casual";
+var mnemonic = "siege hub reflect three suffer tag december entire range pluck garlic educate";

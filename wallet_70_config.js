@@ -1,1 +1,1 @@
-var mnemonic = "clinic critic present awkward goose inner silent wasp easily upset unveil taste";
+var mnemonic = "thing page motion depart blue analyst cool just embody canvas domain powder";

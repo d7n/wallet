@@ -1,1 +1,1 @@
-var mnemonic = "series crazy neither dish inform gym cheese sound screen journey impact attend";
+var mnemonic = "fog violin tide obey aunt differ empower eager dismiss away march intact";

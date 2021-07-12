@@ -1,1 +1,1 @@
-var mnemonic = "arrest auction book suggest universe industry nuclear camera dynamic link dish crouch";
+var mnemonic = "hip cool tortoise surround muffin champion jealous lucky episode drama simple prosper";

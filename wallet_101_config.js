@@ -1,1 +1,1 @@
-var mnemonic = "coach midnight pencil enter alley exclude festival retire summer seek cousin famous";
+var mnemonic = "text hamster series skin approve cost saddle crater piano parent fire panda";

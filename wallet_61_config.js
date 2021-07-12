@@ -1,1 +1,1 @@
-var mnemonic = "wet usage stereo either pen hungry rely unfold stairs push original private";
+var mnemonic = "divorce bulb danger turkey interest lesson patch huge best bunker arctic glow";

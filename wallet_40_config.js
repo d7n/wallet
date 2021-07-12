@@ -1,1 +1,1 @@
-var mnemonic = "cart prefer cloud secret pyramid video clog test later material cereal wrist";
+var mnemonic = "involve media luxury angle raise usual assist engine game hip click guitar";

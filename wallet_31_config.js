@@ -1,1 +1,1 @@
-var mnemonic = "mobile snap animal heavy that cereal history crater sauce frost picture charge";
+var mnemonic = "describe allow food useful sheriff era session sight bread coach exist donor";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity genre anger warfare identify confirm opera consider october skirt sweet can";
+var mnemonic = "shrug devote piano error taxi sunny what female trial elbow blue mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "rough act castle turtle bag improve satoshi surprise result item cereal stick";
+var mnemonic = "perfect fringe sand deposit canvas chronic nut gun clip inject moral salute";

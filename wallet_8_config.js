@@ -1,1 +1,1 @@
-var mnemonic = "weapon there balance pudding buzz tennis umbrella thing pen twin confirm noise";
+var mnemonic = "allow exotic damp valid ramp actual early remain cliff high pill unlock";

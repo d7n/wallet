@@ -1,1 +1,1 @@
-var mnemonic = "usage aim episode obey possible attitude recipe total frame permit hurdle level";
+var mnemonic = "fiction eternal midnight since vibrant repair tape swim evil sting diesel surge";

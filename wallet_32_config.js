@@ -1,1 +1,1 @@
-var mnemonic = "pigeon blanket swallow cheese tree symptom bring drift learn brief giggle drive";
+var mnemonic = "quit section coil dash surprise mom deny oyster bind fitness belt fury";

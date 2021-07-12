@@ -1,1 +1,1 @@
-var mnemonic = "embrace over bacon volcano drop swap girl about chimney slot coyote suit";
+var mnemonic = "divorce foster subway half kangaroo close swear cycle ladder mansion smart today";

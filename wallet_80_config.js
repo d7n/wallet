@@ -1,1 +1,1 @@
-var mnemonic = "appear utility nephew panic slender file flavor group adult nothing paddle egg";
+var mnemonic = "cupboard century barely moment egg draft pass economy tornado color history bleak";

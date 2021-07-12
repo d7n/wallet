@@ -1,1 +1,1 @@
-var mnemonic = "author around hero rib wheat pipe clever enough razor symbol stock other";
+var mnemonic = "survey carbon enlist dish silk fresh mad spring hero camp eager satoshi";

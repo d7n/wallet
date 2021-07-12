@@ -1,1 +1,1 @@
-var mnemonic = "secret giant dry eternal cabbage soccer book finger inherit gloom nuclear easy";
+var mnemonic = "maple amazing mask cook canyon unveil gauge rare culture fee focus man";

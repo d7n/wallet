@@ -1,1 +1,1 @@
-var mnemonic = "want bench raise dash camp atom treat pelican era post diary middle";
+var mnemonic = "already stairs gasp key offer decide level property tree draw enroll bounce";

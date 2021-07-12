@@ -1,1 +1,1 @@
-var mnemonic = "salute tail stone wash busy inquiry connect uncover about fantasy anxiety color";
+var mnemonic = "brass refuse scheme dog believe settle congress firm make neither question spoon";

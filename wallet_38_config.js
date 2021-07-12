@@ -1,1 +1,1 @@
-var mnemonic = "angle erode then toilet clap movie current joy usual resist crystal before";
+var mnemonic = "soup chest rug inject cool merge concert grunt joy have ignore base";

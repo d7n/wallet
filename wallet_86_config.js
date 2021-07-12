@@ -1,1 +1,1 @@
-var mnemonic = "volume private cube until cable squeeze valve trust vehicle kiwi alpha review";
+var mnemonic = "loop voyage search idle pony shoot fuel depend alcohol west coffee wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual nose supreme hero daring glue cart journey parrot tail mushroom renew";
+var mnemonic = "weekend minute test mountain crater just disease wolf gain toy figure actual";

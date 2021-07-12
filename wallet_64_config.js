@@ -1,1 +1,1 @@
-var mnemonic = "finger slow filter you cage cup dignity usage fit left capable used";
+var mnemonic = "imitate kidney ethics swing catalog scissors sport trial pig dune alert fantasy";

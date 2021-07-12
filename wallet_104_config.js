@@ -1,1 +1,1 @@
-var mnemonic = "tuna kiss mercy walk whale glass have glimpse about gentle glimpse best";
+var mnemonic = "cool math sell warfare essence grape gorilla barrel few steak market pupil";

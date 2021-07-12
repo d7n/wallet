@@ -1,1 +1,1 @@
-var mnemonic = "spoon push emotion ranch mind garment fuel angle april salad return good";
+var mnemonic = "wear term menu woman habit cheap party hospital time member ancient romance";

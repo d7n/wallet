@@ -1,1 +1,1 @@
-var mnemonic = "learn goose agent dress prepare into room bring table chuckle sadness syrup";
+var mnemonic = "fabric smoke wealth doctor loyal alert whisper always crime velvet chef decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "blast dust seek hello salon mystery venture hood hazard defense aerobic police";
+var mnemonic = "holiday scare reward inside mechanic ranch hundred foil great home grit settle";

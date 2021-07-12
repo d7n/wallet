@@ -1,1 +1,1 @@
-var mnemonic = "raccoon diet warrior merge behind witness creek clump dress lock used extend";
+var mnemonic = "advance rail false zone jaguar jungle orange hedgehog actual example snap remain";

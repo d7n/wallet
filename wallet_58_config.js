@@ -1,1 +1,1 @@
-var mnemonic = "hover rent mesh pencil water dirt share invest effort define sell tank";
+var mnemonic = "scrub orchard jealous smoke cherry basket list garbage field arrest crater coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent chief curtain prepare hobby result major pupil suffer science bunker inspire";
+var mnemonic = "forum stereo lyrics route response judge message impulse program ride zebra lady";

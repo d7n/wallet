@@ -1,1 +1,1 @@
-var mnemonic = "security lunch hedgehog wish veteran shallow exact govern combine legal dilemma only";
+var mnemonic = "cheese device summer blossom field rail manage gallery scare element eternal bonus";

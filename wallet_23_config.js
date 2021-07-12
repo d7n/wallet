@@ -1,1 +1,1 @@
-var mnemonic = "discover garbage sadness range valley print burger fun hint table guitar horse";
+var mnemonic = "medal garage together width course cluster naive reveal stumble cloud marriage media";
