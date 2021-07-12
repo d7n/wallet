@@ -1,1 +1,1 @@
-var mnemonic = "human frequent retreat suit salon acid into squeeze wolf desert portion approve";
+var mnemonic = "tornado brown debris surge aerobic gas story athlete bleak shed party palace";

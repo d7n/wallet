@@ -1,1 +1,1 @@
-var mnemonic = "spirit favorite print ice fiscal draw brave feed people spoon satisfy slight";
+var mnemonic = "long sheriff bounce attitude pretty firm stay boss critic fortune champion amateur";

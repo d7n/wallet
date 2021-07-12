@@ -1,1 +1,1 @@
-var mnemonic = "state receive marriage matrix sun unique orbit general slow dilemma beef caught";
+var mnemonic = "drum special physical sniff demise front liar consider century slight icon come";

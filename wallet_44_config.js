@@ -1,1 +1,1 @@
-var mnemonic = "lemon economy blur inner dose usual roast purse great then envelope segment";
+var mnemonic = "camp vicious property exile decrease front inmate across trash abuse congress ball";

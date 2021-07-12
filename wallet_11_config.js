@@ -1,1 +1,1 @@
-var mnemonic = "prepare clog obscure tell cover rent upgrade swim range chuckle machine holiday";
+var mnemonic = "dentist debris aware gather taxi bullet orange sentence stumble blouse all hint";

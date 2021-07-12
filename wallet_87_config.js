@@ -1,1 +1,1 @@
-var mnemonic = "glide increase physical machine owner transfer guilt prize strike only balcony earn";
+var mnemonic = "mind humor mandate indicate arrest sea myself forward runway harsh office oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "report copy salmon odor enlist top doll syrup dream cloud holiday valid";
+var mnemonic = "dose shadow shrimp vibrant job decline twice field shift sure call trust";

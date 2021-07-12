@@ -1,1 +1,1 @@
-var mnemonic = "network cabin immune escape video mouse awesome father general maximum other mango";
+var mnemonic = "ready budget develop tube kingdom dial picnic myself danger friend huge van";

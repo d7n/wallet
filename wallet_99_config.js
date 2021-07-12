@@ -1,1 +1,1 @@
-var mnemonic = "various cost fox civil more veteran nice hamster craft pet prepare laugh";
+var mnemonic = "cover habit cricket mad indicate replace annual team explain alert today parent";

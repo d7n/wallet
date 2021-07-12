@@ -1,1 +1,1 @@
-var mnemonic = "awkward pull easy vivid monster captain hollow two gloom tiny margin admit";
+var mnemonic = "divorce boil radio summer boy expose ship stool question violin focus such";

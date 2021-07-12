@@ -1,1 +1,1 @@
-var mnemonic = "control clown galaxy attitude make special analyst invest huge system fatal scale";
+var mnemonic = "deer east place answer nest winter grain labor mixed clap fortune envelope";

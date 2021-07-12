@@ -1,1 +1,1 @@
-var mnemonic = "lake priority since pole grief radar summer second nurse final random today";
+var mnemonic = "piece level eternal system famous artefact suit shaft garage tennis earth great";

@@ -1,1 +1,1 @@
-var mnemonic = "cash paddle lunch scene benefit account shield trouble animal shield disease student";
+var mnemonic = "stamp normal recycle tomato false beach eternal photo stool admit soap wrist";

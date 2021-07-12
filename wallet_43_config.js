@@ -1,1 +1,1 @@
-var mnemonic = "home gift cool twist attack hope type detail secret choice hole soul";
+var mnemonic = "napkin firm fog hybrid delay season car abstract before alcohol pottery frozen";

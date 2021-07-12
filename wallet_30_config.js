@@ -1,1 +1,1 @@
-var mnemonic = "awake alien cross elephant cotton call jewel envelope venture student account used";
+var mnemonic = "penalty act carbon myth scrap video lunar hurdle basic guitar twenty february";

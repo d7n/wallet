@@ -1,1 +1,1 @@
-var mnemonic = "danger bus genius left timber gown theme firm humor gallery dose proof";
+var mnemonic = "news cover volcano honey beach suspect off shoulder garage lucky beyond arrow";

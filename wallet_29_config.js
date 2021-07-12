@@ -1,1 +1,1 @@
-var mnemonic = "spell party tray solve absorb rug salmon drip birth usual income swim";
+var mnemonic = "bag couch error mass garbage luxury remove deal sauce expand slice virtual";

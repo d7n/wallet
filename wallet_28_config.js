@@ -1,1 +1,1 @@
-var mnemonic = "exhaust truck rug bridge miss inch moon defy voice age subway agree";
+var mnemonic = "donkey omit mad omit ozone giant leisure uncover custom blouse invite room";

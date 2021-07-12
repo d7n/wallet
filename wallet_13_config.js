@@ -1,1 +1,1 @@
-var mnemonic = "crisp acquire solar adapt athlete rely poet oven analyst galaxy sausage crane";
+var mnemonic = "act review dolphin term below wish open refuse phone entire all blast";

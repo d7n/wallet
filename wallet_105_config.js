@@ -1,1 +1,1 @@
-var mnemonic = "during pool toward journey route loyal before aunt guess faint frog summer";
+var mnemonic = "nerve cabin dumb shrimp wrong galaxy math ticket palace music vote enroll";

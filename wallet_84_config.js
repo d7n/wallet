@@ -1,1 +1,1 @@
-var mnemonic = "admit digital tissue above magnet skull egg author what satisfy fiber bridge";
+var mnemonic = "taste share captain rescue aspect cash dignity latin blue curtain endless pulse";

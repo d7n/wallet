@@ -1,1 +1,1 @@
-var mnemonic = "bird drive blouse uncle hunt blade truck portion divide apple wrap mule";
+var mnemonic = "fun miss buffalo like music panic wink brain frequent sketch supreme series";

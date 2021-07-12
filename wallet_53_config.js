@@ -1,1 +1,1 @@
-var mnemonic = "usage aware ladder mixture enable throw assist peanut rack clock sauce dance";
+var mnemonic = "kidney cushion escape love effort dutch mango chuckle fly tank service acid";

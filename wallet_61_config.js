@@ -1,1 +1,1 @@
-var mnemonic = "news math approve apology absorb thrive critic excuse happy beauty melody frame";
+var mnemonic = "logic obey wild noise artefact elder balcony chunk best brown home proud";

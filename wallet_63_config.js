@@ -1,1 +1,1 @@
-var mnemonic = "satisfy toy submit speed view burst loud six inject primary patrol aisle";
+var mnemonic = "ensure fringe decline click brother dynamic arm velvet onion area myself small";

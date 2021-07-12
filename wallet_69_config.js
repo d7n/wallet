@@ -1,1 +1,1 @@
-var mnemonic = "south result recycle start weird swarm near region first mind forest expose";
+var mnemonic = "embody tent tone stone accident correct across best case noble reason emerge";

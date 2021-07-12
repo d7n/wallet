@@ -1,1 +1,1 @@
-var mnemonic = "network math hospital one exile hold beef art assault cupboard wasp emotion";
+var mnemonic = "grunt agent behind best veteran crumble film erode bone hotel erupt hood";

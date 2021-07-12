@@ -1,1 +1,1 @@
-var mnemonic = "off never coconut capital virus false match task evil thought rate vintage";
+var mnemonic = "friend space trouble distance marble grid lizard fun topic cradle piano pelican";

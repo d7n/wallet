@@ -1,1 +1,1 @@
-var mnemonic = "protect company sausage swift lava enrich donor science impulse tragic stamp add";
+var mnemonic = "trial hedgehog egg labor garage wife october absurd neutral food deny crush";

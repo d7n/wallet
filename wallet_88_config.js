@@ -1,1 +1,1 @@
-var mnemonic = "liar turkey frown kick ridge hard lottery praise blur laundry stereo income";
+var mnemonic = "accuse minimum record punch name want water keep car town disorder bounce";

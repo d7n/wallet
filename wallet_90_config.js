@@ -1,1 +1,1 @@
-var mnemonic = "thank trap report favorite engage hair ask cricket plunge prize essence cloud";
+var mnemonic = "super toward offer shoulder oyster anger type edge repeat glance drum stove";

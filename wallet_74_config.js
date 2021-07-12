@@ -1,1 +1,1 @@
-var mnemonic = "alarm income inhale excite guard dose warm need major sudden boss leaf";
+var mnemonic = "anchor mango miracle matrix artefact hospital snake soccer flee oppose penalty addict";

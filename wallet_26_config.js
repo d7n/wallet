@@ -1,1 +1,1 @@
-var mnemonic = "zoo dolphin lumber lucky hire weapon embark birth puzzle man chapter priority";
+var mnemonic = "quality script bridge citizen lecture basic private aspect stereo crowd across country";

@@ -1,1 +1,1 @@
-var mnemonic = "novel toilet laugh job gauge join focus license elder diamond minimum tonight";
+var mnemonic = "leader exclude install favorite exact slow antique zero van labor uncle reward";

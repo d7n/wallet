@@ -1,1 +1,1 @@
-var mnemonic = "tooth pear judge mistake hint various mention main unlock reason sunny night";
+var mnemonic = "retreat language turtle coach milk hour poverty memory tomorrow wreck resemble six";

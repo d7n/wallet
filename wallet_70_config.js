@@ -1,1 +1,1 @@
-var mnemonic = "version rival wear scorpion peace quality lawn sunny large truth crystal pepper";
+var mnemonic = "detail corn lesson fun dolphin segment sample habit obvious require saddle doctor";

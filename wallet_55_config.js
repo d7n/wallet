@@ -1,1 +1,1 @@
-var mnemonic = "ostrich key nut lava fog current doctor mix suffer seven elevator unlock";
+var mnemonic = "health zone engine wise grab warrior organ source frame female pepper shoe";

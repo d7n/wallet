@@ -1,1 +1,1 @@
-var mnemonic = "coconut dentist forum high expand roast assault mirror purchase slam hungry legal";
+var mnemonic = "rabbit truck employ width mutual genius gather benefit toddler minimum rough task";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal swim cigar card bachelor excuse afford share citizen kind fun charge";
+var mnemonic = "tumble control ribbon laptop strike high cruise try badge hawk round hill";

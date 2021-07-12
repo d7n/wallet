@@ -1,1 +1,1 @@
-var mnemonic = "clown catch tree basic rib minute arrest husband nuclear exchange make bitter";
+var mnemonic = "plunge citizen actress net settle spy food amateur sign custom modify sniff";

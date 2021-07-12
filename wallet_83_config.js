@@ -1,1 +1,1 @@
-var mnemonic = "rotate shove ripple pair skin problem bundle angry latin salute lava cluster";
+var mnemonic = "grit muscle tongue web festival scheme double eager crawl sorry used surface";

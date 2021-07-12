@@ -1,1 +1,1 @@
-var mnemonic = "retire small horror upgrade place snow winner pear carry lucky border wash";
+var mnemonic = "replace daring ball life loan target observe suit sibling jaguar position merry";

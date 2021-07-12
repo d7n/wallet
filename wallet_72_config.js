@@ -1,1 +1,1 @@
-var mnemonic = "mail twenty state capable yard kid trap bounce response wear owner card";
+var mnemonic = "roof drink obtain mixed cloud warfare benefit delay discover report soup bulb";

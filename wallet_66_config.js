@@ -1,1 +1,1 @@
-var mnemonic = "recycle exact fitness toward slam priority flush air deputy analyst divorce pizza";
+var mnemonic = "anxiety glance indoor coast price what body moral shed pool ignore into";

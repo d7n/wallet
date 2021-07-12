@@ -1,1 +1,1 @@
-var mnemonic = "blossom indoor claw surround tent mechanic before oppose shine omit moment real";
+var mnemonic = "always rabbit glance blood elite artist vault number consider hard divide floor";

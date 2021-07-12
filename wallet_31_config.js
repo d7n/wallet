@@ -1,1 +1,1 @@
-var mnemonic = "tornado couch quick tomorrow crush inside kiss charge bomb soon often cry";
+var mnemonic = "voyage exchange quit pen switch abuse news kidney jewel hand element satoshi";

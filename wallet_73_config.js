@@ -1,1 +1,1 @@
-var mnemonic = "crash force slam prefer liberty until spice stairs wild swarm glove better";
+var mnemonic = "bring avoid violin laugh festival anxiety change museum ginger divert gossip response";

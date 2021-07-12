@@ -1,1 +1,1 @@
-var mnemonic = "chuckle oak orange black smile nature fury park bright toss relax carry";
+var mnemonic = "buffalo resemble detect issue festival course usage cube junior eyebrow world best";

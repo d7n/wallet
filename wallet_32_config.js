@@ -1,1 +1,1 @@
-var mnemonic = "isolate cattle armed curtain camp winner dance frozen foil wise latin drastic";
+var mnemonic = "potato service attend junior recycle mention draw parrot load craft couple rare";

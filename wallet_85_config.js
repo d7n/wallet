@@ -1,1 +1,1 @@
-var mnemonic = "annual rifle pistol decline liquid knife into zone web lonely because major";
+var mnemonic = "ice apple primary come pioneer lens pact enact jungle early couple round";

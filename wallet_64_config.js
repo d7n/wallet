@@ -1,1 +1,1 @@
-var mnemonic = "robot boat timber enough asthma economy polar demise clinic fence enroll pistol";
+var mnemonic = "cactus position vacuum legal surprise transfer ecology ethics envelope stay simple feel";

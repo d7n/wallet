@@ -1,1 +1,1 @@
-var mnemonic = "decide captain local head scout skirt west feed rhythm uniform crack topic";
+var mnemonic = "keen margin jeans crater cable metal dune eager pepper mammal canoe morning";

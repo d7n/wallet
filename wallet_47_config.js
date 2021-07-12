@@ -1,1 +1,1 @@
-var mnemonic = "bulk note rally brand cover apart obvious unfair sick brief green sick";
+var mnemonic = "famous attitude asthma priority perfect retire please eye agree force much reject";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel detect awake guard rhythm spike please vivid payment afford month same";
+var mnemonic = "comfort lab wide winner rice quarter scorpion fringe taste emotion panic staff";

@@ -1,1 +1,1 @@
-var mnemonic = "seven demand bike artefact ramp mail abandon tell kidney remember joke blue";
+var mnemonic = "coach vehicle ritual mountain town buddy become bike fetch trumpet grass rather";

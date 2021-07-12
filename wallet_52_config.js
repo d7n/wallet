@@ -1,1 +1,1 @@
-var mnemonic = "try oblige menu exercise leader deer wire team age aunt help hero";
+var mnemonic = "prize half play novel doctor anger dust bullet aspect proud popular frozen";

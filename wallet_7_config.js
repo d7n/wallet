@@ -1,1 +1,1 @@
-var mnemonic = "survey bread common couple huge protect economy prize release base view advice";
+var mnemonic = "spice join onion village reopen festival brain angry region always damage mass";

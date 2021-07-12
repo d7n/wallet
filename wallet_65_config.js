@@ -1,1 +1,1 @@
-var mnemonic = "grant risk carbon magnet grocery trend buffalo pencil beyond bulb live echo";
+var mnemonic = "exist high team rose head range always analyst august fog nation exile";

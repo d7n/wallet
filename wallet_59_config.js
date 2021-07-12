@@ -1,1 +1,1 @@
-var mnemonic = "solid hospital human vacuum fox endless fly hybrid refuse borrow cart long";
+var mnemonic = "luggage lesson orange wave rigid negative country reflect alarm museum account auto";

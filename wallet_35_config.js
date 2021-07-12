@@ -1,1 +1,1 @@
-var mnemonic = "slam switch sleep stairs vote polar knife ocean fluid all page extend";
+var mnemonic = "sight letter become smooth treat dizzy fragile cook wood glue gasp orbit";

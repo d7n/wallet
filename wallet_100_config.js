@@ -1,1 +1,1 @@
-var mnemonic = "burst cement twin tiger junk float struggle mesh abandon misery island cereal";
+var mnemonic = "already gospel base harvest trumpet concert recycle oak blood fitness cruel glow";

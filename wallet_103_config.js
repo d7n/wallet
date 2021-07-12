@@ -1,1 +1,1 @@
-var mnemonic = "truth adjust movie amateur scout skirt nephew expand bus install debris kind";
+var mnemonic = "rather frequent scheme moral glimpse visit rice deal post follow thank finger";

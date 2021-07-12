@@ -1,1 +1,1 @@
-var mnemonic = "odor scale absurd next teach hub service cheap fringe mean section hello";
+var mnemonic = "crush february across peasant away divide abuse august own food waste material";

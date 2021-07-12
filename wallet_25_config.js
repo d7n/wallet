@@ -1,1 +1,1 @@
-var mnemonic = "waste card gaze recall spell dilemma hat dizzy wrestle true cherry skirt";
+var mnemonic = "earn invest crawl oyster rather wet quality target fix empower tail wealth";

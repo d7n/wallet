@@ -1,1 +1,1 @@
-var mnemonic = "usage obscure grace check cherry calm ask artwork tragic powder photo cabin";
+var mnemonic = "drama bench uncover robot language only elegant skate arena luggage another loan";

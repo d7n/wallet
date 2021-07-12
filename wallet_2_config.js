@@ -1,1 +1,1 @@
-var mnemonic = "square trigger spirit chunk sign sure cat south crucial case invite dash";
+var mnemonic = "video diamond world famous disagree actress cram taxi average extend tip obvious";

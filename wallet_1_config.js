@@ -1,1 +1,1 @@
-var mnemonic = "work valley visa conduct mushroom pole exotic myself depth pause leaf output";
+var mnemonic = "swing furnace into hospital cigar result vote strategy album shock extend crouch";

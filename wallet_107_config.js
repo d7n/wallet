@@ -1,1 +1,1 @@
-var mnemonic = "join manage drill olympic melt behind hollow cute used pride mercy ivory";
+var mnemonic = "favorite voice tip cabbage feel inch pilot bird armor alley neutral neglect";

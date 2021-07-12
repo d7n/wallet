@@ -1,1 +1,1 @@
-var mnemonic = "explain pool eagle coyote defy aim drive avocado infant guide anchor lucky";
+var mnemonic = "entire pipe bonus material episode reject enough journey tent work impose garment";

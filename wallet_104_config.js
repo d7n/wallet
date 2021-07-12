@@ -1,1 +1,1 @@
-var mnemonic = "whip rent beyond smile explain bachelor collect ship control butter type strong";
+var mnemonic = "worry bleak track mask extend front amount vote badge police burst rude";

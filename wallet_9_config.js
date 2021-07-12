@@ -1,1 +1,1 @@
-var mnemonic = "nose coin body pole tattoo unit prefer volcano myself nation edit consider";
+var mnemonic = "cage father spread essay belt special ahead number key veteran engine bacon";

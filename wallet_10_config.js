@@ -1,1 +1,1 @@
-var mnemonic = "surround message two vivid man leopard hamster sadness warm brand picture clump";
+var mnemonic = "dirt shuffle blur pause choice nothing adult desert language occur few bag";

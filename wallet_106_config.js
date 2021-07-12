@@ -1,1 +1,1 @@
-var mnemonic = "give chunk dial mutual slam large cigar below hamster system have swift";
+var mnemonic = "undo loan rotate critic mention strike oyster amazing timber hill romance height";

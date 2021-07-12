@@ -1,1 +1,1 @@
-var mnemonic = "drive master digital dawn census spare fat online total satisfy feed profit";
+var mnemonic = "silk acoustic crumble cinnamon describe tornado camp wasp burger like above omit";

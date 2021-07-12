@@ -1,1 +1,1 @@
-var mnemonic = "shrug bike senior lobster illness cloth heart bus question bicycle differ pioneer";
+var mnemonic = "until magic grunt basket develop leaf shadow fury arrive scheme taste answer";

@@ -1,1 +1,1 @@
-var mnemonic = "siren thank manual slot about cluster butter buddy odor tumble artwork reopen";
+var mnemonic = "item elephant cancel extend pioneer uphold dress lion lonely visit announce consider";

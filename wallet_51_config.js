@@ -1,1 +1,1 @@
-var mnemonic = "runway ivory snow beauty pulp rich monster casino sniff angry card aerobic";
+var mnemonic = "beyond lens sorry upset quote impact subway arrow bean very bike vessel";

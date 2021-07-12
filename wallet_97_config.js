@@ -1,1 +1,1 @@
-var mnemonic = "sentence slice hire menu abandon turkey anger fossil joke confirm tip village";
+var mnemonic = "jump misery diamond tone chaos afford night state relief recipe version reveal";

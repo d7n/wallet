@@ -1,1 +1,1 @@
-var mnemonic = "bridge until easy outdoor member egg dynamic push reason soap lion volcano";
+var mnemonic = "cannon chapter museum swamp cruel cruel exact piano sell ladder tell demand";

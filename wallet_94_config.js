@@ -1,1 +1,1 @@
-var mnemonic = "elephant identify announce deliver memory rate arena defense picture unveil olympic dry";
+var mnemonic = "lab crush stem latin palace dwarf album surround fever ribbon despair prefer";

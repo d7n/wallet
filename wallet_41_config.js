@@ -1,1 +1,1 @@
-var mnemonic = "dial quit label clutch exit gift input boring gather acoustic fresh gown";
+var mnemonic = "umbrella mammal taste bread ceiling trim hair bargain tree pear six common";

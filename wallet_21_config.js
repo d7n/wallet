@@ -1,1 +1,1 @@
-var mnemonic = "claw mutual stand return follow device jeans turkey eternal left sun dignity";
+var mnemonic = "choice rifle ring enlist foil off bronze decade mammal mandate bottom moon";

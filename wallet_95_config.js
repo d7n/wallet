@@ -1,1 +1,1 @@
-var mnemonic = "praise panda velvet unfair apology olive tribe enforce wheat awake field chair";
+var mnemonic = "laugh amount squirrel leg onion achieve canal invite anger rifle call west";

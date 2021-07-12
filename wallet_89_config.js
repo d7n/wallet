@@ -1,1 +1,1 @@
-var mnemonic = "task work ice safe negative best material salmon clarify price resemble whisper";
+var mnemonic = "open light mandate panther riot helmet network amount sample voice swift beach";
