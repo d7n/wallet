@@ -1,1 +1,1 @@
-var mnemonic = "embody result market hurt turn very desk hazard demand require blossom subject";
+var mnemonic = "lesson name razor brick echo weekend object another dance suit history agree";

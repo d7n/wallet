@@ -1,1 +1,1 @@
-var mnemonic = "census diesel emerge warm fiber one refuse slogan hurry detail display inflict";
+var mnemonic = "valve rack truth fan link infant roast movie kitchen cup damage fat";

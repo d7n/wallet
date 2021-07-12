@@ -1,1 +1,1 @@
-var mnemonic = "clerk biology enter raw upset insect slim garbage tray few firm pair";
+var mnemonic = "slender you opinion grape artwork novel blouse escape trust flag today raise";

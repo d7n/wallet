@@ -1,1 +1,1 @@
-var mnemonic = "arctic weapon tired rally planet check tomorrow core craft hollow vacuum farm";
+var mnemonic = "great blur december horn wash grow eternal object win arrow excuse budget";

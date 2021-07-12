@@ -1,1 +1,1 @@
-var mnemonic = "medal table wonder fox danger animal pizza during voyage rebuild wide either";
+var mnemonic = "unable brand dirt wheel bomb copy pizza public trend fiber leg multiply";

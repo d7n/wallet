@@ -1,1 +1,1 @@
-var mnemonic = "wear click orient balance senior spend domain hint crop crash wrong web";
+var mnemonic = "survey express demand depend guess second three trade pepper screen whale illegal";

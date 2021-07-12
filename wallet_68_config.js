@@ -1,1 +1,1 @@
-var mnemonic = "reduce display cupboard minute reward broken glue little game aspect fuel meat";
+var mnemonic = "poet frost tenant quarter avoid wife inquiry crack split upgrade noise hard";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect useless voice finger fuel say catalog year midnight shove always second";
+var mnemonic = "cool stable calm bright chest solid crush dragon employ royal display ten";

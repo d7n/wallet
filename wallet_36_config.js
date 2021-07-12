@@ -1,1 +1,1 @@
-var mnemonic = "welcome retreat kitten much praise faint eyebrow drastic two habit adjust mushroom";
+var mnemonic = "opinion base oblige cycle wave celery wave orchard clinic lens lion venue";

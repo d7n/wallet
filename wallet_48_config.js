@@ -1,1 +1,1 @@
-var mnemonic = "artist honey noise acquire vapor burger apart coral boost visa photo lawn";
+var mnemonic = "biology jacket depend weather elephant decline offer dentist okay random school royal";

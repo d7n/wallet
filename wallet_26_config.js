@@ -1,1 +1,1 @@
-var mnemonic = "sea accuse sunset twelve know lens paddle upset remove mechanic vacuum mind";
+var mnemonic = "borrow hard elephant shed install guide empower secret hobby crouch tiger level";

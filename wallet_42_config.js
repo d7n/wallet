@@ -1,1 +1,1 @@
-var mnemonic = "jelly chef donkey excess net loyal chuckle robot begin pistol bacon grief";
+var mnemonic = "super sock voyage lobster still brief envelope admit resemble village gate hope";

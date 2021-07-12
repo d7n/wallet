@@ -1,1 +1,1 @@
-var mnemonic = "dignity siren trap spice hand usual patrol curious health outside vicious sauce";
+var mnemonic = "abandon unfair toilet pony jelly guide black accuse essay put west follow";

@@ -1,1 +1,1 @@
-var mnemonic = "fun train provide banana exotic two sister blur coyote clarify meat shuffle";
+var mnemonic = "laugh blade destroy rent opinion salute draw zone obscure void zoo awake";

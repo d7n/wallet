@@ -1,1 +1,1 @@
-var mnemonic = "risk voice panther kitten glue real affair ethics vintage exact keen pig";
+var mnemonic = "shadow write false observe race globe hat young fold wave hint fiction";

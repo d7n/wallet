@@ -1,1 +1,1 @@
-var mnemonic = "industry drink walnut perfect village recipe project guess dirt divert kidney stable";
+var mnemonic = "violin glimpse stamp solid skill gorilla tide alarm bubble skull virtual fiscal";

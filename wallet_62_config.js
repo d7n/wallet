@@ -1,1 +1,1 @@
-var mnemonic = "burst execute way sunny vendor tragic vital bulb boost hair panther lizard";
+var mnemonic = "echo cattle device start pill fee maze dad maximum donkey direct search";

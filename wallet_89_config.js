@@ -1,1 +1,1 @@
-var mnemonic = "title fabric useful cat near surround enact pig engine wealth castle force";
+var mnemonic = "stock goat assist consider layer artist ability puzzle save horn idle index";

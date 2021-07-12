@@ -1,1 +1,1 @@
-var mnemonic = "rebuild rack saddle scout gasp hotel oven answer answer luggage canyon pioneer";
+var mnemonic = "faint actor deliver valid acid follow arena amount margin sniff illegal exact";

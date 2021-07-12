@@ -1,1 +1,1 @@
-var mnemonic = "away exclude thrive arm usual absent quit bottom dove addict tent addict";
+var mnemonic = "sing point win much holiday client topic tragic shuffle volume total insane";

@@ -1,1 +1,1 @@
-var mnemonic = "print negative palace clinic filter salad clap hello level delay purity bottom";
+var mnemonic = "left lamp detect chuckle inspire word between sound member coral dumb aware";

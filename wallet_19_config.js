@@ -1,1 +1,1 @@
-var mnemonic = "burden fix coyote sing congress lobster tank garment artist stand chair later";
+var mnemonic = "allow blame sample scan purpose oyster still lonely amateur code rabbit audit";

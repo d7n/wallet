@@ -1,1 +1,1 @@
-var mnemonic = "arrow you ahead fossil desert essence fire space cabbage devote tank occur";
+var mnemonic = "trap latin bonus arctic say exclude chat denial glance bone bright robust";

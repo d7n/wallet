@@ -1,1 +1,1 @@
-var mnemonic = "obey wise filter egg creek found gadget eager absurd achieve chuckle fever";
+var mnemonic = "tongue assault green hint earn file work labor swamp loud pioneer curtain";

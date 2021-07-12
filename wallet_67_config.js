@@ -1,1 +1,1 @@
-var mnemonic = "suggest awesome become faint worry van write hundred purpose noodle jacket life";
+var mnemonic = "hurry federal solid gas change bread place square stand silver safe panther";

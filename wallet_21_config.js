@@ -1,1 +1,1 @@
-var mnemonic = "chunk turtle fire option guess syrup barrel feed sorry twelve knife fat";
+var mnemonic = "image eye scatter sing such lab guess oxygen police huge clerk until";

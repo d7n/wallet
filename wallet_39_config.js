@@ -1,1 +1,1 @@
-var mnemonic = "buddy about point news toe garment artefact damage source fire aware divide";
+var mnemonic = "embark hedgehog test daughter penalty afraid radio keen note december remember face";

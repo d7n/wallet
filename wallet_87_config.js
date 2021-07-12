@@ -1,1 +1,1 @@
-var mnemonic = "weapon hair infant section basic sorry young reason honey wolf motion inner";
+var mnemonic = "any merry include jacket lady ensure kit bone crush what method tired";

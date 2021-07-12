@@ -1,1 +1,1 @@
-var mnemonic = "guard satoshi fatal improve potato gadget state devote grocery paper sure tray";
+var mnemonic = "field gossip umbrella siege bright expect explain exercise keep raw regular make";

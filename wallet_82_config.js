@@ -1,1 +1,1 @@
-var mnemonic = "visual skill describe eight frozen element token rifle notice gesture search lazy";
+var mnemonic = "enlist thank tattoo friend submit civil immense churn february virtual gadget ask";

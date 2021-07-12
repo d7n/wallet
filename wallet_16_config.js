@@ -1,1 +1,1 @@
-var mnemonic = "turtle tool chief chimney movie clip funny sail sudden tiny predict clerk";
+var mnemonic = "wave another vast stuff service front clump cruel cash all program disease";

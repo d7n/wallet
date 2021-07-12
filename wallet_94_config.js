@@ -1,1 +1,1 @@
-var mnemonic = "private exclude life risk body eager title rate ramp embody morning attack";
+var mnemonic = "mean camera base walk faith figure wide armor clap celery lady grocery";

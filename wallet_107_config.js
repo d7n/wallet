@@ -1,1 +1,1 @@
-var mnemonic = "hand stand rural gasp never blossom mass couple inform oyster tenant dash";
+var mnemonic = "velvet huge frown neutral victory say rookie solid cabin infant vault bicycle";

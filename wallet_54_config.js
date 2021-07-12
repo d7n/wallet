@@ -1,1 +1,1 @@
-var mnemonic = "fault age planet energy glide survey armed inch solution guard snap radar";
+var mnemonic = "metal exclude quiz venture island play monkey proof humble middle vital honey";

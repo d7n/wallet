@@ -1,1 +1,1 @@
-var mnemonic = "gentle coffee twin dash trouble stay eagle hard wedding guess retreat wreck";
+var mnemonic = "poem trophy forest spare mind flavor patient crush twin planet web echo";

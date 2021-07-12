@@ -1,1 +1,1 @@
-var mnemonic = "ordinary lucky glory random edit warm party polar talent chef raw one";
+var mnemonic = "sort tool armor rib limb prevent energy act erase age pull depart";

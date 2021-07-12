@@ -1,1 +1,1 @@
-var mnemonic = "dance conduct infant flower rescue tobacco dress file endorse order resemble fault";
+var mnemonic = "police voice easily option disagree embark thank artwork worry fatigue extra wealth";

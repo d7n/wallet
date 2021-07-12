@@ -1,1 +1,1 @@
-var mnemonic = "mobile addict strong maple correct fix click escape sail engine autumn coffee";
+var mnemonic = "unlock estate soon language deny shallow clown pact old butter example female";

@@ -1,1 +1,1 @@
-var mnemonic = "tree sugar reason blame stairs repeat divorce labor swap person giggle inject";
+var mnemonic = "destroy home wall suffer select mix blade rocket prosper just security student";

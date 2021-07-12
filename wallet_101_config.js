@@ -1,1 +1,1 @@
-var mnemonic = "engage unfold elbow razor potato smooth error cross reduce inherit coffee choose";
+var mnemonic = "mutual stock basket sample approve science water input wheel clump busy beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "rate reflect cloud super mistake derive ordinary slogan throw luxury fortune emerge";
+var mnemonic = "bright grow divide else fury faculty stomach gorilla tissue reunion mosquito topple";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent birth absent spoil isolate birth sentence grass two photo oblige night";
+var mnemonic = "artwork help number age guard energy issue render change develop occur bounce";

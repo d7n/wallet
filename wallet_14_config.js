@@ -1,1 +1,1 @@
-var mnemonic = "measure execute relief pink update example knock rude industry seven danger filter";
+var mnemonic = "country what culture harbor course figure rule clown tip orient roof blur";

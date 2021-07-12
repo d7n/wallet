@@ -1,1 +1,1 @@
-var mnemonic = "clap provide measure exhibit maple install spider law drop govern idea raccoon";
+var mnemonic = "moral ribbon awake hour album idle range cheap mosquito east rocket arctic";

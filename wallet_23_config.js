@@ -1,1 +1,1 @@
-var mnemonic = "egg finish echo unusual reopen want effort sure tube grid cigar search";
+var mnemonic = "settle beyond excite tortoise cousin skirt erupt throw giant box frozen gain";

@@ -1,1 +1,1 @@
-var mnemonic = "black truly lawn avocado few response target animal wise embark hen carbon";
+var mnemonic = "concert sentence invest print member approve educate machine title correct hospital latin";

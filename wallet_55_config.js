@@ -1,1 +1,1 @@
-var mnemonic = "basket animal negative someone mind credit chest click anxiety pair pyramid plunge";
+var mnemonic = "visit drip media need egg fossil poet mistake marriage slogan bounce bulb";

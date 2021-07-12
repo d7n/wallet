@@ -1,1 +1,1 @@
-var mnemonic = "dice inflict alone crash dolphin water flash girl blanket claim subject pitch";
+var mnemonic = "cherry network arrest wet open fancy eight calm angle season shine nose";

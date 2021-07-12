@@ -1,1 +1,1 @@
-var mnemonic = "badge poverty obscure tuna earth frog uncover odor away topic report live";
+var mnemonic = "barrel subway wire noble awkward enjoy ski believe giggle village fluid trip";

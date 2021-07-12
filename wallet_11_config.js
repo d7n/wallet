@@ -1,1 +1,1 @@
-var mnemonic = "round culture smoke glare ensure believe vehicle cigar salon street buffalo muscle";
+var mnemonic = "genre issue uncle friend example limb marine either crane mechanic shallow dad";

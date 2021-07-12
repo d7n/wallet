@@ -1,1 +1,1 @@
-var mnemonic = "inflict intact flame list ring grape candy faculty key timber humor barrel";
+var mnemonic = "sad admit calm edit soldier reunion crowd violin keep robot together case";

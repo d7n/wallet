@@ -1,1 +1,1 @@
-var mnemonic = "gown rack gather drill produce verb shove avoid loud busy select left";
+var mnemonic = "vanish position gallery extend wine drink grunt nothing differ candy sting jaguar";

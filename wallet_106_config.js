@@ -1,1 +1,1 @@
-var mnemonic = "surround until federal project simple guilt odor cinnamon cement law select pottery";
+var mnemonic = "east delay airport shy venture pass artefact camp donkey next west jewel";

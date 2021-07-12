@@ -1,1 +1,1 @@
-var mnemonic = "health inherit broccoli goose remain swamp boat chaos fatal range burger screen";
+var mnemonic = "when poverty twelve thought favorite dice social upper unable idea envelope pill";

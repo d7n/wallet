@@ -1,1 +1,1 @@
-var mnemonic = "reason prevent ignore ceiling into insect celery february wish lottery orphan obvious";
+var mnemonic = "shoot wait next cry asset gauge shop renew normal wet race castle";

@@ -1,1 +1,1 @@
-var mnemonic = "any cruise various balcony plunge swallow between dad grab fox basic excite";
+var mnemonic = "expand pill flavor expose stereo change gorilla zoo embrace unveil moral effort";

@@ -1,1 +1,1 @@
-var mnemonic = "shine praise exercise soup feature survey approve yellow purpose swing bread absurd";
+var mnemonic = "pair lava mosquito core trash same industry client category flee beyond keep";

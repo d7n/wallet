@@ -1,1 +1,1 @@
-var mnemonic = "lunch business opinion consider drill outdoor arctic above strong merry cement harbor";
+var mnemonic = "embody age pumpkin minor soup cube bullet kangaroo broccoli punch amount club";

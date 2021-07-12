@@ -1,1 +1,1 @@
-var mnemonic = "wear acquire dream lava scorpion truck scheme point elite often vibrant level";
+var mnemonic = "popular notice vast wise alone service quiz comfort level immune will hazard";

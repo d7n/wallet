@@ -1,1 +1,1 @@
-var mnemonic = "equal run soap album uncle vote immune undo choice photo coach physical";
+var mnemonic = "stock now skin peasant endorse element soldier amazing two chunk country apology";

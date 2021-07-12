@@ -1,1 +1,1 @@
-var mnemonic = "sunset seek struggle art hidden faculty table jeans cruise trophy jump yellow";
+var mnemonic = "craft work over since victory resemble error blouse country already service fitness";

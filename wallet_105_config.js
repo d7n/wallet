@@ -1,1 +1,1 @@
-var mnemonic = "say trouble curious disorder allow economy afford phone bar wall remember typical";
+var mnemonic = "unusual pair matter multiply permit save service include inhale elephant flame what";

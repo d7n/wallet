@@ -1,1 +1,1 @@
-var mnemonic = "bracket float dismiss coral long cost unlock glare gown tonight indicate kiss";
+var mnemonic = "bachelor limit labor choice fruit spoon garage lock mass kind power joy";

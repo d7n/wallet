@@ -1,1 +1,1 @@
-var mnemonic = "mask diet machine kiss remember joy delay ridge clinic pair east peace";
+var mnemonic = "riot rent outdoor gift tiger zebra clerk endless job hood calm nest";

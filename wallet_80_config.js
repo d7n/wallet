@@ -1,1 +1,1 @@
-var mnemonic = "fever pull bulb hungry illness forest ethics bomb taxi huge shove very";
+var mnemonic = "unusual number canvas middle head frog group group uncle upper service close";

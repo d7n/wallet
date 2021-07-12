@@ -1,1 +1,1 @@
-var mnemonic = "scorpion enemy immense income eyebrow main noise scatter bracket deal great weather";
+var mnemonic = "obtain fly glove skirt infant tuition rely visa mom virus arena refuse";

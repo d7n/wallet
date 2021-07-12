@@ -1,1 +1,1 @@
-var mnemonic = "crime noodle utility mother library afford hybrid warrior wet radio oven color";
+var mnemonic = "dirt assist account banana demand verify phrase slender measure sketch frown can";

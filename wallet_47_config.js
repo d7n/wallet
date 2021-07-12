@@ -1,1 +1,1 @@
-var mnemonic = "crisp hammer joy fire ceiling term achieve tube swarm charge install topic";
+var mnemonic = "useful avocado ridge abuse august ostrich mistake grant stove bomb curious upon";

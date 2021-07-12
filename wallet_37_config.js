@@ -1,1 +1,1 @@
-var mnemonic = "shop six people large result word room cousin volcano sing daughter nut";
+var mnemonic = "nothing alarm short effort box shock wide sound goat such entire gym";

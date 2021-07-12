@@ -1,1 +1,1 @@
-var mnemonic = "immense bracket scissors cattle category section skill glory equip culture raise scorpion";
+var mnemonic = "cave weapon use capital rather boost border genuine cliff wedding ordinary truck";

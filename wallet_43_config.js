@@ -1,1 +1,1 @@
-var mnemonic = "choice bright cream dragon school random right title detail chuckle hurt crystal";
+var mnemonic = "burger track element bench crucial mandate question permit autumn they abuse step";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen now swamp coast rebel strong sudden cool hazard exhaust voyage amused";
+var mnemonic = "oil eyebrow cinnamon demand perfect mansion consider medal soon churn spoil rare";

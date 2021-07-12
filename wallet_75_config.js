@@ -1,1 +1,1 @@
-var mnemonic = "across satoshi vessel donor surge invite off utility silly version safe federal";
+var mnemonic = "taste under snake myself document orchard warm novel dismiss whale worry sense";

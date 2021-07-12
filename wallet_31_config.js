@@ -1,1 +1,1 @@
-var mnemonic = "bracket whisper remain mobile velvet demise filter bone praise seat faint endorse";
+var mnemonic = "fan whale device talk brass burst squirrel blush fame million alarm asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "town relax rail dice width tumble winter north group acoustic swim group";
+var mnemonic = "client behind engage grunt avoid walk sunny eyebrow debate solve law valid";

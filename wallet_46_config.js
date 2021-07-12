@@ -1,1 +1,1 @@
-var mnemonic = "narrow garlic refuse typical ethics industry canyon comic swing anchor act analyst";
+var mnemonic = "ensure account keep august clarify knock reward follow turtle sleep bind uphold";

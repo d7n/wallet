@@ -1,1 +1,1 @@
-var mnemonic = "find absurd swim strategy salmon food squeeze quality pyramid saddle perfect destroy";
+var mnemonic = "poet kite swim obey skill ship illegal profit shop during merry vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "private receive pudding woman together tornado rule almost decide penalty chicken spot";
+var mnemonic = "order favorite tilt pupil junk goat fiscal planet today possible merry control";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp home foil subject know depart party aisle umbrella elite orphan captain";
+var mnemonic = "matter praise evoke garbage valve liar awful march discover empty rather code";

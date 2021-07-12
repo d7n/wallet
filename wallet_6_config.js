@@ -1,1 +1,1 @@
-var mnemonic = "fresh parrot loud neglect custom glue dilemma invest tissue ask vendor either";
+var mnemonic = "vicious learn cloud saddle father hunt crane boy bird kidney client faint";

@@ -1,1 +1,1 @@
-var mnemonic = "vital panel frog aspect social raccoon guilt vendor pledge harvest afraid pet";
+var mnemonic = "injury field curve gospel move vanish wasp yellow echo garden nasty vote";

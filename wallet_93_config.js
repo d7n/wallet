@@ -1,1 +1,1 @@
-var mnemonic = "file vibrant plunge control near rare timber host wage problem sad guitar";
+var mnemonic = "submit opinion super quit draw average love bunker hotel print wise hospital";

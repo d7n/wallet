@@ -1,1 +1,1 @@
-var mnemonic = "marble spike that dirt burger another must include hold wheel tortoise antique";
+var mnemonic = "trigger notable million pact finger hybrid matter birth baby cushion arctic recipe";

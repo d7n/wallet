@@ -1,1 +1,1 @@
-var mnemonic = "cactus sister around talent employ federal liar deliver cave winter mind alpha";
+var mnemonic = "major float tide twist vintage image portion guide insane host crumble exhibit";

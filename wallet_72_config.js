@@ -1,1 +1,1 @@
-var mnemonic = "arena bid across wealth either again fruit enjoy rough sleep close across";
+var mnemonic = "december diesel pole crazy also virtual casino roof square state defense cruise";

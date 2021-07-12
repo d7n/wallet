@@ -1,1 +1,1 @@
-var mnemonic = "crouch suggest cement kite devote leave learn element claw scare gallery rookie";
+var mnemonic = "cruise stable turn neglect genius one say hold mirror height taxi exotic";

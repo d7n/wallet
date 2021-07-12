@@ -1,1 +1,1 @@
-var mnemonic = "rough pumpkin athlete ripple viable remove desert calm cross drum engine cargo";
+var mnemonic = "coyote real hidden chief hello bonus frozen issue tragic cement reveal orange";
