@@ -1,1 +1,1 @@
-var mnemonic = "nice color finish confirm pony knife latin transfer wise thank burst belt";
+var mnemonic = "wrap pipe public alert sunset pool glory phrase drip insect rescue wage";

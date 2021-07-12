@@ -1,1 +1,1 @@
-var mnemonic = "inside crime joy document vapor sword boring plug dinner warfare ranch camp";
+var mnemonic = "crucial summer earn source oblige price wage round fire burger baby cup";

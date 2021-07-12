@@ -1,1 +1,1 @@
-var mnemonic = "naive split kingdom adapt hybrid enroll village shove favorite depart corn enlist";
+var mnemonic = "carry solve blind asthma rescue hurdle tape valid afford garden current visual";

@@ -1,1 +1,1 @@
-var mnemonic = "screen clog toe special one test govern crisp interest true green wage";
+var mnemonic = "return leg ride flight settle inherit special sketch shoulder trim mean hollow";

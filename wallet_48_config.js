@@ -1,1 +1,1 @@
-var mnemonic = "speed bargain struggle vessel clap rapid session aunt endorse brain author rotate";
+var mnemonic = "security much misery total cruise poem fuel nuclear among sing impact skirt";

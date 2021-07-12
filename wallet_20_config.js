@@ -1,1 +1,1 @@
-var mnemonic = "churn clean hedgehog unique record grace sauce leader raise museum weird shaft";
+var mnemonic = "idea any obtain clinic symptom number area pudding stairs toilet team distance";

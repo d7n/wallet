@@ -1,1 +1,1 @@
-var mnemonic = "sunset luggage plastic tiny damp venture ribbon visual double medal demand genuine";
+var mnemonic = "pattern arrange vintage second amount rally relief praise buyer beyond leave mass";

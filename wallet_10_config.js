@@ -1,1 +1,1 @@
-var mnemonic = "ranch remain awkward put super ranch scatter draw sure shift laptop worry";
+var mnemonic = "milk boring evoke useful section immense ivory lake zero never little tell";

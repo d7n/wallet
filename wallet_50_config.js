@@ -1,1 +1,1 @@
-var mnemonic = "illness knee foil panda surge disorder turn fresh casual teach female extra";
+var mnemonic = "together balcony motor attack this old essence curtain bread clown express accuse";

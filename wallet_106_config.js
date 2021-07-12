@@ -1,1 +1,1 @@
-var mnemonic = "cram bulb post rug option spin enter crowd amused citizen office raccoon";
+var mnemonic = "fresh path dinner rabbit jealous cushion sadness service disagree genius hammer spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "number box deliver salon swallow viable divert dice wonder kitchen trigger finish";
+var mnemonic = "tide execute penalty salt critic oak owner buyer cake satoshi priority inquiry";

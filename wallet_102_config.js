@@ -1,1 +1,1 @@
-var mnemonic = "easily hood refuse park tank rude advice thunder theme deliver soon warfare";
+var mnemonic = "print teach victory opera matrix eight mountain bag master shoulder hobby six";

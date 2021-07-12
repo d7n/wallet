@@ -1,1 +1,1 @@
-var mnemonic = "young pitch glide grunt bar bread fragile proud rather text resemble express";
+var mnemonic = "dawn ticket april outside child latin resemble system edit maze vehicle verb";

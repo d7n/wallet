@@ -1,1 +1,1 @@
-var mnemonic = "source story family essay cook fan viable minimum then solution goat boring";
+var mnemonic = "illegal left skull remember wish panic victory issue return struggle spare furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "joy narrow piano clown tone barrel wise excess half local distance start";
+var mnemonic = "pioneer welcome room ankle method use project charge net tiger warfare drive";

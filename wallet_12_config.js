@@ -1,1 +1,1 @@
-var mnemonic = "curve resource manage way smart hamster economy daring horn online autumn live";
+var mnemonic = "help sugar noise code task pluck head certain rib bleak century dune";

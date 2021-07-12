@@ -1,1 +1,1 @@
-var mnemonic = "stuff web royal split business damage explain juice curtain oval toss shell";
+var mnemonic = "wealth ghost wealth visit castle reveal employ move witness rail normal blade";

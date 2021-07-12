@@ -1,1 +1,1 @@
-var mnemonic = "room raven wire soup truth dust stick before uphold mind bundle entry";
+var mnemonic = "always weird mind cup column fame budget strong forum action raccoon shrug";

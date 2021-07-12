@@ -1,1 +1,1 @@
-var mnemonic = "candy soul fiber fluid wash wonder bean seed excuse hood ghost orbit";
+var mnemonic = "galaxy scorpion exact odor local enhance magic exit love solution casual dirt";

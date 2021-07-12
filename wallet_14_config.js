@@ -1,1 +1,1 @@
-var mnemonic = "artist robust setup cool glare sausage crunch buzz always crash badge door";
+var mnemonic = "view involve fly barrel sea cheap dog pelican priority rubber salt parade";

@@ -1,1 +1,1 @@
-var mnemonic = "kid boss magic answer lion burger nuclear write valve trash sail kid";
+var mnemonic = "guitar arm outer frame retire renew beach caught divorce depth clever excuse";

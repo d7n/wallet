@@ -1,1 +1,1 @@
-var mnemonic = "help rhythm trim drama chaos relief kiss hamster frame doll absurd hotel";
+var mnemonic = "black foot immense spy update inquiry fame turn limit medal suspect only";

@@ -1,1 +1,1 @@
-var mnemonic = "coil shine boil hurt snack sketch gate squirrel owner warm naive idle";
+var mnemonic = "flush shield brass noise rocket hat loud what quit trigger harsh coffee";

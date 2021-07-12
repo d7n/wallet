@@ -1,1 +1,1 @@
-var mnemonic = "hotel creek crouch excess moon shuffle rice divert join announce ride fossil";
+var mnemonic = "globe stereo alien draw fruit palace museum piano lift museum truly library";

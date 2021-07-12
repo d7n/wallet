@@ -1,1 +1,1 @@
-var mnemonic = "step fall buzz west banner ethics galaxy sting uncover embark patrol enlist";
+var mnemonic = "law squirrel clown erosion vault entire rocket fortune skull canvas city advance";

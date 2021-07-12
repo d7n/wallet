@@ -1,1 +1,1 @@
-var mnemonic = "human gaze west cradle shock mesh tortoise orange never behind chalk layer";
+var mnemonic = "express health tornado chief neutral climb primary poem seat shaft holiday park";

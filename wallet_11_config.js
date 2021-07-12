@@ -1,1 +1,1 @@
-var mnemonic = "eagle topple lab opinion sign thrive tail bronze front horn visual pet";
+var mnemonic = "material endorse despair six cute employ material wall proof behave energy ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "close prison educate spawn delay ensure abstract tone symbol grain because table";
+var mnemonic = "damp staff lonely home measure rule clap beef trip brother dinosaur ordinary";

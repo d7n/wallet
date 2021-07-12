@@ -1,1 +1,1 @@
-var mnemonic = "hen person quiz member dolphin bicycle lens obvious vanish dream ridge raccoon";
+var mnemonic = "army climb gravity lawsuit weasel husband rude coral history song foster merge";

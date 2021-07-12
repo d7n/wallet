@@ -1,1 +1,1 @@
-var mnemonic = "slam flee island gravity eyebrow brick where seed casual badge lobster emotion";
+var mnemonic = "blossom spray hello youth bounce frozen deer mind hope bar language ignore";

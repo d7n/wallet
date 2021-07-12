@@ -1,1 +1,1 @@
-var mnemonic = "couple exhaust coral radio fat afford flip humble hero donate right creek";
+var mnemonic = "resist attack know degree bounce dry wheat tower brush tired grab pilot";

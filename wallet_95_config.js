@@ -1,1 +1,1 @@
-var mnemonic = "shove peace prison broccoli dilemma already observe other birth glare evoke script";
+var mnemonic = "common any liberty random anger item absurd chuckle face spawn melody hurdle";

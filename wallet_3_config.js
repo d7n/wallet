@@ -1,1 +1,1 @@
-var mnemonic = "extend cradle faith citizen faculty grape together shop horse reopen already regular";
+var mnemonic = "frog waste prepare dirt punch taste quick impact negative hello decline lunar";

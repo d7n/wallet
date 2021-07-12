@@ -1,1 +1,1 @@
-var mnemonic = "bullet peanut peanut witness patient squeeze scout wealth bread convince noise joy";
+var mnemonic = "example fancy hill mosquito across merry catch subject alpha item mad rain";

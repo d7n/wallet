@@ -1,1 +1,1 @@
-var mnemonic = "push top since slab slim curtain leopard hundred vicious buyer display fire";
+var mnemonic = "clog hard carbon cool choice emotion tiny divorce actual turtle glory verify";

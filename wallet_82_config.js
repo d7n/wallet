@@ -1,1 +1,1 @@
-var mnemonic = "horse safe biology bind wrong vote inquiry couch barely travel ensure afford";
+var mnemonic = "miracle success ozone pipe pattern thought raccoon high captain divide guess pig";

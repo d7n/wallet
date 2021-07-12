@@ -1,1 +1,1 @@
-var mnemonic = "action talk gap either never daring raccoon corn power bar chef process";
+var mnemonic = "drift cup burden water awesome witness buzz eager alcohol crowd shuffle giggle";

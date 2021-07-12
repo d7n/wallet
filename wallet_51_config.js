@@ -1,1 +1,1 @@
-var mnemonic = "dream guitar above target hint trade draft project endorse speak any pitch";
+var mnemonic = "simple beauty where certain rebuild beyond extend walnut magnet say drink warfare";

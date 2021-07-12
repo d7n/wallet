@@ -1,1 +1,1 @@
-var mnemonic = "burst horse super pig gossip rain inmate fruit attract dragon jaguar cat";
+var mnemonic = "large tongue employ liquid shock more lazy glue harvest lens gravity boss";

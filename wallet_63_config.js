@@ -1,1 +1,1 @@
-var mnemonic = "limit journey day dentist orient owner dry rifle pact april write all";
+var mnemonic = "surprise arrow uncle dry daring ivory renew fury gossip metal evidence good";

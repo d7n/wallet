@@ -1,1 +1,1 @@
-var mnemonic = "coach hope sell left slush galaxy stairs help label kidney vendor aware";
+var mnemonic = "scorpion coach chimney true engine lucky machine rate seven taste other oblige";

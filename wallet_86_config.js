@@ -1,1 +1,1 @@
-var mnemonic = "tackle spin hedgehog autumn siren mesh juice elder inch bargain smile flame";
+var mnemonic = "aware illegal furnace require kite diesel oblige satoshi concert laundry any jacket";

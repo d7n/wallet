@@ -1,1 +1,1 @@
-var mnemonic = "royal ability diamond puzzle toy atom sure news ahead kitchen achieve ranch";
+var mnemonic = "swallow hotel bike force pass slogan spawn grass tank alone sound parent";

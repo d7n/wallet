@@ -1,1 +1,1 @@
-var mnemonic = "genius venture blade warrior tiny upgrade reflect escape brave want sniff veteran";
+var mnemonic = "royal truly kid disease silly innocent gym sense mystery bleak involve actress";

@@ -1,1 +1,1 @@
-var mnemonic = "method celery struggle brother imitate skate detect inform luggage curtain glove seed";
+var mnemonic = "jelly input tuition walk swamp heart east horn myth pole vault dream";

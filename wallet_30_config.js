@@ -1,1 +1,1 @@
-var mnemonic = "fancy dose brown split birth ski exhaust ramp dash you success assist";
+var mnemonic = "prosper amazing foil ecology prosper napkin elbow scene carbon trash pair priority";

@@ -1,1 +1,1 @@
-var mnemonic = "better person minor brother pencil flag message total spy style film neutral";
+var mnemonic = "width river cannon analyst whip inspire lecture pepper bright debate immune december";

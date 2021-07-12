@@ -1,1 +1,1 @@
-var mnemonic = "always urban shove crisp opera wing twelve neither drive slab move ghost";
+var mnemonic = "margin cloud axis agree excess shrug raw radar foil cupboard carry guard";

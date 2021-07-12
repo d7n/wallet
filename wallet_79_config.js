@@ -1,1 +1,1 @@
-var mnemonic = "lift alarm cross banana around amused destroy runway oil blood guitar engage";
+var mnemonic = "trend kiss echo saddle elbow cabbage cry annual suggest scout dignity summer";

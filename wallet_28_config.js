@@ -1,1 +1,1 @@
-var mnemonic = "cram harsh topic fine goddess gospel picnic announce people pilot twelve void";
+var mnemonic = "private repeat ghost sign fabric pond scout able august congress chicken degree";

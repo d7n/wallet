@@ -1,1 +1,1 @@
-var mnemonic = "clock wrap win manage baby memory smart give verb lecture leopard uncle";
+var mnemonic = "stone below royal silent material rose dutch wire girl skirt rabbit busy";

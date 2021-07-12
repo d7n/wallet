@@ -1,1 +1,1 @@
-var mnemonic = "dirt hold require cry knife chat inner flat there era salad vault";
+var mnemonic = "later matter conduct tail share comic rose cash lazy mosquito muscle vicious";

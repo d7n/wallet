@@ -1,1 +1,1 @@
-var mnemonic = "dust upon boost demand change midnight slim cargo method come gauge fortune";
+var mnemonic = "coil ability dove slogan harsh bring company erupt grow crew island great";

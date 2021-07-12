@@ -1,1 +1,1 @@
-var mnemonic = "enforce zero process quiz post drop fruit prepare broom arrow glad artwork";
+var mnemonic = "spirit hurt begin clump cargo charge accuse obey wire always find maze";

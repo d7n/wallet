@@ -1,1 +1,1 @@
-var mnemonic = "domain shaft liquid perfect journey ancient empty maid gentle candy earn vintage";
+var mnemonic = "bulk stumble nice scene ahead real eight jeans matrix menu unlock sting";

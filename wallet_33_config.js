@@ -1,1 +1,1 @@
-var mnemonic = "exchange divide duck cement joke buddy trophy color detail urban wet pig";
+var mnemonic = "sample disease awake engine deny wheel leopard annual frog hen globe knock";

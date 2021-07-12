@@ -1,1 +1,1 @@
-var mnemonic = "patrol film pledge scissors action narrow then devote timber ivory before script";
+var mnemonic = "leopard birth tornado shallow shock soon hamster slow mixed volume cash spend";

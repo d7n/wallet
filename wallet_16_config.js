@@ -1,1 +1,1 @@
-var mnemonic = "often mixed setup such toddler hour reject word trial tilt attack because";
+var mnemonic = "pupil rely wine coast flower boss first surprise initial quick clutch upgrade";

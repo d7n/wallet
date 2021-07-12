@@ -1,1 +1,1 @@
-var mnemonic = "call badge predict leisure air better quarter egg eager peace fitness escape";
+var mnemonic = "oppose bread immense morning vocal over kiss milk way price dove snack";

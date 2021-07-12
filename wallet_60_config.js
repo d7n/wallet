@@ -1,1 +1,1 @@
-var mnemonic = "ancient hood heavy false cliff bike main life olympic attract silly floor";
+var mnemonic = "voice share defy employ exotic license air easy output tuition cluster pelican";

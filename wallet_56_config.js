@@ -1,1 +1,1 @@
-var mnemonic = "mansion olympic unaware genuine armed beyond fashion bleak scissors hollow vanish nut";
+var mnemonic = "rib concert neglect viable cotton rhythm awesome infant interest wash birth dizzy";

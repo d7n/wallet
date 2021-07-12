@@ -1,1 +1,1 @@
-var mnemonic = "text ensure dial allow accuse public used museum screen tribe hood poet";
+var mnemonic = "spare kiss divert bonus alcohol stereo midnight bench gown veteran glue always";

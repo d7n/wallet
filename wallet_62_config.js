@@ -1,1 +1,1 @@
-var mnemonic = "stick slot exchange bless favorite blush into range stay home street enter";
+var mnemonic = "sing abstract flight burst teach window champion enact quick jungle target solid";

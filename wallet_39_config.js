@@ -1,1 +1,1 @@
-var mnemonic = "open gentle gain razor video theme excite evoke mad lumber wrap ready";
+var mnemonic = "auto nice pair favorite film ugly mercy main rabbit bundle hurt erode";

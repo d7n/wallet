@@ -1,1 +1,1 @@
-var mnemonic = "cloth essence outdoor hotel calm mind delay suffer bronze fame suspect theme";
+var mnemonic = "embrace update rough fan unlock trade time coil dice tiny behind segment";

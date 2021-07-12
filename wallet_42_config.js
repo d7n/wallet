@@ -1,1 +1,1 @@
-var mnemonic = "organ core cup basket silly thumb sense odor protect category volcano gallery";
+var mnemonic = "light board put weapon dream plunge finish tooth into emotion coil cruel";

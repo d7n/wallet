@@ -1,1 +1,1 @@
-var mnemonic = "girl sport can address addict during uniform edit food obscure human turn";
+var mnemonic = "wasp dirt armed alcohol business muffin answer direct spoil asset jealous escape";

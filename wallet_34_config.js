@@ -1,1 +1,1 @@
-var mnemonic = "glimpse item improve yard castle brief split legal trial lottery disagree bless";
+var mnemonic = "isolate ability blame bulk rhythm build onion wagon all whip debris eye";

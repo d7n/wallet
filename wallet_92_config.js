@@ -1,1 +1,1 @@
-var mnemonic = "struggle school skirt consider this labor pull code fly nominee siren library";
+var mnemonic = "treat scorpion bacon charge vacant zoo wrong live comic example wreck scrub";

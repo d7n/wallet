@@ -1,1 +1,1 @@
-var mnemonic = "damage area scare excite cactus message void thing square diet level bind";
+var mnemonic = "airport hockey swarm explain route olive caution country advice input approve second";

@@ -1,1 +1,1 @@
-var mnemonic = "educate flip tribe provide nest pulp vote opinion churn range bar party";
+var mnemonic = "alpha resemble era fan pumpkin asthma catch such bomb wagon city antenna";

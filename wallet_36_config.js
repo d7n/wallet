@@ -1,1 +1,1 @@
-var mnemonic = "vicious awesome toward lawsuit dad thrive film into accuse fog heavy stereo";
+var mnemonic = "indoor sail merry bamboo tent emerge rifle increase share prepare predict wink";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety rather until ostrich fuel frequent iron random dance provide mention life";
+var mnemonic = "emotion mutual tube furnace car toilet vocal parade shrug divorce actress ball";

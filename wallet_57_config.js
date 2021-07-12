@@ -1,1 +1,1 @@
-var mnemonic = "modify gossip talent nose suffer ethics season enforce ice jazz artist junk";
+var mnemonic = "resource next dumb wet blanket use adjust review long intact twelve wear";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle balance deputy clock sausage truth rain attack thunder seed reason usage";
+var mnemonic = "hurt use omit talk sport educate garlic city news quality gate rookie";

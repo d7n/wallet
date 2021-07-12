@@ -1,1 +1,1 @@
-var mnemonic = "opinion layer kind silly that figure adult deposit evidence place casual negative";
+var mnemonic = "stereo clip shrimp erase unit tuna defense gap pony enjoy disagree arm";

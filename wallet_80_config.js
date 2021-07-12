@@ -1,1 +1,1 @@
-var mnemonic = "grass ill absent female join daughter goddess miracle clerk search grocery divert";
+var mnemonic = "property host hold hair word valley step village lend glimpse fork jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "sock degree elevator rotate planet income evil boat risk cousin potato lucky";
+var mnemonic = "video video mango fish pond reform aerobic taste sauce describe bone enlist";

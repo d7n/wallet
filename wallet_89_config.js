@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur suit analyst miracle raise amused level color rather radio horror ticket";
+var mnemonic = "income deny else essence vendor snap cupboard attitude fly buffalo image daughter";

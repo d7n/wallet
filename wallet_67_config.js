@@ -1,1 +1,1 @@
-var mnemonic = "soon chuckle wet glass field awake twist help unique endorse toilet ramp";
+var mnemonic = "trip episode camp science palm dinosaur power movie ugly congress coconut alone";

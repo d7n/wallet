@@ -1,1 +1,1 @@
-var mnemonic = "era link hire soul ceiling polar regret unhappy shadow elevator buddy crop";
+var mnemonic = "snack panel lizard discover accuse weird plastic vibrant style cigar insane shy";

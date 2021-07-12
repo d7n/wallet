@@ -1,1 +1,1 @@
-var mnemonic = "maze day frozen choose social filter surprise peasant case medal boring arena";
+var mnemonic = "prosper pen moment wolf tortoise patch tongue wrestle outside whale follow budget";

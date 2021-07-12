@@ -1,1 +1,1 @@
-var mnemonic = "scale illegal toast wire away supreme patrol lend list velvet fossil home";
+var mnemonic = "explain coil sheriff rose buyer salt canyon pact member rapid nothing resemble";

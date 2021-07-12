@@ -1,1 +1,1 @@
-var mnemonic = "virtual live satoshi cart verify island friend display antique join book race";
+var mnemonic = "age harvest slender resemble sweet wheat argue renew neutral rhythm road menu";

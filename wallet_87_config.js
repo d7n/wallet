@@ -1,1 +1,1 @@
-var mnemonic = "online away soldier adult misery area valid library traffic bunker pact moon";
+var mnemonic = "young forward team street portion jump direct sunny artwork tip civil version";

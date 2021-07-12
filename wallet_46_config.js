@@ -1,1 +1,1 @@
-var mnemonic = "example sound fury entry fork amateur same maze kidney kiwi lyrics disease";
+var mnemonic = "oblige rebuild mask unveil alone friend cabin shy system shell cabbage ivory";

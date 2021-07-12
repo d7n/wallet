@@ -1,1 +1,1 @@
-var mnemonic = "casual spawn model ball reduce unveil beyond please chicken hub swallow select";
+var mnemonic = "cool prison chapter melt notice candy drop jump talent novel winter artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "program congress body weasel stadium book witness capital sugar yard casino brush";
+var mnemonic = "open clay mom chief great cash wall impact north film accuse below";

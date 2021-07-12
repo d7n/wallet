@@ -1,1 +1,1 @@
-var mnemonic = "quit antique region drum hammer parade prevent sick spirit thought gown visit";
+var mnemonic = "drive among dance fortune wish grant damage crash already script board song";

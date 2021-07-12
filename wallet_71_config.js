@@ -1,1 +1,1 @@
-var mnemonic = "advice affair amount grace discover flock rice viable refuse tube ladder turtle";
+var mnemonic = "inherit attract treat duck almost orbit common sure roof scout cigar assault";

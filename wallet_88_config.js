@@ -1,1 +1,1 @@
-var mnemonic = "level embody october build hello spatial faith dignity swift tired put cigar";
+var mnemonic = "excess monkey evoke chief diet model hockey pear amazing symbol run almost";

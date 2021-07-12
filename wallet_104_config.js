@@ -1,1 +1,1 @@
-var mnemonic = "kiwi swamp one bind drum display canyon draft share endorse bind exile";
+var mnemonic = "gas afraid put shock exist axis canyon electric south basket quote give";
