@@ -1,1 +1,1 @@
-var mnemonic = "bounce ask glance have patrol woman random leaf banana mom episode category";
+var mnemonic = "ranch remain awkward put super ranch scatter draw sure shift laptop worry";

@@ -1,1 +1,1 @@
-var mnemonic = "become cook time cattle labor universe opera leaf fix prosper skate high";
+var mnemonic = "flat trash accident chief slender cannon project west local pave couple weird";

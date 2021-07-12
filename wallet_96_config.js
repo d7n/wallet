@@ -1,1 +1,1 @@
-var mnemonic = "crop eternal jeans sort dice wife hammer family cheap cinnamon dress leaf";
+var mnemonic = "begin plastic reject bicycle survey deer left language will reveal talent still";

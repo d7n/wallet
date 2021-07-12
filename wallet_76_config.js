@@ -1,1 +1,1 @@
-var mnemonic = "answer shield priority final you ordinary nuclear can ginger rug valid piece";
+var mnemonic = "burst horse super pig gossip rain inmate fruit attract dragon jaguar cat";

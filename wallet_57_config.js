@@ -1,1 +1,1 @@
-var mnemonic = "believe prosper clown logic picnic child omit tray bunker avocado cancel dune";
+var mnemonic = "modify gossip talent nose suffer ethics season enforce ice jazz artist junk";

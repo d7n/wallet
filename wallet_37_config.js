@@ -1,1 +1,1 @@
-var mnemonic = "main cool census chicken again drink change inquiry combine cube scan spread";
+var mnemonic = "close prison educate spawn delay ensure abstract tone symbol grain because table";

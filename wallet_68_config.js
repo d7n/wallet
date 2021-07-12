@@ -1,1 +1,1 @@
-var mnemonic = "sponsor elegant already manage sound planet page stone mirror universe then roof";
+var mnemonic = "coach hope sell left slush galaxy stairs help label kidney vendor aware";

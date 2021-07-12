@@ -1,1 +1,1 @@
-var mnemonic = "electric film sting answer armor rapid unveil report risk because welcome promote";
+var mnemonic = "latin food mushroom random soup erosion picnic sound rich surge estate lawsuit";

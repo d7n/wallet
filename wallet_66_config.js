@@ -1,1 +1,1 @@
-var mnemonic = "switch skill fatal mammal sick foot budget chaos define bacon buddy excite";
+var mnemonic = "couple exhaust coral radio fat afford flip humble hero donate right creek";

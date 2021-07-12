@@ -1,1 +1,1 @@
-var mnemonic = "reject charge truck surge opinion pool bright domain weasel category must shrug";
+var mnemonic = "bullet peanut peanut witness patient squeeze scout wealth bread convince noise joy";

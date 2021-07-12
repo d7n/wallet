@@ -1,1 +1,1 @@
-var mnemonic = "among bind question creek dance impulse meadow heart kidney mother hold aim";
+var mnemonic = "spray fall minimum diagram verify half puppy tree perfect actor west occur";

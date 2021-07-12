@@ -1,1 +1,1 @@
-var mnemonic = "expand drip beyond whale talent wall material beauty now turkey enjoy offer";
+var mnemonic = "illness knee foil panda surge disorder turn fresh casual teach female extra";

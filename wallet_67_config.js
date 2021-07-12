@@ -1,1 +1,1 @@
-var mnemonic = "zero zone pink talk cliff position forum better answer measure step soft";
+var mnemonic = "soon chuckle wet glass field awake twist help unique endorse toilet ramp";

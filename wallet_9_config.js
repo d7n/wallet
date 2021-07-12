@@ -1,1 +1,1 @@
-var mnemonic = "vintage poet credit play voyage various copper present copy cereal kind width";
+var mnemonic = "source story family essay cook fan viable minimum then solution goat boring";

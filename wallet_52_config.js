@@ -1,1 +1,1 @@
-var mnemonic = "record remind obscure rocket spray act icon tuna symptom urban stock merge";
+var mnemonic = "kid boss magic answer lion burger nuclear write valve trash sail kid";

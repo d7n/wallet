@@ -1,1 +1,1 @@
-var mnemonic = "nephew dignity gather buzz aisle afraid venture shadow wonder phrase maple eagle";
+var mnemonic = "nice color finish confirm pony knife latin transfer wise thank burst belt";

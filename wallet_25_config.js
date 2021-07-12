@@ -1,1 +1,1 @@
-var mnemonic = "lend reason silver senior clarify horror document token situate rally height parrot";
+var mnemonic = "help rhythm trim drama chaos relief kiss hamster frame doll absurd hotel";

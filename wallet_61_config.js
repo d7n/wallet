@@ -1,1 +1,1 @@
-var mnemonic = "ticket sadness roof deputy panther artefact cloud list occur cause surface pass";
+var mnemonic = "always urban shove crisp opera wing twelve neither drive slab move ghost";

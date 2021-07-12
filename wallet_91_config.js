@@ -1,1 +1,1 @@
-var mnemonic = "analyst employ morning skull dune hollow trumpet whisper jewel wise speak grid";
+var mnemonic = "air orient hire wealth obvious kick derive dutch sand palm chronic bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "number buffalo memory rally square plunge crowd era kick toe shed repeat";
+var mnemonic = "casual spawn model ball reduce unveil beyond please chicken hub swallow select";

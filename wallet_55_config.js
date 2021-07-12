@@ -1,1 +1,1 @@
-var mnemonic = "fortune tenant pig future special reduce stuff lyrics pond action stadium bottom";
+var mnemonic = "action talk gap either never daring raccoon corn power bar chef process";

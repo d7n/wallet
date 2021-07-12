@@ -1,1 +1,1 @@
-var mnemonic = "inherit fluid slight obtain slogan health holiday job judge ceiling oppose snack";
+var mnemonic = "boss wide exclude fox dirt disorder section slab machine relief extend cereal";

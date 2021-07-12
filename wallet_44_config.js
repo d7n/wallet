@@ -1,1 +1,1 @@
-var mnemonic = "kidney seed bring sock strong snap ginger wife glad layer reform farm";
+var mnemonic = "human gaze west cradle shock mesh tortoise orange never behind chalk layer";

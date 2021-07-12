@@ -1,1 +1,1 @@
-var mnemonic = "false raccoon typical cube language left glare album march chair staff above";
+var mnemonic = "badge latin equal leg immune comfort lava pipe fragile mobile own execute";

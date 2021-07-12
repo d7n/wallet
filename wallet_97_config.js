@@ -1,1 +1,1 @@
-var mnemonic = "merit latin ship oppose soldier athlete real flash ghost tenant anxiety sustain";
+var mnemonic = "stuff web royal split business damage explain juice curtain oval toss shell";

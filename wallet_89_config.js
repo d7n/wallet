@@ -1,1 +1,1 @@
-var mnemonic = "aspect grant borrow program park merge donkey reveal cat oil obvious abuse";
+var mnemonic = "dinosaur suit analyst miracle raise amused level color rather radio horror ticket";

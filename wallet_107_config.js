@@ -1,1 +1,1 @@
-var mnemonic = "canvas ankle stairs sword leopard toss swear firm forest strike adjust hedgehog";
+var mnemonic = "better person minor brother pencil flag message total spy style film neutral";

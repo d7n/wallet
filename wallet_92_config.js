@@ -1,1 +1,1 @@
-var mnemonic = "virtual fantasy raw poet table bird poet convince envelope upgrade bunker duck";
+var mnemonic = "struggle school skirt consider this labor pull code fly nominee siren library";

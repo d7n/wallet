@@ -1,1 +1,1 @@
-var mnemonic = "plunge memory evil west bonus dish perfect embrace exhibit door vintage parent";
+var mnemonic = "hen person quiz member dolphin bicycle lens obvious vanish dream ridge raccoon";

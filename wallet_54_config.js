@@ -1,1 +1,1 @@
-var mnemonic = "maid high urge charge few empty install art salmon toward balcony inflict";
+var mnemonic = "young pitch glide grunt bar bread fragile proud rather text resemble express";

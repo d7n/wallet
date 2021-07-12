@@ -1,1 +1,1 @@
-var mnemonic = "hobby uniform crisp universe practice spawn rare lend way level seat bid";
+var mnemonic = "naive split kingdom adapt hybrid enroll village shove favorite depart corn enlist";

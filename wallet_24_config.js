@@ -1,1 +1,1 @@
-var mnemonic = "recall absurd infant vague play second liar ball lobster field post beef";
+var mnemonic = "clock wrap win manage baby memory smart give verb lecture leopard uncle";

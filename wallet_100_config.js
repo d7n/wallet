@@ -1,1 +1,1 @@
-var mnemonic = "prefer hamster diary page claw outer special kid decline emotion paper dwarf";
+var mnemonic = "exact core mammal fall stadium gentle relief fun chief initial cinnamon stable";

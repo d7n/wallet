@@ -1,1 +1,1 @@
-var mnemonic = "group normal possible bitter define tower wish pitch now dish approve dizzy";
+var mnemonic = "genius venture blade warrior tiny upgrade reflect escape brave want sniff veteran";

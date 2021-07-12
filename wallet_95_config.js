@@ -1,1 +1,1 @@
-var mnemonic = "hawk topic uphold arrest oyster corn either small rice kiss chapter order";
+var mnemonic = "shove peace prison broccoli dilemma already observe other birth glare evoke script";

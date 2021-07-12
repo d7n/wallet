@@ -1,1 +1,1 @@
-var mnemonic = "any approve burden spoil normal frown manual maze crisp twist excess chunk";
+var mnemonic = "easily hood refuse park tank rude advice thunder theme deliver soon warfare";

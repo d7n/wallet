@@ -1,1 +1,1 @@
-var mnemonic = "law doll devote digital flash muffin dance praise olive come tonight cargo";
+var mnemonic = "unhappy peasant drop goddess mercy together patch enemy legal faculty orchard scrub";

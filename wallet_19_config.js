@@ -1,1 +1,1 @@
-var mnemonic = "blame whip puppy course often recall account slim story wise once lumber";
+var mnemonic = "domain shaft liquid perfect journey ancient empty maid gentle candy earn vintage";

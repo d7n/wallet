@@ -1,1 +1,1 @@
-var mnemonic = "struggle kingdom whisper evolve result dog dizzy spirit spoon atom forest mouse";
+var mnemonic = "slam flee island gravity eyebrow brick where seed casual badge lobster emotion";

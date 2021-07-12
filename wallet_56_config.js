@@ -1,1 +1,1 @@
-var mnemonic = "steak neck guide pizza forum hard suggest reward rocket eyebrow believe run";
+var mnemonic = "mansion olympic unaware genuine armed beyond fashion bleak scissors hollow vanish nut";

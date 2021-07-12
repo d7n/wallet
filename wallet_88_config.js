@@ -1,1 +1,1 @@
-var mnemonic = "slender become ball iron chair rain rose harvest pudding spring action burden";
+var mnemonic = "level embody october build hello spatial faith dignity swift tired put cigar";

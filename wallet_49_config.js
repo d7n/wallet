@@ -1,1 +1,1 @@
-var mnemonic = "twelve snap shoot lobster raise unfair lift educate run tuition adult afraid";
+var mnemonic = "royal ability diamond puzzle toy atom sure news ahead kitchen achieve ranch";

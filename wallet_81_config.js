@@ -1,1 +1,1 @@
-var mnemonic = "viable pulse fatigue boy wide page sphere uncle slice puppy confirm weapon";
+var mnemonic = "cattle balance deputy clock sausage truth rain attack thunder seed reason usage";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply forget empower grab powder engage spawn party clarify beach moral empower";
+var mnemonic = "scale illegal toast wire away supreme patrol lend list velvet fossil home";

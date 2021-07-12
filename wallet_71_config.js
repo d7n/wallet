@@ -1,1 +1,1 @@
-var mnemonic = "zero kick never universe drop exclude time wife always maximum network craft";
+var mnemonic = "advice affair amount grace discover flock rice viable refuse tube ladder turtle";

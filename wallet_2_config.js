@@ -1,1 +1,1 @@
-var mnemonic = "grant slender right flame gravity tide poverty olympic wire unaware frame daughter";
+var mnemonic = "cloth essence outdoor hotel calm mind delay suffer bronze fame suspect theme";

@@ -1,1 +1,1 @@
-var mnemonic = "urban price blossom sketch gospel enemy project phone emotion oxygen silk final";
+var mnemonic = "damage area scare excite cactus message void thing square diet level bind";

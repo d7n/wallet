@@ -1,1 +1,1 @@
-var mnemonic = "agent float purity basket relief manual web rescue world silly laugh almost";
+var mnemonic = "dream guitar above target hint trade draft project endorse speak any pitch";

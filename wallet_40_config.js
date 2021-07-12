@@ -1,1 +1,1 @@
-var mnemonic = "course curious tenant because board soap arena engage case stable find window";
+var mnemonic = "ship census law hobby toast priority orchard talent talk ridge crowd narrow";

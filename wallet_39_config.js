@@ -1,1 +1,1 @@
-var mnemonic = "saddle coin priority fetch absent frost large employ random menu element south";
+var mnemonic = "open gentle gain razor video theme excite evoke mad lumber wrap ready";

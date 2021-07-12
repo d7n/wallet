@@ -1,1 +1,1 @@
-var mnemonic = "since cave zoo chest film reject beauty curve lab equip ski jacket";
+var mnemonic = "number box deliver salon swallow viable divert dice wonder kitchen trigger finish";

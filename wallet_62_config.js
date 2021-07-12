@@ -1,1 +1,1 @@
-var mnemonic = "usage off canyon oblige flat snap portion key pilot case rally cigar";
+var mnemonic = "stick slot exchange bless favorite blush into range stay home street enter";

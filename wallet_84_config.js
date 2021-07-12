@@ -1,1 +1,1 @@
-var mnemonic = "zoo service fringe safe decade catch ripple health public junior material rural";
+var mnemonic = "whale dolphin tourist fringe bamboo flock hawk average author reward urge state";

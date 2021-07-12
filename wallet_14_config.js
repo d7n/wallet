@@ -1,1 +1,1 @@
-var mnemonic = "upset muffin sight race jazz inhale stuff inmate what federal torch siren";
+var mnemonic = "artist robust setup cool glare sausage crunch buzz always crash badge door";

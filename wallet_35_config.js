@@ -1,1 +1,1 @@
-var mnemonic = "weird beauty sketch limb phrase tomorrow cannon execute crash elite control problem";
+var mnemonic = "virus sand lumber grief seven harbor member essay rigid topic raccoon flush";

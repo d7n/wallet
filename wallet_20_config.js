@@ -1,1 +1,1 @@
-var mnemonic = "file lazy place grocery coyote glass student drip guitar cloud boat lawn";
+var mnemonic = "churn clean hedgehog unique record grace sauce leader raise museum weird shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "omit simple eye grocery extra mountain property pistol arch spot radio prize";
+var mnemonic = "limit journey day dentist orient owner dry rifle pact april write all";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble fine input bomb expect blue nerve ranch witness resist latin diagram";
+var mnemonic = "exchange divide duck cement joke buddy trophy color detail urban wet pig";

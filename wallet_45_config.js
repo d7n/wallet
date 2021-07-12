@@ -1,1 +1,1 @@
-var mnemonic = "goddess tenant faith marble glove rent wheat simple core palm leg shed";
+var mnemonic = "push top since slab slim curtain leopard hundred vicious buyer display fire";

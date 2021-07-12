@@ -1,1 +1,1 @@
-var mnemonic = "about kit immune hill rare weird sauce team celery knife six steak";
+var mnemonic = "inside crime joy document vapor sword boring plug dinner warfare ranch camp";

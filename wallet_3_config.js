@@ -1,1 +1,1 @@
-var mnemonic = "blind worth physical author chimney lawn main crane bundle rapid follow spring";
+var mnemonic = "extend cradle faith citizen faculty grape together shop horse reopen already regular";

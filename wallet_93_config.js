@@ -1,1 +1,1 @@
-var mnemonic = "elegant tone hire episode process novel correct shine rabbit resemble forest chief";
+var mnemonic = "coil shine boil hurt snack sketch gate squirrel owner warm naive idle";

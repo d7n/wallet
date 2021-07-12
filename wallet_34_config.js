@@ -1,1 +1,1 @@
-var mnemonic = "spirit butter destroy process day lucky usage food topic flat veteran company";
+var mnemonic = "glimpse item improve yard castle brief split legal trial lottery disagree bless";

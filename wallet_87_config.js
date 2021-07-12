@@ -1,1 +1,1 @@
-var mnemonic = "amazing risk clever decrease toddler someone evolve frame team alarm screen spirit";
+var mnemonic = "online away soldier adult misery area valid library traffic bunker pact moon";

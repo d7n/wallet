@@ -1,1 +1,1 @@
-var mnemonic = "fire salmon couch topple magnet tunnel dog sausage buzz gesture flock wrap";
+var mnemonic = "girl sport can address addict during uniform edit food obscure human turn";

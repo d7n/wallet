@@ -1,1 +1,1 @@
-var mnemonic = "pull ceiling staff gold huge myth agree raise achieve violin toe please";
+var mnemonic = "grass ill absent female join daughter goddess miracle clerk search grocery divert";

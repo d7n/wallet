@@ -1,1 +1,1 @@
-var mnemonic = "gospel stamp runway laugh together hazard elder walk pigeon furnace velvet proud";
+var mnemonic = "quit antique region drum hammer parade prevent sick spirit thought gown visit";

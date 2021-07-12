@@ -1,1 +1,1 @@
-var mnemonic = "display piano gorilla capable file toward festival surge diesel change clock gate";
+var mnemonic = "maze day frozen choose social filter surprise peasant case medal boring arena";

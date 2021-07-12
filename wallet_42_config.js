@@ -1,1 +1,1 @@
-var mnemonic = "kitchen route setup soldier kitten mango wolf picture trade ribbon embrace arrest";
+var mnemonic = "organ core cup basket silly thumb sense odor protect category volcano gallery";

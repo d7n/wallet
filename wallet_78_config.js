@@ -1,1 +1,1 @@
-var mnemonic = "involve inject grant direct retreat final carpet vault region loyal print fork";
+var mnemonic = "patrol film pledge scissors action narrow then devote timber ivory before script";

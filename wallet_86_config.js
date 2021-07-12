@@ -1,1 +1,1 @@
-var mnemonic = "visit wealth length clump arena protect girl trap skill faith bind bar";
+var mnemonic = "tackle spin hedgehog autumn siren mesh juice elder inch bargain smile flame";

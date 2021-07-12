@@ -1,1 +1,1 @@
-var mnemonic = "badge design urge true enforce return glance wrong affair intact mimic achieve";
+var mnemonic = "opinion layer kind silly that figure adult deposit evidence place casual negative";

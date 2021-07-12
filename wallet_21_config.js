@@ -1,1 +1,1 @@
-var mnemonic = "shaft intact seek equip market simple earth lion icon camp rare space";
+var mnemonic = "hotel creek crouch excess moon shuffle rice divert join announce ride fossil";

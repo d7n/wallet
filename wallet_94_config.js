@@ -1,1 +1,1 @@
-var mnemonic = "march ten bamboo grunt assist stage tooth control guilt monster olive must";
+var mnemonic = "destroy pulp huge come check candy actual tip own educate grape song";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude flip thought amateur below female eight outer pact various limb pear";
+var mnemonic = "vicious awesome toward lawsuit dad thrive film into accuse fog heavy stereo";

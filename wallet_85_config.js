@@ -1,1 +1,1 @@
-var mnemonic = "tray group morning card enable soldier regret victory inner ridge suspect add";
+var mnemonic = "walnut pattern daughter menu vibrant birth oppose about quantum core south photo";

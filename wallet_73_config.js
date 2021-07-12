@@ -1,1 +1,1 @@
-var mnemonic = "right oven observe tail need toilet extra drama blade stadium symbol wood";
+var mnemonic = "dirt hold require cry knife chat inner flat there era salad vault";

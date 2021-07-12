@@ -1,1 +1,1 @@
-var mnemonic = "person sting child submit come wisdom dad embark blind shield reject ripple";
+var mnemonic = "era link hire soul ceiling polar regret unhappy shadow elevator buddy crop";

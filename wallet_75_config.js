@@ -1,1 +1,1 @@
-var mnemonic = "trumpet banana chronic globe holiday wave silver estate purchase approve unit word";
+var mnemonic = "method celery struggle brother imitate skate detect inform luggage curtain glove seed";

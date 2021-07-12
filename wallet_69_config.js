@@ -1,1 +1,1 @@
-var mnemonic = "better icon wash want wood kangaroo way file resemble depth pause machine";
+var mnemonic = "enforce zero process quiz post drop fruit prepare broom arrow glad artwork";

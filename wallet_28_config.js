@@ -1,1 +1,1 @@
-var mnemonic = "across sentence deny position interest pelican lens cruel abuse fiscal desert junior";
+var mnemonic = "cram harsh topic fine goddess gospel picnic announce people pilot twelve void";

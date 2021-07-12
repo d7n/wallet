@@ -1,1 +1,1 @@
-var mnemonic = "please elevator mouse output matrix grass rate own regret flag cruise fiber";
+var mnemonic = "virtual live satoshi cart verify island friend display antique join book race";

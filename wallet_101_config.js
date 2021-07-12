@@ -1,1 +1,1 @@
-var mnemonic = "invest point knee arrive craft hint birth lend call until image rate";
+var mnemonic = "screen clog toe special one test govern crisp interest true green wage";

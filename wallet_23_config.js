@@ -1,1 +1,1 @@
-var mnemonic = "bitter soccer addict drip lazy rural divide trust laugh village boring tone";
+var mnemonic = "joy narrow piano clown tone barrel wise excess half local distance start";
