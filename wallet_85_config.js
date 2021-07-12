@@ -1,1 +1,1 @@
-var mnemonic = "miracle little brief group reunion mask rice grit decorate bread grunt march";
+var mnemonic = "badge alley issue limb live wash vast bind grape garden expect meadow";

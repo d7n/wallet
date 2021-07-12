@@ -1,1 +1,1 @@
-var mnemonic = "rookie laundry black month about mansion average world world index harbor notice";
+var mnemonic = "blast lottery keen cycle hire network adapt shallow play walnut float fury";

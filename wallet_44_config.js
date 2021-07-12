@@ -1,1 +1,1 @@
-var mnemonic = "person stand borrow energy hip vacuum giraffe section chase slogan brisk jacket";
+var mnemonic = "traffic liberty giggle confirm enemy suffer position office judge alarm walk raw";

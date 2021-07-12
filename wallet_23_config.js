@@ -1,1 +1,1 @@
-var mnemonic = "know core write offer consider rubber sorry they dinosaur gate interest oblige";
+var mnemonic = "ride other clever present sail give they royal shuffle curve allow imitate";

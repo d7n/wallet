@@ -1,1 +1,1 @@
-var mnemonic = "struggle assume bright input manage inmate pretty dolphin tent laundry patrol satoshi";
+var mnemonic = "captain check bag habit champion health tobacco panel pencil diagram mosquito grace";

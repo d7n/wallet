@@ -1,1 +1,1 @@
-var mnemonic = "enjoy body inmate vibrant file bless phone rail together motor rib resource";
+var mnemonic = "bird weird horn opera profit thing click permit employ begin ceiling name";

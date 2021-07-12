@@ -1,1 +1,1 @@
-var mnemonic = "rapid glide cheap acoustic device plunge boy empty clown angry consider quantum";
+var mnemonic = "main snow ship stable photo depend shrimp diet spray bleak adjust sudden";

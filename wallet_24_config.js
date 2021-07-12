@@ -1,1 +1,1 @@
-var mnemonic = "meat helmet sentence language betray chapter feel dwarf wood inject jungle trash";
+var mnemonic = "cable excuse must crunch deputy boost close apart this item expire will";

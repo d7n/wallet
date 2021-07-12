@@ -1,1 +1,1 @@
-var mnemonic = "surface twenty false fiction fitness lunch first rotate extend demise lunar version";
+var mnemonic = "punch certain detect until rebuild duty strong worth dilemma twist art infant";

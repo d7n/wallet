@@ -1,1 +1,1 @@
-var mnemonic = "solar gift media vast person craft solve victory inhale nuclear lunar inquiry";
+var mnemonic = "dumb share mushroom march measure pair cargo cry fuel still gesture remove";

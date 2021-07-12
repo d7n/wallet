@@ -1,1 +1,1 @@
-var mnemonic = "obtain science nerve march grow point short fade fun loud song balcony";
+var mnemonic = "token because canyon father zoo shock gallery juice sight miracle chuckle pipe";

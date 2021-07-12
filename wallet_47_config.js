@@ -1,1 +1,1 @@
-var mnemonic = "comfort aerobic arena garden property check bundle fruit vast cute bike talk";
+var mnemonic = "wagon attract stairs romance surface noble weather maze theory nature skull example";

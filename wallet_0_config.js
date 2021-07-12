@@ -1,1 +1,1 @@
-var mnemonic = "dynamic airport old level garment possible chuckle blouse six humor talk shed";
+var mnemonic = "dog cram employ candy final yard world honey wife refuse damage two";

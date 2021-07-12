@@ -1,1 +1,1 @@
-var mnemonic = "surge crack tower fix sausage cash whale memory middle satisfy service shrimp";
+var mnemonic = "jewel disagree human amazing slow harvest pepper flower text anchor busy stereo";

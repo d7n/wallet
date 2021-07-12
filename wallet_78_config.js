@@ -1,1 +1,1 @@
-var mnemonic = "voyage grunt join much morning moon man lyrics broccoli left stock obey";
+var mnemonic = "annual onion diamond remember unfair industry beach plastic entire shift dinner theme";

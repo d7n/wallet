@@ -1,1 +1,1 @@
-var mnemonic = "nurse fire cycle mobile speak salon elevator ocean visit deliver excite reward";
+var mnemonic = "squirrel special obey sugar case melody vessel brass upon behind market evolve";

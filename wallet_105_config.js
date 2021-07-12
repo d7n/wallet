@@ -1,1 +1,1 @@
-var mnemonic = "bulk speak north gadget fatigue sweet milk taste hire system onion axis";
+var mnemonic = "shift empower summer seven attract melt inflict fly violin into early upon";

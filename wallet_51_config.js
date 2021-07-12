@@ -1,1 +1,1 @@
-var mnemonic = "rebel knock green suspect various grunt grocery ranch powder fog unusual about";
+var mnemonic = "whip risk hotel brand poet mushroom vicious enlist stay elevator off bamboo";

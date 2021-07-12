@@ -1,1 +1,1 @@
-var mnemonic = "smart point amount early access right quarter nut donkey panel immune luggage";
+var mnemonic = "sand tilt flush promote toilet fog stool view runway erase note purity";

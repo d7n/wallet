@@ -1,1 +1,1 @@
-var mnemonic = "weekend rib useless error edit pluck kiwi banana film trip depend twelve";
+var mnemonic = "hunt sponsor monster permit practice hedgehog during solid proud inner what genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "man depart disorder account lend pelican armed volcano below water fabric walk";
+var mnemonic = "busy industry dad mixture armed biology lady popular rocket glimpse crunch lamp";

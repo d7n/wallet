@@ -1,1 +1,1 @@
-var mnemonic = "reunion urge true glance visa dust link fiscal patient orphan butter duck";
+var mnemonic = "found slim similar potato pledge change civil attend trial random pioneer glare";

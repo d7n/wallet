@@ -1,1 +1,1 @@
-var mnemonic = "uncover pink bullet roof width awesome luxury approve detail square insect floor";
+var mnemonic = "skirt budget short among scorpion trophy survey season tumble meadow luxury live";

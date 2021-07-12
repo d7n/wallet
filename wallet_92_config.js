@@ -1,1 +1,1 @@
-var mnemonic = "axis example nephew aisle magnet ahead unfair laptop swallow chief educate case";
+var mnemonic = "spatial rescue strong ice brown trust cost vacuum icon atom find crazy";

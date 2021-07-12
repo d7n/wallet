@@ -1,1 +1,1 @@
-var mnemonic = "icon now enlist limb island obey surprise endorse believe asthma motion brass";
+var mnemonic = "absorb bonus fix top advice trip truly funny blur maple rocket film";

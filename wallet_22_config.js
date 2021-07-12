@@ -1,1 +1,1 @@
-var mnemonic = "drastic ginger bridge cannon glide adapt rug jacket squirrel scan purchase cricket";
+var mnemonic = "purchase credit spy cigar culture throw ocean ancient insane oyster prison inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce convince current wheat banana allow farm day suggest emotion media valley";
+var mnemonic = "slender pumpkin resemble shrimp battle join impact dragon game mansion permit result";

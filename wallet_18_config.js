@@ -1,1 +1,1 @@
-var mnemonic = "trash history lava boss detect draw coach aspect middle alcohol cushion silver";
+var mnemonic = "more already title winter swear clever water federal mountain exhibit inflict parade";

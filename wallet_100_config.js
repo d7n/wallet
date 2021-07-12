@@ -1,1 +1,1 @@
-var mnemonic = "vibrant weekend shy easily plastic biology demand whisper laptop dizzy gather bulk";
+var mnemonic = "sport argue hollow vicious act donate rate domain coral stable puppy produce";

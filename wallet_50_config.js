@@ -1,1 +1,1 @@
-var mnemonic = "skirt genius meat egg other fluid ridge visa certain ripple slot adapt";
+var mnemonic = "library actor latin entry expand unlock foam surge burst library fabric surge";

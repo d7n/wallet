@@ -1,1 +1,1 @@
-var mnemonic = "expose ticket age light bench village wing alien chat tide envelope extra";
+var mnemonic = "blue rigid type mimic arctic shop swamp vintage small zero network clarify";

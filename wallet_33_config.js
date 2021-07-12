@@ -1,1 +1,1 @@
-var mnemonic = "athlete toe better interest genre foot pipe float scene wrist analyst begin";
+var mnemonic = "science rapid slam cheap inner because predict liquid smart diesel physical giant";

@@ -1,1 +1,1 @@
-var mnemonic = "reward tattoo lecture afford call never super borrow hawk prison innocent rich";
+var mnemonic = "sugar comic once unable noise blanket three course silver scatter vehicle already";

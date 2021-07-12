@@ -1,1 +1,1 @@
-var mnemonic = "arena join stumble tired puppy twin mandate market thing shaft autumn wasp";
+var mnemonic = "pulp daring hire soap tenant abstract describe pattern salt nest tongue oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty scare beef actor spell dizzy appear sad soup equip erase oxygen";
+var mnemonic = "pave puppy wait copper hat pride ostrich seek corn tomorrow hope lock";

@@ -1,1 +1,1 @@
-var mnemonic = "found possible call manual helmet render fruit scatter friend unable donate river";
+var mnemonic = "copper maze bottom home brief grain wool recall balcony catch reunion useless";

@@ -1,1 +1,1 @@
-var mnemonic = "someone chat reform mystery improve lamp sister snake ankle salute glad friend";
+var mnemonic = "toss more year fog dial east limb beach glide cart flock various";

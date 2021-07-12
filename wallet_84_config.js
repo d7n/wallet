@@ -1,1 +1,1 @@
-var mnemonic = "manage bomb analyst castle pledge suffer solution shy immune begin raise sunset";
+var mnemonic = "elephant memory clip amateur shift scene relax weasel symptom price invite company";

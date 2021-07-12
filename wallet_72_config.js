@@ -1,1 +1,1 @@
-var mnemonic = "arrange abandon scare eye south blur edge sword shift sing never forward";
+var mnemonic = "other sketch fancy volcano develop laugh harsh journey strong stage since inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "file warm foil vast anxiety what course level affair series bunker sudden";
+var mnemonic = "actor trim text taxi exact pipe carbon monitor rotate universe destroy into";

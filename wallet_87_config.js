@@ -1,1 +1,1 @@
-var mnemonic = "good pluck mail giraffe love giggle quarter plate boil electric cat veteran";
+var mnemonic = "uniform into save mobile degree yard elevator limit animal panel afford buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "solution term bike impact pave rocket repair warm faint outdoor armor raise";
+var mnemonic = "moment outside injury drum shiver share alien skate income cancel catch pass";

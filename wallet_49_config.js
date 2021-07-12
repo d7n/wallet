@@ -1,1 +1,1 @@
-var mnemonic = "leg lunch poet woman summer faith behind unfair nurse toilet thunder young";
+var mnemonic = "company toast resource talk regret manual lyrics winner piece know use input";

@@ -1,1 +1,1 @@
-var mnemonic = "despair cherry million kind tackle coffee calm sure plunge lobster garlic feel";
+var mnemonic = "force tumble peace climb unknown moment local modify mass reflect vessel enter";

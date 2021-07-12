@@ -1,1 +1,1 @@
-var mnemonic = "bachelor run mushroom odor enter feature pumpkin convince basket company pulse stamp";
+var mnemonic = "planet offer safe predict jelly tool switch obtain cup economy ten raise";

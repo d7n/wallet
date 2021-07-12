@@ -1,1 +1,1 @@
-var mnemonic = "uncle detect brisk what satoshi aunt frame turkey sail almost bonus route";
+var mnemonic = "jungle stay apology bitter assault stay penalty gentle merry goddess pipe pupil";

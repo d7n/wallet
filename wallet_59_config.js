@@ -1,1 +1,1 @@
-var mnemonic = "wage season honey zero hat such earth arm found that doll senior";
+var mnemonic = "flee indicate knee accuse business fame away recycle today ghost retire champion";

@@ -1,1 +1,1 @@
-var mnemonic = "glue whale couch pole tag alpha phone use fun caught virtual stand";
+var mnemonic = "uncover great cinnamon glove wear diagram drill expose shine master trim vast";

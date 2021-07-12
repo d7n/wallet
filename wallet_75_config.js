@@ -1,1 +1,1 @@
-var mnemonic = "business weird agent father festival dice panda candy feature vacuum pioneer situate";
+var mnemonic = "enact gravity champion very video orient fade cattle buffalo wet head barely";

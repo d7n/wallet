@@ -1,1 +1,1 @@
-var mnemonic = "crowd broccoli snake festival injury circle festival absent muffin ability neutral average";
+var mnemonic = "local clip maze boil two kind brown company device happy junior silver";

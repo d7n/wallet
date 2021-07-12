@@ -1,1 +1,1 @@
-var mnemonic = "gap cradle actor risk airport heart oblige used enact moral alter index";
+var mnemonic = "often hungry buddy caution core rug soda wide puzzle cushion pencil scan";

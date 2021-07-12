@@ -1,1 +1,1 @@
-var mnemonic = "cat advance ribbon oil poem dolphin change try awesome average toast model";
+var mnemonic = "ladder process cliff liquid drama sibling palm scare often maze nurse produce";

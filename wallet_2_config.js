@@ -1,1 +1,1 @@
-var mnemonic = "mammal actress clinic raise afraid zebra minute swamp frame bullet will amateur";
+var mnemonic = "asthma police hard improve approve shiver antenna grape disease erase axis spray";

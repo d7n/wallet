@@ -1,1 +1,1 @@
-var mnemonic = "paper burden anchor copper civil actor cook layer ask cradle illness ship";
+var mnemonic = "lobster quality employ adjust under art false chuckle sign cheap fish wife";

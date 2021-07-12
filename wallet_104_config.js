@@ -1,1 +1,1 @@
-var mnemonic = "ticket potato picture fault truth input marriage grid garment vendor remember stand";
+var mnemonic = "shy soup install observe upper duty weird shy aspect coach actual when";

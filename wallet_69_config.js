@@ -1,1 +1,1 @@
-var mnemonic = "require fork answer bar easily stamp forum degree youth enhance toast angry";
+var mnemonic = "parrot arrow rug kitchen edge mobile proof auto beef umbrella arena call";

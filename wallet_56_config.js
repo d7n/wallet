@@ -1,1 +1,1 @@
-var mnemonic = "diet record scare street raccoon vapor exhibit upper gym huge session know";
+var mnemonic = "youth lecture luxury square doll fabric hello guide victory clarify still gauge";

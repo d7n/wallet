@@ -1,1 +1,1 @@
-var mnemonic = "throw pass joke stamp vast easy online satisfy thrive seven because total";
+var mnemonic = "radio language accident rib fish bachelor busy buddy van talk rural media";

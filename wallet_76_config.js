@@ -1,1 +1,1 @@
-var mnemonic = "find glance artwork economy urban upon box market cool sure basic dog";
+var mnemonic = "keen switch true brain notice anger town regret afraid hour blood emotion";

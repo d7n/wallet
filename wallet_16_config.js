@@ -1,1 +1,1 @@
-var mnemonic = "chapter reveal industry empty atom dumb recipe today wrap coyote glue acoustic";
+var mnemonic = "enemy illegal digital combine believe enemy color stumble cancel intact member blanket";

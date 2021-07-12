@@ -1,1 +1,1 @@
-var mnemonic = "razor kitchen chef letter firm ostrich choose leisure fee dwarf depend pattern";
+var mnemonic = "average bicycle opera young behave cushion two trust liquid nest require permit";

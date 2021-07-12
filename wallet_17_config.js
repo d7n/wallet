@@ -1,1 +1,1 @@
-var mnemonic = "couch science noble paddle believe aerobic hamster pave possible funny author hill";
+var mnemonic = "youth exercise risk rubber square order scrub clarify tide achieve nature opinion";

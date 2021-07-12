@@ -1,1 +1,1 @@
-var mnemonic = "carbon bunker feed bid noble great salt mosquito yellow food shed tired";
+var mnemonic = "clerk please banner embark helmet embody coyote clap park level slide frown";

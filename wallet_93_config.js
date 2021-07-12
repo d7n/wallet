@@ -1,1 +1,1 @@
-var mnemonic = "foil begin grape mimic canal matrix beauty rely fix patch clock risk";
+var mnemonic = "bachelor space crisp void eye morning burden issue snake refuse vital violin";

@@ -1,1 +1,1 @@
-var mnemonic = "short virtual notice sail announce across buzz churn fetch smoke pupil rotate";
+var mnemonic = "truck whale endless slot twice father inspire tray balcony invest soldier guess";

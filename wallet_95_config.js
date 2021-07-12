@@ -1,1 +1,1 @@
-var mnemonic = "gadget aisle brother sausage pear cherry cloud village idle they sunset wide";
+var mnemonic = "gospel cradle will rapid cat umbrella symbol local heavy wrist pitch honey";

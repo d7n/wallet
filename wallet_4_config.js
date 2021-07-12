@@ -1,1 +1,1 @@
-var mnemonic = "donor brand poet view earth oak moon sword feel neither hurdle lift";
+var mnemonic = "height method tray time upset bamboo control amazing carbon rib tenant brain";

@@ -1,1 +1,1 @@
-var mnemonic = "clap eyebrow misery casino jacket twist crush position arm crouch hockey month";
+var mnemonic = "grid differ wedding width action turkey asset better check wrap meadow green";

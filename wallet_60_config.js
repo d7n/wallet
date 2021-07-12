@@ -1,1 +1,1 @@
-var mnemonic = "enact hat antenna design appear lottery scan elegant trumpet scheme nurse bleak";
+var mnemonic = "rally noble lesson promote click habit either alone shoulder bundle explain cloud";

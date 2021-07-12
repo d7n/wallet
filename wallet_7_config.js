@@ -1,1 +1,1 @@
-var mnemonic = "potato crucial tone abandon party weasel bachelor under vote prefer borrow pretty";
+var mnemonic = "romance master draw blush fresh avocado symbol glove arm moon payment local";

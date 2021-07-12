@@ -1,1 +1,1 @@
-var mnemonic = "response shoulder syrup vote deer key album pledge juice skill deliver cost";
+var mnemonic = "inform barely observe judge trumpet lamp foil female time special note hold";

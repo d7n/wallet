@@ -1,1 +1,1 @@
-var mnemonic = "symptom cable leopard under heavy north salt guide trip damage series almost";
+var mnemonic = "later amazing then lava possible symbol blame mushroom crucial museum govern bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic differ fresh version traffic cargo possible slush monster unable kid cinnamon";
+var mnemonic = "vibrant mosquito blind elder junk vessel drill garlic luxury kingdom worry purpose";

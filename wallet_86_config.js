@@ -1,1 +1,1 @@
-var mnemonic = "coral cheap text flavor tiny goat gallery include staff update bone fold";
+var mnemonic = "junior ball office cup cruel unveil journey discover favorite ordinary adapt rival";

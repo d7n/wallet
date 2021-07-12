@@ -1,1 +1,1 @@
-var mnemonic = "alter student shiver amount draft person grow weasel kid spoon bean ocean";
+var mnemonic = "owner wonder actress other general wonder forward actor swap frog auction grit";

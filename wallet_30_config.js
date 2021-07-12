@@ -1,1 +1,1 @@
-var mnemonic = "coral stand soul young sail drama ordinary predict cabbage grocery design burden";
+var mnemonic = "carry vanish dad segment secret hockey opinion orphan festival bacon pizza vital";

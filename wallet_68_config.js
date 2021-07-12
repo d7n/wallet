@@ -1,1 +1,1 @@
-var mnemonic = "industry talent hole bar cart monkey wire term person recall roast rib";
+var mnemonic = "flock negative occur decide easily melody net orchard harvest coral urge trust";

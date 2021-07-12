@@ -1,1 +1,1 @@
-var mnemonic = "helmet slogan turkey fix napkin ghost leopard magnet fish carry dentist mechanic";
+var mnemonic = "bacon middle borrow second video similar business canvas fish panther elephant blind";

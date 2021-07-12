@@ -1,1 +1,1 @@
-var mnemonic = "spice hedgehog learn enemy weasel lake avocado sausage power fog lawn radar";
+var mnemonic = "filter detail amazing brief grain vapor diamond jar immense expire echo unhappy";

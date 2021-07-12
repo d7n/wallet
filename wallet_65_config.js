@@ -1,1 +1,1 @@
-var mnemonic = "erase amused miracle wonder fade total nominee phone loyal feel excite eyebrow";
+var mnemonic = "jump raven unique mistake negative race abstract mail entire autumn embrace cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "shock confirm term father into donkey story steel fork gold galaxy wagon";
+var mnemonic = "defy moral reopen oil oven tail render speed copy muffin actual gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "glad update pool worth nerve theory retreat embrace humor spawn obey arrive";
+var mnemonic = "disorder captain dove wool review client expose system gadget put art two";

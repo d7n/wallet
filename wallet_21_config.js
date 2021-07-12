@@ -1,1 +1,1 @@
-var mnemonic = "puppy cloth harbor country dawn shaft hello vessel throw spring dawn relief";
+var mnemonic = "evoke aunt album decide knife arrange win napkin oak ancient artist pair";

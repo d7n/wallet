@@ -1,1 +1,1 @@
-var mnemonic = "foot primary option beach jacket slush flag bone blame solid source rubber";
+var mnemonic = "perfect angle smart tattoo tourist runway ignore warm hospital eternal admit include";

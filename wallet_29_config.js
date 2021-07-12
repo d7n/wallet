@@ -1,1 +1,1 @@
-var mnemonic = "always dentist episode cook rare frame butter phone curve laundry wolf slim";
+var mnemonic = "phrase close daring foster height hover wild crew visit nest garment final";

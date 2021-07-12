@@ -1,1 +1,1 @@
-var mnemonic = "detect glance melody surround craft wet crouch woman age impose inside sadness";
+var mnemonic = "muffin fever rate jaguar virus fringe skin peanut together census nut name";

@@ -1,1 +1,1 @@
-var mnemonic = "plug enjoy bachelor remove rate february call lock exile clay element effort";
+var mnemonic = "another reject upper tortoise virtual tomato grass kite sock enough steel leave";

@@ -1,1 +1,1 @@
-var mnemonic = "polar miracle pattern balcony demand return chaos recycle clever craft flight address";
+var mnemonic = "monster wonder rate clever mom child borrow van steak wrong shove fossil";

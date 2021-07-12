@@ -1,1 +1,1 @@
-var mnemonic = "argue submit space panic acquire fuel foster angle vocal cousin opera special";
+var mnemonic = "olympic ticket few end tornado squirrel circle vast robot jacket thrive harsh";

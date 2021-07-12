@@ -1,1 +1,1 @@
-var mnemonic = "spend better village know fall scale idea trouble alert equip gorilla cigar";
+var mnemonic = "glide margin latin unlock toddler physical visit link crime buzz forum inquiry";

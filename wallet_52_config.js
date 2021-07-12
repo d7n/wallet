@@ -1,1 +1,1 @@
-var mnemonic = "convince super finish welcome glimpse shock horse room color nasty tail hour";
+var mnemonic = "what work result day unaware window fetch settle sorry sample dune tide";

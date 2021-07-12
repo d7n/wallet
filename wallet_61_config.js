@@ -1,1 +1,1 @@
-var mnemonic = "just upper whisper unveil allow crop also front gesture alert old plug";
+var mnemonic = "treat siege what fetch green energy will virtual expect idle omit title";

@@ -1,1 +1,1 @@
-var mnemonic = "tide plunge include day will client ceiling picnic spend dirt cinnamon recall";
+var mnemonic = "during setup floor decade relax elite act fatigue myself below lobster blush";

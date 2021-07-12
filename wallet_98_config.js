@@ -1,1 +1,1 @@
-var mnemonic = "east ritual bounce case dial unusual inject frozen obscure series ride concert";
+var mnemonic = "myth wise holiday gas where divide casino quality tomorrow boost zoo mixture";
