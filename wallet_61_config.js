@@ -1,1 +1,1 @@
-var mnemonic = "fever resource valley puzzle laugh arm car cruel warrior ribbon ship load";
+var mnemonic = "very rude cattle inquiry quit allow reward fresh oven begin shaft agree";

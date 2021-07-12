@@ -1,1 +1,1 @@
-var mnemonic = "arrive carry bonus muscle talent twice swarm bullet note right stereo fancy";
+var mnemonic = "leopard barrel stick narrow raw steel shine fan festival eternal female disorder";

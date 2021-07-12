@@ -1,1 +1,1 @@
-var mnemonic = "result asthma dance lawsuit exhaust cheese exhaust radio love grant energy goddess";
+var mnemonic = "also stage fiscal airport venture render reunion rotate antenna valve exclude rally";

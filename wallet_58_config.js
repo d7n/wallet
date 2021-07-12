@@ -1,1 +1,1 @@
-var mnemonic = "fantasy hole window camp popular myth cross actor screen face trigger exit";
+var mnemonic = "crawl pause crystal property ripple film space process auto tortoise situate pilot";

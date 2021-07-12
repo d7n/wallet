@@ -1,1 +1,1 @@
-var mnemonic = "decorate soul sort feature brush emotion behind talent transfer december tonight begin";
+var mnemonic = "mistake winter blind region bench gospel foster conduct impulse below palm absent";

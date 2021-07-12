@@ -1,1 +1,1 @@
-var mnemonic = "tower almost will able exchange clump card idle mystery vibrant canvas sample";
+var mnemonic = "renew small planet remove deny rich define better exotic ahead vivid observe";

@@ -1,1 +1,1 @@
-var mnemonic = "cause again borrow tomorrow year prosper all happy evidence latin rally good";
+var mnemonic = "region story school plastic moon lumber real version satoshi gasp judge whisper";

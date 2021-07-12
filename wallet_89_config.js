@@ -1,1 +1,1 @@
-var mnemonic = "shop spring blind country genuine weather find secret latin poet tube patch";
+var mnemonic = "inform february pyramid juice flame guess heavy process alcohol focus brain soup";

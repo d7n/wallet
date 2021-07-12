@@ -1,1 +1,1 @@
-var mnemonic = "pigeon clever execute social odor mention science survey stove oval office thrive";
+var mnemonic = "round brand brain anchor jewel market pig attitude moon hunt visual rival";

@@ -1,1 +1,1 @@
-var mnemonic = "notable arrow invite fire lucky relax black summer camera world sugar unfold";
+var mnemonic = "bulk wrist payment purity domain design custom salt knife metal effort dog";

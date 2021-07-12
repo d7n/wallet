@@ -1,1 +1,1 @@
-var mnemonic = "dial fiction diamond frost category deputy promote budget legal arrest merit people";
+var mnemonic = "glass snap travel betray taxi display desk coach pizza learn decorate steak";

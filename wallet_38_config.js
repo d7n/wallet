@@ -1,1 +1,1 @@
-var mnemonic = "list mobile call claim rhythm control panther sting pulp market innocent trigger";
+var mnemonic = "cherry meat summer walnut shop venture veteran topic onion slim talent deputy";

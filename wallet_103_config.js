@@ -1,1 +1,1 @@
-var mnemonic = "little render false scrub provide upset noise owner alpha invite little laugh";
+var mnemonic = "tape inside ski echo wage render wood foot level render unlock leisure";

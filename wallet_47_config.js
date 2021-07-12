@@ -1,1 +1,1 @@
-var mnemonic = "tower echo history kangaroo rebuild pig weasel warfare fiber blush bamboo brain";
+var mnemonic = "march toast end crane family rely dice desert switch scissors cat van";

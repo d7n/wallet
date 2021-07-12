@@ -1,1 +1,1 @@
-var mnemonic = "fabric aware test sadness valid label worry raven image attack match general";
+var mnemonic = "embody ignore address insane diet mystery machine twist manage replace inhale horror";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle chest dog then very magic canal click shy prefer finger include";
+var mnemonic = "inside hat crash enrich happy present segment twice offer please upon wet";

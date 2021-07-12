@@ -1,1 +1,1 @@
-var mnemonic = "peace someone usual anger electric action sadness deputy lab hobby adapt woman";
+var mnemonic = "mean thing jump ready silk between zero exile galaxy inmate east seat";

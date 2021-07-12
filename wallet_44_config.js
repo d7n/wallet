@@ -1,1 +1,1 @@
-var mnemonic = "goose tiny resemble carry brass brand fade rule loop nephew welcome hidden";
+var mnemonic = "shock trial they come actor army double dragon banana few can galaxy";

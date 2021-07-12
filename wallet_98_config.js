@@ -1,1 +1,1 @@
-var mnemonic = "buddy alter tonight valve release version puzzle tiger penalty faint true mail";
+var mnemonic = "timber drip rookie someone letter used basic boat mean sign topic warrior";

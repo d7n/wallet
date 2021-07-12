@@ -1,1 +1,1 @@
-var mnemonic = "object auction mixture height diary roast lawsuit dash error junior design weapon";
+var mnemonic = "basic stable pledge one yard poem fossil despair vessel budget equip sign";

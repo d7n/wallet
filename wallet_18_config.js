@@ -1,1 +1,1 @@
-var mnemonic = "blue weird force leave uphold cabbage protect upper forest eight biology steak";
+var mnemonic = "want key banner achieve clown buffalo slender flag rescue oval friend one";

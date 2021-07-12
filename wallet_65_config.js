@@ -1,1 +1,1 @@
-var mnemonic = "hurdle actual skill lucky okay bargain few differ wide school inside surprise";
+var mnemonic = "crisp curtain volcano scorpion antique fix this ignore about region culture awesome";

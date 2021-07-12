@@ -1,1 +1,1 @@
-var mnemonic = "stereo permit anger episode genuine obey soon hurt ticket muscle choose loan";
+var mnemonic = "victory swift favorite duck assume tag stove tag husband suggest frequent robot";

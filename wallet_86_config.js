@@ -1,1 +1,1 @@
-var mnemonic = "summer galaxy edge vast winner bacon lunar abandon venue gloom approve amused";
+var mnemonic = "embark slam knee short rough disorder rebuild you tail dolphin onion garden";

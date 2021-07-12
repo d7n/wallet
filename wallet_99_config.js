@@ -1,1 +1,1 @@
-var mnemonic = "monster depth palace mandate similar hotel coconut flush vendor all task erupt";
+var mnemonic = "isolate pyramid brain goat number fiction item caught excess orphan choice labor";

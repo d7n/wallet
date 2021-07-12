@@ -1,1 +1,1 @@
-var mnemonic = "man target hundred direct angry bomb badge fury lava deputy drip survey";
+var mnemonic = "deny disagree civil pair myth diet issue lock announce cute festival outer";

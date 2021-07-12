@@ -1,1 +1,1 @@
-var mnemonic = "help either uncover dose accident host dignity garlic follow question eternal speed";
+var mnemonic = "tourist shaft other high general edge ivory today welcome bacon able order";

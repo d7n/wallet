@@ -1,1 +1,1 @@
-var mnemonic = "horror twin february grape list renew ghost piece student sting sign list";
+var mnemonic = "tent until syrup float rhythm carbon refuse drum speak fade combine denial";

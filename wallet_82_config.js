@@ -1,1 +1,1 @@
-var mnemonic = "stand casual urge right film sponsor copper voice vital eye act weasel";
+var mnemonic = "jeans abuse supply fix cycle track rare salute crime else happy despair";

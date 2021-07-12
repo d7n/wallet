@@ -1,1 +1,1 @@
-var mnemonic = "neither genuine cute happy shoot tip ankle address pelican season seed coil";
+var mnemonic = "clown camp hundred coach tooth fortune riot retreat uphold fantasy country gain";

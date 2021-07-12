@@ -1,1 +1,1 @@
-var mnemonic = "keep myth evil inspire hello alpha dismiss style sport rack retire tip";
+var mnemonic = "liquid swallow nose lazy possible mandate ball garage attitude regret defense cigar";

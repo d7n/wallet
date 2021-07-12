@@ -1,1 +1,1 @@
-var mnemonic = "pioneer next charge want blast bitter badge machine source spike riot hire";
+var mnemonic = "impose pride banana common oak ten bring scatter night start appear seminar";

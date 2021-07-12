@@ -1,1 +1,1 @@
-var mnemonic = "delay scout again crucial blame merit sell position crisp client panda infant";
+var mnemonic = "good stone galaxy tiger measure divide egg true yard run sudden diary";

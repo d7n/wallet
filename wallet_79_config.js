@@ -1,1 +1,1 @@
-var mnemonic = "coconut patient trim trophy accuse seed devote output legend afraid organ garbage";
+var mnemonic = "cycle fly powder vicious wheat eternal position exhibit syrup snap relief fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy industry allow athlete minimum isolate outdoor kit pill agree example scheme";
+var mnemonic = "husband planet guide people recall rescue coin cluster ability wet game advice";

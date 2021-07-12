@@ -1,1 +1,1 @@
-var mnemonic = "super taxi chapter tenant season isolate ignore grain banner success tide siege";
+var mnemonic = "front recycle fashion proof spice million proud elegant awake cup bean alien";

@@ -1,1 +1,1 @@
-var mnemonic = "invest blur tray genre shift entry fix mind above pen broccoli blossom";
+var mnemonic = "slab duck thunder stage put sun shadow oil discover project stereo tennis";

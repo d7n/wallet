@@ -1,1 +1,1 @@
-var mnemonic = "immune sick abandon hunt bench over strong lift frame thank lumber vanish";
+var mnemonic = "hat quote shock confirm aim addict loan detect reunion struggle coyote ring";

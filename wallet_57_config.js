@@ -1,1 +1,1 @@
-var mnemonic = "model scatter trial weapon tool express release picture father someone mansion gorilla";
+var mnemonic = "learn frown special extra achieve modify much answer cave column upgrade clip";

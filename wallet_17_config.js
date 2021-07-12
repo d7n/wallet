@@ -1,1 +1,1 @@
-var mnemonic = "oven sunset frequent seven library leader snake section hair cross brother wide";
+var mnemonic = "involve snap certain boss try trip trip north present reform dirt bring";

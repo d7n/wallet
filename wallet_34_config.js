@@ -1,1 +1,1 @@
-var mnemonic = "awake cream dance there seminar gold improve open vault ribbon rifle venue";
+var mnemonic = "marble stuff raise ozone silk evoke powder defense black grace pass vital";

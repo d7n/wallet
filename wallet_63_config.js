@@ -1,1 +1,1 @@
-var mnemonic = "upset attack crisp direct ecology fall wide february approve chalk swallow album";
+var mnemonic = "wrist toy neglect share essence uphold echo music below video team adjust";

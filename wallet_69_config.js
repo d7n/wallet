@@ -1,1 +1,1 @@
-var mnemonic = "slight curious dial utility knock comfort love ghost drama plug purity smart";
+var mnemonic = "master prison obscure crucial battle margin mango among aisle hire renew potato";

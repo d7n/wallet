@@ -1,1 +1,1 @@
-var mnemonic = "hazard cross opera vapor primary middle cruel pistol result fossil mouse hen";
+var mnemonic = "knife lawsuit section couch scout fatigue forest circle creek awesome abuse upset";

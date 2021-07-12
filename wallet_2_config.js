@@ -1,1 +1,1 @@
-var mnemonic = "arena shuffle raise female omit lemon baby dumb mammal dismiss profit impact";
+var mnemonic = "spare world embody solve program museum uncle royal kangaroo rival empower title";

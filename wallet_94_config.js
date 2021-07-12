@@ -1,1 +1,1 @@
-var mnemonic = "glance three garden north clerk ill finish husband sentence bean drum essay";
+var mnemonic = "fever pigeon park number position window shop proud vicious deal brain immense";

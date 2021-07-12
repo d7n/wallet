@@ -1,1 +1,1 @@
-var mnemonic = "bring parent shell mind paper hazard cactus any cake memory twist strike";
+var mnemonic = "endorse fiber bubble size main supply three eternal coast ability merge venture";

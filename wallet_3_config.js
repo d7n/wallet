@@ -1,1 +1,1 @@
-var mnemonic = "cheese type dynamic grunt violin asset hobby tool because like hundred galaxy";
+var mnemonic = "april dawn strategy teach orbit thing orange poem pluck swing oblige admit";

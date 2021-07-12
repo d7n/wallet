@@ -1,1 +1,1 @@
-var mnemonic = "whip bean friend install acid flavor goat swarm popular exile random stable";
+var mnemonic = "hawk civil fantasy push tumble elbow claim cattle galaxy erupt calm soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar space uncover mind toss one cotton finger enforce habit coconut chunk";
+var mnemonic = "breeze trim assault culture imitate giant leg extra supply fan slogan aunt";

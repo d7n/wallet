@@ -1,1 +1,1 @@
-var mnemonic = "cart inhale setup nothing squirrel core snow local asthma robot sadness ring";
+var mnemonic = "mosquito sail end energy lucky iron area slam space charge gold peanut";

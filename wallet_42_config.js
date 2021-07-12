@@ -1,1 +1,1 @@
-var mnemonic = "van avoid lift attend month dish bridge elegant brother obscure boost marble";
+var mnemonic = "hurry hurdle mandate culture attend crowd prison quarter orphan identify amateur cycle";

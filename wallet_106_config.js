@@ -1,1 +1,1 @@
-var mnemonic = "orphan olympic ladder matrix female bulk fall van screen chalk describe staff";
+var mnemonic = "manage napkin bargain pair half bamboo foam apology matter end awesome cry";

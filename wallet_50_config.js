@@ -1,1 +1,1 @@
-var mnemonic = "length leisure ring sport join height describe goose current motor brain error";
+var mnemonic = "empty venue march goat clip blast adjust banana bundle crop rose zebra";

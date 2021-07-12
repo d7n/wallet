@@ -1,1 +1,1 @@
-var mnemonic = "pipe exile cigar panel imitate rude unaware cube lion lesson now velvet";
+var mnemonic = "sustain cereal ice thank elegant anxiety satisfy city boss genius eight can";

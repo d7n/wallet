@@ -1,1 +1,1 @@
-var mnemonic = "mistake mule safe diamond topic crack shy power february secret test parade";
+var mnemonic = "mandate second certain legal capital fit awesome cousin family assault palm shoot";

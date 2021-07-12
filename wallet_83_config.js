@@ -1,1 +1,1 @@
-var mnemonic = "news disease history harbor kiwi traffic order useful example wolf bulb must";
+var mnemonic = "cause include trigger ramp double crazy leisure cage upon maze century age";

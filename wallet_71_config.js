@@ -1,1 +1,1 @@
-var mnemonic = "must amazing canal orphan enlist phone sketch boy habit equip poem fog";
+var mnemonic = "city extend embrace twelve heart enhance indoor permit depend project uphold trophy";

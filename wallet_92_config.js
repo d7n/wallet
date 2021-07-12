@@ -1,1 +1,1 @@
-var mnemonic = "run crane tennis couch laptop depth cry loud spare merit memory yard";
+var mnemonic = "chunk cigar obey execute later situate bargain jaguar alarm father wasp universe";

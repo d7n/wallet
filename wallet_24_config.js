@@ -1,1 +1,1 @@
-var mnemonic = "tribe post entire hedgehog sniff soccer accuse wood evil jealous card wealth";
+var mnemonic = "attend october member joy gravity raise angle kid category inmate inherit bracket";

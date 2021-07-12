@@ -1,1 +1,1 @@
-var mnemonic = "joke excuse ill liquid cup session short pair daughter dry amazing impulse";
+var mnemonic = "main moment stage genius discover flash tube list prosper plate destroy borrow";

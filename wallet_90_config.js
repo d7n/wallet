@@ -1,1 +1,1 @@
-var mnemonic = "find tomato world eagle argue task crowd main sell bar raven across";
+var mnemonic = "usual song chair language wealth again choose mercy sausage skull drop toast";

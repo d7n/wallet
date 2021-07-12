@@ -1,1 +1,1 @@
-var mnemonic = "reform bring confirm circle picture lobster left chimney guard social safe carbon";
+var mnemonic = "medal consider garment crowd real duty stumble share sound test matter bean";

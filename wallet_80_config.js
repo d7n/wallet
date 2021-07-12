@@ -1,1 +1,1 @@
-var mnemonic = "someone wine sheriff coyote artefact version hockey quit shrug funny month little";
+var mnemonic = "siren cable snack ancient quantum mosquito collect cook rather gun crowd void";

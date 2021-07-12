@@ -1,1 +1,1 @@
-var mnemonic = "conduct key stereo trumpet visa innocent robot impulse february industry final rule";
+var mnemonic = "fringe maid crater dilemma toast stereo sheriff blood glass palace swim excess";

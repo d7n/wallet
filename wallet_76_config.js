@@ -1,1 +1,1 @@
-var mnemonic = "inch sustain soul space carpet since deposit catch summer minute deny enjoy";
+var mnemonic = "install couch follow swallow bus season song napkin decorate jewel category replace";

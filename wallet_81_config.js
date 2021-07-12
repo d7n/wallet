@@ -1,1 +1,1 @@
-var mnemonic = "fold quantum sweet finish learn evolve portion brand summer erode swift addict";
+var mnemonic = "credit boil shed inner story expect thunder obvious target festival use tide";

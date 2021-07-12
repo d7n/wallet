@@ -1,1 +1,1 @@
-var mnemonic = "ask fault actor over defense invest thrive lava wave mind rent attend";
+var mnemonic = "pig humble harvest rug together sugar master satisfy cheap better ocean glad";

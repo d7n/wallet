@@ -1,1 +1,1 @@
-var mnemonic = "order bread salmon coast auto dinosaur attend melody brother prison armed soul";
+var mnemonic = "spike fade leisure badge census aerobic veteran want false wedding middle wolf";

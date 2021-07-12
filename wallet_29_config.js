@@ -1,1 +1,1 @@
-var mnemonic = "receive seven mimic calm robust sweet shoe pyramid top foot guide topple";
+var mnemonic = "brass husband illegal reflect virus banana loyal virus that able fitness escape";

@@ -1,1 +1,1 @@
-var mnemonic = "total potato draft anchor banner rich rubber panel sail coach problem above";
+var mnemonic = "copper rescue grain hazard spider immense wish craft captain pyramid scout describe";

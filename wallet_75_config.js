@@ -1,1 +1,1 @@
-var mnemonic = "dragon joke empty orient mask tag someone cook soap sense recycle strike";
+var mnemonic = "lecture sunny salt love process market style target decline trumpet also duty";

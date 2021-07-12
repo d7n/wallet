@@ -1,1 +1,1 @@
-var mnemonic = "suggest tag enjoy elephant grit private boil onion kit hen cement sight";
+var mnemonic = "height moment review doctor trend matrix relax bamboo welcome roof trash milk";

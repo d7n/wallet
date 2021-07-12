@@ -1,1 +1,1 @@
-var mnemonic = "broken funny pumpkin thumb fat sort leader ribbon pole rice wire else";
+var mnemonic = "exotic forward sausage more strike hurdle visit burger sound trash acquire first";

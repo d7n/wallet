@@ -1,1 +1,1 @@
-var mnemonic = "clip puzzle awful solution divert plate cricket spend cabbage explain carpet derive";
+var mnemonic = "banner float fog profit donkey lizard fame cattle drive outdoor slice hundred";

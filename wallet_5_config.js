@@ -1,1 +1,1 @@
-var mnemonic = "found argue phrase neutral seed can bicycle swarm purse debris child mother";
+var mnemonic = "rural wreck meat enough miss satoshi confirm action smart such short engage";

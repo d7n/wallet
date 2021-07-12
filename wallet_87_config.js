@@ -1,1 +1,1 @@
-var mnemonic = "undo crazy design current gospel advice humble random grief mango analyst must";
+var mnemonic = "solar illegal skull during liar hope physical desk gallery gauge lazy silent";

@@ -1,1 +1,1 @@
-var mnemonic = "file return ribbon final argue intact pave bargain century logic oval arch";
+var mnemonic = "cruel license movie champion foot culture joke drama parrot unhappy inhale spoon";

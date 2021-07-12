@@ -1,1 +1,1 @@
-var mnemonic = "ripple bacon blue pencil inner false fuel risk panel fix multiply model";
+var mnemonic = "exchange initial topic pepper save plastic usage dash remain muscle ghost process";

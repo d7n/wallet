@@ -1,1 +1,1 @@
-var mnemonic = "runway elder detail weapon hero thought credit same know space history sock";
+var mnemonic = "myself journey home faint magic glad rough tool sauce illness motion major";

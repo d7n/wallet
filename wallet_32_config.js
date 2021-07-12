@@ -1,1 +1,1 @@
-var mnemonic = "demand prevent oil bundle walnut shock stand rookie security color foot thumb";
+var mnemonic = "blanket member broken math nothing crack wait rival dress grant clever talk";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor pole gauge opinion such settle rib butter garage celery rookie valid";
+var mnemonic = "midnight render midnight monster bird vapor meat spawn bright keen honey item";

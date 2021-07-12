@@ -1,1 +1,1 @@
-var mnemonic = "favorite birth pretty calm cause verify mammal smile tooth chaos cream reopen";
+var mnemonic = "tide wheat reason soccer nation husband response drive buddy install caution buyer";

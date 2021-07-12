@@ -1,1 +1,1 @@
-var mnemonic = "coconut improve party sudden flag catch theme manual can mouse myself kit";
+var mnemonic = "mosquito pupil elbow silk rely between sniff height cloth tent extra system";

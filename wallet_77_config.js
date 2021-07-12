@@ -1,1 +1,1 @@
-var mnemonic = "series gospel upper aerobic middle drop clay power idle cruise card mushroom";
+var mnemonic = "pistol cross recall scene orchard raven fork exercise unhappy lake panel trash";

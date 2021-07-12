@@ -1,1 +1,1 @@
-var mnemonic = "nose exit stand various aunt claw length cupboard body obscure jeans trick";
+var mnemonic = "brother rather number various warfare culture safe cabbage stove visa identify fit";

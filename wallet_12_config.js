@@ -1,1 +1,1 @@
-var mnemonic = "empower elite business catch dawn increase doctor lake sun swear luggage produce";
+var mnemonic = "day wing mass saddle amazing review apart museum okay quantum behave sell";

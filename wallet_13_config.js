@@ -1,1 +1,1 @@
-var mnemonic = "sick album play knee parent ramp apology remember stable stamp avocado fringe";
+var mnemonic = "field local fall cost mistake doll tackle ancient oppose hair thumb board";
