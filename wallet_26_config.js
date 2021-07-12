@@ -1,1 +1,1 @@
-var mnemonic = "stadium shield dad horse miss protect wave mammal turkey normal lottery sound";
+var mnemonic = "stage vacuum pizza object exchange orchard brass initial genre unknown essay tissue";

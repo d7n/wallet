@@ -1,1 +1,1 @@
-var mnemonic = "original federal paddle follow sausage winter bird stay link couch discover goat";
+var mnemonic = "uncover nephew victory isolate avoid differ plate habit bubble inspire drastic flag";

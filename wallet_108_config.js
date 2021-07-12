@@ -1,1 +1,1 @@
-var mnemonic = "general vital symptom clarify casino possible sustain excite limb extra code recall";
+var mnemonic = "victory defy shy embark such dice upper crater pretty grass lend train";

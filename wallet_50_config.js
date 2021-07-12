@@ -1,1 +1,1 @@
-var mnemonic = "perfect fringe sand deposit canvas chronic nut gun clip inject moral salute";
+var mnemonic = "lemon onion will stick impulse tenant venture swing tongue prefer later lawn";

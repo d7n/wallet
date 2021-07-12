@@ -1,1 +1,1 @@
-var mnemonic = "wear term menu woman habit cheap party hospital time member ancient romance";
+var mnemonic = "rocket allow nominee middle pilot kangaroo kite news grape despair poverty middle";

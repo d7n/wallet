@@ -1,1 +1,1 @@
-var mnemonic = "thing page motion depart blue analyst cool just embody canvas domain powder";
+var mnemonic = "cliff choose slow borrow useful tonight giraffe waste dash fuel fire day";

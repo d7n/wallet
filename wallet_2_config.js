@@ -1,1 +1,1 @@
-var mnemonic = "domain this turtle innocent genius mad bring frozen review success chest street";
+var mnemonic = "base link grief cinnamon tower high hamster police piano heavy try actress";

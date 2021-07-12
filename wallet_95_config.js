@@ -1,1 +1,1 @@
-var mnemonic = "ankle shallow tape bid square base swallow claim put lunar creek warm";
+var mnemonic = "silly escape crew quick below husband point one gorilla keep level glory";

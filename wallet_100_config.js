@@ -1,1 +1,1 @@
-var mnemonic = "walnut vapor abuse pilot nominee trim salute drip shine veteran vocal hunt";
+var mnemonic = "achieve stairs raise remain humble frequent tip quantum daring shock emerge verify";

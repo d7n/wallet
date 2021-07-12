@@ -1,1 +1,1 @@
-var mnemonic = "stumble cool pear cat tongue liar fog color radio issue coyote provide";
+var mnemonic = "pistol salad system festival casino master weekend unveil olive hint shoulder fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow wagon oyster smile struggle rate fee shrimp once endless taxi moon";
+var mnemonic = "idle cinnamon earn run jeans tip link inside few shaft suspect snack";

@@ -1,1 +1,1 @@
-var mnemonic = "butter this assault muffin juice source library march dolphin raw candy jaguar";
+var mnemonic = "orchard gorilla bullet fashion cute thumb demand good topic rib island sign";

@@ -1,1 +1,1 @@
-var mnemonic = "funny core visit bundle mention relax service rug seat abuse artefact reject";
+var mnemonic = "tomato floor vehicle trophy purchase child world bullet river lizard captain patrol";

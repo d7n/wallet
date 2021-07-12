@@ -1,1 +1,1 @@
-var mnemonic = "work brother like genuine enter day pumpkin umbrella father long man used";
+var mnemonic = "upset style test trick squeeze view scene school leader submit live double";

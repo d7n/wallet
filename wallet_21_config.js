@@ -1,1 +1,1 @@
-var mnemonic = "dwarf marine violin focus review cry crazy birth announce video royal ball";
+var mnemonic = "spice chronic boss ride velvet glare neither pilot pink smooth gate flee";

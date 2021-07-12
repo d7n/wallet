@@ -1,1 +1,1 @@
-var mnemonic = "husband evoke pass advice glow crazy mask woman miracle shiver prefer zebra";
+var mnemonic = "text mirror web echo what sample hunt skin quit life proof slush";

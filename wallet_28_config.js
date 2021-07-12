@@ -1,1 +1,1 @@
-var mnemonic = "alpha under penalty enough mule quiz repair dynamic satoshi hurry manual broccoli";
+var mnemonic = "travel huge chapter crazy skin result chicken bounce maximum worry core food";

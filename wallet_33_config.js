@@ -1,1 +1,1 @@
-var mnemonic = "chair slam sustain twelve guide vapor obvious guard empty toilet rule vague";
+var mnemonic = "resemble indicate begin choice stone prefer negative pledge sugar dynamic sleep keep";

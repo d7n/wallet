@@ -1,1 +1,1 @@
-var mnemonic = "hip mobile cheese secret torch rate swallow try evoke top divide code";
+var mnemonic = "treat slim invest rubber invest joke smile join pull dilemma wreck finish";

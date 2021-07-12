@@ -1,1 +1,1 @@
-var mnemonic = "divorce foster subway half kangaroo close swear cycle ladder mansion smart today";
+var mnemonic = "antique spawn galaxy vacant casino poem nest silent remain vote tiger someone";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric smoke wealth doctor loyal alert whisper always crime velvet chef decorate";
+var mnemonic = "glory inmate lemon cliff advice tragic seven team follow coffee guide domain";

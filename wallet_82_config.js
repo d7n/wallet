@@ -1,1 +1,1 @@
-var mnemonic = "boring danger position truth dutch horse pond field inform poet wisdom inside";
+var mnemonic = "race wrong best discover poet surface timber motor silk equal ecology pupil";

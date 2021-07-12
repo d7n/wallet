@@ -1,1 +1,1 @@
-var mnemonic = "holiday scare reward inside mechanic ranch hundred foil great home grit settle";
+var mnemonic = "spoon pigeon machine lyrics chaos dune abuse write sad album wrong wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "solve one identify candy frozen soda fiber month rabbit purpose vacuum spray";
+var mnemonic = "million addict pool glimpse tornado paper ridge shiver mom episode reduce winner";

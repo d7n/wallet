@@ -1,1 +1,1 @@
-var mnemonic = "kick ivory depart tunnel behind use awkward oblige web misery truth guitar";
+var mnemonic = "space sad analyst report coin bubble garden solution husband grow latin embody";

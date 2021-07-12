@@ -1,1 +1,1 @@
-var mnemonic = "rather risk gentle box match mule swamp assist electric swim remain funny";
+var mnemonic = "nest language fiscal prevent slim draw echo copy teach obey phone depart";

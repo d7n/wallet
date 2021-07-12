@@ -1,1 +1,1 @@
-var mnemonic = "cheese device summer blossom field rail manage gallery scare element eternal bonus";
+var mnemonic = "monkey wear verify swarm rail document shock little cabin message magnet glare";

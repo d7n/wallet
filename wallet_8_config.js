@@ -1,1 +1,1 @@
-var mnemonic = "allow exotic damp valid ramp actual early remain cliff high pill unlock";
+var mnemonic = "client corn lottery green copy fashion bronze dentist open super gentle reform";

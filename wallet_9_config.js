@@ -1,1 +1,1 @@
-var mnemonic = "elder easy safe stove behind cloud fluid arctic word advance february brown";
+var mnemonic = "open wide assume cupboard couch frozen perfect begin pulse pudding index fame";

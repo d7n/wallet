@@ -1,1 +1,1 @@
-var mnemonic = "regular wrist combine label doctor bonus album embrace quick myself lens point";
+var mnemonic = "critic meat kitten final pill cloud hidden ozone virtual pause almost later";

@@ -1,1 +1,1 @@
-var mnemonic = "power sunset discover balcony icon van foot consider know slice law future";
+var mnemonic = "library outer armor ostrich below domain book random caution phrase sniff want";

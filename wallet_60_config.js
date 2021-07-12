@@ -1,1 +1,1 @@
-var mnemonic = "peanut science virtual perfect boil shop october height unveil photo budget track";
+var mnemonic = "degree badge child item damp symptom boost moon nephew eyebrow strategy riot";

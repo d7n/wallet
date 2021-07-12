@@ -1,1 +1,1 @@
-var mnemonic = "student artefact fetch box pluck token unaware seven machine worry globe neck";
+var mnemonic = "assume creek because duty right unveil record powder room actor process language";

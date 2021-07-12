@@ -1,1 +1,1 @@
-var mnemonic = "iron opera situate define rare toward fury wedding escape job erase finger";
+var mnemonic = "scorpion umbrella fossil end modify thunder knee shuffle west nasty behind also";

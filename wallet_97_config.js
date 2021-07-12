@@ -1,1 +1,1 @@
-var mnemonic = "siege oil index bubble execute train okay write soccer reason perfect tip";
+var mnemonic = "page half rebuild sketch service quit snow bean nurse library december mango";

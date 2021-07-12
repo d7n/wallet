@@ -1,1 +1,1 @@
-var mnemonic = "mind liar method federal vacant income coyote dune luggage knock bacon train";
+var mnemonic = "release census occur manage key wing mixture soup gravity solution draft success";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican ozone upgrade popular tattoo more crunch tuition learn more apart cave";
+var mnemonic = "blanket twin medal evil slush crime master mutual more lock mention monitor";

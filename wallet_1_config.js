@@ -1,1 +1,1 @@
-var mnemonic = "wash embark hole panic skull crash shiver arch blush window machine orange";
+var mnemonic = "human impulse banner drive april ankle kite merge unknown shield fun expect";

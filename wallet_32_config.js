@@ -1,1 +1,1 @@
-var mnemonic = "quit section coil dash surprise mom deny oyster bind fitness belt fury";
+var mnemonic = "stadium degree rapid neutral cross toddler someone remove despair harsh ready logic";

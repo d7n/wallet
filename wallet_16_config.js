@@ -1,1 +1,1 @@
-var mnemonic = "panda october remember ethics chair hip february skirt begin nut village income";
+var mnemonic = "pig final manage margin draw brave culture inquiry rate response supply know";

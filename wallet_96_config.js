@@ -1,1 +1,1 @@
-var mnemonic = "coral into spider afraid enemy source field pledge spoil rough satoshi equip";
+var mnemonic = "length jazz silver warrior dice flock face avoid refuse method crouch trend";

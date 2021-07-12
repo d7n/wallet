@@ -1,1 +1,1 @@
-var mnemonic = "benefit raccoon leopard bring decrease rotate adult pattern soccer lucky despair deal";
+var mnemonic = "tenant give nuclear victory tip enough mammal title giraffe casual type opera";

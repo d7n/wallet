@@ -1,1 +1,1 @@
-var mnemonic = "shrug devote piano error taxi sunny what female trial elbow blue mirror";
+var mnemonic = "census aisle fan belt critic skin viable tail dial sugar blur trophy";

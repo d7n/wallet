@@ -1,1 +1,1 @@
-var mnemonic = "tell census spray labor gravity skill naive kit valley scene pyramid adapt";
+var mnemonic = "antique trumpet first describe lava denial across find eight bid tenant border";

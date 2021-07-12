@@ -1,1 +1,1 @@
-var mnemonic = "eight speed cactus finger axis music interest logic walnut fringe casino caught";
+var mnemonic = "dutch maid method turtle tunnel account spin solid rain absurd snap common";

@@ -1,1 +1,1 @@
-var mnemonic = "grace impact brother old curve layer flash correct true essence hurt sock";
+var mnemonic = "slab blossom meat rule frame lion whale parade mail twist fringe slim";

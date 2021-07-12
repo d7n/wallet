@@ -1,1 +1,1 @@
-var mnemonic = "fog violin tide obey aunt differ empower eager dismiss away march intact";
+var mnemonic = "portion gym random home thumb crazy curious toilet dragon chimney bean payment";

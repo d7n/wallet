@@ -1,1 +1,1 @@
-var mnemonic = "forum stereo lyrics route response judge message impulse program ride zebra lady";
+var mnemonic = "doctor range wolf arm rely glove need fox ready praise salt plunge";

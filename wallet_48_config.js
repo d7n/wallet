@@ -1,1 +1,1 @@
-var mnemonic = "knife parent loud side gun sea crack thing honey cook lecture current";
+var mnemonic = "capable armed crew current lady cycle naive rigid pyramid venture oblige matrix";

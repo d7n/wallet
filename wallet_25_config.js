@@ -1,1 +1,1 @@
-var mnemonic = "mirror then laundry device rather glow depth budget quantum bacon under season";
+var mnemonic = "response again humble pumpkin bamboo differ heavy entry bundle desk salon kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "tape same tongue pottery jeans capital result shove stamp thrive pave movie";
+var mnemonic = "extend mixed vague peasant lunar bronze asthma above pole critic ready drive";

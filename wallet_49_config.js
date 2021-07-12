@@ -1,1 +1,1 @@
-var mnemonic = "immune enable false glass whip carpet thunder rotate kiss health purchase gold";
+var mnemonic = "spider rocket office eight manage stay extra garage school cereal sorry grid";

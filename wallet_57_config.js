@@ -1,1 +1,1 @@
-var mnemonic = "tissue nephew shrimp tiger same stem coconut again sing fog ticket turn";
+var mnemonic = "symptom snake flat athlete dizzy explain doctor often deputy camera moral purpose";

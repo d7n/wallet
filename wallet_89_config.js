@@ -1,1 +1,1 @@
-var mnemonic = "worth chapter win general step talk column best elite fossil chimney wreck";
+var mnemonic = "smile idea hamster dragon trophy trip venture penalty private chair dove vault";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate kidney ethics swing catalog scissors sport trial pig dune alert fantasy";
+var mnemonic = "album ship detail roast pistol duck friend original near nominee nasty nephew";

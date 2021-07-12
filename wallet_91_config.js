@@ -1,1 +1,1 @@
-var mnemonic = "mean limb regret catalog quiz dad chair fossil near trip tattoo pledge";
+var mnemonic = "brown next celery aisle kidney hundred truly robot soda fantasy wait donor";

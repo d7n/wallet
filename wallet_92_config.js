@@ -1,1 +1,1 @@
-var mnemonic = "measure moon goat cruise rough bridge armor magnet allow brand two asset";
+var mnemonic = "actress popular egg seat blade rotate zone enrich picture capable earth toward";

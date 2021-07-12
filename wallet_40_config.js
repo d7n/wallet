@@ -1,1 +1,1 @@
-var mnemonic = "involve media luxury angle raise usual assist engine game hip click guitar";
+var mnemonic = "girl ramp unable electric elephant scorpion jar thought what sick taste until";

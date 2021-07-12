@@ -1,1 +1,1 @@
-var mnemonic = "clown cattle knock faculty ladder critic aerobic foil cost shiver swim regular";
+var mnemonic = "chalk talk myth pioneer flip honey neutral play success dolphin better wish";

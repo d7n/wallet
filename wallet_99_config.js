@@ -1,1 +1,1 @@
-var mnemonic = "such put ugly clock gun wait walnut clean code illegal belt frequent";
+var mnemonic = "ignore satisfy oak deputy property foster glow correct symptom crisp autumn unknown";

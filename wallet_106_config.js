@@ -1,1 +1,1 @@
-var mnemonic = "hammer enough hover caught reduce garden festival lift stand wrap primary surprise";
+var mnemonic = "addict choice toilet window cram glue seat myth option leave man hollow";

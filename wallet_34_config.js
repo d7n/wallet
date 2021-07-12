@@ -1,1 +1,1 @@
-var mnemonic = "chief acid lounge squirrel maid blind liar birth toward piano shed finger";
+var mnemonic = "large obvious unlock vapor pumpkin asset vague dinosaur donor cost drastic music";

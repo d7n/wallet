@@ -1,1 +1,1 @@
-var mnemonic = "survey carbon enlist dish silk fresh mad spring hero camp eager satoshi";
+var mnemonic = "talk target fossil smile torch choice forest skill address punch confirm olive";

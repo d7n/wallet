@@ -1,1 +1,1 @@
-var mnemonic = "cupboard century barely moment egg draft pass economy tornado color history bleak";
+var mnemonic = "crew damp sea media survey ecology permit review pattern record unusual river";

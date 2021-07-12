@@ -1,1 +1,1 @@
-var mnemonic = "skill smoke strike pelican order lunch february source antique glue clog brother";
+var mnemonic = "same wage veteran upon sight come siren trophy ensure top maximum scene";

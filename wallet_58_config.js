@@ -1,1 +1,1 @@
-var mnemonic = "scrub orchard jealous smoke cherry basket list garbage field arrest crater coffee";
+var mnemonic = "perfect typical brick culture wheat purchase wheat dignity flag bracket viable glance";

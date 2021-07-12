@@ -1,1 +1,1 @@
-var mnemonic = "figure rely mail smooth army ill divide claw train awkward finger wool";
+var mnemonic = "burger angle grab welcome rare accident chase throw potato feature attend sudden";

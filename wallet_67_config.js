@@ -1,1 +1,1 @@
-var mnemonic = "curve jewel burden replace salmon yellow yellow split tank tortoise venture injury";
+var mnemonic = "tired tent tip garlic dice unlock hockey hip menu cruel stamp round";

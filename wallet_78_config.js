@@ -1,1 +1,1 @@
-var mnemonic = "harsh word casino height save bench faith what day quiz credit gaze";
+var mnemonic = "gap feature educate now venture usual rude secret endless coast exercise cup";

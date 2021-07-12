@@ -1,1 +1,1 @@
-var mnemonic = "crumble century fancy sand embrace artefact iron session shed fresh output type";
+var mnemonic = "buffalo beef skate advance bright bus state reflect cigar dolphin segment country";

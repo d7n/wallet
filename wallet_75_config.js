@@ -1,1 +1,1 @@
-var mnemonic = "easy satisfy moment insect setup news deposit slogan evil release abstract quiz";
+var mnemonic = "globe cloth remain retire web undo rib tiger supreme public frost vessel";

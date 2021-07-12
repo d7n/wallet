@@ -1,1 +1,1 @@
-var mnemonic = "cool math sell warfare essence grape gorilla barrel few steak market pupil";
+var mnemonic = "monitor man ankle raw situate mad edge sibling crucial guide churn narrow";

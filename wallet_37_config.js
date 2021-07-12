@@ -1,1 +1,1 @@
-var mnemonic = "original miracle discover hockey meat obtain fiber shoe stock intact virus swarm";
+var mnemonic = "panic knock net remain supreme giraffe scheme check tornado believe boat gym";

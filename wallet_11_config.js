@@ -1,1 +1,1 @@
-var mnemonic = "brass refuse scheme dog believe settle congress firm make neither question spoon";
+var mnemonic = "harsh night there depend puzzle exercise one brief rhythm review comic right";

@@ -1,1 +1,1 @@
-var mnemonic = "moral oppose chimney exit empower reopen donate clock insect erupt hundred neglect";
+var mnemonic = "gasp diamond mercy jacket avoid blossom enable silk trade urge walk engage";

@@ -1,1 +1,1 @@
-var mnemonic = "hip cool tortoise surround muffin champion jealous lucky episode drama simple prosper";
+var mnemonic = "calm learn grief wait cancel fish sniff pretty river tennis grocery limb";

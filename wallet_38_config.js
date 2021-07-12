@@ -1,1 +1,1 @@
-var mnemonic = "soup chest rug inject cool merge concert grunt joy have ignore base";
+var mnemonic = "opera sentence rate ability marble desert strategy element desert rabbit celery salad";

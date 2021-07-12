@@ -1,1 +1,1 @@
-var mnemonic = "goat enable digital thumb invite motor hint flight soon green practice special";
+var mnemonic = "pill daughter curious price include drink found curtain buddy local edit cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf atom fashion alarm very success glow ivory isolate puzzle priority faith";
+var mnemonic = "fork under manage craft palm hour ranch wage trap slam sample build";

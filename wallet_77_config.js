@@ -1,1 +1,1 @@
-var mnemonic = "fiction eternal midnight since vibrant repair tape swim evil sting diesel surge";
+var mnemonic = "price cheese upset plastic expand topic that balance merry when jelly tent";

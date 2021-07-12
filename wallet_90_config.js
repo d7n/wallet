@@ -1,1 +1,1 @@
-var mnemonic = "vivid cable dice noble calm canoe meadow mad swim topple shine plunge";
+var mnemonic = "squirrel you adapt couple liberty voyage swap toddler twenty planet amazing choice";

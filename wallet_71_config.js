@@ -1,1 +1,1 @@
-var mnemonic = "width loyal truly expose mixed love erosion border little ghost major bargain";
+var mnemonic = "giant swarm load left already cereal aunt baby verb apology when balance";

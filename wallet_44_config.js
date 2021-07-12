@@ -1,1 +1,1 @@
-var mnemonic = "maple amazing mask cook canyon unveil gauge rare culture fee focus man";
+var mnemonic = "salon parrot person inject lemon angle verb thought cupboard gossip execute exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "essay guilt law sunny bullet exotic report enough faith biology guilt door";
+var mnemonic = "video surprise forum jaguar oil journey select flash fan crop grain erode";

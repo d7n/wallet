@@ -1,1 +1,1 @@
-var mnemonic = "loop voyage search idle pony shoot fuel depend alcohol west coffee wrist";
+var mnemonic = "act home wave legal advance physical diagram false easily feature rebuild mango";

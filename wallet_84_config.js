@@ -1,1 +1,1 @@
-var mnemonic = "dog spider tail rail pink trip buyer horn arrest fog catalog blossom";
+var mnemonic = "rate lucky ugly dune sphere urge nose truly inside whip goose enhance";

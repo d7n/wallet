@@ -1,1 +1,1 @@
-var mnemonic = "weekend minute test mountain crater just disease wolf gain toy figure actual";
+var mnemonic = "session pyramid earth sibling radar immense razor sweet water unable catalog worth";
