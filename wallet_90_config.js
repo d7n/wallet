@@ -1,1 +1,1 @@
-var mnemonic = "myself basic lonely device wide silent sight dial mind cliff cruise swim";
+var mnemonic = "rapid glide cheap acoustic device plunge boy empty clown angry consider quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram mushroom crystal ball van scout menu ecology sunset athlete blame spice";
+var mnemonic = "enjoy body inmate vibrant file bless phone rail together motor rib resource";

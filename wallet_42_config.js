@@ -1,1 +1,1 @@
-var mnemonic = "arrive match tongue element copper arctic cube spoon warm concert zoo artwork";
+var mnemonic = "nuclear skin very glare pear exotic candy broom benefit achieve ring echo";

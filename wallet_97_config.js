@@ -1,1 +1,1 @@
-var mnemonic = "muffin puppy useless loyal husband shock illness nerve horror useless traffic warm";
+var mnemonic = "bounce convince current wheat banana allow farm day suggest emotion media valley";

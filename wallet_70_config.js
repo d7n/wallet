@@ -1,1 +1,1 @@
-var mnemonic = "actress hen fruit risk ketchup student place bunker digital engine project grunt";
+var mnemonic = "tide plunge include day will client ceiling picnic spend dirt cinnamon recall";

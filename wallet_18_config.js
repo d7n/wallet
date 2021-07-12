@@ -1,1 +1,1 @@
-var mnemonic = "minute across ski home measure exchange together excuse culture spring soft fox";
+var mnemonic = "trash history lava boss detect draw coach aspect middle alcohol cushion silver";

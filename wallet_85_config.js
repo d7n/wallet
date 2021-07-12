@@ -1,1 +1,1 @@
-var mnemonic = "exclude later bamboo tone field notice airport garbage royal carbon rail short";
+var mnemonic = "miracle little brief group reunion mask rice grit decorate bread grunt march";

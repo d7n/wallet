@@ -1,1 +1,1 @@
-var mnemonic = "annual arch describe random shuffle easy replace agent example april catalog tray";
+var mnemonic = "meat helmet sentence language betray chapter feel dwarf wood inject jungle trash";

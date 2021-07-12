@@ -1,1 +1,1 @@
-var mnemonic = "bid alcohol rebuild lounge fossil violin public security tennis zero wonder ten";
+var mnemonic = "coral cheap text flavor tiny goat gallery include staff update bone fold";

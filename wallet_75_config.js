@@ -1,1 +1,1 @@
-var mnemonic = "index list pipe cactus march concert couch pilot choice alpha comfort asthma";
+var mnemonic = "business weird agent father festival dice panda candy feature vacuum pioneer situate";

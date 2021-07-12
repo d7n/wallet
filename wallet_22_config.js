@@ -1,1 +1,1 @@
-var mnemonic = "caught report soft distance color ring first cup scorpion various captain public";
+var mnemonic = "drastic ginger bridge cannon glide adapt rug jacket squirrel scan purchase cricket";

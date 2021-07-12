@@ -1,1 +1,1 @@
-var mnemonic = "athlete scare budget kiss chimney few tobacco exact copy sauce scatter ensure";
+var mnemonic = "scatter despair distance dance embark harvest repair six lunar glimpse smoke game";

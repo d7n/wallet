@@ -1,1 +1,1 @@
-var mnemonic = "include divide mask company indicate balcony unique coast tragic neck need example";
+var mnemonic = "gap cradle actor risk airport heart oblige used enact moral alter index";

@@ -1,1 +1,1 @@
-var mnemonic = "stand stairs ocean coin injury vessel review panic round area tip arctic";
+var mnemonic = "vibrant weekend shy easily plastic biology demand whisper laptop dizzy gather bulk";

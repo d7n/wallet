@@ -1,1 +1,1 @@
-var mnemonic = "call helmet road dose gesture frog donkey uniform deal congress patient public";
+var mnemonic = "pill sample derive off dumb spring split power pen embrace balance dance";

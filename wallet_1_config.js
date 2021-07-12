@@ -1,1 +1,1 @@
-var mnemonic = "broccoli upper glass toilet crouch custom eagle survey indicate cherry castle trend";
+var mnemonic = "cat advance ribbon oil poem dolphin change try awesome average toast model";

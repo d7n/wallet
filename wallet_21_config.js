@@ -1,1 +1,1 @@
-var mnemonic = "stumble tail erode width silver annual cloud design sun story marble nation";
+var mnemonic = "puppy cloth harbor country dawn shaft hello vessel throw spring dawn relief";

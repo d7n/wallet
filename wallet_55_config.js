@@ -1,1 +1,1 @@
-var mnemonic = "power crawl junk trial jazz bless cousin target path below stumble wing";
+var mnemonic = "expose ticket age light bench village wing alien chat tide envelope extra";

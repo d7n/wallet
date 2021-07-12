@@ -1,1 +1,1 @@
-var mnemonic = "ribbon spare churn analyst brisk write bar leave myth define object address";
+var mnemonic = "found possible call manual helmet render fruit scatter friend unable donate river";

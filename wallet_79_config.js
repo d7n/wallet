@@ -1,1 +1,1 @@
-var mnemonic = "add dish spoon forest fan damp lazy test artist ribbon blade trigger";
+var mnemonic = "solution term bike impact pave rocket repair warm faint outdoor armor raise";

@@ -1,1 +1,1 @@
-var mnemonic = "palm stand toward hard tower actual grant ill into resemble truth picture";
+var mnemonic = "uncle detect brisk what satoshi aunt frame turkey sail almost bonus route";

@@ -1,1 +1,1 @@
-var mnemonic = "super grant jeans logic fortune club stage cross argue bench shield improve";
+var mnemonic = "mammal actress clinic raise afraid zebra minute swamp frame bullet will amateur";

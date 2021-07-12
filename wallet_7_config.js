@@ -1,1 +1,1 @@
-var mnemonic = "plug forget myself catch mass security evil enforce absent segment receive entry";
+var mnemonic = "potato crucial tone abandon party weasel bachelor under vote prefer borrow pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral clock list april abstract mom crawl brother robust hurdle armor float";
+var mnemonic = "gadget aisle brother sausage pear cherry cloud village idle they sunset wide";

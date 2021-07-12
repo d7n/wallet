@@ -1,1 +1,1 @@
-var mnemonic = "you pitch trim eager dog protect employ turtle senior destroy entry plunge";
+var mnemonic = "liberty scare beef actor spell dizzy appear sad soup equip erase oxygen";

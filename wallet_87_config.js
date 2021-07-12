@@ -1,1 +1,1 @@
-var mnemonic = "minute tribe lazy cook sick arrive glory castle rude pottery visual tonight";
+var mnemonic = "good pluck mail giraffe love giggle quarter plate boil electric cat veteran";

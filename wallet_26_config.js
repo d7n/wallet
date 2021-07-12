@@ -1,1 +1,1 @@
-var mnemonic = "gallery elephant flash check vendor summer quote catch brown lake legal try";
+var mnemonic = "reward tattoo lecture afford call never super borrow hawk prison innocent rich";

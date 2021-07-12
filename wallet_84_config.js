@@ -1,1 +1,1 @@
-var mnemonic = "employ cable surge hurdle toe abstract item twelve outer sausage fantasy track";
+var mnemonic = "manage bomb analyst castle pledge suffer solution shy immune begin raise sunset";

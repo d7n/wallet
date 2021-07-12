@@ -1,1 +1,1 @@
-var mnemonic = "milk place guess endless rose room transfer maze lava august fix few";
+var mnemonic = "arena join stumble tired puppy twin mandate market thing shaft autumn wasp";

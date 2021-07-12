@@ -1,1 +1,1 @@
-var mnemonic = "smoke bargain stock panic eight work know hazard gap pact banner know";
+var mnemonic = "arrange abandon scare eye south blur edge sword shift sing never forward";

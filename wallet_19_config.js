@@ -1,1 +1,1 @@
-var mnemonic = "capable manage summer mail below fox minor shiver bring stool satoshi holiday";
+var mnemonic = "amused remain coach virtual finger kind lumber know exhibit duck toilet daughter";

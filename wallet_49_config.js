@@ -1,1 +1,1 @@
-var mnemonic = "stuff popular bird adult attend song cheap evolve law luggage predict senior";
+var mnemonic = "leg lunch poet woman summer faith behind unfair nurse toilet thunder young";

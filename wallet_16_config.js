@@ -1,1 +1,1 @@
-var mnemonic = "bullet conduct digital invest festival service van awesome absurd creek soap deal";
+var mnemonic = "chapter reveal industry empty atom dumb recipe today wrap coyote glue acoustic";

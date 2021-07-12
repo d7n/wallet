@@ -1,1 +1,1 @@
-var mnemonic = "manage pony once member inquiry apology armor bless panda silver drill smoke";
+var mnemonic = "spice hedgehog learn enemy weasel lake avocado sausage power fog lawn radar";

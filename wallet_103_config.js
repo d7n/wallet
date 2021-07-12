@@ -1,1 +1,1 @@
-var mnemonic = "peace patrol bamboo scrap jealous good thank damp match fan vocal pretty";
+var mnemonic = "solar gift media vast person craft solve victory inhale nuclear lunar inquiry";

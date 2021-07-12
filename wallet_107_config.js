@@ -1,1 +1,1 @@
-var mnemonic = "hour document ride dragon enjoy rely oil mosquito feel burst crash basket";
+var mnemonic = "prosper salute gate logic step muscle man kitchen empty sand alter leader";

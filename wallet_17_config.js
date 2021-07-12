@@ -1,1 +1,1 @@
-var mnemonic = "time wing struggle insect famous amazing country parent rotate because world rookie";
+var mnemonic = "couch science noble paddle believe aerobic hamster pave possible funny author hill";

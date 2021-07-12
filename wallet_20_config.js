@@ -1,1 +1,1 @@
-var mnemonic = "know debate sunny swap drum cushion critic dose hidden hotel neck clean";
+var mnemonic = "file warm foil vast anxiety what course level affair series bunker sudden";

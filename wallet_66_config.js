@@ -1,1 +1,1 @@
-var mnemonic = "news eager off bus obvious such inner broccoli dose tumble zone trial";
+var mnemonic = "rookie laundry black month about mansion average world world index harbor notice";

@@ -1,1 +1,1 @@
-var mnemonic = "empower sugar donate angle trophy regret same cricket winter result ceiling hungry";
+var mnemonic = "razor kitchen chef letter firm ostrich choose leisure fee dwarf depend pattern";

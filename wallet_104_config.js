@@ -1,1 +1,1 @@
-var mnemonic = "middle kid seminar else curve tell fence clock faculty final announce picnic";
+var mnemonic = "ticket potato picture fault truth input marriage grid garment vendor remember stand";

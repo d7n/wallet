@@ -1,1 +1,1 @@
-var mnemonic = "wife glass girl vault social that tank practice pitch gesture immense belt";
+var mnemonic = "industry talent hole bar cart monkey wire term person recall roast rib";

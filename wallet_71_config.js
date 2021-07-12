@@ -1,1 +1,1 @@
-var mnemonic = "topic horror height hope broom alcohol canyon limit actor tell wife drill";
+var mnemonic = "obtain science nerve march grow point short fade fun loud song balcony";

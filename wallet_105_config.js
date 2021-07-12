@@ -1,1 +1,1 @@
-var mnemonic = "grunt olympic stem open panel pledge error observe broccoli injury rain strike";
+var mnemonic = "bulk speak north gadget fatigue sweet milk taste hire system onion axis";

@@ -1,1 +1,1 @@
-var mnemonic = "choose flock cluster depend animal face thunder festival canal width hat cycle";
+var mnemonic = "know core write offer consider rubber sorry they dinosaur gate interest oblige";

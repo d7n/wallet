@@ -1,1 +1,1 @@
-var mnemonic = "exile rabbit path express super identify body rose grid sing flight myth";
+var mnemonic = "enact hat antenna design appear lottery scan elegant trumpet scheme nurse bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic rich wheat elevator grief little federal glimpse brave only doll often";
+var mnemonic = "comfort aerobic arena garden property check bundle fruit vast cute bike talk";

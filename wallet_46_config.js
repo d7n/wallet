@@ -1,1 +1,1 @@
-var mnemonic = "key dizzy lava rack gain secret squeeze fortune company street educate claw";
+var mnemonic = "carbon bunker feed bid noble great salt mosquito yellow food shed tired";

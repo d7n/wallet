@@ -1,1 +1,1 @@
-var mnemonic = "across shock gospel explain phone ugly glide tonight view wreck cloud play";
+var mnemonic = "convince super finish welcome glimpse shock horse room color nasty tail hour";

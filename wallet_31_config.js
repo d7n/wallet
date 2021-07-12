@@ -1,1 +1,1 @@
-var mnemonic = "tube impose vanish solution miss large never will indicate eye extra crew";
+var mnemonic = "reunion urge true glance visa dust link fiscal patient orphan butter duck";

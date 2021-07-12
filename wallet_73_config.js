@@ -1,1 +1,1 @@
-var mnemonic = "wasp december mushroom idea fan auction olympic hub crime what memory century";
+var mnemonic = "plug enjoy bachelor remove rate february call lock exile clay element effort";

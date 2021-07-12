@@ -1,1 +1,1 @@
-var mnemonic = "hat mansion affair chronic emotion home firm smoke also shrug enforce ecology";
+var mnemonic = "axis example nephew aisle magnet ahead unfair laptop swallow chief educate case";

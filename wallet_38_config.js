@@ -1,1 +1,1 @@
-var mnemonic = "pledge empower loop whale enact dentist release dream chuckle anchor animal venue";
+var mnemonic = "surge crack tower fix sausage cash whale memory middle satisfy service shrimp";

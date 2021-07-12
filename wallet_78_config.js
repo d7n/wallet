@@ -1,1 +1,1 @@
-var mnemonic = "hire crime hen decline gravity depend service fat cream must very come";
+var mnemonic = "voyage grunt join much morning moon man lyrics broccoli left stock obey";

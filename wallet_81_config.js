@@ -1,1 +1,1 @@
-var mnemonic = "dad film share diamond belt loyal steel patch dash retreat scan tumble";
+var mnemonic = "glad update pool worth nerve theory retreat embrace humor spawn obey arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "duty cheap decide injury today easily round survey speed sort smooth alarm";
+var mnemonic = "bachelor run mushroom odor enter feature pumpkin convince basket company pulse stamp";

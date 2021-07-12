@@ -1,1 +1,1 @@
-var mnemonic = "staff luxury gossip loop wasp bind garlic reunion sudden debate route usual";
+var mnemonic = "uncover pink bullet roof width awesome luxury approve detail square insect floor";

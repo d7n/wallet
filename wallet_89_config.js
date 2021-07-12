@@ -1,1 +1,1 @@
-var mnemonic = "air belt define lyrics bundle insane song bulb girl palm bench tonight";
+var mnemonic = "spend better village know fall scale idea trouble alert equip gorilla cigar";

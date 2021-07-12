@@ -1,1 +1,1 @@
-var mnemonic = "twist expand defy base bullet boring ordinary spoil fork bike coral olympic";
+var mnemonic = "rebel knock green suspect various grunt grocery ranch powder fog unusual about";

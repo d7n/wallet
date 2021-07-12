@@ -1,1 +1,1 @@
-var mnemonic = "gesture poet top response level gloom welcome pudding dinosaur tunnel net athlete";
+var mnemonic = "east ritual bounce case dial unusual inject frozen obscure series ride concert";

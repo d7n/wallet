@@ -1,1 +1,1 @@
-var mnemonic = "develop hope member expect series remind duck force guitar neck family stool";
+var mnemonic = "glue whale couch pole tag alpha phone use fun caught virtual stand";

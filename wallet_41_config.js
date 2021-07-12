@@ -1,1 +1,1 @@
-var mnemonic = "book devote mail live faculty blush web spike all assault favorite syrup";
+var mnemonic = "tank region sheriff they rug tissue napkin canoe creek celery eternal shell";

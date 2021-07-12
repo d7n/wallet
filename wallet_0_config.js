@@ -1,1 +1,1 @@
-var mnemonic = "little fruit leisure immune smart minor vessel basic crane polar eight shove";
+var mnemonic = "dynamic airport old level garment possible chuckle blouse six humor talk shed";

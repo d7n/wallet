@@ -1,1 +1,1 @@
-var mnemonic = "one fire push flip first code chronic cluster lumber degree also pig";
+var mnemonic = "paper burden anchor copper civil actor cook layer ask cradle illness ship";

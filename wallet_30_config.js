@@ -1,1 +1,1 @@
-var mnemonic = "sweet tank jar exercise final amount thrive blind runway donkey bleak pride";
+var mnemonic = "coral stand soul young sail drama ordinary predict cabbage grocery design burden";

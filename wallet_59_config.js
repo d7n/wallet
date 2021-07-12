@@ -1,1 +1,1 @@
-var mnemonic = "ripple cactus coach card want exclude write index unhappy shift blood twice";
+var mnemonic = "wage season honey zero hat such earth arm found that doll senior";

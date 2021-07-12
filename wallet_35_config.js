@@ -1,1 +1,1 @@
-var mnemonic = "youth anger alter off oyster domain lemon carry obey barely regret notable";
+var mnemonic = "detect glance melody surround craft wet crouch woman age impose inside sadness";

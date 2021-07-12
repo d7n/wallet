@@ -1,1 +1,1 @@
-var mnemonic = "submit margin risk bonus thumb tool cart jungle valve section cotton depend";
+var mnemonic = "smart point amount early access right quarter nut donkey panel immune luggage";

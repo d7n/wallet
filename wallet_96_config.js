@@ -1,1 +1,1 @@
-var mnemonic = "skill service olympic beef essence picnic boy patient mushroom erosion doll federal";
+var mnemonic = "alter student shiver amount draft person grow weasel kid spoon bean ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror embrace right alter girl purse century hospital crunch armed mountain they";
+var mnemonic = "pizza catalog bicycle phrase butter strike lounge long twenty busy reflect present";

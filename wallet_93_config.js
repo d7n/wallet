@@ -1,1 +1,1 @@
-var mnemonic = "scheme nuclear section honey parrot crouch bunker trend decide antique arrange thunder";
+var mnemonic = "foil begin grape mimic canal matrix beauty rely fix patch clock risk";

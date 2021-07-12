@@ -1,1 +1,1 @@
-var mnemonic = "surround force predict scale change idle degree meat own blush weapon luggage";
+var mnemonic = "just upper whisper unveil allow crop also front gesture alert old plug";

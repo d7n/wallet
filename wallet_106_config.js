@@ -1,1 +1,1 @@
-var mnemonic = "jacket actual office rely ankle wood square pledge cousin mixture craft tilt";
+var mnemonic = "foot primary option beach jacket slush flag bone blame solid source rubber";

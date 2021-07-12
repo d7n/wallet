@@ -1,1 +1,1 @@
-var mnemonic = "print demand soldier convince devote ghost balance beauty corn foot dilemma thrive";
+var mnemonic = "surface twenty false fiction fitness lunch first rotate extend demise lunar version";

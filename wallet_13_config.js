@@ -1,1 +1,1 @@
-var mnemonic = "tumble elite cherry can tiny party grit stick layer innocent then young";
+var mnemonic = "nurse fire cycle mobile speak salon elevator ocean visit deliver excite reward";

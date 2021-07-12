@@ -1,1 +1,1 @@
-var mnemonic = "comic toilet float jeans panda label gauge bunker exchange adapt affair sweet";
+var mnemonic = "erase amused miracle wonder fade total nominee phone loyal feel excite eyebrow";

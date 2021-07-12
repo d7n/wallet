@@ -1,1 +1,1 @@
-var mnemonic = "mechanic correct pool attack stage wear choose another enter turn accuse identify";
+var mnemonic = "person stand borrow energy hip vacuum giraffe section chase slogan brisk jacket";

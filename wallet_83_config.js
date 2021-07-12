@@ -1,1 +1,1 @@
-var mnemonic = "month dismiss hotel material option display impose egg silver toast lamp crack";
+var mnemonic = "man depart disorder account lend pelican armed volcano below water fabric walk";

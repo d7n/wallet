@@ -1,1 +1,1 @@
-var mnemonic = "tell peasant argue stool have insane anchor term type sweet clown senior";
+var mnemonic = "arrange remind hidden photo produce identify crucial assault kitchen multiply equal lock";

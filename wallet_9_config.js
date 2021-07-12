@@ -1,1 +1,1 @@
-var mnemonic = "tray cousin curtain morning length nation home brass sweet prefer define clip";
+var mnemonic = "throw pass joke stamp vast easy online satisfy thrive seven because total";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual human farm trumpet proof fun strike wedding recall bottom rose card";
+var mnemonic = "short virtual notice sail announce across buzz churn fetch smoke pupil rotate";

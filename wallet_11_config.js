@@ -1,1 +1,1 @@
-var mnemonic = "decrease hip trouble small stable echo maximum recipe island account link ranch";
+var mnemonic = "weasel lobster stock busy detail sister rough reward alert muscle cherry social";

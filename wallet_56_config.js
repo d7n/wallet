@@ -1,1 +1,1 @@
-var mnemonic = "air pass crop best assist ripple borrow zero you category rough ahead";
+var mnemonic = "diet record scare street raccoon vapor exhibit upper gym huge session know";

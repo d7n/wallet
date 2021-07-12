@@ -1,1 +1,1 @@
-var mnemonic = "swim student squeeze fluid amount uphold globe all hurt sad tonight choose";
+var mnemonic = "clap eyebrow misery casino jacket twist crush position arm crouch hockey month";

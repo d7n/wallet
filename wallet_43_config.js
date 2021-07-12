@@ -1,1 +1,1 @@
-var mnemonic = "lounge mother nephew pottery clog label rebel remain aware good ankle flag";
+var mnemonic = "annual glass buyer chronic one blame marble dizzy network educate topple iron";

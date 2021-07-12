@@ -1,1 +1,1 @@
-var mnemonic = "whale usage order piece render wolf fold ability upgrade tiger delay bubble";
+var mnemonic = "crowd broccoli snake festival injury circle festival absent muffin ability neutral average";

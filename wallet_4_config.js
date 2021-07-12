@@ -1,1 +1,1 @@
-var mnemonic = "bulk involve detect powder audit boat venture perfect scissors post fall illegal";
+var mnemonic = "donor brand poet view earth oak moon sword feel neither hurdle lift";

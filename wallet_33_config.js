@@ -1,1 +1,1 @@
-var mnemonic = "lady original toss wing lesson gravity relax inform grunt core word weather";
+var mnemonic = "athlete toe better interest genre foot pipe float scene wrist analyst begin";

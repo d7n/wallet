@@ -1,1 +1,1 @@
-var mnemonic = "early torch trumpet powder predict chunk episode soccer inner lock pilot stem";
+var mnemonic = "weekend rib useless error edit pluck kiwi banana film trip depend twelve";

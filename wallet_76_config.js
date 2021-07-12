@@ -1,1 +1,1 @@
-var mnemonic = "cricket plastic chunk moral matrix output access away smooth easy alcohol utility";
+var mnemonic = "find glance artwork economy urban upon box market cool sure basic dog";
