@@ -1,1 +1,1 @@
-var mnemonic = "cotton sick clay result glimpse top pattern vapor light spice welcome work";
+var mnemonic = "equal bird jump month peace chalk degree large decide pool soup school";

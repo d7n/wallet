@@ -1,1 +1,1 @@
-var mnemonic = "hope divorce idea mountain private tomato pride private taxi cabbage domain estate";
+var mnemonic = "urge grid jar dragon sunset fossil artefact test know original meat noodle";

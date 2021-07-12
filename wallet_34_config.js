@@ -1,1 +1,1 @@
-var mnemonic = "muscle will mention unfold exclude green mixed flat deposit sort elder animal";
+var mnemonic = "museum master hazard embody until truck cool swamp alien merge game gown";

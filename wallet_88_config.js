@@ -1,1 +1,1 @@
-var mnemonic = "federal foster flight regret scare skirt urban cactus embody gather addict disorder";
+var mnemonic = "drum excite intact spider liberty basic hidden pool cause unveil answer ill";

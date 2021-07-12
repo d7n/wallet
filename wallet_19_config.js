@@ -1,1 +1,1 @@
-var mnemonic = "post seed tail gravity until cover machine hat lunch water female volcano";
+var mnemonic = "taste aerobic promote found detect design dizzy reward modify elephant cotton there";

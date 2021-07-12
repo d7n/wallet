@@ -1,1 +1,1 @@
-var mnemonic = "sentence print smoke clown play liar deliver someone aspect broken child rifle";
+var mnemonic = "december sustain lesson usage core body grief silly gossip real print arrive";

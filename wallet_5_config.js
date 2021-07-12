@@ -1,1 +1,1 @@
-var mnemonic = "forget salt argue figure license habit tooth turn unlock water movie sport";
+var mnemonic = "bright orchard garage insane brief ball narrow relax foam royal slogan rule";

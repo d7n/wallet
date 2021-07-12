@@ -1,1 +1,1 @@
-var mnemonic = "real talk easy spy enemy scatter collect blur echo bright turkey elder";
+var mnemonic = "code visit surface catch original just caution buzz gather sunset erosion wet";

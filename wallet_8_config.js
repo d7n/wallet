@@ -1,1 +1,1 @@
-var mnemonic = "employ autumn during solar settle shed battle border battle marine stomach mystery";
+var mnemonic = "middle little monkey transfer ride upset panda wealth spend slot canyon tomorrow";

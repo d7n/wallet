@@ -1,1 +1,1 @@
-var mnemonic = "world shiver alarm feel grid elephant pretty crush warm mouse victory peanut";
+var mnemonic = "spoil wreck motion blame follow hurdle bid rifle gate hope shallow arrive";

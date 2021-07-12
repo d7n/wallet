@@ -1,1 +1,1 @@
-var mnemonic = "spread flash holiday credit pigeon bleak library fever destroy blade knee barely";
+var mnemonic = "want garlic mimic layer wagon evoke curve install welcome draw lemon great";

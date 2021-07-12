@@ -1,1 +1,1 @@
-var mnemonic = "stairs salon citizen february van live monitor tenant left kiwi twenty outdoor";
+var mnemonic = "omit master moment hockey elephant okay habit tackle panic nurse only employ";

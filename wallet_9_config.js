@@ -1,1 +1,1 @@
-var mnemonic = "teach mammal surface idea egg faith capital friend pact gather scatter ranch";
+var mnemonic = "kidney emotion behind return escape snap search eye nice light unfair door";

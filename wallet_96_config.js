@@ -1,1 +1,1 @@
-var mnemonic = "velvet token whale coil absorb cousin tackle hat confirm report stuff rebuild";
+var mnemonic = "point emerge crop orphan clog various drum ask tumble purse evoke sell";

@@ -1,1 +1,1 @@
-var mnemonic = "crush want awake noble soda cement lonely apple nut coach save creek";
+var mnemonic = "camp earn truck device similar idea jaguar canoe hunt bounce sustain spring";

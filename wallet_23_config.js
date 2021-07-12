@@ -1,1 +1,1 @@
-var mnemonic = "report flower case diesel whip debris romance world stem expect fit misery";
+var mnemonic = "fatal cousin bulb dawn walk lion point reason nerve simple curious dust";

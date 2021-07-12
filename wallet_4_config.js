@@ -1,1 +1,1 @@
-var mnemonic = "nature victory canal oak book flash collect cabin orchard busy round seat";
+var mnemonic = "shell bench slim model news joy icon quit sea video give pond";

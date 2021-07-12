@@ -1,1 +1,1 @@
-var mnemonic = "scissors drop ethics enact glance casino fury best clap route frost coach";
+var mnemonic = "prevent skill moral fantasy unable spare auction waste term burger peanut chronic";

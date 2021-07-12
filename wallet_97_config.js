@@ -1,1 +1,1 @@
-var mnemonic = "when wife output immune misery february shallow dose weapon tackle spread cake";
+var mnemonic = "distance blur perfect skin view inch praise riot quit early bunker stool";

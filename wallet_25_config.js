@@ -1,1 +1,1 @@
-var mnemonic = "usual forget kitten frost dial scout bonus fox fine friend bag tired";
+var mnemonic = "effort duty mountain apart eager crouch stuff cruel screen wish blouse ugly";

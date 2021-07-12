@@ -1,1 +1,1 @@
-var mnemonic = "half theme oven crisp note invite country pattern stairs come catalog drop";
+var mnemonic = "radio birth vintage fury print raccoon reopen evolve hole exclude puppy predict";

@@ -1,1 +1,1 @@
-var mnemonic = "chest royal glimpse domain turkey apart illness adapt bronze region dentist soup";
+var mnemonic = "wonder clarify mask breeze urban finger copy mechanic forum jewel leader gas";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe tooth mention people horn more keep witness perfect concert floor tooth";
+var mnemonic = "forum banana assault industry brief galaxy subject rapid cart drop ahead sugar";

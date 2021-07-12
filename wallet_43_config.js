@@ -1,1 +1,1 @@
-var mnemonic = "burger load large vapor warm salmon essay mercy quarter glide prepare defense";
+var mnemonic = "monitor air tell doctor mushroom valid argue zebra fault youth embark cool";

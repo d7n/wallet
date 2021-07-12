@@ -1,1 +1,1 @@
-var mnemonic = "renew suspect tool garlic feel swim planet series ghost exile bar camera";
+var mnemonic = "honey design where wash faith about advance bonus spend say interest ritual";

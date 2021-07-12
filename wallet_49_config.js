@@ -1,1 +1,1 @@
-var mnemonic = "demise hammer drive soul quit link spider trim orient buyer million cannon";
+var mnemonic = "mushroom curious divide correct double stairs heart high check little remain debate";

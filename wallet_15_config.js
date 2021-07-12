@@ -1,1 +1,1 @@
-var mnemonic = "fetch faint amount six climb journey unaware bus topic glare ridge distance";
+var mnemonic = "fault pony exist ask buffalo excite input sense lonely illegal sphere tiger";

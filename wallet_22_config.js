@@ -1,1 +1,1 @@
-var mnemonic = "purity later warfare crumble seek initial water round frozen radar volume mom";
+var mnemonic = "they beef weather word hold float tower siege broken fashion around grain";

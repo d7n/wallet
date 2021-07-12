@@ -1,1 +1,1 @@
-var mnemonic = "slim decide shuffle fuel attitude pull moral brisk grain moral happy dawn";
+var mnemonic = "bring trap indicate because rally badge height sight october organ rate estate";

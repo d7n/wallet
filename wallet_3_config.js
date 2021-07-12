@@ -1,1 +1,1 @@
-var mnemonic = "aisle toward electric improve divorce evil annual rally stay explain jelly ridge";
+var mnemonic = "beach disagree feature virus spot boil breeze love ring ask relax fossil";

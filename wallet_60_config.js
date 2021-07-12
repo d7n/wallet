@@ -1,1 +1,1 @@
-var mnemonic = "power decorate sheriff husband document edge stomach drop hybrid cousin gather shallow";
+var mnemonic = "scrub attend moment canoe merge kidney engine ostrich stamp sand wealth base";

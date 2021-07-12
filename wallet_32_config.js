@@ -1,1 +1,1 @@
-var mnemonic = "number inquiry crane nephew museum together teach waste marble reform stable cram";
+var mnemonic = "range upon they leg hover churn success hungry brother marble pole flip";

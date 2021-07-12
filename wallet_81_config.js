@@ -1,1 +1,1 @@
-var mnemonic = "become coral squeeze used canoe tattoo silk base bid any radio palace";
+var mnemonic = "orbit total vote labor coffee whale shiver wrist clay duck draw core";

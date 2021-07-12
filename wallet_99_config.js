@@ -1,1 +1,1 @@
-var mnemonic = "buddy peanut arm vote brick phone regret potato library waste distance armed";
+var mnemonic = "gap bean business silver mesh cloud drive struggle street arrive thrive bargain";

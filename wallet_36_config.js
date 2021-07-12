@@ -1,1 +1,1 @@
-var mnemonic = "bomb road cash dilemma finish kiwi state gift impose decide display bulk";
+var mnemonic = "core empty worry beyond private lend kit turkey daughter arrow smooth secret";

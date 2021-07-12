@@ -1,1 +1,1 @@
-var mnemonic = "differ harbor cram play buffalo asset spot behind regular river riot pyramid";
+var mnemonic = "ask country cement defy nice soon glide depth art innocent onion reveal";

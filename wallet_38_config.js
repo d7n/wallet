@@ -1,1 +1,1 @@
-var mnemonic = "wolf license segment three organ assault atom identify cactus quote screen alcohol";
+var mnemonic = "inform worry wheat faint program income cricket scene kangaroo deer convince fit";

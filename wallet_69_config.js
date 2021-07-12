@@ -1,1 +1,1 @@
-var mnemonic = "cube window genuine pluck bronze unable settle soul trick goddess design swap";
+var mnemonic = "explain park west guess differ excuse zone glue move educate february join";

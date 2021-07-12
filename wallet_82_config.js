@@ -1,1 +1,1 @@
-var mnemonic = "act want one tell radio strategy unfair element dose short deputy funny";
+var mnemonic = "girl wild license identify library piece gun label solve display sample process";

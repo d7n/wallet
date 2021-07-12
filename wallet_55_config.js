@@ -1,1 +1,1 @@
-var mnemonic = "slot toy mad surround remain party ankle fetch sting awesome hundred nuclear";
+var mnemonic = "tray message risk gorilla record reason recall language flip claw casino sweet";

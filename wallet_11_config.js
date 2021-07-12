@@ -1,1 +1,1 @@
-var mnemonic = "rookie betray pulse gold adapt waste skirt jar fluid jump glory point";
+var mnemonic = "welcome since people finish picnic march fiber foam bread talk party eyebrow";

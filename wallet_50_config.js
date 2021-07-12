@@ -1,1 +1,1 @@
-var mnemonic = "glad clerk load wine crunch wolf acoustic option valley almost broken glide";
+var mnemonic = "six wrong nut priority tray loop host cargo wisdom shield sketch document";

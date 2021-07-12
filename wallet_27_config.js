@@ -1,1 +1,1 @@
-var mnemonic = "piece exile tip track polar jazz aim logic narrow spot cart island";
+var mnemonic = "bubble grace betray end pyramid sample heavy wine ski across soon jazz";

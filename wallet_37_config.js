@@ -1,1 +1,1 @@
-var mnemonic = "problem kidney summer dog shrimp chat fashion law tiny romance number birth";
+var mnemonic = "fresh cruise mansion bone common dragon this like grocery chicken same awesome";

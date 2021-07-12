@@ -1,1 +1,1 @@
-var mnemonic = "enough champion theme flower pilot acoustic slow prepare flip tired arrange decide";
+var mnemonic = "feed attract odor vendor obey extra cement civil advice display below march";

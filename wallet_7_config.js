@@ -1,1 +1,1 @@
-var mnemonic = "tattoo excuse high float issue acoustic adapt foil tree tuna reject student";
+var mnemonic = "worry chapter name exclude race crash vendor few become toy original glue";

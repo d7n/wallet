@@ -1,1 +1,1 @@
-var mnemonic = "great card portion cluster control damage alcohol drive harvest strike usual faculty";
+var mnemonic = "famous reject rare ugly issue warfare question clog typical brisk gospel submit";

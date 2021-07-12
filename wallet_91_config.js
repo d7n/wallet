@@ -1,1 +1,1 @@
-var mnemonic = "divorce input cup regret dad another sheriff ski inject high normal tongue";
+var mnemonic = "reopen castle base useless surround endorse seminar inherit couch shadow bargain cute";

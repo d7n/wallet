@@ -1,1 +1,1 @@
-var mnemonic = "achieve power any fruit thank arrest alter lottery gallery slush major network";
+var mnemonic = "today finger large social badge chimney glory razor burger wait mobile enemy";

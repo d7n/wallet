@@ -1,1 +1,1 @@
-var mnemonic = "vapor sustain social kangaroo visa student raccoon mention inch innocent fatal shove";
+var mnemonic = "fee train man early wrist kitchen inhale real wet amateur clog evoke";

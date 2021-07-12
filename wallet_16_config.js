@@ -1,1 +1,1 @@
-var mnemonic = "club black opera member crew license sure canal smooth lawn major develop";
+var mnemonic = "floor feel repeat trick tag file group recall fog jewel spirit trade";

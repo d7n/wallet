@@ -1,1 +1,1 @@
-var mnemonic = "increase design mistake scheme want credit pelican stool tag opinion rule surface";
+var mnemonic = "amused poet deer unfold stand cousin lock glance toe script helmet also";

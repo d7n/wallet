@@ -1,1 +1,1 @@
-var mnemonic = "age ice decide wing chalk pole noble father follow rookie limb myself";
+var mnemonic = "behave usage degree group twelve clever hole donate gloom pitch kiwi despair";

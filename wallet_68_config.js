@@ -1,1 +1,1 @@
-var mnemonic = "fragile ginger size lamp mutual guilt pluck review broom harbor scare height";
+var mnemonic = "about barrel sentence monkey elite mixture alpha evil nest egg coconut use";

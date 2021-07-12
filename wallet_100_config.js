@@ -1,1 +1,1 @@
-var mnemonic = "neutral balance pelican slab minor need ankle clarify spawn service foster rural";
+var mnemonic = "eight guitar renew squirrel join garden wet belt vintage habit fortune option";

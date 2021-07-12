@@ -1,1 +1,1 @@
-var mnemonic = "match advance theme unit affair twice hood quality into simple please capital";
+var mnemonic = "range mammal pill style interest awful clay exist adult business wait vital";

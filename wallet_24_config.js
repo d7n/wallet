@@ -1,1 +1,1 @@
-var mnemonic = "plastic rice assault exotic radio monster coach cube border poverty glide admit";
+var mnemonic = "crowd outdoor quiz polar fringe torch mushroom reunion love goat basic wheat";

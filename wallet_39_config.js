@@ -1,1 +1,1 @@
-var mnemonic = "neglect mystery awkward equip gain wedding lumber proof sweet canal patch budget";
+var mnemonic = "ladder leave web model chase own kit visit gentle festival shadow rule";

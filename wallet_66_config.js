@@ -1,1 +1,1 @@
-var mnemonic = "genuine table second tragic when output filter hollow chapter pottery vast tragic";
+var mnemonic = "cart spread canoe render shallow else stumble alley club dentist clown fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige raven walk fan deposit jealous else federal flight upset clinic inquiry";
+var mnemonic = "jaguar good find fog drastic middle man pet power skull siege ridge";

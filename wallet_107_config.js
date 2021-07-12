@@ -1,1 +1,1 @@
-var mnemonic = "chief panther stumble feature prize meat pipe language still spend desert oyster";
+var mnemonic = "elbow total rain desk rain canal dirt utility radio hunt embody trophy";

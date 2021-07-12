@@ -1,1 +1,1 @@
-var mnemonic = "woman radio burger general pyramid pudding bread solve stomach salon roast mixed";
+var mnemonic = "connect clutch museum rescue rain base oyster goddess final point banner frost";

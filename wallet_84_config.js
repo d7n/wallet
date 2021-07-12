@@ -1,1 +1,1 @@
-var mnemonic = "help renew obey bacon bronze element trade access flush engine try author";
+var mnemonic = "general monster possible image menu echo joy imitate bracket praise fatigue garlic";

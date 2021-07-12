@@ -1,1 +1,1 @@
-var mnemonic = "profit lion expose immense carbon divert select clock royal drift clog taxi";
+var mnemonic = "skull false capital song chaos basic artist cattle timber find ankle adapt";

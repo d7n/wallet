@@ -1,1 +1,1 @@
-var mnemonic = "plug park home art glare major fix buddy rifle emerge boss blossom";
+var mnemonic = "garden circle pelican valley cook thrive fame eager victory antique fee slim";

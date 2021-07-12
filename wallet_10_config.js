@@ -1,1 +1,1 @@
-var mnemonic = "better hammer catalog jacket friend gap dream pill stage liquid small laptop";
+var mnemonic = "comic faint vicious olive slot lazy goat hard soap whale home point";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish only fetch hollow pool replace worry position wet senior duck sauce";
+var mnemonic = "urge skull sustain law unfold upgrade very topple bright empty drop mention";

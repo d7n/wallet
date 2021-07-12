@@ -1,1 +1,1 @@
-var mnemonic = "impact media daughter fine symptom clog chef cabbage scan two sword wood";
+var mnemonic = "maid cool advance clip iron convince bind nurse vague cloth market opera";

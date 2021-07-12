@@ -1,1 +1,1 @@
-var mnemonic = "left inhale clown beauty that text online retreat fence isolate point divide";
+var mnemonic = "burden ramp dignity negative brain fade corn dwarf guide knock rule affair";

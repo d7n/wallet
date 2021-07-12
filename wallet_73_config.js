@@ -1,1 +1,1 @@
-var mnemonic = "dwarf model oven lens time assist shrug daughter mandate crack vote seed";
+var mnemonic = "swallow repair dove food theme general long describe load hamster hundred robot";

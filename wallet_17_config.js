@@ -1,1 +1,1 @@
-var mnemonic = "vessel august monster typical bulk march multiply bright green sad sibling glare";
+var mnemonic = "alpha illegal absorb situate ride strong focus jelly shift cluster text radar";

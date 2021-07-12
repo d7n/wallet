@@ -1,1 +1,1 @@
-var mnemonic = "core canal license quote obvious panic you wall super relax magic draft";
+var mnemonic = "cabbage squirrel orient action arrive share lobster minute marriage wrestle fence basic";

@@ -1,1 +1,1 @@
-var mnemonic = "first pill junior beyond bachelor point great tornado aware cactus taxi cruise";
+var mnemonic = "plate round pudding glimpse truck transfer crowd perfect blush useful pig hand";

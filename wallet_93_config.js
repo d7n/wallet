@@ -1,1 +1,1 @@
-var mnemonic = "slab million chicken talent dad utility rookie script salon ostrich pulp obey";
+var mnemonic = "that rug profit entire symbol asset kingdom heavy hidden canal note fossil";

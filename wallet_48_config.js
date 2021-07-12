@@ -1,1 +1,1 @@
-var mnemonic = "shuffle erase swift bus warfare rotate artist brief example input friend brief";
+var mnemonic = "post coffee relief broom vessel flower scatter apple sauce planet gaze midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent hair combine prefer ability quick under thunder scout decline drum talk";
+var mnemonic = "seed desert oppose pigeon affair unique three unique rival tennis gaze purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow agree position stuff town good ranch enough solution simple foil file";
+var mnemonic = "hip approve monster between broccoli ecology injury betray advance maximum also sound";

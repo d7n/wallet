@@ -1,1 +1,1 @@
-var mnemonic = "fade history palm giraffe venue cigar flock guard crouch among fog buddy";
+var mnemonic = "salute harsh retreat forum night oxygen ready soap excuse believe vague museum";

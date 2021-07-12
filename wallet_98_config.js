@@ -1,1 +1,1 @@
-var mnemonic = "menu shoot hill piece approve extend bike mean any canoe noise creek";
+var mnemonic = "theme radio inner mom surround team deliver spot once vendor early airport";

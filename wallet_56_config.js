@@ -1,1 +1,1 @@
-var mnemonic = "carbon degree ill forward rail canal enhance spray rent dice winter detect";
+var mnemonic = "seat pride asthma entire glue glue crush addict empower cricket employ nurse";

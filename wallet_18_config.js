@@ -1,1 +1,1 @@
-var mnemonic = "crush window remove spatial casual seek tent patrol swift front cupboard already";
+var mnemonic = "claim code warfare school miracle supreme retreat apart detail reveal silly army";

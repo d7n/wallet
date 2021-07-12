@@ -1,1 +1,1 @@
-var mnemonic = "predict ten chest little pencil salad memory myth exist happy anchor soldier";
+var mnemonic = "base young roof grain inform breeze clutch guess ramp fade move olympic";

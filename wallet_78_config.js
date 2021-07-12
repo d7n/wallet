@@ -1,1 +1,1 @@
-var mnemonic = "leave boss market medal balcony smoke cigar spoon issue never swear used";
+var mnemonic = "myself height recipe network rabbit catalog clown patient utility stamp moment project";

@@ -1,1 +1,1 @@
-var mnemonic = "crack afford street similar zone blame mean work original pistol century evolve";
+var mnemonic = "quality leg want city foil purse power soon man strong drop sense";

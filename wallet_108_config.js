@@ -1,1 +1,1 @@
-var mnemonic = "mercy since option rude train alone tilt prosper dance now west draft";
+var mnemonic = "wrap ostrich around poet range list state control deliver champion cotton patient";

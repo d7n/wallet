@@ -1,1 +1,1 @@
-var mnemonic = "negative own rhythm wagon large faint true catch motor doctor amused choose";
+var mnemonic = "puzzle nerve prepare ethics rotate close capital shop suggest holiday want hat";

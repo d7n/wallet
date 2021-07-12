@@ -1,1 +1,1 @@
-var mnemonic = "amount punch weasel orange stable vague bulb gadget easily wave hurry blossom";
+var mnemonic = "media salmon animal fall coffee there fresh barrel limit come spoil uniform";

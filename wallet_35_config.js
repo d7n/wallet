@@ -1,1 +1,1 @@
-var mnemonic = "abuse acoustic dutch response strong decrease space rain want giraffe regret useless";
+var mnemonic = "parade embark claim dynamic allow silk tape render slim cover wood skin";

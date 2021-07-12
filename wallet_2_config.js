@@ -1,1 +1,1 @@
-var mnemonic = "magic twin yard zebra athlete broken horse neutral purse buyer salad cactus";
+var mnemonic = "shy stumble capable cook denial bulb asset craft bicycle muscle sister large";

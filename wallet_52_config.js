@@ -1,1 +1,1 @@
-var mnemonic = "swim river auction usage toast mention zebra recipe add waste fox tag";
+var mnemonic = "kiss unusual embark expose food burger finger glare asthma repair recipe patrol";

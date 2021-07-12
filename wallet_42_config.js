@@ -1,1 +1,1 @@
-var mnemonic = "flip idea fade grant foster curve rubber average decrease begin tone eternal";
+var mnemonic = "air thing fabric margin brain lift surface congress pluck wolf draw cabbage";

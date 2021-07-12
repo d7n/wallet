@@ -1,1 +1,1 @@
-var mnemonic = "hurt senior buddy melt eyebrow smile blind pledge fatigue physical cage cross";
+var mnemonic = "hip mule right tray doll sister awesome glimpse void wisdom rabbit stage";

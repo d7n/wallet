@@ -1,1 +1,1 @@
-var mnemonic = "panel power follow identify appear coin typical pitch edit royal buzz renew";
+var mnemonic = "define joy prize eagle trash crunch absent excess dry glide economy exile";
