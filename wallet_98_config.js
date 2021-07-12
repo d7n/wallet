@@ -1,1 +1,1 @@
-var mnemonic = "help recipe soda trash slot stadium balcony rival regret shift reflect group";
+var mnemonic = "any nose crack muffin million rack secret awesome idle onion sunny night";

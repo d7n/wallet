@@ -1,1 +1,1 @@
-var mnemonic = "tail mandate country ring stairs protect sock burden talent inhale distance reform";
+var mnemonic = "what dad vocal slot exotic tray reflect increase theory spot daring bubble";

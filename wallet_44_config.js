@@ -1,1 +1,1 @@
-var mnemonic = "thing wear safe ivory topic evolve develop robot chief reward pipe gasp";
+var mnemonic = "garage weekend offer invest turn decrease prize glance bubble tide aware siege";

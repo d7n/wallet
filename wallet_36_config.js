@@ -1,1 +1,1 @@
-var mnemonic = "chuckle midnight ritual exclude chronic print nice ecology live soldier pattern talent";
+var mnemonic = "boat permit blame siren cage book jacket gap oxygen stock giraffe creek";

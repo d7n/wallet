@@ -1,1 +1,1 @@
-var mnemonic = "lab myth jewel retire grab item burger avocado abuse involve fabric arrive";
+var mnemonic = "tell cycle eternal permit depart turkey left water praise dolphin steel film";

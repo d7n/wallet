@@ -1,1 +1,1 @@
-var mnemonic = "portion captain name mixture climb south keen help divorce device trouble keen";
+var mnemonic = "industry manual sell rather change smooth sell success trap engage sting off";

@@ -1,1 +1,1 @@
-var mnemonic = "panda mule method wrap cruel hood bright across spring leader broom uncover";
+var mnemonic = "issue benefit shy fall gown cool twist dentist lab coyote helmet general";

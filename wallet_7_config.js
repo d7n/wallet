@@ -1,1 +1,1 @@
-var mnemonic = "fantasy hawk muscle tail school race machine antique expand stadium move oven";
+var mnemonic = "auction broccoli gravity zoo drum spawn guess tonight capable pigeon process arrive";

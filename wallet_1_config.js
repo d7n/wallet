@@ -1,1 +1,1 @@
-var mnemonic = "always man replace useful plunge enter mother fetch found recipe olympic flush";
+var mnemonic = "cash awake absurd ski edit nasty mom leisure prefer cover among history";

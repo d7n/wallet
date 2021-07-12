@@ -1,1 +1,1 @@
-var mnemonic = "element tent stem furnace check amused guard electric garbage bright speak reflect";
+var mnemonic = "bottom raccoon magnet basket opera meadow ginger coast clean penalty song second";

@@ -1,1 +1,1 @@
-var mnemonic = "copy enjoy wheel brand marriage script guard practice quote chuckle cube hidden";
+var mnemonic = "example outside jewel coconut husband ten color steel leisure exhaust begin entire";

@@ -1,1 +1,1 @@
-var mnemonic = "earn book canvas repeat leg spot law dune ski size clean memory";
+var mnemonic = "mention frozen false broccoli forget bread remind web anxiety march clinic easy";

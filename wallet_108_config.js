@@ -1,1 +1,1 @@
-var mnemonic = "magnet pact glare rival route vague clay rotate high jazz upper tool";
+var mnemonic = "good brain zone ranch mobile regret exotic artefact absorb concert text silk";

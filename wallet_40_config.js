@@ -1,1 +1,1 @@
-var mnemonic = "love october destroy embrace beauty shadow exhaust then potato shrimp animal fury";
+var mnemonic = "busy unique canvas vessel struggle ritual profit flame airport travel short woman";

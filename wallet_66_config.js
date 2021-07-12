@@ -1,1 +1,1 @@
-var mnemonic = "dragon youth hedgehog permit speed dial sheriff tank palm network ensure useless";
+var mnemonic = "become pipe heavy edge enough situate snack choose artwork card remember enlist";

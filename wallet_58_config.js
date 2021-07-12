@@ -1,1 +1,1 @@
-var mnemonic = "tool artist baby mail salt inflict cage result stadium entire caution carbon";
+var mnemonic = "wait forum hub suggest erase turtle pride idea kitten fury giggle sick";

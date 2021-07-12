@@ -1,1 +1,1 @@
-var mnemonic = "ordinary often control opera announce enrich toss tenant give layer bachelor media";
+var mnemonic = "cricket benefit seminar lock thing toast giggle already resemble midnight jacket card";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion pill train sea reveal pave trophy usual core struggle snap syrup";
+var mnemonic = "hub wrap train happy good card figure ankle fine humor best join";

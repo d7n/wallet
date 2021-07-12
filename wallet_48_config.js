@@ -1,1 +1,1 @@
-var mnemonic = "balance jump account humble inquiry entry modify reform change access urban surge";
+var mnemonic = "raise web slot analyst try output ocean scrub rotate keen noodle puppy";

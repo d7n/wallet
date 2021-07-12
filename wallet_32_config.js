@@ -1,1 +1,1 @@
-var mnemonic = "lottery outer seven delay minute leopard law cigar dizzy together update renew";
+var mnemonic = "chair bottom glimpse tongue thought vicious apology fashion rubber hockey matrix motion";

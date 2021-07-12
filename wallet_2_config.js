@@ -1,1 +1,1 @@
-var mnemonic = "gate curve medal virus comfort seven damage rare yard kidney regret when";
+var mnemonic = "title illness caught above museum extend monitor breeze check bubble lizard report";

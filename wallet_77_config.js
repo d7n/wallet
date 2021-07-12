@@ -1,1 +1,1 @@
-var mnemonic = "grace wolf connect tuition demand banner stumble purity lend sentence hood milk";
+var mnemonic = "sibling kingdom sight before learn fringe fat grape screen library music field";

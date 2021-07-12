@@ -1,1 +1,1 @@
-var mnemonic = "science license empower urban odor already bleak unknown team sponsor rescue level";
+var mnemonic = "mouse exile business mother toss orphan enough delay patient decline divert spot";

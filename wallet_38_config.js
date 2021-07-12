@@ -1,1 +1,1 @@
-var mnemonic = "ring twelve city market liquid guard chapter inquiry match world whisper hub";
+var mnemonic = "goddess toward faith remove moon neither gun shoot private spirit bunker whip";

@@ -1,1 +1,1 @@
-var mnemonic = "rate pumpkin soft online spoon bunker smoke climb wear fish churn panther";
+var mnemonic = "tilt erosion hockey alpha year double grant undo vicious broccoli name mirror";

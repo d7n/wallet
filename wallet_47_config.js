@@ -1,1 +1,1 @@
-var mnemonic = "super flavor vehicle switch mad pole finger cactus dwarf nurse cousin either";
+var mnemonic = "try multiply hamster mandate orient theory random install pen disorder swim clinic";

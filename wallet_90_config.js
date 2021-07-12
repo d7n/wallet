@@ -1,1 +1,1 @@
-var mnemonic = "solar blind rhythm immune garden fun quality useless add tissue exhibit lawn";
+var mnemonic = "gauge disagree fitness output borrow turn color proof crowd advice renew opinion";

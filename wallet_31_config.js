@@ -1,1 +1,1 @@
-var mnemonic = "flight breeze cram rich mask antenna fiscal economy climb clock boss tone";
+var mnemonic = "lottery tuna leg board body ordinary clump luxury element disease also erosion";

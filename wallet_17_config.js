@@ -1,1 +1,1 @@
-var mnemonic = "ask describe light riot volume miracle describe juice tackle unlock song surface";
+var mnemonic = "town awful today already second balance sunset trumpet mountain cement erode carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "gap stay express hunt give mixed oppose unit leopard abstract scrap jump";
+var mnemonic = "amateur birth wage pretty task target capable hybrid decline answer naive vendor";

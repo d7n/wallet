@@ -1,1 +1,1 @@
-var mnemonic = "benefit pistol solid dawn hurdle keep steak owner rug risk rose stable";
+var mnemonic = "strike witness turkey quit decorate problem trophy phone vacuum peanut verb captain";

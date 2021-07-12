@@ -1,1 +1,1 @@
-var mnemonic = "that million sing tide vehicle blade pen outer pretty blur case oppose";
+var mnemonic = "reveal finger frog area decide promote lonely nice nature shiver clown demise";

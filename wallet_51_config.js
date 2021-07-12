@@ -1,1 +1,1 @@
-var mnemonic = "market exotic over lottery width enter ring charge public rebel city sand";
+var mnemonic = "oak wear public gap ordinary today dismiss rotate trim amazing achieve assume";

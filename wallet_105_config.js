@@ -1,1 +1,1 @@
-var mnemonic = "afraid lawn prefer casino inspire protect harsh found combine ladder napkin ocean";
+var mnemonic = "region crime isolate join cook enlist spray skin obvious excuse coast wish";

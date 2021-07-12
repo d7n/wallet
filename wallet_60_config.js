@@ -1,1 +1,1 @@
-var mnemonic = "critic client venture clean rug tattoo daughter reward hobby scheme ahead ability";
+var mnemonic = "quantum thunder oxygen fan medal reduce dust artist together walnut rib account";

@@ -1,1 +1,1 @@
-var mnemonic = "movie staff speak since train cruel mammal library drip blood alpha menu";
+var mnemonic = "ski quick real decade embark raccoon steak fuel coach auto sell weird";

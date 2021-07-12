@@ -1,1 +1,1 @@
-var mnemonic = "mountain gloom eagle only box stuff range arctic hold hip apology depend";
+var mnemonic = "panic army focus pig grab fever cargo siren amused embody oxygen love";

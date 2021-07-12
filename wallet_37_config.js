@@ -1,1 +1,1 @@
-var mnemonic = "demand public pencil love away second about purpose govern build goddess lawsuit";
+var mnemonic = "capable invite oblige toast include valve judge dial artwork vivid estate require";

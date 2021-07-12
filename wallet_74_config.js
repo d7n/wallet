@@ -1,1 +1,1 @@
-var mnemonic = "melody math mind amused right minor salad meadow firm vacant age often";
+var mnemonic = "monitor world modify envelope fan jazz young only scissors gift just pave";

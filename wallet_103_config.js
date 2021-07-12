@@ -1,1 +1,1 @@
-var mnemonic = "skin easy follow bracket gesture tail trap grief bag medal frame road";
+var mnemonic = "mammal course barely feel consider choose tube brain random cancel wink rabbit";

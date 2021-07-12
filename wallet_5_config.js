@@ -1,1 +1,1 @@
-var mnemonic = "suggest elder drive uphold video vague model section sustain tray immune young";
+var mnemonic = "hazard employ boss sauce cheap champion soldier evoke afford master way feel";

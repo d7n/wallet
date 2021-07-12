@@ -1,1 +1,1 @@
-var mnemonic = "cost language increase female gorilla man enable open rough retreat boil spice";
+var mnemonic = "danger since setup mother slam market pistol tuition shaft media arrange glance";

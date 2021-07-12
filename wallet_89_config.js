@@ -1,1 +1,1 @@
-var mnemonic = "mixed make reopen swarm siren sheriff machine street tell onion file evoke";
+var mnemonic = "pretty road punch inquiry bottom celery shell bike purpose agree goat knife";

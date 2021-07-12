@@ -1,1 +1,1 @@
-var mnemonic = "finger pilot brand genuine pair invite age novel guilt famous clip baby";
+var mnemonic = "hip flash will album dad company paddle blur name coin quiz sniff";

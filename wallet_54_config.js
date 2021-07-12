@@ -1,1 +1,1 @@
-var mnemonic = "battle inside shrug accident bone tonight transfer asthma throw will fossil public";
+var mnemonic = "medal army file license deliver body bulb broccoli garment never rescue mention";

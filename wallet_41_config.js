@@ -1,1 +1,1 @@
-var mnemonic = "monitor argue youth risk orange square fetch belt umbrella foot trip apart";
+var mnemonic = "rocket add wrong earth average help kingdom husband hand scale soldier pass";

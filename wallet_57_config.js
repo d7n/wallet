@@ -1,1 +1,1 @@
-var mnemonic = "blouse effort crucial again public apology snap fruit midnight attend clog enlist";
+var mnemonic = "gun betray tip pond enjoy half note bar friend bird crisp fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey edit clinic boil echo huge gate detail faint expire aerobic addict";
+var mnemonic = "exotic trial sunny artist only hire nothing begin flame item tuition antique";

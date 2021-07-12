@@ -1,1 +1,1 @@
-var mnemonic = "blossom crawl chaos upset long quarter kidney word coconut inflict slight hope";
+var mnemonic = "brick bulk trim lawsuit flip code talk hope govern beef scatter still";

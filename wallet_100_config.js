@@ -1,1 +1,1 @@
-var mnemonic = "slice text yard mixture time nation occur girl mammal smile pond erode";
+var mnemonic = "amateur essay toast card guide cram try rent squirrel offer episode raw";

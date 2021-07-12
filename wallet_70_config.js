@@ -1,1 +1,1 @@
-var mnemonic = "loop obtain kid author limit crack oval put away parrot toss box";
+var mnemonic = "renew object morning aunt wedding casual swift senior knife alarm sniff give";

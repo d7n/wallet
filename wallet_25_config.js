@@ -1,1 +1,1 @@
-var mnemonic = "omit bomb polar pink twist monitor nest choose spell boat saddle current";
+var mnemonic = "trick decorate seek dove virtual horse tree extra simple three resist mad";

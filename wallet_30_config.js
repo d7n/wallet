@@ -1,1 +1,1 @@
-var mnemonic = "coin develop ankle novel between twin glad gravity viable snap panda blast";
+var mnemonic = "belt link dress magnet term depth process citizen power fantasy oxygen ramp";

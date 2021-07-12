@@ -1,1 +1,1 @@
-var mnemonic = "wear great future word salmon frozen pole express offer knife tray soon";
+var mnemonic = "more test easily risk asthma bounce maximum fish wise price labor cover";

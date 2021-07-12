@@ -1,1 +1,1 @@
-var mnemonic = "parrot explain clarify other coast give census cushion copper slight wrap vivid";
+var mnemonic = "able another drip cry horse flag retire same film switch guard coral";

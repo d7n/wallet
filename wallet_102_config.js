@@ -1,1 +1,1 @@
-var mnemonic = "decade slogan danger domain mass yard settle gain rural gym clock chat";
+var mnemonic = "brass meadow update lend cement fancy bright direct champion yellow sound measure";

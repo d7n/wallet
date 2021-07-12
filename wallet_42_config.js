@@ -1,1 +1,1 @@
-var mnemonic = "earth guard apart wise large ready multiply hope only iron turn chimney";
+var mnemonic = "card estate find organ rebuild ripple sword turkey inherit depend face gesture";

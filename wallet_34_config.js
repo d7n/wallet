@@ -1,1 +1,1 @@
-var mnemonic = "response faith hobby exclude bike fly feature youth large birth act pave";
+var mnemonic = "sea project siege ice can person strategy country tragic eyebrow wrong junk";

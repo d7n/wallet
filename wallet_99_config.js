@@ -1,1 +1,1 @@
-var mnemonic = "cute funny clever south cart party decrease rely open vast hurt oak";
+var mnemonic = "century disease today mail grab maple beef empower mention rent zoo betray";

@@ -1,1 +1,1 @@
-var mnemonic = "next record tape sadness aware amount estate segment visit brain client protect";
+var mnemonic = "list crack umbrella educate now mansion coach small mutual stomach great hospital";

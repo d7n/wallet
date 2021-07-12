@@ -1,1 +1,1 @@
-var mnemonic = "fix brisk room vicious fatigue smart faculty margin life noise riot curious";
+var mnemonic = "garage giraffe social portion critic ahead pear notable flag tip marine shift";

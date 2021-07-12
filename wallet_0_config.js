@@ -1,1 +1,1 @@
-var mnemonic = "drastic bright enough write basic excite nephew zoo detect sustain tuition echo";
+var mnemonic = "clip dizzy vital cinnamon orange large illegal immense light sibling tuition zone";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect spoil affair athlete trade insect shift food chest easy cinnamon right";
+var mnemonic = "lonely seat drop expand asthma glove fork bless river raccoon erode come";

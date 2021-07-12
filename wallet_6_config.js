@@ -1,1 +1,1 @@
-var mnemonic = "hub endorse list must hazard update ladder current reflect tortoise great vessel";
+var mnemonic = "valid stand razor travel surround master scene dream electric loud actor denial";

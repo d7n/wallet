@@ -1,1 +1,1 @@
-var mnemonic = "waste spray affair verify kick ladder pole upon inside vanish juice parent";
+var mnemonic = "dilemma pepper execute churn update opinion cave movie behave latin horse position";

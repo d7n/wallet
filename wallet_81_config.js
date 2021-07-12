@@ -1,1 +1,1 @@
-var mnemonic = "source trip off rifle drum island huge solid jazz enrich truly winter";
+var mnemonic = "material lottery grain muscle country family hurdle faint slice volcano emotion sand";

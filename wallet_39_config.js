@@ -1,1 +1,1 @@
-var mnemonic = "mix stomach hurdle penalty candy hello access practice detail panel chapter gas";
+var mnemonic = "agent toss broom enable across hollow acquire season journey fish result betray";

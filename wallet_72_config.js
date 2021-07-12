@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon all decorate wine wash barely spoon frown evil later obtain choose";
+var mnemonic = "say insane draft forget twin devote curious rate lady empty entire visa";

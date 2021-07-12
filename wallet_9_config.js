@@ -1,1 +1,1 @@
-var mnemonic = "pen save clean beach orchard mixture own tank erode mad save always";
+var mnemonic = "grace country possible join grit oblige you suit embody sort own front";

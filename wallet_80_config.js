@@ -1,1 +1,1 @@
-var mnemonic = "genre miss merit release island royal steak deer violin since obtain hero";
+var mnemonic = "chief poem combine burst scrub enact mean amused fresh later elder funny";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis pelican moon sport parade crew enough youth little census sniff dizzy";
+var mnemonic = "kit bomb mystery pepper model helmet sword moment appear leopard pelican say";

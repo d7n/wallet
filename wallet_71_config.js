@@ -1,1 +1,1 @@
-var mnemonic = "ice make envelope army member forward flock buddy force mix sudden jelly";
+var mnemonic = "salmon clever east kite recall only neck paddle carbon crush east charge";

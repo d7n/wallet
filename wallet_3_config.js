@@ -1,1 +1,1 @@
-var mnemonic = "vibrant net feel bubble enlist shadow law six dream light unit advance";
+var mnemonic = "denial quick mail banner family embrace wink marine climb secret hunt mansion";

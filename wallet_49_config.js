@@ -1,1 +1,1 @@
-var mnemonic = "sustain stock penalty tank sauce alley door solid cat cry chest light";
+var mnemonic = "wedding kind bring silent access staff stadium panther jar organ country mercy";

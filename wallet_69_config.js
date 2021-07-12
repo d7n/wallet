@@ -1,1 +1,1 @@
-var mnemonic = "chief stove major right lounge garbage scrub shock arrive thumb tragic fence";
+var mnemonic = "small circle sing cover room enforce caution magic client coin donkey bullet";

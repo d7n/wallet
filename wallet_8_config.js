@@ -1,1 +1,1 @@
-var mnemonic = "envelope hammer laugh group choose borrow employ federal bamboo minimum point alone";
+var mnemonic = "curtain state response margin carpet scrub flag tree clump memory cruise reject";

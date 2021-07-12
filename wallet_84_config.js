@@ -1,1 +1,1 @@
-var mnemonic = "style combine erupt gift oblige phone jacket glad access budget cherry bubble";
+var mnemonic = "shed nerve mouse extend science hungry forward moment talent empower enrich frequent";

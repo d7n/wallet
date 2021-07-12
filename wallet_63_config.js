@@ -1,1 +1,1 @@
-var mnemonic = "culture exact stand click amateur drive dizzy antique solve tornado atom kidney";
+var mnemonic = "direct raccoon party unknown above step crane minimum zebra nominee shuffle wrong";

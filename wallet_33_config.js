@@ -1,1 +1,1 @@
-var mnemonic = "poet throw girl marriage oven critic school wage cash powder sting cable";
+var mnemonic = "notable agent noodle flag kiss transfer kingdom security artist outside kitten catalog";

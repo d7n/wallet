@@ -1,1 +1,1 @@
-var mnemonic = "need intact depart cabbage define champion annual large donkey keen side civil";
+var mnemonic = "knife humor obey mule hold chest opinion decrease arrive receive divorce arm";

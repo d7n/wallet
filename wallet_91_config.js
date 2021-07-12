@@ -1,1 +1,1 @@
-var mnemonic = "negative cherry camera street enemy indicate mail install supply evolve simple chuckle";
+var mnemonic = "pole judge subject hurdle symptom donate seven punch six tip park language";

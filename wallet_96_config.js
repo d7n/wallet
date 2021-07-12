@@ -1,1 +1,1 @@
-var mnemonic = "mouse chair anger tool slim liar enough tower biology identify wheat parent";
+var mnemonic = "calm neither mule fabric typical trade february motion dilemma office hair receive";

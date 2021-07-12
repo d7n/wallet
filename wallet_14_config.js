@@ -1,1 +1,1 @@
-var mnemonic = "differ carry state elephant write snap brass mystery goat betray inject tired";
+var mnemonic = "cost fluid double near menu dial front boring version reject envelope skirt";

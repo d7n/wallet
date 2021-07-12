@@ -1,1 +1,1 @@
-var mnemonic = "receive conduct assume vessel depend friend photo gas crash cause exhaust panther";
+var mnemonic = "stem orient flag casino inner buzz sponsor page people reopen leg exile";

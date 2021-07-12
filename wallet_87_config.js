@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hungry ginger legal gain ten cushion cake resource monitor isolate tuna";
+var mnemonic = "wink arrow knock album squirrel link stairs cry yard about material robot";

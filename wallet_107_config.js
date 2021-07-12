@@ -1,1 +1,1 @@
-var mnemonic = "cream finger reunion rent extend level nothing raise obvious speed theory design";
+var mnemonic = "announce ankle post wrist join normal liquid moral car tobacco welcome drill";

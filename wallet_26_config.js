@@ -1,1 +1,1 @@
-var mnemonic = "invest tiny shine shock random wine caught pepper tuition home memory toilet";
+var mnemonic = "crawl lunch mammal toe finger south address power weird syrup napkin double";

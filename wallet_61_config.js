@@ -1,1 +1,1 @@
-var mnemonic = "hammer peanut siren improve click casual fish gloom account fix matrix arrest";
+var mnemonic = "example brown moment often nice fiber convince dilemma burst actress elite harbor";

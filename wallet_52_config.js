@@ -1,1 +1,1 @@
-var mnemonic = "wave vibrant tornado pear rent current inspire fruit letter clay empty blush";
+var mnemonic = "heavy easily lucky remove flame believe champion matrix start fantasy shift wealth";

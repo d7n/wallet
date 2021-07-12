@@ -1,1 +1,1 @@
-var mnemonic = "dismiss language dry wasp soccer desk appear soap captain jungle solution afford";
+var mnemonic = "ensure tonight parent vault media pizza mercy peace comic hill cancel gather";

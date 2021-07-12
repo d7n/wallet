@@ -1,1 +1,1 @@
-var mnemonic = "grunt notice lesson yellow dial typical velvet oyster almost puppy busy mushroom";
+var mnemonic = "retire hover drink fault furnace spare blossom copper planet ivory exhaust buzz";

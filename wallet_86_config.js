@@ -1,1 +1,1 @@
-var mnemonic = "country volume dumb manage month era maid dress brave dance miss mistake";
+var mnemonic = "joy insect option timber festival garbage tongue shaft pony oven piece garlic";

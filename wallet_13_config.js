@@ -1,1 +1,1 @@
-var mnemonic = "reason garage retire genre carpet action waste case give icon student donate";
+var mnemonic = "deer awkward swamp treat paddle entry banana cabbage poem point dizzy blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch combine upset year flock combine decade leisure rookie undo crash transfer";
+var mnemonic = "shine rose sibling find season heart chimney pear verify ivory duck tumble";

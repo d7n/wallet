@@ -1,1 +1,1 @@
-var mnemonic = "plate sign shift pig baby ceiling come decide use index flight source";
+var mnemonic = "sing derive comic glue surround clutch balance thumb fox episode extend tape";

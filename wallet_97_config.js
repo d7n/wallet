@@ -1,1 +1,1 @@
-var mnemonic = "hungry arrow police vehicle demise same minor conduct elbow gas foil purse";
+var mnemonic = "frost various evoke famous atom message metal demand much crawl phone gift";
