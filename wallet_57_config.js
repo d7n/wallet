@@ -1,1 +1,1 @@
-var mnemonic = "corn mind section soon family squeeze random royal dove cargo original depart";
+var mnemonic = "increase ethics parrot visit oblige intact help brain divert pause session frog";

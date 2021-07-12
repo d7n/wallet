@@ -1,1 +1,1 @@
-var mnemonic = "twist behave quarter evolve gauge update execute click senior hungry rib dust";
+var mnemonic = "modify panther soft gaze vicious start virus demise hen shell evidence tiger";

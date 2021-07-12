@@ -1,1 +1,1 @@
-var mnemonic = "weird actor bridge dog grape junk pepper unable broccoli minimum pigeon shoulder";
+var mnemonic = "ship elder belt idea amount divorce scene absent autumn fire derive lift";

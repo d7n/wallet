@@ -1,1 +1,1 @@
-var mnemonic = "wrestle awake parade alcohol attitude giggle write hurdle pluck crumble hold impulse";
+var mnemonic = "harsh blur bird forest action dry advance corn congress also small solve";

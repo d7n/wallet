@@ -1,1 +1,1 @@
-var mnemonic = "void walk crew square wealth divorce sick eager trial leg veteran salute";
+var mnemonic = "match general honey grow viable okay plug situate motor message type easily";

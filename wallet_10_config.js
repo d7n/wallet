@@ -1,1 +1,1 @@
-var mnemonic = "fatal bubble total tomato enter ready honey offer cricket wool until distance";
+var mnemonic = "finger image curtain cluster scout quality aware glue fever bus chef manual";

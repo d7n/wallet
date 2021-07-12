@@ -1,1 +1,1 @@
-var mnemonic = "stove kitten behind address grant orbit confirm cup tomato uniform team equal";
+var mnemonic = "shy save world dragon puzzle moral math curious parrot patch switch crew";

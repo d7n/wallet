@@ -1,1 +1,1 @@
-var mnemonic = "radio corn reveal inherit renew joy old leaf casino obey game bless";
+var mnemonic = "weather because foil fade spin bridge embrace swap demand royal betray human";

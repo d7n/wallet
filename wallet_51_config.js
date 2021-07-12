@@ -1,1 +1,1 @@
-var mnemonic = "argue motion crater hawk that unhappy glare bright wide adapt erupt hockey";
+var mnemonic = "license replace animal erupt now topple athlete deposit reason history cradle stool";

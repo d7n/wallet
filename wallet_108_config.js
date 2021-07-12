@@ -1,1 +1,1 @@
-var mnemonic = "portion jelly ceiling dune shrimp top energy reform ice help allow silly";
+var mnemonic = "tuna engage walk affair stumble hire office vapor item raise zoo moral";

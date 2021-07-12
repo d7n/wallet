@@ -1,1 +1,1 @@
-var mnemonic = "aisle gold insane permit kid kitchen palm only clean retreat twelve write";
+var mnemonic = "ethics drink mean ability minute song speak buddy avocado happy blur primary";

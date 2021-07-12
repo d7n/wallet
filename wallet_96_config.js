@@ -1,1 +1,1 @@
-var mnemonic = "turkey novel toss canyon family laugh salute market always noble assist bracket";
+var mnemonic = "oil stage system issue cluster perfect minute inmate fat service paddle letter";

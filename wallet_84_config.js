@@ -1,1 +1,1 @@
-var mnemonic = "other average slab hamster night fashion desert kind mom sail cash boring";
+var mnemonic = "crouch circle nerve cake doll resource armor today strong execute estate alpha";

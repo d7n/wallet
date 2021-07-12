@@ -1,1 +1,1 @@
-var mnemonic = "bean solar margin host soda rib volume arctic match caught inherit ten";
+var mnemonic = "skin pyramid proof jealous unveil brain scan dragon oppose move athlete apology";

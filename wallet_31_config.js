@@ -1,1 +1,1 @@
-var mnemonic = "cabbage dutch seed proud decade list great tissue spell broken cannon come";
+var mnemonic = "fade winter addict follow train festival cage when together palace split between";

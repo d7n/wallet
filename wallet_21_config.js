@@ -1,1 +1,1 @@
-var mnemonic = "general valid infant brush claim juice market save cake walk estate cross";
+var mnemonic = "earth author jeans oxygen regret tray critic survey proof daring found pause";

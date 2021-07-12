@@ -1,1 +1,1 @@
-var mnemonic = "round rebuild eight relief stairs shrimp volume attract outer sentence police buyer";
+var mnemonic = "body slight immune rally fix interest cage peasant spare cash whale virtual";

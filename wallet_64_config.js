@@ -1,1 +1,1 @@
-var mnemonic = "gasp rich off border render canyon innocent output crew attack spirit expire";
+var mnemonic = "enable degree expect blur admit dice hedgehog dizzy giant agent fringe tumble";

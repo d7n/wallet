@@ -1,1 +1,1 @@
-var mnemonic = "butter tragic process ribbon between spot describe cruise armed lonely crystal payment";
+var mnemonic = "jealous pyramid online movie myth brass simple wild ring fee reward glimpse";

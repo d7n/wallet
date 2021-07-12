@@ -1,1 +1,1 @@
-var mnemonic = "garbage drip follow eternal ice science bottom apart fox notice reward seven";
+var mnemonic = "result aspect wrap patrol fiscal chef solve enhance battle loan rebuild maple";

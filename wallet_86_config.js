@@ -1,1 +1,1 @@
-var mnemonic = "mammal vital enable yard orphan couch neutral common diagram market trash guide";
+var mnemonic = "absorb curve start enjoy visual garment circle garden arrive link rather glory";

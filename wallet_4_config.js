@@ -1,1 +1,1 @@
-var mnemonic = "shoe item index mansion include abandon bounce behave own wedding daughter nasty";
+var mnemonic = "swing gesture attract response grace visual school vendor cigar bulk tired pumpkin";

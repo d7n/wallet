@@ -1,1 +1,1 @@
-var mnemonic = "potato gift push guilt dial liquid silly distance album entire material decorate";
+var mnemonic = "cat space usual atom change pepper monkey jealous clump tribe cause frost";

@@ -1,1 +1,1 @@
-var mnemonic = "spot client drill hamster cousin reopen lawn interest tired exercise change eternal";
+var mnemonic = "someone praise team cheese strong brass valve emotion hybrid attitude shadow gun";

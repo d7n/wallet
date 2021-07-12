@@ -1,1 +1,1 @@
-var mnemonic = "fruit welcome wall roast dutch ill canyon result shrimp high exotic catalog";
+var mnemonic = "only race picnic thunder sample auction genuine mad thank unit interest puzzle";

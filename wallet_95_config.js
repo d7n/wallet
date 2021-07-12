@@ -1,1 +1,1 @@
-var mnemonic = "siege alarm oxygen tomato midnight twenty leader february crystal shift news else";
+var mnemonic = "rival zebra donkey feed collect enjoy ticket genre frame glance jewel welcome";

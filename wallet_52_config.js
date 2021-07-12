@@ -1,1 +1,1 @@
-var mnemonic = "wrist pink ribbon outdoor cement round weapon dish glance express best fence";
+var mnemonic = "cute joke dry law you seed insect turn fat denial cricket trip";

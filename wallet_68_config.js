@@ -1,1 +1,1 @@
-var mnemonic = "legend risk lizard retire turtle fit salon shy imitate cement wheat lottery";
+var mnemonic = "hold jeans rate mother uphold reform box affair general waste coral vacant";

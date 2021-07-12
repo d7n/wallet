@@ -1,1 +1,1 @@
-var mnemonic = "fuel bar adapt print clay recycle surround unhappy frequent guitar whale enjoy";
+var mnemonic = "brand wasp february bike spread general outside lunch light expand edge ill";

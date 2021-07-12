@@ -1,1 +1,1 @@
-var mnemonic = "critic absorb power naive radio old whisper strategy patrol sock settle toddler";
+var mnemonic = "ugly bench slight agree arctic predict ability armed true old custom shove";

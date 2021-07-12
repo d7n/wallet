@@ -1,1 +1,1 @@
-var mnemonic = "abandon end wonder artefact dice attack swarm risk carry dinner guitar december";
+var mnemonic = "quantum eyebrow sibling olympic butter steel job various leopard news coconut found";

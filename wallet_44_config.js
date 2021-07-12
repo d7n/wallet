@@ -1,1 +1,1 @@
-var mnemonic = "core denial subject raven couple gauge equip escape quote leisure pulp purpose";
+var mnemonic = "search female length coral bullet hat float merit glance limb remain helmet";

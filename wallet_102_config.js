@@ -1,1 +1,1 @@
-var mnemonic = "guard month silent warrior erosion sock mouse canyon bundle fatal heart wise";
+var mnemonic = "cannon unlock once maid life kitten order later sun fit asthma ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "example soon clock task upgrade struggle mosquito enact bottom offer opera kid";
+var mnemonic = "today riot chef make sunset setup column emotion hill wife swallow maid";

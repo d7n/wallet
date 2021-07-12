@@ -1,1 +1,1 @@
-var mnemonic = "weird atom matter usage balance despair cover plunge tenant fiber mobile minimum";
+var mnemonic = "category argue come awake skin abandon brick earn flame trend venue target";

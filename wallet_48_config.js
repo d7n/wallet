@@ -1,1 +1,1 @@
-var mnemonic = "extend never daughter opinion blouse like grunt admit grace final lounge first";
+var mnemonic = "cycle cruise tumble shallow warrior cliff vessel can know catalog wheel magic";

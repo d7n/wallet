@@ -1,1 +1,1 @@
-var mnemonic = "glory avocado laptop perfect lyrics version conduct again message torch cheese virtual";
+var mnemonic = "wage toast joke body engine media diet report chicken carry buyer melt";

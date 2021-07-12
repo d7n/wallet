@@ -1,1 +1,1 @@
-var mnemonic = "same when battle room finger stone subject gain zero pitch layer south";
+var mnemonic = "avocado another stadium start spell mystery man refuse video oxygen snack else";

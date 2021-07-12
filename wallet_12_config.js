@@ -1,1 +1,1 @@
-var mnemonic = "program forget bachelor huge exhibit sustain trip raise illegal crawl erase gravity";
+var mnemonic = "expect blood mind nominee rival nature naive cause label ski milk orbit";

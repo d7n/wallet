@@ -1,1 +1,1 @@
-var mnemonic = "analyst pear crack need marine model puzzle cargo agree knock shuffle chair";
+var mnemonic = "range sun remove please program first trash solar profit convince behind tobacco";

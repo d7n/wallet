@@ -1,1 +1,1 @@
-var mnemonic = "pink display soul chef sample real deer sheriff alarm inhale real sweet";
+var mnemonic = "humble ribbon film motor sunny fit any card topic hat hazard favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "song neck anger hint say twelve rival fetch pluck blood banner puzzle";
+var mnemonic = "belt start help north burger easy reveal boil message rich bread oyster";

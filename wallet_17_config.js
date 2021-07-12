@@ -1,1 +1,1 @@
-var mnemonic = "until rubber people bright roast immense snack toy pulp broken raise hurt";
+var mnemonic = "enough hat possible height aunt maximum luggage avocado wolf jealous ahead lion";

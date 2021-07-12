@@ -1,1 +1,1 @@
-var mnemonic = "mountain half chest undo economy drama chat home since below nephew cricket";
+var mnemonic = "decide game horn order since tuition dawn brisk lobster clerk exhibit umbrella";

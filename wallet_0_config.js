@@ -1,1 +1,1 @@
-var mnemonic = "crawl involve raven enter timber curtain solve decrease festival order cannon tower";
+var mnemonic = "type earth injury cruel panda amateur volume devote target caught time seat";

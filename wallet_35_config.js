@@ -1,1 +1,1 @@
-var mnemonic = "lamp error primary defense exhaust digital drift parrot play blossom end hard";
+var mnemonic = "hour island ranch drastic throw season grape february type giant soda angry";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar bridge century lunar video budget butter avoid answer foam donor oven";
+var mnemonic = "electric breeze they heart permit imitate kite mass digital usage sorry pumpkin";

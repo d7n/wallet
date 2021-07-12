@@ -1,1 +1,1 @@
-var mnemonic = "pride click congress bid lamp enforce kiwi spray sudden ice coyote ribbon";
+var mnemonic = "lens slam practice elegant promote problem happy phone popular six tail physical";

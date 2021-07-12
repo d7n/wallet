@@ -1,1 +1,1 @@
-var mnemonic = "riot old vehicle rabbit exit myth noodle social medal cluster decide average";
+var mnemonic = "arctic anger runway music sing reunion liquid ugly robust quantum prefer bottom";

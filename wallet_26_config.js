@@ -1,1 +1,1 @@
-var mnemonic = "switch logic try quit bicycle lend glue system own prosper absent discover";
+var mnemonic = "impact hope access pretty audit lake rebel inflict barrel elegant worry differ";

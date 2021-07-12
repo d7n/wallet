@@ -1,1 +1,1 @@
-var mnemonic = "liquid where economy toddler bronze avocado sponsor witness kiwi clerk stay fossil";
+var mnemonic = "iron horror shed purchase nature boss tip lounge also sun reduce smoke";

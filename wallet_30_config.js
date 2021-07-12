@@ -1,1 +1,1 @@
-var mnemonic = "chief vessel brown snake submit excess leisure bird office reveal stage problem";
+var mnemonic = "delay share knock still emotion crucial capital simple frequent gift engine coffee";

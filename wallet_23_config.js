@@ -1,1 +1,1 @@
-var mnemonic = "judge rubber brain custom soon open toward front faculty table click join";
+var mnemonic = "prosper model around banana artefact excite jeans fee portion country misery rack";

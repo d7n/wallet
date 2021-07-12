@@ -1,1 +1,1 @@
-var mnemonic = "elevator until donor earth attitude upset disease father august correct oil grace";
+var mnemonic = "fresh pledge decorate zebra daring ritual hint tray permit price flash age";

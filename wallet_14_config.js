@@ -1,1 +1,1 @@
-var mnemonic = "fiscal drop until isolate stone conduct believe core engage crack install occur";
+var mnemonic = "any imitate simple hard yellow damage crew extend pulse cube option retreat";

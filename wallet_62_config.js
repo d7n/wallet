@@ -1,1 +1,1 @@
-var mnemonic = "spider luggage trust fix pause deposit february cluster vague sea trade truth";
+var mnemonic = "business dragon zero palace become limb sea fence eyebrow disease sail call";

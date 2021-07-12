@@ -1,1 +1,1 @@
-var mnemonic = "luggage blame acquire balance barrel patrol spare soul hello foil kitten gorilla";
+var mnemonic = "gaze horse gravity fossil attitude suggest holiday public asthma exile brand moon";

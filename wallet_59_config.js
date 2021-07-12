@@ -1,1 +1,1 @@
-var mnemonic = "solid lawsuit head hip phrase rude learn universe dove zoo tourist dinner";
+var mnemonic = "cruel cupboard chalk hole marine track sign erode cable estate lonely shove";

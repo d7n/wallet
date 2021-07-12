@@ -1,1 +1,1 @@
-var mnemonic = "friend apart piece next foam jelly asthma soul industry circle cheese bracket";
+var mnemonic = "behave brave middle spirit winter mansion coffee video tilt connect famous hospital";

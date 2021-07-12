@@ -1,1 +1,1 @@
-var mnemonic = "shiver nurse flush canyon order adult disorder hill cheese print bounce stomach";
+var mnemonic = "airport bulk reopen wreck asthma tell image game organ arena toss island";

@@ -1,1 +1,1 @@
-var mnemonic = "tail metal host void basic month blanket reject wire collect barrel dynamic";
+var mnemonic = "donor escape surge trigger swing cart west orchard bar hundred cannon student";

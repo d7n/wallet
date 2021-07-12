@@ -1,1 +1,1 @@
-var mnemonic = "hair purpose gown because deal ordinary join main sugar sauce valve cash";
+var mnemonic = "rocket upper record reflect suggest enable unveil actor alone annual fox pen";

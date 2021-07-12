@@ -1,1 +1,1 @@
-var mnemonic = "cube quiz below sick crunch hole chaos boss alien cactus ladder regret";
+var mnemonic = "below arctic setup city ivory east note blind consider decorate element field";

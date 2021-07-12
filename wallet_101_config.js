@@ -1,1 +1,1 @@
-var mnemonic = "thumb layer neither nice tenant body cube swift noble pig stool belt";
+var mnemonic = "toast blast crucial blind cage crime census melt ability emotion catalog narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm fiber flower claim choose violin mercy plastic grain group this easily";
+var mnemonic = "emotion gravity hello idea agent bamboo bitter enforce drop flock fashion travel";

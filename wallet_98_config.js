@@ -1,1 +1,1 @@
-var mnemonic = "flag sunset social banner shadow cost venture offer switch smoke vehicle fit";
+var mnemonic = "wish syrup old absorb neutral cube minor amount regret age wealth toilet";

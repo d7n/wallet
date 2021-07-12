@@ -1,1 +1,1 @@
-var mnemonic = "sport element kitchen gain tuition mouse embrace assist pelican fox property like";
+var mnemonic = "kit supreme snake limb egg pretty obvious canal hub grain swing crisp";

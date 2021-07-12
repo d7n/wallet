@@ -1,1 +1,1 @@
-var mnemonic = "oven slot celery hope april sheriff sell paddle bunker jazz access february";
+var mnemonic = "sugar volcano empower glare shrimp essence mountain canyon room kidney mechanic lesson";

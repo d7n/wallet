@@ -1,1 +1,1 @@
-var mnemonic = "silver tourist profit real chase cradle inner push pyramid base shoulder bird";
+var mnemonic = "message thing mystery west alarm oxygen cousin flip blur spoil artwork hire";

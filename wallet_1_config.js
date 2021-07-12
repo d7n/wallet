@@ -1,1 +1,1 @@
-var mnemonic = "ivory couple alter flight high hero spirit paper fit helmet maid settle";
+var mnemonic = "water mercy remain announce across cabin avocado erode sustain sea country oval";

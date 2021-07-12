@@ -1,1 +1,1 @@
-var mnemonic = "squirrel warfare mesh yellow ripple wrist brain frog level vocal indicate render";
+var mnemonic = "tent conduct jungle screen allow lunch chalk bracket rebel advice diary erode";

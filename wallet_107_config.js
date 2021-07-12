@@ -1,1 +1,1 @@
-var mnemonic = "sight this punch present cabin nut crash domain pole often hood tumble";
+var mnemonic = "rather hill type screen envelope dash zone obscure whip stay club gadget";

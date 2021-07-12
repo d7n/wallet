@@ -1,1 +1,1 @@
-var mnemonic = "embark library spatial sunset marriage notable coconut movie argue tattoo tonight stock";
+var mnemonic = "skin boat salmon script release depend seek brown height asset giggle march";

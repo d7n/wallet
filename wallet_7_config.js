@@ -1,1 +1,1 @@
-var mnemonic = "paddle old doctor legend link host volume field door artefact topic rich";
+var mnemonic = "sudden sick thought urge soap network mom exit spread soap opera flip";

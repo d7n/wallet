@@ -1,1 +1,1 @@
-var mnemonic = "profit stairs prosper process truck pioneer ticket inherit film zone era fuel";
+var mnemonic = "blossom fun lens party civil alter blue choice must myself wrap kingdom";

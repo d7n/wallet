@@ -1,1 +1,1 @@
-var mnemonic = "mirror razor pull void silver stable dog table always hat hint program";
+var mnemonic = "split alley answer library lesson kick share second primary suit column tornado";

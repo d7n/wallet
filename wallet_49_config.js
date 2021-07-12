@@ -1,1 +1,1 @@
-var mnemonic = "frequent mouse eternal eye inmate crack alarm flag best oven merry base";
+var mnemonic = "exile post explain address collect market must race now skin rescue deal";

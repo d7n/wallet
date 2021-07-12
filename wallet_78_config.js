@@ -1,1 +1,1 @@
-var mnemonic = "true cabbage bridge blame elbow person play armor buddy cable pause argue";
+var mnemonic = "balance remember keen mango tag case extend fatal undo skull road rich";

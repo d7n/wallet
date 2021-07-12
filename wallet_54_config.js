@@ -1,1 +1,1 @@
-var mnemonic = "usual engine target approve acquire powder car cereal vanish palace window dirt";
+var mnemonic = "step outdoor time nominee faith hire plunge artist bacon slender pulse word";

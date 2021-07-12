@@ -1,1 +1,1 @@
-var mnemonic = "require control nephew tip cheese book wash pattern age silly enlist hospital";
+var mnemonic = "utility slot mercy smooth divert sister good click rug weather spice shell";

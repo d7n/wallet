@@ -1,1 +1,1 @@
-var mnemonic = "engine produce blast until chase click genius hire moment year shop hockey";
+var mnemonic = "damp inhale cause year canoe salon promote major survey predict index tuition";

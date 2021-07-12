@@ -1,1 +1,1 @@
-var mnemonic = "online know believe skin panic speak pool robot brass true actress tape";
+var mnemonic = "tuna first soda inhale wealth orchard tunnel shock skate harsh column write";

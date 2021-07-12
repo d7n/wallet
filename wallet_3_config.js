@@ -1,1 +1,1 @@
-var mnemonic = "merit leaf park evil parrot debate donor credit number myself portion myself";
+var mnemonic = "transfer between reduce network bundle sauce rotate violin toss chef ability source";

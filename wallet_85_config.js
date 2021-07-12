@@ -1,1 +1,1 @@
-var mnemonic = "virtual awesome frog sweet weasel ghost explain poet wire long tell police";
+var mnemonic = "hip wedding scare wedding man evoke deal smile orphan oxygen minor sorry";

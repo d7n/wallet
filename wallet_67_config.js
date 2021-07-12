@@ -1,1 +1,1 @@
-var mnemonic = "daughter bundle permit world stage spider horn cereal either mistake rail deliver";
+var mnemonic = "hint guess comic exchange polar runway paddle narrow scare country poverty swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "cart enact visit riot begin gesture hat light case smart average cereal";
+var mnemonic = "admit skill derive morning panel right sight element coconut moment chaos canoe";

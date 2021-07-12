@@ -1,1 +1,1 @@
-var mnemonic = "unfold license flash credit school promote retreat neck debate mixture snack cotton";
+var mnemonic = "arrange horror solution long hub output flash acid mansion please hidden motor";

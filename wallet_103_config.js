@@ -1,1 +1,1 @@
-var mnemonic = "belt winner test six close dad science poet push arrest hard one";
+var mnemonic = "scatter gather oblige knock wing sibling scrub whisper coconut tail addict fade";
