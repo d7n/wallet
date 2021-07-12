@@ -1,1 +1,1 @@
-var mnemonic = "quality album release month empower gorilla solution neither gold family idea price";
+var mnemonic = "resist lend century burger just end satisfy atom very decade school edit";

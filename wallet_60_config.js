@@ -1,1 +1,1 @@
-var mnemonic = "art lonely lyrics slide donor donkey today crime congress mammal index bike";
+var mnemonic = "brave despair grief bridge thing salt enlist enough elephant damp cash paddle";

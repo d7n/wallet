@@ -1,1 +1,1 @@
-var mnemonic = "sail insect excess struggle similar vital cat often honey live stuff butter";
+var mnemonic = "thing artefact identify author soap cruel trip year pretty employ protect enrich";

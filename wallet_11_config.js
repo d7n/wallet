@@ -1,1 +1,1 @@
-var mnemonic = "february mixed chronic arrange miracle credit raw place bulk august net live";
+var mnemonic = "news shoulder praise world problem sport seven cactus fish crunch mango anxiety";

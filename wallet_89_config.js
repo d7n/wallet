@@ -1,1 +1,1 @@
-var mnemonic = "wife million security reward cactus scale abstract loan outdoor desert drink tomato";
+var mnemonic = "kit sword flavor usual about reveal measure basic bag era toss dune";

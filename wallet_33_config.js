@@ -1,1 +1,1 @@
-var mnemonic = "armor echo coral fade connect top hedgehog cable unusual clever address enact";
+var mnemonic = "depth crucial wasp appear connect horn veteran strike renew fat tent rack";

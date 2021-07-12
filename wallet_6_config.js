@@ -1,1 +1,1 @@
-var mnemonic = "exotic upper unveil tongue pear correct aware monitor sure exclude cage can";
+var mnemonic = "coin garage fix peace pelican blossom oxygen deer pelican test negative ecology";

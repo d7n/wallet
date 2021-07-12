@@ -1,1 +1,1 @@
-var mnemonic = "smart poem coach boring denial naive friend gain divert catalog genius identify";
+var mnemonic = "honey cupboard element matrix cram detect twice chef option palm luxury crane";

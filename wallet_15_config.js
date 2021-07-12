@@ -1,1 +1,1 @@
-var mnemonic = "define author much clinic submit benefit vote small panic ugly dynamic grit";
+var mnemonic = "own round expect sheriff mutual youth thought distance snap hazard pear decline";

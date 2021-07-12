@@ -1,1 +1,1 @@
-var mnemonic = "gorilla height december witness cart march chimney zone fetch filter before swap";
+var mnemonic = "drum rotate shuffle exclude ranch output buyer shoot weapon click powder grit";

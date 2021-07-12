@@ -1,1 +1,1 @@
-var mnemonic = "afraid brass short nation this clever dad permit flash awkward mad crater";
+var mnemonic = "retire apart pill audit travel robust juice stock fog shoot ripple harvest";

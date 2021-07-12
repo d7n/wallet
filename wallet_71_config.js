@@ -1,1 +1,1 @@
-var mnemonic = "great night beef lens swarm stove remember assault peasant squeeze allow brisk";
+var mnemonic = "misery stamp caution decline blossom crisp matter business state poverty resource anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "runway snow firm arena discover exclude inmate walnut sniff blue answer suffer";
+var mnemonic = "shoulder bargain space silly rocket genius elder tuition connect weird fog aisle";

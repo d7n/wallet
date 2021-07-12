@@ -1,1 +1,1 @@
-var mnemonic = "right choice eager notable start logic funny swift zoo nasty unhappy blush";
+var mnemonic = "degree siege float obscure wash side detail taxi theory material box admit";

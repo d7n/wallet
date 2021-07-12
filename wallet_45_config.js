@@ -1,1 +1,1 @@
-var mnemonic = "wife weekend negative tide raw wrist dirt fancy member oppose ahead decline";
+var mnemonic = "draft carry answer salmon dance inflict palace labor cup clutch media jaguar";

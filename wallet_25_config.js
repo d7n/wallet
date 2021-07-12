@@ -1,1 +1,1 @@
-var mnemonic = "behind shrug tattoo elegant gate speak erupt miracle remain cloud deer exile";
+var mnemonic = "bottom aspect summer main silver can icon betray carpet behind dilemma toward";

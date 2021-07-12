@@ -1,1 +1,1 @@
-var mnemonic = "segment grow viable spend start sausage okay distance shiver bachelor sound service";
+var mnemonic = "tennis arrive robust lion addict casino insane size artwork scout celery easy";

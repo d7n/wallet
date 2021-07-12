@@ -1,1 +1,1 @@
-var mnemonic = "own rice mercy arrest few early birth argue crime make forget submit";
+var mnemonic = "either zone they input avocado winter alert sick fold acquire rude danger";

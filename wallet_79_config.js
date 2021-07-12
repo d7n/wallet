@@ -1,1 +1,1 @@
-var mnemonic = "maple cigar hotel begin dwarf umbrella target present disorder audit wine phone";
+var mnemonic = "unveil sniff lion season hamster year regret kid cube curious sight glide";

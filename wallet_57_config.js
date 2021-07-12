@@ -1,1 +1,1 @@
-var mnemonic = "wasp option diary family record shaft exercise office pattern effort ginger sauce";
+var mnemonic = "energy liquid flush travel cram hundred relief learn main clutch zoo damp";

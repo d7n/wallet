@@ -1,1 +1,1 @@
-var mnemonic = "skill drastic stamp lumber crane affair piano dizzy garden door ocean noodle";
+var mnemonic = "turn half awful donkey tribe prefer hawk whisper dry exotic excite thrive";

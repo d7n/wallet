@@ -1,1 +1,1 @@
-var mnemonic = "leopard theme lake leader entry shock grit harvest say account update skin";
+var mnemonic = "card leader infant unaware sand eternal armor lift impulse swarm protect unknown";

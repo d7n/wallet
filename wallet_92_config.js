@@ -1,1 +1,1 @@
-var mnemonic = "valid page aunt novel uncover try possible gauge enhance cute fossil anger";
+var mnemonic = "pluck gravity myself soccer lava observe figure horror match hockey fee blossom";

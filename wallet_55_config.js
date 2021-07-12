@@ -1,1 +1,1 @@
-var mnemonic = "club group satoshi leisure bless model bundle royal cinnamon vehicle tray middle";
+var mnemonic = "pilot game shuffle drop item title draft such alien initial indoor patrol";

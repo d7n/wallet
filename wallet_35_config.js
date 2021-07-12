@@ -1,1 +1,1 @@
-var mnemonic = "wood biology wonder hour fox leaf chimney copper ring tumble talk target";
+var mnemonic = "pudding body bottom disease nurse carry column tent walk purse avoid maid";

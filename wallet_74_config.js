@@ -1,1 +1,1 @@
-var mnemonic = "pitch farm two pact brick wing amused wonder fan purchase mammal attend";
+var mnemonic = "demise matrix decade clay inform liar trend enough crater craft object common";

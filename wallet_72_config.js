@@ -1,1 +1,1 @@
-var mnemonic = "swap soup virtual blood rhythm decade virtual twelve liberty fresh nephew devote";
+var mnemonic = "trophy mutual shy antique frozen poverty kangaroo cram vote proud mixture science";

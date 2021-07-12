@@ -1,1 +1,1 @@
-var mnemonic = "crazy festival armed desk vital bless top deny suffer urban weekend tomorrow";
+var mnemonic = "hungry attack utility night finish faculty rent assist mule attract shock return";

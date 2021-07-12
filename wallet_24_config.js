@@ -1,1 +1,1 @@
-var mnemonic = "odor child laptop scorpion tongue skirt action project rotate twist bright reason";
+var mnemonic = "daughter symptom delay learn decide citizen crystal roof dwarf heavy treat abuse";

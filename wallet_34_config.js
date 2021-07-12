@@ -1,1 +1,1 @@
-var mnemonic = "head job endless year better popular early frozen can anger power olympic";
+var mnemonic = "spider hammer ritual sound post net shuffle fee lab material erupt cinnamon";

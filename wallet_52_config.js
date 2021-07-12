@@ -1,1 +1,1 @@
-var mnemonic = "year mean warfare pudding hawk lecture bonus zone boat virtual income peace";
+var mnemonic = "flash anchor cover panic quality roast gallery harbor spot gesture ability rapid";

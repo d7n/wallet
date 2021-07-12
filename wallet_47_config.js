@@ -1,1 +1,1 @@
-var mnemonic = "once corn oyster elevator water point sorry rabbit bless strong vapor life";
+var mnemonic = "love gauge demand dolphin memory sight spring orchard mimic claw play skate";

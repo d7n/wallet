@@ -1,1 +1,1 @@
-var mnemonic = "audit critic trash novel vault area response despair dolphin view place news";
+var mnemonic = "mixture cable economy clerk blossom rose once rather raccoon pledge kind service";

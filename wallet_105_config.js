@@ -1,1 +1,1 @@
-var mnemonic = "reflect snow camera child duty improve seek glove junk knife minute smile";
+var mnemonic = "fox marble glue right lawn mobile just tomorrow insect rail trust bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant valley must cricket meadow frozen foil wheat chapter provide borrow truth";
+var mnemonic = "symptom nominee jaguar trial actor crush weird tuna soul spy blouse capable";

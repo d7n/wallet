@@ -1,1 +1,1 @@
-var mnemonic = "clerk nice razor rhythm father grab myth region erode dismiss short apple";
+var mnemonic = "fog palm secret sunny sick team guide bachelor liar census donate riot";

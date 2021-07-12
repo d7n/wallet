@@ -1,1 +1,1 @@
-var mnemonic = "broccoli decorate random price top hedgehog link creek home gossip project size";
+var mnemonic = "walk win vivid setup pencil prize cost over scatter head crunch anxiety";

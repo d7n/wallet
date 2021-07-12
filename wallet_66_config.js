@@ -1,1 +1,1 @@
-var mnemonic = "expose insane cigar topic lecture carbon have vocal hood person sea robot";
+var mnemonic = "sorry issue pony snow jump custom popular crush ridge usage music increase";

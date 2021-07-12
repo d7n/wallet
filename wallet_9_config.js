@@ -1,1 +1,1 @@
-var mnemonic = "airport grid chapter size just crunch oxygen guard submit wrist opera collect";
+var mnemonic = "forget rocket evoke impulse make blouse screen help marriage logic because reopen";

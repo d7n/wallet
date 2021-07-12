@@ -1,1 +1,1 @@
-var mnemonic = "dose club notice creek velvet trophy feed matter depend noise crouch grunt";
+var mnemonic = "coach vacuum clever bench foot gallery room stage hand scorpion hidden brain";

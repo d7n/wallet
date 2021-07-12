@@ -1,1 +1,1 @@
-var mnemonic = "bless cover gift biology offer program leopard place bubble office muscle frog";
+var mnemonic = "stomach reduce test transfer rent example anger city trend mother resemble kangaroo";

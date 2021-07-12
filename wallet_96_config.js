@@ -1,1 +1,1 @@
-var mnemonic = "addict hurt split toe veteran practice vehicle brown swift reopen print video";
+var mnemonic = "gym parrot emotion match language rich copper snap team boost gaze increase";

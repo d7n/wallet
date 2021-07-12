@@ -1,1 +1,1 @@
-var mnemonic = "claim law drop december casino world bonus dose lion nature tag ice";
+var mnemonic = "path aunt tragic what private remind shoot know rhythm enlist behind soap";

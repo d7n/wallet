@@ -1,1 +1,1 @@
-var mnemonic = "engage risk age surround present roast surround double unlock sustain cup slush";
+var mnemonic = "insect vacuum race vicious congress stone fire ranch rival brand impact flee";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh cinnamon picture foot night inside obey judge still theory exclude wisdom";
+var mnemonic = "net pencil rigid powder express grid property receive asset submit leaf unveil";

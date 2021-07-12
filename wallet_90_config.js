@@ -1,1 +1,1 @@
-var mnemonic = "wet pizza liar humor black happy tourist return length crunch people saddle";
+var mnemonic = "denial gown episode crazy bachelor sign increase alert ritual animal live risk";

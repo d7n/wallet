@@ -1,1 +1,1 @@
-var mnemonic = "tenant hedgehog lucky merit hollow survey ride duty ride couch toe fever";
+var mnemonic = "include soldier tortoise dish trick fine expose popular drip rotate include bench";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant fault make run census release suspect tornado once advance rocket token";
+var mnemonic = "spirit evidence issue forget cheese chaos salon bacon aspect comfort harsh goddess";

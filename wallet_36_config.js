@@ -1,1 +1,1 @@
-var mnemonic = "dawn page twice soap link salmon until tooth slim harsh icon bamboo";
+var mnemonic = "option eager cart mixed ordinary column cost frame similar film average total";

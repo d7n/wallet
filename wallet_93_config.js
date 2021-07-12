@@ -1,1 +1,1 @@
-var mnemonic = "average enjoy lake cube post aunt core swallow mango sure belt donkey";
+var mnemonic = "dawn capable critic pumpkin truly code crouch sausage inmate opera theory feed";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble wealth strategy loan sunny crazy flash onion repeat guitar rally scan";
+var mnemonic = "obtain artist mutual visual cupboard master tooth badge margin extend champion copy";

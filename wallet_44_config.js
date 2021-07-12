@@ -1,1 +1,1 @@
-var mnemonic = "coconut paddle trouble crack roof chef sketch amused lesson caution aunt brave";
+var mnemonic = "move rookie more suspect lake tiger boy good welcome gate pet slab";

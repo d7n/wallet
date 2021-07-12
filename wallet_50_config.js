@@ -1,1 +1,1 @@
-var mnemonic = "dry then excuse mountain minimum claim hub female polar involve fury puzzle";
+var mnemonic = "need couch seed utility tuna purity flower cave heavy cart wave trick";

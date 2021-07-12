@@ -1,1 +1,1 @@
-var mnemonic = "glory verify farm early rural girl mule vault bar journey cash brain";
+var mnemonic = "destroy slogan knife repair town theory elegant upgrade special news duck portion";

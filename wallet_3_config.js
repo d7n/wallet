@@ -1,1 +1,1 @@
-var mnemonic = "raccoon unfair crew rude popular battle holiday round chaos shadow parade pyramid";
+var mnemonic = "angry biology year delay train submit grass behave notable lady picture nest";

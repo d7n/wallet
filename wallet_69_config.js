@@ -1,1 +1,1 @@
-var mnemonic = "mass police layer trim cactus paddle wreck cheese fluid someone process moral";
+var mnemonic = "spatial collect way canal miracle stock mercy sustain course broom cover tube";

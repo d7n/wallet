@@ -1,1 +1,1 @@
-var mnemonic = "clever cart syrup angle process rotate mansion fine detect lyrics club ride";
+var mnemonic = "finish sock raccoon few strike shift quarter doctor april napkin direct woman";

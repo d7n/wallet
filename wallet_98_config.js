@@ -1,1 +1,1 @@
-var mnemonic = "prepare produce monitor radio cup umbrella expire vendor toast naive critic later";
+var mnemonic = "donor tag history proof hen concert company ready thought addict woman reward";

@@ -1,1 +1,1 @@
-var mnemonic = "outside mixed fetch feed wink require garment primary rally moment original gesture";
+var mnemonic = "hour best bread tail text census assume north tribe vocal erase yellow";

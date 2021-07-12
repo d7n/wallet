@@ -1,1 +1,1 @@
-var mnemonic = "fresh amount maximum hybrid race fragile select promote pigeon alien paper mandate";
+var mnemonic = "rough chalk bright divert filter include okay team knife business talent evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "require empty satoshi square liar pole company twin emotion ivory stereo custom";
+var mnemonic = "pilot furnace enhance panda fat sing cycle corn trial nominee half escape";

@@ -1,1 +1,1 @@
-var mnemonic = "degree ostrich casual choice island vicious school exhibit deliver wave weather then";
+var mnemonic = "drink stairs album morning rack throw problem velvet bounce region sample axis";

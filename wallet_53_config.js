@@ -1,1 +1,1 @@
-var mnemonic = "maple enroll physical embrace purchase dwarf deal shy level banner once carpet";
+var mnemonic = "hour east manual uniform cost rib tell captain mixed cheese harvest fish";

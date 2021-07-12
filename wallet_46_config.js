@@ -1,1 +1,1 @@
-var mnemonic = "portion whip since medal venue uniform option stock sound inquiry priority avocado";
+var mnemonic = "emerge rough pizza text reason curtain simple buyer hidden mechanic father utility";

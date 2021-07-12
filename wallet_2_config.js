@@ -1,1 +1,1 @@
-var mnemonic = "any jazz april what boring reform cup upset fatal tape blanket bird";
+var mnemonic = "kitten bridge run obvious crew sport grab turtle program sorry club rival";

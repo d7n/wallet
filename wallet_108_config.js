@@ -1,1 +1,1 @@
-var mnemonic = "office away security custom humor acid hurdle turtle say canyon supply skirt";
+var mnemonic = "scatter cancel dream chase exact drastic rifle eyebrow heart double alert thank";

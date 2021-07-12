@@ -1,1 +1,1 @@
-var mnemonic = "arrange connect pitch merry voyage honey exact lizard runway happy forget announce";
+var mnemonic = "glimpse gain patient mention borrow talk excuse income program abandon lucky gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "danger pole toe luxury symbol assist sausage head aspect sad visual asthma";
+var mnemonic = "merge similar solution luxury dress crouch blanket strong behind artefact evil corn";

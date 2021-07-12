@@ -1,1 +1,1 @@
-var mnemonic = "pause share flush enough cement scorpion effort rug blanket fossil thrive oppose";
+var mnemonic = "style inspire kit globe glad payment muscle front pudding bubble lazy action";

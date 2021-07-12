@@ -1,1 +1,1 @@
-var mnemonic = "alcohol venue pill fine humor shaft scan picture icon object box citizen";
+var mnemonic = "health entry rookie agree boil light prison walnut legal sadness napkin favorite";

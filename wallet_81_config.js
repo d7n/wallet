@@ -1,1 +1,1 @@
-var mnemonic = "stereo marine boss nasty spider reopen index toy feed flat adult stairs";
+var mnemonic = "lecture myself narrow attract mimic rigid luxury range network laptop shoe wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "private exact equal release chief celery expect action dad impose enable fault";
+var mnemonic = "diary little coach trap ripple evil gun fault logic rubber hotel twin";

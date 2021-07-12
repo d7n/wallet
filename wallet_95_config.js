@@ -1,1 +1,1 @@
-var mnemonic = "involve fiber burger two forget garden swarm because prosper install neck ugly";
+var mnemonic = "alien anchor decide jar arrange garment shift neck private need dish legend";

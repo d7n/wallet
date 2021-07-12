@@ -1,1 +1,1 @@
-var mnemonic = "blind heart jungle letter unfair attitude eight evolve reopen system exist code";
+var mnemonic = "believe camera sail cloth glass height spoil total victory shiver shiver confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform kiwi tackle zebra differ paddle tuna quick summer lazy quality edge";
+var mnemonic = "plate deny virus wet grit choice seminar across east twist physical vicious";

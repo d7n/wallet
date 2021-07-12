@@ -1,1 +1,1 @@
-var mnemonic = "mean sad engage danger jump enrich animal heart indicate tape dad another";
+var mnemonic = "little morning retreat apology climb captain history cabbage tragic soul picture abstract";

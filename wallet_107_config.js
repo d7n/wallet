@@ -1,1 +1,1 @@
-var mnemonic = "lecture deny urban tag age grab biology cream alley orchard misery tower";
+var mnemonic = "crash person happy trouble copy river must fantasy occur bench near stadium";

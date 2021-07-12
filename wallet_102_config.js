@@ -1,1 +1,1 @@
-var mnemonic = "remain gown increase valley seed slow eagle oven resemble aspect net twist";
+var mnemonic = "state lucky head ivory moon worth fish work proof taxi fragile auction";

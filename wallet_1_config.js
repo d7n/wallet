@@ -1,1 +1,1 @@
-var mnemonic = "before vast pass side pluck shop company spend rate turn gather trap";
+var mnemonic = "original praise monster atom spice weapon palace kick tank master mad seek";

@@ -1,1 +1,1 @@
-var mnemonic = "cute save unusual session million flat velvet spread trend anger smooth atom";
+var mnemonic = "unable poet card sweet metal auto venue afraid inch pink inside rack";

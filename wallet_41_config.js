@@ -1,1 +1,1 @@
-var mnemonic = "wet city number fine mix great shrimp add guitar draft mind feel";
+var mnemonic = "gun brave high skate junk mosquito cost frequent hen liberty ripple remind";

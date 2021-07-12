@@ -1,1 +1,1 @@
-var mnemonic = "cliff tilt path dumb reject point bus sudden leisure fence field web";
+var mnemonic = "erupt rival virus earn between whip scorpion pepper coin clay illness remove";

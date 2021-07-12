@@ -1,1 +1,1 @@
-var mnemonic = "exit flush govern give topple timber actor strong drink antenna simple soup";
+var mnemonic = "lady pumpkin setup bone believe display food board garbage aim slogan salt";

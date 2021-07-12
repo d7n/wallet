@@ -1,1 +1,1 @@
-var mnemonic = "loyal doll high gym bachelor glue border click blossom injury cannon congress";
+var mnemonic = "forget lunar object uncle tray tone square bid welcome pause diesel bunker";

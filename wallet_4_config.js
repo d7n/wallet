@@ -1,1 +1,1 @@
-var mnemonic = "transfer neglect lecture height funny code unaware arm stem quote clerk more";
+var mnemonic = "depth pelican avocado goose claim fog salute work supreme glue sting cousin";

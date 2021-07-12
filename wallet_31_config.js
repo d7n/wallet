@@ -1,1 +1,1 @@
-var mnemonic = "spawn laptop spawn sail sudden uncover remember put humble appear clump mystery";
+var mnemonic = "hope donate sheriff diamond subject swap wool vessel capital shadow dizzy someone";

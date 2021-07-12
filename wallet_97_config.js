@@ -1,1 +1,1 @@
-var mnemonic = "supply clown spawn symbol volcano waste copper enrich pact frozen industry rice";
+var mnemonic = "flavor reunion power feel later dutch coral permit bike foster life ordinary";

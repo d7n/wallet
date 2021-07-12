@@ -1,1 +1,1 @@
-var mnemonic = "boring away rookie cage crew harbor snack repeat ecology supreme before behave";
+var mnemonic = "fame save trap inner cricket tourist lunch follow belt gadget that annual";

@@ -1,1 +1,1 @@
-var mnemonic = "worry exclude toast lunch bounce plastic kick wife maximum business together similar";
+var mnemonic = "lazy slide link bar expect injury treat urban pear midnight pear question";

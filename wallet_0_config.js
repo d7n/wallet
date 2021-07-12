@@ -1,1 +1,1 @@
-var mnemonic = "immense offer impulse profit width vault cash blade guitar gym lottery boost";
+var mnemonic = "desert mistake mystery panther cram remember gaze grape pulp laundry ten fame";

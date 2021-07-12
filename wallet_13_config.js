@@ -1,1 +1,1 @@
-var mnemonic = "erupt limb bundle runway camera small absent response solid slot oblige mercy";
+var mnemonic = "rabbit excuse assault type fault divert olive put pear other elite close";

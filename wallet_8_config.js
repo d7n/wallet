@@ -1,1 +1,1 @@
-var mnemonic = "catalog cancel setup wall life feature muffin estate long sure course guess";
+var mnemonic = "faculty eyebrow soccer tourist coconut trade swift fever still noodle blood talent";

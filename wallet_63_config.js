@@ -1,1 +1,1 @@
-var mnemonic = "middle clay enact brief throw honey erode usual autumn foster grit wink";
+var mnemonic = "record diagram help upper maple cousin mom seminar enjoy relief rose capable";

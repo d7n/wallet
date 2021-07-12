@@ -1,1 +1,1 @@
-var mnemonic = "route chunk dismiss brief awake file season era feature midnight depend solve";
+var mnemonic = "organ uniform pepper purpose ozone wealth input under elevator cotton flat broken";
