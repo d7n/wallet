@@ -1,1 +1,1 @@
-var mnemonic = "rhythm double argue cliff another work critic left love someone sustain trigger";
+var mnemonic = "rate reflect cloud super mistake derive ordinary slogan throw luxury fortune emerge";

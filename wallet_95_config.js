@@ -1,1 +1,1 @@
-var mnemonic = "expire hurt stadium busy curious equip found ozone describe snow essay page";
+var mnemonic = "fun train provide banana exotic two sister blur coyote clarify meat shuffle";

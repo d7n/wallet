@@ -1,1 +1,1 @@
-var mnemonic = "front ceiling range soon film material repair cliff dizzy never illness clog";
+var mnemonic = "bus coffee jacket million car edit license virus monkey bicycle success weasel";

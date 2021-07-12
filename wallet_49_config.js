@@ -1,1 +1,1 @@
-var mnemonic = "device turtle that settle slow nature awake judge slot render journey access";
+var mnemonic = "town relax rail dice width tumble winter north group acoustic swim group";

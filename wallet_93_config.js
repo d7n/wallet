@@ -1,1 +1,1 @@
-var mnemonic = "fault gossip pipe casino cool banner forest cycle increase join speed scan";
+var mnemonic = "file vibrant plunge control near rare timber host wage problem sad guitar";

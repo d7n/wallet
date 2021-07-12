@@ -1,1 +1,1 @@
-var mnemonic = "absent vehicle drive track mixture turkey obtain cluster oyster maple debris able";
+var mnemonic = "weapon hair infant section basic sorry young reason honey wolf motion inner";

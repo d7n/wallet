@@ -1,1 +1,1 @@
-var mnemonic = "begin access range say law boy more exile dog disorder aim relief";
+var mnemonic = "shine praise exercise soup feature survey approve yellow purpose swing bread absurd";

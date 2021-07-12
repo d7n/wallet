@@ -1,1 +1,1 @@
-var mnemonic = "rabbit sand skull filter famous bounce pig erosion broom essence usage cube";
+var mnemonic = "crime noodle utility mother library afford hybrid warrior wet radio oven color";

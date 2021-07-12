@@ -1,1 +1,1 @@
-var mnemonic = "force critic father frown muscle mean replace vast safe reduce media quit";
+var mnemonic = "away exclude thrive arm usual absent quit bottom dove addict tent addict";

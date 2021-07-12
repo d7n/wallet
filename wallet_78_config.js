@@ -1,1 +1,1 @@
-var mnemonic = "area print quick hill account name uncle switch rubber phrase army middle";
+var mnemonic = "lunch business opinion consider drill outdoor arctic above strong merry cement harbor";

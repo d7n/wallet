@@ -1,1 +1,1 @@
-var mnemonic = "treat shove happy stereo spin tell garment rug rug wonder shop reject";
+var mnemonic = "wear click orient balance senior spend domain hint crop crash wrong web";

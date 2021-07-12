@@ -1,1 +1,1 @@
-var mnemonic = "genre foot spirit turtle spare stomach harsh key frame morning long wolf";
+var mnemonic = "juice way health wolf clog choose strategy record undo autumn then album";

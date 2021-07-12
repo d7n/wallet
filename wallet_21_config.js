@@ -1,1 +1,1 @@
-var mnemonic = "wish master champion champion actor local immune clerk corn twist craft fish";
+var mnemonic = "chunk turtle fire option guess syrup barrel feed sorry twelve knife fat";

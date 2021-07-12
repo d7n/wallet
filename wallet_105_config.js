@@ -1,1 +1,1 @@
-var mnemonic = "harbor leg loud mule black flat repair bus peace sleep elder defense";
+var mnemonic = "say trouble curious disorder allow economy afford phone bar wall remember typical";

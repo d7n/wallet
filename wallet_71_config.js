@@ -1,1 +1,1 @@
-var mnemonic = "sibling burst nose pattern veteran morning blood wire glide manual forget slot";
+var mnemonic = "print negative palace clinic filter salad clap hello level delay purity bottom";

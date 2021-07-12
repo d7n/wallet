@@ -1,1 +1,1 @@
-var mnemonic = "edit sun forest armor phone matrix friend thank brief term again come";
+var mnemonic = "crouch suggest cement kite devote leave learn element claw scare gallery rookie";

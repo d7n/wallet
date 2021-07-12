@@ -1,1 +1,1 @@
-var mnemonic = "stereo buffalo barrel habit sick monster settle any debate october tuition actual";
+var mnemonic = "burst execute way sunny vendor tragic vital bulb boost hair panther lizard";

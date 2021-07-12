@@ -1,1 +1,1 @@
-var mnemonic = "strong enemy shiver nature sphere mountain shaft produce silly game spend wool";
+var mnemonic = "choice bright cream dragon school random right title detail chuckle hurt crystal";

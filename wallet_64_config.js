@@ -1,1 +1,1 @@
-var mnemonic = "oval peanut glow hungry latin pet kick mother sniff mammal uniform junior";
+var mnemonic = "timber floor twenty method absurd boring humor daughter seat dinner shoe bright";

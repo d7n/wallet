@@ -1,1 +1,1 @@
-var mnemonic = "permit gallery trick ignore phone bacon shop drink duck blood resist grit";
+var mnemonic = "sunset seek struggle art hidden faculty table jeans cruise trophy jump yellow";

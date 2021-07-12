@@ -1,1 +1,1 @@
-var mnemonic = "divorce wedding exit wing series pigeon alcohol thank rotate metal limit rally";
+var mnemonic = "badge poverty obscure tuna earth frog uncover odor away topic report live";

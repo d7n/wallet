@@ -1,1 +1,1 @@
-var mnemonic = "truth tell trouble ginger castle legal educate gain jaguar half inch pair";
+var mnemonic = "obey wise filter egg creek found gadget eager absurd achieve chuckle fever";

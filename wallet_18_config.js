@@ -1,1 +1,1 @@
-var mnemonic = "stairs soldier shuffle master trick mixture agent movie cruel shine garment ribbon";
+var mnemonic = "lumber rally music mystery virus include anger tribe stock drill distance evidence";

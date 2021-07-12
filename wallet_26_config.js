@@ -1,1 +1,1 @@
-var mnemonic = "yellow firm onion gadget armed sunset brief wheat crush goddess club gossip";
+var mnemonic = "sea accuse sunset twelve know lens paddle upset remove mechanic vacuum mind";

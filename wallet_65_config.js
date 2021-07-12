@@ -1,1 +1,1 @@
-var mnemonic = "age buffalo minor gospel term enjoy key pool wonder behave whip decline";
+var mnemonic = "cactus sister around talent employ federal liar deliver cave winter mind alpha";

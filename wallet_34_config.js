@@ -1,1 +1,1 @@
-var mnemonic = "essence basket west snow armor submit assault venue cement print theme penalty";
+var mnemonic = "vital core neither naive begin muscle between endless stadium broom cute fade";

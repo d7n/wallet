@@ -1,1 +1,1 @@
-var mnemonic = "robust scare between hard dinner boat quit boat airport flash eager number";
+var mnemonic = "crisp hammer joy fire ceiling term achieve tube swarm charge install topic";

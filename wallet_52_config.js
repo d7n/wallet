@@ -1,1 +1,1 @@
-var mnemonic = "kind regular top siren voyage notice note bullet future airport vanish teach";
+var mnemonic = "caught have bronze wasp trim public stick comic length hunt whisper fiction";

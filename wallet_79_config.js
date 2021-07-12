@@ -1,1 +1,1 @@
-var mnemonic = "eternal enjoy any confirm wolf hair repair ocean filter thought math brave";
+var mnemonic = "wear acquire dream lava scorpion truck scheme point elite often vibrant level";

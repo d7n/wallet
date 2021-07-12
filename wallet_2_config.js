@@ -1,1 +1,1 @@
-var mnemonic = "license maximum seminar spawn thought engine time bicycle chicken cereal sudden orange";
+var mnemonic = "ordinary lucky glory random edit warm party polar talent chef raw one";

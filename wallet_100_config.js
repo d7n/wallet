@@ -1,1 +1,1 @@
-var mnemonic = "stomach profit envelope video wait seven talent acid dash carbon zoo scorpion";
+var mnemonic = "venue dilemma clean race pear local talent delay day illegal wage repeat";

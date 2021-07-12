@@ -1,1 +1,1 @@
-var mnemonic = "verify abandon horn puzzle critic carry ugly target head beauty nurse blue";
+var mnemonic = "egg finish echo unusual reopen want effort sure tube grid cigar search";

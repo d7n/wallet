@@ -1,1 +1,1 @@
-var mnemonic = "radar palace exclude sentence mercy satisfy toddler give wasp twelve increase toast";
+var mnemonic = "census diesel emerge warm fiber one refuse slogan hurry detail display inflict";

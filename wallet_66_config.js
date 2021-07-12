@@ -1,1 +1,1 @@
-var mnemonic = "approve hair lunar transfer reopen lyrics attract track moment sure praise shadow";
+var mnemonic = "shaft scene royal domain excess wet meat kind great skill grunt fee";

@@ -1,1 +1,1 @@
-var mnemonic = "coral style drama crash shop more sun mind ask version stamp way";
+var mnemonic = "dignity siren trap spice hand usual patrol curious health outside vicious sauce";

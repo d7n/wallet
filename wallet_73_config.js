@@ -1,1 +1,1 @@
-var mnemonic = "rocket dice wait smoke swim awful drop buddy wink edge rebuild glass";
+var mnemonic = "scorpion enemy immense income eyebrow main noise scatter bracket deal great weather";

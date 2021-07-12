@@ -1,1 +1,1 @@
-var mnemonic = "creek weekend crew father labor before around favorite jealous delay organ panda";
+var mnemonic = "medal table wonder fox danger animal pizza during voyage rebuild wide either";

@@ -1,1 +1,1 @@
-var mnemonic = "frost spirit attract cook aware wait domain project undo torch harbor quit";
+var mnemonic = "hand stand rural gasp never blossom mass couple inform oyster tenant dash";

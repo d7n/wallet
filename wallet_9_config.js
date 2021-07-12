@@ -1,1 +1,1 @@
-var mnemonic = "worry memory amateur spin path point frown depth gasp kidney later utility";
+var mnemonic = "risk voice panther kitten glue real affair ethics vintage exact keen pig";

@@ -1,1 +1,1 @@
-var mnemonic = "scout sun come grow clog dice zone glass improve you void aisle";
+var mnemonic = "rebuild rack saddle scout gasp hotel oven answer answer luggage canyon pioneer";

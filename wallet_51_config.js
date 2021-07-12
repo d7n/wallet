@@ -1,1 +1,1 @@
-var mnemonic = "frame click destroy left behave inspire toy lonely check agree mobile logic";
+var mnemonic = "black truly lawn avocado few response target animal wise embark hen carbon";

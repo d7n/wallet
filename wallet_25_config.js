@@ -1,1 +1,1 @@
-var mnemonic = "office filter fluid trim design satisfy civil moment merit raise marble holiday";
+var mnemonic = "dance conduct infant flower rescue tobacco dress file endorse order resemble fault";

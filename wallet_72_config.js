@@ -1,1 +1,1 @@
-var mnemonic = "amount girl lens consider total aware bomb pottery earn fossil kiss title";
+var mnemonic = "arena bid across wealth either again fruit enjoy rough sleep close across";

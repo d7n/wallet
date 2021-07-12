@@ -1,1 +1,1 @@
-var mnemonic = "legal scout choice syrup chuckle ride leave wedding license render solution silk";
+var mnemonic = "stamp home foil subject know depart party aisle umbrella elite orphan captain";

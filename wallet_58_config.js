@@ -1,1 +1,1 @@
-var mnemonic = "input furnace worry trade better basic zero twenty unable chronic crouch skirt";
+var mnemonic = "any cruise various balcony plunge swallow between dad grab fox basic excite";

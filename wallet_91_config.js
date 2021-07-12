@@ -1,1 +1,1 @@
-var mnemonic = "piano capital rib note idea divert web consider various scrub twin sorry";
+var mnemonic = "music trap oppose boring oxygen truth holiday sketch ridge liar canvas garlic";

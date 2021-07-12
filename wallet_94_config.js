@@ -1,1 +1,1 @@
-var mnemonic = "march husband warm admit three hint order kitchen toast play film credit";
+var mnemonic = "private exclude life risk body eager title rate ramp embody morning attack";

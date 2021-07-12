@@ -1,1 +1,1 @@
-var mnemonic = "pepper tank cement scale drastic vacuum bridge amused bring scheme mail brass";
+var mnemonic = "oyster iron armor exotic wise cargo interest various require expire february stay";

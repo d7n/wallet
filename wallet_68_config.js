@@ -1,1 +1,1 @@
-var mnemonic = "hole night bridge step palm spell trash say mammal flock swim saddle";
+var mnemonic = "reduce display cupboard minute reward broken glue little game aspect fuel meat";

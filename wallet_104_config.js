@@ -1,1 +1,1 @@
-var mnemonic = "alter avocado unfair sing proof unfair load wave wage note arrest wisdom";
+var mnemonic = "gown rack gather drill produce verb shove avoid loud busy select left";

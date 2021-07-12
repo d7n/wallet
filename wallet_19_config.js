@@ -1,1 +1,1 @@
-var mnemonic = "filter hazard erase talk foot dismiss garden funny edge flash news blouse";
+var mnemonic = "burden fix coyote sing congress lobster tank garment artist stand chair later";

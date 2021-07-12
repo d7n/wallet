@@ -1,1 +1,1 @@
-var mnemonic = "scout keen exercise when install mobile divide pink exist estate riot switch";
+var mnemonic = "clerk biology enter raw upset insect slim garbage tray few firm pair";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky measure video fabric debris fantasy kit expect add orange garlic side";
+var mnemonic = "title fabric useful cat near surround enact pig engine wealth castle force";

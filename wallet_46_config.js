@@ -1,1 +1,1 @@
-var mnemonic = "prefer waste iron design anchor weekend paddle bag topic diamond together gain";
+var mnemonic = "narrow garlic refuse typical ethics industry canyon comic swing anchor act analyst";

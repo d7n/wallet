@@ -1,1 +1,1 @@
-var mnemonic = "stumble donkey acquire chief chair keep grass bread vault acquire domain decorate";
+var mnemonic = "health inherit broccoli goose remain swamp boat chaos fatal range burger screen";

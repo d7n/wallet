@@ -1,1 +1,1 @@
-var mnemonic = "hood card between audit kidney fossil basket essay wire member cable excite";
+var mnemonic = "across satoshi vessel donor surge invite off utility silly version safe federal";

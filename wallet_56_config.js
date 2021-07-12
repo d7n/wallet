@@ -1,1 +1,1 @@
-var mnemonic = "cup own bulk live fringe bread february buffalo notice play velvet tomato";
+var mnemonic = "embody result market hurt turn very desk hazard demand require blossom subject";

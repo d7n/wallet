@@ -1,1 +1,1 @@
-var mnemonic = "valid coyote sample system venture gauge drama box hurt organ wasp earth";
+var mnemonic = "canvas plate coconut resource meadow subway army sort foam mobile media young";

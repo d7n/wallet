@@ -1,1 +1,1 @@
-var mnemonic = "praise morning multiply shaft tank learn resource nerve fabric option reopen develop";
+var mnemonic = "tree sugar reason blame stairs repeat divorce labor swap person giggle inject";

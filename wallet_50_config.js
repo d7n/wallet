@@ -1,1 +1,1 @@
-var mnemonic = "piano athlete merit vital impose evidence weasel canal ordinary filter hunt three";
+var mnemonic = "arrow you ahead fossil desert essence fire space cabbage devote tank occur";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase usage oak lunar drink artefact happy cream number dog insect thank";
+var mnemonic = "fever pull bulb hungry illness forest ethics bomb taxi huge shove very";

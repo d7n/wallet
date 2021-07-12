@@ -1,1 +1,1 @@
-var mnemonic = "that great exercise control improve mandate zone vapor crime list across planet";
+var mnemonic = "arctic weapon tired rally planet check tomorrow core craft hollow vacuum farm";

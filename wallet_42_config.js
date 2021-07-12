@@ -1,1 +1,1 @@
-var mnemonic = "flame search defy promote stereo control friend zoo sunny fix want immense";
+var mnemonic = "jelly chef donkey excess net loyal chuckle robot begin pistol bacon grief";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest safe either asset shadow wasp cotton heart leg chalk tooth garment";
+var mnemonic = "mobile addict strong maple correct fix click escape sail engine autumn coffee";

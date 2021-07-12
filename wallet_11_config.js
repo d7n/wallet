@@ -1,1 +1,1 @@
-var mnemonic = "lonely nuclear barely asset soap luggage winner black split labor tent ghost";
+var mnemonic = "round culture smoke glare ensure believe vehicle cigar salon street buffalo muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "rail that decide cupboard buffalo room cabbage photo scatter filter ankle police";
+var mnemonic = "welcome retreat kitten much praise faint eyebrow drastic two habit adjust mushroom";

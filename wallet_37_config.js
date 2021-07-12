@@ -1,1 +1,1 @@
-var mnemonic = "piece follow sand actual wrist foot fashion notice arctic alarm pulp amount";
+var mnemonic = "shop six people large result word room cousin volcano sing daughter nut";

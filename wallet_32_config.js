@@ -1,1 +1,1 @@
-var mnemonic = "raven sing later toy void season cabin junk since ignore place limb";
+var mnemonic = "industry drink walnut perfect village recipe project guess dirt divert kidney stable";

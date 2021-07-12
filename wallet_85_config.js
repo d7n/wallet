@@ -1,1 +1,1 @@
-var mnemonic = "raise sister weather patch grab whip rack episode catalog define market spy";
+var mnemonic = "suspect useless voice finger fuel say catalog year midnight shove always second";

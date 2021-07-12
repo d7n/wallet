@@ -1,1 +1,1 @@
-var mnemonic = "again antenna clean topic emerge scrap normal million fish world vapor egg";
+var mnemonic = "outer tip elder conduct mercy foil like frequent lunar climb bitter gown";

@@ -1,1 +1,1 @@
-var mnemonic = "local tag long deposit scare slow shove clean trumpet bridge derive universe";
+var mnemonic = "quiz hope chat oven announce category salute balance kidney usual item employ";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard unknown celery viable elder flavor claim simple ramp truck vast impact";
+var mnemonic = "gentle coffee twin dash trouble stay eagle hard wedding guess retreat wreck";

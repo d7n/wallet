@@ -1,1 +1,1 @@
-var mnemonic = "wrap empower feed tomato exit clean fee pilot window rhythm gadget guitar";
+var mnemonic = "reason prevent ignore ceiling into insect celery february wish lottery orphan obvious";

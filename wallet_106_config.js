@@ -1,1 +1,1 @@
-var mnemonic = "visa honey visit victory inform owner kind process worth version student banana";
+var mnemonic = "surround until federal project simple guilt odor cinnamon cement law select pottery";

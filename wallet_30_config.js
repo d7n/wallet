@@ -1,1 +1,1 @@
-var mnemonic = "side property sketch rug similar duck spirit tiny tired science senior rabbit";
+var mnemonic = "mother spice glare since deer appear spring grass tilt face draw ranch";

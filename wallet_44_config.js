@@ -1,1 +1,1 @@
-var mnemonic = "tip club intact saddle wine delay quit focus horror protect tilt month";
+var mnemonic = "gasp horse absorb tape depth punch knee board river drive quit error";

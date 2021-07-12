@@ -1,1 +1,1 @@
-var mnemonic = "usage stool chest hire actual step west chef bunker sentence morning cash";
+var mnemonic = "bracket whisper remain mobile velvet demise filter bone praise seat faint endorse";

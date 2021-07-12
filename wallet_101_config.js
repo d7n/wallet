@@ -1,1 +1,1 @@
-var mnemonic = "turn neutral faculty segment funny picture edit gallery vast recall pistol cheese";
+var mnemonic = "engage unfold elbow razor potato smooth error cross reduce inherit coffee choose";

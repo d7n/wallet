@@ -1,1 +1,1 @@
-var mnemonic = "frost picture peanut concert fold steel salad collect response depart social diamond";
+var mnemonic = "suggest awesome become faint worry van write hundred purpose noodle jacket life";

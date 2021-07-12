@@ -1,1 +1,1 @@
-var mnemonic = "snap course satoshi valve social jeans pistol rug blur hedgehog armor wise";
+var mnemonic = "curve robust thumb write reopen minimum vague still endless toss two gentle";

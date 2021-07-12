@@ -1,1 +1,1 @@
-var mnemonic = "manual film dumb script divide elevator another project camera return chase toy";
+var mnemonic = "mandate share crucial crystal black canoe muscle double peasant unfold robot cluster";

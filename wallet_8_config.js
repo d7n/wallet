@@ -1,1 +1,1 @@
-var mnemonic = "enroll case above success season shove decade fluid loyal brand jelly always";
+var mnemonic = "mask diet machine kiss remember joy delay ridge clinic pair east peace";

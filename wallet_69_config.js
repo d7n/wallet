@@ -1,1 +1,1 @@
-var mnemonic = "game hill ill weapon whip trash lock fiber lab economy ready orange";
+var mnemonic = "vital panel frog aspect social raccoon guilt vendor pledge harvest afraid pet";

@@ -1,1 +1,1 @@
-var mnemonic = "predict voice metal egg spatial offer outer silent goat exclude drip unfair";
+var mnemonic = "rough pumpkin athlete ripple viable remove desert calm cross drum engine cargo";

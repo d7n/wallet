@@ -1,1 +1,1 @@
-var mnemonic = "maze quick level inmate now message live dice rough devote rebel caught";
+var mnemonic = "immense bracket scissors cattle category section skill glory equip culture raise scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "nature welcome second usual cradle scene rescue result sound strong van penalty";
+var mnemonic = "clap provide measure exhibit maple install spider law drop govern idea raccoon";

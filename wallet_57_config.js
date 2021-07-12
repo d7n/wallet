@@ -1,1 +1,1 @@
-var mnemonic = "another much afford skirt heavy left account width embark daughter reason pear";
+var mnemonic = "forward trick bounce digital style thought like crop enjoy scrap avocado head";

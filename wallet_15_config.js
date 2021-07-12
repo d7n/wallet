@@ -1,1 +1,1 @@
-var mnemonic = "peanut explain true predict normal machine unknown original swarm never fury rule";
+var mnemonic = "equal run soap album uncle vote immune undo choice photo coach physical";

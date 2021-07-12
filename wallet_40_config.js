@@ -1,1 +1,1 @@
-var mnemonic = "know denial weather faint pencil either mad old angry depend giggle alley";
+var mnemonic = "reopen now swamp coast rebel strong sudden cool hazard exhaust voyage amused";
