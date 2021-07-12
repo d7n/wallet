@@ -1,1 +1,1 @@
-var mnemonic = "share tongue wrong jungle suffer climb deer salt agent armed neck youth";
+var mnemonic = "ivory suggest jeans surface idle distance equal retire tackle loan copper width";

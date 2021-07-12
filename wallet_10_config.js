@@ -1,1 +1,1 @@
-var mnemonic = "orient foil cover path pet rent dumb attract pilot promote brave exile";
+var mnemonic = "happy clever zone museum turkey clean cricket canvas fire route mandate moral";

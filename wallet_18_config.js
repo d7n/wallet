@@ -1,1 +1,1 @@
-var mnemonic = "mix dynamic belt change matrix retreat order time orchard spray enlist anchor";
+var mnemonic = "hungry exotic rubber spatial knife deputy display cost inspire essence suggest sniff";

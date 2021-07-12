@@ -1,1 +1,1 @@
-var mnemonic = "test bacon same sting silver wage apple bus simple figure exercise you";
+var mnemonic = "erase token sight claim sound together basket swallow flip donkey draw baby";

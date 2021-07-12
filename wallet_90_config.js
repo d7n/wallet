@@ -1,1 +1,1 @@
-var mnemonic = "perfect skate naive fancy chef club absent rifle yard trouble antenna paddle";
+var mnemonic = "similar version bulk keen since hawk forward pupil try job draft shock";

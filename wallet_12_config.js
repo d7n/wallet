@@ -1,1 +1,1 @@
-var mnemonic = "like betray cry gain cherry note climb mutual quit enjoy brother proof";
+var mnemonic = "shift topple gas napkin hybrid outdoor model yellow twelve offer toast frame";

@@ -1,1 +1,1 @@
-var mnemonic = "marine census tip coast raw nasty distance wool east mango above above";
+var mnemonic = "pony camera photo warfare usage voyage document ranch anchor drastic liar pride";

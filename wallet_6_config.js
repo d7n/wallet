@@ -1,1 +1,1 @@
-var mnemonic = "witness tilt tower swim eight rather brain iron blame word near tackle";
+var mnemonic = "flee chief equip awful bamboo own want begin stand sick supreme candy";

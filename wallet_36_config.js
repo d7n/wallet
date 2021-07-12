@@ -1,1 +1,1 @@
-var mnemonic = "half senior brush embody someone puzzle result weekend any struggle other coral";
+var mnemonic = "initial ritual hawk cover differ injury budget rice fancy pink one planet";

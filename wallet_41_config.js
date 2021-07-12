@@ -1,1 +1,1 @@
-var mnemonic = "mystery because often source movie crawl math plate cargo portion produce sure";
+var mnemonic = "pumpkin toward spoil arena practice age maze bridge audit poet aisle combine";

@@ -1,1 +1,1 @@
-var mnemonic = "climb author royal person again reveal ketchup obtain royal cash abandon present";
+var mnemonic = "govern tooth kangaroo prison exact void lemon weird chest include hollow erode";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle fault action valve crunch gift critic can tip spoil float task";
+var mnemonic = "vivid razor three army uncle autumn army gift industry green bless loan";

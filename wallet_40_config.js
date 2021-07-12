@@ -1,1 +1,1 @@
-var mnemonic = "stick spring copy seven pill dizzy earn calm vocal sibling embody race";
+var mnemonic = "skull leopard satisfy trash nerve cotton salon pear kiwi victory tide remember";

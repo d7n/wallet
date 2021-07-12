@@ -1,1 +1,1 @@
-var mnemonic = "drive session story swap walk expire say barely early flower morning swim";
+var mnemonic = "man morning thrive volcano actress sweet satoshi airport insane rare acquire bless";

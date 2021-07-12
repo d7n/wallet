@@ -1,1 +1,1 @@
-var mnemonic = "deputy laundry skull away miracle van label property ahead clutch scrap shock";
+var mnemonic = "surround disorder common bring rose hood detail slogan brave issue camp sadness";

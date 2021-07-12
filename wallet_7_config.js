@@ -1,1 +1,1 @@
-var mnemonic = "kitchen note broken jealous risk gun hammer dish reduce slow ritual brief";
+var mnemonic = "work same puzzle piece congress monster palm choice gate cry trap electric";

@@ -1,1 +1,1 @@
-var mnemonic = "globe grocery wreck mystery bleak way purchase true group online blast caught";
+var mnemonic = "raise planet elbow chase dice mail much garden depart sell holiday earth";

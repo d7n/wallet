@@ -1,1 +1,1 @@
-var mnemonic = "isolate frown dog educate festival mandate ginger parent film rare oblige ticket";
+var mnemonic = "drive grant inject vacant north fever wild control pole wise avoid trend";

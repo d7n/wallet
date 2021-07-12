@@ -1,1 +1,1 @@
-var mnemonic = "era mule pulse summer faint anchor nest drastic area leave eight cereal";
+var mnemonic = "match later impose scout junior gather arch depend heavy monkey merit couple";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion collect diesel small agent hollow enlist puzzle route old awful anxiety";
+var mnemonic = "attitude left veteran announce sting shaft trim license hint recipe uphold lunch";

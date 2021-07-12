@@ -1,1 +1,1 @@
-var mnemonic = "speed staff hedgehog wage globe disorder pond release express erupt rebel rocket";
+var mnemonic = "point melt chaos borrow smart cable now initial lift visit wild donor";

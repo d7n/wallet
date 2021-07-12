@@ -1,1 +1,1 @@
-var mnemonic = "cousin sauce shift rack public program survey weasel mask model prefer travel";
+var mnemonic = "guess diesel fever category risk feature tree actor sustain range mansion honey";

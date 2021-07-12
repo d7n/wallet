@@ -1,1 +1,1 @@
-var mnemonic = "sick federal steel age lizard sibling enter arrest library sniff skin rough";
+var mnemonic = "giraffe furnace civil draw tank insect save banner napkin gain accident slide";

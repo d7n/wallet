@@ -1,1 +1,1 @@
-var mnemonic = "congress punch traffic settle nature crew slam ostrich hold vote enough slab";
+var mnemonic = "junk never zoo jealous bonus forest search small agree alert mercy wheat";

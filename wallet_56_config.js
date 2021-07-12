@@ -1,1 +1,1 @@
-var mnemonic = "manage squirrel chief blame unknown erode giggle arctic maximum risk photo hope";
+var mnemonic = "torch oil guard vital toss prison gather taste segment average crumble very";

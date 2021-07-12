@@ -1,1 +1,1 @@
-var mnemonic = "aunt theme camp song arena couple chuckle biology egg behave puzzle soup";
+var mnemonic = "riot universe spend leader payment primary circle music embody various they busy";

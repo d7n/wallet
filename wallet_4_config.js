@@ -1,1 +1,1 @@
-var mnemonic = "what cat debate believe brain combine trip lamp novel defy melody beyond";
+var mnemonic = "actress feel urge debris order cook own young amateur host meat core";

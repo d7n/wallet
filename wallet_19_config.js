@@ -1,1 +1,1 @@
-var mnemonic = "aspect orient digital dumb agent dinosaur agree bus strong cat remember popular";
+var mnemonic = "exchange plunge guilt skin more piano produce tree remain express fitness absurd";

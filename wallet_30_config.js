@@ -1,1 +1,1 @@
-var mnemonic = "despair rely betray fancy oval frequent frown digital odor motion roast verb";
+var mnemonic = "cheap since husband visa open crane topic oxygen arctic aspect three athlete";

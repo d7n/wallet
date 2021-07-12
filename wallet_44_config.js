@@ -1,1 +1,1 @@
-var mnemonic = "tape close final blossom must announce degree bring bronze pact timber want";
+var mnemonic = "position address photo analyst stock educate various excuse carbon noise coil strong";

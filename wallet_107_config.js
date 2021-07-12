@@ -1,1 +1,1 @@
-var mnemonic = "blood jazz tiny grief forget soap divide swing decade typical prepare meat";
+var mnemonic = "turtle surprise chunk veteran south check limit stable hidden fence promote frequent";

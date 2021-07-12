@@ -1,1 +1,1 @@
-var mnemonic = "tip bunker dog chuckle book tiger olympic you vibrant affair license mom";
+var mnemonic = "bunker fly alpha rigid ordinary crew nominee gloom pink section arctic velvet";

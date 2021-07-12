@@ -1,1 +1,1 @@
-var mnemonic = "outside click grace degree reject chuckle extend soap month february bunker cable";
+var mnemonic = "life swallow round chief predict basic coconut era swing reunion matrix aunt";

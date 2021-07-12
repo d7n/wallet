@@ -1,1 +1,1 @@
-var mnemonic = "canal danger about text dinner kit play muffin harsh furnace will promote";
+var mnemonic = "soap keep tool wrestle rude fitness toe cabin rally squeeze tissue act";

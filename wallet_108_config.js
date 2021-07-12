@@ -1,1 +1,1 @@
-var mnemonic = "frozen someone paper punch afraid object balcony trouble wrist alarm tattoo picture";
+var mnemonic = "evoke fee cover narrow crazy clerk improve clip cart trend local staff";

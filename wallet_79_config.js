@@ -1,1 +1,1 @@
-var mnemonic = "famous ice elbow defense upgrade protect pulp damp century rose castle fruit";
+var mnemonic = "test sound shoe enemy hidden system curtain machine neck drill skirt type";

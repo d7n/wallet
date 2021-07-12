@@ -1,1 +1,1 @@
-var mnemonic = "number mask juice planet ripple people account menu debris element afraid mad";
+var mnemonic = "ten august boat fame brass escape unlock space valley spray surge urban";

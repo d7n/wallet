@@ -1,1 +1,1 @@
-var mnemonic = "cat dash secret word glimpse spice gravity omit elder monster into throw";
+var mnemonic = "avocado very diet audit either world royal cool nothing fantasy old victory";

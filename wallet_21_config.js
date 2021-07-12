@@ -1,1 +1,1 @@
-var mnemonic = "measure future plug bind spirit cotton various member off force sea kitchen";
+var mnemonic = "supply voyage hockey merge frog wrestle gather result kitten erupt spare garage";

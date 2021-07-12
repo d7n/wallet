@@ -1,1 +1,1 @@
-var mnemonic = "stereo color witness organ you entire hammer royal pony citizen renew fruit";
+var mnemonic = "just capital pulp address weapon fatigue visa beef rose coil hollow dose";

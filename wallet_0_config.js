@@ -1,1 +1,1 @@
-var mnemonic = "weasel cruise album bubble page coyote satoshi medal river swear buffalo dumb";
+var mnemonic = "feel unfold absurd rain cereal father twice elegant finish swift pride idle";

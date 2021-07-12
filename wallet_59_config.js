@@ -1,1 +1,1 @@
-var mnemonic = "surprise empty voyage shaft movie warfare arctic eager puppy foil spider torch";
+var mnemonic = "dragon simple clog market problem door measure endless rhythm crane alley tell";

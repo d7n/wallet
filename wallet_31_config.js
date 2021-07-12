@@ -1,1 +1,1 @@
-var mnemonic = "size impulse print border project green trouble vital pelican law segment tornado";
+var mnemonic = "solid inside harvest swap pelican caution wolf iron milk actor library tool";

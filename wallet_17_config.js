@@ -1,1 +1,1 @@
-var mnemonic = "cactus nice dune aunt habit actress age powder only bounce ribbon eagle";
+var mnemonic = "hunt install image effort champion deliver enroll cake just shock cake avocado";

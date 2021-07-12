@@ -1,1 +1,1 @@
-var mnemonic = "magnet illegal quantum father apology energy hidden belt afraid topple ceiling boil";
+var mnemonic = "nature cruise wall arrive barrel index dog debris invite siren ancient fringe";

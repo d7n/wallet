@@ -1,1 +1,1 @@
-var mnemonic = "ask excess inch thumb frog deputy test scheme poet hire leave public";
+var mnemonic = "gold gorilla kit tape envelope green festival proof cute section best auction";

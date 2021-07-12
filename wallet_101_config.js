@@ -1,1 +1,1 @@
-var mnemonic = "spawn toward game obvious wide coconut heart velvet embark bonus sausage bind";
+var mnemonic = "asthma verify crater kitten coast cigar mouse exile payment bless fatigue phone";

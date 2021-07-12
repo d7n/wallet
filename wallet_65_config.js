@@ -1,1 +1,1 @@
-var mnemonic = "unfold property door thought grit crucial rack apple large duty flavor banner";
+var mnemonic = "good smart stock fortune lion zero job country hollow welcome later little";

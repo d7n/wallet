@@ -1,1 +1,1 @@
-var mnemonic = "arrange lens awkward fish pig portion receive tide crash two manage sign";
+var mnemonic = "kingdom lazy service gas curtain opinion hat upper nasty become merge dwarf";

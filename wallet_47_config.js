@@ -1,1 +1,1 @@
-var mnemonic = "trim club opinion hire ostrich eye furnace oven glory minimum shoulder source";
+var mnemonic = "cross sauce strike mask entry rubber woman hope bounce kitchen top outer";

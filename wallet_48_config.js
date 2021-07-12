@@ -1,1 +1,1 @@
-var mnemonic = "captain genuine forget vibrant tortoise slot violin small produce item genius elbow";
+var mnemonic = "sunny ship forest unusual grab put poem staff census patch clump snack";

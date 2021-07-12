@@ -1,1 +1,1 @@
-var mnemonic = "pluck coast picture vocal intact desert ask you property notable swim tuna";
+var mnemonic = "room bacon season wedding slice boil large tennis ocean raccoon warm virus";

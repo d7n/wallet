@@ -1,1 +1,1 @@
-var mnemonic = "wisdom unusual health amused dirt found great plastic mushroom train derive valley";
+var mnemonic = "joke river assume stomach palace chase owner ship parent video almost doll";

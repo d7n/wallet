@@ -1,1 +1,1 @@
-var mnemonic = "future arrow water victory width letter sea play mesh myth float chronic";
+var mnemonic = "image wise soccer donate view thank hole clean uniform decrease secret protect";

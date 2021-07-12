@@ -1,1 +1,1 @@
-var mnemonic = "speed scheme raise tooth figure regular result high alert seed bundle siege";
+var mnemonic = "effort flavor century sheriff blanket front kiwi box scrap crystal square hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "riot tank attitude filter asset embark cupboard hybrid visit deal good announce";
+var mnemonic = "rose switch hawk maze rain edit season deal nurse dawn slam check";

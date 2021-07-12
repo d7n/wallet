@@ -1,1 +1,1 @@
-var mnemonic = "patrol salon bomb sadness visit camera bronze swear spirit buddy narrow morning";
+var mnemonic = "catch coconut topple cereal galaxy adapt account dynamic science say lawn across";

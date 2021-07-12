@@ -1,1 +1,1 @@
-var mnemonic = "exit alarm orchard inject reduce eight bleak gold grass anxiety barely budget";
+var mnemonic = "small usual zoo north lift shift upgrade cage loyal stool lazy torch";

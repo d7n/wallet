@@ -1,1 +1,1 @@
-var mnemonic = "raven human capable alcohol fancy stadium empower stem cycle picture tomorrow direct";
+var mnemonic = "wagon oval palace father trumpet reform junk mother grape sustain caution one";

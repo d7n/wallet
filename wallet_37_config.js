@@ -1,1 +1,1 @@
-var mnemonic = "crack fancy odor stomach pitch execute wild method metal power history nut";
+var mnemonic = "behind dinner wrist that candy document game word often success point electric";

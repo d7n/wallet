@@ -1,1 +1,1 @@
-var mnemonic = "shoot swift nice entire company vague measure anger energy color phrase hotel";
+var mnemonic = "predict harsh uncover salt unknown quarter egg mule cry avoid aware dad";

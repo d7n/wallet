@@ -1,1 +1,1 @@
-var mnemonic = "reduce artefact penalty dream tell chunk shoot boring stable concert lift bar";
+var mnemonic = "flock limb credit organ vast collect garage fiction huge phrase describe fun";

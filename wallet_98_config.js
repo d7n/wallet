@@ -1,1 +1,1 @@
-var mnemonic = "belt fat yellow night wool myself pave require toast hedgehog dance void";
+var mnemonic = "orbit forward buyer repair cook wedding open scan silly narrow tornado galaxy";

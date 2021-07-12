@@ -1,1 +1,1 @@
-var mnemonic = "visual inject person crawl order blade bottom castle gold film drip panel";
+var mnemonic = "praise silly small wire cave stove slam select sponsor decrease solar silk";

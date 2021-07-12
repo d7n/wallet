@@ -1,1 +1,1 @@
-var mnemonic = "roast monkey milk velvet grocery crouch innocent weird invest crater black riot";
+var mnemonic = "rifle shed village glass knee rigid inmate hen present moon life practice";

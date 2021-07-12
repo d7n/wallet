@@ -1,1 +1,1 @@
-var mnemonic = "obvious enact unveil hill immune gauge slot habit hint trick hurt include";
+var mnemonic = "bicycle cabbage become eagle prefer noise like quiz stomach control coyote lunar";

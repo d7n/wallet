@@ -1,1 +1,1 @@
-var mnemonic = "ghost balance bubble notice risk monitor smoke awful gossip adult angry speed";
+var mnemonic = "chase sense zero laptop rug figure proof parade before control venue office";

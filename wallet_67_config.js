@@ -1,1 +1,1 @@
-var mnemonic = "innocent lock salmon liberty morning kangaroo rice twist language private cause desk";
+var mnemonic = "mother daughter unhappy false ritual bag noble come artwork space volcano estate";

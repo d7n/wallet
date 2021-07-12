@@ -1,1 +1,1 @@
-var mnemonic = "gate lunar salt cannon dolphin grant need point puzzle worth beach toy";
+var mnemonic = "elder honey sail antique unique trigger brush future stomach must collect defense";

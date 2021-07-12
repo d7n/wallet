@@ -1,1 +1,1 @@
-var mnemonic = "neither demand little meadow inner adjust midnight dynamic coyote fragile shaft unknown";
+var mnemonic = "elder tip magic flame spawn truth pond exercise clever harsh moment question";

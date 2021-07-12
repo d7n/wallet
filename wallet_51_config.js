@@ -1,1 +1,1 @@
-var mnemonic = "reveal luggage act put find shrimp clay feed refuse myth need submit";
+var mnemonic = "usual page fossil home student current alley peace used maple cannon defy";

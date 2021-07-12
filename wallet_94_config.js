@@ -1,1 +1,1 @@
-var mnemonic = "laptop equip apology busy rescue fabric liquid arrive antenna spend omit home";
+var mnemonic = "sleep method feel hamster target debris town two phone birth snap boil";

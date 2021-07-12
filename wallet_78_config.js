@@ -1,1 +1,1 @@
-var mnemonic = "educate enable daring away adult great kangaroo blue bundle list various warm";
+var mnemonic = "then humble flush view friend trumpet swim zero horn volcano sibling river";

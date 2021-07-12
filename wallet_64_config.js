@@ -1,1 +1,1 @@
-var mnemonic = "brass bright village what kidney tilt picnic prevent security oil narrow thrive";
+var mnemonic = "coral swim phrase weasel crucial erosion check stool gym type curious boss";

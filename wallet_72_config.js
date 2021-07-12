@@ -1,1 +1,1 @@
-var mnemonic = "garment siren pipe hire mixed turkey aware surge wheel engine example marble";
+var mnemonic = "title offer verb icon replace reform public merry update woman provide receive";

@@ -1,1 +1,1 @@
-var mnemonic = "expose hunt fog echo antique harsh tide shrug spy jungle sphere argue";
+var mnemonic = "radar add dove fire adapt kingdom become wish carpet fancy hub talk";

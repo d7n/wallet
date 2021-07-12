@@ -1,1 +1,1 @@
-var mnemonic = "garbage delay hour high afford draw shock venture mass praise wheel faith";
+var mnemonic = "scout fury solution kiss slim lift kind castle cliff purity tag saddle";

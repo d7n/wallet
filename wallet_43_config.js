@@ -1,1 +1,1 @@
-var mnemonic = "quantum theory wrap novel depend blade fiction sustain wave possible broken scare";
+var mnemonic = "solution fantasy snap disagree pen scene frame smooth tool salute repeat hundred";

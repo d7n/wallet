@@ -1,1 +1,1 @@
-var mnemonic = "right cargo reason relief toy future basic timber heavy type talent apology";
+var mnemonic = "twenty useful patch profit void ugly range make glory such sorry dial";

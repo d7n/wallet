@@ -1,1 +1,1 @@
-var mnemonic = "before orphan trade slim hero ritual laptop chapter truly detect top end";
+var mnemonic = "scissors speak tent life about amused music book spoon denial dash stairs";

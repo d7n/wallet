@@ -1,1 +1,1 @@
-var mnemonic = "abandon front term census list card settle area expect taste increase expand";
+var mnemonic = "genius rate cliff strike morning another album horse romance twelve tell kitchen";

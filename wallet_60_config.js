@@ -1,1 +1,1 @@
-var mnemonic = "spoil thank taste infant phone state section mystery okay capable poem size";
+var mnemonic = "swarm layer fantasy shy awkward flat blame sock move capable dinosaur lawsuit";

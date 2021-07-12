@@ -1,1 +1,1 @@
-var mnemonic = "review ocean swift orbit destroy slim swift seat fantasy print floor pistol";
+var mnemonic = "intact despair neck swallow resemble parent warfare until lottery subway heavy rhythm";

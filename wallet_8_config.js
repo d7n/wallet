@@ -1,1 +1,1 @@
-var mnemonic = "clump ready mouse multiply payment budget steel cushion shock entire unfold flame";
+var mnemonic = "kidney barrel future parade best mix dove spray unique drop ivory caught";

@@ -1,1 +1,1 @@
-var mnemonic = "execute eight faith differ order runway talk stadium slogan slab state enrich";
+var mnemonic = "attitude sort whale differ civil hover sock pizza subway above knee nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "token citizen assault finish version chicken flavor coral match devote issue health";
+var mnemonic = "accuse joke regret whisper neither shuffle execute remember mandate globe oval icon";

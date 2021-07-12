@@ -1,1 +1,1 @@
-var mnemonic = "collect logic caution wise spirit drill flee conduct cake learn spot bamboo";
+var mnemonic = "kidney vintage order hair sleep display manual movie relief calm mimic focus";

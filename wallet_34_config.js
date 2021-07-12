@@ -1,1 +1,1 @@
-var mnemonic = "foam blade gas day much calm stable axis tomorrow melt sadness bitter";
+var mnemonic = "bench mosquito amount enjoy wolf crush hammer hundred garment child song ensure";

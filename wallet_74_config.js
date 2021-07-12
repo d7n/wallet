@@ -1,1 +1,1 @@
-var mnemonic = "awesome drastic radio chef survey cash hill unable globe portion manual opinion";
+var mnemonic = "era earth mule bone put pill stick public border blush fantasy express";

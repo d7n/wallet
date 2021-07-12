@@ -1,1 +1,1 @@
-var mnemonic = "sense fan wall topple fine silent two faculty cigar ozone divide much";
+var mnemonic = "whisper genre also baby primary check remember join run damp utility office";

@@ -1,1 +1,1 @@
-var mnemonic = "elder label job bubble crime brother boy mixture exist sun federal just";
+var mnemonic = "earth action gentle track bounce fly cheap million dinner finger talent result";

@@ -1,1 +1,1 @@
-var mnemonic = "cable bullet blue lady mesh cover hard spin income staff rifle quit";
+var mnemonic = "dry salute fault business sketch run abandon label fresh then fish bacon";
