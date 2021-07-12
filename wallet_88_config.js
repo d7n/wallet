@@ -1,1 +1,1 @@
-var mnemonic = "monkey wear verify swarm rail document shock little cabin message magnet glare";
+var mnemonic = "rapid sadness silver broom fantasy term female ghost peasant merry dose season";

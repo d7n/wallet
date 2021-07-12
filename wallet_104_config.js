@@ -1,1 +1,1 @@
-var mnemonic = "monitor man ankle raw situate mad edge sibling crucial guide churn narrow";
+var mnemonic = "swift family small behind scorpion urban opinion expect venue million breeze decline";

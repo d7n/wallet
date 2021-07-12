@@ -1,1 +1,1 @@
-var mnemonic = "race wrong best discover poet surface timber motor silk equal ecology pupil";
+var mnemonic = "air all dentist coin velvet dinner shift toward east setup winter blur";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon pigeon machine lyrics chaos dune abuse write sad album wrong wealth";
+var mnemonic = "royal indoor sniff couple they luxury hire hover feel alarm hello purchase";

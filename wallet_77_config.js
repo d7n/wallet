@@ -1,1 +1,1 @@
-var mnemonic = "price cheese upset plastic expand topic that balance merry when jelly tent";
+var mnemonic = "then canyon upon vendor ridge wave prize easily bargain relax cup over";

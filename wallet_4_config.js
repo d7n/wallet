@@ -1,1 +1,1 @@
-var mnemonic = "rocket allow nominee middle pilot kangaroo kite news grape despair poverty middle";
+var mnemonic = "also object gas rather regret bring believe price jazz desert prepare riot";

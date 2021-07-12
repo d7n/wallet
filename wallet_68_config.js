@@ -1,1 +1,1 @@
-var mnemonic = "upset style test trick squeeze view scene school leader submit live double";
+var mnemonic = "address burden century dry only tenant session jump defy again badge evil";

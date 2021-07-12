@@ -1,1 +1,1 @@
-var mnemonic = "antique spawn galaxy vacant casino poem nest silent remain vote tiger someone";
+var mnemonic = "injury glance city skull jealous absurd swarm vocal hidden bless menu hand";

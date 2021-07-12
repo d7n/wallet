@@ -1,1 +1,1 @@
-var mnemonic = "portion gym random home thumb crazy curious toilet dragon chimney bean payment";
+var mnemonic = "license ranch escape income toss canvas icon cigar mistake assist chest amazing";

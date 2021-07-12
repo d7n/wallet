@@ -1,1 +1,1 @@
-var mnemonic = "open wide assume cupboard couch frozen perfect begin pulse pudding index fame";
+var mnemonic = "twelve slide punch dinosaur mountain fatal soda library penalty quarter awake real";

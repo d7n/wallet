@@ -1,1 +1,1 @@
-var mnemonic = "treat slim invest rubber invest joke smile join pull dilemma wreck finish";
+var mnemonic = "labor vocal zoo over card gauge advice echo inmate gym west shy";

@@ -1,1 +1,1 @@
-var mnemonic = "actress popular egg seat blade rotate zone enrich picture capable earth toward";
+var mnemonic = "element later evil film dawn hope bunker note title this region leopard";

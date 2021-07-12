@@ -1,1 +1,1 @@
-var mnemonic = "radar cool raven ship antique lazy style oblige extra accuse summer area";
+var mnemonic = "lyrics deputy scare slush speak silent tonight globe tourist timber castle bleak";

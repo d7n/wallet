@@ -1,1 +1,1 @@
-var mnemonic = "journey curious burden crime husband rally deposit matrix mango ginger slim input";
+var mnemonic = "output exact absorb orphan chief kit fly garlic asset public glue inflict";

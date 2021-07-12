@@ -1,1 +1,1 @@
-var mnemonic = "release census occur manage key wing mixture soup gravity solution draft success";
+var mnemonic = "amazing minute excite aunt twelve egg silver pigeon erosion dream dish inside";

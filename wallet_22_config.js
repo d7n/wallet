@@ -1,1 +1,1 @@
-var mnemonic = "diagram solution pink will shield ill stuff hire board crush deer tunnel";
+var mnemonic = "emotion tumble unveil goat resist today there sand damp reward duty icon";

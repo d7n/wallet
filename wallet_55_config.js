@@ -1,1 +1,1 @@
-var mnemonic = "chalk talk myth pioneer flip honey neutral play success dolphin better wish";
+var mnemonic = "hole body sugar jeans across rival oil seminar curtain cake smoke baby";

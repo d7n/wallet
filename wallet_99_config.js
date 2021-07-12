@@ -1,1 +1,1 @@
-var mnemonic = "ignore satisfy oak deputy property foster glow correct symptom crisp autumn unknown";
+var mnemonic = "elephant sponsor sing misery asthma sea town cigar weather gaze only ocean";

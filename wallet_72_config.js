@@ -1,1 +1,1 @@
-var mnemonic = "video surprise forum jaguar oil journey select flash fan crop grain erode";
+var mnemonic = "awake napkin item primary all trouble ticket limb destroy move medal cook";

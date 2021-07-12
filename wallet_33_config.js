@@ -1,1 +1,1 @@
-var mnemonic = "resemble indicate begin choice stone prefer negative pledge sugar dynamic sleep keep";
+var mnemonic = "black tone inherit awesome true medal else truly small feed state say";

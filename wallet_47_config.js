@@ -1,1 +1,1 @@
-var mnemonic = "pigeon purity public opinion capital style ripple also accident able bottom urge";
+var mnemonic = "either say chef skate tomato auction quantum state gesture powder spirit layer";

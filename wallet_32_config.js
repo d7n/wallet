@@ -1,1 +1,1 @@
-var mnemonic = "stadium degree rapid neutral cross toddler someone remove despair harsh ready logic";
+var mnemonic = "keep arctic domain permit bird nuclear jump power joke donate riot grace";

@@ -1,1 +1,1 @@
-var mnemonic = "census aisle fan belt critic skin viable tail dial sugar blur trophy";
+var mnemonic = "message rate tree top insane truly kitchen keep ancient fork stone kitchen";

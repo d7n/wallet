@@ -1,1 +1,1 @@
-var mnemonic = "curtain spot pond avoid hold symbol jazz travel pond husband ten trigger";
+var mnemonic = "neutral cluster pistol never example tenant furnace piano pig mansion farm wheat";

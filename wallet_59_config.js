@@ -1,1 +1,1 @@
-var mnemonic = "space sad analyst report coin bubble garden solution husband grow latin embody";
+var mnemonic = "bone answer rough throw wine number glide tomorrow curve couple regular forward";

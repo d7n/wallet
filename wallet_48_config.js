@@ -1,1 +1,1 @@
-var mnemonic = "capable armed crew current lady cycle naive rigid pyramid venture oblige matrix";
+var mnemonic = "enrich yellow team process oyster promote seat diamond loyal lunar bamboo kidney";

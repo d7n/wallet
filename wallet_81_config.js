@@ -1,1 +1,1 @@
-var mnemonic = "orchard gorilla bullet fashion cute thumb demand good topic rib island sign";
+var mnemonic = "express huge property surround buzz bomb charge test game oak gaze syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "globe cloth remain retire web undo rib tiger supreme public frost vessel";
+var mnemonic = "blanket hurdle mouse orphan eight name glance debate common anchor absent hidden";

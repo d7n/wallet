@@ -1,1 +1,1 @@
-var mnemonic = "tomato floor vehicle trophy purchase child world bullet river lizard captain patrol";
+var mnemonic = "wheat dust orient cattle bunker usual soccer high wire flight harbor jeans";

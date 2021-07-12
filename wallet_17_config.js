@@ -1,1 +1,1 @@
-var mnemonic = "round aware traffic leopard lens abandon staff artist burden foam title between";
+var mnemonic = "sheriff stomach foil bullet float girl melt more zebra latin auction walk";

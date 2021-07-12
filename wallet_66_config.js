@@ -1,1 +1,1 @@
-var mnemonic = "blanket twin medal evil slush crime master mutual more lock mention monitor";
+var mnemonic = "only stumble flower eternal husband dust supply unhappy render spell sense marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "pig final manage margin draw brave culture inquiry rate response supply know";
+var mnemonic = "ethics balcony leave future one weekend adult identify rabbit method brave crystal";

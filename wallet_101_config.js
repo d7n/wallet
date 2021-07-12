@@ -1,1 +1,1 @@
-var mnemonic = "fashion trial between talent hero axis thank defense book fruit evidence arena";
+var mnemonic = "team rate salon buyer guard news tomato mention resource device hamster gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor range wolf arm rely glove need fox ready praise salt plunge";
+var mnemonic = "exchange source alcohol inside salon cable belt leopard gloom express solid brand";

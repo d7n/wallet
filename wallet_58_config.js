@@ -1,1 +1,1 @@
-var mnemonic = "perfect typical brick culture wheat purchase wheat dignity flag bracket viable glance";
+var mnemonic = "pass repair coil quick rotate tuna disease original congress motion joke fatal";

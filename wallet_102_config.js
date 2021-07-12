@@ -1,1 +1,1 @@
-var mnemonic = "scorpion umbrella fossil end modify thunder knee shuffle west nasty behind also";
+var mnemonic = "pumpkin situate unfair device blame grocery silent key robust become army media";

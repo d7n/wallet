@@ -1,1 +1,1 @@
-var mnemonic = "budget route search rubber chuckle loyal feed viable camera exhaust tired blossom";
+var mnemonic = "father hawk language tuna mosquito glimpse poet divide bar okay work cement";

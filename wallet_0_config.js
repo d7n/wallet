@@ -1,1 +1,1 @@
-var mnemonic = "critic meat kitten final pill cloud hidden ozone virtual pause almost later";
+var mnemonic = "raccoon open oblige now scatter rude legend stadium choose impose heavy together";

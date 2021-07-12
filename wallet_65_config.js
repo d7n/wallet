@@ -1,1 +1,1 @@
-var mnemonic = "gasp diamond mercy jacket avoid blossom enable silk trade urge walk engage";
+var mnemonic = "typical input elbow swim evoke return pass humble limit sword cart bike";

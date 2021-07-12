@@ -1,1 +1,1 @@
-var mnemonic = "travel huge chapter crazy skin result chicken bounce maximum worry core food";
+var mnemonic = "drop base great blind key planet imitate pear ethics buyer brick accident";

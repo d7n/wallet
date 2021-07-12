@@ -1,1 +1,1 @@
-var mnemonic = "hand cram throw sting army exhibit coyote account tag history usage carbon";
+var mnemonic = "kite special sketch couch verify test game security valid alone increase napkin";

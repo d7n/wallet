@@ -1,1 +1,1 @@
-var mnemonic = "uncover record tip inmate stereo coach reopen pumpkin lonely hen canyon please";
+var mnemonic = "pluck two carbon tell demise fury autumn peanut grass useless brother reveal";

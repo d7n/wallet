@@ -1,1 +1,1 @@
-var mnemonic = "south topic garden settle monitor upset trap receive any execute perfect artwork";
+var mnemonic = "empower minimum jar bleak limb excite banana various utility jazz furnace audit";

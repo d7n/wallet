@@ -1,1 +1,1 @@
-var mnemonic = "burger angle grab welcome rare accident chase throw potato feature attend sudden";
+var mnemonic = "plug fence plug october online master juice mistake clog observe stereo decorate";

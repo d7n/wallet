@@ -1,1 +1,1 @@
-var mnemonic = "addict choice toilet window cram glue seat myth option leave man hollow";
+var mnemonic = "cattle connect blame decide scheme void cattle series magic tribe version people";

@@ -1,1 +1,1 @@
-var mnemonic = "stage vacuum pizza object exchange orchard brass initial genre unknown essay tissue";
+var mnemonic = "pond among fiscal seminar idea gather web goat become snack repair awful";

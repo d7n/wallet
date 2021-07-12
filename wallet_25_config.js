@@ -1,1 +1,1 @@
-var mnemonic = "response again humble pumpkin bamboo differ heavy entry bundle desk salon kidney";
+var mnemonic = "mechanic struggle inmate tray cook involve organ scissors reward eager oxygen display";

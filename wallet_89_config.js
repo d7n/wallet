@@ -1,1 +1,1 @@
-var mnemonic = "smile idea hamster dragon trophy trip venture penalty private chair dove vault";
+var mnemonic = "soft sister enroll chronic elder wear repeat nerve faith diet ancient wolf";

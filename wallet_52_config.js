@@ -1,1 +1,1 @@
-var mnemonic = "nest language fiscal prevent slim draw echo copy teach obey phone depart";
+var mnemonic = "cement seminar dice soup cereal check company merry nice enforce once bind";

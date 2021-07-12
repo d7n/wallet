@@ -1,1 +1,1 @@
-var mnemonic = "pistol salad system festival casino master weekend unveil olive hint shoulder fiber";
+var mnemonic = "sort female lecture special version type target drill board engage bronze spider";

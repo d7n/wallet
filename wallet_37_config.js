@@ -1,1 +1,1 @@
-var mnemonic = "panic knock net remain supreme giraffe scheme check tornado believe boat gym";
+var mnemonic = "anger forum title remove world amazing excess moon door replace way shove";

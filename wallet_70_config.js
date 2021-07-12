@@ -1,1 +1,1 @@
-var mnemonic = "cliff choose slow borrow useful tonight giraffe waste dash fuel fire day";
+var mnemonic = "pilot ice vital news throw animal mobile drama nose sunny squirrel deputy";

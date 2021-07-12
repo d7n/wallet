@@ -1,1 +1,1 @@
-var mnemonic = "achieve stairs raise remain humble frequent tip quantum daring shock emerge verify";
+var mnemonic = "load soup glare moral toilet doctor tree biology modify grab gather saddle";

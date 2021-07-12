@@ -1,1 +1,1 @@
-var mnemonic = "hurt expect child rate rabbit toy chase laugh program uniform style include";
+var mnemonic = "inside error guess soft clown immense heavy valve between stable price sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "slab blossom meat rule frame lion whale parade mail twist fringe slim";
+var mnemonic = "pony clarify weird impulse review depth answer shallow derive crouch festival away";

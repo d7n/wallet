@@ -1,1 +1,1 @@
-var mnemonic = "extend mixed vague peasant lunar bronze asthma above pole critic ready drive";
+var mnemonic = "diesel unit begin lift damage ability coast burst exile suggest speak chase";

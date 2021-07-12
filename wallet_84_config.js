@@ -1,1 +1,1 @@
-var mnemonic = "rate lucky ugly dune sphere urge nose truly inside whip goose enhance";
+var mnemonic = "cliff oil hair erase punch exercise scout van bracket legend pass alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "assume creek because duty right unveil record powder room actor process language";
+var mnemonic = "nuclear flash snack hybrid palace warfare room sauce high cool mail pigeon";

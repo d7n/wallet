@@ -1,1 +1,1 @@
-var mnemonic = "tired tent tip garlic dice unlock hockey hip menu cruel stamp round";
+var mnemonic = "pottery connect prefer define good protect climb horse turkey pudding rent fame";

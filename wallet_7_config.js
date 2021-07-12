@@ -1,1 +1,1 @@
-var mnemonic = "uncover nephew victory isolate avoid differ plate habit bubble inspire drastic flag";
+var mnemonic = "royal artist drill scene loud outer buddy shy deal great brave mobile";

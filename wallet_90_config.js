@@ -1,1 +1,1 @@
-var mnemonic = "squirrel you adapt couple liberty voyage swap toddler twenty planet amazing choice";
+var mnemonic = "leader style inflict check demand ribbon disorder chalk link woman surface heart";

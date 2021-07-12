@@ -1,1 +1,1 @@
-var mnemonic = "act home wave legal advance physical diagram false easily feature rebuild mango";
+var mnemonic = "glare seminar dinner cruise client hundred mind fit satisfy dune eight minor";

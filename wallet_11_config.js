@@ -1,1 +1,1 @@
-var mnemonic = "harsh night there depend puzzle exercise one brief rhythm review comic right";
+var mnemonic = "display kiss welcome poet prison champion oil bench dream track cave shiver";

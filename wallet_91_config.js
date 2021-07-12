@@ -1,1 +1,1 @@
-var mnemonic = "brown next celery aisle kidney hundred truly robot soda fantasy wait donor";
+var mnemonic = "man artist unaware eyebrow ride this twin flat universe chef rain reject";

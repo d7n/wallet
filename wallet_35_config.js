@@ -1,1 +1,1 @@
-var mnemonic = "talk target fossil smile torch choice forest skill address punch confirm olive";
+var mnemonic = "rose hotel estate smart empower parent lava ghost lawn true exile nothing";

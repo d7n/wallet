@@ -1,1 +1,1 @@
-var mnemonic = "length jazz silver warrior dice flock face avoid refuse method crouch trend";
+var mnemonic = "naive nothing fly sea note ostrich witness exclude brief genre police rare";

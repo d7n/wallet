@@ -1,1 +1,1 @@
-var mnemonic = "silly escape crew quick below husband point one gorilla keep level glory";
+var mnemonic = "elegant cup cream doctor chalk kitten shine color stone infant oxygen quality";

@@ -1,1 +1,1 @@
-var mnemonic = "large obvious unlock vapor pumpkin asset vague dinosaur donor cost drastic music";
+var mnemonic = "marble hold there riot link pole volume emotion endorse electric inner quantum";

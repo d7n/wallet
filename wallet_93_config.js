@@ -1,1 +1,1 @@
-var mnemonic = "buffalo beef skate advance bright bus state reflect cigar dolphin segment country";
+var mnemonic = "few magic shield initial vacuum cash strike layer hamster panel exile lion";

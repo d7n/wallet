@@ -1,1 +1,1 @@
-var mnemonic = "lemon onion will stick impulse tenant venture swing tongue prefer later lawn";
+var mnemonic = "dress charge bird hour mix acid flock alcohol expect dawn file kidney";

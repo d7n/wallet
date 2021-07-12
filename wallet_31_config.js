@@ -1,1 +1,1 @@
-var mnemonic = "knee walnut card wise soccer cupboard silent climb lamp stomach hen prize";
+var mnemonic = "galaxy profit half label echo rug until olive flush alarm cliff used";

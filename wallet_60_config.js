@@ -1,1 +1,1 @@
-var mnemonic = "degree badge child item damp symptom boost moon nephew eyebrow strategy riot";
+var mnemonic = "day help dizzy crumble number detail regular arctic trade peasant snap grape";

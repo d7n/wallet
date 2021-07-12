@@ -1,1 +1,1 @@
-var mnemonic = "same wage veteran upon sight come siren trophy ensure top maximum scene";
+var mnemonic = "height fish door eye foster carbon dolphin lounge wine aspect scatter wild";

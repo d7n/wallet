@@ -1,1 +1,1 @@
-var mnemonic = "million addict pool glimpse tornado paper ridge shiver mom episode reduce winner";
+var mnemonic = "increase various analyst furnace soul thought weekend verb nominee transfer balcony track";

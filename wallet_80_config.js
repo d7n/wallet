@@ -1,1 +1,1 @@
-var mnemonic = "crew damp sea media survey ecology permit review pattern record unusual river";
+var mnemonic = "wear eight lonely whale leg alarm mother maximum ready impose sick almost";

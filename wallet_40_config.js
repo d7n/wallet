@@ -1,1 +1,1 @@
-var mnemonic = "girl ramp unable electric elephant scorpion jar thought what sick taste until";
+var mnemonic = "resource mechanic direct face holiday avocado possible fork payment puppy essay throw";

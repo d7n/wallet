@@ -1,1 +1,1 @@
-var mnemonic = "miss frown resist culture frown game letter leopard permit pelican heavy bullet";
+var mnemonic = "room size network fiction innocent industry crime slice acoustic void clean rent";

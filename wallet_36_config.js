@@ -1,1 +1,1 @@
-var mnemonic = "calm learn grief wait cancel fish sniff pretty river tennis grocery limb";
+var mnemonic = "express biology meat expand mandate expect capital now outside this furnace acoustic";

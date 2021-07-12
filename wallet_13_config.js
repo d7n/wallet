@@ -1,1 +1,1 @@
-var mnemonic = "swamp wrestle purse before glimpse hip input sheriff people peasant curtain this";
+var mnemonic = "winter trade tired sausage fit liberty party near figure agree dawn popular";

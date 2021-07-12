@@ -1,1 +1,1 @@
-var mnemonic = "glory inmate lemon cliff advice tragic seven team follow coffee guide domain";
+var mnemonic = "plastic govern setup busy gaze cross west raccoon emotion come ankle bind";

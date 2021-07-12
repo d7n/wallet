@@ -1,1 +1,1 @@
-var mnemonic = "still economy gate joy tone mix obvious record sorry truck velvet crush";
+var mnemonic = "desk exhaust left valley rubber romance brief umbrella such coyote travel cup";

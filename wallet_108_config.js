@@ -1,1 +1,1 @@
-var mnemonic = "victory defy shy embark such dice upper crater pretty grass lend train";
+var mnemonic = "club legal hope need tray way olive chase crucial true strike guitar";

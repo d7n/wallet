@@ -1,1 +1,1 @@
-var mnemonic = "tenant give nuclear victory tip enough mammal title giraffe casual type opera";
+var mnemonic = "hotel diary chunk arrive only sentence churn cover flip opera walnut glide";

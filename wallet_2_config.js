@@ -1,1 +1,1 @@
-var mnemonic = "base link grief cinnamon tower high hamster police piano heavy try actress";
+var mnemonic = "resist all buffalo acid discover system situate trap supply kitten suspect photo";

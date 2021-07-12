@@ -1,1 +1,1 @@
-var mnemonic = "trash arrive excite fringe dumb pistol chimney rail actual arm caution antique";
+var mnemonic = "wing science soda unfair ketchup dirt all friend brother depend citizen area";

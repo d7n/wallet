@@ -1,1 +1,1 @@
-var mnemonic = "dutch maid method turtle tunnel account spin solid rain absurd snap common";
+var mnemonic = "sphere open sunset phone rapid wild list model theme connect doll sunset";

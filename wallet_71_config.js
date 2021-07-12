@@ -1,1 +1,1 @@
-var mnemonic = "giant swarm load left already cereal aunt baby verb apology when balance";
+var mnemonic = "rich vault north polar slow between place good manual quality spray orbit";

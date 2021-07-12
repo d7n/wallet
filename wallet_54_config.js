@@ -1,1 +1,1 @@
-var mnemonic = "idle cinnamon earn run jeans tip link inside few shaft suspect snack";
+var mnemonic = "raise deputy tragic main neglect parade debate float raccoon have truck provide";

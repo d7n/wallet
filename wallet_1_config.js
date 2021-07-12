@@ -1,1 +1,1 @@
-var mnemonic = "human impulse banner drive april ankle kite merge unknown shield fun expect";
+var mnemonic = "repeat tobacco alarm novel invite keen wait stable number become hat sample";

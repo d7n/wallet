@@ -1,1 +1,1 @@
-var mnemonic = "fork under manage craft palm hour ranch wage trap slam sample build";
+var mnemonic = "scout speed vague effort shadow wave omit brave buffalo enlist awesome couple";

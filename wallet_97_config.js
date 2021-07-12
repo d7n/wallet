@@ -1,1 +1,1 @@
-var mnemonic = "page half rebuild sketch service quit snow bean nurse library december mango";
+var mnemonic = "sport slice pyramid double service decorate broccoli later foam squirrel night cheese";
