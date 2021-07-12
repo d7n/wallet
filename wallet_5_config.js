@@ -1,1 +1,1 @@
-var mnemonic = "echo strong meadow average cloth history artist laundry current alarm enforce width";
+var mnemonic = "salon enroll scare flee case know admit grain wrong inhale evil phone";

@@ -1,1 +1,1 @@
-var mnemonic = "split alley answer library lesson kick share second primary suit column tornado";
+var mnemonic = "reopen kit pyramid cloth panel scout extra cave client giggle brick obscure";

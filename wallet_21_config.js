@@ -1,1 +1,1 @@
-var mnemonic = "earth author jeans oxygen regret tray critic survey proof daring found pause";
+var mnemonic = "ostrich rice donkey steel huge when solid wolf dose assist morning ticket";

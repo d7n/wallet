@@ -1,1 +1,1 @@
-var mnemonic = "behave brave middle spirit winter mansion coffee video tilt connect famous hospital";
+var mnemonic = "run catch trash weapon curious flavor address obvious boss audit ankle street";

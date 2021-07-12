@@ -1,1 +1,1 @@
-var mnemonic = "finger image curtain cluster scout quality aware glue fever bus chef manual";
+var mnemonic = "used mask toy cram tape diet lemon library steel fit boat curtain";

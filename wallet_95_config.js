@@ -1,1 +1,1 @@
-var mnemonic = "rival zebra donkey feed collect enjoy ticket genre frame glance jewel welcome";
+var mnemonic = "segment credit pupil faith raise chalk steel include puppy spring limb empty";

@@ -1,1 +1,1 @@
-var mnemonic = "someone praise team cheese strong brass valve emotion hybrid attitude shadow gun";
+var mnemonic = "loop thank drift click ten quarter explain ethics over memory bag display";

@@ -1,1 +1,1 @@
-var mnemonic = "weather because foil fade spin bridge embrace swap demand royal betray human";
+var mnemonic = "vivid reform embody host ripple flame cart script gown steak true casino";

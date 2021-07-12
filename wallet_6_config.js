@@ -1,1 +1,1 @@
-var mnemonic = "purse need host check dove void shrimp nuclear auto town private mammal";
+var mnemonic = "shiver innocent that oxygen matter energy crouch appear place cry toilet lazy";

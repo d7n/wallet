@@ -1,1 +1,1 @@
-var mnemonic = "ethics drink mean ability minute song speak buddy avocado happy blur primary";
+var mnemonic = "ghost bitter all coral caught swap panel urban mass trap jewel price";

@@ -1,1 +1,1 @@
-var mnemonic = "already metal evil garment occur topic coyote sting boost ripple fox jealous";
+var mnemonic = "canoe mammal modify eager hero collect fault mercy hammer sense prison artefact";

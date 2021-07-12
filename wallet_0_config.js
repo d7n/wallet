@@ -1,1 +1,1 @@
-var mnemonic = "type earth injury cruel panda amateur volume devote target caught time seat";
+var mnemonic = "torch original series doll corn rice into high adult hair snake snap";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly bench slight agree arctic predict ability armed true old custom shove";
+var mnemonic = "fatigue melt funny pave senior tell ankle sudden spin fantasy beef turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter gather oblige knock wing sibling scrub whisper coconut tail addict fade";
+var mnemonic = "village close all merry copper resource lumber then share hundred focus example";

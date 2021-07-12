@@ -1,1 +1,1 @@
-var mnemonic = "increase ethics parrot visit oblige intact help brain divert pause session frog";
+var mnemonic = "movie useful couple program trash chat soap obey busy fame drip floor";

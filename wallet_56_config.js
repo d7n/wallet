@@ -1,1 +1,1 @@
-var mnemonic = "belt start help north burger easy reveal boil message rich bread oyster";
+var mnemonic = "fog below step term aunt grass jungle slogan suspect true wrestle upper";

@@ -1,1 +1,1 @@
-var mnemonic = "step outdoor time nominee faith hire plunge artist bacon slender pulse word";
+var mnemonic = "category express permit small advance bacon coil rate wrap hello story health";

@@ -1,1 +1,1 @@
-var mnemonic = "license replace animal erupt now topple athlete deposit reason history cradle stool";
+var mnemonic = "biology snake release want advance noble spike whale spirit jacket margin tool";

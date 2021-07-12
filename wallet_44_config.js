@@ -1,1 +1,1 @@
-var mnemonic = "search female length coral bullet hat float merit glance limb remain helmet";
+var mnemonic = "portion extra spawn tourist consider art unique figure extra unknown motion also";

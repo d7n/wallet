@@ -1,1 +1,1 @@
-var mnemonic = "expect blood mind nominee rival nature naive cause label ski milk orbit";
+var mnemonic = "any fabric soccer dragon illness cereal silk sight render brick glass mango";

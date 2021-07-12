@@ -1,1 +1,1 @@
-var mnemonic = "modify leg isolate crop fortune dolphin art banner abandon jungle clump plastic";
+var mnemonic = "kidney stove talent festival train maple amount eight brother find heavy shrug";

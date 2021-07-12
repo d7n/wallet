@@ -1,1 +1,1 @@
-var mnemonic = "sugar volcano empower glare shrimp essence mountain canyon room kidney mechanic lesson";
+var mnemonic = "jewel jacket hurry curtain tuition daring crack crater order daring cake feel";

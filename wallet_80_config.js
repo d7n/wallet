@@ -1,1 +1,1 @@
-var mnemonic = "rocket upper record reflect suggest enable unveil actor alone annual fox pen";
+var mnemonic = "jealous thunder engine blame trash eyebrow amused never hole bulb help shock";

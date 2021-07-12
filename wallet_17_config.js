@@ -1,1 +1,1 @@
-var mnemonic = "enough hat possible height aunt maximum luggage avocado wolf jealous ahead lion";
+var mnemonic = "syrup regret company season chimney advice warrior mirror slow library screen size";

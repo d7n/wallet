@@ -1,1 +1,1 @@
-var mnemonic = "tone violin maple lumber man blue onion morning attack walk sell body";
+var mnemonic = "benefit water tiger urge taste immune patrol ocean divorce surge guard observe";

@@ -1,1 +1,1 @@
-var mnemonic = "body slight immune rally fix interest cage peasant spare cash whale virtual";
+var mnemonic = "age pill shift apart pretty hobby spike curtain brave boy famous bulb";

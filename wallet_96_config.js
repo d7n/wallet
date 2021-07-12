@@ -1,1 +1,1 @@
-var mnemonic = "oil stage system issue cluster perfect minute inmate fat service paddle letter";
+var mnemonic = "universe kit zone web equal habit defy fade salute verb silent believe";

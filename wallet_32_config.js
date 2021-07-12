@@ -1,1 +1,1 @@
-var mnemonic = "quantum eyebrow sibling olympic butter steel job various leopard news coconut found";
+var mnemonic = "lumber portion raise gold warrior topple daring taxi poet regular civil way";

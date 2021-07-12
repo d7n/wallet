@@ -1,1 +1,1 @@
-var mnemonic = "toast blast crucial blind cage crime census melt ability emotion catalog narrow";
+var mnemonic = "level chuckle sample embody achieve supply cool visual weapon tide define flush";

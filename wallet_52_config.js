@@ -1,1 +1,1 @@
-var mnemonic = "cute joke dry law you seed insect turn fat denial cricket trip";
+var mnemonic = "enter dice diary planet twin canyon gallery neck doll visit artefact neck";

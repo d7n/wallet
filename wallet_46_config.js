@@ -1,1 +1,1 @@
-var mnemonic = "combine table behind music allow fly finish brother where cement flip soccer";
+var mnemonic = "race entire whip vanish peace banner grit holiday universe often toward virus";

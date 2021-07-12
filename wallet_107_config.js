@@ -1,1 +1,1 @@
-var mnemonic = "rather hill type screen envelope dash zone obscure whip stay club gadget";
+var mnemonic = "appear hold put isolate panel police soccer two inner tooth arrest envelope";

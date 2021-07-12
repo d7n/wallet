@@ -1,1 +1,1 @@
-var mnemonic = "cruel cupboard chalk hole marine track sign erode cable estate lonely shove";
+var mnemonic = "multiply boy flavor cover stay suffer find lucky tag memory torch furnace";

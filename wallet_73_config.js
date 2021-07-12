@@ -1,1 +1,1 @@
-var mnemonic = "harsh blur bird forest action dry advance corn congress also small solve";
+var mnemonic = "share ankle void struggle mix divert mother snap name swallow fashion mask";

@@ -1,1 +1,1 @@
-var mnemonic = "exile post explain address collect market must race now skin rescue deal";
+var mnemonic = "asthma monitor asset rural taste usual prevent sister theme tongue ten leisure";

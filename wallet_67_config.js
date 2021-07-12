@@ -1,1 +1,1 @@
-var mnemonic = "hint guess comic exchange polar runway paddle narrow scare country poverty swallow";
+var mnemonic = "arrest butter culture announce noise fossil tiger glance write kick fiscal save";

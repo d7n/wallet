@@ -1,1 +1,1 @@
-var mnemonic = "modify panther soft gaze vicious start virus demise hen shell evidence tiger";
+var mnemonic = "fatal volcano outdoor rather degree swim depart problem fame oyster similar plunge";

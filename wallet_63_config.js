@@ -1,1 +1,1 @@
-var mnemonic = "lens slam practice elegant promote problem happy phone popular six tail physical";
+var mnemonic = "pink broccoli bring frame divide maple paddle bulb barely spot else auto";

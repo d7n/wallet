@@ -1,1 +1,1 @@
-var mnemonic = "hold jeans rate mother uphold reform box affair general waste coral vacant";
+var mnemonic = "spatial forest crazy miss advance screen provide prepare silver airport culture radar";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado another stadium start spell mystery man refuse video oxygen snack else";
+var mnemonic = "siren place claim shoulder know powder school hobby retreat rally always coil";

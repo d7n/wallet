@@ -1,1 +1,1 @@
-var mnemonic = "focus song permit embrace clever bachelor honey mask chapter own crew cheap";
+var mnemonic = "violin inject cloud portion sample quality celery leisure annual trash frost rescue";

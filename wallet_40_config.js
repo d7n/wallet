@@ -1,1 +1,1 @@
-var mnemonic = "jealous pyramid online movie myth brass simple wild ring fee reward glimpse";
+var mnemonic = "amateur success acquire evolve flight exile such please trend direct eyebrow onion";

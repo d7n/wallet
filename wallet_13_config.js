@@ -1,1 +1,1 @@
-var mnemonic = "only race picnic thunder sample auction genuine mad thank unit interest puzzle";
+var mnemonic = "load dinner provide have muffin novel cat pass fat junior lunar company";

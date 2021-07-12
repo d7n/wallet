@@ -1,1 +1,1 @@
-var mnemonic = "tent conduct jungle screen allow lunch chalk bracket rebel advice diary erode";
+var mnemonic = "nephew nest aerobic device banner river figure awkward grain any bread admit";

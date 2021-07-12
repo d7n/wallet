@@ -1,1 +1,1 @@
-var mnemonic = "message thing mystery west alarm oxygen cousin flip blur spoil artwork hire";
+var mnemonic = "gadget illness nephew burst help goose remove lawn popular gap anger lamp";

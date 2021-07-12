@@ -1,1 +1,1 @@
-var mnemonic = "cycle cruise tumble shallow warrior cliff vessel can know catalog wheel magic";
+var mnemonic = "creek bonus almost silly perfect spread armor grid gym today surprise sport";

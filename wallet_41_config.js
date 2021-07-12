@@ -1,1 +1,1 @@
-var mnemonic = "crew jelly matrix erode firm brisk letter antique trial mention iron clay";
+var mnemonic = "wisdom whisper ahead deer remain video flat invest ketchup switch evidence jungle";

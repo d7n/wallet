@@ -1,1 +1,1 @@
-var mnemonic = "today riot chef make sunset setup column emotion hill wife swallow maid";
+var mnemonic = "letter gain fly chronic face weapon typical refuse board master gate flee";

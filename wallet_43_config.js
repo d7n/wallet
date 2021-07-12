@@ -1,1 +1,1 @@
-var mnemonic = "brand wasp february bike spread general outside lunch light expand edge ill";
+var mnemonic = "reject hub guilt together update weird together attack wait fruit enforce cool";

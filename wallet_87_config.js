@@ -1,1 +1,1 @@
-var mnemonic = "topic exclude often small chapter income rotate script grant sauce speed firm";
+var mnemonic = "urban fame bulb switch abstract insane bulb leg draft doll enjoy slam";

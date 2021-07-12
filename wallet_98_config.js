@@ -1,1 +1,1 @@
-var mnemonic = "wish syrup old absorb neutral cube minor amount regret age wealth toilet";
+var mnemonic = "enough piece omit umbrella attend zero potato soap weapon relief ability slogan";

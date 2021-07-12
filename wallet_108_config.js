@@ -1,1 +1,1 @@
-var mnemonic = "tuna engage walk affair stumble hire office vapor item raise zoo moral";
+var mnemonic = "tower float radio crisp cake estate notice parrot warrior kitchen morning become";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna first soda inhale wealth orchard tunnel shock skate harsh column write";
+var mnemonic = "welcome crew parent travel evolve muffin curve segment wrong call script okay";

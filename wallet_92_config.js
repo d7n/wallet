@@ -1,1 +1,1 @@
-var mnemonic = "lawn raw online hungry vivid city level ready awkward hazard great artwork";
+var mnemonic = "candy pulse recycle truck toy shaft wave mistake version diary only live";

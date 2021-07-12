@@ -1,1 +1,1 @@
-var mnemonic = "damp inhale cause year canoe salon promote major survey predict index tuition";
+var mnemonic = "blue vapor plate fiction change knock step merry group input setup regret";

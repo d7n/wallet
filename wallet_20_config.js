@@ -1,1 +1,1 @@
-var mnemonic = "emotion gravity hello idea agent bamboo bitter enforce drop flock fashion travel";
+var mnemonic = "wear cream mad holiday above there toilet peace citizen circle stumble soon";

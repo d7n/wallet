@@ -1,1 +1,1 @@
-var mnemonic = "arctic anger runway music sing reunion liquid ugly robust quantum prefer bottom";
+var mnemonic = "jump garden better rocket bundle body double either fantasy crater unlock desk";

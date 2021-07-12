@@ -1,1 +1,1 @@
-var mnemonic = "absorb curve start enjoy visual garment circle garden arrive link rather glory";
+var mnemonic = "circle hundred multiply extend cat decline feed lawsuit crane armor try lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh pledge decorate zebra daring ritual hint tray permit price flash age";
+var mnemonic = "world omit fatigue ginger remember critic opera jeans expect impose copy lizard";

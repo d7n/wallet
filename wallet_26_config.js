@@ -1,1 +1,1 @@
-var mnemonic = "impact hope access pretty audit lake rebel inflict barrel elegant worry differ";
+var mnemonic = "maze aunt forget angry assault half upgrade alter tissue manual aerobic erupt";

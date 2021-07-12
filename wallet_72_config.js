@@ -1,1 +1,1 @@
-var mnemonic = "result aspect wrap patrol fiscal chef solve enhance battle loan rebuild maple";
+var mnemonic = "fly whale clarify corn solid catch toward tackle high piano fiscal consider";

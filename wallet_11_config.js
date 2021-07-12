@@ -1,1 +1,1 @@
-var mnemonic = "below arctic setup city ivory east note blind consider decorate element field";
+var mnemonic = "drip mad curious another bounce glue tortoise vote believe hold acid motion";

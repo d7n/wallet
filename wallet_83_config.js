@@ -1,1 +1,1 @@
-var mnemonic = "airport bulk reopen wreck asthma tell image game organ arena toss island";
+var mnemonic = "diagram bachelor adjust believe oblige ugly party velvet bind duty bright giant";

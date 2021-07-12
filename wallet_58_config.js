@@ -1,1 +1,1 @@
-var mnemonic = "gaze horse gravity fossil attitude suggest holiday public asthma exile brand moon";
+var mnemonic = "merge staff glow cradle result desert leader breeze busy monitor remember ostrich";

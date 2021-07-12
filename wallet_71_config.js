@@ -1,1 +1,1 @@
-var mnemonic = "illegal mixed furnace spot rebuild pulse wheat game before fitness race army";
+var mnemonic = "science kick purpose rocket fuel exile tower gate stool ramp dash dish";

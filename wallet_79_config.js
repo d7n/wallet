@@ -1,1 +1,1 @@
-var mnemonic = "electric breeze they heart permit imitate kite mass digital usage sorry pumpkin";
+var mnemonic = "regular group hunt unable install exhaust razor size already pave illegal lamp";

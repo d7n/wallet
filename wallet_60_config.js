@@ -1,1 +1,1 @@
-var mnemonic = "diagram much list viable flower flock split what cement moment potato sun";
+var mnemonic = "belt segment matrix such lounge noodle hurt arm business fault man trick";

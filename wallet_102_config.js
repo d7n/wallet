@@ -1,1 +1,1 @@
-var mnemonic = "cannon unlock once maid life kitten order later sun fit asthma ridge";
+var mnemonic = "cabin flat adult stage casual off cushion turn fluid sand human borrow";

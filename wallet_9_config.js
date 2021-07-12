@@ -1,1 +1,1 @@
-var mnemonic = "admit skill derive morning panel right sight element coconut moment chaos canoe";
+var mnemonic = "foam vibrant retire weekend series nuclear wheel pilot similar soon era predict";

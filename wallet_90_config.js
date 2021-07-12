@@ -1,1 +1,1 @@
-var mnemonic = "skin boat salmon script release depend seek brown height asset giggle march";
+var mnemonic = "disease young return century wall round glow butter soccer crater powder popular";

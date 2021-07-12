@@ -1,1 +1,1 @@
-var mnemonic = "transfer between reduce network bundle sauce rotate violin toss chef ability source";
+var mnemonic = "patient patch machine put play valley history junior green this style among";

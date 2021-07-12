@@ -1,1 +1,1 @@
-var mnemonic = "match general honey grow viable okay plug situate motor message type easily";
+var mnemonic = "rent subject must clarify hover attend mention earth mask resemble moral public";

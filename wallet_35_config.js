@@ -1,1 +1,1 @@
-var mnemonic = "hour island ranch drastic throw season grape february type giant soda angry";
+var mnemonic = "faint truth armed recycle ghost virtual pulp drip puzzle milk nation expect";

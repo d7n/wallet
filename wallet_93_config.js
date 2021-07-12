@@ -1,1 +1,1 @@
-var mnemonic = "carry menu parade rough wife jar journey party thrive output attend autumn";
+var mnemonic = "energy velvet idea income wolf expect seed away pumpkin illegal pitch become";

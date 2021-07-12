@@ -1,1 +1,1 @@
-var mnemonic = "sudden sick thought urge soap network mom exit spread soap opera flip";
+var mnemonic = "once old tissue torch phone crouch brief list abstract page hand modify";

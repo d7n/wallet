@@ -1,1 +1,1 @@
-var mnemonic = "skin pyramid proof jealous unveil brain scan dragon oppose move athlete apology";
+var mnemonic = "chief real mango kick brief debate exhaust woman strike unknown chapter guess";

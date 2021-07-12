@@ -1,1 +1,1 @@
-var mnemonic = "iron horror shed purchase nature boss tip lounge also sun reduce smoke";
+var mnemonic = "float truth flash figure outer armed alpha census fossil dice phrase route";

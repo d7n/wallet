@@ -1,1 +1,1 @@
-var mnemonic = "snow will million share glance winter lawn math solid project heavy sign";
+var mnemonic = "virus heart sign common year lumber laugh west link stamp soccer wine";

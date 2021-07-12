@@ -1,1 +1,1 @@
-var mnemonic = "water mercy remain announce across cabin avocado erode sustain sea country oval";
+var mnemonic = "task shadow try roof nasty general select surround rug medal claw party";

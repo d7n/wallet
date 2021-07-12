@@ -1,1 +1,1 @@
-var mnemonic = "enable degree expect blur admit dice hedgehog dizzy giant agent fringe tumble";
+var mnemonic = "ridge token lyrics scorpion actual feed eyebrow verify dismiss stamp veteran virus";

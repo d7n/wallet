@@ -1,1 +1,1 @@
-var mnemonic = "mechanic endless reject neither iron milk pig matter alien exit buyer bulk";
+var mnemonic = "innocent inherit escape mammal genre quiz answer width announce memory bird useful";
