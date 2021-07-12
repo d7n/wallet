@@ -1,1 +1,1 @@
-var mnemonic = "use slim black good practice dawn attend spike glare cable adjust peasant";
+var mnemonic = "chalk antenna diesel dumb nasty source captain neglect situate wrap truly obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "observe ski decorate key magnet luxury tunnel main company inquiry glove biology";
+var mnemonic = "tornado husband remind used pony virtual undo kiwi aerobic range nut truly";

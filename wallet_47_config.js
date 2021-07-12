@@ -1,1 +1,1 @@
-var mnemonic = "nice cat advance lazy model fresh bomb nephew myth shaft coach rack";
+var mnemonic = "normal degree solve remind dignity wild point select among fresh mouse rice";

@@ -1,1 +1,1 @@
-var mnemonic = "occur concert fancy such paper minor cart tourist state wave hill cactus";
+var mnemonic = "potato bag judge illegal rescue swear mimic advice wait final winter travel";

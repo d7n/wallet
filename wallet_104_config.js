@@ -1,1 +1,1 @@
-var mnemonic = "umbrella fatigue expand drip rocket chunk enroll arena recall news cool adapt";
+var mnemonic = "wink kid shy web blanket try supreme shrimp rule situate boat champion";

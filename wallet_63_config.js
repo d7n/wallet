@@ -1,1 +1,1 @@
-var mnemonic = "furnace million pudding family focus police barely ball offer core believe acoustic";
+var mnemonic = "repair inherit sniff method aisle guess frequent gospel weasel quality behave brush";

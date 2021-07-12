@@ -1,1 +1,1 @@
-var mnemonic = "country renew garden brush connect place figure ice dinner below again legend";
+var mnemonic = "lounge labor nest puzzle devote loop grocery soda swear pact clerk trial";

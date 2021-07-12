@@ -1,1 +1,1 @@
-var mnemonic = "roast situate hospital ill section service skull knock token tomorrow three goat";
+var mnemonic = "uncover like entire trend segment develop into disease casual gorilla anger exact";

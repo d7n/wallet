@@ -1,1 +1,1 @@
-var mnemonic = "page morning pig time key lizard worth fragile between clog hair illegal";
+var mnemonic = "hurdle omit staff blush smooth snap over awkward bird impact famous evil";

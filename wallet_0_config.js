@@ -1,1 +1,1 @@
-var mnemonic = "weapon eight food rare brick exact surround carbon saddle thank ugly idle";
+var mnemonic = "culture length cactus convince song oil elevator inflict excess once explain glue";

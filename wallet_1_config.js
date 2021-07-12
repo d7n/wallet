@@ -1,1 +1,1 @@
-var mnemonic = "ginger skate video drama sense leave stairs tape summer title clump green";
+var mnemonic = "famous popular exit bitter item near envelope heavy describe conduct fury eager";

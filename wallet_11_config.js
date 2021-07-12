@@ -1,1 +1,1 @@
-var mnemonic = "upset enact old trip common illness cart stamp nephew buffalo illegal ask";
+var mnemonic = "sausage depart beef witness base uniform vast mansion city machine brief offer";

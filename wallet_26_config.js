@@ -1,1 +1,1 @@
-var mnemonic = "field drink kingdom caution make wise prepare double robust rent ticket funny";
+var mnemonic = "cause unveil dream oval embody rotate claw only moral cushion often supply";

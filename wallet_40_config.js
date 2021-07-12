@@ -1,1 +1,1 @@
-var mnemonic = "asthma tent venture submit crisp chair canoe bulb hedgehog decorate pepper damage";
+var mnemonic = "pledge dash under tenant toward fly enhance alley envelope surprise hip trial";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble fluid drink never sunset width flat cushion winter orchard drink cat";
+var mnemonic = "desk build civil gospel credit empty repair train panel talk repeat chair";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck nephew artefact nominee more slender shove right giraffe usage supreme shuffle";
+var mnemonic = "lesson side juice shadow load term oppose merry make depth clump awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty rigid cycle wall comic allow cabin cupboard judge regular radio clump";
+var mnemonic = "retire mention asthma weapon energy moral lens sauce bus another library acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor patch print armor unable naive leave flip proud edit soft solution";
+var mnemonic = "rib sentence cloud prevent sunset flame save apart again notice brave select";

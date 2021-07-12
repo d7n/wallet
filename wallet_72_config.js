@@ -1,1 +1,1 @@
-var mnemonic = "recycle scorpion bronze dust demand champion chase exercise wave gold turn horse";
+var mnemonic = "trophy eye diamond earn wave earn flip mango notice gate pupil average";

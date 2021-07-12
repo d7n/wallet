@@ -1,1 +1,1 @@
-var mnemonic = "chicken humor forward scheme clump hotel hotel shove slot absurd spare field";
+var mnemonic = "alter napkin ramp photo front tuition fault scissors mistake warfare jewel search";

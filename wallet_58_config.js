@@ -1,1 +1,1 @@
-var mnemonic = "buzz soda core december parrot salon sustain awake episode patient veteran also";
+var mnemonic = "manual morning sudden exotic today skin square peanut object volcano glide lamp";

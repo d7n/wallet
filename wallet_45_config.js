@@ -1,1 +1,1 @@
-var mnemonic = "fuel blind salmon siren blossom rally effort addict film labor float spot";
+var mnemonic = "defense between loud poem fortune chronic novel globe maze enact amount scrap";

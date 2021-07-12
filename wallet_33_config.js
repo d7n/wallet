@@ -1,1 +1,1 @@
-var mnemonic = "transfer borrow luggage butter ankle siege hold wine ready churn castle patrol";
+var mnemonic = "safe mosquito obvious exist group jewel craft able salad frown narrow hamster";

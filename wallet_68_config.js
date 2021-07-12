@@ -1,1 +1,1 @@
-var mnemonic = "water shy move title must turtle panda theory border moral globe session";
+var mnemonic = "assault cream debate lucky trumpet drink video budget tribe claim century exit";

@@ -1,1 +1,1 @@
-var mnemonic = "journey exist dignity ensure foot joke admit light exit worry absorb write";
+var mnemonic = "tiger mean market toe degree resemble nuclear battle push bridge puppy regret";

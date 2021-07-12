@@ -1,1 +1,1 @@
-var mnemonic = "industry slush bounce front swift box kangaroo mosquito axis lecture produce canyon";
+var mnemonic = "traffic twist patch over merry ocean soap rather fox fiction employ skate";

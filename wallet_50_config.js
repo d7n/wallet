@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow reject anger mechanic coral pet prosper column calm lend advance arm";
+var mnemonic = "black silly economy confirm differ hair girl arrow market theory weekend silly";

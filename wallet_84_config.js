@@ -1,1 +1,1 @@
-var mnemonic = "friend gentle leave tiger guard state tonight dignity tiny produce cabin quick";
+var mnemonic = "circle once check knife proof chuckle runway piece tornado good junior physical";

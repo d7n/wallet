@@ -1,1 +1,1 @@
-var mnemonic = "evoke require borrow post profit fire flame garden mandate yellow poverty coconut";
+var mnemonic = "stay junk saddle aspect human match apart join gas crouch park mad";

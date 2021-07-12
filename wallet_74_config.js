@@ -1,1 +1,1 @@
-var mnemonic = "hazard dice april derive raccoon marine marriage trend enjoy lizard possible around";
+var mnemonic = "reduce crouch imitate gift cliff mesh royal much else still chaos reason";

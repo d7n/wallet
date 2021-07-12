@@ -1,1 +1,1 @@
-var mnemonic = "expose lawsuit tower furnace snake glue oyster ancient fit laptop useful swim";
+var mnemonic = "copper mouse exhaust initial calm believe ill boat click shield brave void";

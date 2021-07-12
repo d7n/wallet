@@ -1,1 +1,1 @@
-var mnemonic = "dream real spell sight foster before whip brave radio parrot buyer wisdom";
+var mnemonic = "admit cigar lonely wife fog kite arch exclude fun squeeze gadget nephew";

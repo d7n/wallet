@@ -1,1 +1,1 @@
-var mnemonic = "warm fire change number vehicle carbon clog plug once across ugly wine";
+var mnemonic = "grape hour girl more trap nut ring foil long organ noodle key";

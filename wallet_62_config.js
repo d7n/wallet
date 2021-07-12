@@ -1,1 +1,1 @@
-var mnemonic = "chalk height shoe permit much rural fog admit lion improve health parade";
+var mnemonic = "sword replace sun cradle length bleak top rally paper mean quote ecology";

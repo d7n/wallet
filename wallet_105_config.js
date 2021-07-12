@@ -1,1 +1,1 @@
-var mnemonic = "discover gallery place foot tunnel rent never win merry nothing build quote";
+var mnemonic = "weird kangaroo flash text outdoor trigger jar betray churn nurse winter merry";

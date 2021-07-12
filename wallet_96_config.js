@@ -1,1 +1,1 @@
-var mnemonic = "staff popular resist fatigue engage snow above behave wall curve aisle citizen";
+var mnemonic = "impulse flag fee stereo client equip badge success toss expand detect humor";

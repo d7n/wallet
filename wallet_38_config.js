@@ -1,1 +1,1 @@
-var mnemonic = "hospital tissue since common bread horn track palace clock man tube side";
+var mnemonic = "drift crop siege manual possible easily invest blade knee waste box enable";

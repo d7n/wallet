@@ -1,1 +1,1 @@
-var mnemonic = "index miracle invest future firm share skin child odor type identify merry";
+var mnemonic = "ancient river scissors olympic casual little else marriage goddess round estate blossom";

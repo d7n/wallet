@@ -1,1 +1,1 @@
-var mnemonic = "repeat frequent muffin wing artist float insect dance junk rescue update random";
+var mnemonic = "final prize excuse tilt hold odor innocent kiwi mule reduce good room";

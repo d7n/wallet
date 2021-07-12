@@ -1,1 +1,1 @@
-var mnemonic = "panel wage ugly report layer run fork someone stool bitter mask arena";
+var mnemonic = "cigar dirt boil flock raccoon three undo blame cook bleak enact initial";

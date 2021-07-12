@@ -1,1 +1,1 @@
-var mnemonic = "almost vivid leopard flat gain leopard vault coral wage obscure bus inch";
+var mnemonic = "refuse bone hole split stone gadget wrist replace team spike immune egg";

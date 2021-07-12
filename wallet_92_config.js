@@ -1,1 +1,1 @@
-var mnemonic = "wine hungry escape modify sure loyal woman capable kind summer lady dirt";
+var mnemonic = "dolphin merry twelve decorate term course tuna lock music sorry shuffle perfect";

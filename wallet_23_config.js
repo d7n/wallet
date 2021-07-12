@@ -1,1 +1,1 @@
-var mnemonic = "client voyage then jewel shrimp decide chase lift myself sauce aware december";
+var mnemonic = "romance giraffe practice devote jewel moment unaware outer suggest beauty cupboard oyster";

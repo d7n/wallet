@@ -1,1 +1,1 @@
-var mnemonic = "grape diesel leg order hand reduce stand deputy solid online lesson nurse";
+var mnemonic = "chase actress embrace guard ahead type idle grit fix wonder artwork capital";

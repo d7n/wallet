@@ -1,1 +1,1 @@
-var mnemonic = "avoid maple movie coconut nephew pudding creek bone illness book clump grunt";
+var mnemonic = "chair spirit stumble parrot noble clarify add doctor miss coyote flush rule";

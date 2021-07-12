@@ -1,1 +1,1 @@
-var mnemonic = "impose salon silver hold permit confirm trumpet throw mixed soon rice ginger";
+var mnemonic = "motor income upgrade imitate flower gorilla agree front year prevent divide glimpse";

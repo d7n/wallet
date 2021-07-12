@@ -1,1 +1,1 @@
-var mnemonic = "response swallow insect special believe enact bullet fence busy lazy company nothing";
+var mnemonic = "wolf track medal artwork brave consider sister coral razor radio arrive brand";

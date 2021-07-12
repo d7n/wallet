@@ -1,1 +1,1 @@
-var mnemonic = "hint combine odor obvious damage donate when hen angry bid proof arena";
+var mnemonic = "glove way media parrot glad link blanket gain found run space usual";

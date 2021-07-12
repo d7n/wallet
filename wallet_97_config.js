@@ -1,1 +1,1 @@
-var mnemonic = "pilot blast swarm cash leg tortoise vapor wool soul patrol bonus invest";
+var mnemonic = "start supreme base bring hole shell moment skirt camp cycle burden garment";

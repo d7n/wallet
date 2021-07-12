@@ -1,1 +1,1 @@
-var mnemonic = "flush talk large mention since ramp flash truth where fever start where";
+var mnemonic = "word prosper start refuse kick ignore fly uncle salad fault notice impulse";

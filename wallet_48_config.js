@@ -1,1 +1,1 @@
-var mnemonic = "now sauce blind illegal federal like surround derive garlic deny deputy case";
+var mnemonic = "raise onion doctor thrive chef that cool social crime roof normal lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "quote army never impact move stereo fish more fortune rebuild park apology";
+var mnemonic = "guilt catalog master fortune teach apart furnace rail rebel loyal elder seminar";

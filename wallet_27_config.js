@@ -1,1 +1,1 @@
-var mnemonic = "people thank satoshi path spot weapon present sail march bomb solve quit";
+var mnemonic = "license scatter amazing business chef mail monkey leave disorder place lucky benefit";

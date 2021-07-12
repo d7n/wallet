@@ -1,1 +1,1 @@
-var mnemonic = "excite daughter lawn disease matrix eye topic fame insane soft brave grass";
+var mnemonic = "submit gate moon virtual draft volume wash prepare lab street good blanket";

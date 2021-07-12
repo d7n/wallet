@@ -1,1 +1,1 @@
-var mnemonic = "believe velvet scissors fall defy genuine pluck subject slice royal isolate gap";
+var mnemonic = "purpose foam cousin auto bind custom spare execute blood anxiety blast fringe";

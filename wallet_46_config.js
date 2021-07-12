@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin bacon cabbage urge degree jar water differ beach primary above wing";
+var mnemonic = "glue fine device tree group purpose shallow float diary intact exchange tag";

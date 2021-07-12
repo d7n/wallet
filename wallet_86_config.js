@@ -1,1 +1,1 @@
-var mnemonic = "brush security business uniform burden extra oyster heavy cricket latin join talent";
+var mnemonic = "have mind quality cream slim deliver faith snap hidden cliff harsh either";

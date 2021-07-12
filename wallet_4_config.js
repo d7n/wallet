@@ -1,1 +1,1 @@
-var mnemonic = "famous priority blast clean treat beauty science slight exhaust level famous embark";
+var mnemonic = "soup sheriff chuckle shed photo machine element copy travel fog estate sound";

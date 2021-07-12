@@ -1,1 +1,1 @@
-var mnemonic = "whale purse bonus spatial combine sweet barely viable want prepare churn scale";
+var mnemonic = "dawn false dilemma bonus student sentence sweet frequent exotic disorder glance vessel";

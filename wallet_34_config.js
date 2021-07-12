@@ -1,1 +1,1 @@
-var mnemonic = "keen kangaroo duty alley nasty all actor kit bounce hurdle beyond confirm";
+var mnemonic = "zone elevator skill cargo antique opera analyst jewel deny hand club dinner";

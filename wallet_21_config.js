@@ -1,1 +1,1 @@
-var mnemonic = "arm bacon maximum aspect cash impose empower about pen giraffe walnut ladder";
+var mnemonic = "volume nothing ripple one bamboo shop trouble science impact fish dutch race";

@@ -1,1 +1,1 @@
-var mnemonic = "tank garden autumn kiss where jar behave music umbrella crystal toward thunder";
+var mnemonic = "sponsor math attack critic major cinnamon strong gate fetch side anxiety typical";

@@ -1,1 +1,1 @@
-var mnemonic = "nose kidney image hybrid whale popular candy morning wing setup short mutual";
+var mnemonic = "stage defense demise couple crouch oak under wasp end useful opinion female";

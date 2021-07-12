@@ -1,1 +1,1 @@
-var mnemonic = "submit ripple evoke swarm silk twelve mask era pass margin menu hollow";
+var mnemonic = "bread source boss index stem problem glass real illness smile alcohol garbage";

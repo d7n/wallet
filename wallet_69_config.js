@@ -1,1 +1,1 @@
-var mnemonic = "mule ginger clump hawk vocal minor primary choose flower celery private wedding";
+var mnemonic = "spring dignity switch reopen indicate deputy myth order forward pitch appear pulp";

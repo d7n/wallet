@@ -1,1 +1,1 @@
-var mnemonic = "furnace capital mountain razor olive hair pulp visual garage humble student guard";
+var mnemonic = "ball butter alpha cat canvas gun rocket beach fiscal envelope skirt stock";

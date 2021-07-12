@@ -1,1 +1,1 @@
-var mnemonic = "mushroom giant dad cheese shaft vacant predict step wrist zone mango modify";
+var mnemonic = "artefact trend stick original jewel action tennis divert chaos since clay belt";

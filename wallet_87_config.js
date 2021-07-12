@@ -1,1 +1,1 @@
-var mnemonic = "old manual exact bus august strong roast agent labor across uphold bulb";
+var mnemonic = "key price stage giant wine chief ancient priority raise fix ticket peasant";

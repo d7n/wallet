@@ -1,1 +1,1 @@
-var mnemonic = "verb window pill sense edge seven almost crazy soda sweet indoor deputy";
+var mnemonic = "phone there worth tragic cheap patrol smooth twin basket system share steak";

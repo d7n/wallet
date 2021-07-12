@@ -1,1 +1,1 @@
-var mnemonic = "magic blame loan top renew sudden they wealth emerge amazing mistake cross";
+var mnemonic = "soft pause battle brick body mule wagon put heavy reduce apart little";

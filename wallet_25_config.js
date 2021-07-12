@@ -1,1 +1,1 @@
-var mnemonic = "second elegant embody raise split discover hidden sock morning ridge bacon menu";
+var mnemonic = "vault visit mixture bleak grain fury skirt grunt rain blossom fever flame";

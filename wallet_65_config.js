@@ -1,1 +1,1 @@
-var mnemonic = "capital unique token zone tray path argue sausage isolate wealth lottery kitchen";
+var mnemonic = "radio flock provide menu skin catch artwork defy gun omit bless plastic";

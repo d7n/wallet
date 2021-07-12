@@ -1,1 +1,1 @@
-var mnemonic = "trial borrow rack strong install hospital lumber decade oxygen gown clinic crumble";
+var mnemonic = "note mandate express egg glue swear final lab ill conduct crunch siren";

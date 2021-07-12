@@ -1,1 +1,1 @@
-var mnemonic = "text pitch control quality stairs cabin zoo usual spoil punch rural help";
+var mnemonic = "already hollow hint entire twin catch loud canal palm october post kangaroo";

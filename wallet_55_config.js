@@ -1,1 +1,1 @@
-var mnemonic = "drift merry rude case provide tag where embrace exact spare excuse talent";
+var mnemonic = "come erode tired sister angry journey choice retreat moral only gather vendor";

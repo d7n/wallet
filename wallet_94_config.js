@@ -1,1 +1,1 @@
-var mnemonic = "public peanut social mouse wheel rich return radar walnut scene solution matrix";
+var mnemonic = "slogan small act keep noodle biology access tail minimum frog decide parrot";

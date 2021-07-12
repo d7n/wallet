@@ -1,1 +1,1 @@
-var mnemonic = "eye matter sick first grass cricket rich attract apple omit siren desert";
+var mnemonic = "elegant identify enter actor whip kidney mushroom faint blossom swift market oven";

@@ -1,1 +1,1 @@
-var mnemonic = "knee silver evolve since top report network aunt open measure expand weasel";
+var mnemonic = "bag sort throw busy echo promote true south crunch sport nephew wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "maid decline acquire crowd walnut lobster devote remember rule narrow protect offer";
+var mnemonic = "nominee place luggage device speak age candy glue online narrow piano connect";

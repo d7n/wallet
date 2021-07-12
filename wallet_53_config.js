@@ -1,1 +1,1 @@
-var mnemonic = "plunge spoon approve remain better alter quit tail clean ivory wear zone";
+var mnemonic = "worry bunker large suffer soft forum caution poverty awkward churn try proof";

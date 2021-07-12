@@ -1,1 +1,1 @@
-var mnemonic = "relief just process general axis arm tank sort culture faith afraid inject";
+var mnemonic = "device leopard viable diagram gun stick vintage ridge frog ethics want join";

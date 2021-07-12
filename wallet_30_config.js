@@ -1,1 +1,1 @@
-var mnemonic = "agree region twelve cheap remove dwarf away ring way civil object lava";
+var mnemonic = "audit surprise atom afford fork again swift trophy parade stool just reform";

@@ -1,1 +1,1 @@
-var mnemonic = "glove distance horror pelican shift ten man girl group hood sketch dream";
+var mnemonic = "devote ignore artefact drama fence project famous fancy image orient captain result";

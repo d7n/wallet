@@ -1,1 +1,1 @@
-var mnemonic = "sausage absurd canoe erode canvas dove pact filter cargo inch sword engage";
+var mnemonic = "require welcome indicate amazing orphan boy gesture tilt right evoke flock exercise";
