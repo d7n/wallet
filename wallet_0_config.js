@@ -1,1 +1,1 @@
-var mnemonic = "slender you opinion grape artwork novel blouse escape trust flag today raise";
+var mnemonic = "region appear bulk erupt cannon vital social delay manage sentence zebra summer";

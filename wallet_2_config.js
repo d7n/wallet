@@ -1,1 +1,1 @@
-var mnemonic = "sort tool armor rib limb prevent energy act erase age pull depart";
+var mnemonic = "visual trap strong cry owner table ritual glue tail salad element jump";

@@ -1,1 +1,1 @@
-var mnemonic = "electric clip reunion powder expect still weekend wisdom predict direct impact safe";
+var mnemonic = "load cruise keep become seat cactus embody valve common mother secret fee";

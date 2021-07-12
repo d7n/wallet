@@ -1,1 +1,1 @@
-var mnemonic = "december diesel pole crazy also virtual casino roof square state defense cruise";
+var mnemonic = "invest among abstract space erosion wagon select cinnamon egg toward sweet assist";

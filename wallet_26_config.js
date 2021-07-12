@@ -1,1 +1,1 @@
-var mnemonic = "borrow hard elephant shed install guide empower secret hobby crouch tiger level";
+var mnemonic = "always jar conduct net wall athlete proud slot allow alley short clap";

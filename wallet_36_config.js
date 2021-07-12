@@ -1,1 +1,1 @@
-var mnemonic = "opinion base oblige cycle wave celery wave orchard clinic lens lion venue";
+var mnemonic = "barely seek nominee nest yard level clap produce nasty margin behind drastic";

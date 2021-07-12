@@ -1,1 +1,1 @@
-var mnemonic = "pulp tongue aspect decide obvious wedding detail wet sister item wage kingdom";
+var mnemonic = "slush lazy setup grape print cactus find hundred prison buffalo insect knock";

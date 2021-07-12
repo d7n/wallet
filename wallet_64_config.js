@@ -1,1 +1,1 @@
-var mnemonic = "ability edge infant burger mutual weekend palm joke rapid ketchup odor loud";
+var mnemonic = "silver page fantasy genuine goose best crisp letter virtual warrior improve hat";

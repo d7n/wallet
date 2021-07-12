@@ -1,1 +1,1 @@
-var mnemonic = "left lamp detect chuckle inspire word between sound member coral dumb aware";
+var mnemonic = "another habit future beef nest move wonder crime code plug royal entire";

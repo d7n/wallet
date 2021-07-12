@@ -1,1 +1,1 @@
-var mnemonic = "velvet huge frown neutral victory say rookie solid cabin infant vault bicycle";
+var mnemonic = "sugar prison charge need burger amateur illegal nothing cram limb frog meadow";

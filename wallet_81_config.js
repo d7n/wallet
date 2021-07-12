@@ -1,1 +1,1 @@
-var mnemonic = "over crash kidney episode embody level flower diesel tobacco journey oxygen grief";
+var mnemonic = "avoid raccoon define inside usage use develop evil impact undo input humor";

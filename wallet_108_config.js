@@ -1,1 +1,1 @@
-var mnemonic = "field gossip umbrella siege bright expect explain exercise keep raw regular make";
+var mnemonic = "clinic demand add notice sight manage dignity pill fuel orient paddle manual";

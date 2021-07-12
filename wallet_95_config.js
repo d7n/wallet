@@ -1,1 +1,1 @@
-var mnemonic = "laugh blade destroy rent opinion salute draw zone obscure void zoo awake";
+var mnemonic = "element cat flee snow same clip mad exist puzzle across behave spoon";

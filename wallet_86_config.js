@@ -1,1 +1,1 @@
-var mnemonic = "valve rack truth fan link infant roast movie kitchen cup damage fat";
+var mnemonic = "poverty slogan stone brisk stairs fantasy hedgehog control dice nasty puppy possible";

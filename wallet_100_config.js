@@ -1,1 +1,1 @@
-var mnemonic = "call bar exhaust harvest priority attitude kiss crucial same spell dog acid";
+var mnemonic = "mother glad false immune slim become old lake analyst goose inch east";

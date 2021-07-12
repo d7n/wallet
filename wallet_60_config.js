@@ -1,1 +1,1 @@
-var mnemonic = "matter praise evoke garbage valve liar awful march discover empty rather code";
+var mnemonic = "update pulp arch rain tourist final thank tip section absurd spy polar";

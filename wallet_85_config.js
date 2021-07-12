@@ -1,1 +1,1 @@
-var mnemonic = "cool stable calm bright chest solid crush dragon employ royal display ten";
+var mnemonic = "text tunnel index property outside faculty enforce ship damp absent adjust vacant";

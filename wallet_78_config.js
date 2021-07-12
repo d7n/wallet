@@ -1,1 +1,1 @@
-var mnemonic = "embody age pumpkin minor soup cube bullet kangaroo broccoli punch amount club";
+var mnemonic = "secret hand shoe excuse fun tongue cargo beyond twenty transfer sand fringe";

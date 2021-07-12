@@ -1,1 +1,1 @@
-var mnemonic = "vanish position gallery extend wine drink grunt nothing differ candy sting jaguar";
+var mnemonic = "heart aware next unfair defy judge neutral scrub they ozone box unaware";

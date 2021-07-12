@@ -1,1 +1,1 @@
-var mnemonic = "faint actor deliver valid acid follow arena amount margin sniff illegal exact";
+var mnemonic = "basic tortoise grid erupt hurdle purity measure lend obvious planet decade desert";

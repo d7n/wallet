@@ -1,1 +1,1 @@
-var mnemonic = "oil eyebrow cinnamon demand perfect mansion consider medal soon churn spoil rare";
+var mnemonic = "photo bring athlete toe erase flock dumb coach eternal involve engage tent";

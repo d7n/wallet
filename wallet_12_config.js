@@ -1,1 +1,1 @@
-var mnemonic = "barrel subway wire noble awkward enjoy ski believe giggle village fluid trip";
+var mnemonic = "trade trigger flash dune poet jungle solar quick receive allow where shallow";

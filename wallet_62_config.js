@@ -1,1 +1,1 @@
-var mnemonic = "echo cattle device start pill fee maze dad maximum donkey direct search";
+var mnemonic = "hospital venture exhibit vital inch lottery syrup addict lock shuffle bicycle bullet";

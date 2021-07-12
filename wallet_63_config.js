@@ -1,1 +1,1 @@
-var mnemonic = "when poverty twelve thought favorite dice social upper unable idea envelope pill";
+var mnemonic = "sadness desert ritual auto quantum make black young own plastic filter slice";

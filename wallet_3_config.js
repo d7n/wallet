@@ -1,1 +1,1 @@
-var mnemonic = "coyote real hidden chief hello bonus frozen issue tragic cement reveal orange";
+var mnemonic = "polar cancel reward rotate medal next village snow sadness special media stage";

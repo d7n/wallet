@@ -1,1 +1,1 @@
-var mnemonic = "embark hedgehog test daughter penalty afraid radio keen note december remember face";
+var mnemonic = "easily roast mad life trip bicycle visa traffic sure other unique major";

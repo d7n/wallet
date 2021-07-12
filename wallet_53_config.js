@@ -1,1 +1,1 @@
-var mnemonic = "craft work over since victory resemble error blouse country already service fitness";
+var mnemonic = "can six inside tooth comic symptom sunny address together syrup ice shrimp";

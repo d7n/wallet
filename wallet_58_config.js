@@ -1,1 +1,1 @@
-var mnemonic = "expand pill flavor expose stereo change gorilla zoo embrace unveil moral effort";
+var mnemonic = "pause moral melt claw all morning sudden slender mobile matrix few delay";

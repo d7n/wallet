@@ -1,1 +1,1 @@
-var mnemonic = "destroy home wall suffer select mix blade rocket prosper just security student";
+var mnemonic = "acquire noble warrior hire series frame length fall kitchen treat leader step";

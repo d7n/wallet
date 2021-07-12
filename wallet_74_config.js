@@ -1,1 +1,1 @@
-var mnemonic = "cruise stable turn neglect genius one say hold mirror height taxi exotic";
+var mnemonic = "hurry gadget mother whale transfer mother cat require radar rural pepper bright";

@@ -1,1 +1,1 @@
-var mnemonic = "major float tide twist vintage image portion guide insane host crumble exhibit";
+var mnemonic = "legend tool basket absorb advice coral endorse arrest october hunt artefact hello";

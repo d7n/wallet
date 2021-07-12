@@ -1,1 +1,1 @@
-var mnemonic = "tumble lift robust record nation frost screen whip dawn guard list cousin";
+var mnemonic = "army trial ordinary work fabric minute mule wash doctor cat aware issue";

@@ -1,1 +1,1 @@
-var mnemonic = "poet frost tenant quarter avoid wife inquiry crack split upgrade noise hard";
+var mnemonic = "kite income slim advance jump siege update goddess license worry consider half";

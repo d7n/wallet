@@ -1,1 +1,1 @@
-var mnemonic = "riot rent outdoor gift tiger zebra clerk endless job hood calm nest";
+var mnemonic = "cluster access use client trap build witness trick mom radar episode provide";

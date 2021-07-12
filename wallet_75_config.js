@@ -1,1 +1,1 @@
-var mnemonic = "taste under snake myself document orchard warm novel dismiss whale worry sense";
+var mnemonic = "jewel host grab comfort undo turn slice voyage right safe dry quote";

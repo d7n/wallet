@@ -1,1 +1,1 @@
-var mnemonic = "super sock voyage lobster still brief envelope admit resemble village gate hope";
+var mnemonic = "behave upset reason duty tragic guard stomach forget ten wing federal region";

@@ -1,1 +1,1 @@
-var mnemonic = "allow blame sample scan purpose oyster still lonely amateur code rabbit audit";
+var mnemonic = "shed prize index frame erosion settle average seven example there park salmon";

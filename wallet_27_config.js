@@ -1,1 +1,1 @@
-var mnemonic = "abandon unfair toilet pony jelly guide black accuse essay put west follow";
+var mnemonic = "quantum year dove useless hard salon canal report chalk upper bicycle brain";

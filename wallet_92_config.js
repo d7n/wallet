@@ -1,1 +1,1 @@
-var mnemonic = "cherry network arrest wet open fancy eight calm angle season shine nose";
+var mnemonic = "wedding pave cute dignity together spin second ostrich car desert firm salon";

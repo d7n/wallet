@@ -1,1 +1,1 @@
-var mnemonic = "fan whale device talk brass burst squirrel blush fame million alarm asthma";
+var mnemonic = "resource demise tooth recycle fade item submit very curtain razor razor cotton";

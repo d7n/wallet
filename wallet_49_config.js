@@ -1,1 +1,1 @@
-var mnemonic = "client behind engage grunt avoid walk sunny eyebrow debate solve law valid";
+var mnemonic = "already endless sphere busy window flee few domain iron crisp coil learn";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain fly glove skirt infant tuition rely visa mom virus arena refuse";
+var mnemonic = "diary cruise ghost melody obvious health food chef lumber congress essay pause";

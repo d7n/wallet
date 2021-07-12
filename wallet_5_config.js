@@ -1,1 +1,1 @@
-var mnemonic = "order favorite tilt pupil junk goat fiscal planet today possible merry control";
+var mnemonic = "dynamic alpha occur egg coin choice slim between decade process glance noodle";

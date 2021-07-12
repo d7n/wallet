@@ -1,1 +1,1 @@
-var mnemonic = "injury field curve gospel move vanish wasp yellow echo garden nasty vote";
+var mnemonic = "genuine snake cover rookie always glow resist faint clever when engage multiply";

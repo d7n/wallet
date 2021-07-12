@@ -1,1 +1,1 @@
-var mnemonic = "unusual number canvas middle head frog group group uncle upper service close";
+var mnemonic = "play crime float senior crunch flower vehicle sentence ramp under myth angle";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow write false observe race globe hat young fold wave hint fiction";
+var mnemonic = "love task trigger bag crime indicate example glance token soldier drift snap";

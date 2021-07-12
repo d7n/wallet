@@ -1,1 +1,1 @@
-var mnemonic = "submit opinion super quit draw average love bunker hotel print wise hospital";
+var mnemonic = "utility limit material cover derive truly detect foster indoor permit recall assist";

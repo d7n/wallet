@@ -1,1 +1,1 @@
-var mnemonic = "gate fever lion clean fiber decide wish shadow volume junior robust army";
+var mnemonic = "oppose column bunker depth slender wire valley reward width visit farm birth";

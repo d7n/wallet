@@ -1,1 +1,1 @@
-var mnemonic = "vicious learn cloud saddle father hunt crane boy bird kidney client faint";
+var mnemonic = "deposit angle skate trap arrange onion hurdle butter kitchen impact expect law";

@@ -1,1 +1,1 @@
-var mnemonic = "genre issue uncle friend example limb marine either crane mechanic shallow dad";
+var mnemonic = "gaze equal margin emerge diamond buyer valve casual rely margin warm piece";

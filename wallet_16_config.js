@@ -1,1 +1,1 @@
-var mnemonic = "wave another vast stuff service front clump cruel cash all program disease";
+var mnemonic = "shock trial isolate ribbon icon decrease year boost stereo empower custom monkey";

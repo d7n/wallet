@@ -1,1 +1,1 @@
-var mnemonic = "any merry include jacket lady ensure kit bone crush what method tired";
+var mnemonic = "stove couch version swear master arctic lawn spider alone room sort skill";

@@ -1,1 +1,1 @@
-var mnemonic = "trap latin bonus arctic say exclude chat denial glance bone bright robust";
+var mnemonic = "design cheap sudden joke clown manual cream major roast tornado like runway";

@@ -1,1 +1,1 @@
-var mnemonic = "pair lava mosquito core trash same industry client category flee beyond keep";
+var mnemonic = "whip scissors gorilla offer under dance letter orient offer limb web under";

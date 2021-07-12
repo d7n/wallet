@@ -1,1 +1,1 @@
-var mnemonic = "artwork help number age guard energy issue render change develop occur bounce";
+var mnemonic = "worth equip danger paddle cat sniff deer castle gesture rifle sketch coach";

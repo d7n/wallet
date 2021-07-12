@@ -1,1 +1,1 @@
-var mnemonic = "moral ribbon awake hour album idle range cheap mosquito east rocket arctic";
+var mnemonic = "bomb ethics shaft unaware hurdle now garlic east wolf shrimp aunt label";

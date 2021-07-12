@@ -1,1 +1,1 @@
-var mnemonic = "image eye scatter sing such lab guess oxygen police huge clerk until";
+var mnemonic = "metal defy permit jump oppose spare hold foster era minute grape veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "test assault egg foil solution film panel gate equip artwork fiscal calm";
+var mnemonic = "sample obtain fee they wage flavor arrive scissors unfair attend cattle nothing";

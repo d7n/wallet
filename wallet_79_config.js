@@ -1,1 +1,1 @@
-var mnemonic = "popular notice vast wise alone service quiz comfort level immune will hazard";
+var mnemonic = "payment genuine pledge crucial annual claw vessel hybrid prefer sausage salt dune";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual pair matter multiply permit save service include inhale elephant flame what";
+var mnemonic = "provide engage stool gallery say mechanic salad detail ocean acoustic dog nominee";

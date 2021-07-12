@@ -1,1 +1,1 @@
-var mnemonic = "sad admit calm edit soldier reunion crowd violin keep robot together case";
+var mnemonic = "orphan clinic hair arch mom bird thumb logic holiday during much trap";

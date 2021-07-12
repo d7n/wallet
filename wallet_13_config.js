@@ -1,1 +1,1 @@
-var mnemonic = "great blur december horn wash grow eternal object win arrow excuse budget";
+var mnemonic = "erode apple dignity artefact welcome choose refuse beef chapter daring nominee project";

@@ -1,1 +1,1 @@
-var mnemonic = "sing point win much holiday client topic tragic shuffle volume total insane";
+var mnemonic = "debate goat intact divorce grow reward flat skill answer bomb spend ready";

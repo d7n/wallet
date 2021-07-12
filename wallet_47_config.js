@@ -1,1 +1,1 @@
-var mnemonic = "useful avocado ridge abuse august ostrich mistake grant stove bomb curious upon";
+var mnemonic = "near medal lobster wire party convince sponsor educate sword ripple display narrow";

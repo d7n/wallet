@@ -1,1 +1,1 @@
-var mnemonic = "shoot wait next cry asset gauge shop renew normal wet race castle";
+var mnemonic = "dragon day acoustic music hidden flower bulk expose opera humble delay vessel";

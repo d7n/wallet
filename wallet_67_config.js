@@ -1,1 +1,1 @@
-var mnemonic = "hurry federal solid gas change bread place square stand silver safe panther";
+var mnemonic = "afford inner merit van apology pulp either surge exclude pelican girl sound";

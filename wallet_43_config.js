@@ -1,1 +1,1 @@
-var mnemonic = "burger track element bench crucial mandate question permit autumn they abuse step";
+var mnemonic = "trial veteran kiss trumpet off expand patch chimney put cigar despair hollow";

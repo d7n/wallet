@@ -1,1 +1,1 @@
-var mnemonic = "concert sentence invest print member approve educate machine title correct hospital latin";
+var mnemonic = "army foil laundry lunar scheme vehicle canoe welcome tool vanish owner zoo";

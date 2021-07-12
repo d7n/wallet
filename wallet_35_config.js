@@ -1,1 +1,1 @@
-var mnemonic = "confirm noble oak about plate very glance echo scrub ski true meadow";
+var mnemonic = "identify pass mule risk gain high turn transfer beach dinner law wine";

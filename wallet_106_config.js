@@ -1,1 +1,1 @@
-var mnemonic = "east delay airport shy venture pass artefact camp donkey next west jewel";
+var mnemonic = "mesh rely action easily cave coin friend olympic whip square junior name";

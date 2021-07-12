@@ -1,1 +1,1 @@
-var mnemonic = "bachelor limit labor choice fruit spoon garage lock mass kind power joy";
+var mnemonic = "obvious dismiss avoid summer maid off drop blanket chuckle lucky peace case";

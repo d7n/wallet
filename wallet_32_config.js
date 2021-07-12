@@ -1,1 +1,1 @@
-var mnemonic = "violin glimpse stamp solid skill gorilla tide alarm bubble skull virtual fiscal";
+var mnemonic = "hunt matrix liquid season fence gate ill spell day soul emotion canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "idle sting area license security purity inflict void faculty verb reveal early";
+var mnemonic = "tunnel boss media figure dragon saddle nurse solar tool museum canal narrow";

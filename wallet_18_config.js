@@ -1,1 +1,1 @@
-var mnemonic = "unfold leader rude ripple forward nominee purpose goat spoil find lyrics labor";
+var mnemonic = "script rich blind current buffalo february sudden eye web nose comfort grain";

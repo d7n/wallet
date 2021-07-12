@@ -1,1 +1,1 @@
-var mnemonic = "easily twist staff bid vital fly ladder soda clutch arrest eight need";
+var mnemonic = "whip when lyrics drastic cram snap luggage mystery educate quiz exile couch";

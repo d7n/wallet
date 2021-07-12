@@ -1,1 +1,1 @@
-var mnemonic = "cave weapon use capital rather boost border genuine cliff wedding ordinary truck";
+var mnemonic = "pattern fly match fitness clarify hockey marriage broom luxury vehicle harsh pulp";

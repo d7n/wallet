@@ -1,1 +1,1 @@
-var mnemonic = "enlist thank tattoo friend submit civil immense churn february virtual gadget ask";
+var mnemonic = "theme sure scan abandon satisfy wrong exact oak quality snow print delay";

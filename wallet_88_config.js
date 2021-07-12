@@ -1,1 +1,1 @@
-var mnemonic = "dignity refuse enemy expire snake night poet exchange glad state climb erase";
+var mnemonic = "feel giant forget target couple language oblige tenant amount reason like crack";

@@ -1,1 +1,1 @@
-var mnemonic = "never outer genius abuse drop net blue caution foam put empower exchange";
+var mnemonic = "vital universe advance artwork scheme habit surface dust report bring kidney goose";

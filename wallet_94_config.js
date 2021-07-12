@@ -1,1 +1,1 @@
-var mnemonic = "mean camera base walk faith figure wide armor clap celery lady grocery";
+var mnemonic = "oak easily essay balcony robot snow wait diamond jazz awake certain kidney";

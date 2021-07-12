@@ -1,1 +1,1 @@
-var mnemonic = "stock now skin peasant endorse element soldier amazing two chunk country apology";
+var mnemonic = "symbol meat insane energy purse alter acquire pepper nasty meat major repeat";

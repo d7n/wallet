@@ -1,1 +1,1 @@
-var mnemonic = "country what culture harbor course figure rule clown tip orient roof blur";
+var mnemonic = "obscure token truly wild choose person angry hat february vicious purse glimpse";

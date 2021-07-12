@@ -1,1 +1,1 @@
-var mnemonic = "service mother demand equal month casino head young melt damp glory guide";
+var mnemonic = "sister alien shy aim profit core piano vehicle vacuum velvet good liberty";

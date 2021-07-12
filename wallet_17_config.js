@@ -1,1 +1,1 @@
-var mnemonic = "again reform tape width festival bicycle find athlete apology diet elbow account";
+var mnemonic = "praise fiscal symptom excite report field acquire main kit banner actual lawn";

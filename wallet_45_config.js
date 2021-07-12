@@ -1,1 +1,1 @@
-var mnemonic = "trigger notable million pact finger hybrid matter birth baby cushion arctic recipe";
+var mnemonic = "banner rabbit senior again industry sock reduce pupil tunnel taste output lab";

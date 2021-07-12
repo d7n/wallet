@@ -1,1 +1,1 @@
-var mnemonic = "ensure account keep august clarify knock reward follow turtle sleep bind uphold";
+var mnemonic = "world wood tube prison tortoise enrich consider simple client ghost planet topic";

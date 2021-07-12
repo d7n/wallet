@@ -1,1 +1,1 @@
-var mnemonic = "lesson name razor brick echo weekend object another dance suit history agree";
+var mnemonic = "evidence indoor dust bachelor also unhappy bench mutual assist shuffle avoid donor";

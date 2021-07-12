@@ -1,1 +1,1 @@
-var mnemonic = "man rookie today knock worry they dove lumber lonely settle vanish paddle";
+var mnemonic = "scan crunch claw gesture local piano october ice ozone cannon document surround";

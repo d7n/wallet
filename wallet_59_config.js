@@ -1,1 +1,1 @@
-var mnemonic = "poet kite swim obey skill ship illegal profit shop during merry vessel";
+var mnemonic = "security bubble federal tonight globe spider half digital eagle couch hungry carbon";

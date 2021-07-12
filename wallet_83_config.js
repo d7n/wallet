@@ -1,1 +1,1 @@
-var mnemonic = "unlock estate soon language deny shallow clown pact old butter example female";
+var mnemonic = "century dad atom cheese dinosaur route become asset broccoli tortoise border forum";

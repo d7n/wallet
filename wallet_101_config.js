@@ -1,1 +1,1 @@
-var mnemonic = "mutual stock basket sample approve science water input wheel clump busy beauty";
+var mnemonic = "sand today emotion veteran curve silk ring armed polar bright eye small";
