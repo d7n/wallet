@@ -1,1 +1,1 @@
-var mnemonic = "skull admit tone dynamic march violin peanut chicken praise exit main holiday";
+var mnemonic = "humble notable tip habit similar bicycle flat jewel tell convince march divorce";

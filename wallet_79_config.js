@@ -1,1 +1,1 @@
-var mnemonic = "chimney student crater weapon daughter edge exclude define topic eyebrow gift buffalo";
+var mnemonic = "cruel hockey risk enroll decide dream affair wrap ecology huge annual fiscal";

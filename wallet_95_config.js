@@ -1,1 +1,1 @@
-var mnemonic = "general exotic tenant canyon dog plunge say sweet blush category slam cattle";
+var mnemonic = "insane invite relief easy cotton cotton spell quote wall ill stone earth";

@@ -1,1 +1,1 @@
-var mnemonic = "awful govern orient adult such skull echo cube bus peasant zero expand";
+var mnemonic = "margin quality ten crash man milk awkward pelican ritual mercy hover craft";

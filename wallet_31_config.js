@@ -1,1 +1,1 @@
-var mnemonic = "project boil govern stage foil route ozone express name era other waste";
+var mnemonic = "era code poem sudden awesome dad venue common social river thumb arrange";

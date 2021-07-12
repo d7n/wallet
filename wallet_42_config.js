@@ -1,1 +1,1 @@
-var mnemonic = "wife crystal collect physical inform inside neck seven body size wear sword";
+var mnemonic = "trash put treat matter nephew post large child gesture enhance draw quantum";

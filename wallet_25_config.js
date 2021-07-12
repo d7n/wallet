@@ -1,1 +1,1 @@
-var mnemonic = "island priority soul analyst fan hire funny route style debris repeat cool";
+var mnemonic = "loyal twin enemy garment exotic genuine trouble where elephant ecology apology carpet";

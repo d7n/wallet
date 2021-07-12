@@ -1,1 +1,1 @@
-var mnemonic = "describe problem crawl rival cluster text wild salad solution hurdle divorce creek";
+var mnemonic = "zero light address judge imitate embark dream oyster before notice rough come";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn alcohol casual valley spoon unknown tomato mobile supply orient exile scale";
+var mnemonic = "nuclear melody speed flat deliver oyster input seven deer february nature reform";

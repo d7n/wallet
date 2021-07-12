@@ -1,1 +1,1 @@
-var mnemonic = "common lawn tomato material nephew tuna pluck annual inspire three board legend";
+var mnemonic = "modify wealth dose distance once usage absurd voice hollow creek rookie portion";

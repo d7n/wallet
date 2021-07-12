@@ -1,1 +1,1 @@
-var mnemonic = "carbon acquire cause sick network rubber spoon neck spring session warm friend";
+var mnemonic = "circle pipe airport utility cheap theme balance accuse lab run vessel scan";

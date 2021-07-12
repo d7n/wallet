@@ -1,1 +1,1 @@
-var mnemonic = "ahead grace legend garden true always lift gap bicycle body olive silent";
+var mnemonic = "salmon gadget boring tree spoon kick cross clever any capable wheel local";

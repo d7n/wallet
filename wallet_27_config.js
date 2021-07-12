@@ -1,1 +1,1 @@
-var mnemonic = "top liberty surface depth enrich rival melt connect wait proof tide sorry";
+var mnemonic = "employ immune vague knock sunset copy judge master hotel giggle mask forget";

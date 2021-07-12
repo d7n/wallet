@@ -1,1 +1,1 @@
-var mnemonic = "squeeze clerk legend foster moral opinion motion grid orphan garment wolf parrot";
+var mnemonic = "super category verb glass case tower right grid walnut arrange smart coin";

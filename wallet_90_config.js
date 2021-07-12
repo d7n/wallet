@@ -1,1 +1,1 @@
-var mnemonic = "erosion own curious ski air ethics aspect glare wink body wire scissors";
+var mnemonic = "sock pen head address reflect pulse smart cute blame consider merit debris";

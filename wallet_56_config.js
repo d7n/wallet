@@ -1,1 +1,1 @@
-var mnemonic = "aspect math spring ahead unknown funny basket gate video rug cover chief";
+var mnemonic = "swing phrase breeze insect fabric tribe today chest next gold demand lift";

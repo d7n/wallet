@@ -1,1 +1,1 @@
-var mnemonic = "stadium settle music duty major north light polar excess radar lucky neutral";
+var mnemonic = "blast noodle pencil enter busy below rude reopen engage lounge distance piano";

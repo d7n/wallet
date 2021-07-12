@@ -1,1 +1,1 @@
-var mnemonic = "arctic black dress canvas tackle alarm swim artefact frame finish wine chimney";
+var mnemonic = "boil jewel critic romance stamp witness year next height bike bless canal";

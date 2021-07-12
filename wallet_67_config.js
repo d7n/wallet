@@ -1,1 +1,1 @@
-var mnemonic = "strike famous cycle biology scorpion impact expect drum submit hundred engage help";
+var mnemonic = "april business cherry legend upon cattle organ vessel valve forest melt skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "skate supply holiday similar fury taxi shrug neither arrive truly exit world";
+var mnemonic = "mobile bag convince love fantasy cover dizzy weekend sketch mosquito actress sing";

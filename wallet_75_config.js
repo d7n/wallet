@@ -1,1 +1,1 @@
-var mnemonic = "grit chief donkey notice term despair ivory flat brand slide parent arrest";
+var mnemonic = "top basic syrup humor club harbor expire hamster nominee advance then oval";

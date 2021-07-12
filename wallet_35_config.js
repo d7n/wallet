@@ -1,1 +1,1 @@
-var mnemonic = "memory permit blue ten winner rabbit law bamboo poet update melt pretty";
+var mnemonic = "involve wrist lemon latin emotion aspect coil group head horn bird author";

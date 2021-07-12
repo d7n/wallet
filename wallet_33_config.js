@@ -1,1 +1,1 @@
-var mnemonic = "aerobic sort rookie cash maximum utility catalog differ display soldier basic empty";
+var mnemonic = "tiger powder busy pencil intact brother whale hollow know jewel ride ignore";

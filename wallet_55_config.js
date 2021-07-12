@@ -1,1 +1,1 @@
-var mnemonic = "moral govern adjust cart ancient prosper night remind solid angry love muffin";
+var mnemonic = "object journey crane spin dash actress nasty tortoise stamp source cry earn";

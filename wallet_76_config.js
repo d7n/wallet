@@ -1,1 +1,1 @@
-var mnemonic = "organ claim region kingdom goose like differ giant cheese apology menu recycle";
+var mnemonic = "south once author mirror sense flush jeans turkey style table belt bring";

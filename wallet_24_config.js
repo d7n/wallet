@@ -1,1 +1,1 @@
-var mnemonic = "problem mixture clock amazing spatial thunder fashion youth kick planet brave earth";
+var mnemonic = "aisle middle safe crouch act obscure oak license double yard flat ankle";

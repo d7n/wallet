@@ -1,1 +1,1 @@
-var mnemonic = "demise annual hospital payment nut robot law beyond truck sword illegal month";
+var mnemonic = "palace damage exhibit toast pull gain wage ball cargo feel glory glory";

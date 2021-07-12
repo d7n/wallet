@@ -1,1 +1,1 @@
-var mnemonic = "powder unknown hen panic swim slot adapt drop sugar clever punch ceiling";
+var mnemonic = "mountain sense hockey program squirrel balance key ice reduce matrix they agree";

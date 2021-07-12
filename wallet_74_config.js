@@ -1,1 +1,1 @@
-var mnemonic = "uphold broccoli mushroom solid regret champion accuse emotion typical lobster erode reunion";
+var mnemonic = "cave loop cream note poem notice cover thumb fashion silver people also";

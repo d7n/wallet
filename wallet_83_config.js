@@ -1,1 +1,1 @@
-var mnemonic = "also border blast kit flavor task senior sauce answer case sad sail";
+var mnemonic = "merge damage egg menu meadow season deposit cereal confirm empower rhythm magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "tip couple choice front option maple alert melt sudden depth vapor fancy";
+var mnemonic = "glass decade amateur slim inch capital seat enforce cabin joy predict live";

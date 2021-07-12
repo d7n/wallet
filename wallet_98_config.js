@@ -1,1 +1,1 @@
-var mnemonic = "catch diamond alter ancient nation between purpose wreck tackle excite weird glue";
+var mnemonic = "festival swap idle robust swim width enjoy vacuum speak focus wool fuel";

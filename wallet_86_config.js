@@ -1,1 +1,1 @@
-var mnemonic = "dust visual rug finish never solution fox midnight radar glove turkey exclude";
+var mnemonic = "light example erosion dial provide way sunny sting cash ask horror wool";

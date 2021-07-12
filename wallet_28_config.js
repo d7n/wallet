@@ -1,1 +1,1 @@
-var mnemonic = "faint jealous hello address erase puzzle must napkin topic order topple neglect";
+var mnemonic = "theme salon genuine kidney awesome arm disagree concert squirrel trash run common";

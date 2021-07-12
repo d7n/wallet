@@ -1,1 +1,1 @@
-var mnemonic = "spirit music attitude marble draw then neutral weekend voyage drama possible bring";
+var mnemonic = "measure plastic produce away swamp sentence slam rail fall load orient canvas";

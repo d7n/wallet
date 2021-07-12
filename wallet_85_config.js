@@ -1,1 +1,1 @@
-var mnemonic = "renew access divert member foot truth foil rigid health recycle keep rain";
+var mnemonic = "subject daughter civil boy bunker region trouble humor front rely uncle obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "country install alien lucky crouch paper hover toy citizen address action core";
+var mnemonic = "alien birth distance solve valve client fiber around hurry shoulder title deliver";

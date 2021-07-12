@@ -1,1 +1,1 @@
-var mnemonic = "loop arctic obtain twelve inquiry resource file picnic clinic tragic popular sorry";
+var mnemonic = "session museum battle salad disagree kidney galaxy swallow protect early category jeans";

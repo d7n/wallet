@@ -1,1 +1,1 @@
-var mnemonic = "leave rally little toward industry patient deer sail emotion raccoon retreat army";
+var mnemonic = "someone fork divert flush nation float sell robot nothing mechanic junk screen";

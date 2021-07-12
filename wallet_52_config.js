@@ -1,1 +1,1 @@
-var mnemonic = "inform sport cool robot welcome clutch cake wire reunion alley dash blur";
+var mnemonic = "guilt radar alpha dilemma between screen obey puzzle utility element recycle manage";

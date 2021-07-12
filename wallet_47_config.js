@@ -1,1 +1,1 @@
-var mnemonic = "morning balance man fan fire wood raise educate rookie stage polar invite";
+var mnemonic = "math ticket modify surprise assault palace year danger tunnel bread pledge display";

@@ -1,1 +1,1 @@
-var mnemonic = "dune episode bunker special egg strike slot price cake hen matrix spend";
+var mnemonic = "refuse occur then two patrol charge borrow feed album air airport mail";

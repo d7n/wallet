@@ -1,1 +1,1 @@
-var mnemonic = "gospel goose rigid light poem same dynamic police accident illness master energy";
+var mnemonic = "three bachelor slogan stereo album domain sunny stereo heart roast off wrong";

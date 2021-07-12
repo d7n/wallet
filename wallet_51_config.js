@@ -1,1 +1,1 @@
-var mnemonic = "include language vivid sudden diamond sea vault fog spoon angle robot extra";
+var mnemonic = "exotic drink wish solid defy someone visual comfort present cousin render bomb";

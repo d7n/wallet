@@ -1,1 +1,1 @@
-var mnemonic = "jealous blossom giggle federal source force purchase gadget lunch fuel armor wing";
+var mnemonic = "fun turtle broccoli until uncle faint message brown plug lift shock rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "boost close economy evoke pupil flame merge ozone cheap lake veteran cabin";
+var mnemonic = "fluid evoke then load reform sniff clutch prize flame medal slush jaguar";

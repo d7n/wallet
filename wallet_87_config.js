@@ -1,1 +1,1 @@
-var mnemonic = "piano enjoy novel normal furnace enter obvious gallery void protect inside thought";
+var mnemonic = "idea canoe junk craft tenant tube crouch flee skill clinic coil autumn";

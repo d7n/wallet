@@ -1,1 +1,1 @@
-var mnemonic = "wrist life extend super mushroom approve net panic forward swim addict fortune";
+var mnemonic = "clever practice spend symptom talent either mountain account width large cycle grow";

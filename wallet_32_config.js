@@ -1,1 +1,1 @@
-var mnemonic = "elder plunge arrest alley corn special outside almost desk mixture cargo clown";
+var mnemonic = "flame juice frown hard simple clarify join comfort invest region mushroom shoulder";

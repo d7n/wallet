@@ -1,1 +1,1 @@
-var mnemonic = "melt trick proof pilot swallow tube engage usual fiber merry squirrel matrix";
+var mnemonic = "car involve mobile fetch mention layer pistol steak occur symbol shift rotate";

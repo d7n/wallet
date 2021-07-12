@@ -1,1 +1,1 @@
-var mnemonic = "forward cave achieve hollow vibrant liquid baby cruise talent uncle fiscal cost";
+var mnemonic = "simple guess athlete post speed bulb pizza pave welcome someone uphold maple";

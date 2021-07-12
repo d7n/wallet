@@ -1,1 +1,1 @@
-var mnemonic = "high belt light giant ugly rural ill license element boil crowd soda";
+var mnemonic = "good clock misery wait velvet drama razor radio rib slide govern casino";

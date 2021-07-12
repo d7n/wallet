@@ -1,1 +1,1 @@
-var mnemonic = "climb review robot raw sell produce suit history catalog cry know interest";
+var mnemonic = "refuse treat myself garden all ski indicate rose brass gallery option harvest";

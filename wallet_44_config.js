@@ -1,1 +1,1 @@
-var mnemonic = "cricket charge satisfy sadness enforce between welcome spirit boring drop term distance";
+var mnemonic = "develop pig fruit horror era hockey nominee wife just balcony cave galaxy";

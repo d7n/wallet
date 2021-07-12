@@ -1,1 +1,1 @@
-var mnemonic = "until sister lottery wheel bacon service rice loop way shy snow approve";
+var mnemonic = "again noodle innocent custom inflict puzzle second eager myth field ball canyon";

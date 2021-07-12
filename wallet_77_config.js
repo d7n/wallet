@@ -1,1 +1,1 @@
-var mnemonic = "noodle tone rigid jar collect legal please motor hospital glide original wolf";
+var mnemonic = "hold priority toast electric amateur puppy final narrow eye injury quarter put";

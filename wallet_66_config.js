@@ -1,1 +1,1 @@
-var mnemonic = "resemble surface wrist express swamp style steel cash mosquito cube boring bridge";
+var mnemonic = "tomorrow harbor notable board dilemma purity build burden exercise tragic case member";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme notice soda turkey mass fiscal latin journey tornado country toast someone";
+var mnemonic = "weapon flavor spirit scale aisle pyramid cradle scale knife leg shell measure";

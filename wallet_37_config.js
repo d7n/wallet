@@ -1,1 +1,1 @@
-var mnemonic = "nose baby merit jelly spice narrow comic hour method hedgehog dial diagram";
+var mnemonic = "short solar enhance stadium auto buzz various bone zero anger chuckle dash";

@@ -1,1 +1,1 @@
-var mnemonic = "lift must crawl faculty giant need uniform kidney blossom wine burger annual";
+var mnemonic = "child include prosper dragon average rather toilet blanket scout few item apart";

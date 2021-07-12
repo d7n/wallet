@@ -1,1 +1,1 @@
-var mnemonic = "burst convince finger skate side ramp giggle open scatter harsh exile village";
+var mnemonic = "fancy curve easy task mistake paper champion laugh useless absurd help kitchen";

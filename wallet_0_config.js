@@ -1,1 +1,1 @@
-var mnemonic = "couple slogan woman candy exotic require deer fog badge discover oil stable";
+var mnemonic = "today fat aunt slogan butter remain coffee blur squirrel sustain mention describe";

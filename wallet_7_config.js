@@ -1,1 +1,1 @@
-var mnemonic = "opinion gossip oak current blouse member opera width sketch venue sad vacuum";
+var mnemonic = "mercy uphold gentle voice dry emotion obey correct mouse endless distance skill";

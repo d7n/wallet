@@ -1,1 +1,1 @@
-var mnemonic = "layer friend offer spend stage thumb breeze target appear scatter deny second";
+var mnemonic = "online female beach fade sniff absent someone rival wood grocery home decide";

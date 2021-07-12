@@ -1,1 +1,1 @@
-var mnemonic = "yard luxury guitar neutral idle inject arctic smoke child knife novel friend";
+var mnemonic = "forward police endorse young theme wish that crouch pottery unknown dress protect";

@@ -1,1 +1,1 @@
-var mnemonic = "custom copy clump pear seek lizard film slam dove toward guide degree";
+var mnemonic = "ripple empty inspire join doll actress work spice penalty able wrong medal";

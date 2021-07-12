@@ -1,1 +1,1 @@
-var mnemonic = "escape tiny alley absent dismiss copper direct screen must cruise piece inside";
+var mnemonic = "way property flavor grass spray way fringe disease deny primary kit have";

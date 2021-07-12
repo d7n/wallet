@@ -1,1 +1,1 @@
-var mnemonic = "cream fever glass royal copy afraid elevator label captain blast act zoo";
+var mnemonic = "any smile abuse system hundred another dance suspect deal judge clever illness";

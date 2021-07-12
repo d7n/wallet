@@ -1,1 +1,1 @@
-var mnemonic = "express cherry orphan switch mango repeat science ride junior render drive affair";
+var mnemonic = "soldier usage wrist immense spray bright whisper empty critic cable dwarf normal";

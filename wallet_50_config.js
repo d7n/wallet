@@ -1,1 +1,1 @@
-var mnemonic = "history announce cake blur pistol quick roast equip decrease garment enemy monster";
+var mnemonic = "muscle stage hour valid orbit business gift rare chapter curve tragic airport";

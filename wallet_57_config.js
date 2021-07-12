@@ -1,1 +1,1 @@
-var mnemonic = "tower trial inquiry panic immense device sauce hurry local machine raven elephant";
+var mnemonic = "want prevent vessel inner concert guitar ten october retreat resource dry client";

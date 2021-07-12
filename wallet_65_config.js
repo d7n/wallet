@@ -1,1 +1,1 @@
-var mnemonic = "ramp rely punch apart treat mass latin chest current force syrup era";
+var mnemonic = "hard scan ozone notice you actor ahead analyst arrive flee luxury travel";

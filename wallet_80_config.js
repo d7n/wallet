@@ -1,1 +1,1 @@
-var mnemonic = "cube slight merge jungle drill boost vacuum box spring sweet gauge lawsuit";
+var mnemonic = "correct pupil picture reason thought pond sorry elder hero blind thank digital";

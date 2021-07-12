@@ -1,1 +1,1 @@
-var mnemonic = "chronic spider clock stadium pitch usage expire civil potato punch analyst burger";
+var mnemonic = "shed smooth reform vessel melody bulk rent poet recall edit left silk";

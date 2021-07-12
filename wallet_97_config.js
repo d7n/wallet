@@ -1,1 +1,1 @@
-var mnemonic = "barely carry shoot miracle traffic shoulder crowd night nation saddle stairs little";
+var mnemonic = "wife sudden imitate evoke direct palace drink clock demise shoulder banner clarify";

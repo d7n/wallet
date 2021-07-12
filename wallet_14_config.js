@@ -1,1 +1,1 @@
-var mnemonic = "flip subway duty access learn bachelor comic ranch reflect layer equip crew";
+var mnemonic = "cotton museum annual face grunt wonder tornado breeze diesel relax near always";

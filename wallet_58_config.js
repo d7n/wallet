@@ -1,1 +1,1 @@
-var mnemonic = "private nephew syrup okay charge input until cube because love scene switch";
+var mnemonic = "above essay nominee wrong arch frog bulk man code supreme pave nice";

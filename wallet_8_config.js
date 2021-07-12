@@ -1,1 +1,1 @@
-var mnemonic = "dog cruel leisure river fatal flavor cross cushion upset ostrich panda shine";
+var mnemonic = "forum laugh trash identify another plastic unit whale make owner infant door";

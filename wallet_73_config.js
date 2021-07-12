@@ -1,1 +1,1 @@
-var mnemonic = "minute voyage change drama gospel credit kid tray tribe dream buddy duty";
+var mnemonic = "float pact help group parade strike joy crash warfare follow omit okay";

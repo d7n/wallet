@@ -1,1 +1,1 @@
-var mnemonic = "extend pass clutch sing range speak pledge saddle chunk wagon mass myth";
+var mnemonic = "control split soup priority neutral fly price august glimpse glue draft foil";

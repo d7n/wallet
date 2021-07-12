@@ -1,1 +1,1 @@
-var mnemonic = "sample lab language senior hurdle punch pioneer found fox kiss render tornado";
+var mnemonic = "soccer super setup document betray home gap length help spy movie hole";

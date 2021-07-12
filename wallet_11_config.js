@@ -1,1 +1,1 @@
-var mnemonic = "double rival grape wet devote stumble gadget volcano chuckle trim gold problem";
+var mnemonic = "mesh milk tube tomorrow spatial stadium near apart upper price gravity hat";

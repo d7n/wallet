@@ -1,1 +1,1 @@
-var mnemonic = "shadow weapon loyal purpose advance faith level aunt involve snow bid identify";
+var mnemonic = "scene canoe river stereo opera adjust word puzzle gauge allow balcony hair";

@@ -1,1 +1,1 @@
-var mnemonic = "place ghost bench jewel rich lamp rally film kind execute edit fence";
+var mnemonic = "aisle mule trash connect wife tortoise beauty lift forest end tomorrow yard";

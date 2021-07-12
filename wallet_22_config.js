@@ -1,1 +1,1 @@
-var mnemonic = "awake accuse humble utility tomato gain maximum common knife fit nature banana";
+var mnemonic = "frog wage clinic armor cabbage define pill group veteran elder web note";

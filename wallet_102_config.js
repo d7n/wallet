@@ -1,1 +1,1 @@
-var mnemonic = "endless worth race toe obey search million sentence section improve puzzle damp";
+var mnemonic = "sniff powder jewel exchange huge soup mountain accident have mass vacuum peace";

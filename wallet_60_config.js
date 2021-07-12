@@ -1,1 +1,1 @@
-var mnemonic = "trophy voice snack aunt orange vote knife cement easily attack elder clay";
+var mnemonic = "answer blue bean annual magnet start riot slogan smooth keen own arctic";

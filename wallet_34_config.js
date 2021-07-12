@@ -1,1 +1,1 @@
-var mnemonic = "connect crash bread ginger sick remain width weather unhappy enemy title tilt";
+var mnemonic = "rib vanish trial slim orbit point raven latin gym close assist vague";

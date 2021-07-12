@@ -1,1 +1,1 @@
-var mnemonic = "flush eagle kiwi brick fit case special nasty dismiss helmet process love";
+var mnemonic = "meadow tray vote young slab globe wrist battle nominee total couple wagon";

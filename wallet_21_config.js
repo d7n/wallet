@@ -1,1 +1,1 @@
-var mnemonic = "useless fashion engage rural enable wife soft dance repair page rifle close";
+var mnemonic = "submit evil plate rare marine lazy across cattle strategy panic employ wife";
