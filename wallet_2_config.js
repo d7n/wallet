@@ -1,1 +1,1 @@
-var mnemonic = "quit soccer alert silk swift mass way shoot birth armed net faint";
+var mnemonic = "trap ginger will rack fancy broken throw half blue raccoon sort amused";

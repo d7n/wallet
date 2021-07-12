@@ -1,1 +1,1 @@
-var mnemonic = "pattern onion proud talk panel ginger snake bottom buyer silver shrug afford";
+var mnemonic = "obtain solar into century alpha join camera walk series document shoe unveil";

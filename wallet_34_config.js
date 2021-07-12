@@ -1,1 +1,1 @@
-var mnemonic = "mobile region amateur foam copy adapt empower horse pluck above obscure rifle";
+var mnemonic = "victory weapon beach latin material fold estate sense sock blast devote room";

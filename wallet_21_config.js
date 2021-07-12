@@ -1,1 +1,1 @@
-var mnemonic = "resist pulp seat industry wheat husband hold keep title mushroom couch travel";
+var mnemonic = "swarm confirm organ fire kangaroo faint segment fall tattoo chase neither green";

@@ -1,1 +1,1 @@
-var mnemonic = "sad pluck fortune soon double buzz gossip vicious range clap clutch finish";
+var mnemonic = "gossip destroy garden mystery bridge conduct kid cargo frame hazard arrange leg";

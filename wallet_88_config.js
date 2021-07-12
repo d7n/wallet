@@ -1,1 +1,1 @@
-var mnemonic = "party moment snap tag fence announce town cherry addict rocket spoon dinosaur";
+var mnemonic = "myself suit similar follow animal grape little bind spirit claw charge left";

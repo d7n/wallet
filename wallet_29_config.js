@@ -1,1 +1,1 @@
-var mnemonic = "opera rack dinosaur vendor base spice mystery crawl brief blanket subject asthma";
+var mnemonic = "basket adjust family fold ladder circle broom same mystery tomato warfare system";

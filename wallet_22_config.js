@@ -1,1 +1,1 @@
-var mnemonic = "near pitch clock tower boat basket taste taste small check calm wealth";
+var mnemonic = "sudden mechanic illegal apple conduct crowd time magnet worry record hero owner";

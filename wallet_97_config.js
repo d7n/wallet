@@ -1,1 +1,1 @@
-var mnemonic = "embark select myth notice ready main dress note century voyage enough bracket";
+var mnemonic = "combine nasty fan pull opera minor tragic bachelor solution mixture lottery junk";

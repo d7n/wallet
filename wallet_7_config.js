@@ -1,1 +1,1 @@
-var mnemonic = "diesel dwarf cargo moral soap jungle art domain duty ask suit poet";
+var mnemonic = "snap asset drama extend midnight rubber dice recycle laugh december muffin quote";

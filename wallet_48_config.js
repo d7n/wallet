@@ -1,1 +1,1 @@
-var mnemonic = "person genre diagram camp shiver monster beach hobby carbon weekend purity meadow";
+var mnemonic = "label holiday spice brief husband wall universe spy afraid mom crystal champion";

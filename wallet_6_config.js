@@ -1,1 +1,1 @@
-var mnemonic = "cage blame idle knock near since inmate like random exhibit sample heavy";
+var mnemonic = "field series soda dose wife middle fortune muscle subject monitor poem solution";

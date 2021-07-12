@@ -1,1 +1,1 @@
-var mnemonic = "tool affair suit fashion danger panel million heavy decrease crane insane sorry";
+var mnemonic = "live swim club tired wood afford divide wave possible ignore dolphin canal";

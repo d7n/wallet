@@ -1,1 +1,1 @@
-var mnemonic = "portion mixture spend brass arch trouble diet mystery sense setup three debate";
+var mnemonic = "outer rain mosquito pottery frost animal core paper vibrant harsh walnut organ";

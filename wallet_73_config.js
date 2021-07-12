@@ -1,1 +1,1 @@
-var mnemonic = "essay enlist imitate void history scale net entry web myself layer cruise";
+var mnemonic = "nerve evoke range escape favorite comic fever switch skirt prepare rare erosion";

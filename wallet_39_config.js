@@ -1,1 +1,1 @@
-var mnemonic = "buyer wise drastic math long quit hat industry few jeans era hedgehog";
+var mnemonic = "kick hamster confirm purse bulk abandon lady room report mimic vapor conduct";

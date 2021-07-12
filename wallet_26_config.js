@@ -1,1 +1,1 @@
-var mnemonic = "spice twelve behave junk decorate agree decide erode hospital steak tower dentist";
+var mnemonic = "symbol vote sentence drama rice talk tobacco vague depend village club honey";

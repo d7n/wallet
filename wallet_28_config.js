@@ -1,1 +1,1 @@
-var mnemonic = "gather basic horror purchase uncover humor festival churn despair follow ice meat";
+var mnemonic = "can laundry inmate garbage east million gun melt liberty addict lyrics copper";

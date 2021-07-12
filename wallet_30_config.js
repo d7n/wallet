@@ -1,1 +1,1 @@
-var mnemonic = "observe unknown suit obey muffin two film solar lonely smoke medal duck";
+var mnemonic = "include chair try axis conduct accuse bunker immune scorpion tenant cabbage inflict";

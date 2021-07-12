@@ -1,1 +1,1 @@
-var mnemonic = "evidence noise tomorrow hen home social enemy medal monitor goat page ask";
+var mnemonic = "depth idle defy cart seek stone ability news saddle people genre strong";

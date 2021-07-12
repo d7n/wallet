@@ -1,1 +1,1 @@
-var mnemonic = "absorb pact trap fun talk infant solar bread violin magic milk bike";
+var mnemonic = "life purpose maze shop elegant country ticket confirm cement blood pistol task";

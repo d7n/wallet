@@ -1,1 +1,1 @@
-var mnemonic = "pudding piano banner cream assume wire morning life neck wisdom size mix";
+var mnemonic = "era menu chalk cry farm urban fossil clip hospital item conduct recall";

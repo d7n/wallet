@@ -1,1 +1,1 @@
-var mnemonic = "dignity session vendor bachelor ask toy toilet story engage outside collect mutual";
+var mnemonic = "okay limit juice deer web borrow balance zone empty earth have recipe";

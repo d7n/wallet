@@ -1,1 +1,1 @@
-var mnemonic = "divert whale pattern harbor cute about burger symbol basic stereo diary select";
+var mnemonic = "give topple under august vehicle flee student leg bundle rabbit rare post";

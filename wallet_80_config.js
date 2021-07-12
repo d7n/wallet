@@ -1,1 +1,1 @@
-var mnemonic = "noodle limb woman only include benefit depth narrow over deer urban join";
+var mnemonic = "you rubber update satoshi crack fan kangaroo ozone blue trend life save";

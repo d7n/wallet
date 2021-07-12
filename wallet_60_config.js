@@ -1,1 +1,1 @@
-var mnemonic = "segment catch dose magnet taste weasel fall system tide fragile tuition tooth";
+var mnemonic = "enrich mule spray sick shallow notice effort stock retreat mystery where tornado";

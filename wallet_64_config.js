@@ -1,1 +1,1 @@
-var mnemonic = "garage height eye index punch curtain near fee brush debris gossip alone";
+var mnemonic = "oyster pill apple design vacant blouse salt mushroom shrimp siren wait rival";

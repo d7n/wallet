@@ -1,1 +1,1 @@
-var mnemonic = "dilemma company either upgrade resist initial humble faculty trade grape pond share";
+var mnemonic = "evil ivory clay unique giraffe prison museum grab muscle sheriff similar impulse";

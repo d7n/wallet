@@ -1,1 +1,1 @@
-var mnemonic = "silver retire theory expand economy give thumb client okay income shuffle income";
+var mnemonic = "ordinary quote orchard much spoon sauce advice wasp unit allow huge dog";

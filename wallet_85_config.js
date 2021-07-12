@@ -1,1 +1,1 @@
-var mnemonic = "dragon scrub lock train minute know tumble main throw joy raw view";
+var mnemonic = "bronze owner happy kite opinion concert know decide cousin pigeon hip couch";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion curtain kind market success strong cloth blue burst robot market catalog";
+var mnemonic = "slice final educate luggage news chronic dizzy panel erupt coil leisure mean";

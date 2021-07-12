@@ -1,1 +1,1 @@
-var mnemonic = "army wife item few snack size blast noble fringe isolate dust beef";
+var mnemonic = "nasty silent hobby play rabbit pulp people parrot bulk actual insect board";

@@ -1,1 +1,1 @@
-var mnemonic = "magic poem labor pull clog surprise subway bonus typical crater rotate spawn";
+var mnemonic = "during body poet pledge canal violin magnet clinic clump expire post nurse";

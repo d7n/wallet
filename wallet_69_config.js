@@ -1,1 +1,1 @@
-var mnemonic = "spatial boring sibling syrup first chapter heavy rifle picture divorce weird dress";
+var mnemonic = "cheese humble tank nominee diet right jaguar mesh praise evil nasty bubble";

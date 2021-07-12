@@ -1,1 +1,1 @@
-var mnemonic = "stool virtual scrap palm early night dish suit later school sun combine";
+var mnemonic = "fashion awake friend ocean admit autumn rhythm steak about firm split trap";

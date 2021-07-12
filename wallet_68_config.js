@@ -1,1 +1,1 @@
-var mnemonic = "suit wolf blouse sport sword guide secret cement plate tone napkin glass";
+var mnemonic = "december social blood anxiety rookie rookie shell sick truck between feature usual";

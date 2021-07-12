@@ -1,1 +1,1 @@
-var mnemonic = "push swing cruise large exile target royal garage surprise crater gap dress";
+var mnemonic = "school state few shop another leave immune night twist ridge success lizard";

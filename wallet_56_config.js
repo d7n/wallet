@@ -1,1 +1,1 @@
-var mnemonic = "glance hobby lawsuit echo noble such bitter promote umbrella favorite run because";
+var mnemonic = "light bone valve regret before ask payment pact road erase team faint";

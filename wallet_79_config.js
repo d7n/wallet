@@ -1,1 +1,1 @@
-var mnemonic = "unfair point bamboo lucky opinion critic carbon grid cable install upper weird";
+var mnemonic = "purpose raven leader material phone sibling lobster venue absent nut bread crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "gun clinic sense phone aim desk visual alpha spawn target path okay";
+var mnemonic = "little flag spoil chaos arm school six burst give sketch immense claw";

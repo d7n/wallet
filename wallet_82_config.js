@@ -1,1 +1,1 @@
-var mnemonic = "mango asset term eyebrow else voice bacon ridge rocket celery notice feed";
+var mnemonic = "coast box cry juice vote they axis inflict vital nation proud doll";

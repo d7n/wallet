@@ -1,1 +1,1 @@
-var mnemonic = "forest balcony hurt book usage wrestle faculty dinner begin bronze wagon require";
+var mnemonic = "exchange guess sketch cigar labor olympic window bar lawn dream joke door";

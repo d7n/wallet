@@ -1,1 +1,1 @@
-var mnemonic = "match man avocado answer give abuse goat horse dizzy august cupboard olive";
+var mnemonic = "movie rhythm number lawn execute absurd confirm market pretty feel mixed cart";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe remove chat garden episode indoor payment ahead ancient seven toward float";
+var mnemonic = "cover recipe toilet emotion tornado mad visit copy prosper sustain win impulse";

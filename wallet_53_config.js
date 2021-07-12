@@ -1,1 +1,1 @@
-var mnemonic = "tribe shrug all receive crash photo sell tuna demand story wealth hidden";
+var mnemonic = "hill kit negative else ketchup response notice idle valley relief change property";

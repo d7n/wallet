@@ -1,1 +1,1 @@
-var mnemonic = "brass metal mammal stay pledge iron airport hybrid addict chaos ladder check";
+var mnemonic = "general digital brown bright giant wink used afford cupboard slim absent shoot";

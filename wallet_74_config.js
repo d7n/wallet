@@ -1,1 +1,1 @@
-var mnemonic = "supply plug safe urge choose learn march punch train soda sad magic";
+var mnemonic = "daring pizza deal mother whisper cradle slam slim bid sunset avocado phone";

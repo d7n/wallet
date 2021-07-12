@@ -1,1 +1,1 @@
-var mnemonic = "actress trophy ritual satoshi announce melt sea enroll claim stick soda remember";
+var mnemonic = "foot energy biology scan walk brass pencil pyramid cycle edge fruit smile";

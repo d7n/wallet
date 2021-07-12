@@ -1,1 +1,1 @@
-var mnemonic = "deputy exact boat blind hidden horror wife clip cancel drive occur inspire";
+var mnemonic = "crater tennis kangaroo wrong tennis man hole core nut you mail salad";

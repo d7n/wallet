@@ -1,1 +1,1 @@
-var mnemonic = "horse thrive pause also erode age funny employ vault chief chimney above";
+var mnemonic = "hurdle trouble flag jazz demise fashion good wrong drip kitten cotton layer";

@@ -1,1 +1,1 @@
-var mnemonic = "remove result car analyst upgrade reason royal tooth admit emotion mystery sting";
+var mnemonic = "decrease file stone grape question swear slice auto verify forget argue abandon";

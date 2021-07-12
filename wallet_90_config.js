@@ -1,1 +1,1 @@
-var mnemonic = "inflict scout cloud plate wave wonder embark boost beyond pen increase brave";
+var mnemonic = "nice rival involve student dolphin loan arrive soft nature sunset movie screen";

@@ -1,1 +1,1 @@
-var mnemonic = "forward board cause cotton sunny junk scorpion damp spirit usage pledge submit";
+var mnemonic = "genre garbage describe unaware digital today story limit south outside rent olive";

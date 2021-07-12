@@ -1,1 +1,1 @@
-var mnemonic = "pole soccer okay pulp final two cancel student soap convince surround inject";
+var mnemonic = "share spot giraffe plate blame claim wink enhance pet waste student dance";

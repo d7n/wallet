@@ -1,1 +1,1 @@
-var mnemonic = "produce coil mandate multiply sugar unfold filter amateur warm learn volume adjust";
+var mnemonic = "bird allow crucial letter struggle play grit gate bonus ceiling ice drum";

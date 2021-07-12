@@ -1,1 +1,1 @@
-var mnemonic = "runway broom symptom basic hazard crystal social category agent humble exile bread";
+var mnemonic = "over help scene come elegant excite boost crouch toddler refuse wood daring";

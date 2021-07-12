@@ -1,1 +1,1 @@
-var mnemonic = "price there fatal govern fortune come elder sing saddle depth angry all";
+var mnemonic = "grit assault what lab theory ticket toddler oval win unusual program trouble";

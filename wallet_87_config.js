@@ -1,1 +1,1 @@
-var mnemonic = "start shy unfold dizzy mountain furnace country grit matter quarter surface obtain";
+var mnemonic = "moon machine narrow law leave veteran seminar alley into increase boost behave";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo tomato author river robot cup flavor bread clinic practice hint claim";
+var mnemonic = "hockey ketchup ahead harvest foil right tonight armor latin pyramid owner setup";

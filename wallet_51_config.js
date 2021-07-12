@@ -1,1 +1,1 @@
-var mnemonic = "hope lyrics resource curve elite any explain catalog rather invite dune face";
+var mnemonic = "silver hamster destroy oyster oval outside canoe afford know kit royal audit";

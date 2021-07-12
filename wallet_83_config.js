@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow lion treat improve eternal inform idea chef nurse twenty evidence foam";
+var mnemonic = "bone bridge walk hurry inch venue butter special muffin village clog fire";

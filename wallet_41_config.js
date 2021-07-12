@@ -1,1 +1,1 @@
-var mnemonic = "destroy word record element join sight vehicle valve key ten dinner mushroom";
+var mnemonic = "buddy limit panel accuse forward mad blind earn again acquire cover relax";

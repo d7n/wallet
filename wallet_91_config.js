@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pyramid quick swim view mountain sphere merry alley awful crowd gallery";
+var mnemonic = "dizzy race vague interest dinner dance advance struggle travel price annual enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset crowd lab remove pledge valley little business discover fly clerk extend";
+var mnemonic = "armor cloud average assault panel sight heart toe lonely label prefer charge";

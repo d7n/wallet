@@ -1,1 +1,1 @@
-var mnemonic = "ankle worry wear dumb sugar stage lamp real stereo furnace awake shrimp";
+var mnemonic = "age ski hire shrug patch arena rebuild obvious option soup breeze shell";

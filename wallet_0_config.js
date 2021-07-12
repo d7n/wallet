@@ -1,1 +1,1 @@
-var mnemonic = "safe warrior around deliver debate scale key setup farm grunt sugar phone";
+var mnemonic = "rubber tip useless myself torch anger roast distance room craft arm hawk";

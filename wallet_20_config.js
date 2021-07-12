@@ -1,1 +1,1 @@
-var mnemonic = "arm nuclear health obey link upon mystery deny alter runway matrix win";
+var mnemonic = "address pair left device usage enlist video habit dry chef chapter pact";

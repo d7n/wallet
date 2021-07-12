@@ -1,1 +1,1 @@
-var mnemonic = "work open panel slam onion pact guide finish absurd giant grunt congress";
+var mnemonic = "inject snack ivory volcano myself strategy oak have assist strike ignore pill";

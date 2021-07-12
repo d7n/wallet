@@ -1,1 +1,1 @@
-var mnemonic = "theory rubber family hair meadow put basic finger absurd market concert law";
+var mnemonic = "duty good comfort entire remind barrel laundry praise weapon chunk purse turkey";

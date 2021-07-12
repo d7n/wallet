@@ -1,1 +1,1 @@
-var mnemonic = "sustain ride avoid cat else ankle uniform wreck gas coral fall stumble";
+var mnemonic = "entire world process dice account fat pioneer purpose cotton embrace assault palm";

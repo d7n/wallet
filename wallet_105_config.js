@@ -1,1 +1,1 @@
-var mnemonic = "inquiry dust boring unable reject suspect year distance theme quit fiction recall";
+var mnemonic = "broom trumpet oak stone off elbow sick reform solar excite position number";

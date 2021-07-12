@@ -1,1 +1,1 @@
-var mnemonic = "subway museum child grant gauge asthma congress bind broom whip repeat juice";
+var mnemonic = "fiscal deliver apart mammal soup render rookie festival palm kangaroo vault scout";

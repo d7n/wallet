@@ -1,1 +1,1 @@
-var mnemonic = "window visual unfair fitness buffalo orphan flame fun dizzy morning else simple";
+var mnemonic = "hour reunion organ until notable dutch struggle auction night shoe protect begin";

@@ -1,1 +1,1 @@
-var mnemonic = "risk mule slim window road wonder program blossom thunder siege dust save";
+var mnemonic = "pledge series engage unfold cart harvest monster hold debate globe hand medal";

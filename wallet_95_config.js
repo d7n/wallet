@@ -1,1 +1,1 @@
-var mnemonic = "silk trial clip spike physical example fog saddle thank depend unfair ecology";
+var mnemonic = "term where sand now proud entire sport copy come solution raven morning";

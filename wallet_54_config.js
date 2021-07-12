@@ -1,1 +1,1 @@
-var mnemonic = "engage wise trip camp member cube range choose access submit deal north";
+var mnemonic = "wealth notable account search upset average shiver grass salt truck auction woman";

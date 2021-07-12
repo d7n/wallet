@@ -1,1 +1,1 @@
-var mnemonic = "bachelor unveil autumn heart trust tone found original power oyster uphold prefer";
+var mnemonic = "innocent sibling club improve tumble rent pudding casual frozen inch tooth rug";

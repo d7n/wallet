@@ -1,1 +1,1 @@
-var mnemonic = "dignity record episode barely answer cheese portion normal kid comfort dilemma verify";
+var mnemonic = "detail salon ensure steak jewel tip park number spend era beef palace";

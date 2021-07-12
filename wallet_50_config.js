@@ -1,1 +1,1 @@
-var mnemonic = "best bamboo zoo almost good kiss table cabbage noodle soap vapor slender";
+var mnemonic = "broom cruise situate afraid artwork oblige warfare street bright absorb glad oyster";

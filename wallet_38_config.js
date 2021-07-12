@@ -1,1 +1,1 @@
-var mnemonic = "wheat mom between infant neck catch critic sand key open fan borrow";
+var mnemonic = "mixed immense mask wheel joy only flip field woman true ozone donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano dance title control fantasy earth zero group good pact rose attend";
+var mnemonic = "exercise major grain tone army eyebrow sudden arm amazing radio circle cereal";

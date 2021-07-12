@@ -1,1 +1,1 @@
-var mnemonic = "inside pistol also cancel notice put abuse transfer visa popular pretty stereo";
+var mnemonic = "enable parade move girl erosion waste twist design glory aisle camera ready";

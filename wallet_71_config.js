@@ -1,1 +1,1 @@
-var mnemonic = "layer city notable priority sock wrap unique discover juice trade census bird";
+var mnemonic = "clap all loud planet ethics submit bleak filter primary spring shuffle assume";

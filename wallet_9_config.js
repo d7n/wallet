@@ -1,1 +1,1 @@
-var mnemonic = "dismiss edit moral digital race charge hood dutch punch patrol abandon occur";
+var mnemonic = "torch skirt patrol bundle taste jelly term analyst stand puppy shy dutch";

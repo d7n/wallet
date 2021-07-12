@@ -1,1 +1,1 @@
-var mnemonic = "own crowd pond river nerve crime honey enrich anxiety ridge canyon differ";
+var mnemonic = "mandate detect mirror stool happy swap tomato super design number dry fall";

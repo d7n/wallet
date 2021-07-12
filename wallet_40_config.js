@@ -1,1 +1,1 @@
-var mnemonic = "vocal deputy wear night crash vessel mouse laugh involve stock cheap material";
+var mnemonic = "category mirror keen convince helmet reduce cart lab pool drive improve relief";

@@ -1,1 +1,1 @@
-var mnemonic = "couple robot almost wait actor thing above idea toss paddle tide point";
+var mnemonic = "clay forum arctic grape flock artwork glare suit hunt become wool give";

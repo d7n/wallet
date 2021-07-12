@@ -1,1 +1,1 @@
-var mnemonic = "humble three bus pony planet bar payment nephew lecture fragile never crawl";
+var mnemonic = "fire aware steel middle milk debate reduce kangaroo west desk someone quit";

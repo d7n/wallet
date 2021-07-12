@@ -1,1 +1,1 @@
-var mnemonic = "float rocket shine lava mom hero blouse snack damage solution cradle general";
+var mnemonic = "wish produce fortune range warfare empty iron wife provide scout clinic era";

@@ -1,1 +1,1 @@
-var mnemonic = "double glory oxygen junk horse air muffin warfare dynamic brain hill head";
+var mnemonic = "demise illness modify dog razor ordinary broom oak praise between trigger rich";

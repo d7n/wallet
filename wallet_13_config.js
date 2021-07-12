@@ -1,1 +1,1 @@
-var mnemonic = "flame tourist question become piano dawn earth practice picture beauty category agree";
+var mnemonic = "keep shoot elite loop jewel raccoon erode unable flower number claw mercy";

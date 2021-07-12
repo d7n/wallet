@@ -1,1 +1,1 @@
-var mnemonic = "maze crystal author denial machine creek doll bundle usage shell keen document";
+var mnemonic = "mask alter industry couple rebel faculty trade april awesome gun alone amused";
