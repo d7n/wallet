@@ -1,1 +1,1 @@
-var mnemonic = "lecture wrist hedgehog found exhaust oven rescue museum armor arm foot wheel";
+var mnemonic = "conduct key stereo trumpet visa innocent robot impulse february industry final rule";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid age globe student drill slight attack pudding cake volume belt alter";
+var mnemonic = "list mobile call claim rhythm control panther sting pulp market innocent trigger";

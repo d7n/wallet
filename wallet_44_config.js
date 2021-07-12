@@ -1,1 +1,1 @@
-var mnemonic = "real that body renew outside mind raccoon federal recipe quarter version body";
+var mnemonic = "goose tiny resemble carry brass brand fade rule loop nephew welcome hidden";

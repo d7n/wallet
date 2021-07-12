@@ -1,1 +1,1 @@
-var mnemonic = "because entry gold govern material tip infant domain pupil comfort blur boy";
+var mnemonic = "runway elder detail weapon hero thought credit same know space history sock";

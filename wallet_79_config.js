@@ -1,1 +1,1 @@
-var mnemonic = "piece reduce surface clerk song move midnight price forward glide rain penalty";
+var mnemonic = "coconut patient trim trophy accuse seed devote output legend afraid organ garbage";

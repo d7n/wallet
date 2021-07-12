@@ -1,1 +1,1 @@
-var mnemonic = "water state cover call gain client much survey fashion step local rival";
+var mnemonic = "arena shuffle raise female omit lemon baby dumb mammal dismiss profit impact";

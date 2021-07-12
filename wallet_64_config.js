@@ -1,1 +1,1 @@
-var mnemonic = "alpha blast pink raccoon comfort legend man expose rich hair walk shallow";
+var mnemonic = "vivid speak final flag avocado swift matter suffer truck clock evolve hint";

@@ -1,1 +1,1 @@
-var mnemonic = "surface maze search sausage avoid ostrich ring burger between grid round desk";
+var mnemonic = "result asthma dance lawsuit exhaust cheese exhaust radio love grant energy goddess";

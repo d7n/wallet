@@ -1,1 +1,1 @@
-var mnemonic = "glare pretty apple width enable arrange noise sell tell swallow since album";
+var mnemonic = "buddy alter tonight valve release version puzzle tiger penalty faint true mail";

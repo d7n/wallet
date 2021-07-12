@@ -1,1 +1,1 @@
-var mnemonic = "settle donate smart wealth food wish shoot cloth curve click mule ticket";
+var mnemonic = "slight curious dial utility knock comfort love ghost drama plug purity smart";

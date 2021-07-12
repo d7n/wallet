@@ -1,1 +1,1 @@
-var mnemonic = "apology blast arm bronze guilt dial screen above reduce ozone base venue";
+var mnemonic = "news disease history harbor kiwi traffic order useful example wolf bulb must";

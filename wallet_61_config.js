@@ -1,1 +1,1 @@
-var mnemonic = "humor legend fatigue transfer pony remove relax sponsor echo vocal rug fly";
+var mnemonic = "fever resource valley puzzle laugh arm car cruel warrior ribbon ship load";

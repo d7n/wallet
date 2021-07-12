@@ -1,1 +1,1 @@
-var mnemonic = "wire tongue van special fox action aware similar embark name brick earth";
+var mnemonic = "stand casual urge right film sponsor copper voice vital eye act weasel";

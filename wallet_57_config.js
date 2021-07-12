@@ -1,1 +1,1 @@
-var mnemonic = "innocent shift hawk jaguar wedding furnace benefit rice baby luxury dance buffalo";
+var mnemonic = "model scatter trial weapon tool express release picture father someone mansion gorilla";

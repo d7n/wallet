@@ -1,1 +1,1 @@
-var mnemonic = "eye aerobic wasp crew mushroom any pizza chunk basket eternal front brief";
+var mnemonic = "help either uncover dose accident host dignity garlic follow question eternal speed";

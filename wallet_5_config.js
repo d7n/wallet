@@ -1,1 +1,1 @@
-var mnemonic = "caught hobby creek finish supreme truly mirror boy charge glory silver target";
+var mnemonic = "found argue phrase neutral seed can bicycle swarm purse debris child mother";

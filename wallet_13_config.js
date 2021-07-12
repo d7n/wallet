@@ -1,1 +1,1 @@
-var mnemonic = "air antique eight over flame inhale garbage appear crawl either jeans exhaust";
+var mnemonic = "sick album play knee parent ramp apology remember stable stamp avocado fringe";

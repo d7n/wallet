@@ -1,1 +1,1 @@
-var mnemonic = "mirror ski bless sport noise bulk slice wrap figure joy sausage juice";
+var mnemonic = "receive seven mimic calm robust sweet shoe pyramid top foot guide topple";

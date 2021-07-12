@@ -1,1 +1,1 @@
-var mnemonic = "jazz edit lawsuit raise entire remain coffee unhappy enter erupt monkey soccer";
+var mnemonic = "awake cream dance there seminar gold improve open vault ribbon rifle venue";

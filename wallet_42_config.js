@@ -1,1 +1,1 @@
-var mnemonic = "crew mercy robot blanket impact wage police divorce mushroom useful leisure tray";
+var mnemonic = "van avoid lift attend month dish bridge elegant brother obscure boost marble";

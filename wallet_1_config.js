@@ -1,1 +1,1 @@
-var mnemonic = "still bamboo session tonight tide neck shock tank search inflict human border";
+var mnemonic = "clip puzzle awful solution divert plate cricket spend cabbage explain carpet derive";

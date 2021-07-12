@@ -1,1 +1,1 @@
-var mnemonic = "reveal such brisk rifle shock peanut output cereal remind fury girl grant";
+var mnemonic = "page alarm myself depend coach pelican barely purity way near foam obvious";

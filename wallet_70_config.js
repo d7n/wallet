@@ -1,1 +1,1 @@
-var mnemonic = "husband swallow elbow aim divorce comic unique love crane bike high expose";
+var mnemonic = "joke excuse ill liquid cup session short pair daughter dry amazing impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "page come juice exist waste volcano dolphin crush coast crop large maple";
+var mnemonic = "length leisure ring sport join height describe goose current motor brain error";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling alone piece wash artefact media dilemma enlist crawl strike best winter";
+var mnemonic = "mistake mule safe diamond topic crack shy power february secret test parade";

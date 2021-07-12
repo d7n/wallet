@@ -1,1 +1,1 @@
-var mnemonic = "choose stick scorpion traffic code rotate member utility shaft survey copy settle";
+var mnemonic = "nose exit stand various aunt claw length cupboard body obscure jeans trick";

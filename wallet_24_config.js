@@ -1,1 +1,1 @@
-var mnemonic = "box grocery pass behind battle enforce park poem increase label story hockey";
+var mnemonic = "tribe post entire hedgehog sniff soccer accuse wood evil jealous card wealth";

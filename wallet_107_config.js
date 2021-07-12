@@ -1,1 +1,1 @@
-var mnemonic = "tank fiber vacant relax evolve rent rapid student enemy motor table clown";
+var mnemonic = "wrestle worth grocery speed danger camera glass north cotton employ stick thrive";

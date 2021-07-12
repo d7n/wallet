@@ -1,1 +1,1 @@
-var mnemonic = "seek side strike middle trophy mind mix area zebra invest struggle solar";
+var mnemonic = "cause again borrow tomorrow year prosper all happy evidence latin rally good";

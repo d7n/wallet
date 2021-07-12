@@ -1,1 +1,1 @@
-var mnemonic = "stamp swamp undo depart stuff carpet field april shoulder govern manual wing";
+var mnemonic = "exit crumble around clown another enable bless april gather bottom butter trick";

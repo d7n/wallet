@@ -1,1 +1,1 @@
-var mnemonic = "cluster dragon shoot okay skirt cube ramp pass feed bitter digital proof";
+var mnemonic = "summer galaxy edge vast winner bacon lunar abandon venue gloom approve amused";

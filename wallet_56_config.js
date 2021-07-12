@@ -1,1 +1,1 @@
-var mnemonic = "enact person sample horror cover drill mosquito blur skin law army whip";
+var mnemonic = "space alpha cabbage reunion repeat session enough tennis beach area measure reopen";

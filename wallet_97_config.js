@@ -1,1 +1,1 @@
-var mnemonic = "demand bachelor saddle chalk trouble short outer soccer because woman amount fun";
+var mnemonic = "odor loop involve range dismiss pulp nerve afraid earn priority boy confirm";

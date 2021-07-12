@@ -1,1 +1,1 @@
-var mnemonic = "chapter maximum napkin enlist fiction butter mirror list swap height frequent pretty";
+var mnemonic = "suggest tag enjoy elephant grit private boil onion kit hen cement sight";

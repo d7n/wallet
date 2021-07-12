@@ -1,1 +1,1 @@
-var mnemonic = "deposit there issue seven bachelor lend oyster cart drastic liberty thrive divide";
+var mnemonic = "man target hundred direct angry bomb badge fury lava deputy drip survey";

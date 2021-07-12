@@ -1,1 +1,1 @@
-var mnemonic = "slice enlist stuff plastic manage boil smoke will luggage method ribbon lecture";
+var mnemonic = "fantasy hole window camp popular myth cross actor screen face trigger exit";

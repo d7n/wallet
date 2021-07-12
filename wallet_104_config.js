@@ -1,1 +1,1 @@
-var mnemonic = "bike option abandon blind topic atom faith coil emotion any update guess";
+var mnemonic = "notable arrow invite fire lucky relax black summer camera world sugar unfold";

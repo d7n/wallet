@@ -1,1 +1,1 @@
-var mnemonic = "struggle ride holiday rare depend maple giggle budget spawn dismiss soap harbor";
+var mnemonic = "little render false scrub provide upset noise owner alpha invite little laugh";

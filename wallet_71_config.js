@@ -1,1 +1,1 @@
-var mnemonic = "steel kid curve walk diary stage wheat grief refuse cloud dove pupil";
+var mnemonic = "must amazing canal orphan enlist phone sketch boy habit equip poem fog";

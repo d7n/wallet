@@ -1,1 +1,1 @@
-var mnemonic = "alone subway nice liquid chimney practice fat link pottery smart pigeon flag";
+var mnemonic = "beach clown upgrade cannon fitness cushion enhance glass shove alcohol amazing wheat";

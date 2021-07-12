@@ -1,1 +1,1 @@
-var mnemonic = "super copper prison wrap orange toe remove agent drop marriage key caution";
+var mnemonic = "favorite birth pretty calm cause verify mammal smile tooth chaos cream reopen";

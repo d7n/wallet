@@ -1,1 +1,1 @@
-var mnemonic = "session annual say van online menu course ghost awkward afraid stove upper";
+var mnemonic = "system arrest rule length inject fly equip jealous peace hard often dumb";

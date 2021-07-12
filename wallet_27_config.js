@@ -1,1 +1,1 @@
-var mnemonic = "wolf pilot coach height barely example tumble sun hotel pistol syrup differ";
+var mnemonic = "vapor pole gauge opinion such settle rib butter garage celery rookie valid";

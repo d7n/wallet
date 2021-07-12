@@ -1,1 +1,1 @@
-var mnemonic = "devote parade fly select dry online lake method black shove clean trigger";
+var mnemonic = "whip bean friend install acid flavor goat swarm popular exile random stable";

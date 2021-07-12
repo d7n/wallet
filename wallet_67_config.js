@@ -1,1 +1,1 @@
-var mnemonic = "hunt raw ice smooth meat share divert drift switch author very robot";
+var mnemonic = "keep myth evil inspire hello alpha dismiss style sport rack retire tip";

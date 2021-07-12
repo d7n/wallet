@@ -1,1 +1,1 @@
-var mnemonic = "offer youth host jungle pave script dose music town gain primary happy";
+var mnemonic = "ask fault actor over defense invest thrive lava wave mind rent attend";

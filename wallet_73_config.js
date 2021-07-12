@@ -1,1 +1,1 @@
-var mnemonic = "scheme lobster case embrace picnic subject little clinic blossom field toy route";
+var mnemonic = "tower almost will able exchange clump card idle mystery vibrant canvas sample";

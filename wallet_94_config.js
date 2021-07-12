@@ -1,1 +1,1 @@
-var mnemonic = "leave mobile rotate print wall skill good rescue nation play educate liberty";
+var mnemonic = "glance three garden north clerk ill finish husband sentence bean drum essay";

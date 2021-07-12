@@ -1,1 +1,1 @@
-var mnemonic = "merry woman exhibit fortune program lizard glow arrow neck horse lab wrist";
+var mnemonic = "dirt nurse day frozen moment burger combine antenna pilot tank skin cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "bus tube twin wonder judge poem diary utility sport soft add situate";
+var mnemonic = "grit industry reform tourist top manage vacuum ranch rent open control lonely";

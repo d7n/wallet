@@ -1,1 +1,1 @@
-var mnemonic = "excess claim pipe damp park correct grit client athlete step three harvest";
+var mnemonic = "someone wine sheriff coyote artefact version hockey quit shrug funny month little";

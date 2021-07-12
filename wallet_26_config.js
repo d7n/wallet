@@ -1,1 +1,1 @@
-var mnemonic = "guilt grief install rotate machine carpet blast water bid resist brass seek";
+var mnemonic = "rocket alien box foster eyebrow sleep math choice quiz boy lawsuit gate";

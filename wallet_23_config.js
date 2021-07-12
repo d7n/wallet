@@ -1,1 +1,1 @@
-var mnemonic = "siren seat drastic water section flip shuffle brass edit earn reason woman";
+var mnemonic = "miracle chest dog then very magic canal click shy prefer finger include";

@@ -1,1 +1,1 @@
-var mnemonic = "result auto crystal alert cheese act index coin blast rail honey arch";
+var mnemonic = "meadow bonus october deputy coil real owner goose milk crucial great input";

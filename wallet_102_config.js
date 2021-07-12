@@ -1,1 +1,1 @@
-var mnemonic = "hollow warm monster quiz divide faith cheese erode truck deputy oval word";
+var mnemonic = "cactus air rhythm opinion topple element prefer harvest frog okay utility width";

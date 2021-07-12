@@ -1,1 +1,1 @@
-var mnemonic = "category tomato floor occur corn critic naive orchard oppose sword fever merit";
+var mnemonic = "dial fiction diamond frost category deputy promote budget legal arrest merit people";

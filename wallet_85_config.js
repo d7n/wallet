@@ -1,1 +1,1 @@
-var mnemonic = "beef melt olympic tilt six decade senior arrive public tornado genuine pull";
+var mnemonic = "neither genuine cute happy shoot tip ankle address pelican season seed coil";

@@ -1,1 +1,1 @@
-var mnemonic = "polar trim cycle crucial female attitude source fitness today hotel say solid";
+var mnemonic = "pact attitude ring merry inner suffer weird interest brief bottom bind torch";

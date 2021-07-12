@@ -1,1 +1,1 @@
-var mnemonic = "staff evoke exhaust salmon radio pioneer weekend elegant around aerobic ocean west";
+var mnemonic = "delay scout again crucial blame merit sell position crisp client panda infant";

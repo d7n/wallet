@@ -1,1 +1,1 @@
-var mnemonic = "dignity design day series lens box later library chef path craft unveil";
+var mnemonic = "super taxi chapter tenant season isolate ignore grain banner success tide siege";

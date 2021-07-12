@@ -1,1 +1,1 @@
-var mnemonic = "negative park state inside stable only rival daring clutch essay action female";
+var mnemonic = "peace someone usual anger electric action sadness deputy lab hobby adapt woman";

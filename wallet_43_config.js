@@ -1,1 +1,1 @@
-var mnemonic = "absorb shield health long camp pair lecture wear arch message ribbon cousin";
+var mnemonic = "broken funny pumpkin thumb fat sort leader ribbon pole rice wire else";

@@ -1,1 +1,1 @@
-var mnemonic = "gun sadness wonder diamond silent reason rib vicious century elephant width drop";
+var mnemonic = "series gospel upper aerobic middle drop clay power idle cruise card mushroom";

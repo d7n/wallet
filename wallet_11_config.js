@@ -1,1 +1,1 @@
-var mnemonic = "rib village lucky captain sheriff able barely patrol arctic first hurt tail";
+var mnemonic = "order bread salmon coast auto dinosaur attend melody brother prison armed soul";

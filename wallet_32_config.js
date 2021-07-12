@@ -1,1 +1,1 @@
-var mnemonic = "brand security infant inner humor pulse update service demand goat capable tribe";
+var mnemonic = "demand prevent oil bundle walnut shock stand rookie security color foot thumb";

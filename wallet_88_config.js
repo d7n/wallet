@@ -1,1 +1,1 @@
-var mnemonic = "cash bike weather hold rough write ribbon lizard canal promote exile bleak";
+var mnemonic = "horror twin february grape list renew ghost piece student sting sign list";

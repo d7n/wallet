@@ -1,1 +1,1 @@
-var mnemonic = "spread praise casual twist evolve leisure february cannon kit lift ceiling era";
+var mnemonic = "pipe exile cigar panel imitate rude unaware cube lion lesson now velvet";

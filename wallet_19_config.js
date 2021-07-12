@@ -1,1 +1,1 @@
-var mnemonic = "body bachelor spoil uncover load rocket device nephew wise crime point slogan";
+var mnemonic = "file return ribbon final argue intact pave bargain century logic oval arch";

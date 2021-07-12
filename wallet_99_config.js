@@ -1,1 +1,1 @@
-var mnemonic = "bounce flavor glue grocery wave useful naive betray better stadium empty theory";
+var mnemonic = "monster depth palace mandate similar hotel coconut flush vendor all task erupt";

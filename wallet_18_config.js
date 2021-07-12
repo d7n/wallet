@@ -1,1 +1,1 @@
-var mnemonic = "soccer canal brand crew beef impose swallow unable fatal like column ghost";
+var mnemonic = "blue weird force leave uphold cabbage protect upper forest eight biology steak";

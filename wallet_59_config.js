@@ -1,1 +1,1 @@
-var mnemonic = "deposit wave mosquito wide category hello symptom leader pluck divorce cigar window";
+var mnemonic = "decorate soul sort feature brush emotion behind talent transfer december tonight begin";

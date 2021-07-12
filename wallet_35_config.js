@@ -1,1 +1,1 @@
-var mnemonic = "dignity bronze purity local region sudden feed scorpion aerobic gravity water lava";
+var mnemonic = "hazard cross opera vapor primary middle cruel pistol result fossil mouse hen";

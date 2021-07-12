@@ -1,1 +1,1 @@
-var mnemonic = "fog snow detect enemy ladder amount real enact bike peanut remove crew";
+var mnemonic = "find tomato world eagle argue task crowd main sell bar raven across";

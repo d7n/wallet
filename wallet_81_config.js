@@ -1,1 +1,1 @@
-var mnemonic = "chalk vintage sleep mix tobacco around shine strategy jeans laptop dose mom";
+var mnemonic = "fold quantum sweet finish learn evolve portion brand summer erode swift addict";

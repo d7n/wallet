@@ -1,1 +1,1 @@
-var mnemonic = "web eagle topic salt want slide flush merit resist announce license elephant";
+var mnemonic = "seminar space uncover mind toss one cotton finger enforce habit coconut chunk";

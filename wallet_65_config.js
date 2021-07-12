@@ -1,1 +1,1 @@
-var mnemonic = "civil trophy base lumber kite mimic more hockey slow tragic rocket wear";
+var mnemonic = "hurdle actual skill lucky okay bargain few differ wide school inside surprise";

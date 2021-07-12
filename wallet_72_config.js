@@ -1,1 +1,1 @@
-var mnemonic = "indoor theory battle steak dance bag surprise wonder mask symbol october planet";
+var mnemonic = "fabric aware test sadness valid label worry raven image attack match general";

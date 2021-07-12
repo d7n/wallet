@@ -1,1 +1,1 @@
-var mnemonic = "market sweet layer clutch sister diet loud tooth industry you protect enroll";
+var mnemonic = "coconut improve party sudden flag catch theme manual can mouse myself kit";

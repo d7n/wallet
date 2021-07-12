@@ -1,1 +1,1 @@
-var mnemonic = "soft truly call soda syrup tonight tornado spice slide flip gold will";
+var mnemonic = "ripple bacon blue pencil inner false fuel risk panel fix multiply model";

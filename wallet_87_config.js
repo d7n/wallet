@@ -1,1 +1,1 @@
-var mnemonic = "dignity broom giggle ice melody leopard deal until flash area head style";
+var mnemonic = "undo crazy design current gospel advice humble random grief mango analyst must";

@@ -1,1 +1,1 @@
-var mnemonic = "melt unhappy denial flash uphold age upon hood side strike huge corn";
+var mnemonic = "shop spring blind country genuine weather find secret latin poet tube patch";

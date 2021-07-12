@@ -1,1 +1,1 @@
-var mnemonic = "south shaft pill hole rabbit poet laptop zone track life lift trim";
+var mnemonic = "avocado dice train wait remember calm more denial pudding again tip column";

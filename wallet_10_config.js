@@ -1,1 +1,1 @@
-var mnemonic = "robust divert demise course age paddle mad menu divert cluster industry age";
+var mnemonic = "immune sick abandon hunt bench over strong lift frame thank lumber vanish";

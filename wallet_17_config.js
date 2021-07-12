@@ -1,1 +1,1 @@
-var mnemonic = "round speed wish aspect crystal thumb physical replace fatigue divide essay mix";
+var mnemonic = "oven sunset frequent seven library leader snake section hair cross brother wide";

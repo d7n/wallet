@@ -1,1 +1,1 @@
-var mnemonic = "raise theme fame left enrich habit aware defy young knife hamster uncle";
+var mnemonic = "inch sustain soul space carpet since deposit catch summer minute deny enjoy";

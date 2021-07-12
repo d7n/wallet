@@ -1,1 +1,1 @@
-var mnemonic = "memory attract industry win monkey nature street alley cruel conduct office help";
+var mnemonic = "arrive carry bonus muscle talent twice swarm bullet note right stereo fancy";

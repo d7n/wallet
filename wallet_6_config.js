@@ -1,1 +1,1 @@
-var mnemonic = "neck sentence oxygen pelican wall town drive among conduct bind deliver rely";
+var mnemonic = "cloud crisp heavy teach virtual rely bottom toss keen curve gym excite";

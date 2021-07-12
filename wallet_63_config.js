@@ -1,1 +1,1 @@
-var mnemonic = "mixture blanket eyebrow already odor machine craft detail venue proud maze into";
+var mnemonic = "upset attack crisp direct ecology fall wide february approve chalk swallow album";

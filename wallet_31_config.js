@@ -1,1 +1,1 @@
-var mnemonic = "flat layer caught real enough behind type color work wood slow blouse";
+var mnemonic = "object auction mixture height diary roast lawsuit dash error junior design weapon";

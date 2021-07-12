@@ -1,1 +1,1 @@
-var mnemonic = "want pledge recycle session awful famous debris permit advice idle evil ready";
+var mnemonic = "run crane tennis couch laptop depth cry loud spare merit memory yard";

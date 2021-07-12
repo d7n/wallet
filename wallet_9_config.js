@@ -1,1 +1,1 @@
-var mnemonic = "estate pole flee power angry blame flight legal damage sweet travel rare";
+var mnemonic = "stereo permit anger episode genuine obey soon hurt ticket muscle choose loan";

@@ -1,1 +1,1 @@
-var mnemonic = "best lock gossip benefit journey shift bleak super demand amount expect barely";
+var mnemonic = "total potato draft anchor banner rich rubber panel sail coach problem above";
