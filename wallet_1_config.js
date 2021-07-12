@@ -1,1 +1,1 @@
-var mnemonic = "shoulder middle inform choose easily economy plunge erupt plug gym price rural";
+var mnemonic = "before vast pass side pluck shop company spend rate turn gather trap";

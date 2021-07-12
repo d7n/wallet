@@ -1,1 +1,1 @@
-var mnemonic = "type bag reason balance elevator visa sock shine student travel agent number";
+var mnemonic = "require empty satoshi square liar pole company twin emotion ivory stereo custom";

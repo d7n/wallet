@@ -1,1 +1,1 @@
-var mnemonic = "bread stuff slush spice menu gadget update merry stay twin olympic welcome";
+var mnemonic = "outside mixed fetch feed wink require garment primary rally moment original gesture";

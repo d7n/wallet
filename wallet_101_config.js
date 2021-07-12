@@ -1,1 +1,1 @@
-var mnemonic = "sight home level drift crowd result coral fringe vital pool oak eager";
+var mnemonic = "sail insect excess struggle similar vital cat often honey live stuff butter";

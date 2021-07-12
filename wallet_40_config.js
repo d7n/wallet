@@ -1,1 +1,1 @@
-var mnemonic = "cannon raccoon myth flush eye pink laugh neck ecology tomorrow theme pulse";
+var mnemonic = "practice jaguar increase slender trigger decide client eager portion happy cover country";

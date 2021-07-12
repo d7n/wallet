@@ -1,1 +1,1 @@
-var mnemonic = "congress mimic avocado group party this team spatial reveal used planet thrive";
+var mnemonic = "pitch farm two pact brick wing amused wonder fan purchase mammal attend";

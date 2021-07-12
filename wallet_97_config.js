@@ -1,1 +1,1 @@
-var mnemonic = "rude trophy measure risk aware soon task awesome effort train city merge";
+var mnemonic = "supply clown spawn symbol volcano waste copper enrich pact frozen industry rice";

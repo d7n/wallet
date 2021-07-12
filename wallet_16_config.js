@@ -1,1 +1,1 @@
-var mnemonic = "require throw royal guard couple fatigue release evoke pig expire eagle jungle";
+var mnemonic = "elephant fault make run census release suspect tornado once advance rocket token";

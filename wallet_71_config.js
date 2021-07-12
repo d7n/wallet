@@ -1,1 +1,1 @@
-var mnemonic = "middle donate resource measure stool net code same gym indicate develop fee";
+var mnemonic = "great night beef lens swarm stove remember assault peasant squeeze allow brisk";

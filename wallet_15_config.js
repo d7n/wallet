@@ -1,1 +1,1 @@
-var mnemonic = "shoot bundle month boil year obey capital brass thunder shoe virtual behind";
+var mnemonic = "define author much clinic submit benefit vote small panic ugly dynamic grit";

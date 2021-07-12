@@ -1,1 +1,1 @@
-var mnemonic = "train iron top equip notable large protect language awful caution increase future";
+var mnemonic = "claim law drop december casino world bonus dose lion nature tag ice";

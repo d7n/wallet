@@ -1,1 +1,1 @@
-var mnemonic = "ceiling coin dinosaur unusual syrup width frost phrase pride scale snap slender";
+var mnemonic = "immense offer impulse profit width vault cash blade guitar gym lottery boost";

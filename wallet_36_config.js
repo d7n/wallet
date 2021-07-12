@@ -1,1 +1,1 @@
-var mnemonic = "photo modify bunker come track trend chest try pledge song elder skate";
+var mnemonic = "dawn page twice soap link salmon until tooth slim harsh icon bamboo";

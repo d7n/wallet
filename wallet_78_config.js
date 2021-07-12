@@ -1,1 +1,1 @@
-var mnemonic = "beef fringe rural side glance labor turtle degree obscure agree silk tape";
+var mnemonic = "mesh cinnamon picture foot night inside obey judge still theory exclude wisdom";

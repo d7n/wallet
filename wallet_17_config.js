@@ -1,1 +1,1 @@
-var mnemonic = "candy expose planet open wrong paddle crowd approve journey tuna festival into";
+var mnemonic = "trumpet spoil trust volume canoe kick harsh ankle artist duck snow agent";

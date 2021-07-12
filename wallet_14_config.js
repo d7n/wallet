@@ -1,1 +1,1 @@
-var mnemonic = "unveil over become trouble cancel island arm beyond split token boss silk";
+var mnemonic = "glance panda inform essence inmate suit squirrel park trouble alarm shine twice";

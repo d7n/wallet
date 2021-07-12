@@ -1,1 +1,1 @@
-var mnemonic = "split surge gadget speak oxygen kiss doll industry rabbit assist sentence grape";
+var mnemonic = "room arch cattle fresh castle crowd general industry suspect fortune sight mix";

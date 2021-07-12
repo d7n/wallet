@@ -1,1 +1,1 @@
-var mnemonic = "catch equal hero street virus kind click trip inside math art proof";
+var mnemonic = "genuine helmet reform penalty deny produce broom vacant outside require connect solid";

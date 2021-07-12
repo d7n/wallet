@@ -1,1 +1,1 @@
-var mnemonic = "sort retire result awesome away inner spawn swing material require image amateur";
+var mnemonic = "engage risk age surround present roast surround double unlock sustain cup slush";

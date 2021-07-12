@@ -1,1 +1,1 @@
-var mnemonic = "guess drive bronze suit flee oppose misery original gaze expand man safe";
+var mnemonic = "right choice eager notable start logic funny swift zoo nasty unhappy blush";

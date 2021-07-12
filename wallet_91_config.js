@@ -1,1 +1,1 @@
-var mnemonic = "drift rare glass era orchard eternal disorder output dismiss swallow suit shop";
+var mnemonic = "pulse among rubber cram toe include artefact economy dress random learn cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "long fatal casino release faint mean waste click sleep space garbage rival";
+var mnemonic = "broccoli decorate random price top hedgehog link creek home gossip project size";

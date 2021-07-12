@@ -1,1 +1,1 @@
-var mnemonic = "ridge pyramid detect inch mouse ticket jaguar rescue aware close hole blush";
+var mnemonic = "clever cart syrup angle process rotate mansion fine detect lyrics club ride";

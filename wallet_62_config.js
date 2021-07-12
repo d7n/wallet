@@ -1,1 +1,1 @@
-var mnemonic = "leisure vendor cotton clap erupt juice easily congress wise smooth one crater";
+var mnemonic = "insane destroy nest blade sausage win differ enact foam sing thing help";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome ecology direct turn expect hollow cloud learn nerve pluck legal pave";
+var mnemonic = "once corn oyster elevator water point sorry rabbit bless strong vapor life";

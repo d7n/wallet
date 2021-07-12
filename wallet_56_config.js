@@ -1,1 +1,1 @@
-var mnemonic = "broccoli enable car owner gloom initial spend gasp drastic increase together brother";
+var mnemonic = "tumble wealth strategy loan sunny crazy flash onion repeat guitar rally scan";

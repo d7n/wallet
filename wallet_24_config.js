@@ -1,1 +1,1 @@
-var mnemonic = "crash voyage omit bone response equip wool trial age hollow legal april";
+var mnemonic = "odor child laptop scorpion tongue skirt action project rotate twist bright reason";

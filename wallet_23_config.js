@@ -1,1 +1,1 @@
-var mnemonic = "again office place unknown banana marriage pupil sea they corn vendor end";
+var mnemonic = "route chunk dismiss brief awake file season era feature midnight depend solve";

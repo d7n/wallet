@@ -1,1 +1,1 @@
-var mnemonic = "fossil ball walnut order primary jeans absent theory obey peasant butter opinion";
+var mnemonic = "glory verify farm early rural girl mule vault bar journey cash brain";

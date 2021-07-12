@@ -1,1 +1,1 @@
-var mnemonic = "always client fossil festival ability catch decorate ivory develop antenna advice inspire";
+var mnemonic = "juice spice fold nose leave mercy runway dune goat biology luxury chat";

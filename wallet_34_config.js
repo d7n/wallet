@@ -1,1 +1,1 @@
-var mnemonic = "genre skull tribe sense dream brisk define lake build poem soap source";
+var mnemonic = "head job endless year better popular early frozen can anger power olympic";

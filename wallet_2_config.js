@@ -1,1 +1,1 @@
-var mnemonic = "mammal aim cost ask around finish observe ghost vacuum index finish couple";
+var mnemonic = "any jazz april what boring reform cup upset fatal tape blanket bird";

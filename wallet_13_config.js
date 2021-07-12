@@ -1,1 +1,1 @@
-var mnemonic = "iron deal end update country snow lunar proud afford dirt uniform advance";
+var mnemonic = "erupt limb bundle runway camera small absent response solid slot oblige mercy";

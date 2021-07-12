@@ -1,1 +1,1 @@
-var mnemonic = "energy brass artist sphere entry wash strong style judge profit broom still";
+var mnemonic = "lecture deny urban tag age grab biology cream alley orchard misery tower";

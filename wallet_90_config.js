@@ -1,1 +1,1 @@
-var mnemonic = "across mom between powder income over course ready combine maid make input";
+var mnemonic = "wet pizza liar humor black happy tourist return length crunch people saddle";

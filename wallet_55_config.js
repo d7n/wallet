@@ -1,1 +1,1 @@
-var mnemonic = "notice hundred lizard waste play rent square resist slice basket video also";
+var mnemonic = "club group satoshi leisure bless model bundle royal cinnamon vehicle tray middle";

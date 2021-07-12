@@ -1,1 +1,1 @@
-var mnemonic = "truth manage dune bronze side easy injury bundle nest weather bonus wasp";
+var mnemonic = "maple enroll physical embrace purchase dwarf deal shy level banner once carpet";

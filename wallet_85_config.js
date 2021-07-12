@@ -1,1 +1,1 @@
-var mnemonic = "armed during dry banana brother supply garage outdoor frame frost abandon bench";
+var mnemonic = "bronze pen decade minimum nasty trust drift below wall denial collect bonus";

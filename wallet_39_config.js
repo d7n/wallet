@@ -1,1 +1,1 @@
-var mnemonic = "fresh okay another hawk often office addict toss crystal warrior bridge zebra";
+var mnemonic = "alcohol venue pill fine humor shaft scan picture icon object box citizen";

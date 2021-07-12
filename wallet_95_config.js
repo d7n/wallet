@@ -1,1 +1,1 @@
-var mnemonic = "coral satisfy defense couple perfect allow yellow entire suit vivid meat say";
+var mnemonic = "involve fiber burger two forget garden swarm because prosper install neck ugly";

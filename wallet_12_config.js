@@ -1,1 +1,1 @@
-var mnemonic = "scene beach gesture century hockey duty dress asthma brain inch celery display";
+var mnemonic = "uniform kiwi tackle zebra differ paddle tuna quick summer lazy quality edge";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon among busy early gasp force arrange motion define wheat element soda";
+var mnemonic = "transfer neglect lecture height funny code unaware arm stem quote clerk more";

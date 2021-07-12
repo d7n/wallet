@@ -1,1 +1,1 @@
-var mnemonic = "capable toast illegal coast rotate lesson toss infant purity gallery predict mixed";
+var mnemonic = "gorilla height december witness cart march chimney zone fetch filter before swap";

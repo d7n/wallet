@@ -1,1 +1,1 @@
-var mnemonic = "develop business chaos pepper young century amazing drastic youth trap eyebrow main";
+var mnemonic = "behind shrug tattoo elegant gate speak erupt miracle remain cloud deer exile";

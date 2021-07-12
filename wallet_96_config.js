@@ -1,1 +1,1 @@
-var mnemonic = "level original clinic gas poverty planet tide doctor swarm clarify cave present";
+var mnemonic = "addict hurt split toe veteran practice vehicle brown swift reopen print video";

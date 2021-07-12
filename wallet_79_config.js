@@ -1,1 +1,1 @@
-var mnemonic = "census zebra december remember cousin garage step injury pudding that bubble junk";
+var mnemonic = "maple cigar hotel begin dwarf umbrella target present disorder audit wine phone";

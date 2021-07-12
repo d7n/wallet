@@ -1,1 +1,1 @@
-var mnemonic = "apart segment derive sick dwarf bargain nation often thrive price enlist poet";
+var mnemonic = "dose club notice creek velvet trophy feed matter depend noise crouch grunt";

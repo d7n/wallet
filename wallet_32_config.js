@@ -1,1 +1,1 @@
-var mnemonic = "seminar tube shift travel toast deer federal junk dry butter scrub divert";
+var mnemonic = "smart poem coach boring denial naive friend gain divert catalog genius identify";

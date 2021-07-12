@@ -1,1 +1,1 @@
-var mnemonic = "report human talent glove stand crush solve rose catalog tell logic leader";
+var mnemonic = "danger pole toe luxury symbol assist sausage head aspect sad visual asthma";

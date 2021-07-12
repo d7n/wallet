@@ -1,1 +1,1 @@
-var mnemonic = "pulp enrich achieve smooth city fine enroll siege wash endless still govern";
+var mnemonic = "mobile yard supreme impact miss since diagram uncover genius vessel repeat index";

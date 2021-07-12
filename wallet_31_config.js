@@ -1,1 +1,1 @@
-var mnemonic = "custom leg best unhappy wet wash skate invite business whisper draw buffalo";
+var mnemonic = "spawn laptop spawn sail sudden uncover remember put humble appear clump mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "often belt recall exhibit intact web work divert control dream journey pair";
+var mnemonic = "pause share flush enough cement scorpion effort rug blanket fossil thrive oppose";

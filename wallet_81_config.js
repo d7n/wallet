@@ -1,1 +1,1 @@
-var mnemonic = "love elder issue main dizzy fiscal odor search wood okay entry mandate";
+var mnemonic = "stereo marine boss nasty spider reopen index toy feed flat adult stairs";

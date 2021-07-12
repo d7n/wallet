@@ -1,1 +1,1 @@
-var mnemonic = "trick betray behave truck divorce embrace above chair little zebra unusual zero";
+var mnemonic = "mean sad engage danger jump enrich animal heart indicate tape dad another";

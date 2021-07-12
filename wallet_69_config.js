@@ -1,1 +1,1 @@
-var mnemonic = "speed dove panda bottom field ship shy tourist dinner host camp pistol";
+var mnemonic = "mass police layer trim cactus paddle wreck cheese fluid someone process moral";

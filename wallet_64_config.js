@@ -1,1 +1,1 @@
-var mnemonic = "ostrich flee shallow sort rude six tired gossip inspire okay stumble soccer";
+var mnemonic = "boring away rookie cage crew harbor snack repeat ecology supreme before behave";

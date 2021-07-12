@@ -1,1 +1,1 @@
-var mnemonic = "hockey warfare belt actress address globe seat over bind whip abandon occur";
+var mnemonic = "wet city number fine mix great shrimp add guitar draft mind feel";

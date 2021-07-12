@@ -1,1 +1,1 @@
-var mnemonic = "pony garlic slush domain vote small basic panther book protect always together";
+var mnemonic = "audit critic trash novel vault area response despair dolphin view place news";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy mouse name apple garden crew wrong burst reveal elephant silver gate";
+var mnemonic = "raccoon unfair crew rude popular battle holiday round chaos shadow parade pyramid";

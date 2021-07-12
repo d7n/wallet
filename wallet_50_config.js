@@ -1,1 +1,1 @@
-var mnemonic = "poet neglect plate since more fat column birth suit false evidence knock";
+var mnemonic = "dry then excuse mountain minimum claim hub female polar involve fury puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "stable spread dinosaur grit alley glass nerve pet scare drastic day absurd";
+var mnemonic = "tenant hedgehog lucky merit hollow survey ride duty ride couch toe fever";

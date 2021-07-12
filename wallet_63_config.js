@@ -1,1 +1,1 @@
-var mnemonic = "occur foam sponsor dial culture timber salon actual among team clerk floor";
+var mnemonic = "middle clay enact brief throw honey erode usual autumn foster grit wink";

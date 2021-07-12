@@ -1,1 +1,1 @@
-var mnemonic = "ill flavor similar hazard wolf furnace swear coral spoil soldier smoke concert";
+var mnemonic = "average enjoy lake cube post aunt core swallow mango sure belt donkey";

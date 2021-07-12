@@ -1,1 +1,1 @@
-var mnemonic = "try evil stuff swap pudding paddle burst beach skull early reveal next";
+var mnemonic = "skill drastic stamp lumber crane affair piano dizzy garden door ocean noodle";

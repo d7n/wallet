@@ -1,1 +1,1 @@
-var mnemonic = "direct whip negative reward dial milk broom police swing wheat vague suspect";
+var mnemonic = "runway snow firm arena discover exclude inmate walnut sniff blue answer suffer";

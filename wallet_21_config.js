@@ -1,1 +1,1 @@
-var mnemonic = "inmate hub focus arrest marriage view figure kick pudding shiver curious casual";
+var mnemonic = "arrange connect pitch merry voyage honey exact lizard runway happy forget announce";

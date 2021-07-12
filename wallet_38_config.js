@@ -1,1 +1,1 @@
-var mnemonic = "save hamster first peanut garlic stage nephew book place answer pole tribe";
+var mnemonic = "require canvas soon safe duck tonight spoil loud neglect kick client cupboard";

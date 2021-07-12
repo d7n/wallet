@@ -1,1 +1,1 @@
-var mnemonic = "agent robot alarm two hour planet trophy shrug brand fury voice gate";
+var mnemonic = "february mixed chronic arrange miracle credit raw place bulk august net live";

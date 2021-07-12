@@ -1,1 +1,1 @@
-var mnemonic = "author comic ginger crawl clock pool stable autumn cotton promote picnic soon";
+var mnemonic = "wife weekend negative tide raw wrist dirt fancy member oppose ahead decline";

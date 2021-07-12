@@ -1,1 +1,1 @@
-var mnemonic = "brush remain dentist iron clay carbon connect raven tool trouble caution similar";
+var mnemonic = "airport grid chapter size just crunch oxygen guard submit wrist opera collect";

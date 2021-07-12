@@ -1,1 +1,1 @@
-var mnemonic = "alert today art shiver neither gold treat payment unhappy ranch close lounge";
+var mnemonic = "valid page aunt novel uncover try possible gauge enhance cute fossil anger";

@@ -1,1 +1,1 @@
-var mnemonic = "wine sample sample dash merry body else sock panther angry fresh choice";
+var mnemonic = "exotic upper unveil tongue pear correct aware monitor sure exclude cage can";

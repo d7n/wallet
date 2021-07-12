@@ -1,1 +1,1 @@
-var mnemonic = "sign disagree account math popular oak section select poet claim surface owner";
+var mnemonic = "reflect snow camera child duty improve seek glove junk knife minute smile";

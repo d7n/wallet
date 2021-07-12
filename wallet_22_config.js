@@ -1,1 +1,1 @@
-var mnemonic = "universe injury certain sauce anger task approve jelly collect fatigue menu oblige";
+var mnemonic = "quality album release month empower gorilla solution neither gold family idea price";

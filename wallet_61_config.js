@@ -1,1 +1,1 @@
-var mnemonic = "mosquito diesel pet tower about busy cart mixture gate truly turtle point";
+var mnemonic = "segment grow viable spend start sausage okay distance shiver bachelor sound service";

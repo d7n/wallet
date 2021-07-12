@@ -1,1 +1,1 @@
-var mnemonic = "leave anger sentence humble usage punch canyon jealous yard swarm skirt explain";
+var mnemonic = "fresh amount maximum hybrid race fragile select promote pigeon alien paper mandate";

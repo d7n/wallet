@@ -1,1 +1,1 @@
-var mnemonic = "weather thank almost critic lend load cry paper melody theme inspire slender";
+var mnemonic = "wood biology wonder hour fox leaf chimney copper ring tumble talk target";

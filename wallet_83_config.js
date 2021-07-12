@@ -1,1 +1,1 @@
-var mnemonic = "high viable nothing arctic gift bind banana blood real frame impact run";
+var mnemonic = "crazy festival armed desk vital bless top deny suffer urban weekend tomorrow";

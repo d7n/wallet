@@ -1,1 +1,1 @@
-var mnemonic = "humble sense call zoo jeans plastic step mixture hamster spell snake output";
+var mnemonic = "swap soup virtual blood rhythm decade virtual twelve liberty fresh nephew devote";

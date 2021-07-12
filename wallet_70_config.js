@@ -1,1 +1,1 @@
-var mnemonic = "absent ketchup wheel version awake regret motion bike eagle erase giant coral";
+var mnemonic = "bless cover gift biology offer program leopard place bubble office muscle frog";

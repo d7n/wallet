@@ -1,1 +1,1 @@
-var mnemonic = "eight that flock debate annual develop submit best forum cross afford father";
+var mnemonic = "cliff tilt path dumb reject point bus sudden leisure fence field web";

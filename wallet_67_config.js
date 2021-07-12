@@ -1,1 +1,1 @@
-var mnemonic = "hawk valid hover sketch update general inner exile whale foot vendor mandate";
+var mnemonic = "vicious priority inquiry use pair edge dizzy earn common wheel excess mouse";

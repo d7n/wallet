@@ -1,1 +1,1 @@
-var mnemonic = "eye city strike umbrella renew accident garden dune argue hello fox return";
+var mnemonic = "expose insane cigar topic lecture carbon have vocal hood person sea robot";

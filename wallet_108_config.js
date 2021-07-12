@@ -1,1 +1,1 @@
-var mnemonic = "pretty garlic forum race salmon divert shift crumble season pistol produce hope";
+var mnemonic = "office away security custom humor acid hurdle turtle say canyon supply skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "toast turkey shrimp myself lobster smart ring virtual snake dinosaur tube play";
+var mnemonic = "peasant valley must cricket meadow frozen foil wheat chapter provide borrow truth";

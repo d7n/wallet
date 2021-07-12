@@ -1,1 +1,1 @@
-var mnemonic = "approve benefit doll attract describe ring crouch stamp bag woman spike neutral";
+var mnemonic = "wife million security reward cactus scale abstract loan outdoor desert drink tomato";

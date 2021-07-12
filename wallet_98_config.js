@@ -1,1 +1,1 @@
-var mnemonic = "service enlist team federal cute code matter code since danger uniform quantum";
+var mnemonic = "prepare produce monitor radio cup umbrella expire vendor toast naive critic later";

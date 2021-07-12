@@ -1,1 +1,1 @@
-var mnemonic = "paddle patch belt scrub credit cash page earn dice pizza write grid";
+var mnemonic = "cute save unusual session million flat velvet spread trend anger smooth atom";

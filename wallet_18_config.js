@@ -1,1 +1,1 @@
-var mnemonic = "tray target ramp strong develop tower rigid party erosion memory return law";
+var mnemonic = "come notice siege bitter dad stomach fall kitten spend valley master burst";
