@@ -1,1 +1,1 @@
-var mnemonic = "banner goose remind liquid modify faith run crystal hurry lake rich catch";
+var mnemonic = "twist expand defy base bullet boring ordinary spoil fork bike coral olympic";

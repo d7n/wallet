@@ -1,1 +1,1 @@
-var mnemonic = "embrace emotion sketch pass core ability embark rally slice sea milk panic";
+var mnemonic = "exclude later bamboo tone field notice airport garbage royal carbon rail short";

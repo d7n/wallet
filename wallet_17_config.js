@@ -1,1 +1,1 @@
-var mnemonic = "cruise artwork rare sponsor broken file earn pitch wood ozone bonus concert";
+var mnemonic = "time wing struggle insect famous amazing country parent rotate because world rookie";

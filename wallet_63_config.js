@@ -1,1 +1,1 @@
-var mnemonic = "urban fit state senior license wire flock lady south rival pony differ";
+var mnemonic = "attitude bottom slot spoil ill suggest october clip rain vessel expect raven";

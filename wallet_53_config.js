@@ -1,1 +1,1 @@
-var mnemonic = "trip grab purchase apple equip oil resist expect eager faculty topple huge";
+var mnemonic = "duty cheap decide injury today easily round survey speed sort smooth alarm";

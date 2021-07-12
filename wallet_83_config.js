@@ -1,1 +1,1 @@
-var mnemonic = "song life pulp inflict museum cross topic prevent floor since wool observe";
+var mnemonic = "month dismiss hotel material option display impose egg silver toast lamp crack";

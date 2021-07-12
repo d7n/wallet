@@ -1,1 +1,1 @@
-var mnemonic = "throw twelve produce abuse myth garlic slide cradle involve knife omit bless";
+var mnemonic = "know debate sunny swap drum cushion critic dose hidden hotel neck clean";

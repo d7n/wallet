@@ -1,1 +1,1 @@
-var mnemonic = "april end grocery inherit glass skill battle sustain judge deputy wheel source";
+var mnemonic = "empower sugar donate angle trophy regret same cricket winter result ceiling hungry";

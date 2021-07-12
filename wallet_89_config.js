@@ -1,1 +1,1 @@
-var mnemonic = "cousin amount height deal near enemy pond pigeon note dolphin chaos near";
+var mnemonic = "air belt define lyrics bundle insane song bulb girl palm bench tonight";

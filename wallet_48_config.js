@@ -1,1 +1,1 @@
-var mnemonic = "raven mind income thing cheese section help elite floor quick denial romance";
+var mnemonic = "mirror embrace right alter girl purse century hospital crunch armed mountain they";

@@ -1,1 +1,1 @@
-var mnemonic = "season witness govern doll olympic viable maple unable fiber invest leg input";
+var mnemonic = "recipe input thumb twist acid trumpet disorder strong soda stomach ensure humble";

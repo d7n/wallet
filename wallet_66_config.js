@@ -1,1 +1,1 @@
-var mnemonic = "barely jaguar chronic turn switch expire tray behave layer alpha dilemma accuse";
+var mnemonic = "news eager off bus obvious such inner broccoli dose tumble zone trial";

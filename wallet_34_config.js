@@ -1,1 +1,1 @@
-var mnemonic = "control erode tribe cool turtle combine eye team thumb stand logic garage";
+var mnemonic = "hour square short sibling isolate cat kit unable zone delay silent copy";

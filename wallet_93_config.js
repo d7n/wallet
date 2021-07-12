@@ -1,1 +1,1 @@
-var mnemonic = "mushroom rocket erupt put planet shoulder twenty poem select aim loyal scrap";
+var mnemonic = "scheme nuclear section honey parrot crouch bunker trend decide antique arrange thunder";

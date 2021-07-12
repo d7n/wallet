@@ -1,1 +1,1 @@
-var mnemonic = "soft park surface will obvious scorpion list vibrant excuse weapon crush play";
+var mnemonic = "swim student squeeze fluid amount uphold globe all hurt sad tonight choose";

@@ -1,1 +1,1 @@
-var mnemonic = "year usage correct author grit gun buzz civil soldier mosquito account two";
+var mnemonic = "across shock gospel explain phone ugly glide tonight view wreck cloud play";

@@ -1,1 +1,1 @@
-var mnemonic = "usual ginger talent furnace praise north tank drink theory box cactus hospital";
+var mnemonic = "soup rapid swear west valid creek dose soon crane kit spot such";

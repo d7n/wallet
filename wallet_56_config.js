@@ -1,1 +1,1 @@
-var mnemonic = "robot wait maid elbow basket blouse vocal episode oblige olympic story outside";
+var mnemonic = "air pass crop best assist ripple borrow zero you category rough ahead";

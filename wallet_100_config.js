@@ -1,1 +1,1 @@
-var mnemonic = "cereal drama tip settle letter exotic advance panther large fluid group census";
+var mnemonic = "stand stairs ocean coin injury vessel review panic round area tip arctic";

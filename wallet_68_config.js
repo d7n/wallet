@@ -1,1 +1,1 @@
-var mnemonic = "proof canvas struggle excess window captain car fever noodle gadget animal insane";
+var mnemonic = "wife glass girl vault social that tank practice pitch gesture immense belt";

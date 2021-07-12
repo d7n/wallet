@@ -1,1 +1,1 @@
-var mnemonic = "reduce vital spoon upset client essay laundry curve rose rail lion uphold";
+var mnemonic = "ripple cactus coach card want exclude write index unhappy shift blood twice";

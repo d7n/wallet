@@ -1,1 +1,1 @@
-var mnemonic = "skate screen lunar phone primary inch bottom story stairs dinner exile ramp";
+var mnemonic = "key dizzy lava rack gain secret squeeze fortune company street educate claw";

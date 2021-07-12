@@ -1,1 +1,1 @@
-var mnemonic = "alley hurdle climb couple jelly gloom cry brick agree game just business";
+var mnemonic = "athlete scare budget kiss chimney few tobacco exact copy sauce scatter ensure";

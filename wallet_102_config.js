@@ -1,1 +1,1 @@
-var mnemonic = "dawn desert sound leader panel maximum grid much guitar ramp coil aspect";
+var mnemonic = "develop hope member expect series remind duck force guitar neck family stool";

@@ -1,1 +1,1 @@
-var mnemonic = "engine fruit result wheat mandate agent talent close health lobster adjust night";
+var mnemonic = "say they clutch chicken path empty leisure upon found kite frost rocket";

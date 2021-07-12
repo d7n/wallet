@@ -1,1 +1,1 @@
-var mnemonic = "tattoo gaze arrest dumb setup either pause vintage round caution flat ramp";
+var mnemonic = "stumble tail erode width silver annual cloud design sun story marble nation";

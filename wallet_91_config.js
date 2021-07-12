@@ -1,1 +1,1 @@
-var mnemonic = "endorse reveal key toddler lonely true juice horror dove call estate banana";
+var mnemonic = "whale usage order piece render wolf fold ability upgrade tiger delay bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "silent confirm home trade scrap disease mirror city type door atom nominee";
+var mnemonic = "tomato kit voice employ cousin simple choice type jump bullet whisper shoot";

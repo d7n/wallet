@@ -1,1 +1,1 @@
-var mnemonic = "priority possible certain peanut divorce south mobile tackle hood such spin fault";
+var mnemonic = "lady original toss wing lesson gravity relax inform grunt core word weather";

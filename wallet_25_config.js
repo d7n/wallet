@@ -1,1 +1,1 @@
-var mnemonic = "ridge enough yard glass seven oyster smoke isolate hire neutral border essay";
+var mnemonic = "manage pony once member inquiry apology armor bless panda silver drill smoke";

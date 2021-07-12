@@ -1,1 +1,1 @@
-var mnemonic = "nasty company flag portion ranch magic excuse chair razor work wasp pledge";
+var mnemonic = "peace patrol bamboo scrap jealous good thank damp match fan vocal pretty";

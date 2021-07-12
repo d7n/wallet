@@ -1,1 +1,1 @@
-var mnemonic = "rally jewel swap genuine luggage satoshi coast egg yellow exotic inner decade";
+var mnemonic = "convince monkey weather tomorrow alone possible crunch surge gravity grunt pizza protect";

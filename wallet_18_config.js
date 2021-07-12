@@ -1,1 +1,1 @@
-var mnemonic = "rebel fancy distance actor agree sustain month birth decade deputy spy skate";
+var mnemonic = "minute across ski home measure exchange together excuse culture spring soft fox";

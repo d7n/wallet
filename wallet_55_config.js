@@ -1,1 +1,1 @@
-var mnemonic = "emotion connect gas drop shield amount lounge same family cat bean correct";
+var mnemonic = "power crawl junk trial jazz bless cousin target path below stumble wing";

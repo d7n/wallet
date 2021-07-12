@@ -1,1 +1,1 @@
-var mnemonic = "foil fish share wear suspect consider enter never bone gaze act shrimp";
+var mnemonic = "super grant jeans logic fortune club stage cross argue bench shield improve";

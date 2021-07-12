@@ -1,1 +1,1 @@
-var mnemonic = "alley salute goddess burger expand language repeat point believe gospel possible want";
+var mnemonic = "capable manage summer mail below fox minor shiver bring stool satoshi holiday";

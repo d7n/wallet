@@ -1,1 +1,1 @@
-var mnemonic = "zone strong dismiss topic make ostrich deposit detect pizza minor figure august";
+var mnemonic = "neutral clock list april abstract mom crawl brother robust hurdle armor float";

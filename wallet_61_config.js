@@ -1,1 +1,1 @@
-var mnemonic = "chef relief hollow vague matrix yellow horse universe library ivory now hour";
+var mnemonic = "surround force predict scale change idle degree meat own blush weapon luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "country allow error bring reunion clean actual benefit burden hazard hood tide";
+var mnemonic = "myself basic lonely device wide silent sight dial mind cliff cruise swim";

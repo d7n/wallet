@@ -1,1 +1,1 @@
-var mnemonic = "hungry habit blouse culture train captain orbit dumb innocent card cake wise";
+var mnemonic = "caught report soft distance color ring first cup scorpion various captain public";

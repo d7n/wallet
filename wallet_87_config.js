@@ -1,1 +1,1 @@
-var mnemonic = "draw lake strategy pulp book depth nation portion journey cannon summer used";
+var mnemonic = "minute tribe lazy cook sick arrive glory castle rude pottery visual tonight";

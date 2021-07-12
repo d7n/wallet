@@ -1,1 +1,1 @@
-var mnemonic = "sun farm battle small firm favorite decrease web barely viable cruise matrix";
+var mnemonic = "tube impose vanish solution miss large never will indicate eye extra crew";

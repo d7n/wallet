@@ -1,1 +1,1 @@
-var mnemonic = "clock blast fresh drink boat cliff all chat hunt absent extra eagle";
+var mnemonic = "add dish spoon forest fan damp lazy test artist ribbon blade trigger";

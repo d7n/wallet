@@ -1,1 +1,1 @@
-var mnemonic = "holiday purity avocado narrow sand attend able boost title short rude spy";
+var mnemonic = "dad film share diamond belt loyal steel patch dash retreat scan tumble";

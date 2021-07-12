@@ -1,1 +1,1 @@
-var mnemonic = "render thing powder drama pulse mandate chapter direct stereo define typical ramp";
+var mnemonic = "ribbon spare churn analyst brisk write bar leave myth define object address";

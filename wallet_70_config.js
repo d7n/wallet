@@ -1,1 +1,1 @@
-var mnemonic = "develop divorce escape achieve inhale kingdom account furnace useful squirrel pave science";
+var mnemonic = "actress hen fruit risk ketchup student place bunker digital engine project grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle allow hand intact grab plastic task flock unusual nose panel small";
+var mnemonic = "stuff popular bird adult attend song cheap evolve law luggage predict senior";

@@ -1,1 +1,1 @@
-var mnemonic = "weather people pave twin glance ladder adapt cheap comic rich garage mean";
+var mnemonic = "arrive match tongue element copper arctic cube spoon warm concert zoo artwork";

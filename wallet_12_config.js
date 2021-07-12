@@ -1,1 +1,1 @@
-var mnemonic = "matrix elite repair kingdom wood faith helmet fiction option sustain dilemma power";
+var mnemonic = "early torch trumpet powder predict chunk episode soccer inner lock pilot stem";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar range cup lend shrug sheriff game foam pave sorry spot velvet";
+var mnemonic = "gauge excuse guard adult area video lyrics dose poem okay rack heavy";

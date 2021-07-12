@@ -1,1 +1,1 @@
-var mnemonic = "soup expect very oval start rail symbol purity usage zebra tomorrow rubber";
+var mnemonic = "drastic rich wheat elevator grief little federal glimpse brave only doll often";

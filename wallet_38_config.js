@@ -1,1 +1,1 @@
-var mnemonic = "slam pottery capital few hockey regular box review outer target vintage bus";
+var mnemonic = "pledge empower loop whale enact dentist release dream chuckle anchor animal venue";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar rule demand degree cloud rich gloom jar dish narrow final arrow";
+var mnemonic = "skill service olympic beef essence picnic boy patient mushroom erosion doll federal";

@@ -1,1 +1,1 @@
-var mnemonic = "pool clerk comic gown visit inflict pride page much maximum mother pipe";
+var mnemonic = "virtual human farm trumpet proof fun strike wedding recall bottom rose card";

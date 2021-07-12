@@ -1,1 +1,1 @@
-var mnemonic = "cruise choose neglect cargo impact ski input basket laptop already shuffle august";
+var mnemonic = "lava page delay predict father gorilla ball toe setup climb couple large";

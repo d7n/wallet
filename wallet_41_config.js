@@ -1,1 +1,1 @@
-var mnemonic = "diagram volume seek front tiny portion false lake stamp immense cherry rebel";
+var mnemonic = "book devote mail live faculty blush web spike all assault favorite syrup";

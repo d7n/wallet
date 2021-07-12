@@ -1,1 +1,1 @@
-var mnemonic = "jungle about hand between hundred tired economy follow mixed relief field dilemma";
+var mnemonic = "one fire push flip first code chronic cluster lumber degree also pig";

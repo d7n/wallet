@@ -1,1 +1,1 @@
-var mnemonic = "obey increase clever person wine bonus grace demand tuition card secret cruise";
+var mnemonic = "wasp december mushroom idea fan auction olympic hub crime what memory century";

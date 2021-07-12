@@ -1,1 +1,1 @@
-var mnemonic = "express thrive idea snack female scare silly tower about clutch better fly";
+var mnemonic = "decrease hip trouble small stable echo maximum recipe island account link ranch";

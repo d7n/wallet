@@ -1,1 +1,1 @@
-var mnemonic = "stone dash expand liberty choose sheriff fame uphold mistake garden seek fringe";
+var mnemonic = "tray cousin curtain morning length nation home brass sweet prefer define clip";

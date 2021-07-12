@@ -1,1 +1,1 @@
-var mnemonic = "outdoor produce robot someone child asthma wear funny turtle dish install law";
+var mnemonic = "case hollow barely own aunt wasp maid change frozen income romance mango";

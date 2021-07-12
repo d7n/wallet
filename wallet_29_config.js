@@ -1,1 +1,1 @@
-var mnemonic = "record acoustic actress plunge carpet across more stone change session skin lunar";
+var mnemonic = "tennis increase country hamster faculty remove defy utility drive raccoon harsh runway";

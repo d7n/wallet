@@ -1,1 +1,1 @@
-var mnemonic = "rebuild silver across shift stove keen ahead daughter limb spice brave faculty";
+var mnemonic = "tumble elite cherry can tiny party grit stick layer innocent then young";

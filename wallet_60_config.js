@@ -1,1 +1,1 @@
-var mnemonic = "night select text clutch abstract food solid jacket someone ethics year apple";
+var mnemonic = "exile rabbit path express super identify body rose grid sing flight myth";

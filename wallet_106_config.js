@@ -1,1 +1,1 @@
-var mnemonic = "recycle crime happy athlete aware enemy profit suggest typical diamond pulse deliver";
+var mnemonic = "jacket actual office rely ankle wood square pledge cousin mixture craft tilt";

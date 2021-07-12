@@ -1,1 +1,1 @@
-var mnemonic = "elite yard wool brain grace subway tourist topple turtle want culture belt";
+var mnemonic = "topic horror height hope broom alcohol canyon limit actor tell wife drill";

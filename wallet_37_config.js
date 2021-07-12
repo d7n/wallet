@@ -1,1 +1,1 @@
-var mnemonic = "teach million mask brand spoon spell runway catch achieve toy tackle someone";
+var mnemonic = "acid olive bomb indicate defy blind immense announce snake portion inner relief";

@@ -1,1 +1,1 @@
-var mnemonic = "pen rubber plastic angry write rhythm predict swim general limb zone bulb";
+var mnemonic = "broccoli upper glass toilet crouch custom eagle survey indicate cherry castle trend";

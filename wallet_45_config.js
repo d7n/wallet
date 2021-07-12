@@ -1,1 +1,1 @@
-var mnemonic = "moment domain refuse verb canyon gravity luggage vague stay basic bean vacant";
+var mnemonic = "diagram mushroom crystal ball van scout menu ecology sunset athlete blame spice";

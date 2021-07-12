@@ -1,1 +1,1 @@
-var mnemonic = "lake gather drill mention bus chaos benefit assist screen pilot true wood";
+var mnemonic = "sweet tank jar exercise final amount thrive blind runway donkey bleak pride";

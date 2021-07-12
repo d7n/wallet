@@ -1,1 +1,1 @@
-var mnemonic = "casino dilemma ahead depth helmet drum sting wheat inch tired banner science";
+var mnemonic = "palm stand toward hard tower actual grant ill into resemble truth picture";

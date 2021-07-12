@@ -1,1 +1,1 @@
-var mnemonic = "profit mule artist poem idle anxiety casual electric night when banner device";
+var mnemonic = "lounge mother nephew pottery clog label rebel remain aware good ankle flag";

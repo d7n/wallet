@@ -1,1 +1,1 @@
-var mnemonic = "van subway shrug comic plate proof wine fiscal monitor mind zebra assist";
+var mnemonic = "grunt olympic stem open panel pledge error observe broccoli injury rain strike";

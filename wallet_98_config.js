@@ -1,1 +1,1 @@
-var mnemonic = "fruit school legal despair educate true orbit cause road maid trumpet absorb";
+var mnemonic = "gesture poet top response level gloom welcome pudding dinosaur tunnel net athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "frown false wife decrease reason ginger smart jacket word fringe divorce right";
+var mnemonic = "tell peasant argue stool have insane anchor term type sweet clown senior";

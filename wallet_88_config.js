@@ -1,1 +1,1 @@
-var mnemonic = "symptom tissue unlock hand enable auto soldier job exact since improve sight";
+var mnemonic = "submit margin risk bonus thumb tool cart jungle valve section cotton depend";

@@ -1,1 +1,1 @@
-var mnemonic = "tower census check kick bleak quote keen language menu vast turn educate";
+var mnemonic = "age twin kingdom call purpose cart tag change board sustain spell title";

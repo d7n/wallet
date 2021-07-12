@@ -1,1 +1,1 @@
-var mnemonic = "puppy width cream reopen amount already audit orbit certain pave flock teach";
+var mnemonic = "loop solid funny cabbage year truly churn very sugar clap jazz skin";

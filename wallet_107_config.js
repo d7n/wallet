@@ -1,1 +1,1 @@
-var mnemonic = "vacuum depth eyebrow right beauty hotel bottom brass cigar find trumpet cactus";
+var mnemonic = "hour document ride dragon enjoy rely oil mosquito feel burst crash basket";

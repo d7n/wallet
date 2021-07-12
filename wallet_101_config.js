@@ -1,1 +1,1 @@
-var mnemonic = "luggage addict warfare magnet boost security beef vacant enforce trophy milk often";
+var mnemonic = "where frozen neither seven hedgehog dove decline resemble middle spice peace already";

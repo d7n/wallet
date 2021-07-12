@@ -1,1 +1,1 @@
-var mnemonic = "unusual ready siren tunnel school lazy practice age essence run cruel cram";
+var mnemonic = "call helmet road dose gesture frog donkey uniform deal congress patient public";

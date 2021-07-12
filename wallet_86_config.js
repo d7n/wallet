@@ -1,1 +1,1 @@
-var mnemonic = "broccoli luggage host resemble country dinner address wedding valley release live armor";
+var mnemonic = "bid alcohol rebuild lounge fossil violin public security tennis zero wonder ten";

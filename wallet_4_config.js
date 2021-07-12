@@ -1,1 +1,1 @@
-var mnemonic = "life hire organ three faint faith type exact foot tomorrow latin waste";
+var mnemonic = "bulk involve detect powder audit boat venture perfect scissors post fall illegal";

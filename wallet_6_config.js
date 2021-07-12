@@ -1,1 +1,1 @@
-var mnemonic = "toddler excess egg congress view double ten melt detect forward survey fork";
+var mnemonic = "finish basket obey energy crucial toe zebra peace must dune bicycle talent";

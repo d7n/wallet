@@ -1,1 +1,1 @@
-var mnemonic = "whisper general thunder finish stairs very menu welcome horror smart airport become";
+var mnemonic = "muffin puppy useless loyal husband shock illness nerve horror useless traffic warm";

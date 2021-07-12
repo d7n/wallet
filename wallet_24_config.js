@@ -1,1 +1,1 @@
-var mnemonic = "panda high notable naive immune boy siren picture ocean emotion hood steak";
+var mnemonic = "annual arch describe random shuffle easy replace agent example april catalog tray";

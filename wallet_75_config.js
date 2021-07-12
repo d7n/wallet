@@ -1,1 +1,1 @@
-var mnemonic = "tenant cancel demise worth danger agent tree chapter flip dawn rate talk";
+var mnemonic = "index list pipe cactus march concert couch pilot choice alpha comfort asthma";

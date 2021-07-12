@@ -1,1 +1,1 @@
-var mnemonic = "river garbage auction senior afford owner any loyal health wolf erode margin";
+var mnemonic = "finger crater pink action spawn language onion roast motion good fragile smooth";
