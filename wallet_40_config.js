@@ -1,1 +1,1 @@
-var mnemonic = "address usual foil middle sleep economy switch hard oyster banana arrest initial";
+var mnemonic = "dinosaur grunt scheme canvas obtain explain frost trade gym bird planet ready";

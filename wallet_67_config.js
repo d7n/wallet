@@ -1,1 +1,1 @@
-var mnemonic = "pear squeeze age never bomb brand artefact clay hold surge giant expand";
+var mnemonic = "carry junk fatal chef sign prefer noodle crew ahead country buffalo asthma";

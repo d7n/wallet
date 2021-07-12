@@ -1,1 +1,1 @@
-var mnemonic = "defense shield field bike merit stomach input rubber expire level lunch bulk";
+var mnemonic = "satoshi bargain paper draft retreat ticket dentist wrestle topple series hour duty";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket decade season shoulder quote alarm also list flat truly shrimp network";
+var mnemonic = "hire load frame sad length resist pioneer tomato dawn oppose door portion";

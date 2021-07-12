@@ -1,1 +1,1 @@
-var mnemonic = "dress illegal same sweet assume another cluster hospital worry obvious cook diary";
+var mnemonic = "never jar sausage acoustic okay exercise engine middle pistol lucky monkey urge";

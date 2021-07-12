@@ -1,1 +1,1 @@
-var mnemonic = "ridge behind team fix human build wing gift volcano brother pumpkin piano";
+var mnemonic = "tenant rebuild setup fuel rate pipe butter omit identify reflect device path";

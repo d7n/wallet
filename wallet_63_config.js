@@ -1,1 +1,1 @@
-var mnemonic = "merit decide run slice gentle tornado badge option floor super edit clog";
+var mnemonic = "kiss brass engage husband title oppose connect update scissors doctor will provide";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle energy share spray tip afraid tomato unhappy armor fame sustain fancy";
+var mnemonic = "right spring alley tuition chronic echo cactus truly cinnamon chest help notable";

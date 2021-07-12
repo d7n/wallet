@@ -1,1 +1,1 @@
-var mnemonic = "lens senior dizzy then pyramid catch update valve arrive exercise pool cabin";
+var mnemonic = "result era replace worth awake expire tornado man galaxy ability table scatter";

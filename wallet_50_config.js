@@ -1,1 +1,1 @@
-var mnemonic = "half woman endorse spy response length upgrade faith nephew light carpet will";
+var mnemonic = "provide sport liar place sell snack useless lens visa ask work cradle";

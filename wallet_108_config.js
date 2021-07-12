@@ -1,1 +1,1 @@
-var mnemonic = "shield garment rocket physical unit coral average divorce old tumble seed disease";
+var mnemonic = "caught menu seven similar nest airport arrange clog lecture valve purity lock";

@@ -1,1 +1,1 @@
-var mnemonic = "remove soap lazy hungry anxiety steel evidence insane dutch share gesture october";
+var mnemonic = "deliver assume asset cricket reason employ peace narrow this need term leisure";

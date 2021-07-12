@@ -1,1 +1,1 @@
-var mnemonic = "name mixture marble love hawk era step borrow dove own admit eager";
+var mnemonic = "skull jar chuckle strong steel trophy rubber pole tortoise word auction about";

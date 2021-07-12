@@ -1,1 +1,1 @@
-var mnemonic = "pyramid rabbit grow now umbrella choice fortune survey deputy frown giant always";
+var mnemonic = "buddy culture settle bonus black control return circle border rather bundle edit";

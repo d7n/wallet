@@ -1,1 +1,1 @@
-var mnemonic = "illness drama salad shoe faint mammal shallow state buffalo mail chair wild";
+var mnemonic = "trophy suggest pave shoot term copper sausage disease write aerobic page average";

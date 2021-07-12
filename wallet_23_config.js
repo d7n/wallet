@@ -1,1 +1,1 @@
-var mnemonic = "place cry giggle cream install cook wrong device erosion shoot jealous month";
+var mnemonic = "tumble inflict parade true upgrade glance divide speak exclude you wage title";

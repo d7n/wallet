@@ -1,1 +1,1 @@
-var mnemonic = "urge ball island identify sponsor exercise light melt remove fall radar prosper";
+var mnemonic = "hour design puzzle nominee glue cost portion shine cream indicate alter mother";

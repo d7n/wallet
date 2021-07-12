@@ -1,1 +1,1 @@
-var mnemonic = "example forget seven clip fiction wolf lamp good radio seminar hill grab";
+var mnemonic = "slender inside glimpse rebel dragon allow foil review liar embark mercy regret";

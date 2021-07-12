@@ -1,1 +1,1 @@
-var mnemonic = "february dress what intact rib ahead awkward reason across cinnamon vehicle acid";
+var mnemonic = "remind amused elegant letter agree grab exchange filter book test exhibit amount";

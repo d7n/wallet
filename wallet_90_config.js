@@ -1,1 +1,1 @@
-var mnemonic = "action whip ice suggest category defy mask win depth way thank carbon";
+var mnemonic = "tiger hub fine cream neither regular replace cricket cover wage rate human";

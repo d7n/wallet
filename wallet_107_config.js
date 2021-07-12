@@ -1,1 +1,1 @@
-var mnemonic = "win gentle giggle jaguar exact dumb gun settle fire critic endless close";
+var mnemonic = "tube bachelor pretty bean zebra bench twist coil joy engage civil minor";

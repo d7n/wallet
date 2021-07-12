@@ -1,1 +1,1 @@
-var mnemonic = "sausage shop boss task amateur east develop small link mountain general flip";
+var mnemonic = "head grid prefer street flip double water kit bachelor donkey major belt";

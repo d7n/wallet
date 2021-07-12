@@ -1,1 +1,1 @@
-var mnemonic = "wasp purchase arch walnut purchase milk remove valve oxygen lyrics amount include";
+var mnemonic = "huge reunion scrub senior potato spoon fault obscure steak box wash senior";

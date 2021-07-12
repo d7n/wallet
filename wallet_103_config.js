@@ -1,1 +1,1 @@
-var mnemonic = "safe fetch popular depend card company mimic cereal spirit pupil burden cattle";
+var mnemonic = "arrow point hotel universe pull cost sudden recall symbol figure kiwi brave";

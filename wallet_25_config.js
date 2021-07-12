@@ -1,1 +1,1 @@
-var mnemonic = "monkey pilot panther castle equal vibrant right only advance mirror area dolphin";
+var mnemonic = "million whale sniff absorb clock enlist develop glory forest vast round special";

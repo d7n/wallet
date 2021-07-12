@@ -1,1 +1,1 @@
-var mnemonic = "steel start object book net audit depth elite wife ride okay heart";
+var mnemonic = "false cluster sentence top kiwi speak during lumber state pear certain chest";

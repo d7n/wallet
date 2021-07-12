@@ -1,1 +1,1 @@
-var mnemonic = "draft long opinion curious tip true eight runway master winner blood room";
+var mnemonic = "immune dynamic life obtain rotate nephew slogan scrub grid real breeze panic";

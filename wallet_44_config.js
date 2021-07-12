@@ -1,1 +1,1 @@
-var mnemonic = "solution about measure domain area scale bid blur alpha benefit before phone";
+var mnemonic = "curve burst avoid ahead mixture fruit return worth order upon civil liquid";

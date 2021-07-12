@@ -1,1 +1,1 @@
-var mnemonic = "require unable annual broken clog animal pole allow fly hawk rookie soccer";
+var mnemonic = "rigid gown used inside flight idea rate improve hand sound harvest ugly";

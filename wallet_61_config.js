@@ -1,1 +1,1 @@
-var mnemonic = "garbage health ritual body gather top cinnamon again route devote announce buzz";
+var mnemonic = "blossom target balcony glory six cargo police winter strategy lamp light world";

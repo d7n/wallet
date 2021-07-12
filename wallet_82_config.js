@@ -1,1 +1,1 @@
-var mnemonic = "december vibrant memory fabric coyote notice average amazing enjoy cheese trade duck";
+var mnemonic = "cake peanut hungry wrap hard spawn sunny problem grocery music gauge pond";

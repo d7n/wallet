@@ -1,1 +1,1 @@
-var mnemonic = "wish orient surround occur monitor cream tortoise jungle swap lake net stool";
+var mnemonic = "sand ostrich pear predict bid exit catch door salt ranch physical connect";

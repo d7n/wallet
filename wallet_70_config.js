@@ -1,1 +1,1 @@
-var mnemonic = "neglect hobby math ripple season punch pyramid uphold want project thumb entire";
+var mnemonic = "gentle clay shield try cry teach rain cover pill arch bring bag";

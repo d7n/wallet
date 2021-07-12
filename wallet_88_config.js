@@ -1,1 +1,1 @@
-var mnemonic = "brand patient primary exhaust since exit festival vibrant correct rhythm army old";
+var mnemonic = "adult tired maple before purchase mirror young cousin inherit century senior obtain";

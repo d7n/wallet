@@ -1,1 +1,1 @@
-var mnemonic = "beach atom chief sting tackle coffee fossil country clay acid isolate metal";
+var mnemonic = "atom boss liberty grunt little notice marine common powder begin snow reform";

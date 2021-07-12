@@ -1,1 +1,1 @@
-var mnemonic = "vendor witness write reason fade ten ten horror check kidney ancient chaos";
+var mnemonic = "heavy smart step bullet achieve decline topple glance push own around tube";

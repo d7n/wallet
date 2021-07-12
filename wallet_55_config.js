@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog judge steel example panda agent early mosquito across perfect manual theme";
+var mnemonic = "decrease apple gym audit cricket coffee spoon design spawn short breeze man";

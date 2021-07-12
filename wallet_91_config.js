@@ -1,1 +1,1 @@
-var mnemonic = "accuse sentence outdoor idle tent unit hotel dune found leg coin detail";
+var mnemonic = "side obey join diagram fruit arch globe blush finish amount animal you";

@@ -1,1 +1,1 @@
-var mnemonic = "flee sibling enable come river broom note lizard south rail bread cinnamon";
+var mnemonic = "coral universe cave canoe easily wave space cart capable brand then search";

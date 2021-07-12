@@ -1,1 +1,1 @@
-var mnemonic = "swamp reunion melt desert faculty hamster chat grow acquire gather uphold review";
+var mnemonic = "room mercy absent amused unhappy upper ozone draft abstract pair chicken uphold";

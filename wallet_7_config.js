@@ -1,1 +1,1 @@
-var mnemonic = "worry endorse fog sniff emerge glue sponsor when letter great wolf festival";
+var mnemonic = "service summer imitate inhale eight ancient aunt bounce snap grass zone endorse";

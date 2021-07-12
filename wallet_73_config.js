@@ -1,1 +1,1 @@
-var mnemonic = "gaze tired vapor glory mobile learn pact lift excess report isolate fury";
+var mnemonic = "satisfy awful ostrich letter pilot suspect person maple require stereo twelve harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "curious text divorce alert dinosaur robust drastic winter spray corn rigid slow";
+var mnemonic = "focus glove tortoise honey river asset off edge size album shed mention";

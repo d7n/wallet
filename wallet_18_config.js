@@ -1,1 +1,1 @@
-var mnemonic = "rare expect discover unfold exhibit rescue push valid grace basket smart tide";
+var mnemonic = "rapid genre thank laundry affair cabbage release hurdle clay man fringe immune";

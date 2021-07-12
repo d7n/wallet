@@ -1,1 +1,1 @@
-var mnemonic = "unfold staff genre mansion tortoise excess grunt omit say tongue link ridge";
+var mnemonic = "exist depth obscure oyster print echo fatigue pudding weasel angle medal confirm";

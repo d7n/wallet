@@ -1,1 +1,1 @@
-var mnemonic = "evidence spell adult treat fresh fatigue pattern sign please main cube bid";
+var mnemonic = "rich hood boat useless remember spread mad actor season junk pass rabbit";

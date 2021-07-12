@@ -1,1 +1,1 @@
-var mnemonic = "piano robot glad injury diamond antique believe horn kitchen donor aerobic decade";
+var mnemonic = "purity bracket must receive wheel round right home drill speed breeze wing";

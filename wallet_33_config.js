@@ -1,1 +1,1 @@
-var mnemonic = "dog top athlete buyer ability cloth hunt account prison dawn whisper around";
+var mnemonic = "key razor normal limb load elevator table tiny flight outer grit grief";

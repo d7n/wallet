@@ -1,1 +1,1 @@
-var mnemonic = "salt girl sad fetch update rack fault only protect reopen riot face";
+var mnemonic = "document entry antique curious neglect upper clip food penalty year shallow reason";

@@ -1,1 +1,1 @@
-var mnemonic = "rough leader melt album blush wage setup hunt sustain control topple grocery";
+var mnemonic = "angle scale recall canoe slow dust notice asset direct fragile edge myth";

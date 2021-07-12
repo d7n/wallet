@@ -1,1 +1,1 @@
-var mnemonic = "tide volcano arm rely vocal oppose grace pole produce skin steak material";
+var mnemonic = "zebra space bicycle man else remind dismiss lab pond wild call wish";

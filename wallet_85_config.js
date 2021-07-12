@@ -1,1 +1,1 @@
-var mnemonic = "nothing ecology drill viable ripple vote asset clog sell cook stuff neglect";
+var mnemonic = "movie always fee cycle blue hundred forum sunny junior calm steel toward";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial stairs diagram text choice orchard impact rocket grant spirit candy price";
+var mnemonic = "detect enlist velvet theory embrace weird report churn ten mountain mosquito spider";

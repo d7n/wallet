@@ -1,1 +1,1 @@
-var mnemonic = "swear suspect sponsor girl noise live duty garden heart element today act";
+var mnemonic = "maple silent garage cruise misery artist report once teach mother wait burst";

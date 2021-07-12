@@ -1,1 +1,1 @@
-var mnemonic = "know liar camp soon fish bless layer mango shoe lonely fan square";
+var mnemonic = "chronic clutch exact zero glad faculty crowd dismiss monster finish capital poet";

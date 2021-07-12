@@ -1,1 +1,1 @@
-var mnemonic = "athlete mystery inject awkward hobby entry oak cool wait assist cloth float";
+var mnemonic = "sick tape disease square become trumpet humor motion silver veteran fire slab";

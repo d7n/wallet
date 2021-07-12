@@ -1,1 +1,1 @@
-var mnemonic = "diary jump escape mask whisper whisper remove adapt material during harsh maze";
+var mnemonic = "deny school filter section range family proof squeeze kangaroo control barrel scene";

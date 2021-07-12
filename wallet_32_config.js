@@ -1,1 +1,1 @@
-var mnemonic = "night example service spider edit denial carbon casino hawk excuse inject inner";
+var mnemonic = "excuse pizza acoustic vital inspire hedgehog impact cheese april type cream nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "phone globe zebra reveal maid cover eyebrow consider cinnamon finish marble film";
+var mnemonic = "later crowd castle stock mansion license fetch powder tennis pilot relax slender";

@@ -1,1 +1,1 @@
-var mnemonic = "image total critic loan zone hamster insect ensure such boss found execute";
+var mnemonic = "tackle type inflict water crazy update album awful cave solution woman dish";

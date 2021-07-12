@@ -1,1 +1,1 @@
-var mnemonic = "cabbage feed mixture sentence bridge quick salad marine fold grunt core speed";
+var mnemonic = "brass estate walnut hazard cabbage tragic design habit deer enlist ghost early";

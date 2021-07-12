@@ -1,1 +1,1 @@
-var mnemonic = "output chief beach mandate pool brother suit cave lens jealous cargo dignity";
+var mnemonic = "calm burst mass girl wrestle story wish pulse amount join quantum move";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor marble music bacon unable tilt mixed east spider green absorb royal";
+var mnemonic = "explain melody like scissors buffalo decade inmate ask effort gate they swim";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise museum old skate fish error snack symptom sausage mercy design gun";
+var mnemonic = "like proof love observe apart gorilla vehicle math vehicle usage net domain";

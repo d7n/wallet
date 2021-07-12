@@ -1,1 +1,1 @@
-var mnemonic = "response stamp drive dolphin love master shoulder fragile alien father inherit neither";
+var mnemonic = "smoke stadium menu galaxy hill hat carpet another tumble creek hat puzzle";

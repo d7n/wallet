@@ -1,1 +1,1 @@
-var mnemonic = "steel spot noble family clump main brush bargain subject loop park dash";
+var mnemonic = "verify rotate satisfy hazard siren humble fossil time fly sketch because mixed";

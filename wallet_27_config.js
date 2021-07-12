@@ -1,1 +1,1 @@
-var mnemonic = "sunset tennis employ piano person faculty head unusual million pattern stand tilt";
+var mnemonic = "keep lumber syrup frost pet genius reason gadget nerve neither alarm will";

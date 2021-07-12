@@ -1,1 +1,1 @@
-var mnemonic = "country genius hold forget offer faculty possible door drill fatal fine pause";
+var mnemonic = "dad helmet fatal solid doctor elephant neutral uncover reopen essay inherit together";

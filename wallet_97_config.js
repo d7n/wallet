@@ -1,1 +1,1 @@
-var mnemonic = "snow midnight bulk buzz lake game shoe hole whisper very smooth enhance";
+var mnemonic = "antenna extend seat roof earth tower goat shrug menu number repair dream";

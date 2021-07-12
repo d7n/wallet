@@ -1,1 +1,1 @@
-var mnemonic = "tone pave ugly nice pottery index large process crouch pet angle buddy";
+var mnemonic = "inflict grief inspire neither appear whisper vanish scene arrange unusual merit notable";

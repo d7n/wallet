@@ -1,1 +1,1 @@
-var mnemonic = "beyond student bring disagree cherry hammer allow burden rather spoil better bamboo";
+var mnemonic = "discover obtain material destroy ritual consider test chuckle excuse boss practice laptop";

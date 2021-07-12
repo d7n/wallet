@@ -1,1 +1,1 @@
-var mnemonic = "absorb vault song suspect public sponsor busy spirit offer super service crazy";
+var mnemonic = "palace beef unable meat miracle fox stadium snap vicious solution enact end";

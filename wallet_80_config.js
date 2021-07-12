@@ -1,1 +1,1 @@
-var mnemonic = "pen slim there route attend tilt attitude glimpse name rough output immense";
+var mnemonic = "copper aunt process shadow error hint fragile puppy remove wrong clap great";

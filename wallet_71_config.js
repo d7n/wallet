@@ -1,1 +1,1 @@
-var mnemonic = "joke tobacco elevator work tobacco slam cluster invite salt rifle curve fuel";
+var mnemonic = "old sketch rent dizzy crater wealth task final giggle title globe gun";

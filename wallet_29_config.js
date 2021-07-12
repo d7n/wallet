@@ -1,1 +1,1 @@
-var mnemonic = "consider hotel bind swarm ski client section purpose else glue half scheme";
+var mnemonic = "confirm genre sausage wolf album cancel harvest rural claw hobby shine giant";

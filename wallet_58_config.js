@@ -1,1 +1,1 @@
-var mnemonic = "bulk sort arrive quick gun jaguar negative screen system stumble woman humble";
+var mnemonic = "label shed spatial super slice month champion common margin urban machine craft";

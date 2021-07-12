@@ -1,1 +1,1 @@
-var mnemonic = "put album erosion make place lady topple fall fat abuse team toddler";
+var mnemonic = "hurt clean asthma around catch extra poet kind behind weapon tank energy";

@@ -1,1 +1,1 @@
-var mnemonic = "replace plate hen flee result easy family paper subject lens that puppy";
+var mnemonic = "pizza know innocent badge snake artist work sentence keen range orient razor";

@@ -1,1 +1,1 @@
-var mnemonic = "charge shoot uncle genius casino target suit limit film harbor sunset foam";
+var mnemonic = "street public more clump wrestle appear foster stuff fun muscle tell sand";

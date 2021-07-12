@@ -1,1 +1,1 @@
-var mnemonic = "point roast inspire file ghost wedding visual motion spider slush obey stable";
+var mnemonic = "magic pool uncover crazy kitten pistol gas mammal mango front unable gauge";

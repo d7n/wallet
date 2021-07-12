@@ -1,1 +1,1 @@
-var mnemonic = "elder witness approve duck skull portion flush mammal match second ghost talent";
+var mnemonic = "wool kitten early express noodle hill bomb lawn crystal shuffle switch knee";

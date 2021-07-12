@@ -1,1 +1,1 @@
-var mnemonic = "ice scrub project eternal daughter amateur replace plate elephant fabric fresh sand";
+var mnemonic = "dose attitude width hotel crush guard citizen next vocal type certain ready";

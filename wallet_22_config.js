@@ -1,1 +1,1 @@
-var mnemonic = "casual luggage mule crater city decade nature gun jaguar south reduce lyrics";
+var mnemonic = "distance will jaguar bless view chronic depend drink dose owner pact you";

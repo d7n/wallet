@@ -1,1 +1,1 @@
-var mnemonic = "twenty help strategy move armed click broom evil business truly picnic pottery";
+var mnemonic = "employ fold hard spike that force movie proof voyage evolve oak head";

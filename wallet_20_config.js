@@ -1,1 +1,1 @@
-var mnemonic = "floor luggage cheap glue fly power soft screen meadow worth travel vast";
+var mnemonic = "genuine glare waste light east muscle device strategy setup good little dove";

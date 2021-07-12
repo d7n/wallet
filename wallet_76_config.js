@@ -1,1 +1,1 @@
-var mnemonic = "foil issue erode hungry pepper stove trap upon bleak price garment hope";
+var mnemonic = "present machine pool easy object detect body news soap emerge eagle unfair";

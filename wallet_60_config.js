@@ -1,1 +1,1 @@
-var mnemonic = "hurdle gaze obey sort warrior path diary left lock milk young find";
+var mnemonic = "almost sense cargo dose urban wait sing brick obey clip drip crouch";

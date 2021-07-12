@@ -1,1 +1,1 @@
-var mnemonic = "little illness vanish track rose base pony lawsuit seat rookie armor first";
+var mnemonic = "dress identify sad stock thrive ordinary video legal increase idea viable lock";

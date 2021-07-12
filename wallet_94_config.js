@@ -1,1 +1,1 @@
-var mnemonic = "oil river jewel list final canvas beauty bench piano pair minor receive";
+var mnemonic = "border attract essay silent panda blossom bar basic owner infant home sweet";

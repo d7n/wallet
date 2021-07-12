@@ -1,1 +1,1 @@
-var mnemonic = "pioneer youth decrease south silent ability during myself grow plastic wasp require";
+var mnemonic = "absurd vivid panic again sun daughter security acquire burden include cotton awful";

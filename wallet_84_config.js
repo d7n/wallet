@@ -1,1 +1,1 @@
-var mnemonic = "pole wine aspect wait grain merry toilet pepper segment whale drama half";
+var mnemonic = "room side asthma example license wing sentence lamp gym hobby youth plastic";

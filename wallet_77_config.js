@@ -1,1 +1,1 @@
-var mnemonic = "earn polar daughter stem glory rival attack plate odor nothing mouse pony";
+var mnemonic = "enact defense ring scare rent razor indoor delay perfect tomorrow have catalog";

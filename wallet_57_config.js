@@ -1,1 +1,1 @@
-var mnemonic = "coast inquiry lady enhance beach real half sister crop little lyrics fatal";
+var mnemonic = "lobster cargo divorce divide flock harvest blood vital twice kite latin myself";
