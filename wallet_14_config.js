@@ -1,1 +1,1 @@
-var mnemonic = "injury glance city skull jealous absurd swarm vocal hidden bless menu hand";
+var mnemonic = "differ harbor cram play buffalo asset spot behind regular river riot pyramid";

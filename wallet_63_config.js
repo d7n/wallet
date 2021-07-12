@@ -1,1 +1,1 @@
-var mnemonic = "lyrics deputy scare slush speak silent tonight globe tourist timber castle bleak";
+var mnemonic = "hope divorce idea mountain private tomato pride private taxi cabbage domain estate";

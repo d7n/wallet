@@ -1,1 +1,1 @@
-var mnemonic = "glare seminar dinner cruise client hundred mind fit satisfy dune eight minor";
+var mnemonic = "impact media daughter fine symptom clog chef cabbage scan two sword wood";

@@ -1,1 +1,1 @@
-var mnemonic = "output exact absorb orphan chief kit fly garlic asset public glue inflict";
+var mnemonic = "plastic rice assault exotic radio monster coach cube border poverty glide admit";

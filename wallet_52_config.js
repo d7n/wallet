@@ -1,1 +1,1 @@
-var mnemonic = "cement seminar dice soup cereal check company merry nice enforce once bind";
+var mnemonic = "swim river auction usage toast mention zebra recipe add waste fox tag";

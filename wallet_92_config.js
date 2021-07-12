@@ -1,1 +1,1 @@
-var mnemonic = "element later evil film dawn hope bunker note title this region leopard";
+var mnemonic = "achieve power any fruit thank arrest alter lottery gallery slush major network";

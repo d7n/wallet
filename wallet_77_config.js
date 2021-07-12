@@ -1,1 +1,1 @@
-var mnemonic = "then canyon upon vendor ridge wave prize easily bargain relax cup over";
+var mnemonic = "shoe tooth mention people horn more keep witness perfect concert floor tooth";

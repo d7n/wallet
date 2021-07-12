@@ -1,1 +1,1 @@
-var mnemonic = "raccoon open oblige now scatter rude legend stadium choose impose heavy together";
+var mnemonic = "renew suspect tool garlic feel swim planet series ghost exile bar camera";

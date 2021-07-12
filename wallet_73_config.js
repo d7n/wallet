@@ -1,1 +1,1 @@
-var mnemonic = "empower minimum jar bleak limb excite banana various utility jazz furnace audit";
+var mnemonic = "dwarf model oven lens time assist shrug daughter mandate crack vote seed";

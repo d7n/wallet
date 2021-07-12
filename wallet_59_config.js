@@ -1,1 +1,1 @@
-var mnemonic = "bone answer rough throw wine number glide tomorrow curve couple regular forward";
+var mnemonic = "increase design mistake scheme want credit pelican stool tag opinion rule surface";

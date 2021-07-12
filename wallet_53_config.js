@@ -1,1 +1,1 @@
-var mnemonic = "increase various analyst furnace soul thought weekend verb nominee transfer balcony track";
+var mnemonic = "match advance theme unit affair twice hood quality into simple please capital";

@@ -1,1 +1,1 @@
-var mnemonic = "vote bachelor truly tilt digital crazy future video board entry critic vehicle";
+var mnemonic = "carbon degree ill forward rail canal enhance spray rent dice winter detect";

@@ -1,1 +1,1 @@
-var mnemonic = "worth chat spider side battle quarter fringe couch music ecology column innocent";
+var mnemonic = "crush want awake noble soda cement lonely apple nut coach save creek";

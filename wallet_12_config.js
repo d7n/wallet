@@ -1,1 +1,1 @@
-var mnemonic = "junk nature dolphin nerve wrestle scare save gold stone ladder method fire";
+var mnemonic = "left inhale clown beauty that text online retreat fence isolate point divide";

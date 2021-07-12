@@ -1,1 +1,1 @@
-var mnemonic = "kite special sketch couch verify test game security valid alone increase napkin";
+var mnemonic = "crack afford street similar zone blame mean work original pistol century evolve";

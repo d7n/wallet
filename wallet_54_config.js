@@ -1,1 +1,1 @@
-var mnemonic = "raise deputy tragic main neglect parade debate float raccoon have truck provide";
+var mnemonic = "stairs salon citizen february van live monitor tenant left kiwi twenty outdoor";

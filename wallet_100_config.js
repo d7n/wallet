@@ -1,1 +1,1 @@
-var mnemonic = "load soup glare moral toilet doctor tree biology modify grab gather saddle";
+var mnemonic = "neutral balance pelican slab minor need ankle clarify spawn service foster rural";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery connect prefer define good protect climb horse turkey pudding rent fame";
+var mnemonic = "zebra eternal cupboard exit myself exist crew notice afford salt mango nothing";

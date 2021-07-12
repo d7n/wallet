@@ -1,1 +1,1 @@
-var mnemonic = "display kiss welcome poet prison champion oil bench dream track cave shiver";
+var mnemonic = "rookie betray pulse gold adapt waste skirt jar fluid jump glory point";

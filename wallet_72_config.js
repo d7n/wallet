@@ -1,1 +1,1 @@
-var mnemonic = "awake napkin item primary all trouble ticket limb destroy move medal cook";
+var mnemonic = "cute body goat scorpion tent legal vintage donkey need below acid saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle connect blame decide scheme void cattle series magic tribe version people";
+var mnemonic = "age ice decide wing chalk pole noble father follow rookie limb myself";

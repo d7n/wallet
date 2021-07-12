@@ -1,1 +1,1 @@
-var mnemonic = "crunch spoil fly future drastic bicycle trade shrug patient stairs refuse lake";
+var mnemonic = "chest royal glimpse domain turkey apart illness adapt bronze region dentist soup";

@@ -1,1 +1,1 @@
-var mnemonic = "drop base great blind key planet imitate pear ethics buyer brick accident";
+var mnemonic = "panel power follow identify appear coin typical pitch edit royal buzz renew";

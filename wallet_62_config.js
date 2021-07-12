@@ -1,1 +1,1 @@
-var mnemonic = "scout speed vague effort shadow wave omit brave buffalo enlist awesome couple";
+var mnemonic = "keen devote fold tiny wife dolphin typical lemon debate pond just biology";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale glide solve pause measure cake decorate faint bulk fiscal grief hunt";
+var mnemonic = "shoe pitch virus toss emerge stone noise seek capable era casino army";

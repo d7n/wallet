@@ -1,1 +1,1 @@
-var mnemonic = "air all dentist coin velvet dinner shift toward east setup winter blur";
+var mnemonic = "act want one tell radio strategy unfair element dose short deputy funny";

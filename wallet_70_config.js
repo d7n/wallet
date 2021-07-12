@@ -1,1 +1,1 @@
-var mnemonic = "pilot ice vital news throw animal mobile drama nose sunny squirrel deputy";
+var mnemonic = "prevent hair combine prefer ability quick under thunder scout decline drum talk";

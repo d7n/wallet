@@ -1,1 +1,1 @@
-var mnemonic = "also object gas rather regret bring believe price jazz desert prepare riot";
+var mnemonic = "nature victory canal oak book flash collect cabin orchard busy round seat";

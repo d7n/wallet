@@ -1,1 +1,1 @@
-var mnemonic = "emotion tumble unveil goat resist today there sand damp reward duty icon";
+var mnemonic = "purity later warfare crumble seek initial water round frozen radar volume mom";

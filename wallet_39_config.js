@@ -1,1 +1,1 @@
-var mnemonic = "pony clarify weird impulse review depth answer shallow derive crouch festival away";
+var mnemonic = "neglect mystery awkward equip gain wedding lumber proof sweet canal patch budget";

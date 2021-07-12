@@ -1,1 +1,1 @@
-var mnemonic = "amazing minute excite aunt twelve egg silver pigeon erosion dream dish inside";
+var mnemonic = "crush window remove spatial casual seek tent patrol swift front cupboard already";

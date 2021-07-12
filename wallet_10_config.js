@@ -1,1 +1,1 @@
-var mnemonic = "wheat dust orient cattle bunker usual soccer high wire flight harbor jeans";
+var mnemonic = "better hammer catalog jacket friend gap dream pill stage liquid small laptop";

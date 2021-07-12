@@ -1,1 +1,1 @@
-var mnemonic = "plastic govern setup busy gaze cross west raccoon emotion come ankle bind";
+var mnemonic = "profit lion expose immense carbon divert select clock royal drift clog taxi";

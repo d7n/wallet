@@ -1,1 +1,1 @@
-var mnemonic = "repeat tobacco alarm novel invite keen wait stable number become hat sample";
+var mnemonic = "vanish only fetch hollow pool replace worry position wet senior duck sauce";

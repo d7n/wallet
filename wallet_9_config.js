@@ -1,1 +1,1 @@
-var mnemonic = "twelve slide punch dinosaur mountain fatal soda library penalty quarter awake real";
+var mnemonic = "teach mammal surface idea egg faith capital friend pact gather scatter ranch";

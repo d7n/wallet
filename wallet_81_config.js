@@ -1,1 +1,1 @@
-var mnemonic = "express huge property surround buzz bomb charge test game oak gaze syrup";
+var mnemonic = "become coral squeeze used canoe tattoo silk base bid any radio palace";

@@ -1,1 +1,1 @@
-var mnemonic = "soft sister enroll chronic elder wear repeat nerve faith diet ancient wolf";
+var mnemonic = "world shiver alarm feel grid elephant pretty crush warm mouse victory peanut";

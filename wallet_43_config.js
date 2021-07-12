@@ -1,1 +1,1 @@
-var mnemonic = "gravity stock panic plastic tenant connect horror dragon below frame embrace century";
+var mnemonic = "burger load large vapor warm salmon essay mercy quarter glide prepare defense";

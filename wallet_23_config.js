@@ -1,1 +1,1 @@
-var mnemonic = "wing science soda unfair ketchup dirt all friend brother depend citizen area";
+var mnemonic = "report flower case diesel whip debris romance world stem expect fit misery";

@@ -1,1 +1,1 @@
-var mnemonic = "height fish door eye foster carbon dolphin lounge wine aspect scatter wild";
+var mnemonic = "scissors drop ethics enact glance casino fury best clap route frost coach";

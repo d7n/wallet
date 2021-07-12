@@ -1,1 +1,1 @@
-var mnemonic = "seven art original melt glare sight burger grape room oval oval produce";
+var mnemonic = "enough champion theme flower pilot acoustic slow prepare flip tired arrange decide";

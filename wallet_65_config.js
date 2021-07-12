@@ -1,1 +1,1 @@
-var mnemonic = "typical input elbow swim evoke return pass humble limit sword cart bike";
+var mnemonic = "hood pact toss danger permit fun frame uphold series repair canyon under";

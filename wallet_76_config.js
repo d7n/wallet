@@ -1,1 +1,1 @@
-var mnemonic = "scene hamster great patch news fork alien tide coconut system custom future";
+var mnemonic = "woman radio burger general pyramid pudding bread solve stomach salon roast mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "team rate salon buyer guard news tomato mention resource device hamster gesture";
+var mnemonic = "forward battle field space priority erode lottery tourist organ latin animal melody";

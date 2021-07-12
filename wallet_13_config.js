@@ -1,1 +1,1 @@
-var mnemonic = "winter trade tired sausage fit liberty party near figure agree dawn popular";
+var mnemonic = "great card portion cluster control damage alcohol drive harvest strike usual faculty";

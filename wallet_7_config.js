@@ -1,1 +1,1 @@
-var mnemonic = "royal artist drill scene loud outer buddy shy deal great brave mobile";
+var mnemonic = "tattoo excuse high float issue acoustic adapt foil tree tuna reject student";

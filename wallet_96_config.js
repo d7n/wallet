@@ -1,1 +1,1 @@
-var mnemonic = "naive nothing fly sea note ostrich witness exclude brief genre police rare";
+var mnemonic = "velvet token whale coil absorb cousin tackle hat confirm report stuff rebuild";

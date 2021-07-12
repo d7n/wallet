@@ -1,1 +1,1 @@
-var mnemonic = "result benefit panel snack album leg message champion wool cattle grape clay";
+var mnemonic = "spread flash holiday credit pigeon bleak library fever destroy blade knee barely";

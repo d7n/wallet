@@ -1,1 +1,1 @@
-var mnemonic = "kitchen symptom strike idea excuse volcano surround across head alley divert correct";
+var mnemonic = "wolf license segment three organ assault atom identify cactus quote screen alcohol";

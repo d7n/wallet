@@ -1,1 +1,1 @@
-var mnemonic = "few magic shield initial vacuum cash strike layer hamster panel exile lion";
+var mnemonic = "slab million chicken talent dad utility rookie script salon ostrich pulp obey";

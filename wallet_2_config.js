@@ -1,1 +1,1 @@
-var mnemonic = "resist all buffalo acid discover system situate trap supply kitten suspect photo";
+var mnemonic = "magic twin yard zebra athlete broken horse neutral purse buyer salad cactus";

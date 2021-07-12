@@ -1,1 +1,1 @@
-var mnemonic = "inside error guess soft clown immense heavy valve between stable price sausage";
+var mnemonic = "cube window genuine pluck bronze unable settle soul trick goddess design swap";

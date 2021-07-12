@@ -1,1 +1,1 @@
-var mnemonic = "together salad rail puppy perfect wisdom century inherit purity siege eager tank";
+var mnemonic = "employ autumn during solar settle shed battle border battle marine stomach mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "wide coffee diesel digital next bread film present parrot parent seek private";
+var mnemonic = "leave boss market medal balcony smoke cigar spoon issue never swear used";

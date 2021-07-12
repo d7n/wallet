@@ -1,1 +1,1 @@
-var mnemonic = "quit jewel wink crucial explain stage slice gown guilt tennis sausage advance";
+var mnemonic = "demise hammer drive soul quit link spider trim orient buyer million cannon";

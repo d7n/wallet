@@ -1,1 +1,1 @@
-var mnemonic = "day help dizzy crumble number detail regular arctic trade peasant snap grape";
+var mnemonic = "power decorate sheriff husband document edge stomach drop hybrid cousin gather shallow";

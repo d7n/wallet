@@ -1,1 +1,1 @@
-var mnemonic = "hole body sugar jeans across rival oil seminar curtain cake smoke baby";
+var mnemonic = "slot toy mad surround remain party ankle fetch sting awesome hundred nuclear";

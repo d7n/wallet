@@ -1,1 +1,1 @@
-var mnemonic = "sort female lecture special version type target drill board engage bronze spider";
+var mnemonic = "bachelor title owner talent picture jacket service educate habit daring chase arrive";

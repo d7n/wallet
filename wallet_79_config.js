@@ -1,1 +1,1 @@
-var mnemonic = "father hawk language tuna mosquito glimpse poet divide bar okay work cement";
+var mnemonic = "hurt senior buddy melt eyebrow smile blind pledge fatigue physical cage cross";

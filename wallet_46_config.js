@@ -1,1 +1,1 @@
-var mnemonic = "license ranch escape income toss canvas icon cigar mistake assist chest amazing";
+var mnemonic = "negative own rhythm wagon large faint true catch motor doctor amused choose";

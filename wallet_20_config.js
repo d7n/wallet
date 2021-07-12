@@ -1,1 +1,1 @@
-var mnemonic = "room size network fiction innocent industry crime slice acoustic void clean rent";
+var mnemonic = "amount punch weasel orange stable vague bulb gadget easily wave hurry blossom";

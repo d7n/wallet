@@ -1,1 +1,1 @@
-var mnemonic = "club legal hope need tray way olive chase crucial true strike guitar";
+var mnemonic = "mercy since option rude train alone tilt prosper dance now west draft";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff stomach foil bullet float girl melt more zebra latin auction walk";
+var mnemonic = "vessel august monster typical bulk march multiply bright green sad sibling glare";

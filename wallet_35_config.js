@@ -1,1 +1,1 @@
-var mnemonic = "rose hotel estate smart empower parent lava ghost lawn true exile nothing";
+var mnemonic = "abuse acoustic dutch response strong decrease space rain want giraffe regret useless";

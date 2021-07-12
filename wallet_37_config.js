@@ -1,1 +1,1 @@
-var mnemonic = "anger forum title remove world amazing excess moon door replace way shove";
+var mnemonic = "problem kidney summer dog shrimp chat fashion law tiny romance number birth";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange source alcohol inside salon cable belt leopard gloom express solid brand";
+var mnemonic = "fetch faint amount six climb journey unaware bus topic glare ridge distance";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral cluster pistol never example tenant furnace piano pig mansion farm wheat";
+var mnemonic = "fade history palm giraffe venue cigar flock guard crouch among fog buddy";

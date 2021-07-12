@@ -1,1 +1,1 @@
-var mnemonic = "clown neutral still obscure physical search hurdle news diagram return legal upon";
+var mnemonic = "vapor sustain social kangaroo visa student raccoon mention inch innocent fatal shove";

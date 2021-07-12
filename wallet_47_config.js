@@ -1,1 +1,1 @@
-var mnemonic = "either say chef skate tomato auction quantum state gesture powder spirit layer";
+var mnemonic = "cotton sick clay result glimpse top pattern vapor light spice welcome work";

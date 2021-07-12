@@ -1,1 +1,1 @@
-var mnemonic = "wagon mask van stool pepper nice concert enlist supply federal category present";
+var mnemonic = "menu shoot hill piece approve extend bike mean any canoe noise creek";

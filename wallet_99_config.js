@@ -1,1 +1,1 @@
-var mnemonic = "elephant sponsor sing misery asthma sea town cigar weather gaze only ocean";
+var mnemonic = "buddy peanut arm vote brick phone regret potato library waste distance armed";

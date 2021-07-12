@@ -1,1 +1,1 @@
-var mnemonic = "rich vault north polar slow between place good manual quality spray orbit";
+var mnemonic = "culture switch trim rare warfare oak there banner farm drum fancy there";

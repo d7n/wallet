@@ -1,1 +1,1 @@
-var mnemonic = "elegant cup cream doctor chalk kitten shine color stone infant oxygen quality";
+var mnemonic = "real talk easy spy enemy scatter collect blur echo bright turkey elder";

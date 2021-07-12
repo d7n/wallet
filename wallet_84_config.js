@@ -1,1 +1,1 @@
-var mnemonic = "cliff oil hair erase punch exercise scout van bracket legend pass alpha";
+var mnemonic = "help renew obey bacon bronze element trade access flush engine try author";

@@ -1,1 +1,1 @@
-var mnemonic = "pass repair coil quick rotate tuna disease original congress motion joke fatal";
+var mnemonic = "symptom engage embrace scheme thumb tennis play give orbit viable subject major";

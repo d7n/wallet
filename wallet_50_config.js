@@ -1,1 +1,1 @@
-var mnemonic = "dress charge bird hour mix acid flock alcohol expect dawn file kidney";
+var mnemonic = "glad clerk load wine crunch wolf acoustic option valley almost broken glide";

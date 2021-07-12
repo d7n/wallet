@@ -1,1 +1,1 @@
-var mnemonic = "ethics balcony leave future one weekend adult identify rabbit method brave crystal";
+var mnemonic = "club black opera member crew license sure canal smooth lawn major develop";

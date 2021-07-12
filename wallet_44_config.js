@@ -1,1 +1,1 @@
-var mnemonic = "pole dash ramp jaguar emerge current asthma menu amount pupil relief flip";
+var mnemonic = "space degree caution quality wagon happy ski syrup remember buzz sibling mountain";

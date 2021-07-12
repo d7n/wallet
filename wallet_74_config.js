@@ -1,1 +1,1 @@
-var mnemonic = "desk exhaust left valley rubber romance brief umbrella such coyote travel cup";
+var mnemonic = "sentence print smoke clown play liar deliver someone aspect broken child rifle";

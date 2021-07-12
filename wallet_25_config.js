@@ -1,1 +1,1 @@
-var mnemonic = "mechanic struggle inmate tray cook involve organ scissors reward eager oxygen display";
+var mnemonic = "usual forget kitten frost dial scout bonus fox fine friend bag tired";

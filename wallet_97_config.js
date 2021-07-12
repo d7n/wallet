@@ -1,1 +1,1 @@
-var mnemonic = "sport slice pyramid double service decorate broccoli later foam squirrel night cheese";
+var mnemonic = "when wife output immune misery february shallow dose weapon tackle spread cake";

@@ -1,1 +1,1 @@
-var mnemonic = "pond among fiscal seminar idea gather web goat become snack repair awful";
+var mnemonic = "number dose elder cable govern barrel puzzle surround fold enhance brick snap";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin situate unfair device blame grocery silent key robust become army media";
+var mnemonic = "oblige raven walk fan deposit jealous else federal flight upset clinic inquiry";

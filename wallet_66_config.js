@@ -1,1 +1,1 @@
-var mnemonic = "only stumble flower eternal husband dust supply unhappy render spell sense marriage";
+var mnemonic = "genuine table second tragic when output filter hollow chapter pottery vast tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "swift family small behind scorpion urban opinion expect venue million breeze decline";
+var mnemonic = "predict ten chest little pencil salad memory myth exist happy anchor soldier";

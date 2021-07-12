@@ -1,1 +1,1 @@
-var mnemonic = "keep arctic domain permit bird nuclear jump power joke donate riot grace";
+var mnemonic = "number inquiry crane nephew museum together teach waste marble reform stable cram";

@@ -1,1 +1,1 @@
-var mnemonic = "resource mechanic direct face holiday avocado possible fork payment puppy essay throw";
+var mnemonic = "first pill junior beyond bachelor point great tornado aware cactus taxi cruise";

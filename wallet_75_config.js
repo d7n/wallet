@@ -1,1 +1,1 @@
-var mnemonic = "blanket hurdle mouse orphan eight name glance debate common anchor absent hidden";
+var mnemonic = "plug park home art glare major fix buddy rifle emerge boss blossom";

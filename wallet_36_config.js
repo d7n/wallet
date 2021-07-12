@@ -1,1 +1,1 @@
-var mnemonic = "express biology meat expand mandate expect capital now outside this furnace acoustic";
+var mnemonic = "bomb road cash dilemma finish kiwi state gift impose decide display bulk";

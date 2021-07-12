@@ -1,1 +1,1 @@
-var mnemonic = "nuclear flash snack hybrid palace warfare room sauce high cool mail pigeon";
+var mnemonic = "forget salt argue figure license habit tooth turn unlock water movie sport";

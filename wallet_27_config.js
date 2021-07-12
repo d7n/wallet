@@ -1,1 +1,1 @@
-var mnemonic = "plug fence plug october online master juice mistake clog observe stereo decorate";
+var mnemonic = "piece exile tip track polar jazz aim logic narrow spot cart island";

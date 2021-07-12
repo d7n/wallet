@@ -1,1 +1,1 @@
-var mnemonic = "galaxy profit half label echo rug until olive flush alarm cliff used";
+var mnemonic = "child riot enforce jealous build palm pride similar strong earn shove scatter";
