@@ -1,1 +1,1 @@
-var mnemonic = "stay park mushroom acoustic climb plate weather identify pledge near menu rib";
+var mnemonic = "belt winner test six close dad science poet push arrest hard one";

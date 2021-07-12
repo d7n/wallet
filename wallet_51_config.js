@@ -1,1 +1,1 @@
-var mnemonic = "silver hamster destroy oyster oval outside canoe afford know kit royal audit";
+var mnemonic = "argue motion crater hawk that unhappy glare bright wide adapt erupt hockey";

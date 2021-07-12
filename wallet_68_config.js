@@ -1,1 +1,1 @@
-var mnemonic = "december social blood anxiety rookie rookie shell sick truck between feature usual";
+var mnemonic = "legend risk lizard retire turtle fit salon shy imitate cement wheat lottery";

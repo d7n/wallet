@@ -1,1 +1,1 @@
-var mnemonic = "little flag spoil chaos arm school six burst give sketch immense claw";
+var mnemonic = "shoe item index mansion include abandon bounce behave own wedding daughter nasty";

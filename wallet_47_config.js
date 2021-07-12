@@ -1,1 +1,1 @@
-var mnemonic = "hurdle trouble flag jazz demise fashion good wrong drip kitten cotton layer";
+var mnemonic = "stove kitten behind address grant orbit confirm cup tomato uniform team equal";

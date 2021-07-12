@@ -1,1 +1,1 @@
-var mnemonic = "age ski hire shrug patch arena rebuild obvious option soup breeze shell";
+var mnemonic = "critic absorb power naive radio old whisper strategy patrol sock settle toddler";

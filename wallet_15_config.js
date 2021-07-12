@@ -1,1 +1,1 @@
-var mnemonic = "decrease file stone grape question swear slice auto verify forget argue abandon";
+var mnemonic = "twist behave quarter evolve gauge update execute click senior hungry rib dust";

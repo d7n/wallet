@@ -1,1 +1,1 @@
-var mnemonic = "glow require gift relax forum limb frame job episode battle daring input";
+var mnemonic = "radio corn reveal inherit renew joy old leaf casino obey game bless";

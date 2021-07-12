@@ -1,1 +1,1 @@
-var mnemonic = "entire world process dice account fat pioneer purpose cotton embrace assault palm";
+var mnemonic = "squirrel warfare mesh yellow ripple wrist brain frog level vocal indicate render";

@@ -1,1 +1,1 @@
-var mnemonic = "address pair left device usage enlist video habit dry chef chapter pact";
+var mnemonic = "alarm fiber flower claim choose violin mercy plastic grain group this easily";

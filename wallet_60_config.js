@@ -1,1 +1,1 @@
-var mnemonic = "enrich mule spray sick shallow notice effort stock retreat mystery where tornado";
+var mnemonic = "couch size junk shoulder silk health asthma stay spray husband hidden cliff";

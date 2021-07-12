@@ -1,1 +1,1 @@
-var mnemonic = "obtain solar into century alpha join camera walk series document shoe unveil";
+var mnemonic = "mirror razor pull void silver stable dog table always hat hint program";

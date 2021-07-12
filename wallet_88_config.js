@@ -1,1 +1,1 @@
-var mnemonic = "myself suit similar follow animal grape little bind spirit claw charge left";
+var mnemonic = "round rebuild eight relief stairs shrimp volume attract outer sentence police buyer";

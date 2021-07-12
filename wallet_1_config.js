@@ -1,1 +1,1 @@
-var mnemonic = "mandate detect mirror stool happy swap tomato super design number dry fall";
+var mnemonic = "ivory couple alter flight high hero spirit paper fit helmet maid settle";

@@ -1,1 +1,1 @@
-var mnemonic = "kick hamster confirm purse bulk abandon lady room report mimic vapor conduct";
+var mnemonic = "sheriff confirm pattern busy real wrestle boring spend domain anxiety beauty lecture";

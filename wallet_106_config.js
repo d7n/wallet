@@ -1,1 +1,1 @@
-var mnemonic = "enable parade move girl erosion waste twist design glory aisle camera ready";
+var mnemonic = "sport element kitchen gain tuition mouse embrace assist pelican fox property like";

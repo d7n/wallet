@@ -1,1 +1,1 @@
-var mnemonic = "load case supply panther field dust vacuum cage funny initial turtle unique";
+var mnemonic = "mountain half chest undo economy drama chat home since below nephew cricket";

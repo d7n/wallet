@@ -1,1 +1,1 @@
-var mnemonic = "bone bridge walk hurry inch venue butter special muffin village clog fire";
+var mnemonic = "shiver nurse flush canyon order adult disorder hill cheese print bounce stomach";

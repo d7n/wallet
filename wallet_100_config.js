@@ -1,1 +1,1 @@
-var mnemonic = "ordinary quote orchard much spoon sauce advice wasp unit allow huge dog";
+var mnemonic = "bar impact reveal spin tray ranch dignity clip village dress focus twelve";

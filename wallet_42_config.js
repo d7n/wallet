@@ -1,1 +1,1 @@
-var mnemonic = "nasty silent hobby play rabbit pulp people parrot bulk actual insect board";
+var mnemonic = "riot old vehicle rabbit exit myth noodle social medal cluster decide average";

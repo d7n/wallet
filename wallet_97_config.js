@@ -1,1 +1,1 @@
-var mnemonic = "combine nasty fan pull opera minor tragic bachelor solution mixture lottery junk";
+var mnemonic = "weird atom matter usage balance despair cover plunge tenant fiber mobile minimum";

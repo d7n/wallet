@@ -1,1 +1,1 @@
-var mnemonic = "two shuffle school funny since fluid vanish crunch merry hedgehog surround favorite";
+var mnemonic = "solid lawsuit head hip phrase rude learn universe dove zoo tourist dinner";

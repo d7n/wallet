@@ -1,1 +1,1 @@
-var mnemonic = "fire aware steel middle milk debate reduce kangaroo west desk someone quit";
+var mnemonic = "topic wash horror prevent disease happy shop purchase wisdom minor carry guess";

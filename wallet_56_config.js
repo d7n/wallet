@@ -1,1 +1,1 @@
-var mnemonic = "light bone valve regret before ask payment pact road erase team faint";
+var mnemonic = "song neck anger hint say twelve rival fetch pluck blood banner puzzle";

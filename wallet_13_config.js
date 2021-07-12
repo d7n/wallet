@@ -1,1 +1,1 @@
-var mnemonic = "keep shoot elite loop jewel raccoon erode unable flower number claw mercy";
+var mnemonic = "fruit welcome wall roast dutch ill canyon result shrimp high exotic catalog";

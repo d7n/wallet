@@ -1,1 +1,1 @@
-var mnemonic = "vote insect later boost humble clay school lock hour fashion trouble damp";
+var mnemonic = "fatal bubble total tomato enter ready honey offer cricket wool until distance";

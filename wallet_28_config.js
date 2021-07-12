@@ -1,1 +1,1 @@
-var mnemonic = "can laundry inmate garbage east million gun melt liberty addict lyrics copper";
+var mnemonic = "second gap explain hard target bullet pizza real spend jacket whip program";

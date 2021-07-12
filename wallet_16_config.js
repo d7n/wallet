@@ -1,1 +1,1 @@
-var mnemonic = "birth useful normal idle balcony echo exercise actual happy current item rocket";
+var mnemonic = "silver tourist profit real chase cradle inner push pyramid base shoulder bird";

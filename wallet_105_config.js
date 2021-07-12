@@ -1,1 +1,1 @@
-var mnemonic = "broom trumpet oak stone off elbow sick reform solar excite position number";
+var mnemonic = "online know believe skin panic speak pool robot brass true actress tape";

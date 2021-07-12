@@ -1,1 +1,1 @@
-var mnemonic = "coast box cry juice vote they axis inflict vital nation proud doll";
+var mnemonic = "clay junior chat thrive snack amateur scissors tuna gaze spatial pink diet";

@@ -1,1 +1,1 @@
-var mnemonic = "inject snack ivory volcano myself strategy oak have assist strike ignore pill";
+var mnemonic = "elevator until donor earth attitude upset disease father august correct oil grace";

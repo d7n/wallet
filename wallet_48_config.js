@@ -1,1 +1,1 @@
-var mnemonic = "label holiday spice brief husband wall universe spy afraid mom crystal champion";
+var mnemonic = "extend never daughter opinion blouse like grunt admit grace final lounge first";

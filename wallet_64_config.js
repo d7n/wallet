@@ -1,1 +1,1 @@
-var mnemonic = "oyster pill apple design vacant blouse salt mushroom shrimp siren wait rival";
+var mnemonic = "gasp rich off border render canyon innocent output crew attack spirit expire";

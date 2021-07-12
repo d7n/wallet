@@ -1,1 +1,1 @@
-var mnemonic = "general digital brown bright giant wink used afford cupboard slim absent shoot";
+var mnemonic = "require control nephew tip cheese book wash pattern age silly enlist hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm confirm organ fire kangaroo faint segment fall tattoo chase neither green";
+var mnemonic = "general valid infant brush claim juice market save cake walk estate cross";

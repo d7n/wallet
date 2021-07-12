@@ -1,1 +1,1 @@
-var mnemonic = "term where sand now proud entire sport copy come solution raven morning";
+var mnemonic = "siege alarm oxygen tomato midnight twenty leader february crystal shift news else";

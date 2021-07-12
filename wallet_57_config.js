@@ -1,1 +1,1 @@
-var mnemonic = "exercise major grain tone army eyebrow sudden arm amazing radio circle cereal";
+var mnemonic = "corn mind section soon family squeeze random royal dove cargo original depart";

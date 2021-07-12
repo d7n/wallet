@@ -1,1 +1,1 @@
-var mnemonic = "gossip destroy garden mystery bridge conduct kid cargo frame hazard arrange leg";
+var mnemonic = "friend apart piece next foam jelly asthma soul industry circle cheese bracket";

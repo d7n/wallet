@@ -1,1 +1,1 @@
-var mnemonic = "fiscal deliver apart mammal soup render rookie festival palm kangaroo vault scout";
+var mnemonic = "true cabbage bridge blame elbow person play armor buddy cable pause argue";

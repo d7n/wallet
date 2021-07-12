@@ -1,1 +1,1 @@
-var mnemonic = "slice final educate luggage news chronic dizzy panel erupt coil leisure mean";
+var mnemonic = "abandon end wonder artefact dice attack swarm risk carry dinner guitar december";

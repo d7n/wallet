@@ -1,1 +1,1 @@
-var mnemonic = "duty good comfort entire remind barrel laundry praise weapon chunk purse turkey";
+var mnemonic = "same when battle room finger stone subject gain zero pitch layer south";

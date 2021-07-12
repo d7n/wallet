@@ -1,1 +1,1 @@
-var mnemonic = "trap ginger will rack fancy broken throw half blue raccoon sort amused";
+var mnemonic = "profit stairs prosper process truck pioneer ticket inherit film zone era fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed immense mask wheel joy only flip field woman true ozone donkey";
+var mnemonic = "floor surge round toward garage fat post away plastic play embrace garden";

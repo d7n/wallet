@@ -1,1 +1,1 @@
-var mnemonic = "venture shrimp visual story blouse claw aunt govern box cover mother envelope";
+var mnemonic = "wrist pink ribbon outdoor cement round weapon dish glance express best fence";

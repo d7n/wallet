@@ -1,1 +1,1 @@
-var mnemonic = "armor cloud average assault panel sight heart toe lonely label prefer charge";
+var mnemonic = "mammal vital enable yard orphan couch neutral common diagram market trash guide";

@@ -1,1 +1,1 @@
-var mnemonic = "hill kit negative else ketchup response notice idle valley relief change property";
+var mnemonic = "void walk crew square wealth divorce sick eager trial leg veteran salute";

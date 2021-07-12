@@ -1,1 +1,1 @@
-var mnemonic = "evil ivory clay unique giraffe prison museum grab muscle sheriff similar impulse";
+var mnemonic = "spider luggage trust fix pause deposit february cluster vague sea trade truth";

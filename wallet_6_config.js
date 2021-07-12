@@ -1,1 +1,1 @@
-var mnemonic = "field series soda dose wife middle fortune muscle subject monitor poem solution";
+var mnemonic = "repeat vacuum pluck blush depart feel physical carpet shrug poet select beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "crater tennis kangaroo wrong tennis man hole core nut you mail salad";
+var mnemonic = "fuel bar adapt print clay recycle surround unhappy frequent guitar whale enjoy";

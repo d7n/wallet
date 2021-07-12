@@ -1,1 +1,1 @@
-var mnemonic = "hockey ketchup ahead harvest foil right tonight armor latin pyramid owner setup";
+var mnemonic = "lamp error primary defense exhaust digital drift parrot play blossom end hard";

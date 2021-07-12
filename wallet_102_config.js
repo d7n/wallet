@@ -1,1 +1,1 @@
-var mnemonic = "cover recipe toilet emotion tornado mad visit copy prosper sustain win impulse";
+var mnemonic = "guard month silent warrior erosion sock mouse canyon bundle fatal heart wise";

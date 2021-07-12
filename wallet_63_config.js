@@ -1,1 +1,1 @@
-var mnemonic = "innocent sibling club improve tumble rent pudding casual frozen inch tooth rug";
+var mnemonic = "pride click congress bid lamp enforce kiwi spray sudden ice coyote ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "glue correct achieve metal bring spirit wait any issue soul faint mistake";
+var mnemonic = "turkey novel toss canyon family laugh salute market always noble assist bracket";

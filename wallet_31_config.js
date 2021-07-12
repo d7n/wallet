@@ -1,1 +1,1 @@
-var mnemonic = "benefit adapt sort switch approve average dumb giggle era shift tip cover";
+var mnemonic = "cabbage dutch seed proud decade list great tissue spell broken cannon come";

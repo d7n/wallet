@@ -1,1 +1,1 @@
-var mnemonic = "wealth notable account search upset average shiver grass salt truck auction woman";
+var mnemonic = "usual engine target approve acquire powder car cereal vanish palace window dirt";

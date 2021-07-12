@@ -1,1 +1,1 @@
-var mnemonic = "life purpose maze shop elegant country ticket confirm cement blood pistol task";
+var mnemonic = "patch guilt rich blush fatigue twelve gauge warm mixed rocket first bounce";

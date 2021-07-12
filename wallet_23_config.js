@@ -1,1 +1,1 @@
-var mnemonic = "movie rhythm number lawn execute absurd confirm market pretty feel mixed cart";
+var mnemonic = "judge rubber brain custom soon open toward front faculty table click join";

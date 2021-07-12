@@ -1,1 +1,1 @@
-var mnemonic = "school state few shop another leave immune night twist ridge success lizard";
+var mnemonic = "flag sunset social banner shadow cost venture offer switch smoke vehicle fit";

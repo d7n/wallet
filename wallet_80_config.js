@@ -1,1 +1,1 @@
-var mnemonic = "you rubber update satoshi crack fan kangaroo ozone blue trend life save";
+var mnemonic = "hair purpose gown because deal ordinary join main sugar sauce valve cash";

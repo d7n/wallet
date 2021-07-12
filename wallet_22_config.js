@@ -1,1 +1,1 @@
-var mnemonic = "sudden mechanic illegal apple conduct crowd time magnet worry record hero owner";
+var mnemonic = "aisle gold insane permit kid kitchen palm only clean retreat twelve write";

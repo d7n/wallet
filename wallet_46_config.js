@@ -1,1 +1,1 @@
-var mnemonic = "mask alter industry couple rebel faculty trade april awesome gun alone amused";
+var mnemonic = "thought sibling behind enforce volcano math leisure nurse subway hire advice skate";

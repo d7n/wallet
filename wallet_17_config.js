@@ -1,1 +1,1 @@
-var mnemonic = "okay limit juice deer web borrow balance zone empty earth have recipe";
+var mnemonic = "until rubber people bright roast immense snack toy pulp broken raise hurt";

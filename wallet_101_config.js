@@ -1,1 +1,1 @@
-var mnemonic = "exchange because enroll pond ridge tornado amazing maid can retreat future pond";
+var mnemonic = "thumb layer neither nice tenant body cube swift noble pig stool belt";

@@ -1,1 +1,1 @@
-var mnemonic = "grit assault what lab theory ticket toddler oval win unusual program trouble";
+var mnemonic = "daughter bundle permit world stage spider horn cereal either mistake rail deliver";

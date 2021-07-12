@@ -1,1 +1,1 @@
-var mnemonic = "nerve evoke range escape favorite comic fever switch skirt prepare rare erosion";
+var mnemonic = "wrestle awake parade alcohol attitude giggle write hurdle pluck crumble hold impulse";

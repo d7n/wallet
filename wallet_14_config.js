@@ -1,1 +1,1 @@
-var mnemonic = "hour reunion organ until notable dutch struggle auction night shoe protect begin";
+var mnemonic = "fiscal drop until isolate stone conduct believe core engage crack install occur";

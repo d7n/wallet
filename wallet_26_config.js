@@ -1,1 +1,1 @@
-var mnemonic = "symbol vote sentence drama rice talk tobacco vague depend village club honey";
+var mnemonic = "switch logic try quit bicycle lend glue system own prosper absent discover";

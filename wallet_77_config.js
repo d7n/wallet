@@ -1,1 +1,1 @@
-var mnemonic = "share spot giraffe plate blame claim wink enhance pet waste student dance";
+var mnemonic = "oven slot celery hope april sheriff sell paddle bunker jazz access february";

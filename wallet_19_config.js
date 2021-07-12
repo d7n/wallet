@@ -1,1 +1,1 @@
-var mnemonic = "demise illness modify dog razor ordinary broom oak praise between trigger rich";
+var mnemonic = "hint very chest cruel cereal nice slam fashion dust fiber settle over";

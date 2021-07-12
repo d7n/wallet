@@ -1,1 +1,1 @@
-var mnemonic = "include chair try axis conduct accuse bunker immune scorpion tenant cabbage inflict";
+var mnemonic = "chief vessel brown snake submit excess leisure bird office reveal stage problem";

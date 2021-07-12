@@ -1,1 +1,1 @@
-var mnemonic = "exchange guess sketch cigar labor olympic window bar lawn dream joke door";
+var mnemonic = "slab moral pink crater disorder chimney oblige giraffe glare tuition orphan miss";

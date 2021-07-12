@@ -1,1 +1,1 @@
-var mnemonic = "buddy limit panel accuse forward mad blind earn again acquire cover relax";
+var mnemonic = "boost chimney ocean minor one check isolate cousin wing meat perfect proof";

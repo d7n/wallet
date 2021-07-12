@@ -1,1 +1,1 @@
-var mnemonic = "wish produce fortune range warfare empty iron wife provide scout clinic era";
+var mnemonic = "program forget bachelor huge exhibit sustain trip raise illegal crawl erase gravity";

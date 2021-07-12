@@ -1,1 +1,1 @@
-var mnemonic = "victory weapon beach latin material fold estate sense sock blast devote room";
+var mnemonic = "pink display soul chef sample real deer sheriff alarm inhale real sweet";

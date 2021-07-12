@@ -1,1 +1,1 @@
-var mnemonic = "detail salon ensure steak jewel tip park number spend era beef palace";
+var mnemonic = "merit leaf park evil parrot debate donor credit number myself portion myself";

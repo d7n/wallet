@@ -1,1 +1,1 @@
-var mnemonic = "daring pizza deal mother whisper cradle slam slim bid sunset avocado phone";
+var mnemonic = "liquid where economy toddler bronze avocado sponsor witness kiwi clerk stay fossil";

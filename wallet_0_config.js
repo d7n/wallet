@@ -1,1 +1,1 @@
-var mnemonic = "rubber tip useless myself torch anger roast distance room craft arm hawk";
+var mnemonic = "crawl involve raven enter timber curtain solve decrease festival order cannon tower";

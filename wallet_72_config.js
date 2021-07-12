@@ -1,1 +1,1 @@
-var mnemonic = "bird allow crucial letter struggle play grit gate bonus ceiling ice drum";
+var mnemonic = "garbage drip follow eternal ice science bottom apart fox notice reward seven";

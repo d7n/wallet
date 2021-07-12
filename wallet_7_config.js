@@ -1,1 +1,1 @@
-var mnemonic = "snap asset drama extend midnight rubber dice recycle laugh december muffin quote";
+var mnemonic = "paddle old doctor legend link host volume field door artefact topic rich";

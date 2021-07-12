@@ -1,1 +1,1 @@
-var mnemonic = "bronze owner happy kite opinion concert know decide cousin pigeon hip couch";
+var mnemonic = "virtual awesome frog sweet weasel ghost explain poet wire long tell police";

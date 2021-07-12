@@ -1,1 +1,1 @@
-var mnemonic = "cheese humble tank nominee diet right jaguar mesh praise evil nasty bubble";
+var mnemonic = "glory avocado laptop perfect lyrics version conduct again message torch cheese virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "depth idle defy cart seek stone ability news saddle people genre strong";
+var mnemonic = "analyst pear crack need marine model puzzle cargo agree knock shuffle chair";

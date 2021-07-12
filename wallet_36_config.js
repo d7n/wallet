@@ -1,1 +1,1 @@
-var mnemonic = "clay forum arctic grape flock artwork glare suit hunt become wool give";
+var mnemonic = "shadow cloud cereal chef rabbit firm suit stay quick horror cake rough";

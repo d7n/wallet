@@ -1,1 +1,1 @@
-var mnemonic = "pledge series engage unfold cart harvest monster hold debate globe hand medal";
+var mnemonic = "weird actor bridge dog grape junk pepper unable broccoli minimum pigeon shoulder";

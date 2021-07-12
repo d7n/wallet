@@ -1,1 +1,1 @@
-var mnemonic = "dizzy race vague interest dinner dance advance struggle travel price annual enjoy";
+var mnemonic = "spot client drill hamster cousin reopen lawn interest tired exercise change eternal";

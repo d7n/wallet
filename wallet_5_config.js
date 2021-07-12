@@ -1,1 +1,1 @@
-var mnemonic = "square peace symbol vital tube until neither false shed damp endorse athlete";
+var mnemonic = "long digital evolve fiction upgrade dust person alert eyebrow panda veteran sentence";
