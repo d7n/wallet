@@ -1,1 +1,1 @@
-var mnemonic = "wrist ethics cream price foster parrot napkin upgrade shaft sweet sample deny";
+var mnemonic = "spell party tray solve absorb rug salmon drip birth usual income swim";

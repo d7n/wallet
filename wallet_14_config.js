@@ -1,1 +1,1 @@
-var mnemonic = "motion smart love custom smoke enrich lens cake later mirror final notice";
+var mnemonic = "magnet uniform dynamic earth mail mosquito spy vicious language file submit atom";

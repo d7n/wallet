@@ -1,1 +1,1 @@
-var mnemonic = "staff garlic student upset vendor together expose multiply long task tube rough";
+var mnemonic = "waste card gaze recall spell dilemma hat dizzy wrestle true cherry skirt";

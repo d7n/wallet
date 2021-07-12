@@ -1,1 +1,1 @@
-var mnemonic = "news angry tag orbit hen element shine until rack page leopard ski";
+var mnemonic = "tooth pear judge mistake hint various mention main unlock reason sunny night";

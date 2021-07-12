@@ -1,1 +1,1 @@
-var mnemonic = "dynamic security sniff wall top solve wool possible shadow thing legal evidence";
+var mnemonic = "south result recycle start weird swarm near region first mind forest expose";

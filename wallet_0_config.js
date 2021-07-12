@@ -1,1 +1,1 @@
-var mnemonic = "hurry quote lunch you congress quiz bounce pilot motion kind lion tiger";
+var mnemonic = "drive master digital dawn census spare fat online total satisfy feed profit";

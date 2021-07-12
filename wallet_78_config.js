@@ -1,1 +1,1 @@
-var mnemonic = "canvas coffee acoustic lava invite tortoise stock mango scissors gift oblige peasant";
+var mnemonic = "network math hospital one exile hold beef art assault cupboard wasp emotion";

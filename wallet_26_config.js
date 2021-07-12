@@ -1,1 +1,1 @@
-var mnemonic = "list sample keen capital naive force wedding example enemy seven ladder drill";
+var mnemonic = "zoo dolphin lumber lucky hire weapon embark birth puzzle man chapter priority";

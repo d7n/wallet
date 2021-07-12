@@ -1,1 +1,1 @@
-var mnemonic = "scissors shine credit flip rug other option until chase switch father arrange";
+var mnemonic = "task work ice safe negative best material salmon clarify price resemble whisper";

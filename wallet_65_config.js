@@ -1,1 +1,1 @@
-var mnemonic = "canvas reunion pact style pitch tuna warrior work dynamic steel eagle drive";
+var mnemonic = "grant risk carbon magnet grocery trend buffalo pencil beyond bulb live echo";

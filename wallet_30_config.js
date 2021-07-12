@@ -1,1 +1,1 @@
-var mnemonic = "moral snow flush since decorate tone lava float kit turtle century puzzle";
+var mnemonic = "awake alien cross elephant cotton call jewel envelope venture student account used";

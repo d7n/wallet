@@ -1,1 +1,1 @@
-var mnemonic = "bar nation know build twist river trick sure token dolphin alpha addict";
+var mnemonic = "runway height gasp flavor mystery scare length drum sudden bid fade unique";

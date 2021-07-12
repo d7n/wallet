@@ -1,1 +1,1 @@
-var mnemonic = "display unveil mushroom survey venture toss food task direct figure crouch announce";
+var mnemonic = "news math approve apology absorb thrive critic excuse happy beauty melody frame";

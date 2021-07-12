@@ -1,1 +1,1 @@
-var mnemonic = "dinner response move tiny desk donkey drift retreat shop powder primary behind";
+var mnemonic = "give chunk dial mutual slam large cigar below hamster system have swift";

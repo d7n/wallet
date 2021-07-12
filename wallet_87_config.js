@@ -1,1 +1,1 @@
-var mnemonic = "amount arrive relief dumb sniff hope turn pull cave afford device banner";
+var mnemonic = "glide increase physical machine owner transfer guilt prize strike only balcony earn";

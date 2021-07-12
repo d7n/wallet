@@ -1,1 +1,1 @@
-var mnemonic = "access case walk jealous chapter shield plate action clip clay pact design";
+var mnemonic = "rotate shove ripple pair skin problem bundle angry latin salute lava cluster";

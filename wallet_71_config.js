@@ -1,1 +1,1 @@
-var mnemonic = "world category peasant current betray goose ancient plate brass orphan relax enrich";
+var mnemonic = "siren thank manual slot about cluster butter buddy odor tumble artwork reopen";

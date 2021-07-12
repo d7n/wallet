@@ -1,1 +1,1 @@
-var mnemonic = "excite stereo chicken kid celery blood shield practice build begin guess air";
+var mnemonic = "chair diesel teach giggle fruit because among acid extra armed mix come";

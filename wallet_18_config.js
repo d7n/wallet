@@ -1,1 +1,1 @@
-var mnemonic = "dismiss car skate little soul finger muscle welcome cactus web file master";
+var mnemonic = "decide captain local head scout skirt west feed rhythm uniform crack topic";

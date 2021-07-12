@@ -1,1 +1,1 @@
-var mnemonic = "scout crunch tent chaos reopen flame tired boat quit mask tool source";
+var mnemonic = "bulk note rally brand cover apart obvious unfair sick brief green sick";

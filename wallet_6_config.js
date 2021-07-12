@@ -1,1 +1,1 @@
-var mnemonic = "lift cart bar same soon camera hello child sister behave eye cloud";
+var mnemonic = "cash paddle lunch scene benefit account shield trouble animal shield disease student";

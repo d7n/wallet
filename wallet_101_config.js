@@ -1,1 +1,1 @@
-var mnemonic = "few stable solve sorry pretty suggest robot trash bar episode used intact";
+var mnemonic = "awkward pull easy vivid monster captain hollow two gloom tiny margin admit";

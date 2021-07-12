@@ -1,1 +1,1 @@
-var mnemonic = "hour crouch eye wagon quote cruise birth essence round decade kid increase";
+var mnemonic = "try oblige menu exercise leader deer wire team age aunt help hero";

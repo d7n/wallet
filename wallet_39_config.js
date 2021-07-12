@@ -1,1 +1,1 @@
-var mnemonic = "smoke setup rare hurry upper desert dad journey short buddy random width";
+var mnemonic = "shallow wrap audit island armor annual clutch snow wife occur owner gauge";

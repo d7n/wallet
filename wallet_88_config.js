@@ -1,1 +1,1 @@
-var mnemonic = "crawl pole admit argue stuff label cargo kiss chair primary help same";
+var mnemonic = "liar turkey frown kick ridge hard lottery praise blur laundry stereo income";

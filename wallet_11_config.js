@@ -1,1 +1,1 @@
-var mnemonic = "friend impact motion vote prison seek develop giraffe major brisk little maximum";
+var mnemonic = "prepare clog obscure tell cover rent upgrade swim range chuckle machine holiday";

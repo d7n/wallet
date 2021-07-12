@@ -1,1 +1,1 @@
-var mnemonic = "wide brisk doctor all ghost cry salon more swamp wet purse improve";
+var mnemonic = "danger bus genius left timber gown theme firm humor gallery dose proof";

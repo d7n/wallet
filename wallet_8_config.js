@@ -1,1 +1,1 @@
-var mnemonic = "drastic inner treat split knock permit alone blanket critic mixture brown vast";
+var mnemonic = "coconut dentist forum high expand roast assault mirror purchase slam hungry legal";

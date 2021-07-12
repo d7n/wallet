@@ -1,1 +1,1 @@
-var mnemonic = "anchor wire chair iron combine multiply system delay club million task medal";
+var mnemonic = "usage obscure grace check cherry calm ask artwork tragic powder photo cabin";

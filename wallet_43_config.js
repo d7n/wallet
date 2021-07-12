@@ -1,1 +1,1 @@
-var mnemonic = "envelope life brave page agent pause unknown nurse wagon bargain timber leg";
+var mnemonic = "home gift cool twist attack hope type detail secret choice hole soul";

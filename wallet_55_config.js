@@ -1,1 +1,1 @@
-var mnemonic = "prevent erase advance dose phrase bullet excuse antenna drastic auto cabbage flip";
+var mnemonic = "ostrich key nut lava fog current doctor mix suffer seven elevator unlock";

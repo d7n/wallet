@@ -1,1 +1,1 @@
-var mnemonic = "yellow game drop palace coconut heavy tiny trap quick next flush material";
+var mnemonic = "claw mutual stand return follow device jeans turkey eternal left sun dignity";

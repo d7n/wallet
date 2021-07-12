@@ -1,1 +1,1 @@
-var mnemonic = "shy pave miracle rare top lemon spread radio stuff hundred snake banana";
+var mnemonic = "whip rent beyond smile explain bachelor collect ship control butter type strong";

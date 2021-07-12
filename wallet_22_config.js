@@ -1,1 +1,1 @@
-var mnemonic = "orange black denial blame retreat inform census inject draft east garlic exhibit";
+var mnemonic = "endorse drive credit add vacuum mosquito step tower service absent nut over";

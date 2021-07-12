@@ -1,1 +1,1 @@
-var mnemonic = "hotel rigid lock hard diary live media state crush wasp math latin";
+var mnemonic = "spirit favorite print ice fiscal draw brave feed people spoon satisfy slight";

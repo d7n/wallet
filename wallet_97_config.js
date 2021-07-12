@@ -1,1 +1,1 @@
-var mnemonic = "fresh soap uniform hungry sunset latin tennis curve rifle moral will frog";
+var mnemonic = "sentence slice hire menu abandon turkey anger fossil joke confirm tip village";

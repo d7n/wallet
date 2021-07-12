@@ -1,1 +1,1 @@
-var mnemonic = "derive depth shaft art hollow panther congress guide bulk frequent corn abuse";
+var mnemonic = "usage aware ladder mixture enable throw assist peanut rack clock sauce dance";

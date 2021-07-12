@@ -1,1 +1,1 @@
-var mnemonic = "evidence obtain hole sample into piano spray announce creek old pen same";
+var mnemonic = "soap team end pig state thing unveil actress brave recall very miss";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity income buffalo dove effort cheese steak tube mouse pencil original wheat";
+var mnemonic = "work valley visa conduct mushroom pole exotic myself depth pause leaf output";

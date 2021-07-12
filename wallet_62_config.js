@@ -1,1 +1,1 @@
-var mnemonic = "siege medal estate cousin loyal expose attack salt general ceiling apology width";
+var mnemonic = "human frequent retreat suit salon acid into squeeze wolf desert portion approve";

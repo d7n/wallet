@@ -1,1 +1,1 @@
-var mnemonic = "corn social cable become length food slender rent power fringe advice attract";
+var mnemonic = "thank trap report favorite engage hair ask cricket plunge prize essence cloud";

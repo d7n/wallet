@@ -1,1 +1,1 @@
-var mnemonic = "rural hole fortune sausage rigid explain turtle canvas foot achieve hotel ecology";
+var mnemonic = "solid hospital human vacuum fox endless fly hybrid refuse borrow cart long";

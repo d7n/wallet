@@ -1,1 +1,1 @@
-var mnemonic = "unfold miracle garbage soldier leave flush knife depth more admit grid hard";
+var mnemonic = "surround message two vivid man leopard hamster sadness warm brand picture clump";

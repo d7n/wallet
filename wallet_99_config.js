@@ -1,1 +1,1 @@
-var mnemonic = "wheel lady genuine palace grow become kiss dwarf quiz urban fitness safe";
+var mnemonic = "various cost fox civil more veteran nice hamster craft pet prepare laugh";

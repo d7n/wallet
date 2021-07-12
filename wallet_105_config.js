@@ -1,1 +1,1 @@
-var mnemonic = "theme globe myth film regret minute little strike hazard runway custom now";
+var mnemonic = "during pool toward journey route loyal before aunt guess faint frog summer";

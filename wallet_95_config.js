@@ -1,1 +1,1 @@
-var mnemonic = "gaze boring fetch bamboo neglect timber crunch dismiss again deputy near glass";
+var mnemonic = "praise panda velvet unfair apology olive tribe enforce wheat awake field chair";

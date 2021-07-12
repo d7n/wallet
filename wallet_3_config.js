@@ -1,1 +1,1 @@
-var mnemonic = "spare sand hole wife april door make rebuild surface luggage monkey adult";
+var mnemonic = "remove gallery toast razor visit grant top ring inspire crucial cross vivid";

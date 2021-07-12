@@ -1,1 +1,1 @@
-var mnemonic = "also kick arctic fresh clump harbor book neglect vault shield industry strong";
+var mnemonic = "novel toilet laugh job gauge join focus license elder diamond minimum tonight";

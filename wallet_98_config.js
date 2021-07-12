@@ -1,1 +1,1 @@
-var mnemonic = "priority point inch tag topic identify boy van picnic eager swallow jar";
+var mnemonic = "inmate sport narrow garage poet meadow blouse spoon trade tool response joy";

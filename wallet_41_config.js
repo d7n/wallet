@@ -1,1 +1,1 @@
-var mnemonic = "tag turtle punch high total risk bag outside major spike mistake flavor";
+var mnemonic = "dial quit label clutch exit gift input boring gather acoustic fresh gown";

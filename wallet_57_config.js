@@ -1,1 +1,1 @@
-var mnemonic = "select peasant enjoy prosper clutch caught walk glimpse lottery hope flavor point";
+var mnemonic = "logic fiction improve cram venture brain knock bargain spoil evoke black title";

@@ -1,1 +1,1 @@
-var mnemonic = "banner venue proof cabbage cannon enhance grit adapt tube fit crawl sustain";
+var mnemonic = "chuckle oak orange black smile nature fury park bright toss relax carry";

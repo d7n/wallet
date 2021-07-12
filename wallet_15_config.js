@@ -1,1 +1,1 @@
-var mnemonic = "sniff client laundry suffer soap mixture cousin supreme planet jungle body rookie";
+var mnemonic = "shrug bike senior lobster illness cloth heart bus question bicycle differ pioneer";

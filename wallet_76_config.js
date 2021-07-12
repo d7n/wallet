@@ -1,1 +1,1 @@
-var mnemonic = "twin athlete social powder affair hurry mass record smoke hotel decide abandon";
+var mnemonic = "control clown galaxy attitude make special analyst invest huge system fatal scale";

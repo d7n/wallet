@@ -1,1 +1,1 @@
-var mnemonic = "naive vintage concert buffalo blade only nature tornado sadness short crouch balcony";
+var mnemonic = "exhaust truck rug bridge miss inch moon defy voice age subway agree";

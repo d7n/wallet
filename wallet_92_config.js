@@ -1,1 +1,1 @@
-var mnemonic = "dad assist ignore hawk stumble blur pistol leg file echo they siren";
+var mnemonic = "seven demand bike artefact ramp mail abandon tell kidney remember joke blue";

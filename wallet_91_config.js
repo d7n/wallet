@@ -1,1 +1,1 @@
-var mnemonic = "film donor mule process cup elder alert monitor neglect recycle manual zero";
+var mnemonic = "monster this hard large boy pitch clay unknown liberty century unable trend";

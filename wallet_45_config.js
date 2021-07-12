@@ -1,1 +1,1 @@
-var mnemonic = "noise lesson judge dance chuckle inject priority exhaust timber chunk come fossil";
+var mnemonic = "network cabin immune escape video mouse awesome father general maximum other mango";

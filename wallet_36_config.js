@@ -1,1 +1,1 @@
-var mnemonic = "fence museum fancy appear extra dignity shy believe child trophy cook face";
+var mnemonic = "cupboard laundry vintage ginger frown hawk clog federal entire dove maple screen";

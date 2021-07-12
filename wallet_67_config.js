@@ -1,1 +1,1 @@
-var mnemonic = "random base puppy exhaust improve monkey trend cash thing guess mail taste";
+var mnemonic = "bargain ripple scorpion consider canal ring jelly any rib domain naive favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "slush napkin away miss subway borrow news junk history blood bone leopard";
+var mnemonic = "barrel detect awake guard rhythm spike please vivid payment afford month same";

@@ -1,1 +1,1 @@
-var mnemonic = "three hobby smoke setup neglect chimney sight tuition wisdom capable piece carbon";
+var mnemonic = "lake priority since pole grief radar summer second nurse final random today";

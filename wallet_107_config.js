@@ -1,1 +1,1 @@
-var mnemonic = "vibrant sausage child arrange rate during various fossil weather visit rigid cousin";
+var mnemonic = "join manage drill olympic melt behind hollow cute used pride mercy ivory";

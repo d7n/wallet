@@ -1,1 +1,1 @@
-var mnemonic = "other garment pole lonely monitor asset glue city satisfy blue humor gap";
+var mnemonic = "runway ivory snow beauty pulp rich monster casino sniff angry card aerobic";

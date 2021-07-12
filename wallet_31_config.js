@@ -1,1 +1,1 @@
-var mnemonic = "increase witness click exile favorite domain focus option total pill trigger cart";
+var mnemonic = "tornado couch quick tomorrow crush inside kiss charge bomb soon often cry";

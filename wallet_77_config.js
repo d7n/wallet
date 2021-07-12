@@ -1,1 +1,1 @@
-var mnemonic = "junior draw domain board enhance income primary visa series zone web limit";
+var mnemonic = "clown catch tree basic rib minute arrest husband nuclear exchange make bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "guard galaxy planet income tiny only explain bounce citizen panel exit symptom";
+var mnemonic = "blossom indoor claw surround tent mechanic before oppose shine omit moment real";

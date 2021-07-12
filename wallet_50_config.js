@@ -1,1 +1,1 @@
-var mnemonic = "call broccoli cotton member chronic company law manual belt critic injury bachelor";
+var mnemonic = "hood cereal ski friend mimic drift need decade biology cherry behind little";

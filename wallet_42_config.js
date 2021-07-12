@@ -1,1 +1,1 @@
-var mnemonic = "discover derive flock love chef jazz make company plug guitar baby noodle";
+var mnemonic = "retire small horror upgrade place snow winner pear carry lucky border wash";

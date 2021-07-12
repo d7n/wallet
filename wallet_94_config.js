@@ -1,1 +1,1 @@
-var mnemonic = "movie letter survey famous ice narrow image hard danger bleak pelican earn";
+var mnemonic = "elephant identify announce deliver memory rate arena defense picture unveil olympic dry";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp weasel charge alone bind hour script century shell spirit rice farm";
+var mnemonic = "explain pool eagle coyote defy aim drive avocado infant guide anchor lucky";

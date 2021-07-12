@@ -1,1 +1,1 @@
-var mnemonic = "dizzy zoo cable alter smoke kingdom unknown very turtle travel exclude appear";
+var mnemonic = "lemon economy blur inner dose usual roast purse great then envelope segment";

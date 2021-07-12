@@ -1,1 +1,1 @@
-var mnemonic = "bench rice mechanic chuckle success lobster sword phrase bracket merit leopard awful";
+var mnemonic = "fatal swim cigar card bachelor excuse afford share citizen kind fun charge";

@@ -1,1 +1,1 @@
-var mnemonic = "gown diamond hospital valve border gossip lottery life speak session question call";
+var mnemonic = "truth adjust movie amateur scout skirt nephew expand bus install debris kind";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire timber cash guitar wasp boost more lonely coyote opinion brown vacant";
+var mnemonic = "report copy salmon odor enlist top doll syrup dream cloud holiday valid";

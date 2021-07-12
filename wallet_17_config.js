@@ -1,1 +1,1 @@
-var mnemonic = "rug column rubber hedgehog adjust impulse damp screen traffic celery window scrub";
+var mnemonic = "state receive marriage matrix sun unique orbit general slow dilemma beef caught";

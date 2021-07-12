@@ -1,1 +1,1 @@
-var mnemonic = "zero veteran vast level sponsor elbow delay crew salute brain general indoor";
+var mnemonic = "version rival wear scorpion peace quality lawn sunny large truth crystal pepper";

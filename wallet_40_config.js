@@ -1,1 +1,1 @@
-var mnemonic = "oblige leaf exhaust service price palm delay scale chimney alcohol vibrant property";
+var mnemonic = "raven misery update shift green rabbit grow cradle list forward swim angry";

@@ -1,1 +1,1 @@
-var mnemonic = "basket across grape true burger also since blade gold crack matrix diesel";
+var mnemonic = "protect company sausage swift lava enrich donor science impulse tragic stamp add";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut unknown absurd okay strong region mind wreck desk orbit gravity nation";
+var mnemonic = "crop airport fury valid produce learn girl family involve sock license future";

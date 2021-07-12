@@ -1,1 +1,1 @@
-var mnemonic = "amazing window science surprise oblige wagon cousin tag noise metal eight spirit";
+var mnemonic = "mail twenty state capable yard kid trap bounce response wear owner card";

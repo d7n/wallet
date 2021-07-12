@@ -1,1 +1,1 @@
-var mnemonic = "spot brain century ancient run lumber oven memory mask zone brisk moon";
+var mnemonic = "crisp acquire solar adapt athlete rely poet oven analyst galaxy sausage crane";

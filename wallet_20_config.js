@@ -1,1 +1,1 @@
-var mnemonic = "desert party slight leader element mobile kiss alter liberty coyote trade crystal";
+var mnemonic = "power night neither moral fold vote jacket oven garment another inquiry coyote";

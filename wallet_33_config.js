@@ -1,1 +1,1 @@
-var mnemonic = "shove final essence fragile chief lab party scout between audit repeat quiz";
+var mnemonic = "together story amount river perfect rent young narrow fiction van aisle modify";

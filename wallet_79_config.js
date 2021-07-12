@@ -1,1 +1,1 @@
-var mnemonic = "donkey oxygen lab mouse ill salmon advance cannon person property rebel honey";
+var mnemonic = "fetch purchase appear increase auction jeans suggest ring oak august fence demise";

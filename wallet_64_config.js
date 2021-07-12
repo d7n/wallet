@@ -1,1 +1,1 @@
-var mnemonic = "two balcony whisper marine unique enact hub normal ribbon staff prefer fashion";
+var mnemonic = "robot boat timber enough asthma economy polar demise clinic fence enroll pistol";

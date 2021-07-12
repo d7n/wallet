@@ -1,1 +1,1 @@
-var mnemonic = "essay weekend scheme thrive gaze release aisle silver angle silk recipe regret";
+var mnemonic = "isolate cattle armed curtain camp winner dance frozen foil wise latin drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "voice output cool desert roast extra resist receive matrix dune peasant timber";
+var mnemonic = "square trigger spirit chunk sign sure cat south crucial case invite dash";

@@ -1,1 +1,1 @@
-var mnemonic = "alone lamp tissue effort method social border outdoor grid recall bubble soon";
+var mnemonic = "van clutch rare state visa assume jewel allow jewel nature observe horn";

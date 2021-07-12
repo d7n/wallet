@@ -1,1 +1,1 @@
-var mnemonic = "rose blade milk child define jacket media tomorrow pink squeeze mammal fancy";
+var mnemonic = "bacon segment oppose glide aisle nuclear high twist dilemma come blossom crime";
