@@ -1,1 +1,1 @@
-var mnemonic = "genius aspect oxygen sport theory moment noble blame miracle describe spring acquire";
+var mnemonic = "oyster cram cause fee tree mention pig sadness tunnel enable gown home";

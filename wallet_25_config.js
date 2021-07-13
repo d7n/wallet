@@ -1,1 +1,1 @@
-var mnemonic = "praise together cousin phone broom soon cabbage april luggage couple curve satoshi";
+var mnemonic = "drastic inject frequent hint unit tunnel girl zone owner occur clarify clean";

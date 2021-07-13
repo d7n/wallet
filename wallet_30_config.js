@@ -1,1 +1,1 @@
-var mnemonic = "tank trim lava burst arch love attitude task size doll dignity clay";
+var mnemonic = "tool taste chef dad jealous betray seek squirrel security pony frog local";

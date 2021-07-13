@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog visual buyer surface orbit barely drift you art umbrella flag cook";
+var mnemonic = "thrive canoe boss junk jungle object viable tackle earn luggage act organ";

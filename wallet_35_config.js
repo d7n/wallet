@@ -1,1 +1,1 @@
-var mnemonic = "buyer prosper rebuild popular wagon elite reveal cycle local fire actual island";
+var mnemonic = "emerge knife law inform cream lyrics model trim awake bicycle around drip";

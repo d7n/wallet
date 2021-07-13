@@ -1,1 +1,1 @@
-var mnemonic = "youth system hire tennis rice peace cherry join buzz acoustic piece rigid";
+var mnemonic = "front art fantasy insane because bus clutch siren offer ancient check fat";

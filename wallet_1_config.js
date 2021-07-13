@@ -1,1 +1,1 @@
-var mnemonic = "blur flight debate dismiss eagle fetch sport craft gain bamboo trouble milk";
+var mnemonic = "amazing refuse expect hobby garment erase imitate lift pony crumble provide slush";

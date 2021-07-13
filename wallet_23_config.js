@@ -1,1 +1,1 @@
-var mnemonic = "fit social fix tray check armed olympic lava task magic danger uncle";
+var mnemonic = "fiction drop travel multiply family trade junk way club romance capital phone";

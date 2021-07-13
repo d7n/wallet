@@ -1,1 +1,1 @@
-var mnemonic = "airport wear entire box junk poverty drip absorb evolve apology blush clip";
+var mnemonic = "caught nose once abuse wrestle crawl spread sudden lion interest naive truth";

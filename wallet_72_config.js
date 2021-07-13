@@ -1,1 +1,1 @@
-var mnemonic = "split badge worth bench unlock mosquito blade tourist retreat grab abuse cement";
+var mnemonic = "indoor ten tortoise olympic gain caught portion suit mix dad gym early";

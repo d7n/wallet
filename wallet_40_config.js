@@ -1,1 +1,1 @@
-var mnemonic = "utility target metal shell protect element ivory patrol pause neglect actor extend";
+var mnemonic = "truck voice spawn kitten reveal pink farm black olympic neck shaft thought";

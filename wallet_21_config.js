@@ -1,1 +1,1 @@
-var mnemonic = "dilemma jump remind stone goddess disorder recipe over firm pumpkin caught spell";
+var mnemonic = "velvet kitchen pepper siege diet search action lottery range crime sea quantum";

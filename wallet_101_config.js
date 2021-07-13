@@ -1,1 +1,1 @@
-var mnemonic = "device mean right attend attend off thank suffer surround mule limb vanish";
+var mnemonic = "pretty champion behave pitch finger north double genuine sea normal marriage chase";

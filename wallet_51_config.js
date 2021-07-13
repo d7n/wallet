@@ -1,1 +1,1 @@
-var mnemonic = "zoo awake cloud dad clock depart access entry version august smooth tumble";
+var mnemonic = "neglect jelly inflict panic earth license muscle vessel noise govern confirm range";

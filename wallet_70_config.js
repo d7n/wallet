@@ -1,1 +1,1 @@
-var mnemonic = "weather siege noble bike usual fever vanish peanut debris gaze angry virus";
+var mnemonic = "letter govern ugly monster often acquire genuine note fish burst phone car";

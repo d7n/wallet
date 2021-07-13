@@ -1,1 +1,1 @@
-var mnemonic = "decade salon balcony rescue sure tobacco picnic very leopard sphere bamboo wire";
+var mnemonic = "quit limit chest useful fiction pioneer say tiny close version magic square";

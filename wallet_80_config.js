@@ -1,1 +1,1 @@
-var mnemonic = "worth balcony sell carbon venture garage bus silk trophy keen pyramid usage";
+var mnemonic = "abstract else ahead clap want police fork piece fork million ask large";

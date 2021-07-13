@@ -1,1 +1,1 @@
-var mnemonic = "gloom truth horn alone tortoise suffer comic bonus approve museum delay insane";
+var mnemonic = "duck brand clog move armed like adult fancy scare lecture license rule";

@@ -1,1 +1,1 @@
-var mnemonic = "extend device master stand slogan process food rich cage bicycle paper guilt";
+var mnemonic = "theory tennis nut girl fortune already mobile public radio whale dad false";

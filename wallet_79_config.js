@@ -1,1 +1,1 @@
-var mnemonic = "wait verb absorb fine movie stereo uncover smooth legend boss neutral lawn";
+var mnemonic = "spray zoo copper define banner edge desert ghost mobile recipe arm gas";

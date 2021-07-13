@@ -1,1 +1,1 @@
-var mnemonic = "will canoe fiber absorb cash twenty glory vivid maple famous saddle acoustic";
+var mnemonic = "luxury paddle globe sunny repeat cotton castle year always trouble manage moral";

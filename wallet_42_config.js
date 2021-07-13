@@ -1,1 +1,1 @@
-var mnemonic = "gallery utility accident topic jazz mistake park energy bag cook adult cook";
+var mnemonic = "unable puzzle fetch color shed yard swamp cool erase health humble inquiry";

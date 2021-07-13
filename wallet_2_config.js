@@ -1,1 +1,1 @@
-var mnemonic = "large pepper stool fatigue marriage immense dragon affair like sudden guitar damp";
+var mnemonic = "song identify royal regret other whale menu practice portion that episode actress";

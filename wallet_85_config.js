@@ -1,1 +1,1 @@
-var mnemonic = "search total bonus couch identify tennis borrow intact ethics foot leaf present";
+var mnemonic = "mountain original cereal setup farm dolphin can fluid seminar leopard tunnel human";

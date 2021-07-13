@@ -1,1 +1,1 @@
-var mnemonic = "humor typical pepper penalty reflect wish woman core census assume sister march";
+var mnemonic = "erupt shop certain loop unit field daring law jar ramp beef resource";

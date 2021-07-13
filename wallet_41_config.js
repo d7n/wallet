@@ -1,1 +1,1 @@
-var mnemonic = "iron paper floor shrug spike brain proof connect document analyst open eagle";
+var mnemonic = "gym entire select kitten problem parade horn spread cotton net plunge they";

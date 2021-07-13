@@ -1,1 +1,1 @@
-var mnemonic = "chronic alert attitude bamboo silent flip practice animal wrong offer atom sword";
+var mnemonic = "then survey bleak coast trash walk domain silk soap wool bless quick";

@@ -1,1 +1,1 @@
-var mnemonic = "birth sunny dream casino prosper member hope base fall maid burger neck";
+var mnemonic = "pilot sudden spawn useless morning reunion fire rebel rhythm gasp wink inform";

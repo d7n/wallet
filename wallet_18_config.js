@@ -1,1 +1,1 @@
-var mnemonic = "random decide property client vendor identify mother flee theme relax retire where";
+var mnemonic = "hole coach lazy wealth solid roof fragile occur fiber paper manual allow";

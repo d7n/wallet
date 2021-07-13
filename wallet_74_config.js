@@ -1,1 +1,1 @@
-var mnemonic = "casino session soup crystal ahead flee sudden drastic salmon mobile toss detect";
+var mnemonic = "above tornado tackle spring example garment average torch aunt grid behave cable";

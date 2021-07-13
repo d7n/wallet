@@ -1,1 +1,1 @@
-var mnemonic = "valley aspect happy armor jealous sting twelve swarm seven access giant trial";
+var mnemonic = "divert menu program range better clutch moon air admit arch obvious gadget";

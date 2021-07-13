@@ -1,1 +1,1 @@
-var mnemonic = "security exist bar axis sheriff hockey diet cherry street distance tower torch";
+var mnemonic = "edit stable pulse evidence dismiss seat normal final flower kid toy about";

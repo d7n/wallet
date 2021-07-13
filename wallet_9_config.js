@@ -1,1 +1,1 @@
-var mnemonic = "build increase flee demise great where donkey jewel gallery plate trouble embark";
+var mnemonic = "vast marble settle treat victory concert middle sheriff rescue model oven rotate";

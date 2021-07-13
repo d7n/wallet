@@ -1,1 +1,1 @@
-var mnemonic = "stomach escape state print sort album hamster copper remind front slide gloom";
+var mnemonic = "bright latin afraid unhappy peanut foam possible entry twenty glare good damage";

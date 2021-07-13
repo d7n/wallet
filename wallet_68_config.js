@@ -1,1 +1,1 @@
-var mnemonic = "depart cream parrot middle nature brief live scale sibling gossip tobacco salt";
+var mnemonic = "worth month since violin smile beauty bounce rain try long march donate";

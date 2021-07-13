@@ -1,1 +1,1 @@
-var mnemonic = "sausage tent canoe sell toilet gate teach drama cry toilet vanish virtual";
+var mnemonic = "guess corn seek dose mask stage secret barely vital pioneer royal hope";

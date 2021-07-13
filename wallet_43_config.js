@@ -1,1 +1,1 @@
-var mnemonic = "ask there ankle win parent include olive cross menu move neither antenna";
+var mnemonic = "race radio work assault mix doctor task oak position plastic arrange bar";

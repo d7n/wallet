@@ -1,1 +1,1 @@
-var mnemonic = "toy orphan bus differ inspire bicycle cover audit later parade sock left";
+var mnemonic = "rule weapon camp kidney rescue army raise exit sausage silver plug vibrant";

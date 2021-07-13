@@ -1,1 +1,1 @@
-var mnemonic = "panther solid seat moon talk elite army deny ranch brief arrest sugar";
+var mnemonic = "easily country motor toe joke gift romance normal manual first hunt exclude";

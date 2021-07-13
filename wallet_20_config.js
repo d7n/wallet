@@ -1,1 +1,1 @@
-var mnemonic = "skull various luxury cycle street pluck process need vendor elbow garlic fatigue";
+var mnemonic = "alien battle glide eye monkey chalk future volcano clock symbol manual perfect";

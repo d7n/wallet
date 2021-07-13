@@ -1,1 +1,1 @@
-var mnemonic = "frown cycle anxiety gas thank boring carry doll hotel maid remove student";
+var mnemonic = "steel chaos ankle supply web inner height quiz thumb walk maze valid";

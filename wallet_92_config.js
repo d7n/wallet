@@ -1,1 +1,1 @@
-var mnemonic = "olympic horror kitten wall head equip dry verify indoor define push best";
+var mnemonic = "rib leisure faint wish balcony trust meadow melt tent possible unveil humble";

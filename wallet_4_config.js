@@ -1,1 +1,1 @@
-var mnemonic = "rough craft learn erosion change welcome cat detail uphold thunder crop eight";
+var mnemonic = "better cotton acoustic aunt derive tuna select apart winner admit over usual";

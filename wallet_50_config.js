@@ -1,1 +1,1 @@
-var mnemonic = "night hockey orchard view egg boat hope cabbage excuse exit antique mushroom";
+var mnemonic = "genre submit street omit pave firm loyal split execute alien salad travel";

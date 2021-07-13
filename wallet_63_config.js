@@ -1,1 +1,1 @@
-var mnemonic = "lazy they brown maze hidden attack belt siren either grain planet initial";
+var mnemonic = "venture double donkey sport file toward melt second near useful ecology flag";

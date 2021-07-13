@@ -1,1 +1,1 @@
-var mnemonic = "six pave write misery sample close surround lecture brief unveil popular nest";
+var mnemonic = "night load runway chalk across scatter fever follow twenty bind turkey color";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude author argue snack vast giant glance magnet dilemma kick anxiety traffic";
+var mnemonic = "only near retreat sugar donor brave proud unhappy age steel will sweet";

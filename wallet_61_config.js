@@ -1,1 +1,1 @@
-var mnemonic = "soup warm magic clarify gadget guide fly portion banner teach swift attack";
+var mnemonic = "custom dash spatial purchase pencil bronze finish proof kit phrase tide bless";

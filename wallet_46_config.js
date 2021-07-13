@@ -1,1 +1,1 @@
-var mnemonic = "boy monster guilt range tilt say system creek various health fringe ozone";
+var mnemonic = "mix spatial defense intact combine account exercise uniform conduct slab battle witness";

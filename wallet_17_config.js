@@ -1,1 +1,1 @@
-var mnemonic = "vague wagon giraffe afford cradle cheap crater exotic reason bulk alone train";
+var mnemonic = "brother asset begin echo crowd work affair toe pledge fan lecture stove";

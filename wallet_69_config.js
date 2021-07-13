@@ -1,1 +1,1 @@
-var mnemonic = "fury board clap tag despair wasp coin method access company police card";
+var mnemonic = "fancy sun boil country fragile kind suggest drip quality mountain power wood";

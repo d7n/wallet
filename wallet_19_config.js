@@ -1,1 +1,1 @@
-var mnemonic = "snow toast never ordinary mouse noble ripple snow bunker hazard swap second";
+var mnemonic = "enjoy discover section judge guilt prevent poverty win ranch scout mosquito offer";

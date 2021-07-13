@@ -1,1 +1,1 @@
-var mnemonic = "harsh first excess defense turn fault happy method castle trade crucial pen";
+var mnemonic = "pig brief humor easy away helmet endorse stamp picnic jealous put mix";

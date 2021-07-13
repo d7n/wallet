@@ -1,1 +1,1 @@
-var mnemonic = "embody like tongue other enforce regular fetch initial close van fiber room";
+var mnemonic = "escape science cupboard enemy creek deal peasant strike cousin you caught sand";

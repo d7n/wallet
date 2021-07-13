@@ -1,1 +1,1 @@
-var mnemonic = "cup window home tourist bike turtle whisper about renew choose erase want";
+var mnemonic = "purse sauce lawsuit honey chef furnace filter credit novel helmet theory vague";

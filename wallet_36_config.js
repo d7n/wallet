@@ -1,1 +1,1 @@
-var mnemonic = "share elevator execute yard age robust brown clutch bird crowd nurse paddle";
+var mnemonic = "energy morning vivid kiss betray inspire cave drink force noodle kiwi run";

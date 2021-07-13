@@ -1,1 +1,1 @@
-var mnemonic = "column happy airport furnace spoil one census angle father gauge mail coach";
+var mnemonic = "mosquito age fragile erupt spend ginger plate fringe sand two like intact";

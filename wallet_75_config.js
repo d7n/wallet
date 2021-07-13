@@ -1,1 +1,1 @@
-var mnemonic = "program desk check aim volume napkin clay sell energy market useless genuine";
+var mnemonic = "fork episode twin century filter confirm cute drink soap antenna practice sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "input mouse movie jealous second army long head raven omit crystal matter";
+var mnemonic = "gas notable place bus column library lazy birth vanish actual entire vault";

@@ -1,1 +1,1 @@
-var mnemonic = "blush enrich friend drift fitness fame replace group paper angry first add";
+var mnemonic = "cute people repair suffer identify wealth miss broccoli recipe fever food travel";

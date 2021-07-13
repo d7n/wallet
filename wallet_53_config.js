@@ -1,1 +1,1 @@
-var mnemonic = "castle lounge nasty spin forget divide identify noodle wasp huge crowd keep";
+var mnemonic = "word camp wasp grief marble program nasty ice track crime leg rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar wet inhale stove steel draw power engage funny title owner crime";
+var mnemonic = "frequent choice accuse quantum pair one unfair jelly easily wait true useful";

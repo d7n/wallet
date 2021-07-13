@@ -1,1 +1,1 @@
-var mnemonic = "firm bomb hazard return city hour tool math accident purchase antenna concert";
+var mnemonic = "impulse dish envelope beef meadow edit art blade pottery oil tongue coconut";

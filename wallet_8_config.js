@@ -1,1 +1,1 @@
-var mnemonic = "surround pistol truth spell habit burst happy quit advance tissue summer vocal";
+var mnemonic = "stable gentle physical brisk bean also slam matrix demise ignore moral olive";

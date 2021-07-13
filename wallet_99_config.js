@@ -1,1 +1,1 @@
-var mnemonic = "pond rice tool chunk pony digital angry news album furnace across virtual";
+var mnemonic = "climb original borrow universe rigid pen music because stamp someone february typical";

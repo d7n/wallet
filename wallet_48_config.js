@@ -1,1 +1,1 @@
-var mnemonic = "video base village next police glove inform lawn decade heavy move dial";
+var mnemonic = "pepper shed kid night give penalty soccer wash club gauge mail feed";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach elevator april toilet bullet shoot exercise upper identify any know setup";
+var mnemonic = "focus street aware exclude borrow round verb unusual apple forget pipe hockey";

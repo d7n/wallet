@@ -1,1 +1,1 @@
-var mnemonic = "space visa present broom narrow time pulp flavor enlist session bachelor exhibit";
+var mnemonic = "bean knock guilt between shine muffin wear supply bind cruel fresh security";

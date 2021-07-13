@@ -1,1 +1,1 @@
-var mnemonic = "tennis chicken order federal discover sing surface hood menu dolphin box party";
+var mnemonic = "switch horror mixture ginger minute anxiety receive enrich distance genre image consider";

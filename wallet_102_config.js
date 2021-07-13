@@ -1,1 +1,1 @@
-var mnemonic = "love buzz potato token bronze fold recycle maximum rib divide swamp age";
+var mnemonic = "cost soft wall lyrics garbage segment author drastic any oak goddess maximum";

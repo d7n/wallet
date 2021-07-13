@@ -1,1 +1,1 @@
-var mnemonic = "parent drill punch travel digital property lobster disease clump poem crazy quiz";
+var mnemonic = "buffalo depend dad issue talk aerobic tell clay object enable stairs multiply";

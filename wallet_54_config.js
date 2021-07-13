@@ -1,1 +1,1 @@
-var mnemonic = "whisper torch lyrics report render essay endorse father twenty urban decrease injury";
+var mnemonic = "neglect mansion theme merge length safe poverty moment topple couple kit oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "caution treat rookie adult property subject oak melt exact ice farm chat";
+var mnemonic = "paper girl entry skull shop end pause hero almost divorce north sample";

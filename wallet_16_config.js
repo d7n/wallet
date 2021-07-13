@@ -1,1 +1,1 @@
-var mnemonic = "cover bunker gauge anxiety tooth uniform leopard remind program car fetch correct";
+var mnemonic = "april appear other layer enrich canal senior van height dutch spin sustain";

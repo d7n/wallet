@@ -1,1 +1,1 @@
-var mnemonic = "cricket chat poem purchase absurd vote theory gain amateur random ketchup risk";
+var mnemonic = "disorder rude sausage prison parade keep method axis arrive manage danger valid";

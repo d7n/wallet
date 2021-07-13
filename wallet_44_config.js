@@ -1,1 +1,1 @@
-var mnemonic = "perfect machine recycle book nasty wise evolve nothing cook grab bridge vague";
+var mnemonic = "setup symbol nature control flight pole myth focus gravity anchor author seat";

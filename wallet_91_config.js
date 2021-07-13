@@ -1,1 +1,1 @@
-var mnemonic = "project dad seed effort ostrich coral entire wrestle comic boil attack explain";
+var mnemonic = "banner victory caution october book divorce forget hotel party umbrella voyage cereal";

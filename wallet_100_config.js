@@ -1,1 +1,1 @@
-var mnemonic = "state media clock shallow item under female drama lesson search wasp soccer";
+var mnemonic = "unknown mixture carry stay kick toe one race spot title nest cup";

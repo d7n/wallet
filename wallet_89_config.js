@@ -1,1 +1,1 @@
-var mnemonic = "trap record syrup oil core one gather pool inside blade exile quick";
+var mnemonic = "forward tired better suffer tool brush vibrant episode demise civil regret subject";

@@ -1,1 +1,1 @@
-var mnemonic = "few jacket carbon stamp give thought educate moon panel sun wasp strategy";
+var mnemonic = "filter sport ignore language amazing heavy kitten nephew public gorilla width creek";

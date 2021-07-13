@@ -1,1 +1,1 @@
-var mnemonic = "nation shiver milk hour menu end edit error client nasty voice mix";
+var mnemonic = "shadow describe pepper crew endorse liberty dirt list chicken rotate clip abuse";

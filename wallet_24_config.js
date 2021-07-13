@@ -1,1 +1,1 @@
-var mnemonic = "silent segment ride suggest bargain upper mind sunset delay crane join proud";
+var mnemonic = "soda fluid surge reduce odor gospel run weather sorry divide add symbol";

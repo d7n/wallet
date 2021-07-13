@@ -1,1 +1,1 @@
-var mnemonic = "movie volume slogan tribe panther hour steel siege crunch flag frame typical";
+var mnemonic = "obey light embark teach friend surprise priority hair cricket tackle sound ghost";

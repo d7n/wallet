@@ -1,1 +1,1 @@
-var mnemonic = "limit doll cool raise tray doctor memory glimpse soul because news involve";
+var mnemonic = "return display prevent venture benefit demise million sun object media property connect";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk regret cabbage situate spike battle two tobacco chapter orphan cave master";
+var mnemonic = "slice code wife cart require slide stove inform pelican say swamp village";
