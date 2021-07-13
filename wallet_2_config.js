@@ -1,1 +1,1 @@
-var mnemonic = "trouble seminar angle favorite wash easy pottery come fever course poet chimney";
+var mnemonic = "fish hollow office predict isolate adult inform because meat edit napkin monitor";

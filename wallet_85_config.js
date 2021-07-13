@@ -1,1 +1,1 @@
-var mnemonic = "claim inherit tomorrow turn siege voice play rebuild vendor siege brisk burger";
+var mnemonic = "shrimp hunt cannon spirit hill seminar visit cement wool torch talk shrug";

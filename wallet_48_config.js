@@ -1,1 +1,1 @@
-var mnemonic = "chef steak shrug shift edge all clever stock essence erosion balance control";
+var mnemonic = "become sniff tube oven item cage dwarf pilot heart copper garden artefact";

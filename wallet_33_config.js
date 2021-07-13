@@ -1,1 +1,1 @@
-var mnemonic = "first nothing jar erode help swallow lucky rescue inquiry correct ugly cement";
+var mnemonic = "mushroom logic alter flavor peasant model universe drastic crop smoke error tower";

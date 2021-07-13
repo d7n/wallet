@@ -1,1 +1,1 @@
-var mnemonic = "smooth away style laugh cinnamon celery pyramid apology repeat panther edge execute";
+var mnemonic = "dawn topple tree bench insane disagree shrimp mixture roast body coffee produce";

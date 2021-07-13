@@ -1,1 +1,1 @@
-var mnemonic = "amazing raise diagram cake govern hope virtual pitch explain water slogan puzzle";
+var mnemonic = "gloom method alley bulk happy museum toy number author venue zero exclude";

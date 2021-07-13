@@ -1,1 +1,1 @@
-var mnemonic = "tunnel march side crawl artwork moral horse level distance sail rubber enjoy";
+var mnemonic = "fruit sense devote charge prevent digital cement elephant cover roof alcohol clog";

@@ -1,1 +1,1 @@
-var mnemonic = "whale elbow cousin this infant situate kite blame hospital sun clean energy";
+var mnemonic = "art unknown push survey latin gesture any casino rug top robust panda";

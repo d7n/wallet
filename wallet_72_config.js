@@ -1,1 +1,1 @@
-var mnemonic = "kind silly eight ordinary unfold faith dirt used unveil enforce ask argue";
+var mnemonic = "mother invest frozen stuff cannon pulse swamp script buddy virtual vanish subway";

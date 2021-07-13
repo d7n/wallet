@@ -1,1 +1,1 @@
-var mnemonic = "tube humor scan struggle armed venture struggle rigid disease clump twist spell";
+var mnemonic = "toss chief history rare wall wild auction prison accuse mango notice bless";

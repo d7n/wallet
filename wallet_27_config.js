@@ -1,1 +1,1 @@
-var mnemonic = "dance wreck club rotate wear holiday quote saddle wet chat own fog";
+var mnemonic = "gloom phone elite valid clap disorder hub list smart body garage kid";

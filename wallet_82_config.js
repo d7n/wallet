@@ -1,1 +1,1 @@
-var mnemonic = "tackle final appear phone someone extra case deposit crazy catch immense author";
+var mnemonic = "drastic wrestle excess shy lab battle answer clean moon east rabbit assume";

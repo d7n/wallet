@@ -1,1 +1,1 @@
-var mnemonic = "tired sponsor fortune man cook stairs draft over lemon alone bench balcony";
+var mnemonic = "chunk marine mesh skull scan intact tennis build car bone appear foster";

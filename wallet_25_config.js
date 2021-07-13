@@ -1,1 +1,1 @@
-var mnemonic = "knee lady during sight airport split pond invest fan blanket online transfer";
+var mnemonic = "fault elder test coyote wife struggle hello slim pigeon burden minute toss";

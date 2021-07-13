@@ -1,1 +1,1 @@
-var mnemonic = "possible false source iron crystal host pair lock dice video resource remember";
+var mnemonic = "home avoid siege income youth before donate funny degree echo category bean";

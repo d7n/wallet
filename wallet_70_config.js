@@ -1,1 +1,1 @@
-var mnemonic = "dash bacon rare tell gas spoon negative judge desk keep bubble agent";
+var mnemonic = "apart swamp muffin breeze bubble three beauty crater west green fresh omit";

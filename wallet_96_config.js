@@ -1,1 +1,1 @@
-var mnemonic = "survey great away match ankle morning remember naive juice please badge type";
+var mnemonic = "transfer knock shrug valve marine shrug system news flash lottery prefer hub";

@@ -1,1 +1,1 @@
-var mnemonic = "night excuse around torch ranch suffer cloud twin outer orphan ancient dad";
+var mnemonic = "giggle drive connect consider require token keen hunt mountain permit hole example";

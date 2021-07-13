@@ -1,1 +1,1 @@
-var mnemonic = "matter great fringe action boy coral crazy echo sudden divide zone phrase";
+var mnemonic = "wisdom minor sentence magnet orphan wheel hint pilot birth congress bridge surround";

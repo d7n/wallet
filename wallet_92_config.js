@@ -1,1 +1,1 @@
-var mnemonic = "proud penalty soup evoke ride scare broom shield lyrics actual embody melt";
+var mnemonic = "sing digital civil peasant exercise couple path throw vicious foam glue divorce";

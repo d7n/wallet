@@ -1,1 +1,1 @@
-var mnemonic = "chaos faith aerobic quiz mixed embark ball brain fancy carbon firm eternal";
+var mnemonic = "alpha army cute start hotel velvet text banana tongue drip oxygen proof";

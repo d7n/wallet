@@ -1,1 +1,1 @@
-var mnemonic = "abstract cotton critic eagle laptop cause forget grab bottom party accident announce";
+var mnemonic = "fluid list forest unhappy skill dynamic margin vault unfair nation surround ceiling";

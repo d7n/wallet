@@ -1,1 +1,1 @@
-var mnemonic = "month coast camp roof similar copper kitten misery excess twist issue protect";
+var mnemonic = "corn minute winner turn raise physical game fetch globe multiply race degree";

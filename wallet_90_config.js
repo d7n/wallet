@@ -1,1 +1,1 @@
-var mnemonic = "rapid cricket fiber judge hint tattoo lunch loyal spare journey kick develop";
+var mnemonic = "yard mom foil before tuna initial wide color party diamond shop broken";

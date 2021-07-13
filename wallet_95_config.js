@@ -1,1 +1,1 @@
-var mnemonic = "dwarf couple magic false solution thing congress north hazard genre dirt sponsor";
+var mnemonic = "walk hockey park vault lucky vast reflect crawl offer session you life";

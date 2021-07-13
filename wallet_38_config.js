@@ -1,1 +1,1 @@
-var mnemonic = "perfect jump choice sheriff tissue claim patient talent section uniform celery language";
+var mnemonic = "tortoise gaze river ski erosion build achieve drift face brush cup rate";

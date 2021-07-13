@@ -1,1 +1,1 @@
-var mnemonic = "steak equip wealth index helmet mass latin hip moral network april school";
+var mnemonic = "control weather fire cupboard pony frown skin dignity chat accuse simple check";

@@ -1,1 +1,1 @@
-var mnemonic = "torch text toss old pupil update real length bounce pride summer crush";
+var mnemonic = "educate rapid dial hair spin velvet destroy zero outer until minor swap";

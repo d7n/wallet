@@ -1,1 +1,1 @@
-var mnemonic = "high park gas fit attitude garment click clump soup advance mosquito word";
+var mnemonic = "bind mask coconut pyramid senior elite paper maid asthma radio faculty glance";

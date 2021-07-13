@@ -1,1 +1,1 @@
-var mnemonic = "evidence swarm season initial forest hill blood pioneer tag fresh chat excuse";
+var mnemonic = "wrist congress artist enable taxi slab alarm dignity wish aerobic reopen wink";

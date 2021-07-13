@@ -1,1 +1,1 @@
-var mnemonic = "donate that wealth olympic hole warrior affair metal extend reduce model snap";
+var mnemonic = "unit cruise town interest run orphan civil hawk stairs gasp warfare private";

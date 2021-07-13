@@ -1,1 +1,1 @@
-var mnemonic = "duck typical piano park arrest safe produce flush attack umbrella search shell";
+var mnemonic = "runway grace ski faculty boss curve velvet firm purchase lake similar surge";

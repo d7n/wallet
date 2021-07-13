@@ -1,1 +1,1 @@
-var mnemonic = "blade guide series genius clay chest shell industry noodle poem length similar";
+var mnemonic = "prevent mixture rice type oil era mansion smoke speed dish chimney nature";

@@ -1,1 +1,1 @@
-var mnemonic = "else fire hover earth initial shy lake sugar flush melody embark boat";
+var mnemonic = "clown fever either waste slender cousin vintage analyst shoulder imitate work sadness";

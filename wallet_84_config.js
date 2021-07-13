@@ -1,1 +1,1 @@
-var mnemonic = "spray tourist account glare robot vague message return excite vital almost repeat";
+var mnemonic = "obscure broccoli unknown universe dog tuna left shrimp globe hover elephant arrow";

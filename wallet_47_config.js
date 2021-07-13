@@ -1,1 +1,1 @@
-var mnemonic = "habit bubble orphan host doctor cry business outdoor display joke chicken strong";
+var mnemonic = "scrub make uphold embark spot mean inform wash beauty pelican bounce anxiety";

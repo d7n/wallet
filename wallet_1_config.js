@@ -1,1 +1,1 @@
-var mnemonic = "tragic permit coconut special jacket ill deliver soup various path wave dignity";
+var mnemonic = "board unlock guard feel average label share fox record globe weapon innocent";

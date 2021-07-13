@@ -1,1 +1,1 @@
-var mnemonic = "dog alpha fantasy sound cover earth agree song elegant sword awake giggle";
+var mnemonic = "toe damp replace pistol group obtain theme either asset knife glory quiz";

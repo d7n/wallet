@@ -1,1 +1,1 @@
-var mnemonic = "soft slam eagle pluck humble satisfy fruit attitude alarm autumn ghost repeat";
+var mnemonic = "joy junk steak west shuffle oval pool clown wreck security river faint";

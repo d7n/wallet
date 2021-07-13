@@ -1,1 +1,1 @@
-var mnemonic = "decade beach ecology six neck oblige have situate amazing sibling promote toss";
+var mnemonic = "possible leisure solid obvious way battle come release scheme special grace two";

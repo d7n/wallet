@@ -1,1 +1,1 @@
-var mnemonic = "badge rule radar beauty puppy jump busy come job medal renew manual";
+var mnemonic = "brisk puppy arctic erode protect aspect unaware inquiry desert suffer much wash";

@@ -1,1 +1,1 @@
-var mnemonic = "small train salon maximum maximum apple evidence city method there remain cloud";
+var mnemonic = "mistake permit kangaroo since final salt scissors health leisure pudding hood puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage spider plug legend hurt hip dirt fantasy enemy tackle swing wild";
+var mnemonic = "job tank fantasy merit federal pyramid assist combine stage loud elbow element";

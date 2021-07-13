@@ -1,1 +1,1 @@
-var mnemonic = "glance puzzle edge dumb security dance spatial must plug rubber river giant";
+var mnemonic = "pretty apple boil toast canvas adult benefit almost glass filter earth license";

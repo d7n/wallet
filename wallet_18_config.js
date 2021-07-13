@@ -1,1 +1,1 @@
-var mnemonic = "crime census style cool name useful renew bean style floor keep phone";
+var mnemonic = "keep gentle series motion kitten photo face work pyramid actress plug exclude";

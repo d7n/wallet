@@ -1,1 +1,1 @@
-var mnemonic = "wrestle charge design paddle spot candy either toilet prison code stage absorb";
+var mnemonic = "curve team piece swamp train also book drama reunion home cruise domain";

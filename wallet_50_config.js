@@ -1,1 +1,1 @@
-var mnemonic = "half ivory jewel paper pony forget scale aunt dune menu upon lava";
+var mnemonic = "soft engine symbol slender domain capable aunt brown nature child switch dumb";

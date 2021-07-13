@@ -1,1 +1,1 @@
-var mnemonic = "check start veteran vital step cause left helmet dragon scorpion still indoor";
+var mnemonic = "hunt illegal fuel sleep maze approve oak across grocery road calm birth";

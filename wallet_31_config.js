@@ -1,1 +1,1 @@
-var mnemonic = "hockey child board panda mistake swear shallow neutral slam motor umbrella proof";
+var mnemonic = "future palm that comfort bulk achieve where mule faint seed gap master";

@@ -1,1 +1,1 @@
-var mnemonic = "once wire clay hollow derive float surge trophy muffin idle gorilla turn";
+var mnemonic = "caught magic normal cherry electric want swim fitness awake indicate cluster time";

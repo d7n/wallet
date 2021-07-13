@@ -1,1 +1,1 @@
-var mnemonic = "polar okay dirt online paddle helmet rally moment exact blanket bicycle spice";
+var mnemonic = "borrow deliver subject infant solution grape wide call mean all dynamic beef";

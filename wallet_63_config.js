@@ -1,1 +1,1 @@
-var mnemonic = "latin honey front loud auto empty forward library couple trust bid dream";
+var mnemonic = "dizzy check curtain taxi live enrich achieve rapid green foster diary flag";

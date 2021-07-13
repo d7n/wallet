@@ -1,1 +1,1 @@
-var mnemonic = "art betray uncle beyond inmate worth image slot prison unit scheme slim";
+var mnemonic = "culture mouse man desk odor divorce easy blind village ahead edge alien";

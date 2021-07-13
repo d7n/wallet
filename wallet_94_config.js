@@ -1,1 +1,1 @@
-var mnemonic = "horse collect fun fade unit result basket message garden sting voice wait";
+var mnemonic = "member raven identify lawsuit amused wisdom tuition real wide volume mention find";

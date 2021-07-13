@@ -1,1 +1,1 @@
-var mnemonic = "deliver front skill valley adjust wheat mansion divert gesture bind caught since";
+var mnemonic = "impact meadow lake require future glide act please travel cry sauce settle";

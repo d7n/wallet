@@ -1,1 +1,1 @@
-var mnemonic = "jeans blanket train near much impact appear mimic item pumpkin around distance";
+var mnemonic = "door enforce lava drift local honey hire fuel surprise victory suffer equal";

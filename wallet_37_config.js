@@ -1,1 +1,1 @@
-var mnemonic = "sudden media town wife acquire pear runway ugly interest direct oblige husband";
+var mnemonic = "cabin build canyon response rather finish egg economy uncle corn robot gravity";

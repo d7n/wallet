@@ -1,1 +1,1 @@
-var mnemonic = "shell illegal security plastic elder flat miss remain palm west kingdom any";
+var mnemonic = "rather tragic loyal method field fancy grow life solve disagree elder noble";

@@ -1,1 +1,1 @@
-var mnemonic = "fee rely weapon aerobic hammer govern achieve dinosaur pluck panther meadow relief";
+var mnemonic = "oxygen rural trick bag section infant pear offer access prize oil wood";

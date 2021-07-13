@@ -1,1 +1,1 @@
-var mnemonic = "couch enact wreck mystery umbrella situate settle hungry tunnel rude list general";
+var mnemonic = "nominee skill harsh merit hotel cargo radar book remove gift token cry";

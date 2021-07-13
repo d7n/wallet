@@ -1,1 +1,1 @@
-var mnemonic = "fuel toilet bar trap army focus dolphin make expire frame pact relief";
+var mnemonic = "tube town giant theory desk gift frown isolate vanish mutual prison dress";

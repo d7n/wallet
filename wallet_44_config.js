@@ -1,1 +1,1 @@
-var mnemonic = "portion inflict limb laptop click equal noble endless duck mosquito shaft super";
+var mnemonic = "aisle matter floor fence news logic mirror nut arrange unaware angle mass";

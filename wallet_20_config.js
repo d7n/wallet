@@ -1,1 +1,1 @@
-var mnemonic = "globe require useless relax decide clinic ostrich decorate boss ride wheel account";
+var mnemonic = "spice spirit jump card enroll agree fish fresh reform section vivid stamp";

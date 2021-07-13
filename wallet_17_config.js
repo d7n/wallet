@@ -1,1 +1,1 @@
-var mnemonic = "level spatial unable mom city enjoy chase winner excite law stick glimpse";
+var mnemonic = "glimpse main sample fury physical circle hub sight differ august basic bread";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey garbage boring memory depend outside liar ostrich exercise winner correct toe";
+var mnemonic = "robot front nurse rescue reject capable category hungry inject raccoon extra taste";

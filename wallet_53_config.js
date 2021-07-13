@@ -1,1 +1,1 @@
-var mnemonic = "exit target robust into beauty speed primary wheel squirrel crumble gentle just";
+var mnemonic = "shadow sibling fade start upset boss order narrow close moment grant unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "easily bring inch dream device select grab smart exit expand menu quit";
+var mnemonic = "fragile raw village open taste young winter traffic chuckle net thrive evidence";

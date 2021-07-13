@@ -1,1 +1,1 @@
-var mnemonic = "sing message margin fiscal horn film stairs educate embark balcony broken frog";
+var mnemonic = "mom twenty gate impulse embrace sting barrel beauty sort follow daring nurse";

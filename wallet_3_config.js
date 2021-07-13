@@ -1,1 +1,1 @@
-var mnemonic = "beach basket jump tuition slush arctic wait neither slim carpet rare piece";
+var mnemonic = "rain latin soft slogan join waste crouch praise supply service soft talent";

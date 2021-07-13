@@ -1,1 +1,1 @@
-var mnemonic = "field finish lunch ill pool dizzy uncover birth market crawl satoshi sport";
+var mnemonic = "lens tragic differ detail pudding together panel layer focus grocery number unusual";

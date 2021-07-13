@@ -1,1 +1,1 @@
-var mnemonic = "jelly team small much decline salad believe unhappy truly glory version present";
+var mnemonic = "excuse real tilt punch company warfare subject spell state ice aware tray";

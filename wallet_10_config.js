@@ -1,1 +1,1 @@
-var mnemonic = "pipe twice jazz myth car crawl mix interest segment tank vanish fog";
+var mnemonic = "try finger tragic marble hint early rude hollow disease veteran banner happy";

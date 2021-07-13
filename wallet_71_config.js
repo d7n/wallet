@@ -1,1 +1,1 @@
-var mnemonic = "affair rural cry unhappy guilt world alert mandate marriage army sunny iron";
+var mnemonic = "wisdom room stairs embrace ankle seven dial across measure unveil race elegant";

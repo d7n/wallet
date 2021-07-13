@@ -1,1 +1,1 @@
-var mnemonic = "tourist zero sibling term spice quote sure asthma pistol follow trend digital";
+var mnemonic = "salute kitchen reveal clog raven tackle member daring vote shrimp quarter old";

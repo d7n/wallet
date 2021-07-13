@@ -1,1 +1,1 @@
-var mnemonic = "claim antique subject balance group popular resemble corn hand autumn vital air";
+var mnemonic = "sibling between bus pitch matter slice weather broccoli fringe accident dragon space";

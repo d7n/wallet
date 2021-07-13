@@ -1,1 +1,1 @@
-var mnemonic = "stone kitchen river silent move prison lemon opera hospital jelly minimum dinner";
+var mnemonic = "word version island magnet you result program glue vocal virtual universe swap";

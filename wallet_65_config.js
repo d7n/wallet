@@ -1,1 +1,1 @@
-var mnemonic = "year speed roast turkey brief exotic ritual glare crew share zero coach";
+var mnemonic = "worth beach element replace expose fashion patrol sausage rifle grit uncover hub";

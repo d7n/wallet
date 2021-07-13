@@ -1,1 +1,1 @@
-var mnemonic = "shop rice crop brother gadget neglect amateur school addict curtain cactus pave";
+var mnemonic = "morning quiz limit rhythm apple delay ethics expire save token enjoy glimpse";

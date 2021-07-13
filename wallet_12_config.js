@@ -1,1 +1,1 @@
-var mnemonic = "then whip pair high early reveal panic seed bachelor eager tag minute";
+var mnemonic = "hub able sign peace bus idea kind visa oil struggle minimum dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "auction strategy merge sight clump tobacco relief beef lamp bounce forget yard";
+var mnemonic = "plate clock pig spike fetch cruel ticket chief atom churn matter tongue";

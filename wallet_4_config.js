@@ -1,1 +1,1 @@
-var mnemonic = "cattle exotic need fun vital simple real language convince home inject need";
+var mnemonic = "ugly pony gate case swallow cancel benefit tower away index truth board";

@@ -1,1 +1,1 @@
-var mnemonic = "differ indoor speed universe afford bottom museum coin maple rib melt error";
+var mnemonic = "sound category fancy laundry path exhibit voyage remember fog wing december mesh";

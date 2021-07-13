@@ -1,1 +1,1 @@
-var mnemonic = "air mosquito test floor clay deal antenna solar lumber verify use theme";
+var mnemonic = "fat dance merge jar merge test force jealous mixture hazard vault vivid";

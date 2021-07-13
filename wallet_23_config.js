@@ -1,1 +1,1 @@
-var mnemonic = "quiz cousin thought rigid blouse trash width benefit strategy box senior camp";
+var mnemonic = "damp zebra digital usage cream laugh force vivid caught muscle there replace";

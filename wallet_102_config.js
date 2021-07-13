@@ -1,1 +1,1 @@
-var mnemonic = "pen task gown attract razor lawsuit mixed main verb swamp notable nation";
+var mnemonic = "west crunch frog owner drift course wage explain machine draft grass number";
