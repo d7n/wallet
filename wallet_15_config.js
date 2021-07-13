@@ -1,1 +1,1 @@
-var mnemonic = "much business spray release source angle pluck poet rigid cigar happy helmet";
+var mnemonic = "zoo initial crumble indoor lottery spike obey fluid flush kit draft place";

@@ -1,1 +1,1 @@
-var mnemonic = "brick scale heart cancel great choice clarify shallow twenty cover suspect spatial";
+var mnemonic = "nut split merry mammal accuse steel differ anger lens found matrix grow";

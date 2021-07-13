@@ -1,1 +1,1 @@
-var mnemonic = "shell myself inhale trap audit easily coil fence provide gossip primary reject";
+var mnemonic = "kiss fancy argue park shed wonder fetch laugh friend reunion eye shoot";

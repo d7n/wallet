@@ -1,1 +1,1 @@
-var mnemonic = "inside jacket onion water exile hint destroy wonder away cheese valve ten";
+var mnemonic = "youth dress gesture van pumpkin resource cherry phrase life noodle crazy switch";

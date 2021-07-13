@@ -1,1 +1,1 @@
-var mnemonic = "soon patient fabric note method marriage voice tonight bacon tooth garage salad";
+var mnemonic = "tide obvious air certain salad public elder course swim shift fortune phone";

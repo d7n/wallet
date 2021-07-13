@@ -1,1 +1,1 @@
-var mnemonic = "unhappy book sell same grid chapter online coil absorb jar trend possible";
+var mnemonic = "desk gesture bean crunch carry concert high clown power dirt mountain moment";

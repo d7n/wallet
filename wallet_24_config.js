@@ -1,1 +1,1 @@
-var mnemonic = "cement slight front case person library ostrich tongue ahead march scare over";
+var mnemonic = "honey load scare glimpse ghost hotel point brief truly end chicken hammer";

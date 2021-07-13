@@ -1,1 +1,1 @@
-var mnemonic = "huge bench power vote quiz rail whale song robot swarm obtain prefer";
+var mnemonic = "achieve blue patrol east link cancel repair nature faint cradle benefit maze";

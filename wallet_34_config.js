@@ -1,1 +1,1 @@
-var mnemonic = "gown flash demise save below doctor february corn mind hunt minor long";
+var mnemonic = "give candy purity daughter suggest load cup control comic half ask obey";

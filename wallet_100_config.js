@@ -1,1 +1,1 @@
-var mnemonic = "car bacon boy abstract beyond people huge orchard outside hollow child style";
+var mnemonic = "defy fox lecture stamp ghost raise quick swift crouch liar myth earn";

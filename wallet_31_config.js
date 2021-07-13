@@ -1,1 +1,1 @@
-var mnemonic = "two grunt rubber genuine snow pole utility oak soon recycle symbol welcome";
+var mnemonic = "segment shop video sure enrich add cruel side legend shop easy address";

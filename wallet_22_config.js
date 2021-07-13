@@ -1,1 +1,1 @@
-var mnemonic = "panther kick blouse fetch swift above inhale sort find culture soup fitness";
+var mnemonic = "involve arena enlist cram parade betray portion remain twelve gentle gather machine";

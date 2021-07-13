@@ -1,1 +1,1 @@
-var mnemonic = "stick mask rally brick pistol exact tank canyon hair refuse camera cereal";
+var mnemonic = "torch diamond surprise bread coyote start rally scan bright below episode salmon";

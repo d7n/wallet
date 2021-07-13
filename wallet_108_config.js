@@ -1,1 +1,1 @@
-var mnemonic = "elevator spice disorder mix pottery lab device pudding property typical snow vehicle";
+var mnemonic = "order dial sugar soda tiny popular grid quantum tape achieve plunge february";

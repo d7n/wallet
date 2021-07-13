@@ -1,1 +1,1 @@
-var mnemonic = "always field call delay term audit another great inside pass place view";
+var mnemonic = "girl census submit also gym garbage filter cover argue magic candy budget";

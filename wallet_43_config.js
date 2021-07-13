@@ -1,1 +1,1 @@
-var mnemonic = "method example reopen girl grief transfer slight trophy visual clock critic image";
+var mnemonic = "relax property arrive culture brisk loop ten grab once survey prefer smooth";

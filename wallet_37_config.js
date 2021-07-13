@@ -1,1 +1,1 @@
-var mnemonic = "iron layer ignore ankle blanket patient detail divert veteran phrase cause immune";
+var mnemonic = "alone veteran chuckle fever maze capital sibling parent leopard betray trick toy";

@@ -1,1 +1,1 @@
-var mnemonic = "girl mouse ask home panic today hole resemble tooth hammer solar section";
+var mnemonic = "race cattle cargo transfer roof avocado scout belt soup cover hero online";

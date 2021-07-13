@@ -1,1 +1,1 @@
-var mnemonic = "pepper buyer vivid advance become field diary finger clarify patch scissors about";
+var mnemonic = "loan scene siren tonight weather leaf intact another ridge congress finger chest";

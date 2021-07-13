@@ -1,1 +1,1 @@
-var mnemonic = "genre sauce bacon beauty exercise time ecology dynamic repeat march useless diagram";
+var mnemonic = "traffic where action neglect smooth vibrant shine thank ceiling vanish delay cat";

@@ -1,1 +1,1 @@
-var mnemonic = "put december all sudden climb own rally west credit among steel clip";
+var mnemonic = "ship digital sea venture course off under tortoise catch tired worry under";

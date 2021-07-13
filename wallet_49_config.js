@@ -1,1 +1,1 @@
-var mnemonic = "junk clever giant nation phone lizard olive citizen follow sponsor ability keep";
+var mnemonic = "legal frog fee buffalo hood about clinic hawk world run crush discover";

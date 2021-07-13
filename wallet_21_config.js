@@ -1,1 +1,1 @@
-var mnemonic = "rate evolve what tumble hello pattern umbrella kind iron practice security naive";
+var mnemonic = "exhibit joke rich steak warm negative kidney wash thrive gate update trouble";

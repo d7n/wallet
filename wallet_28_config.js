@@ -1,1 +1,1 @@
-var mnemonic = "heavy ski liar input plunge source lizard jar wrong say brain melody";
+var mnemonic = "artwork decrease casino range planet manage river dose envelope trip almost divert";

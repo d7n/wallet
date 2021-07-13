@@ -1,1 +1,1 @@
-var mnemonic = "shy that corn inquiry glad lab holiday pulse endless wedding venue impose";
+var mnemonic = "degree helmet general inject child cool occur alcohol reduce smoke chest perfect";

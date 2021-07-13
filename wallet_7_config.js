@@ -1,1 +1,1 @@
-var mnemonic = "about rug barely secret rally universe december gate story school crucial luggage";
+var mnemonic = "tobacco identify borrow profit apple become spirit aerobic sibling flock salt another";

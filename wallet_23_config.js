@@ -1,1 +1,1 @@
-var mnemonic = "fever soul dream daughter fluid album device issue anchor antique minute green";
+var mnemonic = "lend speak table muffin control pink oblige target message wing flight sample";

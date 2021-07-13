@@ -1,1 +1,1 @@
-var mnemonic = "remember scout defense cry ripple wise toy tank exhibit toe brown hazard";
+var mnemonic = "elbow middle lab glance burst minute future useful lecture consider inflict nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "slender result youth version credit mixture electric brick shallow purse spatial arm";
+var mnemonic = "brush dry wood file divide shallow lift weapon cream reflect option tape";

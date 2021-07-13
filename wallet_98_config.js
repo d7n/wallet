@@ -1,1 +1,1 @@
-var mnemonic = "target simple chase flush melt stable script range confirm attack comfort method";
+var mnemonic = "business oppose window because circle gift elevator decline deliver treat profit toast";

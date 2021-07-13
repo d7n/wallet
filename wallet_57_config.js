@@ -1,1 +1,1 @@
-var mnemonic = "inhale carbon release mix amazing coyote power toss chef near next organ";
+var mnemonic = "behave rule life between fix people peasant gauge become glad unlock thumb";

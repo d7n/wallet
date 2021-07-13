@@ -1,1 +1,1 @@
-var mnemonic = "feed frost wool infant slender debris future huge favorite response uphold carpet";
+var mnemonic = "rule virus frown total guard stem cloud talk oyster stick waste cave";

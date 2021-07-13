@@ -1,1 +1,1 @@
-var mnemonic = "traffic slim zoo winner brother rely just domain famous claim hospital pizza";
+var mnemonic = "choose dynamic suffer like hole february rapid trick spoil chronic cereal reward";

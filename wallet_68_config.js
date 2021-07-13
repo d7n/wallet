@@ -1,1 +1,1 @@
-var mnemonic = "sing joke balcony insect shy disorder claw benefit attract globe solve alert";
+var mnemonic = "stomach wing curious major spring tortoise find fatigue vault quick gospel robot";

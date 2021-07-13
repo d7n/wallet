@@ -1,1 +1,1 @@
-var mnemonic = "because depart elbow consider hazard service curious runway recall swamp found once";
+var mnemonic = "super dad rigid extend permit people boat adapt input truth ketchup swear";

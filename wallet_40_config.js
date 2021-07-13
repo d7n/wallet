@@ -1,1 +1,1 @@
-var mnemonic = "miracle enter math fix nut style tool welcome nurse tennis nice maze";
+var mnemonic = "wood blast sun first actor speed height beach jar athlete faculty museum";

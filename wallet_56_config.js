@@ -1,1 +1,1 @@
-var mnemonic = "path clap cluster neither resist range brief lava physical rude render notice";
+var mnemonic = "runway daughter roof drum jewel annual faith fragile absurd way other arrest";

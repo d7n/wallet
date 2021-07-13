@@ -1,1 +1,1 @@
-var mnemonic = "organ prefer marriage year remove update join mammal pull result crop know";
+var mnemonic = "nerve first police sorry exchange twist tissue rare pave cactus often install";

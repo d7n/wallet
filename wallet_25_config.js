@@ -1,1 +1,1 @@
-var mnemonic = "upper security hero march defy desert illness twenty abuse true lens capital";
+var mnemonic = "absurd digital whale child ghost slogan express promote where flat main control";

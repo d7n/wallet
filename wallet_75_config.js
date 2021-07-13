@@ -1,1 +1,1 @@
-var mnemonic = "track cry where hole sand wish valve people emotion slogan shrimp spy";
+var mnemonic = "elephant canoe vast worth section meat rate local assume sick proof embody";

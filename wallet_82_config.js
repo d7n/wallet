@@ -1,1 +1,1 @@
-var mnemonic = "resource lawn gospel good wrong hidden immense lyrics inquiry green age amateur";
+var mnemonic = "mass absurd random street leg fix puppy settle shop strategy milk journey";

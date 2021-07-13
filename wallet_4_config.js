@@ -1,1 +1,1 @@
-var mnemonic = "wheat thrive brain discover sweet action caution job purpose laugh walk flat";
+var mnemonic = "air olive child wood muscle raise absent drive deputy require code dignity";

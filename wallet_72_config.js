@@ -1,1 +1,1 @@
-var mnemonic = "sick square stone devote cement flower chaos wish civil angry outer divorce";
+var mnemonic = "blade film common more green south develop bridge relax digital term forest";

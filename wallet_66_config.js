@@ -1,1 +1,1 @@
-var mnemonic = "recycle help claim oxygen impulse violin ethics before skill orphan belt walnut";
+var mnemonic = "detail license foster deal unit arch envelope merit chair stable garlic rigid";

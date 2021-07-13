@@ -1,1 +1,1 @@
-var mnemonic = "canoe measure silly way brisk stadium recall gold sketch token dynamic napkin";
+var mnemonic = "deputy always beauty net matrix segment interest title huge gravity van like";

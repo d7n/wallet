@@ -1,1 +1,1 @@
-var mnemonic = "slam start push soup position judge provide wealth envelope lens slender slim";
+var mnemonic = "device degree debris range system exhibit embody green seek devote flight lawsuit";

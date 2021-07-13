@@ -1,1 +1,1 @@
-var mnemonic = "grab pink wasp metal check miss select laugh pig cheese clay ethics";
+var mnemonic = "road imitate view party network fever unique cereal bracket winter spring fortune";

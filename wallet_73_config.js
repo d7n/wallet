@@ -1,1 +1,1 @@
-var mnemonic = "hole rude point evoke barrel demise slow famous finish finger gorilla ignore";
+var mnemonic = "garlic wool differ veteran side rail flag identify matrix message seat medal";

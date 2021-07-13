@@ -1,1 +1,1 @@
-var mnemonic = "other crater stumble step captain fit shift girl chest hour muscle dutch";
+var mnemonic = "witness cactus announce trip oxygen only myth stove path spot drop empower";

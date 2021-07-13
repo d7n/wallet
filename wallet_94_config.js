@@ -1,1 +1,1 @@
-var mnemonic = "muscle math tennis blossom horn mimic unknown second clock elder rug pulse";
+var mnemonic = "park arrive goddess rail soul couch muscle index tank draft caution unfair";

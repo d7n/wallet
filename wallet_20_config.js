@@ -1,1 +1,1 @@
-var mnemonic = "woman ability repeat prevent space flash forward network appear blossom settle grant";
+var mnemonic = "good subway broom original tongue muscle stick better vehicle paddle museum special";

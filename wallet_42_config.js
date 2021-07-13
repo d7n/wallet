@@ -1,1 +1,1 @@
-var mnemonic = "where soap engine inside estate cause lab result volume service fix regular";
+var mnemonic = "trash denial rely refuse left cup suffer sweet milk damage enemy fog";

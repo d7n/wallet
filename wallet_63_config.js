@@ -1,1 +1,1 @@
-var mnemonic = "stick stadium object cry nut nut december throw come input female rebuild";
+var mnemonic = "other concert step spoon reopen explain forum define admit nothing team stage";

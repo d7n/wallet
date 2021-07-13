@@ -1,1 +1,1 @@
-var mnemonic = "fortune coil trumpet curious parrot short web lend canyon alley design clown";
+var mnemonic = "little addict similar goose weekend piano congress grit diamond dish faculty torch";

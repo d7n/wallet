@@ -1,1 +1,1 @@
-var mnemonic = "slide trophy wage fiscal admit text raccoon physical battle local lucky bean";
+var mnemonic = "then build health common price make salmon fold glass donkey trigger bone";

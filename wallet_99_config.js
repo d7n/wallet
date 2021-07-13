@@ -1,1 +1,1 @@
-var mnemonic = "drum warrior lyrics kitchen cotton mobile cushion image list grit place screen";
+var mnemonic = "impulse friend wall spike stable matter power thunder sea survey spawn lawsuit";

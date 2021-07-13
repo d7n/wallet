@@ -1,1 +1,1 @@
-var mnemonic = "nerve merge fantasy unfold dragon already spot right under lab census network";
+var mnemonic = "occur action unable blouse trigger hat tell protect purity catalog broccoli like";

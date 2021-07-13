@@ -1,1 +1,1 @@
-var mnemonic = "test holiday decade phrase flavor chest rally ketchup siege wrap pitch inspire";
+var mnemonic = "slab school session silver language basic uphold quit march depth stumble town";

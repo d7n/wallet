@@ -1,1 +1,1 @@
-var mnemonic = "normal smile indoor ability tree voice farm one nice fitness edge beauty";
+var mnemonic = "hello slim grape title salad visa park violin coconut industry broken shuffle";

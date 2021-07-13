@@ -1,1 +1,1 @@
-var mnemonic = "fine number club donkey squeeze oppose penalty movie client ready response sweet";
+var mnemonic = "nose victory walnut stay chuckle minute bind switch fan coil together pill";

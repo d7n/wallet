@@ -1,1 +1,1 @@
-var mnemonic = "oyster april relax brown picnic obey steel error derive rather clip puzzle";
+var mnemonic = "chronic garden small trap episode flee popular climb story debris senior often";

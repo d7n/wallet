@@ -1,1 +1,1 @@
-var mnemonic = "cook surprise okay topple frown entire crunch sweet disease fault twist merry";
+var mnemonic = "knee law hobby purpose loan resemble edge junior pigeon know bottom favorite";

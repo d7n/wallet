@@ -1,1 +1,1 @@
-var mnemonic = "fragile price eyebrow people resemble peasant kick search salmon aisle host face";
+var mnemonic = "spoil renew similar catalog display major symbol glue patch report off mandate";

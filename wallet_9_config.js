@@ -1,1 +1,1 @@
-var mnemonic = "honey crisp tail cable divide pyramid divide vital abuse valve eye bread";
+var mnemonic = "favorite nice genuine jar pepper route endorse furnace receive fox rebuild scrap";

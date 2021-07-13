@@ -1,1 +1,1 @@
-var mnemonic = "mango ceiling occur slide inside duty below staff unfold bracket supply impose";
+var mnemonic = "love response donor merge garment damage estate exit rigid ribbon differ point";

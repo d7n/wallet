@@ -1,1 +1,1 @@
-var mnemonic = "love artist abuse girl party long media guard gravity orient other ball";
+var mnemonic = "collect release hint snake wire tent gun screen bind enter soul radar";

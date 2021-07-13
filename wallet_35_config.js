@@ -1,1 +1,1 @@
-var mnemonic = "forest famous news badge soda nuclear chalk shrimp comfort hungry tuna join";
+var mnemonic = "shift manage recipe drop minute fossil uphold topple beauty answer inhale diary";

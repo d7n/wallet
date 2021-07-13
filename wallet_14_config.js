@@ -1,1 +1,1 @@
-var mnemonic = "ladder improve subway badge cinnamon forum outdoor what radar bronze uniform address";
+var mnemonic = "grace patch large entire taste lemon glance chest sail stairs clever symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "casino later certain warm crisp proud gadget update model segment sense blanket";
+var mnemonic = "apple tape hockey setup odor edit filter fabric broccoli current rescue kind";

@@ -1,1 +1,1 @@
-var mnemonic = "melody medal hat expose exile improve wreck staff beach bird together comfort";
+var mnemonic = "slim lift mansion smoke come first organ arena verify transfer arm oval";

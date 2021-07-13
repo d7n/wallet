@@ -1,1 +1,1 @@
-var mnemonic = "loud office cradle snap glad suggest script voyage spin sure spice october";
+var mnemonic = "border roof town waste slam favorite tobacco open fetch range half edit";

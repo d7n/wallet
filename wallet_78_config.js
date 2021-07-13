@@ -1,1 +1,1 @@
-var mnemonic = "pipe nothing basket spell polar light earth shrimp problem throw crazy entire";
+var mnemonic = "piano pink brush nerve much approve pave treat robot escape unveil naive";

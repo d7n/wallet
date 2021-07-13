@@ -1,1 +1,1 @@
-var mnemonic = "flavor husband enemy cat mixture fence poem hungry upper effort soft jewel";
+var mnemonic = "cause submit gap skull few hire reveal mouse beach lobster vivid violin";

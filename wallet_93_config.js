@@ -1,1 +1,1 @@
-var mnemonic = "measure burden device ordinary actress grunt tool anxiety property maid crystal hotel";
+var mnemonic = "palm lunch negative strike myself miss twin whip effort spirit excess change";

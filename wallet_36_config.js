@@ -1,1 +1,1 @@
-var mnemonic = "distance round theory horn churn size spirit chief route essay saddle dad";
+var mnemonic = "warm truth hungry spike grain purity winter alarm prison post clean monkey";

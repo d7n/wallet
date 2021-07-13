@@ -1,1 +1,1 @@
-var mnemonic = "panda guard feed arrive render square man mansion keen super swing next";
+var mnemonic = "gate lift inside useful various try coast dice peace catalog sort lumber";

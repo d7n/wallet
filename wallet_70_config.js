@@ -1,1 +1,1 @@
-var mnemonic = "true easily knee horror spot armed hole primary cliff movie target lobster";
+var mnemonic = "venue toilet veteran task bridge survey raccoon reform super believe room elegant";

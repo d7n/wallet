@@ -1,1 +1,1 @@
-var mnemonic = "evoke vacuum drip honey squeeze thought fitness boat spice decline tenant palace";
+var mnemonic = "olive thing steak family final flame worth board sorry better whale hollow";

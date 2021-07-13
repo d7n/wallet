@@ -1,1 +1,1 @@
-var mnemonic = "piece cliff reduce bullet already urge misery roast region chair share ripple";
+var mnemonic = "put usual toe rabbit lawn laundry matrix denial glow object project goddess";

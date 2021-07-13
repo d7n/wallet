@@ -1,1 +1,1 @@
-var mnemonic = "call car pilot happy scan armor fiscal food ridge turkey survey fan";
+var mnemonic = "zebra sight finish base airport south surround judge pen planet favorite chair";

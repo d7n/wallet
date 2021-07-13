@@ -1,1 +1,1 @@
-var mnemonic = "hair great arch cute swap shift work erase hawk remove coconut spare";
+var mnemonic = "receive purity brave pattern door poem shallow town girl vital soap middle";

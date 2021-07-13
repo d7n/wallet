@@ -1,1 +1,1 @@
-var mnemonic = "pear vote focus ten squeeze hungry dynamic fruit witness fiscal photo employ";
+var mnemonic = "because slam foil estate gold true recall dismiss stuff pill purity pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "scout gloom input gallery core item chalk fat pool alley crew lawn";
+var mnemonic = "burger beach very bike disease salad version rug diagram glare omit rural";

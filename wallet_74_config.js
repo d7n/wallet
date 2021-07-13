@@ -1,1 +1,1 @@
-var mnemonic = "castle quote trumpet inmate round idle ring appear artefact spring faith guitar";
+var mnemonic = "asset erupt impulse alert track elbow garlic click accident album mosquito tragic";

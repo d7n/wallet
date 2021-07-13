@@ -1,1 +1,1 @@
-var mnemonic = "peasant virtual crop coach category gun crack soon amused scorpion maximum exchange";
+var mnemonic = "invest favorite fork service later mutual setup special useless agent multiply rally";

@@ -1,1 +1,1 @@
-var mnemonic = "case afford galaxy general lock often horn lock harbor hazard upset cargo";
+var mnemonic = "club potato cave junior regular dirt sugar kingdom spread energy pattern noodle";

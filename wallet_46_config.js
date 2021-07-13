@@ -1,1 +1,1 @@
-var mnemonic = "orbit riot health bleak senior appear swift charge element evil dry agent";
+var mnemonic = "expand fix idle neck ball genuine erase law purity life staff infant";

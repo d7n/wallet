@@ -1,1 +1,1 @@
-var mnemonic = "alley avoid pepper pluck copper pigeon address empower speed lamp evil stay";
+var mnemonic = "seed physical someone stick make base price sunny excess fork chapter veteran";

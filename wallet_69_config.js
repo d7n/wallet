@@ -1,1 +1,1 @@
-var mnemonic = "humble believe mountain kidney photo divide pulse kiss unique sun venture verb";
+var mnemonic = "song hunt floor fold tornado room series trade lyrics scorpion jump snap";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold begin must open youth floor riot laugh neutral carbon dog afraid";
+var mnemonic = "loan airport film raise picture flee patch bundle quick suspect slice drastic";

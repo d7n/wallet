@@ -1,1 +1,1 @@
-var mnemonic = "recipe planet bacon beef clap kind latin glory spend spy share lobster";
+var mnemonic = "sustain soft brick convince neglect enforce rotate bracket heavy betray wheat receive";

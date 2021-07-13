@@ -1,1 +1,1 @@
-var mnemonic = "old flat trumpet twelve attract venture skill work pear quick code because";
+var mnemonic = "dad ivory initial hollow advice fitness party pupil firm hotel ten ignore";
