@@ -1,1 +1,1 @@
-var mnemonic = "narrow frown side bench army despair shuffle method luxury cricket member limit";
+var mnemonic = "grow young average initial space language cement admit spawn cruise label sustain";

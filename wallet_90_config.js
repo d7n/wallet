@@ -1,1 +1,1 @@
-var mnemonic = "dash buffalo final replace equip risk piece chat purse amateur brave sugar";
+var mnemonic = "life strategy happy purchase pizza remind derive depart bulb farm clock enforce";

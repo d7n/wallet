@@ -1,1 +1,1 @@
-var mnemonic = "buyer actor bone knife orphan day approve sing plastic assault kid biology";
+var mnemonic = "dilemma chicken puppy cost novel vacuum modify merry settle coach tiny dentist";

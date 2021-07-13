@@ -1,1 +1,1 @@
-var mnemonic = "kid police child dignity tower cloth plug design wool stereo this shallow";
+var mnemonic = "ball modify luxury cluster mad smile sweet clay club settle sorry next";

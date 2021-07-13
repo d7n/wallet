@@ -1,1 +1,1 @@
-var mnemonic = "alter corn never side egg radar early reason ceiling cricket slender whisper";
+var mnemonic = "nephew clog galaxy popular business truth make sibling action wedding sight rubber";

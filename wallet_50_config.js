@@ -1,1 +1,1 @@
-var mnemonic = "program lens midnight upgrade maid salt valley case lazy visual viable thought";
+var mnemonic = "advance life edit motion auction word pluck stone clock come awesome gun";

@@ -1,1 +1,1 @@
-var mnemonic = "happy flame when riot attitude gossip fat ghost panda excess genre naive";
+var mnemonic = "file hope treat omit album owner fit globe nurse system estate post";

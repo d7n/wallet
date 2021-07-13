@@ -1,1 +1,1 @@
-var mnemonic = "cry relief dice hair tomorrow green borrow world much bone lunch neither";
+var mnemonic = "elbow cloud come reduce movie bike chalk boy theory bid pass crouch";

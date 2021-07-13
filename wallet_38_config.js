@@ -1,1 +1,1 @@
-var mnemonic = "taxi drop coffee group vintage trap rice october minimum discover fame little";
+var mnemonic = "install punch summer age wonder tourist travel habit tobacco scale beach tongue";

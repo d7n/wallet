@@ -1,1 +1,1 @@
-var mnemonic = "good describe stuff cruise hockey audit machine grit side dove surprise absorb";
+var mnemonic = "rain digital room receive peace duty million razor audit believe robust repair";

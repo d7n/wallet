@@ -1,1 +1,1 @@
-var mnemonic = "man media zebra north staff ostrich whip van alpha own teach senior";
+var mnemonic = "agree afraid capable song eternal erupt obtain snap force female reform chat";

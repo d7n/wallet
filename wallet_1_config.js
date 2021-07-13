@@ -1,1 +1,1 @@
-var mnemonic = "few essay absurd dream shoot feel six sting quit trade deposit isolate";
+var mnemonic = "suffer acoustic zoo comic bread denial total slogan special impulse coyote game";

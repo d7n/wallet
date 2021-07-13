@@ -1,1 +1,1 @@
-var mnemonic = "inside kitchen laugh shiver top marriage female quote phone add hold tackle";
+var mnemonic = "write solid muscle rib absurd consider soap nerve kitchen shiver rebel alley";

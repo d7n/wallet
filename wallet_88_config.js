@@ -1,1 +1,1 @@
-var mnemonic = "caught this lounge warrior orient final total yellow market slight topic banana";
+var mnemonic = "health leisure clay mimic left catch topple twice one indicate suffer copy";

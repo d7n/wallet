@@ -1,1 +1,1 @@
-var mnemonic = "junk light screen absurd raw canvas clump chair double sell into behave";
+var mnemonic = "treat tissue float salmon naive upon nominee success nice cushion churn tumble";

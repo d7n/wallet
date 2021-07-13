@@ -1,1 +1,1 @@
-var mnemonic = "twenty giant identify text depend exile blood skin mobile canvas peanut monster";
+var mnemonic = "ten mirror envelope stuff genuine suffer stick siren long announce citizen funny";

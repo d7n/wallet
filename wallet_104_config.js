@@ -1,1 +1,1 @@
-var mnemonic = "shield manual panic sea globe mass spot ripple swim sun town agent";
+var mnemonic = "retreat gift license devote cupboard month another horse soup vicious birth vintage";

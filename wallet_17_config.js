@@ -1,1 +1,1 @@
-var mnemonic = "believe dilemma case oil glad bubble host solid cricket setup year cage";
+var mnemonic = "priority miss sausage vivid run sea supply cycle dizzy power sweet capable";

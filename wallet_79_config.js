@@ -1,1 +1,1 @@
-var mnemonic = "receive confirm exclude tip desk display bind pizza quantum hospital lunar fitness";
+var mnemonic = "culture already organ essay rally hospital truly invest suggest wild inject boost";

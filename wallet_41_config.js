@@ -1,1 +1,1 @@
-var mnemonic = "present topple theme heavy satoshi toast wine cannon entry rose bacon limb";
+var mnemonic = "sweet assume ordinary state original pluck spot travel slam budget predict cushion";

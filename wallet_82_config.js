@@ -1,1 +1,1 @@
-var mnemonic = "rib sick shuffle flat picture end dynamic loan crucial walk yellow such";
+var mnemonic = "long rug slice knife dumb gold basic gesture swim raw aisle then";

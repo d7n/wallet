@@ -1,1 +1,1 @@
-var mnemonic = "symbol sadness trade awkward dynamic spread picnic slim video happy situate divert";
+var mnemonic = "earth season impact exercise once frog hub coast vicious funny quiz region";

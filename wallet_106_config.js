@@ -1,1 +1,1 @@
-var mnemonic = "carpet tennis delay lamp around target festival web knee brisk miss dream";
+var mnemonic = "render crane rescue nurse quit funny brisk come denial ritual excuse original";

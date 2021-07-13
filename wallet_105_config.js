@@ -1,1 +1,1 @@
-var mnemonic = "wagon frost flame describe whisper bus hire laptop horn daring liquid panther";
+var mnemonic = "stone cause snow surround clutch dust penalty lab trust range spirit torch";

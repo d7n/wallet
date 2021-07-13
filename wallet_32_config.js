@@ -1,1 +1,1 @@
-var mnemonic = "word pull uphold blush innocent copy ahead pepper chicken indoor interest absurd";
+var mnemonic = "legend renew abandon innocent steak banner lobster circle fox grid fatigue goat";

@@ -1,1 +1,1 @@
-var mnemonic = "surge differ off connect reflect emerge agent toddler mule digital sustain roof";
+var mnemonic = "trim include always vanish caught usual today wasp public local hard knee";

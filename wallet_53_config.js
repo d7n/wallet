@@ -1,1 +1,1 @@
-var mnemonic = "float same problem basic wheat humor crazy mimic forest tail loop clutch";
+var mnemonic = "plunge brick pluck muscle actress old front regret park joke sleep script";

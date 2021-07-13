@@ -1,1 +1,1 @@
-var mnemonic = "emerge length tiger piece apple know tuna crawl cradle hip salad witness";
+var mnemonic = "tower dinner present patient diamond hair tenant focus indoor float blouse pill";

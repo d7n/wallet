@@ -1,1 +1,1 @@
-var mnemonic = "area airport main prison term topple mimic blast start nominee tip science";
+var mnemonic = "glance song slight strike when soda food keep sponsor festival oxygen update";

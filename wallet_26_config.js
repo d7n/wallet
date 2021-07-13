@@ -1,1 +1,1 @@
-var mnemonic = "hunt stove cloth edge diet general grocery surface almost enemy secret orient";
+var mnemonic = "enemy another slice flame frog exile mutual fog game enroll thank quantum";

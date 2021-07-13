@@ -1,1 +1,1 @@
-var mnemonic = "airport series throw taste middle tornado end betray result brief company staff";
+var mnemonic = "rice slice apple estate someone black dress equal during initial tourist surprise";

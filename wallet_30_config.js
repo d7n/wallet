@@ -1,1 +1,1 @@
-var mnemonic = "shadow minute way pet episode shed repeat vicious patch pluck icon select";
+var mnemonic = "snake change target frame whisper toilet lounge office pact soft ethics cancel";

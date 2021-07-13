@@ -1,1 +1,1 @@
-var mnemonic = "dove upset margin reflect skate walnut vast work library embrace notice decrease";
+var mnemonic = "erode forest play eagle parade host erupt kind elite crime toe letter";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect pond area special december hat film disorder candy marine lawn crazy";
+var mnemonic = "radio cause fancy adapt purse mimic extend soup hockey wear cluster tip";

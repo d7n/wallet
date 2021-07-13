@@ -1,1 +1,1 @@
-var mnemonic = "sphere result episode move build flight kind daring car edge mention grocery";
+var mnemonic = "divorce liberty cliff rather develop wild digital pistol cradle august furnace craft";

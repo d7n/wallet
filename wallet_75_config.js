@@ -1,1 +1,1 @@
-var mnemonic = "chronic anger jacket warfare make sorry street analyst mirror chicken axis scout";
+var mnemonic = "degree undo rhythm spirit engine lottery spider junior symbol segment trial fan";

@@ -1,1 +1,1 @@
-var mnemonic = "core tenant upon rival kid elder shock toddler want rocket atom crisp";
+var mnemonic = "tone minor fault luxury nose other actress vehicle fresh timber energy trend";

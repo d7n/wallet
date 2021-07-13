@@ -1,1 +1,1 @@
-var mnemonic = "steak olive neck casual omit expose tooth fiscal senior fade expect peanut";
+var mnemonic = "name chief inside impose control today demise figure walnut define armed exercise";

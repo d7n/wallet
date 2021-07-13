@@ -1,1 +1,1 @@
-var mnemonic = "quote say royal broom crucial spawn auction scan boil bird govern eight";
+var mnemonic = "weekend cheese monkey angry balance butter umbrella crouch void vessel boring reflect";

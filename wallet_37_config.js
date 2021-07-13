@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shadow pride trip clay brave ahead gallery burger appear life stick";
+var mnemonic = "index expire open decade upper clump heavy rigid knife romance client wise";

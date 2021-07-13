@@ -1,1 +1,1 @@
-var mnemonic = "into custom profit dutch prison prize reveal pilot clarify filter dial kingdom";
+var mnemonic = "morning deliver film develop soul double shoulder heavy cat attitude kid section";

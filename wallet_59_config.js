@@ -1,1 +1,1 @@
-var mnemonic = "region donkey powder advance steel echo order sound wall empty address sunny";
+var mnemonic = "matrix remember sort acoustic quantum regret north angry blush sadness clutch analyst";

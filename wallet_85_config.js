@@ -1,1 +1,1 @@
-var mnemonic = "absurd hand return sing improve ring slide space people seek barely kid";
+var mnemonic = "modify cousin fade acoustic zebra spray inmate salmon board announce talk chronic";

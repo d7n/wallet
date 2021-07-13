@@ -1,1 +1,1 @@
-var mnemonic = "oven tide violin hen layer joy cruel sea allow future void toilet";
+var mnemonic = "tiny swim mango focus lemon off beyond right gesture special wire december";

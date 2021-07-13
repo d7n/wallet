@@ -1,1 +1,1 @@
-var mnemonic = "vessel attract strike tumble swallow venture confirm museum virus aisle eye mind";
+var mnemonic = "poem flash mansion hedgehog egg miracle plastic nurse real culture mass afford";

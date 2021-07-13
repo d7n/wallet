@@ -1,1 +1,1 @@
-var mnemonic = "switch cabbage more spirit abstract grab divorce correct caught awake rough lock";
+var mnemonic = "noodle front indicate emotion ghost acoustic timber shine desk language sing candy";

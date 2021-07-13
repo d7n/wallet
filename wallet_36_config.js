@@ -1,1 +1,1 @@
-var mnemonic = "say impose comfort physical tooth acoustic please symptom melt inquiry pet science";
+var mnemonic = "sketch liquid address mistake fine wild rubber anger sponsor assault old switch";

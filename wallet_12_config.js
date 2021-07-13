@@ -1,1 +1,1 @@
-var mnemonic = "obscure step best festival burst diamond source rival help worth urban try";
+var mnemonic = "broccoli borrow sign pudding attitude before crater ostrich orphan release rhythm summer";

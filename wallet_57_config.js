@@ -1,1 +1,1 @@
-var mnemonic = "field garment caution syrup knee mule copper pole crucial climb meat beyond";
+var mnemonic = "notice amount peanut genius you since annual aspect water forward hand short";

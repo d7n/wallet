@@ -1,1 +1,1 @@
-var mnemonic = "real body fall gym tape current link main ugly tonight deposit meadow";
+var mnemonic = "happy various luxury rigid right actress any rocket fine wild edit pony";

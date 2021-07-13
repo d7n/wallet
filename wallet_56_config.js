@@ -1,1 +1,1 @@
-var mnemonic = "exit claw addict dinner main hammer chef drama team amused depth enable";
+var mnemonic = "glare uphold debris regret loop force doctor school urban reflect goat emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "country budget raw lumber divert dolphin master illness virus lion napkin scissors";
+var mnemonic = "mixed valve execute grief output mail knee subject snow primary transfer need";

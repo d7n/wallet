@@ -1,1 +1,1 @@
-var mnemonic = "lemon captain broom puzzle omit ankle setup inject meadow club become spare";
+var mnemonic = "thank shrug general witness love brief fence leg kite habit world goose";

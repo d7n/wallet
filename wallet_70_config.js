@@ -1,1 +1,1 @@
-var mnemonic = "problem main salute royal alarm woman impact quarter vacuum soon trumpet guard";
+var mnemonic = "icon grid physical venture together smile mimic half doctor future title brick";

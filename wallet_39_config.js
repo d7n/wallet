@@ -1,1 +1,1 @@
-var mnemonic = "siren artwork borrow rocket attract couch subway lunar upon long peasant pony";
+var mnemonic = "brown steel head debate middle taste barely attract movie setup muscle elevator";

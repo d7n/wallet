@@ -1,1 +1,1 @@
-var mnemonic = "food skirt snake urban ridge canal express hold liquid verb put gloom";
+var mnemonic = "oyster meadow impulse giraffe dish sleep weather example relax push chair warrior";

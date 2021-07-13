@@ -1,1 +1,1 @@
-var mnemonic = "patch security blind guilt safe traffic catalog runway cabbage actor idle wear";
+var mnemonic = "later pottery test snack myth car table ice useful color rare wave";

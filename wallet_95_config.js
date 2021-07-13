@@ -1,1 +1,1 @@
-var mnemonic = "silent flip engage sibling grocery behind obscure toast climb depend slab garbage";
+var mnemonic = "patrol mass teach rookie deliver gold trick genre absent air dose shiver";

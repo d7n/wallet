@@ -1,1 +1,1 @@
-var mnemonic = "inmate settle sign spare summer all advance seminar silly acquire view become";
+var mnemonic = "left point body average doll cause quality alarm gorilla sleep carry number";

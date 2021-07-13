@@ -1,1 +1,1 @@
-var mnemonic = "shield uncover job false capital chef brother bottom crucial odor use task";
+var mnemonic = "butter birth warm rapid pumpkin clarify tourist ketchup vague range dune turtle";

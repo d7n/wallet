@@ -1,1 +1,1 @@
-var mnemonic = "exclude option choose success juice season victory verb vital base post canal";
+var mnemonic = "wage zebra still purpose cigar arrow zone wage please chair pond million";

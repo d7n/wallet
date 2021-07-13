@@ -1,1 +1,1 @@
-var mnemonic = "brave mimic rare sound finish slab icon mystery maze erupt title march";
+var mnemonic = "beyond wine maximum enemy short uniform say stand almost crop right upset";

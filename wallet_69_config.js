@@ -1,1 +1,1 @@
-var mnemonic = "canyon mouse poet island sell stage strike hundred skin mom flag country";
+var mnemonic = "impulse all crater destroy tower purse cloth cup style bachelor kind hat";

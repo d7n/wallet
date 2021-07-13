@@ -1,1 +1,1 @@
-var mnemonic = "oblige above just festival exact medal symptom tired mask adjust elite either";
+var mnemonic = "culture fringe worry beef anxiety arctic melody insect artefact assume quiz envelope";

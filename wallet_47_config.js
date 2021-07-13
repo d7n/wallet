@@ -1,1 +1,1 @@
-var mnemonic = "clarify major powder prepare patient asthma case ribbon brave nuclear symptom own";
+var mnemonic = "try sweet web venue attract siege satoshi spread harvest romance skull attack";

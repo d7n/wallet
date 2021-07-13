@@ -1,1 +1,1 @@
-var mnemonic = "absorb symbol combine oak vacuum jump use wing mercy clip tiny unaware";
+var mnemonic = "depart ship brush original category urge observe jacket answer write antique detect";

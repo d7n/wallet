@@ -1,1 +1,1 @@
-var mnemonic = "section broccoli elbow sad stadium honey frost accuse else sort shoulder web";
+var mnemonic = "drip thunder daughter day wife walk farm motion quality equal vote valley";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs limit army cloth brother wrap craft share nature fly digital awkward";
+var mnemonic = "urge arctic spoil predict blood void honey opinion extend kitchen length lumber";

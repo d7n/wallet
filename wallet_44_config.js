@@ -1,1 +1,1 @@
-var mnemonic = "soft fetch near topple parrot nature strong crash broken sleep sell destroy";
+var mnemonic = "spirit head upset car vanish mass movie before grab course camp topic";

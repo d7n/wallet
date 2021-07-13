@@ -1,1 +1,1 @@
-var mnemonic = "spatial away lottery rose wide scan sting leopard coconut decade brief lesson";
+var mnemonic = "execute romance aim foam need believe opera gown three tree roast light";

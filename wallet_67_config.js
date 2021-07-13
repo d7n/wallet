@@ -1,1 +1,1 @@
-var mnemonic = "sponsor shrug blush whale hazard flower theme scale life lady run debate";
+var mnemonic = "claim math demand beyond tobacco illegal theory later melody ketchup north fuel";

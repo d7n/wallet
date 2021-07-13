@@ -1,1 +1,1 @@
-var mnemonic = "regret various sea word spike alert innocent face shaft admit merry vendor";
+var mnemonic = "solution jaguar tape guilt dash extend leisure laptop finish obtain brush clown";

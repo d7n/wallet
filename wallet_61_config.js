@@ -1,1 +1,1 @@
-var mnemonic = "tumble actual section repeat defense soda cinnamon edit nice ski eight area";
+var mnemonic = "dice pony ribbon stereo talk city drift inherit wonder casual useless elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger pen doll small mask spice abstract credit satoshi found barely cube";
+var mnemonic = "stove enter loop agent badge hazard depth smart faint diamond traffic raven";

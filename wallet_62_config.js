@@ -1,1 +1,1 @@
-var mnemonic = "thank silly rifle detect bacon blast fire drama absorb air guide assume";
+var mnemonic = "quit violin kit patch welcome method fox era opera expose much mango";

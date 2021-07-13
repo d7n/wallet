@@ -1,1 +1,1 @@
-var mnemonic = "buffalo couch battle cotton cruise bicycle fame draw small august grocery thank";
+var mnemonic = "wall skate genre salt gather biology mass figure govern salon athlete inquiry";

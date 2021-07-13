@@ -1,1 +1,1 @@
-var mnemonic = "orchard toddler flame husband hurdle name lunar honey grant fiscal grit hamster";
+var mnemonic = "number whip exact federal member soda belt renew physical tank weather oxygen";

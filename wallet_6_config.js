@@ -1,1 +1,1 @@
-var mnemonic = "material furnace beauty photo want offer kit tiny control inject concert web";
+var mnemonic = "museum drastic panda appear enrich feed lemon step top media fresh arch";

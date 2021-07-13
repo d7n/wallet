@@ -1,1 +1,1 @@
-var mnemonic = "palm bar floor jeans session jaguar fire business lunch snap salmon feature";
+var mnemonic = "bring weasel bonus rebel distance owner nuclear panther amateur live coin foil";

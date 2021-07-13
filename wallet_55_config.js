@@ -1,1 +1,1 @@
-var mnemonic = "group olive solve toilet exit horn orbit town flash gown lyrics hammer";
+var mnemonic = "boss bottom advice old level produce unit pigeon industry camera undo buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "hold yellow often april jacket hurt swarm meat dune wife slush catalog";
+var mnemonic = "goose lab chapter crack flat please loud style chronic source supply boy";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom length shoe weird gate actor zone distance ribbon audit screen quality";
+var mnemonic = "cage wrestle matter corn fabric roof ball minimum solid digital below skate";

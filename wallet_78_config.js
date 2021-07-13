@@ -1,1 +1,1 @@
-var mnemonic = "govern breeze slim pottery dish wrap bottom bacon service state hen clap";
+var mnemonic = "thank dice quit treat hand increase fossil sell impulse reunion brown cupboard";

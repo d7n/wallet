@@ -1,1 +1,1 @@
-var mnemonic = "labor midnight way agent name rocket armed spike absurd snap zebra alcohol";
+var mnemonic = "harvest submit cart capable meadow board bone siege empower elder tragic bracket";

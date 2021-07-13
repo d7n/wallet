@@ -1,1 +1,1 @@
-var mnemonic = "banner notable rare angle rapid proud game whip dice cart there village";
+var mnemonic = "bone train process rocket onion carry path glance search rice sugar matrix";

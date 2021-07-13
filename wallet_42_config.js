@@ -1,1 +1,1 @@
-var mnemonic = "video exclude lake ignore fortune account accident repair amazing wear expect height";
+var mnemonic = "sentence super public note source angle invite copy nominee broken sunny erosion";

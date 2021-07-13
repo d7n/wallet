@@ -1,1 +1,1 @@
-var mnemonic = "code evoke roast among climb inch error vacant level strike trigger good";
+var mnemonic = "material digital bonus screen ramp school mother run process wedding hard toddler";

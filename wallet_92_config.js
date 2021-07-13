@@ -1,1 +1,1 @@
-var mnemonic = "peasant drip differ protect oxygen cat kick bone era design lunch license";
+var mnemonic = "fringe beauty dry erupt edit top crush orphan waste below core dinner";

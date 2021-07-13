@@ -1,1 +1,1 @@
-var mnemonic = "blast side weird moon error version seek glow car orphan guess state";
+var mnemonic = "acoustic ill smooth practice arrow across yellow derive blood twenty decorate vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "glare agree width myth female century depth north multiply cost evolve offer";
+var mnemonic = "panda manage tooth wood smile into tragic indicate embrace addict day joy";

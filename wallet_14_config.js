@@ -1,1 +1,1 @@
-var mnemonic = "fly loud galaxy exchange birth false west hold popular february neglect captain";
+var mnemonic = "garlic poet axis apart laundry train wife kiss mercy faint soft addict";

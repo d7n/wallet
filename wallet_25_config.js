@@ -1,1 +1,1 @@
-var mnemonic = "skin drive crater report victory warfare impose high weather six journey invite";
+var mnemonic = "tribe kick bicycle mercy harvest mandate message hotel leave wink lawn knock";

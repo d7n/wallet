@@ -1,1 +1,1 @@
-var mnemonic = "alert border method can old letter minimum ugly wage snow furnace gorilla";
+var mnemonic = "piece couple face spice swallow leaf envelope ostrich axis dash oyster govern";
