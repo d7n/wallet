@@ -1,1 +1,1 @@
-var mnemonic = "script able hungry joy couch helmet magnet lunar grape canoe myth across";
+var mnemonic = "ketchup sick mom bubble wreck estate board typical vital salad ahead become";

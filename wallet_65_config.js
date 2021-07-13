@@ -1,1 +1,1 @@
-var mnemonic = "wasp crucial impact wait rotate cannon into benefit sugar stem royal talk";
+var mnemonic = "dry bullet tape umbrella copper wisdom job boss have blade knock onion";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt host shine goat history firm enable later type rail word beach";
+var mnemonic = "actor wash sister chase they gentle rural tissue spawn cannon empower hurry";

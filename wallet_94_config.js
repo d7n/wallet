@@ -1,1 +1,1 @@
-var mnemonic = "treat clip lucky stairs vast long grief thank bachelor ignore have wild";
+var mnemonic = "cross rebel east property assault swift install evil foam vault truth damage";

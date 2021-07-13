@@ -1,1 +1,1 @@
-var mnemonic = "sauce plug grass supply way woman fun cash emotion meat gym dumb";
+var mnemonic = "coral jaguar salt female tank erosion slice enhance kind bubble east kind";

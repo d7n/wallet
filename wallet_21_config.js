@@ -1,1 +1,1 @@
-var mnemonic = "reopen nut focus armed ripple wear sing common canvas fish decide below";
+var mnemonic = "lab open slogan rely emerge source tenant benefit bonus west discover better";

@@ -1,1 +1,1 @@
-var mnemonic = "swift name oblige pull digital tortoise turn dune dance clay brain deny";
+var mnemonic = "property cost arrange settle physical around sight result lawn key state turkey";

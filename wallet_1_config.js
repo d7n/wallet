@@ -1,1 +1,1 @@
-var mnemonic = "space salute fashion hollow float parent moon guard front river sport corn";
+var mnemonic = "flavor scout nation weasel wrong another sweet later idea clown match problem";

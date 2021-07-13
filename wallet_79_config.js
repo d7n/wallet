@@ -1,1 +1,1 @@
-var mnemonic = "detail grocery refuse ten salute dismiss viable fossil area analyst success actress";
+var mnemonic = "must flash school entry quality predict skull decade key act urban hurdle";

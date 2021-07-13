@@ -1,1 +1,1 @@
-var mnemonic = "rebuild grace fish seminar work wise climb alter memory cliff heavy rent";
+var mnemonic = "ladder ecology outdoor mystery brick truth undo defense rose dumb blouse real";

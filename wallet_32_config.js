@@ -1,1 +1,1 @@
-var mnemonic = "siege motion radar stage skate fine sweet oxygen key tribe certain auction";
+var mnemonic = "learn idle grunt glass tuna dog boat wire ride fabric raven advice";

@@ -1,1 +1,1 @@
-var mnemonic = "mail picture obtain question rigid scatter table visa wine luggage cloth merge";
+var mnemonic = "tired then path submit raccoon utility gas hedgehog fatigue giggle remain volcano";

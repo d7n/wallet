@@ -1,1 +1,1 @@
-var mnemonic = "room tower render excite video boring dentist opera sauce abuse pitch foam";
+var mnemonic = "people top tip board derive friend type novel hold brave chase this";

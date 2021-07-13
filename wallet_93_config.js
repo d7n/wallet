@@ -1,1 +1,1 @@
-var mnemonic = "sword accuse orchard crouch model street leisure language noodle joke skate clap";
+var mnemonic = "lesson globe across tone scout atom very loud cheese book island tell";

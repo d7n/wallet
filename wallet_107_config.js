@@ -1,1 +1,1 @@
-var mnemonic = "follow autumn sentence small deputy sphere pencil planet another wine candy convince";
+var mnemonic = "adjust involve fortune weather dragon team bitter deputy flip ice hero oven";

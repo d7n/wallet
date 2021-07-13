@@ -1,1 +1,1 @@
-var mnemonic = "any rude toss seminar lava unit doll excess scheme taxi choice royal";
+var mnemonic = "royal welcome review cross correct hawk stone anxiety rail ignore wish jealous";

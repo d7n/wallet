@@ -1,1 +1,1 @@
-var mnemonic = "dizzy eagle sign garage letter bitter bubble limit prefer enemy process moon";
+var mnemonic = "reward cover empty whip clever aunt morning yellow tennis firm mail diesel";

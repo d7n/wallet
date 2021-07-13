@@ -1,1 +1,1 @@
-var mnemonic = "sock leave giant blast social carpet panda echo glue since during wheat";
+var mnemonic = "soon tissue someone jeans tuna kit cover card virus today crane six";

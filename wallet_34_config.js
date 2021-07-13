@@ -1,1 +1,1 @@
-var mnemonic = "fossil banana check admit auction again flee six champion machine orient canoe";
+var mnemonic = "eight tent taste pride usual cabin debris depend spawn three win aspect";

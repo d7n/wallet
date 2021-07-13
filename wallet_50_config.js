@@ -1,1 +1,1 @@
-var mnemonic = "strong way next hold ability chaos citizen liberty walnut vapor multiply truth";
+var mnemonic = "frozen hollow love wage eternal treat dance pool anger obscure hood come";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy fence hint spare will cheese cannon own world reward solid simple";
+var mnemonic = "response ask shoulder talent cover casual depart move lounge organ police torch";

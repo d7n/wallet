@@ -1,1 +1,1 @@
-var mnemonic = "theme lizard client blast eternal super upper shallow coyote shift rack burden";
+var mnemonic = "bomb high nuclear trigger never citizen desert move bargain stadium obvious material";

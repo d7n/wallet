@@ -1,1 +1,1 @@
-var mnemonic = "mask dumb situate budget peace other width scout issue clap wage rather";
+var mnemonic = "monitor normal palace already speak worth army memory west purse shrug upon";

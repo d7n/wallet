@@ -1,1 +1,1 @@
-var mnemonic = "inform story lazy casual trick caught viable best snack mistake page firm";
+var mnemonic = "table mention quantum digital laptop plate where awesome trick morning cool travel";

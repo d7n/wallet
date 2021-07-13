@@ -1,1 +1,1 @@
-var mnemonic = "boost element drama area nest blush cake loan bag much welcome melody";
+var mnemonic = "ketchup shed install almost glimpse custom unit wedding stool bone say forward";

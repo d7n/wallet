@@ -1,1 +1,1 @@
-var mnemonic = "pull boil federal dawn body song range quarter home quarter path across";
+var mnemonic = "fence pluck young voyage rule emotion garbage flock radar glide rural before";

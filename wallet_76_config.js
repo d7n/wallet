@@ -1,1 +1,1 @@
-var mnemonic = "enjoy lake hotel can survey anxiety motor cool cage curtain bus mystery";
+var mnemonic = "zero humor mail naive rally text inmate labor sausage light goose country";

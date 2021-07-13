@@ -1,1 +1,1 @@
-var mnemonic = "horror speed equal letter split parade nation suit citizen fire region belt";
+var mnemonic = "damp plate enhance cause cigar recall liberty love action glare unknown horn";

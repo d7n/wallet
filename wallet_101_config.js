@@ -1,1 +1,1 @@
-var mnemonic = "glide dress sting hundred license electric parent enrich style era trust pulse";
+var mnemonic = "office phone focus hero hamster cannon grow grant country inform alter top";

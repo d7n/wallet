@@ -1,1 +1,1 @@
-var mnemonic = "fun alley piano ancient above guess change add mind clown hair tomorrow";
+var mnemonic = "village industry sphere vintage burst eight matrix only mass scale note lava";

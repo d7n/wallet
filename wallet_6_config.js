@@ -1,1 +1,1 @@
-var mnemonic = "kiss height trash adult into brand what nuclear believe quarter token author";
+var mnemonic = "work reform slow above vintage token conduct inspire require hundred push fragile";

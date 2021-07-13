@@ -1,1 +1,1 @@
-var mnemonic = "say include company science faith arrest delay toast either romance choice canal";
+var mnemonic = "prize fire over spatial connect merge eager ketchup twenty wheat renew property";

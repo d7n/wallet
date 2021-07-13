@@ -1,1 +1,1 @@
-var mnemonic = "tower retire oven much fiction true deal oval bone napkin public loyal";
+var mnemonic = "very obtain lyrics position horse keep wish opera exhibit mask ramp raven";

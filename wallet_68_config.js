@@ -1,1 +1,1 @@
-var mnemonic = "gate notice assault proof junior fluid oxygen attitude antenna try neither diesel";
+var mnemonic = "festival tattoo below turkey science switch unfair expose certain process slight pool";

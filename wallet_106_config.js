@@ -1,1 +1,1 @@
-var mnemonic = "keen velvet ketchup clump brown visual romance together pass nut monitor fault";
+var mnemonic = "bronze humor atom play million exercise party firm connect damp connect eternal";

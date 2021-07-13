@@ -1,1 +1,1 @@
-var mnemonic = "canyon deliver surge chimney purity judge appear hawk artist client antenna stable";
+var mnemonic = "daring glory bamboo ticket basic reveal rough thought win regular daughter engine";

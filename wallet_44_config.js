@@ -1,1 +1,1 @@
-var mnemonic = "latin dawn repair lazy stage idea runway guide divide physical nothing walnut";
+var mnemonic = "comfort decline roof vast dash farm element mom hat fence chest want";

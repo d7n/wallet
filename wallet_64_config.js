@@ -1,1 +1,1 @@
-var mnemonic = "warfare upgrade kid wide hold exercise caught swarm glow muffin scorpion fog";
+var mnemonic = "round liar process uncover insane giggle mechanic rely liberty dismiss bird expire";

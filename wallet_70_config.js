@@ -1,1 +1,1 @@
-var mnemonic = "client occur space muffin mirror orchard desk observe myth pull crucial above";
+var mnemonic = "earn dwarf harvest ivory display dutch topple cover muscle rug bomb kiss";

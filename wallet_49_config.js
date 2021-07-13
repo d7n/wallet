@@ -1,1 +1,1 @@
-var mnemonic = "wreck river club alcohol sleep fitness sea model drink plate wealth blue";
+var mnemonic = "innocent drift broom absorb major document desert ceiling act wait curtain anchor";

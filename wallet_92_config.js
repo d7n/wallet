@@ -1,1 +1,1 @@
-var mnemonic = "ladder cube marine apple vital novel youth leave tray auto noble top";
+var mnemonic = "castle avocado sea behave chicken capable glove vehicle outer eternal kit maximum";

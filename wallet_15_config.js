@@ -1,1 +1,1 @@
-var mnemonic = "shiver oak gather draw ill source payment scheme pudding hub clarify almost";
+var mnemonic = "retire family journey enrich whale solid ribbon pistol fresh pole need race";

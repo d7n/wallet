@@ -1,1 +1,1 @@
-var mnemonic = "accuse slab assume train okay universe gather blouse drop liberty enact profit";
+var mnemonic = "ski car tribe protect dream neither blur match harsh member shift airport";

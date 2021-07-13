@@ -1,1 +1,1 @@
-var mnemonic = "empower smooth excess regular leaf aware discover lady silver stamp resemble tumble";
+var mnemonic = "knock place submit canal visa squirrel field castle broccoli alcohol help check";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy sure arrange mirror muffin fitness fold false pretty young scheme quiz";
+var mnemonic = "come crane tackle plate omit unhappy fury hurry olympic young melt radio";

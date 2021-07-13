@@ -1,1 +1,1 @@
-var mnemonic = "pink wave pattern parrot sustain bless entry device glove return soon fish";
+var mnemonic = "mean usual fine fox grow marriage morning bounce mention entry army vehicle";

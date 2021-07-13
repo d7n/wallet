@@ -1,1 +1,1 @@
-var mnemonic = "hill large session purse narrow drive mango inspire impose come health pluck";
+var mnemonic = "input soon music bike crane bring badge mass pattern escape photo giraffe";

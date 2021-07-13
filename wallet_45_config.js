@@ -1,1 +1,1 @@
-var mnemonic = "hire gold obey differ vague check blood stadium legal daring muffin mechanic";
+var mnemonic = "thrive galaxy street dizzy grain mom behave balcony announce soft february toilet";

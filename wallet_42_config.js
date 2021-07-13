@@ -1,1 +1,1 @@
-var mnemonic = "ahead clump wife carry appear either toy ill pattern home dismiss skate";
+var mnemonic = "balcony fiber air worry head shock hunt horror enrich infant dwarf portion";

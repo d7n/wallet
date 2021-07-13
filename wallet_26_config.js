@@ -1,1 +1,1 @@
-var mnemonic = "video lumber unveil alarm thing margin enable purse celery issue history column";
+var mnemonic = "virtual chronic anxiety defense derive boat carry forget breeze lecture vocal draft";

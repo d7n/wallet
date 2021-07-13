@@ -1,1 +1,1 @@
-var mnemonic = "flock mind cradle omit shine puzzle click hire liquid layer shove baby";
+var mnemonic = "pony pencil two pear raven ranch birth similar replace box thank spring";

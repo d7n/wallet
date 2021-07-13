@@ -1,1 +1,1 @@
-var mnemonic = "entry remain seed escape surround flush man genius jealous super hero celery";
+var mnemonic = "believe cactus summer shoe wild shop fever supreme virtual pause despair oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear pizza convince embark risk omit inform cattle view brave proof settle";
+var mnemonic = "club cannon craft betray security quit salute snake breeze furnace what later";

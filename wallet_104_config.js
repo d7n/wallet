@@ -1,1 +1,1 @@
-var mnemonic = "cargo inmate sugar couple wing replace sunny nothing fiction lazy decrease island";
+var mnemonic = "develop whip anxiety velvet illness dream lecture scheme cream guitar injury river";

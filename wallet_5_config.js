@@ -1,1 +1,1 @@
-var mnemonic = "shallow great venue deposit very shove drip turn renew trend boring panda";
+var mnemonic = "humble unlock spirit dilemma exclude lucky oak token combine coil year lazy";

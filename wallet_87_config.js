@@ -1,1 +1,1 @@
-var mnemonic = "amazing swim age blanket skull welcome know fever suit core bundle nothing";
+var mnemonic = "gossip smoke clock hello omit pledge hip during video embark oven guitar";

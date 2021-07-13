@@ -1,1 +1,1 @@
-var mnemonic = "unusual fat want early scrap angle creek obtain spread concert ripple remove";
+var mnemonic = "diet rely seed accident cram story fiscal lizard guess print afraid chaos";

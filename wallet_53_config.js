@@ -1,1 +1,1 @@
-var mnemonic = "unaware unable dad afraid flee sunny stage renew topple wide tide arrest";
+var mnemonic = "olympic purpose bleak van wall maze goat raise fashion banana embrace outdoor";

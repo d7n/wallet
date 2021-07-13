@@ -1,1 +1,1 @@
-var mnemonic = "inch nasty boil file only miracle kitten pear dignity brick girl trophy";
+var mnemonic = "boost farm bleak wing system turtle pair vacant ocean labor same whale";

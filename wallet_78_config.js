@@ -1,1 +1,1 @@
-var mnemonic = "truth search pull daughter order voyage leg one whip orient help click";
+var mnemonic = "job dismiss taxi latin abandon brief wagon man liquid target snack rhythm";

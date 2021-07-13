@@ -1,1 +1,1 @@
-var mnemonic = "immense project chief entire source expand vault bracket scrub guess satisfy divert";
+var mnemonic = "scout ozone medal mean beyond heavy ancient toy advice shoe inquiry goose";

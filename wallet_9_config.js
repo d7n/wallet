@@ -1,1 +1,1 @@
-var mnemonic = "abandon resource wild unit hover roast video equip style double another hold";
+var mnemonic = "treat fat such blur area topple spell vehicle license luggage become math";

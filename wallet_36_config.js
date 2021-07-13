@@ -1,1 +1,1 @@
-var mnemonic = "suit dice valley program craft chair harvest execute hint defense wife then";
+var mnemonic = "ten business fury engage woman project fresh treat gallery decline curve odor";

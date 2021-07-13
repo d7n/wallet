@@ -1,1 +1,1 @@
-var mnemonic = "tissue farm foster gospel grain fault dad famous blue two priority bomb";
+var mnemonic = "nurse annual decline install effort spot office universe cheese sausage depth wave";

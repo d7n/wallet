@@ -1,1 +1,1 @@
-var mnemonic = "twice wide wild attract swift easy design onion slab shaft finish math";
+var mnemonic = "file alpha ecology spider economy move juice fancy draw sample life grain";

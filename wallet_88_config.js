@@ -1,1 +1,1 @@
-var mnemonic = "three north strike liquid sign banner decade naive siren agent empower rely";
+var mnemonic = "input gasp faith pact spin truck column feel cost diary glove leader";

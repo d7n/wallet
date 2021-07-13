@@ -1,1 +1,1 @@
-var mnemonic = "foot reopen immune before eight current pulse spell steak scheme forest weather";
+var mnemonic = "invest cricket save antique width resist call giant voyage average now join";

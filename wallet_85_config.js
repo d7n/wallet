@@ -1,1 +1,1 @@
-var mnemonic = "maze globe have eagle arrive airport inch kick cloud item call crouch";
+var mnemonic = "spice green midnight tortoise risk thing shed parent budget stuff fruit cheese";

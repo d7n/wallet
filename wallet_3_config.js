@@ -1,1 +1,1 @@
-var mnemonic = "model conduct vendor shrug alley mammal valley entire lemon bulb nurse require";
+var mnemonic = "reason defense army reveal word soccer news wink winter thing health can";

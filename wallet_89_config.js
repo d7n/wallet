@@ -1,1 +1,1 @@
-var mnemonic = "view spatial artist pluck chuckle modify cat pig because deliver bachelor cheap";
+var mnemonic = "gold refuse switch belt short present skate midnight cement hole divide rent";

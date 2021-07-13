@@ -1,1 +1,1 @@
-var mnemonic = "sunset affair camp layer wire filter episode potato boil violin swift lend";
+var mnemonic = "album sad wash fuel fork business visa recycle cancel tuition reveal tumble";

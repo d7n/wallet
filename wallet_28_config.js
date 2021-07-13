@@ -1,1 +1,1 @@
-var mnemonic = "credit topple visual artwork work elbow lonely gym insect action harvest eagle";
+var mnemonic = "fork wrap forum donkey claim resource skull finish civil great quote hub";

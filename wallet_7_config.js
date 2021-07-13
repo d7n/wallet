@@ -1,1 +1,1 @@
-var mnemonic = "vacuum valley capital sustain next forget gold chronic bid resist infant permit";
+var mnemonic = "universe course six wave depart tackle fly hurt struggle creek music fire";

@@ -1,1 +1,1 @@
-var mnemonic = "verify enroll receive nature license cram mystery book saddle master fiction window";
+var mnemonic = "crucial coral model creek across collect indicate bracket dwarf kitchen million police";

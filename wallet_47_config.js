@@ -1,1 +1,1 @@
-var mnemonic = "best refuse curtain drastic twist blossom hard episode sock purpose brief dawn";
+var mnemonic = "toe leisure vast quit awkward tank pelican find scheme small legal next";

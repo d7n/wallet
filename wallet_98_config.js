@@ -1,1 +1,1 @@
-var mnemonic = "large ability rib radio degree return spare health globe mutual usual reduce";
+var mnemonic = "jeans cost habit ketchup off poet dawn soda response town open shoot";

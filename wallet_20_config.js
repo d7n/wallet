@@ -1,1 +1,1 @@
-var mnemonic = "cousin there wild teach prefer orbit wait amazing frog fancy hedgehog awesome";
+var mnemonic = "castle agent culture opera split salmon museum taxi say push bulb crazy";

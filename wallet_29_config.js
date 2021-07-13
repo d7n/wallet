@@ -1,1 +1,1 @@
-var mnemonic = "simple random year start mule merit swear dinner bonus kid feed autumn";
+var mnemonic = "catalog stick clump tornado track steak segment man that pretty arrive buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "close bleak ridge parade sustain foil gloom size fence latin shy rug";
+var mnemonic = "organ cupboard source world badge trend square office strategy still insect anxiety";

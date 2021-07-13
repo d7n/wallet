@@ -1,1 +1,1 @@
-var mnemonic = "cliff neglect scale museum burger poem universe future usual idea pigeon tell";
+var mnemonic = "book hunt ethics dream enroll jungle solution lounge spider stereo worry glass";

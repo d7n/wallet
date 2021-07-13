@@ -1,1 +1,1 @@
-var mnemonic = "slight clean onion tank grocery term cram noise middle wrist sorry join";
+var mnemonic = "utility copper post royal wing mule flip keen sugar claw camp paddle";

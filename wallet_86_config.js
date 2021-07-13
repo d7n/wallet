@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow phone feel option ethics sing lava alarm exercise oblige maple mobile";
+var mnemonic = "verify gadget harbor assault cup cake silver breeze garbage gloom over beauty";

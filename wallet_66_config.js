@@ -1,1 +1,1 @@
-var mnemonic = "bacon lunch mixed tenant similar scissors nephew tooth betray derive soda immense";
+var mnemonic = "else olympic museum frequent main shy exist favorite hazard smoke walnut mansion";

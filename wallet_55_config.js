@@ -1,1 +1,1 @@
-var mnemonic = "beef walk faculty under lottery rude fish inject page matrix goddess remove";
+var mnemonic = "daughter oil supply tenant message nerve brush space canal parrot give remain";

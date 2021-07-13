@@ -1,1 +1,1 @@
-var mnemonic = "multiply scrub picture slush boring river engage hedgehog price squeeze credit blossom";
+var mnemonic = "shove resist then move bleak similar pen grain service spice fatigue solution";

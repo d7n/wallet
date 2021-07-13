@@ -1,1 +1,1 @@
-var mnemonic = "enter artefact spread farm debate orphan room short hawk roast smoke actual";
+var mnemonic = "salad private bamboo flush fashion sting connect normal tennis plastic quit ankle";

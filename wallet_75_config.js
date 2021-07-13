@@ -1,1 +1,1 @@
-var mnemonic = "magic online thank parent oval law warfare chapter jungle match base gadget";
+var mnemonic = "burger ship hybrid allow lottery slide mom nice issue fuel resist lonely";

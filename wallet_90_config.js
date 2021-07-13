@@ -1,1 +1,1 @@
-var mnemonic = "original crazy famous rib north mutual identify local denial foil mango blast";
+var mnemonic = "risk torch air super decorate wear shed mystery normal exotic shoot rapid";

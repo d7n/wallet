@@ -1,1 +1,1 @@
-var mnemonic = "cigar latin season rail virtual because title profit unique wood blast wait";
+var mnemonic = "disorder broccoli tuna side bean tiny seminar ship recall where side harvest";
