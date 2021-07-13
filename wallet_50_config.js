@@ -1,1 +1,1 @@
-var mnemonic = "muscle stage hour valid orbit business gift rare chapter curve tragic airport";
+var mnemonic = "absent interest rug nuclear effort wet diagram machine noble section utility shop";

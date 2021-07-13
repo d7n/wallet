@@ -1,1 +1,1 @@
-var mnemonic = "blast noodle pencil enter busy below rude reopen engage lounge distance piano";
+var mnemonic = "toy very fancy visit number deposit legal guess slight nest slow strong";

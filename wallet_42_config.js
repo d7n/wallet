@@ -1,1 +1,1 @@
-var mnemonic = "trash put treat matter nephew post large child gesture enhance draw quantum";
+var mnemonic = "salute arm stock more pave invite leopard music waste pizza monster salute";

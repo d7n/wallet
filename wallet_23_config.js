@@ -1,1 +1,1 @@
-var mnemonic = "fancy curve easy task mistake paper champion laugh useless absurd help kitchen";
+var mnemonic = "clog solid twenty impose local whip inner crew violin road nut gospel";

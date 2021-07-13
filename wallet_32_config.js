@@ -1,1 +1,1 @@
-var mnemonic = "flame juice frown hard simple clarify join comfort invest region mushroom shoulder";
+var mnemonic = "patrol bring metal lucky album humor end about animal sell gentle track";

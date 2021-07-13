@@ -1,1 +1,1 @@
-var mnemonic = "forward police endorse young theme wish that crouch pottery unknown dress protect";
+var mnemonic = "news rent call degree gold possible admit case envelope cake course old";

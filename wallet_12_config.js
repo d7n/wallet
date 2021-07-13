@@ -1,1 +1,1 @@
-var mnemonic = "alien birth distance solve valve client fiber around hurry shoulder title deliver";
+var mnemonic = "kidney nephew north bottom lyrics disagree wealth you involve embrace shop poet";

@@ -1,1 +1,1 @@
-var mnemonic = "swing phrase breeze insect fabric tribe today chest next gold demand lift";
+var mnemonic = "pepper depart gas lesson end parent omit expose fix black evoke artist";

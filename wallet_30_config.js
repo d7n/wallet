@@ -1,1 +1,1 @@
-var mnemonic = "control split soup priority neutral fly price august glimpse glue draft foil";
+var mnemonic = "where normal still behave glimpse collect canoe license rubber rate enlist fish";

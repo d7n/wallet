@@ -1,1 +1,1 @@
-var mnemonic = "hard scan ozone notice you actor ahead analyst arrive flee luxury travel";
+var mnemonic = "various tilt cause body infant crash cereal bar venture reunion logic refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "own vicious wire asset main ancient toilet gown shoulder public slab act";
+var mnemonic = "more original jazz silk stone school ankle oppose paper absorb approve input";

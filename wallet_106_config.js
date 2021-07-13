@@ -1,1 +1,1 @@
-var mnemonic = "mobile bag convince love fantasy cover dizzy weekend sketch mosquito actress sing";
+var mnemonic = "eyebrow goddess candy keen excite bounce sad account quiz humble gossip tooth";

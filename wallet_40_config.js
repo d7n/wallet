@@ -1,1 +1,1 @@
-var mnemonic = "salmon gadget boring tree spoon kick cross clever any capable wheel local";
+var mnemonic = "hope surge finger brief scrub adult cheap entry baby pizza action stereo";

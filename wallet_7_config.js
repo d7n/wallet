@@ -1,1 +1,1 @@
-var mnemonic = "mercy uphold gentle voice dry emotion obey correct mouse endless distance skill";
+var mnemonic = "divert usage buffalo battle off sound guess pattern fossil sniff can shove";

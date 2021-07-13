@@ -1,1 +1,1 @@
-var mnemonic = "soldier usage wrist immense spray bright whisper empty critic cable dwarf normal";
+var mnemonic = "attack slot fiscal track point round furnace gasp tunnel conduct fun sheriff";

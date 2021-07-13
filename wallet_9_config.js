@@ -1,1 +1,1 @@
-var mnemonic = "way property flavor grass spray way fringe disease deny primary kit have";
+var mnemonic = "solution magnet defy way cage region avocado message phone brave chronic find";

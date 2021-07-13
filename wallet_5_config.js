@@ -1,1 +1,1 @@
-var mnemonic = "around shine music awesome screen duty dust tower blind match resist what";
+var mnemonic = "joy couple island output amazing letter one announce heart cinnamon similar between";

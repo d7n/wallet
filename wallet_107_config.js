@@ -1,1 +1,1 @@
-var mnemonic = "aisle mule trash connect wife tortoise beauty lift forest end tomorrow yard";
+var mnemonic = "initial garage travel carry dry federal hard next fan nose rather verify";

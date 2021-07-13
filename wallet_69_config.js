@@ -1,1 +1,1 @@
-var mnemonic = "boil jewel critic romance stamp witness year next height bike bless canal";
+var mnemonic = "donate twice reward lazy very road token interest armor rebuild riot pause";

@@ -1,1 +1,1 @@
-var mnemonic = "april business cherry legend upon cattle organ vessel valve forest melt skirt";
+var mnemonic = "six hope steel carbon pill delay prefer lens impose else man snack";

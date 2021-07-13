@@ -1,1 +1,1 @@
-var mnemonic = "mesh milk tube tomorrow spatial stadium near apart upper price gravity hat";
+var mnemonic = "slogan pledge cook joy arrive convince lamp kick duty include equip wrap";

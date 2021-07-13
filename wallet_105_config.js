@@ -1,1 +1,1 @@
-var mnemonic = "someone fork divert flush nation float sell robot nothing mechanic junk screen";
+var mnemonic = "act best hundred property luxury idle enjoy divide brief history crane turn";

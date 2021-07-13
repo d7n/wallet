@@ -1,1 +1,1 @@
-var mnemonic = "fluid evoke then load reform sniff clutch prize flame medal slush jaguar";
+var mnemonic = "occur crane vintage initial canyon favorite another walk blade alpha swear law";

@@ -1,1 +1,1 @@
-var mnemonic = "develop pig fruit horror era hockey nominee wife just balcony cave galaxy";
+var mnemonic = "credit among green blame stuff ethics make lend cargo foot demise shop";

@@ -1,1 +1,1 @@
-var mnemonic = "subject daughter civil boy bunker region trouble humor front rely uncle obscure";
+var mnemonic = "force trial put label foot police salon hospital wing sausage shift dignity";

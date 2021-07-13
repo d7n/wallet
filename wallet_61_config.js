@@ -1,1 +1,1 @@
-var mnemonic = "clever practice spend symptom talent either mountain account width large cycle grow";
+var mnemonic = "buffalo obscure rubber extra song number gun clarify lunar typical drill enrich";

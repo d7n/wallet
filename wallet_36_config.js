@@ -1,1 +1,1 @@
-var mnemonic = "shed smooth reform vessel melody bulk rent poet recall edit left silk";
+var mnemonic = "bread iron foot increase hidden unknown smoke surge robot melody angry shock";

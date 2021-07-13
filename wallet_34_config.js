@@ -1,1 +1,1 @@
-var mnemonic = "rib vanish trial slim orbit point raven latin gym close assist vague";
+var mnemonic = "cram leaf liquid scene nest review play fashion chest police hand coyote";

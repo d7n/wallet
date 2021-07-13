@@ -1,1 +1,1 @@
-var mnemonic = "together identify maple topple palace spike broken east pluck vendor another select";
+var mnemonic = "fashion library attack betray lunar core uncover lottery pretty process shallow neither";

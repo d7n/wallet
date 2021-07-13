@@ -1,1 +1,1 @@
-var mnemonic = "session museum battle salad disagree kidney galaxy swallow protect early category jeans";
+var mnemonic = "boring key region spike version blouse firm drip verify river popular buffalo";

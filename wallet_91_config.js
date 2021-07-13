@@ -1,1 +1,1 @@
-var mnemonic = "soccer super setup document betray home gap length help spy movie hole";
+var mnemonic = "flat flag bachelor identify trip crisp room aisle census utility tribe pulse";

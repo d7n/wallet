@@ -1,1 +1,1 @@
-var mnemonic = "guilt radar alpha dilemma between screen obey puzzle utility element recycle manage";
+var mnemonic = "tube share suffer giggle tennis square cart super cross cigar auction fish";

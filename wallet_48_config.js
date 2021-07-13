@@ -1,1 +1,1 @@
-var mnemonic = "dad shoe fix drink potato swap box casino hill tiger liar universe";
+var mnemonic = "plastic wait eye evoke work glare silver arrow weird theme bounce book";

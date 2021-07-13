@@ -1,1 +1,1 @@
-var mnemonic = "float pact help group parade strike joy crash warfare follow omit okay";
+var mnemonic = "repair danger frog ostrich day gloom struggle tomato file idea idea isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "fun turtle broccoli until uncle faint message brown plug lift shock rapid";
+var mnemonic = "turkey arctic bike enter attack tissue special cousin sand fatal ski physical";

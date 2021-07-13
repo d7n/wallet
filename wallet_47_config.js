@@ -1,1 +1,1 @@
-var mnemonic = "math ticket modify surprise assault palace year danger tunnel bread pledge display";
+var mnemonic = "name spell month room enforce regret mail grace bone annual flush suggest";

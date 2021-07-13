@@ -1,1 +1,1 @@
-var mnemonic = "submit evil plate rare marine lazy across cattle strategy panic employ wife";
+var mnemonic = "replace hidden book little genius penalty afraid stable chest waste appear card";

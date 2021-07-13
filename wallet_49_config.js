@@ -1,1 +1,1 @@
-var mnemonic = "modify wealth dose distance once usage absurd voice hollow creek rookie portion";
+var mnemonic = "defense human device hip interest lottery robust trigger physical salute scout say";

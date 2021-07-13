@@ -1,1 +1,1 @@
-var mnemonic = "refuse occur then two patrol charge borrow feed album air airport mail";
+var mnemonic = "gospel during ability anger strategy advance wear story noodle sunny script wrap";

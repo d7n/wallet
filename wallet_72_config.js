@@ -1,1 +1,1 @@
-var mnemonic = "again noodle innocent custom inflict puzzle second eager myth field ball canyon";
+var mnemonic = "explain please know canal pulse nominee liar live adult because estate scatter";

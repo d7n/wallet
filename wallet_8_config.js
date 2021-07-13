@@ -1,1 +1,1 @@
-var mnemonic = "forum laugh trash identify another plastic unit whale make owner infant door";
+var mnemonic = "section whale luggage sketch dash spin armor canyon trust cube target clock";

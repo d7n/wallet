@@ -1,1 +1,1 @@
-var mnemonic = "imitate fault blade potato afford modify become text flower sail birth dress";
+var mnemonic = "lend exhibit mention high easily oyster supply term spoon stick maple stone";

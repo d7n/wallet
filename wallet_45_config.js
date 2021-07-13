@@ -1,1 +1,1 @@
-var mnemonic = "measure plastic produce away swamp sentence slam rail fall load orient canvas";
+var mnemonic = "check govern cannon crane choose drive pride smooth cash garage evoke custom";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist lemon split maximum lizard illness muffin virtual mutual any lawn judge";
+var mnemonic = "buddy volcano spice glow disease embrace defense sustain twelve suspect private pistol";

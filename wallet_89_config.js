@@ -1,1 +1,1 @@
-var mnemonic = "good clock misery wait velvet drama razor radio rib slide govern casino";
+var mnemonic = "civil jazz anxiety swarm baby foster hope tail sense subject field spend";

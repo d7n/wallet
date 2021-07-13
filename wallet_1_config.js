@@ -1,1 +1,1 @@
-var mnemonic = "receive verb entry situate cave gain color tank ill east roof avoid";
+var mnemonic = "physical obtain round frame pen alley issue they upset column always dream";

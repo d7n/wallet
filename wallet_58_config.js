@@ -1,1 +1,1 @@
-var mnemonic = "above essay nominee wrong arch frog bulk man code supreme pave nice";
+var mnemonic = "polar finish grass lawn fatigue enough captain lunch syrup keen alpha furnace";

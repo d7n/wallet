@@ -1,1 +1,1 @@
-var mnemonic = "era code poem sudden awesome dad venue common social river thumb arrange";
+var mnemonic = "utility caution group hover feel dry avocado lesson citizen hurry cherry faith";

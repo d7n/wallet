@@ -1,1 +1,1 @@
-var mnemonic = "palace damage exhibit toast pull gain wage ball cargo feel glory glory";
+var mnemonic = "prison during naive devote volcano vendor private loan vital second glory erupt";

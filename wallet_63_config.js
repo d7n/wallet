@@ -1,1 +1,1 @@
-var mnemonic = "meadow tray vote young slab globe wrist battle nominee total couple wagon";
+var mnemonic = "jewel sick oyster symptom check fabric victory narrow tissue order nice clerk";

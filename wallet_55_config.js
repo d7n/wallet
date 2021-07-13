@@ -1,1 +1,1 @@
-var mnemonic = "object journey crane spin dash actress nasty tortoise stamp source cry earn";
+var mnemonic = "aim symptom lift fall fly plastic heavy abandon abandon pool exotic whip";

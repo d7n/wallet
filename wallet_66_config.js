@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow harbor notable board dilemma purity build burden exercise tragic case member";
+var mnemonic = "endorse drink climb whisper lady sentence actress leg heavy all crawl impact";

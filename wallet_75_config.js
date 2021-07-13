@@ -1,1 +1,1 @@
-var mnemonic = "top basic syrup humor club harbor expire hamster nominee advance then oval";
+var mnemonic = "loud nuclear spot water already curious bread pause estate paddle cost pig";

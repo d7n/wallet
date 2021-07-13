@@ -1,1 +1,1 @@
-var mnemonic = "sock pen head address reflect pulse smart cute blame consider merit debris";
+var mnemonic = "october toddler unfair equal lemon hamster faculty wrap announce assist width bicycle";

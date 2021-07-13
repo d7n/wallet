@@ -1,1 +1,1 @@
-var mnemonic = "false clog october ring face knee keep must foot item quiz step";
+var mnemonic = "budget member decline limb mad arctic cube kitten rent series ankle lake";

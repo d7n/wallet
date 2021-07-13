@@ -1,1 +1,1 @@
-var mnemonic = "loyal twin enemy garment exotic genuine trouble where elephant ecology apology carpet";
+var mnemonic = "warrior royal room hold mutual ceiling dinosaur repeat clock normal spoil cost";

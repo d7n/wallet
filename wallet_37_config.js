@@ -1,1 +1,1 @@
-var mnemonic = "short solar enhance stadium auto buzz various bone zero anger chuckle dash";
+var mnemonic = "amateur lunch chapter habit circle blossom kitten youth wash valid monkey tackle";

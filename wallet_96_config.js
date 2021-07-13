@@ -1,1 +1,1 @@
-var mnemonic = "humble notable tip habit similar bicycle flat jewel tell convince march divorce";
+var mnemonic = "night fiber day useless seminar super muscle stuff rigid demise search pill";

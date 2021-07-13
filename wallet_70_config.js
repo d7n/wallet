@@ -1,1 +1,1 @@
-var mnemonic = "any smile abuse system hundred another dance suspect deal judge clever illness";
+var mnemonic = "turn gas wheel tissue zebra oil attack tuna velvet panda lunch course";

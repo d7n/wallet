@@ -1,1 +1,1 @@
-var mnemonic = "warrior month embark achieve elegant talk mystery tray level maple elite load";
+var mnemonic = "ketchup dignity humor tribe matter skin swallow stereo choose prison faith segment";

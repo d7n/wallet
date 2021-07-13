@@ -1,1 +1,1 @@
-var mnemonic = "want prevent vessel inner concert guitar ten october retreat resource dry client";
+var mnemonic = "chest cook uniform beach dignity antique evoke soap feature whisper leave tonight";

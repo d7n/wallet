@@ -1,1 +1,1 @@
-var mnemonic = "frog wage clinic armor cabbage define pill group veteran elder web note";
+var mnemonic = "science divorce lawsuit fiction essay desk pill purchase trash imitate other nasty";

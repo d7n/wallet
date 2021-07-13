@@ -1,1 +1,1 @@
-var mnemonic = "circle pipe airport utility cheap theme balance accuse lab run vessel scan";
+var mnemonic = "chalk route nephew garbage filter course simple major oak catalog sphere answer";

@@ -1,1 +1,1 @@
-var mnemonic = "three bachelor slogan stereo album domain sunny stereo heart roast off wrong";
+var mnemonic = "tiny skull bus capable phone proof burger orbit solar entire behave quarter";

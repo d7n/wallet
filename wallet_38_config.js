@@ -1,1 +1,1 @@
-var mnemonic = "car involve mobile fetch mention layer pistol steak occur symbol shift rotate";
+var mnemonic = "spread correct history wheel reveal quantum hope luxury green donor figure force";

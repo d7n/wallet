@@ -1,1 +1,1 @@
-var mnemonic = "south once author mirror sense flush jeans turkey style table belt bring";
+var mnemonic = "wrist depth eyebrow weekend rent acoustic become very balcony detail crop muffin";

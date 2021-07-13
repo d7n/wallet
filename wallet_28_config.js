@@ -1,1 +1,1 @@
-var mnemonic = "theme salon genuine kidney awesome arm disagree concert squirrel trash run common";
+var mnemonic = "wing culture jar card cabbage upgrade chat stock demise blade forest draft";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple empty inspire join doll actress work spice penalty able wrong medal";
+var mnemonic = "shop blind buyer scare tape grunt strong mention fruit fly ice make";

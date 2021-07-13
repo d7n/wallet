@@ -1,1 +1,1 @@
-var mnemonic = "cotton museum annual face grunt wonder tornado breeze diesel relax near always";
+var mnemonic = "twice law nothing tunnel three indoor spy glare when faint rib chair";

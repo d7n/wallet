@@ -1,1 +1,1 @@
-var mnemonic = "aisle middle safe crouch act obscure oak license double yard flat ankle";
+var mnemonic = "palace link hybrid valve hard fuel behind gasp arctic olive bicycle toddler";

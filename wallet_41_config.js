@@ -1,1 +1,1 @@
-var mnemonic = "volcano gadget tent reward energy define next symptom test van stamp olive";
+var mnemonic = "property toilet riot hobby large reopen lawsuit upgrade flight excess begin garbage";

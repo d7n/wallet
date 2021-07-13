@@ -1,1 +1,1 @@
-var mnemonic = "festival swap idle robust swim width enjoy vacuum speak focus wool fuel";
+var mnemonic = "arrange father proof history minor approve book sense salt between butter live";

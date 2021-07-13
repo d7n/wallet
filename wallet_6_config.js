@@ -1,1 +1,1 @@
-var mnemonic = "mountain sense hockey program squirrel balance key ice reduce matrix they agree";
+var mnemonic = "exclude lounge exhaust celery prefer boss evoke rookie hybrid style fog host";

@@ -1,1 +1,1 @@
-var mnemonic = "answer blue bean annual magnet start riot slogan smooth keen own arctic";
+var mnemonic = "injury tail essence select hurt slim crop wear foster argue swear area";

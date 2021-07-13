@@ -1,1 +1,1 @@
-var mnemonic = "zero light address judge imitate embark dream oyster before notice rough come";
+var mnemonic = "parade angry dinner key loyal agree illness valid salmon auto hen small";

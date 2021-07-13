@@ -1,1 +1,1 @@
-var mnemonic = "online female beach fade sniff absent someone rival wood grocery home decide";
+var mnemonic = "negative decide burst antenna bar antique lab february appear merge repair denial";

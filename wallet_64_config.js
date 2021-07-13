@@ -1,1 +1,1 @@
-var mnemonic = "weapon flavor spirit scale aisle pyramid cradle scale knife leg shell measure";
+var mnemonic = "office elegant purpose bike piano bar ribbon entry spell insane screen skull";

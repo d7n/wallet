@@ -1,1 +1,1 @@
-var mnemonic = "employ immune vague knock sunset copy judge master hotel giggle mask forget";
+var mnemonic = "horn brass laundry common unveil toddler topple robot work glance foster true";

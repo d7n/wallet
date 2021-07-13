@@ -1,1 +1,1 @@
-var mnemonic = "govern auction spread brand lion suggest glare item inspire earn ancient sponsor";
+var mnemonic = "butter crystal glory fun enable salon immune key visa priority cook inch";

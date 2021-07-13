@@ -1,1 +1,1 @@
-var mnemonic = "child include prosper dragon average rather toilet blanket scout few item apart";
+var mnemonic = "video oppose oven flee small apple tunnel chat crouch wife doctor empty";

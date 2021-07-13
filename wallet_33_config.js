@@ -1,1 +1,1 @@
-var mnemonic = "tiger powder busy pencil intact brother whale hollow know jewel ride ignore";
+var mnemonic = "bring venture radio harvest keep faint drift door exclude express advance glue";

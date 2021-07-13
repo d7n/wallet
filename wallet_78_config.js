@@ -1,1 +1,1 @@
-var mnemonic = "margin quality ten crash man milk awkward pelican ritual mercy hover craft";
+var mnemonic = "build language curious salad come bitter fine element jungle roof wet arctic";

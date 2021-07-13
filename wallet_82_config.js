@@ -1,1 +1,1 @@
-var mnemonic = "decorate debate legend hope reopen unfair trophy weather thing mercy inside ghost";
+var mnemonic = "enforce slide prevent airport tobacco nothing culture grace debate soldier host wet";

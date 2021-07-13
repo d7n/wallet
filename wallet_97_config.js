@@ -1,1 +1,1 @@
-var mnemonic = "wife sudden imitate evoke direct palace drink clock demise shoulder banner clarify";
+var mnemonic = "sun rubber good lab tool add swift brain garment brief divorce clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "glass decade amateur slim inch capital seat enforce cabin joy predict live";
+var mnemonic = "file clock curious use color foam wait salute excess ignore must summer";

@@ -1,1 +1,1 @@
-var mnemonic = "simple guess athlete post speed bulb pizza pave welcome someone uphold maple";
+var mnemonic = "achieve task island dragon arch security punch roast legend abstract twenty own";

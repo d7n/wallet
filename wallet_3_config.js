@@ -1,1 +1,1 @@
-var mnemonic = "trigger thrive ticket height dumb creek scissors unusual confirm vanish history purse";
+var mnemonic = "exist ill casino burden use joke hurdle speed spray priority struggle flame";

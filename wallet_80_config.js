@@ -1,1 +1,1 @@
-var mnemonic = "correct pupil picture reason thought pond sorry elder hero blind thank digital";
+var mnemonic = "duty vote city reform fiscal increase orchard exclude verify diamond filter easy";

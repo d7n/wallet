@@ -1,1 +1,1 @@
-var mnemonic = "sniff powder jewel exchange huge soup mountain accident have mass vacuum peace";
+var mnemonic = "cable try fruit settle immune tell thumb park age country faint sing";

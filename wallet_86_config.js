@@ -1,1 +1,1 @@
-var mnemonic = "light example erosion dial provide way sunny sting cash ask horror wool";
+var mnemonic = "link before ketchup public bargain antenna between tackle trouble club unveil mixed";

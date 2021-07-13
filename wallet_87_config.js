@@ -1,1 +1,1 @@
-var mnemonic = "idea canoe junk craft tenant tube crouch flee skill clinic coil autumn";
+var mnemonic = "album gift drama tail future carbon extra human sight flash salute fix";

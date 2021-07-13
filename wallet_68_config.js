@@ -1,1 +1,1 @@
-var mnemonic = "super category verb glass case tower right grid walnut arrange smart coin";
+var mnemonic = "style search poverty kingdom field bar direct book color rather sentence similar";
