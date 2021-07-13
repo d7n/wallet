@@ -1,1 +1,1 @@
-var mnemonic = "canyon dinner sentence manage forward wire hazard service crop depend age intact";
+var mnemonic = "about rug barely secret rally universe december gate story school crucial luggage";

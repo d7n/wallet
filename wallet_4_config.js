@@ -1,1 +1,1 @@
-var mnemonic = "average situate loyal cruel merit wrestle riot rose market cushion vendor exercise";
+var mnemonic = "wheat thrive brain discover sweet action caution job purpose laugh walk flat";

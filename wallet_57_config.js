@@ -1,1 +1,1 @@
-var mnemonic = "transfer since tide asset boss siege myth wage meat forest regular dynamic";
+var mnemonic = "inhale carbon release mix amazing coyote power toss chef near next organ";

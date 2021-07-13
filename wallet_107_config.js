@@ -1,1 +1,1 @@
-var mnemonic = "umbrella run remember coil across labor brave cousin weapon more copy sudden";
+var mnemonic = "canoe measure silly way brisk stadium recall gold sketch token dynamic napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten bitter mesh ride affair rail unusual hedgehog dwarf mimic notable rally";
+var mnemonic = "only document series habit nose blade cover angry surge stock tenant word";

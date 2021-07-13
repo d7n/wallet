@@ -1,1 +1,1 @@
-var mnemonic = "nation waste silent song connect text math tragic canoe prosper side timber";
+var mnemonic = "grab pink wasp metal check miss select laugh pig cheese clay ethics";

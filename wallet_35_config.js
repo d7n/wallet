@@ -1,1 +1,1 @@
-var mnemonic = "danger soda exact prosper steel rice margin awesome canal engine joy defense";
+var mnemonic = "forest famous news badge soda nuclear chalk shrimp comfort hungry tuna join";

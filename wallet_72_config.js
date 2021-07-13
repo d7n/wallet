@@ -1,1 +1,1 @@
-var mnemonic = "will mobile syrup peanut power letter walk heavy power elbow amount coach";
+var mnemonic = "sick square stone devote cement flower chaos wish civil angry outer divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "clog tank curious lens solution area stool vehicle quiz march carry remind";
+var mnemonic = "measure burden device ordinary actress grunt tool anxiety property maid crystal hotel";

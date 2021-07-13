@@ -1,1 +1,1 @@
-var mnemonic = "must else pave roof motion square sleep despair fiscal eight penalty narrow";
+var mnemonic = "panther kick blouse fetch swift above inhale sort find culture soup fitness";

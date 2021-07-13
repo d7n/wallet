@@ -1,1 +1,1 @@
-var mnemonic = "clap asthma enhance runway suit law model absorb orphan famous sea tired";
+var mnemonic = "fortune coil trumpet curious parrot short web lend canyon alley design clown";

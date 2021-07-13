@@ -1,1 +1,1 @@
-var mnemonic = "joke intact portion ride usual occur wrong solution same explain business tape";
+var mnemonic = "slender result youth version credit mixture electric brick shallow purse spatial arm";

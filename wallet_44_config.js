@@ -1,1 +1,1 @@
-var mnemonic = "weekend soon outdoor property true feel salmon noodle success fence ski omit";
+var mnemonic = "elevator text lens magnet execute burst follow buyer world stone impulse great";

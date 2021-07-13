@@ -1,1 +1,1 @@
-var mnemonic = "taste between boat news doctor husband skin pelican gown drive spin visa";
+var mnemonic = "recycle help claim oxygen impulse violin ethics before skill orphan belt walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "limit debris organ filter planet health equal useful door chest vast ozone";
+var mnemonic = "ladder improve subway badge cinnamon forum outdoor what radar bronze uniform address";

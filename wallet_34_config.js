@@ -1,1 +1,1 @@
-var mnemonic = "chest diary clerk obey noise mask expose flight maze blame dwarf critic";
+var mnemonic = "gown flash demise save below doctor february corn mind hunt minor long";

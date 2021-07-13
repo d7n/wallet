@@ -1,1 +1,1 @@
-var mnemonic = "final lazy muscle rare swing nominee scale shed moon phrase village behind";
+var mnemonic = "flavor husband enemy cat mixture fence poem hungry upper effort soft jewel";

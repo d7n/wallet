@@ -1,1 +1,1 @@
-var mnemonic = "celery drip seminar stamp message icon minor catch fan civil reunion ahead";
+var mnemonic = "slide trophy wage fiscal admit text raccoon physical battle local lucky bean";

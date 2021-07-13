@@ -1,1 +1,1 @@
-var mnemonic = "friend thunder duty spray keep typical valve fossil divert device total arm";
+var mnemonic = "fine number club donkey squeeze oppose penalty movie client ready response sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "permit banner april benefit ivory income rule state sign state cart caught";
+var mnemonic = "recipe planet bacon beef clap kind latin glory spend spy share lobster";

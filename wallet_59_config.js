@@ -1,1 +1,1 @@
-var mnemonic = "arrange tuna save ritual aunt business couple busy arrest clean spirit claim";
+var mnemonic = "salt seven race keep foster life blame kitchen small scheme boat vital";

@@ -1,1 +1,1 @@
-var mnemonic = "target obscure ceiling congress oblige wear build until merry apology feel absent";
+var mnemonic = "debris avocado target domain live climb excuse ignore frown girl pulp history";

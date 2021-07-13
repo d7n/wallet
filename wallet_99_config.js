@@ -1,1 +1,1 @@
-var mnemonic = "nose canoe green liquid creek cattle abstract police solar swing poet hurt";
+var mnemonic = "drum warrior lyrics kitchen cotton mobile cushion image list grit place screen";

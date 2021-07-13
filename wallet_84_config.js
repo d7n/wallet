@@ -1,1 +1,1 @@
-var mnemonic = "daring rare wild spatial myself more sing prison escape movie quick seven";
+var mnemonic = "chicken sleep expose feed deer awake opera zebra artwork toe slice follow";

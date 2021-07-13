@@ -1,1 +1,1 @@
-var mnemonic = "husband diagram olympic embrace much picture rescue during loyal disease sauce wink";
+var mnemonic = "muscle math tennis blossom horn mimic unknown second clock elder rug pulse";

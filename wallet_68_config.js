@@ -1,1 +1,1 @@
-var mnemonic = "custom million school multiply minute good charge deputy only rural immense street";
+var mnemonic = "sing joke balcony insect shy disorder claw benefit attract globe solve alert";

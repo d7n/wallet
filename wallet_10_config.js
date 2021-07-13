@@ -1,1 +1,1 @@
-var mnemonic = "match skate pen horror road boil blush romance used shy fatal rain";
+var mnemonic = "pear vote focus ten squeeze hungry dynamic fruit witness fiscal photo employ";

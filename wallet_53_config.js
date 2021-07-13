@@ -1,1 +1,1 @@
-var mnemonic = "rain maze spike learn brother devote oppose salon rural toss sweet term";
+var mnemonic = "adult into bus survey original square famous base enlist aisle rough organ";

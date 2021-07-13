@@ -1,1 +1,1 @@
-var mnemonic = "empty must crop permit focus august clarify bike way valley green frame";
+var mnemonic = "track cry where hole sand wish valve people emotion slogan shrimp spy";

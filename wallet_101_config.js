@@ -1,1 +1,1 @@
-var mnemonic = "sick uniform excess grain oppose census capital episode verify grief scorpion prepare";
+var mnemonic = "pepper buyer vivid advance become field diary finger clarify patch scissors about";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber gain nephew velvet hill iron have give happy brave increase force";
+var mnemonic = "cook surprise okay topple frown entire crunch sweet disease fault twist merry";

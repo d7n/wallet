@@ -1,1 +1,1 @@
-var mnemonic = "huge reunion napkin witness vault company relax shadow since candy add doctor";
+var mnemonic = "distance round theory horn churn size spirit chief route essay saddle dad";

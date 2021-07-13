@@ -1,1 +1,1 @@
-var mnemonic = "exercise person human duty mirror dose dress perfect choice unit brush excess";
+var mnemonic = "organ prefer marriage year remove update join mammal pull result crop know";

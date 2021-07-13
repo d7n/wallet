@@ -1,1 +1,1 @@
-var mnemonic = "famous another gesture soap dress tree piano quick position extend shrimp erase";
+var mnemonic = "tissue alcohol they pear cousin priority car van differ bullet brush cricket";

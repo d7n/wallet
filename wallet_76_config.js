@@ -1,1 +1,1 @@
-var mnemonic = "canvas treat defense enable hover cruise unveil world antenna unknown cinnamon grape";
+var mnemonic = "zero enroll illness great hint champion bundle wheat culture asthma suggest void";

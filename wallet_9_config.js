@@ -1,1 +1,1 @@
-var mnemonic = "identify drink rare release north exact sunset knife apple lion salon suspect";
+var mnemonic = "honey crisp tail cable divide pyramid divide vital abuse valve eye bread";

@@ -1,1 +1,1 @@
-var mnemonic = "essay rule unfair boil warfare kick enrich cage someone pear crack orphan";
+var mnemonic = "hair great arch cute swap shift work erase hawk remove coconut spare";

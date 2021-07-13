@@ -1,1 +1,1 @@
-var mnemonic = "eye domain message regret once valid need sibling retreat output error acid";
+var mnemonic = "piece cliff reduce bullet already urge misery roast region chair share ripple";

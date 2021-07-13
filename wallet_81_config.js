@@ -1,1 +1,1 @@
-var mnemonic = "pulp erase insect control brother proud curious direct digital join educate sketch";
+var mnemonic = "huge bench power vote quiz rail whale song robot swarm obtain prefer";

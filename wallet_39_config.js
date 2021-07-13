@@ -1,1 +1,1 @@
-var mnemonic = "submit boost whale tumble actor nurse blame extra knife salt usage decline";
+var mnemonic = "remember scout defense cry ripple wise toy tank exhibit toe brown hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "history entire ring ribbon cabin anchor evil lock forest stomach off zebra";
+var mnemonic = "casino later certain warm crisp proud gadget update model segment sense blanket";

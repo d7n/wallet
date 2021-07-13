@@ -1,1 +1,1 @@
-var mnemonic = "panic friend you brush rule dizzy doll world verb whale indoor direct";
+var mnemonic = "unhappy book sell same grid chapter online coil absorb jar trend possible";

@@ -1,1 +1,1 @@
-var mnemonic = "skin soup have middle exchange metal sphere pupil minimum buyer gorilla report";
+var mnemonic = "fever soul dream daughter fluid album device issue anchor antique minute green";

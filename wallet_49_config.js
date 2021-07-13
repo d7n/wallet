@@ -1,1 +1,1 @@
-var mnemonic = "champion sphere erosion find load mass dash onion edit asthma blind banner";
+var mnemonic = "junk clever giant nation phone lizard olive citizen follow sponsor ability keep";

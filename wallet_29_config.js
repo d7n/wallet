@@ -1,1 +1,1 @@
-var mnemonic = "fault alert hybrid hand what endless thumb fox kidney accident switch chair";
+var mnemonic = "case afford galaxy general lock often horn lock harbor hazard upset cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify grunt nephew hobby essence route category distance arch sister sweet ridge";
+var mnemonic = "shell myself inhale trap audit easily coil fence provide gossip primary reject";

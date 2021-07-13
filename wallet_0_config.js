@@ -1,1 +1,1 @@
-var mnemonic = "power all tent torch sugar brave next inform course actor chef civil";
+var mnemonic = "because depart elbow consider hazard service curious runway recall swamp found once";

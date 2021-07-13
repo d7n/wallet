@@ -1,1 +1,1 @@
-var mnemonic = "fox wise cross trouble bench must also sorry machine now seven piece";
+var mnemonic = "normal smile indoor ability tree voice farm one nice fitness edge beauty";

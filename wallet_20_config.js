@@ -1,1 +1,1 @@
-var mnemonic = "clown unveil vote puzzle job group category coral embody genre book cheap";
+var mnemonic = "woman ability repeat prevent space flash forward network appear blossom settle grant";

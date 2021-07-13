@@ -1,1 +1,1 @@
-var mnemonic = "town jeans record outdoor cupboard inherit bulb enlist method about upon erode";
+var mnemonic = "castle quote trumpet inmate round idle ring appear artefact spring faith guitar";

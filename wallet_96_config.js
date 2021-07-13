@@ -1,1 +1,1 @@
-var mnemonic = "monster segment sail notable select moment peanut float basic company wall inflict";
+var mnemonic = "scout gloom input gallery core item chalk fat pool alley crew lawn";

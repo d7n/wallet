@@ -1,1 +1,1 @@
-var mnemonic = "rhythm gift belt glad civil tone color surprise that diamond begin town";
+var mnemonic = "love artist abuse girl party long media guard gravity orient other ball";

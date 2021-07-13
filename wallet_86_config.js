@@ -1,1 +1,1 @@
-var mnemonic = "where fitness swarm view tumble usual farm luggage yard speed task local";
+var mnemonic = "traffic slim zoo winner brother rely just domain famous claim hospital pizza";

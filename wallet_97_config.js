@@ -1,1 +1,1 @@
-var mnemonic = "grow speak deer purpose endorse game taste kidney candy guess priority bargain";
+var mnemonic = "test holiday decade phrase flavor chest rally ketchup siege wrap pitch inspire";

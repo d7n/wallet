@@ -1,1 +1,1 @@
-var mnemonic = "keen drill work silver engine sing coral truly alpha bonus caught install";
+var mnemonic = "where soap engine inside estate cause lab result volume service fix regular";

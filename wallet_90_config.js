@@ -1,1 +1,1 @@
-var mnemonic = "seat become agent stem sun seminar load ridge degree subway fancy depend";
+var mnemonic = "put december all sudden climb own rally west credit among steel clip";

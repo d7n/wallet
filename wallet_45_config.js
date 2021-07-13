@@ -1,1 +1,1 @@
-var mnemonic = "plastic ketchup soldier spot maze appear turn stumble faith tunnel runway advance";
+var mnemonic = "peasant virtual crop coach category gun crack soon amused scorpion maximum exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin enrich know key any since neutral script doll husband office enough";
+var mnemonic = "genre sauce bacon beauty exercise time ecology dynamic repeat march useless diagram";

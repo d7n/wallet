@@ -1,1 +1,1 @@
-var mnemonic = "verify twice pretty monkey source slice stand muscle idle pupil lobster damp";
+var mnemonic = "melody medal hat expose exile improve wreck staff beach bird together comfort";

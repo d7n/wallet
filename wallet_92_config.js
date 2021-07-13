@@ -1,1 +1,1 @@
-var mnemonic = "version ignore couple brown fold ripple special merry baby rival pepper air";
+var mnemonic = "brick scale heart cancel great choice clarify shallow twenty cover suspect spatial";

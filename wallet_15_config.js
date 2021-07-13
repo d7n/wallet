@@ -1,1 +1,1 @@
-var mnemonic = "rude robot vault post rack tank copy lake unlock weapon before short";
+var mnemonic = "much business spray release source angle pluck poet rigid cigar happy helmet";

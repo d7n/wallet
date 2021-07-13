@@ -1,1 +1,1 @@
-var mnemonic = "paddle girl script stem try logic drift broccoli seek brand aunt dilemma";
+var mnemonic = "gentle stamp bonus pledge snow spike venue economy isolate company grief arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "bus gadget come regular ivory border salt account lyrics find guitar foam";
+var mnemonic = "soon patient fabric note method marriage voice tonight bacon tooth garage salad";

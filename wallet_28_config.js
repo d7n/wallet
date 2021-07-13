@@ -1,1 +1,1 @@
-var mnemonic = "giraffe deal actor price candy dad decade oval swear decorate comic globe";
+var mnemonic = "heavy ski liar input plunge source lizard jar wrong say brain melody";

@@ -1,1 +1,1 @@
-var mnemonic = "ten lock despair fit attend pottery chaos able pizza kick used use";
+var mnemonic = "mushroom ginger erosion antique staff relief door combine supreme animal energy flight";

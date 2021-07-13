@@ -1,1 +1,1 @@
-var mnemonic = "gravity fashion picnic spike time lake major alarm view foil stay bind";
+var mnemonic = "upper security hero march defy desert illness twenty abuse true lens capital";

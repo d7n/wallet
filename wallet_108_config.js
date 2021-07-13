@@ -1,1 +1,1 @@
-var mnemonic = "shift pole exist harbor injury better boost siege december hungry example hard";
+var mnemonic = "elevator spice disorder mix pottery lab device pudding property typical snow vehicle";

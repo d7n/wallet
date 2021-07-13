@@ -1,1 +1,1 @@
-var mnemonic = "learn slush good million version patrol basket birth kid divide advice rapid";
+var mnemonic = "rate evolve what tumble hello pattern umbrella kind iron practice security naive";

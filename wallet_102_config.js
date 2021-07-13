@@ -1,1 +1,1 @@
-var mnemonic = "open ready humor endless slow image match follow eternal daughter unveil siege";
+var mnemonic = "scene forest help daughter timber rhythm spin omit lawsuit social deputy coffee";

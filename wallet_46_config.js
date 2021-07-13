@@ -1,1 +1,1 @@
-var mnemonic = "essence neck perfect praise net arrange relax deputy palm census shrimp kangaroo";
+var mnemonic = "orbit riot health bleak senior appear swift charge element evil dry agent";

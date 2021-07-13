@@ -1,1 +1,1 @@
-var mnemonic = "gasp mix lawn flag hover ethics input dentist exact embrace tired exotic";
+var mnemonic = "loud office cradle snap glad suggest script voyage spin sure spice october";

@@ -1,1 +1,1 @@
-var mnemonic = "left friend blanket aisle expire olive absurd install lumber buffalo home drum";
+var mnemonic = "always field call delay term audit another great inside pass place view";

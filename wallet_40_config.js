@@ -1,1 +1,1 @@
-var mnemonic = "include leaf network album half protect bird cradle vanish divert length chest";
+var mnemonic = "miracle enter math fix nut style tool welcome nurse tennis nice maze";

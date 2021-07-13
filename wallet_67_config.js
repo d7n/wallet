@@ -1,1 +1,1 @@
-var mnemonic = "nerve prize category biology conduct wire slow cook echo ankle execute huge";
+var mnemonic = "evoke vacuum drip honey squeeze thought fitness boat spice decline tenant palace";

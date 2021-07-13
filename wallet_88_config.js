@@ -1,1 +1,1 @@
-var mnemonic = "reason change ivory roast cabbage entry among torch steak early hidden faculty";
+var mnemonic = "stick mask rally brick pistol exact tank canyon hair refuse camera cereal";

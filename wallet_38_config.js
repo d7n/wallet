@@ -1,1 +1,1 @@
-var mnemonic = "rapid eagle machine ordinary outside vacuum engine voice team rude clerk enter";
+var mnemonic = "alley avoid pepper pluck copper pigeon address empower speed lamp evil stay";

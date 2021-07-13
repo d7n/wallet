@@ -1,1 +1,1 @@
-var mnemonic = "duty bicycle keen wall oyster leaf arena purchase float vanish smile style";
+var mnemonic = "fragile price eyebrow people resemble peasant kick search salmon aisle host face";

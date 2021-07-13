@@ -1,1 +1,1 @@
-var mnemonic = "leader select shop clap object marine immense stomach lumber magnet island sound";
+var mnemonic = "oyster april relax brown picnic obey steel error derive rather clip puzzle";

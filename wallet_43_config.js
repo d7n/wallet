@@ -1,1 +1,1 @@
-var mnemonic = "dress brain absurd patient camera orphan source cross either sad pony cross";
+var mnemonic = "method example reopen girl grief transfer slight trophy visual clock critic image";

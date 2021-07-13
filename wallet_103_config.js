@@ -1,1 +1,1 @@
-var mnemonic = "artwork science iron tail muffin drink network rate vibrant water original gather";
+var mnemonic = "siege twelve exhibit range bone laundry talent human general bitter fantasy friend";

@@ -1,1 +1,1 @@
-var mnemonic = "nest reflect glide knee swamp offer differ gas cloth draw bubble black";
+var mnemonic = "feed frost wool infant slender debris future huge favorite response uphold carpet";

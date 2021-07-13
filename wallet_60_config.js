@@ -1,1 +1,1 @@
-var mnemonic = "amount mind typical scene pink wrestle adjust clock artwork clarify harbor abuse";
+var mnemonic = "uphold begin must open youth floor riot laugh neutral carbon dog afraid";

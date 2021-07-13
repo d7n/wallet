@@ -1,1 +1,1 @@
-var mnemonic = "evil segment grain innocent crane urge long deliver liberty crop depth weird";
+var mnemonic = "slam start push soup position judge provide wealth envelope lens slender slim";

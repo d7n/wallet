@@ -1,1 +1,1 @@
-var mnemonic = "surround horse hammer earn robust laugh river rebel whisper atom soccer olive";
+var mnemonic = "nerve merge fantasy unfold dragon already spot right under lab census network";

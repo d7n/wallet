@@ -1,1 +1,1 @@
-var mnemonic = "peace edge bracket sick ten scene lemon regret ugly plate differ amazing";
+var mnemonic = "uncle hero squeeze axis flush frost pudding monkey chalk fury brisk pupil";

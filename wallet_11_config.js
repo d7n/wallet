@@ -1,1 +1,1 @@
-var mnemonic = "neither actor tackle media slight bike rude artist current proof angle matrix";
+var mnemonic = "inside jacket onion water exile hint destroy wonder away cheese valve ten";

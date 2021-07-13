@@ -1,1 +1,1 @@
-var mnemonic = "ride salmon evil shoe stamp room one deal skate flame web glance";
+var mnemonic = "resource lawn gospel good wrong hidden immense lyrics inquiry green age amateur";

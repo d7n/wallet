@@ -1,1 +1,1 @@
-var mnemonic = "desert inch depth joy room transfer ensure double order museum helmet wolf";
+var mnemonic = "panda guard feed arrive render square man mansion keen super swing next";

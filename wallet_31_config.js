@@ -1,1 +1,1 @@
-var mnemonic = "virtual symbol orient nominee room army bulk tiny guess rookie sea hundred";
+var mnemonic = "two grunt rubber genuine snow pole utility oak soon recycle symbol welcome";
