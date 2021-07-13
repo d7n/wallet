@@ -1,1 +1,1 @@
-var mnemonic = "illegal season rose slogan stadium disease test bus grace fall submit slab";
+var mnemonic = "vacant dumb nerve clay control smoke update crush witness candy fitness undo";

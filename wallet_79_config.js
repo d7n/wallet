@@ -1,1 +1,1 @@
-var mnemonic = "only ski believe shoot excite fringe century boy people dish ring analyst";
+var mnemonic = "cute vapor juice skirt spring exclude iron wealth match pigeon clown fuel";

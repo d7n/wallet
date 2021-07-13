@@ -1,1 +1,1 @@
-var mnemonic = "elegant august jar rally submit evidence any credit illegal social transfer prosper";
+var mnemonic = "erupt sock aerobic add test embrace save outdoor patient earth whale blind";

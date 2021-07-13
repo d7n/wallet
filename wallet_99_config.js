@@ -1,1 +1,1 @@
-var mnemonic = "female one black endless someone dash beauty across chapter short project rare";
+var mnemonic = "supreme spice mammal resemble clump addict awful buddy grit width gym local";

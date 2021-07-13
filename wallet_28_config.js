@@ -1,1 +1,1 @@
-var mnemonic = "fitness account broom first morning group hurry glimpse ladder someone plate unit";
+var mnemonic = "bread stock bacon satoshi champion ceiling modify token security key donate monster";

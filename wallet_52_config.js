@@ -1,1 +1,1 @@
-var mnemonic = "theme lounge must sing thing infant that remain quantum equal swing today";
+var mnemonic = "any thunder broom drama evidence matter speak aunt crane page excess actress";

@@ -1,1 +1,1 @@
-var mnemonic = "only eight rifle increase mercy work busy prosper awesome project control mouse";
+var mnemonic = "present square swear roof swap tunnel group build filter smart bid weather";

@@ -1,1 +1,1 @@
-var mnemonic = "spice sure bulb glide topple other swamp cheap defense ketchup degree winner";
+var mnemonic = "invest hat inner enter pole prison frame letter permit symbol among sand";

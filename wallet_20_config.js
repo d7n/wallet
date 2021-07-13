@@ -1,1 +1,1 @@
-var mnemonic = "card misery travel poet mixture great express element diet little piece core";
+var mnemonic = "neglect office icon design because job impulse genre uncle usage lemon uniform";

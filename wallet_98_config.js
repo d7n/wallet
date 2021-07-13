@@ -1,1 +1,1 @@
-var mnemonic = "warfare hammer neglect clump ribbon powder state omit month wait nuclear final";
+var mnemonic = "inspire cricket relief maple system major cause food outdoor solid element wall";

@@ -1,1 +1,1 @@
-var mnemonic = "situate kidney mutual evolve valley owner nation federal monkey green tourist interest";
+var mnemonic = "zone rigid story caution story half trick control vibrant lens anxiety riot";

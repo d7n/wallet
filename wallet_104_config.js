@@ -1,1 +1,1 @@
-var mnemonic = "spray team tool plastic foot pitch magnet sniff eight south code census";
+var mnemonic = "hidden sea ceiling dash palace kitchen dog dwarf oxygen pear pyramid way";

@@ -1,1 +1,1 @@
-var mnemonic = "census kiwi degree ancient cook will veteran bounce boost peanut shaft globe";
+var mnemonic = "inform panther chair confirm focus pulp desk quiz trick strong gold boy";

@@ -1,1 +1,1 @@
-var mnemonic = "upset tobacco swamp diesel funny sausage detect silent kit deposit equip scissors";
+var mnemonic = "hollow earn fine dizzy shadow eight cabin purse shock sibling breeze arrive";

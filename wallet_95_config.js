@@ -1,1 +1,1 @@
-var mnemonic = "ability draw weather ladder ahead bright message outside fancy cheap beauty member";
+var mnemonic = "suffer join enroll same unhappy scare powder poet country camera slam adult";

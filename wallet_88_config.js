@@ -1,1 +1,1 @@
-var mnemonic = "ridge stay hamster practice riot trust young aunt cousin sauce install diagram";
+var mnemonic = "rhythm super split popular upon pool actress pelican relief analyst coffee bike";

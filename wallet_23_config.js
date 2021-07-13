@@ -1,1 +1,1 @@
-var mnemonic = "tip near debate borrow symbol casual room decade fiction stand expand tennis";
+var mnemonic = "crumble circle odor flame essence obey wealth luxury seed game suffer crime";

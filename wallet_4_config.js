@@ -1,1 +1,1 @@
-var mnemonic = "trade artwork earn omit soup aisle night silver token problem chief depend";
+var mnemonic = "barrel hero ethics choose scale supreme bottom exotic step express urban original";

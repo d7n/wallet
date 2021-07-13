@@ -1,1 +1,1 @@
-var mnemonic = "someone direct you gasp right van baby kitten cage crash swap uncle";
+var mnemonic = "involve option cake index later text wire galaxy evolve unfold hospital embrace";

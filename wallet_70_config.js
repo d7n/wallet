@@ -1,1 +1,1 @@
-var mnemonic = "trumpet cluster once rude dolphin payment diagram soup broken rent release margin";
+var mnemonic = "gift rug warm bird monitor angle water uniform dad profit nuclear egg";

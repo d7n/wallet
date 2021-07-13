@@ -1,1 +1,1 @@
-var mnemonic = "client boy enable fork cross monkey trophy portion tool cheese prefer into";
+var mnemonic = "fabric typical damage grunt joy fat connect zero clump barely pulp gift";

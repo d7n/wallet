@@ -1,1 +1,1 @@
-var mnemonic = "gloom deposit type spot toilet blade moment silver nose inquiry stumble october";
+var mnemonic = "fox sting project thought degree basic fury caught gift trouble avoid target";

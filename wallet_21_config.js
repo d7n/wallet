@@ -1,1 +1,1 @@
-var mnemonic = "drink snake over battle give wink sibling supply scorpion recall junk enact";
+var mnemonic = "fluid cost shoe prison once coin clap double foil bid author force";

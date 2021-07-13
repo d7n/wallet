@@ -1,1 +1,1 @@
-var mnemonic = "snap dream fiction feel caught desk waste check burst stadium battle number";
+var mnemonic = "toward sick girl tongue choose hip arrow session sign employ dutch seek";

@@ -1,1 +1,1 @@
-var mnemonic = "upon enter toddler random carbon pig ball palace mirror away sunset creek";
+var mnemonic = "hamster busy reunion table sea cross know liar hint aerobic sing parent";

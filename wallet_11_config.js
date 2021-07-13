@@ -1,1 +1,1 @@
-var mnemonic = "spell into license siren hub item deal memory gloom joke build arrange";
+var mnemonic = "budget drip blood imitate primary tower park hollow able rude tongue mistake";

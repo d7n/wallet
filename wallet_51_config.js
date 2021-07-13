@@ -1,1 +1,1 @@
-var mnemonic = "hammer hybrid upset thrive forward must make rice cook cake aisle system";
+var mnemonic = "peanut exact wealth obtain reunion roof shine tattoo enter assist divorce alone";

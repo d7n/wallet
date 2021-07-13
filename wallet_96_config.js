@@ -1,1 +1,1 @@
-var mnemonic = "subject moment aware cousin critic desk hungry such humble hand track stick";
+var mnemonic = "inch bus nerve merge wrestle youth cry curious lake cram quiz brass";

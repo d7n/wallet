@@ -1,1 +1,1 @@
-var mnemonic = "proof chair brick again focus actual peanut about initial dwarf citizen shiver";
+var mnemonic = "sorry group country such action blur climb report heart midnight boat empty";

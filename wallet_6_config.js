@@ -1,1 +1,1 @@
-var mnemonic = "exact broom search zero viable subway drift owner popular beef gauge video";
+var mnemonic = "gesture dust lab you siege weasel camera reform act repair idea unknown";

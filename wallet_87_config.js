@@ -1,1 +1,1 @@
-var mnemonic = "canoe below april average possible neck kind unaware perfect cactus seat cabbage";
+var mnemonic = "hello must evolve bamboo holiday age talent more juice account voyage broom";

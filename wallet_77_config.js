@@ -1,1 +1,1 @@
-var mnemonic = "margin will plug furnace entire card muffin husband borrow hat cost kingdom";
+var mnemonic = "insect immune famous void season hard elephant caution gift fatigue tattoo business";

@@ -1,1 +1,1 @@
-var mnemonic = "hard behind decade fresh test weasel rich saddle arena trend tumble badge";
+var mnemonic = "monkey blanket gather model element soup force library glance bright march athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal patient mosquito pottery art local grant verify inmate behind term syrup";
+var mnemonic = "carpet inmate similar fossil until steel pupil polar increase ladder elevator camp";

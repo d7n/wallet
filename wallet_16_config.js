@@ -1,1 +1,1 @@
-var mnemonic = "child canoe civil barrel abuse dirt foil rice feel answer allow person";
+var mnemonic = "disorder picture inhale latin kangaroo climb sponsor chronic wage debate wheel click";

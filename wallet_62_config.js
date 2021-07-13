@@ -1,1 +1,1 @@
-var mnemonic = "drama canoe history problem rich shove expand virus cart panic faculty sniff";
+var mnemonic = "immense awesome dragon luxury ripple neutral page pottery dizzy filter hood evoke";

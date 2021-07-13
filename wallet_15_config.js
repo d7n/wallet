@@ -1,1 +1,1 @@
-var mnemonic = "busy praise genre toe vivid embody cable chapter flee tribe vintage insane";
+var mnemonic = "cricket stove rebuild grit happy chicken indoor vacuum boring offer erupt enough";

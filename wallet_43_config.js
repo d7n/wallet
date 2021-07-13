@@ -1,1 +1,1 @@
-var mnemonic = "account patient vocal old urge armed mountain peanut other recipe round pottery";
+var mnemonic = "burden foot evolve thumb shell nurse recycle deputy walnut pond this buddy";

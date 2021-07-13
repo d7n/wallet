@@ -1,1 +1,1 @@
-var mnemonic = "jealous shop blanket noise moon shed junior address twist seed learn laundry";
+var mnemonic = "slab jungle orchard prosper frown outside always kick display uniform antique wheel";

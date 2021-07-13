@@ -1,1 +1,1 @@
-var mnemonic = "plug such boil fury sock merit silly dune rib cave near robust";
+var mnemonic = "report grab violin couple cost cross kiwi unique ill region sniff prize";

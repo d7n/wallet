@@ -1,1 +1,1 @@
-var mnemonic = "accident camp junior subway school entire old select seminar boring slight wear";
+var mnemonic = "tornado dismiss grab either file escape return blanket crouch dirt drink potato";

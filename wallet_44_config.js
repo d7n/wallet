@@ -1,1 +1,1 @@
-var mnemonic = "soft unaware crack gauge cloud jeans peasant fence entire able round early";
+var mnemonic = "photo mind frequent baby reopen prize symbol member alpha marine grain narrow";

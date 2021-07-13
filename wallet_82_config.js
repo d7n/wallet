@@ -1,1 +1,1 @@
-var mnemonic = "tissue slide glare figure voyage brisk spread ketchup eight whisper nose spy";
+var mnemonic = "air service hard approve match power such chair fame cave crime flash";

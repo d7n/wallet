@@ -1,1 +1,1 @@
-var mnemonic = "bullet scrub initial vocal genius gentle rough multiply office arch polar treat";
+var mnemonic = "bridge deliver metal umbrella memory valid enjoy simple airport equal method video";

@@ -1,1 +1,1 @@
-var mnemonic = "raven favorite document chuckle note they curve bench pink immense garlic cruel";
+var mnemonic = "spoon spend identify recall derive world venture prize mule humble artefact public";

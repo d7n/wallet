@@ -1,1 +1,1 @@
-var mnemonic = "rather kidney alert divide valid movie barrel outdoor ball siege ball cave";
+var mnemonic = "moment snap uniform jump cat start wild proud cute whale clump orbit";

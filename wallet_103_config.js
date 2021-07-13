@@ -1,1 +1,1 @@
-var mnemonic = "tornado glory stumble turkey ecology depart install copper rabbit truck receive recycle";
+var mnemonic = "exact blouse under moral energy second veteran seed switch trip caught swift";

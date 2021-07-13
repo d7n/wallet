@@ -1,1 +1,1 @@
-var mnemonic = "giant liberty better frown price they fragile wing mind endless apology diagram";
+var mnemonic = "inflict seminar impulse tribe tent velvet critic sort erupt october useless reject";

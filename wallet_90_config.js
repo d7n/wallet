@@ -1,1 +1,1 @@
-var mnemonic = "warm person obvious dilemma arena main monitor shrimp genuine expect series turkey";
+var mnemonic = "curious fame decrease benefit damage woman denial monkey usual sibling bomb sing";

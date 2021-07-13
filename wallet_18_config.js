@@ -1,1 +1,1 @@
-var mnemonic = "leg lift cheese blouse crystal iron pencil trigger access ghost great alcohol";
+var mnemonic = "enforce tray sport firm shallow vibrant recycle lamp comfort leisure tenant obey";

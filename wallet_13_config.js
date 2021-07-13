@@ -1,1 +1,1 @@
-var mnemonic = "crack credit endorse beyond present poverty atom arrive poverty undo identify tired";
+var mnemonic = "aerobic smoke slice unlock give tennis fade swear news solid own sibling";

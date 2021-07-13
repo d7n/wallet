@@ -1,1 +1,1 @@
-var mnemonic = "field still spend object share remember desert kid elegant immune project social";
+var mnemonic = "useful physical skate moment auto design grab old toilet jealous lion before";

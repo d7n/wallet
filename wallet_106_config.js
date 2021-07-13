@@ -1,1 +1,1 @@
-var mnemonic = "business chapter poet fetch genius plug sort asthma place fury omit car";
+var mnemonic = "hospital slogan tourist anger creek bright valid level filter decade kind fade";

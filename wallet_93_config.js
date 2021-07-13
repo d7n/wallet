@@ -1,1 +1,1 @@
-var mnemonic = "sock either hard service galaxy flee winner harvest cover color kangaroo raise";
+var mnemonic = "industry scrap survey step check carpet amount fancy borrow evil puppy dirt";

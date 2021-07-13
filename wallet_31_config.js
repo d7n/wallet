@@ -1,1 +1,1 @@
-var mnemonic = "inspire daughter blue picnic shoe inspire tower flight witness wing mouse day";
+var mnemonic = "ignore doctor photo script rice tide idea damage shield forest bicycle case";

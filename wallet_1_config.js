@@ -1,1 +1,1 @@
-var mnemonic = "report reject shaft cherry doctor obscure defy boring cricket grab pole suspect";
+var mnemonic = "street evolve damp spell resemble unit hurdle blush champion equal visa sing";

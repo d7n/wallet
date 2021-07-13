@@ -1,1 +1,1 @@
-var mnemonic = "subway hurdle assume slender insect luggage subway clock require example mystery topple";
+var mnemonic = "cost panel sport swim cloud option clinic ask maximum attack view popular";

@@ -1,1 +1,1 @@
-var mnemonic = "install critic place squeeze april lake dress donkey soup disorder pioneer copper";
+var mnemonic = "dash bottom chronic farm element attitude dove wreck sauce admit aim man";

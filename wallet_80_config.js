@@ -1,1 +1,1 @@
-var mnemonic = "anxiety nephew turtle trigger pool awful early craft gospel roast inmate core";
+var mnemonic = "kingdom pink surge two rule feature okay job winner moon mango climb";

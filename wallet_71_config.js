@@ -1,1 +1,1 @@
-var mnemonic = "fluid nut undo foot liar immense trash run suit such museum forum";
+var mnemonic = "lottery glad decrease bleak chef still arena fame noble ring buffalo gown";

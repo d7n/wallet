@@ -1,1 +1,1 @@
-var mnemonic = "pupil stay pepper roof soccer square mango zebra jeans brick cluster ginger";
+var mnemonic = "sister senior bike vendor lawsuit adult quality armor brick eager gadget silk";

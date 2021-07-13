@@ -1,1 +1,1 @@
-var mnemonic = "pudding wide walk orchard shop divide used nose two banner assault crime";
+var mnemonic = "peace false title pretty short hedgehog glory tip lunch energy quick juice";

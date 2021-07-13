@@ -1,1 +1,1 @@
-var mnemonic = "happy embark super brother equip poem gym term buzz today gym skirt";
+var mnemonic = "level october scrap forum clever off guitar pigeon royal release light guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "bless gun screen woman judge right sick point change warfare bracket vote";
+var mnemonic = "interest twin banana fossil swarm army chair tomorrow alarm seven riot fresh";

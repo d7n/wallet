@@ -1,1 +1,1 @@
-var mnemonic = "lawn slight phrase mesh raccoon plug menu warm ship hand weasel artefact";
+var mnemonic = "announce measure collect hood tonight true object oblige cigar paper jar oyster";

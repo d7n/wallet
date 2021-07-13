@@ -1,1 +1,1 @@
-var mnemonic = "grid alarm zoo sun lady gift book spirit shallow team ignore twin";
+var mnemonic = "kit mango reward ready kangaroo ship enemy clump caught process jealous steak";

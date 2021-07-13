@@ -1,1 +1,1 @@
-var mnemonic = "click silent soup wife blood mimic burst punch south luxury spatial rain";
+var mnemonic = "saddle across width moment approve flush repeat ribbon praise embody damp quote";

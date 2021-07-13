@@ -1,1 +1,1 @@
-var mnemonic = "trash despair confirm all velvet sorry belt tell sausage naive annual time";
+var mnemonic = "decade hire humor cross awake undo claim snap answer local glass rely";

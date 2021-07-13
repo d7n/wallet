@@ -1,1 +1,1 @@
-var mnemonic = "ball garden truly garden neutral enlist what dish robust stick stamp bundle";
+var mnemonic = "usual tree rain right rice alley celery slow layer hire entire plug";

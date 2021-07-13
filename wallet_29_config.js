@@ -1,1 +1,1 @@
-var mnemonic = "angle rotate floor wife velvet garment change student execute day sign deputy";
+var mnemonic = "top symptom category tissue account budget cause year marine north cancel people";

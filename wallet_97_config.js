@@ -1,1 +1,1 @@
-var mnemonic = "route silk column right mistake hip parent bargain distance forward time artist";
+var mnemonic = "useful pig wink square session route travel say return grant welcome about";

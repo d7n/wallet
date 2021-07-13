@@ -1,1 +1,1 @@
-var mnemonic = "empty share divert expect maze dinner stuff cost use arrive grain rebuild";
+var mnemonic = "junk copper upgrade remain small tiny isolate school dust naive tenant average";

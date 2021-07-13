@@ -1,1 +1,1 @@
-var mnemonic = "topic kid scorpion image casual wrestle friend success number concert nest derive";
+var mnemonic = "spider symptom orient install margin educate gun require memory because wait acoustic";

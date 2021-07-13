@@ -1,1 +1,1 @@
-var mnemonic = "round summer pistol salute unhappy thought rail road crystal toast name inner";
+var mnemonic = "crawl gossip syrup shaft iron nasty recall wish double asset kind space";

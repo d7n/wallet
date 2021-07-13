@@ -1,1 +1,1 @@
-var mnemonic = "media patch upper worth airport great reward win ability pond only grit";
+var mnemonic = "knife roast pluck island oil birth want home puzzle pencil together tongue";

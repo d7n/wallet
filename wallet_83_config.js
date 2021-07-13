@@ -1,1 +1,1 @@
-var mnemonic = "noise cream quality apple midnight scatter bargain spoon shine fall until depart";
+var mnemonic = "peasant brave join lava cross weather banner obvious raise hospital bulb victory";

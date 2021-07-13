@@ -1,1 +1,1 @@
-var mnemonic = "pupil clinic power core noodle hello card hire beach wedding problem ribbon";
+var mnemonic = "punch mimic hospital hold carry climb figure beyond cry twist point rapid";

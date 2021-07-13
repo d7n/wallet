@@ -1,1 +1,1 @@
-var mnemonic = "deposit poet episode point walk foil leader destroy peace abstract erosion judge";
+var mnemonic = "memory luggage chaos scout disagree fine need matrix fault world noise cross";

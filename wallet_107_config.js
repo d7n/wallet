@@ -1,1 +1,1 @@
-var mnemonic = "shrug achieve modify remind brown furnace morning mixed type world guess scatter";
+var mnemonic = "spray isolate bargain sustain clay space metal coconut sea climb foster tired";

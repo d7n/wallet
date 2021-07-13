@@ -1,1 +1,1 @@
-var mnemonic = "tomato hawk exhaust excuse coconut also economy wing nurse wrestle defense heart";
+var mnemonic = "soccer popular addict despair syrup now forum dynamic palm rice angry say";

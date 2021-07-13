@@ -1,1 +1,1 @@
-var mnemonic = "bulb violin later plate common civil spoil alter excite betray suggest hard";
+var mnemonic = "defense sight response trap talk gym vote coil enjoy cereal again describe";

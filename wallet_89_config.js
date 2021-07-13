@@ -1,1 +1,1 @@
-var mnemonic = "squirrel burger oblige pizza zebra bounce embrace hub mail young crack winner";
+var mnemonic = "raven wedding fury genuine wheel prepare parade void example news resist ski";

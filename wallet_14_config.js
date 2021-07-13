@@ -1,1 +1,1 @@
-var mnemonic = "grass basket ginger muffin pink ski uniform gallery mobile inspire champion insect";
+var mnemonic = "pulp butter rabbit ill peace illness mango weekend legend control flip method";

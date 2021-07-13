@@ -1,1 +1,1 @@
-var mnemonic = "chicken access various story tube invest orient egg struggle distance mango original";
+var mnemonic = "fresh provide iron dawn sister royal cigar jelly february invite vibrant warrior";

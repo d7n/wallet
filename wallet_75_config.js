@@ -1,1 +1,1 @@
-var mnemonic = "welcome shadow risk amused large reward vehicle lesson goose erosion script loyal";
+var mnemonic = "hawk swim pave hamster elegant bless grit one typical anger luxury forget";

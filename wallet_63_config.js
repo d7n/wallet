@@ -1,1 +1,1 @@
-var mnemonic = "race hope scatter rubber strategy force wife giant lion route tube journey";
+var mnemonic = "pitch sun gift summer credit front twelve seed bid dry slim glue";

@@ -1,1 +1,1 @@
-var mnemonic = "offer leave glad glare cheese broccoli repair health direct fall deputy kitten";
+var mnemonic = "boat upset saddle tuna wood march endorse oyster fetch mechanic dismiss dizzy";
