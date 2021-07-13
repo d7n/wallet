@@ -1,1 +1,1 @@
-var mnemonic = "dune drive coil sense pull asthma barrel law juice kiwi bitter jungle";
+var mnemonic = "pudding weapon stone attract dash regret general aim shrug eight until problem";

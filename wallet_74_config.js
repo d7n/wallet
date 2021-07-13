@@ -1,1 +1,1 @@
-var mnemonic = "output sketch flock patrol other machine where manual boat tone token puzzle";
+var mnemonic = "rate dynamic tail tube item punch ladder receive crowd traffic light hub";

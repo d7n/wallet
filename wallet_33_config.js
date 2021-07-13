@@ -1,1 +1,1 @@
-var mnemonic = "main kite hazard leg express success mansion skull mystery click soon adult";
+var mnemonic = "hurry solid crush spread castle walnut thank toss royal cover smile rally";

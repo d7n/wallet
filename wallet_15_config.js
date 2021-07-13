@@ -1,1 +1,1 @@
-var mnemonic = "giraffe fitness glide athlete knock neutral beyond clever panther liquid isolate shadow";
+var mnemonic = "seven stem dice envelope midnight say dutch soup arctic either thank lonely";

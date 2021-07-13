@@ -1,1 +1,1 @@
-var mnemonic = "intact luxury cloth asset pizza offer drink danger enter illegal limit oval";
+var mnemonic = "wheat rose deny obvious fade indoor style obey carry sadness setup fiscal";

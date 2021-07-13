@@ -1,1 +1,1 @@
-var mnemonic = "crater census you drill hold student apart morning favorite industry depth mango";
+var mnemonic = "machine riot consider distance document month desk loan receive exercise miss execute";

@@ -1,1 +1,1 @@
-var mnemonic = "segment picnic toe direct month sugar debate pill toilet life message spot";
+var mnemonic = "crowd mouse other caution blossom column obtain night phrase plate picnic help";

@@ -1,1 +1,1 @@
-var mnemonic = "any need stable wealth tennis kind skull pulp high skin base bless";
+var mnemonic = "grunt job suffer visit toss bird elder slide pool parent unhappy rather";

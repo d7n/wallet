@@ -1,1 +1,1 @@
-var mnemonic = "coffee flip seminar slice spice girl excess clutch brave capable invite health";
+var mnemonic = "wasp mango smooth rival public message fatigue maximum logic young flip novel";

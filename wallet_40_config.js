@@ -1,1 +1,1 @@
-var mnemonic = "tray essay blast ivory inner annual brave pigeon screen collect enable ribbon";
+var mnemonic = "wool size bone input space crouch agent ladder member lucky delay carbon";

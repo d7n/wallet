@@ -1,1 +1,1 @@
-var mnemonic = "hospital angry neither manage awkward ring joy frog attract uniform title sun";
+var mnemonic = "model buddy fresh step forest message enroll goose stuff infant mosquito person";

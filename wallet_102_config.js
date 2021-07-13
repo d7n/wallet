@@ -1,1 +1,1 @@
-var mnemonic = "spawn aunt fix another ability destroy rule spider uncover chest try any";
+var mnemonic = "walnut version finish work panda false mango apple cloud ensure napkin lens";

@@ -1,1 +1,1 @@
-var mnemonic = "april twelve long sell useless embark brick divert inside bunker decrease tired";
+var mnemonic = "emerge weird bracket flower second canyon brand century video exist comic reflect";

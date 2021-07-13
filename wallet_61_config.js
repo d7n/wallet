@@ -1,1 +1,1 @@
-var mnemonic = "fit owner help aware inspire furnace unknown because sing task isolate bullet";
+var mnemonic = "system reduce punch buffalo nest merit web rail camp rather barrel anxiety";

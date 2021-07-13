@@ -1,1 +1,1 @@
-var mnemonic = "yard photo ahead peasant real tobacco pottery club globe pulse frozen casino";
+var mnemonic = "mechanic huge smoke salt wagon maze forward decorate friend canyon quarter elevator";

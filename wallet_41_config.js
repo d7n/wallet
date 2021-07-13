@@ -1,1 +1,1 @@
-var mnemonic = "feed weapon drama noise list tuna leave guilt surprise enlist then hub";
+var mnemonic = "camp advance indicate jewel ritual cricket nominee autumn reason owner planet traffic";

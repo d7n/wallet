@@ -1,1 +1,1 @@
-var mnemonic = "cruise sleep diamond small lazy install execute barely alert crunch whisper scatter";
+var mnemonic = "ensure scout miss travel pave gentle bridge stem wise turn always divorce";

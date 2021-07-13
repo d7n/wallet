@@ -1,1 +1,1 @@
-var mnemonic = "diagram shaft flat museum young scout member fee label minute census sleep";
+var mnemonic = "extra tennis daring satisfy end struggle turn holiday volume among group choice";

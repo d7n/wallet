@@ -1,1 +1,1 @@
-var mnemonic = "wood margin picnic pistol net danger winner hand broom hawk question steak";
+var mnemonic = "pioneer casual ten mean arrest donkey army column deny noble boat orchard";

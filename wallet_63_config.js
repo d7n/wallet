@@ -1,1 +1,1 @@
-var mnemonic = "real reunion exile corn slow vibrant load duty artefact finish offer cake";
+var mnemonic = "situate flip price metal waste settle elegant awesome link box say best";

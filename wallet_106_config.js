@@ -1,1 +1,1 @@
-var mnemonic = "pulp ticket envelope heavy claw stable ring remove diesel cluster erase easy";
+var mnemonic = "trip extra hover pottery gap then zone special ethics rice inmate junior";

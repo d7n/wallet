@@ -1,1 +1,1 @@
-var mnemonic = "monster useless theme pretty medal scrap street render hurdle debris grain educate";
+var mnemonic = "truly eight harsh fetch sadness follow embark visa office category become wrong";

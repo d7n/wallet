@@ -1,1 +1,1 @@
-var mnemonic = "walnut foil letter planet empower spot chat glimpse pact monkey blossom swarm";
+var mnemonic = "wire cover segment kiss park aware change vessel near sketch nasty art";

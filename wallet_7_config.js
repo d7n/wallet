@@ -1,1 +1,1 @@
-var mnemonic = "tide usual adjust occur jump mystery master empty isolate lyrics rescue teach";
+var mnemonic = "cave twin silent stool mystery hundred march curve measure artist like champion";

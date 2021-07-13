@@ -1,1 +1,1 @@
-var mnemonic = "prefer whale shallow bottom gadget pride rain sister endless arm cannon danger";
+var mnemonic = "album body shoulder lizard eternal garlic end across slow ability spare either";

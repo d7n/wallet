@@ -1,1 +1,1 @@
-var mnemonic = "mad exclude club hire actress happy faith belt cluster mountain saddle magic";
+var mnemonic = "question slide basket assault old goddess clever enroll palm unhappy mountain agent";

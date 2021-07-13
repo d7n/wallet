@@ -1,1 +1,1 @@
-var mnemonic = "street garage empower menu dignity lion boil expose cactus spice armed obtain";
+var mnemonic = "hawk pulse exchange toward option square panel spare inside off patch despair";

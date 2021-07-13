@@ -1,1 +1,1 @@
-var mnemonic = "flee sort torch open swap mushroom where fat join range load message";
+var mnemonic = "wish crush royal laugh craft satoshi armor lady present guitar winter shuffle";

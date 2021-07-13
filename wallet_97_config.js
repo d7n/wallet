@@ -1,1 +1,1 @@
-var mnemonic = "chat together final token gossip brand real soccer clean whale era eagle";
+var mnemonic = "polar vapor repeat range cart holiday equal cost exclude proud milk enter";

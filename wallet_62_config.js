@@ -1,1 +1,1 @@
-var mnemonic = "praise erase airport curve rural plug rigid order jacket ill bargain audit";
+var mnemonic = "extra family sweet general annual bean worth scheme plunge bargain quit spawn";

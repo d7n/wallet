@@ -1,1 +1,1 @@
-var mnemonic = "canvas seek timber uniform meat sense village agree admit trend trial meadow";
+var mnemonic = "fatal split blade salt response gain weekend monster hair until adjust miracle";

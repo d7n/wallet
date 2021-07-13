@@ -1,1 +1,1 @@
-var mnemonic = "elder asthma coast brief resource tattoo ankle label cargo current effort blanket";
+var mnemonic = "trial mandate hospital brush fun east help bone evolve desert near divorce";

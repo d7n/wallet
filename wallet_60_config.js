@@ -1,1 +1,1 @@
-var mnemonic = "tray yellow secret leader stove pluck figure ancient general sell between spring";
+var mnemonic = "sauce want palm daughter book cat pole fetch print dignity glow matter";

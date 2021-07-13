@@ -1,1 +1,1 @@
-var mnemonic = "under giggle sauce pottery rent gather animal engage horn keep term capable";
+var mnemonic = "genre garlic similar find vote garden banner enter estate hard reopen case";

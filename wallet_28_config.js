@@ -1,1 +1,1 @@
-var mnemonic = "goose stool share utility cook blossom start key wink foster tortoise brain";
+var mnemonic = "hope van garden hire maple impose pilot oxygen noodle picture price reward";

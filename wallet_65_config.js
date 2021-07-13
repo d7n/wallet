@@ -1,1 +1,1 @@
-var mnemonic = "fresh bomb cash lend ice unit legend olive soap report media swap";
+var mnemonic = "kitten pilot already hope fiscal quit capital process coast hotel twelve bunker";

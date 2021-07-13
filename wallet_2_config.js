@@ -1,1 +1,1 @@
-var mnemonic = "spoil address walk ozone goat phrase invite excite life public cloth student";
+var mnemonic = "winner lobster young renew casual bracket senior crouch omit lumber amused bench";

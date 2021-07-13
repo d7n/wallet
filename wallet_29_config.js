@@ -1,1 +1,1 @@
-var mnemonic = "apple screen main twice dress sound reunion pledge early other myself alone";
+var mnemonic = "reflect where dawn patrol junk juice increase promote pilot arm cheese govern";

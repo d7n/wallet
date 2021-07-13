@@ -1,1 +1,1 @@
-var mnemonic = "east display into middle can floor horn network genuine pink acid stereo";
+var mnemonic = "mind sugar evoke useless practice bulb object ceiling two rail ridge skin";

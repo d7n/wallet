@@ -1,1 +1,1 @@
-var mnemonic = "cupboard until kitten jewel must fatigue excite other lend bounce basket bronze";
+var mnemonic = "cabbage cost goose fitness stand faint elbow elder neglect direct exact pen";

@@ -1,1 +1,1 @@
-var mnemonic = "distance apology fetch cage couple visa save state ramp alcohol net arch";
+var mnemonic = "head sheriff wolf bid company duck advance element pole syrup magic peace";

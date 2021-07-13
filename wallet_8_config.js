@@ -1,1 +1,1 @@
-var mnemonic = "oil pole east control blood student luggage fiscal give gorilla nice cradle";
+var mnemonic = "emerge arm tackle other toilet parrot spawn coral oval point smile circle";

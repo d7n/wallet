@@ -1,1 +1,1 @@
-var mnemonic = "budget success rude reward truck nation nation rain shuffle divert news leaf";
+var mnemonic = "boil path reopen pony use magic electric crazy creek expose enlist congress";

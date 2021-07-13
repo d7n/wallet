@@ -1,1 +1,1 @@
-var mnemonic = "satisfy case session actress build shaft car solution dignity high dinner captain";
+var mnemonic = "enhance devote twice inspire hope expect idle fabric flavor clinic rookie weekend";

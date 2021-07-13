@@ -1,1 +1,1 @@
-var mnemonic = "one avocado final jaguar extra intact obey subway enact rug imitate lazy";
+var mnemonic = "helmet night thank trim rotate inhale seed mail very until tongue robust";

@@ -1,1 +1,1 @@
-var mnemonic = "wash crater rate wild child hunt little like apart cup course output";
+var mnemonic = "love know dance start silver capital indicate chest laptop ancient wide parade";

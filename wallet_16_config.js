@@ -1,1 +1,1 @@
-var mnemonic = "tail now pudding acid vapor toy kite emerge general supply finger rally";
+var mnemonic = "tissue wasp keep elite demand flat rally soda heavy switch upper economy";

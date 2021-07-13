@@ -1,1 +1,1 @@
-var mnemonic = "cement relief indicate circle album message project shrug avoid kitchen never shell";
+var mnemonic = "acquire twenty razor kick elder illegal capable then lunar useless mirror obey";

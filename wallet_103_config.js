@@ -1,1 +1,1 @@
-var mnemonic = "mesh flock blame zebra top jewel page gentle faith shoulder stool kitten";
+var mnemonic = "source beach mercy pizza mad trust emotion require prison minor drink hope";

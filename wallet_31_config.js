@@ -1,1 +1,1 @@
-var mnemonic = "acid trap couple embrace theory broken over million people car drive tilt";
+var mnemonic = "income stuff badge million throw kingdom lucky reunion jealous sing lend okay";

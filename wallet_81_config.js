@@ -1,1 +1,1 @@
-var mnemonic = "depend ostrich fire atom marriage decline abuse much riot develop purse athlete";
+var mnemonic = "neutral brief gold suit solution ethics shed sister gloom roof advance announce";

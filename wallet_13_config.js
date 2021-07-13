@@ -1,1 +1,1 @@
-var mnemonic = "benefit please decrease zone short safe menu garden gallery snap fat clump";
+var mnemonic = "join youth filter glide consider decrease agree friend carry inform matrix twice";

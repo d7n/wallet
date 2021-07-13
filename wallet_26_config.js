@@ -1,1 +1,1 @@
-var mnemonic = "skin consider sword awkward cube donate fine craft truck okay exhaust angle";
+var mnemonic = "crisp party cage assault bright question tape swap school rare series arctic";

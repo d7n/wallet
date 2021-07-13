@@ -1,1 +1,1 @@
-var mnemonic = "student tiger express wink inside spot pact enter anger puppy aisle fault";
+var mnemonic = "quick frozen bench favorite thank wire eyebrow behave present trap discover across";

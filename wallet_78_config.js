@@ -1,1 +1,1 @@
-var mnemonic = "rapid defy sail flight mesh food prosper normal floor bottom regular useless";
+var mnemonic = "inch frequent morning cabbage civil fiber milk empty derive shaft cycle cabin";

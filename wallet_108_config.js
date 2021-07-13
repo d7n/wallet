@@ -1,1 +1,1 @@
-var mnemonic = "fox rose amateur popular screen distance summer yellow next audit lyrics art";
+var mnemonic = "spider crater mammal maple tunnel assault employ drift alley coconut umbrella drum";

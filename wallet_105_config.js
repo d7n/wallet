@@ -1,1 +1,1 @@
-var mnemonic = "sport blame advance tiger charge valve guess bar coin autumn ritual give";
+var mnemonic = "pipe glimpse foster pole sad must harvest school caution cereal daughter main";

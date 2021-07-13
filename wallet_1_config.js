@@ -1,1 +1,1 @@
-var mnemonic = "afford fetch abuse secret soap frame blush cheap before modify crew lobster";
+var mnemonic = "valley anchor medal vast affair remain snow dizzy hope vacant matrix utility";

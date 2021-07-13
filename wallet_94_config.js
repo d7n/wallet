@@ -1,1 +1,1 @@
-var mnemonic = "run across author biology digital joke trigger grid uncle material real afraid";
+var mnemonic = "alien grid zebra amazing plastic brief call whip resemble punch vague wine";

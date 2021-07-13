@@ -1,1 +1,1 @@
-var mnemonic = "carpet tide pluck slim spy sword monster dog oil dinner quiz aspect";
+var mnemonic = "general tortoise marriage either whale acoustic relief excite appear cube soft metal";

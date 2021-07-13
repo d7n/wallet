@@ -1,1 +1,1 @@
-var mnemonic = "accuse unusual phrase coach beauty short train rely blue swap train agent";
+var mnemonic = "cheese survey leaf slender census hint cement trap sun sword amateur wait";

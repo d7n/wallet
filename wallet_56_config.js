@@ -1,1 +1,1 @@
-var mnemonic = "tackle rug ladder trade enact recipe useless accuse brush lazy when finish";
+var mnemonic = "pill ski diagram concert alpha dial sketch volume scorpion slice own myself";

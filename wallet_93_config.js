@@ -1,1 +1,1 @@
-var mnemonic = "violin hawk icon nice give tiny crop reject pet cruel worry rifle";
+var mnemonic = "track cousin mimic next dry pony unknown stick time cram turn glad";

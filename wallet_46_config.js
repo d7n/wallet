@@ -1,1 +1,1 @@
-var mnemonic = "join rhythm detect online involve wrestle raven reflect vendor comic conduct gospel";
+var mnemonic = "expand siege among blouse family desert risk life drip shock peasant repeat";

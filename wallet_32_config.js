@@ -1,1 +1,1 @@
-var mnemonic = "champion unaware pear water budget crazy cinnamon arrange pigeon swift hawk eyebrow";
+var mnemonic = "hazard pave bid trim detect welcome call mercy dry dune across aim";

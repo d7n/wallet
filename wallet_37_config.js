@@ -1,1 +1,1 @@
-var mnemonic = "fury learn jeans cattle agree corn swap scrap never code purse carbon";
+var mnemonic = "member ball sea like hover smart cactus vacuum unable lock scale rose";

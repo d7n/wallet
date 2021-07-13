@@ -1,1 +1,1 @@
-var mnemonic = "benefit cradle mandate mixture again make place broccoli okay robot provide thrive";
+var mnemonic = "captain season lava inhale anger tattoo inmate culture choice dizzy repeat between";

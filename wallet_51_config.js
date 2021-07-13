@@ -1,1 +1,1 @@
-var mnemonic = "enjoy divert student video monster amused december step room faculty claw neutral";
+var mnemonic = "enough december talk object flag better buzz tenant fault hybrid weapon chair";

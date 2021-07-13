@@ -1,1 +1,1 @@
-var mnemonic = "impact chaos soap hawk twenty universe stock cloth rotate favorite finger rocket";
+var mnemonic = "execute arctic mask leave genre bench steak travel across canoe prefer know";

@@ -1,1 +1,1 @@
-var mnemonic = "banana what receive arctic dune funny despair jar lonely crush consider burger";
+var mnemonic = "humble snake minor furnace mass favorite monster clerk across uniform want trophy";

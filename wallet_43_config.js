@@ -1,1 +1,1 @@
-var mnemonic = "panel gasp vivid sunny fork cushion curious salute option until nuclear want";
+var mnemonic = "video rigid execute youth attack execute rebuild judge fine twice foster grape";

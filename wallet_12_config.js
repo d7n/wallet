@@ -1,1 +1,1 @@
-var mnemonic = "name sense rug because wear pass powder rocket alarm what jar enforce";
+var mnemonic = "resource champion image zoo essence world height hover plug gravity jaguar estate";

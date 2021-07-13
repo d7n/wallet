@@ -1,1 +1,1 @@
-var mnemonic = "enlist ship sustain breeze acid note ketchup thing virus together enjoy urge";
+var mnemonic = "mix deer always drum drip auction fatigue tattoo junior tourist clog mystery";

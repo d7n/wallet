@@ -1,1 +1,1 @@
-var mnemonic = "tape diesel spawn awful keep wool suffer celery hunt arrow shop virus";
+var mnemonic = "file luxury erupt give often nuclear bachelor home attitude elder art broom";

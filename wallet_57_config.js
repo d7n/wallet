@@ -1,1 +1,1 @@
-var mnemonic = "uniform spirit aware chalk teach scare solar strike coast reason usage vital";
+var mnemonic = "view harbor wing skate left risk ritual want start goddess small forward";

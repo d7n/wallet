@@ -1,1 +1,1 @@
-var mnemonic = "genius rather media cloth original check tag genuine hidden will lift work";
+var mnemonic = "leopard soup fame feature average smoke moment palm shift twin pizza answer";

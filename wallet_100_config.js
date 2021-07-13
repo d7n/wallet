@@ -1,1 +1,1 @@
-var mnemonic = "initial lion hawk bitter install limit sketch test legal canoe vibrant spoon";
+var mnemonic = "guilt fun festival attack knife symbol better celery annual bundle aspect seminar";

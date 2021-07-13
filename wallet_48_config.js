@@ -1,1 +1,1 @@
-var mnemonic = "help carry subject travel move upset evolve survey forget prosper gather dumb";
+var mnemonic = "giant salute lemon dance float vibrant police six reject toddler cherry harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal lift alien bargain light metal creek tent need duck atom pause";
+var mnemonic = "unhappy sand hockey mass tilt clinic fury remind pride banner wait flight";

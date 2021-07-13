@@ -1,1 +1,1 @@
-var mnemonic = "provide crunch verify salt music surge mandate blue swarm neutral potato busy";
+var mnemonic = "since setup puppy vanish magic curtain holiday flower wet feature vapor canoe";

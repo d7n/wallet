@@ -1,1 +1,1 @@
-var mnemonic = "leopard garage lunch suggest volcano access witness rich pepper thunder trigger retire";
+var mnemonic = "twist critic duty that invest build hospital element salon daughter way develop";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding spy purity pear oven this caught axis delay cluster winter wrist";
+var mnemonic = "rug frame voyage work silly weird become twenty flight retreat gaze document";

@@ -1,1 +1,1 @@
-var mnemonic = "middle mesh dizzy evoke wink shrug vacant consider black ritual advance sunny";
+var mnemonic = "bid outdoor nation hockey siege century promote buddy pulp chest click tattoo";

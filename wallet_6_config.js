@@ -1,1 +1,1 @@
-var mnemonic = "orchard course protect force fall puzzle music carpet breeze gate scan puppy";
+var mnemonic = "gentle tuna income because film novel fancy lunar rate huge torch travel";

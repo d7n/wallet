@@ -1,1 +1,1 @@
-var mnemonic = "only human certain run tape myth kind stuff orphan stereo report abstract";
+var mnemonic = "summer indicate egg collect clarify marine awkward chair trash fatigue found favorite";

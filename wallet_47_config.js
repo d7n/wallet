@@ -1,1 +1,1 @@
-var mnemonic = "attend canoe during call adult sentence prepare alien glove super human borrow";
+var mnemonic = "ridge animal east theory moral surround tomato possible syrup ugly bench sign";

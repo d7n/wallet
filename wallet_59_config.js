@@ -1,1 +1,1 @@
-var mnemonic = "naive merit table offer castle film shiver blast sniff transfer absorb system";
+var mnemonic = "enable copper divide cliff enemy verb blanket lumber kingdom bring any hurry";
