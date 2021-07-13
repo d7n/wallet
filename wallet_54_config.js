@@ -1,1 +1,1 @@
-var mnemonic = "spider peace toddler scale attitude clerk airport solid potato sister fiction talent";
+var mnemonic = "spoon october remain invite galaxy cook again that auction knee note proof";

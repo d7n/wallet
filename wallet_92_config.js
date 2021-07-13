@@ -1,1 +1,1 @@
-var mnemonic = "over usual gesture hurdle number village turkey aisle subway muffin glove improve";
+var mnemonic = "unfold real slender captain earth note police now digital click deliver private";

@@ -1,1 +1,1 @@
-var mnemonic = "armor exist solid collect shoot wrist sadness ecology execute dizzy interest decade";
+var mnemonic = "chronic security general case distance grow educate multiply heart rail wisdom erode";

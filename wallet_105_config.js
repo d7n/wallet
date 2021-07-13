@@ -1,1 +1,1 @@
-var mnemonic = "eagle squirrel script soldier chaos gun develop maze soon crowd egg develop";
+var mnemonic = "floor rose stamp offer escape stick kit nerve home gas column plastic";

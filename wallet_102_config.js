@@ -1,1 +1,1 @@
-var mnemonic = "mobile easy perfect rug describe swallow what midnight what hybrid auto snow";
+var mnemonic = "enact bring swallow avoid spread file change morning crazy cattle fabric desert";

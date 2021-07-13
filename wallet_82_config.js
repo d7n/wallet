@@ -1,1 +1,1 @@
-var mnemonic = "stamp theory zebra profit duty six lady rule fringe still animal educate";
+var mnemonic = "salon master timber step success phrase tube tragic segment accuse duck raw";

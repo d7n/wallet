@@ -1,1 +1,1 @@
-var mnemonic = "eagle sword appear picture buyer hour snow pencil neutral record enforce light";
+var mnemonic = "jump hero manage daughter border include surprise burden three zone blur rug";

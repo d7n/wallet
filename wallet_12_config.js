@@ -1,1 +1,1 @@
-var mnemonic = "solution toddler diamond wrestle pistol element apple mimic december token card battle";
+var mnemonic = "what then foam umbrella indoor liberty bleak purity barely action warrior miracle";

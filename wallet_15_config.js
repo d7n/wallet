@@ -1,1 +1,1 @@
-var mnemonic = "layer sauce domain bundle sniff regret drink enroll fly post fatigue alley";
+var mnemonic = "satisfy unusual fruit clip resource fall woman pottery vibrant call company hurdle";

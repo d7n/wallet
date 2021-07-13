@@ -1,1 +1,1 @@
-var mnemonic = "clip cram number segment cheese laptop hurt despair recycle wood travel cup";
+var mnemonic = "balcony wide prosper exhaust radar noble arrange battle tattoo kidney west what";

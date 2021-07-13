@@ -1,1 +1,1 @@
-var mnemonic = "pride outdoor behave love wage baby chunk cycle case rack shoulder citizen";
+var mnemonic = "announce climb rug citizen shell lecture settle tourist wedding erosion upper quit";

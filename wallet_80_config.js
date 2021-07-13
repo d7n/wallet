@@ -1,1 +1,1 @@
-var mnemonic = "improve make mechanic caution siren grain whip rent chaos record wait rice";
+var mnemonic = "rule version open artefact issue paper punch lock shop rifle prize above";

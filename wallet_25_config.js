@@ -1,1 +1,1 @@
-var mnemonic = "wisdom canyon fatal regular ribbon umbrella hammer cheese turn torch romance stomach";
+var mnemonic = "unaware marriage possible finish dress plug alpha object major wheel trouble foam";

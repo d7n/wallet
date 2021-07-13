@@ -1,1 +1,1 @@
-var mnemonic = "clean cover oyster child system olive syrup garment ivory property business theory";
+var mnemonic = "race embark afraid south crystal carpet now love security review glare park";

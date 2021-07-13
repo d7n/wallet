@@ -1,1 +1,1 @@
-var mnemonic = "next maze advice trip involve sound neck blush arm dynamic picnic wage";
+var mnemonic = "slogan joy limit vague medal ill room mass present image token arm";

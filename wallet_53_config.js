@@ -1,1 +1,1 @@
-var mnemonic = "song rural area jump elegant chest gospel sock stock faith inject relief";
+var mnemonic = "inside guitar style question stereo try fitness brother talk cheap frozen guide";

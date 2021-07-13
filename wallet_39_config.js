@@ -1,1 +1,1 @@
-var mnemonic = "uncover shift replace business bag add maple alcohol recycle scorpion lunar outer";
+var mnemonic = "badge scrap cotton august abstract check demand pact rookie desert spoon whale";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit venture supreme rely misery business spin draft fitness attack that hammer";
+var mnemonic = "state sword horse wife radar jealous air series small naive romance scene";

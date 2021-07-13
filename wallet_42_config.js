@@ -1,1 +1,1 @@
-var mnemonic = "dune math assume canal guitar glide lens time lonely fit lock mixture";
+var mnemonic = "napkin sun festival distance marble paper depart void upset doll stable cause";

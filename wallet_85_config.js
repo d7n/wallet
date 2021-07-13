@@ -1,1 +1,1 @@
-var mnemonic = "breeze immune mansion broken robust swarm goose deny drama price soldier output";
+var mnemonic = "draft quit soft wood zero when entry few cart dad time buyer";

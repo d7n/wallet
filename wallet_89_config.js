@@ -1,1 +1,1 @@
-var mnemonic = "window lucky earn about utility screen endless strong cat birth surprise sunny";
+var mnemonic = "dutch will alert humor excite answer advice night pizza despair patrol rail";

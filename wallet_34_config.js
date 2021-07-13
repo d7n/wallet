@@ -1,1 +1,1 @@
-var mnemonic = "dove calm into wrap mutual turkey spray relax embark harbor employ dizzy";
+var mnemonic = "autumn useless bid hope level mass fatal machine van decrease tent slush";

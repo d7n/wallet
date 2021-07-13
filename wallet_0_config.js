@@ -1,1 +1,1 @@
-var mnemonic = "sock chaos spin hard nice pony include lumber body sock ostrich author";
+var mnemonic = "cube grain unlock harbor strategy will crumble poem swallow dismiss primary risk";

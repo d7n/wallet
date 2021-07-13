@@ -1,1 +1,1 @@
-var mnemonic = "innocent coconut uphold ripple chief exhaust idea balance private mixed slide over";
+var mnemonic = "unusual wine april cat picture bamboo parrot ginger dial ethics phone annual";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic grief west immense jump annual ugly nuclear minimum bone damp law";
+var mnemonic = "cool popular rebel discover today chicken among spy arrest clay lawsuit capable";

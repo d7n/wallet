@@ -1,1 +1,1 @@
-var mnemonic = "find cable music alone hybrid major catch asset peace surface option regret";
+var mnemonic = "educate foster illegal injury elevator cement know sausage admit much call describe";

@@ -1,1 +1,1 @@
-var mnemonic = "potato level sing parade analyst slim unusual volcano cliff absurd oil person";
+var mnemonic = "aim simple uncover dust debris tower abandon pizza peace marriage purchase together";

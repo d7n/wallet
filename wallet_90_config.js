@@ -1,1 +1,1 @@
-var mnemonic = "ranch warm opera position dust cannon system edge miracle sing kitten violin";
+var mnemonic = "window attend right latin crouch dragon hundred donate clap gold canyon leisure";

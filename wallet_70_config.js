@@ -1,1 +1,1 @@
-var mnemonic = "sunny wave near nominee season payment review live spare attend frequent label";
+var mnemonic = "eagle answer icon slam outdoor used flush defy reflect tattoo crack sad";

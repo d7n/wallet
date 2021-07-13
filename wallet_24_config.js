@@ -1,1 +1,1 @@
-var mnemonic = "rocket poem lounge saddle episode struggle private million foil move live image";
+var mnemonic = "practice dry couch parade maple focus vehicle one food nephew flush weapon";

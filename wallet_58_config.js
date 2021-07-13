@@ -1,1 +1,1 @@
-var mnemonic = "sting child plug sun zebra glue faith session uniform curious drama suspect";
+var mnemonic = "space lottery stage below diet toddler identify fly wave absurd help square";

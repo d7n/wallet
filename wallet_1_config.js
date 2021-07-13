@@ -1,1 +1,1 @@
-var mnemonic = "blush pole pool lab gasp dance breeze direct enrich gold clog warrior";
+var mnemonic = "silk strike average shoot later salute fall caution wheel hedgehog shock extra";

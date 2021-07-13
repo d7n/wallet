@@ -1,1 +1,1 @@
-var mnemonic = "wide mule diary label stone hurdle crisp skate basket beach dove tissue";
+var mnemonic = "little mosquito warrior clean purse panda again two health obey subway yellow";

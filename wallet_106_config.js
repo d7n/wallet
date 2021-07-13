@@ -1,1 +1,1 @@
-var mnemonic = "arm divorce melt extend jewel train wolf mother jealous mosquito smooth food";
+var mnemonic = "labor maximum bacon wrong guard fantasy piano panel era cloud pipe month";

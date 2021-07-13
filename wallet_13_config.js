@@ -1,1 +1,1 @@
-var mnemonic = "expect vapor phrase style devote file wife arrange inspire supreme casino bomb";
+var mnemonic = "east jeans program exchange advance fringe enter smile bundle mystery salad hood";

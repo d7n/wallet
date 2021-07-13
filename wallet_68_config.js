@@ -1,1 +1,1 @@
-var mnemonic = "differ rhythm mouse fiction improve angle flower breeze entire tobacco shrimp energy";
+var mnemonic = "renew snack sausage express outer pizza ticket prison program clutch brass cabin";

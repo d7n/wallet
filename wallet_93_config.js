@@ -1,1 +1,1 @@
-var mnemonic = "example educate feed drip tribe ghost inject dial crane style envelope good";
+var mnemonic = "smooth arrow deposit patient play hole globe auction code donor cruise sorry";

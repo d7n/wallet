@@ -1,1 +1,1 @@
-var mnemonic = "merry daring awful fluid survey topic gather blur couch jazz myth attitude";
+var mnemonic = "maze velvet midnight flash lecture buyer bus original slogan aerobic list pet";

@@ -1,1 +1,1 @@
-var mnemonic = "essay source catch portion gossip pact home trend body speak asset pretty";
+var mnemonic = "concert dune depart believe relax weather push brick tourist this rain ahead";

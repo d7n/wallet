@@ -1,1 +1,1 @@
-var mnemonic = "inhale today control light exit quick behave over present kiwi scrub lunch";
+var mnemonic = "legend sign entry practice wild luxury dash patch moral dirt fragile mail";

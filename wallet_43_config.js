@@ -1,1 +1,1 @@
-var mnemonic = "warrior heavy short bean pyramid north riot defense east pepper good unlock";
+var mnemonic = "strong aunt oyster sing rubber ceiling any ethics claw prosper waste column";

@@ -1,1 +1,1 @@
-var mnemonic = "train plastic biology that pole junk dragon dinosaur push bracket laundry viable";
+var mnemonic = "enable muffin disease legend assume saddle answer lawsuit human banana level topic";

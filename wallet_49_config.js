@@ -1,1 +1,1 @@
-var mnemonic = "nerve forward regular pottery panda river slice hundred neglect clock use stable";
+var mnemonic = "moral meadow coin mandate hedgehog radar soap defense monkey van session leaf";

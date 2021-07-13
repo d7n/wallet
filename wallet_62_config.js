@@ -1,1 +1,1 @@
-var mnemonic = "yellow shed journey duck visa student picture shrug potato angry apple staff";
+var mnemonic = "deal hedgehog cash awesome fruit carbon radio furnace gasp dog arrow hobby";

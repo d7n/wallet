@@ -1,1 +1,1 @@
-var mnemonic = "letter theory clever ramp energy gravity half make drama dune foster uncle";
+var mnemonic = "gun denial route slight radar dove stuff potato swim room save trim";

@@ -1,1 +1,1 @@
-var mnemonic = "album quit return satisfy around truck virus kangaroo ceiling enroll bring merge";
+var mnemonic = "snake science sibling garment search trade near thumb real trim board best";

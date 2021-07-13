@@ -1,1 +1,1 @@
-var mnemonic = "clump same sleep drive stamp misery caught sniff wood word scatter mandate";
+var mnemonic = "fan fix reopen public inquiry sadness feature utility obey celery retreat trip";

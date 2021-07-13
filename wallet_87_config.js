@@ -1,1 +1,1 @@
-var mnemonic = "famous salad print baby copper craft witness stable room estate begin record";
+var mnemonic = "entire favorite cloud want inquiry unique fabric cat accident chimney museum leisure";

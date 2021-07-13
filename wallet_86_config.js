@@ -1,1 +1,1 @@
-var mnemonic = "snow between shy witness rescue veteran bring purse ladder island kind must";
+var mnemonic = "total opinion brisk spider economy cloth main husband burger trouble fancy yellow";

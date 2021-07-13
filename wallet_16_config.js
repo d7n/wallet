@@ -1,1 +1,1 @@
-var mnemonic = "modify defy scan move virtual fetch laptop merge few pioneer gesture action";
+var mnemonic = "borrow advance state focus just orbit step rich boil ready warrior clinic";

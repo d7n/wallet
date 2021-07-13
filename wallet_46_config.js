@@ -1,1 +1,1 @@
-var mnemonic = "spawn return mom path protect govern job machine sweet large miss woman";
+var mnemonic = "inherit prison ribbon gap steak evil sleep width sauce solve insane tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "better senior canoe fortune joke grab museum strike shy observe asthma economy";
+var mnemonic = "earn task move surround pulp move banner expire execute chase plate caution";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll hill bullet junk side into ice panda furnace brain talk access";
+var mnemonic = "stamp risk plunge wine lumber that danger cherry honey mesh shiver vague";

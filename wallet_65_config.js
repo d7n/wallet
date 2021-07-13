@@ -1,1 +1,1 @@
-var mnemonic = "retire maximum detect category select toy decorate leave empty fitness convince rail";
+var mnemonic = "buzz exact bean scale reason country dry item calm zone where leave";

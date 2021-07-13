@@ -1,1 +1,1 @@
-var mnemonic = "plunge debate grace promote banner knife october occur install wheat pause rookie";
+var mnemonic = "capital box stove slim favorite soul almost much prevent country talk unlock";

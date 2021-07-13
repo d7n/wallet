@@ -1,1 +1,1 @@
-var mnemonic = "cluster afford wife peanut crane advice chase chicken breeze dream marble team";
+var mnemonic = "cousin clap liar fetch napkin trial reform human cradle course shrimp bubble";

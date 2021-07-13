@@ -1,1 +1,1 @@
-var mnemonic = "page wise perfect annual crime twenty addict sudden champion there believe rocket";
+var mnemonic = "life torch custom journey print excite zoo nothing elder visual suit party";

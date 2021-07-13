@@ -1,1 +1,1 @@
-var mnemonic = "joy assume chronic afford ocean million above remove sport budget enable garbage";
+var mnemonic = "naive collect stumble moment three section ginger erase wrist lamp camera mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "street soup bulb punch athlete thumb oyster near ready raccoon choice feature";
+var mnemonic = "betray cousin choice level region pattern sleep aunt settle roof maximum announce";

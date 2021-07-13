@@ -1,1 +1,1 @@
-var mnemonic = "avocado educate must senior analyst green satoshi blouse hip club extend afford";
+var mnemonic = "meat scrap level stove join certain cute cabbage nephew pig hub use";

@@ -1,1 +1,1 @@
-var mnemonic = "close sustain humble nest evolve cage cargo net short cage saddle fix";
+var mnemonic = "chalk capable burger approve elder abandon marriage display illegal space jungle across";

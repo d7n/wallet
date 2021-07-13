@@ -1,1 +1,1 @@
-var mnemonic = "jeans plug promote vibrant first rail uniform twice myth stay clay news";
+var mnemonic = "spawn retreat behave burden offer edge bundle second enjoy mechanic switch device";

@@ -1,1 +1,1 @@
-var mnemonic = "legal police manage annual unhappy anchor august ski silent attract can abstract";
+var mnemonic = "bulk payment inch another copy desert lift good donate letter help bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "baby elephant goat giggle dynamic forum lonely tennis erosion expose first comfort";
+var mnemonic = "habit divide umbrella still two motion strategy walk basket goose service please";

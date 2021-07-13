@@ -1,1 +1,1 @@
-var mnemonic = "prosper proof pretty cereal double slender jacket juice open spoon pigeon enforce";
+var mnemonic = "cloth exotic chair bleak wait humble wire frequent dash pattern tube advance";

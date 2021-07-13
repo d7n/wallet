@@ -1,1 +1,1 @@
-var mnemonic = "oxygen crowd traffic fuel hockey survey ostrich melody enable begin current spot";
+var mnemonic = "spider evoke bless inspire picture wagon siren legend bomb apple wall spice";

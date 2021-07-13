@@ -1,1 +1,1 @@
-var mnemonic = "grab hard amateur approve chaos fever tape squeeze lyrics wink birth elbow";
+var mnemonic = "recipe harbor nice penalty expand photo fiscal vital park giant castle enable";

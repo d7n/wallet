@@ -1,1 +1,1 @@
-var mnemonic = "submit verb tissue pride suspect traffic great donkey laptop never pretty lock";
+var mnemonic = "matter air manual toe primary foster friend question roof admit foam naive";

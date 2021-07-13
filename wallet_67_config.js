@@ -1,1 +1,1 @@
-var mnemonic = "example imitate welcome bitter chair annual donor tornado spare mail silly ball";
+var mnemonic = "mosquito silk fossil meadow exact ring inject jelly present example abandon sun";

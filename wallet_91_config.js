@@ -1,1 +1,1 @@
-var mnemonic = "adapt opera luxury tuition face globe other lounge thought rocket legend effort";
+var mnemonic = "opinion deal slender arrange carbon husband exit best around walk beach matrix";

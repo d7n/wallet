@@ -1,1 +1,1 @@
-var mnemonic = "farm catch cube enroll cup tube kit author tomato awful outside drastic";
+var mnemonic = "illegal divert tuna squirrel movie enlist exercise leopard circle cherry ripple topic";

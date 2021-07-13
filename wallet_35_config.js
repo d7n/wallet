@@ -1,1 +1,1 @@
-var mnemonic = "coil equip fold claim hair hand common asset run scene ranch girl";
+var mnemonic = "bottom life acquire nominee you bracket post throw used puppy language student";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm talent plunge blouse must cup write payment legal chalk beef fly";
+var mnemonic = "position item busy wall cat ensure oval genuine mesh yellow loud draw";

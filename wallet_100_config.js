@@ -1,1 +1,1 @@
-var mnemonic = "club half dad engage hair limb dry crumble moment worth border mandate";
+var mnemonic = "flip great error seed auction diary damage tag jar violin project husband";

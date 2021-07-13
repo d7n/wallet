@@ -1,1 +1,1 @@
-var mnemonic = "just salute save poem record body tone below hair frown nuclear glance";
+var mnemonic = "coin point delay goat churn front stock account hollow power antique winner";

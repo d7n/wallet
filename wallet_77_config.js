@@ -1,1 +1,1 @@
-var mnemonic = "tide ocean region put toss cigar goat cool ketchup clap south pluck";
+var mnemonic = "lobster paddle curious wall claw retire prison achieve pistol like turtle rose";

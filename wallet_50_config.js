@@ -1,1 +1,1 @@
-var mnemonic = "slice scrub neglect hockey hawk hill ice blue rifle beach merry expose";
+var mnemonic = "hard define retire left couple lamp civil often emerge dial retreat glow";

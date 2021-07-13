@@ -1,1 +1,1 @@
-var mnemonic = "decrease conduct pull antique differ joy egg magic emerge digital knee shine";
+var mnemonic = "wheat talent wife bus prepare zone license grape corn two deputy eyebrow";

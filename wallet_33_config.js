@@ -1,1 +1,1 @@
-var mnemonic = "focus arctic harbor gold own sand carpet airport thought engage bring mosquito";
+var mnemonic = "color lunar horse empty leisure smooth curtain cry wage post jeans critic";

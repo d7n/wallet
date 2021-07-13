@@ -1,1 +1,1 @@
-var mnemonic = "erupt find dragon motor inject rib rhythm soft usage little grape vehicle";
+var mnemonic = "obvious craft supreme tunnel cannon subject purpose furnace beef blush inject because";

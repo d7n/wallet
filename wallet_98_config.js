@@ -1,1 +1,1 @@
-var mnemonic = "lemon frog size pill dish mule card occur tackle scan diary acoustic";
+var mnemonic = "copy broccoli rug metal shift tumble artist upper code recycle museum exhaust";

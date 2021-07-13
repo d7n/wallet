@@ -1,1 +1,1 @@
-var mnemonic = "card judge poverty crash sphere what must verb ordinary novel various fine";
+var mnemonic = "strategy seminar taste tower urban pumpkin wheel hill salon skirt method glide";

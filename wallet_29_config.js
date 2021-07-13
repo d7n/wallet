@@ -1,1 +1,1 @@
-var mnemonic = "reward sponsor word swear make opinion orphan price barely girl art envelope";
+var mnemonic = "negative jeans lobster coil license section analyst logic hand luxury enrich rib";

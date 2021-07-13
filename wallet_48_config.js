@@ -1,1 +1,1 @@
-var mnemonic = "bus error twist stage denial topple medal light plastic engine car paper";
+var mnemonic = "sunny planet where dad valid thing impulse chief harbor ability print bid";

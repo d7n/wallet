@@ -1,1 +1,1 @@
-var mnemonic = "direct day crawl poverty feed enlist jeans soul churn segment carbon spot";
+var mnemonic = "weird chat water silly have liar tobacco woman find jacket reject ability";
